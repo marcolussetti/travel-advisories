@@ -1,0 +1,1486 @@
+[
+    {
+        "destination": "Afghanistan",
+        "risk_level": "Level 4: Do Not Travel",
+        "last_updated": "2025-01-13T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/afghanistan-advisory.html",
+        "risk_level_number": 4
+    },
+    {
+        "destination": "Albania",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-12-31T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/albania-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Algeria",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-09-26T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/algeria-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Andorra",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2023-07-26T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/andorra-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Angola",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-09-23T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/angola-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Anguilla",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-08-22T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/anguilla-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Antarctica",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-05-29T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/antarctica-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Antigua and Barbuda",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-08-22T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/antigua-and-barbuda-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Argentina",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-09-20T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/argentina-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Armenia",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-04-09T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/armenia-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Aruba",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-08-19T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/aruba-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Australia",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2023-09-08T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/australia-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Austria",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-08-23T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/austria-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Azerbaijan",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2023-11-02T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/azerbajian-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Bahrain",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-09-09T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/bahrain-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Bangladesh",
+        "risk_level": "Level 3: Reconsider Travel",
+        "last_updated": "2024-09-11T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/bangladesh-travel-advisory.html",
+        "risk_level_number": 3
+    },
+    {
+        "destination": "Barbados",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-08-22T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/barbados-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Belarus",
+        "risk_level": "Level 4: Do Not Travel",
+        "last_updated": "2024-12-18T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/belarus-travel-advisory.html",
+        "risk_level_number": 4
+    },
+    {
+        "destination": "Belgium",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2023-07-26T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/belgium-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Belize",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-12-30T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/belizetravel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Benin",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-05-24T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/benin-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Bermuda",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-11-12T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/bermuda-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Bhutan",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-06-26T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/bhutan-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Bolivia",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-06-06T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/bolivia-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Bonaire",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-08-19T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/bonaire-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Bosnia and Herzegovina",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-12-12T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/bosinia-and-herzegovina-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Botswana",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-02-26T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/botswana-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Brazil",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2023-10-19T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/brazil-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "British Virgin Islands",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-08-22T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/british-virgin-islands-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Brunei",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2023-12-19T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/brunei-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Bulgaria",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-08-15T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/bulgaria-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Burkina Faso",
+        "risk_level": "Level 4: Do Not Travel",
+        "last_updated": "2023-07-31T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/burkina-faso-travel-advisory.html",
+        "risk_level_number": 4
+    },
+    {
+        "destination": "Burma (Myanmar)",
+        "risk_level": "Level 4: Do Not Travel",
+        "last_updated": "2024-06-06T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/burma-travel-advisory.html",
+        "risk_level_number": 4
+    },
+    {
+        "destination": "Burundi",
+        "risk_level": "Level 3: Reconsider Travel",
+        "last_updated": "2025-02-21T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/burundi-travel-advisory.html",
+        "risk_level_number": 3
+    },
+    {
+        "destination": "Cabo Verde",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-09-23T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/cabo-verde-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Cambodia",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2023-07-24T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/cambodia-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Cameroon",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-12-18T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/cameroon-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Canada",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-10-04T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/canada-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Cayman Islands",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-09-04T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/cayman-islands-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Central African Republic",
+        "risk_level": "Level 4: Do Not Travel",
+        "last_updated": "2024-12-26T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/central-african-republic-travel-advisory.html",
+        "risk_level_number": 4
+    },
+    {
+        "destination": "Chad",
+        "risk_level": "Level 3: Reconsider Travel",
+        "last_updated": "2023-07-31T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/chad-travel-advisory.html",
+        "risk_level_number": 3
+    },
+    {
+        "destination": "Chile",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2025-01-16T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/chile-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "China",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-11-27T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/china-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Colombia",
+        "risk_level": "Level 3: Reconsider Travel",
+        "last_updated": "2024-01-02T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/colombia-travel-advisory.html",
+        "risk_level_number": 3
+    },
+    {
+        "destination": "Comoros",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-05-28T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/comoros-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Costa Rica",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-12-10T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/costa-rica-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Cote d'Ivoire",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-04-08T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/cote-d-ivoire-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Croatia",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-08-15T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/croatia-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Cuba",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-11-22T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/cuba-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Curacao",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-08-19T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/curacao-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Cyprus",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2025-01-13T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/cyprus-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Czech Republic",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2023-07-26T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/czech-republic-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Democratic Republic of the Congo",
+        "risk_level": "Level 4: Do Not Travel",
+        "last_updated": "2025-01-29T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/democratic-republic-of-the-congo-travel-advisory.html",
+        "risk_level_number": 4
+    },
+    {
+        "destination": "Denmark",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-09-17T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/denmark-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Djibouti",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2025-03-06T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/djibouti-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Dominica",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-08-22T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/dominica-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Dominican Republic",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-06-18T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/dominican-republic-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Ecuador",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-04-15T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/ecuador-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Egypt",
+        "risk_level": "Level 3: Reconsider Travel",
+        "last_updated": "2024-10-15T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/egypt-travel-advisory.html",
+        "risk_level_number": 3
+    },
+    {
+        "destination": "El Salvador",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2025-02-07T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/el-salvador-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Equatorial Guinea",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2025-03-07T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/equatorial-guinea-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Eritrea",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2023-07-31T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/eritrea-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Estonia",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-07-23T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/estonia-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Eswatini",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-07-01T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/eswatini-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Ethiopia",
+        "risk_level": "Level 3: Reconsider Travel",
+        "last_updated": "2023-07-31T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/ethiopia-travel-advisory.html",
+        "risk_level_number": 3
+    },
+    {
+        "destination": "Federated States of Micronesia",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2025-01-22T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/federated-states-of-micronesia-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Fiji",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-12-02T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/fiji-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Finland",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-08-09T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/finland-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "France",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2023-07-26T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/france-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "French Guiana",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2025-01-16T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/french-guiana-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "French Polynesia",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-12-02T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/french-polynesia-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "French West Indies",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-08-22T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/french-west-indies-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Gabon",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-12-18T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/gabon-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Georgia",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2023-07-26T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/georgia-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Germany",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-05-01T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/germany-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Ghana",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2023-11-20T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/ghana-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Greece",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-08-15T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/greece-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Greenland",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-10-29T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/greenland-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Grenada",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-11-12T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/grenada-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Guatemala",
+        "risk_level": "Level 3: Reconsider Travel",
+        "last_updated": "2024-12-30T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/guatemala-travel-advisory.html",
+        "risk_level_number": 3
+    },
+    {
+        "destination": "Guinea",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-12-12T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/guinea-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Guinea-Bissau",
+        "risk_level": "Level 3: Reconsider Travel",
+        "last_updated": "2024-07-31T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/guinea-bissau-travel-advisory.html",
+        "risk_level_number": 3
+    },
+    {
+        "destination": "Guyana",
+        "risk_level": "Level 3: Reconsider Travel",
+        "last_updated": "2024-09-11T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/guyana-travel-advisory.html",
+        "risk_level_number": 3
+    },
+    {
+        "destination": "Haiti",
+        "risk_level": "Level 4: Do Not Travel",
+        "last_updated": "2024-09-18T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/haiti-travel-advisory.html",
+        "risk_level_number": 4
+    },
+    {
+        "destination": "Honduras",
+        "risk_level": "Level 3: Reconsider Travel",
+        "last_updated": "2024-12-10T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/honduras-travel-advisory.html",
+        "risk_level_number": 3
+    },
+    {
+        "destination": "Hong Kong",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-11-27T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/hong-kong-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Hungary",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-08-21T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/hungary-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Iceland",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-08-22T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/iceland-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "India",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-07-23T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/india-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Indonesia",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2023-07-24T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/indonesia-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Iran",
+        "risk_level": "Level 4: Do Not Travel",
+        "last_updated": "2024-08-14T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/iran-travel-advisory.html",
+        "risk_level_number": 4
+    },
+    {
+        "destination": "Iraq",
+        "risk_level": "Level 4: Do Not Travel",
+        "last_updated": "2024-11-22T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/iraq-travel-advisory.html",
+        "risk_level_number": 4
+    },
+    {
+        "destination": "Ireland",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-08-28T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/ireland-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Israel, the West Bank and Gaza",
+        "risk_level": "Other",
+        "last_updated": "2025-01-17T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/israel-west-bank-and-gaza-travel-advisory.html",
+        "risk_level_number": -1
+    },
+    {
+        "destination": "Italy",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-09-12T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/italy-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Jamaica",
+        "risk_level": "Level 3: Reconsider Travel",
+        "last_updated": "2024-07-25T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/jamaica-travel-advisory.html",
+        "risk_level_number": 3
+    },
+    {
+        "destination": "Japan",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-01-08T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/japan-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Jordan",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-09-12T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/jordan-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Kazakhstan",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-08-05T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/kazakhstan-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Kenya",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2023-07-31T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/kenya-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Kiribati",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-12-02T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/kiribati-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Kosovo",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-12-02T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/kosovo-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Kuwait",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2023-07-13T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/kuwait-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Laos",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-11-21T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/laos-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Latvia",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-08-26T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/latvia-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Lebanon",
+        "risk_level": "Level 4: Do Not Travel",
+        "last_updated": "2024-12-27T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/lebanon-travel-advisory.html",
+        "risk_level_number": 4
+    },
+    {
+        "destination": "Lesotho",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-09-17T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/lesotho-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Liberia",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2023-07-31T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/liberia-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Libya",
+        "risk_level": "Level 4: Do Not Travel",
+        "last_updated": "2024-08-01T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/libya-travel-advisory.html",
+        "risk_level_number": 4
+    },
+    {
+        "destination": "Liechtenstein",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2023-07-26T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/Liechtenstein-Travel-Advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Lithuania",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-08-09T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/lithuania-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Luxembourg",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-07-19T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/luxembourg-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Macau",
+        "risk_level": "Level 3: Reconsider Travel",
+        "last_updated": "2024-11-27T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/macau-travel-advisory.html",
+        "risk_level_number": 3
+    },
+    {
+        "destination": "Madagascar",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-11-05T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/madagascar-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Malawi",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-12-06T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/malawi-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Malaysia",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-07-24T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/malaysia-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Maldives",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-07-11T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/maldives-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Mali",
+        "risk_level": "Level 4: Do Not Travel",
+        "last_updated": "2023-07-31T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/mali-travel-advisory.html",
+        "risk_level_number": 4
+    },
+    {
+        "destination": "Malta",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2023-07-26T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/malta-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Marshall Islands",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-05-28T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/marshall-islands-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Mauritania",
+        "risk_level": "Level 3: Reconsider Travel",
+        "last_updated": "2023-07-31T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/mauritania-travel-advisory.html",
+        "risk_level_number": 3
+    },
+    {
+        "destination": "Mauritius",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-08-30T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/mauritius-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Mexico",
+        "risk_level": "Other",
+        "last_updated": "2024-09-06T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/mexico-travel-advisory.html",
+        "risk_level_number": -1
+    },
+    {
+        "destination": "Moldova",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-11-29T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/moldova-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Mongolia",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2025-01-22T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/mongolia-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Montenegro",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-11-26T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/montenegro-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Montserrat",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-08-22T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/montserrat-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Morocco",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2023-07-13T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/morocco-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Mozambique",
+        "risk_level": "Level 3: Reconsider Travel",
+        "last_updated": "2024-12-19T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/mozambique-travel-advisory.html",
+        "risk_level_number": 3
+    },
+    {
+        "destination": "Namibia",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-12-23T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/namibia-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Nauru",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-12-02T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/nauru-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Nepal",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-12-18T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/nepal-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Netherlands",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-08-09T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/netherlands-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "New Caledonia",
+        "risk_level": "Level 3: Reconsider Travel",
+        "last_updated": "2024-06-04T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/new-caledonia-travel-advisory.html",
+        "risk_level_number": 3
+    },
+    {
+        "destination": "New Zealand",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2025-01-03T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/new-zealand-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Nicaragua",
+        "risk_level": "Level 3: Reconsider Travel",
+        "last_updated": "2024-12-13T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/nicaragua-travel-advisory.html",
+        "risk_level_number": 3
+    },
+    {
+        "destination": "Niger",
+        "risk_level": "Level 3: Reconsider Travel",
+        "last_updated": "2024-01-08T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/niger-travel-advisory.html",
+        "risk_level_number": 3
+    },
+    {
+        "destination": "Nigeria",
+        "risk_level": "Level 3: Reconsider Travel",
+        "last_updated": "2023-09-20T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/nigeria-travel-advisory.html",
+        "risk_level_number": 3
+    },
+    {
+        "destination": "North Korea (Democratic People's Republic of Korea)",
+        "risk_level": "Level 4: Do Not Travel",
+        "last_updated": "2023-07-24T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/north-korea-travel-advisory.html",
+        "risk_level_number": 4
+    },
+    {
+        "destination": "North Macedonia",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2025-01-14T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/north-macedonia-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Norway",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2025-02-03T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/norway-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Oman",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-11-04T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/oman-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Pakistan",
+        "risk_level": "Level 3: Reconsider Travel",
+        "last_updated": "2025-03-07T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/pakistan-travel-advisory.html",
+        "risk_level_number": 3
+    },
+    {
+        "destination": "Palau",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-08-06T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/palau-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Panama",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-09-23T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/panama-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Papua New Guinea",
+        "risk_level": "Level 3: Reconsider Travel",
+        "last_updated": "2024-01-17T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/papua-new-guinea-travel-advisory.html",
+        "risk_level_number": 3
+    },
+    {
+        "destination": "Paraguay",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2023-07-17T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/paraguay-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Peru",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2023-11-15T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/peru-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Philippines",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-05-16T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/philippines-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Poland",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-05-01T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/poland-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Portugal",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2025-03-03T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/portugal-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Qatar",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2023-07-13T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/qatar-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Republic of the Congo",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-10-02T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/republic-of-the-congo-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Romania",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-08-15T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/romania-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Russia",
+        "risk_level": "Level 4: Do Not Travel",
+        "last_updated": "2024-06-27T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/russia-travel-advisory.html",
+        "risk_level_number": 4
+    },
+    {
+        "destination": "Rwanda",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2025-02-26T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/rwanda-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Saba",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-08-19T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/saba-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Saint Kitts and Nevis",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-08-22T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/saint-kitts-and-nevis-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Saint Lucia",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-08-22T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/saint-lucia-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Saint Vincent and The Grenadines",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-12-06T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/saint-vincent-and-the-grenadines.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Samoa",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2023-07-24T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/samoa-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Sao Tome and Principe",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-09-25T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/sao-tome-and-principe-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Saudi Arabia",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-09-09T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/saudi-arabia-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Senegal",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-10-21T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/senegal-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Serbia",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2023-07-26T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/serbia-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Seychelles",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-08-30T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/seychelles-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Sierra Leone",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-09-23T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/sierra-leone-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Singapore",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2025-03-05T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/singapore-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Sint Eustatius",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-08-19T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/sint-eustatius-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Sint Maarten",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-08-19T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/sint-maarten-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Slovakia",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-11-14T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/slovakia-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Slovenia",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-07-26T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/slovenia-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Solomon Island",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2023-07-24T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/solomon-island-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Somalia",
+        "risk_level": "Level 4: Do Not Travel",
+        "last_updated": "2024-07-23T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/somalia-travel-advisory.html",
+        "risk_level_number": 4
+    },
+    {
+        "destination": "South Africa",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-11-07T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/south-africa-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "South Korea",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2023-07-24T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/south-korea-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "South Sudan",
+        "risk_level": "Level 4: Do Not Travel",
+        "last_updated": "2025-03-08T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/south-sudan-travel-advisory.html",
+        "risk_level_number": 4
+    },
+    {
+        "destination": "Spain",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-12-23T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/spain-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Sri Lanka",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-10-02T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/sri-lanka-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Sudan",
+        "risk_level": "Level 4: Do Not Travel",
+        "last_updated": "2023-04-22T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/sudan-travel-advisory.html",
+        "risk_level_number": 4
+    },
+    {
+        "destination": "Suriname",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-12-13T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/suriname-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Sweden",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-07-24T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/sweden-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Switzerland",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2023-07-26T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/switzerland-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Syria",
+        "risk_level": "Level 4: Do Not Travel",
+        "last_updated": "2025-03-03T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/syria-travel-advisory.html",
+        "risk_level_number": 4
+    },
+    {
+        "destination": "Taiwan",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-07-31T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/taiwan-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Tajikistan",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-11-27T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/tajikistan-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Tanzania",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-09-05T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/tanzania-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Thailand",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2023-07-24T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/thailand-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "The Bahamas",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-01-26T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/the-bahamas-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "The Gambia",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-10-16T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/the-gambia-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "The Kyrgyz Republic",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-03-08T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/the-kyrgyz-republic-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Timor-Leste",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2023-07-24T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/timor-leste-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Togo",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-11-07T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/togo-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Tonga",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-12-02T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/tonga-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Trinidad and Tobago",
+        "risk_level": "Level 3: Reconsider Travel",
+        "last_updated": "2024-07-02T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/trinidad-and-tobago-travel-advisory.html",
+        "risk_level_number": 3
+    },
+    {
+        "destination": "Tunisia",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-10-23T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/tunisia-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Turkey",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-10-16T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/turkey-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Turkmenistan",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2025-02-28T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/turkmenistan-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Turks and Caicos Islands",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2025-03-04T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/turks-and-caicos-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Tuvalu",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-12-02T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/tuvalu-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Uganda",
+        "risk_level": "Level 3: Reconsider Travel",
+        "last_updated": "2024-10-21T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/uganda-travel-advisory.html",
+        "risk_level_number": 3
+    },
+    {
+        "destination": "Ukraine",
+        "risk_level": "Level 4: Do Not Travel",
+        "last_updated": "2024-11-14T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/ukraine-travel-advisory.html",
+        "risk_level_number": 4
+    },
+    {
+        "destination": "United Arab Emirates",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2025-01-06T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/united-arab-emirates-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "United Kingdom",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2024-09-06T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/united-kingdom-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Uruguay",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2023-07-17T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/uruguay-travel-advisory.html",
+        "risk_level_number": 2
+    },
+    {
+        "destination": "Uzbekistan",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-09-27T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/uzbekistan-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Vanuatu",
+        "risk_level": "Level 3: Reconsider Travel",
+        "last_updated": "2024-12-20T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/vanuatu-travel-advisory.html",
+        "risk_level_number": 3
+    },
+    {
+        "destination": "Venezuela",
+        "risk_level": "Level 4: Do Not Travel",
+        "last_updated": "2024-09-24T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/venezuela-travel-advisory.html",
+        "risk_level_number": 4
+    },
+    {
+        "destination": "Vietnam",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2024-12-16T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/vietnam-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Yemen",
+        "risk_level": "Level 4: Do Not Travel",
+        "last_updated": "2025-02-26T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/yemen-travel-advisory.html",
+        "risk_level_number": 4
+    },
+    {
+        "destination": "Zambia",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated": "2023-07-31T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/zambia-travel-advisory.html",
+        "risk_level_number": 1
+    },
+    {
+        "destination": "Zimbabwe",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated": "2023-06-27T00:00:00",
+        "details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/zimbabwe-travel-advisory.html",
+        "risk_level_number": 2
+    }
+]
