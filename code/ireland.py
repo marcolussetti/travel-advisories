@@ -172,18 +172,8 @@ def run_all_countries(since: datetime = None):
 
 def main():
     start_time = datetime.now(timezone.utc)
-    # Now fetch the details that have changed
-    if os.path.exists("ireland/last_run.txt"):
-        with open("ireland/last_run.txt", "r", encoding="utf-8") as f:
-            last_run = datetime.fromisoformat(f.read().strip())
-    else:
-        last_run = None
-
-    run_all_countries(last_run)
-
-    with open("ireland/last_run.txt", "w", encoding="utf-8") as f:
-        f.write(start_time.isoformat())
-
+    # No point in doing a since given well, we don't have a reason to store it at all
+    run_all_countries(since=None)
 
 if __name__ == "__main__":
     main()
