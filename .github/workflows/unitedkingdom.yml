@@ -3,7 +3,7 @@
     on:
       schedule:
         - cron: "1 6 * * *"
-      workflow_dispatch:      # allows manual triggering
+      workflow_dispatch: # allows manual triggering
     
     jobs:
       scheduled:
@@ -20,16 +20,26 @@
               python3 -m pip install --upgrade pip
               pip install -r code/requirements.txt
           - name: Parse United Kingdom travel advisories
-            run: |-
-              python3 code/unitedkingdom.py
-          - name: Add results to repo
+            run: python3 code/unitedkingdom.py
+    
+          - name: Check for changes and commit
             run: |-
               git config user.name "Travel Advisories Bot for United Kingdom"
               git config user.email "actions@users.noreply.github.com"
               git add -A *.json
               git add -A *.csv
+              git add unitedkingdom/last_run.txt #add last_run.txt to ensure it's tracked for changes
+              
+              if git diff --quiet --exit-code; then
+                echo "No changes to commit."
+                exit 0
+              fi
+              
+              if [[ $(git diff --name-only) == "unitedkingdom/last_run.txt" ]]; then
+                echo "Only unitedkingdom/last_run.txt has changed, skipping commit."
+                exit 0
+              fi
+    
               timestamp=$(date -u -Is)
-              git commit -m "unitedkingdom: update travel advisories data" || exit 0
+              git commit -m "unitedkingdom: update travel advisories data"
               git push
-    
-    
