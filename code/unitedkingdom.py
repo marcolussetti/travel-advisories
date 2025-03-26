@@ -49,7 +49,7 @@ def parse_json_ld(soup):
             return date_published, date_modified
     return None, None
 
-def parse_country_details(html, country_name):
+def parse_country_details(html, country_name, since):
     soup = BeautifulSoup(html, "html.parser")
 
     # Remove the cookie banner section
@@ -85,6 +85,10 @@ def parse_country_details(html, country_name):
         except ValueError:
             update_date = None
 
+    if since and update_date and update_date < since:
+        print(f"Skipping {name} as it has not been updated since {since}")
+        return
+
     # Extract warnings and save them
     warnings_file = save_warnings_section(soup, country_name)
 
@@ -113,7 +117,7 @@ def parse_country_details(html, country_name):
     with open(f"unitedkingdom/{name}/info.json", "w", encoding="utf-8") as f:
         json.dump(info, f, indent=4)
 
-    print(f"Processed page for {name}")
+    print(f"Processed {name}")
 
 
 def save_warnings_section(soup, country_name):
@@ -217,7 +221,7 @@ def save_to_json(data, filename):
         json.dump(data, f, indent=4)
 
 
-def run_all_countries():
+def run_all_countries(since: datetime=None):
     html = fetch_page(URL)
     countries = parse_country_links(html)
 
@@ -225,7 +229,7 @@ def run_all_countries():
         print("Fetching", country["name"])
         try:
             html = fetch_page(country["url"])
-            parse_country_details(html, country["name"])
+            parse_country_details(html, country["name"], since)
         except ValueError as e:
             print("Failed to fetch", country["name"], e)
         sleep(DETAILS_PARSING_DELAY)
@@ -233,8 +237,13 @@ def run_all_countries():
 
 def main():
     start_time = datetime.now()
-    run_all_countries()
-    print("Data saved to unitedkingdom/ directory")
+    # Now fetch the details that have changed
+    if os.path.exists("unitedkingdom/last_run.txt"):
+        with open("unitedkingdom/last_run.txt", "r", encoding="utf-8") as f:
+            last_run = datetime.strptime(f.read().strip(), "%Y-%m-%dT%H:%M:%S")
+    else:
+        last_run = None
+    run_all_countries(last_run)
 
     with open("unitedkingdom/last_run.txt", "w", encoding="utf-8") as f:
         f.write(start_time.strftime("%Y-%m-%dT%H:%M:%S"))
