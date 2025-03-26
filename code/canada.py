@@ -140,7 +140,11 @@ def run_all_countries(since: datetime=None):
     with open("canada_summary.json", "r", encoding="utf-8") as f:
         countries_summary = json.load(f)
 
-    targets = [country["details_url"] for country in countries_summary if since is None or country["last_updated"] >= since]
+    targets = [
+        country["details_url"]
+        for country in countries_summary
+        if since is None or (country["last_updated"] and datetime.fromisoformat(country["last_updated"]) >= since)
+    ]
 
     for country in targets:
         print("Fetching", country)
