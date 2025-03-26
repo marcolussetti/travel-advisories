@@ -2,7 +2,7 @@
     name: Fetch latest travel-advisories data
     on:
       schedule:
-        - cron: "* 4 * * *"
+        - cron: "1 6 * * *"
     
     jobs:
       scheduled:
