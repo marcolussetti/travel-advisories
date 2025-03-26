@@ -1,0 +1,13 @@
+{
+    "name": "Aruba",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Aruba/risk.md",
+        "security": "canada/Aruba/security.md",
+        "entryexit": "canada/Aruba/entryexit.md",
+        "health": "canada/Aruba/health.md",
+        "laws": "canada/Aruba/laws.md",
+        "disasters": "canada/Aruba/disasters.md"
+    }
+}

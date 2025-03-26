@@ -1,0 +1,13 @@
+{
+    "name": "Hungary",
+    "update_reason": "Editorial change",
+    "update_date": "2025-03-11T16:26:00",
+    "sections": {
+        "risk": "canada/Hungary/risk.md",
+        "security": "canada/Hungary/security.md",
+        "entryexit": "canada/Hungary/entryexit.md",
+        "health": "canada/Hungary/health.md",
+        "laws": "canada/Hungary/laws.md",
+        "disasters": "canada/Hungary/disasters.md"
+    }
+}

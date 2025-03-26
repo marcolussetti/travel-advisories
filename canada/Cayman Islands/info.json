@@ -1,0 +1,13 @@
+{
+    "name": "Cayman Islands",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Cayman Islands/risk.md",
+        "security": "canada/Cayman Islands/security.md",
+        "entryexit": "canada/Cayman Islands/entryexit.md",
+        "health": "canada/Cayman Islands/health.md",
+        "laws": "canada/Cayman Islands/laws.md",
+        "disasters": "canada/Cayman Islands/disasters.md"
+    }
+}

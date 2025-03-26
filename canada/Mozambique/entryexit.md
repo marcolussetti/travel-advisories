@@ -1,0 +1,97 @@
+# Entry and exit requirements
+
+## Entry and exit requirements
+
+Every country or territory decides who can enter or exit through its borders. The Government of Canada cannot intervene on your behalf if you do not meet your destination’s entry or exit requirements.
+
+We have obtained the information on this page from Mozambican authorities. It can, however, change at any time.
+
+Verify this information with the [Foreign Representatives in Canada](https://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng).
+
+### Passport
+
+Entry requirements vary depending on the type of passport you use for travel.
+
+Before you travel, check with your transportation company about passport requirements. Its rules on passport validity may be more stringent than the country’s entry rules.
+
+#### Regular Canadian passport
+
+Your passport must be valid at least 6 months beyond the date you expect to leave Mozambique.
+
+#### Passport for official travel
+
+Different entry rules may apply.
+
+[Official travel](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/official-travel.html)
+
+#### Passport with “X” gender identifier
+
+While the Government of Canada issues passports with an “X” gender identifier, it cannot guarantee your entry or transit through other countries. You might face entry restrictions in countries that do not recognize the “X” gender identifier. Before you leave, check with the closest foreign representative for your destination.
+
+#### Other travel documents
+
+Different entry rules may apply when travelling with a temporary passport or an emergency travel document. Before you leave, check with the closest foreign representative for your destination.
+
+#### Useful links
+
+* [Foreign Representatives in Canada](https://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng)
+* [Canadian passports](http://www.canada.ca/passport)
+
+### Visas
+
+Tourist visa: not required for stays up to 90 days per year  
+Business visa: not required for stays up to 90 days per year  
+Work visa: required  
+Student visa: required  
+Residency visa  required
+
+You can apply for a visa at the nearest embassy or consulate of Mozambique.
+
+#### Tourist and business visa exemption
+
+Canadian tourists or business travelers may be exempt from applying for a visa under certain conditions. This exemption applies to stays up to 90 consecutive or interrupted days per year.
+
+Trips of more than 30 days may require an extension of stay from immigration authorities. Administrative fees may apply. If your passport has less than 6 months validity, Mozambican authorities may refuse to extend your visa exemption.
+
+Upon arrival, you must provide:
+
+* a return or onward ticket
+* a passport valid for at least 6 months beyond the date you expect to leave Mozambique
+* fees payment of 650 Mozambican meticais, paid by card or cash
+* proof of accommodation (a hotel reservation or a written invitation from your host)
+
+#### Visa pre-authorizations
+
+If you’re not eligible for the visa exemption, you can apply for an e-visa pre-authorization for certain types of visas through the Government of Mozambique’s e-visa portal.
+
+Visa pre-authorizations are only available for the following types of visas:
+
+* crew member travel
+* humanitarian assistance efforts
+* sports and cultural activity participation
+* border and investment.
+
+Visa pre-authorizations are not guaranteed visas. Upon arrival to Mozambique, you must submit all required documents to immigration authorities for a final decision.
+
+You can pay the fees on arrival with a credit card or local currency.
+
+[E-visa portal](https://evisa.gov.mz/)– Government of Mozambique
+
+### Other entry requirements
+
+Customs officials may ask you to show them a return or onward ticket and proof of accommodation.
+
+Make sure customs officials properly inspect and stamp your passport and visa upon entry to avoid possible fines when leaving the country. If you overstay your authorized visa period, you may be fined for each day you illegally reside in Mozambique.
+
+### Children and travel
+
+If you are transiting by road through South Africa with children under the age of 18, you may be subject to special entry requirements.
+
+#### Useful links
+
+* [Entry requirements for South Africa](https://travel.gc.ca/destinations/south-africa#entryexit)
+* [Travelling with children](http://travel.gc.ca/travelling/children)
+
+### Yellow fever
+
+Learn about [potential entry requirements related to yellow fever](#health) (vaccines section).

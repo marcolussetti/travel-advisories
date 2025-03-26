@@ -1,0 +1,13 @@
+{
+    "name": "Chile",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Chile/risk.md",
+        "security": "canada/Chile/security.md",
+        "entryexit": "canada/Chile/entryexit.md",
+        "health": "canada/Chile/health.md",
+        "laws": "canada/Chile/laws.md",
+        "disasters": "canada/Chile/disasters.md"
+    }
+}

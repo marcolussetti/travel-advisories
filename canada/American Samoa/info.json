@@ -1,0 +1,13 @@
+{
+    "name": "American Samoa",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/American Samoa/risk.md",
+        "security": "canada/American Samoa/security.md",
+        "entryexit": "canada/American Samoa/entryexit.md",
+        "health": "canada/American Samoa/health.md",
+        "laws": "canada/American Samoa/laws.md",
+        "disasters": "canada/American Samoa/disasters.md"
+    }
+}

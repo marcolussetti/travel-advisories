@@ -1,0 +1,13 @@
+{
+    "name": "Ecuador",
+    "update_reason": "Health \u2013 editorial update",
+    "update_date": "2025-03-18T13:36:00",
+    "sections": {
+        "risk": "canada/Ecuador/risk.md",
+        "security": "canada/Ecuador/security.md",
+        "entryexit": "canada/Ecuador/entryexit.md",
+        "health": "canada/Ecuador/health.md",
+        "laws": "canada/Ecuador/laws.md",
+        "disasters": "canada/Ecuador/disasters.md"
+    }
+}

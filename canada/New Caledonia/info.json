@@ -1,0 +1,13 @@
+{
+    "name": "New Caledonia",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/New Caledonia/risk.md",
+        "security": "canada/New Caledonia/security.md",
+        "entryexit": "canada/New Caledonia/entryexit.md",
+        "health": "canada/New Caledonia/health.md",
+        "laws": "canada/New Caledonia/laws.md",
+        "disasters": "canada/New Caledonia/disasters.md"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Sint Maarten",
+    "update_reason": "Health \u2013 editorial update",
+    "update_date": "2025-03-18T13:44:00",
+    "sections": {
+        "risk": "canada/Sint Maarten/risk.md",
+        "security": "canada/Sint Maarten/security.md",
+        "entryexit": "canada/Sint Maarten/entryexit.md",
+        "health": "canada/Sint Maarten/health.md",
+        "laws": "canada/Sint Maarten/laws.md",
+        "disasters": "canada/Sint Maarten/disasters.md"
+    }
+}

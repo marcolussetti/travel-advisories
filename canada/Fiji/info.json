@@ -1,0 +1,13 @@
+{
+    "name": "Fiji",
+    "update_reason": "The Need help? section was updated.",
+    "update_date": "2025-03-12T07:52:00",
+    "sections": {
+        "risk": "canada/Fiji/risk.md",
+        "security": "canada/Fiji/security.md",
+        "entryexit": "canada/Fiji/entryexit.md",
+        "health": "canada/Fiji/health.md",
+        "laws": "canada/Fiji/laws.md",
+        "disasters": "canada/Fiji/disasters.md"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Iran",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Iran/risk.md",
+        "security": "canada/Iran/security.md",
+        "entryexit": "canada/Iran/entryexit.md",
+        "health": "canada/Iran/health.md",
+        "laws": "canada/Iran/laws.md",
+        "disasters": "canada/Iran/disasters.md"
+    }
+}

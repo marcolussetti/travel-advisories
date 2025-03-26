@@ -1,0 +1,13 @@
+{
+    "name": "Burkina Faso",
+    "update_reason": "Health \u2013 editorial update",
+    "update_date": "2025-03-18T14:17:00",
+    "sections": {
+        "risk": "canada/Burkina Faso/risk.md",
+        "security": "canada/Burkina Faso/security.md",
+        "entryexit": "canada/Burkina Faso/entryexit.md",
+        "health": "canada/Burkina Faso/health.md",
+        "laws": "canada/Burkina Faso/laws.md",
+        "disasters": "canada/Burkina Faso/disasters.md"
+    }
+}

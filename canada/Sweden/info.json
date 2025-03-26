@@ -1,0 +1,13 @@
+{
+    "name": "Sweden",
+    "update_reason": "Editorial change",
+    "update_date": "2025-03-12T13:32:00",
+    "sections": {
+        "risk": "canada/Sweden/risk.md",
+        "security": "canada/Sweden/security.md",
+        "entryexit": "canada/Sweden/entryexit.md",
+        "health": "canada/Sweden/health.md",
+        "laws": "canada/Sweden/laws.md",
+        "disasters": "canada/Sweden/disasters.md"
+    }
+}

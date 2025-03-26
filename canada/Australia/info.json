@@ -1,0 +1,13 @@
+{
+    "name": "Australia",
+    "update_reason": "Natural disasters and climate \u2013 removed information on Tropical Cyclone Alfred",
+    "update_date": "2025-03-17T05:49:00",
+    "sections": {
+        "risk": "canada/Australia/risk.md",
+        "security": "canada/Australia/security.md",
+        "entryexit": "canada/Australia/entryexit.md",
+        "health": "canada/Australia/health.md",
+        "laws": "canada/Australia/laws.md",
+        "disasters": "canada/Australia/disasters.md"
+    }
+}

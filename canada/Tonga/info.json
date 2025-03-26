@@ -1,0 +1,13 @@
+{
+    "name": "Tonga",
+    "update_reason": "Health \u2013 added a Travel health notice for dengue",
+    "update_date": "2025-03-18T14:04:00",
+    "sections": {
+        "risk": "canada/Tonga/risk.md",
+        "security": "canada/Tonga/security.md",
+        "entryexit": "canada/Tonga/entryexit.md",
+        "health": "canada/Tonga/health.md",
+        "laws": "canada/Tonga/laws.md",
+        "disasters": "canada/Tonga/disasters.md"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Mongolia",
+    "update_reason": "Editorial change",
+    "update_date": "2025-03-12T09:44:00",
+    "sections": {
+        "risk": "canada/Mongolia/risk.md",
+        "security": "canada/Mongolia/security.md",
+        "entryexit": "canada/Mongolia/entryexit.md",
+        "health": "canada/Mongolia/health.md",
+        "laws": "canada/Mongolia/laws.md",
+        "disasters": "canada/Mongolia/disasters.md"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Armenia",
+    "update_reason": "editorial change",
+    "update_date": "2025-03-12T09:42:00",
+    "sections": {
+        "risk": "canada/Armenia/risk.md",
+        "security": "canada/Armenia/security.md",
+        "entryexit": "canada/Armenia/entryexit.md",
+        "health": "canada/Armenia/health.md",
+        "laws": "canada/Armenia/laws.md",
+        "disasters": "canada/Armenia/disasters.md"
+    }
+}

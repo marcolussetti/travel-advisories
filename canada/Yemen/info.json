@@ -1,0 +1,13 @@
+{
+    "name": "Yemen",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Yemen/risk.md",
+        "security": "canada/Yemen/security.md",
+        "entryexit": "canada/Yemen/entryexit.md",
+        "health": "canada/Yemen/health.md",
+        "laws": "canada/Yemen/laws.md",
+        "disasters": "canada/Yemen/disasters.md"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Montserrat",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Montserrat/risk.md",
+        "security": "canada/Montserrat/security.md",
+        "entryexit": "canada/Montserrat/entryexit.md",
+        "health": "canada/Montserrat/health.md",
+        "laws": "canada/Montserrat/laws.md",
+        "disasters": "canada/Montserrat/disasters.md"
+    }
+}

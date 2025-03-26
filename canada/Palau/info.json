@@ -1,0 +1,13 @@
+{
+    "name": "Palau",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Palau/risk.md",
+        "security": "canada/Palau/security.md",
+        "entryexit": "canada/Palau/entryexit.md",
+        "health": "canada/Palau/health.md",
+        "laws": "canada/Palau/laws.md",
+        "disasters": "canada/Palau/disasters.md"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Sierra Leone",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Sierra Leone/risk.md",
+        "security": "canada/Sierra Leone/security.md",
+        "entryexit": "canada/Sierra Leone/entryexit.md",
+        "health": "canada/Sierra Leone/health.md",
+        "laws": "canada/Sierra Leone/laws.md",
+        "disasters": "canada/Sierra Leone/disasters.md"
+    }
+}

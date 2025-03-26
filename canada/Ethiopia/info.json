@@ -1,0 +1,13 @@
+{
+    "name": "Ethiopia",
+    "update_reason": "Health \u2013 editorial update",
+    "update_date": "2025-03-18T13:37:00",
+    "sections": {
+        "risk": "canada/Ethiopia/risk.md",
+        "security": "canada/Ethiopia/security.md",
+        "entryexit": "canada/Ethiopia/entryexit.md",
+        "health": "canada/Ethiopia/health.md",
+        "laws": "canada/Ethiopia/laws.md",
+        "disasters": "canada/Ethiopia/disasters.md"
+    }
+}

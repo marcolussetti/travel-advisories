@@ -1,0 +1,13 @@
+{
+    "name": "South Africa",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/South Africa/risk.md",
+        "security": "canada/South Africa/security.md",
+        "entryexit": "canada/South Africa/entryexit.md",
+        "health": "canada/South Africa/health.md",
+        "laws": "canada/South Africa/laws.md",
+        "disasters": "canada/South Africa/disasters.md"
+    }
+}

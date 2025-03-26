@@ -1,0 +1,13 @@
+{
+    "name": "United Arab Emirates",
+    "update_reason": "Editorial change",
+    "update_date": "2025-03-12T11:31:00",
+    "sections": {
+        "risk": "canada/United Arab Emirates/risk.md",
+        "security": "canada/United Arab Emirates/security.md",
+        "entryexit": "canada/United Arab Emirates/entryexit.md",
+        "health": "canada/United Arab Emirates/health.md",
+        "laws": "canada/United Arab Emirates/laws.md",
+        "disasters": "canada/United Arab Emirates/disasters.md"
+    }
+}

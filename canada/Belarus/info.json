@@ -1,0 +1,13 @@
+{
+    "name": "Belarus",
+    "update_reason": "editorial change",
+    "update_date": "2025-03-12T09:46:00",
+    "sections": {
+        "risk": "canada/Belarus/risk.md",
+        "security": "canada/Belarus/security.md",
+        "entryexit": "canada/Belarus/entryexit.md",
+        "health": "canada/Belarus/health.md",
+        "laws": "canada/Belarus/laws.md",
+        "disasters": "canada/Belarus/disasters.md"
+    }
+}

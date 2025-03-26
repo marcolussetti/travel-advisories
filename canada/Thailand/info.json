@@ -1,0 +1,13 @@
+{
+    "name": "Thailand",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Thailand/risk.md",
+        "security": "canada/Thailand/security.md",
+        "entryexit": "canada/Thailand/entryexit.md",
+        "health": "canada/Thailand/health.md",
+        "laws": "canada/Thailand/laws.md",
+        "disasters": "canada/Thailand/disasters.md"
+    }
+}

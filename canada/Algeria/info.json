@@ -1,0 +1,13 @@
+{
+    "name": "Algeria",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Algeria/risk.md",
+        "security": "canada/Algeria/security.md",
+        "entryexit": "canada/Algeria/entryexit.md",
+        "health": "canada/Algeria/health.md",
+        "laws": "canada/Algeria/laws.md",
+        "disasters": "canada/Algeria/disasters.md"
+    }
+}

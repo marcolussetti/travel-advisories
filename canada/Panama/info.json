@@ -1,0 +1,13 @@
+{
+    "name": "Panama",
+    "update_reason": "The Need help? section was updated.",
+    "update_date": "2025-03-20T08:59:00",
+    "sections": {
+        "risk": "canada/Panama/risk.md",
+        "security": "canada/Panama/security.md",
+        "entryexit": "canada/Panama/entryexit.md",
+        "health": "canada/Panama/health.md",
+        "laws": "canada/Panama/laws.md",
+        "disasters": "canada/Panama/disasters.md"
+    }
+}

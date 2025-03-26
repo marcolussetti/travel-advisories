@@ -1,0 +1,13 @@
+{
+    "name": "Peru",
+    "update_reason": "Editorial change",
+    "update_date": "2025-03-20T11:15:00",
+    "sections": {
+        "risk": "canada/Peru/risk.md",
+        "security": "canada/Peru/security.md",
+        "entryexit": "canada/Peru/entryexit.md",
+        "health": "canada/Peru/health.md",
+        "laws": "canada/Peru/laws.md",
+        "disasters": "canada/Peru/disasters.md"
+    }
+}

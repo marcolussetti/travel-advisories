@@ -1,0 +1,13 @@
+{
+    "name": "Iraq",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Iraq/risk.md",
+        "security": "canada/Iraq/security.md",
+        "entryexit": "canada/Iraq/entryexit.md",
+        "health": "canada/Iraq/health.md",
+        "laws": "canada/Iraq/laws.md",
+        "disasters": "canada/Iraq/disasters.md"
+    }
+}

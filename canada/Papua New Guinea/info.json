@@ -1,0 +1,13 @@
+{
+    "name": "Papua New Guinea",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Papua New Guinea/risk.md",
+        "security": "canada/Papua New Guinea/security.md",
+        "entryexit": "canada/Papua New Guinea/entryexit.md",
+        "health": "canada/Papua New Guinea/health.md",
+        "laws": "canada/Papua New Guinea/laws.md",
+        "disasters": "canada/Papua New Guinea/disasters.md"
+    }
+}

@@ -1,0 +1,11 @@
+# Risk level
+
+## Risk level
+
+### KUWAIT - Exercise a high degree of caution
+
+[Exercise a high degree of caution](#levels "Risk Levels") in Kuwait due to the threat of terrorism and the ongoing regional conflict.
+
+### Border with Iraq - Avoid all travel
+
+[Avoid all travel](#levels "Risk Levels") to within 5 km of the border with Iraq due to the presence of unexploded ordnance.

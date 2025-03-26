@@ -1,0 +1,13 @@
+{
+    "name": "Bangladesh",
+    "update_reason": "Health \u2013 editorial update",
+    "update_date": "2025-03-18T14:12:00",
+    "sections": {
+        "risk": "canada/Bangladesh/risk.md",
+        "security": "canada/Bangladesh/security.md",
+        "entryexit": "canada/Bangladesh/entryexit.md",
+        "health": "canada/Bangladesh/health.md",
+        "laws": "canada/Bangladesh/laws.md",
+        "disasters": "canada/Bangladesh/disasters.md"
+    }
+}

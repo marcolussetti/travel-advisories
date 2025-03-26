@@ -1,0 +1,13 @@
+{
+    "name": "Kyrgyzstan",
+    "update_reason": "Editorial change",
+    "update_date": "2025-03-11T16:38:00",
+    "sections": {
+        "risk": "canada/Kyrgyzstan/risk.md",
+        "security": "canada/Kyrgyzstan/security.md",
+        "entryexit": "canada/Kyrgyzstan/entryexit.md",
+        "health": "canada/Kyrgyzstan/health.md",
+        "laws": "canada/Kyrgyzstan/laws.md",
+        "disasters": "canada/Kyrgyzstan/disasters.md"
+    }
+}

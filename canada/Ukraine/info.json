@@ -1,0 +1,13 @@
+{
+    "name": "Ukraine",
+    "update_reason": "Editorial change",
+    "update_date": "2025-03-12T12:01:00",
+    "sections": {
+        "risk": "canada/Ukraine/risk.md",
+        "security": "canada/Ukraine/security.md",
+        "entryexit": "canada/Ukraine/entryexit.md",
+        "health": "canada/Ukraine/health.md",
+        "laws": "canada/Ukraine/laws.md",
+        "disasters": "canada/Ukraine/disasters.md"
+    }
+}

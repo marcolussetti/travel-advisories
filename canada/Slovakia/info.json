@@ -1,0 +1,13 @@
+{
+    "name": "Slovakia",
+    "update_reason": "Editorial change",
+    "update_date": "2025-03-12T13:38:00",
+    "sections": {
+        "risk": "canada/Slovakia/risk.md",
+        "security": "canada/Slovakia/security.md",
+        "entryexit": "canada/Slovakia/entryexit.md",
+        "health": "canada/Slovakia/health.md",
+        "laws": "canada/Slovakia/laws.md",
+        "disasters": "canada/Slovakia/disasters.md"
+    }
+}

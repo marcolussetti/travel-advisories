@@ -1,0 +1,13 @@
+{
+    "name": "Antarctica",
+    "update_reason": "Editorial change",
+    "update_date": "2025-03-12T09:40:00",
+    "sections": {
+        "risk": "canada/Antarctica/risk.md",
+        "security": "canada/Antarctica/security.md",
+        "entryexit": "canada/Antarctica/entryexit.md",
+        "health": "canada/Antarctica/health.md",
+        "laws": "canada/Antarctica/laws.md",
+        "disasters": "canada/Antarctica/disasters.md"
+    }
+}

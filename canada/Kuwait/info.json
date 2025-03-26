@@ -1,0 +1,13 @@
+{
+    "name": "Kuwait",
+    "update_reason": "The Need help? section was updated.",
+    "update_date": "2025-03-25T08:09:00",
+    "sections": {
+        "risk": "canada/Kuwait/risk.md",
+        "security": "canada/Kuwait/security.md",
+        "entryexit": "canada/Kuwait/entryexit.md",
+        "health": "canada/Kuwait/health.md",
+        "laws": "canada/Kuwait/laws.md",
+        "disasters": "canada/Kuwait/disasters.md"
+    }
+}

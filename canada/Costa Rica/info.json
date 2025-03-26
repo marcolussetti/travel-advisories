@@ -1,0 +1,13 @@
+{
+    "name": "Costa Rica",
+    "update_reason": "Health \u2013 updated information on entry requirements for yellow fever",
+    "update_date": "2025-03-21T16:35:00",
+    "sections": {
+        "risk": "canada/Costa Rica/risk.md",
+        "security": "canada/Costa Rica/security.md",
+        "entryexit": "canada/Costa Rica/entryexit.md",
+        "health": "canada/Costa Rica/health.md",
+        "laws": "canada/Costa Rica/laws.md",
+        "disasters": "canada/Costa Rica/disasters.md"
+    }
+}

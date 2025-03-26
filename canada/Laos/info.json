@@ -1,0 +1,13 @@
+{
+    "name": "Laos",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Laos/risk.md",
+        "security": "canada/Laos/security.md",
+        "entryexit": "canada/Laos/entryexit.md",
+        "health": "canada/Laos/health.md",
+        "laws": "canada/Laos/laws.md",
+        "disasters": "canada/Laos/disasters.md"
+    }
+}

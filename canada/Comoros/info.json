@@ -1,0 +1,13 @@
+{
+    "name": "Comoros",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Comoros/risk.md",
+        "security": "canada/Comoros/security.md",
+        "entryexit": "canada/Comoros/entryexit.md",
+        "health": "canada/Comoros/health.md",
+        "laws": "canada/Comoros/laws.md",
+        "disasters": "canada/Comoros/disasters.md"
+    }
+}

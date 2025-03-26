@@ -1,0 +1,13 @@
+{
+    "name": "Tuvalu",
+    "update_reason": "Need help? \u2013 added information on the High Commission of Australia in Tuvalu, in Funafuti",
+    "update_date": "2025-03-18T15:00:00",
+    "sections": {
+        "risk": "canada/Tuvalu/risk.md",
+        "security": "canada/Tuvalu/security.md",
+        "entryexit": "canada/Tuvalu/entryexit.md",
+        "health": "canada/Tuvalu/health.md",
+        "laws": "canada/Tuvalu/laws.md",
+        "disasters": "canada/Tuvalu/disasters.md"
+    }
+}

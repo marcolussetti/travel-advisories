@@ -1,0 +1,13 @@
+{
+    "name": "Saint-Pierre-et-Miquelon",
+    "update_reason": "Editorial change",
+    "update_date": "2025-03-12T11:09:00",
+    "sections": {
+        "risk": "canada/Saint-Pierre-et-Miquelon/risk.md",
+        "security": "canada/Saint-Pierre-et-Miquelon/security.md",
+        "entryexit": "canada/Saint-Pierre-et-Miquelon/entryexit.md",
+        "health": "canada/Saint-Pierre-et-Miquelon/health.md",
+        "laws": "canada/Saint-Pierre-et-Miquelon/laws.md",
+        "disasters": "canada/Saint-Pierre-et-Miquelon/disasters.md"
+    }
+}

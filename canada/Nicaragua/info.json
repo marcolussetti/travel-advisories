@@ -1,0 +1,13 @@
+{
+    "name": "Nicaragua",
+    "update_reason": "The Need help? section was updated.",
+    "update_date": "2025-03-25T10:29:00",
+    "sections": {
+        "risk": "canada/Nicaragua/risk.md",
+        "security": "canada/Nicaragua/security.md",
+        "entryexit": "canada/Nicaragua/entryexit.md",
+        "health": "canada/Nicaragua/health.md",
+        "laws": "canada/Nicaragua/laws.md",
+        "disasters": "canada/Nicaragua/disasters.md"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Barbados",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Barbados/risk.md",
+        "security": "canada/Barbados/security.md",
+        "entryexit": "canada/Barbados/entryexit.md",
+        "health": "canada/Barbados/health.md",
+        "laws": "canada/Barbados/laws.md",
+        "disasters": "canada/Barbados/disasters.md"
+    }
+}

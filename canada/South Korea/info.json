@@ -1,0 +1,13 @@
+{
+    "name": "South Korea",
+    "update_reason": "Safety and security \u2013 updated information on increased political tensions",
+    "update_date": "2025-03-17T12:02:00",
+    "sections": {
+        "risk": "canada/South Korea/risk.md",
+        "security": "canada/South Korea/security.md",
+        "entryexit": "canada/South Korea/entryexit.md",
+        "health": "canada/South Korea/health.md",
+        "laws": "canada/South Korea/laws.md",
+        "disasters": "canada/South Korea/disasters.md"
+    }
+}

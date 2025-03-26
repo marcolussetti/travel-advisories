@@ -1,0 +1,13 @@
+{
+    "name": "Guadeloupe",
+    "update_reason": "Health \u2013 editorial update",
+    "update_date": "2025-03-18T13:47:00",
+    "sections": {
+        "risk": "canada/Guadeloupe/risk.md",
+        "security": "canada/Guadeloupe/security.md",
+        "entryexit": "canada/Guadeloupe/entryexit.md",
+        "health": "canada/Guadeloupe/health.md",
+        "laws": "canada/Guadeloupe/laws.md",
+        "disasters": "canada/Guadeloupe/disasters.md"
+    }
+}

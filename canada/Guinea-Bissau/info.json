@@ -1,0 +1,13 @@
+{
+    "name": "Guinea-Bissau",
+    "update_reason": "Health \u2013 travel health notice for Zika Virus removed",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Guinea-Bissau/risk.md",
+        "security": "canada/Guinea-Bissau/security.md",
+        "entryexit": "canada/Guinea-Bissau/entryexit.md",
+        "health": "canada/Guinea-Bissau/health.md",
+        "laws": "canada/Guinea-Bissau/laws.md",
+        "disasters": "canada/Guinea-Bissau/disasters.md"
+    }
+}

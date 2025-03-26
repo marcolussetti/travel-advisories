@@ -1,0 +1,13 @@
+{
+    "name": "Vanuatu",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Vanuatu/risk.md",
+        "security": "canada/Vanuatu/security.md",
+        "entryexit": "canada/Vanuatu/entryexit.md",
+        "health": "canada/Vanuatu/health.md",
+        "laws": "canada/Vanuatu/laws.md",
+        "disasters": "canada/Vanuatu/disasters.md"
+    }
+}

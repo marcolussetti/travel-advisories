@@ -1,0 +1,13 @@
+{
+    "name": "Netherlands",
+    "update_reason": "Editorial change",
+    "update_date": "2025-03-12T09:57:00",
+    "sections": {
+        "risk": "canada/Netherlands/risk.md",
+        "security": "canada/Netherlands/security.md",
+        "entryexit": "canada/Netherlands/entryexit.md",
+        "health": "canada/Netherlands/health.md",
+        "laws": "canada/Netherlands/laws.md",
+        "disasters": "canada/Netherlands/disasters.md"
+    }
+}

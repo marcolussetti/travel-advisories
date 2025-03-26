@@ -1,0 +1,13 @@
+{
+    "name": "Gabon",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Gabon/risk.md",
+        "security": "canada/Gabon/security.md",
+        "entryexit": "canada/Gabon/entryexit.md",
+        "health": "canada/Gabon/health.md",
+        "laws": "canada/Gabon/laws.md",
+        "disasters": "canada/Gabon/disasters.md"
+    }
+}

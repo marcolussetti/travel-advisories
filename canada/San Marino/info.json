@@ -1,0 +1,13 @@
+{
+    "name": "San Marino",
+    "update_reason": "Editorial change",
+    "update_date": "2025-03-12T13:35:00",
+    "sections": {
+        "risk": "canada/San Marino/risk.md",
+        "security": "canada/San Marino/security.md",
+        "entryexit": "canada/San Marino/entryexit.md",
+        "health": "canada/San Marino/health.md",
+        "laws": "canada/San Marino/laws.md",
+        "disasters": "canada/San Marino/disasters.md"
+    }
+}

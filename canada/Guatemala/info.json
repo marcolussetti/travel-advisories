@@ -1,0 +1,13 @@
+{
+    "name": "Guatemala",
+    "update_reason": "Health \u2013 editorial update",
+    "update_date": "2025-03-18T13:49:00",
+    "sections": {
+        "risk": "canada/Guatemala/risk.md",
+        "security": "canada/Guatemala/security.md",
+        "entryexit": "canada/Guatemala/entryexit.md",
+        "health": "canada/Guatemala/health.md",
+        "laws": "canada/Guatemala/laws.md",
+        "disasters": "canada/Guatemala/disasters.md"
+    }
+}

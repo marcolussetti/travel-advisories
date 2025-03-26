@@ -1,0 +1,13 @@
+{
+    "name": "Morocco",
+    "update_reason": "Editorial change",
+    "update_date": "2025-03-12T09:46:00",
+    "sections": {
+        "risk": "canada/Morocco/risk.md",
+        "security": "canada/Morocco/security.md",
+        "entryexit": "canada/Morocco/entryexit.md",
+        "health": "canada/Morocco/health.md",
+        "laws": "canada/Morocco/laws.md",
+        "disasters": "canada/Morocco/disasters.md"
+    }
+}

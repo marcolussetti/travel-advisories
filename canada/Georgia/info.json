@@ -1,0 +1,13 @@
+{
+    "name": "Georgia",
+    "update_reason": "Editorial change",
+    "update_date": "2025-03-11T16:17:00",
+    "sections": {
+        "risk": "canada/Georgia/risk.md",
+        "security": "canada/Georgia/security.md",
+        "entryexit": "canada/Georgia/entryexit.md",
+        "health": "canada/Georgia/health.md",
+        "laws": "canada/Georgia/laws.md",
+        "disasters": "canada/Georgia/disasters.md"
+    }
+}

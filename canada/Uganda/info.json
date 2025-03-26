@@ -1,0 +1,13 @@
+{
+    "name": "Uganda",
+    "update_reason": "Health \u2013 editorial update",
+    "update_date": "2025-03-18T13:56:00",
+    "sections": {
+        "risk": "canada/Uganda/risk.md",
+        "security": "canada/Uganda/security.md",
+        "entryexit": "canada/Uganda/entryexit.md",
+        "health": "canada/Uganda/health.md",
+        "laws": "canada/Uganda/laws.md",
+        "disasters": "canada/Uganda/disasters.md"
+    }
+}

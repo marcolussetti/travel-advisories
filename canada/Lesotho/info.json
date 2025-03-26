@@ -1,0 +1,13 @@
+{
+    "name": "Lesotho",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Lesotho/risk.md",
+        "security": "canada/Lesotho/security.md",
+        "entryexit": "canada/Lesotho/entryexit.md",
+        "health": "canada/Lesotho/health.md",
+        "laws": "canada/Lesotho/laws.md",
+        "disasters": "canada/Lesotho/disasters.md"
+    }
+}

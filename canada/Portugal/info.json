@@ -1,0 +1,13 @@
+{
+    "name": "Portugal",
+    "update_reason": "Editorial change",
+    "update_date": "2025-03-12T13:30:00",
+    "sections": {
+        "risk": "canada/Portugal/risk.md",
+        "security": "canada/Portugal/security.md",
+        "entryexit": "canada/Portugal/entryexit.md",
+        "health": "canada/Portugal/health.md",
+        "laws": "canada/Portugal/laws.md",
+        "disasters": "canada/Portugal/disasters.md"
+    }
+}

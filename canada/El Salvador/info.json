@@ -1,0 +1,13 @@
+{
+    "name": "El Salvador",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/El Salvador/risk.md",
+        "security": "canada/El Salvador/security.md",
+        "entryexit": "canada/El Salvador/entryexit.md",
+        "health": "canada/El Salvador/health.md",
+        "laws": "canada/El Salvador/laws.md",
+        "disasters": "canada/El Salvador/disasters.md"
+    }
+}

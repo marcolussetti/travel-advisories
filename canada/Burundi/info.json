@@ -1,0 +1,13 @@
+{
+    "name": "Burundi",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Burundi/risk.md",
+        "security": "canada/Burundi/security.md",
+        "entryexit": "canada/Burundi/entryexit.md",
+        "health": "canada/Burundi/health.md",
+        "laws": "canada/Burundi/laws.md",
+        "disasters": "canada/Burundi/disasters.md"
+    }
+}

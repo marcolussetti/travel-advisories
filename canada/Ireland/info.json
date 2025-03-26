@@ -1,0 +1,13 @@
+{
+    "name": "Ireland",
+    "update_reason": "Editorial change",
+    "update_date": "2025-03-11T16:27:00",
+    "sections": {
+        "risk": "canada/Ireland/risk.md",
+        "security": "canada/Ireland/security.md",
+        "entryexit": "canada/Ireland/entryexit.md",
+        "health": "canada/Ireland/health.md",
+        "laws": "canada/Ireland/laws.md",
+        "disasters": "canada/Ireland/disasters.md"
+    }
+}

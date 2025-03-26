@@ -1,0 +1,13 @@
+{
+    "name": "Denmark",
+    "update_reason": "editorial change",
+    "update_date": "2025-03-12T10:02:00",
+    "sections": {
+        "risk": "canada/Denmark/risk.md",
+        "security": "canada/Denmark/security.md",
+        "entryexit": "canada/Denmark/entryexit.md",
+        "health": "canada/Denmark/health.md",
+        "laws": "canada/Denmark/laws.md",
+        "disasters": "canada/Denmark/disasters.md"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Turks and Caicos Islands",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Turks and Caicos Islands/risk.md",
+        "security": "canada/Turks and Caicos Islands/security.md",
+        "entryexit": "canada/Turks and Caicos Islands/entryexit.md",
+        "health": "canada/Turks and Caicos Islands/health.md",
+        "laws": "canada/Turks and Caicos Islands/laws.md",
+        "disasters": "canada/Turks and Caicos Islands/disasters.md"
+    }
+}

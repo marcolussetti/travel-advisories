@@ -1,0 +1,13 @@
+{
+    "name": "Guam",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Guam/risk.md",
+        "security": "canada/Guam/security.md",
+        "entryexit": "canada/Guam/entryexit.md",
+        "health": "canada/Guam/health.md",
+        "laws": "canada/Guam/laws.md",
+        "disasters": "canada/Guam/disasters.md"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Greece",
+    "update_reason": "editorial change",
+    "update_date": "2025-03-21T11:38:00",
+    "sections": {
+        "risk": "canada/Greece/risk.md",
+        "security": "canada/Greece/security.md",
+        "entryexit": "canada/Greece/entryexit.md",
+        "health": "canada/Greece/health.md",
+        "laws": "canada/Greece/laws.md",
+        "disasters": "canada/Greece/disasters.md"
+    }
+}

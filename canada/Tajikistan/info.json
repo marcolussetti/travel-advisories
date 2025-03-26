@@ -1,0 +1,13 @@
+{
+    "name": "Tajikistan",
+    "update_reason": "Safety and security \u2013 removed information on an increased terror threat",
+    "update_date": "2025-03-24T12:49:00",
+    "sections": {
+        "risk": "canada/Tajikistan/risk.md",
+        "security": "canada/Tajikistan/security.md",
+        "entryexit": "canada/Tajikistan/entryexit.md",
+        "health": "canada/Tajikistan/health.md",
+        "laws": "canada/Tajikistan/laws.md",
+        "disasters": "canada/Tajikistan/disasters.md"
+    }
+}

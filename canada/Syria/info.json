@@ -1,0 +1,13 @@
+{
+    "name": "Syria",
+    "update_reason": "Editorial change",
+    "update_date": "2025-03-12T11:16:00",
+    "sections": {
+        "risk": "canada/Syria/risk.md",
+        "security": "canada/Syria/security.md",
+        "entryexit": "canada/Syria/entryexit.md",
+        "health": "canada/Syria/health.md",
+        "laws": "canada/Syria/laws.md",
+        "disasters": "canada/Syria/disasters.md"
+    }
+}

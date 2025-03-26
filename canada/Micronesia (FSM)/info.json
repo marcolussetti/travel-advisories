@@ -1,0 +1,13 @@
+{
+    "name": "Micronesia (FSM)",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Micronesia (FSM)/risk.md",
+        "security": "canada/Micronesia (FSM)/security.md",
+        "entryexit": "canada/Micronesia (FSM)/entryexit.md",
+        "health": "canada/Micronesia (FSM)/health.md",
+        "laws": "canada/Micronesia (FSM)/laws.md",
+        "disasters": "canada/Micronesia (FSM)/disasters.md"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Romania",
+    "update_reason": "Editorial change",
+    "update_date": "2025-03-12T13:31:00",
+    "sections": {
+        "risk": "canada/Romania/risk.md",
+        "security": "canada/Romania/security.md",
+        "entryexit": "canada/Romania/entryexit.md",
+        "health": "canada/Romania/health.md",
+        "laws": "canada/Romania/laws.md",
+        "disasters": "canada/Romania/disasters.md"
+    }
+}

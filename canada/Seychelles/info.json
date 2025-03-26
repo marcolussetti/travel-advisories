@@ -1,0 +1,13 @@
+{
+    "name": "Seychelles",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Seychelles/risk.md",
+        "security": "canada/Seychelles/security.md",
+        "entryexit": "canada/Seychelles/entryexit.md",
+        "health": "canada/Seychelles/health.md",
+        "laws": "canada/Seychelles/laws.md",
+        "disasters": "canada/Seychelles/disasters.md"
+    }
+}

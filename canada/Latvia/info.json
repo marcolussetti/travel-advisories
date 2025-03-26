@@ -1,0 +1,13 @@
+{
+    "name": "Latvia",
+    "update_reason": "Editorial change",
+    "update_date": "2025-03-11T16:39:00",
+    "sections": {
+        "risk": "canada/Latvia/risk.md",
+        "security": "canada/Latvia/security.md",
+        "entryexit": "canada/Latvia/entryexit.md",
+        "health": "canada/Latvia/health.md",
+        "laws": "canada/Latvia/laws.md",
+        "disasters": "canada/Latvia/disasters.md"
+    }
+}

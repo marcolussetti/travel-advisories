@@ -1,0 +1,13 @@
+{
+    "name": "Mauritania",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Mauritania/risk.md",
+        "security": "canada/Mauritania/security.md",
+        "entryexit": "canada/Mauritania/entryexit.md",
+        "health": "canada/Mauritania/health.md",
+        "laws": "canada/Mauritania/laws.md",
+        "disasters": "canada/Mauritania/disasters.md"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Cambodia",
+    "update_reason": "Editorial change",
+    "update_date": "2025-03-17T09:19:00",
+    "sections": {
+        "risk": "canada/Cambodia/risk.md",
+        "security": "canada/Cambodia/security.md",
+        "entryexit": "canada/Cambodia/entryexit.md",
+        "health": "canada/Cambodia/health.md",
+        "laws": "canada/Cambodia/laws.md",
+        "disasters": "canada/Cambodia/disasters.md"
+    }
+}

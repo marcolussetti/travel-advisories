@@ -1,0 +1,13 @@
+{
+    "name": "Zimbabwe",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Zimbabwe/risk.md",
+        "security": "canada/Zimbabwe/security.md",
+        "entryexit": "canada/Zimbabwe/entryexit.md",
+        "health": "canada/Zimbabwe/health.md",
+        "laws": "canada/Zimbabwe/laws.md",
+        "disasters": "canada/Zimbabwe/disasters.md"
+    }
+}

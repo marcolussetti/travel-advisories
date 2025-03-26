@@ -1,0 +1,13 @@
+{
+    "name": "Benin",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Benin/risk.md",
+        "security": "canada/Benin/security.md",
+        "entryexit": "canada/Benin/entryexit.md",
+        "health": "canada/Benin/health.md",
+        "laws": "canada/Benin/laws.md",
+        "disasters": "canada/Benin/disasters.md"
+    }
+}

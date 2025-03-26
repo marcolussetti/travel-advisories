@@ -1,0 +1,13 @@
+{
+    "name": "Bhutan",
+    "update_reason": "Health \u2013 editorial update",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Bhutan/risk.md",
+        "security": "canada/Bhutan/security.md",
+        "entryexit": "canada/Bhutan/entryexit.md",
+        "health": "canada/Bhutan/health.md",
+        "laws": "canada/Bhutan/laws.md",
+        "disasters": "canada/Bhutan/disasters.md"
+    }
+}

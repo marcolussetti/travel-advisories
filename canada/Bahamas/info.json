@@ -1,0 +1,13 @@
+{
+    "name": "Bahamas",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Bahamas/risk.md",
+        "security": "canada/Bahamas/security.md",
+        "entryexit": "canada/Bahamas/entryexit.md",
+        "health": "canada/Bahamas/health.md",
+        "laws": "canada/Bahamas/laws.md",
+        "disasters": "canada/Bahamas/disasters.md"
+    }
+}

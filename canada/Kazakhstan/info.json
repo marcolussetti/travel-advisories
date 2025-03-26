@@ -1,0 +1,13 @@
+{
+    "name": "Kazakhstan",
+    "update_reason": "Editorial change",
+    "update_date": "2025-03-11T16:32:00",
+    "sections": {
+        "risk": "canada/Kazakhstan/risk.md",
+        "security": "canada/Kazakhstan/security.md",
+        "entryexit": "canada/Kazakhstan/entryexit.md",
+        "health": "canada/Kazakhstan/health.md",
+        "laws": "canada/Kazakhstan/laws.md",
+        "disasters": "canada/Kazakhstan/disasters.md"
+    }
+}

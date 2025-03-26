@@ -1,0 +1,13 @@
+{
+    "name": "Ghana",
+    "update_reason": "Health \u2013 editorial update",
+    "update_date": "2025-03-18T13:45:00",
+    "sections": {
+        "risk": "canada/Ghana/risk.md",
+        "security": "canada/Ghana/security.md",
+        "entryexit": "canada/Ghana/entryexit.md",
+        "health": "canada/Ghana/health.md",
+        "laws": "canada/Ghana/laws.md",
+        "disasters": "canada/Ghana/disasters.md"
+    }
+}

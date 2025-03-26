@@ -1,0 +1,13 @@
+{
+    "name": "Rwanda",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Rwanda/risk.md",
+        "security": "canada/Rwanda/security.md",
+        "entryexit": "canada/Rwanda/entryexit.md",
+        "health": "canada/Rwanda/health.md",
+        "laws": "canada/Rwanda/laws.md",
+        "disasters": "canada/Rwanda/disasters.md"
+    }
+}

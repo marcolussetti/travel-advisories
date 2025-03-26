@@ -1,0 +1,13 @@
+{
+    "name": "Pakistan",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Pakistan/risk.md",
+        "security": "canada/Pakistan/security.md",
+        "entryexit": "canada/Pakistan/entryexit.md",
+        "health": "canada/Pakistan/health.md",
+        "laws": "canada/Pakistan/laws.md",
+        "disasters": "canada/Pakistan/disasters.md"
+    }
+}

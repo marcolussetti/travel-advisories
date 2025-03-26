@@ -1,0 +1,13 @@
+{
+    "name": "Lebanon",
+    "update_reason": "Editorial change",
+    "update_date": "2025-03-11T16:40:00",
+    "sections": {
+        "risk": "canada/Lebanon/risk.md",
+        "security": "canada/Lebanon/security.md",
+        "entryexit": "canada/Lebanon/entryexit.md",
+        "health": "canada/Lebanon/health.md",
+        "laws": "canada/Lebanon/laws.md",
+        "disasters": "canada/Lebanon/disasters.md"
+    }
+}

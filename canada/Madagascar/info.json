@@ -1,0 +1,13 @@
+{
+    "name": "Madagascar",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Madagascar/risk.md",
+        "security": "canada/Madagascar/security.md",
+        "entryexit": "canada/Madagascar/entryexit.md",
+        "health": "canada/Madagascar/health.md",
+        "laws": "canada/Madagascar/laws.md",
+        "disasters": "canada/Madagascar/disasters.md"
+    }
+}

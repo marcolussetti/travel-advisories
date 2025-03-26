@@ -1,0 +1,13 @@
+{
+    "name": "Macao",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Macao/risk.md",
+        "security": "canada/Macao/security.md",
+        "entryexit": "canada/Macao/entryexit.md",
+        "health": "canada/Macao/health.md",
+        "laws": "canada/Macao/laws.md",
+        "disasters": "canada/Macao/disasters.md"
+    }
+}

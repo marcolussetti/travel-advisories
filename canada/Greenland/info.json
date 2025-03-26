@@ -1,0 +1,13 @@
+{
+    "name": "Greenland",
+    "update_reason": "Editorial change",
+    "update_date": "2025-03-11T16:23:00",
+    "sections": {
+        "risk": "canada/Greenland/risk.md",
+        "security": "canada/Greenland/security.md",
+        "entryexit": "canada/Greenland/entryexit.md",
+        "health": "canada/Greenland/health.md",
+        "laws": "canada/Greenland/laws.md",
+        "disasters": "canada/Greenland/disasters.md"
+    }
+}

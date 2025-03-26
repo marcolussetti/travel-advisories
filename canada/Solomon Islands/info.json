@@ -1,0 +1,13 @@
+{
+    "name": "Solomon Islands",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Solomon Islands/risk.md",
+        "security": "canada/Solomon Islands/security.md",
+        "entryexit": "canada/Solomon Islands/entryexit.md",
+        "health": "canada/Solomon Islands/health.md",
+        "laws": "canada/Solomon Islands/laws.md",
+        "disasters": "canada/Solomon Islands/disasters.md"
+    }
+}

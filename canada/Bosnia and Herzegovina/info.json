@@ -1,0 +1,13 @@
+{
+    "name": "Bosnia and Herzegovina",
+    "update_reason": "editorial change",
+    "update_date": "2025-03-12T09:50:00",
+    "sections": {
+        "risk": "canada/Bosnia and Herzegovina/risk.md",
+        "security": "canada/Bosnia and Herzegovina/security.md",
+        "entryexit": "canada/Bosnia and Herzegovina/entryexit.md",
+        "health": "canada/Bosnia and Herzegovina/health.md",
+        "laws": "canada/Bosnia and Herzegovina/laws.md",
+        "disasters": "canada/Bosnia and Herzegovina/disasters.md"
+    }
+}

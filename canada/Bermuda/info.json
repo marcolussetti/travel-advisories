@@ -1,0 +1,13 @@
+{
+    "name": "Bermuda",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Bermuda/risk.md",
+        "security": "canada/Bermuda/security.md",
+        "entryexit": "canada/Bermuda/entryexit.md",
+        "health": "canada/Bermuda/health.md",
+        "laws": "canada/Bermuda/laws.md",
+        "disasters": "canada/Bermuda/disasters.md"
+    }
+}

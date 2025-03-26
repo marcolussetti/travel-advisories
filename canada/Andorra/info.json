@@ -1,0 +1,13 @@
+{
+    "name": "Andorra",
+    "update_reason": "editorial change",
+    "update_date": "2025-03-11T16:50:00",
+    "sections": {
+        "risk": "canada/Andorra/risk.md",
+        "security": "canada/Andorra/security.md",
+        "entryexit": "canada/Andorra/entryexit.md",
+        "health": "canada/Andorra/health.md",
+        "laws": "canada/Andorra/laws.md",
+        "disasters": "canada/Andorra/disasters.md"
+    }
+}

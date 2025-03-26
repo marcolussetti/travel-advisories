@@ -1,0 +1,13 @@
+{
+    "name": "Eswatini",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Eswatini/risk.md",
+        "security": "canada/Eswatini/security.md",
+        "entryexit": "canada/Eswatini/entryexit.md",
+        "health": "canada/Eswatini/health.md",
+        "laws": "canada/Eswatini/laws.md",
+        "disasters": "canada/Eswatini/disasters.md"
+    }
+}

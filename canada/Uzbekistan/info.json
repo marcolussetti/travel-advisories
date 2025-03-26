@@ -1,0 +1,13 @@
+{
+    "name": "Uzbekistan",
+    "update_reason": "Editorial change",
+    "update_date": "2025-03-12T11:17:00",
+    "sections": {
+        "risk": "canada/Uzbekistan/risk.md",
+        "security": "canada/Uzbekistan/security.md",
+        "entryexit": "canada/Uzbekistan/entryexit.md",
+        "health": "canada/Uzbekistan/health.md",
+        "laws": "canada/Uzbekistan/laws.md",
+        "disasters": "canada/Uzbekistan/disasters.md"
+    }
+}

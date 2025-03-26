@@ -1,0 +1,13 @@
+{
+    "name": "Estonia",
+    "update_reason": "editorial change",
+    "update_date": "2025-03-12T10:04:00",
+    "sections": {
+        "risk": "canada/Estonia/risk.md",
+        "security": "canada/Estonia/security.md",
+        "entryexit": "canada/Estonia/entryexit.md",
+        "health": "canada/Estonia/health.md",
+        "laws": "canada/Estonia/laws.md",
+        "disasters": "canada/Estonia/disasters.md"
+    }
+}

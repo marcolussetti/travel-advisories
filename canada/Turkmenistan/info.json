@@ -1,0 +1,13 @@
+{
+    "name": "Turkmenistan",
+    "update_reason": "Editorial change",
+    "update_date": "2025-03-12T13:37:00",
+    "sections": {
+        "risk": "canada/Turkmenistan/risk.md",
+        "security": "canada/Turkmenistan/security.md",
+        "entryexit": "canada/Turkmenistan/entryexit.md",
+        "health": "canada/Turkmenistan/health.md",
+        "laws": "canada/Turkmenistan/laws.md",
+        "disasters": "canada/Turkmenistan/disasters.md"
+    }
+}

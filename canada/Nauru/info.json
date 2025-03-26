@@ -1,0 +1,13 @@
+{
+    "name": "Nauru",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Nauru/risk.md",
+        "security": "canada/Nauru/security.md",
+        "entryexit": "canada/Nauru/entryexit.md",
+        "health": "canada/Nauru/health.md",
+        "laws": "canada/Nauru/laws.md",
+        "disasters": "canada/Nauru/disasters.md"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Canary Islands",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Canary Islands/risk.md",
+        "security": "canada/Canary Islands/security.md",
+        "entryexit": "canada/Canary Islands/entryexit.md",
+        "health": "canada/Canary Islands/health.md",
+        "laws": "canada/Canary Islands/laws.md",
+        "disasters": "canada/Canary Islands/disasters.md"
+    }
+}

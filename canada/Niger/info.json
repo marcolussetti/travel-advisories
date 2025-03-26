@@ -1,0 +1,13 @@
+{
+    "name": "Niger",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Niger/risk.md",
+        "security": "canada/Niger/security.md",
+        "entryexit": "canada/Niger/entryexit.md",
+        "health": "canada/Niger/health.md",
+        "laws": "canada/Niger/laws.md",
+        "disasters": "canada/Niger/disasters.md"
+    }
+}

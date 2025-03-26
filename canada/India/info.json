@@ -1,0 +1,13 @@
+{
+    "name": "India",
+    "update_reason": "Health \u2013 removed the Travel health notice for Zika",
+    "update_date": "2025-03-18T14:01:00",
+    "sections": {
+        "risk": "canada/India/risk.md",
+        "security": "canada/India/security.md",
+        "entryexit": "canada/India/entryexit.md",
+        "health": "canada/India/health.md",
+        "laws": "canada/India/laws.md",
+        "disasters": "canada/India/disasters.md"
+    }
+}

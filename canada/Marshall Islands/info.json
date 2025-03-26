@@ -1,0 +1,13 @@
+{
+    "name": "Marshall Islands",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Marshall Islands/risk.md",
+        "security": "canada/Marshall Islands/security.md",
+        "entryexit": "canada/Marshall Islands/entryexit.md",
+        "health": "canada/Marshall Islands/health.md",
+        "laws": "canada/Marshall Islands/laws.md",
+        "disasters": "canada/Marshall Islands/disasters.md"
+    }
+}

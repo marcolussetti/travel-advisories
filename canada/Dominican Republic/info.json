@@ -1,0 +1,13 @@
+{
+    "name": "Dominican Republic",
+    "update_reason": "Health \u2013 editorial update",
+    "update_date": "2025-03-18T13:34:00",
+    "sections": {
+        "risk": "canada/Dominican Republic/risk.md",
+        "security": "canada/Dominican Republic/security.md",
+        "entryexit": "canada/Dominican Republic/entryexit.md",
+        "health": "canada/Dominican Republic/health.md",
+        "laws": "canada/Dominican Republic/laws.md",
+        "disasters": "canada/Dominican Republic/disasters.md"
+    }
+}

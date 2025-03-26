@@ -1,0 +1,13 @@
+{
+    "name": "Spain",
+    "update_reason": "Editorial change",
+    "update_date": "2025-03-12T13:31:00",
+    "sections": {
+        "risk": "canada/Spain/risk.md",
+        "security": "canada/Spain/security.md",
+        "entryexit": "canada/Spain/entryexit.md",
+        "health": "canada/Spain/health.md",
+        "laws": "canada/Spain/laws.md",
+        "disasters": "canada/Spain/disasters.md"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Moldova",
+    "update_reason": "Editorial change",
+    "update_date": "2025-03-12T09:41:00",
+    "sections": {
+        "risk": "canada/Moldova/risk.md",
+        "security": "canada/Moldova/security.md",
+        "entryexit": "canada/Moldova/entryexit.md",
+        "health": "canada/Moldova/health.md",
+        "laws": "canada/Moldova/laws.md",
+        "disasters": "canada/Moldova/disasters.md"
+    }
+}

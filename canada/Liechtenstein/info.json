@@ -1,0 +1,13 @@
+{
+    "name": "Liechtenstein",
+    "update_reason": "Editorial change",
+    "update_date": "2025-03-12T09:36:00",
+    "sections": {
+        "risk": "canada/Liechtenstein/risk.md",
+        "security": "canada/Liechtenstein/security.md",
+        "entryexit": "canada/Liechtenstein/entryexit.md",
+        "health": "canada/Liechtenstein/health.md",
+        "laws": "canada/Liechtenstein/laws.md",
+        "disasters": "canada/Liechtenstein/disasters.md"
+    }
+}

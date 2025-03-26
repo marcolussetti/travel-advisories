@@ -1,0 +1,13 @@
+{
+    "name": "Poland",
+    "update_reason": "The Need help? section was updated.",
+    "update_date": "2025-03-21T08:31:00",
+    "sections": {
+        "risk": "canada/Poland/risk.md",
+        "security": "canada/Poland/security.md",
+        "entryexit": "canada/Poland/entryexit.md",
+        "health": "canada/Poland/health.md",
+        "laws": "canada/Poland/laws.md",
+        "disasters": "canada/Poland/disasters.md"
+    }
+}

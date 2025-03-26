@@ -1,0 +1,13 @@
+{
+    "name": "Saudi Arabia",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Saudi Arabia/risk.md",
+        "security": "canada/Saudi Arabia/security.md",
+        "entryexit": "canada/Saudi Arabia/entryexit.md",
+        "health": "canada/Saudi Arabia/health.md",
+        "laws": "canada/Saudi Arabia/laws.md",
+        "disasters": "canada/Saudi Arabia/disasters.md"
+    }
+}

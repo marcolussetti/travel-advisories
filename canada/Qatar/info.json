@@ -1,0 +1,13 @@
+{
+    "name": "Qatar",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Qatar/risk.md",
+        "security": "canada/Qatar/security.md",
+        "entryexit": "canada/Qatar/entryexit.md",
+        "health": "canada/Qatar/health.md",
+        "laws": "canada/Qatar/laws.md",
+        "disasters": "canada/Qatar/disasters.md"
+    }
+}

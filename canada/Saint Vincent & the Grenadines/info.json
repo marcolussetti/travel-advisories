@@ -1,0 +1,13 @@
+{
+    "name": "Saint Vincent & the Grenadines",
+    "update_reason": "Health \u2013 editorial update",
+    "update_date": "2025-03-18T13:41:00",
+    "sections": {
+        "risk": "canada/Saint Vincent & the Grenadines/risk.md",
+        "security": "canada/Saint Vincent & the Grenadines/security.md",
+        "entryexit": "canada/Saint Vincent & the Grenadines/entryexit.md",
+        "health": "canada/Saint Vincent & the Grenadines/health.md",
+        "laws": "canada/Saint Vincent & the Grenadines/laws.md",
+        "disasters": "canada/Saint Vincent & the Grenadines/disasters.md"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "French Guiana",
+    "update_reason": "Health \u2013 editorial update",
+    "update_date": "2025-03-18T13:39:00",
+    "sections": {
+        "risk": "canada/French Guiana/risk.md",
+        "security": "canada/French Guiana/security.md",
+        "entryexit": "canada/French Guiana/entryexit.md",
+        "health": "canada/French Guiana/health.md",
+        "laws": "canada/French Guiana/laws.md",
+        "disasters": "canada/French Guiana/disasters.md"
+    }
+}

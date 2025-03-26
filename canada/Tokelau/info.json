@@ -1,0 +1,13 @@
+{
+    "name": "Tokelau",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Tokelau/risk.md",
+        "security": "canada/Tokelau/security.md",
+        "entryexit": "canada/Tokelau/entryexit.md",
+        "health": "canada/Tokelau/health.md",
+        "laws": "canada/Tokelau/laws.md",
+        "disasters": "canada/Tokelau/disasters.md"
+    }
+}

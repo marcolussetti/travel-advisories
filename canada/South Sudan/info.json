@@ -1,0 +1,13 @@
+{
+    "name": "South Sudan",
+    "update_reason": "Safety and security \u2013 added information on ongoing hostilities in Upper Nile State and updated information on the security situation in northern states",
+    "update_date": "2025-03-19T10:43:00",
+    "sections": {
+        "risk": "canada/South Sudan/risk.md",
+        "security": "canada/South Sudan/security.md",
+        "entryexit": "canada/South Sudan/entryexit.md",
+        "health": "canada/South Sudan/health.md",
+        "laws": "canada/South Sudan/laws.md",
+        "disasters": "canada/South Sudan/disasters.md"
+    }
+}

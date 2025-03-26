@@ -1,0 +1,13 @@
+{
+    "name": "Cook Islands",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Cook Islands/risk.md",
+        "security": "canada/Cook Islands/security.md",
+        "entryexit": "canada/Cook Islands/entryexit.md",
+        "health": "canada/Cook Islands/health.md",
+        "laws": "canada/Cook Islands/laws.md",
+        "disasters": "canada/Cook Islands/disasters.md"
+    }
+}

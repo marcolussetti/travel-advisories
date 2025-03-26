@@ -1,0 +1,13 @@
+{
+    "name": "Bulgaria",
+    "update_reason": "editorial change",
+    "update_date": "2025-03-12T09:53:00",
+    "sections": {
+        "risk": "canada/Bulgaria/risk.md",
+        "security": "canada/Bulgaria/security.md",
+        "entryexit": "canada/Bulgaria/entryexit.md",
+        "health": "canada/Bulgaria/health.md",
+        "laws": "canada/Bulgaria/laws.md",
+        "disasters": "canada/Bulgaria/disasters.md"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Nepal",
+    "update_reason": "Health \u2013 editorial update",
+    "update_date": "2025-03-18T13:03:00",
+    "sections": {
+        "risk": "canada/Nepal/risk.md",
+        "security": "canada/Nepal/security.md",
+        "entryexit": "canada/Nepal/entryexit.md",
+        "health": "canada/Nepal/health.md",
+        "laws": "canada/Nepal/laws.md",
+        "disasters": "canada/Nepal/disasters.md"
+    }
+}

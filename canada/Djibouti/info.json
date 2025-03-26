@@ -1,0 +1,13 @@
+{
+    "name": "Djibouti",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Djibouti/risk.md",
+        "security": "canada/Djibouti/security.md",
+        "entryexit": "canada/Djibouti/entryexit.md",
+        "health": "canada/Djibouti/health.md",
+        "laws": "canada/Djibouti/laws.md",
+        "disasters": "canada/Djibouti/disasters.md"
+    }
+}

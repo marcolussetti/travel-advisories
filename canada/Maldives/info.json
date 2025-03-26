@@ -1,0 +1,13 @@
+{
+    "name": "Maldives",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Maldives/risk.md",
+        "security": "canada/Maldives/security.md",
+        "entryexit": "canada/Maldives/entryexit.md",
+        "health": "canada/Maldives/health.md",
+        "laws": "canada/Maldives/laws.md",
+        "disasters": "canada/Maldives/disasters.md"
+    }
+}

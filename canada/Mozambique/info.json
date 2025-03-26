@@ -1,0 +1,13 @@
+{
+    "name": "Mozambique",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Mozambique/risk.md",
+        "security": "canada/Mozambique/security.md",
+        "entryexit": "canada/Mozambique/entryexit.md",
+        "health": "canada/Mozambique/health.md",
+        "laws": "canada/Mozambique/laws.md",
+        "disasters": "canada/Mozambique/disasters.md"
+    }
+}

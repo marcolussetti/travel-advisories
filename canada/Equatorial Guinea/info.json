@@ -1,0 +1,13 @@
+{
+    "name": "Equatorial Guinea",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Equatorial Guinea/risk.md",
+        "security": "canada/Equatorial Guinea/security.md",
+        "entryexit": "canada/Equatorial Guinea/entryexit.md",
+        "health": "canada/Equatorial Guinea/health.md",
+        "laws": "canada/Equatorial Guinea/laws.md",
+        "disasters": "canada/Equatorial Guinea/disasters.md"
+    }
+}

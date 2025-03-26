@@ -1,0 +1,13 @@
+{
+    "name": "Anguilla",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Anguilla/risk.md",
+        "security": "canada/Anguilla/security.md",
+        "entryexit": "canada/Anguilla/entryexit.md",
+        "health": "canada/Anguilla/health.md",
+        "laws": "canada/Anguilla/laws.md",
+        "disasters": "canada/Anguilla/disasters.md"
+    }
+}

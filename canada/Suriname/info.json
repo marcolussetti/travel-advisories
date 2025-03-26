@@ -1,0 +1,13 @@
+{
+    "name": "Suriname",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Suriname/risk.md",
+        "security": "canada/Suriname/security.md",
+        "entryexit": "canada/Suriname/entryexit.md",
+        "health": "canada/Suriname/health.md",
+        "laws": "canada/Suriname/laws.md",
+        "disasters": "canada/Suriname/disasters.md"
+    }
+}

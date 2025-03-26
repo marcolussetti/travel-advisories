@@ -1,0 +1,13 @@
+{
+    "name": "Germany",
+    "update_reason": "Editorial change",
+    "update_date": "2025-03-11T16:19:00",
+    "sections": {
+        "risk": "canada/Germany/risk.md",
+        "security": "canada/Germany/security.md",
+        "entryexit": "canada/Germany/entryexit.md",
+        "health": "canada/Germany/health.md",
+        "laws": "canada/Germany/laws.md",
+        "disasters": "canada/Germany/disasters.md"
+    }
+}

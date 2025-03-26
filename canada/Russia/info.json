@@ -1,0 +1,13 @@
+{
+    "name": "Russia",
+    "update_reason": "Editorial change",
+    "update_date": "2025-03-12T13:32:00",
+    "sections": {
+        "risk": "canada/Russia/risk.md",
+        "security": "canada/Russia/security.md",
+        "entryexit": "canada/Russia/entryexit.md",
+        "health": "canada/Russia/health.md",
+        "laws": "canada/Russia/laws.md",
+        "disasters": "canada/Russia/disasters.md"
+    }
+}

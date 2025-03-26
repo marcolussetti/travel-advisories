@@ -1,0 +1,13 @@
+{
+    "name": "Botswana",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Botswana/risk.md",
+        "security": "canada/Botswana/security.md",
+        "entryexit": "canada/Botswana/entryexit.md",
+        "health": "canada/Botswana/health.md",
+        "laws": "canada/Botswana/laws.md",
+        "disasters": "canada/Botswana/disasters.md"
+    }
+}

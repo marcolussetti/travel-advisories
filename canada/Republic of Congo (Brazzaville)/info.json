@@ -1,0 +1,13 @@
+{
+    "name": "Republic of Congo (Brazzaville)",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Republic of Congo (Brazzaville)/risk.md",
+        "security": "canada/Republic of Congo (Brazzaville)/security.md",
+        "entryexit": "canada/Republic of Congo (Brazzaville)/entryexit.md",
+        "health": "canada/Republic of Congo (Brazzaville)/health.md",
+        "laws": "canada/Republic of Congo (Brazzaville)/laws.md",
+        "disasters": "canada/Republic of Congo (Brazzaville)/disasters.md"
+    }
+}

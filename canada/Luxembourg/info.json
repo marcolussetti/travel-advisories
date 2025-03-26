@@ -1,0 +1,13 @@
+{
+    "name": "Luxembourg",
+    "update_reason": "Editorial change",
+    "update_date": "2025-03-12T09:39:00",
+    "sections": {
+        "risk": "canada/Luxembourg/risk.md",
+        "security": "canada/Luxembourg/security.md",
+        "entryexit": "canada/Luxembourg/entryexit.md",
+        "health": "canada/Luxembourg/health.md",
+        "laws": "canada/Luxembourg/laws.md",
+        "disasters": "canada/Luxembourg/disasters.md"
+    }
+}

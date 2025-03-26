@@ -1,0 +1,13 @@
+{
+    "name": "Tanzania",
+    "update_reason": "Safety and security \u2013 added information on Security threats in the coastal area and islands south of Kisiju",
+    "update_date": "2025-03-24T16:42:00",
+    "sections": {
+        "risk": "canada/Tanzania/risk.md",
+        "security": "canada/Tanzania/security.md",
+        "entryexit": "canada/Tanzania/entryexit.md",
+        "health": "canada/Tanzania/health.md",
+        "laws": "canada/Tanzania/laws.md",
+        "disasters": "canada/Tanzania/disasters.md"
+    }
+}

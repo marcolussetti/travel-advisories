@@ -1,0 +1,13 @@
+{
+    "name": "Norway",
+    "update_reason": "Editorial change",
+    "update_date": "2025-03-12T10:16:00",
+    "sections": {
+        "risk": "canada/Norway/risk.md",
+        "security": "canada/Norway/security.md",
+        "entryexit": "canada/Norway/entryexit.md",
+        "health": "canada/Norway/health.md",
+        "laws": "canada/Norway/laws.md",
+        "disasters": "canada/Norway/disasters.md"
+    }
+}

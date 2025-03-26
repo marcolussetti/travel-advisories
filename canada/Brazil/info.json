@@ -1,0 +1,13 @@
+{
+    "name": "Brazil",
+    "update_reason": "Health \u2013 editorial update",
+    "update_date": "2025-03-18T14:15:00",
+    "sections": {
+        "risk": "canada/Brazil/risk.md",
+        "security": "canada/Brazil/security.md",
+        "entryexit": "canada/Brazil/entryexit.md",
+        "health": "canada/Brazil/health.md",
+        "laws": "canada/Brazil/laws.md",
+        "disasters": "canada/Brazil/disasters.md"
+    }
+}

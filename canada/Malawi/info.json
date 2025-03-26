@@ -1,0 +1,13 @@
+{
+    "name": "Malawi",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Malawi/risk.md",
+        "security": "canada/Malawi/security.md",
+        "entryexit": "canada/Malawi/entryexit.md",
+        "health": "canada/Malawi/health.md",
+        "laws": "canada/Malawi/laws.md",
+        "disasters": "canada/Malawi/disasters.md"
+    }
+}

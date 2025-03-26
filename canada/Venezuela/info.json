@@ -1,0 +1,13 @@
+{
+    "name": "Venezuela",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Venezuela/risk.md",
+        "security": "canada/Venezuela/security.md",
+        "entryexit": "canada/Venezuela/entryexit.md",
+        "health": "canada/Venezuela/health.md",
+        "laws": "canada/Venezuela/laws.md",
+        "disasters": "canada/Venezuela/disasters.md"
+    }
+}

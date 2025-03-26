@@ -1,0 +1,13 @@
+{
+    "name": "Azerbaijan",
+    "update_reason": "editorial change",
+    "update_date": "2025-03-12T09:44:00",
+    "sections": {
+        "risk": "canada/Azerbaijan/risk.md",
+        "security": "canada/Azerbaijan/security.md",
+        "entryexit": "canada/Azerbaijan/entryexit.md",
+        "health": "canada/Azerbaijan/health.md",
+        "laws": "canada/Azerbaijan/laws.md",
+        "disasters": "canada/Azerbaijan/disasters.md"
+    }
+}

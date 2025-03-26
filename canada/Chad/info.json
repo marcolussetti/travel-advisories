@@ -1,0 +1,13 @@
+{
+    "name": "Chad",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Chad/risk.md",
+        "security": "canada/Chad/security.md",
+        "entryexit": "canada/Chad/entryexit.md",
+        "health": "canada/Chad/health.md",
+        "laws": "canada/Chad/laws.md",
+        "disasters": "canada/Chad/disasters.md"
+    }
+}

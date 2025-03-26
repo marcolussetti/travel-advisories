@@ -1,0 +1,13 @@
+{
+    "name": "Czechia",
+    "update_reason": "editorial change",
+    "update_date": "2025-03-12T10:01:00",
+    "sections": {
+        "risk": "canada/Czechia/risk.md",
+        "security": "canada/Czechia/security.md",
+        "entryexit": "canada/Czechia/entryexit.md",
+        "health": "canada/Czechia/health.md",
+        "laws": "canada/Czechia/laws.md",
+        "disasters": "canada/Czechia/disasters.md"
+    }
+}

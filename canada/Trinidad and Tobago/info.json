@@ -1,0 +1,13 @@
+{
+    "name": "Trinidad and Tobago",
+    "update_reason": "Health \u2013 editorial update",
+    "update_date": "2025-03-18T13:52:00",
+    "sections": {
+        "risk": "canada/Trinidad and Tobago/risk.md",
+        "security": "canada/Trinidad and Tobago/security.md",
+        "entryexit": "canada/Trinidad and Tobago/entryexit.md",
+        "health": "canada/Trinidad and Tobago/health.md",
+        "laws": "canada/Trinidad and Tobago/laws.md",
+        "disasters": "canada/Trinidad and Tobago/disasters.md"
+    }
+}

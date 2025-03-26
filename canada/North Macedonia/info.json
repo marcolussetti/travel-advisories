@@ -1,0 +1,13 @@
+{
+    "name": "North Macedonia",
+    "update_reason": "Editorial change",
+    "update_date": "2025-03-12T10:02:00",
+    "sections": {
+        "risk": "canada/North Macedonia/risk.md",
+        "security": "canada/North Macedonia/security.md",
+        "entryexit": "canada/North Macedonia/entryexit.md",
+        "health": "canada/North Macedonia/health.md",
+        "laws": "canada/North Macedonia/laws.md",
+        "disasters": "canada/North Macedonia/disasters.md"
+    }
+}

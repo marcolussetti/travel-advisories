@@ -1,0 +1,13 @@
+{
+    "name": "Northern Marianas",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Northern Marianas/risk.md",
+        "security": "canada/Northern Marianas/security.md",
+        "entryexit": "canada/Northern Marianas/entryexit.md",
+        "health": "canada/Northern Marianas/health.md",
+        "laws": "canada/Northern Marianas/laws.md",
+        "disasters": "canada/Northern Marianas/disasters.md"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Myanmar",
+    "update_reason": "Editorial change",
+    "update_date": "2025-03-12T09:55:00",
+    "sections": {
+        "risk": "canada/Myanmar/risk.md",
+        "security": "canada/Myanmar/security.md",
+        "entryexit": "canada/Myanmar/entryexit.md",
+        "health": "canada/Myanmar/health.md",
+        "laws": "canada/Myanmar/laws.md",
+        "disasters": "canada/Myanmar/disasters.md"
+    }
+}

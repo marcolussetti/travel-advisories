@@ -1,0 +1,13 @@
+{
+    "name": "Namibia",
+    "update_reason": "Entry and exit requirements \u2013 updated information on visa requirements",
+    "update_date": "2025-03-11T16:01:00",
+    "sections": {
+        "risk": "canada/Namibia/risk.md",
+        "security": "canada/Namibia/security.md",
+        "entryexit": "canada/Namibia/entryexit.md",
+        "health": "canada/Namibia/health.md",
+        "laws": "canada/Namibia/laws.md",
+        "disasters": "canada/Namibia/disasters.md"
+    }
+}

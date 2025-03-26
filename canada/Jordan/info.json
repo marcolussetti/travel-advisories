@@ -1,0 +1,13 @@
+{
+    "name": "Jordan",
+    "update_reason": "Editorial change",
+    "update_date": "2025-03-11T16:30:00",
+    "sections": {
+        "risk": "canada/Jordan/risk.md",
+        "security": "canada/Jordan/security.md",
+        "entryexit": "canada/Jordan/entryexit.md",
+        "health": "canada/Jordan/health.md",
+        "laws": "canada/Jordan/laws.md",
+        "disasters": "canada/Jordan/disasters.md"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Sao Tome and Principe",
+    "update_reason": "Editorial change",
+    "update_date": "2025-03-12T13:35:00",
+    "sections": {
+        "risk": "canada/Sao Tome and Principe/risk.md",
+        "security": "canada/Sao Tome and Principe/security.md",
+        "entryexit": "canada/Sao Tome and Principe/entryexit.md",
+        "health": "canada/Sao Tome and Principe/health.md",
+        "laws": "canada/Sao Tome and Principe/laws.md",
+        "disasters": "canada/Sao Tome and Principe/disasters.md"
+    }
+}

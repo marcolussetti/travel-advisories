@@ -1,0 +1,13 @@
+{
+    "name": "Dominica",
+    "update_reason": "Safety and security \u2013 added information on political demonstrations",
+    "update_date": "2025-03-20T16:24:00",
+    "sections": {
+        "risk": "canada/Dominica/risk.md",
+        "security": "canada/Dominica/security.md",
+        "entryexit": "canada/Dominica/entryexit.md",
+        "health": "canada/Dominica/health.md",
+        "laws": "canada/Dominica/laws.md",
+        "disasters": "canada/Dominica/disasters.md"
+    }
+}

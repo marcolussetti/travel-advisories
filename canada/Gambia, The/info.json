@@ -1,0 +1,13 @@
+{
+    "name": "Gambia, The",
+    "update_reason": "Editorial change",
+    "update_date": "2025-03-12T11:11:00",
+    "sections": {
+        "risk": "canada/Gambia, The/risk.md",
+        "security": "canada/Gambia, The/security.md",
+        "entryexit": "canada/Gambia, The/entryexit.md",
+        "health": "canada/Gambia, The/health.md",
+        "laws": "canada/Gambia, The/laws.md",
+        "disasters": "canada/Gambia, The/disasters.md"
+    }
+}

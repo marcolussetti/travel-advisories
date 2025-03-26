@@ -1,0 +1,13 @@
+{
+    "name": "Lithuania",
+    "update_reason": "Editorial change",
+    "update_date": "2025-03-12T09:37:00",
+    "sections": {
+        "risk": "canada/Lithuania/risk.md",
+        "security": "canada/Lithuania/security.md",
+        "entryexit": "canada/Lithuania/entryexit.md",
+        "health": "canada/Lithuania/health.md",
+        "laws": "canada/Lithuania/laws.md",
+        "disasters": "canada/Lithuania/disasters.md"
+    }
+}

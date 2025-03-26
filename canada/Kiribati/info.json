@@ -1,0 +1,13 @@
+{
+    "name": "Kiribati",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Kiribati/risk.md",
+        "security": "canada/Kiribati/security.md",
+        "entryexit": "canada/Kiribati/entryexit.md",
+        "health": "canada/Kiribati/health.md",
+        "laws": "canada/Kiribati/laws.md",
+        "disasters": "canada/Kiribati/disasters.md"
+    }
+}

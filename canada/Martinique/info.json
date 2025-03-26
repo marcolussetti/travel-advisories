@@ -1,0 +1,13 @@
+{
+    "name": "Martinique",
+    "update_reason": "Safety and security \u2013 removed information on demonstrations and strikes against the high cost of living",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Martinique/risk.md",
+        "security": "canada/Martinique/security.md",
+        "entryexit": "canada/Martinique/entryexit.md",
+        "health": "canada/Martinique/health.md",
+        "laws": "canada/Martinique/laws.md",
+        "disasters": "canada/Martinique/disasters.md"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Central African Republic",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Central African Republic/risk.md",
+        "security": "canada/Central African Republic/security.md",
+        "entryexit": "canada/Central African Republic/entryexit.md",
+        "health": "canada/Central African Republic/health.md",
+        "laws": "canada/Central African Republic/laws.md",
+        "disasters": "canada/Central African Republic/disasters.md"
+    }
+}

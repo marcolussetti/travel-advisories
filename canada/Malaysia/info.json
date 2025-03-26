@@ -1,0 +1,13 @@
+{
+    "name": "Malaysia",
+    "update_reason": "Health \u2013 editorial update",
+    "update_date": "2025-03-18T12:46:00",
+    "sections": {
+        "risk": "canada/Malaysia/risk.md",
+        "security": "canada/Malaysia/security.md",
+        "entryexit": "canada/Malaysia/entryexit.md",
+        "health": "canada/Malaysia/health.md",
+        "laws": "canada/Malaysia/laws.md",
+        "disasters": "canada/Malaysia/disasters.md"
+    }
+}

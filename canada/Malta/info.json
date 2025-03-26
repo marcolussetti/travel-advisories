@@ -1,0 +1,13 @@
+{
+    "name": "Malta",
+    "update_reason": "Editorial change",
+    "update_date": "2025-03-12T09:40:00",
+    "sections": {
+        "risk": "canada/Malta/risk.md",
+        "security": "canada/Malta/security.md",
+        "entryexit": "canada/Malta/entryexit.md",
+        "health": "canada/Malta/health.md",
+        "laws": "canada/Malta/laws.md",
+        "disasters": "canada/Malta/disasters.md"
+    }
+}

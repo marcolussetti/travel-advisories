@@ -1,0 +1,13 @@
+{
+    "name": "Montenegro",
+    "update_reason": "Editorial change",
+    "update_date": "2025-03-12T09:45:00",
+    "sections": {
+        "risk": "canada/Montenegro/risk.md",
+        "security": "canada/Montenegro/security.md",
+        "entryexit": "canada/Montenegro/entryexit.md",
+        "health": "canada/Montenegro/health.md",
+        "laws": "canada/Montenegro/laws.md",
+        "disasters": "canada/Montenegro/disasters.md"
+    }
+}

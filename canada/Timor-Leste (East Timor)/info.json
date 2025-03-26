@@ -1,0 +1,13 @@
+{
+    "name": "Timor-Leste (East Timor)",
+    "update_reason": "Health \u2013 editorial update",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Timor-Leste (East Timor)/risk.md",
+        "security": "canada/Timor-Leste (East Timor)/security.md",
+        "entryexit": "canada/Timor-Leste (East Timor)/entryexit.md",
+        "health": "canada/Timor-Leste (East Timor)/health.md",
+        "laws": "canada/Timor-Leste (East Timor)/laws.md",
+        "disasters": "canada/Timor-Leste (East Timor)/disasters.md"
+    }
+}

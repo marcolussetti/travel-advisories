@@ -1,0 +1,13 @@
+{
+    "name": "Finland",
+    "update_reason": "editorial change",
+    "update_date": "2025-03-12T10:05:00",
+    "sections": {
+        "risk": "canada/Finland/risk.md",
+        "security": "canada/Finland/security.md",
+        "entryexit": "canada/Finland/entryexit.md",
+        "health": "canada/Finland/health.md",
+        "laws": "canada/Finland/laws.md",
+        "disasters": "canada/Finland/disasters.md"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Eritrea",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Eritrea/risk.md",
+        "security": "canada/Eritrea/security.md",
+        "entryexit": "canada/Eritrea/entryexit.md",
+        "health": "canada/Eritrea/health.md",
+        "laws": "canada/Eritrea/laws.md",
+        "disasters": "canada/Eritrea/disasters.md"
+    }
+}

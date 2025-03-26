@@ -1,0 +1,13 @@
+{
+    "name": "Japan",
+    "update_reason": "The Need help? section was updated.",
+    "update_date": "2025-03-18T08:00:00",
+    "sections": {
+        "risk": "canada/Japan/risk.md",
+        "security": "canada/Japan/security.md",
+        "entryexit": "canada/Japan/entryexit.md",
+        "health": "canada/Japan/health.md",
+        "laws": "canada/Japan/laws.md",
+        "disasters": "canada/Japan/disasters.md"
+    }
+}

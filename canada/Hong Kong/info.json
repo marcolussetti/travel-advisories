@@ -1,0 +1,13 @@
+{
+    "name": "Hong Kong",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Hong Kong/risk.md",
+        "security": "canada/Hong Kong/security.md",
+        "entryexit": "canada/Hong Kong/entryexit.md",
+        "health": "canada/Hong Kong/health.md",
+        "laws": "canada/Hong Kong/laws.md",
+        "disasters": "canada/Hong Kong/disasters.md"
+    }
+}

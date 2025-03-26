@@ -1,0 +1,13 @@
+{
+    "name": "Belgium",
+    "update_reason": "editorial change",
+    "update_date": "2025-03-12T09:47:00",
+    "sections": {
+        "risk": "canada/Belgium/risk.md",
+        "security": "canada/Belgium/security.md",
+        "entryexit": "canada/Belgium/entryexit.md",
+        "health": "canada/Belgium/health.md",
+        "laws": "canada/Belgium/laws.md",
+        "disasters": "canada/Belgium/disasters.md"
+    }
+}

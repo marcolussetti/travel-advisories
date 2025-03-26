@@ -1,0 +1,13 @@
+{
+    "name": "Serbia",
+    "update_reason": "Safety and security \u2013 removed information on demonstrations in Belgrade",
+    "update_date": "2025-03-18T09:49:00",
+    "sections": {
+        "risk": "canada/Serbia/risk.md",
+        "security": "canada/Serbia/security.md",
+        "entryexit": "canada/Serbia/entryexit.md",
+        "health": "canada/Serbia/health.md",
+        "laws": "canada/Serbia/laws.md",
+        "disasters": "canada/Serbia/disasters.md"
+    }
+}

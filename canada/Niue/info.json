@@ -1,0 +1,13 @@
+{
+    "name": "Niue",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Niue/risk.md",
+        "security": "canada/Niue/security.md",
+        "entryexit": "canada/Niue/entryexit.md",
+        "health": "canada/Niue/health.md",
+        "laws": "canada/Niue/laws.md",
+        "disasters": "canada/Niue/disasters.md"
+    }
+}

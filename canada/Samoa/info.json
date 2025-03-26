@@ -1,0 +1,13 @@
+{
+    "name": "Samoa",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Samoa/risk.md",
+        "security": "canada/Samoa/security.md",
+        "entryexit": "canada/Samoa/entryexit.md",
+        "health": "canada/Samoa/health.md",
+        "laws": "canada/Samoa/laws.md",
+        "disasters": "canada/Samoa/disasters.md"
+    }
+}

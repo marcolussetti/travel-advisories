@@ -1,0 +1,13 @@
+{
+    "name": "Democratic Republic of Congo (Kinshasa)",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Democratic Republic of Congo (Kinshasa)/risk.md",
+        "security": "canada/Democratic Republic of Congo (Kinshasa)/security.md",
+        "entryexit": "canada/Democratic Republic of Congo (Kinshasa)/entryexit.md",
+        "health": "canada/Democratic Republic of Congo (Kinshasa)/health.md",
+        "laws": "canada/Democratic Republic of Congo (Kinshasa)/laws.md",
+        "disasters": "canada/Democratic Republic of Congo (Kinshasa)/disasters.md"
+    }
+}

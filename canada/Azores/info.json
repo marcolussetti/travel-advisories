@@ -1,0 +1,13 @@
+{
+    "name": "Azores",
+    "update_reason": "Editorial change",
+    "update_date": "2025-03-12T11:13:00",
+    "sections": {
+        "risk": "canada/Azores/risk.md",
+        "security": "canada/Azores/security.md",
+        "entryexit": "canada/Azores/entryexit.md",
+        "health": "canada/Azores/health.md",
+        "laws": "canada/Azores/laws.md",
+        "disasters": "canada/Azores/disasters.md"
+    }
+}

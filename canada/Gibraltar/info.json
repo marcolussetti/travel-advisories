@@ -1,0 +1,13 @@
+{
+    "name": "Gibraltar",
+    "update_reason": "Editorial change",
+    "update_date": "2025-03-11T16:20:00",
+    "sections": {
+        "risk": "canada/Gibraltar/risk.md",
+        "security": "canada/Gibraltar/security.md",
+        "entryexit": "canada/Gibraltar/entryexit.md",
+        "health": "canada/Gibraltar/health.md",
+        "laws": "canada/Gibraltar/laws.md",
+        "disasters": "canada/Gibraltar/disasters.md"
+    }
+}

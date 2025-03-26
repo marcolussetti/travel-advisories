@@ -1,0 +1,13 @@
+{
+    "name": "Colombia",
+    "update_reason": "Health \u2013 editorial update",
+    "update_date": "2025-03-18T14:19:00",
+    "sections": {
+        "risk": "canada/Colombia/risk.md",
+        "security": "canada/Colombia/security.md",
+        "entryexit": "canada/Colombia/entryexit.md",
+        "health": "canada/Colombia/health.md",
+        "laws": "canada/Colombia/laws.md",
+        "disasters": "canada/Colombia/disasters.md"
+    }
+}

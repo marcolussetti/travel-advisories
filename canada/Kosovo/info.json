@@ -1,0 +1,13 @@
+{
+    "name": "Kosovo",
+    "update_reason": "Editorial change",
+    "update_date": "2025-03-11T16:35:00",
+    "sections": {
+        "risk": "canada/Kosovo/risk.md",
+        "security": "canada/Kosovo/security.md",
+        "entryexit": "canada/Kosovo/entryexit.md",
+        "health": "canada/Kosovo/health.md",
+        "laws": "canada/Kosovo/laws.md",
+        "disasters": "canada/Kosovo/disasters.md"
+    }
+}

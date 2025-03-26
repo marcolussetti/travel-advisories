@@ -1,0 +1,13 @@
+{
+    "name": "North Korea",
+    "update_reason": "Editorial change",
+    "update_date": "2025-03-12T10:00:00",
+    "sections": {
+        "risk": "canada/North Korea/risk.md",
+        "security": "canada/North Korea/security.md",
+        "entryexit": "canada/North Korea/entryexit.md",
+        "health": "canada/North Korea/health.md",
+        "laws": "canada/North Korea/laws.md",
+        "disasters": "canada/North Korea/disasters.md"
+    }
+}

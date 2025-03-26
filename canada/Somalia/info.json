@@ -1,0 +1,13 @@
+{
+    "name": "Somalia",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Somalia/risk.md",
+        "security": "canada/Somalia/security.md",
+        "entryexit": "canada/Somalia/entryexit.md",
+        "health": "canada/Somalia/health.md",
+        "laws": "canada/Somalia/laws.md",
+        "disasters": "canada/Somalia/disasters.md"
+    }
+}

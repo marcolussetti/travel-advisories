@@ -1,0 +1,13 @@
+{
+    "name": "Libya",
+    "update_reason": "Editorial change",
+    "update_date": "2025-03-12T09:29:00",
+    "sections": {
+        "risk": "canada/Libya/risk.md",
+        "security": "canada/Libya/security.md",
+        "entryexit": "canada/Libya/entryexit.md",
+        "health": "canada/Libya/health.md",
+        "laws": "canada/Libya/laws.md",
+        "disasters": "canada/Libya/disasters.md"
+    }
+}

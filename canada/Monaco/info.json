@@ -1,0 +1,13 @@
+{
+    "name": "Monaco",
+    "update_reason": "Editorial change",
+    "update_date": "2025-03-12T09:42:00",
+    "sections": {
+        "risk": "canada/Monaco/risk.md",
+        "security": "canada/Monaco/security.md",
+        "entryexit": "canada/Monaco/entryexit.md",
+        "health": "canada/Monaco/health.md",
+        "laws": "canada/Monaco/laws.md",
+        "disasters": "canada/Monaco/disasters.md"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Bolivia",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Bolivia/risk.md",
+        "security": "canada/Bolivia/security.md",
+        "entryexit": "canada/Bolivia/entryexit.md",
+        "health": "canada/Bolivia/health.md",
+        "laws": "canada/Bolivia/laws.md",
+        "disasters": "canada/Bolivia/disasters.md"
+    }
+}

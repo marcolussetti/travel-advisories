@@ -1,0 +1,13 @@
+{
+    "name": "Taiwan",
+    "update_reason": "Editorial change",
+    "update_date": "2025-03-07T10:43:00",
+    "sections": {
+        "risk": "canada/Taiwan/risk.md",
+        "security": "canada/Taiwan/security.md",
+        "entryexit": "canada/Taiwan/entryexit.md",
+        "health": "canada/Taiwan/health.md",
+        "laws": "canada/Taiwan/laws.md",
+        "disasters": "canada/Taiwan/disasters.md"
+    }
+}

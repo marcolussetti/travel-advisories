@@ -1,0 +1,13 @@
+{
+    "name": "Albania",
+    "update_reason": "editorial change",
+    "update_date": "2025-03-11T16:17:00",
+    "sections": {
+        "risk": "canada/Albania/risk.md",
+        "security": "canada/Albania/security.md",
+        "entryexit": "canada/Albania/entryexit.md",
+        "health": "canada/Albania/health.md",
+        "laws": "canada/Albania/laws.md",
+        "disasters": "canada/Albania/disasters.md"
+    }
+}

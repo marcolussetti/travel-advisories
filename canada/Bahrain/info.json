@@ -1,0 +1,13 @@
+{
+    "name": "Bahrain",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Bahrain/risk.md",
+        "security": "canada/Bahrain/security.md",
+        "entryexit": "canada/Bahrain/entryexit.md",
+        "health": "canada/Bahrain/health.md",
+        "laws": "canada/Bahrain/laws.md",
+        "disasters": "canada/Bahrain/disasters.md"
+    }
+}

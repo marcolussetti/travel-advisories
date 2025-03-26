@@ -1,0 +1,13 @@
+{
+    "name": "Paraguay",
+    "update_reason": "Health \u2013 editorial update",
+    "update_date": "2025-03-18T13:17:00",
+    "sections": {
+        "risk": "canada/Paraguay/risk.md",
+        "security": "canada/Paraguay/security.md",
+        "entryexit": "canada/Paraguay/entryexit.md",
+        "health": "canada/Paraguay/health.md",
+        "laws": "canada/Paraguay/laws.md",
+        "disasters": "canada/Paraguay/disasters.md"
+    }
+}

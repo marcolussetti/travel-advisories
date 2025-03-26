@@ -1,0 +1,13 @@
+{
+    "name": "Egypt",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Egypt/risk.md",
+        "security": "canada/Egypt/security.md",
+        "entryexit": "canada/Egypt/entryexit.md",
+        "health": "canada/Egypt/health.md",
+        "laws": "canada/Egypt/laws.md",
+        "disasters": "canada/Egypt/disasters.md"
+    }
+}

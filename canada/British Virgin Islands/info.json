@@ -1,0 +1,13 @@
+{
+    "name": "British Virgin Islands",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/British Virgin Islands/risk.md",
+        "security": "canada/British Virgin Islands/security.md",
+        "entryexit": "canada/British Virgin Islands/entryexit.md",
+        "health": "canada/British Virgin Islands/health.md",
+        "laws": "canada/British Virgin Islands/laws.md",
+        "disasters": "canada/British Virgin Islands/disasters.md"
+    }
+}

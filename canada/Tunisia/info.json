@@ -1,0 +1,13 @@
+{
+    "name": "Tunisia",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Tunisia/risk.md",
+        "security": "canada/Tunisia/security.md",
+        "entryexit": "canada/Tunisia/entryexit.md",
+        "health": "canada/Tunisia/health.md",
+        "laws": "canada/Tunisia/laws.md",
+        "disasters": "canada/Tunisia/disasters.md"
+    }
+}

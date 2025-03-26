@@ -1,0 +1,13 @@
+{
+    "name": "Croatia",
+    "update_reason": "editorial change",
+    "update_date": "2025-03-12T09:56:00",
+    "sections": {
+        "risk": "canada/Croatia/risk.md",
+        "security": "canada/Croatia/security.md",
+        "entryexit": "canada/Croatia/entryexit.md",
+        "health": "canada/Croatia/health.md",
+        "laws": "canada/Croatia/laws.md",
+        "disasters": "canada/Croatia/disasters.md"
+    }
+}

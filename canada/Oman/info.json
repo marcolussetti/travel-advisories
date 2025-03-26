@@ -1,0 +1,13 @@
+{
+    "name": "Oman",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Oman/risk.md",
+        "security": "canada/Oman/security.md",
+        "entryexit": "canada/Oman/entryexit.md",
+        "health": "canada/Oman/health.md",
+        "laws": "canada/Oman/laws.md",
+        "disasters": "canada/Oman/disasters.md"
+    }
+}

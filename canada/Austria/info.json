@@ -1,0 +1,13 @@
+{
+    "name": "Austria",
+    "update_reason": "Editorial change",
+    "update_date": "2025-03-20T04:44:00",
+    "sections": {
+        "risk": "canada/Austria/risk.md",
+        "security": "canada/Austria/security.md",
+        "entryexit": "canada/Austria/entryexit.md",
+        "health": "canada/Austria/health.md",
+        "laws": "canada/Austria/laws.md",
+        "disasters": "canada/Austria/disasters.md"
+    }
+}

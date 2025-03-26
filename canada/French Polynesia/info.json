@@ -1,0 +1,13 @@
+{
+    "name": "French Polynesia",
+    "update_reason": "Health \u2013 editorial update",
+    "update_date": "2025-03-18T13:43:00",
+    "sections": {
+        "risk": "canada/French Polynesia/risk.md",
+        "security": "canada/French Polynesia/security.md",
+        "entryexit": "canada/French Polynesia/entryexit.md",
+        "health": "canada/French Polynesia/health.md",
+        "laws": "canada/French Polynesia/laws.md",
+        "disasters": "canada/French Polynesia/disasters.md"
+    }
+}

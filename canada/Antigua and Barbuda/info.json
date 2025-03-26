@@ -1,0 +1,13 @@
+{
+    "name": "Antigua and Barbuda",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Antigua and Barbuda/risk.md",
+        "security": "canada/Antigua and Barbuda/security.md",
+        "entryexit": "canada/Antigua and Barbuda/entryexit.md",
+        "health": "canada/Antigua and Barbuda/health.md",
+        "laws": "canada/Antigua and Barbuda/laws.md",
+        "disasters": "canada/Antigua and Barbuda/disasters.md"
+    }
+}

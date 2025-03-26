@@ -1,0 +1,13 @@
+{
+    "name": "Vietnam",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Vietnam/risk.md",
+        "security": "canada/Vietnam/security.md",
+        "entryexit": "canada/Vietnam/entryexit.md",
+        "health": "canada/Vietnam/health.md",
+        "laws": "canada/Vietnam/laws.md",
+        "disasters": "canada/Vietnam/disasters.md"
+    }
+}

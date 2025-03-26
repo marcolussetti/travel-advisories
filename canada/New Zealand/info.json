@@ -1,0 +1,13 @@
+{
+    "name": "New Zealand",
+    "update_reason": "Editorial change",
+    "update_date": "2025-03-12T09:58:00",
+    "sections": {
+        "risk": "canada/New Zealand/risk.md",
+        "security": "canada/New Zealand/security.md",
+        "entryexit": "canada/New Zealand/entryexit.md",
+        "health": "canada/New Zealand/health.md",
+        "laws": "canada/New Zealand/laws.md",
+        "disasters": "canada/New Zealand/disasters.md"
+    }
+}

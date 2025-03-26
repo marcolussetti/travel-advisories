@@ -1,0 +1,13 @@
+{
+    "name": "Falkland Islands",
+    "update_reason": "Editorial change",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Falkland Islands/risk.md",
+        "security": "canada/Falkland Islands/security.md",
+        "entryexit": "canada/Falkland Islands/entryexit.md",
+        "health": "canada/Falkland Islands/health.md",
+        "laws": "canada/Falkland Islands/laws.md",
+        "disasters": "canada/Falkland Islands/disasters.md"
+    }
+}

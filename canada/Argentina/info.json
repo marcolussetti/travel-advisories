@@ -1,0 +1,13 @@
+{
+    "name": "Argentina",
+    "update_reason": "Health \u2013 editorial update",
+    "update_date": "2025-03-18T14:10:00",
+    "sections": {
+        "risk": "canada/Argentina/risk.md",
+        "security": "canada/Argentina/security.md",
+        "entryexit": "canada/Argentina/entryexit.md",
+        "health": "canada/Argentina/health.md",
+        "laws": "canada/Argentina/laws.md",
+        "disasters": "canada/Argentina/disasters.md"
+    }
+}

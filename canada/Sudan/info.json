@@ -1,0 +1,13 @@
+{
+    "name": "Sudan",
+    "update_reason": "Health \u2013 editorial update",
+    "update_date": "2025-03-18T13:50:00",
+    "sections": {
+        "risk": "canada/Sudan/risk.md",
+        "security": "canada/Sudan/security.md",
+        "entryexit": "canada/Sudan/entryexit.md",
+        "health": "canada/Sudan/health.md",
+        "laws": "canada/Sudan/laws.md",
+        "disasters": "canada/Sudan/disasters.md"
+    }
+}

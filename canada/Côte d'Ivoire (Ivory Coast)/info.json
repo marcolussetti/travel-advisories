@@ -1,0 +1,13 @@
+{
+    "name": "C\u00f4te d'Ivoire (Ivory Coast)",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/C\u00f4te d'Ivoire (Ivory Coast)/risk.md",
+        "security": "canada/C\u00f4te d'Ivoire (Ivory Coast)/security.md",
+        "entryexit": "canada/C\u00f4te d'Ivoire (Ivory Coast)/entryexit.md",
+        "health": "canada/C\u00f4te d'Ivoire (Ivory Coast)/health.md",
+        "laws": "canada/C\u00f4te d'Ivoire (Ivory Coast)/laws.md",
+        "disasters": "canada/C\u00f4te d'Ivoire (Ivory Coast)/disasters.md"
+    }
+}

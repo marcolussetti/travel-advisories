@@ -1,0 +1,13 @@
+{
+    "name": "Zambia",
+    "update_reason": "Health \u2013 updated information on chikungunya",
+    "update_date": "2025-03-06T14:56:00",
+    "sections": {
+        "risk": "canada/Zambia/risk.md",
+        "security": "canada/Zambia/security.md",
+        "entryexit": "canada/Zambia/entryexit.md",
+        "health": "canada/Zambia/health.md",
+        "laws": "canada/Zambia/laws.md",
+        "disasters": "canada/Zambia/disasters.md"
+    }
+}

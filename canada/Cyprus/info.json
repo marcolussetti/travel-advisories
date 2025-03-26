@@ -1,0 +1,13 @@
+{
+    "name": "Cyprus",
+    "update_reason": "editorial change",
+    "update_date": "2025-03-12T09:59:00",
+    "sections": {
+        "risk": "canada/Cyprus/risk.md",
+        "security": "canada/Cyprus/security.md",
+        "entryexit": "canada/Cyprus/entryexit.md",
+        "health": "canada/Cyprus/health.md",
+        "laws": "canada/Cyprus/laws.md",
+        "disasters": "canada/Cyprus/disasters.md"
+    }
+}
