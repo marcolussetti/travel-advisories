@@ -1,0 +1,31 @@
+{
+    "name": "Croatia",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Croatia/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Croatia/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Croatia/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Croatia/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Croatia/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Croatia/Embassy contact.md"
+        }
+    ],
+    "update_date": "2024-10-02T00:00:00"
+}

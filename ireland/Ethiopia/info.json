@@ -1,0 +1,31 @@
+{
+    "name": "Ethiopia",
+    "risk_level": "High Degree of Caution",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Ethiopia/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Ethiopia/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Ethiopia/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/Ethiopia/Natural disasters and climate.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Ethiopia/Health.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Ethiopia/Embassy contact.md"
+        }
+    ],
+    "update_date": "2025-03-12T00:00:00"
+}

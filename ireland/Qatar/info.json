@@ -1,0 +1,31 @@
+{
+    "name": "Qatar",
+    "risk_level": "High Degree of Caution",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Qatar/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Qatar/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Qatar/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/Qatar/Natural disasters and climate.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Qatar/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Qatar/Embassy contact.md"
+        }
+    ],
+    "update_date": "2024-02-21T00:00:00"
+}

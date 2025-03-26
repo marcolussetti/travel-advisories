@@ -1,0 +1,31 @@
+{
+    "name": "Anguilla",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Anguilla/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Anguilla/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Anguilla/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Anguilla/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Anguilla/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Anguilla/Embassy contact.md"
+        }
+    ],
+    "update_date": "2023-11-16T00:00:00"
+}

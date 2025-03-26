@@ -1,0 +1,31 @@
+{
+    "name": "Cambodia",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Cambodia/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Cambodia/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Cambodia/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/Cambodia/Natural disasters and climate.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Cambodia/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Cambodia/Embassy contact.md"
+        }
+    ],
+    "update_date": "2025-03-04T00:00:00"
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Nigeria",
+    "risk_level": "Avoid Non-Essential Travel",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Nigeria/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Nigeria/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Nigeria/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Nigeria/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Nigeria/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Nigeria/Embassy contact.md"
+        }
+    ],
+    "update_date": "2024-10-07T00:00:00"
+}

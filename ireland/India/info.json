@@ -1,0 +1,35 @@
+{
+    "name": "India",
+    "risk_level": "High Degree of Caution",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/India/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/India/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/India/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/India/Natural disasters and climate.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/India/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/India/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/India/Embassy contact.md"
+        }
+    ],
+    "update_date": "2025-01-14T00:00:00"
+}

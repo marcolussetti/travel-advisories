@@ -1,0 +1,31 @@
+{
+    "name": "Russian Federation",
+    "risk_level": "Do Not Travel",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Russian Federation/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Russian Federation/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Russian Federation/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Russian Federation/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Russian Federation/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Russian Federation/Embassy contact.md"
+        }
+    ],
+    "update_date": "2023-11-23T00:00:00"
+}

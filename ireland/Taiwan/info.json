@@ -1,0 +1,23 @@
+{
+    "name": "Taiwan",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Taiwan/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Taiwan/Safety and security.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Taiwan/Additional information.md"
+        },
+        {
+            "title": "Department contact",
+            "file": "ireland/Taiwan/Department contact.md"
+        }
+    ],
+    "update_date": "2024-07-31T00:00:00"
+}

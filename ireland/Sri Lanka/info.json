@@ -1,0 +1,31 @@
+{
+    "name": "Sri Lanka",
+    "risk_level": "High Degree of Caution",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Sri Lanka/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Sri Lanka/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Sri Lanka/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/Sri Lanka/Natural disasters and climate.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Sri Lanka/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Sri Lanka/Embassy contact.md"
+        }
+    ],
+    "update_date": "2024-12-19T00:00:00"
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Czech Republic",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Czech Republic/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Czech Republic/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Czech Republic/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Czech Republic/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Czech Republic/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Czech Republic/Embassy contact.md"
+        }
+    ],
+    "update_date": "2024-09-25T00:00:00"
+}

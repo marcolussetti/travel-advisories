@@ -1,0 +1,31 @@
+{
+    "name": "Romania",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Romania/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Romania/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Romania/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Romania/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Romania/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Romania/Embassy contact.md"
+        }
+    ],
+    "update_date": "2024-04-09T00:00:00"
+}

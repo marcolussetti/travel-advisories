@@ -1,0 +1,31 @@
+{
+    "name": "Latvia",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Latvia/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Latvia/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Latvia/Local laws and customs.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Latvia/Additional information.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Latvia/Health.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Latvia/Embassy contact.md"
+        }
+    ],
+    "update_date": "2025-03-06T00:00:00"
+}

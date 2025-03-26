@@ -1,0 +1,31 @@
+{
+    "name": "Solomon Islands",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Solomon Islands/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Solomon Islands/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Solomon Islands/Health.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Solomon Islands/Local laws and customs.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Solomon Islands/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Solomon Islands/Embassy contact.md"
+        }
+    ],
+    "update_date": "2023-11-23T00:00:00"
+}

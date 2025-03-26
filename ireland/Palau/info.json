@@ -1,0 +1,31 @@
+{
+    "name": "Palau",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Palau/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Palau/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Palau/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/Palau/Natural disasters and climate.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Palau/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Palau/Embassy contact.md"
+        }
+    ],
+    "update_date": "2023-11-22T00:00:00"
+}

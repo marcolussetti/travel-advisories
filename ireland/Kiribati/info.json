@@ -1,0 +1,31 @@
+{
+    "name": "Kiribati",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Kiribati/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Kiribati/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Kiribati/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Kiribati/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Kiribati/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Kiribati/Embassy contact.md"
+        }
+    ],
+    "update_date": "2023-11-21T00:00:00"
+}

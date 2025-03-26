@@ -1,0 +1,31 @@
+{
+    "name": "Bahamas",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Bahamas/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Bahamas/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Bahamas/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Bahamas/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Bahamas/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Bahamas/Embassy contact.md"
+        }
+    ],
+    "update_date": "2024-08-14T00:00:00"
+}

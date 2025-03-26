@@ -1,0 +1,42 @@
+## Overview
+
+### **Security Status**
+
+Do not travel.
+
+### **Latest Travel Alert**
+
+Irish citizens are advised to leave the country if they do not have an essential reason to stay. If deciding to stay, against our advice, stay fully informed of what’s going on by monitoring local media and staying in contact with your hotel or tour organiser. Avoid demonstrations and public gatherings which can sometimes turn confrontational.
+
+Several terrorist groups operate in Mali, including Jama’a Nusrat ul-Islam wa al-Muslimin (JNIM) and Islamic State Sahel Province (ISSP). JNIM has claimed responsibility for attacks in Bamako targeting the Malian defense and security forces at and around Modibo Keïta international airport and the Faladié gendarmerie school on 17 September 2024.
+
+### **General Travel Advice**
+
+**The Department of Foreign Affairs strongly advises against all travel to Mali at this time due to security concerns**.
+
+Irish citizens require a visa to enter Mali.
+
+A valid passport is required for travel to Mali. Passport cards cannot be used.
+
+For more information on visas and passports, please see the Additional Information tab.
+
+Visitors to Mali are advised to follow the guidance of national and local authorities and stay fully informed of what's going on by monitoring local news and social media.
+
+### **Emergency Assistance**
+
+The best help is often close at hand so if you have problems, try talking to your local contacts, tour operator representative or hotel management.
+
+You can contact the emergency services in Mali by dialling 18. Specific emergency numbers are:
+
+* Police: 18
+* Fire brigade: 17
+* Ambulance: 15
+
+### **Our tips for Safe Travels:**
+
+* Get comprehensive travel insurance that covers all your planned activities.
+* [**Register**](/en/dfa/overseas-travel/citizens-registration/) your details with us so that we can contact you quickly if there’s an unforeseen crisis like a natural disaster or a family emergency.
+* Follow us on X [**@dfatravelwise**](https://www.twitter.com/DFATravelWise)  and Instagram [**@dfatravelwise**](https://www.instagram.com/dfatravelwise/) for the latest travel updates.
+* Read our [**‘Know Before You Go’**](/en/dfa/overseas-travel/know-before-you-go/) guide.
+
+As there is no Irish Embassy in Mali, we are limited in the help we can offer you in an emergency. However, if you need assistance, you can contact the Consular Assistance Unit [**here**](/en/tanzania/daressalaam/services/consular-assistance/) or at the Department of Foreign Affairs in Dublin on +353 1 408 2000

@@ -1,0 +1,27 @@
+{
+    "name": "Pakistan",
+    "risk_level": "High Degree of Caution",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Pakistan/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Pakistan/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Pakistan/Local laws and customs.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Pakistan/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Pakistan/Embassy contact.md"
+        }
+    ],
+    "update_date": "2024-11-28T00:00:00"
+}

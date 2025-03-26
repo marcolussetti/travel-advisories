@@ -1,0 +1,35 @@
+{
+    "name": "Fiji",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Travel to Fiji Overview",
+            "file": "ireland/Fiji/Travel to Fiji Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Fiji/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Fiji/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/Fiji/Natural disasters and climate.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Fiji/Health.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/Fiji/Entry requirements.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Fiji/Embassy contact.md"
+        }
+    ],
+    "update_date": "2025-03-25T00:00:00"
+}

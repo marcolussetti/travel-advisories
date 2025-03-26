@@ -1,0 +1,31 @@
+{
+    "name": "Korea, Republic of (South Korea)",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Korea, Republic of (South Korea)/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Korea, Republic of (South Korea)/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Korea, Republic of (South Korea)/Local laws and customs.md"
+        },
+        {
+            "title": "Moving to South Korea",
+            "file": "ireland/Korea, Republic of (South Korea)/Moving to South Korea.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Korea, Republic of (South Korea)/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Korea, Republic of (South Korea)/Embassy contact.md"
+        }
+    ],
+    "update_date": "2025-03-07T00:00:00"
+}

@@ -1,0 +1,3 @@
+## Health
+
+Polio vaccination is recommended for all travellers from Ireland to countries where polio transmission is a risk. Before travelling to areas where poliomyelitis cases are still occurring, travellers should ensure that they have completed the recommended age-appropriate polio vaccine schedule and have received a booster dose, if necessary. More information is available on the [**Health Protection and Surveillance Centre website**](http://www.hpsc.ie/A-Z/VaccinePreventable/Polio/Guidance/).

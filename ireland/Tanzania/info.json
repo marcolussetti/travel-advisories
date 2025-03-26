@@ -1,0 +1,31 @@
+{
+    "name": "Tanzania",
+    "risk_level": "High Degree of Caution",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Tanzania/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Tanzania/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Tanzania/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Tanzania/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Tanzania/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Tanzania/Embassy contact.md"
+        }
+    ],
+    "update_date": "2025-01-20T00:00:00"
+}

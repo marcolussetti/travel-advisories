@@ -1,0 +1,31 @@
+{
+    "name": "Rwanda",
+    "risk_level": "High Degree of Caution",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Rwanda/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Rwanda/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Rwanda/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/Rwanda/Natural disasters and climate.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Rwanda/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Rwanda/Embassy contact.md"
+        }
+    ],
+    "update_date": "2025-01-30T00:00:00"
+}

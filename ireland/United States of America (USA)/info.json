@@ -1,0 +1,27 @@
+{
+    "name": "United States of America (USA)",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/United States of America (USA)/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/United States of America (USA)/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/United States of America (USA)/Local laws and customs.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/United States of America (USA)/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/United States of America (USA)/Embassy contact.md"
+        }
+    ],
+    "update_date": "2025-03-24T00:00:00"
+}

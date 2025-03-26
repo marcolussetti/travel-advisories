@@ -1,0 +1,31 @@
+{
+    "name": "Singapore",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Singapore/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Singapore/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Singapore/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/Singapore/Natural disasters and climate.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Singapore/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Singapore/Embassy contact.md"
+        }
+    ],
+    "update_date": "2024-03-25T00:00:00"
+}

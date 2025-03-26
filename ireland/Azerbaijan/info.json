@@ -1,0 +1,31 @@
+{
+    "name": "Azerbaijan",
+    "risk_level": "High Degree of Caution",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Azerbaijan/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Azerbaijan/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Azerbaijan/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Azerbaijan/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Azerbaijan/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Azerbaijan/Embassy contact.md"
+        }
+    ],
+    "update_date": "2024-11-20T00:00:00"
+}

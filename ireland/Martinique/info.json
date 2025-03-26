@@ -1,0 +1,31 @@
+{
+    "name": "Martinique",
+    "risk_level": "High Degree of Caution",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Martinique/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Martinique/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Martinique/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Martinique/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Martinique/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Martinique/Embassy contact.md"
+        }
+    ],
+    "update_date": "2024-11-04T00:00:00"
+}

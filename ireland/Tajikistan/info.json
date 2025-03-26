@@ -1,0 +1,31 @@
+{
+    "name": "Tajikistan",
+    "risk_level": "High Degree of Caution",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Tajikistan/Overview.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Tajikistan/Health.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Tajikistan/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Tajikistan/Local laws and customs.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Tajikistan/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Tajikistan/Embassy contact.md"
+        }
+    ],
+    "update_date": "2024-07-18T00:00:00"
+}

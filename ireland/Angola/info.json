@@ -1,0 +1,31 @@
+{
+    "name": "Angola",
+    "risk_level": "High Degree of Caution",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Angola/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Angola/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Angola/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Angola/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Angola/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Angola/Embassy contact.md"
+        }
+    ],
+    "update_date": "2024-12-16T00:00:00"
+}

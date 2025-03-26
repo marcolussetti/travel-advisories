@@ -1,0 +1,31 @@
+{
+    "name": "Uganda",
+    "risk_level": "High Degree of Caution",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Uganda/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Uganda/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Uganda/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/Uganda/Natural disasters and climate.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Uganda/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Uganda/Embassy contact.md"
+        }
+    ],
+    "update_date": "2025-02-04T00:00:00"
+}

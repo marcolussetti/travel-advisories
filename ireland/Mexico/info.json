@@ -1,0 +1,35 @@
+{
+    "name": "Mexico",
+    "risk_level": "High Degree of Caution",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Mexico/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Mexico/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Mexico/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/Mexico/Natural disasters and climate.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Mexico/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Mexico/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Mexico/Embassy contact.md"
+        }
+    ],
+    "update_date": "2025-02-12T00:00:00"
+}

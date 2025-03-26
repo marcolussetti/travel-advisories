@@ -1,0 +1,27 @@
+{
+    "name": "Greece",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Greece/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Greece/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Greece/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Greece/Health.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Greece/Embassy contact.md"
+        }
+    ],
+    "update_date": "2025-03-06T00:00:00"
+}

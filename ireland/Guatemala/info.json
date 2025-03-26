@@ -1,0 +1,31 @@
+{
+    "name": "Guatemala",
+    "risk_level": "High Degree of Caution",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Guatemala/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Guatemala/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Guatemala/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Guatemala/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Guatemala/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Guatemala/Embassy contact.md"
+        }
+    ],
+    "update_date": "2024-07-25T00:00:00"
+}

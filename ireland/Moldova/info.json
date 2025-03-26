@@ -1,0 +1,31 @@
+{
+    "name": "Moldova",
+    "risk_level": "High Degree of Caution",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Moldova/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Moldova/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Moldova/Health.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Moldova/Local laws and customs.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Moldova/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Moldova/Embassy contact.md"
+        }
+    ],
+    "update_date": "2024-02-22T00:00:00"
+}

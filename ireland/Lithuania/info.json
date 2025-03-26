@@ -1,0 +1,31 @@
+{
+    "name": "Lithuania",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Lithuania/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Lithuania/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Lithuania/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Lithuania/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Lithuania/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Lithuania/Embassy contact.md"
+        }
+    ],
+    "update_date": "2023-11-15T00:00:00"
+}

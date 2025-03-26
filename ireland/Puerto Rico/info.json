@@ -1,0 +1,31 @@
+{
+    "name": "Puerto Rico",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Puerto Rico/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Puerto Rico/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Puerto Rico/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Puerto Rico/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Puerto Rico/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Puerto Rico/Embassy contact.md"
+        }
+    ],
+    "update_date": "2023-11-23T00:00:00"
+}

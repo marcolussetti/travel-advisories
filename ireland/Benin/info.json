@@ -1,0 +1,31 @@
+{
+    "name": "Benin",
+    "risk_level": "High Degree of Caution",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Benin/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Benin/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Benin/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Benin/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Benin/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Benin/Embassy contact.md"
+        }
+    ],
+    "update_date": "2025-03-18T00:00:00"
+}

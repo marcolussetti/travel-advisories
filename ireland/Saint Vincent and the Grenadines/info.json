@@ -1,0 +1,31 @@
+{
+    "name": "Saint Vincent and the Grenadines",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Saint Vincent and the Grenadines/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Saint Vincent and the Grenadines/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Saint Vincent and the Grenadines/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Saint Vincent and the Grenadines/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Saint Vincent and the Grenadines/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Saint Vincent and the Grenadines/Embassy contact.md"
+        }
+    ],
+    "update_date": "2024-11-04T00:00:00"
+}

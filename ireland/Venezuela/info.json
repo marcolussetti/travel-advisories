@@ -1,0 +1,31 @@
+{
+    "name": "Venezuela",
+    "risk_level": "Avoid Non-Essential Travel",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Venezuela/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Venezuela/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Venezuela/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/Venezuela/Natural disasters and climate.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Venezuela/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Venezuela/Embassy contact.md"
+        }
+    ],
+    "update_date": "2025-01-06T00:00:00"
+}

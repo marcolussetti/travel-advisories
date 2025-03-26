@@ -1,0 +1,31 @@
+{
+    "name": "Belarus",
+    "risk_level": "Do Not Travel",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Belarus/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Belarus/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Belarus/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Belarus/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Belarus/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Belarus/Embassy contact.md"
+        }
+    ],
+    "update_date": "2024-07-18T00:00:00"
+}

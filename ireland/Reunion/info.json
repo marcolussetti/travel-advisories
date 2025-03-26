@@ -1,0 +1,31 @@
+{
+    "name": "Reunion",
+    "risk_level": "High Degree of Caution",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Reunion/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Reunion/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Reunion/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/Reunion/Natural disasters and climate.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Reunion/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Reunion/Embassy contact.md"
+        }
+    ],
+    "update_date": "2023-11-22T00:00:00"
+}

@@ -1,0 +1,35 @@
+{
+    "name": "China",
+    "risk_level": "High Degree of Caution",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/China/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/China/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/China/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/China/Natural disasters and climate.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/China/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/China/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/China/Embassy contact.md"
+        }
+    ],
+    "update_date": "2025-01-15T00:00:00"
+}

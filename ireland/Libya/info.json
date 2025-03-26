@@ -1,0 +1,27 @@
+{
+    "name": "Libya",
+    "risk_level": "Do Not Travel",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Libya/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Libya/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Libya/Local laws and customs.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Libya/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Libya/Embassy contact.md"
+        }
+    ],
+    "update_date": "2024-02-12T00:00:00"
+}

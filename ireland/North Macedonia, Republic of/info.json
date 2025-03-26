@@ -1,0 +1,27 @@
+{
+    "name": "North Macedonia, Republic of",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/North Macedonia, Republic of/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/North Macedonia, Republic of/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/North Macedonia, Republic of/Local laws and customs.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/North Macedonia, Republic of/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/North Macedonia, Republic of/Embassy contact.md"
+        }
+    ],
+    "update_date": "2023-11-22T00:00:00"
+}

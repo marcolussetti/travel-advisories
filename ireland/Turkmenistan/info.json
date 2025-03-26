@@ -1,0 +1,27 @@
+{
+    "name": "Turkmenistan",
+    "risk_level": "High Degree of Caution",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Turkmenistan/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Turkmenistan/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Turkmenistan/Local laws and customs.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Turkmenistan/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Turkmenistan/Embassy contact.md"
+        }
+    ],
+    "update_date": "2025-03-20T00:00:00"
+}

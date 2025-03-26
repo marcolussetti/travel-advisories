@@ -1,0 +1,31 @@
+{
+    "name": "Equatorial Guinea",
+    "risk_level": "High Degree of Caution",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Equatorial Guinea/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Equatorial Guinea/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Equatorial Guinea/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Equatorial Guinea/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Equatorial Guinea/Additional information.md"
+        },
+        {
+            "title": "Department contact",
+            "file": "ireland/Equatorial Guinea/Department contact.md"
+        }
+    ],
+    "update_date": "2024-12-12T00:00:00"
+}

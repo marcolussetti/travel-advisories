@@ -1,0 +1,31 @@
+{
+    "name": "Armenia",
+    "risk_level": "High Degree of Caution",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Armenia/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Armenia/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Armenia/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Armenia/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Armenia/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Armenia/Embassy contact.md"
+        }
+    ],
+    "update_date": "2025-03-05T00:00:00"
+}

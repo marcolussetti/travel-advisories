@@ -1,0 +1,31 @@
+{
+    "name": "Poland",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Poland/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Poland/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Poland/Local laws and customs.md"
+        },
+        {
+            "title": "Dual Nationals",
+            "file": "ireland/Poland/Dual Nationals.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Poland/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Poland/Embassy contact.md"
+        }
+    ],
+    "update_date": "2024-10-10T00:00:00"
+}

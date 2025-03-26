@@ -1,0 +1,31 @@
+{
+    "name": "Malta",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Malta/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Malta/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Malta/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Malta/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Malta/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Malta/Embassy contact.md"
+        }
+    ],
+    "update_date": "2024-10-03T00:00:00"
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Ghana",
+    "risk_level": "High Degree of Caution",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Ghana/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Ghana/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Ghana/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Ghana/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Ghana/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Ghana/Embassy contact.md"
+        }
+    ],
+    "update_date": "2024-12-11T00:00:00"
+}

@@ -1,0 +1,31 @@
+{
+    "name": "New Zealand",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/New Zealand/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/New Zealand/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/New Zealand/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/New Zealand/Natural disasters and climate.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/New Zealand/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/New Zealand/Embassy contact.md"
+        }
+    ],
+    "update_date": "2024-11-06T00:00:00"
+}

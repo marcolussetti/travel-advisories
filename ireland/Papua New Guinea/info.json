@@ -1,0 +1,35 @@
+{
+    "name": "Papua New Guinea",
+    "risk_level": "High Degree of Caution",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Papua New Guinea/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Papua New Guinea/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Papua New Guinea/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/Papua New Guinea/Natural disasters and climate.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Papua New Guinea/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Papua New Guinea/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Papua New Guinea/Embassy contact.md"
+        }
+    ],
+    "update_date": "2024-06-05T00:00:00"
+}

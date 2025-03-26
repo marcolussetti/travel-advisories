@@ -1,0 +1,31 @@
+{
+    "name": "Belize",
+    "risk_level": "High Degree of Caution",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Belize/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Belize/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Belize/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Belize/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Belize/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Belize/Embassy contact.md"
+        }
+    ],
+    "update_date": "2025-03-13T00:00:00"
+}

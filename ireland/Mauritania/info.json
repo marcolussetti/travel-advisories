@@ -1,0 +1,31 @@
+{
+    "name": "Mauritania",
+    "risk_level": "Avoid Non-Essential Travel",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Mauritania/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Mauritania/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Mauritania/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Mauritania/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Mauritania/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Mauritania/Embassy contact.md"
+        }
+    ],
+    "update_date": "2024-02-28T00:00:00"
+}

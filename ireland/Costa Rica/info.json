@@ -1,0 +1,31 @@
+{
+    "name": "Costa Rica",
+    "risk_level": "High Degree of Caution",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Costa Rica/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Costa Rica/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Costa Rica/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Costa Rica/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Costa Rica/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Costa Rica/Embassy contact.md"
+        }
+    ],
+    "update_date": "2025-02-12T00:00:00"
+}

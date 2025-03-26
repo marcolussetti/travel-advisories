@@ -1,0 +1,47 @@
+## Safety and security
+
+### **Terrorism**
+
+Although the threat from terrorism in Namibia is low, there is still a global risk of indiscriminate terrorist attacks, which could be against civilian targets, including places frequented by tourists and expatriates.
+
+### **Crime**
+
+Most visits to Namibia are trouble free but sensible precautions should be taken to avoid crimes such as muggings and car thefts as there has been an increased incidence of crime, including violent, noted in recent years:
+
+* Do not carry your credit cards, travel tickets and money together - leave spare cash and valuables in a safe place
+* Do not carry your passport unless absolutely necessary and leave a photocopy (and travel and insurance documents) with family or friends at home
+* Avoid showing large sums of money in public and do not use ATMs after dark, especially if alone and check no one has followed you
+* Avoid dark and unlit streets and stairways, and arrange to be picked up or dropped off as close to your hotel or apartment entrance as possible
+* Keep a close eye on personal belongings and hold on to them in public places such as internet cafés, train and bus stations
+* Do not enter townships at night unless accompanied by someone with local knowledge
+* Stay with your group/guide when visiting parks and game reserves
+
+We advise all Irish citizens resident in Namibia to continue to take the usual precautions at their homes, in vehicles and when walking in public. Please remain vigilant and contact the Police or the Embassy if you have any concerns.
+
+### **Reporting crime**
+
+If a victim of a crime while in Namibia, report it to the local police immediately. Contact the Irish Embassy in Lusaka if you need help.
+
+### **Road Safety**
+
+Roads are reasonably good in Namibia relative to regional standards but, still, often unpaved. If planning to drive in Namibia, be extremely careful and plan your journey well. When driving outside towns, wildlife and stray livestock can pose a serious hazard, particularly at night. Note that the police operate many checkpoints, particularly outside Windhoek
+
+### Practical Advice
+
+* Bring a full Irish driver’s licence and international driving permit and make sure you have adequate and appropriate insurance
+* Driving under the influence of alcohol or drugs is against the law and you risk being detained, fined or banned from driving if caught
+* Keep your vehicle doors locked and valuables out of sight to help prevent instances of armed or opportunistic robberies, as well as vehicle hijackings, particularly when stopped at traffic lights.
+* Do not leave valuables visible when parking your car
+* Make sure you have identification, as you will be asked to produce it at regular road blocks
+* Stick to the well-travelled routes if driving the Caprivi Strip
+* Don’t use a mobile phone when driving
+
+### **Taxis**
+
+We advise against using taxis hailed on the street. Ask your hotel or accommodation to call a reputable company.
+
+### **Hiring a vehicle**
+
+If hiring a vehicle, we advise you not to hand over your passport as a form of security. If allowing your passport to be photocopied, keep it in sight at all times.
+
+Check that you have adequate insurance and read the small print of the vehicle hire contract (particularly any waiver that will come into effect if the vehicle is damaged).

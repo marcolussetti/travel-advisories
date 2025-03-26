@@ -1,0 +1,31 @@
+{
+    "name": "Eswatini",
+    "risk_level": "High Degree of Caution",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Eswatini/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Eswatini/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Eswatini/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Eswatini/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Eswatini/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Eswatini/Embassy contact.md"
+        }
+    ],
+    "update_date": "2024-12-09T00:00:00"
+}

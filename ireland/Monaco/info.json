@@ -1,0 +1,27 @@
+{
+    "name": "Monaco",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Monaco/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Monaco/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Monaco/Local laws and customs.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Monaco/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Monaco/Embassy contact.md"
+        }
+    ],
+    "update_date": "2023-11-21T00:00:00"
+}

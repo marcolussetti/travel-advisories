@@ -1,0 +1,31 @@
+{
+    "name": "Bulgaria",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Bulgaria/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Bulgaria/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Bulgaria/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Bulgaria/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Bulgaria/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Bulgaria/Embassy contact.md"
+        }
+    ],
+    "update_date": "2025-03-04T00:00:00"
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Somalia",
+    "risk_level": "Do Not Travel",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Somalia/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Somalia/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Somalia/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Somalia/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Somalia/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Somalia/Embassy contact.md"
+        }
+    ],
+    "update_date": "2024-02-26T00:00:00"
+}

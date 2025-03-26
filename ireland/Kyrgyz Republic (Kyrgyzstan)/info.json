@@ -1,0 +1,31 @@
+{
+    "name": "Kyrgyz Republic (Kyrgyzstan)",
+    "risk_level": "High Degree of Caution",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Kyrgyz Republic (Kyrgyzstan)/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Kyrgyz Republic (Kyrgyzstan)/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Kyrgyz Republic (Kyrgyzstan)/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/Kyrgyz Republic (Kyrgyzstan)/Natural disasters and climate.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Kyrgyz Republic (Kyrgyzstan)/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Kyrgyz Republic (Kyrgyzstan)/Embassy contact.md"
+        }
+    ],
+    "update_date": "2023-11-28T00:00:00"
+}
