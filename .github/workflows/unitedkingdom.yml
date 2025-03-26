@@ -27,8 +27,9 @@
               git config user.email "actions@users.noreply.github.com"
               git add -A *.json
               git add -A *.csv
-              git add -A *.md
-              git add unitedkingdom/last_run.txt #add last_run.txt to ensure it's tracked for changes
+              git add -A unitedkingdom/*.md
+              git add -A unitedkingdom/*.json
+              git add -A unitedkingdom/last_run.txt
               
               if git diff --quiet --exit-code; then
                 echo "No changes to commit."
