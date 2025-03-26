@@ -85,12 +85,12 @@ def parse_country_details(html, country_name, since):
 
     date_published, date_modified = parse_json_ld(soup)
 
+    update_reason = metadata.get("Latest update", None)
     last_modified = None
     if date_modified:
         last_modified = date_modified
     else:
         update_date = metadata.get("Updated", None)
-        update_reason = metadata.get("Latest update", None)
 
         if update_date:
             try:
@@ -137,7 +137,7 @@ def parse_country_details(html, country_name, since):
 
     print(f"Processed {name}")
 
-    return name, update_date
+    return name, last_modified
 
 def save_warnings_section(soup, country_name):
     # Remove the "Get travel advice updates" section and all its following siblings if it exists
