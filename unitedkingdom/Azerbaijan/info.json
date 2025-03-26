@@ -1,0 +1,37 @@
+{
+    "name": "Azerbaijan",
+    "update_reason": "Updated visa requirements  for visitors travelling to Azerbaijan in connection with COP29(\u2018Entry requirements\u2019 page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Azerbaijan/Warnings and insurance.md",
+            "update_date": "2024-09-10T13:57:56+01:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/azerbaijan/entry-requirements",
+            "file": "unitedkingdom/Azerbaijan/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/azerbaijan/safety-and-security",
+            "file": "unitedkingdom/Azerbaijan/Safety and security.md"
+        },
+        {
+            "title": "Regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/azerbaijan/regional-risks",
+            "file": "unitedkingdom/Azerbaijan/Regional risks.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/azerbaijan/health",
+            "file": "unitedkingdom/Azerbaijan/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/azerbaijan/getting-help",
+            "file": "unitedkingdom/Azerbaijan/Getting help.md"
+        }
+    ],
+    "update_date": "2024-09-10T13:57:56+01:00"
+}

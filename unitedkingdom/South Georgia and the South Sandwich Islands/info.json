@@ -1,0 +1,32 @@
+{
+    "name": "South Georgia and the South Sandwich Islands",
+    "update_reason": "This travel advice has been rewritten to make it easier to read and understand.",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/South Georgia and the South Sandwich Islands/Warnings and insurance.md",
+            "update_date": "2024-03-12T11:45:29+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/south-georgia-and-south-sandwich-islands/entry-requirements",
+            "file": "unitedkingdom/South Georgia and the South Sandwich Islands/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/south-georgia-and-south-sandwich-islands/safety-and-security",
+            "file": "unitedkingdom/South Georgia and the South Sandwich Islands/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/south-georgia-and-south-sandwich-islands/health",
+            "file": "unitedkingdom/South Georgia and the South Sandwich Islands/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/south-georgia-and-south-sandwich-islands/getting-help",
+            "file": "unitedkingdom/South Georgia and the South Sandwich Islands/Getting help.md"
+        }
+    ],
+    "update_date": "2024-03-12T11:45:29+00:00"
+}

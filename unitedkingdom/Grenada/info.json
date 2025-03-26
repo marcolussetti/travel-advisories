@@ -1,0 +1,32 @@
+{
+    "name": "Grenada",
+    "update_reason": "This travel advice was reviewed for accuracy and reissued with information on the continued affects from Hurricane Beryl from July 2024 (\u2018Safety and security\u2019 page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Grenada/Warnings and insurance.md",
+            "update_date": "2025-01-08T14:44:29+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/grenada/entry-requirements",
+            "file": "unitedkingdom/Grenada/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/grenada/safety-and-security",
+            "file": "unitedkingdom/Grenada/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/grenada/health",
+            "file": "unitedkingdom/Grenada/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/grenada/getting-help",
+            "file": "unitedkingdom/Grenada/Getting help.md"
+        }
+    ],
+    "update_date": "2025-01-08T14:44:29+00:00"
+}

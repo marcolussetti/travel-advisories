@@ -1,0 +1,32 @@
+{
+    "name": "Malawi",
+    "update_reason": "Addition of information about cyclone Chido and potential floods (Safety and Security page)",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Malawi/Warnings and insurance.md",
+            "update_date": "2024-12-14T17:57:52+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/malawi/entry-requirements",
+            "file": "unitedkingdom/Malawi/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/malawi/safety-and-security",
+            "file": "unitedkingdom/Malawi/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/malawi/health",
+            "file": "unitedkingdom/Malawi/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/malawi/getting-help",
+            "file": "unitedkingdom/Malawi/Getting help.md"
+        }
+    ],
+    "update_date": "2024-12-14T17:57:52+00:00"
+}

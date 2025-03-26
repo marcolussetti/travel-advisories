@@ -1,0 +1,32 @@
+{
+    "name": "Austria",
+    "update_reason": "Update to information on expected rollout of the EU Entry/Exit System (EES) (\u2018Entry requirements\u2019 page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Austria/Warnings and insurance.md",
+            "update_date": "2025-03-17T13:57:43+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/austria/entry-requirements",
+            "file": "unitedkingdom/Austria/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/austria/safety-and-security",
+            "file": "unitedkingdom/Austria/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/austria/health",
+            "file": "unitedkingdom/Austria/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/austria/getting-help",
+            "file": "unitedkingdom/Austria/Getting help.md"
+        }
+    ],
+    "update_date": "2025-03-17T13:57:43+00:00"
+}

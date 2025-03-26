@@ -1,0 +1,32 @@
+{
+    "name": "Andorra",
+    "update_reason": "This travel advice was reviewed for style and accuracy.",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Andorra/Warnings and insurance.md",
+            "update_date": "2024-05-01T15:41:20+01:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/andorra/entry-requirements",
+            "file": "unitedkingdom/Andorra/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/andorra/safety-and-security",
+            "file": "unitedkingdom/Andorra/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/andorra/health",
+            "file": "unitedkingdom/Andorra/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/andorra/getting-help",
+            "file": "unitedkingdom/Andorra/Getting help.md"
+        }
+    ],
+    "update_date": "2024-05-01T15:41:20+01:00"
+}

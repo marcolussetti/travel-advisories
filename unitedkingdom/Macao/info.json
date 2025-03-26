@@ -1,0 +1,32 @@
+{
+    "name": "Macao",
+    "update_reason": "This travel advice was reviewed for accuracy and there are no significant updates.",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Macao/Warnings and insurance.md",
+            "update_date": "2024-10-28T16:05:02+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/macao/entry-requirements",
+            "file": "unitedkingdom/Macao/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/macao/safety-and-security",
+            "file": "unitedkingdom/Macao/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/macao/health",
+            "file": "unitedkingdom/Macao/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/macao/getting-help",
+            "file": "unitedkingdom/Macao/Getting help.md"
+        }
+    ],
+    "update_date": "2024-10-28T16:05:02+00:00"
+}

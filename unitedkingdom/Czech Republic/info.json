@@ -1,0 +1,32 @@
+{
+    "name": "Czech Republic",
+    "update_reason": "Update to information on expected rollout of the EU Entry/Exit System (EES) (\u2018Entry requirements\u2019 page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Czech Republic/Warnings and insurance.md",
+            "update_date": "2025-03-17T14:15:51+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/czech-republic/entry-requirements",
+            "file": "unitedkingdom/Czech Republic/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/czech-republic/safety-and-security",
+            "file": "unitedkingdom/Czech Republic/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/czech-republic/health",
+            "file": "unitedkingdom/Czech Republic/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/czech-republic/getting-help",
+            "file": "unitedkingdom/Czech Republic/Getting help.md"
+        }
+    ],
+    "update_date": "2025-03-17T14:15:51+00:00"
+}

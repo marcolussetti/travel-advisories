@@ -1,0 +1,32 @@
+{
+    "name": "Bahamas",
+    "update_reason": "This travel advice has been reviewed for accuracy. There were no significant updates.",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Bahamas/Warnings and insurance.md",
+            "update_date": "2024-12-12T10:24:43+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/bahamas/entry-requirements",
+            "file": "unitedkingdom/Bahamas/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/bahamas/safety-and-security",
+            "file": "unitedkingdom/Bahamas/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/bahamas/health",
+            "file": "unitedkingdom/Bahamas/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/bahamas/getting-help",
+            "file": "unitedkingdom/Bahamas/Getting help.md"
+        }
+    ],
+    "update_date": "2024-12-12T10:24:43+00:00"
+}

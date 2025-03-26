@@ -1,0 +1,32 @@
+{
+    "name": "Yemen",
+    "update_reason": "New information on Israeli missile strikes in Yemen (\u2018Safety and security\u2019 page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Yemen/Warnings and insurance.md",
+            "update_date": "2024-12-30T15:04:59+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/yemen/entry-requirements",
+            "file": "unitedkingdom/Yemen/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/yemen/safety-and-security",
+            "file": "unitedkingdom/Yemen/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/yemen/health",
+            "file": "unitedkingdom/Yemen/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/yemen/getting-help",
+            "file": "unitedkingdom/Yemen/Getting help.md"
+        }
+    ],
+    "update_date": "2024-12-30T15:04:59+00:00"
+}

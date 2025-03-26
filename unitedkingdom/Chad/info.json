@@ -1,0 +1,37 @@
+{
+    "name": "Chad",
+    "update_reason": "Information about celebratory gunfire in Chad ('Safety and security' page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Chad/Warnings and insurance.md",
+            "update_date": "2024-05-15T15:09:48+01:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/chad/entry-requirements",
+            "file": "unitedkingdom/Chad/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/chad/safety-and-security",
+            "file": "unitedkingdom/Chad/Safety and security.md"
+        },
+        {
+            "title": "Regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/chad/regional-risks",
+            "file": "unitedkingdom/Chad/Regional risks.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/chad/health",
+            "file": "unitedkingdom/Chad/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/chad/getting-help",
+            "file": "unitedkingdom/Chad/Getting help.md"
+        }
+    ],
+    "update_date": "2024-05-15T15:09:48+01:00"
+}

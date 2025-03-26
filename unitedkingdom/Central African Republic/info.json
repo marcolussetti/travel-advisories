@@ -1,0 +1,32 @@
+{
+    "name": "Central African Republic",
+    "update_reason": "New information on health risks ('Health' page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Central African Republic/Warnings and insurance.md",
+            "update_date": "2024-08-14T12:13:48+01:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/central-african-republic/entry-requirements",
+            "file": "unitedkingdom/Central African Republic/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/central-african-republic/safety-and-security",
+            "file": "unitedkingdom/Central African Republic/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/central-african-republic/health",
+            "file": "unitedkingdom/Central African Republic/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/central-african-republic/getting-help",
+            "file": "unitedkingdom/Central African Republic/Getting help.md"
+        }
+    ],
+    "update_date": "2024-08-14T12:13:48+01:00"
+}

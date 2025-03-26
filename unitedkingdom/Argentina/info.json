@@ -1,0 +1,32 @@
+{
+    "name": "Argentina",
+    "update_reason": "Removal of visa requirement to enter Argentina on an Emergency Travel Document and addition of number to contact 911 (Emergencies) in Buenos Aires from outside Argentina ('Getting help' page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Argentina/Warnings and insurance.md",
+            "update_date": "2025-03-19T16:49:01+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/argentina/entry-requirements",
+            "file": "unitedkingdom/Argentina/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/argentina/safety-and-security",
+            "file": "unitedkingdom/Argentina/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/argentina/health",
+            "file": "unitedkingdom/Argentina/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/argentina/getting-help",
+            "file": "unitedkingdom/Argentina/Getting help.md"
+        }
+    ],
+    "update_date": "2025-03-19T16:49:01+00:00"
+}

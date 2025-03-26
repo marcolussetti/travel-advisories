@@ -1,0 +1,32 @@
+{
+    "name": "Libya",
+    "update_reason": "On 26 October Israel carried out military action against Iran ('Safety and security' page)",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Libya/Warnings and insurance.md",
+            "update_date": "2024-10-26T08:03:21+01:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/libya/entry-requirements",
+            "file": "unitedkingdom/Libya/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/libya/safety-and-security",
+            "file": "unitedkingdom/Libya/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/libya/health",
+            "file": "unitedkingdom/Libya/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/libya/getting-help",
+            "file": "unitedkingdom/Libya/Getting help.md"
+        }
+    ],
+    "update_date": "2024-10-26T08:03:21+01:00"
+}

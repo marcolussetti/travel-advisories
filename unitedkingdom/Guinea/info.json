@@ -1,0 +1,32 @@
+{
+    "name": "Guinea",
+    "update_reason": "New information on what to expect if you are detained in Guinea (\u2018Safety and Security\u2019 page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Guinea/Warnings and insurance.md",
+            "update_date": "2025-03-18T11:57:30+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/guinea/entry-requirements",
+            "file": "unitedkingdom/Guinea/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/guinea/safety-and-security",
+            "file": "unitedkingdom/Guinea/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/guinea/health",
+            "file": "unitedkingdom/Guinea/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/guinea/getting-help",
+            "file": "unitedkingdom/Guinea/Getting help.md"
+        }
+    ],
+    "update_date": "2025-03-18T11:57:30+00:00"
+}

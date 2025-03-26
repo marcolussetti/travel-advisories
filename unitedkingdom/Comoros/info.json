@@ -1,0 +1,32 @@
+{
+    "name": "Comoros",
+    "update_reason": "This travel advice was reviewed for accuracy and reissued without any significant updates.",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Comoros/Warnings and insurance.md",
+            "update_date": "2025-01-29T17:19:36+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/comoros/entry-requirements",
+            "file": "unitedkingdom/Comoros/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/comoros/safety-and-security",
+            "file": "unitedkingdom/Comoros/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/comoros/health",
+            "file": "unitedkingdom/Comoros/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/comoros/getting-help",
+            "file": "unitedkingdom/Comoros/Getting help.md"
+        }
+    ],
+    "update_date": "2025-01-29T17:19:36+00:00"
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Taiwan",
+    "update_reason": "Removal of information on Typhoon Usagi ('Safety and security' page)",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Taiwan/Warnings and insurance.md",
+            "update_date": "2024-12-13T14:44:47+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/taiwan/entry-requirements",
+            "file": "unitedkingdom/Taiwan/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/taiwan/safety-and-security",
+            "file": "unitedkingdom/Taiwan/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/taiwan/health",
+            "file": "unitedkingdom/Taiwan/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/taiwan/getting-help",
+            "file": "unitedkingdom/Taiwan/Getting help.md"
+        }
+    ],
+    "update_date": "2024-12-13T14:44:47+00:00"
+}

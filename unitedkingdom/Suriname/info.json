@@ -1,0 +1,37 @@
+{
+    "name": "Suriname",
+    "update_reason": "New information added about arrival report ('Entry requirements' page)",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Suriname/Warnings and insurance.md",
+            "update_date": "2024-11-15T16:16:22+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/suriname/entry-requirements",
+            "file": "unitedkingdom/Suriname/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/suriname/safety-and-security",
+            "file": "unitedkingdom/Suriname/Safety and security.md"
+        },
+        {
+            "title": "Regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/suriname/regional-risks",
+            "file": "unitedkingdom/Suriname/Regional risks.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/suriname/health",
+            "file": "unitedkingdom/Suriname/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/suriname/getting-help",
+            "file": "unitedkingdom/Suriname/Getting help.md"
+        }
+    ],
+    "update_date": "2024-11-15T16:16:22+00:00"
+}

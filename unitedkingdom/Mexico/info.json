@@ -1,0 +1,37 @@
+{
+    "name": "Mexico",
+    "update_reason": "Removal of information about protests causing disruption at Mexico City Airport over the weekend of 22-23 March ('Warnings and insuarnce' page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Mexico/Warnings and insurance.md",
+            "update_date": "2025-03-24T15:30:51+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/mexico/entry-requirements",
+            "file": "unitedkingdom/Mexico/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/mexico/safety-and-security",
+            "file": "unitedkingdom/Mexico/Safety and security.md"
+        },
+        {
+            "title": "Regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/mexico/regional-risks",
+            "file": "unitedkingdom/Mexico/Regional risks.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/mexico/health",
+            "file": "unitedkingdom/Mexico/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/mexico/getting-help",
+            "file": "unitedkingdom/Mexico/Getting help.md"
+        }
+    ],
+    "update_date": "2025-03-24T15:30:51+00:00"
+}

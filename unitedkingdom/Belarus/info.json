@@ -1,0 +1,32 @@
+{
+    "name": "Belarus",
+    "update_reason": "Information added about mutual visa recognition between Belarus and Russia and extended visa free entry for British nationals until 31 December 2025 (\u2018Entry requirements\u2019 and \u2018Safety and security\u2019 pages).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Belarus/Warnings and insurance.md",
+            "update_date": "2025-01-16T10:05:11+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/belarus/entry-requirements",
+            "file": "unitedkingdom/Belarus/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/belarus/safety-and-security",
+            "file": "unitedkingdom/Belarus/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/belarus/health",
+            "file": "unitedkingdom/Belarus/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/belarus/getting-help",
+            "file": "unitedkingdom/Belarus/Getting help.md"
+        }
+    ],
+    "update_date": "2025-01-16T10:05:11+00:00"
+}

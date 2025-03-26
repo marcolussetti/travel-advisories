@@ -1,0 +1,32 @@
+{
+    "name": "Lesotho",
+    "update_reason": "This travel advice has been rewritten to make it easier to read and understand.",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Lesotho/Warnings and insurance.md",
+            "update_date": "2023-12-20T14:24:30+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/lesotho/entry-requirements",
+            "file": "unitedkingdom/Lesotho/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/lesotho/safety-and-security",
+            "file": "unitedkingdom/Lesotho/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/lesotho/health",
+            "file": "unitedkingdom/Lesotho/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/lesotho/getting-help",
+            "file": "unitedkingdom/Lesotho/Getting help.md"
+        }
+    ],
+    "update_date": "2023-12-20T14:24:30+00:00"
+}

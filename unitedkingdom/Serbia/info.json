@@ -1,0 +1,32 @@
+{
+    "name": "Serbia",
+    "update_reason": "Update about ongoing demonstrations in Serbia ('Safety and security' pages).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Serbia/Warnings and insurance.md",
+            "update_date": "2025-03-14T10:12:43+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/serbia/entry-requirements",
+            "file": "unitedkingdom/Serbia/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/serbia/safety-and-security",
+            "file": "unitedkingdom/Serbia/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/serbia/health",
+            "file": "unitedkingdom/Serbia/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/serbia/getting-help",
+            "file": "unitedkingdom/Serbia/Getting help.md"
+        }
+    ],
+    "update_date": "2025-03-14T10:12:43+00:00"
+}

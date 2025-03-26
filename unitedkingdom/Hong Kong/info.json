@@ -1,0 +1,32 @@
+{
+    "name": "Hong Kong",
+    "update_reason": "This travel advice was reviewed for accuracy and there are no significant updates.",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Hong Kong/Warnings and insurance.md",
+            "update_date": "2024-10-25T16:09:57+01:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/hong-kong/entry-requirements",
+            "file": "unitedkingdom/Hong Kong/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/hong-kong/safety-and-security",
+            "file": "unitedkingdom/Hong Kong/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/hong-kong/health",
+            "file": "unitedkingdom/Hong Kong/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/hong-kong/getting-help",
+            "file": "unitedkingdom/Hong Kong/Getting help.md"
+        }
+    ],
+    "update_date": "2024-10-25T16:09:57+01:00"
+}

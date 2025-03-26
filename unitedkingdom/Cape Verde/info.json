@@ -1,0 +1,32 @@
+{
+    "name": "Cape Verde",
+    "update_reason": "Updated information about the limitations of medical facilities and support in Cape Verde ('Safety and security' and 'Health' pages).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Cape Verde/Warnings and insurance.md",
+            "update_date": "2025-02-24T15:02:47+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/cape-verde/entry-requirements",
+            "file": "unitedkingdom/Cape Verde/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/cape-verde/safety-and-security",
+            "file": "unitedkingdom/Cape Verde/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/cape-verde/health",
+            "file": "unitedkingdom/Cape Verde/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/cape-verde/getting-help",
+            "file": "unitedkingdom/Cape Verde/Getting help.md"
+        }
+    ],
+    "update_date": "2025-02-24T15:02:47+00:00"
+}

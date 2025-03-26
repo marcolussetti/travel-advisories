@@ -1,0 +1,32 @@
+{
+    "name": "Kiribati",
+    "update_reason": "This travel advice has been rewritten to make it easier to read and understand.",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Kiribati/Warnings and insurance.md",
+            "update_date": "2024-03-12T15:57:06+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/kiribati/entry-requirements",
+            "file": "unitedkingdom/Kiribati/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/kiribati/safety-and-security",
+            "file": "unitedkingdom/Kiribati/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/kiribati/health",
+            "file": "unitedkingdom/Kiribati/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/kiribati/getting-help",
+            "file": "unitedkingdom/Kiribati/Getting help.md"
+        }
+    ],
+    "update_date": "2024-03-12T15:57:06+00:00"
+}

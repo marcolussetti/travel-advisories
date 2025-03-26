@@ -1,0 +1,32 @@
+{
+    "name": "Fiji",
+    "update_reason": "Information about drink spiking and methanol poisoning ('Safety and security' page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Fiji/Warnings and insurance.md",
+            "update_date": "2024-12-24T13:43:29+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/fiji/entry-requirements",
+            "file": "unitedkingdom/Fiji/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/fiji/safety-and-security",
+            "file": "unitedkingdom/Fiji/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/fiji/health",
+            "file": "unitedkingdom/Fiji/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/fiji/getting-help",
+            "file": "unitedkingdom/Fiji/Getting help.md"
+        }
+    ],
+    "update_date": "2024-12-24T13:43:29+00:00"
+}

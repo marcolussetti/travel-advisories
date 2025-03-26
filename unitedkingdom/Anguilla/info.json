@@ -1,0 +1,32 @@
+{
+    "name": "Anguilla",
+    "update_reason": "This travel advice has been rewritten to make it easier to read and understand.",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Anguilla/Warnings and insurance.md",
+            "update_date": "2024-03-27T14:43:02+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/anguilla/entry-requirements",
+            "file": "unitedkingdom/Anguilla/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/anguilla/safety-and-security",
+            "file": "unitedkingdom/Anguilla/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/anguilla/health",
+            "file": "unitedkingdom/Anguilla/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/anguilla/getting-help",
+            "file": "unitedkingdom/Anguilla/Getting help.md"
+        }
+    ],
+    "update_date": "2024-03-27T14:43:02+00:00"
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Turkmenistan",
+    "update_reason": "Updated guidance on taking dollars into Turkmenistan for exchange ('Entry requirements' page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Turkmenistan/Warnings and insurance.md",
+            "update_date": "2025-02-13T16:50:17+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/turkmenistan/entry-requirements",
+            "file": "unitedkingdom/Turkmenistan/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/turkmenistan/safety-and-security",
+            "file": "unitedkingdom/Turkmenistan/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/turkmenistan/health",
+            "file": "unitedkingdom/Turkmenistan/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/turkmenistan/getting-help",
+            "file": "unitedkingdom/Turkmenistan/Getting help.md"
+        }
+    ],
+    "update_date": "2025-02-13T16:50:17+00:00"
+}

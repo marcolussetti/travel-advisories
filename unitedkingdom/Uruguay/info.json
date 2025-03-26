@@ -1,0 +1,32 @@
+{
+    "name": "Uruguay",
+    "update_reason": "This travel advice was reviewed for accuracy and there are no significant updates.",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Uruguay/Warnings and insurance.md",
+            "update_date": "2024-11-08T11:47:15+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/uruguay/entry-requirements",
+            "file": "unitedkingdom/Uruguay/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/uruguay/safety-and-security",
+            "file": "unitedkingdom/Uruguay/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/uruguay/health",
+            "file": "unitedkingdom/Uruguay/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/uruguay/getting-help",
+            "file": "unitedkingdom/Uruguay/Getting help.md"
+        }
+    ],
+    "update_date": "2024-11-08T11:47:15+00:00"
+}

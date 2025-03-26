@@ -1,0 +1,32 @@
+{
+    "name": "New Caledonia",
+    "update_reason": "Updated information on public restrictions ('Safety and security' page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/New Caledonia/Warnings and insurance.md",
+            "update_date": "2024-09-26T18:56:42+01:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/new-caledonia/entry-requirements",
+            "file": "unitedkingdom/New Caledonia/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/new-caledonia/travel-advice-safety-and-security",
+            "file": "unitedkingdom/New Caledonia/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/new-caledonia/health",
+            "file": "unitedkingdom/New Caledonia/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/new-caledonia/getting-help",
+            "file": "unitedkingdom/New Caledonia/Getting help.md"
+        }
+    ],
+    "update_date": "2024-09-26T18:56:42+01:00"
+}

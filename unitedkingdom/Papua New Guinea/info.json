@@ -1,0 +1,37 @@
+{
+    "name": "Papua New Guinea",
+    "update_reason": "This travel advice has been rewritten to make it easier to read and understand.",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Papua New Guinea/Warnings and insurance.md",
+            "update_date": "2024-02-22T14:03:43+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/papua-new-guinea/entry-requirements",
+            "file": "unitedkingdom/Papua New Guinea/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/papua-new-guinea/safety-and-security",
+            "file": "unitedkingdom/Papua New Guinea/Safety and security.md"
+        },
+        {
+            "title": "Regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/papua-new-guinea/regional-risks",
+            "file": "unitedkingdom/Papua New Guinea/Regional risks.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/papua-new-guinea/health",
+            "file": "unitedkingdom/Papua New Guinea/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/papua-new-guinea/getting-help",
+            "file": "unitedkingdom/Papua New Guinea/Getting help.md"
+        }
+    ],
+    "update_date": "2024-02-22T14:03:43+00:00"
+}

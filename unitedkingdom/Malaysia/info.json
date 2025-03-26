@@ -1,0 +1,37 @@
+{
+    "name": "Malaysia",
+    "update_reason": "This travel advice was reviewed for style and accuracy.",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Malaysia/Warnings and insurance.md",
+            "update_date": "2024-09-11T16:46:34+01:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/malaysia/entry-requirements",
+            "file": "unitedkingdom/Malaysia/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/malaysia/safety-and-security",
+            "file": "unitedkingdom/Malaysia/Safety and security.md"
+        },
+        {
+            "title": "Regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/malaysia/regional-risks",
+            "file": "unitedkingdom/Malaysia/Regional risks.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/malaysia/health",
+            "file": "unitedkingdom/Malaysia/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/malaysia/getting-help",
+            "file": "unitedkingdom/Malaysia/Getting help.md"
+        }
+    ],
+    "update_date": "2024-09-11T16:46:34+01:00"
+}

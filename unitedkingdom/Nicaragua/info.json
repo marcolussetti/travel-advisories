@@ -1,0 +1,32 @@
+{
+    "name": "Nicaragua",
+    "update_reason": "Updated information on travel within the C4 region relevant to Honduras and updated information on flying drones (\u2018Entry requirements\u2019 and \u2018Safety and security\u2019 pages).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Nicaragua/Warnings and insurance.md",
+            "update_date": "2025-01-09T15:56:50+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/nicaragua/entry-requirements",
+            "file": "unitedkingdom/Nicaragua/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/nicaragua/safety-and-security",
+            "file": "unitedkingdom/Nicaragua/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/nicaragua/health",
+            "file": "unitedkingdom/Nicaragua/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/nicaragua/getting-help",
+            "file": "unitedkingdom/Nicaragua/Getting help.md"
+        }
+    ],
+    "update_date": "2025-01-09T15:56:50+00:00"
+}

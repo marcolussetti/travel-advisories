@@ -1,0 +1,32 @@
+{
+    "name": "USA",
+    "update_reason": "Updated information on visa requirements to enter USA (\u2018Entry requirements\u2019 page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/USA/Warnings and insurance.md",
+            "update_date": "2025-03-14T11:55:18+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/usa/entry-requirements",
+            "file": "unitedkingdom/USA/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/usa/safety-and-security",
+            "file": "unitedkingdom/USA/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/usa/health",
+            "file": "unitedkingdom/USA/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/usa/getting-help",
+            "file": "unitedkingdom/USA/Getting help.md"
+        }
+    ],
+    "update_date": "2025-03-14T11:55:18+00:00"
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Cuba",
+    "update_reason": "Updated information about nationwide power outage in Cuba ('Warnings and insurance' page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Cuba/Warnings and insurance.md",
+            "update_date": "2025-03-18T12:42:53+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/cuba/entry-requirements",
+            "file": "unitedkingdom/Cuba/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/cuba/safety-and-security",
+            "file": "unitedkingdom/Cuba/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/cuba/health",
+            "file": "unitedkingdom/Cuba/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/cuba/getting-help",
+            "file": "unitedkingdom/Cuba/Getting help.md"
+        }
+    ],
+    "update_date": "2025-03-18T12:42:53+00:00"
+}

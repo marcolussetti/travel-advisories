@@ -1,0 +1,32 @@
+{
+    "name": "French Polynesia",
+    "update_reason": "Removal of information relating to the now cancelled industrial action and demonstrations (\u2018Safety and security\u2019 page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/French Polynesia/Warnings and insurance.md",
+            "update_date": "2024-12-19T10:28:07+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/french-polynesia/entry-requirements",
+            "file": "unitedkingdom/French Polynesia/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/french-polynesia/safety-and-security",
+            "file": "unitedkingdom/French Polynesia/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/french-polynesia/health",
+            "file": "unitedkingdom/French Polynesia/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/french-polynesia/getting-help",
+            "file": "unitedkingdom/French Polynesia/Getting help.md"
+        }
+    ],
+    "update_date": "2024-12-19T10:28:07+00:00"
+}

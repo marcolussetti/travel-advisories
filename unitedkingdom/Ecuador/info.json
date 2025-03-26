@@ -1,0 +1,37 @@
+{
+    "name": "Ecuador",
+    "update_reason": "On 17 March, Ecuador declared an environmental emergency due to an oil spill near Esmeraldas River (see 'Swimming safety' on 'Safety and security' page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Ecuador/Warnings and insurance.md",
+            "update_date": "2025-03-21T11:18:33+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/ecuador/entry-requirements",
+            "file": "unitedkingdom/Ecuador/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/ecuador/safety-and-security",
+            "file": "unitedkingdom/Ecuador/Safety and security.md"
+        },
+        {
+            "title": "Regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/ecuador/regional-risks",
+            "file": "unitedkingdom/Ecuador/Regional risks.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/ecuador/health",
+            "file": "unitedkingdom/Ecuador/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/ecuador/getting-help",
+            "file": "unitedkingdom/Ecuador/Getting help.md"
+        }
+    ],
+    "update_date": "2025-03-21T11:18:33+00:00"
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Paraguay",
+    "update_reason": "This travel advice was reviewed for accuracy and reissued without any significant updates.",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Paraguay/Warnings and insurance.md",
+            "update_date": "2025-01-16T14:13:14+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/paraguay/entry-requirements",
+            "file": "unitedkingdom/Paraguay/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/paraguay/safety-and-security",
+            "file": "unitedkingdom/Paraguay/Safety and security.md"
+        },
+        {
+            "title": "Regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/paraguay/regional-risks",
+            "file": "unitedkingdom/Paraguay/Regional risks.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/paraguay/health",
+            "file": "unitedkingdom/Paraguay/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/paraguay/getting-help",
+            "file": "unitedkingdom/Paraguay/Getting help.md"
+        }
+    ],
+    "update_date": "2025-01-16T14:13:14+00:00"
+}

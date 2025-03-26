@@ -1,0 +1,37 @@
+{
+    "name": "Nigeria",
+    "update_reason": "New information about a State of Emergency declared in Rivers State, South-South Nigeria ('Safety and security' page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Nigeria/Warnings and insurance.md",
+            "update_date": "2025-03-19T16:51:40+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/nigeria/entry-requirements",
+            "file": "unitedkingdom/Nigeria/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/nigeria/safety-and-security",
+            "file": "unitedkingdom/Nigeria/Safety and security.md"
+        },
+        {
+            "title": "Regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/nigeria/regional-risks",
+            "file": "unitedkingdom/Nigeria/Regional risks.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/nigeria/health",
+            "file": "unitedkingdom/Nigeria/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/nigeria/getting-help",
+            "file": "unitedkingdom/Nigeria/Getting help.md"
+        }
+    ],
+    "update_date": "2025-03-19T16:51:40+00:00"
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Laos",
+    "update_reason": "Information added about protecting yourself against potential sexual assault ('Safety and security' page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Laos/Warnings and insurance.md",
+            "update_date": "2025-03-25T13:15:18+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/laos/entry-requirements",
+            "file": "unitedkingdom/Laos/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/laos/safety-and-security",
+            "file": "unitedkingdom/Laos/Safety and security.md"
+        },
+        {
+            "title": "Regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/laos/regional-risks",
+            "file": "unitedkingdom/Laos/Regional risks.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/laos/health",
+            "file": "unitedkingdom/Laos/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/laos/getting-help",
+            "file": "unitedkingdom/Laos/Getting help.md"
+        }
+    ],
+    "update_date": "2025-03-25T13:15:18+00:00"
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Brunei",
+    "update_reason": "This travel advice was reviewed for accuracy and there are no significant updates.",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Brunei/Warnings and insurance.md",
+            "update_date": "2024-10-15T13:51:27+01:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/brunei/entry-requirements",
+            "file": "unitedkingdom/Brunei/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/brunei/safety-and-security",
+            "file": "unitedkingdom/Brunei/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/brunei/health",
+            "file": "unitedkingdom/Brunei/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/brunei/getting-help",
+            "file": "unitedkingdom/Brunei/Getting help.md"
+        }
+    ],
+    "update_date": "2024-10-15T13:51:27+01:00"
+}

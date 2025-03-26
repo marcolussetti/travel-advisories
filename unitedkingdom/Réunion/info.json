@@ -1,0 +1,32 @@
+{
+    "name": "R\u00e9union",
+    "update_reason": "Removal of information about severe tropical Storm Garance ('Warnings and insurance' page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/R\u00e9union/Warnings and insurance.md",
+            "update_date": "2025-03-07T12:32:54+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/reunion/entry-requirements",
+            "file": "unitedkingdom/R\u00e9union/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/reunion/safety-and-security",
+            "file": "unitedkingdom/R\u00e9union/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/reunion/health",
+            "file": "unitedkingdom/R\u00e9union/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/reunion/getting-help",
+            "file": "unitedkingdom/R\u00e9union/Getting help.md"
+        }
+    ],
+    "update_date": "2025-03-07T12:32:54+00:00"
+}

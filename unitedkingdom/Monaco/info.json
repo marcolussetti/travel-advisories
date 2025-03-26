@@ -1,0 +1,32 @@
+{
+    "name": "Monaco",
+    "update_reason": "This travel advice was reviewed for style and accuracy.",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Monaco/Warnings and insurance.md",
+            "update_date": "2024-05-29T15:31:45+01:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/monaco/entry-requirements",
+            "file": "unitedkingdom/Monaco/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/monaco/safety-and-security",
+            "file": "unitedkingdom/Monaco/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/monaco/health",
+            "file": "unitedkingdom/Monaco/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/monaco/getting-help",
+            "file": "unitedkingdom/Monaco/Getting help.md"
+        }
+    ],
+    "update_date": "2024-05-29T15:31:45+01:00"
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Gibraltar",
+    "update_reason": "This travel advice was reviewed for style and accuracy.",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Gibraltar/Warnings and insurance.md",
+            "update_date": "2024-05-30T10:17:41+01:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/gibraltar/entry-requirements",
+            "file": "unitedkingdom/Gibraltar/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/gibraltar/safety-and-security",
+            "file": "unitedkingdom/Gibraltar/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/gibraltar/health",
+            "file": "unitedkingdom/Gibraltar/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/gibraltar/getting-help",
+            "file": "unitedkingdom/Gibraltar/Getting help.md"
+        }
+    ],
+    "update_date": "2024-05-30T10:17:41+01:00"
+}

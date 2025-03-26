@@ -1,0 +1,32 @@
+{
+    "name": "Syria",
+    "update_reason": "Updated information for British nationals affected by ongoing hostilities in Syria ('Warnings and insurance' and 'Getting help' pages).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Syria/Warnings and insurance.md",
+            "update_date": "2025-03-14T15:06:19+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/syria/entry-requirements",
+            "file": "unitedkingdom/Syria/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/syria/safety-and-security",
+            "file": "unitedkingdom/Syria/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/syria/health",
+            "file": "unitedkingdom/Syria/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/syria/getting-help",
+            "file": "unitedkingdom/Syria/Getting help.md"
+        }
+    ],
+    "update_date": "2025-03-14T15:06:19+00:00"
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Senegal",
+    "update_reason": "This travel advice has been rewritten to make it easier to read and understand.",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Senegal/Warnings and insurance.md",
+            "update_date": "2024-02-07T14:55:18+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/senegal/entry-requirements",
+            "file": "unitedkingdom/Senegal/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/senegal/safety-and-security",
+            "file": "unitedkingdom/Senegal/Safety and security.md"
+        },
+        {
+            "title": "Regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/senegal/regional-risks",
+            "file": "unitedkingdom/Senegal/Regional risks.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/senegal/health",
+            "file": "unitedkingdom/Senegal/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/senegal/getting-help",
+            "file": "unitedkingdom/Senegal/Getting help.md"
+        }
+    ],
+    "update_date": "2024-02-07T14:55:18+00:00"
+}

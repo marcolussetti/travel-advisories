@@ -1,0 +1,32 @@
+{
+    "name": "Mali",
+    "update_reason": "New information on the criminalisation of the promotion or participation in consensual same-sex relationships (\u2018Safety and security\u2019 page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Mali/Warnings and insurance.md",
+            "update_date": "2025-01-27T16:28:56+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/mali/entry-requirements",
+            "file": "unitedkingdom/Mali/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/mali/safety-and-security",
+            "file": "unitedkingdom/Mali/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/mali/health",
+            "file": "unitedkingdom/Mali/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/mali/getting-help",
+            "file": "unitedkingdom/Mali/Getting help.md"
+        }
+    ],
+    "update_date": "2025-01-27T16:28:56+00:00"
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Bahrain",
+    "update_reason": "Information on an Israeli military attack on Iran (Safety and security)",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Bahrain/Warnings and insurance.md",
+            "update_date": "2024-10-26T08:31:51+01:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/bahrain/entry-requirements",
+            "file": "unitedkingdom/Bahrain/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/bahrain/safety-and-security",
+            "file": "unitedkingdom/Bahrain/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/bahrain/health",
+            "file": "unitedkingdom/Bahrain/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/bahrain/getting-help",
+            "file": "unitedkingdom/Bahrain/Getting help.md"
+        }
+    ],
+    "update_date": "2024-10-26T08:31:51+01:00"
+}

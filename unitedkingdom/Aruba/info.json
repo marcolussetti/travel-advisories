@@ -1,0 +1,32 @@
+{
+    "name": "Aruba",
+    "update_reason": "This travel advice has been reviewed for accuracy. There were no significant updates.",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Aruba/Warnings and insurance.md",
+            "update_date": "2024-12-17T11:57:39+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/aruba/entry-requirements",
+            "file": "unitedkingdom/Aruba/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/aruba/safety-and-security",
+            "file": "unitedkingdom/Aruba/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/aruba/health",
+            "file": "unitedkingdom/Aruba/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/aruba/getting-help",
+            "file": "unitedkingdom/Aruba/Getting help.md"
+        }
+    ],
+    "update_date": "2024-12-17T11:57:39+00:00"
+}

@@ -1,0 +1,32 @@
+{
+    "name": "The Gambia",
+    "update_reason": "Updated assessment that although there is no recent history of terrorism in The Gambia, attacks cannot be ruled out ('Safety and security' page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/The Gambia/Warnings and insurance.md",
+            "update_date": "2024-07-09T16:01:18+01:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/the-gambia/entry-requirements",
+            "file": "unitedkingdom/The Gambia/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/the-gambia/safety-and-security",
+            "file": "unitedkingdom/The Gambia/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/the-gambia/health",
+            "file": "unitedkingdom/The Gambia/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/the-gambia/getting-help",
+            "file": "unitedkingdom/The Gambia/Getting help.md"
+        }
+    ],
+    "update_date": "2024-07-09T16:01:18+01:00"
+}

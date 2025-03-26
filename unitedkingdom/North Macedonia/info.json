@@ -1,0 +1,32 @@
+{
+    "name": "North Macedonia",
+    "update_reason": "Updated information about the risks of terrorism in North Macedonia ('Safety and security' page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/North Macedonia/Warnings and insurance.md",
+            "update_date": "2025-02-05T10:28:46+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/north-macedonia/entry-requirements",
+            "file": "unitedkingdom/North Macedonia/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/north-macedonia/safety-and-security",
+            "file": "unitedkingdom/North Macedonia/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/north-macedonia/health",
+            "file": "unitedkingdom/North Macedonia/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/north-macedonia/getting-help",
+            "file": "unitedkingdom/North Macedonia/Getting help.md"
+        }
+    ],
+    "update_date": "2025-02-05T10:28:46+00:00"
+}

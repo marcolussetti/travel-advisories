@@ -1,0 +1,37 @@
+{
+    "name": "Uzbekistan",
+    "update_reason": "FCDO now advises you to see our travel advice before travelling to the Afghanistan-Uzbekistan border region and information on a new unified emergency services number being introduced across the country over the course of 2024 ('Regional risks' and 'Getting help' pages).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Uzbekistan/Warnings and insurance.md",
+            "update_date": "2024-08-16T10:03:30+01:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/uzbekistan/entry-requirements",
+            "file": "unitedkingdom/Uzbekistan/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/uzbekistan/safety-and-security",
+            "file": "unitedkingdom/Uzbekistan/Safety and security.md"
+        },
+        {
+            "title": "Regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/uzbekistan/regional-risks",
+            "file": "unitedkingdom/Uzbekistan/Regional risks.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/uzbekistan/health",
+            "file": "unitedkingdom/Uzbekistan/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/uzbekistan/getting-help",
+            "file": "unitedkingdom/Uzbekistan/Getting help.md"
+        }
+    ],
+    "update_date": "2024-08-16T10:03:30+01:00"
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Mauritania",
+    "update_reason": "Additional information about the introduction of e-visas to enter Mauritania (\u2018Entry requirements\u2019 page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Mauritania/Warnings and insurance.md",
+            "update_date": "2025-01-24T14:57:08+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/mauritania/entry-requirements",
+            "file": "unitedkingdom/Mauritania/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/mauritania/safety-and-security",
+            "file": "unitedkingdom/Mauritania/Safety and security.md"
+        },
+        {
+            "title": "Regional Risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/mauritania/regional-risks",
+            "file": "unitedkingdom/Mauritania/Regional Risks.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/mauritania/health",
+            "file": "unitedkingdom/Mauritania/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/mauritania/getting-help",
+            "file": "unitedkingdom/Mauritania/Getting help.md"
+        }
+    ],
+    "update_date": "2025-01-24T14:57:08+00:00"
+}

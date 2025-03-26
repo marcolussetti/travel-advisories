@@ -1,0 +1,37 @@
+{
+    "name": "Honduras",
+    "update_reason": "Removal of information about Tropical Storm Sara ('Warnings and insurance' page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Honduras/Warnings and insurance.md",
+            "update_date": "2024-12-05T12:06:09+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/honduras/entry-requirements",
+            "file": "unitedkingdom/Honduras/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/honduras/safety-and-security",
+            "file": "unitedkingdom/Honduras/Safety and security.md"
+        },
+        {
+            "title": "Regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/honduras/regional-risks",
+            "file": "unitedkingdom/Honduras/Regional risks.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/honduras/health",
+            "file": "unitedkingdom/Honduras/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/honduras/getting-help",
+            "file": "unitedkingdom/Honduras/Getting help.md"
+        }
+    ],
+    "update_date": "2024-12-05T12:06:09+00:00"
+}

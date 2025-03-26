@@ -1,0 +1,37 @@
+{
+    "name": "Burundi",
+    "update_reason": "New information on risks associated with the ongoing conflict in eastern DRC ('Warnings and insurance' page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Burundi/Warnings and insurance.md",
+            "update_date": "2025-02-19T16:39:30+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/burundi/entry-requirements",
+            "file": "unitedkingdom/Burundi/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/burundi/safety-and-security",
+            "file": "unitedkingdom/Burundi/Safety and security.md"
+        },
+        {
+            "title": "Regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/burundi/regional-risks",
+            "file": "unitedkingdom/Burundi/Regional risks.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/burundi/health",
+            "file": "unitedkingdom/Burundi/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/burundi/getting-help",
+            "file": "unitedkingdom/Burundi/Getting help.md"
+        }
+    ],
+    "update_date": "2025-02-19T16:39:30+00:00"
+}

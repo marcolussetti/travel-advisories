@@ -1,0 +1,37 @@
+{
+    "name": "Bangladesh",
+    "update_reason": "Removal of information about transport risks since Bishwa Ijtema has concluded('Safety and security' page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Bangladesh/Warnings and insurance.md",
+            "update_date": "2025-02-21T10:27:26+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/bangladesh/entry-requirements",
+            "file": "unitedkingdom/Bangladesh/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/bangladesh/safety-and-security",
+            "file": "unitedkingdom/Bangladesh/Safety and security.md"
+        },
+        {
+            "title": "Regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/bangladesh/regional-risks",
+            "file": "unitedkingdom/Bangladesh/Regional risks.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/bangladesh/health",
+            "file": "unitedkingdom/Bangladesh/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/bangladesh/getting-help",
+            "file": "unitedkingdom/Bangladesh/Getting help.md"
+        }
+    ],
+    "update_date": "2025-02-21T10:27:26+00:00"
+}

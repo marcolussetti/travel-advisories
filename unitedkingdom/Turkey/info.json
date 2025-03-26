@@ -1,0 +1,37 @@
+{
+    "name": "Turkey",
+    "update_reason": "Update on demonstrations and protests (\u2018Warnings and insurance\u2019 and 'Safety and security' pages).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Turkey/Warnings and insurance.md",
+            "update_date": "2025-03-24T15:51:36+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/turkey/entry-requirements",
+            "file": "unitedkingdom/Turkey/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/turkey/safety-and-security",
+            "file": "unitedkingdom/Turkey/Safety and security.md"
+        },
+        {
+            "title": "Regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/turkey/regional-risks",
+            "file": "unitedkingdom/Turkey/Regional risks.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/turkey/health",
+            "file": "unitedkingdom/Turkey/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/turkey/getting-help",
+            "file": "unitedkingdom/Turkey/Getting help.md"
+        }
+    ],
+    "update_date": "2025-03-24T15:51:36+00:00"
+}

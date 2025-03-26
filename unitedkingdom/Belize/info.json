@@ -1,0 +1,32 @@
+{
+    "name": "Belize",
+    "update_reason": "Information on the new digitalised immigration and customs declaration form ('Entry requirements' page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Belize/Warnings and insurance.md",
+            "update_date": "2025-01-02T13:03:45+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/belize/entry-requirements",
+            "file": "unitedkingdom/Belize/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/belize/safety-and-security",
+            "file": "unitedkingdom/Belize/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/belize/health",
+            "file": "unitedkingdom/Belize/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/belize/getting-help",
+            "file": "unitedkingdom/Belize/Getting help.md"
+        }
+    ],
+    "update_date": "2025-01-02T13:03:45+00:00"
+}

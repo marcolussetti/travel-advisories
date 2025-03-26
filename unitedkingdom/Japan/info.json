@@ -1,0 +1,37 @@
+{
+    "name": "Japan",
+    "update_reason": "Updated information on drink spiking and new information about illegal drugs ('Safety and security' page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Japan/Warnings and insurance.md",
+            "update_date": "2024-11-27T09:41:57+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/japan/entry-requirements",
+            "file": "unitedkingdom/Japan/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/japan/safety-and-security",
+            "file": "unitedkingdom/Japan/Safety and security.md"
+        },
+        {
+            "title": "Regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/japan/regional-risks",
+            "file": "unitedkingdom/Japan/Regional risks.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/japan/health",
+            "file": "unitedkingdom/Japan/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/japan/getting-help",
+            "file": "unitedkingdom/Japan/Getting help.md"
+        }
+    ],
+    "update_date": "2024-11-27T09:41:57+00:00"
+}

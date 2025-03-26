@@ -1,0 +1,32 @@
+{
+    "name": "Australia",
+    "update_reason": "Updated information about Ex-Tropical Cyclone Alfred ('Warnings and insurance' page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Australia/Warnings and insurance.md",
+            "update_date": "2025-03-08T01:45:38+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/australia/entry-requirements",
+            "file": "unitedkingdom/Australia/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/australia/safety-and-security",
+            "file": "unitedkingdom/Australia/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/australia/health",
+            "file": "unitedkingdom/Australia/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/australia/getting-help",
+            "file": "unitedkingdom/Australia/Getting help.md"
+        }
+    ],
+    "update_date": "2025-03-08T01:45:38+00:00"
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Vanuatu",
+    "update_reason": "Updated information about the earthquake in Port Villa and new information about getting assistance from the UK government ('Safety and security' and 'Getting help' pages).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Vanuatu/Warnings and insurance.md",
+            "update_date": "2025-02-25T10:36:55+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/vanuatu/entry-requirements",
+            "file": "unitedkingdom/Vanuatu/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/vanuatu/safety-and-security",
+            "file": "unitedkingdom/Vanuatu/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/vanuatu/health",
+            "file": "unitedkingdom/Vanuatu/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/vanuatu/getting-help",
+            "file": "unitedkingdom/Vanuatu/Getting help.md"
+        }
+    ],
+    "update_date": "2025-02-25T10:36:55+00:00"
+}

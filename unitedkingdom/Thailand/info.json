@@ -1,0 +1,37 @@
+{
+    "name": "Thailand",
+    "update_reason": "Updated information on same-sex marriage ('Safety and security' page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Thailand/Warnings and insurance.md",
+            "update_date": "2025-02-14T13:21:20+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements",
+            "file": "unitedkingdom/Thailand/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/thailand/safety-and-security",
+            "file": "unitedkingdom/Thailand/Safety and security.md"
+        },
+        {
+            "title": "Regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/thailand/regional-risks",
+            "file": "unitedkingdom/Thailand/Regional risks.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/thailand/health",
+            "file": "unitedkingdom/Thailand/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/thailand/getting-help",
+            "file": "unitedkingdom/Thailand/Getting help.md"
+        }
+    ],
+    "update_date": "2025-02-14T13:21:20+00:00"
+}

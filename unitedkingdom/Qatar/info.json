@@ -1,0 +1,32 @@
+{
+    "name": "Qatar",
+    "update_reason": "On 26 October Israel carried out military action against Iran ('Safety and security' page)",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Qatar/Warnings and insurance.md",
+            "update_date": "2024-10-26T08:24:15+01:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/qatar/entry-requirements",
+            "file": "unitedkingdom/Qatar/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/qatar/safety-and-security",
+            "file": "unitedkingdom/Qatar/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/qatar/health",
+            "file": "unitedkingdom/Qatar/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/qatar/getting-help",
+            "file": "unitedkingdom/Qatar/Getting help.md"
+        }
+    ],
+    "update_date": "2024-10-26T08:24:15+01:00"
+}

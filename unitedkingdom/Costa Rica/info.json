@@ -1,0 +1,32 @@
+{
+    "name": "Costa Rica",
+    "update_reason": "Information about airport disruptions (\u2018Safety and security\u2019 page)",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Costa Rica/Warnings and insurance.md",
+            "update_date": "2024-11-26T11:10:56+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/costa-rica/entry-requirements",
+            "file": "unitedkingdom/Costa Rica/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/costa-rica/safety-and-security",
+            "file": "unitedkingdom/Costa Rica/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/costa-rica/health",
+            "file": "unitedkingdom/Costa Rica/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/costa-rica/getting-help",
+            "file": "unitedkingdom/Costa Rica/Getting help.md"
+        }
+    ],
+    "update_date": "2024-11-26T11:10:56+00:00"
+}

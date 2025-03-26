@@ -1,0 +1,32 @@
+{
+    "name": "New Zealand",
+    "update_reason": "This travel advice was reviewed for accuracy and reissued with additional information on travelling to remote areas ('Safety and security' page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/New Zealand/Warnings and insurance.md",
+            "update_date": "2025-01-02T11:46:47+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/new-zealand/entry-requirements",
+            "file": "unitedkingdom/New Zealand/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/new-zealand/safety-and-security",
+            "file": "unitedkingdom/New Zealand/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/new-zealand/health",
+            "file": "unitedkingdom/New Zealand/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/new-zealand/getting-help",
+            "file": "unitedkingdom/New Zealand/Getting help.md"
+        }
+    ],
+    "update_date": "2025-01-02T11:46:47+00:00"
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Montenegro",
+    "update_reason": "Information on wildfire risks ('Safety and security' page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Montenegro/Warnings and insurance.md",
+            "update_date": "2024-08-14T09:47:03+01:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/montenegro/entry-requirements",
+            "file": "unitedkingdom/Montenegro/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/montenegro/safety-and-security",
+            "file": "unitedkingdom/Montenegro/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/montenegro/health",
+            "file": "unitedkingdom/Montenegro/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/montenegro/getting-help",
+            "file": "unitedkingdom/Montenegro/Getting help.md"
+        }
+    ],
+    "update_date": "2024-08-14T09:47:03+01:00"
+}

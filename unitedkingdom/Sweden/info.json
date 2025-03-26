@@ -1,0 +1,32 @@
+{
+    "name": "Sweden",
+    "update_reason": "Update to information on expected rollout of the EU Entry/Exit System (EES) (\u2018Entry requirements\u2019 page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Sweden/Warnings and insurance.md",
+            "update_date": "2025-03-17T14:28:27+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/sweden/entry-requirements",
+            "file": "unitedkingdom/Sweden/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/sweden/safety-and-security",
+            "file": "unitedkingdom/Sweden/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/sweden/health",
+            "file": "unitedkingdom/Sweden/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/sweden/getting-help",
+            "file": "unitedkingdom/Sweden/Getting help.md"
+        }
+    ],
+    "update_date": "2025-03-17T14:28:27+00:00"
+}

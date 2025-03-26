@@ -1,0 +1,37 @@
+{
+    "name": "Congo",
+    "update_reason": "FCDO no longer advises against all but essential travel to some districts in Pool Region and Mouyondzi District in the Bouenza Region ('Warnings and insurance' page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Congo/Warnings and insurance.md",
+            "update_date": "2025-01-20T12:54:37+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/congo/entry-requirements",
+            "file": "unitedkingdom/Congo/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/congo/safety-and-security",
+            "file": "unitedkingdom/Congo/Safety and security.md"
+        },
+        {
+            "title": "Regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/congo/regional-risks",
+            "file": "unitedkingdom/Congo/Regional risks.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/congo/health",
+            "file": "unitedkingdom/Congo/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/congo/getting-help",
+            "file": "unitedkingdom/Congo/Getting help.md"
+        }
+    ],
+    "update_date": "2025-01-20T12:54:37+00:00"
+}

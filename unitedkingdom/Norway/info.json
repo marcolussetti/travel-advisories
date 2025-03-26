@@ -1,0 +1,37 @@
+{
+    "name": "Norway",
+    "update_reason": "Update to information on expected rollout of the EU Entry/Exit System (EES) (\u2018Entry requirements\u2019 page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Norway/Warnings and insurance.md",
+            "update_date": "2025-03-17T14:06:43+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/norway/entry-requirements",
+            "file": "unitedkingdom/Norway/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/norway/safety-and-security",
+            "file": "unitedkingdom/Norway/Safety and security.md"
+        },
+        {
+            "title": "Regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/norway/regional-risks",
+            "file": "unitedkingdom/Norway/Regional risks.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/norway/health",
+            "file": "unitedkingdom/Norway/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/norway/getting-help",
+            "file": "unitedkingdom/Norway/Getting help.md"
+        }
+    ],
+    "update_date": "2025-03-17T14:06:43+00:00"
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Cambodia",
+    "update_reason": "Information added about the risks of methanol poisoning ('Safety and security' page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Cambodia/Warnings and insurance.md",
+            "update_date": "2024-11-27T14:54:59+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/cambodia/entry-requirements",
+            "file": "unitedkingdom/Cambodia/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/cambodia/safety-and-security",
+            "file": "unitedkingdom/Cambodia/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/cambodia/health",
+            "file": "unitedkingdom/Cambodia/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/cambodia/getting-help",
+            "file": "unitedkingdom/Cambodia/Getting help.md"
+        }
+    ],
+    "update_date": "2024-11-27T14:54:59+00:00"
+}

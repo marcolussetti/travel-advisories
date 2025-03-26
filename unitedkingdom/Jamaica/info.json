@@ -1,0 +1,32 @@
+{
+    "name": "Jamaica",
+    "update_reason": "Addition of information about Zones of Special Operation and updated information on crime ('Safety and security' page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Jamaica/Warnings and insurance.md",
+            "update_date": "2025-02-14T13:13:27+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/jamaica/entry-requirements",
+            "file": "unitedkingdom/Jamaica/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/jamaica/safety-and-security",
+            "file": "unitedkingdom/Jamaica/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/jamaica/health",
+            "file": "unitedkingdom/Jamaica/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/jamaica/getting-help",
+            "file": "unitedkingdom/Jamaica/Getting help.md"
+        }
+    ],
+    "update_date": "2025-02-14T13:13:27+00:00"
+}

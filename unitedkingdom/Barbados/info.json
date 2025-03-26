@@ -1,0 +1,32 @@
+{
+    "name": "Barbados",
+    "update_reason": "Updated information on the hurricane season in the Caribbean ('Warnings and insurance' page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Barbados/Warnings and insurance.md",
+            "update_date": "2024-07-24T15:41:59+01:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/barbados/entry-requirements",
+            "file": "unitedkingdom/Barbados/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/barbados/safety-and-security",
+            "file": "unitedkingdom/Barbados/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/barbados/health",
+            "file": "unitedkingdom/Barbados/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/barbados/getting-help",
+            "file": "unitedkingdom/Barbados/Getting help.md"
+        }
+    ],
+    "update_date": "2024-07-24T15:41:59+01:00"
+}

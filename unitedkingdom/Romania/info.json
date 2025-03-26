@@ -1,0 +1,32 @@
+{
+    "name": "Romania",
+    "update_reason": "Update to information on expected rollout of the EU Entry/Exit System (EES) (\u2018Entry requirements\u2019 page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Romania/Warnings and insurance.md",
+            "update_date": "2025-03-17T14:14:46+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/romania/entry-requirements",
+            "file": "unitedkingdom/Romania/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/romania/safety-and-security",
+            "file": "unitedkingdom/Romania/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/romania/health",
+            "file": "unitedkingdom/Romania/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/romania/getting-help",
+            "file": "unitedkingdom/Romania/Getting help.md"
+        }
+    ],
+    "update_date": "2025-03-17T14:14:46+00:00"
+}

@@ -1,0 +1,37 @@
+{
+    "name": "India",
+    "update_reason": "Removal of information about Maha Kumbh Mela (\u2018Warnings and insurance\u2019 page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/India/Warnings and insurance.md",
+            "update_date": "2025-03-03T09:48:37+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/india/entry-requirements",
+            "file": "unitedkingdom/India/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/india/safety-and-security",
+            "file": "unitedkingdom/India/Safety and security.md"
+        },
+        {
+            "title": "Regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/india/regional-risks",
+            "file": "unitedkingdom/India/Regional risks.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/india/health",
+            "file": "unitedkingdom/India/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/india/getting-help",
+            "file": "unitedkingdom/India/Getting help.md"
+        }
+    ],
+    "update_date": "2025-03-03T09:48:37+00:00"
+}

@@ -3,27 +3,30 @@ from time import sleep
 import requests
 from bs4 import BeautifulSoup
 import json
-from datetime import datetime
+import csv
+from datetime import datetime, timezone
 from markdownify import markdownify as md
 
 BASE_URL = "https://www.gov.uk"
 URL = "https://www.gov.uk/foreign-travel-advice"
 
 OUTPUT_JSON = "unitedkingdom_summary.json"
+OUTPUT_CSV = "unitedkingdom_summary.csv"
 
 DETAILS_PARSING_DELAY = 0.5
+
 
 def fetch_page(url):
     response = requests.get(url)
     response.raise_for_status()
     return response.text
 
+
 def parse_country_links(html):
     soup = BeautifulSoup(html, "html.parser")
     links = soup.select("a.govuk-link.countries-list__link")
     countries = [{"name": link.text.strip(), "url": BASE_URL + link["href"]} for link in links]
     return countries
-
 
 def parse_json_ld(soup):
     # Find all script tags with type application/ld+json
@@ -36,13 +39,13 @@ def parse_json_ld(soup):
 
             try:
                 if date_published:
-                    date_published = datetime.fromisoformat(date_published).isoformat()
+                    date_published = datetime.fromisoformat(date_published)
             except ValueError:
                 date_published = None
 
             try:
                 if date_modified:
-                    date_modified = datetime.fromisoformat(date_modified).isoformat()
+                    date_modified = datetime.fromisoformat(date_modified)
             except ValueError:
                 date_modified = None
 
@@ -71,37 +74,41 @@ def parse_country_details(html, country_name, since):
 
     date_published, date_modified = parse_json_ld(soup)
 
-    # Extract the last update date and reason
-    update_date = metadata.get("Updated", None)
-    update_reason = metadata.get("Latest update", None)
+    last_modified = None
+    if date_modified:
+        last_modified = date_modified
+    else:
+        update_date = metadata.get("Updated", None)
+        update_reason = metadata.get("Latest update", None)
 
-    # Parse the update date
-    if update_date:
-        try:
-            if date_modified:
-                update_date = date_modified
-            else:
-                update_date = datetime.strptime(update_date, "%d %B %Y").isoformat()
-        except ValueError:
-            update_date = None
+        if update_date:
+            try:
+                last_modified = datetime.strptime(update_date, "%d %B %Y")
+            except ValueError:
+                pass
+    # print("Last modified")
+    # print(last_modified)
 
-    if since and update_date and update_date < since:
-        print(f"Skipping {name} as it has not been updated since {since}")
-        return
+    # print("since")
+    # print(since)
+
+    if since and last_modified and last_modified < since:
+        print(f"Skipping {name} as it has not been updated")
+        return name, last_modified
 
     # Extract warnings and save them
     warnings_file = save_warnings_section(soup, country_name)
+    print(f"Processed page unitedkingdom/{country_name}/Warnings and insurance.md")
 
     # Extract other pages' links and save them
     other_pages = parse_and_save_other_pages(soup, country_name)
 
-    # Group warnings and other pages into a single 'pages' section
     pages = []
     if warnings_file:
         pages.append({
             "title": "Warnings and insurance",
             "file": warnings_file,
-            "update_date": update_date
+            "update_date": last_modified.isoformat() if last_modified else None
         })
     for page in other_pages:
         pages.append(page)
@@ -110,7 +117,7 @@ def parse_country_details(html, country_name, since):
         "name": name,
         "update_reason": update_reason,
         "pages": pages,
-        "update_date": update_date
+        "update_date": last_modified.isoformat() if last_modified else None
     }
 
     os.makedirs(f"unitedkingdom/{name}", exist_ok=True)
@@ -119,6 +126,7 @@ def parse_country_details(html, country_name, since):
 
     print(f"Processed {name}")
 
+    return name, update_date
 
 def save_warnings_section(soup, country_name):
     # Remove the "Get travel advice updates" section and all its following siblings if it exists
@@ -166,7 +174,7 @@ def extract_content(page_soup):
             cookie_banner.extract()
 
         page_contents = page_soup.find_all("div", {"class": "govuk-grid-column-two-thirds"})
-    
+
         # Iterate through the page contents to find the second <h1>
         page_content = None
         h1_count = 0
@@ -211,43 +219,59 @@ def fetch_and_save_page(url, file_path):
     try:
         _, date_modified = parse_json_ld(page_soup)
     except Exception as e:
-        date_modified = None
+        print(f"Failed to fetch page at {url}: {e}")
     return date_modified
 
 
 def save_to_json(data, filename):
-
     with open(filename, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=4)
 
+def save_to_csv(data, filename):
+    with open(filename, "w", newline="", encoding="utf-8") as csvfile:
+        fieldnames = ["destination", "last_updated", "details_url"]
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+
+        writer.writeheader()
+        for row in data:
+            writer.writerow(row)
 
 def run_all_countries(since: datetime=None):
     html = fetch_page(URL)
     countries = parse_country_links(html)
 
+    summary_data = []
+
     for country in countries:
         print("Fetching", country["name"])
         try:
             html = fetch_page(country["url"])
-            parse_country_details(html, country["name"], since)
+            name, last_modified = parse_country_details(html, country["name"], since)
+            summary_data.append({
+                "destination": name,
+                "last_updated": last_modified.isoformat(),
+                "details_url": country["url"]
+            })
         except ValueError as e:
             print("Failed to fetch", country["name"], e)
         sleep(DETAILS_PARSING_DELAY)
 
+    save_to_json(summary_data, OUTPUT_JSON)
+    save_to_csv(summary_data, OUTPUT_CSV)
 
 def main():
-    start_time = datetime.now()
+    start_time = datetime.now(timezone.utc)
     # Now fetch the details that have changed
     if os.path.exists("unitedkingdom/last_run.txt"):
         with open("unitedkingdom/last_run.txt", "r", encoding="utf-8") as f:
-            last_run = datetime.strptime(f.read().strip(), "%Y-%m-%dT%H:%M:%S")
+            last_run = datetime.fromisoformat(f.read().strip())
     else:
         last_run = None
+
     run_all_countries(last_run)
 
     with open("unitedkingdom/last_run.txt", "w", encoding="utf-8") as f:
-        f.write(start_time.strftime("%Y-%m-%dT%H:%M:%S"))
-
+        f.write(start_time.isoformat())
 
 if __name__ == "__main__":
     main()

@@ -1,0 +1,37 @@
+{
+    "name": "Venezuela",
+    "update_reason": "Removal of outdated information on presidential inauguration period, land border reopening and resumption of flights with Colombia (\u2018Warnings and insurance\u2019 and \u2018Safety and security\u2019 pages).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Venezuela/Warnings and insurance.md",
+            "update_date": "2025-01-21T16:20:07+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/venezuela/entry-requirements",
+            "file": "unitedkingdom/Venezuela/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/venezuela/safety-and-security",
+            "file": "unitedkingdom/Venezuela/Safety and security.md"
+        },
+        {
+            "title": "Regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/venezuela/regional-risks",
+            "file": "unitedkingdom/Venezuela/Regional risks.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/venezuela/health",
+            "file": "unitedkingdom/Venezuela/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/venezuela/getting-help",
+            "file": "unitedkingdom/Venezuela/Getting help.md"
+        }
+    ],
+    "update_date": "2025-01-21T16:20:07+00:00"
+}

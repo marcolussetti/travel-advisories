@@ -1,0 +1,32 @@
+{
+    "name": "Cook Islands, Tokelau and Niue",
+    "update_reason": "This travel advice has been rewritten to make it easier to read and understand.",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Cook Islands, Tokelau and Niue/Warnings and insurance.md",
+            "update_date": "2024-03-12T11:24:01+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/cook-islands-tokelau-and-niue/entry-requirements",
+            "file": "unitedkingdom/Cook Islands, Tokelau and Niue/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/cook-islands-tokelau-and-niue/safety-and-security",
+            "file": "unitedkingdom/Cook Islands, Tokelau and Niue/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/cook-islands-tokelau-and-niue/health",
+            "file": "unitedkingdom/Cook Islands, Tokelau and Niue/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/cook-islands-tokelau-and-niue/getting-help",
+            "file": "unitedkingdom/Cook Islands, Tokelau and Niue/Getting help.md"
+        }
+    ],
+    "update_date": "2024-03-12T11:24:01+00:00"
+}

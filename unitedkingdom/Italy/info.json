@@ -1,0 +1,32 @@
+{
+    "name": "Italy",
+    "update_reason": "Update to information on expected rollout of the EU Entry/Exit System (EES) (\u2018Entry requirements\u2019 page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Italy/Warnings and insurance.md",
+            "update_date": "2025-03-17T14:23:43+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/italy/entry-requirements",
+            "file": "unitedkingdom/Italy/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/italy/safety-and-security",
+            "file": "unitedkingdom/Italy/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/italy/health",
+            "file": "unitedkingdom/Italy/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/italy/getting-help",
+            "file": "unitedkingdom/Italy/Getting help.md"
+        }
+    ],
+    "update_date": "2025-03-17T14:23:43+00:00"
+}

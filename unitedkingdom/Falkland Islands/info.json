@@ -1,0 +1,32 @@
+{
+    "name": "Falkland Islands",
+    "update_reason": "Updated information about unexploded weapons, money, air travel and healthcare ('Safety and security' and 'Health' pages).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Falkland Islands/Warnings and insurance.md",
+            "update_date": "2025-03-04T14:33:09+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/falkland-islands/entry-requirements",
+            "file": "unitedkingdom/Falkland Islands/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/falkland-islands/safety-and-security",
+            "file": "unitedkingdom/Falkland Islands/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/falkland-islands/health",
+            "file": "unitedkingdom/Falkland Islands/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/falkland-islands/getting-help",
+            "file": "unitedkingdom/Falkland Islands/Getting help.md"
+        }
+    ],
+    "update_date": "2025-03-04T14:33:09+00:00"
+}

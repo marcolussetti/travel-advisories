@@ -1,0 +1,32 @@
+{
+    "name": "Slovenia",
+    "update_reason": "Update to information on expected rollout of the EU Entry/Exit System (EES) (\u2018Entry requirements\u2019 page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Slovenia/Warnings and insurance.md",
+            "update_date": "2025-03-17T14:24:20+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/slovenia/entry-requirements",
+            "file": "unitedkingdom/Slovenia/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/slovenia/safety-and-security",
+            "file": "unitedkingdom/Slovenia/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/slovenia/health",
+            "file": "unitedkingdom/Slovenia/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/slovenia/getting-help",
+            "file": "unitedkingdom/Slovenia/Getting help.md"
+        }
+    ],
+    "update_date": "2025-03-17T14:24:20+00:00"
+}

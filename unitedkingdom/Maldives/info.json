@@ -1,0 +1,32 @@
+{
+    "name": "Maldives",
+    "update_reason": "Updated information about traveller declaration form ('Entry requirements' page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Maldives/Warnings and insurance.md",
+            "update_date": "2024-11-20T11:34:47+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/maldives/entry-requirements",
+            "file": "unitedkingdom/Maldives/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/maldives/safety-and-security",
+            "file": "unitedkingdom/Maldives/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/maldives/health",
+            "file": "unitedkingdom/Maldives/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/maldives/getting-help",
+            "file": "unitedkingdom/Maldives/Getting help.md"
+        }
+    ],
+    "update_date": "2024-11-20T11:34:47+00:00"
+}
