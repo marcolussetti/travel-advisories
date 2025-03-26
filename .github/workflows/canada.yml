@@ -3,6 +3,7 @@
     on:
       schedule:
         - cron: "2 7 * * *"
+      workflow_dispatch:      # allows manual triggering
     
     jobs:
       scheduled:
