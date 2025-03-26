@@ -88,28 +88,35 @@ def parse_country_details(html, country_name):
     # Extract warnings and save them
     warnings_file = save_warnings_section(soup, country_name)
 
-    # warnings_file = f"unitedkingdom/{country_name}/Warnings and insurance.md"
-    # fetch_and_save_page(f"{BASE_URL}/foreign-travel-advice/{country_name}/staying-secure/warnings-and-insurance", warnings_file)
-
     # Extract other pages' links and save them
     other_pages = parse_and_save_other_pages(soup, country_name)
 
+    # Group warnings and other pages into a single 'pages' section
+    pages = []
+    if warnings_file:
+        pages.append({
+            "title": "Warnings and insurance",
+            "file": warnings_file,
+            "update_date": update_date
+        })
+    for page in other_pages:
+        pages.append(page)
+
     info = {
         "name": name,
-        "update_date": update_date,
         "update_reason": update_reason,
-        "warnings": warnings_file,
-        "other_pages": other_pages
+        "pages": pages,
+        "update_date": update_date
     }
 
     os.makedirs(f"unitedkingdom/{name}", exist_ok=True)
     with open(f"unitedkingdom/{name}/info.json", "w", encoding="utf-8") as f:
         json.dump(info, f, indent=4)
 
+    print(f"Processed page for {name}")
+
 
 def save_warnings_section(soup, country_name):
-    # warnings_section = soup.select(".gem-c-govspeak")[-1]
-
     # Remove the "Get travel advice updates" section and all its following siblings if it exists
     updates_section = soup.find("h2", {"id": "get-travel-advice-updates"})
     if updates_section:
@@ -135,11 +142,14 @@ def parse_and_save_other_pages(soup, country_name):
                 other_pages.append({
                     "title": page_title,
                     "url": page_url,
-                    "file": page_file
+                    "file": page_file,
+                    # "update_date": None  # Always seems the same :)
                 })
 
                 # Fetch and save the page content
-                fetch_and_save_page(page_url, page_file)
+                date_modified = fetch_and_save_page(page_url, page_file)
+
+                # other_pages[-1]["update_date"] = date_modified
 
     return other_pages
 
@@ -164,12 +174,10 @@ def extract_content(page_soup):
                     page_content = content
                     break
 
-        print(page_content)
         return page_content
     except Exception as e:
         print(f"Failed to extract content: {e}")
         return None
-
 
 
 def save_page_from_soup(soup, file_path):
@@ -192,12 +200,19 @@ def fetch_and_save_page(url, file_path):
         page_soup = BeautifulSoup(page_html, "html.parser")
 
         save_page_from_soup(page_soup, file_path)
+        print(f"Processed page {file_path}")
     except Exception as e:
         print(f"Failed to fetch page at {url}: {e}")
-    sleep(DETAILS_PARSING_DELAY)
+
+    try:
+        _, date_modified = parse_json_ld(page_soup)
+    except Exception as e:
+        date_modified = None
+    return date_modified
 
 
 def save_to_json(data, filename):
+
     with open(filename, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=4)
 
