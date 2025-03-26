@@ -34,17 +34,12 @@ def parse_country_links(html):
 
 
 def sanitize_path_element(path_element):
-    """
-    Sanitizes a string for use in a file path by replacing specific invalid characters.
-    More of a blacklist, replaces only \, /, :, *, ?, ", <, >, and |
-    """
     # Define the characters to replace
     invalid_chars = r"[\\/:*?\"<>|]"
 
     # Replace the invalid characters with an underscore
     sanitized = re.sub(invalid_chars, "_", path_element)
     return sanitized.strip()  # Remove leading/trailing whitespace
-
 
 
 def parse_country_details(html, country_name, since):
@@ -129,7 +124,7 @@ def save_advice_sections(soup, country_name):
             f.write(markdown_content)
 
         sections_files[title] = filename
-        print(f"Processed ireland/{country_name}/{title}.md")
+        print(f"Processed ireland/{sanitized_country_name}/{title}.md")
 
     return sections_files
 

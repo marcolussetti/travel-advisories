@@ -6,6 +6,7 @@ import json
 import csv
 from datetime import datetime, timezone
 from markdownify import markdownify as md
+import re
 
 BASE_URL = "https://www.gov.uk"
 URL = "https://www.gov.uk/foreign-travel-advice"
@@ -20,6 +21,15 @@ def fetch_page(url):
     response = requests.get(url)
     response.raise_for_status()
     return response.text
+
+
+def sanitize_path_element(path_element):
+    # Define the characters to replace
+    invalid_chars = r"[\\/:*?\"<>|]"
+
+    # Replace the invalid characters with an underscore
+    sanitized = re.sub(invalid_chars, "_", path_element)
+    return sanitized.strip()  # Remove leading/trailing whitespace
 
 
 def parse_country_links(html):
@@ -53,6 +63,7 @@ def parse_json_ld(soup):
     return None, None
 
 def parse_country_details(html, country_name, since):
+    sanitized_country_name = sanitize_path_element(country_name)
     soup = BeautifulSoup(html, "html.parser")
 
     # Remove the cookie banner section
@@ -97,11 +108,11 @@ def parse_country_details(html, country_name, since):
         return name, last_modified
 
     # Extract warnings and save them
-    warnings_file = save_warnings_section(soup, country_name)
-    print(f"Processed page unitedkingdom/{country_name}/Warnings and insurance.md")
+    warnings_file = save_warnings_section(soup, sanitized_country_name)
+    print(f"Processed page unitedkingdom/{sanitized_country_name}/Warnings and insurance.md")
 
     # Extract other pages' links and save them
-    other_pages = parse_and_save_other_pages(soup, country_name)
+    other_pages = parse_and_save_other_pages(soup, sanitized_country_name)
 
     pages = []
     if warnings_file:
@@ -120,8 +131,8 @@ def parse_country_details(html, country_name, since):
         "update_date": last_modified.isoformat() if last_modified else None
     }
 
-    os.makedirs(f"unitedkingdom/{name}", exist_ok=True)
-    with open(f"unitedkingdom/{name}/info.json", "w", encoding="utf-8") as f:
+    os.makedirs(f"unitedkingdom/{sanitized_country_name}", exist_ok=True)
+    with open(f"unitedkingdom/{sanitized_country_name}/info.json", "w", encoding="utf-8") as f:
         json.dump(info, f, indent=4)
 
     print(f"Processed {name}")
@@ -149,8 +160,9 @@ def parse_and_save_other_pages(soup, country_name):
             link = li.find("a")
             if link and ("email alerts" not in link.text.strip().lower()):  # Skip "Get email alerts" pages
                 page_title = link.text.strip()
+                page_title_sanitized = sanitize_path_element(page_title)
                 page_url = BASE_URL + link["href"]
-                page_file = f"unitedkingdom/{country_name}/{page_title}.md"
+                page_file = f"unitedkingdom/{country_name}/{page_title_sanitized}.md"
                 other_pages.append({
                     "title": page_title,
                     "url": page_url,
