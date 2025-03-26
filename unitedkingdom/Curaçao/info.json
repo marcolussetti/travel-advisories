@@ -1,0 +1,32 @@
+{
+    "name": "Cura\u00e7ao",
+    "update_reason": "This travel advice has been reviewed for accuracy. There were no significant updates.",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Cura\u00e7ao/Warnings and insurance.md",
+            "update_date": "2024-12-17T11:57:49+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/curacao/entry-requirements",
+            "file": "unitedkingdom/Cura\u00e7ao/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/curacao/safety-and-security",
+            "file": "unitedkingdom/Cura\u00e7ao/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/curacao/health",
+            "file": "unitedkingdom/Cura\u00e7ao/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/curacao/getting-help",
+            "file": "unitedkingdom/Cura\u00e7ao/Getting help.md"
+        }
+    ],
+    "update_date": "2024-12-17T11:57:49+00:00"
+}

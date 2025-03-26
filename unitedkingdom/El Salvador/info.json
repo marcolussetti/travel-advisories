@@ -1,0 +1,32 @@
+{
+    "name": "El Salvador",
+    "update_reason": "Removal of State of Emergency information ('Warnings and insurance' page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/El Salvador/Warnings and insurance.md",
+            "update_date": "2024-08-15T13:40:30+01:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/el-salvador/entry-requirements",
+            "file": "unitedkingdom/El Salvador/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/el-salvador/safety-and-security",
+            "file": "unitedkingdom/El Salvador/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/el-salvador/health",
+            "file": "unitedkingdom/El Salvador/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/el-salvador/getting-help",
+            "file": "unitedkingdom/El Salvador/Getting help.md"
+        }
+    ],
+    "update_date": "2024-08-15T13:40:30+01:00"
+}

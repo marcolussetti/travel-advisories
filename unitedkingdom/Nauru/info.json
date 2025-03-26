@@ -1,0 +1,32 @@
+{
+    "name": "Nauru",
+    "update_reason": "This travel advice has been rewritten to make it easier to read and understand.",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Nauru/Warnings and insurance.md",
+            "update_date": "2024-04-22T10:54:01+01:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/nauru/entry-requirements",
+            "file": "unitedkingdom/Nauru/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/nauru/safety-and-security",
+            "file": "unitedkingdom/Nauru/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/nauru/health",
+            "file": "unitedkingdom/Nauru/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/nauru/getting-help",
+            "file": "unitedkingdom/Nauru/Getting help.md"
+        }
+    ],
+    "update_date": "2024-04-22T10:54:01+01:00"
+}

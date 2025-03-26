@@ -1,0 +1,37 @@
+{
+    "name": "Ukraine",
+    "update_reason": "Updated information on the specific limitations to in-country assistance to British nationals fighting in Ukraine and the extension of visa free entry for British nationals until 30 January 2026 ('Warnings and insurance' and 'Entry requirements' pages).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Ukraine/Warnings and insurance.md",
+            "update_date": "2025-01-15T16:54:17+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/ukraine/entry-requirements",
+            "file": "unitedkingdom/Ukraine/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/ukraine/safety-and-security",
+            "file": "unitedkingdom/Ukraine/Safety and security.md"
+        },
+        {
+            "title": "Regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/ukraine/regional-risks",
+            "file": "unitedkingdom/Ukraine/Regional risks.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/ukraine/health",
+            "file": "unitedkingdom/Ukraine/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/ukraine/getting-help",
+            "file": "unitedkingdom/Ukraine/Getting help.md"
+        }
+    ],
+    "update_date": "2025-01-15T16:54:17+00:00"
+}

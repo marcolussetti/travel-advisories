@@ -1,0 +1,37 @@
+{
+    "name": "Jordan",
+    "update_reason": "New information about the possibility of trade union strikes closing the Israeli side of the land border crossing (\u2018Entry requirements\u2019 page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Jordan/Warnings and insurance.md",
+            "update_date": "2025-03-07T09:49:28+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/jordan/entry-requirements",
+            "file": "unitedkingdom/Jordan/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/jordan/safety-and-security",
+            "file": "unitedkingdom/Jordan/Safety and security.md"
+        },
+        {
+            "title": "Regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/jordan/regional-risks",
+            "file": "unitedkingdom/Jordan/Regional risks.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/jordan/health",
+            "file": "unitedkingdom/Jordan/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/jordan/getting-help",
+            "file": "unitedkingdom/Jordan/Getting help.md"
+        }
+    ],
+    "update_date": "2025-03-07T09:49:28+00:00"
+}

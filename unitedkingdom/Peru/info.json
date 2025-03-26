@@ -1,0 +1,37 @@
+{
+    "name": "Peru",
+    "update_reason": "Information on State of Emergency declared in Lima and Callao regions ( 'Warnings and insurance' page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Peru/Warnings and insurance.md",
+            "update_date": "2025-03-20T11:48:40+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/peru/entry-requirements",
+            "file": "unitedkingdom/Peru/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/peru/safety-and-security",
+            "file": "unitedkingdom/Peru/Safety and security.md"
+        },
+        {
+            "title": "Regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/peru/regional-risks",
+            "file": "unitedkingdom/Peru/Regional risks.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/peru/health",
+            "file": "unitedkingdom/Peru/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/peru/getting-help",
+            "file": "unitedkingdom/Peru/Getting help.md"
+        }
+    ],
+    "update_date": "2025-03-20T11:48:40+00:00"
+}

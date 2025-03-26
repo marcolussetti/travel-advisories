@@ -1,0 +1,32 @@
+{
+    "name": "Botswana",
+    "update_reason": "Removal of information about weather conditions in Botswana ('Warnings and insurance' page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Botswana/Warnings and insurance.md",
+            "update_date": "2025-02-28T10:35:52+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/botswana/entry-requirements",
+            "file": "unitedkingdom/Botswana/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/botswana/safety-and-security",
+            "file": "unitedkingdom/Botswana/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/botswana/health",
+            "file": "unitedkingdom/Botswana/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/botswana/getting-help",
+            "file": "unitedkingdom/Botswana/Getting help.md"
+        }
+    ],
+    "update_date": "2025-02-28T10:35:52+00:00"
+}

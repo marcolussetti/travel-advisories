@@ -1,0 +1,32 @@
+{
+    "name": "Russia",
+    "update_reason": "Updated information for foreign nationals who have overstayed their visa ('Entry requirements\u2019 page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Russia/Warnings and insurance.md",
+            "update_date": "2025-02-12T13:44:31+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/russia/entry-requirements",
+            "file": "unitedkingdom/Russia/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/russia/safety-and-security",
+            "file": "unitedkingdom/Russia/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/russia/health",
+            "file": "unitedkingdom/Russia/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/russia/getting-help",
+            "file": "unitedkingdom/Russia/Getting help.md"
+        }
+    ],
+    "update_date": "2025-02-12T13:44:31+00:00"
+}

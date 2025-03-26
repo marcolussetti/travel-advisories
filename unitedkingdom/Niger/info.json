@@ -1,0 +1,37 @@
+{
+    "name": "Niger",
+    "update_reason": "Updated information to make advice clearer (See 'Areas where the FCDO advises against travel' and 'Limited UK government support' on the 'Warnings and insurance' page. See 'Road safety' on the 'Safety and security' page. See 'Regional risks' page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Niger/Warnings and insurance.md",
+            "update_date": "2025-02-24T15:55:26+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/niger/entry-requirements",
+            "file": "unitedkingdom/Niger/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/niger/safety-and-security",
+            "file": "unitedkingdom/Niger/Safety and security.md"
+        },
+        {
+            "title": "Regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/niger/regional-risks",
+            "file": "unitedkingdom/Niger/Regional risks.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/niger/health",
+            "file": "unitedkingdom/Niger/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/niger/getting-help",
+            "file": "unitedkingdom/Niger/Getting help.md"
+        }
+    ],
+    "update_date": "2025-02-24T15:55:26+00:00"
+}

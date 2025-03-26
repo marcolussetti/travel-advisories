@@ -1,0 +1,37 @@
+{
+    "name": "Pakistan",
+    "update_reason": "Removal of information on Pakistan National Day (\u2018Warnings and insurance\u2019 page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Pakistan/Warnings and insurance.md",
+            "update_date": "2025-03-25T14:58:23+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/pakistan/entry-requirements",
+            "file": "unitedkingdom/Pakistan/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/pakistan/safety-and-security",
+            "file": "unitedkingdom/Pakistan/Safety and security.md"
+        },
+        {
+            "title": "Regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/pakistan/regional-risks",
+            "file": "unitedkingdom/Pakistan/Regional risks.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/pakistan/health",
+            "file": "unitedkingdom/Pakistan/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/pakistan/getting-help",
+            "file": "unitedkingdom/Pakistan/Getting help.md"
+        }
+    ],
+    "update_date": "2025-03-25T14:58:23+00:00"
+}

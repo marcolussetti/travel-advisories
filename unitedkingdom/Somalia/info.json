@@ -1,0 +1,37 @@
+{
+    "name": "Somalia",
+    "update_reason": "New Information on recent terrorist attacks ('Safety and security' page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Somalia/Warnings and insurance.md",
+            "update_date": "2025-03-19T17:10:51+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/somalia/entry-requirements",
+            "file": "unitedkingdom/Somalia/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/somalia/safety-and-security",
+            "file": "unitedkingdom/Somalia/Safety and security.md"
+        },
+        {
+            "title": "Regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/somalia/regional-risks",
+            "file": "unitedkingdom/Somalia/Regional risks.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/somalia/health",
+            "file": "unitedkingdom/Somalia/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/somalia/getting-help",
+            "file": "unitedkingdom/Somalia/Getting help.md"
+        }
+    ],
+    "update_date": "2025-03-19T17:10:51+00:00"
+}

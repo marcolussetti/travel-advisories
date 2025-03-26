@@ -1,0 +1,32 @@
+{
+    "name": "Guinea-Bissau",
+    "update_reason": "This travel advice has been rewritten to make it easier to read and understand.",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Guinea-Bissau/Warnings and insurance.md",
+            "update_date": "2024-04-10T09:59:54+01:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/guinea-bissau/entry-requirements",
+            "file": "unitedkingdom/Guinea-Bissau/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/guinea-bissau/safety-and-security",
+            "file": "unitedkingdom/Guinea-Bissau/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/guinea-bissau/health",
+            "file": "unitedkingdom/Guinea-Bissau/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/guinea-bissau/getting-help",
+            "file": "unitedkingdom/Guinea-Bissau/Getting help.md"
+        }
+    ],
+    "update_date": "2024-04-10T09:59:54+01:00"
+}

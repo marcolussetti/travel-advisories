@@ -1,0 +1,32 @@
+{
+    "name": "Dominica",
+    "update_reason": "New information regarding demonstrations ('Safety and security' page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Dominica/Warnings and insurance.md",
+            "update_date": "2025-03-20T10:41:14+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/dominica/entry-requirements",
+            "file": "unitedkingdom/Dominica/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/dominica/safety-and-security",
+            "file": "unitedkingdom/Dominica/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/dominica/health",
+            "file": "unitedkingdom/Dominica/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/dominica/getting-help",
+            "file": "unitedkingdom/Dominica/Getting help.md"
+        }
+    ],
+    "update_date": "2025-03-20T10:41:14+00:00"
+}

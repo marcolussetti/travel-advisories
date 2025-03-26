@@ -1,0 +1,37 @@
+{
+    "name": "Cameroon",
+    "update_reason": "Updated information about what health risks you'll face in Cameroon ('Health' page)",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Cameroon/Warnings and insurance.md",
+            "update_date": "2024-11-21T14:18:58+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/cameroon/entry-requirements",
+            "file": "unitedkingdom/Cameroon/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/cameroon/safety-and-security",
+            "file": "unitedkingdom/Cameroon/Safety and security.md"
+        },
+        {
+            "title": "Regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/cameroon/regional-risks",
+            "file": "unitedkingdom/Cameroon/Regional risks.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/cameroon/health",
+            "file": "unitedkingdom/Cameroon/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/cameroon/getting-help",
+            "file": "unitedkingdom/Cameroon/Getting help.md"
+        }
+    ],
+    "update_date": "2024-11-21T14:18:58+00:00"
+}

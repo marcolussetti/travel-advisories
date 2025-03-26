@@ -1,0 +1,32 @@
+{
+    "name": "St Martin and St Barth\u00e9lemy",
+    "update_reason": "This travel advice was reviewed for style and accuracy.",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/St Martin and St Barth\u00e9lemy/Warnings and insurance.md",
+            "update_date": "2024-09-17T14:00:23+01:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/st-martin-and-st-barthelemy/entry-requirements",
+            "file": "unitedkingdom/St Martin and St Barth\u00e9lemy/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/st-martin-and-st-barthelemy/safety-and-security",
+            "file": "unitedkingdom/St Martin and St Barth\u00e9lemy/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/st-martin-and-st-barthelemy/health",
+            "file": "unitedkingdom/St Martin and St Barth\u00e9lemy/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/st-martin-and-st-barthelemy/getting-help",
+            "file": "unitedkingdom/St Martin and St Barth\u00e9lemy/Getting help.md"
+        }
+    ],
+    "update_date": "2024-09-17T14:00:23+01:00"
+}

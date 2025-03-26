@@ -1,0 +1,32 @@
+{
+    "name": "St Pierre & Miquelon",
+    "update_reason": "This travel advice has been rewritten to make it easier to read and understand.",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/St Pierre & Miquelon/Warnings and insurance.md",
+            "update_date": "2024-04-18T16:04:22+01:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/st-pierre-and-miquelon/entry-requirements",
+            "file": "unitedkingdom/St Pierre & Miquelon/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/st-pierre-and-miquelon/safety-and-security",
+            "file": "unitedkingdom/St Pierre & Miquelon/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/st-pierre-and-miquelon/health",
+            "file": "unitedkingdom/St Pierre & Miquelon/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/st-pierre-and-miquelon/getting-help",
+            "file": "unitedkingdom/St Pierre & Miquelon/Getting help.md"
+        }
+    ],
+    "update_date": "2024-04-18T16:04:22+01:00"
+}

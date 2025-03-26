@@ -1,0 +1,32 @@
+{
+    "name": "Malta",
+    "update_reason": "Update to information on expected rollout of the EU Entry/Exit System (EES) (\u2018Entry requirements\u2019 page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Malta/Warnings and insurance.md",
+            "update_date": "2025-03-17T14:25:55+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/malta/entry-requirements",
+            "file": "unitedkingdom/Malta/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/malta/safety-and-security",
+            "file": "unitedkingdom/Malta/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/malta/health",
+            "file": "unitedkingdom/Malta/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/malta/getting-help",
+            "file": "unitedkingdom/Malta/Getting help.md"
+        }
+    ],
+    "update_date": "2025-03-17T14:25:55+00:00"
+}

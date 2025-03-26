@@ -1,0 +1,37 @@
+{
+    "name": "Djibouti",
+    "update_reason": "Updated assessment that terrorists are likely to try to carry out attacks in Djibouti (\u2018Safety and security\u2019 page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Djibouti/Warnings and insurance.md",
+            "update_date": "2024-10-14T11:18:54+01:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/djibouti/entry-requirements",
+            "file": "unitedkingdom/Djibouti/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/djibouti/safety-and-security",
+            "file": "unitedkingdom/Djibouti/Safety and security.md"
+        },
+        {
+            "title": "Regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/djibouti/regional-risks",
+            "file": "unitedkingdom/Djibouti/Regional risks.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/djibouti/health",
+            "file": "unitedkingdom/Djibouti/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/djibouti/getting-help",
+            "file": "unitedkingdom/Djibouti/Getting help.md"
+        }
+    ],
+    "update_date": "2024-10-14T11:18:54+01:00"
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Zambia",
+    "update_reason": "Updated information about health risks you may face in Zambia ('Health' page)",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Zambia/Warnings and insurance.md",
+            "update_date": "2024-11-14T13:32:51+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/zambia/entry-requirements",
+            "file": "unitedkingdom/Zambia/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/zambia/safety-and-security",
+            "file": "unitedkingdom/Zambia/Safety and security.md"
+        },
+        {
+            "title": "Regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/zambia/regional-risks",
+            "file": "unitedkingdom/Zambia/Regional risks.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/zambia/health",
+            "file": "unitedkingdom/Zambia/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/zambia/getting-help",
+            "file": "unitedkingdom/Zambia/Getting help.md"
+        }
+    ],
+    "update_date": "2024-11-14T13:32:51+00:00"
+}

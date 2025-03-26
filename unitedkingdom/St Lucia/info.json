@@ -1,0 +1,32 @@
+{
+    "name": "St Lucia",
+    "update_reason": "This travel advice was reviewed for accuracy and reissued without significant updates.",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/St Lucia/Warnings and insurance.md",
+            "update_date": "2025-01-09T10:04:02+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/st-lucia/entry-requirements",
+            "file": "unitedkingdom/St Lucia/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/st-lucia/safety-and-security",
+            "file": "unitedkingdom/St Lucia/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/st-lucia/health",
+            "file": "unitedkingdom/St Lucia/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/st-lucia/getting-help",
+            "file": "unitedkingdom/St Lucia/Getting help.md"
+        }
+    ],
+    "update_date": "2025-01-09T10:04:02+00:00"
+}

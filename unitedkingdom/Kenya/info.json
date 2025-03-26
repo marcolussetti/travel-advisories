@@ -1,0 +1,37 @@
+{
+    "name": "Kenya",
+    "update_reason": "Removal of information about a US alert on increased caution in Kenya and about disruptions due to ongoing strike action  ('Warnings and insurance' page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Kenya/Warnings and insurance.md",
+            "update_date": "2024-11-04T12:48:11+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/kenya/entry-requirements",
+            "file": "unitedkingdom/Kenya/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/kenya/safety-and-security",
+            "file": "unitedkingdom/Kenya/Safety and security.md"
+        },
+        {
+            "title": "Regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/kenya/regional-risks",
+            "file": "unitedkingdom/Kenya/Regional risks.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/kenya/health",
+            "file": "unitedkingdom/Kenya/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/kenya/getting-help",
+            "file": "unitedkingdom/Kenya/Getting help.md"
+        }
+    ],
+    "update_date": "2024-11-04T12:48:11+00:00"
+}

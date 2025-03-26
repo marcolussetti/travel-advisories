@@ -1,0 +1,32 @@
+{
+    "name": "St Vincent and the Grenadines",
+    "update_reason": "This travel advice was reviewed for accuracy and reissued with information on the continued effects from Hurricane Beryl from July 2024 (\u2018Safety and security\u2019 page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/St Vincent and the Grenadines/Warnings and insurance.md",
+            "update_date": "2025-01-08T14:38:07+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/st-vincent-and-the-grenadines/entry-requirements",
+            "file": "unitedkingdom/St Vincent and the Grenadines/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/st-vincent-and-the-grenadines/Safety-and-security",
+            "file": "unitedkingdom/St Vincent and the Grenadines/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/st-vincent-and-the-grenadines/health",
+            "file": "unitedkingdom/St Vincent and the Grenadines/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/st-vincent-and-the-grenadines/getting-help",
+            "file": "unitedkingdom/St Vincent and the Grenadines/Getting help.md"
+        }
+    ],
+    "update_date": "2025-01-08T14:38:07+00:00"
+}

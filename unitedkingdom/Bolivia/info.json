@@ -1,0 +1,37 @@
+{
+    "name": "Bolivia",
+    "update_reason": "New information on safety standards for bus transportation (see \u2018Buses and taxis\u2019 on the \u2018Safety and security\u2019 page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Bolivia/Warnings and insurance.md",
+            "update_date": "2025-03-11T17:00:27+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/bolivia/entry-requirements",
+            "file": "unitedkingdom/Bolivia/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/bolivia/safety-and-security",
+            "file": "unitedkingdom/Bolivia/Safety and security.md"
+        },
+        {
+            "title": "Regional Risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/bolivia/regional-risks",
+            "file": "unitedkingdom/Bolivia/Regional Risks.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/bolivia/health",
+            "file": "unitedkingdom/Bolivia/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/bolivia/getting-help",
+            "file": "unitedkingdom/Bolivia/Getting help.md"
+        }
+    ],
+    "update_date": "2025-03-11T17:00:27+00:00"
+}

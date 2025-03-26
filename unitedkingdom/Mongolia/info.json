@@ -1,0 +1,32 @@
+{
+    "name": "Mongolia",
+    "update_reason": "This travel advice was reviewed for accuracy and there are no significant updates.",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Mongolia/Warnings and insurance.md",
+            "update_date": "2024-11-14T11:32:08+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/mongolia/entry-requirements",
+            "file": "unitedkingdom/Mongolia/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/mongolia/safety-and-security",
+            "file": "unitedkingdom/Mongolia/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/mongolia/health",
+            "file": "unitedkingdom/Mongolia/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/mongolia/getting-help",
+            "file": "unitedkingdom/Mongolia/Getting help.md"
+        }
+    ],
+    "update_date": "2024-11-14T11:32:08+00:00"
+}

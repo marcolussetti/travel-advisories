@@ -1,0 +1,32 @@
+{
+    "name": "French Guiana",
+    "update_reason": "This travel advice has been rewritten to make it easier to read and understand.",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/French Guiana/Warnings and insurance.md",
+            "update_date": "2024-04-18T16:26:03+01:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/french-guiana/entry-requirements",
+            "file": "unitedkingdom/French Guiana/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/french-guiana/safety-and-security",
+            "file": "unitedkingdom/French Guiana/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/french-guiana/health",
+            "file": "unitedkingdom/French Guiana/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/french-guiana/getting-help",
+            "file": "unitedkingdom/French Guiana/Getting help.md"
+        }
+    ],
+    "update_date": "2024-04-18T16:26:03+01:00"
+}

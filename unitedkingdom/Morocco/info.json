@@ -1,0 +1,37 @@
+{
+    "name": "Morocco",
+    "update_reason": "On 26 October Israel carried out military action against Iran ('Safety and security' page)",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Morocco/Warnings and insurance.md",
+            "update_date": "2024-10-26T08:04:53+01:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/morocco/entry-requirements",
+            "file": "unitedkingdom/Morocco/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/morocco/safety-and-security",
+            "file": "unitedkingdom/Morocco/Safety and security.md"
+        },
+        {
+            "title": "Regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/morocco/regional-risks",
+            "file": "unitedkingdom/Morocco/Regional risks.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/morocco/health",
+            "file": "unitedkingdom/Morocco/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/morocco/getting-help",
+            "file": "unitedkingdom/Morocco/Getting help.md"
+        }
+    ],
+    "update_date": "2024-10-26T08:04:53+01:00"
+}

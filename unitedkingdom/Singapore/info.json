@@ -1,0 +1,32 @@
+{
+    "name": "Singapore",
+    "update_reason": "This travel advice was reviewed for style and accuracy.",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Singapore/Warnings and insurance.md",
+            "update_date": "2024-05-17T16:32:39+01:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/singapore/entry-requirements",
+            "file": "unitedkingdom/Singapore/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/singapore/safety-and-security",
+            "file": "unitedkingdom/Singapore/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/singapore/health",
+            "file": "unitedkingdom/Singapore/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/singapore/getting-help",
+            "file": "unitedkingdom/Singapore/Getting help.md"
+        }
+    ],
+    "update_date": "2024-05-17T16:32:39+01:00"
+}

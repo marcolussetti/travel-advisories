@@ -1,0 +1,37 @@
+{
+    "name": "Colombia",
+    "update_reason": "\"FCDO advises against all but essential travel to Norte de Santander Department following declaration of a state of emergency on 24 January and attacks by illegal armed groups in C\u00facuta on 19 February (see \u2018Warnings and insurance\u2019 page).\"",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Colombia/Warnings and insurance.md",
+            "update_date": "2025-02-26T20:20:51+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/colombia/entry-requirements",
+            "file": "unitedkingdom/Colombia/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/colombia/safety-and-security",
+            "file": "unitedkingdom/Colombia/Safety and security.md"
+        },
+        {
+            "title": "Regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/colombia/regional-risks",
+            "file": "unitedkingdom/Colombia/Regional risks.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/colombia/health",
+            "file": "unitedkingdom/Colombia/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/colombia/getting-help",
+            "file": "unitedkingdom/Colombia/Getting help.md"
+        }
+    ],
+    "update_date": "2025-02-26T20:20:51+00:00"
+}

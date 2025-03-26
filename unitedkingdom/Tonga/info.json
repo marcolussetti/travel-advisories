@@ -1,0 +1,32 @@
+{
+    "name": "Tonga",
+    "update_reason": "Updated information about dengue (\u2018Health\u2019 page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Tonga/Warnings and insurance.md",
+            "update_date": "2025-02-25T09:45:09+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/tonga/entry-requirements",
+            "file": "unitedkingdom/Tonga/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/tonga/safety-and-security",
+            "file": "unitedkingdom/Tonga/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/tonga/health",
+            "file": "unitedkingdom/Tonga/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/tonga/getting-help",
+            "file": "unitedkingdom/Tonga/Getting help.md"
+        }
+    ],
+    "update_date": "2025-02-25T09:45:09+00:00"
+}

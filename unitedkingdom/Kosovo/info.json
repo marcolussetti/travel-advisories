@@ -1,0 +1,37 @@
+{
+    "name": "Kosovo",
+    "update_reason": "Clarification on areas that the FCDO already advises against all but essential travel (\u2018Warnings and insurance\u2019, \u2018Safety and security\u2019 and \u2018Regional risks\u2019 pages).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Kosovo/Warnings and insurance.md",
+            "update_date": "2024-08-29T11:27:27+01:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/kosovo/entry-requirements",
+            "file": "unitedkingdom/Kosovo/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/kosovo/safety-and-security",
+            "file": "unitedkingdom/Kosovo/Safety and security.md"
+        },
+        {
+            "title": "Regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/kosovo/regional-risks",
+            "file": "unitedkingdom/Kosovo/Regional risks.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/kosovo/health",
+            "file": "unitedkingdom/Kosovo/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/kosovo/getting-help",
+            "file": "unitedkingdom/Kosovo/Getting help.md"
+        }
+    ],
+    "update_date": "2024-08-29T11:27:27+01:00"
+}

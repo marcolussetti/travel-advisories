@@ -1,0 +1,32 @@
+{
+    "name": "Mauritius",
+    "update_reason": "Removal of information about severe tropical Storm Garance ('Warnings and insurance' page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Mauritius/Warnings and insurance.md",
+            "update_date": "2025-02-28T10:59:15+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/mauritius/entry-requirements",
+            "file": "unitedkingdom/Mauritius/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/mauritius/safety-and-security",
+            "file": "unitedkingdom/Mauritius/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/mauritius/health",
+            "file": "unitedkingdom/Mauritius/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/mauritius/getting-help",
+            "file": "unitedkingdom/Mauritius/Getting help.md"
+        }
+    ],
+    "update_date": "2025-02-28T10:59:15+00:00"
+}

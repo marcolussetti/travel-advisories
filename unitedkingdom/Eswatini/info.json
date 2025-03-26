@@ -1,0 +1,32 @@
+{
+    "name": "Eswatini",
+    "update_reason": "Updated information on possible disruption to travel, including delays or closures at the border at short notice (\u2018Warnings and insurance\u2019 page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Eswatini/Warnings and insurance.md",
+            "update_date": "2025-02-03T15:21:43+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/eswatini/entry-requirements",
+            "file": "unitedkingdom/Eswatini/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/eswatini/safety-and-security",
+            "file": "unitedkingdom/Eswatini/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/eswatini/health",
+            "file": "unitedkingdom/Eswatini/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/eswatini/getting-help",
+            "file": "unitedkingdom/Eswatini/Getting help.md"
+        }
+    ],
+    "update_date": "2025-02-03T15:21:43+00:00"
+}

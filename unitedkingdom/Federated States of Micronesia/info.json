@@ -1,0 +1,32 @@
+{
+    "name": "Federated States of Micronesia",
+    "update_reason": "This travel advice has been rewritten to make it easier to read and understand.",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Federated States of Micronesia/Warnings and insurance.md",
+            "update_date": "2024-03-01T11:24:30+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/federated-states-of-micronesia/entry-requirements",
+            "file": "unitedkingdom/Federated States of Micronesia/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/federated-states-of-micronesia/safety-and-security",
+            "file": "unitedkingdom/Federated States of Micronesia/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/federated-states-of-micronesia/health",
+            "file": "unitedkingdom/Federated States of Micronesia/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/federated-states-of-micronesia/getting-help",
+            "file": "unitedkingdom/Federated States of Micronesia/Getting help.md"
+        }
+    ],
+    "update_date": "2024-03-01T11:24:30+00:00"
+}

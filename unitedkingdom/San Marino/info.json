@@ -1,0 +1,32 @@
+{
+    "name": "San Marino",
+    "update_reason": "This travel advice was reviewed for style and accuracy.",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/San Marino/Warnings and insurance.md",
+            "update_date": "2024-07-01T11:48:17+01:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/san-marino/entry-requirements",
+            "file": "unitedkingdom/San Marino/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/san-marino/safety-and-security",
+            "file": "unitedkingdom/San Marino/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/san-marino/health",
+            "file": "unitedkingdom/San Marino/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/san-marino/getting-help",
+            "file": "unitedkingdom/San Marino/Getting help.md"
+        }
+    ],
+    "update_date": "2024-07-01T11:48:17+01:00"
+}

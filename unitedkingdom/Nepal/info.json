@@ -1,0 +1,32 @@
+{
+    "name": "Nepal",
+    "update_reason": "Information on potential disruption to domestic and international air travel at Kathmandu airport (See \u2018Air travel\u2019 on the \u2018Safety and security' page)",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Nepal/Warnings and insurance.md",
+            "update_date": "2024-10-04T11:25:05+01:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/nepal/entry-requirements",
+            "file": "unitedkingdom/Nepal/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/nepal/safety-and-security",
+            "file": "unitedkingdom/Nepal/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/nepal/health",
+            "file": "unitedkingdom/Nepal/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/nepal/getting-help",
+            "file": "unitedkingdom/Nepal/Getting help.md"
+        }
+    ],
+    "update_date": "2024-10-04T11:25:05+01:00"
+}

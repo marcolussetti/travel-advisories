@@ -1,0 +1,32 @@
+{
+    "name": "Spain",
+    "update_reason": "New information about the mobile app ALERT COPS('Safety and security' page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Spain/Warnings and insurance.md",
+            "update_date": "2025-03-20T16:44:32+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/spain/entry-requirements",
+            "file": "unitedkingdom/Spain/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/spain/safety-and-security",
+            "file": "unitedkingdom/Spain/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/spain/health",
+            "file": "unitedkingdom/Spain/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/spain/getting-help",
+            "file": "unitedkingdom/Spain/Getting help.md"
+        }
+    ],
+    "update_date": "2025-03-20T16:44:32+00:00"
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Portugal",
+    "update_reason": "Update to information on expected rollout of the EU Entry/Exit System (EES) (\u2018Entry requirements\u2019 page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Portugal/Warnings and insurance.md",
+            "update_date": "2025-03-17T14:12:43+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/portugal/entry-requirements",
+            "file": "unitedkingdom/Portugal/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/portugal/safety-and-security",
+            "file": "unitedkingdom/Portugal/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/portugal/health",
+            "file": "unitedkingdom/Portugal/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/portugal/getting-help",
+            "file": "unitedkingdom/Portugal/Getting help.md"
+        }
+    ],
+    "update_date": "2025-03-17T14:12:43+00:00"
+}

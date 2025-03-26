@@ -1,0 +1,32 @@
+{
+    "name": "British Virgin Islands",
+    "update_reason": "New information about mandatory online disembarkation card for all travellers to the BVI(\u2018Entry requirements\u2019 page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/British Virgin Islands/Warnings and insurance.md",
+            "update_date": "2024-12-27T15:38:46+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/british-virgin-islands/entry-requirements",
+            "file": "unitedkingdom/British Virgin Islands/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/british-virgin-islands/safety-and-security",
+            "file": "unitedkingdom/British Virgin Islands/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/british-virgin-islands/health",
+            "file": "unitedkingdom/British Virgin Islands/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/british-virgin-islands/getting-help",
+            "file": "unitedkingdom/British Virgin Islands/Getting help.md"
+        }
+    ],
+    "update_date": "2024-12-27T15:38:46+00:00"
+}

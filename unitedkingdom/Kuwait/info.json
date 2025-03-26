@@ -1,0 +1,32 @@
+{
+    "name": "Kuwait",
+    "update_reason": "Updated information on visa requirements ('Entry requirements' page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Kuwait/Warnings and insurance.md",
+            "update_date": "2025-01-24T16:07:02+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/kuwait/entry-requirements",
+            "file": "unitedkingdom/Kuwait/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/kuwait/safety-and-security",
+            "file": "unitedkingdom/Kuwait/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/kuwait/health",
+            "file": "unitedkingdom/Kuwait/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/kuwait/getting-help",
+            "file": "unitedkingdom/Kuwait/Getting help.md"
+        }
+    ],
+    "update_date": "2025-01-24T16:07:02+00:00"
+}

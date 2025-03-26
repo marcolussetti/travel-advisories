@@ -1,0 +1,32 @@
+{
+    "name": "British Indian Ocean Territory",
+    "update_reason": "This travel advice has been rewritten to make it easier to read and understand.",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/British Indian Ocean Territory/Warnings and insurance.md",
+            "update_date": "2024-04-08T12:56:22+01:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/british-indian-ocean-territory/entry-requirements",
+            "file": "unitedkingdom/British Indian Ocean Territory/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/british-indian-ocean-territory/safety-and-security",
+            "file": "unitedkingdom/British Indian Ocean Territory/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/british-indian-ocean-territory/health",
+            "file": "unitedkingdom/British Indian Ocean Territory/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/british-indian-ocean-territory/getting-help",
+            "file": "unitedkingdom/British Indian Ocean Territory/Getting help.md"
+        }
+    ],
+    "update_date": "2024-04-08T12:56:22+01:00"
+}

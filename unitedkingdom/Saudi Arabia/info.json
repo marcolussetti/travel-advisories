@@ -1,0 +1,42 @@
+{
+    "name": "Saudi Arabia",
+    "update_reason": "Removal of information about Qatif region ('Regional risks' page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Saudi Arabia/Warnings and insurance.md",
+            "update_date": "2025-03-14T15:43:06+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/saudi-arabia/entry-requirements",
+            "file": "unitedkingdom/Saudi Arabia/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/saudi-arabia/safety-and-security",
+            "file": "unitedkingdom/Saudi Arabia/Safety and security.md"
+        },
+        {
+            "title": "Regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/saudi-arabia/regional-risks",
+            "file": "unitedkingdom/Saudi Arabia/Regional risks.md"
+        },
+        {
+            "title": "Pilgrimage",
+            "url": "https://www.gov.uk/foreign-travel-advice/saudi-arabia/pilgrimage",
+            "file": "unitedkingdom/Saudi Arabia/Pilgrimage.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/saudi-arabia/health",
+            "file": "unitedkingdom/Saudi Arabia/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/saudi-arabia/getting-help",
+            "file": "unitedkingdom/Saudi Arabia/Getting help.md"
+        }
+    ],
+    "update_date": "2025-03-14T15:43:06+00:00"
+}

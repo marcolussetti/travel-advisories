@@ -1,0 +1,32 @@
+{
+    "name": "Guyana",
+    "update_reason": "This travel advice was reviewed for accuracy and reissued without significant updates.",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Guyana/Warnings and insurance.md",
+            "update_date": "2025-01-09T14:31:15+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/guyana/entry-requirements",
+            "file": "unitedkingdom/Guyana/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/guyana/safety-and-security",
+            "file": "unitedkingdom/Guyana/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/guyana/health",
+            "file": "unitedkingdom/Guyana/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/guyana/getting-help",
+            "file": "unitedkingdom/Guyana/Getting help.md"
+        }
+    ],
+    "update_date": "2025-01-09T14:31:15+00:00"
+}

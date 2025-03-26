@@ -1,0 +1,32 @@
+{
+    "name": "South Africa",
+    "update_reason": "Updated information about Table Mountain National Park, wildfires in Cape Town and air travel ('Safety and security' page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/South Africa/Warnings and insurance.md",
+            "update_date": "2025-03-11T12:15:51+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements",
+            "file": "unitedkingdom/South Africa/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/south-africa/safety-and-security",
+            "file": "unitedkingdom/South Africa/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/south-africa/health",
+            "file": "unitedkingdom/South Africa/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/south-africa/getting-help",
+            "file": "unitedkingdom/South Africa/Getting help.md"
+        }
+    ],
+    "update_date": "2025-03-11T12:15:51+00:00"
+}

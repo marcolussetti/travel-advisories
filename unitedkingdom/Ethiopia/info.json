@@ -1,0 +1,37 @@
+{
+    "name": "Ethiopia",
+    "update_reason": "FCDO now advise against all but essential travel to all areas of Tigray region which lie east of the Tekeze river, except for within 10km of the border with Eritrea where we continue to advise against all travel. (\u2018Warnings and insurance,\u2019 'Safety & Security' and 'Regional risks' pages)",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Ethiopia/Warnings and insurance.md",
+            "update_date": "2025-03-14T23:54:31+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/ethiopia/entry-requirements",
+            "file": "unitedkingdom/Ethiopia/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/ethiopia/safety-and-security",
+            "file": "unitedkingdom/Ethiopia/Safety and security.md"
+        },
+        {
+            "title": "Regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/ethiopia/regional-risks",
+            "file": "unitedkingdom/Ethiopia/Regional risks.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/ethiopia/health",
+            "file": "unitedkingdom/Ethiopia/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/ethiopia/getting-help",
+            "file": "unitedkingdom/Ethiopia/Getting help.md"
+        }
+    ],
+    "update_date": "2025-03-14T23:54:31+00:00"
+}

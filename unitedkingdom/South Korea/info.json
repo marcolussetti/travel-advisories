@@ -1,0 +1,32 @@
+{
+    "name": "South Korea",
+    "update_reason": "New information added about forest fires in the south-eastern part of South Korea ('Warnings and insurance' page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/South Korea/Warnings and insurance.md",
+            "update_date": "2025-03-25T10:08:53+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/south-korea/entry-requirements",
+            "file": "unitedkingdom/South Korea/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/south-korea/safety-and-security",
+            "file": "unitedkingdom/South Korea/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/south-korea/health",
+            "file": "unitedkingdom/South Korea/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/south-korea/getting-help",
+            "file": "unitedkingdom/South Korea/Getting help.md"
+        }
+    ],
+    "update_date": "2025-03-25T10:08:53+00:00"
+}

@@ -1,0 +1,37 @@
+{
+    "name": "China",
+    "update_reason": "New information on medical screening on entry into China (\u2018Entry requirements\u2019 page), updated assessment that terrorists attacks in China cannot be ruled out, and new advice on the increase of violent attacks in China (\u2018Safety and Security\u2019 page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/China/Warnings and insurance.md",
+            "update_date": "2024-11-29T16:19:20+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/china/entry-requirements",
+            "file": "unitedkingdom/China/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/china/safety-and-security",
+            "file": "unitedkingdom/China/Safety and security.md"
+        },
+        {
+            "title": "Regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/china/regional-risks",
+            "file": "unitedkingdom/China/Regional risks.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/china/health",
+            "file": "unitedkingdom/China/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/china/getting-help",
+            "file": "unitedkingdom/China/Getting help.md"
+        }
+    ],
+    "update_date": "2024-11-29T16:19:20+00:00"
+}

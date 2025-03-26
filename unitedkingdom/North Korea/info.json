@@ -1,0 +1,32 @@
+{
+    "name": "North Korea",
+    "update_reason": "Information on border restrictions ('Warnings and insurance' page) and political situation ('Safety and security' page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/North Korea/Warnings and insurance.md",
+            "update_date": "2024-09-20T15:13:42+01:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/north-korea/entry-requirements",
+            "file": "unitedkingdom/North Korea/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/north-korea/safety-and-security",
+            "file": "unitedkingdom/North Korea/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/north-korea/health",
+            "file": "unitedkingdom/North Korea/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/north-korea/getting-help",
+            "file": "unitedkingdom/North Korea/Getting help.md"
+        }
+    ],
+    "update_date": "2024-09-20T15:13:42+01:00"
+}

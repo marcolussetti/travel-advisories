@@ -1,0 +1,37 @@
+{
+    "name": "Georgia",
+    "update_reason": "Updated information on ongoing political demonstrations (\u2018Safety and security\u2019 page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Georgia/Warnings and insurance.md",
+            "update_date": "2025-03-07T12:41:13+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/georgia/entry-requirements",
+            "file": "unitedkingdom/Georgia/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/georgia/safety-and-security",
+            "file": "unitedkingdom/Georgia/Safety and security.md"
+        },
+        {
+            "title": "Regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/georgia/regional-risks",
+            "file": "unitedkingdom/Georgia/Regional risks.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/georgia/health",
+            "file": "unitedkingdom/Georgia/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/georgia/getting-help",
+            "file": "unitedkingdom/Georgia/Getting help.md"
+        }
+    ],
+    "update_date": "2025-03-07T12:41:13+00:00"
+}

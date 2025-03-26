@@ -1,0 +1,34 @@
+---
+    name: Fetch latest travel-advisories data
+    on:
+      schedule:
+        - cron: "* 4 * * *"
+    
+    jobs:
+      scheduled:
+        runs-on: ubuntu-latest
+        steps:
+          - name: Fetches repo
+            uses: actions/checkout@v2
+          - name: Set up Python
+            uses: actions/setup-python@v2
+            with:
+              python-version: '3.x'
+          - name: Install dependencies
+            run: |-
+              python3 -m pip install --upgrade pip
+              pip install -r code/requirements.txt
+          - name: Parse United Kingdom travel advisories
+            run: |-
+              python3 code/unitedkingdom.py
+          - name: Add results to repo
+            run: |-
+              git config user.name "Travel Advisories Bot for United Kingdom"
+              git config user.email "actions@users.noreply.github.com"
+              git add -A *.json
+              git add -A *.csv
+              timestamp=$(date -u -Is)
+              git commit -m "unitedkingdom: update travel advisories data" || exit 0
+              git push
+    
+    

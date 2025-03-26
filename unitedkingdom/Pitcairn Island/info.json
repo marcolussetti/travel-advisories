@@ -1,0 +1,32 @@
+{
+    "name": "Pitcairn Island",
+    "update_reason": "This travel advice has been rewritten to make it easier to read and understand.",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Pitcairn Island/Warnings and insurance.md",
+            "update_date": "2024-02-26T13:16:22+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/pitcairn-island/entry-requirements",
+            "file": "unitedkingdom/Pitcairn Island/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/pitcairn-island/safety-and-security",
+            "file": "unitedkingdom/Pitcairn Island/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/pitcairn-island/health",
+            "file": "unitedkingdom/Pitcairn Island/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/pitcairn-island/getting-help",
+            "file": "unitedkingdom/Pitcairn Island/Getting help.md"
+        }
+    ],
+    "update_date": "2024-02-26T13:16:22+00:00"
+}

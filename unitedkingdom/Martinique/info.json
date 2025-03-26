@@ -1,0 +1,32 @@
+{
+    "name": "Martinique",
+    "update_reason": "Updated information regarding ongoing protests ('Safety and security' page)",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Martinique/Warnings and insurance.md",
+            "update_date": "2024-10-11T18:11:38+01:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/martinique/entry-requirements",
+            "file": "unitedkingdom/Martinique/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/martinique/safety-and-security",
+            "file": "unitedkingdom/Martinique/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/martinique/health",
+            "file": "unitedkingdom/Martinique/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/martinique/getting-help",
+            "file": "unitedkingdom/Martinique/Getting help.md"
+        }
+    ],
+    "update_date": "2024-10-11T18:11:38+01:00"
+}

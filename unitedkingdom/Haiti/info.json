@@ -1,0 +1,32 @@
+{
+    "name": "Haiti",
+    "update_reason": "Removal of information about the state of emergency ('Warnings and insurance' page)",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Haiti/Warnings and insurance.md",
+            "update_date": "2024-10-15T14:18:15+01:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/haiti/entry-requirements",
+            "file": "unitedkingdom/Haiti/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/haiti/safety-and-security",
+            "file": "unitedkingdom/Haiti/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/haiti/health",
+            "file": "unitedkingdom/Haiti/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/haiti/getting-help",
+            "file": "unitedkingdom/Haiti/Getting help.md"
+        }
+    ],
+    "update_date": "2024-10-15T14:18:15+01:00"
+}

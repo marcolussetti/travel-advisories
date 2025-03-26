@@ -1,0 +1,32 @@
+{
+    "name": "Sierra Leone",
+    "update_reason": "Updated information about political situation in Sierra Leone ('Safety and security' page)",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Sierra Leone/Warnings and insurance.md",
+            "update_date": "2024-12-09T16:58:36+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/sierra-leone/entry-requirements",
+            "file": "unitedkingdom/Sierra Leone/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/sierra-leone/safety-and-security",
+            "file": "unitedkingdom/Sierra Leone/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/sierra-leone/health",
+            "file": "unitedkingdom/Sierra Leone/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/sierra-leone/getting-help",
+            "file": "unitedkingdom/Sierra Leone/Getting help.md"
+        }
+    ],
+    "update_date": "2024-12-09T16:58:36+00:00"
+}

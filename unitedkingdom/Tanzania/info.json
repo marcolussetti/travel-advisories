@@ -1,0 +1,37 @@
+{
+    "name": "Tanzania",
+    "update_reason": "Following a US Travel Advisory to avoid travel to islands and coastal areas south of Kisiju Tanzania, British High Commission staff will not travel to the area. This will be kept under review (\u2018Warnings and insurance\u2019).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Tanzania/Warnings and insurance.md",
+            "update_date": "2025-03-21T18:52:02+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/tanzania/entry-requirements",
+            "file": "unitedkingdom/Tanzania/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/tanzania/safety-and-security",
+            "file": "unitedkingdom/Tanzania/Safety and security.md"
+        },
+        {
+            "title": "Regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/tanzania/regional-risks",
+            "file": "unitedkingdom/Tanzania/Regional risks.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/tanzania/health",
+            "file": "unitedkingdom/Tanzania/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/tanzania/getting-help",
+            "file": "unitedkingdom/Tanzania/Getting help.md"
+        }
+    ],
+    "update_date": "2025-03-21T18:52:02+00:00"
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Kyrgyzstan",
+    "update_reason": "Updated information on the Kyrgyzstan-Tajikistan border ('Regional risks' page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Kyrgyzstan/Warnings and insurance.md",
+            "update_date": "2025-03-25T10:27:07+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/kyrgyzstan/entry-requirements",
+            "file": "unitedkingdom/Kyrgyzstan/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/kyrgyzstan/safety-and-security",
+            "file": "unitedkingdom/Kyrgyzstan/Safety and security.md"
+        },
+        {
+            "title": "Regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/kyrgyzstan/regional-risks",
+            "file": "unitedkingdom/Kyrgyzstan/Regional risks.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/kyrgyzstan/health",
+            "file": "unitedkingdom/Kyrgyzstan/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/kyrgyzstan/getting-help",
+            "file": "unitedkingdom/Kyrgyzstan/Getting help.md"
+        }
+    ],
+    "update_date": "2025-03-25T10:27:07+00:00"
+}

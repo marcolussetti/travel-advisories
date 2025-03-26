@@ -1,0 +1,32 @@
+{
+    "name": "Iran",
+    "update_reason": "Updated information about the current risks and political situation in Iran ('Warnings and insurance' and 'Safety and security' pages).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Iran/Warnings and insurance.md",
+            "update_date": "2025-03-12T11:18:25+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/iran/entry-requirements",
+            "file": "unitedkingdom/Iran/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/iran/safety-and-security",
+            "file": "unitedkingdom/Iran/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/iran/health",
+            "file": "unitedkingdom/Iran/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/iran/getting-help",
+            "file": "unitedkingdom/Iran/Getting help.md"
+        }
+    ],
+    "update_date": "2025-03-12T11:18:25+00:00"
+}

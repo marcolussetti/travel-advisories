@@ -1,0 +1,32 @@
+{
+    "name": "Turks and Caicos Islands",
+    "update_reason": "Information on customs rules in the Turks and Caicos Islands (\u2018Entry requirements\u2019 page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Turks and Caicos Islands/Warnings and insurance.md",
+            "update_date": "2024-04-30T16:45:14+01:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/turks-and-caicos-islands/entry-requirements",
+            "file": "unitedkingdom/Turks and Caicos Islands/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/turks-and-caicos-islands/safety-and-security",
+            "file": "unitedkingdom/Turks and Caicos Islands/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/turks-and-caicos-islands/health",
+            "file": "unitedkingdom/Turks and Caicos Islands/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/turks-and-caicos-islands/getting-help",
+            "file": "unitedkingdom/Turks and Caicos Islands/Getting help.md"
+        }
+    ],
+    "update_date": "2024-04-30T16:45:14+01:00"
+}

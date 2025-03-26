@@ -1,0 +1,32 @@
+{
+    "name": "Slovakia",
+    "update_reason": "Update to information on expected rollout of the EU Entry/Exit System (EES) (\u2018Entry requirements\u2019 page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Slovakia/Warnings and insurance.md",
+            "update_date": "2025-03-17T14:16:11+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/slovakia/entry-requirements",
+            "file": "unitedkingdom/Slovakia/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/slovakia/safety-and-security",
+            "file": "unitedkingdom/Slovakia/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/slovakia/health",
+            "file": "unitedkingdom/Slovakia/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/slovakia/getting-help",
+            "file": "unitedkingdom/Slovakia/Getting help.md"
+        }
+    ],
+    "update_date": "2025-03-17T14:16:11+00:00"
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Equatorial Guinea",
+    "update_reason": "This travel advice was reviewed for accuracy and reissued without any significant updates.",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Equatorial Guinea/Warnings and insurance.md",
+            "update_date": "2025-02-11T12:14:26+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/equatorial-guinea/entry-requirements",
+            "file": "unitedkingdom/Equatorial Guinea/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/equatorial-guinea/safety-and-security",
+            "file": "unitedkingdom/Equatorial Guinea/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/equatorial-guinea/health",
+            "file": "unitedkingdom/Equatorial Guinea/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/equatorial-guinea/getting-help",
+            "file": "unitedkingdom/Equatorial Guinea/Getting help.md"
+        }
+    ],
+    "update_date": "2025-02-11T12:14:26+00:00"
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Guadeloupe",
+    "update_reason": "This travel advice was reviewed for accuracy and reissued without any significant updates.",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Guadeloupe/Warnings and insurance.md",
+            "update_date": "2025-01-10T12:48:38+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/guadeloupe/entry-requirements",
+            "file": "unitedkingdom/Guadeloupe/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/guadeloupe/safety-and-security",
+            "file": "unitedkingdom/Guadeloupe/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/guadeloupe/health",
+            "file": "unitedkingdom/Guadeloupe/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/guadeloupe/getting-help",
+            "file": "unitedkingdom/Guadeloupe/Getting help.md"
+        }
+    ],
+    "update_date": "2025-01-10T12:48:38+00:00"
+}

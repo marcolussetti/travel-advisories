@@ -1,0 +1,32 @@
+{
+    "name": "Antigua and Barbuda",
+    "update_reason": "This travel advice has been reviewed and information on Tropical Storm Ernesto has been removed. There are no other significant updates.",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Antigua and Barbuda/Warnings and insurance.md",
+            "update_date": "2024-12-03T15:03:59+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/antigua-and-barbuda/entry-requirements",
+            "file": "unitedkingdom/Antigua and Barbuda/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/antigua-and-barbuda/safety-and-security",
+            "file": "unitedkingdom/Antigua and Barbuda/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/antigua-and-barbuda/health",
+            "file": "unitedkingdom/Antigua and Barbuda/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/antigua-and-barbuda/getting-help",
+            "file": "unitedkingdom/Antigua and Barbuda/Getting help.md"
+        }
+    ],
+    "update_date": "2024-12-03T15:03:59+00:00"
+}

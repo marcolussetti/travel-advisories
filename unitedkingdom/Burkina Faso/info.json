@@ -1,0 +1,32 @@
+{
+    "name": "Burkina Faso",
+    "update_reason": "Updated guidance for LGBT+ travellers ('Safety and security\u2019 page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Burkina Faso/Warnings and insurance.md",
+            "update_date": "2025-02-03T14:33:33+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/burkina-faso/entry-requirements",
+            "file": "unitedkingdom/Burkina Faso/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/burkina-faso/safety-and-security",
+            "file": "unitedkingdom/Burkina Faso/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/burkina-faso/health",
+            "file": "unitedkingdom/Burkina Faso/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/burkina-faso/getting-help",
+            "file": "unitedkingdom/Burkina Faso/Getting help.md"
+        }
+    ],
+    "update_date": "2025-02-03T14:33:33+00:00"
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Albania",
+    "update_reason": "Information on wildfires ('Safety and security' page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Albania/Warnings and insurance.md",
+            "update_date": "2024-08-13T14:25:02+01:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/albania/entry-requirements",
+            "file": "unitedkingdom/Albania/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/albania/safety-and-security",
+            "file": "unitedkingdom/Albania/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/albania/health",
+            "file": "unitedkingdom/Albania/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/albania/getting-help",
+            "file": "unitedkingdom/Albania/Getting help.md"
+        }
+    ],
+    "update_date": "2024-08-13T14:25:02+01:00"
+}

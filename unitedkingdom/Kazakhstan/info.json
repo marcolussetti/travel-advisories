@@ -1,0 +1,32 @@
+{
+    "name": "Kazakhstan",
+    "update_reason": "This travel advice was reviewed for style and accuracy.",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Kazakhstan/Warnings and insurance.md",
+            "update_date": "2024-09-18T16:42:47+01:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/kazakhstan/entry-requirements",
+            "file": "unitedkingdom/Kazakhstan/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/kazakhstan/safety-and-security",
+            "file": "unitedkingdom/Kazakhstan/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/kazakhstan/health",
+            "file": "unitedkingdom/Kazakhstan/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/kazakhstan/getting-help",
+            "file": "unitedkingdom/Kazakhstan/Getting help.md"
+        }
+    ],
+    "update_date": "2024-09-18T16:42:47+01:00"
+}

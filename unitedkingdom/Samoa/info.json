@@ -1,0 +1,32 @@
+{
+    "name": "Samoa",
+    "update_reason": "Removal of information on the Commonwealth Heads of Government meeting ('Warnings and insurance' page)",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Samoa/Warnings and insurance.md",
+            "update_date": "2024-11-22T15:04:32+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/samoa/entry-requirements",
+            "file": "unitedkingdom/Samoa/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/samoa/safety-and-security",
+            "file": "unitedkingdom/Samoa/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/samoa/health",
+            "file": "unitedkingdom/Samoa/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/samoa/getting-help",
+            "file": "unitedkingdom/Samoa/Getting help.md"
+        }
+    ],
+    "update_date": "2024-11-22T15:04:32+00:00"
+}

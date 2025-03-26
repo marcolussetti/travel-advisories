@@ -1,0 +1,32 @@
+{
+    "name": "Timor-Leste",
+    "update_reason": "Updated information on rabies cases ('Health' page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Timor-Leste/Warnings and insurance.md",
+            "update_date": "2024-10-09T12:42:19+01:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/timor-leste/entry-requirements",
+            "file": "unitedkingdom/Timor-Leste/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/timor-leste/safety-and-security",
+            "file": "unitedkingdom/Timor-Leste/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/timor-leste/health",
+            "file": "unitedkingdom/Timor-Leste/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/timor-leste/getting-help",
+            "file": "unitedkingdom/Timor-Leste/Getting help.md"
+        }
+    ],
+    "update_date": "2024-10-09T12:42:19+01:00"
+}

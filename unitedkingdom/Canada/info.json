@@ -1,0 +1,32 @@
+{
+    "name": "Canada",
+    "update_reason": "Removal of details of plane crash at Toronto Pearson Airport('Warnings and insurance' page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Canada/Warnings and insurance.md",
+            "update_date": "2025-02-24T16:22:14+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/canada/entry-requirements",
+            "file": "unitedkingdom/Canada/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/canada/safety-and-security",
+            "file": "unitedkingdom/Canada/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/canada/health",
+            "file": "unitedkingdom/Canada/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/canada/getting-help",
+            "file": "unitedkingdom/Canada/Getting help.md"
+        }
+    ],
+    "update_date": "2025-02-24T16:22:14+00:00"
+}

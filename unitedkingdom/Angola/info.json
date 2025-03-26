@@ -1,0 +1,37 @@
+{
+    "name": "Angola",
+    "update_reason": "This travel advice has been rewritten to make it easier to read and understand.",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Angola/Warnings and insurance.md",
+            "update_date": "2024-01-10T12:55:42+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/angola/entry-requirements",
+            "file": "unitedkingdom/Angola/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/angola/safety-and-security",
+            "file": "unitedkingdom/Angola/Safety and security.md"
+        },
+        {
+            "title": "Regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/angola/regional-risks",
+            "file": "unitedkingdom/Angola/Regional risks.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/angola/health",
+            "file": "unitedkingdom/Angola/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/angola/getting-help",
+            "file": "unitedkingdom/Angola/Getting help.md"
+        }
+    ],
+    "update_date": "2024-01-10T12:55:42+00:00"
+}

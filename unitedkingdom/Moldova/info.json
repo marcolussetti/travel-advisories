@@ -1,0 +1,37 @@
+{
+    "name": "Moldova",
+    "update_reason": "New information about energy shortages starting on 1 January 2025 (\u2018Warnings and insurance\u2019 page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Moldova/Warnings and insurance.md",
+            "update_date": "2024-12-31T14:14:04+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/moldova/entry-requirements",
+            "file": "unitedkingdom/Moldova/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/moldova/safety-and-security",
+            "file": "unitedkingdom/Moldova/Safety and security.md"
+        },
+        {
+            "title": "Regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/moldova/regional-risks",
+            "file": "unitedkingdom/Moldova/Regional risks.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/moldova/health",
+            "file": "unitedkingdom/Moldova/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/moldova/getting-help",
+            "file": "unitedkingdom/Moldova/Getting help.md"
+        }
+    ],
+    "update_date": "2024-12-31T14:14:04+00:00"
+}

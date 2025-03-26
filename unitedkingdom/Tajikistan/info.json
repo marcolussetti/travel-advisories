@@ -1,0 +1,37 @@
+{
+    "name": "Tajikistan",
+    "update_reason": "Removal of information about the US embassy in Tajikistan having issued an alert ahead of the Navruz celebrations, which took place over the extended holiday weekend (\u2018Warnings and insurance\u2019 page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Tajikistan/Warnings and insurance.md",
+            "update_date": "2025-03-24T12:30:51+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/tajikistan/entry-requirements",
+            "file": "unitedkingdom/Tajikistan/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/tajikistan/safety-and-security",
+            "file": "unitedkingdom/Tajikistan/Safety and security.md"
+        },
+        {
+            "title": "Regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/tajikistan/regional-risks",
+            "file": "unitedkingdom/Tajikistan/Regional risks.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/tajikistan/health",
+            "file": "unitedkingdom/Tajikistan/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/tajikistan/getting-help",
+            "file": "unitedkingdom/Tajikistan/Getting help.md"
+        }
+    ],
+    "update_date": "2025-03-24T12:30:51+00:00"
+}

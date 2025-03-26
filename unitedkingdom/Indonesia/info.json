@@ -1,0 +1,37 @@
+{
+    "name": "Indonesia",
+    "update_reason": "Updated information on overstaying your visa (\u2018Entry requirements\u2019 page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Indonesia/Warnings and insurance.md",
+            "update_date": "2025-01-07T11:33:05+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements",
+            "file": "unitedkingdom/Indonesia/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/indonesia/safety-and-security",
+            "file": "unitedkingdom/Indonesia/Safety and security.md"
+        },
+        {
+            "title": "Regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/indonesia/regional-risks",
+            "file": "unitedkingdom/Indonesia/Regional risks.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/indonesia/health",
+            "file": "unitedkingdom/Indonesia/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/indonesia/getting-help",
+            "file": "unitedkingdom/Indonesia/Getting help.md"
+        }
+    ],
+    "update_date": "2025-01-07T11:33:05+00:00"
+}

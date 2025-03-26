@@ -1,0 +1,37 @@
+{
+    "name": "Montserrat",
+    "update_reason": "This travel advice has been rewritten to make it easier to read and understand.",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Montserrat/Warnings and insurance.md",
+            "update_date": "2024-04-03T14:27:39+01:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/montserrat/entry-requirements",
+            "file": "unitedkingdom/Montserrat/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/montserrat/safety-and-security",
+            "file": "unitedkingdom/Montserrat/Safety and security.md"
+        },
+        {
+            "title": "Regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/montserrat/regional-risks",
+            "file": "unitedkingdom/Montserrat/Regional risks.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/montserrat/health",
+            "file": "unitedkingdom/Montserrat/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/montserrat/getting-help",
+            "file": "unitedkingdom/Montserrat/Getting help.md"
+        }
+    ],
+    "update_date": "2024-04-03T14:27:39+01:00"
+}

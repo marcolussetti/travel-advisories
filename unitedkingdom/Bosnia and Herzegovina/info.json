@@ -1,0 +1,32 @@
+{
+    "name": "Bosnia and Herzegovina",
+    "update_reason": "Updated information on flooding in central Bosnia and Herzegovina ('Safety and security' page').",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Bosnia and Herzegovina/Warnings and insurance.md",
+            "update_date": "2024-10-07T15:24:50+01:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/bosnia-and-herzegovina/entry-requirements",
+            "file": "unitedkingdom/Bosnia and Herzegovina/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/bosnia-and-herzegovina/safety-and-security",
+            "file": "unitedkingdom/Bosnia and Herzegovina/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/bosnia-and-herzegovina/health",
+            "file": "unitedkingdom/Bosnia and Herzegovina/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/bosnia-and-herzegovina/getting-help",
+            "file": "unitedkingdom/Bosnia and Herzegovina/Getting help.md"
+        }
+    ],
+    "update_date": "2024-10-07T15:24:50+01:00"
+}

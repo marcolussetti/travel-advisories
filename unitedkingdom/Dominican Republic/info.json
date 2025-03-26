@@ -1,0 +1,37 @@
+{
+    "name": "Dominican Republic",
+    "update_reason": "New information on passport validity requirements (\u2018Entry requirements\u2019 page)",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Dominican Republic/Warnings and insurance.md",
+            "update_date": "2024-12-04T10:14:04+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/dominican-republic/entry-requirements",
+            "file": "unitedkingdom/Dominican Republic/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/dominican-republic/safety-and-security",
+            "file": "unitedkingdom/Dominican Republic/Safety and security.md"
+        },
+        {
+            "title": "Regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/dominican-republic/regional-risks",
+            "file": "unitedkingdom/Dominican Republic/Regional risks.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/dominican-republic/health",
+            "file": "unitedkingdom/Dominican Republic/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/dominican-republic/getting-help",
+            "file": "unitedkingdom/Dominican Republic/Getting help.md"
+        }
+    ],
+    "update_date": "2024-12-04T10:14:04+00:00"
+}

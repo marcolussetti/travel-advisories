@@ -1,0 +1,32 @@
+{
+    "name": "Trinidad and Tobago",
+    "update_reason": "Updated information on State of Emergency being extended for 3 months (\u2018Safety and security\u2019 page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Trinidad and Tobago/Warnings and insurance.md",
+            "update_date": "2025-01-14T18:42:37+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/trinidad-and-tobago/entry-requirements",
+            "file": "unitedkingdom/Trinidad and Tobago/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/trinidad-and-tobago/safety-and-security",
+            "file": "unitedkingdom/Trinidad and Tobago/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/trinidad-and-tobago/health",
+            "file": "unitedkingdom/Trinidad and Tobago/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/trinidad-and-tobago/getting-help",
+            "file": "unitedkingdom/Trinidad and Tobago/Getting help.md"
+        }
+    ],
+    "update_date": "2025-01-14T18:42:37+00:00"
+}

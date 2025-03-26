@@ -1,0 +1,32 @@
+{
+    "name": "Germany",
+    "update_reason": "Update to information on expected rollout of the EU Entry/Exit System (EES) (\u2018Entry requirements\u2019 page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Germany/Warnings and insurance.md",
+            "update_date": "2025-03-17T14:02:45+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/germany/entry-requirements",
+            "file": "unitedkingdom/Germany/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/germany/safety-and-security",
+            "file": "unitedkingdom/Germany/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/germany/health",
+            "file": "unitedkingdom/Germany/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/germany/getting-help",
+            "file": "unitedkingdom/Germany/Getting help.md"
+        }
+    ],
+    "update_date": "2025-03-17T14:02:45+00:00"
+}

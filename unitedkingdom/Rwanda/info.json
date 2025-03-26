@@ -1,0 +1,37 @@
+{
+    "name": "Rwanda",
+    "update_reason": "Removal of information about Marburg Virus Disease screening measures on departure (\u2018Entry requirements\u2019 page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Rwanda/Warnings and insurance.md",
+            "update_date": "2025-02-06T11:38:57+00:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/rwanda/entry-requirements",
+            "file": "unitedkingdom/Rwanda/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/rwanda/safety-and-security",
+            "file": "unitedkingdom/Rwanda/Safety and security.md"
+        },
+        {
+            "title": "Regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/rwanda/regional-risks",
+            "file": "unitedkingdom/Rwanda/Regional risks.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/rwanda/health",
+            "file": "unitedkingdom/Rwanda/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/rwanda/getting-help",
+            "file": "unitedkingdom/Rwanda/Getting help.md"
+        }
+    ],
+    "update_date": "2025-02-06T11:38:57+00:00"
+}

@@ -1,0 +1,32 @@
+{
+    "name": "United Arab Emirates",
+    "update_reason": "On 26 October Israel carried out military action against Iran ('Safety and security' page)",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/United Arab Emirates/Warnings and insurance.md",
+            "update_date": "2024-10-26T08:21:20+01:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/entry-requirements",
+            "file": "unitedkingdom/United Arab Emirates/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security",
+            "file": "unitedkingdom/United Arab Emirates/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/health",
+            "file": "unitedkingdom/United Arab Emirates/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/getting-help",
+            "file": "unitedkingdom/United Arab Emirates/Getting help.md"
+        }
+    ],
+    "update_date": "2024-10-26T08:21:20+01:00"
+}
