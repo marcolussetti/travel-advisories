@@ -73,7 +73,7 @@ def parse_country_details(html, country_name):
     if part_navigation:
         for li in part_navigation.find_all("li"):
             link = li.find("a")
-            if link:
+            if link and ("email alerts" not in link.text.strip().lower()):  # Skip "Get email alerts" pages
                 page_title = link.text.strip()
                 page_url = BASE_URL + link["href"]
                 other_pages.append({
@@ -112,7 +112,17 @@ def parse_country_details(html, country_name):
 
             print(page_soup)
             page_contents = page_soup.find_all("div", {"class": "govuk-grid-column-two-thirds"})
-            page_content = next((content for content in page_contents if content.find("h1")), None)
+
+            # Iterate through the page contents to find the second <h1>
+            page_content = None
+            h1_count = 0
+            for content in page_contents:
+                h1_tags = content.find_all("h1")
+                if len(h1_tags) >= 1:
+                    h1_count += 1
+                    if h1_count == 2:  # Select the second match
+                        page_content = content
+                        break
 
             if page_content:
                 markdown_content = md(str(page_content), heading_style="ATX")
