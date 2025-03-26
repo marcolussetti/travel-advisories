@@ -6,7 +6,7 @@ The authorities in Tajikistan set and enforce entry rules. If you’re not sure 
 
 ## Passport validity requirements
 
-If you’re visiting Tajikistan, your passport must have an ‘expiry date’ at least 6 months after the date you arrive and have at least 2 blank pages.
+To enter Tajikistan, your passport must have an ‘expiry date’ at least 6 months after the date you arrive and have at least 2 blank pages.
 
 Check with your travel provider that your passport and other travel documents meet requirements. [Renew your passport](https://www.gov.uk/renew-adult-passport/renew) if you need to.
 
@@ -34,15 +34,19 @@ If you are staying in Tajikistan for longer than 10 days, you must register with
 
 If you do not follow the registration procedure, you may not be allowed to leave Tajikistan until your registration process is resolved. This may result in fines or detention. There have been cases where lack of registration has resulted in detention at Dushanbe airport.
 
+## Tajik-British dual nationality
+
+Tajikistan does not recognise dual British nationality if the person concerned is also a Tajik national. If you enter Tajikistan, the British Embassy will only be able to provide limited consular assistance. If you’re arrested or detained, the Tajik authorities are unlikely to allow you to get help from the British Embassy.
+
 ## Travel permit for the Gorno-Badakhshan Region
 
-You must get a permit, in addition to a Tajik visa, to travel to the Gorno-Badakhshan Autonomous Region. If you’re in the UK, contact the [Tajik Embassy](https://mfa.tj/en/london) to apply for a permit before you travel. If you’re in Tajikistan, contact the [Consular Department of the Ministry of Foreign Affairs](https://www.consular.tj/default_en.aspx).
+You must get a separate travel permit, in addition to a Tajik visa, to travel to the Gorno-Badakhshan Autonomous Region. If you’re in the UK, contact the [Tajik Embassy](https://mfa.tj/en/london) to apply for a permit before you travel. If you’re in Tajikistan, contact the [Consular Department of the Ministry of Foreign Affairs](https://www.consular.tj/default_en.aspx).
 
 The Tajikistan government sometimes stops issuing permits to tourists at short notice due to security concerns. The Tajik Embassy can tell you whether the government is issuing permits for travel to the Gorno-Badakhshan Autonomous Region.
 
 ## Travel permit for the Khatlon Region
 
-You must get a permit, in addition to a Tajik visa, to travel to areas within 20km of the border with bordering Afghanistan in the Khatlon Region, including Panj and Kumsangir. Apply for a permit from the [Consular Department of the Ministry of Foreign Affairs](https://www.consular.tj/default_en.aspx) in Dushanbe before you travel.
+You must get a permit, in addition to a Tajik visa, to travel to areas within 20km of the border with Afghanistan in the Khatlon Region, including Panj and Kumsangir. Apply for a permit from the [Consular Department of the Ministry of Foreign Affairs](https://www.consular.tj/default_en.aspx) in Dushanbe before you travel  to the Khatlon region.
 
 ## Vaccine requirements
 

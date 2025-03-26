@@ -4,20 +4,10 @@ Still current at:
 :   26 March 2025
 
 Updated:
-:   17 March 2025
+:   26 March 2025
 
 Latest update:
-:   Update to information on expected rollout of the EU Entry/Exit System (EES) and new information about UEFA Nations League match between Greece and Scotland (‘Entry requirements’ and 'Warnings and insurance' pages).
-
-## UEFA Nations League
-
-Athens will host the [UEFA Nations League](https://www.uefa.com/uefanationsleague/) on Thursday 20 March between Greece and Scotland. If you are travelling to Athens for the match, you should:
-
-* plan your movement around the city to arrive at the stadium well in advance of the match kick-off
-* follow the instructions of the local authorities
-* take care of your personal possessions including passports, especially in crowds and on public transport
-
-Further information can be found on the [Scottish FA official website](https://www.scottishfa.co.uk/).
+:   Removal of information about UEFA Nations League match between Greece and Scotland ('Warnings and insurance' page).
 
 ## Before you travel
 

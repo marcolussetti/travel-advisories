@@ -4,10 +4,10 @@ Still current at:
 :   26 March 2025
 
 Updated:
-:   24 March 2025
+:   26 March 2025
 
 Latest update:
-:   Removal of information about the US embassy in Tajikistan having issued an alert ahead of the Navruz celebrations, which took place over the extended holiday weekend (‘Warnings and insurance’ page).
+:   This travel advice has been reviewed for accuracy and updated with information on the Tajikistan-Kyrgyzstan border ('Regional risks' page).
 
 ## Before you travel
 

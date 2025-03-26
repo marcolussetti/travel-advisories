@@ -1,11 +1,11 @@
 {
     "name": "Tajikistan",
-    "update_reason": "Removal of information about the US embassy in Tajikistan having issued an alert ahead of the Navruz celebrations, which took place over the extended holiday weekend (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "This travel advice has been reviewed for accuracy and updated with information on the Tajikistan-Kyrgyzstan border ('Regional risks' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Tajikistan/Warnings and insurance.md",
-            "update_date": "2025-03-24T12:30:51+00:00"
+            "update_date": "2025-03-26T10:28:08+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Tajikistan/Getting help.md"
         }
     ],
-    "update_date": "2025-03-24T12:30:51+00:00"
+    "update_date": "2025-03-26T10:28:08+00:00"
 }

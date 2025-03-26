@@ -28,7 +28,9 @@
               git config user.email "actions@users.noreply.github.com"
               git add -A *.json
               git add -A *.csv
-              git add -A *.md
+              git add -A unitedstates/*.md
+              git add -A unitedstates/*.json
+              git add -A unitedstates/last_run.txt
               timestamp=$(date -u -Is)
               git commit -m "unitedstates: update travel advisories data" || exit 0
               git push

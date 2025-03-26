@@ -1,11 +1,11 @@
 {
     "name": "Greece",
-    "update_reason": "Update to information on expected rollout of the EU Entry/Exit System (EES) and new information about UEFA Nations League match between Greece and Scotland (\u2018Entry requirements\u2019 and 'Warnings and insurance' pages).",
+    "update_reason": "Removal of information about UEFA Nations League match between Greece and Scotland ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Greece/Warnings and insurance.md",
-            "update_date": "2025-03-17T14:08:33+00:00"
+            "update_date": "2025-03-26T11:18:56+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Greece/Getting help.md"
         }
     ],
-    "update_date": "2025-03-17T14:08:33+00:00"
+    "update_date": "2025-03-26T11:18:56+00:00"
 }

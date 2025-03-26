@@ -118,7 +118,13 @@ It is illegal to encourage people to convert to Christianity.
 
 ### Ramadan
 
-Ramadan is a holy month for Muslims. Ramadan in Egypt in 2025 will likely begin 28 February or 1 March and last for 30 days. Get more advice when you arrive from your tour guide, hotel or business contacts.
+Ramadan is a holy month for Muslims. The dates vary by year and country and you should check this before you travel. During this time, do not:
+
+* eat, drink, smoke or chew gum in public in the daytime, including in your car
+* play loud music or dance
+* swear in public
+
+Get more advice when you arrive from your tour guide, hotel or business contacts.
 
 You should also:
 

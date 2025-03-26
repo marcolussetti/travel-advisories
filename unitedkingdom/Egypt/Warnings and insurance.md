@@ -4,10 +4,10 @@ Still current at:
 :   26 March 2025
 
 Updated:
-:   7 February 2025
+:   26 March 2025
 
 Latest update:
-:   Information added for tourists booking liveaboard vessels ('Safety and security' page).
+:   Updated information about Ramadan ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/670e278f30536cb92748313c/FCDO__TA__015_-_Egypt_Travel_Advice_Ed10__WEB_.jpg)
 
