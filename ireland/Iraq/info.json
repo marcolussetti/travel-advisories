@@ -1,0 +1,31 @@
+{
+    "name": "Iraq",
+    "risk_level": "Do Not Travel",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Iraq/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Iraq/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Iraq/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Iraq/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Iraq/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Iraq/Embassy contact.md"
+        }
+    ],
+    "update_date": "2024-05-14T00:00:00"
+}

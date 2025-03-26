@@ -1,0 +1,23 @@
+{
+    "name": "Israel and the Occupied Territories",
+    "risk_level": "Avoid Non-Essential Travel",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Israel and the Occupied Territories/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Israel and the Occupied Territories/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Israel and the Occupied Territories/Local laws and customs.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Israel and the Occupied Territories/Embassy contact.md"
+        }
+    ],
+    "update_date": "2025-01-10T00:00:00"
+}

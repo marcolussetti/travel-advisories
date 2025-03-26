@@ -1,0 +1,29 @@
+## Local laws and customs
+
+### **Identification**
+
+Under Dutch law, anyone over the age of 14 is required to carry identification, such as a valid passport, driver's licence, identity card or Dutch residency card, at all times. Dutch police officers and other law enforcement officials can request to see your identification at any time. Visitors can be fined if they fail to present identification when requested.
+
+### **Travelling with Children**
+
+While there are no laws prohibiting the travel of a minor with only one parent or guardian, it has been noted that border control authorities pay particular attention to minors travelling under these circumstances. Visitors may be asked to present a ‘Permission to Travel’ form completed by the parent not travelling, as well as other documents. Follow [**this link for further information and to download a ‘Permission to Travel’ form.**](https://www.defensie.nl/english/topics/travelling-with-children)
+
+### **Credit Cards**
+
+The use of credit cards is not as widespread as in Ireland; check before making a purchase that they accept your brand of credit card. Where credit cards are accepted, you may be asked to produce photo ID.
+
+### **Alcohol**
+
+The legal minimum age for drinking alcohol in The Netherlands has been revised and is now 18.
+
+### **Illegal drugs**
+
+Contrary to popular belief, so-called soft drugs are not legal in The Netherlands. However, the purchase and personal use of drugs such as cannabis is allowed in designated premises (so called “coffee shops”) in the Netherlands. Purchasing or using drugs outside of designated premises is illegal and may result in arrest, heavy fines and/or imprisonment.
+
+In 2012, the Dutch Government introduced a law banning non-residents of the Netherlands from purchasing cannabis, including in designated premises. An increasing number of municipalities are implementing this legislation.
+
+Remember taking drugs will reduce your ability to make considered decisions and may make you more likely to become a victim of violence, robbery or sexual assault.
+
+### **Arrest**
+
+If arrested in The Netherlands, you will be informed of your rights. At any point, you can also request to speak with a Consular officer from the Embassy. The Embassy can provide you with a list of English-speaking lawyers, can arrange for your next of kin to be informed of your detention and can help you keep in contact with friends and family. However, the Embassy cannot provide legal advice, pay for a lawyer or interfere with local judicial proceedings.

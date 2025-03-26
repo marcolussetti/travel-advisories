@@ -1,0 +1,31 @@
+{
+    "name": "Nauru",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Nauru/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Nauru/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Nauru/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/Nauru/Natural disasters and climate.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Nauru/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Nauru/Embassy contact.md"
+        }
+    ],
+    "update_date": "2025-01-10T00:00:00"
+}

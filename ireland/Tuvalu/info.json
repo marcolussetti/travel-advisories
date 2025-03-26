@@ -1,0 +1,31 @@
+{
+    "name": "Tuvalu",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Tuvalu/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Tuvalu/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Tuvalu/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Tuvalu/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Tuvalu/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Tuvalu/Embassy contact.md"
+        }
+    ],
+    "update_date": "2023-11-23T00:00:00"
+}

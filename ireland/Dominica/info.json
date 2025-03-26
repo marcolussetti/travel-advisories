@@ -1,0 +1,31 @@
+{
+    "name": "Dominica",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Dominica/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Dominica/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Dominica/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Dominica/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Dominica/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Dominica/Embassy contact.md"
+        }
+    ],
+    "update_date": "2024-07-04T00:00:00"
+}

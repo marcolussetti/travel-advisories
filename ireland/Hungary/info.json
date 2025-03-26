@@ -1,0 +1,27 @@
+{
+    "name": "Hungary",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Hungary/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Hungary/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Hungary/Local laws and customs.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Hungary/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Hungary/Embassy contact.md"
+        }
+    ],
+    "update_date": "2024-09-09T00:00:00"
+}

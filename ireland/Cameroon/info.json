@@ -1,0 +1,31 @@
+{
+    "name": "Cameroon",
+    "risk_level": "Avoid Non-Essential Travel",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Cameroon/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Cameroon/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Cameroon/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Cameroon/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Cameroon/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Cameroon/Embassy contact.md"
+        }
+    ],
+    "update_date": "2024-11-06T00:00:00"
+}

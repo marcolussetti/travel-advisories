@@ -1,0 +1,31 @@
+{
+    "name": "France",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/France/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/France/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/France/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/France/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/France/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/France/Embassy contact.md"
+        }
+    ],
+    "update_date": "2024-12-05T00:00:00"
+}

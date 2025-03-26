@@ -1,0 +1,27 @@
+{
+    "name": "Bahrain",
+    "risk_level": "High Degree of Caution",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Bahrain/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Bahrain/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Bahrain/Local laws and customs.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Bahrain/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Bahrain/Embassy contact.md"
+        }
+    ],
+    "update_date": "2023-11-16T00:00:00"
+}

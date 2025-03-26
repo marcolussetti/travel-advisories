@@ -1,0 +1,31 @@
+{
+    "name": "Barbados",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Barbados/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Barbados/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Barbados/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Barbados/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Barbados/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Barbados/Embassy contact.md"
+        }
+    ],
+    "update_date": "2024-07-04T00:00:00"
+}

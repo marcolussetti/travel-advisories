@@ -1,0 +1,31 @@
+{
+    "name": "Cyprus",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Cyprus/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Cyprus/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Cyprus/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Cyprus/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Cyprus/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Cyprus/Embassy contact.md"
+        }
+    ],
+    "update_date": "2024-02-21T00:00:00"
+}

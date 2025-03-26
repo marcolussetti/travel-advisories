@@ -1,0 +1,31 @@
+{
+    "name": "Maldives",
+    "risk_level": "High Degree of Caution",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Maldives/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Maldives/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Maldives/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/Maldives/Natural disasters and climate.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Maldives/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Maldives/Embassy contact.md"
+        }
+    ],
+    "update_date": "2023-11-16T00:00:00"
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Afghanistan",
+    "risk_level": "Do Not Travel",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Afghanistan/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Afghanistan/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Afghanistan/Local laws and customs.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Afghanistan/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Afghanistan/Embassy contact.md"
+        }
+    ],
+    "update_date": "2024-02-20T00:00:00"
+}

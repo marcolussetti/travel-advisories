@@ -1,0 +1,31 @@
+{
+    "name": "Saudi Arabia",
+    "risk_level": "High Degree of Caution",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Saudi Arabia/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Saudi Arabia/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Saudi Arabia/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/Saudi Arabia/Natural disasters and climate.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Saudi Arabia/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Saudi Arabia/Embassy contact.md"
+        }
+    ],
+    "update_date": "2025-01-22T00:00:00"
+}

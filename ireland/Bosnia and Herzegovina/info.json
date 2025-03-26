@@ -1,0 +1,31 @@
+{
+    "name": "Bosnia and Herzegovina",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Bosnia and Herzegovina/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Bosnia and Herzegovina/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Bosnia and Herzegovina/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Bosnia and Herzegovina/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Bosnia and Herzegovina/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Bosnia and Herzegovina/Embassy contact.md"
+        }
+    ],
+    "update_date": "2024-10-11T00:00:00"
+}

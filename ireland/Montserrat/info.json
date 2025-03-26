@@ -1,0 +1,31 @@
+{
+    "name": "Montserrat",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Montserrat/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Montserrat/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Montserrat/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Montserrat/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Montserrat/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Montserrat/Embassy contact.md"
+        }
+    ],
+    "update_date": "2023-11-23T00:00:00"
+}

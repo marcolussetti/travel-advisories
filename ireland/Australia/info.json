@@ -1,0 +1,31 @@
+{
+    "name": "Australia",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Travel to Australia Overview",
+            "file": "ireland/Australia/Travel to Australia Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Australia/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Australia/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/Australia/Natural disasters and climate.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Australia/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Australia/Embassy contact.md"
+        }
+    ],
+    "update_date": "2025-03-12T00:00:00"
+}

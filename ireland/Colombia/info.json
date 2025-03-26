@@ -1,0 +1,31 @@
+{
+    "name": "Colombia",
+    "risk_level": "High Degree of Caution",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Colombia/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Colombia/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Colombia/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/Colombia/Natural disasters and climate.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Colombia/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Colombia/Embassy contact.md"
+        }
+    ],
+    "update_date": "2024-11-12T00:00:00"
+}

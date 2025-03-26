@@ -1,0 +1,31 @@
+{
+    "name": "Federated States of Micronesia",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Federated States of Micronesia/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Federated States of Micronesia/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Federated States of Micronesia/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Federated States of Micronesia/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Federated States of Micronesia/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Federated States of Micronesia/Embassy contact.md"
+        }
+    ],
+    "update_date": "2023-11-20T00:00:00"
+}

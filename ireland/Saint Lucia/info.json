@@ -1,0 +1,31 @@
+{
+    "name": "Saint Lucia",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Saint Lucia/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Saint Lucia/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Saint Lucia/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Saint Lucia/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Saint Lucia/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Saint Lucia/Embassy contact.md"
+        }
+    ],
+    "update_date": "2024-08-14T00:00:00"
+}

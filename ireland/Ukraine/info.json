@@ -1,0 +1,31 @@
+{
+    "name": "Ukraine",
+    "risk_level": "Do Not Travel",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Ukraine/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Ukraine/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Ukraine/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Ukraine/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Ukraine/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Ukraine/Embassy contact.md"
+        }
+    ],
+    "update_date": "2024-12-04T00:00:00"
+}

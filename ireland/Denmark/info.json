@@ -1,0 +1,27 @@
+{
+    "name": "Denmark",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Denmark/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Denmark/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Denmark/Local laws and customs.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Denmark/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Denmark/Embassy contact.md"
+        }
+    ],
+    "update_date": "2025-03-20T00:00:00"
+}

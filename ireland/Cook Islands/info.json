@@ -1,0 +1,31 @@
+{
+    "name": "Cook Islands",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Cook Islands/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Cook Islands/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Cook Islands/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Cook Islands/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Cook Islands/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Cook Islands/Embassy contact.md"
+        }
+    ],
+    "update_date": "2023-11-17T00:00:00"
+}

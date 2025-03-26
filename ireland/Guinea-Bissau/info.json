@@ -1,0 +1,31 @@
+{
+    "name": "Guinea-Bissau",
+    "risk_level": "High Degree of Caution",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Guinea-Bissau/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Guinea-Bissau/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Guinea-Bissau/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Guinea-Bissau/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Guinea-Bissau/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Guinea-Bissau/Embassy contact.md"
+        }
+    ],
+    "update_date": "2024-02-28T00:00:00"
+}

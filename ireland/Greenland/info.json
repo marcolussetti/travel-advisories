@@ -1,0 +1,31 @@
+{
+    "name": "Greenland",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Greenland/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Greenland/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Greenland/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Greenland/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Greenland/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Greenland/Embassy contact.md"
+        }
+    ],
+    "update_date": "2023-11-20T00:00:00"
+}

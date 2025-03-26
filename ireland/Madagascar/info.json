@@ -1,0 +1,31 @@
+{
+    "name": "Madagascar",
+    "risk_level": "High Degree of Caution",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Madagascar/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Madagascar/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Madagascar/Health.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Madagascar/Local laws and customs.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Madagascar/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Madagascar/Embassy contact.md"
+        }
+    ],
+    "update_date": "2023-11-23T00:00:00"
+}

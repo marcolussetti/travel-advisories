@@ -1,0 +1,31 @@
+{
+    "name": "Sierra Leone",
+    "risk_level": "High Degree of Caution",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Sierra Leone/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Sierra Leone/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Sierra Leone/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Sierra Leone/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Sierra Leone/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Sierra Leone/Embassy contact.md"
+        }
+    ],
+    "update_date": "2025-03-11T00:00:00"
+}

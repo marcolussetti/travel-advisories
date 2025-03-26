@@ -1,0 +1,31 @@
+{
+    "name": "Vietnam",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Travel to Vietnam Overview",
+            "file": "ireland/Vietnam/Travel to Vietnam Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Vietnam/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Vietnam/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/Vietnam/Natural disasters and climate.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Vietnam/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Vietnam/Embassy contact.md"
+        }
+    ],
+    "update_date": "2025-03-10T00:00:00"
+}

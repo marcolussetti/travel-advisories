@@ -1,0 +1,31 @@
+{
+    "name": "Dominican Republic",
+    "risk_level": "High Degree of Caution",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Dominican Republic/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Dominican Republic/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Dominican Republic/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Dominican Republic/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Dominican Republic/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Dominican Republic/Embassy contact.md"
+        }
+    ],
+    "update_date": "2024-02-07T00:00:00"
+}

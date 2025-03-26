@@ -1,0 +1,31 @@
+{
+    "name": "Indonesia",
+    "risk_level": "High Degree of Caution",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Indonesia/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Indonesia/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Indonesia/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/Indonesia/Natural disasters and climate.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Indonesia/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Indonesia/Embassy contact.md"
+        }
+    ],
+    "update_date": "2025-03-04T00:00:00"
+}

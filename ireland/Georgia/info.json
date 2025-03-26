@@ -1,0 +1,31 @@
+{
+    "name": "Georgia",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Georgia/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Georgia/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Georgia/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Georgia/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Georgia/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Georgia/Embassy contact.md"
+        }
+    ],
+    "update_date": "2025-03-20T00:00:00"
+}

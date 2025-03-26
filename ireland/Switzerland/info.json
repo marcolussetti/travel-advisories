@@ -1,0 +1,31 @@
+{
+    "name": "Switzerland",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Switzerland/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Switzerland/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Switzerland/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Switzerland/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Switzerland/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Switzerland/Embassy contact.md"
+        }
+    ],
+    "update_date": "2023-11-20T00:00:00"
+}

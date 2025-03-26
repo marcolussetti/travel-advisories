@@ -1,0 +1,27 @@
+{
+    "name": "Cuba",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Cuba/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Cuba/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Cuba/Local laws and customs.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Cuba/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Cuba/Embassy contact.md"
+        }
+    ],
+    "update_date": "2025-02-12T00:00:00"
+}

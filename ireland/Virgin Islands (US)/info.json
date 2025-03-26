@@ -1,0 +1,31 @@
+{
+    "name": "Virgin Islands (US)",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Virgin Islands (US)/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Virgin Islands (US)/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Virgin Islands (US)/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Virgin Islands (US)/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Virgin Islands (US)/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Virgin Islands (US)/Embassy contact.md"
+        }
+    ],
+    "update_date": "2023-11-23T00:00:00"
+}

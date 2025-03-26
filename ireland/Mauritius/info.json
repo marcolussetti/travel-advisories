@@ -1,0 +1,31 @@
+{
+    "name": "Mauritius",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Mauritius/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Mauritius/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Mauritius/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Mauritius/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Mauritius/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Mauritius/Embassy contact.md"
+        }
+    ],
+    "update_date": "2024-02-27T00:00:00"
+}

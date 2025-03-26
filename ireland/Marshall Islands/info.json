@@ -1,0 +1,31 @@
+{
+    "name": "Marshall Islands",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Marshall Islands/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Marshall Islands/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Marshall Islands/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/Marshall Islands/Natural disasters and climate.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Marshall Islands/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Marshall Islands/Embassy contact.md"
+        }
+    ],
+    "update_date": "2023-11-21T00:00:00"
+}

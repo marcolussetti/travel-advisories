@@ -1,0 +1,31 @@
+{
+    "name": "Kosovo",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Kosovo/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Kosovo/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Kosovo/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Kosovo/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Kosovo/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Kosovo/Embassy contact.md"
+        }
+    ],
+    "update_date": "2023-11-17T00:00:00"
+}

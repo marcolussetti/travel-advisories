@@ -1,0 +1,38 @@
+## Overview
+
+### **Security status**
+
+High Degree of Caution
+
+### **General Travel Advice**
+
+Irish citizens require a visa to enter Oman.
+
+A valid passport is required for travel to Oman. Irish passports should have a minimum validity of 6 months. Passport cards cannot be used.
+
+For more information on visas and passports, please see the Additional Information tab.
+
+Visitors to Oman are advised to follow the guidance of national and local authorities and stay fully informed of what's going on by monitoring local news and social media.
+
+Oman does not recognise dual nationality. If you hold both Irish and Oman nationalities and this becomes known to the Omani authorities, they may confiscate your Omani or Irish passport.
+
+### **Risk of Piracy**
+
+Due to the ongoing risk of piracy, we advise against all but essential travel by yacht and leisure craft on the high seas (more than 12 nautical miles from the shore) in the Gulf of Aden, Arabian Sea and part of the Indian Ocean bounded by the following latitude and longitude: 15°N in the Red Sea, 23° N in the Arabian Sea, 78° E and 15°S in the Indian Ocean.
+
+Citizens can also follow the Irish Embassy in Saudi Arabia on Twitter[**@IrishEmbRiyadh**](https://twitter.com/irishembriyadh) to ensure access to relevant updates and alerts.
+
+### **Emergency Assistance**
+
+The best help is often close at hand so if you have problems, try talking to your local contacts, tour operator representative or hotel management.
+
+You can contact the emergency services in Oman by dialling 9999.
+
+### **Our tips for Safe Travels:**
+
+* Get comprehensive travel insurance that covers all your planned activities.
+* [**Register**](/en/dfa/overseas-travel/citizens-registration/) your details with us so that we can contact you quickly if there’s an unforeseen crisis like a natural disaster or a family emergency.
+* Follow us on twitter [**@dfatravelwise**](https://www.twitter.com/DFATravelWise) for the latest travel updates.
+* Read our [**‘Know Before You Go’**](/en/dfa/overseas-travel/know-before-you-go/) guide.
+
+As there is no Irish Embassy in Oman, we are limited in the help we can offer you in an emergency. However, if you need assistance, you can contact the **Irish Embassy in** [**Riyadh**](/en/saudiarabia/riyadh/).

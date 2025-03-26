@@ -1,0 +1,27 @@
+{
+    "name": "Yemen",
+    "risk_level": "Do Not Travel",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Yemen/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Yemen/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Yemen/Local laws and customs.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Yemen/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Yemen/Embassy contact.md"
+        }
+    ],
+    "update_date": "2023-11-24T00:00:00"
+}

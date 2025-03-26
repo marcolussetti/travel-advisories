@@ -1,0 +1,35 @@
+{
+    "name": "Peru",
+    "risk_level": "High Degree of Caution",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Peru/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Peru/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Peru/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/Peru/Natural disasters and climate.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Peru/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Peru/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Peru/Embassy contact.md"
+        }
+    ],
+    "update_date": "2025-02-12T00:00:00"
+}

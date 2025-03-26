@@ -1,0 +1,27 @@
+{
+    "name": "Morocco",
+    "risk_level": "High Degree of Caution",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Morocco/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Morocco/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Morocco/Local laws and customs.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Morocco/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Morocco/Embassy contact.md"
+        }
+    ],
+    "update_date": "2024-02-23T00:00:00"
+}

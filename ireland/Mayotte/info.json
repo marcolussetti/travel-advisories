@@ -1,0 +1,31 @@
+{
+    "name": "Mayotte",
+    "risk_level": "High Degree of Caution",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Mayotte/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Mayotte/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Mayotte/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Mayotte/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Mayotte/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Mayotte/Embassy contact.md"
+        }
+    ],
+    "update_date": "2023-11-23T00:00:00"
+}

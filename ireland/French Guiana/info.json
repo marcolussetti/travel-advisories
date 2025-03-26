@@ -1,0 +1,31 @@
+{
+    "name": "French Guiana",
+    "risk_level": "High Degree of Caution",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/French Guiana/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/French Guiana/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/French Guiana/Local laws and customs.md"
+        },
+        {
+            "title": "Natural Disasters and Climate",
+            "file": "ireland/French Guiana/Natural Disasters and Climate.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/French Guiana/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/French Guiana/Embassy contact.md"
+        }
+    ],
+    "update_date": "2023-11-20T00:00:00"
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Malaysia",
+    "risk_level": "High Degree of Caution",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Malaysia/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Malaysia/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Malaysia/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/Malaysia/Natural disasters and climate.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Malaysia/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Malaysia/Embassy contact.md"
+        }
+    ],
+    "update_date": "2024-05-21T00:00:00"
+}

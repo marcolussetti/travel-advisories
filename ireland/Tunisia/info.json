@@ -1,0 +1,31 @@
+{
+    "name": "Tunisia",
+    "risk_level": "High Degree of Caution",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Tunisia/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Tunisia/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Tunisia/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/Tunisia/Natural disasters and climate.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Tunisia/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Tunisia/Embassy contact.md"
+        }
+    ],
+    "update_date": "2023-11-23T00:00:00"
+}

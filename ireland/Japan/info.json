@@ -1,0 +1,31 @@
+{
+    "name": "Japan",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Japan/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Japan/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Japan/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/Japan/Natural disasters and climate.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Japan/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Japan/Embassy contact.md"
+        }
+    ],
+    "update_date": "2024-09-10T00:00:00"
+}

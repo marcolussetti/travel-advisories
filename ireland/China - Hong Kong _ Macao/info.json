@@ -1,0 +1,31 @@
+{
+    "name": "China - Hong Kong / Macao",
+    "risk_level": "High Degree of Caution",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/China - Hong Kong _ Macao/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/China - Hong Kong _ Macao/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/China - Hong Kong _ Macao/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/China - Hong Kong _ Macao/Natural disasters and climate.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/China - Hong Kong _ Macao/Additional information.md"
+        },
+        {
+            "title": "Consulate contact",
+            "file": "ireland/China - Hong Kong _ Macao/Consulate contact.md"
+        }
+    ],
+    "update_date": "2024-03-27T00:00:00"
+}

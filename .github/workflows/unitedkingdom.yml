@@ -21,7 +21,6 @@
               pip install -r code/requirements.txt
           - name: Parse United Kingdom travel advisories
             run: python3 code/unitedkingdom.py
-    
           - name: Check for changes and commit
             run: |-
               git config user.name "Travel Advisories Bot for United Kingdom"

@@ -1,0 +1,31 @@
+{
+    "name": "Sweden",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Sweden/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Sweden/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Sweden/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Sweden/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Sweden/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Sweden/Embassy contact.md"
+        }
+    ],
+    "update_date": "2023-11-20T00:00:00"
+}

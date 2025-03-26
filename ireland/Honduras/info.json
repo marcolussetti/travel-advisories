@@ -1,0 +1,31 @@
+{
+    "name": "Honduras",
+    "risk_level": "High Degree of Caution",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Honduras/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Honduras/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Honduras/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Honduras/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Honduras/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Honduras/Embassy contact.md"
+        }
+    ],
+    "update_date": "2025-02-12T00:00:00"
+}

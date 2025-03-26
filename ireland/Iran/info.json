@@ -1,0 +1,31 @@
+{
+    "name": "Iran",
+    "risk_level": "Do Not Travel",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Iran/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Iran/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Iran/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/Iran/Natural disasters and climate.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Iran/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Iran/Embassy contact.md"
+        }
+    ],
+    "update_date": "2025-02-11T00:00:00"
+}

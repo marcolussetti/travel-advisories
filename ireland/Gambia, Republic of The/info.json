@@ -1,0 +1,31 @@
+{
+    "name": "Gambia, Republic of The",
+    "risk_level": "High Degree of Caution",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Gambia, Republic of The/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Gambia, Republic of The/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Gambia, Republic of The/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Gambia, Republic of The/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Gambia, Republic of The/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Gambia, Republic of The/Embassy contact.md"
+        }
+    ],
+    "update_date": "2024-12-10T00:00:00"
+}

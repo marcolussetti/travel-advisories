@@ -1,0 +1,31 @@
+{
+    "name": "Liechtenstein",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Liechtenstein/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Liechtenstein/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Liechtenstein/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Liechtenstein/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Liechtenstein/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Liechtenstein/Embassy contact.md"
+        }
+    ],
+    "update_date": "2024-02-22T00:00:00"
+}

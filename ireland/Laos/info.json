@@ -1,0 +1,31 @@
+{
+    "name": "Laos",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Laos/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Laos/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Laos/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/Laos/Natural disasters and climate.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Laos/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Laos/Embassy contact.md"
+        }
+    ],
+    "update_date": "2025-01-16T00:00:00"
+}

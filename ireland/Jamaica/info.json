@@ -1,0 +1,31 @@
+{
+    "name": "Jamaica",
+    "risk_level": "High Degree of Caution",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Jamaica/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Jamaica/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Jamaica/Health.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Jamaica/Local laws and customs.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Jamaica/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Jamaica/Embassy contact.md"
+        }
+    ],
+    "update_date": "2025-02-28T00:00:00"
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Spain",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Spain/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Spain/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Spain/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Spain/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Spain/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Spain/Embassy contact.md"
+        }
+    ],
+    "update_date": "2024-11-26T00:00:00"
+}

@@ -1,0 +1,31 @@
+{
+    "name": "South Sudan",
+    "risk_level": "Do Not Travel",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/South Sudan/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/South Sudan/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/South Sudan/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/South Sudan/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/South Sudan/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/South Sudan/Embassy contact.md"
+        }
+    ],
+    "update_date": "2025-03-24T00:00:00"
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Bermuda",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Bermuda/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Bermuda/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Bermuda/Local laws and customs.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Bermuda/Health.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Bermuda/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Bermuda/Embassy contact.md"
+        }
+    ],
+    "update_date": "2024-02-29T00:00:00"
+}

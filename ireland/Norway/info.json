@@ -1,0 +1,31 @@
+{
+    "name": "Norway",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Norway/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Norway/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Norway/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/Norway/Natural disasters and climate.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Norway/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Norway/Embassy contact.md"
+        }
+    ],
+    "update_date": "2024-11-15T00:00:00"
+}

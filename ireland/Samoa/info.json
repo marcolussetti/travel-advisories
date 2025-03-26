@@ -1,0 +1,27 @@
+{
+    "name": "Samoa",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Samoa/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Samoa/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Samoa/Local laws and customs.md"
+        },
+        {
+            "title": "Additional information",
+            "file": "ireland/Samoa/Additional information.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Samoa/Embassy contact.md"
+        }
+    ],
+    "update_date": "2023-11-22T00:00:00"
+}

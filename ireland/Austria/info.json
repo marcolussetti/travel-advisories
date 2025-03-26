@@ -1,0 +1,31 @@
+{
+    "name": "Austria",
+    "risk_level": "Normal Precautions",
+    "pages": [
+        {
+            "title": "Overview",
+            "file": "ireland/Austria/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Austria/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Austria/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/Austria/Natural disasters and climate.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Austria/Health.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Austria/Embassy contact.md"
+        }
+    ],
+    "update_date": "2024-11-26T00:00:00"
+}
