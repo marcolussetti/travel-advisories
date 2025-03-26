@@ -1,5 +1,5 @@
 ---
-    name: Fetch latest travel-advisories data
+    name: canada - fetch latest travel-advisories data
     on:
       schedule:
         - cron: "2 7 * * *"
