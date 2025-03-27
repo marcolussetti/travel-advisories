@@ -28,9 +28,7 @@ Most visits to Tanzania are trouble-free but armed crime is increasing so take s
 * If carrying a bag when walking it is safer to hold it loosely by the handle or hanging off your shoulder rather than by securing the strap across your chest
 * Avoid dark and unlit streets and stairways, arrange to be picked up or dropped off as close to your hotel or apartment entrance as possible
 * Be alert to the risk of thefts of personal property from cars and taxis stationary in traffic. If attacked or if someone grabs your bag, do not resist
-* Citizens may wish to be guided by advice to [female travellers and guidance for LGBT travellers under the Local Norms and Customs tab.](https://www.ireland.ie/en/dfa/overseas-travel/know-before-you-go/female-travellers/#:~:text=It%20is%20advisable%20for%20women,other%20tourists%2C%20in%20these%20destinations.)
-
-### **Petty and violent crime**
+* Citizens may wish to be guided by our Know Before You Go advice to for [**Female Travellers**](https://www.ireland.ie/en/dfa/overseas-travel/know-before-you-go/female-travellers/) and [**LGBTQI+ Travellers**](https://www.ireland.ie/en/dfa/overseas-travel/know-before-you-go/lgbtqi/).
 
 Muggings, bag grabs from passing cars, and robberies including forced ATM withdrawals, sometimes accompanied by violence or the threat of violence, have increased throughout Tanzania and Zanzibar, especially in areas frequented by backpackers and expatriates.
 

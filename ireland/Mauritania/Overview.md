@@ -8,11 +8,13 @@ Avoid non-essential travel.
 
 The Department of Foreign Affairs advises against non-essential travel to Mauritania at this time due to security concerns.
 
-Irish citizens require a visa to enter Mauritania.
-
 A valid passport is required for travel to Mauritania. Passport cards cannot be used.
 
-For more information on visas and passports, please see the Additional Information tab.
+Irish citizens require a visa to enter Mauritania and effective from 5 January 2025, it is no longer possible to obtain a visa on arrival in Mauritania. You should apply before you travel for an online [e-visa](https://anrpts.gov.mr/visa/requestvisa) through the website of the Mauritanian National Agency for the Population Register and Secure Titles (Agence Nationale du Registre des Populations et des Titres Sécurisés), who can be contacted via email (contact@anrpts.gov.mr) if you encounter any technical difficulties with your application.
+
+You should apply for an e-visa well in advance of your travel date to ensure that it is issued on time by the Mauritanian authorities.
+
+E-visa fees must be paid on arrival in Mauritania in Euros or US Dollars. For information on visa lengths and fees, read guidance on the [Mauritanian government’s website](https://www.diplomatie.gov.mr/fr/node/50). Change and receipts are not issued
 
 Visitors to Mauritania are advised to follow the guidance of national and local authorities and stay fully informed of what is going on by monitoring local news and social media.
 
@@ -29,10 +31,8 @@ Visitors can contact the emergency services in Mauritania by dialling 117. Speci
 ### **Our tips for Safe Travels:**
 
 * Get comprehensive travel insurance that covers all planned activities.
-* [**Register**](/en/dfa/overseas-travel/citizens-registration/) your details with us so that we can contact you quickly if there is an unforeseen crisis like a natural disaster or a family emergency.
-* Follow us on twitter [**@dfatravelwise**](https://www.twitter.com/DFATravelWise) for the latest travel updates.
-* Read our [**‘Know Before You Go’**](/en/dfa/overseas-travel/know-before-you-go/) guide.
+* [**Register**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/) your details with us so that we can contact you quickly if there is an unforeseen crisis like a natural disaster or a family emergency.
+* Follow us on X [**@dfatravelwise**](https://www.twitter.com/DFATravelWise) and Instagram [**@dfatravelwise**](https://www.instagram.com/dfatravelwise/) for the latest travel updates.
+* Read our [**‘Know Before You Go’**](https://www.ireland.ie/en/dfa/overseas-travel/know-before-you-go/) guide.
 
-**In countries where Ireland does not have an Embassy:**
-
-As there is no Irish Embassy in Mauritania, we are limited in the help we can offer in an emergency. However, if you need assistance, you can contact the [**Irish Embassy in Rabat, Morocco**](/en/morocco/rabat/)**.**
+As there is no Irish Embassy in Mauritania, we are limited in the help we can offer in an emergency. However, if you need assistance, you can contact the [**Irish Embassy in Rabat, Morocco**](https://www.ireland.ie/en/morocco/rabat/)**.**

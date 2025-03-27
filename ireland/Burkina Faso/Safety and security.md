@@ -4,7 +4,7 @@ The political and security situation in Burkina Faso remains unstable and volati
 
 There is an underlying threat from terrorism. There is a credible risk that terrorist groups based inside and outside the country may carry out attacks, such as shootings, bombings, and kidnappings. Attacks could be indiscriminate, and may target places where foreigners gather, such as diplomatic premises, conference centres, tourist sites, shopping centres, transport hubs, religious site, hotels and restaurants in the capital.
 
-There are frequent attacks across Burkina Faso, particularly close to the borders with Mali, Niger and Côte d’Ivoire and in the eastern region. Examples of such attacks include in 26 April 2021, an Irish citizen and two Spanish citizens were killed in an ambush while travelling between Fada-N’Gourma and Pama. In June 2021, 160 people were killed in an attack on Solhan in north-eastern Burkina Faso. Further attacks are possible.
+There are frequent attacks across Burkina Faso, particularly close to the borders with Mali, Niger and Côte d’Ivoire and in the eastern region. Examples of such attacks include in 26 April 2021, an Irish citizen and two Spanish citizens were killed in an ambush while travelling between Fada-N’Gourma and Pama. Further attacks are possible.
 
 There may be a heightened risk of attack during festivals, and religious and public holiday periods. Stay aware of your surroundings, keep up to date with local media reports and follow the advice of the local authorities.
 
