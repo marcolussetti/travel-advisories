@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   27 March 2025
 
 Updated:
-:   25 March 2025
+:   26 March 2025
 
 Latest update:
-:   Updated information on the political and security situation, and updated advice to British nationals in South Sudan ('Warnings and insurance' and ‘Safety and security’ pages).
+:   Updated information on the British Embassy Juba ('Warnings and insurance').
 
 ![](https://assets.publishing.service.gov.uk/media/5f4f33bfe90e071c6c7d9425/FCDO__TA__036_-_South_Sudan_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -29,6 +29,8 @@ The political and security situation remains unpredictable. Political tensions a
 If the unstable security situation deteriorates, routes into and out of South Sudan may be blocked. Juba airport may close or be inaccessible. Flights may be cancelled at short notice.
 
 Regional developments may also affect international transport. For example, in 2019 and 2023, events in Sudan caused South Sudan’s airspace to close temporarily.
+
+As of 26 March, the number of British embassy staff in Juba has been temporarily reduced due to the risk of increased insecurity. The embassy remains open in order to carry out essential work but consular assistance to British nationals is severely limited in South Sudan. In person consular assistance is not available.
 
 ## If you are in South Sudan
 

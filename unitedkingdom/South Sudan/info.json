@@ -1,11 +1,11 @@
 {
     "name": "South Sudan",
-    "update_reason": "Updated information on the political and security situation, and updated advice to British nationals in South Sudan ('Warnings and insurance' and \u2018Safety and security\u2019 pages).",
+    "update_reason": "Updated information on the British Embassy Juba ('Warnings and insurance').",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/South Sudan/Warnings and insurance.md",
-            "update_date": "2025-03-25T16:35:44+00:00"
+            "update_date": "2025-03-26T18:54:13+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/South Sudan/Getting help.md"
         }
     ],
-    "update_date": "2025-03-25T16:35:44+00:00"
+    "update_date": "2025-03-26T18:54:13+00:00"
 }
