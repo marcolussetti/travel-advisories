@@ -1,0 +1,13 @@
+{
+    "name": "The Kyrgyz Republic",
+    "risk_level": "Level 1: Exercise Normal Precautions",
+    "risk_level_number": 1,
+    "pages": [
+        {
+            "title": "Advisory",
+            "file": "unitedstates/The Kyrgyz Republic/Advisory.md"
+        }
+    ],
+    "update_date_advisory": "2024-03-08T00:00:00",
+    "update_date_details": null
+}

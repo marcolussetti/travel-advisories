@@ -1,0 +1,27 @@
+# Travel and Transportation
+
+[#### Travel and Transportation](javascript:void(0); "Travel and Transportation")
+
+**Road Conditions and Safety:**Road conditions in Guyana differ significantly from those in the United States. Main roads are generally marked, though they often have potholes. Secondary rural roads tend to be narrow, are sometimes inadequately marked, and have potholes. Exercise caution when driving in Guyana and avoid driving after dark. Road accidents are common and sometimes severe. Drivers, especially those who drive public transportation, can be erratic and display disregard for road safety laws.
+
+If an accident occurs, call 911 for the police and 913 for an ambulance. These numbers may not always be operational, that the police may be slow to respond. An ambulance may not always be available.
+
+For more information about traveling in Guyana, visit the [Guyana Tourism Authority website](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Guyana.html#ExternalPopup).
+
+**Tourism Safety:** All travelers visiting Guyana should use only Guyana Tourism Authority approved tour companies and ensure any sub-contracted company or guide is also approved by the Guyana Tourism Authority.  A list of approved operators is published on the website of Ministry of Tourism, Industry, and Commerce at [Approved Tour Operators – MINTIC](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmintic.gov.gy%2Fapproved-tour-operators%2F&data=05%7C01%7CKendrickDA%40state.gov%7C43eb941d0fa949a842c008dad6beab4d%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C638058411655661958%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=XxI9Hd7XtKW%2FzwTVPrVqBcRg9lSioP%2B6U%2Fs2jwu8x00%3D&reserved=0). Travelers should be diligent and closely follow the safety protocols administered by the tour operators and take reasonable steps to protect safety.  We highly recommend travelers wear a personal flotation device that meets U.S. Coast Guard standards and carry appropriate  communication equipment when engaging in water activities (link: [https://www.nrs.com/learn/is-your-life-jacket-safe](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.nrs.com%2Flearn%2Fis-your-life-jacket-safe&data=05%7C01%7CKendrickDA%40state.gov%7C43eb941d0fa949a842c008dad6beab4d%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C638058411655661958%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=4APL23TvHil5DCyTrV8e2xuXKZhnE3jOBBV7uE96N9I%3D&reserved=0)).  U.S. embassy personnel are required to use only tour companies approved by the Guyana Tourism Authority and to follow their administered safety protocols.
+
+**Travel in the Interior:** The interior of Guyana is under-policed, emergency services are generally not available, and there is no cellular phone reception in many places. Dirt roads in the interior may be impassable during the rainy season. Travelers visiting the interior should consider bringing their own safety gear, such as life jackets, first aid kits, and communications equipment (e.g., a satellite phone).
+
+**Traffic Laws:**The use of seatbelts is required by law. There are no laws concerning the use of child car seats. Anyone on a motorcycle must wear a protective helmet. Talking on the cellular telephone while driving without using a hands-free set is illegal.
+
+**Public Transportation:**  Small buses, called “mini-busses” are privately owned, often crowded and tend to travel at excessive speeds. Avoid privately owned minibuses, as drivers frequently drive erratically. Taxis are generally safer to use. Use taxis that are connected to major hotels or that are painted yellow, which indicates they are registered with the Guyana Taxi Association.
+
+See our [Road Safety page](https://travel.state.gov/content/travel/en/international-travel/before-you-go/driving-and-road-safety.html) for more information. The entity responsible for road safety in Guyana is within the [Guyana Police Force](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Guyana.html#ExternalPopup). They can be reached at (+592) 227-2349.
+
+Private roadside assistance is available through local Guyanese insurance companies. For travel outside of Georgetown, roadside assistance may be delayed or unavailable.
+
+**Aviation Safety Oversight:**As there is no direct commercial air service to the United States by carriers registered in Guyana, the U.S. Federal Aviation Administration (FAA) has not assessed the government of Guyana’s Civil Aviation Authority for compliance with International Civil Aviation Organization (ICAO) aviation safety standards. Further information may be found on the [FAA’s safety assessment page](http://www.faa.gov/about/initiatives/iasa/).
+
+Airlines typically operate based on demand and can therefore delay, reroute, or cancel flights without notice. U.S. citizens should carry medication, valuables, and perishables in carry-on luggage.
+
+**Maritime Travel:** Mariners planning travel to Guyana should also check for U.S. maritime [advisories](https://www.maritime.dot.gov/msci-advisories) and [alerts](https://www.maritime.dot.gov/msci-alerts). Information may also be posted to the  [U.S. Coast Guard homeport website](https://homeport.uscg.mil/), and the [NGA broadcast warnings](https://msi.nga.mil/NavWarnings).

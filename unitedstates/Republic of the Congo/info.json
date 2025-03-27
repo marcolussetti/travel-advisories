@@ -1,0 +1,49 @@
+{
+    "name": "Republic of the Congo",
+    "risk_level": "Level 2: Exercise Increased Caution",
+    "risk_level_number": 2,
+    "pages": [
+        {
+            "title": "Quick Facts",
+            "file": "unitedstates/Republic of the Congo/Quick Facts.md"
+        },
+        {
+            "title": "Embassies and Consulates",
+            "file": "unitedstates/Republic of the Congo/Embassies and Consulates.md"
+        },
+        {
+            "title": "Destination Description",
+            "file": "unitedstates/Republic of the Congo/Destination Description.md"
+        },
+        {
+            "title": "Entry, Exit and Visa Requirements",
+            "file": "unitedstates/Republic of the Congo/Entry, Exit and Visa Requirements.md"
+        },
+        {
+            "title": "Safety and Security",
+            "file": "unitedstates/Republic of the Congo/Safety and Security.md"
+        },
+        {
+            "title": "Local Laws & Special Circumstances",
+            "file": "unitedstates/Republic of the Congo/Local Laws & Special Circumstances.md"
+        },
+        {
+            "title": "Health",
+            "file": "unitedstates/Republic of the Congo/Health.md"
+        },
+        {
+            "title": "Travel and Transportation",
+            "file": "unitedstates/Republic of the Congo/Travel and Transportation.md"
+        },
+        {
+            "title": "Fact Sheet",
+            "file": "unitedstates/Republic of the Congo/Fact Sheet.md"
+        },
+        {
+            "title": "Advisory",
+            "file": "unitedstates/Republic of the Congo/Advisory.md"
+        }
+    ],
+    "update_date_advisory": "2024-10-02T00:00:00",
+    "update_date_details": "2023-06-19T00:00:00"
+}

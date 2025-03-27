@@ -1,0 +1,18 @@
+# Entry, Exit and Visa Requirements
+
+[#### Entry, Exit and Visa Requirements](javascript:void(0); "Entry, Exit and Visa Requirements")
+
+Your passport must be in good condition and valid for the period of your stay. You do not need a visa for a tourist or business stay of 90 days or fewer (if traveling on a tourist passport). Upon arrival, you will receive a Tourist Card (Tarjeta de Turismo) valid for up to 90 days, which you can extend for another 90-day period by paying $100 US at the [Chilean Immigration Office](https://serviciomigraciones.cl/). You must return the Tourist Card upon departure. Failure to return it may delay your departure from Chile. If the Tourist Card is lost or stolen, you must replace it at an [International Police Office](https://www.pdichile.cl/instituci%C3%B3n/unidades/migraciones) or at the airport before leaving. You will face a fine if you remain longer than allowed, and you will not be able to leave Chile until the fine is paid. If applicable, pay the fine before your departure by going to the [Chilean Immigration Office](https://www.pdichile.cl/instituci%C3%B3n/unidades/migraciones) or you may face significant delays.
+
+**Travel on Diplomatic or Official Passports:** **U.S. citizens traveling to or through Chile on diplomatic or official passports are required to obtain a visa before travel.**
+
+**Entry / Exit Requirements for Dual Nationals:** Dual nationals must enter and exit Chile using their Chilean passports, and they must enter and exit the United States using their U.S. passports.
+
+**Entry / Exit Requirements for Minors (under 18):** Parents traveling with a minor must show evidence of their relationship to the child when entering or departing the country. Carry an original apostilled birth certificate.
+
+Minors departing Chile must submit to Chilean airport officials an original notarized authorization from any non-traveling parent(s), a photocopy of the authorization, and an original apostilled birth certificate at the time of departure. For non-traveling parent(s) in Chile, the notarization can be done by a local Chilean notary public. For non-traveling parent(s) in the United States, the notarization can be done at the [Chilean Embassy or a Chilean Consulate](https://www.chile.gob.cl/en/chile). If a U.S. notary executes the authorization, it must be [apostilled](https://travel.state.gov/content/travel/en/legal/travel-legal-considerations/internl-judicial-asst/authentications-and-apostilles/apostille-requirements.html) to be valid in Chile. An apostille should be obtained well in advance of travel as the process is lengthy.
+
+* The [Chilean Ministry of Foreign Affairs](https://serviciosconsulares.cl/) provides more information on entry and exit requirements for children.
+* Visit the [Embassy of Chile](https://www.chile.gob.cl/estados-unidos/) website for the most current visa information.
+* The U.S. Department of State is unaware of any HIV/AIDS entry restrictions for visitors to or foreign residents of Chile.
+* Find information on [dual nationality](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/Dual-Nationality-Travelers.html "http://travel.state.gov/travel/cis_pa_tw/cis/cis_1753.html"), [prevention of international child abduction](https://travel.state.gov/content/travel/en/International-Parental-Child-Abduction/prevention.html "http://travel.state.gov/abduction/prevention/prevention_560.html") and [customs regulations](https://travel.state.gov/content/travel/en/international-travel/before-you-go/customs-and-import.html) on our websites.

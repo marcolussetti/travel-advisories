@@ -1,0 +1,49 @@
+{
+    "name": "Bolivia",
+    "risk_level": "Level 2: Exercise Increased Caution",
+    "risk_level_number": 2,
+    "pages": [
+        {
+            "title": "Quick Facts",
+            "file": "unitedstates/Bolivia/Quick Facts.md"
+        },
+        {
+            "title": "Embassies and Consulates",
+            "file": "unitedstates/Bolivia/Embassies and Consulates.md"
+        },
+        {
+            "title": "Destination Description",
+            "file": "unitedstates/Bolivia/Destination Description.md"
+        },
+        {
+            "title": "Entry, Exit and Visa Requirements",
+            "file": "unitedstates/Bolivia/Entry, Exit and Visa Requirements.md"
+        },
+        {
+            "title": "Safety and Security",
+            "file": "unitedstates/Bolivia/Safety and Security.md"
+        },
+        {
+            "title": "Local Laws & Special Circumstances",
+            "file": "unitedstates/Bolivia/Local Laws & Special Circumstances.md"
+        },
+        {
+            "title": "Health",
+            "file": "unitedstates/Bolivia/Health.md"
+        },
+        {
+            "title": "Travel and Transportation",
+            "file": "unitedstates/Bolivia/Travel and Transportation.md"
+        },
+        {
+            "title": "Fact Sheet",
+            "file": "unitedstates/Bolivia/Fact Sheet.md"
+        },
+        {
+            "title": "Advisory",
+            "file": "unitedstates/Bolivia/Advisory.md"
+        }
+    ],
+    "update_date_advisory": "2024-06-06T00:00:00",
+    "update_date_details": "2025-01-21T00:00:00"
+}

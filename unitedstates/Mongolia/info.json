@@ -1,0 +1,49 @@
+{
+    "name": "Mongolia",
+    "risk_level": "Level 1: Exercise Normal Precautions",
+    "risk_level_number": 1,
+    "pages": [
+        {
+            "title": "Quick Facts",
+            "file": "unitedstates/Mongolia/Quick Facts.md"
+        },
+        {
+            "title": "Embassies and Consulates",
+            "file": "unitedstates/Mongolia/Embassies and Consulates.md"
+        },
+        {
+            "title": "Destination Description",
+            "file": "unitedstates/Mongolia/Destination Description.md"
+        },
+        {
+            "title": "Entry, Exit and Visa Requirements",
+            "file": "unitedstates/Mongolia/Entry, Exit and Visa Requirements.md"
+        },
+        {
+            "title": "Safety and Security",
+            "file": "unitedstates/Mongolia/Safety and Security.md"
+        },
+        {
+            "title": "Local Laws & Special Circumstances",
+            "file": "unitedstates/Mongolia/Local Laws & Special Circumstances.md"
+        },
+        {
+            "title": "Health",
+            "file": "unitedstates/Mongolia/Health.md"
+        },
+        {
+            "title": "Travel and Transportation",
+            "file": "unitedstates/Mongolia/Travel and Transportation.md"
+        },
+        {
+            "title": "Fact Sheet",
+            "file": "unitedstates/Mongolia/Fact Sheet.md"
+        },
+        {
+            "title": "Advisory",
+            "file": "unitedstates/Mongolia/Advisory.md"
+        }
+    ],
+    "update_date_advisory": "2025-01-22T00:00:00",
+    "update_date_details": "2025-01-22T00:00:00"
+}

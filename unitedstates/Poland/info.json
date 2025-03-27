@@ -1,0 +1,49 @@
+{
+    "name": "Poland",
+    "risk_level": "Level 1: Exercise Normal Precautions",
+    "risk_level_number": 1,
+    "pages": [
+        {
+            "title": "Quick Facts",
+            "file": "unitedstates/Poland/Quick Facts.md"
+        },
+        {
+            "title": "Consulates",
+            "file": "unitedstates/Poland/Consulates.md"
+        },
+        {
+            "title": "Destination Description",
+            "file": "unitedstates/Poland/Destination Description.md"
+        },
+        {
+            "title": "Entry, Exit and Visa Requirements",
+            "file": "unitedstates/Poland/Entry, Exit and Visa Requirements.md"
+        },
+        {
+            "title": "Safety and Security",
+            "file": "unitedstates/Poland/Safety and Security.md"
+        },
+        {
+            "title": "Local Laws & Special Circumstances",
+            "file": "unitedstates/Poland/Local Laws & Special Circumstances.md"
+        },
+        {
+            "title": "Health",
+            "file": "unitedstates/Poland/Health.md"
+        },
+        {
+            "title": "Travel and Transportation",
+            "file": "unitedstates/Poland/Travel and Transportation.md"
+        },
+        {
+            "title": "Fact Sheet",
+            "file": "unitedstates/Poland/Fact Sheet.md"
+        },
+        {
+            "title": "Advisory",
+            "file": "unitedstates/Poland/Advisory.md"
+        }
+    ],
+    "update_date_advisory": "2024-05-01T00:00:00",
+    "update_date_details": "2025-01-21T00:00:00"
+}

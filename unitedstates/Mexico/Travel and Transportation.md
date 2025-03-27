@@ -1,0 +1,37 @@
+# Travel and Transportation
+
+[#### Travel and Transportation](javascript:void(0); "Travel and Transportation")
+
+**Road Conditions and Safety:**Motor vehicle accidents are a leading cause of U.S. citizen deaths in Mexico. If you have an emergency while driving, dial “911.” If you are driving on a toll highway (“*cuota*”) or any other major highway, you may contact the Green Angels (*Spanish only*), a fleet of trucks with bilingual crews, by dialing 078 from any phone in Mexico.  Generally, individuals involved in an accident who do not require immediate medical care should contact their insurance providers, who may come to the site to provide an immediate assessment.
+
+Avoid driving on Mexican highways at night. Travel with a charged and functional cell phone capable of making calls in Mexico. Travelers should exercise caution at all times and should use toll (“*cuota*”) roads rather than the less secure free (“*libre*”) roads whenever possible. Do not hitchhike or accept rides from or offer rides to strangers anywhere in Mexico. Travelers encountering police or security checkpoints should comply with instructions.
+
+Road conditions and maintenance across Mexico vary with many road surfaces needing repair. Travel in rural areas poses additional risks to include spotty cell phone coverage and delays in receiving roadside or medical assistance.
+
+Vehicular traffic in Mexico City is subject to restriction Monday through Saturday, according to the license plate number, in order to reduce air pollution. For additional information, refer to the [Hoy No Circula website](https://sma.edomex.gob.mx/hoy_no_circula#:~:text=Acuerdo%20que%20establece%20las%20medidas,atmosf%C3%A9rica%20y%20contingencias%20ambientales%20atmosf%C3%A9ricas.)(*Spanish only*) maintained by the Mexico City government. See our [Road Safety Page](http://travel.state.gov/content/passports/en/go/safety/road.html) for more information.  Also, visit [Mexico’s national tourist office website](https://www.gob.mx/sectur), MexOnline, and Mexico’s customs website[Importacion Temporal de Vehiculos](https://www.banjercito.com.mx/registroVehiculos/) (*Spanish only*) for more information regarding travel and transportation.
+
+**Traffic Laws:**U.S. driver’s licenses are valid in Mexico. Mexican law requires that only owners drive their vehicles or that the owner be inside the vehicle. Failing to abide by this law may lead to impoundment and a fine equal to the value of the vehicle.
+
+Mexican citizens who are not also U.S. citizens or LPRs may not operate U.S.-registered vehicles in Mexico. Mexican insurance is required for all vehicles, including rental vehicles. Drivers involved in accidents, even minor incidents, may be subject to arrest if they are found to be driving without proper insurance, regardless of whether they were at fault. Driving under the influence of alcohol, using a mobile device while driving, and driving through a yellow light are all illegal in Mexico.
+
+If you drive your vehicle into Mexico beyond the immediate border area (approximately 12 miles into Mexico), you must apply for a temporary vehicle import permit with Mexican customs, [Banjercito](https://www.gob.mx/banjercito/articulos/sistema-de-importacion-temporal-de-vehiculos), or at some Mexican consulates in the United States. The permit requires the presentation of a valid passport and a monetary deposit that will be returned to you upon leaving Mexico before the expiration of the permit. Failing to apply for a temporary vehicle import permit may lead to impoundment and a fine equal to the value of the vehicle.
+
+Vehicles crossing into Mexico must have a valid license plate and registration sticker. Mexican authorities will often refuse to admit vehicles with temporary or paper license plates. Vehicles with expired registration or unauthorized plates will likely be confiscated and the operator could be charged with a fine equal to the value of the vehicle.
+
+The [Mission Mexico Vehicle Recovery Unit](https://mx.usembassy.gov/vehicle-recovery-unit/) assists with the return of stolen U.S. vehicles recovered by Mexican authorities.
+
+If you have an emergency while driving, dial “911.” If you are driving on a toll highway (“cuota”) or any other major highway, you may contact the Green Angels (Spanish only), a fleet of trucks with bilingual crews, by dialing 078 from any phone in Mexico.  Generally, individuals involved in an accident who do not require immediate medical care should contact their insurance providers, who may come to the site to provide an immediate assessment.
+
+**Public Transportation/Taxis:**Security on public buses varies throughout the country but is considered a relatively safe transportation option in Mexico City and other major tourist centers. Passengers should protect their personal possessions at all times as theft is common. Intercity bus travel should be conducted during daylight hours in preferably first-class buses using toll roads.
+
+Robberies and assaults on passengers in taxis not affiliated with a taxi stand (known as “libre” taxis) are common. Avoid taking any taxi not summoned by telephone or contacted in advance, including “libre” taxis. When in need of a taxi, telephone a radio taxi or “sitio” (regulated taxi stand) and ask the dispatcher for the driver’s name and the taxi’s license plate number. Application-based car services such as Uber and Cabify are available in many Mexican cities, and generally offer another safe alternative to taxis. Official complaints against Uber and other drivers do occur, however, and past disputes between these services and local taxi unions have occasionally turned violent, resulting in injuries to U.S. citizens in some instances.
+
+See our [Road Safety page](http://travel.state.gov/content/passports/english/go/safety/road.html) for more information.
+
+**Aviation Safety Oversight:**The U.S. Federal Aviation Administration (FAA) has assessed the Government of Mexico’s Civil Aviation Authority as not being in compliance with International Civil Aviation Organization (ICAO) aviation safety standards for oversight of Mexico’s air carrier operations. Further information may be found on the [FAA safety assessment page](https://www.faa.gov/about/initiatives/iasa).
+
+**Maritime Travel:** Mariners planning travel to Mexico should also check for [U.S. maritime advisories and alerts](http://www.maritime.dot.gov/msci-alerts).  Information may also be posted to the [U.S. Coast Guard homeport website](https://homeport.uscg.mil/), and the [NGA broadcast warnings](https://msi.nga.mil/NavWarnings).
+
+If you enter by sea, review [the Mexican boating permit requirements](https://www.gob.mx/tramites/ficha/permiso-temporal-para-la-navegacion-de-cabotaje-a-embarcaciones-extranjeras/SCT2939) prior to travel or contact the [Embassy of Mexico](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Mexico.html#ExternalPopup) in Washington, D.C., for more information.
+
+**Maritime Safety Oversight:**The Mexican maritime industry, including charter fishing and recreational vessels, is subject solely to Mexican safety regulations.  Travelers should be aware that Mexican equipment and vessels may not meet U.S. safety standards or be covered by any accident insurance.

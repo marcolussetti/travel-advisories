@@ -1,0 +1,49 @@
+{
+    "name": "Hong Kong",
+    "risk_level": "Level 2: Exercise Increased Caution",
+    "risk_level_number": 2,
+    "pages": [
+        {
+            "title": "Quick Facts",
+            "file": "unitedstates/Hong Kong/Quick Facts.md"
+        },
+        {
+            "title": "Embassies and Consulates",
+            "file": "unitedstates/Hong Kong/Embassies and Consulates.md"
+        },
+        {
+            "title": "Destination Description",
+            "file": "unitedstates/Hong Kong/Destination Description.md"
+        },
+        {
+            "title": "Entry, Exit and Visa Requirements",
+            "file": "unitedstates/Hong Kong/Entry, Exit and Visa Requirements.md"
+        },
+        {
+            "title": "Safety and Security",
+            "file": "unitedstates/Hong Kong/Safety and Security.md"
+        },
+        {
+            "title": "Local Laws & Special Circumstances",
+            "file": "unitedstates/Hong Kong/Local Laws & Special Circumstances.md"
+        },
+        {
+            "title": "Health",
+            "file": "unitedstates/Hong Kong/Health.md"
+        },
+        {
+            "title": "Travel and Transportation",
+            "file": "unitedstates/Hong Kong/Travel and Transportation.md"
+        },
+        {
+            "title": "Fact Sheet",
+            "file": "unitedstates/Hong Kong/Fact Sheet.md"
+        },
+        {
+            "title": "Advisory",
+            "file": "unitedstates/Hong Kong/Advisory.md"
+        }
+    ],
+    "update_date_advisory": "2024-11-27T00:00:00",
+    "update_date_details": "2025-01-21T00:00:00"
+}

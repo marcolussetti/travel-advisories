@@ -1,0 +1,49 @@
+{
+    "name": "Macau",
+    "risk_level": "Level 3: Reconsider Travel",
+    "risk_level_number": 3,
+    "pages": [
+        {
+            "title": "Quick Facts",
+            "file": "unitedstates/Macau/Quick Facts.md"
+        },
+        {
+            "title": "Embassies and Consulates",
+            "file": "unitedstates/Macau/Embassies and Consulates.md"
+        },
+        {
+            "title": "Destination Description",
+            "file": "unitedstates/Macau/Destination Description.md"
+        },
+        {
+            "title": "Entry, Exit and Visa Requirements",
+            "file": "unitedstates/Macau/Entry, Exit and Visa Requirements.md"
+        },
+        {
+            "title": "Safety and Security",
+            "file": "unitedstates/Macau/Safety and Security.md"
+        },
+        {
+            "title": "SPECIAL CIRCUMSTANCES",
+            "file": "unitedstates/Macau/SPECIAL CIRCUMSTANCES.md"
+        },
+        {
+            "title": "Health",
+            "file": "unitedstates/Macau/Health.md"
+        },
+        {
+            "title": "Travel and Transportation",
+            "file": "unitedstates/Macau/Travel and Transportation.md"
+        },
+        {
+            "title": "Fact Sheet",
+            "file": "unitedstates/Macau/Fact Sheet.md"
+        },
+        {
+            "title": "Advisory",
+            "file": "unitedstates/Macau/Advisory.md"
+        }
+    ],
+    "update_date_advisory": "2024-11-27T00:00:00",
+    "update_date_details": "2025-01-21T00:00:00"
+}

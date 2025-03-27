@@ -1,0 +1,49 @@
+{
+    "name": "Germany",
+    "risk_level": "Level 2: Exercise Increased Caution",
+    "risk_level_number": 2,
+    "pages": [
+        {
+            "title": "Quick Facts",
+            "file": "unitedstates/Germany/Quick Facts.md"
+        },
+        {
+            "title": "Embassies and Consulates",
+            "file": "unitedstates/Germany/Embassies and Consulates.md"
+        },
+        {
+            "title": "Destination Description",
+            "file": "unitedstates/Germany/Destination Description.md"
+        },
+        {
+            "title": "Entry, Exit and Visa Requirements",
+            "file": "unitedstates/Germany/Entry, Exit and Visa Requirements.md"
+        },
+        {
+            "title": "Safety and Security",
+            "file": "unitedstates/Germany/Safety and Security.md"
+        },
+        {
+            "title": "Local Laws & Special Circumstances",
+            "file": "unitedstates/Germany/Local Laws & Special Circumstances.md"
+        },
+        {
+            "title": "Health",
+            "file": "unitedstates/Germany/Health.md"
+        },
+        {
+            "title": "Travel and Transportation",
+            "file": "unitedstates/Germany/Travel and Transportation.md"
+        },
+        {
+            "title": "Fact Sheet",
+            "file": "unitedstates/Germany/Fact Sheet.md"
+        },
+        {
+            "title": "Advisory",
+            "file": "unitedstates/Germany/Advisory.md"
+        }
+    ],
+    "update_date_advisory": "2024-05-01T00:00:00",
+    "update_date_details": "2024-05-01T00:00:00"
+}

@@ -1,0 +1,9 @@
+# Entry, Exit and Visa Requirements
+
+[#### Entry, Exit and Visa Requirements](javascript:void(0); "Entry, Exit and Visa Requirements")
+
+U.S. citizens do not need a visa if entering on a regular tourist passport and staying no more than 90 days out of every six months. Return ticket travel will be confirmed. Your passport must be valid for six months beyond the duration of your stay in New Caledonia. Some travelers may be asked to show proof of medical insurance. For stays longer than 90 days in a six-month period, you must apply for a long-term visa at the nearest French embassy or consulate at least 30 days in advance as the processing time can be quite lengthy. For further information about entry requirements, particularly for those planning to enter by sea, please contact the French Embassy at 4101 Reservoir Road NW, Washington, DC 20007, telephone 202 944-6200, fax 202-944-6212, or visit the [Embassy of France website.](https://franceintheus.org/)
+
+The U.S. Department of State is unaware of any HIV/AIDS entry restrictions for visitors to or foreign residents of New Caledonia.
+
+Find information for travelers with [dual nationality](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/Dual-Nationality-Travelers.html "http://travel.state.gov/travel/cis_pa_tw/cis/cis_1753.html"), [prevention of international child abduction](https://travel.state.gov/content/travel/en/International-Parental-Child-Abduction/prevention.html "http://travel.state.gov/abduction/prevention/prevention_560.html") and [customs regulations](https://travel.state.gov/content/travel/en/international-travel/before-you-go/customs-and-import.html) on our website.

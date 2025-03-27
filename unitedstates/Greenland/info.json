@@ -1,0 +1,49 @@
+{
+    "name": "Greenland",
+    "risk_level": "Level 2: Exercise Increased Caution",
+    "risk_level_number": 2,
+    "pages": [
+        {
+            "title": "Quick Facts",
+            "file": "unitedstates/Greenland/Quick Facts.md"
+        },
+        {
+            "title": "Embassies and Consulates",
+            "file": "unitedstates/Greenland/Embassies and Consulates.md"
+        },
+        {
+            "title": "Destination Description",
+            "file": "unitedstates/Greenland/Destination Description.md"
+        },
+        {
+            "title": "Entry, Exit and Visa Requirements",
+            "file": "unitedstates/Greenland/Entry, Exit and Visa Requirements.md"
+        },
+        {
+            "title": "Safety and Security",
+            "file": "unitedstates/Greenland/Safety and Security.md"
+        },
+        {
+            "title": "Local Laws & Special Circumstances",
+            "file": "unitedstates/Greenland/Local Laws & Special Circumstances.md"
+        },
+        {
+            "title": "Health",
+            "file": "unitedstates/Greenland/Health.md"
+        },
+        {
+            "title": "Travel and Transportation",
+            "file": "unitedstates/Greenland/Travel and Transportation.md"
+        },
+        {
+            "title": "Fact Sheet",
+            "file": "unitedstates/Greenland/Fact Sheet.md"
+        },
+        {
+            "title": "Advisory",
+            "file": "unitedstates/Greenland/Advisory.md"
+        }
+    ],
+    "update_date_advisory": "2024-10-29T00:00:00",
+    "update_date_details": "2024-10-29T00:00:00"
+}

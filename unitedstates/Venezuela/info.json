@@ -1,0 +1,49 @@
+{
+    "name": "Venezuela",
+    "risk_level": "Level 4: Do Not Travel",
+    "risk_level_number": 4,
+    "pages": [
+        {
+            "title": "Quick Facts",
+            "file": "unitedstates/Venezuela/Quick Facts.md"
+        },
+        {
+            "title": "Embassies and Consulates",
+            "file": "unitedstates/Venezuela/Embassies and Consulates.md"
+        },
+        {
+            "title": "Destination Description",
+            "file": "unitedstates/Venezuela/Destination Description.md"
+        },
+        {
+            "title": "Entry, Exit and Visa Requirements",
+            "file": "unitedstates/Venezuela/Entry, Exit and Visa Requirements.md"
+        },
+        {
+            "title": "Safety and Security",
+            "file": "unitedstates/Venezuela/Safety and Security.md"
+        },
+        {
+            "title": "Local Laws & Special Circumstances",
+            "file": "unitedstates/Venezuela/Local Laws & Special Circumstances.md"
+        },
+        {
+            "title": "Health",
+            "file": "unitedstates/Venezuela/Health.md"
+        },
+        {
+            "title": "Travel and Transportation",
+            "file": "unitedstates/Venezuela/Travel and Transportation.md"
+        },
+        {
+            "title": "Fact Sheet",
+            "file": "unitedstates/Venezuela/Fact Sheet.md"
+        },
+        {
+            "title": "Advisory",
+            "file": "unitedstates/Venezuela/Advisory.md"
+        }
+    ],
+    "update_date_advisory": "2024-09-24T00:00:00",
+    "update_date_details": "2024-10-30T00:00:00"
+}

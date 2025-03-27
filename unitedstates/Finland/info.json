@@ -1,0 +1,49 @@
+{
+    "name": "Finland",
+    "risk_level": "Level 1: Exercise Normal Precautions",
+    "risk_level_number": 1,
+    "pages": [
+        {
+            "title": "Quick Facts",
+            "file": "unitedstates/Finland/Quick Facts.md"
+        },
+        {
+            "title": "Embassies and Consulates",
+            "file": "unitedstates/Finland/Embassies and Consulates.md"
+        },
+        {
+            "title": "Destination Description",
+            "file": "unitedstates/Finland/Destination Description.md"
+        },
+        {
+            "title": "Entry, Exit and Visa Requirements",
+            "file": "unitedstates/Finland/Entry, Exit and Visa Requirements.md"
+        },
+        {
+            "title": "Safety and Security",
+            "file": "unitedstates/Finland/Safety and Security.md"
+        },
+        {
+            "title": "Local Laws & Special Circumstances",
+            "file": "unitedstates/Finland/Local Laws & Special Circumstances.md"
+        },
+        {
+            "title": "Health",
+            "file": "unitedstates/Finland/Health.md"
+        },
+        {
+            "title": "Travel and Transportation",
+            "file": "unitedstates/Finland/Travel and Transportation.md"
+        },
+        {
+            "title": "Fact Sheet",
+            "file": "unitedstates/Finland/Fact Sheet.md"
+        },
+        {
+            "title": "Advisory",
+            "file": "unitedstates/Finland/Advisory.md"
+        }
+    ],
+    "update_date_advisory": "2024-08-09T00:00:00",
+    "update_date_details": "2019-09-27T00:00:00"
+}

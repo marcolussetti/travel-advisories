@@ -1,0 +1,49 @@
+{
+    "name": "Seychelles",
+    "risk_level": "Level 1: Exercise Normal Precautions",
+    "risk_level_number": 1,
+    "pages": [
+        {
+            "title": "Quick Facts",
+            "file": "unitedstates/Seychelles/Quick Facts.md"
+        },
+        {
+            "title": "Embassies and Consulates",
+            "file": "unitedstates/Seychelles/Embassies and Consulates.md"
+        },
+        {
+            "title": "Destination Description",
+            "file": "unitedstates/Seychelles/Destination Description.md"
+        },
+        {
+            "title": "Entry, Exit and Visa Requirements",
+            "file": "unitedstates/Seychelles/Entry, Exit and Visa Requirements.md"
+        },
+        {
+            "title": "Safety and Security",
+            "file": "unitedstates/Seychelles/Safety and Security.md"
+        },
+        {
+            "title": "Local Laws & Special Circumstances",
+            "file": "unitedstates/Seychelles/Local Laws & Special Circumstances.md"
+        },
+        {
+            "title": "Health",
+            "file": "unitedstates/Seychelles/Health.md"
+        },
+        {
+            "title": "Travel and Transportation",
+            "file": "unitedstates/Seychelles/Travel and Transportation.md"
+        },
+        {
+            "title": "Fact Sheet",
+            "file": "unitedstates/Seychelles/Fact Sheet.md"
+        },
+        {
+            "title": "Advisory",
+            "file": "unitedstates/Seychelles/Advisory.md"
+        }
+    ],
+    "update_date_advisory": "2024-08-30T00:00:00",
+    "update_date_details": "2024-10-04T00:00:00"
+}

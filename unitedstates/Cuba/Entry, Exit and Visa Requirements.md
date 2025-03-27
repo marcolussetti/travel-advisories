@@ -1,0 +1,21 @@
+# Entry, Exit and Visa Requirements
+
+[#### Entry, Exit and Visa Requirements](javascript:void(0); "Entry, Exit and Visa Requirements")
+
+Travel to Cuba from or transiting through the United States by persons under U.S. jurisdiction (defined as[BE1] U.S. citizens located anywhere, and anyone located in the United States regardless of citizenship and nationality) , is regulated by the Office of Foreign Assets Control (OFAC) of the U.S. Department of the Treasury. All travelers falling under U.S. jurisdiction must comply with these regulations. Individuals seeking to travel to Cuba are not required to obtain licenses from OFAC if their travel is covered under the [12 travel categories authorized by a general OFAC license](https://cu.usembassy.gov/services/traveling-to-cuba/). If travel is not covered by a general license, you must seek OFAC authorization in the form of a [specific license](https://home.treasury.gov/policy-issues/financial-sanctions/ofac-license-application-page). Travelers who fail to comply with regulations may face penalties and criminal prosecution. For travel-specific questions, please see [31 C.F.R. 515.560](https://www.ecfr.gov/cgi-bin/text-idx?SID=b5ee59d94ee45bba6a049240298f1cff&mc=true&node=se31.3.515_1560&rgn=div8) and [OFAC’s Frequently Asked Questions](https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information).
+
+Visit the [Embassy of Cuba](https://misiones.cubaminrex.cu/en/usa) website for the most current visa information.
+
+Cuba requires visitors to have non-U.S. medical insurance, which is usually included in airline ticket prices on flights originating in the United States. If you do not have insurance, it can be purchased upon arrival to Cuba at an airport kiosk.  Asistur Medical Insurance is the official company that airlines contract.  Please confirm your coverage with your airline prior to arrival in Cuba and seek additional medical insurance if needed.
+
+Cuba does not recognize the U.S. citizenship of Cuban-born U.S. citizens who maintain residency status in Cuba.  The Cuban government requires Cuban dual nationals to enter and depart Cuba using Cuban passports. Cuban-born U.S. citizens who maintain their residency status in Cuba will be treated as Cuban citizens and may be subject to Cuban restrictions and legal obligations.
+
+Some HIV/AIDS entry restrictions exist for visitors to and foreign residents of Cuba.  Foreign students on scholarships are required to test for HIV/AIDS.  Please verify this information with the [Embassy of Cuba](https://misiones.cubaminrex.cu/en/usa) before you travel.
+
+Information about [dual nationality](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/Dual-Nationality-Travelers.html), the [prevention of international child abduction](https://travel.state.gov/content/travel/en/International-Parental-Child-Abduction/prevention.html), and [customs regulations](https://travel.state.gov/content/travel/en/international-travel/before-you-go/customs-and-import.html) can be found on our websites.
+
+**Cuban Requirements for Authorized Travelers:**  Attempts to enter or exit Cuba illegally, or to aid the irregular exit of Cuban nationals or other persons, are prohibited.  Entering Cuban territory, territorial waters, or airspace without prior authorization from the Cuban government may result in arrest.  Immigration violators are subject to prison terms ranging from four to thirty years.
+
+**Temporary Sojourn License:** Most aircraft and maritime vessels on temporary sojourn to Cuba are no longer eligible for an Aircraft, Vessels, and Spacecraft (AVS) License Exception.  See 15 C.F.R. § 740.15.  If you are planning to enter Cuba with a U.S. or foreign-registered aircraft or maritime vessel on temporary sojourn, you must meet the criteria set forth in 15 C.F.R. § 740.15. Please see the U.S. Department of Commerce’s [Bureau of Industry and Security website](https://www.bis.doc.gov/index.php/policy-guidance/country-guidance/sanctioned-destinations/cuba) for additional information.
+
+In addition, a vessel of the United States, as defined in 33 C.F.R. §107.200, may not enter Cuban territorial waters without advance permission from the U.S. Coast Guard.  The U.S. Coast Guard provides permission information at (305) 415-6920.

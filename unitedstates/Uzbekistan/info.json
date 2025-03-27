@@ -1,0 +1,49 @@
+{
+    "name": "Uzbekistan",
+    "risk_level": "Level 1: Exercise Normal Precautions",
+    "risk_level_number": 1,
+    "pages": [
+        {
+            "title": "Quick Facts",
+            "file": "unitedstates/Uzbekistan/Quick Facts.md"
+        },
+        {
+            "title": "Embassies and Consulates",
+            "file": "unitedstates/Uzbekistan/Embassies and Consulates.md"
+        },
+        {
+            "title": "Destination Description",
+            "file": "unitedstates/Uzbekistan/Destination Description.md"
+        },
+        {
+            "title": "Entry, Exit and Visa Requirements",
+            "file": "unitedstates/Uzbekistan/Entry, Exit and Visa Requirements.md"
+        },
+        {
+            "title": "Safety and Security",
+            "file": "unitedstates/Uzbekistan/Safety and Security.md"
+        },
+        {
+            "title": "Local Laws & Special Circumstances",
+            "file": "unitedstates/Uzbekistan/Local Laws & Special Circumstances.md"
+        },
+        {
+            "title": "Health",
+            "file": "unitedstates/Uzbekistan/Health.md"
+        },
+        {
+            "title": "Travel and Transportation",
+            "file": "unitedstates/Uzbekistan/Travel and Transportation.md"
+        },
+        {
+            "title": "Fact Sheet",
+            "file": "unitedstates/Uzbekistan/Fact Sheet.md"
+        },
+        {
+            "title": "Advisory",
+            "file": "unitedstates/Uzbekistan/Advisory.md"
+        }
+    ],
+    "update_date_advisory": "2024-09-27T00:00:00",
+    "update_date_details": "2024-04-22T00:00:00"
+}

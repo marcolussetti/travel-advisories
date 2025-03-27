@@ -1,0 +1,49 @@
+{
+    "name": "Mali",
+    "risk_level": "Level 4: Do Not Travel",
+    "risk_level_number": 4,
+    "pages": [
+        {
+            "title": "Quick Facts",
+            "file": "unitedstates/Mali/Quick Facts.md"
+        },
+        {
+            "title": "Embassies and Consulates",
+            "file": "unitedstates/Mali/Embassies and Consulates.md"
+        },
+        {
+            "title": "Destination Description",
+            "file": "unitedstates/Mali/Destination Description.md"
+        },
+        {
+            "title": "Entry, Exit and Visa Requirements",
+            "file": "unitedstates/Mali/Entry, Exit and Visa Requirements.md"
+        },
+        {
+            "title": "Safety and Security",
+            "file": "unitedstates/Mali/Safety and Security.md"
+        },
+        {
+            "title": "Local Laws & Special Circumstances",
+            "file": "unitedstates/Mali/Local Laws & Special Circumstances.md"
+        },
+        {
+            "title": "Health",
+            "file": "unitedstates/Mali/Health.md"
+        },
+        {
+            "title": "Travel and Transportation",
+            "file": "unitedstates/Mali/Travel and Transportation.md"
+        },
+        {
+            "title": "Fact Sheet",
+            "file": "unitedstates/Mali/Fact Sheet.md"
+        },
+        {
+            "title": "Advisory",
+            "file": "unitedstates/Mali/Advisory.md"
+        }
+    ],
+    "update_date_advisory": "2023-07-31T00:00:00",
+    "update_date_details": "2021-01-25T00:00:00"
+}

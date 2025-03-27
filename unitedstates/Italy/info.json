@@ -1,0 +1,45 @@
+{
+    "name": "Italy",
+    "risk_level": null,
+    "risk_level_number": null,
+    "pages": [
+        {
+            "title": "Quick Facts",
+            "file": "unitedstates/Italy/Quick Facts.md"
+        },
+        {
+            "title": "Embassies and Consulates",
+            "file": "unitedstates/Italy/Embassies and Consulates.md"
+        },
+        {
+            "title": "Destination Description",
+            "file": "unitedstates/Italy/Destination Description.md"
+        },
+        {
+            "title": "Entry, Exit and Visa Requirements",
+            "file": "unitedstates/Italy/Entry, Exit and Visa Requirements.md"
+        },
+        {
+            "title": "Safety and Security",
+            "file": "unitedstates/Italy/Safety and Security.md"
+        },
+        {
+            "title": "Local Laws & Special Circumstances",
+            "file": "unitedstates/Italy/Local Laws & Special Circumstances.md"
+        },
+        {
+            "title": "Health",
+            "file": "unitedstates/Italy/Health.md"
+        },
+        {
+            "title": "Travel and Transportation",
+            "file": "unitedstates/Italy/Travel and Transportation.md"
+        },
+        {
+            "title": "Fact Sheet",
+            "file": "unitedstates/Italy/Fact Sheet.md"
+        }
+    ],
+    "update_date_advisory": null,
+    "update_date_details": "2023-07-26T00:00:00"
+}

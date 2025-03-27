@@ -1,0 +1,9 @@
+# Travel and Transportation
+
+[#### Travel and Transportation](javascript:void(0); "Travel and Transportation")
+
+There is no direct air service from the United States to Antarctica. Flights to and over Antarctica are operated from a number of countries including Argentina, Australia, Chile, New Zealand, South Africa, and others. If you are traveling to Antarctica, please check our [country information page](https://travel.state.gov/content/travel/en/international-travel.html) for the country from which you are departing to get more information on aviation safety standards in that country. Further information may be found on the [FAA’s safety assessment page](https://www.faa.gov/about/initiatives/iasa/).
+
+**Maritime Travel:** Mariners planning travel to Antarctica should also check for [U.S. maritime advisories and alerts](https://www.maritime.dot.gov/msci/maritime-security-communications-industry-msci-web-portal). Information may also be posted to the [U.S. Coast Guard homeport website](https://homeport.uscg.mil/), and the [NGA broadcast warnings website portal](https://msi.nga.mil/NavWarnings) (select "broadcast warnings").
+
+Due to maritime incidents, tourists have suffered severe injuries and/or death in the Antarctic Region and when traveling between South America and the Antarctica and in the Antarctic area. In addition, as described further above under “Expeditions to Antarctica,” expeditions to the Antarctic region (sixty degrees south latitude or further south) require Advance Notification for compliance under the Antarctic Treaty. For questions, email [Antarctica@state.gov](mailto:Antarctica@state.gov).

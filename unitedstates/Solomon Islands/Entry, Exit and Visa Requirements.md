@@ -1,0 +1,13 @@
+# Entry, Exit and Visa Requirements
+
+[#### Entry, Exit and Visa Requirements](javascript:void(0); "Entry, Exit and Visa Requirements")
+
+You may obtain a visitor permit for 30 days upon arrival at Henderson International Airport in Honiara, and you may enter any number of times as long as your total time in Solomon Islands stay does not exceed 90 days in a 12-month period. If you arrive on a one-way airline ticket, you must have documentation stating your business, including a work permit if you plan to work in Solomon Islands. In all cases, you must also have a valid passport with at least six months remaining validity, an onward or return ticket, and proof of sufficient funds.
+
+If you plan to arrive or depart on a yacht, apply for a visitor’s permit by visiting the [Solomon Island Immigration website.](http://www.commerce.gov.sb/departments-units/immigration/visas.html) Do not attempt to enter the country via its sea borders without proper documentation and approval.
+
+For more information about entry requirements, contact the Permanent Mission of Solomon Islands to the United Nations at 800 Second Avenue, Suite 400L, New York, NY 10017-4709; Tel: (212) 599-6192 or 6193 or visit the [Permanent Mission of Solomon Islands to the United Nations website](https://www.un.int/solomonislands/). If you anticipate transiting or visiting Australia, you should obtain an [Electronic Travel Authorization (](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601)ETA) or [Subclass 771 visa](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/transit-771) for Australia before leaving the United States.
+
+Some HIV/AIDS entry restrictions exist for visitors to and foreign residents of the Solomon Islands. According to the Solomon Islands Immigration Act, an immigration officer can bar you from entering the country or deport you if you refuse to submit to an examination by a government medical officer after being required to do so. Verify this information with [the Permanent Mission of Solomon Islands to the United Nations](https://www.un.int/solomonislands/) before you travel.
+
+Find information on [dual nationality](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/Dual-Nationality-Travelers.html), [prevention of international child abduction](https://travel.state.gov/content/travel/en/International-Parental-Child-Abduction/prevention.html) and [customs regulations](https://travel.state.gov/content/travel/en/international-travel/before-you-go/customs-and-import.html) on our websites.

@@ -1,0 +1,27 @@
+# Quick Facts
+
+### Quick Facts
+
+PASSPORT VALIDITY:
+
+Six months
+
+BLANK PASSPORT PAGES:
+
+One page per stamp
+
+TOURIST VISA REQUIRED:
+
+Yes, available upon arrival
+
+VACCINATIONS:
+
+None
+
+CURRENCY RESTRICTIONS FOR ENTRY:
+
+AUD $3000
+
+CURRENCY RESTRICTIONS FOR EXIT:
+
+AUD $3000

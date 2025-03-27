@@ -1,0 +1,49 @@
+{
+    "name": "Belarus",
+    "risk_level": "Level 4: Do Not Travel",
+    "risk_level_number": 4,
+    "pages": [
+        {
+            "title": "Quick Facts",
+            "file": "unitedstates/Belarus/Quick Facts.md"
+        },
+        {
+            "title": "Embassies and Consulates",
+            "file": "unitedstates/Belarus/Embassies and Consulates.md"
+        },
+        {
+            "title": "Destination Description",
+            "file": "unitedstates/Belarus/Destination Description.md"
+        },
+        {
+            "title": "Entry, Exit and Visa Requirements",
+            "file": "unitedstates/Belarus/Entry, Exit and Visa Requirements.md"
+        },
+        {
+            "title": "Safety and Security",
+            "file": "unitedstates/Belarus/Safety and Security.md"
+        },
+        {
+            "title": "Local Laws & Special Circumstances",
+            "file": "unitedstates/Belarus/Local Laws & Special Circumstances.md"
+        },
+        {
+            "title": "Health",
+            "file": "unitedstates/Belarus/Health.md"
+        },
+        {
+            "title": "Travel and Transportation",
+            "file": "unitedstates/Belarus/Travel and Transportation.md"
+        },
+        {
+            "title": "Fact Sheet",
+            "file": "unitedstates/Belarus/Fact Sheet.md"
+        },
+        {
+            "title": "Advisory",
+            "file": "unitedstates/Belarus/Advisory.md"
+        }
+    ],
+    "update_date_advisory": "2024-12-18T00:00:00",
+    "update_date_details": "2025-01-21T00:00:00"
+}

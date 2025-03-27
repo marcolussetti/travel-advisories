@@ -1,0 +1,49 @@
+{
+    "name": "French Polynesia",
+    "risk_level": "Level 1: Exercise Normal Precautions",
+    "risk_level_number": 1,
+    "pages": [
+        {
+            "title": "Quick Facts",
+            "file": "unitedstates/French Polynesia/Quick Facts.md"
+        },
+        {
+            "title": "Embassies and Consulates",
+            "file": "unitedstates/French Polynesia/Embassies and Consulates.md"
+        },
+        {
+            "title": "Destination Description",
+            "file": "unitedstates/French Polynesia/Destination Description.md"
+        },
+        {
+            "title": "Entry, Exit and Visa Requirements",
+            "file": "unitedstates/French Polynesia/Entry, Exit and Visa Requirements.md"
+        },
+        {
+            "title": "Safety and Security",
+            "file": "unitedstates/French Polynesia/Safety and Security.md"
+        },
+        {
+            "title": "Local Laws & Special Circumstances",
+            "file": "unitedstates/French Polynesia/Local Laws & Special Circumstances.md"
+        },
+        {
+            "title": "Health",
+            "file": "unitedstates/French Polynesia/Health.md"
+        },
+        {
+            "title": "Travel and Transportation",
+            "file": "unitedstates/French Polynesia/Travel and Transportation.md"
+        },
+        {
+            "title": "Fact Sheet",
+            "file": "unitedstates/French Polynesia/Fact Sheet.md"
+        },
+        {
+            "title": "Advisory",
+            "file": "unitedstates/French Polynesia/Advisory.md"
+        }
+    ],
+    "update_date_advisory": "2024-12-02T00:00:00",
+    "update_date_details": "2024-12-02T00:00:00"
+}

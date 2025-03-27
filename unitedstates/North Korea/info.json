@@ -1,0 +1,45 @@
+{
+    "name": "North Korea",
+    "risk_level": null,
+    "risk_level_number": null,
+    "pages": [
+        {
+            "title": "Quick Facts",
+            "file": "unitedstates/North Korea/Quick Facts.md"
+        },
+        {
+            "title": "Embassies and Consulates",
+            "file": "unitedstates/North Korea/Embassies and Consulates.md"
+        },
+        {
+            "title": "Destination Description",
+            "file": "unitedstates/North Korea/Destination Description.md"
+        },
+        {
+            "title": "Entry, Exit and Visa Requirements",
+            "file": "unitedstates/North Korea/Entry, Exit and Visa Requirements.md"
+        },
+        {
+            "title": "Safety and Security",
+            "file": "unitedstates/North Korea/Safety and Security.md"
+        },
+        {
+            "title": "Local Laws & Special Circumstances",
+            "file": "unitedstates/North Korea/Local Laws & Special Circumstances.md"
+        },
+        {
+            "title": "Health",
+            "file": "unitedstates/North Korea/Health.md"
+        },
+        {
+            "title": "Travel and Transportation",
+            "file": "unitedstates/North Korea/Travel and Transportation.md"
+        },
+        {
+            "title": "Fact Sheet",
+            "file": "unitedstates/North Korea/Fact Sheet.md"
+        }
+    ],
+    "update_date_advisory": null,
+    "update_date_details": "2023-07-20T00:00:00"
+}

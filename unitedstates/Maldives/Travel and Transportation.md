@@ -1,0 +1,13 @@
+# Travel and Transportation
+
+[#### Travel and Transportation](javascript:void(0); "Travel and Transportation")
+
+**Traffic Safety, Road and Aviation Conditions:** While in Maldives, you may encounter road conditions that differ significantly from those in the United States. The information below concerning Maldives is provided for general reference only and may vary by location or circumstance.
+
+Only a few of the islands are large enough to support automobiles. Maldives has good safety standards for land, sea, and air travel. Roads in Malé and on the airport island are brick and generally well-maintained, though congested. Dirt roads on resort islands are well-kept by the resorts. Transportation in Malé is either by foot, by bus, or by readily-available taxis that charge a fixed fee for any single journey. Transportation between the airport and Malé is by vehicle or by a public ferry. Travel to nearby resort islands is usually by motorized water taxi and speedboat or seaplane. Trans Maldivian and Maldivian Air Taxi provide charter seaplane service to outlying islands during daylight hours. Maldivian, Manta Air, and Villa Air run fixed-wing domestic service to some of the atolls with land runways during night hours as well. Many resorts stop boat transfers between the airport and the resort island after sunset. Visitors to distant resorts arriving in the country at night can expect to stay overnight at a hotel in Malé or at the airport hotel and should confirm transfer arrangements in advance.
+
+See our [Road Safety](https://travel.state.gov/content/travel/en/international-travel/before-you-go/driving-and-road-safety.html) page for more information. Visit the website of the [Official Travel Guide of Maldives](https://visitmaldives.com/en) and national authority responsible for road safety.
+
+**Aviation Safety Oversight:** As there is no direct commercial air service to the United States by carriers registered in Maldives, the U.S. Federal Aviation Administration (FAA) has not assessed the government of Maldives’ Civil Aviation Authority for compliance with International Civil Aviation Organization (ICAO) aviation safety standards. Further information may be found on the [FAA's safety assessment page](https://www.faa.gov/about/initiatives/iasa).
+
+**Maritime Travel:** Mariners planning travel to the Republic of Maldives should check for U.S. maritime [advisories](https://www.maritime.dot.gov/msci-advisories) and [alerts](https://www.maritime.dot.gov/msci-alerts). Information may also be posted to the [U.S. Coast Guard homeport website](https://homeport.uscg.mil/), and the [NGA broadcast warnings](https://msi.nga.mil/NavWarnings) website.

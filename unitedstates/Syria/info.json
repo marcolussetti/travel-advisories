@@ -1,0 +1,49 @@
+{
+    "name": "Syria",
+    "risk_level": "Level 4: Do Not Travel",
+    "risk_level_number": 4,
+    "pages": [
+        {
+            "title": "Quick Facts",
+            "file": "unitedstates/Syria/Quick Facts.md"
+        },
+        {
+            "title": "Embassies and Consulates",
+            "file": "unitedstates/Syria/Embassies and Consulates.md"
+        },
+        {
+            "title": "Destination Description",
+            "file": "unitedstates/Syria/Destination Description.md"
+        },
+        {
+            "title": "Entry, Exit and Visa Requirements",
+            "file": "unitedstates/Syria/Entry, Exit and Visa Requirements.md"
+        },
+        {
+            "title": "Safety and Security",
+            "file": "unitedstates/Syria/Safety and Security.md"
+        },
+        {
+            "title": "Local Laws & Special Circumstances",
+            "file": "unitedstates/Syria/Local Laws & Special Circumstances.md"
+        },
+        {
+            "title": "Health",
+            "file": "unitedstates/Syria/Health.md"
+        },
+        {
+            "title": "Travel and Transportation",
+            "file": "unitedstates/Syria/Travel and Transportation.md"
+        },
+        {
+            "title": "Fact Sheet",
+            "file": "unitedstates/Syria/Fact Sheet.md"
+        },
+        {
+            "title": "Advisory",
+            "file": "unitedstates/Syria/Advisory.md"
+        }
+    ],
+    "update_date_advisory": "2025-03-03T00:00:00",
+    "update_date_details": "2025-03-04T00:00:00"
+}

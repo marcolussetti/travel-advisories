@@ -1,0 +1,49 @@
+{
+    "name": "Peru",
+    "risk_level": "Level 2: Exercise Increased Caution",
+    "risk_level_number": 2,
+    "pages": [
+        {
+            "title": "Quick Facts",
+            "file": "unitedstates/Peru/Quick Facts.md"
+        },
+        {
+            "title": "Consulates",
+            "file": "unitedstates/Peru/Consulates.md"
+        },
+        {
+            "title": "Destination Description",
+            "file": "unitedstates/Peru/Destination Description.md"
+        },
+        {
+            "title": "Entry, Exit and Visa Requirements",
+            "file": "unitedstates/Peru/Entry, Exit and Visa Requirements.md"
+        },
+        {
+            "title": "Safety and Security",
+            "file": "unitedstates/Peru/Safety and Security.md"
+        },
+        {
+            "title": "Local Laws & Special Circumstances",
+            "file": "unitedstates/Peru/Local Laws & Special Circumstances.md"
+        },
+        {
+            "title": "Health",
+            "file": "unitedstates/Peru/Health.md"
+        },
+        {
+            "title": "Travel and Transportation",
+            "file": "unitedstates/Peru/Travel and Transportation.md"
+        },
+        {
+            "title": "Fact Sheet",
+            "file": "unitedstates/Peru/Fact Sheet.md"
+        },
+        {
+            "title": "Advisory",
+            "file": "unitedstates/Peru/Advisory.md"
+        }
+    ],
+    "update_date_advisory": "2023-11-15T00:00:00",
+    "update_date_details": "2023-06-06T00:00:00"
+}

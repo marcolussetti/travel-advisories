@@ -1,0 +1,13 @@
+{
+    "name": "The Bahamas",
+    "risk_level": "Level 2: Exercise Increased Caution",
+    "risk_level_number": 2,
+    "pages": [
+        {
+            "title": "Advisory",
+            "file": "unitedstates/The Bahamas/Advisory.md"
+        }
+    ],
+    "update_date_advisory": "2024-01-26T00:00:00",
+    "update_date_details": null
+}

@@ -1,0 +1,45 @@
+{
+    "name": "C\u00f4te d'Ivoire",
+    "risk_level": null,
+    "risk_level_number": null,
+    "pages": [
+        {
+            "title": "Quick Facts",
+            "file": "unitedstates/C\u00f4te d'Ivoire/Quick Facts.md"
+        },
+        {
+            "title": "Embassies and Consulates",
+            "file": "unitedstates/C\u00f4te d'Ivoire/Embassies and Consulates.md"
+        },
+        {
+            "title": "Destination Description",
+            "file": "unitedstates/C\u00f4te d'Ivoire/Destination Description.md"
+        },
+        {
+            "title": "Entry, Exit and Visa Requirements",
+            "file": "unitedstates/C\u00f4te d'Ivoire/Entry, Exit and Visa Requirements.md"
+        },
+        {
+            "title": "Safety and Security",
+            "file": "unitedstates/C\u00f4te d'Ivoire/Safety and Security.md"
+        },
+        {
+            "title": "Local Laws & Special Circumstances",
+            "file": "unitedstates/C\u00f4te d'Ivoire/Local Laws & Special Circumstances.md"
+        },
+        {
+            "title": "Health",
+            "file": "unitedstates/C\u00f4te d'Ivoire/Health.md"
+        },
+        {
+            "title": "Travel and Transportation",
+            "file": "unitedstates/C\u00f4te d'Ivoire/Travel and Transportation.md"
+        },
+        {
+            "title": "Fact Sheet",
+            "file": "unitedstates/C\u00f4te d'Ivoire/Fact Sheet.md"
+        }
+    ],
+    "update_date_advisory": null,
+    "update_date_details": "2025-01-21T00:00:00"
+}

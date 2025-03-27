@@ -1,0 +1,45 @@
+{
+    "name": "Micronesia",
+    "risk_level": null,
+    "risk_level_number": null,
+    "pages": [
+        {
+            "title": "Quick Facts",
+            "file": "unitedstates/Micronesia/Quick Facts.md"
+        },
+        {
+            "title": "Embassies and Consulates",
+            "file": "unitedstates/Micronesia/Embassies and Consulates.md"
+        },
+        {
+            "title": "Destination Description",
+            "file": "unitedstates/Micronesia/Destination Description.md"
+        },
+        {
+            "title": "Entry, Exit and Visa Requirements",
+            "file": "unitedstates/Micronesia/Entry, Exit and Visa Requirements.md"
+        },
+        {
+            "title": "Safety and Security",
+            "file": "unitedstates/Micronesia/Safety and Security.md"
+        },
+        {
+            "title": "Local Laws & Special Circumstances",
+            "file": "unitedstates/Micronesia/Local Laws & Special Circumstances.md"
+        },
+        {
+            "title": "Health",
+            "file": "unitedstates/Micronesia/Health.md"
+        },
+        {
+            "title": "Travel and Transportation",
+            "file": "unitedstates/Micronesia/Travel and Transportation.md"
+        },
+        {
+            "title": "Fact Sheet",
+            "file": "unitedstates/Micronesia/Fact Sheet.md"
+        }
+    ],
+    "update_date_advisory": null,
+    "update_date_details": "2025-01-22T00:00:00"
+}

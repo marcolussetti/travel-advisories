@@ -1,0 +1,49 @@
+{
+    "name": "El Salvador",
+    "risk_level": "Level 2: Exercise Increased Caution",
+    "risk_level_number": 2,
+    "pages": [
+        {
+            "title": "Quick Facts",
+            "file": "unitedstates/El Salvador/Quick Facts.md"
+        },
+        {
+            "title": "Embassies and Consulates",
+            "file": "unitedstates/El Salvador/Embassies and Consulates.md"
+        },
+        {
+            "title": "Destination Description",
+            "file": "unitedstates/El Salvador/Destination Description.md"
+        },
+        {
+            "title": "Entry, Exit and Visa Requirements",
+            "file": "unitedstates/El Salvador/Entry, Exit and Visa Requirements.md"
+        },
+        {
+            "title": "Safety and Security",
+            "file": "unitedstates/El Salvador/Safety and Security.md"
+        },
+        {
+            "title": "Local Laws & Special Circumstances",
+            "file": "unitedstates/El Salvador/Local Laws & Special Circumstances.md"
+        },
+        {
+            "title": "Health",
+            "file": "unitedstates/El Salvador/Health.md"
+        },
+        {
+            "title": "Travel and Transportation",
+            "file": "unitedstates/El Salvador/Travel and Transportation.md"
+        },
+        {
+            "title": "Fact Sheet",
+            "file": "unitedstates/El Salvador/Fact Sheet.md"
+        },
+        {
+            "title": "Advisory",
+            "file": "unitedstates/El Salvador/Advisory.md"
+        }
+    ],
+    "update_date_advisory": "2025-02-07T00:00:00",
+    "update_date_details": "2025-02-07T00:00:00"
+}

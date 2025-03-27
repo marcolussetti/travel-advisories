@@ -1,0 +1,17 @@
+# Entry, Exit and Visa Requirements
+
+[#### Entry, Exit and Visa Requirements](javascript:void(0); "Entry, Exit and Visa Requirements")
+
+You need a passport, visa, return ticket, and adequate funds to cover your intended stay in order to enter Zimbabwe. If you are traveling to Zimbabwe for tourism, business, or transit, you may obtain a visa at the airports or other border ports-of-entry. There is currently no option of getting a Zimbabwean tourist visa in advance through the Zimbabwean Embassy in Washington. You can expect to pay USD $30 for a 30-day/single-entry visa, USD $45 for a 45-day/double entry visa or USD $160 for a 12 month/ multiple-entry visa. Extensions of the 30-day and 45-day visas are possible and require visiting the Zimbabwe Immigration Office's public window. Travelers who intend to engage in any non-tourism related activity require a visa in advance of entry. Contact the [Department of Immigration of Zimbabwe](https://www.evisa.gov.zw/home) for further details and information on other types of visas and entry permits.
+
+If you are planning to arrive to Zimbabwe via South Africa, please ensure that you have at least 6 blank pages in your passport. South Africa requires two clean, consecutive pages for each transit through South Africa. You will need two pages to transit South Africa in each direction, and two pages to enter Zimbabwe. South African officials take this requirement very seriously and will turn you around if you do not have sufficient pages. Additionally, South Africa has updated its laws regarding visiting or transiting the country with minor children. See the [country information page for South Africa](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/SouthAfrica.html) for details.
+
+Zimbabwe has implemented measures to stem the flow of U.S. dollars from the country. Tourists and visitors who do not have bank accounts in Zimbabwe should:
+
+* Bring cash sufficient for the duration of your trip; especially $1 and $5 bills, which are used more often than local currency; the importation of any currency into Zimbabwe by travelers is not restricted. However, all travelers are encouraged to complete a Customs Declaration Form (Form 47) and declare the currency in their possession at the time of entry.
+* Note that the amount of currency you are allowed to possess when leaving Zimbabwe without authorization in the departure lounge of an airport or any other port is a total of USD $2,000 in any currency or combination of currencies or in bond notes, unless declared/documented upon entry;
+* Prepay expenses such as hotels, flights and tours by credit or debit card. Very few places accept international credit cards.
+
+**HIV/AIDS restrictions:** The U.S. Department of State is unaware of any HIV/AIDS entry restrictions for visitors to or foreign residents of Zimbabwe.
+
+Find information on [dual nationality](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/Dual-Nationality-Travelers.html "http://travel.state.gov/travel/cis_pa_tw/cis/cis_1753.html"), [prevention of international child abduction](https://travel.state.gov/content/travel/en/International-Parental-Child-Abduction/prevention.html "http://travel.state.gov/abduction/prevention/prevention_560.html") and [customs regulations](https://travel.state.gov/content/travel/en/international-travel/before-you-go/customs-and-import.html) on our websites.

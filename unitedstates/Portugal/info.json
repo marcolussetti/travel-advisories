@@ -1,0 +1,49 @@
+{
+    "name": "Portugal",
+    "risk_level": "Level 1: Exercise Normal Precautions",
+    "risk_level_number": 1,
+    "pages": [
+        {
+            "title": "Quick Facts",
+            "file": "unitedstates/Portugal/Quick Facts.md"
+        },
+        {
+            "title": "Consulates",
+            "file": "unitedstates/Portugal/Consulates.md"
+        },
+        {
+            "title": "Destination Description",
+            "file": "unitedstates/Portugal/Destination Description.md"
+        },
+        {
+            "title": "Entry, Exit and Visa Requirements",
+            "file": "unitedstates/Portugal/Entry, Exit and Visa Requirements.md"
+        },
+        {
+            "title": "Safety and Security",
+            "file": "unitedstates/Portugal/Safety and Security.md"
+        },
+        {
+            "title": "Local Laws & Special Circumstances",
+            "file": "unitedstates/Portugal/Local Laws & Special Circumstances.md"
+        },
+        {
+            "title": "Health",
+            "file": "unitedstates/Portugal/Health.md"
+        },
+        {
+            "title": "Travel and Transportation",
+            "file": "unitedstates/Portugal/Travel and Transportation.md"
+        },
+        {
+            "title": "Fact Sheet",
+            "file": "unitedstates/Portugal/Fact Sheet.md"
+        },
+        {
+            "title": "Advisory",
+            "file": "unitedstates/Portugal/Advisory.md"
+        }
+    ],
+    "update_date_advisory": "2025-03-03T00:00:00",
+    "update_date_details": "2023-06-16T00:00:00"
+}

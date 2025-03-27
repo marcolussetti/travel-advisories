@@ -1,0 +1,49 @@
+{
+    "name": "Iraq",
+    "risk_level": "Level 4: Do Not Travel",
+    "risk_level_number": 4,
+    "pages": [
+        {
+            "title": "Quick Facts",
+            "file": "unitedstates/Iraq/Quick Facts.md"
+        },
+        {
+            "title": "Embassies and Consulates",
+            "file": "unitedstates/Iraq/Embassies and Consulates.md"
+        },
+        {
+            "title": "Destination Description",
+            "file": "unitedstates/Iraq/Destination Description.md"
+        },
+        {
+            "title": "Entry, Exit and Visa Requirements",
+            "file": "unitedstates/Iraq/Entry, Exit and Visa Requirements.md"
+        },
+        {
+            "title": "Safety and Security",
+            "file": "unitedstates/Iraq/Safety and Security.md"
+        },
+        {
+            "title": "Local Laws & Special Circumstances",
+            "file": "unitedstates/Iraq/Local Laws & Special Circumstances.md"
+        },
+        {
+            "title": "Health",
+            "file": "unitedstates/Iraq/Health.md"
+        },
+        {
+            "title": "Travel and Transportation",
+            "file": "unitedstates/Iraq/Travel and Transportation.md"
+        },
+        {
+            "title": "Fact Sheet",
+            "file": "unitedstates/Iraq/Fact Sheet.md"
+        },
+        {
+            "title": "Advisory",
+            "file": "unitedstates/Iraq/Advisory.md"
+        }
+    ],
+    "update_date_advisory": "2024-11-22T00:00:00",
+    "update_date_details": "2025-01-21T00:00:00"
+}

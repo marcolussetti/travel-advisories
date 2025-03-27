@@ -1,0 +1,49 @@
+{
+    "name": "Burundi",
+    "risk_level": "Level 3: Reconsider Travel",
+    "risk_level_number": 3,
+    "pages": [
+        {
+            "title": "Quick Facts",
+            "file": "unitedstates/Burundi/Quick Facts.md"
+        },
+        {
+            "title": "Embassies and Consulates",
+            "file": "unitedstates/Burundi/Embassies and Consulates.md"
+        },
+        {
+            "title": "Destination Description",
+            "file": "unitedstates/Burundi/Destination Description.md"
+        },
+        {
+            "title": "Entry, Exit and Visa Requirements",
+            "file": "unitedstates/Burundi/Entry, Exit and Visa Requirements.md"
+        },
+        {
+            "title": "Safety and Security",
+            "file": "unitedstates/Burundi/Safety and Security.md"
+        },
+        {
+            "title": "Local Laws & Special Circumstances",
+            "file": "unitedstates/Burundi/Local Laws & Special Circumstances.md"
+        },
+        {
+            "title": "Health",
+            "file": "unitedstates/Burundi/Health.md"
+        },
+        {
+            "title": "Travel and Transportation",
+            "file": "unitedstates/Burundi/Travel and Transportation.md"
+        },
+        {
+            "title": "Fact Sheet",
+            "file": "unitedstates/Burundi/Fact Sheet.md"
+        },
+        {
+            "title": "Advisory",
+            "file": "unitedstates/Burundi/Advisory.md"
+        }
+    ],
+    "update_date_advisory": "2025-02-21T00:00:00",
+    "update_date_details": "2023-06-27T00:00:00"
+}

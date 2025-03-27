@@ -1,0 +1,11 @@
+# Entry, Exit and Visa Requirements
+
+[#### Entry, Exit and Visa Requirements](javascript:void(0); "Entry, Exit and Visa Requirements")
+
+Visit the [Bahamas Immigration](https://www.bahamas.gov.bs/immigration) website for the most current visa information. U.S. citizens are generally required to present a valid U.S. passport when traveling to The Bahamas, as well as proof of anticipated departure from The Bahamas. Those traveling to The Bahamas on a cruise may use another [Western Hemisphere Travel Initiative](https://www.cbp.gov/travel/us-citizens/western-hemisphere-travel-initiative)(WHTI) compliant document, such as a U.S. passport card. However, we strongly recommend you obtain a passport before travel in case of an unforeseen emergency that requires you to disembark and return by air. U.S. travelers coming for tourism will not need a visa for travel up to 90 days. All other travelers will need a visa and/or work permit.
+
+The Bahamas requires compliance with regulations to divert child abduction similar to [U.S. policies](https://help.cbp.gov/s/login/?language=en_US&startURL=https%3A%2F%2Fhelp.cbp.gov%2Fapp%2Fanswers%2Fdetail%2Fa_id%2F827%2Fkw%2Fdivert%2520child%2520abduction&ec=302&inst=t). Review those policies before traveling.
+
+HIV/AIDS restrictions: The U.S. Department of State is unaware of any HIV/AIDS entry restrictions for visitors to or foreign residents of The Bahamas.  
+  
+Find information on [dual nationality](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/Dual-Nationality-Travelers.html "http://travel.state.gov/travel/cis_pa_tw/cis/cis_1753.html"), [prevention of international child abduction](https://travel.state.gov/content/travel/en/International-Parental-Child-Abduction/prevention.html "http://travel.state.gov/abduction/prevention/prevention_560.html"), and [customs regulations](https://travel.state.gov/content/travel/en/international-travel/before-you-go/customs-and-import.html) on our websites.

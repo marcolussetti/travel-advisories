@@ -1,0 +1,45 @@
+{
+    "name": "French West Indies",
+    "risk_level": null,
+    "risk_level_number": null,
+    "pages": [
+        {
+            "title": "Quick Facts",
+            "file": "unitedstates/French West Indies/Quick Facts.md"
+        },
+        {
+            "title": "Embassies and Consulates",
+            "file": "unitedstates/French West Indies/Embassies and Consulates.md"
+        },
+        {
+            "title": "Destination Description",
+            "file": "unitedstates/French West Indies/Destination Description.md"
+        },
+        {
+            "title": "Entry, Exit and Visa Requirements",
+            "file": "unitedstates/French West Indies/Entry, Exit and Visa Requirements.md"
+        },
+        {
+            "title": "Safety and Security",
+            "file": "unitedstates/French West Indies/Safety and Security.md"
+        },
+        {
+            "title": "Local Laws & Special Circumstances",
+            "file": "unitedstates/French West Indies/Local Laws & Special Circumstances.md"
+        },
+        {
+            "title": "Health",
+            "file": "unitedstates/French West Indies/Health.md"
+        },
+        {
+            "title": "Travel and Transportation",
+            "file": "unitedstates/French West Indies/Travel and Transportation.md"
+        },
+        {
+            "title": "Fact Sheet",
+            "file": "unitedstates/French West Indies/Fact Sheet.md"
+        }
+    ],
+    "update_date_advisory": null,
+    "update_date_details": "2023-10-10T00:00:00"
+}

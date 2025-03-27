@@ -1,0 +1,49 @@
+{
+    "name": "Niger",
+    "risk_level": "Level 3: Reconsider Travel",
+    "risk_level_number": 3,
+    "pages": [
+        {
+            "title": "Quick Facts",
+            "file": "unitedstates/Niger/Quick Facts.md"
+        },
+        {
+            "title": "Embassies and Consulates",
+            "file": "unitedstates/Niger/Embassies and Consulates.md"
+        },
+        {
+            "title": "Destination Description",
+            "file": "unitedstates/Niger/Destination Description.md"
+        },
+        {
+            "title": "Entry, Exit and Visa Requirements",
+            "file": "unitedstates/Niger/Entry, Exit and Visa Requirements.md"
+        },
+        {
+            "title": "Safety and Security",
+            "file": "unitedstates/Niger/Safety and Security.md"
+        },
+        {
+            "title": "Local Laws & Special Circumstances",
+            "file": "unitedstates/Niger/Local Laws & Special Circumstances.md"
+        },
+        {
+            "title": "Health",
+            "file": "unitedstates/Niger/Health.md"
+        },
+        {
+            "title": "Travel and Transportation",
+            "file": "unitedstates/Niger/Travel and Transportation.md"
+        },
+        {
+            "title": "Fact Sheet",
+            "file": "unitedstates/Niger/Fact Sheet.md"
+        },
+        {
+            "title": "Advisory",
+            "file": "unitedstates/Niger/Advisory.md"
+        }
+    ],
+    "update_date_advisory": "2025-03-21T00:00:00",
+    "update_date_details": "2024-01-08T00:00:00"
+}

@@ -1,0 +1,49 @@
+{
+    "name": "Mauritania",
+    "risk_level": "Level 3: Reconsider Travel",
+    "risk_level_number": 3,
+    "pages": [
+        {
+            "title": "Quick Facts",
+            "file": "unitedstates/Mauritania/Quick Facts.md"
+        },
+        {
+            "title": "Embassies and Consulates",
+            "file": "unitedstates/Mauritania/Embassies and Consulates.md"
+        },
+        {
+            "title": "Destination Description",
+            "file": "unitedstates/Mauritania/Destination Description.md"
+        },
+        {
+            "title": "Entry, Exit and Visa Requirements",
+            "file": "unitedstates/Mauritania/Entry, Exit and Visa Requirements.md"
+        },
+        {
+            "title": "Safety and Security",
+            "file": "unitedstates/Mauritania/Safety and Security.md"
+        },
+        {
+            "title": "Local Laws & Special Circumstances",
+            "file": "unitedstates/Mauritania/Local Laws & Special Circumstances.md"
+        },
+        {
+            "title": "Health",
+            "file": "unitedstates/Mauritania/Health.md"
+        },
+        {
+            "title": "Travel and Transportation",
+            "file": "unitedstates/Mauritania/Travel and Transportation.md"
+        },
+        {
+            "title": "Fact Sheet",
+            "file": "unitedstates/Mauritania/Fact Sheet.md"
+        },
+        {
+            "title": "Advisory",
+            "file": "unitedstates/Mauritania/Advisory.md"
+        }
+    ],
+    "update_date_advisory": "2023-07-31T00:00:00",
+    "update_date_details": "2023-12-29T00:00:00"
+}

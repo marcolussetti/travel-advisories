@@ -1,0 +1,39 @@
+# Local Laws & Special Circumstances
+
+[#### Local Laws & Special Circumstances](javascript:void(0); "Local Laws & Special Circumstances")
+
+**Criminal Penalties:** You are subject to local laws. If you violate local laws, even unknowingly, you may be expelled, arrested, or imprisoned. Convictions for possessing, using, or trafficking in illegal drugs can result in long jail sentences and heavy fines. While the consumption of alcohol is no longer prohibited for non-Muslims, regulations and enforcement remain unclear. You may be detained for questioning by the police if unable to produce an acceptable form of identification. Individuals establishing a business or practicing a profession that requires additional permits or licensing should seek information from the competent local authorities, prior to practicing or operating a business.
+
+Furthermore, some laws are also prosecutable in the United States, regardless of local law. For examples, see our website on [crimes against minors abroad](http://travel.state.gov/content/passports/en/emergencies/arrest/criminalpenalties.html) and the [Department of Justice](http://www.justice.gov/usam/criminal-resource-manual-1617-extraterritorial-criminal-jurisdiction-18-usc-112-878-970-1116) website.
+
+**Travel Permits:** A permit, obtainable from the Ministry of Tourism by your hotel or travel agent, is required for travel outside of the greater Khartoum area. A copy of the permit will be sent to the Aliens Department at the Ministry of Interior. A separate travel permit is required for travel to Darfur. The Embassy’s ability to provide consular services outside of Khartoum, including emergency assistance, is severely limited. Carry multiple copies of permits, as travelers without permits may be detained and arrested.
+
+**Photography:** Do not take photographs of any areas which may be sensitive to the government, including police and military installations, camps for internally displaced persons, and border areas. Photography requires a permit from the External Information Centre in Khartoum (part of the Ministry of Information). Even with a permit, it is illegal to take pictures of military installations, public utilities, infrastructure (e.g., bridges, airports), slum areas, or beggars. Do not take photographs or use equipment with cameras (including cell phone camera and laptops) close to government buildings. You could be fined, have your photographic equipment confiscated without notice, and risk detention and arrest. Do not take photos of Sudanese without their permission.
+
+**Arrest Notification:** If you are arrested or detained, ask police or prison officials to notify the U.S. Embassy immediately. See our [webpage](http://travel.state.gov/content/passports/english/emergencies/arrest.html) for further information.
+
+The U.S. Embassy will not receive notification of your arrest. Moreover, dual U.S.-Sudanese nationals will be prosecuted as Sudanese citizens, impeding our ability to provide consular services.
+
+**Sharia Law/Customs:** Personal status laws govern legal procedures pertaining to family relations, including marriage, divorce, child custody, maintenance (financial support), and inheritance. We strongly advise you seek local legal counsel if you must engage in local legal matters and make certain you are aware of your rights and responsibilities. Some national laws reflect a sharia system of jurisprudence. Non-Muslims are sometimes convicted of offenses based on officials’ interpretation of Islamic law. The government enacted legislation in July 2020 that removed flogging as a punishment for criminal and civil crimes. However, flogging remains a common sentence for hudud, which are punishments mandated under Islamic law for serious offenses. Non-Muslim women are not expected to wear a veil or cover their heads. Both women and men should dress modestly. Shorts are not appropriate. Public displays of affection are discouraged. Pornography is not permitted. Government offices and businesses follow an Islamic workweek (Sunday to Thursday).
+
+**Phone Service:** Cellular phones are common, as other telephone service is unreliable and landlines are nearly non-existent. It may be possible to purchase a SIM card locally and use a U.S.-compatible cell phone. Check for compatibility with local cellular networks with your phone carrier or manufacturer before you go. During periods of civil unrest, Sudanese authorities may cut all telecommunications for extended periods of time. Maintain alternate means of communication in such an event.
+
+**Currency:** The Sudanese pound (SDG) is the official currency. Sudan operates on a cash-only economy; U.S.-issued credit and debit cards do not work. Carry sufficient funds in U.S. dollars to cover all your expenses for the duration of your stay. Bills must be printed after 2006 and unblemished. Do not carry a large amount of cash because travelers carrying large amounts of U.S. currency have been detained and currency confiscated. Sudan has no international ATMs. Local ATMs draw on local banks only. Western Union operates in Khartoum only. Exchange currency only at reputable banks. Exchanging currency outside of official banking channels is illegal and is punishable by imprisonment and fines.
+
+**Faith-Based Travelers:** See the following webpages for details:
+
+* [Faith-Based Travel Information](https://travel.state.gov/content/passports/en/go/faith-based-travel.html)
+* [International Religious Freedom Report](http://www.state.gov/j/drl/irf/rpt/index.htm) – see country reports
+* [Human Rights Report](http://www.state.gov/j/drl/rls/hrrpt/) – see country reports
+* [Hajj Fact Sheet for Travelers](http://travel.state.gov/content/passports/en/go/Hajj.html)
+* [Best Practices for Volunteering Abroad](https://travel.state.gov/content/passports/en/go/volunteer.html)
+
+**LGB Travelers:** Sudanese law does not specifically prohibit homosexuality but criminalizes sodomy, which is punishable if convicted by five years in jail for an initial offense. Sudan’s civilian-led transitional government abolished corporal and capital punishment for conviction of sodomy. LGB persons are not considered a protected class under antidiscrimination laws. Anti–LGB sentiment remains pervasive in society. LGB organizations have alleged being pressured to alter their activities due to threat of harm. There have been no reports of official action to investigate or punish those complicit in LGB related discrimination or abuses.
+
+Seeour [LGB Travel Information](http://travel.state.gov/content/passports/english/go/lgbt.html)page and section six of our [Human Rights report](http://www.state.gov/j/drl/rls/hrrpt/) for further details.
+
+**Travelers Who Require Accessibility Assistance:** Access to transportation, lodging, and public buildings is limited for people with mobility issues. There are few sidewalks and no curb-cuts, and most buildings lack functioning elevators.
+
+**Students:**  See our [Students Abroad](http://travel.state.gov/content/studentsabroad/en.html) page and [FBI travel tips](https://ucr.fbi.gov/investigate/counterintelligence/student-brochure).
+
+**Women Travelers:** Early and forced marriage of children continues. While Sudan has criminalized Female Genital Mutilation (FGM), the national prevalence rate of Female Genital Mutilation/Cutting is 88 percent. Spousal abuse is common. Women who file claims of domestic violence are subjected to accusations of spreading false information, harassment, and detention. Police normally do not intervene in domestic disputes. Rape is a serious problem throughout the country, especially in conflict areas. See our travel tips for [Women Travelers](http://travel.state.gov/content/passports/english/go/Women.html).

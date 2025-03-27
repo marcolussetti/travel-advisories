@@ -1,0 +1,34 @@
+# Entry, Exit and Visa Requirements
+
+[#### Entry, Exit and Visa Requirements](javascript:void(0); "Entry, Exit and Visa Requirements")
+
+Before traveling to Russia, consider the current Travel Advisory.
+
+The Travel Advisory for Russia is Level 4, Do Not Travel. The Department of State recommends U.S. citizens do not travel to Russia due to the consequences of the full-scale invasion of Ukraine by Russian military forces. U.S. citizens may face harassment or detention by Russian security officials, arbitrary enforcement of local laws, limited flights into and out of Russia, and the possibility of terrorism. The U.S. Embassy has limited ability to assist U.S. citizens in Russia. The Department has determined that there is a continued risk of wrongful detention of U.S. nationals by Russian authorities. **U.S. citizens residing or traveling in Russia should leave immediately.**
+
+Russian authorities strictly enforce all visa and immigration laws. The [Embassy of the Russian Federation](https://washington.mid.ru/en/consular-services/citizens-usa/visa-to-russia/) website provides the most up to date information regarding visa regulations. In accordance with Russia’s Entry-Exit Law, Russian authorities may deny entry or reentry into Russia for five years or more and cancel the visas of foreigners who have committed two administrative violations within the past three years. Activities that are not specifically covered by the traveler’s visa may result in an administrative violation and deportation.
+
+Under a bilateral agreement signed in 2012, qualified U.S. applicants for humanitarian, private, tourist, and business visas may request and receive multiple-entry visas with a validity of three years or a single entry, three-month validity visa. (Please note that other types of visas are not part of the agreement, and those visa holders should pay close attention to the terms of their visas.) You cannot enter Russia prior to the date on your visa, and you must exit Russia before your visa expires. The maximum period of stay is shown on the visa.
+
+* **You must have a current U.S. passport with the appropriate visa.** Russian visas in an expired or canceled passport are not valid.
+* **You must obtain a valid visa for your specific purpose of travel before arriving in Russia. Do not attempt to enter Russia before the date shown on your visa.** If you are staying in Russia for more than seven days, you must register your visa and migration card with the General Administration for Migration Issues of the Ministry of Internal Affairs.
+* **Students and English teachers should be certain that their activities are in strict keeping with their visa type.** U.S. travelers in Russia on a student visa are prohibited by Russian law from teaching or coaching English for pay or as an unpaid volunteer.. It is a visa violation that may subject you to detention and deportation.
+* **Transit visas:** We recommend that all passengers transiting through Russia obtain a Russian transit visa.
+* With the exceptions noted below, travelers are not required to have a transit visa if they are transiting through an international airport in Russia, do not leave the Customs zone, and depart from the same airport within 24 hours.
+* Travelers must have a Russian transit visa if they plan to transit through Russia by land in route to a third country or if they transfer to another airport.
+* Travelers must possess a Russian transit visa in addition to a Belarusian visa if their travel route either to or from Belarus goes through Russia.
+
+**Dual Nationals:** Anyone entering Russia who has claim to Russian citizenship, regardless of any other citizenship they hold, is subject to Russian law and accountable to Russian authorities for all obligations of a Russian citizen, including required military service. Russia may refuse to recognize your U.S. citizenship if you are a dual U.S.-Russian citizen or have a claim to Russian citizenship. Russia has denied consular officers visits to detained dual U.S.-Russian citizens.
+
+* **U.S.-Russian dual nationals and Russian citizens who are Legal Permanent residents of the United States must register their dual nationality/foreign residency.** Registration forms and further information (in Russian only) can be found on the website of the General Administration for Migration Issues of the Interior Ministry of Russia. Dual U.S.-Russian citizens who have not registered have been arrested.
+* **U.S.-Russian dual nationals must both enter and exit on a Russian passport.** You will not be permitted to depart on an expired passport. Applying for a passport can take several months.
+* **U.S.-Russian dual nationals who return to Russia on a “Repatriation Certificate” are only permitted to enter Russia and will not be permitted to depart Russia until they obtain a valid Russian passport.**
+* **Minors who also have Russian citizenship and are traveling alone or in the company of adults who are not their parents, must carry a Russian passport as well as their parents’ notarized consent for the trip. Parents can contact, a Russian embassy or consulate or a U.S. notary public to notarize a letter of consent.**If you use a U.S. notary public, then the notarized document must be apostilled (authenticated), translated into Russian, and properly affixed. Russian authorities will prevent Russian citizen minors from entering or leaving Russia if they cannot present a properly notarized consent letter.
+
+**Crimea:** Follow the guidance in the Department’s [Travel Advisory for Ukraine](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Ukraine.html) and do not travel to the Crimean Peninsula.
+
+**Documentary Requirements for obtaining a Russian visa:** Consult with the [Embassy of the Russian Federation](https://washington.mid.ru/en/consular-services/citizens-usa/visa-to-russia/) for detailed explanations of documentary requirements.
+
+**HIV/AIDS Entry Restrictions:** Some HIV/AIDS entry restrictions exist for visitors to, and foreign residents of, Russia. Applicants for longer-term tourist and work visas or residence permits are required to undergo an HIV/AIDS test.
+
+Find information on [dual nationality](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/Dual-Nationality-Travelers.html), [prevention of international child abduction](https://travel.state.gov/content/travel/en/International-Parental-Child-Abduction/prevention.html) and [customs regulations](https://travel.state.gov/content/travel/en/international-travel/before-you-go/customs-and-import.html) on our websites.
