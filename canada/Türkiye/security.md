@@ -4,13 +4,13 @@
 
 ### Political demonstrations
 
-Protests have been occuring across Türkiye, particularly in Istanbul, since March 19, 2025.
+Since March 19, 2025, protests have been occurring across Türkiye, particularly in Istanbul.
 
-Large-scale demonstrations take place in busy public and pedestrian areas and may include roadblocks. Violent incidents have occurred and demonstrations may significantly disrupt traffic and public transportation.
+Large-scale demonstrations may result in heightened police presence, road closures, public transportation and traffic disruptions, and can turn violent.
 
-A protest ban is in effect in Istanbul province until 23:59 pm on March 27, 2025, which includes restrictions to freedom of movement for those suspected of participating in protests. This is expected to be strictly enforced.
+Several protest bans are in effect across the country, including in Ankara, Istanbul and Izmir. For Istanbul province, this includes restrictions to freedom of movement for people suspected of participating in protests.
 
-At this time, there may be an elevated risk of arbitrary arrest of individuals attempting to enter or leave the city of Istanbul or Istanbul Province.
+If you participate in demonstrations or travel to locations where demonstrations are taking place, you could be questioned by law enforcement and/or detained.
 
 * Avoid demonstrations
 * Review your travel plans and be prepared to change them on short notice

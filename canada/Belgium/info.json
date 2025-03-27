@@ -1,7 +1,7 @@
 {
     "name": "Belgium",
-    "update_reason": "editorial change",
-    "update_date": "2025-03-12T09:47:00",
+    "update_reason": "The Need help? section was updated.",
+    "update_date": "2025-03-26T08:32:00",
     "sections": {
         "risk": "canada/Belgium/risk.md",
         "security": "canada/Belgium/security.md",

@@ -77,7 +77,7 @@ If you plan to travel near the coast:
 
 ### Wildfires
 
-Bush and forest fires are common during the summer months. They can happen anywhere, but they usually occur between Santiago and Valparaíso, and in Magallanes.
+Bush and forest fires are common during the summer months, from December to March. They can happen anywhere, but they usually occur between Santiago and Valparaíso, and in Magallanes.
 
 The air quality in areas near active fires may deteriorate due to heavy smoke.
 

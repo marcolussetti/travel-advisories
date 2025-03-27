@@ -2,6 +2,22 @@
 
 ## Natural disasters and climate
 
+### Wildfires in Geongsang Province
+
+Wildfires are burning in central and southern parts of the country. Since March 23, 2025, fires have grown rapidly in Gyeongsang Province, near Uiseong and Yeongdeok. Evacuation orders and warnings are in effect for multiple zones.
+
+Several roads in the area are closed and there is low visibility for drivers due to smoke. Air quality is poor due to smoke and ash.
+
+Stay away from the affected areas. If you are near a wildfire:
+
+* follow the instructions of local emergency services personnel, including any evacuation order
+* monitor local media for up-to-date information on the situation
+
+#### Useful links
+
+* [More information on bush and forest fire](http://mercury:10088/travel-voyage-data-aggregator/datainterface/index.php?path=archivesViewer&id=308000&rid=20241211-160119-308000#fires)
+* [Disaster and Safety News](https://www.safekorea.go.kr/idsiSFK/neo/sfk/cs/sfc/dis/disasterNewsList.jsp?menuSeq=619) – SafeKorea (Korean only)
+
 ### Rainy and typhoon seasons
 
 The rainy season extends from late June until August. July is usually the wettest month. Severe rainstorms can cause flooding and landslides.
