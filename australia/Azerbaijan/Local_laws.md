@@ -24,6 +24,7 @@ In Azerbaijan, it's illegal to:
 
 * visit or take photos of military equipment and sites
 * take photos of military personnel
+* import drones or using drones in sensitive locations
 * buy antique or cultural artefacts without a permit
 * export antiques or cultural artefacts without an official certificate and receipt of purchase
 * convert a person to another faith
@@ -66,7 +67,7 @@ Explore our [Ramadan](/before-you-go/major-events/ramadan "Ramadan") page to l
 
 Dress standards can be conservative outside of Baku. Public displays of affection may not be welcome. Dress conservatively. Take care not to offend. If in doubt, seek local advice.
 
-#### LGBTQIA+ information
+#### LGBTQIA+ travellers
 
 Same-sex relationships are legal but not widely accepted.
 

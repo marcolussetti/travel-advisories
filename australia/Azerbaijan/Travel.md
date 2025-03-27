@@ -16,7 +16,7 @@ Ensure your passport is valid for at least 3 months from the expiry date of the 
 
 #### Visa extensions
 
-You can apply to extend or renew your visa through Azerbaijan's [State Migration Service](https://migration.gov.az/). Keep a copy of your passport and existing visa while your application is being processed. The Ministry of Interior Police may ask to see your documents at any time. See [Local laws](https://www.smartraveller.gov.au/destinations/europe/azerbaijan#local_laws).
+You can apply to extend or renew your visa through Azerbaijan's [State Migration Service](https://migration.gov.az/). Keep a copy of your passport and existing visa while your application is being processed. The Ministry of Interior Police may ask to see your documents at any time. See [Local laws](https://www.smartraveller.gov.au/before-you-go/laws ).
 
 **More information:**
 
@@ -77,8 +77,6 @@ Declare any amount of foreign currency on arrival. This covers all forms of cur
 
 You can export up to $US10,000 without documentation. Contact the [embassy or consulate of Azerbaijan](https://protocol.dfat.gov.au/Public/Missions/17) for details.
 
-Azerbaijan is a cash-based economy. You'll need to pay in local currency for many goods and services.
-
 US dollars and euros are also common. You can change notes in good condition for local currency.
 
 Credit cards are becoming more common in major cities. They may not be accepted in smaller restaurants and stores.
@@ -118,7 +116,7 @@ Look out for pedestrians, livestock and farm equipment when you drive, particula
 
 **More information:**
 
-* [Driving or riding](https://road)
+* [Driving or riding](https://www.smartraveller.gov.au/before-you-go/getting-around/road-safety )
 
 #### Taxis
 

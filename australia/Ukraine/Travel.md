@@ -128,7 +128,7 @@ If you decide to leave Ukraine by road, check the travel advice on [Smartravell
 
 #### Road travel
 
-Driving in Ukraine can be dangerous. Due to the Russian invasion of Ukraine, roads may be crowded, exposed to military action or damaged; this extends to bridges and facilities. See '[Safety](https://www.smartraveller.gov.au/destinations/europe/ukraine#safety)'.
+Driving in Ukraine can be dangerous. Due to the Russian invasion of Ukraine, roads may be crowded, exposed to military action or damaged; this extends to bridges and facilities. See 'Safety'.
 
 Hazards include:
 

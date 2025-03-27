@@ -2,7 +2,7 @@
 
 Latest update
 
-We continue to advise exercise a high degree of caution in Azerbaijan due to the threat of terrorism. Higher levels apply in some areas. Be alert to possible threats, especially in public places. Terrorists may target tourist areas and attractions or other places frequented by foreigners. Take official warnings seriously (see "Safety").
+We've reviewed our advice for Azerbaijan and continue to advise exercise a high degree of caution due to the threat of terrorism. Higher levels apply in some areas. Be alert to possible threats, especially in public places. Terrorists may target tourist areas and attractions or other places frequented by foreigners. Take official warnings seriously (see "Safety").
 
 Advice Level summary
 
@@ -53,7 +53,7 @@ Full travel advice: [Health](#Health)
 * Always carry your passport and visa with you. The police can fine or detain you if you don't show a valid travel document when asked.
 * Ensure you have the proper permits for buying antiques or cultural artefacts. It's illegal to export them without an official certificate and receipt of purchase. Export rules apply to religious objects, carpets, artworks and caviar. Check with local authorities before you export any items.
 * It's illegal to convert a person to another faith.
-* Most of Azerbaijan is conservative. Public displays of affection may not be welcome. Same-sex relations are legal but aren't widely accepted. LGBTI people may face discrimination, intolerance or violence based on sexuality and gender identity.
+* Most of Azerbaijan is conservative. Public displays of affection may not be welcome. Same-sex relations are legal but aren't widely accepted. LGBTQIA+ people may face discrimination, intolerance or violence based on sexuality and gender identity.
 
 Full travel advice: [Local laws](#local-laws)
 

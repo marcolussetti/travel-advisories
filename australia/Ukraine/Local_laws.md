@@ -37,7 +37,7 @@ The Australian embassy can't provide the following:
 
 If, despite our advice, you choose to enter Ukraine, make sure you have up-to-date visas and passports. Subscribe and follow the advice on the Smartraveller website and [social media](/about-us/social-media "Social media").
 
-You need to carefully consider the risks when entering and departing Ukraine. Any travel options you pursue are at your own risk. You're responsible for your own safety and that of your family. The Australian Government can't advise on the safety of travelling to departure points.
+You need to consider the risks when entering and departing Ukraine carefully. Any travel options you pursue are at your own risk. You're responsible for your own safety and that of your family. The Australian Government can't advise on the safety of travelling to departure points.
 
 If you're in Ukraine, make sure you have plans to leave Ukraine as soon as it's safe to do so. If your departure plan involves a vehicle, see '[Travel](#travel)'.
 

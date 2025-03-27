@@ -46,7 +46,7 @@ Carry a letter from your doctor stating:
 * your required dosage
 * that it's for personal use
 
-For more information, contact the Azerbaijan Embassy in Canberra: [canberra@mission.mfa.gov.az](mailto:canberra@mission.mfa.gov.az). 
+For more information, contact the nearest [embassy or consulate of Azerbaijan](https://protocol.dfat.gov.au/Public/Missions/17).  
 
 **More information:**
 
@@ -80,7 +80,7 @@ Get medical advice if you have a fever or diarrhoea.
 
 **More information:**
 
-* [Infectious diseases](https://infectious)
+* [Infectious diseases](https://www.smartraveller.gov.au/before-you-go/health/diseases)
 
 #### Medical care
 

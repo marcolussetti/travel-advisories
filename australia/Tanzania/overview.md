@@ -31,7 +31,8 @@ See [Safety](#safety)
 
 ### Safety
 
-* Terrorist attacks could happen at any time, including in locations popular with foreigners and tourists. The US Embassy in Tanzania has issued a [security alert](https://tz.usembassy.gov/security-alert-u-s-embassy-dar-es-salaam-tanzania-march-21-2025/) advising avoiding all travel to islands and coastal areas south of Kisiju. Be alert to your surroundings and pay close attention to your personal security.
+* Terrorist attacks could happen at any time, including in locations popular with foreigners and tourists.
+* The US Embassy in Tanzania has issued a [security alert](https://tz.usembassy.gov/security-alert-u-s-embassy-dar-es-salaam-tanzania-march-21-2025/) advising avoiding all travel to islands and coastal areas south of Kisiju. Be alert to your surroundings and pay close attention to your personal security.
 * During the rainy seasons (March to May and November to December), floods can block roads. Monsoons occur in coastal and island areas from July to October. Cyclones in coastal areas are also common. Follow the advice of local officials.
 * Violent armed robbery, petty theft and threats of violence are common, especially in Dar es Salaam. Be extra careful in and around Arusha in northern Tanzania. Armed robberies, carjackings and home invasions have occurred. Bag snatching from moving vehicles is increasing. Victims can be injured or killed by being dragged behind vehicles. Don't resist bag-snatch attempts.
 * Only use registered taxis. Travellers have been targeted by criminals while using unlicensed taxis.

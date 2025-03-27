@@ -125,10 +125,11 @@ To protect yourself from crime:
 * leave valuables in a safe location
 * take extra care at night
 
-Cases of drink spiking have been followed by robbery. To reduce your risk:
+Drink spiking can happen anywhere. Be alert to the potential risks, and don't leave food or drinks unattended. Pay attention when your drinks are being mixed. Stick to reputable venues and avoid homemade alcoholic drinks due to the risk of methanol poisoning. Get urgent medical help if you suspect you’ve been a victim.
 
-* don't accept food or drinks from people you don't know
-* never leave food or drinks unattended
+**More information:**
+
+* [Partying safely](/before-you-go/safety/partying "Partying safely")
 
 #### Scams
 
