@@ -31,8 +31,18 @@
               git add -A unitedstates/*.md
               git add -A unitedstates/*.json
               git add -A unitedstates/last_run.txt
-              timestamp=$(date -u -Is)
-              git commit -m "unitedstates: update travel advisories data" || exit 0
-              git push
+              
+              if git diff --quiet --exit-code; then
+                echo "No changes to commit."
+                exit 0
+              fi
+              
+              if [[ $(git diff --name-only) == "unitedstates/last_run.txt" ]]; then
+                echo "Only unitedstates/last_run.txt has changed, skipping commit."
+                exit 0
+              fi
     
+              timestamp=$(date -u -Is)
+              git commit -m "unitedstates: update travel advisories data"
+              git push
     

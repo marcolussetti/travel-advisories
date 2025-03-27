@@ -30,5 +30,17 @@
                 git add -A ireland/*.md
                 git add -A ireland/*.json
                 git add -A ireland/last_run.txt
-                git commit -m "ireland: update travel advisories data" || exit 0
+              
+                if git diff --quiet --exit-code; then
+                  echo "No changes to commit."
+                  exit 0
+                fi
+                
+                if [[ $(git diff --name-only) == "ireland/last_run.txt" ]]; then
+                  echo "Only ireland/last_run.txt has changed, skipping commit."
+                  exit 0
+                fi
+      
+                timestamp=$(date -u -Is)
+                git commit -m "ireland: update travel advisories data"
                 git push
