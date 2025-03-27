@@ -4,7 +4,7 @@ import requests
 from bs4 import BeautifulSoup
 import csv
 import json
-from datetime import datetime
+from datetime import datetime, timezone
 from markdownify import markdownify as md
 import tls_client
 import re
@@ -199,7 +199,7 @@ def run_all_countries(summary_data, since: datetime = None):
     targets = [
         country
         for country in summary_data
-        if since is None or (country["last_updated"] and datetime.fromisoformat(country["last_updated"]) >= since)
+        if since is None or (country["last_updated"] and datetime.fromisoformat(country["last_updated"]).replace(tzinfo=timezone.utc) >= since)
     ]
 
     total_countries = len(targets)
@@ -213,7 +213,7 @@ def run_all_countries(summary_data, since: datetime = None):
 
 
 def main():
-    start_time = datetime.now()
+    start_time = datetime.now(timezone.utc)
     print("Fetching the main page")
     html = fetch_page(URL)
     if html:
@@ -230,6 +230,7 @@ def main():
             with open("australia/last_run.txt", "r", encoding="utf-8") as f:
                 try:
                     last_run = datetime.strptime(f.read().strip(), "%Y-%m-%dT%H:%M:%S")
+                    last_run = last_run.replace(tzinfo=timezone.utc)
                 except ValueError:
                     last_run = None  # Handle cases where the file contains invalid data
         else:

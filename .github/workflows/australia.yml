@@ -1,5 +1,5 @@
 ---
-    name: canada - fetch latest travel-advisories data
+    name: australia - fetch latest travel-advisories data
     on:
       schedule:
         - cron: "7 13 * * *"
@@ -19,7 +19,7 @@
             run: |-
               python3 -m pip install --upgrade pip
               pip install -r code/requirements.txt
-          - name: Parse Canada travel advisories
+          - name: Parse Australia travel advisories
             run: python3 code/australia.py
           - name: Check for changes and commit
             run: |-
