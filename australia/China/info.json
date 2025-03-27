@@ -1,0 +1,29 @@
+{
+    "overview": "australia/China/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/China/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/China/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/China/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/China/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/China/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/asia/china",
+    "advisory_level": "Exercise a high degree of caution",
+    "destination": "China",
+    "last_updated": "2025-02-06T12:00:00Z"
+}

@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Honduras/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Honduras/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Honduras/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Honduras/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Honduras/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Honduras/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/americas/honduras",
+    "advisory_level": "Exercise a high degree of caution",
+    "destination": "Honduras",
+    "last_updated": "2024-12-09T12:00:00Z"
+}

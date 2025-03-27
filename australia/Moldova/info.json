@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Moldova/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Moldova/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Moldova/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Moldova/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Moldova/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Moldova/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/europe/moldova",
+    "advisory_level": "Exercise a high degree of caution",
+    "destination": "Moldova",
+    "last_updated": "2025-02-17T12:00:00Z"
+}

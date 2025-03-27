@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Malta/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Malta/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Malta/Health.md"
+        },
+        {
+            "title": "Local Laws",
+            "file": "australia/Malta/Local_Laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Malta/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Malta/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/europe/malta",
+    "advisory_level": "Exercise normal safety precautions",
+    "destination": "Malta",
+    "last_updated": "2024-10-16T12:00:00Z"
+}

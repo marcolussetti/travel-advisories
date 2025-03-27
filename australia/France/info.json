@@ -1,0 +1,29 @@
+{
+    "overview": "australia/France/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/France/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/France/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/France/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/France/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/France/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/europe/france",
+    "advisory_level": "Exercise a high degree of caution",
+    "destination": "France",
+    "last_updated": "2025-03-19T12:00:00Z"
+}

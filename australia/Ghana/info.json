@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Ghana/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Ghana/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Ghana/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Ghana/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Ghana/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Ghana/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/africa/ghana",
+    "advisory_level": "Exercise a high degree of caution",
+    "destination": "Ghana",
+    "last_updated": "2024-12-09T12:00:00Z"
+}

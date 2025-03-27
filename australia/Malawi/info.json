@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Malawi/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Malawi/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Malawi/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Malawi/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Malawi/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Malawi/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/africa/malawi",
+    "advisory_level": "Exercise a high degree of caution",
+    "destination": "Malawi",
+    "last_updated": "2024-12-18T12:00:00Z"
+}

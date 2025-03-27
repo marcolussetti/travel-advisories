@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Kyrgyz Republic/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Kyrgyz Republic/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Kyrgyz Republic/Health.md"
+        },
+        {
+            "title": "Local Laws",
+            "file": "australia/Kyrgyz Republic/Local_Laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Kyrgyz Republic/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Kyrgyz Republic/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/asia/kyrgyz-republic",
+    "advisory_level": "Exercise a high degree of caution",
+    "destination": "Kyrgyz Republic",
+    "last_updated": "2025-02-18T12:00:00Z"
+}

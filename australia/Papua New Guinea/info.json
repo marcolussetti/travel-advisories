@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Papua New Guinea/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Papua New Guinea/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Papua New Guinea/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Papua New Guinea/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Papua New Guinea/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Papua New Guinea/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/pacific/papua-new-guinea",
+    "advisory_level": "Exercise a high degree of caution",
+    "destination": "Papua New Guinea",
+    "last_updated": "2025-02-25T12:00:00Z"
+}

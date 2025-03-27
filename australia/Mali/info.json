@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Mali/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Mali/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Mali/Health.md"
+        },
+        {
+            "title": "Local Laws",
+            "file": "australia/Mali/Local_Laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Mali/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Mali/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/africa/mali",
+    "advisory_level": "Do not travel",
+    "destination": "Mali",
+    "last_updated": "2025-03-05T12:00:00Z"
+}

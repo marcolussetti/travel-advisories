@@ -1,0 +1,29 @@
+{
+    "overview": "australia/El Salvador/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/El Salvador/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/El Salvador/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/El Salvador/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/El Salvador/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/El Salvador/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/americas/el-salvador",
+    "advisory_level": "Exercise a high degree of caution",
+    "destination": "El Salvador",
+    "last_updated": "2024-11-06T12:00:00Z"
+}

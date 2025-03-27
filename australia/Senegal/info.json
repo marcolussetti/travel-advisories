@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Senegal/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Senegal/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Senegal/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Senegal/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Senegal/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Senegal/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/africa/senegal",
+    "advisory_level": "Exercise a high degree of caution",
+    "destination": "Senegal",
+    "last_updated": "2025-03-26T12:00:00Z"
+}

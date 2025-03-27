@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Liberia/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Liberia/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Liberia/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Liberia/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Liberia/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Liberia/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/africa/liberia",
+    "advisory_level": "Exercise a high degree of caution",
+    "destination": "Liberia",
+    "last_updated": "2025-01-10T12:00:00Z"
+}

@@ -1,0 +1,29 @@
+{
+    "overview": "australia/T\u00fcrkiye/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/T\u00fcrkiye/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/T\u00fcrkiye/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/T\u00fcrkiye/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/T\u00fcrkiye/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/T\u00fcrkiye/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/europe/turkiye",
+    "advisory_level": "Exercise a high degree of caution",
+    "destination": "T\u00fcrkiye",
+    "last_updated": "2025-03-24T12:00:00Z"
+}

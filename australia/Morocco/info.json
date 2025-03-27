@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Morocco/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Morocco/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Morocco/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Morocco/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Morocco/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Morocco/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/africa/morocco",
+    "advisory_level": "Exercise a high degree of caution",
+    "destination": "Morocco",
+    "last_updated": "2024-12-10T12:00:00Z"
+}

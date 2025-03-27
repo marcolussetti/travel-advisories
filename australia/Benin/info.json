@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Benin/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Benin/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Benin/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Benin/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Benin/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Benin/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/africa/benin",
+    "advisory_level": "Exercise a high degree of caution",
+    "destination": "Benin",
+    "last_updated": "2024-10-30T12:00:00Z"
+}

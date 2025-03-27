@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Kenya/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Kenya/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Kenya/Health.md"
+        },
+        {
+            "title": "Local Laws",
+            "file": "australia/Kenya/Local_Laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Kenya/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Kenya/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/africa/kenya",
+    "advisory_level": "Exercise a high degree of caution",
+    "destination": "Kenya",
+    "last_updated": "2025-02-25T12:00:00Z"
+}

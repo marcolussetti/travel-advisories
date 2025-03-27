@@ -1,0 +1,29 @@
+{
+    "overview": "australia/North Macedonia/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/North Macedonia/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/North Macedonia/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/North Macedonia/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/North Macedonia/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/North Macedonia/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/europe/north-macedonia",
+    "advisory_level": "Exercise normal safety precautions",
+    "destination": "North Macedonia",
+    "last_updated": "2025-02-07T12:00:00Z"
+}

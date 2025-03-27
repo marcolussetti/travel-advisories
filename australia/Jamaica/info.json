@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Jamaica/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Jamaica/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Jamaica/Health.md"
+        },
+        {
+            "title": "Local law",
+            "file": "australia/Jamaica/Local_law.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Jamaica/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Jamaica/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/americas/jamaica",
+    "advisory_level": "Exercise a high degree of caution",
+    "destination": "Jamaica",
+    "last_updated": "2024-11-01T12:00:00Z"
+}

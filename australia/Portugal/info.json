@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Portugal/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Portugal/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Portugal/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Portugal/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Portugal/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Portugal/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/europe/portugal",
+    "advisory_level": "Exercise normal safety precautions",
+    "destination": "Portugal",
+    "last_updated": "2024-11-01T12:00:00Z"
+}

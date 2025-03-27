@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Palau/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Palau/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Palau/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Palau/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Palau/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Palau/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/pacific/palau",
+    "advisory_level": "Exercise normal safety precautions",
+    "destination": "Palau",
+    "last_updated": "2025-01-22T12:00:00Z"
+}

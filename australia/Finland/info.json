@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Finland/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Finland/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Finland/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Finland/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Finland/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Finland/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/europe/finland",
+    "advisory_level": "Exercise normal safety precautions",
+    "destination": "Finland",
+    "last_updated": "2024-10-16T12:00:00Z"
+}

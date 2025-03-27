@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Macau/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Macau/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Macau/Health.md"
+        },
+        {
+            "title": "Local Laws",
+            "file": "australia/Macau/Local_Laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Macau/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Macau/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/asia/macau",
+    "advisory_level": "Exercise a high degree of caution",
+    "destination": "Macau",
+    "last_updated": "2025-03-20T12:00:00Z"
+}

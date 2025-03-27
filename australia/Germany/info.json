@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Germany/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Germany/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Germany/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Germany/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Germany/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Germany/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/europe/germany",
+    "advisory_level": "Exercise a high degree of caution",
+    "destination": "Germany",
+    "last_updated": "2025-03-20T12:00:00Z"
+}

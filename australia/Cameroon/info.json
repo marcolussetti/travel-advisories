@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Cameroon/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Cameroon/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Cameroon/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Cameroon/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Cameroon/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Cameroon/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/africa/cameroon",
+    "advisory_level": "Exercise a high degree of caution",
+    "destination": "Cameroon",
+    "last_updated": "2025-01-08T12:00:00Z"
+}

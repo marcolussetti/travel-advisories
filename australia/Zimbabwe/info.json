@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Zimbabwe/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Zimbabwe/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Zimbabwe/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Zimbabwe/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Zimbabwe/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Zimbabwe/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/africa/zimbabwe",
+    "advisory_level": "Exercise a high degree of caution",
+    "destination": "Zimbabwe",
+    "last_updated": "2025-03-03T12:00:00Z"
+}

@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Kosovo/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Kosovo/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Kosovo/Health.md"
+        },
+        {
+            "title": "Local Laws",
+            "file": "australia/Kosovo/Local_Laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Kosovo/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Kosovo/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/europe/kosovo",
+    "advisory_level": "Exercise a high degree of caution",
+    "destination": "Kosovo",
+    "last_updated": "2024-10-30T12:00:00Z"
+}

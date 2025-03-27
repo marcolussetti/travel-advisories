@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Samoa/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Samoa/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Samoa/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Samoa/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Samoa/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Samoa/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/pacific/samoa",
+    "advisory_level": "Exercise normal safety precautions",
+    "destination": "Samoa",
+    "last_updated": "2024-11-29T12:00:00Z"
+}

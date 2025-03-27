@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Gabon/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Gabon/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Gabon/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Gabon/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Gabon/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Gabon/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/africa/gabon",
+    "advisory_level": "Exercise a high degree of caution",
+    "destination": "Gabon",
+    "last_updated": "2025-03-17T12:00:00Z"
+}

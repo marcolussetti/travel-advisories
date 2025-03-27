@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Singapore/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Singapore/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Singapore/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Singapore/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Singapore/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Singapore/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/asia/singapore",
+    "advisory_level": "Exercise normal safety precautions",
+    "destination": "Singapore",
+    "last_updated": "2025-03-03T12:00:00Z"
+}

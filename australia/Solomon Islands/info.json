@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Solomon Islands/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Solomon Islands/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Solomon Islands/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Solomon Islands/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Solomon Islands/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Solomon Islands/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/pacific/solomon-islands",
+    "advisory_level": "Exercise normal safety precautions",
+    "destination": "Solomon Islands",
+    "last_updated": "2025-02-03T12:00:00Z"
+}

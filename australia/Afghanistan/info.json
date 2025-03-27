@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Afghanistan/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Afghanistan/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Afghanistan/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Afghanistan/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Afghanistan/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Afghanistan/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/asia/afghanistan",
+    "advisory_level": "Do not travel",
+    "destination": "Afghanistan",
+    "last_updated": "2024-12-04T12:00:00Z"
+}

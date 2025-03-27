@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Mozambique/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Mozambique/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Mozambique/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Mozambique/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Mozambique/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Mozambique/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/africa/mozambique",
+    "advisory_level": "Reconsider your need to travel",
+    "destination": "Mozambique",
+    "last_updated": "2025-01-20T12:00:00Z"
+}

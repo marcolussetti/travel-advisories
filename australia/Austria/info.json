@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Austria/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Austria/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Austria/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Austria/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Austria/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Austria/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/europe/austria",
+    "advisory_level": "Exercise normal safety precautions",
+    "destination": "Austria",
+    "last_updated": "2025-03-26T12:00:00Z"
+}

@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Dominican Republic/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Dominican Republic/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Dominican Republic/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Dominican Republic/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Dominican Republic/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Dominican Republic/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/americas/dominican-republic",
+    "advisory_level": "Exercise a high degree of caution",
+    "destination": "Dominican Republic",
+    "last_updated": "2025-01-20T12:00:00Z"
+}

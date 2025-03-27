@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Ethiopia/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Ethiopia/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Ethiopia/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Ethiopia/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Ethiopia/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Ethiopia/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/africa/ethiopia",
+    "advisory_level": "Reconsider your need to travel",
+    "destination": "Ethiopia",
+    "last_updated": "2025-03-19T12:00:00Z"
+}

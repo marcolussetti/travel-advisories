@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Maldives/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Maldives/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Maldives/Health.md"
+        },
+        {
+            "title": "Local Laws",
+            "file": "australia/Maldives/Local_Laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Maldives/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Maldives/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/asia/maldives",
+    "advisory_level": "Exercise a high degree of caution",
+    "destination": "Maldives",
+    "last_updated": "2024-11-18T12:00:00Z"
+}

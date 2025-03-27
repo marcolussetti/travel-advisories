@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Eritrea/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Eritrea/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Eritrea/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Eritrea/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Eritrea/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Eritrea/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/africa/eritrea",
+    "advisory_level": "Reconsider your need to travel",
+    "destination": "Eritrea",
+    "last_updated": "2025-01-10T12:00:00Z"
+}

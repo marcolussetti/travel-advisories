@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Tajikistan/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Tajikistan/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Tajikistan/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Tajikistan/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Tajikistan/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Tajikistan/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/asia/tajikistan",
+    "advisory_level": "Exercise a high degree of caution",
+    "destination": "Tajikistan",
+    "last_updated": "2025-01-13T12:00:00Z"
+}

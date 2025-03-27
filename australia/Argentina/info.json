@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Argentina/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Argentina/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Argentina/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Argentina/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Argentina/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Argentina/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/americas/argentina",
+    "advisory_level": "Exercise normal safety precautions",
+    "destination": "Argentina",
+    "last_updated": "2025-02-26T12:00:00Z"
+}

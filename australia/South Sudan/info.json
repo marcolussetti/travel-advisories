@@ -1,0 +1,29 @@
+{
+    "overview": "australia/South Sudan/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/South Sudan/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/South Sudan/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/South Sudan/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/South Sudan/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/South Sudan/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/africa/south-sudan",
+    "advisory_level": "Do not travel",
+    "destination": "South Sudan",
+    "last_updated": "2025-03-27T12:00:00Z"
+}

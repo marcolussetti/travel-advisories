@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Sweden/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Sweden/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Sweden/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Sweden/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Sweden/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Sweden/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/europe/sweden",
+    "advisory_level": "Exercise a high degree of caution",
+    "destination": "Sweden",
+    "last_updated": "2024-10-16T12:00:00Z"
+}

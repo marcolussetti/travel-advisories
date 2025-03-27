@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Burkina Faso/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Burkina Faso/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Burkina Faso/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Burkina Faso/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Burkina Faso/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Burkina Faso/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/africa/burkina-faso",
+    "advisory_level": "Do not travel",
+    "destination": "Burkina Faso",
+    "last_updated": "2024-12-17T12:00:00Z"
+}

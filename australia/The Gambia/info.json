@@ -1,0 +1,29 @@
+{
+    "overview": "australia/The Gambia/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/The Gambia/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/The Gambia/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/The Gambia/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/The Gambia/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/The Gambia/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/africa/gambia",
+    "advisory_level": "Exercise a high degree of caution",
+    "destination": "The Gambia",
+    "last_updated": "2024-07-22T12:00:00Z"
+}

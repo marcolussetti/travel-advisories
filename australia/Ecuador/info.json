@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Ecuador/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Ecuador/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Ecuador/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Ecuador/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Ecuador/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Ecuador/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/americas/ecuador",
+    "advisory_level": "Exercise a high degree of caution",
+    "destination": "Ecuador",
+    "last_updated": "2025-03-05T12:00:00Z"
+}

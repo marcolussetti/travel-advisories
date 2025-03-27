@@ -1,0 +1,225 @@
+# Safety
+
+#### Security situation
+
+Regional tensions are high, and the security situation could deteriorate quickly with little or no notice. This may also result in airspace closures, flight cancellations, flight diversions, and other travel disruptions. 
+
+The security situation in Iran remains volatile. Tensions in the region are high and may escalate further, due to ongoing hostility between Iran and Israel, and military tensions between Iran, the US, and other countries in the Middle East.
+
+If despite our advice you go to Iran, or decide to stay there, monitor media for possible threats and take extra precautions for your safety:
+
+* keep a low profile.
+* keep in contact with family and friends
+* don't travel alone or at night
+* check routes before you travel
+* don't put your travel or other plans on social media
+* work with only reliable, registered and authorised organisations and travel agencies
+* don't carry large amounts of cash
+
+Airlines may cancel or reduce their operations to and from Iran at short notice. If tensions escalate, your options to leave may be limited. The Australian Government may not be able to assist with your departure. Check the latest flight status with your airline or travel provider and make arrangements in case you can’t leave. Share those plans with family and friends.
+
+Iranian authorities are active in and closely monitor border areas with Iraq, Afghanistan and Pakistan. The security situation within 10km of the Iran-Iraq border is extremely dangerous.
+
+Do not visit military or nuclear sites; these are not always clearly marked. Follow the advice of local authorities and monitor the media.
+
+#### Civil unrest and political tension
+
+Political developments in the region and local political tensions can trigger protests, demonstrations and vigils with little notice. Public protests and events that draw large groups of people can potentially turn violent.
+
+Australian embassy staff and their families in Tehran have been advised to monitor their surroundings and avoid protest areas.
+
+Some airlines may cancel flights at short notice in response to security developments - check with your airline.
+
+In late 2022 and early 2023, there were widespread protests across many cities and towns in Iran. Previously, security forces' response to protests has been severe, and many protesters and bystanders have been injured, killed or detained. During past protest periods, there have been increases in the number of foreign nationals arrested. You should avoid all protest activity.
+
+Iranians sometimes protest against some Western and Middle East embassies and UN missions.
+
+To protect yourself during periods of unrest:
+
+* avoid demonstrations, protests, large crowds and vigils
+* do not photograph demonstrations, protests, large crowds or vigils
+* monitor media for possible threats
+* plan activities to avoid disruption on national or commemorative days
+* follow the advice of local authorities
+* share your itinerary with family and friends and keep in close contact so they know where you are.
+
+Be prepared to change your plans in case of disruptions.
+
+If civil unrest disrupts transport, ask your airline, travel agent or insurer for help.
+
+**More information:**
+
+* [Demonstrations and civil unrest](https://www.smartraveller.gov.au/node/343)
+
+#### Risk of arbitrary detention or arrest
+
+Travellers in Iran, including Australians, are at a high risk of arbitrary detention or arrest. A number of Australians, including dual nationals, have been detained in Iran without due process of law.
+
+There's been an increase in the number of foreign nationals being arrested or detained in Iran.
+
+You may be at greater risk of detention if authorities are suspicious of your activities or background. You could attract the attention of authorities if you:
+
+* study or do other academic activity
+* travel outside tourist areas
+* are near crowds, demonstrations or sensitive sites
+* take photos, except in major tourist sites
+* have contact with Iranians who are of interest to authorities
+* behave or express views perceived as anti-Iranian, anti-Iranian Government, or that could cause religious offence
+* are affiliated with, or have links to, Iranian opposition or other political groups.
+
+Iran does not recognise dual nationality. If you're a dual Australian-Iranian national and are detained in Iran, our ability to provide consular support is extremely limited.
+
+The Australian Government may not be notified if you're detained. We can't guarantee consular access to any Australian detained or arrested. We also can't guarantee access to legal representation.
+
+If you're in Iran, you should leave immediately.
+
+**More information:**
+
+* [Advice for dual nationals](https://www.smartraveller.gov.au/before-you-go/who-you-are/dual-nationals)
+* [Fact sheet: Arrested or jailed overseas](https://www.smartraveller.gov.au/consular-services/resources/arrested-jailed-overseas-factsheet)
+
+#### Terrorism
+
+A terrorist attack could happen anywhere in Iran at any time, including in Tehran. 
+
+In January 2024, at least 84 people were killed and more than 200 wounded in suicide bombing attacks in Kerman, southern Iran, carried out by Islamic State Khorasan Province (ISKP).
+
+On 26 October 2022, a terrorist attack on the Shah Cheragh Shrine in Shiraz killed at least 14 people and injured 40 others.
+
+Possible targets for attacks include:
+
+* embassies
+* hotels
+* places of worship
+* tourist sites
+* government interests
+* military parades and locations
+* Western businesses and other interests
+
+To stay safe from terrorist risks:
+
+* be alert to possible threats throughout the country
+* avoid places where there is a low level of security and possible target areas
+* monitor the media for new threats
+* report suspicious activity or items to police
+* take official warnings seriously
+* follow the instructions of local authorities
+
+If there's an attack:
+
+* leave the area as soon as it's safe
+* avoid the affected area in case of secondary attacks
+
+Terrorism is a threat worldwide.
+
+**More information:**
+
+* [Terrorism](/before-you-go/safety/terrorism "Terrorism")
+
+#### Kidnapping
+
+[Kidnapping](https://www.smartraveller.gov.au/before-you-go/safety/kidnapping) for ransom is a risk in Iran. Foreign nationals have been targeted. The kidnapping risk is heightened in the border areas with Afghanistan and Pakistan, including in the area east of Bam, Jask, and the Sistan and Baluchestan provinces. Terrorists, drug traffickers, smugglers and bandits are active in these regions.
+
+Kidnapping happens with political, ideological and criminal motives. 
+
+To reduce the risk of being kidnapped: 
+
+* always be alert to your personal security and surroundings
+* get professional security advice for travel in locations with a heightened kidnap risk
+* check your accommodation has appropriate security measures
+* vary your movements and don't set patterns
+* avoid isolated locations, particularly when travelling alone
+* notify family or friends of planned travel and share your location
+* avoid talking about your money or business affairs
+* use ATMs in public places and during daylight hours
+* avoid giving personal details to strangers online or over the phone
+
+The Australian Government's longstanding policy is that it doesn't make payments or concessions to kidnappers.
+
+Ransom payments to kidnappers have funded further terrorist attacks and criminal activity. Paying a ransom to terrorist groups will likely break Australian counter-terrorism financing laws. 
+
+**More information:**
+
+* [Kidnapping](https://www.smartraveller.gov.au/node/57)
+
+#### Crime
+
+#### Violent crime
+
+The level of violent crime in Iran is generally low, but petty crime is increasing due to the worsening economic situation.
+
+Terrorists, drug traffickers, smugglers and bandits are active in the border areas near Afghanistan and Pakistan. This includes:
+
+* Sistan and Baluchestan province
+* east of the city of Bam in Kerman province
+
+Violent incidents often occur in these areas, such as:
+
+* clashes between security forces and smugglers
+* bombings
+* shootings
+
+Travel at night in these areas is particularly dangerous.
+
+Be alert to your surroundings, especially at night. Don't draw unwanted attention to yourself.
+
+#### Petty crime
+
+There have been increasing reports of thieves in passing vehicles and on motor bikes snatching bags from pedestrians, home break-ins and robberies.
+
+Women can face unwanted attention and harassment. [Women](/before-you-go/who-you-are/women "Advice for women travellers") should take care travelling alone, particularly at night.
+
+#### Scams and fraud
+
+Men may approach foreigners and claim to be plain-clothes police. They say they're looking for foreign drug dealers and ask to see wallets and ID.
+
+If this happens, it could be a [scam](/before-you-go/safety/scams "Scams that affect travellers"). Ask a uniformed police officer for help.
+
+#### Cyber security
+
+You may be at risk of cyber-based threats during overseas travel to any country. Digital identity theft is a growing concern. Your devices and personal data can be compromised, especially if you’re connecting to Wi-Fi, using or connecting to shared or public computers, or to Bluetooth.
+
+Social media can also be risky in destinations where there are social or political tensions, or laws that may seem unreasonable by Australian standards. Travellers have been arrested for things they have said on social media. Don't comment on local or political events on your social media.
+
+**More information:**
+
+* [Cyber security when travelling overseas](https://www.smartraveller.gov.au/before-you-go/staying-safe/cyber-security)
+
+#### Drink spiking and methanol poisoning
+
+It is illegal to import, manufacture, sell or consume alcoholic drinks in Iran. There are no licensed commercial establishments that sell alcohol legally. Alcoholic drinks in Iran are unregulated and mostly homemade. Methanol poisoning incidents occur from time to time, resulting in serious injuries and deaths.
+
+If, despite our advice, you decide to consume alcoholic drinks in Iran, be alert to the potential risks around drink spiking and methanol poisoning through consuming alcoholic drinks. See our advice on partying safely while overseas.
+
+Get urgent medical attention if you think you or someone else has been drugged. Methanol can be used in unregulated alcohol production to lower costs. Methanol is highly toxic. As little as one shot can be fatal. Act quickly if you suspect you or someone you're travelling with has been poisoned.
+
+#### Climate and natural disasters
+
+Earthquakes and [severe weather](/while-youre-away/crisis-or-emergency/severe-weather-incident "There's a severe weather incident") occur in Iran.
+
+If a [natural disaster](/before-you-go/safety/natural-disasters "Staying safe when there's a natural disaster") happens:
+
+* secure your passport in a safe, waterproof location
+* monitor local media
+* follow the advice of local authorities
+* keep in contact with your friends and family
+
+#### Earthquakes
+
+Iran is in an active seismic zone and experiences frequent [earthquakes](/before-you-go/safety/earthquakes-tsunamis "Earthquakes and tsunamis"). There have been several major earthquakes in recent years.
+
+Aftershocks often follow a major earthquake. They can cause further damage to already weakened structures.
+
+Register with the [Global Disaster Alert and Coordination System](http://gdacs.org/) to receive alerts on major disasters.
+
+#### Severe weather
+
+Iran experiences extremely high temperatures.
+
+The temperature in some areas can reach over 50˚C in July and August, the hottest months of the year.
+
+Some regions have heavy snowfall during winter.
+
+Sandstorms and dust storms occur regularly.
+
+Flash flooding can occur, particularly in Spring.

@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Uganda/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Uganda/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Uganda/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Uganda/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Uganda/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Uganda/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/africa/uganda",
+    "advisory_level": "Exercise a high degree of caution",
+    "destination": "Uganda",
+    "last_updated": "2025-03-17T12:00:00Z"
+}

@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Bolivia/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Bolivia/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Bolivia/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Bolivia/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Bolivia/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Bolivia/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/americas/bolivia",
+    "advisory_level": "Exercise a high degree of caution",
+    "destination": "Bolivia",
+    "last_updated": "2025-02-04T12:00:00Z"
+}
