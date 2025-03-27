@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Poland/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Poland/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Poland/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Poland/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Poland/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Poland/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/europe/poland",
+    "advisory_level": "Exercise normal safety precautions",
+    "destination": "Poland",
+    "last_updated": "2024-10-16T12:00:00Z"
+}

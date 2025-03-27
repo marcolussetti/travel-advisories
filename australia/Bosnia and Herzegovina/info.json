@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Bosnia and Herzegovina/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Bosnia and Herzegovina/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Bosnia and Herzegovina/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Bosnia and Herzegovina/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Bosnia and Herzegovina/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Bosnia and Herzegovina/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/europe/bosnia-and-herzegovina",
+    "advisory_level": "Exercise a high degree of caution",
+    "destination": "Bosnia and Herzegovina",
+    "last_updated": "2025-03-27T12:00:00Z"
+}

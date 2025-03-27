@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Cook Islands/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Cook Islands/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Cook Islands/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Cook Islands/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Cook Islands/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Cook Islands/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/pacific/cook-islands",
+    "advisory_level": "Exercise normal safety precautions",
+    "destination": "Cook Islands",
+    "last_updated": "2025-02-24T12:00:00Z"
+}

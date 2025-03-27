@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Laos/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Laos/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Laos/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Laos/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Laos/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Laos/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/asia/laos",
+    "advisory_level": "Exercise normal safety precautions",
+    "destination": "Laos",
+    "last_updated": "2025-02-28T12:00:00Z"
+}

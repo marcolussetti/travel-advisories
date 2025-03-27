@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Guatemala/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Guatemala/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Guatemala/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Guatemala/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Guatemala/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Guatemala/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/americas/guatemala",
+    "advisory_level": "Exercise a high degree of caution",
+    "destination": "Guatemala",
+    "last_updated": "2025-02-20T12:00:00Z"
+}

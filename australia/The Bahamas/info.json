@@ -1,0 +1,29 @@
+{
+    "overview": "australia/The Bahamas/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/The Bahamas/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/The Bahamas/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/The Bahamas/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/The Bahamas/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/The Bahamas/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/americas/bahamas",
+    "advisory_level": "Exercise a high degree of caution",
+    "destination": "The Bahamas",
+    "last_updated": "2025-02-04T12:00:00Z"
+}

@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Colombia/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Colombia/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Colombia/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Colombia/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Colombia/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Colombia/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/americas/colombia",
+    "advisory_level": "Exercise a high degree of caution",
+    "destination": "Colombia",
+    "last_updated": "2025-02-04T12:00:00Z"
+}

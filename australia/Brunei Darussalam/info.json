@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Brunei Darussalam/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Brunei Darussalam/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Brunei Darussalam/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Brunei Darussalam/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Brunei Darussalam/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Brunei Darussalam/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/asia/brunei-darussalam",
+    "advisory_level": "Exercise normal safety precautions",
+    "destination": "Brunei Darussalam",
+    "last_updated": "2025-01-16T12:00:00Z"
+}

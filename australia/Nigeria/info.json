@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Nigeria/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Nigeria/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Nigeria/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Nigeria/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Nigeria/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Nigeria/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/africa/nigeria",
+    "advisory_level": "Reconsider your need to travel",
+    "destination": "Nigeria",
+    "last_updated": "2024-12-20T12:00:00Z"
+}

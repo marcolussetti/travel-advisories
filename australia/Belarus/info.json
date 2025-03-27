@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Belarus/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Belarus/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Belarus/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Belarus/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Belarus/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Belarus/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/europe/belarus",
+    "advisory_level": "Do not travel",
+    "destination": "Belarus",
+    "last_updated": "2025-02-13T12:00:00Z"
+}

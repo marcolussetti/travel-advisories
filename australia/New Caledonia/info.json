@@ -1,0 +1,29 @@
+{
+    "overview": "australia/New Caledonia/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/New Caledonia/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/New Caledonia/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/New Caledonia/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/New Caledonia/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/New Caledonia/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/pacific/new-caledonia",
+    "advisory_level": "Exercise a high degree of caution",
+    "destination": "New Caledonia",
+    "last_updated": "2025-01-14T12:00:00Z"
+}

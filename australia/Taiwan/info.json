@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Taiwan/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Taiwan/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Taiwan/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Taiwan/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Taiwan/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Taiwan/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/asia/taiwan",
+    "advisory_level": "Exercise normal safety precautions",
+    "destination": "Taiwan",
+    "last_updated": "2025-02-27T12:00:00Z"
+}

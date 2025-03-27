@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Armenia/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Armenia/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Armenia/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Armenia/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Armenia/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Armenia/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/europe/armenia",
+    "advisory_level": "Exercise normal safety precautions",
+    "destination": "Armenia",
+    "last_updated": "2024-12-03T12:00:00Z"
+}

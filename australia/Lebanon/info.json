@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Lebanon/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Lebanon/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Lebanon/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Lebanon/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Lebanon/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Lebanon/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/middle-east/lebanon",
+    "advisory_level": "Do not travel",
+    "destination": "Lebanon",
+    "last_updated": "2025-01-21T12:00:00Z"
+}

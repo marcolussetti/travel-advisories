@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Mauritania/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Mauritania/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Mauritania/Health.md"
+        },
+        {
+            "title": "Local Laws",
+            "file": "australia/Mauritania/Local_Laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Mauritania/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Mauritania/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/africa/mauritania",
+    "advisory_level": "Reconsider your need to travel",
+    "destination": "Mauritania",
+    "last_updated": "2025-01-07T12:00:00Z"
+}

@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Libya/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Libya/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Libya/Health.md"
+        },
+        {
+            "title": "Local Laws",
+            "file": "australia/Libya/Local_Laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Libya/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Libya/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/africa/libya",
+    "advisory_level": "Do not travel",
+    "destination": "Libya",
+    "last_updated": "2025-01-13T12:00:00Z"
+}

@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Estonia/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Estonia/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Estonia/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Estonia/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Estonia/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Estonia/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/europe/estonia",
+    "advisory_level": "Exercise normal safety precautions",
+    "destination": "Estonia",
+    "last_updated": "2024-12-24T12:00:00Z"
+}

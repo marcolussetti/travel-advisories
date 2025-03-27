@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Iceland/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Iceland/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Iceland/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Iceland/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Iceland/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Iceland/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/europe/iceland",
+    "advisory_level": "Exercise normal safety precautions",
+    "destination": "Iceland",
+    "last_updated": "2024-11-22T12:00:00Z"
+}

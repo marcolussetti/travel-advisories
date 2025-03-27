@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Azerbaijan/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Azerbaijan/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Azerbaijan/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Azerbaijan/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Azerbaijan/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Azerbaijan/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/europe/azerbaijan",
+    "advisory_level": "Exercise a high degree of caution",
+    "destination": "Azerbaijan",
+    "last_updated": "2024-12-16T12:00:00Z"
+}

@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Lithuania/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Lithuania/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Lithuania/Health.md"
+        },
+        {
+            "title": "Local Laws",
+            "file": "australia/Lithuania/Local_Laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Lithuania/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Lithuania/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/europe/lithuania",
+    "advisory_level": "Exercise normal safety precautions",
+    "destination": "Lithuania",
+    "last_updated": "2024-10-16T12:00:00Z"
+}

@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Federated States of Micronesia/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Federated States of Micronesia/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Federated States of Micronesia/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Federated States of Micronesia/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Federated States of Micronesia/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Federated States of Micronesia/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/pacific/federated-states-micronesia",
+    "advisory_level": "Exercise normal safety precautions",
+    "destination": "Federated States of Micronesia",
+    "last_updated": "2025-01-16T12:00:00Z"
+}

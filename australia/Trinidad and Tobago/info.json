@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Trinidad and Tobago/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Trinidad and Tobago/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Trinidad and Tobago/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Trinidad and Tobago/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Trinidad and Tobago/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Trinidad and Tobago/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/americas/trinidad-and-tobago",
+    "advisory_level": "Exercise a high degree of caution",
+    "destination": "Trinidad and Tobago",
+    "last_updated": "2025-01-29T12:00:00Z"
+}

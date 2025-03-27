@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Iraq/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Iraq/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Iraq/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Iraq/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Iraq/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Iraq/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/middle-east/iraq",
+    "advisory_level": "Do not travel",
+    "destination": "Iraq",
+    "last_updated": "2025-03-05T12:00:00Z"
+}

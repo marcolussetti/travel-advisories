@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Belgium/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Belgium/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Belgium/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Belgium/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Belgium/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Belgium/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/europe/belgium",
+    "advisory_level": "Exercise a high degree of caution",
+    "destination": "Belgium",
+    "last_updated": "2025-03-26T12:00:00Z"
+}

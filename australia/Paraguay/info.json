@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Paraguay/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Paraguay/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Paraguay/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Paraguay/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Paraguay/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Paraguay/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/americas/paraguay",
+    "advisory_level": "Exercise a high degree of caution",
+    "destination": "Paraguay",
+    "last_updated": "2024-11-06T12:00:00Z"
+}

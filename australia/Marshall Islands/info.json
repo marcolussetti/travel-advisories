@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Marshall Islands/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Marshall Islands/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Marshall Islands/Health.md"
+        },
+        {
+            "title": "Local Laws",
+            "file": "australia/Marshall Islands/Local_Laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Marshall Islands/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Marshall Islands/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/pacific/marshall-islands",
+    "advisory_level": "Exercise normal safety precautions",
+    "destination": "Marshall Islands",
+    "last_updated": "2025-03-26T12:00:00Z"
+}

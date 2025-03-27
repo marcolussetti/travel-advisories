@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Eswatini/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Eswatini/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Eswatini/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Eswatini/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Eswatini/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Eswatini/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/africa/eswatini",
+    "advisory_level": "Exercise a high degree of caution",
+    "destination": "Eswatini",
+    "last_updated": "2024-11-19T12:00:00Z"
+}

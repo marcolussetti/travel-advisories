@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Egypt/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Egypt/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Egypt/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Egypt/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Egypt/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Egypt/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/africa/egypt",
+    "advisory_level": "Exercise a high degree of caution",
+    "destination": "Egypt",
+    "last_updated": "2025-03-19T12:00:00Z"
+}

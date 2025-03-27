@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Panama/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Panama/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Panama/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Panama/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Panama/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Panama/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/americas/panama",
+    "advisory_level": "Exercise a high degree of caution",
+    "destination": "Panama",
+    "last_updated": "2025-02-19T12:00:00Z"
+}

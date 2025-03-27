@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Greece/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Greece/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Greece/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Greece/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Greece/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Greece/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/europe/greece",
+    "advisory_level": "Exercise normal safety precautions",
+    "destination": "Greece",
+    "last_updated": "2025-03-18T12:00:00Z"
+}

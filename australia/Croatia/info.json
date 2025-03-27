@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Croatia/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Croatia/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Croatia/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Croatia/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Croatia/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Croatia/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/europe/croatia",
+    "advisory_level": "Exercise normal safety precautions",
+    "destination": "Croatia",
+    "last_updated": "2025-03-26T12:00:00Z"
+}

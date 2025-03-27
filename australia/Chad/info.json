@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Chad/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Chad/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Chad/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Chad/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Chad/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Chad/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/africa/chad",
+    "advisory_level": "Do not travel",
+    "destination": "Chad",
+    "last_updated": "2025-01-08T12:00:00Z"
+}

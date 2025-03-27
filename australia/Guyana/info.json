@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Guyana/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Guyana/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Guyana/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Guyana/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Guyana/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Guyana/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/americas/guyana",
+    "advisory_level": "Exercise a high degree of caution",
+    "destination": "Guyana",
+    "last_updated": "2024-12-09T12:00:00Z"
+}

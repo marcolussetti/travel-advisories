@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Ireland/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Ireland/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Ireland/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Ireland/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Ireland/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Ireland/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/europe/ireland",
+    "advisory_level": "Exercise normal safety precautions",
+    "destination": "Ireland",
+    "last_updated": "2025-03-12T12:00:00Z"
+}

@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Jordan/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Jordan/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Jordan/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Jordan/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Jordan/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Jordan/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/middle-east/jordan",
+    "advisory_level": "Exercise a high degree of caution",
+    "destination": "Jordan",
+    "last_updated": "2025-01-22T12:00:00Z"
+}

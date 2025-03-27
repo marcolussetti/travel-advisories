@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Ukraine/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Ukraine/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Ukraine/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Ukraine/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Ukraine/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Ukraine/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/europe/ukraine",
+    "advisory_level": "Do not travel",
+    "destination": "Ukraine",
+    "last_updated": "2025-02-07T12:00:00Z"
+}

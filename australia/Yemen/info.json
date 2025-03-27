@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Yemen/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Yemen/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Yemen/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Yemen/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Yemen/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Yemen/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/middle-east/yemen",
+    "advisory_level": "Do not travel",
+    "destination": "Yemen",
+    "last_updated": "2025-03-03T12:00:00Z"
+}

@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Somalia/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Somalia/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Somalia/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Somalia/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Somalia/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Somalia/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/africa/somalia",
+    "advisory_level": "Do not travel",
+    "destination": "Somalia",
+    "last_updated": "2025-03-05T12:00:00Z"
+}

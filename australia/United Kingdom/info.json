@@ -1,0 +1,29 @@
+{
+    "overview": "australia/United Kingdom/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/United Kingdom/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/United Kingdom/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/United Kingdom/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/United Kingdom/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/United Kingdom/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/europe/united-kingdom",
+    "advisory_level": "Exercise a high degree of caution",
+    "destination": "United Kingdom",
+    "last_updated": "2025-01-15T12:00:00Z"
+}

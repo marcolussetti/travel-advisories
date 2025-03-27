@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Lesotho/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Lesotho/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Lesotho/Health.md"
+        },
+        {
+            "title": "Local Laws",
+            "file": "australia/Lesotho/Local_Laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Lesotho/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Lesotho/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/africa/lesotho",
+    "advisory_level": "Exercise a high degree of caution",
+    "destination": "Lesotho",
+    "last_updated": "2025-03-21T12:00:00Z"
+}

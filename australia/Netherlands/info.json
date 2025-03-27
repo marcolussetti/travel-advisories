@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Netherlands/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Netherlands/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Netherlands/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Netherlands/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Netherlands/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Netherlands/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/europe/netherlands",
+    "advisory_level": "Exercise normal safety precautions",
+    "destination": "Netherlands",
+    "last_updated": "2025-01-30T12:00:00Z"
+}

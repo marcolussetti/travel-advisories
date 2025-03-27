@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Haiti/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Haiti/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Haiti/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Haiti/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Haiti/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Haiti/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/americas/haiti",
+    "advisory_level": "Do not travel",
+    "destination": "Haiti",
+    "last_updated": "2025-02-11T12:00:00Z"
+}

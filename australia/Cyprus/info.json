@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Cyprus/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Cyprus/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Cyprus/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Cyprus/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Cyprus/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Cyprus/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/europe/cyprus",
+    "advisory_level": "Exercise a high degree of caution",
+    "destination": "Cyprus",
+    "last_updated": "2025-03-06T12:00:00Z"
+}

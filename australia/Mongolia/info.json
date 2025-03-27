@@ -1,0 +1,29 @@
+{
+    "overview": "australia/Mongolia/overview.md",
+    "pages": [
+        {
+            "title": "Safety",
+            "file": "australia/Mongolia/Safety.md"
+        },
+        {
+            "title": "Health",
+            "file": "australia/Mongolia/Health.md"
+        },
+        {
+            "title": "Local laws",
+            "file": "australia/Mongolia/Local_laws.md"
+        },
+        {
+            "title": "Travel",
+            "file": "australia/Mongolia/Travel.md"
+        },
+        {
+            "title": "Local contacts",
+            "file": "australia/Mongolia/Local_contacts.md"
+        }
+    ],
+    "url": "https://www.smartraveller.gov.au/destinations/asia/mongolia",
+    "advisory_level": "Exercise normal safety precautions",
+    "destination": "Mongolia",
+    "last_updated": "2025-01-15T12:00:00Z"
+}
