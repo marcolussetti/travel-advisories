@@ -30,7 +30,9 @@
               git add -A *.csv
               git add -A unitedstates/*.md
               git add -A unitedstates/*.json
-              git add -A unitedstates/last_run.txt
+                if [ -f unitedstates/last_run.txt ]; then
+                  git add -A unitedstates/last_run.txt
+                fi
               
               if git diff --cached --quiet --exit-code; then
                 echo "No changes to commit."
