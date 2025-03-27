@@ -1,0 +1,21 @@
+# Travel and Transportation
+
+[#### Travel and Transportation](javascript:void(0); "Travel and Transportation")
+
+**Road Conditions and Safety**: Driving in Japan can be complicated and expensive. Traffic moves on the left side of the road. Those who cannot read the language will have trouble understanding road signs. Highway tolls can be very high, and city traffic is often very congested. A 20-mile trip in the Tokyo area may take two hours. There is virtually no legal roadside or curbside parking; however, traffic is commonly blocked or partially blocked by those illegally parked curbside. In mountainous areas, roads are often closed during the winter, and cars should be equipped with tire chains. Roads in Japan are much narrower than those in the United States.
+
+**Traffic Laws**: Japanese law provides that all drivers in Japan are held liable in the event of an accident, and assesses fault in an accident on all parties. Japanese compulsory insurance (JCI) is mandatory for all automobile owners and drivers in Japan. Most short-term visitors choose not to drive in Japan. Turning right or left on red lights is not permitted in Japan, and all passengers are required to fasten their seat belts.
+
+Japan has a national 0.03 percent blood-alcohol-level standard for driving, and drivers stopped for driving under the influence of intoxicants will have their licenses confiscated. If you are found guilty of driving under the influence, speeding, or blatantly careless driving resulting in injury, you are subject to up to 15 years in prison.
+
+See our [Road Safety page](https://travel.state.gov/content/travel/en/international-travel/before-you-go/driving-and-road-safety.html) for more information. The National Police Agency (NPA) oversees the administration and enforcement of traffic laws in Japan. You can find further information in English on the [NPA English website](https://www.npa.go.jp/english/). Information about roadside assistance, rules of the road, and obtaining a Japanese driver's license is available in English from the [Japan Automobile Federation (JAF) web site](https://english.jaf.or.jp/). See [the Japan National Tourism Organization’s website](https://www.japan.travel/en/plan/getting-around/) for car rental and driving in Japan.
+
+**Emergency Assistance**: For roadside assistance, please contact the Japan Automobile Federation (JAF) at 03-5730-0111 in Tokyo, 072-645-0111 in Osaka, 011-857-8139 in Sapporo, 092-841-5000 in Fukuoka, or 098-877-9163 in Okinawa.
+
+**International Driving Permits (IDPs):** An international driving permit (IDP) issued in the United States by the American Automobile Association (AAA) or the American Automobile Touring Alliance (AATA) is required of short-term visitors who drive in Japan. You must obtain an IDP issued in your country of residence prior to arriving in Japan. The U.S. Embassy andU.S. consulates do not issue IDPs. IDPs issued via the Internet and/or by other organizations are not valid in Japan.
+
+Foreign residents in Japan who use an IDP may be fined or arrested. In practice, the term “resident” involves more than simply visa status or length of stay in Japan and is determined by the police. In short, a driver license from country outside Japan is not a substitute for a valid Japanese license for foreign residents. See the U.S. Embassy’s [website](https://jp.usembassy.gov/services/driving-in-japan/) for more information on driving in Japan.
+
+**Aviation Safety Oversight**: The U.S. Federal Aviation Administration (FAA) has assessed the government of Japan’s Civil Aviation Authority as being in compliance with International Civil Aviation Organization (ICAO) aviation safety standards for oversight of Japan’s air carrier operations. Further information may be found on the [FAA's safety assessment page](https://www.faa.gov/about/initiatives/iasa).
+
+**Maritime Travel**: Mariners planning travel to Japan should also check for U.S. maritime [advisories](https://www.maritime.dot.gov/msci-advisories) and [alerts](https://www.maritime.dot.gov/msci-alerts)in the Alerts section of the Embassy’s messages. Information may also be posted to the [U.S. Coast Guard homeport website](https://homeport.uscg.mil/), and the [National Geospatial-Intelligence Agency (NGA) broadcast warnings website portal](https://msi.nga.mil/NTM) select “broadcast warnings.”

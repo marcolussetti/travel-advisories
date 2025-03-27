@@ -1,0 +1,49 @@
+{
+    "name": "Jamaica",
+    "risk_level": "Level 3: Reconsider Travel",
+    "risk_level_number": 3,
+    "pages": [
+        {
+            "title": "Quick Facts",
+            "file": "unitedstates/Jamaica/Quick Facts.md"
+        },
+        {
+            "title": "Consulates",
+            "file": "unitedstates/Jamaica/Consulates.md"
+        },
+        {
+            "title": "Destination Description",
+            "file": "unitedstates/Jamaica/Destination Description.md"
+        },
+        {
+            "title": "Entry, Exit and Visa Requirements",
+            "file": "unitedstates/Jamaica/Entry, Exit and Visa Requirements.md"
+        },
+        {
+            "title": "Safety and Security",
+            "file": "unitedstates/Jamaica/Safety and Security.md"
+        },
+        {
+            "title": "Local Laws & Special Circumstances",
+            "file": "unitedstates/Jamaica/Local Laws & Special Circumstances.md"
+        },
+        {
+            "title": "Health",
+            "file": "unitedstates/Jamaica/Health.md"
+        },
+        {
+            "title": "Travel and Transportation",
+            "file": "unitedstates/Jamaica/Travel and Transportation.md"
+        },
+        {
+            "title": "Fact Sheet",
+            "file": "unitedstates/Jamaica/Fact Sheet.md"
+        },
+        {
+            "title": "Advisory",
+            "file": "unitedstates/Jamaica/Advisory.md"
+        }
+    ],
+    "update_date_advisory": "2024-07-25T00:00:00",
+    "update_date_details": "2023-11-16T00:00:00"
+}

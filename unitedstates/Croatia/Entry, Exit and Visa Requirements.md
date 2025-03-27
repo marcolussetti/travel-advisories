@@ -1,0 +1,18 @@
+# Entry, Exit and Visa Requirements
+
+[#### Entry, Exit and Visa Requirements](javascript:void(0); "Entry, Exit and Visa Requirements")
+
+**You need a valid U.S. passport to enter Croatia.** EU regulations require that U.S. passport holders have no less than three months’ validity when they depart Croatia. U.S. passport holders with less than three months may be denied entry. The U.S. Embassy strongly suggests that you have at least six months of validity to avoid problems when you travel.
+
+Croatia is a member of the [Schengen area.](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/US_Travelers_in_Europes_Schengen_Area.html) Land border controls between Croatia, Slovenia, and Hungary and the sea border with Italy ceased in 2023. The land borders with Serbia, Bosnia and Herzegovina, and Montenegro continue to have police and customs checks in place, as these countries are outside of the Schengen area. Airport controls for flights between Croatia and other countries within the Schengen area ceased in 2023. Visit the [Embassy of Croatia website](https://mvep.gov.hr/us/en) for the most current visa information.
+
+* U.S. passport holders do not need a visa if they are traveling to Croatia for tourism or business for less than 90 days within a 180-day period.
+* For entry, residence, and work requirements in Croatia, please visit the Croatian [Ministry of Interior’s website](https://mup.gov.hr/aliens-281621/stay-and-work/281622). The U.S. Embassy is not able to intervene in the issuance of a Croatian residence permit.
+* You must register at a local police station within three days of arrival in Croatia. If you are staying at a hotel, hostel, or vacation rental, you will be registered by the property owner.
+* Foreign documents submitted for residence in Croatia must be translated into Croatian and have an apostille stamp. The U.S. Embassy cannot authenticate documents. For information on applying for apostille and authentication services, please see the [Department of State’s Office of Authentications](https://travel.state.gov/content/travel/en/legal-considerations/judicial/authentication-of-documents/notarial-and-authentication-services-consular-officers.html) website.
+
+The U.S. Department of State is unaware of any HIV/AIDS entry restrictions for visitors to, or foreign residents of, Croatia.
+
+Find information on [dual nationality](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/Dual-Nationality-Travelers.html "http://travel.state.gov/travel/cis_pa_tw/cis/cis_1753.html"), [prevention of international child abduction](https://travel.state.gov/content/childabduction/en.html "http://travel.state.gov/family/abduction/abduction_580.html"), and [customs](https://travel.state.gov/content/passports/english/go/customs.html) regulations on our websites.
+
+**Military/Status of Forces Agreement (SOFA) Travelers**: While active-duty U.S. military personnel may enter Croatia under the SOFA with proper Department of Defense (DOD) identification and travel orders, all SOFA family members, civilian employees, and contractors must have valid passports. Active-duty military personnel should obtain a tourist passport before leaving the United States to accommodate off-duty travel. DOD travelers should consult with their unit for clearance before leaving the United States

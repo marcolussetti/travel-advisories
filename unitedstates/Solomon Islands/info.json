@@ -1,0 +1,45 @@
+{
+    "name": "Solomon Islands",
+    "risk_level": null,
+    "risk_level_number": null,
+    "pages": [
+        {
+            "title": "Quick Facts",
+            "file": "unitedstates/Solomon Islands/Quick Facts.md"
+        },
+        {
+            "title": "",
+            "file": "unitedstates/Solomon Islands/.md"
+        },
+        {
+            "title": "Destination Description",
+            "file": "unitedstates/Solomon Islands/Destination Description.md"
+        },
+        {
+            "title": "Entry, Exit and Visa Requirements",
+            "file": "unitedstates/Solomon Islands/Entry, Exit and Visa Requirements.md"
+        },
+        {
+            "title": "Safety and Security",
+            "file": "unitedstates/Solomon Islands/Safety and Security.md"
+        },
+        {
+            "title": "Local Laws & Special Circumstances",
+            "file": "unitedstates/Solomon Islands/Local Laws & Special Circumstances.md"
+        },
+        {
+            "title": "Health",
+            "file": "unitedstates/Solomon Islands/Health.md"
+        },
+        {
+            "title": "Travel and Transportation",
+            "file": "unitedstates/Solomon Islands/Travel and Transportation.md"
+        },
+        {
+            "title": "Fact Sheet",
+            "file": "unitedstates/Solomon Islands/Fact Sheet.md"
+        }
+    ],
+    "update_date_advisory": null,
+    "update_date_details": "2023-06-15T00:00:00"
+}

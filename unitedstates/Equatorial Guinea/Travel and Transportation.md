@@ -1,0 +1,23 @@
+# Travel and Transportation
+
+[#### Travel and Transportation](javascript:void(0); "Travel and Transportation")
+
+**Road Conditions and Safety:**Travelers should remain alert for pedestrians and livestock, even on multi-lane highways. Traffic signals and crosswalks are becoming more common but are not always heeded by local drivers. Driving while intoxicated is widespread, particularly at night and during weekends and holidays. At night, many motorists do not use headlights and roads are inconsistently lit. Carry a cell phone for use in case of an emergency. Please note that cell phone coverage can be sporadic at times and outside urban areas.
+
+**Traffic Laws:**U.S. citizens on short stays are permitted to drive with an International Driver’s License. There are currently no distracted driving laws in effect in Equatorial Guinea, but police may pull over drivers who talk or text while driving. They can and will pull over any driver for any reason.
+
+**Road Blocks and Checkpoints:** Military roadblocks are common outside the limits of Malabo and Bata. Police checkpoints are increasingly common in both cities. You should be prepared to show proper identification (for example, a copy of your U.S. passport) and to explain your reason for being at that particular location. If you do not speak Spanish, carry a Spanish-language written copy of your reason for being in the country and your itinerary, especially if planning to travel into the countryside. Travelers should be aware that many military facilities are poorly marked and inconsistently staffed, especially in isolated areas. Travelers should try to avoid these sites whenever possible.
+
+Police or security forces sometimes stop motorists on the pretext of minor traffic violations in order to extort small bribes. We advise you not to pay bribes, and instead request that the officer provide a citation to be paid at the local court or a receipt stating the violation, amount due, and the officer’s name. **If it appears that you may be asked to go to a police station or are held up at roadblocks for an extended period of time, you should contact the U.S. Embassy’s duty officer at +240 555-516-008 to report the situation.**
+
+**Public Transportation: The Embassy prohibits the use of taxis and other forms of public transportation by U.S. citizen employees.**
+
+Public transportation is not reliable or safe. Taxis, while inexpensive and readily available, are often poorly maintained, and taxi drivers frequently drive dangerously or while impaired. Taxis will stop to pick up additional passengers and may detour or drop passengers off out of sequence. Single travelers, particularly women, should avoid taxis if possible, or use taxi drivers personally known to them or recommended as being safe and reliable. Many taxi drivers do not have a valid driver’s license, have medical conditions that preclude them from driving safely, and/or have no public transportation license. There have been reports from both Malabo and Bata of expatriates boarding taxicabs and being driven to unfamiliar places against their will to be robbed, raped, and otherwise assaulted.
+
+Rental cars are available at the airport through international companies. If you choose to rent a vehicle, be sure to have your registration, passport, and an international driver’s license on you at all times (refer to the Travel & Transportation section above for more information). You may be required to obtain an Equatoguinean driver’s license if you do not have an international driver’s license. Military and police roadblocks are found throughout the country; an official may stop you and ask questions. Some roads will not have pavement.
+
+See our [Road Safety page](http://travel.state.gov/content/passports/english/go/safety/road.html) for more information.
+
+**Aviation Safety Oversight:**As there is no direct commercial air service to the United States by carriers registered in Equatorial Guinea, the U.S. Federal Aviation Administration (FAA) has not assessed the government of Equatorial Guinea’s Civil Aviation Authority for compliance with International Civil Aviation Organization (ICAO) aviation safety standards. Further information may be found on the [FAA’s safety assessment page](http://www.faa.gov/about/initiatives/iasa/).
+
+**Maritime Travel:** Mariners planning travel to Equatorial Guinea should also check for [U.S. maritime advisories and alerts](https://www.maritime.dot.gov/msci-alerts). Information may also be posted to the  [U.S. Coast Guard homeport website](https://homeport.uscg.mil/), and the [NGA broadcast warnings](https://msi.nga.mil/NavWarnings).

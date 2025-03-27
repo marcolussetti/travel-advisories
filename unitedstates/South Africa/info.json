@@ -1,0 +1,49 @@
+{
+    "name": "South Africa",
+    "risk_level": "Level 2: Exercise Increased Caution",
+    "risk_level_number": 2,
+    "pages": [
+        {
+            "title": "Quick Facts",
+            "file": "unitedstates/South Africa/Quick Facts.md"
+        },
+        {
+            "title": "Consulates",
+            "file": "unitedstates/South Africa/Consulates.md"
+        },
+        {
+            "title": "Destination Description",
+            "file": "unitedstates/South Africa/Destination Description.md"
+        },
+        {
+            "title": "Entry, Exit and Visa Requirements",
+            "file": "unitedstates/South Africa/Entry, Exit and Visa Requirements.md"
+        },
+        {
+            "title": "Safety and Security",
+            "file": "unitedstates/South Africa/Safety and Security.md"
+        },
+        {
+            "title": "Local Laws & Special Circumstances",
+            "file": "unitedstates/South Africa/Local Laws & Special Circumstances.md"
+        },
+        {
+            "title": "Health",
+            "file": "unitedstates/South Africa/Health.md"
+        },
+        {
+            "title": "Travel and Transportation",
+            "file": "unitedstates/South Africa/Travel and Transportation.md"
+        },
+        {
+            "title": "Fact Sheet",
+            "file": "unitedstates/South Africa/Fact Sheet.md"
+        },
+        {
+            "title": "Advisory",
+            "file": "unitedstates/South Africa/Advisory.md"
+        }
+    ],
+    "update_date_advisory": "2024-11-07T00:00:00",
+    "update_date_details": "2023-11-06T00:00:00"
+}

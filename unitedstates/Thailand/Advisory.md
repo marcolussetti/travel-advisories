@@ -1,0 +1,82 @@
+# Thailand Travel Advisory
+
+### Travel Advisory July 24, 2023
+
+### Thailand - Level 1: Exercise Normal Precautions
+
+[O](javascript:void(0); "Tool Tip: Other")
+[D](javascript:void(0); "Tool Tip: Wrongful Detention")
+[K](javascript:void(0); "Tool Tip: Kidnap and Hostage")
+[E](javascript:void(0); "Tool Tip: Event")
+[N](javascript:void(0); "Tool Tip: Disaster")
+[H](javascript:void(0); "Tool Tip: Health")
+[U](javascript:void(0); "Tool Tip: Civil Unrest")
+[T](javascript:void(0); "Tool Tip: Terrorism")
+[C](javascript:void(0); "Tool Tip: Crimes")
+
+***Reissued with obsolete COVID-19 page links removed.***
+
+Exercise normal precautions in Thailand. Some areas have increased risk.  Read the entire Travel Advisory.
+
+**Reconsider travel to:**
+
+* Yala, Pattani, Narathiwat, and Songkhla provinces due to **civil unrest** associated with ongoing insurgent activities.
+
+Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Thailand.html) for additional information on travel to Thailand.
+
+If you decide to travel to Thailand:
+
+* Enroll in the [Smart Traveler Enrollment Program (STEP)](https://step.state.gov/step/) to receive Alerts and make it easier to locate you in an emergency.
+* Follow the Department of State on [Facebook](https://www.facebook.com/travelgov/) and [Twitter](https://twitter.com/TravelGov).
+* Review the [Country Security Report](https://www.osac.gov/Content/Browse/Report?subContentTypes=Country%20Security%20Report) for Thailand.
+* Have evacuation plans that do not rely on U.S. government assistance.
+* Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) related to your travel.
+* Prepare a contingency plan for emergency situations. Review the [Traveler’s Checklist](https://travel.state.gov/content/passports/en/go/checklist.html).
+
+**Yala, Pattani, Narathiwat, and Songkhla Provinces – Level 3: Reconsider Travel**
+
+Periodic violence directed mostly at Thai government interests by a domestic insurgency continues to affect security in the southernmost provinces of Yala, Pattani, Narathiwat, and Songkhla. In Songkhla, the insurgency is most active in the districts of Chana, Thepha, Nathawat, and Saba Yoi. U.S. citizens are at risk of death or injury due to the possibility of indiscriminate attacks in public places.
+
+The U.S. government has limited ability to provide emergency services to U.S. citizens in these provinces as U.S government employees must obtain special authorization to travel to these provinces.
+
+Visit our website for [Travel to High-Risk Areas](https://travel.state.gov/content/passports/en/go/TraveltoHighRiskAreas.html).
+
+### Travel Advisory Levels
+
+[![](/content/dam/NEWTravelAssets/images/travel-levelv1.svg)](/content/travel/en/international-travel/before-you-go/about-our-new-products.html "Travel Advisory Levels")
+
+### Assistance for U.S. Citizens
+
+U.S. Embassy Bangkok
+
+95 Wireless Road  
+Bangkok 10330  
+Thailand
+
+Telephone
+
++ (66) (2) 205-4049
+
+Emergency
+
++(66) (2) 205-4000
+
+Fax
+
++(66) (2) 205-4103
+
+Email
+
+[ACSBkk@state.gov](mailto: ACSBkk@state.gov "Embassy email address: ACSBkk@state.gov")
+
+Website
+
+[https://th.usembassy.gov/embassy-consulate/bangkok/](https://th.usembassy.gov/embassy-consulate/bangkok/ "Embassy website address of U.S. Embassy Bangkok: https://th.usembassy.gov/embassy-consulate/bangkok/")
+
+### Thailand Map
+
+[View Larger Map](https://travelmaps.state.gov/TSGMap/?extent=84.863520188,4.277120112,114.632906072,21.218518603 "Map of Thailand")
+
+
+
+### Search for Travel Advisories

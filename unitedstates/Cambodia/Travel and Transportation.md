@@ -1,0 +1,21 @@
+# Travel and Transportation
+
+[#### Travel and Transportation](javascript:void(0); "Travel and Transportation")
+
+**Road Condition and Safety:** You should not drive at night in Cambodia outside of city limits. Roads between major areas are adequate; however, roads leading to rural areas are poor. During the rainy season, road conditions deteriorate considerably, and roadside assistance is non-existent. Cambodian drivers routinely ignore traffic laws and vehicles are poorly maintained. Intoxicated drivers are commonplace, particularly during the evening hours. Travel is recommended in daylight between the hours of 6:30 a.m. and 5:30 p.m.There are also frequent bus accidents.   
+   
+Serious flooding occurs throughout Cambodia from June through November. Travel on unpaved or dirt roads is difficult after heavy rainfall. The National Route highways are the only roads that can be traveled, with caution, during this time of the year.
+
+**Traffic Laws:**In the event you are in a traffic accident, you should cooperate with the police. You should also contact your insurance company for guidance in dealing with the other party and the police. To avoid the risk of theft or confiscation of original documents, the U.S. Embassy advises its personnel and all U.S. citizens traveling to, or residing in, Cambodia to carry photocopies of their U.S. passport, driver's license, and other important documents and to leave the originals in a hotel safe or other secure place.
+
+While in Cambodia, you may encounter road conditions that differ significantly from those in the United States. Traffic in Cambodia is composed of a mix of automobiles, commercial trucks, motorcycles, bicycles, and tuk tuks. As a result of poor roads, driver intoxication, and disregard for traffic laws, traffic accidents are a common occurrence. You should exercise great caution in moving through the country, regardless of mode of transportation.
+
+**Public Transportation:** Travelers should exercise caution when using inter-city buses, including those to popular tourist destinations such as Siem Reap and Sihanoukville. Despite the wide availability of moto-taxis, you should not use them due to safety concerns. Be vigilant if traveling by “tuk-tuk” or “cyclo” as personal belongings can be easily stolen. Organized emergency services for victims of traffic accidents are non-existent outside of major urban areas, and those available in major urban areas are inadequate.
+
+See our [Road Safety page](https://travel.state.gov/content/travel/en/international-travel/before-you-go/driving-and-road-safety.html) for more information. Visit the website of Cambodia’s [national tourist office](https://www.tourismcambodia.org/)  and national authority responsible for [road safety](https://www.roadsafetyfacility.org/country/cambodia).
+
+**Aviation Safety Oversight:** As there is no direct commercial air service to the United States by carriers registered in Cambodia, the U.S. Federal Aviation Administration (FAA) has not assessed the government of Cambodia’s Civil Aviation Authority for compliance with International Civil Aviation Organization (ICAO) aviation safety standards. Further information may be found on [the FAA’s safety assessment page](https://www.faa.gov/about/initiatives/iasa).
+
+**Maritime Travel:** The Commandant of the Coast Guard has determined that effective anti-terrorism measures are not in place in Cambodia ports and has imposed conditions of entry on vessels that arrive in U.S. ports having visited ports in Cambodia. Mariners and passengers on commercial vessels traveling through the ports of Cambodia should exercise increased caution.
+
+Mariners planning travel to Cambodia should also check for U.S. maritime advisories and alerts at [Maritime Security Communications with Industry (MSCI) Web Portal | MARAD (dot.gov)](https://www.maritime.dot.gov/msci/maritime-security-communications-industry-msci-web-portal). Information may also be posted to the [U.S. Coast Guard homeport website](https://homeport.uscg.mil/), and the [NGA broadcast warnings website](https://msi.nga.mil/NavWarnings)(select “broadcast warnings”).

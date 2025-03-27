@@ -1,0 +1,27 @@
+# Quick Facts
+
+### Quick Facts
+
+PASSPORT VALIDITY:
+
+6 months.
+
+BLANK PASSPORT PAGES:
+
+2 pages.
+
+TOURIST VISA REQUIRED:
+
+Yes, obtain in advance.
+
+VACCINATIONS:
+
+Yellow fever.
+
+CURRENCY RESTRICTIONS FOR ENTRY:
+
+None.
+
+CURRENCY RESTRICTIONS FOR EXIT:
+
+None.

@@ -1,0 +1,49 @@
+{
+    "name": "Pakistan",
+    "risk_level": "Level 3: Reconsider Travel",
+    "risk_level_number": 3,
+    "pages": [
+        {
+            "title": "Quick Facts",
+            "file": "unitedstates/Pakistan/Quick Facts.md"
+        },
+        {
+            "title": "U.S. Embassy Islamabad",
+            "file": "unitedstates/Pakistan/U.S. Embassy Islamabad.md"
+        },
+        {
+            "title": "Destination Description",
+            "file": "unitedstates/Pakistan/Destination Description.md"
+        },
+        {
+            "title": "Entry, Exit and Visa Requirements",
+            "file": "unitedstates/Pakistan/Entry, Exit and Visa Requirements.md"
+        },
+        {
+            "title": "Safety and Security",
+            "file": "unitedstates/Pakistan/Safety and Security.md"
+        },
+        {
+            "title": "Local Laws & Special Circumstances",
+            "file": "unitedstates/Pakistan/Local Laws & Special Circumstances.md"
+        },
+        {
+            "title": "Health",
+            "file": "unitedstates/Pakistan/Health.md"
+        },
+        {
+            "title": "Travel and Transportation",
+            "file": "unitedstates/Pakistan/Travel and Transportation.md"
+        },
+        {
+            "title": "Fact Sheet",
+            "file": "unitedstates/Pakistan/Fact Sheet.md"
+        },
+        {
+            "title": "Advisory",
+            "file": "unitedstates/Pakistan/Advisory.md"
+        }
+    ],
+    "update_date_advisory": "2025-03-07T00:00:00",
+    "update_date_details": "2025-01-21T00:00:00"
+}

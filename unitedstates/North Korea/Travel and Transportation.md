@@ -1,0 +1,11 @@
+# Travel and Transportation
+
+[#### Travel and Transportation](javascript:void(0); "Travel and Transportation")
+
+**TRAFFIC SAFETY AND ROAD CONDITIONS:** Road conditions and driving habits in a foreign country can differ significantly from those in the United States. The information below concerning North Korea is provided for general reference only. You are not allowed to drive in North Korea unless you hold a valid DPRK driver’s license.  Bicycles are unavailable for rental or purchase. Please refer to our [Road Safety](http://travel.state.gov/content/passports/en/go/safety/road.html) information.
+
+**AVIATION SAFETY  OVERSIGHT:**As there is no direct commercial air service between the United States and North Korea, the U.S. Federal Aviation Administration (FAA) has not assessed North Korea’s Civil Aviation Authority for compliance with International Civil Aviation Organization (ICAO) aviation safety standards. Further information may be found on the [FAA's safety assessment page.](https://www.faa.gov/about/initiatives/iasa/)
+
+As a result of concerns arising from unannounced missile launch activities and GPS navigation systems interference and/or disruption, the Federal Aviation Administration (FAA) has issued a Prohibition and Advisory notice to U.S. airmen and operators. The FAA has issued Special Federal Aviation Regulation (SFAR) 79 which prohibits U.S. civil aviation from flying in the Pyongyang Flight Information Region (FIR) west of 132 degrees east longitude, and the FAA has advised those flying in and around the Pyongyang (FIR)  east of 132 degrees east longitude to be aware of possible GPS interruptions.  For more information, U.S. citizens should consult the [Federal Aviation Administration’s Prohibitions, Restrictions, and Notices](https://www.faa.gov/air_traffic/publications/us_restrictions/).
+
+**MARITIME SAFETY OVERSIGHT:** Mariners planning travel in the vicinity of North Korea should check for U.S. maritime advisories and alerts at the U.S. Department of Transportation’s [Maritime Security Communications with Industry WebPortal](http://www.marad.dot.gov/msci). Information may also be posted to the [U.S. Coast Guard homeport website](https://homeport.uscg.mil/Info/Overview.aspx) and as a broadcast warning on the [National Geospatial-Intelligence Agency’s website](https://www.nga.mil/).

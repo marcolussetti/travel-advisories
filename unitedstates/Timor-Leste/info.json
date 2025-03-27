@@ -1,0 +1,49 @@
+{
+    "name": "Timor-Leste",
+    "risk_level": "Level 2: Exercise Increased Caution",
+    "risk_level_number": 2,
+    "pages": [
+        {
+            "title": "Quick Facts",
+            "file": "unitedstates/Timor-Leste/Quick Facts.md"
+        },
+        {
+            "title": "Embassies and Consulates",
+            "file": "unitedstates/Timor-Leste/Embassies and Consulates.md"
+        },
+        {
+            "title": "Destination Description",
+            "file": "unitedstates/Timor-Leste/Destination Description.md"
+        },
+        {
+            "title": "Entry, Exit and Visa Requirements",
+            "file": "unitedstates/Timor-Leste/Entry, Exit and Visa Requirements.md"
+        },
+        {
+            "title": "Safety and Security",
+            "file": "unitedstates/Timor-Leste/Safety and Security.md"
+        },
+        {
+            "title": "Local Laws & Special Circumstances",
+            "file": "unitedstates/Timor-Leste/Local Laws & Special Circumstances.md"
+        },
+        {
+            "title": "Health",
+            "file": "unitedstates/Timor-Leste/Health.md"
+        },
+        {
+            "title": "Travel and Transportation",
+            "file": "unitedstates/Timor-Leste/Travel and Transportation.md"
+        },
+        {
+            "title": "Fact Sheet",
+            "file": "unitedstates/Timor-Leste/Fact Sheet.md"
+        },
+        {
+            "title": "Advisory",
+            "file": "unitedstates/Timor-Leste/Advisory.md"
+        }
+    ],
+    "update_date_advisory": "2025-03-21T00:00:00",
+    "update_date_details": "2025-03-14T00:00:00"
+}

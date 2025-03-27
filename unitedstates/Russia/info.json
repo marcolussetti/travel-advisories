@@ -1,0 +1,13 @@
+{
+    "name": "Russia",
+    "risk_level": "Level 4: Do Not Travel",
+    "risk_level_number": 4,
+    "pages": [
+        {
+            "title": "Advisory",
+            "file": "unitedstates/Russia/Advisory.md"
+        }
+    ],
+    "update_date_advisory": "2024-06-27T00:00:00",
+    "update_date_details": null
+}

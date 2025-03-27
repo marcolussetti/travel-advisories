@@ -1,0 +1,27 @@
+# Quick Facts
+
+### Quick Facts
+
+PASSPORT VALIDITY:
+
+6 months
+
+BLANK PASSPORT PAGES:
+
+1 page per entry stamp
+
+TOURIST VISA REQUIRED:
+
+Yes
+
+VACCINATIONS:
+
+None
+
+CURRENCY RESTRICTIONS FOR ENTRY:
+
+$10,000
+
+CURRENCY RESTRICTIONS FOR EXIT:
+
+See “Exit Restrictions” info below

@@ -1,0 +1,13 @@
+# Entry, Exit and Visa Requirements
+
+[#### Entry, Exit and Visa Requirements](javascript:void(0); "Entry, Exit and Visa Requirements")
+
+You must have a U.S. passport valid for the length of your stay, proof of an onward or return ticket, and sufficient funds to cover the cost of the length of stay. If you enter Belize by land, you will be charged different fees depending on whether your stay is less than or more than 24 hours. Belize does not require specific immunizations for visitors; vaccinations recommended by the U.S. Centers for Disease Control and Prevention can be found at [Belize vaccinations](https://wwwnc.cdc.gov/travel/destinations/list).
+
+If you are visiting as a tourist, you do not require a visa. Visitors planning to stay more than 30 days must have their passport re-stamped by a local immigration office and pay an additional fee for every additional month they wish to stay, up to six months. For visits longer than six months, you may need to provide further documentation to the local immigration office explaining the reason for a longer stay, and you may need to pay additional fees. Visit the [Embassy of Belize to the United States website](https://www.belizeembassyusa.mfa.gov.bz/) for the most current visa information.
+
+**Traveling with Minors:** If you are traveling with children, you may be asked by immigration officials to show U.S. birth certificates for each child. When children are not traveling with both parents, immigration officials often request documentation to establish the children are traveling with the permission of both parents. Documentation may include notarized letters from the parent(s), custody decree, adoption papers, or death certificates in situations where one or both parents are deceased.
+
+**HIV/AIDS Restrictions:** We are unaware of any HIV/AIDS entry restrictions for visitors to or foreign residents of Belize. Please verify this information with the [Embassy of Belize](https://www.belizeembassyusa.mfa.gov.bz/) before you travel.
+
+Information about [dual nationality](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/Dual-Nationality-Travelers.html) or the [prevention of international child abduction](https://travel.state.gov/content/childabduction/en/preventing.html "http://travel.state.gov/family/abduction/abduction_580.html") can be found on our website.

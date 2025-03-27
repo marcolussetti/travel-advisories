@@ -1,0 +1,45 @@
+{
+    "name": "United Kingdom",
+    "risk_level": null,
+    "risk_level_number": null,
+    "pages": [
+        {
+            "title": "Quick Facts",
+            "file": "unitedstates/United Kingdom/Quick Facts.md"
+        },
+        {
+            "title": "Consulates",
+            "file": "unitedstates/United Kingdom/Consulates.md"
+        },
+        {
+            "title": "Destination Description",
+            "file": "unitedstates/United Kingdom/Destination Description.md"
+        },
+        {
+            "title": "Entry, Exit and Visa Requirements",
+            "file": "unitedstates/United Kingdom/Entry, Exit and Visa Requirements.md"
+        },
+        {
+            "title": "Weather and Natural Disasters",
+            "file": "unitedstates/United Kingdom/Weather and Natural Disasters.md"
+        },
+        {
+            "title": "Local Laws & Special Circumstances",
+            "file": "unitedstates/United Kingdom/Local Laws & Special Circumstances.md"
+        },
+        {
+            "title": "Health",
+            "file": "unitedstates/United Kingdom/Health.md"
+        },
+        {
+            "title": "Travel and Transportation",
+            "file": "unitedstates/United Kingdom/Travel and Transportation.md"
+        },
+        {
+            "title": "Fact Sheet",
+            "file": "unitedstates/United Kingdom/Fact Sheet.md"
+        }
+    ],
+    "update_date_advisory": null,
+    "update_date_details": "2025-03-25T00:00:00"
+}

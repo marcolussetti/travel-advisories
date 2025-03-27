@@ -1,0 +1,49 @@
+{
+    "name": "Guinea-Bissau",
+    "risk_level": "Level 3: Reconsider Travel",
+    "risk_level_number": 3,
+    "pages": [
+        {
+            "title": "Quick Facts",
+            "file": "unitedstates/Guinea-Bissau/Quick Facts.md"
+        },
+        {
+            "title": "Embassies and Consulates",
+            "file": "unitedstates/Guinea-Bissau/Embassies and Consulates.md"
+        },
+        {
+            "title": "Destination Description",
+            "file": "unitedstates/Guinea-Bissau/Destination Description.md"
+        },
+        {
+            "title": "Entry, Exit and Visa Requirements",
+            "file": "unitedstates/Guinea-Bissau/Entry, Exit and Visa Requirements.md"
+        },
+        {
+            "title": "Safety and Security",
+            "file": "unitedstates/Guinea-Bissau/Safety and Security.md"
+        },
+        {
+            "title": "Local Laws & Special Circumstances",
+            "file": "unitedstates/Guinea-Bissau/Local Laws & Special Circumstances.md"
+        },
+        {
+            "title": "Health",
+            "file": "unitedstates/Guinea-Bissau/Health.md"
+        },
+        {
+            "title": "Travel and Transportation",
+            "file": "unitedstates/Guinea-Bissau/Travel and Transportation.md"
+        },
+        {
+            "title": "Fact Sheet",
+            "file": "unitedstates/Guinea-Bissau/Fact Sheet.md"
+        },
+        {
+            "title": "Advisory",
+            "file": "unitedstates/Guinea-Bissau/Advisory.md"
+        }
+    ],
+    "update_date_advisory": "2025-03-24T00:00:00",
+    "update_date_details": "2021-12-15T00:00:00"
+}

@@ -1,0 +1,49 @@
+{
+    "name": "United Arab Emirates",
+    "risk_level": "Level 2: Exercise Increased Caution",
+    "risk_level_number": 2,
+    "pages": [
+        {
+            "title": "Quick Facts",
+            "file": "unitedstates/United Arab Emirates/Quick Facts.md"
+        },
+        {
+            "title": "U.S. Embassy Abu Dhabi",
+            "file": "unitedstates/United Arab Emirates/U.S. Embassy Abu Dhabi.md"
+        },
+        {
+            "title": "Destination Description",
+            "file": "unitedstates/United Arab Emirates/Destination Description.md"
+        },
+        {
+            "title": "Entry, Exit and Visa Requirements",
+            "file": "unitedstates/United Arab Emirates/Entry, Exit and Visa Requirements.md"
+        },
+        {
+            "title": "Safety and Security",
+            "file": "unitedstates/United Arab Emirates/Safety and Security.md"
+        },
+        {
+            "title": "Local Laws & Special Circumstances",
+            "file": "unitedstates/United Arab Emirates/Local Laws & Special Circumstances.md"
+        },
+        {
+            "title": "Health",
+            "file": "unitedstates/United Arab Emirates/Health.md"
+        },
+        {
+            "title": "Travel and Transportation",
+            "file": "unitedstates/United Arab Emirates/Travel and Transportation.md"
+        },
+        {
+            "title": "Fact Sheet",
+            "file": "unitedstates/United Arab Emirates/Fact Sheet.md"
+        },
+        {
+            "title": "Advisory",
+            "file": "unitedstates/United Arab Emirates/Advisory.md"
+        }
+    ],
+    "update_date_advisory": "2025-01-06T00:00:00",
+    "update_date_details": "2023-08-14T00:00:00"
+}

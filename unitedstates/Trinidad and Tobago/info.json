@@ -1,0 +1,49 @@
+{
+    "name": "Trinidad and Tobago",
+    "risk_level": "Level 3: Reconsider Travel",
+    "risk_level_number": 3,
+    "pages": [
+        {
+            "title": "Quick Facts",
+            "file": "unitedstates/Trinidad and Tobago/Quick Facts.md"
+        },
+        {
+            "title": "Embassies and Consulates",
+            "file": "unitedstates/Trinidad and Tobago/Embassies and Consulates.md"
+        },
+        {
+            "title": "Destination Description",
+            "file": "unitedstates/Trinidad and Tobago/Destination Description.md"
+        },
+        {
+            "title": "Entry, Exit and Visa Requirements",
+            "file": "unitedstates/Trinidad and Tobago/Entry, Exit and Visa Requirements.md"
+        },
+        {
+            "title": "Safety and Security",
+            "file": "unitedstates/Trinidad and Tobago/Safety and Security.md"
+        },
+        {
+            "title": "Local Laws & Special Circumstances",
+            "file": "unitedstates/Trinidad and Tobago/Local Laws & Special Circumstances.md"
+        },
+        {
+            "title": "Health",
+            "file": "unitedstates/Trinidad and Tobago/Health.md"
+        },
+        {
+            "title": "Travel and Transportation",
+            "file": "unitedstates/Trinidad and Tobago/Travel and Transportation.md"
+        },
+        {
+            "title": "Fact Sheet",
+            "file": "unitedstates/Trinidad and Tobago/Fact Sheet.md"
+        },
+        {
+            "title": "Advisory",
+            "file": "unitedstates/Trinidad and Tobago/Advisory.md"
+        }
+    ],
+    "update_date_advisory": "2025-03-21T00:00:00",
+    "update_date_details": "2025-03-21T00:00:00"
+}

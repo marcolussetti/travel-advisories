@@ -1,0 +1,13 @@
+# Entry, Exit and Visa Requirements
+
+[#### Entry, Exit and Visa Requirements](javascript:void(0); "Entry, Exit and Visa Requirements")
+
+U.S. citizens entering Lesotho must present a valid passport. Visas are not required for U.S. citizens visiting for 180 days or fewer. U.S. citizens are generally granted 30 days at a border and may apply for an extension up to 180 days through the Office of Immigration at the Ministry of Home Affairs.  For stays longer than 180 days, U.S. citizens are required to apply for a residence permit at the [Ministry of Home Affairs](https://www.homeaffairslesotho.com/). Lesotho government websites are often outdated so best to directly contact the Immigration Office. Vaccination for yellow fever is a common requirement throughout the region. You should carry your international vaccination cards with you. For more information concerning entry requirements, travelers may contact the Embassy of the Kingdom of Lesotho, 2511 Massachusetts Avenue NW, Washington, DC 20008, tel. (202) 797-5533.
+
+**Attention new South Africa Regulations:**Travelers must have two blank (unstamped) visa pages to visit or transfer through South Africa. You must also carry unabridged birth certificates for all children under 18. Please see [Country Specific Information for South Africa](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/SouthAfrica.html) for additional information.
+
+U.S. citizens normally do not need a visa for South Africa if you plan to stay less than 90 days. However, South African visa requirements are different for individuals who are residents of Lesotho. It is common for foreigners residing in Lesotho to receive seven-day visas when crossing into South Africa by road. Travelers who overstay in South Africa may be declared “undesirable” by the immigration authorities. They will then be barred from entering South Africa. Travelers planning to visit South Africa for a longer period should check with the [High Commission of South Africa in Maseru](http://www.dirco.gov.za/)on how to obtain a visa for a longer stay.
+
+The U.S. Department of State is unaware of any HIV/AIDS entry restrictions for visitors to or foreign residents of Lesotho.
+
+Find information on [dual nationality](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/Dual-Nationality-Travelers.html), [prevention of international child abduction](https://travel.state.gov/content/travel/en/International-Parental-Child-Abduction/prevention.html) and [customs regulations](https://travel.state.gov/content/travel/en/international-travel/before-you-go/customs-and-import.html) on our websites.

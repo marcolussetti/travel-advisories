@@ -1,0 +1,27 @@
+# Quick Facts
+
+### Quick Facts
+
+PASSPORT VALIDITY:
+
+Must be valid at time of entry
+
+BLANK PASSPORT PAGES:
+
+2 pages
+
+TOURIST VISA REQUIRED:
+
+Yes
+
+VACCINATIONS:
+
+Yellow Fever
+
+CURRENCY RESTRICTIONS FOR ENTRY:
+
+$10,000
+
+CURRENCY RESTRICTIONS FOR EXIT:
+
+$10,000

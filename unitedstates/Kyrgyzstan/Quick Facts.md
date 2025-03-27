@@ -1,0 +1,27 @@
+# Quick Facts
+
+### Quick Facts
+
+PASSPORT VALIDITY:
+
+Six months from date of entry
+
+BLANK PASSPORT PAGES:
+
+One full page
+
+TOURIST VISA REQUIRED:
+
+Yes, for stays longer than 60 days
+
+VACCINATIONS:
+
+No
+
+CURRENCY RESTRICTIONS FOR ENTRY:
+
+10,000 EUR.
+
+CURRENCY RESTRICTIONS FOR EXIT:
+
+10,000 EUR.

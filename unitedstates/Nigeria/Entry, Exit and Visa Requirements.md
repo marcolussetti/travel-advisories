@@ -1,0 +1,21 @@
+# Entry, Exit and Visa Requirements
+
+[#### Entry, Exit and Visa Requirements](javascript:void(0); "Entry, Exit and Visa Requirements")
+
+A passport valid for six months, a visa, and proof of Polio and Yellow Fever vaccinations are required to enter Nigeria. You must obtain your Nigerian visa from a Nigerian embassy or consulate in advance of your travel.
+
+What does "Visa on Arrival" mean in Nigeria? [Nigeria's "Visa on Arrival" requires pre-approval.](https://immigration.gov.ng/visa-on-arrival-process/) You must receive a Visa on Arrival approval document from a Nigerian embassy or consulate prior to travel to Nigeria. A Visa on Arrival is only available for the purpose of business travel, as defined by the Nigerian government. No Visa on Arrival is available for tourism. If you attempt to travel to Nigeria without a visa issued into your passport or a Visa on Arrival approval document from a Nigerian embassy or consulate, you will be refused entry. This information is subject to change. Please refer to the Nigerian Immigration Services (NIS) guidelines ([https://immigration.gov.ng/visa-on-arrival-process/](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fimmigration.gov.ng%2Fvisa-on-arrival-process%2F&data=05%7C01%7COCSContentManager%40state.gov%7C85cc0e9c71514de8a4c408db2f978149%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C638156099968336176%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=T9M6kC3Yba6Q76tuQ%2FBXLVi1e9rfQv7sPYKfG07J%2FCQ%3D&reserved=0)) and utilize the forms available on their website.
+
+Visit the [Embassy of Nigeria](http://www.nigeriaembassyusa.org/) website for the most current visa information.
+
+The Nigerian Fire Arms Act (1990) provides that no person shall have in his possession or under his control any firearm or ammunition except such person that has a license from the President or from the Inspector General of Police. U.S. citizens found with firearms (declared or undeclared) will be arrested.
+
+You cannot legally depart Nigeria unless you can prove, by presenting your visa and entry stamp, that you entered Nigeria legally.  In addition, if you exceed your authorized period of stay (as determined by the duration of stay given by the entry officer), you will be required to pay a fine before being allowed to depart. The fine can be up to $4,000 USD depending on the length of overstay.
+
+U.S.-Nigeria dual-national citizens are now required to have a valid Nigerian passport in order to depart the country. Dual-national citizens can be, and often are, denied boarding until they have obtained non-expired Nigerian passports.
+
+A World Health Organization (WHO) yellow card is required for entry into the country. The Nigerian authorities require a [Yellow Fever](https://wwwnc.cdc.gov/travel/notices/alert/yellow-fever-nigeria) vaccination within the past ten years and that adults have a [Polio](https://wwwnc.cdc.gov/travel/notices/alert/polio-africa) booster after the original childhood vaccine series. The U.S. Centers for Disease Control and Prevention publishes a [country-specific list](https://wwwnc.cdc.gov/travel/destinations/traveler/none/nigeria) of recommended vaccines to receive prior to arrival. See also the Health section below.
+
+Some HIV/AIDS entry restrictions exist for visitors to and foreign residents of Nigeria. Nigerian authorities may deny entry to foreigners who are “undesirable for medical reasons” and may require HIV tests for foreigners intending to marry Nigerian citizens. Please verify this information with the [Embassy of Nigeria](http://www.nigeriaembassyusa.org/) before travel.
+
+Find information on [dual nationality](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/Dual-Nationality-Travelers.html "http://travel.state.gov/travel/cis_pa_tw/cis/cis_1753.html"), [prevention of international child abduction](https://travel.state.gov/content/childabduction/en/preventing.html "http://travel.state.gov/abduction/prevention/prevention_560.html"), and [customs regulations](https://travel.state.gov/content/passports/en/go/customs.html) on our websites.

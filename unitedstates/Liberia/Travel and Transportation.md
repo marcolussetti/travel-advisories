@@ -1,0 +1,15 @@
+# Travel and Transportation
+
+[#### Travel and Transportation](javascript:void(0); "Travel and Transportation")
+
+**Road Conditions and Safety:** Expect time-consuming detours around the many bridges and roads damaged by war, neglect, or the heavy annual rains occurring between May and November. Traffic accidents are frequent and often result in injury or loss of life. Approach intersections with extreme caution. Potholes and poor road surfaces are common. Vehicles are often overloaded with people and goods, and make frequent stops without signaling. Drivers overtake on the right and left lanes. Many vehicles operate with threadbare tires, and blowouts are frequent.
+
+**Traffic Laws:** Drivers in Liberia are expected to hold either a Liberian or an international driver’s license; a driver’s license from your home country will not be sufficient. At the same time, traffic laws are either nonexistent or not enforced. You are required to pull off the road to make way for high-speed car convoys carrying government officials. Be aware that mob violence is not uncommon if you are involved in a traffic accident. If you are involved in an accident, unless it is physically unsafe to remain in your vehicle, it is often safest to stay in your locked car and call for assistance immediately.
+
+**Public Transportation:** Public taxis are poorly maintained and usually overloaded. Taxis have been occasionally targeted for robbery. If you must travel as a passenger, it is best to ask a trusted friend to drive you in his or her personal vehicle and to travel with all doors locked and all windows rolled up. Public buses are crowded and may make you vulnerable to pick-pockets or robbers. Three-wheeled “kekes” (motorized rickshaws) are extremely dangerous and should be avoided.
+
+For more information, please visit our [Road Safety](https://travel.state.gov/content/travel/en/international-travel/before-you-go/driving-and-road-safety.html) page. Visit the website of Liberia’s national tourist office and national authority responsible for road safety.
+
+**Aviation Safety Oversight:**As there is no direct commercial air service to the United States by carriers registered in Liberia, the U.S. Federal Aviation Administration (FAA) has not assessed the government of Liberia’s Civil Aviation Authority for compliance with International Civil Aviation Organization (ICAO) aviation safety standards. Further information may be found on the [FAA’s safety assessment page](https://www.faa.gov/about/initiatives/iasa/ "faa.gov").The Embassy has information indicating that airport safety, security, maintenance, training, and emergency response-capabilities in Liberia fall below international standards.
+
+**Maritime Travel:** Mariners planning travel to Liberia should also check for [U.S. maritime advisories and alerts](https://www.maritime.dot.gov/msci-alerts). Information may also be posted to the [U.S. Coast Guard homeport](https://homeport.uscg.mil/) website, and the [NGA broadcast warnings website](https://msi.nga.mil/NavWarnings).

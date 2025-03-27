@@ -1,0 +1,27 @@
+# Quick Facts
+
+### Quick Facts
+
+PASSPORT VALIDITY:
+
+6 months validity
+
+BLANK PASSPORT PAGES:
+
+One page for stamp
+
+TOURIST VISA REQUIRED:
+
+Yes
+
+VACCINATIONS:
+
+Yellow Fever
+
+CURRENCY RESTRICTIONS FOR ENTRY:
+
+Maximum of $10,000 USD
+
+CURRENCY RESTRICTIONS FOR EXIT:
+
+Maximum of $10,000 USD

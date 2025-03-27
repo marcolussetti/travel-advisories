@@ -1,0 +1,49 @@
+{
+    "name": "Burkina Faso",
+    "risk_level": "Level 4: Do Not Travel",
+    "risk_level_number": 4,
+    "pages": [
+        {
+            "title": "Quick Facts",
+            "file": "unitedstates/Burkina Faso/Quick Facts.md"
+        },
+        {
+            "title": "Embassies and Consulates",
+            "file": "unitedstates/Burkina Faso/Embassies and Consulates.md"
+        },
+        {
+            "title": "Destination Description",
+            "file": "unitedstates/Burkina Faso/Destination Description.md"
+        },
+        {
+            "title": "Entry, Exit and Visa Requirements",
+            "file": "unitedstates/Burkina Faso/Entry, Exit and Visa Requirements.md"
+        },
+        {
+            "title": "Safety and Security",
+            "file": "unitedstates/Burkina Faso/Safety and Security.md"
+        },
+        {
+            "title": "Local Laws & Special Circumstances",
+            "file": "unitedstates/Burkina Faso/Local Laws & Special Circumstances.md"
+        },
+        {
+            "title": "Health",
+            "file": "unitedstates/Burkina Faso/Health.md"
+        },
+        {
+            "title": "Travel and Transportation",
+            "file": "unitedstates/Burkina Faso/Travel and Transportation.md"
+        },
+        {
+            "title": "Fact Sheet",
+            "file": "unitedstates/Burkina Faso/Fact Sheet.md"
+        },
+        {
+            "title": "Advisory",
+            "file": "unitedstates/Burkina Faso/Advisory.md"
+        }
+    ],
+    "update_date_advisory": "2023-07-31T00:00:00",
+    "update_date_details": "2018-03-13T00:00:00"
+}

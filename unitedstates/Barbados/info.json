@@ -1,0 +1,49 @@
+{
+    "name": "Barbados",
+    "risk_level": "Level 1: Exercise Normal Precautions",
+    "risk_level_number": 1,
+    "pages": [
+        {
+            "title": "Quick Facts",
+            "file": "unitedstates/Barbados/Quick Facts.md"
+        },
+        {
+            "title": "Antigua",
+            "file": "unitedstates/Barbados/Antigua.md"
+        },
+        {
+            "title": "Destination Description",
+            "file": "unitedstates/Barbados/Destination Description.md"
+        },
+        {
+            "title": "Entry, Exit and Visa Requirements",
+            "file": "unitedstates/Barbados/Entry, Exit and Visa Requirements.md"
+        },
+        {
+            "title": "Safety and Security",
+            "file": "unitedstates/Barbados/Safety and Security.md"
+        },
+        {
+            "title": "Local Laws & Special Circumstances",
+            "file": "unitedstates/Barbados/Local Laws & Special Circumstances.md"
+        },
+        {
+            "title": "Health",
+            "file": "unitedstates/Barbados/Health.md"
+        },
+        {
+            "title": "Travel and Transportation",
+            "file": "unitedstates/Barbados/Travel and Transportation.md"
+        },
+        {
+            "title": "Fact Sheet",
+            "file": "unitedstates/Barbados/Fact Sheet.md"
+        },
+        {
+            "title": "Advisory",
+            "file": "unitedstates/Barbados/Advisory.md"
+        }
+    ],
+    "update_date_advisory": "2024-08-22T00:00:00",
+    "update_date_details": "2023-10-03T00:00:00"
+}

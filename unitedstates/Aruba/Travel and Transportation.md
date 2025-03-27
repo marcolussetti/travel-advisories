@@ -1,0 +1,15 @@
+# Travel and Transportation
+
+[#### Travel and Transportation](javascript:void(0); "Travel and Transportation")
+
+**Road Conditions and Safety:** Road signs in Aruba are different than in the United States, so familiarize yourself with them before driving. Watch out for scooters, motorcycles, and ATVs, as drivers of these vehicles may not strictly follow traffic rules. In less developed areas, watch out for goats and other animals that may cross the road unexpectedly. Night driving is reasonably safe, as long as drivers are familiar with the route and road conditions. Most roads are not as well-lit as U.S. roads.
+
+**Traffic Laws:** Vehicles operate on the right-hand side of the road. You can drive in Aruba with a valid U.S. driver’s license. Drivers approaching roundabouts must yield to traffic already in the roundabout and wait for an opening to enter. Right turns at red lights are prohibited. U-turns are often restricted. Traffic signs prohibiting actions have a red circle around them, but not the red slash you expect to see in the United States. Local law requires drivers and passengers to wear seat belts, and motorcyclists to wear helmets. Children must ride in the back seat, and children under 5 years of age must be in a child safety seat. In the event of an accident, do not move your car or pull over. If an accident occurs, dial 100 to inform the police and call the rental car company and the insurance company immediately.
+
+**Public Transportation:** Taxis do not have meters and are safe and well regulated. Determine the price in advance, as rates are based on destination. Buses run every 15 minutes between 5:45am and 6pm, and every 40 minutes between 6pm and 11:30pm.
+
+See our [Road Safety page](http://travel.state.gov/content/passports/english/go/safety/road.html) for more information. Visit the website of the [Aruba Tourism Authority](http://www.aruba.com/) for more information about transportation.
+
+**Aviation Safety Oversight:** The U.S. Federal Aviation Administration (FAA) has assessed the government of Aruba’s Civil Aviation Authority as being in compliance with International Civil Aviation Organization (ICAO) aviation safety standards for oversight of Aruba’s air carrier operations. Further information may be found on the [FAA’s safety assessment page](http://www.faa.gov/about/initiatives/iasa/).
+
+**Maritime Travel:** Mariners planning travel to Aruba should check for [U.S. maritime advisories and alerts](http://www.marad.dot.gov/msci). Information may also be posted to the [U.S. Coast Guard homeport website](https://homeport.uscg.mil/), and the [NGA broadcast warnings](https://msi.nga.mil/NGAPortal/MSI.portal;jsessionid=ZH8vhpMLsRlhyYmGhsQmq712yBFWrSvYnnNWfPFbZHtddspH3KzQ!863626413!-1887722738?_nfpb=true&_st=&_pageLabel=msi_portal_page_63). Please review to following Aruba government [page](https://www.arubaports.com/main/international-yachts-and-sailing-vessels/) for more information.

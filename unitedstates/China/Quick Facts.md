@@ -1,0 +1,27 @@
+# Quick Facts
+
+### Quick Facts
+
+PASSPORT VALIDITY:
+
+Six months
+
+BLANK PASSPORT PAGES:
+
+Two pages
+
+TOURIST VISA REQUIRED:
+
+Yes
+
+VACCINATIONS:
+
+Recommend consult with travel clinic
+
+CURRENCY RESTRICTIONS FOR ENTRY:
+
+Max RMB 20,000
+
+CURRENCY RESTRICTIONS FOR EXIT:
+
+Max RMB 20,000

@@ -1,0 +1,15 @@
+# Travel and Transportation
+
+[#### Travel and Transportation](javascript:void(0); "Travel and Transportation")
+
+**Road Conditions and Safety:**Traffic is extremely chaotic throughout the country and is frequently congested in urban areas. Lanes are not marked, and signs indicating the flow of traffic seldom exist. Roads are generally unmarked, and detailed, accurate maps are not widely available. GPS-based systems do usually work accurately, but the lack of road signage makes it hard to determine the indicated route. There are only a handful of stoplights in the country. Pedestrians regularly walk on the side of the road, and animals often dart into traffic. Even though driving is on the right side of the road, large potholes and flooding may cause drivers to swerve unpredictably and dangerously into the opposite lane of traffic. Speeding, aggressive driving, lack of traffic lights and signs, lack of right of way, unlit vehicles, and poor maintenance are the cause of many fatal traffic accidents in Haiti, as are overloaded vehicles on winding, mountainous and degraded roads. Motorcycles weave through traffic at high speeds. Driving under the influence is common at night. Traffic accidents are a major cause of death and injury, and extreme caution should be exercised. Those lacking knowledge of Haitian roads and traffic customs should hire a driver through a tour company or hotel. Heavy rains can cause mudslides and flooding that can quickly make conditions perilous. The Haitian government lacks adequate resources to assist drivers in distress or to clear the road of accidents or broken-down vehicles. If you are involved in an accident, do not expect medical or law enforcement assistance.
+
+**Public Transportation:**  Public transportation consists of “tap-taps” (collective buses), private motorcycles for hire, and public buses and taxis in some cities or inter-city routes. Embassy personnel are prohibited from using any public transportation, and U.S. citizens are advised to avoid doing so due to the risk of crime. There is a significant risk of ejection in any accident, or even rough driving, due to lack of seat belts.
+
+See our [Road Safety page](http://travel.state.gov/content/passports/english/go/safety/road.html) for more information.
+
+**Aviation Safety Oversight:**
+
+The U.S. Federal Aviation Administration (FAA) has assessed the government of Haiti’s Civil Aviation Authority as not being in compliance with International Civil Aviation Organization (ICAO) aviation safety standards for oversight of Haiti’s air carrier operations.  Further information may be found on the [FAA’s safety assessment page](http://www.faa.gov/about/initiatives/iasa/).
+
+**Maritime Travel:** Mariners planning travel to Haiti should also check for [U.S. maritime advisories and alerts](https://www.maritime.dot.gov/msci-alerts).  Information may also be posted to the  [U.S. Coast Guard homeport website](https://homeport.uscg.mil/), and the [NGA broadcast warnings](https://msi.nga.mil/NavWarnings).

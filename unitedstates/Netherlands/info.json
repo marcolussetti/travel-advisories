@@ -1,0 +1,49 @@
+{
+    "name": "Netherlands",
+    "risk_level": "Level 2: Exercise Increased Caution",
+    "risk_level_number": 2,
+    "pages": [
+        {
+            "title": "Quick Facts",
+            "file": "unitedstates/Netherlands/Quick Facts.md"
+        },
+        {
+            "title": "Consulates",
+            "file": "unitedstates/Netherlands/Consulates.md"
+        },
+        {
+            "title": "Destination Description",
+            "file": "unitedstates/Netherlands/Destination Description.md"
+        },
+        {
+            "title": "Entry, Exit and Visa Requirements",
+            "file": "unitedstates/Netherlands/Entry, Exit and Visa Requirements.md"
+        },
+        {
+            "title": "Safety and Security",
+            "file": "unitedstates/Netherlands/Safety and Security.md"
+        },
+        {
+            "title": "Local Laws & Special Circumstances",
+            "file": "unitedstates/Netherlands/Local Laws & Special Circumstances.md"
+        },
+        {
+            "title": "Health",
+            "file": "unitedstates/Netherlands/Health.md"
+        },
+        {
+            "title": "Travel and Transportation",
+            "file": "unitedstates/Netherlands/Travel and Transportation.md"
+        },
+        {
+            "title": "Fact Sheet",
+            "file": "unitedstates/Netherlands/Fact Sheet.md"
+        },
+        {
+            "title": "Advisory",
+            "file": "unitedstates/Netherlands/Advisory.md"
+        }
+    ],
+    "update_date_advisory": "2024-08-09T00:00:00",
+    "update_date_details": "2023-03-03T00:00:00"
+}

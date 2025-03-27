@@ -1,0 +1,49 @@
+{
+    "name": "Switzerland",
+    "risk_level": "Level 1: Exercise Normal Precautions",
+    "risk_level_number": 1,
+    "pages": [
+        {
+            "title": "Quick Facts",
+            "file": "unitedstates/Switzerland/Quick Facts.md"
+        },
+        {
+            "title": "Consular Agencies",
+            "file": "unitedstates/Switzerland/Consular Agencies.md"
+        },
+        {
+            "title": "Destination Description",
+            "file": "unitedstates/Switzerland/Destination Description.md"
+        },
+        {
+            "title": "Entry, Exit and Visa Requirements",
+            "file": "unitedstates/Switzerland/Entry, Exit and Visa Requirements.md"
+        },
+        {
+            "title": "Safety and Security",
+            "file": "unitedstates/Switzerland/Safety and Security.md"
+        },
+        {
+            "title": "Local Laws & Special Circumstances",
+            "file": "unitedstates/Switzerland/Local Laws & Special Circumstances.md"
+        },
+        {
+            "title": "Health",
+            "file": "unitedstates/Switzerland/Health.md"
+        },
+        {
+            "title": "Travel and Transportation",
+            "file": "unitedstates/Switzerland/Travel and Transportation.md"
+        },
+        {
+            "title": "Fact Sheet",
+            "file": "unitedstates/Switzerland/Fact Sheet.md"
+        },
+        {
+            "title": "Advisory",
+            "file": "unitedstates/Switzerland/Advisory.md"
+        }
+    ],
+    "update_date_advisory": "2023-07-26T00:00:00",
+    "update_date_details": "2024-03-27T00:00:00"
+}

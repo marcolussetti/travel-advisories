@@ -1,0 +1,49 @@
+{
+    "name": "Greece",
+    "risk_level": "Level 1: Exercise Normal Precautions",
+    "risk_level_number": 1,
+    "pages": [
+        {
+            "title": "Quick Facts",
+            "file": "unitedstates/Greece/Quick Facts.md"
+        },
+        {
+            "title": "Consulates",
+            "file": "unitedstates/Greece/Consulates.md"
+        },
+        {
+            "title": "Destination Description",
+            "file": "unitedstates/Greece/Destination Description.md"
+        },
+        {
+            "title": "Entry, Exit and Visa Requirements",
+            "file": "unitedstates/Greece/Entry, Exit and Visa Requirements.md"
+        },
+        {
+            "title": "Safety and Security",
+            "file": "unitedstates/Greece/Safety and Security.md"
+        },
+        {
+            "title": "Local Laws & Special Circumstances",
+            "file": "unitedstates/Greece/Local Laws & Special Circumstances.md"
+        },
+        {
+            "title": "Health",
+            "file": "unitedstates/Greece/Health.md"
+        },
+        {
+            "title": "Travel and Transportation",
+            "file": "unitedstates/Greece/Travel and Transportation.md"
+        },
+        {
+            "title": "Fact Sheet",
+            "file": "unitedstates/Greece/Fact Sheet.md"
+        },
+        {
+            "title": "Advisory",
+            "file": "unitedstates/Greece/Advisory.md"
+        }
+    ],
+    "update_date_advisory": "2024-08-15T00:00:00",
+    "update_date_details": "2025-01-21T00:00:00"
+}

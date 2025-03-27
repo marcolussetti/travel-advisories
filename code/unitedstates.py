@@ -14,7 +14,7 @@ URL = "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisor
 OUTPUT_CSV = "unitedstates_summary.csv"
 OUTPUT_JSON = "unitedstates_summary.json"
 
-DETAILS_PARSING_DELAY = 0.1
+DETAILS_PARSING_DELAY = 0.01
 
 
 def fetch_page(url):

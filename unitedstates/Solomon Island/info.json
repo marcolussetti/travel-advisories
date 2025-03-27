@@ -1,0 +1,13 @@
+{
+    "name": "Solomon Island",
+    "risk_level": "Level 2: Exercise Increased Caution",
+    "risk_level_number": 2,
+    "pages": [
+        {
+            "title": "Advisory",
+            "file": "unitedstates/Solomon Island/Advisory.md"
+        }
+    ],
+    "update_date_advisory": "2023-07-24T00:00:00",
+    "update_date_details": null
+}

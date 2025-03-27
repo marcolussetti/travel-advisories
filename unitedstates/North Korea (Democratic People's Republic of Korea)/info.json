@@ -1,0 +1,13 @@
+{
+    "name": "North Korea (Democratic People's Republic of Korea)",
+    "risk_level": "Level 4: Do Not Travel",
+    "risk_level_number": 4,
+    "pages": [
+        {
+            "title": "Advisory",
+            "file": "unitedstates/North Korea (Democratic People's Republic of Korea)/Advisory.md"
+        }
+    ],
+    "update_date_advisory": "2023-07-24T00:00:00",
+    "update_date_details": null
+}

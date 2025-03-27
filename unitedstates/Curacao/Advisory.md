@@ -1,0 +1,68 @@
+# Curacao Travel Advisory
+
+### Travel Advisory August 19, 2024
+
+### Curaçao - Level 1: Exercise Normal Precautions
+
+[O](javascript:void(0); "Tool Tip: Other")
+[D](javascript:void(0); "Tool Tip: Wrongful Detention")
+[K](javascript:void(0); "Tool Tip: Kidnap and Hostage")
+[E](javascript:void(0); "Tool Tip: Event")
+[N](javascript:void(0); "Tool Tip: Disaster")
+[H](javascript:void(0); "Tool Tip: Health")
+[U](javascript:void(0); "Tool Tip: Civil Unrest")
+[T](javascript:void(0); "Tool Tip: Terrorism")
+[C](javascript:void(0); "Tool Tip: Crimes")
+
+**Reissued after periodic review without changes.**
+
+Exercise normal precautions in Curaçao.
+
+Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Curacao.html) for additional information on travel to Curaçao.
+
+If you decide to travel to Curacao:
+
+* Enroll in the [Smart Traveler Enrollment Program (STEP)](https://step.state.gov/) to receive Alerts and make it easier to locate you in an emergency.
+* Follow the Department of State on [Facebook](http://facebook.com/travelgov) and [X/Twitter](http://twitter.com/travelgov).
+* Review the [Country Security Report](https://www.osac.gov/Content/Browse/Report?subContentTypes=Country%20Security%20Report) for the Dutch Caribbean.
+* Prepare a contingency plan for emergency situations. Review the [Traveler’s Checklist](https://travel.state.gov/content/passports/en/go/checklist.html).
+* Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) related to your travel.
+
+### Travel Advisory Levels
+
+[![](/content/dam/NEWTravelAssets/images/travel-levelv1.svg)](/content/travel/en/international-travel/before-you-go/about-our-new-products.html "Travel Advisory Levels")
+
+### Assistance for U.S. Citizens
+
+U.S. Consulate General Curaçao
+
+J.B. Gorsiraweg 1,  
+Willemstad, Curaçao
+
+Telephone
+
+(+599) (9) 433-2200
+
+Emergency
+
+(+599) (9) 433-2200
+
+Fax
+
+null
+
+Email
+
+[ACSCuracao@state.gov](mailto: ACSCuracao@state.gov "Embassy email address: ACSCuracao@state.gov")
+
+Website
+
+[https://cw.usconsulate.gov/](https://cw.usconsulate.gov/ "Embassy website address of U.S. Consulate General Curaçao: https://cw.usconsulate.gov/")
+
+### Curaçao Map
+
+[View Larger Map](https://travelmaps.state.gov/TSGMap/?extent=-69.390344221,11.99999392,-68.592453375,12.409087291 "Map of Curaçao")
+
+
+
+### Search for Travel Advisories

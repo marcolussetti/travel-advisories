@@ -1,0 +1,49 @@
+{
+    "name": "Nigeria",
+    "risk_level": "Level 3: Reconsider Travel",
+    "risk_level_number": 3,
+    "pages": [
+        {
+            "title": "Quick Facts",
+            "file": "unitedstates/Nigeria/Quick Facts.md"
+        },
+        {
+            "title": "Consulates",
+            "file": "unitedstates/Nigeria/Consulates.md"
+        },
+        {
+            "title": "Destination Description",
+            "file": "unitedstates/Nigeria/Destination Description.md"
+        },
+        {
+            "title": "Entry, Exit and Visa Requirements",
+            "file": "unitedstates/Nigeria/Entry, Exit and Visa Requirements.md"
+        },
+        {
+            "title": "Safety and Security",
+            "file": "unitedstates/Nigeria/Safety and Security.md"
+        },
+        {
+            "title": "Local Laws & Special Circumstances",
+            "file": "unitedstates/Nigeria/Local Laws & Special Circumstances.md"
+        },
+        {
+            "title": "Health",
+            "file": "unitedstates/Nigeria/Health.md"
+        },
+        {
+            "title": "Travel and Transportation",
+            "file": "unitedstates/Nigeria/Travel and Transportation.md"
+        },
+        {
+            "title": "Fact Sheet",
+            "file": "unitedstates/Nigeria/Fact Sheet.md"
+        },
+        {
+            "title": "Advisory",
+            "file": "unitedstates/Nigeria/Advisory.md"
+        }
+    ],
+    "update_date_advisory": "2023-09-20T00:00:00",
+    "update_date_details": "2024-01-24T00:00:00"
+}

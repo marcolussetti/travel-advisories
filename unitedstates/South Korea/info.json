@@ -1,0 +1,49 @@
+{
+    "name": "South Korea",
+    "risk_level": "Level 1: Exercise Normal Precautions",
+    "risk_level_number": 1,
+    "pages": [
+        {
+            "title": "Quick Facts",
+            "file": "unitedstates/South Korea/Quick Facts.md"
+        },
+        {
+            "title": "Embassies and Consulates",
+            "file": "unitedstates/South Korea/Embassies and Consulates.md"
+        },
+        {
+            "title": "Destination Description",
+            "file": "unitedstates/South Korea/Destination Description.md"
+        },
+        {
+            "title": "Entry, Exit and Visa Requirements",
+            "file": "unitedstates/South Korea/Entry, Exit and Visa Requirements.md"
+        },
+        {
+            "title": "Safety and Security",
+            "file": "unitedstates/South Korea/Safety and Security.md"
+        },
+        {
+            "title": "Local Laws & Special Circumstances",
+            "file": "unitedstates/South Korea/Local Laws & Special Circumstances.md"
+        },
+        {
+            "title": "Health",
+            "file": "unitedstates/South Korea/Health.md"
+        },
+        {
+            "title": "Travel and Transportation",
+            "file": "unitedstates/South Korea/Travel and Transportation.md"
+        },
+        {
+            "title": "Fact Sheet",
+            "file": "unitedstates/South Korea/Fact Sheet.md"
+        },
+        {
+            "title": "Advisory",
+            "file": "unitedstates/South Korea/Advisory.md"
+        }
+    ],
+    "update_date_advisory": "2023-07-24T00:00:00",
+    "update_date_details": "2025-01-21T00:00:00"
+}

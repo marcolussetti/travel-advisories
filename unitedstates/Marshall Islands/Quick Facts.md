@@ -1,0 +1,27 @@
+# Quick Facts
+
+### Quick Facts
+
+PASSPORT VALIDITY:
+
+Six Months
+
+BLANK PASSPORT PAGES:
+
+At least one blank page
+
+TOURIST VISA REQUIRED:
+
+Not for U.S. citizens
+
+VACCINATIONS:
+
+Measles
+
+CURRENCY RESTRICTIONS FOR ENTRY:
+
+$10,000
+
+CURRENCY RESTRICTIONS FOR EXIT:
+
+$10,000

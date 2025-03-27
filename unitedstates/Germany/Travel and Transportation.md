@@ -1,0 +1,23 @@
+# Travel and Transportation
+
+[#### Travel and Transportation](javascript:void(0); "Travel and Transportation")
+
+**Road Conditions and Safety:**Road conditions in general are excellent but can differ from those in the United States, but driver error is a leading cause of accidents involving U.S. citizen motorists in Germany.
+
+If you hold a valid U.S. driver’s license, you can drive in [Germany for up to six months](https://de.usembassy.gov/driving-in-germany/?_ga=2.204184272.1797460205.1701971157-116128102.1701971156) without acquiring a German driver’s license. Many German traffic laws and traffic signs differ significantly from those in the United States. For more information, please visit the U.S. embassy’s webpage on [**driving in Germany**](https://de.usembassy.gov/driving-in-germany/)**.**
+
+Speed limits are posted on large stretches of the highway, on the Autobahn in urban areas, and when the road has many curves. Although high speeds are permitted on the Autobahn, adverse weather conditions and unfamiliar road markings pose significant hazards. Speed limits are strictly enforced. Use of seat belts is mandatory in front and back seats. Do not park on bike paths or sidewalks. Your vehicle registration, insurance policy, a first-aid kit, a reflective vest, and a reflective triangle must be in your vehicle at all times. In snowy or icy conditions, your vehicle must have snow tires or all-season tires (indicated by M+S marking) or you will be subject to a fine.
+
+**Bicycles:** German streets and sidewalks have dedicated bike lanes. Bicycles have priority use of bike lanes over pedestrians and automobiles. Bicyclists also have priority over cars when turning onto side streets. If you are driving, check whether a bicyclist is approaching from either direction before attempting to enter side streets, even when the light is in your favor. You will be held responsible for any injury or damage caused if you turn into a side street and hit a bicyclist using a marked bike lane. If you are walking, watch for bicyclists before crossing or stepping into bike lanes.
+
+**Traffic Laws:** If you are involved in a traffic accident in Germany, even a minor fender-bender, you MUST stay with your vehicle and not leave the scene until police arrive to take a report. It is illegal to use your cell phone while driving in Germany. Except on priority roads, vehicles coming from the right have the right-of-way. It is generally illegal in Germany to pass vehicles on the right. Germans strictly observe the ‘slower traffic keep right’ rule. It is illegal to operate a vehicle if your blood alcohol level is 0.05% or higher. You may be fined, and your driver’s license may be suspended for specified periods of time, depending upon the gravity of each violation.
+
+**Public Transportation:** Germany has an extensive and safe public transportation network consisting of buses, streetcars, trains, and subways. Metered taxis are also prevalent throughout Germany. Uber and other rideshare companies are available in most cities in Germany. Use common sense safety practices such as guarding valuables and remaining aware of your surroundings on all public transportation.
+
+Strikes in Germany may disrupt public transportation and travel plans.  We strongly encourage travelers to check transportation schedule information prior to travel.
+
+See our [Road Safety page](http://travel.state.gov/content/passports/english/go/safety/road.html) for more information. Visit the website of Germany’s [Federal Ministry for Digital and Transport (BMVI)](https://www.bmvi.de/EN/Topics/Mobility/Road/Road-Safety/road-safety.html#:~:text=The%20number%20of%20road%20fatalities,fatality%20is%20one%20too%20many.), the national authority responsible for road safety.
+
+**Aviation Safety Oversight:**The U.S. Federal Aviation Administration (FAA) has assessed the government of Germany’s Civil Aviation Authority as compliant with International Civil Aviation Organization (ICAO) aviation safety standards for oversight of Germany’s air carrier operations. Further information may be found on the [FAA’s safety assessment page](http://www.faa.gov/about/initiatives/iasa/).
+
+**Maritime Travel:**Mariners planning travel to Germany should also check for U.S. maritime [advisories](https://www.maritime.dot.gov/msci-advisories) and [alerts](https://www.maritime.dot.gov/msci-alerts). Information may also be posted to the [U.S. Coast Guard homeport website](https://homeport.uscg.mil/), and the [NGA broadcast warnings.](https://msi.nga.mil/NavWarnings)
