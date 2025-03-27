@@ -2,7 +2,7 @@
     name: canada - fetch latest travel-advisories data
     on:
       schedule:
-        - cron: "2 7 * * *"
+        - cron: "7 13 * * *"
       workflow_dispatch: # allows manual triggering
     
     jobs:

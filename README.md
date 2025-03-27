@@ -8,6 +8,9 @@ This is stored as git history, so that you can see changes over time via the git
 ## Currently tracking
 
 
+- 🇦🇺 Australia, summary data ([CSV](https://github.com/marcolussetti/travel-advisories/blob/main/australia_summary.csv)<sup>[history](https://github.com/marcolussetti/travel-advisories/commits/main/australia_summary.csv)</sup>, [JSON](https://github.com/marcolussetti/travel-advisories/blob/main/australia_summary.json)<sup>[history](https://github.com/marcolussetti/travel-advisories/commits/main/australia_summary.json)</sup>)
+    - [Detailed data](https://github.com/marcolussetti/travel-advisories/tree/main/australia) (<sup>[history](https://github.com/marcolussetti/travel-advisories/commits/main/australia)</sup>)
+    - [![australia - fetch latest travel-advisories data](https://github.com/marcolussetti/travel-advisories/actions/workflows/australia.yml/badge.svg)](https://github.com/marcolussetti/travel-advisories/actions/workflows/australia.yml)
 - 🇨🇦 Canada, summary data ([CSV](https://github.com/marcolussetti/travel-advisories/blob/main/canada_summary.csv)<sup>[history](https://github.com/marcolussetti/travel-advisories/commits/main/canada_summary.csv)</sup>, [JSON](https://github.com/marcolussetti/travel-advisories/blob/main/canada_summary.json)<sup>[history](https://github.com/marcolussetti/travel-advisories/commits/main/canada_summary.json)</sup>)
     - [Detailed data](https://github.com/marcolussetti/travel-advisories/tree/main/canada) (<sup>[history](https://github.com/marcolussetti/travel-advisories/commits/main/canada)</sup>)
     - [![canada - fetch latest travel-advisories data](https://github.com/marcolussetti/travel-advisories/actions/workflows/canada.yml/badge.svg)](https://github.com/marcolussetti/travel-advisories/actions/workflows/canada.yml)
@@ -18,6 +21,7 @@ This is stored as git history, so that you can see changes over time via the git
     - [Detailed data](https://github.com/marcolussetti/travel-advisories/tree/main/kingdom) (<sup>[history](https://github.com/marcolussetti/travel-advisories/commits/main/unitedkingdom)</sup>)
     - [![unitedkingdom - fetch latest travel-advisories data](https://github.com/marcolussetti/travel-advisories/actions/workflows/unitedkingdom.yml/badge.svg)](https://github.com/marcolussetti/travel-advisories/actions/workflows/unitedkingdom.yml)
 - 🇺🇸 United States, summary data ([CSV](https://github.com/marcolussetti/travel-advisories/blob/main/unitedstates_summary.csv)<sup>[history](https://github.com/marcolussetti/travel-advisories/commits/main/unitedstates_summary.csv)</sup>, [JSON](https://github.com/marcolussetti/travel-advisories/blob/main/unitedstates_summary.json)<sup>[history](https://github.com/marcolussetti/travel-advisories/commits/main/unitedstates_summary.json)</sup>)
+    - [Detailed data](https://github.com/marcolussetti/travel-advisories/tree/main/unitedstates) (<sup>[history](https://github.com/marcolussetti/travel-advisories/commits/main/unitedstates)</sup>)
     - [![unitedstates - fetch latest travel-advisories data](https://github.com/marcolussetti/travel-advisories/actions/workflows/unitedstates.yml/badge.svg)](https://github.com/marcolussetti/travel-advisories/actions/workflows/unitedstates.yml)
 
 
