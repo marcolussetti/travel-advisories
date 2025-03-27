@@ -32,12 +32,12 @@
               git add -A unitedstates/*.json
               git add -A unitedstates/last_run.txt
               
-              if git diff --quiet --exit-code; then
+              if git diff --cached --quiet --exit-code; then
                 echo "No changes to commit."
                 exit 0
               fi
               
-              if [[ $(git diff --name-only) == "unitedstates/last_run.txt" ]]; then
+              if [[ $(git diff --cached --name-only) == "unitedstates/last_run.txt" ]]; then
                 echo "Only unitedstates/last_run.txt has changed, skipping commit."
                 exit 0
               fi
