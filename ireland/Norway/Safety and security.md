@@ -19,7 +19,7 @@ The rules of the road in Norway are broadly similar to those in Ireland, and roa
 If driving:
 
 * Bring a full Irish driving licence and make sure to have adequate and appropriate insurance.
-* Driving under the influence of alcohol or drugs is against the law and you risk being detained, fined or banned from driving if caught. Roadside checks for alcohol are frequent, and submission to a breathalyser test is mandatory. The drink driving limit is 0.20 pro ml.
+* Driving under the influence of alcohol or drugs is against the law and you risk being detained, fined or banned from driving if caught. Roadside checks for alcohol are frequent, and submission to a breathalyser test is mandatory. The drink driving legal limit is 0.02% of blood alcohol. The Norwegian limit is lower than the Irish limit. Most people will exceed the Norwegian limit after one standard drink.
 * Be aware of Norway’s traffic laws, such as speed limits, which are stricter than Ireland and rigorously enforced.
 * Winter tyres are mandatory from approximately November to April. Different regions will have their own dates in which it is mandatory to drive with winter tyres. It is important to check requirements before you begin your journey.
 * Throughout the year, keep headlights on at all times when driving.

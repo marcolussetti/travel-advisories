@@ -18,7 +18,6 @@ Crime remains relatively low in Italy but take sensible precautions:
 
 * Incidents of tourists’ vehicles being broken into and the vehicle’s contents being stolen have increased in recent months. Irish citizens are advised not to leave any valuables, including their passports, in vehicles that are unattended.
 * Do not carry credit cards, travel tickets and money together - leave spare cash and valuables in a safe place.
-* Do not carry your passport unless absolutely necessary and leave a copy of your passport (as well as travel and insurance documents) with family or friends at home.
 * Be aware that petty crime (pick pocketing, bag snatching etc.) is common, particularly on public transport and in tourist areas. Vigilance should be paid to personal belongings in train stations (particularly Termini Station in Rome), in the public areas of the airports, at all tourist sites and when using bus, metro or tram services, including when unloading baggage from coaches travelling to and from the airports.
 * We have been made aware of an increasing number of incidents recently where travellers have been drugged through substances being placed in drinks, and subsequently robbed of money, credit cards and mobile telephones. We recommend visitors exercise vigilance in bars, and be wary of drinks offered by strangers in night spots and areas where tourists congregate in the evenings.
 

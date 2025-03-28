@@ -4,15 +4,9 @@
 
 Normal Precautions
 
-### **Travel Alert – St. Patrick’s Day weekend**
+### **Travel Alert – Jubilee Year in Rome**
 
-During St. Patrick’s Day weekend (14–17 March), the Embassy is expecting many Irish people to travel to Rome for the Ireland–Italy 6 Nations match and the Rome Marathon.
-
-During this period, please monitor local news for information, particularly on travel disruptions or public gatherings.
-
-Please ensure to keep a government ID (passport or passport card) with you at all times in case police request to see it. Please be aware that driving licences are not usually accepted for these purposes. Please make every effort to keep your passport secure while it is on your person, e.g. by placing it in an inside pocket of your jacket or a secure pocket in your bag. Ensure also that you take a photocopy of all of your documents and leave photocopies securely in your hotel or accommodation.
-
-If Irish citizens require consular assistance during this period, please contact the Embassy’s out-of-hours emergency service by calling at (+39) 06 5852 381 and leaving a message on the answering machine. An Embassy official will contact you directly as soon as they can.
+From 24 December 2024 to 6 January 2026, the Jubilee 2025, also known as the Holy Year, will take place in Rome. The city is expected to see significantly elevated tourist levels, particularly during the larger events such as Easter and the Jubilee of Youth on 28 July–3 August. When travelling in the city during this time, you should expect large crowds and gatherings and disruptions to travel and movement. When planning travel in Rome during the Jubilee Year, it may be useful to consult the [Jubilee 2025 official site](https://www.iubilaeum2025.va/en.html).
 
 ### **General Travel Advice**
 
@@ -27,6 +21,8 @@ Visitors to Italy are advised to follow the guidance of national and local autho
 Citizens can also follow the Embassy on social media (X [**@IrlEmbRome**](https://twitter.com/IrlEmbRome?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) and [**Facebook**](https://www.facebook.com/IrlEmbRome/)) to ensure access to any relevant updates and alerts.
 
 Individuals in Italy are required by law to have government ID in their possession at all times. This may be required including when checking into hotels or private accommodation, as well as for entry to sports and other entertainment events. The Embassy recommends that you keep your passport in a safe place, and carry another form of ID, or a photocopy of your passport while moving around Italy.
+
+Irish citizens should be aware that while crime levels in Italy are generally low, there are higher levels of petty crime, particularly pickpocketing and bag-snatching, in city centres, on public transport and at major tourist attractions. To reduce your risk, ensure that you always keep sight of your personal belongings and avoid carrying valuables together in bags or pockets. You should leave spare cash and valuables in a safe place such as a hotel safe.
 
 ### **Emergency Assistance**
 
