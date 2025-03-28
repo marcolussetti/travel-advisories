@@ -6,15 +6,15 @@
 
 #### Visa requirements
 
-If, despite our advice, you plan to travel to South Sudan, you need to get a visa issued in advance. You won't be allowed to enter the country without one. To get an [Department of e-Visa and Immigration Services.](https://evisa.gov.ss/)
+If, despite our advice, you plan to travel to South Sudan, you need to get a visa issued in advance. You won't be allowed to enter the country without one. Check [Department of e-Visa and Immigration Services](https://evisa.gov.ss/) to get a visa.
 
-Entry and exit conditions can change at short notice. Contact the nearest South Sudanese embassy or consulate for details about visas, currency and customs.
+Entry and exit conditions can change at short notice. Make sure to keep all travel documentation up to date. Contact the nearest [South Sudanese embassy or consulate](https://protocol.dfat.gov.au/Public/Missions/233) for details about visas, currency and customs.
 
 #### Border measures
 
 To enter South Sudan you may be required to show a copy of your COVID-19 vaccination certificate.
 
-The airport at Juba and all land border points can close with little or no warning. Juba Airport is closed after dark.
+The airport at Juba and all land border points can close with little or no warning. Plan sufficient travel time and check your flight status before leaving for the airport. Juba Airport is closed after dark.
 
 Check with your security provider for up-to-date information and security assessments on entry points to South Sudan.
 

@@ -2,7 +2,7 @@
 
 Latest update
 
-The Jubilee, also known as the Holy Year, will take place in Rome from 24 December 2024 to 6 January 2026. Large numbers of visitors are expected and there's likely to be a high demand for accommodation. Traffic disruptions and an increased risk of petty crime could occur. Make early preparations if you're visiting Rome during this time (see 'Travel').
+The new European Entry/Exit System (EES) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area (which Italy is a part of) is expected to start in October 2025 (see 'Travel').
 
 Advice Level summary
 
@@ -48,8 +48,8 @@ Full travel advice:[Local laws](#safety)
 
 ### Travel
 
-* Italy is part of the [Schengen area](https://www.smartraveller.gov.au/before-you-go/the-basics/schengen), meaning you can enter the country without a visa in some cases.
-* The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area has been delayed until 2025. A specific start date hasn't been announced.
+* Italy is part of the [Schengen area](/before-you-go/the-basics/schengen "Visas and entry requirements in Europe and the Schengen Area"), meaning you can enter the country without a visa in some cases.
+* The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area is expected to start in October 2025.
 * The Jubilee, also known as the Holy Year, will take place in Rome from 24 December 2024 to 6 January 2026. A large number of visitors, including Pilgrims, are expected and there's likely to be a high demand for accommodation. Disruptions to traffic routes, an increased risk of petty crime and limited taxi availability due to overcrowding could occur. If you're visiting Rome during this time, plan accordingly and make early preparations. For more information, see the [official Jubilee website](https://www.iubilaeum2025.va/en.html).
 * Temporary border checks have been introduced at Italy's borders with Slovenia. You should allow extra time for crossing the land border between Italy and Slovenia.
 * Entry and exit conditions can change at short notice. Contact the nearest Italian embassy or consulate for the latest details.

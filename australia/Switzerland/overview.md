@@ -45,7 +45,7 @@ Full travel advice: [Local laws](#local-laws)
 ### Travel
 
 * Switzerland is part of the [Schengen area](https://www.smartraveller.gov.au/before-you-go/the-basics/schengen), meaning you can enter Switzerland without a visa in some cases. Australians usually don't need a visa to travel to Switzerland as tourists for less than 3 months.
-* The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area has been delayed until 2025. A specific start date hasn't been announced.
+* The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area is expected to start in October 2025.
 * Entry and exit conditions can change at short notice. You should contact the nearest embassy or consulate of Switzerland for the latest details.
 
 Full travel advice: [Travel](#travel)

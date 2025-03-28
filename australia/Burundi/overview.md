@@ -2,7 +2,7 @@
 
 Latest update
 
-We continue to advise reconsider your need to travel to Burundi. Higher levels apply in some areas. There's currently an Mpox outbreak in parts of Africa, including in Burundi.  
+We've reviewed our advice and continue to advise reconsider your need to travel to Burundi overall. Higher levels apply in some areas. There's currently an Mpox outbreak in parts of Africa, including in Burundi.  
   
 The land border with Rwanda is currently closed. We advise do not travel to Kibira National Park and areas of Bujumbura Rural province west of the Rusizi river. All passengers entering or leaving Burundi via Bujumbura Airport must now register online before travelling.
 
@@ -34,10 +34,11 @@ See [Safety](#Safety)
 
 ### Safety
 
-* Flash flooding and mudslides are common from February to mid-May. Earthquakes occur.
+* The security situation over the border in eastern Democratic Republic of Congo remains volatile, with the presence of troops and armed groups possible on both sides of the border.
 * The security situation is unstable. Violent attacks on individuals are common. Get expert security advice.
 * Terrorism is a significant threat. Arrange personal security measures and be alert to threats.
-* Violent crime is widespread and often involves weapons. Foreigners can be a target of [kidnapping](/before-you-go/safety/kidnapping "Reducing the risk of kidnapping"). Be alert to carjacking and other threats. Don't travel after dark.
+* Violent crime is widespread and often involves weapons. Foreigners can be a target of [kidnapping](https://www.smartraveller.gov.au/before-you-go/safety/kidnapping). Be alert to carjacking and other threats. Avoid travelling after dark and take extra precautions if needing to travel during this time.
+* Flash flooding and mudslides are common from February to mid-May. Earthquakes occur.
 
 Full travel advice: [Safety](#safety)
 
@@ -47,7 +48,7 @@ Full travel advice: [Safety](#safety)
 * HIV/AIDS is widespread. Take precautions to reduce your risk of infection.
 * There's currently an outbreak of Mpox (formerly known as monkeypox) in parts of Africa. Maintain strict hygiene standards and avoid physical contact with anyone who has Mpox (see 'Health risks').
 * Outbreaks of cholera and malaria occurred have occurred in the past few years. Waterborne, foodborne and other infectious diseases are common. Use insect repellent. Only drink boiled or bottled water.
-* Health facilities are limited. If you're ill or injured, you'll need to be evacuated. Make sure your insurance covers this.
+* Health facilities are limited. If you're ill or injured, you'll need to be evacuated. Make sure your insurance covers medical evacuation.
 
 Full travel advice: [Health](#health)
 
@@ -62,10 +63,10 @@ Full travel advice: [Local laws](#local-laws)
 ### Travel
 
 * You need a visa to enter Burundi. This can be done before travel at any Burundian diplomatic mission. You can also obtain business or tourist visas on arrival at Bujumbura airport and any land or maritime entry points. Entry and exit conditions can change at short notice. You should contact the nearest Embassy of Burundi.
-* All passengers entering or leaving Burundi via Bujumbura Airport must [register online](https://migration.gov.bi/Form_Entry_Exit_Code) using the [incoming/outgoing passenger form](https://migration.gov.bi/Form_Entry_Exit_Code)before travelling.
-* Border closures can occur without notice. The Burundi land border with Rwanda closed on 11 January.
+* All passengers entering or leaving Burundi via Bujumbura Airport must register online using the [incoming/outgoing passenger form](https://migration.gov.bi/Form_Entry_Exit_Code)before travelling.
+* Borders can close without notice. Burundi's land border with Rwanda closed on 11 January 2024.
 * Landmines have exploded in areas popular with travellers.
-* Road travel is dangerous. Traffic accidents and crime are common. Check local security and road conditions. Get security advice from an expert.
+* Road travel is dangerous. Traffic accidents and crime are common. Check local security and road conditions. Get professional security advice.
 
 Full travel advice: [Travel](#travel)
 

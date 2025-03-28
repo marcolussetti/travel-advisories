@@ -54,7 +54,7 @@ Full travel advice: [Local laws](#local-laws)
 
 * You don't need a visa if you're a tourist staying for less than 90 days or transiting through Romania. For other types of travel, you'll need a visa.
 * Romania partially joined the [Schengen area](/before-you-go/the-basics/schengen "Visas and entry requirements in Europe and the Schengen Area") on 31 March. Border checks will cease between Romania and other Schengen countries for air or sea travel. Checks continue to be undertaken at land borders between Romania and other Schengen countries.
-* The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area has been delayed until 2025. A specific start date hasn't been announced.
+* The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area is expected to start in October 2025. A specific start date hasn't been announced.
 * Entry and exit conditions can change at short notice. Contact an [Embassy or Consulate of Romania](https://canberra.mae.ro/en) for details about visas, customs and quarantine rules.
 
 Full travel advice: [Travel](#travel)

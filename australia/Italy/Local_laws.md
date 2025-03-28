@@ -4,7 +4,7 @@
 
 You're subject to local laws and penalties, including those that appear harsh by Australian standards. Research local laws before travelling, especially for an extended stay.
 
-If you're arrested or jailed, the Australian Government will do what it can to help you under our [Consular Services Charter](https://www.smartraveller.gov.au/consular-services/consular-services-charter). But we can't get you out of trouble or out of jail.
+If you're arrested or jailed, the Australian Government will do what it can to help you under our [Consular Services Charter](/consular-services/consular-services-charter "Consular Services Charter"). But we can't get you out of trouble or out of jail.
 
 #### De facto relationships
 
@@ -39,7 +39,7 @@ Police have arrested Australians for disturbing the peace under these laws.
 It's illegal to:
 
 * block the pedestrian flow in public spaces
-* drive without headlights on main roads outside urban areas or on highways - see [Local travel](https://www.smartraveller.gov.au/destinations/europe/italy?#travel)
+* drive without headlights on main roads outside urban areas or on highways (see 'Local travel')
 * buy fake brands and products from illegal street vendors
 * litter
 

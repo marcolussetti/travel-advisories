@@ -16,15 +16,19 @@ Temporary border checks have been introduced at Italy's borders with [Slovenia](
 
 #### European Entry/Exit System (EES)
 
-The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area has been delayed until later in 2025. A specific start date hasn't been announced.
+The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area is expected to start in October 2025. 
 
-The EES is a digital border system that registers non-EU visitors travelling into the Schengen Area. When entering the Schengen Area, you'll need to have your fingerprints and photo taken. This creates a digital record that registers your biometric details. Passports will no longer be stamped.
+The EES is a digital border system that registers non-EU visitors travelling into the Schengen Area. When entering the Schengen Area, you'll need to have your fingerprints and photo taken. This creates a digital record that registers your biometric details. 
 
 You'll need to do this on your first visit to the EU after the EES is introduced.​ If you visit the Schengen Area again within 3 years of creating your digital record, you'll only need to provide either your fingerprint or photograph at the border on entry and exit.
 
 This process should only take a few minutes per person, however you may experience longer queues at borders when the new system starts.
 
 Entry and exit conditions can change at short notice. Contact the [nearest Italian embassy or consulate](https://protocol.dfat.gov.au/Public/Missions/97) for details about visas, currency, customs and quarantine rules.
+
+**More information:**
+
+* [Visas and entry requirements in Europe](https://www.smartraveller.gov.au/before-you-go/the-basics/schengen)
 
 #### Passport
 
@@ -90,7 +94,7 @@ For more information, visit the [official Jubilee website](https://www.iubilaeum
 
 Several cities in Italy impose a 'tourist tax' per person for each night of stay. You pay this directly to your accommodation provider, and it's often requested as a cash payment.
 
-You may also need to pay an access fee to visit Venice on a day trip from 25 April onwards.
+You may also need to pay an access fee to visit Venice on a day trip between 18 April – 27 July.
 
 **More information:**
 
@@ -165,7 +169,7 @@ Unauthorised taxis don't carry meters and overcharge.
 
 #### Public transport
 
-There are frequent strikes that cause delays and cancellations to public transport services (see [Safety)](https://www.smartraveller.gov.au/destinations/europe/italy?#safety)
+There are frequent strikes that cause delays and cancellations to public transport services (see 'Safety')
 
 Pre-paid tickets are available from tobacconists or coffee shops that display the public transport company's logo/name. They are also sometimes available for purchase through a smartphone app.
 
@@ -192,4 +196,4 @@ Check [Italy's air safety profile](http://aviation-safety.net/database/country/
 
 **More information:**
 
-* [Air travel](https://www.smartraveller.gov.au/before-you-go/getting-around/air-travel)
+* [Air travel](/before-you-go/getting-around/air-travel "Travelling by air")

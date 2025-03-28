@@ -2,7 +2,7 @@
 
 #### Civil unrest and political tension
 
-There are ongoing political tensions in Burundi that can cause sporadic violence. Outbreaks of violence have been reported during elections.
+There are ongoing political tensions in Burundi that can cause sporadic violence. Outbreaks of violence have also been reported during elections.
 
 Public protests and events that draw large groups of people can turn violent. Violent attacks are common. You should avoid all large gatherings and remain vigilant. Follow the advice of local authorities.
 
@@ -10,7 +10,7 @@ Clashes between police and the public are common in Bujumbura and other parts of
 
 If you travel to Burundi:
 
-* get expert security advice
+* get professional security advice
 * use the right personal security measures for the situation
 * avoid protests and other public gatherings and remain vigilant
 * monitor the media for possible unrest
@@ -22,9 +22,15 @@ If you travel to Burundi:
 
 #### Border areas
 
-We advise do not to travel to Cibitoke and Bubanza provinces, Kibira National Park and areas of Bujumbura Rural province west of the Rusizi river. The security situation can change at any time in these regions, and there's an ongoing risk of cross-border attacks by armed militias from the Kivu provinces in the Democratic Republic of the Congo (DRC).
+The security situation near the border with Burundi is volatile and there's a risk of cross-border attacks. Increased fighting in the Democratic Republic of Congo (DRC) may affect people on the Burundian side of the border. This includes from potential nearby fighting and movement of military and refugees. Keep up to date with developments through local media.
 
-Don't cross the border into the DRC. We advise do not travel to the DRC. If, despite our advice, you travel to the DRC, review the travel advice for the [DRC](https://www.smartraveller.gov.au/destinations/africa/democratic-republic-congo).
+We advise do not to travel to Cibitoke and Bubanza provinces, Kibira National Park and areas of Bujumbura Rural province west of the Rusizi river.
+
+Don't cross the border into the DRC. We advise do not travel to the DRC. 
+
+**More information:**
+
+* [Travel advice for DRC](https://www.smartraveller.gov.au/destinations/africa/democratic-republic-congo) (Smartraveller)
 
 #### Terrorism
 
@@ -87,15 +93,21 @@ If despite the risks, you travel to Burundi:
 * don't travel after dark
 * adopt personal security measures
 
-#### Kidnapping
-
-Foreigners can be a target of [kidnapping](/before-you-go/safety/kidnapping "Reducing the risk of kidnapping").
-
-The Australian Government's longstanding policy is that it doesn't make payments or concessions to kidnappers.
+Drink spiking can happen anywhere. Be alert to the potential risks, and don't leave food or drinks unattended. Pay attention when your drinks are being mixed. Stick to reputable venues and avoid homemade alcoholic drinks due to the risk of methanol poisoning. Get urgent medical help if you suspect you’ve been a victim.
 
 **More information:**
 
-* [Kidnapping](/before-you-go/safety/kidnapping "Reducing the risk of kidnapping")
+* [Partying safely while overseas](https://www.smartraveller.gov.au/before-you-go/safety/partying)
+
+#### Kidnapping
+
+Kidnapping can happen anywhere, anytime, including in destinations that are typically at lower risk.
+
+The Australian Government's longstanding policy is that it doesn't make payments or concessions to kidnappers.
+
+More information, including advice on reducing your risk of being kidnapped:
+
+* [Kidnapping](https://www.smartraveller.gov.au/before-you-go/safety/kidnapping)
 
 #### Cyber security
 
@@ -126,7 +138,13 @@ Check the [Global Disaster Alert and Coordination System](http://gdacs.org/) f
 
 #### Flooding
 
-Flash flooding and mudslides are common in the rainy season from February to mid-May. Roads may be blocked during this time.
+The rainy season begins in February and continues to mid-May. During the rainy season, heavy downpours are common and can result in flash floods. Infrastructure and transportation routes may be damaged, and secondary roads may become impassable.
+
+To reduce your risks:
+
+* Keep informed of regional weather forecast
+* Avoid the affected areas
+* Follow the instructions of local authorities
 
 #### Earthquakes
 

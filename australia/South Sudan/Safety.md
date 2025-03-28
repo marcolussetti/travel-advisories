@@ -14,6 +14,8 @@ We continue to advise do not travel to South Sudan. If you travel to South Sudan
 * keep in contact with friends and family
 * ensure you keep supplies of any medication you require, as well as food and water.
 
+Since March 2025, there has been armed fighting between rival factions, including air strikes in some parts of South Sudan, resulting in casualties. Due to continuing tensions in the country, there is a heightened military presence in Juba and some parts of the country. Political tensions remain high, and the security situation could deteriorate quickly. 
+
 Lack of law and order across the country is a serious threat, the security situation is volatile and could deteriorate with little warning, including in Juba. Thousands of people have been killed in South Sudan since violence began in December 2013. Intercommunal violence and fighting between armed groups continue across the country. Border areas are especially dangerous.
 
 There's a serious risk of attacks on civilians. National or international events could prompt attacks on foreigners. Due to the extremely volatile security environment, South Sudan remains a dangerous operating environment for aid workers.
@@ -24,19 +26,23 @@ With little warning, local authorities can impose:
 * roadblocks
 * other security measures
 
-Juba airport may close or be inaccessible, flights could be suspended and routes in and out of the country may be closed with little notice. The main road connecting Juba to Uganda is highly dangerous.
-
-South Sudan is currently experiencing an influx of people fleeing conflict in neighbouring Sudan. This may contribute to further instability.
+Juba airport may close or be inaccessible, flights could be suspended and routes in and out of the country may be closed with little or no warning. The main road connecting Juba to Uganda is highly dangerous.
 
 #### Demonstrations and protests
 
 Public protests and events that draw large groups of people can turn violent.
 
-To protect yourself during periods of unrest:
+To reduce your risks of being affected by demonstrations and protests, you should:
 
-* avoid demonstrations, protests and other public gatherings
-* monitor the media for safety and security risks
-* monitor political events that may inflame existing tensions
+* avoid large crowds
+* be aware of your surroundings
+* maintain a low profile and do not record or photograph gatherings
+* follow the advice of local authorities
+* carry certified copies of identification keep original documents in a secure location
+* consider your personal security
+* keep your cell phone charged
+* monitor local media for safety and security risks and adjust your travel plans accordingly
+* have a prepared plan for emergencies, including ensuring you have sufficient supplies of cash, water, food, medicines and fuel, as ongoing strikes may lead to supply shortages.
 
 If civil unrest or conflict happens, shelter indoors and stay off the streets.
 
@@ -48,7 +54,7 @@ If civil unrest or conflict happens, shelter indoors and stay off the streets.
 
 Attacks could occur anywhere at any time.
 
-Security at official facilities is high. Terrorists may look for easier targets, such as housing compounds.
+Security presence at official facilities is high. Terrorists may look for easier targets, such as housing compounds.
 
 Terrorists may target places popular with travellers, including tourist areas, hotels, clubs, restaurants and bars. Airports, bus stations and other transport hubs are also possible targets.
 
@@ -95,6 +101,12 @@ Gun crime happens frequently and may include:
 * attacks on hotels and restaurants
 * attacks on other places foreigners go
 
+Drink spiking can happen anywhere. Be alert to the potential risks, and don't leave food or drinks unattended. Pay attention when your drinks are being mixed. Stick to reputable venues and avoid homemade alcoholic drinks due to the risk of methanol poisoning. Get urgent medical help if you suspect you’ve been a victim.
+
+**More information:**
+
+* [Partying safely while overseas](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.smartraveller.gov.au%2Fbefore-you-go%2Fsafety%2Fpartying&data=05%7C02%7CMichelle.Lam%40dfat.gov.au%7Cbd0cd565db744527188508dd41a4930d%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638738897282360647%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=8hzP1P0iV92Jm88KsRyu4DlEadlSJN77OY%2FyBZsYuRk%3D&reserved=0)
+
 #### Petty crime
 
 Petty crime is common and can include:
@@ -131,28 +143,47 @@ Social media can also be risky in destinations where there are social or politic
 
 #### Kidnapping
 
-Kidnapping occurs across the world with political, ideological, and criminal motives. Foreigners, including Australians, have been kidnapped overseas whilst travelling. Kidnaps can happen anywhere, anytime, including in destinations that are typically at lower risk.
+Kidnapping occurs across the world with political, ideological, and criminal motives. Foreigners, including Australians, have been kidnapped overseas whilst travelling. Kidnaps can happen anywhere, anytime, including destinations that are typically at lower risk.   
+   
+Violent crime is widespread in South Sudan and kidnappings are common. Kidnappers mainly target journalists, aid workers and foreign nationals associated with infrastructure in remote and contested areas. The risk is elevated in proximity to the borders of Chad, Sudan and the DRC.    
+   
+If despite our advice, you travel to an area with a high risk of kidnapping our ability to provide consular assistance in these destinations is limited.    
+   
+You are responsible for your own safety. To reduce the risk of kidnapping:
 
-Violent crime is widespread in South Sudan and kidnappings are common. Kidnappers mainly target workers in the oil and aid sectors working in remote and contested areas.
+* always be alert to your personal security and surroundings - avoid distractions. Be prepared to stop or take evasive action if you sense danger
 
-If, despite our advice, you travel to an area with a high risk of kidnapping, our ability to provide consular assistance in these destinations will be limited.
+* get professional security advice for travel in locations with a heightened kidnap risk. It is essential to have a contingency plan
 
-To reduce the risk of kidnapping:
-
-* always be alert to your personal security and surroundings
-* get professional security advice for travel in locations with a heightened kidnap risk
 * check your accommodation has appropriate security measures
-* avoid isolated locations, particularly when travelling alone
-* notify family or friends of planned travel and share your location
+
+* vary your movements so you don't set predictable patterns
+
+* keep a low profile – including online. Drawing attention to yourself in high-risk areas may signal to criminals that you have something worth taking
+
+* avoid isolated locations, particularly when travelling alone. There is safety in numbers, and you should try to travel with someone else, especially at night
+
+* notify family or friends of planned travel; share your location and emergency contacts that they can rely on if something happens
+
 * avoid talking about your money or business affairs
+
 * use ATMs in public places and during daylight hours
-* avoid giving personal details to strangers online or over the phone
 
-The Australian Government's longstanding policy is that it doesn't make payments or concessions to kidnappers. Ransom payments to kidnappers have funded further terrorist attacks and criminal activity. Paying a ransom to terrorist groups will likely break Australian counter-terrorism financing laws.
+* avoid giving personal details to strangers online or over the phone. Criminals have been known to search social media for victims
 
+* If you are confronted by armed criminals, it is best to surrender and cooperate – resistance tends to make the situation worse
+
+You can find more information on how to reduce your risk of kidnapping here: [Kidnapping](https://www.smartraveller.gov.au/before-you-go/safety/kidnapping).
+
+The Australian Government's longstanding policy is that it doesn't make payments or concessions to kidnappers. Ransom payments to kidnappers have funded further terrorist attacks and criminal activity. Ransom payments to terrorist groups are likely to contravene Australian counter-terrorism financing laws.    
+   
 **More information:**
 
-* [Kidnapping](/before-you-go/safety/kidnapping "Reducing the risk of kidnapping")
+* [Kidnapping](https://www.smartraveller.gov.au/before-you-go/safety/kidnapping)
+
+* [Scams that affect travellers](https://www.smartraveller.gov.au/before-you-go/safety/scams)
+
+* [Reducing the risk of piracy](https://www.smartraveller.gov.au/before-you-go/safety/piracy)
 
 #### Climate and natural disasters
 

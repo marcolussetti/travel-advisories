@@ -48,7 +48,7 @@ Full travel advice: [Local laws](#local-laws)
 
 * From 9 December 2024, the Netherlands has temporary border checks along its land borders with [Belgium](/destinations/europe/belgium "Belgium") and [Germany](/destinations/europe/germany "Germany") for 6 months.
 * The Netherlands is part of the [Schengen area](/before-you-go/the-basics/schengen "Visas and entry requirements in Europe and the Schengen Area"), meaning you can enter without a visa in some cases. In other situations, you’ll need to get a visa.
-* The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area has been delayed until 2025. A specific start date hasn't been announced.
+* The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area is expected to start in October 2025.
 * Entry and exit conditions can change at short notice. Contact the nearest embassy or consulate of the Netherlands for the latest details.
 
 Full travel advice: [Travel](#travel)

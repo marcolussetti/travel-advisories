@@ -78,7 +78,7 @@ See a doctor if you feel unwell and isolate from others if you develop any Mpox 
 
 #### Insect-borne diseases
 
-[Yellow fever](http://www.health.gov.au/yellowfever) is common in Burundi. Yellow fever is a potentially fatal virus spread by mosquitoes. It's prevented by vaccination. Get vaccinated before you travel.
+[Yellow fever](http://www.health.gov.au/yellowfever) is common in Burundi. Yellow fever is a potentially fatal virus spread by mosquitoes. It's prevented by vaccination. You need a valid yellow fever vaccination certificate to enter Burundi. Get vaccinated before you travel.
 
 [Malaria](https://www.who.int/news-room/fact-sheets/detail/malaria) occurs widely, at all times of year.
 
@@ -87,6 +87,9 @@ Other diseases spread by insects can occur. This includes:
 * [filariasis](https://www.who.int/news-room/fact-sheets/detail/lymphatic-filariasis)
 * [plague](https://www.who.int/news-room/fact-sheets/detail/plague)
 * [African sleeping sickness](https://www.who.int/news-room/fact-sheets/detail/trypanosomiasis-human-african-(sleeping-sickness))
+* [chikungunya](https://www.who.int/news-room/fact-sheets/detail/Chikungunya)
+* [dengue virus infection](https://www.health.gov.au/diseases/dengue-virus-infection)
+* [zika virus](https://www.healthdirect.gov.au/zika-virus)
 
 To protect yourself from disease:
 
@@ -127,4 +130,4 @@ Get medical advice if you have a fever or diarrhoea.
 
 Health facilities are basic and limited.
 
-If you are ill or injured, you'll need to be evacuated to Nairobi, Kenya or another place with better facilities. Medical evacuation can be very expensive.
+If you are ill or injured, you'll need to be evacuated to Nairobi, Kenya or another place with better facilities. Medical evacuation can be very expensive. Check that your travel insurance covers medical evacuations.

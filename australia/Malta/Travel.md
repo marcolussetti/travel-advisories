@@ -21,9 +21,9 @@ Review [entry requirements to the EU and Schengen Area](https://reopen.europa.e
 
 #### European Entry/Exit System (EES)
 
-The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area has been delayed until later in 2025. A specific start date hasn't been announced.
+The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area is expected to start in October 2025. 
 
-The EES is a digital border system that registers non-EU visitors travelling into the Schengen Area. When entering the Schengen Area, you'll need to have your fingerprints and photo taken. This creates a digital record that registers your biometric details. Passports will no longer be stamped.
+The EES is a digital border system that registers non-EU visitors travelling into the Schengen Area. When entering the Schengen Area, you'll need to have your fingerprints and photo taken. This creates a digital record that registers your biometric details.
 
 You'll need to do this on your first visit to the EU after the EES is introduced.​ If you visit the Schengen Area again within 3 years of creating your digital record, you'll only need to provide either your fingerprint or photograph at the border on entry and exit.
 

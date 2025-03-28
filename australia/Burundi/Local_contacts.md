@@ -35,7 +35,7 @@ For consular help, contact either:
 * Australian High Commission in Nairobi
 * Belgian Embassy in Bujumbura
 
-The Belgian Embassy can give you consular help in an emergency. It can't issue Australian passports.
+The Belgian Embassy can give you consular help in an emergency. It can't issue Australian passports. You’ll need to register with them by emailing on [bujumbura@diplobel.fed.be](mailto:bujumbura@diplobel.fed.be)
 
 #### Australian High Commission, Nairobi
 

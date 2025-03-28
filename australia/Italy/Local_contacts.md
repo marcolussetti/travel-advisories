@@ -50,7 +50,7 @@ Website: [italy.embassy.gov.au](http://www.italy.embassy.gov.au/rome/home.html)
 
 Facebook: [Australian Embassy, Italy](https://www.facebook.com/AusEmbIT/) 
 
-X: [@AusAmbRome](https://twitter.com/AusAmbRome)
+X: [@AusAmbItaly](https://x.com/AusAmbItaly)
 
 #### Australian Consulate-General Milan
 

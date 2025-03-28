@@ -107,12 +107,17 @@ In areas where Monkeypox occurs, avoid:
 
 If you're a victim of rape or violent crime, seek immediate medical assistance outside of South Sudan.
 
+#### Cholera
+
+South Sudan is currently experiencing a Cholera outbreak with large number of cases across the country.
+
+To reduce your risk of exposure to the virus, travellers should practice safe food and water precautions. Drink only boiled or bottled water. Avoid raw or undercooked food. Don't swim in fresh water.
+
 #### Other health risks
 
 Waterborne, foodborne, parasitic and other infectious diseases are common. These include:
 
 * [typhoid](https://www.who.int/immunization/diseases/typhoid/en/)
-* [cholera](https://www.who.int/news-room/fact-sheets/detail/cholera)
 * [hepatitis](https://www.who.int/hepatitis/en/)
 * [tuberculosis](https://www.who.int/news-room/fact-sheets/detail/tuberculosis)
 * [meningococcal disease](https://www.who.int/news-room/fact-sheets/detail/meningococcal-meningitis)
@@ -121,7 +126,7 @@ Waterborne, foodborne, parasitic and other infectious diseases are common. These
 * [shigella](https://www.cdc.gov/shigella/index.html)
 * [COVID-19](https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert?utm_source=health.gov.au&utm_medium=redirect&utm_campaign=digital_transformation&utm_content=health-topics/novel-coronavirus-2019-ncov)
 
-Serious outbreaks sometimes occur. Outbreaks of cholera in Juba and other locations have occurred.
+Serious outbreaks sometimes occur.
 
 To protect yourself from illness:
 

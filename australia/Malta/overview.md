@@ -46,7 +46,7 @@ Full travel advice: [Local laws](#local-laws)
 ### Travel
 
 * Malta is a part of the [Schengen area](https://www.smartraveller.gov.au/before-you-go/the-basics/schengen), meaning you can enter Malta without a visa in some circumstances.
-* The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area has been delayed until 2025. A specific start date hasn't been announced.
+* The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area is expected to start in October 2025.
 * Entry and exit conditions can change at short notice. Contact the [High Commission of Malta](https://protocol.dfat.gov.au/Public/Missions/124) for details about visas, currency, and customs.
 
 Full travel advice: [Travel](#travel)

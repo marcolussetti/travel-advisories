@@ -2,8 +2,6 @@
 
 #### Crime
 
-#### Petty crime
-
 Petty crime is common, particularly in the summer and autumn tourist seasons. It includes bag snatching, pick-pocketing, passport theft and theft from cars.
 
 Thieves are most active:
@@ -72,7 +70,10 @@ To protect yourself from drink spiking:
 
 * never accept drinks from strangers
 * don't leave food or drinks unattended
+* Pay attention when your drinks are being mixed.
 * stick with people you trust in bars and nightclubs
+
+Be alert to the potential risks. Stick to reputable venues and avoid homemade alcoholic drinks due to the risk of methanol poisoning. Get urgent medical help if you suspect you’ve been a victim.
 
 **More information:**
 
@@ -227,7 +228,7 @@ If there's been seismic activity in the area you're in or going to, check with y
 
 #### Volcanoes
 
-Italy has active [volcanoes](https://www.smartraveller.gov.au/before-you-go/safety/natural-disasters). These include:
+Italy has active [volcanoes](/before-you-go/safety/natural-disasters "Staying safe when there's a natural disaster"). These include:
 
 * Mount Etna in Sicily
 * Mount Stromboli and Mount Vulcano in the Aeolian Islands chain north of Sicily

@@ -6,7 +6,7 @@
 
 #### Visas
 
-You must get a visa to enter Burundi. This can be done before travel via any Burundian diplomatic mission. Visitors can also obtain business or tourist visas on arrival at Bujumbura airport and any land or maritime entry points. You can get a 30-day visa upon arrival at the Bujumbura Airport with a payment of USD90 for multiple entries and USD70 for a single entry.
+You must get a visa to enter Burundi. This can be done before travel via any Burundian diplomatic mission. Visitors can also obtain business or tourist visas on arrival at Bujumbura airport and any land or maritime entry points. You can get a 30-day single or multiple entry visa upon arrival at the Bujumbura Airport for a fee.
 
 Visas can be renewed if you're already in Burundi.
 
@@ -16,7 +16,7 @@ Burundi doesn't have diplomatic representation in Australia. The nearest embassy
 
 #### Registration
 
-All passengers entering or leaving Burundi via Bujumbura Airport must [register online](https://migration.gov.bi/Form_Entry_Exit_Code) using the [incoming/outgoing passenger form](https://migration.gov.bi/Form_Entry_Exit_Code)before travelling.
+All passengers entering or leaving Burundi via Bujumbura Airport must register online using the [incoming/outgoing passenger form](https://migration.gov.bi/Form_Entry_Exit_Code)before travelling.
 
 #### Border measures
 
@@ -26,11 +26,11 @@ Border closures can occur without notice. The land border with Rwanda has been c
 
 You need a valid yellow fever vaccination certificate to enter Burundi. Some airlines may want to see one when you leave.
 
-Find out about returning to Australia [after exposure to yellow fever](http://www.health.gov.au/yellowfever).
+Find out about returning to Australia [after exposure to yellow fever](https://www.health.gov.au/diseases/yellow-fever?utm_source=health.gov.au&utm_medium=redirect&utm_campaign=digital_transformation&utm_content=yellowfever#travel-information-and-australian-entry-requirements).
 
 **More information:**
 
-* [Countries with a risk of yellow fever (PDF 252KB)](https://www.who.int/publications/m/item/countries-with-risk-of-yellow-fever-transmission-and-countries-requiring-yellow-fever-vaccination-(november-2022)) (World Health Organisation)
+* [Countries with a risk of yellow fever (PDF 252KB)](https://cdn.who.int/media/docs/default-source/travel-and-health/countries-with-risk-of-yellow-fever-transmission.pdf?sfvrsn=bf42ac59_4&download=true) (World Health Organisation)
 
 #### Passport
 
@@ -65,7 +65,7 @@ Although Australian passports comply with international standards for sex and ge
 
 #### Money
 
-The local currency is the Burundian Franc (BIF). You'll need approval to take more than BIF2000 out of the country.
+The local currency is the Burundian Franc (BIF). You’ll need approval to take more than BIF 200,000 out of the country.
 
 Some businesses may accept US dollars or euros.
 
@@ -118,6 +118,18 @@ Have a contingency plan in case you can't travel by road.
 Border closures can occur without notice. The Burundi land border with Rwanda is currently closed.
 
 There have been armed incursions from the Democratic Republic of Congo (DRC) into neighbouring border areas of Burundi, including Cibitoke and Bubanza provinces.
+
+#### Power outages
+
+Power cuts occur regularly, especially outside the capital. Power cuts can also affect water availability, internet connectivity, mobile phone network coverage, fuel availability, residential security features and food supply. 
+
+Be prepared for issues that may arise from power cuts: 
+
+* have a communications plan for when there is no or limited power (landline locations, external mobile phone battery/power banks, additional charging cords, hard copies of important numbers)
+* maintain several days’ worth of non-perishable food, drinking water, and other essential items, including medicine and first aid supplies
+* store torches, batteries, radios and basic tools in quick-access locations
+* identify safe areas around the city, including hotels, hospitals or police stations that may not lose power
+* monitor local media and follow the instructions of local authorities
 
 #### Public transport
 
