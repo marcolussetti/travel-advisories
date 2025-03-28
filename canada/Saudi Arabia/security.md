@@ -87,16 +87,13 @@ Demonstrations are illegal in Saudi Arabia. They occur predominantly in Shia com
 
 ### Hajj
 
-The next Hajj pilgrimage to Mecca is expected to take place from June 14 to 19, 2024. Traffic in Mecca peaks during Eid al-Adha.
+The next Hajj pilgrimage to Mecca is expected to take place from June 4 to 9, 2025.Traffic in Mecca peaks during Eid al-Adha.
 
 #### Religious sites during Hajj
 
 There are safety risks at religious sites due to overcrowding. Pilgrims have been killed or injured in stampedes. The sites are far from the Canadian embassy. Contact your travel agent for information on available services and support.
 
-#### Useful links
-
-* [Information on entry requirements during the pilgrimage](https://travel.gc.ca/destinations/saudi-arabia?_ga=2.187610600.1712953064.1710160261-33860031.1709822302#entryexit)
-* [Hajj 2024](https://travel.gc.ca/travelling/health-safety/travel-health-notices/532?_ga=2.29029051.627123274.1711378505-33860031.1709822302)
+[Information on entry requirements during the pilgrimage](https://travel.gc.ca/destinations/saudi-arabia?_ga=2.187610600.1712953064.1710160261-33860031.1709822302#entryexit)
 
 ### Crime
 
