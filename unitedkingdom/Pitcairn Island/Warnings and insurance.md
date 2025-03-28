@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   28 March 2025
 
 Updated:
-:   26 February 2024
+:   27 March 2025
 
 Latest update:
-:   This travel advice has been rewritten to make it easier to read and understand.
+:   This travel advice was reviewed for accuracy and reissued without any significant updates.
 
 Pitcairn Island is a British Overseas Territory, so there is no British Embassy, and the Pitcairn Island government will support you if you need help.
 
@@ -33,7 +33,7 @@ The Foreign, Commonwealth & Development Office (FCDO) provides advice about risk
 
 Sign up to [get email notifications](https://www.gov.uk/foreign-travel-advice/pitcairn-island/email-signup) when this travel advice is updated.
 
-Follow and contact FCDO:
+Follow FCDO:
 
 * [travel advice on X](https://x.com/fcdotravelgovuk)
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)

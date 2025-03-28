@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   28 March 2025
 
 Updated:
-:   17 March 2025
+:   27 March 2025
 
 Latest update:
-:   Update to information on expected rollout of the EU Entry/Exit System (EES) (‘Entry requirements’ page).
+:   Updated information about Pride (See 'LGBT+ travellers' on the 'Safety and security' page).
 
 ## Before you travel
 

@@ -6,7 +6,7 @@ Pitcairn Island is a British Overseas Territory, so there is no British Embassy,
 
 ## Emergency services on Pitcairn Island
 
-There are no emergency services on Pitcairn Island.
+There is a Pitcairn police officer, but there are no other emergency services on Pitcairn Island.
 
 If you spot a fire, tell the nearest islander who will use VHF radio to raise the alarm. Follow islanders’ instructions if there is a fire.
 
@@ -25,7 +25,7 @@ Find out more about [changing or cancelling travel plans](https://www.gov.uk/gui
 
 ## Support from the Pitcairn Islands government
 
-If you’re on Pitcairn Island and you need emergency help, [email the island Administrator](https://www.government.pn/contact) or phone 0131.
+If you’re on Pitcairn Island and you need emergency help, ask your host or an islander to put a call out on VHF radio or contact the Police Officer on telephone 984 0141 or Administrator on 984 0131.
 
 [Previous
 :

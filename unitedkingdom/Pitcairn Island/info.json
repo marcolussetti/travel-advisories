@@ -1,11 +1,11 @@
 {
     "name": "Pitcairn Island",
-    "update_reason": "This travel advice has been rewritten to make it easier to read and understand.",
+    "update_reason": "This travel advice was reviewed for accuracy and reissued without any significant updates.",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Pitcairn Island/Warnings and insurance.md",
-            "update_date": "2024-02-26T13:16:22+00:00"
+            "update_date": "2025-03-27T16:14:53+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Pitcairn Island/Getting help.md"
         }
     ],
-    "update_date": "2024-02-26T13:16:22+00:00"
+    "update_date": "2025-03-27T16:14:53+00:00"
 }

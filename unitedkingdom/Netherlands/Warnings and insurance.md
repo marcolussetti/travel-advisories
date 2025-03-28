@@ -1,15 +1,19 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   28 March 2025
 
 Updated:
-:   17 March 2025
+:   27 March 2025
 
 Latest update:
-:   Update to information on expected rollout of the EU Entry/Exit System (EES) (‘Entry requirements’ page).
+:   Information on a stabbing incident in central Amsterdam. If you’re in the immediate area follow the advice of the local authorities and monitor local media ('Warnings and insurance' page).
 
 Check [separate travel advice pages](/foreign-travel-advice) for advice on travel to the constituent countries and special municipalities in the Dutch Caribbean.
+
+## Stabbing incident in Amsterdam
+
+There has been a stabbing incident in Amsterdam central Dam Square. If you’re in the immediate area follow the advice of the local authorities and monitor local media.
 
 ## Before you travel
 

@@ -1,38 +1,106 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   28 March 2025
 
 Updated:
-:   9 December 2024
+:   27 March 2025
 
 Latest update:
-:   Updated information about the security situation in Lebanon following the ceasefire agreement between Israel and Lebanese Hizballah (‘Warnings and insurance’ page).
+:   FCDO no longer advises against all travel to the whole of Lebanon. FCDO continues to advise against all travel or all but essential travel to some areas of Lebanon ('Warnings and insurance' and 'Regional risks' pages).
 
-![](https://assets.publishing.service.gov.uk/media/65a64ca7867cd8000d5ae916/FCDO__TA__023_-_Lebanon_Travel_Advice_Ed9__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/67e532fa87cebda7c4ca4c52/FCDO__TA__023_-_Lebanon_Travel_Advice_Ed12__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/65a64ca7640602000d3cb6f9/FCDO__TA__023_-_Lebanon_Travel_Advice_Ed9.pdf)
+[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/67e532fa87cebda7c4ca4c53/FCDO__TA__023_-_Lebanon_Travel_Advice_Ed12.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO). Consular support is also severely limited where FCDO advises against travel.
 
 ## Areas where FCDO advises against travel
 
-FCDO continues to advise against all travel to Lebanon. If you are in Lebanon, we encourage you to leave by commercial means.
+### Areas in Beirut and Mount Lebanon Governorate
+
+FCDO advises against all travel to the following neighbourhoods, excluding Route 51 from central Beirut to the airport:
+
+* Tariq el Jdideh
+* Bir Hassan (excluding the Rafiq Hariri hospital and the Ministry of Public Health)
+* Ghobeiry
+* Chiayah (south of the Rizkallah Semaan road and west of (but not including) the Old Saida road)
+* Haret Hraik
+* Burj Al Barajneh
+* Mraije
+* Laylake
+
+FCDO advises against all but essential travel to:
+
+The area of Mount Lebanon Governorate south of (but not including) the road from Khiam El Damour in the west (and extending to the Mediterranean Sea), through Mghayreh, Kfar Him, Deir El Qamar, Maaser Beit Ed Dine, Batloun, Barouk and Maaser El Chouf, to where the Barouk-Joub Jannine Road crosses the Mount Lebanon-Beqaa Governorate boundary in the east.
+
+### Areas in the South and Nabatiyeh Governorates
+
+FCDO advises against all travel to:
+
+* Areas south of the Litani River, from where it enters the Mediterranean Sea in the west to where it crosses the Qlayaa road in the east, and areas south of (but not including) the Nabatiyeh-Marjayoun Road between that point and Qlayaa. This area includes the cities of Tyre, Rachidiyeh and Naqoura.
+* The areas of Nabatiyeh Governorate that lie east of the town of Qlayaa, and east of (and including) the Rachaiya-Marjaayoun Road that runs north-eastwards through the towns of Marjaayoun, Kawkaba, and Marj El Zhour/Dnaibeh to the Beqaa Governorate boundary.
+
+FCDO advises against all but essential travel to:
+
+* Areas of South Governorate north of the Litani river.
+* Areas of Nabatiyeh Governorate north of the Litani river and west of (but excluding) the Rachaiya-Marjaayoun Road to the Beqaa Governorate boundary, passing through the towns of Marjaayoun, Kawkaba, and Marj El Zhour/Dnaibeh.
+
+### Areas in the Beqaa Governorate
+
+FCDO advises against all travel to:
+
+* Areas of Beqaa Governorate that lie east of (but not including) the Rachaiya-Marjaayoun Road, from where it crosses the Nabaityeh/Beqaa boundary, heading north-eastward along the Masnaa-Rachaiya Road, Beirut-Damascus International Highway, Bar Elias, and Houch Hala to (and including) Riyaq on the Baalbek-Hermel Governorate boundary. The towns of Khiam, Hasbaya, Rachaya, Al Masnaa, Aanjar and Riyaq are in this area.
+
+FCDO advises against all but essential travel to:
+
+* The area of Beqaa Governorate north and east of (but not including) the Aintoura-Zahle Road, from Darh El Harf on the Mount Lebanon/Beqaa Governorate boundary to (but not including) Zahle, extending to the ‘Eastern Beqaa Governorate’ area.
+* The rest of Beqaa Governorate, except for:
+  + The areas south and west of (and including) the Aintoura-Zahle Road, from Darh El Harf on the Mount Lebanon/Beqaa Governorate boundary to (and including) Zahle.
+  + Zahle and the area that lies west of (and including) the Zahle-Baalbek Highway and Chtoura-Nabatiyeh Road, running southward from Zahle to the intersection with the Barouk-Joub Jannine Road.
+  + The area north of (and including) the Barouk-Joub Jannine Road, from where it crosses the Mount Lebanon/Beqaa Governorate boundary to the intersection with the Chtoura-Nabatiyeh Road.
+
+### Areas in the Baalbek-Hermel Governorate
+
+FCDO advises against all travel to:
+
+* The area of Baalbek-Hermel Governorate east of (and including) the Zahle-Baalbek and Baalbek-Qaa Highways, from where the Ali El Nahri Road joins the Zahle-Baalbek Highway near Riyaq, northward past Baalbek, and through Makneh and Laboueh to the intersection with the Hermel-Ras Baalbek Road.
+* The area of Baalbek-Hermel Governorate north and east of the roads between the intersection of the Baalbek-Qaa Highway and the Hermel-Ras Baalbek Road to the North Governorate boundary via (and including) Hermel and Zouaitini.
+
+FCDO advises against all but essential travel to:
+
+* All other areas of Baalbek-Hermel Governorate.
+
+### Areas in the North Governorate
+
+FCDO advises against all travel to the city of Tripoli, along the city boundaries.
+
+FCDO advises against all but essential travel to:
+
+* The area of North Governorate north and east of the main roads from Bohssas to Ariz via Kousba, Ehden, and Kfarsghab, and north and east of the Ariz-Baalbeck Road until it meets the Baalbek-Hermel Governorate boundary,excluding  the city of Tripoli. This includes the areas south up to the Tripoli-Kousba road but not including the road or the towns which run along it stretching from Bohssas in the east, southwards to Kousba and then eastwards on the Amioun-Ehden Road to Ehden and on to Ariz and the cedar areas.
+
+### Areas in the Akkar Governorate
+
+FCDO advises against all travel to Akkar Governorate.
+
+### Palestinian refugee camps
+
+FCDO advises against all travel to the 12 Palestinian refugee camps. See [Palestinian refugee camp locations](https://www.unrwa.org/where-we-work/lebanon) on the UN Relief and Works Agency website.
 
 For further information on why we advise against travel, see [Conflict affecting Lebanon](https://www.gov.uk/foreign-travel-advice/lebanon#conflict-in-neighbouring-israel-and-the-occupied-palestinian-territories-opts) and [Regional risks.](https://www.gov.uk/foreign-travel-advice/lebanon/regional-risks.)
 
 ## Conflict affecting Lebanon
 
-A ceasefire in the conflict between Israel and Lebanese Hizballah came into force on 27 November, however, the security environment remains unpredictable. Military activity, including airstrikes, cannot be ruled out. Tensions remain high and the situation could deteriorate with little warning. The closure or disruption of roads and exit routes at short notice could affect your ability to leave the country. Do not rely on the FCDO being able to evacuate you in an emergency.
+Although a ceasefire in the conflict between Israel and Lebanese Hizballah came into force on 27 November, the security environment remains unpredictable. Israeli Defence Forces continue to conduct airstrikes and artillery fire at targets in Lebanon, including the South, near the Israeli and Syrian borders, and in the Nabatiyeh and Beqaa Governates north of the Litani River. The closure or disruption of roads and exit routes at short notice could affect your ability to leave the country. Do not rely on the FCDO being able to evacuate you in an emergency.
 
 The security situation presents a range of serious risks to British Nationals in Lebanon, including the following.
 
 ### Military activity across Lebanon
 
-There are ongoing mortar and artillery exchanges across Lebanon, primarily on the boundary with Israel. Other areas of the country have also been affected including Beirut, the Beqaa Valley and locations north of the Litani river. The FCDO is aware that many people are returning to the south of Lebanon. Be aware that the Israeli Defence Force is continuing to tell people not to return to areas in the south close to the Blue Line and are imposing curfews.
+There are ongoing airstrikes, mortar and artillery exchanges across Lebanon, primarily on the boundary with Israel and the Beqqa Valley, but there have also been some in the South and in the Nabatiyeh Governates north of the Litani river. Strikes in other areas of the country cannot be ruled out. The FCDO is aware that many people are returning to the south of Lebanon. Be aware that the Israeli Defence Force is continuing to tell people not to return to areas in the south close to the Blue Line. There are reported incidences of the Israeli Defences Forces firing on people who get too close to locations where they retain a presence.
 
-Further air-strikes in Lebanon cannot be ruled out. Strikes have resulted in civilian casualties and the destruction of residential buildings. The Washington Institute provides an [online map](https://www.google.com/maps/d/u/0/viewer?ll=33.09758890871794%2C35.22240614106955&z=16&mid=13qY40wMpplijIQHuCr-Jd9o_3x8V8Lo) of strikes in Lebanon which may be helpful to understand previously affected areas.
+Further air-strikes in Lebanon cannot be ruled out. Strikes have resulted in civilian casualties and the destruction of residential buildings. There are also strikes both in population centres and in rural areas. We advise you to keep up to date with the latest situation including using multiple media sources to understand frequency and location of strikes as these may change rapidly. There are various mapping sources available online.
 
 ### Access to Beirut airport
 

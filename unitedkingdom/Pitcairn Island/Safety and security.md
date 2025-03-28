@@ -22,7 +22,7 @@ Pitcairn Island is a British Overseas Territory and has its own laws.
 
 It is illegal to import or sell alcohol without a licence.
 
-It is also illegal to drink alcohol in a public place, including at the Landing, the Public Square and the Western Harbour.
+It is also illegal to drink alcohol in a number of public places, including but not limited to all roads, the Landing, the Public Square and the Western Harbour.
 
 ### Religion
 
@@ -34,13 +34,13 @@ There is one grocery store on Pitcairn Island, which is open for 2 hours on Sund
 
 ### Accommodation
 
-There are no hotels but self-catering and homestay accommodation with local families is available. You must [book accommodation in advance](https://www.visitpitcairn.pn/where-to-stay).
+There are no hotels but self-catering and homestay accommodation with local families is available. You must [book accommodation in advance](https://www.visitpitcairn.pn/where-to-stay) in order to travel to Pitcairn.
 
 ### Mobile network and internet
 
 There is no mobile phone network on Pitcairn. VoIP calls are possible but only from people’s houses.
 
-Internet facilities are available although speeds and capacity may be limited. Homestay guests will normally have access to local wifi facilities, possibly at additional cost.
+Internet facilities are available to the public at the Landing and outside the grocery store, and at most homes on the island through Starlink. Homestay guests will normally have access to local wifi facilities, possibly at additional cost.
 
 ### LGBT+ travellers
 
@@ -56,25 +56,25 @@ Cliffs on Pitcairn are unstable and may crumble.
 
 See [water safety on holiday](https://www.rlss.org.uk/safety-on-holiday) from the Royal Life Saving Society.
 
-It can take days and possibly weeks to get medical treatment if you’re seriously injured during outdoor activities. Serious cases require medical evacuation by boat to Tahiti or New Zealand, due to limited medical facilities on Pitcairn.
+It can take days and possibly weeks to get medical treatment if you’re seriously injured during outdoor activities. Serious cases require medical evacuation by boat to Mangareva and then flight to Tahiti, or boat/flight to New Zealand, due to limited medical facilities on Pitcairn.
 
 ## Transport risks
 
 ### Road travel
 
-There are a limited number of metalled roads on Pitcairn, mostly in Adamstown. Other roads are dirt tracks.
+There are a limited number of concrete roads on Pitcairn, mostly in Adamstown. Other roads are dirt tracks.
 
-People walk or use quad bikes to get around. Most visitors walk because all quad bikes are privately owned. Longer-term visitors who want to use a quad bike must pass a short driving test to get a licence.
+People walk or use quad bikes to get around. Most visitors walk because all quad bikes are privately owned. Longer-term visitors who want to use a quad bike must pass a short driving test, set by the Police Officer, to get a licence.
 
 ### Air travel
 
-You cannot travel to Pitcairn by air. See shipping service information on the [Pitcairn Islands Tourism](https://www.visitpitcairn.pn/) website.
+You cannot travel to Pitcairn by air. Pitcairn is visited around 20 times a year by a supply ship, the Silver Supporter, travelling from the island of Mangareva in French Polynesia. See the [Pitcairn Islands Tourism](https://www.visitpitcairn.pn/) website for shipping service information, including sailing dates and passenger fares.
 
 ### Transferring by longboat
 
-Visitors transfer from the Silver Supporter supply ship to Pitcairn in a longboat. This can be difficult in poor weather, particularly for people with limited mobility. Crew provide life jackets, full instructions and help during the transfer.
+There is no harbour or jetty on Pitcairn. Visitors transfer from the Silver Supporter supply ship to Pitcairn in a longboat. This can be difficult in poor weather, particularly for people with limited mobility. Crew provide life jackets, full instructions and help during the transfer.
 
-Visitors coming ashore from cruise liners normally use the vessels’ own boats.
+Visitors coming ashore from cruise liners normally use the vessels’ own tenders.
 
 ## Extreme weather and natural disasters
 
@@ -82,7 +82,7 @@ Find out what you can do to prepare for and respond to [extreme weather and natu
 
 There is a risk of landslides or rockfalls on Pitcairn following heavy rain.
 
-Typhoons do not normally affect Pitcairn.
+Cyclones do not normally affect Pitcairn.
 
 [Previous
 :

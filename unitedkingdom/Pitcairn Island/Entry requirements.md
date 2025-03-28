@@ -2,13 +2,9 @@
 
 This information is for people travelling on a full [‘British citizen’ passport](https://www.gov.uk/types-of-british-nationality) from the UK. It is based on the UK government’s understanding of Pitcairn Island’s current rules for the most common types of travel.
 
-The authorities on Pitcairn Island set and enforce entry rules. If you’re not sure how these requirements apply to you, contact the [Pitcairn Islands government](https://www.government.pn/).
+The authorities on Pitcairn Island set and enforce entry rules. This includes all visitors and potential new settlers to have comprehensive travel insurance, including medical evacuation cover. If you’re not sure how these requirements apply to you, visit the [Pitcairn Islands government](https://www.government.pn/) website.
 
-The Pitcairn Islands group is made up of the islands of Pitcairn, Henderson, Ducie and Oeno. Pitcairn is the only inhabited island.
-
-## COVID-19 rules
-
-There are no COVID-19 testing or vaccination requirements for travellers entering Pitcairn Island. However, to travel on the Silver Supporter supply ship from New Zealand, you must be vaccinated against COVID-19.
+The Pitcairn Islands group is made up of the islands of Pitcairn, Henderson, Ducie and Oeno. Pitcairn is the only inhabited island. There is no airport on the islands. Most travel to Pitcairn is via a Government of Pitcairn Islands-chartered supply ship, which regularly operates between Mangareva in French Polynesia and Pitcairn Island (about 300km away).
 
 ## Passport validity requirements
 
@@ -20,7 +16,7 @@ You will be denied entry if you do not have a valid travel document or try to us
 
 ## Visa requirements
 
-You can visit Pitcairn Island for up to 14 days without a visa if you plan to arrive and depart on the same ship.
+You can visit Pitcairn Island for up to 14 days without a visa if you plan to arrive and depart on the same ship. Visits of more than 14 days require a Long-Term Visit Visa, see [more information on visas](https://www.visitpitcairn.pn/visa-legal).
 
 You must fill in a landing card on arrival.
 

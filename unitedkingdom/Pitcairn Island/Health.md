@@ -9,7 +9,7 @@ This is particularly important if you have a health condition or are pregnant.
 
 ## Emergency medical number
 
-Phone 0132 to contact the island’s doctor – there is no mobile network on Pitcairn Island but you can make VoIP calls from islanders’ houses.
+There is no mobile network on Pitcairn Island. In an emergency, outside clinic hours, the doctor can be called on 984 0132 using an islander’s VoIP line or by asking them to make a call out on VHF radio.  See Healthcare (below) for clinic opening hours.
 
 Contact your insurance company quickly if you’re referred to a medical facility for treatment.
 
@@ -19,6 +19,8 @@ At least 8 weeks before your trip:
 
 * check the latest [vaccine recommendations for Pitcairn Island](https://travelhealthpro.org.uk/country/179/pitcairn-islands#Vaccine_Recommendations)
 * see where to get vaccines and whether you have to pay on the [NHS travel vaccinations page](https://www.nhs.uk/conditions/travel-vaccinations/)
+
+Biting insects including mosquitoes are prevalent day and night on Pitcairn, visitors are recommended to bring effective insect repellents and to take precautions to avoid being bitten.
 
 See [what health risks you’ll face on Pitcairn Island](https://travelhealthpro.org.uk/country/179/pitcairn-islands#General_Information).
 
@@ -30,9 +32,9 @@ Read [best practice when travelling with medicines on TravelHealthPro](https://t
 
 ## Healthcare on Pitcairn Island
 
-Pitcairn has a modern and well-equipped medical clinic and a resident doctor, but the nearest hospital facilities are at least 2 days away by boat, in Tahiti or New Zealand.
+The island’s clinic is open from 9am and midday Sundays, Tuesdays, and Thursdays. No appointment is necessary. Visitors must pay for any medical assistance they receive before leaving Pitcairn. It is staffed by a GP and a nurse, and has a limited supply of prescription medication. In cases of serious illness or injury the nearest hospital facilities are at least 2 days away by ship, in Tahiti or New Zealand.
 
-There is no airport on Pitcairn, and evacuation in a medical emergency is not always possible. Make sure you have adequate travel health insurance and accessible funds to cover the cost of any medical treatment abroad and repatriation.
+There is no airport on Pitcairn, and the speed of evacuation in a medical emergency will be dependent on the availability of the supply ship or other passing vessels. Make sure you have adequate travel health insurance and accessible funds to cover the cost of any medical treatment abroad and repatriation.
 
 ## Travel and mental health
 

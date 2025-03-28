@@ -1,11 +1,11 @@
 {
     "name": "South Sudan",
-    "update_reason": "Updated information on the British Embassy Juba ('Warnings and insurance').",
+    "update_reason": "FCDO now advises British nationals in South Sudan to leave now if you judge it safe to do so. FCDO continues to advise against all travel to South Sudan ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/South Sudan/Warnings and insurance.md",
-            "update_date": "2025-03-26T18:54:13+00:00"
+            "update_date": "2025-03-27T16:59:36+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/South Sudan/Getting help.md"
         }
     ],
-    "update_date": "2025-03-26T18:54:13+00:00"
+    "update_date": "2025-03-27T16:59:36+00:00"
 }

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   27 March 2025
+:   28 March 2025
 
 Updated:
-:   26 March 2025
+:   27 March 2025
 
 Latest update:
-:   Updated information on the British Embassy Juba ('Warnings and insurance').
+:   FCDO now advises British nationals in South Sudan to leave now if you judge it safe to do so. FCDO continues to advise against all travel to South Sudan ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/5f4f33bfe90e071c6c7d9425/FCDO__TA__036_-_South_Sudan_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -18,7 +18,7 @@ Your travel insurance could be invalidated if you travel against advice from the
 
 ## FCDO advises against all travel to South Sudan
 
-FCDO advises against all travel to South Sudan due to the risk of armed violence and criminality.
+FCDO advises against all travel to South Sudan due to the risk of armed violence and criminality. If you are in South Sudan and judge it safe to do so, you should leave now.
 
 See more about [safety and security](/foreign-travel-advice/south-sudan/safety-and-security) in South Sudan.
 
@@ -34,7 +34,11 @@ As of 26 March, the number of British embassy staff in Juba has been temporarily
 
 ## If you are in South Sudan
 
+If you are in South Sudan and judge it safe to do so, you should leave now.
+
 FCDO continues to advise against all travel to South Sudan. If you choose to remain in South Sudan, you do so at your own risk. You should have a personal emergency plan that does not rely on the UK government. This includes the ability to leave the country or to shelter in place, if you judge that to be the safer choice. Make sure to keep all travel documentation up to date, stock up on essential supplies, and monitor the local situation.
+
+You should not assume that FCDO will be able to provide assistance to leave the country in the event of serious unrest or crisis.
 
 If there is civil disorder, stay somewhere safe and limit your movements as much as possible. Avoid all protests, political rallies and large gatherings, and follow the instructions of local authorities and security services.
 

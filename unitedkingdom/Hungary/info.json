@@ -1,11 +1,11 @@
 {
     "name": "Hungary",
-    "update_reason": "Update to information on expected rollout of the EU Entry/Exit System (EES) (\u2018Entry requirements\u2019 page).",
+    "update_reason": "Updated information about Pride (See 'LGBT+ travellers' on the 'Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Hungary/Warnings and insurance.md",
-            "update_date": "2025-03-17T14:20:14+00:00"
+            "update_date": "2025-03-27T17:14:09+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Hungary/Getting help.md"
         }
     ],
-    "update_date": "2025-03-17T14:20:14+00:00"
+    "update_date": "2025-03-27T17:14:09+00:00"
 }

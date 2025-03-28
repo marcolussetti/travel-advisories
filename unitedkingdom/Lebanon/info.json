@@ -1,11 +1,11 @@
 {
     "name": "Lebanon",
-    "update_reason": "Updated information about the security situation in Lebanon following the ceasefire agreement between Israel and Lebanese Hizballah (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "FCDO no longer advises against all travel to the whole of Lebanon. FCDO continues to advise against all travel or all but essential travel to some areas of Lebanon ('Warnings and insurance' and 'Regional risks' pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Lebanon/Warnings and insurance.md",
-            "update_date": "2024-12-09T13:48:55+00:00"
+            "update_date": "2025-03-27T15:00:08+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Lebanon/Getting help.md"
         }
     ],
-    "update_date": "2024-12-09T13:48:55+00:00"
+    "update_date": "2025-03-27T15:00:08+00:00"
 }
