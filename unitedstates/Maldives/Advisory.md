@@ -68,7 +68,7 @@ Website
 
 ### Maldives Map
 
-[View Larger Map](https://travelmaps.state.gov/TSGMapOnly/?extent=65.327382424,-1.033418624,81.285199336,7.317630168 "Map of Maldives")
+[View Larger Map](https://travelmaps.state.gov/TSGMap/?extent=73.3718336,4.1625254,73.6929417,4.4019703 "Map of Maldives")
 
 
 
