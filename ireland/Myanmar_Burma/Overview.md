@@ -4,6 +4,12 @@
 
 Do Not Travel
 
+### **Travel Alert**
+
+The Embassy is aware of the earthquake in Myanmar, also felt in Thailand. Any citizens currently in Thailand or Myanmar and in need of consular assistance can contact the Embassy on +66 2 016 1360. For those in Ireland concerned about those travelling in the region, please contact the Department of Foreign Affairs and Trade Consular Assistance line at +353 1 408 2527.
+
+We encourage citizens to follow the instructions of local authorities in the event of an emergency.
+
 ### **General Travel Advice**
 
 The Department of Foreign Affairs strongly advises against all travel to Myanmar at this time and continues to monitor the ongoing situation in the country since the February 2021 military coup.
@@ -32,7 +38,7 @@ There are a number of active conflicts between armed groups and security forces 
 
 Travel to Myanmar is subject to onerous entry restrictions which are subject to frequent change at short notice. Confirmation should be sought from the relevant Myanmar Embassy or Consulate well in advance of your departure.
 
-Citizens can also follow the Irish Embassy in Thailand on social media (Twitter@ [**@IrlEmbThailand**](https://twitter.com/irlembthailand) and [**Facebook**](https://m.facebook.com/IrishEmbassyThailand?_rdr) ) to ensure access to relevant updates and alerts.
+Citizens can also follow the Irish Embassy in Thailand on social media (X [**@IrlEmbThailand**](https://twitter.com/irlembthailand) and [**Facebook**](https://m.facebook.com/IrishEmbassyThailand?_rdr) ) to ensure access to relevant updates and alerts.
 
 Irish citizens require a visa for Myanmar. A valid passport is required for travel to Myanmar, and Irish passports should have a minimum validity of 6 months from the date of entry to Myanmar.
 
@@ -76,5 +82,5 @@ We have also confirmed with the British Embassy in Yangon that they can provide 
 
 * Get comprehensive travel insurance that covers all planned activities.
 * [**Register**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/) your details with us so that we can contact you quickly if there is an unforeseen crisis like a natural disaster or a family emergency.
-* Follow us on twitter [**@dfatravelwise**](https://www.twitter.com/DFATravelWise) for the latest travel updates.
+* Follow us on X [**@dfatravelwise**](https://www.twitter.com/DFATravelWise) and Instagram [**@dfatravelwise**](https://www.instagram.com/dfatravelwise/) for the latest travel updates.
 * Read our [**‘Know Before You Go’**](https://www.ireland.ie/en/dfa/overseas-travel/know-before-you-go/) guide.

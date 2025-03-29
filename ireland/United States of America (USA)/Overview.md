@@ -16,7 +16,7 @@ A valid passport is required for travel to the US. Passport cards cannot be used
 
 Visitors to US are advised to follow the guidance of national and local authorities and stay fully informed of what's going on by monitoring local news and social media.
 
-Citizens can also follow the Embassy on social media (X @[**Embassy of Ireland, USA**](https://twitter.com/IrelandEmbUSA)  and [**Facebook**](https://www.facebook.com/embassyofirelandusa)) to ensure access to relevant updates and alerts.
+Citizens can also follow the Embassy on social media (X @[**Embassy of Ireland, USA**](https://twitter.com/IrelandEmbUSA) and [**Facebook**](https://www.facebook.com/embassyofirelandusa)) to ensure access to relevant updates and alerts.
 
 ### **Emergency Assistance**
 

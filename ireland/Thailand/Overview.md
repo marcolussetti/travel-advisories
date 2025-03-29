@@ -4,6 +4,12 @@
 
 High Degree of Caution
 
+### **Travel Alert**
+
+The Embassy is aware of the earthquake in Myanmar, also felt in Thailand. Any citizens currently in Thailand or Myanmar and in need of consular assistance can contact the Embassy on +66 2 016 1360. For those in Ireland concerned about those travelling in the region, please contact the Department of Foreign Affairs and Trade Consular Assistance line at +353 1 408 2527.
+
+We encourage citizens to follow the instructions of local authorities in the event of an emergency.
+
 ### **General Travel Advice**
 
 Irish citizens do not require a visa to enter Thailand for the purpose of tourism or short-term business engagements for a period not exceeding 60 days. A valid passport is required for travel to Thailand. Thai immigration authorities are known to adopt a strict approach to accepting damaged passports. Irish citizens are advised to renew their passport before travel to Thailand should it have any damage as Thai Immigration may refuse entry otherwise. Irish passports should have a minimum validity of 6 months. Passport cards cannot be used.
@@ -14,7 +20,7 @@ For more information on visas and passports, please see the Additional Informati
 
 Visitors to Thailand are advised to follow the guidance of national and local authorities and to stay fully informed of what is going on by monitoring local news and social media.
 
-Citizens can also follow the Embassy on social media (Twitter @[**IrlEmbBangkok**](https://twitter.com/IrlEmbBangkok) and [**Facebook**](https://www.facebook.com/IrishEmbassyThailand)) to ensure access to relevant updates and alerts.
+Citizens can also follow the Embassy on social media (X @[**IrlEmbBangkok**](https://twitter.com/IrlEmbBangkok) and [**Facebook**](https://www.facebook.com/IrishEmbassyThailand)) to ensure access to relevant updates and alerts.
 
 ### **Emergency Assistance**
 
@@ -26,5 +32,5 @@ In the event of an emergency, first call the Thai Tourist Police at 1155. Please
 
 * Get comprehensive travel insurance that covers all planned activities.
 * [**Register**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/) your details with us so that we can contact you quickly if there is an unforeseen crisis like a natural disaster or a family emergency.
-* Follow us on twitter [**@dfatravelwise**](https://www.twitter.com/DFATravelWise) for the latest travel updates.
+* Follow us on X [**@dfatravelwise**](https://www.twitter.com/DFATravelWise) and Instagram [**@dfatravelwise**](https://www.instagram.com/dfatravelwise/) for the latest travel updates.
 * Read our [**‘Know Before You Go’**](https://www.ireland.ie/en/dfa/overseas-travel/know-before-you-go/) guide.

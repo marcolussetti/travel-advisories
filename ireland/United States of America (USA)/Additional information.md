@@ -35,7 +35,7 @@ Those transiting through the USA will need to get a visa or an Electronic System
 
 ### **Transgender Irish citizens**
 
-ESTA and visa application forms to the US require travellers to declare their sex. The US authorities have indicated that this should reflect the traveller’s biological sex at birth. Travellers who have an "X" marker on their passport or whose sex on their passport differs from sex assigned at birth should contact the Embassy of the United States of America in Dublin for further details on specific entry requirements.
+ESTA and visa application forms to the US require travellers to declare their sex. The US authorities have indicated that this should reflect, what they term, the traveller’s biological sex at birth. Travellers who have an "X" marker on their passport or whose sex on their passport differs from sex assigned at birth should contact the Embassy of the United States of America in Dublin for further details on specific entry requirements.
 
 ### **Dual nationals**
 
@@ -43,7 +43,7 @@ US law requires US citizens to enter and exit the US using a US passport.
 
 ### **US entry and immigration laws**
 
-Irish citizens intending to travel to the United States should ensure that they familiarise themselves with US entry requirements, which are detailed on the [CBP website](https://www.cbp.gov/travel/international-visitors). Previous convictions in the United States, misleading information about the purpose of your stay, entry without inspection, or even a slight overstay during travel can have serious consequences. Failure to adhere to US immigration law can lead to refusal of entry at the border, detention, and/or removal from the US.
+Irish citizens intending to travel to the United States should ensure that they familiarise themselves with US entry requirements, which are detailed on the [**CBP website**](https://www.cbp.gov/travel/international-visitors). Previous convictions in the United States, misleading information about the purpose of your stay, entry without inspection, or even a slight overstay during travel can have serious consequences. Failure to adhere to US immigration law can lead to refusal of entry at the border, detention, and/or removal from the US.
 
 As an Irish citizen, if you are detained, you have the right to contact the Embassy of Ireland or the nearest Consulate General of Ireland. To do so, you must request that the Embassy of Ireland or the nearest Consulate General of Ireland be informed of your detention.
 
