@@ -1,11 +1,11 @@
 {
     "name": "Somalia",
-    "update_reason": "New Information on recent terrorist attacks ('Safety and security' page).",
+    "update_reason": "Update on al-Shabaab Offensive ('Safety and security')",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Somalia/Warnings and insurance.md",
-            "update_date": "2025-03-19T17:10:51+00:00"
+            "update_date": "2025-03-28T21:35:00+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Somalia/Getting help.md"
         }
     ],
-    "update_date": "2025-03-19T17:10:51+00:00"
+    "update_date": "2025-03-28T21:35:00+00:00"
 }

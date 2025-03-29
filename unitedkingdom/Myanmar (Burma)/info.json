@@ -1,11 +1,11 @@
 {
     "name": "Myanmar (Burma)",
-    "update_reason": "FCDO now advises against all but essential travel to the townships of Kyangin, Myanaung, Ingapu, Lemyethna, Yegyi Thabaung and Pathein in Ayeyarwady region which lie along the border with Rakhine State.",
+    "update_reason": "Addition of information that there has been a 7.7 magnitude earthquake in Myanmar, the epicentre is in Sagaing region near Mandalay, but other areas may be affected (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Myanmar (Burma)/Warnings and insurance.md",
-            "update_date": "2025-01-22T16:57:18+00:00"
+            "update_date": "2025-03-28T09:14:06+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Myanmar (Burma)/Getting help.md"
         }
     ],
-    "update_date": "2025-01-22T16:57:18+00:00"
+    "update_date": "2025-03-28T09:14:06+00:00"
 }

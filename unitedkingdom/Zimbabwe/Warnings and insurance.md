@@ -1,19 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   29 March 2025
 
 Updated:
-:   3 February 2025
+:   28 March 2025
 
 Latest update:
-:   Updated information on the Zimbabwe-Mozambique border ('Warnings and insurance' page).
-
-## Zimbabwe - Mozambique border
-
-There has been significant unrest across Mozambique in recent months following national elections on 9 October 2024. The situation has improved since late December, but there remains the potential for further sporadic unrest and delays or closures at the border at short notice.
-
-Seek local advice, monitor local media and [FCDO’s travel advice for Mozambique](https://www.gov.uk/foreign-travel-advice/mozambique) before travel.
+:   Update with information on possible demonstrations on 31 March ('Safety and security' page).
 
 ## Before you travel
 

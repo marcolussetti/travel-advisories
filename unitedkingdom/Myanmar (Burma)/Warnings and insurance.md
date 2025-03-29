@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   29 March 2025
 
 Updated:
-:   22 January 2025
+:   28 March 2025
 
 Latest update:
-:   FCDO now advises against all but essential travel to the townships of Kyangin, Myanaung, Ingapu, Lemyethna, Yegyi Thabaung and Pathein in Ayeyarwady region which lie along the border with Rakhine State.
+:   Addition of information that there has been a 7.7 magnitude earthquake in Myanmar, the epicentre is in Sagaing region near Mandalay, but other areas may be affected (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/679121b620bce57216a2f1b9/FCDO__TA__064_-_Myanmar_Ed8__WEB_.jpg)
 
@@ -43,6 +43,17 @@ FCDO advises against all but essential travel to:
 The conflict is Myanmar is increasingly volatile. The security situation may deteriorate at short notice and the military regime can introduce travel restrictions at any time. Consider your travel plans carefully.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/myanmar/regional-risks).
+
+## Earthquake in Myanmar
+
+There has been a 7.7 magnitude earthquake in Myanmar, the epicentre is in Sagaing region near Mandalay City, but other areas may be affected. Mandalay airport is reportedly closed. There may be several strong after-shocks. If you’re in the area or planning to travel there, follow the advice of the local authorities and monitor local media.
+
+The US Federal Emergency Management Agency has advice about [what to do before, during and after an earthquake](http://www.ready.gov/earthquakes)
+
+UNICEF also have information on staying safe in an earthquake:
+
+* [in English](https://www.unicef.org/myanmar/earthquake-safety-information-en?fbclid=IwZXh0bgNhZW0CMTAAAR0kW12iLQyfEX5B9qvY6ZVyl6wftxOI1yB0c1DDeYGt5hhXQvUgtKi0XIE_aem_b7Q-S3efNb3x32nCjb1VQg)
+* [in Burmese](https://www.unicef.org/myanmar/my/earthquake-safety-information-my)
 
 ## Before you travel
 

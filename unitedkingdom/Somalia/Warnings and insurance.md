@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   29 March 2025
 
 Updated:
-:   19 March 2025
+:   28 March 2025
 
 Latest update:
-:   New Information on recent terrorist attacks ('Safety and security' page).
+:   Update on al-Shabaab Offensive ('Safety and security')
 
 ![](https://assets.publishing.service.gov.uk/media/61a63d6be90e07044b1ef4b5/s.jpg)
 
@@ -26,7 +26,7 @@ FCDO advises against all travel to Somalia, including the 3 eastern regions of S
 
 FCDO advises against all but essential travel to the 3 western regions of Somaliland – Awdal (including Boorama), Maroodijeh (including Hargeisa) and Sahil (including Berbera).
 
-Find out more about [why FCDO advises against travel](/foreign-travel-advice/somalia/regional-risks).
+Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/somalia/regional-risks). There has recently been an increase in fighting between al-Shabaab and the Somali Government close to the capital Mogadishu. Please see the [Terrorism section](https://www.gov.uk/foreign-travel-advice/somalia/safety-and-security) for more information.
 
 ## Support from FCDO
 

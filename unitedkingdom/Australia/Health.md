@@ -20,7 +20,10 @@ At least 8 weeks before your trip:
 * check the latest [vaccine recommendations for Australia](https://travelhealthpro.org.uk/country/15/australia#Vaccine_Recommendations)
 * see where to get vaccines and whether you have to pay on the [NHS travel vaccinations page](https://www.nhs.uk/conditions/travel-vaccinations/)
 
-See [what health risks you’ll face in Australia](https://travelhealthpro.org.uk/country/15/australia#General_Information).
+See [what health risks you’ll face in Australia](https://travelhealthpro.org.uk/country/15/australia#General_Information) including:
+
+* dengue
+* Japanese encephalitis and other insect or tick-borne diseases
 
 ## Medication
 

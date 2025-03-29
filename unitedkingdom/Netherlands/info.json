@@ -1,11 +1,11 @@
 {
     "name": "Netherlands",
-    "update_reason": "Information on a stabbing incident in central Amsterdam. If you\u2019re in the immediate area follow the advice of the local authorities and monitor local media ('Warnings and insurance' page).",
+    "update_reason": "Removal of information on a stabbing incident in central Amsterdam.",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Netherlands/Warnings and insurance.md",
-            "update_date": "2025-03-27T16:10:16+00:00"
+            "update_date": "2025-03-28T16:52:39+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Netherlands/Getting help.md"
         }
     ],
-    "update_date": "2025-03-27T16:10:16+00:00"
+    "update_date": "2025-03-28T16:52:39+00:00"
 }

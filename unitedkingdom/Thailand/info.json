@@ -1,11 +1,11 @@
 {
     "name": "Thailand",
-    "update_reason": "Updated information on same-sex marriage ('Safety and security' page).",
+    "update_reason": "Addition of emergency hotlines provided by the local authorities following earthquake with strong tremors reported across Thailand and damage to buildings in Bangkok ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Thailand/Warnings and insurance.md",
-            "update_date": "2025-02-14T13:21:20+00:00"
+            "update_date": "2025-03-28T14:42:55+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Thailand/Getting help.md"
         }
     ],
-    "update_date": "2025-02-14T13:21:20+00:00"
+    "update_date": "2025-03-28T14:42:55+00:00"
 }

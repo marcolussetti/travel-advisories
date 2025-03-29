@@ -56,7 +56,7 @@
     },
     {
         "destination": "Australia",
-        "last_updated": "2025-03-08T01:45:38+00:00",
+        "last_updated": "2025-03-28T09:55:49+00:00",
         "details_url": "https://www.gov.uk/foreign-travel-advice/australia"
     },
     {
@@ -546,7 +546,7 @@
     },
     {
         "destination": "Laos",
-        "last_updated": "2025-03-25T13:15:18+00:00",
+        "last_updated": "2025-03-28T10:00:23+00:00",
         "details_url": "https://www.gov.uk/foreign-travel-advice/laos"
     },
     {
@@ -691,7 +691,7 @@
     },
     {
         "destination": "Myanmar (Burma)",
-        "last_updated": "2025-01-22T16:57:18+00:00",
+        "last_updated": "2025-03-28T09:14:06+00:00",
         "details_url": "https://www.gov.uk/foreign-travel-advice/myanmar"
     },
     {
@@ -711,7 +711,7 @@
     },
     {
         "destination": "Netherlands",
-        "last_updated": "2025-03-27T16:10:16+00:00",
+        "last_updated": "2025-03-28T16:52:39+00:00",
         "details_url": "https://www.gov.uk/foreign-travel-advice/netherlands"
     },
     {
@@ -901,7 +901,7 @@
     },
     {
         "destination": "Somalia",
-        "last_updated": "2025-03-19T17:10:51+00:00",
+        "last_updated": "2025-03-28T21:35:00+00:00",
         "details_url": "https://www.gov.uk/foreign-travel-advice/somalia"
     },
     {
@@ -1011,7 +1011,7 @@
     },
     {
         "destination": "Thailand",
-        "last_updated": "2025-02-14T13:21:20+00:00",
+        "last_updated": "2025-03-28T14:42:55+00:00",
         "details_url": "https://www.gov.uk/foreign-travel-advice/thailand"
     },
     {
@@ -1031,7 +1031,7 @@
     },
     {
         "destination": "Trinidad and Tobago",
-        "last_updated": "2025-01-14T18:42:37+00:00",
+        "last_updated": "2025-03-28T16:13:42+00:00",
         "details_url": "https://www.gov.uk/foreign-travel-advice/trinidad-and-tobago"
     },
     {
@@ -1126,7 +1126,7 @@
     },
     {
         "destination": "Zimbabwe",
-        "last_updated": "2025-02-03T16:49:55+00:00",
+        "last_updated": "2025-03-28T11:35:04+00:00",
         "details_url": "https://www.gov.uk/foreign-travel-advice/zimbabwe"
     }
 ]

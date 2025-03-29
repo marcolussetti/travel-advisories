@@ -16,7 +16,9 @@ Attacks could be indiscriminate including in places visited by foreign nationals
 
 ## Political situation
 
-Demonstrations and rallies can be unpredictable and may turn violent. Authorities have in the past used force to suppress them. Avoid political activity, or activities which could be considered political, including political discussions in public places or online.
+There have been calls for demonstrations on Monday 31 March.
+
+Demonstrations and rallies can be unpredictable and may turn violent. Authorities have in the past used force to suppress them. Avoid political gatherings or activities which could be considered political, including political discussions in public places or online.
 
 It is illegal to make derogatory or insulting comments about the President or to carry material considered to be offensive towards the office of President.
 

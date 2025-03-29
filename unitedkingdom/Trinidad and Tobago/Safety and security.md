@@ -79,7 +79,7 @@ If you are stopped with more than these amounts, you could get a fine of 50,000 
 
 ### LGBT+ travellers
 
-Same-sex sexual activity was decriminalised in Trinidad and Tobago in 2018. However, there are laws prohibiting LGBT+ foreign nationals from entering the country. In practice, these laws are rarely enforced, and there is growing local support for LGBT+ rights. However, you could receive negative attention if you show affection in public.
+In March 2025, consensual same-sex activity between men became a crime punishable by up to five years imprisonment. It is also illegal for LGBT+ foreign nationals to enter the country, although in practice this has not been enforced. It is possible LGBT+ visitors could receive negative attention if they show affection in public.
 
 Read more [advice for LGBT+ travellers](https://www.gov.uk/lesbian-gay-bisexual-and-transgender-foreign-travel-advice).
 

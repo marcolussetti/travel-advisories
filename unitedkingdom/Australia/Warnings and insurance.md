@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   29 March 2025
 
 Updated:
-:   8 March 2025
+:   28 March 2025
 
 Latest update:
-:   Updated information about Ex-Tropical Cyclone Alfred ('Warnings and insurance' page).
+:   Updated information on health risks in Australia (‘Health’ page).
 
 ## Bushfires
 

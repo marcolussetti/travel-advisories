@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   29 March 2025
 
 Updated:
-:   25 March 2025
+:   28 March 2025
 
 Latest update:
-:   Information added about protecting yourself against potential sexual assault ('Safety and security' page).
+:   Addition of information about an earthquake with strong tremors reported across Laos ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/64391b7a773a8a0013ab2c63/FCDO__TA__088_-_Laos_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -23,6 +23,12 @@ Your travel insurance could be invalidated if you travel against advice from the
 FCDO advises against all but essential travel to Xaisomboun Province. There are intermittent attacks on infrastructure and armed clashes with anti-government groups.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/laos/regional-risks).
+
+## Earthquake
+
+There has been a 7.7 magnitude earthquake in Myanmar, with tremors reported across the region, including in Laos. There may be after-shocks. If you’re in the area or planning to travel there, follow the advice of the local authorities or your tour operator and monitor local media.
+
+The US Federal Emergency Management Agency has advice about [what to do before, during and after an earthquake](https://www.ready.gov/earthquakes)
 
 ## Before you travel
 

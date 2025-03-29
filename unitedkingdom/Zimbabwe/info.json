@@ -1,11 +1,11 @@
 {
     "name": "Zimbabwe",
-    "update_reason": "Updated information on the Zimbabwe-Mozambique border ('Warnings and insurance' page).",
+    "update_reason": "Update with information on possible demonstrations on 31 March ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Zimbabwe/Warnings and insurance.md",
-            "update_date": "2025-02-03T16:49:55+00:00"
+            "update_date": "2025-03-28T11:35:04+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Zimbabwe/Getting help.md"
         }
     ],
-    "update_date": "2025-02-03T16:49:55+00:00"
+    "update_date": "2025-03-28T11:35:04+00:00"
 }

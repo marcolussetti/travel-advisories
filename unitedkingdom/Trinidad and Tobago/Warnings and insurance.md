@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   29 March 2025
 
 Updated:
-:   14 January 2025
+:   28 March 2025
 
 Latest update:
-:   Updated information on State of Emergency being extended for 3 months (‘Safety and security’ page).
+:   New information that consensual same-sex activity between men is now a crime punishable by up to five years imprisonment ( See 'LGBT+travellers' on 'Safety and security' page).
 
 ## Before you travel
 

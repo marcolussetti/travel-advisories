@@ -1,19 +1,15 @@
 # Warnings and insurance
 
 Still current at:
-:   28 March 2025
+:   29 March 2025
 
 Updated:
-:   27 March 2025
+:   28 March 2025
 
 Latest update:
-:   Information on a stabbing incident in central Amsterdam. If you’re in the immediate area follow the advice of the local authorities and monitor local media ('Warnings and insurance' page).
+:   Removal of information on a stabbing incident in central Amsterdam.
 
 Check [separate travel advice pages](/foreign-travel-advice) for advice on travel to the constituent countries and special municipalities in the Dutch Caribbean.
-
-## Stabbing incident in Amsterdam
-
-There has been a stabbing incident in Amsterdam central Dam Square. If you’re in the immediate area follow the advice of the local authorities and monitor local media.
 
 ## Before you travel
 
