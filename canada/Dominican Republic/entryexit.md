@@ -10,6 +10,12 @@ Verify this information with the [Foreign Representatives in Canada](https://ww
 
 ### Passport
 
+Until November 30, 2025, Canadians can enter the Dominican Republic for tourism purposes with a passport valid for their entire stay.
+
+If you are travelling for other purposes, you are required to have a passport valid for a minimum of six months after the date of arrival in the Dominican Republic.
+
+[Entry requirements](https://www.godominicanrepublic.com/travel/entry-requirements/) – Government of Dominican Republic
+
 Entry requirements vary depending on the type of passport you use for travel.
 
 Before you travel, check with your transportation company about passport requirements. Its rules on passport validity may be more stringent than the country’s entry rules.

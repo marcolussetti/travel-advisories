@@ -1,7 +1,7 @@
 {
     "name": "China",
-    "update_reason": "Risk level \u2013 added information on main risks for Canadians in China",
-    "update_date": "2025-03-17T18:15:00",
+    "update_reason": "The Need help? section was updated.",
+    "update_date": "2025-03-28T09:00:00",
     "sections": {
         "risk": "canada/China/risk.md",
         "security": "canada/China/security.md",

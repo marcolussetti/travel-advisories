@@ -4,16 +4,18 @@
 
 ### Increase in seismic activity
 
-Since the beginning of January 2025, a series of earthquakes, the strongest recorded at a magnitude of 5.8, have impacted the Afar and Oromia regions, including areas east of Addis Ababa.
+Since January 2025, there has been an increase in seismic activity in Ethiopia, especially in the Afar and Oromia regions and in areas east of Addis Ababa. Further earthquakes are possible.
 
 Although there have been no casualties, evacuation orders have been issued in several of the affected areas.
 
-There is an increase in seismic activity in Ethiopia and further earthquakes are possible.
+If you are in or near an affected area:
 
-* Monitor local media for the latest information
-* Follow instructions from local authorities, including evacuation orders
+* monitor local media for the latest information
+* keep a supply of water and food and an emergency kit on hand
+* keep your phone charged and have a list of emergency numbers
+* follow instructions of local authorities, including evacuation orders
 
-[Earthquakes - What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx)
+[Earthquakes – What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx)
 
 ### Drought
 
