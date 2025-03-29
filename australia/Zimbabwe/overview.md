@@ -2,7 +2,7 @@
 
 Latest update
 
-We've reviewed our advice and continue to advise exercise a high degree of caution in Zimbabwe due to the threat of crime and the risk of civil unrest. Demonstrations and protests in Zimbabwe can be unpredictable and may turn violent quickly. Avoid activities that could be considered political and stay away from protests and demonstrations. During periods of unrest, monitor local media, avoid affected areas and follow advice from local authorities (see ‘Safety’).
+We've reviewed our advice and continue to advise exercise a high degree of caution in Zimbabwe due to the threat of crime and the risk of civil unrest. There have been calls for demonstrations on Monday 31 March. Demonstrations and protests in Zimbabwe can be unpredictable and may turn violent quickly. Avoid activities that could be considered political and stay away from protests and demonstrations. During periods of unrest, monitor local media, avoid affected areas and follow advice from local authorities (see ‘Safety’).
 
 Advice Level summary
 
