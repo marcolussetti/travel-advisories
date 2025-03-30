@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   29 March 2025
+:   30 March 2025
 
 Updated:
-:   28 March 2025
+:   29 March 2025
 
 Latest update:
-:   Addition of information that there has been a 7.7 magnitude earthquake in Myanmar, the epicentre is in Sagaing region near Mandalay, but other areas may be affected (‘Warnings and insurance’ page).
+:   Update on information on the earthquake in Myanmar including the announcement by the military regime of a State of Emergency in six states and regions. (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/679121b620bce57216a2f1b9/FCDO__TA__064_-_Myanmar_Ed8__WEB_.jpg)
 
@@ -46,7 +46,9 @@ Find out more about [why FCDO advises against travel](/foreign-travel-advice/mya
 
 ## Earthquake in Myanmar
 
-There has been a 7.7 magnitude earthquake in Myanmar, the epicentre is in Sagaing region near Mandalay City, but other areas may be affected. Mandalay airport is reportedly closed. There may be several strong after-shocks. If you’re in the area or planning to travel there, follow the advice of the local authorities and monitor local media.
+There has been a 7.7 magnitude earthquake in Myanmar, the epicentre is in Sagaing region near Mandalay City, affecting large parts of the country. Mandalay and Naypyitaw airports are significantly damaged with no indication of when they may reopen. There may be several strong after-shocks. The military regime announced a State of Emergency in six states and regions: Naypyitaw, Sagaing Region, Mandalay Region, Magway Region, northeast Shan State and Bago Region, in addition to the nationwide State of Emergency in place since the coup of 1 February 2021. We advise against travelling to all affected areas at present.
+
+If you’re in the area, follow the advice of the local authorities and monitor local media.
 
 The US Federal Emergency Management Agency has advice about [what to do before, during and after an earthquake](http://www.ready.gov/earthquakes)
 
