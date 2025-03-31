@@ -8,27 +8,25 @@
 
 Lithuania is part of the [Schengen area](/before-you-go/the-basics/schengen "Visas and entry requirements in Europe and the Schengen Area"), meaning Australian citizens can enter Lithuania without a visa in some cases. Always carry your passport even within the Schengen area.
 
-Entry and exit conditions can change at short notice. Contact the nearest [Lithuanian embassy or consulate](https://protocol.dfat.gov.au/Public/Missions/116) for details about visas, currency, customs and quarantine rules.
-
-You will require a Russian visa for entry via the Curonian Spit, and you should be aware of visa requirements when entering or departing through [Belarus](/destinations/europe/belarus "Belarus"). Visa requirements for Belarus differ depending on whether travel is by air or road.
+Entry and exit conditions can change at short notice. Contact the nearest [Lithuanian embassy or consulate](https://protocol.dfat.gov.au/Public/Missions/116) for details about visas, currency, customs and quarantine rules.
 
 #### European Entry/Exit System (EES)
 
-The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area has been delayed until later in 2025. A specific start date hasn't been announced.
+The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area is expected to start in October 2025.
 
-The EES is a digital border system that registers non-EU visitors travelling into the Schengen Area. When entering the Schengen Area, you'll need to have your fingerprints and photo taken. This creates a digital record that registers your biometric details. Passports will no longer be stamped.
+The EES is a digital border system that registers non-EU visitors travelling into the Schengen Area. When entering the Schengen Area, you'll need to have your fingerprints and photo taken. This creates a digital record that registers your biometric details.
 
 You'll need to do this on your first visit to the EU after the EES is introduced.​ If you visit the Schengen Area again within 3 years of creating your digital record, you'll only need to provide either your fingerprint or photograph at the border on entry and exit.
 
 This process should only take a few minutes per person, however you may experience longer queues at borders when the new system starts.
 
-Entry and exit conditions can change at short notice. Contact the [nearest embassy or consulate of Lithuania](https://protocol.dfat.gov.au/Public/Missions/116) for the latest details on entry requirements before you travel.
+Entry and exit conditions can change at short notice. Contact the [nearest embassy or consulate of Lithuania](https://protocol.dfat.gov.au/Public/Missions/116) for the latest details on entry requirements before you travel.
 
 #### Other formalities
 
 #### Travelling with children
 
-A consent letter from at least one parent is required if a [child](/before-you-go/who-you-are/children "Travelling with children") lives in Lithuania and is:
+A consent letter from at least one parent is required if a [child](/before-you-go/who-you-are/children "Travelling with children") lives in Lithuania and is:
 
 * is travelling alone
 * or with an unrelated adult
@@ -99,11 +97,9 @@ You should check with local authorities in the countries you're leaving, enterin
 
 #### Border crossings
 
-You need a Russian visa to visit the southern portion of the Curonian Spit. The Spit is divided between Lithuania and the Russian Federation at the Nida border crossing. Travelling by road via the Curonian Spit will require a visa. 
+The Curonian Spit is divided between Lithuania and the Russian Federation at the Nida border crossing. Be cautious while travelling in regions bordering Russia and Belarus. Do not travel to [Russia](/destinations/europe/russia "Russia") and [Belarus.](/destinations/europe/belarus "Belarus")
 
-If, despite our advice, you travel by road through Belarus, you'll also need a visa. Rules regarding visa requirements differ when flying directly into and out of Minsk. On 1 March, the Lavoriškės and Raigardas road border crossing points to Belarus were closed. Read the travel advice for [Belarus](/destinations/europe/belarus "Belarus").
-
-Localised disruptions to some cross-border road and rail transport services can happen. 
+Border crossings between Lithuania and Belarus can close at short notice. Localised disruptions to some cross-border road and rail transport services can happen. Do not travel to Belarus.
 
 Allow extra time to cover disruptions. 
 
@@ -131,7 +127,7 @@ Snow clearing is efficient in cities. However, highways and roads in rural areas
 By law, you must:
 
 * use winter tyres from 10 November to 1 April
-* always use headlights on low beam when driving
+* Headlights must always be on when driving
 * have valid car insurance
 
 Contact your car hire provider for updates on car rental requirements, including the minimum age.
@@ -146,13 +142,11 @@ Lithuania has strict guidelines for motorbike use, including wearing helmets and
 
 Always wear a helmet.
 
-#### Taxi
+#### Taxis
 
-Use reputable taxi companies that use meters.
+Use official licensed taxis. These display yellow license plates starting with the letter ‘T’
 
-Private taxis may refuse to use meters and may overcharge you.
-
-Look for the company logo before getting in. You decide whether or not to pay a tip.
+Rideshare apps are also available
 
 #### Rail travel
 

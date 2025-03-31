@@ -14,7 +14,7 @@ To meet Qatari requirements, your Australian documents may need extra legal appr
 
 #### Traffic offences
 
-From 1 September, if you receive a traffic violation, you cannot leave Qatar through any state border (land, air, and sea) until you have paid all relevant fines through:
+If you receive a traffic violation, you cannot leave Qatar through any state border (land, air, and sea) until you have paid all relevant fines through:
 
 * [Metrash2application](https://hukoomi.gov.qa/en/service/metrash2),
 * [Ministry of Interior website](https://portal.moi.gov.qa/wps/portal/MOIInternet/MOIHome),
@@ -72,10 +72,24 @@ Child custody laws are based on Islamic law.
 
 If you have a job in Qatar, you may require an exit permit from your employer to leave the country.
 
+Recognition of your Australian educational qualifications for use in Qatar may require you to legalise these documents.
+
+You should always confirm exact requirements with the intended authority (i.e. the person or organisation the legalised document will be presented to) as to what are the exact requirements needed. The intended authority may require the Australian educational qualification to be attested.
+
+In Qatar, the intended authority can include the Ministry of Education and Higher Education, the Ministry of Foreign Affairs or both.
+
+The legalisation or attestation process may include:
+
+1.    Document to be notarised by an Australian Notary Public in Australia  
+2.    Attestation by Department of Foreign Affairs and Trade in Australia  
+3.    Attestation by the Qatar Embassy in Canberra, Australia  
+4.    Attestation by the Ministry of Foreign Affairs in Qatar  
+5.    Submit the document to the intended authority in Qatar
+
 **More information:**
 
-* [Living or working overseas](/before-you-go/activities/living-overseas "Going overseas to live or work")
-* [Legalising documents](/consular-services/notarial-services "Notarial services")
+* [Living or working overseas](https://www.smartraveller.gov.au/before-you-go/activities/living-overseas)
+* [Legalising documents](https://www.smartraveller.gov.au/consular-services/notarial-services)
 
 #### Other laws
 
@@ -114,19 +128,6 @@ It's illegal to:
 * bring pornography, pork products, alcohol, firearms or religious books or materials other than those relating to Islam into Qatar
 * photograph government buildings or military sites
 * photograph local people, particularly women, without permission
-
-#### Victims of sexual assault
-
-Depending on the situation, victims of sexual assault in Qatar, may face arrest, detention or criminal prosecution for having sex outside of marriage.
-
-If you're sexually assaulted in Qatar, contact the Australian Embassy in Doha or the Consular Emergency Centre in Canberra immediately. Ask for guidance and information on support services.
-
-Consular officers can't provide legal or medical advice. They can provide lists of English-speaking service providers who may be able to help you.
-
-**More information:**
-
-* [Sexual assault](/before-you-go/safety/sexual-assault "Reducing the risk of sexual assault and harassment")
-* [Sexual Assault Service](https://www.hamad.qa/EN/Hospitals-and-services/Hamad-General-Hospital/Hospital-Services/Clinical-Departments/Pages/Sexual-Assault-Service.aspx) (Hamad General Hospital)
 
 ### Australian laws
 

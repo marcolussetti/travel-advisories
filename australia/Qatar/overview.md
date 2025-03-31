@@ -2,7 +2,7 @@
 
 Latest update
 
-We continue to advise exercise normal safety precautions in Qatar. You may be placed under a travel ban if you're involved in a dispute about (but not limited to) business, labour, employment, fines or civil legal proceedings. You won't be able to leave Qatar until your travel ban is removed (see 'Travel').   
+We've reviewed our advice for Qatar and continue to advise exercise normal safety precautions. You may be placed under a travel ban if you're involved in a dispute about (but not limited to) business, labour, employment, fines or civil legal proceedings. You won't be able to leave Qatar until your travel ban is removed (see 'Travel').   
   
 Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests (see 'Safety').
 
@@ -44,7 +44,7 @@ Full travel advice: [Health](#health)
 ### Local laws
 
 * Qatari laws and customs are very different to those in Australia. If you're detained or arrested, ask police or prison officials to inform the Australian Embassy in Doha.
-* From 1 September, if you receive a traffic violation, you cannot leave Qatar until you have paid all relevant fines.
+* If you receive a traffic violation, you cannot leave Qatar until you have paid all relevant fines.
 * Don't use or carry illegal drugs. Penalties for drug offences include long jail terms. Authorities can detain and deport you if you carry medication to treat HIV and hepatitis. This can also happen if you test positive for either illness.
 * Sex outside of marriage is illegal. If you're the victim of a sexual assault, authorities may arrest, detain or prosecute you for adultery. If you're sexually assaulted in Qatar, ask us for consular help and advice on available support services immediately. Hamad General Hospital provides a [Sexual Assault Service.](https://www.hamad.qa/EN/Hospitals-and-services/Hamad-General-Hospital/Hospital-Services/Clinical-Departments/Pages/Sexual-Assault-Service.aspx)
 * Qatar has conservative codes of dress and behaviour. Visitors are expected to cover their shoulders and knees when visiting public places, including museums and other government buildings. If you're at tourist attractions, shopping malls and other public places, check the specific dress codes at the venue or online.

@@ -2,7 +2,7 @@
 
 Latest update
 
-We continue to advise exercise normal safety precautions in Lithuania.
+We've reviewed our travel advice for Lithuania and continue to advise exercise normal safety precautions.
 
 Advice Level summary
 
@@ -40,16 +40,16 @@ Full travel advice: [Health](#health)
 
 * You're required by law to carry ID with you at all times. You must present your ID to law enforcement officers when requested.
 * Penalties for drug offences are severe. Don't use or carry illegal drugs.
-* Lithuania recognises dual nationality. If you're a Lithuanian-Australian dual national, we may only be able to provide limited consular assistance if you're arrested or detained.
+* Lithuania recognises dual nationality. If you’re a Lithuanian-Australian dual national, there are limited consular services we can provide if you're arrested or detained.
 
 Full travel advice: [Local laws](#local-laws)
 
 ### Travel
 
-* Lithuania is part of the [Schengen area,](/before-you-go/the-basics/schengen "Visas and entry requirements in Europe and the Schengen Area") meaning you can enter without a visa in some cases. In other situations, you'll need to get a visa.
-* The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area has been delayed until 2025. A specific start date hasn't been announced.
-* Entry requirements can change at short notice. See the website of the [Consular Information Ministry of Foreign Affairs of the Republic of Lithuania](https://keliauk.urm.lt/en/entry-to-lithuania) for the latest entry information.
-* Rules apply to children who live in Lithuania travelling alone, with an unrelated adult and in some instances, with one parent. You must provide a consent letter from at least one of the parents.
+* Lithuania is part of the [Schengen area,](/before-you-go/the-basics/schengen "Visas and entry requirements in Europe and the Schengen Area") meaning you can enter without a visa in some cases. In other situations, you'll need to get a visa.
+* The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area is expected to start in October 2025.
+* Entry requirements can change at short notice. See the website of the [Consular Information Ministry of Foreign Affairs of the Republic of Lithuania](https://keliauk.urm.lt/en/entry-to-lithuania) for the latest entry information.
+* Rules apply to children who live in Lithuania and are travelling alone, with an unrelated adult and in some instances, with one parent. A consent letter from at least one parent is required.
 
 Full travel advice: [Travel](#travel)
 

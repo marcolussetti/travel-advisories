@@ -34,17 +34,20 @@ For consular assistance, contact the Australian Embassy in Doha.
 
 The working week is Sunday to Thursday.
 
+The public counter is open from 8:30am - 12:00pm from Sunday to Wednesday. For passport and notarial services, you need to book an appointment. Check the [Embassy website](http://www.qatar.embassy.gov.au/) for details about opening hours and any temporary closures including Embassy Public Holidays.
+
 #### Australian Embassy, Doha
 
 Tornado Tower  
 Majlis Al Taawon Street  
 Doha, Qatar  
-Phone: (+974) 4007 8500  
-  
-Email: [embassy.doha@dfat.gov.au](mailto:embassy.doha@dfat.gov.au)  
-Website: [qatar.embassy.gov.au](http://www.qatar.embassy.gov.au/)
+Phone: (+974) 4007 8500
 
-Check the Embassy website for details about opening hours and any temporary closures.
+Website: [qatar.embassy.gov.au](http://www.qatar.embassy.gov.au/)  
+General enquiries email: [embassy.doha@dfat.gov.au](mailto:embassy.doha@dfat.gov.au)
+
+Consular assistance email: [consular.doha@dfat.gov.au](mailto:consular.doha@dfat.gov.au)  
+Passport assistance email: [passports.doha@dfat.gov.au](mailto:passports.doha@dfat.gov.au)
 
 #### 24-hour Consular Emergency Centre
 

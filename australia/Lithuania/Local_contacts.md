@@ -26,6 +26,12 @@ Always get a police report when you report a crime.
 
 Your insurer should have a 24-hour emergency number.
 
+#### Crisis Notification App
+
+**Lt72.lt**
+
+The LT72 mobile phone Crisis Notification App, developed by the Fire and Rescue Department under the Ministry of the Interior of the Republic of Lithuania, is an innovative tool for providing timely alerts, valuable disaster prevention information, and instructions in the case of emergency situations.
+
 #### Consular contacts
 
 Read the [Consular Services Charter](/consular-services/consular-services-charter "Consular Services Charter") for what the Australian Government can and can't do to help you overseas.

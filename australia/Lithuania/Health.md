@@ -56,7 +56,7 @@ Carry a copy of your prescription and a dated letter from your doctor stating:
 
 #### Measles
 
-Measles are a risk in Lithuania. Make sure your vaccinations are up-to-date before you travel.
+Measles is a risk in Lithuania. Make sure your vaccinations are up-to-date before you travel.
 
 **More information:**
 
@@ -64,9 +64,7 @@ Measles are a risk in Lithuania. Make sure your vaccinations are up-to-date befo
 
 #### Other health risks
 
-Tick-borne diseases are a risk in forested areas. Ticks are common from spring to autumn, and care should be taken when undertaking any outdoor activity, when camping and when in forest or farming areas. The Lithuanian Ministry of Health states ticks can lead to tick-borne Encephalitis or Lyme Borreliosis.
-
-Get the annual seasonal flu shot to minimise your risk of [swine flu or influenza A(H1N1)](https://www.who.int/ith/diseases/si_iAh1n1/en/) (World Health Organization).
+Tick-borne diseases are a risk in forested areas. Ticks are common from March to November, and care should be taken when undertaking any outdoor activity, when camping and when in forest or farming areas. The Lithuanian Ministry of Health states ticks can lead to tick-borne Encephalitis or Lyme Borreliosis.
 
 #### Medical care
 
@@ -74,6 +72,6 @@ Medical professionals are highly trained, and some speak English.
 
 Private medical facilities are well-equipped. However, public facilities don't meet Australian standards.
 
-Doctors and hospitals require up-front payment before treating you.
+Doctors and hospitals may require up-front payment before treating you.
 
 In an emergency, you may need to be evacuated. Medical evacuation can be very expensive.

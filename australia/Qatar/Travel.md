@@ -76,13 +76,17 @@ If your passport is lost or stolen, tell the Australian Government as soon as po
 
 The Australian Embassy can't issue a new passport in the airport transit area. If you're in the transit area without a passport, you'll need to return to Australia. In Australia, you'll need to apply for a new passport.
 
+If you are holding an Australian emergency passport, you can only use this to depart or transit through Qatar. It cannot be used to enter Qatar.
+
+Qatari authorities will not issue a visa in an emergency passport.
+
 #### Passport with ‘X’ gender identifier
 
 Although Australian passports comply with international standards for sex and gender, we can’t guarantee that a passport showing 'X' in the sex field will be accepted for entry or transit by another country. Contact the nearest [embassy, high commission or consulate of your destination](https://protocol.dfat.gov.au/Public/MissionsInAustralia) before you arrive at the border to confirm if authorities will accept passports with 'X' gender markers.
 
 **More information:**
 
-[LGBTQIA+ travellers](https://www.smartraveller.gov.au/before-you-go/who-you-are/LGBTI)
+* [LGBTQIA+ travellers](https://www.smartraveller.gov.au/before-you-go/who-you-are/LGBTI)
 
 #### Money
 
@@ -119,7 +123,7 @@ Visitors or business visa holders with a driver's licence from their home countr
 
 If you have an international licence, you can drive for up to 6 months from your date of entry into Qatar.
 
-If you have a non-Qatari licence, you can rent a car if you are 25 years or older and have held a valid driving licence for at least 12 months. The availability of rental cars is likely to be low due to the high demand in Qatar.
+If you have a non-Qatari licence, you can rent a car if you are 25 years or older and have held a valid driving licence for at least 12 months.
 
 Gulf Cooperation Council (GCC) residents with a GCC driver's licence can drive for up to 3 months from their date of entry into Qatar.
 
