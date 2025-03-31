@@ -18,7 +18,7 @@ You will be denied entry if you do not have a valid travel document or try to us
 
 You can enter South Korea for up to 90 days for short-term business or tourism. You must have an onward or return ticket. It’s illegal to be employed in South Korea while visiting visa-free, whether as a teacher or in any other capacity.
 
-South Korea operates an electronic travel authorisation system called K-ETA. Anyone eligible for visa-free entry to South Korea is usually required to get K-ETA approval before departure. However, British nationals travelling visa-free to South Korea are temporarily exempt from requiring a K-ETA until December 31, 2025. Further information about the K-ETA exemption can be found on the [K-ETA notice board](https://www.k-eta.go.kr/portal/board/viewboarddetail.do?bbsSn=149899).
+South Korea operates an electronic travel authorisation system called K-ETA. Anyone eligible for visa-free entry to South Korea is usually required to get K-ETA approval before departure. However, British nationals travelling visa-free to South Korea are temporarily exempt from requiring a K-ETA until December 31, 2025. Further information about the K-ETA exemption can be found on the [K-ETA notice board](https://www.k-eta.go.kr/portal/board/viewboardlist.do?tmpltNm=notice&locale=EN).
 
 If you need to apply for a K-ETA, you should ensure that you apply through the Korean government’s [official K-ETA website](https://www.k-eta.go.kr/portal/apply/index.do). Other sites offering K-ETA application services are generally scams. It can take up to 72 hours for K-ETA approval to be granted.
 

@@ -1,13 +1,15 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   31 March 2025
 
 Updated:
-:   25 February 2025
+:   30 March 2025
 
 Latest update:
-:   Updated information about dengue (‘Health’ page).
+:   Updated information about Extreme weather and natural disasters following earthquake in region ("Warnings and insurance page").
+
+There has been a 7.1 magnitude earthquake in the Tonga Islands. Anyone on the low-lying coast areas move immediately to higher ground or inland. Follow evacuation routes and emergency instructions from local authorities. Do not return until an official “ALL CLEAR” is given by The Tonga National Disaster Risk Management Office.
 
 ## Before you travel
 

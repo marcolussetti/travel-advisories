@@ -1,11 +1,11 @@
 {
     "name": "South Korea",
-    "update_reason": "New information added about forest fires in the south-eastern part of South Korea ('Warnings and insurance' page).",
+    "update_reason": "Forest fires in the south-eastern part of South Korea have been contained. The Travel Advice alert in relation to them has been removed ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/South Korea/Warnings and insurance.md",
-            "update_date": "2025-03-25T10:08:53+00:00"
+            "update_date": "2025-03-31T03:07:19+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/South Korea/Getting help.md"
         }
     ],
-    "update_date": "2025-03-25T10:08:53+00:00"
+    "update_date": "2025-03-31T03:07:19+01:00"
 }

@@ -1,19 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   31 March 2025
 
 Updated:
-:   25 March 2025
+:   31 March 2025
 
 Latest update:
-:   New information added about forest fires in the south-eastern part of South Korea ('Warnings and insurance' page).
-
-## Forest fires
-
-Forest fires are ongoing in the south-eastern part of South Korea. Some evacuation orders and road closures have been imposed. You should pay close attention to warnings from local authorities and follow any safety instructions that they issue. Korean-language emergency alerts will automatically be sent to your mobile phone, and English-language translations of emergency alerts can be accessed on the [National Disaster and Safety Portal](http://eng.safekorea.go.kr/main/selectMainMng.do;jsessionid=PDT3vCBEnTHGMb02GsdHXALK.node10) and in the [Emergency Ready App](https://agent.safekorea.go.kr/idsiSCH/era_pop.jsp).
-
-You can track the location and progress of fires through the Korea Forest Service website in [English](https://fd.forest.go.kr/ffas/pubConn/movePage/english.do) and [Korean](https://fd.forest.go.kr/ffas/pubConn/movePage/main.do?systemCode=ffasout_c). Contact the South Korean authorities by calling 119 if you need emergency assistance.
+:   Forest fires in the south-eastern part of South Korea have been contained. The Travel Advice alert in relation to them has been removed ('Warnings and insurance' page).
 
 ## Elevated Political Tensions
 
