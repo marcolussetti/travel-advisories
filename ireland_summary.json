@@ -56,7 +56,7 @@
     {
         "destination": "Australia",
         "risk_level": "Normal Precautions",
-        "last_updated": "2025-03-12T00:00:00",
+        "last_updated": "2025-03-31T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/australia/"
     },
     {
@@ -806,7 +806,7 @@
     {
         "destination": "Nauru",
         "risk_level": "Normal Precautions",
-        "last_updated": "2025-01-10T00:00:00",
+        "last_updated": "2025-03-31T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/nauru/"
     },
     {
@@ -890,7 +890,7 @@
     {
         "destination": "Papua New Guinea",
         "risk_level": "High Degree of Caution",
-        "last_updated": "2024-06-05T00:00:00",
+        "last_updated": "2025-03-31T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/papua-new-guinea/"
     },
     {
@@ -1040,7 +1040,7 @@
     {
         "destination": "Solomon Islands",
         "risk_level": "Normal Precautions",
-        "last_updated": "2023-11-23T00:00:00",
+        "last_updated": "2025-03-31T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/solomon-islands/"
     },
     {

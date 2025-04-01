@@ -8,11 +8,11 @@ Alternatively, you can call the Duty Officer at the Department of Foreign Affair
 
 ### Embassy of Ireland, Morocco
 
-Rabat Mahaj Ryad Centre,   
-Avenue Attine, Bâtiment 7,   
-Hay Ryad,   
-Rabat, Morocco
+6 Avenue Marrakesh   
+Hassan   
+Rabat 10010   
+Morocco
 
-[Tel: +212 530134083](tel:+212530134083)
+[Tel: +212 537 269 000](tel:+212537 269 000)
 
 [**Contact Us**](/en/morocco/rabat/contact/)

@@ -1,5 +1,7 @@
 ## Embassy contact
 
+As Ireland does not have an Embassy or Consulate in Nauru, consular assistance is provided via the Embassy of Ireland in Australia.
+
 If you need emergency assistance from the Embassy, ​​contact us on +61 2 62140000 and follow the prompts.  
   
 If you call outside normal working hours at the weekend, you will be given instructions to call another number to speak to an Officer on duty.

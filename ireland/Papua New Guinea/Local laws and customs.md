@@ -6,7 +6,7 @@ Remember, the local laws apply to you as a visitor and it is your responsibility
 
 The government of Papua New Guinea does not recognise dual-national citizenship once a person is over 18 years of age. If travelling there as a Papua New Guinea citizen, Irish citizenship will not be recognised. This means we may be hindered in giving consular assistance if needed.
 
-### **Local customs**
+### **Local Customs**
 
 Standards of dress and behaviour in Papua New Guinea are quite conservative so even though the climate is hot, dress conservatively when in public. Adultery is also an offence and those convicted may be liable for compensation payments. Public displays of affection may cause offence so we advise discretion and caution at all times.
 
@@ -14,11 +14,11 @@ Standards of dress and behaviour in Papua New Guinea are quite conservative so e
 
 Homosexual acts are unlawful - and punishment if convicted can include imprisonment.
 
-### **Forbidden products**
+### **Forbidden Products**
 
 The sale and possession of pornographic material is a criminal offence in Papua New Guinea. As a general rule, visitors are prohibited from entering Papua New Guinea with drugs, weapons, firearms, censored films, and obscene literature.
 
-### **Illegal drugs**
+### **Illegal Drugs**
 
 Illegal drug use (no matter what the drug) carries stiff penalties, including fines and long prison terms.
 

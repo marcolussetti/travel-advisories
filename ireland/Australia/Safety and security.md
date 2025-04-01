@@ -13,21 +13,21 @@ Crime remains relatively low in Australia but you should take sensible precautio
 * Always get local advice about safe places to socialise. If you are staying in cheap accommodation, be aware that the good value may be due to an undesirable location. Be careful in certain ‘party’ areas in Sydney, Melbourne, Brisbane and Perth and take sensible precautions.
 * If you are arrested or detained, you are entitled to request that the local police notify the Embassy or Consulate General of your detention.
 
-### **Lost or stolen passport**
+### **Lost or Stolen Passport**
 
 If your passport is lost or stolen while in Australia, the Embassy in Canberra, Consulate General in Sydney or the Honorary Consulate in Perth can, in emergency situations, issue an emergency travel document. You will need to submit a completed application, duly witnessed and with all supporting documents and the appropriate fee. Proof of identity and citizenship will be required.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If you're a victim of a crime while in Australia, you should report it to the local police immediately. If you need consular assistance, contact us at the Embassy or Consulate. Each State and Territory have their own Victim Support helplines.
 
 Australia’s primary emergency call service number is Triple Zero (000), which can be dialled from any fixed or mobile phone, pay phones and certain Voice over Internet Protocol (VoIP) services.
 
-### **Reporting sexual assault**
+### **Reporting Sexual Assault**
 
 In the event of sexual assault, the Australian Police have specialised sexual assault teams, and many hospitals have dedicated sexual assault units. There’s also a national 24-hour telephone counselling service for cases of sexual assault and domestic violence – 1800 RESPECT (1800 737 732).
 
-### **Personal responsibility**
+### **Personal Responsibility**
 
 As well as protecting yourself against crime while in Australia, you have a responsibility to ensure that your own behaviour is orderly and respectful and does not bring you to the attention of the police.
 
@@ -46,9 +46,9 @@ Road traffic accidents are the most common cause of death and serious injury to 
 * Check road conditions before beginning your journey; stay with your vehicle if it breaks down; and avoid travelling in extreme heat conditions. Sudden storms and strong winds can make driving difficult.
 * Random breath testing of a driver’s blood alcohol and drug level is a common occurrence.
 
-[**The Tourism Australia website**](https://www.australia.com/en-us) has extensive information on travelling around the continent. The Australian Government’s [**Health and safety information for travellers - Tourism Australia**](https://www.australia.com/en/facts-and-planning/useful-tips/health-and-safety-faq.html) also contains comprehensive travel safety advice on Australia.
+[**The Tourism Australia website**](https://www.australia.com/en-us) has extensive information on travelling around the continent. The Australian Government’s [**Health and safety information for travellers - Tourism Australia**](https://www.australia.com/en/facts-and-planning/health-and-safety/faq.html)also contains comprehensive travel safety advice on Australia.
 
-### **Safe driving**
+### **Safe Driving**
 
 Driver fatigue is a major cause of death on Australian roads. Always carry water and take rest breaks every two hours while driving long distances.
 
@@ -58,13 +58,13 @@ Watch out for signs warning of local wildlife, which may be present on the roads
 
 In rural areas, roads may be unsealed and impassable after heavy rain. It’s a mistake to rely solely on GPS to plan itineraries.
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If you’re hiring a vehicle, we advise you not to hand over your passport as a form of security. If you’re allowing your passport to be photocopied, keep it in your sight at all times.
 
 Check that you have adequate insurance and read the small print of the vehicle hire contract (particularly any waiver that will come into effect if the vehicle is damaged). If you’re planning to drive on unsealed roads, it’s essential that your hire car insurance policy has adequate cover.
 
-### **Safe swimming**
+### **Safe Swimming**
 
 The Australian surf can be dangerous, with strong rip currents challenging even the most experienced swimmer. You should only swim on beaches that are patrolled by lifeguards, and always swim between the red and yellow flags. The position of the flags highlights the safest part of the beach to swim. These are generally moved daily to take account of rip currents or other hazards.
 
@@ -84,6 +84,6 @@ In very remote areas, you should notify relevant local tourist authorities or po
 
 Mobile phone coverage, though generally good in towns and cities, is often not available in remote areas. It’s a mistake to rely upon mobile phones or on real time internet maps if travelling in the Outback or even in some relatively well-populated rural areas.
 
-Marine stingers are present in the tropical oceans around northern Australia from November to May. During this time, -you can only swim within stinger-resistant enclosures, which are set up on the most popular beaches. You will also need to wear protective clothing when swimming, snorkelling or diving on the outer Great Barrier Reef. Always observe warning signs. When bushwalking or hiking, you can avoid snake and spider bites by wearing protective footwear. If bitten, seek immediate medical attention by phoning 000.
+Marine stingers are present in the tropical oceans around northern Australia from November to May. During this time, -you can only swim within stinger-resistant enclosures, which are set up on the most popular beaches. You will also need to wear protective clothing when swimming, snorkelling or diving on the outer Great Barrier Reef. Always observe warning signs. When bushwalking or hiking, you can avoid snake and spider bites by wearing protective footwear. If bitten, seek immediate medical attention by phoning 000.
 
 Australia is known for its spiders, some of which are dangerous. Common venomous spiders in Australia include funnel-web, mouse, redback and white-tailed spiders. Since the introduction of anti-venoms in 1981, there has been only one death from a spider-bite.

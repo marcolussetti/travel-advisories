@@ -38,11 +38,11 @@ Criminals tend to target areas and establishments often frequented by foreigners
 
 Criminals may use roadblocks outside of towns to stop and loot vehicles and attack you. Keep doors and windows locked, including when travelling by vehicle, consider using private security and avoid travel by taxi or public transport, especially if you are a woman.
 
-### **Lost or stolen passports**
+### **Lost or Stolen Passports**
 
 Always keep your travel documents secure at all times. If your passport is lost or stolen, getting a replacement can take some time, given the distance between Papua New Guinea and the nearest Irish Embassy in Canberra. Getting a replacement passport will be easier if you can provide a copy of the lost or stolen one, so keep photocopies of your passport.
 
-### **Reporting a crime**
+### **Reporting a Crime**
 
 If a victim of a crime while in Papua New Guinea, report it to the local police immediately. Please contact us at the Irish Embassy in Canberra, in Australia if you need help.
 
@@ -50,17 +50,17 @@ If a victim of a crime while in Papua New Guinea, report it to the local police 
 
 If planning to drive in Papua New Guinea, be extremely careful. Driving is on the left. Roads are generally poor, particularly outside towns and cities and standards of driving are erratic. If you want to drive, bring your full Irish driver’s licence and make sure to have adequate and appropriate insurance. Ensure that rental aquatic equipment is safe and in good condition.
 
-### **Car jacking**
+### **Car Jacking**
 
 Car jacking is a risk of travelling in Papua New Guinea. Always keep car doors locked and windows closed, particularly if travelling at night or through urban areas.
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If hiring a vehicle, we advise not to hand over your passport as a form of security. If allowing your passport to be photocopied, keep it in your sight at all times.
 
 Check that you have adequate insurance and read the small print of the vehicle hire contract (particularly any waiver that will come into effect if the vehicle is damaged).
 
-### **Public buses (PMVs)**
+### **Public Buses (PMVs)**
 
 We recommend that visitors avoid using public buses known locally as PMVs. There have been incidents of armed hold-ups of PMVs and of passengers being attacked and robbed of their personal belongings. Many PMVs are considered to be un-roadworthy.
 

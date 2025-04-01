@@ -8,7 +8,7 @@ Papua New Guinea is in an active seismic zone and earthquakes and volcanic erupt
 
 Depending on the severity and conditions of the seismic activity in the region, there may be a threat of tsunamis. If travelling to coastal areas, be alert for tsunami warnings that may be issued by the authorities.
 
-### **Wet season**
+### **Wet Season**
 
 During the wet season in Papua New Guinea (November to May) weather can damage infrastructure (roads, airstrips), cause flooding and landslides and contribute to the spread of infectious disease. Take care if travelling during this time; talk to your tour guides or follow the local media to see whether travel may be affected.
 

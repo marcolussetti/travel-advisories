@@ -3,8 +3,8 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Travel to Australia Overview",
-            "file": "ireland/Australia/Travel to Australia Overview.md"
+            "title": "Travel to Australia overview",
+            "file": "ireland/Australia/Travel to Australia overview.md"
         },
         {
             "title": "Safety and security",
@@ -19,13 +19,21 @@
             "file": "ireland/Australia/Natural disasters and climate.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Australia/Additional information.md"
+            "title": "Health",
+            "file": "ireland/Australia/Health.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/Australia/Entry requirements.md"
+        },
+        {
+            "title": "Moving to Australia",
+            "file": "ireland/Australia/Moving to Australia.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Australia/Embassy contact.md"
         }
     ],
-    "update_date": "2025-03-12T00:00:00"
+    "update_date": "2025-03-31T00:00:00"
 }

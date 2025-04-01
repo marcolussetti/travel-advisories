@@ -3,8 +3,8 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Nauru/Overview.md"
+            "title": "Travel to Nauru overview",
+            "file": "ireland/Nauru/Travel to Nauru overview.md"
         },
         {
             "title": "Safety and security",
@@ -19,13 +19,17 @@
             "file": "ireland/Nauru/Natural disasters and climate.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Nauru/Additional information.md"
+            "title": "Health",
+            "file": "ireland/Nauru/Health.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/Nauru/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Nauru/Embassy contact.md"
         }
     ],
-    "update_date": "2025-01-10T00:00:00"
+    "update_date": "2025-03-31T00:00:00"
 }

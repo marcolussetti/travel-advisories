@@ -1,5 +1,7 @@
 ## Embassy contact
 
+As Ireland does not have an Embassy or Consulate in Solomon Islands, consular assistance is provided via the Embassy of Ireland in Australia.
+
 If you require emergency assistance from the Embassy, please contact us on +61 2 62140000  
 If you call outside normal working hours, you will be given instructions to call another number to speak to a Duty Officer.
 

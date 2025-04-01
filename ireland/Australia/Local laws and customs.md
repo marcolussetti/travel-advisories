@@ -2,11 +2,11 @@
 
 Remember, the local laws apply to you as a visitor and it is your responsibility to follow them. Be sensitive to local customs, traditions and practices as your behaviour may be seen as improper, hostile or may even be illegal.
 
-### **Illegal drugs**
+### **Illegal Drugs**
 
 Illegal drug use (no matter what the drug) carries stiff penalties, including fines and long prison terms.
 
-### **Law enforcement**
+### **Law Enforcement**
 
 The police in Australia are strict in their implementation of the law and you should not expect any flexibility in respect of speed limits, parking restrictions or public order regulations.
 
@@ -24,4 +24,4 @@ Each situation is dealt with strictly on a case-by-case basis. However, Australi
 
 If you have over stayed your visa and are picked up by the police or Border Force you will likely be detained at an Immigration Detention Centre while your deportation is arranged.
 
-Please see the link [**here**](https://immi.homeaffairs.gov.au/visas/visa-about-to-expire/leave-australia) for more information about what you should do, when your Australian visa  is expiring. Please see the link [**here**](https://www.aat.gov.au/steps-in-a-review/migration-and-refugee/character-related-and-other-visa-decisions/decision) for more information about what you should do if your Australian visa has expired.
+Please see the link [**here**](https://immi.homeaffairs.gov.au/visas/visa-about-to-expire/leave-australia) for more information about what you should do, when your Australian visa is expiring. Please see the link [**here**](https://www.aat.gov.au/steps-in-a-review/migration-and-refugee/character-related-and-other-visa-decisions/decision) for more information about what you should do if your Australian visa has expired.

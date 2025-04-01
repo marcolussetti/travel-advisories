@@ -2,7 +2,7 @@
 
 Remember, the local laws apply to you as a visitor and it is your responsibility to follow them. Be sensitive to local customs, traditions and practices as your behaviour may be seen as improper, hostile or may even be illegal.
 
-### **Illegal drugs**
+### **Illegal Drugs**
 
 Drug use is illegal in the Solomon Islands, and can lead to prison sentences.
 
@@ -10,7 +10,7 @@ Drug use is illegal in the Solomon Islands, and can lead to prison sentences.
 
 Swearing is a crime and can lead to large compensation claims and even jail.
 
-### **Dress and behaviour**
+### **Dress and Behaviour**
 
 Dress codes, particularly for women, are modest and you should dress appropriately. In certain areas, there are ‘taboo’ sites, which can only be visited by men.
 
