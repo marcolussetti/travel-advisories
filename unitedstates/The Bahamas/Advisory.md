@@ -1,6 +1,6 @@
 # The Bahamas Travel Advisory
 
-### Travel Advisory January 26, 2024
+### Travel Advisory March 31, 2025
 
 ### The Bahamas - Level 2: Exercise Increased Caution
 
@@ -14,27 +14,53 @@
 [T](javascript:void(0); "Tool Tip: Terrorism")
 [C](javascript:void(0); "Tool Tip: Crimes")
 
-**Updated with additional water safety information.**
+***Updated to reflect crime, swimming-related risks, and information on traveling with firearms and ammunition.***
 
-Exercise increased caution in The Bahamas due to**crime**.
+Exercise increased caution due to **crime**.
 
-**Country Summary**: The majority of crime occurs on New Providence (Nassau) and Grand Bahama (Freeport) islands. In Nassau, practice increased vigilance in the “Over the Hill” area (south of Shirley Street) where gang-on-gang violence has resulted in a high homicide rate primarily affecting the local population. Violent crime, such as burglaries, armed robberies, and sexual assaults, occur in both tourist and non-tourist areas. Be vigilant when staying at short-term vacation rental properties where private security companies do not have a presence.
+**Country Summary:** Violent crime—like armed robberies, burglaries, and sexual assaults—can occur anywhere in The Bahamas.
 
- Activities involving commercial recreational watercraft, including water tours, are not consistently regulated. Watercraft may be poorly maintained, and some operators may not have safety certifications.  Always review and heed local weather and marine alerts before engaging in water-based activities. Commercial watercraft operators have discretion to operate their vessels regardless of weather forecasts; injuries and fatalities have occurred. Due to these safety concerns, U.S. government personnel are not permitted to use independently operated jet-ski rentals on New Providence and Paradise Islands.
+Most crime occurs in Nassau and Freeport on New Providence and Grand Bahama islands. Stay alert in the "Over the Hill" area in Nassau, south of Shirley Street, where gangs have killed residents.
 
-Never swim alone, regardless of your age or level of swimming skills.  Keep within your fitness and swimming capabilities. Be mindful of sharks when swimming and engaging in water activities, as there have been recent fatal and non-fatal incidents involving sharks.  Be aware of weather and water conditions and heed local warnings.
+Stay alert in vacation rental properties, especially where private security is not present.
 
-Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Bahamas.html) for additional information on travel to The Bahamas.
+**Jet skis and boating**
+
+* Boating is not well regulated. Injuries and deaths have occurred.
+* Sexual assaults by jet ski operators have also been reported.
+* Due to the risks, U.S. government employees are prohibited from using jet skis and personal watercraft rented from independent operators on New Providence and Paradise islands.
+* Watercraft may not be safe, and some operators are not licensed or insured.
+* Watercraft operators sometimes ignore weather forecasts. Always follow local weather and marine alerts.
+
+**Beach safety**
+
+* Never swim alone and beware of jet skis or other watercraft operating close to shore.
+* Sexual assaults have occurred on and near downtown Nassau beaches. Be aware of your surroundings and stay alert in public restrooms.
+* Be aware of your own fitness and swimming capabilities.
+* If you are new to snorkeling, understand the risks. Swimmers and snorkelers have died after overestimating their physical fitness or health.
+* Stay alert for sharks. Shark attacks have led to serious injuries and death.
+* Be aware of weather and water conditions and follow local warnings.
+
+**Weapons and ammunition**
+
+Firearms and ammunition are illegal—including small quantities brought by mistake in carry-on bags or luggage. Police strictly enforce these laws—even at the airport when travelers are leaving.
+
+Travelers with firearms or ammunition can face arrest, jail time, and fines.
+
+Authorities have detained U.S. citizens for several days or more after finding firearms or ammunition, preventing them from leaving.
+
+Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Bahamas.html) for additional information on travel to The Bahamas.
 
 If you decide to travel to The Bahamas:
 
-* Do not answer your door at your hotel/residence unless you know who it is.
+* Do not answer your door at your hotel or residence unless you know who it is.
+* Lock doors and windows and use other security features, especially on balcony doors.
 * Do not physically resist any robbery attempt.
-* Enroll in the [Smart Traveler Enrollment Program (STEP)](https://step.state.gov/) to receive Alerts and make it easier to locate you in an emergency.
-* Follow the Department of State on [Facebook](https://gcc02.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.facebook.com%2Ftravelgov&data=05%7C01%7COCSContentManager%40state.gov%7C7cedeb739c6c479b839908da498208a5%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C637903120072995855%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=IW5Jm7DGLxPETBebgEA40AqaoeLkbFY4tbZsrUdTnSM%3D&reserved=0), [Twitter](https://gcc02.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.twitter.com%2Ftravelgov&data=05%7C01%7COCSContentManager%40state.gov%7C7cedeb739c6c479b839908da498208a5%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C637903120072995855%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=fTU5nWQ1HJhX91tQdhQwu7Vx8dD6y2HnIRkr%2FhX9Wgo%3D&reserved=0), and [Instagram](https://www.instagram.com/travelgov/).
-* Review the [Country Security Report](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.osac.gov%2FContent%2FBrowse%2FReport%3FsubContentTypes%3DCountry%2520Security%2520Report&data=05%7C01%7COCSContentManager%40state.gov%7C7cedeb739c6c479b839908da498208a5%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C637903120072995855%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=EGbpoF23LpXvIaakXxXonOgHvVEINpzL1R2v6lw%2B2eg%3D&reserved=0) for The Bahamas.
-* Prepare a contingency plan for emergency and medical situations.  Review the [Traveler’s Checklist](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-checklist.html).
-* Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) related to your travel.
+* Check your luggage and hand baggage carefully for bullets or firearms before leaving the United States.  Do not bring these items to The Bahamas.
+* Enroll in the [Smart Traveler Enrollment Program (STEP)](https://mytravel.state.gov/s/step) to receive messages and Alerts from the U.S. Embassy and make it easier to locate you in an emergency Prepare a plan for emergency situations.
+* Review the [Traveler’s Checklist](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-checklist.html#_blank).
+* Visit the CDC page for the [latest Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) related to your travel and return to the United States.
+* We highly recommend that you buy insurance before you travel. Check with your [travel insurance provider](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) about evacuation assistance, medical insurance, and trip cancellation coverage.
 
 ### Travel Advisory Levels
 

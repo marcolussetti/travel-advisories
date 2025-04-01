@@ -812,7 +812,7 @@
     {
         "destination": "Iran",
         "risk_level": "Level 4: Do Not Travel",
-        "last_updated_advisory": "2024-08-14T00:00:00",
+        "last_updated_advisory": "2025-03-31T00:00:00",
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/iran-travel-advisory.html",
         "risk_level_number": 4,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Iran.html",
@@ -1694,7 +1694,7 @@
     {
         "destination": "The Bahamas",
         "risk_level": "Level 2: Exercise Increased Caution",
-        "last_updated_advisory": "2024-01-26T00:00:00",
+        "last_updated_advisory": "2025-03-31T00:00:00",
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/the-bahamas-travel-advisory.html",
         "risk_level_number": 2,
         "country_info_url": null,

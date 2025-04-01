@@ -10,11 +10,15 @@ Furthermore, some laws are also prosecutable in the United States, regardless of
 
 The possession or use of illegal drugs, including marijuana, cocaine, and ecstasy, is a criminal offense in The Bahamas and can result in time in prison. While visiting The Bahamas, you are subject to Bahamian law.**Drug violators are regularly arrested, even for possession of small quantities**. All persons 16 years of age or older in The Bahamas are tried as adults in court. If you are arrested for drug possession, you should expect to spend at least one night, and possibly longer, in custody. Stay away from drug traffickers, who may be often armed and violent. Do not accept packages from people you meet during your stay.
 
-**Firearms, Ammunition, and other weapons are not permitted in The Bahamas.** According to The Bahamas Firearms Act, individuals found to have a firearm or ammunition in their possession without a legally issued Bahamian gun license face a penalty of up to 10 years’ incarceration and $10,000 fine.  Declaring the weapon in your luggage with an airline carrier does not grant permission to bring the weapon into The Bahamas.
+**Weapons and ammunition:**
 
-If you have a firearm or ammunition onboard a boat entering Bahamian waters, you must declare it with Bahamian Customs at the first point of entry.  Only declared shotguns and handguns are allowed in Bahamian waters.  You must provide the serial number, name of the manufacturer, and an exact count of ammunition.  Declared firearms cannot be removed from your boat and must be kept locked at all times.
+Firearms and ammunition are illegal—including small quantities brought by mistake in carry-on bags or luggage. Police strictly enforce these laws—even at the airport when travelers are leaving.
 
-If a U.S. citizen illegally brings a firearm or ammunition into The Bahamas, the U.S. Embassy will not be able to secure their release.  All foreign nationals are subject to Bahamian law and must follow local law enforcement procedures.  Please read more information on the Department of State’s page for Travelers With Firearms [here](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/traveling-abroad-with-firearms.html).
+Travelers with firearms or ammunition can face arrest, jail time, and fines.
+
+Authorities have detained U.S. citizens for several days or more after finding firearms or ammunition, preventing them from leaving.
+
+Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Bahamas.html) for additional information on travel to The Bahamas.
 
 **Arrest Notification:**If you are arrested or detained, ask police or prison officials to notify the U.S. Embassy immediately. See our [webpage](https://travel.state.gov/content/travel/en/international-travel/emergencies/arrest-detention.html) for further information. Travelers should also be aware that Bahamian laws do not include a right to a public defender in lower courts. Any legal representation is at the expense of the visitor.
 

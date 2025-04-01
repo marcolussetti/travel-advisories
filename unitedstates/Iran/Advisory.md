@@ -1,6 +1,6 @@
 # Iran Travel Advisory
 
-### Travel Advisory August 14, 2024
+### Travel Advisory March 31, 2025
 
 ### Iran - Level 4: Do Not Travel
 
@@ -14,37 +14,46 @@
 [T](javascript:void(0); "Tool Tip: Terrorism")
 [C](javascript:void(0); "Tool Tip: Crimes")
 
-**Reissued after periodic review with minor edits.**
+***Updated to reflect changes to the “If you decide to travel to Iran” section, add warnings about Assisted Reproductive Technology (ART) and surrogacy, and updated information on detention risks.***
 
-Do not travel to Iran due to the risk of **terrorism, civil unrest, kidnapping,** **arbitrary arrest of U.S. citizens and wrongful detentions**.
+Do not travel to Iran due to the risk of **terrorism, civil unrest, kidnapping, arbitrary arrest of U.S. citizens,** and **wrongful detention.**
 
-**Country Summary:**U.S. citizens should not travel to Iran for any reason.
+**Country Summary:**Do not travel to Iran for any reason.U.S. citizens in Iran face serious dangers.  The U.S. government does not have diplomatic or consular relations with the Islamic Republic of Iran.  The Swiss government, acting through its Embassy in Tehran, serves as the protecting power for United States interests in Iran.  They have been kidnapped and wrongfully arrested.  Some have been held for years on false charges, subjected to psychological torture, and even sentenced to death.
 
-Iranian authorities continue to unjustly detain and imprison U.S. nationals, particularly dual U.S.-Iranian nationals--including students, journalists, business travelers, and academics--on charges including espionage and posing a threat to national security. Iranian authorities routinely delay consular access to detained U.S. nationals and consistently deny consular access to dual U.S.-Iranian nationals.
+**Detention of U.S. Nationals and Denial of Consular Access**
 
-Violent extremist groups, including U.S. government-designated terrorist organizations, operate in Iran. ISIS and affiliated groups have claimed responsibility for bombings and other attacks in Iran. The threat of terrorist activity persists, as does the risk of death or injury to bystanders.
+The Department of State has determined that U.S. nationals traveling to Iran are at significant risk of wrongful detention.  Iranian authorities continue to unjustly detain U.S. nationals without warning or any evidence they committed a crime.  This includes dual U.S.-Iranian nationals, students, journalists, business travelers, academics, and individuals with U.S. military or government experience.  Charges include espionage and posing a threat to national security.  U.S. nationals are at significant risk of questioning, arrest, and detention in Iran.  Having a U.S. passport or connections to the United States can be reason enough for Iranian authorities to detain someone.
 
-The U.S. government does not have diplomatic or consular relations with the Islamic Republic of Iran. The U.S. government is unable to provide routine or emergency consular services to U.S. citizens in Iran.
+Iranian authorities routinely delay consular access to detained U.S. nationals.  In particular, Iranian authorities consistently deny consular access to dual U.S.-Iranian nationals.
 
-Companies offering surrogacy services in Iran are misrepresenting the security situation in Iran and the risks of the unregulated surrogacy tourism industry. Private companies that arrange such visits and services put U.S. citizens in danger.
+**Terrorism**
 
-Due to the risks of operating civilian aircraft within or in the vicinity of Iran, the Federal Aviation Administration (FAA) has issued a Notice to Air Missions (NOTAM) and/or a Special Federal Aviation Regulation (SFAR). For more information U.S. citizens should consult the [Federal Aviation Administration’s Prohibitions, Restrictions and Notices](https://www.faa.gov/air_traffic/publications/us_restrictions/ "faa.gov").
+Violent extremist groups, including U.S. government-designated terrorist organizations, operate in Iran.  ISIS and related groups have taken responsibility for bombings and other attacks in the country.  The risk of terrorism and deadly harm to bystanders continues.
 
-Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Iran.html) for additional information on travel to Iran.
+**Assisted Reproductive Technology (ART) and Surrogacy**
 
-If you are currently in Iran:
+Companies offering surrogacy services in Iran are grossly misrepresenting the security situation in Iran and risks of the unregulated surrogacy tourism industry.  Private companies that organize these visits and services put U.S. citizens in danger.  Iranian surrogacy providers have also been known to misrepresent U.S. citizenship law; if a child born overseas to a surrogate is not genetically or gestationally related to a U.S. citizen parent or the spouse of a U.S. citizen, the child will not automatically acquire U.S. citizenship at birth and will not be able to obtain a U.S. passport to leave Iran.
 
-* Consider the risks involved in possessing dual [U.S. Iranian nationality](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/Dual-Nationality-Travelers.html).
-* Review your personal security plan and visit our website for [Travel to High-Risk Areas](https://travel.state.gov/content/passports/en/go/TraveltoHighRiskAreas.html).
-* Draft a will and designate appropriate insurance beneficiaries and/or power of attorney.
-* Discuss a plan with loved ones regarding care/custody of children, pets, property, belongings, non-liquid assets (collections, artwork, etc.), funeral wishes, etc.
-* Establish your own personal security plan in coordination with your employer or host organization or consider consulting with a professional security organization.
-* Leave DNA samples with your medical provider.
-* Have a plan for departing Iran that does not rely on U.S. government assistance.
-* Enroll in the [Smart Traveler Enrollment Program (STEP)](https://step.state.gov/) to receive Alerts and make it easier to locate you in an emergency.
-* Follow the Department of State on [Facebook](https://www.facebook.com/travelgov/ "facebook") and [Twitter/X](https://twitter.com/TravelGov "Twitter/X").
-* Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) related to your travel.
-* Prepare a contingency plan for emergency situations. Review the [Traveler’s Checklist](https://travel.state.gov/content/passports/en/go/checklist.html).
+**Aviation Safety Oversight**
+
+The Federal Aviation Administration (FAA) has issued a Notice to Airmen (NOTAM) and a Special Federal Aviation Regulation (SFAR) that bans U.S. flights to, from, or through Iran’s airspace.  This is due to risks to civil aviation operating within or near Iran.   U.S. citizens should consult the [Federal Aviation Administration’s Prohibitions, Restrictions and Notices for more information](https://www.faa.gov/air_traffic/publications/us_restrictions).
+
+Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Iran.html) for additional information on travel to Iran.
+
+**If you decide to travel to Iran:**
+
+* Visit our website for [Travel to High-Risk Areas](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/high-risk-travelers.html).
+* Consider the risks involved in having dual U.S.-Iranian nationality.
+* Review your personal security plan and visit our website for [Travel to High-Risk Areas](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/high-risk-travelers.html).
+* Draft a will and designate appropriate insurance beneficiaries or power of attorney.
+* Leave DNA samples with your medical provider in case it is necessary for your loved ones to access them.
+* Establish a proof of life protocol with your loved ones.  This is so that if you are taken hostage, your loved ones know specific questions (and answers) to ask the hostage-takers to be sure that you are alive (and to rule out a hoax).
+* Share important documents, login information, and points of contact with loved ones.  This is so that they can manage your affairs if you are unable to return as planned to the United States.  Review this [list](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-checklist.html) of documents to prepare for your trip.
+* Check local media for breaking events.  Be prepared to adjust your plans.
+* Have a plan for departing Iran that does not rely on U.S. government help.
+* Enroll in the [Smart Traveler Enrollment Program (STEP)](https://step.state.gov/) to receive alerts from the Department. It makes it easier to locate you in an emergency.
+* Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) related to your travel and return to the United States.
+* Prepare a backup plan for emergency situations.  Review the [Traveler’s Checklist](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-checklist.html).
 
 ### Travel Advisory Levels
 
