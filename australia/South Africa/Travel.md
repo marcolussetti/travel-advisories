@@ -42,19 +42,19 @@ To check the requirements for other situations, such as legal guardianship, unac
 
 #### Passport
 
-If travelling from other Southern African countries to South Africa, make sure you have at least two blank pages in your passport.
-
 #### Validity
+
+If travelling from other Southern African countries to South Africa, make sure you have at least two blank pages in your passport. Failure to comply could result in authorities refusing you entry, resulting in detention or being returned to your original point of entry.
+
+If travelling to multiple African countries on one trip, ensure you have enough blank pages to accommodate the requirements of all countries you plan to visit.
+
+The Australian Government does not set these rules. Check your passport’s expiry date before you travel. If you’re not sure it’ll be valid for long enough, consider getting [a new passport](https://www.passports.gov.au/).
 
 Some countries won’t let you enter unless your passport is valid for 6 months after you plan to leave that country. This can apply even if you’re just transiting or stopping over.
 
 Some foreign governments and airlines apply the rule inconsistently. Travellers can receive conflicting advice from different sources.
 
 You can end up stranded if your passport is not valid for more than 6 months.
-
-The Australian Government does not set these rules. Check your passport’s expiry date before you travel. If you’re not sure it’ll be valid for long enough, consider getting [a new passport](https://www.passports.gov.au/).
-
-Your passport must have at least 2 completely blank pages to endorse your entry permit on.
 
 If your passport doesn't comply with these requirements, authorities may stop you from boarding.
 
@@ -70,6 +70,8 @@ If your passport is lost or stolen, tell the Australian Government as soon as po
 * If you're overseas, contact the nearest [Australian embassy or consulate](http://dfat.gov.au/about-us/our-locations/missions/Pages/our-embassies-and-consulates-overseas.aspx).
 
 Carry copies of a recent passport photo with you. You may need to replace your passport while you're overseas.
+
+If your passport is lost while in transit the High Commission is limited in the amount of assistance it can provide. It is unlikely that border officials at the airports will contact the High Commission on your behalf. Officials may detain you until the next flight to your original point of entry.
 
 **More information:**
 

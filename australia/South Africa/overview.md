@@ -2,9 +2,7 @@
 
 Latest update
 
-We continue to advise exercise a high degree of caution in South Africa.   
-  
-South Africa is hosting the G20 in 2025. During the year there will be multiple meetings across the country, which may result in increased traffic and police presence.   
+We've reviewed our advice and continue to advise exercise a high degree of caution in South Africa. South Africa is hosting the G20 in 2025. During the year there will be multiple meetings across the country, which may result in increased traffic and police presence.   
   
 Protests and large gatherings can occur anywhere. Avoid areas affected by protests, demonstrations or large public gatherings. Monitor media for updates and follow advice from local authorities. Use major roads where it's safe to do so and verify that alternate routes recommended by your GPS are safe prior to travel. Express kidnappings happen in South Africa. Always be alert to your personal security and surroundings (see ‘Safety’).  
   
@@ -30,12 +28,12 @@ Exercise a high degree of caution in South Africa due to the threat of violent c
 
 * South Africa is hosting the G20 in 2025. During the year there will be multiple meetings across the country, which may result in increased traffic and police presence.
 * Protests and large gatherings can occur anywhere in South Africa at any time. Avoid protests and demonstrations. Use major roads where it's safe to do so and verify that alternate routes recommended by your GPS are safe before travel. Monitor local media and follow the advice of local authorities.
-* Crime and violence are serious issues across South Africa, including murder, rape, assault, food and drink spiking, robbery and carjacking. South Africa experiences more crime during its power cuts (load shedding), but crime can occur anytime, anywhere. Be particularly alert in major city centres and township areas and when travelling after dark. Crimes in South Africa often involve the use of weapons. Be alert to the potential risks around drink spiking and methanol poisoning through consuming alcoholic drinks. See our advice on [partying safely while overseas](https://www.smartraveller.gov.au/before-you-go/safety/partying#methanol).
+* Crime and violence are serious issues across South Africa, including murder, rape, assault, food and drink spiking, robbery and carjacking. South Africa experiences more crime during its power cuts (load shedding), but crime can occur anytime, anywhere. Be particularly alert in major city centres and township areas and when travelling after dark. Crimes in South Africa often involve the use of weapons. Be alert to the potential risks around drink spiking and methanol poisoning through consuming alcoholic drinks. See our advice on [partying safely while overseas](https://www.smartraveller.gov.au/before-you-go/safety/partying).
 * There's a threat of kidnapping across South Africa. Pay attention to your personal security.
 * Terrorism is a threat worldwide and can occur anywhere at any time. Be alert to possible threats, especially in public places and follow the advice of local authorities.
 * Opportunistic criminals also target travellers at the approaches to Kruger National Park, including Numbi Gate, and at the Lebombo/Komatipoort border. Criminals have also been targeting tourist vehicles at the approaches to Pilanesberg National Park and Sun City Resort.
 * Criminals target travellers and their bags at airports and on public transport. Vehicles parked or stopped at intersections are also targeted for 'smash and grab' thefts, armed robbery and hijacking. Criminals have posed as fake tourist police to extort and rob tourists.
-* ATM and credit card fraud are common. Criminals wait near ATMs to rob or identify and follow people who have withdrawn cash to rob elsewhere. Be aware of your surroundings, and only withdraw small amounts. Keep your credit card with you at all times.
+* ATM and credit card fraud are common. Criminals wait near ATMs to rob or identify and follow people who have withdrawn cash to rob elsewhere. Be aware of your surroundings and only withdraw small amounts of cash.
 * Respect local wildlife laws. Only use professional guides or tour operators. Follow park regulations and advice from wardens. Don't swim in lakes and rivers due to the risk of wildlife attacks and disease.
 
 Full travel advice: [Safety](#safety)
@@ -44,7 +42,7 @@ Full travel advice: [Safety](#safety)
 
 * HIV/AIDS infection rates are high in South Africa. Take steps to reduce your risk of exposure.
 * Malaria and other insect-borne diseases, such as filariasis, are common. Make sure your accommodation is insect-proof. Use insect repellent.
-* You must present a yellow fever vaccination certificate if you're over one year old and travelling from a country where yellow fever is widespread.
+* You must present a yellow fever vaccination certificate if you're over one year old and travelling from a country where yellow fever is widespread, including transiting through an airport for more than 12 hours.
 * Private hospitals are generally much better equipped than public facilities. Medical evacuation is your only option in remote areas.
 
 Full travel advice: [Health](#health)

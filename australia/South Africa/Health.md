@@ -69,9 +69,9 @@ Carry a copy of your prescription or a letter from your doctor stating:
 
 #### Yellow fever
 
-If you're travelling from a country where yellow fever is widespread, you'll need a valid yellow fever vaccination certificate to enter South Africa. This doesn't apply to a child aged under 1 year.
+If you're travelling from, or transiting for more than 12 hours through, a country where yellow fever is widespread, you'll need a valid yellow fever vaccination certificate to enter South Africa. This doesn't apply to a child aged under 1 year.
 
-If you can't show proof of vaccination, authorities may not let you enter.
+If you can't show proof of vaccination, or your vaccination was administered less than 10 days before departure, authorities may not let you enter.
 
 You can't get vaccinated when you arrive.
 

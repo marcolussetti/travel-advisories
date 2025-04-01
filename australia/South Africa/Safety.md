@@ -129,7 +129,7 @@ To prevent theft when travelling by car:
 
 #### Attacks against hikers
 
-There have been a number of attacks against hikers by criminals on hiking trails and in national parks and reserves. These have included Lions Head, Signal Hill and Table Mountain near Cape Town.
+There have been a number of attacks against hikers by criminals on hiking trails and in national parks and reserves. These have included, but are not limited to, Lions Head, Signal Hill and Table Mountain near Cape Town.
 
 To prevent attacks when hiking:
 
@@ -195,16 +195,16 @@ Social media can also be risky in destinations where there are social or politic
 
 #### Drink spiking and methanol poisoning
 
-Be alert to the potential risks around drink spiking and methanol poisoning through consuming alcoholic drinks. See our advice on [partying safely while overseas](https://www.smartraveller.gov.au/before-you-go/safety/partying#methanol).
+Be alert to the potential risks around drink spiking and methanol poisoning through consuming alcoholic drinks. See our advice on [partying safely while overseas](https://www.smartraveller.gov.au/before-you-go/safety/partying).
 
 Get urgent medical attention if you think you or someone else has been drugged.
 
-Methanol can be used in unregulated alcohol production to lower costs. Methanol is highly toxic. As little as one shot can be fatal. Act quickly if you suspect you, or someone you're travelling with, has been poisoned. [Urgent medical attention](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.smartraveller.gov.au%2Fwhile-youre-away%2Fwhen-things-go-wrong%2Fmedical-assistance&data=05%7C02%7Ctravel.advice%40dfat.gov.au%7C1a6539ec3139433d955108dd0ce9c732%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638680920391958681%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=EsUEa5rTBa0jz1cqQs89Egd9uR6xkZq8llmMqOeo7t0%3D&reserved=0) could save your life or save you from permanent disability. Report suspected cases of methanol poisoning to the police.
+Methanol can be used in unregulated alcohol production to lower costs. Methanol is highly toxic. As little as one shot can be fatal. Act quickly if you suspect you, or someone you're travelling with, has been poisoned. [Urgent medical attention](https://www.smartraveller.gov.au/while-youre-away/when-things-go-wrong/medical-assistance) could save your life or save you from permanent disability. Report suspected cases of methanol poisoning to the police.
 
 * be careful drinking cocktails and drinks made with spirits
 * drink only at reputable licensed premises
 * avoid home-made alcoholic drinks
-* labels on bottles aren't always accurate.
+* labels on bottles aren't always accurate
 
 **More information:**
 
@@ -255,9 +255,9 @@ There's a threat of kidnapping across South Africa. Foreigners have been kidnapp
 
 Express kidnappings happen in South Africa, particularly in Gauteng province; anyone can be targeted. Criminals may kidnap or threaten you to force you to withdraw large amounts of money from ATMs or banking applications on your phone.
 
-If, despite our advice, you travel to an area with a high risk of kidnapping, our ability to provide consular assistance in these destinations will be limited. 
+If, despite our advice, you travel to an area with a high risk of kidnapping, be aware that our ability to provide consular assistance in these destinations will be limited. 
 
-To reduce the risk of kidnapping: 
+You are responsible for your own safety. To reduce the risk of being kidnapped: 
 
 * always be alert to your personal security and surroundings
 * get professional security advice for travel in locations with a heightened kidnap risk
@@ -270,13 +270,13 @@ To reduce the risk of kidnapping: 
 * use ATMs inside banks, hotels and shopping centres and during daylight hours
 * avoid giving personal details to strangers online or over the phone
 * always use licensed taxi services
-* stay indoors until your taxi or ride share has arrived and confirm registration and driver identity before you get in.
+* stay indoors until your taxi or ride share has arrived and confirm registration and driver identity before you get in
 
 The Australian Government's longstanding policy is that it doesn't make payments or concessions to kidnappers. Ransom payments to kidnappers have funded further terrorist attacks and criminal activity. Ransom payments to terrorist groups are likely to contravene Australian counter-terrorism financing laws.
 
 See the 'Crime' section under '[Safety](#Safety)' for more details.
 
-**More information:** 
+More information on reducing your risk of being kidnapped**:** 
 
 * [Kidnapping](https://www.smartraveller.gov.au/before-you-go/safety/kidnapping)
 
@@ -308,6 +308,10 @@ Flash floods can occur across the country and can affect the following essential
 * emergency services
 
 Always check weather reports and news for updates and follow the advice of local authorities.
+
+Bushfires, also known as wildfires, is a generic term for forest fires, scrub fires, brush fires and grass fires. These usually occur during the driest months in the year. In South Africa, the fire season varies.
+
+Be aware of weather conditions when you are travelling, particularly in remote areas.
 
 If a [natural disaster](/before-you-go/safety/natural-disasters "Staying safe when there's a natural disaster") happens:
 
