@@ -1,11 +1,11 @@
 {
     "name": "Laos",
-    "update_reason": "Addition of information about an earthquake with strong tremors reported across Laos ('Warnings and insurance' page).",
+    "update_reason": "Removal of information about an earthquake with strong tremors reported across Laos ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Laos/Warnings and insurance.md",
-            "update_date": "2025-03-28T10:00:23+00:00"
+            "update_date": "2025-03-31T13:34:02+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Laos/Getting help.md"
         }
     ],
-    "update_date": "2025-03-28T10:00:23+00:00"
+    "update_date": "2025-03-31T13:34:02+01:00"
 }

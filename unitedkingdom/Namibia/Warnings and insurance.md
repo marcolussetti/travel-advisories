@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   1 April 2025
 
 Updated:
-:   5 March 2025
+:   31 March 2025
 
 Latest update:
-:   Updated information about new visa on arrival scheme for UK nationals (‘Entry requirements’ page).
+:   Updated information on cost of visa needed to enter Namibia (‘Entry requirements’ page).
 
 ## New visa on arrival scheme for UK nationals
 

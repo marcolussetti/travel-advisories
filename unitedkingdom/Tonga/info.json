@@ -1,11 +1,11 @@
 {
     "name": "Tonga",
-    "update_reason": "Updated information about Extreme weather and natural disasters following earthquake in region (\"Warnings and insurance page\").",
+    "update_reason": "Updated information following an earthquake in the region ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Tonga/Warnings and insurance.md",
-            "update_date": "2025-03-30T15:15:43+01:00"
+            "update_date": "2025-03-31T12:36:31+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Tonga/Getting help.md"
         }
     ],
-    "update_date": "2025-03-30T15:15:43+01:00"
+    "update_date": "2025-03-31T12:36:31+01:00"
 }

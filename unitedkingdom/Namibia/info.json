@@ -1,11 +1,11 @@
 {
     "name": "Namibia",
-    "update_reason": "Updated information about new visa on arrival scheme for UK nationals (\u2018Entry requirements\u2019 page).",
+    "update_reason": "Updated information on cost of visa needed to enter Namibia (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Namibia/Warnings and insurance.md",
-            "update_date": "2025-03-05T10:30:37+00:00"
+            "update_date": "2025-03-31T13:10:11+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Namibia/Getting help.md"
         }
     ],
-    "update_date": "2025-03-05T10:30:37+00:00"
+    "update_date": "2025-03-31T13:10:11+01:00"
 }

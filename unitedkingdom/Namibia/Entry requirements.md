@@ -16,7 +16,7 @@ You will be denied entry if you do not have a valid travel document or try to us
 
 From 1 April 2025 you will need a visa to visit Namibia. The Namibian authorities have launched a visa on arrival scheme, which is extended to UK passport holders.
 
-You can either apply for a visa on arrival when you arrive at a Port of Entry for Namibia, or you can apply online before you travel for an e-visa. For either route, the cost is 1,600 Namibian dollars per person, regardless of the age of the traveller. When granted a visa on arrival, you will receive a multiple entry visa valid for the period that you have requested.
+You can either apply for a visa on arrival when you arrive at a Port of Entry for Namibia, or you can apply online before you travel for an e-visa. For either route, the cost is 1,600 Namibian dollars for travellers over 11 years old.  Children between the ages of 11 to 6 will will be charged 800 Namibian dollars. Children under the age of 6 will not be charged a fee for a visa on arrival. When granted a visa on arrival, you will receive a multiple entry visa valid for the period that you have requested.
 
 If you plan to work or volunteer, or if you want to stay longer, you must apply for the appropriate visa. These categories are not covered by the visa on arrival process.
 
