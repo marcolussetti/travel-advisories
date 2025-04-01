@@ -1,7 +1,7 @@
 {
     "name": "South Korea",
-    "update_reason": "Natural disasters and climate \u2013 added information on wildfires in Geongsang Province",
-    "update_date": "2025-03-26T15:40:00",
+    "update_reason": "Natural disasters and climate \u2013 removed information on wildfires in Geongsang Province",
+    "update_date": "2025-03-31T06:58:00",
     "sections": {
         "risk": "canada/South Korea/risk.md",
         "security": "canada/South Korea/security.md",

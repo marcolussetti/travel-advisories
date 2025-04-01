@@ -2,17 +2,6 @@
 
 ## Natural disasters and climate
 
-### Earthquakes in Myanmar
-
-On March 28, 2025, a magnitude 7.7 earthquake struck central Myanmar, which also affected Yunnan, China.
-
-There are reports of aftershocks above a magnitude of 6, and more could occur.
-
-If you are in an affected area:
-
-* monitor local media
-* follow instructions from local authorities
-
 ### Climate change
 
 Climate change is affecting China. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local news to stay informed on the current situation.

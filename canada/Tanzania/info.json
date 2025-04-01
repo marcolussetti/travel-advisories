@@ -1,7 +1,7 @@
 {
     "name": "Tanzania",
-    "update_reason": "Safety and security \u2013 added information on Security threats in the coastal area and islands south of Kisiju",
-    "update_date": "2025-03-24T16:42:00",
+    "update_reason": "Health \u2013 Travel health notice for mpox added",
+    "update_date": "2025-03-31T15:27:00",
     "sections": {
         "risk": "canada/Tanzania/risk.md",
         "security": "canada/Tanzania/security.md",

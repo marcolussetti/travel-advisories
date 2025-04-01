@@ -2,24 +2,6 @@
 
 ## Safety and security
 
-### Balinese New Year
-
-The Balinese New Year (Nyepi), also known as the “Bali Day of Silence,” will take place on March 29, 2025. Bali island comes to a standstill for 24 hours, with no lights, music, nor noise; transport is halted, and everyone must stay home.
-
-Ngurah Rai International Airport in Bali will suspend operations from 6 am March 29 to 6 am March 30, 2025.
-
-Passengers who are in transit during this period will be required to stay inside the airport.
-
-Harbours and businesses in Bali will also be closed during this period
-
-Prepare ahead to have adequate food and water supplies, as hotels may not offer food service during Balinese New Year.
-
-During this period, you must:
-
-* observe 24 hours of silence
-* stay indoors and avoid overland travel
-* turn off all lights
-
 ### Indonesian Papua
 
 Political tension and regular violent incidents continue to occur in most of Indonesian Papua.

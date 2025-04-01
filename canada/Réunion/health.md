@@ -6,28 +6,11 @@
 
 * [Global Measles Notice](https://travel.gc.ca/travelling/health-safety/travel-health-notices/504) - 13 March, 2024
 * [COVID-19 and International Travel](https://travel.gc.ca/travelling/health-safety/travel-health-notices/513) - 13 March, 2024
+* [Chikungunya in Réunion](https://travel.gc.ca/travelling/health-safety/travel-health-notices/540) - 31 March, 2025
 
 This section has information and advice about health risks you might face when travelling. Following this advice can help reduce your risk of getting sick. Not all risks are listed here.
 
 It's best to talk to a healthcare provider or visit a travel health clinic preferably 6 weeks before your trip to get personalized health advice. Even if your travel date is coming up soon, it's still worthwhile to make an appointment.
-
-### Outbreak Monitoring
-
-#### Chikungunya in Réunion
-
-There is an outbreak of chikungunya on Réunion Island, with the municipalities of Etang Salé and Le Tampon reporting the highest numbers of cases. Chikungunya is caused by a virus that’s spread by infected mosquitoes, causing fever and joint pain. In some cases, the joint pain can last for months or even years.
-
-To protect yourself, avoid mosquito bites at all times, as the mosquitoes that spread chikungunya  can bite both day and night.
-
-[Insect bite and pest prevention](http://travel.gc.ca/travelling/health-safety/insect-bite)
-
-A vaccine for the prevention of chikungunya (IXCHIQ) is approved in Canada. Talk to your healthcare provider about how best to prevent chikungunya, including the benefits and risks of vaccination based on factors such as your age, itinerary and personal preferences.
-
-If you experience symptoms of chikungunya  such as rash, fatigue, nausea, vomiting, headache, or muscle pain while travelling or after returning home, seek medical attention and inform your healthcare provider where you have been.
-
-**Learn more:**
-
-[Chikungunya](https://www.canada.ca/en/public-health/services/diseases/chikungunya.html)
 
 ### Routine vaccines
 
