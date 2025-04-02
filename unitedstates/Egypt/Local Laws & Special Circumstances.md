@@ -2,63 +2,110 @@
 
 [#### Local Laws & Special Circumstances](javascript:void(0); "Local Laws & Special Circumstances")
 
-**Criminal Penalties:** Travelers are subject to local laws. The Egyptian legal system is different from the legal system in the United States, with significantly different standards of evidence, due process, and rule of law. Travelers should be conscious of their behavior and how it may be interpreted by Egyptian authorities. If one violates local laws, even unknowingly, one may be denied entry, expelled, arrested, or imprisoned. Individuals establishing a business or practicing a profession that requires additional permits, or licensing should seek information from the competent local authorities, prior to practicing or operating a business.
+**Criminal penalties**
 
-* Egyptian police and security forces do not require probable cause in order to stop, question, and detain individuals. Failure to carry proper identification, such as a passport, may result in detention and questioning.
-* Suspects may be detained without charges or access to immediate legal counsel for months during the investigative stage of a criminal case.
-* U.S. citizens have been detained for several days or more in non-criminal cases, including immigration violations.
-* Local laws prohibit protesting or demonstrating without a permit. Even being in the vicinity of anti-government protests can draw scrutiny from Egyptian police or security forces, including demands to search personal electronic devices. U.S. citizens have been detained for posting content on social media perceived as critical of Egypt or its allies.
-* Punishments often can be harsher in Egypt for comparable crimes than they are in the United States. Penalties for drug offenses can be particularly severe, including life in prison or the death penalty.
+U.S. citizens must follow local laws. If you break a law, even by mistake, you can be expelled, arrested, or jailed.
 
-Furthermore, some laws are also prosecutable in the United States, regardless of local law. For examples, see our website on [crimes against minors abroad](http://travel.state.gov/content/passports/en/emergencies/arrest/criminalpenalties.html) and the [Department of Justice](http://www.justice.gov/usam/criminal-resource-manual-1617-extraterritorial-criminal-jurisdiction-18-usc-112-878-970-1116) website.
+* If you’re starting a business or a licensed profession, you must seek information from local authorities before operating.
+* Egyptian police can stop, question, and detain people without cause. Not carrying proper ID, like a passport, may result in detention and questioning.
+* Suspects can be held for months without charges. You may not have access to immediate legal counsel during criminal investigations.
+* U.S. citizens have been detained for several days in non-criminal cases, including immigration issues.
+* Local laws require permits for protests. Being near anti-government demonstrations can attract police attention, including searches of personal devices. U.S. citizens have been detained for posting content on social media seen as critical of Egypt or its allies.
+* Punishments in Egypt often can be harsher than in the United States. For example, drug offenses carry severe penalties, including life in prison or the death penalty.
 
-**Arrest Notification:**If you are arrested or detained, ask police or prison officials to notify the U.S. Embassy immediately. See our [webpage](http://travel.state.gov/content/passports/english/emergencies/arrest.html) for further information.
+You may be prosecuted in the U.S. for crimes committed abroad regardless of local laws.
 
-**Dual U.S.-Egyptian Citizens*:*** Egyptian law considers dual nationals to be Egyptian citizens and thus the Egyptian authorities do not automatically notify the U.S. Embassy when a dual national is detained, or provide information about their alleged crime. Family members, friends, and/or traveling companions may notify the ACS Unit at U.S. Embassy Cairo if the arrested U.S. citizen is unable to do so. U.S. citizenship does not provide protection from detention or arrest by Egyptian authorities and individuals detained may be subjected to prolonged interrogations and extended detention.  U.S. citizens arrested for any reason in Egypt may be deported, even if they are not convicted of a crime.  Detained U.S.-Egyptian citizens have been asked by the Government of Egypt to renounce their Egyptian citizenship as a condition of their deportation to the United States.
+For more information, read [crimes against minors abroad](https://travel.state.gov/content/travel/en/international-travel/emergencies/arrest-detention/crimes-against-minors.html) and resources from the [Department of Justice.](https://www.justice.gov/criminal/criminal-ceos/extraterritorial-sexual-exploitation-children)
 
-Consular officers must obtain authorization from Egyptian authorities to visit American detainees.
+**Arrest notification**
 
-**Currency:**
+If you are [arrested or detained](https://travel.state.gov/content/travel/en/international-travel/emergencies/arrest-detention.html), ask police or prison officials to inform the U.S. Embassy immediately.  Arrested individuals should avoid signing untranslated documents from the police that they do not understand.
 
-* Entering or exiting Egypt with more than $10,000 is prohibited. Attempting to enter or depart Egypt with any instruments of currency in the sum of more than $10,000 could result in the confiscation of the money over $10,000 and other penalties.
+**Dual U.S.-Egyptian citizens**
 
-**Drones:**
+Egyptian law considers dual U.S.-Egyptian nationals to be Egyptian citizens.
 
-Importation of all types of drones, including small civilian drones used for personal or touristic purposes is strictly prohibited. Potential penalties for violating are harsh, and a recently passed law authorizes the death penalty for using a drone in support of terrorist activity.
+Egyptian authorities will not notify the Embassy if a dual national is detained. They will not provide information to the United States about the alleged crime. Additionally, consular officers must obtain authorization from Egyptian authorities to visit U.S. citizen detainees.
 
-**Counterfeit and Pirated Goods:** Although counterfeit and pirated goods are prevalent in many countries, they may still be illegal according to local laws. You may also pay fines or have to give them up if you bring them back to the United States. See the [U.S. Department of Justice website](https://www.justice.gov/criminal-ccips) for more information.
+* Family members or friends can notify the ACS Unit at U.S. Embassy Cairo if the arrested U.S. citizen is unable to.
+* U.S. citizenship doesn’t protect you against detention or arrest by Egyptian authorities. You could face prolonged interrogations and detention.
+* U.S. citizens arrested in Egypt can be deported, even without a conviction.
+* The Government of Egypt has asked detained U.S.-Egyptian citizens to give up their Egyptian citizenship to be deported to the U.S.
 
-**Cultural Property:**Travelers should note that Egyptian law prohibits the unauthorized removal of antiquities (including historic coins, ceramics, and architectural elements) both from archaeological sites and other sources in Egypt. Egyptian law also forbids the intentional damaging of antiquities, such as inscribing or painting on them or attaching advertisements. The trade, sale, or export in antiquities is also heavily restricted and regulated. Travelers may be prosecuted if found to be looting or damaging archaeological sites, buying antiquities, or smuggling antiquities out of Egypt. Penalties include fines and/or imprisonment.
+**Currency**
 
-**Faith-Based Travelers:** See the following webpages for details:
+Bringing more than $10,000 into or out of Egypt is illegal. If you do, the extra money may be taken, and you could face other penalties.
+
+Egypt places limits on the quantity of gold that individuals may import into Egypt.
+
+**Drones**
+
+Bringing any type of drone to Egypt, including small personal ones, is strictly prohibited. Violating this rule can lead to severe penalties. This includes the death penalty for using a drone to support terrorists.  Drones may be confiscated and not returned.
+
+**Counterfeit and pirated goods**
+
+Counterfeit and pirated goods are common but may be illegal according to local laws.
+
+* They may pose significant risks to consumer health and safety.
+* You could get fined or forced to give your goods to the authorities if you try to bring them back into the U.S.
+
+[The Truth Behind Counterfeits (source: U.S. Customs and Boarder Protection)](https://www.cbp.gov/trade/fakegoodsrealdangers)
+
+**Cultural property**
+
+Egyptian law is strict on antiquities. This includes historic coins, ceramics, and architectural elements.
+
+* It is illegal to remove antiquities from archaeological sites and other places in Egypt.
+* Intentional damage to antiquities, such as inscribing, painting, or attaching ads, is illegal.
+* The trade, sale, or export of antiquities is heavily regulated.
+* Travelers can be prosecuted for looting, damaging, showing disrespect at cultural or governmental sites, or smuggling antiquities out of Egypt. Buying antiquities is also illegal. Penalties include fines and/or imprisonment:
+
+**Faith-based travelers**
 
 * [Faith-Based Travel information](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/faith-based-travel.html)
-* [International Religious Freedom Report](https://www.state.gov/international-religious-freedom-reports/)— see country reports
-* [Human Rights Report](https://www.state.gov/reports-bureau-of-democracy-human-rights-and-labor/country-reports-on-human-rights-practices/)— see country reports
+* [International Religious Freedom Report](https://www.state.gov/international-religious-freedom-reports/)— review country reports
+* [Human Rights Report](https://www.state.gov/reports-bureau-of-democracy-human-rights-and-labor/country-reports-on-human-rights-practices/)— review country reports
 * [Hajj Fact Sheet for Travelers](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/hajj-umrah.html)
 
-**International Volunteers:**
+**International volunteers**
 
-* [Best Practices for Volunteering Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/volunteering-abroad.html)
+[Best Practices for Volunteering Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/volunteering-abroad.html)
 
-**LGB Travelers:** LGB individuals face significant social stigma and discrimination in Egypt. Egyptian law does not criminalize same-sex sexual activity, but LGB persons and advocacy groups have reported harassment, intimidation, arrests, and other forms of abuse, including by police. There are also reports that authorities have used social media, dating websites, and cell phone apps to entrap persons suspected of being LGB in an act of “debauchery,” which is a criminal offense that carries sentences of up to 10 years. Police have confiscated rainbow flags and sometimes detained their owners. See our LGB Travel Information page and sections 1c and 6 of our Human Rights report for further details.
+**LGB travelers**
 
-See our [LGB Travel Information](http://travel.state.gov/content/passports/english/go/lgbt.html) page and section six of our [Human Rights report](http://www.state.gov/j/drl/rls/hrrpt/) for details.
+LGB individuals face significant discrimination in Egypt.
 
-**ACCESSIBILITY:** While in Egypt, individuals with disabilities may find accessibility and accommodation very different from in the United States. Businesses and institutions in Egypt generally do not make special accommodations for persons with disabilities, and Egyptian authorities do not enforce laws mandating access to transportation, communication, and public buildings by persons with disabilities. Pedestrian sidewalks and walkways are limited, uneven, high, and sometimes used by cars and motorcycles.
+* Same-sex relationships are not illegal. But many report harassment and arrests, often by the police.
+* Authorities have been known to use social media and dating apps to trap suspected LGB people for “debauchery,” a crime that can lead up to 10 years in prison. Police have also confiscated rainbow flags and detained their owners.
 
-Accommodations on public transportation are not offered for elderly individuals or persons with disabilities. Crosswalks are not in widespread use and motorists have the right of way. Pedestrians should exercise extreme caution.
+[LGB Travel Information](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/lgbtqi.html)
 
-**Students:** See the [Students Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/students.html) page and [FBI travel tips](https://www.fbi.gov/file-repository/student-travel-brochure-pdf.pdf/view).
+[Human Rights Report for [Country name]](https://www.state.gov/reports-bureau-of-democracy-human-rights-and-labor/country-reports-on-human-rights-practices/?) (See section 6)
 
-**Women Travelers:** Many women travel safely each year without incident. However, when it comes to health and security, women travelers are more likely to be affected by religious and cultural beliefs of the foreign countries they visit. The truth is that women face greater obstacles, especially when travelling alone.
+**Travelers with disabilities**
 
-Women, especially those traveling alone, should exercise particular care in crowds, on public transportation, in rural areas, and in isolated sections of temple and pyramid complexes. Women have been groped in taxis and while in public places.  
-  
-Women travelling alone or with children, including Westerners and U.S. citizens, may be stopped, questioned, or harassed by authorities for travelling without a male companion. Women and men of Egyptian heritage requesting overnight stay in hotel room may be asked to provide a marriage certificate to verify their relationship.
+Travelers with disabilities may find accessibility and accommodation difficult.
 
-The Embassy continues to receive reports of U.S. citizen women subject to domestic violence, sexual harassment, verbal abuse, and rape in Egypt.
+* Most businesses and public places lack access for people with disabilities. Laws requiring access to transportation and communication aren't enforced.
+* Sidewalks can be limited, uneven, and sometimes used by cars and motorcycles.
+* Public transportation doesn’t have accommodations for the elderly or those with disabilities. Crosswalks are rare, and drivers have the right of way, so pedestrians should be very cautious.
 
-Some Egyptian NGOs provide assistance to victimized women within the Egyptian community. Women victimized overseas may be entitled to receive compensation for counseling and/or other services such as relocating back to the United States.
+**Students**
 
-Find more information about the specific risks that women face in Egypt through our [Egypt Travel Advisory](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/egypt-travel-advisory.html), the [Country Security Report](https://www.osac.gov/Content/Report/f9535564-b44b-40f6-971b-1c31033d9a55), and see our travel tips for [Women Travelers](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/women-travelers.html).
+* [Students Abroad Travel Tips](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/students.html)
+* [FBI Travel Tips](https://ucr.fbi.gov/investigate/counterintelligence/student-brochure)
+
+**Women travelers**
+
+Women traveling in Egypt may face unique health and security challenges:
+
+* Avoid traveling alone.
+* Exercise caution in crowds, on public transportation, in rural areas, and in isolated sections of temples and pyramids.  The Cairo metro has separate cars for women which may reduce the possibility of harassment.
+* Groping has been reported in taxis and public places.
+* Women traveling alone or with children may be stopped, questioned, or harassed by authorities for not traveling with a male companion.
+* Egyptian men and women may need to show a marriage certificate to prove their relationship when checking into hotels.
+* The Embassy receives reports of U.S. citizen women experiencing domestic violence, sexual harassment, verbal abuse, and rape in Egypt.
+
+Some Egyptian NGOs support affected women. Victims may qualify for compensation, counseling, or relocation to the United States.
+
+Find more information about the specific risks that women face in Egypt through the [Country Security Report](https://www.osac.gov/Content/Report/f9535564-b44b-40f6-971b-1c31033d9a55) and our travel tips for [Women Travelers](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/women-travelers.html).

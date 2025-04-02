@@ -528,7 +528,7 @@
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/egypt-travel-advisory.html",
         "risk_level_number": 3,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Egypt.html",
-        "last_updated_country_details": "2025-01-21T00:00:00"
+        "last_updated_country_details": "2025-04-01T00:00:00"
     },
     {
         "destination": "El Salvador",
@@ -1883,7 +1883,7 @@
     {
         "destination": "Yemen",
         "risk_level": "Level 4: Do Not Travel",
-        "last_updated_advisory": "2025-02-26T00:00:00",
+        "last_updated_advisory": "2025-03-31T00:00:00",
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/yemen-travel-advisory.html",
         "risk_level_number": 4,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Yemen.html",

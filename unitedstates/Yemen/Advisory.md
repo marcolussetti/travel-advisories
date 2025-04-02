@@ -1,6 +1,6 @@
 # Yemen Travel Advisory
 
-### Travel Advisory February 26, 2025
+### Travel Advisory March 31, 2025
 
 ### Yemen - Level 4: Do Not Travel
 
@@ -14,7 +14,7 @@
 [T](javascript:void(0); "Tool Tip: Terrorism")
 [C](javascript:void(0); "Tool Tip: Crimes")
 
-*Reissued after periodic review with minor edits related to terrorism and security****.***
+***Reissued after periodic review with minor edits related to terrorism and security.***
 
 Do not travel to Yemen due to **terrorism, civil unrest, crime, health risks, kidnapping, armed conflict,**and**landmines**.
 

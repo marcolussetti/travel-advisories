@@ -2,26 +2,67 @@
 
 [#### Travel and Transportation](javascript:void(0); "Travel and Transportation")
 
-**Traffic Laws:** Although the enforcement of traffic laws generally is lax, foreigners are subject to extra scrutiny and driving under the influence of alcohol or drugs could result in arrest or detainment.
+**Traffic laws**
 
-**Road Conditions and Safety:** Driving in Egypt is extremely hazardous. Egypt has one of the highest occurrences of road fatalities per mile driven in the world. Intercity roads are generally in good condition, but unmarked surfaces, pedestrians, stray animals, sandstorms and fog, vehicles without lights, and disabled vehicles without reflectors are among the many hazards present on highways, especially after dark.
+Traffic laws in Egypt are not strictly enforced. But foreigners may face extra scrutiny. Driving under the influence of alcohol or other drugs could result in arrest or detainment.
 
-Driving Cairo’s busy maze of streets can be an extreme challenge to foreigners, especially those used to a culture of structured rules and regulations. Even residents of Cairo must use extreme care and situational awareness to navigate the capital’s hectic streets. Impatient drivers typically ignore traffic rules, which police seldom enforce. Most traffic lights in Cairo do not function; instead, police officers, using finger and hand movements to direct traffic, normally staff the main intersections.
+**Road conditions and safety**
 
-Vehicle accidents remain a significant safety concern.
+Driving in Egypt is extremely dangerous:
 
-Visitors thinking about driving in Egypt should carefully consider other options, such as a taxi or hired driver. If visitors decide to drive, it is essential that they take the utmost precautions and drive defensively. Drivers should be prepared for unlit vehicles at night, few road markings, vehicles traveling at high rates of speed, vehicles traveling the wrong way on one-way streets, divided highways, and connecting ramps, pedestrians dodging in and out of traffic, and domesticated animals on the roadways. Motorists should be especially cautious during the rare winter rains, which can cause extremely slippery road surfaces and localized flooding; Egyptian drivers are not familiar with driving in wet conditions, making such periods particularly hazardous.
+Egypt has one of the highest rates of road deaths in the world due to:
 
-Pedestrians should also exercise extreme caution on high-volume/high-velocity streets, like Cairo’s Corniche, which follows the eastern bank of the Nile River, and Alexandria’s Corniche along the Mediterranean.
+* Unmarked surfaces
+* Pedestrians and animals crossing streets
+* Speed bumps along major highways
+* Sandstorms and fog
+* Vehicles without lights
+* Vehicles without reflectors
 
-**Public Transportation:** Public buses and microbuses are not safe, and Embassy personnel are prohibited from using them. Embassy personnel are prohibited from traveling by train, the only exception being the train between Cairo and Alexandria. In general, train travel is a particularly unsafe means of transportation, with regular accidents that sometimes involve mass casualties.
+Driving in Cairo can be very challenging for foreigners used to strict traffic rules. Even locals must stay alert in chaotic streets. Impatient drivers often ignore traffic rules, which police rarely enforce.
 
-Embassy personnel are generally prohibited from traveling outside the greater Cairo and Alexandria areas by motor vehicle, with the exception of travel to beach resorts on the western side of the Red Sea and near Alexandria. Furthermore, Embassy policy prohibits personal travel via privately-owned vehicle to any part of the Sinai Peninsula. Embassy personnel may travel to the Western Desert with a professionally licensed tour company and not with a privately-owned vehicle. Overland travel to Siwa Oasis is approved for Embassy personnel along the northern route by privately-owned vehicle.
+Most traffic lights in Cairo don’t work. Instead, police direct traffic using hand signals.
 
-Please refer to our [Road Safety page](https://travel.state.gov/content/travel/en/international-travel/before-you-go/other-legal/driving-and-road-safety.html) for more information.
+Vehicle accidents are a major safety concern.
 
-**AVIATION SAFETY OVERSIGHT:**The U.S. Federal Aviation Administration (FAA) has assessed the government of Egypt’s Civil Aviation Authority as being in compliance with International Civil Aviation Organization (ICAO) aviation safety standards for oversight of Egypt’s air carrier operations. Further information may be found on the [FAA’s safety assessment page](http://www.faa.gov/about/initiatives/iasa/).
+Consider using taxis or hired drivers instead of driving yourself.
 
-**Maritime Travel:**Mariners planning travel to Egypt should check for U.S. maritime advisories and alerts at the [Maritime Security Communications with Industry Web Portal](http://www.marad.dot.gov/msci). Information may also be posted to the [U.S. Coast Guard homeport website](https://homeport.uscg.mil/) and as a broadcast warning on the [National Geospatial-Intelligence Agency’s website](https://homeport.uscg.mil/).   
-  
+If you choose to drive:
+
+* Take extreme precautions and drive defensively.
+* At night, be ready for unlit vehicles, few road signals, and high-speed traffic. Watch for wrong-way drivers, pedestrians, and animals in the streets.
+* Be especially cautious during rare winter rains, which can create slippery roads and flooding.
+* Egyptian drivers are not familiar with driving in wet conditions, making this even more dangerous.
+
+Pedestrians should also be careful on busy streets, like Cairo’s Corniche and Alexandria’s Corniche along the Mediterranean.
+
+**Public transportation**
+
+Public buses, Nile taxis, microbuses and trains are not safe. Train travel in Egypt has regular accidents involving mass casualties.  There have been multiple fatal accidents involving tourist boats along the Red Sea coast of Egypt, specifically boats used for scuba-diving trips.
+
+**Embassy employees transport**
+
+Due to security risks, U.S. Embassy employees are prohibited from:
+
+* Using buses, microbuses or trains (except the train from Cairo and Alexandria).
+* Traveling outside the greater Cairo and Alexandria areas by car. This is except for travel to beach resorts on the western side of the Red Sea and near Alexandria.
+* Traveling via privately-owned vehicles to any part of the Sinai Peninsula.
+* Traveling to the Western Desert with a privately owned vehicle. Embassy personnel may travel with a professionally licensed tour company.
+
+Embassy personnel may travel to Siwa Oasis by the northern route, in a private vehicle
+
+Please refer to our [Road Safety page](https://travel.state.gov/content/travel/en/international-travel/before-you-go/other-legal/driving-and-road-safety.html) for more information.
+
+**Aviation safety oversight**
+
+The U.S. Federal Aviation Administration (FAA) has assessed the government of Egypt’s Civil Aviation Authority as compliant with International Civil Aviation Organization (ICAO) aviation safety standards for oversight of Egypt’s air carrier operations. Further information may be found on the [FAA’s safety assessment page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Egypt.html#ExternalPopup).
+
+**Maritime travel**
+
+* U.S. Maritime Advisories and Alerts (source: U.S Department of Transportation)
+* U.S. Coast Guard Homeport (source: U.S. Coast Guard)
+* NGA Broadcast Warnings (source: National Geospatial-Intelligence Agency)
+
+Mariners planning travel to Egypt should also check for U.S. maritime advisories and alerts on the Maritime Administration website. Information may also be posted to the websites of the U.S. Coast Guard and the National Geo-space Intelligence Agency (select “broadcast warnings”).    
+   
 The Commandant of the U.S. Coast Guard is unable to determine if effective anti-terrorism measures are in place in Egypt ports as required by 46 U.S. Code § 70108.

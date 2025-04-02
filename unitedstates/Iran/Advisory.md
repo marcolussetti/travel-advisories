@@ -18,9 +18,7 @@
 
 Do not travel to Iran due to the risk of **terrorism, civil unrest, kidnapping, arbitrary arrest of U.S. citizens,** and **wrongful detention.**
 
-**Country Summary:**Do not travel to Iran for any reason.U.S. citizens in Iran face serious dangers.  The U.S. government does not have diplomatic or consular relations with the Islamic Republic of Iran.  The Swiss government, acting through its Embassy in Tehran, serves as the protecting power for United States interests in Iran.  They have been kidnapped and wrongfully arrested.  Some have been held for years on false charges, subjected to psychological torture, and even sentenced to death.
-
-**Detention of U.S. Nationals and Denial of Consular Access**
+**Country Summary:** Do not travel to Iran for any reason.U.S. citizens in Iran face serious dangers. They have been kidnapped and wrongfully arrested. Some have been held for years on false charges, subjected to psychological torture, and even sentenced to death. The U.S. government does not have diplomatic or consular relations with the Islamic Republic of Iran. The Swiss government, acting through its Embassy in Tehran, serves as the protecting power for United States interests in Iran.
 
 The Department of State has determined that U.S. nationals traveling to Iran are at significant risk of wrongful detention.  Iranian authorities continue to unjustly detain U.S. nationals without warning or any evidence they committed a crime.  This includes dual U.S.-Iranian nationals, students, journalists, business travelers, academics, and individuals with U.S. military or government experience.  Charges include espionage and posing a threat to national security.  U.S. nationals are at significant risk of questioning, arrest, and detention in Iran.  Having a U.S. passport or connections to the United States can be reason enough for Iranian authorities to detain someone.
 
@@ -42,9 +40,8 @@ Read the [country information page](https://travel.state.gov/content/travel/en/i
 
 **If you decide to travel to Iran:**
 
-* Visit our website for [Travel to High-Risk Areas](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/high-risk-travelers.html).
+* Review your personal security plan and visit our website for [Travel to High-Risk Areas](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/high-risk-travelers.html).
 * Consider the risks involved in having dual U.S.-Iranian nationality.
-* Review your personal security plan and visit our website for [Travel to High-Risk Areas](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/high-risk-travelers.html).
 * Draft a will and designate appropriate insurance beneficiaries or power of attorney.
 * Leave DNA samples with your medical provider in case it is necessary for your loved ones to access them.
 * Establish a proof of life protocol with your loved ones.  This is so that if you are taken hostage, your loved ones know specific questions (and answers) to ask the hostage-takers to be sure that you are alive (and to rule out a hoax).
