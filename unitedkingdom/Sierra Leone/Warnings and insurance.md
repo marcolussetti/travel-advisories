@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   2 April 2025
 
 Updated:
-:   9 December 2024
+:   1 April 2025
 
 Latest update:
-:   Updated information about political situation in Sierra Leone ('Safety and security' page)
+:   New information on land ownership disputes (‘Safety and security’ page).
 
 ## Before you travel
 

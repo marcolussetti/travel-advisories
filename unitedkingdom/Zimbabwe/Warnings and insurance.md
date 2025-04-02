@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   29 March 2025
+:   2 April 2025
 
 Updated:
-:   28 March 2025
+:   1 April 2025
 
 Latest update:
-:   Update with information on possible demonstrations on 31 March ('Safety and security' page).
+:   Removal of information on possible demonstrations on 31 March ('Safety and security' page).
 
 ## Before you travel
 

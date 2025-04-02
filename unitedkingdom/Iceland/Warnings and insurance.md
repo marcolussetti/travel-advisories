@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   2 April 2025
 
 Updated:
-:   17 March 2025
+:   1 April 2025
 
 Latest update:
-:   Update to information on expected rollout of the EU Entry/Exit System (EES) (‘Entry requirements’ page).
+:   Addition of information with the most recent eruption on the Reykjanes peninsula on 1 April ('Safety and security' page).
 
 ## Volcanic eruptions
 

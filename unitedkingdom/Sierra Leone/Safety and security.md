@@ -53,6 +53,10 @@ Do not become involved with drugs of any kind. There are heavy penalties for dru
 
 There are heavy penalties for diamond smuggling, including prison sentences.
 
+### Land ownership disputes
+
+Land registry records are sometimes disputed and can lead to land disputes, where more than one person claims rights to the same land. Disputes can lead to threats of violence. If you are concerned about land ownership, seek independent legal advice and contact the Anti-Land Grabbing Unit of the Sierra Leone Police. The British High Commission cannot intervene with disputes or investigate ownership claims.
+
 ### Taking photographs and filmmaking
 
 Do not take pictures of military installations or any other official government buildings, including prisons and courthouses. There have been instances where individuals have been arrested for doing so.

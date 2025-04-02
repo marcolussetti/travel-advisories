@@ -90,7 +90,7 @@ Find out what you can do to [prepare for and respond to extreme weather and natu
 
 Volcanic eruptions and earthquakes are common in Iceland given the country’s natural geography. In the event of an eruption or wider seismic activity follow the latest advice issued by the authorities.
 
-Recently there has been a series of volcanic eruptions on the Reykjanes peninsula in south-west Iceland, the latest on 20 November. These have affected the town of Grindavik and the area to the north of it. Keflavik International Airport and the road to it is unaffected and operating normally. The capital city, Reykjavik, and the rest of Iceland is not affected by these recent eruptions.
+Recently there has been a series of volcanic eruptions on the Reykjanes peninsula in south-west Iceland, the latest on 1 April. These have affected the town of Grindavik and the area to the north of it. Keflavik International Airport and the road to it is unaffected and operating normally. The capital city, Reykjavik, and the rest of Iceland is not affected by these recent eruptions.
 
 It is likely there will be further eruptions in this location. Monitor local media for updates and always follow the authorities’ advice on travel to the area.
 
