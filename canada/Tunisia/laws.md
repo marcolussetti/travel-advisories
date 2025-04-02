@@ -99,7 +99,7 @@ Special permits may be required for certain types of goods. You should consult t
 
 The majority of the population is Muslim. Dress conservatively, and respect religious and social traditions to avoid offending the local population.
 
-In 2025, the lunar month of Ramadan is expected to begin on or around February 28.
+In 2026, the lunar month of Ramadan is expected to begin on or around February 17.
 
 In public, between sunrise and sunset, be discreet when:
 

@@ -43,7 +43,7 @@ You need to apply for an ETA before travelling to the UK. You must travel on the
 
 You do not need an ETA if:
 
-* you are transiting through an airport in in the UK without passing border control
+* you are transiting through an airport in the UK without passing border control
 * you are a dual national travelling on your British, Irish, or British overseas territories citizen passport
 * you have a visa or permission to live, work or study in the UK
 * you live in Ireland and you are travelling from Ireland, Guernsey, Jersey or the Isle of Man

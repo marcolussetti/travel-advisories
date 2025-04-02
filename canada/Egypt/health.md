@@ -32,6 +32,42 @@ There is a risk of [hepatitis A](https://www.canada.ca/en/public-health/services
 
 Practise [safe food and water precautions](https://travel.gc.ca/travelling/health-safety/food-water) and wash your hands often. Vaccination is recommended for all travellers to areas where hepatitis A is present.
 
+Measles 
+
+[Measles](https://www.canada.ca/en/public-health/services/diseases/measles.html) is a highly contagious viral disease. It can spread quickly from person to person by direct contact and through droplets in the air.
+
+Anyone who is not protected against measles is at risk of being infected with it when travelling internationally.
+
+Regardless of where you are going, talk to a health care professional before travelling to make sure you are fully protected against measles.
+
+Hepatitis B
+
+[Hepatitis B](https://www.canada.ca/en/public-health/services/diseases/hepatitis-b.html) is a risk in every destination. It is a viral liver disease that is easily transmitted from one person to another through exposure to blood and body fluids containing the hepatitis B virus.  Travellers who may be exposed to blood or other bodily fluids (e.g., through sexual contact, medical treatment, sharing needles, tattooing, acupuncture or occupational exposure) are at higher risk of getting hepatitis B.
+
+Hepatitis B vaccination is recommended for all travellers. [Prevent hepatitis B](https://www.canada.ca/en/public-health/services/diseases/hepatitis-b/prevention-risks.html#a2) infection by practicing safe sex, only using new and sterile drug equipment, and only getting tattoos and piercings in settings that follow public health regulations and standards.
+
+COVID-19
+
+[Coronavirus disease (COVID-19)](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html) is an infectious viral disease. It can spread from person to person by direct contact and through droplets in the air.
+
+It is recommended that all eligible travellers complete a COVID-19 vaccine series along with any additional recommended doses in Canada before travelling. Evidence shows that vaccines are very effective at preventing severe illness, hospitalization and death from COVID-19. While vaccination provides better protection against serious illness, you may still be at risk of infection from the virus that causes COVID-19. Anyone who has not completed a vaccine series is at increased risk of being infected with the virus that causes COVID-19 and is at greater risk for severe disease when travelling internationally.
+
+Before travelling, verify your destination’s COVID-19 vaccination entry/exit requirements. Regardless of where you are going, talk to a health care professional before travelling to make sure you are adequately protected against COVID-19.
+
+Influenza
+
+ The best way to protect yourself from seasonal [influenza](https://www.canada.ca/en/public-health/services/diseases/flu-influenza.html) (flu) is to get vaccinated every year. [Get the flu shot](https://www.canada.ca/en/public-health/services/diseases/flu-influenza/get-your-flu-shot.html) at least 2 weeks before travelling.
+
+ The flu occurs worldwide.
+
+* In the Northern Hemisphere, the flu season usually runs from November to   April.
+* In the Southern Hemisphere, the flu season usually runs between April and   October.
+* In the tropics, there is flu activity year round.
+
+The flu vaccine available in one hemisphere may only offer partial protection against the flu in the other hemisphere.
+
+The flu virus spreads from person to person when they cough or sneeze or by touching objects and surfaces that have been contaminated with the virus. Clean your hands often and wear a mask if you have a fever or respiratory symptoms.
+
 Yellow Fever - Country Entry Requirements 
 
 [Yellow fever](https://www.canada.ca/en/public-health/services/diseases/yellow-fever.html) is a disease caused by a flavivirus from the bite of an infected mosquito.
@@ -75,41 +111,6 @@ Polio is spread from person to person and through contaminated food and water. I
 
 * Be sure that your polio vaccinations are up to date before travelling. Polio is part of the [routine vaccine schedule](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-1-key-immunization-information/page-13-recommended-immunization-schedules.html#p1c12a2) for children in Canada.
 * One booster dose of the polio vaccine is recommended as an [adult](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-3-vaccination-specific-populations/page-9-immunization-travellers.html#a3).
-Measles 
-
-[Measles](https://www.canada.ca/en/public-health/services/diseases/measles.html) is a highly contagious viral disease. It can spread quickly from person to person by direct contact and through droplets in the air.
-
-Anyone who is not protected against measles is at risk of being infected with it when travelling internationally.
-
-Regardless of where you are going, talk to a health care professional before travelling to make sure you are fully protected against measles.
-
-Hepatitis B
-
-[Hepatitis B](https://www.canada.ca/en/public-health/services/diseases/hepatitis-b.html) is a risk in every destination. It is a viral liver disease that is easily transmitted from one person to another through exposure to blood and body fluids containing the hepatitis B virus.  Travellers who may be exposed to blood or other bodily fluids (e.g., through sexual contact, medical treatment, sharing needles, tattooing, acupuncture or occupational exposure) are at higher risk of getting hepatitis B.
-
-Hepatitis B vaccination is recommended for all travellers. [Prevent hepatitis B](https://www.canada.ca/en/public-health/services/diseases/hepatitis-b/prevention-risks.html#a2) infection by practicing safe sex, only using new and sterile drug equipment, and only getting tattoos and piercings in settings that follow public health regulations and standards.
-
-COVID-19
-
-[Coronavirus disease (COVID-19)](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html) is an infectious viral disease. It can spread from person to person by direct contact and through droplets in the air.
-
-It is recommended that all eligible travellers complete a COVID-19 vaccine series along with any additional recommended doses in Canada before travelling. Evidence shows that vaccines are very effective at preventing severe illness, hospitalization and death from COVID-19. While vaccination provides better protection against serious illness, you may still be at risk of infection from the virus that causes COVID-19. Anyone who has not completed a vaccine series is at increased risk of being infected with the virus that causes COVID-19 and is at greater risk for severe disease when travelling internationally.
-
-Before travelling, verify your destination’s COVID-19 vaccination entry/exit requirements. Regardless of where you are going, talk to a health care professional before travelling to make sure you are adequately protected against COVID-19.
-
-Influenza
-
- The best way to protect yourself from seasonal [influenza](https://www.canada.ca/en/public-health/services/diseases/flu-influenza.html) (flu) is to get vaccinated every year. [Get the flu shot](https://www.canada.ca/en/public-health/services/diseases/flu-influenza/get-your-flu-shot.html) at least 2 weeks before travelling.
-
- The flu occurs worldwide.
-
-* In the Northern Hemisphere, the flu season usually runs from November to   April.
-* In the Southern Hemisphere, the flu season usually runs between April and   October.
-* In the tropics, there is flu activity year round.
-
-The flu vaccine available in one hemisphere may only offer partial protection against the flu in the other hemisphere.
-
-The flu virus spreads from person to person when they cough or sneeze or by touching objects and surfaces that have been contaminated with the virus. Clean your hands often and wear a mask if you have a fever or respiratory symptoms.
 
 ### Safe food and water precautions
 
@@ -177,6 +178,10 @@ A vaccine for the prevention of chikungunya (IXCHIQ) is approved in Canada. Talk
 
 [Chikungunya](https://www.canada.ca/en/public-health/services/diseases/chikungunya.html)
 
+Rift Valley fever
+
+[Rift Valley fever](http://www.who.int/mediacentre/factsheets/fs207/en/) is a viral disease that can cause severe flu-like symptoms. In some cases, it can be fatal. It is spread to humans through contact with infected animal blood or tissues, from the bite of an infected mosquito, or eating or drinking unpasteurized dairy. Risk is generally low for most travellers. Protect yourself from insect bites and avoid animals, particularly livestock, and unpasteurized dairy. There is no vaccine available for Rift Valley fever.
+
 Dengue 
 
 * In this country, dengue is a risk to travellers. It is a viral disease spread to humans by mosquito bites.
@@ -188,10 +193,6 @@ Dengue
 **Learn more:**  
 [Dengue](https://www.canada.ca/en/public-health/services/infectious-diseases/viral-haemorrhagic-fevers/dengue-fever.html)  
 [Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)
-
-Rift Valley fever
-
-[Rift Valley fever](http://www.who.int/mediacentre/factsheets/fs207/en/) is a viral disease that can cause severe flu-like symptoms. In some cases, it can be fatal. It is spread to humans through contact with infected animal blood or tissues, from the bite of an infected mosquito, or eating or drinking unpasteurized dairy. Risk is generally low for most travellers. Protect yourself from insect bites and avoid animals, particularly livestock, and unpasteurized dairy. There is no vaccine available for Rift Valley fever.
 
 ### Animal precautions
 

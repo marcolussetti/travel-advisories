@@ -33,7 +33,7 @@ Penalties for possession, use or trafficking of illegal drugs are severe. Convic
 
 ### Ramadan
 
-In 2025, the lunar month of Ramadan is expected to begin on or around February 28.
+In 2026, the lunar month of Ramadan is expected to begin on or around February 17.
 
 In public, between sunrise and sunset, be discreet when:
 

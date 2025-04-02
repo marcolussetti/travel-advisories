@@ -2,6 +2,25 @@
 
 ## Natural disasters and climate
 
+### Reykjanes Peninsula
+
+On April 1, 2025, a new volcanic eruption began on the Reykjanes Peninsula in Southwest Iceland, near the town of Grindavík and the Blue Lagoon. Further eruptions could happen at any time and without warning.
+
+The Icelandic authorities have closed roads near the eruption site and declared a state of emergency in the area around:
+
+* Grindavík
+* the Blue Lagoon
+* Svartsengi powerplant
+
+Keflavik International Airport has not been affected by the eruptions. Flights to and from the airport continue to run on schedule.
+
+#### 
+
+#### Useful links
+
+* [Ongoing volcanic unrest in the Reykjanes-Svartsengi volcanic system](https://en.vedur.is/about-imo/news/) – Icelandic Meteorological Office
+* [More information on volcanoes](#volcanoes)
+
 Iceland is subject to various natural disasters such as:
 
 * violent storms
@@ -9,12 +28,12 @@ Iceland is subject to various natural disasters such as:
 * volcanic eruptions
 * earthquakes and landslides
 
-The climate can be unpredictable regardless of the time of year. Monitor weather reports closely.
+The climate can be unpredictable regardless of the time of year. Monitor weather reports closely.
 
 #### Useful links
 
-* [Climate information and warnings](https://en.vedur.is/) - Icelandic Meteorological Office
-* [Travel and Road Conditions](https://safetravel.is/conditions) - Safe Travel Iceland
+* [Climate information and warnings](https://en.vedur.is/) – Icelandic Meteorological Office
+* [Travel and Road Conditions](https://safetravel.is/conditions) – Safe Travel Iceland
 
 ### Climate change
 
@@ -29,7 +48,7 @@ Storms occur regularly in Iceland and are most common during fall and winter mon
 
 ### Glacial floods
 
-Glaciers cover about 10% of Iceland, making it prone to ‘‘jökulhlaup’’, glacial lake outburst floods (GLOFs). GLOFs are frequent, unpredictable, and can last from a few hours to a few weeks.
+Glaciers cover about 10% of Iceland, making it prone to "jökulhlaup", glacial lake outburst floods (GLOFs). GLOFs are frequent, unpredictable, and can last from a few hours to a few weeks.
 
 Flooding can hamper overland travel and reduce the provision of essential services. Roads may become impassable, and bridges may be damaged.
 
@@ -40,7 +59,7 @@ Flooding can hamper overland travel and reduce the provision of essential servic
 
 #### Volcanoes
 
-There are several active volcanoes in Iceland. The Reykjanes Peninsula in Southwest Iceland, near the town of Grindavík and the Blue Lagoon, has experienced recurring volcanic eruptions since July 2023. Further eruptions could occur at any time and without warning. Following an eruption, winds can blow clouds of poisonous volcanic gas far from the eruption site. This could bring potentially dangerous pollution levels to areas unaffected by the eruption, including Reykjavik.
+There are several active volcanoes in Iceland. The Reykjanes Peninsula in Southwest Iceland, near the town of Grindavík and the Blue Lagoon, has experienced recurring volcanic eruptions since July 2023. Further eruptions could occur at any time and without warning. Following an eruption, winds can blow clouds of poisonous volcanic gas far from the eruption site. This could bring potentially dangerous pollution levels to areas unaffected by the eruption, including Reykjavik.
 
 Volcanic ash fall may:
 

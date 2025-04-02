@@ -55,22 +55,6 @@ There is a risk of [hepatitis A](https://www.canada.ca/en/public-health/services
 
 Practise [safe food and water precautions](https://travel.gc.ca/travelling/health-safety/food-water) and wash your hands often. Vaccination is recommended for all travellers to areas where hepatitis A is present.
 
-Rabies 
-
-In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/diseases/rabies) is carried by dogs and some wildlife, including bats. Rabies is a deadly disease that spreads to humans primarily through bites or scratches from an infected animal. While travelling, take [precautions](https://www.canada.ca/en/public-health/services/diseases/rabies/prevention.html), including keeping your distance from animals (including free-roaming dogs), and closely supervising children.
-
-If you are bitten or scratched by an animal while travelling, immediately wash the wound with soap and clean water and see a health care professional. Rabies treatment is often available in this destination.
-
-Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who are at high risk of exposure (e.g., occupational risk such as veterinarians and wildlife workers, children, adventure travellers and spelunkers, and others in close contact with animals).
-
-Tick-borne encephalitis
-
-[Tick-borne encephalitis](https://www.canada.ca/en/public-health/services/diseases/tick-borne-encephalitis.html) (TBE) is a risk in some areas of this destination. It is a viral disease that affects the central nervous system (brain and spinal cord). It is spread to humans by the bite of infected ticks or occasionally when unpasteurized milk products are consumed.
-
-Travellers to areas where TBE is found may be at higher risk  during April to November, and the risk is highest for people who hike or camp in forested areas.
-
-[Protect yourself from tick bites](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html). The vaccine is not available in Canada. It may be available in the destination you are travelling to.
-
 Measles 
 
 [Measles](https://www.canada.ca/en/public-health/services/diseases/measles.html) is a highly contagious viral disease. It can spread quickly from person to person by direct contact and through droplets in the air.
@@ -106,6 +90,22 @@ COVID-19
 It is recommended that all eligible travellers complete a COVID-19 vaccine series along with any additional recommended doses in Canada before travelling. Evidence shows that vaccines are very effective at preventing severe illness, hospitalization and death from COVID-19. While vaccination provides better protection against serious illness, you may still be at risk of infection from the virus that causes COVID-19. Anyone who has not completed a vaccine series is at increased risk of being infected with the virus that causes COVID-19 and is at greater risk for severe disease when travelling internationally.
 
 Before travelling, verify your destination’s COVID-19 vaccination entry/exit requirements. Regardless of where you are going, talk to a health care professional before travelling to make sure you are adequately protected against COVID-19.
+
+Rabies 
+
+In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/diseases/rabies) is carried by dogs and some wildlife, including bats. Rabies is a deadly disease that spreads to humans primarily through bites or scratches from an infected animal. While travelling, take [precautions](https://www.canada.ca/en/public-health/services/diseases/rabies/prevention.html), including keeping your distance from animals (including free-roaming dogs), and closely supervising children.
+
+If you are bitten or scratched by an animal while travelling, immediately wash the wound with soap and clean water and see a health care professional. Rabies treatment is often available in this destination.
+
+Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who are at high risk of exposure (e.g., occupational risk such as veterinarians and wildlife workers, children, adventure travellers and spelunkers, and others in close contact with animals).
+
+Tick-borne encephalitis
+
+[Tick-borne encephalitis](https://www.canada.ca/en/public-health/services/diseases/tick-borne-encephalitis.html) (TBE) is a risk in some areas of this destination. It is a viral disease that affects the central nervous system (brain and spinal cord). It is spread to humans by the bite of infected ticks or occasionally when unpasteurized milk products are consumed.
+
+Travellers to areas where TBE is found may be at higher risk  during April to November, and the risk is highest for people who hike or camp in forested areas.
+
+[Protect yourself from tick bites](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html). The vaccine is not available in Canada. It may be available in the destination you are travelling to.
 
 ### Safe food and water precautions
 

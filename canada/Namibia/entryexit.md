@@ -2,16 +2,6 @@
 
 ## Entry and exit requirements
 
-As of April 1, 2025, Canadian passport holders will require a visa to enter Namibia.
-
-You can submit your visa application:
-
-* online
-* at Namibian embassies or consulates
-* upon arrival at designated ports of entry, including Hosea Kutako International Airport.
-
-[Information on visa applications](https://eservices.mhaiss.gov.na/visaonarrival) – Ministry of Home Affairs, Immigration, Safety and Security of the Republic of Namibia
-
 Every country or territory decides who can enter or exit through its borders. The Government of Canada cannot intervene on your behalf if you do not meet your destination’s entry or exit requirements.
 
 We have obtained the information on this page from the Namibian authorities. It can, however, change at any time.
@@ -49,16 +39,24 @@ Different entry rules may apply when travelling with a temporary passport or an 
 
 ### Visas
 
-Tourist visa: not required for stays up to 90 days  
-Business visa: not required for stays up to 90 days  
+Tourist visa: required  
+Business visa: required  
 Student visa: required  
 Work visa: required
 
-Namibian authorities require that your passport contains at least three blank pages to enter the country.
+You can submit your visa application:
+
+* online
+* at Namibian embassies or consulates
+* upon arrival at designated ports of entry, including Hosea Kutako International Airport.
+
+Namibian authorities require that your passport contains at least three blank pages to process your visa application and enter the country.
 
 Make sure the entry stamp is valid for the duration of your stay (up to 90 days) and that immigration officials have given you a correctly dated entry stamp, as this will be checked upon departure.
 
 Authorities are very strict regarding visa validity. Overstaying the time granted or having an incorrect or missing entry stamp could lead to detention, arrest and fines.
+
+[Information on visa applications](https://eservices.mhaiss.gov.na/visaonarrival) – Ministry of Home Affairs, Immigration, Safety and Security of the Republic of Namibia
 
 ### Children and travel
 

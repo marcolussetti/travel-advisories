@@ -117,7 +117,7 @@ Be aware that Canadian consular officials cannot interfere in private legal matt
 
 ### Ramadan
 
-In 2025, the lunar month of Ramadan is expected to begin on or around February 28.
+In 2026, the lunar month of Ramadan is expected to begin on or around February 17.
 
 In public, between sunrise and sunset, be discreet when:
 

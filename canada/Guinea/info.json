@@ -1,7 +1,7 @@
 {
     "name": "Guinea",
-    "update_reason": "Health \u2013 added general information on Marburg virus disease.",
-    "update_date": "2025-03-06T14:56:00",
+    "update_reason": "editorial change",
+    "update_date": "2025-04-01T16:29:00",
     "sections": {
         "risk": "canada/Guinea/risk.md",
         "security": "canada/Guinea/security.md",
