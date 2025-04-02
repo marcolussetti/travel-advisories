@@ -34,7 +34,7 @@ Gare Maritime Sud
 50100 Cherbourg   
 France
 
-[Tel: +33 2 33 44 11 11](tel:+332 33 44 11 11)
+[Tel: +33 6 80 61 97 97](tel:+336 80 61 97 97)
 
 Fax: + 33 2 33 23 44 40
 
@@ -50,6 +50,8 @@ France
 [Tel: +33 2 98 29 27 03](tel:+332 98 29 27 03)
 
 [Alt tel: +33 6 45 75 09 94](tel:+336 45 75 09 94)
+
+Email: [jeanmarc.roue@honoraryconsul.ie](mailto:jeanmarc.roue@honoraryconsul.ie)
 
 ### Honorary Consul of Ireland, Toulouse
 

@@ -93,11 +93,13 @@ Floor 17
 New York NY 10166   
 USA
 
-[Tel: +1 (212) 204 7164](tel:+1(212) 204 7164)
+[**Contact us**](/en/usa/newyork/contact/)
+
+**Mainline:** [**+1 (212 ) 319 -2555**](tel:+1 (212 ) 319 -2555)
+
+**Passport queries:** [**+1 (212) 319-2556**](tel:+1 (212) 319-2556)
 
 Our consular region covers New York, Connecticut, New Jersey, New York, Pennsylvania, Delaware and Ohio.
-
-[**Contact us**](/en/usa/newyork/contact/)
 
 ### Consulate General of Ireland, San Francisco
 
