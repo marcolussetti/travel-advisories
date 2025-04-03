@@ -16,3 +16,7 @@ What we can do:
 * If required, provide advice on applying for new passport.
 
 You will need a police report if you want to make a claim on your travel insurance. We will not provide you with a travel document without a police report.
+
+### **Travelling with Children**
+
+You must have an original or certified copy of the full birth certificate for any child under 18 when you enter or leave the country. Any parent not present must sign an affidavit giving their consent for the child to travel.

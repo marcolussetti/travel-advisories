@@ -35,7 +35,7 @@ Those transiting through the USA will need to get a visa or an Electronic System
 
 ### **Transgender Irish citizens**
 
-ESTA and visa application forms to the US require travellers to declare their sex. The US authorities have indicated that this should reflect, what they term, the traveller’s biological sex at birth. Travellers who have an "X" marker on their passport or whose sex on their passport differs from sex assigned at birth should contact the Embassy of the United States of America in Dublin for further details on specific entry requirements.
+ESTA and visa application forms to the US require travellers to declare their sex. The US authorities have indicated that this should reflect, what they term, the traveller’s biological sex at birth. Travellers whose sex on their passport differs from sex assigned at birth should contact the Embassy of the United States of America in Dublin for further details on specific entry requirements.
 
 ### **Dual nationals**
 

@@ -6,7 +6,37 @@ Normal Precautions
 
 ### Travel Alert
 
-**There are currently heightened political tensions in South Korea following the impeachment and arrest of President Yoon Suk Yeol. Large demonstrations are likely to continue, with an increased risk of violence, including in the areas around Gwanghwamun Plaza (Jongno), the Constitutional Court (Anguk), Seoul Western District Court (Gongdeok) and the National Assembly (Yeouido). Visitors and residents in Seoul should follow the advice of local authorities and avoid large public gatherings.**
+**Heightened Political Tensions**
+
+The Constitutional Court of Korea will announce the verdict of President Yoon’s impeachment proceedings on Friday 4 April.
+
+Large-scale demonstrations are expected in the lead up to and in the aftermath of this verdict. Demonstrations can be expected in the following parts of Seoul:
+
+- The Constitutional Court (Anguk / Bukchon)
+
+- Gwanghwamun Square / Seoul Plaza
+
+- The Presidential Office (Samgakji)
+
+- The Presidential Residence (Hannam)
+
+- The National Assembly (Yeouido)
+
+Demonstrations may also occur in other locations and cities in Korea.
+
+Due to protests, access to metro stations and bus routes may be affected. In some areas, offices and schools may be forced to close. Disruption may impact tourist attractions including Gyeongbokgung, Deoksugung, Gwanghwamun Square, Bukchon, Ikseon-dong and Insadong.
+
+Irish citizens resident in or visiting Korea are advised to follow these five steps:
+
+1. **Avoid** any demonstrations (it is illegal for foreign nationals to take part in political activities)
+
+2. **Follow** the advice of local authorities
+
+3. **Ensure** you are registered on the [Citizens Register](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/)
+
+4. **Install** the [Emergency Ready App](https://english.seoul.go.kr/service/living/disaster-evacuation-tips-citizens/emergency-ready-app/) and check it regularly for updates
+
+5. **Monitor** reliable local media and Embassy social media for updates
 
 ### **General Travel Advice**
 
