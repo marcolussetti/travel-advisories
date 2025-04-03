@@ -118,8 +118,8 @@ Get medical help if you have a fever or diarrhoea.
 
 #### Medical care
 
-Public medical facilities are limited.
+The standard of medical facilities in Malawi is poor, especially in rural areas.
 
-There are some private clinics in Lilongwe and Blantyre. They may not meet Australian standards.
+There are some private clinics in Lilongwe and Blantyre, but they may not meet Australian standards. Most doctors and hospitals require up-front cash payment.
 
-If you become seriously ill or injured, you may need to be evacuated. Medical evacuation can be very expensive.
+If you become seriously ill or injured, you may need to be evacuated to a place with better facilities, such as South Africa. Medical evacuation can be very expensive. Ensure that you have appropriate travel insurance in place before you travel.

@@ -18,9 +18,7 @@ Burglaries are common in residential areas. Criminals often carry weapons and ma
 
 If you're a victim of violent crime, especially [sexual assault](/before-you-go/safety/sexual-assault "Reducing the risk of sexual assault and harassment"), seek immediate medical help. The risk of HIV infection is high.
 
-Attacks on women wearing pants, leggings and short skirts have occurred in Blantyre, Mzuzu and Zomba. Female travellers in these areas may want to avoid wearing close-fitting clothing and should remain aware of their surroundings.   
-  
-Throughout the country, women travelling alone may be subjected to harassment and verbal abuse.
+Throughout the country, women travelling alone may be subjected to harassment and verbal abuse. Be aware of your surroundings at all times.
 
 #### Road-based crime
 
@@ -75,7 +73,15 @@ Dangers in the Mulanje district include:
 
 Risks increase after dark.
 
-Before climbing Mount Mulanje, contact the [Mountain Club of Malawi](https://mcm438.wordpress.com/) for safety advice.
+#### Kidnapping
+
+Kidnapping can happen anywhere, anytime, including in destinations that are typically at lower risk.
+
+The Australian Government's longstanding policy is that it doesn't make payments or concessions to kidnappers.
+
+More information, including advice on how to reduce your risk of being kidnapped:
+
+* [Kidnapping](https://www.smartraveller.gov.au/before-you-go/safety/kidnapping)
 
 #### Drink spiking and methanol poisoning
 
@@ -88,7 +94,7 @@ Methanol can be used in unregulated alcohol production to lower costs. Methanol
 * be careful drinking cocktails and drinks made with spirits
 * drink only at reputable licensed premises
 * avoid home-made alcoholic drinks
-* labels on bottles aren't always accurate.
+* labels on bottles aren't always accurate
 
 **More information:**
 
@@ -98,12 +104,12 @@ Methanol can be used in unregulated alcohol production to lower costs. Methanol
 
 Demonstrations can happen at any time. They often take place in market and city centre areas.
 
-Public protests and events that draw large groups of people can turn violent.
+Public protests and events that draw large groups of people can be unpredictable and may turn violent quickly. Avoid activities that could be considered political and stay away from protests and demonstrations.
 
-To protect yourself during periods of unrest:
+During periods of unrest, you should:
 
-* avoid all crowds and demonstrations
-* monitor the media and avoid protest areas
+* avoid affected areas
+* monitor the media for protests and demonstrations
 * be alert to unrest, especially in markets
 * follow the instructions of local authorities
 
@@ -149,7 +155,7 @@ Follow park rules and the advice of wardens.
 
 #### Climate and natural disasters
 
-Malawi experiences [natural disasters](/before-you-go/safety/natural-disasters "Staying safe when there's a natural disaster") and [severe weather](/while-youre-away/crisis-or-emergency/severe-weather-incident "There's a severe weather incident").
+Malawi experiences [natural disasters](/before-you-go/safety/natural-disasters "Staying safe when there's a natural disaster") and [severe weather](/while-youre-away/crisis-or-emergency/severe-weather-incident "There's a severe weather incident"), including flooding and cyclones.
 
 #### Earthquakes
 
@@ -161,18 +167,22 @@ Get to know what to do in an earthquake.
 
 The rainy season is from November to April.
 
-Flooding may occur. Roads can become impassable.
+Flooding, including flash flooding, may occur across the country and can affect the following essential services:
 
-If you're travelling to areas affected by flooding:
-
-* take extra care
-* monitor weather updates
-* follow the advice of local authorities
+* transport and infrastructure - roads can become impassable
+* electricity supply
+* water and food supply
+* emergency services
 
 If a natural disaster occurs:
 
-* keep your passport on you, but in a waterproof bag
-* monitor local media and other sources
 * follow the advice of local authorities
+* monitor local media and other sources
+* keep your passport on you, in a waterproof bag
 * keep in touch with your friends and family
 * register with the [Global Disaster Alert and Coordination System](http://www.gdacs.org/) to receive alerts on major disasters
+
+If you're planning to visit an area that has recently suffered severe weather:
+
+* confirm your plans with your tour operator or travel provider
+* check the condition of infrastructure and facilities with local tour operators and hotels

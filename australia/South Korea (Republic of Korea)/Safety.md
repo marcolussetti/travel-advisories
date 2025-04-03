@@ -46,7 +46,11 @@ Follow the advice of local authorities. The South Korean Government has released
 
 #### Civil unrest and political tension
 
-Given the evolving domestic political situation in South Korea, large crowds and protests are expected in Seoul and elsewhere around the country. Avoid protests and demonstrations. In Seoul, crowds may be concentrated in the vicinity of the National Assembly (Yeouido), Gwanghwamun Square, the Constitutional Court (Anguk) and other district court buildings, near the Presidential Office (Samgakji) and Presidential Residence (Hannam-dong) and, on university campuses or elsewhere. Police presence is expected to be high. Traffic, public transport and other essential services may be disrupted.  Monitor the media for updates and follow the advice of local authorities.
+The Constitutional Court has announced that it will issue its verdict on President Yoon's impeachment on Friday, 4 April 2025. In response to the verdict, large crowds and protests are expected in Seoul and elsewhere around the country. 
+
+Avoid protests and demonstrations. In Seoul, crowds may be concentrated in the vicinity of the National Assembly (Yeouido), Gwanghwamun Square, the Constitutional Court (Anguk) and other district court buildings, near the Presidential Office (Samgakji) and Presidential Residence (Hannam-dong) and, on university campuses or elsewhere. Police presence is expected to be high. Traffic, public transport and other essential services may be disrupted, including the closure of tourist attractions, subway stations and facilities such as schools and offices. Monitor the media for updates and follow the advice of local authorities.
+
+The Australian Embassy in Seoul will be closed to the public on 4 April. 
 
 Public protests, including organised strikes and events that draw large groups of people, are common, but they can sometimes turn violent and cause significant disruptions. Protests can affect public transport and access to other public services. Labour disputes have also caused disruptions to health care services, including at the larger hospitals with international clinics.
 

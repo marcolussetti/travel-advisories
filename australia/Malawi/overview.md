@@ -2,7 +2,7 @@
 
 Latest update
 
-We continue to advise exercise a high degree of caution in Malawi. You don't need to apply for a visa if you're visiting Malawi for tourism purposes for up to 90 days (see 'Travel' for details).
+We've reviewed our advice and continue to advise exercise a high degree of caution in Malawi. Demonstrations and protests can be unpredictable and may turn violent quickly. Avoid protests and demonstrations. During periods of unrest, monitor local media for updates, avoid affected areas and follow the advice of local authorities (see ‘Safety’). You don't need to apply for a visa if you're visiting Malawi for tourism purposes for up to 90 days (see 'Travel' for details).
 
 Advice Level summary
 
@@ -23,11 +23,10 @@ Exercise a high degree of caution in Malawi due to the threat of violent crime.
 ### Safety
 
 * Petty crime, such as bag snatching and theft is common, including on public transport. Keep your valuables out of sight.
-* Violent crime includes burglary, carjacking and food and drink spiking. Crime hotspots include bus and ferry terminals, and the walk between Lilongwe Old Town and the Capital City. Avoid walking at night, particularly in urban areas. Don't accept food or drink from strangers. Be alert to the potential risks around drink spiking and methanol poisoning through consuming alcoholic drinks. See our advice on [partying safely while overseas](https://www.smartraveller.gov.au/before-you-go/safety/partying#methanol).
+* Violent crime includes burglary, carjacking and food and drink spiking. Crime hotspots include bus and ferry terminals, and the walk between Lilongwe Old Town and the Capital City. Avoid walking at night, particularly in urban areas. Don't accept food or drink from strangers. Be alert to the potential risks around drink spiking and methanol poisoning through consuming alcoholic drinks. See our advice on [partying safely while overseas](https://www.smartraveller.gov.au/before-you-go/safety/partying).
 * The Mulanje district is a high-risk area for crime. Dangers include unrest, property damage, intimidation and violence.
 * Before climbing Mount Mulanje, contact the [Mountain Club of Malawi](https://mcm438.wordpress.com/) for safety advice.
-* Attacks on women wearing pants, leggings and short skirts have occurred in Blantyre, Mzuzu and Zomba. Women travellers in these areas may want to avoid wearing close-fitting clothing and should remain aware of their surroundings.
-* Protests often occur in market areas. They can turn violent. Avoid large public gatherings.
+* Protests and demonstrations can occur, often in market areas. They can turn be volatile and may turn violent quickly. Avoid large public gatherings.
 
 Full travel advice: [Safety](#safety)
 
@@ -64,6 +63,7 @@ Full travel advice: [Travel](#travel)
 ### Local contacts
 
 * The [Consular Services Charter](/consular-services/consular-services-charter "Consular Services Charter") details what the Australian Government can and can't do to help you overseas.
+* Australia has a consulate in Lilongwe, Malawi, which can provide limited consular assistance and conduct passport interviews.
 * For consular assistance, contact the [Australian Embassy in Zimbabwe](http://www.zimbabwe.embassy.gov.au/).
 * To stay up to date with local information, follow the Embassy’s social media accounts.
 

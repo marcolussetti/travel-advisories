@@ -44,7 +44,8 @@ The Australian Embassy in Harare, Zimbabwe, provides consular and passport servi
 Borrowdale  
 Harare, Zimbabwe  
 Phone: +263 24 853 235 55   
-Fax: +263 24 2870 566  
+Fax: +263 24 2870 566
+
 Website: [zimbabwe.embassy.gov.au](http://www.zimbabwe.embassy.gov.au/)  
 Email: [zimbabwe.embassy@dfat.gov.au](mailto:zimbabwe.embassy@dfat.gov.au)  
 Facebook: [Australian Embassy, Zimbabwe](https://www.facebook.com/AusEmbZim/)  
