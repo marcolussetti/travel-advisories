@@ -23,7 +23,7 @@ Penalties for possession, use or trafficking of illegal drugs are severe. Convic
 Authorities may request to see your ID at any time.
 
 * Carry valid identification or a photocopy of it at all times
-* Keep a photocopy of your passport in case it’s lost or seized
+* Keep a photocopy of your passport in case it's lost or seized
 * Keep a digital copy of your ID and travel documents
 
 ### Public behaviour
@@ -80,7 +80,7 @@ If you plan on buying property or making other investments in Croatia, seek lega
 
 If you plan on travelling between countries that are not members of the European Union and Croatia, make sure you are aware of the rules and restrictions regarding the importation of certain items and merchandise such as tobacco.
 
-[Controlled goods](https://carina.gov.hr/featured/information-for-passengers-natural-persons/6706) - Customs administration of Croatia
+[Controlled goods](https://carina.gov.hr/featured/information-for-passengers-natural-persons/6706) – Customs administration of Croatia
 
 ### Camping
 
@@ -88,19 +88,19 @@ Camping outside organized campsites and designated areas is illegal.
 
 ### Driving
 
-As a tourist or temporary resident, you can drive with a valid Canadian driver’s licence. You should carry an international driving permit.
+As a tourist or temporary resident, you can drive with a valid Canadian driver's licence. You should carry an international driving permit.
 
 Vehicles with foreign licence plates can operate in Croatia for up to 3 months after arrival. After 3 months, you must temporarily register in Croatia.
 
-You must use daytime headlights from the last weekend in October until the last weekend in March. It’s also mandatory during episodes of fog and inclement weather. Winter tires are mandatory between 15 November and 15 April.
+You must use daytime headlights from the last weekend in October until the last weekend in March. It's also mandatory during episodes of fog and inclement weather. Winter tires are mandatory between 15 November and 15 April.
 
 Motorists must wear a fluorescent vest when attending to a car breakdown along the road.
 
-The “priority to the right” system is in effect in Croatia. Drivers must give way to vehicles approaching from the right at intersections, unless otherwise indicated.
+The "priority to the right" system is in effect in Croatia. Drivers must give way to vehicles approaching from the right at intersections, unless otherwise indicated.
 
 This is often a surprise to foreign drivers and results in accidents.
 
-Familiarize yourself with the “priority to the right” system.
+Familiarize yourself with the "priority to the right" system.
 
 Right turns at red lights are prohibited.
 
@@ -112,16 +112,16 @@ The country has a zero tolerance policy for drinking and driving for:
 
 #### Useful links
 
-* [Driving in Croatia](https://ec.europa.eu/transport/road_safety/going_abroad/croatia/index_en.htm) - European Commission
+* [Driving in Croatia](https://ec.europa.eu/transport/road_safety/going_abroad/croatia/index_en.htm) – European Commission
 * [More about the International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
 
 ### Boating
 
 Recreational skippers must have an International Certificate of Competence (ICC).
 
-It’s also illegal to operate a boat under the influence of alcohol.
+It's also illegal to operate a boat under the influence of alcohol.
 
-[Boating in Croatia](https://mmpi.gov.hr/sea/nautics/8462) - Croatian Ministry of the Sea, Transport and Infrastructure
+[Boating in Croatia](https://mmpi.gov.hr/sea/nautics/8462) – Croatian Ministry of the Sea, Transport and Infrastructure
 
 ### Money
 

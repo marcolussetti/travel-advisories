@@ -1,7 +1,7 @@
 {
     "name": "Greece",
-    "update_reason": "The Need help? section was updated.",
-    "update_date": "2025-03-26T13:52:00",
+    "update_reason": "Natural disasters and climate \u2013 removed information on earthquakes in the Aegean Sea",
+    "update_date": "2025-04-02T09:19:00",
     "sections": {
         "risk": "canada/Greece/risk.md",
         "security": "canada/Greece/security.md",
