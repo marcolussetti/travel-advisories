@@ -146,7 +146,7 @@ Local authorities are responsible for investigating and prosecuting crimes. If y
 * To report crimes to the local police **dial 122**
 * For Egypt’s Child Emergency Help line **dial 16000**.
 * For Egypt’s National Council for Women **dial 15115**.
-* For the Tourist Police to send complaints for investigation dial 126
+* For the Tourist Police to send complaints for investigation **dial 126.**
 
 The Embassy cannot intervene in legal disputes.  The U.S. Department of State provides information. We can:
 

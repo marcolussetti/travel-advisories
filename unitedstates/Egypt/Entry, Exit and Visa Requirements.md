@@ -14,7 +14,7 @@
 
 U.S. citizens must have a visa to enter Egypt:
 
-* The Government of Egypt has launched a website for issuing e-visas. Many sites claim to offer e-visas, some at double the price. This is the only official source.  (U.S. citizens and the citizens of 44 other countries can apply for an e-visa before traveling.)
+* The Government of Egypt has launched a website for issuing [e-visas](https://visa2egypt.gov.eg/eVisa/Home). Many sites claim to offer e-visas, some at double the price. This is the only official source.  (U.S. citizens and the citizens of 44 other countries can apply for an e-visa before traveling.)
 * You can get a renewable single-entry 30-day tourist visa on arrival at Egyptian airports for approximately $25 in cash, in U.S. dollars. A multiple entry visa costs approximately $60.
 * U.S. citizens with visa issues, or arrival visa concerns, may apply for a visa at an Egyptian embassy or consulate before traveling. However, having a visa does not guarantee entry into Egypt.
 * Egyptian immigration officials occasionally have denied entry to travelers without explanation.

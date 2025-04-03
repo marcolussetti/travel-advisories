@@ -43,11 +43,11 @@ Emergency and intensive care facilities are limited.
 * Most Nile cruise boats don’t have a doctor, but some have a medical practitioner.
 * Hospitals in Luxor, Aswan, and Sharm-El-Sheikh are good, but they are inadequate at most other ports-of-call.
 * Beaches on the Mediterranean and Red Sea coasts are generally unpolluted. However, swimming in the Nile or its canals, walking barefoot in stagnant water, or drinking untreated water can expose people to bacteria and infections. They are also at risk of schistosomiasis (bilharzia).
-* The Embassy cannot give medical advice or services. [A list of hospitals and doctors in Egypt](https://eg.usembassy.gov/u-s-citizen-services/local-resources-of-u-s-citizens/doctors/)can be found on the Embassy website.
+* The Embassy cannot give medical advice or services. [A list of hospitals and doctors in Egypt](https://eg.usembassy.gov/services/medical-assistance/)can be found on the Embassy website.
 
 **Prescriptions**
 
-You must carry prescription medications in original packaging, along with your doctor’s prescription. Check with [Egypt’s Ministry of Health](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Egypt.html#ExternalPopup) to ensure the medication is legal in Egypt.
+You must carry prescription medications in original packaging, along with your doctor’s prescription. Check with [Egypt’s Ministry of Health](https://www.gov.uk/foreign-travel-advice/egypt/health) to ensure the medication is legal in Egypt.
 
 **Vaccinations**
 

@@ -2,6 +2,10 @@
 
 [#### Travel and Transportation](javascript:void(0); "Travel and Transportation")
 
+**Iceland is prone to natural disasters:** *including extreme weather, volcanos, earthquakes, avalanches, and landslides.*
+
+* *For more information and links to current safety information for roads, weather, and volcanic eruptions, see the Icelandic Association for Search and Rescue site* [*https://safetravel.is/*](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsafetravel.is%2F&data=05%7C02%7COCSContentManager%40state.gov%7Cff16b8acba4744077b8708dd72043226%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C638792084520951999%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=okYjbqnFV2D%2FZ8zooHcVwMoAj2Xe1W7s5oXZNxDyXL8%3D&reserved=0)*and consider installing the app, which allows users to send their location to emergency services.*
+
 **Road Conditions and Safety:**Driving in Iceland is on the right side of the road, as in the United States.
 
 * All travelers in Iceland are strongly encouraged to monitor weather and road safety year-round through [safetravel.is](https://safetravel.is/) and [road.is](https://www.road.is/) through the web or smart device applications.
