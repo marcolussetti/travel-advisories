@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   29 March 2025
+:   3 April 2025
 
 Updated:
-:   28 March 2025
+:   2 April 2025
 
 Latest update:
-:   Addition of emergency hotlines provided by the local authorities following earthquake with strong tremors reported across Thailand and damage to buildings in Bangkok ('Warnings and insurance' page).
+:   Removal of information about earthquake in Thailand (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/6164105ce90e07198018f873/FCDO__TA__040_-_Thailand_Travel_Advice_Ed2__WEB_.jpg)
 
@@ -30,18 +30,6 @@ FCDO also advises against all but essential travel on the Hat Yai to Padang Bes
 This is due to regular attacks in the provinces by the border with Malaysia. See [Safety and security](https://www.gov.uk/foreign-travel-advice/thailand/safety-and-security) .
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/thailand/safety-and-security#terrorism).
-
-## Earthquake in Thailand
-
-There has been a 7.7 magnitude earthquake in Myanmar, with strong tremors reported across Thailand and some damage reported to buildings in Bangkok. There may be after-shocks. If you’re in the area or planning to travel there, follow the advice of the local authorities or your tour operator and monitor local media.
-
-The US Federal Emergency Management Agency has advice about [what to do before, during and after an earthquake](https://www.ready.gov/earthquakes)
-
-If you’re in Thailand and need urgent help, call the British Embassy in Bangkok on +66 23058333 or contact the following emergency hotlines provided by the local authorities:
-
-* General Emergency: 191
-* Tourist Police Hotline: 1155
-* Fire and Rescue Department: 199
 
 ## Before you travel
 

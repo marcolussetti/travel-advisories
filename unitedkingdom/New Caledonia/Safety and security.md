@@ -10,11 +10,26 @@ UK Counter Terrorism Policing has information and advice on [staying safe abroad
 
 Although there is no recent history of terrorism in New Caledonia, attacks cannot be ruled out.
 
-## Ongoing protests and blockades
+## Protests and ongoing restrictions following unrest
 
-Following ongoing protests and blockades, a state of emergency was implemented in May. The state of emergency has been lifted but there are still limits in place for buying, transporting, and using weapons and alcohol. Public gatherings have also been restricted.
+### Protests
 
-Further restrictions and curfews may be imposed or amended at short notice. You should remain aware of what is happening around you and avoid areas where protests are taking place. Follow the advice of local authorities. The latest updates can be found here: [French High Commission in New Caledonia](https://www.nouvelle-caledonie.gouv.fr/).
+Significant unrest took place in New Caledonia in 2024, including protests and blockades, some of which turned violent. Tensions have now decreased but protests, demonstrations or political gatherings can take place with little or no warning.
+
+Remain aware of what is happening around you and follow the advice of the police and the local authorities. Certain roads may have an increased risk of protests taking place on them, such as routes to the airport and other roads where protestors had previously attempted to block movement around the island. These roads include:
+
+* RT1 south of Nouméa past St Louis
+* RT1 north of Kone
+* RPN2 east of Koné
+* RT3 east of Borail
+* RP5 east of Fonwhary (past access road to Farino)
+* RP4 east of Boulouparis
+
+### Restrictions on alcohol, fuel and other items
+
+There are still limits in place for buying, transporting, and using weapons, alcohol and fuel. Public gatherings have also been restricted.
+
+Further restrictions and curfews may be imposed or amended at short notice. The latest updates can be found here: [French High Commission in New Caledonia](https://www.nouvelle-caledonie.gouv.fr/).
 
 ## Crime
 

@@ -1,11 +1,11 @@
 {
     "name": "Israel",
-    "update_reason": "Updated information about entry to Jordan ('Entry requirements' page).",
+    "update_reason": "New information regarding risk of missile and drone attacks from Yemen ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Israel/Warnings and insurance.md",
-            "update_date": "2025-03-07T10:26:30+00:00"
+            "update_date": "2025-04-02T15:34:53+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Israel/Getting help.md"
         }
     ],
-    "update_date": "2025-03-07T10:26:30+00:00"
+    "update_date": "2025-04-02T15:34:53+01:00"
 }

@@ -8,17 +8,20 @@ UK Counter Terrorism Policing has information and advice on [staying safe abroad
 
 ### Terrorism in Maldives
 
-Terrorists are likely to try to carry out attacks in Maldives.
+Terrorist attacks in Maldives cannot be ruled out.
 
 Attacks could be indiscriminate, including in places visited by foreign nationals. Stay aware of your surroundings, keep up to date with local media reports and follow the advice of local authorities.
 
-The Maldivian authorities have disrupted a number of terrorist attack plans since 2017 and have made several arrests relating to attack planning, recruitment of terrorist fighters and spreading extremist ideology. There have been anti-western protests by extremists on some islands, including expressions of support for Daesh.
+The current conflict in Israel and the Occupied Palestinian Territories has led to heightened tensions around the world. Terrorist groups, such as Al-Qaida and Daesh, have called on their supporters to carry out terrorist attacks in response. The conflict could also motivate individuals to carry out attacks, including in Maldives.
 
-Examples of recent significant attacks include:
+The Maldivian authorities have disrupted a number of terrorist attack plans since 2017 and have made several arrests relating to attack planning, recruitment of terrorist fighters and spreading extremist ideology. However, a risk from terrorism remains.
 
+Examples of attacks in the last 5 years include:
+
+* in 2022, a politician was attacked with a knife and injured in the Hulhumalé area of Malé
 * in 2021, a high-profile politician and a number of bystanders were injured by the detonation of an improvised explosive device (IED) in central Malé
 * in 2020, an arson attack on a police speedboat in Laamu Gan
-* in 2020, knife attacks that injured 3 foreigners in Hulhumalé and were claimed by Daesh supporters
+* in 2020, knife attacks that injured 3 foreigners in Hulhumalé which were claimed by Daesh supporters
 
 ## Political situation
 
@@ -36,7 +39,7 @@ Maldives is an Islamic country. It is illegal to publicly observe a religion oth
 
 ### Ramadan
 
-Ramadan is a holy month for Muslims. The dates vary by year and country. In 2025, Ramadan is expected to start around the end of February and finish around the end of March.
+Ramadan is a holy month for Muslims. The dates vary by year and country. In 2025, Ramadan began on 1 March and finished on 29 March. In 2026, it may start on 18 or 19 February and last for 29 or 30 days.
 
 During this time, do not eat, drink or smoke in public in the daytime, outside of holiday resorts.
 
@@ -105,6 +108,8 @@ There is a high risk of piracy and armed robbery in the Gulf of Aden and Indian 
 There have been attacks on local fishing sailing vessels (dhows) in the Gulf of Aden and Horn of Africa.
 
 If you’re travelling by sea, read about the [regional risks at sea](https://www.gov.uk/guidance/sea-river-and-piracy-safety).
+
+Most of the island resorts are accessible by boat. Pay attention to safety briefings when taking any boat trips. Make sure life jackets are provided, especially on smaller excursion boats. Some tour guides may be able to advise on the safety record and registration of boats.
 
 ## Extreme weather and natural disasters
 

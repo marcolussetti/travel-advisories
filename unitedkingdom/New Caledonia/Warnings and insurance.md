@@ -1,34 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   3 April 2025
 
 Updated:
-:   26 September 2024
+:   2 April 2025
 
 Latest update:
-:   Updated information on public restrictions ('Safety and security' page).
-
-![](https://assets.publishing.service.gov.uk/media/6647494b4f29e1d07fadca33/FCDO__TA__096_-_New_Caledonia_Travel_Advice_Ed1__WEB_.jpg)
-
-
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/6647494bb7249a4c6e9d370e/FCDO__TA__096_-_New_Caledonia_Travel_Advice_Ed1.pdf)
-
-Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO). Consular support is also severely limited where FCDO advises against travel.
-
-## FCDO advises against all but essential travel to New Caledonia
-
-Given ongoing tensions, we advise against all but essential travel to New Caledonia.
-
-Further information is detailed in the [Safety and security section](https://www.gov.uk/foreign-travel-advice/new-caledonia/travel-advice-safety-and-security).
+:   FCDO no longer advises against all but essential travel to New Caledonia ('Warnings and insurance' page).
 
 ### Help abroad in an emergency
 
-There is no British Embassy in New Caledonia and the [British Embassy in Paris, France](https://www.gov.uk/world/organisations/british-embassy-paris), supports British nationals who need emergency help from the UK government.
-
-If you are in New Caledonia and in need of UK consular assistance, please contact the British Embassy in Paris which operates a 24/7 consular telephone service.
-
-Telephone: +33 (0) 1 44 51 31 00
+There is no British Embassy in New Caledonia and the [British Embassy in Paris, France](https://www.gov.uk/world/organisations/british-embassy-paris) supports British nationals who need emergency help from the UK government.
 
 ## Before you travel
 

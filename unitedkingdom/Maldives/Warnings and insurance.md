@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   3 April 2025
 
 Updated:
-:   20 November 2024
+:   2 April 2025
 
 Latest update:
-:   Updated information about traveller declaration form ('Entry requirements' page).
+:   Updated information on sea travel, Ramadan and risks from terrorism ('Safety and security' page).
 
 ## Before you travel
 

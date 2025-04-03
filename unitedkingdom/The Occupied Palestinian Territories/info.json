@@ -1,11 +1,11 @@
 {
     "name": "The Occupied Palestinian Territories",
-    "update_reason": "Updated information about entry to Jordan ('Entry requirements' page).",
+    "update_reason": "New information regarding risk of missile and drone attacks from Yemen ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/The Occupied Palestinian Territories/Warnings and insurance.md",
-            "update_date": "2025-03-07T10:25:59+00:00"
+            "update_date": "2025-04-02T15:35:07+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/The Occupied Palestinian Territories/Getting help.md"
         }
     ],
-    "update_date": "2025-03-07T10:25:59+00:00"
+    "update_date": "2025-04-02T15:35:07+01:00"
 }

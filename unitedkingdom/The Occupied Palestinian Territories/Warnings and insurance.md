@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   3 April 2025
 
 Updated:
-:   7 March 2025
+:   2 April 2025
 
 Latest update:
-:   Updated information about entry to Jordan ('Entry requirements' page).
+:   New information regarding risk of missile and drone attacks from Yemen ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/675c2b29cfbf84c3b2bcf9bc/FCDO__TA__022_-_Israel_Travel_Advice_Ed19__WEB___1_.jpg)
 
@@ -42,13 +42,19 @@ Find out more about [why FCDO advises against travel](/foreign-travel-advice/the
 
 ## Conflict with Lebanese Hizballah
 
-Following the recent conflict between Israel and Lebanese Hizballah (LH), a ceasefire was agreed on 27 November, with a 60-day implementation period.
+Following the conflict between Israel and Lebanese Hizballah (LH), a ceasefire was agreed on 27 November.
 
 There remains a risk that hostilities could reignite, and with little warning. Check Home Front Command for the latest guidance. Restrictions may be put in place at short notice.
 
-## Conflict in Israel and the OPTs
+## Conflict with the Houthis (in Yemen)
 
-On 7 October 2023 there was a large-scale terrorist attack by Hamas in southern Israel. The frequency of rocket attacks has significantly decreased in Israel.
+Following the conflict between Israel and the Houthis (in Yemen), there continues to be a risk of missile and drone attacks throughout Israel. There is a risk of shrapnel from intercepted missiles falling across Israel and the OPTs and possible disruption at Ben Gurion airport.
+
+Check Home Front Command for the latest guidance. Restrictions may be put in place at short notice.
+
+## Conflict in Israel and the OPTs
+
+On 7 October 2023 there was a large-scale terrorist attack by Hamas in southern Israel. The frequency of attacks has significantly decreased but there is still a risk of rocket attacks throughout Israel.
 
 There is an increased risk of political tension which can cause demonstrations and clashes around anniversaries and significant events.
 
@@ -59,7 +65,7 @@ If you are in Israel and the OPTs, keep up to date through local media and follo
 * visit the [Israeli Home Front Command website](http://www.oref.org.il/en) (available in Israel only)
 * call 104 if you are in Israel
 
-The Israeli government declared a state of emergency across the whole country on 7 October and this remains in place. International borders (air and land) in Israel and the OPTs could close at short notice. Check with border officials before you travel for the latest information. Check the travel advice for any neighbouring country that you are planning to travel to or through.
+International borders (air and land) in Israel and the OPTs could close at short notice. Check with border officials before you travel for the latest information. Check the travel advice for any neighbouring country that you are planning to travel to or through.
 
 Before travelling within Israel or the OPTs, check the local measures in place, that roads are open and, where appropriate, that scheduled train and bus services are operating.
 

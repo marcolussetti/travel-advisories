@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   27 March 2025
+:   3 April 2025
 
 Updated:
-:   26 March 2025
+:   2 April 2025
 
 Latest update:
-:   Removal of information about UEFA Nations League match between Greece and Scotland ('Warnings and insurance' page).
+:   Updated information on extreme weather and natural disasters (‘Safety and security’ page).
 
 ## Before you travel
 

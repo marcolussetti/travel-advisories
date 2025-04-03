@@ -1,11 +1,11 @@
 {
     "name": "Maldives",
-    "update_reason": "Updated information about traveller declaration form ('Entry requirements' page).",
+    "update_reason": "Updated information on sea travel, Ramadan and risks from terrorism ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Maldives/Warnings and insurance.md",
-            "update_date": "2024-11-20T11:34:47+00:00"
+            "update_date": "2025-04-02T09:50:49+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Maldives/Getting help.md"
         }
     ],
-    "update_date": "2024-11-20T11:34:47+00:00"
+    "update_date": "2025-04-02T09:50:49+01:00"
 }

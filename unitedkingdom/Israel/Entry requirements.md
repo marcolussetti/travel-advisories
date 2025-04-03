@@ -24,15 +24,7 @@ If you work in Israel without the proper permissions, you can be detained and de
 
 ## Electronic Travel Authorisation (ETA)
 
-From 1 January 2025, to visit Israel you will need to get an Electronic Travel Authorisation (ETA) before you arrive. The ETA covers a visit of 90 days and will cost 25 new Israeli sheqels. You can check your eligibility and [apply for an ETA with the Israel Population and Immigration authority](https://israel-entry.piba.gov.il/).
-
-## Passport validity requirements
-
-To enter Israel or the OPTs, your passport must have an ‘expiry date’ at least 6 months after the date you arrive.
-
-Check with your travel provider that your passport and other travel documents meet requirements. [Renew your passport](https://www.gov.uk/renew-adult-passport/renew) if you need to.
-
-You will be denied entry if you do not have a valid travel document or try to use a passport that has been reported lost or stolen.
+As of 1 January 2025, to visit Israel you will need to get an Electronic Travel Authorisation (ETA) before you arrive. The ETA is valid for 2 years and covers a visit of 90 days. It will cost 25 new Israeli shekels. You can check your eligibility and [apply for an ETA with the Israel Population and Immigration authority](https://israel-entry.piba.gov.il/).
 
 ## Checks at border control
 

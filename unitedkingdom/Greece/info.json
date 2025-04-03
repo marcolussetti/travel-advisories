@@ -1,11 +1,11 @@
 {
     "name": "Greece",
-    "update_reason": "Removal of information about UEFA Nations League match between Greece and Scotland ('Warnings and insurance' page).",
+    "update_reason": "Updated information on extreme weather and natural disasters (\u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Greece/Warnings and insurance.md",
-            "update_date": "2025-03-26T11:18:56+00:00"
+            "update_date": "2025-04-02T11:41:58+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Greece/Getting help.md"
         }
     ],
-    "update_date": "2025-03-26T11:18:56+00:00"
+    "update_date": "2025-04-02T11:41:58+01:00"
 }

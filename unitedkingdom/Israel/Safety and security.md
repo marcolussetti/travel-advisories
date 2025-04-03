@@ -14,7 +14,7 @@ UK Counter Terrorism Policing has information and advice on [staying safe abroad
 
 Terrorists are very likely to try to carry out attacks in Israel and the OPTs.
 
-There was a large-scale terrorist attack by Hamas into southern Israel on 7 October 2023 where over 1,200 people were killed. Hamas continues to launch rockets into Israel and the Israeli Defence Forces are conducting significant military activity in Gaza.
+There was a large-scale terrorist attack by Hamas into southern Israel on 7 October 2023 where over 1,200 people were killed. Hamas continue to launch rockets into Israel and the Israeli Defence Forces are conducting significant military activity in Gaza.
 
 Terrorist attacks in Israel and the OPTs are very likely to continue with an increased threat of attacks, including by individuals acting alone.
 
@@ -33,7 +33,8 @@ Examples of recent significant attacks include:
 
 In 2025:
 
-* On 3 March, one person was killed and 3 injured in a stabbing attack in Haifa
+* In March, one person was killed and one person injured in a shooting attack in northern Israel
+* In March, one person was killed and 3 injured in a stabbing attack in Haifa
 * In February, one person was killed and 12 people were injured in a ramming and stabbing attack at Karkur Junction near Pardes Hana-Karkur, south of Haifa
 * In February, 3 bombs exploded on 3 separate busses in the Tel Aviv area. Two other buses were found with bombs which failed to explode. There were no casualties. See our Regional Risks section for further information on using public transport in Tel Aviv
 
@@ -45,7 +46,7 @@ In 2024:
 
 In 2023:
 
-* 2 people were killed and one injured during a shooting attack in the Jordan Valley
+* 3 people were killed during a shooting attack in the Jordan Valley
 * one person was killed and 6 people injured during a car-ramming incident in Tel Aviv
 * one person was killed and 3 people injured in a shooting attack in Tel Aviv
 * 7 people were killed and 3 injured during a shooting attack in Neve Yaakov, East Jerusalem
@@ -64,7 +65,7 @@ There is currently a large-scale conflict happening in areas of southern Israel 
 
 Keep up to date with local travel advice on local news outlets and international outlets like the [Access Coordination Unit](http://www.accesscoordination.org/).
 
-Rocket fire can affect most areas of Israel and the interception of missiles over the OPTs may result in falling fragments or debris. Israeli air strikes also continue into  Gaza. Be cautious and make sure you know the safety actions that you should take if an Israeli warning siren sounds. Follow [advice from local authorities](https://www.idf.il/en/minisites/regional-commands/home-front-command/how-to-act-during-an-alert/) and stay informed of the security situation through the media and this travel advice. No warning sirens will sound inside Gaza, or in the West Bank outside of Israeli settlements. See [Regional risks](/foreign-travel-advice/israel/regional-risks#gaza).
+Rocket fire can affect most areas of Israel and the interception of missiles over the OPTs may result in falling fragments or debris. Israeli air strikes also continue into Gaza. Be cautious and make sure you know the safety actions that you should take if an Israeli warning siren sounds. Follow [advice from local authorities](https://www.idf.il/en/minisites/regional-commands/home-front-command/how-to-act-during-an-alert/) and stay informed of the security situation through the media and this travel advice. No warning sirens will sound inside Gaza, or in the West Bank outside of Israeli settlements. See [Regional risks](/foreign-travel-advice/israel/regional-risks#gaza).
 
 ### Violent incidents
 

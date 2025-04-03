@@ -1,11 +1,11 @@
 {
     "name": "Thailand",
-    "update_reason": "Addition of emergency hotlines provided by the local authorities following earthquake with strong tremors reported across Thailand and damage to buildings in Bangkok ('Warnings and insurance' page).",
+    "update_reason": "Removal of information about earthquake in Thailand (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Thailand/Warnings and insurance.md",
-            "update_date": "2025-03-28T14:42:55+00:00"
+            "update_date": "2025-04-02T09:08:46+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Thailand/Getting help.md"
         }
     ],
-    "update_date": "2025-03-28T14:42:55+00:00"
+    "update_date": "2025-04-02T09:08:46+01:00"
 }

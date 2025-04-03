@@ -166,23 +166,25 @@ When walking roadside, take care when crossing the road and if possible use a pe
 
 ## Extreme weather and natural disasters
 
-Find out what you can do to [prepare for and respond to extreme weather and natural hazards](https://www.gov.uk/guidance/tropical-cyclones).
+### Emergency alerts
 
-The area around the Cycladic islands of Santorini (Thira), Anafi, Ios and Amorgos, is currently experiencing frequent earthquakes which may continue for several weeks. The Greek authorities advised people in those areas not to attend large indoor gatherings, to avoid old or abandoned buildings and the ports of Amoudi, Armeni, Korfos and Old Port (Paleos Limenas) in the area of Fira and to choose safe routes when travelling, particularly in areas where the landslide risk is high. In case of a strong tremor, people should immediately depart coastal areas.
+Greece can experience extreme natural phenomena such as earthquakes, wildfires, extreme heat and flash floods. To be alerted to events near where you are located in Greece, register for alerts from the [Greek government’s Emergency Communication Service](https://civilprotection.gov.gr/en)) (in English):
 
-The Greek Ministry of Civil Protection declared States of Emergency on Santorini, Anafi, Ios and Amorgos to allow its emergency services to facilitate access to and mobilisation of resources to prepare in case of a need to respond to a strong earthquake.
+* for iPhones go to Settings > Notifications and enable the ‘Emergency Alerts’ option at the bottom
+* for Android 11 and higher go to Settings > Notifications > Advanced Settings > Wireless Emergency Alerts
+* for Samsung devices go to Settings > Apps > Messages > Notifications > Emergency Notifications and enable the ‘Emergency Alerts’ option
 
-If you are in the affected areas, you should keep up to date with and follow the advice of local authorities and emergency services.
+For further information, see Greece’s [Civil Protection website](http://civilprotection.gr/en/forest-fires) (in Greek).
 
-For further guidance on how to prepare for earthquakes, please visit the [Greek Ministry of Civil Protection](https://civilprotection.gov.gr/en/odigies-prostasias/seismoi) (in English) and to see, for anywhere in Greece, where your nearest assembly points are located in case of emergency you can visit [mysafetyplan.gov.gr](https://mysafetyplan.gov.gr/)(map with text in Greek) .
+Find out more from gov.uk on what you can do to [prepare for and respond to extreme weather and natural hazards](https://www.gov.uk/guidance/extreme-weather-and-natural-hazards).
 
 ### Flooding
 
-Adverse weather conditions, including floods, are affecting some regions. The situation can change quickly. Follow [‘112 Greece’ on X](https://x.com/112Greece) for official updates
+Adverse weather conditions, including floods, can happen quickly.. Register for Emergency alerts and follow [‘112 Greece’ on X](https://x.com/112Greece) for official updates.
 
 ### Wildfires
 
-There is a high risk of wildfires during the summer season from April to October.
+There is a high risk of wildfires during the summer season from April to October. Ensure that your mobile phone is registered to receive emergency alerts to be warned of wildfires near your location.
 
 Wildfires are highly dangerous and unpredictable. The situation can change quickly.
 
@@ -201,23 +203,19 @@ Be cautious if you are in or near an area affected by wildfires:
 * call the Greek emergency services on 112 if you are in immediate danger
 * contact your airline or travel operator who can assist you with return travel to the UK
 
-Register for alerts from the [Greek government’s Emergency Communication Service](https://civilprotection.gov.gr/en)) (in English):
-
-* for iPhones go to Settings > Notifications and enable the ‘Emergency Alerts’ option at the bottom
-* for Android 11 and higher go to Settings > Notifications > Advanced Settings > Wireless Emergency Alerts
-* for Samsung devices go to Settings > Apps > Messages > Notifications > Emergency Notifications and enable the ‘Emergency Alerts’ option
-
 For further information, see Greece’s [Civil Protection website](http://civilprotection.gr/en/forest-fires) (in Greek).
 
 ### Earthquakes
 
-There is a risk of earthquakes and earth tremors. You should:
+The area around the Cycladic islands of Santorini (Thira), Anafi, Ios and Amorgos, experienced increased earthquake activity in early 2025. This increase has since subsided and the tourist season is expected to continue as usual.
+
+There is a risk of earthquakes and earth tremors in Greece. You should:
 
 * familiarise yourself with safety procedures in the event of an earthquake
 * follow advice given by the local authorities
 * call the Greek emergency services on 112 if you are in immediate danger
 
-The Civil Protection website has advice about [what to do before, during and after an earthquake](https://civilprotection.gov.gr/odigies-prostasias/seismoi) (in Greek), and reports on incidents.
+For further guidance on how to prepare for earthquakes, please visit the [Greek Ministry of Civil Protection](https://civilprotection.gov.gr/en/odigies-prostasias/seismoi) (in English) and to see, for anywhere in Greece, where your nearest assembly points are located in case of emergency you can visit [mysafetyplan.gov.gr](https://mysafetyplan.gov.gr/) (map with text in Greek).
 
 [Previous
 :

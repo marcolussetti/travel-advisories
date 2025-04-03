@@ -24,7 +24,7 @@ If you work in Israel without the proper permissions, you can be detained and de
 
 ## Electronic Travel Authorisation (ETA)
 
-From 1 January 2025, to visit Israel you will need to get an Electronic Travel Authorisation (ETA) before you arrive. The ETA covers a visit of 90 days and will cost 25 new Israeli sheqels. You can check your eligibility and [apply for an ETA with the Israel Population and Immigration authority](https://israel-entry.piba.gov.il/).
+As of 1 January 2025, to visit Israel you will need to get an Electronic Travel Authorisation (ETA) before you arrive. The ETA is valid for 2 years and covers a visit of 90 days. It will cost 25 new Israeli shekels. You can check your eligibility and [apply for an ETA with the Israel Population and Immigration authority](https://israel-entry.piba.gov.il/)
 
 ## Checks at border control
 

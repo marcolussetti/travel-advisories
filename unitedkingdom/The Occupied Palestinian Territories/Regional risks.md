@@ -35,7 +35,7 @@ FCDO advises against all travel within 500m of the border with Gaza.
 
 There have been repeated instances of rocket fire from Gaza, which may reach well beyond the Gaza border area. Israel has often responded with air strikes into Gaza. You should:
 
-* make sure you know the safety actions to take if an Israeli warning siren sounds  – no warning sirens will sound inside Gaza
+* make sure you know the safety actions to take if an Israeli warning siren sounds – no warning sirens will sound inside Gaza
 * follow [advice from local authorities](https://www.idf.il/en/minisites/regional-commands/home-front-command/how-to-act-during-an-alert/)
 * stay informed of the security situation through the media
 

@@ -1,11 +1,11 @@
 {
     "name": "New Caledonia",
-    "update_reason": "Updated information on public restrictions ('Safety and security' page).",
+    "update_reason": "FCDO no longer advises against all but essential travel to New Caledonia ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/New Caledonia/Warnings and insurance.md",
-            "update_date": "2024-09-26T18:56:42+01:00"
+            "update_date": "2025-04-02T16:23:14+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/New Caledonia/Getting help.md"
         }
     ],
-    "update_date": "2024-09-26T18:56:42+01:00"
+    "update_date": "2025-04-02T16:23:14+01:00"
 }
