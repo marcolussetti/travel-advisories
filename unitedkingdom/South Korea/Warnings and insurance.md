@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   2 April 2025
+:   4 April 2025
 
 Updated:
-:   1 April 2025
+:   3 April 2025
 
 Latest update:
-:   Updated information on elevated political tensions ('Warnings and insurance' page).
+:   New information on electronic entry declaration documents, forest fires, doctor shortages and English-language support ('Entry requirements', 'Safety and security', 'Health' and 'Getting help' pages).
 
 ## Elevated political tensions
 

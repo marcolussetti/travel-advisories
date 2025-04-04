@@ -90,6 +90,12 @@ Strong earthquakes are unusual in South Korea but do happen. Most earthquakes in
 
 Read up on the any guidance from local authorities on safety procedures in an earthquake and check the safety tips from the [Seoul Metropolitan Government](http://english.seoul.go.kr/service/living/disaster-evacuation-tips-citizens/earthquake/).
 
+### Forest fires
+
+Forest fires may occur in South Korea. Pay attention to warnings from local authorities and follow any safety instructions that they issue. Korean-language emergency alerts will automatically be sent to your mobile phone if you are in an affected area, and English-language translations of emergency alerts can be accessed on the [National Disaster and Safety Portal](http://eng.safekorea.go.kr/main/selectMainMng.do;jsessionid=PDT3vCBEnTHGMb02GsdHXALK.node10) and in the [Emergency Ready App](https://agent.safekorea.go.kr/idsiSCH/era_pop.jsp).
+
+You can track the location and progress of fires through the Korea Forest Service website in [English](https://fd.forest.go.kr/ffas/pubConn/movePage/english.do) and [Korean](https://fd.forest.go.kr/ffas/index.jsp).
+
 [Previous
 :
 Entry requirements](/foreign-travel-advice/south-korea/entry-requirements)

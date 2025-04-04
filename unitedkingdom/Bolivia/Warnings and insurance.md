@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   4 April 2025
 
 Updated:
-:   11 March 2025
+:   3 April 2025
 
 Latest update:
-:   New information on safety standards for bus transportation (see ‘Buses and taxis’ on the ‘Safety and security’ page).
+:   Updated information on health risks in Bolivia ('Health' page).
 
 ![](https://assets.publishing.service.gov.uk/media/672ccc5a62831268b0b1a328/FCDO__TA__098_-_Bolivia_Travel_Advice_Ed1__WEB_.jpg)
 

@@ -10,6 +10,15 @@ Fire: 119
 
 Police: 112
 
+## English language support
+
+The Korea Tourism Organisation (KTO) operates a [travel](http://eng.safekorea.go.kr/helpdesk/link/selectKoreaTrevelHotline.do) hotline to provide assistance in multiple languages, including English. The hotline also offers interpretation services, including support for three-way calls (e.g. between British nationals, the hotline and emergency services) from 7am to midnight. Call 1330 to contact the travel hotline.
+
+Remote interpretation services may be helpful in the case of emergency or out of hours support. The following call centres offer interpretation support, including three-way calls, to foreigners in South Korea:
+
+* Dasan Call Centre (+82 2 120) – available 9am to 6pm Monday-Friday
+* Danuri Call Centre (1577 1366) – available 24/7
+
 ## Contact your travel provider and insurer
 
 Contact your travel provider and your insurer if you are involved in a serious incident or emergency abroad. They will tell you if they can help and what you need to do.

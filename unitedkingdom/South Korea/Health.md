@@ -42,6 +42,12 @@ FCDO has a [list of medical providers in South Korea](https://www.gov.uk/governm
 
 There is also [guidance on healthcare if you’re living in South Korea](https://www.gov.uk/guidance/living-in-south-korea).
 
+## Doctor shortage
+
+South Korea is experiencing an ongoing doctor shortage which could cause disruption and delays at hospitals nationwide, including at large hospitals with international clinics. Patients may experience postponed surgeries and cancelled medical appointments. Some hospitals are prioritising access to emergency care based on the severity of injury or illness, which may result in complications accessing emergency care. Private hospitals and clinics are generally less affected but may still experience some disruptions.
+
+The South Korean Ministry of Health and Welfare (MOHW) maintains an [online database](https://www.e-gen.or.kr/egen/holiday_medical.do?emergencyViewYn=Y) (in Korean) of emergency services at available medical centres nationwide.
+
 ## Medical tourism
 
 If you are travelling to South Korea for elective treatment, such as cosmetic surgery or a dental procedure, consider that no medical procedure is risk-free. Make sure that your travel health insurance covers complications that may arise and repatriation to the UK if required.

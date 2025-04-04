@@ -40,6 +40,12 @@ British nationals teaching English in South Korea have sometimes found living an
 
 Check all terms and conditions of your employment carefully. If possible, speak to other teachers from the place where you plan to work before accepting any offer. If you are in South Korea and in need of assistance, you should contact the [British Embassy in Seoul](https://www.gov.uk/world/organisations/british-embassy-seoul).
 
+## Entry declaration form
+
+Foreign nationals entering South Korea are required to submit an entry declaration form (arrivals card) to the immigration officer upon arrival. From 24 February 2025, passengers may submit an e-Arrival card online in advance instead of submitting a paper form to the immigration officers.
+
+The e-Arrival card can be submitted up to 72 hours before arrival in South Korea. There is no fee to submit the e-Arrival card. Travellers should visit the [e-Arrival card website](https://www.e-arrivalcard.go.kr/portal/main/index.do) for further details on the e-Arrival card submission process. Paper entry declaration forms will still be available until December 2025.
+
 ## Health screening
 
 All travellers arriving in South Korea from ‘Strict Quarantine Inspection Required Areas’ (including those who have transited in a ‘Strict Quarantine Inspection Required Area’) need to submit a health questionnaire, either through the pre-entry Q-Code system or by completing a paper-based questionnaire on arrival in South Korea. Travellers arriving in South Korea from ‘Quarantine Inspection Required Areas’ who exhibit symptoms must also submit a Q-Code or paper-based health questionnaire.

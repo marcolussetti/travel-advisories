@@ -1,11 +1,11 @@
 {
     "name": "Bolivia",
-    "update_reason": "New information on safety standards for bus transportation (see \u2018Buses and taxis\u2019 on the \u2018Safety and security\u2019 page).",
+    "update_reason": "Updated information on health risks in Bolivia ('Health' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Bolivia/Warnings and insurance.md",
-            "update_date": "2025-03-11T17:00:27+00:00"
+            "update_date": "2025-04-03T12:35:38+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Bolivia/Getting help.md"
         }
     ],
-    "update_date": "2025-03-11T17:00:27+00:00"
+    "update_date": "2025-04-03T12:35:38+01:00"
 }

@@ -23,6 +23,7 @@ At least 8 weeks before your trip:
 See [what health risks you’ll face in Bolivia](https://travelhealthpro.org.uk/country/30/bolivia), including:
 
 * Oropouche virus disease
+* Zika virus
 
 Altitude sickness is a risk in parts of Bolivia, including in La Paz and the Salar de Uyuni salt flats. Read more about [altitude sickness on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/26/altitude-illness).
 
