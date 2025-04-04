@@ -10,17 +10,17 @@ These areas are particularly dangerous due to their remoteness.
 
 ### **Crime**
 
-Street crime is a problem in areas like Panama City, Colon, and Chiriqui province. Such crimes can include shootings, home invasions, armed robberies, pick-pocketing, muggings, and thefts.  Areas such as San Miguelito, El Chorillo and Juan Diaz are known to have greater levels of crime as most of these crimes are between members of rival drug gangs.
+Street crime is a problem in areas like Panama City, Colon, and Chiriqui province. Such crimes can include shootings, home invasions, armed robberies, pick-pocketing, muggings, and thefts. In Panama City, areas such as San Miguelito, El Chorillo, Rio Abajo, 24 de Diciembre, Santa Ana and Juan Diaz are known to have greater levels of crime as most of these crimes are between members of rival gangs.
 
 Personal attacks, including sexual assault, can occur in tourist destinations across Panama.
 
-Always take precautions to protect self and personal belongings against the risk of crime. Where possible, travellers should plan how they would travel to and from their destination. Public transportation should be used with caution.
+Always take precautions to protect oneself and personal belongings against the risk of crime. Where possible, travellers should plan how they will travel to and from their destination. Public transportation should be used with caution. There is a risk of pickpocketing on buses, at bus stations and in busy areas.
 
-### **Petty crime**
+People have been targeted after withdrawing cash from ATMs. Use ATMs located inside banks or shopping centres.
 
-Petty theft, such as pick-pocketing and bag-snatching, is relatively common in Panama, especially in busy areas, on buses and at bus stations. Take care of your personal belongings and avoid obvious displays of wealth. Avoid using mobile phones on the street.
+Take care of your personal belongings and avoid obvious displays of wealth. Do not carry large sums of cash or valuables in public.
 
-Only use ATMs in banks or shopping centres.  Do not carry large sums of cash or valuables in public.
+Avoid using mobile phones on the street.
 
 ### **Lost or stolen passports:**
 

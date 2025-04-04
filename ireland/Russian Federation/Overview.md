@@ -6,19 +6,19 @@ Do Not Travel
 
 ### **Latest Travel Alert**
 
-The Department of Foreign Affairs strongly advises against all travel to the Russian Federation until further notice.
+The Department of Foreign Affairs and Trade strongly advises against all travel to the Russian Federation until further notice.
 
-Irish citizens who are in Russia are advised to carefully consider the necessity of their continued stay in Russia. **The Embassy of Ireland in Moscow strongly recommends all Irish citizens to have plans in place to leave Russia, should their own circumstances deteriorate.** Due to staff reductions following Diplomatic Expulsions ordered by the Russian Government, the Embassy has significantly fewer resources to assist in a crisis. Irish citizens should not rely on the possibility of an organised evacuation occurring in the event of a crisis, and should instead have their own plans for departure in place.
+Irish citizens who are in Russia are advised to carefully consider the necessity of their continued stay in Russia. **The Embassy of Ireland in Moscow strongly recommends all Irish citizens to have plans in place to leave Russia, should their own circumstances deteriorate.** Due to staffing restrictions imposed by the Russian Government, the Embassy has significantly fewer resources to assist in a crisis. Irish citizens should not rely on the possibility of an organised evacuation occurring in the event of a crisis, and should instead have their own plans for departure in place.
 
 Dual Irish-Russian citizens should be aware of the fact that the Russian Government will only recognise Russian citizenship for the purposes of local law enforcement and administration, including in areas of compulsory military service.
 
-Information on current departure options from Russia is below. The Embassy strongly recommends Irish Citizens research their options for departure both via an air route from Russia, and a land crossing into EU neighbouring states. The Embassy notes that as the situation in Russia becomes more volatile, air routes can very quickly be booked out or become unavailable.
+Information on current departure options from Russia is below. The Embassy strongly recommends that Irish Citizens research their options for departure both via an air route from Russia, and a land crossing into EU neighbouring states. The Embassy notes that should the situation in Russia becomes more volatile, air routes could very quickly be booked out or become unavailable.
 
-Irish citizens resident in Russia who have not already done so are strongly recommended to register with the Embassy using the Department’s [**Citizens' Registration facility**](/en/dfa/overseas-travel/citizens-registration/). This is the way that the Embassy communicates with the Irish community to share information and updates.
+Irish citizens resident in Russia who have not already done so are strongly recommended to register with the Embassy using the Department’s [**Citizens' Registration facility**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/). This is the way that the Embassy communicates with the Irish community to share information and updates.
 
 ### **Embassy Operations**
 
-While normal operating hours continue in both the Visa office and Embassy, citizens should be aware of significant delays in processing documentation, including passports. This is due both to reduced staffing in the Embassy and ongoing difficulties in international post and shipping.
+While normal operating hours continue in both the Embassy and the Visa Office, citizens should be aware of significant delays in processing documentation, including passports. This is due both to reduced staffing in the Embassy and ongoing difficulties in international post and shipping.
 
 Citizens should also be mindful of the reduced ability of the Embassy to provide support in crisis scenarios, particularly for citizens situated far from Moscow.
 
@@ -34,11 +34,11 @@ All persons and entities considering doing business with Russian entities or tra
 
 ### **Mass Gatherings and Arbitrary Detention**
 
-Irish citizens in Russia should be vigilant about their own safety and avoid mass gatherings, including protests or demonstrations. Please also be aware that new laws that affect media freedom of expression can be used to impose severe and arbitrary sentences of up to 15 years in prison. Irish citizens should be mindful this includes posting or sharing banned content on social media.
+Irish citizens in Russia should be vigilant about their own safety and avoid mass gatherings, including protests or demonstrations. Please also be aware that laws that affect media freedom of expression can be used to impose severe and arbitrary sentences of up to 15 years in prison. Irish citizens should be mindful this includes posting or sharing banned content on social media.
 
 ### **Banking Restrictions in Russia**
 
-Irish citizens in Russia should be mindful that increasingly severe limitations on banking, including the withdrawal of Visa and Mastercard services, may directly affect their ability to access their money for the foreseeable future. Any citizens who have made the decision to travel to Russia should ensure they have adequate cash supplies for their stay and for emergencies, if they do not have a source of funding within Russia.
+Irish citizens in Russia should be mindful that severe limitations on banking, including the withdrawal of Visa and Mastercard services, directly affect their ability to access their money for the foreseeable future. Any citizens who have made the decision to travel to Russia should ensure they have adequate cash supplies for their stay and for emergencies, if they do not have a source of funding within Russia.
 
 ### **Transport Routes Out of Russia**
 
@@ -46,21 +46,19 @@ There are severely limited or no flight routes directly to the EU. Citizens wish
 
 Citizens intending to travel through these countries to Ireland should consult the Department’s Travel Advice in advance:
 
-[**Travel Advice for Türkiye (Turkey)**](/en/dfa/overseas-travel/advice/turkiye/)
+[**Travel Advice for Türkiye (Turkey)**](https://www.ireland.ie/en/dfa/overseas-travel/advice/turkiye/)
 
-[**Travel Advice for UAE**](/en/dfa/overseas-travel/advice/united-arab-emirates/)
+[**Travel Advice for UAE**](https://www.ireland.ie/en/dfa/overseas-travel/advice/united-arab-emirates/)
 
 Unfortunately, it is not possible to predict when direct flight routes to EU countries will resume.
 
-Options also exist for overland departure from the Russian Federation.
+Options also exist for overland departure from the Russian Federation through Latvia and Estonia.
 
-The Department is aware of a bus route from St. Petersburg to Tallinn in Estonia that may of interest to Irish citizens. Details of this route can be found [**here**](https://luxexpress.eu/en/routes/st-petersburg-tallinn/).
-
-Citizens intending on taking overland routes to neighbouring EU countries should check the [**travel advice**](/en/dfa/overseas-travel/advice/) for those countries before booking tickets and ensure they comply with entry regulations.
+Citizens intending on taking overland routes to neighboring EU countries should check the [**travel advice**](https://www.ireland.ie/en/dfa/overseas-travel/advice/) and current border regulations for those countries before booking tickets and ensure they comply with entry regulations.
 
 ### **Citizens in Ukraine**
 
-If you are an Irish national inside Ukraine, please register your details [**here**](/en/dfa/overseas-travel/citizens-registration/) and monitor the travel advice [**here**](/en/dfa/overseas-travel/advice/ukraine/), which is updated regularly.
+If you are an Irish national inside Ukraine, please register your details [**here**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/) and monitor the travel advice [**here**](https://www.ireland.ie/en/dfa/overseas-travel/advice/ukraine/), which is updated regularly.
 
 ### **General Travel Advice**
 
@@ -68,13 +66,13 @@ The Department of Foreign Affairs strongly recommends against all travel to Russ
 
 Irish citizens travelling to Russia are advised to respect the validity of their Russian visa. A visa over-stay of even a few hours can have serious consequences potentially involving a court appearance, fine, and travel ban of up to 5 years.
 
-A system of electronic visas has been introduced by the Russian Government in Summer 2023. More information on the details of this scheme can be found [**here.**](https://electronic-visa.kdmid.ru/)
+A system of electronic visas has been introduced by the Russian Government in Summer 2023. More information on the details of this scheme can be found [**here.**](https://electronic-visa.kdmid.ru/)
 
 Further information on entry requirements, visa requests, or immigration issues should be directed to your local Russian Embassy.
 
 Irish citizens should ensure that the name on their visa exactly matches the one in their passport. Even a minor difference in spelling will result in entry to Russia being refused. The Embassy has no ability to assist in such cases.
 
-For information relating to Ukraine, please visit the Department's [**Travel Advice**](/en/dfa/overseas-travel/advice/ukraine/). The Embassy strongly advises against all travel to regions bordering Ukraine, due to the active conflict.
+For information relating to Ukraine, please visit the Department's [**Travel Advice**](https://www.ireland.ie/en/dfa/overseas-travel/advice/ukraine/). The Embassy strongly advises against all travel to regions bordering Ukraine, due to the active conflict.
 
 Given the volatile security situation in the North Caucasus, we strongly advise against all travel to Chechnya, Ingushetia, Dagestan and to the eastern and southern parts of Stavropol Krai bordering Chechnya and Dagestan, including the Budyonnovsky, Levkumsky, Neftekumsky, Stepnovsky and Kursky regions.
 
@@ -88,17 +86,17 @@ Specific emergency numbers are:
 * Fire brigade: 101
 * Ambulance: 103
 
-Any Irish citizens normally resident in Ireland who are seeking assistance travelling home should [**contact**](https://www.dfa.ie/irish-embassy/russia/contact-us/) the embassy.
+Any Irish citizens normally resident in Ireland who are seeking assistance travelling home should [**contact**](https://www.dfa.ie/irish-embassy/russia/contact-us/) the embassy.
 
-Irish citizens resident in Russia who have not already done so are recommended to register their details with the Embassy [**here**](/en/dfa/overseas-travel/citizens-registration/).
+Irish citizens resident in Russia who have not already done so are recommended to register their details with the Embassy [**here**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/).
 
 ### **Our tips for Safe Travels:**
 
 * Get comprehensive travel insurance that covers all your planned activities.
-* [**Register**](/en/dfa/overseas-travel/citizens-registration/) your details with us so that we can contact you quickly if there’s an unforeseen crisis like a natural disaster or a family emergency.
-* Follow us on twitter [**@dfatravelwise**](https://www.twitter.com/DFATravelWise) for the latest travel updates.
-* Read our [**‘Know Before You Go’**](/en/dfa/overseas-travel/know-before-you-go/) guide.
+* [**Register**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/) your details with us so that we can contact you quickly if there’s an unforeseen crisis like a natural disaster or a family emergency.
+* Follow us on X [**@dfatravelwise**](https://www.twitter.com/DFATravelWise) and Instagram [**@dfatravelwise**](https://www.instagram.com/dfatravelwise/) for the latest travel updates.
+* Read our [**‘Know Before You Go’**](https://www.ireland.ie/en/dfa/overseas-travel/know-before-you-go/) guide.
 
-#### **In countries where Ireland does not have an Embassy:**
+### **In countries where Ireland does not have an Embassy:**
 
-As there is no Irish Embassy in Kazakhstan, Uzbekistan, Turkmenistan, Tajikistan, and Kyrgyzstan we are limited in the help we can offer you in an emergency. However, if you need assistance, you can contact the [**Irish Embassy in Moscow**](https://www.dfa.ie/irish-embassy/russia/contact-us/).
+As there is no Irish Embassy in Kazakhstan, Uzbekistan, Tajikistan, and Kyrgyzstan we are limited in the help we can offer you in an emergency. However, if you need assistance, you can contact the [**Irish Embassy in Moscow**](https://www.dfa.ie/irish-embassy/russia/contact-us/).

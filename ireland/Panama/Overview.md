@@ -34,7 +34,7 @@ Visitors can contact the emergency services in Panama by dialling 911. Specific 
 
 * Get comprehensive travel insurance that covers all planned activities.
 * [**Register**](/en/dfa/overseas-travel/citizens-registration/) personal details with us so that the embassy can contact travellers quickly if there’s an unforeseen crisis like a natural disaster or a family emergency.
-* Follow us on twitter [**@dfatravelwise**](https://www.twitter.com/DFATravelWise) for the latest travel updates.
+* Follow us on X [**@dfatravelwise**](https://www.twitter.com/DFATravelWise) and Instagram [**@dfatravelwise**](https://www.instagram.com/dfatravelwise/)for the latest travel updates.
 * Read our [**‘Know Before You Go’**](/en/dfa/overseas-travel/know-before-you-go/) guide.
 
 As there is no Irish Embassy in Panama, the embassy is limited in the help that can be offered in an emergency. However, if any assistance is needed, travellers can contact the [**Irish Embassy in Colombia**](/en/colombia/bogota/)**.**

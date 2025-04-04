@@ -1,6 +1,6 @@
 ## Health
 
-Before travel, travellers should make sure they have adequate travel health insurance and accessible funds to cover the cost of any medical treatment abroad or repatriation.
+Before travel, travellers should make sure they get comprehensive travel insurance and accessible funds to cover the cost of any medical treatment abroad or repatriation.
 
 ### **Vaccinations**
 
@@ -8,7 +8,11 @@ Travellers should check with their doctor well in advance of travelling to see i
 
 ### **Medical facilities**
 
-The standard of healthcare facilities in Panama City is generally good, but medical facilities outside the capital are limited. If you need emergency medical assistance dial 911.
+Panama’s overall healthcare system is considered to be of a good strandard, but medical facilities outside the capital are limited. If you need emergency medical assistance dial 911.
+
+### **Yellow Fever**
+
+[**Yellow fever vaccination**](https://www.passporthealthusa.com/vaccinations/yellow-fever/) is primarily recommended for travel east of the Canal Zone. Areas west of the zone and urban regions have a low risk of yellow fever. While [**yellow fever**](https://www.passporthealthusa.com/vaccinations/yellow-fever/) is not present in Panama, proof of vaccination may be required if entering from a country with the virus. Consider vaccination if traveling to or from South America through Panama.
 
 ### **Malaria**
 

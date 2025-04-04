@@ -4,23 +4,15 @@
 
 Normal Precautions
 
-### **General Travel Advice**
+### **Travel Alert**
 
-### **Earthquakes, 07 February to 03 April 2025**
+### **Earthquakes and Seismic Activity**
 
-The islands of Santorini (Thira), Amorgos, Anafi and los are currently experiencing a significant volume of earthquakes. The authorities have declared a State of Emergency on Santorini until 03 April, Amorgos until 11 March, Anafi until 13 March, and los until 14 March, and have issued guidance to those on these islands:
-
-- avoid large gatherings inside buildings
-
-- avoid approaching old and abandoned buildings
-
-- avoid accessing and staying in the ports of Ammoudi, Armeni, Korfos and the Old Port of Fira
-
-- choose safe routes when moving around the road network, especially at points where there are steep slopes and landslides are likely to occur
-
-- If near the coast leave the area if strong tremors occur
+The islands of Santorini (Thira), Amorgos, Anafi and los are currently experiencing a significant volume of earthquakes. The authorities have put in place a series of safety measures on Santorini until 15 May at the Old Port of Fira, the eastern part of the settlement of Armeni Oia and the Ammoudi Settlement.
 
 Information and instructions on staying safe during an earthquake are available on the website of the [**Greek Ministry of Climate Crisis and Civil Protection**](http://www.civilprotection.gov.gr). Maps detailing nearby evacuation points are available at [**mySafetyPlan**](https://mysafetyplan.gov.gr/)**.** If you are in immediate need of assistance, please call 112.
+
+### **General Travel Advice**
 
 ### **Entry Requirements**
 

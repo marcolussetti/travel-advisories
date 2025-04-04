@@ -10,4 +10,4 @@ It is advisable for travellers to take a number of photocopies of their passport
 
 ### **Arriving by sea**
 
-Those arriving in Panama by private boat are advised to contact Panama’s [**Servicio Nacional de Migración**](https://www.migracion.gob.pa/) for information on entry permits and associated fees and conditions.
+Travellers arriving by sea (except for arrivals on a cruise ship) have to pay an entry permit fee of $110. This fee allows entry into Panama for three months. Citizens navigating private craft through the should contact the [**Panama Canal Authority**](https://pancanal.com/en/) for further information.
