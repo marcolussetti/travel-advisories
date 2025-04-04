@@ -2,6 +2,10 @@
 
 ## Entry and exit requirements
 
+Starting on April 10, 2025, Canadians will require a visa to enter Brazil.
+
+[Brazil eVisa](https://brazil.vfsevisa.com/) – VFS Global
+
 Every country or territory decides who can enter or exit through its borders. The Government of Canada cannot intervene on your behalf if you do not meet your destination’s entry or exit requirements.
 
 We have obtained the information on this page from the Brazilian authorities. It can, however, change at any time.

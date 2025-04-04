@@ -153,13 +153,14 @@ Women travelling alone may be subject to some forms of harassment and verbal abu
 
 ### Spiked food and drinks
 
-Never leave food or drinks unattended or in the care of strangers. Be wary of accepting snacks, beverages, gum, cigarettes or anything else from new acquaintances or someone in the street. These items may contain drugs that could put you at risk of sexual assault and robbery.
+Never leave your food or drinks unattended or in the care of strangers. Avoid accepting snacks, beverages, gum or cigarettes from new acquaintances, as these items may contain drugs that could put you at risk of sexual assault and robbery.
 
-### Online dating
+#### Online dating
 
-Robberies have occurred after travellers invited new acquaintances they met online into their accommodation.
+Travellers have been drugged and robbed after inviting new acquaintances they met online to their accommodation.
 
-If you are considering online dating while in Argentina, be aware of the risks involved.
+* Be cautious if using online dating apps
+* Always meet new acquaintances in a secure and familiar location
 
 ### Swimming
 
