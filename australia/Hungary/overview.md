@@ -48,7 +48,7 @@ Full travel advice: [Local laws](#local-laws)
 ### Travel
 
 * Hungary is part of the [Schengen area](/before-you-go/the-basics/schengen "Visas and entry requirements in Europe and the Schengen Area"). This means that, in some cases, you can enter Hungary without a visa. Otherwise, you'll need to get a visa before you travel.
-* The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area has been delayed until 2025. A specific start date hasn't been announced.
+* The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area is expected to start in October 2025.
 * Entry and exit conditions can change at short notice. You should contact the nearest [embassy](https://protocol.dfat.gov.au/Public/Missions/89) or [consulate](https://protocol.dfat.gov.au/Public/Consulates/89/State) of Hungary for the latest details.
 
 Full travel advice: [Travel](#travel)

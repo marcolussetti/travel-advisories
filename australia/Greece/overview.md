@@ -52,7 +52,7 @@ Full travel advice: [Local laws](#local-laws)
 ### Travel
 
 * Greece is a part of the [Schengen area](/before-you-go/the-basics/schengen "Visas and entry requirements in Europe and the Schengen Area"). This allows you to enter without a visa in some cases.
-* The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area will be implemented in 2025. A specific start date hasn't been announced.
+* The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen area is expected to start in October 2025.
 * There may be long queues at border points when the new system starts. Allow plenty of time for transfers.
 * Entry and exit conditions can change at short notice. Contact the nearest [Greek embassy or Consulate](https://www.mfa.gr/missionsabroad/en/) for enquiries about your ability to enter Greece from your departure country.
 

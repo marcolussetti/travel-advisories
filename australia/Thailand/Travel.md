@@ -6,6 +6,8 @@
 
 #### Visas
 
+From 1 May 2025, you must complete a [Thailand Digital Arrival Card (TDAC)](https://tdac.immigration.go.th) within three days before arriving in Thailand. The TDAC must be submitted online through the [Thailand Immigration Bureau website](https://tdac.immigration.go.th/). See the [Thailand Immigration Bureau website](https://tdac.immigration.go.th/manual/en/) for further information, including a guide to completing the TDAC and how to submit the TDAC online.
+
 You can get a visa exemption for up to 60 days on arrival in Thailand for tourism and short-term business travel. Your passport must be valid for more than 6 months before entering Thailand.
 
 If you require an E-Visa, you can apply through the [Official Thai E-Visa website](https://www.thaievisa.go.th/). You can only apply if you're currently not in Thailand and in a country where E-visa services are available, and you're no longer required to submit your passports and supporting documents in person at the Royal Thai Embassy/Consulate-General. After the E-Visa application has been approved, a confirmation email will be sent, which can be printed and presented to airlines and Thai immigration officials when entering Thailand.

@@ -2,7 +2,7 @@
 
 Latest update
 
-We continue to advise exercise normal safety precautions. If you're visiting for less than 90 days, you may be eligible to apply for an Electronic System for Travel Authorization (ESTA) and enter the United States under the Visa Waiver Program (VWP). If not, you'll need to get a visa before you travel (see 'Travel').
+Entry requirements are strict. US authorities have broad powers to decide if you're eligible to enter and may determine that you are inadmissible for any reason under US law. Check US entry, transit and exit requirements. Whether you're travelling on a visa or under the Visa Waiver Program, ensure you understand all relevant terms and conditions before attempting to enter the United States.
 
 Advice Level summary
 

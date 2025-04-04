@@ -49,7 +49,7 @@ Full travel advice: [Local laws](#local-laws)
 
 * The international airport remains open after the volcanic eruption on the Reykjanes Peninsula. Monitor local media for updates and follow the advice of local authorities on exclusion zones and road closures.
 * Iceland is part of the [Schengen area](/before-you-go/the-basics/schengen "Visas and entry requirements in Europe and the Schengen Area"). You may be able to enter Iceland without a [visa](https://www.government.is/topics/foreign-affairs/visa-to-iceland/) in some cases.
-* The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area has been delayed until 2025. A specific start date hasn't been announced.
+* The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area is expected to start in October 2025.
 * Entry and exit conditions can change at short notice. Contact an [embassy](https://protocol.dfat.gov.au/Public/Missions/90) or [consulate](https://protocol.dfat.gov.au/Public/Consulates/90/State) of Iceland for details about visas, currency, customs and quarantine rules.
 
 Full travel advice: [Travel](#travel)

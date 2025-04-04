@@ -86,7 +86,7 @@ Possible targets for future attacks include:
 * hotels and beach resorts
 * restaurants, bars and nightclubs
 * schools and places of worship
-* outdoor recreation events
+* outdoor recreation events, including festivals or other gatherings in public spaces
 
 Other targets include public buildings, public transport, airports and sea ports.
 

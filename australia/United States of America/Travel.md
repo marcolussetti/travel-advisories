@@ -26,9 +26,9 @@ Visa and other entry and exit conditions, including currency, customs and quaran
 
 If you plan to visit the United States and/or its territories, including the US Virgin Islands and Puerto Rico, for less than 90 days, you may be able to travel under the VWP. 
 
-The VWP is intended for short, infrequent visits to the United States and can be used by tourists and business travellers. Conditions apply.
+The VWP is intended for short, infrequent visits to the United States and can be used by tourists and business travellers. Conditions apply, including that you cannot enter paid or unpaid employment in the United States when you travel under the VWP.
 
-Ensure you know all terms and conditions before applying for your ESTA and attempting to enter the US under VWP.
+Ensure you know all terms and conditions before applying for your ESTA and attempting to enter the United States under VWP.
 
 If you don't satisfy US Customs and Border Protection (CBP) officials at your port of entry that you're entitled to be admitted under the VWP, you may be denied entry and detained.
 
@@ -47,7 +47,7 @@ Before you can travel under the VWP, you must apply and be pre-approved via the 
 
 US authorities recommend applying as soon as you know you'll be travelling. ESTA approvals can take up to 72 hours.
 
-ESTAs are valid for 2 years and for multiple entries.
+ESTAs are valid for 2 years and for multiple entries when travelling on the same passport.
 
 You'll need to apply for a new ESTA if:
 
@@ -82,7 +82,7 @@ The category of visa you need to apply for will depend on your reason for travel
 
 #### Entry into the US
 
-An approved ESTA or valid visa allows you to board a US-bound plane or vessel or request entry at a land border. It doesn't guarantee entry to the US.
+An approved ESTA or valid visa allows you to board a US-bound plane or vessel or request entry at a land border. It doesn't guarantee entry to the United States.
 
 US Customs and Border Protection (CBP) officials at the port of entry will decide if you can enter the country.
 
@@ -104,7 +104,7 @@ Whether you enter the United States under the VWP or on a visa, you'll likely ne
 
 You can be refused entry if you provide false information or can't satisfy the officials you're visiting for a valid reason.
 
-You may be held at the port of entry or a nearby detention facility while US authorities arrange for you to be returned to Australia (or the last country you visited).
+You may be held at the port of entry or a nearby detention facility (including in Hawaii) while US authorities arrange for you to be returned to Australia (or the last country you visited).
 
 If you're refused entry under the VWP, you generally don't have the right to an attorney or to appeal the decision.
 
@@ -121,7 +121,7 @@ A US Customs and Border Protection (CBP) official should:
 
 Your I-94 is evidence of your legal status in the United States and shows the date by which you must leave the country.
 
-You can [check your I-94 with CBP](https://i94.cbp.dhs.gov/I94/) each time you enter the US.
+You can [check your I-94 with CBP](https://i94.cbp.dhs.gov/I94/) each time you enter the United States.
 
 If you stay past your I-94 expiry date, you can be detained, deported and banned from re-entering the United States.
 
@@ -198,7 +198,7 @@ If you’re a tourist or visitor, be prepared to show your passport and entry st
 
 If you're living in the United States but not a US citizen, be prepared to show proof of legal residence, such as a US permanent resident card, valid US visa and electronic Form I-94, and US driver's licence issued by the state in which you live.
 
-If you travel on an incorrect visa, breach the conditions of your ESTA or visa, or are found to be unlawfully present in the United States, you may be held at the port of entry or a nearby detention facility while US authorities arrange your return to Australia (or the last country you visited).
+If you travel on an incorrect visa, breach the conditions of your ESTA or visa, or are found to be unlawfully present in the United States, you may be held at the port of entry or a nearby detention facility (including in Hawaii) while US authorities arrange your return to Australia (or the last country you visited).
 
 #### Passport
 
@@ -213,6 +213,8 @@ You may be denied boarding and become stranded in these countries if your passpo
 Some foreign governments and airlines apply the rule inconsistently. Travellers can receive conflicting advice from different sources.
 
 The Australian Government does not set these rules. Check your passport's expiry date before you travel. If you're not sure it'll be valid for long enough, consider getting [a new passport](https://www.passports.gov.au/).
+
+A passport or United States-issued form of photo identification is usually required to board domestic flights in the United States. Your domestic travel can be delayed or even denied if you cannot present identification at airport security screening.
 
 #### Lost or stolen passport
 
@@ -229,7 +231,7 @@ If your passport is lost or stolen, tell the Australian Government as soon as po
 
 Although Australian passports comply with international standards for sex and gender, we can't guarantee that a passport showing 'X' in the sex field will be accepted for entry or transit by another country.
 
-Contact the nearest [embassy, high commission or consulate of your destination](https://protocol.dfat.gov.au/Public/MissionsInAustralia) before you arrive at the border to confirm if authorities will accept passports with 'X' gender markers.
+Contact the nearest [US Embassy, or Consulate](https://protocol.dfat.gov.au/Public/Missions/212) before you travel for further information.
 
 **More information:**
 
@@ -239,7 +241,7 @@ Contact the nearest [embassy, high commission or consulate of your destination]
 
 The local currency is the United States Dollar (USD).
 
-Declare all amounts over USD $10,000 (or its foreign equivalent) on arrival and departure. This covers all forms of currency, not only US dollars and not only cash. Failing to do so is a serious violation and can result in the seizure and forfeiture of your money. Criminal penalties can also apply.
+[Declare all amounts over USD $10,000](https://www.usa.gov/travel-money) (or its foreign equivalent) on arrival and departure. This covers all forms of currency, not only US dollars and not only cash. Failing to do so is a serious violation and can result in the seizure and forfeiture of your money. Criminal penalties can also apply.
 
 Banks and ATMs are widespread throughout the United States, and currency exchange services are available in most major cities and airports.
 
@@ -306,7 +308,7 @@ Popular destinations for cruises originating and returning to or terminating in 
 
 Before embarking on a cruise, take steps to be [prepared](https://www.smartraveller.gov.au/before-you-go/getting-around/cruises) and reduce the risk of things going wrong. This includes choosing a travel insurance policy that covers you for cruising and any activities you do on shore.
 
-If you're embarking on a round-trip cruise to Canada, Mexico and/or the Caribbean, make sure your passport, ESTA or visa and I-94 will allow you to re-enter the United States (see Visas and border measures).
+If you're embarking on a round-trip cruise to Canada, Mexico and/or the Caribbean, make sure your passport, ESTA or visa and I-94 will allow you to re-enter the United States (see Visas and border measures), and you meet the entry requirements for the countries your cruise will stop in.
 
 **More information:**
 

@@ -19,7 +19,7 @@ It's also illegal to possess any prescription medication without a prescription.
 **More information:**
 
 * [Carrying or using drugs](https://www.smartraveller.gov.au/node/103)
-* [US Customs and Border Protection (CBP) - Travelling with Medication](https://help.cbp.gov/s/article/Article-1160?language=en_US)
+* [US Customs and Border Protection (CBP) - Travelling with Medication](https://www.help.cbp.gov/s/article/Article-1444?language=en_US)
 * [US Food and Drug Administration (FDA)](https://www.fda.gov/industry/import-basics/personal-importation)
 
 #### Alcohol
@@ -31,6 +31,8 @@ The federal legal age for buying and drinking alcohol is 21 years old. State law
 No federal law explicitly protects LGBTQIA+ people from discrimination, and not all state and local non-discrimination laws include protections based on sexual orientation or gender identity.
 
 Some states and localities have laws that may discriminate against or otherwise affect LGBTQIA+ travellers. Check relevant state and local laws.
+
+Although Australian passports comply with international standards for sex and gender, we can't guarantee that a passport showing 'X' in the sex field will be accepted for entry or transit by another country. Contact the nearest [United States Embassy or Consulate](https://protocol.dfat.gov.au/Public/Missions/212) before you travel for further information.
 
 **More information:**
 

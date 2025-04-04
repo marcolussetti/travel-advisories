@@ -37,11 +37,13 @@ Commercial surrogacy is illegal.
 * [Going overseas for international surrogacy](/before-you-go/activities/surrogacy "Going overseas for international surrogacy")
 * [Going overseas to adopt a child](/before-you-go/activities/adoption "Going overseas to adopt a child")
 
-#### E-cigarettes
+#### E-cigarettes and vaporisers
 
-E-cigarettes, e-baraku, and other related vaporisers, including refills, are prohibited. You can't import or transfer them through Thailand, even for personal use.
+E-cigarettes, e-brake, e-cigars, other vaporisers (vapes) and refills are prohibited, even for personal use.
 
-Producing or selling these items is illegal. You face either 10 years of imprisonment or a fine up to Thai Baht (THB) 1 million, or both.
+Producing, importing, transferring or selling these items is illegal. You face either 10 years of imprisonment or a fine up to Thai Baht (THB) 1 million, or both.
+
+Concealing, disposing, purchasing or receiving these items is also illegal. You face either 5 years of imprisonment, a fine of up to THB 500,000, or both.
 
 #### Other laws
 

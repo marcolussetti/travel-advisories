@@ -12,7 +12,7 @@ Military attacks may result in airspace closures, flight cancellations, diversio
 
 #### Gaza conflict
 
-Since October 2023, Israeli Defense Forces have been conducting major operations, including in and around Gaza. Military operations have been suspended in Gaza since 19 January 2025 as a result of a ceasefire agreement between Israel and Hamas but may resume in the event the agreement collapses. The risk of Israeli air strikes and land-based IDF operations remains, as does the threat of civil unrest, shooting, rocket and drone attacks. Rockets can land in both Gaza and Israel.
+Since October 2023, the Israel Defense Forces (IDF) has conducted major operations, including in and around Gaza. The risk of Israeli air strikes and land-based IDF operations remains, as does the threat of civil unrest, shooting, rocket and drone attacks. Rockets can land in both Gaza and Israel.
 
 Our ability to provide consular assistance in Gaza is extremely limited. If you're in Gaza, be aware of your surroundings and review your personal security plans. Monitor local media (including social media), UN alerts, and your own organisation's security contacts for information about changing security conditions and alerts to seek shelter.
 
@@ -195,6 +195,12 @@ Violent crime, other than terrorism and politically motivated violence, is rare.
 Purse snatching, pickpocketing and petty theft can happen.
 
 Theft from vehicles may happen, especially in beachside areas.
+
+Drink spiking can happen anywhere. Be alert to the potential risks, and don't leave food or drinks unattended. Pay attention when your drinks are being mixed. Stick to reputable venues and avoid homemade alcoholic drinks due to the risk of methanol poisoning. Get urgent medical help if you suspect you’ve been a victim.
+
+**More information:**
+
+* [Partying safely while overseas](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.smartraveller.gov.au%2Fbefore-you-go%2Fsafety%2Fpartying&data=05%7C02%7CSatish.Rajah%40dfat.gov.au%7Cbd0cd565db744527188508dd41a4930d%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638738897282100108%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=DFGIdvnVQqkQlzKZ5P5IwgUqDSzbZi7dcfw36sKHJgo%3D&reserved=0)
 
 #### Cyber security
 
