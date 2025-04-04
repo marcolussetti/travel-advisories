@@ -4,9 +4,9 @@
 
 **Helpful resources**
 
-* Embassy of Egypt Visa Information
-* Consulates General of Egypt in the U.S.
-* Dual Nationality
+* [Embassy of Egypt Visa Information](https://egyptembassy.net/consular-services/visas-travel/visa-requirements/)
+* [Consulates General of Egypt in the U.S.](https://egyptembassy.net/consular-services/egyptian-consulate-in-us/)
+* [Dual Nationality](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/Dual-Nationality-Travelers.html)
 * [Prevention of International Child Abduction](https://travel.state.gov/content/travel/en/International-Parental-Child-Abduction/prevention.html)
 * [Customs Regulations](https://travel.state.gov/content/travel/en/international-travel/before-you-go/customs-and-import.html)
 

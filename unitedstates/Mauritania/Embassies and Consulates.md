@@ -2,7 +2,7 @@
 
 [#### Embassies and Consulates](javascript:void(0); "Embassies and Consulates")
 
-**[U.S. Embassy Nouakchott](https://mr.usembassy.gov/)Nouadhibou Road, Avenue Al Quds,  
+**Nouadhibou Road, Avenue Al Quds,  
 NOT PRTZ.  
 Nouakchott, Mauritania  
 Phone:** +(222) 4525-2660   

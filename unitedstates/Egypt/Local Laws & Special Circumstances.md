@@ -80,7 +80,7 @@ LGB individuals face significant discrimination in Egypt.
 
 [LGB Travel Information](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/lgbtqi.html)
 
-[Human Rights Report for [Egypt]](https://www.state.gov/reports-bureau-of-democracy-human-rights-and-labor/country-reports-on-human-rights-practices/?) (See section 6)
+[Human Rights Report for Egypt](https://www.state.gov/reports-bureau-of-democracy-human-rights-and-labor/country-reports-on-human-rights-practices/?) (See section 6)
 
 **Travelers with disabilities**
 

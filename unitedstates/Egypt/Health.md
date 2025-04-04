@@ -4,12 +4,12 @@
 
 **Health resources**
 
-* Egypt Traveler Health Information (source: CDC)
-* [Medical Tourism information](https://wwwnc.cdc.gov/travel/yellowbook/2024/health-care-abroad/medical-tourism) (source: CDC)
-* [International Air Quality Index](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) (source: Department of State)
-* Insurance Coverage Overseas (source: Department of State)
-* Egypt Health Information (source: WHO)
-* List of Hospitals and Doctors in Egypt (source: U.S. Embassy in Egypt)
+* [Egypt Traveler Health Information](https://wwwnc.cdc.gov/travel/destinations/traveler/none/egypt)
+* [Medical Tourism information](https://wwwnc.cdc.gov/travel/yellowbook/2024/health-care-abroad/medical-tourism)
+* [International Air Quality Index](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html)
+* [Insurance Coverage Overseas](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html)
+* [Egypt Health Information](https://www.who.int/countries/egy/)
+* [List of Hospitals and Doctors in Egypt](https://eg.usembassy.gov/services/medical-assistance/)
 
 **Emergency numbers**
 
@@ -47,7 +47,7 @@ Emergency and intensive care facilities are limited.
 
 **Prescriptions**
 
-You must carry prescription medications in original packaging, along with your doctor’s prescription. Check with [Egypt’s Ministry of Health](https://www.gov.uk/foreign-travel-advice/egypt/health) to ensure the medication is legal in Egypt.
+You must carry prescription medications in original packaging, along with your doctor’s prescription. Check with [Egypt’s Ministry of Health](https://www.presidency.eg/en/%D8%A7%D9%84%D8%B1%D8%A6%D8%A7%D8%B3%D8%A9/%D8%A5%D9%86%D8%AC%D8%A7%D8%B2%D8%A7%D8%AA-%D9%85%D8%B5%D8%B1-%D9%81%D9%8A-%D8%AC%D9%85%D9%8A%D8%B9-%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D9%84%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D9%81%D8%AA%D8%B1%D8%A9-%D9%85%D9%86-2014-%D8%A5%D9%84%D9%89-2021/%D9%85%D8%AD%D9%88%D8%B1-%D8%A8%D9%86%D8%A7%D8%A1-%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D9%88%D8%A7%D9%84%D8%B3%D9%83%D8%A7%D9%86/) to ensure the medication is legal in Egypt.
 
 **Vaccinations**
 
