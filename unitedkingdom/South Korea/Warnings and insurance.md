@@ -1,28 +1,28 @@
 # Warnings and insurance
 
 Still current at:
-:   4 April 2025
+:   5 April 2025
 
 Updated:
-:   3 April 2025
+:   4 April 2025
 
 Latest update:
-:   New information on electronic entry declaration documents, forest fires, doctor shortages and English-language support ('Entry requirements', 'Safety and security', 'Health' and 'Getting help' pages).
+:   Updated guidance around elevated political tensions (‘Warnings and insurance’ page).
 
 ## Elevated political tensions
 
-The Constitutional Court has announced that it will deliver its verdict on President Yoon’s impeachment on Friday 4 April. Large demonstrations are likely in response to the verdict. Protests are particularly likely in the following areas:
+Large protests may continue following the Constitutional Court’s decision on Friday 4 April to remove President Yoon from office. Protests are particularly likely in the following areas of Seoul:
 
 * Around the Constitutional Court (near Anguk station)
 * Gwanghwamun Square and Sejong-daero, particularly between the City Hall/Deoksugung area and Gyeongbokgung
 * Around the Presidential Residence (in Hannam-dong)
 * Around the National Assembly (in Yeouido)
 
-Access may be disrupted to facilities such as schools and offices in the likely protest locations, and to nearby tourist attractions including the palaces of Gyeongbokgung and Deoksugung, Gwanghwamun Square, Bukchon Hanok Village, and Insadong. Protests may also occur in other locations, including in other cities around South Korea.
+Protests may also occur in other locations, including in other cities around South Korea.
 
-You should follow the advice of local authorities and avoid large public gatherings. If you regularly travel to the affected locations, you may want to consider alternative arrangements while protests are ongoing. Be aware that under Korean law, it is illegal for foreign nationals to take part in political activities when in the country.
+You should follow the advice of local authorities and avoid large public gatherings. Be aware that under Korean law, it is illegal for foreign nationals to take part in political activities when in the country.
 
-Protests may continue after the day of the verdict. You should monitor local media and this Travel Advice for updates. See  [Safety and security page](https://www.gov.uk/foreign-travel-advice/south-korea/safety-and-security#demonstrations) for more information.
+You should monitor local media and this Travel Advice for updates. See  [Safety and security page](https://www.gov.uk/foreign-travel-advice/south-korea/safety-and-security#demonstrations) for more information.
 
 ## Before you travel
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   5 April 2025
 
 Updated:
-:   22 February 2024
+:   4 April 2025
 
 Latest update:
-:   This travel advice has been rewritten to make it easier to read and understand.
+:   Updated information following an earthquake in the region ('Warnings and insurance' & ‘Safety and Security’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/627a68268fa8f57d82837b34/FCDO__TA__063_-_Papua_New_Guinea_Ed1__WEB_.jpg)
 
@@ -15,6 +15,8 @@ Latest update:
 [Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/627a681b8fa8f57d882d2376/FCDO__TA__063_-_Papua_New_Guinea_Ed1.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth and Development Office (FCDO).
+
+There was a 6.9 magnitude earthquake in the New Britain Region, Papua New Guinea at 06:04:39 local time, 5 Apr 2025. The advice is to follow emergency instructions from local authorities.
 
 ## Areas where FCDO advises against all but essential travel
 

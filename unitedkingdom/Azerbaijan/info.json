@@ -1,11 +1,11 @@
 {
     "name": "Azerbaijan",
-    "update_reason": "Updated visa requirements  for visitors travelling to Azerbaijan in connection with COP29(\u2018Entry requirements\u2019 page).",
+    "update_reason": "FCDO now advises against all but essential travel to south-western Azerbaijan (\u2018Warnings and insurance\u2019, \u2018Entry requirements\u2019 \u2018Safety and security\u2019 and \u2018Regional risks\u2019 pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Azerbaijan/Warnings and insurance.md",
-            "update_date": "2024-09-10T13:57:56+01:00"
+            "update_date": "2025-04-04T15:28:19+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Azerbaijan/Getting help.md"
         }
     ],
-    "update_date": "2024-09-10T13:57:56+01:00"
+    "update_date": "2025-04-04T15:28:19+01:00"
 }

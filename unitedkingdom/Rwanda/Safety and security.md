@@ -50,7 +50,7 @@ There is a ban on plastic bags in Rwanda for environmental reasons. If you have 
 
 ## Genocide Memorial Day
 
-The week following Genocide Memorial Day on 7 April is an official week of mourning. 2024 will mark the 30th anniversary of the genocide against the Tutsi.
+The week following Genocide Memorial Day on 7 April is an official week of mourning.
 
 ## National day of community service (Umuganda)
 
@@ -58,9 +58,9 @@ The last Saturday of each month is Umuganda, a national day of community service
 
 ## Outdoor activities and adventure tourism
 
-### Gorilla trekking
+### Gorilla and Chimpanzee trekking
 
-If you plan to travel close to the Democratic Republic of the Congo border on a gorilla trek, be aware of the risks that short-notice border closures could have on any travel plans in the region and be cautious. Keep up to date with developments through your tour operator and check the local media. The FCDO currently advises against all travel to Rubavu District.
+If you plan to travel close to the Democratic Republic of the Congo border on a gorilla or chimpanzee trek, be aware of Travel Advice for Rubavu and Rusizi Districts (see Warnings and insurance page) and DRC. Short-notice border closures could impact any travel plans in the region. Plan your journey  in advance and discuss your itinerary with your tour operator.  Keep up to date with developments through your tour operator and check the local media.
 
 ## Transport risks
 

@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   5 April 2025
 
 Updated:
-:   19 February 2025
+:   4 April 2025
 
 Latest update:
-:   New information on risks associated with the ongoing conflict in eastern DRC ('Warnings and insurance' page).
+:   Information relating to Rusizi National Park (Warnings and insurance page).
 
-![](https://assets.publishing.service.gov.uk/media/64b9159d06f78d000d7425a4/ANNEX_A_-_Burundi_Travel_Advice_map_two_jpeg.jpg)
+![](https://assets.publishing.service.gov.uk/media/67f055b1cb0feef57df7e5dd/Annex_B_FCDO__TA__007_-_Burundi_Travel_Advice_Ed5__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/64b9159d06f78d000d7425a5/ANNEX_A_-_Burundi_Travel_Advice_map_one_PDF.pdf)
+[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/67f055b127eb76c92cf7e5e2/Annex_B_FCDO__TA__007_-_Burundi_Travel_Advice_Ed5.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -24,7 +24,7 @@ FCDO advises against all travel to Cibitoke and Bubanza provinces, due to the pr
 
 ### Kayanza Province
 
-FCDO advises against all travel on the main road running west from Kayanza through the Kibira National Park towards Cibitoke Province, due the presence of a rebel group and possible armed incursions from DRC.
+FCDO advises against all travel on the main RN6 and RN10 roads running west from Kayanza through the Kibira National Park towards Cibitoke Province, due the presence of a rebel group and possible armed incursions from DRC.
 
 ### Melchior Ndadaye International Airport to Cibitoke
 
@@ -32,19 +32,17 @@ FCDO advises against all travel on the RN5 road north of Melchior Ndadaye Intern
 
 ### Bujumbura Rural Province
 
-FCDO advises against all travel to areas of Bujumbura Rural Province west of the Rusizi river towards the border with DRC, except for the Rusizi National Park. This is due to possible armed incursions from DRC.
+FCDO advises against all travel to areas of Bujumbura Rural Province west of the Rusizi river towards the border with DRC, including Rusizi National Park (also known as Rusizi Delta Nature Reserve). This is due to possible armed incursions from DRC.
 
-FCDO advises against all but essential travel to the area of Bujumbura Rural above the Isale road.
+### Areas where FCDO advises against all but essential travel
 
-### Rusizi National Park
-
-FCDO advises against all but essential travel to the Rusizi National Park.
+FCDO advises against all but essential travel to the area of Bujumbura Rural Province north of the Isale road.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/burundi/regional-risks).
 
 ## Burundi-DRC border
 
-Risks associated with increased fighting in Democratic Republic of Congo (DRC) may affect people on the Burundian side of the border, in Cibitoke, Bubanza and Bujumbura Rural provinces. There are risks because of the closeness of the potential fighting, and the movement of military and refugees. The security situation in DRC near to Burundi’s border is unstable (see [Democratic Republic of the Congo’s travel advice](https://www.gov.uk/foreign-travel-advice/democratic-republic-of-the-congo) for more information). Keep up to date with developments through local media.
+Risks associated with the closeness of potential fighting in Democratic Republic of Congo (DRC) and the movement of military and refugees may affect people on the Burundian side of the border, in Cibitoke, Bubanza and Bujumbura Rural provinces. The security situation in DRC near to Burundi’s border is unstable (see [Democratic Republic of the Congo’s travel advice](https://www.gov.uk/foreign-travel-advice/democratic-republic-of-the-congo) for more information). Keep up to date with developments through local media.
 
 The only international airport in Burundi is the Melchior Ndadaye airport.  In the event that flights were not available at the airport, there are currently limited land border options to exit Burundi.  The DRC border area is unstable and the Rwandan border is closed.  The Tanzania-Burundi border continues to operate normally, although transport options may be limited by the ongoing fuel shortages.
 

@@ -60,6 +60,12 @@ As a visitor to Slovakia, you must [report where you are staying to the nearest 
 
 If you plan to stay in Slovakia for a longer period, you must [apply for a residence permit](https://www.minv.sk/?residencies).
 
+## Border checks
+
+On 25 March 2025, the Slovak government introduced a range of emergency measures following an outbreak of foot and mouth disease. This had led to increased vehicle inspection measures, especially on freight vehicles, on the Czech, Austrian, Hungarian and Polish borders.
+
+People are also advised to avoid visiting farms and forests in affected areas and to follow strict hygiene measures to prevent the disease from spreading. Details of all measures in place [can be found here](https://www.minv.sk/?tlacove-spravy-2&sprava=slintacka-a-krivacka-aktualne-informacie-o-opatreniach-a-rezime-na-hraniciach).
+
 ## Vaccine requirements
 
 For details about medical entry requirements and recommended vaccinations, see [TravelHealthPro’s Slovakia guide](https://travelhealthpro.org.uk/country/197/slovakia#Vaccine_Recommendations).

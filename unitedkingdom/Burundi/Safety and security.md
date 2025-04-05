@@ -26,7 +26,7 @@ Burundi closed its land borders with Rwanda on 11 January 2024 because of escala
 
 There are reports of arbitrary arrests, detentions and disappearances of Burundians, most often from civil society, independent media and pockets of society perceived to be anti-government.
 
-Grenade attacks are common in Burundi. On 10 May, there were two grenade attacks in central Bujumbura targeting crowded areas. Attacks of this kind can be used by criminal gangs or have a political motivation.
+Grenade attacks are common in Burundi. On 10 May 2024, there were two grenade attacks in central Bujumbura targeting crowded areas. Attacks of this kind can be used by criminal gangs or have a political motivation.
 
 Avoid all large gatherings, stay alert and follow the instructions of local authorities.
 
@@ -117,7 +117,7 @@ Find out what you can do to prepare for and respond to [extreme weather and natu
 
 ### Flooding
 
-The rainy season in Burundi runs from October to May and can result in flash floods. Consular assistance is limited in Burundi. If you are a British national and need urgent help, call +250 252 556 000. If you’re in the UK and worried about a British person in Burundi, call 020 7008 5000.
+The rainy season in Burundi runs from October to May and can result in flash floods. Consular assistance is limited in Burundi.
 
 ### Earthquakes
 

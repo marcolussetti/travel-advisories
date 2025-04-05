@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   5 April 2025
 
 Updated:
-:   17 March 2025
+:   4 April 2025
 
 Latest update:
-:   Update to information on expected rollout of the EU Entry/Exit System (EES) (‘Entry requirements’ page).
+:   New information about the outbreak of foot and mouth disease (See 'Border checks' on the 'Entry requirements' page).
 
 ## Before you travel
 

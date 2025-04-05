@@ -1,11 +1,11 @@
 {
     "name": "Rwanda",
-    "update_reason": "Removal of information about Marburg Virus Disease screening measures on departure (\u2018Entry requirements\u2019 page).",
+    "update_reason": "Update relating to the Rubavu District (Warnings and insurance page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Rwanda/Warnings and insurance.md",
-            "update_date": "2025-02-06T11:38:57+00:00"
+            "update_date": "2025-04-04T23:39:45+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Rwanda/Getting help.md"
         }
     ],
-    "update_date": "2025-02-06T11:38:57+00:00"
+    "update_date": "2025-04-04T23:39:45+01:00"
 }

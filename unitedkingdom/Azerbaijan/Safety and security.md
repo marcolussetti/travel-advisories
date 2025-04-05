@@ -12,7 +12,17 @@ UK Counter Terrorism Policing has information and advice on [staying safe abroad
 
 Terrorists are likely to try to carry out attacks in Azerbaijan.
 
-Attacks could be indiscriminate and against civilian targets, including places frequented by foreign nationals, such as international hotels, restaurants, and pubs, as well as energy sector facilities.
+Terrorism attacks could be indiscriminate, including in places visited by foreign nationals, such as:
+
+* hotels, restaurants and pubs
+* energy sector facilities
+* religious sites and places of worship
+* shopping centres and crowded places
+* embassies and government buildings
+* sporting and cultural events
+* transport hubs
+
+Stay aware of your surroundings, keep up to date with local media reports and follow the advice of local authorities.
 
 ## Political situation
 
@@ -22,9 +32,9 @@ Avoid large gatherings and any demonstrations. They are illegal and there could 
 
 If you are a British journalist, make sure you are clearly identifiable.
 
-### Nagorno-Karabakh
+### Armenia-Azerbaijan tensions
 
-Tensions in Nagorno-Karabakh have calmed since 2023. FCDO continues to advise against all travel to Nagorno-Karabakh due to previous military and political action in the area. See [Regional risks](/foreign-travel-advice/azerbaijan/regional-risks).
+Tensions between Armenia and Azerbaijan have calmed and the risk of further conflict has decreased, including in the areas of those regions affected by conflict in 2020 and 2023. The FCDO continues to advise against all but essential travel to some areas in south-western Azerbaijan due to the risks from mines or unexploded ordnance from former conflict, and advises against all travel within 5km of the border with Armenia. See [Regional Risks](https://www.gov.uk/foreign-travel-advice/azerbaijan/regional-risks).
 
 ## Crime
 

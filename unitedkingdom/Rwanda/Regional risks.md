@@ -4,11 +4,11 @@ You should also read [FCDO’s overall travel advice](/foreign-travel-advice/rwa
 
 ## Rwanda-DRC border
 
-See [advice Rwanda-DRC border on the Warnings and insurance page](/foreign-travel-advice/rwanda).
+See [advice for the Rwanda-DRC border on the Warnings and insurance page](/foreign-travel-advice/rwanda).
 
 ## Rwanda-Burundi border
 
-The border with Burundi has been closed since January 2024. The situation in Burundi remains unstable. Tensions along the Rwanda-Burundi border remain high. Both sides have accused the other of cross-border raids targeting local inhabitants.
+Burundi closed the border to Rwanda in January 2024. There might be some tension near the border, as both sides have accused the other of cross-border raids targeting local inhabitants.
 
 ## Rwanda-Uganda border
 
@@ -16,7 +16,7 @@ Border crossings Uganda have temporarily closed at short notice in recent years.
 
 ## Cross-border additional risks
 
-If you’re travelling near the DRC or Burundi borders, be aware of the risk of cross-border attacks and government security operations.
+If you’re travelling near the DRC or Burundi borders, be aware of the risk of cross-border attacks and government security operations given the ongoing conflict in eastern DRC.
 
 In recent years, armed incursions have occurred into south-west Rwanda:
 

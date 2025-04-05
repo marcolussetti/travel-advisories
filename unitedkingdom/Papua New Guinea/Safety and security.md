@@ -116,6 +116,8 @@ Find out what you can do to prepare for and respond to [extreme weather and natu
 
 Earthquakes are a serious risk in Papua New Guinea. Seismic and volcanic activity is more likely near Rabaul in East New Britain Province, Kimbe in West New Britain Province and on Manam Island in Madang Province.
 
+There was a 6.9 magnitude earthquake in the New Britain Region, Papua New Guinea at 06:04:39 local time, 5 Apr 2025. The advice is to follow emergency instructions from local authorities.
+
 The US Federal Emergency Management Agency website has advice about [what to do before, during and after an earthquake](https://www.ready.gov/earthquakes).
 
 ### Tsunamis

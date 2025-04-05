@@ -1,40 +1,42 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   5 April 2025
 
 Updated:
-:   10 September 2024
+:   4 April 2025
 
 Latest update:
-:   Updated visa requirements for visitors travelling to Azerbaijan in connection with COP29(‘Entry requirements’ page).
+:   FCDO now advises against all but essential travel to south-western Azerbaijan (‘Warnings and insurance’, ‘Entry requirements’ ‘Safety and security’ and ‘Regional risks’ pages).
 
-![](https://assets.publishing.service.gov.uk/media/60e728b4e90e0764cb10bcc5/FCDO__TA__004_-_Azerbaijan_Travel_Advice_Ed4__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/67efddbf27eb76c92cf7e567/FCDO__TA__004_-_Azerbaijan_Travel_Advice_Ed9__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/60e728b48fa8f50c79779236/FCDO__TA__004_-_Azerbaijan_Travel_Advice_Ed4.pdf)
+[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/67efddc027eb76c92cf7e568/FCDO__TA__004_-_Azerbaijan_Travel_Advice_Ed9.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
 ## Areas where FCDO advises against travel
 
-### Nagorno-Karabakh and surrounding areas
-
-The Foreign, Commonwealth & Development Office (FCDO) advises against all travel to:
-
-* Nagorno-Karabakh
-* the districts (‘rayons’) of Zengilan, Jabrayil, Qubadli, Lachin and Kelbajar on the Azerbaijan-Armenia border
-* western areas of the rayons of Khojavand, Fuzuli and Aghdam
-
 ### Azerbaijan-Armenia border
 
 The border with Armenia remains closed. The FCDO advises against all travel to within 5km of the border with Armenia, due to tensions between Azerbaijan and Armenia. Note that this does not include the border of Azerbaijan’s Nakhchivan exclave with Armenia.
+
+## Areas where FCDO advises against all but essential travel
+
+### South-western Azerbaijan (those regions affected by conflict in 2020 and 2023)
+
+The Foreign, Commonwealth & Development Office (FCDO) advises against all but essential travel to:
+
+* The districts (‘rayons’) of Kelbajar, Lachin, Qubadli, Zengilan, Jabrayil, Fuzuli, Khojavand, Shusha, Khojali, Khankendi, Aghdam and Tartar
+
+You should follow Azerbaijani national government and local authorities’ advice in areas that have not been cleared of mines or unexploded ordnance.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/azerbaijan/regional-risks).
 
 ## UK government support
 
-Help for British nationals is extremely limited in Nagorno-Karabakh. The British Embassy is not able to give support in person in these areas.
+Help for British nationals is extremely limited in the areas where we advise against travel.
 
 ## Before you travel
 

@@ -16,7 +16,7 @@ You will be denied entry if you do not have a valid travel document or try to us
 
 ### Checks at border control
 
-Anyone who has previously visited areas of Nagorno-Karabakh without the permission of the Azerbaijani authorities could be refused entry to Azerbaijan.
+Anyone who has previously visited certain areas in south-western Azerbaijan, including the town of Khankendi, without the permission of the Azerbaijani authorities could be denied entry to Azerbaijan. You should contact the nearest embassy or consulate of Azerbaijan before you travel. See [Regional Risks](https://www.gov.uk/foreign-travel-advice/azerbaijan/regional-risks).
 
 ## Entry via land or sea borders
 
@@ -32,11 +32,7 @@ You must have a visa to visit Azerbaijan.
 
 ### Applying for a visa
 
-#### COP29
-
-If you are travelling in connection with the COP29 and hold UNFCCC accreditation, you will be able to obtain a “[COP29 Special Visa](https://www.evisa.gov.az/cop29/assets/docs/COP29_AZE_Visa%20_Guideline.pdf)”, free of charge. It is mandatory to apply for the ‘COP29 Special Visa’ prior to arrival in Azerbaijan, using the visa application link within the UNFCCC registration confirmation email. You may also obtain this “COP29 Special Visa” through your local Azerbaijan Embassy or Consulate.
-
-If you are travelling for another reason, you can apply and pay for a visa from the [ASAN Visa (e-visa) service](https://evisa.gov.az/en/). Apply at least 3 days in advance. An urgent 3-hour service is available for an additional fee.
+You can apply and pay for a visa from the [ASAN Visa (e-visa) service](https://evisa.gov.az/en/). Apply at least 3 days in advance. An urgent 3-hour service is available for an additional fee.
 
 E-visas are normally single entry and allow a 30-day visit within a 90-day period of validity. You must print out the e-visa and bring it with your passport to show on arrival. Officials will check that your passport is valid for 3 months after the visa expiry date. This means your passport must be valid for at least 6 months after the date you arrive in Azerbaijan.
 
