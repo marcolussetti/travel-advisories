@@ -2,22 +2,24 @@
 
 ## Natural disasters and climate
 
-### Heavy rain and landslides in Cusco region and Machu Picchu
+### Rainy season
 
-Several hiking trails, including the Inca Trail and the Salkantay Trail, are currently closed due to ongoing heavy rainfall in the Cusco region and Machu Picchu. There is also an increased risk of landslides. Do not attempt to access these trails, even with a guide.
+Peru is experiencing seasonally heavy rains, including in popular tourist areas such as:
 
-Weather conditions and limited local resources may affect rescue efforts.
+* Machu Picchu
+* Cusco
+* Puno
 
+Several hiking trails, including the Salkantay Trail, are closed due an increased risk of landslides. Trail and weather conditions could limit rescue efforts.
+
+* Do not attempt to access a closed trail, even with a guide
 * Follow the instructions of local authorities
 * Monitor local media for information on the latest weather reports
 
-[Information on hiking trails](https://www.peru.travel/en) – IPeru
+#### Useful links
 
-### Rainy season
-
-Peru is experiencing seasonally heavy rains, including in highly touristic areas of the country such as Cusco and Puno.
-
-[Full list of affected areas](https://busquedas.elperuano.pe/dispositivo/NL/2361170-1) – *El Peruano* (in Spanish only)
+* [Information on hiking trails](https://www.peru.travel/en) – IPeru
+* [Full list of affected areas](https://busquedas.elperuano.pe/dispositivo/NL/2361170-1) – *El Peruano* (in Spanish only)
 
 The rainy season extends from November to May in the Peruvian Andes.
 

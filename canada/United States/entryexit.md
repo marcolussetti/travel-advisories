@@ -2,13 +2,13 @@
 
 ## Entry and exit requirements
 
-Every country or territory decides who can enter or exit through its borders. The Government of Canada cannot intervene on your behalf if you do not meet your destination’s entry or exit requirements.
+Every country or territory decides who can enter or exit through its borders and the Government of Canada cannot intervene on your behalf if you do not meet entry or exit requirements for the United States.
 
-We have obtained the information on this page from the US authorities. It can, however, change at any time.
+Individual border agents often have significant discretion in making those determinations. U.S. authorities strictly enforce entry requirements. Expect scrutiny at ports of entry, including of electronic devices. Comply and be forthcoming in all interactions with border authorities. If you are denied entry, you could be detained while awaiting deportation.
 
-Verify this information with the [Foreign Representatives in Canada](https://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng).
+We have obtained the information on this page from the U.S. authorities. It can, however, change at any time.
 
-### 
+Verify this information with the [Foreign Representatives in Canada](https://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng).
 
 ### Passport
 
@@ -64,16 +64,17 @@ Different entry rules may apply when travelling with a temporary passport or an 
 
 ### Registration
 
-Canadians and other foreign nationals visiting the United States for periods longer than 30 days must be registered with the United States Government. Failure to comply with the registration requirement could result in penalties, fines, and misdemeanor prosecution. You should consult the U.S. Citizenship and Immigration Services (USCIS) website to determine if you need to register with USCIS and how to do so. You can verify if you have been automatically registered on entry to the US by looking up your I-94 admission form on the U.S. Customs Border Protection (CBP) website.
+Canadians and other foreign nationals visiting the United States for periods longer than 30 days must be registered with the United States Government. Failure to comply with the registration requirement could result in penalties, fines, and misdemeanor prosecution. You should consult the U.S. Citizenship and Immigration Services (USCIS) website to determine if you need to register with USCIS and how to do so. You can verify if you have been automatically registered on entry to the U.S. by looking up your I-94 admission form on the U.S. Customs and Border Protection (CBP) website.
 
 #### Useful Links
 
-* [Alien Registration Requirement](https://www.uscis.gov/alienregistration) – US Citizenship and Immigration Services
-* [I-94](https://i94.cbp.dhs.gov/home)– Official Website of US Customs and Border Protection
+* [Alien Registration Requirement](https://ca.usembassy.gov/alien-registration-requirement/) – U.S. Embassy & Consulates in Canada
+* [Alien Registration Requirement](https://www.uscis.gov/alienregistration) – U.S. Citizenship and Immigration Services
+* [I-94](https://i94.cbp.dhs.gov/home)– Official Website of U.S. Customs and Border Protection
 
 ### Additional information at borders
 
-Customs officials may ask you to provide your address while in the United States (including Puerto Rico). Customs Border Protection (CBP) officers may also ask for:
+Customs officials may ask you to provide your address while in the United States (including Puerto Rico). Customs and Border Protection (CBP) officers may also ask for:
 
 * evidence of residential, employment or educational ties to Canada
 * proof that the trip is for a legitimate purpose and is of a reasonable length
@@ -94,7 +95,12 @@ Canadian visitors can usually stay in the United States for 6 months without a v
 
 In most circumstances, Canadian citizens don’t require visitor, business, transit or other visas to enter the United States from Canada but there are some exceptions.
 
-[Canadians Requiring Visas](https://ca.usembassy.gov/canadians-requiring-visas/) – U.S. Embassy & Consulates in Canada
+In February 2025, U.S. authorities made changes to some of the instructions on how to fill out visa applications. If you do need a visa, make sure you follow the current instructions carefully when filling out your application.
+
+#### Useful links
+
+* [Canadians Requiring Visas](https://ca.usembassy.gov/canadians-requiring-visas/) – U.S. Embassy & Consulates in Canada
+* [FAQs about visa applications](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/forms/ds-160-online-nonimmigrant-visa-application/ds-160-faqs.html) – U.S. Department of State
 
 #### Canadian permanent residents
 
@@ -146,7 +152,7 @@ Canadian citizens don’t need visas to study or participate in a student exchan
 #### Useful links
 
 * [SEVIS](https://studyinthestates.dhs.gov/sevis-help-hub) – U.S. Department of Homeland Security
-* [Canadian students](https://travel.state.gov/content/travel/en/us-visas/study.html) – U.S. Embassy & Consulates in Canada
+* [Canadian students](https://travel.state.gov/content/travel/en/us-visas/study.html) – U.S. Department of State, Bureau of Consular Affairs
 
 ### Length of stay
 
@@ -182,7 +188,10 @@ If you refuse, they may seize your device. The border agent could also delay you
 
 Before crossing the border, put your device in airplane mode to ensure remote files don’t get downloaded accidentally.
 
-[Inspection of Electronic Devices](https://www.cbp.gov/document/guidance/inspection-electronic-devices-tear-sheet) – U.S. Customs and Border Protection
+#### Useful links
+
+* [Border Search of Electronic Devices at Ports of Entry](https://www.cbp.gov/travel/cbp-search-authority/border-search-electronic-devices) – U.S. Customs and Border Protection
+* [Cyber security while travelling](https://travel.gc.ca/travelling/health-safety/cyber-safe) – Government of Canada
 
 ### Preclearance
 
@@ -266,7 +275,7 @@ Animals may be subject to quarantine requirements.
 
 ### Children and travel
 
-Canadian citizens under 19 travelling with a school or other organized group under adult supervision must travel with written consent from their own parent/guardian.
+Canadian citizens under the age of 19 travelling with a school or other organized group under adult supervision must travel with written consent from their own parent/guardian.
 
 #### Useful links
 

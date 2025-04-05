@@ -2,41 +2,6 @@
 
 ## Safety and security
 
-### State of emergency
-
-A state of emergency is in effect in the following provinces and cantons:
-
-* El Oro
-* Guayas
-* Los Ríos
-* La Troncal canton in Cañar province
-* Manabí
-* Orellana
-* Ponce Enríquez canton in Azuay province
-* Santa Elena
-* Sucumbíos
-* Metropolitan District of Quito
-
-A curfew is in place from 10 pm to 5 am in several cantons in the following provinces:
-
-* Azuay
-* Cañar
-* Guayas
-* Los Ríos
-* Orellana
-* Sucumbíos
-
-The state of emergency is in response to gang violence. While the state of emergency is in effect, security forces have the power to:
-
-* enter private homes
-* read private mail and phone records
-
-If you are in Ecuador:
-
-* expect an increased police and military presence
-* carry your ID at all times
-* follow the instructions of local authorities
-
 ### State of internal armed conflict
 
 Ecuador is in a state of “internal armed conflict.” There is an increased presence of security forces to contain gang violence across the country, including in Guayaquil and Quito.
@@ -284,8 +249,6 @@ If you require emergency assistance in a remote area, find an area with a signal
 
 ### Power outages
 
-Since 2023, power outages occur often and can last up to several hours.
-
 Power outages can affect the following services and businesses:
 
 * public lighting and traffic lights
@@ -298,16 +261,10 @@ Prolonged power outages could increase the risk of criminal activity, which coul
 
 If you’re in Ecuador:
 
-* be prepared for prolonged power outages
 * make sure you always have a complete emergency kit on hand, including several flashlights
 * always carry a cell phone, a charger, a portable charger, and a list of emergency numbers handy
 
-#### Useful links
-
-* [List of planned outages](https://www.eeq.com.ec/) – Quito Electric Company (in Spanish)
-* [List of planned outages](https://www.cnelep.gob.ec/) – Guayaquil Electric Company (in Spanish)
-
-### Road travel
+### Roads
 
 Road conditions and road safety vary throughout the country. Accidents causing fatalities are common.
 

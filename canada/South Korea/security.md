@@ -4,11 +4,9 @@
 
 ### Increased political tensions
 
-The decision on the impeachment trial of the former president is expected anytime after March 17, 2025.
+The impeachment trial of the former president has concluded on April 4, 2025. Early presidential elections will take place within 60 days.
 
-Since December 2024, large protests have been taking place in South Korea. These demonstrations are expected to continue and crowd sizes can increase significantly during weekend protests.
-
-More than 100,000 demonstrators are expected at protests in the following areas of Seoul:
+Since December 2024, protests have been taking place in South Korea. Large demonstrations are expected to continue in the following areas of Seoul:
 
 * the Yeouido neighbourhood
 * the National Assembly and political party headquarters area
@@ -21,9 +19,9 @@ More than 100,000 demonstrators are expected at protests in the following areas 
 
 * official presidential residence
 
-Protests could begin anywhere in South Korea and may turn violent. Demonstrations are expected to continue in the coming days.
+Protests could begin anywhere in South Korea and may turn violent.
 
-Traffic and public transportation disruptions are also expected.
+Traffic and public transportation disruptions are expected to continue.
 
 If you are in South Korea:
 

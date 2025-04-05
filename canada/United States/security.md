@@ -38,7 +38,7 @@ Within large urban areas, violent crime more commonly occurs in poor neighbourho
 
 #### Gun violence
 
-The rate of firearm possession in the US is high. It’s legal in many states for US citizens to openly carry firearms in public.
+The rate of firearm possession in the U.S. is high. It’s legal in many states for U.S. citizens to openly carry firearms in public.
 
 Incidences of mass shootings occur, resulting most often in casualties. Although tourists are rarely involved, there is a risk of being in the wrong place at the wrong time.
 

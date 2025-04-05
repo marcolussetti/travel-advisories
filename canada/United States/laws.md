@@ -8,6 +8,16 @@ Learn about what you should do and how we can help if you are [arrested or detai
 
 Laws vary greatly from state to state. Consult the website of the state you wish to visit prior to arrival.
 
+### Proof of status
+
+Authorities may request proof of legal status in the U.S. at any time. Be prepared to show evidence of your legal presence in the U.S.
+
+#### Useful links
+
+* [Alien Registration Requirement](https://ca.usembassy.gov/alien-registration-requirement/) – U.S. Embassy & Consulates in Canada
+* [Alien Registration Requirement](https://www.uscis.gov/alienregistration) – U.S. Citizenship and Immigration Services
+* [I-94](https://i94.cbp.dhs.gov/home)– Official Website of U.S. Customs and Border Protection
+
 ### Penalties and transfer of offenders
 
 A serious violation of the law may lead to a jail sentence or, in some states, a death sentence. Canadian citizenship confers no immunity, special protection or rights to preferential treatment.
