@@ -24,6 +24,18 @@ Please [**contact**](https://www.ireland.ie/en/tanzania/daressalaam/contact/) th
 
 The Tanzanian Shilling is the official currency of Tanzania. Most banks in major cities have ATMs, but they are not always reliable and sometimes break down or run out of money. To minimise the risk of card cloning, only use ATMs located within the bank. Travellers’ cheques are not widely accepted.
 
+### **Volunteering**
+
+If you intend to volunteer with or visit orphanages in Tanzania, it is advisable to do due diligence on the organisation that you are visiting before travelling, including ensuring they have an appropriate child protection policy in place, in order to avoid any risk of exposure of abuse and exploitation of the children. You are also advised to visit the following website: Comhlámh’s [Code of Good Practice](https://comhlamh.org/code-of-good-practice/) for advice on responsible international volunteering.
+
+When volunteering abroad, you should follow the same advice as any traveller. You may need a work visa, health vaccinations, or minimum passport validity. Travel insurance is still considered essential. Even though you may stay in a single location, you should ensure that your family or friends at home have a copy of your itinerary and your travel documents. You should also attempt to maintain contact with relative frequency.
+
+You can register your travel plans with the Department through the [Citizens Registration facility](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/)**.**
+
+As many volunteering experiences involve spending time in rural areas, consider basic language training and familiarise yourself with local customs. This may help you to find useful information and improve your immersion experience.
+
+For more on volunteering, visit [Volunteering | Irish Aid | Ireland.ie](https://www.ireland.ie/en/irish-aid/get-involved/volunteering/)
+
 ### **Climate**
 
 Tanzania has a tropical climate.

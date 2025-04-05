@@ -10,7 +10,7 @@ Travellers are advised that on 21 March 2025 the US Embassy in Tanzania issued a
 
 Irish citizens require a visa to enter mainland Tanzania and Zanzibar. [Apply for an e-visa](https://visa.immigration.go.tz/) before you travel. It is possible to get a tourist or business visa for a single entry on arrival at main ports of entry to Tanzania, subject to the fulfilment of all immigration requirements. You will not be able to get a multiple entry visa on arrival. Passengers may be asked to provide proof of their return journey at Tanzanian immigration .
 
-If you are planning to work or volunteer, you will also need a work permit. Your employer or volunteer organisation should help you arrange this before you travel. If you overstay your visa or permit you risk arrest, detention, a fine and deportation.
+If you are planning to work or volunteer, you will also need a work permit. Your employer or volunteer organisation should help you arrange this before you travel. If you overstay your visa or permit you risk arrest, detention, a fine and deportation. More information on volunteering in Tanzania is available under the additional information tab below.
 
 For further information about visas, visit the [**Tanzanian immigration website**](https://visa.immigration.go.tz/) or contact the [**Tanzanian High Commission in London**](https://tzhc.uk/).
 

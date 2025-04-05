@@ -1,5 +1,7 @@
 ## Embassy contact
 
+Please note if assistance is required in the case of an emergency, please send a WhatsApp or SMS to +92 302 8563388 detailing the nature of the emergency and your personal details. A duty officer will respond as soon as possible. These messages will be monitored regularly.
+
 ### **Embassy of Ireland, Pakistan**
 
 Serena Business Complex
@@ -23,8 +25,6 @@ Tel: +92 21 35891181 - 82 - 83
 Fax: +92 21 35821184
 
 **E-mail:** **osman.khan@honoraryconsul.ie**
-
-Please note if assistance is required in the case of an emergency, please send a WhatsApp or SMS to +92 302 8563388 detailing the nature of the emergency and your personal details. A duty officer will respond as soon as possible. These messages will be monitored regularly.
 
 ### Honorary Consul of Ireland, Pakistan
 

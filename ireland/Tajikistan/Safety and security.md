@@ -4,11 +4,9 @@
 
 The overall security situation in Tajikistan is currently stable. However, visitors should remain vigilant in public places and be alert to any security-related announcements by the police.
 
-We strongly advise against all travel to the Gorno-Badakhshan region, including the city of Khorog. The Gorno-Badakhshan region is located about 500km south-east of Dunshanbe, the capital of Tajikisan. There are ongoing clashes between the security forces and militants in this area, and the security of foreign nationals cannot be guaranteed.
+We advise against travel to the Gorno-Badakhshan region, including the city of Khorog. The Gorno-Badakhshan region is located about 500km south-east of Dunshanbe, the capital of Tajikistan and is a restricted region for non-Tajik citizens, requiring a travel permit from the Tajik authorities. There is an ongoing risk of civil unrest in this region and the security situation can change at short notice.
 
-We also strongly advise against all travel to the Kamarob Gorge in the Rasht region.
-
-Armed incidents continue between border forces and drug traffickers along the Afghan border. Neighbouring countries may unilaterally close borders temporarily.
+We advise against travel to the Tajikistan-Afghanistan border area. Armed incidents can occur between border forces and drug traffickers along the Afghan border. Neighbouring countries may unilaterally close borders temporarily.
 
 ### **Demonstrations**
 
@@ -17,18 +15,6 @@ Visitors should avoid any demonstrations or large gatherings of people. If you b
 ### **Terrorism**
 
 Tajikistan shares a continuing threat from terrorism with other countries in Central Asia. Be vigilant in public places and look out for any security-related announcements by the police. Attacks in recent years have been indiscriminate, including in places visited by expatriates and foreign travellers.
-
-### **Kidnapping**
-
-Foreign nationals could be potential targets for kidnapping in Tajikistan so follow these basic precautions:
-
-* Get advice from your local contacts about staying safe
-* Avoid travelling at night, particularly inter-city
-* Avoid travelling alone
-* When driving, ensure all car doors are locked
-* Vary your routes and departure times – avoid patterns which could be tracked
-
-Pay careful attention to local media for reports of kidnapping activities
 
 ### **Landmines**
 
@@ -45,6 +31,10 @@ There have been occasional muggings and petty crime against foreigners but Tajik
 * Do not carry credit cards, travel tickets and money together - leave spare cash and valuables in a safe place
 * Do not carry your passport unless absolutely necessary and leave a copy of your passport (as well as travel and insurance documents) with family or friends at home
 * Never leave drinks unattended in local bars and restaurants or accepted from strangers
+* Get advice from your local contacts about staying safe
+* Avoid travelling at night, particularly inter-city
+* Avoid travelling alone
+* When driving, ensure all car doors are locked
 * Lone visitors, in particular, should never accept lifts from strangers
 * In rural areas, single women should avoid going out alone at night, and may suffer harassment even during the day.
 

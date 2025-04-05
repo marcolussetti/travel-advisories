@@ -10,11 +10,11 @@ The security situation in Pakistan is unstable and dangerous. Avoid all large ga
 
 ### **Sectarian violence**
 
-There is an ongoing threat of sectarian violence particularly in Baluchistan and North West Frontier Province, be cautious during Islamic festivals and on Friday in the vicinity of mosques.
+There is an ongoing threat of serious terrorism incidents particularly in Baluchistan and many parts of Khyber Pakhtunkhwa. Caution should always be exercised around public gatherings, around major religious festivals and during peak prayer times on Fridays. Public transport (trains / busses) should be completely avoided.
 
 ### **Demonstrations**
 
-Avoid political demonstrations and large crowds assembled for political or religious purposes as there is a risk that these gatherings may turn violent. Keep informed of what is going on around you by monitoring local media and staying in contact with local contact, hotel or tour organiser. Be aware that mobile data and internet access may be curtailed during periods of civil unrest and major road networks may be blocked. You should make contingency plans accordingly.
+Avoid political demonstrations and large crowds assembled for political or religious purposes as there is a risk that these gatherings may turn violent. Keep informed of what is going on around you by monitoring local media and staying in contact with local contact, hotel or tour organizer. Be aware that mobile data and internet access may be curtailed during periods of civil unrest and major road networks may be blocked. You should make contingency plans accordingly.
 
 ### **Terrorism**
 
@@ -33,11 +33,11 @@ The threat of kidnap of foreign nationals across Pakistan remains high. Kidnappe
 
 ### **Crime**
 
-Crime levels in Pakistan are high, especially in Karachi and much of Baluchistan, rural Sindh and the North West Frontier Province, including the former FATA (Federally-Administered Tribal Areas), have a high incidence of lawlessness.
+Crime levels in Pakistan are high, especially in Karachi and much of Baluchistan, rural Sindh and the Khyber Pakhtunkhwa, including the former FATA (Federally-Administered Tribal Areas), have a high incidence of lawlessness.
 
 ### **Violent crime**
 
-Criminal violence, including armed car-jacking, robbery, kidnap and murder, is common in Pakistan, especially in Karachi. Travellers have also been offered drugged food and then robbed. Always be aware of the risks and take personal security precautions.
+Criminal violence, including armed car-jacking, robbery, kidnap and murder, is common in Pakistan, especially in Karachi. Travelers have also been offered drugged food and then robbed. Always be aware of the risks and take personal security precautions.
 
 ### **Driving**
 
