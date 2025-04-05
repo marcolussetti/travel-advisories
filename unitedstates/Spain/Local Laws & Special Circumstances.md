@@ -2,44 +2,61 @@
 
 [#### Local Laws & Special Circumstances](javascript:void(0); "Local Laws & Special Circumstances")
 
-**Criminal Penalties:** You are subject to local laws. If you violate local laws, even unknowingly, you may be expelled, arrested, or imprisoned. Individuals establishing a business or practicing a profession that requires additional permits or licensing should seek information from the competent local authorities prior to practicing or operating a business.
+**Criminal penalties**U.S. citizens must follow local laws. If you break laws, even by mistake, you could be expelled, arrested, or imprisoned. You may be prosecuted in the U.S. for crimes committed abroad regardless of the local law.
 
-Furthermore, some violations of laws are also prosecutable in the United States, regardless of local law. For examples, see our website on [crimes against minors abroad](http://travel.state.gov/content/passports/en/emergencies/arrest/criminalpenalties.html) and the [Department of Justice](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Spain.html#ExternalPopup) website.
+* Learn more about examples of [crimes against minors abroad](https://travel.state.gov/content/travel/en/international-travel/emergencies/arrest-detention/crimes-against-minors.html) and information provided by the U.S. Department of Justice.
+* If you are starting a business or a profession that requires additional permits or licensing, seek information from the competent local authorities beforehand.
+* Possessing, using, or trafficking illegal drugs in Spain can lead to severe penalties, including long jail sentences and heavy fines.
+* Most cities in Spain ban drinking alcohol in the street, except at registered cafes and bars. You could be arrested or fined for breaking the law.
+* Local police, sometimes dressed in plain clothes, can ask you to show ID. They can also detain you for further questioning.
+* Carry a photocopy of your passport with you as proof of your identity. If you are stopped by someone who claims to be a plainclothes police officer, ask to see their law enforcement ID.
 
-Penalties for possessing, using, or trafficking illegal drugs in Spain are severe and convicted offenders can expect long jail sentences and heavy fines.
+**Arrest notification**  
+If you are [arrested or detained](https://travel.state.gov/content/travel/en/international-travel/emergencies/arrest-detention.html), ask police to notify the U.S. Embassy Madrid or U.S. Consulate General Barcelona immediately.
 
-Most cities in Spain have banned the consumption of alcohol in the street, other than in registered street cafes and bars. You could be arrested or fined if you break the law.
+**Counterfeit and pirated goods**Counterfeit and pirated goods are prevalent in many countries.
 
-Local police, sometimes dressed in plain clothes, can require you to produce identification to establish your identity upon request and detain you for further questioning. Carry a photocopy of your passport with you as proof of your identity. If you are stopped by someone who claims to be a plainclothes police officer, ask to see their law enforcement identification.
+* They may be illegal according to local laws.
+* Counterfeit and pirated goods may pose significant risks to consumer health and safety.
+* You may be subject to fines or have to give up counterfeit and pirated goods if you bring them back to the United States.
 
-**Arrest Notification:**If you are arrested or detained, ask police to notify the U.S. Embassy Madrid or U.S. Consulate General Barcelona immediately. See our [webpage](http://travel.state.gov/content/passports/english/emergencies/arrest.html) for further information.
+[U.S. Customs and Border Protection](https://www.cbp.gov/trade/fakegoodsrealdangers#:~:text=It%20is%20illegal%20to%20purchase%20counterfeit%20goods.%20Bringing,activities%2C%20such%20as%20forced%20labor%20or%20human%20trafficking.)
 
-**Counterfeit and Pirated Goods:** Although counterfeit and pirated goods are prevalent in many countries, they may still be illegal according to local laws. You may also have to pay fines or have to give them up if you bring them back to the United States. See the [U.S. Department of Justice website](https://www.justice.gov/criminal-ccips) for more information.
+[U.S. Department of Justice](https://www.justice.gov/criminal/criminal-ccips)
 
-**Faith-Based Travelers:**See the following webpages for details:
+**Faith-based travelers**Faith based travel includes pilgrimages, service projects and mission work. Prepare for your travel using these resources:
 
-* [Faith-Based Travel Information](https://travel.state.gov/content/passports/en/go/faith-based-travel.html)
-* [International Religious Freedom Report](http://www.state.gov/j/drl/irf/rpt/index.htm) – see country reports
-* [Human Rights Report](http://www.state.gov/j/drl/rls/hrrpt/) – see country reports
-* [Hajj Fact Sheet for Travelers](http://travel.state.gov/content/passports/en/go/Hajj.html)
-* [Best Practices for Volunteering Abroad](https://travel.state.gov/content/passports/en/go/volunteer.html)
+* [Faith-Based Travel Information](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/faith-based-travel.html)
+* [International Religious Freedom Report Human Rights Report](https://www.state.gov/reports-bureau-of-democracy-human-rights-and-labor/country-reports-on-human-rights-practices/)
+* [Best Practices for Volunteering Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/volunteering-abroad.html)
 
-**LGB Travelers:**There are no legal restrictions on same-sex sexual relations or the organization of LGB events in Spain.
+**LGB travelers:**There are no legal restrictions on same-sex sexual relations or the organization of LGB events in Spain.
 
-Seeour [LGB Travel Information](http://travel.state.gov/content/passports/english/go/lgbt.html)page and section 6 of our [Human Rights report](http://www.state.gov/j/drl/rls/hrrpt/) for further details.
+* [LGB Travel Information](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/lgbti.html)
+* [Human Rights report](https://www.state.gov/reports-bureau-of-democracy-human-rights-and-labor/country-reports-on-human-rights-practices/) (section 6)
 
-**Travelers with Disabilities:** The law in Spain prohibits discrimination against persons with physical, sensory, intellectual or mental disabilities, and the law is enforced. Social acceptance of persons with disabilities in public is as prevalent as in the United States. In general, public transportation, lodging, communication/information, and general infrastructure are accessible. Taxis that can accommodate wheelchairs are available, but usually must be booked in advance.
+**Travelers with accessibility needs**Spanish laws prohibit discrimination against people with physical, sensory, intellectual or mental disabilities. The law is enforced.
 
-In historic areas and older areas, sidewalks can be narrow and have uneven surfaces. Take this into account when planning your visit.  There may be differences in small towns and villages, where accessibility may be more limited.
+* Public transportation, lodging, information, and general infrastructure are accessible.
+* Taxis that can accommodate wheelchairs are available. They must be booked in advance.
+* In historic areas and older areas, sidewalks can be narrow and have uneven surfaces. Take this into account when planning your visit.
+* Accessibility may be more limited in small towns and villages.
+* Rental, repair, and replacement parts for aids, equipment, and devices is widely available.
+* Sign language interpreters or personal assistants are widely available in Spain.
 
-Rental, repair, replacement parts for aids/equipment/devices, or service providers, such as sign language interpreters or personal assistants are widely available in Spain.
+Review our [Travelers with Disabilities](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/traveling-with-disabilties.html) page.
 
-**Students:** Follow the tips below and exercise caution and good judgment to make your study-abroad experience a positive and safe one. If you are coming to Spain to participate in a sports program, please check with the [Embassy of Spain](https://www.exteriores.gob.es/Embajadas/washington/en/Paginas/index.aspx) that you have the correct visa.
+**Students**Many arrests, accidents, and violent crimes involving U.S. citizens in Spain are alcohol related. Drink in moderation and stay with friends at clubs, bars, or while traveling.
 
-Do your research before contracting a tour operator or other service provider, including coaches and organizers of sports camps, schools, and training centers.
+* Exercise caution and good judgment to make your study-abroad experience a positive and safe one.
+* If you are coming to Spain to participate in a sports program, please check with the Embassy of Spain that you have the correct visa.
+* Do your research before contracting a tour operator or other service provider, including coaches and organizers of sports camps, schools, and training centers.
+* Exercise caution when agreeing to an internship or to serve as a recruiter for a specific organization or company.
 
-Exercise caution when agreeing to an internship or to serve as a recruiter for a specific organization or company. Most arrests, accidents, and violent crimes U.S. citizens suffer in Spain involve excessive alcohol. Drink in moderation and stay in a group of friends when in clubs, bars, or traveling.
+[Students Abroad page](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/students.html)
 
-See our [Students Abroad](http://travel.state.gov/content/studentsabroad/en.html) page and [FBI travel tips](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Spain.html#ExternalPopup).
+[FBI travel tips](https://ucr.fbi.gov/investigate/counterintelligence/student-brochure) for U.S. students.
 
-**Women Travelers**: The U.S. Mission in Spain has received numerous reports of sexual assaults affecting U.S. citizens, especially younger travelers, students, and exchange teachers. Please see more information under Safety and Security.  See our travel tips for [Women Travelers](http://travel.state.gov/content/passports/english/go/Women.html).
+**Women travelers**The U.S. Mission in Spain has received numerous reports of sexual assaults affecting U.S. citizens. Victims include younger travelers, students, and exchange teachers.
+
+[Travel tips for women travelers](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/women-travelers.html)

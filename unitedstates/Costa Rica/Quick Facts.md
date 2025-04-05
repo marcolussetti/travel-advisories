@@ -4,7 +4,7 @@
 
 PASSPORT VALIDITY:
 
-Length of stay.
+Passport must be valid for the period of the stay.
 
 BLANK PASSPORT PAGES:
 
@@ -12,16 +12,16 @@ BLANK PASSPORT PAGES:
 
 TOURIST VISA REQUIRED:
 
-Not required for stays less than 180 days, but return ticket required.
+Visa not required for stays less than 180 days. But a return ticket is required.
 
 VACCINATIONS:
 
-Yellow fever, [if arriving from certain countries in South America or Africa](https://wwwnc.cdc.gov/travel/yellowbook/2020/travel-related-infectious-diseases/yellow-fever).
+[Yellow fever](https://wwwnc.cdc.gov/travel/yellowbook/2024/infections-diseases/yellow-fever) Required if arriving from certain countries in South America or Africa.
 
 CURRENCY RESTRICTIONS FOR ENTRY:
 
-10,000 USD.
+10,000 USD
 
 CURRENCY RESTRICTIONS FOR EXIT:
 
-10,000 USD.
+10,000 USD

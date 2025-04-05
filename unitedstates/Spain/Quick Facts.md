@@ -4,7 +4,9 @@
 
 PASSPORT VALIDITY:
 
-6 months recommended, 3 months beyond your date of departure is required
+3 months validity beyond your date of departure.
+
+1 blank passport page per entry and exit.
 
 BLANK PASSPORT PAGES:
 
@@ -12,16 +14,16 @@ BLANK PASSPORT PAGES:
 
 TOURIST VISA REQUIRED:
 
-None required for less than 90 days
+No visa required for less than 90 days.
 
 VACCINATIONS:
 
-None
+No vaccinations required.
 
 CURRENCY RESTRICTIONS FOR ENTRY:
 
-None
+If you bring or take the equivalent of 10,000 Euros (approximately $10,600 USD) or more in cash or other payment methods into or out of Spain, you must file a tax declaration with Spanish Customs.
 
 CURRENCY RESTRICTIONS FOR EXIT:
 
-None
+If you bring or take the equivalent of 10,000 Euros (approximately $10,600 USD) or more in cash or other payment methods into or out of Spain, you must file a tax declaration with Spanish Customs.
