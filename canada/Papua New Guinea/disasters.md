@@ -2,14 +2,6 @@
 
 ## Natural disasters and climate
 
-### Tsunami threat
-
-A tsunami threat is in effect for the New Britain Region of Papua New Guinea.
-
-Follow the instructions of local authorities and monitor local news for information on the tsunami’s progress.
-
-[More information on tsunamis](#tsunamis)
-
 ### Landslides in Enga province
 
 On May 24, 2024, large-scale landslides in the Porgera-Paiela district of Enga province, destroyed several villages and resulted in many casualties. The landslides have caused catastrophic damage to local infrastructure, including major routes in the area.
