@@ -12,11 +12,11 @@ Depending on what you need, contact your:
 
 #### Fire and rescue services
 
-Call 118.
+Call 118 or 119.
 
 #### Medical emergencies
 
-Call 119 or go to the hospital.
+Call 112, 119 or go to the hospital. Ambulance service response times are unreliable and may not be available outside of major cities.
 
 #### Police
 

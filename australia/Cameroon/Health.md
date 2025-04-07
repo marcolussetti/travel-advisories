@@ -2,7 +2,7 @@
 
 #### Travel insurance
 
-Get comprehensive [travel insurance](/node/149) before you leave. Your policy needs to cover all overseas medical costs, including medical evacuation. The Australian Government won’t pay for these costs.
+Get comprehensive [travel insurance](/node/149) before you leave. Your policy needs to cover all overseas medical costs, including hospital stays and medical evacuation. The Australian Government won’t pay for these costs.
 
 If you can't afford travel insurance, you can't afford to travel. This applies to everyone, no matter how healthy and fit you are.
 
@@ -36,7 +36,7 @@ If you have immediate concerns for your welfare or the welfare of another Austra
 
 Not all medications available over the counter or by prescription in Australia are available in other countries. Some may even be considered illegal or a controlled substance, even if prescribed by an Australian doctor.
 
-If you plan to bring any medication, check if it's legal in Cameroon. Take enough legal medication for your trip.
+If you plan to bring any medication, check if it's legal in Cameroon. Take enough legal medication for your trip. Don’t assume the same medication will be available in Cameroon if your supply runs out. The quality of medication in Cameroon can’t be guaranteed and local pharmacies may not accept Australian prescriptions.
 
 Carry a copy of your prescription and a letter from your doctor stating:
 
@@ -58,6 +58,7 @@ Other insect-borne diseases include:
 
 * [filariasis](https://www.who.int/news-room/fact-sheets/detail/lymphatic-filariasis)
 * [dengue](https://www.health.gov.au/diseases/dengue-virus-infection)
+* [Zika virus](https://www.healthdirect.gov.au/zika-virus)
 * [African sleeping sickness](https://www.who.int/news-room/fact-sheets/detail/trypanosomiasis-human-african-(sleeping-sickness))
 * [loiasis (African eye worm infection)](https://www.cdc.gov/filarial-worms/about/loiasis.html?CDC_AAref_Val=https://www.cdc.gov/parasites/loiasis/index.html)
 * [river blindness](https://www.who.int/news-room/fact-sheets/detail/onchocerciasis)
@@ -75,7 +76,7 @@ Consider taking medicine to prevent malaria.
 
 **More information:**
 
-* [Countries where yellow fever is a risk (PDF 252KB)](https://www.who.int/publications/m/item/countries-with-risk-of-yellow-fever-transmission-and-countries-requiring-yellow-fever-vaccination-(november-2022))
+* [Countries where yellow fever is a risk (PDF 252KB)](https://cdn.who.int/media/docs/default-source/travel-and-health/countries-with-risk-of-yellow-fever-transmission.pdf?sfvrsn=bf42ac59_4&download=true)
 
 #### HIV/AIDS
 
@@ -101,6 +102,8 @@ To protect yourself from these diseases:
 
 * drink boiled water or bottled water with sealed lids
 * avoid ice cubes
+* avoid raw and undercooked food or food that may have been washed in untreated water, including salads
+* don't swim in fresh water
 
 Seek medical advice if you have a fever, diarrhoea, or suspect poisoning.
 

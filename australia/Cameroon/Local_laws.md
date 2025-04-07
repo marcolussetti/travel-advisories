@@ -20,7 +20,7 @@ Penalties for drug offences are severe. They may include long jail terms and lar
 
 #### Proof of identity
 
-Always carry proof of your identification (ID), such as a residence permit or a certified copy of your passport.
+Always carry proof of your identification (ID), such as a residence permit or a certified copy of your passport showing a valid visa.
 
 Police might detain you if you can't show a valid ID.
 
@@ -28,14 +28,20 @@ Police might detain you if you can't show a valid ID.
 
 Penalties for serious crimes, such as murder, include the death penalty.
 
+There are strict rules around what you can import and export from Cameroon. You must declare anything that is prohibited or subject to taxes and duties, check with the [Cameroonian Customs service](http://www.douanes.cm/douanes-cameroun/en/home-page-01-english/) prior to travel.
+
+It is illegal to buy, sell, kill or capture any protected wildlife without a licence. Persons found to be trafficking these goods face long jail terms and large fines.
+
+It is illegal to wear camouflage clothing in Cameroon unless you are a member of the armed forces. Penalties can include fines and detention.
+
 #### LGBTQIA+ information
 
-Same-sex relationships are illegal. Penalties for same-sex activity include both:
+Same-sex relationships are illegal in Cameroon. Penalties for same-sex activity include both:
 
 * 6 months to 5 years jail
 * a fine of 20,000 to 200,000 CFCA francs.
 
-The media has reported attacks and arrests targeting LGBTQIA+ people.
+The media has reported extra-judicial attacks and arrests targeting LGBTQIA+ people in Cameroon.
 
 **More information:**
 
@@ -49,6 +55,8 @@ It's illegal to take photos of:
 * government buildings
 * airports
 * ports
+
+In other areas communities may be sensitive to people taking photos without permission. This may result in locals or officials asking for money for a ‘permit’ to photograph certain places.
 
 #### Australian laws
 

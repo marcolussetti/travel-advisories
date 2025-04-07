@@ -2,9 +2,7 @@
 
 Latest update
 
-The Constitutional Court will issue its verdict on President Yoon's impeachment on Friday, 4 April 2025. In response to the verdict, large crowds and protests are expected in Seoul and elsewhere around the country. Avoid large public gatherings and areas with significant police activity. Foreign nationals are generally not permitted to take part in domestic political activities when in South Korea.  
-  
-In Seoul, crowds may be concentrated in the vicinity of the National Assembly (Yeouido), Gwanghwamun Square, the Constitutional Court (Anguk) and other district court buildings, near the Presidential Office (Samgakji) and Presidential Residence (Hannam-dong) and, on university campuses or elsewhere. Police presence is expected to be high in these areas. Traffic, public transport and other essential services may be disrupted, including the closure of tourist attractions, subway stations and facilities such as schools and offices. Be prepared to change your travel plans in case of disruptions. Monitor the media for updates and follow the advice of local authorities (see 'Safety'). The Australian Embassy in Seoul will be closed to the public on 4 April.
+We continue to advise exercise normal safety precautions in South Korea. Avoid demonstrations and large public gatherings. This could be more frequent given the evolving domestic political situation as South Korea enters a period of national election campaigning. Be prepared to change your travel plans in case of traffic or other disruptions. Monitor the media for updates and follow the advice of local authorities (see 'Safety').
 
 Advice Level summary
 
@@ -24,7 +22,7 @@ Exercise normal safety precautions in South Korea.
 
 ### Safety
 
-* The Constitutional Court has announced that it will issue its verdict on President Yoon's impeachment on Friday, 4 April 2025. In response to the verdict, large crowds and protests are expected in Seoul and elsewhere around the country. Avoid protests and demonstrations. In Seoul, crowds may be concentrated in the vicinity of the National Assembly (Yeouido), Gwanghwamun Square, the Constitutional Court (Anguk) and other district court buildings, near the Presidential Office (Samgakji) and Presidential Residence (Hannam-dong) and, on university campuses or elsewhere. Police presence is expected to be high. Traffic, public transport and other essential services may be disrupted, including the closure of tourist attractions, subway stations and facilities such as schools and offices. Monitor the media for updates and follow the advice of local authorities. The Australian Embassy in Seoul will be closed to the public on 4 April.
+* Avoid demonstrations and large public gatherings. This could be more frequent given the evolving domestic political situation as South Korea enters a period of national election campaigning. Be prepared to change your travel plans in case of traffic or other disruptions. Monitor the media for updates and follow the advice of local authorities.
 * South Korea and North Korea are technically still at war, and tensions on the Korean Peninsula can increase with little warning. North Korea regularly conducts missile launches and other provocations. Monitor developments. Consider downloading the South Korean Government's 'Emergency Ready' app to receive emergency messages in English.
 * Civil emergency drills and exercises are held several times a year. These can be held nationally, regionally or locally.
 * Large-scale public gatherings and protests are common, particularly in Seoul. Protests are generally peaceful and heavily policed but can sometimes turn violent. If possible, avoid large public gatherings and areas with significant police activity, and exercise caution in crowded areas. These gatherings can lead to significant disruptions to traffic and public transportation.

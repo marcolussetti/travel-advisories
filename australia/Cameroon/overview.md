@@ -2,7 +2,7 @@
 
 Latest update
 
-We continue to advise exercise a high degree of caution in Cameroon overall due to the threat of violent crime and risk of civil unrest. Higher levels apply in some areas. You must apply and pay for your visa through the Cameroonian Government's E-visa system prior to travel (see 'Travel').
+We've reviewed our advice and continue to advise exercise a high degree of caution in Cameroon overall due to the threat of violent crime and risk of civil unrest. Higher levels apply in some areas. You must apply and pay for your visa through the Cameroon Government's E-visa system prior to travel (see 'Travel').
 
 Advice Level summary
 
@@ -46,10 +46,11 @@ See [Safety](#safety).
 ### Safety
 
 * Terrorist groups are active in the far north, including around Lake Chad and the Nigerian border. Public places and government buildings are potential targets. Be very alert to suspicious behaviour and unattended items.
-* Pirates operate in the Gulf of Guinea, particularly in the waters around the Niger Delta and the Bakassi Peninsula.
 * Kidnapping and ongoing violence occur, especially in the Far North, Northwest and Southwest regions and near the Nigerian border. Avoid these areas. If you do travel there, consider engaging professional security support and planning.
 * Violent crime is common in residential centres and on rural highways. Avoid travel after dark, especially outside city limits. Keep car doors locked, windows up and valuables out of sight.
 * Protests occasionally happen and have the potential to turn violent. Avoid large gatherings and follow the advice of local authorities.
+* Cameroon is expected to hold Presidential elections in October 2025. Local authorities are likely to maintain a higher level of security alert across Cameroon in the lead up to the election.
+* Pirates operate in the Gulf of Guinea, particularly in the waters around the Niger Delta and the Bakassi Peninsula.
 * Commercial and internet fraud often comes from West African countries, such as Cameroon. Scams can lead to physical and financial harm. Be wary of requests to send money to or meet someone in Cameroon.
 * Ask local authorities before climbing Mount Cameroon. It may experience volcanic explosions and lava flows.
 
@@ -74,7 +75,7 @@ Full travel advice: [Local laws](#local-laws)
 
 ### Travel
 
-* You must apply and pay for your visa through the [Cameroonian Government's E-visa system](https://www.evisacam.cm/ords/dl_portal/r/public_portal/home) prior to travel. You must bring the provided visa authorisation QR code and original copies of supporting documents with you for verification upon arrival in Cameroon.
+* You must apply and pay for your visa through the [Cameroonian Government's E-visa system](https://www.evisacam.cm/ords/dl_portal/r/public_portal/home) prior to travel. You must bring a printed version of the provided visa authorisation QR code and original copies of supporting documents with you for verification upon arrival in Cameroon.
 * Flight availability may change rapidly due to travel disruptions. Access through land and sea borders remains restricted. Communication may be difficult in these areas due to poor coverage.
 * Hotels may accept US dollars and Euros. You can exchange them for local currency. Some hotels accept traveller's cheques. Most ATMs don't accept foreign cards. You can't use credit cards in many places.
 * Reconsider using taxis and ridesharing services due to high crime levels. If you choose to travel by taxi, use only trusted taxis or transportation arranged by the hotel. Arrange for someone to meet you on arrival at the airport.
