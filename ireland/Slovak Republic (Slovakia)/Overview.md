@@ -4,6 +4,12 @@
 
 Normal Precautions
 
+### **Travel Alert**
+
+On 25 March 2025, the Slovak government introduced a range of emergency measures following an outbreak of foot and mouth disease. This had led to increased vehicle inspection measures, especially on freight vehicles, on the Czech, Austrian, Hungarian and Polish borders.
+
+People are also advised to avoid visiting farms and forests in affected areas and to follow strict hygiene measures to prevent the disease from spreading. Details of all measures in place can be found on the [Ministry of the Interior of the Slovak Republic website](https://www.minv.sk/?tlacove-spravy-2&sprava=slintacka-a-krivacka-aktualne-informacie-o-opatreniach-a-rezime-na-hraniciach)
+
 ### **General Travel Advice**
 
 Irish citizens need a valid passport or passport card to enter the Slovak Republic.
@@ -16,7 +22,7 @@ As of 1st May 2018 **holders of a travel document for refugees** issued by Irel
 
 Visitors to the Slovak Republic are advised to follow the guidance of national and local authorities and stay fully informed of what's going on by monitoring local news and social media.
 
-Irish citizens can also follow the Embassy on social media Twitter [**@IrishEmbSlovakia**](https://twitter.com/IrlEmbSlovakia) and [**Facebook**](https://m.facebook.com/IrlEmbSlovakia).
+Irish citizens can also follow the Embassy on social media X [**@IrishEmbSlovakia**](https://twitter.com/IrlEmbSlovakia) and [**Facebook**](https://m.facebook.com/IrlEmbSlovakia).
 
 ### **Emergency Assistance**
 
@@ -33,5 +39,5 @@ You can contact the emergency services in The Slovak Republic by dialling 112 Sp
 * Get comprehensive travel insurance that covers all your planned activities.
 * Get a [**European Health Insurance Card**](http://www.hse.ie/eng/services/list/1/schemes/EHIC/)**.**
 * [**Register**](/en/dfa/overseas-travel/citizens-registration/) your details with us so that we can contact you quickly if there’s an unforeseen crisis like a natural disaster or a family emergency.
-* Follow us on twitter [**@dfatravelwise**](https://www.twitter.com/DFATravelWise) for the latest travel updates.
+* Follow us on X [**@dfatravelwise**](https://www.twitter.com/DFATravelWise) and Instagram [**@dfatravelwise**](https://www.instagram.com/dfatravelwise/) for the latest travel updates.
 * Read our [**‘Know Before You Go’**](/en/dfa/overseas-travel/know-before-you-go/) guide.

@@ -6,9 +6,11 @@ Avoid Non-Essential Travel
 
 ### **Travel Alert**
 
-Irish citizens are advised to follow developments in the region in respect of m-pox, and to consult advice available such as on the [**HSE website**](https://www2.hse.ie/conditions/mpox/)**.**
+As of Monday 7 April, there is potential for protests throughout Nigeria in the coming days. Protests have the potential to turn violent without warning. Demonstrations can take many forms, including roadblocks, checkpoints and large congregations.
 
 Irish citizens are advised to be vigilant and keep up to date with local developments and avoid all demonstrations and large gatherings. If you become aware of any nearby protests or disturbances, leave the area immediately and monitor local media for up-to-date information.
+
+Irish citizens are advised to follow developments in the region in respect of m-pox, and to consult advice available such as on the [**HSE website**](https://www2.hse.ie/conditions/mpox/)**.**
 
 ### **General Travel Advice**
 

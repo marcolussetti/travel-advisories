@@ -28,3 +28,5 @@ Antwerpen, Belgium
 **E-mail:** [yves.rombouts@honoraryconsul.ie](mailto:yves.rombouts@honoraryconsul.ie)
 
 (By appointment only)
+
+Please note that the Honorary Consulate does not process visa applications. Information on visas can be found on the [Embassy Visa](/en/belgium/brussels/services/visas/visas-for-ireland/) page. Visa queries can be sent via our [contact form](/en/belgium/brussels/contact/).

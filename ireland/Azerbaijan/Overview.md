@@ -19,10 +19,6 @@ For further information, please read the Safety and Security section of this pag
 
 Irish citizens require a visa to enter Azerbaijan. Citizens can apply online using the [**e-visa website**](https://evisa.gov.az/en/). Visas are valid for 90 days, and stays must not exceed 30 days in total.
 
-COP29 participants travelling to Azerbaijan will require a ‘COP29 Special Visa’. It is mandatory to apply for the ‘COP29 Special Visa’ prior to arrival in Azerbaijan, using the visa application link within the UNFCCC registration confirmation email.
-
-During COP29, entry to Azerbaijan without restrictions is only possible via **air travel.** Entry via a land or sea border is restricted. Once in Azerbaijan exit is possible via air or sea routes. Permission from the authorities is required to leave Azerbaijan by road.
-
 A valid passport is required for travel to Azerbaijan. Passport cards **cannot** be used. Irish passports should have a minimum validity of 3 months from the expiry date of your Azerbaijani visa. This means your passport must be valid for at least 6 months after the date you arrive in Azerbaijan.
 
 For further information on entry requirements, please read the ‘Additional Information’ section of this page.
