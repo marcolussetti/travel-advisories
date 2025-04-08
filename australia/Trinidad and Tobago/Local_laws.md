@@ -20,6 +20,8 @@ Research the local laws before you travel.
 
 #### Other laws
 
+Sodomy is a criminal offence punishable with a prison term of up to 5 years.
+
 There are laws prohibiting LGBTQIA+ individuals from entering the country, but in practice these laws are rarely enforced.
 
 Serious crimes, including murder and treason, can attract the death penalty.

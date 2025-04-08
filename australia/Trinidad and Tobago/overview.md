@@ -46,6 +46,7 @@ Full travel advice: [Health](#health)
 ### Local laws
 
 * Laws introduced in 2019 decriminalised limited marijuana possession and use under certain conditions. Penalties for drug offences are severe. They can include lengthy prison sentences in local jails, even for a small quantity of illegal drugs. Research the local laws before you travel.
+* Sodomy is a criminal offence punishable with a prison term of up to 5 years.
 * There are laws prohibiting LGBTQIA+ individuals from entering the country, but in practice, these laws are rarely enforced.
 * Serious crimes, including murder and treason, can attract the death penalty.
 
