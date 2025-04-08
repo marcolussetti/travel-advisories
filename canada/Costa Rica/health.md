@@ -61,23 +61,6 @@ Travellers get vaccinated either because it is required to enter a country or be
 [Yellow Fever Vaccination Centres in Canada](https://www.canada.ca/en/public-health/services/travel-health/yellow-fever.html#select-centre)  
 \* It is important to note that [country entry requirements](https://www.who.int/publications/m/item/vaccination-requirements-and-recommendations-for-international-travellers-and-malaria-situation-per-country-2022-edition) may not reflect your risk of yellow fever at your destination. It is recommended that you contact the nearest [diplomatic or consular office](http://www.international.gc.ca/protocol-protocole/reps.aspx?view=d) of the destination(s) you will be visiting to verify any additional entry requirements.
 
-Malaria 
-
-[Malaria](https://www.canada.ca/en/public-health/services/diseases/malaria.html) is a serious and sometimes fatal disease that is caused by parasites spread through the bites of mosquitoes.  
-   
-**There is a risk of malaria in certain areas and/or during a certain time of year in this destination.**
-
-[Antimalarial medication may be recommended](https://www.canada.ca/en/public-health/services/catmat/appendix-1-malaria-risk-recommended-chemoprophylaxis-geographic-area.html) depending on your itinerary and the time of year you are travelling. Consult a health care professional or visit a travel health clinic before travelling to discuss your options. It is recommended to do this 6 weeks before travel, however, it is still a good idea any time before leaving.   
- 
-
-Rabies 
-
-In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/diseases/rabies) is carried by dogs and some wildlife, including bats. Rabies is a deadly disease that spreads to humans primarily through bites or scratches from an infected animal. While travelling, take [precautions](https://www.canada.ca/en/public-health/services/diseases/rabies/prevention.html), including keeping your distance from animals (including free-roaming dogs), and closely supervising children.
-
-If you are bitten or scratched by an animal while travelling, immediately wash the wound with soap and clean water and see a health care professional. Rabies treatment is often available in this destination.
-
-Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who are at high risk of exposure (e.g., occupational risk such as veterinarians and wildlife workers, children, adventure travellers and spelunkers, and others in close contact with animals).
-
 Measles 
 
 [Measles](https://www.canada.ca/en/public-health/services/diseases/measles.html) is a highly contagious viral disease. It can spread quickly from person to person by direct contact and through droplets in the air.
@@ -113,6 +96,23 @@ Influenza
 The flu vaccine available in one hemisphere may only offer partial protection against the flu in the other hemisphere.
 
 The flu virus spreads from person to person when they cough or sneeze or by touching objects and surfaces that have been contaminated with the virus. Clean your hands often and wear a mask if you have a fever or respiratory symptoms.
+
+Malaria 
+
+[Malaria](https://www.canada.ca/en/public-health/services/diseases/malaria.html) is a serious and sometimes fatal disease that is caused by parasites spread through the bites of mosquitoes.  
+   
+**There is a risk of malaria in certain areas and/or during a certain time of year in this destination.**
+
+[Antimalarial medication may be recommended](https://www.canada.ca/en/public-health/services/catmat/appendix-1-malaria-risk-recommended-chemoprophylaxis-geographic-area.html) depending on your itinerary and the time of year you are travelling. Consult a health care professional or visit a travel health clinic before travelling to discuss your options. It is recommended to do this 6 weeks before travel, however, it is still a good idea any time before leaving.   
+ 
+
+Rabies 
+
+In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/diseases/rabies) is carried by dogs and some wildlife, including bats. Rabies is a deadly disease that spreads to humans primarily through bites or scratches from an infected animal. While travelling, take [precautions](https://www.canada.ca/en/public-health/services/diseases/rabies/prevention.html), including keeping your distance from animals (including free-roaming dogs), and closely supervising children.
+
+If you are bitten or scratched by an animal while travelling, immediately wash the wound with soap and clean water and see a health care professional. Rabies treatment is often available in this destination.
+
+Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who are at high risk of exposure (e.g., occupational risk such as veterinarians and wildlife workers, children, adventure travellers and spelunkers, and others in close contact with animals).
 
 ### Safe food and water precautions
 
@@ -174,12 +174,6 @@ A vaccine for the prevention of chikungunya (IXCHIQ) is approved in Canada. Talk
 
 [Chikungunya](https://www.canada.ca/en/public-health/services/diseases/chikungunya.html)
 
-American trypanosomiasis
-
-[American trypanosomiasis (Chagas disease)](https://www.canada.ca/en/public-health/services/diseases/chagas-disease-american-trypanosomiasis.html) is a risk in this country. It is caused by a parasite spread by infected triatomine bugs. The infection can be inactive for decades, but humans can eventually develop complications causing disability and even death.
-
-Risk is generally low for most travellers. Protect yourself from triatomine bugs, which are active at night, by using mosquito nets if staying in poorly-constructed housing. There is no vaccine available for Chagas disease.
-
 Dengue 
 
 * In this country, dengue is a risk to travellers. It is a viral disease spread to humans by mosquito bites.
@@ -205,6 +199,12 @@ During your trip:
 If you are pregnant or planning a pregnancy, you should discuss the potential risks of travelling to this destination with your health care provider. You may choose to avoid or postpone travel.
 
 For more information, see [Zika virus: Pregnant or planning a pregnancy.](https://www.canada.ca/en/public-health/services/diseases/zika-virus/pregnant-planning-pregnancy.html)
+
+American trypanosomiasis
+
+[American trypanosomiasis (Chagas disease)](https://www.canada.ca/en/public-health/services/diseases/chagas-disease-american-trypanosomiasis.html) is a risk in this country. It is caused by a parasite spread by infected triatomine bugs. The infection can be inactive for decades, but humans can eventually develop complications causing disability and even death.
+
+Risk is generally low for most travellers. Protect yourself from triatomine bugs, which are active at night, by using mosquito nets if staying in poorly-constructed housing. There is no vaccine available for Chagas disease.
 
 ### Animal precautions
 

@@ -1,7 +1,7 @@
 {
     "name": "Argentina",
-    "update_reason": "Safety and security \u2013 updated information on spiked food, drinks and other items",
-    "update_date": "2025-04-03T17:09:00",
+    "update_reason": "The Need help? section was updated.",
+    "update_date": "2025-04-07T07:48:00",
     "sections": {
         "risk": "canada/Argentina/risk.md",
         "security": "canada/Argentina/security.md",

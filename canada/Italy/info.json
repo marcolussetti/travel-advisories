@@ -1,7 +1,7 @@
 {
     "name": "Italy",
-    "update_reason": "Natural disasters and climate \u2013 updated information on flooding and landslides",
-    "update_date": "2025-03-14T13:54:00",
+    "update_reason": "The Need help? section was updated.",
+    "update_date": "2025-04-07T08:08:00",
     "sections": {
         "risk": "canada/Italy/risk.md",
         "security": "canada/Italy/security.md",

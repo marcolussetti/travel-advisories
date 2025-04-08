@@ -64,6 +64,22 @@ Hepatitis B
 
 Hepatitis B vaccination is recommended for all travellers. [Prevent hepatitis B](https://www.canada.ca/en/public-health/services/diseases/hepatitis-b/prevention-risks.html#a2) infection by practicing safe sex, only using new and sterile drug equipment, and only getting tattoos and piercings in settings that follow public health regulations and standards.
 
+Measles 
+
+[Measles](https://www.canada.ca/en/public-health/services/diseases/measles.html) is a highly contagious viral disease. It can spread quickly from person to person by direct contact and through droplets in the air.
+
+Anyone who is not protected against measles is at risk of being infected with it when travelling internationally.
+
+Regardless of where you are going, talk to a health care professional before travelling to make sure you are fully protected against measles.
+
+COVID-19
+
+[Coronavirus disease (COVID-19)](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html) is an infectious viral disease. It can spread from person to person by direct contact and through droplets in the air.
+
+It is recommended that all eligible travellers complete a COVID-19 vaccine series along with any additional recommended doses in Canada before travelling. Evidence shows that vaccines are very effective at preventing severe illness, hospitalization and death from COVID-19. While vaccination provides better protection against serious illness, you may still be at risk of infection from the virus that causes COVID-19. Anyone who has not completed a vaccine series is at increased risk of being infected with the virus that causes COVID-19 and is at greater risk for severe disease when travelling internationally.
+
+Before travelling, verify your destination’s COVID-19 vaccination entry/exit requirements. Regardless of where you are going, talk to a health care professional before travelling to make sure you are adequately protected against COVID-19.
+
 Influenza
 
  The best way to protect yourself from seasonal [influenza](https://www.canada.ca/en/public-health/services/diseases/flu-influenza.html) (flu) is to get vaccinated every year. [Get the flu shot](https://www.canada.ca/en/public-health/services/diseases/flu-influenza/get-your-flu-shot.html) at least 2 weeks before travelling.
@@ -85,22 +101,6 @@ In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/dise
 If you are bitten or scratched by an animal while travelling, immediately wash the wound with soap and clean water and see a health care professional.
 
 Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who will be working directly with wildlife.
-
-Measles 
-
-[Measles](https://www.canada.ca/en/public-health/services/diseases/measles.html) is a highly contagious viral disease. It can spread quickly from person to person by direct contact and through droplets in the air.
-
-Anyone who is not protected against measles is at risk of being infected with it when travelling internationally.
-
-Regardless of where you are going, talk to a health care professional before travelling to make sure you are fully protected against measles.
-
-COVID-19
-
-[Coronavirus disease (COVID-19)](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html) is an infectious viral disease. It can spread from person to person by direct contact and through droplets in the air.
-
-It is recommended that all eligible travellers complete a COVID-19 vaccine series along with any additional recommended doses in Canada before travelling. Evidence shows that vaccines are very effective at preventing severe illness, hospitalization and death from COVID-19. While vaccination provides better protection against serious illness, you may still be at risk of infection from the virus that causes COVID-19. Anyone who has not completed a vaccine series is at increased risk of being infected with the virus that causes COVID-19 and is at greater risk for severe disease when travelling internationally.
-
-Before travelling, verify your destination’s COVID-19 vaccination entry/exit requirements. Regardless of where you are going, talk to a health care professional before travelling to make sure you are adequately protected against COVID-19.
 
 ### Safe food and water precautions
 
@@ -162,12 +162,6 @@ A vaccine for the prevention of chikungunya (IXCHIQ) is approved in Canada. Talk
 
 [Chikungunya](https://www.canada.ca/en/public-health/services/diseases/chikungunya.html)
 
-American trypanosomiasis
-
-[American trypanosomiasis (Chagas disease)](https://www.canada.ca/en/public-health/services/diseases/chagas-disease-american-trypanosomiasis.html) is a risk in this country. It is caused by a parasite spread by infected triatomine bugs. The infection can be inactive for decades, but humans can eventually develop complications causing disability and even death.
-
-Risk is generally low for most travellers. Protect yourself from triatomine bugs, which are active at night, by using mosquito nets if staying in poorly-constructed housing. There is no vaccine available for Chagas disease.
-
 Dengue 
 
 * In this country, dengue is a risk to travellers. It is a viral disease spread to humans by mosquito bites.
@@ -193,6 +187,12 @@ During your trip:
 If you are pregnant or planning a pregnancy, you should discuss the potential risks of travelling to this destination with your health care provider. You may choose to avoid or postpone travel.
 
 For more information, see [Zika virus: Pregnant or planning a pregnancy.](https://www.canada.ca/en/public-health/services/diseases/zika-virus/pregnant-planning-pregnancy.html)
+
+American trypanosomiasis
+
+[American trypanosomiasis (Chagas disease)](https://www.canada.ca/en/public-health/services/diseases/chagas-disease-american-trypanosomiasis.html) is a risk in this country. It is caused by a parasite spread by infected triatomine bugs. The infection can be inactive for decades, but humans can eventually develop complications causing disability and even death.
+
+Risk is generally low for most travellers. Protect yourself from triatomine bugs, which are active at night, by using mosquito nets if staying in poorly-constructed housing. There is no vaccine available for Chagas disease.
 
 ### Animal precautions
 

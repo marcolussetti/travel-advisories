@@ -49,6 +49,20 @@ Travellers get vaccinated either because it is required to enter a country or be
 
 [Yellow Fever Vaccination Centres in Canada]( https://www.canada.ca/en/public-health/services/travel-health/yellow-fever.html#select-centre)
 
+Measles 
+
+[Measles](https://www.canada.ca/en/public-health/services/diseases/measles.html) is a highly contagious viral disease. It can spread quickly from person to person by direct contact and through droplets in the air.
+
+Anyone who is not protected against measles is at risk of being infected with it when travelling internationally.
+
+Regardless of where you are going, talk to a health care professional before travelling to make sure you are fully protected against measles.
+
+Hepatitis B
+
+[Hepatitis B](https://www.canada.ca/en/public-health/services/diseases/hepatitis-b.html) is a risk in every destination. It is a viral liver disease that is easily transmitted from one person to another through exposure to blood and body fluids containing the hepatitis B virus.  Travellers who may be exposed to blood or other bodily fluids (e.g., through sexual contact, medical treatment, sharing needles, tattooing, acupuncture or occupational exposure) are at higher risk of getting hepatitis B.
+
+Hepatitis B vaccination is recommended for all travellers. [Prevent hepatitis B](https://www.canada.ca/en/public-health/services/diseases/hepatitis-b/prevention-risks.html#a2) infection by practicing safe sex, only using new and sterile drug equipment, and only getting tattoos and piercings in settings that follow public health regulations and standards.
+
 Influenza
 
  The best way to protect yourself from seasonal [influenza](https://www.canada.ca/en/public-health/services/diseases/flu-influenza.html) (flu) is to get vaccinated every year. [Get the flu shot](https://www.canada.ca/en/public-health/services/diseases/flu-influenza/get-your-flu-shot.html) at least 2 weeks before travelling.
@@ -70,20 +84,6 @@ In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/dise
 If you are bitten or scratched by an animal while travelling, immediately wash the wound with soap and clean water and see a health care professional.
 
 Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who will be working directly with wildlife.
-
-Measles 
-
-[Measles](https://www.canada.ca/en/public-health/services/diseases/measles.html) is a highly contagious viral disease. It can spread quickly from person to person by direct contact and through droplets in the air.
-
-Anyone who is not protected against measles is at risk of being infected with it when travelling internationally.
-
-Regardless of where you are going, talk to a health care professional before travelling to make sure you are fully protected against measles.
-
-Hepatitis B
-
-[Hepatitis B](https://www.canada.ca/en/public-health/services/diseases/hepatitis-b.html) is a risk in every destination. It is a viral liver disease that is easily transmitted from one person to another through exposure to blood and body fluids containing the hepatitis B virus.  Travellers who may be exposed to blood or other bodily fluids (e.g., through sexual contact, medical treatment, sharing needles, tattooing, acupuncture or occupational exposure) are at higher risk of getting hepatitis B.
-
-Hepatitis B vaccination is recommended for all travellers. [Prevent hepatitis B](https://www.canada.ca/en/public-health/services/diseases/hepatitis-b/prevention-risks.html#a2) infection by practicing safe sex, only using new and sterile drug equipment, and only getting tattoos and piercings in settings that follow public health regulations and standards.
 
 COVID-19
 

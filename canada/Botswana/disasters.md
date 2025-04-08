@@ -2,19 +2,6 @@
 
 ## Natural disasters and climate
 
-Heavy rains have caused severe flooding across Botswana. Flash floods have occurred across the country and pose a significant risk to low-lying areas.
-
-More rain is expected until the end of February 2025, which could lead to further flooding.
-
-The following essential services are affected:
-
-* transport and infrastructure
-* electricity distribution
-* water and food supply
-* emergency services
-
-[Botswana Meteorological Services on Facebook](https://www.facebook.com/BotswanaMet) – Ministry of Environment and Tourism
-
 ### Climate change
 
 Climate change is affecting Botswana. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local media for the latest information.
