@@ -1,11 +1,11 @@
 {
     "name": "Burundi",
-    "update_reason": "Information relating to Rusizi National Park (Warnings and insurance page).",
+    "update_reason": "CORRECTION: FCDO now advises against all travel to Rusizi National Park and continues to advise against all travel to Cibitoke and Bubanza provinces, Kayanza Province, Melchior Ndadaye International Airport to Cibitoke and Bujumbura Rural Province. FCDO continues to advise against all but essential travel to the area of Bujumbura Rural Province north of the Isale road ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Burundi/Warnings and insurance.md",
-            "update_date": "2025-04-04T23:44:35+01:00"
+            "update_date": "2025-04-07T13:02:06+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Burundi/Getting help.md"
         }
     ],
-    "update_date": "2025-04-04T23:44:35+01:00"
+    "update_date": "2025-04-07T13:02:06+01:00"
 }

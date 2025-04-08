@@ -1,11 +1,11 @@
 {
     "name": "Rwanda",
-    "update_reason": "Update relating to the Rubavu District (Warnings and insurance page).",
+    "update_reason": "CORRECTION: FCDO now advises against all but essential travel to the Rubavu District and continues to advise against all but essential travel to parts of Rusizi District ('Warnings and insurance' and 'Regional risks' pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Rwanda/Warnings and insurance.md",
-            "update_date": "2025-04-04T23:39:45+01:00"
+            "update_date": "2025-04-07T12:58:59+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Rwanda/Getting help.md"
         }
     ],
-    "update_date": "2025-04-04T23:39:45+01:00"
+    "update_date": "2025-04-07T12:58:59+01:00"
 }

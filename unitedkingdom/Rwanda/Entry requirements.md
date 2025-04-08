@@ -26,13 +26,13 @@ You must get a [UK Police Certificate](https://www.acro.police.uk/s/) before you
 
 ## Travel between Rwanda and the Democratic Republic of the Congo
 
-Land border crossing opening hours between Rwanda and the Democratic Republic of the Congo at Gisenyi-Goma and Cyangugu-Bukavu vary. The FCDO currently advises against all but essential travel to parts of the Rubavu and Rusizi Districts.
+Land border crossing opening hours between Rwanda and the Democratic Republic of the Congo at Gisenyi-Goma and Cyangugu-Bukavu vary. The conflict in DRC could further affect border crossings (see [Democratic Republic of the Congo’s travel advice](https://www.gov.uk/foreign-travel-advice/democratic-republic-of-the-congo)). The FCDO currently advises against all but essential travel to parts of the Rubavu and Rusizi Districts.
 
 You may experience immigration difficulties if you do not have residency status and regularly cross between the two countries.
 
 ## Vaccine requirements
 
-To enter Rwanda, if you’re coming from a country listed as a transmission risk, you must have a certificate to prove you’ve had a yellow fever vaccination.
+To enter Rwanda, if you’re coming from a [country listed as a transmission risk](https://nathnacyfzone.org.uk/factsheet/65/countries-with-risk-of-yellow-fever-transmission), you must have a certificate to prove you’ve had a yellow fever vaccination.
 
 For full details about medical entry requirements and recommended vaccinations, see [TravelHealthPro’s Rwanda guide](https://travelhealthpro.org.uk/country/187/rwanda#Vaccine_Recommendations).
 

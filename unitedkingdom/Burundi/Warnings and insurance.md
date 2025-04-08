@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   5 April 2025
+:   8 April 2025
 
 Updated:
-:   4 April 2025
+:   7 April 2025
 
 Latest update:
-:   Information relating to Rusizi National Park (Warnings and insurance page).
+:   CORRECTION: FCDO now advises against all travel to Rusizi National Park and continues to advise against all travel to Cibitoke and Bubanza provinces, Kayanza Province, Melchior Ndadaye International Airport to Cibitoke and Bujumbura Rural Province. FCDO continues to advise against all but essential travel to the area of Bujumbura Rural Province north of the Isale road ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/67f055b1cb0feef57df7e5dd/Annex_B_FCDO__TA__007_-_Burundi_Travel_Advice_Ed5__WEB_.jpg)
 

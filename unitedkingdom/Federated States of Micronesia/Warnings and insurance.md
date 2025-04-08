@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   8 April 2025
 
 Updated:
-:   1 March 2024
+:   7 April 2025
 
 Latest update:
-:   This travel advice has been rewritten to make it easier to read and understand.
+:   Updated information on visa requirements (‘Entry requirements’ page).
 
 ## Before you travel
 

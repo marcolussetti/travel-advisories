@@ -16,11 +16,8 @@ You will be denied entry if you do not have a valid travel document or try to us
 
 ## Visa requirements
 
-You must have a visa to enter the Federated States of Micronesia. If you are visiting for tourism, you will get a visa on arrival.
-
-You may extend your visa without charge by 30 days at a time, up to a maximum of 90 days. To extend your visa, [contact the Federated States of Micronesia Immigration Office](https://visit-micronesia.fm/government-office/).
-
-If you are visiting for any other purpose, such as business, you must apply for an entry permit before you travel. See [entry requirements for the Federated States of Micronesia](https://visit-micronesia.fm/regulations/).
+A visa is not required for visits of 30 days or less. If you do not hold a valid entry permit you must complete “Customs, Immigration & Quarantine Form (CIQ Form)” on arrival. If you are visiting for a period exceeding 30 days you must apply for an entry permit. See [Entry requirements](https://visit-micronesia.fm/regulations/) and contact
+[the Federated States of Micronesia Immigration Office](https://visit-micronesia.fm/government-office/).
 
 ### Checks at border control
 

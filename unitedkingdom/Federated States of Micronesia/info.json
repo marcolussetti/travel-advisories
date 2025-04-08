@@ -1,11 +1,11 @@
 {
     "name": "Federated States of Micronesia",
-    "update_reason": "This travel advice has been rewritten to make it easier to read and understand.",
+    "update_reason": "Updated information on visa requirements (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Federated States of Micronesia/Warnings and insurance.md",
-            "update_date": "2024-03-01T11:24:30+00:00"
+            "update_date": "2025-04-07T11:24:34+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Federated States of Micronesia/Getting help.md"
         }
     ],
-    "update_date": "2024-03-01T11:24:30+00:00"
+    "update_date": "2025-04-07T11:24:34+01:00"
 }
