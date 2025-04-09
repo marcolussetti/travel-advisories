@@ -8,6 +8,7 @@ Counter-terrorism operations in the past years have diminished the terrorism thr
 
 Recent terror attacks include:
 
+* September 2024: two civilians were killed, and three soldiers were injured in an attack in Beni Snouss
 * October 2021: 3 civilians were seriously injured by IED explosions in Tebessa and Batna
 * January 2021: a roadside bomb killed 5 Algerian citizens in Tebessa.
 
@@ -56,32 +57,37 @@ Terrorism is a threat worldwide.
 
 #### Kidnapping
 
-Kidnapping occurs across the world with political, ideological, and criminal motives. Foreigners, including Australians, have been kidnapped overseas whilst travelling. Kidnaps can happen anywhere, anytime, including destinations that are typically at lower risk.
+Kidnapping occurs across the world with political, ideological, and criminal motives. Foreigners, including Australians, have been kidnapped overseas whilst travelling. Kidnaps can happen anywhere, anytime, including destinations that are typically at lower risk.  
+  
+Kidnapping by criminals and terrorists occurs in Algeria, particularly in and around major cities, including Algiers.
 
-[Kidnapping](https://www.smartraveller.gov.au/node/57) by criminals and terrorists occurs in Algeria, particularly outside major centres.
+Kidnappings can occur in the Kabylie region in northeast Algeria and in the trans-Sahara region in the south, as well as in the South-West and in remote border areas. The threat is high in the Djanet district in Illizi province and Tamanrasset province.  
+  
+If despite our advice, you travel to an area with a high risk of kidnapping our ability to provide consular assistance in these destinations is limited.   
+  
+You're responsible for your own safety. To reduce the risk of being kidnapped:
 
-Kidnappings can occur in the Kabylie region in northeast Algeria and in the trans-Sahara region in the south, as well as in the South-West and in remote border areas. The threat is high in the Djanet district in Illizi province and Tamanrasset province.
-
-If, despite our advice, you travel to an area with a high risk of kidnapping, our ability to provide consular assistance in these destinations is limited.
-
-To reduce the risk of kidnapping:
-
-* always be alert to your personal security and surroundings
-* get professional security advice for travel in locations with a heightened kidnap risk
+* always be alert to your personal security and surroundings - avoid distractions. Be prepared to stop or take evasive action if you sense danger
+* get professional security advice for travel in locations with a heightened kidnap risk. It is essential to have a contingency plan
 * check your accommodation has appropriate security measures
-* avoid isolated locations, particularly when travelling alone
-* notify family or friends of planned travel and share your location
+* vary your movements so you don't set predictable patterns
+* keep a low profile – including online. Drawing attention to yourself in high-risk areas may signal to criminals that you have something worth taking
+* avoid isolated locations, particularly when travelling alone. There is safety in numbers, and you should try to travel with someone else, especially at night
+* notify family or friends of planned travel; share your location and emergency contacts that they can rely on if something happens
 * avoid talking about your money or business affairs
 * use ATMs in public places and during daylight hours
-* avoid giving personal details to strangers online or over the phone
+* avoid giving personal details to strangers online or over the phone. Criminals have been known to search social media for victims
+* If you are confronted by armed criminals, it is best to surrender and cooperate – resistance tends to make the situation worse
 
-The Australian Government's longstanding policy is that it doesn't make payments or concessions to kidnappers.
+You can find more information on how to reduce your risk of being kidnapped: [Kidnapping](https://www.smartraveller.gov.au/before-you-go/safety/kidnapping).
 
-Ransom payments to kidnappers have funded further terrorist attacks and criminal activity. Paying a ransom to terrorist groups will likely break Australian counter-terrorism financing laws.
-
+The Australian Government's longstanding policy is that it doesn't make payments or concessions to kidnappers. Ransom payments to kidnappers have funded further terrorist attacks and criminal activity. Ransom payments to terrorist groups are likely to contravene Australian counter-terrorism financing laws.   
+  
 **More information:**
 
-* [Kidnapping](https://www.smartraveller.gov.au/node/57)
+* [Kidnapping](https://www.smartraveller.gov.au/before-you-go/safety/kidnapping)
+* [Scams that affect travellers (Smartraveller)](https://www.smartraveller.gov.au/before-you-go/safety/scams)
+* [Reducing the risk of piracy (Smartraveller)](https://www.smartraveller.gov.au/before-you-go/safety/piracy)
 
 #### Civil unrest and political tension
 
@@ -121,6 +127,12 @@ Contact your airline, travel agent or insurer for help if there are transport di
 
 Pickpocketing, bag snatching and theft from cars occurs, especially in larger cities. Crime levels are higher after dark.
 
+Drink spiking can happen anywhere. Be alert to the potential risks, and don't leave food or drinks unattended. Pay attention when your drinks are being mixed. Stick to reputable venues and avoid homemade alcoholic drinks due to the risk of methanol poisoning. Get urgent medical help if you suspect you’ve been a victim.
+
+**More information:**
+
+* [Partying safely while overseas](https://www.smartraveller.gov.au/before-you-go/safety/partying)
+
 #### Road-based crime
 
 [Robbery](https://www.smartraveller.gov.au/node/344)and carjacking occur, particularly in deserted beach areas, even during daylight hours.
@@ -145,23 +157,6 @@ Social media can also be risky in destinations where there are social or politic
 **More information:**
 
 * [Cyber security when travelling overseas](https://www.smartraveller.gov.au/before-you-go/staying-safe/cyber-security)
-
-#### Drink spiking and methanol poisoning
-
-Be alert to the potential risks around drink spiking and methanol poisoning through consuming alcoholic drinks. See our advice on [partying safely while overseas](https://www.smartraveller.gov.au/before-you-go/safety/partying#methanol).
-
-Get urgent medical attention if you think you or someone else has been drugged.
-
-Methanol can be used in unregulated alcohol production to lower costs. Methanol is highly toxic. As little as one shot can be fatal. Act quickly if you suspect you, or someone you're travelling with, has been poisoned. [Urgent medical attention](https://www.smartraveller.gov.au/while-youre-away/when-things-go-wrong/medical-assistance) could save your life or save you from permanent disability. Report suspected cases of methanol poisoning to the police.
-
-* be careful drinking cocktails and drinks made with spirits
-* drink only at reputable licensed premises
-* avoid home-made alcoholic drinks
-* labels on bottles aren't always accurate.
-
-**More information:**
-
-* [Partying safely while overseas](https://www.smartraveller.gov.au/before-you-go/safety/partying)
 
 #### Climate and natural disasters
 

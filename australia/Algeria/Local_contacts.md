@@ -12,15 +12,15 @@ Depending on what you need, contact your:
 
 #### Fire and rescue services
 
-Call 17 from a landline. Call 021 73 53 50 from a mobile phone.
+Call 14.
 
 #### Medical emergencies
 
-Call 17 from a landline. Call 021 73 53 50 from a mobile phone.
+Call 1021.
 
 #### Police
 
-Call 17 from a landline. Call 021 73 53 50 from a mobile phone.
+Call 17 or 1548.
 
 Emergency operators may not speak French and normally don't speak English.
 

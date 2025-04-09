@@ -10,7 +10,7 @@ You'll need a visa to enter Algeria. You must get a visa in advance.
 
 Only tourists arriving and departing by cruise ship can get visas on arrival.
 
-Entry and exit conditions can change at short notice. Contact the nearest [embassy or consulate](http://www.algeriaemb.org.au/) for information about visas, currency, customs and quarantine rules.
+Entry and exit conditions can change at short notice. Contact the nearest [embassy or consulate](https://embcanberra.mfa.gov.dz/) for information about visas, currency, customs and quarantine rules.
 
 #### Border measures
 
@@ -24,7 +24,7 @@ This rule doesn't apply to children younger than 12 months.
 
 **More information:**
 
-* [Countries with a risk of yellow fever (PDF 252KB)](https://www.who.int/publications/m/item/countries-with-risk-of-yellow-fever-transmission-and-countries-requiring-yellow-fever-vaccination-(november-2022))
+* [Countries with a risk of yellow fever (PDF 252KB)](https://cdn.who.int/media/docs/default-source/travel-and-health/countries-with-risk-of-yellow-fever-transmission.pdf?sfvrsn=bf42ac59_4&download=true)
 
 #### Passport
 
@@ -59,14 +59,12 @@ Although Australian passports comply with international standards for sex and ge
 
 #### Money
 
-The currency is the Algerian Dinar (DZD).
+The currency is the Algerian Dinar (DZD). It's illegal to import or export DZD.
 
 To avoid risks, only change money at:
 
 * an exchange bureau at international airports or large hotels
 * commercial banks in major cities
-
-It's illegal to import or export DZD.
 
 Hotels and some businesses in larger cities accept credit cards.
 

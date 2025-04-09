@@ -16,7 +16,7 @@ Drug use, possession, and trafficking are illegal in Algeria, with severe penalt
 
 #### Alcohol
 
-Alcohol consumption is legal in Algeria but only allowed in licensed hotels, restaurants, and bars. Public consumption of alcohol consumption is frowned upon and is prohibited during Ramadan.
+Alcohol consumption is legal in Algeria but only allowed in licensed hotels, restaurants, and bars. It's illegal to be under the influence of alcohol in a public place.
 
 #### Other laws
 

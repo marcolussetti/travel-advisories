@@ -2,7 +2,7 @@
 
 Latest update
 
-We continue to advise exercise a high degree of caution due to the threat of terrorism and kidnapping. Higher levels apply in some areas.
+We've reviewed our advice and continue to advise exercise a high degree of caution in Algeria due to the threat of terrorism and kidnapping. Higher levels apply in some areas. You must get a visa in advance of arrival to enter Algeria. Only tourists arriving and departing by cruise ship can get visas on arrival.
 
 Advice Level summary
 
@@ -40,7 +40,6 @@ See [Safety](#safety)
 * The risk of terrorist attacks is high. Avoid travelling to remote areas. Monitor the news and other sources for information about threats.
 * The risk of kidnapping is high in some parts of Algeria. If you travel to these areas, seek professional security advice and have effective personal security measures in place.
 * Be aware of bandits in deserted beach areas, even during daylight hours. Keep car doors locked and windows up, even while moving.
-* Be alert to the potential risks around drink spiking and methanol poisoning through consuming alcoholic drinks. See our advice on [partying safely while overseas](https://www.smartraveller.gov.au/before-you-go/safety/partying#methanol).
 
 Full travel advice: [Safety](#safety)
 
@@ -65,7 +64,7 @@ Full travel advice: [Local laws](#local-laws)
 ### Travel
 
 * You'll need a visa to enter Algeria. You must get a visa in advance of arrival. Only tourists arriving and departing by cruise ship can get visas on arrival.
-* Entry and exit conditions can change at short notice. Contact the nearest [embassy or consulate](http://www.algeriaemb.org.au/) of Algeria for the latest details.
+* Entry and exit conditions can change at short notice. Contact the nearest [embassy or consulate](https://embcanberra.mfa.gov.dz/) of Algeria for the latest details.
 * International flights and domestic flights are operational. The land border between Algeria and Morocco is closed. Contact your travel agent or airline directly for more information.
 
 Full travel advice: [Travel](#travel)
@@ -73,8 +72,8 @@ Full travel advice: [Travel](#travel)
 ### Local contacts
 
 * The [Consular Services Charter](/node/46) tells you what the Australian Government can and can't do to help when you're overseas.
-* Australia doesn't have an embassy or consulate in Algeria. For consular help, contact the [Canadian Embassy](http://www.canadainternational.gc.ca/algeria-algerie/index.aspx) in Algiers.
-* You can also get help from the [Australian Embassy in France](https://france.embassy.gov.au ).
+* Australia doesn't have an embassy or consulate in Algeria. For consular help, contact the [Canadian Embassy](https://www.international.gc.ca/country-pays/algeria-algerie/algiers-alger.aspx?lang=eng) in Algiers.
+* You can also get help from the [Australian Embassy in France](https://france.embassy.gov.au/pari/contact-us.html).
 * To stay up to date with local information, follow the Embassy’s social media accounts
 
 Full travel advice: [Local contacts](#local-contacts)
