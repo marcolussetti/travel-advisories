@@ -1,7 +1,7 @@
 {
     "name": "Malta",
-    "update_reason": "Editorial change",
-    "update_date": "2025-03-12T09:40:00",
+    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
+    "update_date": "2025-04-08T10:55:00",
     "sections": {
         "risk": "canada/Malta/risk.md",
         "security": "canada/Malta/security.md",

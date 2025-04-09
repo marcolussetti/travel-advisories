@@ -1,7 +1,7 @@
 {
     "name": "Mayotte",
-    "update_reason": "Risk level \u2013 exercise a high degree of caution in Mayotte; Safety and security \u2013 removed information on the curfew; Natural disasters and climate \u2013 removed information on tropical cyclones Dikeledi and Chido",
-    "update_date": "2025-03-06T14:56:00",
+    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
+    "update_date": "2025-04-08T10:55:00",
     "sections": {
         "risk": "canada/Mayotte/risk.md",
         "security": "canada/Mayotte/security.md",

@@ -38,7 +38,9 @@ Travellers get vaccinated either because it is required to enter a country or be
 
 **Country Entry Requirement\***
 
-* Proof of vaccination is required if you are coming from or have transited through an airport of a country [where yellow fever occurs.](https://www.who.int/publications/m/item/countries-with-risk-of-yellow-fever-transmission-and-countries-requiring-yellow-fever-vaccination-(november-2022))
+* Proof of vaccination is required if you are coming from or have transited through an airport of a country [where yellow fever occurs](https://www.who.int/publications/m/item/countries-with-risk-of-yellow-fever-transmission-and-countries-requiring-yellow-fever-vaccination-(november-2022)) in the past six days prior to arrival in Singapore. See the Ministry of Health website for details.
+
+[Singapore Ministry of Health - Yellow fever vaccination](https://www.ica.gov.sg/enter-transit-depart/entering-singapore/yellow-fever-vaccination-certificate)
 
 **Recommendation**
 
@@ -103,11 +105,7 @@ Malaria
    
 [Protect yourself from mosquito bites](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html) at all times:   
 • Cover your skin and use an [approved](https://www.canada.ca/en/health-canada/services/about-pesticides/insect-repellents.html) insect repellent on uncovered skin.   
-• Exclude mosquitoes from your living area with screening and/or closed, well-sealed doors and windows.  
-• Use insecticide-treated bed nets if mosquitoes cannot be excluded from your living area.   
-• Wear permethrin-treated clothing.   
-   
-If you develop [symptoms](https://www.canada.ca/en/public-health/services/diseases/malaria/symptoms-malaria.html) similar to malaria when you are travelling or up to a year after you return home, see a health care professional immediately. Tell them where you have been travelling or living.
+• Exclude mosquitoes from your living area with screening and/or closed, well-sealed doors and windows.
 
 Hajj and Umrah vaccination entry requirements
 

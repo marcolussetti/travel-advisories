@@ -1,7 +1,7 @@
 {
     "name": "Australia",
-    "update_reason": "The Need help? section was updated.",
-    "update_date": "2025-04-07T07:48:00",
+    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
+    "update_date": "2025-04-08T10:55:00",
     "sections": {
         "risk": "canada/Australia/risk.md",
         "security": "canada/Australia/security.md",

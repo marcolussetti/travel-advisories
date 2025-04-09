@@ -37,7 +37,9 @@ Travellers get vaccinated either because it is required to enter a country or be
 
 **Country Entry Requirement\***
 
-* Proof of vaccination is required if you are coming from or have transited through an airport of a country [where yellow fever occurs.](https://www.who.int/publications/m/item/countries-with-risk-of-yellow-fever-transmission-and-countries-requiring-yellow-fever-vaccination-(november-2022))
+* Proof of vaccination is required if you are coming from or have transited through an airport of a country [where yellow fever occurs](https://www.who.int/publications/m/item/countries-with-risk-of-yellow-fever-transmission-and-countries-requiring-yellow-fever-vaccination-(november-2022)) in the past six days prior to arrival in Singapore. See the Ministry of Health website for details.
+
+[Singapore Ministry of Health - Yellow fever vaccination](https://www.ica.gov.sg/enter-transit-depart/entering-singapore/yellow-fever-vaccination-certificate)
 
 **Recommendation**
 
@@ -63,14 +65,6 @@ Tick-borne encephalitis
 Travellers to areas where TBE is found may be at higher risk  during April to November, and the risk is highest for people who hike or camp in forested areas.
 
 [Protect yourself from tick bites](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html). The vaccine is not available in Canada. It may be available in the destination you are travelling to.
-
-Rabies 
-
-In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/diseases/rabies) is commonly carried by dogs and some wildlife, including bats. Rabies is a deadly disease that spreads to humans primarily through bites or scratches from an infected animal. While travelling, take [precautions](https://www.canada.ca/en/public-health/services/diseases/rabies/prevention.html), including keeping your distance from animals (including free-roaming dogs), and closely supervising children.
-
-If you are bitten or scratched by a dog or other animal while travelling, immediately wash the wound with soap and clean water and see a health care professional. **In this destination, rabies treatment may be limited or may not be available, therefore you may need to return to Canada for treatment.**
-
-Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who are at high risk of exposure (e.g., occupational risk such as veterinarians and wildlife workers, children, adventure travellers and spelunkers, and others in close contact with animals).
 
 Hepatitis B
 
@@ -107,6 +101,14 @@ Measles
 Anyone who is not protected against measles is at risk of being infected with it when travelling internationally.
 
 Regardless of where you are going, talk to a health care professional before travelling to make sure you are fully protected against measles.
+
+Rabies 
+
+In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/diseases/rabies) is commonly carried by dogs and some wildlife, including bats. Rabies is a deadly disease that spreads to humans primarily through bites or scratches from an infected animal. While travelling, take [precautions](https://www.canada.ca/en/public-health/services/diseases/rabies/prevention.html), including keeping your distance from animals (including free-roaming dogs), and closely supervising children.
+
+If you are bitten or scratched by a dog or other animal while travelling, immediately wash the wound with soap and clean water and see a health care professional. **In this destination, rabies treatment may be limited or may not be available, therefore you may need to return to Canada for treatment.**
+
+Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who are at high risk of exposure (e.g., occupational risk such as veterinarians and wildlife workers, children, adventure travellers and spelunkers, and others in close contact with animals).
 
 ### Safe food and water precautions
 

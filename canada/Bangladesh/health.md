@@ -6,7 +6,7 @@
 
 * [Global Measles Notice](https://travel.gc.ca/travelling/health-safety/travel-health-notices/504) - 13 March, 2024
 * [COVID-19 and International Travel](https://travel.gc.ca/travelling/health-safety/travel-health-notices/513) - 13 March, 2024
-* [Dengue: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/517) - 18 March, 2025
+* [Dengue: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/517) - 8 April, 2025
 
 This section has information and advice about health risks you might face when travelling. Following this advice can help reduce your risk of getting sick. Not all risks are listed here.
 
@@ -38,7 +38,9 @@ Travellers get vaccinated either because it is required to enter a country or be
 
 **Country Entry Requirement\***
 
-* Proof of vaccination is required if you are coming from or have transited through an airport of a country [where yellow fever occurs.](https://www.who.int/publications/m/item/countries-with-risk-of-yellow-fever-transmission-and-countries-requiring-yellow-fever-vaccination-(november-2022))
+* Proof of vaccination is required if you are coming from or have transited through an airport of a country [where yellow fever occurs](https://www.who.int/publications/m/item/countries-with-risk-of-yellow-fever-transmission-and-countries-requiring-yellow-fever-vaccination-(november-2022)) in the past six days prior to arrival in Singapore. See the Ministry of Health website for details.
+
+[Singapore Ministry of Health - Yellow fever vaccination](https://www.ica.gov.sg/enter-transit-depart/entering-singapore/yellow-fever-vaccination-certificate)
 
 **Recommendation**
 
@@ -62,30 +64,6 @@ Hepatitis B
 [Hepatitis B](https://www.canada.ca/en/public-health/services/diseases/hepatitis-b.html) is a risk in every destination. It is a viral liver disease that is easily transmitted from one person to another through exposure to blood and body fluids containing the hepatitis B virus.  Travellers who may be exposed to blood or other bodily fluids (e.g., through sexual contact, medical treatment, sharing needles, tattooing, acupuncture or occupational exposure) are at higher risk of getting hepatitis B.
 
 Hepatitis B vaccination is recommended for all travellers. [Prevent hepatitis B](https://www.canada.ca/en/public-health/services/diseases/hepatitis-b/prevention-risks.html#a2) infection by practicing safe sex, only using new and sterile drug equipment, and only getting tattoos and piercings in settings that follow public health regulations and standards.
-
-Malaria 
-
-[Malaria](https://www.canada.ca/en/public-health/services/diseases/malaria.html) is a serious and sometimes fatal disease that is caused by parasites spread through the bites of mosquitoes.  
-   
-**There is a risk of malaria in certain areas and/or during a certain time of year in this destination.**
-
-[Antimalarial medication may be recommended](https://www.canada.ca/en/public-health/services/catmat/appendix-1-malaria-risk-recommended-chemoprophylaxis-geographic-area.html) depending on your itinerary and the time of year you are travelling. Consult a health care professional or visit a travel health clinic before travelling to discuss your options. It is recommended to do this 6 weeks before travel, however, it is still a good idea any time before leaving.   
-   
-[Protect yourself from mosquito bites](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html) at all times:   
-• Cover your skin and use an [approved](https://www.canada.ca/en/health-canada/services/about-pesticides/insect-repellents.html) insect repellent on uncovered skin.   
-• Exclude mosquitoes from your living area with screening and/or closed, well-sealed doors and windows.  
-• Use insecticide-treated bed nets if mosquitoes cannot be excluded from your living area.   
-• Wear permethrin-treated clothing.   
-   
-If you develop [symptoms](https://www.canada.ca/en/public-health/services/diseases/malaria/symptoms-malaria.html) similar to malaria when you are travelling or up to a year after you return home, see a health care professional immediately. Tell them where you have been travelling or living.
-
-Rabies 
-
-In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/diseases/rabies) is commonly carried by dogs and some wildlife, including bats. Rabies is a deadly disease that spreads to humans primarily through bites or scratches from an infected animal. While travelling, take [precautions](https://www.canada.ca/en/public-health/services/diseases/rabies/prevention.html), including keeping your distance from animals (including free-roaming dogs), and closely supervising children.
-
-If you are bitten or scratched by a dog or other animal while travelling, immediately wash the wound with soap and clean water and see a health care professional. **In this destination, rabies treatment may be limited or may not be available, therefore you may need to return to Canada for treatment.**
-
-Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who are at high risk of exposure (e.g., occupational risk such as veterinarians and wildlife workers, children, adventure travellers and spelunkers, and others in close contact with animals).
 
 Measles 
 
@@ -131,6 +109,25 @@ The flu virus spreads from person to person when they cough or sneeze or by touc
 Typhoid 
 
 [Typhoid](http://travel.gc.ca/travelling/health-safety/diseases/typhoid) is a bacterial infection spread by contaminated food or water. Travellers going to countries in South Asia should speak to a health care professional about getting vaccinated.
+
+Malaria 
+
+[Malaria](https://www.canada.ca/en/public-health/services/diseases/malaria.html) is a serious and sometimes fatal disease that is caused by parasites spread through the bites of mosquitoes.  
+   
+**There is a risk of malaria in certain areas and/or during a certain time of year in this destination.**
+
+[Antimalarial medication may be recommended](https://www.canada.ca/en/public-health/services/catmat/appendix-1-malaria-risk-recommended-chemoprophylaxis-geographic-area.html) depending on your itinerary and the time of year you are travelling. Consult a health care professional or visit a travel health clinic before travelling to discuss your options. It is recommended to do this 6 weeks before travel, however, it is still a good idea any time before leaving.   
+   
+[Protect yourself from mosquito bites](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html) at all times:   
+• Cover your skin and use an [approved](https://www.canada.ca/en/health-canada/services/about-pesticides/insect-repellents.html) insect repellent on uncovered skin. 
+
+Rabies 
+
+In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/diseases/rabies) is commonly carried by dogs and some wildlife, including bats. Rabies is a deadly disease that spreads to humans primarily through bites or scratches from an infected animal. While travelling, take [precautions](https://www.canada.ca/en/public-health/services/diseases/rabies/prevention.html), including keeping your distance from animals (including free-roaming dogs), and closely supervising children.
+
+If you are bitten or scratched by a dog or other animal while travelling, immediately wash the wound with soap and clean water and see a health care professional. **In this destination, rabies treatment may be limited or may not be available, therefore you may need to return to Canada for treatment.**
+
+Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who are at high risk of exposure (e.g., occupational risk such as veterinarians and wildlife workers, children, adventure travellers and spelunkers, and others in close contact with animals).
 
 ### Safe food and water precautions
 

@@ -37,7 +37,9 @@ Travellers get vaccinated either because it is required to enter a country or be
 
 **Country Entry Requirement\***
 
-* Proof of vaccination is required if you are coming from or have transited through an airport of a country [where yellow fever occurs.](https://www.who.int/publications/m/item/countries-with-risk-of-yellow-fever-transmission-and-countries-requiring-yellow-fever-vaccination-(november-2022))
+* Proof of vaccination is required if you are coming from or have transited through an airport of a country [where yellow fever occurs](https://www.who.int/publications/m/item/countries-with-risk-of-yellow-fever-transmission-and-countries-requiring-yellow-fever-vaccination-(november-2022)) in the past six days prior to arrival in Singapore. See the Ministry of Health website for details.
+
+[Singapore Ministry of Health - Yellow fever vaccination](https://www.ica.gov.sg/enter-transit-depart/entering-singapore/yellow-fever-vaccination-certificate)
 
 **Recommendation**
 
@@ -56,42 +58,6 @@ There is a risk of [hepatitis A](https://www.canada.ca/en/public-health/services
 
 Practise [safe food and water precautions](https://travel.gc.ca/travelling/health-safety/food-water) and wash your hands often. Vaccination is recommended for all travellers to areas where hepatitis A is present.
 
-Rabies 
-
-In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/diseases/rabies) is commonly carried by dogs and some wildlife, including bats. Rabies is a deadly disease that spreads to humans primarily through bites or scratches from an infected animal. While travelling, take [precautions](https://www.canada.ca/en/public-health/services/diseases/rabies/prevention.html), including keeping your distance from animals (including free-roaming dogs), and closely supervising children.
-
-If you are bitten or scratched by a dog or other animal while travelling, immediately wash the wound with soap and clean water and see a health care professional. **In this destination, rabies treatment may be limited or may not be available, therefore you may need to return to Canada for treatment.**
-
-Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who are at high risk of exposure (e.g., occupational risk such as veterinarians and wildlife workers, children, adventure travellers and spelunkers, and others in close contact with animals).
-
-Malaria 
-
-[Malaria](https://www.canada.ca/en/public-health/services/diseases/malaria.html) is a serious and sometimes fatal disease that is caused by parasites spread through the bites of mosquitoes.  
-   
-**There is a risk of malaria in certain areas and/or during a certain time of year in this destination.**
-
-[Antimalarial medication may be recommended](https://www.canada.ca/en/public-health/services/catmat/appendix-1-malaria-risk-recommended-chemoprophylaxis-geographic-area.html) depending on your itinerary and the time of year you are travelling. Consult a health care professional or visit a travel health clinic before travelling to discuss your options. It is recommended to do this 6 weeks before travel, however, it is still a good idea any time before leaving.   
-   
-[Protect yourself from mosquito bites](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html) at all times:   
-• Cover your skin and use an [approved](https://www.canada.ca/en/health-canada/services/about-pesticides/insect-repellents.html) insect repellent on uncovered skin.   
-• Exclude mosquitoes from your living area with screening and/or closed, well-sealed doors and windows.  
-• Use insecticide-treated bed nets if mosquitoes cannot be excluded from your living area.   
-• Wear permethrin-treated clothing.   
-   
-If you develop [symptoms](https://www.canada.ca/en/public-health/services/diseases/malaria/symptoms-malaria.html) similar to malaria when you are travelling or up to a year after you return home, see a health care professional immediately. Tell them where you have been travelling or living.
-
-Polio 
-
-The World Health Organization (WHO), at the time of their last report, identified this country as no longer poliovirus-infected, but as having been previously infected within the last 24 months.
-
-[Polio](https://travel.gc.ca/travelling/health-safety/diseases/polio) is spread from person to person and through contaminated food and water. Infection with polio virus can cause paralysis and death in individuals of any age who are not immune.
-
-Polio can be preventeed by vaccination.
-
-**Recommendations:**
-
-* Be sure that your polio vaccinations are up to date before travelling. Polio is part of the [routine vaccine schedule](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-1-key-immunization-information/page-13-recommended-immunization-schedules.html#p1c12a2) for children in Canada.
-* One booster dose of the polio vaccine is recommended as an [adult](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-3-vaccination-specific-populations/page-9-immunization-travellers.html#a3).
 Measles 
 
 [Measles](https://www.canada.ca/en/public-health/services/diseases/measles.html) is a highly contagious viral disease. It can spread quickly from person to person by direct contact and through droplets in the air.
@@ -127,6 +93,38 @@ COVID-19
 It is recommended that all eligible travellers complete a COVID-19 vaccine series along with any additional recommended doses in Canada before travelling. Evidence shows that vaccines are very effective at preventing severe illness, hospitalization and death from COVID-19. While vaccination provides better protection against serious illness, you may still be at risk of infection from the virus that causes COVID-19. Anyone who has not completed a vaccine series is at increased risk of being infected with the virus that causes COVID-19 and is at greater risk for severe disease when travelling internationally.
 
 Before travelling, verify your destination’s COVID-19 vaccination entry/exit requirements. Regardless of where you are going, talk to a health care professional before travelling to make sure you are adequately protected against COVID-19.
+
+Rabies 
+
+In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/diseases/rabies) is commonly carried by dogs and some wildlife, including bats. Rabies is a deadly disease that spreads to humans primarily through bites or scratches from an infected animal. While travelling, take [precautions](https://www.canada.ca/en/public-health/services/diseases/rabies/prevention.html), including keeping your distance from animals (including free-roaming dogs), and closely supervising children.
+
+If you are bitten or scratched by a dog or other animal while travelling, immediately wash the wound with soap and clean water and see a health care professional. **In this destination, rabies treatment may be limited or may not be available, therefore you may need to return to Canada for treatment.**
+
+Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who are at high risk of exposure (e.g., occupational risk such as veterinarians and wildlife workers, children, adventure travellers and spelunkers, and others in close contact with animals).
+
+Malaria 
+
+[Malaria](https://www.canada.ca/en/public-health/services/diseases/malaria.html) is a serious and sometimes fatal disease that is caused by parasites spread through the bites of mosquitoes.  
+   
+**There is a risk of malaria in certain areas and/or during a certain time of year in this destination.**
+
+[Antimalarial medication may be recommended](https://www.canada.ca/en/public-health/services/catmat/appendix-1-malaria-risk-recommended-chemoprophylaxis-geographic-area.html) depending on your itinerary and the time of year you are travelling. Consult a health care professional or visit a travel health clinic before travelling to discuss your options. It is recommended to do this 6 weeks before travel, however, it is still a good idea any time before leaving.   
+   
+[Protect yourself from mosquito bites](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html) at all times:   
+• Cover your skin and use an [approved](https://www.canada.ca/en/health-canada/services/about-pesticides/insect-repellents.html) insect repellent on uncovered skin. 
+
+Polio 
+
+The World Health Organization (WHO), at the time of their last report, identified this country as no longer poliovirus-infected, but as having been previously infected within the last 24 months.
+
+[Polio](https://travel.gc.ca/travelling/health-safety/diseases/polio) is spread from person to person and through contaminated food and water. Infection with polio virus can cause paralysis and death in individuals of any age who are not immune.
+
+Polio can be preventeed by vaccination.
+
+**Recommendations:**
+
+* Be sure that your polio vaccinations are up to date before travelling. Polio is part of the [routine vaccine schedule](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-1-key-immunization-information/page-13-recommended-immunization-schedules.html#p1c12a2) for children in Canada.
+* One booster dose of the polio vaccine is recommended as an [adult](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-3-vaccination-specific-populations/page-9-immunization-travellers.html#a3).
 
 ### Safe food and water precautions
 

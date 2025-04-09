@@ -37,7 +37,9 @@ Travellers get vaccinated either because it is required to enter a country or be
 
 **Country Entry Requirement\***
 
-* Proof of vaccination is required if you are coming from or have transited through an airport of a country [where yellow fever occurs.](https://www.who.int/publications/m/item/countries-with-risk-of-yellow-fever-transmission-and-countries-requiring-yellow-fever-vaccination-(november-2022))
+* Proof of vaccination is required if you are coming from or have transited through an airport of a country [where yellow fever occurs](https://www.who.int/publications/m/item/countries-with-risk-of-yellow-fever-transmission-and-countries-requiring-yellow-fever-vaccination-(november-2022)) in the past six days prior to arrival in Singapore. See the Ministry of Health website for details.
+
+[Singapore Ministry of Health - Yellow fever vaccination](https://www.ica.gov.sg/enter-transit-depart/entering-singapore/yellow-fever-vaccination-certificate)
 
 **Recommendation**
 
@@ -172,7 +174,8 @@ Dengue
 * Protect yourself from mosquito bites. There is no vaccine or medication available in Canada to prevent dengue.
 
 **Learn more:**  
-[Dengue](https://www.canada.ca/en/public-health/services/infectious-diseases/viral-haemorrhagic-fevers/dengue-fever.html)
+[Dengue](https://www.canada.ca/en/public-health/services/infectious-diseases/viral-haemorrhagic-fevers/dengue-fever.html)  
+[Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)
 
 ### Animal precautions
 

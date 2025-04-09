@@ -37,7 +37,9 @@ Travellers get vaccinated either because it is required to enter a country or be
 
 **Country Entry Requirement\***
 
-* Proof of vaccination is required if you are coming from or have transited through an airport of a country [where yellow fever occurs.](https://www.who.int/publications/m/item/countries-with-risk-of-yellow-fever-transmission-and-countries-requiring-yellow-fever-vaccination-(november-2022))
+* Proof of vaccination is required if you are coming from or have transited through an airport of a country [where yellow fever occurs](https://www.who.int/publications/m/item/countries-with-risk-of-yellow-fever-transmission-and-countries-requiring-yellow-fever-vaccination-(november-2022)) in the past six days prior to arrival in Singapore. See the Ministry of Health website for details.
+
+[Singapore Ministry of Health - Yellow fever vaccination](https://www.ica.gov.sg/enter-transit-depart/entering-singapore/yellow-fever-vaccination-certificate)
 
 **Recommendation**
 
@@ -55,14 +57,6 @@ Hepatitis A
 There is a risk of [hepatitis A](https://www.canada.ca/en/public-health/services/diseases/hepatitis-a.html) in this destination. It is a disease of the liver. People can get hepatitis A if they ingest contaminated food or water, eat foods prepared by an infectious person, or if they have close physical contact (such as oral-anal sex) with an infectious person, although casual contact among people does not spread the virus.
 
 Practise [safe food and water precautions](https://travel.gc.ca/travelling/health-safety/food-water) and wash your hands often. Vaccination is recommended for all travellers to areas where hepatitis A is present.
-
-Rabies 
-
-In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/diseases/rabies) may be present in some wildlife species, including bats. Rabies is a deadly disease that spreads to humans primarily through bites or scratches from an infected animal.
-
-If you are bitten or scratched by an animal while travelling, immediately wash the wound with soap and clean water and see a health care professional.
-
-Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who will be working directly with wildlife.
 
 Measles 
 
@@ -103,6 +97,14 @@ The flu virus spreads from person to person when they cough or sneeze or by touc
 Typhoid 
 
 [Typhoid](http://travel.gc.ca/travelling/health-safety/diseases/typhoid) is a bacterial infection spread by contaminated food or water. Travellers going to countries in South Asia should speak to a health care professional about getting vaccinated.
+
+Rabies 
+
+In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/diseases/rabies) may be present in some wildlife species, including bats. Rabies is a deadly disease that spreads to humans primarily through bites or scratches from an infected animal.
+
+If you are bitten or scratched by an animal while travelling, immediately wash the wound with soap and clean water and see a health care professional.
+
+Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who will be working directly with wildlife.
 
 ### Safe food and water precautions
 
@@ -173,7 +175,8 @@ Dengue
 * Protect yourself from mosquito bites. There is no vaccine or medication available in Canada to prevent dengue.
 
 **Learn more:**  
-[Dengue](https://www.canada.ca/en/public-health/services/infectious-diseases/viral-haemorrhagic-fevers/dengue-fever.html)
+[Dengue](https://www.canada.ca/en/public-health/services/infectious-diseases/viral-haemorrhagic-fevers/dengue-fever.html)  
+[Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)
 
 Zika virus 
 

@@ -6,7 +6,7 @@
 
 * [Global Measles Notice](https://travel.gc.ca/travelling/health-safety/travel-health-notices/504) - 13 March, 2024
 * [COVID-19 and International Travel](https://travel.gc.ca/travelling/health-safety/travel-health-notices/513) - 13 March, 2024
-* [Dengue: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/517) - 18 March, 2025
+* [Dengue: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/517) - 8 April, 2025
 
 This section has information and advice about health risks you might face when travelling. Following this advice can help reduce your risk of getting sick. Not all risks are listed here.
 
@@ -38,7 +38,9 @@ Travellers get vaccinated either because it is required to enter a country or be
 
 **Country Entry Requirement\***
 
-* Proof of vaccination is required if you are coming from or have transited through an airport of a country [where yellow fever occurs.](https://www.who.int/publications/m/item/countries-with-risk-of-yellow-fever-transmission-and-countries-requiring-yellow-fever-vaccination-(november-2022))
+* Proof of vaccination is required if you are coming from or have transited through an airport of a country [where yellow fever occurs](https://www.who.int/publications/m/item/countries-with-risk-of-yellow-fever-transmission-and-countries-requiring-yellow-fever-vaccination-(november-2022)) in the past six days prior to arrival in Singapore. See the Ministry of Health website for details.
+
+[Singapore Ministry of Health - Yellow fever vaccination](https://www.ica.gov.sg/enter-transit-depart/entering-singapore/yellow-fever-vaccination-certificate)
 
 **Recommendation**
 
@@ -162,7 +164,8 @@ Dengue
 * Protect yourself from mosquito bites. There is no vaccine or medication available in Canada to prevent dengue.
 
 **Learn more:**  
-[Dengue](https://www.canada.ca/en/public-health/services/infectious-diseases/viral-haemorrhagic-fevers/dengue-fever.html)
+[Dengue](https://www.canada.ca/en/public-health/services/infectious-diseases/viral-haemorrhagic-fevers/dengue-fever.html)  
+[Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)
 
 Zika virus 
 

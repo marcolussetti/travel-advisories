@@ -1,7 +1,7 @@
 {
     "name": "Papua New Guinea",
-    "update_reason": "Natural disasters and climate - removal of information on the tsunami threat for the New Britain Region",
-    "update_date": "2025-04-05T17:06:00",
+    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
+    "update_date": "2025-04-08T10:55:00",
     "sections": {
         "risk": "canada/Papua New Guinea/risk.md",
         "security": "canada/Papua New Guinea/security.md",

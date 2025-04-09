@@ -2,6 +2,21 @@
 
 ## Natural disasters and climate
 
+### Earthquakes in Myanmar
+
+On March 28, 2025, a magnitude 7.7 earthquake, followed by a 6.4 aftershock, struck central Myanmar, which has also affected Thailand, causing extensive infrastructure damage and resulting in casualties.
+
+Thai authorities declared Bangkok a "disaster area" while emergency services conduct assessments and assist affected people.
+
+Additional tremors could occur.
+
+If you are in an affected area:
+
+* monitor local media to stay informed of the latest developments
+* follow instructions from local authorities, including evacuation orders
+
+[Emergency assistance for foreign nationals](https://www.mfa.go.th/en/content/eqeng?cate=5d5bcb4e15e39c306000683e) – Ministry of Foreign Affairs of the Kingdom of Thailand
+
 ### Climate change
 
 Climate change is affecting Thailand. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local media for the latest information.
