@@ -28,9 +28,7 @@ Always carry your prescription medication in original packaging with your doctor
 * [World Health Organization](https://www.who.int/countries/)
 * [U.S. Centers for Disease Control and Prevention](http://wwwnc.cdc.gov/travel/)
 
-**Air Quality:** Visit [AirNow Department of State](https://www.airnow.gov/index.cfm?action=airnow.global_summary) for information on air quality at U.S. Embassies and Consulates.
-
-Air pollution is a significant problem in several major cities in DRC. Consider the impact seasonal smog and heavy particulate pollution may have on you, and consult your doctor before traveling if necessary.
+**Air Quality:** Air pollution is a significant problem in several major cities in DRC. Consider the impact seasonal smog and heavy particulate pollution may have on you, and consult your doctor before traveling if necessary.
 
 The air quality varies considerably and fluctuates with the seasons. It is typically at its worst in the dry season from May to October. People at the greatest risk from particle pollution exposure include:
 
@@ -39,6 +37,8 @@ The air quality varies considerably and fluctuates with the seasons. It is typic
 * People with lung disease such as asthma and chronic obstructive pulmonary disease (COPD), which includes chronic bronchitis and emphysema
 * People with heart disease or diabetes
 * People who work or are active outdoors
+
+Air pollution can be a significant problem in many destinations overseas. Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in [destination]. For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/). For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/). For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
 
 **Health facilities in general:**
 

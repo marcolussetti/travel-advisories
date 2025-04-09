@@ -44,7 +44,7 @@ Diplomatic and official passport holders must have visas **before** arrival 
 * Please contact the [Special Issuance Agency](https://travel.state.gov/content/special-issuance-agency-home/en/spec-issuance-agency/official-diplomatic-visa-information/egypt.html) in Washington, DC for more information related to obtaining visas in your diplomatic or official U.S. passport.
 * Military personnel arriving on commercial flights must still meet passport and visa requirements.
 * Diplomatic or official passport holders must use their personal passports for unofficial travel to Egypt and follow all regulations.
-* The [Egyptian Embassy](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Egypt.html#ExternalPopup) in Washington currently requires at least 3 weeks, and sometimes longer, to process official and diplomatic visa requests, even with a Department of State expedite letter.
+* The [Egyptian Embassy](https://egyptembassy.net/the-embassy/) in Washington currently requires at least 3 weeks, and sometimes longer, to process official and diplomatic visa requests, even with a Department of State expedite letter.
 * All official travelers must submit their visa requests and passports to the Egyptian Embassy well before their trip.
 
 **Work permits**
@@ -54,7 +54,7 @@ U.S. citizens who wish to work in Egypt must obtain work permits and business vi
 * You must get work permits through your employer. These allow you to live in the country.
 * U.S. citizens in Egypt on tourist visas are not allowed to work.
 
-For additional information on entering Egypt, please contact the nearest [Egyptian Embassy](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Egypt.html#ExternalPopup) or Consulate.
+For additional information on entering Egypt, please contact the nearest [Egyptian Embassy](https://egyptembassy.net/the-embassy/) or Consulate.
 
 **Medical requirements**
 

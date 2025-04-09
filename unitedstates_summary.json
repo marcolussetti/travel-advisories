@@ -438,7 +438,7 @@
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/cuba-travel-advisory.html",
         "risk_level_number": 2,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Cuba.html",
-        "last_updated_country_details": "2022-12-30T00:00:00"
+        "last_updated_country_details": "2025-04-07T00:00:00"
     },
     {
         "destination": "Curacao",
@@ -459,13 +459,13 @@
         "last_updated_country_details": "2025-01-21T00:00:00"
     },
     {
-        "destination": "Czech Republic",
+        "destination": "Czechia",
         "risk_level": "Level 1: Exercise Normal Precautions",
         "last_updated_advisory": "2023-07-26T00:00:00",
-        "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/czech-republic-travel-advisory.html",
+        "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/czechia-travel-advisory.html",
         "risk_level_number": 1,
-        "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/CzechRepublic.html",
-        "last_updated_country_details": "2023-07-26T00:00:00"
+        "country_info_url": null,
+        "last_updated_country_details": null
     },
     {
         "destination": "Democratic Republic of the Congo",
@@ -532,10 +532,10 @@
     },
     {
         "destination": "El Salvador",
-        "risk_level": "Level 2: Exercise Increased Caution",
-        "last_updated_advisory": "2025-02-07T00:00:00",
+        "risk_level": "Level 1: Exercise Normal Precautions",
+        "last_updated_advisory": "2025-04-08T00:00:00",
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/el-salvador-travel-advisory.html",
-        "risk_level_number": 2,
+        "risk_level_number": 1,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/ElSalvador.html",
         "last_updated_country_details": "2025-02-07T00:00:00"
     },
@@ -677,7 +677,7 @@
     {
         "destination": "Ghana",
         "risk_level": "Level 2: Exercise Increased Caution",
-        "last_updated_advisory": "2023-11-20T00:00:00",
+        "last_updated_advisory": "2025-04-08T00:00:00",
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/ghana-travel-advisory.html",
         "risk_level_number": 2,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Ghana.html",
@@ -825,7 +825,7 @@
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/iraq-travel-advisory.html",
         "risk_level_number": 4,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Iraq.html",
-        "last_updated_country_details": "2025-01-21T00:00:00"
+        "last_updated_country_details": "2025-04-07T00:00:00"
     },
     {
         "destination": "Ireland",
@@ -920,7 +920,7 @@
     {
         "destination": "Kuwait",
         "risk_level": "Level 1: Exercise Normal Precautions",
-        "last_updated_advisory": "2023-07-13T00:00:00",
+        "last_updated_advisory": "2025-04-08T00:00:00",
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/kuwait-travel-advisory.html",
         "risk_level_number": 1,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Kuwait.html",
@@ -1482,7 +1482,7 @@
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/serbia-travel-advisory.html",
         "risk_level_number": 2,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Serbia.html",
-        "last_updated_country_details": "2025-01-21T00:00:00"
+        "last_updated_country_details": "2025-04-08T00:00:00"
     },
     {
         "destination": "Seychelles",
@@ -2023,6 +2023,15 @@
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Curacao.html",
         "last_updated_advisory": null,
         "last_updated_country_details": "2023-09-07T00:00:00"
+    },
+    {
+        "destination": "Czech Republic",
+        "risk_level": null,
+        "advisory_details_url": null,
+        "risk_level_number": null,
+        "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Czechia.html",
+        "last_updated_advisory": null,
+        "last_updated_country_details": "2023-07-26T00:00:00"
     },
     {
         "destination": "France",

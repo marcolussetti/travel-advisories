@@ -4,7 +4,9 @@
 
 Medical facilities and services, including emergency care, are severely limited outside of Luanda and do not meet U.S. standards. In the capital, some private clinics offer modern medical equipment, internationally trained staff, and 24-hour emergency services including ambulances, but quality and consistency of medical care varies greatly. These clinics typically require pre-payment before admission and do not accept international credit cards or private medical insurance. **We do not pay medical bills.** Be aware that U.S. Medicare does not apply overseas and U.S. embassies and consulates do not cover medical bills.
 
-**Medical Insurance:**Make sure your health insurance plan provides coverage overseas. Most medical providers in Angola only accept cash payments and require pre-payment for service. See our webpage for more [information on overseas insurance coverage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html).
+**Medical Insurance**
+
+Make sure your health insurance plan provides coverage overseas. Most medical providers in Angola only accept cash payments and require pre-payment for service. See our webpage for more [information on overseas insurance coverage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html).
 
 We strongly recommend [supplemental insurance](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/insurance-providers-overseas.html) to cover air medical evacuation.
 
@@ -20,9 +22,20 @@ The following diseases are prevalent:
 
 Other considerations are rabies, typhoid fever, traveler’s diarrhea, Chikugunya, Zika, marine hazards, Tuberculosis, Schistosomiasis, and Hepatitis C.
 
-**Vaccinations:**Be up-to-date on all [vaccinations](https://wwwnc.cdc.gov/travel/destinations/list) recommended by the U.S. Centers for Disease Control and Prevention.
+**Vaccinations**
 
-**Further health information:**
+Be up-to-date on all [vaccinations](https://wwwnc.cdc.gov/travel/destinations/list) recommended by the U.S. Centers for Disease Control and Prevention.
+
+**Air Quality**
+
+Air pollution can be a significant problem in many destinations overseas.
+
+* Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in Angola.
+* For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/).
+* For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/).
+* For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
+
+**Further health information**
 
 * [World Health Organization](https://www.who.int/) (WHO)
 * [U.S. Centers for Disease Control and Prevention](http://wwwnc.cdc.gov/travel/) (CDC)

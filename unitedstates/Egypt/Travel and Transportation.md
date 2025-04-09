@@ -55,13 +55,13 @@ Please refer to our [Road Safety page](https://travel.state.gov/content/travel
 
 **Aviation safety oversight**
 
-The U.S. Federal Aviation Administration (FAA) has assessed the government of Egypt’s Civil Aviation Authority as compliant with International Civil Aviation Organization (ICAO) aviation safety standards for oversight of Egypt’s air carrier operations. Further information may be found on the [FAA’s safety assessment page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Egypt.html#ExternalPopup).
+The U.S. Federal Aviation Administration (FAA) has assessed the government of Egypt’s Civil Aviation Authority as compliant with International Civil Aviation Organization (ICAO) aviation safety standards for oversight of Egypt’s air carrier operations. Further information may be found on the [FAA’s safety assessment page](https://www.faa.gov/about/initiatives/iasa).
 
 **Maritime travel**
 
-* U.S. Maritime Advisories and Alerts (source: U.S Department of Transportation)
-* U.S. Coast Guard Homeport (source: U.S. Coast Guard)
-* NGA Broadcast Warnings (source: National Geospatial-Intelligence Agency)
+* [U.S. Maritime Advisories and Alerts](https://www.maritime.dot.gov/msci-advisories) (source: U.S Department of Transportation)
+* [U.S. Coast Guard Homeport](https://homeport.uscg.mil/Info/Overview.aspx) (source: U.S. Coast Guard)
+* [NGA Broadcast Warnings](https://msi.nga.mil/NavWarnings) (source: National Geospatial-Intelligence Agency)
 
 Mariners planning travel to Egypt should also check for U.S. maritime advisories and alerts on the Maritime Administration website. Information may also be posted to the websites of the U.S. Coast Guard and the National Geo-space Intelligence Agency (select “broadcast warnings”).    
    

@@ -2,34 +2,44 @@
 
 [#### Local Laws & Special Circumstances](javascript:void(0); "Local Laws & Special Circumstances")
 
-**Criminal Penalties:** U.S. citizens are subject to the laws of the foreign countries they visit. If you violate local laws, even unknowingly, you may be expelled, arrested, or imprisoned. Furthermore, certain acts of U.S. citizens overseas are prosecutable as crimes in the United States even if they are not illegal under the local law.  For examples, see our website on [crimes against minors abroad](https://travel.state.gov/content/travel/en/international-travel/emergencies/arrest-detention/crimes-against-minors.html) and the[Department of Justice](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Iraq.html#ExternalPopup) website.
+**Criminal Penalties:** You are subject to local laws. If you break local laws, even if you don't know it, you can be kicked out of the area, arrested, or detained. If you want to start a business or work in a job that needs special permits or licenses, you should get information from the local authorities before you start.
 
-**ArrestNotification:** If you are arrested or detained, ask police or prison officials to notify the U.S. Embassy immediately. See our [webpage](https://travel.state.gov/content/travel/en/international-travel/emergencies/arrest-detention.html) for further information.
+Furthermore, some crimes are also prosecutable in the United States, regardless of local law. For examples, see our website on [crimes against minors abroad](https://travel.state.gov/content/travel/en/international-travel/emergencies/arrest-detention/crimes-against-minors.html) and the [Department of Justice](https://www.justice.gov/archives/jm/criminal-resource-manual-1617-extraterritorial-criminal-jurisdiction-18-usc-112-878-970-1116) website.
 
-**Property Disputes**: Land disputes are common in Iraq and are often difficult to resolve through the legal system. The U.S. Embassy cannot take sides in a legal dispute. Those involved in a court dispute risk having claims filed against them, arrest, and being jailed.
+**ArrestNotification:** If you are arrested or detained, ask police or prison officials to notify the U.S. Embassy immediately.
 
-**Special Circumstances:**Iraq has serious deficiencies in public services. Electricity often fails. Fire and rescue services are inadequate, and hotels may not be equipped with fire safety equipment. Landline telephone service is limited; while cellular service reliability varies by region. The banking and financial infrastructure is underdeveloped. Transactions are largely cash-based. Hotels usually require payment in foreign currency. Automatic Teller Machines (ATMs) are rare.
+See our [webpage](https://travel.state.gov/content/travel/en/international-travel/emergencies/arrest-detention.html) for further information.
 
-Customs officers have broad authority to search persons or vehicles at Iraqi ports of entry. Officers may confiscate any goods deemed a threat to the peace, security, health, environment, or social order of Iraq. Antiquities, cultural and undeclared items for export may be confiscated. Visitors may be ordered to return such goods, at their expense, to the jurisdiction from which they came.
+**Property Disputes**: Land disputes are common in Iraq and are often difficult to resolve through the legal system. The U.S. Embassy cannot take sides in a legal dispute. Those involved in a court dispute risk having claims filed against them, arrest, and being jailed.
 
-**Counterfeit and Pirated Goods**: Possession of counterfeit goods may be confiscated or fined. See the U.S. Department of Justice website for more information.
+**Special Circumstances:**Iraq lacks many public services. Electricity often fails. Fire and rescue services are inadequate, and hotels may not have fire safety equipment. Landline telephone service is limited, while cellular service reliability varies by region. The banking and financial infrastructure is underdeveloped. Transactions are largely cash-based. Hotels usually require payment in foreign currency. Automatic Teller Machines (ATMs) are rare.
 
-**Dangers of Proselytizing:** While proselytizing is not considered a criminal offense under Iraqi law, it may expose you to danger. Iraq is a predominantly Muslim country, and individuals visiting for the purpose of spreading other faiths have been targeted and attacked by armed groups.
+Customs officers have broad authority to search you and your vehicle at Iraqi ports of entry. Officers may confiscate any goods deemed a threat to the peace, security, health, environment, or social order of Iraq. Antiquities, cultural goods, and undeclared items for export may be confiscated. You may be ordered to return such goods, at their expense, to the jurisdiction from which they came.
+
+**Counterfeit and Pirated Goods:** Counterfeit and pirated goods are prevalent in many countries. They may be illegal according to local laws. Counterfeit and pirated goods may pose significant risks to consumer health and safety. You may be subject to fines and/or have to give up counterfeit and pirated goods if you bring them back to the United States.
+
+See the [U.S. Customs and Border Protection website](https://www.cbp.gov/trade/fakegoodsrealdangers#:~:text=It%20is%20illegal%20to%20purchase%20counterfeit%20goods.%20Bringing,activities%2C%20such%20as%20forced%20labor%20or%20human%20trafficking.) and [U.S. Department of Justice website](https://www.justice.gov/criminal/criminal-ccips) for more information.
 
 **Faith-Based Travelers:**See the following webpages for details:
 
 * [Faith-Based Travel Information](https://travel.state.gov/content/passports/en/go/faith-based-travel.html)
-* [International Religious Freedom Report](http://www.state.gov/j/drl/irf/rpt/index.htm)– see country reports
-* [Human Rights Report](http://www.state.gov/j/drl/rls/hrrpt/)– see country reports
-* [Hajj Fact Sheet for Travelers](http://travel.state.gov/content/passports/en/go/Hajj.html)
-* [Best Practices for Volunteering Abroad](https://travel.state.gov/content/passports/en/go/volunteer.html)
+* [International Religious Freedom Report](https://www.state.gov/international-religious-freedom-reports/) – see country reports
+* [Human Rights Report](https://www.state.gov/reports-bureau-of-democracy-human-rights-and-labor/country-reports-on-human-rights-practices/) – see country reports
 
-**LGB Travelers:** Discrimination based on sexual orientation and unconventional appearance is common. In April 2024, the Iraqi Council of Representatives passed an amendment to Iraq’s existing Anti-Prostitution Law which bans same-sex relations with fines ranging from 10 to 15 million IQD, imprisonment of 10 to 15 years, and punishes any persons or organizations that “promote homosexuality”.
+**International Volunteers:**
 
-See our [LGB Travel Information](http://travel.state.gov/content/passports/english/go/lgbt.html) page and section six of our [Human Rights report](http://www.state.gov/j/drl/rls/hrrpt/) for details.
+* [Best Practices for Volunteering Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/volunteering-abroad.html)
 
-**Travelers with Disabilities:** Individuals with disabilities may find accessibility and accommodation very different from what they find in the United States. Buildings, public restrooms, classrooms, offices, public transportation, and other places may not be accessible.
+**LGB Travelers:** Discrimination based on sexual orientation and unconventional appearance is common. In April 2024, the Iraqi Council of Representatives passed an amendment to Iraq’s existing Anti-Prostitution Law which bans same-sex relations with fines ranging from 10 to 15 million IQD and jailtime for 10 to 15 years. The law punishes any persons or organizations that “promote homosexuality.”
 
-**Students:** See our [Students Abroad](http://travel.state.gov/content/studentsabroad/en.html) page and [FBI travel tips](https://ucr.fbi.gov/investigate/counterintelligence/student-brochure).
+See our [LGB Travel Information](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/lgb.html) page and [section 6 of our Human Rights report](https://www.state.gov/reports-bureau-of-democracy-human-rights-and-labor/country-reports-on-human-rights-practices/) for further details.
 
-**Women Travelers:**  Female U.S. citizens have been subject to threats, kidnappings, abuse, and extortion by their family, including loss of custody of children or forced marriage. U.S. laws do not protect U.S. citizens when they are outside of the United States. The Iraqi police and legal system may offer little protection.  See our travel tips for [Women Travelers](http://travel.state.gov/content/passports/english/go/Women.html).
+**Travelers with Disabilities:** The law in Iraq prohibits discrimination against persons with physical, sensory, intellectual, or mental disabilities, but the law is not widely enforced. Expect accessibility to be limited in public transportation, lodging, communication/information, and general infrastructure.
+
+See our [Travelers with Disabilities](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/traveling-with-disabilties.html) page.
+
+**Students:** See our [Students Abroad page](http://travel.state.gov/content/studentsabroad/en.html) and [FBI travel tips](https://ucr.fbi.gov/investigate/counterintelligence/student-brochure) for U.S. students.
+
+**Women Travelers:** Female U.S. citizens have been subject to threats, kidnappings, abuse, and extortion by family, including loss of custody of children and forced marriage. U.S. laws do not protect U.S. citizens when they are outside of the United States. The Iraqi police and legal system may offer little protection.
+
+See our travel tips for [Women Travelers](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/women-travelers.html).

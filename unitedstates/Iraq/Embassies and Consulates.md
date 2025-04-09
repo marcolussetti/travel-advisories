@@ -6,18 +6,10 @@
 **International Zone**  
 **Baghdad, Iraq**
 
-**Business Hours:** 8:00am to 5:00pm, Sunday through Thursday  
-**Telephone:  
-From Iraq and outside the United States:** +964-760-030-3000  
-**From the United States:**  +1-301-985-8841  
-**U.S. Citizen Emergency Telephone (After-Hours, Friday, Saturday & Holidays):**Call and ask to speak with the Duty Officer  
-[**Email:** BaghdadACS@state.gov](mailto:Email:%E2%80%AFBaghdadACS@state.gov)
+**Business Hours:**8:00 a.m. to 5:00 p.m., Sunday through Thursday **Telephone:** +964-760-030-3000 or +1-301-985-8841 from the United States **Emergency after-hours telephone:** +964-760-030-3000 or +1-301-985-8841, and ask for the duty officer  
+**Email:** [BaghdadACS@state.gov](mailto:BaghdadACS@state.gov)
 
 [**U.S. Consulate General Erbil**](https://iq.usembassy.gov/erbil/)**413 Ishtar, Ankawa  
 Erbil, Iraq  
-Business Hours:** 8:00am to 5:00pm, Sunday through Thursday  
-**Telephone:  
-From Iraq and outside the United States:** +964-66-211-4000  
-**From the United States:** +1-240-264-3467extension 4554  
-**U.S. Citizen Emergency Telephone (After-Hours, Friday, Saturday & Holidays):**Call and ask to speak with the Duty Officer  
+Business Hours:**8:00am to 5:00pm, Sunday through Thursday **Telephone:** +964-66-211-4000 or +1-240-264-3467, ext. 4554, from the United States **Emergency after-hours telephone:** +964-66-211-4000 or +1-240-264-3467, ext. 4554, and ask for the duty officer  
 **E-mail:** [ErbilACS@state.gov](mailto:ErbilACS@state.gov)

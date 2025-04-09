@@ -28,15 +28,30 @@ We highly recommend that all travelers review the U.S. Centers for Disease Contr
   + Travelers with Special Considerations (for example: Allergies, Long-Term Travelers and Expatriates)
   + and General Tips (for example: Traveling with Medications, Travel Vaccines)
 
-**Water Quality & Food Safety:**In many areas of Afghanistan, tap water is not potable. Bottled water and beverages are generally safe, although you should be aware that many restaurants and hotels serve tap water unless bottled water is specifically requested. Be aware that ice for drinks may be made using tap water.
+**Air Quality**
 
-**Insurance:** Make sure your health insurance plan will cover you outside of the United States, and that it specifically covers care when you are in Afghanistan. U.S. Medicare/Medicaid does not provide coverage overseas. Many insurance companies consider Afghanistan to be an active warzone and specifically exclude coverage for individuals residing or traveling there.
+Air pollution can be a significant problem in many destinations overseas.
+
+* Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in Afghanistan.
+* For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/).
+* For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/).
+* For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
+
+**Water Quality & Food Safety**
+
+In many areas of Afghanistan, tap water is not potable. Bottled water and beverages are generally safe, although you should be aware that many restaurants and hotels serve tap water unless bottled water is specifically requested. Be aware that ice for drinks may be made using tap water.
+
+**Insurance**
+
+Make sure your health insurance plan will cover you outside of the United States, and that it specifically covers care when you are in Afghanistan. U.S. Medicare/Medicaid does not provide coverage overseas. Many insurance companies consider Afghanistan to be an active warzone and specifically exclude coverage for individuals residing or traveling there.
 
 U.S. citizens are strongly recommended to obtain [supplemental medical evacuation insurance](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/insurance-providers-overseas.html) as medical transport out of Afghanistan can be prohibitively expensive. When selecting a medical evacuation provider, be sure to confirm that the company offers such services in Afghanistan and obtain a list of clinics and hospitals that may be used as a medical evacuation point. Please note that the U.S. governmentcannot pay your medical bills.
 
-**Vaccinations:** Be up-to-date on all [vaccinations](https://wwwnc.cdc.gov/travel/destinations/list/) recommended by the U.S. Centers for Disease Control and Prevention.
+**Vaccinations**
 
-**Further health information:**
+Be up-to-date on all [vaccinations](https://wwwnc.cdc.gov/travel/destinations/list/) recommended by the U.S. Centers for Disease Control and Prevention.
+
+**Further health information**
 
 * [World Health Organization](https://www.who.int/)
 * [U.S. Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/) (CDC)

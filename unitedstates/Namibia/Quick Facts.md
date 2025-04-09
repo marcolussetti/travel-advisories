@@ -12,7 +12,7 @@ BLANK PASSPORT PAGES:
 
 TOURIST VISA REQUIRED:
 
-Not required for stays of 90 days or fewer per calendar year
+Yes
 
 VACCINATIONS:
 

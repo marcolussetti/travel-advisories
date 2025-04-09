@@ -4,7 +4,7 @@
 
 For emergency services in Cuba, dial:
 
-* 104 for an ambulance or contact the nearest [hospital](https://cu.usembassy.gov/u-s-citizen-services/local-resources-of-u-s-citizens/doctors/medical-information/) directly
+* 104 for an ambulance or contact the nearest [hospital](/content/dam/NEWadoptionassets/pdfs/LOCAL HOSPITALS_Mar2025.pdf) directly
 * 105 for fire
 * 106 for police
 

@@ -26,6 +26,8 @@ The following **diseases** are prevalent:
 
 **Vaccinations:** Be up to date on all [vaccinations](https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww.cdc.gov.mcas.ms%2Fvaccines%2F%3FMcasTsid%3D20892&McasCSRF=c0faf6210156a766d6d56a468090eadbf7ff14e9134b92c8bb1ab41cbd1c7567&McasTsid=15600) recommended by the U.S. Centers for Disease Control and Prevention.
 
+**Air Quality:**Air pollution can be a significant problem in many destinations overseas. Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in [destination]. For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/). For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/). For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
+
 **Further health information:**
 
 * [World Health Organization](https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww.who.int.mcas.ms%2F%3FMcasTsid%3D20892&McasCSRF=c0faf6210156a766d6d56a468090eadbf7ff14e9134b92c8bb1ab41cbd1c7567&McasTsid=15600)

@@ -4,7 +4,7 @@
 
 There are no adequate health facilities in Lesotho and ambulance service is unreliable. High-quality care is available in Bloemfontein, South Africa, 90 miles away. U.S. Embassy Maseru maintains a list of [physicians and other health care professionals](https://ls.usembassy.gov/medical-assistance/), but does not guarantee service or provide recommendations.
 
-Vitality Ambulence can be used for emergency services.   
+Vitality Ambulence can be used for emergency services.  
 **Dial Landline:** +266 22326690**Cell:**+266 80012121/+266 5834 9286.   
 **Contact Person:** Dr. Malebohang Raleche
 
@@ -48,7 +48,7 @@ The following diseases are prevalent:
 * [World Health Organization](https://www.who.int/travel-advice)
 * [U.S. Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/destinations/list) (CDC)
 
-**Air Quality:** Visit [AirNow Department of State](https://www.airnow.gov/international/us-embassies-and-consulates/) for information on air quality at U.S. Embassies and Consulates.
+**Air Quality:**
 
 * Air pollution is a significant problem in several major cities in Lesotho. Consider the impact seasonal smog and heavy particulate pollution may have on you and consult your doctor before traveling if necessary.
 * People at the greatest risk from particle pollution exposure include:
@@ -57,6 +57,8 @@ The following diseases are prevalent:
   + People with lung disease such as asthma and chronic obstructive pulmonary disease (COPD), which includes chronic bronchitis and emphysema.
   + People with heart disease or diabetes
   + People who work or are active outdoors
+
+Air pollution can be a significant problem in many destinations overseas. Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in [destination]. For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/). For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/). For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
 
 The U.S. Embassy maintains a list of [doctors and hospitals](https://ls.usembassy.gov/medical-assistance/). We do not endorse or recommend any specific medical provider or clinic.
 

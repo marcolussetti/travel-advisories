@@ -12,7 +12,9 @@
 * Hospitals will expect immediate U.S. dollar cash payment for medical treatment**.**
 * **You cannot use credit cards or checks in the DPRK.**
 
-**Carry your regular medication with you along with the doctor’s prescription:** DPRK Customs says that most prescription medication may be brought into the country with no restrictions.
+**Carry your regular medication with you along with the doctor’s prescription**
+
+DPRK Customs says that most prescription medication may be brought into the country with no restrictions.
 
 **Medical Evacuations: Local DPRK hosts are often not aware of options available for medical evacuations and might claim that no such options exist.**
 
@@ -26,7 +28,9 @@
 
 **Evacuation across the DMZ to South Korea is not allowed.**
 
-**Vaccinations:**Information on vaccinations and other health precautions, such as safe food and water precautions and insect bite protection are located at the Centers for Disease Control and Prevention’s hotline for international travelers at 1-877-FYI-TRIP (1-877-394-8747) or via the [CDC Internet site.](http://wwwnc.cdc.gov/travel/destinations/clinician/none/north-korea) For information about outbreaks of infectious diseases abroad, consult the [World Health Organization's (WHO) website](http://www.who.int/countries/prk/en/). If you have special dietary requirements, you are advised to bring food with you to North Korea, as the restaurants available to foreigners have limited menus that may not meet your dietary needs.
+**Vaccinations**
+
+Information on vaccinations and other health precautions, such as safe food and water precautions and insect bite protection are located at the Centers for Disease Control and Prevention’s hotline for international travelers at 1-877-FYI-TRIP (1-877-394-8747) or via the [CDC Internet site.](http://wwwnc.cdc.gov/travel/destinations/clinician/none/north-korea) For information about outbreaks of infectious diseases abroad, consult the [World Health Organization's (WHO) website](http://www.who.int/countries/prk/en/). If you have special dietary requirements, you are advised to bring food with you to North Korea, as the restaurants available to foreigners have limited menus that may not meet your dietary needs.
 
 Companies that may be able to arrange evacuation services include, but are not limited to, those listed below. You may wish to contact these or other emergency medical assistance providers for information about their ability to provide medical evacuation insurance and/or assistance for travelers to North Korea.
 
@@ -43,15 +47,28 @@ You can find useful information on medical emergencies abroad, including oversea
 
 Also, see our extensive tips and advice on [Traveling Safely Abroad*.*](http://travel.state.gov/content/passports/en/go/checklist.html)
 
-**Bills - We do not pay medical bills**. Be aware that U.S. Medicare does not apply overseas: The DPRK says U.S. citizens are accountable for costs associated with detention or incarceration in North Korea such as lodging, food, telephone calls, and medical assistance (hospital bills).
+**Bills - We do not pay medical bills**
+
+Be aware that U.S. Medicare does not apply overseas: The DPRK says U.S. citizens are accountable for costs associated with detention or incarceration in North Korea such as lodging, food, telephone calls, and medical assistance (hospital bills).
 
 Make sure your health insurance plan provides coverage overseas.  Most care providers overseas only accept cash payments. See our webpage for more [information on insurance providers for overseas coverage](http://travel.state.gov/content/passports/en/go/health/insurance-providers.html).
 
 We strongly recommend [supplemental insurance](http://travel.state.gov/content/passports/english/go/health/insurance-providers.html) (our webpage) to cover medical evacuation. Carry prescription medication in original packaging, along with your doctor’s prescription.
 
-**Major country-specific health concerns:Tuberculosis is an increasingly serious health concern in North Korea.** For further information, please [consult the CDC's information on TB.](http://wwwnc.cdc.gov/travel/destinations/clinician/none/north-korea)
+**Major country-specific health concerns:Tuberculosis is an increasingly serious health concern in North Korea.**
+
+For further information, please [consult the CDC's information on TB.](http://wwwnc.cdc.gov/travel/destinations/clinician/none/north-korea)
 
 Be up-to-date on all [vaccinations](http://wwwnc.cdc.gov/travel/page/vaccinations.htm) recommended by the U.S. Centers for Disease Control and Prevention.
+
+**Air Quality**
+
+Air pollution can be a significant problem in many destinations overseas.
+
+* Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in North Korea.
+* For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/).
+* For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/).
+* For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
 
 For further health information, go to:
 

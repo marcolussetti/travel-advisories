@@ -32,8 +32,6 @@ Always carry your prescription medication in original packaging, along with your
 * [World Health Organization](https://www.who.int/travel-advice)
 * [U.S. Centers for Disease Control and Prevention (CDC)](https://wwwnc.cdc.gov/travel/)
 
-**Air Quality:** Visit [AirNow Department of State](https://www.airnow.gov/) for information on air quality at U.S. Embassies and Consulates.
-
 The U.S. Embassy maintains a [list of doctors and hospitals](https://gcc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsl.usembassy.gov%2Fwp-content%2Fuploads%2Fsites%2F195%2F2015%2F07%2F01142014_MedicalServiceProviders-Jan2015-_2_.pdf&data=04%7C01%7CCarterOlsonA%40state.gov%7C88453520f6b54d70007a08d87cbdc9a7%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C637396501858227014%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=hMNz%2BITXNBu3dsWg6A%2F384SI5xGL3psmVNc5EtxRI3A%3D&reserved=0). We do not endorse or recommend any specific medical provider or clinic.
 
 **Water Quality:**
@@ -71,3 +69,5 @@ Visit the [Centers for Disease Control and Prevention website](https://www.cdc.g
   + People over 65 years of age
   + People with lung disease such as asthma and chronic obstructive pulmonary disease (COPD), which includes chronic bronchitis and emphysema;
   + People with heart disease or diabetes
+
+Air pollution can be a significant problem in many destinations overseas. Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in [destination]. For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/). For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/). For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.

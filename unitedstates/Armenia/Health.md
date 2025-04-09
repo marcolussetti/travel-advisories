@@ -24,24 +24,35 @@ We highly recommend that all travelers review the U.S. Centers for Disease Contr
 
 The risk of diarrheal disease is high throughout Armenia. Food and water precautions are recommended. Additionally, cases of [brucellosis](https://www.cdc.gov/brucellosis/index.html) from consuming unpasteurized dairy products have been reported.
 
-**We do not pay medical bills.** **Be aware that U.S. Medicare/Medicaid does not apply overseas**. Most hospitals and doctors overseas do not accept U.S. health insurance. Payment is made at the time of service with a credit card and then receipts are submitted later.
+**We do not pay medical bills.** **Be aware that U.S. Medicare/Medicaid does not apply overseas.**Most hospitals and doctors overseas do not accept U.S. health insurance. Payment is made at the time of service with a credit card and then receipts are submitted later.
 
-**Medical Insurance:** Make sure your health insurance plan provides coverage overseas. Most care providers overseas only accept cash payments. See [our webpage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) for more information on insurance providers for overseas coverage. Visit the [U.S. Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/page/insurance) for more information on type of insurance you should consider before you travel overseas.
+**Medical Insurance**
+
+Make sure your health insurance plan provides coverage overseas. Most care providers overseas only accept cash payments. See [our webpage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) for more information on insurance providers for overseas coverage. Visit the [U.S. Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/page/insurance) for more information on type of insurance you should consider before you travel overseas.
 
 The Department of State strongly recommends supplemental insurance to cover medical evacuation.
 
 Always carry your prescription medication in original packaging, along with your doctor’s prescription. Check with the [Armenian Ministry of Health](http://www.moh.am/) or the [National Institute of Health](https://new.nih.am/) to ensure the medication is legal in Armenia.
 
-**Vaccinations:** Be up to date on all [vaccinations](https://wwwnc.cdc.gov/travel/destinations/traveler/none/armenia?s_cid=ncezid-dgmq-travel-single-001) recommended by the U.S. Centers for Disease Control and Prevention.
+**Vaccinations**
 
-**Further health information:**
+Be up to date on all [vaccinations](https://wwwnc.cdc.gov/travel/destinations/traveler/none/armenia?s_cid=ncezid-dgmq-travel-single-001) recommended by the U.S. Centers for Disease Control and Prevention.
+
+**Further health information**
 
 * [World Health Organization](https://www.who.int/home)
 * [U.S. Centers for Disease Control and Prevention](http://wwwnc.cdc.gov/travel/) (CDC)
 
-**Air Quality:** Visit [AirNow Department of State](https://airnow.gov/international/us-embassies-and-consulates) for information on air quality at U.S. Embassies and Consulates.
+**Air Quality**
 
-The air quality varies considerably and fluctuates with the seasons in Armenia. It is typically at its worst in the winter, with smog and particulate pollution in or near cities. Consider the impact air pollution may have on you and consult your doctor before traveling if necessary. .The U.S. Embassy maintains a [list of doctors and hospitals](https://am.usembassy.gov/u-s-citizen-services/doctors/). We do not endorse or recommend any specific medical provider or clinic.
+The air quality varies considerably and fluctuates with the seasons in Armenia. It is typically at its worst in the winter, with smog and particulate pollution in or near cities. Consider the impact air pollution may have on you and consult your doctor before traveling if necessary. The U.S. Embassy maintains a [list of doctors and hospitals](https://am.usembassy.gov/u-s-citizen-services/doctors/). We do not endorse or recommend any specific medical provider or clinic.
+
+Air pollution can be a significant problem in many destinations overseas.
+
+* Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in Armenia.
+* For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/).
+* For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/).
+* For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
 
 **Pharmaceuticals**
 

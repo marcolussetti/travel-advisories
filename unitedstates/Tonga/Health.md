@@ -23,7 +23,7 @@ We strongly recommend supplemental insurance to cover medical evacuation.
 * [World Health Organization](https://www.who.int/countries/ton/)
 * [U.S. Centers for Disease Control and Prevention](http://wwwnc.cdc.gov/travel/) (CDC)
 
-**Air Quality:** Visit [AirNow Department of State](https://www.airnow.gov/index.cfm?action=airnow.global_summary) for information on air quality at U.S. Embassies and Consulates.
+**Air Quality:** Air pollution can be a significant problem in many destinations overseas. Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in [destination]. For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/). For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/). For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
 
 The U.S. Embassy maintains a [list of doctors and hospitals](https://fj.usembassy.gov/medical-assistance/). We do not endorse or recommend any specific medical provider or clinic.
 

@@ -30,7 +30,7 @@ Always carry your prescription medication in original packaging, along with your
 * [World Health Organization](https://www.who.int/countries)
 * [U.S. Centers for Disease Control and Prevention](http://wwwnc.cdc.gov/travel/) (CDC)
 
-**Air Quality:** Visit [AirNow Department of State](https://www.airnow.gov/index.cfm?action=airnow.global_summary) for information on air quality at U.S. Embassies and Consulates.  The air quality varies considerably and fluctuates with the seasons.  It is typically at its worst in the summer. People at the greatest risk from particle pollution exposure include:
+**Air Quality:** The air quality varies considerably and fluctuates with the seasons.  It is typically at its worst in the summer. People at the greatest risk from particle pollution exposure include:
 
 * Infants, children, and teens
 * People over 65 years of age
@@ -39,6 +39,13 @@ Always carry your prescription medication in original packaging, along with your
 * People who work or are active outdoors
 
 The U.S. Embassy maintains a [list of doctors and hospitals](https://dz.usembassy.gov/u-s-citizen-services/doctors/).  We do not endorse or recommend any specific medical provider or clinic.
+
+Air pollution can be a significant problem in many destinations overseas.
+
+* Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in Algeria.
+* For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/).
+* For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/).
+* For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
 
 **Health facilities:** Adequate health facilities are available in Algiers and other major cities, but quality is variable. Health care in rural areas may be below U.S. standards. Medical staff may speak little or no English.
 

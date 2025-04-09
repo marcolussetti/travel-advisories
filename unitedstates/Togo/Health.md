@@ -86,9 +86,7 @@ The following diseases are prevalent:
 
 * Visit the CDC website for more information about [Resources for Travelers](https://wwwnc.cdc.gov/travel/page/traveler-information-center) regarding specific issues in Togo.
 
-**Air Quality**:  Visit [Air Now Department of State](https://www.airnow.gov/index.cfm?action=airnow.global_summary) for information on air quality at U.S. embassies and consulates.
-
-The air quality in Togo varies considerably and fluctuates with the seasons.  During the annual harmattan season, when winds blow dust in from the Sahel, followed by a subsequent burn season, when farmers routinely burn their fields, air quality can reach hazardous levels in Togo (Dec- Feb).  Consider the impact seasonal smog and heavy particulate pollution may have on you and consult your doctor before traveling if necessary.
+**Air Quality**:  The air quality in Togo varies considerably and fluctuates with the seasons.  During the annual harmattan season, when winds blow dust in from the Sahel, followed by a subsequent burn season, when farmers routinely burn their fields, air quality can reach hazardous levels in Togo (Dec- Feb).  Consider the impact seasonal smog and heavy particulate pollution may have on you and consult your doctor before traveling if necessary.
 
 People at the greatest risk from particle pollution exposure include:
 
@@ -98,7 +96,7 @@ People at the greatest risk from particle pollution exposure include:
 * People with heart disease or diabetes
 * People who work or are active outdoors
 
-Current air quality data can be found on the [Embassy’s Air Quality page](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.airnow.gov%2Finternational%2Fus-embassies-and-consulates%2F%23Togo%24Lome&data=05%7C02%7COCSContentManager%40state.gov%7C26dac2e76f494b69097c08dc281fb38b%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C638429363815566733%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=HfB3Zzsra50j6s%2Bm%2Bz2AXzJNeWuZO86UJQWHHgNazXs%3D&reserved=0). The data on this site are updated hourly.
+Air pollution can be a significant problem in many destinations overseas. Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in [destination]. For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/). For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/). For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
 
 **Medical Tourism and Elective Surgey**:
 

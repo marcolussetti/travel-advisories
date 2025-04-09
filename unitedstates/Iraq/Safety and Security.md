@@ -2,7 +2,39 @@
 
 [#### Safety and Security](javascript:void(0); "Safety and Security")
 
-**Terrorism:** Terrorist groups and those inspired by such organizations are intent on attacking U.S. citizens abroad. Terrorists increasingly use less-sophisticated methods of attack – including knives, firearms, and vehicles – to target crowds at venues such as:
+Iraq has a strict entry and exit system:
+
+* Visa requirements depend on your citizenship, Iraqi ancestry, purpose of travel, and duration of stay.
+* Your passport must be valid for 6 months from the date you submit the visa application.
+* Your passport must have at least 1 blank visa page.
+* Don’t leave Iraq without an exit stamp in your passport.
+
+**Visa Requirements**
+
+You must apply and obtain an e-Visa through the [Iraq e-Visa Portal](https://evisa.iq/en) prior to arrival.
+
+**For travel into the Kurdistan Region** of Iraq, you have 3 visa options:
+
+1. Apply and obtain an e-Visa through the [Iraq e-Visa Portal](https://evisa.iq/en) prior to arrival. **You must use this option to travel to other areas of Iraq from the Kurdistan Region.**
+2. Apply and obtain an e-Visa through the [Kurdistan Regional Government’s e-Visa Portal](https://visit.gov.krd/faq) prior to arrival.
+3. Apply for a visa upon arrival at Erbil International Airport or other entry points in the Kurdistan region.
+
+Residency stamps and blood tests may be required for long-term residents and if you plan to seek employment.
+
+You can be fined, detained, or deported for violating Iraqi immigration rules, including overstays or working without authorization.
+
+You may be detained if you:
+
+* Bring a weapon to Iraq or carry one without authorization.
+* Pass through checkpoints without proper documents or a clear purpose of travel.
+
+Visit the [Embassy of Iraq](https://www.iraqiembassy.us/page/contact-us) website for the most current visa and travel information.
+
+**HIV/AIDS Restrictions:** Iraq has imposed HIV/AIDS-related travel restrictions on all visitors and new residents. Please verify this information with the [Embassy of Iraq](https://www.iraqiembassy.us/page/consular-services) before you travel.
+
+Find information on [dual nationality](https://travel.state.gov/content/travel/en/legal/travel-legal-considerations/Relinquishing-US-Nationality/Dual-Nationality.html), [prevention of international child abduction](https://travel.state.gov/content/travel/en/International-Parental-Child-Abduction.html), and [customs regulations](https://travel.state.gov/content/travel/en/international-travel/before-you-go/customs-and-import.html) on our websites.
+
+**Terrorism:** Terrorist groups and individuals inspired by them want to attack American citizens outside of the United States. They are using simpler methods of attack like knives, guns, and vehicles to target crowds. They often go after unprotected or vulnerable targets.
 
 * High-profile public events (sporting contests, political rallies, demonstrations, holiday events, celebratory gatherings, etc.)
 * Hotels, clubs, and restaurants frequented by tourists
@@ -10,35 +42,57 @@
 * Schools
 * Parks
 * Shopping malls and markets
-* Public transportation systems, including subways, buses, trains, and scheduled commercial flights.
+* Public transportation systems (including subways, buses, trains, and scheduled commercial flights)
 
-Islamic State in Iraq and Syria, also known as ISIS, ISIL or Da’esh, is a designated terrorist organization, which is active in Syria and near the Iraq border. ISIS and its associated terrorist groups indiscriminately commit attacks and violent atrocities in Iraq despite improved Iraqi government control. ISIS, militia groups, and criminal gangs target U.S. citizens for attacks and hostage-taking.
+The Islamic State in Iraq and Syria—also known as ISIS, ISIL or Da’esh—is a designated terrorist organization active in Syria and Iraq. ISIS and its associated terrorist groups indiscriminately commit attacks and violent atrocities in Iraq despite improved Iraqi government control. ISIS, militia groups, and criminal gangs target U.S. citizens for attacks and hostage-taking. Additionally, Iran-aligned militia groups encourage and conduct attacks against the U.S. presence in Iraq.
 
-Iraq’s northern borders are especially dangerous due to the continued threat of attacks by terrorist groups, armed conflict, aerial bombardment, and civil unrest.  U.S. citizens should especially avoid areas near armed groups in northern Iraq, which have been targeted with aerial strikes by neighboring countries’ militaries.
+Iraq’s northern borders are especially dangerous due to the continued threat of attacks by terrorist groups, armed conflict, aerial bombardment, and civil unrest. Avoid all areas near armed groups in northern Iraq, which have been targeted with military strikes by neighboring countries.
 
-Due to security and safety threats, U.S. government personnel in Iraq live and work under strict security guidelines, which limit their movements and interactions.
+Due to security and safety threats, U.S. government employees working in Iraq live and work under strict security restrictions, which limit their movements and interactions.
 
-**Crime:**  Carjacking is common, even during daylight hours, and particularly on the highways from Jordan and Kuwait to Baghdad.  Kidnappings of foreigners, Iraqi citizens, and dual U.S.-Iraqi citizens can occur for ransom or political/religious reasons.  Many hostages have been killed.  The murder rate remains high due to terrorism, tribal and family disputes, and religious/sectarian tensions.  Sexual assault and domestic violence are common.  Petty theft is common in Iraq, including pickpocketing and theft of valuables from hotel rooms and private residences.
+For more information, see our [Terrorism page](https://travel.state.gov/content/travel/en/international-travel/emergencies/terrorism.html).
 
-**Demonstrations** occur frequently.  They may take place in response to political or economic issues, on politically significant holidays, and during international events.
+**Crime:** Carjacking is common, even during daylight hours, and particularly on the highways from Jordan and Kuwait to Baghdad. Kidnappings of foreign nationals, Iraqi citizens, and dual U.S.-Iraqi citizens can occur for ransom or political/religious reasons. Many hostages have been killed. The murder rate remains high due to terrorism, tribal and family disputes, and religious/sectarian tensions. Sexual assault and domestic violence are common. Petty theft is common in Iraq, including pickpocketing and theft of valuables from hotel rooms and private residences.
 
-* Even demonstrations intended to be peaceful can turn confrontational and possibly become violent.
-* Avoid areas around protests and demonstrations.
+**Demonstrations** occur frequently. They may take place in response to political or economic issues. They may also occur on politically significant holidays, and during international events.
+
+* Demonstrations can be unpredictable, avoid areas around protests and demonstrations.
+* Past demonstrations have turned violent.
 * Check local media for updates and traffic advisories.
 
-International financial and romance scams can be connected to Iraq.  See the [Department of State](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/fraud.html) and the [FBI webpages](https://www.fbi.gov/scams-and-safety/common-scams-and-crimes/romance-scams) for information.
+**Scams:** Internet romance and financial scam are prevalent in Iraq. Review the Department of State’s [Protecting Yourself from Scams](https://travel.state.gov/content/travel/en/international-travel/emergencies/international-financial-scams.html) and the [FBI](https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams) pages for information.
 
-**Women Travelers:** Female U.S. citizens have been subject to threats, kidnappings, abuse, and extortion by their family, including loss of custody of children or forced marriage.  U.S. laws do not protect U.S. citizens when they are outside of the United States.  The Iraqi police and legal system may offer little protection.  See our travel tips for [Women Travelers](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/women-travelers.html).
+**Technology Usage Abroad:** Mobile devices can be compromised, stolen, or damaged anywhere in the world. Before traveling abroad, it is best to keep all software (operating system and apps) updated. If possible, use a virtual private network and encrypted voice over IP (VoIP) applications. Make sure that all VPN/VoIP are reputable, and U.S. based. Do not connect to unknown open Wi-Fi.
 
-**Victims of Crime:**  Report crimes, fires, and accidents to local authorities by dialing 104 (Police), 115 (Fire), 112 (National Emergency Hotline), or 139 (sexual assault and domestic violence).  Local authorities are responsible for investigating and prosecuting crimes.  They speak Arabic.  U.S. citizen victims may contact the U.S. Embassy for assistance at +964-760-030-3000.  We can:
+GPS Navigation Apps are helpful in getting U.S. citizens around in a foreign country. Prior to using the GPS app make sure you research the route to make sure it is safe. GPS navigation apps may give you the shortest route without safety consideration.
 
-* Help you find appropriate medical care
-* Assist you in reporting a crime to the police
-* Contact relatives or friends with your written consent
-* Provide general information regarding the victim’s role during the local investigation and following its conclusion
-* Provide a list of local attorneys
-* Provide information on victim’s compensation programs in the United States
+**Victims of Crime:** U.S. citizen victims of sexual assault are encouraged to contact U.S. Embassy Baghdad or U.S. Consulate General Erbil for assistance.
 
-**Domestic Violence:**  U.S. citizen victims of domestic violence in Iraq are encouraged to contact the Embassy for assistance.
+Report crimes, fires, and accidents to local authorities by dialing:
 
-**Tourism:** Tourists participate in activities at their own risk.  Emergency response and subsequent appropriate medical treatment may not be available in-country.  U.S. citizens are encouraged to purchase medical evacuation insurance.  See our website for [information on insurance providers for overseas coverage.](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/insurance-providers-overseas.html)
+* 104 for police
+* 115 for fire
+* 112 for the national emergency hotline
+* 139 for sexual assault or domestic violence
+
+Contact the U.S. Embassy at +964-760-030-3000. Local authorities are responsible for investigating and prosecuting crime.
+
+See our webpage on help for [U.S. victims of crime overseas](https://travel.state.gov/content/travel/en/international-travel/emergencies/crime.html).
+
+We can:
+
+* Help you find appropriate medical care.
+* Assist you in reporting a crime to the police.
+* Contact relatives or friends with your written consent.
+* Provide general information regarding the victim’s role during the local investigation and following its conclusion.
+* Provide a list of local attorneys. We do not endorse or recommend any specific attorneys.
+* Provide information on victim’s compensation programs in the U.S.
+* Provide an emergency loan for repatriation to the United States and/or limited medical support in cases of destitution.
+* Help you find accommodation and arrange flights home.
+* Replace a stolen or lost passport.
+
+**Domestic Violence:** U.S. citizen victims of domestic violence are encouraged to contact the Embassy for assistance.
+
+**Tourism:** The tourism industry is not well regulated. Safety inspections for equipment and facilities are rare. Dangerous areas/activities are not always labeled properly. Staff may not be trained or certified by the host government or recognized authorities. If you get injured, you will likely only find appropriate medical treatment in or near major cities. First responders cannot reach areas outside major cities to provide urgent medical care. U.S. citizens are encouraged to purchase medical evacuation insurance.
+
+See our webpage for more [information on insurance providers for overseas coverage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html).

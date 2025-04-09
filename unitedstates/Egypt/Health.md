@@ -6,7 +6,6 @@
 
 * [Egypt Traveler Health Information](https://wwwnc.cdc.gov/travel/destinations/traveler/none/egypt)
 * [Medical Tourism information](https://wwwnc.cdc.gov/travel/yellowbook/2024/health-care-abroad/medical-tourism)
-* [International Air Quality Index](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html)
 * [Insurance Coverage Overseas](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html)
 * [Egypt Health Information](https://www.who.int/countries/egy/)
 * [List of Hospitals and Doctors in Egypt](https://eg.usembassy.gov/services/medical-assistance/)
@@ -55,8 +54,17 @@ Travelers must be up to date on all recommended vaccinations, per CDC’s info
 
 Further Health Information:
 
-* [World Health Organization](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Egypt.html#ExternalPopup)
-* [U.S. Centers for Disease Control and Prevention (CDC)](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Egypt.html#ExternalPopup)
+* [World Health Organization](https://immunizationdata.who.int/global/wiise-detail-page/vaccination-schedule-for-country_name)
+* [U.S. Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/vaccines/index.html)
+
+**Air Quality**
+
+Air pollution can be a significant problem in many destinations overseas. Air pollution can be a significant problem in many destinations overseas.
+
+* Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast). It uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a 3-day forecast of expected air quality in Egypt.
+* For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/).
+* For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/).
+* For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
 
 **Water quality and food safety**
 

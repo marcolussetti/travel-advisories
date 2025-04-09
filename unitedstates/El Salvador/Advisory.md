@@ -1,8 +1,8 @@
 # El Salvador Travel Advisory
 
-### Travel Advisory February 7, 2025
+### Travel Advisory April 8, 2025
 
-### El Salvador - Level 2: Exercise Increased Caution
+### El Salvador - Level 1: Exercise Normal Precautions
 
 [O](javascript:void(0); "Tool Tip: Other")
 [D](javascript:void(0); "Tool Tip: Wrongful Detention")
@@ -14,48 +14,51 @@
 [T](javascript:void(0); "Tool Tip: Terrorism")
 [C](javascript:void(0); "Tool Tip: Crimes")
 
-**Reissued after periodic review with minor edits*.***
+***Updated due to change in travel advisory level to reflect changes in crime.***
 
-**Country Summary:** Crime is still a concern in El Salvador, but gang-related activity has dropped significantly over the last 3 years. This includes drops in violent crimes and murders.
+**Country Summary:** Exercise normal precautions in El Salvador. Gang activity has decreased over the last three years. This has caused a drop in violent crimes and murders.
 
-U.S. government employees may travel throughout the country during daylight hours. Due to infrastructure and safety concerns, U.S. government employees may not travel between cities or departments after dark, except for:
+U.S. government employees working in El Salvador are allowed to travel throughout the country during daylight hours. However, due to the risks, U.S. government employees are prohibited from traveling between cities or departments at night.
 
-* The route between San Salvador and El Salvador’s international airport.
-* Between San Salvador and La Libertad.
+There are exceptions. U.S. government employees are allowed to travel at all hours between San Salvador and:
 
-Government employees are also prohibited from using public buses.
+* El Salvador’s international airport.
+* La Libertad department.
+
+U.S. government employees are prohibited from using public buses.
 
 **State of Exception**
 
-In March 2022, the Government of El Salvador declared a “State of Exception” in response to an increase in gang homicides:
+In March 2022, the Government of El Salvador declared a “State of Exception” in response to an increase in gang murders:
 
-* The State of Exception grants local authorities the power to arrest anyone suspected of gang activity.
-* It suspends several constitutional rights, including the normal protections of criminal procedure, such as the right to a speedy or fair trial.
+* The State of Exception allows local authorities to arrest anyone they think is involved in gang activity.
+* It suspends several constitutional rights. This includes the normal protections of criminal procedure, like the right to a speedy or fair trial.
 * Tens of thousands of people are currently in prison under the State of Exception.
 * Several U.S. and other foreign citizens have been detained under the State of Exception. They remain in prison and have yet to face trial.
 
-The State of Exception is still in place. We urge U.S. citizens to stay alert and cautious.
+The State of Exception is still in place.
 
 Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/ElSalvador.html) for additional information on travel to El Salvador.
 
 If you decide to travel to El Salvador:
 
-* Use major highways and roads and minimize travel outside metropolitan areas after dark.
-* El Salvador has zero tolerance for driving under the influence of alcohol. Detection of any level of alcohol can result in detention.
+* Always use major highways and roads.
+* Minimize travel outside of major cities at night.
+* El Salvador has zero tolerance for driving under the influence of alcohol. You can be detained for having any level of alcohol while driving. Do not drink and drive.
 * Stay aware of your surroundings.
 * When possible, travel in pairs or in groups, especially for long trips and in rural places.
-* Do not solely rely on web-based mapping applications, which may not reflect the status of local road conditions.
+* Avoid relying on online maps or applications. They might not accurately show local road conditions.
 * Do not hitchhike.
 * Ensure you have multiple forms of communication when traveling and the ability to charge your devices.
 * Do not physically resist any robbery attempt.
 * Stay alert when visiting banks or ATMs.
 * Do not display signs of wealth, such as expensive watches or jewelry.
 * Engage local guides certified by the national or local tourist authority when hiking in backcountry areas.
-* Use caution and follow water condition warnings when swimming near El Salvador’s beaches.
+* Use caution when swimming near El Salvador’s beaches. Follow water condition warnings.
 * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://step.state.gov/) to receive Alerts from the U.S. Embassy and make it easier to locate you in an emergency.
-* Review the [Country Security Report](https://www.osac.gov/Content/Browse/Report?subContentTypes=Country%20Security%20Report) for El Salvador.
-* Prepare a contingency plan for emergency situations. Review the [Traveler’s Checklist](https://travel.state.gov/content/passports/en/go/checklist.html).
-* Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/traveler/none/el-salvador) related to your travel and return to the United States.
+* Review the [Country Security Report](https://www.osac.gov/Country/ElSalvador/Detail) for El Salvador.
+* Prepare a backup plan for emergency situations. Review the [Traveler’s Checklist](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-checklist.html).
+* Visit the CDC page for the [latest Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) related to your travel and return to the United States.
 * We highly recommend that you buy insurance before you travel. Check with your [travel insurance provider](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) about evacuation assistance, medical insurance, and trip cancellation coverage.
 
 ### Travel Advisory Levels

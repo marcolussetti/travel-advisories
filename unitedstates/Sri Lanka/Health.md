@@ -31,7 +31,7 @@ Further health information:
 * World Health Organization [Travel advice page](https://www.who.int/travel-advice)
 * U.S. Centers for Disease Control and Prevention (CDC) [Travelers’ Health page](https://wwwnc.cdc.gov/travel/destinations/list)
 
-**Air Quality**: Visit [AirNow](https://www.airnow.gov/international/us-embassies-and-consulates/) for information on air quality at U.S. Embassies and Consulates and [ZephAir](https://zephair.stategdi.cloud/locations) for additional locations.
+**Air Quality**: Air pollution can be a significant problem in many destinations overseas. Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in [destination]. For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/). For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/). For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
 
 The U.S. Embassy maintains a [list of doctors and hospitals](https://lk.usembassy.gov/medical-assistance/). We do not endorse or recommend any specific medical provider or clinic.
 

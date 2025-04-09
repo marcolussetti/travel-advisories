@@ -64,6 +64,10 @@ Direct emergency medical evacuation flights between the United States and Venezu
 * Expect frequent shortages in running water.
 * Gastrointestinal illnesses such as severe diarrhea are common throughout the country.
 
+**Air Quality:**
+
+Air pollution can be a significant problem in many destinations overseas. Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in [destination]. For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/). For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/). For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
+
 **Adventure Travel** :
 
 * Visit the U.S. Centers for Disease Control and Prevention website for more information about [Adventure Travel](https://wwwnc.cdc.gov/travel/page/adventure).

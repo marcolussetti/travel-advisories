@@ -18,7 +18,7 @@ Contact information for hospitals/clinics is found [here](https://la.usembassy.
 
 Always carry your prescription medication in original packaging, along with your doctor’s prescription. Check with the [Lao Ministry of Foreign Affairs](http://www.mofa.gov.la/) to ensure the medication is legal in Laos.
 
-**Air Quality:** Visit [AirNow Department of State](https://www.airnow.gov/international/us-embassies-and-consulates/#:~:text=AirNow%20Department%20of%20State&text=AirNow%20DOS%20collects%20Air%20Quality,interested%20in%20air%20quality%20monitoring%3F) for information on air quality at U.S. Embassies and Consulates.
+**Air Quality:** Air pollution can be a significant problem in many destinations overseas. Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in [destination]. For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/). For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/). For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
 
 **Vaccinations:**Be up-to-date on all [vaccinations](https://wwwnc.cdc.gov/travel/destinations/list) recommended by the U.S. Centers for Disease Control and Prevention.
 

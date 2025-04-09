@@ -27,7 +27,7 @@ Always carry your prescription medication in original packaging, along with your
 
 [The Royal Insurance Corporation of Bhutan](https://www.ricb.bt/) has initiated a travel and medical plan solely for visitors to Bhutan. When booking your trip, you should get detailed information about the insurance plan from your travel agents in Bhutan.
 
-**Air Quality:** Visit [AirNow Department of State](https://www.airnow.gov/index.cfm?action=airnow.global_summary) for information on air quality at U.S. Embassies and Consulates.  
+**Air Quality:** Air pollution can be a significant problem in many destinations overseas. Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in [destination]. For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/). For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/). For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.  
   
 The U.S. Embassy does not maintain a list of doctors and hospitals in Bhutan. We do not endorse or recommend any specific medical provider or clinic.
 

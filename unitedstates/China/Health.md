@@ -14,10 +14,12 @@ We strongly recommend supplemental insurance to cover medical evacuation.
 
 **Medication:** If traveling with prescription medication, make sure the medication is legal in the PRC by checking with the [Embassy of the People’s Republic of China in the United States of America](http://us.china-embassy.gov.cn/eng/). Carry prescription medication in original packaging, along with the prescription. Many commonly used U.S. drugs and medications are not available in the PRC, and counterfeit, low-quality knockoffs are prevalent. If you have medications sent to you from outside the PRC, customs authorities may confiscate them, or you may have to pay high customs duties.  
   
-**Air Quality:** Air pollution is a significant problem in many locations. Visit [AirNow Department of State](https://www.airnow.gov/index.cfm?action=airnow.global_summary) for information on air quality at U.S. Embassies and Consulates. The PRC’s [Ministry of Ecology and Environment](https://english.mee.gov.cn/) also provides its own air quality data for cities throughout the PRC.  
+**Air Quality:** Air pollution is a significant problem in many locations.  The PRC’s [Ministry of Ecology and Environment](https://english.mee.gov.cn/) also provides its own air quality data for cities throughout the PRC.  
   
-Most roads and towns in Tibet, Qinghai, parts of Xinjiang, and western Sichuan are situated at altitudes over 10,000 feet. Take appropriate precautions to prepare for and be alert to altitude sickness.  
-  
+Most roads and towns in Tibet, Qinghai, parts of Xinjiang, and western Sichuan are situated at altitudes over 10,000 feet. Take appropriate precautions to prepare for and be alert to altitude sickness.
+
+Air pollution can be a significant problem in many destinations overseas. Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in [destination]. For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/). For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/). For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
+
 **Disease:** The following diseases are prevalent:
 
 * Typhoid

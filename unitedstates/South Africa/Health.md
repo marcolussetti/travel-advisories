@@ -53,9 +53,7 @@ The following diseases are prevalent:
 * [World Health Organization](https://www.who.int/travel-advice)
 * [U.S. Centers for Disease Control and Prevention (CDC)](https://wwwnc.cdc.gov/travel/)
 
-**Air Quality:** Visit [Air Now Department of State](https://www.airnow.gov/international/us-embassies-and-consulates/) for information on air quality at U.S. Embassies and Consulates.
-
-Air pollution is a significant problem in several major cities in South Africa. Consider the impact seasonal smog and heavy particulate pollution may have on you and consult your doctor before traveling if necessary.
+**Air Quality:** Air pollution is a significant problem in several major cities in South Africa. Consider the impact seasonal smog and heavy particulate pollution may have on you and consult your doctor before traveling if necessary.
 
 The air quality varies considerably and fluctuates with the seasons. It is typically at its worst in the Winter (Southern Hemisphere). People at the greatest risk from particle pollution exposure include:
 
@@ -68,6 +66,8 @@ The air quality varies considerably and fluctuates with the seasons. It is typic
 * Adequate health facilities are available major cities but health care in rural areas may be below U.S. standards.
 * Public medical clinics lack basic resources and supplies.
 * Hospitals and doctors often require payment “up front” prior to service or admission. Credit card payment is not always available. Most hospitals and medical professionals require cash payment.
+
+Air pollution can be a significant problem in many destinations overseas. Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in [destination]. For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/). For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/). For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
 
 **Medical Tourism and Elective Surgery**
 

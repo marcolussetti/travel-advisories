@@ -30,7 +30,7 @@ Further health information:
 * World Health Organization [Travel advice page](https://www.who.int/travel-advice)
 * U.S. Centers for Disease Control and Prevention (CDC)  [Travelers’ Health page](https://wwwnc.cdc.gov/travel/destinations/list)
 
-**Air Quality:** Visit [AirNow Department of State](https://www.airnow.gov/) for information on air quality at U.S. Embassy and Consulates.
+**Air Quality:** Air pollution can be a significant problem in many destinations overseas. Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in [destination]. For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/). For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/). For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
 
 **Health facilities in general:**There are three large hospitals in the Malé area: ADK Hospital, Tree Top Hospital, and the government-run IGMH. Medical facilities outside Malé are limited. Hospitals and doctors typically require payment “up front” prior to service or admission. The availability of medical supplies is uneven, and shortage of basic over-the-counter medicines occurs frequently.  Many common medications used in the United States are not available in the Maldives; therefore, travelers should always carry any prescription medications with them.
 

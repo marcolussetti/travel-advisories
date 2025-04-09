@@ -1,7 +1,7 @@
 {
     "name": "Czech Republic",
-    "risk_level": "Level 1: Exercise Normal Precautions",
-    "risk_level_number": 1,
+    "risk_level": null,
+    "risk_level_number": null,
     "pages": [
         {
             "title": "Quick Facts",
@@ -38,12 +38,8 @@
         {
             "title": "Fact Sheet",
             "file": "unitedstates/Czech Republic/Fact Sheet.md"
-        },
-        {
-            "title": "Advisory",
-            "file": "unitedstates/Czech Republic/Advisory.md"
         }
     ],
-    "update_date_advisory": "2023-07-26T00:00:00",
+    "update_date_advisory": null,
     "update_date_details": "2023-07-26T00:00:00"
 }

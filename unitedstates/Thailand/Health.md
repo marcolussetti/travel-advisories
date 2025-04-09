@@ -56,7 +56,7 @@ The following diseases are present:
 
 For Bangkok and Chiang Mai, U.S. Mission Thailand is reporting the U.S. EPA’s Air Quality Index (AQI) calculated from PM2.5 data captured by monitors owned and maintained by the Royal Thai Government. The information and advice on health protection measures to take is available
 
-Visit [AirNow Department of State](https://www.airnow.gov/index.cfm?action=airnow.global_summary) for information on air quality at U.S. Embassies and Consulates.
+Air pollution can be a significant problem in many destinations overseas. Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in [destination]. For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/). For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/). For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
 
 The U.S. Embassy maintains a [list of doctors and hospitals](https://th.usembassy.gov/wp-content/uploads/sites/90/2017/07/hospitals-in-thailand.pdf). We do not endorse or recommend any specific medical provider or clinic.
 

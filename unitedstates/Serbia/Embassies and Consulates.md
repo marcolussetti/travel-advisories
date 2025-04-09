@@ -4,9 +4,8 @@
 
 ## **[U.S. Embassy Belgrade](https://rs.usembassy.gov/)**
 
-**Bulevar kneza Aleksandra Karadordevica 92  
-11040 Belgrade  
-Serbia  
+**Bulevar kneza Aleksandra Karadordevica  
+92 11040 Belgrade, Serbia  
 Telephone:** +(381) (11) 706-4000  
 **Emergency After-Hours Telephone:** +(381) (11) 706-4000  
 **Fax:** +(381) (11) 706-4481  

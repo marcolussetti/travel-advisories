@@ -20,6 +20,8 @@ Always carry your prescription medication in original packaging with your doctor
 
 The Lithuanian government does not require HIV testing for U.S. citizens. Sexually transmitted diseases are a growing public health problem.
 
+**Air Quality:**Air pollution can be a significant problem in many destinations overseas. Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in [destination]. For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/). For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/). For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
+
 **Vaccinations:**Be up-to-date on all [vaccinations](http://wwwnc.cdc.gov/travel/page/vaccinations.htm) recommended by the U.S. Centers for Disease Control and Prevention.
 
 **Further health information:**

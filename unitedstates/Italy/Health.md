@@ -34,11 +34,13 @@ For further health information:
 * [World Health Organization](https://www.who.int/)
 * [U.S. Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/destinations/traveler/none/italy?s_cid=ncezid-dgmq-travel-single-001) (CDC)
 
-**Air Quality:** Visit [AirNow Department of State](https://www.airnow.gov/international/us-embassies-and-consulates/) for information on air quality at U.S. Embassies and Consulates. Many cities in Italy have air pollution levels similar to those in major U.S. cities.
+**Air Quality:**  Many cities in Italy have air pollution levels similar to those in major U.S. cities.
 
 In parts of Italy, the lack of adequate trash disposal and incineration sites has led to periodic accumulations of garbage. In some cases, residents have burned garbage, resulting in toxic emissions that can aggravate respiratory problems.
 
 Visit the [European Environment Agency’s website](https://www.eea.europa.eu/data-and-maps/explore-interactive-maps/up-to-date-air-quality-data) for information on air quality in Italy.
+
+Air pollution can be a significant problem in many destinations overseas. Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in [destination]. For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/). For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/). For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
 
 **Health Facilities:**
 

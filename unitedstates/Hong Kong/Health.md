@@ -20,7 +20,7 @@ U.S. Consulate General Hong Kong & Macau maintains a list of local [English-spe
 
 **Medication**: Always carry your prescription medication in original packaging, along with your doctor’s prescription. Prescription drugs are widely available in Hong Kong, although names may vary. You need a prescription from a doctor in Hong Kong to purchase medications locally. Bring prescription medications to cover your stay in Hong Kong or plan to see a physician in Hong Kong to obtain a new prescription. If traveling with prescription medication, check with the [government of Hong Kong](https://www.gov.hk/en/nonresidents/) to ensure the medication is legal in Hong Kong.
 
-**Air Quality**: Visit [AirNow Department of State](https://www.airnow.gov/index.cfm?action=airnow.global_summary) for information on air quality at U.S. Embassies and Consulates. The air quality in Hong Kong varies considerably and fluctuates with the seasons. It is typically worse in the summer.
+**Air Quality**: The air quality in Hong Kong varies considerably and fluctuates with the seasons. It is typically worse in the summer.
 
 People at the greatest risk from particle pollution exposure include:
 
@@ -29,6 +29,8 @@ People at the greatest risk from particle pollution exposure include:
 * People with lung disease such as asthma and chronic obstructive pulmonary disease (COPD), which includes chronic bronchitis and emphysema;
 * People with heart disease or diabetes; and
 * People who work or are active outdoors.
+
+Air pollution can be a significant problem in many destinations overseas. Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in [destination]. For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/). For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/). For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
 
 **Vaccinations:**Be up-to-date on all [vaccinations](https://wwwnc.cdc.gov/travel/destinations/traveler/none/hong-kong-sar?s_cid=ncezid-dgmq-travel-single-001#vaccines-and-medicines) recommended by the CDC.
 

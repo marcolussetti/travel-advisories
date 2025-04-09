@@ -28,6 +28,8 @@ Drink bottled or thoroughly boiled water while in Tajikistan. Avoid contact with
 
 **Pollution levels in Tajikistan are reported online at**[AirNow.gov.](https://www.airnow.gov/)  Exercise caution and adjust your outdoor activities on days when pollution levels are elevated.
 
+Air pollution can be a significant problem in many destinations overseas. Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in [destination]. For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/). For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/). For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
+
 **We do not pay medical bills.** Be aware that U.S. Medicare does not apply overseas.
 
 **Medical Insurance:**  Make sure your health insurance plan provides medical coverage in Tajikistan. Care providers in Tajikistan are not able to accept credit cards; therefore, providers only accept cash payments. See our [webpage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) for more information on insurance overseas.

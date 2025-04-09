@@ -47,9 +47,7 @@ Care providers in Pakistan do not accept insurance.  With the exception of Stat
 * [World Health Organization](https://www.who.int/countries)
 * [U.S. Centers for Disease Control and Prevention](http://wwwnc.cdc.gov/travel/) (CDC)
 
-**Air Quality:** Visit [AirNow Department of State](https://www.airnow.gov/international/us-embassies-and-consulates/) for information on air quality at U.S. Embassies and Consulates.
-
-Air pollution is a significant environmental problem across Pakistan. Throughout the country, air quality varies considerably by city and fluctuates greatly depending on the season and local weather patterns. We encourage you to consult with your doctor prior to travel and consider the impact seasonal smog and heavy particulate pollution may have on you. It is typically at its worst during the winter in Pakistan. Anyone who travels to areas where pollution levels are high is at risk. People at the greatest risk from pollution exposure include:
+**Air Quality:** Air pollution is a significant environmental problem across Pakistan. Throughout the country, air quality varies considerably by city and fluctuates greatly depending on the season and local weather patterns. We encourage you to consult with your doctor prior to travel and consider the impact seasonal smog and heavy particulate pollution may have on you. It is typically at its worst during the winter in Pakistan. Anyone who travels to areas where pollution levels are high is at risk. People at the greatest risk from pollution exposure include:
 
 * Infants, children, and teens;
 * People over 65 years of age;
@@ -58,6 +56,8 @@ Air pollution is a significant environmental problem across Pakistan. Throughout
 * People who work or are active outdoors.
 
 Air quality data for major cities in Pakistan can be found on the U.S. Embassy’s [website](https://pk.usembassy.gov/air-quality-data/).
+
+Air pollution can be a significant problem in many destinations overseas. Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in [destination]. For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/). For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/). For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
 
 **Water Quality**
 

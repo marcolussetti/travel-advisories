@@ -39,7 +39,7 @@ Tuberculosis is an increasingly serious health concern in India. Please visit th
 * [World Health Organization](https://www.who.int/)
 * [U.S. Centers for Disease Control and Prevention](http://wwwnc.cdc.gov/travel/) (CDC)
 
-Air pollution is a significant problem in several major cities in India, and you should consult your doctor prior to travel and consider the impact seasonal smog and heavy particulate pollution may have on you. The air quality in India varies considerably and fluctuates with the seasons. It is typically at its worst in the winter. Anyone who travels where pollution levels are high is at risk. People at the greatest risk from particle pollution exposure include:
+**Air Quality:**Air pollution is a significant problem in several major cities in India, and you should consult your doctor prior to travel and consider the impact seasonal smog and heavy particulate pollution may have on you. The air quality in India varies considerably and fluctuates with the seasons. It is typically at its worst in the winter. Anyone who travels where pollution levels are high is at risk. People at the greatest risk from particle pollution exposure include:
 
 * Infants, children, and teens
 * People over 65 years of age
@@ -47,7 +47,7 @@ Air pollution is a significant problem in several major cities in India, and you
 * People with heart disease or diabetes
 * People who work or are active outdoors
 
-Current air quality data can be found on the [Department of State’s air quality page](https://www.airnow.gov/international/us-embassies-and-consulates/). The data on this site are updated hourly.
+Air pollution can be a significant problem in many destinations overseas. Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in [destination]. For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/). For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/). For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
 
 Rh-negative blood may be difficult to obtain as it is not common in Asia.
 
