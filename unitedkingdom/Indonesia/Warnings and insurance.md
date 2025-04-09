@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   9 April 2025
 
 Updated:
-:   7 January 2025
+:   8 April 2025
 
 Latest update:
-:   Updated information on overstaying your visa (‘Entry requirements’ page).
+:   Updated information on the risks related to drugs, and of criminal gangs coercing people to carry drugs across borders (‘Safety and security’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/6745db6083f3d6d843be9719/FCDO__TA__020_-_Indonesia_Travel_Advice_Ed9__WEB_.jpg)
 

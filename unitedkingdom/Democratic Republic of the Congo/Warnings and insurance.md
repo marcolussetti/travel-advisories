@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   9 April 2025
 
 Updated:
-:   25 February 2025
+:   8 April 2025
 
 Latest update:
-:   Updated information relating to the security situation in Goma, Bukavu, and north and south Kivu provinces ('Warnings and insurance', 'Safety and security' and 'Regional risks' pages).
+:   FCDO no longer advises against all but essential travel to some areas of Kinshasa. FCDO continues to advise against all travel, or all but essential travel to a number of areas of DRC ('Warnings and insurance', and 'Regional risks' pages).
 
-![](https://assets.publishing.service.gov.uk/media/679b3b2a0601880a921f78b6/FCDO__TA__012_-_Democratic_Repbulic_of_the_Congo_Travel_Advice_Ed16__WEB___1_.jpg)
+![](https://assets.publishing.service.gov.uk/media/67f58030e3c60873d6c90d72/FCDO__TA__012_-_Democratic_Repbulic_of_the_Congo_Travel_Advice_Ed15__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/679b3b2a0601880a921f78b7/FCDO__TA__012_-_Democratic_Repbulic_of_the_Congo_Travel_Advice_Ed16__3_.pdf)
+[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/67f58030555773bbf109e1b7/FCDO__TA__012_-_Democratic_Repbulic_of_the_Congo_Travel_Advice_Ed15.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -22,8 +22,9 @@ Your travel insurance could be invalidated if you travel against advice from the
 
 FCDO advises against all but essential travel to:
 
-* Kinshasa city
-* the N1 road in Kinshasa Province, between and including Menkao to the west, Kenge to the east, the border of Mai-Ndombe province to the north, and 10km to the south
+* The districts of N’djili and Kimbanseke in Kinshasa city south of the main access road to N’djili airport, in Nsele commune
+* The N1 road in Kinshasa Province, between and including Menkao to the west, Kenge to the east, the border of Mai-Ndombe province to the north, and 10km to the south
+* The district of Kasa Vubu in Kinshasa city bordered by the N1 Triumphal Road (Stadium), Barumbu District, Lingwala district and south of the Botanical Garden.
 
 ### DRC-Central African Republic border
 
@@ -68,11 +69,7 @@ Support from the UK government is severely limited outside Kinshasa. You should 
 
 ### Kinshasa
 
-FCDO advise against all but essential travel to Kinshasa city. If your reasons for being in Kinshasa city are not essential, consider leaving.
-
-On 28 January there were large and violent protests outside multiple embassies in Kinshasa, in response to the fighting in Goma in eastern DRC. Stay alert and avoid any protests. Carry an identification document, limit movements and be cautious if you are travelling at night. Some flights out of Kinshasa airport have been cancelled. Check ahead before travelling to the airport.
-
-Non-essential staff and dependants of British embassy staff have been temporarily withdrawn from Kinshasa. The embassy continues to provide essential services to British nationals.
+On 28 January there were large and violent protests outside multiple embassies in Kinshasa, in response to the fighting in Goma in eastern DRC. Stay alert and avoid any protests. Carry an identification document, limit movements and be cautious if you are travelling at night. Check ahead before travelling to the airport.
 
 Monitor local media as the situation is changing fast.
 

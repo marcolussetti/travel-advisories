@@ -38,7 +38,7 @@ The ability of the British Embassy to help British nationals in Xinjiang Uyghur 
 
 ### China-Myanmar border
 
-There is increased armed conflict in north Myanmar. Stray artillery shells have caused injury in Zhenkang county, Yunnan province.
+There has been escalating violence near the China-Myanmar border. The Chinese authorities reported artillery shells from Myanmar had injured residents and damaged structures within its territory, prompting increased armed patrols along the border. Stray artillery shells have caused injury in Zhenkang county, Yunnan province.
 
 [Previous
 :

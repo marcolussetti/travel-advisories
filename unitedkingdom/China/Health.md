@@ -27,9 +27,7 @@ See [what health risks you’ll face in China](https://travelhealthpro.org.uk/co
 * avian influenza
 * dengue – present in Guangdong Province and some parts of China, mainly during the rainy season from May to November
 
-Tap water is generally not safe to drink. Only drink bottled water
-
-The Chinese authorities react quickly to outbreaks of any infectious disease. They might enforce quarantine if you show symptoms.
+Tap water is generally not safe to drink. Only drink bottled water.
 
 ## Medication
 

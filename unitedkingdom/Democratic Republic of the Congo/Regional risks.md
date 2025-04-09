@@ -21,8 +21,6 @@ There are continued reports of towns in eastern DRC being attacked by or falli
 
 Foreign nationals travelling in eastern DRC have been left vulnerable, without escorted transport. The risk of kidnap or injury remains high.
 
-On 22 February 2021, there was a fatal attack by an armed group on a UN World Food Programme convoy, approximately 26km north east of Goma on the RN2 road. The attack killed 3 people, including the Italian Ambassador to DRC.
-
 While British government staff do visit areas of eastern DRC, the British Embassy’s ability to offer support is severely limited.
 
 ### Peacekeeping forces
@@ -58,8 +56,6 @@ FCDO advises against all travel to the Kwamouth territory of Mai-Ndombe Province
 There is ongoing intercommunal violence between ethnic groups over land. The government has deployed a military force to the area. We are not aware of any direct threat against the international community or British nationals. Be aware of the increased violence and potential threat.
 
 ## Areas in Kinshasa Province
-
-FCDO advises against all but essential travel to Kinshasa city.
 
 Due to the risk of violent crime, FCDO advises against all but essential travel in the districts of:
 

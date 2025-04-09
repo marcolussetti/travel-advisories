@@ -1,6 +1,6 @@
 # Entry requirements
 
-This information is for people travelling on a full [‘British citizen’ passport](https://www.gov.uk/types-of-british-nationality) from the UK. It is based on the UK government’s understanding of the current rules for the most common types of travel.
+This information is for people travelling on a full [‘British citizen’ passport](https://www.gov.uk/types-of-british-nationality) from the UK. It is based on the UK government’s understanding of China’s current rules for the most common types of travel.
 
 The authorities in China set and enforce entry rules. If you’re not sure how these requirements apply to you, contact the [Chinese Embassy in the UK](http://gb.china-embassy.gov.cn/eng/).
 
@@ -8,7 +8,7 @@ Immigration authorities may collect biometric data, including scanned fingerprin
 
 ## Medical screening on arrival or during your time in China
 
-You may need to pass through medical screening on entry into China. This may be body temperature scanning, or more rarely testing such as throat or nasal swabs or medical examinations. Recent changes to China’s ‘Frontier Health and Quarantine Laws’ means you may be refused entry into China if you do not comply with the screening measures.
+You may need to pass through medical screening on entry into China. This may be body temperature scanning, or more rarely testing such as throat or nasal swabs or medical examinations. Recent changes to China’s ‘Frontier Health and Quarantine Laws’ means you may be refused entry into China if you do not comply with the screening measures. The Chinese authorities react quickly to outbreaks of any infectious disease.
 
 ## Passport validity requirements
 
@@ -26,13 +26,13 @@ You must have a visa to visit mainland China.
 
 You can visit Hainan without a visa if you fly directly from an approved country or transit point. Check the [Hainan Authorities website](http://en.hnftp.gov.cn/tips/policy/202003/t20200317_3263796.html) for more information.
 
-Visa-free transit through China is permitted depending on location. See [China Visa Application Centre](https://www.visaforchina.cn/CBR2_EN/generalinformation/faq/275556.shtml) or [National Immigration Administration website](https://en.nia.gov.cn/n147418/n147463/index.html) for more information.
+Visa-free transit through China is permitted depending on location. See [News-Chinese Visa Application Service Center](https://www.visaforchina.cn/VIE3_EN/tongzhigonggao) or [News National Immigration administration](https://en.nia.gov.cn/n147413/c178106/content.html) for more information.
 
 Visa requirements for [Hong Kong](https://www.gov.uk/foreign-travel-advice/hong-kong/entry-requirements) and [Macao](https://www.gov.uk/foreign-travel-advice/macao/entry-requirements) are different.
 
 ### Applying for a visa
 
-If you’re 14 to 70 years old, you must apply for a visa online and then go in person to a [visa for China application centre](https://www.visaforchina.cn/). Officials will take a scan of your fingerprints as part of your application. There are visa application centres in London, Manchester, Belfast and Edinburgh. If you’re aged 13 or under, or 71 or over, you do not have to attend in person.
+If you’re 14 to 70 years old, you must apply for a visa online and then go in person to a [visa for China application centre](https://www.visaforchina.cn/). Officials will take a scan of your fingerprints as part of your application. There are visa application centres in London, Manchester, Belfast and Edinburgh. If you’re aged 13 or under, or 71 or over, you do not have to attend in person, but someone will need to submit your application on your behalf.
 
 The Chinese Embassy has further information on [visa categories and how to apply](http://gb.china-embassy.gov.cn/eng/visa/notice/202304/t20230403_11053668.htm).
 
@@ -54,6 +54,21 @@ China does not recognise dual nationality. If you were born in China to a Chine
 * treated as a Chinese citizen, even if you used a British passport to enter China
 
 If you enter China on a Chinese passport or identity card, the British Embassy will not be able to offer you help. If you have formally renounced Chinese citizenship, you should carry clear evidence that you have done so. See [guidance on nationality in China](https://www.gov.uk/government/publications/nationality-in-china).
+
+If you’re a former Chinese citizen, Chinese authorities may:
+
+* treat you as a Chinese citizen
+* refuse you access to UK consular services
+
+This can happen even if you entered China on a UK or other foreign passport and you:
+
+* haven’t renounced your citizenship according to Chinese law
+* haven’t formally advised the Chinese authorities of your UK citizenship
+* continue to maintain a Chinese passport or household registration
+
+Authorities may not allow certain categories of Chinese citizens, such as state officials, to renounce their Chinese nationality under Chinese law.
+
+You should get professional legal advice if you’re unsure of your citizenship status under Chinese law.
 
 ## Working in China
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   9 April 2025
 
 Updated:
-:   28 February 2025
+:   8 April 2025
 
 Latest update:
-:   Removal of information about weather conditions in Botswana ('Warnings and insurance' page).
+:   Updated information about malaria (‘Health’ page).
 
 ## Before you travel
 

@@ -1,11 +1,11 @@
 {
     "name": "Democratic Republic of the Congo",
-    "update_reason": "Updated information relating to the security situation in Goma, Bukavu, and north and south Kivu provinces ('Warnings and insurance', 'Safety and security' and 'Regional risks' pages).",
+    "update_reason": "FCDO no longer advises against all but essential travel to some areas of Kinshasa. FCDO continues to advise against all travel, or all but essential travel to a number of areas of DRC ('Warnings and insurance', and 'Regional risks' pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Democratic Republic of the Congo/Warnings and insurance.md",
-            "update_date": "2025-02-25T16:56:19+00:00"
+            "update_date": "2025-04-08T21:01:48+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Democratic Republic of the Congo/Getting help.md"
         }
     ],
-    "update_date": "2025-02-25T16:56:19+00:00"
+    "update_date": "2025-04-08T21:01:48+01:00"
 }

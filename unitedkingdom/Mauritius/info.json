@@ -1,11 +1,11 @@
 {
     "name": "Mauritius",
-    "update_reason": "Removal of information about severe tropical Storm Garance ('Warnings and insurance' page).",
+    "update_reason": "From 9 April, passengers travelling from Reunion Island to Mauritius must produce a negative PCR test for Chikungunya before they travel ('Entry requirements' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Mauritius/Warnings and insurance.md",
-            "update_date": "2025-02-28T10:59:15+00:00"
+            "update_date": "2025-04-08T14:34:15+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Mauritius/Getting help.md"
         }
     ],
-    "update_date": "2025-02-28T10:59:15+00:00"
+    "update_date": "2025-04-08T14:34:15+01:00"
 }

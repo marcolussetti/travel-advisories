@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   9 April 2025
 
 Updated:
-:   2 December 2024
+:   8 April 2025
 
 Latest update:
-:   Removal of information about exit requirements ('Entry requirements' page)
+:   Updated information about the Kanlaon Volcano (See 'Volcanoes' on the 'Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/616406778fa8f52980d9301c/FCDO__TA__033_-_Philippines_Travel_Advice_Ed2__WEB_.jpg)
 

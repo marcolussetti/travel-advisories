@@ -1,11 +1,11 @@
 {
     "name": "China",
-    "update_reason": "New information on medical screening on entry into China (\u2018Entry requirements\u2019 page), updated assessment that terrorists attacks in China cannot be ruled out, and new advice on the increase of violent attacks in China (\u2018Safety and Security\u2019 page).",
+    "update_reason": "Updated information on the possibility of medical screening on arrival into China, the processes for applying for visas for some age categories, access to consular services for dual nationals and safety risks in border areas. This advice has also been reviewed in full for accuracy and style. ('Entry requirements' and 'Regional risks' pages)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/China/Warnings and insurance.md",
-            "update_date": "2024-11-29T16:19:20+00:00"
+            "update_date": "2025-04-08T14:49:29+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/China/Getting help.md"
         }
     ],
-    "update_date": "2024-11-29T16:19:20+00:00"
+    "update_date": "2025-04-08T14:49:29+01:00"
 }

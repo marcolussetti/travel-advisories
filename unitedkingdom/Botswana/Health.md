@@ -22,7 +22,7 @@ At least 8 weeks before your trip:
 
 See [what health risks you’ll face in Botswana](https://travelhealthpro.org.uk/country/33/botswana) including:
 
-* malaria
+* malaria, which is reported in April 2025 to have spread to areas where it is not usually present
 * schistosomiasis
 
 There are occasional outbreaks of anthrax among wild animals. Do not touch dead animals or carcases. If you suspect that you have come into contact with anthrax, seek urgent medical advice.

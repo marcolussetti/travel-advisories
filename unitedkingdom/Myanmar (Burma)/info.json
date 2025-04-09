@@ -1,11 +1,11 @@
 {
     "name": "Myanmar (Burma)",
-    "update_reason": "Update on information on the earthquake in Myanmar including the announcement by the military regime of a State of Emergency in six states and regions. (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "FCDO now advises against all but essential travel to Naypyitaw ('Warnings and insurance' and 'Regional risks' pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Myanmar (Burma)/Warnings and insurance.md",
-            "update_date": "2025-03-29T17:35:51+00:00"
+            "update_date": "2025-04-08T12:59:39+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Myanmar (Burma)/Getting help.md"
         }
     ],
-    "update_date": "2025-03-29T17:35:51+00:00"
+    "update_date": "2025-04-08T12:59:39+01:00"
 }

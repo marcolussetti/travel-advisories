@@ -166,7 +166,7 @@ Earthquakes are a risk in the Philippines. The US Federal Emergency Management A
 
 There are numerous volcanoes in the Philippines, any of which can erupt without warning. Sudden steam and ash explosions may happen at any time.
 
-On 8 June 2023, the Philippine authorities raised the alert level of Mayon Volcano from level 2 (increasing unrest) to level 3 (increased tendency towards a hazardous eruption).
+The Kanlaon Volcano is currently at alert level 3 (increased tendency towards a hazardous eruption).
 
 Check news reports and follow local advice before travelling to any areas around volcanoes. Avoid volcanic areas during and immediately after heavy rainfall when there’s increased risk of lava flows.
 

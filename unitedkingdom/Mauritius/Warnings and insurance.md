@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   9 April 2025
 
 Updated:
-:   28 February 2025
+:   8 April 2025
 
 Latest update:
-:   Removal of information about severe tropical Storm Garance ('Warnings and insurance' page).
+:   From 9 April, passengers travelling from Reunion Island to Mauritius must produce a negative PCR test for Chikungunya before they travel ('Entry requirements' page).
 
 ## Before you travel
 

@@ -20,7 +20,11 @@ At least 8 weeks before you travel:
 * check the latest [vaccine recommendations for Mauritius](https://travelhealthpro.org.uk/country/145/mauritius#Vaccine_Recommendations)
 * see where to get vaccines and whether you have to pay on the [NHS travel vaccinations page](https://www.nhs.uk/conditions/travel-vaccinations)
 
-See [what health risks you’ll face on Mauritius](https://travelhealthpro.org.uk/country/145/mauritius), including dengue and Schistosomiasis.
+See [what health risks you’ll face on Mauritius](https://travelhealthpro.org.uk/country/145/mauritius), including:
+
+* dengue
+* Schistosomiasis
+* Chikungunya
 
 Stonefish stings are rare but can be fatal. Get urgent medical attention if you are stung. Many hotels stock anti-venom serum.
 

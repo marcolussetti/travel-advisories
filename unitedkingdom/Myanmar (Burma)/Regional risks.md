@@ -26,6 +26,7 @@ FCDO advises against all travel to:
 
 FCDO advises against all but essential travel to:
 
+* Naypyitaw region
 * Shan State South and East
 * Mandalay Region
 * Tanintharyi Region south of Tanintharyi township

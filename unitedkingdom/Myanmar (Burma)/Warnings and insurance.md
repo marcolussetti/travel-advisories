@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   30 March 2025
+:   9 April 2025
 
 Updated:
-:   29 March 2025
+:   8 April 2025
 
 Latest update:
-:   Update on information on the earthquake in Myanmar including the announcement by the military regime of a State of Emergency in six states and regions. (‘Warnings and insurance’ page).
+:   FCDO now advises against all but essential travel to Naypyitaw ('Warnings and insurance' and 'Regional risks' pages).
 
-![](https://assets.publishing.service.gov.uk/media/679121b620bce57216a2f1b9/FCDO__TA__064_-_Myanmar_Ed8__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/67f50d1390615dd92bc90cf7/FCDO__TA__064_-_Myanmar_Ed9__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/679121b6b1e4f5cbd3a34e22/FCDO__TA__064_-_Myanmar_Ed8.pdf)
+[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/67f50d13e3c60873d6c90cf4/FCDO__TA__064_-_Myanmar_Ed9.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -34,6 +34,7 @@ FCDO advises against all travel to:
 
 FCDO advises against all but essential travel to:
 
+* Naypyitaw Region
 * Shan State South and East
 * Mandalay Region
 * Tanintharyi Region south of Tanintharyi township
@@ -46,11 +47,15 @@ Find out more about [why FCDO advises against travel](/foreign-travel-advice/mya
 
 ## Earthquake in Myanmar
 
-There has been a 7.7 magnitude earthquake in Myanmar, the epicentre is in Sagaing region near Mandalay City, affecting large parts of the country. Mandalay and Naypyitaw airports are significantly damaged with no indication of when they may reopen. There may be several strong after-shocks. The military regime announced a State of Emergency in six states and regions: Naypyitaw, Sagaing Region, Mandalay Region, Magway Region, northeast Shan State and Bago Region, in addition to the nationwide State of Emergency in place since the coup of 1 February 2021. We advise against travelling to all affected areas at present.
+On 28 March, a 7.7 magnitude earthquake hit Myanmar and neighbouring areas. Naypyitaw, Sagaing region, and Mandalay region continue to be affected, but especially the epicentre near Mandalay City, Mandalay region. There is heavy damage to infrastructure and both Mandalay and Naypyitaw airports are closed to commercial flights.
+
+If you are within these regions, there may be several strong after-shocks. Follow the advice of local authorities and monitor local media.
+
+British nationals in Myanmar who require consular assistance can call British Embassy Yangon on +95 (01) 370 863/4/5/7.
 
 If you’re in the area, follow the advice of the local authorities and monitor local media.
 
-The US Federal Emergency Management Agency has advice about [what to do before, during and after an earthquake](http://www.ready.gov/earthquakes)
+See the US Federal Emergency Management Agency advice about [what to do before, during and after an earthquake](http://www.ready.gov/earthquakes).
 
 UNICEF also have information on staying safe in an earthquake:
 

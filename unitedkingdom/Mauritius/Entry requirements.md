@@ -31,6 +31,10 @@ You must fill in the [Mauritius All in One travel form](https://safemauritius.go
 
 For details about health entry requirements and recommended vaccinations see [TravelHealthPro’s Mauritius guide](https://travelhealthpro.org.uk/country/145/mauritius#Vaccine_Recommendations).
 
+## Travelling from Reunion Island to Mauritius
+
+Following reported cases of Chikungunya in Mauritius, from 9 April if you are travelling from Reunion Island to Mauritius you must produce a negative PCR test for Chikungunya before you travel.  On arrival in Mauritius, you may be asked further questions about your health and recent travel history.
+
 ## Health screening
 
 If you travel to Mauritius from a country where malaria is common, border officials may ask you for a blood sample to meet Ministry of Health requirements. If you are not tested at the airport, officials may contact you later during your visit.
