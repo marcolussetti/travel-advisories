@@ -58,7 +58,7 @@ The best help is often close at hand so if you have problems, try talking to you
 
 You can contact the emergency services in Ukraine by dialling 112. Specific emergency numbers are:
 
-* Police (Militsia): 112
+* Police (Politsia): 112
 * Fire brigade: 101
 * Ambulance/municipal first-aid: 103
 * Natural gas and fire emergency service: 104

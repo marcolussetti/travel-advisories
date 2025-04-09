@@ -30,8 +30,8 @@ The best help is often close at hand so if a problem arises, try talking to loca
 
 Visitors can contact the emergency services in Poland by dialling 112. Specific emergency numbers are:
 
-* Police: 998
-* Fire brigade: 997
+* Police: 997
+* Fire brigade: 998
 * Ambulance: 999
 
 ### **Our tips for Safe Travels:**
@@ -39,5 +39,5 @@ Visitors can contact the emergency services in Poland by dialling 112. Specific 
 * Get comprehensive travel insurance that covers all planned activities.
 * Get a [**European Health Insurance Card**](http://www.hse.ie/eng/services/list/1/schemes/EHIC/)**.**
 * [**Register**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/) with us so that we can get in contact quickly if there is an unforeseen crisis like a natural disaster or a family emergency.
-* Follow us on X [**@dfatravelwise**](https://www.twitter.com/DFATravelWise)and Instagram [**@dfatravelwise**](https://www.instagram.com/dfatravelwise/) for the latest travel updates.
+* Follow us on X [**@dfatravelwise**](https://www.twitter.com/DFATravelWise) and Instagram [**@dfatravelwise**](https://www.instagram.com/dfatravelwise/) for the latest travel updates.
 * Read our [**‘Know Before You Go’**](https://www.ireland.ie/en/dfa/overseas-travel/know-before-you-go/) guide.

@@ -4,10 +4,4 @@ In light of developments, the Department of Foreign Affairs advises all Irish ci
 
 However, citizens should consider leaving Ukraine if they judge it safe to do so, depending on their location and prevailing circumstances.
 
-### **Donbass (Donetsk and Luhansk)**
-
-We advise strongly against all travel to Donetsk and Luhansk Oblasts at this time.
-
-### **Crimea**
-
-We advise strongly against all travel to Crimea at this time.
+For Irish Citizens in Ukraine, the Department strongly advises against travel to the following regions: **Crimea, Luhansk, Donetsk, Zaporizhzhia, and Kherson**.

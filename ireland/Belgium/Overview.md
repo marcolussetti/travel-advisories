@@ -6,11 +6,9 @@ High Degree of Caution
 
 ### **Travel Alert**
 
-National railway unions in Belgium intend to take industrial action on a number of days in each month until July. Train services are likely to be impacted during this time.
+National railway unions in Belgium intend to take industrial action on a number of days each month until August. Domestic and International train services are likely to be impacted. Strike action can occur at short notice.
 
 Nationwide strikes are planned for the 13th of every month until further notice.
-
-A general strike planned for 31 March is likely to cause major travel disruption, including air travel.
 
 For updates, monitor local news and check with your travel operator.
 

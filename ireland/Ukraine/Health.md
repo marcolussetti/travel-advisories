@@ -12,7 +12,7 @@ There is a high level of sexually transmitted diseases in Ukraine and HIV is rep
 
 ### **Radioactive contamination**
 
-The risk of radioactive contamination from the 1986 accident at Chernobyl is insignificant, other than within the exclusion zone immediately around the Chernobyl site and you don’t need to take any special precautions.
+The risk of radioactive contamination from the 1986 accident at Chornobyl is insignificant, other than within the exclusion zone immediately around the Chornobyl site and you don’t need to take any special precautions.
 
 ### **Travel Insurance**
 

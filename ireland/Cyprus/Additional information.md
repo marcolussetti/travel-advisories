@@ -2,7 +2,7 @@
 
 The northern part of Cyprus proclaimed itself the ‘Turkish Republic of Northern Cyprus’ (‘TRNC’) in 1983. The ‘TRNC’ is not recognised internationally, by the UN or any country other than Turkey. In line with relevant UN Security Council Resolutions, Ireland does not recognise the ‘TRNC’.
 
-The Embassy’s ability to provide assistance to Irish citizens in the north of Cyprus may be constrained.
+Due to the political situation in the north of Cyprus the Embassy’s ability to provide assistance to Irish citizens in the north of Cyprus may be restricted.
 
 ### **Entry requirements (visa/passport)**
 

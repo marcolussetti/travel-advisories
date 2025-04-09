@@ -14,12 +14,6 @@ In addition, the Embassy’s ability to provide assistance to Irish citizens in 
 
 The Department of Justice has issued guidance as to the principles that will be applied by the Irish authorities when considering (i) whether a child is an Irish citizen, and (ii) who the child's legal parents and guardians are, for the purposes of dealing with applications for travel documents on behalf of children born outside the State as a result of surrogacy arrangements. [**The guidelines can be accessed here**.](/688/CITIZENSHIP-PARENTAGE-GUARDIANSHIP-AND-TRAVEL-DOCUMENT.pdf)This is the only guidance that can be given to people considering international surrogacy.
 
-### **COVID-19**
-
-There are still measures in place in Cyprus if a tourist should test positive for COVID-19.
-
-Further information can be found here: [**Covid19 Travel Protocol (visitcyprus.com)**](https://www.visitcyprus.com/index.php/en/news/774-covid19-travel-protocol).
-
 ### **Weather**
 
 Cyprus has an intense Mediterranean climate. Summers are hot and dry from mid-May to mid-September. From November to mid-March winters are rainy and changeable and are separated only by short autumn and spring seasons.
