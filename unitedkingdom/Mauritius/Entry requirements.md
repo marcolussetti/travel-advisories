@@ -33,7 +33,7 @@ For details about health entry requirements and recommended vaccinations see [Tr
 
 ## Travelling from Reunion Island to Mauritius
 
-Following reported cases of Chikungunya in Mauritius, from 9 April if you are travelling from Reunion Island to Mauritius you must produce a negative PCR test for Chikungunya before you travel.  On arrival in Mauritius, you may be asked further questions about your health and recent travel history.
+On arrival in Mauritius, you may be asked further questions about your health and recent travel history, although plans to ask people to show a PCR test for Chikungunya have been postponed.
 
 ## Health screening
 

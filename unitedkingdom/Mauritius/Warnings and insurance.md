@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   9 April 2025
+:   10 April 2025
 
 Updated:
-:   8 April 2025
+:   9 April 2025
 
 Latest update:
-:   From 9 April, passengers travelling from Reunion Island to Mauritius must produce a negative PCR test for Chikungunya before they travel ('Entry requirements' page).
+:   Requirements to show a PCR test for Chikungunya have been postponed (‘Entry requirements’ page).
 
 ## Before you travel
 

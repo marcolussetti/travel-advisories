@@ -1,11 +1,11 @@
 {
     "name": "Thailand",
-    "update_reason": "Removal of information about earthquake in Thailand (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "New information about foreign nationals needing to complete a digital arrival card from 1 May 2025 (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Thailand/Warnings and insurance.md",
-            "update_date": "2025-04-02T09:08:46+01:00"
+            "update_date": "2025-04-09T15:16:27+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Thailand/Getting help.md"
         }
     ],
-    "update_date": "2025-04-02T09:08:46+01:00"
+    "update_date": "2025-04-09T15:16:27+01:00"
 }

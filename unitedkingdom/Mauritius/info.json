@@ -1,11 +1,11 @@
 {
     "name": "Mauritius",
-    "update_reason": "From 9 April, passengers travelling from Reunion Island to Mauritius must produce a negative PCR test for Chikungunya before they travel ('Entry requirements' page).",
+    "update_reason": "Requirements to show a PCR test for Chikungunya have been postponed (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Mauritius/Warnings and insurance.md",
-            "update_date": "2025-04-08T14:34:15+01:00"
+            "update_date": "2025-04-09T16:43:46+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Mauritius/Getting help.md"
         }
     ],
-    "update_date": "2025-04-08T14:34:15+01:00"
+    "update_date": "2025-04-09T16:43:46+01:00"
 }

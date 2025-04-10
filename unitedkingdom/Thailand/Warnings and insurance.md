@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   3 April 2025
+:   10 April 2025
 
 Updated:
-:   2 April 2025
+:   9 April 2025
 
 Latest update:
-:   Removal of information about earthquake in Thailand (‘Warnings and insurance’ page).
+:   New information about foreign nationals needing to complete a digital arrival card from 1 May 2025 (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/6164105ce90e07198018f873/FCDO__TA__040_-_Thailand_Travel_Advice_Ed2__WEB_.jpg)
 

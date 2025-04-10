@@ -24,6 +24,10 @@ You can also apply in advance for a [multiple-entry visa for up to 60 days](http
 
 For work, study or other reasons, you need a [visa before you travel](https://www.thaievisa.go.th/).
 
+### Digital Arrival Card
+
+From 1 May 2025, all foreign nationals entering Thailand, whether by air, land or sea must complete a digital arrival card online before arrival. Travellers can [register for an arrival card](https://tdac.immigration.go.th/) within 3 days before they arrive.
+
 ### Overstaying your visa
 
 If you overstay the period of your visa, you will get a fine of 500 Thai baht a day up to a maximum of 20,000 baht. You risk being:
