@@ -12,25 +12,42 @@ Ambulance services are
 * have emergency equipment and supplies;
 * and are staffed by trained medical personnel.
 
-**The Department of State, U.S. Embassies and U.S. consulates do not pay medical bills.** Be aware that U.S. Medicare/Medicaid does not apply overseas. Taiwan hospitals and doctors do not accept U.S. health insurance.
+**The Department of State, U.S. Embassies and U.S. consulates do not pay medical bills**
 
-**Medical Insurance:**Make sure your health insurance plan provides coverage overseas. Most care providers overseas only accept cash payments. See [our webpage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) for more information on insurance providers for overseas coverage. Visit the [U.S. Centers for Disease Control and Prevention (CDC)](https://wwwnc.cdc.gov/travel/page/insurance) website for more information on type of insurance you should consider before you travel overseas.
+Be aware that U.S. Medicare/Medicaid does not apply overseas. Taiwan hospitals and doctors do not accept U.S. health insurance.
+
+**Medical Insurance**
+
+Make sure your health insurance plan provides coverage overseas. Most care providers overseas only accept cash payments. See [our webpage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) for more information on insurance providers for overseas coverage. Visit the [U.S. Centers for Disease Control and Prevention (CDC)](https://wwwnc.cdc.gov/travel/page/insurance) website for more information on type of insurance you should consider before you travel overseas.
 
 We strongly recommend supplemental insurance to cover medical evacuation.
 
 Always carry your prescription medication in original packaging, along with your doctor’s prescription. Check with the [Taiwan Ministry of Health and Welfare](https://www.mohw.gov.tw/mp-2.html) to ensure the medication is legal in Taiwan.
 
-**Vaccinations:** Be up to date on all routine vaccinations recommended by the [U.S. CDC](https://wwwnc.cdc.gov/travel/destinations/traveler/none/taiwan#vaccines-and-medicines). Vaccinations are available at all major Taiwan hospitals.
+**Vaccinations**
 
-**Dengue Fever:** In recent years, Taiwan has seen cases of dengue fever, a virus common in subtropical regions that is spread through mosquito bites. There is currently no vaccine or medicine to prevent dengue. Travelers can protect themselves by preventing mosquito bites. For information on how to reduce the risk of contracting dengue, please visit [the U.S. CDC website](https://wwwnc.cdc.gov/travel/diseases/dengue).
+Be up to date on all routine vaccinations recommended by the [U.S. CDC](https://wwwnc.cdc.gov/travel/destinations/traveler/none/taiwan#vaccines-and-medicines). Vaccinations are available at all major Taiwan hospitals.
 
-**COVID-19:** MajorTaiwan healthcare facilities have COVID-19 testing capabilities and can administer FDA-approved COVID-19 vaccines.
+**Dengue Fever**
+
+In recent years, Taiwan has seen cases of dengue fever, a virus common in subtropical regions that is spread through mosquito bites. There is currently no vaccine or medicine to prevent dengue. Travelers can protect themselves by preventing mosquito bites. For information on how to reduce the risk of contracting dengue, please visit [the U.S. CDC website](https://wwwnc.cdc.gov/travel/diseases/dengue).
+
+**COVID-19**
+
+MajorTaiwan healthcare facilities have COVID-19 testing capabilities and can administer FDA-approved COVID-19 vaccines.
 
 The American Institute in Taiwan does not endorse or recommend any specific medical provider or clinic.
 
-**Air Quality**: Air pollution can be a significant problem in many destinations overseas. Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in [destination]. For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/). For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/). For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
+**Air Quality**
 
-**For further health information**:
+Air pollution can be a significant problem in many destinations overseas.
+
+* Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in Taiwan.
+* For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/).
+* For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/).
+* For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
+
+**For further health information**
 
 * [World Health Organization (WHO)](https://www.who.int/travel-advice)
 * [U.S. Centers for Disease Control and Prevention (CDC)](https://wwwnc.cdc.gov/travel/)

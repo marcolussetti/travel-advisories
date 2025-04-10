@@ -17,28 +17,41 @@ We highly recommend that all travelers review the U.S. Centers for Disease Contr
   + Travelers with Special Considerations (for example: Allergies, Long-Term Travelers, and Expatriates)
   + General Tips (for example: Traveling with Medications, Travel Vaccines)
 
-**The Department of State, U.S. embassies and U.S. consulates general do not pay medical bills.** Be aware that U.S. Medicare/Medicaid does not apply overseas. Most hospitals and doctors overseas do not accept U.S. health insurance. If you are not a resident of Germany, doctors and hospitals will expect immediate payment in cash.
+**The Department of State, U.S. embassies and U.S. consulates general do not pay medical bills**
 
-**Medical Insurance:** Make sure your health insurance plan provides coverage overseas or purchase travel insurance for this purpose. Most care providers overseas only accept cash payments. See our [webpage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) for more information on insurance coverage overseas. Visit the [U.S. Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/page/insurance) for more information on the type of insurance you should consider before you travel overseas.
+Be aware that U.S. Medicare/Medicaid does not apply overseas. Most hospitals and doctors overseas do not accept U.S. health insurance. If you are not a resident of Germany, doctors and hospitals will expect immediate payment in cash.
+
+**Medical Insurance**
+
+Make sure your health insurance plan provides coverage overseas or purchase travel insurance for this purpose. Most care providers overseas only accept cash payments. See our [webpage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) for more information on insurance coverage overseas. Visit the [U.S. Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/page/insurance) for more information on the type of insurance you should consider before you travel overseas.
 
 The Department of State strongly recommends supplemental insurance to cover medical evacuation.
 
 Always carry your prescription medication in original packaging, along with your doctor’s prescription. Check with the [German Federal Institute for Drugs and Medical Devices](https://www.bfarm.de/EN/Home/_node.html) to ensure the medication is legal in Germany. Also read the information below regarding pharmaceuticals and the documentation required to enter Germany with prescription medication.
 
-**Vaccinations:** Be up to date on all [vaccinations](https://wwwnc.cdc.gov/travel/destinations/list) recommended by the U.S. Centers for Disease Control and Prevention.
+**Vaccinations**
 
-**Further health information:**
+Be up to date on all [vaccinations](https://wwwnc.cdc.gov/travel/destinations/list) recommended by the U.S. Centers for Disease Control and Prevention.
+
+**Further health information**
 
 * [World Health Organization](https://www.who.int/travel-advice)
 * [U.S. Centers for Disease Control and Prevention (CDC)](https://wwwnc.cdc.gov/travel/)
 
-**Air Quality:**Air quality varies considerably and fluctuates with the seasons. It is typically at its worst in the winter. People at the greatest risk from particle pollution exposure include:
+**Air Quality**
+
+Air quality varies considerably and fluctuates with the seasons. It is typically at its worst in the winter. People at the greatest risk from particle pollution exposure include:
 
 * Infants, children, and teens
 * People over 65 years of age
 * People with lung disease such as asthma and chronic obstructive pulmonary disease (COPD), which includes chronic bronchitis and emphysema
 
-Air pollution can be a significant problem in many destinations overseas. Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in [destination]. For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/). For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/). For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
+Air pollution can be a significant problem in many destinations overseas.
+
+* Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in Germany.
+* For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/).
+* For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/).
+* For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
 
 The U.S. Embassy and Consulates General maintain[lists of doctors and medical services in Germany](https://de.usembassy.gov/medical-assistance/#doctor). We do not endorse or recommend any specific medical provider or clinic.
 
@@ -60,4 +73,6 @@ If you are considering traveling overseas to have a child through use of assis
 
 * All surrogacy arrangements, as well as IVF procedures involving the use of donated eggs, are illegal in Germany. For additional information, see [this webpage of the German Foreign Ministry](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/06-leihmutterschaft/606160#:~:text=In%20Deutschland%20sind%20die%20im,sich%20hingegen%20die%20%E2%80%9EWunscheltern%E2%80%9C.) (German language only).
 
-**Adventure Travel:** Visit the U.S. Centers for Disease Control and Prevention website for more information about [Adventure Travel](https://wwwnc.cdc.gov/travel/page/adventure).
+**Adventure Travel**
+
+Visit the U.S. Centers for Disease Control and Prevention website for more information about [Adventure Travel](https://wwwnc.cdc.gov/travel/page/adventure).

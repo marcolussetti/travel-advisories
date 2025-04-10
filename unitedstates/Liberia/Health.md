@@ -16,9 +16,13 @@ You should:
 * Ambulances are not staffed with trained paramedics and often have little or no medical equipment.
 * Injured or seriously ill travelers may prefer to take a taxi or private vehicle to the nearest major hospital rather than wait for an ambulance.
 
-**We do not pay medical bills.** Be aware that U.S. Medicare does not apply overseas.
+**We do not pay medical bills**
 
-**Medical Insurance:** Make sure your health insurance plan provides coverage overseas. Most care providers overseas only accept cash payments. See our webpage for more [information on insurance providers for overseas coverage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/insurance-providers-overseas.html).
+Be aware that U.S. Medicare does not apply overseas.
+
+**Medical Insurance**
+
+Make sure your health insurance plan provides coverage overseas. Most care providers overseas only accept cash payments. See our webpage for more [information on insurance providers for overseas coverage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/insurance-providers-overseas.html).
 
 We strongly recommend [supplemental insurance](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/insurance-providers-overseas.html) to cover medical evacuation.
 
@@ -40,13 +44,22 @@ The following diseases and medical hazards are prevalent:
 * [Snake Bites](https://wwwnc.cdc.gov/travel/yellowbook/2020/noninfectious-health-risks/animal-bites-and-stings-zoonotic-exposures)
 * [Sexually Transmitted Infections](https://wwwnc.cdc.gov/travel/yellowbook/2020/posttravel-evaluation/sexually-transmitted-infections)
 
-**Vaccinations:** Be up-to-date on all [vaccinations](https://wwwnc.cdc.gov/travel/page/traveler-information-center) recommended by the U.S. Centers for Disease Control and Prevention.
+**Vaccinations**
+
+Be up-to-date on all [vaccinations](https://wwwnc.cdc.gov/travel/page/traveler-information-center) recommended by the U.S. Centers for Disease Control and Prevention.
 
 Further health information:
 
 * [World Health Organization](https://www.who.int/travel-advice)
 * [U.S. Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/page/traveler-information-center) (CDC)
 
-**Air Quality:** Air pollution can be a significant problem in many destinations overseas. Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in [destination]. For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/). For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/). For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
+**Air Quality**
+
+Air pollution can be a significant problem in many destinations overseas.
+
+* Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in Liberia.
+* For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/).
+* For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/).
+* For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
 
 The U.S. Embassy maintains a [list of doctors and hospitals](https://lr.usembassy.gov/medical-assistance/). We do not endorse or recommend any specific medical provider or clinic.

@@ -15,24 +15,37 @@ For emergency services in Samoa, dial **911**.
   + Travelers with Special Considerations (for example: Allergies, Long Term Travelers and Expatriates)
   + and General Tips (for example: Traveling with Medications, Travel Vaccines)
 
-**The Department of State, U.S. embassies, and U.S. consulates do not pay medical bills.** Be aware that U.S. Medicare/Medicaid does not provide coverage overseas. Most hospitals and doctors overseas do not accept U.S. health insurance.
+**The Department of State, U.S. embassies, and U.S. consulates do not pay medical bills**
 
-**Medical Insurance:** Make sure your health insurance plan provides coverage overseas. Most care providers overseas only accept cash payments. See [our Insurance Overseas](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) page for more information on insurance overseas. Visit the [U.S. Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/page/insurance) for more information on type of insurance you should consider before you travel overseas.
+e aware that U.S. Medicare/Medicaid does not provide coverage overseas. Most hospitals and doctors overseas do not accept U.S. health insurance.
+
+**Medical Insurance**
+
+Make sure your health insurance plan provides coverage overseas. Most care providers overseas only accept cash payments. See [our Insurance Overseas](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) page for more information on insurance overseas. Visit the [U.S. Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/page/insurance) for more information on type of insurance you should consider before you travel overseas.
 
 We strongly recommend supplemental insurance to cover medical evacuation.
 
 Always carry your prescription medication in original packaging, along with your doctor’s prescription. Check with the [Samoa Ministry of Customs and Revenue](https://www.revenue.gov.ws/customs-procedures/) to ensure the medication is legal in Samoa.
 
-**Vaccinations:** Be up-to-date on all [vaccinations](https://wwwnc.cdc.gov/travel/destinations/list) recommended by the U.S. Centers for Disease Control and Prevention.
+**Vaccinations**
+
+Be up-to-date on all [vaccinations](https://wwwnc.cdc.gov/travel/destinations/list) recommended by the U.S. Centers for Disease Control and Prevention.
 
 In late 2019, Samoa suffered a measles epidemic. Travelers are advised to review their immunity status prior to arrival.
 
-**Further health information:**
+**Further health information**
 
 * [World Health Organization](https://www.who.int/countries)
 * [U.S. Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/) (CDC)
 
-**Air Quality:** Visit [AirNow Department of State](https://www.airnow.gov/international/us-embassies-and-consulates/) for information on air quality at U.S. Embassies and Consulates.
+**Air Quality**
+
+Air pollution can be a significant problem in many destinations overseas.
+
+* Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in Samoa.
+* For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/).
+* For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/).
+* For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
 
 The U.S. Embassy maintains a [list of doctors and hospitals](https://ws.usembassy.gov/medical-assistance/). We do not endorse or recommend any specific medical provider or clinic.
 
@@ -77,6 +90,8 @@ The following diseases are common:
 
 Use the U.S. Centers for Disease Control and Prevention recommended mosquito repellents and sleep under mosquito nets.
 
-**HIV/AIDS:** Only minimal treatment is available in Samoa.
+**HIV/AIDS**
+
+Only minimal treatment is available in Samoa.
 
 Visit the U.S. Centers for Disease Control and Prevention website for more information about [Resources for Travelers](https://wwwnc.cdc.gov/travel/page/traveler-information-center) regarding specific issues in Samoa.

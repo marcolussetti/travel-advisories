@@ -14,7 +14,9 @@ The quality and availability of medical facilities varies. A limited number of d
 * Children’s emergencies are handled at Bratislava’s Children’s University Hospital.
 * Ambulance services are widely available.
 
-**Medical Insurance:**Make sure your health insurance plan provides coverage overseas. Most care providers overseas only accept cash payments. See our [webpage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) for more information on insurance overseas. Visit the [U.S. Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/page/insurance) for more information on type of insurance you should consider before you travel overseas.
+**Medical Insurance**
+
+Make sure your health insurance plan provides coverage overseas. Most care providers overseas only accept cash payments. See our [webpage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) for more information on insurance overseas. Visit the [U.S. Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/page/insurance) for more information on type of insurance you should consider before you travel overseas.
 
 * **Without Slovak health insurance, ambulance service starts at 120 euros per transport**.
 * Be aware that U.S. Medicare does not apply overseas.
@@ -22,7 +24,9 @@ The quality and availability of medical facilities varies. A limited number of d
 * If you **stay longer than 90 days**, you need local health insurance.
 * The tick-borne encephalitis vaccination is recommended. Contact your doctor for more information.
 
-**We do not pay medical bills**. We strongly recommend supplemental insurance to cover medical evacuation.
+**We do not pay medical bills**
+
+We strongly recommend supplemental insurance to cover medical evacuation.
 
 Always carry your prescription medication in its original packaging, along with your doctor’s prescription.  Check with the [Slovak Ministry of Health](https://www.health.gov.sk/Index.aspx) to ensure the medication is legal in Slovakia.
 
@@ -31,9 +35,11 @@ The following disease is prevalent:
 * **Tick-borne encephalitis** (TBE) can result from the bites of ticks commonly found in the bushes and grass of forests in Slovakia at lower and middle elevations. **They are most active from spring to late fall especially in the northern regions of Trencin and Zilina.**Low risk exists throughout the rest of the country. Transmission occurs throughout the year, with highest activity from June through September.
 * Even though the CDC does not explicitly recommend the TBE vaccine, **other official European sources have recommended the TBE vaccine for travelers who plan to stay for extended periods or who plan to camp and stay outdoors.**Vaccines are available through a general practitioner or a pediatrician in Slovakia but are not available in the U.S.
 
-**Vaccinations:**Be up-to-date on all [vaccinations](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Slovakia.html#ExternalPopup) recommended by the U.S. Centers for Disease Control and Prevention.
+**Vaccinations**
 
-**Health facilities in general:**
+Be up-to-date on all [vaccinations](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Slovakia.html#ExternalPopup) recommended by the U.S. Centers for Disease Control and Prevention.
+
+**Health facilities in general**
 
 * Adequate health facilities are available throughout the country.
 * Doctors, hospitals, and ambulance services in Slovakia **expect cash payment** unless the patient can present an insurance number from the [Slovak National Insurance Company](https://www.slovensko.sk/en/life-situation/life-situation/_social-and-health-insurance-fo/)or show proof of private insurance prior to needing medical care.
@@ -67,11 +73,22 @@ Although Slovakia has many elective/cosmetic surgery facilities that are on par 
 * Surrogacy is illegal in Slovakia.
 * Foreigners do not regularly travel to Slovakia for ART services.
 
-**Water Quality:** In Slovakia, tap water is potable. Bottled water and beverages are also safe.
+**Water Quality**
 
-**Air Quality:** Cities in Slovakia have air pollution levels similar to those in major U.S. cities. Levels are generally low during the warm season but sometimes worse than U.S. standards in the cold season. Visit [the European Environment Agency’s website](https://www.eea.europa.eu/themes/air/air-quality-index/index) for information on air quality in Slovakia.
+In Slovakia, tap water is potable. Bottled water and beverages are also safe.
 
-**Further health information:**
+**Air Quality**
+
+Cities in Slovakia have air pollution levels similar to those in major U.S. cities. Levels are generally low during the warm season but sometimes worse than U.S. standards in the cold season. Visit [the European Environment Agency’s website](https://www.eea.europa.eu/themes/air/air-quality-index/index) for information on air quality in Slovakia.
+
+Air pollution can be a significant problem in many destinations overseas.
+
+* Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in Slovakia.
+* For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/).
+* For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/).
+* For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
+
+**Further health information**
 
 * [World Health Organization](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Slovakia.html#ExternalPopup)
 * [U.S. Centers for Disease Control and Prevention](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Slovakia.html#ExternalPopup) (CDC)

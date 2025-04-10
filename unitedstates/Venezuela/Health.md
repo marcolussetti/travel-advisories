@@ -14,20 +14,26 @@ Injured or seriously ill travelers may prefer to take a taxi or private vehicle 
 
 Direct emergency medical evacuation flights between the United States and Venezuela are notpossible.
 
-**We do not pay medical bills.**  Be aware that U.S. Medicare/Medicaid does not apply overseas. Most hospitals and doctors overseas do not accept U.S. health insurance.
+**We do not pay medical bills**
 
-**Medical Insurance:**  Most care providers overseas only accept cash payments. See [our webpage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/insurance-providers-overseas.html) for more information on insurance providers for overseas coverage. Visit the [U.S. Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/page/medical-tourism) for more information on types of insurance you should consider before you travel overseas.
+Be aware that U.S. Medicare/Medicaid does not apply overseas. Most hospitals and doctors overseas do not accept U.S. health insurance.
+
+**Medical Insurance**
+
+Most care providers overseas only accept cash payments. See [our webpage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/insurance-providers-overseas.html) for more information on insurance providers for overseas coverage. Visit the [U.S. Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/page/medical-tourism) for more information on types of insurance you should consider before you travel overseas.
 
 * Make sure your health insurance plan provides coverage overseas. We strongly recommend supplemental insurance to cover medical evacuation.
 * Always carry your prescription medication in original packaging, along with your doctor’s prescription.
 * Before travelling to Venezuela with prescription medications, travelers should research current Customs and Immigration restrictions in place at Venezuelan ports of entry.
 
-**Vaccinations:** You must be up to date on all [vaccinations](https://wwwnc.cdc.gov/travel/destinations/list) recommended by the U.S. Centers for Disease Control and Prevention. A Yellow Fever vaccination is required if coming from or transiting for more than 12 hours through Brazil.
+**Vaccinations**
+
+You must be up to date on all [vaccinations](https://wwwnc.cdc.gov/travel/destinations/list) recommended by the U.S. Centers for Disease Control and Prevention. A Yellow Fever vaccination is required if coming from or transiting for more than 12 hours through Brazil.
 
 * Confirm you have all [vaccinations](https://wwwnc.cdc.gov/travel/destinations/list) recommended by the U.S. Centers for Disease Control and Prevention.
 * Carry your International Certificate of Vaccination (or yellow card) with you upon arrival.
 
-**Health Facilities in General:**
+**Health Facilities in General**
 
 * Do not depend on health care facilities in Venezuela for medical care. Serious medical issues require costly medical evacuation complicated by restrictions on air travel to and from Venezuela. Direct air evacuations to the United States are not possible.
 * Public medical clinics lack basic resources and supplies, including soap and water. In recent years, hospital infrastructure has deteriorated significantly, and medical staff are in short supply. Patients frequently must supply their own water, medication, and medical instruments to receive care.
@@ -38,41 +44,46 @@ Direct emergency medical evacuation flights between the United States and Venezu
 * Patients may be required to bear costs for transfer to or between hospitals.
 * Psychological and psychiatric services are limited, even in the larger cities.
 
-**Medical Tourism and Elective Surgery:**
+**Medical Tourism and Elective Surgery**
 
 * U.S. citizens have suffered serious complications or died during or after having cosmetic or other elective surgery overseas.
 * Visit the [U.S. Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/page/medical-tourism) website for information on medical tourism, the risks of medical tourism, and what you can do to prepare before traveling to Venezuela.
 * We strongly recommend [supplemental insurance](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/insurance-providers-overseas.html) to cover medical evacuation in the event of unforeseen medical complications.
 * Your legal options in case of malpractice are very limited in Venezuela.
 
-**Pharmaceuticals:**
+**Pharmaceuticals**
 
 * Some medical supplies are unavailable in Venezuela, and you should not expect to find all necessary medications in Venezuela. Travelers should carry over the counter and prescription drugs sufficient to cover the entire duration of their trips.
 * Exercise caution when purchasing medication overseas.  Pharmaceuticals, both over the counter and requiring prescription in the United States, are often readily available for purchase with little controls.  Counterfeit medication is common and may prove to be ineffective, the wrong strength, or contain dangerous ingredients.  Medication should be purchased in consultation with a medical professional and from reputable establishments.
 * U.S. Customs and Border Protection and the Food and Drug Administration are responsible for rules governing the transport of medication back to the United States.  Medication purchased abroad must meet their requirements to be legally brought back into the United States.  Medication should be for personal use and must be approved for usage in the United States.  Please visit the [U.S. Customs and Border Protection](https://www.cbp.gov/travel/us-citizens/know-before-you-go/prohibited-and-restricted-items) and the [Food and Drug Administration](https://www.fda.gov/buying-medicine-outside-united-states) websites for more information.
 
-**Assisted Reproductive Technology and Surrogacy :**
+**Assisted Reproductive Technology and Surrogacy**
 
 * There is no legal framework for foreigners or same-sex couples to pursue surrogacy in Venezuela. According to Venezuelan law, the birth mother of a child born in Venezuela is the legal mother. Surrogacy agreements between foreign or same sex intending parents and gestational mothers are not enforced by Venezuelan courts.
 
 * If you decide to pursue parenthood in Venezuela via assisted reproductive technology (ART) with a gestational mother, be prepared for long and unexpected delays in documenting your child’s citizenship. Be aware that individuals who attempt to circumvent local law risk criminal prosecution.
 * If you are considering traveling to Venezuela to have a child through use of assisted reproductive technology (ART) or surrogacy, please see our [ART and Surrogacy Abroad page](https://travel.state.gov/content/travel/en/legal/travel-legal-considerations/us-citizenship/Assisted-Reproductive-Technology-ART-Surrogacy-Abroad.html).
 
-**Water Quality:**
+**Water Quality**
 
 * Tap water is not potable, even in major cities. Bottled water and beverages are generally safe, although you should be aware that many restaurants and hotels serve tap water unless bottled water is specifically requested.  Be aware that ice for drinks may be made using tap water.
 * Expect frequent shortages in running water.
 * Gastrointestinal illnesses such as severe diarrhea are common throughout the country.
 
-**Air Quality:**
+**Air Quality**
 
-Air pollution can be a significant problem in many destinations overseas. Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in [destination]. For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/). For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/). For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
+Air pollution can be a significant problem in many destinations overseas.
 
-**Adventure Travel** :
+* Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in Venezuela.
+* For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/).
+* For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/).
+* For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
+
+**Adventure Travel**
 
 * Visit the U.S. Centers for Disease Control and Prevention website for more information about [Adventure Travel](https://wwwnc.cdc.gov/travel/page/adventure).
 
-**General Health:**
+**General Health**
 
 The following diseases are prevalent:
 

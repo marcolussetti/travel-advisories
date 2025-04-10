@@ -13,9 +13,13 @@ For emergency services in Zambia, dial 999 for General Emergency, 991 for Police
 * not staffed with trained paramedics and often have little or no medical equipment.
 * Injured or seriously ill travelers may prefer to take a taxi or private vehicle to the nearest major hospital rather than wait for an ambulance.
 
-**We do not pay medical bills.** Be aware that U.S. Medicare does not apply overseas.
+**We do not pay medical bills**
 
-**Medical Insurance:** Make sure your health insurance plan provides coverage overseas. Most care providers overseas only accept cash payments. See our [webpage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) for more information on insurance overseas. Visit the [U.S. Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/page/insurance) for more information on type of insurance you should consider before you travel overseas.
+Be aware that U.S. Medicare does not apply overseas.
+
+**Medical Insurance**
+
+Make sure your health insurance plan provides coverage overseas. Most care providers overseas only accept cash payments. See our [webpage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) for more information on insurance overseas. Visit the [U.S. Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/page/insurance) for more information on type of insurance you should consider before you travel overseas.
 
 We strongly recommend [supplemental insurance](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) to cover medical evacuation.
 
@@ -44,20 +48,31 @@ The following diseases are prevalent:
 
 Use the U.S. Centers for Disease Control and Prevention recommended mosquito repellents and sleep under insecticide-impregnated mosquito nets.  Chemoprophylaxis is recommended for all travelers even for short stays.
 
-**HIV/AIDS**: Zambia has a very high burden of HIV. Travelers are generally at low risk for getting HIV but certain practices such as having unprotected sex or sharing needles with people who are or might be infected with HIV can significantly increase the risk of HIV transmission.  For more information on what you can do before and during travel to prevent HIV infection please visit the U.S. Centers for Disease Control and Prevention [website.](https://wwwnc.cdc.gov/travel/diseases/hiv)
+**HIV/AIDS**
+
+Zambia has a very high burden of HIV. Travelers are generally at low risk for getting HIV but certain practices such as having unprotected sex or sharing needles with people who are or might be infected with HIV can significantly increase the risk of HIV transmission.  For more information on what you can do before and during travel to prevent HIV infection please visit the U.S. Centers for Disease Control and Prevention [website.](https://wwwnc.cdc.gov/travel/diseases/hiv)
 
 There are shortages of medicine and medical supplies throughout Zambia.
 
 Visit the U.S. Centers for Disease Control and Prevention website for more information about [Resources for Travelers](https://wwwnc.cdc.gov/travel/page/traveler-information-center) regarding specific issues in Zambia.
 
-**Vaccinations:** Be up-to-date on all [vaccinations](https://wwwnc.cdc.gov/travel/destinations/list)recommended by the U.S. Centers for Disease Control and Prevention.
+**Vaccinations**
 
-**Further health information:**
+Be up-to-date on all [vaccinations](https://wwwnc.cdc.gov/travel/destinations/list)recommended by the U.S. Centers for Disease Control and Prevention.
+
+**Further health information**
 
 * [World Health Organization](https://www.who.int/travel-advice)
 * [U.S. Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/)(CDC)
 
-**Air Quality:** Air pollution can be a significant problem in many destinations overseas. Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in [destination]. For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/). For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/). For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
+**Air Quality**
+
+Air pollution can be a significant problem in many destinations overseas.
+
+* Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in Zambia.
+* For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/).
+* For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/).
+* For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
 
 The U.S. Embassy maintains a list of doctors and hospitals [here](https://zm.usembassy.gov/services/) under "local resources." We do not endorse or recommend any specific medical provider or clinic.
 

@@ -72,7 +72,7 @@ The U.S. Centers for Disease Control and Prevention recommend mosquito repellent
 
 **HIV/AIDS:**Data from UNAIDS Spectrum Estimates in February 2023 shows that Côte d’Ivoire has an HIV prevalence rate of 1.8 percent for 15- to 64-year-olds. The rates are higher for female sex workers, and men who have sex with men: 23.6 percent, 18.54 percent, and 13.33 percent. Annually, there are approximately 7,700 new HIV infections (300 among children) and 10,300 AIDS-related deaths in Côte d’Ivoire.
 
-**Air Quality:**
+**Air Quality**
 
 * Air pollution is a significant problem in several major cities in Côte d’Ivoire. Consider the impact of seasonal smog and heavy particulate pollution on you. Consult with your doctor before traveling if needed.
 * The air quality varies considerably and fluctuates with the seasons. It is worst during the harmattan season. This is a very dry time in West Africa when winds blow sand and dust from the Sahara Desert. It lasts from December to February. People at the greatest risk from particle pollution exposure include:
@@ -82,4 +82,9 @@ The U.S. Centers for Disease Control and Prevention recommend mosquito repellent
   + People with heart disease or diabetes.
   + People who work or are active outdoors.
 
-Air pollution can be a significant problem in many destinations overseas. Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in [destination]. For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/). For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/). For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
+Air pollution can be a significant problem in many destinations overseas.
+
+* Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in Côte d’Ivoire .
+* For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/).
+* For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/).
+* For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.

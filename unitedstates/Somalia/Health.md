@@ -8,24 +8,37 @@ Medical care and services are extremely limited. Medicines are in short supply, 
 
 Ambulance services are not present or are unreliable in most areas except Mogadishu. Somalia Red Crescent Society services may be available in some areas in case of disasters/emergency.
 
-**We do not pay medical bills.** Be aware that U.S. Medicare/Medicaid does not apply overseas. Most hospitals and doctors overseas do not accept U.S. health insurance.
+**We do not pay medical bills**
 
-**Medical Insurance:** Make sure your health insurance plan provides coverage overseas. Most care providers overseas only accept cash payments. See [our webpage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) for more information on insurance overseas. Visit the [U.S. Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/page/insurance) for more information on the type of insurance you should consider before you travel overseas.
+Be aware that U.S. Medicare/Medicaid does not apply overseas. Most hospitals and doctors overseas do not accept U.S. health insurance.
+
+**Medical Insurance**
+
+Make sure your health insurance plan provides coverage overseas. Most care providers overseas only accept cash payments. See [our webpage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) for more information on insurance overseas. Visit the [U.S. Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/page/insurance) for more information on the type of insurance you should consider before you travel overseas.
 
 We strongly recommend [supplemental insurance](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) to cover medical evacuation. Medical evacuation services in Somalia are extremely limited, and services responding from outside of the country will take more than six hours to respond.
 
 Always carry your prescription medication in original packaging, along with your doctor’s prescription. Check with the Somali [Ministry of Health](https://moh.gov.so/en/) to ensure the medication is legal in Somalia.
 
-**Vaccinations:** Be up to date on all [vaccinations](http://wwwnc.cdc.gov/travel/page/vaccinations.htm) recommended by the U.S. Centers for Disease Control and Prevention.
+**Vaccinations**
+
+Be up to date on all [vaccinations](http://wwwnc.cdc.gov/travel/page/vaccinations.htm) recommended by the U.S. Centers for Disease Control and Prevention.
 
 If you will be in Somalia for more than four weeks, the Somali government may require you to show proof of polio vaccination when you are exiting the country. If you were vaccinated against polio as a child but have never had a polio booster dose as an adult, or if you were not completely vaccinated as a child/do not know your vaccination status, talk to your doctor about getting vaccinated. To meet this requirement while in Somalia, you should receive a polio vaccine between 4 weeks and 12 months before the date you are leaving Somalia. Talk to your doctor about whether this requirement applies to you.
 
-**Further health information:**
+**Further health information**
 
 * [World Health Organization](https://www.who.int/countries)
 * [U.S. Centers for Disease Control and Prevention](http://wwwnc.cdc.gov/travel/)
 
-**Air Quality:** Air pollution can be a significant problem in many destinations overseas. Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in [destination]. For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/). For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/). For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
+**Air Quality**
+
+Air pollution can be a significant problem in many destinations overseas.
+
+* Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in Somalia.
+* For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/).
+* For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/).
+* For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
 
 **Health facilities in general**
 

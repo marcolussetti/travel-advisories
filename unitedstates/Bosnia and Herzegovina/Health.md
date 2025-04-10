@@ -42,7 +42,9 @@ Always carry your prescription medication in original packaging, along with your
 
 [U.S. Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/) (CDC)
 
-**Air Quality**: Air pollution is a significant problem in most cities in BiH. Consider the impact seasonal smog and heavy particulate pollution may have on you and consult your doctor before traveling if necessary.
+**Air Quality**
+
+Air pollution is a significant problem in most cities in BiH. Consider the impact seasonal smog and heavy particulate pollution may have on you and consult your doctor before traveling if necessary.
 
 The air quality varies considerably and fluctuates by season. It is at its worst in the winter. People at the greatest risk from particle pollution exposure are:
 
@@ -52,7 +54,12 @@ The air quality varies considerably and fluctuates by season. It is at its worst
 * People with heart disease or diabetes
 * People who work or are active outdoors
 
-Air pollution can be a significant problem in many destinations overseas. Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in [destination]. For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/). For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/). For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
+Air pollution can be a significant problem in many destinations overseas.
+
+* Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in BiH.
+* For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/).
+* For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/).
+* For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
 
 **Water Quality & Food Safety**
 

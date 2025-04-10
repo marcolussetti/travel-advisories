@@ -26,7 +26,9 @@ We strongly recommend [supplemental medical insurance with medical evacuation c
 
 **Vaccinations**: Be up-to-date on all [vaccinations](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/DemocraticRepublicoftheCongoDRC.html#ExternalPopup) recommended by U.S. Centers for Disease Control and Prevention.
 
-**Air Quality**: During the dry season (November-April), dust storms may diminish air quality.
+**Air Quality**
+
+During the dry season (November-April), dust storms may diminish air quality.
 
 Air pollution is a significant problem in several major cities in Chad. Consider the impact seasonal smog and heavy particulate pollution may have on you and consult your doctor before traveling if necessary.
 
@@ -38,7 +40,12 @@ The air quality varies considerably and fluctuates with the seasons. It is typic
 * People with heart disease or diabetes
 * People who work or are active outdoors
 
-Air pollution can be a significant problem in many destinations overseas. Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in [destination]. For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/). For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/). For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
+Air pollution can be a significant problem in many destinations overseas.
+
+* Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in Chad.
+* For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/).
+* For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/).
+* For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
 
 **Health facilities in general:**
 

@@ -17,24 +17,30 @@ Ambulance services are:
 * not equipped with state-of-the-art medical equipment.
 * Injured or seriously ill travelers may prefer to take a taxi or private vehicle to the nearest major hospital rather than wait for an ambulance.
 
-**We do not pay medical bills:**Be aware that U.S. Medicare/Medicaid does not apply overseas.  Most hospitals and doctors overseas do not accept U.S. health insurance.
+**We do not pay medical bills**
 
-**Medical Insurance:**Make sure your health insurance plan provides coverage overseas.  Most care providers overseas only accept cash payments. See [our webpage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) for more information on insurance coverage overseas. Visit the [U.S. Centers for Disease Control and Prevention](https://www.cdc.gov/) for more information on type of insurance you should consider before you travel overseas.
+Be aware that U.S. Medicare/Medicaid does not apply overseas.  Most hospitals and doctors overseas do not accept U.S. health insurance.
+
+**Medical Insurance**
+
+Make sure your health insurance plan provides coverage overseas.  Most care providers overseas only accept cash payments. See [our webpage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) for more information on insurance coverage overseas. Visit the [U.S. Centers for Disease Control and Prevention](https://www.cdc.gov/) for more information on type of insurance you should consider before you travel overseas.
 
 We strongly recommend [supplemental insurance](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) to cover medical evacuation as well.
 
 Always carry your prescription medication in original packaging, along with your doctor’s prescription.  Check the [Mexican government’s Drug Schedule](http://www.csg.gob.mx/descargas/pdf/priorizacion/cuadro-basico/med/catalogo/2016/EDICION_2016_MEDICAMENTOS.pdf) to ensure the medication is legal in Mexico.
 
-**Vaccinations:**Be up-to-date on all [vaccinations](https://wwwnc.cdc.gov/travel/destinations/list) recommended by the U.S. Centers for Disease Control and Prevention.
+**Vaccinations**
 
-**Further health information**:
+Be up-to-date on all [vaccinations](https://wwwnc.cdc.gov/travel/destinations/list) recommended by the U.S. Centers for Disease Control and Prevention.
+
+**Further health information**
 
 * [World Health Organization](https://www.who.int/travel-advice)
 * [U.S. Centers for Disease Control and Prevention (](https://www.cdc.gov/)CDC)
 
 The U.S. Embassy maintains a [list of doctors and hospitals](https://mx.usembassy.gov/medical-practitioners/).  We do not endorse or recommend any specific medical provider or clinic.
 
-**Medical Tourism and Elective Surgery:**
+**Medical Tourism and Elective Surgery**
 
 * U.S. citizens have suffered serious complications or died during or after having cosmetic or other elective surgery.
 * Medical tourism is a rapidly growing industry. People seeking health care overseas should understand that medical systems operate differently from those in the United States and are not subject to the same rules and regulations.  Anyone interested in traveling for medical purposes should consult with their local physician before traveling and visit the [U.S. Centers for Disease Control and Prevention](https://www.cdc.gov/) website for more information on Medical Tourism.
@@ -64,11 +70,11 @@ The U.S. Embassy maintains a [list of doctors and hospitals](https://mx.usembass
 
 * Many hotels and other lodgings are not equipped with carbon monoxide detectors, even if they contain sources of this potentially lethal gas. U.S. citizens have died as a result of carbon monoxide poisoning throughout Mexico. If your lodging is not equipped with a carbon monoxide detector, consider traveling with a portable one.
 
-**Water Quality:**
+**Water Quality**
 
 * In many areas in Mexico, tap water is not potable. Bottled water and beverages are safe, although you should be aware that many restaurants and hotels serve tap water unless bottled water is specifically requested. Be aware that ice for drinks might be made using tap water.
 
-**Altitude:**
+**Altitude**
 
 * Many cities in Mexico, such as Mexico City, are at high altitude, which can lead to altitude illness. Visit the U.S. Centers for Disease Control and Prevention website for more information about [Travel to High Altitudes](https://wwwnc.cdc.gov/travel/page/travel-to-high-altitudes).
 
@@ -96,14 +102,19 @@ The following diseases are prevalent:
 
 * Air pollution is a significant problem in several major cities in Mexico. Consider the impact seasonal smog and heavy particulate pollution may have on you and consult your doctor before traveling if necessary.
 
-Air pollution can be a significant problem in many destinations overseas. Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in [destination]. For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/). For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/). For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
+Air pollution can be a significant problem in many destinations overseas.
+
+* Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in Mexico.
+* For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/).
+* For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/).
+* For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
 
 For further health information, go to:
 
 * [World Health Organization](https://www.who.int/)
 * [U.S. Centers for Disease Control and Prevention](https://www.cdc.gov/) (CDC)
 
-**Private Residential Treatment Facilities:**
+**Private Residential Treatment Facilities**
 
 * These facilities provide care to U.S. citizens throughout Mexico and include child behavior modification facilities, rehabilitation facilities, and assisted living centers.
 * There is a wide range in standards for education, safety, health, sanitation, immigration, and residency.  Staff licensing may not be strictly enforced or meet the standards of similar facilities in the United States.

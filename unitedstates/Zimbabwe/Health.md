@@ -23,9 +23,13 @@ Injured or seriously ill travelers may prefer to take a taxi or private vehicle 
 
 The power supply in Zimbabwe is 220 volt 50 Hz and unreliable. Travelers who use electrical medical devices should consider alternatives and verify with lodging accommodations that your needs can be met.
 
-**We do not pay medical bills.** Be aware that U.S. Medicare does not apply overseas. Most hospitals and doctors overseas do not accept U.S. health insurance.
+**We do not pay medical bills**
 
-**Medical Insurance:** Make sure your health insurance plan provides coverage overseas. Most care providers overseas only accept cash payments. See our [webpage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) for more information on insurance overseas.
+Be aware that U.S. Medicare does not apply overseas. Most hospitals and doctors overseas do not accept U.S. health insurance.
+
+**Medical Insurance**
+
+Make sure your health insurance plan provides coverage overseas. Most care providers overseas only accept cash payments. See our [webpage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) for more information on insurance overseas.
 
 We strongly recommend [supplemental insurance](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) to cover medical evacuation.
 
@@ -55,14 +59,18 @@ The following disease are prevalent:
 * [Hantavirus](https://wwwnc.cdc.gov/travel/diseases/hantavirus)
 * [Tuberculosis (TB)](https://wwwnc.cdc.gov/travel/diseases/tuberculosis)
 
-**Vaccinations**: Be up-to-date on all [vaccinations recommended by](https://wwwnc.cdc.gov/travel/destinations/traveler/none/zimbabwe#vaccines-and-medicines)the U.S. Centers for Disease Control and Prevention.
+**Vaccinations**
 
-**Further health information:**
+Be up-to-date on all [vaccinations recommended by](https://wwwnc.cdc.gov/travel/destinations/traveler/none/zimbabwe#vaccines-and-medicines)the U.S. Centers for Disease Control and Prevention.
+
+**Further health information**
 
 * [World Health Organization](https://www.who.int/)
 * [U.S. Centers for Disease Control and Prevention (CDC)](https://wwwnc.cdc.gov/travel/destinations/traveler/none/zimbabwe)
 
-**Air Quality:** The air quality varies considerably and fluctuates with the seasons. It is typically at its worst in the southern hemisphere winter. People at the greatest risk from particle pollution exposure include:
+**Air Quality**
+
+The air quality varies considerably and fluctuates with the seasons. It is typically at its worst in the southern hemisphere winter. People at the greatest risk from particle pollution exposure include:
 
 * Infants, children, and teens
 * People over 65 years of age
@@ -70,9 +78,14 @@ The following disease are prevalent:
 * People with heart disease or diabetes
 * People who work or are active outdoors
 
-Air pollution can be a significant problem in many destinations overseas. Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in [destination]. For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/). For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/). For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
+Air pollution can be a significant problem in many destinations overseas.
 
-**Health facilities in general:**
+* Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in Zimbabwe.
+* For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/).
+* For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/).
+* For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
+
+**Health facilities in general**
 
 * Public medical clinics lack basic resources and supplies. Private medical facilities in Harare, Bulawayo, and the tourist area of Victoria Falls can stabilize patients in emergencies.
 * Hospitals and doctors normally require payment “up front” prior to service or admission. Credit card payment is not available. Most hospitals and medical professionals require cash payment.

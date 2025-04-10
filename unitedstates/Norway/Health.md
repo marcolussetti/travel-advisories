@@ -4,13 +4,19 @@
 
 Medical facilities are widely available and of high quality but may be limited outside larger urban areas. The remote and sparse populations in northern Norway and the dependence on ferries to cross fjords of western Norway may affect transportation and ready access to medical facilities. The U.S. Embassy in Oslo maintains a [list of emergency medical and dental clinics](https://no.usembassy.gov/medical-assistance-2/) in major cities.
 
-**We do not pay medical bills.**Be aware that U.S. Medicare does not apply overseas.
+**We do not pay medical bills.**
 
-**Medical Insurance:**Make sure your health insurance plan provides coverage overseas. Most care providers overseas only accept cash payments. See our [webpage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) for more information on overseas coverage. Visit the [U.S. Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/page/insurance) for more information on type of insurance you should consider before you travel overseas.
+Be aware that U.S. Medicare does not apply overseas.
+
+**Medical Insurance:**
+
+Make sure your health insurance plan provides coverage overseas. Most care providers overseas only accept cash payments. See our [webpage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) for more information on overseas coverage. Visit the [U.S. Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/page/insurance) for more information on type of insurance you should consider before you travel overseas.
 
 We strongly recommend [supplemental insurance](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) to cover medical evacuation.
 
-**Vaccinations:**Be up-to-date on all [vaccinations](http://wwwnc.cdc.gov/travel/page/vaccinations.htm) recommended by the U.S. Centers for Disease Control and Prevention.
+**Vaccinations**
+
+Be up-to-date on all [vaccinations](http://wwwnc.cdc.gov/travel/page/vaccinations.htm) recommended by the U.S. Centers for Disease Control and Prevention.
 
 Further health information:
 
@@ -19,9 +25,16 @@ Further health information:
 
 Ambulance services are widely available.
 
-**Air Quality:** Air pollution can be a significant problem in many destinations overseas. Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in [destination]. For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/). For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/). For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
+**Air Quality**
 
-**Health facilities in general:**
+Air pollution can be a significant problem in many destinations overseas.
+
+* Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in Norway.
+* For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/).
+* For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/).
+* For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
+
+**Health facilities in general**
 
 * The U.S. Embassy maintains a list of [doctors and hospitals](https://no.usembassy.gov/medical-assistance-2/). We do not endorse or recommend any specific medical provider or clinic.
 * Adequate health facilities are available throughout the country, but health care in rural areas may be below U.S. standards.

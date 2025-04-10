@@ -19,9 +19,13 @@ We highly recommend that all travelers review the U.S. Centers for Disease Contr
 
 Private medical facilities are good in urban areas and in the vicinity of game parks but limited elsewhere. Private medical facilities require a deposit before admitting patients. Pharmacies are well-stocked, but you should carry an adequate supply of prescription medication in original packaging, along with your doctor’s prescription. HIV and AIDS is a major public health concern.
 
-**The Department of State, U.S. embassies and U.S. consulates do not pay medical bills.** Be aware that U.S. Medicare/Medicaid does not apply overseas. Most hospitals and doctors overseas do not accept U.S. health insurance.
+**The Department of State, U.S. embassies and U.S. consulates do not pay medical bills**
 
-**Medical Insurance:**Make sure your health insurance plan provides coverage overseas. Private medical facilities will require payment before care is administered. See [insurance providers for overseas coverage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html). Visit the [U.S. Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/page/insurance)for more information on type of insurance you should consider before you travel overseas. for more information on type of insurance you should consider before you travel overseas.
+Be aware that U.S. Medicare/Medicaid does not apply overseas. Most hospitals and doctors overseas do not accept U.S. health insurance.
+
+**Medical Insurance**
+
+Make sure your health insurance plan provides coverage overseas. Private medical facilities will require payment before care is administered. See [insurance providers for overseas coverage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html). Visit the [U.S. Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/page/insurance)for more information on type of insurance you should consider before you travel overseas. for more information on type of insurance you should consider before you travel overseas.
 
 If your health insurance plan does not provide coverage overseas, we strongly recommend your [Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html).
 
@@ -46,14 +50,18 @@ The following diseases are prevalent:
 * [Hantavirus](https://wwwnc.cdc.gov/travel/diseases/hantavirus)
 * [Tuberculosis (TB)](https://wwwnc.cdc.gov/travel/diseases/tuberculosis)
 
-**Vaccinations:** Be up to date on [vaccinations](https://wwwnc.cdc.gov/travel/destinations/list) recommended by the U.S. Centers for Disease Control and Prevention.
+**Vaccinations**
 
-**For further health information:**
+Be up to date on [vaccinations](https://wwwnc.cdc.gov/travel/destinations/list) recommended by the U.S. Centers for Disease Control and Prevention.
+
+**For further health information**
 
 * [World Health Organization](https://www.who.int/travel-advice)
 * [U.S. Centers for Disease Control and Prevention (CDC)](https://wwwnc.cdc.gov/travel/)
 
-**Air Quality:** Air pollution is a significant problem in several major cities in South Africa. Consider the impact seasonal smog and heavy particulate pollution may have on you and consult your doctor before traveling if necessary.
+**Air Quality**
+
+Air pollution is a significant problem in several major cities in South Africa. Consider the impact seasonal smog and heavy particulate pollution may have on you and consult your doctor before traveling if necessary.
 
 The air quality varies considerably and fluctuates with the seasons. It is typically at its worst in the Winter (Southern Hemisphere). People at the greatest risk from particle pollution exposure include:
 
@@ -67,7 +75,12 @@ The air quality varies considerably and fluctuates with the seasons. It is typic
 * Public medical clinics lack basic resources and supplies.
 * Hospitals and doctors often require payment “up front” prior to service or admission. Credit card payment is not always available. Most hospitals and medical professionals require cash payment.
 
-Air pollution can be a significant problem in many destinations overseas. Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in [destination]. For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/). For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/). For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
+Air pollution can be a significant problem in many destinations overseas.
+
+* Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in South Africa.
+* For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/).
+* For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/).
+* For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
 
 **Medical Tourism and Elective Surgery**
 

@@ -4,11 +4,11 @@
 
 PASSPORT VALIDITY:
 
-6 months.
+Six months beyond arrival date.
 
 BLANK PASSPORT PAGES:
 
-1 page per stamp.
+One page per stamp.
 
 TOURIST VISA REQUIRED:
 

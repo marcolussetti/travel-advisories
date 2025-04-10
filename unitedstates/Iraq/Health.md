@@ -20,11 +20,15 @@ See our [Health Abroad page](https://travel.state.gov/content/travel/en/internat
   + Travelers with Special Considerations (for example: Allergies, Long-Term Travelers and Expatriates)
   + General Tips (for example: Traveling with Medications, Travel Vaccines)
 
-**The Department of State, U.S. embassies and U.S. consulates do not pay medical bills.** Be aware that U.S. Medicare/Medicaid does not apply overseas. Most hospitals and doctors overseas do not accept U.S. health insurance.
+**The Department of State, U.S. embassies and U.S. consulates do not pay medical bills**
+
+Be aware that U.S. Medicare/Medicaid does not apply overseas. Most hospitals and doctors overseas do not accept U.S. health insurance.
 
 The U.S. Embassy maintains a [list of doctors and hospitals](https://iq.usembassy.gov/medical-information-for-american-citizens/). We do not endorse or recommend any specific medical provider.
 
-**Medical Insurance:** Make sure your health insurance plan provides coverage overseas. Most care providers overseas only accept cash payments.
+**Medical Insurance**
+
+Make sure your health insurance plan provides coverage overseas. Most care providers overseas only accept cash payments.
 
 See our [Insurance Overseas page](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html?cq_ck=1708701048867) for more information on insurance providers with overseas coverage.
 
@@ -34,7 +38,9 @@ Visit the U.S. Centers for Disease Control and Prevention [Travel Insurance page
 
 Always carry your prescription medication in original packaging, along with your doctor’s prescription.
 
-**Vaccinations:** Be up to date on all [vaccinations](https://wwwnc.cdc.gov/travel/destinations/list) recommended by the U.S. Centers for Disease Control and Prevention.
+**Vaccinations**
+
+Be up to date on all [vaccinations](https://wwwnc.cdc.gov/travel/destinations/list) recommended by the U.S. Centers for Disease Control and Prevention.
 
 Further health information:
 
@@ -42,14 +48,21 @@ Further health information:
 
 ·        U.S. Centers for Disease Control and Prevention (CDC) [Travelers’ Health page](https://wwwnc.cdc.gov/travel/destinations/list)
 
-**Air Quality:** Air pollution is a significant problem in several major cities in Iraq. Consider the impact seasonal smog and heavy particulate pollution may have on you. Consult your doctor before traveling if necessary.
+**Air Quality**
+
+Air pollution is a significant problem in several major cities in Iraq. Consider the impact seasonal smog and heavy particulate pollution may have on you. Consult your doctor before traveling if necessary.
 
 People at the greatest risk from particle pollution exposure include:
 
 * Infants, children, teens, and older adults.
 * People with heart disease and lung diseases such as asthma, chronic obstructive pulmonary disease (COPD), chronic bronchitis, or emphysema.
 
-Air pollution can be a significant problem in many destinations overseas. Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast "Original URL: https://aeronet.gsfc.nasa.gov/new_web/aeronet_aq/. Click or tap if you trust this link."), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in Iraq. For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/). For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/). For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
+Air pollution can be a significant problem in many destinations overseas.
+
+* Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast "Original URL: https://aeronet.gsfc.nasa.gov/new_web/aeronet_aq/. Click or tap if you trust this link."), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in Iraq.
+* For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/).
+* For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/).
+* For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
 
 **Water Quality & Food Safety**
 

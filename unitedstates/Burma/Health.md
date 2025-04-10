@@ -4,7 +4,7 @@
 
 **For emergency services in Burma, dial 119.**
 
-**COVID-19 Testing:**
+**COVID-19 Testing**
 
 Testing is available at the following locations:
 
@@ -14,7 +14,9 @@ Testing is available at the following locations:
 * Samitivej International Clinic: located in Rangoon at 9E/2 Kabar Aye Pagoda Road, Mayangone Township. Telephone numbers: 01 656 732 / 01 660 545 / 09 42427 4301
 * International SOS Clinic: located in Rangon at Inya Lake Hotel, 37 Kaba Aye Pagoda Road.  Email: [reception.ygn@internationalsos.com](mailto:reception.ygn@internationalsos.com)
 
-**COVID-19 Vaccines:**The COVID-19 vaccine is available for U.S. citizens to receive in Burma. Some private clinics in Burma offer COVID-19 vaccination programs, including booster shots.  American citizens in Burma seeking vaccination should contact private clinics directly for more information.  The Embassy shares this information as a courtesy but does not endorse or recommend any specific vaccination program in Burma.
+**COVID-19 Vaccines**
+
+The COVID-19 vaccine is available for U.S. citizens to receive in Burma. Some private clinics in Burma offer COVID-19 vaccination programs, including booster shots.  American citizens in Burma seeking vaccination should contact private clinics directly for more information.  The Embassy shares this information as a courtesy but does not endorse or recommend any specific vaccination program in Burma.
 
 * International SOS Clinic: located in Rangon at Inya Lake Hotel, 37 Kaba Aye Pagoda Road.  Email: [reception.ygn@internationalsos.com](mailto:reception.ygn@internationalsos.com)
 * Grand Hantha International Hospital: located in Rangoon at No.3, Corner of Lower Kyee Myin Daing Kanner Road and Narnattaw.  Email: [info@grandhantha.com](mailto:info@grandhantha.com).
@@ -32,19 +34,32 @@ Most medical facilities in Burma are inadequate for routine medical care. If you
 
 U.S. citizens needing urgent medical care have been denied treatment at public hospitals due to a lack of funds. **In an emergency, you would likely need to be medically evacuated to a hospital outside Burma**. Medical evacuation from Burma is expensive and is most often transacted in cash, therefore medical evacuation insurance is advised.
 
-**We do not pay medical bills.** Be aware that U.S. Medicare/Medicaid does not apply overseas. Most hospitals and doctors overseas do not accept U.S. health insurance.
+**We do not pay medical bills**
 
-**Medical Insurance:** Make sure your health insurance plan provides coverage overseas. Most care providers overseas only accept cash payments. See our [webpage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) for more information on insurance coverage overseas. Visit the [U.S. Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/page/insurance) for more information on type of insurance you should consider before you travel overseas.
+Be aware that U.S. Medicare/Medicaid does not apply overseas. Most hospitals and doctors overseas do not accept U.S. health insurance.
+
+**Medical Insurance**
+
+Make sure your health insurance plan provides coverage overseas. Most care providers overseas only accept cash payments. See our [webpage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) for more information on insurance coverage overseas. Visit the [U.S. Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/page/insurance) for more information on type of insurance you should consider before you travel overseas.
 
 We strongly recommend [supplemental insurance](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) to cover medical evacuation (see above).
 
-**Medication:** Many pharmaceuticals on sale in Burma are counterfeit or adulterated, or may not be available. Travelers should consider Burmese pharmaceuticals generally unsafe to use and should bring their own medications for the duration of their stay in Burma.
+**Medication**
+
+Many pharmaceuticals on sale in Burma are counterfeit or adulterated, or may not be available. Travelers should consider Burmese pharmaceuticals generally unsafe to use and should bring their own medications for the duration of their stay in Burma.
 
 If traveling with prescription medication, check with [these authorities](http://www.mewashingtondc.org/) to ensure that the medication is legal in Burma.  Always carry your prescription medication in original packaging with your doctor’s prescription.
 
-**Air Quality:**Air pollution can be a significant problem in many destinations overseas. Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in [destination]. For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/). For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/). For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
+**Air Quality**
 
-**Further health information:**
+Air pollution can be a significant problem in many destinations overseas.
+
+* Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in Burma (Myanmar).
+* For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/).
+* For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/).
+* For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
+
+**Further health information**
 
 * [World Health Organization](http://www.searo.who.int/myanmar/en/)
 * [U.S. Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/destinations/clinician/none/burma)(CDC)

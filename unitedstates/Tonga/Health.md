@@ -10,24 +10,37 @@ Ambulance services are:
 * not staffed with trained paramedics and often have little or no medical equipment.
 * Injured or seriously ill travelers may prefer to take a taxi or private vehicle to the nearest major hospital rather than wait for an ambulance.
 
-**The Department of State, U.S. embassies and U.S. consulates do not pay medical bills.**  Be aware that U.S. Medicare/Medicaid does not apply overseas. Most hospitals and doctors overseas do not accept U.S. health insurance.
+**The Department of State, U.S. embassies and U.S. consulates do not pay medical bills**
 
-**Medical Insurance:**  Make sure your health insurance plan provides coverage overseas.  Most care providers overseas only accept cash payments.  See [our webpage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/insurance-providers-overseas.html) for more information on insurance providers for overseas coverage.  Visit the [U.S. Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/destinations/traveler/none/tonga) for more information on type of insurance you should consider before you travel overseas.
+Be aware that U.S. Medicare/Medicaid does not apply overseas. Most hospitals and doctors overseas do not accept U.S. health insurance.
+
+**Medical Insurance**
+
+Make sure your health insurance plan provides coverage overseas.  Most care providers overseas only accept cash payments.  See [our webpage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/insurance-providers-overseas.html) for more information on insurance providers for overseas coverage.  Visit the [U.S. Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/destinations/traveler/none/tonga) for more information on type of insurance you should consider before you travel overseas.
 
 We strongly recommend supplemental insurance to cover medical evacuation.
 
-**Vaccinations:**Be up-to-date on all [vaccinations](https://wwwnc.cdc.gov/travel/destinations/traveler/none/tonga) recommended by the U.S. Centers for Disease Control and Prevention.
+**Vaccinations**
 
-**Further health information:**
+Be up-to-date on all [vaccinations](https://wwwnc.cdc.gov/travel/destinations/traveler/none/tonga) recommended by the U.S. Centers for Disease Control and Prevention.
+
+**Further health information**
 
 * [World Health Organization](https://www.who.int/countries/ton/)
 * [U.S. Centers for Disease Control and Prevention](http://wwwnc.cdc.gov/travel/) (CDC)
 
-**Air Quality:** Air pollution can be a significant problem in many destinations overseas. Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in [destination]. For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/). For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/). For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
+**Air Quality**
+
+Air pollution can be a significant problem in many destinations overseas.
+
+* Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in Tonga.
+* For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/).
+* For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/).
+* For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
 
 The U.S. Embassy maintains a [list of doctors and hospitals](https://fj.usembassy.gov/medical-assistance/). We do not endorse or recommend any specific medical provider or clinic.
 
-**Special Circumstances:**
+**Special Circumstances**
 
 **Health facilities:**
 

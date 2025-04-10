@@ -23,9 +23,13 @@ We highly recommend that all travelers review the U.S. Centers for Disease Contr
   + Travelers with Special Considerations (for example: Allergies, Long-Term Travelers and Expatriates)
   + and General Tips (for example: Traveling with Medications, Travel Vaccines)
 
-**The Department of State, U.S. embassies, and U.S. consulates do not pay medical bills.** Be aware that U.S. Medicare/Medicaid does not apply overseas. Most hospitals and doctors overseas do not accept U.S. health insurance.
+**The Department of State, U.S. embassies, and U.S. consulates do not pay medical bills.**
 
-**Medical Insurance:** Make sure your health insurance plan provides coverage overseas. Most care providers overseas only accept cash payments. See our webpage for more [information on insurance providers for overseas coverage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/insurance-providers-overseas.html).
+Be aware that U.S. Medicare/Medicaid does not apply overseas. Most hospitals and doctors overseas do not accept U.S. health insurance.
+
+**Medical Insurance**
+
+Make sure your health insurance plan provides coverage overseas. Most care providers overseas only accept cash payments. See our webpage for more [information on insurance providers for overseas coverage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/insurance-providers-overseas.html).
 
 Visit the [U.S. Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/page/insurance) for more information on type of insurance you should consider before you travel overseas.
 
@@ -41,14 +45,16 @@ The following diseases are prevalent:
 * [Measles](https://www.cdc.gov/measles/index.html)
 * [Helminths](https://www.cdc.gov/sth/about/?CDC_AAref_Val=https://www.cdc.gov/parasites/sth/)
 
-**Vaccinations:** Be up-to-date on all [vaccinations](https://wwwnc.cdc.gov/travel/destinations/list)recommended by the U.S. Centers for Disease Control and Prevention.
+**Vaccinations**
 
-**Further health information:**
+Be up-to-date on all [vaccinations](https://wwwnc.cdc.gov/travel/destinations/list)recommended by the U.S. Centers for Disease Control and Prevention.
+
+**Further health information**
 
 * [World Health Organization](https://www.who.int/travel-advice)
 * [U.S. Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/destinations/list) (CDC)
 
-**Air Quality:**
+**Air Quality**
 
 * Air pollution is a significant problem in several major cities in Lesotho. Consider the impact seasonal smog and heavy particulate pollution may have on you and consult your doctor before traveling if necessary.
 * People at the greatest risk from particle pollution exposure include:
@@ -58,11 +64,16 @@ The following diseases are prevalent:
   + People with heart disease or diabetes
   + People who work or are active outdoors
 
-Air pollution can be a significant problem in many destinations overseas. Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in [destination]. For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/). For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/). For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
+Air pollution can be a significant problem in many destinations overseas.
+
+* Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in Lesotho.
+* For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/).
+* For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/).
+* For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
 
 The U.S. Embassy maintains a list of [doctors and hospitals](https://ls.usembassy.gov/medical-assistance/). We do not endorse or recommend any specific medical provider or clinic.
 
-**Health facilities in general:**
+**Health facilities in general**
 
 * No adequate health facilities are available in Lesotho.
 * Public medical clinics lack basic resources and supplies.
@@ -74,19 +85,27 @@ The U.S. Embassy maintains a list of [doctors and hospitals](https://ls.usembas
 * Patients bear all costs for transfer to or between hospitals.
 * Psychological and psychiatric services are limited, even in the larger cities, with hospital-based care only available through government institutions.
 
-**Pharmaceuticals:**Exercise caution when purchasing medication overseas. Pharmaceuticals, both over the counter and requiring prescription in the United States, are often readily available for purchase with little controls. [Counterfeit](https://wwwnc.cdc.gov/travel/page/counterfeit-medicine) and substandard medication is common and may prove to be ineffective, the wrong strength, or contain dangerous ingredients. Medication should be purchased in consultation with a medical professional and from reputable establishments.
+**Pharmaceuticals**
+
+Exercise caution when purchasing medication overseas. Pharmaceuticals, both over the counter and requiring prescription in the United States, are often readily available for purchase with little controls. [Counterfeit](https://wwwnc.cdc.gov/travel/page/counterfeit-medicine) and substandard medication is common and may prove to be ineffective, the wrong strength, or contain dangerous ingredients. Medication should be purchased in consultation with a medical professional and from reputable establishments.
 
 U.S. Customs and Border Protection and the Food and Drug Administration are responsible for rules governing the transport of medication back to the United States. Medication purchased abroad must meet their requirements to be legally brought back into the United States. Medication should be for personal use and must be approved for usage in the United States.
 
 Please visit the [U.S. Customs and Border Protection](https://www.cbp.gov/travel/us-citizens/know-before-you-go/prohibited-and-restricted-items) and the [Food and Drug Administration](https://www.fda.gov/drugs/guidance-compliance-regulatory-information/human-drug-imports) websites for more information.
 
-**Non-Traditional Medicine:**U.S. citizens have suffered serious complications or died while seeking medical care from non-traditional “healers” and practitioners in Lesotho. Ensure you have access to licensed emergency medical facilities in such cases.
+**Non-Traditional Medicine**
 
-**Water Quality:**In Maseru, tap water is potable. Bottled water and beverages are generally safe, although you should be aware that many restaurants and hotels serve tap water unless bottled water is specifically requested. Be aware that ice for drinks may be made using tap water.
+U.S. citizens have suffered serious complications or died while seeking medical care from non-traditional “healers” and practitioners in Lesotho. Ensure you have access to licensed emergency medical facilities in such cases.
 
-**Altitude:**Many cities in Lesotho are at high altitude. Beware of the symptoms of altitude sickness, and take precautions before you travel. Visit the U.S. Centers for Disease Control and Prevention website for more information about [Travel to High Altitudes](https://wwwnc.cdc.gov/travel/page/travel-to-high-altitudes).
+**Water Quality**
 
-**General Health:**
+In Maseru, tap water is potable. Bottled water and beverages are generally safe, although you should be aware that many restaurants and hotels serve tap water unless bottled water is specifically requested. Be aware that ice for drinks may be made using tap water.
+
+**Altitude**
+
+Many cities in Lesotho are at high altitude. Beware of the symptoms of altitude sickness, and take precautions before you travel. Visit the U.S. Centers for Disease Control and Prevention website for more information about [Travel to High Altitudes](https://wwwnc.cdc.gov/travel/page/travel-to-high-altitudes).
+
+**General Health**
 
 * Use the U.S. Centers for Disease Control and Prevention recommended mosquito repellents and sleep under insecticide-impregnated mosquito nets. Chemoprophylaxis is recommended for all travelers even for short stays.
 * HIV/AIDS: Lesotho has one of the highest HIV rates in the world. Approximately one-quarter of the adult population of Lesotho is infected with HIV.

@@ -6,7 +6,9 @@ For emergency services in Turkmenistan, **dial 03**. Ambulance services are not
 
 The U.S. Embassy does not pay medical bills. Be aware that U.S. Medicare/Medicaid does not apply overseas. Most hospitals and doctors overseas do not accept U.S. health insurance.
 
-**Medical Insurance:** Make sure your health insurance plan provides coverage overseas. Most care providers overseas only accept cash payments. See our [webpage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html?cq_ck=1708701048867) for more information on insurance providers for overseas coverage. Visit the [U.S. Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/page/insurance). They have more information on the insurance you should consider before you travel abroad.
+**Medical Insurance**
+
+Make sure your health insurance plan provides coverage overseas. Most care providers overseas only accept cash payments. See our [webpage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html?cq_ck=1708701048867) for more information on insurance providers for overseas coverage. Visit the [U.S. Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/page/insurance). They have more information on the insurance you should consider before you travel abroad.
 
 We strongly recommend supplemental insurance. It covers medical evacuation.
 
@@ -18,13 +20,24 @@ If you have prescription medication, check with the Government of Turkmenistan. 
 
 The U.S. Embassy maintains a [list of doctors and hospitals](https://tm.usembassy.gov/u-s-citizen-services/doctors/). We do not endorse or recommend any specific medical provider or clinic.
 
-**Vaccinations:** Be up-to-date on all [vaccinations](https://wwwnc.cdc.gov/travel/destinations/traveler/none/turkmenistan?s_cid=ncezid-dgmq-travel-single-001) recommended by the U.S. Centers for Disease Control and Prevention.
+**Vaccinations**
+
+Be up-to-date on all [vaccinations](https://wwwnc.cdc.gov/travel/destinations/traveler/none/turkmenistan?s_cid=ncezid-dgmq-travel-single-001) recommended by the U.S. Centers for Disease Control and Prevention.
 
 Further health information:
 
 * [World Health Organization](https://www.who.int/health-topics/travel-and-health%22%20/l%20%22tab=tab_1)
 * [U.S. Centers for Disease Control and Prevention (CDC)](https://wwwnc.cdc.gov/travel/)
 
-**Water Quality:** In many areas, tap water is not potable. Bottled water and drinks are safe. Many restaurants and hotels serve tap water unless you ask for bottled. Be aware that ice for drinks may be made using tap water.
+**Water Quality**
 
-**Air Quality:**Air pollution can be a significant problem in many destinations overseas. Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in [destination]. For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/). For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/). For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
+In many areas, tap water is not potable. Bottled water and drinks are safe. Many restaurants and hotels serve tap water unless you ask for bottled. Be aware that ice for drinks may be made using tap water.
+
+**Air Quality**
+
+Air pollution can be a significant problem in many destinations overseas.
+
+* Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in Turkmenistan.
+* For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/).
+* For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/).
+* For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.

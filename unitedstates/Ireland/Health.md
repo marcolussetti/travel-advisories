@@ -16,23 +16,29 @@ Patients who do not receive benefits from Ireland’s Department of Social Prote
 
 For emergency services in Ireland dial 112 or 999.
 
-**The Department of State does not pay medical bills**. Be aware that U.S. Medicare/Medicaid does not apply overseas. Most hospitals and doctors overseas do not accept U.S. health insurance.
+**The Department of State does not pay medical bills**
 
-**Medical Insurance:** Make sure your health insurance plan provides coverage overseas. Most care providers overseas only accept cash payments. See our webpage for more [information on insurance providers](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/insurance-providers-overseas.html) for overseas coverage. Visit the [U.S. Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/page/insurance) website for more information on the type of insurance you should consider before you travel overseas.
+Be aware that U.S. Medicare/Medicaid does not apply overseas. Most hospitals and doctors overseas do not accept U.S. health insurance.
+
+**Medical Insurance**
+
+Make sure your health insurance plan provides coverage overseas. Most care providers overseas only accept cash payments. See our webpage for more [information on insurance providers](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/insurance-providers-overseas.html) for overseas coverage. Visit the [U.S. Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/page/insurance) website for more information on the type of insurance you should consider before you travel overseas.
 
 We strongly recommend supplemental insurance to cover medical evacuation.
 
 Always carry your prescription medication in original packaging, along with your doctor’s prescription. Check with the [Government of Ireland](https://www.dfa.ie/) to ensure the medication is legal in Ireland.
 
-**Vaccinations**: Be up-to-date on all [vaccinations](https://wwwnc.cdc.gov/travel/destinations/list) recommended by the U.S. Centers for Disease Control and Prevention.
+**Vaccinations**
 
-**Pharmaceuticals**:
+Be up-to-date on all [vaccinations](https://wwwnc.cdc.gov/travel/destinations/list) recommended by the U.S. Centers for Disease Control and Prevention.
+
+**Pharmaceuticals**
 
 * Visitors to Ireland may bring up to 3 months’ supply of prescription medicines with them for their own personal use. We recommend that travelers bring the prescription medicines in their original packaging, with their name clearly displayed. This should be accompanied by their prescription or a copy of it, and/or a letter from their doctor and/or dispensing pharmacist outlining their condition and stating that the medicines are for their own personal use. This information should be inside the package in which the medication is being transported, as a means of proving the legitimacy of consignment for importation to Ireland. It should be noted that the Irish Customs Authority has the final say in all such matters.
 * Schengen residents are required to have an Article 75 Schengen Certificate for prescribed narcotics and/or psychotropic substances on entry into Ireland if travelling from a Schengen area country.
 * U.S. Customs and Border Protection and the Food and Drug Administration are responsible for rules governing the transport of medication back to the United States. Medication purchased abroad must meet their requirements to be legally brought back into the United States. Medication should be for personal use and must be approved for usage in the United States. Please visit the U.S. Customs and Border Protection and the Food and Drug Administration websites for more information.
 
-**Further health information:**
+**Further health information**
 
 * [World Health Organization](https://www.who.int/)
 * [U.S. Centers for Disease Control and Prevention (CDC)](https://wwwnc.cdc.gov/travel/destinations/list)
@@ -43,7 +49,12 @@ Tap water quality is **potable and contains** fluoride
 
 **Air Quality**
 
-Air pollution can be a significant problem in many destinations overseas. Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in [destination]. For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/). For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/). For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
+Air pollution can be a significant problem in many destinations overseas.
+
+* Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in Ireland.
+* For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/).
+* For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/).
+* For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
 
 **General Health**
 

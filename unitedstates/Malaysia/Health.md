@@ -10,22 +10,30 @@ Ambulance services are:
 * Ambulances are not equipped with the latest medical equipment.
 * Travelers may prefer to take a taxi or private vehicle to the hospital instead of waiting for an ambulance. Sometimes they can take 45 minutes or longer to arrive.
 
-**The Department of State, U.S. Embassies, and U.S. Consulates do not pay for medical bills.** Be aware that U.S. Medicare/Medicaid does not apply overseas. Hospitals and doctors overseas do not accept U.S. health insurance.
+**The Department of State, U.S. Embassies, and U.S. Consulates do not pay for medical bills**
 
-**Medical Insurance:** Make sure your health insurance covers you overseas. Some care providers overseas only accept cash payments. All hospitals and clinics require payment prior to providing care to foreigners. See [our webpage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html?cq_ck=1708701048867) for information on insurance providers for overseas coverage. Visit the [CDC](https://wwwnc.cdc.gov/travel/destinations/traveler/none/malaysia) for more information on the type of insurance you should consider before you travel overseas.
+Be aware that U.S. Medicare/Medicaid does not apply overseas. Hospitals and doctors overseas do not accept U.S. health insurance.
+
+**Medical Insurance**
+
+Make sure your health insurance covers you overseas. Some care providers overseas only accept cash payments. All hospitals and clinics require payment prior to providing care to foreigners. See [our webpage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html?cq_ck=1708701048867) for information on insurance providers for overseas coverage. Visit the [CDC](https://wwwnc.cdc.gov/travel/destinations/traveler/none/malaysia) for more information on the type of insurance you should consider before you travel overseas.
 
 We strongly recommend getting [MEDEVAC insurance](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html?cq_ck=1708701048867) to cover medical evacuation. This is separate and in addition to health insurance.
 
 Always carry your prescription medication in its original packaging. Also carry the original prescription. Check with the [Royal Malaysian Customs Department](https://www.customs.gov.my/en/)to make sure the medication is legal in Malaysia.
 
-**Vaccinations:** Make sure you are up to date on all CDC-recommended [vaccines](https://wwwnc.cdc.gov/travel/destinations/traveler/none/malaysia).
+**Vaccinations**
 
-**Further health information:**
+Make sure you are up to date on all CDC-recommended [vaccines](https://wwwnc.cdc.gov/travel/destinations/traveler/none/malaysia).
+
+**Further health information**
 
 * [World Health Organization](http://www.who.int/ith/en/index.html)
 * [U.S. Centers for Disease Control and Prevention](http://wwwnc.cdc.gov/travel/) (CDC)
 
-**Air Quality:** Air quality in Malaysia changes often and fluctuates with the seasons. It is usually the worst in the dry season from July to October because of large agricultural fires in the area. People at the greatest risk from particle pollution exposure include:
+**Air Quality**
+
+Air quality in Malaysia changes often and fluctuates with the seasons. It is usually the worst in the dry season from July to October because of large agricultural fires in the area. People at the greatest risk from particle pollution exposure include:
 
 * Infants, children, and teens
 * People over 65 years of age
@@ -33,11 +41,16 @@ Always carry your prescription medication in its original packaging. Also carry 
 * People with heart disease or diabetes
 * People who work or are active outdoors
 
-Air pollution can be a significant problem in many destinations overseas. Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in [destination]. For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/). For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/). For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
+Air pollution can be a significant problem in many destinations overseas.
+
+* Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in Malaysia.
+* For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/).
+* For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/).
+* For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
 
 The U.S. Embassy maintains a [list of doctors and hospitals](https://my.usembassy.gov/doctors/). We do not endorse or recommend any specific medical provider or clinic.
 
-**Medical Facilities and Services:**
+**Medical Facilities and Services**
 
 * Adequate health facilities are available throughout the country but health care in rural areas may not meet U.S. standards.
 * Hospitals will require advance payment before treating a patient even if they have insurance.

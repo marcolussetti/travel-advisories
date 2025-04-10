@@ -15,17 +15,23 @@ Ambulance services are:
 * not staffed with trained paramedics and often have little or no medical equipment.
 * Injured or seriously ill travelers may prefer to take a taxi or private vehicle to the nearest major hospital rather than wait for an ambulance.
 
-**We do not pay medical bills**. Be aware that U.S. Medicare/Medicaid does not apply overseas. Most hospitals and doctors overseas do not accept U.S. health insurance.
+**We do not pay medical bills**
 
-**Medical Insurance**: Make sure your health insurance plan provides coverage overseas. Most care providers overseas only accept cash payments. See [our webpage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) for more information on overseas coverage. Visit the [U.S. Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/page/insurance) for more information on types of insurance you should consider before you travel overseas.
+Be aware that U.S. Medicare/Medicaid does not apply overseas. Most hospitals and doctors overseas do not accept U.S. health insurance.
+
+**Medical Insurance**
+
+Make sure your health insurance plan provides coverage overseas. Most care providers overseas only accept cash payments. See [our webpage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) for more information on overseas coverage. Visit the [U.S. Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/page/insurance) for more information on types of insurance you should consider before you travel overseas.
 
 We strongly recommend supplemental insurance to cover medical evacuation.
 
 Always carry your prescription medication in original packaging with your doctor’s prescription. Check with the [Federal Ministry of Health](https://health.gov.ng/) in Nigeria to ensure the medication is legal in Nigeria.
 
-**Vaccinations**: Be up-to-date on all [vaccinations](https://wwwnc.cdc.gov/travel/destinations/list) recommended by the U.S. Centers for Disease Control and Prevention.
+**Vaccinations**
 
-**Further Health Information**:
+Be up-to-date on all [vaccinations](https://wwwnc.cdc.gov/travel/destinations/list) recommended by the U.S. Centers for Disease Control and Prevention.
+
+**Further Health Information**
 
 * [World Health Organization](https://www.who.int/travel-advice) (WHO)
 * [U.S. Centers for Disease Control and Prevention (CDC)](https://wwwnc.cdc.gov/travel/)
@@ -34,7 +40,7 @@ Always carry your prescription medication in original packaging with your doctor
 
 The U.S. Embassy maintains a [list of doctors and hospitals](https://ng.usembassy.gov/medical-assistance/). We do not endorse or recommend any specific medical provider or clinic.
 
-**Health Facilities in General**:
+**Health Facilities in General**
 
 * Adequate health facilities are available in major cities, but health care in rural areas may be below U.S. standards.
 * Public medical clinics lack basic resources and supplies.
@@ -44,14 +50,14 @@ The U.S. Embassy maintains a [list of doctors and hospitals](https://ng.usembas
 * Patients bear all costs for transfer to or between hospitals.
 * Psychological and psychiatric services are limited, even in the larger cities, and approaches to treatment and services might be significantly different than the United States.
 
-**Medical Tourism and Elective Surgery**:
+**Medical Tourism and Elective Surgery**
 
 * Medical tourism is a rapidly growing industry worldwide. People seeking health care overseas should understand that medical systems operate differently from those in the United States and are not subject to the same rules and regulations. Anyone interested in traveling for medical purposes should consult with their local physician before traveling.
 * Visit the [U.S. Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/page/medical-tourism) website for information on medical tourism, the risks of medical tourism, and what you can do to prepare before traveling to Nigeria.
 * We strongly recommend [supplemental insurance](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) to cover medical evacuation in the event of unforeseen medical complications.
 * Your legal options in case of malpractice are very limited in Nigeria.
 
-**Pharmaceuticals**:
+**Pharmaceuticals**
 
 * Exercise caution when purchasing medication overseas. Pharmaceuticals, both over the counter and requiring prescriptions in the United States, are often readily available for purchase with little controls. Counterfeit medication is common and may prove to be ineffective, the wrong strength, or contain dangerous ingredients. Medication should be purchased in consultation with a medical professional and from reputable establishments.
 * U.S. Customs and Border Protection and the Food and Drug Administration are responsible for rules governing the transport of medication back to the United States. Medication purchased abroad must meet their requirements to be legally brought back into the United States. Medication should be for personal use and must be approved for usage in the United States. Please visit the [U.S. Customs and Border Protection](https://www.cbp.gov/travel/us-citizens/know-before-you-go/prohibited-and-restricted-items) and the [Food and Drug Administration](https://www.fda.gov/drugs/resourcesforyou/consumers/buyingusingmedicinesafely/buyingmedicinefromoutsidetheunitedstates/default.htm) websites for more information.
@@ -60,7 +66,7 @@ The U.S. Embassy maintains a [list of doctors and hospitals](https://ng.usembas
 
 * U.S. citizens have suffered serious complications or died while seeking medical care from non-traditional “healers” and practitioners.  We recommend that you have access to licensed emergency medical facilities in such cases.
 
-**Assisted Reproductive Technology and Surrogacy**:
+**Assisted Reproductive Technology and Surrogacy**
 
 * If you are considering traveling to Nigeria to have a child through use of assisted reproductive technology (ART) or surrogacy, please see our [ART and Surrogacy Abroad page](https://travel.state.gov/content/travel/en/legal/travel-legal-considerations/us-citizenship/Assisted-Reproductive-Technology-ART-Surrogacy-Abroad.html).
 * Although surrogacy agencies/clinics claim surrogacy is legal in Nigeria, there is no legal framework for foreigners to pursue surrogacy in Nigeria. As a result, surrogacy agreements between foreign intending parents and gestational mothers vary widely and are not enforced by Nigerian courts.
@@ -68,15 +74,15 @@ The U.S. Embassy maintains a [list of doctors and hospitals](https://ng.usembas
 * Surrogacy for same-sex couples is illegal in Nigeria.
 * If you decide to pursue parenthood in Nigeria via assisted reproductive technology (ART) with a gestational mother, be prepared for long delays in documenting your child’s citizenship. Be aware that individuals who attempt to circumvent local law risk criminal prosecution.
 
-**Water Quality**:
+**Water Quality**
 
 * Tap water is unsafe.  Bottled water and beverages are generally safe.  Be aware that many restaurants and hotels serve tap water unless bottled water is specifically requested, and  may use tap water to make ice for drinks.
 
-**Adventure Travel**:
+**Adventure Travel**
 
 * Visit the U.S. Centers for Disease Control and Prevention website for more information about [Adventure Travel](https://wwwnc.cdc.gov/travel/page/travel-to-the-extreme).
 
-**General Health**:
+**General Health**
 
 The following diseases are prevalent:
 
@@ -109,7 +115,7 @@ The following diseases are prevalent:
 * Use the U.S. Centers for Disease Control and Prevention recommended mosquito repellents and sleep under insecticide-impregnated mosquito nets.
 * Visit the U.S. Centers for Disease Control and Prevention website for more information about [Resources for Travelers](https://wwwnc.cdc.gov/travel/page/traveler-information-center) regarding specific issues in Nigeria.
 
-**Air Quality**:
+**Air Quality**
 
 * Reliable air quality data for Nigeria is limited. However, satellite data suggests that on average it is significantly worse than in the United States. Poor waste management practices and commercial pollution exacerbate seasonal weather variations that affect air quality. Consider the impact seasonal smog and heavy particulate pollution may have on you, and consult your doctor before traveling if necessary.
 * The air quality varies considerably and fluctuates with the seasons.  It is typically at its worst from the end of November to mid-March, which is the harmattan season (a very dry season in West Africa when winds blow sand and dust from the Sahara Desert). People at the greatest risk from particle pollution exposure include:
@@ -120,4 +126,9 @@ The following diseases are prevalent:
   + People who work or are active outdoors.
 * Travelers with allergies and/or respiratory disease may experience illness and are encouraged to bring ample supply of prescription medications.
 
-Air pollution can be a significant problem in many destinations overseas. Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in [destination]. For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/). For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/). For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
+Air pollution can be a significant problem in many destinations overseas.
+
+* Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in Nigeria.
+* For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/).
+* For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/).
+* For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.

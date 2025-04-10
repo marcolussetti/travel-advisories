@@ -18,9 +18,13 @@ Review the [Traveler Advice webpage](https://wwwnc.cdc.gov/travel/page/traveler-
 * Travelers with Special Considerations (for example: Allergies, Long-Term Travelers and Expatriates)
 * and General Tips (for example: Traveling with Medications, Travel Vaccines)
 
-**The Department of State, U.S. embassies and U.S. consulates do not pay medical bills.** Be aware that U.S. Medicare/Medicaid does not apply overseas. Most hospitals and doctors overseas do not accept U.S. health insurance.
+**The Department of State, U.S. embassies and U.S. consulates do not pay medical bills**
 
-**Medical Insurance:** Make sure your health insurance plan provides coverage for places you are traveling overseas. Most care providers overseas only accept cash payments. See [our webpage on insurance coverage overseas](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) for more information. Visit the [U.S. Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/page/insurance) for more information on type of insurance you should consider before you travel overseas.
+Be aware that U.S. Medicare/Medicaid does not apply overseas. Most hospitals and doctors overseas do not accept U.S. health insurance.
+
+**Medical Insurance**
+
+Make sure your health insurance plan provides coverage for places you are traveling overseas. Most care providers overseas only accept cash payments. See [our webpage on insurance coverage overseas](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) for more information. Visit the [U.S. Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/page/insurance) for more information on type of insurance you should consider before you travel overseas.
 
 We strongly recommend [supplemental insurance](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) (see our webpage) to cover medical evacuation.
 
@@ -33,11 +37,18 @@ Be up to date on all [vaccinations](https://wwwnc.cdc.gov/travel)recommended by
 * [World Health Organization](https://www.who.int/)
 * [U.S. Centers for Disease Control and Prevention](https://www.cdc.gov/)
 
-**Air Quality:** Air pollution can be a significant problem in many destinations overseas. Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in [destination]. For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/). For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/). For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
+**Air Quality**
+
+Air pollution can be a significant problem in many destinations overseas.
+
+* Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in Israel.
+* For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/).
+* For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/).
+* For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
 
 The U.S. Embassy maintains a [list](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fil.usembassy.gov%2Fu-s-citizen-services%2Fdoctors%2F&data=05%7C01%7COCSContentManager%40state.gov%7C6f806e3f127d45d020bd08db57d698d5%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C638200351422389860%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=4r61QTtOTdfH%2FGTYng%2FaAXEiCvJW7zovw8wvbq3H2TY%3D&reserved=0) of doctors and hospitals. We do not endorse or recommend any specific medical provider or clinic.
 
-**Health facilities in general:**
+**Health facilities in general**
 
 * Adequate health facilities are available throughout Israel but health care in the West Bank may be below U.S. standards. Health care in Gaza has been severely degraded by the ongoing military conflict between Israel and Hamas and what is available is far below U.S. standards.
 * Medical staff may speak little or no English.

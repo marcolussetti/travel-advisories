@@ -21,41 +21,56 @@ We highly recommend that all travelers review the U.S. Centers for Disease Contr
 * Travelers with Special Considerations (for example: Allergies, Long-Term Travelers and Expatriates)
 * General Tips (for example: Traveling with Medications, Travel Vaccines)
 
-**The Department of State, U.S. embassies and U.S. consulates do not pay medical bills.** Be aware that U.S. Medicare does not apply overseas. Most hospitals and doctors overseas do not accept U.S. health insurance.
+**The Department of State, U.S. embassies and U.S. consulates do not pay medical bills**
 
-**Medical Insurance:** Make sure your health insurance plan provides coverage overseas. Most care providers overseas only accept cash payments. See [our webpage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) for more information on insurance coverage. Visit the[U.S. Centers for Disease Control and Prevention](https://www.cdc.gov/)for more information on the type of insurance you should consider before you travel overseas.
+Be aware that U.S. Medicare does not apply overseas. Most hospitals and doctors overseas do not accept U.S. health insurance.
+
+**Medical Insurance**
+
+Make sure your health insurance plan provides coverage overseas. Most care providers overseas only accept cash payments. See [our webpage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) for more information on insurance coverage. Visit the[U.S. Centers for Disease Control and Prevention](https://www.cdc.gov/)for more information on the type of insurance you should consider before you travel overseas.
 
 We strongly recommend supplemental insurance to cover medical evacuation.
 
 Always carry your prescription medication in original packaging, along with your doctor’s prescription. Check with Singapore’s [Health Sciences Authority](https://www.hsa.gov.sg/) to ensure the medication is legal in Singapore.
 
-**Vaccinations:** Be up-to-date on all [vaccinations](https://wwwnc.cdc.gov/travel/destinations/traveler/none/singapore) recommended by the U.S. Centers for Disease Control and Prevention.
+**Vaccinations**
 
-**Further health information:**
+Be up-to-date on all [vaccinations](https://wwwnc.cdc.gov/travel/destinations/traveler/none/singapore) recommended by the U.S. Centers for Disease Control and Prevention.
+
+**Further health information**
 
 * [World Health Organization](https://www.who.int/) (WHO)
 * [U.S. Centers for Disease Control and Prevention](https://www.cdc.gov/) (CDC)
 
-**Air Quality:** Visit [ZephAir](https://zephair.stategdi.cloud/locations) for additional locations. Air pollution can be a significant problem in many destinations overseas. Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in [destination]. For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/). For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/). For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
+**Air Quality**
+
+Visit [ZephAir](https://zephair.stategdi.cloud/locations) for additional locations.
+
+Air pollution can be a significant problem in many destinations overseas.
+
+* Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in Singapore.
+* For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/).
+* For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/).
+* For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
 
 The U.S. Embassy maintains a [list of doctors and hospitals](https://sg.usembassy.gov/medical-facilities/). We do not endorse or recommend any specific medical provider or clinic.
 
-**Health facilities in general:**
+**Health facilities in general**
 
 * Adequate health facilities are available throughout the country.
 * Hospitals and doctors may require payment “up front” prior to service or admission.
 * Private hospitals usually require advance payment or proof of adequate insurance before admitting a patient.
 
-**Medical Tourism and Elective Surgery:**
+**Medical Tourism and Elective Surgery**
 
 * Visit the [U.S. Centers for Disease Control and Prevention](https://www.cdc.gov/) website for information on Medical Tourism, the risks of medical tourism, and what you can do to prepare before traveling to Singapore.
 * We strongly recommend [supplemental insurance](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) to cover medical evacuation in the event of unforeseen medical complications.
 
-**Pharmaceuticals:**
+**Pharmaceuticals**
 
 * Exercise caution when purchasing medication overseas. Medication should be purchased in consultation with a medical professional and from reputable establishments.
 
-**General Health:**
+**General Health**
 
 The following diseases are prevalent:
 
@@ -64,6 +79,10 @@ The following diseases are prevalent:
 
 Visit the U.S. Centers for Disease Control and Prevention website for more information about [Resources for Travelers](https://wwwnc.cdc.gov/travel) regarding specific issues in Singapore.
 
-**Mosquito-borne diseases:** Dengue is active in Singapore and can be monitored at the [Singapore National Environmental Agency](https://www.nea.gov.sg/). In addition, most neighboring countries are Zika endemic.
+**Mosquito-borne diseases**
 
-**Haze:** Air pollution from forest fires in neighboring countries occurs intermittently, usually between July and October. Singapore’s National Environmental Agency’s [Haze](https://www.haze.gov.sg/) provides public updates on conditions.
+Dengue is active in Singapore and can be monitored at the [Singapore National Environmental Agency](https://www.nea.gov.sg/). In addition, most neighboring countries are Zika endemic.
+
+**Haze**
+
+Air pollution from forest fires in neighboring countries occurs intermittently, usually between July and October. Singapore’s National Environmental Agency’s [Haze](https://www.haze.gov.sg/) provides public updates on conditions.

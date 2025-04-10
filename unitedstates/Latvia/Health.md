@@ -9,21 +9,27 @@ The quality of medical care in Latvia continues to improve but often falls short
 * Western-quality dental care can be obtained in Riga.
 * Payment is expected upon admission at private hospitals.
 
-**Prescription Medicines**: Pharmaceuticals sold in Latvia are produced by companies certified in accordance with EU standards but may not be labeled the same as in the United States.
+**Prescription Medicines**
+
+Pharmaceuticals sold in Latvia are produced by companies certified in accordance with EU standards but may not be labeled the same as in the United States.
 
 For general emergency services in Latvia, dial 112. For medical emergency services, dial 113.
 
 Ambulance services are available in urban areas but not countrywide. Injured or seriously ill travelers may prefer to take a taxi or private vehicle to the nearest major hospital rather than wait for an ambulance in rural areas.
 
-**We do not pay medical bills.**Be aware that U.S. Medicare/Medicaid does not apply overseas. Most hospitals and doctors in Latvia do not accept U.S. health insurance.
+**We do not pay medical bills**
 
-**Medical Insurance:**Make sure your health insurance plan provides coverage overseas. Most care providers overseas only accept cash payments. See [our webpage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) for more information on types of overseas insurance. Visit the [U.S. Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/page/insurance) for more information on type of insurance you should consider before you travel overseas.
+Be aware that U.S. Medicare/Medicaid does not apply overseas. Most hospitals and doctors in Latvia do not accept U.S. health insurance.
+
+**Medical Insurance**
+
+Make sure your health insurance plan provides coverage overseas. Most care providers overseas only accept cash payments. See [our webpage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) for more information on types of overseas insurance. Visit the [U.S. Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/page/insurance) for more information on type of insurance you should consider before you travel overseas.
 
 We strongly recommend [supplemental insurance](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) to cover medical evacuation.
 
 Always carry your prescription medication in original packaging, along with your doctor’s prescription. Check with the Latvian Medicines Register [Medicinal Product Register of Latvia](https://www.zva.gov.lv/zvais/zalu-registrs/en/faq) to ensure the medication is legal in Latvia.
 
-**General Health Information:**
+**General Health Information**
 
 The following diseases are prevalent:
 
@@ -34,11 +40,20 @@ The following diseases are prevalent:
 * There are no vaccines against Lyme disease.
 * Hepatitis A is a significant health concern in Latvia. Hepatitis A vaccine is available in the US and is recommended for those with prolonged stays or travel in rural areas.
 
-**Vaccinations:** Be up-to-date on all [vaccinations](http://wwwnc.cdc.gov/travel/page/vaccinations.htm) recommended by the U.S. Centers for Disease Control and Prevention.
+**Vaccinations**
 
-**Air Quality:** Air pollution can be a significant problem in many destinations overseas. Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in [destination]. For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/). For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/). For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
+Be up-to-date on all [vaccinations](http://wwwnc.cdc.gov/travel/page/vaccinations.htm) recommended by the U.S. Centers for Disease Control and Prevention.
 
-**Further health information:**
+**Air Quality**
+
+Air pollution can be a significant problem in many destinations overseas.
+
+* Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in Latvia.
+* For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/).
+* For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/).
+* For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
+
+**Further health information**
 
 * [World Health Organization](https://www.who.int/countries)
 * [U.S. Centers for Disease Control and Prevention](http://wwwnc.cdc.gov/travel/) (CDC)

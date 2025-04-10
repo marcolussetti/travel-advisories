@@ -14,17 +14,30 @@ Ambulance services are:
 
 Injured or seriously ill travelers may prefer to take a taxi or private vehicle to the nearest major hospital rather than wait for an ambulance.
 
-**We do not pay medical bills.** U.S. Medicare/Medicaid does not apply overseas. Most hospitals and doctors overseas do not accept U.S. health insurance. Healthcare providers require payment in U.S. dollars/Rwandan francs before services are performed.
+**We do not pay medical bills**
 
-**Medical Insurance**:  Make sure your health insurance plan provides coverage overseas. Most care providers overseas only accept cash payments. See [our webpage](http://travel.state.gov/content/passports/en/go/health/insurance-providers.html) for more information on insurance providers for overseas coverage. Visit the [U.S. Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/page/insurance) for more information on type of insurance you should consider before you travel overseas.
+U.S. Medicare/Medicaid does not apply overseas. Most hospitals and doctors overseas do not accept U.S. health insurance. Healthcare providers require payment in U.S. dollars/Rwandan francs before services are performed.
+
+**Medical Insurance**
+
+Make sure your health insurance plan provides coverage overseas. Most care providers overseas only accept cash payments. See [our webpage](http://travel.state.gov/content/passports/en/go/health/insurance-providers.html) for more information on insurance providers for overseas coverage. Visit the [U.S. Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/page/insurance) for more information on type of insurance you should consider before you travel overseas.
 
 We strongly recommend supplemental insurance to cover medical evacuation.
 
 Always carry your prescription medication in original packaging, along with your doctor’s prescription. Check with the [Rwanda Food and Drugs Authority](https://rwandafda.gov.rw/)to ensure the medication is legal in Rwanda. Exercise caution when purchasing medication overseas. Pharmaceuticals, both over the counter and requiring prescription in the United States, are often readily available for purchase with little controls. Counterfeit medication is common and may prove to be ineffective, be the wrong strength, or contain dangerous ingredients. Medication should be purchased in consultation with a medical professional and from reputable establishments.
 
-**Air Quality**: Air pollution can be a significant problem in many destinations overseas. Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in [destination]. For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/). For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/). For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
+**Air Quality**
 
-**Vaccinations**: Be up-to-date on all [vaccinations recommended](https://wwwnc.cdc.gov/travel/destinations/traveler/none/rwanda) by the CDC. While the CDC does not generally recommend the [yellow fever](https://www.cdc.gov/yellowfever/index.html) vaccination for travel to Rwanda, the U.S. Embassy recommends travelers bring proof of yellow fever vaccination. The Rwandan government retains the right to turn travelers without the immunization away.
+Air pollution can be a significant problem in many destinations overseas.
+
+* Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in Rwanda.
+* For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/).
+* For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/).
+* For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
+
+**Vaccinations**
+
+Be up-to-date on all [vaccinations recommended](https://wwwnc.cdc.gov/travel/destinations/traveler/none/rwanda) by the CDC. While the CDC does not generally recommend the [yellow fever](https://www.cdc.gov/yellowfever/index.html) vaccination for travel to Rwanda, the U.S. Embassy recommends travelers bring proof of yellow fever vaccination. The Rwandan government retains the right to turn travelers without the immunization away.
 
 The following diseases are prevalent in [Rwanda](https://wwwnc.cdc.gov/travel/destinations/traveler/none/rwanda):
 
@@ -49,12 +62,12 @@ Schistosomiasis, a parasitic infection that can be spread in fresh water, is fou
 
 The U.S. Embassy maintains a [list of doctors and hospitals](https://rw.usembassy.gov/u-s-citizen-services/doctors/). We do not endorse or recommend any specific medical provider or clinic.
 
-**Further Health Information:**
+**Further Health Information**
 
 * [World Health Organization](https://www.who.int/)
 * [U.S. Centers for Disease Control and Prevention](https://www.cdc.gov/) (CDC)
 
-**Health Facilities in General:**
+**Health Facilities in General**
 
 * Adequate health facilities are available in Kigali and other major cities but health care, especially in rural areas, may be below U.S. standards.
 * Some public medical clinics lack basic resources and supplies.

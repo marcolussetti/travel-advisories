@@ -17,24 +17,35 @@ Ambulance services are:
 * not equipped with state-of-the-art medical equipment
 * injured or seriously ill travelers may prefer to take a taxi or private vehicle to the nearest major hospital rather than wait for an ambulance
 
-**The Department of State does not pay medical bills.** Be aware that U.S. Medicare/Medicaid does not apply overseas. Most hospitals and doctors overseas do not accept U.S. health.
+**The Department of State does not pay medical bills**
 
-**Medical Insurance:** Make sure your health insurance plan provides coverage overseas. Most care providers overseas only accept cash payments. See [our webpage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) for more information on overseas coverage. Visit the [U.S. Centers for Disease Control and Prevention](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Nauru.html#ExternalPopup) for more information on type of insurance you should consider before you travel overseas.
+Be aware that U.S. Medicare/Medicaid does not apply overseas. Most hospitals and doctors overseas do not accept U.S. health.
+
+**Medical Insurance**
+
+Make sure your health insurance plan provides coverage overseas. Most care providers overseas only accept cash payments. See [our webpage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) for more information on overseas coverage. Visit the [U.S. Centers for Disease Control and Prevention](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Nauru.html#ExternalPopup) for more information on type of insurance you should consider before you travel overseas.
 
 We strongly recommend [supplemental insurance](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) to cover medical evacuation.
 
-**Vaccinations:**Be up-to-date on all [vaccinations](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Nauru.html#ExternalPopup) recommended by the U.S. Centers for Disease Control and Prevention.
+**Vaccinations**
 
-**Further health information:**
+Be up-to-date on all [vaccinations](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Nauru.html#ExternalPopup) recommended by the U.S. Centers for Disease Control and Prevention.
+
+**Further health information**
 
 * [World Health Organization](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Nauru.html#ExternalPopup)
 * [U.S. Centers for Disease Control and Prevention](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Nauru.html#ExternalPopup) (CDC)
 
-**Air Quality:** Air pollution can be a significant problem in many destinations overseas. Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in [destination]. For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/). For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/). For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
+**Air Quality**
+
+* Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in Nauru.
+* For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/).
+* For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/).
+* For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
 
 The U.S. Embassy maintains a [list of doctors and hospitals in Nauru](https://fj.usembassy.gov/medical-assistance/). We do not endorse or recommend any specific medical provider or clinic.
 
-**General Health Information:**
+**General Health Information**
 
 In many areas, tap water is not potable. Bottled water and beverages are generally safe, although you should be aware that many restaurants and hotels serve tap water unless bottled water is specifically requested. Be aware that ice for drinks may be made using tap water.
 

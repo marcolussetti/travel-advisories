@@ -13,17 +13,23 @@ Ambulance services are:
 * not staffed with trained paramedics and often have little or no medical equipment.
 * Injured or seriously ill travelers may prefer to take a taxi or private vehicle to the nearest major hospital rather than wait for an ambulance.
 
-**We do not pay medical bills.**Be aware that U.S. Medicare does not apply overseas.
+**We do not pay medical bills**
 
-**Medical Insurance:** Make sure your health insurance plan provides coverage overseas. Most care providers overseas only accept cash payments. See our webpage for more [information on insurance providers for overseas coverage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/insurance-providers-overseas.html).
+Be aware that U.S. Medicare does not apply overseas.
+
+**Medical Insurance**
+
+Make sure your health insurance plan provides coverage overseas. Most care providers overseas only accept cash payments. See our webpage for more [information on insurance providers for overseas coverage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/insurance-providers-overseas.html).
 
 We strongly recommend [supplemental insurance](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/insurance-providers-overseas.html) to cover medical evacuation.
 
 If traveling with prescription medications, always, carry your prescription medications in original packaging with your doctor’s prescription.
 
-**Vaccinations:** Be up-to-date on all [vaccinations](https://wwwnc.cdc.gov/travel/destinations/list) recommended by the U.S. Centers for Disease Control and Prevention.
+**Vaccinations**
 
-**Further health information:**
+Be up-to-date on all [vaccinations](https://wwwnc.cdc.gov/travel/destinations/list) recommended by the U.S. Centers for Disease Control and Prevention.
+
+**Further health information**
 
 * [World Health Organization](https://www.who.int/ith/en/)
 * [U.S. Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/) (CDC)
@@ -57,11 +63,13 @@ The following diseases are prevalent:
 * [Tick bite fever](https://www.cdc.gov/ticks/symptoms.html "https://www.cdc.gov/ticks/symptoms.html")
 * [Malaria](https://www.cdc.gov/parasites/malaria/index.html "https://www.cdc.gov/parasites/malaria/index.html") (in certain areas). Use the U.S. Centers for Disease Control and Prevention recommended mosquito repellents and sleep under insecticide-impregnated mosquito nets. Chemoprophylaxis is recommended for all travelers even for short stays.
 
-**HIV/AIDS:** Eswatini has one of the highest prevalence of HIV in the world.
+**HIV/AIDS**
+
+Eswatini has one of the highest prevalence of HIV in the world.
 
 Visit the U.S. Centers for Disease Control and Prevention website for more information about [Resources for Travelers](https://wwwnc.cdc.gov/travel/page/traveler-information-center "https://wwwnc.cdc.gov/travel/page/traveler-information-center") regarding specific issues in Eswatini.
 
-**Air Quality:**
+**Air Quality**
 
 * The air quality varies considerably and fluctuates with the seasons. It is typically at its worst in the winter (dry) season when brush fires are common. People at the greatest risk from particle pollution exposure include:
 * Infants, children, and teens
@@ -70,4 +78,9 @@ Visit the U.S. Centers for Disease Control and Prevention website for more infor
 * People with heart disease or diabetes
 * People who work or are active outdoors
 
-Air pollution can be a significant problem in many destinations overseas. Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in [destination]. For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/). For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/). For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
+Air pollution can be a significant problem in many destinations overseas.
+
+* Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in Eswatini.
+* For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/).
+* For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/).
+* For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
