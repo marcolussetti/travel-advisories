@@ -27,9 +27,11 @@ Follow immigration rules, including your visa conditions.
 
 You must complete a [Malaysia Digital Arrival Card (MDAC)](https://imigresen-online.imi.gov.my/mdac/main) before arrival in Malaysia. The MDAC must be submitted through the [Malaysian Immigration website](https://imigresen-online.imi.gov.my/mdac/main). See the [Malaysian Immigration website](https://imigresen-online.imi.gov.my/mdac/main) for further information, including exemption details.
 
-Malaysia has an auto gate facility for visitors from several countries, including Australia. The option to use the manual counter for a visa is still available. To use the auto gate facilities, Australian visitors must have a passport valid for at least 6 months and must complete and submit their [Malaysian Digital Arrival Card](https://imigresen-online.imi.gov.my/mdac/main) (MDAC) 3 days before arriving.
+Malaysia has an auto gate facility for visitors from several countries, including Australia. The option to use the manual counter for a visa is still available. To use the auto gate facilities, Australian visitors must have a passport valid for at least 6 months and must complete and submit their [Malaysian Digital Arrival Card](https://imigresen-online.imi.gov.my/mdac/main) (MDAC) 3 days before arriving. You will need to complete an enrolment process on arrival to be able to use the auto gates. The auto gate facility is available at Kuala Lumpur International Airport Terminals 1 and 2.
 
-The auto gate facility is unavailable for Australian passport holders with Malaysian permanent residency or a long-term pass. This auto gate facility is available at Kuala Lumpur International Airport Terminals 1 and 2. Further information can be found on the [Malaysia Digital Arrival Card](https://imigresen-online.imi.gov.my/mdac/main) website.
+Travellers registering to use the Malaysia Digital Arrival Card will receive an email acknowledgment containing a link and a pin number to view their visit pass online after they pass through the auto gate. Travellers who use the auto gate to enter Malaysia will need to be able to take and keep a snapshot of their visit pass on their phone and present this visit pass if requested by Malaysian authorities.
+
+The auto gate facility is unavailable for Australian passport holders with Malaysian permanent residency or a long-term pass. Further information can be found on the [Malaysia Digital Arrival Card](https://imigresen-online.imi.gov.my/mdac/main) website.
 
 Entry requirements may change at short notice. Monitor the websites of the [Malaysian Department of Immigration](https://www.imi.gov.my/), [My Safe Travel](https://mysafetravel.gov.my/), the [Malaysian Ministry of Health](https://www.moh.gov.my/), and social media for any changes. Before travel, confirm entry requirements with the [Malaysian High Commission or Consulate-General in Australia](https://protocol.dfat.gov.au/Public/Consulates/121/State).
 
@@ -45,7 +47,9 @@ Children aged younger than 12 years and visitors with finger disabilities don't 
 
 #### Passport
 
-Malaysian law requires that you carry identification, such as your passport or a Malaysian Immigration Issued Card (IKAD), with you at all times. If you are asked by police and are unable to provide it, you may be detained until you can present valid identification.
+Malaysian law requires that you carry identification, such as your passport or a Malaysian Immigration Issued Card (IKAD), with you at all times and electronic evidence of the visa entry if you entered via auto gates. If you are asked by police and are unable to provide this evidence, you may be detained until you can present it.
+
+Travellers registering to use the Malaysia Digital Arrival Card will receive an email acknowledgment containing a link and a pin number to view their visit pass online after they pass through the auto gate. Travellers who use the auto gate to enter Malaysia will need to be able to take and keep a snapshot of their visit pass on their phone and present this visit pass if requested by Malaysian authorities.
 
 #### Validity
 
@@ -101,7 +105,7 @@ Check if your travel insurance policy covers you for any related damage and inju
 
 To drive in Malaysia, you need both:
 
-* a valid Australian driver's licence
+* a valid Australian driver's licence (digital driver's licences may not be accepted)
 * an International Driving Permit (IDP)
 
 Get your IDP before you leave Australia.

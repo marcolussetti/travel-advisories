@@ -2,13 +2,21 @@
 
 Latest update
 
-There is a risk of terrorism in Malaysia. Terrorism is a global threat. Possible targets include locations popular with foreigners, including in Kuala Lumpur. Be vigilant in public places and follow the advice of local authorities (see 'Safety').
+We've reviewed our advice for Malaysia and continue to advise exercise normal safety precautions. Higher levels apply in some areas.   
+  
+You must complete a Malaysia Digital Arrival Card (MDAC) before arrival in Malaysia. The MDAC must be submitted through the Malaysian Immigration website. Travellers registering to use the MDAC will receive an email acknowledgment containing a link and a pin number to view their visit pass online after they pass through the auto gate. Travellers who use the auto gate to enter Malaysia will need to be able to take and keep a snapshot of their visit pass on their phone and present this visit pass if requested by Malaysian authorities (see 'travel').  
+  
+Malaysian law requires that you carry identification, such as your passport or a Malaysian Immigration Issued Card (IKAD), with you at all times and electronic evidence of the visa entry if you entered via auto gates. If you are asked by police and you are unable to provide this evidence, you may be detained until you can present it (see 'local laws').  
+  
+There's a risk of terrorism in Malaysia. Be vigilant in public places and follow the advice of local authorities (see 'Safety').
 
 Advice Level summary
 
 We advise:
 
 Exercise normal safety precautions in Malaysia.
+
+Higher levels apply in some areas.
 
 ## Advice levels
 
@@ -28,7 +36,7 @@ See [Safety](#safety).
 
 ### Safety
 
-* There is a risk of terrorism in Malaysia. Terrorism is a global threat. Attacks could be random and small-scale. Possible targets could include tourist areas and a range of other locations frequented by foreigners, (see Full Advice - [Safety](#safety) below), including in Kuala Lumpur. Take official warnings seriously. There was an armed attack on a police station in Johor Bahru on 17 May in which two police officers were killed.
+* There is a risk of terrorism in Malaysia. Terrorism is a global threat. Attacks could be random and small-scale. Possible targets could include tourist areas and a range of other locations frequented by foreigners, including in Kuala Lumpur (see Full Advice - [Safety](#safety) below). Take official warnings seriously.
 * There's an ongoing high risk of kidnapping in the coastal areas of eastern Sabah. There have been a number of attempted and successful kidnappings. This includes islands, dive sites and tourist facilities. If, despite our advice, you travel to these areas, get professional security advice. Obey all local governments' curfews.
 * Petty crime is common. Bag-snatching, including by thieves on motorbikes, happens often. When walking, hold your bag on the opposite side to the traffic. Safeguard your belongings, especially in shopping centres, at the airport and on trains. Credit card fraud is common. Always keep your credit card in sight when paying for purchases.
 * Assault, sexual assault, robbery and drink spiking can occur, including in tourist areas of Kuala Lumpur and Penang. Be alert to the potential risks around drink spiking and methanol poisoning through consuming alcoholic drinks. Don't leave your food or drinks unattended. Never accept food, drinks, cigarettes or gum from strangers. Stay with people you trust at parties, bars, nightclubs and taxis. See our advice on [Partying safely while overseas](/before-you-go/safety/partying "Partying safely").
@@ -52,7 +60,7 @@ Full travel advice: [Health](#health)
 * If you're suspected of using drugs, you may be required to take a urine test on arrival in Malaysia. This includes if you're travelling from a country where possession and use of drugs such as cannabis is legal. Penalties for drug offences are severe.
 * Don't use, carry or traffic illegal drugs. Punishments include the death penalty.
 * It's unclear if surrogacy is legal under Malaysian civil law and what conditions apply. Get legal advice before arranging a surrogacy.
-* Malaysian law requires that you carry identification, such as your passport or a Malaysian Immigration Issued Card (IKAD), with you at all times. If you are asked by police and are unable to provide it, you may be detained until you can present valid identification.
+* Malaysian law requires that you carry identification, such as your passport or a Malaysian Immigration Issued Card (IKAD), with you at all times and electronic evidence of the visa entry if you entered via auto gates. If you are asked by police and are unable to provide it, you may be detained until you can present valid identification.
 * Malaysia is a multicultural but mostly Islamic country. Many areas have conservative standards of dress and behaviour, including at religious sites and government offices. Get advice on local customs.
 * Malaysia enforces some aspects of sharia law. These laws apply to all Muslims, including visitors from Australia. Research laws that apply to you before you travel.
 * Malaysia doesn't recognise dual nationality. Always travel on your Australian passport. If Malaysian authorities find out you're a dual citizen, you may need to renounce one of your citizenships immediately, or you may not be permitted to depart Malaysia.
@@ -61,9 +69,10 @@ Full travel advice: [Local laws](#local-laws)
 
 ### Travel
 
-* You must complete a [Malaysia Digital Arrival Card (MDAC)](https://imigresen-online.imi.gov.my/mdac/main) before arrival in Malaysia. The MDAC must be submitted through the [Malaysian Immigration website](https://imigresen-online.imi.gov.my/mdac/main). See the [Malaysian Immigration website](https://imigresen-online.imi.gov.my/mdac/main) for further information, including exemption details.
+* You must complete a [Malaysia Digital Arrival Card (MDAC)](https://imigresen-online.imi.gov.my/mdac/main) before arrival in Malaysia. The MDAC must be submitted through the [Malaysian Immigration website](https://imigresen-online.imi.gov.my/mdac/main). See the [Malaysian Immigration website](https://imigresen-online.imi.gov.my/mdac/main) for further information, including exemption details.
 * In most circumstances, you can get a 90-day tourism visa on arrival. Entry and exit conditions can change at short notice. Contact the nearest Malaysian High Commission, Embassy or Consulate for the latest details.
 * Malaysia has an auto gate facility for visitors from several countries, including Australia. The option to use the manual counter for a visa is still available. To use the auto gate facilities, Australian travellers must have a passport valid for at least 6 months and must complete and submit their [Malaysian Digital Arrival Card](https://imigresen-online.imi.gov.my/mdac/main) (MDAC) 3 days before arriving. The auto gate facility is unavailable for Australian passport holders with Malaysian permanent residency or a long-term pass. This auto gate facility is available at Kuala Lumpur International Airport Terminals 1 and 2. Further information can be found on the [Malaysia Digital Arrival Card](https://imigresen-online.imi.gov.my/mdac/main) website.
+* Travellers registering to use the [Malaysia Digital Arrival Card](https://imigresen-online.imi.gov.my/mdac/main) will receive an email acknowledgment containing a link and a pin number to view their visit pass online after they pass through the auto gate. Travellers who use the auto gate to enter Malaysia will need to be able to take and keep a snapshot of their visit pass on their phone and present this visit pass if requested by Malaysian authorities.
 * Monitor the websites of the [Malaysian Department of Immigration,](https://www.imi.gov.my/)[My Safe Travel](https://mysafetravel.gov.my/), the [Malaysian Ministry of Health](https://www.moh.gov.my/), and social media for any changes to entry requirements. Before travel, confirm entry requirements with the [Malaysian High Commission or Consulate-General in Australia](https://protocol.dfat.gov.au/Public/Consulates/121/State).
 
 Full travel advice: [Travel](#travel)

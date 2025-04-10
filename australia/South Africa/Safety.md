@@ -199,12 +199,21 @@ Be alert to the potential risks around drink spiking and methanol poisoning thro
 
 Get urgent medical attention if you think you or someone else has been drugged.
 
-Methanol can be used in unregulated alcohol production to lower costs. Methanol is highly toxic. As little as one shot can be fatal. Act quickly if you suspect you, or someone you're travelling with, has been poisoned. [Urgent medical attention](https://www.smartraveller.gov.au/while-youre-away/when-things-go-wrong/medical-assistance) could save your life or save you from permanent disability. Report suspected cases of methanol poisoning to the police.
+To reduce your risks of drink spiking and methanol poisoning:
 
+* always buy your own drinks
+* keep your drinks in sight
+* don't accept drinks from strangers
+* if you're drinking alcohol, stick with people you trust
+* look out for the people you're with
 * be careful drinking cocktails and drinks made with spirits
 * drink only at reputable licensed premises
 * avoid home-made alcoholic drinks
-* labels on bottles aren't always accurate
+* be aware that labels on bottles aren't always accurate
+
+If you suspect a drink has been spiked, seek immediate medical attention and report the incident to authorities. If you or someone you're travelling with begin to feel strange, sick or drunk after only a couple of drinks, tell a trusted friend or security staff. They should take you to a safe place, such as your hotel room or a hospital. You should phone the local police, a hospital or the nearest Australian High Commission for advice.
+
+Methanol can be used in unregulated alcohol production to lower costs. Methanol is highly toxic. As little as one shot can be fatal. Act quickly if you suspect you, or someone you're travelling with, has been poisoned. [Urgent medical attention](https://www.smartraveller.gov.au/while-youre-away/when-things-go-wrong/medical-assistance) could save your life or save you from permanent disability. Report suspected cases of methanol poisoning to the police.
 
 **More information:**
 

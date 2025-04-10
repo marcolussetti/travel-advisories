@@ -6,26 +6,13 @@
 
 #### Visas
 
-Currently, you don't need a visa to enter Brazil for:
-
-* tourism
-* business
-* transit
-* artistic or sports activities
-
-You can stay in Brazil for 90 days over a 12-month period. This will be counted from the date of your first entry to Brazil. You can also extend your stay for another 90 days. If you require visa advice or assistance, you should contact the Brazilian Federal Police or a visa agency.
-
-In other cases, apply for your visa through an [embassy or consulate of Brazil](https://protocol.dfat.gov.au/Public/Missions/30).
+From 10 April you'll need a visa to enter Brazil. Entry and exit conditions can change at short notice. For more information, contact an [embassy or consulate of Brazil.](https://protocol.dfat.gov.au/Public/Consulates/30/State)
 
 If you plan to live in Brazil, you'll need to get a visa before arrival. The Brazilian Government strongly enforces immigration and entry laws.
 
 If you need a visa and arrive without one, authorities will send you back on the next available flight.
 
 Entry and exit conditions may change at short notice. 
-
-Brazil plans to reinstate visa requirements for Australians starting 10 April 2025. 
-
-Contact an [embassy or consulate of Brazil](https://protocol.dfat.gov.au/Public/Missions/30) for details about visas, currency and customs. 
 
 **More information:**
 

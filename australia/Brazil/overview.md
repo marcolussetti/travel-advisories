@@ -2,7 +2,7 @@
 
 Latest update
 
-We continue to advise exercise a high degree of caution in Brazil due to the threat of violent crime. Crime levels increase before and during festivals, including the Carnival, with tourists being targeted. Be aware of your surroundings (see 'Safety').
+We continue to advise exercise a high degree of caution in Brazil due to the threat of violent crime. From 10 April, you'll need a visa to enter Brazil. Entry and exit conditions can change at short notice (see 'Travel').
 
 Advice Level summary
 
@@ -50,7 +50,7 @@ Full travel advice: [Local laws](#local-laws)
 
 ### Travel
 
-* Australian passport holders do not need a visa to enter Brazil for short stays. For more information, contact an [embassy or consulate of Brazil](https://protocol.dfat.gov.au/Public/Missions/30).
+* You'll need a visa to enter Brazil. Entry and exit conditions can change at short notice. For more information, contact an [embassy or consulate of Brazil](https://protocol.dfat.gov.au/Public/Missions/30).
 * Entry and exit conditions may change without warning. Follow the advice of border and health authorities and comply with local regulations. Contact the nearest Brazilian embassy or consulate for the latest details.
 * Brazilian children (including dual nationals) must have written consent from any non-accompanying parent to depart Brazil.
 

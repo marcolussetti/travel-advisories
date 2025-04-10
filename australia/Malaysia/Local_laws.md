@@ -6,6 +6,8 @@ You're subject to all local laws and penalties, including those that may appear 
 
 If you're arrested or jailed, the Australian Government will do what it can to help you under our [Consular Services Charter](/consular-services/consular-services-charter "Consular Services Charter"). But we can't get you out of trouble or out of jail.
 
+Malaysian law requires that you carry identification, such as your passport or a Malaysian Immigration Issued Card (IKAD), with you at all times and electronic evidence of the visa entry if you entered via auto gates. If you are asked by police and you are unable to provide this evidence, you may be detained until you can present it (see '[Travel](#travel)').
+
 #### Drugs
 
 If you're suspected of using drugs before you visit Malaysia, you may be required to take a urine test on arrival. This includes if you're travelling from a country where possession and use of drugs such as cannabis is legal.
@@ -80,7 +82,7 @@ Learn about customs at your destination. If in doubt, get advice from locals. Ta
 
 #### Ramadan
 
-The Islamic holy month of [Ramadan](/before-you-go/major-events "Going overseas for a major event") is observed in Malaysia. Respect religious and cultural customs and laws at this time.
+The Islamic holy month of [Ramadan](/news-and-updates/travelling-during-ramadan "Travelling during Ramadan") is observed in Malaysia. Respect religious and cultural customs and laws at this time.
 
 During Ramadan, eating, drinking and smoking may be illegal in public during the day. If you're not fasting, avoid these activities around people who are. Seek local advice to avoid offence.
 

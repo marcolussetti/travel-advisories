@@ -95,22 +95,27 @@ Authorities may extend the water travel curfew each fortnight. If you travel by 
 
 If, despite our advice, you travel to an area with a high risk of kidnapping, our ability to provide consular assistance in these destinations will be limited.  
 
-To reduce the risk of kidnapping:  
+You are responsible for your own safety. To reduce the risk of kidnapping:  
 
-* always be alert to your personal security and surroundings
-* get professional security advice for travel in locations with a heightened kidnap risk
+* always be alert to your personal security and surroundings - avoid distractions. Be prepared to stop or take evasive action if you sense danger
+* get professional security advice for travel in locations with a heightened kidnap risk. It is essential to have a contingency plan
 * check your accommodation has appropriate security measures
-* avoid isolated locations, particularly when travelling alone
-* notify family or friends of planned travel and share your location
+* vary your movements so you don't set predictable patterns
+* keep a low profile – including online. Drawing attention to yourself in high-risk areas may signal to criminals that you have something worth taking
+* avoid isolated locations, particularly when travelling alone. There is safety in numbers, and you should try to travel with someone else, especially at night
+* notify family or friends of planned travel; share your location and emergency contacts that they can rely on if something happens
 * avoid talking about your money or business affairs
 * use ATMs in public places and during daylight hours
-* avoid giving personal details to strangers online or over the phone
+* avoid giving personal details to strangers online or over the phone. Criminals have been known to search social media for victims
+* If you are confronted by armed criminals, it is best to surrender and cooperate – resistance tends to make the situation worse
 
 The Australian Government's longstanding policy is that it doesn't make payments or concessions to kidnappers. Ransom payments to kidnappers have funded further terrorist attacks and criminal activity. Paying a ransom to terrorist groups will likely break Australian counter-terrorism financing laws.  
 
 **More information:**
 
-* [Kidnapping](/before-you-go/safety/kidnapping "Reducing the risk of kidnapping")
+* [Kidnapping](https://www.smartraveller.gov.au/before-you-go/safety/kidnapping)
+* [Scams that affect travellers](https://www.smartraveller.gov.au/before-you-go/safety/scams)
+* [Reducing the risk of piracy](https://www.smartraveller.gov.au/before-you-go/safety/piracy)
 
 #### Civil unrest and political tension
 
@@ -305,13 +310,13 @@ If appropriate safety equipment isn't available, use another provider.
 * Strait of Malacca
 * waters between Sabah and the southern Philippines
 
-The [International Maritime Bureau (IMB)](https://www.icc-ccs.org/piracy-reporting-centre) issues weekly piracy reports.
+The [International Maritime Bureau (IMB)](https://icc-ccs.org/) issues weekly piracy reports.
 
 Avoid travelling by boat in the southern Sulu Sea. This includes waters between Sabah, Malaysia and Palawan in the Philippines.
 
 If you decide to travel by boat in these regions:
 
-* check [IMB piracy](https://www.icc-ccs.org/piracy-reporting-centre) reports
+* check [IMB piracy](https://icc-ccs.org/) reports
 * get local advice
 * arrange security measures
 
