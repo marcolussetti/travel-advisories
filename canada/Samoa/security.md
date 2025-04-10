@@ -2,6 +2,26 @@
 
 ## Safety and security
 
+### Energy crisis
+
+Since February 2025, there have been significant electricity shortages and both planned and unplanned power outages in Samoa. As a result of the energy crisis, a state of emergency is in effect until April 29, 2025.
+
+### Power outages
+
+Power outages occur and sometimes impact essential services, such as:
+
+* public transportation, including flights
+* medical services
+* the public water supply
+* telecommunications
+* banking transactions
+* the supply of basic necessities
+
+Local authorities may limit electricity usage.
+
+* Keep a supply of water, food, fuel and an emergency kit on hand
+* Monitor local media for the latest information
+
 ### Crime
 
 Petty crime, such as pickpocketing and purse snatching, occurs.

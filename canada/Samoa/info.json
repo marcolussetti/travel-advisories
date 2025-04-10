@@ -1,7 +1,7 @@
 {
     "name": "Samoa",
-    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
-    "update_date": "2025-04-08T10:55:00",
+    "update_reason": "Safety and security \u2013 added information on power outages and the energy crisis",
+    "update_date": "2025-04-09T15:03:00",
     "sections": {
         "risk": "canada/Samoa/risk.md",
         "security": "canada/Samoa/security.md",
