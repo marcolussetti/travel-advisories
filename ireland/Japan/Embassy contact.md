@@ -15,6 +15,8 @@ Tokyo, Japan
 
 [Tel: +81 0332630695](tel:+810332630695)
 
+Fax: 0333551056
+
 [**Contact us**](/en/japan/tokyo/contact/)
 
 ### Honorary Consul of Ireland, Sapporo

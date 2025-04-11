@@ -53,3 +53,9 @@ Check that you have adequate insurance and read the small print of the vehicle h
 You should be aware that many Serbian car hire firms will not allow their vehicles to be driven in Kosovo due to concerns about the security situation. There have been some incidents where Serbian registered cars have been targeted in more isolated areas of Kosovo.
 
 You should check local developments before starting your journey particularly if you plan to cross a land border with Serbia.
+
+**Stray dogs**
+
+You may encounter stray dogs in Kosovo. Please maintain awareness of your surroundings and keep distance from stray dogs. If you are bitten by an animal, you should seek medical attention immediately. In Pristina, the University Clinical Center of Kosovo can be consulted:
+
+University Clinical Center of Kosovo, J5V6+98V, Prishtina 10000
