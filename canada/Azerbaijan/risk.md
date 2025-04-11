@@ -22,6 +22,7 @@
 * Khojavand
 * Kalbajar
 * Tartar
+* Aghdara
 
 The Government of Canada’s ability to provide emergency in-person consular services in these regions is extremely limited.
 

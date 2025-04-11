@@ -2,10 +2,6 @@
 
 ## Entry and exit requirements
 
-Starting on April 10, 2025, Canadians will require a visa to enter Brazil.
-
-[Brazil eVisa](https://brazil.vfsevisa.com/) – VFS Global
-
 Every country or territory decides who can enter or exit through its borders. The Government of Canada cannot intervene on your behalf if you do not meet your destination’s entry or exit requirements.
 
 We have obtained the information on this page from the Brazilian authorities. It can, however, change at any time.
@@ -43,9 +39,9 @@ Different entry rules may apply when travelling with a temporary passport or an 
 
 ### Visas
 
-Tourist visa: not required for stays of up to 90 days until April 10, 2025  
-Business visa: not required for stays of up to 90 days   
-Student visa: not required for stays of up to 90 days
+Tourist visa: required  
+Business visa: required  
+Student visa: required
 
 #### Length of stay
 
@@ -53,7 +49,8 @@ If you intend to stay more than 90 days, you must obtain an extension from the F
 
 #### Useful links
 
-* [Extended stay in Brazil](https://www.gov.br/pt-br/servicos/prorrogar-estada-no-brasil) – Government of Brazil (in Portuguese)
+* [Brazil eVisa](https://brazil.vfsevisa.com/) – VFS Global
+* [Extended stay in Brazil](https://www.gov.br/pt-br/servicos/prorrogar-estada-no-brasil) – Government of Brazil (Portuguese only)
 * [Immigration public services](https://www.gov.br/pt-br/temas/immigration-public-services) – Government of Brazil
 * [Authentication of documents](https://www.international.gc.ca/gac-amc/about-a_propos/services/authentication-authentification/index.aspx?lang=eng)
 

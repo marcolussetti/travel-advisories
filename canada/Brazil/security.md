@@ -101,7 +101,7 @@ Mass robberies (*arrastões*) involve a group of criminals that swarm public pla
 * shopping centres
 * restaurants
 
-Criminals sometimes attempt to rob you by offering to help you if you appear lost. If you’re lost, go into a nearby business or hotel to ask for directions.  
+Criminals sometimes attempt to rob you by offering to help you if you appear lost. If you’re lost, go into a nearby business or hotel to ask for directions.
 
 Victims have been seriously injured or killed when resisting perpetrators, who were armed or under the influence of drugs.
 
@@ -206,7 +206,7 @@ Be wary of individuals, even those you know, who ask you to carry a suitcase fro
 
 #### Useful links
 
-* [Alcohol, drug and travel](https://travel.gc.ca/travelling/health-safety/drugs "Alcool, drug and travel")
+* [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs "Alcool, drug and travel")
 * [Warning to Canadian seniors targeted by international drug smuggling scams](https://www.cbsa-asfc.gc.ca/security-securite/senior-aines-eng.html)
 
 ### Vulnerable neighbourhoods
@@ -241,9 +241,9 @@ Before travelling to Brazil to visit someone you met online:
 * be wary of individuals who ask you to carry a package from Brazil on their behalf
 * beware of people who show a keen interest in you online
 
-#### Useful links:
+#### Useful links
 
-* [Alcohol, drug and travel](https://travel.gc.ca/travelling/health-safety/drugs "Alcool, drug and travel")
+* [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs "Alcool, drug and travel")
 * [Warning to Canadian seniors targeted by international drug smuggling scams](http://www.cbsa-asfc.gc.ca/security-securite/senior-aines-eng.html)
 * [Overseas fraud](https://travel.gc.ca/travelling/health-safety/overseas-fraud)
 
@@ -323,7 +323,7 @@ If you intend to participate in adventure tourism activities:
 * stay on marked trails and consider hiring an experienced guide from a reputable company
 * obtain detailed information on your activity and on the environment in which you will be setting out
 
-[Visit Brazil](https://visitbrasil.com/en/)- Tourism Committee of Brazil
+[Visit Brazil](https://visitbrasil.com/en/) – Tourism Committee of Brazil
 
 ### Electricity outages
 
@@ -405,7 +405,7 @@ Ridesharing apps are available in Brazil. If you use a ridesharing app, confirm 
 
 Pirate attacks and armed robbery against ships occur in coastal waters in the north-east. Pirates have also attacked lodges along the Amazon River.
 
-[Live piracy report](https://icc-ccs.org/index.php/piracy-reporting-centre) - International Maritime Bureau’s Piracy Reporting Centre
+[Live piracy report](https://icc-ccs.org/index.php/piracy-reporting-centre) – International Maritime Bureau’s Piracy Reporting Centre
 
 ### Air travel
 

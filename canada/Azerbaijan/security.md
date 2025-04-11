@@ -18,6 +18,7 @@ Unexploded ordnance continue to pose a risk in the western part of Azerbaijan, e
 * Khojavand
 * Kalbajar
 * Tartar
+* Aghdara
 
 You must have special travel permission from Azerbaijani authorities to enter these areas.
 

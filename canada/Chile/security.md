@@ -2,12 +2,6 @@
 
 ## Safety and security
 
-### Ongoing demonstrations in Valparaíso
-
-Since March 25, 2025, demonstrations related to fishing quotas have been taking place in Valparaíso. There have been violent clashes. Security forces have used excessive force to disperse crowds.
-
-[More information on demonstrations](#demonstrations)
-
 ### Crime
 
 #### Petty crime

@@ -1,7 +1,7 @@
 {
     "name": "Taiwan",
-    "update_reason": "Editorial change",
-    "update_date": "2025-03-07T10:43:00",
+    "update_reason": "The Need help? section was updated.",
+    "update_date": "2025-04-10T09:30:00",
     "sections": {
         "risk": "canada/Taiwan/risk.md",
         "security": "canada/Taiwan/security.md",

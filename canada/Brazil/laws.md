@@ -23,7 +23,7 @@ Travellers have fallen victim to scams in which illegal drugs are hidden inside 
 
 #### Useful links
 
-* [Alcohol, drugs and travel](https://travel.gc.ca/travelling/health-safety/drugs)
+* [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
 * [Warning to Canadian seniors targeted by international drug smuggling scams](https://www.cbsa-asfc.gc.ca/security-securite/senior-aines-eng.html)
 
 ### 2SLGBTQI+ persons
@@ -97,7 +97,7 @@ It’s illegal to bring these items into Brazil:
 
 If you have them in your possession upon arrival, customs officials could confiscate them, and you could receive a fine.
 
-[Electronic cigarette regulations](https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2024/anvisa-atualiza-regulacao-de-cigarro-eletronico-e-mantem-proibicao) - National Health Regulatory Agency (in Portuguese)
+[Electronic cigarette regulations](https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2024/anvisa-atualiza-regulacao-de-cigarro-eletronico-e-mantem-proibicao) – National Health Regulatory Agency (Portuguese only)
 
 ### International Child Abduction
 
@@ -125,13 +125,11 @@ Be aware that Canadian consular officials cannot interfere in private legal matt
 * [Canadian embassies and consulates by destination](https://travel.gc.ca/assistance/embassies-consulates)
 * [Request emergency assistance](https://travel.gc.ca/assistance/emergency-assistance?_ga)
 
-### 
-
 ### Money
 
 The currency of Brazil is the Brazilian real (BRL).
 
-Canadian bank cards usually work in ATMs. Credit and debit cards are widely accepted. 
+Canadian bank cards usually work in ATMs. Credit and debit cards are widely accepted.
 
 ATMs are scarcely available in rural areas.
 

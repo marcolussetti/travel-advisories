@@ -49,9 +49,9 @@ They can hamper overland travel, especially in rural areas. Roads may become imp
 * Keep informed of regional weather forecasts
 * Follow the instructions of local authorities
 
-Useful links
+#### Useful links
 
-* [Weather warnings](https://portal.inmet.gov.br/) – National Institute of Meteorology (in Portuguese)
+* [Weather warnings](https://portal.inmet.gov.br/) – National Institute of Meteorology (Portuguese only)
 * [Severe storms outside Canada](https://travel.gc.ca/travelling/health-safety/hurricanes-typhoons-cyclones-monsoons?_ga=2.238562688.1604296173.1718630005-1405742948.1680118138)
 
 ### Landslides
@@ -73,5 +73,3 @@ Brasilia and the country's interior experience extreme dry periods between May a
 Western Brazil can experience periods of prolonged drought, which can lead to water shortages.
 
 Stay informed of regional weather forecasts and plan accordingly.
-
-###
