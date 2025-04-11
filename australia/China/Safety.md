@@ -70,6 +70,14 @@ Social media can also be risky in destinations where there are social or politic
 
 * [Cyber security when travelling overseas](/before-you-go/staying-safe/cyber-security "Cyber security when travelling overseas")
 
+#### Drink spiking
+
+Drink spiking can happen anywhere. Be alert to the potential risks, and don't leave food or drinks unattended. Pay attention when your drinks are being mixed. Stick to reputable venues and avoid homemade alcoholic drinks due to the risk of methanol poisoning. Get urgent medical help if you suspect you've been a victim.
+
+**More information:**
+
+* [Partying safely](https://www.smartraveller.gov.au/before-you-go/safety/partying)
+
 #### Civil unrest and political tension
 
 Public protests and events that draw large groups of people can turn violent.

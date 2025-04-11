@@ -30,7 +30,7 @@ You need a valid yellow fever vaccination certificate to enter Libya if you arri
 
 **More information:**
 
-* [Countries with a risk of yellow fever (PDF 252KB)](https://www.who.int/publications/m/item/countries-with-risk-of-yellow-fever-transmission-and-countries-requiring-yellow-fever-vaccination-(november-2022))
+* [Countries with a risk of yellow fever (PDF 252KB)](https://cdn.who.int/media/docs/default-source/travel-and-health/countries-with-risk-of-yellow-fever-transmission.pdf?sfvrsn=bf42ac59_4&download=true)
 
 #### Leaving safely
 
@@ -87,17 +87,11 @@ Although Australian passports comply with international standards for sex and ge
 
 #### Money
 
-The local currency is the Libyan Dinar (LYD).
+The local currency is the Libyan Dinar (LYD). Libya law prohibits importing or exporting the Libyan Dinar. 
 
-Libya is a cash economy.
-
-Credit card use is limited.
-
-It's illegal to import and export the local currency. You can import foreign currency if you declare, but you can't export more than what you declared on arrival.
+Libya is a cash-based economy. Debit cards, credit cards and traveller’s cheques are not often accepted, and ATMs are rare. Official exchange offices will not accept Australian dollars. 
 
 Withdrawing money from banks may be difficult due to severe shortages of cash. The security situation sometimes disrupts banking services.
-
-Traveller's cheques aren't accepted. There are few ATMs.
 
 #### Local travel
 
@@ -113,13 +107,19 @@ Unexploded remnants of war, including landmines, are a hazard throughout Libya.
 
 Borders can close at short notice.
 
-Road conditions are reasonable throughout Libya. However, driving standards are poor and traffic is heavy.
+Road travel within Libya is dangerous. There's a risk of carjacking and robbery as well as being caught up in outbreaks of localised violence.
 
-Wind-blown sand can reduce visibility quickly.
+Road traffic accidents are common and the emergency response to a road traffic accident may be limited.
+
+Road conditions vary across the country. Driving standards are poor and traffic is heavy.
+
+In the desert, roads are unpaved and wind-blown sand can reduce visibility quickly.
+
+There may be fuel shortages and long queues at fuel stations.
 
 **More information:**
 
-* [Driving or riding](/before-you-go/getting-around/road-safety "Road safety")
+* [Driving or riding](https://www.smartraveller.gov.au/before-you-go/getting-around/road-safety)
 
 #### Air travel
 

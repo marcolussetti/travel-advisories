@@ -40,7 +40,7 @@ Get your passport stamped on entry by land or sea. If it isn't stamped, you coul
 
 If you're entering by land from Colombia or Peru, you must get an entry stamp from an Ecuadorian official at the border. If you're on a shared bus, consider advising the driver that you need to get the stamp. Otherwise, the driver may not stop at the border, resulting in you not being in Ecuador legally. You'll need the exit stamp from the country you're entering Ecuador from. 
 
-When entering via land or river borders from Peru or Colombia, you're required to present an [apostilled police](https://www.smartraveller.gov.au/consular-services/notarial-services/documents-overseas) check in Spanish or an official Spanish translation covering the previous 5 years. Minors, diplomats, and people already holding valid visas in Ecuador are exempt from providing this police check. You can also request Ecuadorian immigration authorities to do a background check on their immigration system (which flags any travel prohibitions or INTERPOL alerts) at the point of entry.
+When entering via land or river borders from Peru or Colombia, you're required to present an [apostilled police check](https://www.smartraveller.gov.au/consular-services/notarial-services/documents-overseas) in Spanish or an official Spanish translation covering the previous 5 years. Minors, diplomats, and people already holding valid visas in Ecuador are exempt from providing this police check. You can also request Ecuadorian immigration authorities to do a background check on their immigration system (which flags any travel prohibitions or INTERPOL alerts) at the point of entry.
 
 For up-to-date information, follow [Ecuador's Embassy in Canberra](https://twitter.com/EmbajadaEcuAUS).
 

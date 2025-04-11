@@ -77,7 +77,7 @@ For the registration process you need:
 * parents' passports
 * child's passport
 
-For citizenship issues, see the 'Dual citizenship' section under [Laws](#local-laws).
+For citizenship issues, see the 'Dual citizenship' section under [Local laws](#local-laws).
 
 #### Passport
 
@@ -177,8 +177,8 @@ Age and health restrictions apply and vary depending on the class of driver's li
 
 Travel by road is dangerous because of the following:
 
-* poorly maintained roads
-* aggressive driving
+* poorly maintained roads in rural areas
+* speeding and drink driving
 
 You're more likely to be killed in a car accident in China than in Australia.
 
@@ -206,7 +206,7 @@ Use only licensed taxis or limousine services with a good reputation, preferably
 
 When hailing a taxi, always insist that the meter is used.
 
-Most taxis in China don't have seatbelts.
+Many taxis in China don't have seatbelts.
 
 Taxi drivers may swap legitimate RMB100 notes for fake notes. They will then return the fake note and refuse to accept it as payment because it’s counterfeit.
 

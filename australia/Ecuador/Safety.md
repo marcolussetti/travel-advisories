@@ -44,13 +44,9 @@ If you can't go out safely and don't have access to food and/or supplies, consid
 
 In January 2024, Ecuador declared a nationwide state of "internal armed conflict" in response to the rise in crime and gang violence across the country. This state enables an increased military and police presence.
 
-A state of emergency was renewed on 3 March for the provinces of Guayas, El Oro, Santa Elena, Manabí, Orellana, Sucumbios, Los Ríos, Quito Metropolitan District (Pichincha province), and Camilo Ponce Enríquez district (Azuay province). The military and police can seize assets, conduct inspections and enter private properties without permission. 
+The security situation may change at short notice. Check for updates from Ecuadorian authorities.
 
-The Ecuadorian authorities have imposed curfews in some districts ('cantons') and/or parishes ('parroquias') within the above provinces. The situation may change at short notice. Check for updates from Ecuadorian authorities.
-
-If you need to travel to or from an airport during the curfew times, you must have a copy of your flight details to show police if requested.
-
-If you're in a state of emergency zone, follow the instructions of local authorities and monitor media for updates. Keep your passport with you at all times, and let your family or friends know where you are.
+A separate state of emergency had been in place in some provinces for several months until early April 2025. 
 
 During a state of emergency, police and military can:
 
@@ -151,7 +147,7 @@ Armed criminals have boarded buses to rob passengers.
 
 North of Quito, high risk security situations can develop quickly. Dangerous areas include Ecuador's borders with Colombia and Peru in:
 
-* Sucumbios province
+* Sucumbíos province
 * Esmeraldas province
 
 Armed groups and other criminals engage in kidnapping and other violent criminal activity. Foreigners have been kidnapped in these regions, including in Cuyabeno wildlife reserve.
@@ -184,11 +180,7 @@ To reduce your risk of scams:
 
 #### Electricity and water shortages
 
-From September 2024, nationwide power outages have been occurring. The duration and frequency differ by location.  These outages can affect public areas such as traffic lights and shopping centres.
-
-For more information on power outage times in your location, check your local power provider’s official website or social media channels, monitor local media and follow the advice from the local authorities.
-
-There is also water rationing, which may cause water shortages in some parts of the country. Check with your local water supplier for the times and dates affected.
+Power outages and water shortages may occur at any time. In 2024, nationwide power outages occurred. The duration and frequency differed by location. There was also water rationing, which caused water shortages in some parts of the country. 
 
 #### Cyber security
 
@@ -221,7 +213,7 @@ Methanol can be used in unregulated alcohol production to lower costs. Methanol
 
 Kidnapping occurs across the world with political, ideological, and criminal motives. Foreigners, including Australians, have been kidnapped overseas whilst travelling. Kidnaps can happen anywhere, anytime, including in destinations that are typically at lower risk.
 
-Kidnapping rates increased in Ecuador in 2023, amid a wider deterioration of the security environment. Kidnaps are usually conducted by financially motivated criminals and tend to last less than a week. Kidnapping gangs have been reported to operate in north-western provinces. Kidnappings have occurred along the northern border with Colombia, with some targeting foreigners.
+Kidnapping rates increased in Ecuador in 2024, amid a wider deterioration of the security environment. Kidnaps are usually conducted by financially motivated criminals and tend to last less than a week. Kidnapping gangs have been reported to operate in north-western provinces. Kidnappings have occurred along the northern border with Colombia, with some targeting foreigners.
 
 There is a risk of express kidnappings in Ecuador. Businesspeople and visitors perceived to be wealthy may be targeted by kidnappers in search of payouts.
 
@@ -236,22 +228,39 @@ Kidnappings for ransom happen, including in:
 
 If, despite our advice, you travel to an area with a high risk of kidnapping, our ability to provide consular assistance in these destinations will be limited.
 
-To reduce the risk of kidnapping:
+You are responsible for your own safety. To reduce the risk of kidnapping:
 
-* always be alert to your personal security and surroundings
-* get professional security advice for travel in locations with a heightened kidnap risk
+* always be alert to your personal security and surroundings - avoid distractions. Be prepared to stop or take evasive action if you sense danger
+
+* get professional security advice for travel in locations with a heightened kidnap risk. It is essential to have a contingency plan
+
 * check your accommodation has appropriate security measures
-* avoid isolated locations, particularly when travelling alone
-* notify family or friends of planned travel and share your location
-* avoid talking about your money or business affairs
-* use ATMs in public places and during daylight hours
-* avoid giving personal details to strangers online or over the phone
 
-The Australian Government's longstanding policy is that it doesn't make payments or concessions to kidnappers. Ransom payments to kidnappers have funded further terrorist attacks and criminal activity. Paying a ransom to terrorist groups will likely break Australian counter-terrorism financing laws.
+* vary your movements so you don't set predictable patterns
+
+* keep a low profile – including online. Drawing attention to yourself in high-risk areas may signal to criminals that you have something worth taking
+
+* avoid isolated locations, particularly when travelling alone. There is safety in numbers, and you should try to travel with someone else, especially at night
+
+* notify family or friends of planned travel; share your location and emergency contacts that they can rely on if something happens
+
+* avoid talking about your money or business affairs
+
+* use ATMs in public places and during daylight hours
+
+* avoid giving personal details to strangers online or over the phone. Criminals have been known to search social media for victims
+
+* If you are confronted by armed criminals, it is best to surrender and cooperate – resistance tends to make the situation worse
+
+You can find more information on how to reduce your risk of kidnapping here: [Kidnapping](https://www.smartraveller.gov.au/before-you-go/safety/kidnapping).
+
+The Australian Government's longstanding policy is that it doesn't make payments or concessions to kidnappers. Ransom payments to kidnappers have funded further terrorist attacks and criminal activity. Ransom payments to terrorist groups are likely to contravene Australian counter-terrorism financing laws.
 
 **More information:**
 
 * [Kidnapping](/before-you-go/safety/kidnapping "Reducing the risk of kidnapping")
+* [Scams that affect travellers](https://www.smartraveller.gov.au/before-you-go/safety/scams)
+* [Reducing the risk of piracy](https://www.smartraveller.gov.au/before-you-go/safety/piracy)
 
 #### Terrorism
 

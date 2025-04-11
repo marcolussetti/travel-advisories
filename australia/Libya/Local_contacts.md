@@ -10,7 +10,11 @@ Depending on what you need, contact your:
 * employer
 * airline
 
-Emergency services exist in Libya, but you shouldn't expect them to help you. The rule of law has not been re-established in Libya. Police services may not be operating in all parts of the country.
+Emergency services exist in Libya, but you shouldn't expect them to help you.
+
+For ambulance, fire or police phone: 1415
+
+The rule of law has not been re-established in Libya. Police services may not be operating in all parts of the country.
 
 #### Consular contacts
 
@@ -32,7 +36,7 @@ Fax: +39 06 85 272 300
 Email: [consular-rome@dfat.gov.au](mailto:consular-rome@dfat.gov.au)  
 Website: [Australia in Italy](http://www.italy.embassy.gov.au/)  
 Facebook: [Australian Embassy, Italy](https://www.facebook.com/AusEmbIT/)  
-X: [@AusAmbRome](http://twitter.com/AusAmbRome)
+X: [@AusAmbItaly](http://twitter.com/AusAmbItaly)
 
 #### 24-hour Consular Emergency Centre
 

@@ -79,7 +79,7 @@ When preparing food, handle poultry properly. Thoroughly cook all parts of the p
 
 #### HIV/AIDS
 
-[HIV/AIDS](https://www.healthdirect.gov.au/hiv-infection-and-aids) is a significant risk in China.
+[HIV/AIDS](https://www.healthdirect.gov.au/hiv-infection-and-aids) is a risk in China.
 
 Take precautions if you engage in activities that expose you to the risk of infection.
 
@@ -91,23 +91,6 @@ Ask for sterilised equipment. You may need to pay for new syringes in hospitals 
 
 [Japanese encephalitis](https://www.who.int/news-room/fact-sheets/detail/japanese-encephalitis) is widespread in rural southern China from June to August. The disease is also known as encephalitis B. A vaccine is available.
 
-The risk of [malaria](https://www.who.int/news-room/fact-sheets/detail/malaria) increases during warm weather and is more significant in rural areas, particularly in the provinces of:
-
-* Hainan
-* Yunnan
-* Fujian
-* Guangdong
-* Guangxi
-* Guizhou
-* Sichuan
-* Tibet (Zanbo Valley areas only)
-* Anhui
-* Hubei
-* Hunan
-* Jiangsu
-* Jiangxi
-* Shandong
-
 [Dengue](https://www.health.gov.au/diseases/dengue-virus-infection) cases have risen sharply, especially in Guangdong and Guangzhou. Risks increase during the wet season.
 
 To protect yourself from disease:
@@ -115,7 +98,6 @@ To protect yourself from disease:
 * make sure your accommodation is insect-proof
 * use insect repellent
 * wear long, loose, light-coloured clothing
-* consider taking medicine to prevent malaria
 * get vaccinated against Japanese encephalitis
 
 #### Rabies
@@ -175,7 +157,6 @@ Follow the advice from local authorities about days with bad pollution and how t
 **More information:**
 
 * [Air Quality Index](http://www.aqicn.info/)
-* [US Embassy, Beijing](https://china.usembassy-china.org.cn/embassy-consulates/beijing/)
 * [Air pollution](https://www.who.int/health-topics/air-pollution#tab=tab_1)
 
 #### Altitude sickness

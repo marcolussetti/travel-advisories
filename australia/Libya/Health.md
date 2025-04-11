@@ -2,18 +2,13 @@
 
 #### Travel Insurance
 
-Get comprehensive [travel insurance](/before-you-go/the-basics/travel-insurance "Travel insurance") before you leave. Your policy needs to cover all overseas medical costs, including medical evacuation. The Australian Government won't pay for these costs.
+As Libya is a ‘do not travel’ location, standard travel insurance is unlikely to provide coverage. You should ensure your travel insurance specifically covers high-risk destinations including Libya. Your policy needs to cover all overseas medical costs, including medical evacuation. The Australian Government won't pay for these costs.
 
 If you can't afford travel insurance, you can't afford to travel. This applies to everyone, no matter how healthy and fit you are.
 
-You'll probably need a special insurance policy that covers travel to high-risk destinations. Most Australian policies won't cover you for travel to Libya.
+**More information**:
 
-If you're not insured, you may have to pay many thousands of dollars up-front for medical care.
-
-Confirm:
-
-* what activities and care your policy covers
-* that your insurance covers you for the whole time you'll be away
+* [travel insurance](https://www.smartraveller.gov.au/before-you-go/the-basics/travel-insurance)
 
 #### Physical and mental health
 
@@ -54,12 +49,13 @@ Carry a copy of your prescription or a letter from your doctor stating:
 
 Waterborne, foodborne, parasitic and other infectious diseases are common. These include:
 
+* [Leishmaniasis](https://www.who.int/news-room/fact-sheets/detail/leishmaniasis)
+* [West Nile virus](https://www.who.int/news-room/fact-sheets/detail/west-nile-virus)
 * [typhoid](https://www.who.int/immunization/diseases/typhoid/en/)
 * [hepatitis](https://www.who.int/hepatitis/en/)
 * [tuberculosis](https://www.who.int/news-room/fact-sheets/detail/tuberculosis)
 * [plague](https://www.who.int/news-room/fact-sheets/detail/plague)
 * [measles](https://www.health.gov.au/diseases/measles)
-* [COVID-19](https://www.health.gov.au/health-alerts/covid-19 )
 
 Serious outbreaks sometimes occur.
 

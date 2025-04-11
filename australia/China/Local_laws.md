@@ -15,12 +15,14 @@ If detained, a person of this age will be:
 * held with adults
 * subject to the same conditions and legal processes as adults
 
-The Australian Government can't help you if you're a [dual national](/before-you-go/who-you-are/dual-nationals "Advice for dual nationals") and you travel on your:
+Under Chinese law, we may be unable to help you if you entered China on your:
 
 * Chinese passport
 * Hong Kong or Macau Mainland Travel Permit
 * identity card issued by Taiwan
 * any non-Australian foreign passport
+
+Chinese authorities may not recognise you as Australian and may refuse access to Australian consular services.
 
 #### Death penalty
 
@@ -55,13 +57,16 @@ Authorities may not allow you to leave China if you're involved in a:
 
 #### Exit bans
 
-Sometimes people are only aware of an exit ban on them once they try to leave China.
+Chinese authorities may place an exit ban upon an individual to prevent them from leaving the country. Sometimes, people only become aware of an exit ban when they try to leave China.
 
 Exit bans can affect you even if you're not directly involved in the legal proceedings. Authorities have stopped some Australians from leaving China because of a dispute involving family members. Sometimes it is years before authorities allow people to leave China.
+
+Our ability to assist you if you are subject to an exit ban is limited.
 
 If you're involved in local legal matters:
 
 * get professional advice
+* you, or your lawyer, should contact the authority responsible for the exit ban
 * be aware of your rights and responsibilities
 
 #### Other laws
@@ -84,9 +89,15 @@ In China, it's illegal to:
 If you break these laws, you could be:
 
 * arrested
-* imprisoned
 * fined
 * deported
+* imprisoned
+
+#### Internet access
+
+China limits access to many foreign websites and social media services. You may be unable to access your banking, use popular phone apps, or make calls or send messages using internet-based services.
+
+The use of services to bypass local internet restrictions may be illegal and can attract penalties, including imprisonment.
 
 #### Registration and identification
 
@@ -104,7 +115,7 @@ If you don't register your place of residence or carry identification, authoriti
 
 #### LGBTQIA+ laws
 
-Homosexuality is not illegal in China but be aware of local sensitivities.
+Homosexuality is not illegal in China but be aware of local sensitivities, including with regards to public displays of affection. Chinese law does not guarantee freedom from discrimination for LGBTQIA+ travellers.
 
 **More information:**
 

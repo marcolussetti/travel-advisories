@@ -2,7 +2,7 @@
 
 Latest update
 
-Ecuador is in a state of 'internal armed conflict' due to crime. A separate state of emergency is in effect in several provinces, and some districts are under curfew. The situation may change at short notice. Monitor the media and follow the advice of local authorities (see 'Safety'). Do not travel within 20km of the border with Colombia, except the official border crossing at Tulcan, due to the high risk of kidnapping and violent crime associated with drug-related criminal organisations.
+We've reviewed our advice for Ecuador and continue to advise exercise a high degree of caution for Ecuador overall. Ecuador is in a state of 'internal armed conflict' due to crime. The security environment may change at short notice. Monitor the media and follow the advice of local authorities (see 'Safety'). Do not travel within 20km of the border with Colombia, except the official border crossing at Tulcan, due to the high risk of kidnapping and violent crime associated with drug-related criminal organisations.
 
 Advice Level summary
 
@@ -26,9 +26,11 @@ Higher levels apply in some areas.
 
 See [Safety](#safety)
 
-[Reconsider your need to travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level3) to Sucumbios and Esmereldas provinces and Guayaquil City.
+[Reconsider your need to travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level3) to Sucumbíos and Esmeraldas provinces and Guayaquil City.
 
-[Reconsider your need to travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level3) to Sucumbios and Esmereldas provinces and Guayaquil City due to the high level of gang-related crime and the threat of kidnapping.
+[Reconsider your need to travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level3) to Sucumbíos and Esmeraldas provinces and Guayaquil City due to the high level of gang-related crime and the threat of kidnapping.
+
+This does not apply to airside transit within Guayaquil Airport in Guayas province.
 
 [Exercise normal safety precautions](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level1) in the Galapagos Islands.
 
@@ -38,9 +40,8 @@ See [Safety](#safety)
 
 ### Safety
 
-* A state of emergency was renewed on 3 March for the provinces of Guayas, El Oro, Santa Elena, Manabí, Orellana, Sucumbios, Los Ríos, Quito Metropolitan District (Pichincha province), and Camilo Ponce Enríquez district (Azuay province). The military and police can seize assets, conduct inspections and enter private properties without permission during this time.
-* There are curfews in some districts (‘cantons’) of the above provinces. The situation may change at short notice. Monitor the media and follow the advice of local authorities. Ecuador has declared a nation-wide state of "internal armed conflict" due to crime and military efforts to combat it.
-* There's a high risk of kidnapping and violent crime in the northern regions and Guayaquil City. Areas bordering Colombia and Peru are particularly dangerous. Do not travel within 20km of the border with Colombia except at the official border crossing at Tulcan. If, despite our advice, you're travelling to these areas, seek professional security advice. Be alert to possible threats.
+* The security environment in Ecuador may change at short notice. Monitor the media and follow the advice of local authorities. Ecuador has declared a nation-wide state of "internal armed conflict" due to crime and military efforts to combat it.
+* There's a high risk of kidnapping and violent crime in the northern and coastal regions and Guayaquil City. Areas bordering Colombia and Peru are particularly dangerous. Do not travel within 20km of the border with Colombia except at the official border crossing at Tulcan. If, despite our advice, you're travelling to these areas, seek professional security advice. Be alert to possible threats.
 * Demonstrations occur frequently. Even peaceful demonstrations can turn violent at any time. Political activity by foreigners is illegal, including joining protests. If you take part, officials may detain or deport you. Avoid large public gatherings.
 * Violent crime and theft are common. The risk of violent crime increases when you travel alone or after dark. Criminals target taxis, buses, transport hubs and crowded areas. Thieves target travellers, and distraction is a common tactic. Female travellers are encouraged to take particular caution. Be careful when using ATMs and credit cards. Avoid going out at night. Keep vehicle doors and windows locked and valuables out of sight, even when moving.
 * Be alert to the potential risks around drink spiking and methanol poisoning through consuming alcoholic drinks. See our advice on [partying safely while overseas](/before-you-go/safety/partying "Partying safely").

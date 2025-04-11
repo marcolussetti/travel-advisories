@@ -2,7 +2,7 @@
 
 Latest update
 
-We continue to advise exercise a high degree of caution in China. As previously advised, authorities have detained foreigners on the grounds of 'endangering national security'. Australians may be at risk of arbitrary detention or harsh enforcement of local laws, including broadly defined National Security Laws.
+We've reviewed our advice for China and continue to advise exercise a high degree of caution. As previously advised, authorities have detained foreigners on the grounds of 'endangering national security'. Australians may be at risk of arbitrary detention or harsh enforcement of local laws, including broadly defined National Security Laws.
 
 Advice Level summary
 
@@ -39,7 +39,7 @@ Full travel advice: [Safety](#safety)
 
 * Tap water in China may not be safe to drink. Drink only bottled water with intact seals.
 * People have died from bird flu in China. Stay away from live poultry. When preparing food, handle poultry properly and ensure it's thoroughly cooked.
-* HIV/AIDS is a significant risk in China. Take precautions if engaging in activities that expose you to the risk of infection. Ask for sterilised equipment when receiving medical treatment.
+* HIV/AIDS is a risk in China. Take precautions if engaging in activities that expose you to the risk of infection. Ask for sterilised equipment when receiving medical treatment.
 * Animal and human rabies and hand, foot and mouth disease are common. Be careful with both wild and domestic animals in China. Wash your hands carefully and regularly. Take other hygiene precautions.
 * High pollution levels are a problem in major cities. Follow the advice from local authorities on days with harmful pollution.
 
@@ -47,12 +47,14 @@ Full travel advice: [Health](#health)
 
 ### Local laws
 
-* The Australian Government can't intervene in the Chinese justice process. We also can't help if you're a dual national and don't enter China on your Australian passport.
+* The Australian Government can't intervene in the Chinese justice process. Chinese authorities may not recognise you as Australian and may refuse access to Australian consular services.
+* If local authorities consider you a citizen of China, they may refuse to grant you access to Australian consular services. This will prevent the Australian Government from providing you with those services. This includes if you're a dual national and don't enter China on your Australian passport.
+* If you're a former Chinese citizen, authorities may treat you as a citizen and refuse access to Australian consular services. Get legal advice if you're unsure of your citizenship status under Chinese law.
 * Chinese law may treat a person aged 12 years and older as an adult. China has strict laws and severe criminal punishments including the death penalty and life imprisonment.
 * You must always carry identification and show it to the police if they ask.
 * Chinese authorities undertake random drug testing on foreign nationals and can prosecute individuals who return a positive test result regardless of when or where the drugs were taken.
 * Many business and employment issues may be considered criminal matters in China. Penalties are severe. Get professional legal advice before entering into any employment or commercial contract in China.
-* If you're a former Chinese citizen, authorities may treat you as a citizen and refuse access to Australian consular services. Get legal advice if you're unsure of your citizenship status under Chinese law.
+* China prohibits access to many foreign internet services. This may impact your ability to communicate and access services such as banking and social media.
 
 Full travel advice: [Local laws](#local-laws)
 

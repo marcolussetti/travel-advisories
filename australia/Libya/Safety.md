@@ -6,7 +6,7 @@
 
 In recent years, there have been violent clashes between armed groups across the country, including in Tripoli.
 
-Fighting can break out anywhere without warning, and often happens at night.
+Fighting can break out anywhere without warning.
 
 If you're in Libya, your life and safety could be at risk. Some foreigners have been killed.
 
@@ -15,7 +15,7 @@ Militias have targeted ports, airports, and oil and gas installations.
 If you travel to Libya despite our advice:
 
 * seek professional security advice
-* monitor the media for possible risks
+* monitor local and international media for possible risks
 * arrange personal security measures
 * leave Libya as soon as it's safe to do so
 
@@ -29,20 +29,20 @@ Ongoing unrest restricts our capacity to give consular help to Australians who a
 
 #### Terrorism
 
-Terrorism remains a serious threat in Libya. Terrorist groups engage in ongoing clashes.
+Terrorism remains a serious threat in Libya, particularly in Fezzan and south of Sirte. Terrorist groups engage in ongoing clashes.
 
 Terrorists often use small arms, rocket-propelled grenades or improvised bombs. They target Libyan authorities and security interests.
 
 Attacks on foreign interests have also occurred, including:
 
-* hotels
-* locations popular with Westerners
+* hotels and restaurants
+* locations visited by foreigners, including shopping markets
+* public transportation systems
 * remaining diplomatic interests
 * international non-government organisations
 
 To stay safe:
 
-* report suspicious activities or items to the police
 * check the media for new threats
 * take official warnings seriously
 * follow the instructions of local authorities
@@ -57,52 +57,47 @@ Terrorism is a threat worldwide.
 
 #### Kidnapping
 
-Kidnapping occurs across the world with political, ideological, and criminal motives. Foreigners, including Australians, have been kidnapped overseas whilst travelling. Kidnaps can happen anywhere, anytime, including in destinations that are typically at lower risk.
+Kidnapping occurs across the world with political, ideological, and criminal motives. Foreigners, including Australians, have been kidnapped overseas whilst travelling. Kidnaps can happen anywhere, anytime, including destinations that are typically at lower risk.  
+  
+Kidnapping occurs in all regions of Libya, and foreign nationals are frequently targeted.  A variety of criminal groups use kidnapping for financial or political gain, particularly in urban areas along Libya’s coastline. Militia checkpoints throughout the country’s interior also act as prime locations for potential kidnappings and victim identifying. 
 
-There's an ongoing high threat of kidnapping in Libya. There is a heightened risk at border areas with Algeria, Niger, Chad, Sudan and Tunisia.
+If despite our advice you travel to an area with a high risk of kidnapping, our ability to provide consular assistance will be severely limited.   
+  
+You are responsible for your own safety. To reduce your risk of being kidnapped:
 
-Terrorist groups are capable of conducting kidnappings within Libya and across borders. Criminal gangs also carry out kidnappings, and there is a realistic possibility that they would sell hostages on to terrorist groups.
-
-Foreigners have been kidnapped in the past.
-
-Possible targets include:
-
-* mining industry employees
-* aid and humanitarian workers or volunteers
-* journalists and businesses
-* tourists, especially where tourism is rare
-
-If, despite our advice, you travel to an area with a high risk of kidnapping, our ability to provide consular assistance in these destinations will be limited.
-
-To reduce the risk of kidnapping:
-
-* always be alert to your personal security and surroundings
-* get professional security advice for travel in locations with a heightened kidnap risk
+* always be alert to your personal security and surroundings - avoid distractions. Be prepared to stop or take evasive action if you sense danger
+* get professional security advice for travel in locations with a heightened kidnap risk. It is essential to have a contingency plan
 * check your accommodation has appropriate security measures
-* avoid isolated locations, particularly when travelling alone
-* vary your movements and don't set patterns
-* notify family or friends of planned travel and share your location
+* vary your movements so you don't set predictable patterns
+* keep a low profile – including online. Drawing attention to yourself in high-risk areas may signal to criminals that you have something worth taking
+* avoid isolated locations, particularly when travelling alone. There is safety in numbers, and you should try to travel with someone else, especially at night
+* notify family or friends of planned travel; share your location and emergency contacts that they can rely on if something happens
 * avoid talking about your money or business affairs
 * use ATMs in public places and during daylight hours
-* avoid giving personal details to strangers online or over the phone
+* avoid giving personal details to strangers online or over the phone. Criminals have been known to search social media for victims
+* If you are confronted by armed criminals, it is best to surrender and cooperate – resistance tends to make the situation worse
 
-The Australian Government's longstanding policy is that it doesn't make payments or concessions to kidnappers. Ransom payments to kidnappers have funded further terrorist attacks and criminal activity. Paying a ransom to terrorist groups will likely break Australian counter-terrorism financing laws.
+You can find more information on how to reduce your risk of being kidnapped here: [Kidnapping](https://www.smartraveller.gov.au/before-you-go/safety/kidnapping).
 
+The Australian Government's longstanding policy is that it doesn't make payments or concessions to kidnappers. Ransom payments to kidnappers have funded further terrorist attacks and criminal activity. Ransom payments to terrorist groups are likely to contravene Australian counter-terrorism financing laws.   
+  
 **More information:**
 
-* [Kidnapping](/before-you-go/safety/kidnapping "Reducing the risk of kidnapping")
+* [Kidnapping](https://www.smartraveller.gov.au/before-you-go/safety/kidnapping)
+* [Scams that affect travellers](https://www.smartraveller.gov.au/before-you-go/safety/scams)
 
 #### Civil unrest and political tension
 
 #### Demonstrations and protests
 
-Libya's political situation remains volatile. Outbreaks of violence can occur with little warning, including in Tripoli.
+Libya's political situation remains volatile. Outbreaks of violence can occur with little warning, including in Tripoli. Demonstrators have previously set fire to government buildings.
 
 Public protests and events that draw large groups of people can turn violent.
 
 If you travel to Libya despite our advice:
 
 * avoid protests and demonstrations
+* remain vigilant
 * monitor the media and other sources for possible unrest or strikes
 
 **More information:**
@@ -115,7 +110,7 @@ If you travel to Libya despite our advice:
 
 Crime levels in Libya are high. Law and order has broken down in most of the country.
 
-Violent crime is widespread. Foreigners are at high risk of violent crime. Crimes include carjackings targeting foreign-owned vehicles and [robbery](/before-you-go/safety/theft-robbery "Theft and robbery") by armed groups.
+Violent crime is widespread. Foreigners are at high risk of violent crime. Crimes include carjackings targeting foreign-owned vehicles, extortion and [robbery](/before-you-go/safety/theft-robbery "Theft and robbery") by armed groups.
 
 #### Border-area violence
 
@@ -139,13 +134,13 @@ Social media can also be risky in destinations where there are social or politic
 
 It's illegal to drink or import alcohol in Libya.
 
-If, despite our advice, you decide to consume alcoholic drinks in Libya, be alert to the potential risks around drink spiking and methanol poisoning through consuming alcoholic drinks. Methanol poisoning incidents occur from time to time, resulting in serious injuries and deaths.
+If, despite our advice, you decide to consume alcoholic drinks in Libya, be alert to the potential risks around drink spiking and methanol poisoning from consuming alcoholic drinks. Methanol poisoning incidents occur from time to time, resulting in serious injuries and deaths.
 
 Get urgent medical attention if you think you or someone else has been drugged. Methanol can be used in unregulated alcohol production to lower costs. Methanol is highly toxic. As little as one shot can be fatal. Act quickly if you suspect you, or someone you're travelling with, have been poisoned.
 
 **More information:**
 
-* [Methanol poisoning](https://www.smartraveller.gov.au/before-you-go/safety/partying#methanol) (Smartraveller)
+* [Partying safely](https://www.smartraveller.gov.au/before-you-go/safety/partying)
 
 #### Climate and natural disasters
 
