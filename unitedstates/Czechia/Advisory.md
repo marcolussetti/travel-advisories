@@ -18,7 +18,7 @@
 
 Exercise normal precautions in the Czechia.
 
-Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/CzechRepublic.html) for additional information on travel to the Czechia.
+Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Czechia.html) for additional information on travel to the Czechia.
 
 If you decide to travel to the Czechia:
 

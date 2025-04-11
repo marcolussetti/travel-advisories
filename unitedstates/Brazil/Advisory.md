@@ -92,7 +92,7 @@ Email
 
 Website
 
-[https://br.usembassy.gov/embassy-consulates/embassy/](https://br.usembassy.gov/embassy-consulates/embassy/ "Embassy website address of U.S. Embassy Brasilia: https://br.usembassy.gov/embassy-consulates/embassy/")
+[https://br.usembassy.gov/embassy-consulates/](https://br.usembassy.gov/embassy-consulates/ "Embassy website address of U.S. Embassy Brasilia: https://br.usembassy.gov/embassy-consulates/")
 
 ### Brazil Map
 
