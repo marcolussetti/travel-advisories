@@ -47,7 +47,7 @@ Read [FCDO guidance on travel and mental health](https://www.gov.uk/guidance/for
 
 [Previous
 :
-Safety and security](/foreign-travel-advice/libya/safety-and-security)
+Regional risks](/foreign-travel-advice/libya/regional-risks)
 
 [Next
 :

@@ -23,7 +23,7 @@ At least 8 weeks before your trip:
 See [what health risks you’ll face in Myanmar](https://www.travelhealthpro.org.uk/country/156/myanmar-burma) including:
 
 * schistosomiasis – a parasitic infection caught in river water
-* diseases spread by contaminated food and water – including:
+* diseases spread by contaminated food and water, including:
   + hepatitis A
   + cholera
   + typhoid

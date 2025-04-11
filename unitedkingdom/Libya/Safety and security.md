@@ -12,14 +12,17 @@ Terrorist attacks in Libya cannot be ruled out.
 
 Attacks could be indiscriminate, including in places visited by foreigners. British people and nationals of other western countries are considered high-value hostages. Government buildings and security checkpoints have also been targeted in recent years, leading to deaths.
 
+Recent significant attacks include:
+
+* In April 2022, 3 people were injured in a car bombing attack by Islamic State near a Tariq Ibn Ziyad Brigade camp in Umm el Araneb, Southern Libya.
+* In 2021 Daesh claimed responsibility for 2 separate bomb attacks on Libyan security forces in the Fezzan province in southern Libya.  These attacks killed at least 4 people.
+
 Extremist groups including Daesh in Libya (formerly referred to as ISIL) are responsible for most attacks, which have targeted:
 
 * foreign and diplomatic personnel and premises
 * international hotels
 * oil installations
 * government and other official security institutions
-
-In 2021 Daesh claimed responsibility for 2 separate bomb attacks on Libyan security forces in the Fezzan province in southern Libya. These attacks killed at least 4 people.
 
 While there is a greater concentration of terrorist groups in the Fezzan Province, it is highly likely smaller numbers of terrorists can move relatively freely to other towns and regions to facilitate activity outside of the Fezzan Province.
 
@@ -31,11 +34,11 @@ The risk of terrorism may be higher if you travel in the border regions. Extremi
 
 ### Terrorist kidnap
 
-Terrorist groups including Daesh, Al-Qaida and their affiliates routinely use kidnapping as a tactic and can conduct kidnapping across borders. Terrorist groups within Libya have both intent and capability to carry out further kidnappings. It’s a realistic possibility that they will target foreign nationals. Criminal gangs also carry out kidnappings, and there is a realistic possibility that they would sell hostages on to terrorist groups. Foreign nationals have been kidnapped in Libya in the past, including 4 foreign nationals in south-east Libya in 2018.
+There has not been a terrorist kidnap in Libya for many years. Terrorist groups within Libya have intent to carry out kidnappings and it’s a realistic possibility that they will target foreign nationals. Criminal gangs also carry out kidnappings, and there is a realistic possibility that they would sell hostages on to terrorist groups. Foreign nationals have been kidnapped in Libya in the past, including 4 foreign nationals in south-east Libya in 2018.
 
 It is likely that any kidnap for ransom attempt by a terrorist group in Libya would occur in the south of the country, whereas a kidnap for ransom by militias would occur in a northern coastal city.
 
-There is a realistic possibility that a terrorist group, most likely Daesh-Libya or Al-Qaida in the Islamic Maghreb, will kidnap a western national in Libya. In recent months, the importance of oil and natural gas production in Libya has increased, and any western nationals working for oil and natural gas companies in Libya are highly likely viewed as high-value targets.
+In recent months, the importance of oil and natural gas production in Libya has increased, and any western nationals working for oil and natural gas companies in Libya are highly likely viewed as high-value targets.
 
 British nationals are seen as legitimate targets, including tourists, humanitarian aid workers, journalists and business travellers. If you are kidnapped, the reason for your presence is unlikely to protect you or secure your safe release.
 
@@ -43,9 +46,7 @@ The long-standing policy of the British government is to not make substantive co
 
 ## Regional escalation
 
-Ongoing hostilities in the region and between Israel and Lebanon could escalate quickly and pose risks for the wider region.
-
-On 1 October, Iran launched around 200 ballistic missiles at Israel. On 26 October Israel carried out military action against Iran.
+Ongoing hostilities in the region could escalate quickly and pose risks for the wider region.
 
 Monitor this travel advice and other media as the situation is changing fast. Follow and contact FCDO travel on [X](https://X.com/fcdotravelgovuk), [Facebook](https://www.facebook.com/fcdotravel) and [Instagram](https://www.instagram.com/travelaware/). You can also [get email notifications](https://www.gov.uk/foreign-travel-advice/libya/email-signup) when this travel advice is updated.
 
@@ -55,15 +56,15 @@ Read FCDO advice [if you’re affected by a crisis abroad](https://www.gov.uk/gu
 
 The political situation in Libya is fragile and the security situation remains dangerous and unpredictable.
 
-There is a UN-facilitated ceasefire in place between eastern and western armed forces. The risk of renewed fighting between them has decreased, but there is still a high risk of localised violence between competing armed groups.
+There is a UN-facilitated ceasefire in place between eastern and western armed forces. The risk of renewed fighting between them has decreased, but there is still a high risk of localised violence between competing armed groups throughout the country.
 
-Violence between armed groups can break out with little warning. In 2022, clashes between armed groups in Tripoli killed 32 people and injured over 150. Clashes again broke out in August 2023 in central Tripoli, resulting in temporary roadblocks and Mitiga Airport closure. Tensions have since calmed, with roads now open and no further disruption to air travel from Tripoli’s Mitiga Airport.
+Violence between armed groups can break out with little warning. In 2022, clashes between armed groups in Tripoli killed 32 people and injured over 150. Clashes again broke out in August 2023 in central Tripoli, resulting in roadblocks and the temporary closure of Mitiga Airport.
 
 Foreign forces and mercenaries continue to operate in Libya. The Interim Government of National Unity has limited control of security provision across the country. The lack of political stability has led to security incidents, road and airport closures, and oil blockades.
 
 There have been protests throughout Libya against the continued political deadlock, lack of basic service provision and corruption.
 
-If you choose to travel to Libya against FCDO advice, you should:
+If you choose to travel to Libya , you should:
 
 * monitor the local security situation carefully
 * remain vigilant
@@ -75,7 +76,7 @@ Basic services across Libya vary. Petrol can be difficult to access and there ar
 
 ## Crime
 
-Crime is widespread across Libya and violent robbery, carjacking and smuggling of fuel, drugs, weapons and people are common across the country. Armed groups and local security services regularly carry out operations against criminal gangs.
+Crime is widespread across Libya and violent robbery, carjacking and smuggling of fuel, drugs, weapons and people are common across the country and in major cities such as Benghazi and Tripoli. Armed groups and local security services regularly carry out operations against criminal gangs.
 
 ### Protecting your belongings
 
@@ -87,13 +88,13 @@ Take sensible precautions to protect yourself and your belongings. Foreign natio
 
 ## Detention
 
-British people have been detained by Libya’s intelligence services or armed groups. You are at higher risk of detention if you work:
+British people have been detained by Libya’s intelligence services or armed groups, including in Tripoli and Benghazi. You are at higher risk of detention if you work:
 
 * in private security
 * as a journalist
 * for an NGO
 
-If intelligence services or armed groups detain you in Libya, your health and welfare may be put at serious risk, especially if you have an existing medical condition. The British Embassy will have extremely limited capability to help you or intervene on your behalf. Any help will be even more limited for dual nationals of Libyan origin as you will be in your home country and dual nationality is not recognised by the Libyan authorities.
+If intelligence services or armed groups detain you in Libya, your health and welfare may be put at serious risk, especially if you have an existing medical condition. The British Embassy will have limited capability to help you or intervene on your behalf. Any help will be even more limited for dual nationals of Libyan origin as you will be in your home country and dual nationality is not recognised by the Libyan authorities.
 
 ## Laws and cultural differences
 
@@ -103,10 +104,9 @@ By law you must carry your passport. Foreign nationals have been arrested for fa
 
 ### Ramadan
 
-Libya is an Islamic country. Always respect local traditions, laws and religious customs, especially during the holy month of Ramadan.
+Libya is an Islamic country. Respect local traditions, laws and religious customs, especially during the holy month of Ramadan.
 
-Ramadan dates vary by year and country. Ramadan next year is expected to start in March 2025.
-
+Ramadan dates vary by year and country.
 During this time do not:
 
 * eat, drink, smoke or chew gum in public in the daytime, including in your car
@@ -145,7 +145,9 @@ You must get permission before taking any photographs or interviewing at or near
 
 ### LGBT+ travellers
 
-Same-sex sexual activity is illegal in Libya. Libyan society is intolerant of same-sex couples showing affection in public.
+Consensual same-sex sexual activity is illegal for men and women in Libya, with penalties of up to five years imprisonment.
+
+Libyan society is intolerant of people of the same sex showing affection in public. Individuals perceived to be part of the LGBT+ community have experienced physical and psychological violence and harassment. There have also been arrests for people perceived as ‘promoting homosexuality’.
 
 Read more [advice for LGBT+ travellers](https://www.gov.uk/lesbian-gay-bisexual-and-transgender-foreign-travel-advice).
 
@@ -173,7 +175,7 @@ Road traffic accidents are common and often result in deaths. The emergency resp
 
 Flights to and from all airports in Libya are at risk of cancellation at short notice.
 
-Tripoli International Airport has been closed since 2014, following clashes between armed groups in the area surrounding the airport. Other airports may change their flight schedule without notice. Mitiga Airport is Tripoli’s only currently functioning civilian airport. Fighting between armed groups in the area caused Mitiga Airport to temporarily close in 2023.
+Tripoli International Airport has been closed since 2014, following clashes between armed groups in the area surrounding the airport. Other airports may change their flight schedule without notice. Mitiga Airport, which operates international fllights, is Tripoli’s only currently functioning civilian airport. Fighting between armed groups in the area caused Mitiga Airport to temporarily close in 2023.
 
 The [UK Air Safety List (ASL)](https://www.gov.uk/guidance/uk-air-safety-list) lists all known airlines in Libya that do not meet international safety standards and are banned from operating commercial air services to, from, and within the UK. Check the UK Air Safety List when considering which airlines to fly with. The list is maintained by the Department for Transport, based on advice from the [UK Civil Aviation Authority](https://www.caa.co.uk/Commercial-Industry/Airlines/Licensing/Requirements-and-guidance/Third-Country-Operator-Certificates).
 
@@ -183,7 +185,7 @@ Find out what you can do to [prepare for and respond to extreme weather and natu
 
 ### Storm damage in eastern Libya
 
-In September 2023 Storm Daniel struck eastern Libya, causing severe flooding and significantly damaging critical infrastructure, including hospitals and telecommunications networks.
+In September 2023 Storm Daniel struck eastern Libya, causing severe flooding and significantly damaging critical infrastructure, including hospitals and telecommunications networks. Libya remains vulnerable to severe weather incidents, with flooding impacting cities, including Tripoli and Misrata in December 2024.
 
 [Previous
 :
@@ -191,6 +193,6 @@ Entry requirements](/foreign-travel-advice/libya/entry-requirements)
 
 [Next
 :
-Health](/foreign-travel-advice/libya/health)
+Regional risks](/foreign-travel-advice/libya/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/libya/print)

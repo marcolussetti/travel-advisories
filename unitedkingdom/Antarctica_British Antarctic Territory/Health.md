@@ -1,6 +1,9 @@
 # Health
 
-Before you travel check that you have [appropriate travel insurance](https://www.gov.uk/guidance/foreign-travel-insurance) that specifies Antarctica. Ensure you have accessible funds to cover unexpected medical evacuation. This is particularly important if you have a health condition or are pregnant.
+Before you travel check that:
+
+* you have [appropriate travel insurance](https://www.gov.uk/guidance/foreign-travel-insurance) that specifies Antarctica
+* you have accessible funds to cover unexpected medical evacuation. This is particularly important if you have a health condition or are pregnant.
 
 ## Vaccine recommendations and health risks
 

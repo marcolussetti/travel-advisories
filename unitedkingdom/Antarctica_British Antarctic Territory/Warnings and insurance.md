@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   11 April 2025
 
 Updated:
-:   6 March 2024
+:   10 April 2025
 
 Latest update:
-:   This travel advice has been rewritten to make it easier to read and understand.
+:   This travel advice was reviewed for accuracy and reissued without significant updates.
 
 The British Antarctic Territory is a British Overseas Territory. It is administered by a commissioner, based in London. The [British Antarctic Territory](https://www.britishantarcticterritory.org.uk/) website has more information.
 

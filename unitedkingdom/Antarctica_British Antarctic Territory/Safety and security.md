@@ -40,7 +40,9 @@ Most visitors to Antarctica arrive by sea. For organised travel, consider using 
 
 Antarctica is inaccessible during the winter months, from March to October. During the summer, from November to February, landings may be difficult due to westerly winds and lack of sheltered anchorage.
 
-## Extreme weather
+## Extreme weather and natural disasters
+
+Find out what you can do to prepare for and respond to [extreme weather and natural hazards](https://www.gov.uk/guidance/tropical-cyclones).
 
 Antarctica has 2 seasons: Antarctic summer and Antarctic winter. Winter starts in late April and lasts until early October. It can get to minus 40°C or colder. There is very little sunlight, with it being almost permanently dark during the height of winter.
 

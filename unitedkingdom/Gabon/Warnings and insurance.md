@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   11 April 2025
 
 Updated:
-:   19 December 2024
+:   10 April 2025
 
 Latest update:
-:   Updated information on the lifting of the nightly curfew (See ‘Political situation’ on the ‘Safety and Security’ page).
+:   New information added about upcoming presidential elections ('Safety and security' page).
 
 ## Before you travel
 

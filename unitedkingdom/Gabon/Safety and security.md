@@ -12,6 +12,8 @@ Although there’s no recent history of terrorism in Gabon, attacks cannot be ru
 
 ## Political situation
 
+Presidential elections will be held on 12 April, 2025, in Gabon. We do not expect significant disruption, however British Nationals should continue to exercise vigilance in crowded areas and near polling stations, and avoid rallies.
+
 Protests and unrest can occur without warning and the situation could change quickly. During periods of unrest, police checks may increase. Make sure you have all required documentation with you and avoid large gatherings.
 
 Borders have reopened following the military takeover in August 2023, but some disruption may happen. Contact your travel provider for more information and follow instructions from local authorities.

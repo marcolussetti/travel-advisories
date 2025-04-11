@@ -1,17 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   10 April 2025
+:   11 April 2025
 
 Updated:
-:   9 April 2025
+:   10 April 2025
 
 Latest update:
-:   Update on incident following a fire on 9 April in La Plagne in the Alps (‘Warnings and insurance’ page).
-
-## Incident in La Plagne
-
-There is an ongoing incident following a fire on 9 April in the ski resort of La Plagne, in the Alps. If you are in the area or planning to travel to the area, follow the advice of local authorities and check your tour operator’s advice. If you require consular assistance, call +33 1 44 51 31 00 and follow the options to speak to a consular officer.
+:   Removal of information about an incident following a fire on 9 April in La Plagne in the Alps (‘Warnings and insurance’ page).
 
 ## Before you travel
 

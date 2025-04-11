@@ -1,11 +1,11 @@
 {
     "name": "Antarctica/British Antarctic Territory",
-    "update_reason": "This travel advice has been rewritten to make it easier to read and understand.",
+    "update_reason": "This travel advice was reviewed for accuracy and reissued without significant updates.",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Antarctica_British Antarctic Territory/Warnings and insurance.md",
-            "update_date": "2024-03-06T12:38:26+00:00"
+            "update_date": "2025-04-10T16:27:54+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Antarctica_British Antarctic Territory/Getting help.md"
         }
     ],
-    "update_date": "2024-03-06T12:38:26+00:00"
+    "update_date": "2025-04-10T16:27:54+01:00"
 }

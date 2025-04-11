@@ -1,6 +1,6 @@
 # Entry requirements
 
-This information is for people travelling on a full [‘British citizen’ passport](https://www.gov.uk/types-of-british-nationality) from the UK. It is based on the UK government’s understanding of the current rules for the most common types of travel.
+This information is for people travelling on a full [‘British citizen’ passport](https://www.gov.uk/types-of-british-nationality) from the UK. It is based on the UK government’s understanding of Antarctica’s/British Antarctic Territory’s current rules for the most common types of travel.
 
 ## Passport validity requirements
 

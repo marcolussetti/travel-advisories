@@ -1,28 +1,42 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   11 April 2025
 
 Updated:
-:   26 October 2024
+:   10 April 2025
 
 Latest update:
-:   On 26 October Israel carried out military action against Iran ('Safety and security' page)
+:   FCDO now advises against all but essential travel to the cities of Tripoli, Benghazi and Misrata. FCDO continues to advise against all travel to the rest of Libya (‘Warnings and insurance’, ‘Safety and security’ and ‘Regional risks’ pages).
 
-![](https://assets.publishing.service.gov.uk/media/5f4e73ed8fa8f57fc445cfcf/FCDO__TA__024_-_Libya_Travel_Advice_Ed1__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/67f7a28bc6046b50261bc7c0/FCDO__TA__024_-_Libya_Travel_Advice_Ed2__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/5f4e73ed8fa8f57fc445cfd0/FCDO__TA__024_-_Libya_Travel_Advice_Ed1.pdf)
+[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/67f7a28b04146682e61bc7c8/FCDO__TA__024_-_Libya_Travel_Advice_Ed2.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
-## FCDO advises against all travel to Libya
+## Areas where FCDO advises against travel
 
-FCDO has advised against all travel to Libya since 2014. The local security situation is fragile and can quickly deteriorate, with intense fighting starting without warning. Any travel to, from or within Libya is at your own risk. If you are a British national in Libya, we strongly advise you to consider leaving.
+FCDO advises against all travel to Libya except for the cities of Tripoli, Benghazi and Misrata.
+
+FCDO advises against all but essential travel to the cities of Tripoli, Benghazi and Misrata.
+
+Find out more about [why the FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/libya/regional-risks).
 
 ## UK government support
 
-UK government support is severely limited in Libya. The British Embassy in Tripoli does not provide support to British people who need help. If you are in Libya and need urgent help from the UK government (for example, if you’ve been attacked, arrested or someone has died) [contact the British Embassy in Tunis, Tunisia](https://www.gov.uk/world/organisations/british-embassy-tunis), on +216 71 108 700 or [contact us online](https://www.contact.service.csd.fcdo.gov.uk/posts/libya/british-embassy-tunis).
+UK government support is limited in Libya. If you are in Libya and need urgent help from the UK government (for example, if you’ve been attacked, arrested or someone has died) [contact the British Embassy in Tunis, Tunisia](https://www.gov.uk/world/organisations/british-embassy-tunis) who provide assistance for British nationals in Libya. In-person support is not available in Libya.
+
+## Before you travel
+
+No travel can be guaranteed safe. Read all the advice in this guide. You may also find it helpful to:
+
+* see [general advice for women travellers](https://www.gov.uk/guidance/advice-for-women-travelling-abroad)
+* read our [guide on disability and travel abroad](https://www.gov.uk/government/publications/disabled-travellers)
+* see [general advice for LGBT+ travellers](https://www.gov.uk/guidance/lesbian-gay-bisexual-and-transgender-foreign-travel-advice)
+* read about [safety for solo and independent travel](https://www.gov.uk/guidance/solo-and-independent-travel)
+* see [advice on volunteering and adventure travel abroad](https://www.gov.uk/guidance/safer-adventure-travel-and-volunteering-overseas)
 
 ## Travel insurance
 
