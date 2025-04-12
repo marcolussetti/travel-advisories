@@ -12,8 +12,4 @@ Monday to Friday 09:30 - 13:00 and 13:30 – 16:30
 #13-04   
 Singapore 048423
 
-[Tel: +65 6238 7616](tel:+656238 7616)
-
-Fax: +65 6238 7615
-
-[**Contact Us**](/en/singapore/embassy/contact/)
+**All visa queries by email only**
