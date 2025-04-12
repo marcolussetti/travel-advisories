@@ -1,7 +1,7 @@
 {
     "name": "Mexico",
-    "update_reason": "Health \u2013 editorial update",
-    "update_date": "2025-04-08T14:08:00",
+    "update_reason": "The Need help? section was updated.",
+    "update_date": "2025-04-11T13:52:00",
     "sections": {
         "risk": "canada/Mexico/risk.md",
         "security": "canada/Mexico/security.md",

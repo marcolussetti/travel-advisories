@@ -2,6 +2,12 @@
 
 ## Safety and security
 
+### Temporary land border closures
+
+Ecuador’s land borders will be closed to foreign nationals from April 11 to 14, 2025, during the national elections period.
+
+Airports in Ecuador will remain open. Maritime ports will remain open with an increased military presence.
+
 ### State of internal armed conflict
 
 Ecuador is in a state of “internal armed conflict.” There is an increased presence of security forces to contain gang violence across the country, including in Guayaquil and Quito.
