@@ -1,11 +1,11 @@
 {
     "name": "Austria",
-    "update_reason": "Update to information on expected rollout of the EU Entry/Exit System (EES) (\u2018Entry requirements\u2019 page).",
+    "update_reason": "Updated information on general risks you may face from terrorism('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Austria/Warnings and insurance.md",
-            "update_date": "2025-03-17T13:57:43+00:00"
+            "update_date": "2025-04-11T12:45:16+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Austria/Getting help.md"
         }
     ],
-    "update_date": "2025-03-17T13:57:43+00:00"
+    "update_date": "2025-04-11T12:45:16+01:00"
 }

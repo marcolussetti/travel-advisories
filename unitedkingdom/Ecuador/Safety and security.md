@@ -14,6 +14,8 @@ Terrorist attacks in Ecuador cannot be ruled out.
 
 ## Political situation
 
+Presidential elections will take place nationwide on 13 April. Expect heightened police and military presence nationwide and potential travel disruptions due to extra security checks.
+
 Exercise caution around large gatherings. Street demonstrations, protests and strikes are common and can occur without warning. While most are peaceful, they can turn violent. You should:
 
 * stay alert and monitor local media
@@ -24,61 +26,6 @@ Exercise caution around large gatherings. Street demonstrations, protests and st
 * [check road conditions](https://www.ecu911.gob.ec/consulta-de-vias/) (in Spanish) on the Ecuadorean government website
 
 Even peaceful protests can lead to travel disruption.
-
-## State of Emergency declared
-
-A 30-day state of emergency (SOE) was renewed on 3 March 2025 due to internal disturbance and armed violence. You should always follow the instructions of police and local authorities. The SOE currently applies to the following provinces:
-
-* Guayas
-* El Oro
-* Santa Elena
-* Manabí
-* Orellana
-* Sucumbios
-* Los Ríos
-* Quito Metropolitan District (Pichincha province)
-* Camilo Ponce Enríquez district (Azuay province)
-
-Curfew hours (10pm until 5am) are in place until further notice, for the following districts (‘cantons’) and/or parishes (parroquias):
-
-### Azuay province:
-
-* Camilo Ponce Enríquez
-
-### Los Ríos province:
-
-* Baba
-* Babahoyo
-* Buena Fe
-* Mocache
-* Montalvo
-* Palenque
-* Pueblo Viejo
-* Quevedo
-* Quinsaloma
-* Urdaneta
-* Valencia
-* Ventanas
-* Vinces
-
-### Guayas province:
-
-* Balao
-* Durán
-* Parroquia Tenguel del canton Guayaquil
-
-### Orellana province:
-
-* La Joya de los Sachas
-* Puerto Francisco De Orellana
-* Loreto
-
-### Sucumbios province:
-
-* Shushufindi
-* Lago Agrio
-
-If you need to travel to or from the airport for a booked flight during curfew hours, you can do so by presenting your booking reservation.
 
 ## Crime
 

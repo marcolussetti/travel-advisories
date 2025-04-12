@@ -66,6 +66,10 @@ There are strict rules about [goods you can take into or out of Colombia](https:
 
 You can bring up to 10,000 US dollars-worth of any currency into Colombia. You must declare anything above this amount with the [National Tax and Customs Directorate (DIAN)](https://www.dian.gov.co/Viajeros-y-Servicios-aduaneros/Paginas/Inicio.aspx) (in Spanish).
 
+## Colombia-Ecuador Border
+
+Due to Presidential elections in Ecuador on 13 April, the Colombia-Ecuador land border will be closed to foreign nationals from Friday 11 April 4pm to 14 April 11:59pm inclusive. Foreign nationals who are resident in Ecuador can enter Ecuador with valid ID. Expect heightened police and military presence at the Colombia-Ecuador border area, and potential travel disruptions due to extra security checks.
+
 [Previous
 :
 Warnings and insurance](/foreign-travel-advice/colombia)

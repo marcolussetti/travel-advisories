@@ -1,11 +1,11 @@
 {
     "name": "Colombia",
-    "update_reason": "\"FCDO advises against all but essential travel to Norte de Santander Department following declaration of a state of emergency on 24 January and attacks by illegal armed groups in C\u00facuta on 19 February (see \u2018Warnings and insurance\u2019 page).\"",
+    "update_reason": "Information on border closure due to Ecuadorean elections (Warnings and insurance page) (Entry Requirements page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Colombia/Warnings and insurance.md",
-            "update_date": "2025-02-26T20:20:51+00:00"
+            "update_date": "2025-04-11T23:06:14+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Colombia/Getting help.md"
         }
     ],
-    "update_date": "2025-02-26T20:20:51+00:00"
+    "update_date": "2025-04-11T23:06:14+01:00"
 }

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   12 April 2025
 
 Updated:
-:   17 March 2025
+:   11 April 2025
 
 Latest update:
-:   Update to information on expected rollout of the EU Entry/Exit System (EES) (‘Entry requirements’ page).
+:   Updated information on general risks you may face from terrorism('Safety and security' page).
 
 ## Before you travel
 

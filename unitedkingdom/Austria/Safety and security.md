@@ -10,6 +10,24 @@ UK Counter Terrorism Policing has information and advice on [staying safe abroa
 
 Terrorists are likely to try to carry out attacks in Austria.
 
+Terrorism attacks could be indiscriminate, including in places frequented by foreign nationals such as:
+
+* public transport
+* national and international transport hubs
+* music, sporting and cultural events
+* entertainment establishments and nightlife venues
+* government buildings and international institutions
+* places of worship and religious sites
+
+You should be vigilant in public places and follow the advice of local authorities.
+
+Recent examples include:
+
+* on 15 February 2025, one person was killed and five injured in central Villach, Carinthia, southern Austria in a knife attack.
+* on 2 November 2020, four people were killed and 23 injured in a terrorism-related shooting in central Vienna.
+
+The Austrian authorities have successfully disrupted various attack plans, making a number of arrests in recent years. You can expect to see an increased police presence, and additional safety measures may be in place. Be aware of your surroundings and follow the advice of local authorities.
+
 ## Political demonstrations
 
 Demonstrations may happen with little or no warning in cities. Follow the advice of local authorities.

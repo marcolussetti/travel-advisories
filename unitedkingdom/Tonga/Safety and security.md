@@ -103,7 +103,7 @@ The tropical cyclone season normally runs from November to May, but cyclones can
 
 ### Earthquakes and tsunamis
 
-Tonga is part of the Pacific Ring of Fire, a zone of frequent earthquakes and volcanic eruptions. Earthquakes and volcanic activity can happen at any time and trigger tsunamis. Check [tsunami alerts for the region](https://tsunami.gov/).
+Tonga is part of the Pacific Ring of Fire, a zone of frequent earthquakes and volcanic eruptions. Earthquakes and volcanic activity can happen at any time and trigger tsunamis. Check advice from local Tongan authorities and [tsunami alerts for the region](https://tsunami.gov/).
 
 The US Federal Emergency Management Agency website has advice about [what to do before, during and after an earthquake](https://www.ready.gov/earthquakes) or [tsunami](https://www.ready.gov/tsunamis).
 

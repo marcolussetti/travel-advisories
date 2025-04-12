@@ -238,6 +238,8 @@ Tropical cyclones affect some parts of Australia, mainly Queensland, Northern Te
 
 Monitor local and international weather updates from the [World Meteorological Organization](http://severe.worldweather.org/) and the [Australian Bureau of Meteorology](http://www.bom.gov.au/).
 
+If you are in or near an affected area, follow the advice of local authorities.
+
 ### Dust storms
 
 Dust storms happen regularly in Australia, usually only in outback areas. Follow the advice of local authorities.

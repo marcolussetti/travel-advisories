@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   12 April 2025
 
 Updated:
-:   21 March 2025
+:   11 April 2025
 
 Latest update:
-:   On 17 March, Ecuador declared an environmental emergency due to an oil spill near Esmeraldas River (see 'Swimming safety' on 'Safety and security' page).
+:   Due to Presidential elections on 13 April, all land borders will be closed to foreign nationals from Friday 11 April 16h00 until 14 April 23h59 inclusive ('Warnings and Insurance' and 'Entry Requirements' pages).
 
 ![](https://assets.publishing.service.gov.uk/media/65a1082ce96df50014f8452c/FCDO__TA__014_-_Ecuador_Travel_Advice_Ed5__WEB_.jpg)
 
@@ -45,7 +45,9 @@ Find out more about [why FCDO advises against travel](/foreign-travel-advice/ecu
 
 ## Regional state of emergency
 
-On 24 February the Committee of Emergency Operations (COE) declared a regional state of emergency, due to heavy rainfall, in the following provinces: Guayas, Los Ríos, Manabí, Esmeraldas, Santa Elena, Loja and Azuay.
+On 11 March the Committee of Emergency Operations (COE) declared a regional state of emergency for 60 days, due to heavy rainfall, in the following provinces: Guayas, Los Ríos, Manabí, Esmeraldas, Santa Elena, Loja and Azuay.
+
+Due to Presidential elections on 13 April, all land borders will be closed to foreign nationals from Friday 11 April 4pm until 14 April 11:59pm inclusive. Ecuadorean citizens and foreign nationals who are resident in Ecuador can enter Ecuador with valid ID. Expect heightened police and military presence nationwide, and potential travel disruptions due to extra security checks.
 
 ## Before you travel
 

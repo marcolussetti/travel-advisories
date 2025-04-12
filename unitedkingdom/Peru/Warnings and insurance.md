@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   12 April 2025
 
 Updated:
-:   20 March 2025
+:   11 April 2025
 
 Latest update:
-:   Information on State of Emergency declared in Lima and Callao regions ( 'Warnings and insurance' page).
+:   Information on border closure due to Ecuadorean elections
 
 ![](https://assets.publishing.service.gov.uk/media/6645e81e993111924d9d365a/FCDO__TA__093_-_Peru_Travel_Advice_Ed3__WEB_.jpg)
 
@@ -36,6 +36,8 @@ Find out more about [why FCDO advises against travel](https://www.gov.uk/fore
 ## State of Emergency
 
 On 17 March 2025, the Peruvian government declared a 30-day State of Emergency in the regions of Lima and Callao following security issues. This will see the police and army working together, and permit the restriction of some constitutional rights, for example, the police will be able to detain people without a judicial order if they deem it necessary.
+
+Due to Presidential elections in Ecuador on 13 April, the Peru-Ecuador land border will be closed to foreign nationals from Friday 11 April 4pm to 14 April 11:59pm inclusive. Foreign nationals who are resident in Ecuador can enter Ecuador with valid ID. Expect heightened police and military presence at the Peru-Ecuador border area, and potential travel disruptions due to extra security checks.
 
 ## Before you travel
 

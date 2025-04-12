@@ -1,5 +1,7 @@
 # Entry requirements
 
+Due to Presidential elections on 13 April, all land borders will be closed to foreign nationals from Friday 11 April 4pm until 14 April 11:59pm inclusive. Ecuadorean citizens and foreign nationals who are resident in Ecuador can enter Ecuador with valid ID. Expect heightened police and military presence nationwide, and potential travel disruptions due to extra security checks.
+
 This information is for people travelling on a full [‘British citizen’ passport](https://www.gov.uk/types-of-british-nationality) from the UK. It is based on the UK government’s understanding of Ecuador’s current rules for the most common types of travel.
 
 The authorities in Ecuador set and enforce entry rules. If you’re not sure how these requirements apply to you, contact the [Ecuadorean Embassy in the UK](https://www.gov.uk/government/publications/foreign-embassies-in-the-uk).

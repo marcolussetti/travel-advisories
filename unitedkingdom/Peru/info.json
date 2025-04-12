@@ -1,11 +1,11 @@
 {
     "name": "Peru",
-    "update_reason": "Information on State of Emergency declared in Lima and Callao regions ( 'Warnings and insurance' page).",
+    "update_reason": "Information on border closure due to Ecuadorean elections",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Peru/Warnings and insurance.md",
-            "update_date": "2025-03-20T11:48:40+00:00"
+            "update_date": "2025-04-11T22:51:50+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Peru/Getting help.md"
         }
     ],
-    "update_date": "2025-03-20T11:48:40+00:00"
+    "update_date": "2025-04-11T22:51:50+01:00"
 }
