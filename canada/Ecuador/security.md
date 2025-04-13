@@ -2,6 +2,40 @@
 
 ## Safety and security
 
+### State of emergency
+
+A state of emergency is in effect in the following provinces and cantons:
+
+* Guayas
+* Los Ríos
+* Manabí
+* Orellana
+* Santa Elena
+* El Oro
+* Sucumbíos
+* Ponce Enríquez canton, in Azuay
+* Metropolitan District of Quito, in Pichincha
+
+A curfew is in place from 10 pm to 5 am in several cantons in the following provinces:
+
+* Azuay
+* Guayas
+* Los Ríos
+* Orellana
+* Sucumbíos
+
+The state of emergency is in response to gang violence. While the state of emergency is in effect, security forces have the power to:
+
+* enter private homes
+* read private mail and phone records
+* prohibit assembly
+
+If you are in Ecuador:
+
+* expect an increased police and military presence
+* carry your ID at all times
+* follow the instructions of local authorities
+
 ### Temporary land border closures
 
 Ecuador’s land borders will be closed to foreign nationals from April 11 to 14, 2025, during the national elections period.
