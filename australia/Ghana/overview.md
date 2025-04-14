@@ -2,13 +2,15 @@
 
 Latest update
 
-We continue to advise exercise a high degree of caution in Ghana. Higher levels apply in some areas. Strikes can occur, affecting essential services. Avoid demonstrations, protests, large public events and intercommunity disputes, as they can turn violent. There's been an increase in reported incidents of banditry involving passenger buses travelling in the Upper West and Upper East regions. Injuries and deaths have resulted (see 'Safety'). There's currently an outbreak of Mpox in parts of Africa, including Ghana.
+We continue to advise exercise a high degree of caution in Ghana due to the threat of violent crime. Higher levels apply in some areas. A curfew is in place from 8pm to 5am covering Walewale and its surrounding areas in the North East Region. You should plan your travel movements to avoid breaking the curfew and follow the directions of local authorities (see 'Safety').  
+  
+Avoid demonstrations, protests, large public events and intercommunity disputes, as they can turn violent. There's been an increase in reported incidents of banditry involving passenger buses travelling in the Upper West and Upper East regions. Injuries and deaths have resulted (see 'Safety'). There's currently an outbreak of Mpox in parts of Africa, including Ghana (see 'Health').
 
 Advice Level summary
 
 We advise:
 
-Exercise a high degree of caution in Ghana overall due to the threat of crime.
+Exercise a high degree of caution in Ghana overall due to the threat of violent crime.
 
 Higher levels apply in some areas.
 
@@ -18,7 +20,7 @@ Higher levels apply in some areas.
 
 [Exercise a high degree of caution](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level2) in Ghana overall.
 
-[Exercise a high degree of caution](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level2) in Ghana overall due to the threat of crime.
+[Exercise a high degree of caution](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level2) in Ghana overall due to the threat of violent crime.
 
 [Do not travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level4) to the northern border with Burkina Faso.
 
@@ -35,7 +37,8 @@ See [Safety](#travel).
 ### Safety
 
 * There's been an increase in reported incidents of banditry involving passenger buses travelling in the Upper West and Upper East regions resulting in injuries and deaths. In January, unidentified gunmen attacked a bus travelling on the Walewale-Bolgatanga highway, resulting in several injuries.
-* If you're travelling to Ghana, you could be a target for crime, including kidnapping and robbery. There are increased security risks if you're a woman travelling alone. Take particular care in and around Accra.
+* If you're travelling to Ghana, you could be a target for violent crime, including assault, sexual assault, kidnapping and armed robbery. There are increased security risks if you're a woman travelling alone. Take particular care in and around Accra, crowded markets and along tourist beaches.
+* A curfew is in place from 8pm to 5am covering Walewale and its surrounding areas in the North East Region. You should plan your travel movements to avoid breaking the curfew and follow the directions of local authorities.
 * There's a heightened risk of terrorist attacks in the northern areas of Ghana bordering Côte d’Ivoire, Togo and Burkina Faso. Be alert to possible threats, especially in public places, and follow the advice of local authorities.
 * Avoid demonstrations and protests. Large public events and intercommunity disputes can turn violent. Be cautious around large crowds, including at football matches.
 * Internet scams often originate in West African countries. Criminals may ask for details of safe bank accounts to transfer large amounts of money. Criminals often meet their victims through internet dating sites or chat rooms. Be wary of online contact from people you don't know. Don't send money until you've checked who you're sending it to. Don't travel to Ghana to get your money back or to get revenge.

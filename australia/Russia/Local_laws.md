@@ -8,17 +8,17 @@ Foreigners, including Australians, are at ongoing risk of arbitrary detention or
 
 The Russian security services have arrested Western citizens on spurious charges, singled out Western citizens in Russia for detention and/or harassment, denied them fair and transparent treatment, and have convicted them in secret trials and/or without presenting credible evidence. The US Government warns that Russian officials may unreasonably delay consular assistance to detained US citizens.
 
-Russian authorities have introduced criminal liability for publishing and distributing (including via social media and chat apps) anything they consider 'deliberately misleading' about the Russian government, armed forces and any military operations. These laws have been interpreted and applied broadly to many forms of dissent.
+Russia has introduced criminal liability for publishing and distributing (including via social media and chat apps) anything they consider 'deliberately misleading' about the Russian government, armed forces and any military operations. These laws have been interpreted and applied broadly to many forms of dissent.
 
 Gender changes are banned, including gender transition surgery, hormone therapy and changing gender on official documents without medical requirements. The law also annuls marriages in which one person "changed gender" and prevents transgender couples from adopting children.
 
-There are laws banning "LGBTQIA+ propaganda". These criminalise any act regarded as an attempt to promote what Russia calls "non-traditional sexual relations". Sharing information or public display of any material promoting "non-traditional relationships" is now a serious criminal offence. The 'international LGBTQIA+ movement' has been classified as an 'extremist organisation' under Russian law, criminalising the display of symbols such as the rainbow flag (including on social media).
+There are laws banning "LGBT propaganda". These criminalise any act regarded as an attempt to promote what Russia calls "non-traditional sexual relations". Sharing information or public display of any material promoting "non-traditional relationships" is now a serious criminal offence. The 'international LGBT movement' has been classified as an 'extremist organisation' under Russian law, criminalising the display of symbols such as the rainbow flag (including on social media).
 
-In November 2022, Russia announced that the partial mobilisation of military reservists for the conflict in Ukraine was complete. However, a decree formalising the completion hasn't been issued. The Russian Government may subject males it regards as Russian to mobilisation, regardless of any other citizenship held. Laws introducing heavy penalties for 'crimes against military service' have been passed. The Australian Government will not be able to intervene if you're mobilised.
+In November 2022, Russia announced that the partial mobilisation of military reservists for the conflict in Ukraine was complete. However, a decree formalising the completion hasn't been issued. The Russian Government may subject males it regards as Russian to mobilisation, regardless of any other citizenship held. Laws introducing heavy penalties for 'crimes against military service' have been passed. The Australian government will not be able to intervene if you're mobilised.
 
 Law enforcement agencies in Russia cooperate closely with agencies in several countries, including but not limited to the Commonwealth of Independent States (CIS) countries. If you commit an offence in one of these countries, you may be detained in another (including at the border) and extradited for prosecution.
 
-Russian authorities imposed restrictions on real estate and foreign currency transactions for foreign residents. These restrictions can be revised at short notice. Seek advice from local authorities.
+Russian authorities impose restrictions on real estate and foreign currency transactions for foreign residents. These restrictions can be revised at short notice. Seek advice from local authorities.
 
 #### Drugs
 
@@ -28,7 +28,7 @@ Penalties are severe and include long prison terms.
 
 Russia has strict rules around medication carried into the country for personal use, including some medications that you can get over the counter in Australia.
 
-If you don't declare restricted medications, authorities could detain you. See [Health](https://www.smartraveller.gov.au/destinations/europe/russia#health).
+If you don't declare restricted medications, authorities could detain you. See 'Health'.
 
 **More information:**
 
@@ -36,7 +36,7 @@ If you don't declare restricted medications, authorities could detain you. See 
 
 #### Other laws
 
-From January 2025, foreigners will be required to present in person with their ID and confirmed registration on the government services portal (Gususlugi) or the Unified Biometric System to the mobile network operators to purchase a Russian SIM card.
+Foreigners are required to present in person with their ID and confirmed registration on the government services portal (Gususlugi) or the Unified Biometric System to the mobile network operators to purchase a Russian SIM card.
 
 Foreigners will be limited to 10 subscriber numbers per person and will be required to register their International Mobile Equipment Identity (IMEI) against the SIM card with the operator.
 
@@ -68,7 +68,7 @@ Contact the Embassy or Consulate of Russia for more information.
 
 #### Cyber security laws
 
-Russia has blocked or restricted several social media platforms, messaging apps and websites, including Facebook, Instagram, LinkedIn, and X (formerly known as Twitter) Signal and YouTube.
+Russia has blocked or restricted several social media platforms, messaging apps and websites, including Facebook, Instagram, LinkedIn, X (formerly known as Twitter), Signal and YouTube.
 
 Russia has banned certain Virtual Private Networks (VPN).
 

@@ -86,13 +86,15 @@ To ensure your access to money:
 
 #### Local travel
 
+A curfew is in place from 8pm to 5am, covering Walewale and its surrounding areas in the North East Region. You should plan your travel movements to avoid breaking the curfew and follow the directions of local authorities.
+
 Border areas often see higher criminal activity and violence. 
 
 Chieftaincy disputes and political tension can sometimes lead to localised violence and unrest across Ghana. 
 
 There have been an increasing number of reported incidents of banditry involving passenger buses travelling in the Upper West and Upper East regions resulting in injuries and deaths. In January 2024, unidentified gunmen attacked a bus travelling on the Walewale-Bolgatanga highway, resulting in several injuries. 
 
-There are security risks with using [public transport](https://www.smartraveller.gov.au/node/366). See [Safety](https://www.smartraveller.gov.au/destinations/africa/ghana#safety)
+There are security risks with using [public transport](https://www.smartraveller.gov.au/node/366) (see '[Safety')](https://www.smartraveller.gov.au/destinations/africa/ghana#safety).
 
 #### Driving permits
 
@@ -105,7 +107,7 @@ You must be over 18 years old.
 
 After 12 months, you'll need a local licence.
 
-More information:
+**More information:**
 
 * [Australian High Commission in Accra](https://ghana.embassy.gov.au/acra/AuthenticateDriversLicencesAuthenticateDriversLicences.html)
 

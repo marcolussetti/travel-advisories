@@ -2,6 +2,20 @@
 
 #### Crime
 
+#### Violent Crime
+
+Violent crime occurs across Ghana. This includes:
+
+* [Assault](https://www.smartraveller.gov.au/before-you-go/safety/assault)
+* [Armed robbery](https://www.smartraveller.gov.au/before-you-go/safety/theft-robbery) (including in a taxi)
+* [Sexual assault](https://www.smartraveller.gov.au/before-you-go/safety/sexual-assault)
+* Break-ins and burglars may be armed
+* Carjacking
+
+The risk of violent incidences can happen at any time of the day but increases after dark and during holiday periods. Your risk also increases if you're a woman travelling alone.
+
+If you're a victim of a violent crime, including sexual assault, get medical assistance. [HIV/AIDS](https://www.who.int/news-room/fact-sheets/detail/hiv-aids) is common in Ghana.
+
 #### Theft
 
 If you're travelling to Ghana, you could be a target for:
@@ -11,19 +25,15 @@ If you're travelling to Ghana, you could be a target for:
 * petty theft
 * pickpocketing
 
-Your risk increases if you're a woman travelling alone. Take particular care in and around Accra.
+Take particular care in and around Accra, especially in crowded market areas and along tourist beaches. Do not visit beaches alone and take care on public beaches.
 
 Some taxi passengers have been robbed by drivers.
+
+Some pedestrians may deliberately cause accidents to extort money from you. Be aware of your surroundings when driving.
 
 Attacks on passengers in vehicles are also on the increase. Take particular care when stationary. Keep windows up and doors locked. Some of these attacks on vehicles also involve the use of weapons.
 
 Power outages may occur after dark. This often leads to more crime, especially if street and traffic lights fail.
-
-Criminals may also target you in:
-
-* house invasions
-* [armed robbery](/node/344) (including in a taxi)
-* other violent crimes
 
 Officials or people posing as officials may try to detain foreigners or extort money from them, including at the airport. Legitimate airport staff wear a current ID card with their name and photograph.
 
@@ -36,6 +46,11 @@ To protect yourself from crime:
 * keep your car windows up and doors locked, even when moving
 * be alert when approaching traffic lights
 * lock your accommodation, including when you're inside
+* keep your passport and valuables in a secure place
+* keep your credit card in sight when you're using it
+* don't wear expensive-looking jewellery or watches and keep mobiles out of sight
+* stay alert after dark or if there's a power failure
+* stay away from isolated beaches and picnic spots
 
 #### Scams and fraud
 
@@ -76,6 +91,14 @@ If you suspect a scam, get legal advice.
 
 Don't travel to Ghana to get your money back or to get revenge. You could be in danger.
 
+#### Drink Spiking
+
+Drink spiking can happen anywhere. Be alert to the potential risks, and don't leave food or drinks unattended. Pay attention when your drinks are being mixed. Stick to reputable venues and avoid homemade alcoholic drinks due to the risk of methanol poisoning. Get urgent medical help if you suspect you’ve been a victim.
+
+**More information:**
+
+* [Partying safely](https://www.smartraveller.gov.au/before-you-go/safety/partying)
+
 #### Cyber security
 
 You may be at risk of cyber-based threats during overseas travel to any country. Digital identity theft is a growing concern. Your devices and personal data can be compromised, especially if you’re connecting to Wi-Fi, using or connecting to shared or public computers, or to Bluetooth.
@@ -93,6 +116,8 @@ Chieftaincy conflicts, land disputes and political tension can lead to localised
 Due to the ongoing chieftaincy conflict in Bawku, there's an increased risk of politically motivated attacks in the Upper West and Upper East Regions. 
 
 There's been an increase in reported incidents of banditry involving passenger buses travelling in the Upper West and Upper East regions resulting in injuries and deaths. In January 2024, unidentified gunmen attacked a bus travelling on the Walewale-Bolgatanga highway, resulting in several injuries. 
+
+Ghana has issued a curfew from 8pm to 5am covering Walewale and its surrounding areas in the North East Region. You should plan your travel movements to avoid breaking the curfew and follow the directions of local authorities.
 
 Pay attention to your personal safety and surroundings.
 

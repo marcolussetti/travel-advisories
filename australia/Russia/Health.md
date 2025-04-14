@@ -2,7 +2,7 @@
 
 #### Travel insurance
 
-Most Australian travel insurance policies won't cover you for travel to Russia. Do not travel to Russia. See '[Safety](#safety)'
+Most Australian travel insurance policies won't cover you for travel to Russia. Do not travel to Russia. See 'Safety'
 
 You may have to pay thousands of dollars up-front for medical care if you're not insured.
 
@@ -22,7 +22,7 @@ If you have immediate concerns for your welfare or the welfare of another Austra
 
 **More information:**
 
-* [General health advice](https://www.smartraveller.gov.au/before-you-go/health) (World Health Organization)
+* [General health advice](/before-you-go/health "Taking care of your health")
 * [Healthy holiday tips](https://www.healthdirect.gov.au/healthy-holiday-tips-infographic) (Healthdirect Australia)
 
 #### Medications

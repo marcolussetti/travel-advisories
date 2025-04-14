@@ -2,7 +2,7 @@
 
 Latest update
 
-The Trinidad and Tobago government has declared a State of Public Emergency due to heightened criminal activity (see 'Safety'). Expect an increased police and military presence and minor disruptions, such as roadblocks. Monitor local media for updates and follow the advice of local authorities.
+We continue to advise exercise a high degree of caution in Trinidad and Tobago due to the threat of violent crime. To reduce the risk of violent crime and petty theft, be aware of your surroundings at all times, particularly if you're attending a large-scale event (see 'Safety').
 
 Advice Level summary
 
@@ -24,7 +24,6 @@ See [Safety](#safety).
 
 ### Safety
 
-* On 30 December 2024, the Trinidad and Tobago government declared a State of Public Emergency until further notice, due to heightened criminal activity. Expect an increased police and military presence and minor disruptions, such as roadblocks. Be alert to changes in the situation, monitor the media and follow the advice of local authorities.
 * Violent crime such as murder, kidnapping, shootings, armed robbery, rape, carjacking and home invasions are common. Take care at all times when travelling by road and using ATMs, especially after dark.
 * Gang and drug-related crime is also common and can affect travellers and expatriates.
 * Bag snatching, pickpocketing and theft from cars is common. Keep valuables out of sight, your car doors locked, and car windows up.

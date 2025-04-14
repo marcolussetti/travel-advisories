@@ -4,8 +4,6 @@
 
 #### Violent crime
 
-On 30 December 2024, the Trinidad and Tobago government declared a State of Public Emergency until further notice, due to heightened criminal activity. Expect an increased police and military presence and minor disruptions, such as roadblocks. Be alert to changes in the situation, monitor the media and follow the advice of local authorities.
-
 Violent crime is common, including against travellers and expatriates. Incidents include:
 
 * murders
@@ -48,6 +46,12 @@ To protect yourself from crime:
 If you're attacked or robbed, don't resist. Criminals are often armed, and you can be seriously injured or killed.
 
 If you're the victim of a violent crime, especially rape, get urgent medical help. HIV/AIDS is widespread in Trinidad and Tobago.
+
+Drink spiking can happen anywhere. Be alert to the potential risks, and don't leave food or drinks unattended. Pay attention when your drinks are being mixed. Stick to reputable venues and avoid homemade alcoholic drinks due to the risk of methanol poisoning. Get urgent medical help if you suspect you’ve been a victim.
+
+**More information:**
+
+* [Partying safely while overseas](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.smartraveller.gov.au%2Fbefore-you-go%2Fsafety%2Fpartying&data=05%7C02%7CMichelle.Lam%40dfat.gov.au%7Cbd0cd565db744527188508dd41a4930d%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638738897282360647%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=8hzP1P0iV92Jm88KsRyu4DlEadlSJN77OY%2FyBZsYuRk%3D&reserved=0)
 
 #### Road crime
 

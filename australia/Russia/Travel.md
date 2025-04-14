@@ -14,7 +14,7 @@ You can't get a visa on arrival.
 
 If you arrive in Russia without a valid visa, authorities will fine, detain and deport you at your own expense. They may bar you from re-entering.
 
-Make sure you apply for the correct visa type, such as 'tourist' and 'visitor' visas.
+Make sure you apply for the correct visa type, such as a 'tourist' or 'visitor' visa.
 
 If your visa type doesn't match the purpose of your visit, authorities may:
 
@@ -40,13 +40,15 @@ It's impossible to amend visa details once you're in Russia.
 
 If, despite our advice, you decide to enter Russia, expect thorough security checks at the border, including questioning and inspections of electronic devices.
 
-From December, you'll be required to submit your biometric data on arrival into Russia. Biometric data will be collected at major ports of entry by the Russian border authorities.
+You're required to submit your biometric personal data on arrival in Russia.
 
-Children under 6, diplomats, employees of international organisations accredited in Russia, and their family members will be exempt from this requirement.
-
-From June 2025, you'll be able to submit biometric data prior to arrival through a mobile application.
+Biometric data will be collected at Moscow international airports (Sheremetyevo, Domodedovo, Vnukovo and Zhukovsky) as well as the Mashtakovo land border checkpoint in Orenburg region. Children under 6, diplomats, employees of international organisations accredited in Russia, and their family members will be exempt from this requirement.
 
 Entry and exit conditions can change at short notice. Contact the nearest [embassy or consulate](https://protocol.dfat.gov.au/Public/Missions/166) for details about visas, currency, customs and quarantine rules.
+
+**More information:**
+
+* [Russian Ministry of Foreign Affairs](https://www.mid.ru/ru/foreign_policy/news/1984293/?lang=en)
 
 #### Australians sanctioned by Russia
 
@@ -54,14 +56,14 @@ The Russian Foreign Ministry issued statements on its website advising that, in 
 
 These statements can be viewed here (copy and paste the URL into a new browser if you can't open the link):
 
-* [29 October 2024 statement](https://www.mid.ru/foreign_policy/news/1978052/) - <https://www.mid.ru/foreign_policy/news/1978052/>
-* [26 June 2024 statement](https://www.mid.ru/ru/foreign_policy/news/1959710/) - <https://www.mid.ru/ru/foreign_policy/news/1959710/>
-* [17 April 2024 statement](//mid.ru/ru/foreign_policy/news/1944697/ ) - <https://mid.ru/ru/foreign_policy/news/1944697/> (in Russian)
-* [21 June 2023 statement](https://mid.ru/en/foreign_policy/news/1890258/) -  <https://mid.ru/en/foreign_policy/news/1890258/>
-* [16 September 2022 statement](https://mid.ru/ru/foreign_policy/news/1830085/#sel=1:1:xwy,241:25:hTv) - [https://mid.ru/ru/foreign\_policy/news/1830085/](https://mid.ru/ru/foreign_policy/news/1830085/%C2%A0)  (in Russian)
-* [21 July 2022 statement](https://www.mid.ru/en/foreign_policy/news/1823204/%C2%A0) - <https://www.mid.ru/en/foreign_policy/news/1823204/>
-* [16 June 2022 statement](https://mid.ru/print/?id=1818118&lang=ru%C2%A0)  - <https://www.mid.ru/en/foreign_policy/news/1818118/>
-* [7 April 2022 statement](https://www.mid.ru/en/foreign_policy/news/1808465/%C2%A0)  - <https://www.mid.ru/en/foreign_policy/news/1808465/>
+* [29 October 2024 statement](https://www.mid.ru/foreign_policy/news/1978052/)-  [https://www.mid.ru/ru/foreign\_policy/news/1978052/](https://www.mid.ru/ru/foreign_policy/news/1978052/?lang=en)
+* [26 June 2024 statement](https://www.mid.ru/ru/foreign_policy/news/1959710/) - <https://www.mid.ru/ru/foreign_policy/news/1959710/>
+* [17 April 2024 statement](https://mid.ru/ru/foreign_policy/news/1944697/%C2%A0) - <https://mid.ru/ru/foreign_policy/news/1944697/> (in Russian)
+* [21 June 2023 statement](https://mid.ru/en/foreign_policy/news/1890258/) - <https://mid.ru/en/foreign_policy/news/1890258/>
+* [16 September 2022 statement](https://mid.ru/ru/foreign_policy/news/1830085/#sel=1:1:xwy,241:25:hTv) - <https://www.mid.ru/ru/foreign_policy/news/1830085/> (in Russian)
+* [21 July 2022 statement](https://www.mid.ru/en/foreign_policy/news/1823204/%C2%A0) - <https://www.mid.ru/en/foreign_policy/news/1823204/>
+* [16 June 2022 statement](https://mid.ru/print/?id=1818118&lang=ru%C2%A0) - <https://www.mid.ru/en/foreign_policy/news/1818118/>
+* [7 April 2022 statement](https://www.mid.ru/en/foreign_policy/news/1808465/%C2%A0) - <https://www.mid.ru/en/foreign_policy/news/1808465/>
 
 DFAT can't provide advice on the implications of another country's sanctions. If you're listed, you should obtain legal advice if you have concerns about the potential impacts of the Russian sanctions. Do not travel to Russia if you're on Russia's 'stop list'.
 
@@ -84,7 +86,7 @@ You can get a replacement from the Russian Ministry of Internal Affairs, but thi
 
 #### Travel with Children
 
-If you're [travelling with a child](/before-you-go/who-you-are/children "Travelling with children"), you may need to show evidence of parental, custodial or permission rights. This is particularly the case for dual nationals. See [Local laws](https://www.smartraveller.gov.au/destinations/europe/russia#local-laws)
+If you're [travelling with a child](/before-you-go/who-you-are/children "Travelling with children"), you may need to show evidence of parental, custodial or permission rights. This is particularly the case for dual nationals. See 'Local laws'.
 
 #### Electronics
 
@@ -104,9 +106,7 @@ Russian border officials can demand to inspect any electronic device, including 
 
 Do not travel to Russia or [Belarus](/destinations/europe/belarus "Belarus") due to the security environment and impacts of the Russian invasion of Ukraine. If you're in Russia or Belarus, leave immediately using the limited commercial options available or private means if it's safe to do so.
 
-If, despite our advice, you decide to enter Belarus from Russia, note that the government doesn't allow foreigners to cross the land border between Russia and Belarus. You must do so by air.
-
-If you're travelling between Russia and Belarus, you must have visas for both countries.
+If despite our advice, you decide to travel between Russia and Belarus, foreign travellers holding a Russian or Belarusian visa, and an ID document recognised in both countries may enter, leave, stay or transit through both countries via the assigned international checkpoints for the period of the visa validity.
 
 Visa-free entry into Belarus doesn't apply to travellers arriving from or travelling to Russia.
 
@@ -138,19 +138,21 @@ Make sure you leave Russia before your visa expires. Some visas, including touri
 
 If you overstay your visa, you won't be allowed to leave Russia until the Russian Ministry of Internal Affairs determines your legal status or deports you.
 
-Authorities can detain you until they've processed your case.
+Authorities can detain you until they've processed your case. Penalties for overstaying include fines and deportation. You may be banned from re-entering.
 
-Penalties for overstaying include fines and deportation.
+On 1 January, Russia introduced a temporary 4-month grace period (until 30 April 2025), where foreign nationals who violated the terms of stay in Russia can regulate their legal status and obtain necessary permits from the Russian Ministry of Internal Affairs authorities. Foreign nationals who have not regulated their legal status in Russia before 30 April 2025 will be included in the registry of ‘controlled persons’, deported from Russia and banned from re-entering.
 
-You may be banned from re-entering.
+**More information**
+
+* [Russia's Official Website of Legal Publications](http://publication.pravo.gov.ru/document/0001202412300002) (in Russian only)
 
 #### Customs Rules
 
 Russian Customs provides a list of goods that must be declared when entering or leaving Russia, regardless of whether they come in carry-on or unaccompanied/checked-in luggage. 
 
-Anyone entering Russia must declare cash amounts exceeding the equivalent of 10,000 USD as well as certain types of goods, including jewellery and antiques. 
+You must declare cash amounts exceeding the equivalent of 10,000 USD as well as certain types of goods, including jewellery and antiques. 
 
-Items imported by air for personal use that are worth more than 10,000 EUR or weigh more than 50 kg must be declared. They will incur customs duties and taxes of 30% of the cost (no less than 4 EUR per 1 kg). 
+Items imported by air for personal use that are worth more than 10,000 EUR or weighing more than 50 kg must be declared.
 
 For cash amounts exceeding the equivalent of 100,000 USD, documents confirming the origin of the money, in addition to customs declaration, must be provided.
 
@@ -177,6 +179,10 @@ If you want to export any antiques, artworks or items of historical significance
 Don't try to export items requiring permits without the relevant paperwork. This is a serious offence.
 
 Russian Customs legislation about the import and export of money and goods may change without warning. Seek advice from local authorities.
+
+**More information:**
+
+* [Russian Federal Customs Service](https://eng.customs.gov.ru/)
 
 #### Passport
 
@@ -224,15 +230,16 @@ Although Australian passports comply with international standards for sex and ge
 
 The currency of Russia is the Rouble (RUB).
 
-Russian authorities have imposed temporary restrictions on the export of foreign currency in cash out of Russia. Travellers exiting Russia can't take more than the equivalent of 10,000 USD in cash. Make sure a customs official stamps your declaration. Only stamped declarations are valid.
+Russia has imposed temporary restrictions on the export of foreign currency in cash out of Russia. When exiting, you can't take more than the equivalent of 10,000 USD in cash.
 
-You must carry proof that your funds were imported and declared or legally obtained in Russia.
+You must carry proof that your funds were imported and declared or legally obtained in Russia. Make sure a customs official stamps your declaration. Only stamped declarations are valid.
 
-Due to the Russian invasion of Ukraine, Mastercard, Visa, and American Express have suspended operations in Russia. Cards issued outside Russia will not work at Russian merchants or ATMs. Cards issued inside Russia may continue to work, but they won't work outside Russia. You won't be able to access your funds through Russian banks or to make payments to Russian businesses with non-Russian credit/debit cards. 
+Due to the Russian invasion of Ukraine, Mastercard, Visa, and American Express have suspended operations in Russia. Cards issued outside Russia won't work at Russian merchants or ATMs. Cards issued inside Russia may continue to work, but they won't work outside Russia. You won't be able to access your funds through Russian banks or make payments to Russian businesses with non-Russian credit/debit cards. 
 
 Be prepared with alternate means of payment should your cards be declined. Ensure you have enough money to cover your stay.
 
-You may not be able to exchange Australian dollars or old, worn, or damaged US dollar and euro banknotes for Russian Roubles. Ensure you have enough money to cover your stay in Russia.   
+You may not be able to exchange Australian dollars or old, worn, or damaged US dollar and euro banknotes for Russian Roubles. Ensure you have enough money to cover your stay in Russia. 
+
 Traveller's cheques aren't widely accepted, even in Moscow and St Petersburg.
 
 **More information:**
@@ -278,7 +285,7 @@ The blood alcohol limit for drivers is 0%.
 * [Driving or riding](/before-you-go/getting-around/road-safety "Road safety")
 * [the Russian Embassy](https://protocol.dfat.gov.au/Public/Missions/166)
 
-**Taxis**
+#### Taxis
 
 Some taxis appear official but aren't licensed by local authorities.
 
@@ -286,7 +293,7 @@ People have reported extortion and [robbery](/before-you-go/safety/theft-robber
 
 Book an official taxi through the local taxi app, by phone, at major hotels and from inside airports.
 
-**Air travel**
+#### Air travel
 
 Flights from Russia to other countries are limited. These may change or be suspended at short notice. You should contact airlines or travel agents directly for the most current information.
 

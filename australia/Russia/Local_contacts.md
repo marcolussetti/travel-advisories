@@ -16,15 +16,15 @@ Call 112.
 
 #### Fire and rescue services
 
-Call 101.
+Call 101 or 112. 112 will always have English-speaking operators.
 
 #### Medical emergencies
 
-Call 103.
+Call 103 Or 112. 112 will always have English-speaking operators.
 
 #### Police
 
-Call 102.
+Call 102 or 112. 112 will always have English-speaking operators.
 
 Always get a police report when you report a crime.
 

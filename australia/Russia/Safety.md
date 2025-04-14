@@ -73,7 +73,7 @@ If, despite our advice, you travel in the border region, read our [Georgia trav
 
 #### Security situation
 
-Military activity is underway in the regions of Kursk and Belgorod. In August, Russian authorities introduced a federal state of emergency in these regions in addition to the "counter-terrorism operation", which includes the region of Bryansk.
+Military activity is underway in the regions of Kursk and Belgorod. Russian authorities introduced a federal state of emergency in these regions in addition to the "counter-terrorism operation", which includes the region of Bryansk.
 
 Security measures or restrictions may be introduced with little to no notice. Monitor the media for developments and follow the advice of local authorities.
 
@@ -89,17 +89,17 @@ The Russia-Ukraine border is volatile due to the Russian invasion of Ukraine.
 
 Security incidents regularly occur in Belgorod, Bryansk, Kursk, and other regions of Russia bordering Ukraine, including explosions and large fires. The security situation in the region could deteriorate at short notice. You shouldn't travel to the Russia-Ukraine border or cross into Ukraine from Russia.
 
-We currently advise do not travel to Ukraine due to the volatile security environment and military conflict. Read the [Ukraine travel advice](https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert)for more information.
+We continue to advise do not travel to Ukraine due to the volatile security environment and military conflict. Read the [Ukraine travel advice](/destinations/europe/ukraine "Ukraine")for more information.
 
 The Australian Government doesn't recognise Russia's claimed annexation of the Ukrainian region of Crimea or its other territorial claims in occupied Ukraine.
 
 #### Leaving Russia
 
-Where it's safe to do so, you should leave Russia immediately. Use your judgment to decide the best time and safest means of exit. 
+Where it's safe to do so, you should leave Russia immediately. Use your judgement to decide the best time and safest means of exit. 
 
 Transport routes may be disrupted. Plan for delays at land border crossings. Expect disruption to travel and changes at short notice. Make sure you have an adequate supply of food, water, medication, and fuel. Make sure you have payment options that will work during your journey and at your destination. 
 
-Read your destination's travel advice to ensure you meet the entry requirements. These may differ when entering by road, rail, or air. Be aware that some borders may close without notice. Commercial travel routes between Russia and Europe have been impacted by measures taken in response to the Russian invasion of Ukraine. Check with your airline or travel agent for current flight availability. Any travel options you pursue are at your own risk. See '[Travel](https://www.smartraveller.gov.au/destinations/europe/russia#travel)'.
+Read your destination's travel advice to ensure you meet the entry requirements. These may differ when entering by road, rail, or air. Be aware that some borders may close without notice. Commercial travel routes between Russia and Europe have been impacted by measures taken in response to the Russian invasion of Ukraine. Check with your airline or travel agent for current flight availability. Any travel options you pursue are at your own risk. See 'Travel'.
 
 For more information on entry requirements for countries bordering Russia, read the travel advice:
 
@@ -112,7 +112,7 @@ For more information on entry requirements for countries bordering Russia, read 
 * [Mongolia](/destinations/asia/mongolia "Mongolia")
 * [Poland](/destinations/europe/poland "Poland")
 
-If you decide to stay in Russia:
+If, despite our advice, you decide to stay in Russia:
 
 * follow the instructions of authorities
 * ensure your travel documents are up-to-date, and keep your passport and other travel documentation safe
