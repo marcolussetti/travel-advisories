@@ -233,9 +233,9 @@ Passengers caught using unlicensed taxi services are liable for fines of up to 6
 
 Find out what you can do to [prepare for and respond to extreme weather and natural hazards](https://www.gov.uk/guidance/tropical-cyclones).
 
-### Extreme temperatures
+### Extreme weather warnings
 
-Extreme temperatures can affect many areas of Spain over the summer months. Follow the [Spanish Meteorological Office (AEMET)](https://www.aemet.es/en/portada) and [European Meteorological Services](https://www.meteoalarm.org/en/?s=italy) for severe weather warnings.
+Extreme weather can affect many areas of Spain, particularly over the summer months. Follow the [Spanish Meteorological Office (AEMET)](https://www.aemet.es/en/portada) and [European Meteorological Services](https://www.meteoalarm.org/en/?s=italy) for severe weather warnings.
 
 The NHS has information on [how to cope in hot weather](https://www.nhs.uk/live-well/seasonal-health/heatwave-how-to-cope-in-hot-weather/).
 
