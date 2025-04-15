@@ -1,11 +1,11 @@
 {
     "name": "Brunei",
-    "update_reason": "This travel advice was reviewed for accuracy and there are no significant updates.",
+    "update_reason": "Updated information on declaration form ( see 'Declaration form' on 'Entry requirements' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Brunei/Warnings and insurance.md",
-            "update_date": "2024-10-15T13:51:27+01:00"
+            "update_date": "2025-04-14T14:01:08+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Brunei/Getting help.md"
         }
     ],
-    "update_date": "2024-10-15T13:51:27+01:00"
+    "update_date": "2025-04-14T14:01:08+01:00"
 }

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   15 April 2025
 
 Updated:
-:   11 March 2025
+:   14 April 2025
 
 Latest update:
-:   Updated information about Table Mountain National Park, wildfires in Cape Town and air travel ('Safety and security' page).
+:   Updated information about what health risks you’ll face in South Africa, including Mpox ('Health' page).
 
 ## Before you travel
 

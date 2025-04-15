@@ -27,6 +27,7 @@ See [what health risks you’ll face in South Africa](https://travelhealthpro.or
 * malaria
 * chikungunya
 * cholera
+* mpox
 
 Altitude sickness is a risk in parts of South Africa, including Johannesburg. Read more about [altitude sickness on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/26/altitude-illness).
 

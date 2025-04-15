@@ -1,17 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   14 April 2025
+:   15 April 2025
 
 Updated:
-:   13 April 2025
+:   14 April 2025
 
 Latest update:
-:   Information about heavy rainfall and flooding in Lanzarote ('Warnings and insurance')
+:   Updated information on Lanzarote flooding ('Warnings and insurance' page).
 
 ## Lanzarote: heavy rainfall and flooding
 
-Heavy rainfall and flooding in Lanzarote occurred earlier today (13 April 2025) with Costa Teguise, San Bartolomé, and Arrecife particularly affected. Services across the island are affected. Some hotels are currently without power. Some roads are currently affected by mud. If you are in Lanzarote or travelling to Lanzarote, follow the advice of the local authorities and monitor local weather updates.
+Heavy rainfall and flooding in Lanzarote occurred over the weekend. Journeys may be affected. If you are in Lanzarote or travelling to Lanzarote, follow the advice of the local authorities and monitor local weather updates.
 
 ## Before you travel
 

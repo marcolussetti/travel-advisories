@@ -32,7 +32,7 @@ Friday is a non-working day for government offices and local schools. They open 
 
 ### Ramadan
 
-Ramadan is a holy month for Muslims. The dates vary by year and country. In 2025, Ramadan is expected to start around the end of February and finish around the end of March.
+Ramadan is a holy month for Muslims. The dates vary by year and country. In 2025, Ramadan started at the start of March and finished around the end of March.
 
 During this time, it is against the law to be seen eating or drinking in public during fasting hours. You must also not smoke in public.
 

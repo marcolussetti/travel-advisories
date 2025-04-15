@@ -32,7 +32,7 @@ If you’re a dual national, you should use the same passport to enter and exit 
 
 You must [submit an e-arrival declaration form](https://www.imm.gov.bn/) to enter Brunei. Do this before you travel as it may be requested at check-in. You do not need to complete the arrival form if you are not passing through immigration.
 
-From 7 September 2024, in response to the spread of the Mpox virus, it is now mandatory for all travellers into Brunei (via land, air or sea) to complete the [Health Declaration Form](https://www.healthinfo.gov.bn/travel#/user/login) upon arrival. More information can be found at the [Ministry of Health website](https://www.moh.gov.bn/).
+You must also complete the [Health Declaration Form](https://www.healthinfo.gov.bn/travel#/user/login) before or upon arrival. More information can be found at the [Ministry of Health website](https://www.moh.gov.bn/).
 
 ## Land and sea travel
 

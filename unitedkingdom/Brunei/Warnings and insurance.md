@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   15 April 2025
 
 Updated:
-:   15 October 2024
+:   14 April 2025
 
 Latest update:
-:   This travel advice was reviewed for accuracy and there are no significant updates.
+:   Updated information on declaration form ( see 'Declaration form' on 'Entry requirements' page).
 
 ## Before you travel
 
