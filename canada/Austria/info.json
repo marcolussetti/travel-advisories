@@ -1,7 +1,7 @@
 {
     "name": "Austria",
-    "update_reason": "Editorial change",
-    "update_date": "2025-03-20T04:44:00",
+    "update_reason": "The Need help? section was updated.",
+    "update_date": "2025-04-14T07:07:00",
     "sections": {
         "risk": "canada/Austria/risk.md",
         "security": "canada/Austria/security.md",
