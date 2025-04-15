@@ -14,13 +14,13 @@ Irish citizens do not require a visa to enter Liechtenstein.  However, if stayi
 
 Visitors to Liechtenstein are advised to follow the guidance of national and local authorities and stay fully informed of what is going on by monitoring local news and social media.
 
-Citizens can also follow the Irish Embassy in Berne on social media (Twitter [**@IrlEmbBerne**](https://twitter.com/IrlEmbBerne) and [**Facebook**](https://www.facebook.com/IRESWITZERLAND/) ) to ensure access to relevant updates and alerts.
+Citizens can also follow the Irish Embassy in Berne on social media (X [**@IrlEmbBerne**](https://twitter.com/IrlEmbBerne) , [**Facebook**](https://www.facebook.com/IRESWITZERLAND/) and [**LinkedIn**](https://www.linkedin.com/company/embassy-of-ireland-switzerland/)) to ensure access to relevant updates and alerts.
 
 ### **Emergency Assistance**
 
 The best help is often close at hand so if a problem arises, try talking to local contacts, tour operator representatives or hotel management.
 
-As there is no Irish Embassy or Consulate in Liechtenstein, we are limited in the help we can offer in an emergency. However, if assistance is required, contact the [**Irish Embassy in Berne**](/en/switzerland/berne/) in Switzerland.
+As there is no Irish Embassy or Consulate in Liechtenstein, we are limited in the help we can offer in an emergency. However, if assistance is required, contact the [**Irish Embassy in Berne**](/en/switzerland/berne/),Switzerland.
 
 Visitors can contact the emergency services in Liechtenstein by dialling 112. Specific emergency numbers are:
 
@@ -36,5 +36,5 @@ Visitors can contact the emergency services in Liechtenstein by dialling 112. Sp
 * Get comprehensive travel insurance that covers all planned activities.
 * Get a [**European Health Insurance Card**](http://www.hse.ie/eng/services/list/1/schemes/EHIC/)**.**
 * [**Register**](/en/dfa/overseas-travel/citizens-registration/) your details with us so that we can contact you quickly if there is an unforeseen crisis like a natural disaster or a family emergency.
-* Follow us on twitter [**@dfatravelwise**](https://www.twitter.com/DFATravelWise) for the latest travel updates.
+* Follow us on X [**@dfatravelwise**](https://www.twitter.com/DFATravelWise) and Instagram [**@dfatravelwise**](https://www.instagram.com/dfatravelwise/) for the latest travel updates.
 * Read our [**‘Know Before You Go’**](/en/dfa/overseas-travel/know-before-you-go/) guide.

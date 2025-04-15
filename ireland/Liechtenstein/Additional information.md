@@ -2,8 +2,6 @@
 
 ### **Entry requirements (visa/passport)**
 
-If unsure about the entry requirements for Liechtenstein, including visa and other immigration information, ask your travel agent or contact the nearest Embassy or Consulate of Liechtenstein.
-
 Irish citizens need a valid passport or passport card to enter Liechtenstein.
 
 ### **Climate**

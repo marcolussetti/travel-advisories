@@ -10,7 +10,7 @@ Irish citizens require a visa to enter Sudan.
 
 ### **Passports**
 
-A valid passport is required for travel to Somalia. Irish passports should have a minimum validity of 6 months. Passport cards cannot be used.
+A valid passport is required for travel to Sudan. Irish passports should have a minimum validity of 6 months. Passport cards cannot be used.
 
 It’s advisable to take a number of photocopies of your passport with you when travelling to Sudan and you should carry a photocopy of your passport at all times during your stay.
 

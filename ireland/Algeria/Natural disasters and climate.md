@@ -10,4 +10,4 @@ Despite the lack of rain in the Sahara, other parts of Algeria are susceptible t
 
 ### **Earthquake**
 
-Northern Algeria is within an earthquake zone. You should familiarise yourself with safety procedures in the event of an earthquake. In May 2003, a severe earthquake struck the Algiers area and over 2,200 people were killed and more than 10,000 were injured.
+Northern Algeria is within an earthquake zone. You should familiarise yourself with safety procedures in the event of an earthquake.

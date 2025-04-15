@@ -16,7 +16,7 @@ A valid passport is required for travel to Algeria. Irish passports should have 
 
 Visitors to Algeria are advised to follow the guidance of national and local authorities and stay fully informed of what's going on by monitoring local news and social media.
 
-Citizens can also follow the Embassy of Ireland in Switzerland, accredited to Algeria, on social media (Twitter/X [**@IrlEmbBerne**](https://twitter.com/IrlEmbBerne) and Facebook ‘[**Irish Embassy Berne**](https://www.facebook.com/IRESWITZERLAND/)’) to ensure access to relevant updates and alerts.
+Citizens can also follow the Embassy of Ireland in Switzerland, accredited to Algeria, on social media (X [**@IrlEmbBerne**](https://twitter.com/IrlEmbBerne)**,** [**Facebook**](https://www.facebook.com/IRESWITZERLAND/) and [**LinkedIn**](https://www.linkedin.com/company/embassy-of-ireland-switzerland/)) to ensure access to relevant updates and alerts.
 
 **Emergency Assistance**
 
@@ -31,13 +31,13 @@ Visitors can contact the emergency services in Algeria by dialling the numbers b
 
 Reliability and response time of emergency services vary. Emergency operators may speak French but normally do not speak English.
 
-In the event of a medical emergency call an ambulance, contact your insurance/medical assistance company promptly if referred to a medical facility for treatment.
+In the event of a medical emergency call an ambulance and contact your insurance/medical assistance company promptly if referred to a medical facility for treatment.
 
 ### **Our tips for Safe Travels:**
 
 * Get comprehensive travel insurance that covers all your planned activities.
 * [**Register**](/en/dfa/overseas-travel/citizens-registration/) your details with us so that we can contact you quickly if there’s an unforeseen crisis like a natural disaster or a family emergency.
-* Follow us on twitter [**@dfatravelwise**](https://www.twitter.com/DFATravelWise) for the latest travel updates.
+* Follow us on X [**@dfatravelwise**](https://www.twitter.com/DFATravelWise) and Instagram [**@dfatravelwise**](https://www.instagram.com/dfatravelwise/) for the latest travel updates.
 * Read our [**‘Know Before You Go’**](/en/dfa/overseas-travel/know-before-you-go/) guide.
 
 As there is no Irish Embassy in Algeria, we are limited in the help we can offer you in an emergency. However, if you need assistance, you can contact the [**Irish Embassy in Berne, Switzerland**](/en/switzerland/berne/).

@@ -2,7 +2,7 @@
 
 ### **Travel Insurance**
 
-We can not pay for emergency medical repatriation, repatriation of remains, or for expenses as a result of a personal emergency while abroad. If you buy an appropriate travel insurance policy, these costs will be covered, provided the terms and conditions have not been broken.
+We cannot pay for emergency medical repatriation, repatriation of remains, or for expenses as a result of a personal emergency while abroad. If you buy an appropriate travel insurance policy, these costs will be covered, provided the terms and conditions have not been broken.
 
 Buying comprehensive travel insurance can save a lot of money if something goes wrong. It will also ensure that you get the medical attention you need, when needed. Hospital bills can quickly run into thousands of euro, and a medical evacuation back to Ireland can cost thousands more.
 

@@ -1,11 +1,5 @@
 ## Embassy contact
 
-If urgent assistance is required while the Embassy is closed, contact the Embassy Duty Officer on +254 (0) 716 353 999
-
-Monday to Friday 8am to 4pm
-
-Follow the Embassy on Twitter @IrlEmbKenya
-
 ### Embassy of Ireland, Kenya
 
 4th Floor   

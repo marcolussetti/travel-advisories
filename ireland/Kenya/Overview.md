@@ -8,7 +8,7 @@ High Degree of Caution
 
 ### **Demonstrations and Industrial Action**
 
-Kenya continues to experience a rolling series of demonstrations and industrial action. Irish citizens travelling to Kenya should always monitor local media and follow the advice of local authorities. Always avoid demonstrations, as they may turn violent.
+In recent months,demonstrations and industrial action have taken place on a rolling basis in Kenya. Irish citizens travelling to Kenya should always monitor local media and follow the advice of local authorities. Always avoid demonstrations, as they may turn violent.
 
 ### **COVID-19** **Entry Requirements**
 
@@ -24,17 +24,17 @@ In January 2024, the Kenya State Department for Immigration and Citizen Services
 
 **Visitors to Kenya are required to register on the** [**Electronic Travel Authorisation (ETA) system**](https://www.etakenya.go.ke/en) **before entering Kenya.** Some exemptions apply as detailed on the [website of the Kenyan Civil Aviation Authority](https://www.kcaa.or.ke/sites/default/files/publication/visa_free_regime_in_kenya.pdf).
 
-The ETA system replaces the previous e-Visa system for Kenya, though travellers who currently hold a valid visa can continue to travel until its expiry. **All new applications should be made on the ETA system.**
+The ETA system replaces the previous e-Visa system for Kenya.
 
 A valid passport is required for travel to Kenya. Irish passports should have a minimum validity of 6 months and have at least 2 blank pages. Passport cards cannot be used.
 
 ### **Safety**
 
-There is currently increased concern around the possibility of a terrorist attack in Kenya. In February 2023, the US Embassy in Kenya issued a security alert urging the exercise of vigilance at locations frequented by tourists/foreigners, and the British High Commission in Nairobi issued a similar alert.
+There is currently increased concern around the possibility of a terrorist attack in Kenya.
 
 The terrorist group Al Shabaab has carried out attacks across Kenya in the past, including in Nairobi, and has threatened further attacks.
 
-As a result, Irish citizens in Kenya are urged to exercise extreme vigilance and caution, particularly in public places including hotels, bars and restaurants, sporting events, supermarkets and shopping centres, beach resorts, government buildings, international schools, buses, trains and other transport hubs including airports. There is a heightened risk of terrorist incidents during public and religious holidays.
+As a result, Irish citizens in Kenya are urged to exercise extreme vigilance and caution, particularly in public places locations frequented by tourists/foreigners, including hotels, bars and restaurants, sporting events, supermarkets and shopping centers, beach resorts, government buildings, international schools, buses, trains and other transport hubs including airports. There is a heightened risk of terrorist incidents during public and religious holidays.
 
 **Citizens should also note:**
 
@@ -49,7 +49,7 @@ The Department of Foreign Affairs advises citizens travelling to Kenya [**to reg
 
 Law requires carrying ID at all times and police may request evidence of this.
 
-Citizens can also follow the Irish Embassy in Kenya on [**Twitter**](https://twitter.com/IrlEmbKenya) to ensure access to relevant updates and alerts.
+Citizens can also follow the Irish Embassy in Kenya on [X](https://twitter.com/IrlEmbKenya) to ensure access to relevant updates and alerts.
 
 ### **Emergency Assistance**
 
@@ -61,5 +61,5 @@ Visitors can contact the emergency services in Kenya by dialling 999.
 
 * Get comprehensive travel insurance that covers all planned activities.
 * [**Register**](/en/dfa/overseas-travel/citizens-registration/) your details with us so that we can contact you quickly if there is an unforeseen crisis like a natural disaster or a family emergency.
-* Follow us on twitter [**@dfatravelwise**](https://www.twitter.com/DFATravelWise) for the latest travel updates.
+* Follow us on X [**@dfatravelwise**](https://www.twitter.com/DFATravelWise) and Instagram [**@dfatravelwise**](https://www.instagram.com/dfatravelwise/) for the latest travel updates.
 * Read our [**‘Know Before You Go’**](/en/dfa/overseas-travel/know-before-you-go/) guide.

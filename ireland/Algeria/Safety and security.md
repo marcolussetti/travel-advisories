@@ -14,7 +14,7 @@ Keep yourself informed of events by monitoring local media and staying in contac
 
 ### **Terrorism**
 
-The threat from terrorism in Algeria is high, especially outside Algiers and the main cities. Suicide bomb attacks have been carried out in major population centres, including Algiers, in recent years. These attacks have caused death and serious injuries and foreigners have often been targeted.
+The threat from terrorism in Algeria is high, especially outside Algiers and the main cities. Attacks have been carried out in major population centers, including Algiers, in recent years, and have caused death and serious injuries.
 
 Avoid all travel to areas within 450km of the Mali and Niger borders with the exception of Tindouf town and Tamanrasset city; to areas within 100km of the Mauritania border; and to areas within 100km of the Tunisian and Libyan borders south of the town of Souk Ahras.
 

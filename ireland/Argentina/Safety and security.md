@@ -39,6 +39,14 @@ You should always:
 * Avoid leaving valuables, especially passports, in overhead compartments in long-distance buses;
 * Lock your room when you return to your hotel or accommodation.
 
+### **Drink and Food Spiking**
+
+Drinks and food can be spiked and could put you at risk of robbery or assault. Never leave your food or drinks unattended and do not accept them from strangers. Pay attention when your drinks are being mixed. Foreign tourists have been drugged and robbed of their belongings.
+
+There have been reports of foreign tourists being robbed or assaulted after inviting, someone they recently met, online or in person, into their accommodation.
+
+* Get urgent medical help if you suspect you have been a victim. If you are imminent danger, contact local authorities by dialing “911”.
+
 ### **Reporting crime**
 
 If you are a victim of a crime while in Argentina, report it to the local police or the Tourist Police (in the city of Buenos Aires) immediately. Please contact us at the Irish Embassy in Buenos Aires if you need help.

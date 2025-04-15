@@ -21,11 +21,11 @@ During Ramadan, Muslims are not permitted to eat, drink or smoke during daylight
 
 ### **Local culture**
 
-In Algeria the weekend is Friday and Saturday.
+In Algeria the working week runs from Sunday to Thursday and the weekend is on Friday and Saturday.
 
 ### **Female travellers**
 
-Female travellers can face particular issues around security and dealing with the religious and cultural beliefs of the countries they visit (especially if they’re travelling alone). We advise you to do some research before you travel, so you know what to expect from the country you’re visiting.
+Female travellers can face particular issues around security and dealing with the religious and cultural beliefs of the countries they visit (especially if travelling alone). We advise you to do some research before you travel, so you know what to expect from the country you’re visiting.
 
 Some quick tips include:
 

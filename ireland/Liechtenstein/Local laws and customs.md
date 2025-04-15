@@ -8,4 +8,4 @@ Drug possession carries heavy fines and prison terms in Liechtenstein. They can 
 
 ### **Alcohol**
 
-The drinking age for beer, wine and alcoholic cider is generally 16 (though higher in some cantons or individual shops), while the age for any other alcohol (eg spirits, alcopops, etc.) is 18.
+The drinking age for beer, wine and alcoholic cider is generally 16 (though higher in some cantons or individual shops), while the age for any other alcohol (e.g. spirits, alcopops, etc.) is 18.

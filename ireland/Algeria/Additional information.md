@@ -12,8 +12,6 @@ In general, keep your passport somewhere safe and carry a copy with you at all t
 
 ### **Health**
 
-There are no COVID-19 restrictions in place for travel to Algeria from Ireland. There is no requirement to present certificates of vaccination/testing for COVID-19 or to complete a Passenger Locator Form.
-
 Check with your doctor well in advance of travelling to see if you need any vaccinations for Algeria.
 
 Additional information on Algeria can be found via the following link:

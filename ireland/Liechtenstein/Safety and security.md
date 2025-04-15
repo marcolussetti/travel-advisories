@@ -2,11 +2,11 @@
 
 ### **Social unrest**
 
-Protests and demonstrations do take place in Liechtenstein. These are often aimed at international organisations and international meetings. Some protests have become violent in the past. Monitor the local media and other important sources of information about possible demonstrations, avoid affected areas and follow the advice of local authorities.
+Protests and demonstrations may take place in Liechtenstein. Monitor the local media and other important sources of information about possible demonstrations, avoid affected areas and follow the advice of local authorities.
 
 ### **Terrorism**
 
-Along with other European countries, there is potential for Liechtenstein to experience international terrorist attacks, which could be against civilian targets, including places frequented by tourists and expatriates.
+As with other European countries, there is potential for Liechtenstein to experience terrorist attacks, which could be against civilian targets, including places frequented by tourists and expatriates.
 
 ### **Crime**
 
@@ -14,7 +14,6 @@ The level of serious crime in Liechtenstein is relatively low and most visits to
 
 * Do not carry credit cards, travel tickets and money together - leave spare cash and valuables in a safe place.
 * Do not carry your passport unless absolutely necessary and leave a photocopy of passport (and travel and insurance documents) with family or friends at home.
-* Be aware that petty theft does take place in Liechtenstein, especially around main train stations, filling stations, on public transport, at airports and in city centre areas.
 
 ### **Reporting crime**
 
@@ -35,7 +34,7 @@ Speeding is taken very seriously and breaking the speed limit could result in a 
 
 ### **Winter equipment**
 
-All cars must be fitted with winter tyres when driving in Liechtenstein during the winter months. Snow chains may also be required for mountainous routes.
+All cars should be fitted with winter tyres when driving in Liechtenstein during the winter months. Snow chains may also be required for mountainous routes.
 
 ### **Hiring a vehicle**
 
