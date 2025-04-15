@@ -14,41 +14,36 @@ For emergency services in the Kyrgyz Republic, **dial 112**.
 
 Ambulance services are not widely available, and the training and availability of emergency responders may be well below U.S. standards. Emergency responders may not be present throughout the country or are unreliable in most areas except Bishkek, Osh, and other large cities. Ambulances are not equipped with state-of-the-art medical equipment and are typically not staffed with trained paramedics. Injured or seriously ill travelers, particularly outside of metropolitan areas, may prefer to take a taxi, private ambulance, or private vehicle to the nearest major hospital rather than wait for an ambulance.
 
-**The U.S. government does not pay medical bills**
+Tuberculosis is prevalent in the Kyrgyz Republic.
 
-Be aware that U.S. Medicare/Medicaid does not apply overseas. Most hospitals and doctors overseas do not accept U.S. health insurance.
+See our [Health Abroad page](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html) for more information.
 
-**Medical Insurance**
+**The U.S. government does not pay medical bills.**Be aware that U.S. Medicare/Medicaid does not apply overseas. Most hospitals and doctors overseas do not accept U.S. health insurance.
 
-Make sure your health insurance plan provides coverage overseas. Most care providers overseas only accept cash payments. See [our webpage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) for more information on insurance providers for overseas coverage. Visit the [U.S. Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/page/insurance) for more information on type of insurance you should consider before you travel overseas.
+**Medical Insurance**: Make sure your health insurance plan provides coverage overseas. Most care providers overseas only accept cash payments. See [our webpage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) for more information on insurance providers for overseas coverage. Visit the [U.S. Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/page/insurance) for more information on type of insurance you should consider before you travel overseas.
 
 We strongly recommend supplemental insurance to cover medical evacuation in the event of unforeseen medical complications.
 
-**Medications**
+**Medications:** Always carry prescription medication in original packaging, along with your doctor’s prescription. Prescriptions must be translated into Russian. Check with the Ministry of Health’s register of medications to ensure that your medication is legal in the Kyrgyz Republic.
 
-Always carry prescription medication in original packaging, along with your doctor’s prescription. Prescriptions must be translated into Russian. Check with the Ministry of Health’s register of medications to ensure that your medication is legal in the Kyrgyz Republic.
+**Vaccinations:** Be up to date on all [vaccinations](https://www.cdc.gov/rsv/vaccines/index.html?s_cid=SEM.MS:PAI:RG_AO_MS_TM_A18_RSV-GetVaccinated-Brd:adult%20rsv%20vaccine:SEM00124&utm_id=SEM.MS:PAI:RG_AO_MS_TM_A18_RSV-GetVaccinated-Brd:adult%20rsv%20vaccine:SEM00124) recommended by the U.S. Centers for Disease Control and Prevention.
 
-**Further Health Information**
+**Further Health Information:**
 
-* [World Health Organization](https://www.who.int/travel-advice)
-* [U.S. Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/) (CDC)
+* World Health Organization [Travel advice page](https://www.who.int/countries/kgz/)
+* U.S. Centers for Disease Control and Prevention (CDC)  [Travelers’ Health page](https://wwwnc.cdc.gov/travel/destinations/list)
 
-**Altitude**
+**Altitude:**
 
-* Many cities in the Kyrgyz Republic are at high altitude. Be aware of the symptoms of altitude sickness and take precautions before you travel. Visit the U.S. Centers for Disease Control and Prevention website for more information about [Travel to High Altitudes](https://wwwnc.cdc.gov/travel/page/travel-to-high-altitudes).
+Many cities in the Kyrgyz Republic are at high altitude. Be aware of the symptoms of altitude sickness and take precautions before you travel. Visit the U.S. Centers for Disease Control and Prevention website for more information about[Travel to High Altitudes.](https://wwwnc.cdc.gov/travel/page/travel-to-high-altitudes)
 
-**Adventure Travel**
+**Adventure Travel:**
 
-* Visit the U.S. Centers for Disease Control and Prevention website for more information about [Adventure Travel](https://wwwnc.cdc.gov/travel/page/travel-to-the-extreme).
-* Tuberculosis is prevalent in the Kyrgyz Republic.
-
-Visit the U.S. Centers for Disease Control and Prevention website for more information about [Resources for Travelers](https://wwwnc.cdc.gov/travel/page/traveler-information-center) regarding specific issues in the Kyrgyz Republic.
+* Visit the U.S. Centers for Disease Control and Prevention website for more information about [Adventure Travel.](https://wwwnc.cdc.gov/travel/page/adventure)
 
 Visit the U.S. Centers for Disease Control and Prevention website for more information about [Resources for Travelers](https://wwwnc.cdc.gov/travel/page/traveler-information-center) regarding specific issues in the Kyrgyz Republic.
 
-**Air Quality**
-
-Air pollution is a significant problem in several major cities in the Kyrgyz Republic. Consider the impact seasonal smog and heavy particulate pollution may have on you and consult your doctor before traveling if necessary.
+**Air Quality:** Air pollution is a significant problem in several major cities in the Kyrgyz Republic. Consider the impact seasonal smog and heavy particulate pollution may have on you and consult your doctor before traveling if necessary.
 
 The air quality varies considerably and fluctuates with the seasons. It is typically at its worst in the winter. People at the greatest risk from particle pollution exposure include:
 
@@ -58,11 +53,4 @@ The air quality varies considerably and fluctuates with the seasons. It is typic
 * People with heart disease or diabetes
 * People who work or are active outdoors
 
-Air pollution can be a significant problem in many destinations overseas.
-
-* Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in Kyrgyz Republic.
-* For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/).
-* For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/).
-* For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
-
-The U.S. Embassy maintains a list of doctors and hospitals [here](https://kg.usembassy.gov/medical-assistance/). We do not endorse or recommend any specific medical provider or clinic.
+The U.S. Embassy maintains a list of doctors and hospitals [here](https://kg.usembassy.gov/medical-assistance/). We do not endorse or recommend any specific medical provider or clinic.

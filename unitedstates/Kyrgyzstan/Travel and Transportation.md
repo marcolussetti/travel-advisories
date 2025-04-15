@@ -22,7 +22,9 @@ Traffic police have been known to demand payment of arbitrary "fines" for purpor
 
 International driving permits are recognized in the Kyrgyz Republic.
 
-**Public Transportation**: Buses tend to be very crowded and can be unsafe and unreliable.
+**Public Transportation**:
+
+Buses tend to be very crowded and can be unsafe and unreliable.
 
 U.S. Embassy personnel are restricted from utilizing public transportation due to the potential for crime, sexual harassment, and assault.
 
@@ -34,4 +36,6 @@ If hailing a taxi on the street, negotiate a fare prior to entering a cab. Cab d
 
 See our [Road Safety page](http://travel.state.gov/content/passports/english/go/safety/road.html) for more information. Visit the Kyrgyz Republic’s [Department of Tourism Website](https://tourism.gov.kg/kirgizistan/) for more information.
 
-**Aviation Safety Oversight:** As there is no direct commercial air service to the United States by carriers registered in the Kyrgyz Republic, the U.S. Federal Aviation Administration (FAA) has not assessed the government of the Kyrgyz Republic’s Civil Aviation Authority for compliance with International Civil Aviation Organization (ICAO) aviation safety standards. Further information may be found on the [FAA’s safety assessment page](https://www.faa.gov/about/initiatives/iasa/).
+**Aviation Safety Oversight**: The U.S. Federal Aviation Administration (FAA) has not assessed the Kyrgyz Republic’s Civil Aviation Authority for compliance with international standards for aviation safety oversight. FAA’s website includes more information on its assessment program.
+
+**Fact Sheet:** Please see the U.S. Department of State [Fact Sheet](https://www.state.gov/countries-and-areas-list/) for this country/area.
