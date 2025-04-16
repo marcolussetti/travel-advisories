@@ -56,7 +56,7 @@
     {
         "destination": "Argentina",
         "risk_level": "Take normal security precautions (with regional advisories)",
-        "last_updated": "2025-04-08T14:10:41",
+        "last_updated": "2025-04-15T09:34:08",
         "details_url": "https://travel.gc.ca/destinations/argentina"
     },
     {
@@ -140,7 +140,7 @@
     {
         "destination": "Benin",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-03-06T14:56:33",
+        "last_updated": "2025-04-15T10:35:47",
         "details_url": "https://travel.gc.ca/destinations/benin"
     },
     {
@@ -182,7 +182,7 @@
     {
         "destination": "Brazil",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-04-10T09:24:25",
+        "last_updated": "2025-04-15T09:27:38",
         "details_url": "https://travel.gc.ca/destinations/brazil"
     },
     {
@@ -266,13 +266,13 @@
     {
         "destination": "China",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-04-14T08:51:50",
+        "last_updated": "2025-04-15T07:16:26",
         "details_url": "https://travel.gc.ca/destinations/china"
     },
     {
         "destination": "Colombia",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-04-11T19:16:51",
+        "last_updated": "2025-04-15T04:20:23",
         "details_url": "https://travel.gc.ca/destinations/colombia"
     },
     {
@@ -362,7 +362,7 @@
     {
         "destination": "Ecuador",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-04-12T12:41:29",
+        "last_updated": "2025-04-15T04:29:22",
         "details_url": "https://travel.gc.ca/destinations/ecuador"
     },
     {
@@ -608,7 +608,7 @@
     {
         "destination": "Jamaica",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-04-08T14:06:31",
+        "last_updated": "2025-04-15T09:56:58",
         "details_url": "https://travel.gc.ca/destinations/jamaica"
     },
     {
@@ -860,7 +860,7 @@
     {
         "destination": "Nepal",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-04-08T14:09:55",
+        "last_updated": "2025-04-15T14:28:53",
         "details_url": "https://travel.gc.ca/destinations/nepal"
     },
     {
@@ -968,7 +968,7 @@
     {
         "destination": "Peru",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-04-11T19:21:23",
+        "last_updated": "2025-04-15T04:23:07",
         "details_url": "https://travel.gc.ca/destinations/peru"
     },
     {
@@ -1262,7 +1262,7 @@
     {
         "destination": "Trinidad and Tobago",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-04-08T14:48:06",
+        "last_updated": "2025-04-15T16:44:39",
         "details_url": "https://travel.gc.ca/destinations/trinidad-and-tobago"
     },
     {

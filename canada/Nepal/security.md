@@ -2,7 +2,7 @@
 
 ## Safety and security
 
-From November 8, 2024, until March 2025, Tribhuvan International Airport in Kathmandu will reduce its hours of operation. The airport will be open from 8 a.m. to 10 p.m. while construction takes place. This could affect international and domestic flights. Contact your tour operator or airline before you travel.
+Since November 8, 2024, Tribhuvan International Airport in Kathmandu has reduced its hours of operation. The airport will be open from 8 am to 10 pm while construction takes place. This could affect international and domestic flights. Contact your tour operator or airline before you travel.
 
 ### Crime
 

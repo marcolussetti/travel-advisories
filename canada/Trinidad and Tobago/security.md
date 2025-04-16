@@ -2,19 +2,6 @@
 
 ## Safety and security
 
-### State of emergency
-
-On December 30, 2024, the Trinidad and Tobago authorities declared a nationwide state of emergency in response to gang violence. While the state of emergency is in effect, security forces have increased rights, without warrants, to:
-
-* conduct searches of persons and property
-* arrest and detain persons of interest
-
-If you are in Trinidad and Tobago:
-
-* expect an increased police and military presence
-* carry your ID at all times
-* follow the instructions of local authorities
-
 ### Crime
 
 #### Petty crime
