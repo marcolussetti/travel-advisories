@@ -42,7 +42,7 @@ Full travel advice: [Health](#health)
 ### Local laws
 
 * The 2024 Safeguarding National Security Law and the 2020 National Security Law may be interpreted broadly. The laws could be applied to activities that occurred outside Hong Kong, including social media posts. You could break the law without intending to. You may be at increased risk of detention. You could be detained without charge for up to 16 days and denied access to a lawyer for up to 48 hours.
-* The maximum penalty under Hong Kong's national security laws is life imprisonment.
+* The maximum penalty under Hong Kong's national security laws is life imprisonment. Citizens of other countries, including Australia, have been arrested, convicted and imprisoned under Hong Kong's new security laws.
 * The Australian Government can't intervene in the Hong Kong judicial process. Denial of entry to Hong Kong is also possible.
 * Don't use, carry or traffic illegal drugs. Penalties include heavy fines and jail time.
 * [Cannabidiol](https://www.nd.gov.hk/en/CBD.html) (CBD) is listed as a dangerous drug in Hong Kong. Possession and consumption carries a maximum penalty of seven years imprisonment. Trafficking and illicit manufacturing carries a maximum penalty of life imprisonment.

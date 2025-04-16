@@ -18,7 +18,7 @@ Colombian drug trafficking detection methods are sophisticated and anyone attemp
 
 Don’t get involved with illegal drugs.
 
-Pack your own luggage, lock it and keep it with you at all times. Don’t carry items for other people.
+Pack your own luggage, lock it and always keep it with you. Don’t carry items for other people.
 
 **More information:**
 
@@ -60,7 +60,7 @@ Some Australian criminal laws still apply when you're overseas. If you break the
 
 The Colombian Government requires Colombian citizens to enter and exit on a Colombian passport or other valid Colombian travel document. This includes dual nationals.
 
-You could face delays at immigration if you're a dual national but you don't have a Colombian travel document.
+You could face delays at immigration, or not be allowed to leave the country, if you're a dual national but you don't have a Colombian travel document.
 
 If you're a male dual national aged over 18 years, you may be required to complete national service if you visit Colombia.
 

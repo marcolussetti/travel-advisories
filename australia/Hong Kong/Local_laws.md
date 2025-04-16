@@ -12,6 +12,8 @@ You could break the laws without intending to, and you may be at increased risk 
 
 Under the security laws, you could be deported or face possible transfer to mainland China for prosecution under mainland law. Denial of entry to Hong Kong is also possible. Hong Kong authorities have issued arrest warrants against individuals living outside Hong Kong, including in Australia. Hong Kong authorities have also offered financial rewards for information on those individuals.
 
+Citizens of other countries, including Australia, have been arrested, convicted and imprisoned under Hong Kong's new security laws.
+
 If you're arrested or jailed, the Australian Government will do what it can to help you under our [Consular Services Charter](https://www.smartraveller.gov.au/node/46). But we can't get you out of trouble or out of jail.
 
 The Australian Government can't intervene in the Hong Kong judicial process.

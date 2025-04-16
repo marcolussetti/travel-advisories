@@ -182,7 +182,7 @@
     {
         "destination": "Colombia",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-02-04T12:00:00Z",
+        "last_updated": "2025-04-16T12:00:00Z",
         "url": "https://www.smartraveller.gov.au/destinations/americas/colombia"
     },
     {
@@ -337,8 +337,8 @@
     },
     {
         "destination": "Germany",
-        "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-03-20T12:00:00Z",
+        "risk_level": "Exercise normal safety precautions",
+        "last_updated": "2025-04-16T12:00:00Z",
         "url": "https://www.smartraveller.gov.au/destinations/europe/germany"
     },
     {
@@ -392,7 +392,7 @@
     {
         "destination": "Hong Kong",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2024-10-24T12:00:00Z",
+        "last_updated": "2025-04-16T12:00:00Z",
         "url": "https://www.smartraveller.gov.au/destinations/asia/hong-kong"
     },
     {
@@ -998,7 +998,7 @@
     {
         "destination": "Uganda",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-03-17T12:00:00Z",
+        "last_updated": "2025-04-16T12:00:00Z",
         "url": "https://www.smartraveller.gov.au/destinations/africa/uganda"
     },
     {
@@ -1022,7 +1022,7 @@
     {
         "destination": "United States of America",
         "risk_level": "Exercise normal safety precautions",
-        "last_updated": "2025-04-04T12:00:00Z",
+        "last_updated": "2025-04-16T12:00:00Z",
         "url": "https://www.smartraveller.gov.au/destinations/americas/united-states-america"
     },
     {

@@ -25,7 +25,7 @@ To stay safe during civil unrest:
 * [Demonstrations and civil unrest](/node/343)
 * [Transport Department – special traffic news](https://www.td.gov.hk/en/special_news/spnews.htm)
 * [Hong Kong Police Facebook](https://www.facebook.com/HongKongPoliceForce)
-* Hong Kong Police 'X' (formerly Twitter): [@hkpoliceforce](https://twitter.com/hkpoliceforce)
+* Hong Kong Police 'X': [@hkpoliceforce](https://twitter.com/hkpoliceforce)
 * Local media: [South China Morning Post](https://www.scmp.com/hk) or [RTHK English news](https://news.rthk.hk/rthk/en/)
 
 #### Terrorism
@@ -50,7 +50,7 @@ Take care of your belongings, especially in crowded places.
 
 #### Drink spiking
 
-Drink spiking happens. To reduce your risk of drink spiking:
+Drink spiking can happen anywhere. Be alert to the potential risks, and don't leave food or drinks unattended. Pay attention when your drinks are being mixed. Stick to reputable venues and avoid homemade alcoholic drinks due to the risk of methanol poisoning. Get urgent medical help if you suspect you’ve been a victim. To reduce your risk of drink spiking:
 
 * be careful of people who approach you in bars
 * don't accept drinks, food, gum or cigarettes from strangers or new friends
@@ -109,7 +109,7 @@ Kidnapping can happen anywhere, anytime, including in destinations that are typi
 
 The Australian Government's longstanding policy is that it doesn't make payments or concessions to kidnappers.
 
-**More information:**
+**More information, including advice on how to reduce your risk of kidnapping:**
 
 * [Kidnapping](https://www.smartraveller.gov.au/before-you-go/safety/kidnapping)
 

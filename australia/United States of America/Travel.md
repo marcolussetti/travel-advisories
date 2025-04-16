@@ -125,6 +125,10 @@ You can [check your I-94 with CBP](https://i94.cbp.dhs.gov/I94/) each time you
 
 If you stay past your I-94 expiry date, you can be detained, deported and banned from re-entering the United States.
 
+#### Registration
+
+The US Government requires foreign nationals aged 14 years or over remaining within the United States for periods longer than 30 days to register with authorities.  For further information on requirements and how to check whether you are registered see [Alien Registration Requirement](https://www.uscis.gov/alienregistration).
+
 #### Renewing your I-94 and/or extending your stay
 
 You can't extend or renew your I-94 by travelling to Canada, Mexico or the Caribbean for 30 days or less and then re-entering the United States.
@@ -162,7 +166,7 @@ You'll have your fingerprints scanned and your face photographed when you arrive
 
 **More information:**
 
-* [US Customs and Border Protection (CBP) - Biometrics](https://www.cbp.gov/travel/biometrics)
+* [US Customs and Border Protection (CBP) - Biometrics](https://www.cbp.gov/travel/biometrics/overview)
 
 #### Children
 
@@ -190,13 +194,13 @@ If you have a US visa and plan to visit the United States after you’ve been to
 
 #### Immigration enforcement
 
-The United States has strict immigration laws. US authorities actively pursue, detain and deport people who are in the country illegally.
+The United States has strict immigration laws. Ensure that you know and understand the conditions of your status within the United States including if you entered via the VWP or a visa, or if you are a US permanent resident. 
 
-It’s common for US Immigration and Customs Enforcement (ICE) officers to carry out random travel document checks, including on public transport.
+US authorities actively pursue, detain and deport people who are in the country illegally or who breach the conditions of their entry or status. Participating in a protest or demonstration (including online) can be considered a breach of status and grounds for deportation or denial of a visa and/or immigration requests.
 
 If you’re a tourist or visitor, be prepared to show your passport and entry stamp, ESTA or valid US visa, and a copy of your electronic [Form I-94](https://i94.cbp.dhs.gov/I94/).
 
-If you're living in the United States but not a US citizen, be prepared to show proof of legal residence, such as a US permanent resident card, valid US visa and electronic Form I-94, and US driver's licence issued by the state in which you live.
+If you're living in the United States but not a US citizen, be prepared to show proof of legal residence, such as a US permanent resident card, valid US visa and electronic Form I-94, and US driver's licence or non-driver ID issued by the state in which you live.
 
 If you travel on an incorrect visa, breach the conditions of your ESTA or visa, or are found to be unlawfully present in the United States, you may be held at the port of entry or a nearby detention facility (including in Hawaii) while US authorities arrange your return to Australia (or the last country you visited).
 

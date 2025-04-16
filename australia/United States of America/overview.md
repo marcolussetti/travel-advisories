@@ -2,7 +2,7 @@
 
 Latest update
 
-Entry requirements are strict. US authorities have broad powers to decide if you're eligible to enter and may determine that you are inadmissible for any reason under US law. Check US entry, transit and exit requirements. Whether you're travelling on a visa or under the Visa Waiver Program, ensure you understand all relevant terms and conditions before attempting to enter the United States.
+Entry requirements are strict. US authorities have broad powers to decide if you're eligible to enter and may determine that you are inadmissible for any reason under US law. Check US entry, registration, transit and exit requirements. Whether you're travelling on a visa or under the Visa Waiver Program, ensure you understand all relevant terms and conditions before attempting to enter the United States.
 
 Advice Level summary
 
@@ -51,7 +51,7 @@ Full travel advice: [Local laws](#local-laws)
 ### Travel
 
 * Australian citizens can now apply for the Global Entry program direct through US Customs and Border Protection (see 'Travel' below).
-* Entry requirements are strict. US authorities have broad powers to decide if you're eligible to enter and may determine that you are inadmissible for any reason under US law. Check US entry, transit and exit requirements.
+* Entry requirements are strict. US authorities have broad powers to decide if you're eligible to enter and may determine that you are inadmissible for any reason under US law. Check US entry, [registration](https://www.uscis.gov/alienregistration), transit and exit requirements.
 * If you're visiting for less than 90 days, you may be eligible to apply for an Electronic System for Travel Authorization (ESTA) and enter the US under the Visa Waiver Program (VWP). If not, you'll need to get a visa before you travel. Whether you're travelling on a visa or under the VWP, ensure that you understand all relevant terms and conditions before attempting to enter the US.
 * An approved ESTA or valid visa doesn’t guarantee entry to the United States. US Customs and Border Protection (CBP) officials at the port of entry will determine your eligibility. If CBP denies your entry, you may be held at the port of entry or a nearby detention facility while US authorities arrange your return to Australia (or the last country you visited).
 * Expect enhanced screening procedures, including for domestic flights within the United States. You can be denied boarding if you show signs of illness.

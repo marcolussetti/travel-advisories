@@ -6,25 +6,23 @@ Every country or territory decides who can enter or leave through its borders. F
 
 #### Visa-free travel for short stays
 
-If you're visiting for tourism and plan to stay for 90 days or less, you generally won't need a visa to enter Colombia.
-
-Before entering or exiting Colombia, all travellers must complete a free online form ('Check-Mig') on the [Migracion Colombia](https://apps.migracioncolombia.gov.co/pre-registro/en) website. This form is free and must be completed on the Migracion Colombia website between 72 hours and one hour before your flight's departure.
+If you're visiting for tourism and plan to stay for 90 days or less, you generally won't need a visa to enter Colombia. You may need to show an onward or return ticket, or proof of sufficient funds.
 
 Immigration officers can refuse your entry even if you meet the criteria for visa-free entry. You must present an onward or return ticket with a departure date that's within the 90-day period allowed for visitor entry into Colombia.
 
 For other situations, you'll need to get a visa before you travel.
 
-If you're issued with a Colombian visa with more than 90 days validity, you must register the visa at a Migración Colombia office or [online](https://apps.migracioncolombia.gov.co/registro/public/formularioRegistro.jsf) within 15 days of arrival in Colombia. You will face fines if you don't register the visa on time.
+If you're issued with a Colombian visa with more than 90 days validity, you must register the visa at a Migración Colombia office or [online](https://apps.migracioncolombia.gov.co/registro/public/formularioRegistro.jsf) within 15 days of arrival in Colombia. You'll face fines if you don't register the visa on time.
 
 Entry and exit conditions can change at short notice. Contact the closest [embassy or consulate of Colombia](https://protocol.dfat.gov.au/Public/Missions/45) for details about visas, currency, customs and quarantine rules.
 
 You may be able to extend your stay once you are in Colombia by up to 120 days. As a visitor, you can't remain in Colombia for more than 180 days in a calendar year. Contact [Migración Colombia](https://www.migracioncolombia.gov.co/) (Spanish) for further information.
 
-Don't overstay your visa, or you will be fined or risk deportation at your own cost.
+Don't overstay your visa, or you'll be fined or risk deportation at your own cost.
 
 #### Travel via the United States
 
-If you're travelling through the US, you must meet US entry or transit requirements.
+If you're travelling through the USA, you must meet USA entry or transit requirements.
 
 Check your visa requirements with your nearest [embassy or consulate of the United States](https://protocol.dfat.gov.au/Public/Missions/212) before you travel.
 
@@ -44,13 +42,13 @@ If you’re travelling via Chile, ensure you meet all current entry or transit r
 
 All land, sea and river borders are open. Entry and exit restrictions at borders may change at short notice. If crossing borders, check with local migration authorities for current restrictions.
 
-From 12 January, when entering Ecuador via land borders you're required to present an apostilled police check covering the previous five years. The police check from Australia is obtained through the [Australian Federal Police](https://www.afp.gov.au/our-services/national-police-checks) and can be [apostilled in Australia](/consular-services/notarial-services "Notarial services") or at an Australian Embassy when overseas.
+From 12 January 2024, when entering Ecuador via land borders you're required to present an apostilled police check covering the previous five years. The police check from Australia is obtained through the [Australian Federal Police](https://www.afp.gov.au/our-services/national-police-checks) and can be [apostilled in Australia](/consular-services/notarial-services "Notarial services") or at an Australian Embassy when overseas.
 
-We recommend you do not travel to some border areas or cross some borders due to a high risk of terrorism and violent crime.
+We recommend you do not travel to border areas or cross some borders due to a high risk of terrorism and violent crime.
 
-* Don't attempt to cross the Venezuela-Colombia border by land, or travel within 20 km of the Venezuelan border
-* Don't attempt to cross the Panama-Colombia border by land, or travel to the Darién Gap (except the town of Capurganá)
-* Don't travel to within 20 km of the Ecuador border, except for the Pan-American highway crossing at Ipiales.
+* don't attempt to cross the Venezuela-Colombia border by land, or travel within 20 km of the Venezuelan border
+* don't attempt to cross the Panama-Colombia border by land, or travel to the Darién Gap (except the town of Capurganá)
+* don't travel to within 20 km of the Ecuador border, except for the Pan-American highway crossing at Ipiales.
 
 #### Entry stamp
 
@@ -64,13 +62,13 @@ Check your entry stamp carefully. Officials will fine you if you stay in the cou
 
 You need to pay an [airport tax](https://eldorado.aero/en/comunicados/airport-tax) when you leave. This is usually included in your ticket price. Confirm with your airline or travel agent at the time of purchase.
 
-If you’re travelling to the Archipelago of San Andres, Providencia or Santa Catalina you must purchase a tourist card from the airport you are travelling from. You can usually buy this at the boarding gate on the day of your flight. Tourists staying less than 24 hours on the islands, and children under 7 years, are exempt. Check with your airline to confirm the details prior to your travel.
+If you’re travelling to the Archipelago of San Andres, Providencia or Santa Catalina you must purchase a tourist card from the airport you're travelling from. You can usually buy this at the boarding gate on the day of your flight. Tourists staying less than 24 hours on the islands, and children under 7 years, are exempt. Check with your airline to confirm the details prior to your travel.
 
 #### Travel with children
 
 A child under the age of 18 years who is a Colombian citizen, or resident travelling alone or with one parent must carry:
 
-* a letter of consent from the non-travelling parent(s) that authorises travel. It must mention the proposed destination, the purpose of the trip, the date of departure and the return date.
+* a letter of consent from the non-travelling parent(s) that authorises travel. It must include the proposed destination, the purpose of the trip, the date of departure and the return date.
 * a copy of the child's birth certificate
 
 Both documents must be translated into Spanish and notarised by a local notary or by the Colombian Embassy or Consulate in Australia.
@@ -89,7 +87,7 @@ Some countries won't let you enter unless your passport is valid for 6 months af
 
 Some foreign governments and airlines apply the rule inconsistently. Travellers can receive conflicting advice from different sources.
 
-You can end up stranded if your passport is not valid for more than 6 months after your departure date from Colombia.
+You can end up stranded if your passport is not valid for more than six months after your departure date from Colombia.
 
 The Australian Government does not set these rules. Check your passport's expiry date before you travel. If you're not sure it'll be valid for long enough, consider getting [a new passport](/consular-services/passport-services "Passport services").
 
@@ -101,12 +99,10 @@ Some people may try to trick you into giving them your passport. Always keep it 
 
 If your passport is lost or stolen, tell the Australian Government as soon as possible:
 
-* In Australia, contact the [Australian Passport Information Service](https://www.passports.gov.au/contact-us).
-* If you're overseas, contact the nearest [Australian embassy or consulate](http://dfat.gov.au/about-us/our-locations/missions/Pages/our-embassies-and-consulates-overseas.aspx).
+* in Australia, contact the [Australian Passport Information Service](https://www.passports.gov.au/contact-us).
+* if you're overseas, contact the nearest [Australian embassy or consulate](http://dfat.gov.au/about-us/our-locations/missions/Pages/our-embassies-and-consulates-overseas.aspx).
 
-You must get an entry stamp in your passport if you enter by land. If you don't, Colombian officials could force you to go back to the border to get the stamp.
-
-You can use emergency passports to enter, transit and exit Colombia. They must be valid for at least 6 months from when you enter.
+You can use emergency passports to enter, transit and exit Colombia. They must be valid for at least six months from when you plan to leave. You must get an entry stamp in your passport if you enter by land. Failure to do so may result in a fine on departure. If the immigration office on the border is closed, seek help at the nearest office of [Migración Colombia](https://www.migracioncolombia.gov.co/) (Spanish).
 
 #### Passport with ‘X’ gender identifier
 
@@ -131,10 +127,6 @@ ATM and credit card facilities are more limited in rural areas. Contact your ban
 Credit card fraud and robbery at ATMs is common.
 
 #### Local travel
-
-#### Local restrictions
-
-Face masks are mandatory in medical centres and in aged care facilities nationwide. See the [Colombian Ministry of Health](https://www.minsalud.gov.co/portada-covid-19.html) website.
 
 #### Tours and adventure activities
 
@@ -176,7 +168,7 @@ Other risks when you travel by road, particularly in rural areas, include:
 * other violence, including roadblocks by illegal armed groups
 * landmines (not all areas with landmines are marked)
 
-Major highways between large cities are of relatively good quality and suitable for land travel. This includes Ruta 25 (Barranquilla-Ipiales), Ruta del Sol (Bogota-Santa Marta), and Ruta 45 (Bogota-Medellin). Always exercise a high degree of caution when travelling by road.
+Major highways between large cities are of relatively good quality and suitable for land travel. This includes Ruta 25 (Barranquilla-Ipiales), Ruta del Sol (Bogotá -Santa Marta), and Ruta 45 (Bogotá-Medellín). Always exercise a high degree of caution when travelling by road.
 
 Where major highways pass through a 'Reconsider your need to travel' or 'Do not travel' area, avoid detours off the major highway, never travel at night, and closely monitor local news and authorities for information on the highway conditions and incidents that may affect the route.
 
@@ -184,13 +176,13 @@ Get advice on current road closures from the Colombian Highway Information line.
 
 Do not cross between Panama and Colombia by land. It's impossible to drive between Colombia and Panama, as the Pan-American Highway has a break caused by a dense, mountainous jungle known as the Darién Gap. This area is dangerous, with a high risk of terrorism and violent crime. If you wish to take your vehicle to Panama, you must ship it from Cartagena to Colón, Panama.
 
-When hiring a vehicle, do not hand over your passport as a form of security. Provide a photocopy instead. If you have to have your original passport photocopied, keep it in your sight at all times.
+When hiring a vehicle, do not hand over your passport as a form of security. Provide a photocopy instead. If you must have your original passport photocopied, keep it in your sight at all times.
 
 Check that your insurance has proper coverage. Read the rental contract, including liabilities or waivers when vehicles are damaged.
 
 Always park vehicles in guarded parking lots, and do not leave valuables or bags visible inside the car.
 
-If you are involved in an accident, you can call #767 to get urgent assistance.
+If you're involved in an accident, call #767 to get urgent assistance.
 
 To reduce your risks while travelling by road:
 
@@ -221,7 +213,7 @@ Always wear a helmet.
 
 Criminals frequently rob taxi passengers. You're more at risk when travelling alone and hailing taxis from the street.
 
-Use a phone dispatch service or taxi service app to book a licensed taxi. Ask for help from staff at hotels, hostels, restaurants or entertainment venues. Be careful and pay attention to suspicious behaviour, even when taking transport booked via apps. If possible, avoid taking taxis or ride-shares by yourself.
+Use a phone or ride-share service app to book a licensed taxi. Ask for help from staff at hotels, hostels, restaurants or entertainment venues. Be careful and pay attention to suspicious behaviour, even when taking transport booked via apps. If possible, avoid taking taxis or ride-shares by yourself.
 
 El Dorado International Airport in Bogotá only allows authorised taxis to pick up passengers at their terminals. Authorised taxi booths can be found at El Dorado and most airports in Colombia. Consult the airport's website for more information.
 

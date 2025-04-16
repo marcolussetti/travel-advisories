@@ -2,33 +2,33 @@
 
 #### Crime
 
-The Colombian government has declared a state of emergency due to increased violence in the Catatumbo region, adjacent to the Venezuelan border in the department of Norte de Santander. There may be increased military presence and movement restrictions in the area.
+The Colombian government has declared a state of emergency due to increased violence in the Catatumbo region, adjacent to the Venezuelan border in the departments of Norte de Santander and Cesar. There may be increased military presence and movement restrictions in the area.
 
 #### Violent crime
 
 Violent crime and gang activity is common.
 
-'[Express kidnapping](https://www.smartraveller.gov.au/before-you-go/safety/kidnapping)' also occurs. Criminals abduct people and force them to withdraw funds from ATMs before releasing them. The victim may be held overnight so that a second withdrawal can be made the next day. There have been incidents where those who have resisted have been killed or injured. Hailing taxis on the street can make you vulnerable to this threat. Use a phone dispatch service or taxi service app to book a licensed taxi. Ask for help from staff at hotels, restaurants or entertainment venues.
+'[Express kidnapping](https://www.smartraveller.gov.au/before-you-go/safety/kidnapping)' also occurs. Criminals abduct people and force them to withdraw funds from ATMs before releasing them. The victim may be held overnight so that a second withdrawal can be made the next day. There have been incidents where those who have resisted have been killed or injured. Hailing taxis on the street can make you vulnerable to this threat. Use a phone dispatch service or ride-share service app to book a licensed taxi. Ask for help from staff at hotels, restaurants or entertainment venues.
 
 Hikers are sometimes robbed at gunpoint, including when hiking on trails in and around Bogotá. Reduce your risk by hiring a reputable, experienced tour guide.
 
 Always be alert to your own safety and security. If you suspect criminals have drugged you or your fellow travellers, get urgent medical help.
 
-Criminals also target foreigners and tourists using popular dating applications and websites, particularly in larger cities such as Bogotá, Cali, Medellín and Cartagena.
+Criminals target foreigners and tourists using popular dating applications and websites, particularly in larger cities such as Bogotá, Cali, Medellín and Cartagena.
 
 If you travel to remote areas, travel with recognised tour operators and arrange for security throughout your visit. Look for up-to-date advice from the local authorities before each stage of your journey. Be aware that mobile and internet connections in rural areas are often limited.
 
 The towns of Bahía Solano, Nuquí and Capurganá in Chocó are popular eco-tourism destinations. However, most of Chocó department is remote. Illegal armed groups are active and involved in the drug trade throughout the department, particularly near the border with Panama. If you travel to these towns, only do so by air and don't travel inland or along the coast out of town.
 
-If you travel to Ciudad Perdida (The Lost City) in the Sierra Nevada de Santa Marta, you should do this as part of an organised tour. If you travel to Parque Nacional Tayrona, don't venture inland. Stick to designated paths, beach areas and resorts.
+If you travel to Ciudad Perdida (The Lost City) in the Sierra Nevada de Santa Marta, arrange an organised tour. If you travel to Parque Nacional Tayrona, don't venture inland. Stick to designated paths, beach areas and resorts.
 
-The tourist site of Caño Cristales is located in the Department of Meta, in the Parque Nacional Natural de la Macarena. If you are travelling to Caño Cristales, only do so with a reputable tour company, and travel by air to and from the town of La Macarena.
+The tourist site of Caño Cristales is in the department of Meta, in the Parque Nacional Natural de la Macarena. If you're travelling to Caño Cristales, only do so with a reputable tour company, and travel by air to and from the town of La Macarena.
 
-If travelling in La Guajira, avoid the area close to the border with Venezuela. Be aware that medical services are limited. Hire the services of a reputable tour company. Be ready for high temperatures, scarce drinking water and food. Unsure you bring enough water and food.
+If travelling in La Guajira, avoid the area close to the border with Venezuela. Be aware that medical services are limited. Hire the services of a reputable tour company. Be ready for high temperatures, scarce drinking water and food. Ensure you bring enough water and food.
 
 When travelling to the archaeological park at San Agustin in the department of Huila, only enter and leave the park on the main road through Popayán or Neiva.
 
-Drug-related criminal activity also creates danger in places where cultivation, processing and transport occur. There is evidence of high levels of coca cultivation and related criminal activity in the following Departments in Colombia:
+Drug-related criminal activity creates danger in places where cultivation, processing and transport occur. There's evidence of high levels of coca cultivation and related criminal activity in the following departments in Colombia:
 
 * Arauca
 * Caquetá
@@ -47,7 +47,7 @@ It also creates increased danger in:
 * the port cities of Buenaventura, Turbo and Tumaco
 * the Darién Gap (Panamanian border)
 
-There is a risk to your safety in any area where coca, marijuana or opium poppies are cultivated and near cocaine processing labs. In these areas, criminal groups attack, extort, kidnap, detonate car bombs and damage infrastructure.
+There's a risk to your safety in any area where coca, marijuana or opium poppies are cultivated and near cocaine processing labs. In these areas, criminal groups attack, extort, kidnap, detonate car bombs and damage infrastructure.
 
 Don't take risks or make yourself a target for criminals. To protect yourself from violent crime:
 
@@ -60,27 +60,11 @@ Don't take risks or make yourself a target for criminals. To protect yourself fr
 * use ATMs inside banks, shopping centres or other public locations during business hours and avoid using ATMs on the street
 * avoid walking alone in isolated or deserted areas
 
-#### Movement restrictions for minors in Medellin
-
-Authorities in Medellin have imposed movement restrictions on unaccompanied minors (under the age of 18) in areas of the city where they're considered to be at higher risk of sexual exploitation. Minors aren't allowed to transit or stay in these areas between 7pm - 5am unless accompanied by a parent or legal guardian.
-
-The areas of Medellin subject to the restrictions are listed in decree [0082 2024](https://www.medellin.gov.co/es/wp-content/uploads/2024/01/Decreto-0082-de-2024.pdf) (Spanish) and include:
-
-* El Poblado (including Parque Lleras)
-* parts of Corredor vial de la 33
-* La Candelaria (including Plaza de Botero)
-* Parroquia de la Veracruz, and
-* parts of Corredor de la 70.
-
-If you're travelling with a minor in Medellin, ensure that they carry proper identification (e.g. a photocopy of their passport) and follow the instructions of local authorities.
-
-These restrictions will remain in place until 31 July.
-
 #### Incapacitating drugs
 
-Criminals in Colombia are increasingly using drugs to subdue their victims, including a growing number of foreign citizens. This may include using scopolamine or similar drugs that temporarily incapacitate the victim. Robberies and assaults occur after victims accept spiked food, drinks, cigarettes or chewing gum. Some victims have been killed. Criminals may also administer these drugs by aerosol spray or paper handouts. A large number of these incidents have involved the use of online dating apps to lure victims.
+Criminals in Colombia use drugs to subdue their victims, including foreign citizens. This includes using scopolamine or similar drugs to temporarily incapacitate the victim. Robberies and assaults occur after victims accept spiked food, drinks, cigarettes or chewing gum. Some victims have been killed. Criminals may also administer these drugs by aerosol spray or paper handouts. Many of these incidents have involved the use of online dating apps to lure victims.
 
-These drugs can cause serious medical problems, including loss of consciousness and memory loss. Unsuspecting victims become disoriented quickly and are vulnerable to robbery, sexual assault and other crimes. Hotspots include nightclubs, bars, restaurants, public buses and city streets, where criminals usually target people who are alone. Exercise caution when being approached by a stranger and avoid meetings arranged to take place in isolated locations.
+These drugs can cause serious medical problems, including loss of consciousness and memory loss. Unsuspecting victims become disoriented quickly and are vulnerable to robbery, sexual assault and other crimes. Hotspots include nightclubs, bars, restaurants, public buses and city streets, where criminals usually target people who are alone. Exercise caution when being approached by a stranger and avoid meetings in isolated locations.
 
 Drink spiking can happen anywhere. Be alert to the potential risks, and don't leave food or drinks unattended. Pay attention when your drinks are being mixed. Stick to reputable venues and avoid homemade alcoholic drinks due to the risk of methanol poisoning. Get urgent medical help if you suspect you’ve been a victim.
 
@@ -90,17 +74,17 @@ Drink spiking can happen anywhere. Be alert to the potential risks, and don't le
 
 #### Petty crime
 
-Petty crime, such as pickpocketing and bag snatching, is also common, particularly in larger cities such as Bogota, Cali, Medellin and Cartagena. This includes in major tourist areas, near hotels and at the airport in Bogotá. Don't carry large amounts of money or wear valuable watches or jewellery. Avoid using your mobile phone, cameras and other electronic equipment in the street. Avoid deprived areas of the cities. Tourists have been robbed at gunpoint.
+Petty crime, such as pickpocketing and bag snatching, is common, particularly in larger cities such as Bogotá , Cali, Medellín and Cartagena. This includes in major tourist areas, near hotels and at the airport in Bogotá. Don't carry large amounts of money or wear valuable watches or jewellery. Avoid using your mobile phone, cameras and other electronic equipment in the street. Avoid disadvantaged areas of the cities. Tourists have been robbed at gunpoint.
 
 Organised criminals operate in urban areas, including Bogotá and Medellín.
 
 Criminals pose as police officers in Bogotá and popular tourist towns to conduct scams (asking to verify documents or foreign currency). People have reported harassment, theft and extortion. If approached, ask to be escorted to the nearest CAI ('Centro de Atención Inmediata') – the local police station.
 
-Ensure that your personal belongings, including your passport and other travel documents, are secure at all times. Always keep photocopies of these documents with you, as local authorities often conduct identity checks.
+Ensure your personal belongings, including your passport and other travel documents, are always secure. Keep photocopies with you, as local authorities often conduct identity checks.
 
 Be alert on public transport. Don't leave your luggage unattended, in overhead bins or under the seat on buses, as they could be stolen while you're not watching or asleep.
 
-Card overcharging is common. Be careful in popular tourist areas, where scammers target tourists by charging them elevated prices for services, food and drink. Ask for a printed price list before ordering, and check for any unauthorised transactions on your account statements. Pay careful attention when your cards are being handled by others and cover the keypad with one hand when entering your PIN.
+Card overcharging is common. Be careful in popular tourist areas, scammers target tourists by charging them elevated prices for services, food and drink. Ask for a printed price list before ordering and check for any unauthorised transactions on your account statements. Pay careful attention when your cards are being handled by others and cover the keypad with one hand when entering your PIN.
 
 Smash-and-grab attacks are common. Thieves snatch items from cars stopped at traffic lights. Keep vehicle doors locked, windows up and valuables out of sight, even when moving. Be alert to threats, including when stopped in traffic.
 
@@ -122,14 +106,14 @@ If you decide to take part in ayahuasca tourism:
 
 * research potential ayahuasca tour operators before signing up
 * avoid participating in ayahuasca rituals without a trusted friend present
-* check if any existing medical condition may be aggravated by the use of ayahuasca
+* check if any existing medical condition may be aggravated using ayahuasca
 * check if your travel insurance covers health effects due to this type of experience
 
 #### Cyber security
 
 You may be at risk of cyber-based threats during overseas travel to any country. Digital identity theft is a growing concern. Your devices and personal data can be compromised, especially if you're connecting to Wi-Fi, using or connecting to shared or public computers, or to Bluetooth.
 
-Social media can also be risky in destinations where there are social or political tensions, or laws that may seem unreasonable by Australian standards. Travellers have been arrested for things they have said on social media. Don't comment on local or political events on your social media.
+Social media can be risky in destinations where there are social or political tensions, or laws that may seem unreasonable by Australian standards. Travellers have been arrested for things they have said on social media. Don't comment on local or political events on your social media.
 
 **More information:**
 
@@ -152,13 +136,13 @@ Possible targets include:
 
 The most well-known terrorist groups, the dissident groups of the former Revolutionary Armed Forces of Colombia (FARC) and the Ejército de Liberación Nacional (ELN) guerrillas:
 
-* mainly target Colombian government and economic infrastructure
+* mainly target Colombian Government and economic infrastructure
 * sometimes target foreign companies and employees
 * use terrorist-style tactics to conduct small-scale attacks
 
 The FARC handed in their weapons in June 2017 as part of a peace agreement with the government. However, dissident groups continue to operate.
 
-The Colombian government has announced an attempt to reach peace agreements and cease-fires with various armed groups. There has been an increase in terrorist attacks by the ELN and the Clan del Golfo. The ELN has organised attacks against government and economic targets and announced a number of national 'armed strikes'.
+The Colombian Government has announced an attempt to reach peace agreements and cease-fires with various armed groups. There has been an increase in terrorist attacks by the ELN and the Clan del Golfo. The ELN has organised attacks against government and economic targets and announced a number of national 'armed strikes'.
 
 Cartels also operate, the most well-known being the Clan del Golfo.
 
@@ -166,12 +150,13 @@ These groups can cause the security situation to deteriorate rapidly in some reg
 
 Some recent attacks include:
 
-* May 2022 – the Clan del Golfo cartel paralysed parts of northern Colombia for 4 days during an 'armed strike'. People died.
-* March 2022 – a bomb exploded outside a police station in Bogotá's Ciudad Bolivar district. People died.
+* March 2025 – a bomb exploded in Balboa, Cauca. At least five people were killed and 16 were hurt.
+* February 2025 – at least five attacks with explosives in Norte de Santander, including Cúcuta. These included a car bomb exploding in a highway toll booth and a police station. At least five people were hurt.
+* February 2025 – 28 police and 1 army officer were kidnapped in El Plateado, Cauca by FARC dissidents.
 
 Terrorists, criminals and armed gangs operate in small towns and rural areas, which can be dangerous for travellers. Armed gangs are called 'BACRIM' in Spanish.
 
-There is a risk of antipersonnel landmines left by terrorist and criminal groups in rural areas. These may be found in unmarked areas, including near main roads in rural areas and villages. Avoid remote rural areas and use designated roads.
+There's a risk of antipersonnel landmines left by terrorist and criminal groups in rural areas. These may be found in unmarked areas, including near main roads in rural areas and villages. Avoid remote rural areas and use designated roads.
 
 Violence due to the BACRIM has spilled over into major cities. These groups are involved in drugs, extortion, kidnapping and robbery.
 
@@ -196,24 +181,41 @@ Kidnapping occurs across the world with political, ideological, and criminal mot
 
 Kidnapping occurs in Colombia. Criminals sometimes kidnap and murder foreigners. Most kidnappings are for ransom. Groups such as the FARC dissident groups and the ELN in rural areas are involved in kidnapping. Express kidnapping is also a problem in major urban areas, and virtual kidnappings have been reported.
 
-If, despite our advice, you travel to an area with a high risk of kidnapping, our ability to provide consular assistance in these destinations will be limited.
+If, despite our advice, you travel to an area with a high risk of kidnapping, our ability to provide consular assistance will be limited.
 
-To reduce the risk of kidnapping:
+You are responsible for your own safety. To reduce the risk of kidnapping:
 
-* always be alert to your personal security and surroundings
-* get professional security advice for travel in locations with a heightened kidnap risk
+* always be alert to your personal security and surroundings - avoid distractions. Be prepared to stop or take evasive action if you sense danger
+
+* get professional security advice for travel in locations with a heightened kidnap risk. It is essential to have a contingency plan
+
 * check your accommodation has appropriate security measures
-* avoid isolated locations, particularly when travelling alone
-* notify family or friends of planned travel and share your location
-* avoid talking about your money or business affairs
-* use ATMs in public places and during daylight hours
-* avoid giving personal details to strangers online or over the phone
 
-The Australian Government's longstanding policy is that it doesn't make payments or concessions to kidnappers. Ransom payments to kidnappers have funded further terrorist attacks and criminal activity. Paying a ransom to terrorist groups will likely break Australian counter-terrorism financing laws.
+* vary your movements so you don't set predictable patterns
+
+* keep a low profile – including online. Drawing attention to yourself in high-risk areas may signal to criminals that you have something worth taking
+
+* avoid isolated locations, particularly when travelling alone. There is safety in numbers, and you should try to travel with someone else, especially at night
+
+* notify family or friends of planned travel; share your location and emergency contacts that they can rely on if something happens
+
+* avoid talking about your money or business affairs
+
+* use ATMs in public places and during daylight hours
+
+* avoid giving personal details to strangers online or over the phone. Criminals have been known to search social media for victims
+
+* If you are confronted by armed criminals, it is best to surrender and cooperate – resistance tends to make the situation worse
+
+You can find more information on how to reduce your risk of kidnapping here: [Kidnapping](https://www.smartraveller.gov.au/before-you-go/safety/kidnapping).
+
+The Australian Government's longstanding policy is that it doesn't make payments or concessions to kidnappers. Ransom payments to kidnappers have funded further terrorist attacks and criminal activity. Ransom payments to terrorist groups are likely to contravene Australian counter-terrorism financing laws.
 
 **More information:**
 
 * [Kidnapping](/before-you-go/safety/kidnapping "Reducing the risk of kidnapping")
+* [Scams that affect travellers](https://www.smartraveller.gov.au/before-you-go/safety/scams)
+* [Reducing the risk of piracy](https://www.smartraveller.gov.au/before-you-go/safety/piracy)
 
 #### Civil unrest and political tension
 
@@ -240,7 +242,7 @@ To protect yourself during periods of unrest:
 
 #### Border with Venezuela
 
-Don't attempt to cross the Venezuela-Colombia border by land, even if it's open. Avoid travelling within 20 km of the Venezuelan border.
+Don't attempt to cross the Venezuela-Colombia border by land, even if it's open. Avoid travelling within 20 km of the Venezuelan border and the city of Cucuta.
 
 #### Climate and natural disasters
 
@@ -258,7 +260,7 @@ High temperatures may cause bushfires across Colombia. Bushfires can move rapidl
 
 Volcanoes may be active. Get advice on recent volcanic activity from local authorities if you plan to go hiking. Check the updated [bulletins on volcanic activity](https://www2.sgc.gov.co/Noticias/boletinesDocumentos/Forms/AllItems.aspx) (Spanish).
 
-There is a risk of earthquakes, especially in the Andean region. Updated information on earthquake activity can be found on the [Colombia’s Geological Services](https://www.sgc.gov.co/sismos) website.
+There's a risk of earthquakes, especially in the Andean region. Updated information on earthquake activity can be found on the [Colombia’s Geological Services](https://www.sgc.gov.co/sismos) website.
 
 Colombia can experience tsunamis. Large and destructive tsunamis happen more often in the Pacific Ocean due to large earthquakes along major tectonic plates and ocean trenches.​
 

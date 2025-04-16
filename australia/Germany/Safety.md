@@ -13,7 +13,7 @@ Recent attacks include knife and vehicle attacks in city centres and on trains:Â
 * 2 people were killed and several others injured in a vehicle attack in Mannheim on 3 March
 * 2 people were killed and dozens were injured in a vehicle attack in Munich on 13 February
 * 5 people were killed and many more injured following a vehicle driven into a crowd at Christmas markets in Magdeburg in December 2024
-* 3 people were killed and several others were injured following a mass stabbing in Solingen in August 2024
+* 3 people were killed and several others were injured following a mass stabbing in Solingen in August 2024.
 
 Terrorists may plan more attacks that could happen anywhere at any time.
 
@@ -28,6 +28,8 @@ Recent attacks in European cities have targeted:
 * schools
 * festivals
 * other major events that attract large crowds
+
+European security services have also stopped some planned attacks.
 
 [Christmas](/before-you-go/major-events "Going overseas for a major event")Â markets and New Year's celebrations are also potential targets for attacks.
 

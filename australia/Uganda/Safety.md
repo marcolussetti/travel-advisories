@@ -45,9 +45,9 @@ Kidnapping occurs across the world with political, ideological, and criminal mot
   
 There’s a risk of kidnapping in Uganda, including in the capital Kampala. Kidnappings are usually criminally motivated and target the local population. The risk of kidnapping is higher in the border regions with DRC and South Sudan.
 
-If despite our advice, you travel to an area with a high risk of kidnapping our ability to provide consular assistance in these destinations is limited.   
+If despite our advice, you travel to an area with a high risk of kidnapping, be aware that our ability to provide consular assistance in these destinations is limited.   
   
-You are responsible for your own safety. To reduce the risk of kidnapping:
+You are responsible for your own safety. To reduce the risk of being kidnapped:
 
 * always be alert to your personal security and surroundings - avoid distractions. Be prepared to stop or take evasive action if you sense danger
 * get professional security advice for travel in locations with a heightened kidnap risk. It is essential to have a contingency plan
@@ -61,7 +61,7 @@ You are responsible for your own safety. To reduce the risk of kidnapping:
 * avoid giving personal details to strangers online or over the phone. Criminals have been known to search social media for victims
 * If you are confronted by armed criminals, it is best to surrender and cooperate – resistance tends to make the situation worse
 
-You can find more information on how to reduce your risk of kidnapping here: [Kidnapping](https://www.smartraveller.gov.au/before-you-go/safety/kidnapping).
+More information on how to reduce your risk of being kidnapped: [Kidnapping](https://www.smartraveller.gov.au/before-you-go/safety/kidnapping).
 
 The Australian Government's longstanding policy is that it doesn't make payments or concessions to kidnappers. Ransom payments to kidnappers have funded further terrorist attacks and criminal activity. Ransom payments to terrorist groups are likely to contravene Australian counter-terrorism financing laws.   
   
@@ -147,7 +147,7 @@ To protect yourself from crime:
 * never leave your bags unsupervised at a ticket office or a registration desk
 * don’t carry large sums of money if you can avoid it.
 
-#### **Scams**
+#### Scams
 
 Financial [scams](/before-you-go/safety/scams "Scams that affect travellers") exist in Uganda.
 

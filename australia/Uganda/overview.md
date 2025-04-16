@@ -2,7 +2,7 @@
 
 Latest update
 
-We've reviewed our advice and continue to advise exercise a high degree of caution in Uganda overall. Higher levels apply to the border areas with South Sudan and the Democratic Republic of Congo. Terrorist attacks have caused deaths and serious injuries. Targets may include large gatherings, worship, music and cultural festivals, hotels, bars and other tourist areas (see 'Safety'). There are currently outbreaks of Ebola virus disease and mpox in parts of Africa, including in Uganda.
+We continue to advise exercise a high degree of caution in Uganda overall. Higher levels apply to the border areas with South Sudan and the Democratic Republic of Congo. Terrorist attacks have caused deaths and serious injuries. Targets may include large gatherings, worship, music and cultural festivals, hotels, bars and other tourist areas (see 'Safety'). There are currently outbreaks of Ebola virus disease and mpox in parts of Africa, including in Uganda.
 
 Advice Level summary
 

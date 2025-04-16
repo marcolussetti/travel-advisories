@@ -2,27 +2,27 @@
 
 Latest update
 
-We've reviewed our travel advice for Germany and continue to advise exercise a high degree of caution due to the threat of terrorism. Attacks can occur at any time. There have been multiple attacks using vehicles or knives in the last year. Be alert in public places and report suspicious activity to the police (see 'Safety'). There are temporary border checks at all German land borders until 15 September.
+We've reviewed our travel advice for Germany and advise exercise normal safety precautions. There's an ongoing threat of terrorism in Germany. Terrorist attacks could occur anywhere and at any time. There have been multiple attacks using vehicles or knives in the last year. Be alert in public places and report suspicious activity to the police (see 'Safety'). There are temporary border checks at all German land borders until 15 September (see 'Travel').
 
 Advice Level summary
 
 We advise:
 
-Exercise a high degree of caution in Germany due to the threat of terrorism.
+Exercise normal safety precautions in Germany.
 
 ## Advice levels
 
 [What does this mean?](/before-you-go/travel-advice-explained/)
 
-[Exercise a high degree of caution](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level2) in Germany.
+[Exercise normal safety precautions](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level1) in Germany.
 
-[Exercise a high degree of caution](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level2) in Germany due to the threat of terrorism.
+[Exercise normal safety precautions](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level1) in Germany.
 
 ## Overview
 
 ### Safety
 
-* Terrorism is a threat worldwide. Terrorists have staged attacks and threatened more. They may target transport hubs and places foreigners visit, including Christmas markets. Attacks can occur at any time. There have been multiple attacks using vehicles or knives in the last year. Be alert in public places and report suspicious activity to the police.
+* There's an ongoing threat of terrorism in Germany. Terrorists have staged attacks and threatened more. They may target transport hubs and places foreigners visit, including Christmas markets. Attacks could occur anywhere at any time. There have been multiple attacks using vehicles or knives in the last year. Be alert in public places and report suspicious activity to the police. Take official warnings seriously and follow the advice of local authorities.
 * Violent crime isn't common, but it does happen. Petty crime occurs occasionally, such as pickpocketing and theft from cars and trains. Take care of your belongings.
 * Racial harassment occurs. Take care in cities, particularly in the former East Germany.
 * [Drink spiking](/before-you-go/safety/partying "Partying safely") can happen anywhere. Be alert to the potential risks, and don't leave food or drinks unattended.

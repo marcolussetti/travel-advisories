@@ -26,6 +26,15 @@ If you're convicted of a drug offence, you'll face a long jail sentence and heav
 
 * [Carrying or using drugs](/consular-services/consular-services-charter "Consular Services Charter")
 
+#### Commercial surrogacy
+
+Get legal advice in Australia and Uganda before going to Uganda for commercial surrogacy arrangements.
+
+**More information:**
+
+* [Going overseas for international surrogacy](https://www.smartraveller.gov.au/before-you-go/activities/surrogacy)
+* [Going overseas to adopt](https://www.smartraveller.gov.au/before-you-go/activities/adoption)
+
 #### Other laws
 
 Treason and murder carry the death penalty.

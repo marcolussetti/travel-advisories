@@ -76,7 +76,7 @@ You can change Australian dollars for HKD at local currency exchanges and banks.
 
 Credit cards are widely accepted.
 
-Take care when using ATMs, as petty crime occurs. See [Safety](#safety)
+Take care when using ATMs, as petty crime occurs (See '[Safety').](#safety)
 
 **More information:**
 

@@ -8,6 +8,7 @@ Avoid areas where demonstrations and protests are occurring due to the ongoing p
 
 * Monitor the media for information and updates.
 * Follow the instructions of local authorities and abide by any movement restrictions or curfews.
+* Participating in a protest or demonstration (including online) can be considered a breach of status and grounds for deportation or denial of a visa and/or immigration requests.
 
 **More information:**
 
