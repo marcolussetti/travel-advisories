@@ -4,10 +4,46 @@
     "risk_level_number": 1,
     "pages": [
         {
+            "title": "Quick Facts",
+            "file": "unitedstates/Czechia/Quick Facts.md"
+        },
+        {
+            "title": "Embassies and Consulates",
+            "file": "unitedstates/Czechia/Embassies and Consulates.md"
+        },
+        {
+            "title": "Destination Description",
+            "file": "unitedstates/Czechia/Destination Description.md"
+        },
+        {
+            "title": "Entry, Exit and Visa Requirements",
+            "file": "unitedstates/Czechia/Entry, Exit and Visa Requirements.md"
+        },
+        {
+            "title": "Safety and Security",
+            "file": "unitedstates/Czechia/Safety and Security.md"
+        },
+        {
+            "title": "Local Laws & Special Circumstances",
+            "file": "unitedstates/Czechia/Local Laws & Special Circumstances.md"
+        },
+        {
+            "title": "Health",
+            "file": "unitedstates/Czechia/Health.md"
+        },
+        {
+            "title": "Travel and Transportation",
+            "file": "unitedstates/Czechia/Travel and Transportation.md"
+        },
+        {
+            "title": "Fact Sheet",
+            "file": "unitedstates/Czechia/Fact Sheet.md"
+        },
+        {
             "title": "Advisory",
             "file": "unitedstates/Czechia/Advisory.md"
         }
     ],
     "update_date_advisory": "2023-07-26T00:00:00",
-    "update_date_details": null
+    "update_date_details": "2023-07-26T00:00:00"
 }

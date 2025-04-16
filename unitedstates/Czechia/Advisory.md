@@ -60,9 +60,9 @@ Website
 
 [https://cz.usembassy.gov/embassy/prague/](https://cz.usembassy.gov/embassy/prague/ "Embassy website address of U.S. Embassy in Prague: https://cz.usembassy.gov/embassy/prague/")
 
-### Czech Republic Map
+### Czechia Map
 
-[View Larger Map](https://travelmaps.state.gov/TSGMap/?extent=8.374744773,47.391095262,21.672925534,51.903521652 "Map of Czech Republic")
+[View Larger Map](https://travelmaps.state.gov/TSGMap/?extent=8.374744773,47.391095262,21.672925534,51.903521652 "Map of Czechia")
 
 
 
