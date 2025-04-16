@@ -1,11 +1,11 @@
 {
     "name": "Peru",
-    "update_reason": "Information on border closure due to Ecuadorean elections",
+    "update_reason": "Removal of information on border closure due to Ecuadorean elections('Warnings and insurance' and 'Entry requirements' pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Peru/Warnings and insurance.md",
-            "update_date": "2025-04-11T22:51:50+01:00"
+            "update_date": "2025-04-15T13:22:08+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Peru/Getting help.md"
         }
     ],
-    "update_date": "2025-04-11T22:51:50+01:00"
+    "update_date": "2025-04-15T13:22:08+01:00"
 }

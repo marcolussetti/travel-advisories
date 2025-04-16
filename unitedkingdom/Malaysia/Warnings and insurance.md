@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   16 April 2025
 
 Updated:
-:   11 September 2024
+:   15 April 2025
 
 Latest update:
-:   This travel advice was reviewed for style and accuracy.
+:   Updated information on illegal drugs penalties ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/6565efa562180b000dce830a/FCDO__TA__025_-_Malaysia_Travel_Advice_Ed3__WEB_.jpg)
 

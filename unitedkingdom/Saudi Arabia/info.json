@@ -1,11 +1,11 @@
 {
     "name": "Saudi Arabia",
-    "update_reason": "Removal of information about Qatif region ('Regional risks' page).",
+    "update_reason": "Temporary entry restrictions from 13 April for entering Mecca (see 'Entry requirements' on 'Pilgrimage' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Saudi Arabia/Warnings and insurance.md",
-            "update_date": "2025-03-14T15:43:06+00:00"
+            "update_date": "2025-04-15T14:27:30+01:00"
         },
         {
             "title": "Entry requirements",
@@ -38,5 +38,5 @@
             "file": "unitedkingdom/Saudi Arabia/Getting help.md"
         }
     ],
-    "update_date": "2025-03-14T15:43:06+00:00"
+    "update_date": "2025-04-15T14:27:30+01:00"
 }

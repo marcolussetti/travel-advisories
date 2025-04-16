@@ -98,14 +98,22 @@ Get more advice when you arrive from your tour guide, hotel or business contacts
 
 ### Illegal drugs penalties
 
-There are severe penalties for all drug offences, including for amphetamine-type stimulants. If you are detained following a raid on a bar or nightclub, you could have to take a urine test to check for drug use.
+Possession, trafficking and manufacture of any illegal drugs are serious offences in Malaysia. This includes cannabis. British nationals have been caught carrying cannabis while transiting through Malaysia.
 
-Possessing drugs, even in very small quantities, carries severe penalties, including:
+The Malaysian authorities have a zero-tolerance policy to drug offences. Possessing drugs, even in very small quantities, carries severe penalties, including:
 
 * arrest and detention
 * a long jail sentence if charged and convicted
 * a possible whipping
 * a possible death sentence by hanging for drug trafficking
+
+Legal processes before court hearings can be long and expensive. It can take many months for a case to go to trial and time served ahead of that will not be included as part of the sentence.
+
+Criminal gangs in the UK and elsewhere are known to coerce people into carrying drugs across borders. Do not allow yourself to be persuaded.
+
+It is important to be aware of your rights if you are detained by the police. See our [guidance for those detained or imprisoned in Malaysia](https://www.gov.uk/government/publications/malaysia-prisoner-pack/information-pack-for-british-nationals-detained-or-imprisoned-in-malaysia).
+
+Police often raid venues known to be frequented by foreigners. You may have to take a urine or blood test if there is a reasonable suspicion you have used drugs. You will be arrested if the test is positive.
 
 ### LGBT+ travellers
 

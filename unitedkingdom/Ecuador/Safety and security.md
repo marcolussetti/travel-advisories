@@ -14,8 +14,6 @@ Terrorist attacks in Ecuador cannot be ruled out.
 
 ## Political situation
 
-Presidential elections will take place nationwide on 13 April. Expect heightened police and military presence nationwide and potential travel disruptions due to extra security checks.
-
 Exercise caution around large gatherings. Street demonstrations, protests and strikes are common and can occur without warning. While most are peaceful, they can turn violent. You should:
 
 * stay alert and monitor local media
@@ -147,14 +145,6 @@ You should:
 
 ### Swimming safety
 
-On 17 March, Ecuador declared an environmental emergency due to an oil spill near the Esmeraldas River. Due to health risks from possible exposure to hazardous chemicals, the following three beaches are closed until further notice:
-
-* Playa de las Palmas
-* Playa Camarones
-* Playa Las Piedras
-
-Other beaches may close in due course. Follow the advice of local authorities.
-
 There is a risk of drowning caused by strong, rapidly changing ocean currents. Beaches do not always have swimming safety warning flags. Seek local advice on tidal activity.
 
 See [water safety on holiday](https://www.rlss.org.uk/safety-on-holiday) from the Royal Life Saving Society.
@@ -202,7 +192,7 @@ To visit Chimborazo National Reserve, you must email [chimborazo@ambiente.gob.
 
 High mountaineering in Cotopaxi National Park is restricted. Since November 2023, tour operators, mountaineering clubs and individual visitors can go high mountaineering in Cotopaxi National Park. However, they must comply with mandatory national park rules and safety regulations.
 
-On the 15 March, the Cotopaxi National Park closed temporarily due to an avalanche which affected 30 climbers. The park is now open as normal, but you should be aware of an increased risk of avalanches during the rainy season.
+On 15 March, the Cotopaxi National Park closed temporarily due to an avalanche which affected 30 climbers. The park is now open as normal, but you should be aware of an increased risk of avalanches during the rainy season.
 
 For information, see the [Ecuadorean Ministry of Environment](https://twitter.com/ambiente_ec).
 

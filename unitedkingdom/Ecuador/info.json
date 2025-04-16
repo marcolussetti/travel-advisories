@@ -1,11 +1,11 @@
 {
     "name": "Ecuador",
-    "update_reason": "Due to Presidential elections on 13 April, all land borders will be closed to foreign nationals from Friday 11 April 16h00 until 14 April 23h59 inclusive ('Warnings and Insurance' and 'Entry Requirements' pages).",
+    "update_reason": "State of emergency renewed for 60 days due to internal disturbance and armed violence('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Ecuador/Warnings and insurance.md",
-            "update_date": "2025-04-11T22:46:09+01:00"
+            "update_date": "2025-04-15T13:09:41+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Ecuador/Getting help.md"
         }
     ],
-    "update_date": "2025-04-11T22:46:09+01:00"
+    "update_date": "2025-04-15T13:09:41+01:00"
 }

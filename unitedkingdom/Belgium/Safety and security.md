@@ -65,9 +65,9 @@ You can:
 
 ### Protecting yourself and your belongings
 
-Theft and pickpocketing is common in crowded areas. Take care of your baggage and passports and beware of any attempts to distract you.
+Theft and pickpocketing are common in crowded areas. Take care of your baggage and passports and beware of any attempts to distract you.
 
-Take extra care in major railway stations and on public transport, particularly late at night. Thieves, pickpockets and muggers operate in busy areas, and there have been cases of violent robbery. Be aware of your surroundings particularly:
+Take extra care in major railway stations and on public transport, particularly at night. Thieves, pickpockets and muggers operate in busy areas, and there have been cases of violent robbery. Be aware of your surroundings particularly:
 
 * at Brussels Gare du Midi/Zuidstation (Eurostar terminal) and Brussels Gare du Nord
 * on international trains, mainly Paris-Brussels and Amsterdam-Brussels
@@ -77,13 +77,15 @@ Never leave luggage unattended. Luggage has been stolen from the racks at the en
 
 Thieves, usually on motorbikes, can break a car window and snatch valuables from the front or back passenger seat when a vehicle is stationary at traffic lights. If you see anything suspicious, report it to [local police authorities](https://www.politie.be/5998/nl/contact).
 
+Additionally, be aware that drug use may be seen openly in train and metro stations across Brussels.
+
 ### Taxis
 
 Only use official, licensed taxis. Do not get into taxis that stop to offer rides.
 
 ### Organised crime
 
-There are regular incidents of violent crime among organised crime gangs involved in drug trafficking, particularly in Antwerp, Brussels and other large cities. Confrontations between rival gangs have led to violent incidents including stabbings, shootings and use of homemade explosives. The risk mostly affects those involved in drug crime, but there is always the risk of being in the wrong place at the wrong time. Remain vigilant if you suspect illegal activity. Follow the advice of local authorities.
+There are regular incidents of violent crime among organised crime gangs involved in drug trafficking, particularly in Brussels, Antwerp and other large cities. Confrontations between rival gangs have led to violent incidents including shootings, stabbings, and use of homemade explosives. The risk mostly affects those involved in drug crime, but there is always the risk of being in the wrong place at the wrong time. Remain vigilant if you suspect illegal activity. Follow the advice of local authorities.
 
 There have been reports of truck and van drivers being approached at parking lots or service stations by organised crime groups and asked to smuggle products to the UK (‘window tapping’). If you see anything suspicious, report it to [local police authorities.](https://www.politie.be/5998/nl/contact)
 

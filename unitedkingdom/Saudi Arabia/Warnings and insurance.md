@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   16 April 2025
 
 Updated:
-:   14 March 2025
+:   15 April 2025
 
 Latest update:
-:   Removal of information about Qatif region ('Regional risks' page).
+:   Temporary entry restrictions from 13 April for entering Mecca (see 'Entry requirements' on 'Pilgrimage' page).
 
 ![](https://assets.publishing.service.gov.uk/media/60057234d3bf7f33b6d83f89/FCDO_TA_034_-_Saudi_Arabia_Travel_Advice_Ed2_WEB__002_-.jpg)
 

@@ -1,16 +1,14 @@
 # Entry requirements
 
-Due to Presidential elections on 13 April, all land borders will be closed to foreign nationals from Friday 11 April 4pm until 14 April 11:59pm inclusive. Ecuadorean citizens and foreign nationals who are resident in Ecuador can enter Ecuador with valid ID. Expect heightened police and military presence nationwide, and potential travel disruptions due to extra security checks.
-
 This information is for people travelling on a full [‘British citizen’ passport](https://www.gov.uk/types-of-british-nationality) from the UK. It is based on the UK government’s understanding of Ecuador’s current rules for the most common types of travel.
 
 The authorities in Ecuador set and enforce entry rules. If you’re not sure how these requirements apply to you, contact the [Ecuadorean Embassy in the UK](https://www.gov.uk/government/publications/foreign-embassies-in-the-uk).
 
 ## Documents required to enter via land or river border
 
-If you wish to enter Ecuador via a land or river border from Peru or Colombia, you must present a criminal record certificate from the country where you lived for the last 5 years. The certificate must be legalised with the Hague Apostille and translated into Spanish if issued in another language. This mandatory requirement was announced on 11 January for implementation with immediate effect.
+If you wish to enter Ecuador via a land or river border from Peru or Colombia, you must present a criminal record certificate from the country where you lived for the last 5 years. The certificate must be legalised with the Hague Apostille and translated into Spanish if issued in another language. This mandatory requirement was announced on 11 January 2024 for implementation with immediate effect.
 
-Alternatively, if you do not have a legalised criminal record certificate, you can ask immigration authorities to carry out a check on their ’SIMIEC’ Ecuadorean Immigration System (which flags any travel prohibitions or INTERPOL alerts). The following people are exempt from the presentation of the criminal record certificate:
+Alternatively, if you do not have a legalised criminal record certificate, you can ask the Ecuadorean immigration authorities at the border to carry out a check on their ’SIMIEC’ Ecuadorean Immigration System (which flags any travel prohibitions or INTERPOL alerts). The following people are exempt from the presentation of the criminal record certificate:
 
 * Holders of a valid Ecuadorean visa
 * Holders of diplomatic passports

@@ -79,10 +79,6 @@ The sale of souvenirs made with wild animal parts, including condor feathers, is
 
 It is illegal to remove any archaeological artefacts from Peru without authorisation.
 
-## Peru-Ecuador Border
-
-Due to Presidential elections in Ecuador on 13 April, the Peru-Ecuador land border will be closed to foreign nationals from Friday 11 April 4pm to 14 April 11:59pm inclusive. Foreign nationals who are resident in Ecuador can enter Ecuador with valid ID. Expect heightened police and military presence at the Peru-Ecuador border area, and potential travel disruptions due to extra security checks.
-
 [Previous
 :
 Warnings and insurance](/foreign-travel-advice/peru)

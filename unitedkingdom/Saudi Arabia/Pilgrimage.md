@@ -10,6 +10,8 @@ You can apply for an e-visa or electronic visa waiver to perform Umrah outside o
 
 You can only book a Hajj place through the official [Nusuk Hajj platform](https://hajj.nusuk.sa/).
 
+Please note the Saudi authorities have implemented entry restrictions from 13 April for those entering Mecca. For more information see [The Holy Mosques on X](https://x.com/theholymosques/status/1911116879923466352?s=48&t=tYzvavh8NfQMOAkzjLNsyA).
+
 ### Health risks and vaccine requirements
 
 You must have a valid certificate of vaccination against the ACWY strains of meningitis 10 days before arriving for Hajj and Umrah. For more information on health risks and vaccination requirements, read the [TravelHealthPro Hajj and Umrah guide](http://travelhealthpro.org.uk/hajj-and-umrah).

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   12 April 2025
+:   16 April 2025
 
 Updated:
-:   11 April 2025
+:   15 April 2025
 
 Latest update:
-:   Information on border closure due to Ecuadorean elections (Warnings and insurance page) (Entry Requirements page)
+:   Removal of information on border closure due to Ecuadorean elections('Warnings and insurance' and 'Entry requirements' pages).
 
 ![](https://assets.publishing.service.gov.uk/media/67c05135b0bb6528ee866b96/FCDO_TA_054_-_Colombia_Travel_Advice_Ed3_WEB.jpg)
 
@@ -61,8 +61,6 @@ FCDO advises against all but essential travel to within 5km of the border with E
 FCDO advises against all but essential travel to Orito, San Miguel, Valle del Guamuez, Puerto Caicedo, Puerto Guzmán, Puerto Asis and Puerto Leguizamo in Putumayo Department.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/colombia/regional-risks).
-
-Due to Presidential elections in Ecuador on 13 April, the Colombia-Ecuador land border will be closed to foreign nationals from Friday 11 April 4pm to 14 April 11:59pm inclusive. Foreign nationals who are resident in Ecuador can enter Ecuador with valid ID. Expect heightened police and military presence at the Colombia-Ecuador border area, and potential travel disruptions due to extra security checks.
 
 ## Before you travel
 

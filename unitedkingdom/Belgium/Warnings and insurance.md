@@ -1,19 +1,19 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   16 April 2025
 
 Updated:
-:   17 March 2025
+:   15 April 2025
 
 Latest update:
-:   Update to information on expected rollout of the EU Entry/Exit System (EES) (‘Entry requirements’ page)
+:   New information on strike action ('Warnings and insurance' page).
 
 ## National strike action
 
 Unions plan to hold nationwide strikes on the 13th of every month until further notice.
 
- A general strike is planned for 31 March and may cause severe travel disruption across the entire country.
+ A general strike is planned for 29 April and may cause severe travel disruption across the entire country.
 
 Monitor local news and check with your travel provider regarding potential delays. Further strike information is available [here](https://www.gov.uk/foreign-travel-advice/belgium/safety-and-security).
 
