@@ -18,7 +18,7 @@ Penalties include imprisonment.
 
 **More information:**
 
-* [Carrying or using drugs](https://www.smartraveller.gov.au/before-you-go/laws/drugs)
+* [Carrying or using drugs](/before-you-go/laws/drugs "Carrying or using drugs")
 
 #### On-the-spot fines
 
@@ -57,13 +57,17 @@ Some Australian criminal laws still apply when you're overseas. If you break the
 
 Croatia recognises dual nationality and treats dual nationals as Croatian citizens.
 
-Military service for males is no longer compulsory. However, male Croatians, including dual nationals, must report to defence authorities to register their details. Failure to report is an offence.
+Croatia is considering re-introducing compulsory military service in 2025. Under existing arrangements, male Croatians, including dual nationals, must report to defence authorities to register their details when asked to do so. Failure to report is an offence.
 
-Seek advice from an [embassy or consulate of Croatia](https://protocol.dfat.gov.au/Public/Missions/51) on the specific registration requirements before you travel.
+Seek advice from an [embassy or consulate of Croatia](https://protocol.dfat.gov.au/Public/Missions/51) on the specific registration requirements before you travel.
+
+**More information:**
+
+* [Ministry of Defence](https://www.morh.hr/en/)
 
 If you're an Australian-Croatian dual national and intend to stay for over 3 months, you may need to provide evidence of your Croatian citizenship.
 
-Dual nationals are not automatically covered by the Croatian health insurance system (see 'Health').
+Dual nationals aren't automatically covered by the Croatian health insurance system (see 'Health').
 
 **More information**:
 

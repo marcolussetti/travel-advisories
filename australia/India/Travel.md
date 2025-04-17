@@ -11,7 +11,7 @@ For information and advice regarding Indian visas and immigration regulations wh
 
 If your visa has expired or you have overstayed your visa, make sure you regularise your immigration status with the [FRRO/FRO](https://indianfrro.gov.in/frro/) before you seek to travel. Immigration authorities may prevent you from leaving India on an expired visa.
 
-If you have had a baby in India, you need to register the baby with the FRRO and secure an appropriate travel document and Indian visa to remain legally in the country or travel.
+If you have had a baby born in India, you'll need to inform the [FRRO](https://indianfrro.gov.in/eservices/) about the child's birth and that you will be applying for an Australian citizenship and a passport for the child. Don't delay in securing appropriate travel documents and an Indian visa to remain legally in the country or to travel. Failure to inform the FRRO could result in a significant financial penalty.
 
 #### Electronic visas
 
@@ -54,6 +54,8 @@ If you have an e-Visa, you can leave India from any authorised immigration check
 Overseas Citizen of India (OCI) cards are multiple entry, multi-purpose lifelong visas to visit India. OCI holders are entitled to live and work in India.
 
 OCI holders who are issued with a new Australian passport must update their details on the [OCI portal](https://ociservices.gov.in/)
+
+Australian citizens holding Overseas Citizens of India (OCI) card must update their OCI every time they renew their Australian Passport. For information and advice on OCI related issue, see [OCI website](https://ociservices.gov.in/capchaActionMisc).
 
 **More information:**
 
@@ -222,7 +224,7 @@ If you plan to visit a protected or restricted area or to confirm if additional 
 You can drive without an Indian driver's licence for 3 months if you have both:
 
 * an International Driving Permit
-* your current Australian driver's licence
+* your current Australian driver's licence (digital driver's licences may not be accepted)
 
 Your licence must be valid for the type of vehicle you are driving.
 

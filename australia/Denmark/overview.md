@@ -2,32 +2,29 @@
 
 Latest update
 
-We've reviewed our advice for Denmark and continue to advise exercise a high degree of caution due to the threat of terrorism.
+We’ve reviewed our travel advice for Denmark and advise exercise normal safety precautions.   
+  
+Denmark's domestic terror threat level is set to 'significant' (level 4 of 5). Terrorist attacks could occur anywhere and at any time. Terrorists may target tourist areas and attractions or other places frequented by foreigners. Take official warnings seriously and follow the advice of local authorities (see 'Safety').
 
 Advice Level summary
 
-We now advise:
+We advise:
 
-Exercise a high degree of caution in Denmark due to the threat of terrorism.
+Exercise normal safety precautions in Denmark.
 
 ## Advice levels
 
 [What does this mean?](/before-you-go/travel-advice-explained/)
 
-Exercise a high degree of caution in Denmark.
+[Exercise normal safety precautions](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level1) in Denmark.
 
-[Exercise a high degree of caution](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level2) in Denmark due to the threat of terrorism.
-
-Exercise normal safety precautions in Greenland and the Faroe Islands.
-
-[Exercise normal safety precautions](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level1) in Greenland and the Faroe Islands.
+[Exercise normal safety precautions](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level1) in Denmark.
 
 ## Overview
 
 ### Safety
 
-* Denmark's terror [threat level is](https://pet.dk/en/terrorism-and-extremism) 'significant'.
-* There's a risk of terrorist attacks in Denmark. Terrorist attacks can occur at any time. Maintain high vigilance in public spaces and take official warnings seriously. Avoid crowds and be aware of your surroundings.
+* Denmark's domestic terror [threat level is](https://pet.dk/en/terrorism-and-extremism) set to 'significant'. Terrorist attacks could occur anywhere and at any time. Terrorists may target tourist areas and attractions or other places frequented by foreigners. Public transport is also a possible target. Take official warnings seriously and follow the advice of local authorities.
 * Pickpockets often target people in tourist areas. Take care of your belongings, especially on public transport, at national landmarks, museums, railway stations and restaurants.
 * Gang-related crime and civil unrest can happen in Copenhagen, especially in Nørrebro/Nordvest area and Christiania.
 

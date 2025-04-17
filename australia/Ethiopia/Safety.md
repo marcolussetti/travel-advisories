@@ -64,7 +64,7 @@ If there's an attack, leave the affected area immediately if it's safe to.
 
 Kidnapping occurs across the world with political, ideological, and criminal motives. Foreigners, including Australians, have been kidnapped while travelling overseas. Kidnapping can occur anywhere, anytime, including in destinations that are usually considered lower risk.
 
-Several active terrorist and militia groups have the intent and capability to kidnap foreigners. The threat of kidnapping is particularly high in some parts of Oromia and near the border areas with Kenya, Somalia and South Sudan.
+Several active terrorist and militia groups have the intent and capability to kidnap foreigners. The threat of kidnapping is particularly high in some parts of Amhara and Oromia Regional States, and near the border areas with Kenya, Somalia and South Sudan. Aid and humanitarian workers may be targeted
 
 If despite our advice you travel to an area with a high risk of kidnapping, you should be aware that our ability to provide consular assistance is limited.
 

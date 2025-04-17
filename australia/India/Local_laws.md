@@ -1,6 +1,6 @@
 # Local laws
 
-#### Local law
+#### Local laws
 
 You're subject to all local laws and penalties, including those that may appear harsh by Australian standards. Research local laws before travelling.
 
@@ -16,7 +16,9 @@ If you are charged with an offence or a complaint is made against you, a Look Ou
 
 #### Satellite phones and satellite enabled navigation devices
 
-It is illegal to carry or operate satellite phones or enabled devices in India without a licence. Australian citizens have been detained for carrying satellite phones and satellite-enabled navigational devices into the country without prior permission. This may occur even in the case of transits.
+Carrying or operating satellite phones and satellite-enabled GPS devices in India without a licence is illegal. This includes personal emergency beacons such as emergency position indicating radio beacons (EPIRBs) or personal locator beacons (PLBs) but does not cover regular smartphones or personal electronic devices with maps or location services. Australian citizens have been detained and charged with significant fines for carrying satellite phones and satellite-enabled GPS / navigational devices on entry, exit or during transit without prior permission from the Indian [Department of Telecommunications](https://dot.gov.in/). Contact the nearest [Indian embassy or consulate](https://protocol.dfat.gov.au/Public/Missions/91) for advice. 
+
+Carrying satellite phones and other satellite-enabled navigational devices into India is punishable by imprisonment for up to 3 years, a fine of up to INR20 million (around USD 233,000), or both. You could be arrested or detained, receive a large fine, have the device confiscated and face significant travel delays.
 
 #### Drugs and alcohol
 

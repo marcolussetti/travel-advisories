@@ -6,15 +6,15 @@
 
 #### Visas
 
-You'll need a valid visa or Nigerian residence permit to travel to or reside in Nigeria. Some business travellers may be eligible to apply for a visa on arrival. You can check visa conditions and apply and pay for a visa online through the [Nigeria Immigration Service](https://portal.immigration.gov.ng/pages/welcome) website. To complete the process, you'll need to provide your passport by mail or in person to the appropriate Nigerian diplomatic mission in your country.
+You'll need a valid visa or Nigerian residence permit to travel to or reside in Nigeria. You can check visa conditions and apply and pay for a visa online through the [Nigeria Immigration Service](https://portal.immigration.gov.ng/pages/welcome) website. To complete the process, you may need to provide your passport by mail or in person to the appropriate Nigerian diplomatic mission in your country.
 
 Significant penalties, including fines and detention, may apply for people who overstay their visa terms.
 
-Entry and exit conditions can change at short notice. Contact the[nearest embassy or consulate](https://protocol.dfat.gov.au/Public/Missions/148) for details about visas, customs and quarantine rules.
+Entry and exit conditions can change at short notice. Contact the[nearest embassy or consulate](https://protocol.dfat.gov.au/Public/Missions/148) of Nigeria for details about visas, customs and quarantine rules.
 
 #### Border measures
 
-Expect enhanced security and health screening measures at airports. You may also need to fill in a Health Declaration Form prior to arrival. Check the [Nigerian International Travel Portal](https://nitp.ncdc.gov.ng/) for the most up to date entry requirements.
+Expect enhanced security and health screening measures at airports. You may also need to fill in a [Health Declaration Form](https://healthapp.ncdc.gov.ng/) prior to arrival. 
 
 **More information:**
 
@@ -30,7 +30,7 @@ Find out about returning to Australia [after exposure to yellow fever](http://w
 
 **More information:**
 
-* [Countries with a risk of yellow fever](https://cdn.who.int/media/docs/default-source/travel-and-health/countries-with-risk-of-yellow-fever-transmission.pdf?sfvrsn=bf42ac59_4&download=true)
+* [Countries with a risk of yellow fever (PDF 253kB)](https://cdn.who.int/media/docs/default-source/travel-and-health/countries-with-risk-of-yellow-fever-transmission.pdf)
 
 #### Passport
 
@@ -67,7 +67,7 @@ Although Australian passports comply with international standards for sex and ge
 
 The local currency is the Nigeria Naira (NGN). 
 
-Nigeria is still largely a cash based economy. Cash shortages can occur occasionally.
+Nigeria is still largely a cash-based economy. Cash shortages have occurred in the past.
 
 You must declare amounts of currencies, negotiable instruments, or precious stones/metals in excess of US$10,000 or its equivalent brought into or out of Nigeria.
 
@@ -79,9 +79,9 @@ US dollars, British Pounds and Euros are easily exchangeable in Nigeria, and usu
 * banks
 * foreign exchange services.
 
-ATMs are widely available in major cities only. However, it’s hard to use non-Nigerian debit and credit cards outside of major hotels. Most transactions need to be conducted using local cards, bank transfers or cash.
+ATMs are widely available in major cities only. However, non-Nigerian debit and credit cards are rarely accepted outside of major hotels. Most transactions need to be conducted using local cards, bank transfers or cash.
 
-Fraud and skimming are high risks when using debit and credit cards with ATMs or EFTPOS machines.
+Fraud and skimming are high risks when using debit and credit cards with ATMs or EFTPOS machines. Pay careful attention when using these or when others are handling your cards. Report any unauthorised transactions to your bank immediately.
 
 #### Local travel
 
@@ -89,13 +89,13 @@ Travel services in Nigeria are not reliable. Not all travel providers accept cre
 
 #### Land borders
 
-Avoid travelling over land borders to Nigeria. Nigeria's land borders may open and close at short notice. Check if the specific border you propose to travel through is open at the time of travel. Most destinations bordering Nigeria also have a high travel advice level. If despite our advice you travel overland, read the travel advice of the [destination](/destinations) you're entering or exiting.
+Avoid travelling over land borders to and from Nigeria. Nigeria's land borders may open and close at short notice. Check with local authorities if the specific border you propose to travel through is open at the time of travel. Most destinations bordering Nigeria also have a high travel advice level. If despite our advice you travel overland, read the travel advice of the [destination](/destinations) you're entering or exiting.
 
 #### Driving permit
 
 International Driving Permits are recognised in Nigeria for up to three months, provided they are accompanied by a valid driver's licence.
 
-After this period you must obtain a local driver's licence.
+After this period, you must obtain a local driver's licence.
 
 #### Road travel
 
@@ -135,13 +135,13 @@ Rental cars may be available but should be avoided as their maintenance record a
 
 #### Motorcycles
 
-Motorbikes are banned in some cities – for example in Lagos. Check with your travel insurer if your policy covers you to ride a motorcycle.
+Motorbikes are banned in some cities – for example in Lagos. Check with your travel insurer if your policy includes coverage for riding a motorcycle.
 
 Always wear a helmet.
 
 #### Taxis and public transport
 
-We recommend using car hire services that include a driver, organised through a major hotel or reputable security provider. Don’t use local taxis and ride-sharing services, including motorcycle and tricycle (Tuk-Tuk style) taxis called ‘Okada’ and ‘Keke’ respectively, due to poor safety standards and risk of petty crime. Don't use public transport including bus and rail services, to travel within or between cities. 
+We recommend using car hire services that include a driver, organised through a major hotel or reputable security provider. Don’t use local taxis and ride-sharing services, including motorcycle and tricycle (Tuk-Tuk style) taxis called ‘Okada’ and ‘Keke’ respectively, due to poor safety standards and the risk of petty crime. Don't use public transport including bus and rail services, to travel within or between cities. 
 
 Public transport is often unsafe, due to:
 
@@ -164,7 +164,7 @@ At sea or on ships in port, you may encounter:
 
 Do not travel in the Gulf of Guinea or coastal areas around the Niger Delta. Criminals with speedboats and high-calibre weapons commonly target pleasure craft, cruise liners, oil tankers, container ships and other large vessels in these areas.
 
-The Nigerian Navy has limited capacity to respond to piracy. The International Maritime Bureau issues [piracy reports](http://www.icc-ccs.org/piracy-reporting-centre).
+The Nigerian Navy has limited capacity to respond to piracy incidents. The International Maritime Bureau issues [piracy reports](https://icc-ccs.org/imb/).
 
 Safety and reliability of some domestic and inter-country ferry services is a concern. Maintenance procedures and safety standards are not to Australian standards. If you travel on these services, insurance may not cover you.
 
@@ -172,7 +172,7 @@ Safety and reliability of some domestic and inter-country ferry services is a co
 
 Domestic and international flights are often overbooked, delayed or cancelled with little notice.
 
-Safety and reliability of some domestic airlines is a concern. Airlines may not have strict maintenance procedures and safety standards. If you travel on these airlines, insurance may not cover you.
+Safety and reliability of domestic airlines cannot be guaranteed. Airlines may not have strict maintenance procedures and safety standards. If you travel on certain airlines, you may not be covered by insurance. Check with your insurance provider before booking flights.
 
 DFAT doesn't provide information on the safety of individual commercial airlines or flight paths.
 

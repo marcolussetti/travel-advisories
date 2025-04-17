@@ -36,7 +36,7 @@ If you have immediate concerns for your welfare or the welfare of another Austra
 
 #### Medication
 
-Not all medication available over the counter or by prescription in Australia is available in other countries. Some may even be considered illegal or a controlled substance, even if prescribed by an Australian doctor.
+Not all medications available over the counter or by prescription in Australia are available in other countries. Some may even be considered illegal or a controlled substance, even if prescribed by an Australian doctor.
 
 There are limits on the types and amount of some medications you can take into Croatia. Standard medication can be imported in quantities needed for personal use for up to one month.
 
@@ -87,8 +87,6 @@ To reduce the risk of mouse fever:
 
 #### Medical care
 
-#### Medical facilities
-
 The standard of health care on the mainland is generally good, but services on the islands are limited.
 
 Public hospital facilities may not be to the same standard as Australian hospitals.
@@ -97,6 +95,6 @@ Private hospitals and clinics have facilities for some services but often cost m
 
 Dubrovnik, Split, Rijeka and Pula have decompression chambers.
 
-If you're injured or become seriously ill on an island or remote area, you'll be evacuated to a regional centre for treatment. Medical evacuation can be very expensive.
+You'll be evacuated to a regional centre for treatment if you're injured or become seriously ill on an island or remote area. Medical evacuation can be very expensive.
 
 Dual nationals are not automatically covered by the Croatian health insurance system or entitled to free access to health services through the Croatian Healthcare fund. Prior registration and monthly contributions/payments are required to gain access and coverage.

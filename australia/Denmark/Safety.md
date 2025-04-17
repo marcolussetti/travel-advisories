@@ -2,9 +2,9 @@
 
 #### Terrorism
 
-Terrorist attacks can occur at any time. In July 2022, a gunman at Field's Shopping Mall in Copenhagen killed 3 people and injured 7.
+Denmark's domestic [terror threat level](https://pet.dk/en/terrorism-and-extremism) is set to 'significant' (level 4 of 5).
 
-Denmark's [terror threat level](https://pet.dk/en/terrorism-and-extremism) is set to 'significant' (level 4 of 5).
+Terrorist attacks can occur at any time. In July 2022, a gunman at Field's Shopping Mall in Copenhagen killed 3 people and injured 7.
 
 The Danish Government has security measures in place, including at airports and major train stations.
 
@@ -21,7 +21,9 @@ Terrorists have staged attacks in several European cities. Targets have included
 * sporting venues
 * places of mass gathering, including those popular with travellers
 
-To reduce your risks:
+European security services have also stopped some planned attacks.
+
+To protect yourself from terrorism:
 
 * be alert to possible threats, especially in public places
 * report any suspicious activity or items to the police

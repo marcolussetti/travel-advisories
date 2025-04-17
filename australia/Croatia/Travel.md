@@ -12,7 +12,7 @@ Entry and exit conditions can change at short notice. Contact the nearest [emba
 
 #### Border with Slovenia
 
-Temporary border checks have been introduced at Croatia's borders with Slovenia. You should allow extra time for crossing the land border between Croatia and Slovenia and be ready to show your passport or residency card if asked by the border police. Checks may also involve vehicle inspections. Border checks between Croatia and Bosnia and Herzegovina, Montenegro and Serbia remain in place.
+Temporary border checks have been introduced at Croatia's borders with Slovenia. You should allow extra time to cross the border between Croatia and Slovenia and be ready to show your passport or residency card if asked by the border police. Checks may also involve vehicle inspections. Border checks between Croatia and Bosnia and Herzegovina, Montenegro and Serbia remain in place.
 
 You can enter Croatia without a visa in some cases. In other situations, you'll need to get a visa.
 
@@ -57,17 +57,15 @@ Although Australian passports comply with international standards for sex and ge
 
 **More information:**
 
-* [LGBTQIA+ travellers](https://www.smartraveller.gov.au/before-you-go/who-you-are/LGBTI)
+* [LGBTQIA+ travellers](/before-you-go/who-you-are/LGBTQIA "Advice for LGBTQIA+ travellers")
 
 #### Money
 
-The currency of Croatia is the euro (EUR).
-
-Prior to 1 January 2023, the currency was the Croatian Kuna (HRK). You can find information on the transition arrangements on [European Central Bank website.](https://www.ecb.europa.eu/euro/changeover/croatia/html/index.en.html)
+Croatia's currency is the euro (EUR).
 
 If you're travelling to or from any non-EU country, declare cash of more than 10,000 euros or equivalent. This covers all forms of currency, not only cash.
 
-If you fail to declare it or give wrong information, you'll be fined.
+If you fail to declare it or give wrong information, you'll be fined and the funds may be confiscated.
 
 You don't need to declare currency if you're travelling to or from another EU country.
 

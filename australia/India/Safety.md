@@ -141,6 +141,8 @@ The Australian Government's longstanding policy is that it doesn't make payments
 **More information:**
 
 * [Kidnapping](https://www.smartraveller.gov.au/before-you-go/safety/kidnapping)
+* [Scams that affect travellers](https://www.smartraveller.gov.au/before-you-go/safety/scams)
+* [Reducing the risk of piracy](https://www.smartraveller.gov.au/before-you-go/safety/piracy)
 
 #### Civil unrest and political tension
 
@@ -298,20 +300,13 @@ Drink spiking incidents have occurred:
 * on public transport
 * in hotels, restaurants and bars
 
-Drink spiking is rare at:
-
-* business-class hotels
-* upscale bars and restaurants
-
-The risk of drink spiking is higher in smaller establishments.
-
 To protect yourself from drink spiking:
 
 * don't accept drinks from strangers
 * don't leave drinks unattended
 * if you're not certain your drink is safe, don't drink it
 
-Be alert to the potential risks around drink spiking and methanol poisoning through consuming alcoholic drinks.  See our advice on [partying safely while overseas](https://www.smartraveller.gov.au/before-you-go/safety/partying#methanol).
+Be alert to the potential risks around drink spiking and methanol poisoning through consuming alcoholic drinks. See our advice on [partying safely while overseas](https://www.smartraveller.gov.au/before-you-go/safety/partying#methanol).
 
 Get urgent medical attention if you think you or someone else has been drugged.
 

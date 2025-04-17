@@ -36,7 +36,7 @@ Visitors may be asked to show proof of onward travel on entry to Bolivia (a plan
 
 #### Yellow fever vaccination
 
-You'll need a valid yellow fever vaccination certificate to enter Bolivia. Some airlines may want to see one when you leave.
+You may be asked to show proof of your yellow fever vaccination at some ports of entry in Bolivia, and some airlines may want to see it when you leave.
 
 Find out about returning to Australia [after exposure to yellow fever](http://www.health.gov.au/yellowfever).
 
@@ -52,46 +52,9 @@ Unless travelling with both parents, dual nationals under the age of 18 years mu
 
 #### Accommodation registration
 
-You must register your home or hotel address online with the [Bolivian migration authorities](https://sistemas.migracion.gob.bo/sigemig/#/seguridad/login). If you have not completed the electronic registration prior to arriving in Bolivia, immigration inspectors at the port of entry may register you and give you further instructions. If you don't register, you can receive a fine when you depart from the country. Consult your accommodation provider for more information.
+Immigration inspectors at the port of entry may request your accommodation details to keep a register.
 
 #### Passport
-
-#### Passport
-
-You need to have at least 6 months validity remaining in your passport to enter Bolivia.
-
-Emergency travel documents can be used to enter, transit, or depart Bolivia, as long as it has at least 6 months validity when entering Bolivia.
-
-#### Validity
-
-Some countries won't let you enter unless your passport is valid for 6 months after you plan to leave that country. This can apply even if you're just transiting or stopping over.
-
-Some foreign governments and airlines apply the rule inconsistently. Travellers can receive conflicting advice from different sources.
-
-You can end up stranded if your passport is not valid for more than 6 months.
-
-The Australian Government does not set these rules. Check your passport's expiry date before you travel. If you're not sure it'll be valid for long enough, consider getting [a new passport](/node/44).
-
-#### Lost or stolen passport
-
-Your passport is a valuable document. It's attractive to people who may try to use your identity to commit crimes.
-
-Some people may try to trick you into giving them your passport. Always keep it in a safe place.
-
-If your passport is lost or stolen, tell the Australian Government as soon as possible:
-
-* In Australia, contact the [Australian Passport Information Service](https://www.passports.gov.au/contact-us).
-* If you're overseas, contact the nearest [Australian embassy or consulate](http://dfat.gov.au/about-us/our-locations/missions/Pages/our-embassies-and-consulates-overseas.aspx).
-
-#### Passport with X gender identifier
-
-Although Australian passports comply with international standards for sex and gender, we can't guarantee that a passport showing 'X' in the sex field will be accepted for entry or transit by another country.
-
-Contact the nearest [embassy, high commission or consulate of your destination](https://protocol.dfat.gov.au/Public/MissionsInAustralia) before you arrive at the border to confirm if authorities will accept passports with 'X' gender markers.
-
-**More information:**
-
-* [LGBTQIA+ travellers](/before-you-go/who-you-are/LGBTQIA "Advice for LGBTQIA+ travellers")
 
 #### Money
 

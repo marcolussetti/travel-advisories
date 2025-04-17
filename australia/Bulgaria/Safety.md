@@ -36,6 +36,14 @@ Watch out for drink spiking, especially at popular night spots. Never leave your
 
 * [Avoiding sexual assault overseas](/before-you-go/safety/sexual-assault "Reducing the risk of sexual assault and harassment")
 
+#### Drink Spiking
+
+Drink spiking can happen anywhere. Be alert to the potential risks, and don't leave food or drinks unattended. Pay attention when your drinks are being mixed. Stick to reputable venues and avoid homemade alcoholic drinks due to the risk of methanol poisoning. Get urgent medical help if you suspect you’ve been a victim.
+
+**More information:**
+
+* [Partying safely](/before-you-go/safety/partying "Partying safely")
+
 #### Cyber Security
 
 You may be at risk of cyber-based threats during overseas travel to any country. Digital identity theft is a growing concern. Your devices and personal data can be compromised, especially if you're connecting to Wi-Fi, using or connecting to shared or public computers, or Bluetooth. 

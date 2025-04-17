@@ -4,13 +4,11 @@
 
 > Every country or territory decides who can enter or leave through its borders. For specific information about the evidence you'll need to enter a foreign destination, check with the nearest embassy, consulate or immigration department of the destination you're entering.
 
-You don't need a visa to enter as a tourist for up to 90 days. You'll need a visa for other types of travel.
+Bulgaria is part of the [Schengen area](/before-you-go/the-basics/schengen "Visas and entry requirements in Europe and the Schengen Area"). This allows you to enter without a visa in some cases. Get an entry stamp in your passport from border control when you first enter the Schengen area.
 
-Bulgaria partially joined the [Schengen area](/before-you-go/the-basics/schengen "Visas and entry requirements in Europe and the Schengen Area") on 31 March. Border checks have ceased for air and sea arrivals from other Schengen countries, but checks continue to be conducted at land borders.
+If you're travelling without a visa, ensure your entire visit to the Schengen area, including your stay in Bulgaria, is within the 90-day limit.
 
-If you're travelling without a visa, ensure your entire visit to the Schengen area, including your stay in Bulgaria, is within the 90-day limit. This applies to all arrivals (air, land and sea).
-
-Entry and exit conditions can change at short notice. Contact the nearest [Bulgarian Embassy or Consulate](https://protocol.dfat.gov.au/Public/Missions/33) for details about visas, customs and quarantine rules.
+Entry and exit conditions can change at short notice. Contact the nearest [Bulgarian Embassy or Consulate](https://protocol.dfat.gov.au/Public/Missions/33) for details about visas, customs and quarantine rules.
 
 **More information:**
 

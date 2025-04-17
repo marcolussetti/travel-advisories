@@ -2,7 +2,7 @@
 
 Latest update
 
-We continue to advise exercise normal safety precautions in Croatia.
+We've reviewed our travel advice for Croatia and continue to advise exercise normal safety precautions.
 
 Advice Level summary
 
@@ -24,7 +24,7 @@ Exercise normal safety precautions in Croatia.
 
 * There's been an increase in bomb threats against public areas, such as shopping malls, government offices and schools. Monitor the media for developments and follow the advice of local authorities.
 * Public protests and events that draw large groups of people can turn violent. Be careful if you attend soccer matches and avoid protests and demonstrations.
-* Avoid injuries. Don't jump off rocks and cliffs along the coast. Party boats and other venues, such as nightclubs, might have different safety standards than Australia.
+* Don't jump off rocks and cliffs along the coast. Party boats and other venues, such as nightclubs, might have different safety standards than Australia.
 * Earthquakes, floods and landslides can occur. Forest fires are common from June to September. Monitor the media for updates.
 
 Full travel advice: [Safety](#safety)
@@ -40,7 +40,6 @@ Full travel advice: [Health](#health)
 
 ### Local laws
 
-* Dual nationals are not automatically covered by the Croatian health insurance system or entitled to free access to health services through the Croatian Healthcare fund.
 * Police issue on-the-spot fines for some minor offences. They may hold your passport if you challenge them or don't pay.
 * In some popular tourist areas, it's prohibited to drink alcohol in public spaces, outside bars and restaurants. You could get an on-the-spot fine.
 * Dress codes apply. Police may fine you if you're shirtless or wearing swimwear in towns with signs banning this. Disorderly and drunken behaviour is penalised.
@@ -52,7 +51,7 @@ Full travel advice: [Local laws](#local-laws)
 * Croatia is part of the [Schengen area](/before-you-go/the-basics/schengen "Visas and entry requirements in Europe and the Schengen Area"). In some situations, this lets you enter Croatia without a visa.
 * The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area is expected to start in October 2025.
 * Temporary border checks have been introduced at Croatia's borders with Slovenia. You should allow extra time for crossing the land border between Croatia and Slovenia.
-* The official currency of Croatia is the euro.
+* Croatia's official currency is the euro.
 
 Full travel advice: [Travel](#travel)
 

@@ -78,7 +78,7 @@ Phone: (+91 44) 4592 1300
 Fax: (+91 44) 4592 1320  
 Website: [chennai.consulate.gov.au](http://chennai.consulate.gov.au/)  
 Email: [chennaiaustralianconsulate@dfat.gov.au](mailto:chennaiaustralianconsulate@dfat.gov.au)  
-X: @AusCGChennai  
+X: <@AusCGChennai>  
 Instagram: auscongen,chennai
 
 #### Australian Consulate-General, Kolkata
@@ -90,7 +90,7 @@ West Bengal
 Phone: (+91 11) 4910 5980  
 Website: [kolkata.consulate.gov.au](https://kolkata.consulate.gov.au/)   
 Email: [acg.kolkata@dfat.gov.au](mailto:acg.kolkata@dfat.gov.au)  
-X: AusCGKolkata
+X: <@AusCGKolkata>
 
 #### Australian Consulate-General, Bengaluru
 
@@ -101,7 +101,7 @@ Bengaluru, Karnataka 560025
 Phone: (+91 11) 4910 5960  
 Website: [bengaluru.consulate.gov.au](https://bengaluru.consulate.gov.au/)  
 Email: [ACG.Bengaluru@dfat.gov.au](mailto:ACG.Bengaluru@dfat.gov.au)  
-X: @AusCGBengaluru
+X: <@AusCGBengaluru>
 
 #### 24-hour Consular Emergency Centre
 

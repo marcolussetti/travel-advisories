@@ -184,7 +184,7 @@ Medical tourism has become more common in India, including for:
 * experimental stem cell treatments
 * dental treatments
 
-Standards at a discount and uncertified medical establishments can be poor.
+Standards are variable, and some medical establishments are uncertified.
 
 Serious and possibly life-threatening complications can and do occur.
 

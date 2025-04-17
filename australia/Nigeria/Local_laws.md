@@ -22,9 +22,7 @@ The death penalty can apply for serious crimes like murder and armed robbery in 
 
 Sharia law operates in 12 northern Nigerian states:
 
-* Jigawa, Kaduna, Kano, Katsina, Kebbi, Sokoto and Zamfara in the north west
-* Niger in the north central region
-* Bauchi, Borno, Gombe, and Yobe in the north east
+* Bauchi, Borno, Gombe, Jigawa, Kaduna, Kano, Katsina, Kebbi, Niger, Sokoto, Yobe and Zamfara.
 
 Sharia law is increasingly enforced in these areas.
 
@@ -32,7 +30,7 @@ Serious crimes, including stealing, adultery and blasphemy may also lead to hars
 
 #### LGBTQIA+ laws
 
-Same-sex relationships largely regarded as socially unacceptable and are illegal in all parts of Nigeria. 
+Same-sex relationships are illegal in Nigeria and largely regarded as socially unacceptable. 
 
 It's illegal to:
 
@@ -43,6 +41,8 @@ It's illegal to:
 * cross-dress
 
 Same-sex sexual activity between adults can carry severe penalties in states operating under Sharia law.
+
+LGBTQIA+ persons are generally discriminated against in Nigeria and have been subject to harassment, verbal and physical abuse, across the country. Extra-judicial executions of LGBTQIA+ persons have been carried out in the past. 
 
 **More information:**
 
@@ -56,15 +56,13 @@ It's illegal to photograph or film around:
 * military and police sites
 * diplomatic premises
 * airports
-* bridges
 
 Restricted areas may not be well defined or signposted. Avoid taking pictures of military or police personnel.
 
-It's also illegal to:
+It's illegal to:
 
-* smoke in public places
-* litter
-* export African art or artefacts without a permit from the relevant authorities.
+* smoke or litter in public places
+* export African art, artefacts and antiques without a permit from the relevant authorities.
 
 See further information on items subject to import and export restrictions for travellers from [Nigeria’s Customs service](https://customs.gov.ng/?page_id=3081), including under ‘passenger concessions’.
 

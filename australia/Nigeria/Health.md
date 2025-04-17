@@ -15,7 +15,7 @@ Confirm:
 * what activities and care your policy covers
 * that your insurance covers you for the whole time you'll be away
 
-Travel insurance may not cover you for travel to 'do not travel' locations in Nigeria.
+Travel insurance may not cover you for travel to 'do not travel' locations in Nigeria. Confirm this with your insurance provider.
 
 #### Physical and mental health
 
@@ -40,7 +40,7 @@ If you have immediate concerns for your welfare, or the welfare of another Austr
 
 Not all medication available over the counter or by prescription in Australia is available in other countries. Some may even be considered illegal or a controlled substance, even if prescribed by an Australian doctor.
 
-If you plan to bring medication, check if it's legal in Nigeria. Take enough legal medication for your trip. Don't assume the same medication will be available in Nigeria if your supply runs out. The quality of medication in Nigeria can't be guaranteed.
+If you plan to bring medication, check if it's legal in Nigeria. Take enough legal medication for your trip. Don't assume the same medication will be available in Nigeria if your supply runs out. The quality of medication in Nigeria can't be guaranteed and local pharmacies may not accept Australian prescriptions.
 
 Carry a copy of your prescription or a letter from your doctor stating:
 
@@ -86,7 +86,7 @@ Get medical advice if you have a fever, muscle pain, rash or severe headache.
 
 [Lassa fever](http://www.who.int/mediacentre/factsheets/fs179/en/) occurs in several states in Nigeria. Monitor local media and the World Health Organization for updates.
 
-Lassa fever is spread through contact with rodents or body fluids of infected people. To protect yourself:
+Lassa fever is spread through contact with rodents or bodily fluids of infected people. To protect yourself:
 
 * avoid contact with rodents and their droppings
 * keep food in clean, rodent-proof containers
@@ -94,7 +94,7 @@ Lassa fever is spread through contact with rodents or body fluids of infected pe
 * avoid contact with the blood and body fluids of infected people
 * avoid contact with items that may have come in contact with an infected person's blood or body fluids (clothes, bedding, needles, medical equipment).
 
-There's currently an outbreak of [Mpox](https://www.cdc.gov.au/topics/mpox-monkeypox) (formerly known as monkeypox) in parts of Africa, including some cases in Nigeria. Maintain strict hygiene standards and avoid physical contact with infected people, animals (especially primates and rodents) and items that may have come into contact with them.
+There have been outbreaks of [Mpox](https://www.cdc.gov.au/topics/mpox-monkeypox) (formerly known as monkeypox) in parts of Africa, including in Nigeria. Maintain strict hygiene standards and avoid physical contact with infected people, animals (especially primates and rodents) and items that may have come into contact with them.
 
 **More information:**
 
@@ -111,10 +111,10 @@ Common waterborne, foodborne and other infectious diseases include:
 * [rabies](https://www.who.int/news-room/fact-sheets/detail/rabies)
 * [measles](https://www.health.gov.au/diseases/measles)
 * [meningitis](https://www.who.int/emergencies/diseases/meningitis/en/)
-* [COVID-19](https://www.health.gov.au/health-alerts/covid-19)
+* [COVID-19](https://www.health.gov.au/topics/covid-19/about)
 * [diphtheria](https://www.who.int/news-room/fact-sheets/detail/diphtheria#:~:text=Diphtheria%20is%20a%20disease%20caused,to%20produce%20and%20sustain%20immunity.)
 
-Serious outbreaks sometimes occur.
+Serious outbreaks occur from time to time.
 
 To protect yourself from illness:
 
@@ -127,10 +127,10 @@ Get medical advice if you have a fever or diarrhoea.
 
 #### Medical care
 
-#### Medical facilities
-
 Medical facilities throughout Nigeria can be basic.
 
 You may need to pay cash up-front before doctors, ambulances and hospitals will treat you, even in an emergency.
 
-If you're seriously ill or injured, you'll need evacuation to a place with better facilities. Medical evacuation can be very expensive.
+If you're seriously ill or injured, you'll need evacuation to a place with better facilities.
+
+Make sure you get travel insurance that covers hospital stays and medical evacuation, as these can be very expensive.

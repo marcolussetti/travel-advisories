@@ -2,9 +2,13 @@
 
 Latest update
 
-We've reviewed our advice for India and continue to advise exercise a high degree of caution. Higher levels apply in some areas. We've lowered the level of advice for some parts of Assam.  
+We've reviewed our advice for India and continue to advise exercise a high degree of caution. Higher levels apply in some areas.   
   
-Travellers have been robbed and assaulted after consuming spiked drinks or food. Be alert to the potential risks around drink spiking and methanol poisoning through consuming alcoholic drinks (see 'Safety').
+Carrying or using a satellite phone or GPS-enabled devices (including emergency locator beacons) without official permission is illegal. You could be arrested or detained, receive a large fine, have the device confiscated and face significant travel delays (see 'Local Laws').  
+  
+If you have had a baby in India, you must inform the FRRO and secure the appropriate travel document and Indian visa to remain legally in the country or to travel. Failure to comply could result in significant financial penalties by the FRRO (see 'Travel').   
+  
+Travellers have been robbed and assaulted after consuming spiked drinks or food. Be alert to the potential risks around drink spiking and methanol poisoning from consuming alcoholic drinks (see 'Safety').
 
 Advice Level summary
 
@@ -26,7 +30,7 @@ Higher levels apply in some areas.
 
 [Do not travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level4) to the Union Territory of Jammu and Kashmir, the India-Pakistan border (except the Atari-Wagah border crossing), or Manipur, due to the danger of armed clashes, terrorist activities and violent demonstrations.
 
-This doesn't apply to the Union Territory of Ladakh, which was established as its own union territory of India in October 2019, separate from the Union Territory of Jammu and Kashmir. (see '[Safety](#safety)')
+This doesn't apply to the Union Territory of Ladakh, which was established as its own union territory of India in October 2019, separate from the Union Territory of Jammu and Kashmir (see '[Safety](#safety)').
 
 [Reconsider your need to travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level3) to the Atari-Wagah border crossing, Chhattisgarh and the border areas of its neighbouring states. Nagaland, and some parts of Assam (including Tinsukia, Dibrugarh, Charaideo and Sivasagar districts).
 
@@ -45,7 +49,7 @@ due to the high risk of violence (see '[Safety](#safety)').
 
 * Terrorist activities, violent demonstrations and armed clashes sometimes occur in India. Avoid crowded places and possible targets. Large crowds at religious ceremonies and gatherings can also be dangerous. People have been killed in stampedes. Always have an exit plan.
 * Women may face higher levels of verbal and physical harassment or sexual assault. Avoid travelling alone, even in major cities and tourist sites.
-* Travellers have been robbed and assaulted after consuming spiked drinks or food. Don't leave your food or drinks unattended or accept food or drinks from strangers. Be alert to the potential risks around drink spiking and methanol poisoning through consuming alcoholic drinks.  See our advice on [Partying safely while overseas.](https://www.smartraveller.gov.au/before-you-go/safety/partying#methanol)
+* Travellers have been robbed and assaulted after consuming spiked drinks or food. Don't leave your food or drinks unattended or accept food or drinks from strangers. Be alert to the potential risks around drink spiking and methanol poisoning through consuming alcoholic drinks. See our advice on [Partying safely while overseas.](https://www.smartraveller.gov.au/before-you-go/safety/partying#methanol)
 * Petty theft is common in crowded areas such as markets and public transport. Thieves on motorbikes snatch bags and jewellery. Carry only what you need. Pay close attention to your belongings.
 * Scams are common. These can involve fake tour guides, ATM and credit card skimming, and fraudulent access to government services. If you're a scam victim, report it to the police to get an official report for your travel insurer.
 * Severe weather is common. This includes heat waves and dust storms in summer and flooding during the monsoon season. Check with your tour operator for possible disruptions.
@@ -68,7 +72,7 @@ Full travel advice: [Health](#health)
 ### Local laws
 
 * Always carry your passport and ensure you have a valid visa. It's illegal not to. Conducting missionary work without a proper visa is illegal.
-* Carrying or using a satellite phone or device without official permission is illegal. You may be arrested for carrying a satellite phone or device.
+* Carrying or using a satellite phone or GPS-enabled devices (including emergency locator beacons) without official permission is illegal. Failure to comply could result in arrest, detention, large fines, confiscation of the device and significant travel delays.
 * Don't use or carry illegal drugs. Penalties for possession, use, or trafficking of illegal drugs are severe and include mandatory sentences and the death penalty.
 * Check local alcohol laws before you visit. Laws on the legal drinking age and alcohol purchase vary between states.
 * It's illegal to import, possess or use e-cigarettes, vaporisers or their components, such as refills. Penalties include imprisonment.
@@ -84,13 +88,14 @@ Full travel advice: [Local laws](#local-laws)
 * You must apply for a visa before arrival. Check your eligibility and apply online for an e-visa by visiting the Government of India's [Indian Visa Online](https://indianvisaonline.gov.in/evisa/tvoa.html) website. For information on other visa types and immigration requirements, see the [eFRRO](https://indianfrro.gov.in/eservices/home.jsp) and [Bureau of Indian Immigration](https://boi.gov.in/) websites or contact the nearest high commission/embassy or consulate of India for the latest details.
 * You may need permission from Indian authorities to visit 'restricted' or 'protected' areas, particularly in the north-east.
 * Travelling by road in India can be dangerous, particularly at night. Accidents are common.
+* If you have had a baby in India, you must inform the Foreigners Registration Office (FRRO) and secure the appropriate travel document and Indian visa to remain legally in the country or to travel. Failure to comply could result in significant financial penalties by the FRRO.
 
 Full travel advice: [Travel](#travel)
 
 ### Local contacts
 
 * The [Consular Services Charter](/consular-services/consular-services-charter "Consular Services Charter") details what we can and can't do to help you overseas.
-* For consular help, contact the [Australian High Commission in New Delhi](http://www.india.highcommission.gov.au/ndli/home.html), or the Australian Consulate-General in Mumbai, Chennai or Kolkata.
+* For consular help, contact the [Australian High Commission in New Delhi](http://www.india.highcommission.gov.au/ndli/home.html), or the Australian Consulate-General in Mumbai, Chennai, Kolkata or Bengaluru.
 * To stay up to date with local information, follow the High Commission's social media accounts.
 
 Full travel advice: [Local contacts](#local-contacts)

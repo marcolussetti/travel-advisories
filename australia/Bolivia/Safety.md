@@ -2,7 +2,7 @@
 
 #### Civil unrest and political tension
 
-Political and civil tensions are ongoing, and events can be unpredictable. Large-scale political demonstrations, protests and events can occur with little warning. This may result in travel disruptions and can be violent. Authorities may use tear gas and force to control protests. Strikes and demonstrations may disrupt local and international travel.
+Protest activity will likely increase in the lead-up to the 17 August election. Political and civil tensions are ongoing, and events can be unpredictable. Large-scale political demonstrations, protests and events can occur with little warning. This may result in travel disruptions and can be violent. Authorities may use tear gas and force to control protests. Strikes and demonstrations may disrupt local and international travel.
 
 #### Roadblocks
 
@@ -163,7 +163,7 @@ Transport and tour operators don't always follow recommended safety precautions 
 
 This includes adventure activities, such as "Death Road" mountain biking tours, tours to the Uyuni salt plains, and mine tours in Potosi.
 
-If you plan to take part, do a tour or [adventure activity](https://www.smartraveller.gov.au/before-you-go/activities/adventure):
+If you plan to take part in a tour, or [adventure activity](https://www.smartraveller.gov.au/before-you-go/activities/adventure):
 
 * check if your travel insurance policy covers it
 * ask about and insist on minimum safety requirements

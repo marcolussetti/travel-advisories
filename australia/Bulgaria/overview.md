@@ -50,8 +50,7 @@ Full travel advice: [Local laws](#local-laws)
 
 ### Travel
 
-* You don't need a visa if you're visiting Bulgaria for tourism purposes. In other cases, you'll need a visa.
-* Bulgaria partially joined the [Schengen area](/before-you-go/the-basics/schengen "Visas and entry requirements in Europe and the Schengen Area") on 31 March. Border checks have ceased for air and sea arrivals from other Schengen countries, but checks continue to be undertaken at land borders between Bulgaria and other Schengen countries.
+* Bulgaria is part of the [Schengen area](/before-you-go/the-basics/schengen "Visas and entry requirements in Europe and the Schengen Area"). This allows you to enter without a visa in some cases.
 * The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area is expected to start in October 2025.
 * Entry and exit conditions can change at short notice. Contact the nearest Bulgarian Embassy or Consulate for enquiries relating to your ability to enter Bulgaria from your departure country.
 

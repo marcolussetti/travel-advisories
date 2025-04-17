@@ -2,7 +2,9 @@
 
 Latest update
 
-We continue to advise exercise a high degree of caution in Bolivia due to the threat of violent crime and the risk of civil unrest. Political and civil tensions are ongoing and events can be unpredictable (see 'Safety'). Large-scale political demonstrations, protests and events can occur with little warning, which may also result in travel disruptions.
+We continue to advise exercise a high degree of caution in Bolivia due to the threat of violent crime and the risk of civil unrest. Political and civil tensions are ongoing, and events can be unpredictable. Large-scale political demonstrations, protests and events can occur with little warning, which may also result in travel disruptions. Protest activity will likely increase in the lead-up to the 17 August election. Avoid demonstrations and protests. Monitor the media and follow the advice of local authorities (see 'Safety').   
+  
+While not compulsory, you may be asked to show proof of your yellow fever vaccination at some ports of entry in Bolivia. Some airlines may want to see it when you leave (see 'Travel').
 
 Advice Level summary
 
@@ -22,7 +24,7 @@ Exercise a high degree of caution in Bolivia due to the threat of violent crime 
 
 ### Safety
 
-* Political and civil tensions are ongoing, and events can be unpredictable. Large-scale political demonstrations, protests and events can occur with little warning. This may result in travel disruptions and can be violent. Avoid demonstrations and protests.
+* Protest activity will likely increase in the lead-up to the 17 August election. Political and civil tensions are ongoing, and events can be unpredictable. Large-scale political demonstrations, protests and events can occur with little warning. This may result in travel disruptions and can be violent. Avoid demonstrations and protests, monitor the media and follow the advice of local authorities
 * Civil unrest is common in Bolivia. Roadblocks, demonstrations, protests (some violent), and strikes could occur at any time. Don't cross roadblocks set up by protesters. Avoid crowds as they can become violent.
 * Violent crime, associated with drug trafficking, poses a risk in some parts of the country, particularly Chapare region. Take extra care in these areas.
 * Petty theft is common in tourist areas, buses and bus stations. Be alert to attempts to distract your attention from your luggage. Violent crime against foreigners occurs, including armed robbery, assault, and food and drink spiking. Don't leave your food or drink unattended.
@@ -51,7 +53,7 @@ Full travel advice: [Local laws](#local-laws)
 
 * You don't need a visa to visit Bolivia for tourism. The length of stay permitted on entry is 30 days, which can be extended to 90 days, the maximum stay per year.
 * You may need to show proof of onward travel on entry to Bolivia (a plane or bus ticket).
-* You must register your accommodation or hotel address online with [Bolivian migration authorities](https://sistemas.migracion.gob.bo/sigemig/#/seguridad/login). Failing to comply can result in fines when you leave the country.
+* While not compulsory, you may be asked to show proof of your yellow fever vaccination at some ports of entry in Bolivia. Some airlines may want to see it when you leave.
 * Entry and exit conditions can change at short notice. Contact the nearest embassy or consulate of Bolivia for the latest details.
 
 Full travel advice: [Travel](#travel)

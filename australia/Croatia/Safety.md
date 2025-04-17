@@ -41,7 +41,7 @@ Petty crime, such as pickpocketing, is common. Take extra care:
 * on public transport
 * at the beach
 
-Drink spiking can happen and may lead to theft and [sexual assault](https://www.smartraveller.gov.au/before-you-go/safety/sexual-assault).
+Drink spiking can happen and may lead to theft and [sexual assault](/before-you-go/safety/sexual-assault "Reducing the risk of sexual assault and harassment").
 
 To protect yourself from crime:
 
@@ -67,7 +67,7 @@ Social media can also be risky in destinations where there are social or politic
 
 #### Civil unrest and political tension
 
-Public protests and events that draw large groups of people can turn violent. This includes sporting events. Be careful if you attend soccer matches.
+Public protests and events that draw large groups of people can turn violent, including sporting events. Be careful if you attend soccer matches.
 
 To protect yourself during periods of unrest:
 
@@ -94,6 +94,8 @@ Locals don't like rowdy and drunken behaviour in public places.
 Being drunk or under the influence of drugs may void your travel insurance.
 
 Dress codes apply in some popular tourist areas. Police may fine you if you're shirtless or wearing swimwear in towns with signs banning this.
+
+Drink spiking can happen anywhere. Be alert to the potential risks, and don't leave food or drinks unattended. Pay attention when your drinks are being mixed. Stick to reputable venues and avoid homemade alcoholic drinks due to the risk of methanol poisoning. Get urgent medical help if you suspect you’ve been a victim.
 
 **More information:**
 
@@ -132,7 +134,7 @@ If you intend to trek or rock climb:
 
 Croatia experiences [natural disasters](/before-you-go/safety/natural-disasters "Staying safe when there's a natural disaster") and [severe weather](/while-youre-away/crisis-or-emergency/severe-weather-incident "There's a severe weather incident").
 
-The country is in an active [earthquake](https://www.smartraveller.gov.au/before-you-go/safety/earthquakes-tsunamis) zone.
+The country is in an active [earthquake](/before-you-go/safety/earthquakes-tsunamis "Earthquakes and tsunamis") zone.
 
 [Forest fires](/before-you-go/safety/natural-disasters "Staying safe when there's a natural disaster") are common in the dry, hot coastal areas and on the islands from June to September. Avoid affected areas.
 
