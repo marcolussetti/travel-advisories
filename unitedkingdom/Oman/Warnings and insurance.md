@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   17 April 2025
 
 Updated:
-:   26 October 2024
+:   16 April 2025
 
 Latest update:
-:   Information on an Israeli military attack on Iran (Safety and security)
+:   Additional information on financial crime and unpaid bills before departing Oman (‘Safety and security’ page).
 
 ## Before you travel
 

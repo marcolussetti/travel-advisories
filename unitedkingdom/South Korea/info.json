@@ -1,11 +1,11 @@
 {
     "name": "South Korea",
-    "update_reason": "Updated guidance around elevated political tensions (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Updated information on political protests (See \u2018Demonstrations\u2019 on  \u2018Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/South Korea/Warnings and insurance.md",
-            "update_date": "2025-04-04T07:23:20+01:00"
+            "update_date": "2025-04-16T09:43:57+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/South Korea/Getting help.md"
         }
     ],
-    "update_date": "2025-04-04T07:23:20+01:00"
+    "update_date": "2025-04-16T09:43:57+01:00"
 }

@@ -16,7 +16,7 @@ Terrorist attacks could be indiscriminate, including in places frequented by for
 
 ## Political situation
 
-Politically linked rallies are possible. Protests, particularly in cities, can sometimes turn violent. Security forces in central Antananarivo may close roads and use tear gas in response to demonstrations. Avoid large gatherings and political demonstrations.
+Political linked rallies are possible and occur in any parts of the country. Avoid large gatherings and political demonstrations as protests can sometimes turn violent. Roads may be closed in response to demonstrations as clashes have been known to occur between security forces and the community.
 
 ## Crime
 
@@ -78,7 +78,7 @@ Always carry your passport with you, as police randomly make ID checks and do no
 
 Paying for sex is illegal. The penalty is a fine of 1,500 to 7,000 euros and possibly a prison sentence of up to 10 years.
 
-The law against sexual abuse of underage children (aged 17 and under) is strictly enforced, especially for incidents that involve foreign tourists. Underage sex workers may carry fake identity cards. You could be prosecuted or bribed in this situation.
+The law against sexual abuse of underage children (aged 17 and under) is strictly enforced, especially for incidents that involve foreign tourists. Underage sex workers may carry fake identity cards. In this situation, you could be prosecuted, or an attempt could be made to extort a bribe from you.
 
 ### Illegal drugs and prison sentences
 
@@ -86,7 +86,7 @@ Drug smuggling is a serious offence. Punishments can be severe and prison condit
 
 ### Security personnel and police
 
-Be alert to the possibility of over-reaction by security personnel. Avoid actions that might provoke them, such as taking photographs of them. If you’re stopped by the police, show respect and stay calm.
+Security personnel are known for their firm responses to what might be perceived as relatively minor issues. Avoid actions that might provoke them, such as taking photographs of them. If you’re stopped by the police, show respect and stay calm.
 
 ### LGBT+ travellers
 
@@ -114,7 +114,7 @@ Road conditions vary greatly and are often poor. Many roads outside Antananarivo
 
 In the rainy season, from December to April, many secondary roads are impassable except by 4-wheel-drive vehicles and bridges are often washed away.
 
-Do not stop if you’re involved in, or see, an accident. Call the police on 117 or drive to the next town and report to the police directly.
+When travelling in Madagascar be aware of the risks, including carjacking or robbery. If you are involved in, or see, an accident, you can call the police on 117.  If you are driving and it is safe to do so, you can drive to the nearest town and report the incident to the police directly.
 
 ### Taxis
 

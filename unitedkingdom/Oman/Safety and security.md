@@ -130,9 +130,27 @@ Same-sex sexual activity is illegal in Oman. Read more [advice for LGBT+ travell
 
 ### Financial crimes and unpaid bills
 
-Financial crimes, including fraud, bouncing cheques and the non-payment of bills, including hotel bills, can result in imprisonment and a fine.
+Foreign nationals must pay all debts and traffic fines before leaving Oman. You can check if you have outstanding traffic fines via the ROP app or online service: [Royal Oman Police Website - Online Services - Traffic Offense Payment](https://www.rop.gov.om/OnlineServices/eTraffic/english/default.aspx).
 
-Foreign nationals must pay all debts and traffic fines before leaving Oman. You can pay fines at the airport. If you have not paid, or are involved in legal proceedings, the authorities may delay or prevent your departure.
+Financial crimes and unpaid bills include:
+
+* fraud
+* giving somebody a cheque which bounces (including post-dated and ‘security’ cheques)
+* non-payment of bills (for example property rent, hotel bills or car hire)
+
+You may also be liable for cheques that you have signed on behalf of a company.
+
+Financial crimes can be punished with:
+
+* imprisonment
+* fines
+* deportation
+* freezing bank accounts and other assets
+* seizing of any end-of-service benefits or bonuses
+* blocking your access to possible future sponsors (employers)
+* delay and/or prevention from leaving the country
+
+See more details about [financial crimes if you are living and working in Oman.](https://www.gov.uk/guidance/living-in-oman--2)
 
 ### Child custody cases
 

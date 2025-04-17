@@ -1,28 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   5 April 2025
+:   17 April 2025
 
 Updated:
-:   4 April 2025
+:   16 April 2025
 
 Latest update:
-:   Updated guidance around elevated political tensions (‘Warnings and insurance’ page).
-
-## Elevated political tensions
-
-Large protests may continue following the Constitutional Court’s decision on Friday 4 April to remove President Yoon from office. Protests are particularly likely in the following areas of Seoul:
-
-* Around the Constitutional Court (near Anguk station)
-* Gwanghwamun Square and Sejong-daero, particularly between the City Hall/Deoksugung area and Gyeongbokgung
-* Around the Presidential Residence (in Hannam-dong)
-* Around the National Assembly (in Yeouido)
-
-Protests may also occur in other locations, including in other cities around South Korea.
-
-You should follow the advice of local authorities and avoid large public gatherings. Be aware that under Korean law, it is illegal for foreign nationals to take part in political activities when in the country.
-
-You should monitor local media and this Travel Advice for updates. See  [Safety and security page](https://www.gov.uk/foreign-travel-advice/south-korea/safety-and-security#demonstrations) for more information.
+:   Updated information on political protests (See ‘Demonstrations’ on ‘Safety and security' page).
 
 ## Before you travel
 

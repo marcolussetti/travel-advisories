@@ -22,7 +22,7 @@ If you are a British male of Korean origin whose name appears on the Korean fami
 
 ### Demonstrations
 
-Public demonstrations in South Korea are common. These gatherings are mostly peaceful and well-policed. Be aware that under Korean law, it is illegal for foreign nationals to take part in political activities when in the country.
+Public demonstrations in South Korea are common, particularly at times of elevated political tensions. These gatherings are mostly peaceful and well-policed. Be aware that under Korean law, it is illegal for foreign nationals to take part in political activities when in the country. While in South Korea, pay attention to media reporting on political tensions and planned demonstrations, follow the advice of local authorities, and avoid large public gatherings.
 
 ## Civil emergency exercises and advice
 

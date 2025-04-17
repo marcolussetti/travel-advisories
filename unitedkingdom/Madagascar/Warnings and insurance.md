@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   17 April 2025
 
 Updated:
-:   13 December 2024
+:   16 April 2025
 
 Latest update:
-:   Updated assessment that terrorist attacks in Madagascar cannot be ruled out (‘Safety and security’ page).
+:   Updated information on political rallies and protests, security personnel, risks of road travel, and public offences ('Safety and security' page).
 
 ## Before you travel
 

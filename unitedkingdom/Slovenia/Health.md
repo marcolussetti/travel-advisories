@@ -20,7 +20,10 @@ At least 8 weeks before your trip:
 * check the latest [vaccine recommendations for Slovenia](https://travelhealthpro.org.uk/country/198/slovenia#Vaccine_Recommendations)
 * see where to get vaccines and whether you have to pay on the [NHS travel vaccinations page](https://www.nhs.uk/conditions/travel-vaccinations/)
 
-See [what health risks you’ll face in Slovenia](https://travelhealthpro.org.uk/country/198/slovenia), including [how to protect yourself against tick bites and tick-borne encephalitis](https://travelhealthpro.org.uk/factsheet/38/insect-and-tick-bite-avoidance).
+See [what health risks you’ll face in Slovenia](https://travelhealthpro.org.uk/country/198/slovenia), including:
+
+* [tick bites and tick-borne encephalitis](https://travelhealthpro.org.uk/factsheet/38/insect-and-tick-bite-avoidance)
+* poor air quality in parts of Slovenia at certain times of the year
 
 Altitude sickness is a risk in parts of Slovenia. Read more about [altitude sickness on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/26/altitude-illness).
 

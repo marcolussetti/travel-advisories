@@ -1,17 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   15 April 2025
+:   17 April 2025
 
 Updated:
-:   14 April 2025
+:   16 April 2025
 
 Latest update:
-:   Updated information on Lanzarote flooding ('Warnings and insurance' page).
-
-## Lanzarote: heavy rainfall and flooding
-
-Heavy rainfall and flooding in Lanzarote occurred over the weekend. Journeys may be affected. If you are in Lanzarote or travelling to Lanzarote, follow the advice of the local authorities and monitor local weather updates.
+:   Removal of information on Lanzarote flooding ('Warnings and insurance' page).
 
 ## Before you travel
 
