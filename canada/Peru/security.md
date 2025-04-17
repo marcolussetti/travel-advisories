@@ -2,15 +2,14 @@
 
 ## Safety and security
 
-### Temporary land border closure with Ecuador
-
-Ecuador’s land border with Peru will be closed to foreign nationals from April 11 to 14, 2025, during Ecuador’s national elections period.
-
 ### State of emergency in the provinces of Lima and Callao
 
-On March 17, 2025, the Peruvian government declared a state of emergency in the provinces of Lima and Callao, for a 30-day period, to curb a rise in violent crime.
+The Peruvian government extended a state of emergency in the provinces of Lima and Callao until May 17, 2025.
 
-During the state of emergency, you should always carry valid ID as security forces may ask to see it.
+During the state of emergency:
+
+* you should always carry valid ID as security forces may ask to see it
+* you cannot have a passenger on a motorcycle
 
 More information on [state of emergency](#emergencies)
 
