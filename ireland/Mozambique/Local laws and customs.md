@@ -20,7 +20,7 @@ Common sense and discretion should be exercised in dress and behaviour. Respect 
 
 ### **Female travellers**
 
-Abuse against women is relatively common in Mozambique including practices such as forced marriage, female genital mutilation/cutting (FGM/C), sexual assault, and or domestic violence. Please take all necessary precautions to insure your safety.
+Abuse against women is relatively common in Mozambique, including practices such as forced marriage, female genital mutilation/cutting (FGM/C), sexual assault, and or domestic violence. Please take all necessary precautions to insure your safety.
 
 ### **Photography**
 

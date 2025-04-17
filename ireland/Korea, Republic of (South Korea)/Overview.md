@@ -4,40 +4,6 @@
 
 Normal Precautions
 
-### Travel Alert
-
-**Heightened Political Tensions**
-
-The Constitutional Court of Korea will announce the verdict of President Yoon’s impeachment proceedings on Friday 4 April.
-
-Large-scale demonstrations are expected in the lead up to and in the aftermath of this verdict. Demonstrations can be expected in the following parts of Seoul:
-
-- The Constitutional Court (Anguk / Bukchon)
-
-- Gwanghwamun Square / Seoul Plaza
-
-- The Presidential Office (Samgakji)
-
-- The Presidential Residence (Hannam)
-
-- The National Assembly (Yeouido)
-
-Demonstrations may also occur in other locations and cities in Korea.
-
-Due to protests, access to metro stations and bus routes may be affected. In some areas, offices and schools may be forced to close. Disruption may impact tourist attractions including Gyeongbokgung, Deoksugung, Gwanghwamun Square, Bukchon, Ikseon-dong and Insadong.
-
-Irish citizens resident in or visiting Korea are advised to follow these five steps:
-
-1. **Avoid** any demonstrations (it is illegal for foreign nationals to take part in political activities)
-
-2. **Follow** the advice of local authorities
-
-3. **Ensure** you are registered on the [Citizens Register](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/)
-
-4. **Install** the [Emergency Ready App](https://english.seoul.go.kr/service/living/disaster-evacuation-tips-citizens/emergency-ready-app/) and check it regularly for updates
-
-5. **Monitor** reliable local media and Embassy social media for updates
-
 ### **General Travel Advice**
 
 South Korea introduced an electronic travel authorisation system called K-ETA in 2021. Under this system, anyone who is eligible for visa free entry to South Korea is usually\* required to obtain K-ETA approval before departure. If you need to apply for a K-ETA, please apply through the [**official K-ETA website**](https://www.k-eta.go.kr/portal/apply/index.do). It can take up to 72 hours for K-ETA application to be processed.

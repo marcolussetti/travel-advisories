@@ -2,7 +2,7 @@
 
 ### **Political stability/unrest**
 
-On 23 December 2024, the Constitutional Council confirmed the results of the 9 October elections. There is ongoing unrest in Mozambique following the elections and the subsequent confirmation of results. Protests and demonstrations may occur at short notice and cause disruption to services, supply chains, roads, transport, borders, and mobile and Wi-Fi networks.
+There has been significant unrest in Mozambique since the elections of 9 October 2024. The situation has improved in recent months, but the possibility of future unrest remains. Protests and demonstrations may occur at short notice and cause disruption to services, supply chains, roads, transport, borders, and mobile and Wi-Fi networks.
 
 Please pay attention to your surroundings, stay away from crowds, monitor the local media, and follow instructions from the authorities.
 
@@ -22,7 +22,7 @@ Please also consider our travel advice in relation to the ongoing violent insurg
 
 ### **Crime**
 
-If you are a victim of crime you should contact the local police immediately and get a police report. You can contact us at the Irish Embassy in Maputo if you need help.
+If you are a victim of crime, you should contact the local police immediately and get a police report. You can contact us at the Irish Embassy in Maputo if you need help.
 
 You should avoid walking on Avenida Friedrich Engels in Maputo City.
 
@@ -30,13 +30,14 @@ Mozambique does not have as serious a crime problem as a number of other countri
 
 You are advised to exercise particular caution in city centre areas due to reported rises in petty crime, including pick-pocketing and theft of car-parts from parked vehicles. Driving on Avenida Acordos de Lusaka (Maputo) at night-time is not recommended, due to reports of car-jackings.
 
-If you are visiting this country, take local advice on areas to avoid and follow these basic, common-sense precautions:
+If you are visiting Mozambique, take local advice on areas to avoid and follow these basic, common-sense precautions:
 
 * Do not carry your credit card, travel tickets and money together - leave spare cash and valuables in a safe place
 * It is important to carry your passport at all times in Mozambique, but leave a copy of your passport (and travel and insurance documents) with family or friends at home
-* Avoid showing large sums of money in public and don’t use ATMs after dark, especially if you are alone. Check no one has followed you after conducting your business
-* Keep a close eye on your personal belongings and hold on to them in public places such as internet cafes, train and bus stations
-* Avoid dark and unlit streets and stairways, arrange to be picked up or dropped off as close to your hotel or apartment entrance as possible
+* Avoid showing large sums of money in public and don’t use ATMs after dark, especially if you are alone. Check no one has followed you after conducting your business
+* Keep a close eye on your personal belongings and hold on to them in public places such as internet cafes, train and bus stations
+
+Avoid dark and unlit streets and stairways, arrange to be picked up or dropped off as close to your hotel or apartment entrance as possible
 
 ### **Petty crime**
 
@@ -44,7 +45,7 @@ Street crime, such as pickpocketing or robbery with threats of violence, is a re
 
 Car crime, including car-jacking, has been on the increase. Keep your car doors locked when driving and try to be aware if you are being followed. Park your car in safe, open places. If somebody offers to watch your car for you, do not react negatively. Be friendly and give the person some money when you return to your car. The appropriate price varies but would usually be around 10 meticais (about €0.15).
 
-Gratuitous violence is not a feature of crime in Mozambique so if you are mugged or your car is hijacked, you should remain calm, offer no resistance and hand over your possessions without question.
+Gratuitous violence is not a feature of crime in Mozambique, so if you are mugged or your car is hijacked, you should remain calm, offer no resistance and hand over your possessions without question.
 
 ### **Driving**
 

@@ -6,21 +6,23 @@ High Degree of Caution
 
 ### **Travel Alert**
 
-There is ongoing unrest in Mozambique since the elections of 9th of October 2024. Demonstrations may occur at short notice and cause disruption to services, supply chains, roads, transport, borders and mobile and Wi-Fi networks.
+There has been significant unrest in Mozambique since the elections of 9th of October 2024.The situation has improved in recent months, but the possibility of future unrest remains.
+
+Demonstrations may occur at short notice and cause disruption to services, supply chains, roads, transport, borders and mobile and Wi-Fi networks.
 
 Please pay attention to your surroundings, stay away from crowds, monitor the local media, and follow instructions from the authorities.
 
-Passengers are advised not to travel to the province of Cabo Delgado and certain parts of Nampula in northern Mozambique, due to an ongoing violent insurgency involving armed attacks on local civilians and security forces since October 2017. Please see Safety and Security Tab for further details and information.
+Passengers are advised not to travel to the province of Cabo Delgado and certain parts of Nampula in northern Mozambique, due to an ongoing violent insurgency involving armed attacks on local civilians and security forces since October 2017. Please see the ‘Safety and Security Tab’ for further details and information.
 
 ### **General Travel Advice**
 
-Irish passport holders travelling for **tourism** or **business** purposes can enter Mozambique without a visa. Travellers must pay the equivalent of 650 Meticais (approx. €10), provide proof of accommodation and (for those travelling by air) a return ticket, to present to the immigration officer at the port of entry. Travellers are advised to keep receipt of this payment for the duration of their stay to present at the port of exit.Travellers availing of the visa exemption can stay for a period of 30 days, with the possibility to extend up to a maximum of 90 days (consecutive or interrupted) in one year.
+Irish passport holders travelling for **tourism** or **business** purposes can enter Mozambique without a visa. Travellers must pay the equivalent of 650 Meticais (approx. €10), provide proof of accommodation and (for those travelling by air) a return ticket to the immigration officer at the port of entry. Travellers are advised to keep the receipt of this payment for the duration of their stay to present at the port of exit. Travellers availing of the visa exemption can stay for a period of 30 days, with the possibility to extend up to a maximum of 90 days (consecutive or interrupted) in one year.
 
 A valid passport is required for travel to Mozambique. Irish passports should have a minimum validity of six months. Passport cards cannot be used.
 
-**Please see Additional Information tab for more information on visas and passports.**
+**Please see** **the ‘Additional Information tab’ for more information on visas and passports.**
 
-Visitors to Mozambique are advised to follow the guidance of national and local authorities and stay fully informed of what's going on by monitoring local news and social media.
+Visitors to Mozambique are advised to follow the guidance of national and local authorities and stay fully informed of current events by monitoring local news and social media.
 
 Coastal regions can be affected by cyclones during the rainy season (late October – April), with very high winds and major rainfall.
 
