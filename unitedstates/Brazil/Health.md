@@ -38,7 +38,7 @@ All travelers to the country are advised to carry documentation, such as a vacci
 * [Rabies](https://www.cdc.gov/rabies/index.html)
 * [Travelers' diarrhea](https://wwwnc.cdc.gov/travel/yellowbook/2018/the-pre-travel-consultation/travelers-diarrhea)
 * [Tuberculosis](https://www.cdc.gov/tb/)
-* [Schistosomiasis](https://www.cdc.gov/parasites/schistosomiasis/)
+* [Schistosomiasis](https://www.cdc.gov/schistosomiasis/about/index.html)
 
 In recent years, outbreaks of these diseases have also been detected in certain areas of Brazil:
 

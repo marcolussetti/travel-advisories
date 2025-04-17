@@ -1,6 +1,6 @@
 # Burkina Faso Travel Advisory
 
-### Travel Advisory July 31, 2023
+### Travel Advisory April 16, 2025
 
 ### Burkina Faso - Level 4: Do Not Travel
 
@@ -14,19 +14,40 @@
 [T](javascript:void(0); "Tool Tip: Terrorism")
 [C](javascript:void(0); "Tool Tip: Crimes")
 
-***Reissued with obsolete COVID-19 page links removed.***
+***Updated to reflect changes for travelers with dual nationality***
 
-Do not travel to Burkina Faso due to **terrorism, crime,** and **kidnapping.**
+Do not travel to Burkina Faso for any reason due to **terrorism, crime,** and **kidnapping.**
 
-**Country Summary**: Terrorist groups continue plotting attacks in Burkina Faso. Terrorists may conduct attacks anywhere with little or no warning. Targets could include hotels, restaurants, police stations, customs offices, areas at or near mining sites, places of worship, military posts, and schools.
+**Country Summary:** Terrorist organizations continue to plan and conduct terrorist activities throughout Burkina Faso.
 
-Kidnapping and hostage taking is a threat throughout the country.  On May 10, 2019 a hostage rescue operation freed four international hostages that had been kidnapped in Burkina Faso and in neighboring Benin.
+**Terrorism**Terrorists may attack anywhere with little or no warning and may utilize various tactics including the use of common, commercially available items or the use of kidnapping for ransom. Targets may include but are not limited to:
 
-The Government of Burkina Faso has maintained a state of emergency in the entire East and Sahel regions, the provinces of Kossi and Sourou in the Boucle de Mouhoun region, the province of Kenedougou in the Hauts Bassins region, the province of Loroum in the North region, and the province of Koulpelogo in the Center-East region.
+* Hotels
+* Restaurants
+* Police stations
+* Customs offices
+* Areas at or near mining sites
+* Places of worship
+* Military posts
+* Schools
 
-The U.S. government is unable to provide emergency services to U.S. citizens throughout most of the country, as U.S. government personnel are restricted from travelling to regions outside the capital due to security concerns. The U.S. Embassy prohibits U.S. government personnel from personal travel to the Karpala, Balkiui and Rayongo (also known as Dayongo) neighborhoods of Ouagadougou’s Arrondissement 11 due to the potential for security operations.
+Visit the U.S. Department of State's [Country Reports on Terrorism](https://www.state.gov/country-reports-on-terrorism/) to learn more.
 
-Family members under the age of 21 cannot accompany U.S. government employees who work in Burkina Faso.
+The threat of kidnapping remains persistent throughout Burkina Faso, including in Ouagadougou and especially in the Sahel and East regions.
+
+**State of Emergency**The Transition Authorities of Burkina Faso have maintained a state of emergency in the following territories:
+
+* The entire Saheland East regions
+* The provinces of Kossi and Sourou (Boucle de Mouhoun region)
+* The province of Kenedougou (Hauts Bassins region)
+* The province of Loroum (North region)
+* The province of Koulpelogo (Center-East region)
+
+Due to the risks, the U.S. government is unable to provide emergency services to U.S. citizens in most of the country. U.S. government employees working in Burkina Faso are prohibited from traveling to regions outside the capital due to security concerns.
+
+Due to a historically high crime rate, the U.S. Embassy discourages U.S. government personnel from nighttime travel to the Balkiui and Rayongo (also known as Dayongo) neighborhoods of Ouagadougou’s Arrondissement 11.
+
+For travelers with dual nationality, local authorities may not recognize your U.S. nationality if you are also a national of Burkina Faso. Read the [dual-nationality-traveler page](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/Dual-Nationality-Travelers.html) for additional information about traveling with a dual nationality.
 
 Read the [country information page](https://travel.state.gov/content/passports/en/country/burkina-faso.html) for additional information on travel to Burkina Faso.
 
@@ -34,14 +55,14 @@ If you decide to travel to Burkina Faso:
 
 * Visit our website for [Travel to High-Risk Areas](https://travel.state.gov/content/passports/en/go/TraveltoHighRiskAreas.html).
 * Have evacuation plans that do not rely on U.S. government assistance.
-* Take steps to mitigate the risk of becoming a victim of violence, including limiting trips to locations frequented by Westerners.
+* Take steps to lower your risk of becoming a victim of violence, including limiting trips to places frequented by tourists.
 * Do not physically resist any robbery attempt.
 * Review your personal security plans.
 * Remain aware of your surroundings and local events.
+* Draft a will and designate appropriate insurance beneficiaries and/or power of attorney.
 * Enroll in the [Smart Traveler Enrollment Program](https://step.state.gov/step/) ([STEP](https://step.state.gov/step/)) to receive Alerts and make it easier to locate you in an emergency.
-* Follow the Department of State on [Facebook](http://www.facebook.com/travelgov) and [Twitter](http://www.twitter.com/travelgov).
-* Review the [Country Security Report](https://www.osac.gov/Content/Browse/Report?subContentTypes=Country%20Security%20Report) for Burkina Faso.
-* Prepare a contingency plan for emergency situations.  Review the [Traveler’s Checklist](https://travel.state.gov/content/passports/en/go/checklist.html).
+* Review the [Country Security Report](https://www.osac.gov/Content/Report/892f3b82-62c6-4130-b48c-1c5d5fcecd77) for Burkina Faso.
+* Prepare a backup plan for emergency situations. Review the [Traveler’s Checklist](https://travel.state.gov/content/passports/en/go/checklist.html).
 * Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) related to your travel.
 
 ### Travel Advisory Levels
