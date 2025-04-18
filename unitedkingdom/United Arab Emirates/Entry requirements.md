@@ -18,9 +18,9 @@ You will be denied entry if you do not have a valid travel document or try to us
 
 ## Visa requirements
 
-You can get a visitor or tourist visa issued free of charge when you arrive in the UAE. You do not need to apply in advance of travel. Your passport will be stamped with the visa as you go through immigration. It will usually be valid for up to 40 days.
+You can get a visitor or tourist visa issued free of charge when you arrive in the UAE. You do not need to apply in advance of travel. Your passport will be stamped with the visa as you go through immigration. It will be valid for up to 90 days over a 180-day period, which will begin from the date of first entry into the UAE. The stay can either be continuous or divided across multiple visits, provided the total duration does not exceed 90 days within the 180-day timeframe.
 
-You could get a fine for overstaying your visa. If you want to extend your stay, contact:
+You could face fines for exceeding your authorised stay which may accumulate for each day of overstay. If you want to extend your stay, contact:
 
 * for Dubai: [General Directorate of Residency and Foreigners Affairs](https://www.gdrfad.gov.ae/en)
 * for the rest of the UAE: [Federal Authority for Identity and Citizenship](https://icp.gov.ae/en/)

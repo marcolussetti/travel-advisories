@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   18 April 2025
 
 Updated:
-:   26 October 2024
+:   17 April 2025
 
 Latest update:
-:   On 26 October Israel carried out military action against Iran ('Safety and security' page)
+:   Updated information about length of validity for visas in UAE ('Entry requirements' page).
 
 ## Before you travel
 

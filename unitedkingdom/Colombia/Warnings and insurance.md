@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   16 April 2025
+:   18 April 2025
 
 Updated:
-:   15 April 2025
+:   18 April 2025
 
 Latest update:
-:   Removal of information on border closure due to Ecuadorean elections('Warnings and insurance' and 'Entry requirements' pages).
+:   Information on increased cases of yellow fever in Colombia ('Warnings and insurance' and 'Health')
 
 ![](https://assets.publishing.service.gov.uk/media/67c05135b0bb6528ee866b96/FCDO_TA_054_-_Colombia_Travel_Advice_Ed3_WEB.jpg)
 
@@ -61,6 +61,10 @@ FCDO advises against all but essential travel to within 5km of the border with E
 FCDO advises against all but essential travel to Orito, San Miguel, Valle del Guamuez, Puerto Caicedo, Puerto Guzmán, Puerto Asis and Puerto Leguizamo in Putumayo Department.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/colombia/regional-risks).
+
+## Yellow fever
+
+There are increasing cases of yellow fever in Colombia, especially in the Departments of Tolima and Cundinamarca. Yellow fever vaccination certificates are required for travellers who have recently visited or transited higher-risk countries or those visiting areas of higher risk within Colombia. Consult the [NaTHNac website: Colombia](https://travelhealthpro.org.uk/country/53/colombia#Vaccine_Recommendations) for more information, including on vaccination.
 
 ## Before you travel
 

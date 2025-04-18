@@ -30,9 +30,7 @@ Maintain a high level of security awareness, particularly in public places and a
 
 ## Regional escalation
 
-Ongoing hostilities in the region and between Israel and Lebanon could escalate quickly and pose risks for the wider region.
-
-On 1 October, Iran launched around 200 ballistic missiles at Israel. On 26 October Israel carried out military action against Iran.
+Ongoing hostilities in the region could escalate quickly and pose risks for the wider region.
 
 Monitor this travel advice and other media as the situation is changing fast. Follow and contact FCDO travel on [X](https://X.com/fcdotravelgovuk), [Facebook](https://www.facebook.com/fcdotravel) and [Instagram](https://www.instagram.com/travelaware/). You can also [get email notifications](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/email-signup) when this travel advice is updated.
 
@@ -48,13 +46,11 @@ Take sensible precautions to protect yourself and your belongings.
 
 Take care when walking or travelling alone or at night, particularly if you are a woman. Use a reputable taxi company and do not accept lifts from strangers.
 
-There are special taxis for women and children, which can be hailed from the roadside or can be booked in advance.
-
 Sexual assault and rape are relatively rare but do happen. A man who is convicted of raping a woman will be given life imprisonment, and in some cases prosecutors may request the death penalty. However, UAE law places a high burden of proof on the victim to demonstrate that the sexual relations were not consensual, especially when the victim had consumed alcohol or where the alleged attacker was known to the victim. If the sexual relations are determined to have been consensual, either party may still face prosecution for the offence of sex outside marriage.
 
 ### Drink and food spiking
 
-Do not accept drinks from strangers or leave your drink unattended in bars and clubs. Criminals can spike drinks and assault or rob you.
+Do not accept drinks from strangers or leave your drink unattended. Criminals can spike drinks and assault or rob you.
 
 ### Property scams
 
@@ -76,7 +72,7 @@ You cannot stay in a hotel if you’re under 18 years old and not accompanied by
 
 ### Pedestrian crossings
 
-Only cross roads using designated pedestrian crossings. It is illegal to cross in other places. Take care when crossing, as vehicles often do not stop at zebra crossings marked on the roads.
+Only cross roads using designated pedestrian crossings. It is illegal to cross in other places and you may face a fine or even imprisonment. Take care when crossing, as vehicles often do not stop at zebra crossings marked on the roads.
 
 ### Ramadan
 
@@ -101,8 +97,11 @@ You should also:
 Dress modestly in public areas like shopping malls:
 
 * women should cover shoulders and knees, and underwear should not be visible
+* avoid transparent clothing or any attire that features imagery or phrases that could potentially offend others
 * swimming attire should only be worn on beaches or at swimming pools
 * cross-dressing is illegal
+
+Some venues, events or buildings may have specific dress codes.
 
 ### Swearing and rude gestures
 
@@ -137,19 +136,19 @@ If you are arrested for a financial crime and are not resident in the UAE, it is
 
 ### Alcohol laws and bans
 
-Drinking or possessing alcohol is illegal in the city of Sharjah, 30km north of Dubai.
+Drinking or possessing alcohol is illegal in the Emirate of Sharjah, 30km north of Dubai.
 
 It is illegal to drink or be under the influence of alcohol in a public place anywhere in the UAE. British nationals have been arrested and charged under this law, often in cases where they have come to the attention of the police for a related offence, such as disorderly or offensive behaviour.
 
-The legal age for purchasing and drinking alcohol is 21 in Abu Dhabi, Dubai and the Northern Emirates except Sharjah, where drinking and having alcohol in your possession is illegal.
+The legal age for purchasing and drinking alcohol is 21 in Abu Dhabi, Dubai and in all Northern Emirates except Sharjah, where drinking and having alcohol in your possession is illegal.
 
-If you are resident in Dubai and want to buy alcohol to drink at home, you must get a liquor licence. Liquor licences are no longer required for residents in the other Emirates.
+If you are resident in Dubai and want to buy alcohol to drink at home, you must get a liquor licence. Liquor licences are no longer required for residents in the other Emirates excluding Sharjah..
 
 Liquor licences are not required in Dubai to purchase and consume alcohol in licenced venues like hotel bars, restaurants, and pubs. However, a liquor licence is required for consuming alcohol in private places like homes or private parties. While this requirement might not be strictly enforced in private settings, it remains a legal requirement.
 
 Outside licensed venues, you can only buy alcohol with a liquor licence from the 2 official liquor distributors in Dubai, [MMI](https://retail.mmidubai.com/) and [African & Eastern](https://www.africaneastern.com/). Tourists can get a temporary liquor licence which is valid for one month, from either supplier. This licence is only for use in Dubai.
 
-Liquor licences are not required for non-residents in the other Emirates. You can buy and drink alcohol in licensed venues, such as hotels, restaurants and clubs.
+Liquor licences are not required for non-residents in the other Emirates where alcohol is available. You can buy and drink alcohol in licensed venues, such as hotels, restaurants and clubs.
 
 ### Illegal drugs penalties
 
@@ -169,7 +168,7 @@ Some skincare products and e-cigarette refills may contain ingredients that are 
 
 Fundraising and acts of charity are heavily regulated in the UAE. This includes online and social media activity. Check whether any of the activities you are planning to do in the UAE, or while travelling through the UAE, is illegal. Get legal advice if necessary.
 
-### Using cameras and binoculars in secure areas
+### Taking photos in secure areas
 
 It is illegal to take photos of some government buildings and military installations. Hobbies like bird watching and plane spotting may be misunderstood, particularly near military sites, government buildings and airports.
 
@@ -207,6 +206,8 @@ See [water safety on holiday](https://www.rlss.org.uk/safety-on-holiday) from th
 
 Use only licensed taxis or other recognised forms of public transport, which includes apps like ‘Careem’, ‘Uber’ and Abu Dhabi Taxi. In Dubai authorised taxis are painted cream with different coloured roofs – taxis with pink roofs have female drivers. In Abu Dhabi taxis are painted silver/grey.
 
+There are special taxis for women and children, which can be hailed from the roadside or can be booked in advance.
+
 ### Road travel
 
 If you are planning to drive in the UAE, see [information on driving abroad](https://www.gov.uk/driving-abroad) and check the [UAE traffic portal](https://u.ae/en/information-and-services/justice-safety-and-the-law/road-safety).
@@ -229,7 +230,7 @@ Offensive gestures and bad language directed at other drivers can lead to fines,
 
 Flashing headlights can mean a driver is coming through, rather than giving way to you.
 
-If you have an accident, follow the rules of the emirate in which you are travelling:
+All drivers involved in an incident must stop as soon as it is safe to do so. If you are involved in a crash, follow the rules of the emirate in which you are travelling:
 
 * in Abu Dhabi, if no one has been hurt and vehicle damage is minor, move your vehicle to the side of the road to avoid blocking traffic, otherwise do not move your vehicle
 * in Dubai, only move your vehicle if it is causing an obstruction to other motorists

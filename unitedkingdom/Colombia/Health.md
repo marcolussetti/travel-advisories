@@ -27,6 +27,8 @@ See [what health risks you’ll face in Colombia](https://travelhealthpro.org.uk
 * yellow fever
 * Chikungunya
 
+There are increasing cases of yellow fever in Colombia, especially in the Departments of Tolima and Cundinamarca. Yellow fever vaccination certificates are required for travellers who have recently visited or transited higher-risk countries or those visiting areas of higher risk within Colombia. Consult the [NaTHNac website: Colombia](https://travelhealthpro.org.uk/country/53/colombia#Vaccine_Recommendations) for more information, including on vaccination.
+
 Altitude sickness is a risk in parts of Colombia, including Bogotá and areas in the Departments of Cundinamarca, Boyacá, Nariño and Antioquia. Read more about [altitude sickness on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/26/altitude-illness).
 
 ### Drinking tap water
