@@ -8,7 +8,7 @@ Avoid Non-Essential Travel
 
 ### **State of emergency**
 
-A state of emergency was declared on 03 January 2025 for 60 days and further extended on 04 March 2025 for 30 days owing to internal unrest and armed violence. The current state of emergency applies to the following provinces:
+A state of emergency was renewed on 12 April 2025 for 60 days owing to ongoing internal unrest and armed violence. The current state of emergency applies to the following provinces:
 
 -Guayas
 
@@ -30,7 +30,7 @@ A state of emergency was declared on 03 January 2025 for 60 days and further ext
 
 The state of emergency allows the military and police to seize assets, conduct inspections, and enter private properties without permission.
 
-Curfew hours (10pm until 05am) apply, until further notice, for the following districts (‘cantons’):
+Curfew hours (10pm until 05am) apply, until further notice, for the following districts (‘cantons’) and/or parishes (parroquias):
 
 ### **Azuay province:**
 
@@ -63,13 +63,38 @@ Curfew hours (10pm until 05am) apply, until further notice, for the following di
 * La Joya de los Sachas Puerto Francisco De Orellana
 * Loreto
 
-The current security situation remains volatile and uncertain due to the threat of violent crime. Travellers should carry their IDs at all times and follow the instructions of local authorities. There may be increased military and police presence around key public buildings, airports and on the streets.
+### **Sucumbios province:**
+
+* Shushufindi
+* Lago Agrio
+
+Should you need to travel to or from the airport during curfew hours, this is permissible by presenting evidence of a flight booking reservation.
+
+The current security situation remains volatile and uncertain due to the threat of violent crime. Travellers should carry their IDs at all times and follow the instructions of local authorities. There may be increased military and police presence around key public buildings, airports, and on the streets.
 
 The Embassy advises all Irish citizens in Ecuador to be particularly attentive to news and safety recommendations from the Ecuadorian authorities. If an Irish citizen decides to travel to Ecuador at this time, via a land border from Peru or Colombia, against our clear advice, they must present a criminal record certificate from their country of residence covering the last five years. The certificate must be legalised with a Hague Apostille. This does not apply to children and adolescents under 18.
 
 If they do not have the correct documentation they may not be permitted to enter via the land border, and they may have to change travel plans. This restriction applies exclusively to land borders, and not to entry via airports or seaports.
 
 For all entry, including via land, airports and seaports, you may be asked to provide a reason for your travel and evidence of a return or onward journey.
+
+### **Heavy rainfall**
+
+A regional state of emergency was declared by the Committee of Emergency Operations (COE) on 11 March 2025 for 60 days due to heavy rainfall in the following provinces:
+
+- Guayas
+
+- Los Ríos
+
+- Manabí
+
+- Esmeraldas
+
+- Santa Elena
+
+- Loja
+
+Azuay
 
 ### **General Travel Advice**
 
@@ -89,11 +114,11 @@ Due to a significant increase in violent criminal activity throughout the countr
 
 - Santo Domingo de los Tsáchilas
 
-This **does not apply** to airside transit within Guayaquil Airport in Guayas province, including onward or return travel to the Galapagos Islands.
+This **does not apply** to airside transit within Guayaquil Airport in Guayas province, including onward or return travel to the **Galapagos Islands.**
 
 We advise against all travel within the 20km exclusion zone along the border with Colombia, except for the official border-crossing town of Tulcan in Carchi province, due to the security situation.
 
-Irish citizens do not require a visa to enter Ecuador for stays up to 90 days.
+Irish citizens **do not require** a visa to enter Ecuador for stays up to 90 days.
 
 A valid passport is required for travel to Ecuador. Irish passports should have a minimum validity of 6 months. Passport cards cannot be used.
 
