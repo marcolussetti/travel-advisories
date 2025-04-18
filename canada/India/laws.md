@@ -41,9 +41,14 @@ If you plan to conduct religious activities in India, ensure that:
 * the activities are legal
 * you possess the proper visa for the activities you plan to perform
 
-### Satellite devices
+### Satellite and GPS devices
 
-It’s illegal to carry or use a satellite device in India.
+It’s illegal to carry and/or use satellite phones and GPS devices in India without a licence, even if you are only transiting through the country. This does not include regular cell phones.
+
+#### Useful links
+
+* [Request a licence](https://dot.gov.in/contact-us) – Indian Department of Telecommunications
+* [Permitted and prohibited electronic items](https://bcasindia.gov.in/#/pages/permitted-and-prohibited/electronic-items) – Bureau of Civil Aviation Security
 
 ### Photography
 

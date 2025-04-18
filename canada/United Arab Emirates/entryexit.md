@@ -43,17 +43,17 @@ The authorities of the United Arab Emirates only accept Canadian temporary passp
 
 ### Visas
 
-Tourist visa: not required  
+Tourist visa: required (on arrival)  
  Business visa: required  
  Student visa: required
 
-If you’re entering the UAE as a tourist, you must obtain an entry stamp at the port of entry. This entry stamp is free and valid for 30 days. Ahead of the expiry of the initial 30-day period, you may request a validity extension for an additional 30 days.
+If you’re entering the UAE as a tourist, you must get a visa on arrival at the port of entry. This visa is free and allows you to stay for 90 days within a 180-day period. The 90 days start from your first entry date, whether you stay continuously or not, and must be used within 180 days.
 
 #### Useful links
 
 * [Foreign Representatives in Canada](https://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng)
 * [Visa/Entry Permit Information](https://u.ae/en/information-and-services/visa-and-emirates-id/do-you-need-an-entry-permit-or-a-visa-to-enter-the-uae) – UAE Government
-* [Smart services](https://smartservices.ica.gov.ae/echannels/web/client/default.html#/login)- Federal authority for identity and citizenship of the UAE
+* [Smart services](https://smartservices.ica.gov.ae/echannels/web/client/default.html#/login)– Federal authority for identity and citizenship of the UAE
 
 ### Health entry requirements
 

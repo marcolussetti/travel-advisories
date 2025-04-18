@@ -1,7 +1,7 @@
 {
     "name": "India",
-    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
-    "update_date": "2025-04-08T10:55:00",
+    "update_reason": "Laws and culture \u2013 added information on GPS devices",
+    "update_date": "2025-04-17T13:27:00",
     "sections": {
         "risk": "canada/India/risk.md",
         "security": "canada/India/security.md",
