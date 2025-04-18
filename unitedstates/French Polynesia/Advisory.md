@@ -34,7 +34,7 @@ If you decide to travel to French Polynesia:
 
 ### Assistance for U.S. Citizens
 
-U.S. Consular Agent in French Polynesia
+U.S Consular Services in French Polynesia
 
 Centre Tamanu Iti, 1er etage  
 98718 Punaauia  
@@ -58,7 +58,7 @@ Email
 
 Website
 
-[https://fj.usembassy.gov](https://fj.usembassy.gov "Embassy website address of U.S. Consular Agent in French Polynesia: https://fj.usembassy.gov")
+[TahitiACS@state.gov](TahitiACS@state.gov "Embassy website address of U.S Consular Services in French Polynesia: TahitiACS@state.gov")
 
 ### French Polynesia Map
 

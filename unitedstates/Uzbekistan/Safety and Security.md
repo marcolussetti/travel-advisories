@@ -14,6 +14,8 @@
 
 For more information, see our [Terrorism](https://travel.state.gov/content/travel/en/international-travel/emergencies/terrorism.html) page.
 
+**Crime:**Violent crime against foreign nationals is rare, but can occur, especially in larger cities and primarily during late night hours. In urban areas, travelers are urged to take the same precautions they would take in any large U.S. city. If traveling at night, stay in well-lit areas, travel in groups, maintain a low profile, and do not display large amounts of cash. Beware of pickpockets in public places, such as tourist destinations, train stations, and local markets. Although using private cars as taxis is common in Uzbekistan, U.S. citizens, especially women, should not consider this a safe practice. U.S. citizens are encouraged to use clearly marked taxis, such as those at hotels, and should avoid riding in unmarked taxis.
+
 **Demonstrations** are rare and unlikely to occur, particularly inside Tashkent. However, clashes between police and protesters have resulted in deaths in the past.
 
 * Demonstrations can be unpredictable. Avoid areas around protests and demonstrations.
@@ -22,11 +24,17 @@ For more information, see our [Terrorism](https://travel.state.gov/content/trav
 * Check local and/or social media for updates and traffic advisories.
 * Violent demonstrations may be more likely outside the capital city.
 
-**Crime:**Violent crime against foreign nationals is rare, but can occur, especially in larger cities and primarily during late night hours. In urban areas, travelers are urged to take the same precautions they would take in any large U.S. city. If traveling at night, stay in well-lit areas, travel in groups, maintain a low profile, and do not display large amounts of cash. Beware of pickpockets in public places, such as tourist destinations, train stations, and local markets. Although using private cars as taxis is common in Uzbekistan, U.S. citizens, especially women, should not consider this a safe practice. U.S. citizens are encouraged to use clearly marked taxis, such as those at hotels, and should avoid riding in unmarked taxis.
+**Scams:** Review the Department of State’s [Protecting Yourself from Scams](https://travel.state.gov/content/travel/en/international-travel/emergencies/international-financial-scams.html) and the [FBI](http://www.fbi.gov/scams-safety/fraud) pages for information.
 
-**Scams:** See the [Department of State](http://travel.state.gov/content/passports/en/emergencies/scams.html) and the [FBI](https://www.fbi.gov/scams-and-safety/common-scams-and-crimes) pages for information on scams.
+**Technology Usage Abroad:** Mobile devices can be compromised, stolen, or damaged anywhere in the world. Before traveling abroad, it is best to keep all software (operating system and apps) updated. If possible, use a virtual private network and encrypted voice over IP (VoIP) applications. Make sure that all VPN/VoIP are reputable, and U.S. based. Do not connect to unknown open Wi-Fi.
 
-**Victims of Crime:** Report crimes to the local police at 102 (Tashkent) or 02 (most of Uzbekistan) and to the U.S. Embassy at + (998) (78) 120-5450.
+GPS Navigation Apps are helpful in getting U.S. citizens around in a foreign country. Prior to using the GPS app make sure you research the route to make sure it is safe. GPS navigation apps may give you the shortest route without safety considerations.
+
+Be careful when using dating apps or online dating websites while abroad. Scammers may target U.S. citizens. Tell your friends and family where you are, meet in a popular public place, and avoid consuming suspicious food or drinks. Avoid traveling alone to bars or nightclubs.[[CK1]](#_msocom_1)
+
+**Victims of Crime:** Report crimes to the local police at 102 (Tashkent) or 02 (most of Uzbekistan) and to the U.S. Embassy at + (998) (78) 120-5450. Local authorities are responsible for investigating and prosecuting crime.
+
+See our webpage on [help for U.S. victims of crime overseas](http://travel.state.gov/content/passports/en/emergencies/victims.html).
 
 We can:
 
@@ -40,8 +48,8 @@ We can:
 * Help you find accommodation and arrange flights home.
 * Replace a stolen or lost passport.
 
-See our webpage on [help for U.S. victims of crime overseas](http://travel.state.gov/content/passports/en/emergencies/victims.html).
-
 **Domestic Violence:**U.S. citizen victims of domestic violence are encouraged to contact the Embassy for assistance.
 
-**Tourism:**The tourism industry is unevenly regulated, and safety inspections for equipment and facilities do not commonly occur. Hazardous areas/activities are not always identified with appropriate signage, and staff may not be trained or certified either by the host government or by recognized authorities in the field. In the event of an injury, appropriate medical treatment is typically available only in/near major cities. First responders are generally unable to access areas outside of major cities and to provide urgent medical treatment. U.S. citizens are encouraged to purchase medical evacuation insurance. See our webpage for more information on [insurance providers for overseas coverage.](https://travelstate-usdos.msappproxy.net/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html?cq_ck=1708701048867)
+**Tourism:**The tourism industry is not well regulated, and safety inspections for equipment and facilities do not commonly occur. Hazardous areas/activities are not always identified with appropriate signage, and staff may not be trained or certified either by the host government or by recognized authorities in the field. In the event of an injury, appropriate medical treatment is typically available only in/near major cities. First responders are generally unable to access areas outside of major cities and to provide urgent medical treatment. U.S. citizens are encouraged to purchase medical evacuation insurance.
+
+See our webpage for more information on [insurance providers for overseas coverage.](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html)

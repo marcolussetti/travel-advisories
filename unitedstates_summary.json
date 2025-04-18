@@ -389,7 +389,7 @@
     {
         "destination": "Colombia",
         "risk_level": "Level 3: Reconsider Travel",
-        "last_updated_advisory": "2024-01-02T00:00:00",
+        "last_updated_advisory": "2025-04-17T00:00:00",
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/colombia-travel-advisory.html",
         "risk_level_number": 3,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Colombia.html",
@@ -636,7 +636,7 @@
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/french-polynesia-travel-advisory.html",
         "risk_level_number": 1,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/FrenchPolynesia.html",
-        "last_updated_country_details": "2024-12-02T00:00:00"
+        "last_updated_country_details": "2025-04-17T00:00:00"
     },
     {
         "destination": "French West Indies",
@@ -879,7 +879,7 @@
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/jordan-travel-advisory.html",
         "risk_level_number": 2,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Jordan.html",
-        "last_updated_country_details": "2025-01-17T00:00:00"
+        "last_updated_country_details": "2025-04-17T00:00:00"
     },
     {
         "destination": "Kazakhstan",
@@ -1851,7 +1851,7 @@
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/uzbekistan-travel-advisory.html",
         "risk_level_number": 1,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Uzbekistan.html",
-        "last_updated_country_details": "2024-04-22T00:00:00"
+        "last_updated_country_details": "2025-04-17T00:00:00"
     },
     {
         "destination": "Vanuatu",

@@ -1,6 +1,6 @@
 # Colombia Travel Advisory
 
-### Travel Advisory January 2, 2024
+### Travel Advisory April 17, 2025
 
 ### Colombia - Level 3: Reconsider Travel
 
@@ -14,57 +14,77 @@
 [T](javascript:void(0); "Tool Tip: Terrorism")
 [C](javascript:void(0); "Tool Tip: Crimes")
 
-**Reissued with updates to the country summary.**
+***Updated information on civil unrest and kidnapping.***
 
-Reconsider travel due to **crime** and **terrorism**. Exercise increased caution due to civil **unrest** and**kidnapping**. Some areas have increased risk. Read the entire Travel Advisory.
+Reconsider travel to Colombia due to **crime, terrorism,** **civil unrest,** and **kidnapping**. Some areas have an increased risk. Read the entire Travel Advisory.
 
 **Do Not Travel to:**
 
-* Arauca, Cauca (excluding Popayán), and Norte de Santander departments due to crime and terrorism.
-* The Colombia-Venezuela border region due to crime, kidnapping, and risk of detention when crossing into Venezuela from Colombia.
+* **Arauca, Cauca (excluding Popayán), and Norte de Santander departments** due to **crime** and **terrorism**.
+* **The Colombia-Venezuela border region** due to **crime**, **kidnapping**, **conflict between armed groups**, and **the risk of detention**.
 
-**Country Summary:** Violent crime, such as homicide, assault, and armed robbery, is widespread. Organized criminal activities, such as extortion, robbery, and kidnapping, are common in some areas.
+**Country Summary**: Violent crime, like murder, assault, and robbery, is common in many areas in Colombia. In some places, organized crime is rampant. This includes extortion, robbery, and kidnapping.
 
-Terrorist groups and criminal organizations continue operating and carrying out attacks in Colombia. They may attack with little or no warning, targeting transportation hubs, markets/shopping malls, local government facilities, police stations, military facilities, hotels, clubs, restaurants, airports, other public areas, and U.S. government facilities.
+There is risk of terrorist violence, including terrorist attacks and other activity, in Colombia. Visit the U.S. Department of State's [country reports on terrorism](https://www.state.gov/country-reports-on-terrorism/) to learn more.
 
-Demonstrations occur regularly throughout the country and can be about a variety of political or economic issues. They can shutdown roads and highways, often without prior notice or estimated reopening timelines. Demonstrations and road closures may significantly reduce access to public transportation and may disrupt travel within and between cities. Protests can become violent and can result in fatalities and injuries.
+Terrorists and criminal organizations in Colombia may attack with little or no warning and target:
 
-U.S. direct-hire government employees must adhere to the noted restrictions:
+* U.S. government facilities
+* Local government facilities
+* Tourist areas and attractions
+* Transportation centers
+* Shopping malls and markets
+* Military and police facilities
+* Hotels
+* Clubs
+* Restaurants
+* Airports
 
-* They are not permitted to travel by road between most cities.
-* Colombia’s land border areas are off-limits to U.S. government personnel unless specifically authorized.
-* They may not use motorcycles.
-* They may not hail street taxis or use public buses.
+Political demonstrations are common throughout Colombia and can:
 
-Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Colombia.html) for additional information on travel to Colombia.
+* Shut down roads and highways without notice or estimated reopening timelines.
+* Lead to road closures that reduce access to public transportation.
+* Interrupt travel within and between cities.
+* Become violent and result in deaths and injuries.
+
+Due to the risks, U.S. government employees working in Colombia **are prohibited from**:
+
+* Going to Colombia’s land borders with neighboring countries without special authorization.
+* Using motorcycles.
+* Using street taxis or any public transportation that is not prearranged.
+
+Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Colombia.html) for additional information on travel to Colombia.
 
 If you decide to travel to Colombia:
 
-* Avoid protest areas and crowds.
-* Monitor local media for breaking events and adjust your plans based on new information.
+* Visit our website for [Travel to High-Risk Areas](https://travel.state.gov/content/passports/en/go/TraveltoHighRiskAreas.html).
+* Avoid demonstrations and crowds.
+* Check local media for breaking news. Be prepared to adjust your plans.
 * Keep a low profile.
-* Be aware of your surroundings.
-* Enroll in the [Smart Traveler Enrollment Program (STEP)](http://step.state.gov/) to receive Alerts and make it easier to locate you in an emergency.
-* Follow the Department of State on [Facebook](https://www.facebook.com/usdos.colombia) and [Twitter](https://twitter.com/USEmbassyBogota)
-* Review the [Country Security Report](https://www.osac.gov/Content/Browse/Report?subContentTypes=Country%20Security%20Report) for Colombia.
-* Prepare a contingency plan for emergency situations. Review the [Traveler’s Checklist](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-checklist.html).
+* Do not display signs of wealth, such as expensive watches or jewelry.
+* Stay aware of your surroundings.
+* Travel only during daylight hours.
+* Enroll in the [Smart Traveler Enrollment Program (STEP)](https://mytravel.state.gov/s/step#_blank) to receive messages and Alerts from the U.S. Embassy and make it easier to locate you in an emergency.
+* Review the [Country Security Report](https://www.osac.gov/Country/Colombia/Detail) for Colombia.
+* Prepare a plan for emergency situations. Review the [Traveler’s Checklist](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-checklist.html#_blank).
+* Visit the CDC page for the [latest Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) related to your travel and return to the United States.
+* We highly recommend that you buy insurance before you travel. Check with your [travel insurance provider](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) about evacuation assistance, medical insurance, and trip cancellation coverage.
 
-**Arauca, Cauca, and Norte de Santander Departments – Level 4: Do Not Travel**
+**Arauca, Cauca (excluding Popayán), and Norte de Santander departments – Level 4: Do Not Travel**
 
-Violent crime, including armed robbery and homicide, is widespread.  
-Terrorist groups are active in some parts.
+Do not travel to these areas for any reason. Violent crime, like armed robbery and murder, is common in these locations. Terrorist groups are active in some areas here.
 
-The U.S. government has limited ability to provide emergency services to U.S. citizens as U.S. government-personnel travel to these areas is severely restricted due to security concerns.
+* Due to the risks, U.S. government employees working in Colombia are prohibited from traveling to these areas.
 
-**Colombia - Venezuela Border – Level 4: Do Not Travel**
+**The Colombia-Venezuela border region** **– Level 4: Do Not Travel**
 
-U.S. citizens are advised not to travel to the border of Colombia and Venezuela. U.S. citizens are at risk of detention when crossing into Venezuela.
+Do not travel to this area for any reason. Crime, kidnapping, and armed conflict are common here. Do not cross the border into Venezuela from Colombia. You may be detained by Venezuelan authorities.
 
-The Colombia-Venezuela border is not clearly marked, and U.S. citizens should not go near the border due to the risk of crossing into Venezuela accidentally.
-
-U.S. citizens attempting to enter Venezuela without a visa have been charged with terrorism and other serious crimes and detained for long periods. For more information, see the Venezuela Travel Advisory.
-
-Visit our website for [Travel to High-Risk Areas](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/high-risk-travelers.html).
+* Due to the risks, the U.S. government has limited ability to provide emergency services to U.S. citizens here.
+* Due to the risks, U.S. government employees working in Colombia are prohibited from traveling to this region.
+* The Colombia-Venezuela border is not clearly marked. Avoid the area due to the risk of accidentally crossing into Venezuela.
+* Venezuela's Travel Advisory is Level 4: Do Not Travel. U.S. citizens trying to enter Venezuela without a visa have faced terrorism charges. They have been held for long periods.
+* For more information, read the [Venezuela Travel Advisory](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/venezuela-travel-advisory.html).
 
 ### Travel Advisory Levels
 

@@ -10,10 +10,12 @@ Livestock, as well as farm equipment and animal-drawn carts that lack lights or 
 
 Passersby and drivers generally respond quickly to automobile accidents and notify relevant authorities; however, police may not arrive at the scene right away. There are private roadside assistance services available in Uzbekistan that can assist with towing, fuel refill, tire replacement, etc.
 
-**Traffic Laws:**Uzbekistan has a large traffic police force, which frequently stops drivers for minor infractions or simple document checks. There have been reports of traffic police harassing foreign drivers and asking them for bribes.
+**Traffic Laws:**Uzbekistan has a large traffic police force, which frequently stops drivers for minor infractions or simple document checks. There have been reports of traffic police harassing foreign national drivers and asking them for bribes.
 
 **Public Transportation:** Public transportation in the city is often overcrowded and not always safe. Avoid using unmarked taxis or entering a cab that already has passengers. Most taxis lack working seatbelts in the back seat. Buses and shuttle buses (marshrutkas), especially in residential areas, lack necessary route maps and information, and driver schedules may be unpredictable.
 
 See our [Road Safety page](http://travel.state.gov/content/passports/english/go/safety/road.html) for more information.
 
-**Aviation Safety Oversight:**The U.S. Federal Aviation Administration (FAA) has assessed the government of Uzbekistan’s Civil Aviation Authority as being in compliance with International Civil Aviation Organization (ICAO) aviation safety standards for oversight of Uzbekistan’s air carrier operations. Further information may be found on the [FAA’s safety assessment page](http://www.faa.gov/about/initiatives/iasa/).
+**Aviation Safety Oversight:**
+
+The U.S. Federal Aviation Administration (FAA) has found that Uzbekistan’s Civil Aviation Authority meets international standards for aviation safety oversight. FAA’s [website](https://www.faa.gov/about/initiatives/iasa) includes more information on its assessment program.

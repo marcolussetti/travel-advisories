@@ -16,11 +16,11 @@ Yes.
 
 VACCINATIONS:
 
-None required. Vaccinations recommended by the U.S. Centers for Disease Control and Prevention.[Vaccinations recommended](http://wwwnc.cdc.gov/travel/destinations/traveler/none/uzbekistan?s_cid=ncezid-dgmq-travel-single-001) by the U.S. Centers for Disease Control and Prevention.
+None required.
 
 CURRENCY RESTRICTIONS FOR ENTRY:
 
-None.
+Travelers must declare any amount equivalent to $2,000 U.S. dollars or greater.
 
 CURRENCY RESTRICTIONS FOR EXIT:
 
