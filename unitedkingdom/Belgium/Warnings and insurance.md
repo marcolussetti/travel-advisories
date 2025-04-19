@@ -1,17 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   16 April 2025
+:   19 April 2025
 
 Updated:
-:   15 April 2025
+:   18 April 2025
 
 Latest update:
 :   New information on strike action ('Warnings and insurance' page).
 
 ## National strike action
 
-Unions plan to hold nationwide strikes on the 13th of every month until further notice.
+Rail unions plan to strike on 22 and 29 April. There may be significant disruption across the rail network.
 
  A general strike is planned for 29 April and may cause severe travel disruption across the entire country.
 
