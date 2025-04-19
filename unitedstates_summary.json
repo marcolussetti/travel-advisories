@@ -137,7 +137,7 @@
     {
         "destination": "Bangladesh",
         "risk_level": "Level 3: Reconsider Travel",
-        "last_updated_advisory": "2024-09-11T00:00:00",
+        "last_updated_advisory": "2025-04-18T00:00:00",
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/bangladesh-travel-advisory.html",
         "risk_level_number": 3,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Bangladesh.html",
@@ -798,7 +798,7 @@
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/india-travel-advisory.html",
         "risk_level_number": 2,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/India.html",
-        "last_updated_country_details": "2025-02-14T00:00:00"
+        "last_updated_country_details": "2025-04-18T00:00:00"
     },
     {
         "destination": "Indonesia",
