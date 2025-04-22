@@ -42,7 +42,7 @@ French Polynesia
 
 Telephone
 
-+(689) 4042-6535
+null
 
 Emergency
 

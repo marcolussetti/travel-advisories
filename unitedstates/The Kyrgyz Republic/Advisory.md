@@ -1,6 +1,6 @@
 # The Kyrgyz Republic Travel Advisory
 
-### Travel Advisory March 8, 2024
+### Travel Advisory April 21, 2025
 
 ### Kyrgyzstan - Level 1: Exercise Normal Precautions
 
@@ -14,30 +14,32 @@
 [T](javascript:void(0); "Tool Tip: Terrorism")
 [C](javascript:void(0); "Tool Tip: Crimes")
 
-***Reissued after periodic review with edits to the area of higher risks in the border region with Tajikistan.***
+***Reissued after periodic review with edits to the area of higher risk in the border region with Tajikistan.***
 
-Exercise normal precautions in the Kyrgyz Republic. Some areas have increased risk. Read the entire Travel Advisory.
+Exercise normal precautions in the Kyrgyz Republic.  Some areas have increased risk.  Read the entire Travel Advisory.
 
-**Reconsider Travel to:**
+**Exercise increased caution in:**
 
-* The border region with Tajikistan due to the potential for **violent border clashes**.
+* The border region with Tajikistan.
 
 Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Kyrgyzstan.html) for additional information on travel to the Kyrgyz Republic.
 
 If you decide to travel to the Kyrgyz Republic:
 
 * Monitor local media for breaking events and be prepared to adjust your plans.
-* Keep travel documents up to date and easily accessible.
-* Have evacuation plans that do not rely on U.S. government assistance.
-* Enroll in the [Smart Traveler Enrollment Program](https://step.state.gov/step/) ([STEP](https://step.state.gov/step/)) to receive Alerts and make it easier to locate you in an emergency.
-* Follow the Department of State on [Facebook](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/the-kyrgyz-republic-travel-advisory.html#ExternalPopup) and [Twitter](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/the-kyrgyz-republic-travel-advisory.html#ExternalPopup).
+* Keep travel documents up to date and easily accessible.Have evacuation plans that do not rely on U.S. government assistance.
+* ·Enroll in the [Smart Traveler Enrollment Program](https://step.state.gov/step/) ([STEP](https://step.state.gov/step/)) to receive messages and Alerts  from the U.S. Embassy to make it easier to locate you in an emergency.
 * Review the [Crime and Safety Report](https://www.osac.gov/Country/Kyrgyzstan/Detail) for the Kyrgyz Republic.
-* Prepare a contingency plan for emergency situations. Review the [Traveler’s Checklist](https://travel.state.gov/content/passports/en/go/checklist.html).
-* Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) related to your travel.
+* Prepare a contingency plan for emergency situations.  Review the [Traveler’s Checklist](https://travel.state.gov/content/passports/en/go/checklist.html).
+* Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel) related to your travel.
 
-**Border Region with Tajikistan – Level 3: Reconsider Travel**
+We highly recommend that you buy insurance before you travel. Check with your [travel insurance](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) provider about evacuation assistance, medical insurance, and trip cancellation coverage.
 
-Reconsider travel to areas within approximately 30 kilometers of the border with Tajikistan due to intermittent cross-border tensions and violent clashes. Armed violence may occur with little or no warning. Travelers are at heightened risk of injury or death when visiting or transiting that region.
+**Border Region with Tajikistan – Level 2: Exercise Increased Caution**
+
+Exercise increased caution to areas within approximately 30 kilometers of the border with Tajikistan.  The March 13, 2025, signing and subsequent ratifying of a bilateral agreement between Kyrgyzstan and Tajikistan have facilitated the resumption of cross-border movement, but the situation remains fluid.  As of March 2025, two checkpoints on the border are open for transit.  There are no travel restrictions for Americans crossing the border.  However, visitors to the Batken region (especially the Batken and Leilek districts) should exercise caution and remain vigilant due to a recent history of border clashes.
+
+U.S. government employees working in the Kyrgyz Republic are restricted from traveling to the Batken province without prior authorization from the U.S. Embassy in Bishkek.
 
 ### Travel Advisory Levels
 

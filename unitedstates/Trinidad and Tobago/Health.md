@@ -2,7 +2,7 @@
 
 [#### Health](javascript:void(0); "Health")
 
-For emergency services in Trinidad and Tobago, dial: 999 for police or 990 for Fire/EMS.
+For emergency services in Trinidad and Tobago, **dial: 999 for police or 990 for Fire/EMS**.
 
 Ambulance services are not widely available, and training and availability of emergency responders may be below U.S. standards. Public ambulance service is limited and often has slow response times due to low availability and high demand. There are private ambulance services, which require payment before transportation.
 
@@ -70,4 +70,4 @@ Air pollution can be a significant problem in many destinations overseas.
 * For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/).
 * For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
 
-The U.S. Embassy maintains a list of<https://tt.usembassy.gov/wp-content/uploads/sites/52/2024/07/ACS-Doctors-Listing-2024.pdf> [doctors](https://tt.usembassy.gov/wp-content/uploads/sites/52/2024/07/ACS-Doctors-Listing-2024.pdf) and [hospitals](https://tt.usembassy.gov/wp-content/uploads/sites/52/2024/11/Public-Private-hospital-listing.pdf). The U.S. government does not recommend any specific provider or clinic.
+The U.S. Embassy maintains a list of [doctors](https://tt.usembassy.gov/wp-content/uploads/sites/52/2024/07/ACS-Doctors-Listing-2024.pdf) and [hospitals](https://tt.usembassy.gov/wp-content/uploads/sites/52/2024/11/Public-Private-hospital-listing.pdf). The U.S. government does not recommend any specific provider or clinic.
