@@ -40,11 +40,11 @@ If you have immediate concerns for your welfare or the welfare of someone you kn
 
 Not all medication available over the counter or by prescription in Australia is available in other countries. Some may even be considered illegal or a controlled substance, even if prescribed by an Australian doctor.
 
-If you plan to bring medication, check if it's legal in Singapore. Take enough legal medicine for your trip.
+If you plan to bring medication, check if it's legal in Singapore, and if it is, take enough medicine for your trip.
 
-Strict rules control substances in personal medication. Some medications, including ones for ADHD and prescription pain medication, need prior approval before being brought into Singapore. Medicinal marijuana is not permitted. Check the [Singapore Health Sciences Authority](http://www.hsa.gov.sg/content/hsa/en/Health_Products_Regulation/Consumer_Information/Personal_Import_Regulations/bringing_personal_medication_into_Singapore.html) for a list of controlled substances, including how to apply for approval at least 10 working days before you arrive.
+Strict rules control the ingredients/composition of medication. Some medications, including ones for ADHD and prescription pain medication, need prior approval before being brought into Singapore. Medicinal marijuana is not permitted. Check the [Singapore Health Sciences Authority](http://www.hsa.gov.sg/content/hsa/en/Health_Products_Regulation/Consumer_Information/Personal_Import_Regulations/bringing_personal_medication_into_Singapore.html) for a list of controlled substances, including how to apply for approval at least 10 working days before you arrive.
 
-You don't need pre-approval if you don't leave the airport transit zone (without clearing Singapore immigration). However, cannabis and cannabis products are not permitted, even in transit. Be aware that prohibited substances, such as chewing gum, cannabis and products containing cannabis extracts, are not allowed to be brought with you. If you take prescribed medicinal cannabis, you should contact the [Singapore Health Science Authority](https://www.hsa.gov.sg/personal-medication) to review your situation and consider alternate travel arrangements.
+You don't need pre-approval if you don't leave the airport transit zone (without clearing Singapore immigration). However, cannabis and cannabis products are not permitted, even in transit. Be aware that prohibited substances, such as chewing gum, cannabis and products containing cannabis extracts, are not allowed to be brought with you. It is illegal to have cannabis or other illegal drugs in your system, even if consumed outside of Singapore. If you take prescribed medicinal cannabis, you should contact the [Singapore Health Science Authority](https://www.hsa.gov.sg/personal-medication) to review your situation and consider alternate travel arrangements. 
 
 Carry a copy of your prescription or a letter from your doctor stating:
 
@@ -91,9 +91,7 @@ To protect yourself against illness:
 
 #### Other health risks
 
-Smoke haze
-
-Smoke haze happens from June to October.
+Smoke haze may occur from June to October.
 
 Check for haze and any health warnings the Singapore Government issues. Get medical advice if needed.
 
@@ -103,6 +101,6 @@ Singapore's [National Environment Agency](http://www.nea.gov.sg/) gives update
 
 The standard of medical facilities and care is similar to or higher than Australia.
 
-The cost of medical services is much higher.
+The cost of medical services is much higher. Get travel insurance before you travel and ensure it covers medical costs and medical repatriation.
 
-You may need to provide up-front payment or a letter of guaranteed payment from your insurer before they provide treatment.
+You may need to provide up-front payment or a letter of guaranteed payment from your insurer before receiving treatment.

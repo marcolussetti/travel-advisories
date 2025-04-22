@@ -33,9 +33,11 @@ On arrival in Singapore, you'll need to show:
 
 More information is available on the [ICA | Entering, Transiting and Departing website](https://www.ica.gov.sg/enter-transit-depart).
 
+Be careful of scam websites imitating official Singapore Arrival Card website.
+
 #### Transit through Singapore
 
-Singapore is open to all transit travellers. See [Changi Airport website](https://www.changiairport.com/en.html) for more information on transiting.
+See [Changi Airport website](https://www.changiairport.com/en.html) for more information on transiting.
 
 Do not bring medicinal cannabis to Singapore, even during transit. If you take prescribed medicinal cannabis, you should contact the [Singapore Health Science Authority](https://www.hsa.gov.sg/) to review your situation. 
 
@@ -47,11 +49,11 @@ Check the [Immigration & Checkpoints Authority website](https://www.ica.gov.sg/c
 
 #### Other formalities
 
-You may need to scan your thumbprints each time you arrive and depart Singapore. Children aged younger than 6 years don't need to.
+You may need to scan your thumbprints each time you arrive and depart Singapore. Children aged under 6 years don't need to.
 
 #### Medication
 
-If you're carrying medication that's controlled in Singapore, you'll need an import permit to show on arrival. (See '[Health](#health)')
+If you're carrying medication that's controlled in Singapore, you'll need an import permit to show on arrival (See '[Health](#health)').
 
 #### Passport
 
@@ -94,7 +96,7 @@ You must declare amounts over SGD20,000 or the same amount in foreign currency o
 
 ATMs are available across the country. Hotels, restaurants and shops accept international credit cards.
 
-Food stalls known as 'hawker centres' may not accept credit cards. Cash may be required.
+Food stalls known as 'hawker centres' and small retailers may not accept credit cards. Cash may be required.
 
 **More information:**
 
@@ -135,6 +137,8 @@ Always wear a helmet.
 Safe, metered taxis are available from official taxi ranks.
 
 Rideshare services are legal and widely used.
+
+Always be respectful to taxi drivers. Penalties for swearing or assaulting drivers can be severe.
 
 #### Public transport
 

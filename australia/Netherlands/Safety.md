@@ -8,12 +8,6 @@ The [national terrorism threat level](https://english.nctv.nl/) was raised in D
 
 Tourist areas, public transport and transport hubs are possible targets. 
 
-Previous incidents include:
-
-* November 2020 - shots were fired outside the Saudi Arabian Embassy in The Hague.
-* November 2019 - police arrested two individuals allegedly planning a jihadist terrorist attack.
-* March 2019 - a shooting on a tram in Utrecht resulted in 4 dead and 6 injured. Police treated the incident as terror-related.
-
 Terrorist attacks happen across Europe. Targets may include:
 
 * public transport
@@ -58,10 +52,16 @@ In the event of theft, contact the nearest police station and get a police repor
 
 Drink spiking can occur at popular nightclubs and bars, often leading to [sexual assault](https://www.smartraveller.gov.au/before-you-go/safety/sexual-assault).
 
+Be alert to the potential risks, and don't leave food or drinks unattended. Pay attention when your drinks are being mixed. Stick to reputable venues and avoid homemade alcoholic drinks due to the risk of methanol poisoning. Get urgent medical help if you suspect you’ve been a victim.
+
 To protect yourself from drink spiking:
 
 * don't leave drinks unattended
 * don't accept drinks from strangers.
+
+**More information:**
+
+* [Partying safely](/before-you-go/safety/partying "Partying safely")
 
 #### Cyber security
 

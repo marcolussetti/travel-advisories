@@ -8,7 +8,7 @@ Unauthorised public demonstrations are illegal.
 
 You need a police permit for:
 
-* a public gathering to which the public has been invited, even if you are the only one demonstrating or protesting
+* a public gathering to which the public has been invited, even if you are the only person demonstrating or protesting
 * a public procession of 2 or more people to which the public has been invited
 
 Public demonstrations are only allowed at Speakers Corner in Hong Lim Park. Non-permanent residents need a permit to join any activities at Speakers Corner. Penalties can be severe.
@@ -26,17 +26,19 @@ Pickpocketing and street theft can occur at the airport, tourist destinations, h
 
 Watch your belongings, especially in tourist areas and on public transport.
 
+#### Drink spiking
+
 Drink spiking can happen anywhere. Be alert to the potential risks, and don't leave food or drinks unattended. Pay attention when your drinks are being mixed. Stick to reputable venues and avoid homemade alcoholic drinks due to the risk of methanol poisoning. Get urgent medical help if you suspect you’ve been a victim.
 
 **More information:**
 
-* [Partying safely while overseas](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.smartraveller.gov.au%2Fbefore-you-go%2Fsafety%2Fpartying&data=05%7C02%7CMichelle.Lam%40dfat.gov.au%7Cbd0cd565db744527188508dd41a4930d%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638738897282360647%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=8hzP1P0iV92Jm88KsRyu4DlEadlSJN77OY%2FyBZsYuRk%3D&reserved=0)
+* [Partying safely while overseas](https://www.smartraveller.gov.au/before-you-go/safety/partying)
 
 #### Scams and fraud
 
 Impersonation scams happen regularly.
 
-Scammers are using automated voice calls or text messages or impersonating local government officials (e.g. from the Ministry of Health or Immigration & Checkpoints Authority), bank or telco staff. Calls ask for personal details and often use scare tactics (such as claiming you have committed an offence or have account issues). You should hang up immediately if the caller cannot identify themselves correctly. Always verify the information or request through official websites or call the company/department hotline before offering any personal information. Delete text messages quickly.
+Scammers are using automated voice calls or text messages or impersonating local government officials (e.g. from the Ministry of Health or Immigration & Checkpoints Authority), bank or telco staff. Calls ask for personal details and often use scare tactics (such as claiming you have committed an offence or have account issues). You should hang up immediately if the caller cannot identify themselves correctly. Always verify the information or request through official websites or call the company/department hotline before offering any personal information. Delete text messages immediately.
 
 Property rental [scams](https://www.smartraveller.gov.au/before-you-go/safety/scams) happen.
 
@@ -71,7 +73,7 @@ Kidnapping can happen anywhere, anytime, including destinations that are typical
 
 The Australian Government's longstanding policy is that it doesn't make payments or concessions to kidnappers.
 
-**More information:**
+**More information, including advice on how to reduce your risk of kidnapping:**
 
 * [Kidnapping](https://www.smartraveller.gov.au/before-you-go/safety/kidnapping)
 
@@ -130,8 +132,10 @@ If there's a natural disaster:
 * follow the advice of local authorities
 * check with tour operators before travelling to affected areas
 
-Earthquakes in other countries in the region can affect Singapore.
+Earthquakes in the region can affect Singapore.
 
 Singapore is a major flight hub. Natural disasters in other parts of the world may affect flights. These include volcanic ash plumes.
 
 Contact your airline or travel agent for flight updates.
+
+The Singapore government's [myENV](https://www.nea.gov.sg/myenv) app provides updated weather information and advice on other situations, such as flash floods and earthquakes.
