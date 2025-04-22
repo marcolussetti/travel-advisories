@@ -1,11 +1,11 @@
 {
     "name": "Italy",
-    "update_reason": "Update to information on expected rollout of the EU Entry/Exit System (EES) (\u2018Entry requirements\u2019 page).",
+    "update_reason": "Addition of information and advice following the death of Pope Francis on 21 April ('Warnings and insurance' page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Italy/Warnings and insurance.md",
-            "update_date": "2025-03-17T14:23:43+00:00"
+            "update_date": "2025-04-21T10:53:50+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Italy/Getting help.md"
         }
     ],
-    "update_date": "2025-03-17T14:23:43+00:00"
+    "update_date": "2025-04-21T10:53:50+01:00"
 }

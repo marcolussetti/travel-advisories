@@ -1,15 +1,19 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   22 April 2025
 
 Updated:
-:   17 March 2025
+:   21 April 2025
 
 Latest update:
-:   Update to information on expected rollout of the EU Entry/Exit System (EES) (‘Entry requirements’ page).
+:   Addition of information and advice following the death of Pope Francis on 21 April ('Warnings and insurance' page)
 
 This travel advice also covers Vatican City.
+
+## Death of Pope Francis
+
+Following the death of Pope Francis on 21 April, large crowds are expected in Rome and the Vatican City over the coming days. Please follow the advice of local authorities.
 
 ## Jubilee 2025 - Holy Year
 
