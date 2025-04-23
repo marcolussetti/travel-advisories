@@ -18,7 +18,7 @@
 
 Exercise normal precautions in the French West Indies, which includes the islands of Guadeloupe, Martinique, French Saint Martin, and Saint Barthélemy.
 
-Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Barbados.html) for additional information on travel to the French West Indies.
+Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/FrenchWestIndies.html) for additional information on travel to the French West Indies.
 
 If you decide to travel to the French West Indies:
 

@@ -61,9 +61,9 @@ Website
 
 [https://bb.usembassy.gov/](https://bb.usembassy.gov/ "Embassy website address of U.S. Embassy Bridgetown: https://bb.usembassy.gov/")
 
-### null Map
+### Anguilla Map
 
-[View Larger Map](https://travelmaps.state.gov/TSGMap/?extent=-63.395107964,18.152665756,-62.863180734,18.417612073 "Map of null")
+[View Larger Map](https://travelmaps.state.gov/TSGMap/?extent=-63.395107964,18.152665756,-62.863180734,18.417612073 "Map of Anguilla")
 
 
 

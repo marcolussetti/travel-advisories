@@ -4,7 +4,7 @@
 
 PASSPORT VALIDITY:
 
-6 months.
+6 months beyond the end of your planned stay.
 
 BLANK PASSPORT PAGES:
 
@@ -12,7 +12,7 @@ Sufficient space for an entry visa stamp.
 
 TOURIST VISA REQUIRED:
 
-No (for tourist travel under 30 days).
+Not required for tourist travel under 30 days.
 
 VACCINATIONS:
 

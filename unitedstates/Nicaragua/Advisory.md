@@ -49,7 +49,7 @@ Travelers should exercise increased caution and remain alert to the risks of cri
   
 Poor infrastructure can limit the Embassy’s emergency assistance to U.S. citizens. Travel by U.S. government personnel may be restricted at any time.  
   
-Read the [country information page](https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Ftravel.state.gov.mcas.ms%2Fcontent%2Ftravel%2Fen%2Finternational-travel%2FInternational-Travel-Country-Information-Pages%2FNicaragua.html%3FMcasTsid%3D20892&McasCSRF=c0faf6210156a766d6d56a468090eadbf7ff14e9134b92c8bb1ab41cbd1c7567) for additional information on travel to Nicaragua.
+Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Nicaragua.html) for additional information on travel to Nicaragua.
 
 If you decide to travel to Nicaragua:
 

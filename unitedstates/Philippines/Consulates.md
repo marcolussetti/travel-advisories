@@ -13,8 +13,8 @@ Telephone:** + (63) (2) 5301-2000
 
 ### Consulates
 
-[U.S. Consular Agency - Cebu City](https://ph.usembassy.gov/us-consular-agency-cebu/)  
-**Ground Level, Waterfront Hotel  
+[**U.S. Consular Agency - Cebu City**](https://ph.usembassy.gov/us-consular-agency-cebu/)  
+**Waterfront Hotel, Lower Ground Floor  
 Salinas Drive  
 Lahug, Cebu City  
 Philippines 6000  

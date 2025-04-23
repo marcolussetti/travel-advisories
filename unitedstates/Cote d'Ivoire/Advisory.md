@@ -32,7 +32,7 @@ Piracy with armed robbery and kidnapping for ransom are significant threats to s
 
 Health care in rural areas is below U.S. standards.  There are often shortages of medicine and medical supplies in public and private health facilities.
 
-The U.S. government is limited in its ability to provide emergency assistance to U.S. citizens outside Abidjan.  U.S. Embassy staff are not permitted to drive outside major cities at night.  Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/CotedvIoire.html) for more information on travel to Côte d’Ivoire.
+The U.S. government is limited in its ability to provide emergency assistance to U.S. citizens outside Abidjan.  U.S. Embassy staff are not permitted to drive outside major cities at night.  Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/CotedIvoire.html) for more information on travel to Côte d’Ivoire.
 
 If you decide to travel to Côte d’Ivoire:
 
