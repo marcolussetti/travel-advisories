@@ -25,7 +25,7 @@ See your doctor or travel clinic to:
 * ask if your travel plans may affect your health
 * plan any vaccinations you need
 
-Do this at least eight weeks before you leave.
+Do this at least 8 weeks before you leave.
 
 If you have immediate concerns for your welfare or the welfare of another Australian call the 24-hour Consular Emergency Centre on +61 2 6261 3305 or contact your [nearest Australian Embassy, High Commission or Consulate](https://www.dfat.gov.au/about-us/our-locations/missions/our-embassies-and-consulates-overseas) to discuss counselling hotlines and services available in your location.
 

@@ -28,7 +28,7 @@ Entry and exit conditions can change at short notice. Contact the [nearest Ital
 
 **More information:**
 
-* [Visas and entry requirements in Europe](https://www.smartraveller.gov.au/before-you-go/the-basics/schengen)
+* [Visas and entry requirements in Europe](/before-you-go/the-basics/schengen "Visas and entry requirements in Europe and the Schengen Area")
 
 #### Passport
 
@@ -74,6 +74,10 @@ You'll be fined if you don't declare currency or give incorrect information on e
 ATMs are widely available across the country. Hotels, restaurants and shops accept international credit cards.
 
 #### Local travel
+
+#### Death of Pope Francis
+
+Following the death of Pope Francis, large crowds are expected in Rome and the Vatican City. Monitor the media and follow the advice of local authorities.
 
 #### The Jubilee
 

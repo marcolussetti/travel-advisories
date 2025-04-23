@@ -18,7 +18,10 @@ The security situation in Somalia limits the ability of the Australian Governmen
 
 Australia doesn't have a diplomatic mission in Somalia. Contact the Australian High Commission in Kenya for consular help.
 
-You may consider registering for updates from other missions in Somalia.
+You may consider registering for updates from other missions in Somalia:
+
+* [US Somalia travel advisory](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/somalia-travel-advisory.html)
+* [UK Somalia travel advice](https://www.gov.uk/foreign-travel-advice/somalia/email-signup)
 
 #### Australian High Commission, Nairobi
 

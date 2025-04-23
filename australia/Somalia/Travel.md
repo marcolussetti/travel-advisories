@@ -22,13 +22,13 @@ Fax: (+212) 759 0651
 
 **Border measures**
 
-International and domestic flights are operating.
-
-Check requirements with local authorities before making any travel arrangements.
+International and domestic flights are operating. Flights and airport access may change without warning.
 
 Passengers must arrive at the border checkpoint at least 3 hours before departure for health and safety procedures.
 
-Land borders with countries neighbouring Somalia may close at short notice. Check with local authorities before travelling to the border. You should also monitor Travel Advice for [Ethiopia](https://www.smartraveller.gov.au/Ethiopia), [Kenya](https://www.smartraveller.gov.au/destinations/africa/kenya) or [Djibouti](https://www.smartraveller.gov.au/destinations/africa/djibouti). Don't cross the border without the correct documents.
+Land borders with countries neighbouring Somalia may close at short notice. Check with local authorities before travelling to the border. You should also monitor Travel Advice for [Ethiopia](https://www.smartraveller.gov.au/Ethiopia), [Kenya](https://www.smartraveller.gov.au/destinations/africa/kenya) or [Djibouti](https://www.smartraveller.gov.au/destinations/africa/djibouti).
+
+Don't cross the border without the correct documents, as officials may stop you. You may get a fine or detention if you cross borders illegally. The land border with Kenya is currently closed due to recent cross border terrorist activity. There have been reports that foreign nationals have been prevented from crossing the Djiboutian border into Somalia, though the border remains open.
 
 #### Other formalities
 
@@ -75,7 +75,7 @@ Although Australian passports comply with international standards for sex and ge
 
 #### Money
 
-The local currency is the Somali Shilling (SOS). US dollars are widely accepted.
+The local currency is the Somali Shilling (SOS), except in Somaliland, which uses the Somaliland Shilling. US dollars are widely accepted.
 
 The government regulates currency transfer and exchange.
 
@@ -95,7 +95,7 @@ Road travel in Somalia is dangerous.
 
 Hazards include terrorism, poor road conditions, landmines and criminal activity.
 
-Illegal roadblocks are common. See 'Safety' section for more information.
+Illegal roadblocks are common.
 
 If you need to travel by road:
 

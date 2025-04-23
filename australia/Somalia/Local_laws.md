@@ -8,8 +8,6 @@ If you're arrested or jailed, the Australian Government will do what it can to h
 
 #### Consular help
 
-Somalia hasn't signed the Vienna Conventions on diplomatic and consular relations.
-
 If you're arrested or detained, you may not be able to contact the Australian Government or access consular services.
 
 #### Drugs
@@ -37,9 +35,9 @@ Be aware of your rights and responsibilities.
 
 Criminal laws are inconsistently enforced in Somalia. Due process isn't always followed.
 
-Same-sex relations are illegal in Somalia. Punishments under strict Sharia law include flogging or death.
+Same-sex relations are illegal in Somalia. Punishments under strict Sharia law include flogging or death. There are no laws against spousal violence, including rape. If you experience sexual assault, consider contacting the Consular Emergency Centre or the Australian High Commission in Nairobi to discuss your circumstances.
 
-It's also illegal to preach a religion other than Islam in Puntland or Somaliland.
+It's illegal to preach a religion other than Islam in Puntland or Somaliland.
 
 **More information:**
 

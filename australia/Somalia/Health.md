@@ -4,9 +4,9 @@
 
 Get comprehensive [travel insurance](/before-you-go/the-basics/travel-insurance "Travel insurance") before you leave.
 
-Your policy needs to cover all overseas medical costs, including medical evacuation. The Australian Government won't pay for these costs.
-
 You'll need a specialised insurance policy that covers travel to high-risk destinations. Most Australian policies won't cover you for travel to Somalia.
+
+Your policy needs to cover all overseas medical costs, including medical evacuation. The Australian Government won't pay for these costs.
 
 If you can't afford travel insurance, you can't afford to travel. This applies to everyone, no matter how healthy and fit you are.
 
@@ -64,6 +64,7 @@ Other insect-borne diseases also occur. These include:
 * [yellow fever](https://www.health.gov.au/diseases/yellow-fever?utm_source=health.gov.au&utm_medium=redirect&utm_campaign=digital_transformation&utm_content=yellowfever)
 * [filariasis](https://www.who.int/news-room/fact-sheets/detail/lymphatic-filariasis)
 * [leishmaniasis](https://www.who.int/news-room/fact-sheets/detail/leishmaniasis)
+* [chikungunya](https://www.who.int/news-room/fact-sheets/detail/Chikungunya)
 
 To protect yourself from disease:
 
@@ -73,7 +74,7 @@ To protect yourself from disease:
 
 Get vaccinated against yellow fever before you travel.
 
-Consider taking medicine to prevent malaria.
+Consider taking medication to prevent malaria.
 
 Get medical advice if you have a fever, muscle pain, rash or severe headache.
 
@@ -113,6 +114,7 @@ Waterborne, foodborne and other infectious diseases are common. These include:
 * [meningitis](https://www.who.int/health-topics/meningitis#tab=tab_1)
 * [meningococcal disease](https://www.who.int/news-room/fact-sheets/detail/meningococcal-meningitis)
 * [measles](https://www.health.gov.au/diseases/measles)
+* [rabies](https://www.healthdirect.gov.au/rabies)
 * [tuberculosis](https://www.who.int/news-room/fact-sheets/detail/tuberculosis)
 * [rift valley fever](https://www.who.int/news-room/fact-sheets/detail/rift-valley-fever)
 * [typhoid](https://www.who.int/teams/immunization-vaccines-and-biologicals/diseases/typhoid)

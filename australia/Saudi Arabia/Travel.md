@@ -4,6 +4,16 @@
 
 > Every country or territory decides who can enter or leave through its borders. For specific information about the evidence you'll need to enter a foreign destination, check with the nearest embassy, consulate or immigration department of the destination you're entering.
 
+#### Hajj season 2025
+
+For the Hajj season 2025, local authorities have announced additional arrangements, procedures and entry/exit restrictions which must be followed by all foreign citizens who are coming to the Kingdom of Saudi Arabia.
+
+This includes not entering or staying in Makkah between 29 April 2025 until 10 June 2025 without prior permit without either a valid work permit in Makkah, a residency ID issued from Makkah or a valid Hajj permit. For more information see [the Ministry of Interior X account](https://x.com/MOISaudiArabia/status/1911130993756430466).
+
+Local authorities have also announced that the deadline for Umrah pilgrims’ departure from Saudi Arabia is 29 April 2025. Remaining in the country beyond this date will constitute a violation and violators will be subject to legal penalties. For more information see the [Ministry of Hajj and Umrah X account.](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fx.com%2FMoHU_En%2Fstatus%2F1909600304804278716%3Ft%3Dn5TjwU5dUYTmRG9-wFMUoA%26s%3D08&data=05%7C02%7CLara.Abu.Dari%40dfat.gov.au%7C9d69c6daed864566571008dd7c0858a9%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638803097475921138%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=o6j6SjoRZQKflyixQXftYmL%2F8%2F0w%2B0mQznXSsdgFHBY%3D&reserved=0)
+
+A Hajj permit is required to perform Hajj. The Kingdom has stated that violators will face fines, imprisonment, and deportation. You may also be banned from going to Saudi Arabia in the future if you do not comply with the rules. 
+
 #### Travelling from Sudan to Saudi Arabia
 
 See the [travel advice for Sudan](https://www.smartraveller.gov.au/destinations/africa/sudan) for information about flying from Sudan to Saudi Arabia.
