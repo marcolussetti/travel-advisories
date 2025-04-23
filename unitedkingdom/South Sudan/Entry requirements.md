@@ -4,15 +4,6 @@ This information is for people travelling on a full [‘British citizen’ passp
 
 The authorities in South Sudan set and enforce entry rules. If you’re not sure how these requirements apply to you, contact the [South Sudanese Embassy in the UK](https://embrss.org.uk/).
 
-## COVID-19 rules
-
-There are no COVID-19 testing or vaccination requirements for travellers entering South Sudan. On rare occasions, some travellers have been asked to show proof of vaccination. You can get proof of vaccination:
-
-* from your GP or Health and Social Care Trust
-* at the location you were vaccinated
-* in Scotland, through the [COVID-19 vaccination helpline](https://publichealthscotland.scot/our-areas-of-work/health-protection/infectious-diseases/covid-19/covid-19-vaccinations/covid-19-vaccine-information-and-resources/vaccine-resources-in-other-languages-and-alternative-formats/) or an [online customer service portal](https://vacs.nhs.scot/csp)
-* in Northern Ireland, from your GP or Health and Social Care Trust
-
 ## Passport validity requirements
 
 To enter South Sudan, your passport must have an ‘expiry date’ at least 6 months after the day you arrive and have at least 2 blank pages.
@@ -49,6 +40,15 @@ You must register at a local police station if you’re in South Sudan for 5 day
 To enter South Sudan, you must have a certificate to prove you’ve had a yellow fever vaccination.
 
 For details about medical entry requirements and recommended vaccinations, see [TravelHealthPro’s South Sudan guide](https://travelhealthpro.org.uk/country/202/south-sudan#Vaccine_Recommendations).
+
+### COVID-19
+
+On rare occasions, some travellers have been asked to show proof of their COVID-19 vaccination. You can get proof of vaccination:
+
+* from your GP or Health and Social Care Trust
+* at the location you were vaccinated
+* in Scotland, through the [COVID-19 vaccination helpline](https://publichealthscotland.scot/our-areas-of-work/health-protection/infectious-diseases/covid-19/covid-19-vaccinations/covid-19-vaccine-information-and-resources/vaccine-resources-in-other-languages-and-alternative-formats/) or an [online customer service portal](https://vacs.nhs.scot/csp)
+* in Northern Ireland, from your GP or Health and Social Care Trust
 
 ## Harassment related to vaccine certificates, visas and work permits
 

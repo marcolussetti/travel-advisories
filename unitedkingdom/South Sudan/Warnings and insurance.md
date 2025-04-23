@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   28 March 2025
+:   23 April 2025
 
 Updated:
-:   27 March 2025
+:   22 April 2025
 
 Latest update:
-:   FCDO now advises British nationals in South Sudan to leave now if you judge it safe to do so. FCDO continues to advise against all travel to South Sudan ('Warnings and insurance' page).
+:   Information about what health risks you may face in South Sudan, including mpox ('Health' page).
 
 ![](https://assets.publishing.service.gov.uk/media/5f4f33bfe90e071c6c7d9425/FCDO__TA__036_-_South_Sudan_Travel_Advice_Ed1__WEB_.jpg)
 

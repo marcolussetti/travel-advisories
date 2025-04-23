@@ -1,17 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   18 April 2025
+:   23 April 2025
 
 Updated:
-:   17 April 2025
+:   22 April 2025
 
 Latest update:
-:   New information on planned industrial action in Tenerife ('Warnings and insurance' page).
-
-## Industrial action in Tenerife
-
-Industrial action is planned in the hospitality sector in Tenerife over the Easter bank holiday weekend. If you’re due to travel to Tenerife this weekend, check your operator’s advice and follow the advice of authorities.
+:   Removal of information about industrial action in Tenerife ('Warnings and insurance' page).
 
 ## Before you travel
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   23 April 2025
 
 Updated:
-:   24 March 2025
+:   22 April 2025
 
 Latest update:
-:   Update on demonstrations and protests (‘Warnings and insurance’ and 'Safety and security' pages).
+:   Refreshed information in the safety and security section including risks around sexual assault and the addition of information on dates for Ramadan in 2026 (‘Safety and security’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/6703bc3c3b919067bb482cfb/FCDO__TA__043_-_Turkey_Travel_Advice_Ed4__WEB_.jpg)
 

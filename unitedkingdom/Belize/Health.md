@@ -25,6 +25,7 @@ See [what health risks you’ll face in Belize](https://travelhealthpro.org.uk/c
 * Zika virus
 * chikungunya virus
 * dengue
+* malaria
 
 ## Medication
 

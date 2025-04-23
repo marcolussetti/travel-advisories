@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   23 April 2025
 
 Updated:
-:   2 January 2025
+:   22 April 2025
 
 Latest update:
-:   Information on the new digitalised immigration and customs declaration form ('Entry requirements' page).
+:   Information on what health risks you may face in Belize, including malaria ('Health' page).
 
 ## Before you travel
 

@@ -1,11 +1,11 @@
 {
     "name": "Turkey",
-    "update_reason": "Update on demonstrations and protests (\u2018Warnings and insurance\u2019 and 'Safety and security' pages).",
+    "update_reason": "Refreshed information in the safety and security section including risks around sexual assault and the addition of information on dates for Ramadan in 2026 (\u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Turkey/Warnings and insurance.md",
-            "update_date": "2025-03-24T15:51:36+00:00"
+            "update_date": "2025-04-22T14:22:45+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Turkey/Getting help.md"
         }
     ],
-    "update_date": "2025-03-24T15:51:36+00:00"
+    "update_date": "2025-04-22T14:22:45+01:00"
 }

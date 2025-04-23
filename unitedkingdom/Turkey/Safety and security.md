@@ -36,7 +36,7 @@ Extremist groups based in Syria, including Daesh and Al-Qaeda linked groups, hav
 
 Regular demonstrations and protests are currently taking place in Istanbul and other cities across Turkey. Demonstrations may become violent. The police response has included use of tear gas and water cannons.
 
-Events in Israel and the Occupied Palestinian Territories have led to heightened tensions in the region and in locations across Turkey. Large demonstrations continue to occur outside diplomatic missions connected to the conflict in major cities, particularly Israeli diplomatic missions in Ankara and Istanbul.
+Events in Israel and the Occupied Palestinian Territories have led to heightened tensions in the region and in locations across Turkey. Demonstrations continue to occur outside diplomatic missions connected to the conflict in major cities, particularly Israeli diplomatic missions in Ankara and Istanbul.
 
 Avoid all demonstrations and leave the area if one develops. Local transport routes may be disrupted.
 
@@ -74,7 +74,16 @@ For more information about spiking and methanol poisoning, read Travel Aware’s
 
 ### Sexual assault
 
-In 2023, 42 cases of sexual assault, including rape, were reported to British consular staff in Turkey. Most cases happened during summer holidays in coastal tourist areas. Crimes were committed at night by someone the victim met during the day, including hotel and spa workers. There have also been sexual attacks on minors visiting toilet facilities alone. Be extra vigilant in these situations.
+Among the 4.4 million British travellers that visited Turkey in 2024, 56 cases of sexual assault, including rape, were reported to British consular staff. The majority of cases that have been reported took place during the tourist season in coastal resort areas. Often these crimes were committed by someone the victim may have met during the day, with a significant number being by hotel or spa staff. There have also been sexual attacks on minors visiting toilet facilities alone. Be extra vigilant in these situations.
+
+Take extra precautions:
+
+* make sure children and young people are always accompanied by known and trusted people and not left alone with hotel or excursion staff  use reputable providers for any services and excursions, carry out research beforehand, including by consulting your tour operator if you have one
+* don’t unnecessarily share personal details such as, information about your accommodation, personal contact information or social media accounts
+
+See [advice for women travelling abroad](https://www.gov.uk/guidance/advice-for-women-travelling-abroad) and [information for British nationals affected by rape or sexual assault abroad](https://www.gov.uk/guidance/victim-of-rape-and-sexual-assault-abroad)
+
+If you experience sexual harassment or assault, or if you feel threatened or unsafe, report it as soon as possible to the hotel and to the Turkish police or gendarmerie. Call 112 for police. Contact your nearest British Consulate for Consular support.
 
 ### Taxi safety
 
@@ -84,7 +93,7 @@ Accepting lifts from drivers of unofficial taxis is highly risky. Find a registe
 
 ### Ramadan
 
-Ramadan is a holy month for Muslims. Ramadan in Turkey in 2025 will likely begin on 28 February or 1 March and last for 29 or 30 days. Get more advice when you arrive from your tour guide, hotel or business contacts.
+Ramadan is a holy month for Muslims. Ramadan in Turkey will likely begin between 16 and 20 February in 2026 and will last for 29 or 30 days. Get more advice when you arrive from your tour guide, hotel or business contacts.
 
 During this time, it may cause offence if you:
 

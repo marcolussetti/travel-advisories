@@ -25,6 +25,7 @@ See [what health risks you’ll face in South Sudan](https://travelhealthpro.org
 * malaria
 * cholera
 * yellow fever
+* mpox
 
 The risk of malaria in South Sudan is high. You can find more information about malaria on [TravelHealthPro](https://travelhealthpro.org.uk/country/202/south-sudan#Malaria).
 

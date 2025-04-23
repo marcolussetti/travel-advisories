@@ -30,7 +30,7 @@ The legal status and regulation of some medicines prescribed or bought in the UK
 
 British prescriptions are not accepted in pharmacies in Turkey. In some cases, you may be able to liaise with Turkish hospitals and your GP to arrange for a Turkish prescription for the equivalent medicine.
 
-Some common medicines are controlled in Turkey. See [more information about the documentation you need](https://gumrukrehberi.gov.tr/page/s-it-possible-for-passenger-to-bring-along-th), or contact the nearest Turkish embassy or consulate.
+Some common medicines are controlled in Turkey. See [more information about the documentation you need](https://gumrukrehberi.gov.tr/Public/Index), or contact the nearest Turkish embassy or consulate.
 
 Read [best practice when travelling with medicines on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/43/medicines-abroad).
 
