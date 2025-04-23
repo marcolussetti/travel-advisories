@@ -4,7 +4,24 @@
 
 Normal Precautions
 
-### **Travel Alert – Jubilee Year in Rome**
+### **Travel Alert**
+
+### **Passing of Pope Francis and Funerary Arrangements**
+
+The Vatican has confirmed the death of Pope Francis on 21 April. Following the Pope’s passing, it is expected that there will be significant crowds gathering in Rome over the coming days, particularly in the area of St. Peter’s Square and Via della Conciliazione. Irish citizens who are gathering in Rome to pay their respects should monitor local news and consult Italian authorities for the latest updates. The Embassy of Ireland to the Holy See and the Embassy of Ireland to Italy are monitoring the situations closely and will be posting relevant updates on their social media pages.
+
+If you wish to attend the public elements of the funeral rites, including the lying in state, please be aware that queuing will be mostly outdoors and waiting times are expected to be very long. You should check the weather forecast and ensure that you have adequate food and water for the duration of your wait.
+
+If you are in need of emergency assistance while in Rome, the following are the emergency numbers for Italy:
+
+* “112” is the general number for all emergency services
+* Dial “113” for direct emergency line to the police
+* Dial “118” for direct emergency line for an ambulance
+* Dial “115” for the fire brigade
+
+If you require consular assistance while in Rome, please contact the Embassy of Ireland to Italy on +39 06 5852 381.
+
+### **Jubilee Year in Rome**
 
 From 24 December 2024 to 6 January 2026, the Jubilee 2025, also known as the Holy Year, will take place in Rome. The city is expected to see significantly elevated tourist levels, particularly during the larger events such as Easter and the Jubilee of Youth on 28 July–3 August. When travelling in the city during this time, you should expect large crowds and gatherings and disruptions to travel and movement. When planning travel in Rome during the Jubilee Year, it may be useful to consult the [Jubilee 2025 official site](https://www.iubilaeum2025.va/en.html).
 

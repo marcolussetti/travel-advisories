@@ -2,7 +2,35 @@
 
 ### **Entry and exit**
 
-Irish citizens do not need a visa to enter The Netherlands, however non-EU citizens normally resident in Ireland with a spouse or family member may need a visa if travelling through The Netherlands to go on holiday abroad. They may also need a re-entry visa to return to Ireland even if you have legal residence in Ireland and a valid GNIB card. Please contact The Netherlands Embassy in Dublin on **+353 (0)1 269 3444** for information on Schengen visas if travelling to or transiting through The Netherlands.
+Irish citizens do not need a visa to enter The Netherlands, however non-EU citizens normally resident in Ireland with a spouse or family member may need a visa if travelling through The Netherlands to go on holiday abroad. They may also need a re-entry visa to return to Ireland even if you have legal residence in Ireland and a valid Irish Residence Permit (IRP) card. Please contact The Netherlands Embassy in Dublin on **+353 (0)1 269 3444** for information on Schengen visas if travelling to or transiting through The Netherlands.
+
+### **Public transport**
+
+Public transport is efficient and relatively inexpensive. Visitors can usually pay the driver in cash, however, a travel card (the OVChipkaart) is the cheapest option and can be purchased at any train station. Remember to tag on and off when boarding and leaving the train, tram or bus. Live travel information for all trains, trams and buses is available on [**www.9292.nl**](http://www.9292.nl/)
+
+Security personnel regularly inspect tickets and failure to pay your fare may result in a large fine or arrest.
+
+### **Bicycles and mopeds**
+
+Cycling is one of the most popular forms of transport in the Netherlands. In both urban and rural areas there is an extensive network of dedicated lanes (often paved with red tiles), next to the footpaths, for bicycles and mopeds. Do not walk in the cycle lanes.
+
+Bicycles and mopeds are frequently allowed to travel in either direction on one-way roads, and are given priority at many junctions. Take care when crossing roads and watch out for all forms of traffic – trams, bicycles, cars and mopeds – and, when driving, watch out for cyclists.
+
+### **Driving**
+
+The rules of the road in The Netherlands are broadly similar to those in Ireland, and roads are modern and well maintained. The Dutch drive on the right and give priority to the right, unless otherwise indicated. Be particularly careful when using roundabouts: as some have the right-of-way when on them but on others right-of-way must be given to vehicles entering.
+
+If visitors want to drive:
+
+* Bring your full Irish driving licence and make sure to have adequate and appropriate insurance.
+* Take extra care with bicycle traffic which generally has priority (see above).
+* Be aware of The Netherlands’ traffic laws, such as speed limits. Speed cameras, speed traps and unmarked vehicles are widely used. Motorway speed limits are 120kph, except where lower limits are posted. City limits are generally 50kph.
+
+### **Hiring a vehicle**
+
+If hiring a vehicle, we advise not to hand over your passport as a form of security. If allowing your passport to be photocopied, keep it in your sight at all times.
+
+Check that you have adequate insurance and read the small print of the vehicle hire contract (particularly any waiver that will come into effect if the vehicle is damaged).
 
 ### **Frequently Asked Questions on Passports and (re-entry) Visas**
 

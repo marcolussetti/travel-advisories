@@ -1,12 +1,10 @@
 ## Local laws and customs
 
-### **Identification**
-
-Under Dutch law, anyone over the age of 14 is required to carry identification, such as a valid passport, driver's licence, identity card or Dutch residency card, at all times. Dutch police officers and other law enforcement officials can request to see your identification at any time. Visitors can be fined if they fail to present identification when requested.
+Remember, the local law applies to you as a visitor and it is your responsibility to follow them. Be sensitive to local customs, traditions and practices as your behaviour may be seen as improper, hostile or even illegal.
 
 ### **Travelling with Children**
 
-While there are no laws prohibiting the travel of a minor with only one parent or guardian, it has been noted that border control authorities pay particular attention to minors travelling under these circumstances. Visitors may be asked to present a ‘Permission to Travel’ form completed by the parent not travelling, as well as other documents. Follow [**this link for further information and to download a ‘Permission to Travel’ form.**](https://www.defensie.nl/english/topics/travelling-with-children)
+While there are no laws prohibiting the travel of a minor with only one parent or guardian, it has been noted that border control authorities pay particular attention to minors travelling under these circumstances. Visitors may be asked to present a ‘Permission to Travel’ form completed by the parent not travelling, as well as other documents. Follow [**this link for further information and to download a ‘Permission to Travel’ form.**](https://english.marechaussee.nl/topics/travelling-with-children)
 
 ### **Credit Cards**
 
@@ -26,4 +24,4 @@ Remember taking drugs will reduce your ability to make considered decisions and 
 
 ### **Arrest**
 
-If arrested in The Netherlands, you will be informed of your rights. At any point, you can also request to speak with a Consular officer from the Embassy. The Embassy can provide you with a list of English-speaking lawyers, can arrange for your next of kin to be informed of your detention and can help you keep in contact with friends and family. However, the Embassy cannot provide legal advice, pay for a lawyer or interfere with local judicial proceedings.
+If arrested in The Netherlands, you will be informed of your rights. The authorities should ask whether you want them to contact the Embassy on your behalf (and must do so if you want them to). At any point, you can also request to speak with a Consular officer from the Embassy. The Embassy can provide you with a list of English-speaking lawyers, can arrange for your next of kin to be informed of your detention and can help you keep in contact with friends and family. However, the Embassy cannot provide legal advice, pay for a lawyer or interfere with local judicial proceedings.
