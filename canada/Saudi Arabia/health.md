@@ -6,11 +6,25 @@
 
 * [Global Measles Notice](https://travel.gc.ca/travelling/health-safety/travel-health-notices/504) - 13 March, 2024
 * [COVID-19 and International Travel](https://travel.gc.ca/travelling/health-safety/travel-health-notices/513) - 13 March, 2024
-* [Hajj 2025](https://travel.gc.ca/travelling/health-safety/travel-health-notices/539) - 31 March, 2025
+* [Hajj 2025](https://travel.gc.ca/travelling/health-safety/travel-health-notices/539) - 22 April, 2025
 
 This section has information and advice about health risks you might face when travelling. Following this advice can help reduce your risk of getting sick. Not all risks are listed here.
 
 It's best to talk to a healthcare provider or visit a travel health clinic preferably 6 weeks before your trip to get personalized health advice. Even if your travel date is coming up soon, it's still worthwhile to make an appointment.
+
+### Outbreak Monitoring
+
+#### Meningococcal disease cases linked to Umrah travel to Saudi Arabia
+
+There have been reported cases of meningococcal disease linked to Umrah travel to Saudi Arabia.
+
+If you are considering travel to Saudi Arabia for the purposes of Umrah, make sure you are vaccinated with a quadrivalent (ACYW) meningococcal vaccine before travelling, as required by Saudi Arabia. Talk to a health care provider or visit a travel health clinic, preferably 6 weeks before your trip, to discuss vaccination and to get personalized health advice.
+
+[Health requirements (moh.gov.sa)](https://www.moh.gov.sa/en/HealthAwareness/Pilgrims_Health/Pages/default.aspx)
+
+Immediately seek medical attention if you, your child, or another close contact develops symptoms of meningococcal disease. This can include sudden fever, drowsiness, irritability, headache, vomiting, stiff neck, and a skin rash that spreads rapidly.
+
+[Symptoms of invasive meningococcal disease](https://www.canada.ca/en/public-health/services/immunization/vaccine-preventable-diseases/invasive-meningococcal-disease/symptoms.html)
 
 ### Routine vaccines
 
@@ -59,6 +73,40 @@ There is a risk of [hepatitis A](https://www.canada.ca/en/public-health/services
 
 Practise [safe food and water precautions](https://travel.gc.ca/travelling/health-safety/food-water) and wash your hands often. Vaccination is recommended for all travellers to areas where hepatitis A is present.
 
+Malaria 
+
+[Malaria](https://www.canada.ca/en/public-health/services/diseases/malaria.html) is a serious and sometimes fatal disease that is caused by parasites spread through the bites of mosquitoes.  
+   
+**There is a risk of malaria in certain areas and/or during a certain time of year in this destination.**
+
+[Antimalarial medication may be recommended](https://www.canada.ca/en/public-health/services/catmat/appendix-1-malaria-risk-recommended-chemoprophylaxis-geographic-area.html) depending on your itinerary and the time of year you are travelling. Consult a health care professional or visit a travel health clinic before travelling to discuss your options. It is recommended to do this 6 weeks before travel, however, it is still a good idea any time before leaving.   
+   
+[Protect yourself from mosquito bites](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html) at all times:   
+• Cover your skin and use an [approved](https://www.canada.ca/en/health-canada/services/about-pesticides/insect-repellents.html) insect repellent on uncovered skin.   
+• Exclude mosquitoes from your living area with screening and/or closed, well-sealed doors and windows.
+
+Hajj and Umrah vaccination entry requirements
+
+There are vaccination entry requirements in place for travellers entering Saudi Arabia for Umrah, Hajj or for seasonal work in Hajj zones.
+
+These include vaccinations for COVID-19, polio, meningococcal meningitis, and yellow fever. Before travelling, make sure you meet all requirements for participating in Hajj or Umrah.
+
+For more information, visit the Saudi Arabia Ministry of Health’s page for Hajj and Umrah health regulations.
+
+[Hajj and Umrah Health Regulations - Ministry of Health in the Kingdom of Saudi Arabia](https://www.moh.gov.sa/en/HealthAwareness/Pilgrims_Health/Pages/default.aspx) (external)
+
+Large numbers of people in small areas can enable the spread of infectious diseases and increase the risk of injury. Take the time to prepare for your trip and know how to reduce the risks.
+
+[Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
+
+Rabies 
+
+In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/diseases/rabies) may be present in some wildlife species, including bats. Rabies is a deadly disease that spreads to humans primarily through bites or scratches from an infected animal.
+
+If you are bitten or scratched by an animal while travelling, immediately wash the wound with soap and clean water and see a health care professional.
+
+Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who will be working directly with wildlife.
+
 Measles 
 
 [Measles](https://www.canada.ca/en/public-health/services/diseases/measles.html) is a highly contagious viral disease. It can spread quickly from person to person by direct contact and through droplets in the air.
@@ -94,40 +142,6 @@ Influenza
 The flu vaccine available in one hemisphere may only offer partial protection against the flu in the other hemisphere.
 
 The flu virus spreads from person to person when they cough or sneeze or by touching objects and surfaces that have been contaminated with the virus. Clean your hands often and wear a mask if you have a fever or respiratory symptoms.
-
-Malaria 
-
-[Malaria](https://www.canada.ca/en/public-health/services/diseases/malaria.html) is a serious and sometimes fatal disease that is caused by parasites spread through the bites of mosquitoes.  
-   
-**There is a risk of malaria in certain areas and/or during a certain time of year in this destination.**
-
-[Antimalarial medication may be recommended](https://www.canada.ca/en/public-health/services/catmat/appendix-1-malaria-risk-recommended-chemoprophylaxis-geographic-area.html) depending on your itinerary and the time of year you are travelling. Consult a health care professional or visit a travel health clinic before travelling to discuss your options. It is recommended to do this 6 weeks before travel, however, it is still a good idea any time before leaving.   
-   
-[Protect yourself from mosquito bites](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html) at all times:   
-• Cover your skin and use an [approved](https://www.canada.ca/en/health-canada/services/about-pesticides/insect-repellents.html) insect repellent on uncovered skin.   
-• Exclude mosquitoes from your living area with screening and/or closed, well-sealed doors and windows.
-
-Hajj and Umrah vaccination entry requirements
-
-There are vaccination entry requirements in place for travellers entering Saudi Arabia for Umrah, Hajj or for seasonal work in Hajj zones.
-
-These include vaccinations for COVID-19, polio, meningococcal meningitis, and yellow fever. Before travelling, make sure you meet all requirements for participating in Hajj or Umrah.
-
-For more information, visit the Saudi Arabia Ministry of Health’s page for Hajj and Umrah health regulations.
-
-[Hajj and Umrah Health Regulations - Ministry of Health in the Kingdom of Saudi Arabia](https://www.moh.gov.sa/en/HealthAwareness/Pilgrims_Health/Pages/default.aspx) (external)
-
-Large numbers of people in small areas can enable the spread of infectious diseases and increase the risk of injury. Take the time to prepare for your trip and know how to reduce the risks.
-
-[Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
-
-Rabies 
-
-In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/diseases/rabies) may be present in some wildlife species, including bats. Rabies is a deadly disease that spreads to humans primarily through bites or scratches from an infected animal.
-
-If you are bitten or scratched by an animal while travelling, immediately wash the wound with soap and clean water and see a health care professional.
-
-Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who will be working directly with wildlife.
 
 ### Safe food and water precautions
 

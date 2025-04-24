@@ -6,7 +6,7 @@
 
 * [Global Measles Notice](https://travel.gc.ca/travelling/health-safety/travel-health-notices/504) - 13 March, 2024
 * [COVID-19 and International Travel](https://travel.gc.ca/travelling/health-safety/travel-health-notices/513) - 13 March, 2024
-* [Polio: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/508) - 10 December, 2024
+* [Polio: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/508) - 22 April, 2025
 
 This section has information and advice about health risks you might face when travelling. Following this advice can help reduce your risk of getting sick. Not all risks are listed here.
 
@@ -64,6 +64,36 @@ Hepatitis B
 
 Hepatitis B vaccination is recommended for all travellers. [Prevent hepatitis B](https://www.canada.ca/en/public-health/services/diseases/hepatitis-b/prevention-risks.html#a2) infection by practicing safe sex, only using new and sterile drug equipment, and only getting tattoos and piercings in settings that follow public health regulations and standards.
 
+Measles 
+
+[Measles](https://www.canada.ca/en/public-health/services/diseases/measles.html) is a highly contagious viral disease. It can spread quickly from person to person by direct contact and through droplets in the air.
+
+Anyone who is not protected against measles is at risk of being infected with it when travelling internationally.
+
+Regardless of where you are going, talk to a health care professional before travelling to make sure you are fully protected against measles.
+
+COVID-19
+
+[Coronavirus disease (COVID-19)](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html) is an infectious viral disease. It can spread from person to person by direct contact and through droplets in the air.
+
+It is recommended that all eligible travellers complete a COVID-19 vaccine series along with any additional recommended doses in Canada before travelling. Evidence shows that vaccines are very effective at preventing severe illness, hospitalization and death from COVID-19. While vaccination provides better protection against serious illness, you may still be at risk of infection from the virus that causes COVID-19. Anyone who has not completed a vaccine series is at increased risk of being infected with the virus that causes COVID-19 and is at greater risk for severe disease when travelling internationally.
+
+Before travelling, verify your destination’s COVID-19 vaccination entry/exit requirements. Regardless of where you are going, talk to a health care professional before travelling to make sure you are adequately protected against COVID-19.
+
+Influenza
+
+ The best way to protect yourself from seasonal [influenza](https://www.canada.ca/en/public-health/services/diseases/flu-influenza.html) (flu) is to get vaccinated every year. [Get the flu shot](https://www.canada.ca/en/public-health/services/diseases/flu-influenza/get-your-flu-shot.html) at least 2 weeks before travelling.
+
+ The flu occurs worldwide.
+
+* In the Northern Hemisphere, the flu season usually runs from November to   April.
+* In the Southern Hemisphere, the flu season usually runs between April and   October.
+* In the tropics, there is flu activity year round.
+
+The flu vaccine available in one hemisphere may only offer partial protection against the flu in the other hemisphere.
+
+The flu virus spreads from person to person when they cough or sneeze or by touching objects and surfaces that have been contaminated with the virus. Clean your hands often and wear a mask if you have a fever or respiratory symptoms.
+
 Malaria 
 
 [Malaria](https://www.canada.ca/en/public-health/services/diseases/malaria.html) is a serious and sometimes fatal disease that is caused by parasites spread through the bites of mosquitoes.
@@ -96,35 +126,6 @@ Polio is spread from person to person and through contaminated food and water. I
 
 * Be sure that your polio vaccinations are up to date before travelling. Polio is part of the [routine vaccine schedule](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-1-key-immunization-information/page-13-recommended-immunization-schedules.html#p1c12a2) for children in Canada.
 * One booster dose of the polio vaccine is recommended as an [adult](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-3-vaccination-specific-populations/page-9-immunization-travellers.html#a3).
-Measles 
-
-[Measles](https://www.canada.ca/en/public-health/services/diseases/measles.html) is a highly contagious viral disease. It can spread quickly from person to person by direct contact and through droplets in the air.
-
-Anyone who is not protected against measles is at risk of being infected with it when travelling internationally.
-
-Regardless of where you are going, talk to a health care professional before travelling to make sure you are fully protected against measles.
-
-COVID-19
-
-[Coronavirus disease (COVID-19)](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html) is an infectious viral disease. It can spread from person to person by direct contact and through droplets in the air.
-
-It is recommended that all eligible travellers complete a COVID-19 vaccine series along with any additional recommended doses in Canada before travelling. Evidence shows that vaccines are very effective at preventing severe illness, hospitalization and death from COVID-19. While vaccination provides better protection against serious illness, you may still be at risk of infection from the virus that causes COVID-19. Anyone who has not completed a vaccine series is at increased risk of being infected with the virus that causes COVID-19 and is at greater risk for severe disease when travelling internationally.
-
-Before travelling, verify your destination’s COVID-19 vaccination entry/exit requirements. Regardless of where you are going, talk to a health care professional before travelling to make sure you are adequately protected against COVID-19.
-
-Influenza
-
- The best way to protect yourself from seasonal [influenza](https://www.canada.ca/en/public-health/services/diseases/flu-influenza.html) (flu) is to get vaccinated every year. [Get the flu shot](https://www.canada.ca/en/public-health/services/diseases/flu-influenza/get-your-flu-shot.html) at least 2 weeks before travelling.
-
- The flu occurs worldwide.
-
-* In the Northern Hemisphere, the flu season usually runs from November to   April.
-* In the Southern Hemisphere, the flu season usually runs between April and   October.
-* In the tropics, there is flu activity year round.
-
-The flu vaccine available in one hemisphere may only offer partial protection against the flu in the other hemisphere.
-
-The flu virus spreads from person to person when they cough or sneeze or by touching objects and surfaces that have been contaminated with the virus. Clean your hands often and wear a mask if you have a fever or respiratory symptoms.
 
 ### Safe food and water precautions
 
@@ -218,10 +219,6 @@ Dengue
 **Learn more:**  
 [Dengue](https://www.canada.ca/en/public-health/services/infectious-diseases/viral-haemorrhagic-fevers/dengue-fever.html)
 
-African trypanosomiasis
-
-[African trypanosomiasis (sleeping sickness)](https://www.canada.ca/en/public-health/services/diseases/trypanosomiasis.html) is caused by a parasite spread through the bite of a tsetse fly. Tsetse flies usually bite during the day and the bites are usually painful. If untreated, the disease is eventually fatal. Risk is generally low for most travellers. Protect yourself from bites especially in game parks and rural areas. Avoid wearing bright or dark-coloured clothing as these colours attract tsetse flies. There is no vaccine available for this disease.
-
 Onchoceriasis
 
 [Onchocerciasis (river blindness)](https://www.who.int/news-room/fact-sheets/detail/onchocerciasis)is an eye and skin disease caused by a parasite spread through the bite of an infected female blackfly.  Onchocerciasis often leads to blindness if left untreated. Risk is generally low for most travellers. Protect yourself from blackfly bites, which are most common close to fast-flowing rivers and streams. There is no vaccine available for onchocerciasis although drug treatments exist.
@@ -240,6 +237,10 @@ During your trip:
 If you are pregnant or planning a pregnancy, you should discuss the potential risks of travelling to this destination with your health care provider. You may choose to avoid or postpone travel.
 
 For more information, see [Zika virus: Pregnant or planning a pregnancy.](https://www.canada.ca/en/public-health/services/diseases/zika-virus/pregnant-planning-pregnancy.html)
+
+African trypanosomiasis
+
+[African trypanosomiasis (sleeping sickness)](https://www.canada.ca/en/public-health/services/diseases/trypanosomiasis.html) is caused by a parasite spread through the bite of a tsetse fly. Tsetse flies usually bite during the day and the bites are usually painful. If untreated, the disease is eventually fatal. Risk is generally low for most travellers. Protect yourself from bites especially in game parks and rural areas. Avoid wearing bright or dark-coloured clothing as these colours attract tsetse flies. There is no vaccine available for this disease.
 
 ### Animal precautions
 
@@ -288,6 +289,12 @@ Travellers who may be at high risk while travelling in regions with risk of tube
 
 High-risk travellers include those visiting or working in prisons, refugee camps, homeless shelters, or hospitals, or travellers visiting friends and relatives.
 
+HIV 
+
+[HIV (Human Immunodeficiency Virus)](https://www.canada.ca/en/public-health/services/diseases/hiv-aids.html) is a virus that attacks and impairs the immune system, resulting in a chronic, progressive illness known as AIDS (Acquired Immunodeficiency Syndrome).
+
+High risk activities include anything which puts you in contact with blood or body fluids, such as unprotected sex and exposure to unsterilized needles for medications or other substances (for example, steroids and drugs), tattooing, body-piercing or acupuncture.
+
 Marburg virus disease
 
 Sporadic outbreaks of Marburg virus disease (MVD) may occur in this country.
@@ -301,12 +308,6 @@ Marburg virus is transmitted to people from fruit bats and spreads among humans 
 
 **Learn more:**  
 [Marburg virus disease](https://www.canada.ca/en/public-health/services/infectious-diseases/viral-haemorrhagic-fevers/marburg-virus-disease.html)
-
-HIV 
-
-[HIV (Human Immunodeficiency Virus)](https://www.canada.ca/en/public-health/services/diseases/hiv-aids.html) is a virus that attacks and impairs the immune system, resulting in a chronic, progressive illness known as AIDS (Acquired Immunodeficiency Syndrome).
-
-High risk activities include anything which puts you in contact with blood or body fluids, such as unprotected sex and exposure to unsterilized needles for medications or other substances (for example, steroids and drugs), tattooing, body-piercing or acupuncture.
 
 ### Medical services and facilities
 

@@ -1,7 +1,7 @@
 {
     "name": "Syria",
-    "update_reason": "Editorial change",
-    "update_date": "2025-03-12T11:16:00",
+    "update_reason": "Thorough review of the safety and security section",
+    "update_date": "2025-04-23T14:35:00",
     "sections": {
         "risk": "canada/Syria/risk.md",
         "security": "canada/Syria/security.md",

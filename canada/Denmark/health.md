@@ -57,14 +57,6 @@ Travellers to areas where TBE is found may be at higher risk  during April to N
 
 [Protect yourself from tick bites](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html). The vaccine is not available in Canada. It may be available in the destination you are travelling to.
 
-Rabies 
-
-In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/diseases/rabies) may be present in some wildlife species, including bats. Rabies is a deadly disease that spreads to humans primarily through bites or scratches from an infected animal.
-
-If you are bitten or scratched by an animal while travelling, immediately wash the wound with soap and clean water and see a health care professional.
-
-Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who will be working directly with wildlife.
-
 Measles 
 
 [Measles](https://www.canada.ca/en/public-health/services/diseases/measles.html) is a highly contagious viral disease. It can spread quickly from person to person by direct contact and through droplets in the air.
@@ -100,6 +92,14 @@ Influenza
 The flu vaccine available in one hemisphere may only offer partial protection against the flu in the other hemisphere.
 
 The flu virus spreads from person to person when they cough or sneeze or by touching objects and surfaces that have been contaminated with the virus. Clean your hands often and wear a mask if you have a fever or respiratory symptoms.
+
+Rabies 
+
+In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/diseases/rabies) may be present in some wildlife species, including bats. Rabies is a deadly disease that spreads to humans primarily through bites or scratches from an infected animal.
+
+If you are bitten or scratched by an animal while travelling, immediately wash the wound with soap and clean water and see a health care professional.
+
+Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who will be working directly with wildlife.
 
 ### Safe food and water precautions
 
@@ -182,7 +182,7 @@ If you take prescription medication, you’re responsible for determining their 
 * Pack your medication in your carry-on luggage
 * Carry a copy of your prescriptions
 
-[Bringing medicine into Denmark](https://laegemiddelstyrelsen.dk/en/pharmacies/medicines-imported-from-abroad/medicines-for-human-use/are-you-bringing-medicine-into-denmark/%22%20HYPERLINK%20%22https:/laegemiddelstyrelsen.dk/en/pharmacies/medicines-imported-from-abroad/medicines-for-human-use/are-you-bringing-medicine-into-denmark/) – Danish Medicines Agency
+[Medicines imported from abroad](https://laegemiddelstyrelsen.dk/en/pharmacies/medicines-imported-from-abroad/) – Danish Medicines Agency
 
 ### Keep in Mind...
 

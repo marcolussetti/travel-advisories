@@ -2,10 +2,6 @@
 
 ## Safety and security
 
-### Temporary land border closure with Ecuador
-
-Ecuador’s land border with Colombia will be closed to foreign nationals from April 11 to 14, 2025, during Ecuador’s national elections period.
-
 ### Dating applications
 
 ### Online dating applications

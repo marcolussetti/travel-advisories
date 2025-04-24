@@ -7,7 +7,7 @@
 * [Global Measles Notice](https://travel.gc.ca/travelling/health-safety/travel-health-notices/504) - 13 March, 2024
 * [COVID-19 and International Travel](https://travel.gc.ca/travelling/health-safety/travel-health-notices/513) - 13 March, 2024
 * [Diphtheria: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/528) - 8 April, 2024
-* [Polio: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/508) - 10 December, 2024
+* [Polio: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/508) - 22 April, 2025
 
 This section has information and advice about health risks you might face when travelling. Following this advice can help reduce your risk of getting sick. Not all risks are listed here.
 
@@ -58,6 +58,20 @@ Hepatitis A
 There is a risk of [hepatitis A](https://www.canada.ca/en/public-health/services/diseases/hepatitis-a.html) in this destination. It is a disease of the liver. People can get hepatitis A if they ingest contaminated food or water, eat foods prepared by an infectious person, or if they have close physical contact (such as oral-anal sex) with an infectious person, although casual contact among people does not spread the virus.
 
 Practise [safe food and water precautions](https://travel.gc.ca/travelling/health-safety/food-water) and wash your hands often. Vaccination is recommended for all travellers to areas where hepatitis A is present.
+
+Measles 
+
+[Measles](https://www.canada.ca/en/public-health/services/diseases/measles.html) is a highly contagious viral disease. It can spread quickly from person to person by direct contact and through droplets in the air.
+
+Anyone who is not protected against measles is at risk of being infected with it when travelling internationally.
+
+Regardless of where you are going, talk to a health care professional before travelling to make sure you are fully protected against measles.
+
+Hepatitis B
+
+[Hepatitis B](https://www.canada.ca/en/public-health/services/diseases/hepatitis-b.html) is a risk in every destination. It is a viral liver disease that is easily transmitted from one person to another through exposure to blood and body fluids containing the hepatitis B virus.  Travellers who may be exposed to blood or other bodily fluids (e.g., through sexual contact, medical treatment, sharing needles, tattooing, acupuncture or occupational exposure) are at higher risk of getting hepatitis B.
+
+Hepatitis B vaccination is recommended for all travellers. [Prevent hepatitis B](https://www.canada.ca/en/public-health/services/diseases/hepatitis-b/prevention-risks.html#a2) infection by practicing safe sex, only using new and sterile drug equipment, and only getting tattoos and piercings in settings that follow public health regulations and standards.
 
 Influenza
 
@@ -120,20 +134,6 @@ This destination is subject to Temporary Recommendations under the World Health 
 **Temporary Recommendations (WHO):**
 
 * Travellers who are visiting for longer than 4 weeks may be required to receive a dose of polio vaccine 1 to 12 months before they leave this destination. This may be required even if you have previously received all the recommended polio vaccine doses as part of the routine vaccine schedule in Canada.
-Measles 
-
-[Measles](https://www.canada.ca/en/public-health/services/diseases/measles.html) is a highly contagious viral disease. It can spread quickly from person to person by direct contact and through droplets in the air.
-
-Anyone who is not protected against measles is at risk of being infected with it when travelling internationally.
-
-Regardless of where you are going, talk to a health care professional before travelling to make sure you are fully protected against measles.
-
-Hepatitis B
-
-[Hepatitis B](https://www.canada.ca/en/public-health/services/diseases/hepatitis-b.html) is a risk in every destination. It is a viral liver disease that is easily transmitted from one person to another through exposure to blood and body fluids containing the hepatitis B virus.  Travellers who may be exposed to blood or other bodily fluids (e.g., through sexual contact, medical treatment, sharing needles, tattooing, acupuncture or occupational exposure) are at higher risk of getting hepatitis B.
-
-Hepatitis B vaccination is recommended for all travellers. [Prevent hepatitis B](https://www.canada.ca/en/public-health/services/diseases/hepatitis-b/prevention-risks.html#a2) infection by practicing safe sex, only using new and sterile drug equipment, and only getting tattoos and piercings in settings that follow public health regulations and standards.
-
 COVID-19
 
 [Coronavirus disease (COVID-19)](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html) is an infectious viral disease. It can spread from person to person by direct contact and through droplets in the air.
@@ -308,6 +308,12 @@ Travellers who may be at high risk while travelling in regions with risk of tube
 
 High-risk travellers include those visiting or working in prisons, refugee camps, homeless shelters, or hospitals, or travellers visiting friends and relatives.
 
+HIV 
+
+[HIV (Human Immunodeficiency Virus)](https://www.canada.ca/en/public-health/services/diseases/hiv-aids.html) is a virus that attacks and impairs the immune system, resulting in a chronic, progressive illness known as AIDS (Acquired Immunodeficiency Syndrome).
+
+High risk activities include anything which puts you in contact with blood or body fluids, such as unprotected sex and exposure to unsterilized needles for medications or other substances (for example, steroids and drugs), tattooing, body-piercing or acupuncture.
+
 Ebola disease
 
 Sporadic outbreaks of [Ebola disease](https://www.canada.ca/en/public-health/services/diseases/ebola.html) occur in this country.
@@ -331,12 +337,6 @@ Marburg virus is transmitted to people from fruit bats and spreads among humans 
 
 **Learn more:**  
 [Marburg virus disease](https://www.canada.ca/en/public-health/services/infectious-diseases/viral-haemorrhagic-fevers/marburg-virus-disease.html)
-
-HIV 
-
-[HIV (Human Immunodeficiency Virus)](https://www.canada.ca/en/public-health/services/diseases/hiv-aids.html) is a virus that attacks and impairs the immune system, resulting in a chronic, progressive illness known as AIDS (Acquired Immunodeficiency Syndrome).
-
-High risk activities include anything which puts you in contact with blood or body fluids, such as unprotected sex and exposure to unsterilized needles for medications or other substances (for example, steroids and drugs), tattooing, body-piercing or acupuncture.
 
 ### Medical services and facilities
 

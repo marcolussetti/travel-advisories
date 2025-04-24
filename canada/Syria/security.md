@@ -2,13 +2,13 @@
 
 ## Safety and security
 
-### Security situation in Syria
+### Security situation
 
-The security situation remains volatile. Localized armed clashes and airstrikes are ongoing in several governorates.
+The security situation remains volatile following the collapse of the former regime in December 2024. Localized clashes between opposing armed groups and airstrikes continue to occur in several governorates across Syria.
 
-Damascus and Aleppo airports have resumed operations, but most airlines are still suspending flights to and from Syria. Confirm the status of your flight with your airline before going to the airport.
+Damascus airport is operational and Aleppo airport has resumed limited commercial operations, but several airlines are still suspending flights to and from Syria. Confirm the status of your flight with your airline before going to the airport.
 
-The border crossings with Lebanon, Jordan and Iraq are open. However, they may close with little notice. Verify their status before you travel.
+Land border crossings may close with little notice. Verify their status before you travel.
 
 The Canadian Government does not have an office in Syria. If you or your family require assistance, contact Global Affairs Canada's 24/7 [Emergency Watch and Response Centre](https://travel.gc.ca/assistance/emergency-assistance).
 
@@ -24,55 +24,34 @@ You should also:
 * [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration)
 * [More information on security situation](https://travel.gc.ca/destinations/syria#security_situation)
 
-### Information for Canadians in the Middle East
+On December 8, 2024, opposition forces took control of Syria’s capital, Damascus, toppling the former regime.
 
-Heightened tensions in the region could pose security risks in neighbouring countries.
+The change in power has exacerbated longstanding sectarian tensions. In March 2025, violent armed clashes erupted between groups loyal to the former regime and security forces from the interim government, leading to several casualties, both civilian and combatants. The situation remains volatile.
 
-This may result in:
+The interim government is working to dismantle regional armed factions. Efforts remain ongoing to fully implement an agreement to integrate the Syrian Democratic Forces (SDF), mostly present in northeastern Syria, into Syria’s military institutions by the end of 2025.
 
-* travel disruptions, including flight cancellations and airspace closures
-* military debris falling in various locations
+Israeli air strikes on military targets continue to occur, especially in western governorates.
 
-You should:
+The Government of Canada has urged Canadians to leave Syria since November 2011.
 
-* monitor local and international media to stay informed of the rapidly evolving situation
-* follow the instructions of local authorities at all times
-* be vigilant and prepared to shelter in place
-
-If you encounter any debris or fragments:
-
-* move away from them immediately
-* contact local authorities
-
-### Security situation
-
-The Syrian conflict began in 2011, and Syria remains an active conflict zone in which the security situation could worsen with little warning.
-
-The Government of Canada has urged Canadians to leave Syria since November 2011. Commercial means to leave the country are limited. Most commercial airlines have suspended their flights. Airports in Damascus and Aleppo are currently closed because of the ongoing fighting. Access to the airports may be impeded due to the volatile security situation.
-
-The Syrian regime and its allies conduct regular strikes in northwest Syria despite a ceasefire agreed to in 2020. Since September 2014, the global coalition against Daesh has carried out aerial bombardment operations on terrorist targets across the northeast. There is also frequent shelling by Türkiye near the northern border due to longstanding tension between Syrian Kurdish groups and neighbouring Türkiye.
-
-Central and southern Syria are unstable and dangerous due to sporadic airstrikes against Iranian-aligned targets. Occasional active fighting between opposition and regime forces, as well as drug-smuggling activities in the area, pose an additional security threat. Syria's chemical and biological weapons program and their historic use on civilians contribute to the volatile situation.
-
-The use of small arms, tanks, artillery and aircraft is common. Common war tactics have also involved:
-
-* blockading entire cities for months or years with little or no warning
-* denying entry to humanitarian aid workers and supplies into cities
-
-If you attempt to travel to Syria, you expose yourself to grave risk. In addition to threats from war, terrorism, criminality, arbitrary detention, torture and forced disappearance by the Syrian regime are ongoing threats.
-
-The Embassy of Canada in Damascus has suspended its operations. Our ability to provide consular assistance and other support in Syria is extremely limited.
-
-Do not travel to Syria. If you choose to travel to Syria, or remain in the country, despite this advisory:
+If you choose to travel to Syria, or remain in the country, despite this advisory:
 
 * keep in mind that you are responsible for your own safety and that of your family
 * ensure that your travel documents are up to date
 
 ### Terrorism
 
-There is a significant threat of terrorism in Syria. Extremist groups control parts of the country and pose a dangerous risk to foreigners. Terrorist attacks including suicide bombings, car bombings and other violent incidents occur regularly, resulting in civilian casualties.
+There is a threat of terrorism in Syria.
 
-Further attacks are likely, and the security situation could worsen with little warning.
+Despite international counter-terrorism operations, terrorist actors remain active in the country and could take advantage of the political instability to carry out attacks.
+
+Attacks, both targeted and indiscriminate, are unpredictable. They could involve the following types of weapons and/or devices:
+
+* suicide vests
+* improvised explosive devices (IEDs)
+* vehicle-borne IEDs
+* rockets and mortars
+* assault weapons
 
 Targets could include:
 
@@ -82,7 +61,7 @@ Targets could include:
 * public areas such as tourist attractions, restaurants, coffee shops, shopping centres, markets, hotels and other sites frequented by foreigners
 * residential areas
 
-Always be aware of your surroundings when in public places. Be particularly vigilant during:
+Be particularly vigilant during:
 
 * religious holidays
 * public celebrations
@@ -92,11 +71,15 @@ Terrorists may use such occasions to mount attacks.
 
 ### Crime
 
-The crime rate has increased significantly in Syria. State and non-state actors engage in criminal markets. Smuggling and trafficking routes have greatly expanded throughout southwestern Syria. There is widespread corruption and bribery throughout the country. Petty crime, such as pickpocketing and purse snatching, occurs.
+There is a high crime rate. Smuggling and trafficking activities occur in southwestern Syria, especially along the border with Iraq.
+
+There is widespread corruption and bribery throughout the country. Petty crime, such as pickpocketing and purse snatching, occurs.
 
 * Avoid travelling at night
-* Avoid showing signs of wealth
-* Ensure that your belongings, including your passport and other travel documents, are secure at all times
+* Do not show signs of affluence or wear expensive jewellery
+* Do not carry large sums of cash or valuables unnecessarily
+* Keep your personal belongings, including your passport and other travel documents, in a secure place
+* Avoid isolated areas
 
 ### Kidnapping
 
@@ -107,9 +90,9 @@ Kidnapping for ransom is a frequent phenomenon in various parts of the country, 
 
 ### Demonstrations
 
-Demonstrations rarely occur. Security forces and the military use excessive force to suppress uprisings and demonstrations throughout Syria.
+Demonstrations occur. Security forces may use excessive force to disperse crowds.
 
-Peaceful demonstrations frequently turn violent. They lead to disruptions to traffic and public transportation. Civilians are frequently arrested without cause and for being near the site of a demonstration.
+Even peaceful demonstrations can turn violent at any time. They can lead to disruptions to traffic and public transportation.
 
 * Avoid areas where demonstrations and large gatherings are taking place
 * Follow the instructions of local authorities

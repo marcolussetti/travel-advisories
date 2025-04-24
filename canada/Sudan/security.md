@@ -2,57 +2,48 @@
 
 ## Safety and security
 
-### Fighting throughout Sudan
+### Ongoing hostilities throughout Sudan
 
-The security situation in Sudan has been very dangerous since fighting broke out between the army and paramilitary forces on April 15, 2023. Heavy gunfire and explosions have occurred across the country, resulting in numerous casualties, including civilians. There are also reports of attacks and sexual assaults, including rape. Foreigners and staff of international organizations have been targeted.
+Since April 2023, there has been heavy fighting throughout the country, including in the capital, Khartoum, between the Sudanese army, a paramilitary group, and other affiliated armed groups. The security situation remains highly volatile and clashes are likely to continue in the near future. The civilian population has been the victim of violence, including sexual violence. Foreigners and employees of international organizations have also been targeted by these attacks. The situation could deteriorate further.
 
-Access to essential services is disrupted. Most hospitals are out of service. Access to basic necessities such as food, water, medication, and fuel is increasingly challenging. The telecommunication network is unreliable.
+You should leave the country now if you can do so safely.
 
-All airports are closed to commercial flights. All overland travel is extremely hazardous.
+The conflict has severely disrupted essential services, including medical care, banking services, electricity and telecommunications. Access to basic necessities such as food, water, medication, and fuel is extremely challenging. The hostilities led to mass displacements within the country and the region, resulting in a dire humanitarian situation.
 
-The Embassy of Canada in Sudan has temporarily suspended its operations and our evacuation flights have ended. Our ability to provide consular services is extremely limited. Commercial onward options may be available to depart Sudan via Port Sudan. However, you should carefully assess the travel routes before deciding to go there.
-
-The security situation is highly volatile. Clashes are likely to continue in the near future. The situation could deteriorate further. You should leave the country now if you can do so safely.
+Khartoum’s international airport remains closed, but there may be commercial departure options from Port Sudan, including flights. You should carefully assess the travel routes before going there as all overland travel remains extremely hazardous due to ongoing fighting.
 
 If you are currently in Sudan and choose to stay despite this advisory:
 
 * keep in mind that you are responsible for your own safety and that of your family
 * use your judgment to decide the best time and the safest means to move to a safer location if you think it's required
 * shelter in a safe place if you are not travelling to leave the country
-* avoid travelling to the Wadi Seidna Airfield
 * ensure that you have essential supplies, including food, water and fuel
 * keep your doors and windows locked at all times
 * keep your phone charged at all times
 * ensure that your passport and other travel documents are up-to-date and secure at all times
 * register or update your personal information through the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service and encourage other Canadian citizens in Sudan to do so
 * monitor the local and international media to stay informed on the evolving situation
-* follow the advice of local authorities
 
 [Canada’s response to the crisis in Sudan](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/sudan-soudan.aspx?lang=eng) – Government of Canada
 
 ### Political situation
 
-The country remains without a functioning government following a seizure of power by the military on October 25, 2021, and the resignation of the prime minister on January 2, 2022.
-
-Frequent demonstrations are continuing to take place in various cities, particularly in Khartoum and Omdurman.
-
-Clashes between protestors and security forces have occurred. Security forces have used excessive and lethal force to disperse crowds, which has resulted in numerous casualties. They have also arrested an unknown number of activists and protestors.
-
-Access to cellular service (both phone and internet) is periodically restricted throughout the country. During days of planned demonstrations, roadblocks have been set up on the bridges linking Khartoum to the suburbs and checkpoints have been established.
-
-There is uncertainty surrounding the current political arrangement, and the situation could deteriorate quickly. Access to essential services could be disrupted without notice.  Access to cellular service (both phone and internet) is periodically restricted throughout the country.
+The political situation in Sudan remains very unstable following the coup d’État in 2021. Since April 2023, a violent armed conflict has been taking place between the Sudanese army, a paramilitary group and other affiliated armed groups throughout the country.
 
 If you are in Sudan:
 
 * limit your movements
+* be extremely careful
 * maintain low profile
 * avoid all demonstrations and large gatherings
-* monitor the local media to stay informed on the evolving situation
+* monitor local and international media to stay informed on the evolving situation
 * follow the advice of local authorities
 
 ### Demonstrations
 
-Demonstrations take place regularly. Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation.
+Prior to the current conflict, large-scale demonstrations took place to demand the establishment of a democratically elected government. Security forces have used excessive and lethal force to disperse crowds, which has resulted in numerous casualties. Security forces have arrested an important number of activists and protestors. There continue to be reports of arbitrary arrests and detention in Khartoum and across the country, regardless of the presence of demonstrations.
+
+Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation.
 
 * Avoid areas where demonstrations and large gatherings are taking place
 * Follow the instructions of local authorities

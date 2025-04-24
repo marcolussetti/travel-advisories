@@ -11,7 +11,7 @@ During the state of emergency:
 * you should always carry valid ID as security forces may ask to see it
 * you cannot have a passenger on a motorcycle
 
-More information on [state of emergency](#emergencies)
+More information on [state of emergency](#Emergencies)
 
 ### Demonstrations and strikes
 

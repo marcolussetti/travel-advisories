@@ -1,7 +1,7 @@
 {
     "name": "Malawi",
     "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
-    "update_date": "2025-04-08T10:55:00",
+    "update_date": "2025-04-22T14:46:00",
     "sections": {
         "risk": "canada/Malawi/risk.md",
         "security": "canada/Malawi/security.md",
