@@ -33,6 +33,7 @@ If you have immediate concerns for your welfare or the welfare of another Austra
 
 * [General health advice](/before-you-go/health "Taking care of your health")
 * [Healthy holiday tips](https://www.healthdirect.gov.au/healthy-holiday-tips-infographic) (Healthdirect Australia)
+* [Going overseas for sports and adventure](https://www.smartraveller.gov.au/before-you-go/activities/adventure)
 
 #### Medications
 
@@ -108,6 +109,6 @@ Seek urgent medical help if you have a fever or diarrhoea.
 
 #### Medical care
 
-Medical facilities in Guyana are very limited. They lack trained specialists and medical equipment. Hygiene standards are poor.
+Medical facilities in Guyana are very limited, and even more so in remote areas. They lack trained specialists and medical equipment. Hygiene standards are poor.
 
 If you become seriously ill or injured, you'll be evacuated to a place with better facilities, such as the US. Medical evacuation can be very expensive.

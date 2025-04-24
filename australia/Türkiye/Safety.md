@@ -145,6 +145,97 @@ Be prepared to change your travel plans. Contact your airline, travel agent or i
 
 * [Demonstrations and civil unrest](/news-and-updates/demonstrations-and-unrest "Demonstrations and unrest")
 
+#### Climate and natural disasters
+
+Türkiye experiences [natural disasters](/before-you-go/safety/natural-disasters "Staying safe when there's a natural disaster") and [severe weather](/while-youre-away/crisis-or-emergency/severe-weather-incident "There's a severe weather incident"), including:
+
+* [earthquakes](/before-you-go/safety/earthquakes-tsunamis "Earthquakes and tsunamis")
+* floods
+* drought
+* fire
+
+If there is a natural disaster or severe weather event:
+
+* secure your passport in a safe, waterproof location
+* keep in contact with friends and family
+* monitor the media and other sources, such as the [Global Disaster Alert and Coordination System](http://gdacs.org/)
+* follow the advice of local authorities
+
+#### Earthquakes
+
+[Earthquakes](/while-youre-away/crisis-or-emergency/earthquake "There's been an earthquake or tsunami") are a constant risk in Türkiye. There have been major earthquakes in recent years, including:
+
+* 23 April 2025 in the Sea of Marmara off Istanbul, and
+* February 2023 when 2 earthquakes occurred in Kahramanmaras province, close to Gaziantep, causing mass fatalities.
+
+The North Anatolian fault runs 20km south of Istanbul and is one of the world's most active. Large, damaging earthquakes could happen at any time. Aftershocks can continue for days or weeks. Know the dangers of a major earthquake in your area and where your local shelter is located.
+
+When an earthquake happens, you should drop, cover and hold. If an earthquake is long or strong and you're near the coast or other large body of water, you should go to higher ground immediately.
+
+If you're indoors during an earthquake:
+
+* move no more than a few steps to a heavy, solid object you can get underneath, and hold onto it
+* don't try to run outside
+* stay indoors until the shaking stops
+* stay away from windows, chimneys, and shelves with heavy objects
+
+If you're in bed:
+
+* hold onto the bed and stay where you are
+* protect your head and body with a pillow and blankets
+
+If you're outdoors:
+
+* move to the nearest clear spot
+* keep away from buildings, trees and power lines
+* drop to the ground
+
+If you're in a car:
+
+* slow down
+* drive to a clear place away from buildings, trees and power lines
+* stay in the car with your seatbelt on until the shaking stops
+
+If you're in a lift:
+
+* stop at the nearest floor and get out
+
+After the earthquake finishes:
+
+* be aware of possible tsunami risks
+* prepare for travel delays
+* reconfirm your travel arrangements
+* check your accommodation with travel agents and tour operators
+* let your family/friends know that you're safe
+
+During a crisis, local authorities are responsible for helping people living or travelling within their jurisdictions.
+
+**More information**
+
+* [Earthquakes and Tsunamis](/before-you-go/safety/earthquakes-tsunamis "Earthquakes and tsunamis")
+
+#### Fire
+
+Bush and forest fires often occur during the summer months, from June to September. Conditions can change quickly. Monitor the local media and follow the advice of local authorities. Read our advice on what to do if you're overseas and [there's a bushfire near you](/while-youre-away/crisis-or-emergency/bushfire "There's a bushfire")[.](https://www.smartraveller.gov.au/while-youre-away/crisis-or-emergency/bushfire) 
+
+These are most common in heavily forested areas with high temperatures and low rainfall.
+
+Fires have burned close to holiday areas, including:
+
+* the Aegean coast
+* the Mediterranean coast
+* the Gallipoli peninsula
+
+#### Floods
+
+Severe rainstorms can cause flooding and landslides across Türkiye, hampering overland travel and reducing the provision of essential services. Roads may become impassable, and bridges may be damaged.
+
+#### Drought
+
+Severe drought conditions can affect the water supply to several cities.
+
+Running water may not be available in many places, including hotels.
+
 #### Crime
 
 #### Theft and assault
@@ -267,96 +358,6 @@ Report suspected cases of methanol poisoning to the police.
 **More information:**
 
 * [Partying safely](/node/365)
-
-#### Climate and natural disasters
-
-Türkiye experiences [natural disasters](/before-you-go/safety/natural-disasters "Staying safe when there's a natural disaster") and [severe weather](/while-youre-away/crisis-or-emergency/severe-weather-incident "There's a severe weather incident"), including:
-
-* [earthquakes](/before-you-go/safety/earthquakes-tsunamis "Earthquakes and tsunamis")
-* floods
-* drought
-* fire
-
-If there is a natural disaster or severe weather event:
-
-* secure your passport in a safe, waterproof location
-* keep in contact with friends and family
-* monitor the media and other sources, such as the [Global Disaster Alert and Coordination System](http://gdacs.org/)
-* follow the advice of local authorities
-
-#### Fire
-
-Bush and forest fires often occur during the summer months, from June to September. Conditions can change quickly. Monitor the local media and follow the advice of local authorities. Read our advice on what to do if you're overseas and [there's a bushfire near you](/while-youre-away/crisis-or-emergency/bushfire "There's a bushfire")[.](https://www.smartraveller.gov.au/while-youre-away/crisis-or-emergency/bushfire) 
-
-These are most common in heavily forested areas with high temperatures and low rainfall.
-
-Fires have burned close to holiday areas, including:
-
-* the Aegean coast
-* the Mediterranean coast
-* the Gallipoli peninsula
-
-#### Earthquakes
-
-[Earthquakes](/while-youre-away/crisis-or-emergency/earthquake "There's been an earthquake or tsunami") are a constant risk in Türkiye. There have been major earthquakes in recent years, including in February 2023, when 2 earthquakes occurred in Kahramanmaras province, close to Gaziantep, causing mass fatalities.
-
-The North Anatolian fault runs 20km south of Istanbul and is one of the world's most active. Know the dangers of a major earthquake in your area and where your local shelter is located.
-
-Large, damaging earthquakes could happen at any time. Aftershocks can continue for days or weeks.
-
-When an earthquake happens, you should drop, cover and hold. If an earthquake is long or strong and you're near the coast or other large body of water, you should go to higher ground immediately.
-
-If you're indoors during an earthquake:
-
-* move no more than a few steps to a heavy, solid object you can get underneath, and hold onto it
-* don't try to run outside
-* stay indoors until the shaking stops
-* stay away from windows, chimneys, and shelves with heavy objects
-
-If you're in bed:
-
-* hold onto the bed and stay where you are
-* protect your head and body with a pillow and blankets
-
-If you're outdoors:
-
-* move to the nearest clear spot
-* keep away from buildings, trees and power lines
-* drop to the ground
-
-If you're in a car:
-
-* slow down
-* drive to a clear place away from buildings, trees and power lines
-* stay in the car with your seatbelt on until the shaking stops
-
-If you're in a lift:
-
-* stop at the nearest floor and get out
-
-After the earthquake finishes:
-
-* be aware of possible tsunami risks
-* prepare for travel delays
-* reconfirm your travel arrangements
-* check your accommodation with travel agents and tour operators
-* let your family/friends know that you're safe
-
-During a crisis, local authorities are responsible for helping people living or travelling within their jurisdictions.
-
-**More information**
-
-* [Earthquakes and Tsunamis](/before-you-go/safety/earthquakes-tsunamis "Earthquakes and tsunamis")
-
-#### Floods
-
-Severe rainstorms can cause flooding and landslides across Türkiye, hampering overland travel and reducing the provision of essential services. Roads may become impassable, and bridges may be damaged.
-
-#### Drought
-
-Severe drought conditions can affect the water supply to several cities.
-
-Running water may not be available in many places, including hotels.
 
 #### Tours and adventure activities
 

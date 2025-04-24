@@ -2,7 +2,7 @@
 
 Latest update
 
-We continue to advise exercise a high degree of caution in Guyana due to the threat of violent crime. Tension between Guyana and Venezuela has increased. The security situation may deteriorate near the Venezuelan border. If you choose to travel in this area, monitor local media and follow the advice of local authorities.
+We've reviewed our advice for Guyana and continue to advise exercise a high degree of caution due to the threat of violent crime. There's continuing tension between Guyana and Venezuela. The security situation may deteriorate near the Venezuelan border. If you choose to travel in this area, monitor local media and follow the advice of local authorities. Guyana has introduced a digital Immigration and Customs form for entry and exit.
 
 Advice Level summary
 
@@ -25,7 +25,7 @@ See [Safety](#safety)
 ### Safety
 
 * Violent crime such as armed robberies, kidnapping, shootings and carjackings are a risk. These can result in injury or death. Risks increase after dark.
-* Tension between Guyana and Venezuela has increased. The security situation may deteriorate in the area near the Venezuelan border.
+* There's continuing tension between Guyana and Venezuela. The security situation may deteriorate in the area near the Venezuelan border.
 * Border disputes occur on the Suriname–Guyana and Venezuela–Guyana borders. Only use official crossing points.
 * Avoid protests and large public gatherings. These can turn violent.
 * Hotels may not meet fire safety standards. Know your hotel's evacuation plans and talk to hotel staff.
@@ -38,7 +38,7 @@ Full travel advice: [Safety](#safety)
 * Malaria is a risk at all times of the year. Risk of other insect-borne diseases increases during the rainy seasons. Make sure your accommodation is insect-proof. Use insect repellent.
 * HIV/AIDS is common. Take precautions to protect yourself from the risk of infection.
 * Waterborne, foodborne and other infectious diseases are common. This includes typhoid, hepatitis, leptospirosis, and rabies. Boil drinking water or drink bottled water. Avoid undercooked food.
-* Medical facilities have poor hygiene standards and lack equipment and trained staff. You may need to seek treatment outside of Guyana.
+* Medical facilities have poor hygiene standards and lack equipment and trained staff. Facilities are limited in remote areas. You may need to seek treatment outside of Guyana.
 
 Full travel advice: [Health](#health)
 
@@ -54,6 +54,7 @@ Full travel advice: [Local laws](#local-laws)
 ### Travel
 
 * Australians visiting Guyana don't need a visa to enter.
+* Guyana has introduced a digital Immigration and Customs form for entry and exit. This form must be completed within 48 hours prior to travel. Visit the [Guyana online Immigration and Customs portal](https://ed.gpf.gov.gy/#/) to complete the form.
 * Entry and exit conditions can change at short notice. You should contact the nearest high commission or consulate of Guyana for the latest details.
 * You'll need a yellow fever vaccination certificate. You'll have to present one when you arrive in Guyana if you're travelling from a country with widespread yellow fever. Some airlines require one before you can board flights out of Guyana.
 * Border disputes occur on the Suriname–Guyana and Venezuela–Guyana borders. Only use official crossing points. If you travel to the border area, the security situation may deteriorate quickly. Monitor media and follow the advice of local authorities.

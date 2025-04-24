@@ -4,6 +4,8 @@ Latest update
 
 There have been large protests across Türkiye, including in Istanbul. Demonstrations and protests may continue and may turn violent. A protest ban is in effect and there are restrictions to freedom of movement for those suspected of participating in protests. This is likely to be strictly enforced. Avoid protests and large public gatherings. Monitor the media and follow the advice of local authorities (see 'Safety').  
   
+There's an ongoing risk of earthquakes in parts of Türkiye. Aftershocks can continue for days or weeks. Know the dangers of a major earthquake in your area and where your local shelter is (see 'Safety').  
+  
 There have been several recent deaths reported in Istanbul and Ankara from methanol in counterfeit drinks. Stick to reputable venues and be wary of suspiciously cheap alcohol (see 'Safety').  
   
 You'll need an e-visa for tourism or business if you're staying for less than 90 days. If you're travelling to Türkiye to commemorate ANZAC Day, understands the risks and plan ahead (see ‘Travel’).
@@ -42,12 +44,12 @@ See [Safety](#safety)
 
 ### Safety
 
-* There have been large protests across Türkiye, including in Istanbul. Demonstrations and protests may continue and may turn violent.   A protest ban is in effect and there are restrictions to freedom of movement for those suspected of participating in protests.  This is likely to be strictly enforced.   Avoid protests and large public gatherings. Monitor the media and follow the advice of local authorities.
+* There have been large protests across Türkiye, including in Istanbul. Demonstrations and protests may continue and may turn violent.   A protest ban is in effect and there are restrictions to freedom of movement for those suspected of participating in protests.  This is likely to be strictly enforced. Avoid protests and large public gatherings. Monitor the media and follow the advice of local authorities.
+* There's an ongoing risk of earthquakes in parts of Türkiye. Aftershocks can continue for days or weeks. Know the dangers of a major earthquake in your area and where your local shelter is.
 * There's an ongoing high threat of terrorist attacks in Türkiye. Possible targets include tourist areas, transport networks, shopping malls, hotels, places of worship and diplomatic premises. Be alert to potential threats, especially in locations frequented by foreigners. Avoid crowds, keep a low profile and be aware of your surroundings. Monitor the media for updates and follow the advice of local authorities.
 * Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions. Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests.
 * The ongoing conflict may also result in airspace closures, flight cancellations and other travel disruptions across the region.
 * There have been several recent deaths reported in Türkiye from methanol in counterfeit drinks. Be alert to the potential risks around food and drink spiking and methanol poisoning. See our advice on [partying safely while overseas](https://www.smartraveller.gov.au/before-you-go/safety/partying). Toxic substances, including methanol, could be mixed into alcoholic drinks. Drink only at reputable venues. Avoid homemade alcohol. Get medical help straight away if you suspect poisoning.
-* There's an ongoing risk of earthquakes in parts of Türkiye. Know the dangers of a major earthquake in your area and where your local shelter is.
 
 Full travel advice:  [Safety](#safety)
 

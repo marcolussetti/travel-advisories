@@ -25,7 +25,7 @@ Many criminals carry firearms. They may kill or injure you if you resist.
 
 Police response times are poor. Most murders and major crimes go unsolved.
 
-On roads, the threat of serious crime is high. Australian Government officials take extra security precautions when travelling by car in Venezuela.
+On roads, the threat of serious crime is high.
 
 Crimes you could come across include:
 
@@ -41,6 +41,14 @@ Petty crime is also common. This includes:
 
 * pickpocketing on public transport
 * theft from hotel rooms, safe deposit boxes and rental cars
+
+#### Drink spiking
+
+Drink spiking can happen anywhere. Be alert to the potential risks, and don't leave food or drinks unattended. Pay attention when your drinks are being mixed. Stick to reputable venues and avoid homemade alcoholic drinks due to the risk of methanol poisoning. Get urgent medical help if you suspect you’ve been a victim.
+
+**More information:**
+
+* [Partying safely while overseas](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.smartraveller.gov.au%2Fbefore-you-go%2Fsafety%2Fpartying&data=05%7C02%7CMichelle.Lam%40dfat.gov.au%7Cbd0cd565db744527188508dd41a4930d%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638738897282360647%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=8hzP1P0iV92Jm88KsRyu4DlEadlSJN77OY%2FyBZsYuRk%3D&reserved=0)
 
 If you're in Venezuela, you should consider leaving by commercial means if it's safe to do so. If despite our advice you remain in Venezuela, stay alert, keep stocks of essential supplies and be ready to leave at short notice.
 
@@ -63,7 +71,7 @@ Crime is also high in:
 
 If you go to Venezuela despite our advice, arrive and leave Caracas during the day. Organise your transport before you arrive at the airport.
 
-If possible, have a friend, family member or trusted transport service pick you up on arrival. Only use official taxis that you have booked through your hotel or from the official taxi rank outside the airport arrival hall. Be cautious of fake taxi drivers at the airport. Don't accept offers of transport in the arrivals hall, and do not board a taxi if there are other passengers already inside the car. Stay alert at the airport car park.
+If possible, have a friend, family member or trusted transport service pick you up on arrival. Only use official taxis that you have booked through your hotel or from the official taxi rank outside the airport arrival hall. Be cautious of fake taxi drivers at the airport. Don't accept offers of transport in the arrivals hall, and do not enter a taxi if there are other passengers already inside the car. Stay alert at the airport car park.
 
 Criminal groups operate in the Maiquetia airport area. Members of these groups work inside the airport to spot passengers who appear to be wealthy and then inform carjackers and muggers waiting on the roads outside the airport. Avoid displaying expensive jewellery, electronic items or other valuables. Don't bring large amounts of cash to Venezuela.
 
@@ -87,12 +95,6 @@ If you're female, take extra care when dealing with strangers or people you've j
 
 Check the local situation before travelling to Canaima National Park and the Gran Sabana area of Bolívar State, as there may be protests and closures (sometimes for days) of Canaima airport and main roads.
 
-Drink spiking can happen anywhere. Be alert to the potential risks, and don't leave food or drinks unattended. Pay attention when your drinks are being mixed. Stick to reputable venues and avoid homemade alcoholic drinks due to the risk of methanol poisoning. Get urgent medical help if you suspect you’ve been a victim.
-
-**More information:**
-
-* [Partying safely while overseas](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.smartraveller.gov.au%2Fbefore-you-go%2Fsafety%2Fpartying&data=05%7C02%7CMichelle.Lam%40dfat.gov.au%7Cbd0cd565db744527188508dd41a4930d%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638738897282360647%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=8hzP1P0iV92Jm88KsRyu4DlEadlSJN77OY%2FyBZsYuRk%3D&reserved=0)
-
 #### Incapacitating drugs
 
 Criminals may use drugs to subdue or incapacitate their victims. Robberies and assaults may occur after victims accept spiked drinks, food, cigarettes, chewing gum or paper handouts.
@@ -111,28 +113,51 @@ Social media can also be risky in destinations where there are social or politic
 
 #### Kidnapping
 
-Kidnapping occurs across the world with political, ideological, and criminal motives. Foreigners, including Australians, have been kidnapped overseas whilst travelling. Kidnaps can happen anywhere, anytime, including in destinations that are typically at lower risk.
+Kidnapping occurs across the world with political, ideological, and criminal motives. Foreigners, including Australians, have been kidnapped overseas whilst travelling. Kidnaps can happen anywhere, anytime, including destinations that are typically at lower risk.   
+   
+Kidnapping is a serious threat in Venezuela. Incidents of kidnapping in Venezuela have increased since 2020, partly due to the increased availability of foreign currency, which acts as an incentive for perpetrators to engage in the crime.
 
-Incidents of kidnapping in Venezuela have increased since 2020, partly due to the increased availability of foreign currency, which acts as an incentive for perpetrators to engage in the crime. Kidnapping gangs operate throughout the country, including near the border with Columbia. Criminal and Terrorist groups are active. Express kidnapping also occurs.
+Kidnapping gangs operate throughout the country, including in Caracas and near the border with Colombia. Criminal and terrorist groups are active. Express kidnappings also occur.
 
-If, despite our advice, you travel to an area with a high risk of kidnapping, our ability to provide consular assistance in these destinations will be limited.
+The kidnapping risk is higher along airport routes and in border regions. Only use official taxis organised through your hotel. Avoid kidnapping hotspots.    
+   
+If despite our advice, you travel to an area with a high risk of kidnapping our ability to provide consular assistance in these destinations is limited.    
+   
+You are responsible for your own safety. To reduce the risk of kidnapping:
 
-To reduce the risk of kidnapping:
+* always be alert to your personal security and surroundings - avoid distractions. Be prepared to stop or take evasive action if you sense danger
 
-* always be alert to your personal security and surroundings
-* get professional security advice for travel in locations with a heightened kidnap risk
+* get professional security advice for travel in locations with a heightened kidnap risk. It is essential to have a contingency plan
+
 * check your accommodation has appropriate security measures
-* avoid isolated locations, particularly when travelling alone
-* notify family or friends of planned travel and share your location
+
+* vary your movements so you don't set predictable patterns
+
+* keep a low profile – including online. Drawing attention to yourself in high-risk areas may signal to criminals that you have something worth taking
+
+* avoid isolated locations, particularly when travelling alone. There is safety in numbers, and you should try to travel with someone else, especially at night
+
+* notify family or friends of planned travel; share your location and emergency contacts that they can rely on if something happens
+
 * avoid talking about your money or business affairs
+
 * use ATMs in public places and during daylight hours
-* avoid giving personal details to strangers online or over the phone
 
-The Australian Government's longstanding policy is that it doesn't make payments or concessions to kidnappers. Ransom payments to kidnappers have funded further terrorist attacks and criminal activity. Paying a ransom to terrorist groups will likely break Australian counter-terrorism financing laws.
+* avoid giving personal details to strangers online or over the phone. Criminals have been known to search social media for victims
 
+* If you are confronted by armed criminals, it is best to surrender and cooperate – resistance tends to make the situation worse
+
+You can find more information on how to reduce your risk of kidnapping here: [Kidnapping](https://www.smartraveller.gov.au/before-you-go/safety/kidnapping).
+
+The Australian Government's longstanding policy is that it doesn't make payments or concessions to kidnappers. Ransom payments to kidnappers have funded further terrorist attacks and criminal activity. Ransom payments to terrorist groups are likely to contravene Australian counter-terrorism financing laws.    
+   
 **More information:**
 
-* [Kidnapping](/before-you-go/safety/kidnapping "Reducing the risk of kidnapping")
+* [Kidnapping](https://www.smartraveller.gov.au/before-you-go/safety/kidnapping)
+
+* [Scams that affect travellers](https://www.smartraveller.gov.au/before-you-go/safety/scams)
+
+* [Reducing the risk of piracy](https://www.smartraveller.gov.au/before-you-go/safety/piracy)
 
 #### Civil unrest and political tension
 
@@ -140,7 +165,7 @@ The Australian Government's longstanding policy is that it doesn't make payments
 
 The political situation is volatile.
 
-There's an increased risk of demonstrations and civil unrest following recent political developments. Avoid protests and large gatherings as they may turn violent. Demonstrations may disrupt travel plans, affect flights, traffic, and public transportation. Monitor local media and follow the instructions of local authorities.
+There's an increased risk of demonstrations and civil unrest. Avoid protests and large gatherings as they may turn violent. Demonstrations may disrupt travel plans, affect flights, traffic, and public transportation. Monitor local media and follow the instructions of local authorities.
 
 Demonstrations and other types of civil unrest are common, particularly in major urban centres, such as:
 
@@ -190,7 +215,7 @@ If, despite our advice, you travel to Venezuela:
 
 Avoid border areas, as they can be dangerous due to the presence of terrorist groups.
 
-Most sea and air borders with Trinidad and Tobago, Aruba, Bonaire and Curaçao have re-opened. However, entry and exit conditions can change at short notice. Monitor local media and contact your transport provider for updated information.
+Most sea and air borders with Trinidad and Tobago, Aruba, Bonaire and Curaçao are open. However, entry and exit conditions can change at short notice. Monitor local media and contact your transport provider for updated information.
 
 In border areas, there are limits on the right to:
 

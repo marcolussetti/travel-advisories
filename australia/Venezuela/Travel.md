@@ -6,10 +6,12 @@
 
 #### Visa-free travel for short stays
 
-If you decide to travel to Venezuela despite our advice, you won't need a visa for tourist visits of less than 90 days. However, you'll need:
+If you decide to travel to Venezuela despite our advice, in most cases you won't need a visa for tourist visits of less than 90 days. However, you'll need:
 
 * a passport valid for at least 6 months after you plan to depart the country
 * proof of return or onward travel
+
+Prior to travel, check with Venezuelan migration authorities ([SAIME - Servicio Administrativo de Identificación Migración y Extranjería](https://info.saime.gob.ve/)). 
 
 You can be detained or deported if you don't comply with your visa conditions.
 
@@ -41,7 +43,7 @@ We recommend that you do not travel to border areas or cross borders due to a hi
 
 Do not attempt to cross Colombia, Brazil, and Guyana's borders by land.
 
-Flights to and from Venezuela continue to be limited.
+Flights to and from Venezuela are limited.
 
 #### Other formalities
 
@@ -117,7 +119,7 @@ There are 2 official exchange rates as well as black market rates. It's only leg
 
 Differences in exchange rates can mean you need much larger amounts of Australian dollars for small purchases.
 
-US dollars are widely accepted.
+US dollars are accepted, but may not be available everywhere.
 
 Money changers will exchange US dollars and travellers' cheques for VEF but generally can't convert them to other currencies.
 
@@ -210,7 +212,7 @@ Arrange these through your hotel. Don't hail taxis on the street.
 
 #### Public transport
 
-Avoid public transport. Theft is prevalent in public transport, including subway stations. Public transport providers, including state-owned companies, may not carry out routine maintenance. Services could be cancelled or delayed.
+Avoid public transport. Theft is prevalent on public transport, including subway stations. Public transport providers, including state-owned companies, may not carry out routine maintenance. Services could be cancelled or delayed.
 
 Your safety may be at risk.
 

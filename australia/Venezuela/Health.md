@@ -145,13 +145,6 @@ Most healthcare providers don't speak English.
 
 Emergency and ambulance services are very limited. Response times are slow, especially in rural areas.
 
-Find hyperbaric chambers at:
-
-* Unidad de Buceo PDVSA in Lagunillas Norte
-* Hospital Naval Raul Perdomo in Catia La Mar
-* Compania Oriente marine Group in Puerto La Cruz
-* Venezuela Divers in Ciudad Ojeda
-
-If you become seriously ill or injured, you'll need to be evacuated to Caracas. Medical evacuation can be very expensive.
+If you become seriously ill or injured, you'll need to be evacuated to Caracas or to a third country. Medical evacuation can be very expensive.
 
 If you need emergency medical assistance during your trip, dial 911 (free of charge) from a landline or mobile phone.

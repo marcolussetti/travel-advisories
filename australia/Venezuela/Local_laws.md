@@ -41,7 +41,7 @@ Some Australian criminal laws still apply when you’re overseas. If you break t
 
 Australian-Venezuelan dual nationals must enter and leave Venezuela on a Venezuelan passport. This applies to children born to Venezuelans abroad, as they are assumed to be Venezuelan by local authorities. Contact the nearest [Venezuelan embassy or consulate](https://protocol.dfat.gov.au/Public/Missions/216) for further information.
 
-If you're a dual citizen, this limits the [consular services](/consular-services "Our services") we can give if you're arrested or detained.
+If you're a dual citizen, our ability to provide [consular services](/consular-services "Our services") if you're arrested or detained is limited.
 
 Venezuela has national service obligations. You may have to comply if you're a male dual citizen aged 18 years or older.
 

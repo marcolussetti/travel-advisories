@@ -4,6 +4,8 @@
 
 > Every country or territory decides who can enter or leave through its borders. For specific information about the evidence you'll need to enter a foreign destination, check with the nearest embassy, consulate or immigration department of the destination you're entering.
 
+Guyana has introduced an online Immigration and Customs form for entry and exit. Visit the Guyana online Immigration and Customs [portal](https://ed.gpf.gov.gy/#/) to complete the form within 48 hours prior to travel.
+
 #### Visa conditions
 
 Australians visiting Guyana don't require a visa to enter.
@@ -69,7 +71,7 @@ Although Australian passports comply with international standards for sex and ge
 
 #### Money
 
-The Guyanese dollar is the official currency of Guyana.
+The Guyanese dollar is the official currency of Guyana. Cash is mostly used in Guyana. Not all ATM machines accept international cards.
 
 Declare money you're carrying if it's more than US$10,000, or equivalent. Do this on arrival and departure. This covers all forms of currency, not only cash.
 
