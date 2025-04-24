@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   23 April 2025
+:   24 April 2025
 
 Updated:
-:   22 April 2025
+:   23 April 2025
 
 Latest update:
-:   Refreshed information in the safety and security section including risks around sexual assault and the addition of information on dates for Ramadan in 2026 (‘Safety and security’ page).
+:   Addition of information that a 6.2 magnitude earthquake has hit near Istanbul ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/6703bc3c3b919067bb482cfb/FCDO__TA__043_-_Turkey_Travel_Advice_Ed4__WEB_.jpg)
 
@@ -24,6 +24,14 @@ FCDO advises against all travel to within 10km of the border with Syria due to f
 
 Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/turkey/regional-risks).
 
+## Istanbul Earthquake
+
+Many parts of Turkey regularly experience earthquakes and tremors. These can be a high magnitude, cause damage to infrastructure, and pose a risk to life.
+
+A 6.2-magnitude earthquake occurred in the Sea of Marmara near Istanbul, on 23 April 2025. For the latest information, visit [Turkey’s Disaster and Emergency Management Authority’s (AFAD) earthquake page](https://deprem.afad.gov.tr/last-earthquakes%22%20/t%20%22_blank).
+
+Follow advice from local authorities, tour operators and accommodation providers. See the US Federal Emergency Management Agency guidance about what to do [before, during and after an earthquake](https://www.ready.gov/earthquakes).
+
 ## Demonstrations and protests
 
 Demonstrations and protests are currently taking place in Istanbul and other cities across Turkey. Demonstrations may become violent. The police response has included use of tear gas and water cannons. You should:
@@ -31,10 +39,6 @@ Demonstrations and protests are currently taking place in Istanbul and other cit
 * monitor local media
 * plan ahead to avoid disruption
 * avoid crowds and demonstrations
-
-## Counterfeit alcohol
-
-There has been an increase in the number of deaths and serious illnesses in Turkey, including in Ankara and Istanbul, caused by drinking illegally produced local spirits and counterfeit bottles of branded alcohol. For advice on how to avoid these products, see [Safety and security](https://www.gov.uk/foreign-travel-advice/turkey/safety-and-security#counterfeit-alcohol).
 
 ## Support from the UK government
 

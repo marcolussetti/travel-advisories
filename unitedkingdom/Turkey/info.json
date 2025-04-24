@@ -1,11 +1,11 @@
 {
     "name": "Turkey",
-    "update_reason": "Refreshed information in the safety and security section including risks around sexual assault and the addition of information on dates for Ramadan in 2026 (\u2018Safety and security\u2019 page).",
+    "update_reason": "Addition of information that a 6.2 magnitude earthquake has hit near Istanbul ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Turkey/Warnings and insurance.md",
-            "update_date": "2025-04-22T14:22:45+01:00"
+            "update_date": "2025-04-23T13:48:22+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Turkey/Getting help.md"
         }
     ],
-    "update_date": "2025-04-22T14:22:45+01:00"
+    "update_date": "2025-04-23T13:48:22+01:00"
 }

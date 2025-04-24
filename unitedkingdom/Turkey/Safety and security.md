@@ -230,14 +230,6 @@ If you’re in an affected area:
 * monitor local media
 * follow instructions of local authorities, including evacuation orders
 
-### Earthquakes
-
-Many parts of Turkey regularly experience earthquakes and tremors. These can be a high magnitude, cause damage to infrastructure, and pose a risk to life.
-
-A 7.8 magnitude earthquake hit Gaziantep and neighbouring provinces in the south-east of Turkey in February 2023. Strong earthquakes may continue to affect the region and it remains heavily damaged. There is a shortage of local accommodation.
-
-Follow any advice given by the local authorities.  See the US Federal Emergency Management Agency guidance about what to do [before, during and after an earthquake](https://www.ready.gov/earthquakes) .
-
 [Previous
 :
 Entry requirements](/foreign-travel-advice/turkey/entry-requirements)
