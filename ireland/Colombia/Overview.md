@@ -6,11 +6,7 @@ High Degree of Caution
 
 ### **Travel Alert**
 
-### **Water rationing in Bogota**
-
-Bogota’s Mayor announced measures for water rationing across the city as the main water reservoirs have dropped to critically low levels. The city and surrounding towns have been divided into nine areas with water cuts off for 24 hours in each area on a rotation that will reset every 10 days. The measure will not affect schools, hospitals, and other institutions that serve vulnerable populations. Fines may be imposed for irresponsible actions that lead to water waste.
-
-For more details, please refer to [Consulta el turno de racionamiento de agua en Bogotá para tu barrio | Bogota.gov.co](https://bogota.gov.co/mi-ciudad/habitat/consulta-el-turno-de-racionamiento-de-agua-en-bogota-para-tu-barrio)
+April 2025 - The Colombian Government has declared a national health emergency due to an increase in Yellow Fever cases, with the Departments of Tolima and Cundinamarca registering the highest numbers of cases. Irish citizens travelling to Colombia are advised to get vaccinated against Yellow Fever at least 10 days prior to travel.
 
 ### **General Travel Advice**
 
