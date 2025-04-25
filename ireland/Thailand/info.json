@@ -1,6 +1,6 @@
 {
     "name": "Thailand",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "Normal Precautions",
     "pages": [
         {
             "title": "Overview",
@@ -31,5 +31,5 @@
             "file": "ireland/Thailand/Embassy contact.md"
         }
     ],
-    "update_date": "2025-03-28T00:00:00"
+    "update_date": "2025-04-24T00:00:00"
 }
