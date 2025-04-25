@@ -1,11 +1,11 @@
 {
     "name": "India",
-    "update_reason": "Removal of information about Maha Kumbh Mela (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Wagah-Atarri border is closed (See 'Warnings and insurance', 'Safety and security' and 'Regional risks' pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/India/Warnings and insurance.md",
-            "update_date": "2025-03-03T09:48:37+00:00"
+            "update_date": "2025-04-24T14:27:52+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/India/Getting help.md"
         }
     ],
-    "update_date": "2025-03-03T09:48:37+00:00"
+    "update_date": "2025-04-24T14:27:52+01:00"
 }

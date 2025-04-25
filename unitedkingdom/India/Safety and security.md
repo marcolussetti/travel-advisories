@@ -21,7 +21,7 @@ Terrorist and insurgent groups operating in India include:
 * Khalistani extremists operating mainly in Punjab
 * Daesh, Al Qa’ida in the Indian Subcontinent (AQIS) and other groups may also be planning attacks
 
-Terrorist attacks have mainly targeted Indian government interests. Security has been strengthened, including at major hotels and transport hubs. However, terrorist attacks could be indiscriminate, including in places visited by foreign nationals, such as:
+Terrorist attacks have targeted Indian government interests and civilians, including tourists and foreign nationals. Security has been strengthened, including at major hotels and transport hubs. However, terrorist attacks could be indiscriminate, including in places visited by foreign nationals, such as:
 
 * restaurants, hotels, bars and markets
 * stations and airports
@@ -35,7 +35,7 @@ Take particular care during periods of national or religious significance, such 
 * Diwali (usually in October or November)
 * Eid (date changes each year)
 
-Stay aware of your surroundings, keep up to date with local media reports and follow the advice of local authorities.
+Stay aware of your surroundings and keep up to date with local media reports. It is advisable to always carry identity documents and follow the advice of local authorities.
 
 ## Political situation
 

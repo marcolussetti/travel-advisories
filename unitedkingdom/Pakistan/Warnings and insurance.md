@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   25 April 2025
 
 Updated:
-:   25 March 2025
+:   24 April 2025
 
 Latest update:
-:   Removal of information on Pakistan National Day (‘Warnings and insurance’ page).
+:   Information added on the Pakistan-India border area ('Warnings and insurance' page).
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -50,7 +50,7 @@ FCDO advises against all travel to Balochistan Province.
 
 ### Pakistan-India Border Area
 
-FCDO advises against all but essential travel within 5 miles of the international border between Pakistan and India, except for the Wagah crossing.
+FCDO advises against all but essential travel within 5 miles of the international border between Pakistan and India. The Wagah border crossing is closed.
 
 ### Pakistan-administered Kashmir
 

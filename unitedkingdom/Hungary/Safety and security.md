@@ -57,9 +57,9 @@ Hungarian laws on the possession and use of drugs are very strict and carry seri
 
 ### LGBT+ travellers
 
-Same-sex sexual activity is legal in Hungary. Same-sex couples can enter civil partnerships, but same-sex marriages are not legally recognised. Budapest is generally tolerant and open. Outside of Budapest, showing affection in public may receive unwanted attention. Read more [advice for LGBT+ travellers](https://www.gov.uk/guidance/lesbian-gay-bisexual-and-transgender-foreign-travel-advice).
+Same-sex sexual activity is legal in Hungary. Budapest is generally tolerant and open. Outside of Budapest, showing affection in public may receive unwanted attention. Read more [advice for LGBT+ travellers](https://www.gov.uk/guidance/lesbian-gay-bisexual-and-transgender-foreign-travel-advice).
 
-On 19 March, Hungary passed legislation that could be used as the legal basis to ban future Pride marches. Participants in unsanctioned marches could be identified by facial recognition technology and face fines of up to 200,000 Hungarian Forints. If you are planning to attend Budapest Pride, you should follow local media and the British Embassy’s social media for updates.
+On 19 March, Hungary passed legislation that could be used as a legal basis to ban future rallies and marches that depict or promote LGBT+ identities to minors. Participants in unsanctioned events could be identified by facial recognition technology and face fines of up to 200,000 Hungarian Forints. If you are planning to attend Budapest Pride, you should follow local media and the British Embassy’s social media for updates.
 
 ## Outdoor activities and adventure tourism
 

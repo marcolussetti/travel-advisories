@@ -6,7 +6,7 @@ You should also read [FCDO’s overall travel advice](/foreign-travel-advice/ind
 
 ## India-Pakistan border area and western India
 
-FCDO advises against all travel within 10km of the India-Pakistan border, except for at Wagah where travellers can cross the border.
+FCDO advises against all travel within 10km of the India-Pakistan border. The Wagah-Attari border is closed.
 
 The India-Pakistan border in Gujarat and Rajasthan is unmarked in some areas. Approaching it away from an official crossing point could be dangerous. Where it is unmarked, you could enter Pakistan illegally.
 
@@ -16,9 +16,9 @@ FCDO advises against all travel to the region of Jammu and Kashmir (including Pa
 
 * travel by air to and from the city of Jammu
 * travel within the city of Jammu
-* travel within the region of Ladakh
+* travel within the Union Territory of Ladakh
 
-There have been frequent terrorist incidents in Jammu and Kashmir. There is a continuing threat, mainly towards Indian government targets. See [Terrorism](/foreign-travel-advice/india/safety-and-security#terrorism).
+There have been frequent terrorist incidents in Jammu and Kashmir. There is a continuing threat, towards Indian government targets and civilians including tourists and foreign nationals. See [Terrorism](/foreign-travel-advice/india/safety-and-security#terrorism).
 
 There is a heavy security presence in the Kashmir Valley. This, combined with violent protests and operations by security forces, has resulted in a number of deaths and serious casualties.
 

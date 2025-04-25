@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   25 April 2025
 
 Updated:
-:   3 March 2025
+:   24 April 2025
 
 Latest update:
-:   Removal of information about Maha Kumbh Mela (‘Warnings and insurance’ page).
+:   Wagah-Atarri border is closed (See 'Warnings and insurance', 'Safety and security' and 'Regional risks' pages).
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -15,7 +15,7 @@ Your travel insurance could be invalidated if you travel against advice from the
 
 ### India-Pakistan border area
 
-FCDO advises against all travel within 10km of the India-Pakistan border, except for at Wagah where travellers can cross the border.
+FCDO advises against all travel within 10km of the India-Pakistan border. The Wagah-Attari border is closed.
 
 ### Jammu and Kashmir
 
@@ -23,7 +23,7 @@ FCDO advises against all travel to the region of Jammu and Kashmir (including Pa
 
 * travel by air to and from the city of Jammu
 * travel within the city of Jammu
-* travel within the region of Ladakh
+* travel within the Union Territory of Ladakh
 
 ### Manipur
 

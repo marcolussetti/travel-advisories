@@ -1,11 +1,11 @@
 {
     "name": "Hungary",
-    "update_reason": "Information added about the risk of delays at some road borders, due to extra checks following the recent outbreak of foot and mouth disease (See 'Border checks' on the 'Entry requirements' page).",
+    "update_reason": "New information for LGBT+ travellers (See \u2018LGBT+ travellers\u2019 on the \u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Hungary/Warnings and insurance.md",
-            "update_date": "2025-04-11T12:53:31+01:00"
+            "update_date": "2025-04-24T16:13:43+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Hungary/Getting help.md"
         }
     ],
-    "update_date": "2025-04-11T12:53:31+01:00"
+    "update_date": "2025-04-24T16:13:43+01:00"
 }

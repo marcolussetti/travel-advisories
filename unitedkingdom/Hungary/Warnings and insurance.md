@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   12 April 2025
+:   25 April 2025
 
 Updated:
-:   11 April 2025
+:   24 April 2025
 
 Latest update:
-:   Information added about the risk of delays at some road borders, due to extra checks following the recent outbreak of foot and mouth disease (See 'Border checks' on the 'Entry requirements' page).
+:   New information for LGBT+ travellers (See ‘LGBT+ travellers’ on the ‘Safety and security’ page).
 
 ## Before you travel
 
