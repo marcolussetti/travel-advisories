@@ -73,6 +73,8 @@ The Australian High Commission and Australian Consulates-General in India can't 
 
 Entry and exit conditions can change at short notice. Contact the [Indian High Commission](https://protocol.dfat.gov.au/Public/Missions/91) in Canberra for details about visas, currency, customs and quarantine rules.
 
+Indian authorities have closed the Integrated Check Post (ICP) at Attari Border (Land border between India and Pakistan in the state of Punjab) with immediate effect. If you have plans to travel to India from Pakistan using any land borders, consider making alternate and follow the follow the advice of local authorities
+
 **More information:**
 
 * [Ministry of Home Affairs](https://www.mha.gov.in/)

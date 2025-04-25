@@ -183,6 +183,8 @@ Higher security is in place where Pakistan borders India. This reflects the vola
 
 Foreigners are prohibited from travelling within 15km of the Kashmir Line of Control and the entire border with India. However, it is legal to cross the border at official crossings.
 
+The Wagah border crossing is closed until further notice. 
+
 The situation is more stable in the border region cities of:
 
 * Lahore

@@ -90,7 +90,7 @@ Parts of the India-Pakistan border have a high risk of:
 * cross-border attacks
 * violence
 
-Always be alert to possible threats near the Atari-Wagah border crossing.
+Always be alert to possible threats near the Atari-Wagah border crossing.  The Integrated Check Post (ICP) at Attari Border has been closed with immediate effect.
 
 #### Manipur
 

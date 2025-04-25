@@ -2,6 +2,8 @@
 
 Latest update
 
+Pakistan has announced the Wagah border crossing is closed until further notice, and cross-border travel is suspended. If you have plans to travel to India from Pakistan, reconsider your route and follow the advice of local authorities.  
+  
 We continue to advise reconsider your need to travel to Pakistan overall. Higher levels apply in some areas. The security situation remains unpredictable. Avoid large groups of people, demonstrations, and protests, as they can turn violent quickly. Monitor local media and follow the instructions of local authorities (See 'Safety').  
   
 Terrorist and separatist groups hostile to foreign interests operate in Pakistan. The threat of terrorist attacks and kidnapping remains very high. Foreigners may be targeted. Reporting continues to identify the potential for attacks in Islamabad, including at major hotels. In response, heightened security arrangements are in place, including an increased security force presence, additional checkpoints, and temporary road closures. Terrorists may also target places frequented by foreigners, transport infrastructure, including trains and airports, and places of worship (see 'Safety').
@@ -51,7 +53,7 @@ See [Safety](#safety).
 * Violent crime, including armed robbery, assault, carjacking and kidnapping, occurs across Pakistan. The risk of kidnapping is very high in Balochistan and Khyber-Pakhtunkhwa, including Parachinar. If you travel to these areas, get professional security advice. If you must go to the Chitral district or Gilgit Baltistan, travel by commercial aircraft and not by road.
 * Be alert to the potential risks around drink spiking and methanol poisoning through consuming alcoholic drinks.  See our advice on [Partying safely while overseas](https://www.smartraveller.gov.au/before-you-go/safety/partying)
 * Political protest action has increased in recent months. This can impact travel and can turn violent. Religious protests are common. Political, sectarian and gang violence often occurs in Karachi. Avoid large public gatherings. If you're caught in a rally, find a safe place and stay indoors. There has been an increase in conflict across Kurram district in Khyber-Pakhtunkhwa province, including in Parachinar.
-* The Afghanistan border area is volatile. The Government of Pakistan does not allow foreigners to travel within 50km of the Afghanistan border in Gilgit Baltistan or within 15km of the Kashmir Line of Control or the entire border with India except at official crossings. If you're in an area close to the border, consider leaving.
+* The Afghanistan border area is volatile. The Government of Pakistan does not allow foreigners to travel within 50km of the Afghanistan border in Gilgit Baltistan or within 15km of the Kashmir Line of Control or the entire border with India except at official crossings. The Wagah border crossing is closed until further notice. If you're in an area close to the border, consider leaving.
 * Firing guns into the air in celebration is illegal but common. People have died as a result. Be careful of celebratory gunfire, especially around major holidays, weddings, celebrations and after sporting victories.
 * Earthquakes are common. Flooding, landslides and tsunamis can occur. Some areas of Pakistan experience extreme heat, with temperatures recorded above 50 degrees Celsius. The risk of disease can increase during the monsoon season (July to September). Follow the advice of local authorities.
 

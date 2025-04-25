@@ -2,13 +2,7 @@
 
 Latest update
 
-We've reviewed our advice for India and continue to advise exercise a high degree of caution. Higher levels apply in some areas.   
-  
-Carrying or using a satellite phone or GPS-enabled devices (including emergency locator beacons) without official permission is illegal. You could be arrested or detained, receive a large fine, have the device confiscated and face significant travel delays (see 'Local Laws').  
-  
-If you have had a baby in India, you must inform the FRRO and secure the appropriate travel document and Indian visa to remain legally in the country or to travel. Failure to comply could result in significant financial penalties by the FRRO (see 'Travel').   
-  
-Travellers have been robbed and assaulted after consuming spiked drinks or food. Be alert to the potential risks around drink spiking and methanol poisoning from consuming alcoholic drinks (see 'Safety').
+Indian authorities have closed the Integrated Check Post (ICP) at Attari Border (Land border between India and Pakistan in the state of Punjab) with immediate effect. If you have plans to travel to India from Pakistan using any land borders, consider making alternate arrangements and follow the advice of local authorities.
 
 Advice Level summary
 
@@ -54,6 +48,7 @@ due to the high risk of violence (see '[Safety](#safety)').
 * Scams are common. These can involve fake tour guides, ATM and credit card skimming, and fraudulent access to government services. If you're a scam victim, report it to the police to get an official report for your travel insurer.
 * Severe weather is common. This includes heat waves and dust storms in summer and flooding during the monsoon season. Check with your tour operator for possible disruptions.
 * Curfews and restrictions have been imposed in parts of Manipur following violent demonstrations which have resulted in casualties. Security agencies have increased their presence in the region. Mobile data, internet and transport services continue to be affected. Further restrictions may be imposed at short notice. If you are in Manipur, you should consider leaving if it’s safe to do so. Monitor local media for updates, follow the advice of local authorities and take official warnings seriously.
+* Always be alert to possible threats near the Atari-Wagah border crossing. The Integrated Check Post (ICP) at Attari Border has been closed with immediate effect.
 
 Full travel advice: [Safety](#safety)
 
