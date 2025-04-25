@@ -26,7 +26,7 @@ Be up-to-date on all [vaccinations](https://wwwnc.cdc.gov/travel/destinations/t
 
 Further health information:
 
-* [World Health Organization](https://www.who.int/health-topics/travel-and-health%22%20/l%20%22tab=tab_1)
+* [World Health Organization](https://www.who.int/health-topics/travel-and-health/#tab=tab_1)
 * [U.S. Centers for Disease Control and Prevention (CDC)](https://wwwnc.cdc.gov/travel/)
 
 **Water Quality**

@@ -8,10 +8,9 @@ Iraq has a strict entry and exit system:
 * Your passport must be valid for 6 months from the date you submit the visa application.
 * Your passport must have at least 1 blank visa page.
 * Don’t leave Iraq without an exit stamp in your passport.
+* Minors younger than 18 exiting Iraq must be accompanied by their parent/legal guardian.
 
-**Visa Requirements**
-
-You must apply and obtain an e-Visa through the [Iraq e-Visa Portal](https://evisa.iq/en) prior to arrival.
+**Visa Requirements**You must apply and obtain an e-Visa through the [Iraq e-Visa Portal](https://evisa.iq/en) prior to arrival.
 
 **For travel into the Kurdistan Region** of Iraq, you have 3 visa options:
 
@@ -30,6 +29,6 @@ You may be detained if you:
 
 Visit the [Embassy of Iraq](https://www.iraqiembassy.us/page/contact-us) website for the most current visa and travel information.
 
-**HIV/AIDS Restrictions:** Iraq has imposed HIV/AIDS-related travel restrictions on all visitors and new residents. Please verify this information with the [Embassy of Iraq](https://www.iraqiembassy.us/page/consular-services) before you travel.
+**HIV/AIDS Restrictions:** Iraq has imposed HIV/AIDS-related travel restrictions on all visitors and new residents. Please verify this information with the [Embassy of Iraq](https://www.iraqiembassy.us/page/consular-services) before you travel.
 
-Find information on [dual nationality](https://travel.state.gov/content/travel/en/legal/travel-legal-considerations/Relinquishing-US-Nationality/Dual-Nationality.html), [prevention of international child abduction](https://travel.state.gov/content/travel/en/International-Parental-Child-Abduction.html), and [customs regulations](https://travel.state.gov/content/travel/en/international-travel/before-you-go/customs-and-import.html) on our websites.
+Find information on [dual nationality](https://travel.state.gov/content/travel/en/legal/travel-legal-considerations/Relinquishing-US-Nationality/Dual-Nationality.html), [prevention of international child abduction](https://travel.state.gov/content/travel/en/International-Parental-Child-Abduction.html), and [customs regulations](https://travel.state.gov/content/travel/en/international-travel/before-you-go/customs-and-import.html) on our websites.

@@ -2,38 +2,6 @@
 
 [#### Safety and Security](javascript:void(0); "Safety and Security")
 
-Iraq has a strict entry and exit system:
-
-* Visa requirements depend on your citizenship, Iraqi ancestry, purpose of travel, and duration of stay.
-* Your passport must be valid for 6 months from the date you submit the visa application.
-* Your passport must have at least 1 blank visa page.
-* Don’t leave Iraq without an exit stamp in your passport.
-
-**Visa Requirements**
-
-You must apply and obtain an e-Visa through the [Iraq e-Visa Portal](https://evisa.iq/en) prior to arrival.
-
-**For travel into the Kurdistan Region** of Iraq, you have 3 visa options:
-
-1. Apply and obtain an e-Visa through the [Iraq e-Visa Portal](https://evisa.iq/en) prior to arrival. **You must use this option to travel to other areas of Iraq from the Kurdistan Region.**
-2. Apply and obtain an e-Visa through the [Kurdistan Regional Government’s e-Visa Portal](https://visit.gov.krd/faq) prior to arrival.
-3. Apply for a visa upon arrival at Erbil International Airport or other entry points in the Kurdistan region.
-
-Residency stamps and blood tests may be required for long-term residents and if you plan to seek employment.
-
-You can be fined, detained, or deported for violating Iraqi immigration rules, including overstays or working without authorization.
-
-You may be detained if you:
-
-* Bring a weapon to Iraq or carry one without authorization.
-* Pass through checkpoints without proper documents or a clear purpose of travel.
-
-Visit the [Embassy of Iraq](https://www.iraqiembassy.us/page/contact-us) website for the most current visa and travel information.
-
-**HIV/AIDS Restrictions:** Iraq has imposed HIV/AIDS-related travel restrictions on all visitors and new residents. Please verify this information with the [Embassy of Iraq](https://www.iraqiembassy.us/page/consular-services) before you travel.
-
-Find information on [dual nationality](https://travel.state.gov/content/travel/en/legal/travel-legal-considerations/Relinquishing-US-Nationality/Dual-Nationality.html), [prevention of international child abduction](https://travel.state.gov/content/travel/en/International-Parental-Child-Abduction.html), and [customs regulations](https://travel.state.gov/content/travel/en/international-travel/before-you-go/customs-and-import.html) on our websites.
-
 **Terrorism:** Terrorist groups and individuals inspired by them want to attack American citizens outside of the United States. They are using simpler methods of attack like knives, guns, and vehicles to target crowds. They often go after unprotected or vulnerable targets.
 
 * High-profile public events (sporting contests, political rallies, demonstrations, holiday events, celebratory gatherings, etc.)
@@ -52,9 +20,9 @@ Due to security and safety threats, U.S. government employees working in Iraq li
 
 For more information, see our [Terrorism page](https://travel.state.gov/content/travel/en/international-travel/emergencies/terrorism.html).
 
-**Crime:** Carjacking is common, even during daylight hours, and particularly on the highways from Jordan and Kuwait to Baghdad. Kidnappings of foreign nationals, Iraqi citizens, and dual U.S.-Iraqi citizens can occur for ransom or political/religious reasons. Many hostages have been killed. The murder rate remains high due to terrorism, tribal and family disputes, and religious/sectarian tensions. Sexual assault and domestic violence are common. Petty theft is common in Iraq, including pickpocketing and theft of valuables from hotel rooms and private residences.
+**Crime:** Carjacking is common, even during daylight hours, and particularly on the highways from Jordan and Kuwait to Baghdad. Kidnappings of foreign nationals, Iraqi citizens, and dual U.S.-Iraqi citizens can occur for ransom or political/religious reasons. Many hostages have been killed. The murder rate remains high due to terrorism, tribal and family disputes, and religious/sectarian tensions. Sexual assault and domestic violence are common. Petty theft is common in Iraq, including pickpocketing and theft of valuables from hotel rooms and private residences.
 
-**Demonstrations** occur frequently. They may take place in response to political or economic issues. They may also occur on politically significant holidays, and during international events.
+**Demonstrations** occur frequently. They may take place in response to political or economic issues. They may also occur on politically significant holidays, and during international events.
 
 * Demonstrations can be unpredictable, avoid areas around protests and demonstrations.
 * Past demonstrations have turned violent.
