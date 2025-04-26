@@ -12,21 +12,24 @@ Although there’s no recent history of terrorism in the Turks and Caicos Island
 
 ## Crime
 
-Levels of crime across the Turks and Caicos Islands are relatively low. Providenciales and Grand Turk have seen higher levels of gun-related crime than other islands. While risks are generally lower in tourist areas, always take local advice and be aware of your surroundings.
+Providenciales and Grand Turk have seen higher levels of serious crime than other islands, including gang-related crime involving guns and robbery. While risks are generally lower in tourist areas, some of these incidents have taken place in populated and public areas. If you are a victim of crime, contact the [Royal Turks and Caicos Islands Police Force](https://www.tcipolice.tc/) for support. Levels of crime across the other islands of the Turks and Caicos Islands are low.
+
+Always take local advice and be aware of your surroundings.
 
 ### Protecting yourself and your belongings
 
-Most other crime is opportunistic, such as burglary, theft and muggings. You can take steps to reduce your personal risk by:
+Most other crime is opportunistic, such as burglary, theft and muggings. You can take steps to reduce your personal risk by taking sensible precautions to protect your personal safety and belongings, as you would at home, you should:
 
-* not carrying large amounts of cash or valuables
-* avoiding isolated areas, particularly at night
-* taking care when using an ATM
-* keeping your passport in a hotel or villa safe if possible – you will not be able to get a replacement passport locally
-* not resisting if you’re attacked
+* not carry large amounts of cash or valuables
+* avoid isolated areas, particularly at night
+* take care when walking alone off main roads
+* take care when using an ATM
+* keep your passport in a hotel or villa safe if possible – you will not be able to get a replacement passport locally. If you lose your passport, you will need to [apply online for an emergency travel document](https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport)
+* not resist if you are confronted by someone trying to take your possessions or do anything that puts you at greater risk
 
 ### Taxis
 
-Avoid taking unregistered taxis (‘jitneys’).
+Only use licenced taxis. Avoid taking unregistered taxis (‘jitneys’).
 
 ## Laws and cultural differences
 

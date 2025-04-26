@@ -24,7 +24,10 @@ At least 8 weeks before your trip:
 * check the latest [vaccine recommendations for Malawi guide](https://travelhealthpro.org.uk/country/136/malawi#Vaccine_Recommendations)
 * see where to get vaccines and whether you have to pay on the [NHS travel vaccinations page](https://www.nhs.uk/conditions/travel-vaccinations/)
 
-See [what health risks you’ll face in Malawi](https://travelhealthpro.org.uk/country/136/malawi).
+See [what health risks you’ll face in Malawi including:](https://travelhealthpro.org.uk/country/136/malawi)
+
+* mpox
+* biting insects and ticks
 
 Altitude sickness is a risk in parts of Malawi. Read more about [altitude sickness on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/26/altitude-illness).
 

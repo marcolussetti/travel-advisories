@@ -1,11 +1,11 @@
 {
     "name": "Russia",
-    "update_reason": "Updated information for foreign nationals who have overstayed their visa ('Entry requirements\u2019 page).",
+    "update_reason": "Information added about accessing money in Russia ('Entry requirements' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Russia/Warnings and insurance.md",
-            "update_date": "2025-02-12T13:44:31+00:00"
+            "update_date": "2025-04-25T12:33:03+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Russia/Getting help.md"
         }
     ],
-    "update_date": "2025-02-12T13:44:31+00:00"
+    "update_date": "2025-04-25T12:33:03+01:00"
 }

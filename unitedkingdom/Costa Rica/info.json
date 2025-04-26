@@ -1,11 +1,11 @@
 {
     "name": "Costa Rica",
-    "update_reason": "Information about airport disruptions (\u2018Safety and security\u2019 page)",
+    "update_reason": "Update on recent volcanic activity",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Costa Rica/Warnings and insurance.md",
-            "update_date": "2024-11-26T11:10:56+00:00"
+            "update_date": "2025-04-25T20:04:56+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Costa Rica/Getting help.md"
         }
     ],
-    "update_date": "2024-11-26T11:10:56+00:00"
+    "update_date": "2025-04-25T20:04:56+01:00"
 }

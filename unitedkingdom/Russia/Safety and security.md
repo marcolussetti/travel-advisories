@@ -77,6 +77,7 @@ If you decide to stay in Russia, you should:
 
 * keep your departure plans under constant review
 * ensure travel documents are up to date
+* ensure you have enough money
 * follow local media
 * stay alert to security warnings and follow the advice of local authorities
 * take cover from drone attacks in buildings or underground and avoid windows

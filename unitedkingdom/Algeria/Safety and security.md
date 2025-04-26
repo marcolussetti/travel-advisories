@@ -129,6 +129,18 @@ Sexual acts between people of the same sex are illegal in Algeria.
 
 Read more [advice for LGBT+ travellers](https://www.gov.uk/lesbian-gay-bisexual-and-transgender-foreign-travel-advice).
 
+### Family law and child custody
+
+[Algerian family law](https://www.gov.uk/government/publications/algerian-family-code) is different from UK law. Mothers cannot renew their children’s passports without written consent from the father.
+
+If you’re a dual British-Algerian national, see our guidance on [child custody](https://www.gov.uk/permission-take-child-abroad).
+
+### Forced marriage
+
+If you’re a dual British-Algerian national, see our guidance on [forced marriage](https://www.gov.uk/stop-forced-marriage).
+
+If you have concerns, get legal advice before you travel to Algeria or agree to family members travelling to Algeria.
+
 ## Transport risks
 
 ### Road travel

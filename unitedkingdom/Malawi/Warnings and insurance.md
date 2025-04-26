@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   26 April 2025
 
 Updated:
-:   14 December 2024
+:   25 April 2025
 
 Latest update:
-:   Addition of information about cyclone Chido and potential floods (Safety and Security page)
+:   New information on what health risks you’ll face in Malawi, including mpox ('Health' page).
 
 ## Before you travel
 

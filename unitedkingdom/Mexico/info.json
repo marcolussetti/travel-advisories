@@ -1,11 +1,11 @@
 {
     "name": "Mexico",
-    "update_reason": "Removal of information about protests causing disruption at Mexico City Airport over the weekend of 22-23 March ('Warnings and insuarnce' page).",
+    "update_reason": "Information added about attacks having taken place on public transport in Los Cabos, La Paz and Muleg\u00e9 (\u2018Warnings and insurance\u2019 page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Mexico/Warnings and insurance.md",
-            "update_date": "2025-03-24T15:30:51+00:00"
+            "update_date": "2025-04-25T18:04:11+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Mexico/Getting help.md"
         }
     ],
-    "update_date": "2025-03-24T15:30:51+00:00"
+    "update_date": "2025-04-25T18:04:11+01:00"
 }

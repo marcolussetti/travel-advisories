@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   26 April 2025
 
 Updated:
-:   12 February 2025
+:   25 April 2025
 
 Latest update:
-:   Updated information for foreign nationals who have overstayed their visa ('Entry requirements’ page).
+:   Information added about accessing money in Russia ('Entry requirements' page).
 
 ![](https://assets.publishing.service.gov.uk/media/621cd8428fa8f54915f43831/FCDO__TA__059_-_Russia_Travel_Advice_Ed1__WEB_.jpg)
 

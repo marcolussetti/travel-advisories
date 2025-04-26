@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   26 April 2025
 
 Updated:
-:   24 January 2025
+:   25 April 2025
 
 Latest update:
-:   Removal of Information about Storm Éowyn ('Warnings and insurance' page).
+:   New information about demonstrations ('Safety and security' page).
 
 ## Before you travel
 

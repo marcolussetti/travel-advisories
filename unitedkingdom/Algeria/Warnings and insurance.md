@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   26 April 2025
 
 Updated:
-:   26 October 2024
+:   25 April 2025
 
 Latest update:
-:   On 26 October Israel carried out military action against Iran ('Safety and security' page)
+:   Information about travelling with children ('Entry requirements' page).
 
 ![](https://assets.publishing.service.gov.uk/media/615dcb70d3bf7f55fd843aea/FCDO__TA__002_-_Algeria_Travel_Advice_Ed3__WEB_.jpg)
 

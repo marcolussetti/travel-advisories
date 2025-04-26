@@ -156,7 +156,7 @@ Mastercard and Visa are not operating in Russia. Mastercard and Visa cards issue
 
 For all other credit or debit cards, let your provider know you’re travelling to Russia to avoid your card being blocked for anti-fraud reasons.
 
-Make sure that you have enough money to cover your stay.
+There are few remaining methods of transferring money to Russia. UK Banks may refuse to transfer funds to even non-sanctioned banks. There have also been several cases of UK bank accounts of non-UK residents being closed at short notice. Make sure that you have enough money to cover your stay and have plans on how to access funds if your current methods become unavailable.
 
 ### Buying Russian roubles
 

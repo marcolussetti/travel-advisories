@@ -1,11 +1,11 @@
 {
     "name": "Turks and Caicos Islands",
-    "update_reason": "Information on customs rules in the Turks and Caicos Islands (\u2018Entry requirements\u2019 page).",
+    "update_reason": "New information on crime in the Turks and Caicos Islands (See \u2018Crime\u2019 on the \u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Turks and Caicos Islands/Warnings and insurance.md",
-            "update_date": "2024-04-30T16:45:14+01:00"
+            "update_date": "2025-04-25T11:57:39+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Turks and Caicos Islands/Getting help.md"
         }
     ],
-    "update_date": "2024-04-30T16:45:14+01:00"
+    "update_date": "2025-04-25T11:57:39+01:00"
 }

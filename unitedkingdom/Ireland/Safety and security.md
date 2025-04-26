@@ -10,6 +10,12 @@ UK Counter Terrorism Policing has information and advice on [staying safe abroa
 
 Terrorist attacks in Ireland cannot be ruled out.
 
+## Demonstrations
+
+Demonstrations, political gatherings, or marches can take place with little or no warning, particularly in cities.
+
+Whilst most demonstrations are peaceful, they can cause disruption, including to transport routes. If you’re near areas where they are taking place, you should remain aware of what is happening around you and follow the advice of the police and local authorities.
+
 ## Crime
 
 Take precautions to reduce the risk of bag-snatching or pickpocketing. Avoid carrying valuables and large amounts of money. Lock your vehicle and park where possible in a secure car park. Most incidents occur in the larger cities.

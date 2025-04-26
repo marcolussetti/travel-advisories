@@ -1,11 +1,11 @@
 {
     "name": "Ireland",
-    "update_reason": "Removal of Information about Storm \u00c9owyn ('Warnings and insurance' page).",
+    "update_reason": "New information about demonstrations ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Ireland/Warnings and insurance.md",
-            "update_date": "2025-01-24T21:05:05+00:00"
+            "update_date": "2025-04-25T16:28:24+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Ireland/Getting help.md"
         }
     ],
-    "update_date": "2025-01-24T21:05:05+00:00"
+    "update_date": "2025-04-25T16:28:24+01:00"
 }

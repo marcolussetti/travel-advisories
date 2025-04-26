@@ -47,19 +47,13 @@ You can get a prison sentence for smuggling antiquities in Algeria. If you buy s
 In Algeria, a child is:
 
 * someone under the age of 19 years and one day
-* considered to be an Algerian citizen if their father is Algerian and he is named on the birth certificate
+* considered to be an Algerian citizen if one of their parents is Algerian
 
 If an Algerian citizen or a British-Algerian dual national child travels with one parent, the parent (whether mother or father) must prove their parental link through a ‘Livret de famille’ (original or certified copy).
 
-Algerian children travelling alone must have a letter (‘Autorisation Parentale’) from their parent or guardian giving them permission to leave the country. Children not from Algeria travelling alone need to show proof of permanent residence in the country they are travelling to.
+Algerian children travelling alone must have a letter (‘Autorisation Parentale’) from their parent or legal guardian giving them permission to leave the country. Children not from Algeria travelling alone need to show proof of permanent residence in the country they are travelling to.
 
-You can read a non-official translation of some sections from the [Algerian Family Code](https://www.gov.uk/government/publications/algerian-family-code). For further information, check the website of the [Algerian Ministry of Interior](https://www.interieur.gov.dz/index.php/fr/mes-d%C3%A9marches-administratives/sortie-des-mineurs-%C3%A0-l-%C3%A9tranger.html) or contact the [Algerian Consulate in London](https://www.algerian-consulate.org.uk/).
-
-### Child custody and forced marriage
-
-Algerian family law is different from UK law. If you’re a dual British-Algerian national, take particular care if [child custody](https://www.gov.uk/permission-take-child-abroad) or [forced marriage](https://www.gov.uk/stop-forced-marriage) is likely to become an issue during your stay.
-
-If you have concerns, get legal advice before you travel to Algeria or agree to family members travelling to Algeria.
+For further information, check the website of the [Algerian Ministry of Interior](https://www.interieur.gov.dz/index.php/fr/mes-d%C3%A9marches-administratives/sortie-des-mineurs-%C3%A0-l-%C3%A9tranger.html) or contact the [Algerian Consulate in London](https://www.algerian-consulate.org.uk/).
 
 [Previous
 :

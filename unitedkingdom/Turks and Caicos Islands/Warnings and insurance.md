@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   26 April 2025
 
 Updated:
-:   30 April 2024
+:   25 April 2025
 
 Latest update:
-:   Information on customs rules in the Turks and Caicos Islands (‘Entry requirements’ page).
+:   New information on crime in the Turks and Caicos Islands (See ‘Crime’ on the ‘Safety and security’ page).
 
 The Turks and Caicos Islands is a British Overseas Territory, so there is no British Embassy, and the Turks and Caicos Islands government will support you if you need help.
 

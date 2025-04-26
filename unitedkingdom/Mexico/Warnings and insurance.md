@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   26 April 2025
 
 Updated:
-:   24 March 2025
+:   25 April 2025
 
 Latest update:
-:   Removal of information about protests causing disruption at Mexico City Airport over the weekend of 22-23 March ('Warnings and insuarnce' page).
+:   Information added about attacks having taken place on public transport in Los Cabos, La Paz and Mulegé (‘Warnings and insurance’ page)
 
 ![](https://assets.publishing.service.gov.uk/media/65fabfdfaa9b76001dfbdb8a/FCDO_TA_065_-_Mexico_Travel_Advice_Ed5_WEB.jpg)
 
@@ -15,6 +15,8 @@ Latest update:
 [Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/65fabfdfaa9b760011fbdb6b/FCDO_TA_065_-_Mexico_Travel_Advice_Ed5.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth and Development Office (FCDO).
+
+Since 24 April a dispute between rival Cartels has included attacks on public transport in Baja California Sur. Affected municipalities include Los Cabos, La Paz, and Mulegé. Please follow the advice of local authorities
 
 ## Areas where FCDO advises against all but essential travel
 

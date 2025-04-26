@@ -135,7 +135,7 @@ There is a risk of earthquakes: movements greater than magnitude 6 occur periodi
 
 ### Volcanic eruptions
 
-Costa Rica has 16 volcanoes, several of which are considered active. The risk of eruptions is always present. The most recent significant eruption was at Volcan Rincon de la Vieja on 21 April 2023.
+Costa Rica has 16 volcanoes, several of which are considered active. The risk of eruptions is always present.  There is currently (April 2025) an increasing and significant series of eruptions at Poas Volcano.  The national emergency commission has issued a red warning for the Poas National Park, which is closed to visitors.
 
 Check news reports and follow local advice before travelling to any areas around volcanoes. Avoid volcanic areas during and immediately after heavy rainfall when there’s increased risk of lava flows.
 

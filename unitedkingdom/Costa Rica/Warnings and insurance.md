@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   26 April 2025
 
 Updated:
-:   26 November 2024
+:   25 April 2025
 
 Latest update:
-:   Information about airport disruptions (‘Safety and security’ page)
+:   Update on recent volcanic activity
 
 ## Before you travel
 
