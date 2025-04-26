@@ -6,7 +6,7 @@ High Degree of Caution
 
 ### **Travel Alert**
 
-The Department of Foreign Affairs continues to advise against all travel to Manipur due to ongoing ethnic violence across the state.
+The Department of Foreign Affairs advises against all travel to Jammu and Kashmir due to the recent terrorist attacks. We continue to advise against all travel to Manipur due to ongoing ethnic violence across the state.
 
 ### **General Travel Advice**
 
@@ -24,9 +24,9 @@ Citizens can also follow the Embassy on social media (X [**@IrlEmbIndia**](https
 
 ### **North-West**
 
-The Department of Foreign Affairs advises against all travel to Jammu and Kashmir, including the cities of Srinagar and Jammu.
+The Department of Foreign Affairs advises against all travel to Jammu and Kashmir, including the cities of Pahalgam, Srinagar and Jammu.
 
-Irish citizens in the Union Territory of Ladakh should remain vigilant, follow the advice of local authorities, and monitor developments in the local and Indian media. We advise against all travel in the vicinity of the border with Pakistan, except the border crossing at Wagah.
+Irish citizens in the Union Territory of Ladakh should remain vigilant, follow the advice of local authorities, and monitor developments in the local and Indian media. We advise against all travel within 10km of the India-Pakistan border and note the closure of the Wagah-Atarri border crossing.
 
 ### **North-East**
 
@@ -36,7 +36,7 @@ Recently, the Union Home Ministry has re-imposed the Protected Area Regime (PAR)
 
 Foreigners visiting the three north-eastern States are required to seek prior permission and special permits from the government. According to Ministry guidelines, a foreigner is not encouraged to visit protected areas unless there are “extraordinary reasons to justify a visit”.
 
-Irish citizens travelling in or through either the Darjeeling hills, Sikkim or the Cooch Behar district of West Bengal are advised to exercise a high degree of caution, follow the advice of the local authorities, monitor local media and avoid any demonstrations or gatherings
+Irish citizens travelling in or through either the Darjeeling hills, Sikkim or the Cooch Behar district of West Bengal are advised to exercise a high degree of caution, follow the advice of the local authorities, monitor local media and avoid any demonstrations or gatherings.
 
 ### **Emergency Assistance**
 
