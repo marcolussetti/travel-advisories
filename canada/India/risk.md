@@ -31,4 +31,4 @@ This advisory excludes travelling to or within the Union Territory of Ladakh.
 * Punjab
 * Rajasthan
 
-This advisory excludes the Wagah border crossing.
+The Attari-Wagah border crossing is currently closed.

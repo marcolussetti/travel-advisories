@@ -27,7 +27,7 @@ The level of tension between India and Pakistan may change suddenly. You could e
 
 The security situation along the border with Pakistan, especially along the Line of Control (LoC), which separates the Union territories of Jammu and Kashmir and Ladakh from Pakistan-administered Kashmir, remains volatile. Cross-border gunfire and shelling are occurring sporadically along the LoC. The presence of landmines and unexploded ordnance also constitute a risk.
 
-Although international travellers regularly use the Wagah border crossing linking Amritsar, India, to Lahore, Pakistan, it remains vulnerable to attack. Security measures are in place. You may experience long delays.
+The Attari-Wagah border crossing is currently closed.
 
 ### Parts of Northeastern India
 

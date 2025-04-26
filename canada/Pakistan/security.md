@@ -38,7 +38,7 @@ The level of tension between Pakistan and India is susceptible to sudden changes
 
 The security situation in the Kashmir region, especially along the Line of Control (LoC), which separates India-administered Kashmir in the south from Pakistan-administered Kashmir in the north, and along the working boundary that continues south toward Sialkot, remains volatile. Since September 2016, cross-border gunfire and shelling have been occurring sporadically along the LoC.
 
-Although the Wagah border crossing linking Lahore, Pakistan, to Amritsar, India, is regularly used by international travellers, it remains vulnerable to attack. Security measures are in place. Visitors may experience long delays.
+The Wagah border crossing is currently closed.
 
 ### Border areas with Afghanistan, China and Iran
 
