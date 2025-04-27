@@ -1,7 +1,7 @@
 {
     "name": "Iran",
-    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
-    "update_date": "2025-04-08T10:55:00",
+    "update_reason": "Safety and security \u2013 added information on the Shahid Rajaei Port explosion",
+    "update_date": "2025-04-26T20:57:00",
     "sections": {
         "risk": "canada/Iran/risk.md",
         "security": "canada/Iran/security.md",
