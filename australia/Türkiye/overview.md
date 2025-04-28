@@ -8,7 +8,7 @@ There's an ongoing risk of earthquakes in parts of Türkiye. Aftershocks can con
   
 There have been several recent deaths reported in Istanbul and Ankara from methanol in counterfeit drinks. Stick to reputable venues and be wary of suspiciously cheap alcohol (see 'Safety').  
   
-You'll need an e-visa for tourism or business if you're staying for less than 90 days. If you're travelling to Türkiye to commemorate ANZAC Day, understands the risks and plan ahead (see ‘Travel’).
+You'll need an e-visa for tourism or business if you're staying for less than 90 days (see ‘Travel’).
 
 Advice Level summary
 
@@ -75,7 +75,6 @@ Full travel advice: [Local laws](#local-laws)
 
 * You'll need an e-visa for tourism or business if you're staying for less than 90 days in a 180-day period.
 * If you're travelling to Türkiye for medical services, you should apply for a medical visa through the [HealthTürkiye](https://www.healthturkiye.com/homepage) online portal.
-* If you're travelling to Türkiye to commemorate ANZAC Day, understands the risks and plan ahead. Read out [Travel overseas for ANZAC Day](/before-you-go/major-events/cultural-events/travel-overseas-anzac-day "Travel overseas for Anzac Day") page for further information on attending the event.
 * Entry and exit conditions can change at short notice. Contact the nearest embassy or consulate of Türkiye for the latest details.
 
 Full travel advice:  [Travel](#travel)

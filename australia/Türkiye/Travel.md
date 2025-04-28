@@ -86,7 +86,9 @@ Most services accept credit cards, but you should carry a small amount of cash j
 
 EFTPOS and ATMs are widely available.
 
-#### Travelling for ANZAC Day
+#### Local travel
+
+#### Travel to the Gallipoli Historical Site
 
 The weather can change suddenly around ANZAC Cove and the Gallipoli Historical Site.
 
@@ -102,8 +104,6 @@ To stay safe:
 **More information:**
 
 * [Travel overseas for Anzac Day](/before-you-go/major-events/cultural-events/travel-overseas-anzac-day "Travel overseas for Anzac Day")
-
-#### Local travel
 
 #### Driving permit
 

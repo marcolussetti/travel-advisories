@@ -2,7 +2,7 @@
 
 Latest update
 
-We've reviewed our travel advice for France and continue to advise exercise a high degree of caution due to the threat of terrorism. France's national terrorist alert warning remains at the highest level. Expect high-level security nationwide (see 'Safety'). If you plan to travel to France to commemorate Anzac Day, understand the risks and plan ahead (see 'Travel').
+We continue to advise exercise a high degree of caution due to the threat of terrorism in France. France's national terrorist alert warning remains at the highest level. Expect high-level security nationwide (see 'Safety').
 
 Advice Level summary
 
@@ -53,7 +53,6 @@ Full travel advice: [Local laws](#local-laws)
 * France is part of the [Schengen area](https://www.smartraveller.gov.au/before-you-go/the-basics/schengen), meaning you can enter without a visa in some cases. In other situations, you'll need a visa.
 * The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area  is expected to start in October 2025. A specific start date hasn't been announced.
 * The [France-Visas website](https://france-visas.gouv.fr/en/web/france-visas/visa-wizard#/)can help determine if you need a visa to enter or transit France. Most visas require you to apply from outside of France.
-* If you plan to travel to France to commemorate Anzac Day, understand the risks and plan ahead. Read our '[Travel overseas for Anzac Day'](/before-you-go/major-events/cultural-events/travel-overseas-anzac-day "Travel overseas for Anzac Day") page for further information on attending the event.
 
 Full travel advice: [Travel](#travel)
 
