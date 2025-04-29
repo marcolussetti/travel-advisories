@@ -2,6 +2,23 @@
 
 ## Safety and security
 
+### Major power outage
+
+Since April 28, 2025, a major power outage has affected large parts of the country, including major cities such as Lisbon and Porto.
+
+The outage has a significant impact on the provision of essential services, including:
+
+* financial services, including debit and credit card payments
+* telecommunications networks
+* emergency services
+* transportation, including air travel
+
+If you are in the affected areas:
+
+* try to keep your phone charged
+* if you have internet connectivity, monitor local news to stay informed of the evolving situation
+* follow the instructions of local authorities
+
 ### Crime
 
 #### Petty crime

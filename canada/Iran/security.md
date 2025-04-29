@@ -13,19 +13,6 @@ You should:
 * monitor local and international media to stay informed of the rapidly evolving situation
 * be vigilant and prepared to shelter in place
 
-### Explosion at Shahid Rajaei Port
-
-On April 26, 2025, a powerful explosion occurred at the Shahid Rajaei Port, in Bandar Abbas, resulting in several casualties and significant damage.
-
-Local emergency services are working to put out the fire, and a state of emergency has been issued for Bandar Abbas due to the release of chemicals into the air.
-
-If you are in or near the affected areas:
-
-* stay indoors
-* keep your doors and windows closed
-* monitor local news to stay informed of the situation
-* follow the instructions from emergency personnel
-
 In the context of recent developments between Canada and Iran, Iranian authorities could take retaliatory measures that could pose a risk to the safety and security of Canadians, including Canadian-Iranians.
 
 Canadians in Iran are likely to be subject to increased surveillance by Iranian authorities for activities and behaviours that would be considered innocuous in Canada, including:
