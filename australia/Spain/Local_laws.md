@@ -8,7 +8,7 @@ If you're arrested or jailed, the Australian Government will do what it can to h
 
 **More information:**
 
-* [Arrested or jailed](https://smartraveller.govcms.gov.au/while-youre-away/when-things-go-wrong/arrested-jailed)
+* [Arrested or jailed](/while-youre-away/when-things-go-wrong/arrested-jailed "Arrested or jailed overseas")
 
 #### Drugs
 
@@ -20,12 +20,12 @@ Penalties for drug offences include heavy fines and prison time.
 
 #### Other laws
 
-Always carry personal ID. This may include:
+Always carry a personal ID. This may include:
 
 * your original driver's licence (digital driver's licences are not accepted)
-* a copy of your passport, either in hardcopy or as a photo on your phone
+* a copy of your passport, either as a photocopy or as a photo on your phone
 
-Police may ask to see ID. They can detain you until they can confirm your identity. Carry a copy of your Australian passport as a hard copy or a photo on your phone.
+Police may ask to see ID. They can detain you until they can confirm your identity.
 
 Don't photograph military installations.
 

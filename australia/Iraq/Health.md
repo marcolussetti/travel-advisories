@@ -56,11 +56,7 @@ Carry a copy of your prescription and a letter from your doctor stating:
 
 #### Insect-borne diseases
 
-Insect-borne diseases are common.
-
-[Malaria](https://www.who.int/news-room/fact-sheets/detail/malaria) is widespread in the southern province of Basrah and areas below 1500m.
-
-Other diseases caused by insect bites in some regions of Iraq include:
+Insect-borne diseases are common. Diseases caused by insect bites in some regions of Iraq include:
 
 * [Crimean-Congo haemorrhagic fever](https://www.who.int/news-room/fact-sheets/detail/crimean-congo-haemorrhagic-fever)
 * [cutaneous and mucosal leishmaniasis](https://www.who.int/news-room/fact-sheets/detail/leishmaniasis)
@@ -71,13 +67,11 @@ To reduce your risks from disease:
 * always insect repellent
 * wear long, loose, light-coloured clothing
 
-Consider taking medicine to prevent malaria.
-
 Get medical advice if you have a fever, muscle pain, rash or severe headache.
 
 #### HIV/AIDS
 
-[HIV/AIDS](https://www.healthdirect.gov.au/hiv-infection-and-aids) is common. Take steps to reduce your risk of exposure to the virus.
+[HIV/AIDS](https://www.healthdirect.gov.au/hiv-infection-and-aids) is present. Take steps to reduce your risk of exposure to the virus. Travellers with HIV/AIDs are [prohibited from entering Iraq.](https://www.visahq.com/iraq/customs/)
 
 #### Bird flu (avian influenza)
 
@@ -92,7 +86,6 @@ Waterborne, foodborne and other [infectious diseases](/before-you-go/health/dise
 * [typhoid](https://www.healthdirect.gov.au/typhoid-and-paratyphoid)
 * [hepatitis](https://www.who.int/health-topics/hepatitis#tab=tab_1)
 * [tuberculosis](https://www.who.int/news-room/fact-sheets/detail/tuberculosis)
-* [rabies](https://www.who.int/news-room/fact-sheets/detail/rabies)
 
 Serious outbreaks sometimes occur.
 
@@ -112,6 +105,10 @@ Get medical advice if you have a fever or diarrhoea.
 Iraq is no longer affected by wild poliovirus. However, it's still at risk from international spread of the disease.
 
 Stay up to date with vaccinations against [polio (poliomyelitis)](https://www.who.int/news-room/fact-sheets/detail/poliomyelitis). Get a booster dose before you travel.
+
+#### Sandstorms and dust storms
+
+Sandstorms and dust storms are common. They can cause allergies and breathing problems. During sandstorms or dust storms either stay indoors, wear a mask or seek medical advice.
 
 #### Medical care
 

@@ -25,8 +25,6 @@ If you're in Iraq, you should leave as soon as you're able to do so. If you trav
 
 For a child travelling without a parent, the guardian must carry documentation saying that the child's parents allow the travel.
 
-An Australian-Iraqi dual national child with an Iraqi father may need to obtain permission from the child's father before authorities will let the child leave Iraq.
-
 #### Land borders
 
 If despite our advice, you travel to border areas note that border crossings can close with little or no warning.

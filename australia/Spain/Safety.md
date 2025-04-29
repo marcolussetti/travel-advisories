@@ -4,7 +4,7 @@
 
 Terrorist attacks in Spain are likely. 
 
-The national terrorism alert level for Spain is 'high'. Attacks could be indiscriminate and could occur anywhere, any time and without warning.
+The national terrorism alert level for Spain is 'high'. Attacks could be indiscriminate and could occur anywhere, at any time and without warning.
 
 In recent years, terrorists have staged attacks in Spain and other European cities. Targets have included:
 
@@ -67,9 +67,9 @@ In the event of a protest or demonstration, contact your travel agent or tour op
 
 #### Petty crime
 
-Petty crime is common in large cities. It's a serious problem in Barcelona, especially on public transport and tourist areas.
+Petty crime is common in large cities. It's a serious problem in popular tourist destinations, including Barcelona, Ibiza and other major cities, especially on public transport and tourist areas.
 
-Petty crime includes:
+Petty crimes includes:
 
 * bag snatching
 * pickpocketing
@@ -83,6 +83,7 @@ Thieves are very active during the peak summer tourist season. They target:
 * museums
 * beaches
 * restaurants and cafes
+* nightclubs and bars
 * hotel foyers
 * car parking areas or car hire companies
 
@@ -102,7 +103,7 @@ To protect yourself from petty crime:
 * avoid walking in quiet, poorly lit streets
 * monitor local sources for information about possible safety or security risks
 
-Keep your passport and other ID separate. We recommend you carry a copy of your passport for ID, either as a hard copy or as a photo on your phone.
+Keep your passport and other ID separate. We recommend you carry a copy of your passport for ID, either as a photocopy or as a photo on your phone.
 
 #### Road crime
 
@@ -130,26 +131,27 @@ Credit card and ATM fraud can occur.
 
 Avoid using ATMs that open onto the street, especially at night. Use ATMs in banks, shops, and shopping centres.
 
-#### Drink spiking
+#### Food and drink spiking
 
-Cases of drink spiking, followed by theft and [sexual assault](/before-you-go/safety/sexual-assault "Reducing the risk of sexual assault and harassment"), are reported.
+Food and drink spiking can occur at popular nightclubs and markets, often leading to [sexual assault](/before-you-go/safety/sexual-assault "Reducing the risk of sexual assault and harassment").
 
-To protect yourself from crime:
+Be alert to the potential risks, and don't leave food or drinks unattended. Pay attention when your drinks are being mixed. Stick to reputable venues and avoid homemade alcoholic drinks due to the risk of methanol poisoning. Get urgent medical help if you suspect you’ve been a victim.
 
+To protect yourself from drink and needle spiking:
+
+* don't accept drinks from strangers or leave drinks alone
 * stick with people you trust in bars and nightclubs
-* never accept food or drinks from strangers
-* don't leave your food or drink unattended
 
 **More information:**
 
 * [Partying safely](/before-you-go/safety/partying "Partying safely")
 
-#### Gender violence
+#### Gender-based violence
 
-Spanish authorities have various emergency numbers for victims of gender violence. 
+Spanish authorities have various emergency numbers for victims of gender-based violence. 
 
 * Call 112 for 24-hour assistance from any of the emergency services in Spain. English-speaking staff are available.
-* Call 016 (Whatsapp 600 000 016 or email [016-online@msssi.es](mailto:016-online@msssi.es)). This is a 24 hours a day, 365 days a year helpline for victims of gender violence. It is accessible for people with hearing difficulties and is available in 53 languages.
+* Call 016 (Whatsapp 600 000 016 or email [016-online@msssi.es](mailto:016-online@msssi.es)). This is a 24 hours a day, 365 days a year helpline for victims of gender-based violence. It's accessible to people with hearing difficulties and available in 53 languages.
 
 **More Information:**
 
@@ -157,7 +159,7 @@ Spanish authorities have various emergency numbers for victims of gender violenc
 
 #### Scams
 
-[Scams](/before-you-go/safety/scams "Scams that affect travellers") are common.
+[Scams](/before-you-go/safety/scams "Scams that affect travellers") are common.
 
 Be aware of the latest scams. Don't become a victim.
 
@@ -195,7 +197,7 @@ If there's a natural disaster, follow the advice of local authorities.
 
 Spain experiences [earthquakes](/before-you-go/safety/earthquakes-tsunamis "Earthquakes and tsunamis"), but major quakes are rare.
 
-Volcanic eruptions occurred in 2021 on La Palma in the Canary Islands. There's seismic activity on the Canary Island of El Hierro. The risk level set by local authorities is Green, which is level 1 of 3.
+Volcanic eruptions have occurred in the past. There's seismic activity on the Canary Island of El Hierro. The risk level set by local authorities is Green, which is level 1 of 3.
 
 **More information:**
 
@@ -212,6 +214,12 @@ If there's a forest fire:
 * follow the advice of local authorities, including evacuation orders
 * keep in contact with family and friends
 * monitor the media for updates
+
+#### Floods
+
+[Floods](https://www.smartraveller.gov.au/before-you-go/safety/natural-disasters#floods) and heavy rainfall occur in Spain. People have lost their lives due to flooding.
+
+Exercise caution around affected areas and follow the advice of local authorities.
 
 #### Adventure travel
 

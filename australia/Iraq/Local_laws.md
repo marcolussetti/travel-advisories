@@ -20,13 +20,13 @@ Iraq applies the death penalty for a range of crimes, including murder, espionag
 
 #### Other laws
 
-In February 2023 Iraq prohibited the import, manufacture, and selling of alcoholic beverages of all sorts, punishable by fines of up to IQD 25m. Customs officers may also confiscate prohibited goods or items deemed a threat to the peace, security, health, environment, or social order of Iraq.
+In February 2023, Iraq prohibited the import, manufacture, and selling of alcoholic beverages of all sorts, punishable by fines of up to IQD 25m. Customs officers may also confiscate prohibited goods or items deemed a threat to the peace, security, health, environment, or social order of Iraq.
 
-Get professional advice for local legal matters. Know your rights and responsibilities, especially in family law, such as:
+Commercial or labour dispute cases may take years to finalise. Before entering a commercial contract in Iraq, take legal advice, both in Australia and in Iraq.
 
-* divorce
-* child custody
-* child support
+**More Information**
+
+* [Going overseas for business](https://www.smartraveller.gov.au/before-you-go/activities/business)
 
 It's illegal to:
 
@@ -43,13 +43,26 @@ It's also illegal to take photos or film government and security buildings, incl
 * military bases
 * embassies
 
-In April 2024, the Iraqi Parliament passed amendments to the 'Anti-Prostitution and Homosexuality Law'.  The law criminalises same-sex relationships with prison terms of 1-15 years. Homosexuality is not socially accepted, and local attitudes towards LGBTQIA+ people may be hostile. There are no legal protections against discrimination. Violence against LGBTQIA+ people occurs.
+In 2024, Iraq criminalised same-sex relationships, changing gender, and the promotion of LGBTQ+ ideology, with large fines and prison terms of up to 15 years. Homosexuality is not socially accepted, and local attitudes towards the LGBTQIA+ community may be hostile. There are no legal protections against discrimination. Violence against LGBTQIA+ people, and their supporters, has occurred.
 
 Local laws can change without notice. Check legal requirements with an [embassy or consulate of Iraq](https://protocol.dfat.gov.au/Public/Missions/94).
 
 **More information:**
 
 * [LGBTQIA+ travellers](/before-you-go/who-you-are/LGBTQIA "Advice for LGBTQIA+ travellers")
+
+#### Family matters
+
+Get professional advice for local legal matters before you travel. Know your rights and responsibilities, especially in family law, such as:
+
+* divorce
+* child custody
+* child support
+* [forced marriages](https://www.smartraveller.gov.au/before-you-go/laws/forced-marriage)
+
+Authorities have stopped Australians and Australian-Iraqi dual nationals from leaving Iraq. Relatives have legally placed border alerts ('stop orders') where there are pending family court matters. Overturning stop orders can be a time consuming and complicated process.
+
+The Australian Government can't prevent or overturn a stop order on an Australian citizen.
 
 #### Australian laws
 
@@ -60,12 +73,13 @@ Some Australian criminal laws still apply when you're overseas. If you break the
 * [National security](https://www.nationalsecurity.gov.au/what-australia-is-doing/places-you-cant-go)
 * [Staying within the law and respecting customs](/before-you-go/laws "Staying within the law")
 * [Forced marriage](/before-you-go/laws/forced-marriage "Forced marriage")
+* [Travelling with children](https://www.smartraveller.gov.au/before-you-go/who-you-are/children)
 
 #### Dual citizenship
 
 Iraq recognises dual nationality.
 
-If a dual-national child has an Iraqi father and the child wants to leave the country, you may need to provide proof of the father's permission.
+If a dual-national child has an Iraqi father and the child wants to leave the country, you may need to provide proof of the father's permission to enable the child to travel.
 
 **More information:**
 

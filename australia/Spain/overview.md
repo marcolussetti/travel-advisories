@@ -2,7 +2,9 @@
 
 Latest update
 
-We continue to advise exercise normal safety precautions in Spain.
+We've reviewed our travel advice for Spain and continue to advise exercise normal safety precautions.  
+  
+There's an ongoing threat of terrorism in Spain. The national terrorism alert level for Spain is 'high'. Attacks could be indiscriminate and could occur anywhere, at any time and without warning. Take official warnings seriously and follow the advice of local authorities.
 
 Advice Level summary
 
@@ -22,10 +24,9 @@ Exercise normal safety precautions in Spain.
 
 ### Safety
 
-* Terrorist attacks in Spain are likely. The national terrorism alert level for Spain is 'high'. Attacks could be indiscriminate and could occur anywhere, any time and without warning. Take official warnings seriously and follow the advice of local authorities.
+* Terrorist attacks in Spain are likely. The national terrorism alert level for Spain is 'high'. Attacks could be indiscriminate and could occur anywhere, at any time and without warning. Take official warnings seriously and follow the advice of local authorities.
 * Demonstrations and strikes can occur and disrupt transport. Sometimes, protesters clash with police. Avoid unrest.
-* Watch out for bag snatching, pickpocketing and theft from cars in large cities. Petty crime is a serious problem in Barcelona. Take care at tourist spots, beaches and on transport.
-* Taking part in the Running of the Bulls in Pamplona is dangerous. Check your travel insurance covers you.
+* Watch out for bag snatching, pickpocketing and theft from cars in large cities and on highways. Petty crime is a serious problem in popular tourist destinations including Barcelona, Ibiza and other major cities. Take care at tourist spots, beaches and on transport.
 * Spain experiences earthquakes, volcanic eruptions, severe storms and forest fires. Monitor local media for updates.
 
 Full travel advice: [Safety](#safety)
@@ -39,17 +40,17 @@ Full travel advice: [Health](#health)
 
 ### Local laws
 
-* Always carry personal ID. You should carry a copy of your Australian Passport for ID, either as a hardcopy or as a photo on your phone. Police can detain you until they can confirm your identity.
-* Don't photograph military sites.
-* Spain doesn't recognise dual nationality. Always travel on your Australian passport.
+* Spain is a part of the [Schengen area](https://www.smartraveller.gov.au/before-you-go/the-basics/schengen), along with many other European countries. This allows you to enter without a visa in some cases. Stays longer than 90 days will require a visa.
+* The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area is expected to start in October 2025.
+* Entry and exit conditions can change at short notice. Contact the nearest [embassy or consulate of Spain](https://protocol.dfat.gov.au/Public/Missions/185)for more details.
 
 Full travel advice: [Local laws](#local-laws)
 
 ### Travel
 
-* Spain is a part of the [Schengen area](/before-you-go/the-basics/schengen "Visas and entry requirements in Europe and the Schengen Area"), along with many other European countries. This allows you to enter without a visa in some cases. You'll need a visa if you're travelling for a purpose other than tourism.
-* The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area is expected to start in October 2025.
-* Entry and exit conditions can change at short notice. Contact the nearest [embassy or consulate of Spain](https://protocol.dfat.gov.au/Public/Missions/185)for more details.
+* Spain is a part of the [Schengen area](/before-you-go/the-basics/schengen "Visas and entry requirements in Europe and the Schengen Area"), along with many other European countries. This allows you to enter without a visa in some cases. Stays longer than 90 days will require a visa.
+* The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area is expected to start in October 2025.
+* Entry and exit conditions can change at short notice. Contact the nearest [embassy or consulate of Spain](https://protocol.dfat.gov.au/Public/Missions/185)for more details.
 
 Full travel advice: [Travel](#travel)
 

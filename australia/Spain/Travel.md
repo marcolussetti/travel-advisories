@@ -10,8 +10,8 @@ Spain is a part of the [Schengen Area](/before-you-go/the-basics/schengen "Visa
 
 You'll need a visa if:
 
-* you're travelling for a purpose other than tourism
 * you plan to stay longer than 90 days
+* your reason for travel changes, and you no longer qualify for visa-free travel.
 
 Ensure you get a legible entry stamp in your passport when you first enter the Schengen Area.
 
@@ -33,7 +33,7 @@ Entry and exit conditions can change at short notice. Contact the nearest [embas
 
 #### Passport
 
-Carry copies of your passport in hard copy or as a photo on your phone in case authorities stop you. See [Local laws](https://www.smartraveller.gov.au/destinations/europe/spain#local-laws)
+Carry copies of your passport as a photocopy or as a photo on your phone in case authorities stop you (See 'Local laws').
 
 #### Validity
 
@@ -70,7 +70,8 @@ The currency of Spain is the Euro (€).
 
 If you're travelling to or from any non-European Union (EU) country, declare funds of 10,000 Euro or more, including the equivalent in another currency. This covers all forms of currency, not only cash.
 
-If you fail to declare currency or give wrong information, you'll be fined.  
+If you fail to declare currency or give wrong information, you'll be fined.
+
 You don't need to declare funds if you're travelling to or from another EU country.
 
 #### Local travel
@@ -93,11 +94,11 @@ If you're travelling to Morocco, read our [travel advice for Morocco](https://w
 To drive a vehicle, you'll need both:
 
 * a current Australian driver's licence (digital driver’s licences may not be accepted)
-* a valid international driving permit (IDP). Contact the Australia Automobile Association on [www.aaa.asn.au](http://www.aaa.asn.au) for further information.
+* a valid international driving permit (IDP). Contact the [Australia Automobile Association](https://www.aaa.asn.au) for further information.
 
 If you drive without an IDP, you may be fined and your car impounded.
 
-Road travel 
+#### Road travel
 
 Be cautious when you drive or travel as a passenger. Keep your doors locked, even when moving. Lock your vehicle when you leave it.
 

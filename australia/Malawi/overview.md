@@ -2,7 +2,7 @@
 
 Latest update
 
-We've reviewed our advice and continue to advise exercise a high degree of caution in Malawi. Demonstrations and protests can be unpredictable and may turn violent quickly. Avoid protests and demonstrations. During periods of unrest, monitor local media for updates, avoid affected areas and follow the advice of local authorities (see ‘Safety’). You don't need to apply for a visa if you're visiting Malawi for tourism purposes for up to 90 days (see 'Travel' for details).
+We continue to advise exercise a high degree of caution in Malawi. Demonstrations and protests can be unpredictable and may turn violent quickly. Avoid protests and demonstrations. During periods of unrest, monitor local media for updates, avoid affected areas and follow the advice of local authorities (see ‘Safety’). You don't need to apply for a visa if you're visiting Malawi for tourism purposes for up to 90 days (see 'Travel'). There's an outbreak of Mpox in parts of Africa, including Malawi. Maintain strict hygiene standards and avoid physical contact with anyone who has Mpox (see 'Health').
 
 Advice Level summary
 

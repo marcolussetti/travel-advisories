@@ -53,6 +53,34 @@ Carry a copy of your prescription and a dated letter from your doctor stating:
 
 #### Health risks
 
+#### Mpox (formerly known as monkeypox)
+
+The World Health Organisation (WHO) has declared the current mpox outbreak in parts of Africa as a global public health emergency. It has now spread across a number of countries in Africa, including Malawi.
+
+Mpox can be transmitted to humans through physical contact with an infectious person, infected animals or contaminated materials.
+
+Symptoms include:
+
+* rash
+* fever
+* sore throat
+* headache
+* muscle aches
+* back pain
+* low energy
+* swollen lymph nodes
+
+Seek professional medical advice on mpox vaccines.
+
+Maintain strict hygiene standards. Avoid physical contact with anyone who has mpox.
+
+See a doctor if you feel unwell and isolate from others if you develop any mpox symptoms.
+
+**More information:**
+
+* [mpox](https://www.cdc.gov.au/topics/mpox-monkeypox) (Australian Government)
+* [Infectious diseases](/before-you-go/health/diseases "Infectious diseases")
+
 #### Insect-borne diseases
 
 [Malaria](https://www.who.int/news-room/fact-sheets/detail/malaria) is common and occurs year-round.

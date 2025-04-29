@@ -143,7 +143,7 @@ Kidnapping is a serious risk in Mexico. Kidnapping occurs throughout the country
 
 Some victims claim police officers or other officials are involved in their kidnapping.
 
-Virtual or scam kidnappings target people over the phone to extort money. Kidnappers pose as officials or cartel members and demand payments for the release of a family member they have allegedly detained. If you receive a call or message, contact local police. This opportunistic extortion attempt can also occur alongside public news.
+Virtual or scam kidnappings target people over the phone to extort money. Kidnappers pose as officials or cartel members and demand payments for the release of a family member they have allegedly detained. If you receive a call or message, contact local police. Criminal groups may also attempt to extort relatives of tourists reported as missing in news reports.
 
 Express kidnappings are also regularly reported in Mexico. Kidnappers force victims to withdraw funds from ATMs before being released, including being held in an unauthorised taxi.
 

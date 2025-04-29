@@ -33,10 +33,11 @@ Targets for terrorist attacks include:
 * police stations
 * recruiting centres
 * military establishments
+* civilians in remote areas
 
 Terrorists may also target:
 
-* Baghdad International Airport (BIAP)
+* Baghdad International Airport
 * the International Zone in Baghdad
 * public transport (and transport hubs)
 * protests
@@ -48,7 +49,7 @@ Terrorists may also target:
 * foreign embassies
 * other civilian infrastructure
 
-The International Zone in Baghdad and BIAP have been targeted by rocket attacks and drones in the last 12 months.
+The International Zone in Baghdad and Baghdad International Airport have been targeted by rocket attacks and drones in the past.
 
 Avoid potential targets. If you must visit them, always have an exit plan. 
 
@@ -77,32 +78,50 @@ Sources report that terrorists and criminal groups continue to look for opportun
 * people working for NGOs
 * people working for foreign companies
 
-Criminal gangs and terrorists demand large ransoms for releasing hostages. Ransom payments to terrorist groups are likely to breach Australian anti-terrorism financing laws.
+Criminal gangs and terrorists demand large ransoms for releasing hostages. 
 
-The Australian Government's longstanding policy is that it doesn't make payments or concessions to kidnappers.
+The Australian Government's longstanding policy is that it doesn't make payments or concessions to kidnappers. Ransom payments to kidnappers have funded further terrorist attacks and criminal activity. Ransom payments to terrorist groups are likely to breach Australian anti-terrorism financing laws.
 
-Regularly re-assess your security arrangements and carefully consider any travel. Using professional security providers is important, but does not completely protect you.
+If despite our advice, you travel to an area with a high risk of kidnapping our ability to provide consular assistance in these destinations is limited.   
+  
+You are responsible for your own safety. To reduce the risk of being kidnapped:
+
+* always be alert to your personal security and surroundings - avoid distractions. Be prepared to stop or take evasive action if you sense danger
+* get professional security advice for travel in locations with a heightened kidnap risk. It is essential to have a contingency plan
+* check your accommodation has appropriate security measures
+* vary your movements so you don't set predictable patterns
+* keep a low profile – including online. Drawing attention to yourself in high-risk areas may signal to criminals that you have something worth taking
+* avoid isolated locations, particularly when travelling alone. There is safety in numbers, and you should try to travel with someone else, especially at night
+* notify family or friends of planned travel; share your location and emergency contacts that they can rely on if something happens
+* avoid talking about your money or business affairs
+* use ATMs in public places and during daylight hours
+* avoid giving personal details to strangers online or over the phone. Criminals have been known to search social media for victims
+* If you are confronted by armed criminals, it is best to surrender and cooperate – resistance tends to make the situation worse
+
+Regularly re-assess your security arrangements and carefully consider any travel. Using professional security providers is important but does not completely protect you.
 
 **More information:**
 
-* [Kidnapping](/before-you-go/safety/kidnapping "Reducing the risk of kidnapping")
+* [Kidnapping](https://www.smartraveller.gov.au/before-you-go/safety/kidnapping)
+* [Scams that affect travellers](https://www.smartraveller.gov.au/before-you-go/safety/scams)
+* [Reducing the risk of piracy](https://www.smartraveller.gov.au/before-you-go/safety/piracy)
 
 #### Civil unrest and political tension
 
-Political rallies and protests often happen in Baghdad and other regions of Iraq.
+Political rallies and protests regularly occur in Baghdad and other regions of Iraq.
 
 Large crowds can quickly gather and turn violent. Avoid large public gatherings. Security restrictions, including curfews and interruption to internet and social media services, may occur with little notice.
 
 If, despite our advice, you travel to Iraq, monitor the media and other sources about possible unrest.
 
-In Baghdad, most rallies and protests are held in Tahrir Square, or near the entrance to the International Zone or government buildings.
+In Baghdad, most rallies and protests are held in Tahrir Square, or in Karhkh, near the entrance to the International Zone or government buildings.
 
 There have previously been violent clashes in and around the International Zone in Baghdad as well as other governorates of Iraq.
 
 * In July 2023, protestors breached and set fire to the Swedish Embassy over the burning of the Qur’an in Stockholm by anti-Islam activists.  Subsequent Qur’an burnings by far-right extremists in other European nations saw large numbers of protestors attempt to enter the International Zone and breach a number of embassies
 * On 29 August 2022, protesters entered the Government Palace and other government buildings in and around the International Green Zone in Baghdad, resulting in violent clashes
 
-Protests can occur in the Kurdistan Region of Iraq due to regional tensions.
+Protests can regularly occur in the Kurdistan Region of Iraq due to regional tensions or localised disputes.
 
 If you're in an affected area, stay indoors and follow the advice of local authorities or your security provider.
 
@@ -112,7 +131,7 @@ If you're in an affected area, stay indoors and follow the advice of local autho
 
 #### Crime
 
-Violent crime, kidnappings, murders and [robberies](/before-you-go/safety/theft-robbery "Theft and robbery") occur. Corruption is common.
+Violent crime, kidnappings, murders and [robberies](https://www.smartraveller.gov.au/before-you-go/safety/theft-robbery) occur. Firearms are common across Iraq. Corruption is common.
 
 Organised criminal gangs, militia and tribal groups are significant threats.
 
@@ -144,11 +163,19 @@ People claiming to represent the Australian Government have contacted some indiv
 
 * [Scamwatch](/before-you-go/safety/scams "Scams that affect travellers")
 
+#### Drink spiking
+
+Drink spiking can happen anywhere. Be alert to the potential risks, and don't leave food or drinks unattended. Pay attention when your drinks are being mixed. Stick to reputable venues and avoid homemade alcoholic drinks due to the risk of methanol poisoning. Get urgent medical help if you suspect you’ve been a victim.
+
+**More information:**
+
+* [Partying safely while overseas](https://www.smartraveller.gov.au/before-you-go/safety/partying)
+
 #### Cyber security
 
 You may be at risk of cyber-based threats during overseas travel to any country. Digital identity theft is a growing concern. Your devices and personal data can be compromised, especially if you’re connecting to Wi-Fi, using or connecting to shared or public computers, or to Bluetooth.
 
-Social media can also be risky in destinations where there are social or political tensions, or laws that may seem unreasonable by Australian standards. Travellers have been arrested for things they have said on social media. Don't comment on local or political events on your social media.
+Social media can also be risky in destinations where there are social or political tensions, or laws that may seem unreasonable by Australian standards. Travellers have been arrested for comments they've made on social media. Don't comment on local or political events on your social media.
 
 **More information:**
 
