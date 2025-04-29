@@ -1,15 +1,19 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   29 April 2025
 
 Updated:
-:   17 March 2025
+:   28 April 2025
 
 Latest update:
-:   Update to information on expected rollout of the EU Entry/Exit System (EES) (‘Entry requirements’ page).
+:   Information about power outages across mainland Portugal ('Warnings and insurance' page).
 
 This travel advice also covers Madeira, Porto Santo and the Azores.
+
+## Power outages
+
+We are aware of reports of power outages across Andorra, mainland Spain and mainland Portugal and are monitoring the situation. There may be travel disruption, check with your tour operator or airline for more information before travelling. Follow the advice of the local authorities and monitor local updates.
 
 ## Before you travel
 

@@ -1,11 +1,11 @@
 {
     "name": "Portugal",
-    "update_reason": "Update to information on expected rollout of the EU Entry/Exit System (EES) (\u2018Entry requirements\u2019 page).",
+    "update_reason": "Information about power outages across mainland Portugal ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Portugal/Warnings and insurance.md",
-            "update_date": "2025-03-17T14:12:43+00:00"
+            "update_date": "2025-04-28T14:47:54+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Portugal/Getting help.md"
         }
     ],
-    "update_date": "2025-03-17T14:12:43+00:00"
+    "update_date": "2025-04-28T14:47:54+01:00"
 }

@@ -1,11 +1,11 @@
 {
     "name": "Guyana",
-    "update_reason": "New information on protests planned for 28 April (Warnings and Insurance pages)",
+    "update_reason": "New information on ongoing protests in Georgetown and various locations in Guyana (Warnings and Insurance pages)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Guyana/Warnings and insurance.md",
-            "update_date": "2025-04-28T02:12:09+01:00"
+            "update_date": "2025-04-29T00:50:51+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Guyana/Getting help.md"
         }
     ],
-    "update_date": "2025-04-28T02:12:09+01:00"
+    "update_date": "2025-04-29T00:50:51+01:00"
 }

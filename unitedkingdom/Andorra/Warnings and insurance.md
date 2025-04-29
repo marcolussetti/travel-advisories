@@ -1,13 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   29 April 2025
 
 Updated:
-:   1 May 2024
+:   28 April 2025
 
 Latest update:
-:   This travel advice was reviewed for style and accuracy.
+:   Information about power outages across Andorra ('Warnings and insurance' page).
+
+## Power outages
+
+We are aware of reports of power outages across Andorra, mainland Spain and mainland Portugal and are monitoring the situation. There may be travel disruption, check with your tour operator or airline for more information before travelling. Follow the advice of the local authorities and monitor local updates.
 
 ## Before you travel
 

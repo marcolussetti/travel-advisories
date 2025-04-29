@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   29 April 2025
 
 Updated:
-:   21 March 2025
+:   28 April 2025
 
 Latest update:
-:   Following a US Travel Advisory to avoid travel to islands and coastal areas south of Kisiju Tanzania, British High Commission staff will not travel to the area. This will be kept under review (‘Warnings and insurance’).
+:   New information on travel to islands and coastal areas south of Kisiju (‘Regional risks’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/645a3ab12226ee000c0ae4a0/FCDO__TA__086_-_Tanzania_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -25,10 +25,6 @@ FCDO advises against all but essential travel to within 20km of the Tanzanian bo
 This is due to attacks by groups linked with Islamic extremism.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/tanzania/regional-risks).
-
-## US Travel Alert, 21 March
-
-Following a [US Travel Advisory](https://tz.usembassy.gov/security-alert-u-s-embassy-dar-es-salaam-tanzania-march-21-2025/) to avoid travel to islands and coastal areas south of Kisiju Tanzania, British High Commission staff will not travel to the area. This will be kept under review.
 
 ## Before you travel
 

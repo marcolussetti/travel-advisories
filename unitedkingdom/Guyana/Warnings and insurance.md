@@ -1,17 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   28 April 2025
+:   29 April 2025
 
 Updated:
-:   28 April 2025
+:   29 April 2025
 
 Latest update:
-:   New information on protests planned for 28 April (Warnings and Insurance pages)
+:   New information on ongoing protests in Georgetown and various locations in Guyana (Warnings and Insurance pages)
 
-## Protests in Georgetown - 28 April
+## Ongoing Protests
 
-There are planned protests in Georgetown on Monday 28 April between 0800 and 1300 including at Cuffy Square (1763 Monument) and the Police Commissioner’s Office in Eve Leary. Protesters may gather in other locations at short notice. Be aware of your surroundings, stay away from protests and follow the advice of local authorities.
+There are ongoing protests in Georgetown particularly around Georgetown Public Hospital and at various locations in Guyana. Protesters may gather in other locations at short notice. Be aware of your surroundings, stay away from protests and follow the advice of local authorities.
 
 ## Before you travel
 

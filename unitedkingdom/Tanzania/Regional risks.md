@@ -4,6 +4,10 @@ This section has safety advice for regions of Tanzania. It only covers regions w
 
 You should also read FCDO’s [overall travel advice](/foreign-travel-advice/tanzania) and [safety and security advice](/foreign-travel-advice/tanzania/safety-and-security).
 
+## Islands and Coastal areas south of Kisiju
+
+The US Embassy issued an alert on 21 March warning their nationals to avoid travel to the islands and coastal areas south of Kisiju. US government personnel are prohibited from travelling to these areas without prior approval.
+
 ## Mtwara Province
 
 FCDO advises against all but essential travel to the southern strip of Mtwara Province to within 20km of the border with Cabo Delgado Province in Mozambique.

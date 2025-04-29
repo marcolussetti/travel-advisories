@@ -2,7 +2,7 @@
 
 This information is for people travelling on a full [‘British citizen’ passport](https://www.gov.uk/types-of-british-nationality) from the UK. It is based on the UK government’s understanding of Tanzania’s current rules for the most common types of travel.
 
-The authorities in Tanzania set and enforce entry rules. If you’re not sure how these requirements apply to you, contact the [Tanzania High Commission in the UK](https://www.uk.tzembassy.go.tz/).
+The authorities in Tanzania set and enforce entry rules. If you’re not sure how these requirements apply to you, contact the [Tanzania High Commission in the UK](https://uk.tzembassy.go.tz/contacts).
 
 ## Passport validity requirements
 
