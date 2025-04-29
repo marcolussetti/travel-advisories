@@ -36,8 +36,6 @@ If you decide to travel to Argentina:
 
 Criminal and narcotics trafficking elements are active in Rosario (Santa Fe province)resulting in increased crime and violence.
 
-U.S. Embassy personnel are required to give advance notice before traveling to Rosario.
-
 ### Travel Advisory Levels
 
 [![](/content/dam/NEWTravelAssets/images/travel-levelv1.svg)](/content/travel/en/international-travel/before-you-go/about-our-new-products.html "Travel Advisory Levels")
