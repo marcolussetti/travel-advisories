@@ -4,11 +4,7 @@
 
 High Degree of Caution
 
-### **Latest Travel Alert**
-
-On 30 January 2025 Uganda confirmed an outbreak of Ebola virus following the detection of a case in Kampala. A number of further cases linked to the index case have since been confirmed.
-
-Travellers to Uganda are strongly advised to follow updates and guidance on the Ebola outbreak from the [Ugandan Ministry of Health](https://twitter.com/MinofHealthUG) the [World Health Organisation](https://www.afro.who.int/countries/uganda), and the [ECDC](https://www.ecdc.europa.eu/en/news-events).
+### **Travel Alert**
 
 There is currently an increased risk of terrorism in Uganda, and across the East Africa Region.
 

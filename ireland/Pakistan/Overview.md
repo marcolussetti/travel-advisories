@@ -10,7 +10,7 @@ We advise against all travel to:
 
 * the Kashmir region
 * the province of Balochistan
-* the border area between India and Pakistan, with the exception of the road leading from Lahore to the Wagah border crossing
+* the border area between India and Pakistan. The Wagah border crossing is closed.
 * the former FATA (Federally Administered Tribal Areas)
 * in the province of Khyber-Pakhtunkhwa: the districts of Charsadda, Kohat, Tank, Bannu, Lakki, Dera Ismail Khan, Swat, Buner and Lower Dir in North Waziristan, Upper South and Lower South Waziristan
 * the city of Peshawar and districts south of the city, including travel on the Peshawar to Chitral road via the Lowari Pass
