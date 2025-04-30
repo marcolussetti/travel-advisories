@@ -1,6 +1,6 @@
 # Solomon Island Travel Advisory
 
-### Travel Advisory July 24, 2023
+### Travel Advisory April 29, 2025
 
 ### Solomon Islands - Level 2: Exercise Increased Caution
 
@@ -14,21 +14,27 @@
 [T](javascript:void(0); "Tool Tip: Terrorism")
 [C](javascript:void(0); "Tool Tip: Crimes")
 
-***Reissued with obsolete COVID-19 page links removed.***
+**Reissued after periodic review with updated risk information.**Exercise increased caution traveling to Solomon Islands due to risks to health, unexploded ordinance, crime and civil unrest.
 
-Exercise increased caution traveling to Solomon Islands due to low **COVID-19** vaccination rates.
+**Mosquito-borne diseases** such as malaria and dengue fever are widespread. Medical facilities and clinics outside of Honiara are under-resourced in terms of drugs and medical equipment.
 
-Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/SolomonIslands.html) for additional information on travel to Solomon Islands.
+**Unexploded ordinance (UXO)** from World War II remains a significant hazard and may be present on land, in forests, and underwater locations. Many areas have been swept or cleared, however previously undetected UXO continue to be discovered on a regular basis. While some areas are much more dangerous than others, caution is advised, even in areas reported to be cleared. High-risk areas include:
 
-CDC-compliant testing for COVID-19 is either not available or the results are not reliably available within one calendar day of testing. The COVID-19 vaccination rate within Solomon Islands is comparatively much lower than other countries in the region.
+* Hell’s Point and the ridges behind Honiara
+* New Georgia group of islands
+* Russell Islands
+* Tulagi Island
+
+**While petty crime is common** in some parts of Solomon Islands, Honiara has a higher risk of petty crime, break-ins, robbery, and sexual assault, including incidents targeting foreigners. Travelers should remain vigilant, avoid displaying valuables in public, and be cautious in less populated or poorly lit areas. Other violent crimes are uncommon but can occur.
+
+**Civil unrest can arise with little notice.** Political developments, including Parliament sittings, elections, and times of political uncertainty, may lead to protests or demonstrations, which have the potential to turn violent. Avoid large gatherings and political events.
 
 If you decide to travel to Solomon Islands:
 
-* Enroll in the [Smart Traveler Enrollment Program (STEP)](https://step.state.gov/step/) to receive Alerts and make it easier to locate you in an emergency.
-* Follow the Department of State on [Facebook](https://www.facebook.com/travelgov/) and [Twitter](https://twitter.com/TravelGov).
-* Review the [Country Security Report](https://www.osac.gov/Content/Browse/Report?subContentTypes=Country%20Security%20Report) for Solomon Islands.
-* Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) related to your travel.
-* Prepare a contingency plan for emergency situations. Review the [Traveler’s Checklist](https://travel.state.gov/content/passports/en/go/checklist.html).
+* Enroll in the [Smart Traveler Enrollment Program (STEP)](https://step.state.gov/step/) to receive Alerts and make it easier to locate you in an emergency.
+* Review the [Country Security Report](https://www.osac.gov/Content/Browse/Report?subContentTypes=Country%20Security%20Report) for Solomon Islands.
+* Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel) related to your travel.
+* Prepare a contingency plan for emergency situations. Review the [Traveler’s Checklist](https://travel.state.gov/content/passports/en/go/checklist.html).
 
 ### Travel Advisory Levels
 

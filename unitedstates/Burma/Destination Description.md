@@ -2,4 +2,4 @@
 
 [#### Destination Description](javascript:void(0); "Destination Description")
 
-[Learn about the U.S. relationship to Burma.](https://www.state.gov/countries-areas/burma/)
+Review the Department of State’s Fact Sheet on [Burma](https://www.state.gov/countries-areas/burma/) for information on U.S.-Burma relations.

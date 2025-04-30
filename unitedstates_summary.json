@@ -299,7 +299,7 @@
     {
         "destination": "Burundi",
         "risk_level": "Level 3: Reconsider Travel",
-        "last_updated_advisory": "2025-02-21T00:00:00",
+        "last_updated_advisory": "2025-04-29T00:00:00",
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/burundi-travel-advisory.html",
         "risk_level_number": 3,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Burundi.html",
@@ -1244,7 +1244,7 @@
     {
         "destination": "North Korea (Democratic People's Republic of Korea)",
         "risk_level": "Level 4: Do Not Travel",
-        "last_updated_advisory": "2023-07-24T00:00:00",
+        "last_updated_advisory": "2025-04-29T00:00:00",
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/north-korea-travel-advisory.html",
         "risk_level_number": 4,
         "country_info_url": null,
@@ -1307,7 +1307,7 @@
     {
         "destination": "Papua New Guinea",
         "risk_level": "Level 3: Reconsider Travel",
-        "last_updated_advisory": "2024-01-17T00:00:00",
+        "last_updated_advisory": "2025-04-29T00:00:00",
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/papua-new-guinea-travel-advisory.html",
         "risk_level_number": 3,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/PapuaNewGuinea.html",
@@ -1550,7 +1550,7 @@
     {
         "destination": "Solomon Island",
         "risk_level": "Level 2: Exercise Increased Caution",
-        "last_updated_advisory": "2023-07-24T00:00:00",
+        "last_updated_advisory": "2025-04-29T00:00:00",
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/solomon-island-travel-advisory.html",
         "risk_level_number": 2,
         "country_info_url": null,
@@ -2067,7 +2067,7 @@
         "risk_level_number": null,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Burma.html",
         "last_updated_advisory": null,
-        "last_updated_country_details": "2023-08-10T00:00:00"
+        "last_updated_country_details": "2025-04-29T00:00:00"
     },
     {
         "destination": "North Korea",
