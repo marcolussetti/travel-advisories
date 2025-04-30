@@ -12,34 +12,30 @@ UK Counter Terrorism Policing has information and advice on [staying safe abroad
 
 Terrorists are very likely to try to carry out attacks in Somalia, including Somaliland.
 
-The terrorist group Al Shabaab, and other groups opposed to the Somali government, continue to carry out frequent attacks, including in the capital Mogadishu. Terrorist groups operating in Somalia have made threats against westerners and those working for western organisations in Somalia, including Somaliland.
+The terrorist group Al Shabaab, and other groups opposed to the Federal Government, continue to carry out frequent attacks, including in the capital Mogadishu. Terrorist groups operating in Somalia have made threats against westerners and those working for western organisations in Somalia, including Somaliland.
 
-Attacks could be indiscriminate and occur at any time, including in places visited by foreign such as:
+Attacks could be indiscriminate and occur at any time, including in places visited by foreigners such as:
 
+* embassies
 * government buildings
 * military bases
 * hotels and restaurants
-* transport hubs including the international airport
+* transport hubs including the international airports and ports
 * crowded places
 * at high-profile events
 
-Stay aware of your surroundings, keep up to date with local media reports and follow the advice of local authorities. The Somali government regularly carries out counter-terrorist operations against Al-Shabaab, mainly in central and southern Somalia. Terrorist group al-Shabaab launched a new offensive on 20 February which has led to territorial gains, and is presenting significant challenges to the Somali Security Forces. The offensive has focused on strategic locations, including Middle Shabelle and Lower Shabelle regions, advancing at points to within 50km of the capital, Mogadishu. Al-Shabaab has also continued to launch attacks on Somali and international targets in the city. The situation remains unpredictable.
+Stay aware of your surroundings, keep up to date with local media reports and follow the advice of local authorities. The Somali Security Forces regularly carry out counter-terrorist operations against Al-Shabaab, mainly in central and southern Somalia. There has recently been a significant increase in conflict between al-Shabaab and Somali Security Forces in the Middle Shabelle region, and increased threats against Mogadishu security.
 
 Examples of previous significant attacks include:
 
+* In April 2025, there were multiple rocket attacks targeting Mogadishu International Airport and other sites.
 * In March 2025, there was a significant improvised explosive device (IED) attack on the President’s convoy in Mogadishu. 16 people were reportedly killed but the President was unharmed.
-* In February and March 2025, there were daylight rocket attacks on Mogadishu International Airport.
-* In March 2025 there was an attack on Cairo Hotel in Beledweyne with more than six people killed
+* In February and March 2025 it was notable that two rocket attacks against Mogadishu Airport took place in daylight hours (historically, rocket attacks are more common at night).
+* In March 2025 there was an attack on Cairo Hotel in Beledweyne with more than six people killed.
 * in August 2024, there was an attack on Lido Beach in Mogadishu with more than fifty civilians killed and over 200 injured
 * in July 2024, there was an attack on Top Coffee Restaurant in Mogadishu with many civilians reported killed and injured
 * in June 2023, there was an attack on the Pearl Beach Hotel at Lido Beach in Mogadishu with at least 9 civilians reported killed and 10 injured
 * in 2022, 2 large improvised explosive devices (IEDs) were used to attack the Somali Ministry of Education, with over 100 civilians reported killed and 300 injured
-* in 2022, there was an attack on the Tawakal Hotel in the city of Kismayo, with 13 people reported killed and 47 injured
-* in 2022, there was an attack at the Hayat Hotel in central Mogadishu with 21 people reported killed and 117 injured
-* in 2022, there was a bomb attack at the Pescatore Seafood Restaurant in south Mogadishu, with 8 people reported killed and 27 injured
-* in 2022, there was a bomb attack inside Hassan Dhiif restaurant in the city of Beledweyne, with 18 people reported killed and 30 injured
-* in 2021, there was a bomb attack on a minibus travelling between Mogadishu and Jowhar, with at least 17 people reported killed and many injured
-* in 2020, there was an attack on the Elite Hotel in central Mogadishu, with 15 people reported killed and at least 15 injured
 
 While attacks occur less frequently in Somaliland, terrorists are still very likely to try to carry out attacks.
 

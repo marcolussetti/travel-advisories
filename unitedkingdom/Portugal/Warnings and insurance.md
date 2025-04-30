@@ -1,19 +1,19 @@
 # Warnings and insurance
 
 Still current at:
-:   29 April 2025
+:   30 April 2025
 
 Updated:
-:   28 April 2025
+:   29 April 2025
 
 Latest update:
-:   Information about power outages across mainland Portugal ('Warnings and insurance' page).
+:   Updated information about power outages across mainland Portugal (‘Warnings and Insurance’ page).
 
 This travel advice also covers Madeira, Porto Santo and the Azores.
 
 ## Power outages
 
-We are aware of reports of power outages across Andorra, mainland Spain and mainland Portugal and are monitoring the situation. There may be travel disruption, check with your tour operator or airline for more information before travelling. Follow the advice of the local authorities and monitor local updates.
+Power outages which affected Andorra, mainland Spain and mainland Portugal on Monday 28 April have largely been resolved but some disruption remains. We are monitoring the situation. There may still be some travel disruption, check with your tour operator or airline for more information before travelling. Follow the advice of the local authorities and monitor local updates.
 
 ## Before you travel
 

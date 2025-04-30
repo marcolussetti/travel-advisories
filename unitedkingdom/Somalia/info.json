@@ -1,11 +1,11 @@
 {
     "name": "Somalia",
-    "update_reason": "Update on al-Shabaab Offensive ('Safety and security')",
+    "update_reason": "Updated information for British nationals in Somalia and about recent terrorist attacks in Mogadishu ('Warnings and insurance' page and see \u2018Terrorism in Somalia\u2019 on the \u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Somalia/Warnings and insurance.md",
-            "update_date": "2025-03-28T21:35:00+00:00"
+            "update_date": "2025-04-29T15:00:39+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Somalia/Getting help.md"
         }
     ],
-    "update_date": "2025-03-28T21:35:00+00:00"
+    "update_date": "2025-04-29T15:00:39+01:00"
 }

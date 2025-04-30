@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   29 March 2025
+:   30 April 2025
 
 Updated:
-:   28 March 2025
+:   29 April 2025
 
 Latest update:
-:   Update on al-Shabaab Offensive ('Safety and security')
+:   Updated information for British nationals in Somalia and about recent terrorist attacks in Mogadishu ('Warnings and insurance' page and see ‘Terrorism in Somalia’ on the ‘Safety and security’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/61a63d6be90e07044b1ef4b5/s.jpg)
 
@@ -20,7 +20,7 @@ Your travel insurance could be invalidated if you travel against advice from the
 
 ### Parts of Somalia, including eastern Somaliland
 
-FCDO advises against all travel to Somalia, including the 3 eastern regions of Somaliland – Togdheer, Sanaag and Sool – and excluding the 3 western regions of Somaliland – Awdal, Maroodijeh and Sahil. This is due to the threat from terrorist groups and continuing violence.
+FCDO advises against all travel to Somalia, including the 3 eastern regions of Somaliland – Togdheer, Sanaag and Sool – and excluding the 3 western regions of Somaliland – Awdal, Maroodijeh and Sahil. This is due to the threat from terrorist groups and continuing violence. If you choose to remain in Somalia, you do so at your own risk. You should have a personal emergency plan that does not rely on the UK government.
 
 ### Western Somaliland
 
