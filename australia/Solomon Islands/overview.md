@@ -2,9 +2,9 @@
 
 Latest update
 
-We've reviewed our advice for Solomon Islands and continue to advise exercise a high degree of caution in Honiara. Petty crime, break-ins, robbery and sexual assault can occur. Most roads in Solomon Islands are in poor condition, and traffic jams are common in Honiara. Political unrest can occur in Honiara during Parliament sittings, elections and times of political uncertainty. Demonstrations can turn violent quickly. Avoid protests and political gatherings.   
+We continue to advise exercise a high degree of caution in Honiara. Political unrest can occur in Honiara during Parliament sittings, elections and times of political uncertainty. A motion of no confidence may be moved in Parliament from 6 May. Demonstrations can turn violent quickly. Avoid protests and political gatherings.   
   
-The cyclone season is from November to May. Flooding and landslides can occur (see 'Safety').
+Petty crime, break-ins, robbery and more serious offences including sexual assault can occur (see 'Safety').
 
 Advice Level summary
 
@@ -30,8 +30,8 @@ Higher levels apply in some areas.
 
 ### Safety
 
-* Political unrest can occur in Honiara during Parliament sittings, elections and times of political uncertainty. Demonstrations can turn violent quickly. Avoid protests and political gatherings.
-* Petty crime, break-ins, robbery and sexual assault can occur. Keep your accommodation locked. Lock your vehicle doors and windows, even while moving.
+* Political unrest can occur in Honiara during Parliament sittings, elections and times of political uncertainty. A motion of no confidence may be moved in Parliament on 6 May 2025. Demonstrations can turn violent quickly. Avoid protests and political gatherings.
+* Petty crime, break-ins, robbery and more serious offences including sexual assault can occur. Keep your accommodation locked. Lock your vehicle doors and windows, even while moving.
 * Be aware of local wildlife. Street dogs in Honiara can be vicious. Sharks and crocodiles are common. Get local advice before entering the water.
 * Natural disasters, such as tropical cyclones, earthquakes and tsunamis, occur. Listen to Solomon Islands Broadcasting Corporation on radio station AM1035 for official updates.
 * Mobile and internet services can be limited in some areas of the Solomon Islands. Have a backup communications plan (see 'Travel').

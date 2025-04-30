@@ -4,19 +4,13 @@
 
 > Every country or territory decides who can enter or leave through its borders. For specific information about the evidence you'll need to enter a foreign destination, check with the nearest embassy, consulate or immigration department of the destination you're entering.
 
-#### Visas
+Romania is part of the Schengen area. This allows you to enter without a visa in some cases. Get an entry stamp in your passport from border control when you first enter the Schengen area.
 
-You don't need a visa to enter as a tourist for up to 90 days. You'll need a visa for other types of travel.
-
-Romania partially joined the [Schengen area](/before-you-go/the-basics/schengen "Visas and entry requirements in Europe and the Schengen Area") on 31 March. Border checks will cease between Romania and other Schengen countries for air or sea travel. 
-
-Checks continue at land borders between Romania and other Schengen countries. 
-
-If you're travelling without a visa, ensure your entire visit to the Schengen area, including your stay in Romania, is within the 90-day limit. This applies to all arrivals (air, land and sea).
+Entry and exit conditions can change at short notice, and you'll need a visa in some situations. Contact the nearest [Romanian Embassy or Consulate](https://protocol.dfat.gov.au/Public/Missions/165) for details about visas, currency, customs and quarantine rules.
 
 **More information:**
 
-* [Visas and entry requirements in Europe and the Schengen Area](/before-you-go/the-basics/schengen "Visas and entry requirements in Europe and the Schengen Area")
+* [Schengen Area](/before-you-go/the-basics/schengen "Visas and entry requirements in Europe and the Schengen Area")
 
 #### European Entry/Exit System (EES)
 

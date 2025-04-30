@@ -19,18 +19,18 @@ Organised groups of thieves target travellers. These groups may include children
 
 Thefts from hotel rooms are common.
 
-Thefts and [assaults](https://www.smartraveller.gov.au/while-youre-away/crime/assaulted) take place on intercity trains.
+Thefts and [assaults](/while-youre-away/crime/assaulted "I've been assaulted overseas") take place on intercity trains.
 
-Drink spiking is an issue, especially in Centrul Vechi (the old town in Bucharest).
+#### Drink spiking
 
-To protect yourself from crime:
+Drink spiking is an issue, especially in Centrul Vechi (the old town in Bucharest). Drink spiking can occur at popular nightclubs and bars, often leading to [sexual assault](/before-you-go/safety/sexual-assault "Reducing the risk of sexual assault and harassment").
 
-* keep your personal belongings close, particularly near hotels and on public transport
-* avoid walking in quiet and poorly lit streets, especially at night
-* lock hotel and train compartment doors from the inside
-* don't leave luggage unattended in your train compartment
-* don't accept food, drinks, gum or cigarettes from people you've just met
-* don't leave food or drinks unattended
+Be alert to the potential risks, and don't leave food or drinks unattended. Pay attention when your drinks are being mixed. Stick to reputable venues and avoid homemade alcoholic drinks due to the risk of methanol poisoning. Get urgent medical help if you suspect you’ve been a victim.
+
+To protect yourself from drink spiking:
+
+* don't leave drinks unattended
+* don't accept drinks from strangers.
 
 **More information:**
 
@@ -39,7 +39,7 @@ To protect yourself from crime:
 
 #### Scams
 
-Sometimes thieves pretend to be police officers and ask for ID and wallets.
+Sometimes, thieves pretend to be police officers and ask for ID and wallets.
 
 Romanian police won't stop you at random to ask for your ID or wallet. However, they may conduct checks if you don't comply with local laws.
 
@@ -49,7 +49,7 @@ If you suspect someone is posing as a police officer:
 * don't hand over your personal belongings
 * offer to go to the nearest police station with them to check their identity
 
-Financial [scams](https://www.smartraveller.gov.au/before-you-go/safety/scams), including credit card and ATM fraud, are common.
+Financial [scams](/before-you-go/safety/scams "Scams that affect travellers"), including credit card and ATM fraud, are common.
 
 Internet fraud, including dating and marriage scams, also occur in Romania.
 
@@ -97,8 +97,6 @@ To stay safe:
 
 While there have been no recent terrorist attacks in Romania, they can still happen.
 
-The US Embassy in Bucharest issued a security alert on 11 October about threats potentially targeting a synagogue, temple, or mosque in Romania. You should exercise increased caution near religious institutions.
-
 In recent years, terrorists have attacked several European cities.
 
 European security services have also disrupted several planned attacks.
@@ -121,29 +119,29 @@ Terrorism is a threat worldwide.
 
 #### Climate and natural disasters
 
-Torrential rain and [flash flooding](/before-you-go/safety/natural-disasters "Staying safe when there's a natural disaster") occurs in Romania. Take emergency alerts and official warnings seriously.
+Torrential rain and [flash flooding](/before-you-go/safety/natural-disasters "Staying safe when there's a natural disaster") happens in Romania and can occur throughout the year. Take emergency alerts and official warnings seriously.
 
-Serious [earthquakes](/before-you-go/safety/earthquakes-tsunamis "Earthquakes and tsunamis") are rare, but Romania is in a seismically active region and earth tremors are common.
+Serious [earthquakes](/before-you-go/safety/earthquakes-tsunamis "Earthquakes and tsunamis") are rare, but Romania is in a seismically active region, and earth tremors are common.
 
-Wildfires are becoming more frequent in the summer months. Torrential rain and flash flooding can happen throughout the year.
+Wildfires are becoming more frequent in the summer months.
 
-If there's a [natural disaster](/before-you-go/safety/natural-disasters "Staying safe when there's a natural disaster") or [severe weather](/while-youre-away/crisis-or-emergency/severe-weather-incident "There's a severe weather incident"):
+If there's a [natural disaster](/before-you-go/safety/natural-disasters "Staying safe when there's a natural disaster") or [severe weather](/while-youre-away/crisis-or-emergency/severe-weather-incident "There's a severe weather incident"):
 
 * secure your passport in a safe, waterproof place
 * keep in contact with your friends and family
 * closely monitor the media and other local sources of information
 * follow the advice of local authorities
 
-Register with the [Global Disaster Alert and Coordination System](http://www.gdacs.org/) to receive alerts on major disasters.
+Register with the [Global Disaster Alert and Coordination System](http://www.gdacs.org/) to receive alerts on major disasters.
 
 #### Tours and adventure travel
 
-Transport and tour operators don't always follow safety and maintenance standards. This includes operators of adventure activities.
+Transport and tour operators don't always follow safety and maintenance standards, including operators of adventure activities.
 
 If you plan to do an [adventure activity](/before-you-go/activities/adventure "Going overseas for sports and adventure"):
 
 * check if your travel insurance policy covers it
 * ask about and insist on minimum safety requirements
-* always use available safety gear, such as life jackets or seatbelts
+* always use available safety gear, such as life jackets or seatbelts.
 
 If proper safety equipment isn't available, use another provider.

@@ -14,6 +14,12 @@ Hotspots for thieves include crowded:
 * transport hubs
 * tourist areas
 
+Drink spiking can happen anywhere. Be alert to the potential risks, and don't leave food or drinks unattended. Pay attention when your drinks are being mixed. Stick to reputable venues and avoid homemade alcoholic drinks due to the risk of methanol poisoning. Get urgent medical help if you suspect you’ve been a victim.
+
+**More information:**
+
+* [Partying safely while overseas](/before-you-go/safety/partying "Partying safely")
+
 #### Violent crime
 
 There have been reports of violent crime, especially in Libreville and Port Gentil. Incidents include [robberies](https://www.smartraveller.gov.au/node/344) and armed attacks.
@@ -57,19 +63,17 @@ Kidnapping can happen anywhere, anytime, including in destinations that are typi
 
 #### Civil unrest and political tension
 
-Gabon has had a transitional government since a military takeover in August 2023 and is scheduled to hold its first Presidential election on 12 April 2025. While the situation has been stable, local authorities have maintained a higher security alert level in Libreville and other areas of Gabon. Protests and civil unrest related to the elections may occur with little warning and may turn violent.  
+Gabon held a peaceful presidential election on 12 April 2025, the first in the country since a military takeover in August 2023. While the situation has been stable, local authorities may continue to maintain a higher security alert level in Libreville and other areas of Gabon. Legislative elections are scheduled for August 2025.  
    
-Ensure you carry identification and evidence of the purpose of your travel. Local authorities may inspect your documentation. Avoid protests, polling booths and government buildings. Curfews may be imposed without notice. If a curfew is imposed, ensure you follow any requirements. Monitor local media for updates and follow the advice of local authorities.
+Ensure you carry identification and evidence of the purpose of your travel. Local authorities may inspect your documentation. Curfews may be imposed without notice. If a curfew is imposed, ensure you follow any requirements. Monitor local media for updates and follow the advice of local authorities.
 
 #### Demonstrations and protests
 
 Public protests and events that draw large groups of people may occur with little warning and can turn violent. Demonstrations are more common in Libreville and Port Gentil.
 
-Demonstrations and protests may be more likely during the campaign period, on election day and after the announcement of results.
-
 To protect yourself during periods of unrest:
 
-* avoid demonstrations, protests and large gatherings
+* avoid demonstrations, protests, large gatherings and government buildings
 * monitor local media
 * avoid affected areas
 * follow the advice of local authorities

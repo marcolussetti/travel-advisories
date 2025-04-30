@@ -24,7 +24,7 @@ In Romania, it's illegal to:
 
 * take photos of airports, military sites or other secure locations
 * engage in sex work or pay for sexual services
-* have sexual relations with a person under 18
+* have sexual relations with a person under 16.
 
 #### Australian laws
 

@@ -93,6 +93,8 @@ To stay safe during periods of unrest:
 * avoid areas affected by protests and roadblocks
 * follow the advice of local authorities
 
+Heightened security arrangements are in place for Australian officials, including restrictions on staff movements and the use of enhanced security measures.
+
 **More information:**
 
 * [Demonstrations and civil unrest](https://www.smartraveller.gov.au/before-you-go/safety/demonstrations)

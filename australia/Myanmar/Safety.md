@@ -147,6 +147,12 @@ Report any theft straight away to local police. See [Local contacts](#local-con
 
 Exercise caution in relation to offers of employment that appear 'too good to be true'. Foreign nationals have been trafficked into Myanmar (either directly into Yangon or via a neighbouring country) and forced to work in online scamming or other fraudulent activity, with poor pay and living conditions, restrictions on movement, and severe mistreatment. Some victims have had their passports confiscated and been held for ransom.
 
+Drink spiking can happen anywhere. Be alert to the potential risks, and don't leave food or drinks unattended. Pay attention when your drinks are being mixed. Stick to reputable venues and avoid homemade alcoholic drinks due to the risk of methanol poisoning. Get urgent medical help if you suspect you’ve been a victim.
+
+**More information:**
+
+* [Partying safely while overseas](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.smartraveller.gov.au%2Fbefore-you-go%2Fsafety%2Fpartying&data=05%7C02%7CMichelle.Lam%40dfat.gov.au%7Cbd0cd565db744527188508dd41a4930d%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638738897282360647%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=8hzP1P0iV92Jm88KsRyu4DlEadlSJN77OY%2FyBZsYuRk%3D&reserved=0)
+
 #### Cyber security
 
 You may be at risk of cyber-based threats during overseas travel to any country. Digital identity theft is a growing concern. Your devices and personal data can be compromised, especially if you’re connecting to Wi-Fi, using or connecting to shared or public computers, or to Bluetooth.
@@ -159,28 +165,47 @@ Social media can also be risky in destinations where there are social or politic
 
 #### Kidnapping
 
-Kidnapping occurs across the world with political, ideological, and criminal motives. Foreigners, including Australians, have been kidnapped overseas whilst travelling. Kidnaps can happen anywhere, anytime, including in destinations that are typically at lower risk.   
+Kidnapping occurs across the world with political, ideological, and criminal motives. Foreigners, including Australians, have been kidnapped overseas whilst travelling. Kidnaps can happen anywhere, anytime, including destinations that are typically at lower risk.   
+   
+Reporting indicates that kidnapping has increased in Myanmar since 2021, especially in rural areas where criminal groups engage in a range of illicit activities. Criminal kidnappers target a range of victims for financial gain.     
+   
+If despite our advice, you travel to an area with a high risk of kidnapping our ability to provide consular assistance in these destinations is limited.    
+   
+You are responsible for your own safety. To reduce the risk of kidnapping:
 
-Reporting indicates that kidnapping has increased in Myanmar since 2021, especially in rural areas where criminal groups engage in a range of illicit activities. Criminal kidnappers target a range of victims for financial gain. 
+* always be alert to your personal security and surroundings - avoid distractions. Be prepared to stop or take evasive action if you sense danger
 
-If, despite our advice, you travel to an area with a high risk of kidnapping, our ability to provide consular assistance in these destinations will be limited.  
+* get professional security advice for travel in locations with a heightened kidnap risk. It is essential to have a contingency plan
 
-To reduce the risk of kidnapping:  
-
-* always be alert to your personal security and surroundings
-* get professional security advice for travel in locations with a heightened kidnap risk
 * check your accommodation has appropriate security measures
-* avoid isolated locations, particularly when travelling alone
-* notify family or friends of planned travel, and share your location
+
+* vary your movements so you don't set predictable patterns
+
+* keep a low profile – including online. Drawing attention to yourself in high-risk areas may signal to criminals that you have something worth taking
+
+* avoid isolated locations, particularly when travelling alone. There is safety in numbers, and you should try to travel with someone else, especially at night
+
+* notify family or friends of planned travel; share your location and emergency contacts that they can rely on if something happens
+
 * avoid talking about your money or business affairs
+
 * use ATMs in public places and during daylight hours
-* avoid giving personal details to strangers online or over the phone
 
-The Australian Government's longstanding policy is that it doesn't make payments or concessions to kidnappers. Ransom payments to kidnappers have funded further terrorist attacks and criminal activity. Paying a ransom to terrorist groups will likely break Australian counter-terrorism financing laws.  
+* avoid giving personal details to strangers online or over the phone. Criminals have been known to search social media for victims
 
-**More information:** 
+* If you are confronted by armed criminals, it is best to surrender and cooperate – resistance tends to make the situation worse
 
-* [Kidnapping](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.smartraveller.gov.au%2Fbefore-you-go%2Fsafety%2Fkidnapping&data=05%7C02%7Ctravel.advice%40dfat.gov.au%7C0f0c1aa2ae3d413665bb08dc334d44fa%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638441654174896271%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=qmb6gv0H9m3%2F0lQjSVjAj3wFEguE7fZUR9t7Zym3Sew%3D&reserved=0)
+You can find more information on how to reduce your risk of kidnapping here: [Kidnapping](https://www.smartraveller.gov.au/before-you-go/safety/kidnapping).
+
+The Australian Government's longstanding policy is that it doesn't make payments or concessions to kidnappers. Ransom payments to kidnappers have funded further terrorist attacks and criminal activity. Ransom payments to terrorist groups are likely to contravene Australian counter-terrorism financing laws.    
+   
+**More information:**
+
+* [Kidnapping](https://www.smartraveller.gov.au/before-you-go/safety/kidnapping)
+
+* [Scams that affect travellers](https://www.smartraveller.gov.au/before-you-go/safety/scams)
+
+* [Reducing the risk of piracy](https://www.smartraveller.gov.au/before-you-go/safety/piracy)
 
 #### Climate and natural disasters
 

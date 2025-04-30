@@ -14,7 +14,7 @@ Gabon doesn't have an embassy or consulate in Australia. Gabon's nearest embassy
 
 Entry and exit conditions can change at short notice. Contact the nearest embassy or consulate for the latest details about visas, currency, customs and other travel requirements.
 
-While the situation has stabilised, political and security sensitivities mean that travel to and from Gabon may be disrupted during the election period. This could include difficulties obtaining a visa or borders being closed at short notice. Monitor local media for updates.
+While the situation has stabilised, political and security sensitivities mean that travel to and from Gabon may be disrupted. This could include difficulties obtaining a visa or borders being closed at short notice. Monitor local media for updates.
 
 #### Other formalities
 
@@ -81,7 +81,7 @@ French is the official language. English isn't widely spoken.
 
 #### Local restrictions
 
-Restrictions and government requirements for internal travel within Gabon may change without notice. Internal travel may be disrupted during the election period. Seek local advice before internal travel, particularly when travelling to areas not frequented by tourists. When travelling within Gabon, local authorities may inspect your documentation. Always carry evidence of the purpose of your travel for presentation on request.
+Restrictions and government requirements for internal travel within Gabon may change without notice. Seek local advice before internal travel, particularly when travelling to areas not frequented by tourists. When travelling within Gabon, local authorities may inspect your documentation. Always carry evidence of the purpose of your travel for presentation on request.
 
 Travelling with a reputable Ecotourism operator is not a guarantee that your travel plans will not be subject to restrictions.
 

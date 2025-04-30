@@ -27,7 +27,7 @@ See your doctor or travel clinic to:
 
 Do this at least 8 weeks before you leave.
 
-If you have immediate concerns for your welfare, or the welfare of another Australian, call the 24-hour Consular Emergency Centre on +61 2 6261 3305 or contact your [nearest Australian Embassy, High Commission or Consulate](https://www.dfat.gov.au/about-us/our-locations/missions/our-embassies-and-consulates-overseas) to discuss counselling hotlines and services available in your location.
+If you have immediate concerns for your welfare or the welfare of another Australian, call the 24-hour Consular Emergency Centre on +61 2 6261 3305 or contact your [nearest Australian Embassy, High Commission or Consulate](https://www.dfat.gov.au/about-us/our-locations/missions/our-embassies-and-consulates-overseas) to discuss counselling hotlines and services available in your location.
 
 **More information:**
 
@@ -36,7 +36,7 @@ If you have immediate concerns for your welfare, or the welfare of another Austr
 
 #### Medications
 
-Not all medication available over the counter or by prescription in Australia is available in other countries. Some may even be considered illegal or a controlled substance, even if prescribed by an Australian doctor.
+Not all medications available over the counter or by prescription in Australia are available in other countries. Some may even be considered illegal or a controlled substance, even if prescribed by an Australian doctor.
 
 If you plan to bring medication, check if it's legal in Romania. Take enough legal medication for your trip.
 
@@ -54,37 +54,23 @@ Carry a copy of your prescription or a letter from your doctor stating:
 
 #### Rabies
 
-[Rabies](https://www.who.int/news-room/fact-sheets/detail/rabies) occurs in wild and domestic animals.
+[Rabies](https://www.who.int/news-room/fact-sheets/detail/rabies) occurs in wild and domestic animals.
 
 Ask your travel doctor about getting the rabies vaccine before you travel.
 
 Get medical treatment immediately if an animal scratches or bites you.
 
-**More information:**
-
-* [Infectious diseases](/before-you-go/health/diseases "Infectious diseases")
-
 #### Tick-borne encephalitis
 
-[Tick-borne encephalitis](https://www.who.int/immunization/diseases/tick_encephalitis/en/) is a risk, especially if you travel through forests and rural areas.
+[Tick-borne encephalitis](https://www.who.int/immunization/diseases/tick_encephalitis/en/) is a risk, especially if you travel through forests and rural areas.
 
 Ticks are active in spring from March to June and autumn from September to December.
 
 #### West Nile virus
 
-[West Nile virus (WNV)](https://www.who.int/news-room/fact-sheets/detail/west-nile-virus) is a disease spread by mosquitoes. There's no vaccine to prevent it.
+[West Nile virus (WNV)](https://www.who.int/news-room/fact-sheets/detail/west-nile-virus) is a disease spread by mosquitoes. There's no vaccine to prevent it.
 
-The Romanian Health Ministry has confirmed cases of West Nile virus in:
-
-* Alba
-* Bucharest
-* Cluj
-* Constanta
-* Dolj
-* Galati
-* Mures
-* Sibiu
-* Teleorman
+The European Centre for Disease Prevention and Control has confirmed that, as of November 2024, cases of West Nile virus have been reported in Romania.
 
 To protect yourself from disease:
 
@@ -94,7 +80,7 @@ To protect yourself from disease:
 
 #### Measles
 
-An outbreak of [measles](https://www.who.int/immunization/diseases/measles/en/) has spread across Romania in recent years.
+An outbreak of [measles](https://www.who.int/immunization/diseases/measles/en/) has spread across Romania in recent years.
 
 Make sure your vaccinations are up to date before you travel.
 

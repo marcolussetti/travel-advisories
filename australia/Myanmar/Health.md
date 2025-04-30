@@ -48,7 +48,7 @@ If authorities assess you have COVID-19, you may be required to isolate at home 
 
 #### Polio and other vaccine-preventable diseases
 
-Check the [Australian Immunisation Handbook](https://immunisationhandbook.health.gov.au/) (Department of Health and Aged Care) if you chose to travel to Myanmar despite our advice.
+Check the [Australian Immunisation Handbook](https://immunisationhandbook.health.gov.au/) (Department of Health and Aged Care) if you choose to travel to Myanmar despite our advice.
 
 Make sure you're up to date with recommended vaccinations, including [polio](https://www.health.gov.au/diseases/poliovirus-infection) (Department of Health and Aged Care). You may need a booster.
 

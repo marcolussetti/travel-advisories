@@ -2,7 +2,7 @@
 
 Latest update
 
-Gabon will hold its first presidential elections on 12 April since a military takeover in 2023. Authorities continue to maintain a higher security alert level in Libreville and other areas, and protests and civil unrest may occur with little warning. During the election period, travel to, from and within the country may be impacted. Avoid polling booths, protests, and demonstrations and monitor the local media for updates (see 'Safety').
+Gabon held peaceful presidential elections in April 2025 following a military takeover in 2023. Although the situation is stable, authorities may continue to maintain a higher security alert level in Libreville and other areas, and protests and civil unrest may occur with little warning. Monitor the local media for updates (see 'Safety').
 
 Advice Level summary
 
@@ -24,10 +24,10 @@ See [Safety](#safety).
 
 ### Safety
 
-* Gabon is scheduled to hold its first presidential elections on 12 April since a military takeover in August 2023. Although the situation is stable, local authorities continue to maintain a higher security alert level in Libreville and other areas of Gabon. Ensure you carry identification and evidence of the purpose of your travel.
+* Gabon held peaceful presidential elections in April 2025 following a military takeover in August 2023. Legislative elections are scheduled for August 2025. Although the situation is stable, local authorities may continue to maintain a higher security alert level in Libreville and other areas of Gabon. Ensure you carry identification and evidence of the purpose of your travel.
 * Monitor the local media, as curfews could be imposed without notice. Follow the advice of authorities.
 * There have been reports of violent crime, especially in Libreville and Port Gentil. Incidents include robberies and armed attacks. Don't walk alone or at night. Avoid isolated areas, including beaches.
-* Protests and civil unrest may occur with little warning and may turn violent. Avoid large public gatherings, polling booths and government buildings. Avoid unnecessarily attracting the attention of local authorities.
+* Protests and civil unrest may occur with little warning and may turn violent. Avoid large public gatherings and government buildings. Avoid unnecessarily attracting the attention of local authorities.
 * Petty crimes, including pickpocketing, bag snatching and vehicle break-ins are common in Gabon. Keep your valuables out of sight.
 * Flooding occurs during the rainy seasons. Check local conditions before driving. You may need a 4WD vehicle on some roads.
 
@@ -55,8 +55,7 @@ Full travel advice: [Local laws](#local-laws)
 ### Travel
 
 * You need a visa to enter Gabon. You'll also need a letter of invitation or sponsorship from your accommodation or sponsoring partner outlining the purpose of your visit and the duration of your stay. The letter should be in French and contain the author's contact details. You'll need to show the letter to immigration officials on arrival.
-* Entry and exit conditions can change at short notice. Contact the nearest embassy or consulate for the latest details.
-* Travel to and from, as well as within, Gabon may be disrupted during the election period. Monitor local media for updates and check with your travel provider.
+* Entry and exit conditions can change at short notice. Monitor local media for updates and check with your travel provider. Contact the nearest embassy or consulate of Gabon for the latest details.
 * Restrictions and government requirements for internal travel within Gabon may change without notice. Seek local advice before internal travel, particularly when visiting areas not frequented by tourists.
 * Carry proof of your yellow fever vaccinations.
 * Gabon is a largely cash-based economy. The local currency is the Central African CFA franc (XAF). Credit cards aren't widely accepted. There are ATMs in major centres.
