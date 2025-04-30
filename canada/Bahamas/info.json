@@ -1,7 +1,7 @@
 {
     "name": "Bahamas",
-    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
-    "update_date": "2025-04-08T10:55:00",
+    "update_reason": "Health \u2013 editorial update",
+    "update_date": "2025-04-29T10:52:00",
     "sections": {
         "risk": "canada/Bahamas/risk.md",
         "security": "canada/Bahamas/security.md",

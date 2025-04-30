@@ -52,12 +52,6 @@ Canadians intending to work in Uganda should insist that the employer ascertain 
 
 [Apply for an electronic visa](https://visas.immigration.go.ug/) - Uganda’s e-immigration system
 
-### Health screening measures
-
-Due to the ongoing outbreak of Ebola disease, you may be subject to health screening at land border crossings and thermal scanner screening at Entebbe International Airport. If you have symptoms, in some cases, you may be isolated and prohibited from leaving Uganda.
-
-[For more information on Ebola disease in Uganda](https://travel.gc.ca/travelling/health-safety/travel-health-notices/520)
-
 ### Children and travel
 
 Learn more about [travelling with children](http://travel.gc.ca/travelling/children).

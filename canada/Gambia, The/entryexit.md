@@ -39,9 +39,13 @@ Different entry rules may apply when travelling with a temporary passport or an 
 
 ### Visas
 
-Tourist visa: required   
-Business visa: required  
-Employment permit: required
+Tourist visa: not required   
+Business visa: not required  
+Work permit: required
+
+If you wish to stay in The Gambia for more than 30 consecutive days, you can apply for a 30-day extension from the Gambia Immigration Department. However, on the 56th day, you will need to apply for a residence permit if you wish to remain in the country.
+
+[Visa information](https://gid.gov.gm/visa/) – Gambia Immigration Department
 
 ### Children and travel
 

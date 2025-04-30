@@ -1,7 +1,7 @@
 {
     "name": "Thailand",
-    "update_reason": "Natural disasters and climate \u2013 removed information about the earthquake in Myanmar",
-    "update_date": "2025-04-11T09:45:00",
+    "update_reason": "Health \u2013 editorial update",
+    "update_date": "2025-04-29T11:09:00",
     "sections": {
         "risk": "canada/Thailand/risk.md",
         "security": "canada/Thailand/security.md",

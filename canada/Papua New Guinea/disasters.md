@@ -2,28 +2,6 @@
 
 ## Natural disasters and climate
 
-### Landslides in Enga province
-
-On May 24, 2024, large-scale landslides in the Porgera-Paiela district of Enga province, destroyed several villages and resulted in many casualties. The landslides have caused catastrophic damage to local infrastructure, including major routes in the area.
-
-The following essential services could be disrupted :
-
-* transportation
-* power distribution
-* fuel, water and food supply
-* telecommunications networks
-* emergency services
-* medical care
-
-If you're in Enga Province:
-
-* stay away from the affected areas
-* exercise caution
-* monitor local news and weather reports
-* follow the instructions of local authorities, including evacuation orders
-
-[PNG National Weather Services](http://www.pngmet.gov.pg/)
-
 ### Seismic activities
 
 Papua New Guinea is located in an active seismic and volcanic zone. Earthquakes, tsunamis and volcanic eruptions occur.

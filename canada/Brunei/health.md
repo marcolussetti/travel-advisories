@@ -37,9 +37,7 @@ Travellers get vaccinated either because it is required to enter a country or be
 
 **Country Entry Requirement\***
 
-* Proof of vaccination is required if you are coming from or have transited through an airport of a country [where yellow fever occurs](https://www.who.int/publications/m/item/countries-with-risk-of-yellow-fever-transmission-and-countries-requiring-yellow-fever-vaccination-(november-2022)) in the past six days prior to arrival in Singapore. See the Ministry of Health website for details.
-
-[Singapore Ministry of Health - Yellow fever vaccination](https://www.ica.gov.sg/enter-transit-depart/entering-singapore/yellow-fever-vaccination-certificate)
+* Proof of vaccination is required if you are coming from or have transited through an airport of a country [where yellow fever occurs](https://www.who.int/publications/m/item/countries-with-risk-of-yellow-fever-transmission-and-countries-requiring-yellow-fever-vaccination-(november-2022)).
 
 **Recommendation**
 
@@ -64,25 +62,6 @@ Hepatitis B
 
 Hepatitis B vaccination is recommended for all travellers. [Prevent hepatitis B](https://www.canada.ca/en/public-health/services/diseases/hepatitis-b/prevention-risks.html#a2) infection by practicing safe sex, only using new and sterile drug equipment, and only getting tattoos and piercings in settings that follow public health regulations and standards.
 
-Measles 
-
-[Measles](https://www.canada.ca/en/public-health/services/diseases/measles.html) is a highly contagious viral disease. It can spread quickly from person to person by direct contact and through droplets in the air.
-
-Anyone who is not protected against measles is at risk of being infected with it when travelling internationally.
-
-Regardless of where you are going, talk to a health care professional before travelling to make sure you are fully protected against measles.
-
-Japanese encephalitis
-
-[Japanese encephalitis](https://www.canada.ca/en/public-health/services/diseases/japanese-encephalitis.html) is a viral infection that can cause swelling of the brain.  It is spread to humans through the bite of an infected mosquito. Risk is very low for most travellers. Travellers at relatively higher risk may want to consider vaccination for JE prior to travelling.
-
-Travellers are at higher risk if they will be:
-
-* travelling long term (e.g. more than 30 days)
-* making multiple trips to endemic areas
-* staying for extended periods in rural areas
-* visiting an area suffering a JE outbreak
-* engaging in activities involving high contact with mosquitos (e.g., entomologists)
 Rabies 
 
 In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/diseases/rabies) may be present in some wildlife species, including bats. Rabies is a deadly disease that spreads to humans primarily through bites or scratches from an infected animal.
@@ -102,6 +81,25 @@ Malaria
 [Protect yourself from mosquito bites](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html) at all times:   
 • Cover your skin and use an [approved](https://www.canada.ca/en/health-canada/services/about-pesticides/insect-repellents.html) insect repellent on uncovered skin. 
 
+Measles 
+
+[Measles](https://www.canada.ca/en/public-health/services/diseases/measles.html) is a highly contagious viral disease. It can spread quickly from person to person by direct contact and through droplets in the air.
+
+Anyone who is not protected against measles is at risk of being infected with it when travelling internationally.
+
+Regardless of where you are going, talk to a health care professional before travelling to make sure you are fully protected against measles.
+
+Japanese encephalitis
+
+[Japanese encephalitis](https://www.canada.ca/en/public-health/services/diseases/japanese-encephalitis.html) is a viral infection that can cause swelling of the brain.  It is spread to humans through the bite of an infected mosquito. Risk is very low for most travellers. Travellers at relatively higher risk may want to consider vaccination for JE prior to travelling.
+
+Travellers are at higher risk if they will be:
+
+* travelling long term (e.g. more than 30 days)
+* making multiple trips to endemic areas
+* staying for extended periods in rural areas
+* visiting an area suffering a JE outbreak
+* engaging in activities involving high contact with mosquitos (e.g., entomologists)
 COVID-19
 
 [Coronavirus disease (COVID-19)](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html) is an infectious viral disease. It can spread from person to person by direct contact and through droplets in the air.

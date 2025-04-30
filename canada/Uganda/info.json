@@ -1,7 +1,7 @@
 {
     "name": "Uganda",
-    "update_reason": "Health \u2013 removal of Travel health notice for Ebola disease",
-    "update_date": "2025-04-28T16:15:00",
+    "update_reason": "Natural disasters and climate \u2013 removed information on flooding in Kampala; Entry and exit requirements \u2013 removed information on health screening measures",
+    "update_date": "2025-04-29T14:48:00",
     "sections": {
         "risk": "canada/Uganda/risk.md",
         "security": "canada/Uganda/security.md",

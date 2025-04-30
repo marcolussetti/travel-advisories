@@ -2,6 +2,10 @@
 
 ## Safety and security
 
+Demonstrations are ongoing in Georgetown and in other locations across Guyana. Violent incidents have occurred. A curfew is in effect across the country from 12:30 am to 5 am.
+
+[Demonstrations](#demonstrations)
+
 ### Border with Venezuela
 
 There are no official border crossings with Venezuela. The security environment is volatile along the border between Guyana and Venezuela due to the ongoing discord over the Guyana Essequibo region and gang-related violence.

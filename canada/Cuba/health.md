@@ -39,9 +39,7 @@ Travellers get vaccinated either because it is required to enter a country or be
 
 **Country Entry Requirement\***
 
-* Proof of vaccination is required if you are coming from or have transited through an airport of a country [where yellow fever occurs](https://www.who.int/publications/m/item/countries-with-risk-of-yellow-fever-transmission-and-countries-requiring-yellow-fever-vaccination-(november-2022)) in the past six days prior to arrival in Singapore. See the Ministry of Health website for details.
-
-[Singapore Ministry of Health - Yellow fever vaccination](https://www.ica.gov.sg/enter-transit-depart/entering-singapore/yellow-fever-vaccination-certificate)
+* Proof of vaccination is required if you are coming from or have transited through an airport of a country [where yellow fever occurs](https://www.who.int/publications/m/item/countries-with-risk-of-yellow-fever-transmission-and-countries-requiring-yellow-fever-vaccination-(november-2022)).
 
 **Recommendation**
 
@@ -59,20 +57,6 @@ Hepatitis A
 There is a risk of [hepatitis A](https://www.canada.ca/en/public-health/services/diseases/hepatitis-a.html) in this destination. It is a disease of the liver. People can get hepatitis A if they ingest contaminated food or water, eat foods prepared by an infectious person, or if they have close physical contact (such as oral-anal sex) with an infectious person, although casual contact among people does not spread the virus.
 
 Practise [safe food and water precautions](https://travel.gc.ca/travelling/health-safety/food-water) and wash your hands often. Vaccination is recommended for all travellers to areas where hepatitis A is present.
-
-Measles 
-
-[Measles](https://www.canada.ca/en/public-health/services/diseases/measles.html) is a highly contagious viral disease. It can spread quickly from person to person by direct contact and through droplets in the air.
-
-Anyone who is not protected against measles is at risk of being infected with it when travelling internationally.
-
-Regardless of where you are going, talk to a health care professional before travelling to make sure you are fully protected against measles.
-
-Hepatitis B
-
-[Hepatitis B](https://www.canada.ca/en/public-health/services/diseases/hepatitis-b.html) is a risk in every destination. It is a viral liver disease that is easily transmitted from one person to another through exposure to blood and body fluids containing the hepatitis B virus.  Travellers who may be exposed to blood or other bodily fluids (e.g., through sexual contact, medical treatment, sharing needles, tattooing, acupuncture or occupational exposure) are at higher risk of getting hepatitis B.
-
-Hepatitis B vaccination is recommended for all travellers. [Prevent hepatitis B](https://www.canada.ca/en/public-health/services/diseases/hepatitis-b/prevention-risks.html#a2) infection by practicing safe sex, only using new and sterile drug equipment, and only getting tattoos and piercings in settings that follow public health regulations and standards.
 
 Influenza
 
@@ -95,6 +79,20 @@ In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/dise
 If you are bitten or scratched by an animal while travelling, immediately wash the wound with soap and clean water and see a health care professional. Rabies treatment is often available in this destination.
 
 Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who are at high risk of exposure (e.g., occupational risk such as veterinarians and wildlife workers, children, adventure travellers and spelunkers, and others in close contact with animals).
+
+Measles 
+
+[Measles](https://www.canada.ca/en/public-health/services/diseases/measles.html) is a highly contagious viral disease. It can spread quickly from person to person by direct contact and through droplets in the air.
+
+Anyone who is not protected against measles is at risk of being infected with it when travelling internationally.
+
+Regardless of where you are going, talk to a health care professional before travelling to make sure you are fully protected against measles.
+
+Hepatitis B
+
+[Hepatitis B](https://www.canada.ca/en/public-health/services/diseases/hepatitis-b.html) is a risk in every destination. It is a viral liver disease that is easily transmitted from one person to another through exposure to blood and body fluids containing the hepatitis B virus.  Travellers who may be exposed to blood or other bodily fluids (e.g., through sexual contact, medical treatment, sharing needles, tattooing, acupuncture or occupational exposure) are at higher risk of getting hepatitis B.
+
+Hepatitis B vaccination is recommended for all travellers. [Prevent hepatitis B](https://www.canada.ca/en/public-health/services/diseases/hepatitis-b/prevention-risks.html#a2) infection by practicing safe sex, only using new and sterile drug equipment, and only getting tattoos and piercings in settings that follow public health regulations and standards.
 
 COVID-19
 
@@ -178,6 +176,18 @@ A vaccine for the prevention of chikungunya (IXCHIQ) is approved in Canada. Talk
 
 [Chikungunya](https://www.canada.ca/en/public-health/services/diseases/chikungunya.html)
 
+Oropouche virus disease
+
+Oropouche virus disease is a disease caused by the Oropouche virus, which is spread to humans through the bite of an infected small fly called a midge (also known as no-see-um) or possibly certain mosquitos. Symptoms usually include fever, headache, joint and muscle pain, chills, and sometimes nausea and vomiting. In some cases, aseptic meningitis (inflammation of the membranes that surround the brain) may occur.
+
+Most travellers are at low risk. There are concerns that Oropouche virus could be passed from a pregnant woman or pregnant person to their unborn baby, which might lead to serious problems like stillbirth or issues with the baby’s head and brain development.
+
+Pregnant women, pregnant people, or anyone planning a pregnancy should discuss the possible risks of travelling to areas with Oropouche virus with their health care provider. They may want to be extra cautious and avoid travelling to these areas until more is known about the risk.
+
+Protect yourself from midge and mosquito bites at all times. There is no vaccine or medication that protects against Oropouche virus disease.
+
+[Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)
+
 Dengue 
 
 * In this country, dengue is a risk to travellers. It is a viral disease spread to humans by mosquito bites.
@@ -204,18 +214,6 @@ During your trip:
 If you are pregnant or planning a pregnancy, you should discuss the potential risks of travelling to this destination with your health care provider. You may choose to avoid or postpone travel.
 
 For more information, see [Zika virus: Pregnant or planning a pregnancy.](https://www.canada.ca/en/public-health/services/diseases/zika-virus/pregnant-planning-pregnancy.html)
-
-Oropouche virus disease
-
-Oropouche virus disease is a disease caused by the Oropouche virus, which is spread to humans through the bite of an infected small fly called a midge (also known as no-see-um) or possibly certain mosquitos. Symptoms usually include fever, headache, joint and muscle pain, chills, and sometimes nausea and vomiting. In some cases, aseptic meningitis (inflammation of the membranes that surround the brain) may occur.
-
-Most travellers are at low risk. There are concerns that Oropouche virus could be passed from a pregnant woman or pregnant person to their unborn baby, which might lead to serious problems like stillbirth or issues with the baby’s head and brain development.
-
-Pregnant women, pregnant people, or anyone planning a pregnancy should discuss the possible risks of travelling to areas with Oropouche virus with their health care provider. They may want to be extra cautious and avoid travelling to these areas until more is known about the risk.
-
-Protect yourself from midge and mosquito bites at all times. There is no vaccine or medication that protects against Oropouche virus disease.
-
-[Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)
 
 ### Animal precautions
 

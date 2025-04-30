@@ -2,19 +2,6 @@
 
 ## Natural disasters and climate
 
-### Bushfires in the State of Western Australia
-
-Bushfires are currently affecting the city of Canning in the Perth metropolitan region of Western Australia.
-
-The air quality in areas near active fires may deteriorate due to heavy smoke and essential services may be disrupted due to damage caused by the fires.
-
-Follow the instructions of local authorities, including evacuation orders.
-
-#### Useful links:
-
-* [Information on bushfires](https://www.dfes.wa.gov.au/bushfire/) – Department of Fire and Emergency Services
-* [Air quality index](https://www.der.wa.gov.au/your-environment/air/air-quality-index) – Government of Western Australia
-
 ### Bush and forest fires
 
 Bush and forest fires are common between October and April, particularly in areas covered by bushes, long grass or coastal scrub. Elevated fire danger ratings and alert levels may be applied to affected areas. The air quality in areas near active fires may deteriorate due to heavy smoke.

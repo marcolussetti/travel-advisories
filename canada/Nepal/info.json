@@ -1,7 +1,7 @@
 {
     "name": "Nepal",
-    "update_reason": "Editorial change",
-    "update_date": "2025-04-15T14:28:00",
+    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
+    "update_date": "2025-04-29T09:41:00",
     "sections": {
         "risk": "canada/Nepal/risk.md",
         "security": "canada/Nepal/security.md",

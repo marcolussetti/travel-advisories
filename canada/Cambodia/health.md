@@ -38,9 +38,7 @@ Travellers get vaccinated either because it is required to enter a country or be
 
 **Country Entry Requirement\***
 
-* Proof of vaccination is required if you are coming from or have transited through an airport of a country [where yellow fever occurs](https://www.who.int/publications/m/item/countries-with-risk-of-yellow-fever-transmission-and-countries-requiring-yellow-fever-vaccination-(november-2022)) in the past six days prior to arrival in Singapore. See the Ministry of Health website for details.
-
-[Singapore Ministry of Health - Yellow fever vaccination](https://www.ica.gov.sg/enter-transit-depart/entering-singapore/yellow-fever-vaccination-certificate)
+* Proof of vaccination is required if you are coming from or have transited through an airport of a country [where yellow fever occurs](https://www.who.int/publications/m/item/countries-with-risk-of-yellow-fever-transmission-and-countries-requiring-yellow-fever-vaccination-(november-2022)).
 
 **Recommendation**
 
@@ -65,25 +63,6 @@ Hepatitis B
 
 Hepatitis B vaccination is recommended for all travellers. [Prevent hepatitis B](https://www.canada.ca/en/public-health/services/diseases/hepatitis-b/prevention-risks.html#a2) infection by practicing safe sex, only using new and sterile drug equipment, and only getting tattoos and piercings in settings that follow public health regulations and standards.
 
-Measles 
-
-[Measles](https://www.canada.ca/en/public-health/services/diseases/measles.html) is a highly contagious viral disease. It can spread quickly from person to person by direct contact and through droplets in the air.
-
-Anyone who is not protected against measles is at risk of being infected with it when travelling internationally.
-
-Regardless of where you are going, talk to a health care professional before travelling to make sure you are fully protected against measles.
-
-Japanese encephalitis
-
-[Japanese encephalitis](https://www.canada.ca/en/public-health/services/diseases/japanese-encephalitis.html) is a viral infection that can cause swelling of the brain.  It is spread to humans through the bite of an infected mosquito. Risk is very low for most travellers. Travellers at relatively higher risk may want to consider vaccination for JE prior to travelling.
-
-Travellers are at higher risk if they will be:
-
-* travelling long term (e.g. more than 30 days)
-* making multiple trips to endemic areas
-* staying for extended periods in rural areas
-* visiting an area suffering a JE outbreak
-* engaging in activities involving high contact with mosquitos (e.g., entomologists)
 Malaria 
 
 [Malaria](https://www.canada.ca/en/public-health/services/diseases/malaria.html) is a serious and sometimes fatal disease that is caused by parasites spread through the bites of mosquitoes.  
@@ -117,6 +96,25 @@ If you are bitten or scratched by a dog or other animal while travelling, immedi
 
 Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who are at high risk of exposure (e.g., occupational risk such as veterinarians and wildlife workers, children, adventure travellers and spelunkers, and others in close contact with animals).
 
+Measles 
+
+[Measles](https://www.canada.ca/en/public-health/services/diseases/measles.html) is a highly contagious viral disease. It can spread quickly from person to person by direct contact and through droplets in the air.
+
+Anyone who is not protected against measles is at risk of being infected with it when travelling internationally.
+
+Regardless of where you are going, talk to a health care professional before travelling to make sure you are fully protected against measles.
+
+Japanese encephalitis
+
+[Japanese encephalitis](https://www.canada.ca/en/public-health/services/diseases/japanese-encephalitis.html) is a viral infection that can cause swelling of the brain.  It is spread to humans through the bite of an infected mosquito. Risk is very low for most travellers. Travellers at relatively higher risk may want to consider vaccination for JE prior to travelling.
+
+Travellers are at higher risk if they will be:
+
+* travelling long term (e.g. more than 30 days)
+* making multiple trips to endemic areas
+* staying for extended periods in rural areas
+* visiting an area suffering a JE outbreak
+* engaging in activities involving high contact with mosquitos (e.g., entomologists)
 COVID-19
 
 [Coronavirus disease (COVID-19)](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html) is an infectious viral disease. It can spread from person to person by direct contact and through droplets in the air.
@@ -191,17 +189,6 @@ A vaccine for the prevention of chikungunya (IXCHIQ) is approved in Canada. Talk
 
 [Chikungunya](https://www.canada.ca/en/public-health/services/diseases/chikungunya.html)
 
-Dengue 
-
-* In this country, dengue is a risk to travellers. It is a viral disease spread to humans by mosquito bites.
-* Dengue can cause flu-like symptoms. In some cases, it can lead to severe dengue, which can be fatal.
-* The level of risk of dengue changes seasonally, and varies from year to year. The level of risk also varies between regions in a country and can depend on the elevation in the region.
-* Mosquitoes carrying dengue typically bite during the daytime, particularly around sunrise and sunset.
-* Protect yourself from mosquito bites. There is no vaccine or medication available in Canada to prevent dengue.
-
-**Learn more:**  
-[Dengue](https://www.canada.ca/en/public-health/services/infectious-diseases/viral-haemorrhagic-fevers/dengue-fever.html)
-
 Zika virus 
 
 [Zika virus](https://www.canada.ca/en/public-health/services/diseases/zika-virus.html) is a risk in this country.
@@ -216,6 +203,17 @@ During your trip:
 If you are pregnant or planning a pregnancy, you should discuss the potential risks of travelling to this destination with your health care provider. You may choose to avoid or postpone travel.
 
 For more information, see [Zika virus: Pregnant or planning a pregnancy.](https://www.canada.ca/en/public-health/services/diseases/zika-virus/pregnant-planning-pregnancy.html)
+
+Dengue 
+
+* In this country, dengue is a risk to travellers. It is a viral disease spread to humans by mosquito bites.
+* Dengue can cause flu-like symptoms. In some cases, it can lead to severe dengue, which can be fatal.
+* The level of risk of dengue changes seasonally, and varies from year to year. The level of risk also varies between regions in a country and can depend on the elevation in the region.
+* Mosquitoes carrying dengue typically bite during the daytime, particularly around sunrise and sunset.
+* Protect yourself from mosquito bites. There is no vaccine or medication available in Canada to prevent dengue.
+
+**Learn more:**  
+[Dengue](https://www.canada.ca/en/public-health/services/infectious-diseases/viral-haemorrhagic-fevers/dengue-fever.html)
 
 ### Animal precautions
 
@@ -280,12 +278,6 @@ Travellers who may be at high risk while travelling in regions with risk of tube
 
 High-risk travellers include those visiting or working in prisons, refugee camps, homeless shelters, or hospitals, or travellers visiting friends and relatives.
 
-HIV 
-
-[HIV (Human Immunodeficiency Virus)](https://www.canada.ca/en/public-health/services/diseases/hiv-aids.html) is a virus that attacks and impairs the immune system, resulting in a chronic, progressive illness known as AIDS (Acquired Immunodeficiency Syndrome).
-
-High risk activities include anything which puts you in contact with blood or body fluids, such as unprotected sex and exposure to unsterilized needles for medications or other substances (for example, steroids and drugs), tattooing, body-piercing or acupuncture.
-
 Multidrug-resistant gonorrhea
 
 There has been an increase in the number of multidrug-resistant gonorrhea cases reported in this country. Gonorrhea is a sexually transmitted bacterial infection. It is spread through sexual contact (oral, genital or anal) with someone who has the infection. Multidrug-resistant gonorrhea is very difficult to treat as it may not respond to currently recommended antibiotics.
@@ -305,6 +297,11 @@ If you think you may have been exposed to gonorrhea, discuss this with your heal
 * [Safer condom use](https://www.canada.ca/en/public-health/services/sexual-health/safer-condom-use.html)
 * [Getting tested for STIs](https://www.canada.ca/en/public-health/services/sexual-health/getting-tested-sexually-transmitted-infections.html)
 * [Sexual health and travel](https://www.canada.ca/en/public-health/services/diseases/sexually-transmitted-infections.html)
+HIV 
+
+[HIV (Human Immunodeficiency Virus)](https://www.canada.ca/en/public-health/services/diseases/hiv-aids.html) is a virus that attacks and impairs the immune system, resulting in a chronic, progressive illness known as AIDS (Acquired Immunodeficiency Syndrome).
+
+High risk activities include anything which puts you in contact with blood or body fluids, such as unprotected sex and exposure to unsterilized needles for medications or other substances (for example, steroids and drugs), tattooing, body-piercing or acupuncture.
 
 ### Medical services and facilities
 

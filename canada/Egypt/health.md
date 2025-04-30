@@ -32,6 +32,49 @@ There is a risk of [hepatitis A](https://www.canada.ca/en/public-health/services
 
 Practise [safe food and water precautions](https://travel.gc.ca/travelling/health-safety/food-water) and wash your hands often. Vaccination is recommended for all travellers to areas where hepatitis A is present.
 
+Yellow Fever - Country Entry Requirements 
+
+[Yellow fever](https://www.canada.ca/en/public-health/services/diseases/yellow-fever.html) is a disease caused by a flavivirus from the bite of an infected mosquito.
+
+Travellers get vaccinated either because it is required to enter a country or because it is recommended for their protection.
+
+**Risk**
+
+* There is no risk of yellow fever in this country.
+
+**Country Entry Requirement\***
+
+* Proof of vaccination is required if you are coming from or have transited through an airport of a country [where yellow fever occurs](https://www.who.int/publications/m/item/countries-with-risk-of-yellow-fever-transmission-and-countries-requiring-yellow-fever-vaccination-(november-2022)).
+
+**Recommendation**
+
+* Vaccination is not recommended.
+* Discuss travel plans, activities, and destinations with a health care professional.
+* Contact a designated [Yellow Fever Vaccination Centre](https://www.canada.ca/en/public-health/services/travel-health/yellow-fever.html#select-centre%20) well in advance of your trip to arrange for vaccination.
+
+[About Yellow Fever](https://www.canada.ca/en/public-health/services/diseases/yellow-fever.html "Link to External Site")
+
+[Yellow Fever Vaccination Centres in Canada](https://www.canada.ca/en/public-health/services/travel-health/yellow-fever.html#select-centre%20)  
+\* It is important to note that [country entry requirements](https://www.who.int/publications/m/item/vaccination-requirements-and-recommendations-for-international-travellers-and-malaria-situation-per-country-2022-edition "Link to External Site") may not reflect your risk of yellow fever at your destination. It is recommended that you contact the nearest [diplomatic or consular office](http://www.international.gc.ca/protocol-protocole/reps.aspx?view=d "Link to External Site") of the destination(s) you will be visiting to verify any additional entry requirements.
+
+Rabies 
+
+In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/diseases/rabies) is commonly carried by dogs and some wildlife, including bats. Rabies is a deadly disease that spreads to humans primarily through bites or scratches from an infected animal. While travelling, take [precautions](https://www.canada.ca/en/public-health/services/diseases/rabies/prevention.html), including keeping your distance from animals (including free-roaming dogs), and closely supervising children.
+
+If you are bitten or scratched by a dog or other animal while travelling, immediately wash the wound with soap and clean water and see a health care professional. **In this destination, rabies treatment may be limited or may not be available, therefore you may need to return to Canada for treatment.**
+
+Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who are at high risk of exposure (e.g., occupational risk such as veterinarians and wildlife workers, children, adventure travellers and spelunkers, and others in close contact with animals).
+
+Polio 
+
+[Polio](https://travel.gc.ca/travelling/health-safety/diseases/polio) (poliomyelitis) is an infectious disease that can be prevented by vaccination. It is caused by poliovirus type 1, 2 or 3. Circulating vaccine-derived poliovirus 2 (cVDPV2) is present in this country.
+
+Polio is spread from person to person and through contaminated food and water. Infection with the polio virus can cause paralysis and death in individuals of any age who are not immune.
+
+**Recommendations:**
+
+* Be sure that your polio vaccinations are up to date before travelling. Polio is part of the [routine vaccine schedule](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-1-key-immunization-information/page-13-recommended-immunization-schedules.html#p1c12a2) for children in Canada.
+* One booster dose of the polio vaccine is recommended as an [adult](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-3-vaccination-specific-populations/page-9-immunization-travellers.html#a3).
 Measles 
 
 [Measles](https://www.canada.ca/en/public-health/services/diseases/measles.html) is a highly contagious viral disease. It can spread quickly from person to person by direct contact and through droplets in the air.
@@ -67,52 +110,6 @@ Influenza
 The flu vaccine available in one hemisphere may only offer partial protection against the flu in the other hemisphere.
 
 The flu virus spreads from person to person when they cough or sneeze or by touching objects and surfaces that have been contaminated with the virus. Clean your hands often and wear a mask if you have a fever or respiratory symptoms.
-
-Yellow Fever - Country Entry Requirements 
-
-[Yellow fever](https://www.canada.ca/en/public-health/services/diseases/yellow-fever.html) is a disease caused by a flavivirus from the bite of an infected mosquito.
-
-Travellers get vaccinated either because it is required to enter a country or because it is recommended for their protection.
-
-**Risk**
-
-* There is no risk of yellow fever in this country.
-
-**Country Entry Requirement\***
-
-* Proof of vaccination is required if you are coming from or have transited through an airport of a country [where yellow fever occurs](https://www.who.int/publications/m/item/countries-with-risk-of-yellow-fever-transmission-and-countries-requiring-yellow-fever-vaccination-(november-2022)) in the past six days prior to arrival in Singapore. See the Ministry of Health website for details.
-
-[Singapore Ministry of Health - Yellow fever vaccination](https://www.ica.gov.sg/enter-transit-depart/entering-singapore/yellow-fever-vaccination-certificate)
-
-**Recommendation**
-
-* Vaccination is not recommended.
-* Discuss travel plans, activities, and destinations with a health care professional.
-* Contact a designated [Yellow Fever Vaccination Centre](https://www.canada.ca/en/public-health/services/travel-health/yellow-fever.html#select-centre%20) well in advance of your trip to arrange for vaccination.
-
-[About Yellow Fever](https://www.canada.ca/en/public-health/services/diseases/yellow-fever.html "Link to External Site")
-
-[Yellow Fever Vaccination Centres in Canada](https://www.canada.ca/en/public-health/services/travel-health/yellow-fever.html#select-centre%20)  
-\* It is important to note that [country entry requirements](https://www.who.int/publications/m/item/vaccination-requirements-and-recommendations-for-international-travellers-and-malaria-situation-per-country-2022-edition "Link to External Site") may not reflect your risk of yellow fever at your destination. It is recommended that you contact the nearest [diplomatic or consular office](http://www.international.gc.ca/protocol-protocole/reps.aspx?view=d "Link to External Site") of the destination(s) you will be visiting to verify any additional entry requirements.
-
-Rabies 
-
-In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/diseases/rabies) is commonly carried by dogs and some wildlife, including bats. Rabies is a deadly disease that spreads to humans primarily through bites or scratches from an infected animal. While travelling, take [precautions](https://www.canada.ca/en/public-health/services/diseases/rabies/prevention.html), including keeping your distance from animals (including free-roaming dogs), and closely supervising children.
-
-If you are bitten or scratched by a dog or other animal while travelling, immediately wash the wound with soap and clean water and see a health care professional. **In this destination, rabies treatment may be limited or may not be available, therefore you may need to return to Canada for treatment.**
-
-Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who are at high risk of exposure (e.g., occupational risk such as veterinarians and wildlife workers, children, adventure travellers and spelunkers, and others in close contact with animals).
-
-Polio 
-
-[Polio](https://travel.gc.ca/travelling/health-safety/diseases/polio) (poliomyelitis) is an infectious disease that can be prevented by vaccination. It is caused by poliovirus type 1, 2 or 3. Circulating vaccine-derived poliovirus 2 (cVDPV2) is present in this country.
-
-Polio is spread from person to person and through contaminated food and water. Infection with the polio virus can cause paralysis and death in individuals of any age who are not immune.
-
-**Recommendations:**
-
-* Be sure that your polio vaccinations are up to date before travelling. Polio is part of the [routine vaccine schedule](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-1-key-immunization-information/page-13-recommended-immunization-schedules.html#p1c12a2) for children in Canada.
-* One booster dose of the polio vaccine is recommended as an [adult](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-3-vaccination-specific-populations/page-9-immunization-travellers.html#a3).
 
 ### Safe food and water precautions
 
@@ -180,10 +177,6 @@ A vaccine for the prevention of chikungunya (IXCHIQ) is approved in Canada. Talk
 
 [Chikungunya](https://www.canada.ca/en/public-health/services/diseases/chikungunya.html)
 
-Rift Valley fever
-
-[Rift Valley fever](http://www.who.int/mediacentre/factsheets/fs207/en/) is a viral disease that can cause severe flu-like symptoms. In some cases, it can be fatal. It is spread to humans through contact with infected animal blood or tissues, from the bite of an infected mosquito, or eating or drinking unpasteurized dairy. Risk is generally low for most travellers. Protect yourself from insect bites and avoid animals, particularly livestock, and unpasteurized dairy. There is no vaccine available for Rift Valley fever.
-
 Dengue 
 
 * In this country, dengue is a risk to travellers. It is a viral disease spread to humans by mosquito bites.
@@ -195,6 +188,10 @@ Dengue
 **Learn more:**  
 [Dengue](https://www.canada.ca/en/public-health/services/infectious-diseases/viral-haemorrhagic-fevers/dengue-fever.html)  
 [Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)
+
+Rift Valley fever
+
+[Rift Valley fever](http://www.who.int/mediacentre/factsheets/fs207/en/) is a viral disease that can cause severe flu-like symptoms. In some cases, it can be fatal. It is spread to humans through contact with infected animal blood or tissues, from the bite of an infected mosquito, or eating or drinking unpasteurized dairy. Risk is generally low for most travellers. Protect yourself from insect bites and avoid animals, particularly livestock, and unpasteurized dairy. There is no vaccine available for Rift Valley fever.
 
 ### Animal precautions
 

@@ -38,9 +38,7 @@ Travellers get vaccinated either because it is required to enter a country or be
 
 **Country Entry Requirement\***
 
-* Proof of vaccination is required if you are coming from or have transited through an airport of a country [where yellow fever occurs](https://www.who.int/publications/m/item/countries-with-risk-of-yellow-fever-transmission-and-countries-requiring-yellow-fever-vaccination-(november-2022)) in the past six days prior to arrival in Singapore. See the Ministry of Health website for details.
-
-[Singapore Ministry of Health - Yellow fever vaccination](https://www.ica.gov.sg/enter-transit-depart/entering-singapore/yellow-fever-vaccination-certificate)
+* Proof of vaccination is required if you are coming from or have transited through an airport of a country [where yellow fever occurs](https://www.who.int/publications/m/item/countries-with-risk-of-yellow-fever-transmission-and-countries-requiring-yellow-fever-vaccination-(november-2022)).
 
 **Recommendation**
 
@@ -58,6 +56,14 @@ Hepatitis A
 There is a risk of [hepatitis A](https://www.canada.ca/en/public-health/services/diseases/hepatitis-a.html) in this destination. It is a disease of the liver. People can get hepatitis A if they ingest contaminated food or water, eat foods prepared by an infectious person, or if they have close physical contact (such as oral-anal sex) with an infectious person, although casual contact among people does not spread the virus.
 
 Practise [safe food and water precautions](https://travel.gc.ca/travelling/health-safety/food-water) and wash your hands often. Vaccination is recommended for all travellers to areas where hepatitis A is present.
+
+Rabies 
+
+In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/diseases/rabies) is commonly carried by dogs and some wildlife, including bats. Rabies is a deadly disease that spreads to humans primarily through bites or scratches from an infected animal. While travelling, take [precautions](https://www.canada.ca/en/public-health/services/diseases/rabies/prevention.html), including keeping your distance from animals (including free-roaming dogs), and closely supervising children.
+
+If you are bitten or scratched by a dog or other animal while travelling, immediately wash the wound with soap and clean water and see a health care professional. **In this destination, rabies treatment may be limited or may not be available, therefore you may need to return to Canada for treatment.**
+
+Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who are at high risk of exposure (e.g., occupational risk such as veterinarians and wildlife workers, children, adventure travellers and spelunkers, and others in close contact with animals).
 
 Measles 
 
@@ -109,14 +115,6 @@ The flu virus spreads from person to person when they cough or sneeze or by touc
 Typhoid 
 
 [Typhoid](http://travel.gc.ca/travelling/health-safety/diseases/typhoid) is a bacterial infection spread by contaminated food or water. Travellers going to countries in South Asia should speak to a health care professional about getting vaccinated.
-
-Rabies 
-
-In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/diseases/rabies) is commonly carried by dogs and some wildlife, including bats. Rabies is a deadly disease that spreads to humans primarily through bites or scratches from an infected animal. While travelling, take [precautions](https://www.canada.ca/en/public-health/services/diseases/rabies/prevention.html), including keeping your distance from animals (including free-roaming dogs), and closely supervising children.
-
-If you are bitten or scratched by a dog or other animal while travelling, immediately wash the wound with soap and clean water and see a health care professional. **In this destination, rabies treatment may be limited or may not be available, therefore you may need to return to Canada for treatment.**
-
-Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who are at high risk of exposure (e.g., occupational risk such as veterinarians and wildlife workers, children, adventure travellers and spelunkers, and others in close contact with animals).
 
 ### Safe food and water precautions
 
@@ -178,18 +176,6 @@ A vaccine for the prevention of chikungunya (IXCHIQ) is approved in Canada. Talk
 
 [Chikungunya](https://www.canada.ca/en/public-health/services/diseases/chikungunya.html)
 
-Dengue 
-
-* In this country, dengue is a risk to travellers. It is a viral disease spread to humans by mosquito bites.
-* Dengue can cause flu-like symptoms. In some cases, it can lead to severe dengue, which can be fatal.
-* The level of risk of dengue changes seasonally, and varies from year to year. The level of risk also varies between regions in a country and can depend on the elevation in the region.
-* Mosquitoes carrying dengue typically bite during the daytime, particularly around sunrise and sunset.
-* Protect yourself from mosquito bites. There is no vaccine or medication available in Canada to prevent dengue.
-
-**Learn more:**  
-[Dengue](https://www.canada.ca/en/public-health/services/infectious-diseases/viral-haemorrhagic-fevers/dengue-fever.html)  
-[Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)
-
 Zika virus 
 
 [Zika virus](https://www.canada.ca/en/public-health/services/diseases/zika-virus.html) is a risk in this country.
@@ -204,6 +190,18 @@ During your trip:
 If you are pregnant or planning a pregnancy, you should discuss the potential risks of travelling to this destination with your health care provider. You may choose to avoid or postpone travel.
 
 For more information, see [Zika virus: Pregnant or planning a pregnancy.](https://www.canada.ca/en/public-health/services/diseases/zika-virus/pregnant-planning-pregnancy.html)
+
+Dengue 
+
+* In this country, dengue is a risk to travellers. It is a viral disease spread to humans by mosquito bites.
+* Dengue can cause flu-like symptoms. In some cases, it can lead to severe dengue, which can be fatal.
+* The level of risk of dengue changes seasonally, and varies from year to year. The level of risk also varies between regions in a country and can depend on the elevation in the region.
+* Mosquitoes carrying dengue typically bite during the daytime, particularly around sunrise and sunset.
+* Protect yourself from mosquito bites. There is no vaccine or medication available in Canada to prevent dengue.
+
+**Learn more:**  
+[Dengue](https://www.canada.ca/en/public-health/services/infectious-diseases/viral-haemorrhagic-fevers/dengue-fever.html)  
+[Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)
 
 ### Animal precautions
 
