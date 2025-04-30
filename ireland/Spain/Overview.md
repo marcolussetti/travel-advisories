@@ -6,7 +6,7 @@ Normal Precautions
 
 ### Travel Alert
 
-The Embassy of Ireland, Madrid, is aware of widespread electricity outages across Spain. We recommend following the instructions of the local authorities at all times.
+The widespread electricity outages across Spain on Monday 28 April have now been resolved. Some disruption to services, including transport services, remains. We recommend following the advice and instructions of the local authorities at all times and consulting with your travel provider before travelling.
 
 If you are in need of emergency consular assistance, please contact DFAT +353 1 408 2527.
 
