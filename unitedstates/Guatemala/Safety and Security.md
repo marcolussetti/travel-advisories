@@ -2,47 +2,26 @@
 
 [#### Safety and Security](javascript:void(0); "Safety and Security")
 
-Guatemala has a dedicated tourism assistance program (called [PROATUR](https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fgcc02.safelinks.protection.outlook.com.mcas.ms%2F%3Furl%3Dhttps%253A%252F%252Finguat.gob.gt%252Fservicios%252Fal-turista%252Facompanamiento-a-grupos.html%26data%3D05%257C01%257CSimmonsSL%2540state.gov%257Cc1f4c2feae124b182b9708dbc67a12ff%257C66cf50745afe48d1a691a12b2121f44b%257C0%257C0%257C638321999823527559%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%253D%257C3000%257C%257C%257C%26sdata%3DyXGJC92r7bam5fEdBZ3YyIPb0tipYl934t5v33Gbv6c%253D%26reserved%3D0%26McasTsid%3D20893&McasCSRF=2053b7c40a7f4bc1de1908cc50a74a6f7a048c537a2a6c8db8270c09db099235)) whose sole mission is to assist and protect foreign tourists in Guatemala. Their emergency assistance call center – staffed with Spanish and English speakers – may be contacted 24/7 by calling 1500 or +502-2290-2810. You may also contact PROATUR by WhatsApp at +502-5188-1819.
+In an emergency, U.S. Embassy personnel are not first responders. Guatemala has a tourism assistance program called [ASISTUR](https://asistur.gt/en/) to help and protect visitors in the country. ASISTUR provides extra security and tourist police (DISETUR) in popular tourist areas like Antigua and Lake Atitlán. ASISTUR’s emergency call center has Spanish and English speakers and is available 24/7. You can call 1500 from a Guatemalan phone or (502) 2290-2810 or send a WhatsApp message to +502-5188-1819. Here is a [list of ASISTUR’s contacts by Department](https://asistur.gt/en/servicios/). Tourist groups can also [ask for security escorts](https://docs.google.com/forms/d/e/1FAIpQLSd6ZYoJIemUye3yb60bHYXjsZZiqcSJ_VZVy5i07OpaJjyHUQ/viewform).
 
-**Crime:** Theft, armed robbery, and carjacking are the most common crimes against U.S. citizens.
+**Crime:** While tourists are not usually the targets of violent crime, they can still become victims of theft. Do not leave valuables in vehicles or unattended. Some areas of Guatemala have problems with gangs, extortion, armed robbery, drug trafficking, and murder. Reports of sexual violence are also common, and support for victims is limited. Local police may not have the resources to handle serious crime effectively, leading to low arrest and conviction rates.
 
-Travelers have experienced carjackings and armed robberies upon leaving the airport.  Victims have been violently assaulted when they resisted an attack or refused to give up money or valuables. Pickpockets and purse-snatchers are prevalent in major cities and tourist sites, especially the central market and other parts of Zone 1 in Guatemala City. In a common scenario, an accomplice distracts the victim while an assailant slashes a bag or backpack or simply steals it.
+**Demonstrations** occur frequently. They may take place in response to political or economic issues. They may occur on politically significant holidays and during international events.
 
-Reports of sexual assault remain high. Support for victims of sexual assault is lacking.
-
-The Guatemalan border with Mexico, in particular the northwestern corner of Petén, is a high-risk area due to large scale drug and alien smuggling.  There have been instances of narco-related homicides in this area, especially along CA-13. Visitors are encouraged to fly to nearby Flores when visiting Tikal. Travelers should remain in groups, stay on principal trails leading to the Central Plaza and the Temple IV complex, and avoid remote areas of the park.
-
-Due to heightened risk of crime, U.S. Embassy personnel are not permitted to go to Zone 18 in Guatemala City, Huehuetenango Department (except the city of Huehuetenango), and San Marcos Department (except the city of San Marcos).  For more detailed information, please see the [Guatemala Travel Advisory](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/guatemala-travel-advisory.html).
-
-To decrease the likelihood of becoming a victim:
-
-* Be aware of your surroundings. Report any crime incidents promptly to the police.
-* Carry a photocopy of your passport in case you lose your passport.
-* **Do not use public ATMs.** Only use ATMs inside secure bank lobbies or hotels. Scams involving attempts to acquire a victim’s ATM card and personal identification number (PIN) are common. U.S. citizens have been victims of credit card scams where the card is copied and used improperly.
-* Do not display signs of wealth, such as wearing expensive jewelry or watches. Refrain from using a cell phone on the street. A common crime against foreign citizens in Guatemala is robbery of cell phones.
-* **Do not use local public buses**. U.S. Embassy personnel are not permitted to use any local buses. Avoid low-priced public inter-city buses (often recognizable as recycled and repainted U.S. school buses). Travelers also have been attacked on first-class buses on highway CA-2 near the border areas with both Mexico and El Salvador, on highways CA-1 and CA-9 near the border with El Salvador, and in the highlands between Quetzaltenango and Sololá.  Public buses are subject to frequent attacks by armed robbers, and often are poorly maintained and dangerously driven.
-* Do not hail taxis on the street in Guatemala City, instead use radio-dispatched taxis (Taxi Amarillo), INGUAT-approved taxis from the “SAFE” stand at the Guatemala City airport, or hotel taxis. Uber is also considered safe to use in Guatemala City and Antigua.
-
-**Tourist groups are advised to request security escorts.** Security escorts for tourist groups are available from INGUAT and may be requested by calling 1500 or +502-2290-2800.
-
-* Requests should be directed to the attention of the Coordinator of the [National Tourist Assistance Program](https://guatemalacvb.com/en/contact/), and should provide the itinerary, names of travelers, and model and color of the vehicle in which they will be traveling.
-* The request should be submitted by mail, fax, or [e-mail](mailto:operacionesproatur@inguat.gob.gt), and should arrive at INGUAT at least three business days in advance of the proposed travel.
-* INGUAT may not be able to accommodate all requests.
-* Visit [INGUAT’s web site](https://inguat.gob.gt/).
-
-**Demonstrations** occur frequently. They may take place in response to political or economic issues, on politically significant holidays, and during international events.
-
-* Demonstrations can be unpredictable. Avoid areas around protests and demonstrations
+* Demonstrations can be unpredictable. Avoid areas around protests and demonstrations.
 * Past demonstrations have turned violent.
 * Check local media for updates and traffic advisories.
 
-**International Financial Scams:**See the [Department of State](http://travel.state.gov/content/passports/english/emergencies/scams.html)and the [FBI](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Guatemala.html#ExternalPopup) pages for information.
+**Scams:**Internet romance and financial scams are prevalent in Guatemala. Review the Department of State’s [Protecting Yourself from Scams](https://travel.state.gov/content/travel/en/international-travel/emergencies/international-financial-scams.html) and the [FBI](http://www.fbi.gov/scams-safety/fraud) pages for information.
 
-Internet romance and financial scams are prevalent in Guatemala. Scams are often initiated through Internet postings/profiles or by unsolicited emails and letters. Scammers almost always pose as U.S. citizens who have no one else to turn to for help. Common scams include:
+Be careful when using dating apps or online dating websites while abroad. Scammers may target U.S. citizens. Tell your friends and family where you are, meet in a popular public place, and avoid consuming suspicious food or drinks. Avoid traveling alone to bars or nightclubs.
+
+Scams are often initiated through Internet postings/profiles or by unsolicited emails and letters. Scammers almost always pose as U.S. citizens who have no one else to turn to for help. Common scams include:
 
 * Romance/Online dating
 * Money transfers
 * Lucrative sales
+* Gold purchase
 * Contracts with promises of large commissions
 * Grandparent/Relative targeting
 * Free Trip/Luggage
@@ -51,41 +30,28 @@ Internet romance and financial scams are prevalent in Guatemala. Scams are often
 * Work permits/job offers
 * Bank overpayments
 
-**Victims of Crime:**  U.S. citizen victims of sexual assault are encouraged to contact the U.S. Embassy for assistance. Report crimes to the police through the tourist assistance program ([PROATUR](https://guiagt.com/item/proatur-programa-de-asistencia-al-turista/)) at 1500 or +502-2290-2800 and contact the U.S. Embassy at+502-2354-0000. Remember that local authorities are responsible for investigating and prosecuting crime.
+**Technology Usage Abroad**: Mobile devices can be compromised, stolen, or damaged anywhere in the world. Before traveling abroad, it is best to keep all software (operating system and apps) updated. Enable multi-factor authentication if possible. If possible, use a virtual private network (VPN) and encrypted voice over IP (VoIP) applications. Make sure that all VPN/VoIP are reputable, and U.S. based. Do not connect to unknown open Wi-Fi.
 
-See our webpage on [help for U.S. victims of crime overseas](http://travel.state.gov/content/passports/en/emergencies/victims.html).
+GPS navigation apps can be helpful. Prior to using the GPS app make sure you research the route to make sure it is safe. A GPS navigation app may give you the shortest route without safety considerations.
 
-The U.S. Embassy can:
+**Victims of Crime:**  U.S. citizen victims of sexual assault are encouraged to contact the U.S. Embassy for assistance.
 
-* help you find appropriate medical care.
-* assist you in reporting a crime to the police.
-* contact relatives or friends with your written consent.
-* provide general information regarding the victim’s role during the local investigation and following its conclusion.
-* provide a list of local attorneys
-* provide our information on [victim’s compensation programs in the United States.](http://travel.state.gov/content/passports/english/emergencies/victims.html)
-* provide an emergency loan for repatriation to the United States and/or limited medical support in cases of destitution.
-* help you find accommodations and arrange flights home.
-* replace a stolen or lost passport.
+Report crimes to the local police through the tourist assistance program which is available 24/7. Call 1500 from a Guatemalan phone or (502) 2290-2810 or send a message on WhatsApp to +502-5188-1819. You can also contact the U.S. Embassy through our [U.S. Citizens Services Navigator](https://gt.usembassy.gov/u-s-citizens-services-navigator/). Local authorities are responsible for investigating and prosecuting crime.
 
-**Domestic Violence:** U.S. citizen victims of domestic violence may contact the U.S. Embassy for assistance.
+Review our webpage on [help for U.S. victims of crime overseas](http://travel.state.gov/content/passports/en/emergencies/victims.html).
 
-**Tourism:** The tourism industry is unevenly regulated, and safety inspections for equipment and facilities do not commonly occur. Hazardous areas/activities are not always identified with appropriate signage, and staff may not be trained or certified either by the host government or by recognized authorities in the field. In the event of an injury, appropriate basic medical treatment is typically available only in/near major cities. First responders may encounter obstacles to accessing areas outside of major cities, and/or be unable to provide urgent medical treatment. U.S. citizens are encouraged to purchase medical evacuation insurance. See our webpage for more [information on insurance providers for overseas coverage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/insurance-providers-overseas.html).
+We can:
 
-**Water Safety:** Basic safety measures and precautions for swimming, boating, and other outdoor activities may not be observed in Guatemala.
+* Help you find appropriate [medical care](https://gt.usembassy.gov/medical/)
+* Assist you in reporting a crime to the police
+* Contact relatives or friends with your [written consent](https://travel.state.gov/content/dam/NEWIPCAAssets/ds5505_2024.pdf)
+* Provide general information regarding the victim’s role during the local investigation   and following its conclusion
+* Provide a list of [local attorneys](https://gt.usembassy.gov/lawyers/). We do not endorse or recommend any specific attorneys.
+* Provide our information on [victim’s compensation programs in the U.S.](http://travel.state.gov/content/passports/english/emergencies/victims.html)
+* Provide an emergency loan for repatriation to the United States and/or limited medical support in cases of destitution
+* Help you find accommodation and arrange flights home
+* Replace a [stolen or lost passport](https://gt.usembassy.gov/passports/lost-and-stolen-passports/)
 
-* Beware of strong currents, riptides, and undertows along Guatemala's Pacific coast beaches, as well as at Lake Atitlan.  Lifeguards are rarely present.
-* Signs that warn of treacherous surf are rare and confined mostly to private beaches owned by hotels.
+**Domestic Violence:** U.S. citizen victims of domestic violence are encouraged to contact the Embassy for assistance.
 
-**Potential for Natural Disasters:**
-
-* There are **four active volcanoes** in Guatemala: Fuego, Pacaya, Tacaná, and Santiaguito. Volcanic activity has forced evacuations of nearby villages. U.S. Embassy personnel are not permitted to visit the Agua volcano due to the high incidence of robberies on the volcano.
-* Be aware of the possibility of **earthquakes** at any time and make contingency plans.  Consult Guatemala’s National Seismic Institute ([INSIVUMEH](https://insivumeh.gob.gt/)) for updates on earthquakes and seismic activity.
-* Both the Caribbean and Pacific coasts of Guatemala are vulnerable to hurricanes and tropical storms from mid-May through November.
-* Mudslides and flooding during the May to November rainy season often kill dozens of people and close roads.
-* Consult Guatemala’s [National Disaster Reduction Coordination Office](https://conred.gob.gt/) [(CONRED)](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Guatemala.html#ExternalPopup) for updates on natural disasters or tropical storms and hurricanes.
-
-**Indigenous Areas:**  Be mindful of local traditional practices when visiting indigenous Maya communities as tensions can rise quickly and locals occasionally take the law into their own hands.
-
-* Particularly in small villages, residents are often wary and suspicious of outsiders.
-* Avoid activities that might unintentionally violate a cultural or religious belief.
-* In the past, Guatemalan citizens have been lynched for suspicion of child abduction. Maintain distance from local children and refrain from actions that could fuel such suspicions.
+**Tourism:** The tourism industry is not well regulated. Safety inspections for equipment and facilities are rare. Dangerous areas/activities are not always labeled properly. Staff may not be trained or certified by the host government or recognized authorities. If you get injured, you will likely only find appropriate medical treatment in or near major cities. First responders cannot reach areas outside major cities to provide urgent medical care. U.S. citizens are encouraged to purchase medical evacuation insurance. Review our webpage for more [information on insurance providers for overseas coverage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html?cq_ck=1708701048867)).

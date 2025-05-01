@@ -1,6 +1,6 @@
 # Paraguay Travel Advisory
 
-### Travel Advisory July 17, 2023
+### Travel Advisory April 30, 2025
 
 ### Paraguay - Level 1: Exercise Normal Precautions
 
@@ -14,29 +14,32 @@
 [T](javascript:void(0); "Tool Tip: Terrorism")
 [C](javascript:void(0); "Tool Tip: Crimes")
 
-***Reissued with obsolete COVID-19 page links removed.***
+***Reissued after periodic review with minor edits.***
 
 Exercise normal precautions in Paraguay. Some areas have increased crime risk. Read the entire Travel Advisory.
 
-Exercise increased caution in:
+Exercise increased caution due to **crime** in these departments:
 
-* Amambay, Alto Paraná, Canindeyu, San Pedro, and Concepcion departments due to **crime**.
+* Alto Paraná
+* Amambay
+* Canindeyu
+* Concepcion
+* San Pedro
 
 Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Paraguay.html) for additional information on travel to Paraguay.
 
 If you decide to travel to Paraguay:
 
-* Enroll in the [Smart Traveler Enrollment Program (STEP)](https://step.state.gov/) to receive Alerts and make it easier to locate you in an emergency.
-* Follow the Department of State on [Facebook](https://www.facebook.com/travelgov) and [Twitter](https://twitter.com/TravelGov).
+* Enroll in the [Smart Traveler Enrollment Program (STEP)](https://step.state.gov/) to receive messages and Alerts from the U.S. Embassy and make it easier to locate you in an emergency.
+* Follow the Department of State on [Facebook](https://www.facebook.com/travelgov) and [X](https://x.com/TravelGov).
 * Review the [Country Security Report](https://www.osac.gov/Content/Browse/Report?subContentTypes=Country%20Security%20Report) for Paraguay.
-* Prepare a contingency plan for emergency situations. Review the [Traveler’s Checklist](https://travel.state.gov/content/passports/en/go/checklist.html).
-* Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list)related to your travel.
+* Prepare a plan for emergency situations. Review the [Traveler’s Checklist](https://travel.state.gov/content/passports/en/go/checklist.html).
+* Visit the CDC page for the [latest Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) related to your travel.
+* We highly recommend that you buy insurance before you travel.  Check with your [travel insurance provider](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) about evacuation assistance, medical insurance, and trip cancellation coverage.
 
-**Departments of Amambay, Alto Paraná, Canindeyu, San Pedro, and Concepcion – Level 2: Exercise Increased Caution**
+**Departments of Alto Paraná, Amambay, Canindeyu, Concepcion, and San Pedro – Level 2:  Exercise Increased Caution**
 
-Transnational criminal elements are active and engage in illicit trafficking of arms, narcotics, and goods in these departments, which are located along Paraguay’s northeastern border with Brazil. Police presence is limited.
-
-U.S. government personnel must provide advance notice when traveling to these areas.
+Criminal groups are active in these areas, smuggling weapons, drugs, and other goods along the northeastern border of Paraguay with Brazil. The police presence in these areas is weak. Due to the risks, U.S. government employees working in Paraguay must obtain special authorization to travel to Alto Paraná, Amambay, Canindeyu, Concepcion, and San Pedro.
 
 ### Travel Advisory Levels
 

@@ -2,45 +2,26 @@
 
 [#### Travel and Transportation](javascript:void(0); "Travel and Transportation")
 
-**Road Conditions and Safety:**  Road hazards are common.  Secondary and rural roads have little to no illumination.  U.S. Embassy employees are prohibited from traveling outside the capital city at night.  Be vigilant of motorcyclists who weave unexpectedly across lanes of traffic and pedestrians who unexpectedly dart across roads due to the lack of defined crosswalks.
+**Road Conditions and Safety:** There are many hazards on the roads. Secondary and rural roads often have little to no light. U.S. Embassy employees are not allowed to travel outside the capital city at night. Be careful of motorcyclists who weave between lanes of traffic and pedestrians who might suddenly cross the road because there are few crosswalks.
 
-Robberies of occupied vehicles are common in Guatemala City, often by two assailants on motorcycles who pull up alongside a car stopped at a traffic light.  There have also been numerous reports of violent criminal activity along Guatemala’s main highways, including the Carretera a El Salvador (Inter-American Highway CA-2).
+A roadside assistance group called [PROVIAL](https://provial.gob.gt/) patrols most major highways. You can reach them by calling (502) 2422-7800. Travelers can also call the police for help at 110 or 120, or the fire department at 122 or 123; but patrols may be infrequent.
 
-Armed attacks have occurred in various places in Guatemala, including:
+**Traffic Laws:** [Valid U.S. driver’s licenses are accepted for the first 30 days](https://gt.usembassy.gov/driver-licenses/) of a visit, and international driving permits are needed for longer stays. Many traffic laws and speed limits are often ignored, turn signals are rarely used, and passing on dangerous stretches of highway happens frequently. It is illegal to use a phone while driving.
 
-* On roads between Guatemala City and the Petén region;
+If someone is caught driving under the influence of alcohol or drugs they will be arrested and could go to jail. Drivers involved in accidents causing injury, no matter who is at fault, can be held until an investigation or payment of damages is completed. If you are charged with a crime, you might be banned from leaving Guatemala until the case is resolved.
 
-Between Tikal and the Belize border; and
+**Public Transportation:** In Guatemala City, there are green public buses run by the city. The most common way to travel between cities is by brightly painted buses, known as “chicken buses.” These buses are cheap by can be dangerous due to crime and accidents. U.S. Embassy employees cannot use these buses.
 
-* On tThe Inter-American Highway (CA-1) and the road from Guatemala City to the Caribbean coast (CA-9), due to heavy traffic, including large trucks and trailers.
+In Guatemala City, you can find reliable taxi and ride-share services, such as:
 
-U.S. Embassy employees are prohibited from driving from or through Mexico to Guatemala.
+* Taxi Seguro, call (502) 2312-4243
+* Taxis Amarillo Express (yellow taxis), dial 1766 from a Guatemalan phone
+* [Uber](https://www.uber.com)
 
-Stay on main roads when traveling to and from Antigua and Lake Atitlan.  Secondary roads in those areas are poorly maintained and have experienced higher incidents of robbery, rape, and armed assault.
+U.S. Embassy employees are not allowed to use white taxis and cannot travel outside of Guatemala City after dark because of poor lighting and increased accident risk.
 
-PROVIAL, a roadside assistance force, patrols most of the major highways in the country.  PROVIAL can be contacted by calling +502-2422-7800.  Travelers may also call the police for roadside assistance by dialing 110 or 120, or the fire department by dialing 122 or 123; however, patrols are sporadic.
+Review our [Road Safety page](http://travel.state.gov/content/passports/english/go/safety/road.html) for more information. Visit the website of Guatemala’s [national tourist office (INGUAT)](https://inguat.gob.gt/) and national authority responsible for road safety ([PROVIAL](https://provial.gob.gt/)).
 
-**Traffic Laws:**  Valid U.S. driver’s licenses are accepted for the first 30 days of a visit, and international driving permits are accepted for extended stays.  Laws and speed limits are often ignored, turn signals are rarely used, and passing on dangerous stretches of highway is common.
+**Aviation Safety Oversight:** The U.S. Federal Aviation Administration (FAA) has not assessed Guatemala’s Civil Aviation Authority for compliance with international standards for aviation safety oversight. FAA’s [website](https://www.faa.gov/about/initiatives/iasa) includes more information on its assessment program.
 
-It is against the law for drivers to operate cellular phones while driving.
-
-People found driving under the influence of alcohol or other drugs will be arrested and may serve jail time.
-
-All drivers involved in accidents resulting in injury may be detained and held in protective custody pending investigation and/or payment of alleged damages.
-
-**Public Transportation:**  The most common form of public transportation is the system of brightly-painted recycled school buses.  Criminal activity and frequent fatal accidents, however, make these low-priced local and inter-city buses particularly dangerous.  U.S. Embassy employees are not permitted to use these public buses.
-
-Use of radio-dispatched taxis or Uber is far safer than hailing taxis on the street.  In Guatemala City, there are several radio taxi companies in operation:
-
-* Taxi Seguro can be reached at +502-2312-4243.
-* Taxi Amarillo Express (yellow taxis) is a radio-dispatch taxi service reached by dialing 1766.
-* A Green Cab radio dispatch service operates in the suburbs near zone 15 and the Cayalá entertainment and shopping destination.
-* To use Uber, download their app or go to [https://www.uber.com](https://www.uber.com/).
-
-U.S. Embassy employees are prohibited from using the white taxis.  The Guatemalan Tourist Assistance Program, [PROATUR](https://guiagt.com/item/proatur-programa-de-asistencia-al-turista/), may be able to provide additional information and can be reached by dialing 1500 or +502-2290-2800.
-
-See our [Road Safety page](https://travel.state.gov/content/travel/en/international-travel/before-you-go/driving-and-road-safety.html) for more information.  Visit the website of Guatemala’s [national tourist office](https://inguat.gob.gt/) and national authority responsible for road safety, or contact them via [e-mail](mailto:asistur@inguat.gob.gt).
-
-**Aviation Safety Oversight:**  The U.S. Federal Aviation Administration (FAA) has assessed the Government of Guatemala’s Civil Aviation Authority as being in compliance with International Civil Aviation Organization (ICAO) aviation safety standards for oversight of Guatemala’s air carrier operations.  Further information may be found on the [FAA’s safety assessment page](https://www.faa.gov/about/initiatives/iasa).
-
-**Maritime Travel:** Mariners planning travel to Guatemala should also check for U.S. maritime [advisories](https://www.maritime.dot.gov/msci-advisories) and [alerts](https://www.maritime.dot.gov/msci-alerts).  Information may also be posted to the [U.S. Coast Guard homeport website](https://homeport.uscg.mil/), and the [NGA broadcast warnings](https://msi.nga.mil/NavWarnings).
+**Maritime Travel:** Mariners planning travel to Guatemala should also check for U.S. maritime [advisories](https://www.maritime.dot.gov/msci-advisories) and [alerts](https://www.maritime.dot.gov/msci-alerts). Information may also be posted to the [U.S. Coast Guard homeport website](https://homeport.uscg.mil/), and the [NGA broadcast warning website](https://msi.nga.mil/NavWarnings).

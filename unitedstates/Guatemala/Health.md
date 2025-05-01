@@ -2,40 +2,100 @@
 
 [#### Health](javascript:void(0); "Health")
 
-The full range of medical care is available in Guatemala City, but medical care outside of the city is limited. Guatemala’s public hospitals frequently experience serious shortages of even the most basic medicines and equipment. Care in private hospitals is generally adequate for most common illnesses and injuries, and many of the medical specialists working in them are U.S.-trained and -certified. The U.S. Embassy maintains a list of [medical providers and hospitals](https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fgcc02.safelinks.protection.outlook.com.mcas.ms%2F%3Furl%3Dhttps%253A%252F%252Fgt.usembassy.gov%252Fmedical%252F%26data%3D05%257C01%257CSimmonsSL%2540state.gov%257Cc1f4c2feae124b182b9708dbc67a12ff%257C66cf50745afe48d1a691a12b2121f44b%257C0%257C0%257C638321999823527559%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%253D%257C3000%257C%257C%257C%26sdata%3DRKatPwqvGAXkMHQjVGK%252BrLRxGkSf4%252FLdZRktWH2BDRQ%253D%26reserved%3D0%26McasTsid%3D20893&McasCSRF=2053b7c40a7f4bc1de1908cc50a74a6f7a048c537a2a6c8db8270c09db099235) on our website. We do not endorse or recommend any specific medical provider or clinic.
+Guatemala City offers a full range of medical care, but options are limited outside the city. Public hospitals in Guatemala often have serious shortages of even basic medicines and equipment. Many private doctors in Guatemala have U.S. training and certifications. The U.S. Embassy lists [medical resources](https://gt.usembassy.gov/medical/) on its website but may not recommend specific providers.
 
-Many hospitals in Guatemala require payment prior to treating patients, even if personal insurance will cover the treatment. They do not typically enter into payment plan agreements, and they may decline to discharge you from the hospital if you owe money for treatment.
+Hospitals and doctors in Guatemala usually require payment before treating patients, even if insurance might cover it later. They generally do not offer payment plans and may refuse to discharge you until you have paid in full.
 
-For emergency services in Guatemala, dial 110.
+For emergency services in Guatemala, dial 110. “Urgent care” centers are available in larger cities.
 
-Ambulance services are not present throughout the country or are unreliable in most areas except urbanized areas.
+Ambulance services are widely available in urbanized areas, but training and availability of emergency responders may be below U.S. standards. Ambulance services are not widely available in rural areas.
 
-**We do not pay medical bills**
+Review our [Health Abroad page](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html) for more information.
 
-Be aware that U.S. Medicare/Medicaid does not apply overseas. Most hospitals and doctors overseas do not accept U.S. health insurance.
+* Check the U.S. Centers for Disease Control and Prevention’s Traveler Advice for [Guatemala](https://wwwnc.cdc.gov/travel/destinations/traveler/none/guatemala).
+  + Review all sub-sections. These include Travel Health Notices, Vaccines and Medicines, Non-Vaccine-Preventable Diseases, Stay Healthy and Safe, Healthy Travel Packing List, and After Your Trip.
+* We highly recommend that all travelers review the U.S. Centers for Disease Control and Prevention’s [Travelers’ Health page](https://wwwnc.cdc.gov/travel/page/traveler-information-center). CDC Traveler Advice provides advice on medical considerations including:
+  + Reasons for Travel (for example: Adventure Travel, Spring Break Travel)
+  + Travelers with Special Considerations (for example: Allergies, Long-Term Travelers and Expatriates)
+  + General Tips (for example: Traveling with Medications, Travel Vaccines)
 
-**Medical Insurance**
+**The Department of State, U.S. embassies, and U.S. consulates do not pay medical bills. Be aware that U.S. Medicare/Medicaid does not apply overseas. Most hospitals and doctors overseas do not accept U.S. health insurance.**
 
-Make sure your health insurance plan provides coverage overseas. Most care providers overseas only accept cash payments. See [our webpage](https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Ftravel.state.gov.mcas.ms%2Fcontent%2Ftravel%2Fen%2Finternational-travel%2Fbefore-you-go%2Fyour-health-abroad%2Finsurance-providers-overseas.html%3FMcasTsid%3D20893&McasCSRF=2053b7c40a7f4bc1de1908cc50a74a6f7a048c537a2a6c8db8270c09db099235) for more information on insurance providers for overseas coverage. Visit the [U.S. Centers for Disease Control and Prevention](https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Ftravel.state.gov.mcas.ms%2Fcontent%2Ftravel%2Fen%2Finternational-travel%2FInternational-Travel-Country-Information-Pages%2FGuatemala.html%3FMcasTsid%3D20893%23ExternalPopup&McasCSRF=2053b7c40a7f4bc1de1908cc50a74a6f7a048c537a2a6c8db8270c09db099235) for more information on type of insurance you should consider before you travel overseas.
+**Medical Insurance:** Make sure your health insurance plan provides coverage overseas. Most care providers overseas only accept cash payments. Review our [Insurance Overseas page](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/insurance-providers-overseas.html) for more information on insurance providers for overseas coverage. Visit the U.S. Centers for Disease Control and Prevention [Travel Insurance page](https://wwwnc.cdc.gov/travel/page/insurance) for more information on type of insurance you should consider before you travel overseas.
 
-We strongly recommend supplemental insurance to cover medical evacuation.
+* We strongly recommend [supplemental insurance](http://travel.state.gov/content/passports/english/go/health/insurance-providers.html) to cover medical evacuation.
 
-Always carry your prescription medication in original packaging, along with your doctor’s prescription. Check with the [Guatemalan Public Health Ministry](https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fgcc02.safelinks.protection.outlook.com.mcas.ms%2F%3Furl%3Dhttps%253A%252F%252Fwww.mspas.gob.gt%252F%26data%3D05%257C01%257CSimmonsSL%2540state.gov%257Cc1f4c2feae124b182b9708dbc67a12ff%257C66cf50745afe48d1a691a12b2121f44b%257C0%257C0%257C638321999823527559%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%253D%257C3000%257C%257C%257C%26sdata%3DK2QaiwWpm2gSkX0Vy4qz6zrJYxzb1CjHgSe55EH5tPY%253D%26reserved%3D0%26McasTsid%3D20893&McasCSRF=2053b7c40a7f4bc1de1908cc50a74a6f7a048c537a2a6c8db8270c09db099235) to ensure the medication is legal in Guatemala.
+Always carry your prescription medication in original packaging, along with your doctor’s prescription. Check with the [Guatemalan Ministry of Public Health and Social Assistance](https://www.mspas.gob.gt/) to ensure the [medication is legal in Guatemala](https://medicamentos.mspas.gob.gt/).
 
-**Vaccinations**
+**Vaccinations:** Be up to date on all [vaccinations](http://wwwnc.cdc.gov/travel/page/vaccinations.htm) recommended by the U.S. Centers for Disease Control and Prevention.
 
-Be up to date on all [vaccinations](https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww.cdc.gov.mcas.ms%2Fvaccines%2Findex.html%3FMcasTsid%3D20893&McasCSRF=2053b7c40a7f4bc1de1908cc50a74a6f7a048c537a2a6c8db8270c09db099235) recommended by the U.S. Centers for Disease Control and Prevention.
+Yellow fever is not currently a risk in Guatemala, but the Guatemalan government requires proof of yellow fever vaccination for ages 1 and over if they are (1) coming from [countries where there is risk of yellow fever virus transmission](https://wwwnc.cdc.gov/travel/yellowbook/2024/preparing/yellow-fever-vaccine-malaria-prevention-by-country), or (2) have a layover of 12 hours or more in a country with yellow fever risk, or (3) travel through a country with yellow fever risk.
 
-**Further health information**
+**Further health information:**
 
-* [World Health Organization](https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fgcc02.safelinks.protection.outlook.com.mcas.ms%2F%3Furl%3Dhttps%253A%252F%252Fwww.who.int%252F%26data%3D05%257C01%257CSimmonsSL%2540state.gov%257Cc1f4c2feae124b182b9708dbc67a12ff%257C66cf50745afe48d1a691a12b2121f44b%257C0%257C0%257C638321999823527559%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%253D%257C3000%257C%257C%257C%26sdata%3DisMvBqyqqJtzeJZiG0s6PbBVEcsD7oujV6Aat%252BaxfTE%253D%26reserved%3D0%26McasTsid%3D20893&McasCSRF=2053b7c40a7f4bc1de1908cc50a74a6f7a048c537a2a6c8db8270c09db099235)
-* [U.S. Centers for Disease Control and Prevention](https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww.cdc.gov.mcas.ms%2F%3FMcasTsid%3D20893&McasCSRF=2053b7c40a7f4bc1de1908cc50a74a6f7a048c537a2a6c8db8270c09db099235) (CDC)
+* World Health Organization [Travel advice page](https://www.who.int/travel-advice)
+* U.S. Centers for Disease Control and Prevention (CDC) [Travelers’ Health page](https://wwwnc.cdc.gov/travel/destinations/list)
 
-**Air Quality**
+**Air Quality:**
 
-Air pollution can be a significant problem in many destinations overseas.
+\*Air pollution is a significant problem in several major cities in Guatemala. Consider the impact that seasonal smog and heavy particulate pollution may have on you and consult your doctor before traveling if necessary.
 
-* Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in Guatemala.
-* For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/).
-* For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/).
-* For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
+The air quality varies considerably and fluctuates with the seasons. It is typically worse in the dry season. People at the greatest risk from particle pollution exposure include:
+
+* Infants, children, and teens
+* People over 65 years of age
+* People with lung disease such as asthma and chronic obstructive pulmonary disease (COPD), which includes chronic bronchitis and emphysema.
+* People with heart disease or diabetes
+* People who work or are active outdoors
+* Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Spain.html#ExternalPopup"). It uses AI, historical data, and global pollution models to create a 3-day air quality forecast for [destination].
+* For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/ "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Spain.html#ExternalPopup").
+* For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/ "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Spain.html#ExternalPopup").
+* For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html "https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html")” page.
+
+**Health facilities in general**Adequate health facilities are available in Guatemala City and other major cities, but health care in rural areas may not be the same as you would typically find in the United States.
+
+Public medical clinics often lack basic resources and supplies.
+
+Hospitals and doctors often require payment “up front” prior to service or admission. Credit card payment is usually available.
+
+Private hospitals usually require advance payment before admitting a patient.
+
+Medical staff may speak little or no English.
+
+Generally, in public hospitals, only minimal staff is available overnight in non-emergency wards.
+
+Consider hiring a private nurse or having family spend the night with the patient, especially a minor child.
+
+Patients bear all costs for transfer to or between hospitals.
+
+Psychological and psychiatric services are limited, even in large cities.
+
+**Medical Tourism and Elective Surgery**U.S. citizens have suffered serious complications or died during or after having cosmetic or other elective surgery.
+
+Medical tourism is a fast-growing industry. If you want healthcare in another country, you need to know that their medical systems are different from the United States. They don't follow the same rules. Before you travel for medical reasons, talk to your doctor.
+
+Visit the U.S. Centers for Disease Control and Prevention [Medical Tourism website](https://wwwnc.cdc.gov/travel/page/medical-tourism) for information on Medical Tourism. Find out about the risks of medical tourism and what you can do to prepare before traveling to Guatemala.
+
+We strongly recommend [supplemental insurance](http://travel.state.gov/content/passports/english/go/health/insurance-providers.html) to cover medical evacuation in the event of unforeseen medical complications.
+
+Your legal options in case of malpractice are very limited in Guatemala.
+
+Although Guatemala has many elective/cosmetic surgery facilities that are on par with those found in the United States, the quality of care varies widely. If you plan to undergo surgery in Guatemala, make sure that emergency medical facilities are available, and professionals are accredited and qualified.
+
+**Pharmaceuticals**Exercise caution when purchasing medication overseas. Pharmaceuticals, which can be bought without a prescription or with a prescription in the United States, are usually easy to buy with few controls. Counterfeit medication is common and may not work, have the wrong strength, or have dangerous ingredients. You should buy medication with the help of a medical professional and from trusted places.
+
+Persons staffing pharmacies in Guatemala may have limited training and should not be assumed to be able to provide adequate counsel on appropriate medications.
+
+U.S. Customs and Border Protection and the Food and Drug Administration have rules for bringing medication back to the United States. Medication bought abroad must meet their requirements to be legally brought back. The medication must be for personal use and approved for use in the United States. Visit the websites of [U.S. Customs and Border Protection](https://www.cbp.gov/travel/us-citizens/know-before-you-go/prohibited-and-restricted-items) and the [Food and Drug Administration](https://www.fda.gov/drugs/fda-drug-info-rounds-video/traveling-prescription-medications) for more information.
+
+**Non-Traditional Medicine**U.S. citizens have suffered serious complications or died while receiving medical care from non-traditional “healers” and practitioners in Guatemala. Ensure you have access to licensed emergency medical facilities in such cases.
+
+**Assisted Reproductive Technology and Surrogacy**If you are considering traveling to Guatemala to have a child through use of assisted reproductive technology (ART) or surrogacy, please review our [ART and Surrogacy Abroad page](https://travel.state.gov/content/travel/en/legal/travel-legal-considerations/us-citizenship/Assisted-Reproductive-Technology-ART-Surrogacy-Abroad.html).
+
+Although surrogacy agencies/clinics claim surrogacy is legal in Guatemala, there is no legal framework for foreigners or same-sex couples to pursue surrogacy in Guatemala. As a result, surrogacy agreements between foreign or same sex intending parents and gestational mothers are not enforced by Guatemala courts.
+
+**Water Quality**In many areas, tap water is not potable. Bottled water and beverages are generally safe. You should be aware that many restaurants and hotels serve tap water unless bottled water is specifically requested. Be aware that ice for drinks may be made using tap water.
+
+**Altitude**Many cities in Guatemala, such as Guatemala City, are at high altitude. Be aware of the symptoms of altitude sickness and take precautions before you travel. Visit the U.S. Centers for Disease Control and Prevention website for more information about [Travel to High Altitudes](https://wwwnc.cdc.gov/travel/page/travel-to-high-altitudes).
+
+**Adventure Travel**Visit the U.S. Centers for Disease Control and Prevention [Adventure Travel](https://wwwnc.cdc.gov/travel/page/adventure) website for more information about Adventure Travel.

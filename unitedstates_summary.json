@@ -717,7 +717,7 @@
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/guatemala-travel-advisory.html",
         "risk_level_number": 3,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Guatemala.html",
-        "last_updated_country_details": "2025-01-21T00:00:00"
+        "last_updated_country_details": "2025-04-30T00:00:00"
     },
     {
         "destination": "Guinea",
@@ -803,7 +803,7 @@
     {
         "destination": "Indonesia",
         "risk_level": "Level 2: Exercise Increased Caution",
-        "last_updated_advisory": "2023-07-24T00:00:00",
+        "last_updated_advisory": "2025-04-30T00:00:00",
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/indonesia-travel-advisory.html",
         "risk_level_number": 2,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Indonesia.html",
@@ -1316,7 +1316,7 @@
     {
         "destination": "Paraguay",
         "risk_level": "Level 1: Exercise Normal Precautions",
-        "last_updated_advisory": "2023-07-17T00:00:00",
+        "last_updated_advisory": "2025-04-30T00:00:00",
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/paraguay-travel-advisory.html",
         "risk_level_number": 1,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Paraguay.html",
