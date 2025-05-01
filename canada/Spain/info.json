@@ -1,7 +1,7 @@
 {
     "name": "Spain",
-    "update_reason": "Safety and security \u2013 added information on a major power outage",
-    "update_date": "2025-04-28T11:16:00",
+    "update_reason": "Safety and security \u2013 removed information on the major power outage",
+    "update_date": "2025-04-30T15:58:00",
     "sections": {
         "risk": "canada/Spain/risk.md",
         "security": "canada/Spain/security.md",

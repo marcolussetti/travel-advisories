@@ -16,36 +16,32 @@ As part of this plan, the government maintains a 3-level public alert system for
 
 [Vigipirate plan](https://www.sgdsn.gouv.fr/vigipirate) – Government of France (in French)
 
-#### Operation sentinelle
+#### Operation Sentinelle
 
-Operation Sentinelle allows the deployment of military brigades in public places to patrol and deter terrorist acts. Enhanced security measures have been deployed in various strategic locations, including:
+Operation Sentinelle allows the deployment of military brigades in public places to patrol and deter terrorist acts. Expect an increased police or military presence in public places.
+
+Enhanced security measures have been deployed in various strategic locations, including:
 
 * transport hubs
 * public places
 * tourist locations, especially in Paris
 
-Expect an increased police or military presence in public places, including some tourist locations, particularly in Paris.
-
 Attacks can occur anywhere. Terrorists may target:
 
-* government buildings and those of local authorities
-* schools/universities
+* government buildings, including schools
 * places of worship
-* places dedicated to culture, such as exhibition galleries, museums, concert halls and theatres
-* airports, railway stations and other transportation hubs and networks
-* public areas such as tourist attractions, monuments, restaurants, bars, coffee shops, shopping centres, markets, hotels and other sites frequented by foreigners
+* cultural venues, including concert halls, nightclubs, and event centres
+* airports and other transportation hubs and networks
+* public areas such as tourist attractions, restaurants, bars, coffee shops, shopping centres, markets, hotels and other sites frequented by foreigners
 
-While in France:
-
-* always be aware of your surroundings when in public places
-* be particularly vigilant if attending large gatherings such as sporting events and religious celebrations or other public celebrations
+Always be aware of your surroundings when in public places. Be particularly vigilant if attending sporting events and during religious holidays and other public celebrations, as terrorists have used such occasions to mount attacks.
 
 #### Useful links
 
-* [Information on the terrorist threat in France](https://www.gouvernement.fr/risques/menace-terroriste) – Ministry of the Interior (in French)
-* [How to react in case of a terrorist attack](https://www.gouvernement.fr/reagir-attaque-terroriste) – Government of France (in French)
-* [Social media accounts of the Ministry of the Interior](https://www.interieur.gouv.fr/Les-comptes-de-medias-sociaux-du-ministere-de-l-Interieur) – Ministry of the Interior (in French)
-* [Vigipirate](https://www.sgdsn.gouv.fr/vigipirate) – General secretary of defense and national security (in French)
+* [Information on the terrorist threat in France](https://www.gouvernement.fr/risques/menace-terroriste) – Ministry of the Interior (French only)
+* [How to react in case of a terrorist attack](https://www.gouvernement.fr/reagir-attaque-terroriste) – Government of France (French only)
+* [Social media accounts of the Ministry of the Interior](https://www.interieur.gouv.fr/Les-comptes-de-medias-sociaux-du-ministere-de-l-Interieur) – Ministry of the Interior (French only)
+* [Vigipirate](https://www.sgdsn.gouv.fr/vigipirate) – General secretary of defense and national security (French only)
 
 ### Crime
 

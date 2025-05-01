@@ -2,7 +2,7 @@
 
 ## Safety and security
 
-Demonstrations are ongoing in Georgetown and in other locations across Guyana. Violent incidents have occurred. A curfew is in effect across the country from 12:30 am to 5 am.
+Demonstrations are ongoing in Georgetown and in other locations across Guyana. Violent incidents have occurred. A curfew is in effect across the country from 10 pm to 5 am.
 
 [Demonstrations](#demonstrations)
 
