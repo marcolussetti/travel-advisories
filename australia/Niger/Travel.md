@@ -20,7 +20,7 @@ Authorities have been conducting increased security checks on foreigners arrivin
 
 You'll need a valid [yellow fever](https://www.health.gov.au/diseases/yellow-fever) vaccination certificate to enter Niger. Some airlines may ask to see it before boarding a flight to or from Niger.
 
-Find out about returning to Australia [after exposure to yellow fever](https://www.healthdirect.gov.au/yellow-fever).
+Find out about returning to Australia [after exposure to yellow fever](https://www.health.gov.au/diseases/yellow-fever?utm_source=health.gov.au&utm_medium=callout-auto-custom&utm_campaign=digital_transformation#travel-information-and-australian-entry-requirements).
 
 **More information:**
 

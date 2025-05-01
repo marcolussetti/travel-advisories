@@ -2,13 +2,17 @@
 
 Latest update
 
-We continue to advise do not travel to Niger. The security situation remains highly volatile and there's ongoing political instability following a military takeover in July 2023. Movement restrictions may be implemented at short notice. There's a high risk of terrorism, and terrorists may target places visited by foreigners, government buildings and security facilities. There's a high risk of kidnapping across Niger. Foreigners are particularly at risk. Some land borders remain closed, and others may close without warning. Trying to leave Niger by land borders is likely to be dangerous. Authorities have been conducting increased security checks on foreigners arriving in Niger by air. This may result in your passport being held by authorities for several days (see 'Safety').
+We've reviewed our advice and continue to advise do not travel to Niger. There's ongoing political instability following a military takeover in July 2023. Protests and civil unrest could occur and turn violent quickly without notice. Avoid government buildings, demonstrations, large crowds and political gatherings. The overall security situation remains highly volatile, and movement restrictions may be implemented at short notice.   
+  
+There's a high risk of terrorism, and terrorists may target places visited by foreigners, government buildings and security facilities. There's a high risk of kidnapping across Niger and foreigners have been targeted.   
+  
+Some land borders remain closed, and others may close without warning. Trying to leave Niger by land borders is likely to be dangerous. Authorities have been conducting increased security checks on foreigners arriving in Niger by air. This may result in your passport being held by authorities for several days (see 'Safety').
 
 Advice Level summary
 
 We continue to advise:
 
-Do not travel to Niger due to the volatile security environment, including the threat of terrorism, kidnapping and violent crime.
+Do not travel to Niger due to the volatile security environment, including the high risk of terrorism, kidnapping and violent crime.
 
 ## Advice levels
 
@@ -16,7 +20,7 @@ Do not travel to Niger due to the volatile security environment, including the 
 
 [Do not travel](/consular-services/travel-advice-explained#level4 "Travel advice explained") to Niger.
 
-[Do not travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level4) to Niger due to the volatile security environment, including the threat of terrorism, kidnapping and violent crime.
+[Do not travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level4) to Niger due to the volatile security environment, including the high risk of terrorism, kidnapping and violent crime.
 
 See [Safety](#safety).
 
@@ -24,13 +28,13 @@ See [Safety](#safety).
 
 ### Safety
 
-* There's political instability in Niger following a military takeover in July 2023. The security situation remains highly volatile. Protests and civil unrest could occur and turn violent quickly without notice. Avoid government buildings, demonstrations, large crowds and political gatherings. Movement restrictions may be implemented at short notice.
+* There's ongoing political instability in Niger following a military takeover in July 2023. Protests and civil unrest could occur and turn violent quickly without notice. Avoid government buildings, demonstrations, large crowds and political gatherings. The overall security situation remains highly volatile, and movement restrictions may be implemented at short notice.
 * There's a high risk of terrorism in Niger. Terrorists could target foreigners and the places they visit, including hotels, cafes, restaurants, government buildings, and security facilities. Avoid possible targets, be alert to threats and take official warnings seriously.
-* There's a high risk of kidnapping across Niger, especially outside Niamey. Foreign nationals are particularly at risk and could be kidnapped from their homes, vehicles and workplaces.
+* There's a high risk of kidnapping across Niger, especially outside Niamey. Foreigners have been targeted. In early 2025 there were two separate incidents in which foreigners were kidnapped from their homes. You could be kidnapped from your residence, vehicle or workplace.
 * If you do decide to travel to Niger, consider engaging professional security advice and arrange personal security measures.
-* Violent crime, including armed home invasions, kidnapping, carjacking and mugging, is common. Don't travel alone. Travelling after dark brings increased risk.
-* Some land borders remain closed, and others may close without warning. Trying to leave Niger by land borders is likely to be dangerous. Do not travel to several countries neighbouring Niger, including Burkina Faso, Mali, Libya, and Chad. We also advise do not travel to Algeria's, Nigeria's, and Benin's border areas with Niger.
-* If you can't depart or if you decide to stay in Niger, limit your movements and avoid protests. Keep a supply of water, food and medicine.
+* Violent crime, including armed home invasions, carjacking and mugging, is common. Don't travel alone. Travelling after dark brings increased risk.
+* Some land borders remain closed, and others may close without warning. Trying to leave Niger by land borders is likely to be dangerous. Do not travel to several countries neighbouring Niger, including Burkina Faso, Mali, Libya, and Chad. We also advise do not travel to the border areas with Algeria, Nigeria and Benin.
+* If you decide to stay in Niger, limit your movements and avoid protests. Keep a supply of water, food and medicine.
 
 Full travel advice: [Safety](#safety)
 
@@ -70,6 +74,6 @@ Full travel advice: [Travel](#travel)
 
 * The [Consular Services Charter](/consular-services/consular-services-charter "Consular Services Charter") details what we can and can't do to help you overseas.
 * Our ability to provide consular services in Niger is extremely limited.
-* Australia doesn't have an embassy or consulate in Niger. You can access limited consular services from the [Australian High Commission in Nigeria](http://www.nigeria.embassy.gov.au/). Contact the High Commission to ask about its services and to make an appointment.
+* Australia doesn't have an embassy or consulate in Niger. You can access limited consular services from the [Australian High Commission in Nigeria](https://nigeria.embassy.gov.au/aaja/contact-us.html). Contact the High Commission to ask about its services and to make an appointment.
 
 Full travel advice: [Local contacts](#local-contacts)

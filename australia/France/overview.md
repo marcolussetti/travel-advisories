@@ -49,7 +49,7 @@ Full travel advice: [Local laws](#local-laws)
 
 ### Travel
 
-* There'll be increased checks and controls at France's borders with Belgium, Luxembourg, Germany, Switzerland, Italy, and Spain until 30 April 2025.
+* There'll be increased checks and controls at France's borders with Belgium, Luxembourg, Germany, Switzerland, Italy, and Spain until 31 October 2025.
 * France is part of the [Schengen area](https://www.smartraveller.gov.au/before-you-go/the-basics/schengen), meaning you can enter without a visa in some cases. In other situations, you'll need a visa.
 * The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area  is expected to start in October 2025. A specific start date hasn't been announced.
 * The [France-Visas website](https://france-visas.gouv.fr/en/web/france-visas/visa-wizard#/)can help determine if you need a visa to enter or transit France. Most visas require you to apply from outside of France.

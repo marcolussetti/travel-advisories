@@ -20,7 +20,7 @@ You may still need a visa to transit. 
 
 #### Border measures
 
-There'll be increased checks and controls at France's borders with Belgium, Luxembourg, Germany, Switzerland, Italy, and Spain until 30 April 2025. You should allow for extra time when travelling. Non-EU citizens will need to show a valid passport, and Australians who are resident in France may need to show their carte de séjour too.
+There'll be increased checks and controls at France's borders with Belgium, Luxembourg, Germany, Switzerland, Italy, and Spain until 31 October 2025. You should allow for extra time when travelling. Non-EU citizens will need to show a valid passport, and Australians who are resident in France may need to show their carte de séjour too.
 
 #### European Entry/Exit System (EES)
 

@@ -4,11 +4,11 @@
 
 #### Political Instability
 
-There's ongoing political instability in Niger following a military takeover in July 2023. An interim military administration is now in place. There's a heightened military presence around government buildings, including the Presidential Palace, and critical infrastructure. The security situation remains highly volatile.
+There's ongoing political instability in Niger following a military takeover in July 2023. An interim military administration is in place. There's a heightened military presence around government buildings, including the Presidential Palace, and critical infrastructure. The security situation remains highly volatile.
 
 Protests and civil unrest may occur at any time and can turn violent quickly and without warning. Avoid government buildings, demonstrations, large crowds and political gatherings. Movement restrictions may be implemented by authorities at short notice.
 
-Some land borders remain closed, and others may close without warning. Trying to leave Niger by land borders is likely to be dangerous. Do not travel to several countries neighbouring Niger, including Burkina Faso, Mali, Libya, and Chad. We also advise do not travel to Algeria's, Nigeria's, and Benin's border areas with Niger. 
+Some land borders remain closed, and others may close without warning. Trying to leave Niger by land borders is likely to be dangerous. Do not travel to several countries neighbouring Niger, including Burkina Faso, Mali, Libya, and Chad. We also advise do not travel to the border areas with Algeria, Nigeria and Benin. 
 
 **More information:**
 
@@ -90,11 +90,11 @@ If you decide to travel to Niger despite our advice:
 
 #### Kidnapping
 
-[Kidnapping](https://www.smartraveller.gov.au/before-you-go/safety/kidnapping) occurs across the world with political, ideological, and criminal motives. Foreigners, including Australians, have been kidnapped overseas whilst travelling. Kidnaps can happen anywhere, anytime, including destinations that are typically at lower risk.
+[Kidnapping](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.smartraveller.gov.au%2Fbefore-you-go%2Fsafety%2Fkidnapping&data=05%7C02%7Ctravel.advice%40dfat.gov.au%7C0d694e3d91614b2e274c08dd87a23aa0%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638815853021255257%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=D%2BNbApiQdMn5%2FQOvqcHJX3E4f6V2xcs%2FlVn7UZgNyWw%3D&reserved=0) occurs across the world with political, ideological, and criminal motives. Foreigners, including Australians, have been kidnapped overseas whilst travelling. Kidnaps can happen anywhere, anytime, including destinations that are typically at lower risk.
 
-Kidnapping is a high threat across Niger, including in the capital Niamey. Various militant groups are active in Niger and neighbouring countries.  
+Kidnapping is a high risk across Niger, including in the capital Niamey. Various militant groups are active in Niger and neighbouring countries.  
 
-Foreigners are particularly at risk. Terrorist groups and bandits have kidnapped foreign nationals. Kidnappers may execute hostages. Foreign interests, including mining operations, may be targeted.
+Foreigners and foreign interests, including mining operations, will continue to be viewed as lucrative targets. Kidnappers often conduct extensive planning prior to the kidnapping and may leverage local networks. Several foreigners have been kidnapped in Niger. Kidnappers may execute hostages. 
 
 Kidnappers may kidnap foreign workers, humanitarian aid workers, tourists and long-term residents from their: 
 
@@ -102,21 +102,29 @@ Kidnappers may kidnap foreign workers, humanitarian aid workers, tourists and lo
 * vehicles
 * workplaces
 
-If, despite our advice, you travel to an area with a high risk of kidnapping, our ability to provide consular assistance in these destinations will be limited.  
+If, despite our advice, you travel to an area with a high risk of kidnapping, you should be aware that our ability to provide consular assistance in these destinations is limited.  
 
-* always be alert to your personal security and surroundings
-* get professional security advice for travel in locations with a heightened kidnap risk
+You are responsible for your own safety. To reduce the risk of being kidnapped:
+
+* always be alert to your personal security and surroundings - avoid distractions. Be prepared to stop or take evasive action if you sense danger
+* get professional security advice for travel in locations with a heightened kidnap risk. It is essential to have a contingency plan
 * check your accommodation has appropriate security measures
-* review and vary your travel routes and times
-* avoid isolated locations, particularly when travelling alone
-* notify family or friends of planned travel, and share your location
+* vary your movements so you don't set predictable patterns
+* keep a low profile – including online. Drawing attention to yourself in high-risk areas may signal to criminals that you have something worth taking
+* avoid isolated locations, particularly when travelling alone. There is safety in numbers, and you should try to travel with someone else, especially at night
+* notify family or friends of planned travel; share your location and emergency contacts that they can rely on if something happens
 * avoid talking about your money or business affairs
 * use ATMs in public places and during daylight hours
-* avoid giving personal details to strangers online or over the phone
+* avoid giving personal details to strangers online or over the phone. Criminals have been known to search social media for victims
+* If you are confronted by armed criminals, it is best to surrender and cooperate – resistance tends to make the situation worse
 
-The Australian Government's longstanding policy is that it doesn't make payments or concessions to kidnappers. Ransom payments to kidnappers have funded further terrorist attacks and criminal activity. 
+More information on how to reduce your risk of being kidnapped: [Kidnapping](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.smartraveller.gov.au%2Fbefore-you-go%2Fsafety%2Fkidnapping&data=05%7C02%7Ctravel.advice%40dfat.gov.au%7C0d694e3d91614b2e274c08dd87a23aa0%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638815853021279351%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=dPH4JtZKG1BJGQGlejriJN%2FR92qXIrxwY6wOXbyvoYI%3D&reserved=0).
 
-Ransom payments to terrorist groups are likely to contravene Australian counter-terrorism financing laws.
+The Australian Government's longstanding policy is that it doesn't make payments or concessions to kidnappers. Ransom payments to kidnappers have funded further terrorist attacks and criminal activity. Ransom payments to terrorist groups are likely to contravene Australian counter-terrorism financing laws.   
+  
+**More information:**
+
+* [Scams that affect travellers](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.smartraveller.gov.au%2Fbefore-you-go%2Fsafety%2Fscams&data=05%7C02%7Ctravel.advice%40dfat.gov.au%7C0d694e3d91614b2e274c08dd87a23aa0%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638815853021303064%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=oEbXw0yBxvmLHrUEN4aWU0PE02wiei1PaLqYapMW%2BYk%3D&reserved=0)
 
 #### Crime
 
@@ -146,6 +154,14 @@ If, despite our advice, you travel to Niger:
 * lock your accommodation, even when you're inside
 * keep car windows and doors locked, even when moving
 * limit any displays of personal wealth.
+
+#### Drink spiking
+
+Drink spiking can happen anywhere. Be alert to the potential risks, and don't leave food or drinks unattended. Pay attention when your drinks are being mixed. Stick to reputable venues and avoid homemade alcoholic drinks due to the risk of methanol poisoning. Get urgent medical help if you suspect you’ve been a victim.
+
+**More information:**
+
+* [Partying safely while overseas](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.smartraveller.gov.au%2Fbefore-you-go%2Fsafety%2Fpartying&data=05%7C02%7CSatish.Rajah%40dfat.gov.au%7Cbd0cd565db744527188508dd41a4930d%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638738897282100108%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=DFGIdvnVQqkQlzKZ5P5IwgUqDSzbZi7dcfw36sKHJgo%3D&reserved=0)
 
 #### Scams and fraud
 

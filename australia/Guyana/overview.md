@@ -2,7 +2,9 @@
 
 Latest update
 
-We've reviewed our advice for Guyana and continue to advise exercise a high degree of caution due to the threat of violent crime. There's continuing tension between Guyana and Venezuela. The security situation may deteriorate near the Venezuelan border. If you choose to travel in this area, monitor local media and follow the advice of local authorities. Guyana has introduced a digital Immigration and Customs form for entry and exit.
+There are ongoing protests in Georgetown and other locations in Guyana. Be aware of your surroundings, avoid protests and large public gatherings. Protests may turn violent at short notice. Monitor local media and follow the advice of local authorities. There's a curfew between 10pm to 5am. You should remain at home or in safe places.  
+  
+There's continuing tension between Guyana and Venezuela. The security situation may deteriorate near the Venezuelan border. If you choose to travel in this area, monitor local media and follow the advice of local authorities.
 
 Advice Level summary
 
@@ -24,10 +26,10 @@ See [Safety](#safety)
 
 ### Safety
 
+* There are ongoing protests in Georgetown and other locations in Guyana. Be aware of your surroundings, avoid protests and large public gatherings. Protests may turn violent at short notice. Monitor local media and follow the advice of local authorities. There's a curfew between 10pm to 5am. You should remain at home or in safe places.
 * Violent crime such as armed robberies, kidnapping, shootings and carjackings are a risk. These can result in injury or death. Risks increase after dark.
 * There's continuing tension between Guyana and Venezuela. The security situation may deteriorate in the area near the Venezuelan border.
 * Border disputes occur on the Suriname–Guyana and Venezuela–Guyana borders. Only use official crossing points.
-* Avoid protests and large public gatherings. These can turn violent.
 * Hotels may not meet fire safety standards. Know your hotel's evacuation plans and talk to hotel staff.
 * Rainy seasons can cause flooding, particularly in coastal areas. Roads may not be safe. Follow the advice of local authorities.
 
