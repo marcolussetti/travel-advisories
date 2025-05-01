@@ -6,11 +6,11 @@ Normal Precautions
 
 ### Travel Alert
 
-The Embassy of Ireland, Lisbon, is aware of widespread electricity outages across Portugal. We recommend following the instructions of the local authorities at all times.
+The widespread electricity outages across Portugal on Monday 28 April have now been resolved. Some disruption to services, including transport services, remains. We recommend following the advice and instructions of the local authorities at all times and consulting with your travel provider before travelling
 
 If you are in need of emergency consular assistance, please contact DFAT [+353 1 408 2527](tel:+353 1 408 2527).
 
-A number of wildfires are currently active across Portugal. You should familiarise yourself with [**wildfire safety advice**](https://aldeiasseguras.pt/wp-content/uploads/2020/05/Aldeia-Segura-Triptico-ENG.pdf?fbclid=IwAR304_iMX_2dMJ05zV9_Zf2ei_5gxW0qED_rEAhPR7YfkLn2kC-IOr_T4aA) and always follow the safety instructions of the local authorities.
+Wildfires are common in Portugal, particularly during the summer. You should familiarise yourself with [**wildfire safety advice**](https://www.ipma.pt/en/riscoincendio/rcm.pt/) and always follow the safety instructions of the local authorities.
 
 For more information, please see the Safety and Security tab.
 

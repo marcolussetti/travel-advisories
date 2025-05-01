@@ -16,23 +16,3 @@ Tourists can stay in the Galapagos Islands for up to 60 days. To enter Galapagos
 * evidence of a return flight to the Ecuadorean mainland
 * completed an [**online Galapagos transit control card**](https://siiws.gobiernogalapagos.gob.ec/siicgg_web/) at least 24 hours before your flight – you must also keep a copy
 * travel health insurance, which is mandatory for foreign tourists
-
-### **Health**
-
-Check with your doctor well in advance of travelling (8 weeks) to see if any vaccinations for Ecuador are required.
-
-### **Zika Virus**
-
-There is a risk of Zika Virus (a dengue-like mosquito-borne disease) in Central and South America and the Caribbean. Irish Citizens especially those with a weakened immune system or women who are pregnant or trying to become pregnant are advised to follow guidance available on the website of the [**Health Protection Surveillance Centre (HPSC)**](https://www.hpsc.ie/a-z/vectorborne/zika/).
-
-### **Dengue Fever**
-
-Ecuador is a risk country for dengue fever transmission. Take precautions against being bitten by dengue-carrying mosquitoes, which are active throughout the day.
-
-### **Malaria**
-
-Malaria risk is present throughout most of the country. Visitors should discuss anti-malarial treatment with their doctor before travel, and take adequate precautions against being bitten by mosquitoes.
-
-### **Altitude Sickness**
-
-Altitude sickness can also present problems, especially in Quito which is located 2800 metres above sea level. Visitors should seek medical advice on the risks of altitude sickness before traveling to Ecuador.
