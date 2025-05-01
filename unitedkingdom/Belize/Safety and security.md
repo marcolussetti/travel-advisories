@@ -82,6 +82,10 @@ Road traffic accidents are common. Local driving and vehicle maintenance standar
 
 Only take registered taxis with green licence plates. Always ask the fare before getting in, and expect to pay in cash.
 
+### Air Travel
+
+Following the hijacking of a small passenger aircraft on an internal flight on 17 April 2025, the Belize Airports Authority has announced security enhancements across Belize’s municipal airstrips. There may be disruption to domestic air travel. Allow extra time and check with your tour operator or airline before travelling.
+
 ## Extreme weather and natural disasters
 
 Find out what you can do to [prepare for and respond to extreme weather and natural hazards](https://www.gov.uk/guidance/tropical-cyclones).

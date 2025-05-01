@@ -1,11 +1,11 @@
 {
     "name": "Guyana",
-    "update_reason": "Updated information about ongoing protests in Georgetown and other locations across Guyana (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Updated information about ongoing protests and details of a curfew (\u2018Warnings and insurance\u2019 page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Guyana/Warnings and insurance.md",
-            "update_date": "2025-04-30T01:56:55+01:00"
+            "update_date": "2025-04-30T19:54:44+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Guyana/Getting help.md"
         }
     ],
-    "update_date": "2025-04-30T01:56:55+01:00"
+    "update_date": "2025-04-30T19:54:44+01:00"
 }

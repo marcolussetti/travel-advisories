@@ -1,11 +1,11 @@
 {
     "name": "Niger",
-    "update_reason": "Updated information to make advice clearer (See 'Areas where the FCDO advises against travel' and 'Limited UK government support' on the 'Warnings and insurance' page. See 'Road safety' on the 'Safety and security' page. See 'Regional risks' page).",
+    "update_reason": "Updated information about the security situation in Niger, including kidnapping ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Niger/Warnings and insurance.md",
-            "update_date": "2025-02-24T15:55:26+00:00"
+            "update_date": "2025-04-30T14:00:36+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Niger/Getting help.md"
         }
     ],
-    "update_date": "2025-02-24T15:55:26+00:00"
+    "update_date": "2025-04-30T14:00:36+01:00"
 }

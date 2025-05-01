@@ -1,21 +1,19 @@
 # Warnings and insurance
 
 Still current at:
-:   19 April 2025
+:   1 May 2025
 
 Updated:
-:   18 April 2025
+:   30 April 2025
 
 Latest update:
-:   New information on strike action ('Warnings and insurance' page).
+:   Updated information about strike action ('Warnings and insurance' page).
 
 ## National strike action
 
-Rail unions plan to strike on 22 and 29 April. There may be significant disruption across the rail network.
+Strike action is an ongoing issue that can cause travel disruption. General strikes took place on 31 March and 29 April. Strike action may be announced at short notice.
 
- A general strike is planned for 29 April and may cause severe travel disruption across the entire country.
-
-Monitor local news and check with your travel provider regarding potential delays. Further strike information is available [here](https://www.gov.uk/foreign-travel-advice/belgium/safety-and-security).
+Monitor local news and check with your travel provider regarding potential delays. Read more information about demonstrations and strikes on the [Safety and security page](https://www.gov.uk/foreign-travel-advice/belgium/safety-and-security).
 
 ## Before you travel
 

@@ -153,7 +153,9 @@ Sudanese law prohibits the use of mobile phones while driving.
 
 Khartoum International Airport is closed following the outbreak of violence in April 2023.
 
-The Foreign, Commonwealth & Development Office (FCDO) understands that some commercial flight operations leaving Port Sudan Airport have started, operated by Egypt and Badr Airlines. There are no Sudanese airlines which currently meet the standards required to operate direct flights to the UK or EU.
+Some commercial flights continue to operate from Port Sudan Airport, including Egypt Airlines, Badr Airlines and Ethiopian Airlines.
+
+There are no Sudanese airlines which currently meet the standards required to operate direct flights to the UK or EU.
 
 The [UK Air Safety List](https://www.gov.uk/guidance/uk-air-safety-list#sudan) (ASL) lists all known airlines in Sudan that do not meet international safety standards and are banned from operating commercial air services to, from, and within the UK. Check the UK Air Safety List when considering which airlines to fly with. The list is maintained by the Department for Transport, based on advice from the [UK Civil Aviation Authority](https://www.caa.co.uk/Commercial-Industry/Airlines/Licensing/Requirements-and-guidance/Third-Country-Operator-Certificates).
 

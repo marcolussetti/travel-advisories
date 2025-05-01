@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   23 April 2025
+:   1 May 2025
 
 Updated:
-:   22 April 2025
+:   30 April 2025
 
 Latest update:
-:   Information on what health risks you may face in Belize, including malaria ('Health' page).
+:   New information added about air travel (‘Safety and security’ page).
 
 ## Before you travel
 

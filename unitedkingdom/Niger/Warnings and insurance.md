@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   1 May 2025
 
 Updated:
-:   24 February 2025
+:   30 April 2025
 
 Latest update:
-:   Updated information to make advice clearer (See 'Areas where the FCDO advises against travel' and 'Limited UK government support' on the 'Warnings and insurance' page. See 'Road safety' on the 'Safety and security' page. See 'Regional risks' page).
+:   Updated information about the security situation in Niger, including kidnapping ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/66c48e1c2e8f04b086cdf445/FCDO__TA__029_-_Niger_Travel_Advice_Ed3__WEB_.jpg)
 

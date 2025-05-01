@@ -10,11 +10,13 @@ For information about arriving in Jeddah and entry requirements, see [Saudi Ar
 
 If you’re arriving in Jeddah from Port Sudan and need urgent assistance, you can contact FCDO in Jeddah on +966 (0)12 622 5550 and select option 4.
 
-## Crossing Sudan’s borders
+## Leaving Sudan by a land border
 
-Sudan’s borders with [Chad](https://www.gov.uk/foreign-travel-advice/chad) and [Eritrea](https://www.gov.uk/foreign-travel-advice/eritrea) are currently closed.
+If you’re considering leaving Sudan across a land border, check that the border crossing will be open.
 
-FCDO advises against all travel to [Central African Republic](https://www.gov.uk/foreign-travel-advice/central-african-republic), [South Sudan](https://www.gov.uk/foreign-travel-advice/south-sudan), [Libya](https://www.gov.uk/foreign-travel-advice/libya) and within 20km of the [Ethiopian](https://www.gov.uk/foreign-travel-advice/ethiopia) side of the border with Sudan.
+Sudan’s borders with [Chad](https://www.gov.uk/foreign-travel-advice/chad) and [Eritrea](https://www.gov.uk/foreign-travel-advice/eritrea) are currently closed.
+
+[Check the travel advice for the country you will be entering](https://www.gov.uk/foreign-travel-advice) to understand the entry requirements for that country and whether FCDO advises against travel.
 
 ## Sudan-Egypt border
 

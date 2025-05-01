@@ -1,11 +1,11 @@
 {
     "name": "Belgium",
-    "update_reason": "New information on strike action ('Warnings and insurance' page).",
+    "update_reason": "Updated information about strike action ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Belgium/Warnings and insurance.md",
-            "update_date": "2025-04-18T11:18:46+01:00"
+            "update_date": "2025-04-30T17:13:43+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Belgium/Getting help.md"
         }
     ],
-    "update_date": "2025-04-18T11:18:46+01:00"
+    "update_date": "2025-04-30T17:13:43+01:00"
 }

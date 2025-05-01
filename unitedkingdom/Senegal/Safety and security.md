@@ -40,15 +40,16 @@ Foreign nationals have been prosecuted for attending protests that have not been
 
 ## Crime
 
-### Street crime
+### Protecting yourself and your belongings
 
-Pickpocketing and bag-snatching, especially from scooters or motorbikes, are common in Dakar.
+Cases of robbery, burglary and assault have become more common in Dakar, and in some cases, involve the use of weapons. Hotels frequented by foreign nationals have been targeted and robbed at gunpoint. Street crime like pickpocketing and bag-snatching is also on the increase in Dakar. To reduce your personal risk:
 
-This type of crime is more common in the run-up to religious festivals. It can also increase early in the month after salaries are paid. To reduce your personal risk:
-
-* avoid walking alone in the evening and after dark, especially if you are a woman
-* avoid wearing conspicuous jewellery and keep any handbags or satchels on the side of your body that is furthest from the street
-* step inside a shop or restaurant if you need to use your mobile
+* avoid carrying large sums of money or valuables
+* use a hotel safe to store passport and valuables whenever possible
+* be alert when withdrawing cash from ATMs, and where possible go by pre-arranged transport
+* be particularly careful after nightfall and avoid walking alone
+* take care of your belongings when arriving at and leaving hotels
+* keep a copy of your passport’s photo page and your visa or entry stamp in a separate place
 
 ### Bogus taxis at the airport
 

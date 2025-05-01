@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   1 May 2025
 
 Updated:
-:   19 June 2024
+:   30 April 2025
 
 Latest update:
-:   Updated information on criminal kidnap ('Safety and security' page).
+:   Addition of information about airlines operating out of Port Sudan Airport (‘Safety and security’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/672a3fc8f03408fa7966d186/FCDO__TA__038_-_Sudan_Travel_Advice_Ed8__WEB_.jpg)
 

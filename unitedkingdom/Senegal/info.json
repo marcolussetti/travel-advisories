@@ -1,11 +1,11 @@
 {
     "name": "Senegal",
-    "update_reason": "This travel advice has been rewritten to make it easier to read and understand.",
+    "update_reason": "Information added about protecting yourself and your belongings (See 'Crime' on the 'Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Senegal/Warnings and insurance.md",
-            "update_date": "2024-02-07T14:55:18+00:00"
+            "update_date": "2025-04-30T15:59:42+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Senegal/Getting help.md"
         }
     ],
-    "update_date": "2024-02-07T14:55:18+00:00"
+    "update_date": "2025-04-30T15:59:42+01:00"
 }

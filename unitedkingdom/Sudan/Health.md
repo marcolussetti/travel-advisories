@@ -32,23 +32,15 @@ At least 8 weeks before your trip:
 * check the latest [vaccine recommendations for Sudan](https://travelhealthpro.org.uk/country/212/sudan#Vaccine_Recommendations)
 * see where to get vaccines and whether you have to pay on the [NHS travel vaccinations page](https://www.nhs.uk/conditions/travel-vaccinations/)
 
-### Malaria outbreak
+See [what health risks you’ll face in Sudan](https://travelhealthpro.org.uk/country/212/sudan), including:
 
-Malaria cases have increased in Khartoum. Because of the increased risk from malaria, and the impact of the current civil unrest on health services, all travellers in Sudan should take antimalarial chemoprophylaxis.
-
-If you’ve recently left Sudan and develop fever or flu-like symptoms, get urgent medical attention. Tell the doctors you’ve recently left a malarial risk area.
+* cholera
+* malaria
+* yellow fever
 
 TravelHealthPro has more information on [malaria in Sudan](https://www.travelhealthpro.org.uk/country/212/sudan#Malaria).
 
-### Cholera outbreak
-
 There is an ongoing cholera outbreak in Sudan, made worse by the impact of the conflict on health services. Take care with personal, food and water hygiene.
-
-TravelHealthPro recommends an [oral vaccine for cholera](https://www.travelhealthpro.org.uk/country/212/sudan#Vaccine_Recommendations) if your activities or medical history put you at increased risk.
-
-### Yellow fever
-
-There is a risk of yellow fever in some parts of Sudan. [TravelHealthPro recommends a yellow fever vaccination](https://travelhealthpro.org.uk/country/212/sudan#Vaccine_Recommendations) for some travellers.
 
 ### Other health risks
 

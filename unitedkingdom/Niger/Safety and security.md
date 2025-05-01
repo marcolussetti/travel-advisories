@@ -45,15 +45,15 @@ Examples of significant attacks include:
 
 ### Terrorist kidnap
 
-There’s a very high threat of kidnapping by Al-Qaeda and Islamic State-affiliated and other regional Islamist groups. These include Jamaat Nusrat al-Islam wal Muslimeen (JNIM) and Islamic State Greater Sahara (ISGS ), who operate throughout Mali, Niger and Burkina Faso; and Islamic State West Africa (ISWA) and Boko Haram who operate in the Lake Chad Basin.
+There’s a very high threat of kidnapping throughout Niger, including Niamey. Jamaat Nusrat al-Islam wal Muslimeen (JNIM) and Islamic State Sahel Province (ISSP), operate throughout Mali, Niger and Burkina Faso; and Islamic State West Africa (ISWA) and Boko Haram operate in the Lake Chad Basin.
 
-A number of Westerners have been kidnapped in Niger in recent years, especially from the north and west of the country.
+A number of foreign nationals have been kidnapped in Niger in recent years, by Al-Qaeda and Islamic State affiliated groups.
 
 British nationals are seen as legitimate targets, including tourists, humanitarian aid workers, journalists and business travellers. If you are kidnapped, the reason for your presence is unlikely to protect you or secure your safe release.
 
-The long-standing policy of the British government is not to make substantive concessions to hostage takers. The British government considers that paying ransoms and releasing prisoners builds the capability of terrorist groups and finances their activities. This can, in turn, increase the risk of further hostage-taking. The Terrorism Act (2000) makes payments to terrorists illegal.
-
 If you’re working or travelling in Niger, you should be aware of the risk of terrorist kidnapping. You should maintain a high level of vigilance at all times, including when travelling. You should be particularly vigilant when walking (in Niamey, you should not cross the bridges over the River Niger on foot at any time), in crowded public places, including camps for displaced people, religious gatherings and insecure spaces like places of worship, markets, shopping malls, hotels, bars, night clubs, restaurants, nature reserves and national parks, and transport hubs. You should make sure you have carefully considered the threat and have reasonable, proportionate mitigation measures in place.
+
+The long-standing policy of the British government is not to make substantive concessions to hostage takers. The British government considers that paying ransoms and releasing prisoners builds the capability of terrorist groups and finances their activities. This can, in turn, increase the risk of further hostage-taking. The Terrorism Act (2000) makes payments to terrorist’s illegal.
 
 ## Security situation in Niger
 
@@ -77,7 +77,7 @@ There could be disruptions to commercial flights from Niamey’s Diori Internati
 
 ## Political situation
 
-In July 2023, the Conseil National pour la Sauvegarde de la Patrie (CNSP) launched a military coup which has led to protests and unrest.
+In July 2023, the Conseil National pour la Sauvegarde de la Patrie (CNSP) launched a military coup which led to protests and unrest.
 
 The situation returned to calm following the coup but violent protests and changes to the security situation can arise quickly and without warning.
 
@@ -96,6 +96,12 @@ Car thieves often target 4-wheel-drive vehicles. Make sure car doors are locked 
 Banditry, smuggling and other criminal activity is common in border areas (particularly Maradi, Tillabéri and Diffa). Take care and avoid crossing borders after dark.
 
 There have also been hold-ups and robberies on public buses between Tahoua and Agadez and between Agadez and Arlit. In some cases people have been killed.
+
+### Kidnapping for ransom
+
+Kidnapping by criminal groups is widespread across Niger, Mali and Burkina Faso. There has been an increase in kidnappings of western nationals and gangs operate throughout Niger, including Niamey. There is a possibility that criminal groups could sell people they kidnap as hostages to terrorist organisations.
+
+British nationals are seen as legitimate targets, including tourists, humanitarian aid workers, journalists and business travellers. If you are kidnapped, the reason for your presence is unlikely to protect you or secure your safe release.
 
 ### Scams
 
