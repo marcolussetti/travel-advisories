@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   2 May 2025
 
 Updated:
-:   6 February 2025
+:   1 May 2025
 
 Latest update:
-:   Updated reference to Ebola ('Health' page).
+:   Updated following the announcement on 26 April, that there is no longer an Ebola outbreak in Uganda ('Health' page).
 
 ![](https://assets.publishing.service.gov.uk/media/667bf1c07d26b2be17a4b36d/FCDO__TA__066_-_Uganda_Travel_Advice_Ed8__WEB_.jpg)
 

@@ -14,11 +14,9 @@ Terrorists are very likely to try to carry out attacks in Mozambique.
 
 The main threat is from IS-Mozambique (IS-M), a terrorist group with links to Daesh (formerly known as Islamic State) that is mainly active in Cabo Delgado Province, and has previously carried out attacks in neighbouring districts of Niassa and Nampula Provinces.
 
-Since January, IS-M have been associated with 76 incidents (violent attacks, robberies, looting, threats) across Cabo Delgado which has resulted in over 125 deaths, including civilians and security personnel, including a large-scale attack on Macomia town on 10 May. In these incidents, security forces have not been able to reach these areas quickly.
+IS-M militants have conducted violent attacks using explosives, machetes and firearms across Cabo Delgado, resulting in hundreds of deaths, including civilians and security personnel. They have also engaged in burning vehicles and homes, robberies, looting and threats. In 2021, dozens of people were killed in a large scale attack in Palma, Cabo Delgado Province. In these incidents, security forces have not been able to reach these areas quickly.
 
 See [regional risks](/foreign-travel-advice/mozambique/regional-risks).
-
-Militants have used explosives, machetes and firearms to conduct lethal attacks, as well as burning vehicles and homes. In 2021, dozens of people were killed in a large-scale attack in Palma, Cabo Delgado Province.
 
 Attacks could be indiscriminate, including in places frequented by foreign nationals, such as:
 
@@ -26,6 +24,7 @@ Attacks could be indiscriminate, including in places frequented by foreign natio
 * military bases
 * towns and villages
 * islands off the coast
+* safari or hunting parks
 
 Stay aware of your surroundings, stay up to date with local media reports, and follow the advice of local authorities.
 
@@ -41,9 +40,16 @@ If you work in Mozambique, you should follow your employer’s security guidelin
 
 ## Political situation
 
-There has been significant unrest across Mozambique in recent months following national elections on 9 October 2024. The situation has improved since late December, but there remains the potential for further sporadic unrest. Road toll gates are particularly vulnerable to protests at short notice.
+Significant unrest and protests remain possible across Mozambique following national elections in October 2024. Protests can be violent and occur at short notice, road toll gates are particularly vulnerable.
 
-Protests can be violent and occur at short notice. Avoid large gatherings or demonstrations, pay attention to your surroundings and avoid travelling after dark if possible. Access to land borders could be affected, along with public services and transport. If you are in Mozambique, seek local advice and monitor the local media.
+Access to land borders could be affected, along with public services and transport.
+
+To reduce your personal risk:
+
+* seek local advice and monitor the local media
+* avoid large gatherings or demonstrations
+* pay attention to your surroundings
+* do not travel after dark
 
 ## Crime
 
@@ -126,7 +132,7 @@ You must always carry 2 reflective triangles in your vehicle and wear a reflecti
 
 Police officers sometimes stop drivers and try to extract bribes. If police are fining you for no clear reason, ask for a written fine you can pay at a police station.
 
-Only travel by road outside major cities during daylight. Where possible, keep to major roads and travel in convoy in rural areas. Fuel is available in larger towns only.
+Only travel by road outside major cities during daylight. Where possible, keep to major roads and travel in convoy in rural areas. Fuel is available in larger towns only, though some fuel stations may have intermittent supply.
 
 ### Driving standards and road conditions
 
@@ -148,7 +154,7 @@ Find out what you can do to prepare for and respond to [extreme weather and natu
 
 ### Cyclones and floods
 
-Tropical Cyclone Chido made landfall in Northern Mozambique on 15 December. Cyclones and floods are common during the rainy season from November to April. They often cause landslides, which result in road closures and disruption to travel and public transport.
+Cyclones and floods are common during the rainy season from November to April. They often cause landslides, which result in road closures and disruption to travel and public transport.
 
 Monitor local reports and international weather updates from the [World Meteorological Organization](https://severeweather.wmo.int/tc/swi/index.html) and the [National Meteorological Institute (in Portuguese)](https://www.inam.gov.mz/).
 

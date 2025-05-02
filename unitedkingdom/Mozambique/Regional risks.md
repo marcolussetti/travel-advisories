@@ -29,7 +29,9 @@ FCDO advises against all but essential travel to the districts of Memba and Erá
 
 ## Niassa Province
 
-Groups with links to Islamist extremism have previously carried out attacks in the Mecula, Mavago and Marrupa districts of Niassa Province. Although there have been no recent reports of attacks, you should stay aware of your surroundings in these areas, as the situation may change without warning.
+Groups with links to Islamist extremism have previously carried out attacks in the Mecula, Mavago and Marrupa districts of Niassa Province.
+
+FCDO advise against all but essential travel to the Mecula and Marrupo districts of Niassa Province. There have been recent lethal attacks there within Niassa Special Reserve at hunting lodges visited by international tourists. Groups with links to Islamic extremism have previously carried out attacks in the Mavago district as well, stay aware of your surroundings in this area, as the situation may change without warning.
 
 [Previous
 :

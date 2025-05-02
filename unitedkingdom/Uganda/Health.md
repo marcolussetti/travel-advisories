@@ -24,7 +24,6 @@ At least 8 weeks before your trip:
 
 See [what health risks you’ll face in Uganda](https://travelhealthpro.org.uk/country/231/uganda#General_Information), including:
 
-* ebola
 * malaria
 * yellow fever
 * mpox
@@ -33,7 +32,7 @@ Altitude sickness is a risk in parts of Uganda. Read more about [altitude sickne
 
 ### Ebola
 
-There are occasional Ebola outbreaks in Uganda. On 30 January the Ugandan Ministry of Health announced an outbreak of Ebola in Uganda, including Kampala. See [information on Ebola and similar diseases](https://travelhealthpro.org.uk/factsheet/68/viral-haemorrhagic-fever).
+There are occasional Ebola outbreaks in Uganda. See [information on Ebola and similar diseases](https://travelhealthpro.org.uk/factsheet/68/viral-haemorrhagic-fever).
 
 Some countries have heightened health screening for travellers from Uganda. [Check entry requirements](https://www.gov.uk/foreign-travel-advice/) for the country you’re travelling to or transiting.
 

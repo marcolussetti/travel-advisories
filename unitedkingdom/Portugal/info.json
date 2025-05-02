@@ -1,11 +1,11 @@
 {
     "name": "Portugal",
-    "update_reason": "Updated information about power outages across mainland Portugal (\u2018Warnings and Insurance\u2019 page).",
+    "update_reason": "Removal of information about power outages across mainland Portugal (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Portugal/Warnings and insurance.md",
-            "update_date": "2025-04-29T10:48:29+01:00"
+            "update_date": "2025-05-01T16:26:44+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Portugal/Getting help.md"
         }
     ],
-    "update_date": "2025-04-29T10:48:29+01:00"
+    "update_date": "2025-05-01T16:26:44+01:00"
 }

@@ -1,17 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   1 May 2025
+:   2 May 2025
 
 Updated:
-:   30 April 2025
+:   1 May 2025
 
 Latest update:
-:   Updated information about ongoing protests and details of a curfew (‘Warnings and insurance’ page)
+:   Updated information on protests, authorities have lifted the curfew. ('Warning and Insurance' page).
 
 ## Ongoing Protests
 
-There are ongoing sporadic protests in Georgetown and other locations across Guyana. Protests can take place with little notice and may become violent. Be aware of your surroundings, stay away from protests and follow the advice of local authorities. A curfew has been imposed by the authorities. People are advised to remain at home or in safe spaces from 2200 until 0500.
+There are ongoing sporadic protests in Georgetown and other locations across Guyana. Protests can take place with little notice and may become violent. Be aware of your surroundings, stay away from protests and follow the advice of local authorities.
 
 ## Before you travel
 

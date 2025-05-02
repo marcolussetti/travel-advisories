@@ -1,11 +1,11 @@
 {
     "name": "Mozambique",
-    "update_reason": "FCDO no longer advises against all but essential travel to areas of Mozambique. FCDO continues to advise against all travel to some areas of Cabo Delgado province and against all but essential travel to some areas of Cabo Delgado and Nampula provinces ('Warnings and insurance\u2019 and \u2018Safety and security' page).",
+    "update_reason": "FCDO now advises against all but essential travel to the districts of Mecula and Marrupo in Niassa Province, due to attacks by groups with links to Islamist extremism (\u2018Warnings and insurance\u2019 and Regional risks\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Mozambique/Warnings and insurance.md",
-            "update_date": "2025-01-31T15:10:53+00:00"
+            "update_date": "2025-05-01T16:48:41+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Mozambique/Getting help.md"
         }
     ],
-    "update_date": "2025-01-31T15:10:53+00:00"
+    "update_date": "2025-05-01T16:48:41+01:00"
 }
