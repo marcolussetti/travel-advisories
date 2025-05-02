@@ -62,25 +62,27 @@ Residential break-ins occur. Burglars may target rental accommodations or houses
 * Choose well-secured accommodation
 * Make sure you lock doors and windows at night and when you’re away
 
-##### Car theft
+##### Car break-ins and theft
 
-Car break-ins and theft are very common throughout the country. Rental and luxury vehicles are a target of choice. Theft commonly occurs:
+Car break-ins and theft are very common throughout the country. Rental and luxury vehicles are a target of choice. Theft commonly occurs in the parking lots of:
 
 * hotels
 * supermarkets
 * restaurants
-* store lots
+* stores
 * national parks
 * beaches
 
+When leaving your vehicle, always manually check that the doors are locked since “key jammers” could be used to interrupt signals from key fobs, preventing car doors from locking.
+
 If driving in Costa Rica:
 
-* familiarize yourself with your route before starting the trip
-* keep your windows and doors locked at all times
-* keep your belongings out of reach
-* use secure parking facilities, especially overnight
-* never leave belongings unattended in a vehicle, even locked or out of sight in the trunk
-* don’t stop to change a flat tire in an isolated area, and beware of strangers offering their help
+* familiarize yourself with your route before you leave
+* always keep doors and windows closed and locked
+* do not leave valuables within reach or in plain sight
+* park your vehicle in a secure area, especially at night
+* never leave personal belongings unattended in a vehicle, even in the trunk
+* don’t stop to change a flat tire in an isolated area, and be wary of strangers offering to help you
 * ensure emergency assistance and car insurance are offered by the rental agency when renting a car
 
 #### Violent crime

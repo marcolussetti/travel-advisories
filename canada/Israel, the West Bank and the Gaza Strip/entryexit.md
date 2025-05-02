@@ -16,7 +16,7 @@ Before you travel, check with your transportation company about passport require
 
 #### Regular Canadian passport
 
-Your passport must be valid for at least 6 months beyond the date you expect to leave Israel, the West Bank or the Gaza Strip.
+Your passport must be valid for at least 90 days beyond the date of entry into Israel, the West Bank or the Gaza Strip.
 
 #### Passport for official travel
 

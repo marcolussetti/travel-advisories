@@ -2,16 +2,6 @@
 
 ## Safety and security
 
-### Carriacou and Petite Martinique
-
-Hurricane Beryl swept across Carriacou and Petite Martinique in July 2024. The storm devastated local infrastructure. There are lasting disruptions to tourist infrastructure and the following essential services:
-
-* power distribution
-* water and food supply
-* telecommunications networks
-* emergency services
-* medical care
-
 ### Crime
 
 Petty crime, such as pickpocketing and purse snatching, occurs. Incidents usually increase just before and during annual festivities, such as Carnival in August.

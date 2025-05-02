@@ -2,17 +2,6 @@
 
 ## Safety and security
 
-### Union Island
-
-Hurricane Beryl swept across Union Island in July 2024. The storm devastated local infrastructure. There are lasting disruptions to tourist infrastructure and the following essential services:
-
-* transportation
-* power distribution
-* water and food supply
-* telecommunications networks
-* emergency services
-* medical care
-
 ### Crime
 
 Petty crime, such as pickpocketing and purse snatching, occurs, particularly in more populated cities such as Kingstown. This includes thefts from docked and anchored yachts. Thieves target personal belongings, cash and equipment such as outboard engines.

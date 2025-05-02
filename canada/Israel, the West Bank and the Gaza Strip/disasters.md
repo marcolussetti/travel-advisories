@@ -2,6 +2,17 @@
 
 ## Natural disasters and climate
 
+### Active brushfires
+
+Since April 24, 2025, brushfires have been burning intermittently, especially in the Mateh Yehuda region. The fires could spread to other areas and may disrupt essential services, including:
+
+* power distribution
+* public transportation
+
+Local authorities may issue evacuation orders and close roads near the affected areas, including Route 1, which links Tel Aviv and Jerusalem.
+
+[More information on wildfires](#Wildfires)
+
 ### Earthquakes
 
 Israel, Jerusalem, the West Bank and the Gaza Strip are located in an active seismic zone.
