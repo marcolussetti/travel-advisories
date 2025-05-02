@@ -12,7 +12,7 @@ One page is required per entry stamp; please note endorsement pages are not cons
 
 TOURIST VISA REQUIRED:
 
-No, if your stay is less than 60 days
+No, if your stay is less than 60 days; [pre-arrival online registration](https://tdac.immigration.go.th/arrival-card/#/home) is required.
 
 VACCINATIONS:
 
