@@ -2,9 +2,11 @@
 
 Latest update
 
-We've reviewed our advice for Papua New Guinea and continue to advise exercise a high degree of caution due to high levels of crime, tribal violence and civil unrest. Higher levels apply in some areas.   
+We continue to advise exercise a high degree of caution in Papua New Guinea due to high levels of crime, tribal violence and civil unrest. Higher levels apply in some areas.   
   
-Local authorities have announced the Kokoda Track has reopened. Local communities can block the track at short notice. Check with your trekking company for the latest information (see 'Travel').  
+Local level elections will take place across the country between May and August 2025. Be alert to the possibility of tensions and violence during elections.   
+  
+Local communities can block the Kokoda Track at short notice. Check with your trekking company for the latest information (see 'Travel').  
   
 Ongoing fuel shortages can disrupt domestic travel, including air travel, with little or no notice. Protests, civil disorder and tribal violence can escalate quickly. Avoid areas where violence occurs and be alert to personal safety risks. Monitor local media for updates (see 'Safety').
 
@@ -34,6 +36,7 @@ See '[Safety](#safety)'
 
 ### Safety
 
+* Local level elections will take place across the country between May and August 2025. Be alert to the possibility of tensions and violence during elections.
 * Civil disorder, rioting and looting can escalate rapidly. Always pay close attention to your personal security and your surroundings. Australian officials always follow heightened security measures, including while travelling through PNG. Avoid high-risk areas and activities and consider using private security.
 * [Kidnapping](https://www.smartraveller.gov.au/before-you-go/safety/kidnapping) can happen with criminal motives. There have been incidents of kidnapping in remote areas and near some mining sites. Targets have included foreigners.
 * The risk of violent crime and sexual assault in PNG is high. Criminals often use 'bush knives' (machetes) and guns (including homemade ones). Always be alert to your surroundings. Avoid going out after dark.

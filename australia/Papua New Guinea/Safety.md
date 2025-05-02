@@ -90,9 +90,15 @@ Social media can also be risky in destinations where there are social or politic
 
 #### Civil unrest and political tension
 
-Tension between tribal, communal or clan groups can occur without warning. There's an increased risk during election periods. There have been instances of unlawfulness during elections and in response to arrest and detention sometimes resulting in deaths. Violent tribal clashes often occur in Enga Province, Mendi and Nipa in the Southern Highlands Province, however conflicts can occur in any province. In July 2024, at least 26 people, mostly women and children, were killed as a result of a territorial dispute in Angoram District in East Sepik Province. Similar incidents have occurred in Hela Province since 2018, including in 2022. 
+Tension between tribal, communal or clan groups can occur without warning. There's an increased risk during election periods. 
 
-Civil unrest occurs regularly, including in Port Moresby, and can escalate quickly. Avoid non-essential travel when civil unrest is occurring. Disputes between police and the Government often lead to civil unrest and can rapidly deteriorate into violence, rioting and looting. Activity is generally opportunistic or focussed toward government infrastructure. Significant civil disorder, violence and looting occurred in Port Moresby and other parts of PNG in January 2024.
+Local Level Government (LLG) elections across the country, and national by-elections for the electorates of Aitape-Lumi (West Sepik), Kabwum (Morobe), Porgera-Paiela (Enga) and Usino-Bundi (Madang) will be held between May and August 2025. 
+
+There have been instances of unlawfulness during elections and in response to arrest and detention sometimes resulting in deaths. Violent tribal clashes often occur in Enga Province, Mendi and Nipa in the Southern Highlands Province, however conflicts can occur in any province. 
+
+In July 2024, at least 26 people, mostly women and children, were killed as a result of a territorial dispute in Angoram District in East Sepik Province. Similar incidents have occurred in Hela Province since 2018, including in 2022. 
+
+Civil unrest occurs regularly, including in Port Moresby, and can escalate quickly. Avoid non-essential travel when civil unrest is occurring. Disputes between police and the Government often lead to civil unrest and can rapidly deteriorate into violence, rioting and looting. Activity is generally opportunistic or focused toward government infrastructure. Significant civil disorder, violence and looting occurred in Port Moresby and other parts of PNG in January 2024.
 
 Civil unrest events often disable local transport networks, medical and social services, and force the closure of retail businesses.
 

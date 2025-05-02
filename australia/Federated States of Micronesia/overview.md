@@ -26,7 +26,6 @@ Exercise normal safety precautions in the Federated States of Micronesia.
 * Beach and sea conditions can be dangerous. Ask locals before swimming or surfing. If you’re travelling by sea, take appropriate safety precautions.
 * Natural disasters can occur, including tropical storms, flooding, typhoons, earthquakes and tsunamis. Monitor local media or the [Global Disaster Alert and Coordination System](http://gdacs.org/) for updates.
 * Tropical storms and typhoons are common from July to November. Be prepared for impacts on essential services, including food and water availability.
-* Tensions remain high in Chuuk following the election for Governor held on 4 March.  A State of Emergency has been declared in the lead-up to the Governor's swearing-in ceremony on 15 April.
 
 Full travel advice: [Safety](#safety)
 
