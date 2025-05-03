@@ -8,15 +8,15 @@
 
 ### Regional advisory - Avoid all travel
 
-[Avoid all travel](#levels "Risk Levels") to
+[Avoid all travel](#levels "Risk Levels") to :
 
 * the area within 50 km of the border with Afghanistan
-* the areas within 10 km of the borders with China, India and Iran
-* the areas within 10 km of the Line of Control, except the official border crossings at:
+* the areas within 10 km of the borders with China, India and Iran, except the official border crossings at:
 
 + Wagah (which is currently closed) and the Grand Trunk Road leading there
 + Khunjerab Pass and the Karakorum Highway leading there
 
+* the areas within 10 km of the Line of Control
 * the section of the Karakoram Highway from Mansehra to Chilas
 * Pakistan-administered Kashmir
 * the province of Balochistan

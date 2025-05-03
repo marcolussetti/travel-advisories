@@ -1,7 +1,7 @@
 {
     "name": "Chile",
-    "update_reason": "Safety and security \u2013 removed information on ongoing demonstrations in Valpara\u00edso",
-    "update_date": "2025-04-10T11:23:00",
+    "update_reason": "Natural disasters and climate \u2013 removed information on tsunami advisory for Chile",
+    "update_date": "2025-05-02T12:36:00",
     "sections": {
         "risk": "canada/Chile/risk.md",
         "security": "canada/Chile/security.md",

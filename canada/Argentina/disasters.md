@@ -2,6 +2,10 @@
 
 ## Natural disasters and climate
 
+On May 2, 2025, a 7.4 magnitude earthquake and a series of aftershocks struck south of Ushuaia, Argentina. There have been no reports of damage.
+
+Local authorities continue to monitor the situation. If you are in the coastal zone of Tierra del Fuego, monitor local media and follow the instructions of local authorities.
+
 ### Climate change
 
 Climate change is affecting Argentina. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local media for the latest information.
