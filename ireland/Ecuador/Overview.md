@@ -6,6 +6,12 @@ Avoid Non-Essential Travel
 
 ### **Travel Alert**
 
+### **Yellow Fever**
+
+**As of 12 May 2025, travellers to Ecuador will require a yellow fever vaccination certificate, owing to the increase of yellow fever in the region. In particular, travellers from Colombia, Peru, Bolivia, and Brazil will need to present a yellow fever vaccination certificate.**
+
+**The yellow fever vaccine must have been administered at least 10 days before entering Ecuador. The certificate may be requested when boarding by means of air, land, or sea transport to Ecuador.**
+
 ### **State of emergency**
 
 A state of emergency was renewed on 12 April 2025 for 60 days owing to ongoing internal unrest and armed violence. The current state of emergency applies to the following provinces:
