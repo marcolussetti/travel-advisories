@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   3 May 2025
 
 Updated:
-:   15 January 2025
+:   2 May 2025
 
 Latest update:
-:   Updated information on the specific limitations to in-country assistance to British nationals fighting in Ukraine and the extension of visa free entry for British nationals until 30 January 2026 ('Warnings and insurance' and 'Entry requirements' pages).
+:   If you are in Ukraine, you should be extra vigilant whilst travelling in urban centres in cities including Lviv, Odesa and Kyiv in the run up to the anniversary of the end of the Second World War. ('Warnings and insurance,' 'Safety and security' and 'Regional risks')
 
 ![](https://assets.publishing.service.gov.uk/media/663398524d8bb7378fb6c167/FCDO__TA__044_-_Ukraine_Travel_Advice_Ed12__WEB___1_.jpg)
 
@@ -73,6 +73,10 @@ The situation in Ukraine can change quickly. Local rules and measures may change
 ### Zaporizhzhia Nuclear Power Plant
 
 Explosions continue to be reported near the area of the Zaporizhzhia Nuclear Power Plant indicating ongoing military activity. There have been no reports of any radiation release.
+
+## Anniversary of the end of the Second World War
+
+You should be extra vigilant whilst travelling in urban centres in cities including Lviv, Odesa and Kyiv in the run up to the anniversary of the end of the Second World War.
 
 ## Support from the UK government
 

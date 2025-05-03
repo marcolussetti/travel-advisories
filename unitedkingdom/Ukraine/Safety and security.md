@@ -2,6 +2,10 @@
 
 You should also read [FCDO’s overall travel advice](/foreign-travel-advice/ukraine/warnings-and-insurance) and [regional risks advice](/foreign-travel-advice/ukraine/regional-risks).
 
+## Anniversary of the end of the Second World War
+
+You should be extra vigilant whilst travelling in urban centres in cities including Lviv, Odesa and Kyiv in the run up to the anniversary of the end of the Second World War.
+
 ## Terrorism
 
 There is a high threat of terrorist attack globally affecting UK interests and British nationals, including from groups and individuals who view the UK and British nationals as targets. Stay aware of your surroundings at all times.

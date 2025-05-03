@@ -87,7 +87,7 @@ Children entering Ecuador with someone other than a parent or legal guardian do 
 
 ## Vaccine requirements
 
-To enter Ecuador, you must have a certificate to prove you’ve had a yellow fever vaccination if you’re coming from certain listed countries where there is a transmission risk.
+From 12 May, to enter Ecuador you must have a certificate to prove you’ve had a yellow fever vaccination (vaccinated at least 10 days before you travel) if you’re coming from Peru, Colombia, Bolivia and Brazil and have been in one of those countries for over 10 days.
 
 For full details about medical entry requirements and recommended vaccinations, see [TravelHealthPro’s Ecuador guide](https://travelhealthpro.org.uk/country/70/ecuador#Vaccine_Recommendations).
 

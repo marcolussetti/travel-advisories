@@ -1,11 +1,11 @@
 {
     "name": "Ukraine",
-    "update_reason": "Updated information on the specific limitations to in-country assistance to British nationals fighting in Ukraine and the extension of visa free entry for British nationals until 30 January 2026 ('Warnings and insurance' and 'Entry requirements' pages).",
+    "update_reason": "If you are in Ukraine, you should be extra vigilant whilst travelling in urban centres in cities including Lviv, Odesa and Kyiv in the run up to the anniversary of the end of the Second World War.  ('Warnings and insurance,' 'Safety and security' and 'Regional risks')",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Ukraine/Warnings and insurance.md",
-            "update_date": "2025-01-15T16:54:17+00:00"
+            "update_date": "2025-05-02T19:47:26+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Ukraine/Getting help.md"
         }
     ],
-    "update_date": "2025-01-15T16:54:17+00:00"
+    "update_date": "2025-05-02T19:47:26+01:00"
 }

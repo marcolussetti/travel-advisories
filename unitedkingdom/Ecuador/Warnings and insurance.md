@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   16 April 2025
+:   3 May 2025
 
 Updated:
-:   15 April 2025
+:   2 May 2025
 
 Latest update:
-:   State of emergency renewed for 60 days due to internal disturbance and armed violence('Warnings and insurance' page).
+:   New information about travellers arriving to Ecuador from Peru, Colombia, Bolivia and Brazil needing to present a valid yellow fever certificate ('Entry requirements' page).
 
 ![](https://assets.publishing.service.gov.uk/media/65a1082ce96df50014f8452c/FCDO__TA__014_-_Ecuador_Travel_Advice_Ed5__WEB_.jpg)
 

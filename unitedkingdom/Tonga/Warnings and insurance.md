@@ -1,17 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   12 April 2025
+:   3 May 2025
 
 Updated:
-:   11 April 2025
+:   2 May 2025
 
 Latest update:
-:   Updated information about earthquakes and tsunamis in Tonga Islands ('Warnings and insurance' and 'Safety and security' pages).
-
-## Earthquake in the Tonga Islands
-
-There was a 7.1 magnitude earthquake in the Tonga Islands on Monday the 31st of March at 1:30am local time. The advice is to follow emergency instructions from local authorities.
+:   Removal of information about earthquake in the Tonga Islands ('Warnings and insurance' page).
 
 ## Before you travel
 
