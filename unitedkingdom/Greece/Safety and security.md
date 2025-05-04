@@ -14,6 +14,10 @@ Attacks could be indiscriminate, including in places visited by foreign national
 
 There have been several attacks involving explosives and automatic weapons against Greek institutions, shopping malls, banks, media offices, diplomatic premises and the police.
 
+### Explosion in Thessaloniki
+
+There has been an explosion in Thessaloniki in the early morning of 3 May. If you’re in the area you should take care and follow the advice of the local authorities.
+
 ## Protests and demonstrations
 
 ### Political protests

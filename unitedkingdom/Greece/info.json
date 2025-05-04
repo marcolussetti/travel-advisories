@@ -1,11 +1,11 @@
 {
     "name": "Greece",
-    "update_reason": "Updated information on extreme weather and natural disasters (\u2018Safety and security\u2019 page).",
+    "update_reason": "Information on explosion in Thessaloniki (\"Safety and Security\" page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Greece/Warnings and insurance.md",
-            "update_date": "2025-04-02T11:41:58+01:00"
+            "update_date": "2025-05-03T10:59:05+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Greece/Getting help.md"
         }
     ],
-    "update_date": "2025-04-02T11:41:58+01:00"
+    "update_date": "2025-05-03T10:59:05+01:00"
 }

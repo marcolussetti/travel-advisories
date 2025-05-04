@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   3 April 2025
+:   4 May 2025
 
 Updated:
-:   2 April 2025
+:   3 May 2025
 
 Latest update:
-:   Updated information on extreme weather and natural disasters (‘Safety and security’ page).
+:   Information on explosion in Thessaloniki ("Safety and Security" page)
 
 ## Before you travel
 
