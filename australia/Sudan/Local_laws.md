@@ -85,7 +85,7 @@ Take care not to offend. If in doubt, seek local advice.
 
 #### Ramadan
 
-The Islamic holiday month of [Ramadan](https://www.smartraveller.gov.au/before-you-go/major-events/ramadan) is observed in Sudan. Respect religious and cultural customs and laws at this time.
+The Islamic holy month of [Ramadan](https://www.smartraveller.gov.au/before-you-go/major-events/ramadan) is observed in Sudan. Respect religious and cultural customs and laws at this time.
 
 During Ramadan, eating, drinking and smoking may be illegal in public during the day. If you're not fasting, avoid these activities around people who are. Seek local advice to avoid offence.
 

@@ -77,7 +77,6 @@ Consider taking medication to prevent malaria.
 **More information:**
 
 * [Infectious diseases](/before-you-go/health/diseases "Infectious diseases")
-* [COVID-19](https://www.health.gov.au/topics/covid-19/about)
 
 #### HIV/AIDS
 
@@ -85,7 +84,7 @@ Consider taking medication to prevent malaria.
 
 Take steps to reduce your risk of exposure to the virus.
 
-If you're exposed to a risk of infection get immediate medical assistance outside Sudan. This includes if you are the victim of a violent crime or [sexual assault](/before-you-go/safety/sexual-assault "Reducing the risk of sexual assault and harassment").
+If you're exposed to a risk of infection get immediate medical assistance outside Sudan. This includes if you are the victim of a [violent crime](/while-youre-away/crime "If you're a victim of a crime overseas") or [sexual assault](/before-you-go/safety/sexual-assault "Reducing the risk of sexual assault and harassment").
 
 #### Other infectious diseases
 
@@ -97,7 +96,7 @@ Waterborne, foodborne, parasitic and other infectious diseases are common. Inclu
 * [tuberculosis](https://www.who.int/news-room/fact-sheets/detail/tuberculosis)
 * [polio (poliomyelitis)](https://www.who.int/news-room/fact-sheets/detail/poliomyelitis)
 * [meningitis](https://www.who.int/emergencies/diseases/meningitis/en/)
-* [viral hemorrhagic fevers](https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/viral-haemorrhagic-fever)
+* [viral haemorrhagic fevers](https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/viral-haemorrhagic-fever)
 * [Rift Valley fever](https://www.who.int/news-room/fact-sheets/detail/rift-valley-fever)
 * [rabies](https://www.who.int/news-room/fact-sheets/detail/rabies)
 
@@ -114,8 +113,6 @@ If you're bitten or scratched by an animal, get medical help straight away.
 Seek medical advice if you have a fever or diarrhoea.
 
 #### Medical care
-
-#### Medical facilities
 
 Due to the conflict several hospitals are out of service, especially in the Khartoum area. Medical facilities are basic in Khartoum and inadequate elsewhere.
 

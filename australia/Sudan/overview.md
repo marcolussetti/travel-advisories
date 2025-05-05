@@ -2,11 +2,11 @@
 
 Latest update
 
-We've reviewed our advice for Sudan and continue to advise do not travel. Australians should strongly consider leaving Sudan as soon as possible. There are commercial departure options from Port Sudan. You may also be able to enter Egypt and other neighbouring countries via land borders. You need valid travel documentation and visas to exit Sudan and enter Saudi Arabia or Egypt. Carefully consider the risks for any departure route, including during ceasefires (see 'Full advice - Safety'). The security situation remains volatile, and violence could escalate at short notice. Adopt appropriate personal security measures and remain vigilant. Monitor media and continue to follow our advice on Smartraveller.
+We've reviewed our advice for Sudan and continue to advise do not travel due to the dangerous security situation and the threat of armed conflict and civil unrest. Australians should strongly consider leaving Sudan as soon as possible. There are commercial departure options from Port Sudan and Port Suakin. Carefully consider the risks for any departure route, including during ceasefires. The security situation remains volatile, and violence can escalate at short notice. Adopt appropriate personal security measures and remain vigilant. Monitor media for updates (see 'Safety').
 
 Advice Level summary
 
-We continue to advise:
+We advise:
 
 Do not travel to Sudan due to the dangerous security situation and the threat of armed conflict and civil unrest.
 
@@ -22,7 +22,7 @@ Do not travel to Sudan due to the dangerous security situation and the threat of
 
 ### Safety
 
-* Australians should strongly consider leaving Sudan as soon as possible. There are commercial departure options from Port Sudan or Port Suakin. You may also be able to enter Egypt and other neighbouring countries via land borders. You'll need valid travel documentation and visas. You should confirm the exact requirements with your transport provider. For more information, see '[Full advice - Safety](#safety)'.
+* Australians should strongly consider leaving Sudan as soon as possible. There are commercial departure options from Port Sudan or Port Suakin. You may also be able to enter Egypt and other neighbouring countries via land borders. You'll need valid travel documentation and visas. You should confirm the exact requirements with your transport provider. For more information (see '[Safety](#safety)').
 * The security situation remains volatile, and violence could escalate with short notice. Carefully consider the risks for any departure route, including during ceasefires. Overland travel is dangerous, including to border areas due to the security situation.
 * If you choose to remain in Sudan and are not confident in the safety and reliability of any departure option, you should continue to shelter in a safe place. Assaults, home invasions and looting have occurred. Foreigners have been the target of such attacks, including on-road departures. Remain vigilant at all times, including around large crowds. Adopt appropriate personal security measures.
 * A civil war is occurring in Sudan, with Khartoum and Darfur among the worst affected areas. Thousands have been killed and millions displaced. Law and order and government services have broken down in many parts of Sudan. Water, electricity, telecommunications, and banking services may not be available. Most hospitals are not functioning. Civilians have been killed in airstrikes and artillery bombardment. Residents have been evicted from homes by armed groups, and looting is common.
@@ -57,7 +57,7 @@ Full travel advice: [Local laws](#local-laws)
 * We continue to advise do not travel to Sudan. See '[Safety](#Safety)'.
 * If, despite our advice, you travel to Sudan, you'll need a visa to enter. Entry and exit conditions can change at short notice. You should contact the [Embassy of Sudan in Canberra](https://protocol.dfat.gov.au/Public/Missions/187) for the latest details.
 * You may need to show your yellow fever vaccination certificate when entering and leaving Sudan. Check [Australia's re-entry requirements](https://www.healthdirect.gov.au/yellow-fever) following exposure to yellow fever.
-* It's illegal to import or export Sudanese currency. Bring US dollars to change when you arrive. You'll also need US dollars to pay in some hotels. You can't use credit cards, debit cards or traveller's cheques anywhere.
+* Bring US dollars to change when you arrive. Only change money through banks or official exchange bureaus. Non-Sudanese credit or debit cards may not be useable.
 
 Full travel advice: [Travel](#travel)
 

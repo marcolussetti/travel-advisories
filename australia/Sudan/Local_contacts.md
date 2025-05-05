@@ -40,16 +40,12 @@ You can get consular assistance from the [Australian Embassy in Cairo](https://e
 1191 Corniche El Nil  
 Boulac, Cairo, Egypt  
 Phone: +20 2 2770 6600  
-Fax: +20 2 2770 6650  
 Email: [consular.cairo@dfat.gov.au](mailto:consular.cairo@dfat.gov.au )  
-  
 Website: [www.egypt.embassy.gov.au](http://www.egypt.embassy.gov.au/)  
 Facebook [Australian Embassy in Egypt](https://www.facebook.com/AustralianEmbassyEgypt)  
 X: [@AusAmbEGY](https://twitter.com/AusAmbEgy)
 
 See the Embassy website for details about opening hours and any temporary closures.
-
-The British Embassy in Sudan is now closed.
 
 #### 24-hour Consular Emergency Centre
 

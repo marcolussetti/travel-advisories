@@ -4,6 +4,8 @@
 
 > Every country or territory decides who can enter or leave through its borders. For specific information about the evidence you'll need to enter a foreign destination, check with the nearest embassy, consulate or immigration department of the destination you're entering.
 
+Following the hijacking of a small passenger aircraft on 17 April 2025, the Belize Department of Civil Aviation has announced enhanced security measures are being implemented at all local airports. You should arrive early at airports to allow enough time for security procedures.
+
 Belize has an online immigration and customs declaration system. You will need to complete and submit an entry form before travelling to Belize. You can access the [e-form](https://belizetravel.immigration.gov.bz/Belize_Digital_Forms/) via the [Belize Tourism Board](https://www.travelbelize.org/).
 
 #### Tourist visas

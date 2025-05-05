@@ -8,13 +8,13 @@ We continue to advise do not travel to Sudan. The security situation remains vo
 
 #### Visa conditions
 
-If despite our advice you travel to Sudan, you'll need a visa to enter.
+If, despite our advice you travel to Sudan, you'll need a visa to enter.
 
 Getting a visa can take several months. Visas are not granted automatically.
 
-Visitors on a single-entry visa need to obtain an exit visa to leave the country. However, this is not always enforced. You can get an exit visa at the airport. You should be ready to show proof of your sponsor and pay the exit visa fee. Visa and other entry and exit conditions can change at short notice. This includes currency, customs and quarantine.
+Visitors on a single-entry visa need to obtain an exit visa to leave the country. However, this is not always enforced. Visa and other entry and exit conditions can change at short notice. This includes currency, customs and quarantine.
 
-Contact the [Embassy of Sudan](https://protocol.dfat.gov.au/Public/Missions/187) in Canberra for details.
+Contact the [Embassy of Sudan](https://protocol.dfat.gov.au/Public/Missions/187) in Canberra for the latest details.
 
 #### Yellow fever vaccination
 
@@ -22,7 +22,7 @@ You may need a valid yellow fever vaccination certificate to enter Sudan. Some a
 
 Find out about returning to Australia [after exposure to yellow fever](https://www.healthdirect.gov.au/yellow-fever).
 
-More information:
+**More information:**
 
 * [Countries with a risk of yellow fever](https://cdn.who.int/media/docs/default-source/travel-and-health/countries-with-risk-of-yellow-fever-transmission.pdf?sfvrsn=bf42ac59_4&download=true) (pdf)
 
@@ -30,11 +30,9 @@ More information:
 
 If your passport has an Israeli visa or Israeli entry/exit stamps you won’t be allowed to enter Sudan. This can happen even if you have a valid Sudanese visa.
 
-Register with the Aliens Registration Office, Ministry of the Interior, within three days of arrival in Sudan if it's safe to do so. Most government ministries are now operating from Port Sudan. Check with local authorities for up-to-date requirements.
+Most government ministries are now operating from Port Sudan. Check with local authorities for up-to-date requirements.
 
-Carry photo identification with you at all times.
-
-In 2020, Sudan introduced new laws allowing women to travel with their children outside of the country without the consent of the children's father. However, this law may not be applied consistently, and women and children may encounter difficulties exiting Sudan without the consent of the children's father. 
+In 2020, Sudan introduced new laws allowing women to travel with their children outside of the country without the consent of the children's father. However, this law may not be applied consistently, and women and children may encounter difficulties exiting Sudan without the consent of the children's father. Please refer to the [Travelling with children](/before-you-go/who-you-are/children "Travelling with children") Smartraveller page for further information.
 
 Airport departure taxes apply.
 
@@ -65,7 +63,7 @@ If your passport is lost or stolen, tell the Australian Government as soon as po
 
 Although Australian passports comply with international standards for sex and gender, we can’t guarantee that a passport showing 'X' in the sex field will be accepted for entry or transit by another country. Contact the nearest [embassy, high commission or consulate of your destination](https://protocol.dfat.gov.au/Public/MissionsInAustralia) before you arrive at the border to confirm if authorities will accept passports with 'X' gender markers.
 
-More information:
+**More information:**
 
 * [LGBTQIA+ travellers](https://www.smartraveller.gov.au/before-you-go/who-you-are/LGBTI)
 
@@ -73,9 +71,9 @@ More information:
 
 The local currency is the Sudanese Pound (SDG). You can’t convert outside the country and it’s illegal to export it.
 
-Sudan operates on a cash only economy. Credit and debit cards are not accepted, even at large hotels. Make sure you have enough cash with you. Take unmarked US dollars dated from 2006.
+Non-Sudanese credit and debit cards are not widely accepted, even at large hotels. Make sure you have enough cash with you. Take unmarked US dollars dated from 2006.
 
-ATMs only accept local bank cards. Western Union and other money transfer systems are currently unreliable.
+ATMs only accept local bank cards and there are limits to cash withdrawals. Western Union and other money transfer systems are currently unreliable.
 
 Change money through banks or official exchange bureaus. It’s illegal to exchange currency outside of official banking channels. You could be fined or go to prison.
 
@@ -87,7 +85,7 @@ We continue to advise do not travel to Sudan. The security situation remains vo
 
 You should consider the risks carefully for any departure route, including during ceasefires. Any travel options are taken at your own risk.
 
-You may not be able to cross some land borders. Sudan's border with Chad and Eritrea are closed. Do not travel to neighbouring Libya, Chad, Central African Republic and South Sudan. You're responsible for your own safety and that of your family. You should carefully review our [travel advice](/destinations) for any neighbouring country, including [Egypt](/destinations/africa/egypt "Egypt") and [Ethiopia](/destinations/africa/ethiopia "Ethiopia"). 
+You may not be able to cross some land borders. Do not travel to neighbouring Libya, Chad, Central African Republic and South Sudan. You're responsible for your own safety and that of your family. You should carefully review our [travel advice](/destinations) for any neighbouring country, including [Egypt](/destinations/africa/egypt "Egypt") and [Ethiopia](/destinations/africa/ethiopia "Ethiopia"). 
 
 Prior to the conflict authorities strictly enforced permit regulations for travel outside of Khartoum. Current arrangements are unclear.
 
@@ -137,7 +135,7 @@ All forms of shipping are attractive to pirates, including:
 
 To protect yourself when [travelling by boat](/before-you-go/getting-around/boat-travel "Travelling by boat"):
 
-* check the [International Maritime Bureau](https://icc-ccs.org/index.php/piracy-reporting-centre) piracy reports
+* check the [International Maritime Bureau](https://icc-ccs.org/) piracy reports
 * be alert to threats
 * exercise extreme caution
 
