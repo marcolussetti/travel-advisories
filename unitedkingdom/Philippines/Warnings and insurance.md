@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   9 April 2025
+:   5 May 2025
 
 Updated:
-:   8 April 2025
+:   4 May 2025
 
 Latest update:
-:   Updated information about the Kanlaon Volcano (See 'Volcanoes' on the 'Safety and security' page).
+:   There has been a traffic incident at the entrance of Manila Airport. If  you’re in the  immediate  area  you should take care and follow the advice of the local authorities.
 
 ![](https://assets.publishing.service.gov.uk/media/616406778fa8f52980d9301c/FCDO__TA__033_-_Philippines_Travel_Advice_Ed2__WEB_.jpg)
 

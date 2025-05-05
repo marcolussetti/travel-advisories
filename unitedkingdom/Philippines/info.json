@@ -1,11 +1,11 @@
 {
     "name": "Philippines",
-    "update_reason": "Updated information about the Kanlaon Volcano (See 'Volcanoes' on the 'Safety and security' page).",
+    "update_reason": "There has been a\u202ftraffic incident at the entrance of Manila Airport.\u202fIf  \u202fyou\u2019re in the \u202fimmediate\u202f area\u202f you should take care and follow the\u202fadvice of the local\u202fauthorities.",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Philippines/Warnings and insurance.md",
-            "update_date": "2025-04-08T16:52:34+01:00"
+            "update_date": "2025-05-04T12:25:35+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Philippines/Getting help.md"
         }
     ],
-    "update_date": "2025-04-08T16:52:34+01:00"
+    "update_date": "2025-05-04T12:25:35+01:00"
 }
