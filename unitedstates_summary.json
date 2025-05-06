@@ -393,7 +393,7 @@
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/colombia-travel-advisory.html",
         "risk_level_number": 3,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Colombia.html",
-        "last_updated_country_details": "2024-01-04T00:00:00"
+        "last_updated_country_details": "2025-05-05T00:00:00"
     },
     {
         "destination": "Comoros",
@@ -1833,7 +1833,7 @@
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/united-kingdom-travel-advisory.html",
         "risk_level_number": 2,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/UnitedKingdom.html",
-        "last_updated_country_details": "2025-03-25T00:00:00"
+        "last_updated_country_details": "2025-05-05T00:00:00"
     },
     {
         "destination": "Uruguay",
@@ -1932,7 +1932,7 @@
         "risk_level_number": null,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Gilbraltar.html",
         "last_updated_advisory": null,
-        "last_updated_country_details": "2025-03-25T00:00:00"
+        "last_updated_country_details": "2025-05-05T00:00:00"
     },
     {
         "destination": "United Kingdom",
@@ -1941,7 +1941,7 @@
         "risk_level_number": null,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/FalklandIslands.html",
         "last_updated_advisory": null,
-        "last_updated_country_details": "2025-03-25T00:00:00"
+        "last_updated_country_details": "2025-05-05T00:00:00"
     },
     {
         "destination": "United Kingdom",
@@ -1950,7 +1950,7 @@
         "risk_level_number": null,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/IsleOfMan.html",
         "last_updated_advisory": null,
-        "last_updated_country_details": "2025-03-25T00:00:00"
+        "last_updated_country_details": "2025-05-05T00:00:00"
     },
     {
         "destination": "Israel, the West Bank and Gaza",

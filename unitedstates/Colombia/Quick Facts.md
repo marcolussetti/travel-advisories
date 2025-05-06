@@ -4,24 +4,26 @@
 
 PASSPORT VALIDITY:
 
-Must be valid at the time of entry and for the duration of stay.
+Must be valid at the time of entry and for the duration of your stay.
+
+Recommend 6 months validity.
 
 BLANK PASSPORT PAGES:
 
-One page required for entry stamp unless enrolled in Migración Automática, a program for frequent travelers.
+Must have 1 blank passport page for entry stamp unless enrolled in [Migración Automática](https://apps.migracioncolombia.gov.co/registro/public/formularioRegistro.jsf), Colombia’s program for frequent travelers.
 
 TOURIST VISA REQUIRED:
 
-Not required for stays 90 days or less.
+Not required for 90 days or less.
 
 VACCINATIONS:
 
-Yellow fever vaccination is required for travelers coming from certain countries or visiting certain national parks.
+Required for travelers coming from certain countries or visiting certain national parks. For more information, visit the Government of [Colombia’s Health Ministry webpage.](https://www.minsalud.gov.co/salud/publica/PET/Paginas/fiebre-amarilla.aspx)
 
 CURRENCY RESTRICTIONS FOR ENTRY:
 
-10,000 USD maximum.
+$10,000 USD maximum
 
 CURRENCY RESTRICTIONS FOR EXIT:
 
-10,000 USD maximum.
+$10,000 USD maximum

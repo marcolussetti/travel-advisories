@@ -2,44 +2,93 @@
 
 [#### Local Laws & Special Circumstances](javascript:void(0); "Local Laws & Special Circumstances")
 
-**Criminal Penalties**: You are subject to local laws. If you violate local laws, even unknowingly, you may be arrested, imprisoned, or expelled.
+**Criminal penalties**U.S. citizens must follow local laws.
 
-Individuals establishing a business or practicing a profession that requires additional permits or licensing should seek information from the competent local authorities prior to practicing or operating a business.
+* If you break laws, even by mistake, you could be expelled, arrested, or imprisoned.
+* You may be prosecuted under U.S. law for certain crimes committed while you are overseas.
+* Learn more about examples of [crimes against minors abroad](https://travel.state.gov/content/travel/en/international-travel/emergencies/arrest-detention/crimes-against-minors.html) and information provided by the [U.S. Department of Justice](http://www.justice.gov/usam/criminal-resource-manual-1617-extraterritorial-criminal-jurisdiction-18-usc-112-878-970-1116).
+* If you are starting a business, seek information from competent local authorities.
+* Get professional advice if you plan to practice a profession that requires additional permits or licenses.
 
-**Customs Regulations**: If you enter or exit Colombia possessing cash or other financial instruments worth more than $10,000USD, you must declare them and be able to prove the legal source of the funds. The Embassy has received reports of customs officials confiscating high-value jewelry that was not declared upon entry.
+**Sexual abuse of children**In Colombia, engaging in sexual activities with individuals under the age of 18 is illegal. Violators, regardless of whether they were aware of the individual's age, can face severe legal consequences, including lengthy prison sentences.
 
-Colombian law prohibits tourists and business travelers from bringing firearms and ammunition into Colombia. Colombian law also restricts the importation of plants and animals (and some related products).
+**Customs regulations**There is a currency limit of $10,000 USD on entry and exit. You must declare anything above this value and prove the legal source of the funds.
 
-**Artifacts**: Colombian law forbids the export of pre-Columbian objects and other artifacts protected by cultural patrimony statutes. U.S. customs officials are obliged to seize pre-Columbian objects and certain colonial religious artwork brought into the United States.
+The Embassy has reports of customs officials taking expensive jewelry that was not declared upon entry.
 
-Furthermore, some laws are also prosecutable in the United States, regardless of local law. For examples, see our website on [crimes against minors abroad](http://travel.state.gov/content/passports/en/emergencies/arrest/criminalpenalties.html) and the [Department of Justice](https://www.justice.gov/archives/jm/criminal-resource-manual-1617-extraterritorial-criminal-jurisdiction-18-usc-112-878-970-1116)website.
+You must follow local laws:
 
-**Arrest Notification**: If you are arrested or detained, ask police to notify the U.S. Embassy immediately. See our [webpage](http://travel.state.gov/content/passports/english/emergencies/arrest.html) for further information.
+* It is illegal for tourists and business travelers to bring guns or bullets into Colombia.
+* It is illegal to bring plants and animals (and some related products) into Colombia.
 
-Penalties for possessing, using, or trafficking in illegal drugs in Colombia are severe, and convicted offenders can expect long pre-trial detention and lengthy prison sentences under harsh conditions. Colombian law may require that released offenders serve a lengthy period of parole in-country, during which the offender is given no housing and may lack permission to work.
+**Artifacts (historical pieces)**
 
-Colombia uses comprehensive screening procedures to detect narcotics smuggling at its international airports. Travelers are occasionally questioned, searched, fingerprinted, and/or asked to submit to an abdominal X-ray upon arrival or departure. Most airport inspectors do not speak English.
+* It is illegal to take back pre-Columbian and other historical objects. They are protected by cultural patrimony laws.
+* U.S. customs officials must confiscate pre-Columbian objects and some colonial religious art. It is illegal to bring them into the United States.
 
-**Counterfeit and Pirated Goods**: Although counterfeit and pirated goods are prevalent in many countries, they may still be illegal according to local laws. You may also pay fines or have to give them up if you bring them back to the United States. See the  [U.S. Department of Justice website](https://www.justice.gov/criminal-ccips)  for more information.
+**Arrest notification**If you are arrested or detained, ask police or prison officials to notify the U.S. Embassy immediately. Many law enforcement authorities will not notify the Embassy. Few police officers speak English, especially outside of large cities. Review our [webpage](https://travel.state.gov/content/travel/en/international-travel/emergencies/arrest-detention.html) for further information.
 
-**Faith-Based Travelers**: See the following webpages for details:
+* Penalties are severe for possessing, using, or trafficking illegal drugs.
+* Arrestees can expect long pre-trial detention. Long prison sentences under harsh conditions are common for convicted offenders.
+* Released offenders may serve long parole periods in-country. Offenders are given no housing and may lack permission to work.
+
+**Travel and airport issues**Few customs officers or immigration inspectors in Colombia speak English. Misunderstandings can result in detentions or return to the United States. If you are detained by immigration officers, the Embassy cannot help you. When you arrive in Colombia, please be polite and follow any instructions given to you.
+
+* Colombia uses detailed screening procedures to detect narcotics smuggling at its international airports.
+* Migration officials sometimes question, search, and fingerprint travelers.
+
+Officials may ask you to take an abdominal X-ray on entry or exit.
+
+**Counterfeit and pirated goods:**Counterfeit and pirated goods are common but may be illegal according to local laws.
+
+They may pose significant risks to consumer health and safety.
+
+You could get fined or forced to give your goods to the authorities if you try to bring them back into the United .States.
+
+[The Truth Behind Counterfeits](https://www.cbp.gov/trade/fakegoodsrealdangers) (source: U.S. Customs and Border Protection)
+
+[Computer Crime and Intellectual Property Section](https://www.justice.gov/criminal/criminal-ccips) (source: U.S. Department of Justice)
+
+**Faith-based travelers**: See the following webpages for details:
 
 * [Faith-Based Travel Information](https://travel.state.gov/content/passports/en/go/faith-based-travel.html)
 * [International Religious Freedom Report](http://www.state.gov/j/drl/irf/rpt/index.htm) – see country reports
 * [Human Rights Report](http://www.state.gov/j/drl/rls/hrrpt/) – see country reports
-* [Hajj Fact Sheet for Travelers](http://travel.state.gov/content/passports/en/go/Hajj.html)
+
+**International Volunteers**:
+
 * [Best Practices for Volunteering Abroad](https://travel.state.gov/content/passports/en/go/volunteer.html)
 
-**LGB Travelers**: Colombia has one of the strongest legal frameworks in Latin America defending the rights of LGB people; however, in practice protections remain a long way from full enforcement and harassment persists, especially in rural areas. In many parts of Colombia, violence against trans people exceeds levels of violence against any other members of the LGB community. Criminals do utilize dating apps to target potential victims of theft, so travelers should use caution on such apps. Certain regions, especially in rural areas, experience higher instances of harassment/violence against LGB communities. In 2022, there was an uptick of homicides specifically targeting gay men in Medellín. LGB associated and friendly establishments exist mostly in metropolitan areas, especially Cartagena, Medellin, and Bogota.
+**LGB Travelers**There are no legal restrictions on same-sex sexual relations, the provision of information or services to persons on the basis of real or perceived sexual orientation, or the organization of events focused on sexual orientation in Colombia.
 
-See our [LGB Travel Information](http://travel.state.gov/content/passports/english/go/lgbt.html) page and section 6 of our [Human Rights report](http://www.state.gov/j/drl/rls/hrrpt/) for further details.
+Colombian law prohibits discrimination on the basis of sexual orientation. However, protections are not always enforced:
 
-**Travelers with Disabilities**: The law in Colombia prohibits discrimination against persons with physical or mental disabilities, but the law is not fully enforced. Social acceptance of persons with disabilities is not as prevalent as in the United States. Many public places and transportation are not adapted to accommodate the needs of persons with disabilities. The most common types of accessible facilities may include restrooms, ramps, and elevators. Expect accessibility to be limited in public transportation, lodging, communication/information, and general infrastructure, including sidewalks, intersections, buses, and taxis. There is a significant difference between the capital (and other large cities) and the rest of the country.
+* Criminals use dating apps to target potential victims for robbery or assault, so use caution on such apps.
+* Violence and harassment targeting persons on the basis of sexual orientation remains high, particularly in rural areas.
+* Places catering to lesbian, gay, and bisexual persons are mostly found in big cities, especially in Cartagena, Medellín, and Bogotá.
 
-Repair and replacement parts for aids/equipment/devices are available. Sign language interpreters or personal assistants are available for hire.
+Review our [LGB Travel Information page](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/lgb.html) for further details.
 
-**Students**: See our [Students Abroad](http://travel.state.gov/content/studentsabroad/en.html) page and [FBI travel tips](https://ucr.fbi.gov/investigate/counterintelligence/student-brochure).
+**Travelers with disabilities**The law in Colombia prohibits discrimination against people with disabilities, but the law is not enforced consistently:
 
-**Women Travelers**: See our travel tips for [Women Travelers](http://travel.state.gov/content/passports/english/go/Women.html).
+* Public places and transportation often have limited accessibility and do not have accommodations for people with disabilities.
+* Common types of accessible facilities may include restrooms, ramps, and elevators.
+* Expect limited accessibility in:
+  + Public transportation
+  + Hotels and buildings
+  + Communication and information
+  + Sidewalks
+  + Intersections
+* There is a big difference in accessibility between large cities and the rest of the country.
+* Repair and replacement parts for aids, equipment, and devices are available.
+* Colombian Sign Language interpreters or personal assistants are available for hire.
 
-**Cruise Ship Passengers**: See our travel tips for [Cruise Ship Passengers](https://travel.state.gov/content/passports/en/go/CruiseShipPassengers.html).
+Review our [Travelers with Disabilities](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/traveling-with-disabilties.html) page.
+
+**Students**[Students Abroad](http://travel.state.gov/content/studentsabroad/en.html)
+
+[FBI travel tips](https://ucr.fbi.gov/investigate/counterintelligence/student-brochure)
+
+**Women travelers**[Women Travelers](http://travel.state.gov/content/passports/english/go/Women.html)
+
+**Cruise ship passengers**[Cruise Ship Passengers](https://travel.state.gov/content/passports/en/go/CruiseShipPassengers.html)

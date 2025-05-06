@@ -2,22 +2,79 @@
 
 [#### Travel and Transportation](javascript:void(0); "Travel and Transportation")
 
-**Road Conditions and Safety**: Due to the security environment in Colombia and poor infrastructure, U.S. government employees and their families are not permitted to travel by road between most major cities. They also cannot use inter-city or intra-city bus transportation or travel by road outside urban areas at night. Follow these same precautions.
+**Traffic Law**
 
-Road travel in Colombia can be dangerous, especially at night. Some roads are poorly maintained, or vulnerable to heavy rains and mudslides. Mountain roads may lack safety features such as crash barriers or guard rails, and conditions are frequently made more treacherous by heavy fog. Highways are often unmarked and unlit, and do not have signs indicating destinations. Slow-moving buses and trucks frequently stop in the middle of the road unexpectedly. In the countryside, livestock is often herded along roads or left to graze on roadsides. Due to a lack of sidewalks, roads are also used by pedestrians.
+**Road conditions and safety**Due to Colombia's security and infrastructure, U.S. government employees and their families cannot:
 
-The use of motorcycles and bicycles is widespread throughout Colombia. U.S. government employees may not use motorcycles because of security concerns.
+* Use public transportation or travel by road outside cities at night.
+* Hail street taxis.
+* Use motorcycles.
 
-**Traffic Laws**: Traffic laws are often ignored and rarely enforced, creating dangerous conditions for drivers and pedestrians. Seat belts are mandatory for all passengers in a private vehicle. Car seats are mandatory for children, and a child under ten years old is not permitted to ride in the front seat. It is against the law to talk on a cellular phone while driving.
+You should follow these same precautions.
 
-If you are involved in an accident, you MUST remain at the scene without moving your vehicle until the authorities arrive. This rule is strictly enforced and moving a vehicle or leaving the scene of an accident may constitute an admission of guilt under Colombian law.
+Road travel in Colombia can be dangerous, especially at night:
 
-**Public Transportation**: Do not hail taxis on the street. U.S. government employees may not hail street taxis or use public transportation in Colombia because of security concerns. U.S. citizens have been killed during robberies while using taxis. Use a dispatch service or transportation app whenever possible.
+* Some roads are poorly maintained.
+* Roads can get damaged due to heavy rains and mudslides.
+* Mountain roads may lack safety features such as crash barriers or guard rails.
+* Heavy fog can make driving dangerous.
+* Highways may not have lights or signs showing destinations.
+* Slow-moving buses and trucks stop in the middle of the road suddenly.
+* In the countryside, livestock is often herded along roads or left to graze on roadsides.
+* Due to a lack of sidewalks, roads are also used by pedestrians and bicyclists.
 
-See our [Road Safety page](https://travel.state.gov/content/travel/en/international-travel/before-you-go/driving-and-road-safety.html) for more information. Visit the website of the Colombia national authority responsible for road safety, the [Instituto Nacional de Vias](https://www.invias.gov.co/).
+The use of motorcycles and bicycles is widespread throughout Colombia.
 
-**Aviation Safety Oversight**: The U.S. Federal Aviation Administration (FAA) has assessed the government of Colombia’s Civil Aviation Authority as being in compliance with International Civil Aviation Organization (ICAO) aviation safety standards for oversight of Colombia’s air carrier operations. Further information may be found on the [FAA’s safety assessment page](https://www.faa.gov/about/initiatives/iasa).
+**Traffic laws**Traffic laws are often ignored and rarely enforced. This creates dangerous conditions for drivers and pedestrians.
 
-**Maritime Travel**: Mariners planning travel to Colombia should also check for U.S. maritime [advisories](https://www.maritime.dot.gov/msci-advisories "Maritime Advisories") and [alerts](https://www.maritime.dot.gov/msci-alerts "Maritime Alerts"). Information may also be posted to the [U.S. Coast Guard homeport website](https://homeport.uscg.mil/) and the [NGA broadcast warnings](https://msi.nga.mil/NGAPortal/MSI.portal).
+You must follow all local laws:
 
-**Tourist Vessels**: Exercise caution when embarked on small tourist boats off the northern coast between Cartagena and the nearby islands. During the months of December and January, the seas off the northern coast can be dangerous for small boats. U.S. citizens have died in boating accidents. Check for lifejackets and safety equipment before boarding a tourist vessel.
+* Seat belts are required for all passengers in a private vehicle.
+* Car seats are required for children.
+* Children under 10 years old are not allowed to ride in the front seat.
+* It is against the law to use a cell phone while driving.
+* If you are involved in an accident, you must stay at the scene without moving your vehicle until the police arrive. This rule is strictly enforced.
+* Under Colombian law, moving a vehicle or leaving the scene of an accident can be seen as admitting guilt.
+
+**Public transportation**Do not wave down taxis on the street.
+
+* U.S. citizens have been killed during robberies while using taxis hailed off the street.
+* Use a dispatch service or transportation app whenever possible.
+
+For more information:
+
+[Road Safety page](https://travel.state.gov/content/travel/en/international-travel/before-you-go/driving-and-road-safety.html)
+
+**Aviation safety oversight**The U.S. Federal Aviation Administration (FAA) has found that Colombia’s Civil Aviation Authority meets international standards for aviation safety oversight. FAA’s [website](https://www.faa.gov/about/initiatives/iasa) includes more information on its assessment program.
+
+**Maritime travel**Mariners planning travel to Colombia should check for U.S. maritime [advisories](https://www.maritime.dot.gov/msci-advisories) and [alerts](https://www.maritime.dot.gov/msci-alerts). Information may also be posted to the [U.S. Coast Guard homeport website](https://homeport.uscg.mil/), and the [NGA broadcast warnings](https://msi.nga.mil/NGAPortal/MSI.portal) website.
+
+**Tourist vessels**
+
+* Be cautious when traveling on small tourist boats off the northern coast between Cartagena and the nearby islands.
+* During the months of December and January, the seas off the northern coast can be dangerous for small boats.
+* U.S. citizens have died in boating accidents. Check for life jackets and safety equipment before boarding a tourist vessel.
+
+**Weather**
+
+**Rainy season, flooding and landslides:**
+
+* March to May
+* October to November
+
+**High temperatures and drought:**
+
+* July to August
+* December to March
+
+**Tropical Storms (along the coast):**
+
+* June to November
+
+**U.S. Citizens living abroad**
+
+If you live abroad for a long time, you or your family may experience various [life events](https://travel.state.gov/content/travel/en/international-travel/while-abroad.html).
+
+* Learn how to prepare for events like [voting](https://travel.state.gov/content/travel/en/international-travel/while-abroad/voting.html), getting [married](https://travel.state.gov/content/travel/en/international-travel/while-abroad/marriage-abroad.html), or the [birth of a child](https://travel.state.gov/content/travel/en/international-travel/while-abroad/birth-abroad.html).
+* Ensure you have a plan for [healthcare or insurance](https://travel.state.gov/content/travel/en/international-travel/while-abroad/your-health-abroad.html) abroad.
+* Even abroad, you still have [certain obligations](https://travel.state.gov/content/travel/en/international-travel/while-abroad/federal-benefits-and-obligations-abroad.html) such as paying your U.S. taxes or registering for military selective service.

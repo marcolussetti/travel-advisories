@@ -2,74 +2,144 @@
 
 [#### Safety and Security](javascript:void(0); "Safety and Security")
 
-**Terrorism**: Terrorist groups and those inspired by such organizations are intent on attacking U.S. citizens abroad. Terrorists are increasingly using less sophisticated methods of attack – including knives, firearms, and vehicles – to more effectively target crowds. Frequently, their aim is focused on unprotected or vulnerable targets, such as:
+**Emergency Phone Numbers**Local authorities are responsible for investigating and prosecuting crimes.
+
+**Dial 123** for all emergencies in Colombia.
+
+Contact the U.S. Embassy in Colombia at +57 (601) 275-2000 or +57 (601) 275-4021 after hours to report crimes or emergencies.
+
+**Terrorism**Terrorist groups and individuals inspired by them want to attack American citizens outside of the United States. They use simple methods of attack like knives, explosives, guns, and vehicles to target crowds. They often go after unprotected or vulnerable targets.
 
 * High-profile public events (sporting events, political rallies, demonstrations, holiday events, celebratory gatherings, etc.)
-* Hotels, clubs, and restaurants frequented by tourists
+* Hotels, clubs, and restaurants visited by tourists
 * Places of worship
 * Schools
 * Parks
 * Shopping malls and markets
-* Public transportation systems (including subways, buses, trains, and scheduled commercial flights)
+* Public transportation (subways, buses, trains, and commercial flights)
 
-Terrorist groups and criminal organizations continue operating and carrying out attacks in Colombia.
+For more information, see our [Terrorism page](https://travel.state.gov/content/travel/en/international-travel/emergencies/terrorism.html).
 
-For more information, see our [Terrorism](https://travel.state.gov/content/travel/en/international-travel/emergencies/terrorism.html) page.
+**Crime**Crimes and scams against tourists in Colombia are common:
 
-**Crime**: Crimes and scams against tourists, and those perceived to be wealthy, are common and well-coordinated in urban areas, including in affluent neighborhoods. Firearms and knives are prevalent in Colombia and often used in muggings and robberies under the threat of violence. Drive-by motorcyclist snatchings of cell phones, bags, and valuables are extremely common. Victims are often identified well in advance of the robbery based on visible jewelry, high value wristwatches, and general attire while in public places such as shopping malls, restaurants, and airports.
+* Individuals seen as wealthy are the primary targets.
+* Well-organized crime occurs in cities and affluent neighborhoods.
+* Firearms and knives are common in Colombia. Criminals use these in muggings and robberies under the threat of violence.
+* Ride-by robberies of cell phones, bags, and valuables are common.
+* Thieves often spot victims by their visible jewelry, fancy wristwatches, and expensive clothes.
+* Crimes can happen while victims are in public (malls, restaurants, and airports).
+* Narco-trafficking groups, including the Clan del Golfo, often attack civilians and security forces.
 
-Narco-trafficking groups, including the Clan del Golfo frequently engage in violence against civilians and security forces.
+**Demonstrations** occur frequently. They may take place in response to political or economic issues. They may also occur on politically significant holidays and during international events.
 
-Dating App Robberies/Drugging/Homicides: Criminals use dating apps to lure victims to meet in places such as hotels, restaurants, and bars, and then later assault and rob them. Numerous U.S. citizens in Colombia have been drugged, robbed, and even killed by their Colombian dates. You should be cautious if using dating apps in Colombia. If meeting with a stranger, you should strongly consider meeting only in public places and avoiding isolated locations, such as residences or hotel rooms, where crimes are most likely to occur. Tell a friend or family member of your plans, including where you are going, details of the person you are meeting, and the app you used to meet them.
+* Demonstrations can be unpredictable. Avoid areas around protests and demonstrations.
+* Demonstrations can be frequent in the capital city, Bogotá.
+* Past demonstrations have turned violent.
 
-**ATMs**: There have been instances of fraudulent charges or withdrawals from accounts due to “skimmed” cards. If you choose to use credit or debit cards, you should regularly check your account to ensure there are no unauthorized transactions. Travelers should limit the amount of cash they carry in public, exercise caution when withdrawing cash from ATMs, and avoid ATMs located on the street. ATMs inside shopping malls or other protected locations are preferable.
+**How to Stay Safe**U.S. citizens must always be aware of their surroundings:
 
-**Taxis**: U.S. government employees are prohibited from hailing taxis on the street due to the risk of assault or robbery. U.S. citizens have been killed during robberies while using taxis. Use a dispatch service or cell phone app whenever possible.
+* Check local news and reports
+* Keep a low profile and do not flash wealth (cell phones, cash, jewelry, etc.)
+* Avoid demonstrations
 
-**Disabling Drugs**: The Embassy receives regular reports of criminals using drugs to temporarily incapacitate unsuspecting victims and then rob or assault them. Scopolamine, a fast-acting incapacitating drug, is often surreptitiously applied to food, drinks, and hand sanitizer vials by criminals to rob or assault their victims. Victims of scopolamine-related crimes are often targeted in bars, night clubs, or through dating apps. Avoid leaving food or drinks unattended at a bar or restaurant, and refuse offers of something to eat or drink from a stranger.
+**Kidnapping**The Embassy sometimes receives reports of U.S. citizens being kidnapped for ransom in Colombia:
 
-**Ayahuasca/Hallucinogens:** Traditional hallucinogens, often referred to as ayahuasca, can be marketed to tourists as “spiritual cleansing,” and typically contain dimethyltryptamine (DMT), a strong psychedelic that is illegal in the United States and many other countries. Risks to hallucinogen users while intoxicated include robbery, assault, illness, or death. People claiming to be shamans or spiritual practitioners are neither licensed nor regulated.
+* Kidnappers may force victims to use multiple ATMs to get money.
+* They may ask relatives or friends to wire money through banks , and sometimes hold victims for long periods.
+* Always tell friends and family your plans, including where and when you’ll arrive or leave places.
+* Give your trusted contacts a unique "alert word" to use if you’re in danger during a phone call.
+* Avoid isolated or unfamiliar areas, stay alert to suspicious behavior, and contact local authorities if you feel threatened.
 
-**Demonstrations**:Protests and demonstrations occur frequently, particularly in Bogota. They may take place in response to political or economic issues, on politically significant holidays, and during international events.
+**Dating apps (robberies, murders, and disabling drugs)**Criminals use dating apps to attract victims. They ask to meet in hotels, restaurants, and bars. Many U.S. citizens in Colombia have been drugged, robbed, and even killed by Colombian criminals posing as dates. They often work with accomplices. If using dating apps or websites in Colombia:
 
-* Demonstrations can be unpredictable; avoid areas around protests and demonstrations.
-* Check local media for updates and traffic advisories.
+* Let your friends and family know where you are.
+* Meet in a popular public place.
+* Avoid locations where you can be isolated (hotel rooms, private apartments, or houses).
+* Tell your family or friends the details about the person you are meeting and on which site you met them. Include a photo.
+* Set up a video call in the initial stages.
+* Never leave food or drinks unattended at a bar or restaurant.
+* Observe the preparation of your food or drink order when possible.
+* Refuse offers of food or drinks from strangers.
+* Provide a local number to friends and family members in case of a drugging.
 
-**International Financial Scams**:See the [Department of State](http://travel.state.gov/content/passports/english/emergencies/scams.html) and the [FBI](http://www.fbi.gov/scams-safety/fraud) pages for information.
+**Scams**Internet romance and financial scams are prevalent in Colombia. Review the Department of State’s [Protecting Yourself from Scams](https://travel.state.gov/content/travel/en/international-travel/emergencies/international-financial-scams.html) page and the [FBI’s page on scams](https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams) for information.
 
-Internet romance and financial scams are prevalent in Colombia. Scams are often initiated through Internet postings/profiles or by unsolicited emails and letters. Scammers almost always pose as U.S. citizens who have no one else to turn to for help. Common scams include:
+Scammers almost always pose as U.S. citizens who have no one else to turn to. Instead of helping, tell them to call the nearest U.S. Embassy or Consulate. We can work with local authorities or through other channels to assist them.
 
-* Romance/Online dating
+Common scams include:
+
+* Romance or online dating
 * Money transfers
 * Lucrative sales
 * Gold purchase
-* Contracts with promises of large commissions
-* Grandparent/Relative targeting
-* Free Trip/Luggage
+* Contracts with promises of large payments
+* Grandparent or relative targeting
+* Free trip or travel bags
 * Lotteries
 * Inheritance notices
-* Work permits/job offers
+* Work permits and job offers
 * Bank overpayments
-* Posing as U.S. government officials soliciting payment for services.
+* Acting as a U.S. government official asking payment for services
 
-**Victims of Crime:** U.S. citizen victims of sexual assault are encouraged to contact the U.S. Embassy for assistance. Report crimes to the local police by dialing 123 and contact the U.S. Embassy at +57 (601) 275-2000 or +57 (601) 275-4021 after hours. Remember that local authorities are responsible for investigating and prosecuting crimes.
+**ATMs**There have been cases of fraudulent charges or withdrawals from “skimmed” cards:
 
-See our webpage on [help for U.S. victims of crime overseas](https://travel.state.gov/content/travel/en/international-travel/emergencies/crime.html).
+* If you use credit or debit cards, check for unauthorized transactions.
+* Limit the amount of cash you carry in public and keep in your checking account.
+* Stay alert when withdrawing cash from ATMs.
+* Avoid ATMs located on the street.
+* ATMs inside banks, shopping malls, or other protected locations are preferable.
+* Use credit cards whenever possible.
 
-We can:
+**Taxis**U.S. government employees are prohibited from hailing taxis on the street due to the risk of robberies and assault.
 
+U.S. citizens have been killed during robberies while using taxis hailed on the street.
+
+Use a dispatch service or car service app whenever possible.
+
+**Ayahuasca (hallucinogens)**
+
+Ayahuasca is marketed to tourists as “spiritual cleansing”:
+
+* It contains dimethyltryptamine (DMT), a strong, illegal psychedelic drug. It is banned in many other countries, including the United States.
+* Risks while intoxicated include robbery, assault, illness, or death.
+* People claiming to be shamans, or spiritual practitioners, are neither licensed nor regulated.
+
+**Technology Usage Abroad**Mobile devices can be compromised, stolen, or damaged anywhere in the world. Before traveling abroad, it is best to keep all software (operating system and apps) updated. If possible, use a virtual private network (VPN) and encrypted voice over IP (VoIP) applications. Make sure that all VPN/VoIP are reputable, and U.S. based. Do not connect to unknown open Wi-Fi.
+
+* GPS Navigation Apps are helpful in getting U.S. citizens around in a foreign country. Prior to using the GPS app make sure you research the route to make sure it is safe. GPS navigation app may give you the shortest route without safety consideration.
+
+**Victims of Crime**U.S. citizen victims of sexual assault are encouraged to contact the U.S. Embassy for assistance.
+
+Local authorities are responsible for investigating and prosecuting crimes.
+
+* **Dial [123]** toreport crimes, including sexual assault, to the local police.
+* **Dial** **+57 (601) 275-2000** for the U.S. Embassy.
+* **Dial** **+57 (601) 275-4021** for the U.S. Embassy after hours.
+
+Review our webpage on help for [U.S. victims of crime overseas](https://travel.state.gov/content/travel/en/international-travel/emergencies/crime.html). We can:
+
+* Replace a stolen or lost passport.
 * Help you find appropriate medical care.
 * Assist you in reporting a crime to the police.
-* Contact relatives or friends with your written consent.
-* Provide general information regarding the victim’s role during the local investigation and following its conclusion.
-* Provide a list of local attorneys.
-* Provide our information on [victim’s compensation programs in the United States.](http://travel.state.gov/content/passports/english/emergencies/victims.html)
-* Provide an emergency loan for repatriation to the United States and/or limited medical support in cases of destitution.
-* Help you find accommodation and arrange flights home.
-* Replace a stolen or lost passport.
+* Contact family or friends with your written consent.
+* Provide general information about the victim’s role during the local investigation and following its conclusion.
+* Provide a list of local attorneys. We do not endorse or recommend any specific attorneys.
+* Provide information on [victims compensation programs in the United](http://travel.state.gov/content/passports/english/emergencies/victims.html) States.
+* Provide an emergency loan for repatriation to the United States and/or limited medical support in cases of destitution.\*
+* In emergencies, help you find accommodation and arrange flights home.\*
 
-**Domestic Violence:**U.S. citizen victims of domestic violence are encouraged to contact the Embassy for assistance. Help in domestic violence situations is available, in Spanish, by calling 155 (\*155 from a cell phone).
+\*Note: The State Department will not pay for these services or provide you with funds to pay for them except in the form of an emergency loan. We will not loan you money for accommodations except as part of an overall repatriation loan to assist you in returning to the United States.
 
-**Tourism**: The tourism industry is unevenly regulated, and safety inspections for equipment and facilities are uncommon. Hazardous areas/activities are not always identified with appropriate signage, and staff may not be trained or certified by the government or by recognized authorities. In the event of an injury, adequate medical treatment may only be available in or near major cities. First responders may only be able to provide basic medical treatment and may be unable to access areas outside of major cities. U.S. citizens are encouraged to purchase [medical evacuation insurance](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html).
+**Domestic Violence**U.S. citizen victims of domestic violence are encouraged to contact the Embassy for assistance. Help in domestic violence situations is also available from Colombian authorities in Spanish by calling 155 (\*155 from a cell phone).
 
-**Venezuelan Border**: The U.S. Department of State has categorized Venezuela as Level 4: Do Not Travel due to crime, civil unrest, poor health infrastructure, kidnapping, and the arrest and detention of U.S. citizens without due process or fair trial guarantees. U.S. citizens are at risk of detention when crossing into Venezuela from Colombia. The Colombia-Venezuela border is not clearly marked, and U.S. citizens should not go near the border due to the risk of crossing into Venezuela accidentally and being detained for illegal entry. If you still choose to travel to Venezuela, do not attempt to enter Venezuela without a visa. Visas are not available upon arrival. U.S. citizens attempting to enter Venezuela without a visa have been charged with terrorism and other serious crimes and detained for long periods. The Maduro regime does not notify the U.S. government of the detention of U.S. citizens and the U.S. government is not granted access to those citizens. The U.S. government has extremely limited ability to provide emergency services to U.S. citizens in Venezuela.
+**Tourism**The tourism industry is not consistently regulated:
+
+* Safety inspections for equipment and facilities are rare.
+* Dangerous areas and activities are not always labeled properly.
+* Staff may not be trained or certified by the host government or recognized authorities.
+* If you get injured, you will likely only find appropriate medical treatment in or near major cities. First responders may only be able to provide basic medical treatment.
+* Ambulances may be unable to access rural areas.
+
+U.S. citizens are encouraged to purchase medical evacuation insurance. Review our webpage for more [information on insurance providers for overseas coverage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html).
+
+**Venezuelan Border**Traveling to Venezuela via Colombia is dangerous and the border isn’t always clearly marked. The U.S. Department of State has categorized Venezuela as **Level 4: Do not travel**. U.S. citizens are at risk of detention any time they enter Venezuela. Venezuelan authorities do not notify the U.S. government of the detention of U.S. citizens, and the U.S. government is not granted access to detained citizens. The U.S. government has no ability to provide emergency services to U.S. citizens in Venezuela. Review the [Venezuela Travel Advisory](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/venezuela-travel-advisory.html) for more information
