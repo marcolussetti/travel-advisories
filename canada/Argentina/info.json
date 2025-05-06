@@ -1,7 +1,7 @@
 {
     "name": "Argentina",
-    "update_reason": "Natural disasters and climate \u2013 added information about an earthquake south of Ushuaia",
-    "update_date": "2025-05-02T14:15:00",
+    "update_reason": "Natural disasters and climate \u2013 removed information about an earthquake south of Ushuaia",
+    "update_date": "2025-05-05T10:33:00",
     "sections": {
         "risk": "canada/Argentina/risk.md",
         "security": "canada/Argentina/security.md",

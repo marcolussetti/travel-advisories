@@ -2,17 +2,6 @@
 
 ## Safety and security
 
-### Violence in Porto Velho, Rondônia
-
-Since early January 2025, there have been clashes between military police and an organized criminal faction in parts of Porto Velho. Multiple deaths, significant property damage, and disruption of public transportation have occurred. Dozens of vehicles, including buses, have been set on fire.
-
-If you are in Porto Velho:
-
-* do not use public transportation
-* expect a heightened police and military presence, obey the instructions of local authorities
-* maintain a low profile
-* be prepared for emergencies
-
 ### Border areas
 
 Criminal activity related to narcotics trafficking and arms smuggling poses a threat to your personal security.
