@@ -141,6 +141,8 @@ Kidnapping can happen anywhere, anytime, including destinations that are typical
 
 #### Civil unrest and political tension
 
+Officials have raised security levels, including an increased military presence at checkpoints on the Lao/Thai border in Bokeo province following ongoing clashes between the Lao army and unidentified armed groups. Monitor the local media and follow the advice of local authorities.
+
 One-off incidents of civil unrest, including armed attacks and bombings, have occurred in the past in Laos. Foreigners, including Australians, are not often targeted.
 
 Curfews may be enforced and can include:

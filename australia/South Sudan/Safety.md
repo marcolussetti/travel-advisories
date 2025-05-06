@@ -4,7 +4,9 @@
 
 #### Armed conflict
 
-We continue to advise do not travel to South Sudan. If you travel to South Sudan, despite our advice, be highly vigilant, monitor security developments closely and abide by any imposed curfews. You should also:
+We continue to advise do not travel to South Sudan. Our ability to provide consular services in South Sudan is extremely limited. The Australian Government may not be able to assist you to leave. If the security situation deteriorates further, routes into and out of South Sudan may be blocked and you may be unable to leave for an extended period.
+
+If you travel to South Sudan, despite our advice, be highly vigilant, monitor security developments closely and abide by any imposed curfews. You should also:
 
 * ensure your travel documents and those of your travelling family members are up to date
 * carry copies of your identification with you at all times, including to hand over to immigration or the police, if required
@@ -14,7 +16,7 @@ We continue to advise do not travel to South Sudan. If you travel to South Sudan
 * keep in contact with friends and family
 * ensure you keep supplies of any medication you require, as well as food and water.
 
-Since March 2025, there has been armed fighting between rival factions, including air strikes in some parts of South Sudan, resulting in casualties. Due to continuing tensions in the country, there is a heightened military presence in Juba and some parts of the country. Political tensions remain high, and the security situation could deteriorate quickly. 
+Since March 2025, there has been armed fighting between rival factions, including air strikes in some parts of South Sudan, resulting in casualties. Due to continuing tensions in the country, there is a heightened military presence in Juba and some parts of the country. Political tensions remain high, and the security situation could deteriorate quickly.
 
 Lack of law and order across the country is a serious threat, the security situation is volatile and could deteriorate with little warning, including in Juba. Thousands of people have been killed in South Sudan since violence began in December 2013. Intercommunal violence and fighting between armed groups continue across the country. Border areas are especially dangerous.
 

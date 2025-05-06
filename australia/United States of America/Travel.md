@@ -104,7 +104,7 @@ Whether you enter the United States under the VWP or on a visa, you'll likely ne
 
 You can be refused entry if you provide false information or can't satisfy the officials you're visiting for a valid reason.
 
-You may be held at the port of entry or a nearby detention facility (including in Hawaii) while US authorities arrange for you to be returned to Australia (or the last country you visited).
+You may be held at the port of entry while US authorities arrange for you to be returned to Australia (or the last country you visited). In some locations (including Hawaii), you may be held at a nearby federal detention centre while you wait to be returned to Australia.
 
 If you're refused entry under the VWP, you generally don't have the right to an attorney or to appeal the decision.
 
@@ -218,7 +218,9 @@ Some foreign governments and airlines apply the rule inconsistently. Travellers 
 
 The Australian Government does not set these rules. Check your passport's expiry date before you travel. If you're not sure it'll be valid for long enough, consider getting [a new passport](https://www.passports.gov.au/).
 
-A passport or United States-issued form of photo identification is usually required to board domestic flights in the United States. Your domestic travel can be delayed or even denied if you cannot present identification at airport security screening.
+A passport or United States-issued photo identification which meets the Department of Homeland Security’s [REAL ID requirements](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.dhs.gov%2Freal-id&data=05%7C02%7Ctravel.advice%40dfat.gov.au%7Cdc919ac9ef40422f5f6608dd8b66489d%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638819993608449346%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=jpEgtMPKFWFFOQtafQWELpGXE1pRUNlKJAWLv7LC7zg%3D&reserved=0) is required to board domestic flights in the United States. 
+
+Your domestic travel can be denied if you cannot present identification which meets the REAL ID requirements at airport security screening.
 
 #### Lost or stolen passport
 

@@ -2,7 +2,9 @@
 
 Latest update
 
-We've reviewed our advice for Ecuador and continue to advise exercise a high degree of caution for Ecuador overall. Ecuador is in a state of 'internal armed conflict' due to crime. The security environment may change at short notice. Monitor the media and follow the advice of local authorities (see 'Safety'). Do not travel within 20km of the border with Colombia, except the official border crossing at Tulcan, due to the high risk of kidnapping and violent crime associated with drug-related criminal organisations.
+We continue to advise exercise a high degree of caution for Ecuador overall. You'll need a yellow fever vaccination certificate if you have spent 10 days or more in Bolivia, Brazil, Colombia or Peru.  
+  
+Ecuador is in a state of 'internal armed conflict' and has a separate state of emergency due to crime. The security environment may change at short notice. Monitor the media and follow the advice of local authorities (see 'Safety'). Do not travel within 20km of the border with Colombia, except the official border crossing at Tulcan, due to the high risk of kidnapping and violent crime associated with drug-related criminal organisations.
 
 Advice Level summary
 
@@ -40,7 +42,8 @@ This does not apply to airside transit within Guayaquil Airport in Guayas provin
 
 ### Safety
 
-* The security environment in Ecuador may change at short notice. Monitor the media and follow the advice of local authorities. Ecuador has declared a nation-wide state of "internal armed conflict" due to crime and military efforts to combat it.
+* The security environment in Ecuador may change at short notice. Monitor the media and follow the advice of local authorities. Ecuador has declared a nation-wide state of "internal armed conflict" and a separate state of emergency due to crime and military efforts to combat it.
+* The state of emergency affects several provinces and cantons, with curfews from 10pm to 5am in some territories.
 * There's a high risk of kidnapping and violent crime in the northern and coastal regions and Guayaquil City. Areas bordering Colombia and Peru are particularly dangerous. Do not travel within 20km of the border with Colombia except at the official border crossing at Tulcan. If, despite our advice, you're travelling to these areas, seek professional security advice. Be alert to possible threats.
 * Demonstrations occur frequently. Even peaceful demonstrations can turn violent at any time. Political activity by foreigners is illegal, including joining protests. If you take part, officials may detain or deport you. Avoid large public gatherings.
 * Violent crime and theft are common. The risk of violent crime increases when you travel alone or after dark. Criminals target taxis, buses, transport hubs and crowded areas. Thieves target travellers, and distraction is a common tactic. Female travellers are encouraged to take particular caution. Be careful when using ATMs and credit cards. Avoid going out at night. Keep vehicle doors and windows locked and valuables out of sight, even when moving.
@@ -68,8 +71,9 @@ Full travel advice: [Local laws](#local-laws)
 
 ### Travel
 
-* Due to the declaration of a state of "internal armed conflict", when entering via land or river borders from Peru or Colombia, you must present an apostilled police check in Spanish covering the previous five years. Minors, diplomats, and people already holding valid visas for Ecuador are exempt. Alternatively, tourists without a police check can ask immigration authorities to do a background check on their immigration system at the border.
+* Due to the declaration of a state of "internal armed conflict", when entering via land or river borders from Peru or Colombia, you must present an apostilled police check in Spanish covering the previous 5 years. Minors, diplomats, and people already holding valid visas for Ecuador are exempt. Alternatively, tourists without a police check can ask immigration authorities to do a background check on their immigration system at the border.
 * You can stay in Ecuador for up to 90 days without a visa. If you want to stay longer, you'll need a visa. If you overstay, you may be fined and barred from future visits.
+* You'll need to show proof of vaccination against yellow fever if you have spent more than 10 days in Bolivia, Brazil, Colombia or Peru before entering Ecuador. Check directly with the Ecuadorian authorities if you require an exemption.
 * Unmarked minefields are in the Cordillera del Condor region near the Peruvian border. Seek local advice before travelling there.
 
 Full travel advice: [Travel](#travel)

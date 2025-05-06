@@ -52,12 +52,13 @@ The [Governing Council of the Special Regime of Galapagos](https://www.gobierno
 
 #### Yellow fever vaccination
 
-You'll need a valid yellow fever vaccination certificate to enter Ecuador from endemic countries including Brazil, Dominican Republic, Congo and Uganda.Some airlines may want to see the certificate before departure to Ecuador.
+You'll need a valid yellow fever vaccination certificate to enter Ecuador if you have spent more than 10 days in Bolivia, Brazil, Colombia or Peru, or if you are travelling from endemic countries  such as Dominican Republic, Congo and Uganda. Some airlines may want to see the certificate before departure to Ecuador.
 
 Find out about returning to Australia [after exposure to yellow fever](https://www.health.gov.au/diseases/yellow-fever).
 
 **More information:**
 
+* [Requirement for yellow fever vaccination from 12 May 2025](https://www.salud.gob.ec/comunicado-ecuador-exigira-certificado-de-vacunacion-contra-la-fiebre-amarilla-a-viajeros-de-peru-colombia-bolivia-y-brasil-desde-el-12-de-mayo-de-2025/) (in Spanish)
 * [Countries with a risk of yellow fever](https://www.who.int/publications/m/item/countries-with-risk-of-yellow-fever-transmission-and-countries-requiring-yellow-fever-vaccination-(november-2022))
 
 #### Travelling with children

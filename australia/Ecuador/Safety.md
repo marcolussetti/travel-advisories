@@ -46,7 +46,7 @@ In January 2024, Ecuador declared a nationwide state of "internal armed conflict
 
 The security situation may change at short notice. Check for updates from Ecuadorian authorities.
 
-A separate state of emergency had been in place in some provinces for several months until early April 2025. 
+There is a separate state of emergency in place affecting the provinces of Guayas, Los Ríos, Manabí, Orellana, Santa Elena, El Oro, Sucumbíos, Azuay (Ponce Enríquez canton), and Pichincha (the Metropolitan District of Quito). In several cantons within the above provinces, there is a curfew from 10pm to 5am. Check with local authorities for more information on restrictions in place.
 
 During a state of emergency, police and military can:
 
