@@ -1,11 +1,11 @@
 {
     "name": "Honduras",
-    "update_reason": "Removal of information about Tropical Storm Sara ('Warnings and insurance' page).",
+    "update_reason": "Information on US embassy advisory issued regarding potential mass shooting events in Tegucigalpa (\u2018Warnings and insurance\u2019 page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Honduras/Warnings and insurance.md",
-            "update_date": "2024-12-05T12:06:09+00:00"
+            "update_date": "2025-05-07T00:29:01+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Honduras/Getting help.md"
         }
     ],
-    "update_date": "2024-12-05T12:06:09+00:00"
+    "update_date": "2025-05-07T00:29:01+01:00"
 }

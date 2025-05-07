@@ -16,6 +16,10 @@ There have been small-scale clashes between anti-government groups and governmen
 
 Be extremely cautious in Bokeo Province, particularly near the borders with Myanmar and Thailand, and around the Golden Triangle Special Economic Zone. Armed groups carry out employment scams and drug trafficking in this area.
 
+## Bokeo Province
+
+There are ongoing clashes between the Lao army and unidentified armed groups on the Laos-Thailand border in Bokeo province (Northwest Laos). Local officials have requested raised security levels, these will include an increase in military checkpoints and troop numbers. Consider any travel plans to the province carefully.
+
 [Previous
 :
 Safety and security](/foreign-travel-advice/laos/safety-and-security)

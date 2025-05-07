@@ -1,11 +1,11 @@
 {
     "name": "India",
-    "update_reason": "Wagah-Atarri border is closed (See 'Warnings and insurance', 'Safety and security' and 'Regional risks' pages).",
+    "update_reason": "Addition of information following military activity by India and Pakistan on 6 May in and around Pakistan-administered Kashmir and the Line of Control, potential disruption to flights to/from India, the Government is reportedly holding Civil Defence mock drills on 7 May  ('Warnings and insurance' page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/India/Warnings and insurance.md",
-            "update_date": "2025-04-24T14:27:52+01:00"
+            "update_date": "2025-05-07T06:35:38+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/India/Getting help.md"
         }
     ],
-    "update_date": "2025-04-24T14:27:52+01:00"
+    "update_date": "2025-05-07T06:35:38+01:00"
 }

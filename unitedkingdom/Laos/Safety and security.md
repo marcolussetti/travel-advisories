@@ -175,6 +175,8 @@ Find out what you can do to [prepare for and respond to extreme weather and natu
 
 The rainy season in Laos normally runs from May to October, at the same time as the typhoon season in south-east Asia. Mountain areas are vulnerable to landslides in the rainy season and the Mekong’s river basins and surrounding areas are likely to be flooded. Meteorologists predict that tropical storms could be more forceful and more frequent in the future, this can amplify monsoon storms and rainfall. Away from river basins there is a high risk of flash flooding causing falling trees, damage to buildings and transport infrastructure; be aware landslides may expose undiscovered UXO.
 
+During the monsoon season local road transport is often disrupted due to conditions. Cross country journeys can often take substantially longer than posted schedules and have limited mobile phone coverage. Travel with extra water and food supplies.
+
 The Mekong River Commission posts [official updates on the Mekong River](http://ffw.mrcmekong.org/). Travel to some provinces can be seriously disrupted during this time. Monitor local news and check [World Meteorological Organization weather reports](https://worldweather.wmo.int/en/country.html?countryCode=121).
 
 [Previous

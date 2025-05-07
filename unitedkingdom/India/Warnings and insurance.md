@@ -1,13 +1,15 @@
 # Warnings and insurance
 
 Still current at:
-:   25 April 2025
+:   7 May 2025
 
 Updated:
-:   24 April 2025
+:   7 May 2025
 
 Latest update:
-:   Wagah-Atarri border is closed (See 'Warnings and insurance', 'Safety and security' and 'Regional risks' pages).
+:   Addition of information following military activity by India and Pakistan on 6 May in and around Pakistan-administered Kashmir and the Line of Control, potential disruption to flights to/from India, the Government is reportedly holding Civil Defence mock drills on 7 May ('Warnings and insurance' page)
+
+On the night of 6 May (UK Time), the Indian Ministry of Defence stated it had struck nine sites in Pakistan and Pakistan-administered Kashmir. In response, there are reports of Pakistani artillery fire across the Line of Control. We are aware of potential disruption to flights to/from India and are monitoring closely. British nationals should contact their airline for up-to-date information. According to media reports on 6 May, the Indian Government announced a Civil Defence mock drill on 7 May in several states across India. The drill may include temporary power cuts or blackouts, loud air raid sirens, suspension of mobile signals, or traffic diversions. Authorities may also conduct evacuation exercises or hold public announcements. We are continuing to monitor the situation closely. British nationals should stay up to date with our travel advice and follow the advice of local authorities.
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -15,7 +17,7 @@ Your travel insurance could be invalidated if you travel against advice from the
 
 ### India-Pakistan border area
 
-FCDO advises against all travel within 10km of the India-Pakistan border. The Wagah-Attari border is closed.
+FCDO advises against all travel within 10km of the India-Pakistan border. The Wagah-Attari border crossing is closed.
 
 ### Jammu and Kashmir
 

@@ -1,13 +1,15 @@
 # Warnings and insurance
 
 Still current at:
-:   25 April 2025
+:   7 May 2025
 
 Updated:
-:   24 April 2025
+:   7 May 2025
 
 Latest update:
-:   Information added on the Pakistan-India border area ('Warnings and insurance' page).
+:   Addition of information following military activity by India and Pakistan on 6 May in and around Pakistan-administered Kashmir and the Line of Control, Pakistan airspace closed for at least 48hrs ('Warnings and insurance' page)
+
+On the night of 6 May (UK Time), the Indian Ministry of Defence stated it had struck nine sites in Pakistan and Pakistan-administered Kashmir. In response, there are reports of Pakistani artillery fire across the Line of Control.  On the night of 6 May (UK Time) Pakistan Civil Aviation Authority indicated that it was closing Pakistan airspace for at least 48 hours. There are reports of flights being diverted. British nationals should contact their airline for up-to-date information. We are continuing to monitor the situation closely. British nationals should stay up to date with our travel advice and follow the advice of local authorities.
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 

@@ -23,12 +23,6 @@ Attacks against critical national infrastructure are likely. Attacks have also b
 * monitor local media reports
 * follow the advice of the local authorities
 
-## Abha International Airport
-
-FCDO advises against all but essential travel to Abha International Airport in Asir Province.
-
-The last incident was in 2022 when a number of Houthi led attacks targeted Abha International Airport, resulting in multiple civilian injuries and one death.
-
 ## Military zones and border posts
 
 The Saudi Tourism Authority has banned tourist trips to military zones and border posts.

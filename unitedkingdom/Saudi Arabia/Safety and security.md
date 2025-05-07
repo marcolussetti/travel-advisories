@@ -223,6 +223,10 @@ Some cities have an automated traffic system. Anyone caught speeding or committi
 
 Vessels operating in the Gulf of Oman, Northern Arabian Sea, Gulf of Aden and Bab El Mandeb areas may be at increased risk of attack by pirates. See [piracy and armed robbery at sea](https://www.gov.uk/guidance/sea-river-and-piracy-safety).
 
+### Air travel
+
+Abha International Airport: The last incident was in 2022 when a number of Houthi led attacks targeted Abha International Airport, resulting in multiple civilian injuries and one death.
+
 ## Extreme weather and natural disasters
 
 Find out what you can do to prepare for and respond to [extreme weather and natural hazards](https://www.gov.uk/guidance/tropical-cyclones).

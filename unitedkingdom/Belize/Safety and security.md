@@ -84,7 +84,7 @@ Only take registered taxis with green licence plates. Always ask the fare before
 
 ### Air Travel
 
-Following the hijacking of a small passenger aircraft on an internal flight on 17 April 2025, the Belize Airports Authority has announced security enhancements across Belize’s municipal airstrips. There may be disruption to domestic air travel. Allow extra time and check with your tour operator or airline before travelling.
+Following the hijacking of a small passenger aircraft on an internal flight on 17 April 2025, the Belize Airports Authority has announced security enhancements across Belize’s municipal airstrips. You may wish to allow extra time in case of disruption to domestic air travel.
 
 ## Extreme weather and natural disasters
 

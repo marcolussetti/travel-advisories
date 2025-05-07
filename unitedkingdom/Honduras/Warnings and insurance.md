@@ -1,13 +1,15 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   7 May 2025
 
 Updated:
-:   5 December 2024
+:   7 May 2025
 
 Latest update:
-:   Removal of information about Tropical Storm Sara ('Warnings and insurance' page).
+:   Information on US embassy advisory issued regarding potential mass shooting events in Tegucigalpa (‘Warnings and insurance’ page)
+
+The [US embassy have issued an advisory](https://x.com/usembassyhn/status/1919832618914480568) on 6 May that says:”Security Alert for U.S. Citizens: The U.S. Embassy has received information about a possible mass shooting threat today, May 6, and again on May 16 in Tegucigalpa. The locations mentioned as possible targets are Elliot Dover Christian School, the Government Civic Center, and an unidentified shopping mall. U.S. citizens are strongly advised to avoid these areas.”
 
 ## Before you travel
 

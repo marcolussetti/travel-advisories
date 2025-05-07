@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   1 May 2025
+:   7 May 2025
 
 Updated:
-:   30 April 2025
+:   6 May 2025
 
 Latest update:
-:   New information added about air travel (‘Safety and security’ page).
+:   Updated information about air travel (‘Safety and security’ page)
 
 ## Before you travel
 

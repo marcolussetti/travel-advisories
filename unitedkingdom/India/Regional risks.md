@@ -6,7 +6,7 @@ You should also read [FCDO’s overall travel advice](/foreign-travel-advice/ind
 
 ## India-Pakistan border area and western India
 
-FCDO advises against all travel within 10km of the India-Pakistan border. The Wagah-Attari border is closed.
+FCDO advises against all travel within 10km of the India-Pakistan border. The Wagah-Attari border crossing is closed.
 
 The India-Pakistan border in Gujarat and Rajasthan is unmarked in some areas. Approaching it away from an official crossing point could be dangerous. Where it is unmarked, you could enter Pakistan illegally.
 

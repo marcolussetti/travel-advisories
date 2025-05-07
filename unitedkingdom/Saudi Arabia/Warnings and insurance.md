@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   16 April 2025
+:   7 May 2025
 
 Updated:
-:   15 April 2025
+:   6 May 2025
 
 Latest update:
-:   Temporary entry restrictions from 13 April for entering Mecca (see 'Entry requirements' on 'Pilgrimage' page).
+:   FCDO no longer advises against all but essential travel to Abha International Airport.
 
-![](https://assets.publishing.service.gov.uk/media/60057234d3bf7f33b6d83f89/FCDO_TA_034_-_Saudi_Arabia_Travel_Advice_Ed2_WEB__002_-.jpg)
+![](https://assets.publishing.service.gov.uk/media/681a1ee1fb59a222d4f17336/FCDO__TA__034_-_Saudi_Arabia_Travel_Advice_Ed3__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/60057234d3bf7f33bba7efe9/FCDO_TA_034_-_Saudi_Arabia_Travel_Advice_Ed2-.pdf)
+[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/681a1ee2fb59a222d4f17337/FCDO__TA__034_-_Saudi_Arabia_Travel_Advice_Ed3.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -24,10 +24,6 @@ FCDO advises against:
 
 * all travel to within 10km of the border with Yemen
 * all but essential travel to areas between 10km and 80km from the border with Yemen
-
-### Abha International Airport
-
-FCDO advises against all but essential travel to Abha International Airport in Asir Province.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/saudi-arabia/regional-risks).
 
