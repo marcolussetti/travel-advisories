@@ -4,17 +4,17 @@
 
 **Health resources**
 
-[Colombia Traveler Health Information](https://wwwnc.cdc.gov/travel/destinations/traveler/none/colombia?s_cid=ncezid-dgmq-travel-single-001) (source: CDC)
+[Colombia Traveler Health Information](https://wwwnc.cdc.gov/travel/destinations/traveler/none/colombia?s_cid=ncezid-dgmq-travel-single-001)
 
-[Medical Tourism information](https://wwwnc.cdc.gov/travel/yellowbook/2024/health-care-abroad/medical-tourism) (source: CDC)
+[Medical Tourism information](https://wwwnc.cdc.gov/travel/yellowbook/2024/health-care-abroad/medical-tourism)
 
-[International Air Quality Index](https://aeronet.gsfc.nasa.gov/new_web/aqforecast) (source: NASA)
+[International Air Quality Index](https://aeronet.gsfc.nasa.gov/new_web/aqforecast)
 
-[Insurance Coverage Overseas](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) (source: Department of State)
+[Insurance Coverage Overseas](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html)
 
-[Colombia Health Information](https://www.who.int/countries/col/) (source: WHO)
+[Colombia Health Information](https://www.who.int/countries/col/) 
 
-[List of Hospitals and Doctors in Colombia](https://common.usembassy.gov/wp-content/uploads/sites/57/2022/05/Health-service-providers-2022.pdf) (source: U.S. Embassy in Bogota)
+[List of Hospitals and Doctors in Colombia](https://common.usembassy.gov/wp-content/uploads/sites/57/2022/05/Health-service-providers-2022.pdf)
 
 **Emergency numbers  
 Dial 123** for medical emergencies.

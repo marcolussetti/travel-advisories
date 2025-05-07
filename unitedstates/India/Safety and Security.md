@@ -119,3 +119,24 @@ Please see our [information for victims of crime](https://travel.state.gov/con
 **Domestic Violence:** U.S. citizen victims of domestic violence may contact the Embassy or Consulates for assistance.
 
 **Tourism:** The tourism industry is unevenly regulated, and safety inspections for equipment and facilities do not commonly occur. Hazardous areas/activities are not always identified with appropriate signage, and staff may not be trained or certified either by the host government or by recognized authorities in the field. In the event of an injury, appropriate medical treatment is typically available only in/near major cities. First responders are generally unable to access areas outside of major cities and to provide urgent medical treatment. U.S. citizens are encouraged to purchase medical evacuation insurance. See our webpage for more [information on insurance providers for overseas coverage.](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html?cq_ck=1708701048867)
+
+**Weather and Natural Disasters**
+
+**Earthquakes**
+
+* Northern India is highly susceptible to earthquakes.
+* Highest risk areas (ranked 5 on a scale of 1 to 5) include Srinagar, Himachal Pradesh, Rishikesh, Dehradun, northern Punjab, northwest Gujarat, northern Bihar, and the entire northeast.
+* High damage risk areas (ranked 4) include Jammu and Kashmir, eastern Punjab, Haryana, northern Uttar Pradesh, central Bihar, and northern West Bengal.
+* New Delhi is in zone 4.
+
+**Flooding**
+
+* Severe flooding is common in hilly and mountainous areas throughout India.
+* In 2013, flooding in Uttarakhand, Himachal Pradesh, Tamil Nadu, and other areas killed thousands and temporarily stranded many U.S. citizens.
+
+**Typhoons and cyclones**
+
+* Typhoons and cyclones are common along the Indian coasts, especially in Tamil Nadu, Andhra Pradesh, Odisha, and West Bengal.
+* These events can result in massive loss of life.
+* Tourists and residents in these areas should stay alert during severe weather, monitor local media, and follow municipal warnings.
+* Have backup plans for power loss and unavailability of goods and services, including supplies for several days.
