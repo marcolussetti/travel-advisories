@@ -16,7 +16,7 @@ Before you travel, check with your transportation company about passport require
 
 #### Regular Canadian passport
 
-Your passport must be valid to visit Turks and Caicos Islands.
+Your passport must be valid for at least 6 months beyond the date you expect to leave the Turks and Caicos Islands.
 
 #### Passport for official travel
 
@@ -39,10 +39,16 @@ Different entry rules may apply when travelling with a temporary passport or an 
 
 ### Visas
 
-Tourist visa: not required for stays up to 90 days  
+Tourist visa: not required  
 Business visa: required  
-Student visa: required  
-Work permit: required
+Work permit: required  
+Student visa: required
+
+### Length of stay
+
+As a tourist, you may be granted a stay of up to 90 days. You can extend your stay by visiting an office of the Ministry of Immigration and Border Services and paying for an extension.
+
+[Turks and Caicos Islands Ministry of Immigration and Border Services](https://gov.tc/bordercontrol/)
 
 ### Other entry requirements
 

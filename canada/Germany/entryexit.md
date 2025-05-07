@@ -2,7 +2,7 @@
 
 ## Entry and exit requirements
 
-Starting September 16, 2024, for a period of six months, German authorities will conduct controls at all land border crossings. Local authorities may ask you to present your travel documents.
+German authorities may conduct controls at all land border crossings until September 15, 2025. You may be asked to present your travel documents when you enter Germany from within the Schengen area.
 
 [More information on temporary border controls](#controls)
 
@@ -26,6 +26,8 @@ If you plan to stay in the Schengen area for a longer period of time, you will n
 ### Temporary border controls
 
 The German government has reintroduced internal border controls at certain border crossings. You may be required to pass through immigration controls when entering Germany, even if arriving from another Schengen area country.
+
+[Temporary reintroduction of Border Control](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area/temporary-reintroduction-border-control_en) – Migration and Home Affairs, European Commission
 
 ### Passport
 

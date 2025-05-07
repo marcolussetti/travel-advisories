@@ -1,7 +1,7 @@
 {
     "name": "Pakistan",
-    "update_reason": "Risk levels \u2013 clarification of border crossing locations",
-    "update_date": "2025-05-02T16:34:00",
+    "update_reason": "Safety and security \u2013 added information on military clashes with India",
+    "update_date": "2025-05-06T23:46:00",
     "sections": {
         "risk": "canada/Pakistan/risk.md",
         "security": "canada/Pakistan/security.md",

@@ -2,6 +2,10 @@
 
 ## Natural disasters and climate
 
+### Climate change
+
+Climate change is affecting the Turks and Caicos Islands. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local media for the latest information.
+
 ### Hurricane season
 
 Hurricanes usually occur from mid-May to the end of November. During this period, even small tropical storms can quickly develop into major hurricanes.

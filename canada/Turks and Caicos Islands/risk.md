@@ -2,6 +2,6 @@
 
 ## Risk level
 
-### Turks and Caicos - Take normal security precautions
+### Turks and Caicos Islands - Exercise a high degree of caution
 
-[Take normal security precautions](#levels "Risk Levels") in the Turks and Caicos Islands.
+[Exercise a high degree of caution](#levels "Risk Levels") in the Turks and Caicos Islands due to crime.

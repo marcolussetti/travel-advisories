@@ -2,6 +2,17 @@
 
 ## Safety and security
 
+### Mass gatherings in Rome and the Vatican
+
+Large crowds are expected in Rome and the Vatican during the Papal conclave beginning on May 7, 2025.
+
+If you are in Rome or the Vatican:
+
+* follow the instructions of local authorities
+* monitor local media for information on ongoing demonstrations
+
+[More about mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
+
 ### Crime
 
 #### Petty crime

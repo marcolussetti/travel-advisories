@@ -2,6 +2,18 @@
 
 ## Safety and security
 
+On May 7, 2025, the Indian military conducted air strikes on several targets in Pakistan-administered Kashmir and Punjab Province, resulting in casualties. There has also been artillery fire across the Line of Control.
+
+Tensions could increase and the situation could deteriorate rapidly.
+
+There are air travel disruptions and local authorities could take additional measures, such as closing the airspace.
+
+If you are in or near the affected areas:
+
+* monitor local and international media to stay informed of the rapidly evolving situation
+* follow the instructions of local authorities, including air-raid sirens and evacuation orders
+* be vigilant and prepared to shelter in place
+
 ### Security situation
 
 In the context of recent developments in Canada and in India, there are calls for protests and some negative sentiment towards Canada in traditional media and on social media. Demonstrations, including anti-Canada protests, could occur and Canadians may be subjected to intimidation or harassment. In Delhi and the National Capital Region, you should keep a low profile with strangers, and not share your personal information with them. Avoid crowded areas, including public transportation. You should always travel with someone and inform a friend or a family member of your travel plans.

@@ -6,46 +6,33 @@ You must abide by local laws.
 
 Learn about what you should do and how we can help if you are [arrested or detained abroad](http://travel.gc.ca/assistance/emergency-info/arrest-detention).
 
-Turks and Caicos Islands are a British Overseas Territory. Canada and the United Kingdom are signatories to the European Convention on the Transfer of Sentenced Persons. This enables a Canadian imprisoned in the United Kingdom or one of its territories to request a transfer to a Canadian prison to complete a sentence. The transfer requires the agreement of both Canadian and British authorities.
+The Turks and Caicos Islands are a British Overseas Territory.
 
 ### Drugs
 
 Penalties for possession, use or trafficking of illegal drugs are severe. Convicted offenders can expect jail sentences and heavy fines.
 
+* Pack your own luggage and monitor it closely at all times
+* Never transport other people’s packages, bags or suitcases
+
 [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
-
-### Firearms
-
-You need to obtain prior permission from the Commissioner of Police to import firearms.
-
-[Customs Department](http://customs.gov.tc/) - Turks and Caicos 
-
-### Marriages
-
-If you’re planning to marry in Turks and Caicos Islands, ensure that you meet all requirements and have all necessary documents before leaving Canada. Most countries require a certificate stating that there are no Canadian impediments to your marriage.
-
-[Marriage outside Canada](https://travel.gc.ca/travelling/documents/marriage-overseas)
-
-### Investments
-
-If you plan on buying property or making other investments in Turks and Caicos Islands, seek legal advice in Canada and in Turks and Caicos Islands. Do so before making commitments. Related disputes could take time and be costly to resolve.
 
 ### Dual citizenship
 
-Dual citizenship is legally recognized in Turks and Caicos Islands.
+Dual citizenship is legally recognized in the Turks and Caicos Islands.
 
-If you are a Canadian citizen, but also a citizen of Turks and Caicos Islands, our ability to offer you consular services may be limited while you're there. You may also be subject to different [entry/exit requirements](#entryexit).
+If you are a Canadian citizen, but also a citizen of the Turks and Caicos Islands, our ability to offer you consular services may be limited while you're there. You may also be subject to different [entry/exit requirements](#entryexit).
 
 [Dual citizens](http://travel.gc.ca/travelling/documents/dual-citizenship)
 
 ### International Child Abduction
 
-The Hague Convention on the Civil Aspects of International Child Abduction is an international treaty. It can help parents with the return of children who have been removed to or retained in certain countries in violation of custody rights. It does not apply between Canada and Turks and Caicos Islands.
+The Hague Convention on the Civil Aspects of International Child Abduction is an international treaty. It can help parents with the return of children who have been removed to or retained in certain countries in violation of custody rights. It does not apply between Canada and the Turks and Caicos Islands.
 
-If your child was wrongfully taken to, or is being held in Turks and Caicos Islands by an abducting parent:
+If your child was wrongfully taken to, or is being held in the Turks and Caicos Islands by an abducting parent:
 
 * act as quickly as you can
-* consult a lawyer in Canada and in Turks and Caicos Islands to explore all the legal options for the return of your child
+* consult a lawyer in Canada and in the Turks and Caicos Islands to explore all the legal options for the return of your child
 * report the situation to the nearest Canadian government office abroad or to Global Affairs Canada by calling the Emergency Watch and Response Centre
 
 If your child was removed from a country other than Canada, consult a lawyer to determine if The Hague Convention applies.
@@ -59,20 +46,43 @@ Be aware that Canadian consular officials cannot interfere in private legal matt
 * [Canadian embassies and consulates by destination](https://travel.gc.ca/assistance/embassies-consulates)
 * [Request emergency assistance](https://travel.gc.ca/assistance/emergency-assistance)
 
+### Imports
+
+Importing firearms, ammunition, and Hawaiian slings, which are spearfishing equipment, is strictly prohibited unless you obtain prior permission from the Commissioner of Police. Declaring weapons or ammunition with an airline carrier does not grant permission to import these items into the Turks and Caicos Islands.
+
+Penalties include a minimum 12-year prison sentence.
+
+#### Useful links
+
+* [Turks and Caicos Islands Customs Department](https://customs.gov.tc/)
+* [Firearms Ordinance](https://www.gov.tc/agc/component/edocman/18-09-firearms-ordinance-2/viewdocument/557?Itemid=) – Turks and Caicos Islands
+
 ### Driving
 
 Traffic drives on the left.
 
-You’ll need a valid Canadian driver’s licence to rent a vehicle. You must obtain a local licence from the Road Safety Department if you’ve been on the island for more than one month.
+You must be at least 17 years old to drive a car in the Turks and Caicos Islands.
 
-You should carry an international driving permit.
+You can drive using a valid Canadian driver’s licence for up to 30 days. Beyond that, you must obtain a visitor’s driving permit, which is valid for 3 months.
 
-Liability insurance is mandatory.
+Third-party insurance is mandatory. Otherwise, you could face a $1,000 USD fine and/or a 3-month imprisonment.
 
-[International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
+The speed limits are 20 mph in towns and on side roads and 40 mph on the highway.
+
+[Turks and Caicos Islands Department of Motor Vehicles](https://gov.tc/dmv/)
+
+### Investments
+
+Disputes related to property acquisition or other investments are costly and take time to resolve.
+
+If you plan to buy property or make other investments in the Turks and Caicos Islands:
+
+* seek legal advice in Canada and in the Turks and Caicos Islands before making commitments
+* choose your own lawyer
+* avoid hiring a lawyer recommended by a seller
 
 ### Money
 
-The currency in Turks and Caicos Islands is the U.S. dollar (USD).
+The currency of the Turks and Caicos Islands is the U.S. dollar (USD).
 
-ATMs are located throughout Providenciales. Other islands may only have one ATM.
+Most ATMs are located on Providenciales. Other islands may have very few or no ATMs.

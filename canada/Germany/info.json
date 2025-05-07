@@ -1,7 +1,7 @@
 {
     "name": "Germany",
-    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
-    "update_date": "2025-04-22T14:27:00",
+    "update_reason": "Entry and exit requirements \u2013 updated information on temporary border controls",
+    "update_date": "2025-05-06T14:36:00",
     "sections": {
         "risk": "canada/Germany/risk.md",
         "security": "canada/Germany/security.md",

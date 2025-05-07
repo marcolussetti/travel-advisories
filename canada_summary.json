@@ -428,7 +428,7 @@
     {
         "destination": "France",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-05-05T12:48:51",
+        "last_updated": "2025-05-06T12:40:27",
         "details_url": "https://travel.gc.ca/destinations/france"
     },
     {
@@ -464,7 +464,7 @@
     {
         "destination": "Germany",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-04-22T14:27:55",
+        "last_updated": "2025-05-06T14:36:07",
         "details_url": "https://travel.gc.ca/destinations/germany"
     },
     {
@@ -542,7 +542,7 @@
     {
         "destination": "Honduras",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-04-29T10:48:21",
+        "last_updated": "2025-05-06T19:34:44",
         "details_url": "https://travel.gc.ca/destinations/honduras"
     },
     {
@@ -566,7 +566,7 @@
     {
         "destination": "India",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-04-29T10:50:24",
+        "last_updated": "2025-05-06T23:42:19",
         "details_url": "https://travel.gc.ca/destinations/india"
     },
     {
@@ -596,13 +596,13 @@
     {
         "destination": "Israel, the West Bank and the Gaza Strip",
         "risk_level": "Avoid non-essential travel (with regional advisories)",
-        "last_updated": "2025-05-01T14:24:23",
+        "last_updated": "2025-05-06T12:38:31",
         "details_url": "https://travel.gc.ca/destinations/israel-the-west-bank-and-the-gaza-strip"
     },
     {
         "destination": "Italy",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-04-14T14:13:38",
+        "last_updated": "2025-05-06T14:40:45",
         "details_url": "https://travel.gc.ca/destinations/italy"
     },
     {
@@ -926,7 +926,7 @@
     {
         "destination": "Norway",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2025-05-05T14:50:32",
+        "last_updated": "2025-05-06T08:16:33",
         "details_url": "https://travel.gc.ca/destinations/norway"
     },
     {
@@ -938,7 +938,7 @@
     {
         "destination": "Pakistan",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-05-02T16:34:09",
+        "last_updated": "2025-05-06T23:46:09",
         "details_url": "https://travel.gc.ca/destinations/pakistan"
     },
     {
@@ -1178,7 +1178,7 @@
     {
         "destination": "Sri Lanka",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-04-29T10:52:10",
+        "last_updated": "2025-05-06T03:07:15",
         "details_url": "https://travel.gc.ca/destinations/sri-lanka"
     },
     {
@@ -1279,8 +1279,8 @@
     },
     {
         "destination": "Turks and Caicos Islands",
-        "risk_level": "Take normal security precautions",
-        "last_updated": "2025-04-17T14:36:36",
+        "risk_level": "Exercise a high degree of caution",
+        "last_updated": "2025-05-06T11:30:17",
         "details_url": "https://travel.gc.ca/destinations/turks-and-caicos-islands"
     },
     {

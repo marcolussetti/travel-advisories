@@ -8,6 +8,18 @@ The Government of Canada may not be in a position to provide consular assistance
 * the Government of Pakistan prohibits entry
 * advance permission is required for entry
 
+On May 7, 2025, the Indian military conducted air strikes on several targets in Pakistan-administered Kashmir and Punjab Province, resulting in casualties. There has also been artillery fire across the Line of Control.
+
+Tensions could increase and the situation could deteriorate rapidly.
+
+Pakistani authorities have temporarily closed the country’s airspace, which has resulted in air travel disruptions.
+
+If you are in or near the affected areas:
+
+* monitor local and international media to stay informed of the rapidly evolving situation
+* follow the instructions of local authorities, including air-raid sirens and evacuation orders
+* be vigilant and prepared to shelter
+
 ### Security situation
 
 Security forces continue to be on high alert in the following cities:
