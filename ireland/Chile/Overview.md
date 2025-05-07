@@ -6,9 +6,13 @@ Normal Precautions
 
 ### **Travel Alert**
 
-Chile is currently experiencing wildfires in several regions, particularly in the central and southern regions of La Araucanía, Ñuble and Biobío, as well as in the O’Higgins and Maule regions. Wildfires are dangerous, unpredictable, and fast moving. Travellers should avoid the affected areas, follow official channels for up-to-date information, and follow the instructions of local authorities and emergency services, particularly with regards to evacuation orders.
+### **Tsunami alert**
 
-For further guidance, visit the website of [SENAPRED](https://senapred.cl/informate/alertas), Chile’s National Disaster Prevention and Response Service (in Spanish).
+On 02 May 2025, Chilean authorities issued a tsunami alert and evacuation order for parts of the Magallanes region following an earthquake off the coast of southern Chile.
+
+Irish citizens in the affected area should follow the guidance of local authorities and monitor local media for updates.
+
+For further guidance, visit the website of [SENAPRED](https://senapred.cl/informate/alertas), Chile’s National Disaster Prevention and Response Service (Servicio Nacional de Prevención y Respuesta ante Desastres).
 
 ### **General Travel Advice**
 

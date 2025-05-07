@@ -6,11 +6,7 @@ Normal Precautions
 
 ### Travel Alert
 
-The widespread electricity outages across Spain on Monday 28 April have now been resolved. Some disruption to services, including transport services, remains. We recommend following the advice and instructions of the local authorities at all times and consulting with your travel provider before travelling.
-
-If you are in need of emergency consular assistance, please contact DFAT +353 1 408 2527.
-
-Spain can at times experience extreme weather conditions, including flooding, which can adversely affect travel plans. You can monitor information and alerts, including severe weather warnings, on the website of the Spanish Meteorological Agency, [**AEMET**](https://www.aemet.es/en/portada). Citizens are advised to check the latest weather information before they travel and to follow the advice of the local authorities.
+Spain can at times experience extreme weather conditions, including flooding, which can adversely affect travel plans. You can monitor information and alerts, including severe weather warnings, on the website of the Spanish Meteorological Agency, [AEMET](https://www.aemet.es/en/portada). Citizens are advised to check the latest weather information before they travel and to follow the advice of the local authorities.
 
 As part of their Safe Tourism campaign, the Spanish National Police have published useful information for tourists, which can be found on their [**website**](https://www.policia.es/miscelanea/participacion_ciudadana/pasaporte_turista_2024.pdf)**.**
 

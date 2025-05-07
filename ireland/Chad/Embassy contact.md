@@ -8,8 +8,8 @@ Monday to Thursday 09:00-16:00; Friday 09:00-12:00
 
 ### Embassy of Ireland, Nigeria
 
-11 Negro Crescent   
-Maitama District   
+European Union Crescent   
+Central Business District   
 Abuja   
 Nigeria
 

@@ -6,11 +6,13 @@ Normal Precautions
 
 ### **Travel Alert**
 
-### **Passing of Pope Francis and Funerary Arrangements**
+### **Conclave and Installation of new Pope**
 
-The Vatican has confirmed the death of Pope Francis on 21 April. Following the Pope’s passing, it is expected that there will be significant crowds gathering in Rome over the coming days, particularly in the area of St. Peter’s Square and Via della Conciliazione. Irish citizens who are gathering in Rome to pay their respects should monitor local news and consult Italian authorities for the latest updates. The Embassy of Ireland to the Holy See and the Embassy of Ireland to Italy are monitoring the situations closely and will be posting relevant updates on their social media pages.
+The Vatican has confirmed that the Conclave to elect the new Pope will commence on Wednesday 7th May. It is expected that there will be significant crowds gathering in Rome over the coming period, particularly in the area of St. Peter’s Square and Via della Conciliazione. These large gatherings are likely to continue until the installation of the new Pope, which will take place in the days following the conclusion of the Conclave.
 
-If you wish to attend the public elements of the funeral rites, including the lying in state, please be aware that queuing will be mostly outdoors and waiting times are expected to be very long. You should check the weather forecast and ensure that you have adequate food and water for the duration of your wait.
+Irish citizens who are gathering in Rome during this time should monitor local news and consult Italian authorities for the latest updates. The Embassy of Ireland to the Holy See and the Embassy of Ireland to Italy are monitoring the situations closely and will be posting relevant updates on their social media pages.
+
+If you intend to travel to St. Peter’s Square during this period, please monitor the weather forecast and ensure that you have adequate food and water. To enter the area surrounding St. Peter’s Square, additional security checks may be expected.
 
 If you are in need of emergency assistance while in Rome, the following are the emergency numbers for Italy:
 

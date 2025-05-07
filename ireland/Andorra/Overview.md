@@ -4,12 +4,6 @@
 
 Normal Precautions
 
-### **Travel Alert**
-
-The widespread electricity outages across Andorra on Monday 28 April have now been resolved. Some disruption to services, including transport services, remains. We recommend following the advice and instructions of the local authorities at all times and consulting with your travel provider before travelling.
-
-If you are in need of emergency consular assistance, please contact DFAT +353 1 408 2527.
-
 ### **General Travel Advice**
 
 Irish citizens need a valid passport to enter Andorra. A passport card cannot be used to enter Andorra. As all travel to Andorra requires transit, citizens intending to travel to Andorra are advised to consult the travel advice [**for France**](/en/dfa/overseas-travel/advice/france/) or [**for Spain**](/en/dfa/overseas-travel/advice/spain/), depending on their travel arrangements.
