@@ -54,7 +54,7 @@ Carry a copy of your prescription or a letter from your doctor stating:
 
 #### Insect-borne diseases
 
-[Yellow fever](http://www.health.gov.au/yellowfever) is a risk in Bolivia. Yellow fever is a potentially fatal virus spread by mosquitoes. It's prevented by vaccination. Get vaccinated before you travel. You may be asked to show proof of your vaccination at some ports of entry in Bolivia.  
+[Yellow fever](http://www.health.gov.au/yellowfever) is a risk in Bolivia. Yellow fever is a potentially fatal virus spread by mosquitoes. It's prevented by vaccination. Get vaccinated before you travel. You may be asked to show proof of your vaccination at some ports of entry in Bolivia or to enter some countries after visiting Bolivia. Check their entry requirements before travelling. 
 
 [Zika virus](http://www.health.gov.au/internet/main/publishing.nsf/Content/ohp-zika-countries.htm) is widespread in Bolivia. If you're pregnant, the Australian Department of Health recommends you:
 

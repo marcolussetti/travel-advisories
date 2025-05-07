@@ -2,7 +2,9 @@
 
 Latest update
 
-Indian authorities have closed the Integrated Check Post (ICP) at Attari Border (Land border between India and Pakistan in the state of Punjab) with immediate effect. If you have plans to travel to India from Pakistan using any land borders, consider making alternate arrangements and follow the advice of local authorities.
+Due to the current security situation between India and Pakistan, we recommend you monitor local media for updates, stay alert, take official warnings seriously and follow the advice of local authorities. There may be flight disruptions. Some airports in India (particularly in the north west) may close, and airline schedules may be affected. Check with your airline before arriving at the airport.  
+  
+We continue to advise do not travel to the Union Territory of Jammu and Kashmir, the entire India-Pakistan border, or Manipur. This doesn’t apply to the Union Territory of Ladakh, which was established as its own union territory of India in October 2019, separate from the Union Territory of Jammu and Kashmir. India has closed the Attari border crossing with Pakistan.
 
 Advice Level summary
 
@@ -41,6 +43,9 @@ due to the high risk of violence (see '[Safety](#safety)').
 
 ### Safety
 
+* Due to the current security situation between India and Pakistan, we recommend you monitor local media for updates, stay alert, take official warnings seriously and follow the advice of local authorities. There may be flight disruptions. Some airports in India (particularly in the north west) may close, and airline schedules may be affected. Check with your airline before arriving at the airport.
+* We continue to advise do not travel to the Union Territory of Jammu and Kashmir, the entire India-Pakistan border, or Manipur. This doesn’t apply to the Union Territory of Ladakh, which was established as its own union territory of India in October 2019, separate from the Union Territory of Jammu and Kashmir.
+* Always be alert to possible threats near the Atari-Wagah border crossing. The Attari Border has been closed.
 * Terrorist activities, violent demonstrations and armed clashes sometimes occur in India. Avoid crowded places and possible targets. Large crowds at religious ceremonies and gatherings can also be dangerous. People have been killed in stampedes. Always have an exit plan.
 * Women may face higher levels of verbal and physical harassment or sexual assault. Avoid travelling alone, even in major cities and tourist sites.
 * Travellers have been robbed and assaulted after consuming spiked drinks or food. Don't leave your food or drinks unattended or accept food or drinks from strangers. Be alert to the potential risks around drink spiking and methanol poisoning through consuming alcoholic drinks. See our advice on [Partying safely while overseas.](https://www.smartraveller.gov.au/before-you-go/safety/partying#methanol)
@@ -48,7 +53,6 @@ due to the high risk of violence (see '[Safety](#safety)').
 * Scams are common. These can involve fake tour guides, ATM and credit card skimming, and fraudulent access to government services. If you're a scam victim, report it to the police to get an official report for your travel insurer.
 * Severe weather is common. This includes heat waves and dust storms in summer and flooding during the monsoon season. Check with your tour operator for possible disruptions.
 * Curfews and restrictions have been imposed in parts of Manipur following violent demonstrations which have resulted in casualties. Security agencies have increased their presence in the region. Mobile data, internet and transport services continue to be affected. Further restrictions may be imposed at short notice. If you are in Manipur, you should consider leaving if it’s safe to do so. Monitor local media for updates, follow the advice of local authorities and take official warnings seriously.
-* Always be alert to possible threats near the Atari-Wagah border crossing. The Integrated Check Post (ICP) at Attari Border has been closed with immediate effect.
 
 Full travel advice: [Safety](#safety)
 

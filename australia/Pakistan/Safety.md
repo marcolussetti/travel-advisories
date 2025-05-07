@@ -130,6 +130,8 @@ Ransom payments to kidnappers have funded further terrorist attacks and criminal
 
 #### Civil unrest and political tension
 
+Due to the current security situation between Pakistan and India, we recommend you monitor local media for updates, stay alert, take official warnings seriously and follow the advice of local authorities. There may be flight disruptions due to airspace and airport closures. Check with your airline before arriving at the airport.
+
 The security situation in Pakistan is volatile. It could get worse at short notice. Political protests and demonstrations occur frequently and can escalate quickly.
 
 #### Demonstrations and protests

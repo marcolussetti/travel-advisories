@@ -63,7 +63,7 @@ Kidnapping can happen anywhere, anytime, including in destinations that are typi
 
 #### Civil unrest and political tension
 
-Gabon held a peaceful presidential election on 12 April 2025, the first in the country since a military takeover in August 2023. While the situation has been stable, local authorities may continue to maintain a higher security alert level in Libreville and other areas of Gabon. Legislative elections are scheduled for August 2025.  
+Gabon held a peaceful presidential election on 12 April 2025, the first in the country since a military takeover in August 2023. While the situation has been stable, local authorities may continue to maintain a higher security alert level in Libreville and other areas of Gabon. Legislative elections are scheduled for September 2025.  
    
 Ensure you carry identification and evidence of the purpose of your travel. Local authorities may inspect your documentation. Curfews may be imposed without notice. If a curfew is imposed, ensure you follow any requirements. Monitor local media for updates and follow the advice of local authorities.
 

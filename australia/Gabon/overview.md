@@ -24,7 +24,7 @@ See [Safety](#safety).
 
 ### Safety
 
-* Gabon held peaceful presidential elections in April 2025 following a military takeover in August 2023. Legislative elections are scheduled for August 2025. Although the situation is stable, local authorities may continue to maintain a higher security alert level in Libreville and other areas of Gabon. Ensure you carry identification and evidence of the purpose of your travel.
+* Gabon held peaceful presidential elections in April 2025 following a military takeover in August 2023. Legislative elections are scheduled for September 2025. Although the situation is stable, local authorities may continue to maintain a higher security alert level in Libreville and other areas of Gabon. Ensure you carry identification and evidence of the purpose of your travel.
 * Monitor the local media, as curfews could be imposed without notice. Follow the advice of authorities.
 * There have been reports of violent crime, especially in Libreville and Port Gentil. Incidents include robberies and armed attacks. Don't walk alone or at night. Avoid isolated areas, including beaches.
 * Protests and civil unrest may occur with little warning and may turn violent. Avoid large public gatherings and government buildings. Avoid unnecessarily attracting the attention of local authorities.

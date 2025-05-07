@@ -34,7 +34,7 @@ Full travel advice: [Safety](#safety)
 
 ### Health
 
-* Yellow fever is a risk. Get vaccinated before you travel.
+* Yellow fever is a risk. Get vaccinated before you travel. You will need a yellow fever vaccination certificate to enter some countries after visiting Bolivia.
 * Zika virus is also a risk. If you're pregnant, discuss your travel plans with your doctor before you leave.
 * There's a risk of malaria and dengue. Ensure your accommodation is insect-proof. Use insect repellent. Consider taking anti-malaria medication.
 * Many parts of Bolivia are at high altitudes. You can suffer altitude sickness. If you plan to travel to these areas, consult your doctor before you leave. Get travel insurance to cover emergency evacuation from altitude and related medical costs.

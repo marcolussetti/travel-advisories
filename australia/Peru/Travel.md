@@ -56,7 +56,7 @@ If you're entering Ecuador via the land border with Peru, ensure you meet all cu
 
 #### Yellow fever vaccination
 
-You may need a valid yellow fever vaccination certificate to enter Peru. Some airlines may want to see one when you leave.
+You may need a valid yellow fever vaccination certificate to enter Peru. Some airlines may want to see one when you leave. You will need a yellow fever vaccination certificate to enter some countries after visiting Peru. Check entry requirements before travelling.
 
 If you've visited Peru in the previous 6 days, you'll need a valid certificate to enter Australia.
 
