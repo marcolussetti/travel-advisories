@@ -50,6 +50,7 @@ If there's a protest or strike:
 
 Demonstrations and protests may increase in the days leading up to and on days of national or commemorative significance. These include: 
 
+* Anniversary of the commencement of civil unrest (13 May)
 * New Caledonia Day (24 September)
 
 #### More information:

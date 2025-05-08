@@ -2,7 +2,9 @@
 
 Latest update
 
-We've reviewed our advice for Colombia and continue to advise exercise a high degree of caution in Colombia overall due to the threat of violent crime and terrorism. We now also advise do not travel to the Catatumbo region in Norte de Santander and Cesar, and the department of Cauca (except Popayán and the Pan American Highway), amongst other areas, due to increased violence from illegal armed groups and other criminal organisations.   
+Yellow fever is widespread in Colombia. Some airlines may want to see your yellow fever vaccination on departure. Some countries may also require you to show a yellow fever vaccination certificate if you've travelled through the country (see ‘Health’).   
+  
+We continue to advise exercise a high degree of caution in Colombia overall due to the threat of violent crime and terrorism. We also advise do not travel to the Catatumbo region in Norte de Santander and Cesar, and the department of Cauca (except Popayán and the Pan American Highway), amongst other areas, due to increased violence from illegal armed groups and other criminal organisations.   
   
 There's been an increase in foreigners, including Australians, who have been assaulted and robbed using incapacitating drugs (see 'Safety'). If you plan to travel from Colombia to Ecuador through the land border crossings, you're required to present an apostilled police check covering the previous five years (see 'Travel').
 
@@ -80,7 +82,7 @@ Full travel advice: [Safety](#safety)
 
 ### Health
 
-* Yellow fever is widespread. Get vaccinated before you travel. Some national parks require a vaccination certificate to enter. A vaccination certificate for Yellow Fever is required if arriving from, or transited through an airport in Angola, Brazil, Democratic Republic of Congo or Uganda.
+* Yellow fever is widespread. Get vaccinated before you travel. A vaccination certificate is required to enter Colombia if arriving from, or transited through Angola, Brazil, Democratic Republic of Congo or Uganda. Some countries may require you to present a yellow fever vaccination certificate if you’ve travelled through Colombia. Some national parks require a vaccination certificate to enter.
 * Zika virus is also widespread. If you're pregnant, discuss your travel plans with your doctor.
 * Malaria is a risk in areas below 800m. This doesn't include Bogotá. Consider taking anti-malarial medication if travelling to these areas.
 * Altitude sickness is a risk to anyone above 2500m (this includes Bogotá). Get advice from your doctor. Make sure your travel insurance covers medical evacuation from high altitude.

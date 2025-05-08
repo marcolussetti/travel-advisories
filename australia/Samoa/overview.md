@@ -4,7 +4,7 @@ Latest update
 
 Samoa’s Ministry of Health has declared a dengue outbreak. Protect yourself against mosquito bites and use insect repellent (see 'Health').  
   
-There's a state of emergency in Samoa due to an energy crisis. The country is experiencing regular power outages and electricity rationing, impacting some essential services. Check with accommodation providers and local contacts about impacted services. Monitor local media for updates and follow the advice of local authorities (see 'Safety').
+We continue to advise exercise normal safety precautions in Samoa.
 
 Advice Level summary
 
@@ -24,7 +24,6 @@ Exercise normal safety precautions in Samoa.
 
 ### Safety
 
-* A state of emergency has been declared in Samoa due to an energy crisis. The country is experiencing regular power outages and electricity rationing, impacting some essential services. Check with accommodation providers and local contacts about impacted services. Monitor local media for updates and follow the advice of local authorities. Further information can be found at the [Government of Samoa](https://www.samoagovt.ws/2025/03/saunoaga-faapitoa-a-le-afioga-i-le-palemia-hon-fiame-naomi-mataafa-mo-le-faamamaluina-o-le-poloaiga-o-faalavelave-tutupu-faafuasei-ona-o-le/) website.
 * Crimes include robbery, assault, theft and break-ins. Avoid going out alone at night, especially in downtown Apia and harbour-front areas.
 * Cyclone season is November to April, but storms occur year-round. They can cause flooding and disrupt services. Know your hotel or cruise ship's evacuation plan. Find out where your local shelter is. Further information on severe weather and what to do can be found at [Severe weather incident overseas](https://www.smartraveller.gov.au/while-youre-away/crisis-or-emergency/severe-weather-incident)
 * Earthquakes and aftershocks happen often. Ask your host or hotel about what to do if there's an earthquake. Samoa can experience tsunamis. Know the warning signs and move immediately to high ground. Don't wait for official alerts.

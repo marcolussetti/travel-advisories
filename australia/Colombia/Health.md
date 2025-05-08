@@ -56,7 +56,9 @@ You may find most medication in pharmacies in large cities, but medicine for com
 
 #### Yellow fever and other insect-borne diseases
 
-[Yellow fever](https://www.health.gov.au/diseases/yellow-fever?utm_source=health.gov.au&utm_medium=callout-auto-custom&utm_campaign=digital_transformation) is widespread in Colombia. Yellow fever is a potentially fatal virus spread by mosquitoes. It can be prevented by vaccination. Get vaccinated before you travel. You'll need a valid yellow fever vaccination certificate to enter Colombia, especially if arriving from, or transiting through an airport in Angola, Brazil, Democratic Republic of Congo or Uganda.  Some airlines may want to see one when you leave. Some National Parks require proof of yellow fever vaccination to enter. More information is available at [Parques Naturales de Colombia](https://www.parquesnacionales.gov.co/portal/es/parques-nacionales/).
+[Yellow fever](https://www.health.gov.au/diseases/yellow-fever?utm_source=health.gov.au&utm_medium=callout-auto-custom&utm_campaign=digital_transformation) is widespread in Colombia. Yellow fever is a potentially fatal virus spread by mosquitoes. It can be prevented by vaccination. Get vaccinated before you travel. You'll need a valid yellow fever vaccination certificate to enter Colombia, if arriving from, or transiting through Angola, Brazil, Democratic Republic of Congo or Uganda. Some countries may require you to present a yellow fever vaccination certificate if you’ve travelled through Colombia. Some airlines may want to see one on departure.  
+
+Some National Parks require proof of yellow fever vaccination to enter. More information is available at [Parques Naturales de Colombia](https://www.parquesnacionales.gov.co/portal/es/parques-nacionales/).
 
 If you are in Colombia, vaccination is available free of charge at El Dorado/Bogota Airport. You can also get a yellow fever vaccine at Red Cross offices, some of which are located in major shopping centres.
 
