@@ -1,15 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   7 May 2025
+:   8 May 2025
 
 Updated:
 :   7 May 2025
 
 Latest update:
-:   Addition of information following military activity by India and Pakistan on 6 May in and around Pakistan-administered Kashmir and the Line of Control, potential disruption to flights to/from India, the Government is reportedly holding Civil Defence mock drills on 7 May ('Warnings and insurance' page)
-
-On the night of 6 May (UK Time), the Indian Ministry of Defence stated it had struck nine sites in Pakistan and Pakistan-administered Kashmir. In response, there are reports of Pakistani artillery fire across the Line of Control. We are aware of potential disruption to flights to/from India and are monitoring closely. British nationals should contact their airline for up-to-date information. According to media reports on 6 May, the Indian Government announced a Civil Defence mock drill on 7 May in several states across India. The drill may include temporary power cuts or blackouts, loud air raid sirens, suspension of mobile signals, or traffic diversions. Authorities may also conduct evacuation exercises or hold public announcements. We are continuing to monitor the situation closely. British nationals should stay up to date with our travel advice and follow the advice of local authorities.
+:   Addition of information following military activity by India and Pakistan on 6 May in and around Pakistan-administered Kashmir and the Line of Control.
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -32,6 +30,14 @@ FCDO advises against all travel to the region of Jammu and Kashmir (including Pa
 FCDO advises against all but essential travel to the state of Manipur including the capital, Imphal. Curfews and restrictions continue in parts of Manipur following violent ethnic clashes that broke out in 2023. Intermittent incidents have continued and escalated in September 2024.
 
 Find out more about [why FCDO advises against travel to these regions](/foreign-travel-advice/india/regional-risks).
+
+## India-Pakistan tensions
+
+On the night of 6 May, the Indian Ministry of Defence stated it had struck nine sites in Pakistan and Pakistan-administered Kashmir. There are reports of Pakistani artillery fire across the Line of Control. Airspace remains closed to north and northwest of Delhi. Airspace restrictions may be announced or changed at short notice and British nationals should contact their airline for up-to-date information.  
+   
+There are reports of fatalities and casualties.
+
+We are continuing to monitor the situation closely. British nationals should stay up to date with our travel advice and follow the advice of local authorities.
 
 ## Before you travel
 

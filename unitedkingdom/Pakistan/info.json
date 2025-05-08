@@ -1,11 +1,11 @@
 {
     "name": "Pakistan",
-    "update_reason": "Addition of information following military activity by India and Pakistan on 6 May in and around Pakistan-administered Kashmir and the Line of Control, Pakistan airspace closed for at least 48hrs ('Warnings and insurance' page)",
+    "update_reason": "Addition of information following military activity by India and Pakistan on 6 May in and around Pakistan-administered Kashmir and the Line of Control.",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Pakistan/Warnings and insurance.md",
-            "update_date": "2025-05-07T00:25:28+01:00"
+            "update_date": "2025-05-07T20:37:14+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Pakistan/Getting help.md"
         }
     ],
-    "update_date": "2025-05-07T00:25:28+01:00"
+    "update_date": "2025-05-07T20:37:14+01:00"
 }

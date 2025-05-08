@@ -20,21 +20,21 @@ Singapore does not recognise dual nationality beyond the age of 21. A citizen of
 
 ## Visa requirements
 
-You can visit Singapore without a visa for tourism or business. The [Immigration and Checkpoints Authority](https://www.ica.gov.sg/) decides who can enter Singapore and how long they can stay. The period of stay permitted is at the discretion of the immigration officer. It is normally between 14 and 30 days for British citizens.
+You can visit Singapore without a visa for tourism or business. The [Immigration and Checkpoints Authority](https://www.ica.gov.sg/) decides who can enter Singapore and how long they can stay. The period of stay permitted is at the discretion of the immigration officer. It is normally between 30 and 90 days for British citizens.
 
 ### Penalties for overstaying
 
-Penalties for overstaying the time allowed include [fines, imprisonment, caning and deportation](https://sso.agc.gov.sg/Act/IA1959?ProvIds=pr15-) depending on how long you have overstayed. When you leave Singapore, officials can take your fingerprints if they suspect you are involved in any crime.
+Penalties for overstaying the time allowed include [fines, imprisonment, caning and deportation](https://sso.agc.gov.sg/Act/IA1959?ProvIds=pr15-) depending on how long you have overstayed. When arriving and departing Singapore, biometric details, including your fingerprints are recorded electronically.
 
 ## Checks at border control
 
 You must [complete an electronic SG Arrival Card](https://eservices.ica.gov.sg/sgarrivalcard/) in the 3 days before you arrive in Singapore. This online form asks for travel details and a health declaration. It is illegal to submit a false declaration. Biometric information is also recorded and scanned when you enter and depart Singapore (iris, face and fingerprints).
 
-### Screening for drugs
+### Screening: Drugs
 
-You can be screened for drugs in your system on arrival in Singapore, including if you’re in transit. You can be charged with drug consumption even if the drugs were taken in another country, including countries where the use of that particular drug is legal.
+Penalties for drug possession are severe. If you are carrying or transporting drugs, you can be [imprisoned, caned or executed](https://sso.agc.gov.sg/Act/MDA1973?ProvIds=Sc2-#Sc2-).
 
-You could be detained without trial and, if convicted, you could be [imprisoned, caned or executed](https://sso.agc.gov.sg/Act/MDA1973?ProvIds=Sc2-#Sc2-).
+You can be screened for drugs in your system on arrival in Singapore, including if you’re in transit. You can be charged with drug consumption or detained without trial even if the drugs were taken in another country, including countries where the use of that particular drug is legal. See [Illegal drugs](https://www.gov.uk/foreign-travel-advice/singapore/safety-and-security#illegal-drugs)
 
 ### Ship’s crew
 
@@ -42,13 +42,13 @@ There are different entry requirements if you are [crew working on ships, small 
 
 ## Vaccine requirements
 
-To enter Singapore, you must have a certificate to prove you’ve had a yellow fever vaccination if you’re coming from a [country listed as a transmission risk](https://nathnacyfzone.org.uk/factsheet/65/countries-with-risk-of-yellow-fever-transmission). If you arrive from one of these countries without a certificate, the authorities may put you in mandatory quarantine or refuse you entry to Singapore.
+To enter Singapore, if you’re coming from a [country listed as a transmission risk](https://nathnacyfzone.org.uk/factsheet/65/countries-with-risk-of-yellow-fever-transmission) for yellow fever, or if you have been in such a country in the previous six days prior to arrival, you must have a certificate to prove you’ve had a yellow fever vaccination. If you arrive from one of these countries without a certificate, the authorities may put you in mandatory quarantine or refuse you entry to Singapore.
 
 For full details about medical entry requirements and recommended vaccinations, see [TravelHealthPro’s Singapore guide](https://travelhealthpro.org.uk/country/196/singapore#Vaccine_Recommendations).
 
 ## Accommodation
 
-There are strict laws that prevent accommodation being used for short-term rental, including for tourists.
+There are strict laws that prevent private homes being used for short-term rental, including for tourists.
 
 ## Customs rules
 

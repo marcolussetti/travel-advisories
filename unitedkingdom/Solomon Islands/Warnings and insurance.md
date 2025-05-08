@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   8 May 2025
 
 Updated:
-:   11 December 2024
+:   7 May 2025
 
 Latest update:
-:   Updated information on political situation ('Safety and security' page).
+:   Removal of information about a motion of no confidence on 13 December ('Safety and security' page).
 
 ## Before you travel
 

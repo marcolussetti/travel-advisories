@@ -153,7 +153,7 @@ Sudanese law prohibits the use of mobile phones while driving.
 
 Khartoum International Airport is closed following the outbreak of violence in April 2023.
 
-Some commercial flights continue to operate from Port Sudan Airport, including Egypt Airlines, Badr Airlines and Ethiopian Airlines.
+The only civilian airport operating international flights is Port Sudan Airport, however this is subject to drone attacks and the risk of intermittent closure is high. Some commercial flights continue to operate from Port Sudan Airport, including Egypt Airlines, Badr Airlines and Ethiopian Airlines.
 
 There are no Sudanese airlines which currently meet the standards required to operate direct flights to the UK or EU.
 

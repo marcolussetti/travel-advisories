@@ -1,15 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   7 May 2025
+:   8 May 2025
 
 Updated:
 :   7 May 2025
 
 Latest update:
-:   Addition of information following military activity by India and Pakistan on 6 May in and around Pakistan-administered Kashmir and the Line of Control, Pakistan airspace closed for at least 48hrs ('Warnings and insurance' page)
-
-On the night of 6 May (UK Time), the Indian Ministry of Defence stated it had struck nine sites in Pakistan and Pakistan-administered Kashmir. In response, there are reports of Pakistani artillery fire across the Line of Control.  On the night of 6 May (UK Time) Pakistan Civil Aviation Authority indicated that it was closing Pakistan airspace for at least 48 hours. There are reports of flights being diverted. British nationals should contact their airline for up-to-date information. We are continuing to monitor the situation closely. British nationals should stay up to date with our travel advice and follow the advice of local authorities.
+:   Addition of information following military activity by India and Pakistan on 6 May in and around Pakistan-administered Kashmir and the Line of Control.
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -63,6 +61,14 @@ FCDO advises against all travel to within 10 miles of the Line of Control.
 FCDO advises against all but essential travel to all areas of Sindh Province north of and including the city of Nawabshah.
 
 Find out more about [why FCDO advises against travel to these regions](/foreign-travel-advice/pakistan/regional-risks).
+
+## India-Pakistan tensions
+
+On the night of 6 May, the Indian Ministry of Defence stated it had struck nine sites in Pakistan and Pakistan-administered Kashmir.  There are reports of Pakistani artillery fire across the Line of Control. Airspace remains closed to north and northwest of Delhi. Airspace restrictions may be announced or changed at short notice and British nationals should contact their airline for up-to-date information.  
+   
+There are reports of fatalities and casualties.
+
+We are continuing to monitor the situation closely. British nationals should stay up to date with our travel advice and follow the advice of local authorities.
 
 ## Before you travel
 

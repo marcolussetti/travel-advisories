@@ -1,13 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   8 May 2025
 
 Updated:
-:   17 May 2024
+:   7 May 2025
 
 Latest update:
-:   This travel advice was reviewed for style and accuracy.
+:   Information on the risks related to evidence of drug use on entry or in transit ('Warnings and insurance' page).
+
+## Illegal drugs
+
+There are severe consequences for drug related crimes in Singapore. Evidence of drug use in your system on arrival or in transit will lead to refusal of entry or arrest. See [Entry requirements](https://www.gov.uk/foreign-travel-advice/singapore/entry-requirements) and [Safety and security](https://www.gov.uk/foreign-travel-advice/singapore/safety-and-security) pages for more information.
 
 ## Before you travel
 

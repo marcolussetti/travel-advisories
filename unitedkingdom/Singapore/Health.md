@@ -38,7 +38,7 @@ The legal status and regulation of some medicines prescribed or bought in the UK
 
 Check to see whether you need approval from the Health Sciences Authority to [bring in medication from the UK](http://www.hsa.gov.sg/personal-medication).
 
-Not all medicines from the UK are available in Singapore. Make sure you have a prescription from your GP and check with a doctor in Singapore who may be able to issue a prescription for a local equivalent. See the [HCI Directory](https://www.hcidirectory.gov.sg/hcidirectory/) for a listing of licensed healthcare institutions.
+Not all medicines from the UK are available in Singapore. Make sure you have a prescription from your GP and check with a doctor in Singapore who may be able to issue a prescription for a local equivalent. See the [HCI Directory](https://eservices.healthhub.sg/healthhubng/public/services/directory) for a listing of licensed healthcare institutions.
 
 Read [best practice when travelling with medicines on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/43/medicines-abroad).
 

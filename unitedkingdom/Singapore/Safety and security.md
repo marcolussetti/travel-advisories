@@ -50,13 +50,13 @@ You could be arrested for:
 * fighting and becoming a nuisance in public
 * touching someone inappropriately (whether resulting from drunken behaviour or not)
 * driving while drunk
-* drinking outside of allowed hours and areas
+* drinking in public outside of allowed hours and areas
 
 Penalties for convicted offenders include fines, imprisonment and caning.
 
 Geylang and Little India are [‘Liquor Control Zones’ (PDF)](https://www.police.gov.sg/~/media/spf/files/e-services/boundary_of_little_india_geylang_lca.pdf). Drinking in these areas is banned all weekend, on public holidays and on the eve of public holidays.
 
-### Smoking and e-cigarette bans
+### Vaporisers, smoking and e-cigarette bans
 
 Vapes and e-cigarettes are banned in Singapore. It is illegal to bring them into the country, including for personal use. Those found in possession of vapes or e-cigarettes will have them confiscated and could be fined.
 
@@ -66,7 +66,7 @@ Smoking is banned at all public parks, all beaches and along certain waterways. 
 
 ### Illegal drugs
 
-There are severe penalties for all drug offences in Singapore, including possession. Trafficking (‘intent to sell’) is defined simply by possession of drugs above a certain amount. The [Misuse of Drugs Act](https://sso.agc.gov.sg/Act/MDA1973?ProvIds=P1III-.) sets out the definitions and penalties, which could include detention without trial, a prison sentence, caning or a death penalty.
+There are severe penalties for all drug offences in Singapore, including possession. Carrying even a small amount of drugs can have significant consequences. You can be charged with trafficking (‘intent to sell’)   for possessing drugs above a certain amount. You can be detained without trial. Sentences include prison terms, caning and the death penalty. See the [Misuse of Drugs Act](https://sso.agc.gov.sg/Act/MDA1973?ProvIds=P1III-.) for information on definitions and penalties.
 
 ### Arrests and detentions
 
@@ -128,7 +128,7 @@ You can drive with a UK driving licence for up to 30 days. After that you need a
 
 Hire car companies often have stricter requirements for their customers, such as a year of driving experience, minimum age and holding an IDP.
 
-You cannot buy an IDP outside the UK, so get one before you travel. If you’re staying in Singapore on a longer term pass or you’ve become a permanent resident, you must [get a Singaporean driving licence](https://www.police.gov.sg/Advisories/Traffic/Traffic-Matters).
+You cannot buy an IDP outside the UK, so get one before you travel. If you’re staying in Singapore on a longer term pass or you’ve become a permanent resident, you must [get a Singaporean driving licence](https://www.police.gov.sg/Advisories/Traffic/Traffic-Matters) to drive.
 
 Driving under the influence of alcohol carries serious penalties including imprisonment. The traffic police regularly carry out breath tests.
 

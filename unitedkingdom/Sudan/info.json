@@ -1,11 +1,11 @@
 {
     "name": "Sudan",
-    "update_reason": "Addition of information about airlines operating out of Port Sudan Airport (\u2018Safety and security\u2019 page).",
+    "update_reason": "Addition of information that the only civilian airport operating international flights, Port Sudan Airport, is subject to drone attacks and at risk of intermittent closure ('Warnings and insurance' and 'Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Sudan/Warnings and insurance.md",
-            "update_date": "2025-04-30T13:45:12+01:00"
+            "update_date": "2025-05-07T11:47:50+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Sudan/Getting help.md"
         }
     ],
-    "update_date": "2025-04-30T13:45:12+01:00"
+    "update_date": "2025-05-07T11:47:50+01:00"
 }

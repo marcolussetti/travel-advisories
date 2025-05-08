@@ -12,7 +12,7 @@ Although there’s no recent history of terrorism in the Solomon Islands, attack
 
 ## Political situation
 
-There may be a motion of no confidence moved in Parliament from 13 December. Demonstrations can happen in Honiara during sittings of Parliament, elections and times of political uncertainty. They can turn violent quickly and lead to civil unrest. Avoid protests and political gatherings and be cautious. Be aware that services and supply chains may be disrupted.
+Demonstrations can happen in Honiara during sittings of Parliament, elections and times of political uncertainty. They can turn violent quickly and lead to civil unrest. Avoid protests and political gatherings and be cautious. Be aware that services and supply chains may be disrupted.
 
 Security lockdowns can be announced at very short notice. Monitor local media and follow the instructions of local authorities.
 
