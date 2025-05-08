@@ -1,8 +1,12 @@
 ## Safety and security
 
+India's military has stated that it has attacked several targets in the Punjab and Kashmir regions of Pakistan on the night of May 7, with reports of a Pakistani military response into Indian territory as well. A state of emergency has subsequently been declared in the Punjab province of Pakistan. The security situation is tense and unpredictable.
+
+Avoid staying near the border areas and exercise caution. Stay up to date via the media, local authorities, your hotel, travel agency or airline. Always follow the instructions of the local authorities.
+
 ### **Personal ID**
 
-Carry photographic ID at all times
+Carry photographic ID at all times.
 
 ### **Unrest**
 

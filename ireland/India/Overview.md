@@ -6,7 +6,11 @@ High Degree of Caution
 
 ### **Travel Alert**
 
-The Department of Foreign Affairs advises against all travel to Jammu and Kashmir due to the recent terrorist attacks. We continue to advise against all travel to Manipur due to ongoing ethnic violence across the state.
+Following military activity by India and Pakistan on 6 and 7 May, Irish citizens are advised to exercise caution in public places, stay alert, monitor local news reports and to follow the advice of local authorities.
+
+There may be flight delays and disruptions. Travellers should contact their airline for up-to-date information.
+
+The Department of Foreign Affairs continues to advise against all travel to Jammu and Kashmir, the India-Pakistan border, or Manipur. Please see more detailed regional travel advice below.
 
 ### **General Travel Advice**
 
