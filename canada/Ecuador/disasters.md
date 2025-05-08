@@ -2,15 +2,6 @@
 
 ## Natural disasters and climate
 
-On April 25, 2025, a 6.3 magnitude earthquake occurred off the coast of Esmeraldas. There is damage to infrastructure and power outages in the region.
-
-If you are in or near the affected area:
-
-* monitor local media for the latest information
-* follow instructions from local authorities, including evacuation orders
-
-[Earthquakes](#earthquakes)
-
 ### Climate change
 
 Climate change is affecting Ecuador. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local news for the latest information.

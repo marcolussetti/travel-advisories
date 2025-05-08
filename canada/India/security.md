@@ -6,7 +6,7 @@ On May 7, 2025, the Indian military conducted air strikes on several targets in 
 
 Tensions could increase and the situation could deteriorate rapidly.
 
-There are air travel disruptions and local authorities could take additional measures, such as closing the airspace.
+There are air travel disruptions and local authorities could take additional measures, such as closing the airspace and blocking Internet access. Many airports across northern and western India have temporarily suspended operations.
 
 If you are in or near the affected areas:
 

@@ -12,13 +12,15 @@ On May 7, 2025, the Indian military conducted air strikes on several targets in 
 
 Tensions could increase and the situation could deteriorate rapidly.
 
-Pakistani authorities have temporarily closed the country’s airspace, which has resulted in air travel disruptions.
+There may be air travel disruptions and local authorities could take additional measures, such as closing the airspace.
+
+A state of emergency was declared in Punjab Province following the airstrikes.
 
 If you are in or near the affected areas:
 
 * monitor local and international media to stay informed of the rapidly evolving situation
 * follow the instructions of local authorities, including air-raid sirens and evacuation orders
-* be vigilant and prepared to shelter
+* be vigilant and prepared to shelter in place
 
 ### Security situation
 
