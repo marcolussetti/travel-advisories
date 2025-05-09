@@ -10,7 +10,7 @@ We advise against all travel to parts of Pakistan, including the border areas wi
 
 India's military has stated that it has attacked several targets in the Punjab and Pakistan-administered Kashmir regions of Pakistan on the night of May 7, with reports of a Pakistani military response into Indian territory. A state of emergency has subsequently been declared in the Punjab province of Pakistan. The security situation is tense and unpredictable.
 
-On the 7 May Pakistan Civil Aviation Authority indicated that it was closing Pakistan airspace for at least 48 hours. There are reports of flights being diverted. Travellers should contact their airline for up-to-date information.
+Airspace restrictions may continue to be announced or changed at short notice and travellers should contact their airline and monitor authorities’ announcements for up-to-date information.
 
 Avoid staying near the border areas and exercise caution. Stay up to date via the media, local authorities, your hotel, travel agency or airline. Always follow the instructions of the local authorities.
 

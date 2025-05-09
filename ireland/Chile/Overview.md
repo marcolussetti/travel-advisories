@@ -4,16 +4,6 @@
 
 Normal Precautions
 
-### **Travel Alert**
-
-### **Tsunami alert**
-
-On 02 May 2025, Chilean authorities issued a tsunami alert and evacuation order for parts of the Magallanes region following an earthquake off the coast of southern Chile.
-
-Irish citizens in the affected area should follow the guidance of local authorities and monitor local media for updates.
-
-For further guidance, visit the website of [SENAPRED](https://senapred.cl/informate/alertas), Chile’s National Disaster Prevention and Response Service (Servicio Nacional de Prevención y Respuesta ante Desastres).
-
 ### **General Travel Advice**
 
 In recent years, there have been large-scale protests and demonstrations leading to civil unrest across Chile, and there is a risk of violent protest in Santiago and other Chilean cities, particularly on Friday afternoons and evenings. Even peaceful protests can become violent.
