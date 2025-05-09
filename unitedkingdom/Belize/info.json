@@ -1,11 +1,11 @@
 {
     "name": "Belize",
-    "update_reason": "Updated information  about air travel (\u2018Safety and security\u2019 page)",
+    "update_reason": "Information on the state of emergency declared on 7 May (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Belize/Warnings and insurance.md",
-            "update_date": "2025-05-06T16:17:23+01:00"
+            "update_date": "2025-05-08T16:45:50+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Belize/Getting help.md"
         }
     ],
-    "update_date": "2025-05-06T16:17:23+01:00"
+    "update_date": "2025-05-08T16:45:50+01:00"
 }

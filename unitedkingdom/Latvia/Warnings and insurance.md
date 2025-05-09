@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   9 May 2025
 
 Updated:
-:   17 March 2025
+:   8 May 2025
 
 Latest update:
-:   Update to information on expected rollout of the EU Entry/Exit System (EES) (‘Entry requirements’ page).
+:   New information about British-Russian dual nationals and restrictions on vehicles (See 'Restrictions on vehicles' on the 'Entry requirements' page).
 
 ## Before you travel
 

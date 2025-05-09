@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   8 May 2025
+:   9 May 2025
 
 Updated:
-:   7 May 2025
+:   8 May 2025
 
 Latest update:
-:   Addition of information following military activity by India and Pakistan on 6 May in and around Pakistan-administered Kashmir and the Line of Control.
+:   Updated information for British nationals in India about drone activity.
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -33,11 +33,11 @@ Find out more about [why FCDO advises against travel to these regions](/foreign-
 
 ## India-Pakistan tensions
 
-On the night of 6 May, the Indian Ministry of Defence stated it had struck nine sites in Pakistan and Pakistan-administered Kashmir. There are reports of Pakistani artillery fire across the Line of Control. Airspace remains closed to north and northwest of Delhi. Airspace restrictions may be announced or changed at short notice and British nationals should contact their airline for up-to-date information.  
-   
-There are reports of fatalities and casualties.
+On the night of 6 May, the Indian Ministry of Defence stated it had struck nine sites in Pakistan and Pakistan-administered Kashmir. There are reports of fatalities and casualties. There are reports of artillery fire across the Line of Control. There are reports on 8 May of drone activity in the border states of Jammu and Kashmir (including in the city of Jammu), Rajasthan, Punjab, and Gujarat. Airspace remains closed to north and northwest of Delhi. Airspace restrictions may be announced or changed at short notice. British nationals should contact their airline for up-to-date information.
 
 We are continuing to monitor the situation closely. British nationals should stay up to date with our travel advice and follow the advice of local authorities.
+
+British nationals already in, or planning to travel to, the region should be aware of geopolitical tensions and should subscribe to our Travel Advice to follow any updates. You should remain vigilant, monitor the media and this travel advice, subscribe to email alerts and read our advice on how to deal with a crisis overseas. You should keep your departure plans under close review, ensure your travel documents are up to date and that you have the necessary visas for onward travel.
 
 ## Before you travel
 

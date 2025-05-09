@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   9 May 2025
 
 Updated:
-:   27 November 2024
+:   8 May 2025
 
 Latest update:
-:   Information added about the risks of methanol poisoning ('Safety and security' page).
+:   Addition of information on how to apply for an e-visa on the official iOS or Android app (‘Entry requirements’ page).
 
 ## Before you travel
 

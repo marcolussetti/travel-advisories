@@ -23,7 +23,7 @@ Tourist visas are valid for 30 days from the date of entry into Cambodia. Make s
 
 ### Applying for a tourist visa
 
-[Apply for an e-visa](https://www.cambodiaembassyuk.org/visa-cosular-services/apply-e-visa/) at least 4 days in advance.
+[Apply for an e-visa](https://www.cambodiaembassyuk.org/visa-cosular-services/apply-e-visa/) at least 4 days in advance (this website may not work in certain web browsers). You can also apply on the official e-visa app on [iOS](https://apps.apple.com/gb/app/evisa-cambodia/id1436702505) or [Android](https://play.google.com/store/apps/details?id=com.ptel.cambodia_evisa&hl=en-US).
 
 Check with the [Royal Embassy of Cambodia in the UK](https://www.cambodiaembassyuk.org/) for the latest information on fees, conditions and photograph requirements. If you do not get an e-visa, you can get a visa on arrival at airports or land border crossings. You need to provide a photo and pay in US dollars.
 

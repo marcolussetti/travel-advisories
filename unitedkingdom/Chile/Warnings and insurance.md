@@ -1,19 +1,15 @@
 # Warnings and insurance
 
 Still current at:
-:   3 May 2025
+:   9 May 2025
 
 Updated:
-:   2 May 2025
+:   8 May 2025
 
 Latest update:
-:   Addition of information about a 7.4 magnitude earthquake on 2 May; you should exercise caution in coastal areas ('Warnings and insurance')
+:   Removal of information about a 7.4 magnitude earthquake ('Warnings and insurance' page).
 
 This travel advice page also covers Rapa Nui (Easter Island).
-
-## Chile earthquake
-
-A tsunami alert was issued by the Chilean government on 2 May for parts of the Magallanes region following a 7.4 magnitude earthquake earlier today. Evacuation orders have been lifted but those in the affected areas have been asked to exercise caution in coastal areas. If you are in the region, you should follow the guidance of [local authorities](https://senapred.cl/informate/eventos) and monitor local media for updates.
 
 ## Before you travel
 

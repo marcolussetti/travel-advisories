@@ -1,11 +1,11 @@
 {
     "name": "Chile",
-    "update_reason": "Addition of information about a 7.4 magnitude earthquake on 2 May; you should exercise caution in coastal areas ('Warnings and insurance')",
+    "update_reason": "Removal of information about a 7.4 magnitude earthquake ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Chile/Warnings and insurance.md",
-            "update_date": "2025-05-02T18:00:51+01:00"
+            "update_date": "2025-05-08T16:15:40+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Chile/Getting help.md"
         }
     ],
-    "update_date": "2025-05-02T18:00:51+01:00"
+    "update_date": "2025-05-08T16:15:40+01:00"
 }

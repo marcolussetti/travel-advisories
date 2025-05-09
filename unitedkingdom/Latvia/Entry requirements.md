@@ -6,14 +6,14 @@ The authorities in Latvia set and enforce entry rules. If you’re not sure how 
 
 ## British-Russian dual nationals
 
-If you hold dual nationality with Russia, you could be refused entry to Latvia. See current [legal guidance for Russian citizens](https://likumi.lv/ta/en/en/id/335394), which is now in force until 4 March 2025.
+If you hold dual nationality with Russia, you could be refused entry to Latvia. See current [legal guidance for Russian citizens](https://likumi.lv/ta/id/358965-noteikumi-par-treso-valstu-valstspiederigo-vizu-pieteikumu-pienemsanas-un-iecelosanas-ierobezojumiem-latvijas-republika), which is now in force until 1 January 2027.
 
 ## Passport validity requirements
 
 Latvia follows [Schengen area rules](https://europa.eu/youreurope/citizens/travel/entry-exit/non-eu-nationals/index_en.htm). Your passport must:
 
 * have a ‘date of issue’ less than 10 years before the date you arrive – if you renewed your passport before 1 October 2018, it may have a date of issue that is more than 10 years ago
-* have an ‘expiry date’ at least 3 months after the day you plan to leave the Schengen area
+* have an ‘expiry date’ at least 3 months after the day you plan to leave the Schengen area (the expiry date does not need to be within 10 years of the date of issue)
 
 Check with your travel provider that your passport and other travel documents meet requirements. [Renew your passport](https://www.gov.uk/renew-adult-passport/renew) if you need to.
 
@@ -75,9 +75,11 @@ You cannot take [meat, milk or products containing them into EU countries](https
 
 Declare cash or travellers cheques if the value is 10,000 euros or more. You will get a certified declaration to show you brought it in with you. If you do not, your money could be seized when you leave.
 
-### Restrictions on Russian and Belarusian vehicles
+### Restrictions on third-country vehicles
 
-Vehicles with Russian and Belarusian plates and registration are – with a few technical exceptions – banned from entering Latvia and using Latvia’s roads.  See [Latvia’s State Revenue Service](https://www.vid.gov.lv/en/article/persons-vehicles-registered-russian-federation-are-banned-entering-latvia?utm_source=https%3A%2F%2Fwww.mfa.gov.lv%2F) and [Latvia’s Ministry of Foreign Affairs](https://www.mfa.gov.lv/en/article/eu-sanctions-against-belarus-significantly-limit-opportunities-circumventing-sanctions-against-russia) for more information.
+Any vehicle registered in third countries, including the UK, must be declared for use in Latvia via the [e-services](https://e.csdd.lv/trvalstutldeklar/) of the Road Traffic Safety Directorate before entering Latvia. No fee will be charged for the service and it can be done without personal authentication, but the e-mail address used will have to be verified. See [Latvia’s Ministry of Foreign Affairs webpage](https://www.mfa.gov.lv/en/article/road-traffic-safety-directorate-informs-vehicles-registered-third-country-will-have-be-declared-use-road-traffic-latvia-1-january-2025) for more information about the declaration process.
+
+Vehicles with Russian and Belarusian plates and registration are, with a few technical exceptions, banned from entering Latvia and using Latvia’s roads. See [Latvia’s State Revenue Service](https://www.vid.gov.lv/en/article/persons-vehicles-registered-russian-federation-are-banned-entering-latvia?utm_source=https%3A%2F%2Fwww.mfa.gov.lv%2F) and [Latvia’s Ministry of Foreign Affairs](https://www.mfa.gov.lv/en/article/eu-sanctions-against-belarus-significantly-limit-opportunities-circumventing-sanctions-against-russia) for more information.
 
 [Previous
 :
