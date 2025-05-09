@@ -2,34 +2,32 @@
 
 #### Terrorism
 
-There's an ongoing threat of terrorism in Europe.
+Terrorist attacks could occur anywhere and at any time. Be alert to possible threats, especially in public places. Terrorists may target tourist areas or other places frequented by foreigners and where large crowds may gather.
 
-Terrorists have attacked some European cities in recent years. Targets have included:
+The Government of Norway lowered its national terror threat level from 'High' to 'Moderate' (level 3 of 5) on 14 November 2024 after temporarily raising it in October 2024. Norwegian authorities said both extreme Islamists and right-wing extremists still threaten Jewish and Israeli targets in Norway.
 
-* public transport
-* other transport hubs
-* cultural venues and markets
-* public places frequented by locals and foreigners.
+Possible targets include:
 
-The Government of Norway lowered its national terror threat level from 'High' to 'Moderate' (level 3 of 5) on 14 November 2024 after temporarily raising it in October 2024. Norwegian authorities said both extreme Islamists and right-wing extremists still threaten Jewish and Israeli targets in Norway.  
+* places of worship or religious holidays
+* hotels, clubs, restaurants and cafes
+* markets and shopping malls
+* outdoor recreation events, including festivals, concerts, and sporting venues
+* public transport, airports and railway hubs
 
-In June 2022, a gunman shot at people in 3 venues in Oslo. 3 people were killed, and several others were injured.
+To stay safe:
 
-To reduce your risk of terrorism:
-
-* be alert to possible threats, especially in public places
-* report suspect actions or items to police
-* monitor the media for threats
+* report suspicious activities or items to the police
+* check the media for new threats
 * take official warnings seriously
-* follow advice from local authorities.
+* follow the instructions of local authorities
 
-If there's an attack, leave the area as soon as it's safe. Avoid the affected area in case of secondary attacks.
+If there’s an attack, leave the area as soon as it's safe to do so.
 
 Terrorism is a threat worldwide.
 
 **More information:**
 
-* [Terrorism](/before-you-go/safety/terrorism "Terrorism")
+* [Terrorism](https://www.smartraveller.gov.au/before-you-go/safety/terrorism)
 * [Norwegian Police Security Service Threat Assessment (Norwegian)](https://www.pst.no/alle-artikler/trusselvurderinger/ntv-2024/)
 
 #### Crime
@@ -38,7 +36,7 @@ Terrorism is a threat worldwide.
 
 Serious crime is rare.
 
-There have been some [sexual assaults](/before-you-go/safety/sexual-assault "Reducing the risk of sexual assault and harassment") against foreigners. 
+There have been some [sexual assaults](/before-you-go/safety/sexual-assault "Reducing the risk of sexual assault and harassment") against foreigners.
 
 Violent crime with weapons has occurred in areas where criminal gangs operate, such as parts of eastern Oslo.
 
@@ -65,6 +63,14 @@ Social media can also be risky in destinations where there are social or politic
 
 * [Cyber security when travelling overseas](/before-you-go/staying-safe/cyber-security "Cyber security when travelling overseas")
 
+#### Drink spiking
+
+Drink spiking can happen anywhere. Be alert to the potential risks, and don't leave food or drinks unattended. Pay attention when your drinks are being mixed. Stick to reputable venues and avoid homemade alcoholic drinks due to the risk of methanol poisoning. Get urgent medical help if you suspect you’ve been a victim.
+
+**More information:**
+
+* [Partying safely](https://www.smartraveller.gov.au/before-you-go/safety/partying)
+
 #### Civil unrest and political tension
 
 Civil unrest is rare.
@@ -79,7 +85,7 @@ Public protests and events that draw large groups of people can turn violent.
 
 * [Demonstrations and civil unrest](/before-you-go/safety/protests-civil-unrest "Protests and civil unrest")
 
-#### Tours and Adventure travel
+#### Tours and adventure travel
 
 There are many adventure activities in Norway. These include mountaineering, trekking, skiing and glacier climbing.
 
@@ -138,7 +144,7 @@ If you're travelling by ship:
 
 Search and rescue services may take a long time to arrive. They could be many hundreds of kilometres away. Stranded vessels may wait several days for help, particularly in bad weather.
 
-We may not be able to give you full or prompt consular assistance in remote areas. 
+We may not be able to give you full or prompt consular assistance in remote areas.
 
 To reduce your risks, have travel insurance or funds to cover:
 
@@ -163,8 +169,10 @@ Check advice on weather and safety conditions before skiing or mountaineering.
 
 If there's a natural disaster:
 
-* Download the [Varsom app](https://www.varsom.no/nyheter/nyheter-snoskred/ny-varsom-app-for-skred-og-flomfare/) which provides advice on risks across Norway
+* download the [Varsom app](https://www.varsom.no/nyheter/nyheter-snoskred/ny-varsom-app-for-skred-og-flomfare/) which provides advice on risks across Norway
 * follow the advice of local authorities
-* get updates from the [Norwegian Government](https://www.dsb.no/menyartikler/english/)
+* get updates from the [Norwegian Government](https://www.dsb.no/en/)
 
 Register with the [Global Disaster Alert and Coordination System](http://www.gdacs.org/) to receive alerts on major disasters.
+
+Norwegian authorities recommend that residents remain prepared for unexpected emergencies by maintaining a one-week supply of food, bottled water, and essential items. More information is available on the [Advice on Emergency Preparedness](https://www.dsb.no/siteassets/sikkerhverdag/egenberedskap/brosjyren/dsb-egenberedskap-engelsk-web.pdf) website.

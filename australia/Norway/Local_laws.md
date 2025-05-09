@@ -22,11 +22,11 @@ Penalties for drug offences, even for possession of small amounts of recreationa
 
 #### Drones
 
-You must be appropriately [registered](https://flydrone.no/register) in an EU country to operate a drone in Norway. Civil Aviation Authority Norway provides guidance on registering and operating [drones](https://luftfartstilsynet.no/en/drones/) in Norway. 
+You must be appropriately [registered](https://flydrone.no/register) in an EU country to operate a drone in Norway. Civil Aviation Authority Norway provides guidance on registering and operating [drones](https://luftfartstilsynet.no/en/drones/) in Norway.
 
-Drones are strictly controlled in the polar regions, including air, ground and water drones.  
+Drones are strictly controlled in the polar regions, including air, ground and water drones.
 
-Penalties for operating a drone without appropriate approvals or in restricted locations can include: 
+Penalties for operating a drone without appropriate approvals or in restricted locations can include:
 
 * heavy fines
 * confiscation of the drone

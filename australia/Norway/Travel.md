@@ -18,7 +18,7 @@ If you're travelling to Svalbard, you'll need a valid passport to enter.
 
 You must meet [Schengen area](https://www.smartraveller.gov.au/node/424) entry requirements when returning to Norway's mainland.
 
-Medical facilities in Svalbard are limited. You may require medical evacuation for treatment. 
+Medical facilities in Svalbard are limited. You may require medical evacuation for treatment.
 
 #### Other formalities
 
@@ -33,9 +33,9 @@ Border controls between Norway and Russia have been tightened. You should only a
 
 #### European Entry/Exit System (EES)
 
-The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area  is expected to start in October 2025. 
+The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area  is expected to start in October 2025.
 
-The EES is a digital border system that registers non-EU visitors travelling into the Schengen Area. When entering the Schengen Area, you'll need to have your fingerprints and photo taken. This creates a digital record that registers your biometric details. 
+The EES is a digital border system that registers non-EU visitors travelling into the Schengen Area. When entering the Schengen Area, you'll need to have your fingerprints and photo taken. This creates a digital record that registers your biometric details.
 
 You'll need to do this on your first visit to the EU after the EES is introduced.​ If you visit the Schengen Area again within 3 years of creating your digital record, you'll only need to provide either your fingerprint or photograph at the border on entry and exit.
 
@@ -106,7 +106,7 @@ There are limited ATMs in most rural areas in Norway.
 
 #### Driving permit
 
-Australian driving licences are valid in Norway for up to 3 months. However, some car rental companies may require customers to present an International Driving Permit (IDP) regardless.
+Australian driving licences are valid in Norway for up to 3 months. To drive a vehicle, you'll need a current Australian driver's licence (digital driver's licences may not be accepted). However, some car rental companies may require customers to present an International Driving Permit (IDP) regardless.
 
 You can check if your licence will be accepted in Norway, as well as the minimum driving age, here: [Driving licence holders | Statens vegvesen](https://www.vegvesen.no/en/driving-licences/driving-licence-holders/)
 
@@ -138,12 +138,16 @@ Check that your travel insurance policy covers you when riding a motorcycle.
 
 Always wear a helmet.
 
+#### Taxis
+
+Only use taxis licensed by the Norwegian Public Roads Administration [(NPRA).](https://www.vegvesen.no/en/)
+
 #### Air travel
 
 DFAT doesn't provide information on the safety of individual commercial airlines or flight paths.
 
 Check [Norway's air safety profile](http://aviation-safety.net/database/country/country.php?id=LN) with the Aviation Safety Network.
 
-**More information:**
+More information:
 
 * [Air travel](https://www.smartraveller.gov.au/node/353)

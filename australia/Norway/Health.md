@@ -10,10 +10,13 @@ If you can't afford travel insurance, you can't afford to travel. This applies t
 
 If you're not insured, you may have to pay thousands of dollars up-front for medical care.
 
+Australia has a reciprocal healthcare agreement with Norway. You can access immediate emergency medical services. You still need comprehensive travel insurance.
+
 Confirm:
 
-* what activities and care your policy covers
-* that your insurance covers you for the whole time you'll be away.
+* what activities and care your policy covers.
+* your insurance covers helicopter rescue and medical evacuation if you are traveling to remote areas.
+* your insurance covers you for the whole time you'll be away.
 
 **More information:**
 

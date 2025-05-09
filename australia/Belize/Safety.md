@@ -2,6 +2,10 @@
 
 #### Crime
 
+A State of Emergency has been declared for parts of Belize City, the Belize District and the Cayo District in response to an escalated threat to public safety. Law enforcement have increased powers to restore order and maintain peace in affected areas. You should monitor local media and follow the advice of local authorities.
+
+The State of Emergency will initially remain in force for a month from 6 May 2025 but could be extended.
+
 #### Violent crime
 
 Violent crime that may affect foreigners in Belize includes [assault](/before-you-go/safety/assault "Reducing the risk of assault"), [rape](/before-you-go/safety/sexual-assault "Reducing the risk of sexual assault and harassment") and [armed robbery](/before-you-go/safety/theft-robbery "Theft and robbery").

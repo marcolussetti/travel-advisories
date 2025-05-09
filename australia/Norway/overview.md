@@ -2,7 +2,8 @@
 
 Latest update
 
-The Government of Norway lowered its national terror threat level from High' to 'Moderate' (level 3 of 5) on 14 November 2024 after temporarily raising it in October 2024. Norwegian authorities said there was still a heightened threat from extremists against Jewish and Israeli targets in Norway. Take official warnings seriously and follow the advice of local authorities (see 'Safety').
+We’ve reviewed our advice for Norway and continue to advise exercise normal safety precautions.   
+Terrorism is an ongoing risk. Be alert to possible threats, especially in public places. Take official warnings seriously. If there's a security incident, follow the advice of local authorities.
 
 Advice Level summary
 
@@ -22,8 +23,9 @@ Exercise normal safety precautions in Norway.
 
 ### Safety
 
+* Terrorism is a worldwide threat. Terrorist attacks could occur anywhere and at any time. Be alert to possible threats, especially in public places. Terrorists may target tourist areas or other places frequented by foreigners and where large crowds gather.
 * The Government of Norway lowered its national terror threat level from 'High' to 'Moderate' (level 3 of 5) on 14 November 2024 after temporarily raising it in October 2024. Norwegian authorities said there was still a heightened threat from extremists against Jewish and Israeli targets in Norway.  Take official warnings seriously and follow the advice of local authorities.
-* There's an ongoing threat of terrorism in Europe.
+* Norwegian authorities recommend that residents remain prepared for unexpected emergencies by maintaining a one-week supply of food, bottled water, and essential items.
 * Norway has a low level of crime. However, sexual assaults against foreigners and violent, gang-related crimes have occurred.
 * There's a risk of petty crime, particularly in and around Oslo. The risk rises during the peak tourist season from May to September. Thieves often work together and use tricks to distract travellers. Be careful in airports, train stations, Oslo's main shopping streets, hotel lobbies and restaurants.
 * Avalanches and rockslides can happen in some mountain areas. Extreme weather, floods and landslides can also occur. Check advice on weather and safety conditions before skiing or mountaineering.
@@ -54,7 +56,7 @@ Full travel advice: [Local laws](#local-laws)
 * Norway is part of the Schengen area, meaning you can enter without a visa in some cases. In other situations, you'll need to get a visa.
 * The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area is expected to start in October 2025.
 * Entry and exit conditions can change at short notice. Contact the nearest embassy or consulate of Norway for the latest details.
-* The Norwegian territory of Svalbard isn't part of the Schengen area.
+* The Norwegian territory of Svalbard isn't part of the Schengen area. You’ll need your passport to enter the Svalbard archipelago.
 * Norway's official currency is the Norwegian Kroner (NOK).
 
 Full travel advice: [Travel](#travel)
@@ -62,7 +64,7 @@ Full travel advice: [Travel](#travel)
 ### Local contacts
 
 * The [Consular Services Charter](/node/46) tells you what the Australian government can and can't do to help when you're overseas.
-* Australia doesn't have an embassy in Norway. You can seek emergency consular help from the [Canadian Embassy in Oslo](https://www.canadainternational.gc.ca/norway-norvege/contact-contactez.aspx?lang=eng).
+* Australia doesn't have an embassy in Norway. You can seek emergency consular help from the [Canadian Embassy in Oslo](https://travel.gc.ca/destinations/norway).
 * For full consular help, contact the [Australian Embassy in Copenhagen, Denmark](http://www.denmark.embassy.gov.au/cpgn/home.html).
 * Follow the Embassy's social media accounts to stay up to date with local information.
 

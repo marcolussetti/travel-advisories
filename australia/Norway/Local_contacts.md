@@ -44,7 +44,7 @@ Wergelandsveien 7, 4th floor
 0244 Oslo  
 Norway  
   
-Phone: (+47) 22 99 53 00  
+Phone: +47 22 99 53 00  
 Email: [oslo@international.gc.ca](mailto:oslo@international.gc.ca)
 
 You can also seek consular help from the Australian Embassy in Copenhagen, Denmark:
