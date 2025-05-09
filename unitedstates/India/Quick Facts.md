@@ -12,15 +12,19 @@ BLANK PASSPORT PAGES:
 
 TOURIST VISA REQUIRED:
 
-Travelers must enter with a visa in their passport (valid for 10 years for U.S. citizens) or an e-Tourist visa E-tourist visa varies in number of years valid. It is only permitted for entry at certain international airports and seaports. India issues visas with dates in DD/MM/YY format.
+Travelers must enter with a visa in their passport (valid for 10 years for U.S. citizens) or an e-Tourist visa.
+
+E-tourist visa varies in number of years valid. It is only permitted for entry at [certain international airports and seaports](https://boi.gov.in/boi/public/visaservise). India issues visas with dates in DD/MM/YY format.
 
 VACCINATIONS:
 
-Travelers arriving from an infected area must be vaccinated. Regular vaccinations are suggested.
+**Yellow fever:** Travelers arriving from an infected area must be vaccinated.
+
+**Other:** Regular vaccinations are suggested.
 
 CURRENCY RESTRICTIONS FOR ENTRY:
 
-Declare currency over $5,000. Contact the Indian Embassy in Washington D.C. if you plan to carry large amounts of cash or gold into India.
+Declare currency over $5,000. Contact the [Indian Embassy in Washington D.C.](https://www.indianembassyusa.gov.in/) if you plan to carry large amounts of cash or gold into India.
 
 CURRENCY RESTRICTIONS FOR EXIT:
 

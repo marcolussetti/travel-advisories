@@ -2,123 +2,365 @@
 
 [#### Safety and Security](javascript:void(0); "Safety and Security")
 
-U.S. citizens should always practice good personal security and situational awareness. Be aware of your surroundings. This includes local customs and etiquette. Keep a low profile. Monitor local news reports, vary routes and times in carrying out daily activities, and consider the level of security present when visiting public places, including religious sites, and when choosing hotels, restaurants, and entertainment and recreation venues.
+**Emergency phone numbers**
 
-India intermittently experiences terrorist and insurgent activities which may affect U.S. citizens directly or indirectly. Some U.S.-designated terrorist groups are active in India, including Jaish-e-Mohammed and Lashkar-e Tayyiba. The U.S. government occasionally receives information regarding possible terrorist attacks that could take place in India, monitors such information to determine credibility, and advises U.S. citizens accordingly. Enroll in the [Smart Traveler Enrollment Program (STEP)](https://step.state.gov/step/) to receive messages from the Embassy automatically.
+Local authorities are responsible for investigating and prosecuting crimes.
 
-Past attacks have targeted public places, including some frequented by Westerners, such as luxury and other hotels, trains, train stations, markets, cinemas, mosques, and restaurants in large urban areas. Attacks have taken place during the busy evening hours in markets and other crowded places but could occur at any time. Alerts are usually more frequent around major holidays. The Maoists (also known as “Naxalites”) are the most active insurgent group in India. The Naxalites typically attack Indian government officials, but have also derailed trains, targeted other government buildings such as police stations, and conducted other criminal activity.
+* **Dial 100** from a landline
+* **Dial 112** from a mobile phone
 
-Demonstrations and general strikes, or “bandh,” often cause major inconvenience and unrest. These strikes can result in the stoppage of all transportation and tourist-related services, at times for 24 hours or more. U.S. citizens caught in such a strike may find they are unable to make flight and rail connections, as local transportation can be severely limited. Local media generally give an idea of the length and geographical location of the strike. You are urged to obey any imposed curfews and travel restrictions and avoid demonstrations and rallies as they have the potential for violence, especially immediately preceding and following political rallies, elections, and religious festivals (particularly when Hindu and Muslim festivals coincide). Tensions between castes and religious groups can also result in disruptions and violence.
+Contact the nearest U.S. Embassy or Consulate after reporting to local police.
 
-There are active "anti-conversion" laws in some Indian states, and acts of conversion sometimes elicit violent reactions from Hindu extremists. Foreigners suspected of proselytizing Hindus have been attacked and killed in conservative, rural areas in India in years past. In some cases, demonstrators specifically block roads near popular tourist sites and disrupt train operations in order to gain the attention of Indian authorities; occasionally vehicles transporting tourists are attacked in these incidents. You should monitor local television, print and social media, and Mission India’s American Citizens Services [Facebook](https://www.facebook.com/AmericanCitizenServicesIndia/) page
+* U.S. Embassy New Delhi: **+(91) (11) 2419-8000**
+* U.S. Consulate General Mumbai: **+(91) (22) 2672-4000**
+* U.S. Consulate General Kolkata: **+(91) (33) 3984-2400**
+* U.S. Consulate General Chennai: **+(91) (44) 2857-4000**
+* U.S. Consulate General Hyderabad: **+(91) (40) 6932 8000**
 
-**Swimming:** You should exercise caution if you intend to swim in open waters along the Indian coastline, particularly during the monsoon season. Every year, people in Goa, Mumbai, Puri (Odisha), off the Eastern Coast in the Bay of Bengal, and other areas drown due to strong undertows. It is important to heed warnings posted at beaches and to avoid swimming in the ocean during the monsoon season. Several years ago, there were reports of fatal crocodile attacks in the Andaman Islands. Trained lifeguards are very rare along beaches.
+**Crime**
 
-**Wildlife Safaris:**Many tour operators and lodges advertise structured, safe excursions into parks and other wildlife viewing areas for close observation of flora and fauna. However, safety standards and training vary, and it is advisable to ascertain whether operators are trained and licensed. Even animals marketed as “tame” should be respected as wild and extremely dangerous. Keep a safe distance from animals at all times, remaining in vehicles or other protected enclosures when venturing into game parks or safaris.
+Always be aware of your surroundings:
 
-**Trekking:** Trekking expeditions should be limited to routes identified for this purpose by local authorities. Use only registered trekking agencies, porters, and guides, suspend trekking after dark, camp at designated camping places, and travel in groups rather than individually. Altitudes in popular trekking spots can exceed 25,000 feet (7,620 m); please ensure you are fit to trek at these altitudes and carry sufficient medical insurance that includes medical evacuation coverage.
+* Understand local customs and etiquette.
+* Keep a low profile.
+* Monitor local news.
+* Change your daily routes and times.
+* Consider security when visiting public and religious sites.
+* Carefully select safe hotels, restaurants, entertainment venues and recreation places.
 
-**Train Travel:** India has the third largest rail network in the world, and train travel in India is generally safe. Nevertheless, accidents and on-board fires are sometimes caused by aging infrastructure, poorly maintained equipment, overcrowding, and operator errors. Train accidents and fires have resulted in death and serious injury of passengers.
+Stay informed while traveling:
 
-**Areas of Instability: Jammu & Kashmir:**The Department of State recommends that you do not travel to the union territory of Jammu & Kashmir because of the potential for terrorist incidents as well as violent public unrest. A number of terrorist groups operate in the territory targeting security forces, particularly along the Line of Control (LOC) separating Indian and Pakistani-controlled Kashmir, and those stationed in primary tourist destinations in the Kashmir Valley: Srinagar, Gulmarg, and Pahalgam. Foreigners are particularly visible, vulnerable, and at risk. In the past, serious communal violence left the territory mostly paralyzed due to massive strikes and business shutdowns, and U.S. citizens have had to be evacuated by local police. The Indian government prohibits foreign tourists from visiting certain areas along the LOC (see the section on Restricted Areas, below) and may require a travel permit to enter this area.
+* Advisory alerts are issued from the U.S. Embassy through the [Smart Traveler Enrollment Program (STEP)](https://step.state.gov/STEP/Pages/Common/Citizenship.aspx). Register to receive alerts while traveling abroad.
+* Regularly monitor travel information from the U.S. Embassy in New Delhi and the U.S. Consulates General inMumbai, Chennai, Hyderabad, and Kolkata.
 
-**India-Pakistan Border:** The Department of State recommends that you do not travel to areas within ten kilometers of the border between India and Pakistan. Both India and Pakistan maintain a strong military presence on both sides of the border. The only official India-Pakistan border crossing point for persons who are not citizens of India or Pakistan is in the state of Punjab between Atari, India, and Wagah, Pakistan. The border crossing is usually open, but you are advised to confirm the current status of the border crossing prior to commencing travel. A Pakistani visa is required to enter Pakistan. Only U.S. citizens residing in India may apply for a Pakistani visa in India. Otherwise, you should apply for a Pakistani visa in your country of residence before traveling to India.
+**Terrorist activities**
 
-Both India and Pakistan claim an area of the Karakoram Mountain range that includes the Siachen glacier. Travel or mountain climbing in this area is highly dangerous. The disputed area includes the following peaks: Rimo Peak; Apsarasas I, II, and III; Tegam Kangri I, II and III; Suingri Kangri; Ghiant I and II; Indira Col; and Sia Kangri. Check with the U.S. Embassy in New Delhi for information on current conditions.
+Terrorist attacks and insurgent activities may happen in India:
 
-**Northeastern States:** Incidents of violence by ethnic insurgent groups, including bombings of buses, trains, rail lines, and markets, occur sporadically in the northeast. While U.S. citizens have not been specifically targeted, it is possible that you could be affected as a bystander. If you travel to the northeast, you should avoid travel by train at night, travel outside major cities at night, and crowds. U.S. government employees at the U.S. Embassy and Consulates in India are prohibited from traveling to certain areas in the states of Assam, Arunachal Pradesh, Sikkim, Mizoram, Nagaland, Meghalaya, Tripura, and Manipur without permission from the U.S. Consulate General in Kolkata. Restricted Area Permits are required for foreigners to visit certain Northeastern states (see the section on Restricted Areas, below.) Contact the U.S. Consulate General in Kolkata for information on current conditions.
+* U.S.-designated terrorist groups like Jaish-e-Mohammed and Lashkar-e Tayyiba are active in India. Past attacks targeted public places like:
+  + Luxury and other hotels
+  + Markets
+  + Cinemas
+  + Mosques
+  + Restaurants
+  + Trains and train stations
+* Attacks can take place anytime, but busy evening hours in markets and crowded places are common.
+* Attacks may occur around holidays.
 
-**East Central and Southern India:**Maoist extremist groups, or “Naxalites,” are active in East Central India, primarily in rural areas. The Naxalites have a long history of conflict with state and national authorities, including frequent terrorist attacks on local police, paramilitary forces, and government officials, and are responsible for more attacks in the country than any other organization through an ongoing campaign of violence and intimidation. Naxalites have not specifically targeted U.S. citizens but have attacked symbolic targets that have included Western companies and rail lines. While Naxalite violence does not normally occur in places frequented by foreigners, there is a risk that visitors could become victims of violence.
+**Strikes and demonstrations**
 
-Naxalites are active in a large swath of India from eastern Maharashtra and northern Telangana through western West Bengal, particularly in rural parts of Chhattisgarh and Jharkhand and on the borders of Telangana, Andhra Pradesh, Maharashtra, Madhya Pradesh, Uttar Pradesh, Bihar, West Bengal, and Odisha. Due to the fluid nature of the threat, all U.S. government travelers to states with Naxalite activity must receive authorization from the U.S. Consulate responsible for the area to be visited, unless they are only visiting capital cities.
+Strikes and demonstrations (“bandh”) can cause major disruptions.
 
-**Restricted/Protected areas:** Certain states or portions of states require Restricted Area Permits. These include:
+* Transportation and tourist-related services can be stopped at times for 24 hours or more. Local travel by air and railways may be severely limited.
+* Obey all curfews and travel restrictions.
+* Avoid demonstrations and rallies, especially around political events and religious festivals.
+* There is the potential for violence when Hindu and Muslim festivals coincide or tensions between castes and religious groups occur.
 
-* The state of Arunachal Pradesh
-* Portions of the state of Sikkim
-* Portions of the state of Himachal Pradesh near the Chinese border
-* Portions of the state of Uttarakhand (Uttaranchal) near the Chinese border
-* Portions of the state of Rajasthan near the Pakistani border
-* Portions of the union territory of Jammu & Kashmir near the Line of Control with Pakistan and certain portions of the union territory of Ladakh
-* The union territory of Andaman & Nicobar Islands
+Follow local media for information about the location and length of time for strikes.
+
+**Anti-conversion laws and safety**
+
+Some Indian states have “anti-conversion” laws.
+
+* Acts of conversion can provoke violent reactions from Hindu extremists.
+* Foreigners suspected of converting Hindus have been attacked and killed, especially in conservative, rural areas.
+* Demonstrators may block roads near tourist sites and disrupt train operations to attract attention of authorities.
+* Sometimes vehicles transporting tourists are attacked.
+
+Stay informed:
+
+* Monitor local TV, print, and social media.
+* Follow Mission India’s American Citizens Services [Facebook page](https://www.facebook.com/AmericanCitizenServicesIndia/) for updates.
+
+**Swimming safety**
+
+* Be cautious swimming in open waters along the Indian coastline.
+* Avoid swimming in the ocean during the monsoon season.
+* Strong currents cause drowning every year in areas like Goa, Mumbai, Puri (Odisha) and the Bay of Bengal.
+* Always follow posted warnings at beaches.
+* There have been reports of fatal crocodile attacks in the Andaman Islands.
+* Trained lifeguards are very rare along beaches.
+
+**Wildlife safaris**
+
+Many tour operators and lodges offer safe excursions into parks and wildlife viewing areas.
+
+* Safety standards and training can vary, so check if operators are trained and licensed.
+* Treat all animals, even those marked as “tame,” as wild and dangerous.
+* Keep a safe distance from animals.
+* Stay in vehicles or protected enclosures while in game parks or on safaris.
+
+**Trekking safety**
+
+* Stick to routes identified by local authorities.
+* Use only registered trekking agencies, porters, and guides.
+* Avoid trekking after dark.
+* Camp only at designated sites.
+* Travel in groups.
+* Popular trekking spots can reach altitudes over 25,000 feet (7,620 meters).
+* Ensure you are fit for high altitudes and have medical insurance that includes evacuation coverage.
+
+**Train travel safety**
+
+Train travel is generally safe in India.
+
+* India has the third largest railway network in the world.
+* Accidents and on-board fires can occur due to aging infrastructure, poor maintenance, overcrowding, and operator errors.
+* These incidents have caused deaths and serious injuries.
+
+**Areas of instability**
+
+**Jammu and Kashmir**
+
+* Avoid traveling to Jammu & Kashmir due to potential terrorist incidents and violent public unrest.
+* The region of Jammu & Kashmir is disputed with India, Pakistan, and China all claiming some or all of the territory. Terrorist groups target security forces, especially along the Line of Control (LOC) between India and Pakistan.
+* Key tourist spots like Srinagar, Gulmarg, and Pahalgam are particularly risky for foreigners.
+* Communal violence has caused large strikes and business shutdowns, requiring police evacuations of U.S. citizens.
+* Foreign tourists are prohibited from visiting certain areas along the LOC and may need a travel permit.
+
+**India-Pakistan border**
+
+* Avoid areas within 10 kilometers (6 miles) of the India-Pakistan border.
+* Both countries maintain a strong military presence on their respective sides of the border.
+* The only official border crossing for non-citizens is between Atari, India, and Wagah, Pakistan in the state of Punjab.
+* The border crossing is usually open, but travelers should confirm its status before traveling.
+* You need a Pakistani visa to enter Pakistan. U.S. citizens living in India can apply for a Pakistani visa in India. Others should apply in their country of residence.
+
+**Karakoram Mountain range**
+
+* Both India and Pakistan claim an area in the Karakoram Mountain range, including the Siachen glacier.
+* Travel and mountain climbing in this area are highly dangerous.
+* The disputed area includes:
+  + Rimo Peak
+  + Apsarasas I, II, III,
+  + Tegam Kangri I, II, III,
+  + Suingri Kangri
+  + Ghiant I, II
+  + Indira Col
+  + Sia Kangri
+* Check with the U.S. Embassy in New Delhi for current conditions.
+
+**Northeastern states**
+
+Ethnic insurgent groups in the northeast sometimes commit violent acts, including bombing buses, trains, rail lines and markets.
+
+* U.S. citizens are not usually targeted but could be affected as bystanders.
+* Avoid traveling by train at night, traveling outside major cities at night, and large crowds.
+* U.S. government employees need permission from the U.S. Consulate General in Kolkata to travel to certain areas in:
+  + Assam
+  + Arunachal Pradesh
+  + Sikkim
+  + Mizoram
+  + Nagaland
+  + Meghalaya
+  + Tripura
+  + Manipur
+* Foreigners need Restricted Area Permits to visit some Northeastern states. Contact the U.S. Consulate General in Kolkata for current conditions.
+
+**East Central and Southern India**
+
+Maoist extremist groups, known as “Naxalites,” are active in East Central India’s rural areas.
+
+* Naxalites frequently attack local police, paramilitary forces and government officials.
+* They are responsible for more attacks in India than any other group.
+* Naxalites have not specifically targeted U.S. citizens but have attacked Western companies and rail lines.
+* Naxalite violence rarely occurs in places frequented by foreigners, but there is still a risk.
+
+Areas of Naxalite activity include:
+
+* Eastern Maharashtra and northern Telangana through western West Bengal.
+* Rural parts of Chhattisgarh and Jharkhand.
+* Borders of Telangana, Andhra Pradesh, Maharashtra, Madhya Pradesh, Uttar Pradesh, Bihar, West Bengal, and Odisha.
+
+U.S. government employee travel restrictions:
+
+* Due to changing threats, U.S. government travelers to states with Naxalite activity need authorization from the U.S. consulate responsible for the area.
+* This is required unless they are only visiting capital cities.
+
+**Restricted and protected areas**
+
+Certain states or parts of states require foreign travelers to obtain [Restricted Area Permits](https://boi.gov.in/boi/public/pages/ea8303e5-a167-48cb-857a-31b475fe7575) from the Government of India Bureau of Immigration. These areas include:The union territory of Andaman & Nicobar Islands
+
 * The union territory of the Laccadives Islands (Lakshadweep)
-* Portions of the state of Manipur
-* Portions of the state of Mizoram
-* Portions of the state of Nagaland
+* The state of Arunachal Pradesh.
+* Portions of the union territory of Jammu & Kashmir near the Line of Control with Pakistan and certain portions of the union territory of Ladakh.
 
-More information about travel to/in restricted/protected areas can be found from India’s [Bureau of Immigration](http://boi.gov.in/).
+It also includes portions of the states of:
 
-Restricted Area Permits are available outside India at Indian embassies and consulates abroad, or in India from the Ministry of Home Affairs (Foreigners Division) at Jaisalmer House, 26 Man Singh Road, New Delhi. The states of Arunachal Pradesh and Sikkim maintain official guesthouses in New Delhi, which can also issue Restricted Area Permits for their respective states for certain travelers. While visiting Mamallapuram (Mahabalipuram) in Tamil Nadu, you should be aware that the Indira Gandhi Atomic Research Center in Kalpakkam is located just south of the site and is not clearly marked as a restricted and dangerous area.  
-  
-While visiting the Andaman & Nicobar Islands, you should be aware that the Indian government has strictly forbidden anyone from visiting North Sentinel Island to ensure the safety of islanders and travelers.  Travelers who violate[this law](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fen.wikisource.org%2Fwiki%2FAndaman_and_Nicobar_Islands_(Protection_of_Aboriginal_Tribes)_Regulation%2C_1956&data=05%7C02%7COCSContentManager%40state.gov%7C3d26bbe5c4b74f91940c08dd7de80b27%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C638805157750053814%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=y71rLW6bL9nvxA7p%2FW4PzBo8Xv3AWh26jN7GYUrT2g8%3D&reserved=0 "Original URL: https://en.wikisource.org/wiki/Andaman_and_Nicobar_Islands_(Protection_of_Aboriginal_Tribes)_Regulation,_1956. Click or tap if you trust this link.") may be arrested.
+* Sikkim
+* Himachal Pradesh near the Chinese border
+* Uttarakhand (Uttaranchal) near the Chinese border
+* Rajasthan near the Pakistani border
+* Manipur
+* Mizoram
+* Nagaland
 
-For the latest security information, travelers should enroll in [STEP](https://step.state.gov/step/) to receive updated security information and regularly monitor travel information available from the [U.S. Embassy in New Delhi](https://in.usembassy.gov/embassy-consulates/new-delhi/) as well as the U.S. Consulates General in [Mumbai](https://in.usembassy.gov/embassy-consulates/mumbai/) , [Chennai](https://in.usembassy.gov/embassy-consulates/chennai/), [Hyderabad](https://in.usembassy.gov/embassy-consulates/hyderabad/), and [Kolkata](https://in.usembassy.gov/embassy-consulates/kolkata/).
+**Obtaining Restricted Area Permits**
 
-**Crime:** Violent crime, especially directed against foreigners, has traditionally been uncommon. Petty crime, especially theft of personal property (including U.S. passports), is common, particularly on trains or buses, at airports, and in major tourist areas. Pickpockets can be very skilled and travelers have reported having their bags snatched, purse-straps cut, or the bottom of their purses slit without their knowledge. If traveling by train, lock your sleeping compartments and take your valuables with you when leaving your berth. If you travel by air, be careful with your bags in the arrival and departure areas outside airports. Be cautious about displaying cash or expensive items to reduce the chance of being a target for robbery or other crime, and be aware of your surroundings when you use ATMs. Scammers have used ATM card scams to clone credit card details and withdraw money.
+* Restricted Areas Permits can be obtained from Indian embassies and consulates abroad.
+* Within India, the permits can be obtained from the Ministry of Home Affairs (Foreigners Division) at Jasisalmer House, 26 Man Sign Road, New Delhi.
+* Official guesthouses in New Delhi for Arunachal Pradesh and Sikkim can issue permits to certain travelers for their respective states.
 
-Individuals have reported cases of sexual assault, including rape, against U.S. citizens traveling throughout India.
+**Specific areas of caution**
 
-The U.S. government cautions citizens, especially women, not to travel alone in India. Please observe stringent security precautions. When traveling without known and trustworthy companions, use public transport specifically designated for “women-only” travelers, which is a free service offered by the Indian government in many metropolitan cities including Delhi and Hyderabad. Please restrict evening entertainment to well-known venues and avoid isolated areas when traveling alone at any time of the day. Keep your hotel room number confidential and make sure hotel room doors have chains, deadlocks, and peep holes. Travel with groups of friends rather than alone. In addition, only hire reliable cars and drivers and avoid traveling alone in hired taxis, especially at night. Use taxis from hotels and pre-paid taxis at airports rather than hailing them on the street. If you encounter threatening situations, call “100” for police assistance (“112” from mobile phones). If you use app-based services like “Uber” or “Ola” share your ride information with a friend.
+* **Mamallapuram (Mahabalipuram) in Tamil Nadu:** Be aware that the Indira Gandhi Atomic Research Center in Kalpakkam is nearby. It is restricted, dangerous, and not clearly marked.
+* **Andaman & Nicobar Islands:** The Indian government has strictly forbidden anyone from visiting North Sentinel Island to ensure the safety of islanders and travelers. Travelers who violate [this law](https://en.wikisource.org/wiki/Andaman_and_Nicobar_Islands_(Protection_of_Aboriginal_Tribes)_Regulation,_1956) may be arrested.
 
-Travelers in India are advised to respect local dress and customs. Indian women typically wear conservative everyday dress. This is the norm throughout the country, and even more so in rural areas. They wear clothing that covers their legs and shoulders. Exceptions are vacation resorts catering to foreign clientele and some neighborhoods of major cities like New Delhi and Mumbai. Western women, especially those of African descent, continue to report incidents of verbal and physical harassment by individuals and groups of men. Known locally as “Eve-teasing,” these incidents of sexual harassment can be quite frightening and quickly cross the line from verbal to physical. Sexual harassment can occur anytime or anywhere, but most frequently has happened in crowded areas such as in marketplaces, train stations, buses, and public streets. The harassment can range from sexually suggestive or lewd comments to catcalls to outright groping.
+**Crime**
 
-The Government of India has focused more on addressing gender-based violence. One outcome has been more reports of sexual assault nationwide. Indian authorities report rape is one of India's fastest growing crimes.
+Violent crime is uncommon against foreign travelers, but travelers should stay alert.
 
-If you find yourself in a life-threatening situation, you should call the police immediately and follow up with a call to the nearest U.S. Embassy or Consulate. We can sometimes connect you with an Indian non-governmental organization that may be able to provide assistance.
+Petty crime is common, especially theft of personal property (including U.S. passports) on trains, buses, at airports, and in major tourist areas.
 
-Please review our travel tips for [Women Travelers](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/women-travelers.html).
+* Pickpockets can be skilled, often snatching bags, cutting purse straps, or slitting the bottom of purses without detection.
+* On trains, lock sleeping compartments and keep valuables with you.
+* At airports, be careful with your bags in arrival and departure areas.
+* Avoid displaying cash or expensive items to reduce the risk of robbery.
+* Be aware of your surroundings when using ATMs to avoid scams.
 
-If you are victimized overseas, you may be entitled to receive compensation for counseling and/or other services such as relocation back to the United States. For further information, visit the [U.S. Department of Justice page for violence against women.](https://www.justice.gov/ovw/resources)
+**Victims of crime**
 
-Scams are common at major airports, train stations, popular restaurants, and tourist sites. Scam artists prey on visitors by creating distractions. Be careful of taxi drivers and others. This includes train porters. They solicit travelers with "come-on" offers of cheap transportation and/or hotels. Travelers who accept such offers are often the victims of scams. These include offers to help with "necessary" transfers to the domestic airport, overpriced hotel rooms, unwanted "tours," unwelcome "purchases," long cab rides, and even threats when the tourists decline to pay. Tourists have reported being lured and extorted for money in the face of threats of violence against the traveler and his/her family members. Be careful when hiring transportation and guides. Use only well-known travel agents to book trips.
+* Report crimes to the local police by **dialing 100** from a landline or **dialing 112** from a mobile phone.
+* Local authorities are responsible for investigating and prosecuting crimes.
+* Ask for a copy of the police report, known as a “First Information Report” (FIR) when you report an incident. Local authorities usually can’t act without this report.
 
-Some vendors sell carpets, jewelry, and gemstones. These items may be expensive and not of the promised quality. Deal only with reputable businesses and do not hand over your credit cards or money unless you are certain that goods being shipped are the goods you purchased. If a deal sounds too good to be true, it is best avoided. Most Indian states have official tourism bureaus set up to handle complaints. Do not agree to transport any goods on behalf of strangers in exchange for money.
-
-**India-based criminals use the internet to extort money from victims abroad. In a common scam, the victim develops a close romantic relationship with an alleged U.S. citizen they meet online. When the “friend” travels to India, a series of accidents occur and the victim begins to receive requests for financial assistance, sometimes through an intermediary. In fact, the U.S. citizen “friend” does not exist; they are only online personas used by criminal networks. Victims have been defrauded of thousands of dollars in these schemes. Do not send money to anyone you have not met in person and carefully read the Department of State’s advice on** [international financial scams](https://travel.state.gov/content/travel/en/international-travel/emergencies/international-financial-scams.html).
-
-In another common scam, family members in the United States, especially older people, are asked for money. The scammers claim to be grandchildren or relatives who have been arrested or are without money to return home. Do not send money without contacting the U.S. Embassy or Consulate General to confirm the other party’s situation. You can also call our Office of Overseas Citizens Services at 888-407-4747 (from overseas: 202-501-4444). Review our information on [emergency assistance to Americans abroad.](https://travel.state.gov/content/travel/en/international-travel/emergencies.html)
-
-U.S. citizens have had problems with business partners, usually involving property investments. You may wish to seek professional legal advice in reviewing any contracts for business or services offered in India. The U.S. Embassy and consulates cannot give legal advice. They also cannot help U.S. citizens with Indian courts on civil or criminal matters. A list of local attorneys is available on the Embassy and Consulates General [websites](https://in.usembassy.gov/).
-
-See the [Department of State](https://travel.state.gov/content/travel/en/international-travel/emergencies/international-financial-scams.html) and the [FBI](https://www.fbi.gov/how-we-can-help-you/safety-resources/scams-and-safety/common-scams-and-crimes)pages for more information on scams.
-
-Don’t buy counterfeit and pirated goods, even if they are widely available. Not only are the bootlegs illegal in the United States, if you purchase them you may also be breaking local law.
-
-**Victims of Crime:**U.S. citizen victims of sexual assault should first contact the local police, then inform the U.S. Embassy or local Consulate.
-
-Report crimes to the local police by calling “100” or “112” from a mobile phone.
-
-Remember that local authorities are responsible for investigating and prosecuting the crime.
-
-See our webpage on [help for U.S. victims of crime overseas](https://travel.state.gov/content/travel/en/international-travel/emergencies/crime.html).
+The Department of State provides [help for U.S. victims of crime overseas.](https://travel.state.gov/content/travel/en/international-travel/emergencies/crime.html)
 
 We can:
 
-* help you find appropriate medical care
-* assist you in reporting a crime to the police
-* contact relatives or friends with your written consent
-* explain the local criminal justice process in general terms
-* provide a list of local attorneys
-* provide information on [victims’ compensation programs in the U.S.](https://nacvcb.org/)
-* provide an emergency loan for repatriation to the United States and/or limited medical support in cases of destitution
-* help you find accommodation and arrange flights home
-* replace a stolen or lost passport
+* Replace a stolen or lost passport.
+* Help you find appropriate medical care.
+* Assist you in reporting a crime to the police.
+* Contact relatives or friends with your written consent.
+* Provide general information about the victim’s role during local investigation and following its conclusion.
+* Share a list of local attorneys.
+* Inform you of [victim’s compensation programs](https://nacvcb.org/) in the U.S.
+* Issue an emergency loan for repatriation to the U.S. and/or limited medical support in cases of destitution.
+* Help you find accommodation and arrange flights home.
 
-You should ask for a copy of the police report, known as a “First Information Report” (FIR), from local police when you report an incident. Local authorities generally can't act without a police report.
+**Stolen passports**
 
-If your passport is stolen, report the theft or loss right away. Report it to the police in the place where your passport was stolen. You need an FIR to get an exit visa to leave India. The Indian government requires it if the lost passport had your Indian visa. Although the Embassy or Consulate General is able to replace a stolen or lost passport, the Ministry of Home Affairs and the Foreigners Regional Registration Office (FRRO) are responsible for approving an exit permit. This process usually takes three to four working days but can take longer.
+* If your passport is stolen, report it right away to the police where it was stolen.
+* You need an “First Information Report” (FIR) to get an exit visa to leave India. The Indian government requires this if your lost passport had an Indian visa.
+* The Embassy or Consulate General can replace your passport, but the Ministry of Home Affairs and Foreigners Regional Registration Office (FRRO) must approve an exit permit.
+* The replacement process usually takes 3 to 4 working days but can take longer.
 
-In cases of sexual assault or rape, the Embassy or Consulates General can provide a list of local doctors and hospitals, if needed, to discuss treatment and prevention options for diseases and pregnancy. You should be aware that for evidence of an assault to be submitted in a court case, Indian authorities require that the medical exam be completed at a government hospital. Therefore, if a victim goes to a private hospital for treatment, the hospital will refer them to a government hospital for this aspect of the medical process.
+**Sexual assault or rape**
 
-India has many resources for victims of rape and sexual assault. The specific toll-free Women’s Helpline Service number in Delhi is 1091; in Mumbai it is 103; in Kolkata, 1090; in Chennai, 1091 or 2345-2365; and in Hyderabad 1098.
+Cases of sexual assault, including rape, are reported against U.S. citizens.
 
-The local equivalent to the “911” emergency line in India is “100.” An additional emergency number, “112,” can be accessed from mobile phones.
+* Victims of sexual assault may wish to contact the local police or the U.S. Embassy or local Consulate.
+* The Embassy or Consulates General can provide a list of local doctors and hospitals. They can help with treatment and prevention options for diseases and pregnancy.
+* For evidence to be used in court, Indian authorities require a medical exam at a government hospital. Private hospitals will refer victims to a government hospital for this process.
+* India has many resources for victims of rape and sexual assault. The specific toll-free Women’s Helpline Service numbers for each area are:
+  + Delhi is **1091**
+  + Mumbai is **103**
+  + Kolkata is **1090**
+  + Chennai is **1091** or **2345-236**
+  + Hyderabad is **1098**
 
-Please see our [information for victims of crime](https://travel.state.gov/content/travel/en/international-travel/emergencies/crime.html), including possible victim compensation programs in the United States.
+**Domestic violence**
 
-**Domestic Violence:** U.S. citizen victims of domestic violence may contact the Embassy or Consulates for assistance.
+U.S. citizen victims of domestic violence may contact the U.S. embassy or consulates for help.
 
-**Tourism:** The tourism industry is unevenly regulated, and safety inspections for equipment and facilities do not commonly occur. Hazardous areas/activities are not always identified with appropriate signage, and staff may not be trained or certified either by the host government or by recognized authorities in the field. In the event of an injury, appropriate medical treatment is typically available only in/near major cities. First responders are generally unable to access areas outside of major cities and to provide urgent medical treatment. U.S. citizens are encouraged to purchase medical evacuation insurance. See our webpage for more [information on insurance providers for overseas coverage.](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html?cq_ck=1708701048867)
+**Tourism safety**
+
+The tourism industry is unevenly regulated in India.
+
+* Safety inspections for equipment and facilities are rare.
+* Dangerous areas and activities are not always marked with signs.
+* Staff may not be properly trained or certified by the government or recognized authorities.
+* In case of injury, appropriate medical treatment is usually available only in or near major cities.
+* First responders often cannot reach areas outside major cities quickly.
+* U.S. citizens are encouraged to purchase medical evacuation insurance.
+* The Department of State provides [information on insurance providers](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html?cq_ck=1708701048867) for coverage abroad.
+
+**Safety for women travelers**
+
+The U.S. government advises against women traveling alone in India:
+
+* Observe strict security precautions.
+* Use public transport designated for “women-only” travelers, a free service in many cities including Delhi and Hyderabad.
+* Restrict evening entertainment to well-known venues and avoid isolated areas.
+* Keep your hotel room number confidential. Ensure room doors have chains, deadlocks, and peepholes.
+* Travel with family or friends.
+* Hire reliable cars and drivers. Avoid traveling alone in hired taxis, especially at night.
+* Use taxis from hotels or pre-paid taxis at airports rather than waving them down on the street.
+* If you encounter a threatening situation, request police assistance by **dialing 100** from a landline or **dialing 112** from a mobile phone.
+* When using app-based services like “Uber” or “ola,” share your ride information with a friend or family member.
+
+Respect local customs:
+
+* Indian women typically wear conservative clothing that covers their legs and shoulders, especially in rural areas.
+* Exceptions include vacation resorts and some neighborhoods in major cities like New Delhi and Mumbai.
+* Western women, especially those of African descent, have reported verbal and physical harassment, known as “Eve-teasing.”
+* Harassment can range from vulgar comments to groping and can happen anywhere. It is more common in crowded places like markets, train stations, buses, and public streets.
+
+Addressing violence against women:
+
+* Reports of sexual assault have increased nationwide.
+* Rape is reported as one of India’s fastest growing crimes.
+
+Victim assistance:
+
+* If you are victimized overseas, you may be entitled to compensation for counseling and other services, such as relocation back to the United States.
+* Learn more from the [U.S. Department of Justice violence against women](https://www.justice.gov/ovw/resources) information.
+
+Read more tips for [Women Travelers](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/women-travelers.html) from the Department of State.
+
+**Scams and how to avoid them**
+
+Scams are common at major airports, train stations, popular restaurants, and tourist sites.
+
+* Scammers trick visitors by creating distractions.
+* Be careful of taxi drivers, train porters, and others offering cheap transportation to hotels. These offers can lead to scams like:
+  + Overpriced hotel rooms
+  + Unwanted tours or purchases
+  + Long cab rides with high fees
+  + Threats if you refuse to pay
+* Tourists have reported being tricked and threatened for money.
+* Only use well-known travel agents to book trips, hire transportation or guides.
+
+Shopping Scams:
+
+* Some vendors sell expensive items like carpets, jewelry, and gemstones that are not as promised.
+* Deal only with reputable businesses.
+* Do not hand over credit cards or money unless you are sure of the purchase.
+* If a deal sounds too good to be true, avoid it.
+* Most Indian states have tourism bureaus to handle complaints.
+* Do not agree to transporting goods for strangers in exchange for money.
+
+Online Scams:
+
+* India-based criminals use the internet to extort money from victims abroad.
+* In one type of scam, victims develop a close online relationship with a fake U.S. citizen. When the “friend” or “romantic partner” travels to India, accidents happen, and they ask for money.
+* The U.S. citizen “friend” or “romantic partner” does not exist and is part of a criminal network.
+* Do not send money to anyone you have not met in person.
+* Read the Department of State’s advice on [international financial scams](https://travel.state.gov/content/travel/en/international-travel/emergencies/international-financial-scams.html).
+
+Family Scams:
+
+* Scammers call family members in the U.S., especially older people, asking for money.
+* They pretend to be grandchildren or relatives who have been arrested or need money to return home.
+* Do not send money without confirming the situation with the U.S. Embassy or Consulate General.
+* Call the Office of Overseas Citizens Services at **888-407-4747** (from overseas: **202-501-4444**) for help.
+* Review the Department of State information on [emergency assistance to Americans abroad](https://travel.state.gov/content/travel/en/international-travel/emergencies.html).
+
+ Business Problems:
+
+* U.S. citizens have had problems with business partners in India, especially with property investments.
+* Seek professional legal advice before agreeing to any contracts.
+* The U.S. Embassy and consulates cannot give legal advice or help with Indian courts.
+* A [list of local attorneys](https://in.usembassy.gov/u-s-citizen-services/local-resources-of-u-s-citizens/attorneys/) is available from the Embassy and Consulates General.
+
+Resources for scams:
+
+* [Scams](https://travel.state.gov/content/travel/en/international-travel/emergencies/international-financial-scams.html) (source: Department of State)
+* [Common Scams and Crimes](https://www.fbi.gov/how-we-can-help-you/safety-resources/scams-and-safety/common-scams-and-crimes) (source: FBI)
+
+**Counterfeit or pirated goods**
+
+Counterfeit and pirated goods are common but may be illegal according to local laws. You may also be fined or forced to hand over the goods to authorities if you try to return to the U.S. with them.
 
 **Weather and Natural Disasters**
 

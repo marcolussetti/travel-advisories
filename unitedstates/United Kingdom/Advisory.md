@@ -1,6 +1,6 @@
 # United Kingdom Travel Advisory
 
-### Travel Advisory September 6, 2024
+### Travel Advisory May 8, 2025
 
 ### United Kingdom - Level 2: Exercise Increased Caution
 
@@ -16,11 +16,15 @@
 
 ***Reissued after periodic review with minor edits.***
 
-Exercise increased caution in the United Kingdom due to terrorism.
+Exercise increased caution in the United Kingdom due to **terrorism**.
 
-**Country Summary:**Terrorist groups continue plotting possible attacks in the United Kingdom. Terrorists may attack with little or no warning, targeting tourist locations, transportation hubs, markets/shopping malls, local government facilities, hotels, clubs, restaurants, places of worship, parks, major sporting and cultural events, educational institutions, airports, and other public areas.
+**Country Summary:**
 
-There is also a risk of isolated violence by dissident groups in Northern Ireland, focused primarily on police and military targets.
+**There is risk of terrorist violence, including terrorist attacks and other activity in the United Kingdom.  Visit the U.S. Department of State's [country reports on terrorism](https://www.state.gov/country-reports-on-terrorism/) to learn more.**
+
+Terrorist groups continue plotting possible attacks in the United Kingdom.  Terrorists may attack with little or no warning, targeting tourist locations, transportation hubs, markets/shopping malls, local government facilities, hotels, clubs, restaurants, places of worship, parks, major sporting and cultural events, concerts, educational institutions, airports, and other public areas.
+
+There is also risk of isolated violence by dissident groups in Northern Ireland, focused primarily on police and military targets.
 
 Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/UnitedKingdom.html) for additional information on travel to the United Kingdom.
 
@@ -30,10 +34,10 @@ If you decide to travel to the United Kingdom:
 * Follow the instructions of local authorities.
 * Check local media for breaking events and adjust your plans based on new information.
 * Enroll in the [Smart Traveler Enrollment Program](https://step.state.gov/step/) ([STEP](https://step.state.gov/step/)) to receive Alerts and make it easier to locate you in an emergency.
-* Follow the Department of State on [Facebook](https://www.facebook.com/travelgov) and [X/Twitter](http://www.twitter.com/Travelgov)
 * Review the [Country Security Report](https://www.osac.gov/Country/UnitedKingdom/Detail) for the United Kingdom.
-* Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/traveler/none/united-kingdom?s_cid=ncezid-dgmq-travel-single-001) related to your travel and return to the United States.
 * Prepare a contingency plan for emergency situations. Review the [Traveler’s Checklist](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-checklist.html).
+* Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/traveler/none/united-kingdom?s_cid=ncezid-dgmq-travel-single-001) related to your travel and return to the United States.
+* We highly recommend that you buy insurance before you travel. Check with your travel insurance provider about evacuation assistance, medical insurance, and trip cancellation coverage.
 
 ### Travel Advisory Levels
 
