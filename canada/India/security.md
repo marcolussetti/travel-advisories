@@ -2,7 +2,9 @@
 
 ## Safety and security
 
-On May 7, 2025, the Indian military conducted air strikes on several targets in Pakistan-administered Kashmir and Punjab Province, resulting in casualties. There has also been artillery fire across the Line of Control.
+On May 7, 2025, the Indian military conducted air strikes on several targets in Pakistan-administered Kashmir and Punjab Province, resulting in casualties.
+
+There has been artillery fire across the Line of Control, as well as missile and drone attacks in Gujarat, Punjab, Rajasthan, and Jammu and Kashmir. These attacks could result in the disruption of essential services.
 
 Tensions could increase and the situation could deteriorate rapidly.
 
@@ -11,6 +13,7 @@ There are air travel disruptions and local authorities could take additional mea
 If you are in or near the affected areas:
 
 * monitor local and international media to stay informed of the rapidly evolving situation
+* contact your airline to ask how this could impact your travel plans
 * follow the instructions of local authorities, including air-raid sirens and evacuation orders
 * be vigilant and prepared to shelter in place
 

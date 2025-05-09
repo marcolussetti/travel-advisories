@@ -1,7 +1,7 @@
 {
     "name": "Pakistan",
-    "update_reason": "Safety and security \u2013 updated information on military clashes with India",
-    "update_date": "2025-05-07T21:06:00",
+    "update_reason": "Safety and security - added information on drone attacks and flight disruptions",
+    "update_date": "2025-05-08T21:30:00",
     "sections": {
         "risk": "canada/Pakistan/risk.md",
         "security": "canada/Pakistan/security.md",
