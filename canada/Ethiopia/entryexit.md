@@ -10,6 +10,14 @@ If you show symptoms of Mpox, you may be required to undergo additional testing.
 
 [Travel health declaration form](https://cbs.ephi.gov.et/redcap/surveys/?s=M9RPX4HR9748PDCR) – Ethiopian Ministry of Health
 
+### Entry and overstay fines
+
+You must have your passport stamped immediately upon entry into Ethiopia. You must also either leave Ethiopia or request an extension before you overstay your visa.
+
+If you do not comply, you could face heavy entry and overstay fines.
+
+[For more information on entry and overstay fines](#entry-overstay-fines)
+
 Every country or territory decides who can enter or exit through its borders. The Government of Canada cannot intervene on your behalf if you do not meet your destination’s entry or exit requirements.
 
 We have obtained the information on this page from Ethiopian authorities. It can, however, change at any time.
@@ -48,18 +56,26 @@ Different entry rules may apply when travelling with a temporary passport or an 
 ### Visas
 
 Tourist visa: required  
-Business visa: required  
-Transit visa: required
+ Business visa: required  
+ Transit visa: required
 
-Canadians must have a valid visa to enter the country. You may obtain a visa online. If you overstay your visa, you may face daily fines and imprisonment.
-
-You need the proper visa if you want to conduct a business or volunteering activity. If you fail to do so, you may be fined or detained.
+Canadians must have a valid visa to enter the country. You may obtain a visa online. If you fail to do so, you may be fined or detained.
 
 * Obtain a visa online before arrival
 * Verify carefully that your visa is valid
-* Ensure that your activities in the country adhere to the type of visa you have obtained
+* Make sure your activities in Ethiopia match the type of visa you get (for example, travelling for business or volunteering)
 
 [Ethiopian e-Visa](https://www.evisa.gov.et/) – Federal Democratic Republic of Ethiopia
+
+#### Entry and overstay fines
+
+You must have your passport or other travel documents stamped by Ethiopian officials when you enter the country. You will also need to request an extension of stay from the local authorities if you plan to remain in Ethiopia longer than specified on your visa.
+
+If there are no immigration officials present when you enter the country, you should declare your presence with the local authorities as soon as possible.
+
+You face heavy fines and possibly arrest and detention if you do not comply. These fines are cumulative, the amount will increase for each day you remain in Ethiopia without a stamped passport or over the amount of time permitted by your visa.
+
+You will not be permitted to leave Ethiopia until you have paid all entry and overstay fines in full.
 
 ### Other entry and exit requirements
 
@@ -67,7 +83,28 @@ Authorities may request additional documents if you enter Ethiopia by vehicle at
 
 Contact the Embassy of Canada to Ethiopia, in Addis Ababa, to determine specific entry requirements at land borders.
 
-When arriving by land, ensure to cross at an official border point and to obtain an entry stamp from Ethiopian Immigration. If you fail to do so, you’ll be fined upon departure.
+### Electronics and military equipment
+
+You may not bring many consumer electronics to Ethiopia, including any items that customs officials may consider to have a military application. This could apply to items purchased commercially with non-military applications. This could include:
+
+* satellite phones
+* binoculars
+* drones
+* rangefinders
+
+If you attempt to enter Ethiopia without official approval for any of these items, customs officials may confiscate your belongings. You could also face arrest and detention. Any items confiscated on entry may not be returned.
+
+If you will be using these items for work, you should obtain permission to bring them into the country from the Embassy of Ethiopia in Ottawa or the Consulate of Ethiopia in Toronto.
+
+[Foreign representatives in Canada](http://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng)
+
+#### Cell phones
+
+You may enter Ethiopia with one cell phone for personal use. Additional devices are subject to a customs fee, as well as an activation fee.
+
+#### Computers and audiovisual equipment
+
+You must declare all laptop computers and video equipment other than those for personal use upon arrival and departure. Some recording devices may require special customs permits.
 
 ### Children and travel
 

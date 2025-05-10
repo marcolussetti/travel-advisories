@@ -2,9 +2,9 @@
 
 ## Risk level
 
-### PAKISTAN - Exercise a high degree of caution
+### Pakistan - AVOID NON-ESSENTIAL TRAVEL
 
-[Exercise a high degree of caution](#levels "Risk Levels") in Pakistan due to the unpredictable security situation. There is a threat of terrorism, civil unrest, sectarian violence and kidnapping.
+[Avoid non-essential travel](#levels "Risk Levels") to Pakistan due to the unpredictable security situation and ongoing military clashes between Pakistan and India. There is also a threat of terrorism, civil unrest, sectarian violence and kidnapping.
 
 ### Regional advisory - Avoid all travel
 
@@ -20,13 +20,9 @@
 * the section of the Karakoram Highway from Mansehra to Chilas
 * Pakistan-administered Kashmir
 * the province of Balochistan
-* the province of Khyber Pakhtunkhwa, with the exception of the following districts where we advise against non-essential travel:
+* the province of Khyber Pakhtunkhwa, with the exception of the following districts:
 
 + Haripur
 + Abbottabad
 + Buner
 + Chitral
-
-### Karachi - Avoid non-essential travel
-
-[Avoid non-essential travel](#levels "Risk Levels") to the city of Karachi, due to violence and the risk of terrorism.

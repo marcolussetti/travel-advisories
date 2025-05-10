@@ -103,20 +103,6 @@ If caught, both the beggar/vendor and the vehicle operator face fines.
 
 Writing on blogs or social media about political subjects could lead to detention and arrest.
 
-### Cell phones
-
-You can use one cell phone or tablet on the network of the sole, state-owned telecommunications provider, Ethio Telecom.
-
-Additional devices are subject to a customs fee of 10% of the total cost of the device, as well as the activation fee.
-
-### Other electronic devices
-
-You must declare all laptop computers and video equipment other than those for personal use upon arrival and departure. Some recording devices may require special customs permits.
-
-If you will be using these items for work, obtain permission to bring them into the country from the Embassy of Ethiopia in Ottawa or the Consulate of Ethiopia in Toronto.
-
-[Foreign representatives in Canada](http://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng)
-
 ### Ramadan
 
 In 2026, the lunar month of Ramadan is expected to begin on or around February 17.

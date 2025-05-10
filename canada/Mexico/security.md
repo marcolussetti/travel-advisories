@@ -17,29 +17,6 @@ If you are in Culiacán, Mazatlán or their surrounding areas:
 
 [More information on organized crime](#organizedcrime)
 
-### Security situation in Baja California Sur
-
-Since April 22, 2025, the security situation has deteriorated in the state of Baja California Sur due to several violent incidents, such as:
-
-* shootings
-* arson
-* assaults
-* robberies
-
-The affected areas include:
-
-* Cabo San Lucas
-* La Paz
-* Los Cabos
-
-Local authorities have heightened security measures by increasing the presence of security forces and emergency medical services and imposing restrictions on the use of public transportation.
-
-If you are in or near an affected area:
-
-* exercise caution
-* follow the instructions of local authorities
-* monitor local news to stay informed of the evolving situation
-
 Levels of crime, particularly violent crime, are high throughout Mexico.
 
 If you’re a victim of a crime, you must report it immediately to local authorities. Criminal investigations require that a formal complaint be made in person. You should hire a local lawyer to represent your interests and follow up on your case after you return to Canada. Failure to do so may result in incomplete investigations or long delays in bringing cases to trial.
@@ -516,7 +493,7 @@ If you use a ride-sharing app:
 
 Pirates commit attacks and armed robberies against ships in coastal waters in the Bay of Campeche. Travellers should take appropriate precautions.
 
-[Live piracy report](https://icc-ccs.org/index.php/piracy-reporting-centre) - International Maritime Bureau
+[Live piracy report](https://icc-ccs.org/map/) - International Maritime Bureau
 
 ### Air travel
 

@@ -4,13 +4,15 @@
 
 ### Ongoing hostilities throughout Sudan
 
-Since April 2023, there has been heavy fighting throughout the country, including in the capital, Khartoum, between the Sudanese army, a paramilitary group, and other affiliated armed groups. The security situation remains highly volatile and clashes are likely to continue in the near future. The civilian population has been the victim of violence, including sexual violence. Foreigners and employees of international organizations have also been targeted by these attacks. The situation could deteriorate further.
+Since April 2023, there has been heavy fighting throughout the country, including in the capital, Khartoum, between the Sudanese army, a paramilitary group, and other affiliated armed groups. The security situation remains highly volatile and clashes are likely to continue in the near future. The civilian population has been the victim of violence, including sexual violence. Foreigners and employees of international organizations have also been targeted by these attacks.
+
+Recent drone attacks in Port Sudan underscore growing insecurity in the area. The situation could deteriorate further.
 
 You should leave the country now if you can do so safely.
 
-The conflict has severely disrupted essential services, including medical care, banking services, electricity and telecommunications. Access to basic necessities such as food, water, medication, and fuel is extremely challenging. The hostilities led to mass displacements within the country and the region, resulting in a dire humanitarian situation.
+The conflict has severely disrupted essential services, including medical care, banking services, electricity and telecommunications. Access to basic necessities such as food, water, medication and fuel is extremely challenging. The hostilities led to mass displacements within the country and the region, resulting in a dire humanitarian situation.
 
-Khartoum’s international airport remains closed, but there may be commercial departure options from Port Sudan, including flights. You should carefully assess the travel routes before going there as all overland travel remains extremely hazardous due to ongoing fighting.
+Khartoum’s international airport is closed. Port Sudan New International Airport is the only civilian airport operating international flights, but it is subject to drone attacks and may close without notice. If commercial departure options, including flights, become available from Port Sudan, you should carefully assess the security situation before you travel there. All overland travel remains extremely hazardous due to ongoing fighting.
 
 If you are currently in Sudan and choose to stay despite this advisory:
 
@@ -140,7 +142,7 @@ Maintain a heightened level of vigilance and consider regularly modifying your p
 
 Pirate attacks and armed robbery against ships occur in coastal waters. Mariners should take appropriate precautions.
 
-[Live piracy report](https://icc-ccs.org/index.php/piracy-reporting-centre) - International Maritime Bureau
+[Live piracy report](https://icc-ccs.org/map/) - International Maritime Bureau
 
 ### Fuel shortages
 

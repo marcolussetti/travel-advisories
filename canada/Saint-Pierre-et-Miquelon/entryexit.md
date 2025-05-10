@@ -8,7 +8,7 @@ We have obtained the information on this page from the French authorities. It ca
 
 Verify this information with the [Foreign Representatives in Canada](https://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng).
 
-While Saint-Pierre-et-Miquelon is a French territory, it is not part of the Schengen area and has its own entry and exit requirements.
+While the archipelago of Saint Pierre and Miquelon is a French territory, it is not part of the Schengen area and has its own entry and exit requirements.
 
 ### Passport
 
@@ -18,9 +18,9 @@ Before you travel, check with your transportation company about passport require
 
 #### Regular Canadian passport
 
-Your passport must be valid for at least 3 months beyond the expiration date of your visa, if you are staying longer than 90 days.
+Your passport must be valid for at least 3 months beyond the date you expect to leave Saint Pierre and Miquelon.
 
-If arriving directly from Canada and staying fewer than 90 days, presenting official photo identification, such as a citizenship card, a driver’s licence or a student card, is also acceptable.
+If you arrive directly from Canada for a stay of 90 days or less, an official Canadian photo identification, such as your citizenship card, driver's licence or student card, suffices.
 
 #### Passport for official travel
 
@@ -43,13 +43,14 @@ Different entry rules may apply when travelling with a temporary passport or an 
 
 ### Visas
 
-Tourist visa: not required for stays up to 90 days   
-Residence visa: required\*  
-Work visa: required   
-Business visa: required   
-Student visa: required
+Tourist visa: not required for stays of up to 90 days   
+Business visa: not required for stays of up to 90 days  
+Work permit: not required for stays of up to 90 days  
+Student visa: not required for stays of up to 90 days
 
-You may also require a residency permit. You can obtain it from the Bureau de la Réglementation at the Prefecture of Saint-Pierre-et-Miquelon.
+Visas are not issued on site. If you plan to stay longer than 90 days in Saint Pierre and Miquelon, you must obtain your visa in Canada before going there.
+
+[Do I need a visa?](https://france-visas.gouv.fr/en/web/france-visas/visa-wizard) – Government of France
 
 ### Children and travel
 

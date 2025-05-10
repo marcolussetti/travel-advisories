@@ -9,14 +9,16 @@ Frequent incidents of civil unrest can lead to violence. Sporadic roadblocks, cu
 If you travel to Ethiopia:
 
 * expect a heightened security presence
-* ensure that your travel documents are up to date
+* ensure that your travel documents are up to date and that you have your passport stamped on arrival
 * carry identification documents at all times
 * make sure to stop at all checkpoints and roadblocks, even if they appear unattended
 * if you are stopped by security forces, stay calm and follow instructions
 
 ### Amhara region
 
-The state of emergency, declared by the Ethiopian authorities on August 14, 2023, remains in effect in the Amhara region due to continued clashes between armed groups and security forces.
+There is widespread and increasing violence in the Amhara region. The security situation is evolving rapidly and could deteriorate without warning. Violent clashes between armed groups occur in and around cities, towns and airports. Road blocks and curfews are common.
+
+A state of emergency has been in effect in the Amhara region since August 14, 2023, due to continued clashes between armed groups and security forces.
 
 While a state of emergency is in effect, police and military have the power to:
 
@@ -24,11 +26,9 @@ While a state of emergency is in effect, police and military have the power to:
 * enter private properties to conduct searches
 * detain persons of interest
 
-There is increasing and spreading violence in the Amhara region. The majority of the instability is taking place in towns and villages along the A2 and B22 highways, as well as along the southern part of theA3 highway. The cities of Lalibela, Bahir Dar and Gondar have also been affected. The safety and security situation is changing rapidly and includes violent clashes between armed groups in and around cities, towns and airports. Road blocks and curfews are also being used to restrict movements.
+Due to the unstable security situation, you are at high risk of encountering movement restrictions and having no access to communications.
 
-Due to the potential for violence to increase and spread in this region, you are at high risk of encountering movement restrictions and having no access to communications.
-
-If you are in the Amhara region affected by the armed conflict:
+If you are in the Amhara region or are affected by the armed conflict:
 
 * monitor local media to stay informed on the evolving situation
 * follow the instructions of local authorities
@@ -65,6 +65,8 @@ Cross-border tensions with Eritrea are a concern. Although the demining operatio
 ### Border areas
 
 Border areas, including regional borders, often see higher criminal activity and violence, including in rural areas. Confrontations between organized criminal groups, ethnic groups, and Ethiopian authorities pose a risk.
+
+If you plan to enter Ethiopia by land, you should only do so at official crossing points. Always ensure that you have your passport stamped upon entry, or else declare your presence in the country to the nearest local authorities. Failure to do so could result in arrest, detention, and heavy fines.
 
 #### Eritrea
 

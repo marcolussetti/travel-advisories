@@ -2,6 +2,6 @@
 
 ## Risk level
 
-### Saint-Pierre-et-Miquelon - Take normal security precautions
+### Saint Pierre and Miquelon - Take normal security precautions
 
-[Take normal security precautions](#levels "Risk Levels") in Saint-Pierre-et-Miquelon.
+[Take normal security precautions](#levels "Risk Levels") in Saint Pierre and Miquelon.

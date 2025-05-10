@@ -1,7 +1,7 @@
 {
     "name": "Mexico",
-    "update_reason": "The Need help? section was updated.",
-    "update_date": "2025-04-29T08:15:00",
+    "update_reason": "Safety and security - removed information on the security situation in Baja California del Sur",
+    "update_date": "2025-05-09T14:22:00",
     "sections": {
         "risk": "canada/Mexico/risk.md",
         "security": "canada/Mexico/security.md",
