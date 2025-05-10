@@ -146,9 +146,13 @@ The Australian Government's longstanding policy is that it doesn't make payments
 
 #### Civil unrest and political tension
 
-Due to the current security situation between India and Pakistan, we recommend you monitor local media for updates, stay alert, take official warnings seriously and follow the advice of local authorities. There may be flight disruptions. Some airports in India (particularly in the north west) may close, and airline schedules may be affected. Check with your airline before arriving at the airport.
+Due to the current security situation between India and Pakistan, we recommend you monitor local media, stay alert, take official warnings seriously and follow the advice of local authorities.
 
-We continue to advise do not travel to the Union Territory of Jammu and Kashmir, the entire India-Pakistan border, or Manipur. This doesn’t apply to the Union Territory of Ladakh, which was established as its own union territory of India in October 2019, separate from the Union Territory of Jammu and Kashmir. India has closed the Attari border crossing with Pakistan.
+There are air travel disruptions. Some airports in the north west of India have suspended operations. Check with your airline well in advance of your flight.
+
+There's been intensified artillery fire across the Line of Control with reports of missile and drone attacks in Jammu and Kashmir and the border areas of Rajasthan, Punjab and Gujarat. If you are affected by the military action, take shelter and follow the advice of local authorities.
+
+We continue to advise do not travel to the Union Territory of Jammu and Kashmir, the entire India-Pakistan border area, and Manipur. This doesn’t apply to the Union Territory of Ladakh. India has closed the Attari border crossing with Pakistan.
 
 Public protests and events that draw large groups of people can turn violent.
 

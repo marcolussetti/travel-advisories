@@ -2,9 +2,13 @@
 
 Latest update
 
-Due to the current security situation between India and Pakistan, we recommend you monitor local media for updates, stay alert, take official warnings seriously and follow the advice of local authorities. There may be flight disruptions. Some airports in India (particularly in the north west) may close, and airline schedules may be affected. Check with your airline before arriving at the airport.  
+Due to the current security situation between India and Pakistan, we recommend you monitor local media, stay alert, take official warnings seriously and follow the advice of local authorities.   
   
-We continue to advise do not travel to the Union Territory of Jammu and Kashmir, the entire India-Pakistan border, or Manipur. This doesn’t apply to the Union Territory of Ladakh, which was established as its own union territory of India in October 2019, separate from the Union Territory of Jammu and Kashmir. India has closed the Attari border crossing with Pakistan.
+There are air travel disruptions. Some airports in the north west of India have suspended operations. Check with your airline well in advance of your flight.   
+  
+There's been intensified artillery fire across the Line of Control with reports of missile and drone attacks in Jammu and Kashmir and the border areas of Rajasthan, Punjab and Gujarat. If you are affected by the military action, take shelter and follow the advice of local authorities.  
+  
+We continue to advise do not travel to the Union Territory of Jammu and Kashmir, the entire India-Pakistan border area, and Manipur. This doesn’t apply to the Union Territory of Ladakh. India has closed the Attari border crossing with Pakistan.
 
 Advice Level summary
 
@@ -22,17 +26,17 @@ Higher levels apply in some areas.
 
 [Exercise a high degree of caution](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level2) in India overall due to the threat of terrorism and crime and the risk of civil unrest. (see [Safety](#safety)).
 
-[Do not travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level4) to the Union Territory of Jammu and Kashmir, the India-Pakistan border (except the Atari-Wagah border crossing) or Manipur. This doesn't apply to the Union Territory of Ladakh, which was established as its own union territory of India in October 2019, separate from the Union Territory of Jammu and Kashmir.
+[Do not travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level4) to the Union Territory of Jammu and Kashmir, the India-Pakistan border (except the Attari-Wagah border crossing) or Manipur. This doesn't apply to the Union Territory of Ladakh, which was established as its own union territory of India in October 2019, separate from the Union Territory of Jammu and Kashmir.
 
-[Do not travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level4) to the Union Territory of Jammu and Kashmir, the India-Pakistan border (except the Atari-Wagah border crossing), or Manipur, due to the danger of armed clashes, terrorist activities and violent demonstrations.
+[Do not travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level4) to the Union Territory of Jammu and Kashmir, the India-Pakistan border (except the Attari-Wagah border crossing), or Manipur, due to the danger of armed clashes, terrorist activities and violent demonstrations.
 
 This doesn't apply to the Union Territory of Ladakh, which was established as its own union territory of India in October 2019, separate from the Union Territory of Jammu and Kashmir (see '[Safety](#safety)').
 
-[Reconsider your need to travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level3) to the Atari-Wagah border crossing, Chhattisgarh and the border areas of its neighbouring states. Nagaland, and some parts of Assam (including Tinsukia, Dibrugarh, Charaideo and Sivasagar districts).
+[Reconsider your need to travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level3) to the Attari-Wagah border crossing, Chhattisgarh and the border areas of its neighbouring states. Nagaland, and some parts of Assam (including Tinsukia, Dibrugarh, Charaideo and Sivasagar districts).
 
 [Reconsider your need to travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level3) to:
 
-* the Atari-Wagah border crossing
+* the Attari-Wagah border crossing
 * Chhattisgarh and the border areas of its neighbouring states
 * Nagaland
 * Assam's Tinsukia, Dibrugarh, Charaideo and Sivasagar districts
@@ -43,9 +47,11 @@ due to the high risk of violence (see '[Safety](#safety)').
 
 ### Safety
 
-* Due to the current security situation between India and Pakistan, we recommend you monitor local media for updates, stay alert, take official warnings seriously and follow the advice of local authorities. There may be flight disruptions. Some airports in India (particularly in the north west) may close, and airline schedules may be affected. Check with your airline before arriving at the airport.
+* Due to the current security situation between India and Pakistan, we recommend you monitor local media for updates, stay alert, take official warnings seriously and follow the advice of local authorities.
+* There are air travel disruptions. Some airports in the north west of India have suspended operations. Check with your airline well in advance of your flight.
+* There's been intensified artillery fire across the Line of Control with reports of missile and drone attacks in Jammu and Kashmir and the border areas of Rajasthan, Punjab and Gujarat. If you are affected by the military action, take shelter and follow the advice of local authorities.
 * We continue to advise do not travel to the Union Territory of Jammu and Kashmir, the entire India-Pakistan border, or Manipur. This doesn’t apply to the Union Territory of Ladakh, which was established as its own union territory of India in October 2019, separate from the Union Territory of Jammu and Kashmir.
-* Always be alert to possible threats near the Atari-Wagah border crossing. The Attari Border has been closed.
+* Always be alert to possible threats near the Attari-Wagah border crossing. The Attari Border has been closed.
 * Terrorist activities, violent demonstrations and armed clashes sometimes occur in India. Avoid crowded places and possible targets. Large crowds at religious ceremonies and gatherings can also be dangerous. People have been killed in stampedes. Always have an exit plan.
 * Women may face higher levels of verbal and physical harassment or sexual assault. Avoid travelling alone, even in major cities and tourist sites.
 * Travellers have been robbed and assaulted after consuming spiked drinks or food. Don't leave your food or drinks unattended or accept food or drinks from strangers. Be alert to the potential risks around drink spiking and methanol poisoning through consuming alcoholic drinks. See our advice on [Partying safely while overseas.](https://www.smartraveller.gov.au/before-you-go/safety/partying#methanol)
