@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   9 May 2025
+:   10 May 2025
 
 Updated:
-:   8 May 2025
+:   9 May 2025
 
 Latest update:
-:   Updated information for British nationals in India about drone activity.
+:   Addition of information and advice about contacting the FCDO for emergency help.
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -37,7 +37,11 @@ On the night of 6 May, the Indian Ministry of Defence stated it had struck nine 
 
 We are continuing to monitor the situation closely. British nationals should stay up to date with our travel advice and follow the advice of local authorities.
 
-British nationals already in, or planning to travel to, the region should be aware of geopolitical tensions and should subscribe to our Travel Advice to follow any updates. You should remain vigilant, monitor the media and this travel advice, subscribe to email alerts and read our advice on how to deal with a crisis overseas. You should keep your departure plans under close review, ensure your travel documents are up to date and that you have the necessary visas for onward travel.
+British nationals already in, or planning to travel to, the region should be aware of geopolitical tensions and should subscribe to our Travel Advice to follow any updates. You should remain vigilant, monitor the media and this travel advice, subscribe to email alerts and read our advice on how to deal with a crisis overseas: ([If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas) You should keep your departure plans under close review, ensure your travel documents are up to date and that you have the necessary visas for onward travel.
+
+British nationals affected can contact the FCDO for emergency help both in country and from the UK, 24/7.  Please follow the link below to select your country, and then the nearest BHC to receive a phone number for those in country or in the UK.
+
+[GOV.UK - Do you need emergency help - by country or territory](https://www.gov.uk/world/embassies)
 
 ## Before you travel
 

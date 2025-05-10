@@ -18,11 +18,11 @@ You need at least 2 blank pages for entry stamps.
 
 ## Visa requirements
 
-You can [travel without a visa to Mozambique](https://www.mozambiquehighcommission.org.uk/visa-section.html) for tourism or business for up to 30 days.
+You can [travel without a visa to Mozambique](https://www.mozambiquehighcommission.org.uk/visa-section.html) for tourism or business for up to 30 days but must [register for an Electronic Travel Authorisation (ETA)](https://www.evisa.gov.mz.) at least 48 hours prior to scheduled departure. The registration has a mandatory cost of 650 Meticais (MZN), or the equivalent in legally accepted foreign currency.
 
-On arrival, you must be able to show border control a written invitation from your host, or a confirmed hotel reservation, and a return or onward air ticket. You must pay a fee of 650 Mozambican meticais using cash or card.
+On arrival, you must be able to show border control proof of an ETA. You also need to show a written invitation from your host, or a confirmed hotel reservation, and a return or onward air ticket.
 
-For all other travel purposes, you can [apply for a visa online through the e-visa portal](https://evisa.gov.mz/).
+For all other travel purposes, you can [apply for a visa online through the e-visa portal](https://evisa.gov.mz/).
 
 ## Entering Mozambique by land crossing
 

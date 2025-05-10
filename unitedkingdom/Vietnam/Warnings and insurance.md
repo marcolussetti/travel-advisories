@@ -1,19 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   10 May 2025
 
 Updated:
-:   27 November 2024
+:   9 May 2025
 
 Latest update:
-:   Information added about the risks of methanol poisoning ('Safety and security' page).
-
-## Typhoon Season
-
-Meteorologists predict that tropical storms could be more forceful and more frequent during this year’s typhoon season (September - November). There is a risk of falling trees, damage to buildings and transport infrastructure, landslides and flooding, in particular in the central region (including the tourist areas of Da Nang, Hoi An, Hue and Phong Nha) and northern regions (including the tourist areas of Ha Giang, Sa Pa, Red River Delta, Ha Long). High river levels may affect the Mekong Delta in the south. Check local guidance before travelling.
-
-See more in [Extreme weather and natural disasters](https://www.gov.uk/foreign-travel-advice/vietnam/safety-and-security)
+:   Updated information about drug penalties including using cannabis, and random drug testing, and updated information about the Vietnamese legal system ('Safety and security' page).
 
 ## Before you travel
 

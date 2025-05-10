@@ -40,9 +40,9 @@ If you work in Mozambique, you should follow your employer’s security guidelin
 
 ## Political situation
 
-Significant unrest and protests remain possible across Mozambique following national elections in October 2024. Protests can be violent and occur at short notice, road toll gates are particularly vulnerable.
+In Mozambique, protests can occur at short notice and even peaceful protests can become violent. Road toll gates are particularly vulnerable.
 
-Access to land borders could be affected, along with public services and transport.
+Access to land borders can be affected at short notice, along with public services and transport.
 
 To reduce your personal risk:
 

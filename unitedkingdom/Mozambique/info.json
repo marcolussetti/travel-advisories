@@ -1,11 +1,11 @@
 {
     "name": "Mozambique",
-    "update_reason": "FCDO now advises against all but essential travel to the districts of Mecula and Marrupo in Niassa Province, due to attacks by groups with links to Islamist extremism (\u2018Warnings and insurance\u2019 and Regional risks\u2019 page).",
+    "update_reason": "New information on registering for an Electronic Travel Authorisation (ETA) before entry into Mozambique (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Mozambique/Warnings and insurance.md",
-            "update_date": "2025-05-01T16:48:41+01:00"
+            "update_date": "2025-05-09T15:14:26+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Mozambique/Getting help.md"
         }
     ],
-    "update_date": "2025-05-01T16:48:41+01:00"
+    "update_date": "2025-05-09T15:14:26+01:00"
 }

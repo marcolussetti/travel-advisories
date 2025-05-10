@@ -1,11 +1,11 @@
 {
     "name": "Pakistan",
-    "update_reason": "Updated information for British nationals in Pakistan about drone activity.",
+    "update_reason": "Update to information related to increasing tensions between India and Pakistan.",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Pakistan/Warnings and insurance.md",
-            "update_date": "2025-05-08T19:31:14+01:00"
+            "update_date": "2025-05-10T07:09:13+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Pakistan/Getting help.md"
         }
     ],
-    "update_date": "2025-05-08T19:31:14+01:00"
+    "update_date": "2025-05-10T07:09:13+01:00"
 }

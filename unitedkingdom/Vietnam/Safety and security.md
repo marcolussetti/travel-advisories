@@ -39,7 +39,7 @@ Political dissent is rare in Vietnam and protests are generally not tolerated. Y
 
 ### Protecting yourself and your belongings
 
-Violent crime against foreigners is rare, however petty crimes such as theft and Pickpocketing occur regularly. Bag-snatchers operate in crowded areas and in places visited by tourists. Typically, there is a rise in petty crime during the Christmas and Tet Lunar New Year seasons.
+Violent crime against foreigners is rare, however petty crimes such as theft and pickpocketing occur regularly. Bag-snatchers operate in crowded areas and in places visited by tourists. Typically, there is a rise in petty crime during the Christmas and Tet Lunar New Year seasons.
 
 Bag-snatching by thieves on motorcycles is common, hold bags in front of you or on the opposite side of the traffic to make them difficult to steal. Be aware of motorcycles approaching as you walk. Be prepared to surrender your valuables rather than risk being injured in a struggle.
 
@@ -55,7 +55,7 @@ British nationals have reported rape and sexual assaults in tourist areas and pl
 
 Buy your own drinks and always keep them in sight to avoid them being spiked.
 
-Be wary of accepting snacks, beverages, and gum  from new  people. These items may contain drugs that could put you at risk.
+Be wary of accepting snacks, beverages, and gum from new people. These items may contain drugs that could put you at risk.
 
 In Vietnam there is a higher burden of proof for victims than in the UK. Victims must show they did not consent, particularly if they drank alcohol or knew the alleged attacker.
 
@@ -65,7 +65,7 @@ Local authorities may not always respond adequately to reports of sexual violenc
 
 There is a risk of methanol poisoning from home brewed alcohol or counterfeit replicas of well-known alcohol brands. Affected drinks may include:
 
-* local spirits, including rice wine
+* local spirits, including rice wine, fruit wine, and snake wine
 * spirit-based mixed drinks such as cocktails
 * counterfeit brand-name spirits
 
@@ -113,11 +113,18 @@ You must always carry photographic ID. The authorities will accept a printed cop
 
 ### Illegal drugs penalties
 
-Penalties for possessing, distributing or manufacturing drugs are severe. You can get the death sentence if you’re found with even small amounts.
+Penalties for possessing, using, distributing or manufacturing drugs (including cannabis), regardless of the amount involved, are severe.
+Convicted offenders can expect long jail sentences and heavy fines.
+
+The death penalty may also be imposed depending on the severity of the crime. Police periodically raid nightlife establishments suspected of engaging in the drug trade. You may be required to submit to drug testing if present during these raids.
+
+Police will also routinely conduct drug testing at private residences or parties when responding to a reported disturbance. A positive result, regardless of whether drugs were consumed in Vietnam or before entry, may result in criminal charges.
 
 Illegal drugs are often tampered with or spiked and can be much stronger than in Europe. British nationals in Vietnam have suffered severe psychiatric problems because of drug use.
 
 Recreational drugs available in Vietnam can be extremely dangerous and can result in death. Drugs sold in Vietnam may be fake, synthetic, or laced with toxic ingredients undetectable to the buyer. This includes nitrous oxide balloons widely available in nightlife establishments.
+
+It is important to be aware of your rights if you are detained by the police. See our [guidance for those detained or imprisoned in Vietnam](https://www.gov.uk/government/publications/vietnam-prisoner-pack).
 
 ### Cigarettes and alcohol from street vendors
 
@@ -151,9 +158,9 @@ Check with local authorities before visiting border areas to see if you need to 
 
 ### Legal system
 
-People convicted of sex and drug offences can receive very long prison sentences or the death sentence. Even minor crimes, such as theft, have the possibility of carrying a prison sentence. The Vietnamese legal system is not well developed, and the standard of prisons is very poor.
+People convicted of sex and drug offences can receive very long prison sentences or the death sentence. Even minor crimes, such as theft, have the possibility of carrying a prison sentence. The Vietnamese legal system operates differently from the UK, and the standard of prisons is very poor.
 
-If you are under criminal investigation, you can be detained for long periods without evidence. There can be long delays before you can contact lawyers, British Embassy officials or family. Legal representation is far below UK standards.
+If you are under criminal investigation, you can be detained for long periods without evidence or official charges. There can be long delays before you can contact lawyers, British Embassy officials or family. Legal representation is far below UK standards.
 
 Foreign nationals involved in traffic accidents have been stopped from leaving Vietnam until the police have completed their investigations. This process can take a long time, and foreign nationals have been asked to agree out of court financial settlements. FCDO advises you to get professional legal advice and representation if you are in this situation. See [Getting help](/foreign-travel-advice/vietnam/getting-help).
 

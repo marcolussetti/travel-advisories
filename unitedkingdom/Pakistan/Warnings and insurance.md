@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   9 May 2025
+:   10 May 2025
 
 Updated:
-:   8 May 2025
+:   10 May 2025
 
 Latest update:
-:   Updated information for British nationals in Pakistan about drone activity.
+:   Update to information related to increasing tensions between India and Pakistan.
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -64,11 +64,17 @@ Find out more about [why FCDO advises against travel to these regions](/foreign-
 
 ## India-Pakistan tensions
 
-On the night of 6 May, the Indian Ministry of Defence stated it had struck nine sites in Pakistan and Pakistan-administered Kashmir. There are reports of fatalities and casualties. There are reports of artillery fire across the Line of Control and drone activity across Pakistan on the night of 7 May. The situation remains fluid. Airspace restrictions may be announced or changed at short notice on safety or security grounds.
+Tensions are ongoing between India and Pakistan, with reports of artillery fire across the Line of Control, missile strikes and drones within Pakistan and Pakistan-administered Kashmir, resulting in some fatalities and casualties. On 10 May, the Pakistan Army advised all residents of Pakistan to remain in their homes until further notice. You should follow the advice of local authorities.
+
+Pakistan’s airspace is currently subject to restrictions at short notice. Local disruptions should be expected. The situation remains uncertain and could deteriorate. Stay in touch with airlines for specific updates to flights.
 
 We are continuing to monitor the situation closely. British nationals should stay up to date with our travel advice and follow the advice of local authorities.
 
-British nationals already in, or planning to travel to, the region should be aware of geopolitical tensions and should subscribe to our Travel Advice to follow any updates. You should remain vigilant, monitor the media and this travel advice, subscribe to email alerts and read our advice on how to deal with a crisis overseas. You should keep your departure plans under close review, ensure your travel documents are up to date and that you have the necessary visas for onward travel.
+British nationals already in, or planning to travel to, the region should be aware of geopolitical tensions and should subscribe to our Travel Advice to follow any updates. You should remain vigilant, monitor the media and this travel advice, subscribe to email alerts and read our advice on how to deal with a crisis overseas: [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas). You should keep your departure plans under close review, consult your airline for updated information, ensure your travel documents are up to date and that you have the necessary visas for onward travel.
+
+British nationals affected can contact the FCDO for emergency help both in country and from the UK, 24/7.  Please follow the link below to select your country, and then the nearest BHC to receive a phone number for those in country or in the UK.
+
+[GOV.UK - Do you need emergency help - by country or territory](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.gov.uk%2Fworld%2Fembassies&data=05%7C02%7CIsaac.Greenwood%40fcdo.gov.uk%7C9cdeaf7f06ba4b5f6d3408dd8f84b998%7Cd3a2d0d37cc84f52bbf985bd43d94279%7C0%7C0%7C638824522388136504%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=tREB4UwjNmRFYgRsVom6MbDomiW3X9lOqnrjSau%2F0Fk%3D&reserved=0)
 
 ## Before you travel
 

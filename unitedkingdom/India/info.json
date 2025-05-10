@@ -1,11 +1,11 @@
 {
     "name": "India",
-    "update_reason": "Updated information for British nationals in India about drone activity.",
+    "update_reason": "Addition of information and advice about contacting the FCDO for emergency help.",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/India/Warnings and insurance.md",
-            "update_date": "2025-05-08T19:39:06+01:00"
+            "update_date": "2025-05-09T22:16:17+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/India/Getting help.md"
         }
     ],
-    "update_date": "2025-05-08T19:39:06+01:00"
+    "update_date": "2025-05-09T22:16:17+01:00"
 }

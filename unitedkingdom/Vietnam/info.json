@@ -1,11 +1,11 @@
 {
     "name": "Vietnam",
-    "update_reason": "Information added about the risks of methanol poisoning ('Safety and security' page).",
+    "update_reason": "Updated information about drug penalties including using cannabis, and random drug testing, and updated information about the Vietnamese legal system ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Vietnam/Warnings and insurance.md",
-            "update_date": "2024-11-27T14:54:29+00:00"
+            "update_date": "2025-05-09T16:42:32+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Vietnam/Getting help.md"
         }
     ],
-    "update_date": "2024-11-27T14:54:29+00:00"
+    "update_date": "2025-05-09T16:42:32+01:00"
 }
