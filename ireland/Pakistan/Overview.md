@@ -2,15 +2,17 @@
 
 ### **Security Status**
 
-High Degree of Caution
+Avoid Non-Essential Travel
 
 ### **Travel Alert**
 
-We advise against all travel to parts of Pakistan, including the border areas with India and Afghanistan, the province of Balochistan and Pakistan-administered Kashmir. See below for detailed guidance.
+We advise against all travel to parts of Pakistan, including the border areas with both India and Afghanistan, the province of Balochistan and Pakistan-administered Kashmir. See below for detailed guidance.
 
-India's military has stated that it has attacked several targets in the Punjab and Pakistan-administered Kashmir regions of Pakistan on the night of May 7, with reports of a Pakistani military response into Indian territory. A state of emergency has subsequently been declared in the Punjab province of Pakistan. The security situation is tense and unpredictable.
+India's military stated that it has attacked several targets in the Punjab and Pakistan-administered Kashmir regions of Pakistan on the night of May 7, with reports of a Pakistani military response into Indian territory. Pakistani authorities have reported drone incursions at multiple locations across Pakistan following these attacks, and have also reported attacks on military airbases overnight on 9/10 May.
 
-Airspace restrictions may continue to be announced or changed at short notice and travellers should contact their airline and monitor authorities’ announcements for up-to-date information.
+A state of emergency has been declared in the Punjab province of Pakistan. The security situation is tense and unpredictable.
+
+As of 10 May, airspace restrictions continue to be announced or changed at short notice and travellers should contact their airline and monitor authorities’ announcements for up-to-date information.
 
 Avoid staying near the border areas and exercise caution. Stay up to date via the media, local authorities, your hotel, travel agency or airline. Always follow the instructions of the local authorities.
 
