@@ -130,9 +130,7 @@ Ransom payments to kidnappers have funded further terrorist attacks and criminal
 
 #### Civil unrest and political tension
 
-Due to the current security situation between Pakistan and India, we recommend you monitor local media for updates, stay alert, take official warnings seriously and follow the advice of local authorities.
-
-Areas in Pakistan including Rawalpindi experienced missile attacks in the early hours of 10 May. Airports are closed and flight disruptions continue. Australian High Commission staff in Islamabad have been advised to limit their movements. If you are in an affected area, shelter in place and follow the advice of local authorities.
+Following recent tensions the airspace in Pakistan has reopened. Continue to monitor the situation as disruptions may continue. Check with your airline before proceeding to the airport.
 
 The security situation in Pakistan is volatile. It could get worse at short notice. Political protests and demonstrations occur frequently and can escalate quickly.
 

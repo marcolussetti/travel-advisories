@@ -2,13 +2,11 @@
 
 Latest update
 
-Due to the current security situation between Pakistan and India, we recommend you monitor local media for updates, stay alert, take official warnings seriously and follow the advice of local authorities.   
-  
-Areas in Pakistan including Rawalpindi experienced missile attacks in the early hours of 10 May. Airports are closed and flight disruptions continue. Australian High Commission staff in Islamabad have been advised to limit their movements. If you are in an affected area, shelter in place and follow the advice of local authorities.  
-  
-Pakistan has announced the Wagah border crossing is closed until further notice, and cross-border travel is suspended. If you have plans to travel to India from Pakistan, reconsider your route and follow the advice of local authorities.  
-  
 We continue to advise reconsider your need to travel to Pakistan overall. Higher levels apply in some areas. The security situation remains unpredictable. Avoid large groups of people, demonstrations, and protests, as they can turn violent quickly. Monitor local media and follow the instructions of local authorities (See 'Safety').  
+  
+Following recent tensions the airspace in Pakistan has reopened. Continue to monitor the situation as disruptions may continue. Check with your airline before proceeding to the airport.   
+  
+The Wagah border crossing remains closed until further notice, and cross-border travel is suspended. If you have plans to travel to India from Pakistan, reconsider your route and follow the advice of local authorities.  
   
 Terrorist and separatist groups hostile to foreign interests operate in Pakistan. The threat of terrorist attacks and kidnapping remains very high. Foreigners may be targeted. Reporting continues to identify the potential for attacks in Islamabad, including at major hotels. In response, heightened security arrangements are in place, including an increased security force presence, additional checkpoints, and temporary road closures. Terrorists may also target places frequented by foreigners, transport infrastructure, including trains and airports, and places of worship (see 'Safety').
 
@@ -51,9 +49,8 @@ See [Safety](#safety).
 
 ### Safety
 
-* Due to the current security situation between Pakistan and India, we recommend you monitor local media for updates, stay alert, take official warnings seriously and follow the advice of local authorities.
-* Areas in Pakistan including Rawalpindi experienced missile attacks in the early hours of 10 May. Airports are closed and flight disruptions continue. Australian High Commission staff in Islamabad have been advised to limit their movements. If you are in an affected area, shelter in place and follow the advice of local authorities.
-* Always be alert to possible threats near the Atari-Wagah border crossing. The Attari Border has been closed.
+* Following recent tensions the airspace in Pakistan has reopened. Continue to monitor the situation as disruptions may continue. Check with your airline before proceeding to the airport.
+* Always be alert to possible threats near the Atari-Wagah border crossing. The Attari Border remains closed.
 * Terrorist and separatist groups hostile to domestic and foreign interests operate in Pakistan. The threat of terrorist attacks and kidnapping remains very high. Foreigners may be targeted. Do not travel to Balochistan or Khyber-Pakhtunkhwa, including Parachinar (except the Chitral, Abbottabad and Haripur districts). The risk of attack is highest in these locations. If you travel to other parts of Pakistan, be cautious, including in major cities where attacks can and have occurred. Avoid crowded places and possible targets. Always have an exit plan.
 * Frequent and large-scale demonstrations and protests can occur. Protests can turn violent quickly. Avoid large groups of people, demonstrations and protests. The security situation is evolving and remains unpredictable. Major roads, including to the Islamabad International Airport, could be disrupted at short notice. Monitor media for information on the latest developments and follow the instructions of local authorities.
 * Reports continue to identify the potential for attacks in Islamabad. In response, heightened security arrangements are in place, including increased security forces, additional checkpoints and temporary road closures. Terrorists may also target places frequented by foreigners, transport infrastructure, including trains and airports, and places of worship. Australian officials in Islamabad have been advised to maintain vigilance. You should exercise heightened vigilance, review your personal security plans and monitor the media for the latest updates.
