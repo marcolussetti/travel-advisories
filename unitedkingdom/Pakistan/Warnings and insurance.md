@@ -1,7 +1,7 @@
 # Warnings and insurance
 
 Still current at:
-:   10 May 2025
+:   11 May 2025
 
 Updated:
 :   10 May 2025
@@ -64,9 +64,7 @@ Find out more about [why FCDO advises against travel to these regions](/foreign-
 
 ## India-Pakistan tensions
 
-Tensions are ongoing between India and Pakistan, with reports of artillery fire across the Line of Control, missile strikes and drones within Pakistan and Pakistan-administered Kashmir, resulting in some fatalities and casualties. On 10 May, the Pakistan Army advised all residents of Pakistan to remain in their homes until further notice. You should follow the advice of local authorities.
-
-Pakistan’s airspace is currently subject to restrictions at short notice. Local disruptions should be expected. The situation remains uncertain and could deteriorate. Stay in touch with airlines for specific updates to flights.
+A ceasefire between Pakistan and India was announced on 10 May following recent tensions. Pakistani authorities have announced that airspace is open. British nationals should stay in touch with airlines for specific updates to flights.
 
 We are continuing to monitor the situation closely. British nationals should stay up to date with our travel advice and follow the advice of local authorities.
 
