@@ -2,61 +2,51 @@
 
 #### Terrorism
 
-Following a terrorist attack in 2023, the threat level for Belgium, including Brussels, is now level 3 of 4, meaning there's a possible and imminent threat. (A threat level of 3 is identified as 'Serious' by the Belgian Coordination Unit for Threat Analysis.)
+Terrorist attacks could occur anywhere and at any time. Be alert to possible threats, especially in public places. Terrorists may target tourist areas or other places frequented by foreigners and where large crowds may gather.
 
-Brussels hosts several international institutions (EU and NATO) and government and foreign embassy buildings, which are sensitive locations. 
+Following a terrorist attack in 2023, the Belgian [Coordination Unit for Threat Analysis](https://cuta.belgium.be/) is set the threat level for Belgium, including Brussels, at level 3 of 4, meaning there's a possible and imminent threat.
 
-There have been high-profile terrorist attacks across Belgium. Previous incidents include attacks against civilians and security forces:
+Brussels hosts several international institutions (EU and NATO) and government and foreign embassy buildings, which are sensitive locations.
 
-* October 2023 – 2 people were shot and killed in Brussels.
-* Nov 2022 - a police officer was killed and another injured in a suspected terrorist incident in Brussels.
-* May 2018 – 2 police officers and a passer-by were killed in a shooting in Liege in a suspected terrorist incident.
-* June 2017 — a failed attack at Brussels central train station
-* March 2016 — attacks at Brussels National Airport, Zaventem and Maalbeek/Maelbeek metro station — 32 people killed and 300 injured.
+There have been high-profile terrorist attacks across Belgium. Previous incidents include attacks against civilians and security forces. More attacks could happen at any time.
 
-More attacks could happen at any time.
+Possible targets include:
 
-Expect heightened security measures, including:
-
-* an increased police presence
-* increased caution and scrutiny from security forces
-* potential added security measures in certain places
-
-Crowded places may be the target of an attack, such as:
-
-* tourist areas
-* shopping areas
-* train stations
-* airports
-* public transport
-* places of worship
-* concerts, music events and festivals
-* major sporting events
+* places of worship or religious holidays
+* hotels, clubs, restaurants and cafes
+* markets and shopping malls
+* outdoor recreation events, including festivals, concerts, and sporting venues
+* public transport, airports and railway hubs
 
 Belgian authorities have successfully disrupted various attack plans, and Belgian police continue to conduct anti-terror operations. These could occur with little or no warning.
 
 If you're in the area of a police operation:
 
 * follow the instructions and advice of local authorities
-* stay indoors and close windows and blinds, if possible
+* stay indoors and close windows and blinds, if possible.
 
 Extra security arrangements are in place at the Australian Embassy in Brussels. Visitors must pass a security screening. Don't bring your luggage with you.
 
-To protect yourself from terrorism:
+To stay safe:
 
-* report anything suspicious to the police
-* monitor official and media sources for updates
-* follow the advice of local authorities
+* report suspicious activities or items to the police
+* check the media for new threats
+* take official warnings seriously
+* follow the instructions of local authorities
+
+If there's an attack, leave the area as soon as it's safe to do so.
 
 Terrorism is a threat worldwide.
 
-#### Public Alert System
-
-The Belgian Government provides information in the case of emergencies through the [Belgian Crisis Centre](https://centredecrise.be/fr) (available in French, Dutch or German) and social media ([Facebook](https://www.facebook.com/CrisiscenterBE/) and [Twitter](https://twitter.com/crisiscenterBE)). You can also register to be notified in an emergency through the Belgian Public Alert System ([Be-Alert](https://www.be-alert.be/en/)).
-
 **More information:**
 
-* [Terrorism](/before-you-go/safety/terrorism "Terrorism")
+* [Terrorism](/node/342)
+
+#### Public Alert System
+
+The Belgian Government provides information in the case of emergencies through the [Belgian Crisis Centre](https://crisiscenter.be/en) and social media ([Facebook](https://www.facebook.com/CrisiscenterBE/) and [X](https://twitter.com/crisiscenterBE)).
+
+You can also register to be notified in an emergency through the Belgian Public Alert System, [Be-Alert](https://www.be-alert.be/en/).
 
 #### Crime
 
@@ -91,7 +81,7 @@ In the event of theft, contact the nearest police station and get a police repor
 
 There has been an increase in violence, including stabbings and shootings, linked to the drug trade in Brussels and other major cities.
 
-In February, shootings occurred in the commune of Brussels, in the Marolles neighbourhood, and around the following locations in the commune Saint-Gilles:
+In February 2024, shootings occurred in the commune of Brussels, in the Marolles neighbourhood, and around the following locations in the commune Saint-Gilles:
 
 * Port-de-Hal
 * Gare du Midi
@@ -103,19 +93,39 @@ If you're in Brussels:
 * follow the instructions of local authorities
 * expect a heightened police presence in certain areas
 
-#### **Cyber security**
+#### Cyber security
 
-You may be at risk of cyber-based threats during overseas travel to any country. Digital identity theft is a growing concern. Your devices and personal data can be compromised, especially if you're connecting to Wi-Fi, using or connecting to shared or public computers, or Bluetooth. 
+You may be at risk of cyber-based threats during overseas travel to any country. Digital identity theft is a growing concern. Your devices and personal data can be compromised, especially if you're connecting to Wi-Fi, using or connecting to shared or public computers, or Bluetooth.
 
-Social media can also be risky in destinations where there are social or political tensions or laws that may seem unreasonable by Australian standards. Travellers have been arrested for things they have said on social media. Don't comment on local or political events on your social media. 
+Social media can also be risky in destinations where there are social or political tensions or laws that may seem unreasonable by Australian standards. Travellers have been arrested for things they have said on social media. Don't comment on local or political events on your social media.
 
 **More information:**
 
 * [Cyber security when travelling overseas](/before-you-go/staying-safe/cyber-security "Cyber security when travelling overseas")
 
+#### Kidnapping
+
+Kidnapping can happen anywhere, anytime, including in destinations that are typically at lower risk.
+
+The Australian Government's longstanding policy is that it doesn't make payments or concessions to kidnappers.
+
+**More information,** including advice on how to reduce your risk of kidnapping:
+
+* [Kidnapping](https://www.smartraveller.gov.au/before-you-go/safety/kidnapping)
+
+#### Drink spiking
+
+Drink spiking can happen anywhere. Be alert to the potential risks, and don't leave food or drinks unattended. Pay attention when your drinks are being mixed. Stick to reputable venues and avoid homemade alcoholic drinks due to the risk of methanol poisoning. Get urgent medical help if you suspect you’ve been a victim.
+
+**More information:**
+
+* [Partying safely](/before-you-go/safety/partying "Partying safely")
+
 #### Civil unrest and political tension
 
-Demonstrations and strike action often occur in transport hubs, cities, and the Schuman area of Brussels. While most demonstrations are peaceful, there is a risk of isolated incidents of unrest or violence. 
+Demonstrations and strike action often occur in transport hubs, cities, and the Schuman area of Brussels. While most demonstrations are peaceful, there is a risk of isolated incidents of unrest or violence.
+
+Strike action is an ongoing issue that can cause severe travel disruption across the country and affect international travel. Strikes may be announced at short notice, and planned strikes may be extended at short notice. They can also coincide with demonstrations and protests.
 
 Demonstrations are common, often directed at:
 

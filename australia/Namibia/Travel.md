@@ -6,7 +6,7 @@
 
 #### Visas
 
-From 1 April, you'll need to apply for a visa on arrival in Namibia. The fee is N$600. Visas are valid for 3 months from the date of issue.
+You need to apply for a [visa on arrival](https://eservices.mhaiss.gov.na/visaonarrival) in Namibia or submit an online application prior to travel. Fees apply. Visas are valid for 3 months from the date of issue.
 
 Entry and exit conditions can change at short notice. Contact a [consulate-general of Namibia](https://protocol.dfat.gov.au/Public/Consulates/139/State) or [the Ministry of Home Affairs and Immigration](https://mha.gov.na/) for details about visas, currency, customs and quarantine rules.
 
@@ -16,7 +16,7 @@ Check your visa before leaving the immigration counter.
 
 You may be detained or fined if you don't follow visa or immigration requirements.
 
-**Border measures**
+#### Border measures
 
 You need a valid yellow fever vaccination certificate to enter Namibia if you're arriving from a country where yellow fever occurs.
 

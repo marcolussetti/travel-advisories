@@ -67,8 +67,8 @@
     },
     {
         "destination": "Belgium",
-        "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-03-26T12:00:00Z",
+        "risk_level": "Exercise normal safety precautions",
+        "last_updated": "2025-05-12T12:00:00Z",
         "url": "https://www.smartraveller.gov.au/destinations/europe/belgium"
     },
     {
@@ -410,7 +410,7 @@
     {
         "destination": "India",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-05-10T12:00:00Z",
+        "last_updated": "2025-05-12T12:00:00Z",
         "url": "https://www.smartraveller.gov.au/destinations/asia/india"
     },
     {
@@ -644,7 +644,7 @@
     {
         "destination": "Namibia",
         "risk_level": "Exercise normal safety precautions",
-        "last_updated": "2025-03-13T12:00:00Z",
+        "last_updated": "2025-05-12T12:00:00Z",
         "url": "https://www.smartraveller.gov.au/destinations/africa/namibia"
     },
     {

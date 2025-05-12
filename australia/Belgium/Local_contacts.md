@@ -36,7 +36,7 @@ Read the [Consular Services Charter](/consular-services/consular-services-chart
 
 Level 7, Avenue des Arts/Kunstlaan 56  
 1000 Brussels, Belgium  
-Phone: (+32 2) 286 0500  
+Phone: +32 2 286 0500  
 Email: [consular.brussels@dfat.gov.au](mailto:consular.brussels@dfat.gov.au)  
 Website: [belgium.embassy.gov.au](http://www.belgium.embassy.gov.au/)  
 Facebook: [Australian Embassy, Brussels](https://www.facebook.com/AustraliainBrussels)  

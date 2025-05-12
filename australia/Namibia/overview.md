@@ -2,7 +2,7 @@
 
 Latest update
 
-We continue to advise exercise normal safety precautions in Namibia. There's a cholera outbreak in the Kunene Region (see 'Health'). From 1 April, you're required to apply for a visa on arrival in Namibia (see 'Travel').
+You need to apply for a visa on arrival in Namibia or submit an online application prior to travel. Fees apply. Visas are valid for 3 months from the date of issue (see 'Travel').  There's a cholera outbreak in the Kunene Region (see 'Health').
 
 Advice Level summary
 
@@ -54,7 +54,7 @@ Full travel advice: [Local laws](#local-laws)
 
 ### Travel
 
-* From 1 April, you'll need to apply for a visa on arrival in Namibia (see 'Travel). Entry and exit conditions can change at short notice. You should contact the nearest [Namibian Embassy, High Commission or Consulate](https://protocol.dfat.gov.au/Public/Consulates/139/State) for the latest details.
+* You need to apply for a [visa on arrival](https://eservices.mhaiss.gov.na/visaonarrival) in Namibia or submit an online application prior to travel. Fees apply. Visas are valid for 3 months from the date of issue. Entry and exit conditions can change at short notice. You should contact the nearest [Namibian Embassy, High Commission or Consulate](https://protocol.dfat.gov.au/Public/Consulates/139/State) for the latest details.
 * You'll need one blank page in your passport to enter Namibia. If travelling from Namibia to South Africa, you'll need an additional two blank pages.
 * If you're travelling with children, you must carry a full birth certificate and in certain circumstances an affidavit. Check the rules and requirements with the nearest [Namibian Embassy, High Commission or Consulate](https://protocol.dfat.gov.au/Public/Consulates/139/State).
 * Carry your yellow fever vaccination certificate if you're coming from a country where there’s a risk of yellow fever. You’ll need it to enter Namibia.

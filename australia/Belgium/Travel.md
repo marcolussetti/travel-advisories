@@ -16,13 +16,13 @@ Entry and exit conditions can change at short notice. Contact the nearest [emba
 
 #### Border Measures
 
-There are temporary border controls in place to travel into France and Germany from Belgium. Check the entry requirements for [France](/destinations/europe/france "France"), [Germany](/destinations/europe/germany "Germany") and [the Netherlands](/destinations/europe/netherlands "Netherlands") before you travel.
+There are temporary border controls in place to travel into France and Germany from Belgium. Check the entry requirements for [France](/destinations/europe/france "France"), [Germany](/destinations/europe/germany "Germany") and [the Netherlands](/node/385) before you travel.
 
 #### European Entry/Exit System (EES)
 
-The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area is expected to start in October 2025. 
+The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area is expected to start in October 2025.
 
-The EES is a digital border system that registers non-EU visitors travelling into the Schengen Area. When entering the Schengen Area, you'll need to have your fingerprints and photo taken. This creates a digital record that registers your biometric details. 
+The EES is a digital border system that registers non-EU visitors travelling into the Schengen Area. When entering the Schengen Area, you'll need to have your fingerprints and photo taken. This creates a digital record that registers your biometric details.
 
 You'll need to do this on your first visit to the EU after the EES is introduced.​ If you visit the Schengen Area again within 3 years of creating your digital record, you'll only need to provide either your fingerprint or photograph at the border on entry and exit.
 
@@ -74,7 +74,7 @@ This may be useful for any insurance claims.
 
 #### Passport with 'X' gender identifier
 
-Although Australian passports comply with international standards for sex and gender, we can't guarantee that a passport showing an 'X' in the sex field will be accepted for entry or transit by another country. Contact the nearest [embassy, high commission or consulate of your destination](https://protocol.dfat.gov.au/Public/MissionsInAustralia) before you arrive at the border to confirm if authorities will accept passports with 'X' gender markers. 
+Although Australian passports comply with international standards for sex and gender, we can't guarantee that a passport showing an 'X' in the sex field will be accepted for entry or transit by another country. Contact the nearest [embassy, high commission or consulate of your destination](https://protocol.dfat.gov.au/Public/MissionsInAustralia) before you arrive at the border to confirm if authorities will accept passports with 'X' gender markers.
 
 **More information:**
 
@@ -96,10 +96,10 @@ You don't need to declare currency if you're travelling to or from another EU co
 
 #### Driving permit
 
-For short visits, you'll need both:
+To drive a vehicle, you'll need both:
 
 * an International Driving Permit (IDP)
-* a valid Australian driver's licence
+* a valid Australian driver's licence (digital driver's licences may not be accepted).
 
 Car rental companies may require both documents.
 
@@ -111,7 +111,7 @@ Communes usually require the date of issue of your Australian licence. If your l
 
 #### Road travel
 
-Road conditions and road safety are very good throughout the country. The 'priority to the right' system is in effect in Belgium. 
+Road conditions and road safety are very good throughout the country. The 'priority to the right' system is in effect in Belgium.
 
 Drivers must give way to vehicles approaching from the right at intersections. This is often a surprise to foreign drivers and results in accidents.
 
@@ -148,6 +148,12 @@ Check [Belgian Rail](http://www.belgianrail.be/en/Default.aspx) for bookings a
 **More information:**
 
 * [Transport and getting around safely](/before-you-go/getting-around "Getting around")
+
+#### National strike action
+
+Strike action is an ongoing issue that can cause severe travel disruption across the country and affect international travel. Strikes may be announced at short notice, and planned strikes may be extended at short notice. They can also coincide with demonstrations and protests.
+
+For regular updates on any disruption, check local news and follow the advice given by your travel provider. If you are in areas where large gatherings are taking place, remain vigilant and move away quickly if there are signs of disorder. Avoid protests, expect delays on some major roads and follow the advice of the authorities.
 
 #### Electric scooter regulations
 

@@ -2,28 +2,33 @@
 
 Latest update
 
-There's an ongoing threat of terrorism in Belgium. The threat level issued by Belgian authorities remains at level 3 of 4 - 'Serious' (see 'Safety'). Crowded places, such as music and cultural events, festivals, tourist areas, shopping areas, transport hubs, major sporting events and other public areas, are possible targets. Be vigilant in public places and follow the advice of local authorities. There are temporary border controls in place to travel into France and Germany from Belgium (see 'Travel').
+We've reviewed our travel advice for Belgium and have lowered the overall travel advice level. We now advise exercise normal safety precautions.  
+  
+Temporary border controls are in place for travel into France, Germany, and the Netherlands from Belgium (see 'Travel').  
+  
+There's an ongoing threat of terrorism in Belgium. Belgium's national threat level is set at 'serious' – level 3 of 4.  Crowded places such as music and cultural events, festivals, tourist areas, shopping areas, transport hubs, major sporting events and other public areas are possible targets. Be vigilant in public places and follow the advice of local authorities (see 'Safety').     
+  
+General strikes occur often in Belgium and may cause significant travel disruption across the country. Monitor local news and check with your travel provider for potential delays.
 
 Advice Level summary
 
 We advise:
 
-Exercise a high degree of caution in Belgium due to the threat of terrorism.
+Exercise normal safety precautions in Belgium.
 
 ## Advice levels
 
 [What does this mean?](/before-you-go/travel-advice-explained/)
 
-[Exercise a high degree of caution](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level2) in Belgium.
+[Exercise normal safety precautions](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level1) in Belgium.
 
-[Exercise a high degree of caution](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level2) in Belgium due to the threat of terrorism.
+[Exercise a normal safety precautions](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level1) in Belgium.
 
 ## Overview
 
 ### Safety
 
-* The threat level for Belgium, including Brussels, remains at level 3 of 4, meaning there's a possible and imminent threat. (A threat level of 3 is identified as 'Serious' by the Belgian Coordination Unit for Threat Analysis).
-* There's an ongoing threat of terrorism in Belgium. Terrorists have staged attacks and may plan more. Crowded places, such as music and cultural events, festivals, tourist areas, shopping areas, transport hubs, places of worship, major sporting events and other public areas, are possible targets. Be vigilant in public places and follow the advice of local authorities. Report anything suspicious to the police.
+* Belgium's [national threat level](https://cuta.belgium.be/) is set at 'serious' – level 3 of 4. There's an ongoing threat of terrorism in Belgium. Terrorists have staged attacks and may plan more. Crowded places, such as music and cultural events, festivals, tourist areas, shopping areas, transport hubs, places of worship, major sporting events and other public areas, are possible targets. Be vigilant in public places and follow the advice of local authorities. Report anything suspicious to the police.
 * Petty crime, such as mugging, pickpocketing and bag snatching, occurs. Thieves often try to distract you. Take care of your belongings and passports, particularly at tourist spots, on public transport, train stations and other crowded areas.
 * Demonstrations are common. Belgium hosts large international meetings. Increased security can disrupt transport. Avoid affected areas.
 
@@ -32,7 +37,7 @@ Full travel advice: [Safety](#safety)
 ### Health
 
 * Medical care and facility standards are similar to those in Australia.
-* Australia has a reciprocal health care agreement with Belgium. You can get treated in public medical facilities, but you still need travel insurance.
+* Australia has a [reciprocal health care agreement](https://www.servicesaustralia.gov.au/reciprocal-health-care-agreement-visiting-belgium?context=22481) with Belgium. You can get treated in public medical facilities but still need travel insurance. If you're staying in Belgium for more than 1 year, you should register with a Belgian health insurance fund.
 
 Full travel advice: [Health](#health)
 
@@ -45,7 +50,8 @@ Full travel advice: [Local laws](#local-laws)
 
 ### Travel
 
-* There are temporary border controls in place to travel into France, Germany and the Netherlands from Belgium. Check the entry requirements for [France](https://france), [Germany](https://germany) and the [Netherlands](/destinations/europe/netherlands "Netherlands") before you travel.
+* There are temporary border controls in place to travel into France, Germany and the Netherlands from Belgium. Check the entry requirements for [France](https://www.smartraveller.gov.au/destinations/europe/france), [Germany](https://www.smartraveller.gov.au/destinations/europe/germany) and the [Netherlands](/destinations/europe/netherlands "Netherlands") before you travel.
+* General strikes occur often in Belgium and may cause significant travel disruption across the country. Monitor local news and check with your travel provider for potential delays.
 * Belgium is a part of the [Schengen area](/before-you-go/the-basics/schengen "Visas and entry requirements in Europe and the Schengen Area"), along with many other European countries, meaning you can enter Belgium without a visa in some cases. In other situations, you'll need a visa.
 * The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area is expected to start in October 2025.
 * Entry and exit conditions can change at short notice. Contact the nearest Belgian embassy or consulate for the latest details.
