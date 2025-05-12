@@ -8,11 +8,11 @@ Avoid Non-Essential Travel
 
 We advise against all travel to parts of Pakistan, including the border areas with both India and Afghanistan, the province of Balochistan and Pakistan-administered Kashmir. See below for detailed guidance.
 
-India's military stated that it has attacked several targets in the Punjab and Pakistan-administered Kashmir regions of Pakistan on the night of May 7, with reports of a Pakistani military response into Indian territory. Pakistani authorities have reported drone incursions at multiple locations across Pakistan following these attacks, and have also reported attacks on military airbases overnight on 9/10 May.
+A ceasefire between Pakistan and India was announced on 10 May following recent hostilities. The security situation may remain tense and unpredictable in parts of Pakistan and the specific guidance about parts of Pakistan continues to apply.
 
-A state of emergency has been declared in the Punjab province of Pakistan. The security situation is tense and unpredictable.
+While airlines are expected to gradually resume activities following the opening of airspace on the 10 May, it may take several days for full operations to resume.
 
-As of 10 May, airspace restrictions continue to be announced or changed at short notice and travellers should contact their airline and monitor authorities’ announcements for up-to-date information.
+Travellers should contact their airline and monitor airport and authorities’ announcements for up-to-date information.
 
 Avoid staying near the border areas and exercise caution. Stay up to date via the media, local authorities, your hotel, travel agency or airline. Always follow the instructions of the local authorities.
 
@@ -38,7 +38,7 @@ There is an ongoing risk of regular, serious terrorism incidents throughout the 
 
 Irish citizens in Pakistan should always exercise vigilance and caution and avoid large public gatherings. While many public demonstrations take place in Pakistan without incident, large gatherings can potentially become violent quickly.
 
-Major political demonstrations can be called at short notice, particularly within Islamabad and other major cities. These protests can turn violent. Protests also frequently involve significant closure of road networks in cities and including airport routes. Political demonstrations have been announced for 24 November, particularly within Islamabad. Major road networks in and around cities and to airports may be blocked. Mobile data coverage and internet connectivity may be cut without warning.
+Major political demonstrations can be called at short notice, particularly within Islamabad and other major cities. These protests can turn violent. Protests also frequently involve significant closure of road networks in cities and including airport routes. Major road networks in and around cities and to airports may be blocked. Mobile data coverage and internet connectivity may be cut without warning.
 
 Travellers with essential travel to Pakistan should [**register their presence**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/) on the website of the Department of Foreign Affairs, avoid border areas and keep their stay to a minimum.
 
