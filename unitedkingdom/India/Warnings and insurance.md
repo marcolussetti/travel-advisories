@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   10 May 2025
+:   12 May 2025
 
 Updated:
-:   9 May 2025
+:   11 May 2025
 
 Latest update:
-:   Addition of information and advice about contacting the FCDO for emergency help.
+:   Factual update to information related to tensions between India and Pakistan.
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -33,7 +33,7 @@ Find out more about [why FCDO advises against travel to these regions](/foreign-
 
 ## India-Pakistan tensions
 
-On the night of 6 May, the Indian Ministry of Defence stated it had struck nine sites in Pakistan and Pakistan-administered Kashmir. There are reports of fatalities and casualties. There are reports of artillery fire across the Line of Control. There are reports on 8 May of drone activity in the border states of Jammu and Kashmir (including in the city of Jammu), Rajasthan, Punjab, and Gujarat. Airspace remains closed to north and northwest of Delhi. Airspace restrictions may be announced or changed at short notice. British nationals should contact their airline for up-to-date information.
+On 10 May, the Government of India stated that India and Pakistan have agreed to stop military action. Airspace remains closed to north and northwest of Delhi. Airspace restrictions and flight cancellations may be announced or changed at short notice. British nationals should contact their airline for up-to-date information.
 
 We are continuing to monitor the situation closely. British nationals should stay up to date with our travel advice and follow the advice of local authorities.
 

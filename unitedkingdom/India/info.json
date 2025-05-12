@@ -1,11 +1,11 @@
 {
     "name": "India",
-    "update_reason": "Addition of information and advice about contacting the FCDO for emergency help.",
+    "update_reason": "Factual update to information related to tensions between India and Pakistan.",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/India/Warnings and insurance.md",
-            "update_date": "2025-05-09T22:16:17+01:00"
+            "update_date": "2025-05-11T14:44:00+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/India/Getting help.md"
         }
     ],
-    "update_date": "2025-05-09T22:16:17+01:00"
+    "update_date": "2025-05-11T14:44:00+01:00"
 }
