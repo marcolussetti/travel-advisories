@@ -1,7 +1,7 @@
 {
     "name": "Ethiopia",
-    "update_reason": "Safety and security \u2013 added information on the security situation in the Amhara region; Entry and exit requirements; Laws and culture \u2013 updated information on entry and import restrictions",
-    "update_date": "2025-05-09T14:44:00",
+    "update_reason": "Health \u2013 editorial update",
+    "update_date": "2025-05-12T14:32:00",
     "sections": {
         "risk": "canada/Ethiopia/risk.md",
         "security": "canada/Ethiopia/security.md",

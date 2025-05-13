@@ -4,8 +4,8 @@
 
 ### Relevant Travel Health Notices
 
-* [Global Measles Notice](https://travel.gc.ca/travelling/health-safety/travel-health-notices/504) - 13 March, 2024
-* [COVID-19 and International Travel](https://travel.gc.ca/travelling/health-safety/travel-health-notices/513) - 13 March, 2024
+* [Measles: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/504) - 12 May, 2025
+* [COVID-19 and International Travel](https://travel.gc.ca/travelling/health-safety/travel-health-notices/513) - 12 May, 2025
 * [Mpox: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/515) - 31 March, 2025
 
 This section has information and advice about health risks you might face when travelling. Following this advice can help reduce your risk of getting sick. Not all risks are listed here.
@@ -60,11 +60,13 @@ Travellers get vaccinated either because it is required to enter a country or be
 
 Measles 
 
-[Measles](https://www.canada.ca/en/public-health/services/diseases/measles.html) is a highly contagious viral disease. It can spread quickly from person to person by direct contact and through droplets in the air.
+Measles is a serious viral infection that spreads easily. It spreads through the air, and can stay in the air for up to 2 hours. You can also get measles by direct contact with an infected person or by touching a surface with the virus on it and then touching your eyes, nose, or mouth before washing your hands.
 
-Anyone who is not protected against measles is at risk of being infected with it when travelling internationally.
+Getting vaccinated is the best way to protect yourself and others from measles. In Canada, the measles vaccine is part of the routine immunization schedule. If you’re unsure whether you’re protected, talk to a healthcare provider.
 
-Regardless of where you are going, talk to a health care professional before travelling to make sure you are fully protected against measles.
+**Learn more:**
+
+[Measles](https://www.canada.ca/en/public-health/services/diseases/measles.html)
 
 Hepatitis B
 
@@ -125,11 +127,16 @@ Polio can be preventeed by vaccination.
 * One booster dose of the polio vaccine is recommended as an [adult](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-3-vaccination-specific-populations/page-9-immunization-travellers.html#a3).
 COVID-19
 
-[Coronavirus disease (COVID-19)](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html) is an infectious viral disease. It can spread from person to person by direct contact and through droplets in the air.
+COVID-19 is an infectious viral disease. Most of the time, it spreads when people are in close contact with others who are infected with the virus. It spreads through respiratory particles, or through an infected surface or object.
 
-It is recommended that all eligible travellers complete a COVID-19 vaccine series along with any additional recommended doses in Canada before travelling. Evidence shows that vaccines are very effective at preventing severe illness, hospitalization and death from COVID-19. While vaccination provides better protection against serious illness, you may still be at risk of infection from the virus that causes COVID-19. Anyone who has not completed a vaccine series is at increased risk of being infected with the virus that causes COVID-19 and is at greater risk for severe disease when travelling internationally.
+Vaccination is one of the most important ways to protect yourself from developing serious complications from COVID-19. Talk to a healthcare provider about the COVID-19 vaccine before travelling. Evidence shows that the COVID-19 vaccines used in Canada are very effective at preventing severe illness, hospitalization and death from COVID-19.
 
-Before travelling, verify your destination’s COVID-19 vaccination entry/exit requirements. Regardless of where you are going, talk to a health care professional before travelling to make sure you are adequately protected against COVID-19.
+In addition to vaccination, use personal protective measures to help protect yourself and others.
+
+**Learn more :**
+
+[Vaccine for COVID-19: How to get vaccinated](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/vaccines/how-vaccinated.html)  
+[COVID-19: Spread, prevention and risks](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html#p)
 
 ### Safe food and water precautions
 
@@ -221,7 +228,8 @@ Dengue
 * Protect yourself from mosquito bites. There is no vaccine or medication available in Canada to prevent dengue.
 
 **Learn more:**  
-[Dengue](https://www.canada.ca/en/public-health/services/infectious-diseases/viral-haemorrhagic-fevers/dengue-fever.html)
+[Dengue](https://www.canada.ca/en/public-health/services/infectious-diseases/viral-haemorrhagic-fevers/dengue-fever.html)  
+[Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)
 
 Onchoceriasis
 
@@ -275,8 +283,8 @@ When travelling, you can reduce your risk of getting or spreading respiratory in
 To lower your risk of getting sexually transmissible infections (STIs), HIV, and mpox, you can:
 
 * get vaccinated against mpox if you’re eligible
-* have fewer sexual partners
-* use protection during sexual activity, like condoms and dental dams.
+* practise safer sex methods
+  + use barrier protection during sexual activity, like condoms and dental dams.
 
 [Mpox vaccines](https://www.canada.ca/en/public-health/services/diseases/mpox/symptoms-management.html#a4)  
 [Sexual health and travel](https://www.canada.ca/en/public-health/services/diseases/sexually-transmitted-infections.html)  
@@ -291,12 +299,6 @@ For most travellers the risk of tuberculosis is low.
 Travellers who may be at high risk while travelling in regions with risk of tuberculosis should discuss pre- and post-travel options with a health care professional.
 
 High-risk travellers include those visiting or working in prisons, refugee camps, homeless shelters, or hospitals, or travellers visiting friends and relatives.
-
-HIV 
-
-[HIV (Human Immunodeficiency Virus)](https://www.canada.ca/en/public-health/services/diseases/hiv-aids.html) is a virus that attacks and impairs the immune system, resulting in a chronic, progressive illness known as AIDS (Acquired Immunodeficiency Syndrome).
-
-High risk activities include anything which puts you in contact with blood or body fluids, such as unprotected sex and exposure to unsterilized needles for medications or other substances (for example, steroids and drugs), tattooing, body-piercing or acupuncture.
 
 ### Medical services and facilities
 

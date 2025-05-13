@@ -1,7 +1,7 @@
 {
     "name": "Antarctica",
-    "update_reason": "Natural disasters and climate \u2013 removed information on tsunami advisory for Antarctica",
-    "update_date": "2025-05-02T12:40:00",
+    "update_reason": "Health \u2013 editorial update",
+    "update_date": "2025-05-12T16:23:00",
     "sections": {
         "risk": "canada/Antarctica/risk.md",
         "security": "canada/Antarctica/security.md",

@@ -239,7 +239,7 @@ Boat accidents have occurred due to the overloading and poor maintenance of some
 
 Although rare in Vietnam, pirates commit attacks and armed robbery against ships in coastal waters.
 
-[Live piracy report](https://icc-ccs.org/index.php/piracy-reporting-centre) - International Maritime Bureau
+[Live piracy report](https://icc-ccs.org/map/) - International Maritime Bureau
 
 ### Road safety
 

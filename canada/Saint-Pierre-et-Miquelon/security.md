@@ -4,22 +4,15 @@
 
 ### Crime
 
-Petty crime, such as pickpocketing and bag snatching, occurs sometimes in Saint Pierre and Miquelon.
+The crime rate is low in Saint-Pierre-et-Miquelon.
 
-During your trip:
-
-* keep your personal belongings, including your passport and other travel documents, in a secure place
-* do not show signs of affluence or wear expensive jewellery
-* do not carry large sums of cash or valuables unnecessarily
-* avoid deserted areas at night, including beaches
-
-[Lost or stolen belongings abroad](https://travel.gc.ca/assistance/emergency-info/stolen-belongings)
+Ensure that your personal belongings, including your passport and other travel documents, are secure at all times.
 
 ### Demonstrations and strikes
 
 Demonstrations and strikes occur sometimes.
 
-Even peaceful demonstrations can turn violent. They can also lead to disruptions to traffic and public transportation.
+They can lead to disruptions to traffic and public services.
 
 * Avoid areas where demonstrations and large gatherings are taking place
 * Follow the instructions of local authorities

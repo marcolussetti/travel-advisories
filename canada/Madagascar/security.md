@@ -186,7 +186,7 @@ If you choose to travel by ferry:
 
 Pirate attacks and armed robbery against ships occur in coastal waters. Mariners should take appropriate precautions.
 
-[Live piracy report](https://icc-ccs.org/index.php/piracy-reporting-centre) - International Maritime Bureau
+[Live piracy report](https://icc-ccs.org/map/) - International Maritime Bureau
 
 ### 
 

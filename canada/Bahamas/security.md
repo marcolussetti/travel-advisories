@@ -127,7 +127,7 @@ Boaters could encounter watercraft operated by illegal drug traders. Remain vigi
 * Keep a safe distance from areas reserved for certain activities such as snorkeling
 * Make sure you have a good understanding of local regulations
 
-[Live piracy report](https://icc-ccs.org/index.php/piracy-reporting-centre) - International Maritime Bureau
+[Live piracy report](https://icc-ccs.org/map/) - International Maritime Bureau
 
 ### Power outages and water shortages
 

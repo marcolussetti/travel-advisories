@@ -4,8 +4,8 @@
 
 ### Relevant Travel Health Notices
 
-* [Global Measles Notice](https://travel.gc.ca/travelling/health-safety/travel-health-notices/504) - 13 March, 2024
-* [COVID-19 and International Travel](https://travel.gc.ca/travelling/health-safety/travel-health-notices/513) - 13 March, 2024
+* [Measles: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/504) - 12 May, 2025
+* [COVID-19 and International Travel](https://travel.gc.ca/travelling/health-safety/travel-health-notices/513) - 12 May, 2025
 * [Dengue: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/517) - 8 April, 2025
 
 This section has information and advice about health risks you might face when travelling. Following this advice can help reduce your risk of getting sick. Not all risks are listed here.
@@ -25,14 +25,6 @@ These may include vaccines for measles, mumps, and rubella (MMR), diphtheria, te
 When travelling in this destination, you might be at risk for diseases that can be prevented with vaccines or medications. Talk to a travel health care provider about which ones are right for you based on your travel plans.
 
 The highlights below will also tell you if your destination may require that vaccine for entering or exiting.
-
-Rabies 
-
-In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/diseases/rabies) is commonly carried by dogs and some wildlife, including bats. Rabies is a deadly disease that spreads to humans primarily through bites or scratches from an infected animal. While travelling, take [precautions](https://www.canada.ca/en/public-health/services/diseases/rabies/prevention.html), including keeping your distance from animals (including free-roaming dogs), and closely supervising children.
-
-If you are bitten or scratched by a dog or other animal while travelling, immediately wash the wound with soap and clean water and see a health care professional. **In this destination, rabies treatment may be limited or may not be available, therefore you may need to return to Canada for treatment.**
-
-Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who are at high risk of exposure (e.g., occupational risk such as veterinarians and wildlife workers, children, adventure travellers and spelunkers, and others in close contact with animals).
 
 Yellow Fever - Country Entry Requirements 
 
@@ -68,11 +60,13 @@ Practise [safe food and water precautions](https://travel.gc.ca/travelling/heal
 
 Measles 
 
-[Measles](https://www.canada.ca/en/public-health/services/diseases/measles.html) is a highly contagious viral disease. It can spread quickly from person to person by direct contact and through droplets in the air.
+Measles is a serious viral infection that spreads easily. It spreads through the air, and can stay in the air for up to 2 hours. You can also get measles by direct contact with an infected person or by touching a surface with the virus on it and then touching your eyes, nose, or mouth before washing your hands.
 
-Anyone who is not protected against measles is at risk of being infected with it when travelling internationally.
+Getting vaccinated is the best way to protect yourself and others from measles. In Canada, the measles vaccine is part of the routine immunization schedule. If you’re unsure whether you’re protected, talk to a healthcare provider.
 
-Regardless of where you are going, talk to a health care professional before travelling to make sure you are fully protected against measles.
+**Learn more:**
+
+[Measles](https://www.canada.ca/en/public-health/services/diseases/measles.html)
 
 Hepatitis B
 
@@ -82,11 +76,16 @@ Hepatitis B vaccination is recommended for all travellers. [Prevent hepatitis B]
 
 COVID-19
 
-[Coronavirus disease (COVID-19)](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html) is an infectious viral disease. It can spread from person to person by direct contact and through droplets in the air.
+COVID-19 is an infectious viral disease. Most of the time, it spreads when people are in close contact with others who are infected with the virus. It spreads through respiratory particles, or through an infected surface or object.
 
-It is recommended that all eligible travellers complete a COVID-19 vaccine series along with any additional recommended doses in Canada before travelling. Evidence shows that vaccines are very effective at preventing severe illness, hospitalization and death from COVID-19. While vaccination provides better protection against serious illness, you may still be at risk of infection from the virus that causes COVID-19. Anyone who has not completed a vaccine series is at increased risk of being infected with the virus that causes COVID-19 and is at greater risk for severe disease when travelling internationally.
+Vaccination is one of the most important ways to protect yourself from developing serious complications from COVID-19. Talk to a healthcare provider about the COVID-19 vaccine before travelling. Evidence shows that the COVID-19 vaccines used in Canada are very effective at preventing severe illness, hospitalization and death from COVID-19.
 
-Before travelling, verify your destination’s COVID-19 vaccination entry/exit requirements. Regardless of where you are going, talk to a health care professional before travelling to make sure you are adequately protected against COVID-19.
+In addition to vaccination, use personal protective measures to help protect yourself and others.
+
+**Learn more :**
+
+[Vaccine for COVID-19: How to get vaccinated](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/vaccines/how-vaccinated.html)  
+[COVID-19: Spread, prevention and risks](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html#p)
 
 Influenza
 
@@ -105,8 +104,7 @@ The flu virus spreads from person to person when they cough or sneeze or by touc
 Malaria 
 
 [Malaria](https://www.canada.ca/en/public-health/services/diseases/malaria.html) is a serious and sometimes fatal disease that is caused by parasites spread through the bites of mosquitoes.  
-   
-**There is a risk of malaria in certain areas and/or during a certain time of year in this destination.**
+ 
 
 [Antimalarial medication may be recommended](https://www.canada.ca/en/public-health/services/catmat/appendix-1-malaria-risk-recommended-chemoprophylaxis-geographic-area.html) depending on your itinerary and the time of year you are travelling. Consult a health care professional or visit a travel health clinic before travelling to discuss your options. It is recommended to do this 6 weeks before travel, however, it is still a good idea any time before leaving.   
    
@@ -117,6 +115,14 @@ Malaria
 • Wear permethrin-treated clothing.   
    
 If you develop [symptoms](https://www.canada.ca/en/public-health/services/diseases/malaria/symptoms-malaria.html) similar to malaria when you are travelling or up to a year after you return home, see a health care professional immediately. Tell them where you have been travelling or living.
+
+Rabies 
+
+In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/diseases/rabies) is commonly carried by dogs and some wildlife, including bats. Rabies is a deadly disease that spreads to humans primarily through bites or scratches from an infected animal. While travelling, take [precautions](https://www.canada.ca/en/public-health/services/diseases/rabies/prevention.html), including keeping your distance from animals (including free-roaming dogs), and closely supervising children.
+
+If you are bitten or scratched by a dog or other animal while travelling, immediately wash the wound with soap and clean water and see a health care professional. **In this destination, rabies treatment may be limited or may not be available, therefore you may need to return to Canada for treatment.**
+
+Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who are at high risk of exposure (e.g., occupational risk such as veterinarians and wildlife workers, children, adventure travellers and spelunkers, and others in close contact with animals).
 
 ### Safe food and water precautions
 
@@ -178,24 +184,6 @@ A vaccine for the prevention of chikungunya (IXCHIQ) is approved in Canada. Talk
 
 [Chikungunya](https://www.canada.ca/en/public-health/services/diseases/chikungunya.html)
 
-American trypanosomiasis
-
-[American trypanosomiasis (Chagas disease)](https://www.canada.ca/en/public-health/services/diseases/chagas-disease-american-trypanosomiasis.html) is a risk in this country. It is caused by a parasite spread by infected triatomine bugs. The infection can be inactive for decades, but humans can eventually develop complications causing disability and even death.
-
-Risk is generally low for most travellers. Protect yourself from triatomine bugs, which are active at night, by using mosquito nets if staying in poorly-constructed housing. There is no vaccine available for Chagas disease.
-
-Oropouche virus disease
-
-Oropouche virus disease is a disease caused by the Oropouche virus, which is spread to humans through the bite of an infected small fly called a midge (also known as no-see-um) or possibly certain mosquitos. Symptoms usually include fever, headache, joint and muscle pain, chills, and sometimes nausea and vomiting. In some cases, aseptic meningitis (inflammation of the membranes that surround the brain) may occur.
-
-Most travellers are at low risk. There are concerns that Oropouche virus could be passed from a pregnant woman or pregnant person to their unborn baby, which might lead to serious problems like stillbirth or issues with the baby’s head and brain development.
-
-Pregnant women, pregnant people, or anyone planning a pregnancy should discuss the possible risks of travelling to areas with Oropouche virus with their health care provider. They may want to be extra cautious and avoid travelling to these areas until more is known about the risk.
-
-Protect yourself from midge and mosquito bites at all times. There is no vaccine or medication that protects against Oropouche virus disease.
-
-[Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)
-
 Dengue 
 
 * In this country, dengue is a risk to travellers. It is a viral disease spread to humans by mosquito bites.
@@ -221,6 +209,24 @@ During your trip:
 If you are pregnant or planning a pregnancy, you should discuss the potential risks of travelling to this destination with your health care provider. You may choose to avoid or postpone travel.
 
 For more information, see [Zika virus: Pregnant or planning a pregnancy.](https://www.canada.ca/en/public-health/services/diseases/zika-virus/pregnant-planning-pregnancy.html)
+
+American trypanosomiasis
+
+[American trypanosomiasis (Chagas disease)](https://www.canada.ca/en/public-health/services/diseases/chagas-disease-american-trypanosomiasis.html) is a risk in this country. It is caused by a parasite spread by infected triatomine bugs. The infection can be inactive for decades, but humans can eventually develop complications causing disability and even death.
+
+Risk is generally low for most travellers. Protect yourself from triatomine bugs, which are active at night, by using mosquito nets if staying in poorly-constructed housing. There is no vaccine available for Chagas disease.
+
+Oropouche virus disease
+
+Oropouche virus disease is a disease caused by the Oropouche virus, which is spread to humans through the bite of an infected small fly called a midge (also known as no-see-um) or possibly certain mosquitos. Symptoms usually include fever, headache, joint and muscle pain, chills, and sometimes nausea and vomiting. In some cases, aseptic meningitis (inflammation of the membranes that surround the brain) may occur.
+
+Most travellers are at low risk. There are concerns that Oropouche virus could be passed from a pregnant woman or pregnant person to their unborn baby, which might lead to serious problems like stillbirth or issues with the baby’s head and brain development.
+
+Pregnant women, pregnant people, or anyone planning a pregnancy should discuss the possible risks of travelling to areas with Oropouche virus with their health care provider. They may want to be extra cautious and avoid travelling to these areas until more is known about the risk.
+
+Protect yourself from midge and mosquito bites at all times. There is no vaccine or medication that protects against Oropouche virus disease.
+
+[Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)
 
 ### Animal precautions
 
@@ -268,8 +274,8 @@ When travelling, you can reduce your risk of getting or spreading respiratory in
 To lower your risk of getting sexually transmissible infections (STIs), HIV, and mpox, you can:
 
 * get vaccinated against mpox if you’re eligible
-* have fewer sexual partners
-* use protection during sexual activity, like condoms and dental dams.
+* practise safer sex methods
+  + use barrier protection during sexual activity, like condoms and dental dams.
 
 [Mpox vaccines](https://www.canada.ca/en/public-health/services/diseases/mpox/symptoms-management.html#a4)  
 [Sexual health and travel](https://www.canada.ca/en/public-health/services/diseases/sexually-transmitted-infections.html)  
