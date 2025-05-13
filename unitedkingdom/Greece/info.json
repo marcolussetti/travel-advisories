@@ -1,11 +1,11 @@
 {
     "name": "Greece",
-    "update_reason": "Information on explosion in Thessaloniki (\"Safety and Security\" page)",
+    "update_reason": "Removal of information about an explosion in Thessaloniki ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Greece/Warnings and insurance.md",
-            "update_date": "2025-05-03T10:59:05+01:00"
+            "update_date": "2025-05-12T13:46:22+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Greece/Getting help.md"
         }
     ],
-    "update_date": "2025-05-03T10:59:05+01:00"
+    "update_date": "2025-05-12T13:46:22+01:00"
 }

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   12 May 2025
+:   13 May 2025
 
 Updated:
-:   11 May 2025
+:   12 May 2025
 
 Latest update:
-:   Factual update to information related to tensions between India and Pakistan.
+:   Addition of information that airspace north and northwest of Delhi has re-opened on 12 May (‘Warnings and insurance’ page).
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -33,7 +33,7 @@ Find out more about [why FCDO advises against travel to these regions](/foreign-
 
 ## India-Pakistan tensions
 
-On 10 May, the Government of India stated that India and Pakistan have agreed to stop military action. Airspace remains closed to north and northwest of Delhi. Airspace restrictions and flight cancellations may be announced or changed at short notice. British nationals should contact their airline for up-to-date information.
+On 10 May, the Government of India stated that India and Pakistan have agreed to stop military action. Airspace north and northwest of Delhi re-opened on 12 May. British nationals should contact their airline for up-to-date information.
 
 We are continuing to monitor the situation closely. British nationals should stay up to date with our travel advice and follow the advice of local authorities.
 
@@ -41,7 +41,7 @@ British nationals already in, or planning to travel to, the region should be awa
 
 British nationals affected can contact the FCDO for emergency help both in country and from the UK, 24/7.  Please follow the link below to select your country, and then the nearest BHC to receive a phone number for those in country or in the UK.
 
-[GOV.UK - Do you need emergency help - by country or territory](https://www.gov.uk/world/embassies)
+[Get emergency help from FCDO](https://www.contact.service.csd.fcdo.gov.uk/emergency-help).
 
 ## Before you travel
 

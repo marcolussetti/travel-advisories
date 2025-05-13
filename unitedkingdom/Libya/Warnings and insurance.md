@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 April 2025
+:   13 May 2025
 
 Updated:
-:   10 April 2025
+:   12 May 2025
 
 Latest update:
-:   FCDO now advises against all but essential travel to the cities of Tripoli, Benghazi and Misrata. FCDO continues to advise against all travel to the rest of Libya (‘Warnings and insurance’, ‘Safety and security’ and ‘Regional risks’ pages).
+:   Heightened military presence in Tripoli (‘Warnings and insurance’ page)
 
 ![](https://assets.publishing.service.gov.uk/media/67f7a28bc6046b50261bc7c0/FCDO__TA__024_-_Libya_Travel_Advice_Ed2__WEB_.jpg)
 
@@ -15,6 +15,12 @@ Latest update:
 [Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/67f7a28b04146682e61bc7c8/FCDO__TA__024_-_Libya_Travel_Advice_Ed2.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
+
+## Heightened military presence in Tripoli
+
+There is a heightened military presence in Tripoli, with the risk that violence may break out.
+
+British nationals already in, or planning to travel to Tripoli, should monitor the local situation carefully, remain vigilant, and have robust security arrangements and contingency plans in place.
 
 ## Areas where FCDO advises against travel
 

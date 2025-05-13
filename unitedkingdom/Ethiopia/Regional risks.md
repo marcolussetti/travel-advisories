@@ -4,6 +4,12 @@ This section has safety advice for regions of Ethiopia. It only covers regions w
 
 You should also read [FCDO’s overall travel advice](/foreign-travel-advice/ethiopia/warnings-and-insurance) and [safety and security advice](/foreign-travel-advice/ethiopia/safety-and-security) for Ethiopia.
 
+## Travel Restrictions
+
+Foreign nationals are currently unable to travel to airports in Tigray and Afar regional states due to restrictions by the Ethiopian authorities. Check with your operator before travel.
+
+The Ethiopian authorities may implement travel restrictions anywhere in the country at short notice.
+
 ## Border areas
 
 FCDO advises against all travel to within:

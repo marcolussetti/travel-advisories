@@ -1,11 +1,11 @@
 {
     "name": "Libya",
-    "update_reason": "FCDO now advises against all but essential travel to the cities of Tripoli, Benghazi and Misrata. FCDO continues to advise against all travel to the rest of Libya (\u2018Warnings and insurance\u2019, \u2018Safety and security\u2019 and \u2018Regional risks\u2019 pages).",
+    "update_reason": "Heightened military presence in Tripoli (\u2018Warnings and insurance\u2019 page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Libya/Warnings and insurance.md",
-            "update_date": "2025-04-10T12:13:41+01:00"
+            "update_date": "2025-05-12T20:06:37+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Libya/Getting help.md"
         }
     ],
-    "update_date": "2025-04-10T12:13:41+01:00"
+    "update_date": "2025-05-12T20:06:37+01:00"
 }

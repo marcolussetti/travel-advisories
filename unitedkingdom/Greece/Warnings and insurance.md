@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   4 May 2025
+:   13 May 2025
 
 Updated:
-:   3 May 2025
+:   12 May 2025
 
 Latest update:
-:   Information on explosion in Thessaloniki ("Safety and Security" page)
+:   Removal of information about an explosion in Thessaloniki ('Safety and security' page).
 
 ## Before you travel
 

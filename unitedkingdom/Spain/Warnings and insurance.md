@@ -1,17 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 May 2025
+:   13 May 2025
 
 Updated:
-:   10 May 2025
+:   12 May 2025
 
 Latest update:
-:   Update on chlorine gas cloud in Catalonia region
-
-## Warehouse fire near Barcelona
-
-An industrial warehouse fire in Catalonia has resulted in a chlorine gas cloud over parts of the region south of Barcelona. If you are in the area you should follow the advice of authorities and monitor local updates, including staying indoors and keeping doors and windows closed.
+:   Removal of information on warehouse fire near Barcelona ('Warnings and insurance' page).
 
 ## Before you travel
 

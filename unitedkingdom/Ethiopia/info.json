@@ -1,11 +1,11 @@
 {
     "name": "Ethiopia",
-    "update_reason": "FCDO now advise against all but essential travel to all areas of Tigray region which lie east of the Tekeze river, except for within 10km of the border with Eritrea where we continue to advise against all travel. (\u2018Warnings and insurance,\u2019 'Safety & Security' and 'Regional risks' pages)",
+    "update_reason": "Foreign nationals are currently unable to travel to airports in Tigray and Afar regional states due to restrictions by the Ethiopian authorities. Check with your operator before travel. The Ethiopian authorities may implement travel restrictions anywhere in the country at short notice. ('Regional risks' page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Ethiopia/Warnings and insurance.md",
-            "update_date": "2025-03-14T23:54:31+00:00"
+            "update_date": "2025-05-12T18:08:34+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Ethiopia/Getting help.md"
         }
     ],
-    "update_date": "2025-03-14T23:54:31+00:00"
+    "update_date": "2025-05-12T18:08:34+01:00"
 }
