@@ -1,6 +1,6 @@
 # Burma (Myanmar) Travel Advisory
 
-### Travel Advisory June 6, 2024
+### Travel Advisory May 12, 2025
 
 ### Burma (Myanmar) - Level 4: Do Not Travel
 
@@ -14,53 +14,53 @@
 [T](javascript:void(0); "Tool Tip: Terrorism")
 [C](javascript:void(0); "Tool Tip: Crimes")
 
-**Updated Country Summary, to include information about implementation of a conscription law, and changes to the “*If you decide to travel to Burma”* section.**
+**Updated to reflect changes to risk indicators, restrictions on U.S. government personnel, and the “*If you decide to travel to Burma”* section.**
 
-Do not travel to Burma due to **civil unrest, armed conflict, and arbitrary enforcement of local laws**. Reconsider travel to Burma due to **limited and/or inadequate healthcare and emergency medical resources, and areas with land mines and unexploded ordnances**. Exercise increased caution due to **wrongful detentions**.
+Do not travel to Burma due to **armed conflict, the potential for civil unrest, arbitrary enforcement of local laws, poor health infrastructure, land mines and unexploded ordnance, crime, and** **wrongful detentions**.
 
-**COUNTRY SUMMARY:**The Burma military regime detained and deposed elected government officials in a February 2021 coup d'état. Protests and demonstrations against military rule continue, often on significant dates. The military has responded to those protests by **arbitrarily detaining individuals** and with the indiscriminate use of deadly force against protesters and bystanders.
+**Country Summary:** The Burma military regime deposed elected leaders and officials in a February 2021 coup d'état. Protests and demonstrations against military rule can occur on significant dates. The military has responded to those protests with violence and by**arbitrarily detaining** protesters and bystanders.
 
-The Department of State has determined that the **risk of wrongful detention** of U.S. nationals by the military regime exists.
+The Department has determined that U.S. nationals are at significant **risk of wrongful detention** by military regime authorities. Wrongfully detained U.S. nationals have been held in prison for years, often in poor conditions and without fair and transparent treatment or consistent access to U.S. Embassy officials or their families.
 
-The U.S. government has limited ability to provide emergency services to U.S. citizens in Burma due to security concerns amidst the ongoing armed conflict. This may be of particular concern to crime victims outside of Rangoon.
+Due to the unpredictable nature of ongoing armed conflict and potential civil unrest in Burma, U.S. government employees working in Burma may be prohibited from traveling within the country.
 
-To mitigate safety and security risks, U.S. government employees’ dependents, under the age of 21, cannot reside in Burma with their U.S. government parent assigned to work in Burma.
+Due to the risks in the country, dependents under the age of 21 cannot accompany U.S. government employees who work in Burma.
 
-**Civil unrest and armed conflict** occur throughout Burma. The level of civil unrest and armed conflict varies significantly between and within states and regions and may change at any time.
+**Armed conflicts** occur throughout Burma, and the potential for civil unrest is high. The level of armed conflict and civil unrest varies significantly between and within states and regions and may change at any time.
 
-Civil unrest and armed violence due to fighting between the military regime and various ethnic groups and militias occur particularly in parts of Chin, Kachin, Kayin, Rakhine, and Shan States, as well as in Sagaing and Magway regions.
+Attacks by opposition militia on locations connected to the military and security authorities regularly occur in Rangoon and many other parts of the country. Local opposition militia groups actively operate around the country. Travelers are cautioned of the potential for the regime to limit access to highways and airports, causing an isolating situation.
 
-Improvised explosive devices (IEDs) are used in the ongoing armed conflicts, including within the greater Rangoon area. From January to December 2023, the U.S. Embassy in Rangoon calculated an average of fifteen IEDs per month detonated against regime targets, while an average of eight unexploded IEDs were discovered and safely disposed of per month by security authorities. Outside of Rangoon, there have been IED attacks against checkpoints and other critical infrastructure.
+Improvised explosive devices (IEDs) are used in the ongoing armed conflicts, including within the greater Rangoon area. From January to December 2024, the U.S. Embassy in Rangoon calculated an average of 21 explosions per month detonated against regime personnel and facilities in Rangoon. Outside of Rangoon, there have been IED attacks against checkpoints and military, administrative, and police facilities.
 
-While **land mines and unexploded ordnance (UXO) exist throughout Burma**, NGOs working on this issue state the greatest concerns are in Shan, Chin, and Kachin State. The locations of landmines and UXO are often not marked or otherwise unidentifiable.
+**Land mines and unexploded ordnance (UXO) exist throughout Burma,** and their locations are often not marked or otherwise unidentifiable. The military regime will often **arbitrarily enforce local laws**, includingdetaining individuals **without fair and transparent treatment**. Foreigners, including U.S. citizens, are not excluded from this practice. U.S. citizens traveling or residing in Burma may be detained, and regime authorities could deny a prisoner access to U.S. consular services or information about the alleged crime.
 
-The military regime **arbitrarily enforces local laws**, including **often** detaining individuals **without respect for their fair trial guarantees or other applicable rights**. Foreigners, including U.S. citizens, are not excluded from this practice. U.S. citizens traveling or residing in Burma may be detained and regime authorities could deny access to U.S. consular services or information about the alleged crime.
+Local law enforcement officials may also detain and/or deport U.S. citizens for speaking out or protesting against the military regime, including on their personal social media accounts, and for sending private electronic messages critical of the military regime, regardless of whether they were physically in Burma when they did so.
 
-Local law enforcement officials may detain and/or deport U.S. citizens for speaking out or protesting against the military regime, including on their personal social media accounts, and for sending private electronic messages critical of the military regime. Facebook and X (Twitter) are banned in Burma. Police have sought bribes from individuals using a virtual private network (VPN) to access social media sites even though VPN use is legal.
+Burma has **limited and/or inadequate healthcare and emergency medical resources.**
 
-Burma has **limited and/or inadequate healthcare and emergency medical resources** due to critical staffing shortages in the public sector health workforce. Importation of medical supplies, including medicine, into Burma is not consistent and medical prescriptions and over-the-counter medicine may not be available.
+As of April 2024, the Burma military regime began implementing a **military conscription law** for males up to age 45 and females up to age 35. The military regime may prevent departure of people they view as eligible for conscription, including U.S. citizens who previously held Burmese nationality, and force them into the military.
 
-Burma’s **military conscription law** was first introduced in 2010 but historically was not widely implemented. The military regime officially implemented the law in April 2024. In general, Burmese males aged 18 to 35 and Burmese females aged 18 to 27 will need to register for military service and report for duty if ordered by regime authorities. Burmese males aged 18 to 45 and Burmese females aged 18 to 35 in specific expert/professional occupations must serve if called upon by the regime. For more information, please refer to the Myanmar People’s Military Service Law (State Peace and Development Council Law No. 27/2010), also known as the Public Military Service Law. The military regime may refuse to acknowledge U.S.-Burmese dual nationals’ U.S. citizenship, prevent their departure from Burma, and/or conscript them into the military. U.S.-Burmese nationals should consider this issue before traveling to Burma.
+**Crime** in Burma has been increasing. Violent crime against foreigners is rare, but there have been incidents involving attacks by taxi drivers and muggings. People are advised to take particular care when taking taxis late at night.
+
+Foreign nationals, including U.S. citizens, have been trafficked into Burma and forced to work in internet scam centers, often located in active conflict zones along Burma's eastern borders. These victims often respond to ads promising jobs in Thailand and are then forced or unwittingly lured into working at scam centers in Burma.
 
 Read the [Country Information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Burma.html) for additional information on travel to Burma.
 
 **If you decide to travel to Burma:**
 
 * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://step.state.gov/step/)to receive Alerts and make it easier to locate you in an emergency.
-* Follow the Department of State on [Facebook](https://www.facebook.com/travelgov/)and [Twitter](https://twitter.com/travelgov).
-* Follow the Embassy on [Facebook](https://www.facebook.com/usembassy.rangoon/) and [Twitter](https://twitter.com/USEmbassyBurma?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor).
 * Follow the Embassy’s Consular Section on [Facebook](https://www.facebook.com/consularrangoon/).
 * Review the [Country Security Report](https://www.osac.gov/Content/Browse/Report?subContentTypes=Country%20Security%20Report)for Burma.
-* Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) related to your travel.
-* Purchase travel medical insurance that covers Burma and includes medical evacuation.
-* Do not touch unknown metal objects and avoid traveling off well-used roads, tracks, and paths due to risk of unexploded ordnance.
+* Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) related to your travel and return to the United States.
+* We highly recommend that you buy insurance before you travel. Check with your [travel insurance provider](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) about evacuation assistance, medical insurance, and trip cancellation coverage.
+* Stay aware of your surroundings and avoid demonstrations and crowds.
+* Avoid traveling off well-used roads, tracks, and paths, and do not touch unknown metal objects due to risk of unexploded ordnance.
 * Keep travel documents up to date and easily accessible.
-* Make contingency plans to leave the country.
+* Make back up plans to leave the country on short notice should conditions warrant, including evacuation plans that do not rely on U.S. government assistance.
 * Review local laws and conditions before traveling.
 * Review our website on [Dual-Nationality](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/Dual-Nationality-Travelers.html).
 * Visit our website for [High-Risk Area Travelers](https://travel.state.gov/content/passports/en/go/TraveltoHighRiskAreas.html).
-* Share important documents, login information, and points of contact with loved ones so that they can manage your affairs if you are unable to return as planned to the United States.
-* Review [Ready.gov’s Financial Preparedness webpage](https://www.ready.gov/financial-preparedness).
+* Share important documents, login information, and points of contact with loved ones. This is so that they can manage your affairs if you are unable to return as planned to the United States. Review this [list](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-checklist.html/) of documents to prepare for your trip.
 * Develop a communication plan with family and/or your employer or host organization.
 * Erase any sensitive photos, comments, or other materials that could be considered controversial or provocative by local groups from your social media pages, cameras, laptops, and other electronic devices prior to travel.
 

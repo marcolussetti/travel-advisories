@@ -1,6 +1,6 @@
 # Spain Travel Advisory
 
-### Travel Advisory December 23, 2024
+### Travel Advisory May 12, 2025
 
 ### Spain - Level 2: Exercise Increased Caution
 
@@ -18,23 +18,32 @@
 
 Exercise increased caution in Spain due to **terrorism** and **civil unrest**.
 
-**Country Summary:** Terrorist groups continue plotting possible attacks in Spain. Terrorists may attack with little or no warning, targeting tourist locations, transportation hubs, markets/shopping malls, local government facilities, hotels, clubs, restaurants, places of worship, parks, major sporting and cultural events, educational institutions, airports, and other public areas.
+**Country Summary:** Terrorist groups continue plotting possible attacks in Spain. Terrorists may attack with little or no warning and target:
 
-Demonstrations are common. They may take place in response to political or economic issues, on politically significant holidays, and during international events.
+* Tourist locations
+* Transportation centers (airports/train stations)
+* Markets and shopping malls
+* Local government facilities
+* Hotels, clubs, and restaurants
+* Places of worship and educational institutions
+* Parks
+* Major sporting and cultural events
 
-Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Spain.html) for additional information on travel in Spain.
+Demonstrations are common.  They may take place in response to political or economic issues, on politically significant holidays, and during international events.
 
-If you decide to travel to Spain:
+**If you decide to travel to Spain:**
 
 * Avoid demonstrations and crowds.
-* Be aware of your surroundings when traveling to tourist locations and crowded public venues.
+* Be aware of your surroundings.
 * Follow the instructions of local authorities.
-* Monitor local media for breaking events and adjust your plans based on new information.
-* Enroll in the [Smart Traveler Enrollment Program](https://step.state.gov/step/) ([STEP](https://step.state.gov/step/)) to receive Alerts and make it easier to locate you in an emergency.
-* Follow the Department of State on [Facebook](https://www.facebook.com/travelgov)and [X/Twitter](https://x.com/travelgov).
-* Review the [Country Security Report](https://www.osac.gov/Country/Spain/Detail) for Spain.
-* Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) related to your travel.
-* Prepare a contingency plan for emergency situations. Review the [Traveler’s Checklist](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-checklist.html).
+* Check local media for breaking events. Be prepared to adjust your plans.
+
+U.S. citizens should always exercise caution when traveling abroad. Use these general tips to stay safe:
+
+* Enroll in the [Smart Traveler Enrollment Program (STEP)](https://step.state.gov/) to receive messages and Alerts from the U.S. Embassy and make it easier to locate you in an emergency.
+* Review the [Country Security Report](https://www.osac.gov/Country/Spain/Content/Detail/Report/28d9b2b3-c73a-4391-be41-1875c61c8eb2) for Spain.
+* Prepare a contingency plan for emergency situations. Review the [Traveler’s Checklist](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-checklist.html).
+* Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/traveler/none/spain?s_cid=ncezid-dgmq-travel-single-001) related to your travel.
 
 ### Travel Advisory Levels
 

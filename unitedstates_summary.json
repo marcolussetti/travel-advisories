@@ -290,7 +290,7 @@
     {
         "destination": "Burma (Myanmar)",
         "risk_level": "Level 4: Do Not Travel",
-        "last_updated_advisory": "2024-06-06T00:00:00",
+        "last_updated_advisory": "2025-05-12T00:00:00",
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/burma-travel-advisory.html",
         "risk_level_number": 4,
         "country_info_url": null,
@@ -740,7 +740,7 @@
     {
         "destination": "Guyana",
         "risk_level": "Level 3: Reconsider Travel",
-        "last_updated_advisory": "2024-09-11T00:00:00",
+        "last_updated_advisory": "2025-05-12T00:00:00",
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/guyana-travel-advisory.html",
         "risk_level_number": 3,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Guyana.html",
@@ -906,7 +906,7 @@
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/kiribati-travel-advisory.html",
         "risk_level_number": 1,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Kiribati.html",
-        "last_updated_country_details": "2025-01-21T00:00:00"
+        "last_updated_country_details": "2025-05-12T00:00:00"
     },
     {
         "destination": "Kosovo",
@@ -1595,7 +1595,7 @@
     {
         "destination": "Spain",
         "risk_level": "Level 2: Exercise Increased Caution",
-        "last_updated_advisory": "2024-12-23T00:00:00",
+        "last_updated_advisory": "2025-05-12T00:00:00",
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/spain-travel-advisory.html",
         "risk_level_number": 2,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Spain.html",
@@ -1797,7 +1797,7 @@
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/tuvalu-travel-advisory.html",
         "risk_level_number": 1,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Tuvalu.html",
-        "last_updated_country_details": "2024-12-02T00:00:00"
+        "last_updated_country_details": "2025-05-12T00:00:00"
     },
     {
         "destination": "Uganda",
@@ -1865,7 +1865,7 @@
     {
         "destination": "Venezuela",
         "risk_level": "Level 4: Do Not Travel",
-        "last_updated_advisory": "2024-09-24T00:00:00",
+        "last_updated_advisory": "2025-05-12T00:00:00",
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/venezuela-travel-advisory.html",
         "risk_level_number": 4,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Venezuela.html",

@@ -6,7 +6,7 @@
 
 Individuals establishing a business or practicing a profession that requires additional permits or licensing should seek information from the competent local authorities, prior to practicing or operating a business.
 
-Permission from the [Government of Kiribati](https://www.mfa.gov.ki/)is required prior to research or filming in Kiribati.
+Permission from the [Government of Kiribati](https://www.mfa.gov.ki/) is required prior to research or filming in Kiribati.
 
 Furthermore, some laws are also prosecutable in the United States, regardless of local law. For examples, see our website on [crimes against minors abroad](http://travel.state.gov/content/passports/en/emergencies/arrest/criminalpenalties.html) and the [Department of Justice](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Kiribati.html#ExternalPopup) website.
 
