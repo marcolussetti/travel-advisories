@@ -2,7 +2,7 @@
 
 Latest update
 
-Large crowds are gathering in Rome and the Vatican City for the Papal conclave. Remain vigilant of your surroundings, personal belongings and follow the advice of local authorities.
+Large crowds are gathering in Rome and the Vatican City for the inauguration of Pope Leo XIV on 18 May. Remain vigilant of your surroundings, personal belongings and follow the advice of local authorities.
 
 Advice Level summary
 
@@ -48,7 +48,7 @@ Full travel advice:[Local laws](#safety)
 
 ### Travel
 
-* Large crowds are gathering in Rome and the Vatican City for the Papal conclave. Remain vigilant of your surroundings, personal belongings and follow the advice of local authorities.
+* Large crowds are gathering in Rome and the Vatican City for the inauguration of Pope Leo XIV on 18 May. Remain vigilant of your surroundings, personal belongings and follow the advice of local authorities.
 * Italy is part of the [Schengen area](/before-you-go/the-basics/schengen "Visas and entry requirements in Europe and the Schengen Area"), meaning you can enter the country without a visa in some cases.
 * The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area is expected to start in October 2025.
 * The Jubilee, also known as the Holy Year, is taking place in Rome (24 December 2024 to 6 January 2026). A large number of visitors, including pilgrims, visit Rome, and there is a high demand for accommodation. Disruptions to traffic routes, an increased risk of petty crime and limited taxi availability due to overcrowding can be expected. If you're visiting Rome during this time, plan accordingly and make early preparations. For more information, see the [official Jubilee website](https://www.iubilaeum2025.va/en.html).

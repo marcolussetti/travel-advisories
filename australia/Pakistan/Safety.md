@@ -130,7 +130,9 @@ Ransom payments to kidnappers have funded further terrorist attacks and criminal
 
 #### Civil unrest and political tension
 
-Following recent tensions the airspace in Pakistan has reopened. Continue to monitor the situation as disruptions may continue. Check with your airline before proceeding to the airport.
+Following recent hostilities a ceasefire has come into effect. We recommend you monitor local media, take official warnings seriously and follow the advice of local authorities.
+
+The airspace in Pakistan has reopened. Continue to monitor the situation as disruptions may continue. Check with your airline before proceeding to the airport.
 
 The security situation in Pakistan is volatile. It could get worse at short notice. Political protests and demonstrations occur frequently and can escalate quickly.
 

@@ -2,7 +2,7 @@
 
 Latest update
 
-We continue to advise exercise a high degree of caution in Cuba. If you've travelled to Cuba since January 2021, you're not eligible to participate in the US Visa Waiver Program (VWP). You can’t enter or transit the US on an ESTA, and you’ll need to apply for a visa from the nearest US Embassy. There's an ongoing severe shortage of fuel, which is impacting transport and other government services. There's also a severe shortage of food and drinking water (see 'Travel').
+We've reviewed our advice for Cuba and continue to advise exercise a high degree of caution. If you've travelled to Cuba since January 2021, you're not eligible to participate in the US Visa Waiver Program (VWP). You need a visa to enter Cuba. There's an ongoing severe shortage of fuel, which is impacting transport and other government services. There's also a severe shortage of food and drinking water (see 'Travel').
 
 Advice Level summary
 
@@ -53,7 +53,7 @@ Full travel advice: [Local laws](#local-laws)
 
 * Entry and exit conditions can change at short notice. You should contact the nearest embassy or consulate of Cuba for the latest details.
 * You need a visa to enter Cuba. If your visit is for tourism, you can get a 'tourist card' through your travel agent, airline or the [embassy or consulate of Cuba](https://protocol.dfat.gov.au/Public/Missions/52). The tourist card includes a tourist visa. You'll also need to fill in an [online declaration form](https://www.dviajeros.mitrans.gob.cu/inicio).
-* If you've travelled to Cuba since January 2021, you won't be eligible to participate in the US Visa Waiver Program (VWP). You also won't be able to enter or transit the US on an ESTA, and you’ll need to apply for a visa from the nearest [US Embassy](https://www.usembassy.gov/).
+* If you've travelled to Cuba since January 2021, you won't be eligible to participate in the US Visa Waiver Program (VWP).
 * Canadian dollars, Mexican pesos and euros can be exchanged at currency exchange stores. There's a large commission fee if you want to change US currency. Australian currency can't be exchanged in Cuba. Other currencies may be difficult to exchange.
 * Cuba's banking arrangements can make it hard to access money through US banking systems. This may include your Australian bank cards. Carry cash, cards and traveller's cheques from non-US banks. Take an emergency supply of cash, including enough to leave Cuba if your bank cards don't work.
 * There's currently a severe shortage of fuel in Cuba. This is disrupting transport and other services.
@@ -64,7 +64,7 @@ Full travel advice: [Travel](#travel)
 ### Local contacts
 
 * The [Consular Services Charter](/consular-services/consular-services-charter "Consular Services Charter") details what the Australian Government can and can't do to help you.
-* Australia doesn't have an embassy or consulate in Cuba. The [Embassy of Canada](http://www.canadainternational.gc.ca/cuba/index.aspx?lang=eng) in Havana provides consular help to Australians in Cuba. They can also issue Australian [provisional travel documents](https://www.passports.gov.au/getting-passport-how-it-works/special-travel-documents).
+* Australia doesn't have an embassy or consulate in Cuba. The [Embassy of Canada](https://www.international.gc.ca/country-pays/cuba/index.aspx?lang=eng) in Havana provides consular help to Australians in Cuba. They can also issue Australian [provisional travel documents](https://www.dfat.gov.au/node/149460#:~:text=A%20Provisional%20Travel%20Document%20(PTD,identity%20and%20entitlement%20is%20established).
 * You can also get consular assistance from the [Australian Embassy in Mexico](https://mexico.embassy.gov.au/mctycastellano/home.html).
 * To stay up to date with local information, follow the embassy's social media accounts.
 

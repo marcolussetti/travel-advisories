@@ -117,7 +117,7 @@ Before you travel, check with your bank if your cards will work in Cuba.
 
 International money transfer agencies aren't available to Australians in Cuba.
 
-Authorities have detained and deported travellers without access to funds. If you run out of money in Cuba, you can try to have funds transferred via Asistur. Services don't run on weekends and can take several days. To contact Asistur, call +53 7866 4499.
+Authorities have detained and deported travellers without access to funds.
 
 ATMs are limited outside Havana. Make sure you have a variety of ways of accessing your money, including:
 

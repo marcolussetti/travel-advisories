@@ -12,6 +12,13 @@ If you're arrested or jailed, the Australian Government will do what it can to h
 
 Penalties for drug offences are severe. They include lengthy prison sentences in local jails.
 
+Authorities will arrest you for illegal drugs if you're either:
+
+* carrying even a very small amount of drugs, or
+* with someone who's using them
+* If you're found driving under the influence of alcohol or other drugs, authorities will arrest you.
+* Border officials may screen you for drugs, including on departure.
+
 **More information:**
 
 * [Carrying or using drugs](/before-you-go/laws/drugs "Carrying or using drugs")

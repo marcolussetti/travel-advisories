@@ -28,11 +28,11 @@ Your insurer should have a 24-hour emergency number.
 
 #### Consular contacts
 
-The [Consular Services Charter](/node/46) explains what the Australian Government can and can't do to help Australians overseas.
+The [Consular Services Charter](/node/46) explains what the Australian Government can and can't do to assist Australians overseas.
 
-Australia doesn't have an embassy in Cuba. The [Embassy of Canada](http://www.canadainternational.gc.ca/cuba/index.aspx?lang=eng) in Havana provides consular help to Australians in Cuba. They can also issue Australian [provisional travel documents](https://www.passports.gov.au/travel-related-documents).
+Australia doesn't have an embassy in Cuba. The [Embassy of Canada](https://www.international.gc.ca/country-pays/cuba/index.aspx?lang=eng) in Havana provides consular assistance to Australians in Cuba. They can also issue Australian [provisional travel documents](https://www.passports.gov.au/travel-related-documents).
 
-You can also get consular help from the Australian Embassy in Mexico.
+You can also get consular assistance from the Australian Embassy in Mexico.
 
 #### Canadian Embassy, Havana
 
@@ -40,7 +40,7 @@ Calle 30 No.518 (esq. 7ma) 
 Miramar (Playa)   
 Ciudad de la Habana, 11300, Cuba  
   
-Telephone: +53 7 204 2516   
+Telephone: +53 7 204 2516/7  
 Email: havan@international.gc.ca   
 Website: [canadainternational.gc.ca/cuba](https://www.international.gc.ca/country-pays/cuba/index.aspx?lang=eng)
 
