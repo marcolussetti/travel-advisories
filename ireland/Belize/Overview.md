@@ -4,6 +4,10 @@
 
 High Degree of Caution
 
+### **Travel Alert**
+
+While tourists are not normally the targets of gang violence, passers-by could be affected. Visitors should avoid unnecessary travel to the southern neighbourhoods of Belize City due to the high rate of violent crime and gang violence. On 7 May, the government announced a one-month state of emergency in parts of Belize City, as well as in Belize and Cayo districts, which grants the police additional powers. At all times, visitors should follow the advice of local authorities.
+
 ### **General Travel Advice**
 
 Irish citizens do not require a visa to enter Belize, though if citizens intend to stay longer than 30 days, citizens must apply for a visa from immigration authorities. Immigration offices are in major towns and cities. When leaving by air, the departure tax is usually included in the airfare. When leaving by land, the departure tax is BZD$40 or US$20, which must be paid in cash.

@@ -14,15 +14,11 @@ If travellers are unsure of the entry requirements for Uganda, including visa an
 
 ### **Health**
 
-### **Ebola**
-
-On 20 September 2022 Uganda confirmed an outbreak of Ebola virus centred on Mubende district west of Kampala. This outbreak was declared over on 11 January 2023, following 142 confirmed cases and 55 deaths. This was Uganda’s seventh outbreak of Ebola virus.
-
 Before travelling, the Department strongly recommends that travellers obtain comprehensive travel insurance which will cover all overseas medical costs, including medical repatriation/evacuation, repatriation of remains and legal costs. Check any exclusions and, in particular, that your policy covers you for the activities you want to undertake.
 
 Check what vaccinations you may need for your trip at least eight weeks before you travel – you can get information about vaccinations from your local GP or an International Health and Travel Centre.
 
-Quality medical care services are limited, especially outside Kampala and other major urban centres. Medical help at the scene of an accident is also likely to be limited. In the case of serious accident or illness, evacuation by air ambulance may be required. Adequate insurance can be crucial in helping people get the medical attention required.Make sure you bring enough medication for your entire trip and for any unexpected delays. You may wish to also bring copies of your prescription in case you lose your medication.
+Quality medical care services are limited, especially outside Kampala and other major urban centres. Medical help at the scene of an accident is also likely to be limited. In the case of serious accident or illness, evacuation by air ambulance may be required. Adequate insurance can be crucial in helping people get the medical attention required. Make sure you bring enough medication for your entire trip and for any unexpected delays. You may wish to also bring copies of your prescription in case you lose your medication.
 
 ### **Malaria**
 
@@ -32,6 +28,10 @@ Malaria is a serious and sometimes fatal disease transmitted by mosquitoes. You 
 * Check with your doctor or nurse about suitable antimalarial tablets.
 * If you develop a fever, you are advised to seek medical attention promptly
 * If travelling to high risk malarious areas, remote from medical facilities, carrying emergency malaria standby treatment should be seriously considered.
+
+### **Ebola**
+
+Uganda experiences periodic outbreaks of viral haemorrhagic fever. Travellers should follow local health advice during an outbreak.
 
 ### **Water**
 
