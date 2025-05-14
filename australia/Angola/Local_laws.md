@@ -28,7 +28,7 @@ Same-sex relationships were decriminalised in January 2019. However, there are l
 
 **More information:**
 
-* [Advice for LGBTQIA+](/before-you-go/who-you-are/LGBTQIA "Advice for LGBTQIA+ travellers")[travellers](https://www.smartraveller.gov.au/before-you-go/who-you-are/LGBTI)
+* [Advice for LGBTQIA+ travellers](/before-you-go/who-you-are/LGBTQIA "Advice for LGBTQIA+ travellers")
 
 #### Australian laws
 
@@ -51,4 +51,4 @@ If you're a dual national, check with your nearest [embassy or consulate of Ang
 **More information:**
 
 * [Dual nationals](/before-you-go/who-you-are/dual-nationals "Advice for dual nationals")
-* [Embassy of Angola in London](http://www.angola.org.uk/consular-section)
+* [Embassy of Angola in London](https://consuladogeralangola-uk.org/)

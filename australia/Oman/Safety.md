@@ -4,16 +4,24 @@
 
 International terrorist groups are active in the Arabian Peninsula. Attacks against targets in Oman may happen.
 
-Be alert to possible threats and:
+Terrorism is a threat worldwide. Terrorist attacks could occur anywhere and at any time. Be alert to possible threats, especially in public places. Terrorists may target tourist areas or other places frequented by foreigners and where large crowds may gather.
 
-* report any suspicious activity or items to police
-* monitor the media for any new or emerging threats
+Possible targets include:
+
+* places of worship or religious holidays
+* hotels, clubs, restaurants and cafes
+* markets and shopping malls
+* outdoor recreation events, including festivals, concerts, and sporting venues
+* public transport, airports and railway hubs
+
+To stay safe:
+
+* report suspicious activities or items to the police
+* check the media for new threats
 * take official warnings seriously
-* follow local authorities' instructions
+* follow the instructions of local authorities
 
 If there's an attack, leave the area as soon as it's safe. Avoid the affected area in case of secondary attacks.
-
-Terrorism is a threat worldwide.
 
 **More information:**
 
@@ -42,7 +50,7 @@ Public protests and events that draw large groups of people can turn violent.
 
 Military tensions remain in neighbouring Yemen.
 
-If you travel to border areas, be alert to possible threats.
+If you decide, against our advice, to travel to border areas, be alert to possible threats.
 
 Seek local advice on routes to minimise security threats.
 
@@ -65,6 +73,14 @@ To stay safe:
 * secure all doors and windows at your accommodation
 * avoid camping in remote areas alone or in small groups
 
+#### Drink spiking
+
+Drink spiking can happen anywhere. Be alert to the potential risks, and don't leave food or drinks unattended. Pay attention when your drinks are being mixed. Stick to reputable venues and avoid homemade alcoholic drinks due to the risk of methanol poisoning. Get urgent medical help if you suspect you’ve been a victim.
+
+**More information:**
+
+[Partying safely](/before-you-go/safety/partying "Partying safely")
+
 #### Cyber security
 
 You may be at risk of cyber-based threats during overseas travel to any country. Digital identity theft is a growing concern. Your devices and personal data can be compromised, especially if you’re connecting to Wi-Fi, using or connecting to shared or public computers, or to Bluetooth.
@@ -77,13 +93,13 @@ Social media can also be risky in destinations where there are social or politic
 
 #### Kidnapping
 
-Kidnapping can happen anywhere, anytime, including in destinations that are typically at lower risk. 
+Kidnapping can happen anywhere, anytime, including in destinations that are typically at lower risk.
 
 The Australian Government's longstanding policy is that it doesn't make payments or concessions to kidnappers.
 
-**More information:**
+**More information, including advice on how to reduce your risk of kidnapping:**
 
-* [Kidnapping](https://www.smartraveller.gov.au/before-you-go/safety/kidnapping)
+[Kidnapping](https://www.smartraveller.gov.au/before-you-go/safety/kidnapping)
 
 #### Tours and adventure activities
 

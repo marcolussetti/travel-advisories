@@ -2,9 +2,9 @@
 
 Latest update
 
-Demonstrations and protests may increase in the days leading up to and on days of national or commemorative significance, including the anniversary of the start of civil unrest on 13 May. Avoid demonstrations and public gatherings. Demonstrations and protests may turn violent at short notice. There’s still a high police and security presence in country. Be aware of your personal security and belongings. Isolated security incidents, including arson, may occur across the territory. Some essential services are affected. Monitor local media and follow the advice of local authorities (see 'Safety').   
+We advise exercise a high degree of caution in Noumea and western coastal areas between Kone and Noumea. We also continue to advise reconsider your need to travel to other parts of the country, including Loyalty islands and IIes de Pins and inland of the western coastal areas on Grand Terre, including on some major roads (see 'Safety').   
   
-We advise exercise a high degree of caution in Noumea and western coastal areas between Kone and Noumea. We also continue to advise reconsider your need to travel to other parts of the country, including Loyalty islands and IIes de Pins and inland of the western coastal areas on Grand Terre, including on some major roads (see 'Safety').
+Political tensions and civil unrest may increase at short notice. Demonstrations and protests may turn violent at short notice. Avoid demonstrations and public gatherings. There’s still a high police and security presence in country. Be aware of your personal security and belongings. Isolated security incidents, including arson, may occur across the territory. Some essential services are affected. Monitor local media and follow the advice of local authorities (see 'Safety').
 
 Advice Level summary
 
@@ -40,7 +40,6 @@ Higher levels apply in some areas.
 
 ### Safety
 
-* Demonstrations and protests may increase in the days leading up to and on days of national or commemorative significance, including the anniversary of the start of civil unrest on 13 May. Avoid demonstrations and public gatherings. Demonstrations and protests may turn violent at short notice.
 * We advise exercise a high degree of caution in Noumea and western coastal areas between Kone and Noumea. We continue to advise reconsider your need to travel to other parts of the country, including Loyalty islands and IIes de Pins and inland of the western coastal areas on Grand Terre, including on some major roads (see 'Safety' below).
 * Political tensions and unrest may increase at short notice. Be alert to personal safety risks. There’s a high police and security presence. Authorities may impose restrictions, including curfews, at short notice.
 * Security incidents, including arson and carjackings, continue across the country. Political demonstrations and protests may turn violent at short notice. Some essential services, including healthcare, are affected.

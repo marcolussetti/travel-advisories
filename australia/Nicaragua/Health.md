@@ -54,6 +54,10 @@ Carry a copy of your prescription or a letter from your doctor stating:
 
 #### Insect-borne diseases
 
+[Zika virus](http://www.health.gov.au/internet/main/publishing.nsf/Content/ohp-zika-countries.htm) is widespread in Nicaragua.
+
+If you're pregnant, the Australian Department of Health and Aged Care recommends that you discuss travel plans with your doctor
+
 [Malaria](https://www.who.int/news-room/fact-sheets/detail/malaria) is a risk in rural areas of Nicaragua, including the outskirts of Managua.
 
 [Dengue](https://www.health.gov.au/diseases/dengue-virus-infection) and [chikungunya](https://www.who.int/news-room/fact-sheets/detail/chikungunya) are widespread.
@@ -63,13 +67,6 @@ The risk of other insect-borne diseases increases in the rainy season, from Apri
 * [Chagas disease](https://www.who.int/en/news-room/fact-sheets/detail/chagas-disease-(american-trypanosomiasis))
 * [Leishmaniasis](https://www.who.int/news-room/fact-sheets/detail/leishmaniasis)
 
-Widespread transmission of [zika virus](https://www.health.gov.au/diseases/flavivirus-infection-including-zika-virus?utm_source=health.gov.au&utm_medium=callout-auto-custom&utm_campaign=digital_transformation) occurs in Nicaragua.
-
-If you're pregnant, the Australian Department of Health recommends that you:
-
-* discuss travel plans with your doctor
-* consider deferring non-essential travel to affected areas
-
 To protect yourself from diseases spread by insects:
 
 * make sure your accommodation is insect-proof
@@ -77,6 +74,18 @@ To protect yourself from diseases spread by insects:
 * wear long, loose, light-coloured clothes
 
 Consider taking medicine to prevent malaria.
+
+Get medical advice if you have a fever, muscle pain, rash, bleeding nose or gums, or severe headache.
+
+**More information:**
+
+* [Infectious diseases](https://www.smartraveller.gov.au/before-you-go/health/diseases)
+
+#### HIV/AIDS
+
+[HIV/AIDS](https://www.who.int/news-room/fact-sheets/detail/hiv-aids) is a significant risk in Nicaragua.
+
+Take steps to protect yourself if you're at risk of infection.
 
 #### Other health risks
 
@@ -93,6 +102,19 @@ These include:
 
 Serious outbreaks sometimes occur.
 
+Many illnesses can be caused by eating food or drinking beverages contaminated by bacteria, parasites, toxins, or viruses, or by swimming or bathing in contaminated water.
+
+To protect yourself from illness:
+
+* boil drinking water or drink water from a sealed bottle
+* avoid ice cubes
+* avoid raw and undercooked food, such as salads
+* make sure your vaccinations are up to date
+* avoid getting water into your eyes, mouth, or nose when swimming or participating in activities in freshwater (streams, canals, lakes), particularly after flooding or heavy rain. Water may look clean but could still be polluted or contaminated
+* avoid inhaling or swallowing water while bathing, showering, or swimming in pools or hot tubs
+
+Get medical advice if you have a fever or diarrhoea.
+
 **More information**
 
 * [Infectious diseases](https://www.smartraveller.gov.au/before-you-go/health/diseases)
@@ -105,6 +127,8 @@ Facilities are good in Managua but are very limited in smaller towns and rural a
 
 Expect to pay cash upfront before doctors, and private hospitals treat you, even in an emergency.
 
-There are no emergency ambulance services in Nicaragua. Access to certain types of medical equipment, medication and treatments is limited.
+Access to certain types of medical equipment, medication, ambulance services and treatments is limited.
+
+Doctors will rarely agree to work with your travel insurer. You may need to be reimbursed after you pay cash for your treatment. Doctors may only speak Spanish.
 
 If you become seriously ill or injured, you may need evacuation to another country. This can be very expensive.

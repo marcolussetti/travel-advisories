@@ -102,8 +102,6 @@ Get medical advice if you have a fever or diarrhoea.
 
 #### Medical care
 
-#### Medical facilities
-
 Health care is generally good but can vary from region to region.
 
 Hospitals and clinics in larger cities are better equipped.

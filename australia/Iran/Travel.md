@@ -18,13 +18,18 @@ If you overstay your visa in Iran for any reason, even one beyond your control, 
 
 * [Embassies and Consulates of Iran](https://en.mfa.gov.ir/portal/viewpage/14765)
 
-#### Other formalities
+#### Travel to Israel
 
-If your passport has evidence you've travelled to Israel, such as an Israeli exit or entry stamp, authorities will refuse you entry to Iran.
+It's against Iranian law to travel to Israel.
 
-Strict import restrictions apply.
+If there's evidence that you've travelled to Israel or intend to, you will be refused entry to Iran and deported. You may be arrested and imprisoned. Evidence includes:
 
-If you're a dual national, you may not be able to leave Iran unless you meet certain conditions.
+* Israeli exit or entry stamps in your passport
+* Egyptian or Jordanian stamps from border crossings with Israel
+* travel itineraries or tickets that include Israel as a destination
+* souvenirs from Israel
+* airline tags on your bags
+* SIM cards, literature, or other items with obvious links to Israel
 
 #### Passport
 
@@ -80,7 +85,7 @@ Bring enough cash in Euros or US Dollars to cover your stay.
 
 To drive in Iran you need both:
 
-* a valid Australian driver's licence
+* a valid Australian driver's licence (digital driver's licences may not be accepted)
 * an International Driving Permit (IDP)
 
 Get an IDP before leaving Australia.
@@ -125,9 +130,11 @@ The Gulf has many areas with security issues and territorial disputes. Authoriti
 
 [Piracy](/before-you-go/safety/piracy "Reducing the risk of piracy") occurs in the Gulf.
 
-Check the International Maritime Bureau's [piracy report](http://www.icc-ccs.org/piracy-reporting-centre).
+Check the International Maritime Bureau's [piracy report](https://icc-ccs.org/map/).
 
 #### Air travel
+
+Due to ongoing tensions, the regional security situation could deteriorate quickly. This may result in airspace closures, flight cancellations, flight diversions, and other travel disruptions. 
 
 The International Civil Aviation Organisation (ICAO) hasn't audited air safety authorities in Iran.
 

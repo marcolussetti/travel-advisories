@@ -111,8 +111,6 @@ Get medical advice if you have allergies or breathing difficulties.
 
 #### Medical care
 
-#### Medical facilities
-
 The standard of medical facilities varies. Facilities in remote areas are extremely limited.
 
 If you become seriously ill or injured, you'll need to be evacuated to a place with better facilities, such as London or Dubai. Medical evacuation can be very expensive and may not be possible.

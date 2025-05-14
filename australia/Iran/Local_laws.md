@@ -8,7 +8,7 @@ If you're arrested or jailed, the Australian Government will do what it can to h
 
 Iran does not recognise dual nationality. If you're an Australian citizen with Iranian nationality, our ability to provide consular assistance is extremely limited.
 
-The Australian Government may not be notified if you're detained. We can't guarantee consular access to any Australian detained or arrested. We also can't guarantee access to legal representation of your choice.
+The Australian Government may not be notified if you're detained. We can't guarantee consular access to any Australian detained or arrested. We also can't guarantee access to legal representation.
 
 #### Drugs
 
@@ -43,6 +43,10 @@ These activities are illegal in Iran:
 * manufacturing, selling or consuming alcoholic drinks
 
 Local authorities consider domestic violence to be a private family matter. Iranian law does not prohibit domestic violence.
+
+Authorities have stopped Australians and Australian-Iranian dual nationals, including mothers with children, from leaving Iran. Husbands can legally place border alerts ('stop orders') on their spouse and children where there are pending custodial disputes. Overturning stop orders can be a time consuming and complicated process.
+
+The Australian Government cannot prevent or overturn a stop order on an Australian citizen.
 
 **More information:**
 

@@ -52,19 +52,35 @@ Carry a copy of your prescription or a letter from your doctor stating: 
 
 #### Health risks
 
-#### Mpox (formerly known as monkeypox)
+#### HIV/AIDS
 
-Mpox can be transmitted to humans through physical contact with an infectious person, infected animals or contaminated materials.
+[HIV/AIDS](https://www.who.int/news-room/fact-sheets/detail/hiv-aids) infection rates are high. Take precautions before you do anything that puts you at risk of infection.
 
-Seek professional medical advice on Mpox vaccines.
+#### Insect-borne diseases
 
-Maintain strict hygiene standards. Avoid physical contact with anyone who has Mpox.
+[Yellow fever](http://www.health.gov.au/internet/main/publishing.nsf/content/health-pubhlth-strateg-communic-factsheets-yellow.htm) is common in Angola. Yellow fever is a potentially fatal virus spread by mosquitoes. It's prevented by vaccination. Get vaccinated before you travel.
 
-See a doctor if you feel unwell and isolate from others if you develop any Mpox symptoms.
+[Malaria](https://www.who.int/news-room/fact-sheets/detail/malaria) is a high risk. 
 
-**More information:**
+To protect yourself from disease:
 
-* [Mpox](https://www.cdc.gov.au/topics/mpox-monkeypox) (Australian Government)
+* make sure your accommodation is insect-proof
+* use insect repellent
+* wear long, loose, light-coloured clothes
+
+Consider taking medicine to prevent malaria.
+
+Outbreaks of other insect-borne diseases are also common, including:
+
+* [dengue](https://www.health.gov.au/diseases/dengue-virus-infection)
+* [filariasis](https://www.who.int/news-room/fact-sheets/detail/lymphatic-filariasis)
+* [African sleeping sickness](https://www.who.int/news-room/fact-sheets/detail/trypanosomiasis-human-african-(sleeping-sickness))
+
+#### Cholera
+
+Angola is currently experiencing a [Cholera](https://www.who.int/news-room/fact-sheets/detail/cholera) outbreak with a large number of cases across the country.
+
+To reduce your risk of exposure to the virus, travellers should practice safe food and water precautions. Drink only boiled or bottled water. Avoid raw or undercooked food. Don't swim in fresh water.
 
 #### Polio
 
@@ -77,41 +93,13 @@ Before you travel, complete both:
 
 If you're not sure if you're vaccinated, check with your doctor or travel clinic. Do this at least 8 weeks before you leave.
 
-#### HIV/AIDS
-
-[HIV/AIDS](https://www.who.int/news-room/fact-sheets/detail/hiv-aids) infection rates are high. Take precautions before you do anything that puts you at risk of infection.
-
-#### Insect-borne diseases
-
-[Malaria](https://www.who.int/news-room/fact-sheets/detail/malaria) is a high risk.
-
-Outbreaks of insect-borne diseases are common, including:
-
-* [dengue](https://www.health.gov.au/diseases/dengue-virus-infection)
-* [filariasis](https://www.who.int/news-room/fact-sheets/detail/lymphatic-filariasis)
-* [African sleeping sickness](https://www.who.int/news-room/fact-sheets/detail/trypanosomiasis-human-african-(sleeping-sickness))
-
-[Zika virus](http://www.health.gov.au/internet/main/publishing.nsf/Content/ohp-zika-countries.htm) infections occur. If you're pregnant, the Australian Department of Health and Aged Care advises that you:
-
-* discuss any travel plans with your doctor
-* defer non-essential travel to affected areas
-
-[Yellow fever](http://www.health.gov.au/internet/main/publishing.nsf/content/health-pubhlth-strateg-communic-factsheets-yellow.htm) is common in Angola. Yellow fever is a potentially fatal virus spread by mosquitoes. It's prevented by vaccination. Get vaccinated before you travel.
-
-To protect yourself from disease:
-
-* make sure your accommodation is insect-proof
-* use insect repellent
-* wear long, loose, light-coloured clothes
-
-Consider taking medicine to prevent malaria.
-
 #### Other health risks
 
 Waterborne, foodborne, parasitic, and other infectious diseases are common. These include:
 
 * [typhoid](https://www.who.int/immunization/diseases/typhoid/en/)
-* [cholera](https://www.who.int/news-room/fact-sheets/detail/cholera)
+* [Zika virus](http://www.health.gov.au/internet/main/publishing.nsf/Content/ohp-zika-countries.htm)
+* [Mpox](https://www.cdc.gov.au/topics/mpox-monkeypox)
 * [leishmaniasis](https://www.who.int/news-room/fact-sheets/detail/leishmaniasis)
 * [hepatitis](https://www.who.int/hepatitis/en/)
 * [tuberculosis](https://www.who.int/news-room/fact-sheets/detail/tuberculosis)

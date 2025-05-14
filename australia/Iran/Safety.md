@@ -2,9 +2,9 @@
 
 #### Security situation
 
-Regional tensions are high, and the security situation could deteriorate quickly with little or no notice. This may also result in airspace closures, flight cancellations, flight diversions, and other travel disruptions. 
+Regional tensions are high, and the security situation could deteriorate quickly with little or no notice. This may also result in airspace closures, flight cancellations, flight diversions, and other travel disruptions.
 
-The security situation in Iran remains volatile. Tensions in the region are high and may escalate further, due to ongoing hostility between Iran and Israel, and military tensions between Iran, the US, and other countries in the Middle East.
+The security situation in Iran remains volatile. Tensions in the region may escalate further, due to ongoing hostility between Iran and Israel, and military tensions between Iran, the US, and other countries in the Middle East.
 
 If despite our advice you go to Iran, or decide to stay there, monitor media for possible threats and take extra precautions for your safety:
 
@@ -20,7 +20,7 @@ Airlines may cancel or reduce their operations to and from Iran at short notice.
 
 Iranian authorities are active in and closely monitor border areas with Iraq, Afghanistan and Pakistan. The security situation within 10km of the Iran-Iraq border is extremely dangerous.
 
-Do not visit military or nuclear sites; these are not always clearly marked. Follow the advice of local authorities and monitor the media.
+Do not visit military or nuclear sites; these are not always clearly marked. Even if you did so inadvertently, you can get arrested for venturing close to or taking photos of sensitive sites. Follow the advice of local authorities and monitor the media.
 
 #### Civil unrest and political tension
 
@@ -64,14 +64,14 @@ You may be at greater risk of detention if authorities are suspicious of your ac
 * are near crowds, demonstrations or sensitive sites
 * take photos, except in major tourist sites
 * have contact with Iranians who are of interest to authorities
-* behave or express views perceived as anti-Iranian, anti-Iranian Government, or that could cause religious offence
+* behave or express views perceived as anti-Iranian, anti-Iranian Government, or that could cause religious offence, including on social media
 * are affiliated with, or have links to, Iranian opposition or other political groups.
 
 Iran does not recognise dual nationality. If you're a dual Australian-Iranian national and are detained in Iran, our ability to provide consular support is extremely limited.
 
 The Australian Government may not be notified if you're detained. We can't guarantee consular access to any Australian detained or arrested. We also can't guarantee access to legal representation.
 
-If you're in Iran, you should leave immediately.
+If you're in Iran, you should leave as soon as possible.
 
 **More information:**
 
@@ -80,11 +80,9 @@ If you're in Iran, you should leave immediately.
 
 #### Terrorism
 
-A terrorist attack could happen anywhere in Iran at any time, including in Tehran. 
+A terrorist attack could happen anywhere in Iran at any time, including in Tehran.
 
 In January 2024, at least 84 people were killed and more than 200 wounded in suicide bombing attacks in Kerman, southern Iran, carried out by Islamic State Khorasan Province (ISKP).
-
-On 26 October 2022, a terrorist attack on the Shah Cheragh Shrine in Shiraz killed at least 14 people and injured 40 others.
 
 Possible targets for attacks include:
 
@@ -118,29 +116,35 @@ Terrorism is a threat worldwide.
 
 #### Kidnapping
 
-[Kidnapping](https://www.smartraveller.gov.au/before-you-go/safety/kidnapping) for ransom is a risk in Iran. Foreign nationals have been targeted. The kidnapping risk is heightened in the border areas with Afghanistan and Pakistan, including in the area east of Bam, Jask, and the Sistan and Baluchestan provinces. Terrorists, drug traffickers, smugglers and bandits are active in these regions.
+Kidnapping is a risk in Iran. Foreign nationals have been targeted. The kidnapping risk is heightened in the border areas with Afghanistan and Pakistan, including in the area east of Bam, Jask, and the Sistan and Baluchestan provinces. Terrorists, drug traffickers, smugglers and bandits are active in these regions.
 
-Kidnapping happens with political, ideological and criminal motives. 
+Kidnapping happens with political, ideological and criminal motives.
 
-To reduce the risk of being kidnapped: 
+The Australian Government's longstanding policy is that it doesn't make payments or concessions to kidnappers. Ransom payments to kidnappers have funded further terrorist attacks and criminal activity. Ransom payments to terrorist groups are likely to breach Australian anti-terrorism financing laws.
 
-* always be alert to your personal security and surroundings
-* get professional security advice for travel in locations with a heightened kidnap risk
+If despite our advice, you travel to an area with a high risk of kidnapping, our ability to provide consular assistance in these destinations is limited.
+
+You are responsible for your own safety. To reduce the risk of kidnapping:
+
+* always be alert to your personal security and surroundings - avoid distractions. Be prepared to stop or take evasive action if you sense danger
+* get professional security advice for travel in locations with a heightened kidnap risk. It is essential to have a contingency plan
 * check your accommodation has appropriate security measures
-* vary your movements and don't set patterns
-* avoid isolated locations, particularly when travelling alone
-* notify family or friends of planned travel and share your location
+* vary your movements so you don't set predictable patterns
+* keep a low profile – including online. Drawing attention to yourself in high-risk areas may signal to criminals that you have something worth taking
+* avoid isolated locations, particularly when travelling alone. There is safety in numbers, and you should try to travel with someone else, especially at night
+* notify family or friends of planned travel; share your location and emergency contacts that they can rely on if something happens
 * avoid talking about your money or business affairs
 * use ATMs in public places and during daylight hours
-* avoid giving personal details to strangers online or over the phone
+* avoid giving personal details to strangers online or over the phone. Criminals have been known to search social media for victims
+* If you're confronted by armed criminals, it is best to surrender and cooperate – resistance tends to make the situation worse
 
-The Australian Government's longstanding policy is that it doesn't make payments or concessions to kidnappers.
+Regularly reassess your security arrangements and carefully consider any travel. Using professional security providers is important, but does not completely protect you.
 
-Ransom payments to kidnappers have funded further terrorist attacks and criminal activity. Paying a ransom to terrorist groups will likely break Australian counter-terrorism financing laws. 
+**More information**:
 
-**More information:**
-
-* [Kidnapping](https://www.smartraveller.gov.au/node/57)
+* [Kidnapping](https://www.smartraveller.gov.au/before-you-go/safety/kidnapping)
+* [Scams that affect travellers](https://www.smartraveller.gov.au/before-you-go/safety/scams)
+* [Reducing the risk of piracy](https://www.smartraveller.gov.au/before-you-go/safety/piracy)
 
 #### Crime
 
@@ -165,7 +169,7 @@ Be alert to your surroundings, especially at night. Don't draw unwanted attentio
 
 #### Petty crime
 
-There have been increasing reports of thieves in passing vehicles and on motor bikes snatching bags from pedestrians, home break-ins and robberies.
+There have been increasing reports of thieves in passing vehicles and on motor bikes snatching bags and mobile phones from pedestrians, home break-ins and robberies.
 
 Women can face unwanted attention and harassment. [Women](/before-you-go/who-you-are/women "Advice for women travellers") should take care travelling alone, particularly at night.
 
@@ -192,6 +196,10 @@ It is illegal to import, manufacture, sell or consume alcoholic drinks in Iran. 
 If, despite our advice, you decide to consume alcoholic drinks in Iran, be alert to the potential risks around drink spiking and methanol poisoning through consuming alcoholic drinks. See our advice on partying safely while overseas.
 
 Get urgent medical attention if you think you or someone else has been drugged. Methanol can be used in unregulated alcohol production to lower costs. Methanol is highly toxic. As little as one shot can be fatal. Act quickly if you suspect you or someone you're travelling with has been poisoned.
+
+**More information:**
+
+* [Partying safely](/before-you-go/safety/partying "Partying safely")
 
 #### Climate and natural disasters
 
@@ -223,3 +231,9 @@ Some regions have heavy snowfall during winter.
 Sandstorms and dust storms occur regularly.
 
 Flash flooding can occur, particularly in Spring.
+
+#### Power outages
+
+Power outages occasionally occur, especially in the summer, disrupting public water supply and telecommunication networks, including mobile and internet. 
+
+Monitor the media for updates on changes that may affect your safety and access to essential services.

@@ -16,7 +16,11 @@ Penalties for drug offences are severe and include long prison sentences in loca
 
 #### LGBTQIA+ travellers
 
-Same-sex relationships are legal but aren't always accepted. Avoid public displays of affection.
+Avoid public displays of affection.
+
+Same-sex relationships are legal in Nicaragua, but the country is conservative.
+
+Same-sex marriages aren't recognised in Nicaragua.
 
 **More information:**
 
@@ -45,6 +49,8 @@ Dual nationality is recognised in Nicaragua. Should you be arrested, you may be 
 Children with single or dual Nicaraguan nationality may need specific documents to leave the country without both parents.
 
 Contact the Nicaraguan authorities before you travel.
+
+If you are an Australian citizen, and a Nicaraguan citizen, the consular services we can provide to you may be limited. 
 
 **More information:**
 

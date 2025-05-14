@@ -6,7 +6,7 @@ You're subject to all local laws and penalties, including those that may appear 
 
 Omani law applies to you even if you're transiting and don't leave the airport.
 
-You may be detained and fined if you drink alcohol in public.
+You may be detained and fined if you drink alcohol or are intoxicated in public. The legal age of drinking alcohol in licensed venues is 21. 
 
 If you come to the attention of the local authorities, they may require you to take a blood test, particularly if they suspect you have used drugs or alcohol. If you refuse, you could be arrested for your failure to comply.
 
@@ -41,7 +41,10 @@ Know your rights and responsibilities.
 Authorities may not let you leave Oman if you:
 
 * are involved in business or labour disputes
-* have unpaid debts
+* have unpaid debts, and bills. Unpaid bills include:
+  + giving somebody a cheque which bounces (including post-dated and ‘security’ cheques)
+  + non-payment of bills (for example property rent, hotel bills or car hire).
+* have unpaid traffic fines. You can check if you have outstanding traffic fines via the ROP app or online service: [Royal Oman Police Website - Online Services - Traffic Offense Payment.](https://www.rop.gov.om/OnlineServices/eTraffic/english/default.aspx)
 * have legal proceedings underway
 
 Serious offences, such as murder, may attract the death penalty.
@@ -113,7 +116,7 @@ To observe dress codes:
 
 * dress modestly in public when not at tourist beaches, hotels or resorts
 * avoid wearing tight clothes, shorts or low-cut tops
-* choose loose-fitting clothes that cover your shoulders and legs.
+* cover your upper arms and knees.
 
 Penalties including fines and jail terms apply to violations of Oman’s public decency laws
 

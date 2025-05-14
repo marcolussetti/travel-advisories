@@ -2,9 +2,7 @@
 
 Latest update
 
-We continue to advise exercise normal safety precautions in Oman. Reconsider your need to travel to border areas with Yemen due to the threat of armed conflict and violence. You'll need a valid visa to travel to Oman. The type of visa depends on your country of residence and purpose of travel. Entry and exit conditions can change at short notice (see ‘Travel’). Terrorist groups are active in the Arabian Peninsula and attacks against targets in Oman may happen.   
-  
-Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests (see 'Safety').
+We have reviewed our travel advice for Oman and continue to advise exercise normal safety precautions. Reconsider your need to travel to border areas with Yemen due to the threat of armed conflict and violence. You'll need a valid visa to travel to Oman. The type of visa depends on your country of residence and purpose of travel. Entry and exit conditions can change at short notice (see ‘Travel’). Terrorist groups are active in the Arabian Peninsula and attacks against targets in Oman may happen (see 'Safety').
 
 Advice Level summary
 
@@ -33,17 +31,14 @@ See [Safety](#safety).
 ### Safety
 
 * Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions. There is an increased threat of attacks against Israeli interests across the region.
-* Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests.
-* Terrorist groups are active in the Arabian Peninsula and attacks against targets in Oman may happen. Terrorist attacks can occur anywhere. Take official warnings seriously.
-* Protests can turn violent. Avoid large public gatherings. Take care around the time of Friday prayers.
 * Armed conflict is ongoing in neighbouring Yemen. If you travel to border areas, be alert to possible threats. Seek local advice on safe routes.
+* Terrorist groups are active in the Arabian Peninsula and attacks against targets in Oman may happen. Terrorist attacks can occur anywhere. Take official warnings seriously.
+* Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests.
+* Protests can turn violent. Avoid large public gatherings. Take care around the time of Friday prayers.
 * The crime rate in Oman is low. Tourists are sometimes targets for burglaries and theft especially in crowded places and from vehicles. Physical, verbal and sexual harassment can occur.
 * Risks increase at night. Secure your accommodation. Don't camp in remote areas. Some women and travellers camping in isolated areas have been assaulted.
 * Be prepared for extreme weather conditions. The monsoon season is from June to September. Temperatures can reach 50°C. Flooding and cyclones can happen during this time. Sand and dust storms can occur during the drier months from October to May. Follow the advice of local officials.
 * Adventure tourism activities, including hiking and swimming, can be dangerous. Always look out for potential hazards and avoid possible risks. Follow instructions of local authorities. When hiking, follow marked hiking trails and other safety instructions. Make sure your travel insurance policy covers such activities.
-* Military tensions remain in neighbouring Yemen. If you decide, against our advice, to travel to border areas, be alert to possible threats and seek local advice on safe routes.
-
-Full travel advice: [Safety](#safety)
 
 ### Health
 
@@ -55,14 +50,15 @@ Full travel advice: [Health](#health)
 
 ### Local laws
 
-* Oman is an Islamic country. Respect local traditions, customs, laws and religions at all times. Dress modestly in public areas like shopping malls – cover the tops of arms and legs and avoid wearing shorts and sleeveless shirts. Penalties, including fines and jail terms, apply to violations of Oman's public decency laws.
+* Oman is an Islamic country. Respect local traditions, customs, laws and religions at all times. Dress modestly in public areas like shopping malls – cover upper arms and knees and avoid wearing shorts and sleeveless shirts. Penalties, including fines and jail terms, apply to violations of Oman's public decency laws.
 * Don't use or carry illegal drugs. Severe penalties for drug offences include the death sentence. Possessing even a small amount attracts a minimum 12 month jail sentence.
 * If you come to the attention of the local authorities, they may require you to take a blood test, particularly if they suspect you have used drugs or alcohol. If you refuse, you could be arrested for your failure to comply.
-* Get professional legal advice if you're involved in legal matters, especially family or business law. You may not be allowed to leave Oman if you're involved in a dispute, have legal proceedings underway or unpaid debts.
+* Get professional legal advice if you're involved in legal matters, especially family or business law. You may not be allowed to leave Oman if you're involved in a dispute, have legal proceedings underway or unpaid debts, bills or traffic fines.
 * Same-sex relationships, sex outside of marriage and pornography are illegal. Hotels may refuse accommodation to couples who can't prove they're married. You should contact your accommodation provider to seek clarification on the requirements. It is important to respect local customs and act in a culturally appropriate manner.
 * Oman has strict dress codes. It's illegal to wear military or similar clothing and accessories.
 * Oman has strict laws on public speech, including on social media. It also has a strict code of behaviour. Don't disrespect Islam or any other religion. Take care during Ramadan and Shia festivals. Avoid eating, drinking or smoking in public during Ramadan.
 * Fundraising and charity activities are strictly regulated in Oman. It is illegal to raise funds or organise a crowdfunding campaign without Omani government approval.
+* It is illegal to fly drones or any other remote-controlled fling device without a valid licence or in a restricted space.
 
 Full travel advice: [Local laws](#local-laws)
 

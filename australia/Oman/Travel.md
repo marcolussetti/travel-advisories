@@ -47,7 +47,9 @@ You need a valid yellow fever vaccination certificate to enter Oman if you're ar
 
 #### Travel with children
 
-Under Omani law, children with an Omani father are Omani nationals. They will need their father's permission to leave Oman.
+In some cases, children with an Omani father need their father's permission to leave Oman.
+
+Check with the Royal Oman Police and the airlines whether the father's permission is require to travel.
 
 **More information:**
 
@@ -78,8 +80,8 @@ Some people may try to trick you into giving them your passport. Always keep it 
 If you lose your passport before arriving in Oman (before you pass through passport control):
 
 * You will not be able to enter the country
-* The Embassy of Australia may not be able to provide you with a new passport, as personal lodgement is compulsory to obtain a new passport
-* You may have to return to Australia.
+* The Embassy of Australia may not be able to provide you with a new passport, as personal lodgement is required to obtain a new passport
+* You may have to return to Australia or to the destination you departed from.
 
 If your passport is lost or stolen, tell the Australian Government as soon as possible:
 
@@ -110,9 +112,9 @@ Ask your bank if your cards will work in Oman.
 
 #### Driving permit
 
-If you hold an Omani residence permit and an Australian driver licence, you should obtain an Omani driver licence.
+If you hold an Omani residence permit you'll need to obtain an Omani driver's licence to be able to drive in Oman.
 
-If you're in Oman on a visit visa, you should hold an International Driving Permit (IDP). Your IDP should be endorsed by the Oman road authorities. This is usually be done at the rental car company at the airport.
+If you're in Oman on a visit visa, you should hold an International Driving Permit (IDP). Your IDP should be endorsed by the Oman road authorities. This is usually done at the rental car company at the airport.
 
 #### Road travel
 
@@ -164,7 +166,7 @@ These services aren't networked or scheduled.
 
 #### Sea travel
 
-Territorial disputes and security issues in many of the waters near Oman make sea travel in these areas risky, especially around the islands of Abu Musa and Tunbs in the southern Gulf. [Piracy](/before-you-go/safety/piracy "Reducing the risk of piracy") occurs in the waters around Oman, Yemen and Saudi Arabia. If you travel by sea, monitor the [International Maritime Bureau](http://www.icc-ccs.org/piracy-reporting-centre) piracy reports.
+Territorial disputes and security issues in many of the waters near Oman make sea travel in these areas risky, especially around the islands of Abu Musa and Tunbs in the southern Gulf. [Piracy](/before-you-go/safety/piracy "Reducing the risk of piracy") occurs in the waters around Oman, Yemen and Saudi Arabia. If you travel by sea, monitor the [International Maritime Bureau](https://icc-ccs.org/map/) piracy reports.
 
 If you travel by sea to or near Oman:
 

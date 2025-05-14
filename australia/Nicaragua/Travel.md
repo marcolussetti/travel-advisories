@@ -28,7 +28,19 @@ If you overstay the visa without an extension, you may be:
 
 If you're not a tourist or you plan to stay longer, you'll need a visa.
 
-Entry and exit conditions can change at short notice. Contact the [Nicaraguan Embassy](https://protocol.dfat.gov.au/Public/Missions/146) in Japan for details about visas, currency, customs and quarantine rules.
+Entry and exit conditions can change at short notice. Contact the [Nicaraguan Embassy](https://protocol.dfat.gov.au/Public/Missions/146) in Seoul for details about visas, currency, customs and quarantine rules.
+
+#### Border measures
+
+To enter the country, you'll need:
+
+* a valid passport
+* a return or onward ticket
+* evidence you have enough money for your visit
+
+You'll need to pay an airport tax on arrival at the airport.
+
+Your airline ticket usually includes the airport departure tax from the Augusto Sandino Airport in Managua. Confirm this with your travel agent. 
 
 #### Travel via the United States
 
@@ -66,12 +78,7 @@ You may need a valid yellow fever vaccination certificate to enter Nicaragua. So
 **More information:**
 
 * [Yellow fever risk and certification requirements](https://www.who.int/publications/m/item/countries-with-risk-of-yellow-fever-transmission-and-countries-requiring-yellow-fever-vaccination-(november-2022))
-
-#### Arrival and departure taxes
-
-There's an arrival tax, which you need to pay in cash.
-
-Your airline ticket usually includes the airport departure tax from the Augusto Sandino Airport in Managua. Confirm this with your travel agent.
+* [Countries with a risk of yellow fever](https://cdn.who.int/media/docs/default-source/documents/emergencies/travel-advice/ith2021_annex1_draft_6may_final-draft-rev4feb2022.pdf?sfvrsn=19a4e923_1&download=true)
 
 #### Passport
 
@@ -108,11 +115,13 @@ More information:
 
 The local currency is the Nicaraguan Córdoba (NIO).
 
-You won't be able to use Australian dollars or traveller's cheques in Nicaragua.
+You can only exchange US dollars in Nicaragua.
 
-The only foreign currency you can exchange is US dollars.
+ATMs aren't always reliable. Credit cards are widely accepted.
 
-ATMs have low daily withdrawal limits.
+Contact your bank to make sure your cards will work.
+
+Using ATMs on the street puts you at high risk of [robbery](https://www.smartraveller.gov.au/before-you-go/safety/theft-robbery) or express kidnapping.
 
 #### Local travel
 
@@ -135,23 +144,33 @@ You also need to carry your current passport and tourist card.
 
 #### Road travel
 
+You're more likely to die in a motor vehicle accident in Nicaragua than in Australia.
+
 Driving in Nicaragua can be dangerous. Hazards include:
 
-* narrow roads in poor condition
-* lack of signage
-* dangerous local driving practices
-
-You're more likely to die in a motor vehicle accident in Nicaragua than in Australia.
+* aggressive local drivers
+* poorly maintained vehicles
+* roads in poor condition
+* drivers ignoring traffic laws
+* In rural areas, extra road travel risks include:
+* poor lighting and street signs
+* people and animals on roads
 
 If you're involved in an accident, don't move your vehicle until a police officer permits it.
 
-If you plan to drive or travel by car:
+If you plan to drive in Nicaragua:
 
-* only travel during daylight hours
-* travel in groups where possible
-* don't hitchhike
-* lock doors and keep windows up, even when moving
-* don't leave main roads in the northern border region, as there are unmarked landmines
+* check your travel insurance cover
+* learn local traffic laws and practices
+* don't travel alone, at night or through dangerous areas
+* keep doors locked and windows up, even when moving
+* don't drink or use drugs
+
+Before you drive:
+
+* get local advice on road conditions, including security risks
+* know your travel options in advance
+* be prepared for a change in plans if any security issues come up
 
 **More information:**
 
@@ -159,9 +178,28 @@ If you plan to drive or travel by car:
 
 #### Taxis
 
-It's a common local practice to share taxis with strangers. To avoid this, agree on a fare for a solo journey before you set off.
+Travelling by taxi can be dangerous.
 
-Assaults and robberies happen in unlicensed taxis or when a stranger offers to call a taxi for you. Don't take a taxi if you don't know the person who called it.
+Book airport taxis and regular taxis through a reputable taxi company. These are safer than taxis flagged from the street or at taxi stands.
+
+If you use a taxi:
+
+* arrange transport through your hotel or a radio dispatcher to avoid unlicensed operators
+* buy vouchers from the airport Tourist Office for airport taxis
+* book in advance if travelling at night
+* don’t let your driver pick up other passengers
+* never share a taxi with a stranger
+* agree on the fare before you set off
+* note your taxi driver’s name and licence number
+
+#### Landmines
+
+There are unmarked mine fields on both sides of the Honduras-Nicaragua border, especially in:
+
+* the Rio Coco region
+* the area near the Atlantic Coast
+
+Don't leave known safe roads and areas.
 
 #### Air travel
 

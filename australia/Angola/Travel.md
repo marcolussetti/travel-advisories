@@ -16,7 +16,7 @@ While tourist visas are no longer required, border processes are still undertake
 
 #### Yellow fever vaccination
 
-You'll need a valid yellow fever vaccination certificate to enter Angola. Some airlines want to see one when you leave.
+You'll need a valid yellow fever vaccination certificate to enter Angola. Some airlines may request to see your vaccination certificate on departure. 
 
 Check yellow fever requirements for other countries you are visiting.
 
@@ -37,7 +37,7 @@ South Africa has specific requirements for:
 * [children who are travelling](/before-you-go/who-you-are/children "Travelling with children")
 * proof of yellow fever vaccination
 
-It won't accept [provisional travel documents](https://www.passports.gov.au/travel-related-documents), such as 1-page travel documents.
+South Africa won't accept [provisional travel documents](https://www.passports.gov.au/travel-related-documents), such as 1-page travel documents.
 
 **More information:**
 

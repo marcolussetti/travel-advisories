@@ -2,7 +2,7 @@
 
 Latest update
 
-We continue to advise exercise a high degree of caution in Nicaragua due to the threat of violent crime. Check with the nearest embassy or consulate of Nicaragua to confirm the latest entry requirements before travel (see 'Travel').
+We've reviewed our advice for Nicaragua and continue to advise exercise a high degree of caution due to the threat of violent crime. Check with the nearest embassy or consulate of Nicaragua to confirm the latest entry requirements before travel (see 'Travel').
 
 Advice Level summary
 
@@ -23,7 +23,7 @@ Exercise a high degree of caution in Nicaragua due to the threat of violent crim
 ### Safety
 
 * Nicaragua has a high crime rate, including armed robbery, assault and express kidnapping. There aren't many police outside major urban areas. Avoid remote locations. Don't go out alone or at night. Only travel to tourist areas. Violent crime occurs in unofficial taxis. Use only official taxis with a red number plate, or radio-dispatched taxis. Avoid public transport.
-* Armed gangs operate along the Honduran border. Only use highways that cross the border at Guasaule, El Espino or Las Manos.
+* Borders and remote areas have higher risks of violent crime due to drug smuggling. Only use official border crossings. Cross during daytime.
 * Hurricane season is from June to November. Hurricanes can cause flooding and disrupt services. Know your hotel or cruise ship's evacuation plan. Find your nearest shelter.
 * Nicaragua has 3 active volcanoes. Don't hike near volcanoes or visit remote areas without an experienced guide.
 * Protests against the Nicaraguan Government may occur. Take care not to appear to support anti-government activity. Avoid protests and political gatherings, authorities may arrest or imprison you.
@@ -43,7 +43,7 @@ Full travel advice: [Health](#health)
 ### Local laws
 
 * Don't use or carry illegal drugs. Penalties for drug offences are severe. They include long prison sentences.
-* It's illegal to photograph official buildings. Check with officials before taking photos.
+* Ask for permission before taking photos of anyone, especially women, children, and indigenous people.
 * Take care when driving. If you kill or injure someone in an accident, officials may detain you until your court case finishes.
 
 Full travel advice: [Local laws](#local-laws)

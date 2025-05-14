@@ -52,7 +52,7 @@ The working week is Sunday to Thursday.
 
 #### Embassy of Australian, Riyadh
 
-Abdullah Bin Hozafa Al-Shami Avenue  
+Abdullah Bin Hozafa Al-Sahmi Avenue  
 Diplomatic Quarter  
 Riyadh, Kingdom of Saudi Arabia
 

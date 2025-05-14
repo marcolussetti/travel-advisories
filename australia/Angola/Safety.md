@@ -39,13 +39,32 @@ Drink spiking can happen anywhere. Be alert to the potential risks, and don't le
 
 **More information:**
 
-* [Partying safely while overseas](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.smartraveller.gov.au%2Fbefore-you-go%2Fsafety%2Fpartying&data=05%7C02%7CLou.Anderson%40dfat.gov.au%7Cfd9777b6843f4a0f79d808dd3f1f5030%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638736125911156519%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=1NeUHzjb6Nn%2BHMXCb2l7p73%2B6E%2BCcBwI8rDKrWHLqDQ%3D&reserved=0)
+* [Partying safely](/before-you-go/safety/partying "Partying safely")
 
 #### Kidnapping
 
-[Kidnapping](/before-you-go/safety/kidnapping "Reducing the risk of kidnapping") is a risk in and around Luanda. Victims are usually foreigners. They are often abducted from their vehicles by criminals seeking a ransom.
+[Kidnapping](/before-you-go/safety/kidnapping "Reducing the risk of kidnapping") occurs across the world with political, ideological, and criminal motives. Foreigners, including Australians, have been kidnapped overseas while travelling. Kidnaps can happen anywhere, anytime, including in destinations that are typically at lower risk. 
 
-The Australian Government's longstanding policy is that it doesn't make payments or concessions to kidnappers. Ransom payments to kidnappers have funded further terrorist attacks and criminal activity. Paying a ransom to terrorist groups will likely break Australian counter-terrorism financing laws.
+There's a threat of kidnapping in Angola. Foreigners have been kidnapped by armed groups for ransom. Kidnappings have occurred in Luanda.
+
+If, despite our advice, you travel to an area with a high risk of kidnapping, our ability to provide consular assistance in these destinations will be limited. 
+
+To reduce the risk of kidnapping: 
+
+* always be alert to your personal security and surroundings
+* get professional security advice for travel in locations with a heightened kidnap risk
+* check your accommodation has appropriate security measures
+* avoid isolated locations, particularly when travelling alone
+* notify family or friends of planned travel and share your location
+* avoid talking about your money or business affairs
+* use ATMs in public places and during daylight hours
+* avoid giving personal details to strangers online or over the phone
+
+The Australian Government's longstanding policy is that it doesn't make payments or concessions to kidnappers. Ransom payments to kidnappers have funded further terrorist attacks and criminal activity. Paying a ransom to terrorist groups will likely break Australian counter-terrorism financing laws. 
+
+**More information:** 
+
+* [Kidnapping](https://www.smartraveller.gov.au/before-you-go/safety/kidnapping)
 
 #### Cyber security
 
@@ -77,7 +96,7 @@ Armed gangs have attacked foreigners outside Cabinda city. They have warned that
 * sexual assault
 * murder
 
-Lunda Norte and Lunda Sul provinces are diamond-mining areas. There's potential for civil unrest and associated crime. Violence against foreigners in these provinces occurs.
+Lunda Norte and Lunda Sul provinces are diamond-mining areas. There's potential for civil unrest and associated crime. Violence against foreigners does occur in these provinces.
 
 To protect yourself during unrest, avoid protests and large public gatherings.
 
@@ -132,9 +151,21 @@ Swimming in freshwater lakes and rivers can be unsafe due to:
 
 Flash flooding may occur during the rainy season from October to May.
 
-Flooding may result in:
+Flooding may affect the following essential services:
 
-* damage to infrastructure
-* travel delays
+* transport and infrastructure
+* electricity distribution
+* water and food supply
+* emergency services
 
-Follow the advice of local authorities.
+If a natural disaster happens:
+
+* follow the advice of local authorities
+* secure your passport in a safe, waterproof place
+* keep in touch with your friends and family
+* ask your tour operator if tourist services at your destination have been affected.
+
+If you're visiting an area that has recently suffered severe weather:
+
+* confirm your plans with your tour operator or travel provider
+* check the condition of infrastructure and facilities with local tour operators and hotels.
