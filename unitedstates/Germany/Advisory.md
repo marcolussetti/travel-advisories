@@ -1,6 +1,6 @@
 # Germany Travel Advisory
 
-### Travel Advisory May 1, 2024
+### Travel Advisory May 13, 2025
 
 ### Germany - Level 2: Exercise Increased Caution
 
@@ -14,24 +14,35 @@
 [T](javascript:void(0); "Tool Tip: Terrorism")
 [C](javascript:void(0); "Tool Tip: Crimes")
 
-***Reissued after periodic review with minor edits***
+***Reissued after periodic review with updates to Advisory Summary.***
 
 Exercise increased caution in Germany due to **terrorism**.
 
-**Country Summary:**Terrorist groups keep planning attacks in Germany. Terrorists may attack with little or no warning. They target tourist locations and transportation hubs. They also target markets/shopping malls and local government facilities. They target hotels, clubs, and restaurants. They also attack places of worship, parks, and major sporting and cultural events. They target schools, airports, and other public areas.
+**Advisory Summary:** Terrorist groups and lone actors remain a constant threat in Germany and Europe, attacking people in public locations with knives, small arms, rudimentary explosive devices, and vehicles.  Such attacks may occur with little or no warning and target:
 
-Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Germany.html) for additional information on travel to Germany.
+* Tourist locations
+* Transportation centers (airports, train, or bus stations)
+* Markets and shopping malls
+* Local government facilities
+* Hotels, clubs, and restaurants
+* Places of worship and educational institutions
+* Parks
+* Major sporting and cultural events
+* Schools
 
 If you decide to travel to Germany:
 
 * Be aware of your surroundings when traveling to tourist locations and crowded public venues.
 * Follow the instructions of local authorities.
 * Monitor local media for breaking events and adjust your plans based on new information.
-* Enroll in the [Smart Traveler Enrollment Program](https://step.state.gov/step/) ([STEP](https://step.state.gov/step/)) to receive Alerts and make it easier to locate you in an emergency.
-* Follow the Department of State on [Facebook](http://www.facebook.com/travelgov) and [Twitter](http://www.twitter.com/travelgov).
-* Review the [Country Security Report](https://www.osac.gov/Country/Germany/Detail) for Germany.
-* Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) related to your travel.
-* Prepare a contingency plan for emergency situations. Review the [Traveler’s Checklist](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-checklist.html).
+
+U.S. citizens should always exercise caution when traveling abroad. Use these general tips to stay safe:
+
+* Enroll in the [Smart Traveler Enrollment Program (STEP).](https://mytravel.state.gov/s/step)
+* Review the [Country Security Report](https://www.osac.gov/Content/Report/4a32163b-977b-483c-9885-227652b31e8c) for Germany.
+* Prepare a plan for emergency situations. Review the [Traveler’s Checklist](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-checklist.html).
+* Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/traveler/none/costa-rica) related to your travel and return to the United States.
+* We highly recommend that you buy insurance before you travel.  Check with your travel insurance provider about evacuation assistance, medical insurance, and trip cancellation coverage.
 
 ### Travel Advisory Levels
 

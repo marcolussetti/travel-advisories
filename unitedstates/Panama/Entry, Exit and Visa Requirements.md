@@ -2,23 +2,20 @@
 
 [#### Entry, Exit and Visa Requirements](javascript:void(0); "Entry, Exit and Visa Requirements")
 
-Visit the [Embassy of Panama](http://www.embassyofpanama.org/) website for the most current visa information.
+Visit the [Embassy of Panama](https://www.embassyofpanama.org/) website for the most current visa information. The following are required for entry:
 
-**Requirements for Entry:**
+* A passport valid for 3 months past entry your date.
+* Proof of funds—$500 cash or equivalent.
+* A return plane ticket.
 
-* **A passport** valid for at least three months past the date of entry.
-* **A return ticket** to home country or onward destination.
-* **Money** - either $500 in cash or its equivalent, or credit card, bank statement, letter of employment or travelers checks.
-* **Criminal Record Restriction** - Panamanian immigration reserves the right to deny entry to any person with a criminal conviction.
+**180-Day Stay**: U.S. tourists can stay in Panama for 180 days without a visa. This is strictly enforced. Confirm you receive an entry stamp in your passport when you arrive. For further information contact the [Government of Panama Migration Service](https://www.migracion.gob.pa/).
 
-**Requirements for Exit:**
+**Traveling with Children**: To exit the country with only one parent, Panamanian citizens and legal residents under 18, including dual citizens, must present notarized consent in Spanish from both parents. Both parents’ identification documents and the child’s birth certificate are also required. Written consent signed in the United States needs to be apostilled. Any child born in Panama typically acquires Panamanian citizenship at birth.
 
-**180 Day Stay**-Tourists can only remain in Panama for 180 days. This rule is strictly enforced by Panamanian immigration. Travelers must ensure that immigration officials place an entry stamp in their passport.  For further information contact the [Government of Panama Migration Service](http://www.migracion.gob.pa/).
+**HIV/AIDS Restrictions**: Some HIV/AIDS entry restrictions exist for visitors to and foreign residents of Panama. Panamanian immigration does not require an HIV/AIDS test. The U.S. Embassy is not aware of any U.S. citizens who have been deported due to HIV/AIDS. Please verify this information with the [Embassy of Panama](https://www.embassyofpanama.org/) before you travel.
 
-**Traveling with Minors**- Minors (children under 18) who are Panamanian citizens (including dual citizens) or legal residents of Panama are required to present both parents’ identification documents, birth certificates, and notarized consent **(in Spanish)** in order to exit the country if not accompanied by both parents. The consent must also be apostilled if it was signed in the United States. A child born in Panama may automatically obtain Panamanian citizenship. Non-resident foreign minors are excluded from these provisions.
+**Arriving by Sea**: Immigration officials charge a $110 entry fee to travelers piloting their own boats and arriving as tourists. This fee is inconsistently enforced and can change without notice. The fee allows entry into Panama for 3 months and can be extended for up to 2 years.
 
-**HIV/AIDS Restrictions**: Some HIV/AIDS entry restrictions exist for visitors to and foreign residents of Panama.  Panamanian immigration does not require an HIV/AIDS test. The U.S. Embassy is not aware of any U.S. citizens who have been deported due to HIV/AIDS.  Please verify this information with the [Embassy of Panama](http://www.embassyofpanama.org/) before you travel.
-
-**Arriving by Sea**: The Servicio Nacional de Migracion is currently enforcing an entry permit fee of $110 for sea travelers piloting their own boats and arriving as **tourists**. This fee allows entry into Panama for a period of three months, and can be extended for up to two years through an approved application with the immigration authorities in Panama.  U.S. citizens navigating private craft through the Canal should contact the Panama Canal Authority at (011) 507-272-4570 or consult the [Panama Canal Authority web site](https://pancanal.com/en/) to make an appointment.
-
-Find information on [dual nationality](/content/travel/en/legal/travel-legal-considerations/Relinquishing-US-Nationality/Dual-Nationality.html "http://travel.state.gov/travel/cis_pa_tw/cis/cis_1753.html"), [prevention of international child abduction](/content/travel/en/International-Parental-Child-Abduction/prevention.html "http://travel.state.gov/abduction/prevention/prevention_560.html") and [customs regulations](/content/travel/en/international-travel/before-you-go/customs-and-import.html) on our websites.
+* Contact [Servicio Nacional de Migracion](https://www.migracion.gob.pa/contactenos/) to confirm entry fees and procedures.
+* Contact Sector Pacifico, where many U.S. citizens arrive by personal boat, at +507-521-0480 and +507-521-0479.
+* If navigating private craft through the Panama Canal, contact the Panama Canal Authority at +507-272-4570 or visit the [Panama Canal Authority website](https://pancanal.com/en/maritime-services/vessel-eta-and-transit-booking/) to make an appointment.

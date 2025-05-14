@@ -2,43 +2,44 @@
 
 [#### Safety and Security](javascript:void(0); "Safety and Security")
 
-The Mosquito Gulf and the Darien Region are particularly dangerous due to their remoteness and the presence of criminal organizations.
+**The “Mosquito Gulf” and the Darien Region** are extremely remote and inaccessible areas. Drug trafficking, human trafficking, and other criminal activities occur here. Police and emergency services are extremely limited.
 
-In the Darien region, most travel is by river or by footpath due to the scarcity of roads. There are reports of narco-traffickers, and other smugglers and criminals operating in the Panama-Colombia border area.
+* The “Mosquito Gulf” is only accessible by boat or aircraft
+* The Darien Region has few roads and is only accessible by river or on trails by foot.
 
-Access to the “Mosquito Gulf” region is almost exclusively by boat and/or aircraft. Sections of this coastline are reportedly used for narco-trafficking and other illicit activities.
+The U.S. Embassy has limited ability to provide emergency services to U.S. citizens in these regions.
 
-**Demonstrations:** There are often demonstrations to protest internal Panamanian issues or, more rarely, manifestations of anti-American sentiment. Some demonstrations may result in blocked roadways or major highways including in locations popular with U.S. citizens. Panamanian National Police will generally not use force against peaceful demonstrations or roadblocks. While most demonstrations are non-violent, the Panamanian National Police have used tear gas and/or riot control munitions in response to demonstrations, particularly when roadways are blocked or aggression is used against the police.
+**Demonstrations** occur frequently. They may take place in response to political or economic issues. Past demonstrations have disrupted travel and the availability of goods and services in some parts of Panama. Police have used tear gas and other riot control tools.
 
-**Beach and Maritime Safety:**  Many of Panama’s beaches on both the Pacific and Caribbean coasts are subject to large waves and dangerous currents. Conditions can change rapidly and drowning deaths occur. Few beaches feature lifeguards.
+* Demonstrations can be unpredictable. Avoid areas around protests and demonstrations.
+* Past demonstrations have turned violent.
+* Check local media for updates and traffic advisories.
 
-Boaters should be wary of vessels that may be transporting narcotics, other illicit materials, or might be involved in human smuggling operations. Packages containing narcotics have been found floating in the ocean or lying on remote beaches. Do not pick up or move these packages. Immediately report their location to the Panamanian authorities.
+**Beach and Maritime Safety:** Panama’s beaches on the Pacific and Caribbean coasts can have large waves and dangerous currents. Conditions can change rapidly, and drowning deaths occur. Few beaches have lifeguards.
 
-Local maritime search and rescue capabilities are limited. If you are experiencing an emergency at sea or know of someone who is experiencing an emergency off the coast of Panama, please contact the Panamanian authorities.
+Avoid boats that may be connected to drug trafficking, human trafficking, or other illegal activity. Packages containing drugs have been found in open water and on remote beaches. Never pick up or move unknown packages. Report them to the police.
 
-**Crime:**  Panama City, Colon, and Chiriqui province have the highest crime rates. Crimes include shootings, home invasions, rapes, armed robberies, muggings, and thefts. You should take the same precautions you would take in other big cities.
+Emergency search and rescue capabilities are limited. In a maritime emergency near the Panama coast, contact local police.
 
-* Remove valuables from your car. Keep windows up and doors locked while driving.
-* Use only licensed and registered taxis. Avoid taxis with passengers and instruct the driver not to pick up additional fares while en-route to your destination. Regular taxis are yellow in color. Many hotels also have “tourist taxis” that are not yellow but only pick up passengers in front of well-known hotels. Taxis in Panama do not use meters so agree on a fare before getting into the taxi.
+**Scams:** Internet romance and financial scams exist in Panama.  Review the Department of State’s [Protecting Yourself from Scams](https://travel.state.gov/content/travel/en/international-travel/emergencies/international-financial-scams.html) and the [FBI](http://www.fbi.gov/scams-safety/fraud) pages for information.
 
-**Victims of Crime:**  Report crimes to the local police by dialing 104 (National Police) or 511-9260 (Tourist Police in Panama City) and contact the U.S. Embassy at +507-317-5000.
+**Crime:**  Crime in Panama includes theft and residential break-ins. Crimes of opportunity such as pickpocketing and purse snatching can happen in tourist areas. Remove valuables from your car. Keep windows up and doors locked while driving.
 
-Remember that local authorities are responsible for investigating and prosecuting crimes that occur in Panama.
+**Victims of Crime:**  Report crimes to the local police by dialing 104 or 511-9260 for the tourist police in Panama City. Contact the U.S. Embassy at +507-317-5000. Local authorities are responsible for investigating and prosecuting crimes.
 
-See our webpage on [help for U.S. victims of crime overseas](https://travel.state.gov/content/travel/en/international-travel/emergencies/crime.html).
+See our webpage on help for [U.S. victims of crime overseas.](https://travel.state.gov/content/travel/en/international-travel/emergencies/crime.html)
 
 We can:
 
-* Help you find appropriate medical care
-* Assist you in reporting a crime to the police
-* Contact relatives or friends with your written consent
-* Provide a list of local attorneys
-* Provide information on [victim’s compensation programs in the United States](https://travel.state.gov/content/travel/en/international-travel/emergencies/crime.html)
-* Put you in touch with the Panamanian Office of Assistance to Victims of Crime (Oficina de Asistencia a Víctimas de Crímenes), located at the Technical Judicial Police Station (Policia Tecnica Judicial) in the Ancon area of Panama City, which can be reached at 512-2222.
-* Provide an emergency loan for repatriation to the United States and/or limited medical Support in cases of destitution
-* Help you find accommodation and arrange flights home
-* Replace a stolen or lost passport
+* Help you find appropriate medical care.
+* Contact relatives or friends with your written consent.
+* Provide a list of attorneys. We do not endorse or recommend any specific attorneys.
+* Provide information on victim’s compensation programs in the United States.
+* Help you contact Panama’s Office of Assistance to Victims of Crime. Call 512-2222 or visit Oficina de Asistencia a Víctimas de Crímenes, Policia Tecnica Judicial, Ancon, Panama City.
+* Provide an emergency loan for repatriation to the United States and/or limited medical support in cases of destitution.
+* Help you find accommodation and arrange flights home.
+* Replace a stolen or lost passport.
 
-**Domestic Violence:** U.S. citizen victims of domestic violence may contact the Embassy for assistance. If you are in immediate danger, first contact the local police at 104.
+**Domestic Violence:** Contact local police at 104 if you are in immediate danger. U.S. citizen victims of domestic violence are encouraged to contact the Embassy for assistance.
 
-**Tourism:** The tourism industry is unevenly regulated, and safety inspections for equipment and facilities do not commonly occur. Hazardous areas and activities are not always identified with appropriate signage, and staff may not be trained or certified either by the host government or by recognized authorities in the field. In the event of an injury, appropriate medical treatment is often only available in or near major cities. First responders are generally unable to access areas outside of major cities, which limits their ability to provide urgent medical treatment in those areas. U.S. citizens are encouraged to purchase medical evacuation insurance. See our webpage for more information on [insurance providers for overseas coverage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/insurance-providers-overseas.html).
+**Tourism:** The tourism industry is not well regulated. Safety inspections for equipment and facilities are rare. Dangerous areas/activities are not always labeled properly. Staff may not be trained or certified by the host government or recognized authorities. If you get injured, you will likely only find appropriate medical treatment in or near major cities. First responders cannot reach areas outside major cities to provide urgent medical care. U.S. citizens are encouraged to purchase medical evacuation insurance. See our webpage for more [information on insurance coverage overseas](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html).

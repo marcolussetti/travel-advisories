@@ -2,22 +2,42 @@
 
 [#### Travel and Transportation](javascript:void(0); "Travel and Transportation")
 
-**Road Conditions and Safety***:* While in Panama, you may encounter road conditions that differ significantly from those in the United States. Travelers should carry identification with them at all times and be prepared to stop for unannounced checkpoints throughout the country, especially at night. Traffic lights are infrequently located on roads throughout the country, even at busy intersections. Traffic in Panama moves on the right, as in the U.S. Panamanian law requires that drivers and passengers wear seat belts.
+**Road Conditions and Safety***:* Traffic in Panama moves on the right like in the United States. Seat belts are required by law. Some road conditions in Panama are very different from those in the United States:
 
-Driving in Panama is often hazardous and difficult due to heavy traffic, undisciplined driving habits, poorly maintained streets and a shortage of effective signs and traffic signals. Use caution when driving at night; night driving is particularly hazardous on the old Panama City – Colon highway. Riding your bicycle on the streets is not recommended.
+* Always carry identification. Police can detain you for not having identification.
+* Be prepared to stop at unannounced checkpoints throughout Panama, especially at night.
+* Traffic signals are less common throughout the country.
+* Driving at night can be dangerous, especially on the old Panama City – Colon highway.
+* Avoid bicycling on the streets.
+* Driving is more dangerous due to flooding during the rainy season—April to December. Rain can wash out roads and make streets impassable.
+* Roads may have no streetlights and be poorly maintained, with large potholes and cracks common.
+* **Use caution on the Pan American highway** in Panama:
+  + The highway is not well lit at night.
+  + Road construction is common and often inconsistently marked by signs.
+  + Roadblocks sometimes occur due to demonstrations. The highway ends at Yaviza in the Darién Region and does not continue to Colombia.
 
-Road travel is more dangerous during the rainy season (April to December) due to flooding. Rainy season occasionally makes city streets impassible and washes out some roads in the interior of the country. In addition, roads in rural areas are often poorly maintained and lack light at night.
+**Traffic Laws**:Foreigners can drive in Panama using a valid foreign driver license, but only for 90 days. Don’t drive anywhere in Panama without carrying a valid license. Using a cell phone while driving and driving while intoxicated or while drinking alcohol are illegal. Third-party liability auto insurance is mandatory, but many drivers are uninsured.
 
-There is often construction at night on Panama's portion of the Pan American highway. There are few signs alerting drivers to construction, and the highway is not well lit at night. When traveling on the highway, travelers should be aware of possible roadblocks. The Pan American Highway ends at Yaviza in the Darién Province of Panama and does not continue through to Colombia.
+If a traffic accident occurs:
 
-**Traffic Laws**:Current Panamanian law allows foreigners to drive in Panama using their valid foreign driver’s license for a period of only 90 days. Driving without a valid driver’s license is illegal in all areas of Panama. Drivers stopped for driving while intoxicated may face the loss of their driver’s license, a monetary penalty, and vehicle impoundment. Talking on a cell phone or drinking an alcoholic beverage while driving also carries a fine.
+* Call the police immediately.
+* Follow the law by moving your car off the roadway – you could be fined if you don’t.
+* If no one is injured, take photos of both cars and exchange information with the other driver, if you feel safe to do so.
+* Wait for police to arrive.
 
-If you are involved in a vehicle accident, immediately notify the police. Third party liability auto insurance is mandatory, but many drivers are uninsured. If an accident occurs, the law requires that the vehicles be moved off the roadway. Failure to do so could result in a fine. If you are involved in an accident that did not cause injury, you should take a photo of both cars. If safe to do so, exchange information with the other driver and wait for the police to arrive.
+**Public Transportation**:  Public transportation should be used with caution. Thefts and pickpocketing sometimes occur.
 
-**Public Transportation**: Public transportation should be used with caution. While we still receive reports of thefts and pick-pocketing, Panamanian National Police report the new metro buses with bigger windows and better lighting, have reduced the instances of violent crime.
+Taxis in Panama typically are yellow. Hotels may have taxis to pick up passengers at popular hotels, and these taxis may not be yellow.
 
-Please refer to our [Road Safety page](/content/travel/en/international-travel/before-you-go/driving-and-road-safety.html) for more information. Also, we suggest that you visit the websites of [Panama’s Tourism Authority](http://www.atp.gob.pa/), [Transportation Authority](http://www.transito.gob.pa/), and [the national authority responsible for road safety in Panama](http://www.mop.gob.pa/) (Spanish-only) for helpful information on road conditions in Panama.
+If you hire a taxi:
 
-**Aviation Safety Oversight**:The U.S. Federal Aviation Administration (FAA) has assessed the government of Panama’s Civil Aviation Authority as being in compliance with International Civil Aviation Organization (ICAO) aviation safety standards for oversight of Panama’s air carrier operations. Further information may be found on the [FAA’s safety assessment page](http://www.faa.gov/about/initiatives/iasa/).
+* Use a ride-sharing app or licensed and registered taxis.
+* Avoid taxis with unknown passengers.
+* Tell taxi drivers not to pick up other passengers.
+* Agree to a fare in advance because taxis in Panama do not have meters.
 
-**Maritime Travel:** Mariners planning travel to Panama should also check for U.S. maritime advisories and alerts at [www.marad.dot.gov/msci](http://www.marad.dot.gov/msci). Information may also be posted to the U.S. Coast Guard homeport website (https:homeport.uscg.mil), and the NGA broadcast warnings website <https://msi.nga.mil/NGAPortal/MSI.portal>; select “broadcast warnings.”
+See our [Road Safety page](https://travel.state.gov/content/travel/en/international-travel/before-you-go/driving-and-road-safety.html) for more information. Visit the website of Panama’s [national tourist office](https://www.atp.gob.pa/) and national authority responsible for road safety.
+
+**Aviation Safety Oversight**: The U.S. Federal Aviation Administration (FAA) has found that Panama’s Civil Aviation Authority meets international standards for aviation safety oversight.  FAA’s [website](https://www.faa.gov/about/initiatives/iasa) includes more information on its assessment program.
+
+**Maritime Travel:** Mariners planning travel to Panama should also check for U.S. maritime [advisories](https://www.maritime.dot.gov/msci-advisories) and [alerts](https://www.maritime.dot.gov/msci-alerts). Information may also be posted to the [U.S. Coast Guard homeport website](https://homeport.uscg.mil/), and the [NGA broadcast warnings](https://msi.nga.mil/NavWarnings).
