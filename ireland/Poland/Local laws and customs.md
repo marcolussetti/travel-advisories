@@ -35,3 +35,7 @@ Poland does not recognise marriage or civil partnership between two persons of t
 ### **Hen/stag parties**
 
 Stag and hen parties can often have a reputation for being disruptive for local communities. Please be sensitive to this and respectful of residents during your stay in Poland.
+
+### **Photography**
+
+Taking photographs of facilities considered of strategic importance to the security or defence, and critical infrastructure, of Poland may result in a penalty. These sites could include, but are not limited to: military installations, warehouses of strategic reserves, bridges, viaducts, tunnels, certain seaports, communication infrastructure facilities, and facilities of the National Bank of Poland and Bank Gospodarstwa Krajowego. Please obey any signage which prohibits photos at such sites. If in doubt, seek permission from local authorities before taking photographs.

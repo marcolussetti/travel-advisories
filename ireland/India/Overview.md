@@ -6,13 +6,9 @@ High Degree of Caution
 
 ### **Travel Alert**
 
-On 6 and 7 May, the Indian Ministry of Defence stated it had struck nine sites in Pakistan and Pakistan-administered Kashmir. There are confirmed reports of fatalities and casualties.
+Following recent hostilities, a ceasefire between India and Pakistan was announced on 10 May. We still advise that Irish citizens exercise caution in public places, stay alert, monitor local news reports and follow the advice of local authorities.
 
-As of 8 May, artillery fire has been reported along the Line of Control, as well as drone activity in the border states of Gujarat, Punjab, Rajasthan, Jammu and Kashmir.
-
-These attacks could result in the disruption of essential services. Irish citizens are advised to exercise caution in public places, stay alert, monitor local news reports and to follow the advice of local authorities.
-
-Many airports across northern and western India have temporarily suspended operations. Flight delays and disruptions are expected. Further airport closures or travel restrictions may be announced or changed at short notice. Travellers should contact their airline for up-to-date information.
+Airports in northern and western India have started to reopen and resume flight operations. Some delays may still be expected. Travellers should contact their airline for up to date information.
 
 The Department of Foreign Affairs continues to advise against all travel to Jammu and Kashmir, the India-Pakistan border, or Manipur. Please see more detailed regional travel advice below.
 
