@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   7 May 2025
+:   14 May 2025
 
 Updated:
-:   6 May 2025
+:   13 May 2025
 
 Latest update:
-:   Addition of information on Monsoon transport disruption (‘Safety and security’ page), and increased military checkpoints in Bokeo Province (‘Regional risks’ page).
+:   Updated information about the Lao legal system and updated information on vapes, heated tobacco and shisha ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/64391b7a773a8a0013ab2c63/FCDO__TA__088_-_Laos_Travel_Advice_Ed1__WEB_.jpg)
 

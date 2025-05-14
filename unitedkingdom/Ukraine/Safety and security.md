@@ -2,10 +2,6 @@
 
 You should also read [FCDO’s overall travel advice](/foreign-travel-advice/ukraine/warnings-and-insurance) and [regional risks advice](/foreign-travel-advice/ukraine/regional-risks).
 
-## Anniversary of the end of the Second World War
-
-You should be extra vigilant whilst travelling in urban centres in cities including Lviv, Odesa and Kyiv in the run up to the anniversary of the end of the Second World War.
-
 ## Terrorism
 
 There is a high threat of terrorist attack globally affecting UK interests and British nationals, including from groups and individuals who view the UK and British nationals as targets. Stay aware of your surroundings at all times.
@@ -20,9 +16,15 @@ Terrorist attacks in Ukraine cannot be ruled out.
 
 A state of emergency, put in place by the Government of Ukraine in February 2022, remains in effect, and martial law is in force throughout Ukraine.
 
-### Kakhovka Dam
+## Unexploded weapons
 
-Flooding in the Kherson region following the destruction of the Kakhovka Dam in June 2023 caused widespread damage to infrastructure. There are serious risks to life and health from contaminated water, unexploded munitions and debris.
+There is a hazard from unexploded weapons throughout Ukraine, but particularly in the South and East of the country along the current conflict frontlines, and in areas where ground fighting occurred (particularly since 2022). Drone and missile strikes occur frequently across Ukraine and can deposit unexploded weapons in public areas. This includes cluster munitions, which scatter round the landing site and can cause delayed explosions. Flooding in the Kherson Oblast, following the destruction of the Kakhovka Dam in June 2023, spread unexploded weapons across the region.
+
+If you come across an unexploded weapon, such as a landmine, do not approach it or touch it. Make a note of where you saw it and notify the authorities on 101. Beware of more unexploded weapons nearby.
+
+## Zaporizhzhia Nuclear Power Plant
+
+Explosions continue to be reported near the area of the Zaporizhzhia Nuclear Power Plant indicating ongoing military activity. There have been no reports of any radiation release.
 
 ## Crime
 
@@ -45,6 +47,8 @@ Do not leave drinks or food unattended as they could be spiked. Beware of accept
 Cloning of credit and debit cards is common. Be aware of who is around you when using ATMs and do not let your card out of your sight during transactions.
 
 ### Cyber attacks
+
+Ukraine is a target for large cyber-attacks which disrupt basic services and risk data security, including personal data.  In March 2025, a large-scale attack targeted Ukraine’s national railway operator Ukrzaliznytsia, impacting ticket purchasing.
 
 In December 2023, there was a high-impact cyber attack on Ukrainian networks. Ukraine’s largest mobile network operator, Kyivstar, suffered a cyber attack which left users without a mobile signal or the ability to use the internet. It also disrupted air raid apps, some banks, ATMs, and point-of-sale terminals. The Ukrainian bank Monobank was also targeted, disrupting access to the bank’s website.
 
@@ -141,11 +145,11 @@ At the border crossing, the SBGSU will check:
 * car registration documents
 * the insurance documents for the vehicle (green card)
 
-For more information see the [SBGSU website](https://dpsu.gov.ua/en/border-crossing-by-foreigners-and-stateless-persons/) or call the SBGSU hotline on 1598 from a Ukrainian mobile.
+For more information see the [SBGSU website](https://dpsu.gov.ua/en/informaciya-dlya-inozemciv-ta-osib-bez-gromadyanstva) or call the SBGSU hotline on 1598 from a Ukrainian mobile.
 
 If you leave the country in a vehicle registered in the UK, which you temporarily imported to Ukraine, you will have to provide your import customs declaration when leaving.
 
-You may need additional documents. For further information on leaving Ukraine by car, contact the [State Customs Service of Ukraine](https://customs.gov.ua/en/contacts).
+You may need additional documents. For further information on leaving Ukraine by car, contact the [State Customs Service of Ukraine](https://customs.gov.ua/en/contacts) (site in Ukrainian).
 
 ### Rail travel
 

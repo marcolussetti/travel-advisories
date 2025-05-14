@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   3 April 2025
+:   14 May 2025
 
 Updated:
-:   2 April 2025
+:   13 May 2025
 
 Latest update:
-:   New information regarding risk of missile and drone attacks from Yemen ('Warnings and insurance' page).
+:   Updated information that to enter The Occupied Palestinian Territories your passport must have an expiry date of at least 90 days after the date you arrive (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/675c2b29cfbf84c3b2bcf9bc/FCDO__TA__022_-_Israel_Travel_Advice_Ed19__WEB___1_.jpg)
 

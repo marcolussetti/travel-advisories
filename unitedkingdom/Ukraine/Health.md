@@ -30,7 +30,7 @@ Read [best practice when travelling with medicines on TravelHealthPro](https://t
 
 Due to the ongoing invasion, some supply chains are interrupted, and some medical products are hard to come by. Information on which pharmacies are operational is provided by local authorities and pharmacy networks.
 
-The Ukrainian Ministry of Health operates a hotline at +380 (0)800 60 20 19 to coordinate access to insulin and other critical medicines for those who need it. The service [Tabletki.ua](http://Tabletki.ua) is continuing to operate and tries to maintain hourly updates about availability of medicines nationwide.
+The Ukrainian Ministry of Health operates a hotline at +380 (0)800 60 20 19 to coordinate access to insulin and other critical medicines for those who need it. The service [Tabletki.ua](http://Tabletki.ua) (site in Ukrainian) is continuing to operate and tries to maintain hourly updates about availability of medicines nationwide.
 
 Pharmacies may close without notice. Maintain a stock of essential medication. Pharmacies in smaller towns may not have the same variety of medications available in the bigger cities. Pharmacies are usually easily identifiable by the presence of a green cross or the word ‘apteka’ (аптека). Some stronger medications require a prescription from a doctor, written in Ukrainian.
 

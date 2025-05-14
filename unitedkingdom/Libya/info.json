@@ -1,11 +1,11 @@
 {
     "name": "Libya",
-    "update_reason": "Heightened military presence in Tripoli (\u2018Warnings and insurance\u2019 page)",
+    "update_reason": "FCDO now advises against all travel to the city of Tripoli (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Libya/Warnings and insurance.md",
-            "update_date": "2025-05-12T20:06:37+01:00"
+            "update_date": "2025-05-13T18:16:31+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Libya/Getting help.md"
         }
     ],
-    "update_date": "2025-05-12T20:06:37+01:00"
+    "update_date": "2025-05-13T18:16:31+01:00"
 }

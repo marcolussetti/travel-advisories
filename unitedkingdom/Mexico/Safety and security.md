@@ -143,6 +143,14 @@ Be very cautious after dark in downtown areas of Cancun, Tulum and Playa del Car
 
 For information on procedures, local laws or social services, you can [contact Mexico City’s public telephone service LOCATEL](https://mexicocity.cdmx.gob.mx/e/about/about-locatel/) on 5658 1111 (English-speaking staff available).
 
+### Spiritual cleansing ceremonies
+
+Traditional hallucinogenic tea, ceremonies and practices such as Yagé, Ayahuasca, and Bufo are organised and marketed to tourists as spiritual cleansing. These various preparations typically contain dimethyltryptamine (DMT) or 5-metoxi-N, N-dimetiltriptamina (5-MeO-DMT), strong hallucinogens that are illegal in the UK and many other countries.
+
+There are many risks involved. Consumption is not regulated. Intoxicated travellers have been assaulted and robbed. There have also been reports of sexual assaults during these ceremonies.
+
+Health risks are not well understood, and some people have suffered serious illnesses and, in some cases, mental breakdowns or death after taking these drugs. The jungle retreats are often a long way from medical facilities making the risks even greater. Some have basic medical services, but others do not. Some do not have an established plan for how you can access medical facilities in case of an emergency.
+
 ### Personal ID
 
 The Mexican authorities can ask to see your passport and entry stamp to prove your entrance and stay. They do not accept copies or photos. To prove your visa status, you can get a digital registry of your entry documents from the [Portal de Servicios INM](https://www.inm.gob.mx/spublic/portal/inmex.html) (in Spanish). If you cannot show the correct documents, immigration officers may question and detain you while they check your immigration status. Depending on the outcome, they can deport you.

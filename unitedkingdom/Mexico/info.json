@@ -1,11 +1,11 @@
 {
     "name": "Mexico",
-    "update_reason": "Information added about attacks having taken place on public transport in Los Cabos, La Paz and Muleg\u00e9 (\u2018Warnings and insurance\u2019 page)",
+    "update_reason": "Information added about spiritual ceremonies that might cause health, welfare and mental issues to anyone undergoing these rituals ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Mexico/Warnings and insurance.md",
-            "update_date": "2025-04-25T18:04:11+01:00"
+            "update_date": "2025-05-13T11:18:18+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Mexico/Getting help.md"
         }
     ],
-    "update_date": "2025-04-25T18:04:11+01:00"
+    "update_date": "2025-05-13T11:18:18+01:00"
 }

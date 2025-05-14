@@ -16,7 +16,7 @@ If you’re travelling without a visa, your passport should be valid for the pro
 
 At the border you will need to:
 
-* complete an [immigration card](https://dpsu.gov.ua/en/Procedure-for-filling-immigration-card)
+* complete an [immigration card](https://dpsu.gov.ua/en/poryadok-zapovnennya-immigracijnoyi-kartki)
 * scan your fingerprints as part of biometric data collection at border crossing points if requested by the immigration officer
 * have evidence of sufficient funds. You can show:
   + cash
@@ -29,7 +29,7 @@ At the border you will need to:
 You can find more information on:
 
 * [Ukrainian Embassy in the UK](https://uk.mfa.gov.ua/en/consular-issues/4409-visa-requirements-for-foreigners-entering-ukraine)
-* [State Border Guard Service of Ukraine](http://dpsu.gov.ua/en/border-crossing-by-foreigners-and-stateless-persons)
+* [State Border Guard Service of Ukraine](https://dpsu.gov.ua/en/informaciya-dlya-inozemciv-ta-osib-bez-gromadyanstva)
 
 ## Visa requirements
 
@@ -47,15 +47,11 @@ If you need to extend your stay in Ukraine, check with the State Migration Servi
 
 ## Non-government controlled areas
 
-If you intend to go to any of the areas not controlled by the Ukrainian authorities, you must apply to the [State Migration Service](https://www.dmsu.gov.ua/).
+If you intend to go to any of the areas not controlled by the Ukrainian authorities, you must apply to the [State Migration Service](https://dmsu.gov.ua/en-home.html).
 
 ## Vaccine requirements
 
 For details about medical entry requirements and recommended vaccinations, see [TravelHealthPro’s Ukraine guide](https://travelhealthpro.org.uk/country/232/ukraine#Vaccine_Recommendations).
-
-## Accommodation
-
-The ongoing invasion has severely affected the availability of accommodation. You should book and confirm accommodation in advance. Find further information at [Visit Ukraine](https://visitukraine.today/).
 
 ## Customs rules
 

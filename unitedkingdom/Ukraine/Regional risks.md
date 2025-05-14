@@ -4,10 +4,6 @@ This section has safety advice for regions of Ukraine. It only covers regions wh
 
 You should also read [FCDO’s overall travel advice](/foreign-travel-advice/ukraine/warnings-and-insurance) and [safety and security advice](/foreign-travel-advice/ukraine/safety-and-security).
 
-## Anniversary of the end of the Second World War
-
-You should be extra vigilant whilst travelling in urban centres in cities including Lviv, Odesa and Kyiv in the run up to the anniversary of the end of the Second World War.
-
 ## Crimea and eastern Ukraine
 
 FCDO advises against all travel to all regions in eastern Ukraine, including any Ukrainian territories which are temporarily under Russian control. FCDO is not able to provide in-person assistance to anyone in these regions.

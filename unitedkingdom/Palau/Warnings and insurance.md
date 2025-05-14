@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   14 May 2025
 
 Updated:
-:   6 March 2024
+:   13 May 2025
 
 Latest update:
-:   This travel advice has been rewritten to make it easier to read and understand.
+:   This travel advice was reviewed for accuracy and there are no significant updates.
 
 ## Before you travel
 

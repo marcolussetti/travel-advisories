@@ -1,34 +1,34 @@
 # Warnings and insurance
 
 Still current at:
-:   13 May 2025
+:   14 May 2025
 
 Updated:
-:   12 May 2025
+:   13 May 2025
 
 Latest update:
-:   Heightened military presence in Tripoli (‘Warnings and insurance’ page)
+:   FCDO now advises against all travel to the city of Tripoli (‘Warnings and insurance’ page).
 
-![](https://assets.publishing.service.gov.uk/media/67f7a28bc6046b50261bc7c0/FCDO__TA__024_-_Libya_Travel_Advice_Ed2__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/68237cb42b7ca0cc347e081e/FCDO__TA__024_-_Libya_Travel_Advice_Ed3__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/67f7a28b04146682e61bc7c8/FCDO__TA__024_-_Libya_Travel_Advice_Ed2.pdf)
+[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/68237cb42b7ca0cc347e081f/FCDO__TA__024_-_Libya_Travel_Advice_Ed3.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
-## Heightened military presence in Tripoli
-
-There is a heightened military presence in Tripoli, with the risk that violence may break out.
-
-British nationals already in, or planning to travel to Tripoli, should monitor the local situation carefully, remain vigilant, and have robust security arrangements and contingency plans in place.
-
 ## Areas where FCDO advises against travel
 
-FCDO advises against all travel to Libya except for the cities of Tripoli, Benghazi and Misrata.
+FCDO advises against all travel to Libya except for the cities of Benghazi and Misrata.
 
-FCDO advises against all but essential travel to the cities of Tripoli, Benghazi and Misrata.
+FCDO advises against all but essential travel to the cities of Benghazi and Misrata.
 
 Find out more about [why the FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/libya/regional-risks).
+
+## Heightened military presence in Tripoli
+
+On 12 May, armed clashes broke out across Tripoli. There remains a heightened military presence across the city and the potential for further violence cannot be ruled out. Flights have been affected, check with your travel provider for any possible changes.
+
+British nationals already in, or planning to travel to Tripoli, should monitor the local situation carefully, remain vigilant, and have robust security arrangements and contingency plans in place.
 
 ## UK government support
 

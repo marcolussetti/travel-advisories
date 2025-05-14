@@ -20,6 +20,8 @@ You must have a visa to visit Burundi.
 
 You should [apply for a visa online](https://migration.gov.bi/Apply/step1/2) ahead of travelling. Visas are issued on arrival in Burundi. A one-month visa costs $90 which can be paid online or in cash on arrival and is valid for single and multiple entries.
 
+All travellers without a valid settlement visa or permanent residence must [complete the Airport entry visa or Transit visa application](https://migration.gov.bi/Apply/step1/8) before arriving in Burundi. Once the application is submitted, you will receive a validation certificate. This certificate will be needed to get your visa upon arrival.
+
 ## Vaccine recommendations
 
 To enter Burundi, you must have a certificate to prove you’ve had a yellow fever vaccination, due to a risk of yellow fever transmission.

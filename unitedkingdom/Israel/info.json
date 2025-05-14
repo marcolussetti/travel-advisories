@@ -1,11 +1,11 @@
 {
     "name": "Israel",
-    "update_reason": "New information regarding risk of missile and drone attacks from Yemen ('Warnings and insurance' page).",
+    "update_reason": "Updated information that to enter Israel  your passport must have an expiry date of at least 90 days after the date you arrive (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Israel/Warnings and insurance.md",
-            "update_date": "2025-04-02T15:34:53+01:00"
+            "update_date": "2025-05-13T12:09:58+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Israel/Getting help.md"
         }
     ],
-    "update_date": "2025-04-02T15:34:53+01:00"
+    "update_date": "2025-05-13T12:09:58+01:00"
 }

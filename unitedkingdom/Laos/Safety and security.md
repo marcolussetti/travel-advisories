@@ -76,6 +76,12 @@ TravelHealthPro lists the [symptoms of methanol poisoning](https://www.travelhe
 
 ## Laws and cultural differences
 
+### Legal system
+
+The Lao legal system operates differently from the UK, and the standard of prisons is very poor.
+
+If you are under criminal investigation, you can be detained for long periods without evidence or official charges. There can be long delays before you can contact lawyers, British Embassy officials or family. Legal representation is far below UK standards.
+
 ### Illegal drugs and the death penalty
 
 The possession and use of all drugs including marijuana are illegal in Laos and penalties are harsh. These include life sentences and the death penalty, with a number of Lao nationals having been sentenced to death in 2024.
@@ -98,7 +104,7 @@ Penalties for failing to register such a relationship can be up to 5,000 US doll
 
 ### Smoking and e-cigarette bans
 
-While cigarettes are common, the use of e-cigarettes is illegal. You could be fined or imprisoned for importing, selling, purchasing or using them.
+While cigarettes are common, the use of e-cigarettes (vapes), heated tobacco and shisha (water-pipe tobacco) are illegal. You could be fined or imprisoned for possessing, using them, importing, selling, purchasing or exporting them.
 
 ### Dress codes
 

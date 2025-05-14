@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 April 2025
+:   14 May 2025
 
 Updated:
-:   25 April 2025
+:   13 May 2025
 
 Latest update:
-:   Information added about attacks having taken place on public transport in Los Cabos, La Paz and Mulegé (‘Warnings and insurance’ page)
+:   Information added about spiritual ceremonies that might cause health, welfare and mental issues to anyone undergoing these rituals ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/65fabfdfaa9b76001dfbdb8a/FCDO_TA_065_-_Mexico_Travel_Advice_Ed5_WEB.jpg)
 

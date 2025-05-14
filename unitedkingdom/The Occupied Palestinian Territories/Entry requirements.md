@@ -10,7 +10,7 @@ Check Israeli immigration policies before you travel. Allow extra time for incre
 
 ## Passport validity requirements
 
-To enter Israel or the OPTs, your passport must have an ‘expiry date’ at least 6 months after the date you arrive.
+To enter Israel or the OPTs, your passport must have an ‘expiry date’ at least 90 days after the date you arrive.
 
 Check with your travel provider that your passport and other travel documents meet requirements. [Renew your passport](https://www.gov.uk/renew-adult-passport/renew) if you need to.
 

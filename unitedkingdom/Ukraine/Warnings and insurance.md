@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   3 May 2025
+:   14 May 2025
 
 Updated:
-:   2 May 2025
+:   13 May 2025
 
 Latest update:
-:   If you are in Ukraine, you should be extra vigilant whilst travelling in urban centres in cities including Lviv, Odesa and Kyiv in the run up to the anniversary of the end of the Second World War. ('Warnings and insurance,' 'Safety and security' and 'Regional risks')
+:   Addition of information about unexploded weapons and cyber attacks and updated information on the Russian invasion of Ukraine ('Warnings and insurance' and 'Safety and security' pages).
 
 ![](https://assets.publishing.service.gov.uk/media/663398524d8bb7378fb6c167/FCDO__TA__044_-_Ukraine_Travel_Advice_Ed12__WEB___1_.jpg)
 
@@ -58,7 +58,7 @@ FCDO advises against all but essential travel to the following regions in weste
 
 ## Russian invasion of Ukraine
 
-The Russian invasion of Ukraine is ongoing, with frequent missile and drone attacks across the country, which injure and kill civilians and cause significant damage to civilian infrastructure, including residential areas, energy and industrial facilities. Drone attacks have increased significantly in recent months. Russia launched approximately 2,000 drones into Ukraine in October, more than double the number launched in August. Consequently, the number and length of air raid alerts has increased significantly. British Nationals are advised to exercise heightened awareness and be prepared to immediately shelter in the event an air alert is announced.
+The Russian invasion of Ukraine is ongoing, with frequent missile and drone attacks across the country, which injure and kill civilians and cause significant damage to civilian infrastructure, including residential areas, energy and industrial facilities. Drone attacks have increased significantly in recent months. Russia launched over 4,000 drones into Ukraine in March 2025, up from fewer than 1,000 in August 2024. British nationals are advised to exercise heightened awareness and be prepared to immediately shelter in the event an air alert is announced. Be extra vigilant whilst travelling in urban centres.
 
 There is an ongoing risk of harm to British nationals from Russian attacks across all of Ukraine, including from missiles and drones that hit unintended targets or from falling debris. While these are more frequent where FCDO advises against all travel, they can and do also happen in the western regions, where FCDO advice is against all but essential travel.
 
@@ -69,14 +69,6 @@ Russian attacks on the energy network may result in unscheduled blackouts or eme
 Ukraine’s airspace remains closed.
 
 The situation in Ukraine can change quickly. Local rules and measures may change at short notice or with no notification. FCDO cannot confirm that all information here reflects the latest situation in Ukraine.
-
-### Zaporizhzhia Nuclear Power Plant
-
-Explosions continue to be reported near the area of the Zaporizhzhia Nuclear Power Plant indicating ongoing military activity. There have been no reports of any radiation release.
-
-## Anniversary of the end of the Second World War
-
-You should be extra vigilant whilst travelling in urban centres in cities including Lviv, Odesa and Kyiv in the run up to the anniversary of the end of the Second World War.
 
 ## Support from the UK government
 
@@ -133,12 +125,6 @@ If you are in Ukraine against FCDO advice, or need support to leave Ukraine, tak
 FCDO cannot endorse or recommend any private security companies. Research whether a service provider will be suitable for your requirements and meets code of conduct and safety standards. The [Security in Complex Environments Group (SCEG)](https://www.sceguk.org.uk/) has several companies listed on their website. These companies have accredited certification for international standards.
 
 FCDO has not completed due diligence checks on these companies. FCDO does not accept any liability arising to any person for any loss or damage suffered through using these service providers or this information. FCDO is not able to provide financial assistance for employing private security or medical evacuation companies.
-
-## Visas for the UK
-
-If you are a family member of a British national normally living in Ukraine and intend to apply for a visa under the Ukrainian Family Scheme, read the [guidance on visas for family members of British nationals normally living in Ukraine](https://www.gov.uk/guidance/support-for-family-members-of-british-nationals-in-ukraine-and-ukrainian-nationals-in-ukraine-and-the-uk). Call +44 (0)808 164 8810 (select option 1) for assistance before applying.
-
-Under this scheme, which is free, those joining family in the UK can stay in the UK for up to 3 years. They will be able to study, work and access public funds.
 
 ## British nationals fighting in Ukraine
 
