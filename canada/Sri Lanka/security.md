@@ -17,10 +17,6 @@ If you are in Sri Lanka:
 
 ### Demonstrations
 
-### Elections
-
-Local Government elections are scheduled for May 6, 2025. Demonstrations could occur before, during and after the elections.
-
 Demonstrations occur frequently in Colombo, and occasionally elsewhere in the country. Security forces may use tear gas and water cannons during violent protests. Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation.
 
 * Avoid areas where demonstrations and large gatherings are taking place

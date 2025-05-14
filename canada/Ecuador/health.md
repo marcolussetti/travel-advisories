@@ -6,7 +6,7 @@
 
 * [Measles: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/504) - 12 May, 2025
 * [COVID-19 and International Travel](https://travel.gc.ca/travelling/health-safety/travel-health-notices/513) - 12 May, 2025
-* [Dengue: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/517) - 8 April, 2025
+* [Dengue: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/517) - 13 May, 2025
 
 This section has information and advice about health risks you might face when travelling. Following this advice can help reduce your risk of getting sick. Not all risks are listed here.
 
@@ -38,7 +38,8 @@ Travellers get vaccinated either because it is required to enter a country or be
 
 **Country Entry Requirement\***
 
-* Proof of vaccination is required if you are arriving from Brazil, Democratic Republic of the Congo, or Uganda, or have transited through an airport in one of these countries.
+* Proof of yellow fever vaccination is required if you are arriving from Brazil, Bolivia, Colombia, Democratic Republic of the Congo, Peru, or Uganda, and have stayed in one of these countries for more than 10 days before entering Ecuador.
+* Note, this requirement does not apply to anyone over 59 years of age, under 1 year of age, or anyone with a medical exemption.
 
 **Recommendation**
 
@@ -104,17 +105,14 @@ The flu virus spreads from person to person when they cough or sneeze or by touc
 Malaria 
 
 [Malaria](https://www.canada.ca/en/public-health/services/diseases/malaria.html) is a serious and sometimes fatal disease that is caused by parasites spread through the bites of mosquitoes.  
- 
+   
+**There is a risk of malaria in certain areas and/or during a certain time of year in this destination.**
 
 [Antimalarial medication may be recommended](https://www.canada.ca/en/public-health/services/catmat/appendix-1-malaria-risk-recommended-chemoprophylaxis-geographic-area.html) depending on your itinerary and the time of year you are travelling. Consult a health care professional or visit a travel health clinic before travelling to discuss your options. It is recommended to do this 6 weeks before travel, however, it is still a good idea any time before leaving.   
    
 [Protect yourself from mosquito bites](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html) at all times:   
 • Cover your skin and use an [approved](https://www.canada.ca/en/health-canada/services/about-pesticides/insect-repellents.html) insect repellent on uncovered skin.   
-• Exclude mosquitoes from your living area with screening and/or closed, well-sealed doors and windows.  
-• Use insecticide-treated bed nets if mosquitoes cannot be excluded from your living area.   
-• Wear permethrin-treated clothing.   
-   
-If you develop [symptoms](https://www.canada.ca/en/public-health/services/diseases/malaria/symptoms-malaria.html) similar to malaria when you are travelling or up to a year after you return home, see a health care professional immediately. Tell them where you have been travelling or living.
+• Exclude mosquitoes from your living area with screening and/or closed, well-sealed doors and windows.
 
 Rabies 
 

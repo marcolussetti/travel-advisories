@@ -1,7 +1,7 @@
 {
     "name": "Fiji",
-    "update_reason": "Health \u2013 editorial update",
-    "update_date": "2025-05-12T14:32:00",
+    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
+    "update_date": "2025-05-13T09:57:00",
     "sections": {
         "risk": "canada/Fiji/risk.md",
         "security": "canada/Fiji/security.md",

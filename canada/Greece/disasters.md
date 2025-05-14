@@ -6,6 +6,16 @@
 
 Greece is located in an active seismic zone. Major earthquakes could occur and can cause significant damage.
 
+### Tsunami warning
+
+A tsunami warning was issued by Greek authorities for Kasos Island after an offshore earthquake of 6.1 magnitude.
+
+If you are in the affected region, move away from the coast immediately.
+
+Follow the instructions of local authorities and monitor local news for information on the tsunami's progress.
+
+[Civil Protection Announcements](https://civilprotection.gov.gr/deltia-tupou) – Greek Ministry of Climate Crisis and Civil Protection (Greek only)
+
 #### Volcanoes
 
 Santorini and Nisyros islands have active volcanoes.
