@@ -16,7 +16,7 @@ The following may also be useful sources of information for visitors to Japan:
 
 ### **Restrictions around the Fukushima nuclear power plant**
 
-The 2011 earthquake and tsunami severely damaged the Fukushima Daiichi nuclear power plant in Fukushima Prefecture. The Japanese authorities implemented exclusion zones around the plant, and illegally entering these zones is a punishable offence. Further information on these areas can be seen on this Japanese government [**website**](http://www.meti.go.jp/english/earthquake/nuclear/roadmap/). The Japanese authorities carry out comprehensive monitoring of possible contamination of water and food and are imposing strict controls where necessary. The situation has stabilised, although it will take decades to decommission and decontaminate the plant.
+The 2011 earthquake and tsunami severely damaged the Fukushima Daiichi nuclear power plant in Fukushima Prefecture. The Japanese authorities implemented exclusion zones around the plant, and illegally entering these zones is a punishable offence. Further information on these areas can be seen on this Japanese government [**website**](http://www.pref.fukushima.lg.jp/site/portal-english/en-1-3-3.html). The Japanese authorities carry out comprehensive monitoring of possible contamination of water and food and are imposing strict controls where necessary. The situation has stabilised, although it will take decades to decommission and decontaminate the plant.
 
 Elsewhere in the north-east of Japan, the situation has largely returned to normal and there is no reason to avoid or postpone travel to this region.
 
