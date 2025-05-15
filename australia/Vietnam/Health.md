@@ -177,7 +177,7 @@ If you're concerned about the levels of air pollution:
 
 Drug use has been reported to cause psychotic episodes and hospitalisation.
 
-If you use drugs in Vietnam, you face possible health and legal risks. See [Local laws](#local-laws).
+If you use drugs in Vietnam, you face possible health and legal risks (see '[Local laws')](#local-laws).
 
 #### Medical care
 

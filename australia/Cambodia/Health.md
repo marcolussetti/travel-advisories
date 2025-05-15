@@ -116,11 +116,14 @@ No.5, Monivong Boulevard
 
 #### Bird flu (avian influenza)
 
-Human cases of [avian influenza](http://www.health.gov.au/avian_influenza) are reported in Cambodia.
+Deaths due to [avian influenza](http://www.health.gov.au/avian_influenza) have been reported in Cambodia. Although rare, avian influenza can spread to humans after close contact with infected birds, animals or contaminated environments.
+
+To protect yourself, stay away from wild birds and animals, and places like poultry farms and markets where live animals are sold or killed for food. Always wash your hands thoroughly after contact with animals, their products and their environments. Ensure poultry and poultry products (including eggs) are well-cooked before eating. For more details on how to stay safe from bird flu, see [Bird flu | Australian Centre for Disease Control](https://www.cdc.gov.au/topics/bird-flu).
 
 **More information:**
 
-* [Infectious diseases](/before-you-go/health/diseases "Infectious diseases")
+* [Influenza (Healthdirect Australia)](https://www.healthdirect.gov.au/flu)
+* [Infectious diseases](https://www.smartraveller.gov.au/before-you-go/health/diseases)
 
 #### Hand, foot and mouth disease
 
@@ -137,7 +140,6 @@ Waterborne, foodborne, parasitic and other infectious diseases are common. They 
 * [hepatitis](https://www.who.int/hepatitis/en/)
 * [tuberculosis](https://www.who.int/news-room/fact-sheets/detail/tuberculosis)
 * [typhoid](https://www.healthdirect.gov.au/typhoid-and-paratyphoid)
-* [COVID-19](https://www.health.gov.au/health-alerts/covid-19)
 
 Serious outbreaks sometimes occur.
 

@@ -118,9 +118,11 @@ Kidnapping can happen anywhere, anytime, including in destinations that are typi
 
 The Australian Government's longstanding policy is that it doesn't make payments or concessions to kidnappers.
 
-**More information:**
+**More information, including advice on how to reduce your risk of kidnapping:**
 
 * [Kidnapping](/before-you-go/safety/kidnapping "Reducing the risk of kidnapping")
+* [Scams that affect travellers](https://www.smartraveller.gov.au/before-you-go/safety/scams)
+* [Reducing the risk of piracy](https://www.smartraveller.gov.au/before-you-go/safety/piracy)
 
 #### Drink spiking & methanol poisoning
 

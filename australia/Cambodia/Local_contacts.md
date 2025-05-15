@@ -49,7 +49,6 @@ Sangkat Tonle Bassac
 Khan Chamkamon  
 Phnom Penh, Cambodia  
 Phone: (+855 0) 23 266 500  
-Fax: (+855 0) 23 266 588   
 Email: [australian.embassy.cambodia@dfat.gov.au](mailto:australian.embassy.cambodia@dfat.gov.au)  
 Website: [cambodia.embassy.gov.au](http://www.cambodia.embassy.gov.au/penh/home.html)  
 Facebook: [@AustralianEmbassyPhnomPenh](https://www.facebook.com/AustralianEmbassyPhnomPenh/ )  

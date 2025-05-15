@@ -2,9 +2,9 @@
 
 Latest update
 
-Cambodian New Year (or Khmer New Year) celebrations will take place between 14 to16 April. Significant celebrations and cultural events often attract large crowds and may lead to increased petty crime and more serious threats, including those associated with large gatherings in tight spaces. There's often higher alcohol consumption and traffic congestion, with a risk of accidents and road fatalities. Exercise reasonable care and precautions.   
+We've reviewed our advice for Cambodia and continue to advise exercise normal safety precautions. There have been reports of fatal cases of avian influenza (H5N1) or bird flu in Cambodia. Avoid close contact with birds and animals that might be infected, especially dead or sick birds, and avoid places like poultry or dairy farms and markets that sell live animals (see 'Health').  
   
-You'll need a valid visa to travel to Cambodia. If you remain in Cambodia beyond the date of your authorised stay, officials may stop you from leaving Cambodia. In cases of excessive overstays, you may be arrested and detained for violating immigration laws (see 'Travel'). Gun crime and explosions have occurred, including at popular tourist destinations (see 'Safety'). Laws in Cambodia, including those related to incitement and defamation, can be broadly defined and applied (see 'Local Laws').
+You'll need a valid visa to travel to Cambodia. If you stay longer than your visa allows, officials may stop you from leaving Cambodia. In cases of excessive overstays, you may be arrested and detained for violating immigration laws (see 'Travel'). Laws in Cambodia, including those related to incitement and defamation, can be broadly defined and applied (see 'Local Laws').
 
 Advice Level summary
 
@@ -28,7 +28,7 @@ Exercise normal safety precautions in Cambodia.
 * Sexual assault occurs in tourist areas. Travellers have been assaulted after having their drinks spiked. Be alert to the potential risks around drink spiking and methanol poisoning through consuming alcoholic drinks. Stay with people you trust, and don't leave your drinks unattended in nightclubs and bars. See our advice on [Partying safely while overseas](/before-you-go/safety/partying "Partying safely").
 * Many people in Cambodia own guns, and gun crime and shootouts are common. Explosions have also occurred. These incidents usually arise from commercial, personal or other disputes. They can and have occurred at a wide range of locations, including at popular tourist destinations.
 * Scams, credit card fraud and ATM fraud are common. Check for card-skimming devices before using ATMs.
-* Protests may unexpectly turn violent. Avoid large public gatherings. Officials may arrest and deport foreigners involved in protests. Use ATMs in well-lit secure areas.
+* Protests may unexpectedly turn violent. Avoid large public gatherings. Officials may arrest and deport foreigners involved in protests. Use ATMs in well-lit secure areas.
 * Be wary of invitations from strangers. Never carry parcels or luggage for others.
 * Be careful when visiting regions near the border with Thailand. Landmines and unexploded remnants of war remain a risk. Stay on marked roads if you're travelling in the north and northwest (see 'Travel').
 * Fatal road accidents, particularly on provincial highways, are common. Be alert at all times on the roads and avoid travelling at night (see 'Travel').
@@ -38,6 +38,7 @@ Full travel advice: [Safety](#safety)
 
 ### Health
 
+* There have been reports of fatal cases of avian influenza (H5N1) or bird flu in Cambodia. Avoid close contact with birds and animals that might be infected, especially dead or sick birds, and avoid places like poultry or dairy farms and markets that sell live animals.
 * Take care buying medication in Cambodia. Local pharmacies may sell fake medication. Carry enough medication from Australia for your trip.
 * Don't drink homemade or unlabelled alcohol. It may contain harmful substances, particularly methanol. Be alert to the potential risks around drink spiking and methanol poisoning through consuming alcoholic drinks. See our advice on [Partying safely while overseas](/before-you-go/safety/partying "Partying safely").
 * Insect-borne diseases present in Cambodia include Dengue, Chikungunya, Japanese Encephalitis, and Malaria. Use insect repellent, wear appropriate clothing, and ensure your accommodation is insect-proof. For longer stays, consider taking anti-malarial medication and getting pre-travel vaccinations for Japanese encephalitis, particularly when travelling to remote areas.
@@ -64,7 +65,7 @@ Full travel advice: [Local laws](#local-laws)
 * If you're entering Cambodia via air, you must complete and submit an electronic [e-Arrival Card (CeA)](https://arrival.gov.kh/) within 7 days before your arrival.
 * You need a visa to enter Cambodia. You can [apply for an e-visa online](http://www.evisa.gov.kh/) or get a tourist visa on arrival. These are valid for 30 days. For longer stays or other situations, apply for a visa through an [embassy or consulate of Cambodia](https://protocol.dfat.gov.au/Public/Missions/36). Entry and exit conditions can change at short notice. You should contact the nearest embassy or consulate of Cambodia for the latest details.
 * If you overstay your visa, Cambodian immigration officials may stop you from leaving Cambodia. For excessive overstays, you could be arrested for violating immigration laws and detained until your overstay fines are paid.
-* The Cambodian General Department of Immigration requires all foreigners to be registered in the [Foreigner Present in Cambodia System](https://fpcs.immigration.gov.kh/login) (FPCS). Registrations are completed by hotel/guesthouse staff or residence owners. Make sure they register you. Foreigners in self-owned accommodation are required to self-register.
+* The Cambodian General Department of Immigration requires all foreigners to be registered in the [Foreigner Present in Cambodia System](https://fpcs.immigration.gov.kh/auth/login) (FPCS). Registrations are completed by hotel/guesthouse staff or residence owners. Make sure they register you. Foreigners in self-owned accommodation are required to self-register.
 
 Full travel advice: [Travel](#travel)
 

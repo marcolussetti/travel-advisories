@@ -32,7 +32,7 @@ You must complete and submit the Cambodia [e-Arrival Card](https://arrival.gov.k
 
 #### Staying in Cambodia
 
-The Cambodian General Department of Immigration requires all foreigners to be registered in the [Foreigner Present in Cambodia System](https://fpcs.immigration.gov.kh/login) (FPCS). Registrations are completed by hotel/guesthouse staff or residence owners. Make sure they register you. Foreigners in self-owned accommodation are required to self-register.
+The Cambodian General Department of Immigration requires all foreigners to be registered in the [Foreigner Present in Cambodia System](https://fpcs.immigration.gov.kh/auth/login) (FPCS). Registrations are completed by hotel/guesthouse staff or residence owners. Make sure they register you. Foreigners in self-owned accommodation are required to self-register.
 
 Renew your visa at a:
 
@@ -49,7 +49,7 @@ If you plan to enter or exit via a land border crossing, first confirm it's open
 
 Be alert to the security status of border regions and land crossings between countries.
 
-Monitor local media for updates. Follow advice from local authorities. See [Safety](#safety).
+Monitor local media for updates. Follow advice from local authorities (see '[Safety')](#safety).
 
 #### Cambodia–Thailand border
 
@@ -160,7 +160,7 @@ Take extra care if travelling away from the Angkor Wat temple complex to other t
 
 #### Driving permits
 
-If you want to drive a car or ride a motorcycle larger than 125cc, you need a Cambodian driver's (or motorcycle) licence, or your Australian licence and International Driving Permit.
+If you want to drive a car or ride a motorcycle larger than 125cc, you need a Cambodian driver's (or motorcycle) licence, or your Australian licence (digital driver's licences may not be accepted) and International Driving Permit.
 
 You can apply for a Cambodian licence equivalent to your Australian licence in person at the Ministry of Public Works and Transport's main Phnom Penh office or at their outlets located inside Aeon Mall 1 and Aeon Mall 2 in Phnom Penh and at the Heritage Walk mall in Siem Reap. If you do not have a valid foreign licence you will need to undergo testing at their main office to receive a Cambodian licence.
 

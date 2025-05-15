@@ -32,7 +32,7 @@ Measures may change at short notice.
 
 #### Border Measures by Sea
 
-Recreational vessels must send their [maritime health declaration](https://www.service-public.pf/dpam/wp-content/uploads/sites/20/2020/05/RIS-DMS-Eng.pdf) to the JRCC ([contact@jrcc.pf](mailto:contact@jrcc.pf)) 48 hours before arrival in French Polynesia.
+Recreational vessels must send their [maritime health declaration](https://www.service-public.pf/dpam/wp-content/uploads/sites/20/2020/05/RIS-DMS-Eng.pdf) to the [Health Surveillance Office BVS](mailto:veille.sanitaire@administration.gov.pf) 48 hours before arrival in French Polynesia.
 
 Maritime entry points in French Polynesia are:
 
@@ -50,7 +50,7 @@ Maritime entry points in French Polynesia are:
 * Rurutu (Moerai)
 * Raivavae (Raima)
 
-For better management of maritime stopovers in French Polynesia, recreational vessels should provide the Polynesian Department of Maritime Affairs ([escales.dpam@administration.gov.pf](mailto:escales.dpam@administration.gov.pf)) with the following information:
+For better management of maritime stopovers in French Polynesia, recreational vessels should provide the [Polynesian Department of Maritime Affairs](mailto:escales.dpam@administration.gov.pf) with the following information:
 
 * final arrival/departure island
 * final arrival/departure date
@@ -58,19 +58,14 @@ For better management of maritime stopovers in French Polynesia, recreational ve
 * identity of the skipper
 * number of people on board
 
-You should contact the [Maritime Affairs Directorate of French Polynesia (DPAM)](https://www.service-public.pf/dpam/2020/09/04/protocole-covid-19/) and the [French State Department of Maritime Affairs in French Polynesia (SAM)](http://www.sam.polynesie-francaise.developpement-durable.gouv.fr/) for advice on processes applicable to your specific circumstances.
-
-Information on arriving in French Polynesia by sea, including timeframes and requirements, is available on the DPAM [website](https://www.service-public.pf/dpam/) in English, including the flyer '[Arrival in French Polynesia by sea](https://www.service-public.pf/dpam/2020/09/04/protocole-covid-19/)'.
-
 You should check with the cruise operator and local authorities on additional requirements before booking a ticket, boarding and after boarding.
 
 **More information:**
 
-* [French High Commission in French Polynesia](http://www.polynesie-francaise.pref.gouv.fr/Dossiers/Information-COVID-19) (French)
+* [French High Commission - Espace maritime et aérien](https://www.polynesie-francaise.pref.gouv.fr/Services-de-l-Etat/Espace-maritime-et-aerien) (French)
 * [Joint Rescue Coordination Centre – JRCC](http://www.jrcc.pf/french-polynesian-joint-rescue-coordination-centre/) (English and French)
-* [Maritime Affairs Directorate of French Polynesia- DPAM](https://www.service-public.pf/dpam/wp-content/uploads/sites/20/2020/09/Entry-Maritime-Flyer.pdf)(French)
-* [Tahiti Tourisme](https://tahititourisme.com.au/en-au/covid-19/) (English and French)
-* [French Ministry for the Interior](https://www.diplomatie.gouv.fr/en/coming-to-france/coming-to-france-your-covid-19-questions-answered/article/coming-to-france-your-covid-19-questions-answered?var_mode=calcul) (English and French)
+* [Tahiti Tourism / visa and entry formalities](https://www.tahititourisme.au/visa-formalites-dentree/) (English and French)
+* [French Government / visa-application-guidelines](https://france-visas.gouv.fr/en/visa-application-guidelines) (English)
 
 #### Other formalities
 
@@ -106,6 +101,8 @@ If your passport is lost or stolen, tell the Australian Government as soon as po
 * In Australia, contact the [Australian Passport Information Service](https://www.passports.gov.au/contact-us).
 * If you're overseas, contact the nearest [Australian embassy or consulate](http://dfat.gov.au/about-us/our-locations/missions/Pages/our-embassies-and-consulates-overseas.aspx).
 
+You should report your passport lost or stolen at the nearest police station.
+
 #### Passport with ‘X’ gender identifier
 
 Although Australian passports comply with international standards for sex and gender, we can’t guarantee that a passport showing 'X' in the sex field will be accepted for entry or transit by another country. Contact the nearest [embassy, high commission or consulate of your destination](https://protocol.dfat.gov.au/Public/MissionsInAustralia) before you arrive at the border to confirm if authorities will accept passports with 'X' gender markers.
@@ -136,6 +133,8 @@ Industrial and political disputes as well as strikes can cause disruptions to es
 
 To learn more about strikes and civil disputes see '[Safety](#safety)'
 
+The road network is not developed, and traffic jams occur frequently. It can take a long time to drive a short distance. Seek local advice about road conditions when planning your travel to the airport or marina.
+
 #### Driving permit
 
 You can drive in French Polynesia on a valid Australian driver's licence for up to one year after arrival.
@@ -145,6 +144,8 @@ If you plan on staying in French Polynesia longer than one year, you can exchang
 Contact the [Department of Transport in French Polynesia](https://www.service-public.pf/dtt/) for more details.
 
 #### Road travel
+
+In French Polynesia, as in France mainland, cars drive on the right side of the road, and rental cars are left-side driver. Pay attention if you rent a car.
 
 Take care driving, particularly at night. Many roads are narrow and unpaved.
 
@@ -187,9 +188,9 @@ Many outer islands don't have taxis.
 
 #### Public transport
 
-Major centres have a limited network of minibuses (Le Truck).
+Major centres have a limited network of buses. Be aware scheduling varies and they can be unreliable.
 
-Minibus services:
+Bus services:
 
 * operate weekdays until 6pm
 * have a limited weekend service
@@ -201,6 +202,7 @@ Ferries (navettes) operate between Tahiti and smaller islands.
 * [Transport and getting around safely](/before-you-go/getting-around/public-transport "Public transport")
 * [Travelling by boat](/before-you-go/getting-around/boat-travel "Travelling by boat")
 * [Tahiti Taxi](https://www.taxitahiti.com/)
+* [Tere Tahiti](https://teretahiti.pf/)
 
 #### Sea travel
 
@@ -234,12 +236,11 @@ If you plan to travel by sea:
 
 #### Air travel
 
-Firefighters in French Polynesian airports are currently on strike. Some domestic flights have been disrupted or cancelled. Contact your airline for the latest information
-
 DFAT doesn’t provide information on the safety of individual commercial airlines or flight paths.
 
-Check [French Polynesia's air safety](http://aviation-safety.net/database/country/) profile with the Aviation Safety Network.
+Contact your airline for the latest information.
 
 **More information:**
 
 * [Air travel](/before-you-go/getting-around/air-travel "Travelling by air")
+* [Aviation Safety Network](https://asn.flightsafety.org/database/countries/F-Opo)

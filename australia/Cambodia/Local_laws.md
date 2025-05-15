@@ -54,7 +54,7 @@ It's also illegal to:
 * fly drones in certain areas without a permit. These include areas of Phnom Penh, Angkor Archaeological Park in Siem Reap or other sensitive areas. Seek prior approval from the local municipality
 * hunt wildlife without permission
 * traffic wildlife
-* work without a valid work permit — see [Travel](#travel)
+* work without a valid work permit (see '[Travel').](#travel)
 
 Australian and Cambodian authorities are committed to combating child sex offences. Penalties are severe under both Australian and Cambodian law.
 

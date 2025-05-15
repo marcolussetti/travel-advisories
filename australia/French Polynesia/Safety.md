@@ -23,23 +23,15 @@ If there's a strike:
 
 #### Crime
 
-#### Violent crime
-
 The rate of serious crime is low in French Polynesia, however [assaults](/before-you-go/safety/assault "Reducing the risk of assault") can occur.
 
-#### Petty crime
+Petty crime happens, including drink spiking and theft.
 
-Petty crime happens, including drink spiking and theft:
-
-To protect yourself:
-
-* keep your belongings close, especially in crowded places
-* don't leave food or drink unattended
-* never accept drinks, food, gum or cigarettes from strangers or people you've just met
+Drink spiking can happen anywhere. Be alert to the potential risks, and don't leave food or drinks unattended. Pay attention when your drinks are being mixed. Stick to reputable venues and avoid homemade alcoholic drinks due to the risk of methanol poisoning. Get urgent medical help if you suspect you’ve been a victim.
 
 **More information:**
 
-* [Partying safely](/node/365)
+* [Partying safely while overseas](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.smartraveller.gov.au%2Fbefore-you-go%2Fsafety%2Fpartying&data=05%7C02%7CMichelle.Lam%40dfat.gov.au%7Cbd0cd565db744527188508dd41a4930d%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638738897282360647%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=8hzP1P0iV92Jm88KsRyu4DlEadlSJN77OY%2FyBZsYuRk%3D&reserved=0)
 
 #### Cyber security
 
@@ -63,9 +55,15 @@ Terrorism is a threat worldwide.
 
 No beaches in French Polynesia are patrolled.
 
-Obey warning signs and follow local authorities' advice.
+There may be strong currents, even in the lagoons, ask local people on the beach area before going swimming.
 
-Shark attacks have occurred, including in the lagoons. Beware of stonefish and moray eels.
+Most accommodation offers kayaking or stand-up paddleboarding, always wear a life jacket, especially if you go alone.
+
+Many boats sail in the lagoon, never swim close to a navigation area or across a channel.
+
+Obey warning signs and follow the advice of local authorities.
+
+Shark attacks have occurred, including in the lagoons. Beware of stonefish, moray eels and medusa jellyfish.
 
 #### Tours and adventure activities
 
@@ -78,6 +76,14 @@ If you plan to do a tour or [adventure activity](/before-you-go/activities/adven
 * always use available safety gear, such as life jackets or seatbelts
 
 If proper safety equipment isn't available, use another provider.
+
+If you’re hiking in the mountains:
+
+* monitor advice on weather and safety conditions
+* never go alone
+* be prepared with appropriate equipment and supplies
+
+Stick to marked trails. In many mountain areas telephone signals are not available. Heavy rains and flash flooding may occur at anytime.
 
 #### Climate and natural disasters
 
@@ -93,15 +99,11 @@ The High Commission of France in French Polynesia has procedures for natural dis
 
 Check the [High Commission of France in French Polynesia (French)](http://www.polynesie-francaise.pref.gouv.fr/) for news and weather updates.
 
-If there's an emergency, the High Commission of France will open a hotline (French). Call (+689) 40 44 42 10 for information.
-
 Check weather reports regularly during your stay. Be prepared to change your plans if you need to.
 
 Monitor:
 
 * [Weather Bureau in French Polynesia (French)](http://www.meteo.pf/)
-* [Fiji Meteorological Service](http://www.met.gov.fj/)
-* [Australian Bureau of Meteorology](http://www.bom.gov.au/)
 * [Joint Typhoon Warning Center (US Navy)](https://www.metoc.navy.mil/jtwc/jtwc.html)
 
 If there's a natural disaster:
@@ -115,7 +117,7 @@ If there's a natural disaster:
 
 #### Cyclones
 
-Cyclone season is from May to September. However, tropical storms and cyclones occur at any time of year.
+Cyclone season is from November to April. However, tropical storms and cyclones occur at any time of year.
 
 Severe weather can bring:
 

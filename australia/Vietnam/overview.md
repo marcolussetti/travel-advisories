@@ -45,7 +45,7 @@ Full travel advice: [Health](#health)
 
 ### Local laws
 
-* Don’t use or carry illegal drugs, including marijuana. Penalties for drug offences include the death penalty and life imprisonment. Never carry parcels or luggage for others.
+* Don’t use or carry illegal drugs, including marijuana. Penalties for drug offences include the death penalty and life imprisonment. Never carry parcels or luggage for others. It is a crime to have drugs in your system, and you can also be charged for using drugs, even if it was outside of Vietnam.
 * Get professional legal advice before signing any contract. If you're in a business or civil dispute, officials could stop you leaving Vietnam until it’s resolved.
 * It's illegal to gamble in a non-government licensed casino or possess pornography. Non-state sanctioned political or religious activity or material, or involvement with groups perceived by the Government of Vietnam to be associated with dissident groups, is also illegal.
 * It’s illegal to export antiques without a permit. Get a permit from the [Ministry of Culture, Sports and Tourism](https://english.bvhttdl.gov.vn/). It’s illegal to photograph border areas or military sites. Be careful when taking photos.
@@ -56,8 +56,9 @@ Full travel advice: [Local laws](#local-laws)
 
 ### Travel
 
-* You must have an appropriate visa before travelling to Vietnam. You can [apply online](https://vietnamembassy.org.au/en/visa-viet-nam) for an eVisa for tourism or business purposes. If approved, the eVisa allows for a stay of up to 90 days and is valid for multiple entries. Entry and exit conditions can change at short notice. You should contact the nearest embassy or consulate of Vietnam for the latest details.
+* You must have an appropriate visa before travelling to Vietnam. You can [apply online](https://thithucdientu.gov.vn/) for an eVisa for tourism or business purposes. If approved, the eVisa may allow you to stay up to 90 days and is valid for single or multiple entries. Entry and exit conditions can change at short notice. You should contact the nearest embassy or consulate of Vietnam for the latest details.
 * You must check your details are correct when applying for a visa. Before your travel, ensure that the visa details match exactly the information on your passport's biodata page, such as your full name and date of birth. Any errors or name omissions may result in an additional fee, refusal of boarding, or refusal of entry on arrival. You may be charged a significant fee at check-in or on arrival to correct the visa error.
+* On arrival, your passport will be stamped with the date that indicates when you must exit Vietnam. You must check that the visa expiration date written on your passport is correct before leaving immigration/border control, as this date may vary from what is shown on your visa. You could be charged a fine for overstaying if the expiry date is incorrect.
 * If you're travelling with prescription medication, check the value and quantity restrictions on the import and export of prescription medication with the nearest [embassy or consulate of Vietnam](https://protocol.dfat.gov.au/Public/Missions/217).
 
 Full travel advice: [Travel](#travel)

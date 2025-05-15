@@ -68,7 +68,7 @@ Credit and debit card skimming is where card data is taken for use in fraudulent
 
 Some Australians have lost thousands of dollars after accepting invitations to private homes from friendly locals. Beware of rigged card games and other confidence tricks organised by criminals.
 
-Gambling may break local laws, which also apply to travellers. See [Local laws](#local-laws).
+Gambling may break local laws, which also apply to travellers (see '[Local laws')](#local-laws).
 
 To avoid credit and debit card scams:
 

@@ -14,11 +14,13 @@ There are strict security and investigative measures to stop drug trafficking.
 
 Penalties for all types of drug offences, including those with small amounts of drugs, are severe. Many drug offences attract the death penalty or life in jail.
 
+It is a crime to have drugs in your system, and you can also be charged for using drugs, even if it was outside of Vietnam.
+
 Marijuana in any form is illegal.
 
 Never carry parcels or luggage for others.
 
-For information about carrying prescription medications into Vietnam, see [Travel](#travel).
+For information about carrying prescription medications into Vietnam, see '[Travel](#travel)'.
 
 **More information:**
 
@@ -91,6 +93,7 @@ It's illegal to:
 * gamble, except in government-licensed casinos where foreign passport holders can gamble
 * possess pornography
 * possess non-state sanctioned political or religious material
+* bring, sell, use or distribute electronic cigarettes, vaping devices and vaping liquids in Vietnam
 
 These activities may result in arrest and imprisonment.
 

@@ -17,12 +17,13 @@ Learn more about [visa requirements.](https://visa.mofa.gov.vn/Homepage.aspx)
 
 You can now apply for an eVisa for tourism or business purposes. It allows eligible travellers to stay up to 90 days in Vietnam if granted. The eVisa is valid for single or multiple entries.
 
-You can complete the [visa application form](https://vietnamembassy.org.au/en/visa-viet-nam) online. As there have been reports of difficulties in accessing eVisas during airport check-in, once granted, you should consider printing a hard copy of the visa approval document.
+You can complete the [visa application form](https://thithucdientu.gov.vn/) online. As there have been reports of difficulties in accessing eVisas during airport check-in, once granted, you should consider printing a hard copy of the visa approval document.
 
 Check your details - once when lodging your visa and again when you receive your visa.
 
 * When applying for a visa, make sure you enter your details correctly. The visa details must match exactly the information on your passport's biodata page, such as your full name and date of birth.
 * When you're issued a visa to enter Vietnam, check again that all your Vietnam visa details are correct, match the information in your passport, that your full name is listed, and that there are no spelling or other errors.
+* On arrival, your passport will be stamped with the date that indicates when you must exit Vietnam. You must check that the visa expiration date written on your passport is correct before leaving immigration/border control, as this date may vary from what is shown on your visa. You could be charged a fine for overstaying if the expiry date is incorrect.
 
 Any errors or name omissions may result in an additional fee, refusal of boarding, or refusal of entry on arrival. You may be charged a significant fee at check-in or on arrival to correct the visa error.
 
@@ -138,7 +139,7 @@ ATMs are widespread in Hanoi, Ho Chi Minh City and Da Nang.
 
 Check with your bank to confirm if your ATM (eftpos) card will work in Vietnam.
 
-Card skimming happens throughout Vietnam. See [Safety](#safety).
+Card skimming happens throughout Vietnam (see '[Safety')](#safety).
 
 You may have trouble getting replacement ATM cards.
 
@@ -239,13 +240,13 @@ If you book a taxi online or through an app, make sure the details of the vehicl
 
 Unless using an Australian safety standard-approved helmet, we discourage using motorcycle taxis as they provide riders with helmets that offer little to no protection against injury in the case of an accident.
 
-Be careful of taxi scams. See [Safety](#safety).
+Be careful of taxi scams (see '[Safety')](#safety).
 
 #### Public transport
 
 Inter-city buses have a high accident rate.
 
-Petty theft often happens on buses. See [Safety](#safety).
+Petty theft often happens on buses (see '[Safety')](#safety).
 
 When travelling by rail, keep the ticket stub as you need it when leaving the train station.
 
@@ -270,7 +271,7 @@ Piracy happens in coastal areas of Vietnam.
 **More information:**
 
 * [Reducing the risk of piracy](/before-you-go/safety/piracy "Reducing the risk of piracy")
-* [International Maritime Bureau piracy reports](https://www.icc-ccs.org/index.php/piracy-reporting-centre)
+* [International Maritime Bureau piracy reports](https://icc-ccs.org/)
 
 #### Air travel
 

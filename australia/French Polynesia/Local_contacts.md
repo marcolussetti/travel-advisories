@@ -27,6 +27,10 @@ Always get a police report when you report a crime.
 
 Your insurer should have a 24-hour emergency number.
 
+JRCC (sea emergency)
+
+Call 16
+
 #### Consular contacts
 
 Read the [Consular Services Charter](https://www.smartraveller.gov.au/consular-services/consular-services-charter) for what the Australian Government can and can’t do to help you overseas.
