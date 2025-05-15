@@ -4,24 +4,26 @@
 
 PASSPORT VALIDITY:
 
-Three months beyond planned date of departure [from the Schengen area.](/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/US_Travelers_in_Europes_Schengen_Area.html)
+3 months beyond your date of departure.
 
 BLANK PASSPORT PAGES:
 
-Two pages.
+**Required:**  2 blank passport pages are needed.
+
+**Recommended:** 6 months passport validity.
 
 TOURIST VISA REQUIRED:
 
-Not required for stays under 90 days.
+No visa is required for stays less than 90 days.
 
 VACCINATIONS:
 
-None
+No vaccinations are required.
 
 CURRENCY RESTRICTIONS FOR ENTRY:
 
-10,000€ (euros or equivalent).
+10,000€ (euros or equivalent) must be declared.
 
 CURRENCY RESTRICTIONS FOR EXIT:
 
-10,000€ (euros or equivalent).
+10,000€ (euros or equivalent) must be declared.

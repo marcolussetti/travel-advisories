@@ -672,7 +672,7 @@
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/germany-travel-advisory.html",
         "risk_level_number": 2,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Germany.html",
-        "last_updated_country_details": "2024-05-01T00:00:00"
+        "last_updated_country_details": "2025-05-14T00:00:00"
     },
     {
         "destination": "Ghana",
@@ -1559,7 +1559,7 @@
     {
         "destination": "Somalia",
         "risk_level": "Level 4: Do Not Travel",
-        "last_updated_advisory": "2024-07-23T00:00:00",
+        "last_updated_advisory": "2025-05-14T00:00:00",
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/somalia-travel-advisory.html",
         "risk_level_number": 4,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Somalia.html",
