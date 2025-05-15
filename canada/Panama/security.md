@@ -2,6 +2,19 @@
 
 ## Safety and security
 
+### Nationwide demonstrations
+
+Nationwide demonstrations have been occurring frequently since late April 2025, causing travel disruptions. Roadblocks have been set up and public transport disrupted at times in the following areas:
+
+* Panama City
+* Bocas del Toro Province, including the Changuinola region
+* Chiriquí Province, including the Pan-American Highway
+* Veraguas Province
+
+Demonstrations could happen in other areas without notice.
+
+[Demonstrations](#demonstrations)
+
 ### Region between Metetí and the Colombian border
 
 Avoid all travel between Metetí and the Colombian border.

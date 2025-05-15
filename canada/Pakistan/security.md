@@ -8,20 +8,14 @@ The Government of Canada may not be in a position to provide consular assistance
 * the Government of Pakistan prohibits entry
 * advance permission is required for entry
 
-On May 7, 2025, the Indian military conducted air strikes on several targets in Pakistan-administered Kashmir and Punjab Province, resulting in casualties. There has also been artillery fire across the Line of Control and drone attacks have occurred in multiple areas of Pakistan, including Lahore. These attacks could result in the disruption of essential services.
+On May 7, 2025, the Indian military conducted air strikes on several targets in Pakistan-administered Kashmir and Punjab Province, resulting in casualties.
 
-Tensions could increase and the situation could deteriorate rapidly.
+On May 10, 2025, the Pakistani and Indian governments agreed to stop military action.
 
-Airspace and airports may close on short notice, causing flight disruptions.
+Pakistani authorities have reopened the airspace. However, flight disruptions may still occur.
 
-A state of emergency was declared in Punjab Province following the airstrikes.
-
-If you are in or near the affected areas:
-
-* monitor local and international media to stay informed of the rapidly evolving situation
-* contact your airline to ask how this could impact your travel plans
-* follow the instructions of local authorities, including air-raid sirens and evacuation orders
-* be vigilant and prepared to shelter in place
+* Contact your airline for updated flight information
+* Monitor local media to stay informed
 
 ### Security situation
 

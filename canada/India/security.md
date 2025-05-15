@@ -4,18 +4,12 @@
 
 On May 7, 2025, the Indian military conducted air strikes on several targets in Pakistan-administered Kashmir and Punjab Province, resulting in casualties.
 
-There has been artillery fire across the Line of Control, as well as missile and drone attacks in Gujarat, Punjab, Rajasthan, and Jammu and Kashmir. These attacks could result in the disruption of essential services.
+On May 10, 2025, the Indian and Pakistani governments agreed to stop military action.
 
-Tensions could increase and the situation could deteriorate rapidly.
+Airports across northern and western India have reopened; however, flight disruptions may still occur.
 
-There are air travel disruptions and local authorities could take additional measures, such as closing the airspace and blocking Internet access. Many airports across northern and western India have temporarily suspended operations.
-
-If you are in or near the affected areas:
-
-* monitor local and international media to stay informed of the rapidly evolving situation
-* contact your airline to ask how this could impact your travel plans
-* follow the instructions of local authorities, including air-raid sirens and evacuation orders
-* be vigilant and prepared to shelter in place
+* Contact your airline for updated flight information
+* Monitor local media to stay informed
 
 ### Security situation
 

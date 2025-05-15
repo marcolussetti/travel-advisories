@@ -2,18 +2,6 @@
 
 ## Safety and security
 
-### Demonstrations and roadblocks
-
-Since October 14, 2024, demonstrations are occurring in Bolivia. Several regions are affected, including:
-
-* Chuquisaca
-* Cochabamba
-* Oruro
-* Potosi
-* Santa Cruz
-
-Roadblocks may disrupt traffic. These demonstrations may spread and can turn violent at any time. Police may not be able to assist with emergencies in Chapare, Cochabamba.
-
 ### Demonstrations
 
 Demonstrations occur frequently, often with little or no notice. Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation. Protesters may also use dynamite during protests. The police often respond with tear gas to disperse crowds.

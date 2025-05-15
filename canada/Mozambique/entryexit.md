@@ -39,26 +39,31 @@ Different entry rules may apply when travelling with a temporary passport or an 
 
 ### Visas
 
-Tourist visa: not required for stays up to 90 days per year  
-Business visa: not required for stays up to 90 days per year  
+Tourist visa: not required for stays up to 30 days (may be extended)  
+Business visa: not required for stays up to 30 days (may be extended)  
 Work visa: required  
 Student visa: required  
-Residency visa  required
+Residency visa: required
+
+If travelling for tourism or business without a visa, you must get an Electronic Travel Authorization (ETA) at least 48 hours before departure.
 
 You can apply for a visa at the nearest embassy or consulate of Mozambique.
 
 #### Tourist and business visa exemption
 
-Canadian tourists or business travelers may be exempt from applying for a visa under certain conditions. This exemption applies to stays up to 90 consecutive or interrupted days per year.
+Canadian tourists or business travelers may be exempt from applying for a visa under certain conditions. If you qualify for a visa exemption, you must still apply for an ETA through the Government of Mozambique’s e-visa portal at least 48 hours before departure.
 
-Trips of more than 30 days may require an extension of stay from immigration authorities. Administrative fees may apply. If your passport has less than 6 months validity, Mozambican authorities may refuse to extend your visa exemption.
+Trips of more than 30 days require an extension of stay from immigration authorities. Administrative fees may apply. If your passport has less than 6 months validity, Mozambican authorities may refuse to extend your visa exemption.
 
 Upon arrival, you must provide:
 
-* a return or onward ticket
+* your approved ETA (either printed or on your mobile device)
+* a return or onward ticket (except for travel by land)
 * a passport valid for at least 6 months beyond the date you expect to leave Mozambique
-* fees payment of 650 Mozambican meticais, paid by card or cash
+* fee payment of 650 Mozambican meticals or equivalent in accepted currencies, paid by card or cash
 * proof of accommodation (a hotel reservation or a written invitation from your host)
+
+[E-visa portal](https://evisa.gov.mz/) – Government of Mozambique
 
 #### Visa pre-authorizations
 
@@ -75,7 +80,7 @@ Visa pre-authorizations are not guaranteed visas. Upon arrival to Mozambique, yo
 
 You can pay the fees on arrival with a credit card or local currency.
 
-[E-visa portal](https://evisa.gov.mz/)– Government of Mozambique
+[E-visa portal](https://evisa.gov.mz/) – Government of Mozambique
 
 ### Other entry requirements
 

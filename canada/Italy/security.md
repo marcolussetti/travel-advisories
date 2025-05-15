@@ -4,7 +4,7 @@
 
 ### Mass gatherings in Rome and the Vatican
 
-Large crowds are expected in Rome and the Vatican during the Papal conclave beginning on May 7, 2025.
+Large crowds of visitors and pilgrims are expected in Rome and the Vatican in May 2025.
 
 If you are in Rome or the Vatican:
 
