@@ -48,7 +48,7 @@ In the Caribbean, attitudes towards the LGBT+ community are mostly conservativ
 
 ### Swimming safety
 
-Always take great care when swimming. Currents can be deceptively strong, including on some of the popular beaches on the south and west coasts. Some beaches do not have lifeguards or warning flags.
+Always take great care when swimming. Currents can be deceptively strong, including on some of the popular beaches on the south and west coasts. Some beaches do not have lifeguards or warning flags. Existing lifeguard stations are not manned 24hrs a day. Motorized water sports equipment, including jet skis, dive boats on snorkelling tours, and catamarans, may operate near to the shore. Be mindful of these as well as other swimmers who may use non-motorised, large water equipment like surfboards.
 
 Swimming is not recommended on many of the east-coast beaches where currents are particularly strong. Follow local warnings.
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   14 May 2025
+:   15 May 2025
 
 Updated:
-:   13 May 2025
+:   14 May 2025
 
 Latest update:
-:   FCDO now advises against all travel to the city of Tripoli (‘Warnings and insurance’ page).
+:   Updated information that fighting continues across the city of Tripoli (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/68237cb42b7ca0cc347e081e/FCDO__TA__024_-_Libya_Travel_Advice_Ed3__WEB_.jpg)
 
@@ -26,9 +26,9 @@ Find out more about [why the FCDO advises against travel](https://www.gov.uk/for
 
 ## Heightened military presence in Tripoli
 
-On 12 May, armed clashes broke out across Tripoli. There remains a heightened military presence across the city and the potential for further violence cannot be ruled out. Flights have been affected, check with your travel provider for any possible changes.
+On 12 May, armed clashes broke out across Tripoli. As of 11am UK time on 14 May, fighting continues across the capital. Tripoli’s only functioning international airport, Mitiga, remains closed.
 
-British nationals already in, or planning to travel to Tripoli, should monitor the local situation carefully, remain vigilant, and have robust security arrangements and contingency plans in place.
+If you are a British national already in, or planning to travel to Tripoli, you should monitor the local situation carefully, remain vigilant, and have robust security arrangements and contingency plans in place.
 
 ## UK government support
 

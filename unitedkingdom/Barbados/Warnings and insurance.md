@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   15 May 2025
 
 Updated:
-:   24 July 2024
+:   14 May 2025
 
 Latest update:
-:   Updated information on the hurricane season in the Caribbean ('Warnings and insurance' page).
+:   Updated information about swimming safety (‘Safety and security’ page).
 
 ## Hurricane season
 

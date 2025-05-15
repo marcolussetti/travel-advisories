@@ -1,11 +1,11 @@
 {
     "name": "Barbados",
-    "update_reason": "Updated information on the hurricane season in the Caribbean ('Warnings and insurance' page).",
+    "update_reason": "Updated information about swimming safety (\u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Barbados/Warnings and insurance.md",
-            "update_date": "2024-07-24T15:41:59+01:00"
+            "update_date": "2025-05-14T14:40:55+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Barbados/Getting help.md"
         }
     ],
-    "update_date": "2024-07-24T15:41:59+01:00"
+    "update_date": "2025-05-14T14:40:55+01:00"
 }
