@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   16 May 2025
 
 Updated:
-:   4 March 2024
+:   15 May 2025
 
 Latest update:
-:   This travel advice has been rewritten to make it easier to read and understand.
+:   Updated information about the general risks from terrorism ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/615dd0a28fa8f52986e61c0f/FCDO__TA__051_-_Benin_Travel_Advice_Ed1__WEB_.jpg)
 

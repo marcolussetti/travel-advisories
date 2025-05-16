@@ -19,10 +19,12 @@ Attacks could be indiscriminate, including in places visited by foreign national
 
 Stay aware of your surroundings, keep up to date with local media reports and follow the advice of local authorities.
 
-There is a risk of terrorist attacks in the northern border regions, including throughout the Parc du W National Park, which is tri-national and shares an open border with Benin and Niger. See [Regional risks](/foreign-travel-advice/benin/regional-risks).
+There is a risk of terrorist attacks in the northern border regions, including throughout the Parc du W National Park, which is tri-national and shares an open border with Benin and Niger. Recent incidents in the region have targeted military bases and security installations. See [Regional risks](/foreign-travel-advice/benin/regional-risks).
 
 Examples of recent significant attacks include:
 
+* in April 2025, 54 soldiers were killed in an attack against two military posts in Parc du W National Park
+* in January 2025, 28 soldiers were killed in an attack against a military post in Parc du W National Park
 * in 2022, 7 national park staff and 1 military personnel were killed and 12 people were injured when 2 separate vehicle convoys hit improvised explosive devices in the Beninese side of the Parc National du W
 * in 2021, at least 2 people were killed in an attack in the northern border area of Porga
 

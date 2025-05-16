@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   5 April 2025
+:   16 May 2025
 
 Updated:
-:   4 April 2025
+:   15 May 2025
 
 Latest update:
-:   Updated information following an earthquake in the region ('Warnings and insurance' & ‘Safety and Security’ page).
+:   Updated information on volcanic eruptions (‘Safety and security’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/627a68268fa8f57d82837b34/FCDO__TA__063_-_Papua_New_Guinea_Ed1__WEB_.jpg)
 

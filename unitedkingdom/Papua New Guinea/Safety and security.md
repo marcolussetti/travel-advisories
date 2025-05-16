@@ -128,11 +128,11 @@ Earthquakes can be followed by tsunamis. The US Federal Emergency Management Age
 
 Papua New Guinea has many active and dormant volcanoes. You should check with your travel provider or airline and seek advice from local authorities before travelling to affected areas.
 
-In November 2023, Mount Ulawun volcano erupted on the island of New Britain and caused flight cancellations and the evacuation of over 5,000 people. Volcanic and seismic activity may continue.
+In November 2023, Mount Ulawun volcano erupted on the island of New Britain and caused flight cancellations and the evacuation of over 5,000 people. It has shown further low-level activity since then, most recently in March 2025.
 
-Mount Bagana in Bougainville has shown increased volcanic activity since July 2023, displacing thousands of residents.
+Increased volcanic activity at Mount Bagana in Bougainville in 2023 resulted in widespread displacement of local residents. Some low-level activity continues.
 
-Manam Island volcano, one of Papua New Guinea’s most active, erupted in 2018 forcing thousands to flee to the mainland. It has shown further low-level activity since then, most recently in 2022.
+Manam Island volcano erupted in 2018, forcing thousands to flee to the mainland. It has shown further low-level activity since then, most recently in 2024.
 
 ### Tropical cyclones
 

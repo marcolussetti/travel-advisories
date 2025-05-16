@@ -12,13 +12,17 @@ Although there is no recent history of terrorism in Anguilla, attacks cannot be 
 
 ## Crime
 
-Crime levels in Anguilla are low, but take sensible precautions to protect yourself and belongings, including:
+While crime levels in Anguilla are generally low, there has been a recent spike in serious gang-related crime involving guns and robbery. While risks are lower in tourist areas, some incidents have taken place in populated and public areas.
+
+Take sensible precautions to protect yourself and belongings, including:
 
 * avoiding isolated areas after dark, including beaches
 * not showing resistance if you’re attacked
 * keeping doors and windows in your accommodation locked when out or at night
 * not carrying large amounts of cash or wearing expensive-looking jewellery
 * keeping valuables and travel documents in safety deposit boxes and hotel safes
+
+If you are a victim of crime, Police and emergency services can be reached at 911.
 
 ## Laws and cultural differences
 

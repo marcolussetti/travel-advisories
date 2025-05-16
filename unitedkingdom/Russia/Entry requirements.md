@@ -49,9 +49,9 @@ The Russian authorities strictly enforce visa and immigration laws. Before you t
 
 If you overstay your visa, you may face fines, court hearings, deportation or a ban from re-entry.
 
-From 1 January 2025 until 30 April 2025, foreign nationals who have exceeded the terms of their legal stay in Russia need to apply to the Russian internal affairs authorities to regularize their stay or leave Russia. The application process includes biometric checks, medical screening for dangerous diseases, drugs and psychoactive substances tests, and checks for any outstanding payments of duties, taxes, fees, fines, and other mandatory payments.
+From 1 January 2025 until 10 September 2025, foreign nationals who have exceeded the terms of their legal stay in Russia need to apply to the Russian internal affairs authorities to regularize their stay or leave Russia. The application process includes biometric checks, medical screening for dangerous diseases, drugs and psychoactive substances tests, and checks for any outstanding payments of duties, taxes, fees, fines, and other mandatory payments.
 
-After 30 April 2025 anyone without the necessary permits or visa will be entered on an official surveillance register, deported from Russia, and banned from re-entering.
+After 10 September 2025, anyone without the necessary permits or visa will be entered on an official surveillance register, deported from Russia, and banned from re-entering.
 
 ## Immigration cards
 

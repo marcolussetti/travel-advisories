@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 April 2025
+:   16 May 2025
 
 Updated:
-:   25 April 2025
+:   15 May 2025
 
 Latest update:
-:   Information added about accessing money in Russia ('Entry requirements' page).
+:   Updated information about overstaying you visa ('Entry requirements' page).
 
 ![](https://assets.publishing.service.gov.uk/media/621cd8428fa8f54915f43831/FCDO__TA__059_-_Russia_Travel_Advice_Ed1__WEB_.jpg)
 

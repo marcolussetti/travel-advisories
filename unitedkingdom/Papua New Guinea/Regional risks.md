@@ -14,9 +14,9 @@ See [Tribal fighting](/foreign-travel-advice/papua-new-guinea/safety-and-securit
 
 ## Enga Province
 
-There is a daily curfew in Enga Province from 9pm to 6am due to an increase in tribal fighting.
+Due to continued tribal fighting Enga province, visitors should pay attention to local advice on curfews and other restrictions which may be imposed at short notice.
 
-The authorities may impose travel and other restrictions at short notice. Be particularly cautious throughout the province and stay away from the area around the Porgera gold mine (currently closed), which has been subject to violent landowner disputes.
+Be particularly cautious throughout the province and stay away from the area around the Porgera gold mine (currently closed), which has been subject to violent landowner disputes.
 
 ## Papua New Guinea-Indonesia border
 

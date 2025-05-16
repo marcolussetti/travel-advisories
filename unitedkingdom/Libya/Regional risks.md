@@ -6,7 +6,7 @@ You should also read [FCDO’s overall travel advice](https://www.gov.uk/foreign
 
 ## Tripoli
 
-FCDO advises against all but essential travel to all areas within the city limits of Tripoli.
+FCDO advises against all travel to all areas within the city limits of Tripoli.
 
 The general security situation in Tripoli has been relatively stable since the UN-brokered ceasefire was signed in October 2020. Areas of the city are controlled by different militia, and the potential for sporadic inter-militia fighting remains, as witnessed in August 2022, during the large-scale mobilisation in May 2023 and clashes in August 2023 and May 2025.  Such clashes can break out without warning and may involve exchanges of high-calibre gunfire and rocket propelled grenades.
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   16 May 2025
 
 Updated:
-:   27 March 2024
+:   15 May 2025
 
 Latest update:
-:   This travel advice has been rewritten to make it easier to read and understand.
+:   Updated information about crime ('Safety and security' page).
 
 Anguilla is a British Overseas Territory, so there is no British Embassy, and the Royal Anguilla Police Force or other relevant local authorities will support you if you need help.
 

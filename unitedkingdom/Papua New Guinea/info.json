@@ -1,11 +1,11 @@
 {
     "name": "Papua New Guinea",
-    "update_reason": "Updated information following an earthquake in the region ('Warnings and insurance' & \u2018Safety and Security\u2019 page).",
+    "update_reason": "Updated information on volcanic eruptions (\u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Papua New Guinea/Warnings and insurance.md",
-            "update_date": "2025-04-04T23:32:30+01:00"
+            "update_date": "2025-05-15T14:04:47+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Papua New Guinea/Getting help.md"
         }
     ],
-    "update_date": "2025-04-04T23:32:30+01:00"
+    "update_date": "2025-05-15T14:04:47+01:00"
 }
