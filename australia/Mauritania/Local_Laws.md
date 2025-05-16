@@ -74,3 +74,7 @@ Public displays of affection can cause offence, particularly:
 
 * in rural and traditional areas
 * near mosques, shrines and religious educational institutions
+
+**More information:**
+
+* [Advice for women travellers](/before-you-go/who-you-are/women "Advice for women travellers")

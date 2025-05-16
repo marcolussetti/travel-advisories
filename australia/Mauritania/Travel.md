@@ -6,7 +6,7 @@
 
 #### Visa conditions
 
-You can get a visa on arrival. You must show your hotel booking or a letter from your local host. If you're travelling for business, you must have a letter of invitation.
+You must obtain an [electronic visa](https://anrpts.gov.mr/en/visa/requestvisa) before travelling, which you can request from the Mauritanian Ministry of the Interior and Decentralization. You can no longer obtain a visa on arrival. If you have difficulties with your visa application, you can email [contact@anrpts.gov.mr](mailto:contact@anrpts.gov.mr)
 
 Entry and exit conditions can change at short notice. Contact the nearest [Embassy of Mauritania](https://protocol.dfat.gov.au/Public/Missions/127) for the latest details.
 

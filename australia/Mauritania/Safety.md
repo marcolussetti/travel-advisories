@@ -33,39 +33,33 @@ Terrorism is a threat worldwide.
 
 #### Kidnapping
 
-[Kidnapping](https://www.smartraveller.gov.au/before-you-go/safety/kidnapping) occurs across the world with political, ideological, and criminal motives. Foreigners, including Australians, have been kidnapped overseas whilst travelling. Kidnaps can happen anywhere, anytime, including in destinations that are typically at lower risk.
+[Kidnapping](https://www.smartraveller.gov.au/before-you-go/safety/kidnapping) occurs across the world with political, ideological, and criminal motives. Foreigners, including Australians, have been kidnapped overseas whilst travelling. Kidnaps can happen Kidnapping occurs across the world with political, ideological, and criminal motives. Foreigners, including Australians, have been kidnapped overseas whilst travelling. Kidnaps can happen anywhere, anytime, including destinations that are typically at lower risk. 
 
-Kidnapping is a risk across Mauritania, with a greater risk closer towards the Mali-Mauritania border and the Sahel region. Foreigners have been kidnapped from remote and desert areas in the Sahel region. Some have been killed. Further kidnappings are likely.
+There is a threat of kidnapping across the Sahel region, including in Mauritania. The threat in Mauritania is greatest in the regions bordering Mali and Algeria. Westerners are at a higher risk of being targeted. Foreigners have been kidnapped from remote and desert areas in the Sahel region, and some have been killed. Further kidnappings are likely. Foreigners travelling alone or without security are easy targets.  
 
-Foreigners travelling alone or without security are easy targets.
+If despite our advice, you travel to an area with a high risk of kidnapping our ability to provide consular assistance in these destinations is limited.  
 
-Terrorists and criminal groups carry out kidnappings. Criminals sell their victims to terrorist groups.
+You are responsible for your own safety. To reduce the risk of kidnapping: 
 
-If, despite our advice, you travel to an area with a high risk of kidnapping, be aware that our ability to provide consular assistance in these destinations is limited.
-
-To reduce the risk of being kidnapped:
-
-* always be alert to your personal security and surroundings
-* get professional security advice for travel in locations with a heightened kidnap risk
+* always be alert to your personal security and surroundings - avoid distractions. Be prepared to stop or take evasive action if you sense danger
+* get professional security advice for travel in locations with a heightened kidnap risk. It is essential to have a contingency plan
 * check your accommodation has appropriate security measures
-* avoid isolated locations, particularly when travelling alone
-* notify family or friends of planned travel and share your location with them
+* vary your movements so you don't set predictable patterns
+* keep a low profile – including online. Drawing attention to yourself in high-risk areas may signal to criminals that you have something worth taking
+* avoid isolated locations, particularly when travelling alone. There is safety in numbers, and you should try to travel with someone else, especially at night
+* notify family or friends of planned travel; share your location and emergency contacts that they can rely on if something happens
 * avoid talking about your money or business affairs
 * use ATMs in public places and during daylight hours
-* avoid giving personal details to strangers online or over the phone
+* avoid giving personal details to strangers online or over the phone. Criminals have been known to search social media for victims
+* If you are confronted by armed criminals, it is best to surrender and cooperate – resistance tends to make the situation worse
 
-If you decide to travel to the Mali-Mauritania border areas despite our advice:
+The Australian Government's longstanding policy is that it doesn't make payments or concessions to kidnappers. Ransom payments to kidnappers have funded further terrorist attacks and criminal activity. Ransom payments to terrorist groups are likely to contravene Australian counter-terrorism financing laws.  
 
-* vary your daily routines
-* avoid locations popular with foreigners
-* avoid unnecessary travel in remote areas
-* arrange your own personal security measures
+**More information:** 
 
-The Australian Government's longstanding policy is that it doesn't make payments or concessions to kidnappers. Ransom payments to kidnappers have funded further terrorist attacks and criminal activity. Paying a ransom to terrorist groups will likely break Australian counter-terrorism financing laws.
-
-**More information:**
-
-* [Kidnapping](/before-you-go/safety/kidnapping "Reducing the risk of kidnapping")
+* [Kidnapping](https://www.smartraveller.gov.au/before-you-go/safety/kidnapping)
+* [Scams that affect travellers](https://www.smartraveller.gov.au/before-you-go/safety/scams)
+* [Reducing the risk of piracy](https://www.smartraveller.gov.au/before-you-go/safety/piracy)
 
 #### Crime
 
@@ -80,12 +74,20 @@ Armed thieves have attacked:
 * cars on roads between Mali and Mauritania
 * cars in the north of Mauritania
 
+Take extra care if you're a woman and alone. Women may be physically and verbally harassed or [assaulted](https://www.smartraveller.gov.au/before-you-go/safety/assault). Australian citizens who are victims of sexual assault should contact the [Australian Embassy in Paris](https://france.embassy.gov.au/pari/home.html).
+
 If you're travelling in Mauritania:
 
 * arrange personal security measures
 * keep car doors locked and windows up, even when moving
 * avoid walking alone outside, and pay attention to your personal security
 * ensure that your belongings, passports and other travel documents are secure at all times
+* read [reducing the risk of sexual assault](/before-you-go/safety/sexual-assault "Reducing the risk of sexual assault and harassment") before you go
+* contact the [Australian Embassy in Paris](https://france.embassy.gov.au/pari/home.html) if you are a victim of sexual assault
+
+**More information:**
+
+* [Advice for women travellers](/before-you-go/who-you-are/women "Advice for women travellers")
 
 #### Scams and fraud
 
@@ -124,9 +126,17 @@ You may be at risk of cyber-based threats during overseas travel to any country.
 
 Social media can also be risky in destinations where there are social or political tensions, or laws that may seem unreasonable by Australian standards. Travellers have been arrested for things they have said on social media. Don't comment on local or political events on your social media.
 
+More information:
+
+* [Cyber security when travelling overseas](/before-you-go/staying-safe/cyber-security "Cyber security when travelling overseas")
+
+#### Drink spiking
+
+Drink spiking can happen anywhere. Be alert to the potential risks, and don't leave food or drinks unattended. Pay attention when your drinks are being mixed. Stick to reputable venues and avoid homemade alcoholic drinks due to the risk of methanol poisoning. Get urgent medical help if you suspect you’ve been a victim.
+
 **More information:**
 
-* [Cyber security when travelling overseas](https://www.smartraveller.gov.au/before-you-go/staying-safe/cyber-security)
+* [Partying safely](/before-you-go/safety/partying "Partying safely")
 
 #### Civil unrest and political tension
 

@@ -2,7 +2,7 @@
 
 Latest update
 
-We continue to advise reconsider your need to travel to Mauritania. Higher levels apply in some areas. Protests and demonstrations occur from time to time. Avoid political gatherings and demonstrations and follow the advice of local authorities.
+We've reviewed our advice for Mauritania and continue to advise reconsider your need to travel overall. Higher levels apply in some areas. You must apply for an electronic visa online and receive authorisation from Mauritanian authorities before travelling. You can no longer obtain a visa on arrival.
 
 Advice Level summary
 
@@ -16,13 +16,13 @@ Higher levels apply in some areas.
 
 [What does this mean?](/before-you-go/travel-advice-explained/)
 
-[Reconsider your need to travel](https://smartraveller.gov.au/consular-services/travel-advice-explained#level3) to Mauritania.
+[Reconsider your need to travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level3) to Mauritania.
 
 [Reconsider your need to travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level3) to Mauritania overall due to the threat of terrorism and kidnapping and the risk of violent crime.
 
 See [Safety](#safety)
 
-[Do not travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level4) to the provinces of Tiris Zemmour, Adrar, Tagant, Hidh ech Chargui, Hodh El Gharbi, Assaba and Guidimaka.
+[Do not travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level4) to the provinces of Tiris Zemmour, Adrar, Tagant, Hidh ech Chargui, Hodh El Gharbi, Assaba and Guidimaka.
 
 [Do not travel](https://smartraveller.gov.au/consular-services/travel-advice-explained#level4) to:
 
@@ -50,9 +50,10 @@ See [Safety](#safety)
 
 * There is a threat of terrorism in Mauritania, particularly in the eastmost regions. Terrorists could target places visited by foreigners or places connected to the Government of Mauritania. Remain vigilant and aware of your surroundings.
 * There's a threat of kidnapping across the Sahel, including in Mauritania. Westerners are at a higher risk of being targeted. If you travel to Mauritania, get professional security advice. Avoid travelling to remote locations. Arrange personal security measures.
-* Crime, including violent crime, continues to rise. Armed burglaries, robberies, and pickpocketing may occur on busy streets in broad daylight. Keep valuables out of sight. Pay close attention to your safety. Armed thieves often attack people in cars and beach areas. Carjackings by people smugglers may occur. Keep car doors locked and windows up, even when moving.
+* Pay close attention to your safety. Crime, including violent crime, continues to rise.
+* Armed burglaries, robberies, and pickpocketing may occur on busy streets in broad daylight. Keep valuables out of sight. Armed thieves often attack people in cars and beach areas. Carjackings by people smugglers may occur. Keep car doors locked and windows up, even when moving.
 * Fake internet friendships, dating and marriage schemes operate in West African countries. Be wary of requests to send money or travel to Mauritania from someone you met online.
-* Australian citizens who are victims of sexual assault should contact the [Australian Embassy in Paris](https://france.embassy.gov.au/pari/home.html).
+* Women travelling alone may be subject to unwelcome male attention. Take extra precautions.
 
 Full travel advice: [Safety](#safety)
 
@@ -80,9 +81,10 @@ Full travel advice: [Local laws](#local-laws)
 
 ### Travel
 
-* You can get a visa on arrival. You must show your hotel booking or a letter from your local host. If you're travelling for business, you must have a letter of invitation. Entry and exit conditions can change at short notice. Contact the nearest Embassy or Consulate of Mauritania for the latest details.
+* You must [apply for an electronic visa online](https://anrpts.gov.mr/en/visa/requestvisa) and receive authorisationfrom Mauritanian authorities before travelling. You can no longer obtain a visa on arrival.
+* Entry and exit conditions can change at short notice. Contact the nearest Embassy or Consulate of Mauritania for the latest details.
 * Carry your yellow fever vaccination certificate. You may need it to enter the country.
-* Mauritania is a mainly cash economy. Not many places accept credit cards. You can't exchange traveller's cheques. There are some ATMs in Nouakchott, but not all accept foreign cards. Use official money exchanges or banks to convert your currency.
+* Mauritania is a mainly cash economy. Not many places accept credit cards, and you can't exchange traveller's cheques. There are some ATMs in Nouakchott, but not all accept foreign cards. Use official money exchanges or banks to convert your currency.
 * Unexploded landmines near the Western Sahara border can shift in sandstorms. Stay on well-travelled roads.
 
 Full travel advice: [Travel](#travel)

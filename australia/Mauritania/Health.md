@@ -29,7 +29,7 @@ See your doctor or travel clinic to:
 
 Do this at least 8 weeks before you leave.
 
-If you have immediate concerns for your welfare, or the welfare of another Australian, call the 24-hour Consular Emergency Centre on +61 2 6261 3305 or contact your [nearest Australian Embassy, High Commission or Consulate](https://www.dfat.gov.au/about-us/our-locations/missions/our-embassies-and-consulates-overseas) to discuss counselling hotlines and services available in your location*.*
+If you have immediate concerns for your welfare, or the welfare of another Australian, call the 24-hour Consular Emergency Centre on +61 2 6261 3305 or contact your [nearest Australian Embassy, High Commission or Consulate](https://www.dfat.gov.au/about-us/our-locations/missions/our-embassies-and-consulates-overseas) to discuss counselling hotlines and services available in your location.
 
 **More information:**
 
@@ -77,17 +77,17 @@ Get medical advice if you have a fever, muscle pain, rash or severe headache.
 
 #### Other health risks
 
-Waterborne, foodborne, parasitic and other infectious diseases are common, including:
+Common waterborne, foodborne, parasitic and other infectious diseases, including:
 
 * [cholera](https://www.who.int/news-room/fact-sheets/detail/cholera)
-* [typhoid](https://www.who.int/immunization/diseases/typhoid/en/)
+* [typhoid](https://www.who.int/news-room/fact-sheets/detail/typhoid)
 * [hepatitis](https://www.who.int/hepatitis/en/)
 * [bilharzia (schistosomiasis)](https://www.who.int/news-room/fact-sheets/detail/schistosomiasis)
-* [leptospirosis](https://www.healthdirect.gov.au/leptospirosis)
+* [leptospirosis](https://www.paho.org/en/topics/leptospirosis)
+* [measles](https://www.who.int/news-room/fact-sheets/detail/measles)
 * [meningitis](https://www.who.int/health-topics/meningitis#tab=tab_1)
 * [tuberculosis](https://www.who.int/news-room/fact-sheets/detail/tuberculosis)
 * [rabies](https://www.who.int/news-room/fact-sheets/detail/rabies)
-* [COVID-19](https://www.health.gov.au/health-alerts/covid-19)
 
 Serious outbreaks can occur.
 
