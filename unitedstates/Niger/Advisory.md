@@ -16,15 +16,15 @@
 
 ***Updated to reflect the addition of a risk indicator for health and additional information about travel to border areas.***
 
-Reconsider travel to Niger due to risk of **crime, civil unrest, terrorism, kidnapping,** and **health.**Some areas have increased risk. Read the entire Travel Advisory.
+Reconsider travel to Niger due to risk of **crime, civil unrest, terrorism, kidnapping,** and **health.** Some areas have increased risk. Read the entire Travel Advisory.
 
-Do Not Travel to the Malian border area, Diffa region, and the Lake Chad region due to **terrorism**.
+Do Not Travel to the Malian border area, Diffa region, northern Agadez, and the Lake Chad region due to **terrorism**.
 
 **Country Summary:**Violent crimes, such as armed robbery, are common.
 
 Demonstrations, while generally peaceful, may become violent at any time.  They can lead to civil unrest.
 
-Terrorist groups continue planning kidnappings and possible attacks in Niger.  Terrorists may attack with little or no warning. They target:
+Terrorist groups continue planning kidnappings and possible attacks in Niger. Terrorists may attack with little or no warning. They target:
 
 * Tourist destinations visited by foreigners
 * Foreign and local government facilities
@@ -59,7 +59,7 @@ If you decide to travel to Niger:
 
 **Border Regions – Level 4: Do Not Travel**
 
-Do not travel to the Malian border area, Diffa region, Agadez, and the Lake Chad region.  Do not travel to these areas for any reason.  The U.S. Embassy requires U.S. government personnel working in Niger to use armed escorts and armored vehicles when traveling to these areas, for both official and personal travel.  Terrorist groups have crossed the border and launched multiple deadly attacks on Nigerien security forces.
+Do not travel to the Malian border area, Diffa region, northern Agadez, and the Lake Chad region.  Do not travel to these areas for any reason.  The U.S. Embassy requires U.S. government personnel working in Niger to use armed escorts and armored vehicles when traveling to these areas, for both official and personal travel.  Terrorist groups have crossed the border and launched multiple deadly attacks on Nigerien security forces.
 
 Visit our website for [Travel to High-Risk Areas](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/high-risk-travelers.html).
 

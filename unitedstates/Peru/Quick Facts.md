@@ -8,15 +8,15 @@ Must have six months validity at time of entry.
 
 BLANK PASSPORT PAGES:
 
-One page required for entry stamp.
+One blank visa page required for entry stamp.
 
 TOURIST VISA REQUIRED:
 
-Free, issued at the port of entry.
+None for tourist stays less than 90 days.
 
 VACCINATIONS:
 
-None Required.
+None.
 
 CURRENCY RESTRICTIONS FOR ENTRY:
 

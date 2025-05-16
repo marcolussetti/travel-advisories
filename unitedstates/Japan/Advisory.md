@@ -1,6 +1,6 @@
 # Japan Travel Advisory
 
-### Travel Advisory January 8, 2024
+### Travel Advisory May 15, 2025
 
 ### Japan - Level 1: Exercise Normal Precautions
 
@@ -14,22 +14,19 @@
 [T](javascript:void(0); "Tool Tip: Terrorism")
 [C](javascript:void(0); "Tool Tip: Crimes")
 
-Japan – Level 1: Exercise Normal Precautions
-
-Reissued after periodic review without changes.
+***Reissued after periodic review without changes.***
 
 Exercise normal precautions in Japan.
 
 Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Japan.html) for additional information on travel to Japan.
 
-If you decide to travel to Japan:
+If you decide to travel to Japan, U.S. citizens should always exercise caution when traveling abroad. Use these general tips to stay safe:
 
-* Enroll in the [Smart Traveler Enrollment Program (STEP)](https://step.state.gov/) to receive Alerts and make it easier to locate you in an emergency.
-* Follow the Department of State on [Facebook](https://www.facebook.com/travelgov/) and [Twitter](https://twitter.com/travelgov).
-* Follow Embassy Tokyo’s American Citizen Services section on [Facebook](http://www.facebook.com/ACSTokyo) and [Twitter](https://twitter.com/acstokyo).
-* Review the [Country Security Report](https://www.osac.gov/Content/Browse/Report?subContentTypes=Country%20Security%20Report) for Japan.
-* Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) related to your travel.
-* Prepare a contingency plan for emergency situations. Review the [Traveler’s Checklist](https://travel.state.gov/content/passports/en/go/checklist.html).
+* Enroll in the[Smart Traveler Enrollment Program (STEP)](https://mytravel.state.gov/s/step) to receive messages and Alerts from the U.S. Embassy and make it easier to locate you in an emergency.
+* Review the [Country Security Report](https://www.osac.gov/Country/Japan/Detail) for Japan.
+* Prepare a contingency plan for emergency situations.  Review the [Traveler’s Checklist](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-checklist.html#_blank).
+* Visit the CDC page for [the latest Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) related to your travel and return to the United States.
+* We highly recommend that you buy insurance before you travel. Check with your [travel insurance provider](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) about evacuation assistance, medical insurance, and trip cancellation coverage.
 
 ### Travel Advisory Levels
 

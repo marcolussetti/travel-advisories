@@ -2,38 +2,30 @@
 
 [#### Entry, Exit and Visa Requirements](javascript:void(0); "Entry, Exit and Visa Requirements")
 
-**COVID-19 Requirements**
+**Requirements for Entry:**
 
-* There are no COVID-related entry requirements for U.S. citizens.
+* Peru requires everyone entering the country to have passports valid for at least six months from the date of entry into Peru. Travelers with less than six months validity in their passports will be refused entry into Peru.
+* Your approved length of stay will be determined by Peruvian border officials at the time of entry. Overstays result in fines you must pay to Peru to depart the country.
+* The U.S. Embassy is unable to assist if you are denied entry into Peru. Airlines must return travelers who are denied entry to their point of origin.
 
-**Requirements for Entry**:
+**Requirements for Exit:**
 
-* A passport with six months validity is required to enter Peru. Migraciones (Immigration) authorities may also require evidence of return/onward travel.
-* Be sure your date and place of entry is officially documented by Migraciones, whether you arrive at a port, airport, or land border.
-* Your length of approved stay will be determined by border officials at the time of entry, and can range from 30 to 183 days. Extensions for tourists are usually not approved, and overstays result in fines.
-* The Embassy is unable to assist if you are denied entry. Peruvian immigration requires airlines to return travelers who are denied entry to their point of origin.
+* Make sure immigration officials record your entry into Peru upon arrival. An entry record (such as a passport stamp) is required even at remote land border crossings.
+* If you do not have an entry record, you will not be allowed to exit the country until immigration authorities confirm the time and place of your entry into the country. This process can take several weeks for you to resolve through Superintendencia Nacional de Migraciones (Immigration). You will likely have to pay an exit fine and can be subject to a 15-year ban on re-entering Peru.
+* Report lost/stolen passports to local police immediately and keep the report. You must apply for a new passport at the Embassy to depart Peru. You may be required to present your police report to immigration authorities upon departure.
 
-**Requirements for Exit**:
+**Travel with Minors:** Peruvian immigration procedures are complex for minors traveling without one or both parents/legal guardians.
 
-* If you do not have an entry record, you will not be allowed to exit the country until immigration authorities confirm the time and place of your entry into the country. This can be a difficult process, costing considerable time and money to resolve.
-* Make sure Migraciones (Immigration) records your entry, and then save the record for your exit. An entry record is required even at remote border crossings, where often the proper officials are not present.
-* Immediately report lost/stolen passports to local police and keep the report. You must apply for a new passport at the Embassy and obtain a replacement entry record from Migraciones using your police report prior to exiting Peru.
+U.S. citizen minors under the age of 18 traveling to Peru alone or with only one parent do not usually require additional documentation if entering as a tourist and staying for less than 183 days. If the stay lasts more than 183 days, or if they are dual U.S.-Peruvian nationals entering Peru with their Peruvian passport, they will require an "Autorización de Viaje para Menores de Edad" (Travel Authorization for Minors) to leave the country, regardless of the length of their trip. Please refer to [the Peruvian Ministry of Foreign Affairs’ website](https://www.gob.pe/rree) for more information.  There are [very limited exceptions](https://busquedas.elperuano.pe/dispositivo/NL/2353462-2) to this rule.
 
-**Travel with Minors**: Regardless of nationality, all children who are traveling with both birth parents are required to have a valid passport and the necessary visa or citizenship of the country where they are traveling. Peruvian immigration procedures are complex for minors traveling without one or both parents/legal guardians.
+An “[Autorización de Viaje](https://www.gob.pe/144-autorizacion-de-viaje-para-menores-de-edad)” is a written, notarized authorization issued by the Peruvian government with the approval and consent of the non-traveling parent. It can also be authorized by a Peruvian judge when the non-traveling parent is absent or missing. Peruvian immigration authorities will not accept a document notarized by the U.S. Embassy or a U.S. notary in lieu of an “Autorización de Viaje.”
 
-For entry/exit from Peru, U.S. citizen minors under the age of 18, traveling alone (or with only one parent), generally do not require additional documentation if entering as a tourist for less than 183 days. However, if the stay lasts more than 183 days, then a Permiso Notarial de Viaje is required (see below).
+You can get an “Autorización de Viaje” from a Peruvian notary or a judge, or overseas at a [Peruvian consulate](https://www.consulado.pe/paginas/Inicio.aspx). An apostilled U.S. birth certificate may be required for issuance of an “Autorización de Viaje.”
 
-U.S. citizen minors who are dual national Peruvians, traveling alone (or with only one parent), require a Permiso Notarial de Viaje. Furthermore, step-parents or guardians accompanying a dual U.S.-Peruvian citizen minor must provide a Permiso Notarial de Viaje from the non-traveling minor’s parents (as listed on the birth certificate). Finally, if an accompanying parent has sole custody, legal documentation is required (such as a foreign court-approved custody document stating sole custody, a death certificate, a Peruvian court-approved document for travel, or a birth certificate listing only one parent).
+The U.S. Embassy is unable to assist travelers who are prevented from traveling for lack of an Autorización de Viaje.
 
-A Permiso Notarial de Viaje is a written, notarized authorization from the non-traveling parent(s). Peruvian immigration will not accept a document notarized by the U.S. Embassy or a document notarized by a U.S. notary in lieu of a Permiso Notarial de Viaje. Please be aware that these authorizations are valid for 30 days and one trip only.
+Visit the [Embassy of Peru website](https://www.gob.pe/embajada-del-peru-en-estados-unidos) for the most current visa information.
 
-How to get a Permiso Notarial de Viaje:
+**HIV/AIDS Restrictions:** The U.S. Department of State is unaware of any HIV/AIDS entry restrictions for visitors to or foreign residents of Peru.
 
-* In the United States, at the nearest Peruvian Consulate. There are multiple [locations](http://www.consulado.pe/paginas/Inicio.aspx).
-* In Peru, at most Peruvian notaries. An apostilled U.S. birth certificate is required for issuance.
-
-**The U.S. Embassy is unable to assist travelers who are prevented from traveling for lack of a Permiso Notarial de Viaje.**
-
-**HIV Restrictions**: The U.S. Department of State is unaware of any HIV/AIDS entry restrictions for visitors to, or foreign residents of, Peru.
-
-Find information on [dual nationality](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/Dual-Nationality-Travelers.html), [prevention of international child abduction](https://travel.state.gov/content/travel/en/International-Parental-Child-Abduction/prevention/stopping-abduction-in-progress.html), and [customs regulations](https://travel.state.gov/content/travel/en/international-travel/before-you-go/customs-and-import.html) on our websites.
+Find information on [dual nationality](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/Dual-Nationality-Travelers.html), [prevention of international child abduction](https://travel.state.gov/content/travel/en/International-Parental-Child-Abduction.html), and [customs regulations](https://travel.state.gov/content/travel/en/international-travel/before-you-go/customs-and-import.html) on our websites.

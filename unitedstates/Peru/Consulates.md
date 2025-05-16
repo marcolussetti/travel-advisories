@@ -8,7 +8,6 @@ Surco, Lima 33
 Peru  
 Telephone:** + (51)(1) 618-2000  
 **Emergency After-Hours Telephone:** + (51)(1) 618-2000  
-**Fax:** + (51) (1) 618-2724  
 **Email:** [LimaACS@state.gov](mailto:LimaACS@state.gov)
 
 ### Consulates
@@ -17,6 +16,5 @@ Telephone:** + (51)(1) 618-2000
 **Av. El Sol 449, Suite #201**  
 **Cusco, Peru**  
 **Telephone:** + (51)(84) 231-474  
-**Emergency After-Hours Telephone:**+ (51)(1) 618-2000 **Fax:** + (51)(84) 245-102
-
+**Emergency After-Hours Telephone:**+ (51)(1) 618-2000  
 **Email:** [CuscoACS@state.gov](mailto:CuscoACS@state.gov)
