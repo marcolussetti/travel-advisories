@@ -8,10 +8,11 @@ Monday to Friday 09:00-12:30 and 13:30-17:00
 
 ### Embassy of Ireland, Republic of Korea
 
-Leema Bldg. 13F.   
-42, Jongro 1-gil   
+13th Floor, Leema Bldg.   
+42, Jongro 1-gil,   
 Jongno-gu   
-Seoul, Korea 03152
+Seoul, Korea   
+03152
 
 [Tel: +02 721 7200](tel:+02721 7200)
 

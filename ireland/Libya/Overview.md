@@ -4,6 +4,14 @@
 
 Do Not Travel
 
+### **Travel Alert**
+
+### **Armed activity in Tripoli**
+
+Embassy Rome is closely monitoring reports of fighting and armed violence in Tripoli. Should such violence break out in your vicinity, you are strongly advised to shelter in place until it is safe to leave, ensuring that you keep away from windows. You should keep mobile phones charged and have emergency food and first aid materials available to you. The Embassy’s strong advice for Libya continues to be that you should make arrangements to leave by commercial means when it is safe to do so. At present, the information available to the Embassy is that a number of commercial flights are continuing to operate out of Libya. If you intend to depart Libya by air, please confirm with the airline that the flight will depart before making arrangements to travel to the airport. Please ensure that your journey to the airport is sufficiently safe before departure. Continue to monitor local news and local information networks for updates on the evolving security situation.
+
+Irish citizens requiring consular assistance in Libya should [**contact Embassy Rome**](https://www.ireland.ie/en/italy/rome/contact/). Since there is no Embassy of Ireland in Libya, please be aware that Ireland is very limited in the consular assistance which it can offer to those currently in Libya.
+
 ### **General Travel Advice**
 
 **The Department of Foreign Affairs strongly advises against travel to Libya at this time**.
@@ -38,5 +46,5 @@ Under the EU Consular Protection Directive, Irish nationals may seek assistance 
 
 * Get comprehensive travel insurance that covers all planned activities.
 * [**Register**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/) your details with us so that we can contact you quickly if there’s an unforeseen crisis like a natural disaster or a family emergency.
-* Follow us on twitter [**@dfatravelwise**](https://www.twitter.com/DFATravelWise) for the latest travel updates.
+* Follow us on X [**@dfatravelwise**](https://www.twitter.com/DFATravelWise) and Instagram [**@dfatravelwise**](https://www.instagram.com/dfatravelwise/) for the latest travel updates.
 * Read our [**‘Know Before You Go’**](https://www.ireland.ie/en/dfa/overseas-travel/know-before-you-go/) guide.

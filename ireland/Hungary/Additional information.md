@@ -46,4 +46,4 @@ In Pest:
 
 Dental Services:
 
-[10 Best Clinics in Budapest | Book Now! - Dental Departures](https://www.dentaldepartures.com/info/treatments/hungary/central-hungary/budapest)
+[**10 Best Clinics in Budapest | Book Now! - Dental Departures**](https://www.dentaldepartures.com/info/treatments/hungary/central-hungary/budapest)

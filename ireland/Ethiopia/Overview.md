@@ -6,13 +6,13 @@ High Degree of Caution
 
 ### **Travel Alert**
 
-Ethiopia is currently experiencing high levels of seismic and volcanic activity. A number of earthquakes have been occurred in the Afar and Amhara regional states. Tremors were recorded in the surrounding areas, including the state’s capital, Addis Ababa. On Saturday, 4 January 2025, Ethiopian authorities evacuated people from around Mount Dofan in Awash National Park due to increased volcanic activity.
+As of Sunday, 11 May 2025, all foreign nationals, including Irish citizens, have been forbidden from boarding flights bound for domestic airports in Tigray and Afar Regional States until further notice. Irish citizens presently in Tigray and Afar are advised to make contact with the Embassy of Ireland in Addis Ababa.
 
-Updates on earthquakes and seismic activities can be monitored on the [Global Disaster Alert and Coordination System (GDACS).](https://gdacs.org/) Irish citizens in Ethiopia are advised to familiarise themselves with safety procedures in the event of an earthquake. This can include identifying a room that can be used as a shelter following an earthquake as well as having an emergency supply kit and closed-toed shoes within reach of one’s bed. Irish citizens may also consult the [Red Cross](https://www.ifrc.org/our-work/disasters-climate-and-crises/what-disaster/earthquakes), which provides comprehensive information on how to respond after an earthquake. Irish citizens should follow the advice of local authorities and monitor local media should a major earthquake occur in Ethiopia.
+The Ethiopian authorities may implement travel restrictions anywhere at short notice. Irish citizens should check with their travel operator before travelling.
 
 ### **General Travel Advice**
 
-Irish citizens require a visa to enter Ethiopia. Visas are available as an [eVisa online](http://www.evisa.gov.et/) via the official Government website. Please be aware that there are a number of unofficial websites charging additional fees to apply for the visa on your behalf. Irish citizens entering Ethiopia should allow additional time for the processing of e-visa applications as there may be delays.
+Irish citizens require a visa to enter Ethiopia. Visas are available as an [**eVisa online**](http://www.evisa.gov.et/) via the official Government website. Please be aware that there are a number of unofficial websites charging additional fees to apply for the visa on your behalf. Irish citizens entering Ethiopia should allow additional time for the processing of e-visa applications as there may be delays.
 
 Visa on arrival services are available for tourism visas only, but Irish citizens entering Ethiopia for tourism purposes are encouraged to obtain the appropriate visa before they travel to facilitate smoother entry into Ethiopia. Visa on arrival services can only be paid in US Dollars at the point of entry into Ethiopia.
 
@@ -53,6 +53,8 @@ The Embassy recommends against all travel to Amhara Regional State as the region
 
 The Cessation of Hostilities Agreement signed in November 2022 ended the large-scale fighting in Tigray. Nonetheless there continues to be reports of sporadic and indiscriminate violence particularly in the disputed of territory of Western Tigray and the Raya area of southern Tigray, but also elsewhere in the region, including in major urban centres such as Mekelle. Irish citizens should avoid all travel to areas west of the Tekeze River and within 10km of the border with Amhara Regional State and the border with Eritrea. They should avoid non-essential travel to the rest of the region.
 
+As of Sunday, 11 May 2025, all foreign nationals are restricted from taking flights to Tigray Regional State. Until further notice, Irish citizens are advised against attempting to travel on flights bound for any airport in the region.
+
 ### **Addis Ababa**
 
 Addis Ababa is currently calm from a security perspective. However, citizens should exercise a high degree of caution, monitor local media and avoid any signs of demonstration. Irish citizens both resident in and visiting Addis should carry copies of identification at all times.
@@ -69,7 +71,7 @@ Due to clashes between armed groups and security forces, inter-communal violence
 
 There have been a number of instances of kidnapping for ransom in Oromia region. These have targeted Ethiopian nationals and foreign nationals. Travel by road should be minimised; travellers are encouraged to travel between regions by air to the greatest degree possible.
 
-Irish citizens travelling on the A1 road from Addis Ababa to Bishoftu should exercise a high degree of caution.Travel along this road at night is discouraged due to the possibility of roadblocks or attacks on vehicles.
+Irish citizens travelling on the A1 road from Addis Ababa to Bishoftu should exercise a high degree of caution. Travel along this road at night is discouraged due to the possibility of roadblocks or attacks on vehicles.
 
 Irish citizens planning to travel elsewhere within Oromia region should seek security advice from local contacts in advance of travel. Irish citizens should also minimise road transportation when possible due to risk of impromptu road blocks and checkpoints.
 
@@ -79,6 +81,8 @@ The embassy is aware of reports of attacks on goods vehicles and trucks moving a
 
 Tensions in the border zones between Afar and Somali regions can give rise to unrest and violence.
 
+As of Sunday, 11 May 2025, all foreign nationals are restricted from taking flights to Afar Regional State. Until further notice, Irish citizens are advised against attempting to travel on flights bound for Semera Airport.
+
 ### **Southern Regions**
 
 Border areas with Kenya and South Sudan can be volatile and should be avoided. If travelling in southern and south-western Ethiopia, you should exercise caution and follow the advice of local authorities.
@@ -87,7 +91,7 @@ Border areas with Kenya and South Sudan can be volatile and should be avoided. I
 
 Serious confrontations between ethnic groups have taken place along the Oromia-Somali and Afar-Somali borders, resulting in the mass displacement of people. Caution is advised along border areas with other regional states. All travel to the international border with Somalia should be avoided.
 
-Al-Shabaab has a history of terrorist activity along the border regions with Somalia in Somali Regional State.The recent tensions between Ethiopia and Somalia have reportedly been used to drive recruitment for the group, and the local security situation is unpredictable. Travellers to Somali regional state should remain vigilant at all times and are advised to seek specific advice in advance of travel.
+Al-Shabaab has a history of terrorist activity along the border regions with Somalia in Somali Regional State. The recent tensions between Ethiopia and Somalia have reportedly been used to drive recruitment for the group, and the local security situation is unpredictable. Travellers to Somali regional state should remain vigilant at all times and are advised to seek specific advice in advance of travel.
 
 ### **Emergency Assistance**
 

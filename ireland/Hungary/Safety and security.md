@@ -1,5 +1,11 @@
 ## Safety and security
 
+### **LGBT+ travellers**
+
+Same-sex sexual activity is legal in Hungary. Budapest is generally tolerant and open. Outside of Budapest, however, showing affection in public may receive unwanted attention.
+
+On 19 March 2025, Hungary passed legislation that could be used as a legal basis to ban future rallies and marches that depict or promote LGBT+ identities to minors. Participants in unsanctioned events could be identified by facial recognition technology and face fines of up to 200,000 Hungarian Forints. If you are planning to attend Budapest Pride, you should follow local media and the Embassy of Ireland’s social media for updates.
+
 ### **Road safety awareness**
 
 It is important to be road safe aware, especially because things can be a bit different in a new country. Please take special care when crossing the road or driving, especially in your early weeks and months. Increased attention to road safety could save your life.
