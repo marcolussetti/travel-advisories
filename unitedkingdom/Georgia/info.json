@@ -1,11 +1,11 @@
 {
     "name": "Georgia",
-    "update_reason": "Updated information on ongoing political demonstrations (\u2018Safety and security\u2019 page).",
+    "update_reason": "Updated information about ongoing political demonstrations (\u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Georgia/Warnings and insurance.md",
-            "update_date": "2025-03-07T12:41:13+00:00"
+            "update_date": "2025-05-16T16:24:14+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Georgia/Getting help.md"
         }
     ],
-    "update_date": "2025-03-07T12:41:13+00:00"
+    "update_date": "2025-05-16T16:24:14+01:00"
 }

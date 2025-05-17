@@ -51,7 +51,7 @@ This stamp has been issued to travellers who have no Palestinian or other Arab a
 
 The Israeli authorities decide if you can enter Israel. You may experience lengthy personal questioning and baggage searches at security when you enter and leave Israel. Some visitors may face searches and questioning, including those:
 
-* with Palestinian or Arab ancestry
+* with Palestinian or Arab ancestry, or with ancestry of a country that is predominantly Muslim
 * with evidence of previous travel which may be considered suspicious
 * who are considered to have publicly criticised the state of Israel
 
@@ -59,8 +59,10 @@ Foreign nationals can legally be refused entry if they:
 
 * have publicly called for a boycott of Israel or Israeli settlements
 * belong to an organisation which has called for a boycott
+* have publicly made statements denying the Holocaust or the October 7 terrorist attack
+* have publicly made statements of support for the prosecution of Israeli citizens in a foreign country or in an international court for actions they took during their military duties for Israel
 
-Travellers may occasionally be held at border control for more checks. This is not routine, but some travellers experience delays, sometimes for several hours. Israeli security has sometimes requested access to travellers’ personal email or social media accounts as a condition of entry.
+Travellers, particularly those who fall into these categories, may be held at border control for more checks, sometimes for several hours, including in detention facilities. Israeli security has sometimes requested access to travellers’ personal email or social media accounts as a condition of entry. Your baggage or digital devices may also be searched and could be withheld.
 
 ### Previous travel to countries in the region
 

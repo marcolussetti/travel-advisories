@@ -64,7 +64,7 @@ Foreign forces and mercenaries continue to operate in Libya. The Interim Governm
 
 There have been protests throughout Libya against the continued political deadlock, lack of basic service provision and corruption.
 
-If you choose to travel to Libya , you should:
+If you choose to travel to Libya, you should:
 
 * monitor the local security situation carefully
 * remain vigilant

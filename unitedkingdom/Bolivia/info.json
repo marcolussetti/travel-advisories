@@ -1,11 +1,11 @@
 {
     "name": "Bolivia",
-    "update_reason": "Updated information on health risks in Bolivia ('Health' page).",
+    "update_reason": "Information about protest in La Paz likely to cause widespread disruption ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Bolivia/Warnings and insurance.md",
-            "update_date": "2025-04-03T12:35:38+01:00"
+            "update_date": "2025-05-16T23:25:25+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Bolivia/Getting help.md"
         }
     ],
-    "update_date": "2025-04-03T12:35:38+01:00"
+    "update_date": "2025-05-16T23:25:25+01:00"
 }

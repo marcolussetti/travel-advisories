@@ -1,11 +1,11 @@
 {
     "name": "Israel",
-    "update_reason": "Updated information that to enter Israel  your passport must have an expiry date of at least 90 days after the date you arrive (\u2018Entry requirements\u2019 page).",
+    "update_reason": "Updated information on why foreign nationals may be legally refused entry into Israel (See 'Immigration checks' on the 'Entry requirements' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Israel/Warnings and insurance.md",
-            "update_date": "2025-05-13T12:09:58+01:00"
+            "update_date": "2025-05-16T14:26:18+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Israel/Getting help.md"
         }
     ],
-    "update_date": "2025-05-13T12:09:58+01:00"
+    "update_date": "2025-05-16T14:26:18+01:00"
 }

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   14 May 2025
+:   17 May 2025
 
 Updated:
-:   13 May 2025
+:   16 May 2025
 
 Latest update:
-:   Updated information that to enter Israel your passport must have an expiry date of at least 90 days after the date you arrive (‘Entry requirements’ page).
+:   Updated information on why foreign nationals may be legally refused entry into Israel (See 'Immigration checks' on the 'Entry requirements' page).
 
 ![](https://assets.publishing.service.gov.uk/media/675c220eb745d5f7a053eefc/FCDO__TA__022_-_Israel_Travel_Advice_Ed19__WEB_.jpg)
 
