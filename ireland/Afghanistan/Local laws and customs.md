@@ -2,28 +2,31 @@
 
 #### **We advise against all travel to Afghanistan.**
 
+### Taliban Rule
+
+The Taliban enforces a very strict set of decrees that govern public behaviour, media, dress and customs, particularly interactions between genders. The upmost care should be taken in all public behaviours in Afghanistan. Punishments for violations of these decrees can be very severe.
+
 ### **Muslim culture**
 
-Afghanistan is a Muslim country in which Islamic law, customs and dress are universally respected. You should respect them fully. You may not seek to convert Muslims to other faiths.
+Afghanistan is a Muslim country in which Islamic law, customs and dress are universally respected. Local authorities will expect you to respect them at all times. You may not seek to convert Muslims to other faiths.
 
-When travelling in Afghanistan, take care not to offend local culture or religious beliefs, especially during the holy month of Ramadan or other religious festivals. Be conscious of your dress and behaviour if you intend to visit places of worship.
+When travelling in Afghanistan, take care not to offend local culture or religious beliefs. Be conscious of your dress and behaviour if you intend to visit places of worship. All women, including foreign nationals, must fully cover themselves in public. Men must dress modestly and avoid wearing clothing such as sleeveless shirts or shorts.
 
-During Ramadan, Muslims are not permitted to eat, drink or smoke during daylight hours. To avoid offence, you should not eat, drink or smoke in public during this time. Guide books, local hoteliers and tour guides can be good sources of information for how to behave and dress respectfully.
+During Ramadan, Muslims are not permitted to eat, drink or smoke during daylight hours. To avoid offence, you should not eat, drink or smoke in public during this time.
 
 ### **Sharia law**
 
-Sharia law is an Islamic body of law and moral code. Penalties under Sharia law can be very severe, particularly for offences such as theft and adultery. If you are travelling in an area governed by Sharia law, we advise you to respect local religious traditions and avoid offending local sensitivities. Visitors should dress conservatively and women are advised to cover their legs, arms and head.
+Afghanistan is governed by Sharia law, an Islamic body of law and moral code. Penalties under Sharia law can be very severe, particularly for offences such as theft and adultery. We advise you to take the utmost care to respect local religious traditions and avoid offending local sensitivities. Visitors should dress conservatively and women are advised to cover their legs, arms and head.
 
 ### **Female visitors**
 
-Female visitors can face particular issues around security and dealing with the religious and cultural beliefs of the countries they visit (especially if they are travelling alone). We advise you do some research before you travel, so you know what to expect.
+Female visitors can face particular issues around security in Afghanistan. It is illegal for women to travel more than 75km without being accompanied by their husband, father or brother. This could affect a woman’s ability to leave Afghanistan.
 
-Some quick tips include:
+All women, including foreign nationals, must fully cover themselves in public. A woman must wear:
 
-* Always take basic personal safety precautions, such as not walking alone at night or in quiet areas.
-* Do not leave your food or drink unattended.
-* Keep details of your travel plans and where you are staying to yourself.
-* Dress modestly if you are in a Muslim or socially conservative country.
+* loose-fitting clothing to conceal her body, arms and legs
+* a headscarf to cover her hair
+* a veil to cover her face
 
 ### **Illegal drugs**
 
@@ -39,4 +42,4 @@ It is illegal to import and use narcotics, alcohol and pork products.
 
 ### **Photography**
 
-Photography of government buildings, military installations and palaces is not allowed.  You should avoid photographing local people without their agreement.
+Photography of government buildings, military installations, checkpoints and palaces is not allowed. You should avoid photographing local people without their agreement.

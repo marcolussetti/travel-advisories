@@ -2,6 +2,10 @@
 
 Remember, the local laws apply to travellers and it is their responsibility to follow them. Be sensitive to local customs, traditions and practices as behaviour may be seen as improper, hostile or even illegal.
 
+### **Assisted human reproduction (surrogacy)**
+
+The Department of Foreign Affairs urges caution in respect of undertaking a surrogacy arrangement in Georgia. Issues around surrogacy are complex and fact specific. Irish citizens should obtain independent and comprehensive legal advice before entering into any arrangement. In case of a query, intending parents should email the Honorary Consul in Georgia, copying the Embassy of Ireland in Türkiye.
+
 ### **Illegal drugs**
 
 Illegal drug use (no matter what the drug) carries stiff penalties, including fines and long prison terms.

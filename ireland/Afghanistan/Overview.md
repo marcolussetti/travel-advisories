@@ -6,19 +6,21 @@ Do Not Travel
 
 ### **General Travel Advice**
 
-The Department of Foreign Affairs strongly advises against all travel to Afghanistan because of the extremely volatile security situation and high risk of terrorist attacks. There is also a heightened risk of arbitrary detention of foreign nationals in Afghanistan.
+The Department of Foreign Affairs and Trade strongly advises against all travel to Afghanistan due to the extremely volatile security situation, high risk of terrorism, and the severe limitation of human rights in the country. There is also a heightened risk of kidnapping and arbitrary detention of foreign nationals in Afghanistan. If you are detained, the Irish government may not be informed.
 
-We advise Irish citizens who remain in Afghanistan to register with the Irish Embassy in Abu Dhabi if they have not already done so. We can offer only extremely limited remote consular support to Irish citizens who choose to travel to or remain in Afghanistan, bearing in mind that no EU Member States are operational in Afghanistan at this time.
+No EU Member States have operational Embassies in Afghanistan at this time, including Ireland. The Department of Foreign Affairs and Trade therefore has no ability to provide on-site consular assistance and is very limited in its ability to help any Irish citizen in Afghanistan.
 
-Travel throughout Afghanistan is extremely dangerous, and you should, if travel is absolutely necessary, exercise extreme caution in your movements. We would advise against staying in or near hotels until further notice.
+We advise Irish citizens who remain in Afghanistan to register with the Irish Embassy in Islamabad, Pakistan if they have not already done so and to leave the country as soon as possible. If you remain in Afghanistan despite this travel advice, be aware of the significant risk and ensure you have a carefully and professionally prepared security plan.
 
-Operations at Kabul International Airport remain limited, although there are some commercial flights operating. Some people may be considering taking overland routes into neighbouring countries. We urge you to carefully consider the risks of attempting to travel overland. Some border crossings may be closed or may close without notice.
+Travel throughout Afghanistan is extremely dangerous and unpredictable, and you should, if travel is absolutely necessary, exercise extreme caution in your movements.
+
+Operations at Kabul International Airport remain limited, although there are some commercial flights operating. Kabul Airport has been the target of terrorist attacks in the past and does not meet international safety and security standards. Overland or cross-border travel is very dangerous in Afghanistan. We urge you to carefully consider the risks of attempting to travel overland. Some border crossings may close without notice and there can be incidents of armed clashes at the border with Pakistan.
 
 ### **Our tips for Safe Travels:**
 
 * Get comprehensive travel insurance that covers all your planned activities.
 * [**Register**](/en/dfa/overseas-travel/citizens-registration/) your details with us so that we can contact you quickly if there’s an unforeseen crisis like a natural disaster or a family emergency.
-* Follow us on twitter [**@dfatravelwise**](https://www.twitter.com/DFATravelWise) for the latest travel updates.
+* Follow us on X [**@dfatravelwise**](https://x.com/dfatravelwise) and Instagram [**@dfatravelwise**](https://www.instagram.com/dfatravelwise/) for the latest travel updates.
 * Read our [**‘Know Before You Go’**](/en/dfa/overseas-travel/know-before-you-go/) guide.
 
-As there is no Irish Embassy in Afghanistan, we are limited in the help we can offer you in an emergency. However, if you need assistance, you can contact the [**Irish Embassy in Abu Dhabi**](/en/uae/abudhabi/).
+As there is no Irish Embassy in Afghanistan, we are limited in the help we can offer you in an emergency. However, if you need assistance, you can contact the [**Embassy of Ireland, Pakistan**](https://www.ireland.ie/en/islamabad/)**.**

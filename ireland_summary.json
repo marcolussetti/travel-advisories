@@ -2,7 +2,7 @@
     {
         "destination": "Afghanistan",
         "risk_level": "Do Not Travel",
-        "last_updated": "2024-02-20T00:00:00",
+        "last_updated": "2025-05-16T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/afghanistan/"
     },
     {
@@ -428,7 +428,7 @@
     {
         "destination": "Georgia",
         "risk_level": "Normal Precautions",
-        "last_updated": "2025-03-20T00:00:00",
+        "last_updated": "2025-05-16T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/georgia/"
     },
     {
@@ -842,7 +842,7 @@
     {
         "destination": "Nigeria",
         "risk_level": "Avoid Non-Essential Travel",
-        "last_updated": "2025-04-07T00:00:00",
+        "last_updated": "2025-05-16T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/nigeria/"
     },
     {
@@ -1219,8 +1219,8 @@
     },
     {
         "destination": "Vanuatu",
-        "risk_level": "High Degree of Caution",
-        "last_updated": "2024-12-23T00:00:00",
+        "risk_level": "Normal Precautions",
+        "last_updated": "2025-05-16T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/vanuatu/"
     },
     {

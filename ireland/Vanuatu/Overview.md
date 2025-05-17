@@ -2,17 +2,7 @@
 
 ### **Security Status**
 
-High Degree of Caution
-
-### Travel Alert
-
-A large earthquake struck Port Vila and surrounding areas on 17 December. There is widespread damage to infrastructure, including to roads and buildings. Landslides have occurred. Essential services have been disrupted. Multiple aftershocks have occurred and these could continue.
-
-Port Vila International Airport has re-opened to commercial flights. Please contact your airline for further information.
-
-Irish citizens in Vanuatu are advised to monitor local media for updates and follow the advice of local authorities at all times, including ensuring awareness of, and adherence to, any evacuation orders. If you hear a tsunami warning siren or experience a long or strong tremor, move to higher ground.
-
-The Embassy of Ireland in Wellington, New Zealand, which is accredited to Vanuatu, can be contacted on [**+6444712252**](tel:006444712252)or by [**email to the Embassy**](/en/new-zealand/wellington/contact/).
+Normal Precautions
 
 ### **General Travel Advice**
 

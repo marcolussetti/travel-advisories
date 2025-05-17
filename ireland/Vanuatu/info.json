@@ -1,6 +1,6 @@
 {
     "name": "Vanuatu",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "Normal Precautions",
     "pages": [
         {
             "title": "Overview",
@@ -27,5 +27,5 @@
             "file": "ireland/Vanuatu/Embassy contact.md"
         }
     ],
-    "update_date": "2024-12-23T00:00:00"
+    "update_date": "2025-05-16T00:00:00"
 }
