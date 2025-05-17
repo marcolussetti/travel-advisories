@@ -1,7 +1,7 @@
 {
     "name": "Italy",
-    "update_reason": "Safety and security \u2013 updated information on mass gatherings in Rome and Vatican",
-    "update_date": "2025-05-14T15:57:00",
+    "update_reason": "The Need help? section was updated.",
+    "update_date": "2025-05-16T08:55:00",
     "sections": {
         "risk": "canada/Italy/risk.md",
         "security": "canada/Italy/security.md",
