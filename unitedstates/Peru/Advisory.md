@@ -1,6 +1,6 @@
 # Peru Travel Advisory
 
-### Travel Advisory November 15, 2023
+### Travel Advisory May 16, 2025
 
 ### Peru - Level 2: Exercise Increased Caution
 
@@ -14,52 +14,53 @@
 [T](javascript:void(0); "Tool Tip: Terrorism")
 [C](javascript:void(0); "Tool Tip: Crimes")
 
-***Last Update: Reissued with updates to crime information.***
+***Reissued after periodic review with minor edits.***
 
-Exercise increased caution due to **crime, civil unrest, and the possibility of kidnapping**. Some areas have increased risk. Read the entire Travel Advisory.
+Exercise increased caution due to **crime, civil unrest, and the risk of kidnapping.** Some areas have increased risk. Read the entire Travel Advisory.
 
 Do not travel to:
 
-* The Colombian-Peruvian border area in the Loreto Region due to **crime**.
-* The Valley of the Apurímac, Ene, and Mantaro Rivers (VRAEM), including areas within the Departments of Ayacucho, Cusco, Huancavelica, and Junin, due to **crime** and **terrorism**.
+* The Colombia-Peru border area in the Loreto Region due to **crime**.
+* The Valley of the Apurímac, Ene, and Mantaro Rivers (VRAEM), which includes Vilcabamba, due to **crime** and threats of **terrorism**.
+* Some areas within the regions of Ayacucho, Cusco\*, Huancavelica, and Junín, due to **crime** and threats of **terrorism**.
 
-**Country Summary**: Crime, including petty theft, carjackings, muggings, assaults, and other violent crime, is common in Peru and can occur during daylight hours despite the presence of many witnesses. Kidnapping is rare, but does occur. The risk of crime increases at night. Organized criminal groups have been known to use roadblocks to rob victims in areas outside of the capital city of Lima.
+\* **The city of** **Cusco and popular tourist sites nearby, like the Sacred Valley, the Inca Trail, and Machu Picchu, are not located in the affected area.**
 
-Demonstrations occur regularly throughout the country. Public demonstrations can take place for a variety of political and economic issues. Demonstrations can cause the shutdown of local roads, trains, and major highways, often without prior notice or estimated reopening timelines. Road closures may significantly reduce access to public transportation and airports and may disrupt travel both within and between cities.
+**Country Summary:** Crime is common in Peru. Petty theft, carjackings, muggings, assaults, and other violent crime often happen even in daylight hours and with many witnesses around. Kidnapping is rare, but it does occur. The risk of crime increases at night. Criminal groups sometimes set up roadblocks to rob people in areas outside of Lima.
 
-U.S. travelers participating in Ayahuasca and Kambo ceremonies should be aware that numerous persons, including U.S. citizens, have reported that while under the influence of these substances, they have witnessed or been victims of sexual assault, rape, theft, serious health problems and injuries, and even death.
+**Ayahuasca and Kambo Usage**U.S. travelers should not use Ayahuasca or Kambo because of the known dangers. U.S. citizens have suffered serious illness and, in some cases, died after taking these drugs. They have also been sexually assaulted, injured, or robbed while under the influence of these substances.
 
-**Currently, U.S. government personnel cannot travel freely throughout Peru for security reasons**. Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Peru.html) for additional information on travel to Peru.
+**Demonstrations**Demonstrations occur regularly throughout the country. Public demonstrations can take place for a variety of political and economic issues.   Demonstrations can shut down local roads, trains, and major highways. This often happens without warning or clear information on reopening times.  Road closures can limit access to public transportation and airports. Closures may also disrupt travel in and between cities.
+
+**Due to road safety risks, U.S. government employees working in Peru are prohibited from nighttime driving** except within cities, between Lima and Huacho (to the north), and Lima and Paracas (to the south). U.S. government employees working in Peru may travel at night with commercial bus companies along the Pan-American Highway, to Huaraz, and on the Lima-Arequipa-Cusco corridor.
+
+Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Peru.html) for additional information on travel to Peru.
 
 If you decide to travel to Peru:
 
-* Be aware of your surroundings.
-* Monitor local media for breaking events and adjust your plans as needed.
-* Enroll in the [Smart Traveler Enrollment Program](http://step.state.gov/) ([STEP](http://step.state.gov/)) to receive Alerts and make it easier to locate you in an emergency.
-* Follow the Department of State on [Facebook](https://www.facebook.com/travelgov)and [Twitter](https://twitter.com/TravelGov).
-* Follow the U.S. Embassy on [Facebook](https://www.facebook.com/Peru.usembassy) and [Twitter](https://twitter.com/USEMBASSYPERU).
-* Review the U.S. Embassy [webpage](https://pe.usembassy.gov/).
-* Review the [Country Security Report](https://www.osac.gov/Content/Browse/Report?subContentTypes=Country%20Security%20Report) for Peru.
-* Prepare a contingency plan for emergency situations. Review the [Traveler’s Checklist](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-checklist.html).
-* Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) related to your travel.
+* Stay aware of your surroundings.
+* Visit our website for [Travel to High-Risk Areas](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/high-risk-travelers.html).
+* Check local media for breaking news. Be prepared to adjust your plans.
+* Avoid demonstrations and large crowds.
+* Develop a communication plan with family or your employer or host organization (if you are traveling on business), so that they can monitor your safety and location as you travel through high-risk areas. Specify how you'll confirm you're safe (text, calls, etc.), how often, and who you'll contact first to share the information.
+* Enroll in the [Smart Traveler Enrollment Program](http://step.state.gov/) ([STEP](http://step.state.gov/)) to receive messages and Alerts from the U.S. Embassy and make it easier to locate you in an emergency.
+* Review the [Country Security Report](https://www.osac.gov/Country/Peru/Detail) for Peru.
+* Prepare a plan for emergency situations. Review the [Traveler’s Checklist](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-checklist.html).
+* Visit the CDC page for the [latest Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list)related to your travel and return to the United States.
+* We strongly recommend that you buy insurance before you travel.  Check with your [travel insurance provider](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) about evacuation assistance, medical insurance, and trip cancellation coverage.
 
 **Colombian-Peruvian border area in the Loreto Region – Level 4: Do Not Travel**
 
-Drug trafficking and other criminal activity, combined with poor infrastructure, limits the capability and effectiveness of Peruvian law enforcement in this area.
+* Do not travel to these areas for any reason.
+* Drug trafficking and crime, plus poor infrastructure, limit how well Peruvian law enforcement can operate in this area.
+* Due to the risks, U.S. government employees working in Peru must obtain special authorization to travel within 20 kilometers of the Peru-Colombia border in the Loreto region.  They cannot travel on the Putumayo River, which forms much of the Peru-Colombia border.  Due to the risks, the U.S. government cannot provide emergency services to U.S. citizens in this area.
 
-The U.S. government has limited ability to provide emergency services to U.S. citizens as U.S. government personnel are restricted from traveling within 20 kilometers of the border with Colombia in the Loreto region, except on the Amazon River itself, without permission. This includes travel on the Putumayo River, which forms most of the Peru-Colombia border.
+**Valley of the Apurímac, Ene, and Mantaro Rivers (VRAEM) includes areas within the Departments of Ayacucho, Cusco, Huancavelica, and Junín – Level 4: Do Not Travel**
 
-U.S. government personnel must receive advance permission for any travel to the Peruvian-Colombian border.
-
-**Valley of the Apurímac, Ene, and Mantaro Rivers (VRAEM) includes areas within the Departments of Ayacucho, Cusco, Huancavelica, and Junin – Level 4: Do Not Travel**
-
-Remnants of the Shining Path terrorist group are active in the VRAEM. The group may attack with little or no warning, targeting Peruvian government installations and personnel.
-
-Drug trafficking and other criminal activity, combined with poor infrastructure, limit the capability and effectiveness of Peruvian law enforcement in this area.
-
-U.S. government personnel are restricted from traveling in the VRAEM except for certain areas during daylight hours. U.S. government personnel must receive advance permission for any travel to the VRAEM. The U.S. government has limited ability to provide emergency services to U.S. citizens due to these travel restrictions.
-
-Visit our website for [Travel to High-Risk Areas](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/high-risk-travelers.html).
+* Do not travel to these areas for any reason.
+* Drug trafficking and crime, plus poor infrastructure, weaken Peruvian law enforcement’s ability to act effectively in this area.
+* Remnants of the Shining Path terrorist group are still active in the VRAEM. The group might strike suddenly. They target Peruvian government sites and staff.
+* Due to security risks, U.S. government employees working in Peru must obtain special authorization to travel to the VRAEM. Due to the risks, the U.S. government can’t provide emergency services to U.S. citizens in the VRAEM.
 
 ### Travel Advisory Levels
 
