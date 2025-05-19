@@ -32,8 +32,6 @@ If you're of Chilean origin, you may be deemed a Chilean national under Chilean 
 
 If you're considered a Chilean national under Chilean law, you may need to enter and exit Chile using a Chilean passport or ‘cédula de identidad’.
 
-Different rules may apply to a child aged under 18 years who was born overseas to Chilean parents.
-
 Confirm your citizenship status and entry and exit requirements with an [embassy or consulate of Chile](https://protocol.dfat.gov.au/Public/Missions/43) before you travel.
 
 **More information:**

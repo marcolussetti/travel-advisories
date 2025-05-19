@@ -75,10 +75,6 @@ ATMs are widely available across the country. Hotels, restaurants and shops acce
 
 #### Local travel
 
-#### Death of Pope Francis
-
-Following the death of Pope Francis, large crowds are expected in Rome and the Vatican City. Monitor the media and follow the advice of local authorities.
-
 #### The Jubilee
 
 The Jubilee, also known as the Holy Year, will take place in Rome from 24 December 2024 to 6 January 2026. 

@@ -41,12 +41,12 @@ For consular help, contact the Australian Embassy in Moscow. Our ability to p
 13 Kropotkinsky Pereulok  
 Moscow 119034  
 Russia  
-Phone: (+7 495) 956-6070   
-Fax: (+7 495) 956-6170   
+  
+Phone: +7 495 956-6070   
+Fax: +7 495 956-6170   
 Website: [russia.embassy.gov.au](http://russia.embassy.gov.au)  
-Twitter: [@PosolAustralia](https://twitter.com/PosolAustralia)
-
-[Telegram: Contact @AusEmbMoscow](https://t.me/AusEmbMoscow)
+Twitter: [@PosolAustralia](https://twitter.com/PosolAustralia)  
+Telegram: [Contact @AusEmbMoscow](https://t.me/AusEmbMoscow)
 
 If you're in St Petersburg, you can also contact the Australian Consulate for limited consular help.
 
@@ -54,7 +54,8 @@ If you're in St Petersburg, you can also contact the Australian Consulate for li
 
 Moika 11  
 St Petersburg 191186 Russia  
-Tel: (+7 964) 333 7572 (NOT for visas)  
+  
+Tel: +7 964 333 7572 (NOT for visas)  
 Email: [ozcon.spb@gmail.com](mailto:ozcon.spb@gmail.com) (NOT for visas)
 
 Check the Embassy website for details about opening hours and any temporary closures.

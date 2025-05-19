@@ -140,25 +140,25 @@ If you overstay your visa, you won't be allowed to leave Russia until the Russia
 
 Authorities can detain you until they've processed your case. Penalties for overstaying include fines and deportation. You may be banned from re-entering.
 
-On 1 January, Russia introduced a temporary 4-month grace period (until 30 April 2025), where foreign nationals who violated the terms of stay in Russia can regulate their legal status and obtain necessary permits from the Russian Ministry of Internal Affairs authorities. Foreign nationals who have not regulated their legal status in Russia before 30 April 2025 will be included in the registry of ‘controlled persons’, deported from Russia and banned from re-entering.
+On 1 January, Russia introduced a temporary grace period until 10 September 2025, where foreign nationals who violated the terms of stay in Russia can regulate their legal status and obtain necessary permits from the Russian Ministry of Internal Affairs authorities. Foreign nationals who have not regulated their legal status in Russia before 10 September 2025 will be included in the registry of ‘controlled persons’, deported from Russia and banned from re-entering.
 
-**More information**
+**More information:**
 
 * [Russia's Official Website of Legal Publications](http://publication.pravo.gov.ru/document/0001202412300002) (in Russian only)
 
 #### Customs Rules
 
-Russian Customs provides a list of goods that must be declared when entering or leaving Russia, regardless of whether they come in carry-on or unaccompanied/checked-in luggage. 
+Russian Customs provides a list of goods that must be declared when entering or leaving Russia, regardless of whether they come in carry-on or unaccompanied/checked-in luggage.
 
-You must declare cash amounts exceeding the equivalent of 10,000 USD as well as certain types of goods, including jewellery and antiques. 
+You must declare cash amounts exceeding the equivalent of 10,000 USD as well as certain types of goods, including jewellery and antiques.
 
 Items imported by air for personal use that are worth more than 10,000 EUR or weighing more than 50 kg must be declared.
 
 For cash amounts exceeding the equivalent of 100,000 USD, documents confirming the origin of the money, in addition to customs declaration, must be provided.
 
-If you fail to declare items exceeding the value or weight standards, these may be confiscated, and you may be detained and charged with an administrative or criminal offence. 
+If you fail to declare items exceeding the value or weight standards, these may be confiscated, and you may be detained and charged with an administrative or criminal offence.
 
-If you fail to declare amounts of cash exceeding the threshold, your money may be confiscated, and you may be detained and charged with an administrative or criminal offence. 
+If you fail to declare amounts of cash exceeding the threshold, your money may be confiscated, and you may be detained and charged with an administrative or criminal offence.
 
 Make sure a customs official stamps your declaration. Only stamped declarations are valid.
 

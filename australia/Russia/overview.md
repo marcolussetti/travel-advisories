@@ -2,7 +2,7 @@
 
 Latest update
 
-We've reviewed our travel advice for Russia and continue to advise do not travel. Foreigners, including Australians, are at risk of arbitrary detention or arrest. Russian authorities make strong, negative comments regarding Western countries, including Australia. Local authorities may adopt a more negative attitude towards foreigners in Russia and arbitrarily enforce local laws. Avoid any protests or demonstrations and avoid commenting publicly on political developments.  
+We continue to advise do not travel to Russia. Foreigners, including Australians, are at risk of arbitrary detention or arrest. Russian authorities make strong, negative comments regarding Western countries, including Australia. Local authorities may adopt a more negative attitude towards foreigners in Russia and arbitrarily enforce local laws. Avoid any protests or demonstrations and avoid commenting publicly on political developments.  
   
 There's a high threat of terrorism. Terrorist groups, including al-Qaeda and Daesh-aligned groups, continue to call for attacks in Russia. Attacks can be indiscriminate and may occur on or around seasonal, festive, or religious events in public places, including popular tourist sites. Attacks could occur with little or no warning. Always be alert to possible threats. Military activity is underway in the regions of Kursk and Belgorod. Russian authorities introduced a federal state of emergency in these regions. The security situation could deteriorate with little warning.  
   

@@ -22,9 +22,7 @@ When going through Immigration, you'll be given a tourist card. You must keep th
 
 When entering Chile, you must complete the online [Customs (Aduanas) and Agro-sanitary (SAG) declaration](https://djsimple.sag.gob.cl) within 48 hours of arrival. Hardcopy declarations can be completed by hand in the paper forms near the luggage collection area.
 
-If you're a dual-national (Australian-Chilean) or a resident of Chile, you may be required to enter and depart using your Chilean ID documents (Chilean passport, or Chilean 'cédula de identidad').
-
-Chile's Migration Police (PDI) has denied the departure of dual nationals with expired Chilean passports. If you don't have a Chilean travel document upon entry, you can apply for one through [Registro Civil](https://www.registrocivil.cl/) while in Chile to facilitate your departure. 
+If you are a dual Australian-Chilean national in Chile planning to return to Australia, you must have a valid Chilean passport to exit Chile, regardless of what type of travel document you used to enter Chile. This also applies to children born overseas to a Chilean parent. You can check with a [Chilean diplomatic or consular missions](https://www.minrel.gob.cl/embajadas-y-consulados) in Australia or the [Registro Civil](https://www.registrocivil.cl/) in Chile to confirm your travel documents are suitable. The Australian Embassy in Santiago cannot assist with Chilean travel documents.
 
 Severe weather conditions in the Andes mountain regions may affect crossing into neighbouring countries by land. Check Chile's [Border Crossings](http://www.pasosfronterizos.gov.cl/) official website (in Spanish), subscribe to their WhatsApp [channel](http://www.pasosfronterizos.gov.cl/alertas/pasos/), and monitor local media before attempting to enter or leave the country by land. 
 
@@ -58,10 +56,6 @@ You also need a Spanish translation of the documents notarised no more than 3 mo
 * a Chilean Embassy or Consulate
 
 You can use the same document for entry and exit. If you fail to comply with the requirements, the child will not be allowed to enter or leave Chile.
-
-A child aged under 18 years born overseas to Chilean parents can enter Chile on an Australian passport and remain for up to 90 days as a tourist (see 'Visas').
-
-For stays longer than 90 days, the child must obtain a Chilean passport.
 
 #### Passport
 

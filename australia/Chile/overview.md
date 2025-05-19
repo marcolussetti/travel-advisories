@@ -2,7 +2,7 @@
 
 Latest update
 
-We continue to advise exercise a high degree of caution in Chile due to the risk of civil unrest and the threat of violent crime. You need a visa to enter Chile. Ensure you apply well in advance to avoid issues on arrival (see ‘Travel’).
+We continue to advise exercise a high degree of caution in Chile due to the risk of civil unrest and the threat of violent crime. You need a visa to enter Chile. Ensure you apply well in advance to avoid issues on arrival. Australian-Chilean dual-nationals returning to Australia must exit Chile on a valid Chilean passport (see ‘Travel’).
 
 Advice Level summary
 
@@ -54,6 +54,7 @@ Full travel advice: [Local laws](#local-laws)
 * If your travel includes a transit in Chile, contact your nearest Embassy or Consulate of Chile to confirm if you need a visa for Chile.
 * Entry and exit conditions can change at short notice. You should contact the [nearest embassy or consulate of Chile](https://protocol.dfat.gov.au/Public/Missions/43) for the latest details.
 * Severe weather conditions in mountain areas may result in the closure of some land border crossings to neighbouring countries.
+* Australian-Chilean dual-nationals returning to Australia must exit Chile on a valid Chilean passport.
 
 Full travel advice: [Travel](#travel)
 
