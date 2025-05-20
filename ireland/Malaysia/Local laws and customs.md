@@ -2,7 +2,7 @@
 
 Remember, the local laws apply to you as a visitor and it is your responsibility to follow them. Be sensitive to local customs, traditions and practices as your behaviour may be seen as improper, hostile or may even be illegal.
 
-### **Local culture**
+### **Local Culture**
 
 Malaysia is a multicultural but mainly Islamic country. Respect local traditions, customs, laws and religions at all times and be aware of your actions to ensure that they don't offend, especially during the holy month of Ramadan or if you intend to visit religious areas.
 
@@ -14,7 +14,7 @@ Importing unlicensed firearms and ammunition into Malaysia is prohibited and can
 
 Homosexual acts are illegal.
 
-### **Illegal drugs**
+### **Illegal Drugs**
 
 There are severe penalties for all drug offences; this includes amphetamine-type stimulants. Trafficking incurs a mandatory death penalty. Possession incurs a custodial sentence and possible whipping.
 
@@ -30,7 +30,7 @@ If driving:
 * Driving under the influence of alcohol is a serious offence and those over the legal limit could receive a jail sentence and/or a heavy fine. Breath testing is common in Malaysia
 * Take care as motorcyclists do not always stop at pedestrian crossings or at traffic lights. If driving, make sure that motorcyclists are not overtaking on the inside when you are making a left turn.
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If hiring a vehicle, we advise not to hand over your passport as a form of security. If allowing your passport to be photocopied, keep it in sight at all times.
 

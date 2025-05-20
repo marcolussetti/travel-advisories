@@ -6,6 +6,6 @@ When a typhoon is approaching, warnings are broadcast on television and radio an
 
 Please see the following links in relation to the various weather signals and warnings:
 
-[Hong Kong Observatory](http://www.hko.gov.hk/textonly/v2/explain/intro.htm); and
+[**Hong Kong Observatory**](http://www.hko.gov.hk/textonly/v2/explain/intro.htm); and
 
-[Macao Observatory](https://www.smg.gov.mo/en).
+[**Macao Observatory**](https://www.smg.gov.mo/en).

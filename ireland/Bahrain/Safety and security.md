@@ -27,3 +27,5 @@ If you’re planning to drive in Bahrain, you should be extremely careful. Unsaf
 If you are hiring a vehicle, we advise you not to hand over your passport as a form of security. If you are allowing your passport to be photocopied, keep it in your sight at all times.
 
 Check that you have adequate insurance and read the small print of the vehicle hire contract (particularly any waiver that will come into effect if the vehicle is damaged).
+
+Please be aware that hired cars in this region often come with a daily travel limit (often 200km – 250km), beyond which you may have to pay a surcharge.

@@ -16,7 +16,7 @@ For more information on visa and passport requirements, please contact the [**Ye
 
 Visitors to Yemen are advised to follow the guidance of national and local authorities and stay fully informed of what's going on by monitoring local news and social media.
 
-Citizens can also follow the Irish Embassy in Riyadh on Twitter [**@IrishEmbRiyadh**](https://twitter.com/IrishEmbRiyadh) to ensure access to relevant updates and alerts.
+Citizens can also follow the Irish Embassy in Riyadh on X [**@IrishEmbRiyadh**](https://x.com/IrishEmbRiyadh) to ensure access to relevant updates and alerts.
 
 ### **Emergency Assistance**
 
@@ -26,7 +26,7 @@ The best help is often close at hand so if you have problems, try talking to you
 
 * Get comprehensive travel insurance that covers all your planned activities.
 * [**Register**](/en/dfa/overseas-travel/citizens-registration/) your details with us so that we can contact you quickly if there’s an unforeseen crisis like a natural disaster or a family emergency.
-* Follow us on twitter [**@dfatravelwise**](https://www.twitter.com/DFATravelWise) for the latest travel updates.
+* Follow us on X [**@dfatravelwise**](https://www.x.com/DFATravelWise) and Instagram [**@dfatravelwise**](https://www.instagram.com/dfatravelwise) for the latest travel updates.
 * Read our [**‘Know Before You Go’**](/en/dfa/overseas-travel/know-before-you-go/) guide.
 
 As there is no Irish Embassy in Yemen, we are limited in the help we can offer you in an emergency. However, if you need assistance, you can contact the [**Irish Embassy in Riyadh**](/en/saudiarabia/riyadh/)**.**

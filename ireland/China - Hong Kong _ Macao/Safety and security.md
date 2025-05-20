@@ -1,6 +1,6 @@
 ## Safety and security
 
-### **Political situation**
+### **Political Situation**
 
 Hong Kong and Macao are generally stable societies.
 
@@ -12,7 +12,7 @@ National Security Legislation has been in place in Hong Kong since July 2020. It
 
 Charges under this legislation can be applied to activities undertaken inside and outside Hong Kong. Possession of materials considered to be seditious, flying of drones in unauthorised areas or other activities while in Hong Kong may result in arrest or detention.
 
-Irish citizens are reminded that local laws apply to you as a visitor and it is your responsibility to follow them. Travellers should make themselves familiar with the [Safeguarding National Security Ordinance](https://www.elegislation.gov.hk/hk/A305). Irish citizens have a right to request consular assistance if they are detained by local authorities.
+Irish citizens are reminded that local laws apply to you as a visitor and it is your responsibility to follow them. Travellers should make themselves familiar with the [**Safeguarding National Security Ordinance**](https://www.elegislation.gov.hk/hk/A305). Irish citizens have a right to request consular assistance if they are detained by local authorities.
 
 ### **Terrorism**
 
@@ -47,6 +47,6 @@ For holders of an Irish driving licence who wish to drive in Hong Kong, you may 
 
 Holders of an Irish driving licence who wish to drive in Macao and who are staying for less than a year must go to the police station to obtain an official paper to legalise your Irish licence.
 
-### **Lost or stolen passport**
+### **Lost or Stolen Passport**
 
 If your passport is lost or stolen while in Hong Kong or Macao the Consulate General of Ireland in Hong Kong can in emergency situations issue an emergency travel document. A completed application must be submitted, duly witnessed and with all supporting documents and the appropriate fee. Proof of identity and citizenship will be required, including an original or certified long-form birth certificate in all cases.

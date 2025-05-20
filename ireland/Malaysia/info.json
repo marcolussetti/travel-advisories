@@ -3,12 +3,16 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Malaysia/Overview.md"
+            "title": "Travel to Malaysia overview",
+            "file": "ireland/Malaysia/Travel to Malaysia overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Malaysia/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Malaysia/Health.md"
         },
         {
             "title": "Local laws and customs",
@@ -19,13 +23,13 @@
             "file": "ireland/Malaysia/Natural disasters and climate.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Malaysia/Additional information.md"
+            "title": "Entry requirements",
+            "file": "ireland/Malaysia/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Malaysia/Embassy contact.md"
         }
     ],
-    "update_date": "2024-05-21T00:00:00"
+    "update_date": "2025-05-19T00:00:00"
 }

@@ -1,8 +1,8 @@
 ## Safety and security
 
-### **Political unrest, risk of kidnapping**
+### **Political Unrest, risk of Kidnapping**
 
-**Eastern Sabah**
+### **Eastern Sabah**
 
 There is a threat of kidnapping on the eastern coast of Sabah, particularly on the islands close to the Sulu Archipeligo of the Philippines.
 
@@ -33,6 +33,6 @@ Crime remains relatively low in Malaysia but bag snatching by thieves on motorbi
 * Credit card fraud and ATM scams are commonplace in the region, so be vigilant when making payments and also when using ATM machines to withdraw cash.
 * As in other countries, avoid opening your hotel room door to strangers – especially if you are a woman travelling alone.
 
-### **Reporting a crime**
+### **Reporting a Crime**
 
 If a victim of a crime while in Malaysia, report it to the local police immediately. Please contact us at the Irish Embassy if help is needed.

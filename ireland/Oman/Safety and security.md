@@ -1,5 +1,7 @@
 ## Safety and security
 
+Do not travel to the Yemen border area due to the risk of terrorism and conflict.
+
 ### **Social unrest**
 
 The political situation in Oman is reasonably stable but there can be occasional outbreaks of social unrest. Always keep yourself informed of what is going on around you by monitoring local media and staying in contact with your hotel or tour organiser. And avoid demonstrations and public gatherings, which can sometimes turn confrontational.
@@ -47,6 +49,8 @@ If you are hiring a vehicle, we advise you not to hand over your passport as a f
 Check that you have adequate insurance and read the small print of the vehicle hire contract (particularly any waiver that will come into effect if the vehicle is damaged).
 
 Rental and company vehicles in particular have been vulnerable to robbery in the Thumrait, Marmul and Nimr area of Southern Oman. If you rent a car, you should take advice on security from the hire company before you travel.
+
+Please be aware that hired cars in this region often come with a daily travel limit (often 200km – 250km), beyond which you may have to pay a surcharge.
 
 ### **Maritime safety**
 

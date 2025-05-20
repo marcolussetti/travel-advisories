@@ -12,7 +12,7 @@ Australia,Normal Precautions,2025-03-31T00:00:00,https://www.ireland.ie/en/dfa/o
 Austria,Normal Precautions,2024-11-26T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/austria/
 Azerbaijan,High Degree of Caution,2025-04-07T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/azerbaijan/
 Bahamas,Normal Precautions,2024-08-14T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/bahamas/
-Bahrain,High Degree of Caution,2023-11-16T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/bahrain/
+Bahrain,High Degree of Caution,2025-05-19T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/bahrain/
 Bangladesh,High Degree of Caution,2025-02-19T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/bangladesh/
 Barbados,Normal Precautions,2024-07-04T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/barbados/
 Belarus,Do Not Travel,2024-07-18T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/belarus/
@@ -38,7 +38,7 @@ Central African Republic,Do Not Travel,2024-08-16T00:00:00,https://www.ireland.i
 Chad,Avoid Non-Essential Travel,2025-03-18T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/chad/
 Chile,Normal Precautions,2025-05-12T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/chile/
 China,High Degree of Caution,2025-01-15T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/china/
-China - Hong Kong / Macao,High Degree of Caution,2024-03-27T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/china-hong-kong-macao/
+China - Hong Kong / Macao,High Degree of Caution,2025-05-19T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/china-hong-kong-macao/
 Colombia,High Degree of Caution,2025-04-23T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/colombia/
 Comoros,High Degree of Caution,2023-11-23T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/comoros/
 Congo,High Degree of Caution,2024-11-07T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/congo/
@@ -114,7 +114,7 @@ Lithuania,Normal Precautions,2023-11-15T00:00:00,https://www.ireland.ie/en/dfa/o
 Luxembourg,Normal Precautions,2024-02-22T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/luxembourg/
 Madagascar,High Degree of Caution,2023-11-23T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/madagascar/
 Malawi,High Degree of Caution,2025-03-04T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/malawi/
-Malaysia,High Degree of Caution,2024-05-21T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/malaysia/
+Malaysia,High Degree of Caution,2025-05-19T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/malaysia/
 Maldives,High Degree of Caution,2023-11-16T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/maldives/
 Mali,Do Not Travel,2024-09-30T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/mali/
 Malta,Normal Precautions,2024-10-03T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/malta/
@@ -143,7 +143,7 @@ Nigeria,Avoid Non-Essential Travel,2025-05-16T00:00:00,https://www.ireland.ie/en
 Niue,Normal Precautions,2023-11-22T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/niue/
 "North Macedonia, Republic of",Normal Precautions,2023-11-22T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/republic-of-north-macedonia/
 Norway,Normal Precautions,2025-03-27T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/norway/
-Oman,High Degree of Caution,2023-11-22T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/oman/
+Oman,High Degree of Caution,2025-05-19T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/oman/
 Pakistan,Avoid Non-Essential Travel,2025-05-11T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/pakistan/
 Palau,Normal Precautions,2023-11-22T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/palau/
 Panama,High Degree of Caution,2025-04-03T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/panama/
@@ -207,6 +207,6 @@ Venezuela,Avoid Non-Essential Travel,2025-01-06T00:00:00,https://www.ireland.ie/
 Vietnam,Normal Precautions,2025-03-10T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/vietnam/
 Virgin Islands (UK),Normal Precautions,2023-11-23T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/virgin-islands-uk/
 Virgin Islands (US),Normal Precautions,2023-11-23T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/virgin-islands-us/
-Yemen,Do Not Travel,2023-11-24T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/yemen/
+Yemen,Do Not Travel,2025-05-19T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/yemen/
 Zambia,High Degree of Caution,2024-12-19T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/zambia/
 Zimbabwe,High Degree of Caution,2024-09-02T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/zimbabwe/

@@ -16,7 +16,7 @@ Visitors to Bahrain are advised to follow the guidance of national and local aut
 
 All residents and visitors must carry photographic ID. It is an offence not produce ID when requested by a member of the Bahraini authorities and you could be subject to a fine of 300 BHD.
 
-Citizens can also follow the Irish Embassy in Saudi Arabia on Twitter[**@IrishEmbRiyadh**](https://twitter.com/irishembriyadh) to ensure access to relevant updates and alerts.
+Citizens can also follow the Irish Embassy in Saudi Arabia on X [**@IrishEmbRiyadh**](https://x.com/irishembriyadh) to ensure access to relevant updates and alerts.
 
 ### **Emergency Assistance**
 
@@ -28,7 +28,7 @@ You can contact the emergency services in Bahrain by dialling 999 which covers a
 
 * Get comprehensive travel insurance that covers all your planned activities.
 * [**Register**](/en/dfa/overseas-travel/citizens-registration/) your details with us so that we can contact you quickly if there’s an unforeseen crisis like a natural disaster or a family emergency.
-* Follow us on twitter [**@dfatravelwise**](https://www.twitter.com/DFATravelWise) for the latest travel updates.
+* Follow us on X [**@dfatravelwise**](https://www.x.com/DFATravelWise) and Instagram [**@dfatravelwise**](https://www.instagram.com/dfatravelwise) for the latest travel updates.
 * Read our [**‘Know Before You Go’**](/en/dfa/overseas-travel/know-before-you-go/) guide.
 
 As there is no Irish Embassy in Bahrain, we are limited in the help we can offer you in an emergency. However, if you need assistance, you can contact the **Irish Embassy in** [**Riyadh**](/en/saudiarabia/riyadh/).
