@@ -4,7 +4,7 @@ Latest update
 
 We continue to advise exercise a high degree of caution in Saudi Arabia. Higher levels apply in some areas.   
   
-For the 2025 Hajj season, local authorities have introduced additional arrangements and restrictions for foreign travellers. This includes not entering or staying in Makkah between 29 April and 10 June and the requirement that all Umrah pilgrims must depart Saudi Arabia by 29 April 2025 (see ’Travel’ for more information). There are vaccination requirements for visitors travelling to Saudi Arabia to perform Umrah or visit Holy Mosques (see 'Health').   
+For the 2025 Hajj season, local authorities have introduced additional arrangements and restrictions for foreign travellers. This includes not entering or staying in Makkah between 29 April and 11 June without either a valid work permit in Makkah, a residency ID issued from Makkah or a valid Hajj permit (see ’Travel’).   
   
 Demonstrations and protests are illegal in Saudi Arabia, and there may be severe penalties for participation. Avoid all demonstrations and protests should they occur (see 'Safety').
 
@@ -75,11 +75,11 @@ Full travel advice: [Local laws](#local-laws)
 
 ### Travel
 
-* For the Hajj season 2025, local authorities have announced additional arrangements, procedures and entry/exit restrictions for foreign travellers. This includes not entering or staying in Makkah between 29 April and 10 June without either a valid work permit for Makkah, a residency ID issued from Makkah, or a valid Hajj permit (see 'Travel').
-* Local authorities have also announced that the deadline for Umrah pilgrims’ departure from Saudi Arabia is 29 April 2025. Remaining in the country beyond this date will constitute a violation and violators will be subject to legal penalties.
-* Australian citizens holding valid Australian passports can apply for a tourist visa online or on arrival. Check the [Saudi eVisa](https://visa.visitsaudi.com/?_ga=2.38204960.203637712.1643716791-1500723252.1635340540) website for current information on tourist visas. A visa does not guarantee your entry to Saudi Arabia. Check visa conditions before your arrival.
-* All Saudi visa holders are permitted to perform Umrah throughout the year, except around Hajj time, when only Hajj visa/permit holders can enter Makkah (Mecca). Monitor the media for information about the dates the Hajj time starts.
+* For the Hajj season 2025, local authorities have announced additional arrangements, procedures and entry/exit restrictions for foreign travellers. This includes not entering or staying in Makkah (Mecca) between 29 April and 11 June without either a valid work permit for Makkah, a residency ID issued from Makkah, or a valid Hajj permit (see 'Travel').
+* Local authorities also announced that the deadline for Umrah pilgrims’ departure from Saudi Arabia was 29 April 2025. Umrah pilgrims who have remained in the country beyond this date will be subject to legal penalties.
+* All Saudi visa holders are permitted to perform Umrah throughout the year, except around Hajj time, when only Hajj visa/permit holders can enter Makkah. Monitor the media for information about the dates the Hajj time starts.
 * Saudi Hajj and Umrah Ministry have launched the ‘[Nusuk’](https://www.nusuk.sa/) platform to register and facilitate pilgrim procedures for both Umrah and Hajj.
+* Australian citizens holding valid Australian passports can apply for a tourist visa online or on arrival. Check the [Saudi eVisa](https://visa.visitsaudi.com/?_ga=2.38204960.203637712.1643716791-1500723252.1635340540) website for current information on tourist visas. A visa does not guarantee your entry to Saudi Arabia. Check visa conditions before your arrival.
 * Unless you’re a resident of Saudi Arabia, you must have medical insurance that covers the cost of COVID-19 treatment (see ‘Health’). See further details on the [Visit Saudi](https://www.visitsaudi.com/en/help-support) website.
 
 Full travel advice: [Travel](#travel)

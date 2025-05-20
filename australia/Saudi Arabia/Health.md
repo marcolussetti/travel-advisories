@@ -2,7 +2,7 @@
 
 #### Travel insurance
 
-Get comprehensive [travel insurance](/node/149) before you leave. Travellers to Saudi Arabia (excluding residents) must have medical insurance that includes coverage for the cost of COVID-19 treatment. If you're entering on a tourist visa (eVisa), coverage for COVID-19 treatment is included in the visa cost. You can review the policy of medical insurance to confirm what is and isn't covered via the [Council of Health Insurance](https://eservices.chi.gov.sa/Pages/ClientSystem/CheckVisitorsInsurance.aspx?lang=en) website. For further details, see the [Visit Saudi](https://www.visitsaudi.com/en/help-support) website. See further details on the [Visit Saudi](https://www.visitsaudi.com/en/help-support) website.
+Get comprehensive [travel insurance](/node/149) before you leave. Travellers to Saudi Arabia (excluding residents) must have medical insurance that includes coverage for the cost of COVID-19 treatment. If you're entering on a tourist visa (eVisa), coverage for COVID-19 treatment is included in the visa cost. You can review the policy of medical insurance to confirm what is and isn't covered via the [Council of Health Insurance](https://eservices.chi.gov.sa/Pages/ClientSystem/CheckVisitorsInsurance.aspx?lang=en) website. For further details, see the [Visit Saudi](https://www.visitsaudi.com/en/help-support) website. 
 
 Your policy also needs to cover all overseas medical costs, including medical evacuation. The Australian Government won't pay for these costs.
 

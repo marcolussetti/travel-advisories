@@ -98,7 +98,7 @@ In Saudi Arabia, it's illegal to:
 * produce or distribute printed or electronic material, without the Ministry of Culture and Information's authorisation
 * publicly display or wear non-Islamic religious symbols or text
 * be involved in charity and fundraising activities, including online or via social media without prior approval from local authorities
-* post advertisements that result in an income on social media without a license from the relevant local Saudi authorities. Violators could face a five-year prison sentence and fines of up to five million Saudi riyals
+* post advertisements that result in an income on social media without a licence from the relevant local Saudi authorities. Violators could face a five-year prison sentence and fines of up five million Saudi riyals
 * offend the reputation of tourism in the Kingdom, which may include posting negative reviews online about tourist destinations and activities
 * say anything blasphemous
 * have sexual relations or live together outside of marriage
@@ -131,7 +131,7 @@ Get permission before taking photographs of people, especially women and childre
 
 Same-sex relationships are illegal. Saudi Arabia doesn't recognise or allow same-sex marriages and rights. Authorities can impose severe punishment.
 
-**More information:**
+More information:
 
 * [Advice for LGBTQIA+ travellers](/node/349)
 
