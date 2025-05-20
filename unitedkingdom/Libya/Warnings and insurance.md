@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   17 May 2025
+:   20 May 2025
 
 Updated:
-:   16 May 2025
+:   19 May 2025
 
 Latest update:
-:   Updated information that some flights have resumed operation at Mitiga international airport in Tripoli ('Warnings and insurance' page).
+:   Updated information that flights have resumed operation and that the situation remains fragile ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/68237cb42b7ca0cc347e081e/FCDO__TA__024_-_Libya_Travel_Advice_Ed3__WEB_.jpg)
 
@@ -26,7 +26,7 @@ Find out more about [why the FCDO advises against travel](https://www.gov.uk/for
 
 ## Heightened military presence in Tripoli
 
-On 12 May, significant armed clashes broke out across Tripoli. A ceasefire was agreed on 14 May and violence has largely stopped. The situation remains volatile and a return to violence is possible. Some flights have resumed operation at Mitiga international airport in Tripoli.
+On 12 May, significant armed clashes broke out across Tripoli. A ceasefire was agreed on 14 May and has largely held. The situation remains fragile and a return to violence is possible. Flights have resumed operations at Mitiga international airport in Tripoli.
 
 FCDO advises against all travel  to Libya except for the cities of Benghazi and Misrata, to which we advise against all but essential travel.
 

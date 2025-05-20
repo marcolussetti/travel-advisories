@@ -1,11 +1,11 @@
 {
     "name": "Libya",
-    "update_reason": "Updated information that some flights have resumed operation at Mitiga international airport in Tripoli ('Warnings and insurance' page).",
+    "update_reason": "Updated information that flights have resumed operation and that the situation remains fragile ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Libya/Warnings and insurance.md",
-            "update_date": "2025-05-16T16:07:03+01:00"
+            "update_date": "2025-05-19T11:09:28+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Libya/Getting help.md"
         }
     ],
-    "update_date": "2025-05-16T16:07:03+01:00"
+    "update_date": "2025-05-19T11:09:28+01:00"
 }
