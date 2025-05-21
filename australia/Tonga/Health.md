@@ -79,7 +79,6 @@ Waterborne, foodborne and other infectious diseases are common. These include:
 * [tuberculosis](https://www.who.int/news-room/fact-sheets/detail/tuberculosis)
 * [typhoid](https://www.healthdirect.gov.au/typhoid-and-paratyphoid)
 * [filariasis](https://www.who.int/news-room/fact-sheets/detail/lymphatic-filariasis)
-* [COVID-19](https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert)
 
 Serious outbreaks sometimes occur.
 

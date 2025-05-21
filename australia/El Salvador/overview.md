@@ -2,7 +2,7 @@
 
 Latest update
 
-We've reviewed our advice for El Salvador and continue to advise exercise a high degree of caution due to the threat of violent crime.
+We continue to advise exercise a high degree of caution in El Salvador due to the threat of violent crime. The hurricane season is from June to November. Hurricanes can cause landslides, mudslides, and flooding. Know where your nearest shelter is. Follow the advice of local authorities (see 'Safety').
 
 Advice Level summary
 

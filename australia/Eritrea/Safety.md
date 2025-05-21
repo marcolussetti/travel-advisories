@@ -16,16 +16,16 @@ Avoid demonstrations and protests. Monitor the media for news that may affect yo
 
 #### Ethiopian border
 
-In response to the conflict in northern Ethiopia, the Eritrean Government called for a mobilisation of its armed forces in September 2022. While the mobilisation has ceased, additional security measures may be introduced at short notice. You should remain vigilant.
-
-In 2020, there were reports of explosions in Asmara as a result of rockets launched from the ongoing military conflict in Tigray, Ethiopia. Further attacks are possible. Exercise extreme caution and follow the advice of local authorities.
-
-Eritrea has extensive unmarked minefields, mainly near the border with Ethiopia. Don't travel within 25km of the border.
-
-All border crossings between Ethiopia and Eritrea are currently closed. Travellers should check local advice before proceeding to the border.
-
-It's not clear where or to what extent de-mining has taken place. Walking and hiking in rural areas may be dangerous.
-
+In response to the conflict in northern Ethiopia, the Eritrean Government called for a mobilisation of its armed forces in September 2022. While the mobilisation has ceased, tensions remain high and additional security measures may be introduced at short notice. You should remain vigilant.  
+  
+In 2020, there were reports of explosions in Asmara as a result of rockets launched due to military conflict in northern Ethiopia. Recently heightened tensions in northern Ethiopia and between Ethiopia and Eritrea means further attacks are possible. Exercise extreme caution and follow the advice of local authorities.  
+  
+Eritrea has extensive unmarked minefields, mainly near the border with Ethiopia. Don't travel within 25km of the border.  
+  
+All border crossings between Ethiopia and Eritrea are currently closed. Travellers should check local advice before proceeding to the border.  
+  
+It's not clear where or to what extent de-mining has taken place. Walking and hiking in rural areas may be dangerous.  
+  
 In most places, the border is neither marked nor obvious.
 
 **More information:**
@@ -33,6 +33,8 @@ In most places, the border is neither marked nor obvious.
 * [Travel advice for Ethiopia](/destinations/africa/ethiopia "Ethiopia")
 
 #### Sudanese border
+
+There have been reports of Eritrean involvement in the conflict in Sudan since its outbreak in 2023, especially in eastern Sudan near the border with Eritrea.
 
 There's a high threat of [robbery](/before-you-go/safety/theft-robbery "Theft and robbery") and violence from bandits and insurgents, including bomb attacks. There are ongoing reports of armed groups operating in and around the border area.
 
@@ -50,9 +52,9 @@ Conflict and instability between Eritrea and Djibouti since 2008 create a high r
 
 #### Kidnapping
 
-Kidnapping is a risk in Eritrea.
+Kidnapping is a risk in Eritrea. Kidnapping can happen anywhere, anytime, including in destinations that are typically at lower risk. 
 
-The Australian Government's longstanding policy is that it doesn't make payments or concessions to kidnappers.
+The Australian Government's longstanding policy is that it doesn't make payments or concessions to kidnappers. 
 
 If, despite our advice, you decide to travel to an area where there's a risk of kidnapping:
 
@@ -75,9 +77,15 @@ Street crime is rare but happens in cities and towns, including Asmara. Don't wa
 
 Many local people access weapons under the government's civilian militia program. There's no evidence that these weapons have increased the threat of violent crime.
 
-#### Piracy
+Drink spiking can happen anywhere. Be alert to the potential risks, and don't leave food or drinks unattended. Pay attention when your drinks are being mixed. Stick to reputable venues and avoid homemade alcoholic drinks due to the risk of methanol poisoning. Get urgent medical help if you suspect you’ve been a victim.
 
-There's a significant threat of piracy and armed robbery in the Gulf of Aden and Indian Ocean.
+**More information:**
+
+* [Partying safely](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.smartraveller.gov.au%2Fbefore-you-go%2Fsafety%2Fpartying&data=05%7C02%7CJulian.Elsworthy%40dfat.gov.au%7Cbd0cd565db744527188508dd41a4930d%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638738897282052398%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=rKGX7XOCXJsS%2Fsimd5IO%2BCmMKrxAHlLs%2Bhh8rAmaleo%3D&reserved=0)
+
+#### Piracy and insecurity in the Red Sea
+
+There's a significant threat of piracy, ongoing insecurity and attacks on international shipping vessels and armed robbery in the Gulf of Aden and Indian Ocean.
 
 Pirates have attacked vessels and held foreigner's hostage for ransom in the Gulf of Aden.
 
@@ -93,7 +101,7 @@ You should remain out of the [designated High-Risk Area](https://www.mscio.eu/)
 
 If you need to travel by boat to Eritrea's waters and surrounds:
 
-* stay more than a thousand nautical miles (1850km) from the coast of the Horn of Africa, even this distance may not be safe
+* stay more than a thousand nautical miles (1850km) from the coast of the Horn of Africa, but even this distance may not be safe
 * travel in a convoy and maintain good communication
 * take appropriate security measures
 

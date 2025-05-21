@@ -8,11 +8,11 @@
 
 You'll need a visa to enter Eritrea.
 
-Entry and exit requirements can change at short notice. Contact the nearest [embassy of Eritrea](https://protocol.dfat.gov.au/Public/Missions/64) for details about visas, currency, customs and quarantine rules.
+Entry and exit requirements can change at short notice. Contact the nearest [embassy or consulate of Eritrea](https://protocol.dfat.gov.au/Public/Consulates/64/State) for details about visas, currency, customs and quarantine rules.
 
 #### Border measures
 
-Some international flights into and from Asmara have resumed but remain limited. Check with your airline.
+International flights into and from Asmara are limited. Check with your airline.
 
 #### Exit permit
 
@@ -76,7 +76,7 @@ Although Australian passports comply with international standards for sex and ge
 
 **More information**
 
-* [LGBTQIA+ travellers](https://www.smartraveller.gov.au/before-you-go/who-you-are/LGBTI)
+* [LGBTQIA+ travellers](/before-you-go/who-you-are/LGBTQIA "Advice for LGBTQIA+ travellers")
 
 #### Money
 
@@ -90,11 +90,11 @@ Any foreign currency used in Eritrea must be exchanged or used legally. You must
 
 #### Access to money
 
-Eritrea's economy is completely cash-based. There are no credit card or ATM facilities in Eritrea. You'll need to pay for everything in cash. Most hotels in Eritrea will require you to settle your hotel bill in US dollars.
+Eritrea's economy is completely cash-based. There are no credit card or ATM facilities in Eritrea. You'll need to pay for everything in cash.
 
 It's illegal to change money anywhere other than at a branch of the state foreign currency exchange in one of the 'Himbol' exchanges in town. Some officially recognised hotels can accept foreign currency. Otherwise, it's illegal to use foreign currencies in Eritrea.
 
-You can't take more than 500 Nafka out of Eritrea. Authorities could prosecute you if you do. Nakfa aren’t convertible outside Eritrea. You should convert any excess Nakfa back to hard currency at one of the ’Himbol’ exchanges in town, as there are limits to what can be converted at the ’Himbol’ branch at the airport. You will need the original currency transaction receipt.
+You can't take more than 500 Nafka out of Eritrea. Authorities could prosecute you if you do. Nakfa aren’t convertible outside Eritrea. You should convert any excess Nakfa back to hard currency at one of the 'Himbol' exchanges in town, as there are limits to what can be converted at the 'Himbol' branch at the airport. You will need the original currency transaction receipt.
 
 #### Local travel
 
@@ -116,7 +116,7 @@ The Ministry of Trade and Industry handles business travel applications.
 
 The Ministry of Tourism on Harnet Avenue in Asmara handles tourist travel applications.
 
-It usually takes around 24 hours to process applications.
+Apply in advance as processing applications may take several days.
 
 When applying for permission to travel outside of Asmara, give details of your car.
 

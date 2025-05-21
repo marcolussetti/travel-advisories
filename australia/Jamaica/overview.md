@@ -2,7 +2,7 @@
 
 Latest update
 
-We've reviewed our advice for Jamaica and continue to advise exercise a high degree of caution due to the threat of violent crime.
+We continue to advise exercise a high degree of caution in Jamaica due to the threat of violent crime. You don't need a visa to enter Jamaica if your visit is for tourism and you're staying for less than 6 months (see 'Travel')
 
 Advice Level summary
 

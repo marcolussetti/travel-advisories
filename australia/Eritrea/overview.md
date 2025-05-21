@@ -2,7 +2,7 @@
 
 Latest update
 
-We continue to advise reconsider your need to travel to Eritrea. Due to the conflict in northern Ethiopia, additional security measures may be introduced at short notice in Asmara and across the country (see 'Safety').
+We've reviewed our travel advice and continue to advise reconsider your need to travel to Eritrea. Due to the conflict in northern Ethiopia, additional security measures may be introduced at short notice in Asmara and across the country (see 'Safety').
 
 Advice Level summary
 
@@ -24,7 +24,7 @@ Higher levels apply in some areas.
 
 [Do not travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level4) to the region bordering Ethiopia due to landmines.
 
-See [Safety](#safety)
+See [Safety](#Safety)
 
 [Do not travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level4) to regions bordering Sudan and Djibouti and towns of Teseney, Barentu and Assab.
 
@@ -43,14 +43,15 @@ See [Safety](#safety)
 
 ### Safety
 
-* In September 2022, the Eritrean Government called for a mobilisation of its armed forces in response to the conflict in northern Ethiopia. While the call has ended, additional security measures may be introduced at short notice. You should remain vigilant when in Eritrea.
-* In 2020, there were reports of explosions in Asmara as a result of rockets launched from the ongoing military conflict in Tigray, Ethiopia. Further attacks are possible.
-* There's a risk of kidnapping in Eritrea. If you choose to travel to high-risk regions, get professional security advice.
-* Landmines are found within 25km of Eritrea’s border with Ethiopia. Take care when walking or hiking in rural areas due to unmarked minefields.
+* Conflicts in the region are ongoing and tensions remain high along all border fronts between Eritrea and neighbouring countries of Ethiopia and Sudan.
+* Tensions remain high between Eritrea and Ethiopia, with an increased risk of missile/rocket attacks in Eritrea. Additional security measures may be introduced at short notice.
+* Don't travel within 25km of the border. Landmines are found within 25km of Eritrea’s border with Ethiopia. Walking or hiking in rural areas is dangerous due to the security situation and unmarked minefields.
+* Since the outbreak of war in Sudan in 2023 there has been an influx of Sudanese refugees into Eritrea, putting a further strain on limited Eritrean infrastructure and resources.
 * Military tensions exist between Eritrea and Djibouti. Robbery and violence are common within 25km of the border.
-* Robbery and violence are common along the coast north of Massawa and on some rural roads. Take care when travelling in these areas. Street crime is rare but occurs. Don't walk alone late at night.
+* There's a risk of kidnapping in Eritrea. If you choose to travel to high-risk regions, get professional security advice. You should remain vigilant when in Eritrea.
+* Robbery and violence are common along the coast north of Massawa and on some rural roads. Take care when travelling in these areas.
 
-Full travel advice: [Safety](#safety)
+Full travel advice: [Safety](#Safety)
 
 ### Health
 
@@ -67,14 +68,14 @@ Full travel advice: [Health](#health)
 
 * Serious crimes may attract the death penalty or physical punishment.
 * Understand local laws. Same-sex relationships and taking photos of government buildings or military sites are illegal.
-* Eritrea doesn't recognise dual nationality. Male dual nationals may need to enter military service when they return to Eritrea. Get advice from the nearest [embassy or consulate of Eritrea](https://protocol.dfat.gov.au/Public/Missions/64) before you travel.
+* Eritrea doesn't recognise dual nationality. Male dual nationals may need to enter military service when they return to Eritrea. Get advice from the nearest [embassy or consulate of Eritrea](https://protocol.dfat.gov.au/Public/Consulates/64/State) before you travel.
 * Eritrea has strict standards of dress and behaviour. Dress appropriately.
 
 Full travel advice: [Local laws](#local-laws)
 
 ### Travel
 
-* You'll need a visa to enter Eritrea. Entry and exit conditions can change at short notice. You should contact the [Embassy of Eritrea](https://protocol.dfat.gov.au/Public/Missions/64) in Canberra for the latest details.
+* You'll need a visa to enter Eritrea. Entry and exit conditions can change at short notice. You should contact the nearest [embassy or consulate of Eritrea](https://protocol.dfat.gov.au/Public/Consulates/64/State) for the latest details.
 * Carry your yellow fever vaccination certificate. You may need to show it when you arrive in and leave Eritrea.
 * You need an exit permit to leave Eritrea. It can take a long time to get one. Apply well before your departure date.
 * You need a permit to travel beyond 25km of Asmara and the surrounding province of Zoba Maekel. Apply before you travel. Permits usually take around 24 hours to process.

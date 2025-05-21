@@ -2,8 +2,6 @@
 
 #### Crime
 
-#### Petty Crime
-
 Petty crime is common, particularly pickpocketing and bag-snatching. 
 
 Take extra care of your valuables in~~:~~
@@ -20,8 +18,6 @@ To prevent petty crime:
 * Pay attention in crowded areas
 * Use ATMs in daylight hours
 * Withdraw or change money in secure areas like hotels, banks or shopping centres.
-
-#### Violent crime
 
 A State of Exception was declared in El Salvador on 30 March 2023 and will likely continue for the foreseeable future. While the State of Exception has resulted in a reduction in the rate of violent and gang-related crime, there's still a risk of violent crime. Follow the advice of local authorities.
 
@@ -54,6 +50,12 @@ To protect yourself from violent crime:
 If you're attacked or robbed, don't resist. Armed criminals may injure or kill you.
 
 If you're a victim of violent crime, especially rape, get immediate medical attention. El Salvador has a high [HIV/AIDS](https://www.who.int/news-room/fact-sheets/detail/hiv-aids) infection risk.
+
+Drink spiking can happen anywhere. Be alert to the potential risks, and don't leave food or drinks unattended. Pay attention when your drinks are being mixed. Stick to reputable venues and avoid homemade alcoholic drinks due to the risk of methanol poisoning. Get urgent medical help if you suspect you’ve been a victim.
+
+**More information:**
+
+* [Partying safely while overseas](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.smartraveller.gov.au%2Fbefore-you-go%2Fsafety%2Fpartying&data=05%7C02%7CMichelle.Lam%40dfat.gov.au%7Cbd0cd565db744527188508dd41a4930d%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638738897282360647%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=8hzP1P0iV92Jm88KsRyu4DlEadlSJN77OY%2FyBZsYuRk%3D&reserved=0)
 
 #### Road-based crime
 

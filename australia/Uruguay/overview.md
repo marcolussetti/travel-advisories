@@ -2,7 +2,7 @@
 
 Latest update
 
-We've reviewed our advice for Uruguay and continue to advise exercise normal safety precautions. Australian tourists travelling on a regular passport can enter Uruguay for up to 90 days without a visa (see 'Travel').
+We continue to advise exercise normal safety precautions in Uruguay. Australian tourists travelling on a regular passport can enter Uruguay for up to 90 days without a visa (see 'Travel').
 
 Advice Level summary
 

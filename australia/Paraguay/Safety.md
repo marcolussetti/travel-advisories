@@ -2,15 +2,11 @@
 
 #### Crime
 
-#### Violent crime
-
 Violent crime is increasing in Paraguay, including in the capital Asuncion and tourist areas such as San Pedro and Concepcion. Incidents include armed [assault](https://www.smartraveller.gov.au/before-you-go/safety/assault), car theft and [kidnapping](https://www.smartraveller.gov.au/before-you-go/safety/kidnapping). 
 
 If attacked or robbed, don’t resist as muggers are occasionally violent and can be armed.
 
 Transnational criminal organisations carry out drug trafficking and arms smuggling, particularly along Paraguay’s eastern border with Brazil. This is most prevalent from Pedro Juan Caballero south to Ciudad del Este, including the Tri-Border Area of Paraguay, Brazil, and Argentina.
-
-#### Petty crime
 
 Pickpocketing and other petty crime is common in major cities, and on public transport. Hotspots for petty crime include Asuncion, Ciudad del Este and Pedro Juan Caballero. 
 
@@ -22,11 +18,16 @@ To protect yourself from crime:
 * avoid walking after dark
 * only use ATMs in controlled areas such as banks and shopping malls and avoid using them after dark
 * ask your hotel about areas to avoid downtown
-* don't leave food or drinks unattended
 * ensure your belongings are secure at all times, particularly when using public transport
 * use registered taxis
 * keep car windows closed, doors locked at all times and keep valuables out of sight
 * do not leave valuables in your car, including in the boot.
+
+Drink spiking can happen anywhere. Be alert to the potential risks, and don't leave food or drinks unattended. Pay attention when your drinks are being mixed. Stick to reputable venues and avoid homemade alcoholic drinks due to the risk of methanol poisoning. Get urgent medical help if you suspect you’ve been a victim.
+
+**More information:**
+
+* [Partying safely while overseas](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.smartraveller.gov.au%2Fbefore-you-go%2Fsafety%2Fpartying&data=05%7C02%7CMichelle.Lam%40dfat.gov.au%7Cbd0cd565db744527188508dd41a4930d%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638738897282360647%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=8hzP1P0iV92Jm88KsRyu4DlEadlSJN77OY%2FyBZsYuRk%3D&reserved=0)
 
 #### Cyber security
 

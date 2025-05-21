@@ -97,7 +97,6 @@ Waterborne, foodborne, parasitic and other [infectious diseases](/before-you-go/
 * [schistosomiasis](https://www.who.int/news-room/fact-sheets/detail/schistosomiasis)
 * [meningococcal disease](https://www.who.int/news-room/fact-sheets/detail/meningococcal-meningitis)
 * [tuberculosis](https://www.who.int/news-room/fact-sheets/detail/tuberculosis)
-* [COVID-19](https://www.health.gov.au/health-alerts/covid-19)
 
 Serious outbreaks sometimes occur.
 

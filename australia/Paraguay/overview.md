@@ -2,7 +2,7 @@
 
 Latest update
 
-We've reviewed our advice for Paraguay and continue to advise exercise a high degree of caution due to the threat of violent crime.
+We continue to advise exercise a high degree of caution in Paraguay due to the threat of violent crime. Australian passport holders don't require visitor visas to enter Paraguay on a regular passport for stays up to 90 days (see 'Travel')
 
 Advice Level summary
 

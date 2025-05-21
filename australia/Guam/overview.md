@@ -2,7 +2,7 @@
 
 Latest update
 
-We’ve reviewed our advice for Guam and continue to advise exercise normal safety precautions. Entry requirements for Guam are the same as for the United States of America (see 'Travel').
+We continue to advise exercise normal safety precautions in Guam. Entry requirements for Guam are the same as for the United States of America (see 'Travel').
 
 Advice Level summary
 

@@ -53,7 +53,7 @@ Australian males who hold Eritrean citizenship may need to enter military servic
 
 Dual nationals who enter on an Eritrean identity card rather than an Eritrean passport will need an exit visa from the Immigration Office in Asmara.
 
-If you're an Eritrean-Australian dual national, get advice from the nearest [embassy or consulate of Eritrea](https://protocol.dfat.gov.au/Public/Missions/64) before you travel.
+If you're an Eritrean-Australian dual national, get advice from the nearest [embassy or consulate of Eritrea](https://protocol.dfat.gov.au/Public/Consulates/64/State) before you travel.
 
 **More information:**
 

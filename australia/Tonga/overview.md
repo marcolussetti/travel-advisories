@@ -2,7 +2,7 @@
 
 Latest update
 
-We've reviewed our advice for Tonga and continue to advise exercise normal safety precautions.
+We continue to advise exercise normal safety precautions in Tonga. Tongan beaches can have strong rips and submerged debris from recent disasters that can make swimming dangerous. Ask locals about safe swimming areas (see 'Safety').
 
 Advice Level summary
 

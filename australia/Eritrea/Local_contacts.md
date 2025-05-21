@@ -46,10 +46,9 @@ If you need consular help, contact the [Australian Embassy in Cairo](https://egy
 
 11th floor, World Trade Centre  
 1191 Corniche el Nil  
-Boulac, Cairo, Egypt
+Boulag, Cairo, Egypt
 
-Telephone: +20 2 2770 6600  
-Facsimile: +20 2 2770 6650
+Telephone: +20 2 2770 6600
 
 Website: [egypt.embassy.gov.au](http://egypt.embassy.gov.au/caro/home.html)  
 X: [@AusAmbEGY](https://twitter.com/AusAmbEgy)  
