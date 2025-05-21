@@ -3,8 +3,8 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Chile/Overview.md"
+            "title": "Travel to Chile overview",
+            "file": "ireland/Chile/Travel to Chile overview.md"
         },
         {
             "title": "Safety and security",
@@ -19,13 +19,13 @@
             "file": "ireland/Chile/Natural disasters and climate.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Chile/Additional information.md"
+            "title": "Entry Requirements",
+            "file": "ireland/Chile/Entry Requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Chile/Embassy contact.md"
         }
     ],
-    "update_date": "2025-05-12T00:00:00"
+    "update_date": "2025-05-20T00:00:00"
 }

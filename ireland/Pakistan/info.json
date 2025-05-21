@@ -1,6 +1,6 @@
 {
     "name": "Pakistan",
-    "risk_level": "Avoid Non-Essential Travel",
+    "risk_level": "High Degree of Caution",
     "pages": [
         {
             "title": "Overview",
@@ -23,5 +23,5 @@
             "file": "ireland/Pakistan/Embassy contact.md"
         }
     ],
-    "update_date": "2025-05-11T00:00:00"
+    "update_date": "2025-05-20T00:00:00"
 }
