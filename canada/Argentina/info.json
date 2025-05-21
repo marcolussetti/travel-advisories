@@ -1,7 +1,7 @@
 {
     "name": "Argentina",
-    "update_reason": "Health \u2013\u00a0removed the Travel health notice for dengue",
-    "update_date": "2025-05-13T14:46:00",
+    "update_reason": "Health \u2013 removed the Travel health notice for Zika",
+    "update_date": "2025-05-20T12:53:00",
     "sections": {
         "risk": "canada/Argentina/risk.md",
         "security": "canada/Argentina/security.md",

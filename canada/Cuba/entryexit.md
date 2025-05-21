@@ -2,6 +2,10 @@
 
 ## Entry and exit requirements
 
+As of July 1, 2025, the Cuban government will only accept electronic visas to enter the country.
+
+If you travel directly from Canada to Cuba, your tourist visa should be included in your ticket. However, if you travel to Cuba via a third country, including on flights with stopovers in a third country, you must apply for a Cuban electronic visa ahead of time.
+
 Every country or territory decides who can enter or exit through its borders. The Government of Canada cannot intervene on your behalf if you do not meet your destination’s entry or exit requirements.
 
 We have obtained the information on this page from the Cuban authorities. It can, however, change at any time.

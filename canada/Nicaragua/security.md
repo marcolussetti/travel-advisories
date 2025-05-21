@@ -6,11 +6,11 @@
 
 The political situation is volatile in Nicaragua. The country has experienced periods of political unrest since April 2018, resulting in hundreds of deaths and detentions.
 
-Since the 2021 Presidential elections, Nicaraguan government officials and law enforcement have severely repressed those critical or opposed to government policies. According to UN reports, Nicaraguan authorities:
+Since the 2021 Presidential elections, Nicaraguan government officials and law enforcement have severely repressed those critical of or opposed to government policies. According to UN reports, Nicaraguan authorities:
 
 * undertake arbitrary arrests and detentions
 * censure media
-* prevent certain individuals from departing Nicaragua by air or land for political reasons
+* prevent certain individuals from entering or departing Nicaragua by air or land for political reasons
 * arbitrarily seize and search private property, including personal phones and computers for anti-government content
 * arbitrarily charge individuals with terrorism, money laundering, and organized crime offenses for political reasons
 

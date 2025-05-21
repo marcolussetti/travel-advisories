@@ -2,12 +2,6 @@
 
 ## Safety and security
 
-### Increased risk of mass shooting in Tegucigalpa
-
-On May 6, 2025, the U.S. Embassy in Honduras issued the following security alert: “The U.S. Embassy in Honduras has received information of a threat of a mass shooting to take place today, May 6, in Tegucigalpa. The source also threatened such an event on May 16. The three target locations mentioned are the Elliot Dover Christian School in Tegucigalpa, the Centro Civico in Tegucigalpa, and an unnamed mall in Tegucigalpa. ”
-
-[Security alert](https://hn.usembassy.gov/security-alert-for-u-s-citizensthe-u-s-embassy-has-received-information-about-a-potential-mass-shooting-threat-today-may-6-and-again-on-may-16-in/) – U.S. Embassy in Honduras
-
 ### Borders areas
 
 Border areas often see higher criminal activity and violence.
