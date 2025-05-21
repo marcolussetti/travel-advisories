@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   24 April 2025
+:   21 May 2025
 
 Updated:
-:   23 April 2025
+:   20 May 2025
 
 Latest update:
-:   Addition of information that a 6.2 magnitude earthquake has hit near Istanbul ('Warnings and insurance' page).
+:   Addition of information about the risks of paragliding, or being near paragliding landing zones ('Extreme sports' section of ‘Safety and security’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/6703bc3c3b919067bb482cfb/FCDO__TA__043_-_Turkey_Travel_Advice_Ed4__WEB_.jpg)
 
@@ -23,22 +23,6 @@ Your travel insurance could be invalidated if you travel against advice from the
 FCDO advises against all travel to within 10km of the border with Syria due to fighting and a heightened risk of terrorism.
 
 Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/turkey/regional-risks).
-
-## Istanbul Earthquake
-
-Many parts of Turkey regularly experience earthquakes and tremors. These can be a high magnitude, cause damage to infrastructure, and pose a risk to life.
-
-A 6.2-magnitude earthquake occurred in the Sea of Marmara near Istanbul, on 23 April 2025. For the latest information, visit [Turkey’s Disaster and Emergency Management Authority’s (AFAD) earthquake page](https://deprem.afad.gov.tr/last-earthquakes%22%20/t%20%22_blank).
-
-Follow advice from local authorities, tour operators and accommodation providers. See the US Federal Emergency Management Agency guidance about what to do [before, during and after an earthquake](https://www.ready.gov/earthquakes).
-
-## Demonstrations and protests
-
-Demonstrations and protests are currently taking place in Istanbul and other cities across Turkey. Demonstrations may become violent. The police response has included use of tear gas and water cannons. You should:
-
-* monitor local media
-* plan ahead to avoid disruption
-* avoid crowds and demonstrations
 
 ## Support from the UK government
 

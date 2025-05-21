@@ -9,7 +9,7 @@ The authorities in Slovakia set and enforce entry rules. If you’re not sure ho
 Slovakia follows [Schengen area rules](https://europa.eu/youreurope/citizens/travel/entry-exit/non-eu-nationals/index_en.htm). Your passport must:
 
 * have a ‘date of issue’ less than 10 years before the date you arrive – if you renewed your passport before 1 October 2018, it may have a date of issue that is more than 10 years ago
-* have an ‘expiry date’ at least 3 months after the day you plan to leave the Schengen area
+* have an ‘expiry date’ at least 3 months after the day you plan to leave the Schengen area (the expiry date does not need to be within 10 years of the date of issue)
 
 Check with your travel provider that your passport and other travel documents meet requirements. [Renew your passport](https://www.gov.uk/renew-adult-passport/renew) if you need to.
 
@@ -62,9 +62,9 @@ If you plan to stay in Slovakia for a longer period, you must [apply for a resid
 
 ## Border checks
 
-On 25 March 2025, the Slovak government introduced a range of emergency measures following an outbreak of foot and mouth disease. This had led to increased vehicle inspection measures, especially on freight vehicles, on the Czech, Austrian, Hungarian and Polish borders.
+There are increased vehicle inspection measures, especially on freight vehicles, and the temporary closure of some crossing points on the Austrian and Hungarian borders. This is due to a range of emergency measures introduced by the Slovak government in March 2025 following an outbreak of foot and mouth disease.
 
-People are also advised to avoid visiting farms and forests in affected areas and to follow strict hygiene measures to prevent the disease from spreading. Details of all measures in place [can be found here](https://www.minv.sk/?tlacove-spravy-2&sprava=slintacka-a-krivacka-aktualne-informacie-o-opatreniach-a-rezime-na-hraniciach).
+Czechia also has border control checks in place on its border with Slovakia. Details of restrictions in place [can be found on the Slovak Ministry of the Interior’s website](https://www.minv.sk/?tlacove-spravy-2&sprava=slak-aktualne-informacie-o-opatreniach-a-rezime-na-hraniciach)( in Slovak only).
 
 ## Vaccine requirements
 

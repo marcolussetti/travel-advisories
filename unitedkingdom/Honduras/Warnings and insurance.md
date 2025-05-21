@@ -1,15 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   7 May 2025
+:   21 May 2025
 
 Updated:
-:   7 May 2025
+:   20 May 2025
 
 Latest update:
-:   Information on US embassy advisory issued regarding potential mass shooting events in Tegucigalpa (‘Warnings and insurance’ page)
-
-The [US embassy have issued an advisory](https://x.com/usembassyhn/status/1919832618914480568) on 6 May that says:”Security Alert for U.S. Citizens: The U.S. Embassy has received information about a possible mass shooting threat today, May 6, and again on May 16 in Tegucigalpa. The locations mentioned as possible targets are Elliot Dover Christian School, the Government Civic Center, and an unidentified shopping mall. U.S. citizens are strongly advised to avoid these areas.”
+:   Removal of information on US embassy advisory issued regarding potential mass shooting events in Tegucigalpa ('Warnings and insurance' page).
 
 ## Before you travel
 

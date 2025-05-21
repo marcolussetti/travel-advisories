@@ -153,7 +153,15 @@ It is illegal to insult the Turkish nation or the national flag. These laws can 
 
 ### Extreme sports
 
-If you do an extreme sport, check that adequate safety precautions are in place. British nationals have been injured and killed doing extreme sports. Only use reputable operators. Make sure you are given full instructions and training before your activity. Make sure your travel insurance covers you for all activities you do.
+If you do an extreme sport, check that adequate safety precautions are in place. British nationals have been injured and killed doing extreme sports. Only use reputable operators. Make sure you are given full instructions and training before your activity. Make sure your travel insurance covers you for all activities you do. Always read the details of your insurance cover, especially the small print and exclusions on your policy.
+
+### Paragliding
+
+Paragliding is an extreme sport and carries the risk of serious injury or death. British nationals have died or been seriously injured whilst paragliding in Turkey.
+
+Make sure you are given full instructions and training before your activity.
+
+If  you are near where paragliding activities take place, be aware that the landing area may be in a public area. Keep a reasonable distance from potential landing zones for your personal safety.
 
 ### Quad biking and mopeds
 
@@ -204,6 +212,14 @@ Do not drink and drive. The police fine drunk drivers and they could confiscate 
 ## Extreme weather and natural disasters
 
 Find out what you can do to [prepare for and respond to extreme weather and natural hazards](https://www.gov.uk/guidance/tropical-cyclones).
+
+### Earthquakes
+
+Many parts of Turkey regularly experience earthquakes and tremors. These can be high magnitude, cause damage to infrastructure, and pose a risk to life.
+
+A 6.2-magnitude earthquake which occurred in the Sea of Marmara in April 2025, was felt strongly in Istanbul. Be aware of the risk of aftershocks. See [Turkey’s Disaster and Emergency Management Authority’s (AFAD) earthquake page](https://deprem.afad.gov.tr/last-earthquakes) for the latest information about seismic activity in Turkey.
+
+Follow advice from local authorities, tour operators and accommodation providers. See the US Federal Emergency Management Agency guidance about what to do [before, during and after an earthquake](https://www.ready.gov/earthquakes).
 
 ### Extreme temperatures
 

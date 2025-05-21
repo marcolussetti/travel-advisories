@@ -36,6 +36,10 @@ You can apply for a visa extension at the Egyptian Passport and Immigration Offi
 
 You do not need to buy a visa from an agent. Agents often charge more than the required 25 US dollars. If an agent harasses you, report the incident to the tourist police in the airport terminal.
 
+### Gender expression
+
+You may be denied entry if your gender expression or physical appearance does not match the sex marker in your passport or your passport photograph. See [general advice for LGBT+ travellers](https://www.gov.uk/guidance/lesbian-gay-bisexual-and-transgender-foreign-travel-advice)
+
 ### Egypt-Sudan border crossing
 
 If you cross the border from Sudan, you can get a visa on arrival for 25 US dollars (cash only).

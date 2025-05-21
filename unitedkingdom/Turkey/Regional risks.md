@@ -22,16 +22,6 @@ Mount Ararat, in Ağrı Province, is a special military zone. You must have perm
 
 Take extra care if you’re travelling to this area. Keep up to date with local media and follow the advice of the local authorities.
 
-## Regional escalation
-
-Ongoing hostilities in the region and between Israel and Lebanon could escalate quickly and pose risks for the wider region.
-
-On 1 October, Iran launched around 200 ballistic missiles at Israel. On 26 October, Israel carried out military action against Iran.
-
-Monitor this travel advice and other media as the situation is changing fast. Follow and contact FCDO travel on [X](https://x.com/fcdotravelgovuk), [Facebook](https://www.facebook.com/fcdotravel) and [Instagram](https://www.instagram.com/travelaware/). You can also [get email notifications](https://www.gov.uk/foreign-travel-advice/oman/email-signup) when this travel advice is updated.
-
-Read FCDO advice [if you’re affected by a crisis abroad](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas).
-
 [Previous
 :
 Safety and security](/foreign-travel-advice/turkey/safety-and-security)

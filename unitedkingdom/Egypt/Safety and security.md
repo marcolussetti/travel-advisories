@@ -191,6 +191,8 @@ There is little public acceptance of same-sex relationships in Egypt. Same-sex c
 
 Be cautious about sharing content or having discussions of a sexual nature on social media, especially about sexual acts that are considered illegal. Some travellers have been arrested and imprisoned for this.
 
+You may be denied entry if your gender expression or physical appearance does not match the sex marker in your passport or your passport photograph.
+
 Read more [advice for LGBT+ travellers](https://www.gov.uk/lesbian-gay-bisexual-and-transgender-foreign-travel-advice).
 
 ### Child custody law

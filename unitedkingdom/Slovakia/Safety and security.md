@@ -82,6 +82,13 @@ If you need help from the [Slovak Mountain Rescue Service (HZS)](https://hzs.sk/
 
 Visitors in mountain areas occasionally encounter bears and wolves. Take particular care if you’re in an area where bears have been sighted. For advice on minimising risks, see the [Slovak Wildlife Society](https://www.medvede.sk/index1.php?action=strety) website.
 
+There are restrictions on entering some forests due to emergency measures introduced by the Slovak government in March 2025. This is due to an outbreak of foot and mouth disease. Details of restrictions in place [can be found on the Slovak Ministry of the Interior’s website](https://www.minv.sk/?tlacove-spravy-2&sprava=slak-aktualne-informacie-o-opatreniach-a-rezime-na-hraniciach)( in Slovak only). These include forests in:
+
+* Dunajská Streda district
+* Komárno district
+* selected cadastres of the Malacky district
+* Záhorie Military District
+
 ## Transport risks
 
 ### Road travel

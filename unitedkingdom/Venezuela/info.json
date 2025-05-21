@@ -1,11 +1,11 @@
 {
     "name": "Venezuela",
-    "update_reason": "Removal of outdated information on presidential inauguration period, land border reopening and resumption of flights with Colombia (\u2018Warnings and insurance\u2019 and \u2018Safety and security\u2019 pages).",
+    "update_reason": "Addition of information on legislative elections to take place on Sunday 25 May and on the temporary suspension of flights between Venezuela and Colombia from 19 May 2025 onwards (\u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Venezuela/Warnings and insurance.md",
-            "update_date": "2025-01-21T16:20:07+00:00"
+            "update_date": "2025-05-20T13:08:33+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Venezuela/Getting help.md"
         }
     ],
-    "update_date": "2025-01-21T16:20:07+00:00"
+    "update_date": "2025-05-20T13:08:33+01:00"
 }

@@ -1,11 +1,11 @@
 {
     "name": "Turkey",
-    "update_reason": "Addition of information that a 6.2 magnitude earthquake has hit near Istanbul ('Warnings and insurance' page).",
+    "update_reason": "Addition of information about the risks of paragliding, or being near paragliding landing zones ('Extreme sports' section of \u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Turkey/Warnings and insurance.md",
-            "update_date": "2025-04-23T13:48:22+01:00"
+            "update_date": "2025-05-20T13:52:46+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Turkey/Getting help.md"
         }
     ],
-    "update_date": "2025-04-23T13:48:22+01:00"
+    "update_date": "2025-05-20T13:52:46+01:00"
 }
