@@ -44,20 +44,14 @@ For consular help, contact the Australian Embassy, Vientiane.
 
 #### Australian Embassy, Vientiane
 
-KM4, Thadeua Road
-
-Watnak Village
-
-Sissatanak District
-
+KM4, Thadeua Road  
+Watnak Village  
+Sissatanak District  
 Vientiane, Lao PDR
 
-Phone: (+856) 21 353800
-
-E-mail: [consular.vientiane@dfat.gov.au](mailto:consular.vientiane@dfat.gov.au)
-
-Website: [laos.embassy.gov.au](http://www.laos.embassy.gov.au/)
-
+Phone: +856 21 353800  
+E-mail: [consular.vientiane@dfat.gov.au](mailto:consular.vientiane@dfat.gov.au)  
+Website: [laos.embassy.gov.au](http://www.laos.embassy.gov.au/)  
 Facebook: <https://www.facebook.com/australiainlaos/>
 
 Check the Embassy website for details about opening hours and any temporary closures.

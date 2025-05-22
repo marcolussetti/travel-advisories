@@ -56,7 +56,7 @@ It's also illegal to:
 * visit temples or other religious or cultural sites after 10:30pm
 * speak or publish material against Laos
 
-While cigarettes are common, the use of E-cigarettes is illegal. You could be fined or imprisoned for importing, selling, purchasing or using them.
+While cigarettes are common, the use of e-cigarettes (vapes), heated tobacco products and shisha is illegal in Laos. You could be fined or imprisoned for importing, exporting, selling, purchasing, or using these items. Do not bring these items into Laos.
 
 It's also illegal to sleep or camp in:
 
