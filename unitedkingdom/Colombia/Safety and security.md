@@ -25,7 +25,7 @@ These groups may attack with little or no warning. The focus is predominantly in
 * major sporting and cultural events
 * educational institutions
 
-Police and military personnel and installations are frequently targeted.
+Police and military personnel and installations are frequently targeted, including in large cities.
 
 Past methods of attack have included car bombs, grenade attacks and explosive devices left in buildings. Stay alert and follow the advice of the local security authorities.
 

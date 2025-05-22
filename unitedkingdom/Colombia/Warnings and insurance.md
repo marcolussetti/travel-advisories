@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   18 April 2025
+:   22 May 2025
 
 Updated:
-:   18 April 2025
+:   21 May 2025
 
 Latest update:
-:   Information on increased cases of yellow fever in Colombia ('Warnings and insurance' and 'Health')
+:   Information on temporary suspension of flights between Venezuela and Colombia from 19 until 26 May 2025 ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/67c05135b0bb6528ee866b96/FCDO_TA_054_-_Colombia_Travel_Advice_Ed3_WEB.jpg)
 
@@ -65,6 +65,10 @@ Find out more about [why FCDO advises against travel](/foreign-travel-advice/col
 ## Yellow fever
 
 There are increasing cases of yellow fever in Colombia, especially in the Departments of Tolima and Cundinamarca. Yellow fever vaccination certificates are required for travellers who have recently visited or transited higher-risk countries or those visiting areas of higher risk within Colombia. Consult the [NaTHNac website: Colombia](https://travelhealthpro.org.uk/country/53/colombia#Vaccine_Recommendations) for more information, including on vaccination.
+
+## Venezuela – Colombia flights
+
+Flights between Venezuela and Colombia have been temporarily suspended from 19 May 2025 to 6pm on 26 May 2025. Contact your airline or travel agent/tour operator if your flight is affected.
 
 ## Before you travel
 

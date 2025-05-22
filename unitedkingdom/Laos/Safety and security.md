@@ -84,9 +84,21 @@ If you are under criminal investigation, you can be detained for long periods wi
 
 ### Illegal drugs and the death penalty
 
-The possession and use of all drugs including marijuana are illegal in Laos and penalties are harsh. These include life sentences and the death penalty, with a number of Lao nationals having been sentenced to death in 2024.
+Possession, trafficking and manufacture of any illegal drugs are serious offences in Laos. This includes cannabis. British nationals have been caught carrying cannabis while transiting through Laos.
 
-For confidential support and guidance for dealing with officials, call the [British Embassy in Vientiane](https://www.gov.uk/world/organisations/british-embassy-vientiane) (24 hours).
+The Laos authorities have a zero-tolerance policy to drug offences. Possessing drugs, even in very small quantities, carries severe penalties, including:
+
+* arrest and detention
+* a long jail sentence if charged and convicted
+* a possible death penalty for drug trafficking
+
+Legal processes before court hearings can be long and expensive. It can take many months for a case to go to trial.
+
+Criminal gangs in the UK and elsewhere are known to coerce people into carrying drugs across borders. Do not allow yourself to be persuaded.
+
+It is important to be aware of your rights if you are detained by the police. See our [guidance for those detained or imprisoned in Laos](https://www.gov.uk/government/publications/laos-prisoner-pack).
+
+Police often raid venues known to be frequented by foreigners. You may have to take a urine or blood test if there is a suspicion you have used drugs. You will be arrested if the test is positive.
 
 ### Using cameras and binoculars in secure areas
 

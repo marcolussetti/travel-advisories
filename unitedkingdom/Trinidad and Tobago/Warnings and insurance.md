@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   29 March 2025
+:   22 May 2025
 
 Updated:
-:   28 March 2025
+:   21 May 2025
 
 Latest update:
-:   New information that consensual same-sex activity between men is now a crime punishable by up to five years imprisonment ( See 'LGBT+travellers' on 'Safety and security' page).
+:   Removal of information about the nationwide state of emergency in Trinidad and Tobago ('Safety and security' page).
 
 ## Before you travel
 

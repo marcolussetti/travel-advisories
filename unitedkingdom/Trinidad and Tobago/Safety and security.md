@@ -12,17 +12,6 @@ Terrorist attacks in Trinidad and Tobago cannot be ruled out.
 
 Attacks could be indiscriminate including in places visited by foreign nationals. Stay aware of your surroundings, keep up to date with local media reports and follow the advice of local authorities.
 
-## Nationwide state of emergency
-
-On January 13, 2025, the Trinidad and Tobago authorities extended the nationwide state of emergency for a further 3 months. No curfew has been imposed and there are no restrictions on public gatherings or marches.
-
-During the state of emergency in Trinidad and Tobago, security forces can:
-
-* search persons and property without a warrant
-* arrest and detain without a warrant
-
-Expect heightened police and military presence. Always carry your ID and comply with local authorities.
-
 ## Crime
 
 ### Carnival and other large-scale events

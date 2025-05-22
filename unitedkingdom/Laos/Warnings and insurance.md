@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   14 May 2025
+:   22 May 2025
 
 Updated:
-:   13 May 2025
+:   21 May 2025
 
 Latest update:
-:   Updated information about the Lao legal system and updated information on vapes, heated tobacco and shisha ('Safety and security' page).
+:   Updated information on illegal drugs, including cannabis ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/64391b7a773a8a0013ab2c63/FCDO__TA__088_-_Laos_Travel_Advice_Ed1__WEB_.jpg)
 
