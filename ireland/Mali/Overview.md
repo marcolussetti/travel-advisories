@@ -2,13 +2,13 @@
 
 ### **Security Status**
 
-Do not travel.
+Do Not Travel
 
-### **Latest Travel Alert**
+### **Travel Alert**
 
 Irish citizens are advised to leave the country if they do not have an essential reason to stay. If deciding to stay, against our advice, stay fully informed of what’s going on by monitoring local media and staying in contact with your hotel or tour organiser. Avoid demonstrations and public gatherings which can sometimes turn confrontational.
 
-Several terrorist groups operate in Mali, including Jama’a Nusrat ul-Islam wa al-Muslimin (JNIM) and Islamic State Sahel Province (ISSP). JNIM has claimed responsibility for attacks in Bamako targeting the Malian defense and security forces at and around Modibo Keïta international airport and the Faladié gendarmerie school on 17 September 2024.
+Several terrorist groups operate in Mali, including Jama’a Nusrat ul-Islam wa al-Muslimin (JNIM) and Islamic State Sahel Province (ISSP).
 
 ### **General Travel Advice**
 
@@ -36,7 +36,7 @@ You can contact the emergency services in Mali by dialling 18. Specific emergenc
 
 * Get comprehensive travel insurance that covers all your planned activities.
 * [**Register**](/en/dfa/overseas-travel/citizens-registration/) your details with us so that we can contact you quickly if there’s an unforeseen crisis like a natural disaster or a family emergency.
-* Follow us on X [**@dfatravelwise**](https://www.twitter.com/DFATravelWise)  and Instagram [**@dfatravelwise**](https://www.instagram.com/dfatravelwise/) for the latest travel updates.
+* Follow us on X [**@dfatravelwise**](https://www.twitter.com/DFATravelWise) and Instagram [**@dfatravelwise**](https://www.instagram.com/dfatravelwise/) for the latest travel updates.
 * Read our [**‘Know Before You Go’**](/en/dfa/overseas-travel/know-before-you-go/) guide.
 
 As there is no Irish Embassy in Mali, we are limited in the help we can offer you in an emergency. However, if you need assistance, you can contact the Consular Assistance Unit [**here**](/en/tanzania/daressalaam/services/consular-assistance/) or at the Department of Foreign Affairs in Dublin on +353 1 408 2000

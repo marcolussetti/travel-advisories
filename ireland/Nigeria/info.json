@@ -3,29 +3,33 @@
     "risk_level": "Avoid Non-Essential Travel",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Nigeria/Overview.md"
+            "title": "Travel to Nigeria overview",
+            "file": "ireland/Nigeria/Travel to Nigeria overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Nigeria/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Nigeria/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Nigeria/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Nigeria/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/Nigeria/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/Nigeria/Natural disasters and climate.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/Nigeria/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Nigeria/Embassy contact.md"
         }
     ],
-    "update_date": "2025-05-16T00:00:00"
+    "update_date": "2025-05-21T00:00:00"
 }

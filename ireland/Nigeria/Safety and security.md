@@ -6,7 +6,7 @@ Attacks can be indiscriminate and could strike a variety of targets including; g
 
 Due to the threat of domestic terrorism, under no circumstances should you travel to the north-eastern states of Adamawa, Borno and Yobe, and their neighbouring states of Bauchi and Gombe. There is an on-going insurgency in north-eastern Nigeria which has the potential to spill-over into surrounding states. Moreover, borders between Nigeria and Cameroon, Chad and Niger are extremely porous, which facilitates the movement of criminal gangs, drug traffickers and radical groups.
 
-If you have essential business in the northern or Middle Belt states of Nigeria we advise you to contact the Embassy of Ireland in Abuja well in advance of your trip
+If you have essential business in the northern or Middle Belt states of Nigeria we advise you to contact the Embassy of Ireland in Abuja well in advance of your trip.
 
 ### **Crime**
 
@@ -41,10 +41,10 @@ There are high numbers of authorised and unauthorised vehicle checkpoints throug
 
 Public transport is dangerous and we advise against its use. Taxis and long distance buses are poorly maintained and travellers who use them expose themselves to the risk of theft or attack from drivers and other passengers. Travellers should in particular ensure that they have pre-arranged travel from their destination airport before travelling to Nigeria and should avoid using public transport from an airport. Make sure that you have the name and phone number of the person collecting you from the Airport.
 
-### **Swimming**
-
-Ocean currents are very strong along the coast, and many swimming accidents are caused by rip tides.
-
 ### **Air Travel**
 
 Travellers should note that there are concerns about the safety and reliability of some airline companies operating domestic flights within Nigeria. Irish citizens should carefully evaluate the implications for their security and safety before deciding to undertake domestic air travel. Also, domestic flights are frequently cancelled at short notice and travellers should consider direct international flights in to Nigeria rather than transiting domestically. There are often lengthy flight delays, particularly flights later in the day.
+
+### **Swimming**
+
+Ocean currents are very strong along the coast, and many swimming accidents are caused by rip tides.

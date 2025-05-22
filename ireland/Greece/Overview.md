@@ -6,9 +6,11 @@ Normal Precautions
 
 ### **Travel Alert**
 
-### **Earthquakes and Seismic Activity**
+### **Santorini (Thira), Amorgos, Anafi and los**
 
-The islands of Santorini (Thira), Amorgos, Anafi and los are currently experiencing a significant volume of earthquakes. The authorities have put in place a series of safety measures on Santorini until 15 May at the Old Port of Fira, the eastern part of the settlement of Armeni Oia and the Ammoudi Settlement.
+Following seismic activity in this part of Greece, the authorities have put in place a series of safety measures on Santorini until November, including at the Old Port of Fira, the eastern part of the settlement of Armeni Oia and the Ammoudi Settlement.
+
+Please follow the advice and instruction of local authorities if you are in this region.
 
 Information and instructions on staying safe during an earthquake are available on the website of the [**Greek Ministry of Climate Crisis and Civil Protection**](http://www.civilprotection.gov.gr). Maps detailing nearby evacuation points are available at [**mySafetyPlan**](https://mysafetyplan.gov.gr/)**.** If you are in immediate need of assistance, please call 112.
 
@@ -40,7 +42,7 @@ You can contact the emergency services in Greece by dialling the following emerg
 
 You can also contact the emergency services in Greece using the [**mAIGreece app**](https://www.gov.gr/en/upourgeia/upourgeio-tourismou/tourismou/maigreece)**.**
 
-**Our tips for Safe Travels:**
+### **Our tips for Safe Travels:**
 
 * Have a valid [**European Health Insurance Card**](http://www.hse.ie/eng/services/list/1/schemes/EHIC/)
 * Get **comprehensive travel insurance** that covers all planned activities including medical repatriation/evacuation, repatriation of remains and legal costs.

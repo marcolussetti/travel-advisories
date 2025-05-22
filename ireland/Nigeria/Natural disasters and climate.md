@@ -1,0 +1,3 @@
+## Natural disasters and climate
+
+Nigeria's climate is tropical, varying from the humid beaches in the south to the hot desert in the north. Temperatures can vary from 21°C to 44°C. Elevated areas of the country such as the Jos plateau are cooler and wetter. Given the high temperatures, travellers in Nigeria frequently become dehydrated and we advise that travellers maintain a supply of drinking water.
