@@ -2,112 +2,110 @@
 
 [#### Health](javascript:void(0); "Health")
 
-For emergency services in South Africa, dial **10111**. Ambulance services are:
+**Health resources**
 
-* not widely available and training and availability of emergency responders may be below U.S. standards;
-* not present throughout the country or are unreliable in most areas except in major cities and may;
-* not be equipped with state-of-the-art medical equipment.
+* [South Africa Traveler Health Information](https://wwwnc.cdc.gov/travel/destinations/traveler/none/south-africa)
+* [Medical Tourism information](https://wwwnc.cdc.gov/travel/yellowbook/2024/health-care-abroad/medical-tourism)
+* [International Air Quality Index](https://aeronet.gsfc.nasa.gov/new_web/aqforecast)
+* [Insurance Coverage Overseas](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html)
+* [South Africa Health Information](https://www.who.int/countries/zaf/)
+* [List of Hospitals and Doctors in South Africa](https://za.usembassy.gov/medical-assistance/)
 
-We highly recommend that all travelers review the U.S. Centers for Disease Control and Prevention’s [Travelers’ Health webpage](https://wwwnc.cdc.gov/travel/) and general [Traveler Advice](https://wwwnc.cdc.gov/travel/page/traveler-information-center) for South Africa.
+**Emergency numbers  
+Dial 10111** for medical emergencies.
 
-* Select your destination in the [Travelers’ Health webpage](https://wwwnc.cdc.gov/travel/).
-* Review all sub-sections including the Travel Health Notices, Vaccines and Medicines, Non-Vaccine-Preventable Diseases, Stay Healthy and Safe, Healthy Travel Packing List, and After Your Trip.
-* Review the [Traveler Advice](https://wwwnc.cdc.gov/travel/page/traveler-information-center) webpage that provide advice on medical considerations including:
-  + Reasons for Travel (for example: Adventure Travel, Spring Break Travel)
-  + Travelers with Special Considerations (for example: Allergies, Long-Term Travelers and Expatriates)
-  + and General Tips (for example: Traveling with Medications, Travel Vaccines)
+**Ambulance Services**
 
-Private medical facilities are good in urban areas and in the vicinity of game parks but limited elsewhere. Private medical facilities require a deposit before admitting patients. Pharmacies are well-stocked, but you should carry an adequate supply of prescription medication in original packaging, along with your doctor’s prescription. HIV and AIDS is a major public health concern.
+* Ambulances are scarce or unreliable in most areas, except in major cities, and lack advanced medical equipment.
+* Ambulances and emergency crews often lack training.
+* In an emergency, travelers may prefer to take a taxi or car to the hospital rather than an ambulance.
 
-**The Department of State, U.S. embassies and U.S. consulates do not pay medical bills**
+We highly recommend that all travelers review the  [U.S. CDC’s Health Advice for Travelers to South Africa.](https://wwwnc.cdc.gov/travel/destinations/traveler/none/south-africa)
 
-Be aware that U.S. Medicare/Medicaid does not apply overseas. Most hospitals and doctors overseas do not accept U.S. health insurance.
+**Healthcare**
 
-**Medical Insurance**
-
-Make sure your health insurance plan provides coverage overseas. Private medical facilities will require payment before care is administered. See [insurance providers for overseas coverage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html). Visit the [U.S. Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/page/insurance)for more information on type of insurance you should consider before you travel overseas. for more information on type of insurance you should consider before you travel overseas.
-
-If your health insurance plan does not provide coverage overseas, we strongly recommend your [Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html).
-
-If traveling with prescription medication, check with the [Embassy of South Africa](http://www.saembassy.org/) to ensure the medication is legal in South Africa. Always, carry your prescription medication in original packaging with your doctor’s prescription.
-
-The following diseases are prevalent:
-
-* [Hepatitis A](https://wwwnc.cdc.gov/travel/diseases/hepatitis-a)
-* [Hepatitis B](https://wwwnc.cdc.gov/travel/diseases/hepatitis-b)
-* [Malaria](https://wwwnc.cdc.gov/travel/diseases/malaria)
-* [Measles](https://wwwnc.cdc.gov/travel/diseases/measles)
-* [Rabies](https://wwwnc.cdc.gov/travel/diseases/rabies)
-* [Typhoid](https://wwwnc.cdc.gov/travel/diseases/typhoid)
-* [Yellow Fever](https://wwwnc.cdc.gov/travel/diseases/yellow-fever)
-* [Leptospirosis](https://wwwnc.cdc.gov/travel/diseases/leptospirosis)
-* [Schistosomiasis](https://wwwnc.cdc.gov/travel/diseases/schistosomiasis)
-* [African Tick-bite Fever](https://wwwnc.cdc.gov/travel/diseases/african-tick-bite-fever)
-* [Chikungunya](https://wwwnc.cdc.gov/travel/diseases/chikungunya)
-* [Crimean-Congo Hemorrhagic Fever](https://www.cdc.gov/vhf/crimean-congo/index.html)
-* [Rift River Valley](https://www.cdc.gov/vhf/rvf/)
-* [Avian/Bird Flu](https://wwwnc.cdc.gov/travel/diseases/avian-bird-flu)
-* [Hantavirus](https://wwwnc.cdc.gov/travel/diseases/hantavirus)
-* [Tuberculosis (TB)](https://wwwnc.cdc.gov/travel/diseases/tuberculosis)
-
-**Vaccinations**
-
-Be up to date on [vaccinations](https://wwwnc.cdc.gov/travel/destinations/list) recommended by the U.S. Centers for Disease Control and Prevention.
-
-**For further health information**
-
-* [World Health Organization](https://www.who.int/travel-advice)
-* [U.S. Centers for Disease Control and Prevention (CDC)](https://wwwnc.cdc.gov/travel/)
-
-**Air Quality**
-
-Air pollution is a significant problem in several major cities in South Africa. Consider the impact seasonal smog and heavy particulate pollution may have on you and consult your doctor before traveling if necessary.
-
-The air quality varies considerably and fluctuates with the seasons. It is typically at its worst in the Winter (Southern Hemisphere). People at the greatest risk from particle pollution exposure include:
-
-* Infants, children, and teens
-* People over 65 years of age
-* People with lung disease such as asthma and chronic obstructive pulmonary disease (COPD), which includes chronic bronchitis and emphysema.
-* People with heart disease or diabetes
-* People who work or are active outdoors
-* The U.S. Embassy maintains a list of [doctors and hospitals.](https://za.usembassy.gov/medical-assistance/) We do not endorse or recommend any specific medical provider or clinic.
-* Adequate health facilities are available major cities but health care in rural areas may be below U.S. standards.
+* Private healthcare facilities are adequate in cities.
+* Health care in rural areas may be below U.S. standards.
+* Private hospitals may require a deposit before admitting patients.
+* Pharmacies are well-stocked, but you should carry enough prescription medications in original packaging, along with your doctor’s prescription.
+* HIV/AIDS is a major public health concern.
 * Public medical clinics lack basic resources and supplies.
-* Hospitals and doctors often require payment “up front” prior to service or admission. Credit card payment is not always available. Most hospitals and medical professionals require cash payment.
 
-Air pollution can be a significant problem in many destinations overseas.
+**Medical payments and insurance**
 
-* Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in South Africa.
-* For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/).
-* For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/).
+* The U.S. government, including Department of State, U.S. embassies and U.S. consulates do not pay medical bills.
+* U.S. Medicare and Medicaid don’t work abroad.
+* Make sure your insurance plan works overseas. The CDC provides more information on types of insurance available.
+* Some hospitals and doctors abroad don’t accept U.S. health insurance.
+* Hospitals and doctors often require payment “up front” prior to service or admission.
+* Credit card payment is not always available. Many care providers overseas only accept cash.
+
+We strongly recommend [supplemental insurance](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html?cq_ck=1708701048867) to cover medical evacuation.
+
+**Pharmaceuticals**Before traveling, check with the [Embassy of South Africa](https://www.saembassy.org/) to ensure your medication is legal.
+
+* Bring your prescription medications in their original packaging.
+* Bring a copy of your doctor’s prescription.
+* Be careful when purchasing medication overseas.
+* Counterfeit medications are common and may not work or be dangerous.
+* Purchase medication in consultation with a medical professional and from trusted places.
+* You must follow the law if you are bringing medication back to the United States. The medication must be for personal use and approved in the United States. Get more information from [U.S. Customs and Border Protection](https://www.cbp.gov/travel/us-citizens/know-before-you-go/prohibited-and-restricted-items) and the [Food and Drug Administration](https://www.fda.gov/)
+
+**Common diseases**
+
+* Hepatitis A and B
+* Malaria
+* Measles
+* Rabies
+* Typhoid
+* Yellow fever
+* Leptospirosis
+* Schistosomiasis
+* African tick-bite fever
+* Chikungunya
+* Crimean-Congo hemorrhagic fever
+* Rift river valley
+* Avian/bird flu
+* Hantavirus
+* Tuberculosis (TB)
+
+**Vaccinations**Visit your doctor at least one month before travel to update your CDC-recommended vaccinations.
+
+**Air quality**Air pollution can be a significant problem in many destinations overseas.
+
+* Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast). It uses AI, historical data, and global pollution models to create a 3-day air quality forecast for South Africa.
+* For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/).
+* For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/).
 * For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
 
-**Medical Tourism and Elective Surgery**
+The U.S. Embassy maintains a [list of doctors and hospitals](https://za.usembassy.gov/medical-assistance/). We do not endorse or recommend any specific medical provider or clinic.
 
-Medical tourism is a rapidly growing industry. People seeking health care overseas should understand that medical systems operate differently from those in the United States and are not subject to the same rules and regulations. Anyone interested in traveling for medical purposes should consult with their local physician before traveling and visit the [U.S. Centers for Disease Control and Prevention website](https://wwwnc.cdc.gov/travel/) for more information on Medical Tourism.
+**Medical tourism and elective surgery**Learn about the risks of [medical tourism](https://wwwnc.cdc.gov/travel/page/medical-tourism) from the CDC and find out how to prepare before traveling.
 
-Visit the [U.S. Centers for Disease Control and Prevention website](https://wwwnc.cdc.gov/travel/) for information on Medical Tourism, the risks of medical tourism, and what you can do to prepare before traveling to South Africa.
+* U.S. citizens seeking healthcare abroad should know that medical systems differ from those in the United States and follow different rules.
+* Consult your doctor before traveling for medical reasons.
+* Your legal options in case of malpractice are very limited.
+* Elective and cosmetic surgery facilitiesvary in quality.  Some are as good as those in the United States, while others may be untrustworthy.
+* If you are planning surgery in South Africa, check that emergency medical facilities are nearby and that professionals are accredited and qualified.
 
-We strongly recommend [supplemental insurance](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html?cq_ck=1708701048867) to cover medical evacuation in the event of unforeseen medical complications.
+We recommend buying [supplemental insurance](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html?cq_ck=1708701048867) to cover evacuation for unexpected medical issues.
 
-Your legal options in case of malpractice are very limited in South Africa.
+**Water quality and food safety**
 
-Although South Africa has many elective/cosmetic surgery facilities that are on par with those found in the United States, the quality of care varies widely. If you plan to undergo surgery in South Africa, make sure that emergency medical facilities are available, and professionals are accredited and qualified.
+* In many areas, tap water is not safe to drink.
+* Bottled water and beverages are safe.
+* Ice for drinks may be made from tap water.
 
-**Pharmaceuticals**
+**Altitude**Be aware of the symptoms of altitude sickness and take precautions before you travel.
 
-Exercise caution when purchasing medication overseas. Pharmaceuticals, both over the counter and requiring prescriptions, are often readily available for purchase with minimal regulation. Counterfeit medication is common and may be ineffective, the wrong strength, or contain dangerous ingredients. Medication should be purchased in consultation with a medical professional and from reputable establishments.
+* Johannesburg is at high altitude (5,751 feet).
+* Read about [traveling to high](https://wwwnc.cdc.gov/travel/page/travel-to-high-altitudes) altitudes (source: CDC)
 
-U.S. Customs and Border Protection and the Food and Drug Administration are responsible for rules governing the transport of medication back to the United States. Medication purchased abroad must meet their requirements to be legally brought back into the United States. Medication should be for personal use and must be approved for usage in the United States. Please visit the [U.S. Customs and Border Protection](https://www.cbp.gov/travel/us-citizens/know-before-you-go/prohibited-and-restricted-items) and the [Food and Drug Administration](https://www.fda.gov/drugs/buying-using-medicine-safely/buying-medicine-outside-united-states) websites for more information.
+**Adventure travel**Learn more about [Adventure Travel](https://wwwnc.cdc.gov/travel/page/adventure) (source: CDC)
 
-**Water Quality & Food Safety**
+Hiking and climbing in South Africa can be dangerous, and some U.S. citizens have died while doing these activities. To stay safe:
 
-In many areas, tap water is not potable. Bottled water and beverages are generally safe, although you should be aware that many restaurants and hotels serve tap water unless bottled water is specifically requested. Be aware that ice for drinks may be made using tap water.
-
-**Altitude**
-
-Johannesburg is at high altitude (5,751 feet). Be aware of the symptoms of altitude sickness and take precautions before you travel. Visit the U.S. Centers for Disease Control and Prevention website for more information about [Travel to High Altitudes](https://wwwnc.cdc.gov/travel/page/travel-to-high-altitudes).
-
-**Adventure Travel**
-
-Visit the U.S. Centers for Disease Control and Prevention website for more information about [Adventure Travel](https://wwwnc.cdc.gov/travel/page/adventure).
+* Follow local rules and safety advice.
+* Always bring enough water.
+* Never hike or climb alone.
+* Tell someone where you're going and when you'll be back.

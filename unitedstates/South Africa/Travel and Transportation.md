@@ -2,24 +2,56 @@
 
 [#### Travel and Transportation](javascript:void(0); "Travel and Transportation")
 
-**Road Conditions and Safety:** Road conditions are generally good in South Africa, but the road traffic death rate is nearly three times higher in South Africa than in the United States. The high incidence of road traffic mortality is due to a combination of poor driving, limited enforcement of traffic laws, road rage, aggressive driving, distracted driving, and driving under the influence of alcohol. Use extreme caution driving at night. U.S. government employees are discouraged from driving after dark outside of major metropolitan areas, except for highway travel between Pretoria and Johannesburg. Traffic lights are frequently out of order.
+**Road conditions and safety**Road conditions are good in South Africa. Traffic deaths are much higher than in the United States.
 
-**Traffic Laws:** Traffic in South Africa moves on the left, and the steering wheel is on the right-hand side of the car. Under South African law, all occupants of motor vehicles equipped with seatbelts are required to wear them while the vehicle is in operation. Texting or talking on a cell phone without a hands-free unit while driving is illegal. Treat all intersections with malfunctioning traffic lights as a four-way stop.
+* High traffic deaths are caused by bad driving, weak traffic law enforcement, road rage, aggressive driving, distractions, and drunk driving.
+* Avoid driving at night.
+* Traffic lights are frequently out of order.
+* Border delays in South Africa can occur due to closures or reduced services, causing long waits.
 
-South African law does not require an international driver’s license. A valid driver’s license from any U.S. state or territory that has the signature and photo of the driver is valid to drive in South Africa for stays of less than six months.
+**Traffic laws**
 
-Please refer to the [Road Safety page](https://travel.state.gov/content/travel/en/international-travel/before-you-go/driving-and-road-safety.html) for more information. Also, visit the websites of [South African Tourism](http://www.southafrica.net/) and the [South African National Roads Agency](http://www.nra.co.za/) for more information regarding local transportation trends and laws.
+* Traffic drives on the left, and the steering wheel is on the right side of the car.
+* Seatbelts are required for all passengers by law.
+* It is illegal to text or use cell phones without hands-free devices while driving.
+* Treat all intersections with malfunctioning traffic lights as a four-way stop.
+* International driver’s licenses are not required.
+* A valid driver’s license from any U.S. state or territory is valid for stays of less than six months.
 
-**Public Transportation:**
+For more information about local transportation trends and laws:
 
-**Taxis:** The use of individual metered taxis dispatched from established taxi companies, hotel taxis, and tour buses is recommended. U.S. government personnel are not allowed to use minibus taxis or hail taxis on the street or use a taxi stand. Minibus taxi drivers are often unlicensed and drive erratically.
+* [Road Safety](https://travel.state.gov/content/travel/en/international-travel/before-you-go/driving-and-road-safety.html)
+* [South African Tourism](https://www.southafrica.net/us/en/)
+* [South African National Roads Agency](https://www.nra.co.za/)
 
-**Transportation Network Companies:** Transportation Network Companies (TNCs), such as Uber, also operate in South Africa. U.S. government personnel may only use TNCs with a dispatch application that provides vehicle description, license plate number, and the driver’s name, picture, user rating, and the ability to share trip information. The user should verify the information provided by the company, such as the vehicle make/model, license plate number, and driver’s name/picture, prior to entering the vehicle. TNCs should not be used to travel outside major metropolitan areas. Pick up and drop off should not be done near a traditional taxi stand due to tensions between rideshare and taxi drivers that have resulted in altercations.
+**Public transportation**
 
-**Rail Service:**The long-distance rail service, Shosholoza Meyl; the rapid rail Gautrain in Gauteng Province; and luxury rail services, such as Shosholoza Meyl Premier Classe, Blue Train, and Rovos Rail are generally safe and reliable, though mechanical problems and criminal incidents do sometimes occur. U.S. government personnel are not allowed to use the Metrorail commuter rail service because of safety and crime concerns. There have been recent reports of fires being set on Metrorail train cars.
+* **Taxis:** Consider using only reputable dispatched taxis, hotel cabs and tour buses.
+* **Minibus taxis:** These are often unlicensed and unsafe.
 
-See our Road Safety page for more information. Visit the website of South Africa’s [Road Safety](https://www.southafrica.net/) authority and Traffic Management Corporation.
+U.S. government employees are not allowed to use minibus taxis, wave down taxis on the street, or use a taxi stand.
 
-**Aviation Safety Oversight:** The U.S. Federal Aviation Administration (FAA) has assessed the government of South Africa’s Civil Aviation Authority as being in compliance with International Civil Aviation Organization aviation safety standards for oversight of South Africa’s air carrier operations. Further information may be found on the [FAA’s safety assessment page](https://www.faa.gov/about/initiatives/iasa).
+**Ridesharing companies**
 
-**Maritime Travel:**Mariners planning travel to South Africa should also check for [U.S. maritime advisories](https://www.maritime.dot.gov/msci-advisories) and [alerts](https://www.maritime.dot.gov/msci-alerts) on the Maritime Administration website. Information may also be posted to the websites of the [U.S. Coast Guard](https://homeport.uscg.mil/) and the [National Geospace Intelligence Agency](https://msi.nga.mil/NGAPortal/MSI.portal) (select “broadcast warnings”).
+* Prior to entering a ridesharing vehicle, verify all the trip information (vehicle make and model, license plate number, driver’s name or picture).
+* Do not use these services for remote travel.
+* Pick up and drop off location should be away from taxi stands due to tensions.
+* U.S. government employees may only use ridesharing services (Uber, Lyft, etc.) with a dispatch application that provides vehicle description, license plate number, driver’s name, picture, user rating, and the ability to share trip information.
+
+**Rail service**
+
+These services are safe. However, mechanical problems and crime may occur:
+
+* **Long-distance:** Shosholoza Meyl
+* **Rapid:** Gautrain in Gauteng Province
+* **Luxury:** Shosholoza Meyl Premier Classe, Blue Train, and Rovos Rail.
+
+U.S. government employees are not allowed to use the **Metrorail commuter service** due to safety concerns and crime. There have been reports of fires being set on Metrorail train cars.
+
+**Aviation safety oversight**The U.S. Federal Aviation Administration (FAA) has found that South Africa’s Civil Aviation Authority meets international standards for aviation safety oversight. FAA’s website includes more information on its assessment program.
+
+**Maritime travel**Mariners and passengers traveling to South Africa should check for U.S. maritime advisories and alerts:
+
+* U.S. Maritime Advisories and Alerts
+* U.S. Coast Guard Homeport
+* NGA Broadcast Warnings

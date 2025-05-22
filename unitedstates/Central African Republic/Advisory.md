@@ -26,7 +26,7 @@ Armed groups and opposition forces control large areas of the country, and they 
 
 The U.S. government has limited ability to provide emergency services to U.S. citizens in CAR; U.S. government employees must obtain special authorization to travel outside of the capital. Family members cannot accompany U.S. government employees who work in CAR.
 
-Access to medical care is limited. Medical facilities are limited in the quality and standard of care they can provide, and they may not have adequate supplies of basic medications,Visit our website for [Travel to High-Risk Areas](https://travel.state.gov/content/passports/en/go/TraveltoHighRiskAreas.html).
+Access to medical care is limited. Medical facilities are limited in the quality and standard of care they can provide, and they may not have adequate supplies of basic medications. Visit our website for [Travel to High-Risk Areas](https://travel.state.gov/content/passports/en/go/TraveltoHighRiskAreas.html).
 
 Read the [Country Information Page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/CentralAfricanRepublic.html) for additional information on travel to CAR.
 

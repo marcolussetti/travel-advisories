@@ -2,7 +2,12 @@
 
 [#### Entry, Exit and Visa Requirements](javascript:void(0); "Entry, Exit and Visa Requirements")
 
-A valid passport, visa, and proof of onward/return ticket are required for U.S. citizens to enter Guinea-Bissau. The Bissau-Guinean Embassy in Washington, D.C., suspended operations in January, 2007. The Embassy of Guinea-Bissau does not have a website. Due to Guinea-Bissau’s lack of consular representation in the United States, it can be difficult for U.S. citizens to obtain the required visa for entry into Guinea-Bissau. Since most flights destined for Guinea-Bissau must pass through Dakar, Senegal, or Lisbon, Portugal, most travelers are able to apply for visas at the Bissau-Guinean embassies in those countries. Visa upon arrival is also available in Bissau.
+To enter Guinea-Bissau, you need:
+
+* A valid passport with at least six months’ validity.
+* A valid visa. Visa upon arrival is available in Bissau. Guinea-Bissau operates an embassy in the United States, but visa services are not available as of March 2025. Since most flights destined for Guinea-Bissau must pass through Dakar, Senegal, or Lisbon, Portugal, you can also apply for visas at the Bissau-Guinean embassies in those countries.
+* Proof of onward/return ticket.
+* An International Certificate of Vaccination (yellow card) with a record of vaccination against yellow fever.
 
 The U.S. Department of State is unaware of any HIV/AIDS entry restrictions for visitors to or foreign residents of Guinea-Bissau.
 

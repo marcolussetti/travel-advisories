@@ -4,7 +4,9 @@
 
 PASSPORT VALIDITY:
 
-30 days beyond your intended date of exit from South Africa..
+• Passport must be valid for 30 days after your planned exit from South Africa.
+
+• 2 consecutive empty visa pages per entry (not including endorsement pages).
 
 BLANK PASSPORT PAGES:
 
@@ -12,16 +14,18 @@ BLANK PASSPORT PAGES:
 
 TOURIST VISA REQUIRED:
 
-No, if visiting 90 days or less.
+A visa is not required for stays less than 90 days.
 
 VACCINATIONS:
 
-Yellow fever at least 10 days before arrival is required for travelers originating from or transiting through WHO-designated yellow fever countries.
+**Yellow Fever:** Required for travelers who come from designated countries by the WHO.
+
+You must get the vaccine 10 days prior to arrival.
 
 CURRENCY RESTRICTIONS FOR ENTRY:
 
-ZAR 25,000; Foreign currency unlimited if declared; No Kruger coins.
+ZAR 25,000; unlimited foreign currency if declared; No Kruger coins.
 
 CURRENCY RESTRICTIONS FOR EXIT:
 
-ZAR 25,000; Foreign currency unlimited if amount was declared on entry; Up to 15 Kruger coins if proof purchased with foreign currency.
+ZAR 25,000; Foreign currency unlimited if amount was declared on entry; Up to 15 Kruger coins with proof of purchase with foreign currency.

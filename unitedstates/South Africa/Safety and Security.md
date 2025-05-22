@@ -2,106 +2,209 @@
 
 [#### Safety and Security](javascript:void(0); "Safety and Security")
 
-**Alerts regarding important safety and security information such as demonstrations, road security, and weather events are posted on the**[**Embassy’s website**](https://za.usembassy.gov/)**.**
+**Emergency phone numbers**
 
-**In South Africa the equivalent to the “911” emergency line is 10111.**
+Local authorities are responsible for investigating and prosecuting crimes.
 
-The following paragraphs provide a summary, but please read the Department of State’s most recent Overseas Security Advisory Council [Country Security Report](https://www.osac.gov/Pages/ContentReports.aspx?cid=2) on South Africa, which provides detailed information about safety and security concerns for travelers to South Africa.
+* **Dial 10111** for all emergencies.
+* **Dial** **+(27)(12) 431-4000** or **012-431-4000** to contact the U.S. Embassy in Pretoria and report crimes or emergencies (after calling local authorities).
 
-**Civil Unrest:**Strikes and demonstrations occur frequently. These can develop quickly without prior notification and occasionally turn violent, and may include the burning of vehicles, buildings, or tires – which may serve as roadblocks; throwing rocks or other objects; or physical attacks. Strikes and demonstrations can also interrupt traffic and the provision of electricity, water, public transportation, fuel, and other goods and services. Periodic incidents of mob violence directed against refugees and immigrants from other African countries occur in South Africa. During labor protests, strike breakers or those perceived to be strike breakers have been violently attacked. Protests involving taxis and ride hailing services can turn violent. See Travel and Transportation section below for guidance.
+[Embassy of South Africa Alerts](https://za.usembassy.gov/category/alert/)
 
-**Precautions:**
+**Civil unrest and demonstrations**   
+Demonstrations happen often and are unpredictable. They often occur at or very near the U.S. embassy and consulates.
 
-* Avoid demonstrations and use vigilance during your movements around the country. Even events intended to be peaceful can become violent.
-* Maintain caution in areas frequented by foreigners.
-* Monitor news and[Alerts](https://za.usembassy.gov/category/alert/).
+Strikes and demonstrations can include:
 
-**Crime:**Crime in South Africa is very high. Violent crimes happen in places where people live, work, travel, or go out. This includes armed home invasions by criminal groups, which lead to assaults, rapes, and murder. Popular tourist spots and big hotels have their own security to prevent these incidents. But visitors and residents are still affected by armed robbery, rape, kidnapping, carjacking, mugging, and "smash-and-grab" attacks on vehicles. It's important to be extra careful at traffic lights and on/off ramps where cars slow down or stop. To avoid being robbed when buying jewelry or electronics outside high-end stores, many vendors offer to deliver your purchase to your home or hotel for a fee. Crime can happen anywhere and at any time, even in and around Kruger National Park. U.S. government staff and visitors have been robbed near our diplomatic facilities. It's especially important to be cautious in the central business districts (CBDs) of major cities, especially after dark. Crime victims have also been followed from OR Tambo Airport in Johannesburg and then robbed when they reach their home or hotel.
+* Burning of vehicles, buildings, or tires – which may serve as roadblocks.
+* Throwing of rocks or other objects.
+* Physical attacks.
+* Interruptions of traffic and the supply of electricity, water, public transportation, fuel, and other goods and services.
+* Periodic incidents of mob violence against refugees and immigrants from other African countries.
+* Violent attacks against strike breakers or those perceived as such (during labor protests).
+* Violent protests involving taxis and ridesharing services.
 
-Theft can be bold and in broad daylight. Travelers and U.S. diplomats report having cell phones stolen from their hands, as well as purses or wallets taken off counters while paying for goods at stores. Car theft and hijacking continues to plague the country, particularly in large cities. Travelers should choose secure parking options and double check locked doors before leaving a parked car.
+**Safety tips:**Avoid demonstrations and stay alert while traveling in the country.
 
-Throughout South Africa, U.S. citizens should:
+* Exercise caution in tourist areas.
+* Check local news and alerts.
 
-* Avoid walking alone especially after dark.
-* Avoid visiting informal settlement areas unless you are with someone familiar with the area. Please note that U.S. mission staff are required to use fully armored vehicles when visiting many townships in and around the Cape Town area and visiting hours are restricted to between 0700-1500 hours.
-* Do not display cash and valuables.
-* Avoid cash-in-transit vehicles both on the road, as well as ATMs when being refilled. Armed criminal gangs frequently target cash-in-transit vehicles while stopped at customer sites, but also ambush cash-in-transit vehicles while on the road. Such violent armed attacks involve automatic weapons, explosives, and gangs of criminals. Criminals frequently use remote jamming and signal interceptors with success.
+**Crime**   
+Crime rates in South Africa are very high:
+
+* Violent crimes happen in places where people live, work, travel, or go out.
+* Crime can happen anywhere and at any time, even in and around Kruger National Park.
+* This includes armed home invasions by criminal groups, which lead to assaults, rapes, and murders.
+* Popular tourist spots and big hotels have their own security, but incidents still occur.
+* Visitors and residents have been victims of armed robbery, rape, kidnapping, carjacking, mugging, and "smash-and-grab" thefts from vehicles.
+* Car theft and hijacking are common, particularly in large cities.
+* U.S. government staff and visitors have been robbed near diplomatic facilities.
+* Theft can be bold and in broad daylight. Travelers and U.S. diplomats report cell phones being stolen from their hands. Also, thieves take purses and wallets from store counters while paying.
+* Crime victims have also been followed from OR Tambo Airport in Johannesburg and then robbed when they reach their home or hotel.
+
+**How to stay safe**U.S. citizens must always be aware of their surroundings:
+
+* Use extreme caution at traffic lights and on or off ramps where cars slow down or stop.
+* Consider getting your purchases delivered to your home or hotel (for a fee) to avoid the risk of being robbed outside high-end stores.
+* Stay alert in the central business districts (CBDs) of major cities, especially after dark.
+* Choose secure parking options and double check locked doors before leaving a parked car.
+* Keep a low profile.
+* Vary your daily routes and times.
+
+**Stay informed while traveling:**
+
+* Monitor local news and events.
+* Messages are issued from the U.S. Embassy through the [Smart Traveler Enrollment Program](https://mytravel.state.gov/s/step) (STEP). [Register](https://mytravel.state.gov/s/step) to receive alerts while traveling abroad.
+* Regularly monitor travel information from the [U.S Embassy in South Africa.](https://za.usembassy.gov/)
+
+**Victims of crime**   
+Local authorities are responsible for investigating and prosecuting crimes. **Dial 10111** to report crimes to the local police.
+
+* **Dial 012-431-4000** tocontact the U.S. Embassy Pretoria.
+
+U.S. citizen victims of sexual assault or domestic violence may report crimes to the local police at 10111.
+
+U.S. citizens victims of sexual assault are encouraged to contact the U.S. embassy for assistance.
+
+The U.S. Department of State provides information on [help for U.S. victims of crime overseas](http://travel.state.gov/content/passports/en/emergencies/victims.html).
+
+We can:
+
+* Help you find appropriate medical care.
+* Help you report a crime to the police.
+* Contact family or friends with your written consent.
+* Provide a list of local attorneys (does not imply support).
+* Inform you of [victim’s compensation programs in the U.S.](http://travel.state.gov/content/passports/english/emergencies/victims.html)
+* Issue an emergency loan for repatriation to the U.S. or limited medical support in cases of destitution.
+* Replace a stolen or lost passport.
+
+**Personal safety**Throughout South Africa, U.S. citizens should:
+
+* Avoid walking alone, especially after dark.
+* Avoid displaying cash and valuables.
+* Avoid vehicles transporting cash on the road, as well as at ATMs. Criminal gangs often target these vehicles. They ambush them with automatic weapons and explosives. Criminals frequently use remote jamming and signal interceptors with success.
 * Drive with doors locked and windows closed.
 * Always carry a copy of your U.S. passport and visa (if applicable). Keep original documents in a secure location.
-* Avoid driving during periods of load shedding (rolling blackouts) as the roads can become extremely congested due to a lack of traffic signals. These traffic jams and slow-moving traffic can provide opportunities for smash and grab robberies.
+* Avoid driving during load shedding (temporary power outages). The roads can become very congested with no traffic signals. Slow-moving traffic provides opportunities for “smash and grab” theft.
+* Avoid driving outside of metropolitan areas at night, due to road hazards such as animals, broken down vehicles, and the potential to become a victim of crime.
+* Avoid visiting informal settlements (townships) unless you go with someone who knows the area. U.S. mission staff must use fully armored vehicles when visiting many townships in and around Cape Town. The visiting hours are 07:00-15:00.
+* If you're traveling by land to a nearby country, check the local news. Delays or closures at border crossings can happen without warning.
 
-**Student Groups:** There have been instances of student groups being robbed while conducting outreach and service visits in townships. On these occasions, student groups coordinated with officials to conduct service visits and upon arrival were held and then robbed by armed perpetrators.
+**Student groups**Student groups have been robbed while doing outreach and community service in townships, despite coordinating with officials.
 
-**Demonstrations** occur frequently. They may take place in response to political or economic issues, on politically significant holidays, and during international events.
+**International scams**Internet romance and financial scams are common in South Africa. Follow the Department of State [guidelines to protect yourself from scams](http://travel.state.gov/content/passports/english/emergencies/scams.html)and learn how the [FBI](http://www.fbi.gov/scams-safety/fraud) can help.
 
-* Demonstrations can be unpredictable, avoid areas around protests and demonstrations.
-* Past demonstrations have turned violent.
-* Check local media for updates and traffic advisories.
+**How to avoid scammers**Scammers almost always pose as U.S. citizens who have no one else to turn to. Rather than offering help, refer them to the closest U.S. embassy or consulate so we can work with local authorities to assist them.
 
-**Internet romance and financial scams** are prevalent in South Africa. Scams are often initiated through Internet postings/profiles or by unsolicited emails and letters. Scammers almost always pose as U.S. citizens who have no one else to turn to for help.
+If using dating apps or websites:
 
-**Tips to avoid scammers:**
+Let your friends and family know where you are, meet in a popular public place, and avoid eating or drinking anything suspicious.
 
-• Look for red flags such as individuals who say they live in a remote location, a profile that was recently created or seems to be too good to be true, the pace of the relationship is moving too quickly, or requests for money.
-
-* Set up a phone call/video chat in the initial stages.
+* Set up a video call in the initial stages.
 * Do a reverse image search on the profile picture.
-* If the individual asking for help claims to be a U.S. citizen, rather than helping them, you should refer them to the closest U.S. Embassy or Consulate so we can work with local authorities to assist them.
+* Don't go to bars or nightclubs alone.
 
-**Common scams include:**
+Look for red flags such as:
 
-* Romance/Online dating
+* People who say they live in a remote location.
+* Profiles that were recently created or seem to be too good to be true.
+* Receiving unwanted emails or letters.
+* The pace of the relationship is moving too quickly.
+* Requests for money.
+
+Common scams include:
+
+* Romance or online dating
 * Money transfers
 * Lucrative sales
 * Gold purchase
 * Contracts with promises of large commissions
-* Grandparent/Relative targeting
-* Free Trip/Luggage
+* Grandparent or relative targeting
+* Free trip or luggage
 * Lotteries
 * Inheritance notices
-* Work permits/job offers
+* Work permits or job offers
 * Bank overpayments
 
-**Technology Usage Abroad:** Mobile devices are vulnerable to compromise, theft, and physical damage anywhere in the world. Best practices prior to traveling abroad include keeping all software (for operating systems and apps) updated and using virtual private network (VPN) and encrypted voice over IP (VoIP) applications if possible. Make sure that all VPN/VoIP are reputable, and U.S. based. Do not connect to unknown open Wi-Fi.
+**Technology use abroad**Mobile devices are vulnerable to compromise, theft, and damage anywhere in the world. Follow these safety practices:
 
-**GPS navigation apps**. Prior to using the GPS navigation apps, make sure you research the route to make sure it is safe. GPS navigation apps may give you the shortest route without safety consideration.
+* Update all software (operating system and apps) before leaving.
+* Use reputable, U.S. based VPN/VoIP applications.
+* Don’t connect to unknown public Wi-Fi networks.
+* Be cautious using dating apps abroad, as scammers often target U.S. citizens.
 
-**Dating apps and websites**. Be careful when using dating apps and online dating websites in foreign countries as scammers may target U.S. citizens. Let your friends and family know where you are, meet in a popular public place, and avoid eating or drinking anything suspicious. Don't go to bars or nightclubs alone.
+**GPS apps**Prior to using any GPS apps:
 
-**Credit cards and ATMs.** Travelers need not surrender their credit card to any vendor. They will bring a credit card machine to customers.
+* Research the route to make sure it’s safe.
+* The shortest path may not be the safest.
 
-Be cautious when using ATMs outside of banks and reputable hotels because ATM and Credit Card skimming is common. Thieves may pretend to help you use a malfunctioning ATM and steal your ATM cards. Skimmers have also been found on machines used to pay parking tickets at shopping malls and office buildings. To avoid this risk, pay parking fees with cash.
+**Credit cards and ATMs**
 
-See the [FBI](https://www.fbi.gov/scams-and-safety/common-scams-and-crimes) pages for information.
+* Do not hand over your credit card to vendors. They will bring a credit card reader to you.
+* ATM and credit card skimming are common. Check for unusual devices on card readers and monitor your account statements.
+* Skimmers have been found on machines at parking kiosks, shopping malls and office buildings. To avoid this risk, pay parking fees with cash.
+* Thieves may pretend to help you use a "broken” ATM and steal your cards.
 
-**Victims of Crime:**
+Review the [FBI pages](https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams) for information.
 
-U.S. citizen victims of sexual assault or domestic violence should report crimes to the local police at 10111. Remember that local authorities are responsible for investigating and prosecuting the crime.
+**Terrorism threat**[Terrorist groups](https://travel.state.gov/content/travel/en/international-travel/emergencies/terrorism.html?) and their supporters aim to attack U.S. citizens abroad with methods such as knives, firearms and vehicles.
 
-See our webpage on [help for U.S. victims of crime overseas](https://travel.state.gov/content/travel/en/international-travel/emergencies/crime.html).
+Terrorists target crowds at:
 
-**The U.S. Consulates General in South Africa can:**
+* Large public events (sports, political rallies, demonstrations, holiday events, celebrations)
+* Popular hotels, clubs, and restaurants
+* Places of worship
+* Schools
+* Parks
+* Shopping malls and markets
+* Public transportation (subways, buses, trains, and commercial flights)
 
-* help you find appropriate medical care
-* assist you in reporting a crime to the police
-* contact relatives or friends with your written consent
-* explain the local criminal justice process in general terms
-* provide a list of local attorneys
-* provide information on [victim’s compensation programs in the U.S.](https://travel.state.gov/content/travel/en/international-travel/emergencies/crime.html)
-* provide an emergency loan for repatriation to the United States and/or limited medical support in cases of destitution
-* help you find accommodation and arrange flights home
-* replace a stolen or lost passport
+Extremists connected to international terrorist groups (al-Qai’ida, al-Shabaab, and ISIS) have used South Africa as a base to recruit new members and get financial support:
 
-**Terrorism Threat:**Extremists with ties to international terrorist organizations, such as al-Qai’ida, al-Shabaab, and ISIS, historically have used South Africa as a logistical hub to conduct recruitment and financial facilitation. There has been increased activity by ISIS sympathizers and supporters locally, including the placement of incendiary devices and kidnapping for ransom operations. South African authorities have periodically arrested individuals and charged them with terrorism related crimes. The U.S. Department of Treasury’s Office of Foreign Assets Control has publicly designated ISIS members operating in South Africa who have provided technical, financial, or material support to the terrorist group. Check the [Mission’s website](https://za.usembassy.gov/category/alert/) to review Alerts to U.S. citizens, and [register](https://step.state.gov/) with the U.S. Mission to South Africa to receive new Alerts by email during your travels.
+* There has been more ISIS activity in the area, including setting up devices that can start fires and carrying out kidnappings for ransom.
+* South African authorities have regularly arrested terrorists.
+* The U.S. Treasury's Office of Foreign Assets Control has publicly named ISIS members in South Africa. They have provided technical, financial, or material support to the group.
 
-For more information, see our Terrorism page.
+**Game parks and outdoor safety**
 
-**Game parks and outdoor safety:** Visitors have been injured and killed by wild animals in South Africa. It is dangerous to leave your vehicle in game parks outside of designated areas. Observe all park regulations and follow the instructions of guides. Be mindful of sharks when swimming. Rip tides are common and very dangerous. Do not swim alone in isolated areas or dive into unfamiliar waters.
+* Wild animals have injured and killed tourists.
+* Follow all the park rules and instructions from guides.
+* It’s dangerous to leave your vehicle in game parks outside of marked areas.
+* Watch out for sharks when you’re swimming.
+* Rip tides are common and very dangerous. Do not swim alone in remote areas or dive into unfamiliar waters.
+* Hikers must be ready for quick weather changes and have the right clothing and supplies.
 
-Hikers must be prepared for rapidly changing weather conditions and ensure they have proper clothing and supplies. Many areas, especially in the Western Cape province, experience brush fires during the summer months (December-February). These fires can burn for several days. Monitor local media and follow fire crew instructions regarding road closures and evacuations.
+**Tourism**Tourism activities are generally regulated.
 
-**Tourism:** The tourism industry is regulated. Rules for best practices and safety inspections are enforced. Hazardous areas are marked with signs and professional staff are available for organized activities. If you get hurt, there is medical treatment available. Outside of big cities, it might take longer for help to come. It's a good idea for U.S. citizens to get medical evacuation insurance. U.S. citizens are strongly encouraged to purchase medical evacuation insurance.
+* Authorities usually enforce rules and safety inspections.
+* Dangerous areas are well-marked with signs.
+* Professional staff usually assist with activities.
+* Appropriate medical treatment is widely available for injuries.
 
-See our webpage for more information on [insurance providers for overseas coverage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/insurance-providers-overseas.html).
+U.S. citizens should consider buying medical evacuation insurance. Learn more about [insurance for overseas travel.](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html)
 
-**Infrastructure:** In the country, there are often scheduled blackouts called "Load Shedding". These blackouts are meant to protect the electrical grid, but they cause the whole country to lose power for up to six hours every day. This is bad for businesses that don't have another way to get power, like hotels. Load shedding also causes traffic lights to stop working, which leads to traffic jams and more crime. It can also affect access to water, cell phone signal, fuel availability, and safety features in rural areas.
+**Blackouts (load shedding)**The country often experiences scheduled blackouts called “load shedding.”
+
+* These blackouts protect the electrical grid. But they can leave areas without power for up to 6 hours daily.
+* This is tough for businesses, like hotels, that lack other electrical power sources.
+* Load shedding stops traffic lights from working. This leads to traffic jams and crime.
+* It can also affect access to water, cell service, fuel, and safety features in rural areas.
+
+**Weather and Natural Disasters**
+
+**Brush fires (December-February)**
+
+* Western Cape province, and other areas, experience brush fires during the summer. These fires can burn for several days.
+* Check local media and follow fire crew instructions about road closures and evacuations.
+
+**Drought**
+
+* Parts of South Africa may face drought and water shortage.
+* Rainfall patterns may be unpredictable.
+* Water supplies in some areas may be affected. Water use restrictions may be in effect in the affected towns.
+
+**U.S Citizens living abroad**If you live abroad for a long time, you or your family may experience various [life events](https://travel.state.gov/content/travel/en/international-travel/while-abroad.html).
+
+* Learn how to prepare for life events like [voting](https://travel.state.gov/content/travel/en/international-travel/while-abroad/voting.html), getting [married](https://travel.state.gov/content/travel/en/international-travel/while-abroad/marriage-abroad.html), or the [birth of a child](https://travel.state.gov/content/travel/en/international-travel/while-abroad/birth-abroad.html).
+* Ensure you have a plan for [healthcare or insurance](https://travel.state.gov/content/travel/en/international-travel/while-abroad/your-health-abroad.html) abroad
+* Even abroad, you still have [certain obligations](https://travel.state.gov/content/travel/en/international-travel/while-abroad/federal-benefits-and-obligations-abroad.html) such as paying your U.S. taxes or registering for military selective service.

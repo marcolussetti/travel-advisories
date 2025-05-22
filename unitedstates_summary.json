@@ -119,7 +119,7 @@
     {
         "destination": "Azerbaijan",
         "risk_level": "Level 2: Exercise Increased Caution",
-        "last_updated_advisory": "2023-11-02T00:00:00",
+        "last_updated_advisory": "2025-05-21T00:00:00",
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/azerbajian-travel-advisory.html",
         "risk_level_number": 2,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Azerbaijan.html",
@@ -735,7 +735,7 @@
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/guinea-bissau-travel-advisory.html",
         "risk_level_number": 3,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Guinea-Bissau.html",
-        "last_updated_country_details": "2021-12-15T00:00:00"
+        "last_updated_country_details": "2025-05-21T00:00:00"
     },
     {
         "destination": "Guyana",
@@ -1473,7 +1473,7 @@
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/senegal-travel-advisory.html",
         "risk_level_number": 1,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Senegal.html",
-        "last_updated_country_details": "2021-12-13T00:00:00"
+        "last_updated_country_details": "2025-05-21T00:00:00"
     },
     {
         "destination": "Serbia",
@@ -1572,7 +1572,7 @@
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/south-africa-travel-advisory.html",
         "risk_level_number": 2,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/SouthAfrica.html",
-        "last_updated_country_details": "2023-11-06T00:00:00"
+        "last_updated_country_details": "2025-05-21T00:00:00"
     },
     {
         "destination": "South Korea",
