@@ -224,13 +224,19 @@ For more information, see [Zika virus: Pregnant or planning a pregnancy.](https:
 
 ### Animal precautions
 
-Some infections, like rabies and bird flu (avian influenza), can be spread from animals to humans. Certain activities can increase your chances of coming into contact with animals, like:
+Some infections can spread directly from animals to people, like rabies or bird flu (avian influenza). Others don’t spread directly from animals but can infect people who visit areas animals have contaminated with their droppings or body fluids.
+
+Certain activities can increase your chances of coming into contact with animals, their droppings, or their body fluids, like:
 
 * travelling in rural or forested areas
 * camping, hiking, or visiting caves
 * visiting places where live animals are sold or killed for food, like wet markets
 
-To reduce your risk of getting sick, avoid contact with animals like stray dogs, livestock (such as pigs and cows), monkeys, snakes, rodents, birds, and bats. Avoid eating undercooked meat.
+To reduce your risk of getting sick:
+
+* avoid contact with animals like stray dogs, livestock (such as pigs and cows), monkeys, snakes, rodents, birds, and bats.
+* stay away from places where animal waste can build up, such as caves
+* avoid eating undercooked meat
 
 Make sure to closely watch children; they are more likely to try to touch animals.
 

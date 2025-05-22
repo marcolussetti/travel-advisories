@@ -53,8 +53,6 @@ Canadians who are going to Cameroon to work must obtain a resident card shortly 
 
 Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
 
-### 
-
 ### Yellow fever
 
-Learn about [potential entry requirements related to yellow fever](https://travel.gc.ca/destinations-print/cameroon#health) (vaccines section).
+Learn about [potential entry requirements related to yellow fever](#health) (vaccines section).

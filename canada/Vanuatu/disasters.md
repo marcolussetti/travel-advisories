@@ -2,20 +2,13 @@
 
 ## Natural disasters and climate
 
-### Earthquake in Port Vila
+### Climate change
 
-On December 17, 2024, a 7.2 magnitude earthquake struck Port Vila and its surrounding areas.
-
-The earthquake caused landslides and widespread damage to buildings and infrastructure. The central business district was severely damaged and is closed to the public. Recovery efforts could cause temporary disruptions to essential services such as power distribution and water supply. Expect reduced access to accommodations.
-
-If you're in Vanuatu:
-
-* avoid affected areas
-* follow the instructions of local authorities
+Climate change is affecting Vanuatu. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local news to stay informed on the current situation.
 
 ### Volcanoes
 
-There are several active or potentially active volcanoes in Vanuatu. In the event of an eruption, volcanic ash clouds could significantly disrupt air traffic in the region. The Vanuatu Meteorology & Geo-Hazards Department lists active volcanoes and associated alert levels. If you are travelling near a volcano, check for the latest activity and alerts and always follow the instructions of local authorities.
+There are several active or potentially active volcanoes in Vanuatu. In the event of an eruption, volcanic ash clouds could significantly disrupt air traffic in the region. The Vanuatu Meteorology & Geo-Hazards Department lists active volcanoes and associated alert levels. If you are travelling near a volcano, check for the latest activity and alerts and always follow the instructions of local authorities.
 
 [Latest volcanic alert levels](http://www.vmgd.gov.vu/vmgd/index.php/geohazards/volcano) – Meteorology & Geo-Hazards Department of Vanuatu
 
@@ -23,7 +16,7 @@ There are several active or potentially active volcanoes in Vanuatu. In the eve
 
 The rainy (monsoon) season occurs from November to April.
 
-Severe storms can put you at risk and can hamper the provision of essential services. During a cyclone or monsoon, hotel guests may be required to leave accommodations near the shore and move to safety centres inland. Travel to and from outer islands may be disrupted for some days.
+Severe storms can put you at risk and can hamper the provision of essential services. During a cyclone or monsoon, hotel guests may be required to leave accommodations near the shore and move to safety centres inland. Travel to and from outer islands may be disrupted for some days.
 
 If you decide to travel to Vanuatu during this time:
 
@@ -41,8 +34,8 @@ If you decide to travel to Vanuatu during this time:
 
 ### Earthquakes and tsunamis
 
-Vanuatu is located in an active seismic zone, which causes frequent earthquakes and tidal waves.
+Vanuatu is located in an active seismic zone, which causes frequent earthquakes and tidal waves.
 
-Earthquakes have caused landslides and structural damage to buildings and bridges on the island of Efate in the past.
+Earthquakes have caused landslides and structural damage to buildings, roads and bridges on the island of Efate in the past.
 
 [Tsunami alerts](https://www.tsunami.gov/) - U.S. Tsunami Warning System

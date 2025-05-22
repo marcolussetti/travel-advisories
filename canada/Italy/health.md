@@ -57,14 +57,6 @@ Travellers to areas where TBE is found may be at higher risk  during April to N
 
 [Protect yourself from tick bites](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html). The vaccine is not available in Canada. It may be available in the destination you are travelling to.
 
-Rabies 
-
-In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/diseases/rabies) may be present in some wildlife species, including bats. Rabies is a deadly disease that spreads to humans primarily through bites or scratches from an infected animal.
-
-If you are bitten or scratched by an animal while travelling, immediately wash the wound with soap and clean water and see a health care professional.
-
-Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who will be working directly with wildlife.
-
 Measles 
 
 Measles is a serious viral infection that spreads easily. It spreads through the air, and can stay in the air for up to 2 hours. You can also get measles by direct contact with an infected person or by touching a surface with the virus on it and then touching your eyes, nose, or mouth before washing your hands.
@@ -108,6 +100,14 @@ The flu vaccine available in one hemisphere may only offer partial protection ag
 
 The flu virus spreads from person to person when they cough or sneeze or by touching objects and surfaces that have been contaminated with the virus. Clean your hands often and wear a mask if you have a fever or respiratory symptoms.
 
+Rabies 
+
+In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/diseases/rabies) may be present in some wildlife species, including bats. Rabies is a deadly disease that spreads to humans primarily through bites or scratches from an infected animal.
+
+If you are bitten or scratched by an animal while travelling, immediately wash the wound with soap and clean water and see a health care professional.
+
+Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who will be working directly with wildlife.
+
 ### Safe food and water precautions
 
 Eating or drinking unsafe food or water, or swimming in contaminated water can make you sick while travelling. Take precautions by following these tips:
@@ -147,13 +147,19 @@ Dengue
 
 ### Animal precautions
 
-Some infections, like rabies and bird flu (avian influenza), can be spread from animals to humans. Certain activities can increase your chances of coming into contact with animals, like:
+Some infections can spread directly from animals to people, like rabies or bird flu (avian influenza). Others don’t spread directly from animals but can infect people who visit areas animals have contaminated with their droppings or body fluids.
+
+Certain activities can increase your chances of coming into contact with animals, their droppings, or their body fluids, like:
 
 * travelling in rural or forested areas
 * camping, hiking, or visiting caves
 * visiting places where live animals are sold or killed for food, like wet markets
 
-To reduce your risk of getting sick, avoid contact with animals like stray dogs, livestock (such as pigs and cows), monkeys, snakes, rodents, birds, and bats. Avoid eating undercooked meat.
+To reduce your risk of getting sick:
+
+* avoid contact with animals like stray dogs, livestock (such as pigs and cows), monkeys, snakes, rodents, birds, and bats.
+* stay away from places where animal waste can build up, such as caves
+* avoid eating undercooked meat
 
 Make sure to closely watch children; they are more likely to try to touch animals.
 

@@ -1,7 +1,7 @@
 {
     "name": "Greece",
-    "update_reason": "Natural disasters and climate \u2013 removed information on a tsunami warning for Kasos Island",
-    "update_date": "2025-05-14T10:42:00",
+    "update_reason": "Health \u2013 editorial update",
+    "update_date": "2025-05-21T13:56:00",
     "sections": {
         "risk": "canada/Greece/risk.md",
         "security": "canada/Greece/security.md",

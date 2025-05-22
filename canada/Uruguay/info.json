@@ -1,7 +1,7 @@
 {
     "name": "Uruguay",
-    "update_reason": "Health \u2013 removed the Travel health notice for dengue",
-    "update_date": "2025-05-13T13:38:00",
+    "update_reason": "Health \u2013 editorial update",
+    "update_date": "2025-05-21T13:56:00",
     "sections": {
         "risk": "canada/Uruguay/risk.md",
         "security": "canada/Uruguay/security.md",

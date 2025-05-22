@@ -2,33 +2,11 @@
 
 ## Safety and security
 
-### Increased political tensions
+### Presidential elections
 
-The impeachment trial of the former president has concluded on April 4, 2025. Early presidential elections will take place within 60 days.
+Due to the impeachment of the former president, presidential elections will take place on June 3, 2025.
 
-Since December 2024, protests have been taking place in South Korea. Large demonstrations are expected to continue in the following areas of Seoul:
-
-* the Yeouido neighbourhood
-* the National Assembly and political party headquarters area
-* Gwanghwamun Square
-* areas around:
-
-+ Constitutional Court
-+ Seoul Central District Court
-+ Seoul Western District Court
-
-* official presidential residence
-
-Protests could begin anywhere in South Korea and may turn violent.
-
-Traffic and public transportation disruptions are expected to continue.
-
-If you are in South Korea:
-
-* exercise caution
-* avoid participating in or being near demonstrations and large gatherings
-* monitor local media for the latest information
-* follow the instructions of local authorities
+Demonstrations could occur before, during and after the elections.
 
 [More information on demonstrations](#demonstrations)
 
@@ -79,9 +57,11 @@ Even peaceful demonstrations can turn violent at any time. They can lead to sign
 
 ### Civil emergency exercises
 
-Civil emergency exercises are held for fires, earthquakes, other disasters and civil defence drills by the Ministry of the Interior and Safety.
+Civil emergency exercises are held several times a year for fires, earthquakes, other disasters and civil defence drills by the Ministry of the Interior and Safety.
 
-In 2024, four exercises will take place in March, May, August and October. The exercise on August 21, 2024, will be a nationwide exercise. Depending on the exercise, sirens may sound, transport may stop and authorities may ask some people to take shelter in metro stations or basements. While visitor participation is not necessary, familiarize yourself with procedures and check local announcements for further exercises.
+Most exercises take place in March, May, August and October at the local and regional levels. The exercise in August is a nationwide exercise.
+
+Depending on the exercise, sirens may sound, transport may stop and authorities may ask some people to take shelter in metro stations or basements. While visitor participation is not necessary, familiarize yourself with procedures and check local announcements for further exercises.
 
 #### Useful links
 
@@ -90,10 +70,10 @@ In 2024, four exercises will take place in March, May, August and October. The e
 
 ### Emergency assistance mobile application
 
-The Ministry of the Interior and Safety offers a free emergency assistance mobile application called Emergency Ready (available on Google Play and iTunes). The app allows users to contact  emergency services, locate the closest medical centre or shelter and view first aid videos.
+The Ministry of the Interior and Safety offers a free emergency assistance mobile application called Emergency Ready (available on Google Play and iTunes). The app allows users to contact emergency services, locate the closest medical centre or shelter and view first aid videos.
 
-* [Emergency Ready App](https://play.google.com/store/apps/details?id=kr.go.nema.disasteralert_eng&hl=en) - Google Play
-* [Emergency Ready](https://itunes.apple.com/es/app/emergencyreadyapp/id826120919?l=en&mt=8) - iTunes
+* [Emergency Ready App](https://play.google.com/store/apps/details?id=kr.go.nema.disasteralert_eng&hl=en) – Google Play
+* [Emergency Ready](https://itunes.apple.com/es/app/emergencyreadyapp/id826120919?l=en&mt=8) – iTunes
 
 ### Road safety
 

@@ -71,28 +71,6 @@ There is a risk of [hepatitis A](https://www.canada.ca/en/public-health/services
 
 Practise [safe food and water precautions](https://travel.gc.ca/travelling/health-safety/food-water) and wash your hands often. Vaccination is recommended for all travellers to areas where hepatitis A is present.
 
-Hajj and Umrah vaccination entry requirements
-
-There are vaccination entry requirements in place for travellers entering Saudi Arabia for Umrah, Hajj or for seasonal work in Hajj zones.
-
-These include vaccinations for COVID-19, polio, meningococcal meningitis, and yellow fever. Before travelling, make sure you meet all requirements for participating in Hajj or Umrah.
-
-For more information, visit the Saudi Arabia Ministry of Health’s page for Hajj and Umrah health regulations.
-
-[Hajj and Umrah Health Regulations - Ministry of Health in the Kingdom of Saudi Arabia](https://www.moh.gov.sa/en/HealthAwareness/Pilgrims_Health/Pages/default.aspx) (external)
-
-Large numbers of people in small areas can enable the spread of infectious diseases and increase the risk of injury. Take the time to prepare for your trip and know how to reduce the risks.
-
-[Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
-
-Rabies 
-
-In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/diseases/rabies) may be present in some wildlife species, including bats. Rabies is a deadly disease that spreads to humans primarily through bites or scratches from an infected animal.
-
-If you are bitten or scratched by an animal while travelling, immediately wash the wound with soap and clean water and see a health care professional.
-
-Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who will be working directly with wildlife.
-
 Measles 
 
 Measles is a serious viral infection that spreads easily. It spreads through the air, and can stay in the air for up to 2 hours. You can also get measles by direct contact with an infected person or by touching a surface with the virus on it and then touching your eyes, nose, or mouth before washing your hands.
@@ -148,6 +126,28 @@ Malaria
 • Cover your skin and use an [approved](https://www.canada.ca/en/health-canada/services/about-pesticides/insect-repellents.html) insect repellent on uncovered skin.   
 • Exclude mosquitoes from your living area with screening and/or closed, well-sealed doors and windows.  
 • Use insecticide-treated bed nets if mosquitoes cannot be excluded from your living area. 
+
+Hajj and Umrah vaccination entry requirements
+
+There are vaccination entry requirements in place for travellers entering Saudi Arabia for Umrah, Hajj or for seasonal work in Hajj zones.
+
+These include vaccinations for COVID-19, polio, meningococcal meningitis, and yellow fever. Before travelling, make sure you meet all requirements for participating in Hajj or Umrah.
+
+For more information, visit the Saudi Arabia Ministry of Health’s page for Hajj and Umrah health regulations.
+
+[Hajj and Umrah Health Regulations - Ministry of Health in the Kingdom of Saudi Arabia](https://www.moh.gov.sa/en/HealthAwareness/Pilgrims_Health/Pages/default.aspx) (external)
+
+Large numbers of people in small areas can enable the spread of infectious diseases and increase the risk of injury. Take the time to prepare for your trip and know how to reduce the risks.
+
+[Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
+
+Rabies 
+
+In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/diseases/rabies) may be present in some wildlife species, including bats. Rabies is a deadly disease that spreads to humans primarily through bites or scratches from an infected animal.
+
+If you are bitten or scratched by an animal while travelling, immediately wash the wound with soap and clean water and see a health care professional.
+
+Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who will be working directly with wildlife.
 
 ### Safe food and water precautions
 
@@ -218,13 +218,19 @@ Rift Valley fever
 
 ### Animal precautions
 
-Some infections, like rabies and bird flu (avian influenza), can be spread from animals to humans. Certain activities can increase your chances of coming into contact with animals, like:
+Some infections can spread directly from animals to people, like rabies or bird flu (avian influenza). Others don’t spread directly from animals but can infect people who visit areas animals have contaminated with their droppings or body fluids.
+
+Certain activities can increase your chances of coming into contact with animals, their droppings, or their body fluids, like:
 
 * travelling in rural or forested areas
 * camping, hiking, or visiting caves
 * visiting places where live animals are sold or killed for food, like wet markets
 
-To reduce your risk of getting sick, avoid contact with animals like stray dogs, livestock (such as pigs and cows), monkeys, snakes, rodents, birds, and bats. Avoid eating undercooked meat.
+To reduce your risk of getting sick:
+
+* avoid contact with animals like stray dogs, livestock (such as pigs and cows), monkeys, snakes, rodents, birds, and bats.
+* stay away from places where animal waste can build up, such as caves
+* avoid eating undercooked meat
 
 Make sure to closely watch children; they are more likely to try to touch animals.
 
