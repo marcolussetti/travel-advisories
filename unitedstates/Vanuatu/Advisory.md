@@ -1,8 +1,8 @@
 # Vanuatu Travel Advisory
 
-### Travel Advisory December 20, 2024
+### Travel Advisory May 22, 2025
 
-### Vanuatu - Level 3: Reconsider Travel
+### Vanuatu - Level 1: Exercise Normal Precautions
 
 [O](javascript:void(0); "Tool Tip: Other")
 [D](javascript:void(0); "Tool Tip: Wrongful Detention")
@@ -14,24 +14,22 @@
 [T](javascript:void(0); "Tool Tip: Terrorism")
 [C](javascript:void(0); "Tool Tip: Crimes")
 
-***Updated to a Level 3 due to infrastructure damage from an earthquake.***
+***Updated to reflect lowering the Travel Advisory Level from Level 3 to Level 1 due to ongoing recovery efforts and removal of the Natural Disaster (N) indicator.***
 
-The U.S. Department of State advises U.S. citizens to reconsider travel to Vanuatu following the December 17, 2024, earthquake, which caused significant damage to local infrastructure. The U.S. government’s ability to provide emergency assistance to U.S. citizens in Vanuatu is limited, and departure options have been disrupted. Within Vanuatu, numerous buildings sustained severe damage, and curfews are in effect in some areas.
+Exercise normal precautions in Vanuatu.
+
+**Country Summary:** Infrastructure and roads in Port Vila and the surrounding area were damaged during the December 2024 earthquake, with repairs in progress.
 
 Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Vanuatu.html) for additional information on travel to Vanuatu.
 
 If you decide to travel to Vanuatu:
 
-* Postpone non-essential travel until conditions stabilize.
 * Monitor local reports and updates from the Vanuatu government and follow all instructions from local authorities.
-* Prepare for disruptions by ensuring you have sufficient supplies of water, food, and medications, as resources are limited.
+* Be aware that some areas may still be undergoing repairs, and access could be restricted.
 * Keep travel documents up to date and easily accessible.
-* Have evacuation plans that do not rely on U.S. government assistance.
-* Make back up plans to leave the country.
 * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://step.state.gov/step/) to receive Alerts and make it easier to locate you in an emergency.
-* Follow the Department of State on [Facebook](https://www.facebook.com/travelgov/) and X/[Twitter](https://x.com/travelgov).
 * Review the [Country Security Report](https://www.osac.gov/Content/Report/4f26caa5-c08c-4544-a4de-1ccf97621610) for Vanuatu.
-* Visit the CDC page for the latest [Travel Health Information](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/vanuatu-travel-advisory.html#ExternalPopup) related to your travel.
+* Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) related to your travel.
 * Prepare a contingency plan for emergency situations. Review the [Traveler’s Checklist](https://travel.state.gov/content/passports/en/go/checklist.html).
 
 ### Travel Advisory Levels
