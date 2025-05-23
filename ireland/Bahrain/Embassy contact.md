@@ -32,4 +32,4 @@ Kingdom of Bahrain
 
 [Tel: +973 1 772 8146](tel:+9731 772 8146)
 
-**Email:** [abdullah.buhindi@honoraryconsul.ie](mailto:abdullah.buhindi@honoraryconsul.ie)
+**Email:** [jan.madenvillanueva@honoraryconsul.ie](mailto:jan.madenvillanueva@honoraryconsul.ie)

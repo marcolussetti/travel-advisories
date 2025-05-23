@@ -3,8 +3,8 @@
     "risk_level": "Avoid Non-Essential Travel",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Ecuador/Overview.md"
+            "title": "Travel to Ecuador overview",
+            "file": "ireland/Ecuador/Travel to Ecuador overview.md"
         },
         {
             "title": "Safety and security",
@@ -23,13 +23,13 @@
             "file": "ireland/Ecuador/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Ecuador/Additional information.md"
+            "title": "Entry Requirements",
+            "file": "ireland/Ecuador/Entry Requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Ecuador/Embassy contact.md"
         }
     ],
-    "update_date": "2025-05-02T00:00:00"
+    "update_date": "2025-05-22T00:00:00"
 }
