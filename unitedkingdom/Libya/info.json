@@ -1,11 +1,11 @@
 {
     "name": "Libya",
-    "update_reason": "Updated information that flights have resumed operation and that the situation remains fragile ('Warnings and insurance' page).",
+    "update_reason": "FCDO continues to advise against all travel to Tripoli. The British Embassy has temporarily reduced staff numbers, but the Embassy remains open with the Ambassador and a substantial team present (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Libya/Warnings and insurance.md",
-            "update_date": "2025-05-19T11:09:28+01:00"
+            "update_date": "2025-05-22T11:15:03+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Libya/Getting help.md"
         }
     ],
-    "update_date": "2025-05-19T11:09:28+01:00"
+    "update_date": "2025-05-22T11:15:03+01:00"
 }

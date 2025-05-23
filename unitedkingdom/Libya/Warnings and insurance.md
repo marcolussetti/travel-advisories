@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   20 May 2025
+:   23 May 2025
 
 Updated:
-:   19 May 2025
+:   22 May 2025
 
 Latest update:
-:   Updated information that flights have resumed operation and that the situation remains fragile ('Warnings and insurance' page).
+:   FCDO continues to advise against all travel to Tripoli. The British Embassy has temporarily reduced staff numbers, but the Embassy remains open with the Ambassador and a substantial team present (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/68237cb42b7ca0cc347e081e/FCDO__TA__024_-_Libya_Travel_Advice_Ed3__WEB_.jpg)
 
@@ -28,9 +28,11 @@ Find out more about [why the FCDO advises against travel](https://www.gov.uk/for
 
 On 12 May, significant armed clashes broke out across Tripoli. A ceasefire was agreed on 14 May and has largely held. The situation remains fragile and a return to violence is possible. Flights have resumed operations at Mitiga international airport in Tripoli.
 
-FCDO advises against all travel  to Libya except for the cities of Benghazi and Misrata, to which we advise against all but essential travel.
+FCDO continues to advise against all travel to Libya except for the cities of Benghazi and Misrata, to which we advise against all but essential travel.
 
-If you are a British national already in, or planning to travel to Tripoli, stay alert to local information and minimise movements around the city where possible. If you are in the vicinity of gunfire, remain indoors and away from windows. You should have robust security arrangements and contingency plans in place.
+If you are a British national already in, or planning to travel to Tripoli, you should have robust security arrangements and contingency plans in place.
+
+Due to the current political tensions and risks of increased insecurity in Tripoli, the British Embassy has temporarily reduced staff numbers. The Embassy in Tripoli remains open, with the Ambassador and a substantial team of staff present.
 
 ## UK government support
 

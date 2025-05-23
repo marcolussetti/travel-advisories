@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   13 May 2025
+:   23 May 2025
 
 Updated:
-:   12 May 2025
+:   22 May 2025
 
 Latest update:
-:   Addition of information that airspace north and northwest of Delhi has re-opened on 12 May (‘Warnings and insurance’ page).
+:   Addition of information that the Government of India stated on 10 May that India and Pakistan have agreed to stop military action ('Warnings and insurance' page).
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -33,15 +33,7 @@ Find out more about [why FCDO advises against travel to these regions](/foreign-
 
 ## India-Pakistan tensions
 
-On 10 May, the Government of India stated that India and Pakistan have agreed to stop military action. Airspace north and northwest of Delhi re-opened on 12 May. British nationals should contact their airline for up-to-date information.
-
-We are continuing to monitor the situation closely. British nationals should stay up to date with our travel advice and follow the advice of local authorities.
-
-British nationals already in, or planning to travel to, the region should be aware of geopolitical tensions and should subscribe to our Travel Advice to follow any updates. You should remain vigilant, monitor the media and this travel advice, subscribe to email alerts and read our advice on how to deal with a crisis overseas: ([If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas) You should keep your departure plans under close review, ensure your travel documents are up to date and that you have the necessary visas for onward travel.
-
-British nationals affected can contact the FCDO for emergency help both in country and from the UK, 24/7.  Please follow the link below to select your country, and then the nearest BHC to receive a phone number for those in country or in the UK.
-
-[Get emergency help from FCDO](https://www.contact.service.csd.fcdo.gov.uk/emergency-help).
+Following military exchanges which began on 7 May, the Government of Pakistan stated on 10 May that India and Pakistan have agreed to stop military action.  FCDO continues to follow the situation closely. Follow the advice of local authorities.
 
 ## Before you travel
 

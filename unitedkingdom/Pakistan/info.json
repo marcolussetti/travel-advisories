@@ -1,11 +1,11 @@
 {
     "name": "Pakistan",
-    "update_reason": "Factual update to information related to tensions between India and Pakistan.",
+    "update_reason": "Addition of information that on 10 May, the Government of Pakistan stated that India and Pakistan have agreed to stop military action ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Pakistan/Warnings and insurance.md",
-            "update_date": "2025-05-11T14:47:14+01:00"
+            "update_date": "2025-05-22T14:56:58+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Pakistan/Getting help.md"
         }
     ],
-    "update_date": "2025-05-11T14:47:14+01:00"
+    "update_date": "2025-05-22T14:56:58+01:00"
 }
