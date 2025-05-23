@@ -58,15 +58,19 @@ Cybercrime and online financial scams are common in the UAE. Criminals can targe
 
 Pickpocketing and bag snatching occurs but is rare.
 
-Incidents of drink spiking are reported.
-
 Physical and verbal harassment and sexual assaults occur. Avoid walking alone after dark in isolated places, including pedestrian underpasses.
+
+Drink spiking can happen anywhere. Be alert to the potential risks, and don't leave food or drinks unattended. Pay attention when your drinks are being mixed. Stick to reputable venues and avoid homemade alcoholic drinks due to the risk of methanol poisoning. Get urgent medical help if you suspect you’ve been a victim.
+
+**More information:**
+
+* [Partying safely](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.smartraveller.gov.au%2Fbefore-you-go%2Fsafety%2Fpartying&data=05%7C02%7CJulian.Elsworthy%40dfat.gov.au%7Cbd0cd565db744527188508dd41a4930d%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638738897282052398%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=rKGX7XOCXJsS%2Fsimd5IO%2BCmMKrxAHlLs%2Bhh8rAmaleo%3D&reserved=0)
 
 #### Sexual assault
 
 If you're a victim of sexual assault, find out about support services as quickly as possible from the:
 
-* [Australian Embassy and Consulate-General in the UAE](http://uae.embassy.gov.au/abud/home.html)
+* [Australian Embassy and Consulate-General in the UAE](https://uae.embassy.gov.au/abud/dxhappointments.html)
 * Consular Emergency Centre in Canberra
 
 Consular officers can't provide legal or medical advice. However, they can provide lists of English-speaking service providers who may be able to help.
@@ -130,15 +134,11 @@ If proper safety equipment isn't available, use another provider.
 
 #### Climate and natural disasters
 
-#### Hot summers
-
 The UAE experiences extremely high temperatures. The hottest months of the year are June to September. The temperature can exceed 50°C.
 
 In extreme heat, stay out of the sun and drink water to avoid dehydration.
 
 Sandstorms and dust storms often happen.
-
-#### Foggy winters
 
 In winter months, morning fog can significantly reduce visibility. This can cause flight delays and road hazards.
 

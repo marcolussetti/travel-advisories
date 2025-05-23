@@ -117,8 +117,6 @@ If there's a red tide alert, follow local warnings. This algal bloom can cause p
 
 #### Medical care
 
-#### Medical facilities
-
 The standard of public medical facilities in major cities is adequate. However, services might not be available in remote areas.
 
 Several private facilities meet international standards. You can find these in:

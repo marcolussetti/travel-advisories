@@ -68,7 +68,7 @@ If you take part in activities involving local legal matters, get professional l
 
 Ask a legal professional about your rights and responsibilities.
 
-If you have children or assets in the UAE, get local legal advice about preparing a local will or registering a foreign will. [Information is also available through the Abu Dhabi Judicial Department Foreign Communities Awareness](https://www.adjd.gov.ae/EN/Pages/ForeignCommunitiesAwareness.aspx).
+If you have children or assets in the UAE, get local legal advice about preparing a local will or registering a foreign will. Information is also available through the [Abu Dhabi Judicial Department Foreign Communities Awareness](https://www.adjd.gov.ae/EN/Pages/ForeignCommunitiesAwareness.aspx).
 
 #### Drugs
 
@@ -101,7 +101,7 @@ Lab testing on suspicious substances could take days or weeks. During this time,
 
 You must obtain permission in advance from the Emirati authorities to undertake media activity relating to the production, transmission or distribution of printed, digital, audio, video or visual information. If you fail to do this, you could be arrested and deported from the UAE.
 
-You can get more information on obtaining the necessary permits to carry out media activity in the UAE and bringing media equipment into the UAE by registering online at the [Media Regulatory Office website](https://eservices.mcy.gov.ae/#/page/login//).
+You can get more information on obtaining the necessary permits to carry out media activity in the UAE and bringing media equipment into the UAE by registering online at the [Media Regulatory Office website](https://uaemc.gov.ae/en/licensing-services/).
 
 #### Personal conduct
 
@@ -166,7 +166,7 @@ Charity and fundraising activities are closely regulated, including when conduct
 
 #### Sex outside of marriage
 
-Heterosexual sex and cohabitation outside of marriage is a criminal offence in the Sharjah Emirate. In other Emirates, but you must be over the age of 18 years.
+Heterosexual sex and cohabitation outside of marriage for individuals over 18 years old have been decriminalised in all Emirates except for Sharjah.
 
 Extra-marital sexual relationships (adultery) is illegal in the UAE. If either person's spouse or parent/guardian files a criminal complaint, then both parties of an extra-marital consensual relationship shall be liable to a jail sentence.
 
@@ -202,7 +202,7 @@ If you're unmarried and fall pregnant or give birth in the UAE and wish to obtai
 
 #### Alcohol
 
-Although a Federal law has recently decriminalized the use of alcohol, every Emirate has its own guidelines.
+Although a Federal law has decriminalised the use of alcohol, every Emirate has its own guidelines.
 
 The Emirate of Sharjah is 'dry' which means the sale or consumption of alcohol is illegal. You can't carry alcohol in your car if you're:
 
@@ -213,7 +213,7 @@ There are limits on how much duty-free alcohol you can bring in. These limits ar
 
 #### Liquor licences
 
-Although a Federal law has recently decriminalized the use of alcohol, every Emirate has its own guidelines.
+Although a Federal law has recently decriminalised the use of alcohol, every Emirate has its own guidelines.
 
 Liquor licences are still required for Residents in Dubai but are no longer required for Residents in Abu Dhabi and other Emirates (except for Sharjah) to purchase alcohol for personal consumption.
 
@@ -269,7 +269,7 @@ Serious crimes can attract the death penalty. Serious crimes include:
 * treason
 * [rape](/before-you-go/safety/sexual-assault "Reducing the risk of sexual assault and harassment")
 
-The UAE Government has a [list of groups it considers to be terrorist organisations](https://gulfnews.com/uae/government/uae-publishes-list-of-terrorist-organisations-1.1412895).
+The [UAE Government](https://www.moj.gov.ae/) has a list of groups it considers to be terrorist organisations.
 
 If you're associated with such groups, you could be refused entry or arrested and detained.
 
@@ -362,7 +362,7 @@ Sharia law may be applied in child custody disputes. Speak to a lawyer about cus
 
 #### Ramadan
 
-The Islamic holiday month of [Ramadan](/before-you-go/major-events/ramadan "Ramadan") is observed in the UAE. Respect religious and cultural customs and laws at this time.
+The Islamic holy month of [Ramadan](/before-you-go/major-events/ramadan "Ramadan") is observed in the UAE. Respect religious and cultural customs and laws at this time.
 
 Avoid eating, drinking or smoking in public or in front of people who are fasting. Seek local advice to avoid offence.
 

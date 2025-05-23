@@ -2,9 +2,7 @@
 
 Latest update
 
-We continue to advise exercise a high degree of caution in the United Arab Emirates. Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests (see 'Safety').  
-  
-There's an increased risk of terrorism, including threats against military bases. Terrorist attacks could occur at any time and target locations frequented by foreigners including places of worship, hotels, transport hubs, shopping malls, markets, residential compounds and tourist locations.
+We've reviewed our advice and continue to advise exercise a high degree of caution in the United Arab Emirates. There's an increased risk of terrorism, including threats against military bases. Terrorist attacks could occur at any time and target locations frequented by foreigners including places of worship, hotels, transport hubs, shopping malls, markets, residential compounds and tourist locations (see 'Safety').
 
 Advice Level summary
 
@@ -25,11 +23,8 @@ Exercise a high degree of caution in the UAE due to the threat of terrorism.
 ### Safety
 
 * Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions.
-* Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests. There's an increased threat of attacks against Israeli interests across the region.
-* If there's a security incident, follow the advice of local officials.
-* There's an increased threat of terrorism in the UAE, including threats against military bases. Maintain a high level of security awareness.
-* Protests or demonstrations may be considered illegal. Avoid demonstrations or protests. Monitor local media and follow the advice of local authorities.
-* Missiles and uncrewed aerial systems (drones) were last launched at the UAE from Yemen in early 2022. Most were intercepted, but there were casualties. Further attacks are possible.
+* There's an increased threat of terrorism in the UAE, including threats against military bases. Maintain a high level of security awareness. If there's a security incident, follow the advice of local officials.
+* Demonstrations and protests are prohibited and rarely occur, unless they have been authorised in advance by local authorities. Avoid any demonstrations or protests if you come across them.
 * The crime rate is low. Petty crime, such as pickpocketing and bag snatching, occurs but is rare. Drink spiking sometimes happens. Physical and verbal harassment and sexual assaults occur. Avoid walking alone after dark in isolated places, including pedestrian underpasses.
 * Be prepared for extreme weather. Between June and September, temperatures can exceed 50°C. Sand and dust storms are also common. In extreme heat, stay out of the sun and drink plenty of water. Intense storms can occur between December and May, which may trigger flash flooding. Monitor local media and follow the advice of local authorities.
 * Many areas of the Gulf are sensitive to security issues and territorial disputes. There's also a risk of piracy. If you're planning sea travel, refer to the International Maritime Bureau’s piracy reports.
@@ -65,7 +60,7 @@ Full travel advice: [Local laws](#local-laws)
 * You won't be allowed to enter the UAE if you have 'XX' in your birthdate in your Australian passport. It must show a day, month and year. Your Australian passport must also include your first name and last name.
 * Tourist visas are issued on arrival in Abu Dhabi and Dubai. Visit the [UAE Federal E-Governmental Portal](https://u.ae/en/information-and-services/visa-and-emirates-id) for information regarding visas to the UAE.
 * See the latest information for travelling to, from or connecting through [Dubai](https://www.emirates.com/au/english/help/covid-19/dubai-travel-requirements/tourists/).
-* See the latest information for travelling to, from or connecting through [Abu Dhabi.](https://www.etihad.com/en-au/travel-updates/abu-dhabi-travel-information)
+* See the latest information for travelling to, from or connecting through [Abu Dhabi.](https://www.etihad.com/en-au/plan/travel-essentials)
 * If you're travelling on a Diplomatic or official passport, you must obtain a visa before travelling.
 * Emergency passports are not accepted for entry to the UAE.
 * Entry and exit conditions can change at short notice. You should contact the nearest embassy or consulate of the UAE for the latest details.
