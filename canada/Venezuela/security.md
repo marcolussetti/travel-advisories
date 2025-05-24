@@ -2,11 +2,11 @@
 
 ## Safety and security
 
-### Presidential inauguration
+### Regional and legislative elections
 
-The presidential inauguration took place in Caracas on January 10, 2025.
+Regional and legislative elections are scheduled for May 25, 2025
 
-Demonstrations and social unrest may continue to occur after the inauguration, especially in major cities across the country. The security situation can deteriorate without warning.
+Demonstrations and social unrest may occur before, during and after the elections, especially in major cities across the country. The security situation can deteriorate without warning.
 
 Authorities may impose curfews and restrict movement without notice. They have used violence and lethal force during past demonstrations. You could be arrested and detained without cause.
 
@@ -172,6 +172,10 @@ Demonstrations can lead to disruptions to traffic and public transportation.
 
 [Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
 
+### Arbitrary detention
+
+Since 2024, dozens of foreign citizens have been arbitrarily detained by the Venezuelan authorities. We may not be notified if you are detained in Venezuela.
+
 ### Communications
 
 Telecommunication infrastructure is in a state of disrepair. Interruptions are frequent. It is very difficult to make international calls.
@@ -238,4 +242,4 @@ We do not make assessments on the compliance of foreign domestic airlines with i
 
 [Information about foreign domestic airlines](https://travel.gc.ca/air/in-flight-safety#other)
 
-Travelling within or out of the country on short notice can be difficult. International and domestic commercial flights are limited. Some international airlines have reduced the number of flights arriving to and departing from Venezuela or have suspended services altogether.
+Travelling within or out of the country can be difficult. International and domestic commercial flights are limited. Some international airlines have reduced the number of flights arriving to and departing from Venezuela or have suspended services altogether.
