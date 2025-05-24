@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   21 May 2025
+:   24 May 2025
 
 Updated:
-:   20 May 2025
+:   23 May 2025
 
 Latest update:
-:   New information on emergency measures due to a recent outbreak of foot and mouth disease (See ‘Border Checks’ on the ‘Entry Requirements’ page and ‘Skiing and Hiking’ on the ‘Safety and Security’ page).
+:   Removal of information about restrictions put in place in response to a foot and mouth disease outbreak, as the restrictions have now been lifted (‘Entry requirements and ‘Safety and security’ pages).
 
 ## Before you travel
 

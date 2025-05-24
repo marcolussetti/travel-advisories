@@ -1,11 +1,11 @@
 {
     "name": "Slovakia",
-    "update_reason": "New information on emergency measures due to a recent outbreak of foot and mouth disease (See \u2018Border Checks\u2019 on the \u2018Entry Requirements\u2019 page and \u2018Skiing and Hiking\u2019 on the \u2018Safety and Security\u2019 page).",
+    "update_reason": "Removal of information about restrictions put in place in response to a foot and mouth disease outbreak, as the restrictions have now been lifted (\u2018Entry requirements and \u2018Safety and security\u2019 pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Slovakia/Warnings and insurance.md",
-            "update_date": "2025-05-20T15:28:25+01:00"
+            "update_date": "2025-05-23T15:38:38+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Slovakia/Getting help.md"
         }
     ],
-    "update_date": "2025-05-20T15:28:25+01:00"
+    "update_date": "2025-05-23T15:38:38+01:00"
 }

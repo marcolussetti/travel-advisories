@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   24 May 2025
 
 Updated:
-:   19 March 2025
+:   23 May 2025
 
 Latest update:
-:   Removal of visa requirement to enter Argentina on an Emergency Travel Document and addition of number to contact 911 (Emergencies) in Buenos Aires from outside Argentina ('Getting help' page).
+:   Clarification on visa requirements for business travel ('Entry requirements' page).
 
 ## Before you travel
 

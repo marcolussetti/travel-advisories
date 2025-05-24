@@ -75,14 +75,13 @@ In Buenos Aires, be particularly cautious in:
 
 In Mendoza, be particularly cautious downtown.
 
+In Santa Fe, be particularly cautious in Rosario.
+
 ### Violent crime
 
 Armed robberies are a risk. If you are the victim of a robbery, hand over your cash and valuables without resistance.
 
-Be especially vigilant in:
-
-* La Boca, Buenos Aires – avoid the streets outside the Caminito tourist area and stay in the designated tourist area where there are high-visibility police patrols
-* Rosario, Province of Santa Fe
+Be vigilant in La Boca, Buenos Aires, especially in the streets outside the Caminito tourist area. To reduce your risk, stay in the designated tourist area where there are high-visibility police patrols.
 
 ### Criminal kidnapping
 

@@ -1,11 +1,11 @@
 {
     "name": "Thailand",
-    "update_reason": "New information about foreign nationals needing to complete a digital arrival card from 1 May 2025 (\u2018Entry requirements\u2019 page).",
+    "update_reason": "Updated information on illegal drugs and the risks of carrying cannabis out of Thailand ('Warnings and insurance' and 'Safety and security' pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Thailand/Warnings and insurance.md",
-            "update_date": "2025-04-09T15:16:27+01:00"
+            "update_date": "2025-05-23T16:35:32+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Thailand/Getting help.md"
         }
     ],
-    "update_date": "2025-04-09T15:16:27+01:00"
+    "update_date": "2025-05-23T16:35:32+01:00"
 }

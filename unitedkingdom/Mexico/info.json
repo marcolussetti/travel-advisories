@@ -1,11 +1,11 @@
 {
     "name": "Mexico",
-    "update_reason": "Information added about spiritual ceremonies that might cause health, welfare and mental issues to anyone undergoing these rituals ('Safety and security' page).",
+    "update_reason": "Information about protests blocking access to the main airport in Mexico City; there may be flight disruptions or cancellations.  ('Warnings and insurance')",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Mexico/Warnings and insurance.md",
-            "update_date": "2025-05-13T11:18:18+01:00"
+            "update_date": "2025-05-23T22:37:28+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Mexico/Getting help.md"
         }
     ],
-    "update_date": "2025-05-13T11:18:18+01:00"
+    "update_date": "2025-05-23T22:37:28+01:00"
 }

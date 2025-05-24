@@ -1,11 +1,11 @@
 {
     "name": "Cambodia",
-    "update_reason": "Addition of information on how to apply for an e-visa on the official iOS or Android app (\u2018Entry requirements\u2019 page).",
+    "update_reason": "Updated information on illegal drugs, including cannabis ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Cambodia/Warnings and insurance.md",
-            "update_date": "2025-05-08T15:49:40+01:00"
+            "update_date": "2025-05-23T14:47:15+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Cambodia/Getting help.md"
         }
     ],
-    "update_date": "2025-05-08T15:49:40+01:00"
+    "update_date": "2025-05-23T14:47:15+01:00"
 }

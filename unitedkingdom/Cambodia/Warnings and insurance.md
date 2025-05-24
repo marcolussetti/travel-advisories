@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   9 May 2025
+:   24 May 2025
 
 Updated:
-:   8 May 2025
+:   23 May 2025
 
 Latest update:
-:   Addition of information on how to apply for an e-visa on the official iOS or Android app (‘Entry requirements’ page).
+:   Updated information on illegal drugs, including cannabis ('Safety and security' page).
 
 ## Before you travel
 

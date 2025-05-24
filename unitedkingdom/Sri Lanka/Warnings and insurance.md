@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   24 May 2025
 
 Updated:
-:   6 February 2025
+:   23 May 2025
 
 Latest update:
-:   Updated information on terrorism in Sri Lanka ('Safety and security' page).
+:   Updated information about risks from chikungunya which is spread through mosquito bites ('Health' page).
 
 ## Before you travel
 

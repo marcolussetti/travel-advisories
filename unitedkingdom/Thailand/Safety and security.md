@@ -124,11 +124,22 @@ Some British nationals have suffered severe psychiatric problems because of drug
 
 ### Cannabis
 
-Using cannabis in public places is illegal. Private recreational use of cannabis is legal if the Tetrahydrocannabinol (THC) content is below 0.2% by weight. There are still restrictions around growing and selling cannabis products. See more information on the [Thai government’s website](https://www.thailand.go.th/issue-focus-detail/001_07_003-2-2).
+Do not carry cannabis out of Thailand. While low-strength cannabis is legal in Thailand, cannabis of any strength may be illegal in other countries you travel to.
 
-While low-strength cannabis is legal in Thailand, it is likely to be illegal in other countries you travel on to. This includes residual amounts, for example in bags or clothing or in your bloodstream.
+Criminal gangs are known to pressure people into carrying drugs. Always pack your own luggage and do not carry anything through customs for someone else. British nationals have been caught carrying cannabis out of Thailand.
 
-It is illegal to take cannabis out of Thailand without the appropriate export permissions issued by the authorities. Illegally carrying cannabis, particularly large quantities, can lead to heavy fines or imprisonment in Thailand, the UK and other countries you may travel to.
+There have been arrests of British nationals caught transiting through airports in other countries. Many international airports have excellent technology and security for detecting illegal items, which may be used to scan the baggage of transiting passengers.
+
+If you are caught carrying cannabis in other countries, you can be given:
+
+* a long prison sentence
+* in some countries, the death penalty
+
+Legal processes before court hearings can be long and expensive. It can take many months for a case to go to trial.
+
+In some countries, you can be arrested if you have traces of cannabis on your clothing, baggage or within you. Random blood and urine tests can be taken to see if it is within you.
+
+It is illegal to take cannabis out of Thailand without the appropriate export permissions issued by the authorities. Illegally carrying cannabis, particularly large quantities, can lead to heavy fines or imprisonment in Thailand.
 
 ### LGBT+ travellers
 

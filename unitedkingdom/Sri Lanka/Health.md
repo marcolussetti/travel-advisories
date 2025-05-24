@@ -26,6 +26,7 @@ See [what health risks you’ll face in Sri Lanka](https://travelhealthpro.org.u
 
 * Zika virus
 * dengue
+* chikungunya
 
 Altitude sickness is a risk in parts of Sri Lanka. Read more about [altitude sickness on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/26/altitude-illness).
 

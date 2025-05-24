@@ -121,9 +121,20 @@ The conditions in Cambodian prisons are extremely poor and overcrowded. Medical 
 
 ### Illegal drugs
 
-Penalties for drug offences in Cambodia are severe. Possession of even small quantities of recreational drugs can lead to a long prison sentence.
+Possession, trafficking and manufacture of any illegal drugs are serious offences in Cambodia. This includes cannabis. British nationals have been caught carrying cannabis while transiting through Cambodia.
 
-Drugs have also caused the death of several foreign travellers. These deaths are likely to be the result of impurities, or from being mixed with unknown substances.
+The Cambodia authorities have a zero-tolerance policy to drug offences. Possessing drugs, even in very small quantities, can carry severe penalties, including:
+
+* arrest and detention
+* a long jail sentence if charged and convicted. This can include a life sentence with no reduction for good behaviour
+
+Legal processes before court hearings can be long and expensive. It can take many months for a case to come to trial.
+
+Criminal gangs in the UK and elsewhere have been known to coerce people into carrying drugs across borders. Do not allow yourself to be persuaded.
+
+It is important to be aware of your rights if you are detained by the police. See [our guidance for those detained or imprisoned in Cambodia](https://www.gov.uk/government/publications/cambodia-prisoner-pack).
+
+Police often raid venues known to be frequented by foreigners. You may have to take a urine or blood test if there is a suspicion you have used drugs. You will be arrested if the test is positive.
 
 ### Angkor Wat official code of conduct
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   10 April 2025
+:   24 May 2025
 
 Updated:
-:   9 April 2025
+:   23 May 2025
 
 Latest update:
-:   New information about foreign nationals needing to complete a digital arrival card from 1 May 2025 (‘Entry requirements’ page).
+:   Updated information on illegal drugs and the risks of carrying cannabis out of Thailand ('Warnings and insurance' and 'Safety and security' pages).
 
 ![](https://assets.publishing.service.gov.uk/media/6164105ce90e07198018f873/FCDO__TA__040_-_Thailand_Travel_Advice_Ed2__WEB_.jpg)
 
@@ -30,6 +30,10 @@ FCDO also advises against all but essential travel on the Hat Yai to Padang Bes
 This is due to regular attacks in the provinces by the border with Malaysia. See [Safety and security](https://www.gov.uk/foreign-travel-advice/thailand/safety-and-security) .
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/thailand/safety-and-security#terrorism).
+
+## Do not carry cannabis out of Thailand
+
+British nationals have been caught carrying cannabis out of Thailand. There have been arrests of British nationals caught transiting through airports in other countries. Many international airports have excellent technology and security for detecting illegal items, which may be used to scan the baggage of transiting passengers.
 
 ## Before you travel
 

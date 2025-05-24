@@ -14,7 +14,7 @@ You will be denied entry if you do not have a valid travel document or try to us
 
 ## Visa requirements
 
-You can visit Argentina without a visa for business or tourism for up to 90 days.
+You can visit Argentina without a visa for tourism for up to 90 days.
 
 To stay longer, or to work or study, you must meet the Argentine government’s entry requirements. Contact the [Argentine Consulate in the UK](https://clond.cancilleria.gob.ar/en).
 
