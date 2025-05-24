@@ -2,4 +2,4 @@
 
 [#### Destination Description](javascript:void(0); "Destination Description")
 
-[Learn about the U.S. relationship to countries around the world.](https://www.state.gov/countries-and-areas-list/)
+Review the Department of State’s Fact Sheet on [Turkmenistan](https://www.state.gov/countries-areas/turkmenistan/) for information on U.S-Turkmen relations.

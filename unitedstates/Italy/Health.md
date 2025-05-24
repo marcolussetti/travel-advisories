@@ -26,7 +26,6 @@ The Italian Ministry of Health sets rules defining who and how prescriptions and
 The import of medications into Italy by courier services or by mail is strictly regulated by Italian Customs laws. Italian customs clears all incoming shipments of medications, even small amounts for personal use. Delays in the release of medications by Italian Customs received by mail or by courier services are common. The receiving party must be able to provide a statement signed by a physician licensed in Italy, certifying:
 
 * The medication is essential for the patient, that he/she would be put in a life-threatening situation without it.
-
 * There is no substitute or equivalent medication available on the Italian market.
 
 Exercise caution when purchasing medication overseas. Pharmaceuticals, both over the counter and requiring prescription in the United States, are often readily available for purchase with minimal controls. Medication should be purchased in consultation with a medical professional and from reputable establishments.

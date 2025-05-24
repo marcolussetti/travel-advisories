@@ -1,6 +1,6 @@
 # Italy Travel Advisory
 
-### Travel Advisory September 12, 2024
+### Travel Advisory May 23, 2025
 
 ### Italy - Level 2: Exercise Increased Caution
 
@@ -14,24 +14,32 @@
 [T](javascript:void(0); "Tool Tip: Terrorism")
 [C](javascript:void(0); "Tool Tip: Crimes")
 
-***Reissued after periodic review with minor edits.***
+**Exercise increased caution** in Italy due to **terrorism**.
 
-Exercise increased caution due to **terrorism**.
+**Advisory summary:** There is risk of terrorist violence, including terrorist attacks and other activity in Italy. Visit the U.S. Department of State's [country reports on terrorism](https://www.state.gov/country-reports-on-terrorism/) to learn more.
 
-**Country Summary:** Terrorist attacks are possible in Italy. Terrorists may attack with little or no warning.  They may target tourist spots, transport hubs, markets/shopping malls, local government facilities, hotels, clubs, restaurants, places of religious importance, parks, major sporting and cultural events, schools, airports, and other public areas.
+Terrorists may attack with little or no warning. Common targets include:
 
-Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Italy.html) for additional information on travel to Italy.
+* Tourist spots
+* Transportation centers
+* Shopping malls and markets
+* Local government buildings
+* Hotels, clubs and restaurants
+* Religious sites
+* Parks
+* Sporting and cultural events
+* Schools
+* Airports
+* Public areas
 
 If you decide to travel to Italy:
 
-* Be aware of your surroundings when traveling to tourist locations and crowded public venues.
-* Follow the instructions of local authorities.
-* Monitor local media for breaking events and adjust your plans based on new information.
-* Enroll in the [Smart Traveler Enrollment Program](https://step.state.gov/step/#_blank) ([STEP](https://step.state.gov/step/#_blank)) to receive Alerts and make it easier to locate you in an emergency.
-* Follow the Department of State on [Facebook](http://www.facebook.com/travelgov) and [X/Twitter](http://www.twitter.com/travelgov).
-* Review the [Country Security Report](https://www.osac.gov/Country/Italy/Detail#_blank) for Italy.
-* Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) related to your travel.
-* Prepare a contingency plan for emergency situations. Review the [Traveler’s Checklist.](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-checklist.html#_blank)
+* Stay alert in tourist spots.
+* Check local media for breaking news. Be prepared to adjust your plans.
+* Enroll in [the Smart Traveler Enrollment Program (STEP)](https://mytravel.state.gov/s/step) to receive messages and alerts from the U.S. Embassy. It makes it easier to locate you in an emergency.
+* Review the [Country Security Report](https://www.osac.gov/Country/Italy/Detail#_blank)for Italy.
+* Prepare a contingency plan for emergency situations. Review the [Traveler’s Checklist](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-checklist.html).
+* Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/traveler/none/costa-rica) related to your travel and return to the United States.
 
 ### Travel Advisory Levels
 
