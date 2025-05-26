@@ -82,13 +82,13 @@ Seek medical advice if you have a fever, muscle pain, rash or severe headache.
 
 #### Poliovirus
 
-A national vaccination campaign was undertaken in 2018 and 2019 following the World Health Organization (WHO) reporting cases of [vaccine-derived poliovirus (type 1)](https://www.who.int/emergencies/disease-outbreak-news/item/02-July-2018-polio-png-en) in parts of PNG.
+Vaccine-derived poliovirus outbreaks occur from time to time in PNG. The World Health Organization (WHO) confirmed detection of vaccine-derived poliovirus in environmental samples in parts of PNG in May 2025, following an earlier outbreak in 2018.
 
 Make sure you're vaccinated against [polio](https://www.who.int/news-room/fact-sheets/detail/poliomyelitis).
 
 **More information:**
 
-* [Papua New Guinea confirms poliovirus outbreak, launches response](http://www.wpro.who.int/papuanewguinea/mediacentre/releases/20180725/en/)
+* [Circulating vaccine-derived poliovirus type 2 (cVDPV2) – Papua New Guinea – 2025](https://www.who.int/emergencies/disease-outbreak-news/item/2025-DON571#:~:text=On%209%20May%202025%2C%20the,Papua%20New%20Guinea%20(PNG).)
 * [Vaccine derived poliovirus – Papua New Guinea](https://www.who.int/emergencies/disease-outbreak-news/item/02-July-2018-polio-png-en)
 
 #### Tuberculosis

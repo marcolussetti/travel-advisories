@@ -6,7 +6,7 @@ From 1 May 2025, you must complete a Thailand Digital Arrival Card (TDAC) within
   
 Following the recent 7.7 magnitude earthquake in the region, there's ongoing assessments of the structural integrity of buildings across Thailand. Check with your accommodation provider and follow the advice of technical experts and local authorities. Avoid affected areas, follow the advice of the local authorities, including any evacuation orders. Monitor local media for updates (see 'Safety').  
   
-We continue to advise exercise a high degree of caution in Thailand overall. We continue to advise reconsider your need to travel to Yala, Pattani and Narathiwat provinces. Be alert to risks around drink spiking. Don't leave food or drinks unattended. Stay with people you trust at bars, nightclubs and in taxis. See our advice on partying safely while overseas. There's an ongoing risk of terrorism in Thailand. Popular tourist areas may be the target of terrorist attacks. Road accidents are a significant cause of injury. Wear helmets on motorcycles and motorcycle taxis (see 'Safety').
+Be alert to risks around drink spiking. Don't leave food or drinks unattended. Stay with people you trust at bars, nightclubs and in taxis. See our advice on partying safely while overseas. There's an ongoing risk of terrorism in Thailand. Popular tourist areas may be the target of terrorist attacks. Road accidents are a significant cause of injury. Wear helmets on motorcycles and motorcycle taxis (see 'Safety').
 
 Advice Level summary
 
@@ -40,7 +40,7 @@ See [Safety](#safety).
 
 ### Safety
 
-* Following the 7.7 magnitude earthquake in Myanmar on 28 March, assessments of the structural integrity of buildings across Thailand are ongoing and may continue over the coming weeks. Check with your accommodation provider. Follow the advice of technical experts and local authorities, including the [Tourism Authority of Thailand](https://www.facebook.com/tatnews.org) and the [Bangkok Metropolitan Administration](https://www.facebook.com/bangkokbma) (BMA). You can also visit [BMA's webpage](https://openpolicy.bangkok.go.th/bkkbuilding.html), which maps buildings that have passed safety inspections across Bangkok. There may be local transport disruptions. Avoid affected areas. If you're in the area or planning to travel there, follow the advice of the local authorities, including any evacuation orders. Monitor local media for updates.
+* Following the 7.7 magnitude earthquake in Myanmar on 28 March, tremors continue to be felt across Thailand. Assessments of the structural integrity of buildings across Thailand are ongoing. Check with your accommodation provider. Follow the advice of local authorities, including the [Tourism Authority of Thailand](https://www.facebook.com/tatnews.org) and the [Bangkok Metropolitan Administration](https://www.facebook.com/bangkokbma) (BMA).
 * There's an ongoing risk of terrorist attacks in Thailand. Popular tourist areas may be the target of terrorist attacks. Coordinated attacks have occurred in the southern border provinces. The ongoing conflict in the Middle East could lead to an increased threat of attacks against Israeli interests in other regions. Be alert to possible threats. Take official warnings seriously and follow the advice of local authorities.
 * Road accidents are a significant cause of injury. Be alert at all times on the roads, including wearing helmets on motorcycles and motorcycle taxis.
 * Scams, credit card fraud and ATM fraud are common.
@@ -48,7 +48,7 @@ See [Safety](#safety).
 * Anti-government protests have previously occurred in Bangkok and other areas of Thailand. The security environment can be unpredictable and turn violent. Those attending protests can face arrest or other legal consequences. Monitor local media for information on protest locations and avoid public gatherings.
 * Reconsider your need to travel to the 3 most southern provinces of the Thailand-Malaysia border: Yala, Pattani and Narathiwat. Low-level insurgent activity continues to occur in these areas.
 * Border areas near Cambodia, Myanmar and Malaysia are dangerous due to violence, armed conflict and landmines. Pay close attention to your personal security.
-* Floods and severe weather can disrupt essential services during the wet season (June to November). Follow the advice of local officials.
+* Floods and severe weather can disrupt essential services during the wet season (May to November). Follow the advice of local officials.
 
 Full travel advice: [Safety](#safety)
 
@@ -57,6 +57,7 @@ Full travel advice: [Safety](#safety)
 * Travellers have been arrested for carrying medicine they bought at a Thai pharmacy without a prescription. Get medical advice before buying medicine.
 * Insect-borne diseases include malaria, Zika virus, dengue, chikungunya, Japanese encephalitis and filariasis. Use insect repellent. Ensure your accommodation is insect-proof as possible.
 * Animals in parts of Thailand can carry rabies. Don't ever feed, pat or tease monkeys. If you're bitten or scratched by a dog, monkey or other animal, get medical treatment immediately.
+* There have been outbreaks of anthrax in northeastern Thailand. Do not eat raw or undercooked meat.
 * Thailand has high levels of air pollution. Air pollution can make bronchial, sinus or asthma conditions worse. Check air quality levels on the [World Air Quality Index](https://waqi.info/).
 * Medical tourism is common. Avoid discount and uncertified medical establishments. Their standards can be poor. Research medical service providers and choose with care.
 

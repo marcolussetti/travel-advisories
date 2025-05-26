@@ -6,6 +6,8 @@ We continue to advise exercise a high degree of caution in Papua New Guinea due 
   
 Local level elections will take place across the country between May and August 2025. Be alert to the possibility of tensions and violence during elections.   
   
+The World Health Organization (WHO) has confirmed detection of vaccine-derived polio in Papua New Guinea. Make sure your vaccinations are up to date.  
+  
 Local communities can block the Kokoda Track at short notice. Check with your trekking company for the latest information (see 'Travel').  
   
 Ongoing fuel shortages can disrupt domestic travel, including air travel, with little or no notice. Protests, civil disorder and tribal violence can escalate quickly. Avoid areas where violence occurs and be alert to personal safety risks. Monitor local media for updates (see 'Safety').

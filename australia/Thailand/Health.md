@@ -113,15 +113,23 @@ Check air quality levels on the [World Air Quality Index](https://waqi.info/).
 
 Get advice from your doctor before you travel.
 
+#### Sexually Transmitted Infections
+
+There is a risk of contracting [HIV/AIDS,](https://www.healthdirect.gov.au/hiv-infection-and-aids) hepatitis and other sexually transmitted infections in Thailand.
+
 #### Mpox (formerly known as monkeypox)
 
-There have been reports of Mpox (formerly known as monkeypox) cases in Thailand. Maintain strict hygiene standards and avoid physical contact with infected people, animals (especially primates and rodents) and items that may have come into contact with them. 
+There have been reports of [Mpox](https://www.smartraveller.gov.au/news-and-updates/mpox-global-public-health-emergency) (formerly known as monkeypox) cases in Thailand. Maintain strict hygiene standards and avoid physical contact with infected people, animals (especially primates and rodents) and items that may have come into contact with them.
 
 The Thai government has introduced a range of measures to limit the spread of Mpox, including, for individuals who test positive, mandatory quarantine and treatment at one of a number of hospitals equipped with negative pressure rooms.
 
 **More information:**
 
 * [Mpox](https://www.cdc.gov.au/topics/mpox-monkeypox) (Australian Government)
+
+#### Anthrax
+
+There have been outbreaks of [anthrax](https://www.health.gov.au/diseases/anthrax) in northeastern Thailand. Purchase meat from reputable sources and do not eat raw or undercooked meat. Avoid animal products that could have been sourced from animals that may have died of natural causes. Avoid contact with dead animals or carcasses. If you suspect that you may have come into contact with anthrax, seek urgent medical advice.
 
 #### Medical care
 

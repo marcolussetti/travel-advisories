@@ -68,6 +68,7 @@ In Thailand, it's illegal to:
 
 * travel without carrying identification
 * gamble - other than at a few major race tracks
+* fly a drone without being registered
 * make a false statement to police, including about an insurance claim
 
 It is also illegal to smoke on beaches in tourist areas, including:

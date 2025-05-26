@@ -199,14 +199,18 @@ Methanol can be used in unregulated alcohol production to lower costs. Methanol
 
 Transport and tour operators don't always follow safety and maintenance standards. This includes for:
 
-* water sports, such as scuba diving
+* marine tourism activities, such as scuba diving and snorkelling
+* water sports, such as parasailing and jet-skiing
 * adventure activities, such as bungee jumping, zip lining and rock climbing
 * animal attractions, including elephant safaris
 
-If you plan to do an [adventure activity](/before-you-go/activities/adventure "Going overseas for sports and adventure"):
+Thailand has introduced stricter regulations regarding scuba diving and snorkelling activities. You cannot touch or move marine life, including coral, stir up sediment or feed fish. You must also wear a life vest when snorkelling. You may be reported to local authorities for not following regulations.
+
+If you plan to do an [adventure activity](https://www.smartraveller.gov.au/before-you-go/activities/adventure):
 
 * check if your travel insurance policy covers it
-* ask the operator about and insist on minimum safety requirements
+* only use reputable businesses who comply with the safety regulations of the country you’re visiting
+* ask the operator about their qualifications and safety policies, including first aid training and insist on minimum safety requirements
 * always use available safety gear, such as life jackets or seatbelts
 
 If proper safety equipment isn't available, use another provider.
