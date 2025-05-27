@@ -2,9 +2,9 @@
 
 #### Climate and natural disasters
 
-There's widespread infrastructure damage, including to roads and buildings, following the 7.2-magnitude earthquake that struck Port Vila and surrounding areas on 17 December. The CBD remains closed for safety reasons, while assessments and demolition of damaged buildings are underway. 
+A 7.2-magnitude earthquake struck Port Vila on 17 December 2024, causing damage to infrastructure, including roads and buildings. Parts of the CBD remain closed for safety reasons while demolition of damaged buildings continue. Port Vila's cruise ship terminal remains cut off due to a landslide which is still to be cleared. Follow the advice of local authorities.
 
-Landslides have occurred, with the worst affected areas blocked off, including to Port Vila's cruise ship terminal. Follow the advice of local authorities. Essential services, including telecommunications power and water supply, have been restored in most areas.
+Many hotels and tourism operators are open for business, but some have been significantly impacted by the earthquake and are temporarily closed or have relocated.
 
 #### Earthquakes
 
@@ -68,7 +68,7 @@ If a natural disaster occurs:
 
 #### Tropical storms and cyclones
 
-The cyclone season is from November to April, but cyclones and tropical storms can occur at any time. They can disrupt essential services and cause property damage, injuries, and loss of life. The direction and strength of a tropical cyclone can change suddenly. Cyclones can bring:
+The cyclone season is from November to April, but cyclones and tropical storms can sometimes occur outside this. They can disrupt essential services and cause property damage, injuries, and loss of life. The direction and strength of a tropical cyclone can change suddenly. Cyclones can bring:
 
 * torrential rains
 * storm surges

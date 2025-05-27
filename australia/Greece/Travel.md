@@ -84,11 +84,11 @@ If you have Greek citizenship, you can only take up to 10,000 euros when leaving
 
 #### Extension of stays
 
-Extension of stays in Greece beyond the allowed 90 days isn't automatic. Requests for extension with the relevant local authority should be lodged at least 4 weeks before your visa-free period expires. Present your request to the office of the Greek police on aliens issues.
+Extension of stays in Greece beyond the allowed 90 days isn't automatic (digital driver's licences may not be accepted). Requests for extension with the relevant local authority should be lodged at least 4 weeks before your visa-free period expires. Present your request to the office of the Greek police on aliens issues.
 
 #### Driving permit
 
-Australian driver's licences are officially recognised as valid for use in Greece. If you plan on driving in Greece, you may not need an International Driving Permit. Contact the [Greek Embassy or Consulate](https://www.mfa.gr/en/appendix/greece-bilateral-relations/a.html) for more information on your licence type.
+Australian driver's licences are officially recognised as valid for use in Greece (digital driver’s licences may not be accepted). If you plan on driving in Greece, you may not need an International Driving Permit. Contact the [Greek Embassy or Consulate](https://www.mfa.gr/en/appendix/greece-bilateral-relations/a.html) for more information on your licence type.
 
 Your licence must be valid for the type of vehicle you'll drive, including quad bikes, motorbikes, mopeds, motor scooters and other similar vehicles.
 

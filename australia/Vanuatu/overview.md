@@ -2,9 +2,9 @@
 
 Latest update
 
-There is widespread damage to infrastructure, including roads and buildings, following the 7.2-magnitude earthquake that struck Port Vila and surrounding areas in December 2024. Large parts of the CBD remain closed for safety reasons while assessments and demolition of damaged buildings are underway. Landslides have occurred, with the worst affected areas blocked off, including to Port Vila's cruise ship terminal. Follow the advice of local authorities.   
+A 7.2-magnitude earthquake struck Port Vila on 17 December 2024, causing damage to infrastructure, including roads and buildings. Parts of the CBD remain closed for safety reasons while demolition of damaged buildings continue. Port Vila's cruise ship terminal remains cut off due to a landslide which is still to be cleared. Follow the advice of local authorities.  
   
-Many hotels and tourism operators are open for business, but some have been significantly impacted by the earthquake and are temporarily closed. If you have pre-existing bookings, contact your travel agent, accommodation provider and/or airline for further information and, if necessary, your insurance company.
+Many hotels and tourism operators are open for business, but some have been significantly impacted by the earthquake and are temporarily closed or have relocated.
 
 Advice Level summary
 
@@ -24,8 +24,8 @@ Exercise normal safety precautions in Vanuatu.
 
 ### Safety
 
-* There's widespread infrastructure damage, including to roads and buildings, following the 7.2-magnitude earthquake that struck Port Vila and surrounding areas on 17 December. The CBD remains closed for safety reasons while assessments of damaged buildings are underway. Landslides have occurred, with the worst affected areas blocked off, including to Port Vila's cruise ship terminal.
-* The cyclone season is from November to April, but cyclones and tropical storms can happen at any time. Cyclones can disrupt services and cause property damage, injuries, and loss of life. In the event of a cyclone, check the [National Disaster Management Office](https://ndmo.gov.vu/) and [Vanuatu Meteorological and Geo-Hazards Department](https://www.vmgd.gov.vu/vmgd/index.php) websites.
+* A 7.2-magnitude earthquake struck Port Vila on 17 December 2024, causing damage to infrastructure, including roads and buildings. Parts of the CBD remain closed for safety reasons while demolition of damaged buildings continue. Port Vila's cruise ship terminal remains cut off due to a landslide which is still to be cleared. Follow the advice of local authorities.
+* The cyclone season is from November to April, but cyclones and tropical storms can sometimes occur outside this. Cyclones can disrupt services and cause property damage, injuries, and loss of life. In the event of a cyclone, check the [National Disaster Management Office](https://ndmo.gov.vu/) and [Vanuatu Meteorological and Geo-Hazards Department](https://www.vmgd.gov.vu/vmgd/index.php) websites.
 * Crime in Vanuatu is low. Crime tends to increase in the lead-up to holidays such as Independence Day (30 July) and Christmas. The risk is also higher at night or in isolated locations. Don't walk alone after dark.
 * Earthquakes occur regularly. Tsunamis can occur. If you hear a tsunami warning siren (Port Vila or Santo) or experience a long or strong tremor, move to higher ground and follow the instructions of local authorities.
 * Vanuatu has several active volcanoes, including under-sea volcanoes. Before travelling to volcanic areas, visit the [Vanuatu Meteorological and Geo-Hazards Department](https://www.vmgd.gov.vu/vmgd/index.php) website for the latest information on volcanic activity.
@@ -53,7 +53,7 @@ Full travel advice: [Local laws](#local-laws)
 
 ### Travel
 
-* There's widespread infrastructure damage, including to roads and buildings, following the 7.2 magnitude earthquake that struck Port Vila and surrounding areas on 17 December 2024. The Port Vila CBD remains closed (see 'Safety').
+* Following the 7.2 magnitude earthquake that struck Port Vila and surrounding areas on 17 December 2024, parts of Port Vila CBD remains closed (see 'Safety').
 * Multiple aftershocks have occurred and continue. Landslides have occurred. Follow the advice of local authorities.
 
 Full travel advice: [Travel](#travel)

@@ -25,7 +25,7 @@ To reduce the risk of theft:
 
 Tourist scams exist in Greece, including taxis, hotels, restaurants, and vehicle hire services. If you've been the victim of a scam, report your claims to the nearest Police station and be prepared to support your claim with evidence.
 
-Under Greek law, all suppliers of goods and services must issue you a receipt. 
+Under Greek law, all suppliers of goods and services must issue you a receipt.
 
 #### Alcohol
 
@@ -35,7 +35,9 @@ A standard drink can contain more alcohol than in Australia. This can apply to b
 
 Consider the risks when drinking alcoholic beverages, particularly drinks made with spirits.
 
-You can become seriously ill after drinking contaminated alcohol.
+#### Drink Spiking
+
+Drink spiking can happen anywhere. Be alert to the potential risks, and don't leave food or drinks unattended. Pay attention when your drinks are being mixed. Stick to reputable venues and avoid homemade alcoholic drinks due to the risk of methanol poisoning. You can become seriously ill after drinking contaminated alcohol.
 
 Labels on bottles aren't always accurate.
 
@@ -69,7 +71,7 @@ If you're a victim of sexual assault in Greece, it's your decision whether to re
 
 There have been instances where an alleged abuser has laid defamation charges against their accuser and/or their family members at the same time. This can result in the accuser being arrested.
 
-If the case goes to trial, there's an expectation that the victim attend court in person to testify, regardless of whether they live in another country. 
+If the case goes to trial, there's an expectation that the victim attend court in person to testify, regardless of whether they live in another country.
 
 Before you travel, read our guidance on [reducing the risk of sexual assault](/before-you-go/safety/sexual-assault "Reducing the risk of sexual assault and harassment"). We also have an [advice page](https://www.smartraveller.gov.au/while-youre-away/crime/sexual-assault-overseas) on what to do immediately after a sexual assault, reporting a sexual assault overseas, and available counselling.
 
@@ -79,11 +81,11 @@ Before you travel, read our guidance on [reducing the risk of sexual assault](/
 
 #### Cyber security
 
-You may be at risk of cyber-based threats during overseas travel to any country. Digital identity theft is a growing concern. Your devices and personal data can be compromised, especially if you're connecting to Wi-Fi, using or connecting to shared or public computers, or to Bluetooth. 
+You may be at risk of cyber-based threats during overseas travel to any country. Digital identity theft is a growing concern. Your devices and personal data can be compromised, especially if you're connecting to Wi-Fi, using or connecting to shared or public computers, or to Bluetooth.
 
-Social media can also be risky in destinations where there are social or political tensions or laws that may seem unreasonable by Australian standards. Travellers have been arrested for things they have said on social media. Don't comment on local or political events on your social media. 
+Social media can also be risky in destinations where there are social or political tensions or laws that may seem unreasonable by Australian standards. Travellers have been arrested for things they have said on social media. Don't comment on local or political events on your social media.
 
-**More information:** 
+**More information:**
 
 * [Cyber security when travelling overseas](/before-you-go/staying-safe/cyber-security "Cyber security when travelling overseas")
 
@@ -129,7 +131,7 @@ Terrorism is a threat worldwide.
 
 #### Civil unrest and political tension
 
-Public protests, strikes, demonstrations and events that draw large groups of people occur regularly and often with little notice, mainly in central Athens around Syntagma Square, Omonia Square and Exarchia. They can also occur in other major cities, including Thessaloniki around Aristotelous Square, Egnatia Street, the Arch of Galerius and the campus of Aristotle University. Protesters and police could clash. Sometimes petrol bombs and fireworks are thrown by protesters, and police deploy tear gas, water cannons and flash bangs. 
+Public protests, strikes, demonstrations and events that draw large groups of people occur regularly and often with little notice, mainly in central Athens around Syntagma Square, Omonia Square and Exarchia. They can also occur in other major cities, including Thessaloniki around Aristotelous Square, Egnatia Street, the Arch of Galerius and the campus of Aristotle University. Protesters and police could clash. Sometimes petrol bombs and fireworks are thrown by protesters, and police deploy tear gas, water cannons and flash bangs.
 
 Protests also occur on days of national or commemorative significance, including:
 
@@ -177,18 +179,21 @@ Coral, urchins and jellyfish live in the waters off Greece. Always take care whe
 
 #### Climate and natural disasters
 
-Greece experiences [natural disasters](/before-you-go/safety/natural-disasters "Staying safe when there's a natural disaster") and [severe weather](/while-youre-away/crisis-or-emergency/severe-weather-incident "There's a severe weather incident").
+Greece experiences [natural disasters](https://www.smartraveller.gov.au/before-you-go/safety/natural-disasters) and [severe weather](https://www.smartraveller.gov.au/while-youre-away/crisis-or-emergency/severe-weather-incident).
 
-A state of emergency has been in place for the islands of Santorini, Ios, Amorgos, and Anafi following a series of earthquakes in the Aegean Sea since February 2025. While seismic activity has declined, the risk of stronger tremors remains. The state of emergency allows Greek authorities to mobilise resources in case of a strong earthquake.   
-  
-If you're in the area, monitor the media and follow the advice of local authorities.
+Information on national disaster incidents and severe weather is posted by local authorities and [@112Greece](https://www.112emergency.eu/greece) on social media. Alert messages may be sent by local authorities to mobile numbers advising of critical incidents. Alerts are posted in Greek and sometimes in English. For updated information on natural disasters, see [civilprotection.gov.gr](https://civilprotection.gov.gr/)
 
-**More information**:
+#### Earthquakes and volcanoes
+
+Greece is in an active seismic zone and sometimes experiences [significant earthquakes](https://www.smartraveller.gov.au/before-you-go/safety/earthquakes-tsunamis) and [volcanic activity](https://www.smartraveller.gov.au/before-you-go/safety/natural-disasters). Earthquakes have occurred near the major tourist islands of Santorini and Crete. Frequent and sustained seismic activity occurred near the Cycladic islands in early 2025.
+
+If you're in or near an affected area, monitor the media and follow the advice of local authorities, including any evacuation orders and emergency notifications sent by 112 to your phone.
+
+**More information:**
 
 * [Earthquakes and tsunamis](https://www.smartraveller.gov.au/before-you-go/safety/earthquakes-tsunamis)
-* [Ministry of Climate Crisis and Civil Protection announcements](https://civilprotection.gov.gr/en/deltia-tupou)
-
-Information on national disaster incidents and severe weather is posted by local authorities and @112Greece on social media. Alert messages may be sent by local authorities to mobile numbers advising of critical incidents. Alerts are posted in Greek and sometimes in English. For updated information on natural disasters, see [civilprotection.gov.gr](https://civilprotection.gov.gr/).
+* [Ministry of Climate Crisis and Civil Protection announcements](https://civilprotection.gov.gr/en)
+* [Global Disaster Alert and Coordination System](https://gdacs.org/)
 
 #### Fires
 
@@ -204,12 +209,6 @@ Expect travel disruptions if you're due to travel to an area that might be affec
 #### Flooding
 
 Heavy rainfall can lead to flooding in some regions, with road closures and interruptions to power and other services. Seek shelter, monitor the media and follow the advice of local authorities.
-
-#### Earthquakes and volcanoes
-
-Greece is in an active seismic zone and experiences [earthquakes](/before-you-go/safety/earthquakes-tsunamis "Earthquakes and tsunamis") and [volcanic activity](/before-you-go/safety/natural-disasters "Staying safe when there's a natural disaster").
-
-Get updates from the [Global Disaster Alert and Coordination System](http://gdacs.org/).
 
 #### Natural disasters
 

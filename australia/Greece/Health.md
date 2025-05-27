@@ -80,7 +80,6 @@ Make sure your vaccinations are up-to-date before you travel.
 
 **More information:**
 
-* [Department of Health and Aged Care Measles Outbreaks 2019](https://www1.health.gov.au/internet/main/publishing.nsf/Content/ohp-measles-outbreaks-2019.htm)
 * [Department of Health and Aged Care Measles Immunisation Service](https://www.health.gov.au/health-topics/immunisation/immunisation-services/measles-immunisation-service)
 
 #### Insect-borne diseases

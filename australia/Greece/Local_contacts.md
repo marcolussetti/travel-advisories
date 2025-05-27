@@ -46,16 +46,12 @@ For consular help, contact:
 
 #### Australian Embassy, Athens
 
-5 Hatziyianni Mexi Street
-
+5 Hatziyianni Mexi Street  
 Athens 115 28, Greece
 
-Phone: (+30 210) 870 4000
-
-Website: [greece.embassy.gov.au](http://www.greece.embassy.gov.au/)
-
-Facebook: [Australia in Greece](https://www.facebook.com/AustraliaInGreece/)
-
+Phone: +30 210 870 4000  
+Website: [greece.embassy.gov.au](http://www.greece.embassy.gov.au/)  
+Facebook: [Australia in Greece](https://www.facebook.com/AustraliaInGreece/)  
 X: [@AusAmbAthens](https://twitter.com/AusAmbAthens/)
 
 Check the Embassy website for details about opening hours and any temporary closures.

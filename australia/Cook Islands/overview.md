@@ -2,7 +2,7 @@
 
 Latest update
 
-We continue to advise exercise normal safety precautions in the Cook Islands. Cyclone season is from November to April. Tropical storms and cyclones can occur (see 'Safety'). Authorities will issue you a 31-day visitor visa on arrival.
+Cook Island’s Ministry of Health has declared a dengue outbreak. Protect yourself against mosquito bites and use insect repellent (see 'Health').
 
 Advice Level summary
 
@@ -31,7 +31,7 @@ Full travel advice: [Safety](#safety)
 
 ### Health
 
-* Insect-borne illnesses, including dengue and chikungunya, are present in the Cook Islands. Ensure your accommodation is insect-proof. Use insect repellent.
+* Cook Island’s Ministry of Health has declared a dengue outbreak. Protect yourself against mosquito bites, use insect repellent and ensure your accommodation is insect-proof. Other Insect-borne illnesses, such as chikungunya, are present in the Cook Islands.
 * The Cook Islands has reported cases of Zika virus. If you're pregnant, discuss your travel plans with your doctor.
 * Waterborne, foodborne, parasitic, and other infectious diseases are common. Drink only boiled or bottled water. Avoid raw or undercooked food.
 * Some medications, such as those used to treat attention deficit hyperactivity disorder (ADHD) or strong pain medicines are illegal in the Cook Islands (for details see 'Full advice/Medications')

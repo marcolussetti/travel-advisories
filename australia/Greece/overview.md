@@ -22,7 +22,7 @@ Exercise normal safety precautions in Greece.
 
 ### Safety
 
-* A state of emergency is in place for the islands of Santorini, Ios, Amorgos and Anafi following a series of earthquakes in the Aegean Sea. While the strength and frequency of earthquakes have subsided, the continued state of emergency allows Greek authorities to quickly mobilise resources in case of a strong earthquake. If you're in the area, monitor the media and follow the advice of local authorities.
+* Greece is in an active seismic zone and experiences earthquakes and volcanic activity, including near major tourist destinations such as the islands of Santorini and Crete. If you're in the area, monitor the media and follow the advice of local authorities.
 * Petty crime and theft are serious issues in tourist areas and on buses and trains. Pickpocketing, bag snatching, and slashing luggage to steal belongings are common. Pay close attention to your belongings.
 * Terrorist attacks have occurred at or near popular tourist areas in central Athens. Always be alert and take official warnings seriously.
 * Strikes, protests and demonstrations take place regularly and can turn violent. Rioting can break out with little warning. Violent clashes have occurred between supporters of rival sporting teams. Avoid affected areas, monitor media and follow the advice of local authorities.
