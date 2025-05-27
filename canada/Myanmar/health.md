@@ -11,6 +11,26 @@ This section has information and advice about health risks you might face when t
 
 It's best to talk to a healthcare provider or visit a travel health clinic preferably 6 weeks before your trip to get personalized health advice. Even if your travel date is coming up soon, it's still worthwhile to make an appointment.
 
+### Outbreak Monitoring
+
+#### Post-earthquake health risks in Myanmar
+
+In the aftermath of the earthquakes that struck central Myanmar on 28 March 2025, poor sanitation, damaged infrastructure, and limited health services are increasing the risk of waterborne disease outbreaks, such as typhoid and cholera. The country is also entering its rainy (or monsoon) season, further increasing the risk of waterborne outbreaks, as well as those caused by mosquitos, such as dengue and malaria.
+
+If you must travel to Myanmar:
+
+* Practise safe food and water precautions
+* Clean your hands regularly
+* Follow tips to lower your risk of being bitten by disease-carrying insects
+
+**Learn more:**
+
+[Eat and drink safely abroad](https://travel.gc.ca/travelling/health-safety/food-water)  
+[Clean your hands to help reduce the spread of infectious diseases](https://www.canada.ca/en/public-health/services/healthy-living/hand-hygiene.html)  
+[Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)  
+[Myanmar - Natural disasters and climate](https://travel.gc.ca/destinations/myanmar#disasters)  
+[WHO warns of critical risk of disease outbreaks in quake-hit Myanmar](https://www.who.int/myanmar/news/feature-stories/detail/who-warns-of-critical-risk-of-disease-outbreaks-in-quake-hit-myanmar)
+
 ### Routine vaccines
 
 Make sure your routine vaccinations are up-to-date before you travel, no matter where you’re going.
@@ -91,7 +111,11 @@ Malaria
 
 [Antimalarial medication may be recommended](https://www.canada.ca/en/public-health/services/catmat/appendix-1-malaria-risk-recommended-chemoprophylaxis-geographic-area.html) depending on your itinerary and the time of year you are travelling. Consult a health care professional or visit a travel health clinic before travelling to discuss your options. It is recommended to do this 6 weeks before travel, however, it is still a good idea any time before leaving.   
    
-[Protect yourself from mosquito bites](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html) at all times: 
+[Protect yourself from mosquito bites](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html) at all times:   
+• Cover your skin and use an [approved](https://www.canada.ca/en/health-canada/services/about-pesticides/insect-repellents.html) insect repellent on uncovered skin.   
+• Exclude mosquitoes from your living area with screening and/or closed, well-sealed doors and windows.  
+• Use insecticide-treated bed nets if mosquitoes cannot be excluded from your living area.   
+• Wear permethrin-treated clothing. 
 
 Rabies 
 

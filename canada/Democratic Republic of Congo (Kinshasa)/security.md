@@ -4,25 +4,18 @@
 
 ### Security situation in the DRC
 
-The security situation is unstable and unpredictable across the country.
+The security situation remains unpredictable across the country.
 
-Fighting between government forces and rebel groups has intensified in the east of the DRC. Rebel groups have taken control of the towns of Goma and Bukavu, including the Kavumu airport.
-
-Other cities are also at risk, especially in the east of the country.
+Fighting is ongoing between government forces and rebel groups and has caused many casualties in eastern DRC, including civilians. Rebel groups control the towns of Goma and Bukavu, including Kavumu airport.
 
 Violent demonstrations and civil unrest have taken place in Kinshasa and others may occur without notice. They could target foreign nationals.
 
-There could be temporary roadblocks and road closures without warning, including on roads leading to airports.
+There could be temporary roadblocks and road closures without warning, including on roads leading to airports. Land and water border crossings may close without notice.
 
-**In the east of the DRC**:
+**In eastern DRC**:
 
 * there are currently no flights to or from Goma and Kavumu (Bukavu) international airports
 * border posts may close without notice
-
-**In Kinshasa**:
-
-* some airlines have suspended flights to and from Kinshasa
-* land and water border crossings may close without notice
 
 If you are in an affected area:
 

@@ -2,17 +2,6 @@
 
 ## Safety and security
 
-### Demonstrations outside Mexico City International Airport
-
-Demonstrations outside Mexico City International Airport are leading to disruptions at terminals 1 and 2. Flights may be delayed or cancelled.
-
-If you have a flight from or to Mexico City:
-
-* contact your airline or tour operator to find out if the situation will disrupt your travel plan
-* allow extra time to reach the airport
-* monitor local news to stay informed on the evolving situation
-* follow the instructions of local authorities
-
 ### Crime
 
 ### Violent clashes in Culiacán, Mazatlán and surrounding areas
