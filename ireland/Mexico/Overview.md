@@ -4,10 +4,6 @@
 
 High Degree of Caution
 
-### **Travel Alert**
-
-Protests are ongoing in Mexico City and have blocked access to both terminals of Mexico City’s main airport (AICM) for a prolonged period on 22 and 23 May. Media reports indicate that protests may continue over the weekend of 24 and 25 May. There may be flight disruptions or cancellations. Transport links to and from the airport may face significant disruption and reaching the airport will take longer than usual. If you have a flight from or to Mexico City you should allow extra time to reach the airport, monitor local media and stay in touch with your airline or tour operator.
-
 ### **General Travel Advice**
 
 Irish citizens do not require a visa to enter Mexico.
