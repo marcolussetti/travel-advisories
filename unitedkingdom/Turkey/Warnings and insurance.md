@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   21 May 2025
+:   28 May 2025
 
 Updated:
-:   20 May 2025
+:   27 May 2025
 
 Latest update:
-:   Addition of information about the risks of paragliding, or being near paragliding landing zones ('Extreme sports' section of ‘Safety and security’ page).
+:   Updated information about taxi safety ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/6703bc3c3b919067bb482cfb/FCDO__TA__043_-_Turkey_Travel_Advice_Ed4__WEB_.jpg)
 

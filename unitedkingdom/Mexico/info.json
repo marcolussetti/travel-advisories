@@ -1,11 +1,11 @@
 {
     "name": "Mexico",
-    "update_reason": "Information about protests blocking access to the main airport in Mexico City; there may be flight disruptions or cancellations.  ('Warnings and insurance')",
+    "update_reason": "Removal of information about protests blocking access to the main airport in Mexico City ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Mexico/Warnings and insurance.md",
-            "update_date": "2025-05-23T22:37:28+01:00"
+            "update_date": "2025-05-27T11:59:44+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Mexico/Getting help.md"
         }
     ],
-    "update_date": "2025-05-23T22:37:28+01:00"
+    "update_date": "2025-05-27T11:59:44+01:00"
 }

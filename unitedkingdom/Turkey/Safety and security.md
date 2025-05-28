@@ -87,7 +87,7 @@ If you experience sexual harassment or assault, or if you feel threatened or uns
 
 ### Taxi safety
 
-Accepting lifts from drivers of unofficial taxis is highly risky. Find a registered taxi and note the registration number before entering. App-based taxis are also widely available.
+Accepting lifts from drivers of unofficial taxis is highly risky. Find a registered taxi, note the registration number before entering and ensure the fare is metered. App-based taxis and pre-booked taxis are also widely available.
 
 ## Laws and cultural differences
 
