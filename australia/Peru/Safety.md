@@ -2,8 +2,6 @@
 
 #### Crime
 
-#### Violent crime
-
 Violent crime is common in Peru, including in the cities of:
 
 * Lima
@@ -85,11 +83,9 @@ If you decide to take part in ayahuasca tourism:
 * research potential ayahuasca tour operators before signing up
 * avoid participating in ayahuasca rituals without a trusted friend present
 
-#### Border areas
+The Peruvian Ministry of Health has produced [a guide (in Spanish)](https://www.gob.pe/institucion/minsa/noticias/1006329-minsa-ins-brinda-guia-para-el-uso-seguro-e-informado-de-la-ayahuasca) on the safe and informed use of ayahuasca.
 
-Travel to the region within 20km of the border with Colombia is dangerous.
-
-Armed guerrilla forces from Colombia sometimes enter Peru's remote areas.
+#### Border areas and VRAEM
 
 Drug traffickers operate in:
 
@@ -99,6 +95,8 @@ Drug traffickers operate in:
 Take additional precautions in these areas.
 
 Reconsider your need to travel to the Valley of the Apurimac, Ene and Mantaro rivers (VRAEM). Cocaine production and trafficking occurs in the VRAEM. Travel is particularly dangerous in areas where there is coca cultivation and processing.
+
+Reconsider your need to travel within 20km of the border with Colombia, and areas bordering Ecuador in the regions of Loreto, Amazonas and Cajamarca. Armed guerrilla forces from Colombia sometimes enter Peru’s remote areas.
 
 #### Cyber security
 
@@ -131,26 +129,45 @@ Methanol can be used in unregulated alcohol production to lower costs. Methanol
 
 Kidnapping occurs across the world with political, ideological, and criminal motives. Foreigners, including Australians, have been kidnapped overseas whilst travelling. Kidnaps can happen anywhere, anytime, including in destinations that are typically at lower risk.
 
-Kidnapping in Peru occurs and is primarily perpetrated by criminal groups. Express kidnapping is relatively common, particularly in urban areas. A large proportion of the incidents take place in Lima. Tourists travelling alone are particularly at risk.
+Kidnapping occurs in Peru and is primarily perpetrated by criminal groups. Tourists travelling alone are particularly at risk, including of ‘express kidnapping’, where victims are abducted for a short period and forced to withdraw money from ATMs for their release. A large proportion of the incidents take place in Lima. Criminal gangs have also targeted mining operations for kidnappings in La Libertad in north-western Peru in 2025. 
 
 If, despite our advice, you travel to an area with a high risk of kidnapping, our ability to provide consular assistance in these destinations will be limited.
 
-To reduce the risk of kidnapping:
+You are responsible for your own safety. To reduce the risk of kidnapping:
 
-* always be alert to your personal security and surroundings
-* get professional security advice for travel in locations with a heightened kidnap risk
+* always be alert to your personal security and surroundings – avoid distractions. Be prepared to stop or take evasive action if you sense danger
+
+* get professional security advice for travel in locations with a heightened kidnap risk . It is essential to have a contingency plan
+
 * check your accommodation has appropriate security measures
-* avoid isolated locations, particularly when travelling alone
-* notify family or friends of planned travel and share your location
-* avoid talking about your money or business affairs
-* use ATMs in public places and during daylight hours
-* avoid giving personal details to strangers online or over the phone
 
-The Australian Government's longstanding policy is that it doesn't make payments or concessions to kidnappers. Ransom payments to kidnappers have funded further terrorist attacks and criminal activity. Paying a ransom to terrorist groups will likely break Australian counter-terrorism financing laws.
+* vary your movements so you don’t set predictable patterns
+
+* keep a low profile – including online. Drawing attention to yourself in high-risk areas may signal to criminals that you have something worth taking
+
+* avoid isolated locations, particularly when travelling alone . There is safety in numbers, and you should try to travel with someone else, especially at night
+
+* notify family or friends of planned travel; share your location and emergency contacts that they can rely on if something happens
+
+* avoid talking about your money or business affairs
+
+* use ATMs in public places and during daylight hours
+
+* avoid giving personal details to strangers online or over the phone . Criminals have been known to search social media for victims
+
+* If you are confronted by armed criminals, it is best to surrender and cooperate – resistance tends to make the situation worse
+
+You can find more information on how to reduce your risk of kidnapping here: [Kidnapping](https://www.smartraveller.gov.au/before-you-go/safety/kidnapping)
+
+The Australian Government's longstanding policy is that it doesn't make payments or concessions to kidnappers. Ransom payments to kidnappers have funded further terrorist attacks and criminal activity. Ransom payments to terrorist groups are likely to contravene Australian counter-terrorism financing laws.
 
 **More information:**
 
-* [Kidnapping](/before-you-go/safety/kidnapping "Reducing the risk of kidnapping")
+* [Kidnapping](https://www.smartraveller.gov.au/before-you-go/safety/kidnapping)
+
+* [Scams that affect travellers](https://www.smartraveller.gov.au/before-you-go/safety/scams)
+
+* [Reducing the risk of piracy](https://www.smartraveller.gov.au/before-you-go/safety/piracy)
 
 #### Civil unrest and political tension
 
@@ -177,7 +194,7 @@ If you're near a demonstration, leave if it's safe to do so. It's illegal for fo
 
 #### Terrorism
 
-Members of a local terrorist group may still be in isolated areas throughout Peru, especially in the Central and Southern Highlands, this includes the Valley of the Apurimac, Ene and Mantaro rivers (VRAEM) where drug traffickers operate.
+Members of a local terrorist group may still be in isolated areas throughout Peru, especially in the Central and Southern Highlands. This includes the Valley of the Apurimac, Ene and Mantaro rivers (VRAEM) where drug traffickers operate.
 
 Take care if you travel to:
 
@@ -214,9 +231,9 @@ Australians have died from injuries sustained in [adventure travel](/before-you
 
 Ziplining, rafting, diving, sand-dune buggy-riding and other adventure tour operators are not always regulated and don't always follow safety and maintenance standards.
 
-The Inca Trail closes in February each year for maintenance. Some companies will still operate.
+The Inca Trail closes temporarily mostly in February, every year for maintenance. Some companies will still operate.
 
-Heavy rainfall can make parts of the trail impassable and dangerous.
+Heavy rainfall especially during the rainy season (November to May) can make parts of the trail impassable and dangerous.
 
 If you plan to do an adventure activity:
 

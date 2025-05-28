@@ -39,7 +39,7 @@ It's illegal to photograph military or police sites and personnel.
 
 Indecent behaviour, such as not showing respect at cultural, historical or sacred sites, is against the law. Australians have been detained for this.
 
-It's illegal to export handicrafts or goods of cultural or historical significance. If you want to buy or export copies of these, you'll need permission from Peru's National Institute for Culture. Call +51 1 321 5560.
+It's illegal to export handicrafts or goods of cultural or historical significance. If you want to buy or export copies of these, you'll need permission from [the Ministry of Culture](https://www.gob.pe/cultura).
 
 It's also illegal to export antiques and artefacts from pre-colonial Peru. If you want to buy and export a reproduction, use a reputable dealer with the right documents.
 

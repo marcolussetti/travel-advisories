@@ -44,9 +44,13 @@ Terrorism is a threat worldwide.
 
 The political situation within Saudi Arabia is currently stable. However, the security situation in the region remains unpredictable and could deteriorate with little or no warning.
 
-Military tensions remain in neighbouring Yemen. Missiles, explosive-laden drones and explosive-laden boats have targeted civilian infrastructure in Saudi Arabia, including ports and airports. Most attacks have been intercepted by the Saudi military.
+Military tensions remain in neighbouring Yemen.
 
-Most of these attacks occur close to the Yemen border, especially in the provinces of Jazan, Najran and Aseer (including Abha). Urban centres in the Eastern Province have been targeted, in addition to oil infrastructure in that province. The capital Riyadh, and cities on the Red Sea, such as Jeddah and Yanbu, have also been targeted in the past. Other areas may be targeted from time to time.
+Missile and drone attacks originating from Yemen are currently targeting Israel and may fail in flight over Saudi Arabia. Some are intercepted. Follow the advice of local authorities.
+
+Missiles, explosive-laden drones and explosive-laden boats have targeted civilian infrastructure in Saudi Arabia, including ports and airports. Most attacks have been intercepted by the Saudi military.
+
+Some of these attacks occur close to the Yemen border, especially in the provinces of Jazan, Najran and Aseer (including Abha). Urban centres in the Eastern Province have been targeted, in addition to oil infrastructure in that province. The capital Riyadh, and cities on the Red Sea, such as Jeddah and Yanbu, have also been targeted in the past. Other areas may be targeted from time to time.
 
 Targets have included:
 

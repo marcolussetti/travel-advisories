@@ -2,9 +2,9 @@
 
 Latest update
 
-We continue to advise exercise a high degree of caution in Peru overall due to the threat of violent crime. Higher levels apply in some areas.   
+We've reviewed our advice for Peru and continue to advise exercise a high degree of caution in Peru overall due to the threat of violent crime. Higher levels apply in some areas.   
   
-Peru is currently experiencing a major dengue outbreak. Consult your doctor before travel for advice on prevention and get medical advice if you become unwell (see 'Health').
+Yellow fever is a risk in Peru. Get vaccinated before you travel. You will need a yellow fever vaccination certificate to enter some countries after visiting Peru (see 'Health').
 
 Advice Level summary
 
@@ -46,18 +46,20 @@ See [Safety](#safety)
 * Political protests, demonstrations and strikes are common in Peru, particularly in the historic centre of Lima. Past demonstrations have turned violent and disrupted public transport services, including trains to and from Machu Picchu. Avoid protests, monitor local media for updates and follow the advice of local authorities.
 * Robberies occur frequently on buses. Never place valuable personal belongings in overhead racks or under your seats, and ensure your possessions, including your passport and other travel documents, are secure at all times. Use only reputable bus companies.
 * Violent crime is common, including in Lima, Cusco and Arequipa. Avoid going out alone, especially at night. Petty crime is common in public areas, hotels and restaurants. Thieves are often well-dressed. Keep your belongings close and valuables out of sight. Street theft of mobile phones has increased. Avoid using your phone at the curbside, as motorbike riders may snatch it.
+* Ayahuasca tourism is a growing industry. Serious assaults, robberies and deaths have occurred. Thoroughly research Ayahuasca tour operators before you book.
 * Be alert to the potential risks around drink spiking and methanol poisoning through consuming alcoholic drinks. See our advice on [partying safely while overseas](/before-you-go/safety/partying "Partying safely").
 * Travellers using unlicensed taxis have been victims of robbery, assault and rape. Don't hail taxis from the street. Use a phone dispatch service or taxi service app to book a licensed taxi. Criminals target cars stopped at traffic lights. Keep your doors and windows locked, even when moving.
-* Ayahuasca tourism is a growing industry. Serious assaults, robberies and deaths have occurred. Thoroughly research Ayahuasca tour operators before you book.
 * Members of a local terrorist group may still be active in remote areas, particularly the Southern Highlands. Take care when travelling outside of populated regions.
+* Travellers in Peru can be victims of ‘express kidnappings’ where victims are forced to withdraw money from ATMs. Criminal gangs have also targeted mining operations for kidnappings.
 
 Full travel advice: [Safety](#safety)
 
 ### Health
 
 * Many parts of Peru are at high altitudes. You can develop altitude sickness above 2500m. If you plan to travel to these areas, consult your doctor before leaving. Ensure your travel insurance covers emergency evacuation from altitude and related medical costs.
-* Peru is currently experiencing a major dengue outbreak. To protect yourself from mosquito-borne diseases, make sure your accommodation is insect-proof, use insect repellent and wear long, loose, light-coloured clothing. Consult your doctor before travel for advice on prevention and get advice if you become ill.
-* Yellow fever is a risk in Peru. Get vaccinated before you travel. You will need a yellow fever vaccination certificate to enter some countries after visiting Peru.  Zika virus is common in jungle regions. If you're pregnant, discuss your travel plans with your doctor before you leave.
+* Yellow fever is a risk in Peru. Get vaccinated before you travel. You will need a yellow fever vaccination certificate to enter some countries after visiting Peru.
+* Peru is currently experiencing a dengue outbreak. To protect yourself from mosquito-borne diseases, make sure your accommodation is insect-proof, use insect repellent and wear long, loose, light-coloured clothing. Consult your doctor before travel for advice on prevention and get advice if you become ill.
+* Zika virus is common in jungle regions. If you're pregnant, discuss your travel plans with your doctor before you leave.
 * Malaria is also a risk in Peru. Consult your doctor about how to prevent malaria.
 * Other infectious diseases include cholera, hepatitis, tuberculosis, typhoid and rabies. Drink boiled or bottled water. Avoid raw or undercooked food. If an animal bites or scratches you, get immediate medical help.
 
@@ -79,7 +81,7 @@ Full travel advice: [Local laws](#local-laws)
 * Tourists don't need a visa. You can get a permit to stay for up to 90 days when you arrive. If you overstay your permit, you'll have to pay a fine before leaving the country. Entry and exit conditions can change at short notice. You should contact the nearest embassy or consulate of Peru for the latest details.
 * Follow the advice of local authorities, as restrictions may change at short notice.
 * Emergency passports can be used to enter, transit or depart Peru, as long as it has at least 6 months validity.
-* Ensure you meet all [current entry requirements](https://ecuador) when entering Ecuador.
+* Ensure you meet all [current entry requirements](https://www.smartraveller.gov.au/destinations/americas/ecuador) [when entering Ecuador](https://www.smartraveller.gov.au/destinations/americas/ecuador).
 
 Full travel advice: [Travel](#travel)
 

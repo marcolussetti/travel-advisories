@@ -2,7 +2,7 @@
 
 Latest update
 
-We've reviewed our advice for Venezuela and continue to advise do not travel to Venezuela. The political and economic situation remains unstable. There's an increased risk of demonstrations and civil unrest following recent political developments. Avoid protests and large gatherings as they may turn violent. Demonstrations may disrupt travel plans, affect flights, traffic, and public transportation. Monitor local media and follow the instructions of local authorities. There are high levels of violent crime and an ongoing risk of shortages of food, water, medicine and petrol. Foreigners in Venezuela, including dual nationals are at a high risk of arbitrary detention or arrest. Foreign and dual nationals have been detained without due process of law (see 'Safety').
+We continue to advise do not travel to Venezuela. The political and economic situation remains unstable. There's an increased risk of demonstrations and civil unrest following recent political developments. Avoid protests and large gatherings as they may turn violent. Demonstrations may disrupt travel plans, affect flights, traffic, and public transportation. Monitor local media and follow the instructions of local authorities. There are high levels of violent crime and an ongoing risk of shortages of food, water, medicine and petrol. Foreigners in Venezuela, including dual nationals are at a high risk of arbitrary detention or arrest. Foreign and dual nationals have been detained without due process of law (see 'Safety').
 
 Advice Level summary
 

@@ -66,7 +66,7 @@ You're more at risk of altitude sickness if you:
 
 Many areas of Peru are above 2500m, including:
 
-* Cuzco
+* Cusco
 * Colca Canyon
 * Puno and Lake Titicaca
 
@@ -76,9 +76,9 @@ Check if your insurance covers emergency evacuation from altitude and related me
 
 #### Insect-borne diseases
 
-Peru is currently experiencing a major [dengue](https://www.health.gov.au/diseases/dengue-virus-infection) outbreak. Monitor local media for up-to-date advice on risk levels in particular areas.
-
 [Yellow fever](https://www.health.gov.au/diseases/yellow-fever) is widespread in Peru. Yellow fever is a potentially fatal virus spread by mosquitoes. It's prevented by vaccination. Get vaccinated before you travel.
+
+Peru is currently experiencing a [dengue](https://www.health.gov.au/diseases/dengue-virus-infection) outbreak. Monitor local media for up-to-date advice on risk levels in particular areas.
 
 [Zika](https://www.health.gov.au/diseases/flavivirus-infection-including-zika-virus?utm_source=health.gov.au&utm_medium=callout-auto-custom&utm_campaign=digital_transformation) and [oropouche](https://www.cdc.gov/oropouche/about/index.html) are a risk. If you're pregnant, the Australian Department of Health recommends that you:
 

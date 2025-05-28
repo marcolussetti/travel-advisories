@@ -48,7 +48,7 @@ If you’re travelling via Chile, ensure you meet all current entry or transit r
 
 #### Travel to Ecuador
 
-If you're entering Ecuador via the land border with Peru, ensure you meet all current entry requirements.
+If you're entering Ecuador, ensure you meet all current entry requirements.
 
 **More information:**
 
@@ -56,7 +56,7 @@ If you're entering Ecuador via the land border with Peru, ensure you meet all cu
 
 #### Yellow fever vaccination
 
-You may need a valid yellow fever vaccination certificate to enter Peru. Some airlines may want to see one when you leave. You will need a yellow fever vaccination certificate to enter some countries after visiting Peru. Check entry requirements before travelling.
+You may need a valid yellow fever vaccination certificate to enter Peru. Some airlines may want to see one when you leave. You will need a yellow fever vaccination certificate to enter some countries after visiting Peru. [Check entry requirements before travelling](https://www.smartraveller.gov.au/destinations).
 
 If you've visited Peru in the previous 6 days, you'll need a valid certificate to enter Australia.
 
@@ -88,7 +88,7 @@ If your passport is lost or stolen, tell the Australian Government as soon as po
 
 * In Australia, contact the [Australian Passport Information Service](https://www.passports.gov.au/contact-us).
 * If you're overseas, contact the nearest [Australian embassy or consulate](http://dfat.gov.au/about-us/our-locations/missions/Pages/our-embassies-and-consulates-overseas.aspx).
-* After contacting the Australian Embassy in Lima, visit a Peruvian Immigration Office or go to Lima International Airport to get an entry stamp for your new passport. Check [Superintendencia Nacional de Migraciones (Spanish)](https://www.gob.pe/migraciones) to find the nearest office.
+* After contacting the Australian Embassy in Lima, visit a Peruvian Immigration Office to get a new entry stamp on your new passport. Check [Superintendencia Nacional de Migraciones (Spanish)](https://www.gob.pe/migraciones) to find the nearest office. You can also obtain the stamp at the Lima International Airport.
 
 If you leave Peru with a replacement passport different from the passport you entered Peru (e.g., an emergency passport), you'll need to show a Police report for the loss of the previous passport to the Immigration officers at the moment of departure.
 
@@ -121,8 +121,12 @@ Landmines are being removed but remain a threat in some regions, including:
 * Loreto
 * Amazonas (Cordillera del Condor)
 * Cajamarca
+* Tacna
+* Tumbes
 
-Cross the Peru-Ecuador border at official checkpoints.
+Cross land borders at official checkpoints only.
+
+Cross borders at official checkpoints only.
 
 #### Driving permit
 
@@ -163,7 +167,7 @@ Travellers using unlicensed taxis have been victims of robbery, assault and rape
 
 To stay safe when you arrive in Peru, either:
 
-* arrange a taxi at the counter in Lima's international airport
+* [arrange a taxi at the counter in Lima's international airport](•	arrange a taxi at the counter in Lima&apos;s international airport)
 * use your hotel transfer service
 * book a reputable transfer service
 
@@ -173,17 +177,11 @@ To protect yourself if you're travelling by taxi:
 * book through an app-based service
 * ask the staff at hotels, hostels, restaurants or places of entertainment to book a licensed taxi
 
-**More information:**
-
-* [Lima Airport Partner website](https://www.lima-airport.com/eng/for-passengers/transportation-from-to-the-airport/licensed-taxis)
-
 #### Public transport
 
 Intercity buses can be involved in road accidents. They can also be targeted by criminals.
 
 Use a reputable transport or bus company to reduce risks.
-
-Check the safest intercity bus companies with the [Peruvian Ministry of Transportation (Spanish)](https://www.gob.pe/mtc).
 
 **More information:**
 
