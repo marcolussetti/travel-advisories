@@ -42,6 +42,8 @@ Always be aware of your surroundings when in public places.
 
 Demonstrations occur periodically. Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation.
 
+If you participate in illegal or banned demonstrations, you can be identified by facial recognition technology and face large fines.
+
 * Avoid areas where demonstrations and large gatherings are taking place
 * Follow the instructions of local authorities
 * Monitor local media for information on ongoing demonstrations

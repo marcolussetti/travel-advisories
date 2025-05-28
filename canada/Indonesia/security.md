@@ -195,6 +195,12 @@ If you choose to travel by ferry:
 * don’t board vessels that appear overloaded or unseaworthy
 * verify the safety standards of ferries with your tour operator
 
+### Piracy
+
+Pirate attacks and armed robbery against ships occur in coastal waters around Indonesia, particularly in the Strait of Malacca between Riau province and Singapore, and the waters north of Sulawesi and Kalimantan. Mariners should take appropriate precautions. Report all incidents to local authorities.
+
+[Live piracy report](https://icc-ccs.org/map/) – International Maritime Bureau
+
 ### Air travel
 
 We do not make assessments on the compliance of foreign domestic airlines with international safety standards.

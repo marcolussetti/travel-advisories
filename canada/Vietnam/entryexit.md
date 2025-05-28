@@ -44,6 +44,18 @@ Tourist visa: required
  Student visa: required  
  Work visa: required
 
+#### Visa verification
+
+Make sure your application details match your passport exactly—this includes your full name, date of birth, and the order in which they appear.
+
+Once your visa is issued, check it carefully to confirm that everything is accurate and exactly matches your passport information before you travel.
+
+Errors or missing information can result in:
+
+* additional fees
+* denied boarding
+* refused entry upon arrival
+
 #### E-visa authorization
 
 If you have a valid Canadian passport, you may be eligible to apply online for an e-visa. This can be a single-entry or multiple-entry electronic tourist visa, valid for a maximum of 90 days. It allows you to enter Vietnam via the port of entry indicated in the visa approval notice only. Some restrictions apply.
