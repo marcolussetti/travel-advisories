@@ -16,9 +16,9 @@ Terrorist attacks in Venezuela cannot be ruled out.
 
 The UK does not accept the legitimacy of the current administration put in place by Nicolás Maduro.
 
-Regional and legislative elections are due to take place on Sunday 25 May. There may be an increased security presence around this time.  You should monitor developments closely and keep up to date with this travel advice.
+The situation in Venezuela is currently tense, monitor developments closely and keep up to date with this travel advice.
 
-The situation in Venezuela is currently tense, There is a risk of demonstrations and protests.
+There is currently an increased risk of demonstrations and protests. These may become violent and could be dispersed by the use of force, including with the use of rubber bullets and tear gas. Avoid political rallies, demonstrations and crowds, and do not cross security-force lines or barricades.
 
 These may become violent and could be dispersed by the use of force, including with the use of rubber bullets and tear gas. Avoid political rallies, demonstrations and crowds, and do not cross security-force lines or barricades.
 
@@ -106,7 +106,7 @@ If you’re in a traffic accident, you must stay at the scene until the traffic 
 
 ### Air travel
 
-Flights between Venezuela and Panama, the Dominican Republic and Peru have been suspended. Flights between Venezuela and Colombia have been temporarily suspended from 19 May 2025 onwards. Contact your airline or travel agent/tour operator if your flight is affected.
+Flights between Venezuela, the Dominican Republic and Peru have been suspended. Contact your airline or travel agent/tour operator if your flight is affected.
 
 The [UK Air Safety List (ASL)](https://www.gov.uk/guidance/uk-air-safety-list) lists all known airlines in Venezuela that do not meet international safety standards and are banned from operating commercial air services to and from the UK. Check the ASL when considering which airlines to fly with. The list is maintained by the Department for Transport, based on advice from the [UK Civil Aviation Authority](https://www.caa.co.uk/Commercial-Industry/Airlines/Licensing/Requirements-and-guidance/Third-Country-Operator-Certificates). The [UK Civil Aviation Authority](https://www.gov.uk/guidance/uk-air-safety-list).
 

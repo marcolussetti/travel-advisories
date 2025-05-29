@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   21 May 2025
+:   29 May 2025
 
 Updated:
-:   20 May 2025
+:   28 May 2025
 
 Latest update:
-:   Addition of information on legislative elections to take place on Sunday 25 May and on the temporary suspension of flights between Venezuela and Colombia from 19 May 2025 onwards (‘Safety and security’ page).
+:   Removal of information on legislative elections on 25 May and temporary suspension of flights between Venezuela and Colombia (‘Safety and security’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/5f4e7de38fa8f57fb9bf665b/FCDO__TA__045_-_Venezuela_Travel_Advice_Ed1__WEB_.jpg)
 

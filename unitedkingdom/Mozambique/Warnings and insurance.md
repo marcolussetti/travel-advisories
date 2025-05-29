@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   10 May 2025
+:   29 May 2025
 
 Updated:
-:   9 May 2025
+:   28 May 2025
 
 Latest update:
-:   New information on registering for an Electronic Travel Authorisation (ETA) before entry into Mozambique (‘Entry requirements’ page).
+:   New information on gunfire at RENAMO's headquarters in Maputo's Central Business District (‘Warnings and Insurance’ page.)
 
 ![](https://assets.publishing.service.gov.uk/media/681395d5b0ef2c9850525463/FCDO__TA__028_-_Mozambique_Travel_Advice_Ed10__WEB_.jpg)
 
@@ -44,6 +44,10 @@ FCDO advises against all but essential travel to the districts of Memba and Er�
 FCDO advises against all but essential travel to the districts of Mecula and Marrupo in Niassa Province, due to attacks by groups with links to Islamist extremism.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/mozambique/regional-risks).
+
+## Gunfire in Maputo’s Central Business District
+
+There have been reports of gunfire at RENAMO’s headquarters in Maputo’s Central Business District. Be vigilant in this part of Maputo. Monitor local media and follow the advice of local authorities.
 
 ## Travel insurance
 
