@@ -1,6 +1,6 @@
 ## Additional information
 
-### **‘Faith healer’**
+### **‘Faith Healer’**
 
 The Embassy is aware of a number of cases of Irish people travelling to see and be treated for illness by a well-known 'faith healer' in the state of Goias in central Brazil. Some became ill following this treatment and were in need of medical attention. The Embassy strongly cautions that serious consideration be given before embarking on such a trip or allowing any, other than a medical professional, to perform a medical procedure. The public healthcare system in Brazil, especially in the more remote areas, is not of the highest quality.
 

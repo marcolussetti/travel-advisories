@@ -3,20 +3,24 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Brazil/Overview.md"
+            "title": "Travel to Brazil overview",
+            "file": "ireland/Brazil/Travel to Brazil overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Brazil/Safety and security.md"
         },
         {
+            "title": "Health",
+            "file": "ireland/Brazil/Health.md"
+        },
+        {
             "title": "Local laws and customs",
             "file": "ireland/Brazil/Local laws and customs.md"
         },
         {
-            "title": "Immigration/Health",
-            "file": "ireland/Brazil/Immigration_Health.md"
+            "title": "Entry Requirements",
+            "file": "ireland/Brazil/Entry Requirements.md"
         },
         {
             "title": "Additional information",
@@ -27,5 +31,5 @@
             "file": "ireland/Brazil/Embassy contact.md"
         }
     ],
-    "update_date": "2025-04-30T00:00:00"
+    "update_date": "2025-05-28T00:00:00"
 }

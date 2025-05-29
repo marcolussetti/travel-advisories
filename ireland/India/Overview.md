@@ -14,13 +14,15 @@ The Department of Foreign Affairs continues to advise against all travel to Jamm
 
 ### **General Travel Advice**
 
-Irish citizens require a visa to travel to India. If you arrive in India without a visa, you will be refused entry. If you over-stay your visa, you will be fined and may be prosecuted or detained and later deported. If you lose your passport, you will have to obtain an exit visa before you can leave India.
+Irish citizens require a visa to travel to India unless you are an Overseas Citizen of India (OCI) cardholder. If you arrive in India without a visa, you will be refused entry and will likely be detained in police custody and deported. If you over-stay your visa, you will be fined and may be prosecuted or detained and later deported. If you over-stay your visa or if you lose your passport, you will have to obtain an [exit visa](https://indianfrro.gov.in/eservices/home.jsp) from the Indian government before you can leave India. This must be done [online](https://indianfrro.gov.in/eservices/home.jsp) and can take a considerable amount of time even for straightforward applications. Make sure to factor this into your timeframe to leave India if you are booking flights.
+
+You will need your passport with a valid visa to get accommodation in India. Visitors who have overstayed their Indian visa have found it difficult to find accommodation.
 
 If you are transiting through India, you may need a transit visa if you must collect your baggage to transfer it to another airline or if you are travelling on multiple bookings. Baggage collection areas in Indian airports are normally after clearing immigration.
 
 If you are unsure of what the entry requirements for India are, including visa details, whether you need a transit visa and other immigration information, you should contact the [**Embassy of India in Dublin**](http://www.indianembassydublin.in/), or consult the [**Bureau of Immigration**](https://boi.gov.in/) or the [**Foreigners Regional Registration Office (FRRO)**](https://indianfrro.gov.in/eservices/home.jsp) websites.
 
-A valid passport is required for travel to India. Irish passports should have a minimum validity of six months. Passport cards cannot be used.
+A valid passport is required for travel to India. Irish passports should have a minimum validity of six months and have at least two blank pages. Passport cards cannot be used.
 
 Visitors to India are advised to follow the guidance of national and local authorities and stay fully informed of what is going on by monitoring local news and social media.
 

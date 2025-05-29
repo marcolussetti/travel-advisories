@@ -3,12 +3,16 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Guyana/Overview.md"
+            "title": "Travel to Guyana overview",
+            "file": "ireland/Guyana/Travel to Guyana overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Guyana/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Guyana/Health.md"
         },
         {
             "title": "Local laws and customs",
@@ -19,13 +23,13 @@
             "file": "ireland/Guyana/Natural disasters and climate.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Guyana/Additional information.md"
+            "title": "Entry Requirements",
+            "file": "ireland/Guyana/Entry Requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Guyana/Embassy contact.md"
         }
     ],
-    "update_date": "2025-01-21T00:00:00"
+    "update_date": "2025-05-28T00:00:00"
 }

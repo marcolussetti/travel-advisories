@@ -13,13 +13,13 @@ If visitors want to drive:
 * Keep vehicle doors locked and windows closed when driving and bags out of sight to prevent opportunistic bag-snatching if stopped at traffic lights.
 * If visitors find themselves in a car accident, the emergency number for the fire department/ambulance is 193 and 190 for the police.
 
-### **Vehicle hire**
+### **Vehicle Hire**
 
 If hiring a vehicle, do not hand over your passport as a form of security. If allowing your passport to be photocopied, keep it in your sight at all times.
 
 Check that you have adequate insurance and get the agent to explain the small print of the vehicle hire contract (particularly any waiver that will come into effect if the vehicle is damaged).
 
-### **Other travel**
+### **Other Travel**
 
 For long distance bus travel, use a reputable company. If in any doubt or in any way unsure about the safety or security, don't board. The same is true for any road travel, including taxis and taxi drivers. Strikes affecting transport and security may take place at short notice across Brazil. These are often short but may cause disruption. We suggest visitors monitor local media for updates and advice.
 

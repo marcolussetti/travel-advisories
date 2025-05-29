@@ -3,12 +3,16 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Peru/Overview.md"
+            "title": "Travel to Peru overview",
+            "file": "ireland/Peru/Travel to Peru overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Peru/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Peru/Health.md"
         },
         {
             "title": "Local laws and customs",
@@ -19,17 +23,13 @@
             "file": "ireland/Peru/Natural disasters and climate.md"
         },
         {
-            "title": "Health",
-            "file": "ireland/Peru/Health.md"
-        },
-        {
-            "title": "Additional information",
-            "file": "ireland/Peru/Additional information.md"
+            "title": "Entry Requirements",
+            "file": "ireland/Peru/Entry Requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Peru/Embassy contact.md"
         }
     ],
-    "update_date": "2025-04-29T00:00:00"
+    "update_date": "2025-05-28T00:00:00"
 }

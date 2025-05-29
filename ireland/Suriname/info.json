@@ -3,12 +3,16 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Suriname/Overview.md"
+            "title": "Travel to Suriname overview",
+            "file": "ireland/Suriname/Travel to Suriname overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Suriname/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Suriname/Health.md"
         },
         {
             "title": "Local laws and customs",
@@ -19,13 +23,13 @@
             "file": "ireland/Suriname/Natural disasters and climate.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Suriname/Additional information.md"
+            "title": "Entry Requirements",
+            "file": "ireland/Suriname/Entry Requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Suriname/Embassy contact.md"
         }
     ],
-    "update_date": "2025-01-21T00:00:00"
+    "update_date": "2025-05-28T00:00:00"
 }
