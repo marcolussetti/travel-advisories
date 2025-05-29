@@ -4,9 +4,9 @@
 
 PASSPORT VALIDITY:
 
-• Passport must be valid for 30 days after your planned exit from South Africa.
+Passport must be valid for 30 days after your planned exit from South Africa.
 
-• 2 consecutive empty visa pages per entry (not including endorsement pages).
+2 consecutive empty visa pages per entry (not including endorsement pages).
 
 BLANK PASSPORT PAGES:
 

@@ -2,7 +2,7 @@
 
 [#### Embassies and Consulates](javascript:void(0); "Embassies and Consulates")
 
-[**U.S. Embassy**](https://cu.usembassy.gov/embassy/havana/) **Calzada between L and M Streets,  
+[**U.S. Embassy**](https://cu.usembassy.gov/) **Calzada between L and M Streets,  
 Vedado,  
 Havana, Cuba**  
 **Telephone:** + (53) (7) 839-4100 (Monday- Friday 0830-1630, except holidays)  

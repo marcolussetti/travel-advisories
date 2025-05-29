@@ -4,12 +4,12 @@
 
 **Health resources**
 
-* [Spain Traveler Information](https://wwwnc.cdc.gov/travel/destinations/list) (source: CDC)
-* [Health Traveler Information](https://wwwnc.cdc.gov/travel/destinations/traveler/none/spain) (source: CDC)
-* [Medical Tourism information](https://wwwnc.cdc.gov/travel/yellowbook/2024/health-care-abroad/medical-tourism) (source: CDC)
+* [Spain Traveler Information](https://wwwnc.cdc.gov/travel/destinations/list)
+* [Health Traveler Information](https://wwwnc.cdc.gov/travel/destinations/traveler/none/spain)
+* [Medical Tourism information](https://wwwnc.cdc.gov/travel/yellowbook/2024/health-care-abroad/medical-tourism)
 * [World Health Organization](https://www.who.int/)
-* [U.S. Centers for Disease Control and Prevention](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Spain.html#ExternalPopup) (CDC)
-* [Insurance Coverage Overseas](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) (source: Department of State)
+* [U.S. Centers for Disease Control and Prevention](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Spain.html#ExternalPopup)
+* [Insurance Coverage Overseas](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html)
 
 **Emergency numbers**For emergency services **dial 112**.  You may ask for an English-speaking attendant.
 
@@ -65,7 +65,7 @@ Learn more about [Adventure Travel](https://wwwnc.cdc.gov/travel/page/adventure)
 
 **Air Quality**Air pollution can be a significant problem in many destinations overseas. Air pollution can be a significant problem in many destinations overseas.
 
-* Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast). It uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a 3-day forecast of expected air quality in Egypt.
+* Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast). It uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a 3-day forecast of expected air quality in Spain.
 * For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/).
 * For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/).
 * For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.

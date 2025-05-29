@@ -57,7 +57,7 @@ Crime rates in South Africa are very high:
 * Messages are issued from the U.S. Embassy through the [Smart Traveler Enrollment Program](https://mytravel.state.gov/s/step) (STEP). [Register](https://mytravel.state.gov/s/step) to receive alerts while traveling abroad.
 * Regularly monitor travel information from the [U.S Embassy in South Africa.](https://za.usembassy.gov/)
 
-**Victims of crime**   
+**Victims of crime**    
 Local authorities are responsible for investigating and prosecuting crimes. **Dial 10111** to report crimes to the local police.
 
 * **Dial 012-431-4000** tocontact the U.S. Embassy Pretoria.

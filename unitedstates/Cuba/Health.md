@@ -69,7 +69,7 @@ The air quality varies considerably and fluctuates with the seasons. It is typic
 * Infants, children, teens, and older adults
 * People with heart disease and lung diseases such as asthma, chronic obstructive pulmonary disease (COPD), chronic bronchitis, or emphysema.
 
-The U.S. Embassy maintains a list of doctors and hospitals [here](https://cu.usembassy.gov/u-s-citizen-services/local-resources-of-u-s-citizens/doctors/medical-information/).  We do not endorse or recommend any specific medical provider or clinic.
+The U.S. Embassy maintains a list of doctors and hospitals [here](https://cu.usembassy.gov/services/medical-assistance/hospitals-pharmacies/).  We do not endorse or recommend any specific medical provider or clinic.
 
 **Pharmaceuticals:** Even the most common over the counter medications are not available in Cuba. Other medications, medical equipment, or supplies are also unavailable on the island. If you can find medicine, exercise caution when purchasing medication overseas. Counterfeit medication is common and may not work, have the wrong strength, or have dangerous ingredients. You should buy medication with the help of a medical professional and from trusted places.
 

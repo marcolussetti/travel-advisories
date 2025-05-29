@@ -614,7 +614,7 @@
     {
         "destination": "France",
         "risk_level": "Level 2: Exercise Increased Caution",
-        "last_updated_advisory": "2023-07-26T00:00:00",
+        "last_updated_advisory": "2025-05-28T00:00:00",
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/france-travel-advisory.html",
         "risk_level_number": 2,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Monaco.html",
@@ -663,7 +663,7 @@
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/georgia-travel-advisory.html",
         "risk_level_number": 1,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Georgia.html",
-        "last_updated_country_details": "2023-10-17T00:00:00"
+        "last_updated_country_details": "2025-05-28T00:00:00"
     },
     {
         "destination": "Germany",
@@ -1064,7 +1064,7 @@
     {
         "destination": "Malta",
         "risk_level": "Level 1: Exercise Normal Precautions",
-        "last_updated_advisory": "2023-07-26T00:00:00",
+        "last_updated_advisory": "2025-05-28T00:00:00",
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/malta-travel-advisory.html",
         "risk_level_number": 1,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Malta.html",
@@ -1577,7 +1577,7 @@
     {
         "destination": "South Korea",
         "risk_level": "Level 1: Exercise Normal Precautions",
-        "last_updated_advisory": "2023-07-24T00:00:00",
+        "last_updated_advisory": "2025-05-28T00:00:00",
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/south-korea-travel-advisory.html",
         "risk_level_number": 1,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/SouthKorea.html",

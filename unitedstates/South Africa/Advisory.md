@@ -45,6 +45,8 @@ Due to the risks, U.S. government employees working in South Africamust obtain s
 * Have evacuation plans that do not rely on U.S. government assistance.
 * Keep travel documents up to date and easily accessible.
 
+Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/SouthAfrica.html) for additional information on travel to South Africa.
+
 U.S. citizens should always exercise caution when traveling abroad. Use these general tips to stay safe:
 
 * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://step.state.gov/) to receive messages and alerts from the U.S. Embassy. It makes it easier to locate you in an emergency.

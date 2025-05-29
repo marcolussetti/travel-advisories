@@ -2,7 +2,7 @@
 
 [#### Safety and Security](javascript:void(0); "Safety and Security")
 
-Cuba’s security environment is relatively stable and characterized by military and police presence. Demonstrations are infrequent but can draw violent responses from government forces. Even peaceful demonstrations can turn confrontational without warning. Avoid demonstrations and always maintain security awareness. Demonstration Alerts are posted on the [Embassy’s website](https://cu.usembassy.gov/u-s-citizen-services/security-and-travel-information/).  Review the [Cuba Travel Advisory](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/cuba-travel-advisory.html).
+Cuba’s security environment is relatively stable and characterized by military and police presence. Demonstrations are infrequent but can draw violent responses from government forces. Even peaceful demonstrations can turn confrontational without warning. Avoid demonstrations and always maintain security awareness. Demonstration Alerts are posted on the [Embassy’s website](https://cu.usembassy.gov/).  Review the [Cuba Travel Advisory](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/cuba-travel-advisory.html).
 
 The Cuban government has detained U.S. citizens suspected of engaging in activities perceived to undermine state security. The Cuban government may detain individuals for activities not considered criminal or offensive in the United States.
 

@@ -1,6 +1,6 @@
 # Malta Travel Advisory
 
-### Travel Advisory July 26, 2023
+### Travel Advisory May 28, 2025
 
 ### Malta - Level 1: Exercise Normal Precautions
 
@@ -14,7 +14,7 @@
 [T](javascript:void(0); "Tool Tip: Terrorism")
 [C](javascript:void(0); "Tool Tip: Crimes")
 
-**Reissued with obsolete COVID-19 page links removed.**
+***Reissued after periodic review with minor edits.***
 
 Exercise normal precautions in Malta.
 
@@ -22,11 +22,11 @@ Read the [country information page](https://travel.state.gov/content/travel/en/i
 
 If you decide to travel to Malta:
 
-* Enroll in the [Smart Traveler Enrollment Program](https://step.state.gov/step/) ([STEP](https://step.state.gov/step/)) to receive travel alerts and make it easier to locate you in an emergency.
-* Follow the Department of State on [Facebook](https://www.facebook.com/travelgov/) and [Twitter](https://twitter.com/travelgov).
+* Enroll in the [Smart Traveler Enrollment Program](https://step.state.gov/step/) ([STEP](https://step.state.gov/step/)) to receive messages and alerts from the U.S. Embassy and make it easier to locate you in an emergency.
 * Review the [Country Security Report](https://www.osac.gov/Country/Malta/Detail) for Malta.
-* Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/traveler/none/malta?s_cid=ncezid-dgmq-travel-single-001) related to your travel.
-* Prepare a contingency plan for emergency situations. Review the [Traveler’s Checklist](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-checklist.html).
+* Prepare a plan for emergency situations. Review the [Traveler’s Checklist](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-checklist.html).
+* Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/traveler/none/malta?s_cid=ncezid-dgmq-travel-single-001) related to your travel and return to the United States.
+* We highly recommend that you buy insurance before you travel. Check with your [travel insurance](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) provider about evacuation assistance, medical insurance, and trip cancellation coverage.
 
 ### Travel Advisory Levels
 
