@@ -63,16 +63,13 @@ A permit is required from the Ministry of Mines and Minerals Development for imp
 
 ### International Child Abduction
 
-The Hague Convention on the Civil Aspects of International Child Abduction is an international treaty. It can help parents with the return of children who have been removed to or retained in certain countries in violation of custody rights. The convention applies between Canada and Zambia.
+The Hague Convention on the Civil Aspects of International Child Abduction is an international treaty. It can help parents with the return of children who have been removed to or retained in certain countries in violation of custody rights. It does not apply between Canada and Zambia.
 
-If your child was wrongfully taken to, or is being held in Zambia, and if the applicable conditions are met, you may apply for the return of your child to the competent Zambian court.
-
-If you are in this situation:
+If your child was wrongfully taken to, or is being held in Zambia by an abducting parent:
 
 * act as quickly as you can
-* contact the Central Authority for your province or territory of residence for information on starting an application under The Hague Convention
 * consult a lawyer in Canada and in Zambia to explore all the legal options for the return of your child
-* report the situation to the nearest Canadian government office abroad or to the Vulnerable Children's Consular Unit at Global Affairs Canada by calling the Emergency Watch and Response Centre
+* report the situation to the nearest Canadian government office abroad or to Global Affairs Canada by calling the Emergency Watch and Response Centre
 
 If your child was removed from a country other than Canada, consult a lawyer to determine if The Hague Convention applies.
 
@@ -80,12 +77,10 @@ Be aware that Canadian consular officials cannot interfere in private legal matt
 
 #### Useful links
 
-* [List of Canadian Central Authorities for the Hague Convention](https://www.hcch.net/en/states/authorities/details3/?aid=75)
 * [International Child Abductions: A guide for affected parents](https://travel.gc.ca/travelling/publications/international-child-abductions)
 * [Children and travel](https://travel.gc.ca/travelling/children)
-* [The Hague Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) – Hague Conference on Private International Law
 * [Canadian embassies and consulates by destination](https://travel.gc.ca/assistance/embassies-consulates)
-* [Request emergency assistance](https://travel.gc.ca/assistance/emergency-assistance?_ga)
+* [Request emergency assistance](https://travel.gc.ca/assistance/emergency-assistance)
 
 ### Pornography
 
