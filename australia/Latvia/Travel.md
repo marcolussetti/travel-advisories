@@ -30,7 +30,7 @@ To enter Latvia, you must have a valid health insurance policy. Your cover must 
 
 The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area is expected to start in October 2025.
 
-The EES is a digital border system that registers non-EU visitors travelling into the Schengen Area. When entering the Schengen Area, you'll need to have your fingerprints and photo taken. This creates a digital record that registers your biometric details. 
+The EES is a digital border system that registers non-EU visitors travelling into the Schengen Area. When entering the Schengen Area, you'll need to have your fingerprints and photo taken. This creates a digital record that registers your biometric details.
 
 You'll need to do this on your first visit to the EU after the EES is introduced.​ If you visit the Schengen Area again within 3 years of creating your digital record, you'll only need to provide either your fingerprint or photograph at the border on entry and exit.
 
@@ -42,7 +42,7 @@ Entry and exit conditions can change at short notice. Contact the [embassy or c
 
 #### Validity
 
-Some countries won't let you enter unless your passport is valid for 6 months after you plan to leave that country. This can apply even if you're just transiting or stopping over.
+Some countries won't let you enter unless your passport is valid for at least 6 months after you plan to leave that country. This can apply even if you're just transiting or stopping over.
 
 Some foreign governments and airlines apply the rule inconsistently. Travellers can receive conflicting advice from different sources.
 
@@ -91,32 +91,34 @@ You don't need to declare currency if you're travelling between EU countries.
 
 #### Border areas
 
-Some land borders between Latvia and Russia/Belarus remain open for those travelling by car, except for vehicles registered in Russia or Belarus, carrying Russian or Belarusian license plates. These vehicles will be refused entry into Latvia. The situation may change with little notice, including which crossing points remain open. 
+Some land borders between Latvia and Russia/Belarus remain open for those travelling by car or bus, except for vehicles registered in Russia or Belarus, carrying Russian or Belarusian license plates. These vehicles will be refused entry into Latvia. The situation may change with little notice, including which crossing points remain open.
+
+Before entering Latvia, any vehicle registered in a third country must be declared for use via the [e-services](https://e.csdd.lv/trvalstutldeklar/) of the Road Traffic Safety Directorate.
 
 No passenger rail options are currently running between Russia/Belarus and Latvia.
 
 You must comply with Latvian border rules and requirements.
 
-Expect increased wait time and delays at the border with [Russia](/destinations/europe/russia "Russia"). Visit the [Border Guard](https://www.transport.lv/en/) website for the latest information on border crossings.
+Expect increased wait time and delays at the border with [Russia](https://www.smartraveller.gov.au/destinations/europe/russia). Visit the [Border Guard](https://www.transport.lv/en/) website for the latest information on border crossings.
 
-#### More information
+**More information:**
 
 * [Latvian Border Guard website](https://www.rs.gov.lv/en?setlang=1)
 * [State Revenue Service of Latvia](https://www.vid.gov.lv/en/article/persons-vehicles-registered-russian-federation-are-banned-entering-latvia)
 
 #### International Driving Permit
 
-If you plan to drive in Latvia, you are required to obtain an International Driving Permit (IDP). Get your IDP before you leave Australia.
+If you plan to drive in Latvia, you are required to obtain an International Driving Permit (IDP). Get your IDP before you leave Australia. You should also carry your Australian driver's licence (digital licences may not be accepted).
 
 #### Road travel
 
-Driving can be dangerous. Hazards include:
+In Latvia, you drive on the right-hand side of the road. Driving can be dangerous. Hazards include:
 
 * icy roads and low visibility in winter
 * poorly maintained roads and vehicles
 * dimly lit roads
 
-You're more likely to die in a motor vehicle accident in Latvia than in Australia.
+There is a higher rate of motor vehicle fatalities per capita in Latvia than in Australia.
 
 Learn the local road rules, including:
 
@@ -138,9 +140,9 @@ Penalties for driving over the limit can include:
 
 #### Public transport
 
-Public transport, including buses and trains, is generally reliable and safe.
+Public transport, including buses, trams and trains, is generally reliable and safe.
 
-Use official, well-marked taxis. These display yellow license plates.
+Use official, well-marked taxis. These display yellow license plates. The local version of Uber is Bolt.
 
 **More information:**
 

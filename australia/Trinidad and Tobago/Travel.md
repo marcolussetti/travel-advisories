@@ -4,9 +4,7 @@
 
 > Every country or territory decides who can enter or leave through its borders. For specific information about the evidence you'll need to enter a foreign destination, check with the nearest embassy, consulate or immigration department of the destination you're entering.
 
-You don't need a visa if your visit is for tourism for less than 90 days. However, you'll need to pay a visa waiver fee to Immigration Services when you arrive. You can pay in cash in Trinidad and Tobago dollars or US dollars.
-
-If your visit is for other reasons, check whether you need a visa with the [Trinidad and Tobago Immigration Division](https://nationalsecurity.gov.tt/divisions/immigration-division/) or the nearest high commission, embassy or consulate of Trinidad and Tobago. Apply for your visa using the [E-Visa Online Portal](https://nationalsecurity.gov.tt/divisions/immigrationdivision/evisa-online/). 
+You will need a visa to enter Trinidad and Tobago. Apply for your visa using the [E-Visa Online Portal](https://E-Visa%20Online%20Portal) at least 14 business days before your travel. Additional information can be found on the [Trinidad and Tobago Immigration Division's](https://Trinidad%20and%20Tobago%20Immigration%20Division) website.
 
 Entry and exit conditions can change at short notice. Contact the high commission, embassy or consulate of Trinidad and Tobago for details about visas, currency, customs and quarantine rules.
 
@@ -61,7 +59,7 @@ If your passport is lost or stolen, tell the Australian Government as soon as po
 
 Although Australian passports comply with international standards for sex and gender, we can’t guarantee that a passport showing 'X' in the sex field will be accepted for entry or transit by another country. Contact the nearest [embassy, high commission or consulate of your destination](https://protocol.dfat.gov.au/Public/MissionsInAustralia) before you arrive at the border to confirm if authorities will accept passports with 'X' gender markers.
 
-More information:
+**More information:**
 
 * [LGBTQIA+ travellers](https://www.smartraveller.gov.au/before-you-go/who-you-are/LGBTI)
 
@@ -83,7 +81,7 @@ Ask your bank whether your ATM card will work in Trinidad and Tobago.
 
 To drive in Trinidad and Tobago, you need both:
 
-* a valid Australian driver's licence
+* a valid Australian driver's licence (digital drivers licences may not be accepted)
 * a valid International Driving Permit (IDP)
 
 You must get your IDP before leaving Australia.
@@ -150,7 +148,7 @@ Avoid public transport due to safety concerns.
 
 Cruise vessels stop in Trinidad and Tobago.
 
-An inter-island ferry operates between Trinidad and Tobago. Cancellations can happen with little or no notice. Check the status of your travel with the Port Authority.
+An inter-island ferry operates between Trinidad and Tobago. Cancellations can happen with little or no notice. Check the status of your travel with the [Port Authority](https://www.patnt.com/).
 
 A water taxi operates between Port of Spain and San Fernando.
 

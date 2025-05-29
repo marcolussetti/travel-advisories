@@ -50,7 +50,7 @@ Carry a copy of your prescription or a letter from your doctor stating:
 
 #### Insect-borne illnesses
 
-[Tick-borne encephalitis](https://www.who.int/immunization/diseases/tick_encephalitis/en/) and other tick-borne diseases are a risk in forest areas.
+[Tick-borne encephalitis](https://www.who.int/immunization/diseases/tick_encephalitis/en/) and other tick-borne diseases are a risk in forest areas. Prior vaccination is recommended.
 
 Ticks are active from spring to autumn: March to November.
 
@@ -63,7 +63,7 @@ To protect yourself from disease:
 If a tick bites you:
 
 * remove it from your body as soon as possible
-* make sure you remove the whole tick
+* make sure you remove the whole tick. If possible, keep the tick for diagnosis.
 * monitor the site for signs of infection
 
 **More information:**
@@ -87,10 +87,10 @@ Seek medical advice if you suspect food poisoning or have a fever or diarrhoea.
 
 #### Medical care
 
-In large cities, the standard of public medical facilities is good. However, in rural areas, public medical facilities may be more limited.
+In large cities, the standard of public medical facilities is good. However, in rural areas, public medical facilities may be more limited. English is spoken in many places.
 
 Most private medical facilities are well-equipped. Services are of a similar standard to those in Australia.
 
-You may need to pay doctors and hospitals up-front before they'll treat you.
+You may need to pay doctors and hospitals upfront before they treat you. Payments can be made by credit card or internet bank transfer.
 
 If you become seriously ill or injured, you may need to evacuate to a place with better facilities. Medical evacuation can be very expensive.

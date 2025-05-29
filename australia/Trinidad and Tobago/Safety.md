@@ -2,8 +2,6 @@
 
 #### Crime
 
-#### Violent crime
-
 Violent crime is common, including against travellers and expatriates. Incidents include:
 
 * murders
@@ -19,7 +17,7 @@ Gang and drug-related crime is also common. Hot spots for violent crime include:
 * downtown Port of Spain, especially at night
 * the docks
 * Caranage, Sea Lots, Belmont, Laventille, Morvant and Beetham
-* Barataria to the east, Cocorite to the west and everything in between
+* Barataria to the east, Cocorite to the west
 * inside Queens Park Savannah
 
 Attacks, including with firearms, have also occurred at:
@@ -41,11 +39,21 @@ To protect yourself from crime:
 * only use ATMs in hotels, shopping centres or other controlled areas during the day
 * be mindful of who's around you when using ATMs
 * don’t carry large amounts of cash or show signs of affluence
-* never leave personal belongings, such as money, credit cards, cell phones and other electronics, unattended, especially on beaches.
+* never leave personal belongings, such as money, credit cards, cell phones and other electronics, unattended, especially on beaches. or in cars
 
 If you're attacked or robbed, don't resist. Criminals are often armed, and you can be seriously injured or killed.
 
 If you're the victim of a violent crime, especially rape, get urgent medical help. HIV/AIDS is widespread in Trinidad and Tobago.
+
+Petty crime, including bag snatching, pickpocketing and theft from cars, is common. Take care at all times.
+
+Thefts and robberies rise in the lead-up to Christmas. This trend continues until the end of [Carnival](https://www.smartraveller.gov.au/before-you-go/major-events), in February or March.
+
+To prevent theft from your vehicle:
+
+* lock doors and close windows, even when moving
+* keep valuables out of sight
+* park in secure car parks
 
 Drink spiking can happen anywhere. Be alert to the potential risks, and don't leave food or drinks unattended. Pay attention when your drinks are being mixed. Stick to reputable venues and avoid homemade alcoholic drinks due to the risk of methanol poisoning. Get urgent medical help if you suspect you’ve been a victim.
 
@@ -73,25 +81,13 @@ To reduce your risk of violent crime:
 * don't share taxis or use public transport
 * avoid travelling alone, especially at night
 
-#### Petty crime
-
-Petty crime, including bag snatching, pickpocketing and theft from cars, is common. Take care at all times.
-
-Thefts and robberies rise in the lead-up to Christmas. This trend continues until the end of [Carnival](https://www.smartraveller.gov.au/before-you-go/major-events), in February or March.
-
-To prevent theft from your vehicle:
-
-* lock doors and close windows, even when moving
-* keep valuables out of sight
-* park in secure car parks
-
 #### Kidnapping
 
 Kidnapping can happen anywhere, anytime, including in destinations that are typically at lower risk. 
 
 The Australian Government's longstanding policy is that it doesn't make payments or concessions to kidnappers.
 
-**More information:**
+**More information** **including advice on how to reduce your risk of kidnapping****:**
 
 * [Kidnapping](/before-you-go/safety/kidnapping "Reducing the risk of kidnapping")
 
@@ -209,7 +205,7 @@ To protect yourself if a hurricane is approaching:
 
 Trinidad and Tobago is in an active earthquake zone.
 
-In 2018, Trinidad and Tobago experienced a 6.7 magnitude earthquake. This earthquake damaged buildings and communication networks.
+Strong earthquakes can cause damage to buildings and disrupt communication networks.
 
 Get to know the earthquake safety measures for each place you stay and visit.
 

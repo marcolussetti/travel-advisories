@@ -2,7 +2,9 @@
 
 Latest update
 
-We continue to advise exercise a high degree of caution in Trinidad and Tobago due to the threat of violent crime. To reduce the risk of violent crime and petty theft, be aware of your surroundings at all times, particularly if you're attending a large-scale event (see 'Safety').
+We've reviewed our advice for Trinidad and Tobago and continue to advise exercise a high degree of caution due to the threat of violent crime. To reduce the risk of violent crime and petty theft, be aware of your surroundings at all times, particularly if you're attending a large-scale event (see 'Safety').   
+  
+You require a visa to enter Trinidad and Tobago. You must apply for an e-visa at least 14 business days before travel. (see 'Travel')
 
 Advice Level summary
 
@@ -53,6 +55,7 @@ Full travel advice: [Local laws](#local-laws)
 
 ### Travel
 
+* You will need a visa to enter Trinidad and Tobago. Apply for your visa using the [E-Visa Online Portal](https://nationalsecurity.gov.tt/divisions/immigrationdivision/evisa-online/) at least 14 business days before your travel. Additional information can be found on the [Trinidad and Tobago Immigration Division's](https://nationalsecurity.gov.tt/divisions/immigrationdivision/) website.
 * Entry and exit conditions can change at short notice. You should contact the nearest high commission, embassy or consulate of Trinidad and Tobago for the latest details.
 * Carry your yellow fever vaccination certificate. You may need to show it to enter.
 * You'll need a valid Australian driver's licence and a valid International Driving Permit (IDP) to drive. Get your IDP before you leave Australia. Avoid driving at night.

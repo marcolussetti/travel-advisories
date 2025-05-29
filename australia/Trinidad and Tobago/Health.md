@@ -38,7 +38,7 @@ If you have immediate concerns for your welfare or the welfare of another Austra
 
 Not all medication available over the counter or by prescription in Australia is available in other countries. Some may even be considered illegal or a controlled substance, even if prescribed by an Australian doctor.
 
-If you plan to bring medication, check if it's legal in Trinidad and Tobago. Take enough legal medication for your trip.
+If you plan to bring medication, check if it's legal in Trinidad and Tobago with the [Trinidad and Tobago Ministry of Health - Chemistry Food and Drug Division](https://health.gov.tt/services/chemistry-food-and-drugs-division). Take enough legal medication for your trip.
 
 Carry a copy of your prescription or a letter from your doctor stating:
 
@@ -104,8 +104,6 @@ Seek medical advice if you have a fever or diarrhoea.
 * [Infectious diseases](https://www.smartraveller.gov.au/before-you-go/health/diseases)
 
 #### Medical care
-
-#### Medical facilities
 
 The standard of medical facilities in Trinidad and Tobago varies.
 

@@ -2,7 +2,7 @@
 
 Latest update
 
-We continue to advise exercise normal safety precautions in Latvia.
+We've reviewed our advice for Latvia and continue to advise exercise normal safety precautions in Latvia. We also advise reconsider your need to travel to areas near the border with Belarus.
 
 Advice Level summary
 
@@ -20,18 +20,19 @@ Higher levels apply in some areas.
 
 [Exercise normal safety precautions](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level1) in Latvia.
 
-[Reconsider your need to travel](https://smartraveller.gov.au/consular-services/travel-advice-explained#level3) to areas near the border with Belarus.
+[Reconsider your need to travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level3) to areas near the border with Belarus.
 
-[Reconsider your need to travel](https://smartraveller.gov.au/consular-services/travel-advice-explained#level3) to areas near the border with Belarus due to ongoing civil unrest.
+[Reconsider your need to travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level3) to areas near the border with Belarus due to ongoing civil unrest.
 
 ## Overview
 
 ### Safety
 
 * The security environment at the Belarusian border could deteriorate at short notice. If you're in these areas, carry ID with you at all times and follow the advice of local authorities.
-* Petty crime is common, particularly in Riga. This includes bag snatching, pickpocketing and muggings. Hotspots include Old Town, the central train and bus stations, the Central Market, parks, and routes to major hotels. Take care of your belongings.
-* Check the price of drinks before ordering. Tourists are sometimes overcharged. Credit card fraud also occurs in shops, restaurants, bars and nightclubs. Watch your card during transactions. Don't sign blank credit card slips.
-* Criminals may spike drinks in bars and casinos. Don't leave your drinks unattended.
+* Petty crime may occur, particularly in Riga. This includes bag snatching, pickpocketing and muggings. Hotspots include Old Town, the central train and bus stations, the Central Market, parks, and routes to major hotels. Take care of your belongings.
+* Check the price of drinks before ordering. Tourists are sometimes overcharged. Credit card fraud may occur in some bars and nightclubs later at night. Watch your card during transactions. Don't sign blank credit card slips.
+* Criminals may spike drinks in bars, nightclubs, and casinos. Don't leave your drinks unattended.
+* Terrorism is a worldwide threat. Terrorist attacks could occur anywhere and at any time. Be alert to possible threats, especially in public places.
 
 Full travel advice: [Safety](#safety)
 
@@ -56,7 +57,7 @@ Full travel advice: [Local laws](#local-laws)
 * Latvia is part of the [Schengen area](/before-you-go/the-basics/schengen "Visas and entry requirements in Europe and the Schengen Area"), meaning you can enter without a visa in some cases. In other situations, you'll need to get a visa.
 * The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area is expected to start in October 2025.
 * Entry and exit conditions can change at short notice. You should contact the nearest [embassy or consulate of Latvia](https://protocol.dfat.gov.au/Public/Missions/110) for the latest details.
-* Selected land borders between Latvia and Russia/Belarus remain open for travel via car except for vehicles registered in Russia or Belarus, carrying Russian or Belarusian license plates. These vehicles will be refused entry into Latvia. There are no passenger rail options currently running between Russia/Belarus and Latvia. Australians seeking to cross will need to comply with Latvian border rules and requirements. Visit the [Latvian Border Guard website](https://www.rs.gov.lv/en?setlang=1) before crossing for more information.
+* Selected land borders between Latvia and Russia/Belarus remain open for travel via car and bus, except for vehicles registered in Russia or Belarus, carrying Russian or Belarusian license plates. These vehicles will be refused entry into Latvia. Before entering Latvia, any vehicle registered in a third country must be declared for use via the [e-services](https://e.csdd.lv/trvalstutldeklar/) of the Road Traffic Safety Directorate. There are no passenger rail options currently running between Russia/Belarus and Latvia. Australians seeking to cross will need to comply with Latvian border rules and requirements. Visit the [Latvian Border Guard website](https://www.rs.gov.lv/en?setlang=1) before crossing for more information.
 
 Full travel advice: [Travel](#travel)
 

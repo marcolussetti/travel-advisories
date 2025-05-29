@@ -26,9 +26,9 @@ Call 112 for social welfare emergencies, such as domestic violence or child abus
 
 English-speaking operators are available.
 
-The Riga tourist police unit has a 24-hour hotline in English. To report a crime, call  2 203 3000 or 67 181818.
+The Riga tourist police unit has a 24-hour hotline in English. To report a crime, call 2 203 3000 or +371 67 181818.
 
-Always get a police report when you report a crime.
+Always get a signed police report when you report a crime.
 
 Your insurer should have a 24-hour emergency number.
 
@@ -43,19 +43,22 @@ Australia has a Consulate in Latvia headed by an Honorary Consul. The Consulate 
 Teikums Teodors  
 Gustava Zemgala Gatve 74  
 Riga LV-1039  
-LATVIA  
+Latvia  
+  
 Telephone: +371 29 509100  
 Email: [AU.HonConsul.Riga@gmail.com](mailto:AU.HonConsul.Riga@gmail.com)
 
 #### Australian Embassy, Stockholm
 
 Klarabergsviadukten 63, 8th Floor  
-111 64 Stockholm, Sweden  
+111 64 Stockholm  
+Sweden  
+  
 Phone: +46 0 8 613 2900  
 Email: [reception.stockholm@dfat.gov.au](mailto:reception.stockholm@dfat.gov.au)  
 Website: [sweden.embassy.gov.au](http://www.sweden.embassy.gov.au/)  
 Facebook: [Australian Embassy, Sweden](https://www.facebook.com/AusEmbSE)  
-X (Twitter): [@AusAmbSE](https://twitter.com/AusAmbSE)
+X: [@AusAmbSE](https://twitter.com/AusAmbSE)
 
 Check the Embassy website for details about opening hours and any temporary closures.
 

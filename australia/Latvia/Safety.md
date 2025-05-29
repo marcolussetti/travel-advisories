@@ -4,7 +4,7 @@
 
 #### Petty crime
 
-Petty crime is common, particularly in Riga Old Town. This can include:
+Petty crime may occur, particularly in Riga Old Town and during tourist seasons. This can include:
 
 * bag snatching
 * pickpocketing
@@ -14,19 +14,17 @@ Hotspots for pickpockets include:
 
 * central train and bus stations
 * Riga Central Market
-* parks
-* routes to major hotels
+* nightclubs
 
 Pickpockets usually operate in groups.
 
 #### Drink spiking
 
-Criminals may spike drinks in bars and casinos.
+Drink spiking can happen anywhere. Criminals may spike drinks in bars and casinos. Be alert to the potential risks, and don't leave food or drinks unattended. Pay attention when your drinks are being mixed. Stick to reputable venues and avoid homemade alcoholic drinks due to the risk of methanol poisoning. Get urgent medical help if you suspect you’ve been a victim.
 
-To protect yourself from spiking:
+**More information:**
 
-* never accept food or drinks from strangers
-* don't leave your food or drink unattended
+* [Partying safely](/before-you-go/safety/partying "Partying safely")
 
 #### Scams and fraud
 
@@ -34,18 +32,17 @@ Reports of tourists being overcharged for drinks at restaurants and tourist pubs
 
 Credit card [scams](/node/363) occur in places popular with tourists, such as:
 
-* shops
 * restaurants
 * bars
 * nightclubs
 
-Always keep your card in sight. Don't sign blank credit card slips.
+Always keep your card in sight.
 
 Internet crime also happens, including online dating and financial scams.
 
 #### Road-based crime
 
-Car theft is common, particularly in Riga.
+Car theft may occur, particularly in Riga.
 
 To protect yourself:
 
@@ -66,7 +63,7 @@ Social media can also be risky in destinations where there are social or politic
 
 #### Border areas
 
-The security environment at the Belarusian border could deteriorate at short notice. If you're in these areas, carry ID with you at all times and follow the advice of local authorities.
+The security environment at the Belarusian border could deteriorate at short notice. If you're in these areas, carry ID with you at all times and follow the advice of local authorities. Areas close to the border are restricted.
 
 #### Demonstrations
 
@@ -85,11 +82,26 @@ If you're in an area where protests have happened:
 
 #### Terrorism
 
-While there have been no recent terrorist attacks in Latvia, they can still happen.
+There's an ongoing threat of terrorism in Europe. Terrorists have staged attacks in several European cities. The Latvian State Security Service assesses Latvia's terrorist threat level as low.
 
-There's an ongoing threat of terrorism in Europe. Terrorists have staged attacks in several European cities.
+Terrorist attacks could occur anywhere and at any time. Be alert to possible threats, especially in public places. Terrorists may target tourist areas or other places frequented by foreigners and where large crowds may gather.
 
-The Latvian State Security Service assesses Latvia's terrorist threat level as low.
+Possible targets include:
+
+* places of worship or religious holidays
+* hotels, clubs, restaurants and cafes
+* markets and shopping malls
+* outdoor recreation events, including festivals, concerts, and sporting venues
+* public transport, airports and railway hubs
+
+To stay safe:
+
+* report suspicious activities or items to the police
+* check the media for new threats
+* take official warnings seriously
+* follow the instructions of local authorities
+
+If there’s an attack, leave the area as soon as it's safe to do so.
 
 Terrorism is a threat worldwide.
 
@@ -103,11 +115,11 @@ Terrorism is a threat worldwide.
 
 Latvia experiences extremely cold winters and heavy snowfall. This can affect major metropolitan areas.
 
-[Severe weather](/while-youre-away/crisis-or-emergency/severe-weather-incident "There's a severe weather incident") can delay transport and temporarily shut down infrastructure.
+[Severe weather](https://www.smartraveller.gov.au/while-youre-away/crisis-or-emergency/severe-weather-incident) and storms can delay transport and temporarily shut down infrastructure.
 
 #### Flooding
 
-Flooding may occur in spring, from March to May.
+Regional flooding from the spring snow thaw along larger rivers may occur from March to May.
 
 If there's a [natural disaster](/before-you-go/safety/natural-disasters "Staying safe when there's a natural disaster") or extreme weather:
 
