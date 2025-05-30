@@ -74,7 +74,7 @@ Email
 
 Website
 
-[https://es.mwp.usembassy.gov/](https://es.mwp.usembassy.gov/ "Embassy website address of U.S. Embassy Madrid: https://es.mwp.usembassy.gov/")
+[https://es.usembassy.gov/](https://es.usembassy.gov/ "Embassy website address of U.S. Embassy Madrid: https://es.usembassy.gov/")
 
 ### Spain Map
 

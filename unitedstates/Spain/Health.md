@@ -63,7 +63,7 @@ The Department of State provides information on [ART and surrogacy abroad](https
 **Adventure travel**   
 Learn more about [Adventure Travel](https://wwwnc.cdc.gov/travel/page/adventure) (source: CDC)
 
-**Air Quality**Air pollution can be a significant problem in many destinations overseas. Air pollution can be a significant problem in many destinations overseas.
+**Air Quality**Air pollution can be a significant problem in many destinations overseas.
 
 * Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast). It uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a 3-day forecast of expected air quality in Spain.
 * For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/).

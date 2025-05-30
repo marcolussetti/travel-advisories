@@ -2,7 +2,14 @@
 
 [#### Safety and Security](javascript:void(0); "Safety and Security")
 
-**Terrorism:**Terrorist groups and those inspired by such organizations are intent on attacking U.S. citizens abroad. Terrorists are increasingly using less sophisticated methods of attack – including knives, firearms, and vehicles – to target crowds. Frequently, their aim is unprotected or vulnerable targets, such as:
+For Indonesian emergency services dial:
+
+* 110 for police
+* 113 for fire
+
+Enroll in the [Smart Traveler Enrollment Program](https://step.state.gov/step/) (STEP) for security messages and easier communication in emergencies.
+
+**Terrorism:** Terrorist groups and individuals inspired by them are using simpler methods of attack like knives, guns, and vehicles to target crowds. They often go after unprotected or vulnerable targets at:
 
 * High-profile public events (sporting contests, political rallies, demonstrations, holiday events, celebratory gatherings, etc.)
 * Hotels, clubs, and restaurants frequented by tourists
@@ -12,58 +19,39 @@
 * Shopping malls and markets
 * Public transportation systems (including subways, buses, trains, and scheduled commercial flights)
 
-Extremists in Indonesia aspire to carry out violent attacks against Indonesian and foreign targets, and police have arrested more than 1,200 individuals on terrorism-related charges since 2018. Extremists may target both official and private establishments, including government offices, hotels, bars, nightclubs, shopping areas, restaurants, and places of worship. Be aware of your personal safety and security at all times.
+According to the Indonesian National Police, there were no terrorist attacks in Indonesia since 2022. However, visitors to Indonesia are cautioned that extremists have in the past targeted high-profile events, political rallies, police stations and places of worship. Visitors to Indonesia are cautioned against conduct that may offend local norms or religious sensibilities.
 
-Recent incidents of extremist violence include a December 2022 suicide bombing at a police station in Bandung, West Java that killed one police officer, a March 2021 bomb attack against a church in Makassar, South Sulawesi which injured 20 civilians, and May 2018 bomb attacks against three churches in Surabaya, East Java which killed 15 civilians and injured 50.
+**Travel Restrictions:** U.S. government personnel travel to Central Papua (Papua Tengah) and Highland Papua (Papua Pegunungan) is restricted to mission-essential travel approved in advance by the Embassy due to potential violence, civil disturbance, and political violence.
 
-Demonstrations are very common in Jakarta, Surabaya, and other large cities, but less common in Bali. You should avoid demonstrations and other mass gatherings, since even those intended to be peaceful can become violent. U.S. citizens have been detained for participating in protests.  Demonstrations may become more frequent ahead of the Indonesian general elections scheduled for February 2024.
+There have been cases of kidnapping and murder of foreign nationals and threat of violence between groups and civil unrest continue to underlay these risks to travelers. In February 2023, a New Zealand national was taken hostage by an armed group in Paro, Papua Highlands. After over 500 days in captivity, he was released. However, in 2024 another foreign pilot was killed in Papua, and the threat of further violence and civil unrest remains.
 
-Currently, travel by U.S. government personnel to the provinces of Central Papua (Papua Tengah) and Highland Papua (Papua Pegunungan) is restricted to mission-essential travel that is approved in advance by the Embassy. Papuan separatists have kidnapped foreigners in the past and a New Zealand national was kidnapped by a separatist group in Nduga Regency in February 2023.
+For more information, see our [Terrorism](https://travel.state.gov/content/travel/en/international-travel/emergencies/terrorism.html) page.
 
-For more information, see our [Terrorism](https://travel.state.gov/content/travel/en/international-travel/emergencies/terrorism.html) page.
+**Crime**:
 
-**Crime:**In the last year several American citizens were victims of violent and serious crimes in Indonesia, particularly in Bali. As with any major tourist destination, U.S. citizens traveling in Indonesia are especially encouraged to always remain vigilant of their surroundings and read the following advisories carefully. Take sensible measures to protect yourself and your belongings.  Closely monitor bags and luggage and carry only essential items. Take particular care of your passport and bank cards and avoid traveling alone.
+**Violent Crimes**: In the past year, several American citizens have been victims of violent crimes in Indonesia, especially in Bali. You should remain vigilant, follow advisories, and take sensible measures to protect yourself and your belongings. Monitor bags and luggage, carry only essential items, safeguard your passport and bank cards, and avoid traveling alone.
 
-Police presence and responsiveness is less than it is in the United States, making it more difficult to report crimes quickly and receive police attention. U.S. citizens often cite language barriers as a major hindrance when reporting crimes.
+Pickpocketing, sexual assault, vehicle theft, snatch-and-grab robberies, and residential break-ins are common. Avoid isolated areas late at night and stay aware of your surroundings, especially vehicles or individuals that might be following you.
 
-Pickpocketing, sexual assault, vehicle theft, armed car-jacking, snatch and grab robberies of cell phones and purses, and residential break-ins are common. Avoid traveling to isolated areas late at night. Be aware of your surroundings, particularly vehicles or individuals that might be following you.
+**Sexual Violence:**Travelers, especially those traveling alone, may face harassment, verbal abuse, and sexual assault. To reduce risk, avoid traveling alone at night, stay vigilant in less populated areas, and be cautious with strangers or new acquaintances, especially when staying in hostels or other types of communal lodging. Never leave food or drinks unattended or with strangers, and avoid accepting snacks, beverages, gum, or cigarettes from new acquaintances, as they may be drugged. Local authorities may not respond adequately to reports of sexual violence and harassment.
 
-Use a reputable taxi company or hire a taxi either at a major hotel or shopping center and ensure the driver’s identity card is visible. If you are booking a car via a mobile app, always ensure that the driver is the same as the person on the app, share your journey with a friend via the in-app option, and know the contact information for the app’s security center. Be aware of drivers falsely claiming to be registered with online ride hailing apps.
+There have been reports of serious illnesses and even deaths from "drink-spiking" and drink poisoning incidents (methanol-contaminated alcoholic drinks), especially in clubs and nightspots in urban and tourist areas. Reports of sexual assaults and drink spiking have been noted in Bali, Lombok, Gili Islands, and Sumatra. Ensure drinks are prepared in your sight, avoid accepting drinks from strangers, and never leave drinks unattended.
 
-Credit card fraud is a common problem in Indonesia. Criminals have “skimmed” credit/debit cards to access and drain bank accounts. Use an ATM in a secure location, such as a major bank branch, and check the machine for evidence of tampering. Monitor your account statements regularly.
+If you are a victim of sexual assault, report it immediately to local authorities and the U.S. Embassy or Consulate General.
 
-Tourists and Indonesians have suffered from serious illness and have even died from "drink-spiking” and drink poisoning incidents, particularly in clubs and nightspots in urban and tourist areas. There have been reports of sexual assaults and drink spiking in Bali, Lombok, and the Gili Islands.  Make sure drinks are prepared in your sight and be careful about accepting drinks from strangers at clubs and parties or leaving drinks unattended. Tourists have also been robbed after taking visitors to their hotel rooms, and in some cases have found that their drinks were spiked. There have also been deaths and serious illnesses caused by drinking alcoholic drinks contaminated with methanol. These cases have occurred in bars, shops, and hotels in popular tourist areas like Bali, Lombok, the Gili Islands, and Sumatra.
+**Domestic Violence:**U.S. citizen victims of domestic violence are encouraged to contact the Embassy for assistance. Domestic violence is illegal in Indonesia; however, these laws are rarely enforced.
 
-**Sexual Assault:** Women travelling alone may be subject to harassment and verbal abuse. Sexual assault, harassment, and rape occur. To minimize the risk, avoid travelling alone, especially at night; remain particularly vigilant in less populous areas; and be careful when dealing with strangers or recent acquaintances. Never leave food or drinks unattended or in the care of strangers. Be wary of accepting snacks, beverages, gum, or cigarettes from new acquaintances. These items may contain drugs that could put you at risk of sexual assault and robbery. Local authorities may not respond adequately to reports of sexual violence and harassment. If you are the victim of a sexual assault, you should report it immediately to local authorities and to the U.S. Embassy or U.S. Consulate General.
+**Victims of Crime:**U.S. citizens who are victims of a crime should:
 
-**Demonstrations** occur frequently. They may take place in response to political or economic issues, on politically significant holidays, and during international events.
+* Seek prompt medical assistance, if needed.
+* Contact the U.S. Embassy at +62 21-5083-1000.
+* Contact the local police at 112.
 
-* Demonstrations can be unpredictable. Avoid areas around protests and demonstrations.
-* Past demonstrations have turned violent.
-* Check local media for updates and traffic advisories.
-* Participating in demonstrations on a tourist visa can lead to deportation.
+**Crime Reporting**: It can be difficult to report crimes and receive attention from police quickly. U.S. citizens often face language barriers when reporting crimes.  
+  
+To initiate a criminal investigation, the victim must make a full statement to the local police in person. Local authorities are responsible for investigating and prosecuting crimes. U.S. Embassy or Consulate staff may accompany you to make a police report, but cannot serve as translators when making official statements to the police or during police interviews. U.S. citizen victims may choose to be accompanied by a translator for these processes.
 
-**International Financial Scams:**See the [Department of State](http://travel.state.gov/content/passports/english/emergencies/scams.html)and the [FBI](http://www.fbi.gov/scams-safety/fraud) pages for information.
-
-Internet romance and financial scams occur in Indonesia. Scams are often initiated through Internet postings/profiles or by unsolicited emails and letters. Scammers almost always pose as U.S. citizens who have no one else to turn to for help. Common scams include:
-
-* Romance/Online dating
-* Money transfers
-* Lucrative sales
-* Gold purchase
-* Contracts with promises of large commissions
-* Grandparent/Relative targeting
-* Free Trip/Luggage
-* Lotteries
-* Inheritance notices
-* Work permits/job offers
-* Bank overpayments
-
-**Victims of Crime:**
-
-**Sexual assault:** U.S. citizen victims of sexual assault should seek prompt medical assistance, contact the Embassy or nearest Consulate, and call the local police at 112. For a criminal investigation to be initiated by the police, the victim must make a full statement to the local police, in person.  Remember that local authorities are responsible for investigating and prosecuting crime. U.S. citizen victims of sexual assault may choose to be accompanied by a translator.
-
-See our webpage on [help for U.S. victims of crime overseas](http://travel.state.gov/content/passports/en/emergencies/victims.html).
+See our webpage on [help for U.S. victims of crime overseas](http://travel.state.gov/content/passports/en/emergencies/victims.html).
 
 We can:
 
@@ -71,14 +59,44 @@ We can:
 * Assist you in reporting a crime to the police
 * Contact relatives or friends with your written consent
 * Explain the local criminal justice process in general terms
-* Provide a [list of local attorneys](https://id.usembassy.gov/u-s-citizen-services/attorneys/)
-* Provide our information on [victim’s compensation programs in the U.S.](http://travel.state.gov/content/passports/english/emergencies/victims.html)
-* Provide an emergency loan for repatriation to the United States and/or limited medical support in cases of destitution. Follow [this link](https://id.usembassy.gov/u-s-citizen-services/emergency-financial-assistance/) for more information
+* Provide a [list of local attorneys](https://id.usembassy.gov/legal-assistance/)
+* Provide our information on [victim’s compensation programs in the U.S.](http://travel.state.gov/content/passports/english/emergencies/victims.html)
+* Provide an emergency loan for repatriation to the United States and/or limited medical support in cases of destitution.  
+  Follow [this link](https://id.usembassy.gov/services/#financialassistance) for more information
 * Help you find accommodation and arrange flights home
 * Replace a stolen or lost passport
 
-**Domestic Violence:**U.S. citizen victims of domestic violence are encouraged to contact the Embassy for assistance.
+**Demonstrations** occur frequently. They may take place in response to political or economic issues. They may also occur on politically significant holidays and during international events.
 
-**Tourism:** The tourism and recreational activity industries are unevenly regulated, and safety inspections for equipment and facilities do not commonly occur. Hazardous areas/activities are not always identified with appropriate signage, and staff may not be trained or certified either by the host government or by recognized authorities in the field.  Water sports, especially diving, can be hazardous in Indonesia with operators lightly regulated and hyperbaric chambers available only in Bali and Ambon.  Traffic is hazardous in Indonesia and U.S. citizens are frequently injured while riding rented motorbikes. Wearing a helmet is required by law. In the event of an injury, appropriate medical treatment is typically available only in/near major cities, and only basic stabilization may be available. Serious injuries require medical evacuation to another country. First responders are generally unable to provide urgent medical treatment or to access areas outside of major cities. Boat and ferry incidents are frequent; vessels rarely carry appropriate sizes and numbers of safety vests; passengers are encouraged to bring their own. U.S. citizens are strongly encouraged to purchase medical evacuation insurance. See our webpage for more [information on insurance providers for overseas coverage](http://travel.state.gov/content/passports/en/go/health/insurance-providers.html) (<http://travel.state.gov/content/passports/en/go/health/insurance-providers.html>).
+Demonstrations are common in Jakarta, Surabaya, and other large cities. Avoid demonstrations and mass gatherings, as they can become violent. It is illegal for foreigners to participate in protests, and U.S. citizens have been detained for participating in protests.
 
-**Please note:**  The U.S. Embassy and Consulates do not pay the medical expenses of private U.S. citizens in Indonesia. It is the traveler’s responsibility to ensure adequate medical insurance coverage or funds for medical expenses.
+* Demonstrations can be unpredictable. Avoid areas around protests and demonstrations.
+* Most demonstrations are peaceful, but they do occasionally turn violent.
+* Check local media for updates and traffic advisories.
+* Participating in demonstrations on a tourist visa can lead to deportation.
+
+**Scams:**Internet romance and financial scams happen in Indonesia. Review the Department of State’s [Protecting Yourself from Scams](https://travel.state.gov/content/travel/en/international-travel/emergencies/international-financial-scams.html) and the [FBI](https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams) pages for information.
+
+**Taxis and Mobile Apps**: Use a reputable taxi company such as Blue Bird or Grab, which can be booked via their apps or hired from major hotels or shopping centers. Before fully entering the taxi, match the photo on the dashboard ID with the driver and make sure there is a working meter. When booking a car via a mobile app, share your journey with a friend using the in-app option, and know the app's security contact information. Be cautious of drivers falsely claiming to be registered with ride-hailing apps.
+
+**Credit Card Fraud** is common in Indonesia, with criminals "skimming" cards to access and drain bank accounts. Use ATMs in secure locations, such as major bank branches, and check machines for tampering. Regularly monitor your account statements.
+
+**Technology Usage Abroad**: Mobile devices can be compromised, stolen, or damaged anywhere in the world. Before traveling abroad, it is best to keep all software (operating system and apps) updated. If possible, use a virtual private network and encrypted voice over IP (VoIP) applications. Make sure that all VPN/VoIP are reputable, and U.S. based. Do not connect to unknown open Wi-Fi.
+
+GPS Navigation Apps are helpful in getting U.S. citizens around in a foreign country. Prior to using the GPS app make sure you research the route to make sure it is safe. GPS navigation app may give you the shortest route without safety consideration.
+
+Be careful when using dating apps or online dating websites while abroad. Scammers may target U.S. citizens. Tell your friends and family where you are, meet in a popular public place, and avoid consuming suspicious food or drinks. Avoid traveling alone to bars or nightclubs.
+
+**Tourism:**The tourism and recreational activity industries in Indonesia are unevenly regulated, with infrequent safety inspections. Hazardous areas and activities may lack proper signage, and staff may not be trained or certified.
+
+* **Water Sports:** Diving can be hazardous due to light regulation. Hyperbaric chambers are only available in Bali and Ambon. Several U.S. citizens have died in the past year due to scuba diving, surfing, and drowning incidents at sea.
+* **Boating:** Boat and ferry incidents are frequent. Vessels often lack adequate safety vests, so passengers should bring their own.
+* **Traffic:** Traffic is hazardous, and U.S. citizens are frequently injured on rented motorbikes. Many injuries are serious and require either prolonged hospitalization or international medical evacuation. Helmets are required by law.
+
+**Mountain Hiking:** Never go hiking or climbing alone. When hiking in mountainous areas, obtain current information on local conditions, travel with a reputable guide (a requirement to hike on many mountains), have overseas medical insurance, and carry a local mobile phone. Dangerous trails may not be clearly labeled as such. Hikers on Puncak Jaya in Papua should have realistic primary and backup plans for climbing down the mountain. Tour operators have abandoned climbers. Taking shortcuts through private property is considered trespassing and is not a safe or legal alternative to a proper plan. If possible, ensure your hiking plans are registered and known to local authorities and/or tourism operators, as this helps identify your presence in these areas in the event of an emergency.
+
+Medical treatment is typically available only in major cities and may be basic by U.S. standards. Payment in advance is almost always required for treatment at hospitals. Serious injuries may require medical evacuation to another country. First responders generally cannot provide urgent medical treatment or access areas outside major cities.
+
+U.S. citizens are encouraged to purchase medical evacuation insurance. See our [Insurance Coverage Overseas](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html?cq_ck=1708701048867) webpage for more information.
+
+**Please note:**The U.S. Embassy and Consulates do not pay the medical expenses of private U.S. citizens in Indonesia. It is the traveler’s responsibility to ensure adequate medical insurance coverage or funds for medical expenses.

@@ -7,6 +7,6 @@
 4 Floral Park Road  
 Belmopan, Belize  
 Telephone: +(501) 822-4011  
-Emergency After-Hours telephone:+(501) 610-5030  
+Emergency After Hours telephone: +(501) 822-4011  
 Fax: +(501) 822-4012  
 Email: [ACSBelize@state.gov](mailto:ACSBelize@state.gov)

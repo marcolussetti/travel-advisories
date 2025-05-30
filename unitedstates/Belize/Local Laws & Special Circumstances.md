@@ -6,15 +6,27 @@
 
 **Arrest Notification:**If you are arrested or detained, ask police or prison officials to notify the U.S. Embassy immediately. See our [webpage](https://bz.usembassy.gov/contact/) for further information.
 
-**Faith-Based Travelers:**See the [Department of State’s International Religious Freedom Report](https://www.state.gov/j/drl/rls/irf/).
+**Counterfeit and Pirated Goods:** Counterfeit and pirated goods are prevalent in many countries. They may be illegal according to local laws. Counterfeit and pirated goods may pose significant risks to consumer health and safety. You may be subject to fines and/or have to give up counterfeit and pirated goods if you bring them back to the United States. Review the [U.S. Customs and Border Protection](https://www.cbp.gov/trade/fakegoodsrealdangers#:~:text=It%20is%20illegal%20to%20purchase%20counterfeit%20goods.%20Bringing,activities%2C%20such%20as%20forced%20labor%20or%20human%20trafficking.) website and [U.S. Department of Justice](https://www.justice.gov/criminal/criminal-ccips) website for more information.
 
-**LGB Travelers:** The Belizean government in September 2016 conceded the decriminalization of homosexuality, but is questioning a section of a July 2016 Supreme Court ruling that made “sexual orientation” a protected class. The Immigration Act prohibits “homosexual” persons from entering the country, but immigration authorities have not enforced that law.
+**Faith-Based Travelers:** Review the following webpages for details:
 
-There continues to be significant hostile sentiment towards individuals who identify themselves as LGB. Tourist friendly areas, including San Pedro Town, Ambergris Caye, remain relatively open and welcoming to the LGB community. Outside of these areas, LGB persons, especially males, are reluctant to display affection in public (including holding hands) because incidents of verbal or physical assault have been reported. There have been some instances of violence reported against LGB individuals, and LGB groups have reported that the police at times refused to accept reports of crime from LGB persons.
+* [Faith-Based Travel Information](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/faith-based-travel.html)
+* [International Religious Freedom Report](https://www.state.gov/international-religious-freedom-reports/) – see country reports
+* [Human Rights Report](https://www.state.gov/reports-bureau-of-democracy-human-rights-and-labor/country-reports-on-human-rights-practices/) – see country reports
 
-Seeour [LGB Travel Information](http://travel.state.gov/content/passports/english/go/lgbt.html)page and section 6 of the [Department of State's Human Rights report](http://www.state.gov/j/drl/rls/hrrpt/) for further details.
+**International Volunteers:**
 
-**Persons with Mobility Issues**: While in Belize, individuals with disabilities will find accessibility and accommodation very different from in the United States. The law does not expressly prohibit discrimination against persons with physical, sensory, intellectual, and mental disabilities in employment, education, air or other transportation, access to health care, or the provision of other state services. The law does not provide for accessibility to persons with disabilities. Most public and private buildings and transportation are not accessible.
+* [Best Practices for Volunteering Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/volunteering-abroad.html)
+
+**Lesbian and Gay Travelers:** There are no legal restrictions on consensual same-sex relations, the provision of information or services to persons on the basis of real or perceived sexual orientation, or the organization of events focused on sexual orientation. While the Immigration Act prohibits “homosexual” persons from entering the country, immigration authorities have not enforced that law.
+
+There continues to be significant hostile sentiment towards individuals based on their real or perceived sexual orientation. Tourist friendly areas, including San Pedro Town on Ambergris Caye, remain relatively open and welcoming. Outside of these areas, same-sex couples, especially men, are reluctant to display affection in public (including holding hands) because incidents of verbal or physical assault have been reported. There have been some instances of violence targeting persons on the basis of real or perceived sexual orientation reported, and human rights organizations have indicated that the police at times refused to accept reports of crime targeting persons on the basis of sexual orientation.
+
+Seeour [Lesbian and Gay Travel Information](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/lgb.html) page and section 6 of our [Human Rights Report](https://www.state.gov/reports-bureau-of-democracy-human-rights-and-labor/country-reports-on-human-rights-practices/) for further details.
+
+**Travelers with Disabilities**: The law doesn’t ban discrimination against people with physical, sensory, intellectual, or mental disabilities. The law does not provide for accessibility to persons with disabilities. Most public and private buildings and transportation are not accessible.
+
+Review our [Travelers with Disabilities](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/traveling-with-disabilties.html) page.
 
 **Students:**See our [Students Abroad](http://travel.state.gov/content/studentsabroad/en.html) page and [FBI travel tips](https://www.fbi.gov/file-repository/student-travel-brochure-pdf.pdf/view).
 

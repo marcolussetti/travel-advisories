@@ -4,7 +4,7 @@
 
 PASSPORT VALIDITY:
 
-Passport must have three months validity.
+Passport must have six months validity.
 
 BLANK PASSPORT PAGES:
 

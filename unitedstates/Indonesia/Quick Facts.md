@@ -8,15 +8,15 @@ Six months beyond arrival date.
 
 BLANK PASSPORT PAGES:
 
-Minimum of two blank visa pages required for entry stamp.
+Two blank visa pages required for entry stamp.
 
 TOURIST VISA REQUIRED:
 
-Yes, Visa or Visa on Arrival
+Yes, Visa or Visa on Arrival (eVOA).
 
 VACCINATIONS:
 
-Proof of COVID-19 Vaccination is required for most travelers. Other vaccines suggested.
+None
 
 CURRENCY RESTRICTIONS FOR ENTRY:
 

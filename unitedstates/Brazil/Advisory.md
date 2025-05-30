@@ -1,6 +1,6 @@
 # Brazil Travel Advisory
 
-### Travel Advisory October 19, 2023
+### Travel Advisory May 29, 2025
 
 ### Brazil - Level 2: Exercise Increased Caution
 
@@ -14,53 +14,59 @@
 [T](javascript:void(0); "Tool Tip: Terrorism")
 [C](javascript:void(0); "Tool Tip: Crimes")
 
-**Reissued with updates to Country Summary.**
+**Updated to add risk indicator for kidnapping.**
 
-Exercise increased caution in Brazil due to **crime**. Some areas have increased risk. Read the entire Travel Advisory.
+Exercise increased caution in Brazil due to **crime** and **kidnapping**. Some areas have increased risk. Read the entire Travel Advisory.
 
-Do not travel to:
+Do not travel to these areas due tocrime:
 
-* Any areas within 150 km/100 miles of Brazil’s land borders with Venezuela, Colombia, Peru, Bolivia, Guyana, Suriname, French Guiana, and Paraguay due to **crime**. (Note: This does not apply to the Foz do Iguacu National Park or Pantanal National Park.)
-* Informal housing developments (commonly referred to in Brazil as favelas, vilas, comunidades, and/or conglomerados) at any time of day due to **crime** (see additional information below).
-* Brasilia’s administrative regions (commonly known as “satellite cities”) of Ceilandia, Santa Maria, Sao Sebastiao, and Paranoa during non-daylight hours due to **crime** (see additional information below).
+* Anywhere within 160 km/100 miles of Brazil’s land borders with Bolivia, Colombia, Guyana, French Guiana, Paraguay, Peru, Suriname, and Venezuela. This restriction does not apply to the Foz do Iguacu National Park or Pantanal National Park.
+* Informal housing developments, such as favelas, vilas, comunidades, or conglomerados, at any time.
+* Brasilia’s “Satellite Cities” at night. This includes Ceilandia, Santa Maria, Sao Sebastiao, and Paranoa.
 
-**Country Summary:**Violent crime, such as murder, armed robbery, and carjacking, is common in urban areas, day and night. Gang activity and organized crime is widespread. Assaults, including with sedatives and drugs placed in drinks, are common. U.S. government personnel are discouraged from using municipal buses in all parts of Brazil due to an elevated risk of robbery and assault at any time of day, and especially at night.
+**Country Summary:**Violent crime, including murder, armed robbery, and carjacking, can occur in urban areas, day and night. There was a kidnapping for ransom of U.S. travelers. Gang activity and organized crime are widespread and often tied to the recreational drug trade. Assaults, including with sedatives and drugs placed in drinks, are common, especially in Rio de Janeiro. Criminals target foreigners through dating apps or at bars before drugging and robbing their victims. U.S. government employees are advised not to use municipal buses in Brazil because of a serious risk of robbery and assault, especially at night.
 
 If you decide to travel to Brazil:
 
-* Be aware of your surroundings.
+* Stay aware of your surroundings.
 * Do not physically resist any robbery attempt.
-* Do not accept food or drinks from strangers.
+* Do not accept food or drinks from strangers and always watch your drinks.
 * Use caution when walking or driving at night.
 * Avoid going to bars or nightclubs alone.
 * Avoid walking on beaches after dark.
-* Do not display signs of wealth, such as wearing expensive watches or jewelry.
-* Be extra vigilant when visiting banks or ATMs.
-* Use caution at, or going to, major transportation centers or on public transportation, especially at night. Passengers face an elevated risk of robbery or assault using public, municipal bus transportation throughout Brazil.
+* Do not display signs of wealth, such as expensive watches or jewelry.
+* Be alert to date drug scams.
+* Stay alert when visiting banks or ATMs.
+* Be careful at major transportation centers or on public transport, especially at night. Passengers are at higher risk of robbery or assault when using public buses in Brazil.
 * Use increased caution when hiking in isolated areas.
-* Enroll in the [Smart Traveler Enrollment Program (STEP)](https://step.state.gov/) to receive Alerts and make it easier to locate you in an emergency.
-* Follow the Department of State on [Facebook](https://www.facebook.com/travelgov) and [Twitter](https://twitter.com/StateDept?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor).
-* Review the [Country Security Report](https://www.osac.gov/Content/Browse/Report?subContentTypes=Country%20Security%20Report) for Brazil.
-* Prepare a contingency plan for emergency situations. Review the [Traveler’s Checklist](https://travel.state.gov/content/passports/en/go/checklist.html).
-* Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) related to your travel.
+* Develop a communication plan with family, employer, or host organization so they can monitor your safety and location as you travel through high-risk areas. Specify how you'll confirm you're safe (text, calls, etc.), how often, and who you'll contact first to share the information.
+* Enroll in the [Smart Traveler Enrollment Program (STEP)](https://step.state.gov/) to receive messages and alerts from the U.S. Embassy and make it easier to locate you in an emergency.
+* Review the [Country Security Report](https://www.osac.gov/Content/Report/7ce0bb41-df62-4e92-b4b0-1d02a39be392) for Brazil.
+* Prepare a plan for emergency situations. Review the [Traveler’s Checklist](https://travel.state.gov/content/passports/en/go/checklist.html).
+* Visit the CDC page for the [latest Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/traveler/none/brazil?s_cid=ncezid-dgmq-travel-single-001)  related to your travel and return to the United States.
+* We highly recommend that you buy insurance before you travel. Check with your [travel insurance provider](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html?cq_ck=1708701048867) about evacuation assistance, medical insurance, and trip cancellation coverage.
 
-**International Borders – Level 4: Do Not Travel**
+**International Borders – Level 4: Do Not Travel**Given security risks, U.S. government employees working in Brazil must obtain special authorization to travel within 160 km/100 miles of the international land borders with Bolivia, Colombia, Guyana, French Guiana, Paraguay, Peru, Suriname, and Venezuela. Travel to the Foz do Iguacu National Park and Pantanal National Park is allowed.
 
-U.S. government personnel are not permitted to travel to areas within 150 km/100 miles of the international land borders with Venezuela, Colombia, Peru, Bolivia, Guyana, Suriname, French Guiana, and Paraguay without advance approval from security officials due to crime. Travel to the Foz do Iguacu National Park and Pantanal National Park is permitted.
+Do not travel to these areas for any reason.
 
-Visit our website for [Travel to High-Risk Areas](https://travel.state.gov/content/passports/en/go/TraveltoHighRiskAreas.html).
+Visit our website for [Travel to High-Risk Areas](https://travel.state.gov/content/passports/en/go/TraveltoHighRiskAreas.html).
 
-**Informal Housing Developments (commonly known as “Favelas”) – Level 4: Do Not Travel**
+**Informal Housing Developments (commonly known as favelas, vilas, comunidades or conglomerados) – Level 4: Do Not Travel**Given crime concerns, U.S. government employees working in Brazil must obtain special authorization to travel to informal housing developments in Brazil.
 
-Do not travel to informal housing developments (commonly referred to in Brazil as favelas, vilas, comunidades, and/or conglomerados), even on a guided tour.  Neither the tour companies nor the police can guarantee your safety when entering these communities.  Even in these communities that the police or local governments deem safe, the situation can change quickly and without notice.  While some informal housing developments have clear boundaries or gates, or even names such as “favela”, “vila”, “comunidade”, or “conglomerado”, other such developments may be less obvious, and may be identified by crowded quarters, poorer conditions, and/or irregular construction.  In addition, exercise caution in areas surrounding these communities, as occasionally, inter-gang fighting and confrontations with police move beyond the confines of these communities.  Except under limited circumstances and with advance approval, U.S. government personnel are not permitted to enter any informal housing developments in Brazil. Read the Safety and Security Section on the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Brazil.html) and consult [the maps on the Embassy’s website](https://br.usembassy.gov/maps-of-u-s-citizen-caution-areas/) for further information regarding favelas.
+Do not travel to informal housing developments, even on guided tours. Neither tour companies nor police can guarantee your safety when entering these communities. Even in areas that police or local governments deem safe, the situation can change quickly. While some informal housing developments have clear boundaries, other such areas may be less obvious, and may be identified by crowded quarters, impoverished conditions, or irregular construction. Exercise caution near these communities as gang fighting and police clashes sometimes move beyond the confines of these areas.
 
-Visit our website for [Travel High-Risk Areas](https://travel.state.gov/content/passports/en/go/TraveltoHighRiskAreas.html).
+Check the Safety and Security Section on the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Brazil.html) and consult [the maps on the Embassy’s website](https://br.usembassy.gov/maps-of-u-s-citizen-caution-areas/) for details about favelas.
 
-**Brasilia’s Administrative Regions (commonly known as “Satellite Cities”) – Level 4: Do Not Travel**
+Do not travel to these areas for any reason.
 
-Without advance approval from security officials, U.S. government personnel are not permitted to travel to Brasilia’s Administrative Regions of Ceilandia, Santa Maria, Sao Sebastiao, and Paranoa between the hours of 6:00 p.m. and 6:00 a.m. (non-daylight hours) due to crime.
+Visit our website for [Travel High-Risk Areas](https://travel.state.gov/content/passports/en/go/TraveltoHighRiskAreas.html).
 
-Visit our website for [Travel to High-Risk Areas](https://travel.state.gov/content/passports/en/go/TraveltoHighRiskAreas.html).
+**Brasilia’s “Satellite Cities” – Level 4: Do Not Travel**Given crime risks, U.S. government employees working in Brazil must obtain special authorization to travel to Brasilia’s Administrative Regions of Ceilandia, Santa Maria, Sao Sebastiao, and Paranoa between 6:00 p.m. and 6:00 a.m.
+
+Do not travel to these areas for any reason.
+
+Visit our website for [Travel to High-Risk Areas](https://travel.state.gov/content/passports/en/go/TraveltoHighRiskAreas.html).
 
 ### Travel Advisory Levels
 

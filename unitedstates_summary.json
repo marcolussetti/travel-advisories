@@ -177,7 +177,7 @@
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/belizetravel-advisory.html",
         "risk_level_number": 2,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Belize.html",
-        "last_updated_country_details": "2023-02-28T00:00:00"
+        "last_updated_country_details": "2025-05-29T00:00:00"
     },
     {
         "destination": "Benin",
@@ -245,7 +245,7 @@
     {
         "destination": "Brazil",
         "risk_level": "Level 2: Exercise Increased Caution",
-        "last_updated_advisory": "2023-10-19T00:00:00",
+        "last_updated_advisory": "2025-05-29T00:00:00",
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/brazil-travel-advisory.html",
         "risk_level_number": 2,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Brazil.html",
@@ -348,7 +348,7 @@
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/cayman-islands-travel-advisory.html",
         "risk_level_number": 1,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/CaymanIslands.html",
-        "last_updated_country_details": "2023-01-10T00:00:00"
+        "last_updated_country_details": "2025-05-29T00:00:00"
     },
     {
         "destination": "Central African Republic",
@@ -856,10 +856,10 @@
     },
     {
         "destination": "Jamaica",
-        "risk_level": "Level 3: Reconsider Travel",
-        "last_updated_advisory": "2024-07-25T00:00:00",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated_advisory": "2025-05-29T00:00:00",
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/jamaica-travel-advisory.html",
-        "risk_level_number": 3,
+        "risk_level_number": 2,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Jamaica.html",
         "last_updated_country_details": "2023-11-16T00:00:00"
     },

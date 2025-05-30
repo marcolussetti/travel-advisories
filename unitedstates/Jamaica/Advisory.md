@@ -1,8 +1,8 @@
 # Jamaica Travel Advisory
 
-### Travel Advisory July 25, 2024
+### Travel Advisory May 29, 2025
 
-### Jamaica - Level 3: Reconsider Travel
+### Jamaica - Level 2: Exercise Increased Caution
 
 [O](javascript:void(0); "Tool Tip: Other")
 [D](javascript:void(0); "Tool Tip: Wrongful Detention")
@@ -14,61 +14,68 @@
 [T](javascript:void(0); "Tool Tip: Terrorism")
 [C](javascript:void(0); "Tool Tip: Crimes")
 
-**Updated to reflect additional information on crime and health care.**
+Reissued after periodic review with a change in level.
 
-Reconsider travel to Jamaica due to **crime**. Exercise increased caution regarding **medical services.** Some areas have increased risk. Read the entire Travel Advisory.
+Some areas have increased risk. Consider **crime** and limited **medical services**. Read the entire Travel Advisory.
 
-**Country Summary:** Violent crime occurs throughout Jamaica. Tourist areas generally see lower rates of violent crime than other parts of the country. The homicide rate reported by the Government of Jamaica is among the highest in the Western Hemisphere. Armed robberies and sexual assaults are common.
+Do Not Travel To:
 
-The U.S. Embassy routinely receives reports of sexual assaults, including from U.S. citizen tourists at resorts. U.S. citizens report slow or unsatisfactory response to serious criminal incidents. When arrests are made, cases are infrequently prosecuted to a final verdict and sentence.
+* High crime areas, described in detail below.
 
-U.S. citizens should not expect the same level of health care available in Jamaica as is available in the United States. This includes generally lower levels of emergency service response times or routine care for illness or injury. Private hospitals require payment up front before admitting patients and may not have the ability to provide specialized care. Ambulance services are not always staffed with EMTs or always readily available, especially in rural areas. U.S. citizens should bring extra prescription medication as common medications such as insulin can be difficult to obtain.
+**Country Summary:** While violent crime in Jamaica has decreased since 2024, it remains statistically high throughout the country. Tourist areas generally see lower rates of violent crime than other parts of the country. The homicide rate reported by the Government of Jamaica is among the highest in the Western Hemisphere. Armed robberies and sexual assaults are common. U.S. embassy employees are prohibited from using public buses and from driving between cities at night.
 
-**We strongly encourage you to obtain traveler’s insurance, including medical evacuation insurance, before traveling. The Department of State does not pay medical bills.**
+**Victims of crime**The U.S. Embassy routinely receives reports of sexual assaults, including from U.S. citizen tourists at resorts. U.S. citizens report slow or unsatisfactory response to serious criminal incidents. When arrests are made, cases are infrequently prosecuted to a final verdict and sentence.
 
-U.S. Medicare/Medicaid does not apply overseas. Most hospitals and doctors overseas do not accept U.S. health insurance. Air ambulance service to the United States can range from $30,000-50,000. Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Jamaica.html) for additional information on travel to Jamaica.
+**Medical care**U.S. citizens should not expect the same level of health care available in Jamaica as is available in the United States. This includes slower emergency service response times and less availability of care for illness or injury. Private hospitals require payment up front before admitting patients and may not have the ability to provide specialized care. Ambulance services are not always staffed with EMTs and are not always readily available, especially in rural areas. U.S. citizens should bring extra prescription medication as common medications, such as insulin, can be difficult to obtain.
+
+We highly recommend that you buy insurance before you travel. Check with your travel insurance provider about evacuation assistance, medical insurance, and trip cancellation coverage.**The Department of State does not pay medical bills.**
+
+U.S. Medicare/Medicaid does not apply overseas. Most hospitals and doctors overseas do not accept U.S. health insurance. Air ambulance service to the United States can range from $30,000-$50,000.
+
+Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Jamaica.html) for additional information on travel to Jamaica.
 
 If you decide to travel to Jamaica:
 
-* **Do not attempt to bring firearms or ammunition. This includes stray rounds, shells, or empty casings.** The penalties for carrying firearms and/or ammunition, even inadvertently, are severe, and can include lengthy prison sentences.
+* **Do not attempt to bring firearms or ammunition. This includes stray rounds, shells, or empty casings.** The penalties for carrying firearms or ammunition, even by mistake, are severe, and can include long prison sentences.
 * Avoid walking or driving at night.
 * Avoid public buses.
-* Avoid secluded places or situations.
+* Avoid remote places.
 * Do not physically resist any robbery attempt.
 * Be aware of your surroundings and keep a low profile.
-* Enroll in the [Smart Traveler Enrollment Program (STEP)](https://step.state.gov/) at [www.step.state.gov](http://www.step.state.gov/) to receive alerts and make it easier to locate you in an emergency.
-* Follow the Department of State on [Facebook](https://www.facebook.com/travelgov)and [X/Twitter](https://x.com/statedept?lang=en).
-* Review the State Department’s [Country Specific Information](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Jamaica.html) for Jamaica.
-* Make a contingency plan for emergency situations. Review the [Traveler’s Checklist](https://travel.state.gov/content/passports/en/go/checklist.html).
-* Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) related to your travel.
+* Visit our website for Travel to High-Risk Areas.
+* Enroll in the [Smart Traveler Enrollment Program (STEP)](https://step.state.gov/) to receive messages and Alerts from the U.S. Embassy and make it easier to locate you in an emergency.
+* [Review the Country Security Report for Jamaica.](https://www.osac.gov/Content/Report/ab8ec542-91c4-4b71-88af-1ce3edfe6a01)
+* Prepare a plan for emergency situations. Review the [Traveler’s Checklist](https://travel.state.gov/content/passports/en/go/checklist.html).
+* Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) related to your travel and return to the United States.
 
-**U.S. embassy personnel are prohibited from traveling to certain areas of Jamaica due to crime.** Additionally, U.S. embassy personnel are prohibited from using public buses and from driving outside of prescribed areas of Kingston at night. **The off-limits zones for U.S. embassy personnel within each parish are listed below**.
+**Specific areas of Jamaica – Level 4: Do Not Travel**
 
-**Off-limits locations for U.S. embassy personnel throughout Jamaica – Level 4: Do Not Travel**
+**Due to the risks, U.S. government employees working in Jamaica are prohibited from traveling to certain areas. The off-limits zones for U.S. embassy personnel within each parish are listed below.**
 
-**St. Ann’s Parish -** Steer Town and the Buckfield neighborhood near Ocho Rios
+* Do not travel to these areas for any reason.
+* Visit our website for [Travel to High-Risk Areas](https://travel.state.gov/content/passports/en/go/TraveltoHighRiskAreas.html).
 
-**St. Catherine’s Parish -** Spanish Town, Central Village, areas within Portmore, including: Naggo Head, New Land, Old Braeton, Portmore Lane, Gregory Park, and Waterford
+**St. Ann’s Parish -** Steer Town and the Buckfield neighborhood near Ocho Rios.
+
+**St. Catherine’s Parish -** Spanish Town, Central Village, areas within Portmore, including: Naggo Head, New Land, Old Braeton, Portmore Lane, Gregory Park, and Waterford.
 
 **Clarendon Parish -** all of Clarendon Parish, except passing through Clarendon Parish using the T1 and A2 highways.
 
-**St. Elizabeth’s Parish -** Vineyard District Community, between the communities of Salt Spring and Burnt Savanna, St. Elizabeth
+**St. Elizabeth’s Parish -** Vineyard District Community, between the communities of Salt Spring and Burnt Savanna, St. Elizabeth.
 
-**Hanover Parish -** Logwood and Orange Bay
+**Hanover Parish -** Logwood and Orange Bay.
 
-**St. James Parish/Montego Bay -** Inland side of the A1 highway and The Queen’s Drive from San San to Harmony Beach Park
+**St. James Parish/Montego Bay -** Inland side of the A1 highway and The Queen’s Drive from San San to Harmony Beach Park.
 
 **Kingston and St. Andrew Parish -** Cassava Piece, Duhaney Park, Grants Pen, Standpipe, Swallowfield, Elleston Flats, August Town, and downtown Kingston, defined as between Mountain View Avenue and Hagley Park Road, and south of Half Way Tree and Old Hope Roads. Downtown Kingston includes Arnett Gardens, Cockburn Gardens, Denham Town, Olympic Gardens, Seaview Gardens, Trench Town, and Tivoli Gardens.
 
-**Manchester Parish -** Green Vale, Gray Ground, Red Ground, and Vineyard neighborhoods of Mandeville
+**Manchester Parish -** Green Vale and Gray Ground neighborhoods of Mandeville.
 
 **St. Thomas Parish -** Black Lane neighborhood in Seaforth, Grands Penn, Church Corner neighborhood near Yallahs, Town of Yallahs, except when driving through on the main highway.
 
-**Trelawny Parish -** Clarks Town
+**Trelawny Parish -** Clarks Town.
 
-**Westmoreland Parish -** Russia community in Savanna-la-Mar (The Southeastern quadrant of Savannah la Mar east of Darling Street and south of the A2 highway/Barracks Road), Morgan Bay, Kings Valley, The Whitehall, Bethel Town, and Red Ground neighborhoods of Negril
-
-If you do decide to travel to the above-listed Do Not Travel areas, please visit our website for [Travel to High-Risk Areas](https://travel.state.gov/content/passports/en/go/TraveltoHighRiskAreas.html).
+**Westmoreland Parish -** Russia community in Savanna-la-Mar (The Southeastern quadrant of Savannah la Mar east of Darling Street and south of the A2 highway/Barracks Road), Morgan Bay, Kings Valley, The Whitehall, Bethel Town, and Red Ground neighborhoods of Negril.
 
 ### Travel Advisory Levels
 
