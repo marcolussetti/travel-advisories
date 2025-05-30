@@ -1,10 +1,16 @@
 ## Health
 
-Check with your doctor well in advance of travelling to see if you need any vaccinations for this country. We advise you to take out comprehensive travel insurance before you travel.
+We advise you to take out comprehensive travel insurance before you travel.
+
+### **Vaccinations**
+
+Check with your doctor well in advance of travelling to see if you need any vaccinations for this country.
+
+### **Medical Facilities**
 
 Medical facilities in the Cook Islands are limited. In the event of a medical emergency, evacuation to New Zealand is likely to be the only option for treatment. Make sure your insurance policy includes provision for medical evacuation and covers you for all eventualities.
 
-### **Health risks**
+### **Health Risks**
 
 There is a risk of mosquito-borne diseases, including dengue. You should take steps to avoid mosquito bites.
 

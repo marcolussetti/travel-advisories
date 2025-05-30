@@ -18,27 +18,9 @@ Public gatherings and demonstrations may take place from time to time.
 
 We recommend that you stay clear of demonstrations, and should follow the advice of the local authorities.
 
-### **LGBTQI+ Travel**
-
-Consensual same-sex sexual activity is no longer illegal following a change to the law, effective 1 June 2023. Despite this, public displays of affection may be considered offensive.
-
-### **Road travel**
+### **Road Travel**
 
 Driving is on the left. You should avoid driving at night out of built-up areas. Vehicle safety regulations are not consistently enforced. Beware of pedestrians and animals on the roads.
-
-### **Nature and Climate**
-
-### **Seismic activity**
-
-The Cook Islands is located in a seismically active zone, which can lead to tsunamis, even if an earthquake has taken place a significant distance away. You should follow any instructions issued by the local authorities in respect of tsunami threats.
-
-### **Tropical storms and Cyclones**
-
-In the Cook Islands, strong winds are expected from the beginning of November to the end of April, some of which can reach cyclone strength. During this time, intense rainfall and subsequent floods and landslides are to be expected.
-
-The climate is tropical. The rainy season extends from November to April and the hot dry seasons occur from May to October.
-
-You are advised to monitor local and international weather updates from [**World Meteorological Organisation (WMO)**](http://severe.worldweather.org/) or the [**Fiji Meteorological Service website**](http://www.met.gov.fj/).
 
 ### **Swimming**
 

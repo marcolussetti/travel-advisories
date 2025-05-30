@@ -9,13 +9,13 @@
 * Be particularly careful with personal possessions and travel documents in popular tourist destinations such as Auckland, Rotorua and Queenstown. Thefts from accommodation and unattended vehicles, including campervans, can occur.
 * Tourism New Zealand has comprehensive safety advice on its website
 
-### **Stolen/lost passports**
+### **Lost or Stolen Passport**
 
 If your passport is lost or stolen while you are in New Zealand please report it to the police as soon as possible and to the Embassy [**New Zealand - Department of Foreign Affairs (dfa.ie)**](/en/dfa/overseas-travel/advice/new-zealand/) on the next working day.
 
 Emergency arrangements are available for those who need to travel but the Embassy will not issue an emergency travel document for purposes other than urgent travel.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If you are a victim of a crime while in New Zealand, report it to the local police immediately. You can contact us at the Irish Embassy in Wellington if you need assistance.
 
@@ -30,11 +30,11 @@ If you want to drive:
 * When you park on a road make sure the vehicle is facing in the direction of the traffic
 * If you plan to stay in New Zealand for 12 months or more, you are required to get a New Zealand driving licence.
 
-### **Car documentation**
+### **Car Documentation**
 
 It is compulsory to carry your driver’s licence with you when driving. There is an instant fine for not doing so. Check the insurance policy of any car you are driving, particularly if borrowing a car from a friend.
 
-### **Driver fatigue**
+### **Driver Fatigue**
 
 Driver fatigue is a major killer on New Zealand roads and we recommend that you take regular rest breaks when driving long distances. It is also important to check the roadworthiness of your vehicle, particularly before setting out on long distance travel in remote areas.
 
@@ -42,13 +42,13 @@ Driver fatigue is a major killer on New Zealand roads and we recommend that you 
 
 As with driving in Ireland, you should respect the rules of the road including the law regarding drink driving. Use your common sense in avoiding dangerous situations such as travelling as a passenger with a driver who is under the influence of alcohol and/or drugs.
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If you are hiring a vehicle, we advise you not to hand over your passport as a form of security. If you are allowing your passport to be photocopied, keep it in your sight at all times.
 
 Check that you have adequate insurance and read the small print of the vehicle hire contract (particularly any waiver that will come into effect if the vehicle is damaged).
 
-### **Adventure activities**
+### **Adventure Activities**
 
 Many travellers go to New Zealand to take part in adventure activities. It is important that you inform yourself fully of the risks involved and be sure that tour and activity operators are meeting safety standards. Never take part in these activities unless you are covered by an adequate level of travel insurance.
 

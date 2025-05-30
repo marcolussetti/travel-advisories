@@ -3,12 +3,16 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Bolivia/Overview.md"
+            "title": "Travel to Bolivia overview",
+            "file": "ireland/Bolivia/Travel to Bolivia overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Bolivia/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Bolivia/Health.md"
         },
         {
             "title": "Local laws and customs",
@@ -19,13 +23,13 @@
             "file": "ireland/Bolivia/Natural disasters and climate.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Bolivia/Additional information.md"
+            "title": "Entry Requirements",
+            "file": "ireland/Bolivia/Entry Requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Bolivia/Embassy contact.md"
         }
     ],
-    "update_date": "2025-02-18T00:00:00"
+    "update_date": "2025-05-29T00:00:00"
 }

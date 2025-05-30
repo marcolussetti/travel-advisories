@@ -3,12 +3,16 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Paraguay/Overview.md"
+            "title": "Travel to Paraguay overview",
+            "file": "ireland/Paraguay/Travel to Paraguay overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Paraguay/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Paraguay/Health.md"
         },
         {
             "title": "Local laws and customs",
@@ -19,17 +23,13 @@
             "file": "ireland/Paraguay/Natural disasters and climate.md"
         },
         {
-            "title": "Health",
-            "file": "ireland/Paraguay/Health.md"
-        },
-        {
-            "title": "Additional information",
-            "file": "ireland/Paraguay/Additional information.md"
+            "title": "Entry Requirements",
+            "file": "ireland/Paraguay/Entry Requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Paraguay/Embassy contact.md"
         }
     ],
-    "update_date": "2024-06-11T00:00:00"
+    "update_date": "2025-05-29T00:00:00"
 }

@@ -24,26 +24,8 @@ Swimming, snorkelling and diving are common activities. Take local advice before
 
 At certain times of the year, some beaches in Niue are closed for traditional fishing activities.
 
-### **LGBTQI+ Travel**
-
-Niuean law criminalizes male homosexual relations. If you are convicted, you could face imprisonment, though enforcement of the law is rare.
-
-### **Road travel**
+### **Road Travel**
 
 You must apply for a local driving licence from the Niue Police Department.
 
 Driving is on the left. You should avoid driving at night out of built-up areas. Vehicle safety regulations are not consistently enforced. Beware of pedestrians and animals on the roads.
-
-### **Nature and Climate**
-
-#### **Seismic activity**
-
-Niue is located in a seismically active zone, which can lead to tsunamis, even if an earthquake has taken place some distance from Niue. You should follow any instructions issued by the local authorities in respect of tsunami threats.
-
-#### **Tropical storms and Cyclones**
-
-In Niue, strong winds are expected from the beginning of November to the end of April, some of which can reach cyclone strength. During this time, intense rainfall and subsequent floods and landslides are to be expected.
-
-The climate is tropical. The rainy season extends from November to April and the hot dry seasons occur from May to October.
-
-You are advised to monitor local and international weather updates from [**World Meteorological Organisation (WMO)**](http://severe.worldweather.org/) or the [**Fiji Meteorological Service website**](http://www.met.gov.fj/).

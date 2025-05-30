@@ -3,29 +3,33 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Kiribati/Overview.md"
+            "title": "Travel to Kiribati overview",
+            "file": "ireland/Kiribati/Travel to Kiribati overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Kiribati/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Kiribati/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Kiribati/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Kiribati/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/Kiribati/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/Kiribati/Natural disasters and climate.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/Kiribati/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Kiribati/Embassy contact.md"
         }
     ],
-    "update_date": "2023-11-21T00:00:00"
+    "update_date": "2025-05-29T00:00:00"
 }

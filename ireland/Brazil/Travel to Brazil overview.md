@@ -6,7 +6,7 @@ High Degree of Caution
 
 ### **General Travel Advice**
 
-Irish citizens do not require a visa to visit Brazil as a tourist for periods of up to 90 days. Passports should be valid for a minimum period of 6 months from the date of entry into Brazil. More information can be found in the Immigration / Health tab. If you are a single parent/guardian travelling with a minor, please consult the Entry Requirements tab for important information.
+Irish citizens do not require a visa to visit Brazil as a tourist for periods of up to 90 days. Passports should be valid for a minimum period of 6 months from the date of entry into Brazil. More information can be found in the Entry Requirements tab. If you are a single parent/guardian travelling with a minor, please consult the Entry Requirements tab for important information.
 
 Although most visits to Brazil are trouble free, crime levels are high and visitors should be vigilant and exercise a high degree of caution at all times, and particularly during large festivals such as Carnival and New Year.
 

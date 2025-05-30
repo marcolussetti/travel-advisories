@@ -1,6 +1,6 @@
 ## Safety and security
 
-### **Social unrest**
+### **Social Unrest**
 
 Public demonstrations and protests are more common in Argentina than in Ireland. You may encounter groups of demonstrators (piqueteros) blocking major roads into and out of the capital, as well as access to airports, causing delays and possibly a change in route.
 
@@ -10,7 +10,7 @@ In particular, the areas around the Obelisco and the National Congress tend to s
 
 Although the threat from terrorism in Argentina is relatively low, there is still a global risk of indiscriminate terrorist attacks, which could be against civilian targets, including places frequented by tourists and expatriates.
 
-### **Petty theft**
+### **Petty Theft**
 
 You should be aware of the risk of petty theft in the city of Buenos Aires, Greater Buenos Aires and other major cities.
 
@@ -47,7 +47,7 @@ There have been reports of foreign tourists being robbed or assaulted after invi
 
 * Get urgent medical help if you suspect you have been a victim. If you are imminent danger, contact local authorities by dialing “911”.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If you are a victim of a crime while in Argentina, report it to the local police or the Tourist Police (in the city of Buenos Aires) immediately. Please contact us at the Irish Embassy in Buenos Aires if you need help.
 

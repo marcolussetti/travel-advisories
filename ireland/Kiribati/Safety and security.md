@@ -1,6 +1,6 @@
 ## Safety and security
 
-### **Petty crime**
+### **Petty Crime**
 
 Crime in Kiribati is low but petty crime can occur.
 
@@ -18,7 +18,7 @@ An [**International Driving Permit**](https://www.citizensinformation.ie/en/trav
 
 Road travel in Kiribati can be dangerous. Roads are often poorly maintained and unlit.
 
-### **Inter-island travel**
+### **Inter-island Travel**
 
 Some restrictions remain on inter-island travel, particularly on COVID-19 free islands where availability of quarantine centres is a factor.
 
@@ -37,15 +37,3 @@ Do not swim in the lagoon in south Tarawa as it is highly polluted.
 Take great care when swimming in the sea around Kiribati, as there are very strong rip tides along coast and reef areas.
 
 Visitors should wear safety equipment at all times during boating trips. Squalls can occur at very short notice.
-
-### **Weather**
-
-The wet season runs from November to April, during which strong winds and sea swells can occur. As Kiribati is close to the equator, it does not usually experience tropical cyclones.
-
-You should monitor regional and international weather updates from the [**World Meteorological Organisation (WMO)**](http://severe.worldweather.org/), the [**Fiji Meteorological Service website**](http://www.met.gov.fj/), and local newspapers.
-
-Kiribati is subject to periodic spells of drought. These can be severe, and water restrictions may be put in place.
-
-### **Travelers Who Require Accessibility Assistance**
-
-Accessibility of buildings, and communications and information for persons with disabilities is not mandated. There are no special accommodations for persons with disabilities.

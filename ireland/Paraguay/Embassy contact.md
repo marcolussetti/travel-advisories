@@ -1,10 +1,10 @@
 ## Embassy contact
 
+The Irish Embassy in Argentina is responsible for Paraguay. Our office hours are Monday to Friday 09:00 to 13:00.
+
 For genuine emergencies involving Irish citizens, which occur outside of office hours and cannot wait until the next working day, please call +54 9 11 5945 7483.
 
 Citizens may also wish to contact the Duty Officer at the Department of Foreign Affairs in Dublin on +353 1 408 2000
-
-Monday to Friday 09:00-13:00
 
 ### Embassy of Ireland, Argentina
 

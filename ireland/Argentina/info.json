@@ -3,12 +3,16 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Argentina/Overview.md"
+            "title": "Travel to Argentina overview",
+            "file": "ireland/Argentina/Travel to Argentina overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Argentina/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Argentina/Health.md"
         },
         {
             "title": "Local laws and customs",
@@ -19,13 +23,13 @@
             "file": "ireland/Argentina/Natural disasters and climate.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Argentina/Additional information.md"
+            "title": "Entry Requirements",
+            "file": "ireland/Argentina/Entry Requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Argentina/Embassy contact.md"
         }
     ],
-    "update_date": "2025-04-14T00:00:00"
+    "update_date": "2025-05-29T00:00:00"
 }

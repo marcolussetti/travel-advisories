@@ -1,6 +1,6 @@
 ## Health
 
-### Zika Virus
+### **Zika Virus**
 
 There is a risk of Zika Virus (a dengue-like mosquito-borne disease) in Central and South America and the Caribbean. Irish citizens especially those with a weakened immune system or women who are pregnant or trying to become pregnant are advised to follow guidance available on the website of the [**Health Protection Surveillance Centre (HPSC)**](https://www.hpsc.ie/a-z/vectorborne/zika/).
 

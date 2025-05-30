@@ -3,25 +3,33 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Samoa/Overview.md"
+            "title": "Travel to Samoa overview",
+            "file": "ireland/Samoa/Travel to Samoa overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Samoa/Safety and security.md"
         },
         {
+            "title": "Health",
+            "file": "ireland/Samoa/Health.md"
+        },
+        {
             "title": "Local laws and customs",
             "file": "ireland/Samoa/Local laws and customs.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Samoa/Additional information.md"
+            "title": "Natural disasters and climate",
+            "file": "ireland/Samoa/Natural disasters and climate.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/Samoa/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Samoa/Embassy contact.md"
         }
     ],
-    "update_date": "2023-11-22T00:00:00"
+    "update_date": "2025-05-29T00:00:00"
 }

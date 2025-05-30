@@ -3,12 +3,16 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/New Zealand/Overview.md"
+            "title": "Travel to New Zealand overview",
+            "file": "ireland/New Zealand/Travel to New Zealand overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/New Zealand/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/New Zealand/Health.md"
         },
         {
             "title": "Local laws and customs",
@@ -19,13 +23,13 @@
             "file": "ireland/New Zealand/Natural disasters and climate.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/New Zealand/Additional information.md"
+            "title": "Entry requirements",
+            "file": "ireland/New Zealand/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/New Zealand/Embassy contact.md"
         }
     ],
-    "update_date": "2024-11-06T00:00:00"
+    "update_date": "2025-05-29T00:00:00"
 }

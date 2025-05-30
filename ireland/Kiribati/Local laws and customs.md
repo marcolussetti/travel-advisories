@@ -1,12 +1,14 @@
 ## Local laws and customs
 
-### **Law and Crime**
-
 Remember, the local laws apply to you as a visitor and it is your responsibility to follow them. Be sensitive to local customs, traditions and practices as your behaviour may be seen as improper, hostile or may even be illegal.
 
 ### **LGBTQI+ Travellers**
 
 Kiribati law criminalizes same-sex relations. If you are convicted, you could face imprisonment, though enforcement of the law is rare.
+
+### **Travelers Who Require Accessibility Assistance**
+
+Accessibility of buildings, and communications and information for persons with disabilities is not mandated. There are no special accommodations for persons with disabilities.
 
 ### **Currency**
 

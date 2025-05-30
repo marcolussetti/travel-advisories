@@ -3,29 +3,33 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Tonga/Overview.md"
+            "title": "Travel to Tonga overview",
+            "file": "ireland/Tonga/Travel to Tonga overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Tonga/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Tonga/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Tonga/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Tonga/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/Tonga/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/Tonga/Natural disasters and climate.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/Tonga/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Tonga/Embassy contact.md"
         }
     ],
-    "update_date": "2023-11-23T00:00:00"
+    "update_date": "2025-05-29T00:00:00"
 }

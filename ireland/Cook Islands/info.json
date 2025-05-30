@@ -3,29 +3,33 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Cook Islands/Overview.md"
+            "title": "Travel to Cook Islands overview",
+            "file": "ireland/Cook Islands/Travel to Cook Islands overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Cook Islands/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Cook Islands/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Cook Islands/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Cook Islands/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/Cook Islands/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/Cook Islands/Natural disasters and climate.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/Cook Islands/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Cook Islands/Embassy contact.md"
         }
     ],
-    "update_date": "2023-11-17T00:00:00"
+    "update_date": "2025-05-29T00:00:00"
 }

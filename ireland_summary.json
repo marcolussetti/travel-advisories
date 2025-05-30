@@ -44,7 +44,7 @@
     {
         "destination": "Argentina",
         "risk_level": "Normal Precautions",
-        "last_updated": "2025-04-14T00:00:00",
+        "last_updated": "2025-05-29T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/argentina/"
     },
     {
@@ -134,7 +134,7 @@
     {
         "destination": "Bolivia",
         "risk_level": "High Degree of Caution",
-        "last_updated": "2025-02-18T00:00:00",
+        "last_updated": "2025-05-29T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/bolivia/"
     },
     {
@@ -152,7 +152,7 @@
     {
         "destination": "Brazil",
         "risk_level": "High Degree of Caution",
-        "last_updated": "2025-05-28T00:00:00",
+        "last_updated": "2025-05-29T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/brazil/"
     },
     {
@@ -266,7 +266,7 @@
     {
         "destination": "Cook Islands",
         "risk_level": "Normal Precautions",
-        "last_updated": "2023-11-17T00:00:00",
+        "last_updated": "2025-05-29T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/cook-islands/"
     },
     {
@@ -332,7 +332,7 @@
     {
         "destination": "Ecuador",
         "risk_level": "Avoid Non-Essential Travel",
-        "last_updated": "2025-05-28T00:00:00",
+        "last_updated": "2025-05-29T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/ecuador/"
     },
     {
@@ -590,7 +590,7 @@
     {
         "destination": "Kiribati",
         "risk_level": "Normal Precautions",
-        "last_updated": "2023-11-21T00:00:00",
+        "last_updated": "2025-05-29T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/kiribati/"
     },
     {
@@ -637,8 +637,8 @@
     },
     {
         "destination": "Lebanon",
-        "risk_level": "Do Not Travel",
-        "last_updated": "2024-08-06T00:00:00",
+        "risk_level": "Avoid Non-Essential Travel",
+        "last_updated": "2025-05-29T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/lebanon/"
     },
     {
@@ -824,7 +824,7 @@
     {
         "destination": "New Zealand",
         "risk_level": "Normal Precautions",
-        "last_updated": "2024-11-06T00:00:00",
+        "last_updated": "2025-05-29T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/new-zealand/"
     },
     {
@@ -848,7 +848,7 @@
     {
         "destination": "Niue",
         "risk_level": "Normal Precautions",
-        "last_updated": "2023-11-22T00:00:00",
+        "last_updated": "2025-05-29T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/niue/"
     },
     {
@@ -896,7 +896,7 @@
     {
         "destination": "Paraguay",
         "risk_level": "High Degree of Caution",
-        "last_updated": "2024-06-11T00:00:00",
+        "last_updated": "2025-05-29T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/paraguay/"
     },
     {
@@ -986,7 +986,7 @@
     {
         "destination": "Samoa",
         "risk_level": "Normal Precautions",
-        "last_updated": "2023-11-22T00:00:00",
+        "last_updated": "2025-05-29T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/samoa/"
     },
     {
@@ -1142,7 +1142,7 @@
     {
         "destination": "Tonga",
         "risk_level": "Normal Precautions",
-        "last_updated": "2023-11-23T00:00:00",
+        "last_updated": "2025-05-29T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/tonga/"
     },
     {

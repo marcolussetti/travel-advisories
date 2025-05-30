@@ -1,6 +1,6 @@
 ## Safety and security
 
-### **Social unrest**
+### **Social Unrest**
 
 There is a continual risk of demonstrations and strikes throughout the country. Occasional episodes of social unrest can affect main tourist areas, transportation and domestic and international travel without notice.
 
@@ -31,7 +31,7 @@ You should always:
 * Avoid leaving valuables, especially passports, in overhead compartments in long-distance buses;
 * Lock your room when returning to your hotel or accommodation.
 
-### **Serious crime**
+### **Serious Crime**
 
 There is a continuing risk of violent crimes against foreign nationals with reports of European nationals being attacked, robbed, sexually assaulted and threatened with murder. Some foreign tourists have been murdered.
 
@@ -48,10 +48,10 @@ If you want to drive:
 * Keep vehicle doors locked and bags kept out of sight to prevent opportunistic bag-snatching if stopped at traffic lights
 * Do not drive with windows open, particularly when wearing watches or using a mobile device.
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If hiring a vehicle, we advise not to hand over your passport as a form of security. If allowing your passport to be photocopied, keep it in sight at all times.
 
-### **Jeep tours**
+### **Jeep Tours**
 
 There have been a number of serious road accidents involving jeep tours including during visits to Uyuni and other Salt Flats areas, which have resulted in the deaths of several tourists. We recommend that you only hire reputable tour companies, check the conditions of vehicles, and wear seatbelts at all times. We also encourage drivers to drive safely and to respect speed limits.

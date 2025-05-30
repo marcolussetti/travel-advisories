@@ -3,29 +3,33 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Niue/Overview.md"
+            "title": "Travel to Niue overview",
+            "file": "ireland/Niue/Travel to Niue overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Niue/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Niue/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Niue/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Niue/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/Niue/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/Niue/Natural disasters and climate.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/Niue/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Niue/Embassy contact.md"
         }
     ],
-    "update_date": "2023-11-22T00:00:00"
+    "update_date": "2025-05-29T00:00:00"
 }
