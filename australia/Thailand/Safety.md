@@ -20,7 +20,7 @@ To stay safe during periods of unrest:
 
 #### Thailand-Cambodia border
 
-Thailand and Cambodia have an ongoing border dispute. There's a risk of landmines and unexploded weapons near the Thai-Cambodian border area.
+Thailand and Cambodia have an ongoing border dispute. Fighting between military forces has occurred along the Thai-Cambodian border. There's a risk of landmines and unexploded weapons near the border area.
 
 Be extra careful at tourist areas, including:
 

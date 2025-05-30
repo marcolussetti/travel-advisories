@@ -2,9 +2,9 @@
 
 #### Terrorism
 
-The terrorist threat in Indonesia is ongoing. Attacks could happen anywhere and anytime. This includes places that foreigners visit.
+The terrorist threat in Indonesia is ongoing. Attacks could happen anywhere and anytime, including in tourist locations.
 
-Be alert to possible threats. Take official warnings seriously and follow the advice of local authorities. Remain respectful of religious and local customs.
+Take official warnings seriously and follow the advice of local authorities. Remain respectful of religious and local customs.
 
 Indonesian authorities continue to investigate and disrupt terrorist groups in Indonesia, including Bali.
 
@@ -24,7 +24,7 @@ Terrorists in Indonesia may carry out small-scale violent attacks with little or
 
 Be alert in places of worship, especially during periods of religious significance.
 
-Terrorists have targeted places of worship in:
+Terrorists have previously targeted places of worship in:
 
 * Makassar
 * Surabaya
@@ -150,13 +150,9 @@ If you're travelling on foot, walk:
 If you're a victim of [sexual assault](/while-youre-away/crime/sexual-assault-overseas "I've been sexually assaulted overseas"):
 
 * seek immediate medical assistance. If you have any doubts about seeking medical assistance after a sexual assault, contact your nearest Australian Embassy or Consulate in Indonesia (see [Local contacts](#local-contacts)) as quickly as possible.
-* make a full statement to local police, in person, so they can conduct a criminal investigation. You may wish to seek consular help before you visit the police station. Contact your nearest Australian Embassy or Consulate (see [Local contacts](#local-contacts)).
+* make a full statement to local police, where the incident has occured, so they can conduct a criminal investigation. Local police will only investigate a crime that has been reported in person. You may wish to seek consular help before you visit the police station. Contact your nearest Australian Embassy or Consulate (see [Local contacts](#local-contacts)).
 
-Local police can only investigate a crime after you've left Indonesia if you've reported it.
-
-Your sworn statement, or statements by witnesses, can be used as evidence in criminal court proceedings.
-
-You don't always need to be in Indonesia for trial. Neither do witnesses who live outside of Indonesia.
+Your sworn statement, or statements by witnesses, can be used as evidence in criminal court proceedings. In some cases, you may be asked to return to Indonesia for the case to progress. 
 
 #### Counselling support
 
@@ -168,7 +164,7 @@ Should you wish to speak to a counsellor, you can call the 24-hour Consular Emer
 
 #### Bars and nightclubs
 
-Be alert in bars and nightclubs to the potential risks around drink spiking and methanol poisoning through consuming alcoholic drinks. Drink-spiking and snatching of valuables may occur if you're not alert. Cases of drink poisoning have been reported in Bali and Lombok.
+Be alert in bars and nightclubs to the potential risks around drink spiking and methanol poisoning through consuming alcoholic drinks. Drink-spiking and snatching of valuables may occur if you're not alert. Cases of drink poisoning have been reported in Indonesia, including in Bali and Lombok.
 
 Don't leave food or drinks unattended. See our advice on [Partying safely while overseas](/before-you-go/safety/partying "Partying safely").
 
@@ -347,11 +343,15 @@ Many trekking options may be on or around an active volcano. Many of Indonesia's
 
 #### Swimming safety
 
-People have drowned in coastal areas, including in Bali, due to rough seas, strong currents, or from swimming, snorkelling or scuba diving in areas where there is frequent passage of boats, resulting in collisions.
+Australians have drowned in coastal areas, due to rough seas and strong rip currents in including at popular beaches in Bali, Lombok, the Gili Islands, Labuan Bajo and Raja Ampat.
 
-Local beach rescue services may not be of the same standard as in Australia.
+Swimming conditions can vary and change rapidly. Before you dive into the water be informed:
 
-Saltwater crocodiles are in rivers throughout Indonesia. Avoid swimming around river estuaries and seek local advice in other locations.
+* Rip currents in Indonesian waters can be dangerous. They are responsible for several drownings of Australian tourists each year.
+* Most beaches do not have lifeguards or warnings about unsafe conditions.
+* Local beach rescue services may not be of the same standard as in Australia.
+* There have been instances of boats colliding with people swimming, snorkelling or scuba diving.
+* Saltwater crocodiles are in rivers throughout Indonesia. Avoid swimming around river estuaries and seek local advice in other locations.
 
 If you plan to spend time in or on the water:
 

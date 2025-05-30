@@ -71,7 +71,7 @@ Cannabis-based products such as cannabis oil and creams, hemp, CBD, THC, hash an
 
 #### Mpox
 
-To prevent the entry of new variants of Mpox to Indonesia, all travellers arriving at international ports in Indonesia need to complete an electronic health declaration form called the [SATUSEHAT Health Pass](https://sshp.kemkes.go.id/register).
+To prevent the entry of new variants of Mpox to Indonesia, all travellers arriving at international ports in Indonesia are required to complete an electronic health declaration form called the [SATUSEHAT Health Pass](https://sshp.kemkes.go.id/register).
 
 You can complete the form online before you check-in for your flight to Indonesia. After completing the form, a barcode containing your health and travel history will appear. Indonesian authorities will scan the barcode on arrival in Indonesia. Save your barcode or bring a printed copy with you, to ensure authorities can scan it on arrival. If you have Mpox symptoms you may be referred to a hospital for treatment on arrival.
 
@@ -87,7 +87,7 @@ Medical evacuation to Australia for medical conditions, is possible but is very 
 
 #### Liquid/syrup medication
 
-There have been cases of [Atypical Progressive Acute Kidney Injury (AKI) in children](https://www.who.int/indonesia/news/detail/01-03-2023-investigation-of-acute-kidney-injury-in-children-in-indonesia--results-and-regulatory-actions), especially under the age of 5 years, related to the use of contaminated liquid/syrup medication, including commonly used medications containing paracetamol and cough syrups. The purchase of liquid/syrup medication, especially for children, should be avoided.
+In 2023, there were cases of [Atypical Progressive Acute Kidney Injury (AKI) in children](https://www.who.int/indonesia/news/detail/01-03-2023-investigation-of-acute-kidney-injury-in-children-in-indonesia--results-and-regulatory-actions) related to the use of contaminated liquid/syrup medication, including commonly used medications containing paracetamol and cough syrups. The purchase of liquid/syrup medication, especially for children, should be avoided.
 
 #### Insect-borne illnesses
 
@@ -214,10 +214,11 @@ Magic mushrooms can cause major health problems, including:
 
 #### Rabies
 
-[Rabies](https://www.who.int/news-room/fact-sheets/detail/rabies) is present and is a risk throughout Indonesia, including at tourist destinations. Rabies can be fatal.
+[Rabies](https://www.who.int/news-room/fact-sheets/detail/rabies) is present and is a risk throughout Indonesia, including at tourist destinations. Rabies is 100% fatal. It is mainly transmitted by dogs, cats and monkeys, but can be transmitted by sea and land mammals.
 
 To protect yourself from rabies:
 
+* get vaccinated prior to travel
 * avoid direct contact with dogs
 * don't feed or touch animals
 * avoid contact with other animals, including bats and monkeys

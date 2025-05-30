@@ -93,14 +93,9 @@ Explore our [Ramadan](/before-you-go/major-events/ramadan "Ramadan") page to lea
 
 Aceh is governed as a special territory, not a province, and has a degree of special autonomy.
 
-Some aspects of sharia law are upheld. This includes regulations and punishments that don't apply in other parts of Indonesia.
+Sharia police enforce sharia law. This includes regulations and punishments that don't apply in other parts of Indonesia. Punishments may include caning, fines, and imprisonment.
 
-Local sharia police enforce sharia law.
-
-Sharia law applies to anyone in Aceh, including:
-
-* foreigners (expats and travellers)
-* non-Muslims
+Sharia law is intended for Muslims only. It may be applied to non-Muslims, including foreigners, in some circumstances.
 
 Sharia law doesn't allow:
 
@@ -113,7 +108,7 @@ Sharia law doesn't allow:
 
 It also requires a conservative standard of dress.
 
-Learn about the laws in Aceh. If in doubt, seek local advice.
+Take care to be respectful of local customs and social norms. Learn about the laws in Aceh. If in doubt, seek local advice.
 
 #### Dual citizenship
 

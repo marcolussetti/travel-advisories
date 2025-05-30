@@ -65,7 +65,7 @@ Indonesian Immigration and visa decisions are final. The Australian Government c
 
 Before entering Indonesia, ensure you understand your visa conditions and entry and exit requirements, including if you travel by private sea vessel. Check requirements with your travel provider, Indonesian Immigration, or the nearest [Embassy or Consulate of Indonesia](https://protocol.dfat.gov.au/Public/Missions/92) before you travel. The Australian Government can't intervene in immigration, customs or quarantine matters in other countries.
 
-To prevent the entry of new variants of Mpox to Indonesia, all travellers arriving at international ports in Indonesia need to complete an electronic health declaration form called the [SATUSEHAT Health Pass](https://sshp.kemkes.go.id/register).
+To prevent the entry of new variants of Mpox to Indonesia, the Ministry of Health requires all travellers arriving at international ports in Indonesia need to complete an electronic health declaration form called the [SATUSEHAT Health Pass](https://sshp.kemkes.go.id/register).
 
 You can complete the form online before you check-in for your flight to Indonesia. After completing the form, a barcode containing your health and travel history will appear. Indonesian authorities will scan the barcode on arrival in Indonesia. Save your barcode or bring a printed copy with you, to ensure authorities can scan it on arrival. If you have Mpox symptoms you may be referred to a hospital for treatment on arrival.
 
@@ -80,10 +80,11 @@ If you're staying in a private residence, including private Airbnb, not a hotel,
 * the local Rukun Tetangga Office
 * local police
 
-If you plan to be in Indonesia for more than 30 days:
+If you wish to extend your visa:
 
-* register with the local immigration office
-* make sure you have the right visa
+* register your stay permit application and upload required documents through the [evisa.imigrasi.go.id](https://evisa.imigrasi.go.id/) website
+* visit a local immigration office for an extension interview and photo
+* make sure you have the right visa for your circumstances
 
 **More information:**
 
@@ -260,15 +261,19 @@ Trains can be crowded, particularly:
 * around public holidays
 * during peak commuter times
 
-#### Travel between islands
+#### Marine Transport
 
-Travel by ferry or boat can be dangerous.
+Travel by boat or ferry can be dangerous. Commercial and private boat and ferry operators may not comply with international safety and maintenance standards. Australians have been seriously injured or have died in marine transport incidents. 
 
 Passenger and luggage limits aren't always observed.
 
 Equipment may not be properly maintained, and they may not have GPS or emergency communications equipment.
 
 There may not be enough life jackets. It's unlikely that the crew will have life jackets for children.
+
+In April 2025, an explosion occurred on a boat travelling from Nusa Lembongan to the Gili Islands, resulting in the hospitalisation of one passenger. 
+
+In March 2025, a tour boat capsized in rough seas near Nusa Penida, one person died and 12 passengers were injured. 
 
 In March 2024, a ferry sank in the Thousand Islands off the coast of Jakarta, resulting in one death, and a liveaboard boat caught fire and sank in Raja Ampat, Papua Barat Daya, requiring several passengers to be rescued.
 
@@ -277,10 +282,6 @@ In August 2023, two crew died after a boat carrying passengers sank in the Banya
 In July 2023, 15 people died after a ferry sank off Sulawesi Island.
 
 In January 2023, 23 passengers and 6 crew were rescued after an inter-island ferry sank while returning from Nusa Penida to Sanur Beach, Bali.
-
-In May 2022, 19 people died after a ferry sank in the Makassar Strait.
-
-In June 2018, a ferry sank on Lake Toba in Sumatra and 100s of people died.
 
 If you plan to travel by sea between islands:
 
@@ -296,7 +297,7 @@ Avoid travelling by water after dark unless the vessel is properly equipped. Avo
 
 **More information:**
 
-* [Travelling by boat](/before-you-go/getting-around/boat-travel "Travelling by boat")
+* [Travelling by boat](https://www.smartraveller.gov.au/before-you-go/getting-around/boat-travel)
 
 #### Air travel
 
