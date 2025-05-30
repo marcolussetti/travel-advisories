@@ -6,35 +6,41 @@ You must abide by local laws.
 
 Learn about what you should do and how we can help if you are [arrested or detained abroad](http://travel.gc.ca/assistance/emergency-info/arrest-detention).
 
-### Photography
-
-A valid permit is required for photography. These permits and the accompanying list of restrictions, such as military and government installations, are available from the Ministry of Culture and Tourism in Ouagadougou.
-
 ### Drugs
 
-Penalties for possession, use or trafficking of illegal drugs are severe.
+Penalties for possession, use or trafficking of illegal drugs are severe. Convicted offenders can expect jail sentences and heavy fines.
 
 [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
 
-### Ramadan
+### 2SLGBTQI+ persons
 
-In 2026, the lunar month of Ramadan is expected to begin on or around February 17.
+Burkinabe law criminalizes sexual acts and relationships between people of the same sex.
 
-In public, between sunrise and sunset, be discreet when:
+Those found guilty are subject to long prison sentences and heavy fines.
 
-* drinking
-* eating
-* smoking
+2SLGBTQI+ persons are regularly victims of discrimination based on their sexual orientation, gender identity, gender expression, or sex characteristics.
 
-### Dress and behaviour
+[Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
 
-Dress conservatively, behave discreetly, and respect religious and social traditions to avoid offending local sensitivities.
+### Photography
+
+It is prohibited to photograph installations that may be considered sensitive. This includes:
+
+* military sites
+* government buildings, including foreign diplomatic missions
+* places of worship and religious monuments
+* airports
+
+Ask for permission before taking photos of official buildings or people.
 
 ### Driving
 
-You should carry an international driving permit
+To drive in Burkina Faso, you must have:
 
-[More about the International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
+* a valid Canadian driver's license
+* an international driver's license
+
+[International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
 
 ### Dual citizenship
 
@@ -72,6 +78,10 @@ Be aware that Canadian consular officials cannot interfere in private legal matt
 
 ### Money
 
-The currency in Burkina Faso is the CFA franc (CFAF).
+The official currency of Burkina Faso is the CFA franc (FCFA).
 
-Burkina Faso is a cash-based economy. ATMs that work with foreign cards to withdraw local currency are available in the large cities. Euros and U.S. dollars can also be accepted at certain establishments. Credit cards are accepted at few establishments in the capital.
+Most transactions in Burkina Faso are made in cash. Bring small bills for payments, as it can be difficult to get change for your transactions.
+
+ATMs are available in major cities where you can withdraw CFA francs.
+
+Euros and US dollars are also accepted in some establishments. Credit cards are accepted in some businesses in Ouagadougou, but outside the capital, their use is very limited.

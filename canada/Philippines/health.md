@@ -302,7 +302,7 @@ Good medical services and facilities are limited in availability, especially out
 
 Quality of care varies greatly throughout the country.  Most hospitals will require a down payment of estimated fees at the time of admission. They may also require additional payments during hospitalization.
 
-Some hospitals require patients to have a full-time caregiver. You may have to hire one if you’re travelling alone.
+Some hospitals require patients to have a full-time caregiver. You may have to hire one if you're travelling alone.
 
 Emergency services are not widely available. Time response can be slow.
 
@@ -312,11 +312,11 @@ Make sure you get travel insurance that includes coverage for medical evacuation
 
 ### Medication
 
-Some medication that can be purchased over-the-counter in Canada is illegal in the Philippines. If you bring some medicines with you, you’re responsible for determining their legality before departing. If you enter the country with drugs locally considered illegal, including prescription drugs, you may be fined or detained.
+Some medication that can be purchased over-the-counter in Canada is illegal in the Philippines. If you bring some medicines with you, you're responsible for determining their legality before departing. If you enter the country with drugs locally considered illegal, including prescription drugs, you may be fined or detained.
 
 * Make sure your medicines are legal in the Philippines before departure
 * Bring your own medicines, but only in quantities sufficient for the duration of your stay
-* Seal and declare a separate quantity of prescription drugs before departing the Philippines if you’re travelling onward to another country
+* Seal and declare a separate quantity of prescription drugs before departing the Philippines if you're travelling onward to another country
 * Always keep your medication in the original container
 * Carry a copy of your prescriptions as well as a letter from your physician stating the dosage and your relevant medical condition
 * Pack your medicines in your carry-on luggage
@@ -331,6 +331,16 @@ Before leaving for medical travel:
 * use reputable health-care providers only
 
 [Receiving medical care outside Canada](https://travel.gc.ca/travelling/health-safety/medical-care-outside-canada)
+
+### Death abroad
+
+If you plan to retire or spend long periods of time in the Philippines, you should:
+
+* share your plans or wishes with relatives
+* make sure important documents can easily be located
+* make arrangements in case of your death while in the country
+
+[Death outside Canada](https://travel.gc.ca/assistance/emergency-info/death-abroad)
 
 ### Air pollution
 

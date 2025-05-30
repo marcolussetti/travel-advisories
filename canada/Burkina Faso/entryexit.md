@@ -43,6 +43,8 @@ Tourist visa: required
  Business visa: required  
  Student visa: required
 
+[Online visa application](https://applicant.visaburkina.bf/%23/) – Ministry of Security of Burkina Faso (in French only)
+
 ### Children and travel
 
 Learn more about [travelling with children](http://travel.gc.ca/travelling/children).

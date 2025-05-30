@@ -313,9 +313,25 @@ Travellers who may be at high risk while travelling in regions with risk of tube
 
 High-risk travellers include those visiting or working in prisons, refugee camps, homeless shelters, or hospitals, or travellers visiting friends and relatives.
 
+### Medication
+
+Some prescription medications may not be available in Burkina Faso.
+
+If you take prescription medications, you’re responsible for determining their legality in Burkina Faso.
+
+* Bring enough medication for your stay
+* Always keep your medication in the original container and carry a copy of your prescriptions
+* Pack your medication in your carry-on luggage
+
 ### Medical services and facilities
 
-Medical facilities and supplies are very limited outside the capital. Clinics and doctors often request cash payment.
+Medical services and facilities are significantly below Canadian standards. Access to quality health care is limited, even in major cities such as Ouagadougou and Bobo-Dioulasso.
+
+Equipment is often outdated and inadequate for major medical procedures. Medical facilities may lack basic supplies, particularly in rural areas.
+
+If you require medical care, you should contact the Embassy of Canada to Burkina Faso, in Ouagadougou, for recommendations on medical facilities.
+
+Clinics and doctors often request payment in cash.
 
 Make sure you get travel insurance that includes coverage for medical evacuation and hospital stays.
 

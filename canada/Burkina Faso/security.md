@@ -4,85 +4,101 @@
 
 ### Political situation
 
-Two coups d’état occurred in Burkina Faso in 2022. The situation remains unstable and could deteriorate rapidly.
+Two coups occurred in Burkina Faso in 2022. The country is ruled by a transitional government led by the military. In September 2023, the authorities announced a postponement of the presidential elections scheduled for July 2024. The situation remains unstable and could deteriorate rapidly.
 
 If you are in Burkina Faso:
 
 * remain vigilant
-* monitor local media to stay informed on the evolving situation
+* monitor local media regularly to stay informed of the situation
 * follow the instructions of local authorities
 
 ### Terrorism
 
-There is a threat of terrorism. There have been multiple attacks in Ouagadougou and elsewhere in the country, including against foreign interests.
+There is a threat of terrorism throughout Burkina Faso, particularly in areas bordering Niger, Mali, Togo, and Côte d'Ivoire, and in the following administrative regions:
 
-The terrorist threat as well as the risk of banditry and kidnapping are especially high in Burkina Faso’s border regions.
+* North
+* Sahel
+* East
+* Southwest
+* Boucle du Mouhoun
+* Centre-Nord
+* Center, where Ouagadougou is located
 
-Further attacks cannot be ruled out. Targets could include:
+The Burkinabe armed forces are unable to ensure security throughout the country. Counterterrorism operations carried out by the army and various armed militias regularly cause numerous civilian casualties.
 
-* government buildings, including schools
+Attacks occur frequently throughout the country and regularly target security forces and civilians. In the past, attacks have targeted Western interests in Burkina Faso.
+
+Further attacks are highly likely, particularly in areas controlled by terrorist groups.
+
+The following locations could be targeted:
+
+* government buildings, including police stations
+* schools
 * places of worship
-* extraction sites
-* airports and other transportation hubs and networks
-* public areas such as tourist attractions, restaurants, bars, coffee shops, shopping centres, markets, hotels and other sites frequented by foreigners
+* airports and other transportation hubs or networks
+* extraction sites and companies
+* public places such as tourist attractions, restaurants, bars, cafes, shopping centers, markets, hotels, and other places frequented by foreigners
 
-Always be aware of your surroundings when you are in public places. Be particularly vigilant during:
+Always be aware of your surroundings when in public places.
+
+Be particularly vigilant during:
 
 * sporting events
 * religious holidays
 * public celebrations
 * major political events, such as elections
 
-Terrorists may use such occasions to mount attacks.
+Terrorists may take advantage of these occasions to carry out attacks.
 
 ### State of emergency
 
-There is a state of emergency in 8 regions:
+A state of emergency is in effect in eight regions:
 
-* Boucle du Mouhoun
+* Mouhoun Loop
 * Cascades
-* Center North
+* Center-North
 * Center-East
 * East
 * Hauts-Bassins
 * North
 * Sahel
 
-Local authorities periodically declare a state of emergency in various regions due to terrorism threats.
+Local authorities have extended the state of emergency in various regions several times due to the ongoing terrorist threat.
 
-When a state of emergency is in effect, security forces have increased rights to:
+When the state of emergency is in force, security forces have increased powers to:
 
-* impose curfews and restrict movement without notice
+* restrict freedom of movement
 * conduct searches
-* proceed with seizures
+* make seizures
 * detain persons of interest
 
-Some civil rights may be suspended, including the right to protest and to hold large meetings.
+If you are traveling in an area where a state of emergency is in effect:
 
-If you are travelling in a region where a state of emergency is in effect:
-
-* be aware that you may be subject to searches by security forces
-* always cooperate with military and police officers
-* carry valid ID at all times and be prepared for various checkpoints
+* expect multiple checkpoints
+* always carry valid identification
 * allow extra time to reach your destination
 * follow the instructions of local authorities
-* monitor local news to stay informed on the current situation
+* monitor local media to stay informed about the situation
 
-### Kidnapping
+### Kidnappings
 
-Kidnappings occur regularly. The threat varies according to the regions, however it’s especially high in the border areas with Niger and Mali. Kidnappers have targeted foreigners.
+Kidnappings by criminal and terrorist groups, as well as by members of the country's de facto authorities, occur regularly. The threat of kidnapping varies by region but is particularly high in areas bordering Niger and Mali. Kidnappers have already targeted foreigners.
 
-If you plan to travel to Burkina Faso despite the risks:
+If you are in Burkina Faso despite the advisory:
 
-* be vigilant at all times
-* use varied and unpredictable routes and itineraries
-* travel only in a convoy of at least two vehicles for long trips
-* use an armed security escort
-* if you are threatened, don’t resist
+* always be extremely cautious
+* choose accommodation with adequate security measures
+* travel using varied and unpredictable routes and schedules
+* travel only in convoys of at least two vehicles for long journeys
+* have an armed security escort
+
+In the event of kidnapping, do not resist, as criminals are often armed and may become violent.
 
 ### Demonstrations
 
-Demonstrations take place from time to time. Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation.
+Demonstrations occur occasionally, particularly in Ouagadougou. They often take place near government buildings, certain foreign diplomatic missions, and international organizations such as the UN. Most of the time, demonstrators denounce the precarious security situation and international reactions to the country's internal affairs.
+
+Even peaceful demonstrations can turn violent. They can also lead to disruptions to traffic and public transportation.
 
 * Avoid areas where demonstrations and large gatherings are taking place
 * Follow the instructions of local authorities
@@ -90,45 +106,119 @@ Demonstrations take place from time to time. Even peaceful demonstrations can tu
 
 [Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
 
-### Banditry
-
-Incidents of illegal roadblocks and carjacking have occurred. Armed criminals don’t hesitate to shoot at vehicles to stop and rob their occupants. The following regions are particularly prone to such incidents:
-
-* eastern
-* central
-* east-central
-* north-central
-* central plateau
-
-However, such incidents can also happen in other areas, day or night, on both main and secondary roads.
-
-* Exercise caution at all times
-* If possible, travel in a convoy
-* Avoid travelling during early morning hours and after sundown
-* In the event that you are attacked, don’t resist and contact the local authorities as soon as possible (Gendarmerie – numéro vert 10 10)
-
 ### Crime
 
-Petty crime, such as pickpocketing and purse snatching, occurs in major cities. In Ouagadougou, the areas around the United Nations roundabout and Central Market are often targeted by thieves. Petty crime occurs to a lesser degree elsewhere in the country.
+#### Petty crime
 
-* Ensure that your personal belongings, including your passport and other travel documents, are secure at all times
-* Avoid showing signs of affluence and walking alone after dark
-* Always carry a legally certified photocopy of your passport’s identification page
+Petty crimes, such as pickpocketing, bag snatching, and cell phone theft, occur, particularly in large cities. The risk is higher after dark.
 
-### Road safety
+In Ouagadougou, thefts often occur in the area near the United Nations roundabout and the central market.
 
-Driving in Burkina Faso can be challenging. Roads are generally narrow, unpaved and poorly lit. Pedestrians, bicycles, carts, vehicles without headlights and potholes pose hazards to drivers. Many trucks transit the country at night. Travel after dark is not recommended.
+Criminals target individuals carrying:
+
+* cell phones
+* jewelry
+* money
+* any other valuable items.
+
+During your stay:
+
+* peep your personal belongings, including your passport and other travel documents, in a safe place
+* avoid displaying signs of wealth or wearing valuable jewelry
+* avoid carrying large amounts of cash or valuables unnecessarily
+* avoid walking alone after dark
+* be aware of your surroundings, especially in busy tourist areas
+
+#### Violent crime
+
+Criminal groups operate throughout the country, including in Ouagadougou. Burkinabe security forces are conducting operations to counter violent crime committed by these groups, but the security situation remains precarious.
+
+Crimes include:
+
+* murder
+* armed robbery
+* burglary
+* physical assault
+* car theft and carjacking
+
+Pay close attention to your surroundings when withdrawing money from ATMs. Attacks occur near withdrawal points, known as “Orange Money.”
+
+Criminal groups sometimes set up illegal roadblocks. They even fire warning shots to force vehicles to stop and rob passengers.
+
+The most affected areas are the following regions:
+
+* Eastern
+* Central
+* Central-Eastern
+* Central-Northern
+* Central Plateau
+
+These incidents can also occur in other regions, day or night, on main roads and secondary roads.
+
+* Be aware of your surroundings at all times
+* Avoid isolated areas
+* Travel in group
+* Pay attention to people walking behind you
+* Do not resist if you are attacked
+
+### 2SLGBTQI+ persons
+
+2SLGBTQI+ persons are victims of verbal and physical violence in Burkina Faso.
+
+They are also subject to discrimination based on their sexual orientation, gender identity, gender expression, or sex characteristics.
+
+Avoid public displays of affection.
+
+[Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
+
+### Roads
+
+#### Road safety
+
+Drivers are reckless and often ignore traffic laws. Vehicles cut each other off and don't yield to other people on the road. Pedestrians almost never use crosswalks to cross the street.
+
+Drivers often speed and can be aggressive. Dangerous behavior occurs even at night when roads are poorly lit and not all cars have working headlights.
+
+Outside the capital, Ouagadougou, improvised explosive devices pose a real threat on the roads.
+
+Many trucks travel across the country at night.
+
+If you choose to drive in Burkina Faso:
+
+* always drive defensively
+* avoid traveling alone after dark
+* use only main roads and highways
+* be wary of strangers offering assistance
+* always keep doors and windows closed and locked
+* always carry a cell phone and charger with you
+* never leave your personal belongings in an unattended vehicle, even in the trunk
+* park your vehicle in a safe place, especially at night
+
+#### Road conditions
+
+Roads are in poor condition throughout the country. Driving can be dangerous due to:
+
+* potholes
+* inadequate lighting
+* uneven unpaved roads
+* poorly maintained roads
+* poorly maintained vehicles that do not use their headlights
+* stray animals, pedestrians, various types of homemade vehicles, and debris
+
+Road conditions can deteriorate rapidly during the rainy season. Roads can quickly become impassable.
 
 ### Public transportation
 
-Public transportation is not recommended.
+You should avoid using public transportation in Burkina Faso. The vast majority of vehicles, such as buses, are in poor condition and are often involved in accidents.
+
+Criminal groups also target buses on the road outside Ouagadougou to commit robberies.
+
+#### Taxis
+
+Only use reputable taxi companies through establishments such as hotels. Most taxis don’t use meters and vehicles are generally not in good condition.
 
 ### Air travel
 
 We do not make assessments on the compliance of foreign domestic airlines with international safety standards.
 
 [Information about foreign domestic airlines](https://travel.gc.ca/air/in-flight-safety#other)
-
-### Mobile networks
-
-Local mobile networks can be unreliable.

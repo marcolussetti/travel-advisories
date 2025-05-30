@@ -2,27 +2,6 @@
 
 ## Safety and security
 
-### Regional and legislative elections
-
-Regional and legislative elections are scheduled for May 25, 2025
-
-Demonstrations and social unrest may occur before, during and after the elections, especially in major cities across the country. The security situation can deteriorate without warning.
-
-Authorities may impose curfews and restrict movement without notice. They have used violence and lethal force during past demonstrations. You could be arrested and detained without cause.
-
-Demonstrations may disrupt traffic and public transportation. Access to Simón Bolívar International Airport may be affected.
-
-If you are in Venezuela:
-
-* limit your movements
-* avoid areas around government buildings and where demonstrations and large gatherings are taking place
-* avoid areas where security forces are present
-* expect heavy security measures and increased security presence
-* follow local media to stay informed on the evolving situation
-* follow the instructions of local authorities
-
-[More information on demonstrations and social unrest](#demonstrations)
-
 ### Border areas
 
 #### Guyana
@@ -164,9 +143,10 @@ Demonstrations can take many forms, including:
 
 Demonstrations can lead to disruptions to traffic and public transportation.
 
-* Avoid areas where demonstrations and large gatherings are taking place
+* Avoid areas around government buildings and where demonstrations and large gatherings are taking place
 * Don’t attempt to cross road blockades, even if they appear unattended
 * Don’t participate in political discussions or activities in public, or appear to take sides on any local issue related to the current political situation
+* Expect heavy security measures and increased security presence
 * Follow the instructions of local authorities
 * Monitor local media for information on ongoing demonstrations
 

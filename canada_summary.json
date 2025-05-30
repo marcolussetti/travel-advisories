@@ -205,8 +205,8 @@
     },
     {
         "destination": "Burkina Faso",
-        "risk_level": "Avoid all travel (with regional advisories)",
-        "last_updated": "2025-05-21T13:56:22",
+        "risk_level": "Avoid all travel",
+        "last_updated": "2025-05-29T10:00:33",
         "details_url": "https://travel.gc.ca/destinations/burkina-faso"
     },
     {
@@ -416,7 +416,7 @@
     {
         "destination": "Fiji",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2025-05-26T12:59:27",
+        "last_updated": "2025-05-29T09:28:55",
         "details_url": "https://travel.gc.ca/destinations/fiji"
     },
     {
@@ -950,7 +950,7 @@
     {
         "destination": "Panama",
         "risk_level": "Take normal security precautions (with regional advisories)",
-        "last_updated": "2025-05-21T13:56:22",
+        "last_updated": "2025-05-29T14:16:18",
         "details_url": "https://travel.gc.ca/destinations/panama"
     },
     {
@@ -974,7 +974,7 @@
     {
         "destination": "Philippines",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-05-28T04:15:55",
+        "last_updated": "2025-05-29T08:59:27",
         "details_url": "https://travel.gc.ca/destinations/philippines"
     },
     {
@@ -1346,7 +1346,7 @@
     {
         "destination": "Venezuela",
         "risk_level": "Avoid all travel",
-        "last_updated": "2025-05-23T16:34:02",
+        "last_updated": "2025-05-29T10:25:07",
         "details_url": "https://travel.gc.ca/destinations/venezuela"
     },
     {

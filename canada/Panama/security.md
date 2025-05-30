@@ -2,6 +2,16 @@
 
 ## Safety and security
 
+### State of emergency in Bocas del Toro Province
+
+A state of emergency was declared in Bocas del Toro Province on May 27, 2025, following several weeks of demonstrations.
+
+If you're in the affected area:
+
+* carry valid ID at all times
+* follow the instructions of local authorities
+* monitor local media to stay informed on the evolving situation
+
 ### Nationwide demonstrations
 
 Nationwide demonstrations have been occurring frequently since late April 2025, causing travel disruptions. Roadblocks have been set up and public transport disrupted at times in the following areas:

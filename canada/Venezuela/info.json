@@ -1,7 +1,7 @@
 {
     "name": "Venezuela",
-    "update_reason": "Safety and security \u2013 updated the Safety and security section ahead of upcoming elections in Venezuela",
-    "update_date": "2025-05-23T16:34:00",
+    "update_reason": "Safety and security \u2013 removed information on elections and updated information on demonstrations and social unrest",
+    "update_date": "2025-05-29T10:25:00",
     "sections": {
         "risk": "canada/Venezuela/risk.md",
         "security": "canada/Venezuela/security.md",
