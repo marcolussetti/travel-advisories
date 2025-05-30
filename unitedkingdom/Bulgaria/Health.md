@@ -42,7 +42,7 @@ Most Bulgarian hospitals are basic and old-fashioned compared to those in the UK
 
 Private clinics and hospitals are generally well-equipped and not expensive in comparison with the UK.
 
-Foreign tourists have sometimes been overcharged in private clinics in tourist resorts. Hotels or resorts my call private ambulances. If you use private medical services, agree a price in advance. Ask whether there is a suitable public health facility nearby if you want to use a health insurance card, as these are not accepted by many private hospitals.
+Foreign tourists have sometimes been overcharged in private clinics in tourist resorts. Hotels or resorts may call private ambulances. If you use private medical services, agree a price in advance. Ask whether there is a suitable public health facility nearby if you want to use a health insurance card, as these are not accepted by many private hospitals.
 
 ### Health insurance cards
 

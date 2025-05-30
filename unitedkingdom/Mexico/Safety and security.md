@@ -14,6 +14,8 @@ Terrorist attacks in Mexico cannot be ruled out.
 
 ## Political situation
 
+Mexico will hold judicial elections on 1 June 2025. It is possible that there may be an increase in political demonstrations and travel disruptions. Avoid any demonstrations and move away quickly. Be aware of the potential for disruption and monitor local media.
+
 Political demonstrations are common in Mexico City and can happen across the country. Demonstrations can be tense, confrontational and potentially violent. Onlookers can be quickly drawn in.
 
 It is illegal for foreign nationals to participate in political activities in Mexico. If you join demonstrations, the Mexican authorities may detain and deport you.

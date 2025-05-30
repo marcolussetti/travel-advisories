@@ -38,7 +38,7 @@ People have been robbed after eating drugged food. Do not accept food or drink f
 
 ### Burglary and violent assault
 
-There is a risk of house burglaries and violent assault, including by armed gangs. There has been an increase in break-ins in Lilongwe, Blantyre and Limbe, including violent assaults on residents. Review your security systems and watch out for anything unusual.
+There is a risk of  burglaries and violent assault, including by armed gangs. A group of UK tourists were violently assaulted and robbed in 2025 in their hotel in Mulanje. There has been an increase in break-ins in Lilongwe, Blantyre and Limbe, including violent assaults on residents. Review your security systems and watch out for anything unusual.
 
 ## Climbing Mulanje Mountain
 

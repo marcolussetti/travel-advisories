@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 April 2025
+:   30 May 2025
 
 Updated:
-:   25 April 2025
+:   29 May 2025
 
 Latest update:
-:   New information on what health risks you’ll face in Malawi, including mpox ('Health' page).
+:   Information of attack on group of British tourists in Mulanje ('Safety and Security' page).
 
 ## Before you travel
 

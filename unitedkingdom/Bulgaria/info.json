@@ -1,11 +1,11 @@
 {
     "name": "Bulgaria",
-    "update_reason": "Update to information on expected rollout of the EU Entry/Exit System (EES) (\u2018Entry requirements\u2019 page).",
+    "update_reason": "New information about illegal drugs and risks from working with migrants in border regions (\u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Bulgaria/Warnings and insurance.md",
-            "update_date": "2025-03-17T14:13:38+00:00"
+            "update_date": "2025-05-29T15:19:59+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Bulgaria/Getting help.md"
         }
     ],
-    "update_date": "2025-03-17T14:13:38+00:00"
+    "update_date": "2025-05-29T15:19:59+01:00"
 }

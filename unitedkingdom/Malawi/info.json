@@ -1,11 +1,11 @@
 {
     "name": "Malawi",
-    "update_reason": "New information on what health risks you\u2019ll face in Malawi, including mpox ('Health' page).",
+    "update_reason": "Information of attack on group of British tourists in Mulanje ('Safety and Security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Malawi/Warnings and insurance.md",
-            "update_date": "2025-04-25T12:23:10+01:00"
+            "update_date": "2025-05-29T11:50:38+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Malawi/Getting help.md"
         }
     ],
-    "update_date": "2025-04-25T12:23:10+01:00"
+    "update_date": "2025-05-29T11:50:38+01:00"
 }

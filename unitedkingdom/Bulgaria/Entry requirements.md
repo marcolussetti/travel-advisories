@@ -9,15 +9,15 @@ The authorities in Bulgaria set and enforce entry rules. If you’re not sure ho
 Bulgaria follows [Schengen area rules](https://europa.eu/youreurope/citizens/travel/entry-exit/non-eu-nationals/index_en.htm). Your passport must have:
 
 * a ‘date of issue’ less than 10 years before the date you arrive – if you renewed your passport before 1 October 2018, it may have a date of issue that is more than 10 years ago
-* an ‘expiry date’ at least 3 months after the date you plan to leave the Schengen area
+* an ‘expiry date’ at least 3 months after the date you plan to leave the Schengen area (the expiry date does not need to be within 10 years of the date of issue)
 
 Check with your travel provider that your passport and other travel documents meet requirements. [Renew your passport](https://www.gov.uk/renew-adult-passport/renew) if you need to.
 
 You will be denied entry if you do not have a valid travel document or try to use a passport that has been reported lost or stolen.
 
-Carry your passport if you travel from Bulgaria to other Schengen area countries. Border guards will check it if you cross land or river borders into Greece or Romania, both in the Schengen area.
+Carry your passport if you travel from Bulgaria to other Schengen area countries. Border guards may check it if you cross land or river borders into Greece or Romania, both in the Schengen area.
 
-There are no routine checks when travelling by air or sea within the Schengen area, but carry your passport in case you’re asked for it.
+There are no routine checks when travelling by air or sea within the Schengen area, but carry your passport in case you’re asked for it. Most carriers require official photo ID.
 
 ## Visa requirements
 

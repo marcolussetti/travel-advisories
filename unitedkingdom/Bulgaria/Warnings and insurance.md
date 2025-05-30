@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   30 May 2025
 
 Updated:
-:   17 March 2025
+:   29 May 2025
 
 Latest update:
-:   Update to information on expected rollout of the EU Entry/Exit System (EES) (‘Entry requirements’ page).
+:   New information about illegal drugs and risks from working with migrants in border regions (‘Safety and security’ page).
 
 ## Before you travel
 

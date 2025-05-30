@@ -58,6 +58,8 @@ Always carry ID. A printed copy of the photo page of your passport is acceptable
 
 The Bulgarian authorities treat all drug-related and sex offences very seriously. Any foreign nationals convicted of such offences can expect a prison sentence.
 
+Whilst widely available in resort areas, the use of nitrous oxide (‘laughing gas’) for non-medicinal purposes is now illegal.
+
 ### Drunken and disorderly behaviour
 
 Offences relating to drunken, disorderly behaviour and hooliganism may be treated more seriously than in the UK. Police can arrest or fine anyone for loud and boisterous behaviour or urination in public places.
@@ -69,6 +71,10 @@ Crowd control measures and stewarding can be different from the UK and there hav
 ### Using cameras and binoculars in secure areas
 
 Avoid taking photographs near potentially sensitive areas like military establishments. If in doubt, ask permission.
+
+### Working with migrants in border regions
+
+Assisting people who have entered Bulgaria illegally, or who are passing through Bulgaria to claim asylum in another country, risks breaking Bulgarian laws. It makes no difference whether you are helping them for profit or not – you are still at risk of breaking Bulgarian law. You can be arrested, detained and charged if you are suspected of facilitating illegal entry or stay in Bulgaria, including by helping with accommodation or transport. If you travel to Bulgaria to support civil society organisations working with migrants, seek advice from local expert organisations such as the [IOM](https://bulgaria.iom.int/), [UNHCR](https://www.unhcr.org/countries/bulgaria) or [Bulgarian Helsinki Committee](https://www.bghelsinki.org/en) to make sure that your proposed actions do not break Bulgarian laws.
 
 ### Race-related incidents
 
@@ -82,7 +88,7 @@ Same-sex sexual activity is not illegal, but public attitudes are less tolerant 
 
 There are a few gay bars and clubs in Sofia. The city also holds the annual Sofia Pride. Sofia Pride is growing in popularity and was attended in recent years by over 10,000 people. However, it attracts some negative attention locally and is held with a heightened police presence and security measures. If you want to join the parade, read the organisers’ [Sofia Pride safety rules](http://en.sofiapride.org/terms-for-participation-and-safety-rules/).
 
-In 2023, some verbal abuse and threatening behaviour was directed at people attending events related to Sofia Pride, including foreign visitors. You can report any hate crime to the organisers and the local police.
+In recent years, some verbal abuse and threatening behaviour was directed at people attending events related to Sofia Pride, including foreign visitors. You can report any hate crime to the organisers and the local police.
 
 Attitudes outside Sofia tend to be more conservative. There have been isolated cases of hostility towards people perceived to be from LGBT+ communities reported in Burgas and Plovdiv. You can find local information on LGBT+ issues in Bulgaria on the website of the [Bulgarian Helsinki Committee](https://www.bghelsinki.org/en/themes/lgbti).
 
