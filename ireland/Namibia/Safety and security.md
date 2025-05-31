@@ -24,7 +24,9 @@ If a victim of a crime while in Namibia, report it to the local police immediate
 
 ### **Road Safety**
 
-Roads are reasonably good in Namibia relative to regional standards but, still, often unpaved. If planning to drive in Namibia, be extremely careful and plan your journey well. When driving outside towns, wildlife and stray livestock can pose a serious hazard, particularly at night. Note that the police operate many checkpoints, particularly outside Windhoek
+Roads are reasonably good in Namibia relative to regional standards but, still, often unpaved. If planning to drive in Namibia, be extremely careful and plan your journey well. When driving outside towns, wildlife and stray livestock can pose a serious hazard, particularly at night. Note that the police operate many checkpoints, particularly outside Windhoek.
+
+Travellers are advised that under Namibian law, tourists hiring a self-drive vehicle must hold a valid international driver’s license or an officially translated document of their national driver’s license. Authorities have the legal right to reject clients traveling on Namibian roads without the necessary documentation.
 
 ### Practical Advice
 

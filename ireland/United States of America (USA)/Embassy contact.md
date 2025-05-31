@@ -40,6 +40,8 @@ USA
 
 [Tel: +1 512 792 5500](tel:+1512 792 5500)
 
+Our Consular Region covers Texas, Oklahoma, Arkansas, Missouri, Kansas, and Louisiana.
+
 [**Contact us**](/en/usa/austin/contact/)
 
 ### Consulate General of Ireland, Boston
