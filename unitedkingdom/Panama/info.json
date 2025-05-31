@@ -1,11 +1,11 @@
 {
     "name": "Panama",
-    "update_reason": "Addition of information that you must complete an immigration and customs declaration form when entering Panama. Panamanian authorities recommend completing their digital form ('Entry requirements' page).",
+    "update_reason": "Announcement of a state of emergency in Bocas Del Toro province (See \u2018Political situation\u2019 on the \u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Panama/Warnings and insurance.md",
-            "update_date": "2025-02-10T15:18:51+00:00"
+            "update_date": "2025-05-30T17:31:09+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Panama/Getting help.md"
         }
     ],
-    "update_date": "2025-02-10T15:18:51+00:00"
+    "update_date": "2025-05-30T17:31:09+01:00"
 }

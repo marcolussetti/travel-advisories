@@ -12,6 +12,8 @@ Although there is no recent history of terrorism in Panama, attacks cannot be ru
 
 ## Political situation
 
+On 27 May, the Panamanian government announced a state of emergency in Bocas del Toro province in response to ongoing strikes and protests. If you are in the province, stay away from protests and be alert to further announcements by the local authorities.
+
 Protests can be unpredictable, occur at short notice and escalate quickly. Avoid protests and demonstrations, monitor local media and follow advice from local authorities. Avoid travelling around protest-affected areas at night. Protests may be particularly large in Colón City.
 
 Protests often involve informal road blocks and can affect access to the border crossing into Costa Rica at Paso Canoas and international airports. Check your route and alternatives before travelling. If you are unable to reach an airport for a planned flight, contact your airline to make alternative arrangements.

@@ -2,11 +2,7 @@
 
 This information is for people travelling on a full [‘British citizen’ passport](https://www.gov.uk/types-of-british-nationality) from the UK. It is based on the UK government’s understanding of the Marshall Islands’ current rules for the most common types of travel.
 
-The authorities in the Marshall Islands set and enforce entry rules. If you’re not sure how these requirements apply to you, contact the [Marshall Islands Office of Commerce, Investment and Tourism](https://www.rmiocit.org/tourism) or the Marshall Islands Visitors Authority (MIVA):
-
-Email: [tourism@ntamar.com](mailto:tourism@ntamar.com)  
-Phone: +692 625 6482  
-Fax: +692 625 6771
+The authorities in the Marshall Islands set and enforce entry rules. If you’re not sure how these requirements apply to you, contact the [Marshall Islands Office of Commerce, Investment and Tourism](https://www.rmiocit.org/tourism) or the Marshall Islands Visitors Authority (MIVA).
 
 ## Passport validity requirements
 
@@ -18,17 +14,13 @@ You will be denied entry if you do not have a valid travel document or try to us
 
 ## Visa requirements
 
-You must have a visa to enter the Marshall Islands.
+British citizen passport holders with an onward or return ticket do not require a visa to enter the Marshall Islands for up to 90 days.
 
-If you are visiting, you will get a visa on arrival. To work or study, you must apply before you travel.
+If you are visiting, you will get a visa waiver on arrival. To work or study, you must apply before you travel.
 
-### Applying for a visa
+### Applying for a visa and contact for enquiries
 
-To apply for a visa, contact [Marshall Islands Office of Commerce, Investment and Tourism](https://www.rmiocit.org/tourism) or the Marshall Islands Visitors Authority (MIVA) before you travel:
-
-Email: [tourism@ntamar.com](mailto:tourism@ntamar.com)  
-Phone: +692 625 6482  
-Fax: +692 625 6771
+To apply for a visa, or for further enquiries contact [Marshall Islands Office of Commerce, Investment and Tourism](https://www.rmiocit.org/tourism) or MIVA.
 
 ### Travelling through a US territory
 

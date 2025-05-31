@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   17 April 2025
+:   31 May 2025
 
 Updated:
-:   16 April 2025
+:   30 May 2025
 
 Latest update:
-:   Updated information on health risks in Slovenia(‘Health’ page).
+:   New information on following safety advice about bears if you go hiking ('Safety and security' page).
 
 ## Before you travel
 

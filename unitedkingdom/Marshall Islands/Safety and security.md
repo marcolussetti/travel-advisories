@@ -16,7 +16,7 @@ Crime rates are low in the Marshall Islands, but there is a risk of petty crime,
 
 ## Laws and cultural differences
 
-### Illegal drugs penalties
+### Illegal drugs
 
 There are severe penalties for all drug offences, including long prison sentences and heavy fines.
 
@@ -39,6 +39,8 @@ Wear a life jacket for canoeing, kayaking or fishing. Follow your dive centre’
 See [water safety on holiday](https://www.rlss.org.uk/safety-on-holiday) from the Royal Life Saving Society.
 
 ## Extreme weather and natural disasters
+
+Find out what you can do to [prepare for and respond to extreme weather and natural hazards](https://www.gov.uk/guidance/tropical-cyclones).
 
 There is a risk of cyclones, floods and severe drought in the Marshall Islands, although they are rare.
 

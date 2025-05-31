@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   29 May 2025
+:   31 May 2025
 
 Updated:
-:   28 May 2025
+:   30 May 2025
 
 Latest update:
-:   New information about a national strike that is taking place across the country (‘Warnings and insurance’ page).
+:   New information on yellow fever (‘Entry requirements’ and ‘Health’ pages).
 
 ![](https://assets.publishing.service.gov.uk/media/67c05135b0bb6528ee866b96/FCDO_TA_054_-_Colombia_Travel_Advice_Ed3_WEB.jpg)
 
@@ -61,16 +61,6 @@ FCDO advises against all but essential travel to within 5km of the border with E
 FCDO advises against all but essential travel to Orito, San Miguel, Valle del Guamuez, Puerto Caicedo, Puerto Guzmán, Puerto Asis and Puerto Leguizamo in Putumayo Department.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/colombia/regional-risks).
-
-## Yellow fever
-
-There are increasing cases of yellow fever in Colombia, especially in the Departments of Tolima and Cundinamarca. Yellow fever vaccination certificates are required for travellers who have recently visited or transited higher-risk countries or those visiting areas of higher risk within Colombia. Consult the [NaTHNac website: Colombia](https://travelhealthpro.org.uk/country/53/colombia#Vaccine_Recommendations) for more information, including on vaccination.
-
-## National strikes
-
-On 28-29 May, a national strike is taking place across the country, particularly in the capital Bogota. Road closures and transport disruptions are expected.
-
-Follow the advice of local authorities, allow extra time to reach your destination and monitor local media, including social media channels. See [Safety and security](https://www.gov.uk/foreign-travel-advice/colombia/safety-and-security).
 
 ## Before you travel
 

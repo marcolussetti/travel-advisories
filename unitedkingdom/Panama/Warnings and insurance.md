@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   31 May 2025
 
 Updated:
-:   10 February 2025
+:   30 May 2025
 
 Latest update:
-:   Addition of information that you must complete an immigration and customs declaration form when entering Panama. Panamanian authorities recommend completing their digital form ('Entry requirements' page).
+:   Announcement of a state of emergency in Bocas Del Toro province (See ‘Political situation’ on the ‘Safety and security’ page).
 
 ## Before you travel
 

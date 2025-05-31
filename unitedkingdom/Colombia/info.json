@@ -1,11 +1,11 @@
 {
     "name": "Colombia",
-    "update_reason": "New information about a national strike that is taking place across the country (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "New information on yellow fever (\u2018Entry requirements\u2019 and \u2018Health\u2019 pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Colombia/Warnings and insurance.md",
-            "update_date": "2025-05-28T14:37:57+01:00"
+            "update_date": "2025-05-30T13:07:59+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Colombia/Getting help.md"
         }
     ],
-    "update_date": "2025-05-28T14:37:57+01:00"
+    "update_date": "2025-05-30T13:07:59+01:00"
 }

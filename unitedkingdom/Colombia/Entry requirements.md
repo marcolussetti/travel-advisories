@@ -54,7 +54,7 @@ Departure tax is usually included in the price of the airline ticket, but check 
 
 ## Vaccine requirements
 
-To enter Colombia, you must have a certificate to prove you’ve had a yellow fever vaccination if you are arriving from certain countries with a transmission risk.
+To enter Colombia, you must have a certificate to prove you’ve had a yellow fever vaccination if you are arriving from certain countries with a transmission risk. You may also be asked to show it if you are travelling to areas in Colombia which are considered high risk. Carry your vaccination certificate at all times.
 
 For full details about medical entry requirements and recommended vaccinations, see [TravelHealthPro’s Colombia guide](https://travelhealthpro.org.uk/country/53/colombia#Vaccine_Recommendations).
 

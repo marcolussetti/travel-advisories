@@ -44,6 +44,7 @@ If you plan to hike in Slovenia:
 * tell family or friends of your plans
 * check whether mountain cabins are open
 * do not use hiking trails that have been closed or take shortcuts
+* follow local safety advice about bears. Bears are present in wooded areas throughout Slovenia, including near cities. In 2025 a bear attacked a person walking their dog in Skofljica, 6 miles southeast of Ljubljana.  See [What to do when encountering a bear](https://www.gov.si/novice/2025-04-10-kako-ravnati-ob-srecanju-z-medvedom/) if you encounter a bear.
 
 Some demanding mountain trails can include sections of via ferrata (steel wires and metal rungs), which need a climbing harness and helmet.
 
