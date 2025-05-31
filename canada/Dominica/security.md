@@ -2,12 +2,6 @@
 
 ## Safety and security
 
-### Political demonstrations
-
-Tensions may continue to rise in Roseau following demonstrations on March 19, 2025, around the Parliament building. The demonstrations turned violent and police used tear gas and rubber bullets to disperse crowds.
-
-[For more information on demonstrations.](#demonstrations)
-
 ### Crime
 
 Petty crime, such as pickpocketing, purse snatching and theft from vehicles, occurs.

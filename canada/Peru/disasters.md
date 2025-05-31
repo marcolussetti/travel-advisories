@@ -4,23 +4,6 @@
 
 ### Rainy season
 
-Peru is experiencing seasonally heavy rains, including in popular tourist areas such as:
-
-* Machu Picchu
-* Cusco
-* Puno
-
-Several hiking trails, including the Salkantay Trail, are closed due an increased risk of landslides. Trail and weather conditions could limit rescue efforts.
-
-* Do not attempt to access a closed trail, even with a guide
-* Follow the instructions of local authorities
-* Monitor local media for information on the latest weather reports
-
-#### Useful links
-
-* [Information on hiking trails](https://www.peru.travel/en) – IPeru
-* [Full list of affected areas](https://busquedas.elperuano.pe/dispositivo/NL/2361170-1) – *El Peruano* (in Spanish only)
-
 The rainy season extends from November to May in the Peruvian Andes.
 
 Seasonal flooding, mudslides and landslides can hamper overland travel and reduce the provision of essential services such as utilities, emergency and medical care, food, fuel and water supplies. Roads may become impassable and bridges damaged.

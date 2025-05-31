@@ -2,27 +2,6 @@
 
 ## Safety and security
 
-### Nationwide strike on May 28 and 29, 2025
-
-A nationwide strike supporting the government's proposed national referendum is expected to take place on May 28 and 29, 2025. There could be roadblocks and disruptions to public transportation.
-
-Demonstrations are expected in major cities across Colombia, including:
-
-* Bogotá
-* Barranquilla
-* Cali
-* Cartagena
-* Medellín
-* Popayán
-
-If you’re in Colombia:
-
-* expect a heightened security presence
-* remain vigilant at all times
-* if travelling, allow extra time to reach your destination
-
-More information on [demonstrations](#demonstrations)
-
 ### Dating applications
 
 ### Online dating applications
@@ -102,9 +81,9 @@ Incidents are most likely to occur:
 
 Criminals often work in teams, with women easing the victim into a false sense of security. Incidents occur most frequently in larger cities, including but not limited to:
 
-* Medellin
-* Cartagena
 * Bogota
+* Cartagena
+* Medellin
 
 If you are in Colombia:
 
@@ -197,8 +176,6 @@ Even peaceful demonstrations can turn violent at any time. They can also lead to
 * Monitor local media for information on ongoing demonstrations
 
 [Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
-
-### 
 
 ### Ayahuasca ceremonies
 
