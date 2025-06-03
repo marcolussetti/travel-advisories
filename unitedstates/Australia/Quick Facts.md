@@ -8,7 +8,7 @@ Must be valid at time of entry
 
 BLANK PASSPORT PAGES:
 
-One page required for entry stamp
+1 page required for entry stamp
 
 TOURIST VISA REQUIRED:
 
@@ -20,8 +20,8 @@ None
 
 CURRENCY RESTRICTIONS FOR ENTRY:
 
-Amounts over AUD 10,000, or equivalent, must be declared
+Over 10,000 AUD (approx. $6,000), or equivalent, must be declared
 
 CURRENCY RESTRICTIONS FOR EXIT:
 
-Amounts over AUD 10,000, or equivalent, must be declared
+Over 10,000 AUD (approx. $6,000), or equivalent, must be declared

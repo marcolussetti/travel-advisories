@@ -2,29 +2,43 @@
 
 [#### Entry, Exit and Visa Requirements](javascript:void(0); "Entry, Exit and Visa Requirements")
 
-Visit the [Embassy of Japan](https://www.us.emb-japan.go.jp/itprtop_en/index.html) website for the most current visa information.
+**Helpful resources**
 
-There are no COVID-related entry requirements for U.S. citizens.
+* [Embassy of Japan](https://jp.usembassy.gov/)
+* [Dual Nationality](https://travel.state.gov/content/travel/en/legal/travel-legal-considerations/Relinquishing-US-Nationality/Dual-Nationality.html)
+* [Prevention of International Child Abduction (IPCA)](https://travel.state.gov/content/travel/en/International-Parental-Child-Abduction.html)
+* [Customs Regulations](https://travel.state.gov/content/travel/en/international-travel/before-you-go/customs-and-import.html)
 
-**Entry & Exit:**
+**Entry and exit requirements**For tourist or business “visa free” stays up to 90 days:
 
-* You must have a valid passport and an onward/return ticket for tourist/business "visa free" stays of up to 90 days. Your passport must be valid for the entire time you are staying in Japan.
-* You cannot work on a 90-day "visa free" entry.
-* "Visa free" entry status may not be changed to another visa status without departing and then re-entering Japan with the appropriate visa, such as a spouse, work, or study visa.
-* Visit the [Embassy of Japan website](https://www.us.emb-japan.go.jp/itprtop_en/index.html) for the most current information on all visa categories.
-* Japanese immigration officers may deny you entry if you appear to have no visible means of support.
-* All foreign nationals are required to provide fingerprint scans and to be photographed at the port of entry. Exceptions to this requirement include diplomatic and official visa holders, minors, and individuals covered under SOFA Article IX.2. For further information about landing procedures, please visit the [Immigration Bureau of Japan’s website](https://www.isa.go.jp/en/index.html).
-* Make sure your passport is valid. Note you cannot travel on a passport you have previously declared as lost or stolen even if you subsequently locate it. Japanese authorities will likely deny you entry into Japan if you attempt to do so. If you have reported your passport lost or stolen, you must apply for a new passport before travel.
+* You must have a valid passport and should have proof of return or onward ticket.
+* Your passport must be valid for the entire time you are staying in Japan.
+* You cannot work on the local economy.
+* You cannot change to another visa while in Japan (like a spouse, work, or study visa). You will need to leave and re-enter Japan with the correct visa.
+* Immigration officers may deny entry if you lack proof of how you'll support yourself in Japan. They may also deny you exit from Japan if you have unpaid bills.
+* All visitors must provide fingerprints and have their photo taken upon arrival. This doesn't apply to those entering on diplomatic visas, minors, or certain members of the military traveling on official orders.
 
-**Transiting Japan:**
+For further information about landing procedures, please visit the [Immigration Bureau of Japan](https://www.moj.go.jp/isa/?hl=en).
 
-* Ensure that your passport and visa are valid and up-to-date before you leave the United States. Passport services are not available at the airport.
-* Airlines in Japan may deny you boarding for transit if you do not have the required travel documents for an onward destination in another country or if your passport does not have six months of validity remaining. For the entry requirements of the country you are traveling to, visit the [State Department's Country Specific Information](http://travel.state.gov/content/passports/english/country.html) website.
+**Lost or stolen passports**
 
-**Military/SOFA Travelers:** While active-duty U.S. military personnel may enter Japan under the Status of Forces Agreement (SOFA) with proper Department of Defense (DoD) identification and travel orders, all SOFA family members, civilian employees, and contractors must have valid passports to enter Japan. Please consult the [DOD Foreign Clearance Guide](https://www.fcg.pentagon.mil/fcg.cfm) before leaving the United States.
+* You cannot use a passport that you’ve reported as lost or stolen, even if you find it later.
+* Japanese authorities will likely deny you entry if you try.
+* If your passport was lost or stolen, you need to get a new one before traveling.
 
-See [the Immigration Bureau of Japan’s website](https://www.isa.go.jp/en/index.html) for various immigration procedures.
+Visit the [Embassy of Japan](https://jp.usembassy.gov/passports/) to see instructions on how to replace a lost or stolen passport.
 
-**HIV/AIDS Restrictions:** The U.S. Department of State is unaware of any HIV/AIDS entry restrictions for visitors to or foreign residents of Japan.
+**Transiting through Japan**
 
-Find information on [dual nationality](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/Dual-Nationality-Travelers.html "http://travel.state.gov/travel/cis_pa_tw/cis/cis_1753.html"), [prevention of international child abduction](https://travel.state.gov/content/childabduction/en/preventing.html "http://travel.state.gov/abduction/prevention/prevention_560.html") and [customs regulations](https://travel.state.gov/content/travel/en/international-travel/before-you-go/customs-and-import.html) on our websites.
+* Ensure that your passport and visa are valid for your entire stay. Passport services are not available at the airport.
+* Airlines in Japan may not let you board if you don't have the right travel documents for your next destination, or if your passport has less than 6 months of validity.
+
+**Military and SOFA travelers**
+
+* Active-duty U.S. military personnel may enter Japan under the Status of Forces Agreement (SOFA) with proper Department of Defense (DoD) identification and travel orders.
+* However, all SOFA family members, civilian employees, and contractors must have valid passports to enter Japan.
+* Please consult the [DOD Foreign Clearance Guide](https://apacs.milcloud.mil/fcg/index.html) before leaving the United States.
+
+VisitSee the [Immigration Services Agency website](https://www.moj.go.jp/isa/?hl=en) for various immigration procedures.
+
+**HIV/AIDS restrictions**The U.S. Department of State is unaware of any HIV/AIDS entry restrictions for visitors to or for foreign residents of Japan.

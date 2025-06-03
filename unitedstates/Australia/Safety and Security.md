@@ -2,39 +2,51 @@
 
 [#### Safety and Security](javascript:void(0); "Safety and Security")
 
-**Terrorism:** Terrorists have targeted, and could continue to target, Australia.
+**Terrorism:** Terrorists have targeted Australia.
 
-* Australia has an alert system for possible terrorist attacks. The threat levels range from “not expected” to “certain.” The [Australian National Security website](https://www.nationalsecurity.gov.au/) has up-to-date information regarding the current terrorism threat level. You may also contact the Australian National Security Hotline at 61-1-800-123-400.
-* U.S. citizens in Australia should remain vigilant toward their personal security and exercise caution.
-* Australian law protects the right of individuals and groups to engage in peaceful protest and to publicly express their views. Demonstrations and political rallies are generally approved by local authorities and well publicized. However, please be cautious of any possible confrontation that could escalate into violence. You should attempt to avoid the areas of demonstrations and be careful within the vicinity of any demonstrations. You should stay current with media coverage of local events and always be aware of your surroundings.
+Australia has an alert system for possible terrorist attacks. The threat levels range from “Not expected” to “Certain.” The [Australian National Security website](https://www.nationalsecurity.gov.au/) has up-to-date information about the current terrorism threat level. You may also contact the Australian National Security Hotline at +61-01-800-123-400.
 
-**Crime:**
+You should:
 
-* You should be aware that robberies, burglaries, assault, and auto theft are common in Australia’s larger cities.
-* Foreign visitors in popular tourist areas are targets for pickpockets, purse-snatchers, and petty thieves. Most petty crime can be avoided if basic security precautions are taken.
-* Be careful when visiting bars or clubs in the entertainment areas of major cities, as “bar brawls” and other assaults sometimes occur. You should watch out for drink spiking when consuming alcohol with unfamiliar people.
+* Check local media for breaking news. Be prepared to adjust your plans.
+* Stay aware of your surroundings.
+* Stay alert in tourist spots.
 
-See the [Department of State](http://travel.state.gov/content/passports/english/emergencies/scams.html) and the [FBI](https://www.fbi.gov/how-we-can-help-you/safety-resources/scams-and-safety) pages for information on scams.
+For more information, see our [Terrorism page](https://travel.state.gov/content/travel/en/international-travel/emergencies/terrorism.html).
 
-**Victims of Crime:**
+**Crime:** Robberies, burglaries, assault, and auto theft can occur in Australia’s larger cities.
 
-* Report crimes to the local police at 000 and contact the [U.S. Consulate in your district.](https://au.usembassy.gov/)
-* The local authorities are responsible for investigating and prosecuting crimes.
-* See our webpage on [help for U.S. victims of crime overseas](http://travel.state.gov/content/passports/en/emergencies/victims.html).
+Foreign visitors in popular tourist areas are targets for pickpockets, purse-snatchers, and petty thieves. Most petty crime can be avoided with basic security precautions.
+
+Stay alert when visiting bars or clubs in the entertainment areas of major cities. “Bar brawls” and other assaults sometimes occur. Watch out for drink spiking when drinking alcohol with unfamiliar people.
+
+**Demonstrations:** Australian law protects the right of individuals and groups to protest peacefully and publicly express their views. Demonstrations and political rallies are generally approved by local authorities and are well publicized.
+
+Demonstrations occur frequently. They may take place in response to political or economic issues. They may also occur on politically significant holidays and during international events.
+
+* Demonstrations can be unpredictable, avoid areas around protests and demonstrations.
+* Some past demonstrations have turned violent.
+* Check local media for updates on traffic advisories.
+
+**Scams:** Internet romance and financial scams are prevalent in Australia. Review the Department of State’s [Protecting Yourself from Scams](https://travel.state.gov/content/travel/en/international-travel/emergencies/international-financial-scams.html) and the [FBI](http://www.fbi.gov/scams-safety/fraud) pages for information.
+
+**Victims of Crime:** Report crimes to the local police at 000 and contact the [U.S. Consulate in your district.](https://au.usembassy.gov/) Local authorities are responsible for investigating and prosecuting crimes.
+
+See our webpage on help for [U.S. victims of crime overseas](https://travel.state.gov/content/travel/en/international-travel/emergencies/crime.html).
 
 We can:
 
-* Assist you in reporting a crime to the police.
 * Help you find appropriate medical care.
+* Assist you in reporting a crime to the police.
 * Contact relatives or friends with your written consent.
-* Explain the local criminal justice process in general terms.
-* Provide a list of local attorneys.
-* Provide information on [victim’s compensation programs in the U.S.](https://travel.state.gov/content/travel/en/international-travel/emergencies/crime.html)
-* Provide information [about Australian Victim Assistance programs.](https://www.ncjrs.gov/ovc_archives/reports/intdir2005/australia.html)
+* Provide general information regarding the victim’s role during the local investigation and following its conclusion.
+* Provide a list of local attorneys. We do not endorse or recommend any specific attorneys.
+* Provide information on victim’s compensation programs in the U.S.
+* Provide information about [Australian Victim Assistance programs.](https://www.ncjrs.gov/ovc_archives/reports/intdir2005/australia.html)
 * Provide an emergency loan for repatriation to the United States and/or limited medical support in cases of destitution.
 * Help you find accommodation and arrange flights home.
 * Replace a stolen or lost passport.
 
-**Domestic Violence:** U.S. citizen victims of domestic violence may contact the [U.S. consulate in your district](https://au.usembassy.gov/) for assistance.
+**Domestic Violence:** U.S. citizen victims of domestic violence are encouraged to contact the Embassy or the nearest Consulate for assistance.
 
-**Tourism:** The tourism industry is generally regulated, and rules and safety inspections are regularly enforced. Hazardous areas/activities are identified with appropriate signage, and professional staff is typically on hand in support of organized activities. In the event of an injury, appropriate medical treatment is widely available throughout the country. Outside of a major metropolitan center, it may take more time for first responders and medical professionals to stabilize a patient and provide life-saving assistance. U.S. citizens are encouraged to purchase [medical evacuation insurance](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html).
+**Tourism:** The tourism industry is generally regulated. Rules with regards to general practices and safety inspections are regularly enforced. Dangerous areas and activities are marked with signs. Trained staff are usually there to help with organized activities. If someone gets hurt, they can usually get medical help anywhere in the country. In smaller cities, it might take longer for medical help to arrive and assist. U.S. citizens are encouraged to purchase medical evacuation insurance. See our webpage for more [information on insurance providers for overseas coverage.](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html)

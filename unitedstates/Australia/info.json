@@ -8,8 +8,8 @@
             "file": "unitedstates/Australia/Quick Facts.md"
         },
         {
-            "title": "Embassy",
-            "file": "unitedstates/Australia/Embassy.md"
+            "title": "Embassies and Consulates",
+            "file": "unitedstates/Australia/Embassies and Consulates.md"
         },
         {
             "title": "Destination Description",
@@ -45,5 +45,5 @@
         }
     ],
     "update_date_advisory": "2025-05-30T00:00:00",
-    "update_date_details": "2023-06-01T00:00:00"
+    "update_date_details": "2025-06-02T00:00:00"
 }

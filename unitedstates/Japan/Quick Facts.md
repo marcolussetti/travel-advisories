@@ -4,24 +4,24 @@
 
 PASSPORT VALIDITY:
 
-Duration of intended period of stay. Please note you cannot travel on a passport you have previously declared as lost or stolen even if you subsequently locate it
+Passport must be valid for the entire stay. You cannot travel on a passport you have previously declared lost or stolen, even if you find it later.
 
 BLANK PASSPORT PAGES:
 
-One page required for entry stamp
+1 blank page required per entry stamp.
 
 TOURIST VISA REQUIRED:
 
-No
+No visa required for stays less than 90.
 
 VACCINATIONS:
 
-None
+No vaccinations are required.
 
 CURRENCY RESTRICTIONS FOR ENTRY:
 
-Amounts equivalent to ¥1,000,000 or above subject to declaration
+¥1,000,000 or above (approx. $6,450 USD) needs to be declared.
 
 CURRENCY RESTRICTIONS FOR EXIT:
 
-Amounts equivalent to ¥1,000,000 or above subject to declaration
+¥1,000,000 or above needs to be declared.
