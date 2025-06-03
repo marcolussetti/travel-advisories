@@ -4,7 +4,7 @@
 
 Every country or territory decides who can enter or exit through its borders. The Government of Canada cannot intervene on your behalf if you do not meet your destination’s entry or exit requirements.
 
-We have obtained the information on this page from the authorities of Sao Tome and Principe. It can, however, change at any time.
+We have obtained the information on this page from the authorities of São Tomé and Príncipe. It can, however, change at any time.
 
 Verify this information with the [Foreign Representatives in Canada](https://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng).
 
@@ -16,7 +16,7 @@ Before you travel, check with your transportation company about passport require
 
 #### Regular Canadian passport
 
-Your passport must be valid for the duration of your stay.
+Your passport must be valid for at least 6 months beyond the date you expect to leave São Tomé and Príncipe.
 
 #### Passport for official travel
 
@@ -43,11 +43,17 @@ Tourist visa: not required for stays of less than 15 days
 Business visa: required  
 Student visa: required
 
-Canadians must obtain a visa prior to arrival for stays of 15 days or longer.
+You must obtain a visa prior to arrival for stays of 15 days or longer.
+
+[eVisa](http://www.smf.st/evisa/index.php#EN-lang) – Migration and Border Service of São Tomé and Príncipe
 
 ### Children and travel
 
 Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+
+### Health screening
+
+Travellers arriving from countries affected by Ebola virus disease outbreaks may be denied entry.
 
 ### Yellow fever
 

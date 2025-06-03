@@ -1,7 +1,7 @@
 {
     "name": "Central African Republic",
-    "update_reason": "Health \u2013 editorial update",
-    "update_date": "2025-05-21T13:56:00",
+    "update_reason": "Health \u2013 removed the travel health notice for mpox",
+    "update_date": "2025-06-02T12:55:00",
     "sections": {
         "risk": "canada/Central African Republic/risk.md",
         "security": "canada/Central African Republic/security.md",

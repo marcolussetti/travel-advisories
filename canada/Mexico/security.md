@@ -2,16 +2,6 @@
 
 ## Safety and security
 
-### Protests related to judicial elections
-
-Judicial elections are scheduled for June 1, 2025, and protests are expected nationwide at 11 am that day.
-
-Demonstrations may occur before, during and after the elections, especially in Mexico City and other major cities across the country. The security situation can deteriorate without warning.
-
-Demonstrations may disrupt traffic and public transportation.
-
-[More information on demonstrations](#demonstrations)
-
 ### Crime
 
 ### Violent clashes in Culiacán, Mazatlán and surrounding areas

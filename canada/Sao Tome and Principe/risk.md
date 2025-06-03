@@ -2,6 +2,6 @@
 
 ## Risk level
 
-### Sao Tome and Principe - Take normal security precautions
+### São Tomé and Príncipe - Take normal security precautions
 
-[Take normal security precautions](#levels "Risk Levels") in Sao Tome and Principe
+[Take normal security precautions](#levels "Risk Levels") in São Tomé and Príncipe.
