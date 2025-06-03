@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   30 May 2025
+:   3 June 2025
 
 Updated:
-:   29 May 2025
+:   2 June 2025
 
 Latest update:
-:   Information that Mexico will hold judicial elections on 1 June 2025 (‘Safety and security’ page).
+:   Removal of information about Mexico holding judicial elections on 1 June 2025 (‘Safety and security’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/65fabfdfaa9b76001dfbdb8a/FCDO_TA_065_-_Mexico_Travel_Advice_Ed5_WEB.jpg)
 

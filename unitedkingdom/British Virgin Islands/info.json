@@ -1,11 +1,11 @@
 {
     "name": "British Virgin Islands",
-    "update_reason": "New information about mandatory online disembarkation card for all travellers to the BVI(\u2018Entry requirements\u2019 page).",
+    "update_reason": "Information added about a demonstration expected to take place in Road Town on 2 June 2025 ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/British Virgin Islands/Warnings and insurance.md",
-            "update_date": "2024-12-27T15:38:46+00:00"
+            "update_date": "2025-06-02T11:27:13+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/British Virgin Islands/Getting help.md"
         }
     ],
-    "update_date": "2024-12-27T15:38:46+00:00"
+    "update_date": "2025-06-02T11:27:13+01:00"
 }

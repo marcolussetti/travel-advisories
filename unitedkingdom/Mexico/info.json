@@ -1,11 +1,11 @@
 {
     "name": "Mexico",
-    "update_reason": "Information that Mexico will hold judicial elections on 1 June 2025 (\u2018Safety and security\u2019 page).",
+    "update_reason": "Removal of information about Mexico holding judicial elections on 1 June 2025 (\u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Mexico/Warnings and insurance.md",
-            "update_date": "2025-05-29T16:28:50+01:00"
+            "update_date": "2025-06-02T11:08:53+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Mexico/Getting help.md"
         }
     ],
-    "update_date": "2025-05-29T16:28:50+01:00"
+    "update_date": "2025-06-02T11:08:53+01:00"
 }

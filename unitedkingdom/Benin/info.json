@@ -1,11 +1,11 @@
 {
     "name": "Benin",
-    "update_reason": "Updated information about the general risks from terrorism ('Safety and security' page).",
+    "update_reason": "This travel advice was reviewed for style and accuracy.",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Benin/Warnings and insurance.md",
-            "update_date": "2025-05-15T16:17:28+01:00"
+            "update_date": "2025-06-02T11:18:57+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Benin/Getting help.md"
         }
     ],
-    "update_date": "2025-05-15T16:17:28+01:00"
+    "update_date": "2025-06-02T11:18:57+01:00"
 }
