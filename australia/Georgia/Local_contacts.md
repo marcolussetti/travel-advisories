@@ -37,32 +37,24 @@ Australia doesn't have an embassy or consulate in Georgia. For consular assistan
 
 #### Australian Embassy, Ankara
 
-MNG Building, 7th floor
-
-88 Uğur Mumcu Caddesi
-
-Gaziosmanpaşa
-
+MNG Building, 7th floor  
+88 Uğur Mumcu Caddesi  
+Gaziosmanpaşa  
 Ankara, Turkey
 
-Phone: +90 312 459 9500
-
-Website: [turkey.embassy.gov.au](http://turkey.embassy.gov.au/anka/home.html)
-
-Facebook: [Australia in Turkiye](https://www.facebook.com/AustraliaInTurkiye)
-
-X: [@AusAmbTurk](https://twitter.com/ausambturkey)[iye](https://twitter.com/AusAmbTurkiye)
+Phone: +90 312 459 9500  
+Website: [turkey.embassy.gov.au](http://turkey.embassy.gov.au/anka/home.html)  
+Facebook: [Australia in Turkiye](https://www.facebook.com/AustraliaInTurkiye)  
+X: [@AusAmbTurkiye](https://twitter.com/ausambturkey)
 
 Limited consular assistance is also available from the British Embassy in Tbilisi.
 
 #### British Embassy, Tbilisi
 
-51 Krtsanisi Street
-
+51 Krtsanisi Street  
 Tbilisi, 0114
 
-Phone: (+995) 32 227 4747
-
+Phone: +995 32 227 4747  
 Website: [ukingeorgia.fco.gov.uk](https://www.gov.uk/government/world/organisations/british-embassy-tbilisi)
 
 #### 24-hour Consular Emergency Centre

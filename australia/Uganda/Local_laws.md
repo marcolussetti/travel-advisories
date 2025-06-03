@@ -26,9 +26,28 @@ If you're convicted of a drug offence, you'll face a long jail sentence and heav
 
 * [Carrying or using drugs](/consular-services/consular-services-charter "Consular Services Charter")
 
-#### Commercial surrogacy
+#### Surrogacy
 
-Get legal advice in Australia and Uganda before going to Uganda for commercial surrogacy arrangements.
+If you plan to take part in commercial or altruistic surrogacy arrangements in Uganda, be aware of all legal and other risks involved.
+
+Although it is not illegal, surrogacy is not regulated by law in Uganda. Get comprehensive and independent legal advice from a Ugandan lawyer with specialisation in this area of law.
+
+Research prospective agencies and clinics to ensure you’re dealing with a reputable organisation.
+
+Same-sex couples may encounter issues when engaging in surrogacy arrangements in Uganda.
+
+The Australian High Commission can't provide:
+
+* legal advice about surrogacy
+* information on clinics or agencies
+* translation/interpretation services
+
+You may need to spend several months in Uganda before and after the birth. Don’t confirm travel plans until you’ve finalised Australian citizenship and passport processes. This means: 
+
+* you may miss family, work, or business commitments
+* if you take prescription medication, take more than you think you will need
+* have funds available to extend your stay if needed
+* mentally prepare yourself for an extended stay in Uganda.
 
 **More information:**
 

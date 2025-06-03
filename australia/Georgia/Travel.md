@@ -63,7 +63,7 @@ Although Australian passports comply with international standards for sex and ge
 
 The local currency is the Lari (GEL).
 
-When entering or leaving, you must declare any foreign currency worth $US10,000 or more. This covers all forms of currency, not only cash.
+When entering or leaving, you must declare any foreign currency worth GEL30,000 or more. This covers all forms of currency, not only cash.
 
 By law, all goods and services must be paid for in GEL.
 
@@ -85,7 +85,7 @@ We can't help Australians who are in these regions.
 
 #### Driver's licence
 
-You need an Australian driver's licence to drive in Georgia.
+You need an Australian driver's licence to drive in Georgia (digital driver's licences may not be accepted).
 
 You may need an International Driving Permit (IDP) for insurance.
 

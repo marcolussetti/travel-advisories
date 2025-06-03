@@ -54,7 +54,7 @@ Carry a copy of your prescription and a dated letter from your doctor stating:
 
 #### Health risks
 
-#### Mpox (formerly known as monkeypox)
+#### Mpox
 
 The World Health Organisation (WHO) has declared the current mpox outbreak in parts of Africa as a global public health emergency. It has now spread across a number of countries in Africa, including Uganda.
 
@@ -84,11 +84,7 @@ See a doctor if you feel unwell and isolate from others if you develop any mpox 
 
 #### Ebola virus disease (EVD)
 
-The Ministry of Health in Uganda has confirmed an Ebola virus outbreak in Uganda.
-
-You may be subjected to health screening at land border crossings and thermal scanner screening at Entebbe International Airport. If you have symptoms, in some cases, you may be isolated and prohibited from leaving Uganda.
-
-Ebola virus can be transmitted to humans through physical contact with an infectious person, infected animals or contaminated materials.
+There are occasional Ebola outbreaks in Uganda. Ebola virus can be transmitted to humans through physical contact with an infectious person, infected animals or contaminated materials.
 
 Symptoms of Ebola virus disease begin 2 to 21 days after exposure. They can start suddenly and include:
 
@@ -160,8 +156,6 @@ Waterborne, foodborne and other [infectious diseases](/diseases) are common. T
 * [tuberculosis](https://www.who.int/news-room/fact-sheets/detail/tuberculosis)
 * [meningococcal disease](https://www.who.int/news-room/fact-sheets/detail/meningitis)
 * [viral haemorrhagic fevers](https://www.who.int/health-topics/crimean-congo-haemorrhagic-fever#tab=tab_1)
-* [mpox](https://www.healthdirect.gov.au/monkeypox) (formerly known as 'monkeypox')
-* [COVID-19](https://www.health.gov.au/health-alerts/covid-19)
 
 Serious outbreaks sometimes occur.
 
@@ -178,8 +172,6 @@ Check with your doctor about typhoid vaccinations.
 Get medical advice if you have a fever or diarrhoea.
 
 #### Medical care
-
-#### Medical facilities
 
 There are very limited medical facilities outside of Kampala.
 

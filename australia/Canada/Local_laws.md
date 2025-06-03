@@ -19,7 +19,7 @@ Make sure you know the local cannabis laws about:
 * impairment
 * production
 
-It's illegal to transport marijuana across Canada's international borders.
+It's illegal to transport marijuana across Canada's international borders, whether you are entering or leaving the country.
 
 If you break the law, you can receive criminal penalties, including jail time.
 
@@ -27,6 +27,7 @@ If you break the law, you can receive criminal penalties, including jail time.
 
 * [Cannabis laws and regulations](https://www.canada.ca/en/services/policing/justice/legalization-regulation-marijuana.html)
 * [Carrying and using drugs](/before-you-go/laws/drugs "Carrying or using drugs")
+* [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
 
 #### Alcohol
 

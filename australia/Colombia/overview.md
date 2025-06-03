@@ -2,8 +2,6 @@
 
 Latest update
 
-Demonstrations are expected in cities across Colombia on 28 and 29 May. Public protests and events that draw large groups of people can turn violent and may disrupt transport options. If a demonstration occurs, follow advice from local authorities, monitor the media and leave if it’s safe to do so (see Safety).   
-  
 Yellow fever is widespread in Colombia. Some countries may also require you to show a yellow fever vaccination certificate if you've travelled through the country (see ‘Health’).  
   
 We continue to advise exercise a high degree of caution in Colombia overall due to the threat of violent crime and terrorism. We also advise do not travel to the Catatumbo region in Norte de Santander and Cesar, and the department of Cauca (except Popayán and the Pan American Highway), amongst other areas, due to increased violence from illegal armed groups and other criminal organisations.  
@@ -71,7 +69,6 @@ See [Safety](https://smartraveller.govcms.gov.au/destinations/americas/colombia
 
 ### Safety
 
-* Demonstrations are expected in cities across Colombia on 28 and 29 May. Public protests and events that draw large groups of people can turn violent and may disrupt transport options. If a demonstration occurs, follow advice from local authorities, monitor the media and leave if it’s safe to do so.
 * The Colombian government has declared a state of emergency due to increased violence in the Catatumbo region, adjacent to the Venezuelan border in the department of Norte de Santander. There may be increased military presence and movement restrictions in the area.
 * Terrorist groups continue to plan attacks around Colombia. Monitor the media and follow the advice of local authorities.
 * Violent crime and gang activity are common and increasing. Criminals may pose as police officers.

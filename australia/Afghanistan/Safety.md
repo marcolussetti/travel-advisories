@@ -6,9 +6,9 @@ Avoid travelling to or within Afghanistan.
 
 The situation in Afghanistan remains volatile and dangerous. There's an ongoing and very high threat of terrorist attacks and kidnapping. Foreigners, including tourists and NGO workers, may be targeted. Attacks could occur at any time and result in casualties.
 
-All travel throughout Afghanistan, including by road, is extremely dangerous. Violent incidents occur across the country. Be aware of the potential for violence and security threats with large crowds. Border crossing points are at risk of a terrorist attack and may close without notice due to an increased risk of attack.
+All travel throughout Afghanistan, including by road, is extremely dangerous. Violent incidents occur across the country. Be aware of the potential for violence and security threats with large crowds. Border crossing points are often targets for terrorists and may close without notice due to an increased risk of attack.
 
-There are Taliban checkpoints on roads throughout the country. The Taliban has increasingly harassed and detained international and local aid and humanitarian workers.
+There are Taliban checkpoints on roads throughout the country. The Taliban regularly harass and detain international and local aid and humanitarian workers.
 
 You must consider the risks carefully before attempting to leave by any route. The Australian Government can't offer advice on the safety of travelling to any alternative departure point. Any travel options you pursue are taken at your own risk. You're responsible for your own safety and that of your family. 
 
@@ -26,7 +26,7 @@ The Australian Embassy in Kabul has closed. Our ability to provide consular assi
 
 #### Terrorism
 
-There's an ongoing and very high threat of terrorist attacks throughout Afghanistan, including in Kabul. Attacks can occur anywhere and at any time and may target foreigners. No location in Afghanistan can be considered safe from the threat of attack.
+There's an ongoing and very high threat of terrorist attacks throughout Afghanistan, including in Kabul. Islamic State Khorasan Province (ISKP) is active throughout Afghanistan and has conducted violent attacks targeting foreigners, including tourists. Attacks can occur anywhere and at any time and may target foreigners. No location in Afghanistan can be considered safe from the threat of attack. 
 
 If, despite our advice, you travel to Afghanistan as a tourist, there’s a very high risk you could be the target of a terrorist attack or kidnapping.
 
@@ -38,12 +38,12 @@ Attacks resulting in casualties have happened near diplomatic facilities, Kabul 
 
 There's a heightened threat of terrorist attacks in or around religious sites and during religious festivals, such as the month of Ramadan.
 
-Airports and aviation remain an attractive target for terrorist attacks. Terrorists may attack vehicles travelling along roads in and around Kabul. Terrorist attacks have targeted convoys. Avoid travelling to or within Afghanistan.
+Airports and aviation remain an attractive target for terrorist attacks. Terrorists may attack vehicles travelling along roads in and around Kabul. Terrorist attacks have targeted convoys. 
 
 Targets of an attack may include:
 
 * places with a high number of security and government personnel, government buildings and military establishments
-* cafes, restaurants and hotels
+* hotels, clubs, restaurants and cafes
 * residential compounds used by foreigners
 * embassies
 * NGO and international humanitarian facilities and offices
@@ -66,12 +66,11 @@ If, despite our advice, you're in Afghanistan:
 
 **More information:**
 
-* [International NGO Safety Organisation (INSO)](https://ngosafety.org/)
 * [Terrorist threats](https://www.smartraveller.gov.au/before-you-go/safety/terrorism)
 
 #### Kidnapping
 
-Kidnapping occurs across the world with political, ideological, and criminal motives. Foreigners, including Australians, have been kidnapped overseas whilst travelling. Kidnaps can happen anywhere, anytime, including in destinations that are typically at lower risk.
+Kidnapping occurs across the world with political, ideological, and criminal motives. Foreigners, including Australians, have been kidnapped overseas whilst travelling. Kidnappings can happen anywhere, anytime, including in destinations that are typically at lower risk.
 
 Afghanistan is a global kidnapping hotspot. There are a high number of recorded incidents.
 
@@ -107,7 +106,7 @@ The Australian Government's longstanding policy is that it doesn't make payments
 
 #### Detention
 
-Foreign nationals, including Australians, are at risk of arbitrary detention in Afghanistan. Australians have been previously detained.
+Foreign nationals, including Australians, are at risk of arbitrary detention in Afghanistan. Australians have been previously detained, including for extended periods.
 
 The Taliban has also harassed and detained aid and humanitarian workers, tourists, and journalists. The Taliban are suspicious of foreigners working or travelling in Afghanistan, including NGO and humanitarian workers and journalists, and it's likely your work and movements will be closely monitored.
 
@@ -115,23 +114,30 @@ Reasons for detention may be unclear. Detention can be lengthy, possibly months 
 
 The Australian Government may not be notified about a detention. Our ability to access information about or assist a detainee is severely limited.
 
-There's an increased risk that the Taliban will suspect you of espionage and may detain you if you're found in possession of:  
-·        weapons  
-·        explosives  
-·        tracking devices  
-·        items that may be considered unusual  
-·        large quantities of money  
-Or if:  
-·        you have worked in the military  
-·        you have connections to previously detained foreign nationals
+There's an increased risk that the Taliban will suspect you of espionage and may detain you if you're found in possession of:
+
+* weapons
+* explosives
+* tracking devices
+* objectionable religious material
+* military paraphernalia
+* items that may be considered unusual
+* large quantities of money
+
+Or if:
+
+* you have worked in the military
+* you have connections to previously detained foreign nationals
 
 If you're found guilty of espionage or working to undermine Afghanistan’s national security, the punishment may be execution.
 
 #### Civil unrest and political tension
 
-The political situation remains uncertain and could change rapidly. Afghanistan is under Taliban control.
+#### Activism
 
-Demonstrations and celebratory gunfire
+Activism is prohibited and all forms of communication are closely scrutinised in Afghanistan. If you discuss, share or publish information critical of the Taliban, including on social media, you may face increased surveillance and harassment, arrest, and possibly lengthy detention.
+
+#### Demonstrations and celebratory gunfire
 
 Demonstrations may happen as a result of the following:
 
@@ -177,7 +183,13 @@ Lawlessness exists in rural areas. Armed bandits and kidnappings by armed groups
 If you're in Afghanistan:
 
 * stay indoors after dark
-* make sure your communications equipment is always working
+* make sure your communications equipment is always working.
+
+Drink spiking can happen anywhere. Be alert to the potential risks, and don't leave food or drinks unattended. Pay attention when your drinks are being mixed. Stick to reputable venues and avoid homemade alcoholic drinks due to the risk of methanol poisoning. Get urgent medical help if you suspect you’ve been a victim.
+
+**More information:**
+
+* [Partying safely](/before-you-go/safety/partying "Partying safely")
 
 #### Cyber security
 
@@ -194,5 +206,9 @@ More information:
 Afghanistan is in an active [earthquake](https://www.smartraveller.gov.au/node/345) zone. Earthquakes in recent years have caused heavy casualties and significant damage to homes and infrastructure.
 
 Some mountainous areas experience deadly winter avalanches and heavy snow.
+
+Heavy rainfall may cause severe flooding and trigger landslides, especially in northern and eastern provinces.
+
+Sand and dust storms are common, especially in the southern provinces.
 
 Follow the advice of local authorities.

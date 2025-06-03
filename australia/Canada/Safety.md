@@ -19,8 +19,6 @@ The crime rate in Canada is similar to Australia.
 
 Violent crime does occur throughout Canada, especially in large cities and other urban areas. However, tourists are rarely targeted.
 
-#### Petty crime
-
 Petty crimes such as pickpocketing, bag snatching, and passport theft occur in Canada. They can happen in tourist areas, hotels and on public transport. Always be alert to your surroundings and take steps to safeguard and secure your personal belongings. Avoid leaving valuables in unattended vehicles.
 
 As in Australia, credit card [scams](/before-you-go/safety/scams "Scams that affect travellers") and fraud can happen.
@@ -31,9 +29,12 @@ To protect yourself from petty crime:
 * regularly check your credit card account and report suspicious activity to your bank
 * monitor local sources of information on crime
 
+Drink spiking can happen anywhere. Be alert to the potential risks, and don't leave food or drinks unattended. Pay attention when your drinks are being mixed. Stick to reputable venues and avoid homemade alcoholic drinks due to the risk of methanol poisoning. Get urgent medical help if you suspect you’ve been a victim.
+
 **More information:**
 
 * [Internet, email and telephone scams](https://www.canada.ca/en/immigration-refugees-citizenship/services/protect-fraud/internet-email-telephone.html)
+* [Partying safely while overseas](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.smartraveller.gov.au%2Fbefore-you-go%2Fsafety%2Fpartying&data=05%7C02%7CMichelle.Lam%40dfat.gov.au%7Cbd0cd565db744527188508dd41a4930d%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638738897282360647%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=8hzP1P0iV92Jm88KsRyu4DlEadlSJN77OY%2FyBZsYuRk%3D&reserved=0)
 
 #### Kidnapping
 
@@ -95,7 +96,7 @@ If you plan to travel through these areas:
 
 Winter sports can be dangerous, even fatal. Injuries are common.
 
-Avalanches can happen in mountainous regions, including Alberta and British Columbia. Always follow avalanche advice. It's unsafe to ski, snowboard or ride skidoos (snowmobiles) on closed trails.
+Avalanches can happen in mountainous regions, including Alberta and British Columbia. Always follow avalanche advice. It's unsafe to ski, snowboard or ride a Ski-Doo (snowmobile) on closed trails.
 
 Monitor [Weather Information - Environment Canada](https://weather.gc.ca/) for forecasts, updates and severe weather alerts and warnings.
 
@@ -127,7 +128,7 @@ To stay safe in fire season:
 [Natural disasters](https://www.smartraveller.gov.au/before-you-go/safety/natural-disasters) and [severe weather](https://www.smartraveller.gov.au/node/347) events regularly impact Canada. These include:
 
 * extreme temperatures - heat and cold
-* [winter storms (freezing rain, heavy snow, blizzards)](https://www.smartraveller.gov.au/before-you-go/safety/severe-weather#winter)[, wildfires](https://www.smartraveller.gov.au/before-you-go/safety/natural-disasters#bushfires)
+* [winter storms (freezing rain, heavy snow, blizzards)](https://www.smartraveller.gov.au/before-you-go/safety/severe-weather#winter),
 * [earthquakes](https://www.smartraveller.gov.au/node/345)
 * [landslides and avalanches](https://www.smartraveller.gov.au/before-you-go/safety/natural-disasters#landslides)
 * [forest fires](/while-youre-away/crisis-or-emergency/bushfire "There's a bushfire")
@@ -181,12 +182,19 @@ Temperatures in summer (June to August) can reach more than 30°C. Humidity can 
 
 Tornadoes occur between April and September in many areas, including:
 
-* southern Ontario
 * Alberta
-* south-eastern Quebec
-* from southern Saskatchewan and Manitoba to Thunder Bay
+* the area from southern Saskatchewan and Manitoba to northwestern Ontario
+* Southern and Southeastern Ontario
+* Southern and Southeastern Quebec
 
-Hurricanes occur in the Atlantic provinces from June to November. The direction and strength of hurricanes can change suddenly.
+Hurricanes occur between June and November, including in the Atlantic Provinces of:
+
+* Newfoundland and Labrador
+* New Brunswick
+* Nova Scotia
+* Prince Edward Island
+
+ The direction and strength of hurricanes can change suddenly.
 
 If there's a hurricane or severe storm:
 
@@ -202,9 +210,9 @@ Prepare yourself by:
 
 #### Earthquakes and tsunamis
 
-British Columbia is in an earthquake zone. Earthquakes have also happened in Quebec and Ontario.
+British Columbia is in an active earthquake zone. Earthquakes have also happened in Quebec and Ontario.
 
-Destructive tsunamis are rare but could happen if there's an earthquake in the Pacific Ocean.
+Destructive tsunamis are rare but could happen if there's an earthquake in the Pacific Ocean or the Atlantic Ocean.
 
 If you're near the coast, move to the nearest high ground or as far inland as you can if you:
 

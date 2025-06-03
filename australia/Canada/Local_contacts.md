@@ -39,7 +39,7 @@ Contact the Australian High Commission in Ottawa if you're in:
 * New Brunswick
 * Newfoundland and Labrador
 * Nova Scotia
-* Ontario (excluding the south-western corner below Kingston)
+* Ontario (excluding the southwestern corner below Kingston)
 * Prince Edward Island
 * Quebec
 * Bermuda
@@ -51,12 +51,12 @@ Ottawa, Ontario K1P 6L2 CANADA
 Phone: +1 613 236 0841   
 Email: [consular.ottawa@dfat.gov.au](mailto:consular.ottawa@dfat.gov.au)   
 Website: [canada.highcommission.gov.au](http://www.canada.highcommission.gov.au/otwa/home.html)   
-Facebook: [Australian High Commission in Canada](https://www.facebook.com/AustraliaInCanada)  
+Facebook: [Australia in Canada](https://www.facebook.com/AustraliaInCanada)  
 X: [@AusHCCanada](https://twitter.com/AusHCCanada)
 
 #### Australian Consulate-General, Toronto
 
-Contact the Australian Consulate-General in Toronto if you're in the Greater Toronto Area (the south-western corner of Ontario below Kingston).
+Contact the Australian Consulate-General in Toronto if you're in the Greater Toronto Area (GTA) or (the southwestern corner of Ontario below Kingston).
 
 Australian Consulate General, Toronto   
 Suite 1100, South Tower   
@@ -88,7 +88,7 @@ Fax: +1 604 684 1856
 If you need other consular help:
 
 * check the [High Commission's](http://canada.highcommission.gov.au/) website for opening hours and any temporary closures at each office
-* book appointments for passports and consular services in Canada by calling the Australian High Commission in Ottawa, Australian Consulate General Toronto or Australian Consulate in Vancouver.
+* book appointments for passports and consular services in Canada by calling the Australian High Commission in Ottawa (+1 613 236 0841), Australian Consulate General Toronto (+1 416 323 4280) or Australian Consulate in Vancouver (+1 604 694 6160).
 
 #### 24-hour Consular Emergency Centre
 

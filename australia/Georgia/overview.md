@@ -2,11 +2,11 @@
 
 Latest update
 
-Protests are common in Georgia, including Tbilisi. There's been political demonstrations following the Parliamentary elections in October. Avoid public protests and demonstrations. Transport and other services may be disrupted. Monitor the media and follow the advice of local authorities (see 'Safety').
+We've reviewed our advice for Georgia and continue to advise exercise normal safety precautions overall. Do not travel to South Ossetia and Abkhazia. Protests are common in Georgia, including Tbilisi. Avoid public protests and demonstrations. Transport and other services may be disrupted. Monitor the media and follow the advice of local authorities (see 'Safety').
 
 Advice Level summary
 
-We advise: 
+We advise:
 
 Exercise normal safety precautions overall in Georgia.
 
@@ -39,7 +39,6 @@ Full travel advice: [Safety](#safety)
 
 ### Health
 
-* Malaria is a risk in south-eastern Georgia. Make sure your accommodation is insect-proof. Use insect repellent.
 * Waterborne, foodborne, and other infectious diseases occur. Boil drinking water or drink bottled water. Avoid ice cubes, unpasteurised dairy products, and raw and undercooked food.
 * Medical care is limited and of poor quality. If you become ill or injured, you may need to be evacuated. Make sure your travel insurance covers this.
 
@@ -47,7 +46,7 @@ Full travel advice: [Health](#health)
 
 ### Local laws
 
-* Georgia has announced it intends to ban surrogacy for foreigners. The ban was due to start on 1 January, but the bill is currently still before the Georgian parliament.
+* In June 2023, the Georgian government announced its intent to ban surrogacy for foreigners. The ban was due to start on 1 January 2024, but the bill is currently still before the Georgian parliament.
 * Babies born through illegal arrangements may be prevented from leaving. If you plan to engage in surrogacy in Georgia, be aware of all the risks. Get legal advice from a Georgian solicitor with knowledge of this area of law.
 * Always carry your passport, visa or migration card (or copies).
 * Taking photos near military or strategic sites, such as airports, is illegal. It's also illegal to export items of national heritage without a licence.

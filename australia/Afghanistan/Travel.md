@@ -2,7 +2,9 @@
 
 #### Visas and border measures
 
-Entry and exit conditions can change at short notice. Every country or territory decides who can enter or exit through its borders. If, despite our advice you travel to Afghanistan, ensure you meet all entry and exit conditions. Check with the nearest embassy, consulate or immigration department of the destination you're entering. If you don't meet the conditions, the Australian Government can't help you.
+Entry and exit conditions can change at short notice. Every country or territory decides who can enter or exit through its borders. If, despite our advice you travel to Afghanistan, ensure you meet all entry and exit conditions.
+
+Not all Afghan Embassies abroad are able to issue valid travel documents. Check with the nearest embassy, consulate or immigration department of the destination you're entering. If you don't meet the conditions, the Australian Government can't help you.
 
 #### Passport
 
@@ -51,16 +53,21 @@ Businesses don't widely accept credit cards and are unlikely to accept traveller
 
 #### Road travel
 
-We advise against all travel to and within Afghanistan. All travel throughout Afghanistan, including by road, is extremely dangerous. Violent incidents occur across the country. Border crossing points may be closed without notice, especially when crowds gather or where there are concerns of an increased risk of attack. Border crossing points are at risk of a terrorist attack. There are Taliban checkpoints on roads in Kabul and throughout the country.
+We advise against all travel to and within Afghanistan. All travel throughout Afghanistan, including by road, is extremely dangerous. Violent incidents occur across the country. Border crossing points may be closed without notice, especially when crowds gather or where there are concerns of an increased risk of attack. Border crossing points are at risk of terrorist attack. There are Taliban checkpoints on roads in Kabul and throughout the country.
 
 * Avoid travelling in Afghanistan. But if you do, seek professional security advice.
 * Take all extra precautions for your safety.
 * Remain vigilant and be aware of your surroundings.
 * Review your personal security plans regularly.
+* Drivers are aggressive, reckless and often drive at excessive speeds.
+* Road conditions are poor
+* Fatal road accidents are common.
 
-You must consider the risks carefully before attempting to leave by any route. The Australian Government can't offer advice on the safety of travelling to departure points. Any travel options you pursue are taken at your own risk. Make contingency plans to leave when it's safe to do so. You're responsible for your own safety and that of your family.
+The Australian Government can't offer advice on the safety of travelling to departure points. Any travel options you pursue are taken at your own risk. 
 
-Unexploded remnants of war, including landmines and IEDs, are a danger including on:
+You must consider the risks carefully before attempting to leave by any route. Make contingency plans to leave when it's safe to do so. You're responsible for your own safety and that of your family.
+
+Unexploded remnants of war, including landmines and IEDs, are a danger across the country, including on:
 
 * roads
 * the areas next to roads

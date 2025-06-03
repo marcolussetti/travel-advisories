@@ -60,29 +60,6 @@ Carry a letter from your doctor stating:
 
 #### Health risks
 
-#### Insect-borne diseases
-
-[Malaria](https://www.who.int/news-room/fact-sheets/detail/malaria) is a risk in the southeastern part of Georgia.
-
-To protect yourself from disease:
-
-* make sure your accommodation is insect-proof
-* use insect repellent
-* wear long, loose, light-coloured clothing
-
-Consider taking medicine to prevent malaria.
-
-#### Measles
-
-Measles cases can routinely occur in Georgia, which is currently experiencing increased measles activity. Make sure your vaccinations are up-to-date before you travel.
-
-More information:
-
-* [Measles Outbreak 2019 (Department of Health and Aged Care)](https://www1.health.gov.au/internet/main/publishing.nsf/Content/ohp-measles-outbreaks-2019.htm)
-* [Measles immunisation service (Department of Health and Aged Care)](https://www.health.gov.au/health-topics/immunisation/immunisation-services/measles-immunisation-service)
-
-#### Other health risks
-
 Waterborne, foodborne, and other infectious diseases occur. These include:
 
 * [tuberculosis](https://www.who.int/news-room/fact-sheets/detail/tuberculosis)

@@ -6,7 +6,7 @@ There's no centralised number to reach emergency services.
 
 #### Consular contacts
 
-Read the [Consular Services Charter](/consular-services/consular-services-charter "Consular Services Charter") for what the Australian Government can and can't do to help you overseas.
+Read the [Consular Services Charter](/consular-services/consular-services-charter "Consular Services Charter") for what the Australian Government can and can't do to help you overseas. Dual citizenship may not be legally recognised in Afghanistan.
 
 The [Australian Embassy in Kabul](https://afghanistan.embassy.gov.au/) is closed. Our ability to provide consular assistance to Australians in Afghanistan is severely limited.
 

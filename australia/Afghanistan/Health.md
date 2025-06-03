@@ -30,7 +30,7 @@ Carry a copy of your prescription or a dated letter from your doctor stating:
 
 **More information:**
 
-* [Medica](https://www.smartraveller.gov.au/node/26)[tions](/before-you-go/health/medications "Medication and medical equipment")
+* [Medications](/before-you-go/health/medications "Medication and medical equipment")
 
 #### Health risks
 
@@ -59,7 +59,7 @@ Waterborne, foodborne, parasitic and other [infectious diseases](https://www.sm
 * [leptospirosis](https://www1.health.gov.au/internet/main/publishing.nsf/Content/ohp-leptospirosis-fs.htm)
 * [pertussis (whooping cough)](https://www.who.int/immunization/diseases/pertussis/en/)
 * [rabies](https://www.who.int/news-room/fact-sheets/detail/rabies)
-* [COVID-19](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
+* [dengue](https://www.healthdirect.gov.au/dengue-fever)
 
 Serious outbreaks sometimes occur.
 
@@ -98,10 +98,10 @@ To reduce your exposure, take precautions when increased levels are recorded.
 
 #### Medical care
 
-#### Medical facilities
-
-Medical facilities are very limited, and the standard of training for medical staff is poor. There is no guarantee local health practitioners will be available. Sanitation and hygiene are poor.
+Medical facilities in Afghanistan are very limited and the standard of training for medical staff is poor. There is no guarantee local health practitioners will be available. Sanitation and hygiene are poor.
 
 There is no public ambulance service in Afghanistan, including Kabul. If you need urgent attention, speak directly with a local medical practitioner and use local transport to get to hospital when it's safe to. Ambulances sent by hospitals may require payment or evidence of insurance before they treat you.
+
+Health care for women is extremely limited or non-existent. Health professionals are limited in their practice and may not be allowed to treat women who are not accompanied by their male guardian.
 
 You'll need to be evacuated if you get seriously ill or injured. Medical evacuation may not be possible and can be very expensive. Most Australian travel insurance policies won't cover you for travel to Afghanistan.

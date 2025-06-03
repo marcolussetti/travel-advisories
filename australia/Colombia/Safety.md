@@ -219,8 +219,6 @@ The Australian Government's longstanding policy is that it doesn't make payments
 
 #### Civil unrest and political tension
 
-Demonstrations are expected in cities across Colombia on 28 and 29 May. Public protests and events that draw large groups of people can turn violent and may disrupt transport options. If a demonstration occurs, follow advice from local authorities, monitor the media and leave if it’s safe to do so.
-
 Demonstrations and protests take place regularly throughout Colombia, especially in large cities. Protests and rallies may occur around elections or on commemorative days.
 
 Public protests and events that draw large groups of people can turn violent. Strikes are common and can affect local transport and traffic. Protesters or criminal groups may set up roadblocks, especially in rural areas.

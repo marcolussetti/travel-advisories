@@ -2,13 +2,13 @@
 
 #### Surrogacy
 
-Georgia has announced it intends to ban surrogacy for foreigners. The ban was due to start on 1 January, but the bill is currently still before the Georgian parliament. Contravening this law would be a criminal offence. ​It's unclear what transitional arrangements would be in place if the bill passes. 
+In June 2023, the Georgian government announced its intent to ban surrogacy for foreigners. The ban was due to start on 1 January 2024, but the bill is currently still before the Georgian parliament. Contravening this law would be a criminal offence. ​It's unclear what transitional arrangements would be in place if the bill passes.
 
-Babies born through illegal arrangements may be prevented from leaving Georgia. Be aware that you may not be able to get your money back if you enter into a contract for surrogacy services. 
+Babies born through illegal arrangements may be prevented from leaving Georgia. Be aware that you may not be able to get your money back if you enter into a contract for surrogacy services.
 
 Before you commit to a surrogacy arrangement, seek independent legal advice from a Georgian solicitor with knowledge of this area of law. See our advice on [going overseas for international surrogacy](/before-you-go/activities/surrogacy "Going overseas for international surrogacy").
 
-To bring children born through surrogacy to Australia, you must apply for an Australian passport. Check the website of [the Australian Embassy in Türkiye](https://turkey.embassy.gov.au/anka/Surrogacy.html) for details on how to apply. 
+To bring children born through surrogacy to Australia, you must apply for an Australian passport. Check the website of [the Australian Embassy in Türkiye](https://turkey.embassy.gov.au/anka/Surrogacy.html) for details on how to apply.
 
 If you're going to Georgia for surrogacy, before leaving Australia, get prepared:
 
@@ -27,15 +27,15 @@ If you're going to Georgia for surrogacy, before leaving Australia, get prepared
 * Due to language difficulties, you may find it frustrating to engage with medical and hospital staff.
 * You may meet other clients undertaking surrogacy in Georgia. Every case is different. Don't compare how long it takes for others to leave Georgia. Be cautious about taking advice from other surrogacy clients; only seek advice from official sources.
 
-It's your choice to travel to Georgia for surrogacy, and you're responsible for your safety, the safety of your child, and any legal or medical risks. 
+It's your choice to travel to Georgia for surrogacy, and you're responsible for your safety, the safety of your child, and any legal or medical risks.
 
 **More information:**
 
 * [Going overseas for international surrogacy](/before-you-go/activities/surrogacy "Going overseas for international surrogacy")
-* For **Georgian birth certificates**– the [Local Government](https://psh.gov.ge/main/menus/1) or via your surrogacy agency
-* For **Australian citizenship** – The Department of Home Affairs ([citizenship.descent@homeaffairs.gov.au](mailto:citizenship.descent@homeaffairs.gov.au))
-* For an **Australian Passport**- the Specialised Case Management Section ([passports.complexcases@dfat.gov.au](mailto:passports.complexcases@dfat.gov.au)) in Australia for assessment and the Australian Embassy Ankara for your passport interview and printing of the emergency passport.
-* For**consular assistance** – the Australian Embassy in Ankara ([consular.ankara@dfat.gov.au](mailto:consular.ankara@dfat.gov.au))
+* For **Georgian birth certificates** – the [Local Government](https://sda.gov.ge/?page_id=7313&lang=en) or via your surrogacy agency
+* For **Australian citizenship** – The Department of Home Affairs [citizenship.descent@homeaffairs.gov.au](mailto:citizenship.descent@homeaffairs.gov.au)
+* For an **Australian Passport** - the Specialised Case Management Section [passports.complexcases@dfat.gov.au](mailto:passports.complexcases@dfat.gov.au) in Australia for assessment and the Australian Embassy Ankara for your passport interview and printing of the emergency passport.
+* For**consular assistance** – the Australian Embassy in Ankara [consular.ankara@dfat.gov.au](mailto:consular.ankara@dfat.gov.au)
 
 #### Local law
 

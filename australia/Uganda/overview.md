@@ -2,7 +2,7 @@
 
 Latest update
 
-We continue to advise exercise a high degree of caution in Uganda overall. Higher levels apply to the border areas with South Sudan and the Democratic Republic of Congo. Terrorist attacks have caused deaths and serious injuries. Targets may include large gatherings, worship, music and cultural festivals, hotels, bars and other tourist areas (see 'Safety'). There are currently outbreaks of Ebola virus disease and mpox in parts of Africa, including in Uganda.
+We continue to advise exercise a high degree of caution in Uganda overall. Higher levels apply to the border areas with South Sudan and the Democratic Republic of Congo. Terrorism remains a threat in Uganda. Targets may include large gatherings, worship, music and cultural festivals, hotels, bars and other tourist areas (see 'Safety'). There's currently an outbreak of mpox in parts of Africa, including in Uganda (see 'Health'). If you plan to take part in surrogacy arrangements in Uganda, be aware of all legal and other risks involved (see 'Local laws').
 
 Advice Level summary
 
@@ -38,7 +38,7 @@ See [Safety](#safety).
 
 ### Safety
 
-* Terrorism is a threat in Uganda. Attacks have caused many deaths and serious injuries. Foreigners may be targeted. Avoid large gatherings, including large-scale worship, and music and cultural festivals. Terrorists may also target hotels, bars, restaurants and other tourist areas. Uganda has increased security arrangements in public places due to terrorist attacks. Expect body, car and luggage checks when travelling. Take official warnings seriously and follow the advice of authorities.
+* Terrorism remains a threat in Uganda. Attacks have caused many deaths and serious injuries. Foreigners may be targeted. Avoid large gatherings, including large-scale worship, and music and cultural festivals. Terrorists may also target hotels, bars, restaurants and other tourist areas. Uganda has increased security arrangements in public places due to terrorist attacks. Expect body, car and luggage checks when travelling. Take official warnings seriously and follow the advice of authorities.
 * Violent political protests can occur quickly, and there's potential for tension or politically motivated incidents across Uganda.
 * Security is usually required when gorilla trekking due to the risk of armed attack. For your safety, don't take gorilla trekking tours that cross into the Democratic Republic of the Congo (DRC).
 * Petty crime and violent crime can happen. Always be alert. Don't walk in isolated areas or along dark streets at night. Be alert to the potential risks around drink spiking and methanol poisoning through consuming alcoholic drinks. See our advice on [partying safely while overseas](https://www.smartraveller.gov.au/before-you-go/safety/partying#methanol).
@@ -48,8 +48,7 @@ Full travel advice: [Safety](#safety)
 
 ### Health
 
-* There’s currently an outbreak of Ebola virus disease in Uganda. Maintain strict hygiene standards and avoid physical contact with anyone with Ebola virus disease.
-* There's currently an outbreak of mpox (formerly known as monkeypox) in parts of Africa. Maintain strict hygiene standards and avoid physical contact with anyone who has mpox.
+* There's currently an outbreak of mpox in parts of Africa. Maintain strict hygiene standards and avoid physical contact with anyone who has mpox.
 * Many medications are in short supply or not available in Uganda. Take enough legal medicine for your trip.
 * Yellow fever and malaria are common. Other insect-borne diseases can occur. Make sure your accommodation is insect proof. Use insect repellent.
 * HIV/AIDS is a risk. Take steps to reduce your risk of exposure to the virus.
@@ -61,9 +60,10 @@ Full travel advice: [Health](#health)
 ### Local laws
 
 * Uganda prohibits same-sex relationships, and convictions may result in severe sentences. Same-sex public displays of affection, like kissing in public places, could lead to arrest and imprisonment. Members of the LGBTQIA+ community may face discrimination, potential violence and abuse. LGBTQIA+ travellers should carefully consider the risks of travelling to Uganda.
-* There are severe penalties for the possession, use or trafficking of illegal drugs. If you're convicted, you'll face a long jail sentence and heavy fines.
 * Serious crimes can attract the death penalty or corporal punishment.
+* There are severe penalties for the possession, use or trafficking of illegal drugs. If you're convicted, you'll face a long jail sentence and heavy fines.
 * It's illegal to take photos of certain buildings and areas or wear military-style or camouflage clothing.
+* If you plan to take part in surrogacy arrangements in Uganda, be aware of all legal and other risks involved. For further details see ‘Surrogacy’ section below.
 
 Full travel advice: [Local laws](#local-laws)
 

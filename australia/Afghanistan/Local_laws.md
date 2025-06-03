@@ -20,6 +20,7 @@ It's illegal to have:
 
 * a de facto relationship
 * close contact between unmarried men and women
+* an LGBTQIA+ relationship
 
 These crimes are particularly serious when the relationship is between a non-Muslim and a Muslim.
 
@@ -29,13 +30,21 @@ Same-sex relationships are illegal.
 
 Penalties are severe for other serious crimes, such as:
 
-* non-Islamic preaching
 * adultery
-* abandoning Islam as a religion
+* non-Islamic preaching
+* renouncing Islam as a religion
+* blasphemy
+* moral crimes
 
 **More information:**
 
 * [LGBTQIA+ travellers](/node/349)
+
+#### Religious Proselytism
+
+Religious proselytism is illegal in Afghanistan. This includes preaching, possessing, or distributing religious literature or material. If you convert or try to convert someone from Islam to another religion, you could face harsh punishment, including the death sentence. Individuals practicing a religion other than Islam have been arbitrarily arrested, detained, and physically attacked or abused.
+
+You could be accused of blasphemy if you engage in religious activities that contradict or challenge the Taliban’s extreme interpretation of Islamic teachings and values. Such acts are punishable by lengthy jail sentences and even the death sentence.
 
 #### Other laws
 
@@ -48,7 +57,9 @@ Don't photograph:
 
 You could be detained and have your equipment seized. Obey signs prohibiting photography.
 
-It’s illegal to bring drugs, alcohol or pork products into Afghanistan. If you do, you could be arrested.
+It’s illegal to bring drugs, alcohol or pork products into Afghanistan. If you do, you could be arrested. 
+
+It’s illegal to play music in Afghanistan. Musical instruments are confiscated.
 
 #### Australian laws
 
@@ -62,13 +73,17 @@ It's a serious criminal offence for an Australian to fight in a foreign state. P
 
 #### Local customs
 
-There are conservative codes of dress and behaviour in Afghanistan. This applies to foreigners.  
-Women must be accompanied by a male guardian (for instance, a husband, father, brother or son) and must fully cover themselves in public. The Taliban placed restrictions on women's movement outside the home. These restrictions could change at short notice and could prevent you from leaving Afghanistan.
+There are conservative codes of dress and behaviour in Afghanistan. This applies to foreigners.
 
-Public displays of affection may offend.
+Public displays of affection may offend or be perceived as breaking the law.
 
-Although there are conflicting reports regarding the enforcement of dress codes, you should consider these announcements and customs when out in public and take care not to offend.   
-If in doubt, seek local advice.
+The Taliban prohibit women from travelling and going to public places without a male guardian (such as parks and restaurants), looking at unrelated men's body and/or face, accessing higher education, working outside their home, working for non-governmental organisations and the United Nations, having their voices heard in public. Women must fully cover themselves in public.
+
+The Taliban prohibit men from wearing ‘western-style clothing’ such as jeans and are not allowed to shave their beard if it is less than the width of a fist. Men are forbidden from looking at an unrelated woman’s body or face.
+
+These restrictions apply to all Afghans and may be enforced on foreigners. If in doubt, seek local advice.
+
+These restrictions could change at short notice and could prevent you from leaving Afghanistan.
 
 #### Ramadan
 

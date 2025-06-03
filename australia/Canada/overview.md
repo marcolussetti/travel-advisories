@@ -2,7 +2,7 @@
 
 Latest update
 
-We continue to advise exercise normal safety precautions in Canada. Australian passport holders must apply for an electronic travel authorisation (eTA) before travelling to Canada by air (see 'Travel').
+We've reviewed our advice for Canada and continue to advise exercise normal safety precautions. Australian passport holders must apply for an electronic travel authorisation (eTA) before travelling to Canada by air (see 'Travel').
 
 Advice Level summary
 
@@ -38,14 +38,14 @@ Full travel advice: [Health](#health)
 ### Local laws
 
 * The legal drinking age varies across the country. Check local laws before buying or drinking alcohol.
-* Using marijuana (cannabis) in Canada is legal, subject to local restrictions. Check local laws on legal age, possession and other restrictions. It's illegal to take marijuana out of the country.
+* Using marijuana (cannabis) in Canada is legal, subject to local restrictions. Check local laws on legal age, possession and other restrictions. It’s illegal to transport marijuana (cannabis) across Canada’s international borderswhen you are entering or leaving the country.
 * Canada recognises dual nationality. Use your [Canadian passport](http://www.cic.gc.ca/english/passport/apply/renew/index.asp) to enter and exit. Make sure both your Canadian and Australian passports are valid for your entire trip.
 
 Full travel advice: [Local laws](#local-laws)
 
 ### Travel
 
-* Check the latest entry, transit and exit requirements before travel.
+* Check the latest entry, transit and exit requirements before travel. [Find out if you need a visa to travel to Canada](https://ircc.canada.ca/english/visit/visas.asp).
 * Get an [electronic travel authorisation (eTA)](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/facts.html) before you travel to Canada by air. You may not be allowed into the country if you have a criminal record, including a drink driving conviction.
 * Entry and exit conditions can change at short notice. You should contact the nearest high commission or consulate of Canada for the latest details. You may need documents to travel with children or pets or to bring goods into Canada. Check with the [Canada Border Services Agency (CBSA)](http://www.cbsa-asfc.gc.ca/menu-eng.html).
 * Driving in winter can be dangerous. Use snow tires and drive to conditions. Carry food, water and blankets.

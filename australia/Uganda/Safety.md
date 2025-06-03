@@ -2,20 +2,19 @@
 
 #### Terrorism
 
-Terrorism is a threat in Uganda. Foreigners may be targeted in attacks.
+Terrorism remains a threat in Uganda. Terrorists may target tourist areas or other places frequented by foreigners and where large crowds may gather.
 
-Uganda has increased security arrangements in public places.
-
-This includes borders and at the international airport.
+Uganda has increased security arrangements in public places. This includes borders and at the international airport.
 
 Expect body, car and luggage checks when travelling, especially in Kampala.
 
-Recent terrorist attacks have resulted in fatalities and injuries, including in Kampala and Queen Elizabeth National Park in western Uganda.
+Terrorist attacks have resulted in fatalities and injuries, including in Kampala and Queen Elizabeth National Park in western Uganda.
 
 Possible targets for terror attacks include:
 
 * large gatherings, including large-scale worship services, and music and cultural festivals
-* tourist areas, hotels, resorts restaurants, bars, clubs, marketplaces, markets and shopping centres
+* tourist areas, hotels, resorts restaurants, bars, clubs,
+* markets and shopping centres
 * schools, places of worship, outdoor and political events
 * airports, bus terminals, public transport and government buildings
 
@@ -185,13 +184,13 @@ Social media can also be risky in destinations where there are social or politic
 
 **More information:**
 
-[Cyber security when travelling overseas](https://www.smartraveller.gov.au/before-you-go/staying-safe/cyber-security)
+* [Cyber security when travelling overseas](https://www.smartraveller.gov.au/before-you-go/staying-safe/cyber-security)
 
 #### Drink spiking and methanol poisoning
 
-Be alert to the potential risks around drink spiking and methanol poisoning through consuming alcoholic drinks. See our advice on [partying safely while overseas](https://www.smartraveller.gov.au/before-you-go/safety/partying#methanol).
+Drink spiking can happen anywhere. Be alert to the potential risks, and don't leave food or drinks unattended. Pay attention when your drinks are being mixed. Stick to reputable venues and avoid homemade alcoholic drinks due to the risk of methanol poisoning. 
 
-Get urgent medical attention if you think you or someone else has been drugged.
+Get urgent medical help if you suspect you’ve been a victim.
 
 Methanol can be used in unregulated alcohol production to lower costs. Methanol is highly toxic. As little as one shot can be fatal. Act quickly if you suspect you or someone you're travelling with has been poisoned. [Urgent medical attention](https://www.smartraveller.gov.au/while-youre-away/when-things-go-wrong/medical-assistance) could save your life or save you from permanent disability. Report suspected cases of methanol poisoning to the police.
 
@@ -202,7 +201,7 @@ Methanol can be used in unregulated alcohol production to lower costs. Methanol
 
 **More information:**
 
-* [Partying safely while overseas](https://www.smartraveller.gov.au/before-you-go/safety/partying#methanol)
+* [Partying safely](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.smartraveller.gov.au%2Fbefore-you-go%2Fsafety%2Fpartying&data=05%7C02%7CJulian.Elsworthy%40dfat.gov.au%7Cbd0cd565db744527188508dd41a4930d%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638738897282052398%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=rKGX7XOCXJsS%2Fsimd5IO%2BCmMKrxAHlLs%2Bhh8rAmaleo%3D&reserved=0)
 
 #### Tours and adventure activities
 
