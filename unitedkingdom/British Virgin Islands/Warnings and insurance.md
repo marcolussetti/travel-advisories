@@ -1,19 +1,15 @@
 # Warnings and insurance
 
 Still current at:
-:   3 June 2025
+:   4 June 2025
 
 Updated:
-:   2 June 2025
+:   3 June 2025
 
 Latest update:
-:   Information added about a demonstration expected to take place in Road Town on 2 June 2025 ('Warnings and insurance' page).
+:   Removal of information about a demonstration that took place in Road Town on 2 June 2025 ('Warnings and insurance' page).
 
 The British Virgin Islands (BVI) is a British Overseas Territory, so there is no British Embassy, and the [BVI authorities](https://bvi.gov.vg/list-of-visitor-services) will support you if you need help.
-
-## Demonstration in Road Town
-
-A demonstration is expected to take place in Road Town on the morning of Monday 2 June. You should check local media for updates and follow the direction of local authorities.
 
 ## Before you travel
 

@@ -1,11 +1,11 @@
 {
     "name": "Uganda",
-    "update_reason": "Updated following the announcement on 26 April, that there is no longer an Ebola outbreak in Uganda ('Health' page).",
+    "update_reason": "Information added about reports of an explosion in Kampala on 3 June ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Uganda/Warnings and insurance.md",
-            "update_date": "2025-05-01T14:38:28+01:00"
+            "update_date": "2025-06-03T10:28:52+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Uganda/Getting help.md"
         }
     ],
-    "update_date": "2025-05-01T14:38:28+01:00"
+    "update_date": "2025-06-03T10:28:52+01:00"
 }

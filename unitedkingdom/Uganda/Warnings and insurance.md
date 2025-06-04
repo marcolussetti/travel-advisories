@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   2 May 2025
+:   4 June 2025
 
 Updated:
-:   1 May 2025
+:   3 June 2025
 
 Latest update:
-:   Updated following the announcement on 26 April, that there is no longer an Ebola outbreak in Uganda ('Health' page).
+:   Information added about reports of an explosion in Kampala on 3 June ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/667bf1c07d26b2be17a4b36d/FCDO__TA__066_-_Uganda_Travel_Advice_Ed8__WEB_.jpg)
 
@@ -27,6 +27,10 @@ FCDO advises against all but essential travel to:
 * Semuliki National Park
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/uganda/regional-risks).
+
+## Explosion in Kampala
+
+On 3 June 2025 there were reports of an explosion near the Catholic Basilica in the Munyonyo area of Kampala. A spokesperson for the Uganda People’s Defence Force advised the public to remain “calm but vigilant”. If you’re in the immediate area, follow the advice of the local authorities and monitor local media.
 
 ## Before you travel
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   7 May 2025
+:   4 June 2025
 
 Updated:
-:   6 May 2025
+:   3 June 2025
 
 Latest update:
-:   FCDO no longer advises against all but essential travel to Abha International Airport.
+:   Updated information on Hajj 2025 ('Pilgrimage' page).
 
 ![](https://assets.publishing.service.gov.uk/media/681a1ee1fb59a222d4f17336/FCDO__TA__034_-_Saudi_Arabia_Travel_Advice_Ed3__WEB_.jpg)
 

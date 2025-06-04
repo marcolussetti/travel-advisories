@@ -1,11 +1,11 @@
 {
     "name": "Saudi Arabia",
-    "update_reason": "FCDO no longer advises against all but essential travel to Abha International Airport.",
+    "update_reason": "Updated information on Hajj 2025 ('Pilgrimage' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Saudi Arabia/Warnings and insurance.md",
-            "update_date": "2025-05-06T15:48:23+01:00"
+            "update_date": "2025-06-03T17:10:07+01:00"
         },
         {
             "title": "Entry requirements",
@@ -38,5 +38,5 @@
             "file": "unitedkingdom/Saudi Arabia/Getting help.md"
         }
     ],
-    "update_date": "2025-05-06T15:48:23+01:00"
+    "update_date": "2025-06-03T17:10:07+01:00"
 }
