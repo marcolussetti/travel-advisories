@@ -1,6 +1,6 @@
 # Qatar Travel Advisory
 
-### Travel Advisory July 13, 2023
+### Travel Advisory June 3, 2025
 
 ### Qatar - Level 1: Exercise Normal Precautions
 
@@ -14,22 +14,22 @@
 [T](javascript:void(0); "Tool Tip: Terrorism")
 [C](javascript:void(0); "Tool Tip: Crimes")
 
-***Reissued with obsolete COVID-19 page links removed.***
+***Updated after periodic review with minor edits.***
 
 Exercise normal precautions in Qatar.
 
-Due to risks to civil aviation operating within the Persian Gulf and the Gulf of Oman region, including Qatar, the Federal Aviation Administration (FAA) has issued an advisory Notice to Air Missions (NOTAM) and/or a Special Federal Aviation Regulation (SFAR). For more information U.S. citizens should consult the [Federal Aviation Administration’s Prohibitions, Restrictions and Notices](https://www.faa.gov/air_traffic/publications/us_restrictions).
+The Federal Aviation Administration (FAA) has issued a Notice to Airmen (NOTAM) and/or a Special Federal Aviation Regulation (SFAR) for the region, including Qatar.  This is due to risks to civil aviation from political and military tensions in the region.  The notice advises U.S. operators to review current threat information and to report safety or security incidents. For more information, U.S. citizens should consult the [Federal Aviation Administration](https://www.faa.gov/air_traffic/publications/us_restrictions/).
 
 Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Qatar.html) for additional information on travel to Qatar.
 
 If you decide to travel to Qatar:
 
-* Enroll in the [Smart Traveler Enrollment Program](https://step.state.gov/step/) ([STEP](https://step.state.gov/step/)) to receive Alerts and make it easier to locate you in an emergency.
-* Follow the Department of State on [Facebook](https://twitter.com/TravelGov) and [Twitter](https://www.facebook.com/travelgov/).
-* Follow the U.S. Embassy in Qatar on [Facebook](https://www.facebook.com/USEmbassyDoha/) and [Twitter](https://twitter.com/usembassydoha).
-* Review the [Country Security Report](https://www.osac.gov/Content/Browse/Report?subContentTypes=Country%20Security%20Report) for Qatar.
-* Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) related to your travel.
-* Prepare a contingency plan for emergency situations. Review the [Traveler’s Checklist](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-checklist.html).
+* Keep travel documents up-to-date and easy to access.
+* Sign up for the [Smart Traveler Enrollment Program (STEP)](https://step.state.gov/step/) to get alerts from the Embassy and make it easier for us to contact you in an emergency.
+* Read the [Country Security Report](https://www.osac.gov/Content/Browse/Report?subContentTypes=Country%20Security%20Report) for Qatar.
+* Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/traveler/none/qatar) before you travel.
+* You should make a safety plan for emergencies. Read the [Traveler’s Checklist](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-checklist.html).
+* It is a good idea to buy insurance before you travel. Check with your [travel insurance provider](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html?cq_ck=1708701048867) about evacuation assistance, medical insurance, and trip cancellation coverage.
 
 ### Travel Advisory Levels
 

@@ -2,18 +2,18 @@
 
 [#### Entry, Exit and Visa Requirements](javascript:void(0); "Entry, Exit and Visa Requirements")
 
-**COVID-19 Requirements**
+Visit the [Royal Norwegian Embassy](https://www.norway.no/en/usa) website for the most current visa information.
 
-There are no COVID-related entry requirements for U.S. citizens.
+**Traveling Through Europe**: If you are planning to visit or travel through European countries, be familiar with the requirements of the [Schengen Agreement](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/schengen.html).
 
-Visit the [Royal Norwegian Embassy](https://www.norway.no/en/usa) website for the most current visa information.
+Your passport should be valid for at least three months beyond your period of stay if you plan on transiting a Schengen country. Please review our [U.S. Travelers in Europe](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/schengen.html) page. We recommend you have at least six month’s validity remaining.
 
-**Traveling Through Europe:** If you are planning to visit or travel through European countries, you should be familiar with the requirements of the Schengen Agreement.
+You will need sufficient proof of funds and a return plane ticket.
 
-* Your passport should be valid for at least three months beyond the period of stay if you plan on transiting a Schengen country; review our [U.S. Travelers in Europe page](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/US_Travelers_in_Europes_Schengen_Area.html).
-* You will need sufficient proof of funds and a return plane ticket.
-* For additional information about visas for the Schengen area, see the [Schengen Visa page.](https://www.schengenvisainfo.com/schengen-visa-countries-list/)
+The 12-page U.S. emergency passport is not valid for visa-free entry into Norway.
 
-**HIV/AIDS Restrictions:** The U.S. Department of State is unaware of any HIV/AIDS entry restrictions for visitors to or foreign residents of Norway.
+For more information about visas for the Schengen area, see the [Schengen Visa page](https://www.schengenvisainfo.com/schengen-visa-countries-list/).
 
-Find information on [dual nationality](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/Dual-Nationality-Travelers.html), [prevention of international child abduction](https://travel.state.gov/content/travel/en/International-Parental-Child-Abduction/prevention.html), and [customs regulations](https://travel.state.gov/content/travel/en/international-travel/before-you-go/customs-and-import.html) on our websites.
+**HIV/AIDS Restrictions:**The U.S. Department of State is unaware of any HIV/AIDS entry restrictions for visitors to or foreign residents of Norway.
+
+Find info on [dual nationality](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/Dual-Nationality-Travelers.html), [stopping child abduction](https://travel.state.gov/content/travel/en/International-Parental-Child-Abduction/prevention.html), and [customs rules](https://travel.state.gov/content/travel/en/international-travel/before-you-go/customs-and-import.html)on our websites.
