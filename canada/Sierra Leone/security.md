@@ -8,9 +8,9 @@ On November 26, 2023, there were violent clashes between security forces and arm
 
 ### Border areas
 
-Border areas are poorly patrolled by local authorities. There is a high level of trans-border military, militia, and criminal activity in the border areas with Guinea and Liberia.
+Border areas are not well patrolled by local authorities. Border areas with Guinea and Liberia experience ongoing territorial disputes, trans-border military operations, and militia and criminal activities. Border raids may occur and could result in armed confrontations and other violent incidents. Land border crossings may close with little notice.
 
-Be vigilant in all border areas, as the security situation could deteriorate suddenly.
+Be vigilant in all border areas, as the security situation could deteriorate suddenly
 
 ### Crime
 

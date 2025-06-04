@@ -8,9 +8,9 @@ The rainy seasons extend from May to August and from November to February. Seaso
 
 Hurricanes usually occur from mid-May to the end of November. During this period, even small tropical storms can quickly develop into major hurricanes.
 
-These severe storms can put you at risk and hamper the provision of essential services. You could face serious safety risks during a hurricane.
+These severe storms can put you at risk and hamper the provision of essential services. You could face serious safety risks during a hurricane. You should carefully consider these risks when planning a trip during hurricane season.
 
-If you decide to travel to a coastal area during the hurricane season:
+If you decide to travel to a coastal area during the hurricane season despite the risks:
 
 * be prepared to change your travel plans on short notice, including cutting short or cancelling your trip
 * stay informed of the latest regional weather forecasts

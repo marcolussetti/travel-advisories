@@ -1,7 +1,7 @@
 {
     "name": "Ecuador",
-    "update_reason": "Need help? \u2013 added information about telephone disruptions at the Consulate of Canada in Guayaquil",
-    "update_date": "2025-05-23T09:13:00",
+    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
+    "update_date": "2025-06-03T10:48:00",
     "sections": {
         "risk": "canada/Ecuador/risk.md",
         "security": "canada/Ecuador/security.md",

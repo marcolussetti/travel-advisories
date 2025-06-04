@@ -1,7 +1,7 @@
 {
     "name": "Uganda",
-    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
-    "update_date": "2025-06-02T10:32:00",
+    "update_reason": "Safety and security \u2013 added information about an attempted terrorist attack in Kampala",
+    "update_date": "2025-06-03T11:32:00",
     "sections": {
         "risk": "canada/Uganda/risk.md",
         "security": "canada/Uganda/security.md",

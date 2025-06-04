@@ -1,7 +1,7 @@
 {
     "name": "Colombia",
-    "update_reason": "Safety and security \u2013 removed information on the nationwide strike",
-    "update_date": "2025-05-30T15:13:00",
+    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
+    "update_date": "2025-06-03T10:52:00",
     "sections": {
         "risk": "canada/Colombia/risk.md",
         "security": "canada/Colombia/security.md",

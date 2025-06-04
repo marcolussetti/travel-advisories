@@ -17,11 +17,12 @@ Hurricanes usually occur from:
 * May to November in the eastern Pacific Ocean, including Hawaii and Guam
 * June to November in the Atlantic Ocean, the Caribbean Sea and the Gulf of Mexico
 
-These severe storms can put you at risk and hamper the provision of essential services.
+During this period, even small tropical storms can quickly develop into major hurricanes.
 
-If you decide to travel to these regions during the hurricane season:
+These severe storms can put you at risk and hamper the provision of essential services. You could face serious safety risks during a hurricane. You should carefully consider these risks when planning a trip during hurricane season.
 
-* know that you expose yourself to serious safety risks
+If you decide to travel to a coastal area during the hurricane season despite the risks:
+
 * be prepared to change your travel plans on short notice, including cutting short or cancelling your trip
 * stay informed of the latest regional weather forecasts
 * carry emergency contact information for your airline or tour operator
@@ -29,9 +30,9 @@ If you decide to travel to these regions during the hurricane season:
 
 #### Useful links
 
-* [Tornadoes, cyclones, hurricanes, typhoons and monsoons](https://travel.gc.ca/travelling/health-safety/hurricanes-typhoons-cyclones-monsoons)
-* [Large-scale emergencies abroad](https://travel.gc.ca/assistance/emergency-info/large-scale-emergencies-abroad)
-* [Latest advisories](http://www.nhc.noaa.gov/) – U.S. National Hurricane Center
+* [Severe storms outside Canada](https://travel.gc.ca/travelling/health-safety/hurricanes-typhoons-cyclones-monsoons)
+* [Large-scale emergencies outside Canada](https://travel.gc.ca/assistance/emergency-info/large-scale-emergencies-abroad)
+* [Active storm tracking and hurricane watches and warnings](https://www.nhc.noaa.gov/) – U.S. National Hurricane Center
 * [US National Weather Service](https://www.weather.gov/)
 
 ### Flooding and landslides

@@ -1,7 +1,7 @@
 {
     "name": "Bolivia",
-    "update_reason": "Risk levels \u2013 Avoid non-essential travel to the Chapare Region, in Cochabamba Province, due to criminal activity",
-    "update_date": "2025-05-27T08:18:00",
+    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
+    "update_date": "2025-06-03T10:52:00",
     "sections": {
         "risk": "canada/Bolivia/risk.md",
         "security": "canada/Bolivia/security.md",

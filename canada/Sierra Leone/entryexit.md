@@ -8,6 +8,12 @@ We have obtained the information on this page from the Sierra Leonean authoritie
 
 Verify this information with the [Foreign Representatives in Canada](https://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng).
 
+### Health screening measures
+
+Due to the ongoing mpox outbreak, you may be subject to health screening measures, such as temperature checks at the airport. If you show a fever, you might be subject to further medical evaluation.
+
+These measures may cause additional delays at the airport. You should plan your travel accordingly.
+
 ### Passport
 
 Entry requirements vary depending on the type of passport you use for travel.
