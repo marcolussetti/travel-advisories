@@ -42,7 +42,7 @@ Philatelic Building 
 Takuvaine Road  
 Avarua, Rarotonga
 
-Phone: +68 2 73379    
+Phone: +682 22223  
 Email: [ahcrarotonga@dfat.gov.au](mailto:ahcrarotonga@dfat.gov.au)  
 Website: [cookislands.highcommission.gov.au](https://cookislands.highcommission.gov.au/)  
 Facebook: [Australian High Commission, Cook Islands](https://www.facebook.com/AusInTheCooks/?eid=ARC9wMjdRr6io2xg_qr9WN40Iv-EGNM5Uj2Wll6UX_1H8HMEixO-XRuAsQpqVZve68AV1VE_lO8bsBIb)

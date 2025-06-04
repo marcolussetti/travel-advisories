@@ -9,7 +9,7 @@ The crime rate is low in the Cook Islands. Most crime is opportunistic, however,
 Thieves may target items:
 
 * on the beach
-* left unsecured, such as valuables stored in motor scooters or motorcycles
+* left unsecured, such as valuables stored in motor scooters, motorcycles or accommodation left unlocked
 
 Occasionally, travellers are [assaulted](/before-you-go/safety/sexual-assault "Reducing the risk of sexual assault and harassment"). Look out for suspicious behaviour.
 
@@ -22,6 +22,14 @@ Social media can also be risky in destinations where there are social or politic
 **More information:**
 
 * [Cyber security when travelling overseas](https://www.smartraveller.gov.au/before-you-go/staying-safe/cyber-security)
+
+#### Drink spiking
+
+Drink spiking can happen anywhere. Be alert to the potential risks, and don't leave food or drinks unattended. Pay attention when your drinks are being mixed. Stick to reputable venues and avoid homemade alcoholic drinks due to the risk of methanol poisoning. Get urgent medical help if you suspect you’ve been a victim.
+
+**More information:**
+
+* [Partying safely while overseas](/before-you-go/safety/partying "Partying safely")
 
 #### Terrorism
 
@@ -48,7 +56,7 @@ If proper safety equipment isn't available, use another provider.
 
 #### Swimming safety
 
-Some swimmers have died because of strong tides and breaks in the reefs.
+Strong rips can occur where there is a break in the reef. Swimmers have died because of strong tides and powerful currents.
 
 Ask local residents and tour operators about safe swimming and water sports areas.
 
@@ -109,7 +117,7 @@ Monitor weather updates and warnings:
 
 If a cyclone is approaching:
 
-* know the evacuation plan for your hotel or cruise ship
+* know the evacuation plan for your accommodation provider
 * identify your local shelter
 * stock up on bottled water
 
@@ -125,7 +133,7 @@ Evacuation signs in Rarotonga will direct you if there's a tsunami alert.
 
 If there's an earthquake or a tsunami alert:
 
-* take directions from your host or hotel
+* take directions from your accommodation provider
 * follow the advice of local authorities
-* monitor the [Pacific Tsunami Warning Center](http://itic.ioc-unesco.org/index.php?option=com_content&view=category&id=1437&Itemid=1437) and local sources
+* monitor the [Tsunami Warning Center](https://www.tsunami.gov/) and local sources
 * move to higher ground if you're near the beach or in a low-lying area

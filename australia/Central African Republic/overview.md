@@ -2,7 +2,7 @@
 
 Latest update
 
-We continue to advise do not travel to the Central African Republic (CAR) due to the dangerous security situation and the threat of terrorism, kidnapping and violent crime. Outbreaks of intercommunal violence and armed conflict can happen without warning throughout the country, including in Bangui. If, despite our advice, you decide to travel to the CAR, take the necessary precautions to ensure your safety.
+We've reviewed our travel advice for the Central African Republic (CAR) and continue to advise do not travel due to the dangerous security situation and the threat of terrorism, kidnapping and violent crime. Outbreaks of intercommunal violence and armed conflict can happen without warning throughout the country, including in Bangui. If you’re in CAR despite our advice, leave when it's safe to do so. Our ability to provide consular services in CAR is extremely limited (see 'Safety').
 
 Advice Level summary
 
@@ -24,22 +24,24 @@ See [Safety](#safety)
 
 ### Safety
 
-* There are ongoing military operations throughout the CAR. If it's safe to do so, leave the CAR. Tensions are high. Armed groups operate across the country. They've killed foreigners, including aid workers and peacekeepers.
-* The security situation outside Bangui is extremely volatile. A nationwide curfew is in place from 10pm to 5am, except for Bangui. Avoid travelling at night in Bangui due to security risks.
-* If despite our advice you plan to travel to the CAR, take personal safety measures. Law enforcement and peacekeepers can't ensure your safety.
-* The Lord’s Resistance Army (LRA) regularly attacks civilians in the southeast of the CAR, especially Haut-Mbomou province. Be alert to possible threats.
-* Kidnapping and violent crime occur. Kidnappers can target foreigners. Seek professional security advice.
+* If you’re in CAR despite our advice, leave when it's safe to do so. Our ability to provide consular services CAR is extremely limited.
+* Terrorism is a worldwide threat. Terrorist attacks could occur anywhere and at any time. Be alert to possible threats, especially in public places. Terrorists may target tourist areas or other places frequented by foreigners and where large crowds gather. Take official warnings seriously. If there's a security incident, follow the advice of local authorities.
+* The security situation outside Bangui is extremely volatile. A nationwide curfew is in place from 12am to 5am, except for Bangui. Avoid travelling at night in Bangui due to security risks.
+* There are continuing military operations throughout the CAR. Tensions are high. The Lord’s Resistance Army (LRA) and other paramilitary groups regularly attacks civilians in the southeast of the CAR, especially Haut-Mbomou province. Be alert to possible threats. Armed groups operate across the country. They've killed foreigners, including aid workers and peacekeepers.
+* Kidnapping and violent crime occur. The kidnapping risk to foreigners is increasing. Seek professional security advice.
+* Protests may occur. Even peaceful protests can turn violent and disrupt traffic and public transportation. Stay away from areas protests and large gatherings. Avoid traveling around Bangui during times of civil unrest.
 * Bandit groups are common. They target aid groups to get money, vehicles and equipment. Be very careful when carrying large amounts of money. If possible, split it between your travelling companions. Carry photocopies of key documents and leave originals in hotel safes or other secure locations.
+* If, despite our advice, you plan to travel to the CAR, take personal safety measures. Law enforcement and peacekeepers can't ensure your safety.
 
 Full travel advice: [Safety](#safety)
 
 ### Health
 
-* There's currently an outbreak of Mpox (formerly known as monkeypox) in parts of Africa. Mpox can be fatal. Maintain strict hygiene standards and avoid physical contact with anyone who has Mpox (see ‘Health risks’).
+* There's currently an outbreak of mpox in parts of Africa, including CAR. Mpox can be fatal. Maintain strict hygiene standards and avoid physical contact with anyone who has mpox (see ‘Health risks’).
 * Medical facilities in the CAR are limited. Many medications are unavailable. If you're seriously ill or injured, you may need to be evacuated. Check your travel insurance covers this.
 * Yellow fever is widespread. It can be fatal. Get vaccinated before you travel.
 * Insect-borne diseases, including malaria, filariasis and African sleeping sickness, are common. Use insect repellent. Ensure your accommodation is insect-proof.
-* Infectious diseases are widespread. These include hepatitis, typhoid, cholera and monkeypox. Boil drinking water or drink bottled water. Avoid ice and raw or undercooked food.
+* Infectious diseases are widespread. These include hepatitis, typhoid, cholera and mpox. Boil drinking water or drink bottled water. Avoid ice and raw or undercooked food.
 
 Full travel advice: [Health](#health)
 

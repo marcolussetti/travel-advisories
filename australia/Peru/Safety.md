@@ -7,16 +7,17 @@ Violent crime is common in Peru, including in the cities of:
 * Lima
 * Cusco
 * Arequipa
+* Iquitos
 
 Violent crimes include:
 
 * [sexual assault](/before-you-go/safety/sexual-assault "Reducing the risk of sexual assault and harassment")
 * [armed robbery and muggings](/before-you-go/safety/theft-robbery "Theft and robbery")
-* carjackings
+* [piracy](https://www.smartraveller.gov.au/before-you-go/safety/piracy)
 
 You could encounter:
 
-* armed robbery and [assault](/before-you-go/safety/assault "Reducing the risk of assault") on Amazon River boats
+* armed robbery, [assault](/before-you-go/safety/assault "Reducing the risk of assault") and [piracy](https://www.smartraveller.gov.au/before-you-go/safety/piracy) on Amazon River boats
 * theft as you sleep on intercity bus routes between Lima, Ica, Nazca and Cusco
 * assault and robbery at gunpoint on intercity buses
 * bogus roadblocks or checkpoints on roads outside major cities after dark
@@ -129,7 +130,9 @@ Methanol can be used in unregulated alcohol production to lower costs. Methanol
 
 Kidnapping occurs across the world with political, ideological, and criminal motives. Foreigners, including Australians, have been kidnapped overseas whilst travelling. Kidnaps can happen anywhere, anytime, including in destinations that are typically at lower risk.
 
-Kidnapping occurs in Peru and is primarily perpetrated by criminal groups. Tourists travelling alone are particularly at risk, including of ‘express kidnapping’, where victims are abducted for a short period and forced to withdraw money from ATMs for their release. A large proportion of the incidents take place in Lima. Criminal gangs have also targeted mining operations for kidnappings in La Libertad in north-western Peru in 2025. 
+Kidnapping occurs in Peru and is primarily perpetrated by criminal groups. Tourists travelling alone are particularly at risk, including of ‘express kidnapping’, where victims are abducted for a short period and forced to withdraw money from ATMs for their release. A large proportion of the incidents take place in Lima. 
+
+In 2025, criminal gangs have targeted mining operations for kidnappings in La Libertad in north-western Peru. Pirates have targeted tourist vessels for kidnappings in the Amazon river. Both have involved foreign nationals. 
 
 If, despite our advice, you travel to an area with a high risk of kidnapping, our ability to provide consular assistance in these destinations will be limited.
 

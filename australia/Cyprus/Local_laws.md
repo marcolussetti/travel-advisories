@@ -51,7 +51,9 @@ It's illegal in both parts of Cyprus to:
 
 #### Marriage laws
 
-If you plan to [get married](/before-you-go/activities/marriage "Getting married overseas") in Cyprus, check the legal requirements before travelling.
+If you plan to [get married](/before-you-go/activities/marriage "Getting married overseas") in Cyprus, check the legal requirements with the local municipality where your wedding will take place before you travel.
+
+Cypriot authorities will not accept Certificates of No Impediment to Marry (CNI) issued outside Australia, including those issued by the Australian High Commission in Nicosia.
 
 **More information:**
 

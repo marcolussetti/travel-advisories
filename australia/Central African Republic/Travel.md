@@ -24,7 +24,7 @@ Find out about returning to Australia after exposure to [yellow fever](http://
 
 **More information:**
 
-* [Countries with a risk of yellow fever (PDF252KB)](https://www.who.int/publications/m/item/countries-with-risk-of-yellow-fever-transmission-and-countries-requiring-yellow-fever-vaccination-(november-2022))
+* [Countries with a risk of yellow fever](https://www.who.int/publications/m/item/countries-with-risk-of-yellow-fever-transmission-and-countries-requiring-yellow-fever-vaccination-(november-2022))
 
 #### Passport
 
@@ -88,15 +88,17 @@ Find out about returning to Australia after exposure to [yellow fever](http://
 
 **More information:**
 
-* [Countries with a risk of yellow fever (PDF 252KB)](https://www.who.int/publications/m/item/countries-with-risk-of-yellow-fever-transmission-and-countries-requiring-yellow-fever-vaccination-(november-2022))
+* [Countries with a risk of yellow fever](https://www.who.int/publications/m/item/countries-with-risk-of-yellow-fever-transmission-and-countries-requiring-yellow-fever-vaccination-(november-2022))
 
 #### Road travel
 
 Roads in the CAR are in a very poor condition. Driving at night is dangerous due to poor lighting. Most roads require a 4WD vehicle. Fuel shortages are common.
 
+Avoid any road travel outside Bangui. If you decide to undertake road travel outside Bangui despite our advice, always travel in a four-wheel-drive vehicle, with convoy of at least 2 vehicles and during daylight hours.
+
 The rainy season is May to October. Sometimes flooding occurs and roads become impassable.
 
-Authorities may close borders without warning. This is due to the presence of armed groups and risk of cross border incursions.
+Authorities may close borders or set up roadblocks without warning. This is due to the presence of armed groups and risk of cross border incursions.
 
 **More information:**
 

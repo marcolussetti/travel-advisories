@@ -14,7 +14,7 @@ Penalties for carrying or using even small amounts of illegal drugs are severe. 
 
 * [Carrying or using drugs](/before-you-go/laws/drugs "Carrying or using drugs")
 
-#### Imitation Tobacco Products (Vapes/E-Cigarettes)
+#### Imitation Tobacco Products (vapes/e-cigarettes)
 
 The Cook Islands has banned the sale or importation of imitation tobacco products, including vapes/e-cigarettes. Visitors over the age of 21 are allowed to bring one e-imitation tobacco device and up to 30 millilitres of e-liquid. Visitors must make sure the device and any remaining liquid is taken with them when they depart from The Cook Islands or is surrendered to the Ministry of Health. Refer to the [Ministry of Health](https://www.health.gov.ck/) for more information.
 
@@ -37,5 +37,7 @@ Some Australian criminal laws still apply when you're overseas. If you break the
 Standards of dress and behaviour are modest.
 
 Be careful not to offend, especially outside resort areas, when visiting towns, villages and the outer islands.
+
+Visitors are welcome to attend Sunday services, observing modest dress standards. 
 
 Ask for local advice if you're unsure of any customs.

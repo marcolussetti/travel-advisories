@@ -2,9 +2,9 @@
 
 Latest update
 
-We continue to advise exercise a high degree of caution in Jordan. Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests. Monitor local media for updates and follow the advice of authorities.  
+We continue to advise exercise a high degree of caution in Jordan. Missile and drone attacks originating from Yemen and targeting Israel may fail in flight over Jordan leading to falling debris. We recommend remaining indoors and avoiding contact with debris in the event of intercepts. Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests. Monitor local media for updates and follow the advice of authorities (see 'Safety').  
   
-Terrorism is a worldwide threat and could occur anywhere and at any time. Terrorists may target tourist areas or other places frequented by foreigners and where large crowds gather. Take official warnings seriously. If there's a security incident, follow the advice of local authorities.
+Terrorism is a worldwide threat and could occur anywhere and at any time. Terrorists may target tourist areas or other places frequented by foreigners and where large crowds gather. Take official warnings seriously. If there's a security incident, follow the advice of local authorities (see 'Terrorism').
 
 Advice Level summary
 
@@ -35,9 +35,9 @@ See [Safety](#safety).
 ### Safety
 
 * Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions. There's an ongoing threat of attacks against Israeli interests across the region. Monitor the media and follow the advice of local authorities.
+* Missile and drone attacks originating from Yemen and targeting Israel may fail in flight over Jordan leading to falling debris.  We recommend remaining indoors and avoiding contact with debris in the event of intercepts.
 * Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests.
 * Terrorism is a worldwide threat. Terrorist attacks could occur anywhere and at any time. Be alert to possible threats, especially in public places. Terrorists may target tourist areas or other places frequented by foreigners and where large crowds gather. Take official warnings seriously. If there's a security incident, follow the advice of local authorities.
-* Protests occur in Amman and other major cities in Jordan. Most protests are peaceful but could become violent. Avoid protests and public gatherings.
 * Security is unstable in [Syria](/destinations/middle-east/syria "Syria") and [Iraq](/destinations/middle-east/iraq "Iraq"). Land border crossings could close without notice. Reconsider your need to travel to Jordan's borders with Iraq and Syria, which can be subject to cross-border criminal and politically motivated attacks on security forces and military installations inside Jordan.
 * Petty crime includes robbery with violence, bag snatching, theft from hotels and vehicles, and assault. Be alert in tourist areas, especially to pickpocketing, bag snatching and assault by unlicensed guides. Scammers operate in tourist areas. They often target single women. They promise companionship, marriage or offer joint business ideas. Credit card fraud, including card skimming, occurs. Be wary of approaches from friendly strangers. Always keep your card in sight when shopping. Check ATMs for card-skimming devices.
 * Women may be verbally, sexually and physically harassed or sexually assaulted. Don't make eye contact with or talk to men you don't know. Don't walk or travel alone, especially after dark. Always ride in the back seat of rideshares or taxis.

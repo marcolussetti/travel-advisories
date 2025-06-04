@@ -88,7 +88,7 @@ If your passport is lost or stolen, tell the Australian Government as soon as po
 
 * In Australia, contact the [Australian Passport Information Service](https://www.passports.gov.au/contact-us).
 * If you're overseas, contact the nearest [Australian embassy or consulate](http://dfat.gov.au/about-us/our-locations/missions/Pages/our-embassies-and-consulates-overseas.aspx).
-* After contacting the Australian Embassy in Lima, visit a Peruvian Immigration Office to get a new entry stamp on your new passport. Check [Superintendencia Nacional de Migraciones (Spanish)](https://www.gob.pe/migraciones) to find the nearest office. You can also obtain the stamp at the Lima International Airport.
+* Your replacement passport will need a new entry stamp. For more information please visit the [Peruvian Immigration Office website](https://www.gob.pe/12664-trasladar-sello-de-ingreso-a-documento-de-viaje-nuevo-para-extranjeros) (in Spanish).
 
 If you leave Peru with a replacement passport different from the passport you entered Peru (e.g., an emergency passport), you'll need to show a Police report for the loss of the previous passport to the Immigration officers at the moment of departure.
 

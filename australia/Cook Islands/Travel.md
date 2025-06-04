@@ -74,7 +74,7 @@ Before you leave Australia, ask your bank if your cards will work overseas.
 
 #### Driving permit
 
-You can use a valid Australian driver's licence for up to 6 months.
+You can use a valid Australian driver's licence for up to 6 months (digital driver's licences may not be accepted).
 
 You can only drive vehicles covered by your licence. For example, with an Australian car licence you can drive a car but not a motor scooter.
 

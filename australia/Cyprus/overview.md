@@ -2,7 +2,7 @@
 
 Latest update
 
-We've reviewed our travel advice for Cyprus and continue to advise exercise a high degree of caution.
+We continue to advise exercise a high degree of caution in Cyprus. You don't need a tourist visa to visit Cyprus for stays of up to 90 days in a 6-month period.
 
 Advice Level summary
 

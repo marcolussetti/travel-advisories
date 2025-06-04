@@ -2,7 +2,7 @@
 
 Latest update
 
-We've reviewed our advice for Peru and continue to advise exercise a high degree of caution in Peru overall due to the threat of violent crime. Higher levels apply in some areas.   
+We continue to advise exercise a high degree of caution in Peru overall due to the threat of violent crime. Higher levels apply in some areas.   
   
 Yellow fever is a risk in Peru. Get vaccinated before you travel. You will need a yellow fever vaccination certificate to enter some countries after visiting Peru (see 'Health').
 
@@ -50,7 +50,7 @@ See [Safety](#safety)
 * Be alert to the potential risks around drink spiking and methanol poisoning through consuming alcoholic drinks. See our advice on [partying safely while overseas](/before-you-go/safety/partying "Partying safely").
 * Travellers using unlicensed taxis have been victims of robbery, assault and rape. Don't hail taxis from the street. Use a phone dispatch service or taxi service app to book a licensed taxi. Criminals target cars stopped at traffic lights. Keep your doors and windows locked, even when moving.
 * Members of a local terrorist group may still be active in remote areas, particularly the Southern Highlands. Take care when travelling outside of populated regions.
-* Travellers in Peru can be victims of ‘express kidnappings’ where victims are forced to withdraw money from ATMs. Criminal gangs have also targeted mining operations for kidnappings.
+* Travellers in Peru can be victims of ‘express kidnappings’ where victims are forced to withdraw money from ATMs. Criminal gangs have also targeted mining operations and tourist vessels in the Amazon river for kidnappings.
 
 Full travel advice: [Safety](#safety)
 

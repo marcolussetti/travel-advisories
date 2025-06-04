@@ -54,13 +54,17 @@ Medical facilities throughout the CAR are limited.
 
 Medicines are in short supply and hygiene standards are poor. You're likely to have to pay up front for treatment.
 
+Ambulance services are scarce in most parts of the country and limited in Bangui.
+
 If you get seriously ill or injured, you could need treatment at a more suitable place. Medical evacuation can be very expensive.
 
 #### Health risks
 
-#### Mpox (formerly known as monkeypox)
+#### Mpox
 
-Mpox can be transmitted to humans through physical contact with an infectious person, infected animals or contaminated materials.
+[Mpox](https://www.who.int/health-topics/monkeypox#tab=tab_1) is endemic in parts of Africa, including CAR. Mpox can be transmitted to humans through physical contact with an infectious person, infected animals or contaminated materials.
+
+In areas where mpox is found, you should avoid contact with animals, especially primates and rodents.
 
 Symptoms include:
 
@@ -73,7 +77,7 @@ Symptoms include:
 * low energy
 * swollen lymph nodes
 
-Seek professional medical advice on Mpox vaccines.
+Seek professional medical advice on mpox vaccines.
 
 Maintain strict hygiene standards. Avoid physical contact with anyone who has mpox.
 
@@ -87,12 +91,10 @@ See a doctor if you feel unwell and isolate from others if you develop any mpox 
 
 [Yellow fever](http://www.health.gov.au/yellowfever) is widespread in the CAR. Yellow fever is a potentially fatal virus spread by mosquitoes. It's prevented by vaccination. Get vaccinated before you travel and carry your vaccination card. Some countries require you to present your yellow fever vaccination card if you have travelled to the CAR.
 
-[Mpox](https://www.who.int/health-topics/monkeypox#tab=tab_1) (also known as Monkeypox) is endemic in parts of Africa. In areas where Mpox is found, you should avoid contact with animals, especially primates and rodents.
-
 Other common insect-borne diseases include:
 
-* [Malaria](https://www.who.int/news-room/fact-sheets/detail/malaria)
-* [Filariasis](https://www.who.int/news-room/fact-sheets/detail/lymphatic-filariasis)
+* [malaria](https://www.who.int/news-room/fact-sheets/detail/malaria)
+* [filariasis](https://www.who.int/news-room/fact-sheets/detail/lymphatic-filariasis)
 * [African sleeping sickness](https://www.who.int/news-room/fact-sheets/detail/trypanosomiasis-human-african-(sleeping-sickness))
 
 To protect yourself from disease:
@@ -108,12 +110,15 @@ Get vaccinated against yellow fever before you travel.
 Waterborne, foodborne and other infectious diseases are widespread. These include:
 
 * [HIV/AIDS](https://www.who.int/news-room/fact-sheets/detail/hiv-aids)
-* [Tuberculosis](https://www.who.int/news-room/fact-sheets/detail/tuberculosis)
-* [Cholera](https://www.who.int/news-room/fact-sheets/detail/cholera)
-* [Typhoid](https://www.who.int/immunization/diseases/typhoid/en/)
-* [Hepatitis](https://www.who.int/hepatitis/en/)
-* [Meningitis](https://www.who.int/emergencies/diseases/meningitis/en/)
-* [Rabies](https://www.who.int/news-room/fact-sheets/detail/rabies)
+* [tuberculosis](https://www.who.int/news-room/fact-sheets/detail/tuberculosis)
+* [cholera](https://www.who.int/news-room/fact-sheets/detail/cholera)
+* [typhoid](https://www.who.int/immunization/diseases/typhoid/en/)
+* [hepatitis](https://www.who.int/hepatitis/en/)
+* [meningitis](https://www.who.int/emergencies/diseases/meningitis/en/)
+* [rabies](https://www.who.int/news-room/fact-sheets/detail/rabies)
+* [dengue](https://www.health.gov.au/diseases/dengue-virus-infection)
+* [hepatitis](https://www.who.int/health-topics/hepatitis#tab=tab_1)
+* [polio](https://www.who.int/news-room/fact-sheets/detail/poliomyelitis)
 
 Serious outbreaks sometimes occur.
 
