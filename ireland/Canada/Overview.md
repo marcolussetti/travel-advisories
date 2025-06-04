@@ -4,6 +4,10 @@
 
 Normal Precautions
 
+### **Travel Alert**
+
+Wildfire season is underway in Canada, and 2025 is expected to be a particularly difficult one. Evacuation orders in response to wildfires can be expected at short notice, particularly in British Columbia, Alberta and Manitoba. Visitors are advised to check the status of wildfires before travelling, and to abide by all guidance provided by Provincial authorities in relation to wildfire safety.
+
 ### **General Travel Advice**
 
 **To enter Canada, all arrivals are required to have a valid passport for the duration of their stay.**

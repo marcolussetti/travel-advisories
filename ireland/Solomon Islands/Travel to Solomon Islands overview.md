@@ -10,7 +10,7 @@ Irish citizens do not require a visa to enter Solomon Islands.
 
 A valid passport is required for travel to Solomon Islands. Irish passports should have a minimum validity of 6 months. Passport cards cannot be used.
 
-For more information on visas and passports, please see the Additional Information tab.
+For more information on visas and passports, please see the Entry requirements tab.
 
 Visitors to Solomon Islands are advised to follow the guidance of national and local authorities and stay fully informed of what's going on by monitoring local news and social media.
 

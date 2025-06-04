@@ -3,29 +3,29 @@
     "risk_level": "Do Not Travel",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Burkina Faso/Overview.md"
+            "title": "Travel to Burkina Faso overview",
+            "file": "ireland/Burkina Faso/Travel to Burkina Faso overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Burkina Faso/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Burkina Faso/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Burkina Faso/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Burkina Faso/Additional information.md"
+            "title": "Local Laws and Customs",
+            "file": "ireland/Burkina Faso/Local Laws and Customs.md"
+        },
+        {
+            "title": "Entry Requirements",
+            "file": "ireland/Burkina Faso/Entry Requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Burkina Faso/Embassy contact.md"
         }
     ],
-    "update_date": "2025-03-26T00:00:00"
+    "update_date": "2025-06-03T00:00:00"
 }

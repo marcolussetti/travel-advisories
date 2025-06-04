@@ -1,11 +1,5 @@
 ## Safety and security
 
-### **Practical advice**
-
-* Get advice locally about areas of risk and security concerns
-* Take common-sense precautions about safety and security
-* Know who to contact in case of an emergency
-
 ### **Security**
 
 **The security situation remains volatile with a heightened risk of violent conflict and civil unrest.**
@@ -19,3 +13,9 @@ A state of emergency remains in place for the Lake Chad region. There is an acti
 In April 2021, rebels entered north-western Chad from Libya before being repelled by Chadian forces. The President of Chad was killed in the fighting.
 
 Incidents of robbery, carjacking at gunpoint, and murder have been reported throughout the country including in N’Djamena.
+
+### **Practical advice**
+
+* Get advice locally about areas of risk and security concerns
+* Take common-sense precautions about safety and security
+* Know who to contact in case of an emergency

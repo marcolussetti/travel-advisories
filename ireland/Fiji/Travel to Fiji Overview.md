@@ -12,7 +12,7 @@ Business visitors will need to apply for a [**Business Visitors Permit**](https:
 
 A valid passport is required for travel to Fiji. Irish passports should have a minimum validity of 6 months. Passport cards cannot be used.
 
-For more information on visas and passports, please see the Additional Information tab.
+For more information on visas and passports, please see the Entry requirements tab.
 
 Visitors to Fiji are advised to follow the guidance of national and local authorities and stay fully informed of what's going on by monitoring local news and social media.
 

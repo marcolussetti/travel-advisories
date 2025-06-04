@@ -18,6 +18,8 @@ USA
 
 [Tel: +1 202 462 3939](tel:+1202 462 3939)
 
+Our consular region covers the District of Columbia, Maryland, Virginia and West Virginia.
+
 [**Contact us**](/en/usa/washington/contact/)
 
 ### Consulate General of Ireland, Atlanta
@@ -28,6 +30,8 @@ Atlanta
 GA 30326, USA
 
 [Tel: +1 404 554 4980](tel:+1404 554 4980)
+
+Our consular region covers Georgia, Kentucky, North Carolina, South Carolina and Tennessee.
 
 [**Contact us**](/en/usa/atlanta/contact/)
 
@@ -53,7 +57,7 @@ USA
 
 [Tel: +1 617 267 9330](tel:+1617 267 9330)
 
-Our consular region covers Massachusetts, New Hampshire, Vermont, Maine, and Rhode Island.
+Our consular region covers Maine, Massachusetts, New Hampshire, Rhode Island and Vermont.
 
 [**Contact us**](/en/usa/boston/contact/)
 
@@ -63,6 +67,10 @@ Our consular region covers Massachusetts, New Hampshire, Vermont, Maine, and Rho
 Suite 1500   
 Chicago, IL 60611   
 USA
+
+Our consular region covers Illinois, Indiana, Iowa, Michigan, Minnesota, Nebraska, North Dakota, South Dakota, Wisconsin.
+
+Additional visa services provided for: Arkansas, Kansas, Louisiana, Missouri, Oklahoma, Texas.
 
 [**Contact Us**](/en/usa/chicago/contact/)
 
@@ -75,6 +83,10 @@ USA
 
 [Tel: +1 310 279 5380](tel:+1310 279 5380)
 
+Our consular region covers Arizona, Southern California (south of the San Bernardino County Line), Hawaii, Nevada, New Mexico and Utah.
+
+Visa services for this region are provided by the [Consulate General of Ireland, San Francisco.](/en/usa/sanfrancisco/)
+
 [**Contact us**](/en/usa/losangeles/contact/)
 
 ### Consulate General of Ireland, Miami
@@ -86,6 +98,10 @@ USA
 
 [Tel: +305 913 1326](tel:+305913 1326)
 
+Our consular region covers Alabama, Florida, Mississippi.
+
+We are also responsible for Puerto Rico and the US Virgin Islands.
+
 [**Contact us**](/en/usa/miami/contact/)
 
 ### Consulate General of Ireland, New York
@@ -95,13 +111,13 @@ Floor 17
 New York NY 10166   
 USA
 
+Our consular region covers New York, Connecticut, New Jersey, New York, Pennsylvania, Delaware and Ohio.
+
 [**Contact us**](/en/usa/newyork/contact/)
 
 **Mainline:** [**+1 (212 ) 319 -2555**](tel:+1 (212 ) 319 -2555)
 
 **Passport queries:** [**+1 (212) 319-2556**](tel:+1 (212) 319-2556)
-
-Our consular region covers New York, Connecticut, New Jersey, New York, Pennsylvania, Delaware and Ohio.
 
 ### Consulate General of Ireland, San Francisco
 
@@ -111,6 +127,10 @@ San Francisco, CA 94104
 USA
 
 [Tel: +1 415 392 4214](tel:+1415 392 4214)
+
+Our consular region covers Northern California, Alaska, Washington, Montana, Oregon, Idaho, Wyoming and Colorado.
+
+Additional visa services provided for: Southern California, Arizona, Hawaii, Nevada, New Mexico and Utah.
 
 [**Contact us**](/en/usa/sanfrancisco/contact/)
 

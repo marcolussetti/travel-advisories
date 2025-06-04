@@ -1,5 +1,7 @@
 ## Health
 
+### Vaccinations
+
 Check with a doctor well in advance of travelling to see what vaccinations for Papua New Guinea are required. Be aware that if you have a compromised immune system you may be at greater risk of falling ill or contracting disease while travelling in this country.
 
 ### **HIV and AIDS**

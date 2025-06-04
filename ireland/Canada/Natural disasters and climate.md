@@ -10,7 +10,7 @@ May to September are the prime tornado months with the peak season in June and e
 
 ### **Forest fires**
 
-Forest fires can break out at any time, regardless of the season, though they tend to be most prevalent from May-September . Please heed local warnings and monitor news bulletins for latest details on local outbreaks. For more information visit the [**Environment Canada**](http://www.ec.gc.ca/default.asp?lang=En&n=FD9B0E51-1) website.
+Forest fires can break out at any time, regardless of the season, though they tend to be most prevalent from May-September. Please heed local warnings and monitor news bulletins for latest details on local outbreaks. For more information visit the [**Environment Canada**](http://www.ec.gc.ca/default.asp?lang=En&n=FD9B0E51-1) website.
 
 ### **Snow Storms**
 

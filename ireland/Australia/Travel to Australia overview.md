@@ -10,7 +10,7 @@ Irish citizens require a visa to enter Australia.
 
 A valid passport is required for travel to Australia. It is recommended that incoming passengers have a minimum validity of six months on their passports. Passport cards cannot be used for entry to Australia.
 
-For more information on visas and passports, please see the Additional Information tab.
+For more information on visas and passports, please see the Entry requirements tab.
 
 Visitors to Australia are advised to follow the guidance of national and local authorities and stay fully informed of what's going on by monitoring local news and social media.
 

@@ -46,7 +46,7 @@ Road traffic accidents are the most common cause of death and serious injury to 
 * Check road conditions before beginning your journey; stay with your vehicle if it breaks down; and avoid travelling in extreme heat conditions. Sudden storms and strong winds can make driving difficult.
 * Random breath testing of a driver’s blood alcohol and drug level is a common occurrence.
 
-[**The Tourism Australia website**](https://www.australia.com/en-us) has extensive information on travelling around the continent. The Australian Government’s [**Health and safety information for travellers - Tourism Australia**](https://www.australia.com/en/facts-and-planning/health-and-safety/faq.html)also contains comprehensive travel safety advice on Australia.
+[**The Tourism Australia website**](https://www.australia.com/en-us) has extensive information on travelling around the continent. The Australian Government’s [**Health and safety information for travellers - Tourism Australia**](https://www.australia.com/en/facts-and-planning/health-and-safety/faq.html) also contains comprehensive travel safety advice on Australia.
 
 ### **Safe Driving**
 

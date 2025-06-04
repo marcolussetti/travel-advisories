@@ -1,30 +1,33 @@
-## Travel to Nauru overview
+## Travel to Vanuatu overview
 
 ### **Security Status**
 
-Normal Safety Precautions
+Normal Precautions
 
 ### **General Travel Advice**
 
-Irish citizens must obtain a visa before entry into Nauru; there is no visa issuance on arrival.
+Irish citizens do not require a visa to travel to Vanuatu.
 
-A valid passport is required for travel to Nauru. Irish passports should have a minimum validity of 6 months. Passport cards cannot be used.
+A valid passport is required for travel to Vanuatu. Irish passports should have a minimum validity of six months after intended date of departure. Passport cards cannot be used.
 
 For more information on visas and passports, please see the Entry requirements tab.
 
-Visitors to Nauru are advised to follow the guidance of national and local authorities and stay fully informed of what's going on by monitoring local news and social media.
+Visitors to Vanuatu are advised to follow the guidance of national and local authorities and stay fully informed of what's going on by monitoring local news and social media.
 
-Citizens can also follow the Embassy on social media (X @[**irlembaustralia**](https://twitter.com/irlembaustralia) and Facebook @[**IrishEmbassyAustralia**](https://www.facebook.com/IrishEmbassyAustralia)) to ensure access to relevant updates and alerts.
+Citizens can also follow the Embassy on social media (X [**@IrelandinNZ**](https://twitter.com/IrelandinNZ) and Facebook [**@IrishEmbassyNewZealand**](https://www.facebook.com/irishembassynewzealand/)) to ensure access to relevant updates and alerts.
 
 ### **Emergency Assistance**
 
 The best help is often close at hand so if you have problems, try talking to your local contacts, tour operator representative or hotel management.
 
-Visitors can contact the emergency services in Nauru by dialling:
+You can contact the emergency services in Vanuatu by dialling 111
 
-* Police: 110
-* Medical assistance: 111
-* Firefighters: 112
+Specific emergency numbers are:
+
+* Police: 22222 or 111
+* Fire brigade: 22333
+* Medical Assistance: 22100 or 112
+* Promedical Ambulance 25566 or 115
 
 ### **Our Tips for Safe Travels:**
 
@@ -34,4 +37,4 @@ Visitors can contact the emergency services in Nauru by dialling:
 * Read our [**‘Know Before You Go’**](https://www.ireland.ie/en/dfa/overseas-travel/know-before-you-go/) guide.
 * Read our [**Consular Assistance Charter**](https://www.ireland.ie/en/dfa/overseas-travel/assistance-abroad/consular-assistance-charter/) that clearly sets out the assistance that can be provided to citizens in difficulty overseas, and the limits of what the Department can do.
 
-As there is no Irish Embassy in Nauru, we are limited in the help we can offer you in an emergency. However, if you need assistance, you can contact the [**Irish Embassy in Canberra, Australia**](https://www.ireland.ie/en/australia/canberra/)**.**
+As there is no Irish Embassy in Vanuatu, we are limited in the help we can offer you in an emergency. However, if you need assistance, you can contact the [**Irish Embassy in New Zealand**](/en/new-zealand/wellington/)**.**

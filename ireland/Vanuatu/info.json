@@ -3,29 +3,33 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Vanuatu/Overview.md"
+            "title": "Travel to Vanuatu overview",
+            "file": "ireland/Vanuatu/Travel to Vanuatu overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Vanuatu/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Vanuatu/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Vanuatu/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Vanuatu/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/Vanuatu/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/Vanuatu/Natural disasters and climate.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/Vanuatu/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Vanuatu/Embassy contact.md"
         }
     ],
-    "update_date": "2025-05-16T00:00:00"
+    "update_date": "2025-06-03T00:00:00"
 }

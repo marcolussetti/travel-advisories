@@ -3,29 +3,29 @@
     "risk_level": "Avoid Non-Essential Travel",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Chad/Overview.md"
+            "title": "Travel to Chad overview",
+            "file": "ireland/Chad/Travel to Chad overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Chad/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Chad/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Chad/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Chad/Additional information.md"
+            "title": "Local Laws and Customs",
+            "file": "ireland/Chad/Local Laws and Customs.md"
+        },
+        {
+            "title": "Entry Requirements",
+            "file": "ireland/Chad/Entry Requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Chad/Embassy contact.md"
         }
     ],
-    "update_date": "2025-03-18T00:00:00"
+    "update_date": "2025-06-03T00:00:00"
 }

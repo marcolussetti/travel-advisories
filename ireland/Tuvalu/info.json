@@ -3,29 +3,33 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Tuvalu/Overview.md"
+            "title": "Travel to Tuvalu overview",
+            "file": "ireland/Tuvalu/Travel to Tuvalu overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Tuvalu/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Tuvalu/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Tuvalu/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Tuvalu/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/Tuvalu/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/Tuvalu/Natural disasters and climate.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/Tuvalu/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Tuvalu/Embassy contact.md"
         }
     ],
-    "update_date": "2023-11-23T00:00:00"
+    "update_date": "2025-06-03T00:00:00"
 }

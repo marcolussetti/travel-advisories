@@ -11,16 +11,16 @@
             "file": "ireland/Fiji/Safety and security.md"
         },
         {
+            "title": "Health",
+            "file": "ireland/Fiji/Health.md"
+        },
+        {
             "title": "Local laws and customs",
             "file": "ireland/Fiji/Local laws and customs.md"
         },
         {
             "title": "Natural disasters and climate",
             "file": "ireland/Fiji/Natural disasters and climate.md"
-        },
-        {
-            "title": "Health",
-            "file": "ireland/Fiji/Health.md"
         },
         {
             "title": "Entry requirements",
@@ -31,5 +31,5 @@
             "file": "ireland/Fiji/Embassy contact.md"
         }
     ],
-    "update_date": "2025-03-25T00:00:00"
+    "update_date": "2025-06-03T00:00:00"
 }

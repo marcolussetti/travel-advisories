@@ -1,6 +1,6 @@
 ## Health
 
-### **Health**
+### **Health Risks**
 
 There are a high number of Leptospirosis cases nationwide. Stay away from flooded rivers or creeks, and wear footwear when outside. Monitor the [**Ministry of Health and Medical Services website**](http://www.health.gov.fj/) and [**Ministry of Health and Medical Services Facebook page**](https://www.facebook.com/MHMSFiji/) for information and updates.
 

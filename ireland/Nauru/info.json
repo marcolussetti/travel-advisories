@@ -11,16 +11,16 @@
             "file": "ireland/Nauru/Safety and security.md"
         },
         {
+            "title": "Health",
+            "file": "ireland/Nauru/Health.md"
+        },
+        {
             "title": "Local laws and customs",
             "file": "ireland/Nauru/Local laws and customs.md"
         },
         {
             "title": "Natural disasters and climate",
             "file": "ireland/Nauru/Natural disasters and climate.md"
-        },
-        {
-            "title": "Health",
-            "file": "ireland/Nauru/Health.md"
         },
         {
             "title": "Entry requirements",
@@ -31,5 +31,5 @@
             "file": "ireland/Nauru/Embassy contact.md"
         }
     ],
-    "update_date": "2025-03-31T00:00:00"
+    "update_date": "2025-06-03T00:00:00"
 }

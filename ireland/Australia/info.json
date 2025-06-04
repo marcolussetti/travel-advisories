@@ -11,16 +11,16 @@
             "file": "ireland/Australia/Safety and security.md"
         },
         {
+            "title": "Health",
+            "file": "ireland/Australia/Health.md"
+        },
+        {
             "title": "Local laws and customs",
             "file": "ireland/Australia/Local laws and customs.md"
         },
         {
             "title": "Natural disasters and climate",
             "file": "ireland/Australia/Natural disasters and climate.md"
-        },
-        {
-            "title": "Health",
-            "file": "ireland/Australia/Health.md"
         },
         {
             "title": "Entry requirements",
@@ -35,5 +35,5 @@
             "file": "ireland/Australia/Embassy contact.md"
         }
     ],
-    "update_date": "2025-03-31T00:00:00"
+    "update_date": "2025-06-03T00:00:00"
 }

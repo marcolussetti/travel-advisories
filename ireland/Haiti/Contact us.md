@@ -14,4 +14,6 @@ USA
 
 [Tel: +1 202 462 3939](tel:+1202 462 3939)
 
+Our consular region covers the District of Columbia, Maryland, Virginia and West Virginia.
+
 [**Contact us**](/en/usa/washington/contact/)

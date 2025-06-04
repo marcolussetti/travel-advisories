@@ -16,12 +16,11 @@ Fax: +49 30 220 72299
 
 ### Consulate General of Ireland, Frankfurt
 
-Signature OpernTurm,   
-Bockenheimer Landstraße 2-4,   
-60306 Frankfurt am Main,   
+Neue Mainzer Strasse 1   
+60311 Frankfurt am Main   
 Germany
 
-[Tel: +49 69 667 74 8041](tel:+4969 667 74 8041)
+[Tel: +49 30 220 72 160](tel:+4930 220 72 160)
 
 Fax: +49 69 667 74 8041
 

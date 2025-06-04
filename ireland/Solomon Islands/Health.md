@@ -1,5 +1,7 @@
 ## Health
 
+### Health Risks
+
 Malaria and dengue are widespread across Solomon Islands.
 
 Zika virus is also found in Solomon Islands. There's no vaccination for Zika virus.
@@ -14,5 +16,7 @@ Foodborne, waterborne, parasitic and other infectious diseases occur in Solomon 
 * [**sexually transmitted infections**](https://www.who.int/news-room/fact-sheets/detail/sexually-transmitted-infections-(stis))
 
 See the [**Solomon Islands Heath Advisory**](https://solomons.gov.sb/health-advisory-for-international-passengers-to-solomon-islands/) for more information.
+
+### **Vaccinations**
 
 Check with your doctor well in advance of travelling to see what vaccinations you need for the Solomon Islands.  Irish Citizens are advised to follow the advice of the [**Health Protection Surveillance Centre.**](https://www.hpsc.ie/)
