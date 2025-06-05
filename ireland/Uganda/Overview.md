@@ -12,6 +12,8 @@ We advise Irish citizens to exercise an increased level of caution in public are
 
 Citizens present in Uganda – either short of long term – can register their presence [**here**](https://citizensregistration.dfa.ie/)**.**
 
+On 3 June 2025, a device carried by motorbike exploded in Munyonyo – Kampala – close to a large gathering of pilgrims.
+
 On 17 October 2023 two foreign tourists and their local guide were killed by suspected terrorists in Queen Elizabeth National Park. Security operations in response to this incident are ongoing. The Department of Foreign Affairs advises against all but essential travel to Queen Elizabeth National Park at this time. The Embassy also advises against all but essential travel to Semuliki National Park, and to the area immediately south-west of Kasese up to the DRC border.
 
 In September 2023 a number of improvised explosive devices were captured by police. Two devices exploded in the greater Kampala area in December 2023. Terror attacks can be indiscriminate, including in places frequented by expatriates and foreign travellers. Large crowds of people and public places may also be targets.

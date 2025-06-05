@@ -1,6 +1,6 @@
 ## Natural disasters and climate
 
-### **Earthquakes and tsunamis**
+### **Earthquakes and Tsunamis**
 
 Japan is in a very active earthquake zone and earthquakes of various sizes occur frequently throughout the country. Irish citizens travelling to or resident in Japan should familiarise themselves with the measures to take in the event of an earthquake.
 
@@ -14,7 +14,7 @@ The following may also be useful sources of information for visitors to Japan:
 * [**Ministry of Land, Infrastructure, Transport, Tourism Disaster Portal**](http://www.mlit.go.jp/river/bousai/olympic/en/index.html)
 * English language disaster information is available via the notifications feature on the [**NHK World News App**](https://www3.nhk.or.jp/nhkworld/en/app/)
 
-### **Restrictions around the Fukushima nuclear power plant**
+### **Restrictions around the Fukushima Nuclear Power Plant**
 
 The 2011 earthquake and tsunami severely damaged the Fukushima Daiichi nuclear power plant in Fukushima Prefecture. The Japanese authorities implemented exclusion zones around the plant, and illegally entering these zones is a punishable offence. Further information on these areas can be seen on this Japanese government [**website**](http://www.pref.fukushima.lg.jp/site/portal-english/en-1-3-3.html). The Japanese authorities carry out comprehensive monitoring of possible contamination of water and food and are imposing strict controls where necessary. The situation has stabilised, although it will take decades to decommission and decontaminate the plant.
 

@@ -3,8 +3,8 @@
     "risk_level": "Do Not Travel",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Afghanistan/Overview.md"
+            "title": "Travel to Afghanistan overview",
+            "file": "ireland/Afghanistan/Travel to Afghanistan overview.md"
         },
         {
             "title": "Safety and security",
@@ -15,13 +15,13 @@
             "file": "ireland/Afghanistan/Local laws and customs.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Afghanistan/Additional information.md"
+            "title": "Entry requirements",
+            "file": "ireland/Afghanistan/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Afghanistan/Embassy contact.md"
         }
     ],
-    "update_date": "2025-05-16T00:00:00"
+    "update_date": "2025-06-04T00:00:00"
 }

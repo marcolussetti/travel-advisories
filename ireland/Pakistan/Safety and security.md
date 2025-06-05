@@ -12,7 +12,7 @@ Carry photographic ID at all times.
 
 The security situation in Pakistan is unstable and dangerous. Avoid all large gatherings and areas which are known to be vulnerable to unrest.
 
-### **Sectarian violence**
+### **Sectarian Violence**
 
 There is an ongoing threat of serious terrorism incidents particularly in Baluchistan and many parts of Khyber Pakhtunkhwa. Caution should always be exercised around public gatherings, around major religious festivals and during peak prayer times on Fridays. Public transport (trains / busses) should be completely avoided.
 
@@ -39,7 +39,7 @@ The threat of kidnap of foreign nationals across Pakistan remains high. Kidnappe
 
 Crime levels in Pakistan are high, especially in Karachi and much of Baluchistan, rural Sindh and the Khyber Pakhtunkhwa, including the former FATA (Federally-Administered Tribal Areas), have a high incidence of lawlessness.
 
-### **Violent crime**
+### **Violent Crime**
 
 Criminal violence, including armed car-jacking, robbery, kidnap and murder, is common in Pakistan, especially in Karachi. Travelers have also been offered drugged food and then robbed. Always be aware of the risks and take personal security precautions.
 

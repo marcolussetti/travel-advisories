@@ -10,13 +10,17 @@ Visitors should be aware that there have been numerous reported instances of dri
 
 Personal attacks, including sexual assault and rape, are rare, but do happen. Japanese law places a high burden of proof on the victim to demonstrate that the sexual relations were not consensual and committed through assault, intimidation or force.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If a victim of a crime while in Japan, report it to the local police immediately. Note that the police may initially refuse to issue a document which proves a report has been made. Please contact the [**Irish Embassy in Tokyo**](https://www.ireland.ie/en/japan/) if assistance is required.
 
 ### **Counselling Services**
 
 Victims requiring professional counselling services are advised to contact [**TELL Japan**](http://telljp.com/) who offer free, anonymous telephone counselling and support across Japan.
+
+### **Cash and Banking**
+
+We advise visitors to contact their financial institution in advance of travelling to Japan to check cards will be valid upon arrival as some visitors experience difficulties accessing funds using cash cards issued in Ireland. It is advisable for visitors to have an alternative means with which to access funds should such situations arise (e.g. a credit card with a cash advance facility or travellers' cheques).
 
 ### **Driving**
 
@@ -28,13 +32,13 @@ If driving:
 * There are severe penalties against drink-driving or allowing someone else to drink and drive by, for example, being a passenger in a vehicle driven by a drunk driver.
 * Longer-term residents who wish to drive in Japan will need to obtain a domestic driving licence within their first year in the country. The [**Tokyo Metropolitan Police website**](https://www.keishicho.metro.tokyo.lg.jp/multilingual/english/traffic_safety/drivers_licenses/index.html) provides useful information about obtaining a Japanese licence.
 
-### **Vehicle hire**
+### **Vehicle Hire**
 
 If hiring a vehicle, we advise not to hand over your passport as a form of security. If allowing your passport to be photocopied, keep it in your sight at all times.
 
 Check that you have adequate insurance and read the small print of the vehicle hire contract (particularly any waiver that will come into effect if the vehicle is damaged).
 
-### **Political tensions/Nuclear and missile tests by North Korea**
+### **Political Tensions/Nuclear and Missile Tests by North Korea**
 
 While the likelihood of an incident remains low, we encourage visitors to be prepared and to be familiar with established safety procedures.
 

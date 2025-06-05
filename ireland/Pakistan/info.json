@@ -3,25 +3,29 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Pakistan/Overview.md"
+            "title": "Travel to Pakistan overview",
+            "file": "ireland/Pakistan/Travel to Pakistan overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Pakistan/Safety and security.md"
         },
         {
+            "title": "Health",
+            "file": "ireland/Pakistan/Health.md"
+        },
+        {
             "title": "Local laws and customs",
             "file": "ireland/Pakistan/Local laws and customs.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Pakistan/Additional information.md"
+            "title": "Entry requirements",
+            "file": "ireland/Pakistan/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Pakistan/Embassy contact.md"
         }
     ],
-    "update_date": "2025-05-20T00:00:00"
+    "update_date": "2025-06-04T00:00:00"
 }

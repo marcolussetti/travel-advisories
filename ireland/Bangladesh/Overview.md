@@ -6,17 +6,19 @@ High Degree of Caution
 
 ### **Travel Alert**
 
-Following improvements in the overall security situation in many parts of Bangladesh, the Department of Foreign Affairs has lifted its advice against all but essential travel to the whole of Bangladesh. The Department however continues to advise against all but essential travel to the Chittagong Hill Tracts. The area is made up of the following districts:
+An interim government has taken control over the country following the exile of PM Hasina on 5 August 2024.
 
-Rangamati  
- Khagrachari  
- Bandarban
+Although law and order has largely been restored, the political situation is unstable with street protests and demonstrations a frequent occurrence particularly in the capital Dhaka.
 
-An interim government has taken control over the country following the resignation and departure of PM Hasina on 5 August.
+The Department however continues to advise against all but essential travel to the Chittagong Hill Tracts. The area is made up of the following districts:
 
-The curfew has been lifted, railway services are operating and communications are back online.
+Rangamati
 
-Irish citizens travelling to or located in Bangladesh are recommended to exercise a high degree of caution, avoid demonstrations and monitor the advice of local authorities. As calls for elections mount and political campaigning begins, it is likely that there will be an increase in rallies, protests and demonstrations. In this context, it is important that citizens remain particularly vigilant. Those who have not already done so should register their details and those of their dependents [here](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/).
+Khagrachari
+
+Bandarban
+
+Irish citizens travelling to or located in Bangladesh are recommended to exercise a high degree of caution, avoid demonstrations and monitor the advice of local authorities. As calls for elections mount and political campaigning begins, it is likely that there will be an increase in rallies, protests and demonstrations between now and the end of the year. In this context, it is important that citizens remain particularly vigilant. Those who have not already done so should register their details and those of their dependents [**here**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/).
 
 ## **General Travel Advice**
 

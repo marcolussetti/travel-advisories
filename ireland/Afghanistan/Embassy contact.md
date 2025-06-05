@@ -1,5 +1,7 @@
 ## Embassy contact
 
+As Ireland does not have an Embassy or Consulate in Afghanistan, consular assistance is provided via the Embassy of Ireland in Pakistan.
+
 If you need emergency assistance from the Embassy, then contact us immediately. Our telephone number is:+92 302 8563388.
 
 Alternatively, you may contact the Duty Officer at the Department of Foreign Affairs in Dublin at +353 1 408 2000 at any time.

@@ -31,7 +31,7 @@ Afghanistan's traffic infrastructure is poorly developed, and large parts of the
 
 If you want to drive despite this advice, bring your international driving permit and make sure you have adequate and appropriate insurance. Please also note that outside of larger cities, there is only sporadic internet and mobile phone coverage.
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If you’re hiring a vehicle, we advise you not to hand over your passport as a form of security. If you’re allowing your passport to be photocopied, keep it in your sight at all times.
 

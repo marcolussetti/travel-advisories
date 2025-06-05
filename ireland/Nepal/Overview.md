@@ -4,10 +4,6 @@
 
 High Degree of Caution
 
-### Travel Alert
-
-Recent flooding and landslides across Nepal has caused disruption to domestic transport. Some roads are impassable or closed and flights are experiencing delays. Please check transport plans with your tour operator and follow advice from local authorities.
-
 ### **General Travel Advice**
 
 Irish citizens require a visa to enter Nepal.

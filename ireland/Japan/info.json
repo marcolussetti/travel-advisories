@@ -3,12 +3,16 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Japan/Overview.md"
+            "title": "Travel to Japan overview",
+            "file": "ireland/Japan/Travel to Japan overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Japan/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Japan/Health.md"
         },
         {
             "title": "Local laws and customs",
@@ -19,13 +23,13 @@
             "file": "ireland/Japan/Natural disasters and climate.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Japan/Additional information.md"
+            "title": "Entry requirements",
+            "file": "ireland/Japan/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Japan/Embassy contact.md"
         }
     ],
-    "update_date": "2025-05-14T00:00:00"
+    "update_date": "2025-06-04T00:00:00"
 }

@@ -44,7 +44,9 @@ USA
 
 [Tel: +1 512 792 5500](tel:+1512 792 5500)
 
-Our Consular Region covers Texas, Oklahoma, Arkansas, Missouri, Kansas, and Louisiana.
+Our consular region covers Arkansas, Kansas, Louisiana, Missouri, Oklahoma and Texas.
+
+Visa and passport services for this region are provided by the [Consulate General of Ireland, Chicago.](/en/usa/chicago/)
 
 [**Contact us**](/en/usa/austin/contact/)
 
@@ -68,9 +70,9 @@ Suite 1500
 Chicago, IL 60611   
 USA
 
-Our consular region covers Illinois, Indiana, Iowa, Michigan, Minnesota, Nebraska, North Dakota, South Dakota, Wisconsin.
+Our consular region covers Illinois, Indiana, Iowa, Michigan, Minnesota, Nebraska, North Dakota, South Dakota and Wisconsin.
 
-Additional visa services provided for: Arkansas, Kansas, Louisiana, Missouri, Oklahoma, Texas.
+Additional visa and passport services provided for: Arkansas, Kansas, Louisiana, Missouri, Oklahoma, Texas.
 
 [**Contact Us**](/en/usa/chicago/contact/)
 
@@ -83,7 +85,7 @@ USA
 
 [Tel: +1 310 279 5380](tel:+1310 279 5380)
 
-Our consular region covers Arizona, Southern California (south of the San Bernardino County Line), Hawaii, Nevada, New Mexico and Utah.
+Our consular region covers Arizona, Hawaii, Nevada, New Mexico, Southern California (south of the San Bernardino County Line) and Utah.
 
 Visa services for this region are provided by the [Consulate General of Ireland, San Francisco.](/en/usa/sanfrancisco/)
 
@@ -128,9 +130,9 @@ USA
 
 [Tel: +1 415 392 4214](tel:+1415 392 4214)
 
-Our consular region covers Northern California, Alaska, Washington, Montana, Oregon, Idaho, Wyoming and Colorado.
+Our consular region covers Alaska, Colorado, Idaho, Montana, Northern California (north of the San Bernardino line), Oregon, Washington and Wyoming.
 
-Additional visa services provided for: Southern California, Arizona, Hawaii, Nevada, New Mexico and Utah.
+Additional visa services provided for: Arizona, Hawaii, Nevada, New Mexico, Southern California (south of the San Bernardino line) and Utah.
 
 [**Contact us**](/en/usa/sanfrancisco/contact/)
 

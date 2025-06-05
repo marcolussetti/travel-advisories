@@ -1,6 +1,6 @@
 ## Embassy contact
 
-In the event of an emergency situation in Slovenia or Bosnia and Herzegovina, please contact the Embassy in Ljubljana on +386 (0)1 300 8970. The mobile telephone number of the officer on duty will be available on the answering machine.
+If you are in need of emergency assistance in Slovenia outside office hours, please contact the Embassy in Ljubljana on +386 (0)1 300 8970 and leave a message for the duty office on the answering machine.
 
 The out of hours service is strictly for genuine emergencies only. Queries or requests that can wait until normal office hours will not be dealt with by the duty officer.
 

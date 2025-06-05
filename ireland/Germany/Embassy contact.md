@@ -22,8 +22,6 @@ Germany
 
 [Tel: +49 30 220 72 160](tel:+4930 220 72 160)
 
-Fax: +49 69 667 74 8041
-
 [**Contact us**](/en/germany/frankfurt/contact/)
 
 ### Consulate General of Ireland, Munich
