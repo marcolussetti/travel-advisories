@@ -19,6 +19,10 @@ Areas close to the borders with Mauritania and Mali, where jihadist groups are a
 
 Strikes and demonstrations are common in larger cities. Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation.
 
+* Avoid areas where demonstrations and large gatherings are taking place
+* Follow the instructions of local authorities
+* Monitor local media for information on ongoing demonstrations
+
 [Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
 
 ### Terrorism
@@ -33,6 +37,10 @@ Targets could include:
 * public areas such as tourist attractions, restaurants, bars, coffee shops, shopping centres, markets, hotels and other sites frequented by foreigners
 
 Always be aware of your surroundings when in public places.
+
+### Kidnapping
+
+Kidnapping does not pose a significant risk in Senegal, but it cannot be ruled out since terrorist groups operating in neighbouring countries use this tactic. Be particularly vigilant in border areas.
 
 ### Hotel selection
 

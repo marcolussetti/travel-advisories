@@ -158,7 +158,7 @@
     {
         "destination": "Bolivia",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-06-03T10:52:10",
+        "last_updated": "2025-06-04T13:28:37",
         "details_url": "https://travel.gc.ca/destinations/bolivia"
     },
     {
@@ -290,7 +290,7 @@
     {
         "destination": "Costa Rica",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-06-03T10:02:46",
+        "last_updated": "2025-06-04T14:08:49",
         "details_url": "https://travel.gc.ca/destinations/costa-rica"
     },
     {
@@ -404,7 +404,7 @@
     {
         "destination": "Ethiopia",
         "risk_level": "Avoid non-essential travel (with regional advisories)",
-        "last_updated": "2025-05-21T13:56:22",
+        "last_updated": "2025-06-04T09:14:29",
         "details_url": "https://travel.gc.ca/destinations/ethiopia"
     },
     {
@@ -673,8 +673,8 @@
     },
     {
         "destination": "Lebanon",
-        "risk_level": "Avoid all travel",
-        "last_updated": "2025-05-21T13:56:22",
+        "risk_level": "Avoid non-essential travel (with regional advisories)",
+        "last_updated": "2025-06-04T15:51:22",
         "details_url": "https://travel.gc.ca/destinations/lebanon"
     },
     {
@@ -788,7 +788,7 @@
     {
         "destination": "Mexico",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-06-03T10:02:46",
+        "last_updated": "2025-06-04T14:12:05",
         "details_url": "https://travel.gc.ca/destinations/mexico"
     },
     {
@@ -824,7 +824,7 @@
     {
         "destination": "Montserrat",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2025-06-03T10:02:46",
+        "last_updated": "2025-06-04T11:54:16",
         "details_url": "https://travel.gc.ca/destinations/montserrat"
     },
     {
@@ -1094,7 +1094,7 @@
     {
         "destination": "Senegal",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-05-21T13:56:22",
+        "last_updated": "2025-06-04T15:35:02",
         "details_url": "https://travel.gc.ca/destinations/senegal"
     },
     {
@@ -1310,7 +1310,7 @@
     {
         "destination": "United Arab Emirates",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-05-21T13:56:22",
+        "last_updated": "2025-06-04T08:34:19",
         "details_url": "https://travel.gc.ca/destinations/united-arab-emirates"
     },
     {

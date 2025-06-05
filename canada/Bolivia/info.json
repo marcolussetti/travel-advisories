@@ -1,7 +1,7 @@
 {
     "name": "Bolivia",
-    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
-    "update_date": "2025-06-03T10:52:00",
+    "update_reason": "The Need help? section was updated.",
+    "update_date": "2025-06-04T13:28:00",
     "sections": {
         "risk": "canada/Bolivia/risk.md",
         "security": "canada/Bolivia/security.md",

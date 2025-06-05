@@ -23,13 +23,17 @@ If you decide to travel to a coastal area during the hurricane season despite th
 
 ### Volcano
 
-The Soufrière Hills Volcano is still active but has not erupted since February 2010.
+The Soufrière Hills Volcano is active but has not erupted since February 2010.
 
-Local authorities constantly monitor seismic activity and assess alert levels. Access to certain zones is prohibited.
+Local authorities constantly monitor volcanic activity and assess alert levels.
 
-An island-wide alert system is in place to warn the population of volcanic activity. Make sure you have your security arrangements in mind. If you hear an alert:
+An island-wide alert system is in place to warn the population of volcanic activity. Make sure you have your security arrangements in mind.
 
-* immediately tune in Radio Montserrat ZJB 88.3 FM or 95.5 FM for information
-* follow the advice of local authorities
+If you hear an alert:
+
+* immediately tune in to Radio Montserrat ZJB on 88.3 FM or 95.5 FM for information
+* follow the instructions of local authorities
+
+There are several "exclusion" zones around the volcano, comprising land and sea areas. You require prior authorization to visit some of these zones.
 
 [Montserrat Volcano Observatory](http://mvoms.org/)
