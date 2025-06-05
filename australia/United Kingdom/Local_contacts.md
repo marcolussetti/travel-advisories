@@ -40,7 +40,8 @@ Read the [Consular Services Charter](/consular-services/consular-services-chart
 Australia House  
 Strand  
 London WC 2B 4LA, United Kingdom  
-Phone: (+44 20) 7379 4334  
+  
+Phone: +44 20 7379 4334  
 Website: [uk.highcommission.gov.au](http://www.uk.highcommission.gov.au/lhlh/home.html)  
 Facebook: [Australian High Commission in the United Kingdom](https://www.facebook.com/AustralianHighCommissionUK)  
 X: [@AusHouseLondon](https://twitter.com/AusHouseLondon) and [@AusHCUK](https://twitter.com/AusHCUK)

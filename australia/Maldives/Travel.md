@@ -6,7 +6,9 @@
 
 #### Visas
 
-You can get a tourist visa on arrival to Maldives, provided that you meet all entry requirements. Entry and exit conditions can change at short notice. Contact the [Department of Immigration and Emigration of the Republic of Maldives](http://www.immigration.gov.mv/) for details about visas, currency, customs, and quarantine rules.
+You can get a free tourist visa on arrival to Maldives, provided you meet all entry requirements. Entry and exit conditions can change at short notice. Contact the [Department of Immigration and Emigration of the Republic of Maldives](http://www.immigration.gov.mv/) for details about visas, currency, customs, and quarantine rules. Fake websites exist requesting payment for visas. 
+
+Fines for exceeding your visa are expensive and you will not be able to leave Maldives until the fine is paid.
 
 #### Border measures
 
@@ -47,7 +49,7 @@ Some people may try to trick you into giving them your passport. Always keep it 
 If your passport is lost or stolen, tell the Australian Government as soon as possible.
 
 * In Australia, contact the [Australian Passport Information Service](https://www.passports.gov.au/contact-us).
-* If you're overseas, contact the nearest [Australian embassy or consulate](http://dfat.gov.au/about-us/our-locations/missions/Pages/our-embassies-and-consulates-overseas.aspx).
+* If you're overseas, contact the nearest [Australian Embassy, High Commission or Consulate](http://dfat.gov.au/about-us/our-locations/missions/Pages/our-embassies-and-consulates-overseas.aspx).
 
 #### Passport with 'X’ gender identifier
 
@@ -78,13 +80,13 @@ Travel between islands is by boat or plane/seaplane.
 To drive in Maldives, you'll need both:
 
 * a valid International Driving Permit (IDP)
-* a current Australian driver's licence
+* a current Australian driver's licence (digital driver's licences may not be accepted)
 
 If you drive without an IDP, you may not be covered by your travel or vehicle insurance.
 
 #### Road travel
 
-Heavy congestion and road traffic accidents are common in Greater Malé (Malé, Hulhumalé, and Villimalé). Pedestrians and those travelling on motorcycles are at high risk of accidents. Follow road safety regulations and stay alert at all times.
+Heavy congestion and road traffic accidents are common in greater Malé (Malé and Hulhumalé). Pedestrians and those travelling on motorcycles are at high risk of accidents. Follow road safety regulations and always stay alert.
 
 #### Motorcycles
 
@@ -96,7 +98,7 @@ Most helmets you can buy or rent in Maldives don't meet Australian standards.
 
 #### Taxis and water taxis
 
-Only use licensed taxis. Ask your hotel to arrange taxis.
+Only use licensed taxis. Ask your hotel to arrange taxi or airport transfers.
 
 Many resorts operate water taxis between the airport and other islands.
 
@@ -104,7 +106,7 @@ Always wear a life jacket, even if others don't.
 
 #### Public transport
 
-[Public transport](/before-you-go/getting-around/public-transport "Public transport") is available on larger non-resort islands.
+[Public transport](https://www.smartraveller.gov.au/before-you-go/getting-around/public-transport) is available on larger inhabited (non-resort) islands.
 
 Ferries operate between major islands.
 

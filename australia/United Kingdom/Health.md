@@ -21,7 +21,7 @@ Confirm:
 
 #### Physical and mental health
 
-Consider your physical and [mental health](/before-you-go/health/mental-health "Managing your mental health") before you travel, especially if you have an existing medical condition. 
+Consider your physical and [mental health](/before-you-go/health/mental-health "Managing your mental health") before you travel, especially if you have an existing medical condition.
 
 See your doctor or travel clinic to:
 
@@ -93,4 +93,4 @@ When you access healthcare in the UK, you may need to:
 
 There may be delays in accessing medical treatment through the NHS.
 
-The NHS won't cover the cost if you need a medical evacuation. Medical evacuation can be very expensive. Get comprehensive [travel insurance](/before-you-go/the-basics/travel-insurance "Travel insurance") before you leave Australia.
+The NHS won't cover the cost of a medical evacuation, which can be very expensive. Get comprehensive [travel insurance](/before-you-go/the-basics/travel-insurance "Travel insurance") before you leave Australia.

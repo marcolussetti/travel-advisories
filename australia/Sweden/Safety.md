@@ -2,24 +2,19 @@
 
 #### Terrorism
 
-Swedish authorities assess that Sweden is a prioritised target for terrorist attacks, with threats by violent Islamist groups increasing in the past year. Terrorists are very likely to try and carry out attacks in Sweden. 
+Sweden’s [domestic terror alert](https://sakerhetspolisen.se/ovriga-sidor/other-languages/english-engelska/press-room/news/news/2025-05-23-decrease-in-the-terrorist-threat-level-from-high-to-elevated.html) is now at ‘elevated’ or level 3 out of 5. An elevated threat level still includes the possibility that a terrorist attack could occur.
 
-Sweden's [deterioration in the security situation](https://www.sakerhetspolisen.se/ovriga-sidor/other-languages/english-engelska/press-room/news/news/2023-08-17-terrorist-threat-level-raised-to-high.html) has led the Swedish Government to raise the threat from 'elevated threat' to 'high threat', equivalent to a threat level of 4 out of 5, meaning the probability of an attack is high. This is a long-term assessment and not a temporary increase. 
-
-Terrorist attacks can occur at any time. Maintain high vigilance in public spaces and take official warnings seriously. Avoid crowds, be aware of your surroundings, and stay [informed](https://www.krisinformation.se/en/hazards-and-risks/terrorism). 
+Terrorist attacks can occur anywhere and at any time. Maintain high vigilance in public spaces and take official warnings seriously. Avoid crowds, be aware of your surroundings, and stay [informed](https://www.krisinformation.se/en/hazards-and-risks/terrorism).
 
 Gathering sites, such as places of worship, could be targeted. Use caution when in and around any diplomatic facilities. Report suspicious activity to the relevant authorities.
 
 ​In recent years, terrorists have attacked some European cities. Targets have included:
 
-* airports
-* public transport and transport hubs
-* places of worship
-* sporting venues
-* restaurants, bars and clubs
-* shopping centres
-* hotels
-* other sites frequented by tourists
+* places of worship or religious holidays
+* hotels, clubs, restaurants and cafes
+* markets and shopping malls
+* outdoor recreation events, including festivals, concerts, and sporting venues
+* public transport, airports and railway hubs
 
 European security services have also stopped several planned attacks.
 
@@ -67,19 +62,19 @@ To protect yourself in periods of unrest:
 
 #### Crime
 
-Violent and other serious crimes are rare. However, gang and organised crime do occur, mainly in the three largest cities:
+While violent incidents are rare in tourist locations, you should still be cautious. There are incidents of gang-related violent crime in Sweden, including gun violence and bombings, mainly in the three largest cities:
 
 * Stockholm
 * Gothenburg
 * Malmö
 
-While violent incidents are rare in tourist locations, you should still be cautious. Always be vigilant and aware of your surroundings. In Gothenburg and Malmö, gang-related violence does occur more frequently in the city centre, especially at night. 
+Always be vigilant and aware of your surroundings. In Gothenburg and Malmö, gang-related violence does occur more frequently in the city centre, especially at night.
 
-Pickpocketing and bag snatching are common and on the rise in Stockholm, especially in the Old Town (“Gamla Stan”)
+Pickpocketing and bag snatching are common and on the rise in Stockholm, especially in the Old Town (Gamla Stan)
 
 Criminals may work in teams. One distracts the victim while the other carries out the theft.
 
-Take care in hotels and restaurants. Thieves can steal bags and purses when you're distracted. 
+Take care in hotels and restaurants. Thieves can steal bags and purses when you're distracted.
 
 **More information:**
 
@@ -87,13 +82,21 @@ Take care in hotels and restaurants. Thieves can steal bags and purses when you'
 
 #### Cyber security
 
-You may be at risk of cyber-based threats during overseas travel to any country. Digital identity theft is a growing concern. Your devices and personal data can be compromised, especially if you're connecting to Wi-Fi, using or connecting to shared or public computers, or to Bluetooth. 
+You may be at risk of cyber-based threats during overseas travel to any country. Digital identity theft is a growing concern. Your devices and personal data can be compromised, especially if you're connecting to Wi-Fi, using or connecting to shared or public computers, or to Bluetooth.
 
-Social media can also be risky in destinations where there are social or political tensions or laws that may seem unreasonable by Australian standards. Travellers have been arrested for things they have said on social media. Don't comment on local or political events on your social media. 
+Social media can also be risky in destinations where there are social or political tensions or laws that may seem unreasonable by Australian standards. Travellers have been arrested for things they have said on social media. Don't comment on local or political events on your social media.
 
 **More information:**
 
 * [Cyber security when travelling overseas](/before-you-go/staying-safe/cyber-security "Cyber security when travelling overseas")
+
+#### Drink spiking
+
+Drink spiking can happen anywhere. Be alert to the potential risks, and don't leave food or drinks unattended. Pay attention when your drinks are being mixed. Stick to reputable venues and avoid homemade alcoholic drinks due to the risk of methanol poisoning. Get urgent medical help if you suspect you’ve been a victim.
+
+**More information:**
+
+* [Partying safely while overseas](/before-you-go/safety/partying "Partying safely")
 
 #### Climate and natural disasters
 
@@ -131,4 +134,4 @@ If undertaking adventure tourism or trekking, especially in the arctic provinces
 
 **More information:**
 
-* [Travel to Antarctica and the Arctic.](/before-you-go/activities/antarctica-and-arctic "Travel to Antarctica and the Arctic")
+* [Travel to Antarctica and the Arctic](/before-you-go/activities/antarctica-and-arctic "Travel to Antarctica and the Arctic")

@@ -56,7 +56,7 @@ If proper safety equipment isn't available, use another provider.
 
 #### Swimming safety
 
-Strong rips can occur where there is a break in the reef. Swimmers have died because of strong tides and powerful currents.
+Strong rips can occur where there is a break in the reef. Swimmers have died because of strong tides and powerful lagoon currents.
 
 Ask local residents and tour operators about safe swimming and water sports areas.
 

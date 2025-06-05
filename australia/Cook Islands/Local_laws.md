@@ -38,6 +38,6 @@ Standards of dress and behaviour are modest.
 
 Be careful not to offend, especially outside resort areas, when visiting towns, villages and the outer islands.
 
-Visitors are welcome to attend Sunday services, observing modest dress standards. 
+Visitors are welcome to attend Sunday services, observing modest attire of shirts and long trousers for men and longer-length skirts or dresses for women, preferably with covered shoulders. 
 
 Ask for local advice if you're unsure of any customs.

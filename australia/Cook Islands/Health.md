@@ -41,18 +41,13 @@ If you have immediate concerns for your welfare, or the welfare of another Austr
 
 Not all medication available over the counter or by prescription in Australia is available in other countries. Some may even be considered illegal or a controlled substance, even if prescribed by an Australian doctor.
 
-Visitors may bring medicinal cannabis into the Cook Islands from New Zealand and Australia if they meet certain requirements. Visit the [Ministry of Health](https://www.health.gov.ck/) website for more information before you plan your travel.
-
-There are specific legal requirements for bringing personal supplies of a controlled drug into the Cook Islands. For example, medicines for ADHD, including methylphenidate and strong pain medicines, such as codeine or morphine. For more information or to check details for specific medicines, refer to the [Ministry of Health](https://www.health.gov.ck/) website.
-
 If you plan to bring over-the-counter (OTC) or prescription medication, make sure you bring enough for the duration of your trip and carry it in its original packaging. Carry a copy of your prescription or a letter from your doctor stating:
 
 * what the medication is
 * your required dosage
 * that it's for personal use
-* what the medication is
-* your required dosage
-* that it's for personal use
+
+There are specific legal requirements to be met to bring into the Cook Islands a personal supply of a Controlled Drug (for example medicines for ADHD such as methylphenidate or strong pain medicines, such as codeine or morphine). For more information or to check details for specific medicines refer to the [Ministry of Health](https://www.health.gov.ck/) website.
 
 **More information:**
 
@@ -63,13 +58,13 @@ If you plan to bring over-the-counter (OTC) or prescription medication, make sur
 
 #### Insect-borne diseases
 
-Cook Island’s Ministry of Health has declared a dengue outbreak. Protect yourself against mosquito bites and use insect repellent. See [Healthdirect Australia](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.healthdirect.gov.au%2Fdengue-fever&data=05%7C02%7Ctravel.advice%40dfat.gov.au%7Cec9e19c78dd24892ff0f08dd9ca81ce3%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638838968033028525%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=z8czgJu%2Fm9Ujl7BTPehO3pHfAJuCRaWnKHbg8mff2QQ%3D&reserved=0) for more information.
+Insect-borne disease outbreaks occur in Cook Islands. The [Cook Islands Ministry of Health](https://www.health.gov.ck/) continues to monitor for dengue and other insect-borne outbreaks. Protect yourself against mosquito bites and use insect repellent.
 
 Cases of disease spread by mosquitoes include:
 
 * [dengue](https://www.health.gov.au/diseases/dengue-virus-infection)
 * [chikungunya](https://www.who.int/news-room/fact-sheets/detail/chikungunya)
-* [Zika virus](https://www.health.gov.au/diseases/flavivirus-infection-including-zika-virus?utm_source=health.gov.au&utm_medium=callout-auto-custom&utm_campaign=digital_transformation)
+* [zika virus](https://www.health.gov.au/diseases/flavivirus-infection-including-zika-virus?utm_source=health.gov.au&utm_medium=callout-auto-custom&utm_campaign=digital_transformation)
 
 Serious outbreaks sometimes occur.
 

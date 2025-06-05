@@ -2,31 +2,29 @@
 
 Latest update
 
-We continue to advise exercise a high degree of caution due to the threat of terrorism in Sweden.
+We've reviewed our travel advice for Sweden and have lowered the overall travel advice level. We now advise exercise normal safety precautions overall. Sweden’s domestic terror alert is now at ‘elevated’ (level 3 of 5). Terrorist attacks could occur anywhere and at any time. While violent incidents are rare in tourist locations, you should still be cautious. There are incidents of gang-related violent crime in Sweden. Be alert in public places and report suspicious activity to the police (see 'Safety').
 
 Advice Level summary
 
-We advise:
+We now advise:
 
-Exercise a high degree of caution in Sweden due to the threat of terrorism.
+Exercise normal safety precautions in Sweden.
 
 ## Advice levels
 
 [What does this mean?](/before-you-go/travel-advice-explained/)
 
-[Exercise a high degree of caution](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level2) in Sweden.
+[Exercise normal safety precautions](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level1) in Sweden.
 
-[Exercise a high degree of caution](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level2) in Sweden due to the threat of terrorism.
-
-See [Safety](https://www.smartraveller.gov.au/destinations/europe/france#safety)
+[Exercise normal safety precautions](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level1) in Sweden.
 
 ## Overview
 
 ### Safety
 
-* Swedish authorities assess that Sweden is a prioritised target for terrorist attacks, with increasing threats by violent Islamist groups. The current threat level is 'high threat' or level 4 out of 5, meaning the probability of an attack is high.
-* Terrorist attacks can occur at any time. Maintain high vigilance in public spaces and take official warnings seriously. Avoid crowds, be aware of your surroundings, and stay i[nformed](https://www.krisinformation.se/en/hazards-and-risks/terrorism).
-* Petty crime is common. Take care in hotels and restaurants. Violent crime is rare. However, gangs and organised crime do occur. Be vigilant and aware of your surroundings.
+* Sweden’s domestic terror alert is now at ‘elevated’ or level 3 out of 5. An elevated threat level still includes the possibility that a terrorist attack could occur.
+* Terrorist attacks can occur at any time. Maintain high vigilance in public spaces and take official warnings seriously. Avoid crowds, be aware of your surroundings and [stay informed](https://www.krisinformation.se/en/hazards-and-risks/terrorism).
+* Petty crime is common. Take care in hotels and restaurants. While violent incidents are rare in tourist locations, you should still be cautious. There are incidents of gang-related violent crime in Sweden. Be vigilant and aware of your surroundings.
 * Winter is extremely cold, with heavy snowfall and severe transport delays. Public facilities can also be interrupted. Check the media, emergency information from Swedish authorities and other local sources for the latest details.
 
 Full travel advice: [Safety](#safety)
@@ -34,7 +32,7 @@ Full travel advice: [Safety](#safety)
 ### Health
 
 * Australia has a healthcare agreement with Sweden. You'll still need private travel health insurance and a valid Medicare card.
-* From March to November, ticks are very common outside city areas.Tick-borne encephalitis and Lyme disease are risks. Check your body and remove any ticks as soon as you can.
+* From March to November, ticks are very common outside city areas.Tick-borne encephalitis and Lyme disease are risks. Check your body and remove any ticks as soon as you can. Prior vaccination is recommended.
 * You can bring a 3-month supply of medicine for personal use to Sweden.
 * Swedish medical facilities are similar to Australia. However, emergency services are limited in remote areas.
 

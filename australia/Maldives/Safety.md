@@ -2,7 +2,7 @@
 
 #### Civil unrest and political tension
 
-Public protests and events that draw large groups of people may occur in Malé and non-resort islands and can turn violent. Avoid the affected area and follow the advice of local authorities.
+Public protests and events that draw large groups of people may occur in greater Malé and inhabited islands, and can turn violent. Avoid affected areas and follow the advice of local authorities.
 
 To stay safe during periods of unrest:
 
@@ -26,7 +26,7 @@ To reduce your risk of being involved in a terrorist attack:
 * avoid crowded areas
 * always be alert
 * follow the advice of local authorities
-* monitor the media and other sources
+* monitor the media and other sources.
 
 Since February 2020, there have been terrorist attacks, including a stabbing attack on three foreigners in Hulhumalé, where an Australian was injured. Other incidents include an arson attack on a police speedboat in Laamu Gan in March 2020 and the detonation of an improvised explosive device in Malé in May 2021, which injured a high-profile politician and bystanders.
 
@@ -36,11 +36,11 @@ Since February 2020, there have been terrorist attacks, including a stabbing att
 
 #### Crime
 
-Drug-related crime occurs in Malé and other cities in Maldives.
+Drug-related crime occurs in greater Malé and inhabited islands in Maldives.
 
-Gang-related violence, including knife crime, has increased in urban areas, including Malé, Hulhumalé, and Addu.
+Gang-related violence, including knife crime, has increased in urban areas, including greater Malé, and Addu.
 
-There is an ongoing risk of petty crime in Maldives, including pickpocketing, bag snatching and other petty crimes. Be careful of theft in crowds and these locations:
+There is an ongoing risk of petty crime in Maldives, including pickpocketing and bag snatching. Be careful of theft in crowds and these locations:
 
 * beaches
 * markets
@@ -52,6 +52,12 @@ To protect yourself from petty theft:
 * leave valuables, including your passport, in a secure location
 * follow local media for new security risks
 * avoid trouble spots
+
+Drink spiking can happen anywhere. Be alert to the potential risks, and don't leave food or drinks unattended. Pay attention when your drinks are being mixed. Stick to reputable venues and avoid homemade alcoholic drinks due to the risk of methanol poisoning. Get urgent medical help if you suspect you’ve been a victim.
+
+**More information:**
+
+* [Partying safely while overseas](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.smartraveller.gov.au%2Fbefore-you-go%2Fsafety%2Fpartying&data=05%7C02%7CMichelle.Lam%40dfat.gov.au%7Cbd0cd565db744527188508dd41a4930d%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638738897282360647%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=8hzP1P0iV92Jm88KsRyu4DlEadlSJN77OY%2FyBZsYuRk%3D&reserved=0)
 
 #### Cyber security
 
@@ -77,7 +83,7 @@ The Australian Government's longstanding policy is that it doesn't make payments
 
 The sea around the Maldives can have strong tidal currents and rips, and many tourists drown every year. Safety information may not be available at beaches. Where present, obey lifeguard warnings and take appropriate precautions. 
 
-Transport and tour operators don't always follow safety and maintenance standards. This includes adventure activities, such as water sports.
+Transport and tour operators don't always follow safety and maintenance guidelines and these generally fall below Australian standards. This includes adventure activities, such as water sports.
 
 If you plan to do an [adventure activity](/before-you-go/activities/adventure "Going overseas for sports and adventure"):
 
@@ -94,7 +100,7 @@ The monsoon season is from mid-May to November. Strong winds, rough seas, torren
 
 If there is a [natural disaster](/before-you-go/safety/natural-disasters "Staying safe when there's a natural disaster") or [severe weather](/while-youre-away/crisis-or-emergency/severe-weather-incident "There's a severe weather incident"):
 
-* secure your passport in a safe, waterproof location or carry it on you at all times (in a waterproof bag)
+* secure your passport in a safe, waterproof location, or always carry it on you (in a waterproof bag)
 * follow the advice of local authorities
 * monitor the media and other sources
 * keep in contact with friends and family
@@ -109,7 +115,7 @@ Follow the advice of your resort or local authorities if you:
 * see a sudden rise or fall in sea level
 * hear loud and unusual noises from the sea
 
-Don't wait for official warnings, such as alarms or sirens. If possible, move away from the beach to higher ground and monitor local media.
+Don't wait for official warnings, such as alarms or sirens. If possible, move away from the beach to a higher place and monitor local media.
 
 If you're on a boat at sea during a tsunami, this may be a safe place to remain until further advised.
 

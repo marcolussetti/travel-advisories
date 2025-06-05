@@ -19,7 +19,7 @@ Entry and exit conditions can change at short notice. Contact the nearest [emba
 
 #### Border measures
 
-Check with [Swedish authorities](https://polisen.se/en/laws-and-regulations/travel-to-and-stay-in-sweden/) for the latest advice. 
+Check with [Swedish authorities](https://polisen.se/en/laws-and-regulations/travel-to-and-stay-in-sweden/) for the latest advice.
 
 **More information:**
 
@@ -29,7 +29,7 @@ Check with [Swedish authorities](https://polisen.se/en/laws-and-regulations/tra
 
 #### European Entry/Exit System (EES)
 
-The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area is expected to start in October 2025. 
+The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area is expected to start in October 2025.
 
 The EES is a digital border system that registers non-EU visitors travelling into the Schengen Area. When entering the Schengen Area, you'll need to have your fingerprints and photo taken. This creates a digital record that registers your biometric details.
 
@@ -70,7 +70,7 @@ If your passport is lost or stolen, tell the Australian Government as soon as po
 
 #### Passport with 'X’ gender identifier
 
-Although Australian passports comply with international standards for sex and gender, we can't guarantee that a passport showing an 'X' in the sex field will be accepted for entry or transit by another country. Contact the nearest [embassy, high commission or consulate of your destination](https://protocol.dfat.gov.au/Public/MissionsInAustralia) before you arrive at the border to confirm if authorities will accept passports with 'X' gender markers. 
+Although Australian passports comply with international standards for sex and gender, we can't guarantee that a passport showing an 'X' in the sex field will be accepted for entry or transit by another country. Contact the nearest [embassy, high commission or consulate of your destination](https://protocol.dfat.gov.au/Public/MissionsInAustralia) before you arrive at the border to confirm if authorities will accept passports with 'X' gender markers.
 
 **More information:**
 

@@ -38,7 +38,7 @@ For consular assistance, contact:
 Klarabergsviadukten 63, 8th Floor  
 111 64 Stockholm, Sweden  
   
-Phone: (+460) 8613 2900  
+Phone: +460 8613 2900  
 Email: [stockholm.reception@dfat.gov.au](mailto: stockholm.reception@dfat.gov.au)  
 Website: [sweden.embassy.gov.au](http://www.sweden.embassy.gov.au/)  
 Facebook: [Sweden Embassy Facebook](https://www.facebook.com/AusEmbSE/)  

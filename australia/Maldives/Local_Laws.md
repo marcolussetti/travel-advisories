@@ -37,7 +37,11 @@ It is illegal to:
 
 #### LGBTQIA+ travellers
 
-Same-sex sexual acts are illegal in Maldives.
+In greater Malé and inhabited islands, Islamic concepts of modesty are observed. Public displays of same-sex affection are not welcomed.
+
+Same-sex sexual acts are illegal in Maldives and same sex couples are not recognised. However, LGBTQIA+ travellers should not encounter any problems in greater Malé and inhabited islands unless there are outward displays of affection.
+
+Resort islands are more tolerant of public displays of same-sex affection.
 
 **More information:**
 
@@ -45,7 +49,7 @@ Same-sex sexual acts are illegal in Maldives.
 
 #### Non-resorts islands
 
-A permit is no longer required to visit a non-resort island.
+A permit is not required to visit a non-resort island.
 
 Provided you have entered Maldives with a valid visa, you have permission to travel to any part of the country.
 
@@ -69,18 +73,18 @@ Maldives recognises dual nationality.
 
 #### Dress and behaviour
 
-Standards of dress and behaviour are conservative in most parts of Maldives. Take care not to offend. Public displays of affection are not tolerated on Malé and non-resort islands.
+Standards of dress and behaviour are conservative in most parts of Maldives, where Islamic concepts of modesty are observed. Take care not to offend. Public displays of affection (same-sex and opposite sex) are generally not welcomed in greater Malé and inhabited islands. Dress modestly in greater Malé and inhabited islands (covering shoulders and knees for women).
 
-Dress modestly in Malé (covering shoulders and knees for women) and on non-resort islands. This includes swimming.
+Many local islands have a “bikini beach”, where tourists can swim wearing their preferred swimwear. Wear modest swimwear if swimming on a “local” beach. Police may be called to escort people wearing inappropriate swimwear away from local swimming areas.
 
-Standards of dress and behaviour can be less restrictive at resorts.
+Standards of dress and behaviour are much less restrictive at resorts.
 
 #### Ramadan
 
 The Islamic holy month of [Ramadan](https://www.smartraveller.gov.au/before-you-go/major-events) is observed in Maldives. Respect religious and cultural customs especially at this time.
 
-During Ramadan, eating, drinking, and smoking may be illegal in public during the day. If you're not fasting, avoid these activities around people who are. 
+During Ramadan, eating, drinking, and smoking may be illegal in public during the day. If you're not fasting, avoid these activities around people who are. Some restaurants and guesthouses on local islands will provide services for tourists, generally in more private settings. Seek local advice to avoid offence.
 
-Resort islands generally don't need to follow the rules of Ramadan, though guesthouses on non-resort local islands will. Seek local advice to avoid offence.
+Resort islands generally don't need to follow the rules of Ramadan.
 
-Explore our [Ramadan](https://www.smartraveller.gov.au/before-you-go/major-events/ramadan) page to learn more, including dates for Ramadan.
+Explore our [Ramadan](https://www.smartraveller.gov.au/before-you-go/major-events/ramadan) page to learn more, including dates for Ramadan.

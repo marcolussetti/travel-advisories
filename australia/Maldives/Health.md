@@ -19,13 +19,11 @@ Confirm:
 
 Consider your physical and mental health before you travel, especially if you have an existing medical condition.
 
-See your doctor or travel clinic to:
+See your doctor or travel clinic at least 8 weeks before you leave to:
 
 * have a basic health check-up
 * ask if your travel plans may affect your health
 * plan any vaccinations you need
-
-Do this at least 8 weeks before you leave.
 
 If you have immediate concerns for your welfare or the welfare of another Australian, call the 24-hour Consular Emergency Centre on +61 2 6261 3305 or contact your [nearest Australian Embassy, High Commission or Consulate](https://www.dfat.gov.au/about-us/our-locations/missions/our-embassies-and-consulates-overseas) to discuss counselling hotlines and services available in your location.
 
@@ -75,11 +73,7 @@ To protect yourself against insect bites:
 
 #### Other health risks
 
-Waterborne, foodborne and other diseases are common. These include:
-
-* [hepatitis](https://www.who.int/hepatitis/en/)
-* [rabies](https://www.who.int/news-room/fact-sheets/detail/rabies)
-* [COVID-19](https://www.health.gov.au/health-alerts/covid-19?language=und)
+Waterborne, foodborne and other diseases, including [hepatitis](https://www.who.int/hepatitis/en/) are common. 
 
 Serious outbreaks sometimes occur.
 
@@ -89,7 +83,7 @@ To protect yourself from illness:
 * avoid ice cubes
 * avoid uncooked and undercooked food, such as salads
 
-Get medical advice if you have a fever or diarrhoea.
+Get medical advice if you have a fever or diarrhoea. Most resorts have on-site clinics and local islands have public hospitals.
 
 Rabies may be present in wildlife, particularly bats. Avoid contact with animals.
 
@@ -99,12 +93,8 @@ Rabies may be present in wildlife, particularly bats. Avoid contact with animals
 
 #### Medical care
 
-Hospital services, including rescue and emergency services, are limited.
+There are three hospitals in greater Malé (Malé, Hulhumalé, Villimalé). They all offer a range of primary care and specialist services.
 
-There are three hospitals in Greater Malé (Malé, Hulhumalé, Villimalé). They all offer a large range of specialist services. 
+Resorts and local islands have smaller health clinics and hospital services. Rescue and emergency services are limited. You may need to be evacuated if you become seriously ill or injured. Medical evacuation can be very expensive. It can take several hours to reach a hospital from resort islands.
 
-It can take several hours to reach a hospital from resort islands.
-
-Facilities are limited for scuba-diving injuries. While increasing, there are limited decompression chambers in Maldives. It may take several hours to reach these in an emergency. Dive within safety limits.
-
-You may need to be evacuated if you become seriously ill or injured. Medical evacuation can be very expensive.
+Facilities are limited for scuba-diving injuries. While increasing, there are limited decompression chambers in Maldives. It may take several hours to reach decompression chambers in an emergency. Dive within safety limits.

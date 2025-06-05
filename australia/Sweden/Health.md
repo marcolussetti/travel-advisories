@@ -58,7 +58,7 @@ Health risks in Sweden are similar to those in Australia.
 
 #### Insect-borne diseases
 
-[Tick-borne encephalitis](https://www.who.int/immunization/diseases/tick_encephalitis/en/) and [Lyme disease](https://www.1177.se/en/Halland/other-languages/other-languages/symtomsjukdom---andra-sprak/biten-av-fasting---andra-sprak/) are risks. Ticks are very common in country areas, especially in some coastal regions and around major lakes. They're active from March to November.
+[Tick-borne encephalitis](https://www.who.int/immunization/diseases/tick_encephalitis/en/) and [Lyme disease](https://www.1177.se/en/Halland/other-languages/other-languages/symtomsjukdom---andra-sprak/biten-av-fasting---andra-sprak/) are risks. Ticks are very common in country areas, especially in some coastal regions and around major lakes. They're active from March to November. Prior vaccination is recommended.
 
 To protect yourself from disease:
 
