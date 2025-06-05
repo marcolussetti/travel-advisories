@@ -56,9 +56,9 @@ Always carry ID. A printed copy of the photo page of your passport is acceptable
 
 ### Illegal drugs and sex offences
 
-The Bulgarian authorities treat all drug-related and sex offences very seriously. Any foreign nationals convicted of such offences can expect a prison sentence.
+The Bulgarian authorities treat all drug-related and sex offences very seriously. Any foreign nationals convicted of such offences can expect a prison sentence. Illegal drugs, including cannabis, carry severe penalties. You should expect a long jail sentence and heavy fines for possessing, using, or smuggling illegal drugs, including when transiting through the airport.
 
-Whilst widely available in resort areas, the use of nitrous oxide (‘laughing gas’) for non-medicinal purposes is now illegal.
+Airports in Bulgaria have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
 
 ### Drunken and disorderly behaviour
 

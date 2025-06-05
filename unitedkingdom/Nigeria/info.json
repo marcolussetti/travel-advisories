@@ -1,11 +1,11 @@
 {
     "name": "Nigeria",
-    "update_reason": "New information about a State of Emergency declared in Rivers State, South-South Nigeria ('Safety and security' page).",
+    "update_reason": "Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Nigeria/Warnings and insurance.md",
-            "update_date": "2025-03-19T16:51:40+00:00"
+            "update_date": "2025-06-04T17:20:10+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Nigeria/Getting help.md"
         }
     ],
-    "update_date": "2025-03-19T16:51:40+00:00"
+    "update_date": "2025-06-04T17:20:10+01:00"
 }

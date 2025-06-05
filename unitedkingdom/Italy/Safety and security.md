@@ -85,6 +85,12 @@ Do not take drinks from strangers or leave your drinks unattended. Victims of sp
 
 You must always be able to show some form of ID. In most cases a copy of the photo page of your passport should be enough, but you may also be asked for a second form of photo ID. The police will normally ask for your full passport if you are stopped while driving.
 
+### Illegal drugs
+
+Illegal drugs, including cannabis, carry severe penalties. You should expect a long jail sentence and heavy fines for possessing, using or smuggling illegal drugs, including when transiting through airports.
+
+Airports in Italy have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
+
 ### Public transport regulations
 
 You must validate your tickets on public transport before you start your journey. Officials patrol public transport and will issue an on-the-spot fine of 100 to 500 euros (reduced to 50 euros if paid immediately) if you do not have a validated ticket.

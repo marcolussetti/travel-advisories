@@ -20,6 +20,12 @@ Take sensible precautions to avoid mugging, bag-snatching and pickpocketing. Be 
 
 ## Laws and cultural differences
 
+### Illegal drugs
+
+Illegal drugs, including cannabis, carry severe penalties. You should expect a long jail sentence and heavy fines for possessing, using or smuggling illegal drugs, including when transiting through the airport.
+
+Airports in Switzerland have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
+
 ### Face-covering ban
 
 In Ticino and St Gallen, it’s illegal to cover your face in public, including for tourists. Do not wear balaclavas, full veils or any other garment or mask that hides your face. You could get a fine of 100 to 10,000 Swiss francs if you do not comply.

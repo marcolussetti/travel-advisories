@@ -70,6 +70,12 @@ Always carry ID. A printed copy of the photo page of your passport is acceptable
 
 Dual Polish-British nationals will be treated as a Polish national if arrested or detained by the Polish authorities.
 
+### Illegal drugs
+
+Illegal drugs, including cannabis, carry severe penalties. You should expect a long jail sentence and heavy fines for possessing, using or smuggling illegal drugs, including when transiting through the airport.
+
+Airports in Poland have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
+
 ### Alcohol laws
 
 It is illegal to drink alcohol in public places. The police can arrest you and you could get a fine.

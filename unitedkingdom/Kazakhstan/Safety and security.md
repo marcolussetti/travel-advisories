@@ -77,15 +77,19 @@ The fine for smoking in an unauthorised place is around £90, and more if it’s
 
 It is illegal to sell, distribute, import or produce smokeless cigarettes, e-cigarettes (vapes), or e-liquid for e-cigarettes. You could get a fine or a prison sentence of up to 2 years.
 
-### Illegal drugs and prison sentences
+### Illegal drugs
 
-If you possess or use illegal drugs, you could face a lengthy prison sentence:
+Illegal drugs, including cannabis, carry severe penalties. You should expect a long jail sentence and heavy fines for possessing, using or smuggling illegal drugs, including when transiting through the airport.
 
-* for possession, manufacturing of drugs with distribution purposes – 5 to 10 years
-* for possession, manufacturing of drug with distribution purposes in large amounts – 6 to 12 years
-* for advertising drugs – fine or up to 3 years in prison
+You could face a lengthy prison sentence:
+
+* for possession, storing and transportation of drugs with distribution purposes – 5 to 8 years
+* for possession, storing and transportation of drugs with distribution purposes in large amounts – 6 to 10 years
+* for advertising drugs – up to 3 years in prison, and 3 to 6 years if using social media
 
 Prison conditions are basic.
+
+Airports in Kazakhstan have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
 
 ### Posting on social media
 

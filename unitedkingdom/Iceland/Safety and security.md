@@ -24,9 +24,13 @@ You do not have to carry your passport with you, but it is sensible to have some
 
 It is illegal to smoke or use e-cigarettes in restaurants, bars, public transport and public buildings, and you could get a fine.
 
-### Illegal drugs and prison sentences
+### Illegal drugs
 
-It is illegal to possess even small amounts of drugs, including marijuana and khat. Anyone caught could get a heavy fine and a prison sentence.
+Illegal drugs, even small amounts, including cannabis and khat carry severe penalties.
+
+You should expect a long jail sentence and heavy fines for possessing, using or smuggling illegal drugs, including when transiting through the airport.
+
+Airports in Iceland have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
 
 ### LGBT+ travellers
 

@@ -51,9 +51,11 @@ Prices may be quoted in US dollars and euros, but goods and services must be pai
 
 Travellers’ cheques are rarely accepted. Outside major towns, you may not find ATMs or be able to use credit and debit cards. Take enough cash in lari if travelling to rural or remote areas.
 
-### Illegal drugs and prison sentences
+### Illegal drugs
 
-If you use illegal drugs of any kind, you can get heavy fines or long prison terms. Smuggling even very small amounts of drugs carries a prison term of 5 to 25 years and heavy fines.
+Illegal drugs, including cannabis, carry severe penalties. You should expect a long jail sentence of 5 to 25 years and heavy fines for possessing, using, or smuggling of illegal drugs, including when transiting through the airport.
+
+Airports in Georgia have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
 
 ### Using cameras
 

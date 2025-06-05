@@ -85,7 +85,13 @@ You must be able to [prove your identity](https://www.service-public.fr/particu
 
 Covering your face in public places in France is illegal. This includes balaclavas, full veils or any other garment or mask that is used to hide the face. You could get a fine of up to 150 euros if you do not comply.
 
-Forcing someone to hide their face is also a crime and is punishable by a year’s imprisonment and a fine of up to 30,000 euros. If the person forced to hide their face is under 18 years old, the sentence is doubled. This law applies to tourists.
+Forcing someone to hide their face is also a crime and is punishable by a year’s imprisonment and a fine of up to 30,000 euros. If the person forced to hide their face is aged 17 and under, the sentence is doubled. This law applies to tourists.
+
+### Illegal drugs
+
+Illegal drugs, including cannabis, carry severe penalties including imprisonment and heavy fines for possessing, using or smuggling illegal drugs, including when transiting through airports, ports and Eurostar stations.
+
+Airports, ports and Eurostar stations in France have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
 
 ## Outdoor activities and adventure tourism
 

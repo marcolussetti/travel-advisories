@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   24 May 2025
+:   5 June 2025
 
 Updated:
-:   23 May 2025
+:   4 June 2025
 
 Latest update:
-:   Removal of information about restrictions put in place in response to a foot and mouth disease outbreak, as the restrictions have now been lifted (‘Entry requirements and ‘Safety and security’ pages).
+:   Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport ('Safety and security' page).
 
 ## Before you travel
 

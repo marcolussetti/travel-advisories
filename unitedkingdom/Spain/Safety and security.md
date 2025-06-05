@@ -107,9 +107,11 @@ This bans:
 
 Hotels and other establishments will evict you if you behave dangerously on balconies. You could also get a fine.
 
-### Illegal drugs and prison sentences
+### Illegal drugs
 
-Possession of even a small quantity of drugs can lead to arrest and detention. Possession of large quantities will usually result in prosecution and a prison sentence.
+Illegal drugs, including cannabis, carry severe penalties. You should expect a long jail sentence and heavy fines for possessing, using or smuggling illegal drugs, including when transiting through airports. Possession of even a small quantity of drugs can lead to arrest and detention.
+
+Airports in Spain have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
 
 ### Illegal commercial parties in villas and private homes
 

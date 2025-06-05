@@ -54,9 +54,13 @@ You can also be fined up to 4,000 euros for public order disturbances, including
 * drunken behaviour
 * belittling or insulting police officers or other public officials
 
-### Illegal drugs and prison sentences
+### Illegal drugs
 
-Drug offences are punished with fines and prison sentences.
+Illegal drugs, including cannabis, carry severe penalties. Carrying cannabis for personal use has been decriminalised but if found on you or in your apartment, you will be asked to pay sometimes heavy fines.
+
+You should expect a long jail sentence and heavy fines for possessing, using or smuggling illegal drugs, including when transiting through the airport.
+
+Airports in Croatia have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
 
 ### Unexploded mines
 

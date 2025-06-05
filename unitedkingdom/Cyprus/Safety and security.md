@@ -14,8 +14,6 @@ Although there’s no recent history of terrorism in Cyprus, attacks cannot be r
 
 Attacks could be indiscriminate, including in places visited by foreign nationals.
 
-Israel is directing all its Cyprus-bound flights to Larnaca Airport for security reasons. UK flights are not currently affected by this change.
-
 ## Political demonstrations
 
 Demonstrations may occur in cities with little or no notice. Events in the Middle East have led to heightened tensions and demonstrations are likely. Avoid any protests, political gatherings, or marches and leave the area if one develops. Local transport routes may be disrupted.
@@ -34,9 +32,13 @@ Personal attacks, including sexual assaults, are infrequent but do happen. Drug-
 
 ## Laws and cultural differences
 
-### Illegal drugs and prison sentences
+### Illegal drugs
 
-Cyprus has a strictly enforced zero-tolerance policy towards illegal drugs, which includes laughing gas. If you are caught with drugs, you could get a fine or a prison sentence.
+Cyprus has a strictly enforced zero-tolerance policy towards illegal drugs, including laughing gas and cannabis.
+
+You should expect severe penalties such as a long jail sentence and heavy fines for possessing, using or smuggling illegal drugs, including when transiting through the airport.
+
+Airports in Cyprus have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
 
 ### LGBT+ travellers
 

@@ -47,6 +47,12 @@ There is a risk of drink spiking, particularly for young women and solo travelle
 
 If you think your drink has been spiked, seek immediate medical help and contact the police.
 
+### Organised crime
+
+There are regular incidents of violent crime among organised crime gangs involved in drug trafficking, particularly in Amsterdam, Rotterdam, The Hague, and other large cities. Confrontations between rival gangs have led to violent incidents including shootings, stabbings, and use of homemade explosives.
+
+The risk mostly affects those involved in drug crime, but there is always the risk of being in the wrong place at the wrong time. Remain vigilant if you suspect illegal activity. Follow the advice of local authorities.
+
 ## Laws and cultural differences
 
 ### Personal ID
@@ -55,9 +61,11 @@ Anyone aged 14 or over must always be able to show identification. British natio
 
 For people aged 16 or over who fail to comply with the requirement to identify themselves, the fine is 100 euros. For persons aged 14 and 15, the fine is 50 euros.
 
-### Illegal drugs and prison sentences
+### Illegal drugs
 
-The Netherlands has a reputation for being tolerant on the use of ‘soft drugs’, such as cannabis. However, drug use is only tolerated in designated premises in the major cities. Buying or possessing prohibited drugs and substances outside of designated areas is illegal and can result in a prison sentence.
+The Netherlands has a reputation for being tolerant on the use of ‘soft drugs’, such as cannabis. However, drug use is only tolerated in designated premises in the major cities. Buying or possessing prohibited drugs and substances outside of designated areas, including when transiting through airports, is illegal and can result in a prison sentence.
+
+Airports in Netherlands have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
 
 Smoking soft drugs in public places is illegal. There are specific cafés where it is legal to purchase and use cannabis in limited quantities and under strict conditions.
 

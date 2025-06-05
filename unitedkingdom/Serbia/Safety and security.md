@@ -44,9 +44,11 @@ Thick vegetation covers most of the dangerous areas. Do not touch anything suspi
 
 You must always carry your passport or – if you are a resident – your ID card for identification purposes. Keep a copy separately in a safe place.
 
-### Illegal drugs and prison sentences
+### Illegal drugs
 
-There are strict penalties for possessing and trafficking drugs, including long prison sentences.
+There are strict penalties for possessing and trafficking drugs, including cannabis.
+
+Airports in Serbia have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
 
 ### Using cameras in secure areas
 

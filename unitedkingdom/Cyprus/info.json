@@ -1,11 +1,11 @@
 {
     "name": "Cyprus",
-    "update_reason": "Information on Israel directing Cyprus-bound flights to Larnaca Airport for security reasons ('Safety and security' page).",
+    "update_reason": "Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Cyprus/Warnings and insurance.md",
-            "update_date": "2025-01-29T15:38:34+00:00"
+            "update_date": "2025-06-04T17:08:26+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Cyprus/Getting help.md"
         }
     ],
-    "update_date": "2025-01-29T15:38:34+00:00"
+    "update_date": "2025-06-04T17:08:26+01:00"
 }

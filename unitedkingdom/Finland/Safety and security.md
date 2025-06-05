@@ -18,9 +18,11 @@ Pickpockets may target tourists in the tourist season in crowded areas. Take pre
 
 ## Laws and cultural differences
 
-### Illegal drugs and prison sentences
+### Illegal drugs
 
-Do not use, buy or carry illegal drugs. Possession of even the smallest quantities can lead to up to 10 years imprisonment.
+Illegal drugs, including cannabis, are prohibited, even in small quantities. Severe penalties apply for possessing, using, buying or smuggling illegal drugs, including when transiting through airports. You should expect long jail sentences of up to 10 years and heavy fines.
+
+Airports in Finland have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
 
 ## Transport risks
 

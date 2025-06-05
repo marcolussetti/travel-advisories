@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   12 April 2025
+:   5 June 2025
 
 Updated:
-:   11 April 2025
+:   4 June 2025
 
 Latest update:
-:   Updated information on general risks you may face from terrorism('Safety and security' page).
+:   Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport ('Safety and security' page).
 
 ## Before you travel
 

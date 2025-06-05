@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   1 May 2025
+:   5 June 2025
 
 Updated:
-:   30 April 2025
+:   4 June 2025
 
 Latest update:
-:   Updated information about strike action ('Warnings and insurance' page).
+:   Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport ('Safety and security' page).
 
 ## National strike action
 

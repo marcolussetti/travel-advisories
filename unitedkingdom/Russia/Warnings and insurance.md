@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   16 May 2025
+:   5 June 2025
 
 Updated:
-:   15 May 2025
+:   4 June 2025
 
 Latest update:
-:   Updated information about overstaying you visa ('Entry requirements' page).
+:   Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/621cd8428fa8f54915f43831/FCDO__TA__059_-_Russia_Travel_Advice_Ed1__WEB_.jpg)
 

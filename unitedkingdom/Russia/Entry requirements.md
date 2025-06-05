@@ -124,6 +124,8 @@ You must complete a customs declaration form if you import certain types of good
 * antiques
 * valuable musical instruments
 
+Possessing even small quantities of any illegal drugs, including cannabis, carries severe penalties. See [‘Illegal drugs’ for more information](https://www.gov.uk/foreign-travel-advice/russia/safety-and-security#illegal-drugs).
+
 ### Cannabidiol (CBD)
 
 Cannabidiol (CBD) is illegal in Russia, even in products purchased legally elsewhere. This includes oils, edibles and vapes. If you’re found with CBD products you may be sentenced to several years’ imprisonment.

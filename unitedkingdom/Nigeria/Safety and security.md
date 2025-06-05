@@ -138,9 +138,11 @@ Ramadan is a holy month for Muslims. The dates vary by year. During this time, i
 
 Be aware that driving may be erratic, particularly at dusk when people are getting back home to eat.
 
-### Illegal drugs and prison sentences
+### Illegal drugs
 
-Possession or use of illegal drugs is a serious offence and can result in lengthy prison sentences and heavy fines.
+Possession or use of illegal drugs, including cannabis, carries severe penalties in Nigeria. You should expect a long jail sentence and heavy fines for possessing, using or smuggling illegal drugs, including when transiting.
+
+Nigeria has excellent  technology and security for detecting illegal items at the border. This is also used to scan the baggage of transiting passengers.
 
 ### Using cameras in secure areas
 

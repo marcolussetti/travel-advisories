@@ -64,7 +64,9 @@ Drinking alcohol in public, including in parks and in the streets, is illegal. T
 
 ### Illegal drugs
 
-Do not get involved with illegal drugs of any kind. Possession of even very small quantities of drugs can lead to large fines or imprisonment.
+Illegal drugs, including cannabis, are strictly prohibited, even in very small quantities. Severe penalties apply for possessing, using, buying, or smuggling illegal drugs, including when transiting through airports. You should expect long jail sentences of up to 10 years and heavy fines.
+
+Airports in Latvia have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
 
 ### Public transport
 

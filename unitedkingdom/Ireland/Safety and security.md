@@ -22,9 +22,13 @@ Take precautions to reduce the risk of bag-snatching or pickpocketing. Avoid car
 
 ## Laws and cultural differences
 
-### Illegal drugs and prison sentences
+### Illegal drugs
 
-Possession of even small quantities of drugs can lead to criminal prosecution and the possibility of a custodial sentence. Do not offer to carry any items for anyone else when entering or leaving Ireland.
+Possession of even small quantities of drugs, including cannabis, carry severe penalties.
+
+You should expect a long jail sentence and heavy fines for possessing, using or smuggling illegal drugs, including when transiting through the airport. Do not offer to carry any items for anyone else when entering or leaving Ireland.
+
+Airports in Ireland have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
 
 ## Transport risks
 

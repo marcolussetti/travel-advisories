@@ -20,6 +20,14 @@ Demonstrations in Norway are usually peaceful. If you’re near areas where demo
 
 There’s a small risk of petty theft, particularly at airports and railway stations in and around Oslo.
 
+## Laws and cultural differences
+
+### Illegal drugs
+
+Illegal drugs, including cannabis, carry severe penalties. You should expect a long jail sentence and heavy fines for possessing, using or smuggling illegal drugs, including when transiting through the airport.
+
+Airports in Norway have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
+
 ## Outdoor activities and adventure tourism
 
 Get information about the risk of avalanches from the [Norwegian Avalanche Warning Service](http://www.varsom.no/en/) or the [European Avalanche Warning Services](http://www.avalanches.org/).

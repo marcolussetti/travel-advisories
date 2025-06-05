@@ -52,13 +52,17 @@ Always carry a passport showing you have permission to enter or remain in the US
 
 The national legal age for buying and drinking alcohol is 21. Some states have different laws. If you are aged 20 or under, check state laws before drinking or buying alcohol.
 
-### Illegal drugs and prison sentences
+### Illegal drugs
 
-Possession or trafficking of illegal drugs in the US can carry a long prison sentence and a fine. Check state laws to make sure you follow laws on possession and use of controlled substances. The US Department of Justice provides a [list of all controlled substances](https://www.dea.gov/drug-information/csa).
+Illegal drugs, including cannabis, carry severe penalties. You should expect a long jail sentence and heavy fines for possessing, using or smuggling illegal drugs, including when transiting through airports.
+
+Airports in USA have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
+
+Check state laws to make sure you follow laws on possession and use of controlled substances. The US Department of Justice provides a [list of all controlled substances](https://www.dea.gov/drug-information/csa).
 
 ### LGBT+ travellers
 
-The US is a very diverse society and attitudes towards LGBT+ people differ hugely across the country. You can find more detail on LGBT+ issues in the US on the [Human Rights Campaign](https://www.hrc.org/resources) website.
+The US is a very diverse society and attitudes towards LGBT+ people differ hugely across the country. Check state and local laws for the areas you plan to travel to. Refer to entry requirements which may apply to LGBT+ travellers (see [entry requirements](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements)).
 
 Read more [advice for LGBT+ travellers](https://www.gov.uk/lesbian-gay-bisexual-and-transgender-foreign-travel-advice).
 

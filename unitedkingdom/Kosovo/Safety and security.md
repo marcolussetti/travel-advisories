@@ -54,9 +54,11 @@ There is a risk you could encounter landmines or other unexploded weapons when t
 
 Carry your passport with you for identification and keep a copy separately in a safe place.
 
-### Illegal drugs and prison sentences
+### Illegal drugs
 
-Possession or trafficking of drugs usually carries a long prison sentence.
+Illegal drugs, including cannabis, carry severe penalties. You should expect a long jail sentence and heavy fines for possessing, using or smuggling illegal drugs, including when transiting through the airport.
+
+Airports in Kosovo have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
 
 ### Using cameras in secure areas
 

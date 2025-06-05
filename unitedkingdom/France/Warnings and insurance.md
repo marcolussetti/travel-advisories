@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 April 2025
+:   5 June 2025
 
 Updated:
-:   10 April 2025
+:   4 June 2025
 
 Latest update:
-:   Removal of information about an incident following a fire on 9 April in La Plagne in the Alps (‘Warnings and insurance’ page).
+:   Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airports, ports and Eurostar stations ('Safety and security' page).
 
 ## Before you travel
 

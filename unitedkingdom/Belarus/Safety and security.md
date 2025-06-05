@@ -152,9 +152,11 @@ There’s an exclusion zone immediately around the Chernobyl site. This includes
 
 ## Laws and cultural differences
 
-### Drugs and prison sentences
+### Illegal drugs
 
-There are severe penalties for drug-related crimes. These include prison sentences of up to 5 years for drug possession (including for small amounts of Class C drugs) and up to 25 years for more serious drug-related offences.
+There are severe penalties for drug-related crimes in Belarus. Possession of illegal drugs, including small amounts of Class C substances such as cannabis, can result in prison sentences of up to 5 years. More serious offences, such as smuggling or trafficking, carry penalties of up to 25 years in prison and heavy fines. These laws apply even if you are only transiting through the airport.
+
+Airports in Belarus have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.  You should expect strict enforcement and serious consequences if found in possession of illegal substances.
 
 ### LGBT+ travellers
 

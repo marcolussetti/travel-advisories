@@ -9,7 +9,7 @@ The authorities in Norway set and enforce entry rules. If you’re not sure how 
 Norway follows [Schengen area rules](https://europa.eu/youreurope/citizens/travel/entry-exit/non-eu-nationals/index_en.htm). Your passport must:
 
 * have a ‘date of issue’ less than 10 years before the date you arrive – if you renewed your passport before 1 October 2018, it may have a date of issue that is more than 10 years ago
-* have an ‘expiry date’ at least 3 months after the day you plan to leave the Schengen area
+* have an ‘expiry date’ at least 3 months after the day you plan to leave the Schengen area (the expiry date does not need to be within 10 years of the date of issue)
 
 Check with your travel provider that your passport and other travel documents meet requirements. [Renew your passport](https://www.gov.uk/renew-adult-passport/renew) if you need to.
 

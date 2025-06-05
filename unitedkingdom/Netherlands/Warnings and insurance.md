@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   29 March 2025
+:   5 June 2025
 
 Updated:
-:   28 March 2025
+:   4 June 2025
 
 Latest update:
-:   Removal of information on a stabbing incident in central Amsterdam.
+:   Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through airports. New information on organised crime ('Safety and security' page).
 
 Check [separate travel advice pages](/foreign-travel-advice) for advice on travel to the constituent countries and special municipalities in the Dutch Caribbean.
 

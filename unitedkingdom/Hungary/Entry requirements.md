@@ -58,10 +58,6 @@ Read more [information on the EU Entry/Exit System](https://www.gov.uk/guidance/
 
 For details about medical entry requirements and recommended vaccinations, see [TravelHealthPro’s Hungary guide](https://travelhealthpro.org.uk/country/103/hungary#Vaccine_Recommendations).
 
-## Border checks
-
-There may be closures or delays at road borders with Austria and Slovakia due to extra checks that have been in place since 8 April 2025 to reduce the spread of foot and mouth disease. Further information is available from the [Hungarian Police website](https://www.police.hu/hu/hirek-es-informaciok/legfrissebb-hireink/hatarrendeszet/szlovakia-is-ideiglenes-hatarellenorzest).
-
 ## Customs rules
 
 There are strict rules about [goods you can take into and out of Hungary](https://nav.gov.hu/en/intormation_on_customs_matters/General_Customs_Information/Information_for_travellers_2022), including pets, hunting weapons, alcohol and tobacco products and some medicines. You must declare anything that may be prohibited or subject to tax or duty.

@@ -25,9 +25,11 @@ There have been instances of drink spiking in Vilnius and at festivals and even
 
 ## Laws and cultural differences
 
-### Illegal drugs and prison sentences
+### Illegal drugs
 
-Possessing even very small quantities of drugs can lead to imprisonment or heavy fines.
+Illegal drugs, including cannabis, are strictly prohibited, even in very small quantities. Severe penalties apply for possessing, using, buying, or smuggling illegal drugs, including when transiting through airports. You should expect long jail sentences of up to 10 years and heavy fines.
+
+Airports in Lithuania have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
 
 ### LGBT+ travellers
 

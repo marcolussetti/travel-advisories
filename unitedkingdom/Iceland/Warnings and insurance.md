@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   2 April 2025
+:   5 June 2025
 
 Updated:
-:   1 April 2025
+:   4 June 2025
 
 Latest update:
-:   Addition of information with the most recent eruption on the Reykjanes peninsula on 1 April ('Safety and security' page).
+:   Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport ('Safety and security' page).
 
 ## Volcanic eruptions
 

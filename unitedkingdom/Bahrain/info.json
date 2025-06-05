@@ -1,11 +1,11 @@
 {
     "name": "Bahrain",
-    "update_reason": "Information on an Israeli military attack on Iran (Safety and security)",
+    "update_reason": "Updated information on passport requirements for dual Bahraini-UK nationals ('Entry requirements' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Bahrain/Warnings and insurance.md",
-            "update_date": "2024-10-26T08:31:51+01:00"
+            "update_date": "2025-06-04T14:08:38+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Bahrain/Getting help.md"
         }
     ],
-    "update_date": "2024-10-26T08:31:51+01:00"
+    "update_date": "2025-06-04T14:08:38+01:00"
 }

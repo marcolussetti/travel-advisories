@@ -64,9 +64,11 @@ Read more [advice for LGBT+ travellers](https://www.gov.uk/lesbian-gay-bisexual
 
 Child surrogacy is strictly prohibited throughout Moldova. The British Embassy will not be able to provide support if you get involved in any way.
 
-### Illegal drugs and prison sentences
+### Illegal drugs
 
-There is zero tolerance for possession or supply of illegal drugs. If you have even small quantities of drugs (class A, B or C) you could get a long prison term as well as heavy fines.
+Illegal drugs, even small quantities of drugs (class A, B or C) including cannabis, carry severe penalties. You should expect a long jail sentence and heavy fines for possessing, using or smuggling illegal drugs, including when transiting through the airport.
+
+Airports in Moldova have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
 
 ### Money
 

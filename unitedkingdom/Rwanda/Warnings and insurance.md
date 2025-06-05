@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   8 April 2025
+:   5 June 2025
 
 Updated:
-:   7 April 2025
+:   4 June 2025
 
 Latest update:
-:   CORRECTION: FCDO now advises against all but essential travel to the Rubavu District and continues to advise against all but essential travel to parts of Rusizi District ('Warnings and insurance' and 'Regional risks' pages).
+:   Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/67f05c1e22a7bab256d956cf/Annex_A_FCDO__TA__100_-_Rwanda_Travel_Advice_Ed4__WEB_.jpg)
 

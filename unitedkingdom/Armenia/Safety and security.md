@@ -35,11 +35,13 @@ Crime levels are low. There are occasional incidents of pickpocketing, bag-snatc
 
 ## Laws and cultural differences
 
-### Illegal drugs and prison sentences
+### Illegal drugs
 
-If you use illegal drugs, you can get fines and a long prison sentence. The penalty for smuggling drugs is a prison sentence of between 4 and 10 years.
+If you possess, use or smuggle illegal drugs, including cannabis, you can get heavy fines and a long jail sentence, including when transiting through the airport. The penalty for smuggling drugs is a prison sentence of between 4 and 10 years.
 
 It is illegal to use, possess or trade marijuana, cannabidiol (CBD), or tetrahydrocannabinol (THC) products. You can be prosecuted for having these substances even when they are prescribed for medical purposes.
+
+Airports in Armenia have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
 
 ### Using cameras and binoculars in secure areas
 

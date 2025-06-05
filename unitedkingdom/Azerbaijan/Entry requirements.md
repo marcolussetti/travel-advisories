@@ -52,11 +52,9 @@ If you’re staying in Azerbaijan for longer than 15 days, you must [register wi
 
 ## British-Azerbaijani dual nationality
 
-Azerbaijan does not allow people aged 18 or over to hold dual nationality. You may be refused entry, denied departure or even face criminal liability if you’re found to be holding both an Azerbaijani passport and a passport of a different nationality.
+Azerbaijan does not recognise dual nationality, but does not prohibit Azerbaijani nationals from holding dual nationality. You must inform the local Azerbaijani Embassy or State Migration Service within one month of taking up another nationality. If you do not, this can impact the level of consular support FCDO will be able to provide.
 
 If you’re a British passport holder with links to Azerbaijan, through birth or otherwise, and need to check your nationality status, contact the [State Migration Service](https://migration.gov.az/en) before you travel.
-
-Children aged 17 and under holding a second nationality should not face any difficulties.
 
 ## Vaccine requirements
 

@@ -16,6 +16,12 @@ Attacks could be indiscriminate including in places visited by foreign nationals
 
 Crime levels are low, but there are instances of petty street crime. Take precautions to avoid bag-snatching and pickpocketing and do not leave your valuables unattended.
 
+## Laws and cultural differences
+
+### Illegal drugs
+
+Illegal drugs, including cannabis, carry severe penalties. You should expect a long jail sentence and heavy fines for possessing, using or smuggling illegal drugs, including when transiting through the country.
+
 ## Outdoor activities and adventure tourism
 
 There is a risk of avalanches in mountainous areas all year round. You can [check updates from the European Avalanche Warning Service](https://www.avalanches.org/). Follow all warnings and consider carrying search equipment.

@@ -12,7 +12,7 @@ Check with your travel provider that your passport and other travel documents me
 
 You will be denied entry if you do not have a valid travel document or try to use a passport that has been reported lost or stolen.
 
-If you are a dual Bahraini / UK national the authorities may require you to enter and exit Bahrain on a Bahrain travel document only.
+If you are a dual Bahraini-UK national the authorities may require you to enter and exit Bahrain on a Bahrain travel document only. If your Bahraini passport is not valid or in your possession, seek advice from your nearest Bahraini Embassy before you travel to Bahrain. Bahraini passport renewals whilst in Bahrain may take a long time and could potentially disrupt your travel plans. Decisions related to entering and exiting Bahrain are always made by the Bahraini authorities.
 
 If you are not sure how these requirements apply to you, contact the [Bahrain Embassy in the UK](https://www.mofa.gov.bh/london/en/home/) or Bahrain’s  Nationality, Passports and Residency Affairs [(NPRA)](https://www.npra.gov.bh/en/).
 

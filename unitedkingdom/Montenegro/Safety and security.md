@@ -43,9 +43,11 @@ Fraudsters can steal your card details without you noticing. Use ATMs inside ban
 
 You must always carry a form of ID such as a photocard driving licence or passport. If you do not have it with you, the police can give you a fine. Keep a copy of your passport’s photo page in a safe place.
 
-### Illegal drugs and prison sentences
+### Illegal drugs
 
-Drugs laws are similar to the UK. There are strict penalties and lengthy prison sentences for possession or trafficking of drugs.
+Illegal drugs, including cannabis, carry severe penalties. You should expect a long jail sentence and heavy fines for possessing, using or smuggling illegal drugs, including when transiting through the airport.
+
+Airports in Montenegro have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
 
 ### Using cameras in secure areas
 

@@ -2,7 +2,9 @@
 
 This information is for people travelling on a full [‘British citizen’ passport](https://www.gov.uk/types-of-british-nationality) from the UK. It is based on the UK government’s understanding of the current rules for the most common types of travel.
 
-You should comply with all entry, visa and other conditions of entry. The authorities in the US set and enforce entry rules strictly. You may be liable to arrest or detention if you break the rules. If you’re not sure how these requirements apply to you, contact the [US Embassy or a consulate in the UK](https://uk.usembassy.gov/).
+You should comply with all entry, visa and other conditions of entry. The authorities in the US set and enforce entry rules strictly. You may be liable to arrest, detention, or removal if you violate the rules or break the law. Even if you have a visa or visa waiver, the final decision on entry is made at the border by a US border official. If you’re not sure how these requirements apply to you, contact the [US Embassy or a consulate in the UK](https://uk.usembassy.gov/).
+
+The US may change entry conditions at any time without prior notice.
 
 ## Passport validity requirements
 
@@ -19,6 +21,8 @@ US law requires US citizens to enter and exit the US using a US passport. Contac
 To enter or transit through the US, you must have either an [Electronic System for Travel Authorisation (ESTA)](https://esta.cbp.dhs.gov) or a [visa](https://uk.usembassy.gov/visas/).
 
 The US State Department has [more information on visas](https://travel.state.gov/content/travel/en/us-visas.html).
+
+Travellers whose sex on their passport differs from their sex recorded at birth should contact [the US Embassy or a consulate](https://uk.usembassy.gov/) in the UK for further advice.
 
 ### Applying for an ESTA
 
@@ -66,7 +70,7 @@ Anyone aged 17 and under must:
 
 * have a valid visa or ESTA on arrival
 * be able to provide evidence about the purpose, location and length of their visit if asked by immigration officials
-* have a letter of consent, preferably in English and notarized from one or both parents if travelling alone, with only one parent, or with someone who is not a parent or legal guardian
+* have a letter of consent, preferably in English and notarised from one or both parents if travelling alone, with only one parent, or with someone who is not a parent or legal guardian
 
 The US authorities can stop you entering the country if they have safeguarding concerns about a child. If this happens, the US authorities will take the child into their care, and their return from the US could take months. The FCDO cannot speed up the return of British nationals aged 17 and under from the US.
 
@@ -75,6 +79,10 @@ The US government has [information about children travelling to the US](https://
 ## Vaccine requirements
 
 For details about medical entry requirements and recommended vaccinations, see [TravelHealthPro’s US guide](https://travelhealthpro.org.uk/country/235/usa#Vaccine_Recommendations).
+
+## Electronic devices
+
+Officials may ask to inspect your electronic devices, emails, text messages, and social media activity. If you refuse, they can delay or deny your entry. US Customs and Border Protection has [more information on electronic device searches](https://www.cbp.gov/travel/cbp-search-authority/border-search-electronic-devices).
 
 ## Customs rules
 

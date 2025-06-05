@@ -203,9 +203,11 @@ The police do not need a reason to stop, question or detain you. Criminals posin
 
 Always carry your passport with you as ID. Police carry out random checks, especially during periods of high security. You could get a fine or be detained for up to 48 hours if you cannot show your passport when asked. Copies are not accepted.
 
-### Drugs
+### Illegal drugs
 
-You can be prosecuted for possessing even small quantities of any drugs.
+You can be prosecuted for possessing even small quantities of any drugs, including cannabis. You should expect a long jail sentence and heavy fines for possessing, using or smuggling illegal drugs, including when transiting through the airport.
+
+Airports in Russia have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
 
 ### Restricted military areas
 

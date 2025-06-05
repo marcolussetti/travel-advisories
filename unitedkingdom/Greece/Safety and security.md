@@ -78,7 +78,11 @@ The courts are likely to impose a heavy fine or a prison sentence if they judge 
 
 It’s illegal to smoke in indoor public places, including shopping malls and transport hubs. You could get a fine of up to 500 euros.
 
-### Illegal drugs and prison sentences
+### Illegal drugs
+
+Illegal drugs, including cannabis, carry severe penalties. You should expect a long jail sentence and heavy fines for possessing, using or smuggling illegal drugs, including when transiting through  airports.
+
+Airports in Greece have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
 
 Possession of even small quantities of illegal drugs can lead to a long prison sentence.
 

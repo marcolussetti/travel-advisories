@@ -48,13 +48,15 @@ Do not leave luggage in view in your car.
 
 You must always carry your passport with you as ID. You can get a fine of up to 1,600 euros for not showing ID if the Slovak police ask for it.
 
+### Illegal drugs
+
+Illegal drugs, including cannabis, carry severe penalties. You should expect a long jail sentence and heavy fines for possessing, using or smuggling illegal drugs, including when transiting through the airport.
+
+Airports in Slovakia have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
+
 ### Alcohol laws
 
 Bratislava has become a popular destination for stag parties. Tourists have been fined or imprisoned for being a public nuisance. Unruly or rowdy behaviour is illegal could attract police attention, particularly between 10pm and 6am. In Bratislava Old Town, it is illegal to drink alcohol in the street. If you drink alcohol (for example, bought in a supermarket) in this or other public areas, you could get a fine of 33 euros.
-
-### Illegal drugs penalties
-
-Penalties for smuggling, possessing and using drugs are severe.
 
 ### Using cameras in secure areas
 
@@ -106,7 +108,7 @@ If you use Slovak motorways (‘Dialnica’), you must display a motorway vignet
 
 ### Taxis
 
-Only use officially licensed taxis. Drivers must display their licence. Take sensible precautions, particularly at night or if you are alone. Do not get into a taxi if you are concerned about the driver or condition of the vehicle. Taxi drivers sometimes try to overcharge tourists by adding unauthorised supplements or by not setting the meter at the start of a journey. Make sure the taxi meter is on or agree a set price for the journey beforehand.
+Only use officially licensed taxis. Drivers must display their licence. Take sensible precautions, particularly at night or if you are alone. Do not get into a taxi if you are concerned about the driver or condition of the vehicle. Taxi drivers sometimes try to overcharge tourists by adding unauthorised supplements or by not setting the meter at the start of a journey. Make sure the taxi meter is on or agree a set price for the journey beforehand. See information on [local taxi use](https://www.visitbratislava.com/informations/transport/).
 
 [Previous
 :

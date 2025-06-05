@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   5 April 2025
+:   5 June 2025
 
 Updated:
-:   4 April 2025
+:   4 June 2025
 
 Latest update:
-:   FCDO now advises against all but essential travel to south-western Azerbaijan (‘Warnings and insurance’, ‘Entry requirements’ ‘Safety and security’ and ‘Regional risks’ pages).
+:   Updated information on dual nationality and the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport ('Entry requirements' and 'Safety and security' pages).
 
 ![](https://assets.publishing.service.gov.uk/media/67efddbf27eb76c92cf7e567/FCDO__TA__004_-_Azerbaijan_Travel_Advice_Ed9__WEB_.jpg)
 

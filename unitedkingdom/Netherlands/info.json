@@ -1,11 +1,11 @@
 {
     "name": "Netherlands",
-    "update_reason": "Removal of information on a stabbing incident in central Amsterdam.",
+    "update_reason": "Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through airports. New information on organised crime ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Netherlands/Warnings and insurance.md",
-            "update_date": "2025-03-28T16:52:39+00:00"
+            "update_date": "2025-06-04T17:11:40+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Netherlands/Getting help.md"
         }
     ],
-    "update_date": "2025-03-28T16:52:39+00:00"
+    "update_date": "2025-06-04T17:11:40+01:00"
 }

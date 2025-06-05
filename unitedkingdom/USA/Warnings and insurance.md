@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   5 June 2025
 
 Updated:
-:   14 March 2025
+:   4 June 2025
 
 Latest update:
-:   Updated information on visa requirements to enter USA (‘Entry requirements’ page).
+:   Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through airports. Addition of information about entering the US, including inspections of electronic devices ('Safety and security' and ‘Entry requirements’ pages).
 
 This travel advice also covers American Samoa, Guam, Northern Mariana Islands, Puerto Rico, and United States Virgin Islands.
 

@@ -1,11 +1,11 @@
 {
     "name": "Germany",
-    "update_reason": "Update to information on expected rollout of the EU Entry/Exit System (EES) (\u2018Entry requirements\u2019 page).",
+    "update_reason": "Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Germany/Warnings and insurance.md",
-            "update_date": "2025-03-17T14:02:45+00:00"
+            "update_date": "2025-06-04T17:10:13+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Germany/Getting help.md"
         }
     ],
-    "update_date": "2025-03-17T14:02:45+00:00"
+    "update_date": "2025-06-04T17:10:13+01:00"
 }

@@ -39,9 +39,13 @@ There is a risk of drink spiking in bars and clubs. Be careful not to take drink
 
 ## Laws and cultural differences
 
-### Illegal drugs penalties
+### Illegal drugs
 
-There is zero tolerance for drugs-related offences. Romanian authorities treat all drug offences very seriously. If convicted, you should expect a prison sentence. Increasing numbers of people, including foreign visitors, have been arrested and received lengthy sentences for drug offences at music festivals in Romania.
+Illegal drugs, including cannabis, carry severe penalties. You should expect a long jail sentence and heavy fines for possessing, using or smuggling illegal drugs, including when transiting through the airport.
+
+Airports in Romania have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
+
+Increasing numbers of people, including foreign visitors, have been arrested and received lengthy sentences for drug offences at music festivals in Romania.
 
 ### Using cameras in secure areas
 

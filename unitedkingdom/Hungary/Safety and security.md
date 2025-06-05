@@ -51,9 +51,11 @@ There have been reports of drinks being spiked, particularly in Budapest’s bar
 
 Always carry your passport. You must show ID if the police ask for it, and a copy is not acceptable.
 
-### Illegal drugs and prison sentences
+### Illegal drugs
 
-Hungarian laws on the possession and use of drugs are very strict and carry serious penalties and prison sentences.
+Illegal drugs, including cannabis, carry severe penalties. You should expect a long jail sentence and heavy fines for possessing, using or smuggling illegal drugs, including when transiting through the airport.
+
+Airports in Hungary have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
 
 ### LGBT+ travellers
 

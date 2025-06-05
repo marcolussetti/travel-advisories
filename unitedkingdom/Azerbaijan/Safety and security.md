@@ -73,9 +73,11 @@ Ramadan is a holy month for Muslims. The dates vary by year and country. In 2025
 
 Get more advice when you arrive from your tour guide, hotel or business contacts.
 
-### Illegal drugs and prison sentences
+### Illegal drugs
 
-Possession or use of illegal drugs carries severe penalties. The usual penalty for smuggling drugs is a fine and a prison sentence of 3 to 7 years.
+Possession or use of illegal drugs, including cannabis, carries severe penalties. You should expect a long jail sentence and heavy fines for possessing, using, or smuggling illegal drugs, including when transiting through the airport.
+
+Airports in Azerbaijan have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
 
 ### Using cameras and drones in sensitive locations
 

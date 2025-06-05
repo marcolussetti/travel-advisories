@@ -50,9 +50,13 @@ Drinks served in bars overseas are often stronger than those in the UK. Be caref
 
 By law, you must always have easy access to your passport. If you do not carry your passport, it must be in the same district as you, and you must be able to get it quickly. It can be helpful to carry a copy of the photo page. The Austrian authorities do not accept a UK driving licence as official ID.
 
-### Drugs
+### Illegal drugs
 
-Drug laws are similar to the UK. Possessing or trafficking drugs is dealt with severely.
+Illegal drugs, including cannabis, carry severe penalties.
+
+You should expect a long jail sentence and heavy fines for possessing, using or smuggling illegal drugs, including when transiting through the airport.
+
+Airports in Austria have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
 
 ### Face-covering ban
 

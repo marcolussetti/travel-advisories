@@ -1,5 +1,9 @@
 # Getting help
 
+The Foreign, Commonwealth & Development Office (FCDO) cannot provide tailored advice for individual trips. Read this travel advice and carry out your own research before deciding whether to travel.
+
+## Emergency services in France
+
 Telephone 112 (ambulance, fire, police)
 
 Ambulance: 15

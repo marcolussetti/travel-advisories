@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   5 June 2025
 
 Updated:
-:   16 January 2025
+:   4 June 2025
 
 Latest update:
-:   Information added about mutual visa recognition between Belarus and Russia and extended visa free entry for British nationals until 31 December 2025 (‘Entry requirements’ and ‘Safety and security’ pages).
+:   Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/621a51bb8fa8f54916f45f67/FCDO_TA_057_-_Belarus_Travel_Advice_Ed2_WEB.jpg)
 

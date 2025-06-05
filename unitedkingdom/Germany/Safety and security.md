@@ -47,6 +47,12 @@ It’s not a legal requirement to carry ID. However, if you cannot show ID when
 
 They will ask for a passport and, if you are a resident, for your residence card as well.
 
+### Illegal drugs
+
+Illegal drugs, including cannabis, carry severe penalties. You should expect a long jail sentence and heavy fines for possessing, using or smuggling illegal drugs, including when transiting through the airport.
+
+Airports in Germany have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
+
 ## Outdoor activities and adventure tourism
 
 If you’re taking part in organised outdoor activities, check that the company is reputable and has documented safety procedures.

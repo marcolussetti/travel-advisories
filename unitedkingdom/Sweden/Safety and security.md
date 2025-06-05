@@ -28,11 +28,15 @@ Violent crime does occur. Gang-related crime, including knife crime, shootings a
 
 ## Laws and cultural differences
 
-There are heavy punishments for importing illegal drugs. There is zero tolerance towards drugs; even petty drug use will lead to a penalty.
-
-Paying for sex is illegal.
+Paying for sex is illegal, from 1 July 2025 this will also include the purchase of sexual acts online
 
 Physical punishment of children is illegal.
+
+### Illegal drugs
+
+Illegal drugs, including cannabis, are strictly prohibited, even in small quantities. Severe penalties apply for possessing, using or smuggling illegal drugs, including when transiting through airports. You should expect long jail sentences of up to 10 years  and heavy fines.
+
+Airports in Sweden have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
 
 ### LGBT+ travellers
 

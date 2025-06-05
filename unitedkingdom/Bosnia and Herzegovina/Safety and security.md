@@ -54,6 +54,12 @@ Always carry your passport or official photo ID with you. You must be able to sh
 
 Local police do not always have English language skills and you may need the [services of a translator](https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/translators-interpreters?country=Bosnia%20and%20Herzegovina).
 
+### Illegal drugs
+
+Illegal drugs, including cannabis, carry severe penalties. You should expect a long jail sentence and heavy fines for possessing, using or smuggling illegal drugs, including when transiting through the airport.
+
+Airports in Bosnia and Herzegovina have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
+
 ### Ramadan
 
 Ramadan is a holy month for Muslims in Bosnia and Herzegovina. The dates vary by year and country.

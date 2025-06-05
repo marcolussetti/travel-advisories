@@ -125,9 +125,11 @@ There are reports of tourists being encouraged to submit a claim for personal in
 
 Smoking is illegal on public transport and in all indoor workplaces and public places. Smoking is restricted in some outdoor areas where cultural, artistic, sports or entertainment activities are held.
 
-### Illegal drugs and prison sentences
+### Illegal drugs
 
-Turkey has strict laws against the use, possession and trafficking of illegal drugs. You may receive a fine or prison sentence of 4 to 24 years.
+Illegal drugs, including cannabis, carry severe penalties. You should expect a long prison sentence of 4 to 24 years and heavy fines for possessing, using or smuggling illegal drugs, including when transiting through airports.
+
+Airports in Turkey have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
 
 ### Stray dogs
 

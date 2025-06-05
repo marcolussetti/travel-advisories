@@ -34,6 +34,14 @@ Some off-limits military zones in Kigali may not be well lit or signposted. You 
 
 ## Laws and cultural differences
 
+### Illegal drugs
+
+Illegal drugs, including cannabis, carry severe penalties.
+
+You should expect a long jail sentence and heavy fines for possessing, using or smuggling illegal drugs, including when transiting through the airport.
+
+Airports in Rwanda have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
+
 ### Using cameras in secure areas
 
 It is illegal to photograph some government buildings. If you use a drone to take photographs of a prohibited area without a permit, you risk being imprisoned or receiving a severe fine.
@@ -60,7 +68,7 @@ The last Saturday of each month is Umuganda, a national day of community service
 
 ### Gorilla and Chimpanzee trekking
 
-If you plan to travel close to the Democratic Republic of the Congo border on a gorilla or chimpanzee trek, check the areas we advise against travel to, including [the Rubavu and Rusizi Districts](https://www.gov.uk/foreign-travel-advice/rwanda). If you plan on crossing the border into DRC, [check the travel advice for DRC](https://www.gov.uk/foreign-travel-advice/democratic-republic-of-the-congo). Short-notice border closures could impact any travel plans in the region. Plan your journey  in advance and discuss your itinerary with your tour operator.  Keep up to date with developments through your tour operator and check the local media.
+If you plan to travel close to the Democratic Republic of the Congo border on a gorilla or chimpanzee trek, check travel advice for [the Rubavu and Rusizi Districts](https://www.gov.uk/foreign-travel-advice/rwanda). If you plan on crossing the border into DRC, [check the travel advice for DRC](https://www.gov.uk/foreign-travel-advice/democratic-republic-of-the-congo). Short-notice border closures could impact any travel plans in the region. Plan your journey  in advance and discuss your itinerary with your tour operator.  Keep up to date with developments through your tour operator and check the local media.
 
 ## Transport risks
 

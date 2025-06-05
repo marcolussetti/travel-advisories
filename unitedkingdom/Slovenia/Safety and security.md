@@ -16,6 +16,12 @@ Although there’s no recent history of terrorism in Slovenia, attacks cannot be
 
 Always carry a copy of your passport as a form of ID. You can get a 50 to 200 euro fine if the police ask you for ID and you cannot show it.
 
+### Illegal drugs
+
+Illegal drugs, including cannabis, carry severe penalties. You should expect a long jail sentence and heavy fines for possessing, using or smuggling illegal drugs, including when transiting through the airport.
+
+Airports in Slovenia have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
+
 ### Road crossing fines
 
 There are heavy fines for not using designated road crossing points (‘jaywalking’). If you cannot pay an on-the-spot fine, the police or authorities can confiscate your documents or assets until you pay.

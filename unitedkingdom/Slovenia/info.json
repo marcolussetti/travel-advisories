@@ -1,11 +1,11 @@
 {
     "name": "Slovenia",
-    "update_reason": "New information on following safety advice about bears if you go hiking ('Safety and security' page).",
+    "update_reason": "Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Slovenia/Warnings and insurance.md",
-            "update_date": "2025-05-30T09:36:26+01:00"
+            "update_date": "2025-06-04T17:18:07+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Slovenia/Getting help.md"
         }
     ],
-    "update_date": "2025-05-30T09:36:26+01:00"
+    "update_date": "2025-06-04T17:18:07+01:00"
 }

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   5 June 2025
 
 Updated:
-:   17 January 2025
+:   4 June 2025
 
 Latest update:
-:   Updated information on risks from terrorism (‘Safety and security’ page).
+:   Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/615dcc368fa8f5297eda6658/FCDO__TA__003_-_Armenia_Travel_Advice_Ed3__WEB_.jpg)
 

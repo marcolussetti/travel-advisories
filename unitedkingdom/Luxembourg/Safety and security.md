@@ -34,6 +34,12 @@ Scammers can target foreign visitors and residents. Be cautious and make sure yo
 
 The minimum legal drinking age is 16. Being drunk and disorderly in public is a criminal offence that can result in arrest for a night and a heavy fine.
 
+### Illegal drugs
+
+Illegal drugs, including cannabis, carry severe penalties. You should expect a long jail sentence and heavy fines for possessing, using or smuggling illegal drugs, including when transiting through the airport.
+
+The airport in Luxembourg has excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
+
 ## Transport risks
 
 ### Road travel

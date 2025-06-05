@@ -60,9 +60,15 @@ Bird hunting takes place in the spring and autumn. The Maltese government decide
 
 Hunting with firearms is common. It is normally allowed from 2 hours before sunrise until 2 hours after sunset. Hunting areas are rarely marked and can overlap with camping areas, country walkways and other public areas. Although not common, there have been incidents between members of the public and locals. Be aware of your surroundings when visiting rural areas and nature spots during the hunting seasons.
 
-### Illegal drugs and prison sentences
+### Illegal drugs
 
-Penalties for illegal drugs possession, use or trafficking are strict. Convicted offenders can expect prison sentences and heavy fines.
+Illegal drugs, including cannabis, carry severe penalties for tourists.
+
+Malta legalised the cultivation and personal use of cannabis at home in 2021, but smoking in public is illegal and attracts a fine. Possession of up to 7g of cannabis in public for personal use at home is legal for Maltese residents only.
+
+You should expect a long jail sentence and heavy fines for possessing, using or smuggling illegal drugs, including when transiting through the airport. Schengen bans (of up to 5 years) may also be issued alongside fines or after release from detention.
+
+The airport in Malta has excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
 
 ## Outdoor activities and adventure tourism
 

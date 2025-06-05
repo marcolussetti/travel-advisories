@@ -1,11 +1,11 @@
 {
     "name": "Bosnia and Herzegovina",
-    "update_reason": "Updated information on flooding in central Bosnia and Herzegovina ('Safety and security' page').",
+    "update_reason": "Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Bosnia and Herzegovina/Warnings and insurance.md",
-            "update_date": "2024-10-07T15:24:50+01:00"
+            "update_date": "2025-06-04T17:05:30+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Bosnia and Herzegovina/Getting help.md"
         }
     ],
-    "update_date": "2024-10-07T15:24:50+01:00"
+    "update_date": "2025-06-04T17:05:30+01:00"
 }

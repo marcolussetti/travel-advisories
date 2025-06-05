@@ -38,9 +38,13 @@ Take extra care in Christiania and Nørrebro, particularly late at night. There 
 
 It’s illegal to wear clothing that conceals your face in a public place in Denmark. There are legal exemptions – for example, face masks for health reasons. If you cover your face in public, you may get a fine of 1,000 krone (around £115). If you do it again, the fine can increase.
 
-### Illegal drugs and prison sentences
+### Illegal drugs
 
-Do not get involved with illegal drugs of any kind. Although Denmark is generally a liberal society, drug use is illegal and the Danish authorities enforce the law. You will not be treated more leniently than residents. Drug dealers can receive heavy sentences. If you are found with illegal drugs thought to be for personal consumption, you may get a fine or prison sentence.
+Illegal drugs, including cannabis, are strictly prohibited, even in small quantities. Severe penalties apply for possessing, using, or smuggling illegal drugs, including when transiting through airports.
+
+You should expect long jail sentences of up to 10 years and substantial heavy fines.
+
+Airports in Denmark have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
 
 ### LGBT+ travellers
 

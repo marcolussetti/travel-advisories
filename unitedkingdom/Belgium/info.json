@@ -1,11 +1,11 @@
 {
     "name": "Belgium",
-    "update_reason": "Updated information about strike action ('Warnings and insurance' page).",
+    "update_reason": "Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Belgium/Warnings and insurance.md",
-            "update_date": "2025-04-30T17:13:43+01:00"
+            "update_date": "2025-06-04T17:04:26+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Belgium/Getting help.md"
         }
     ],
-    "update_date": "2025-04-30T17:13:43+01:00"
+    "update_date": "2025-06-04T17:04:26+01:00"
 }

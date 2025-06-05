@@ -48,9 +48,13 @@ You can take steps to reduce your personal risk, by:
 
 ## Laws and cultural differences
 
-### Illegal drugs and prison sentences
+### Illegal drugs
 
-There are severe penalties for all drug offences.
+Illegal drugs, including cannabis, carry severe penalties.
+
+You should expect a long jail sentence and heavy fines for possessing, using or smuggling illegal drugs, including when transiting through the airport.
+
+Airports in Burundi have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
 
 ### LGBT+ travellers
 

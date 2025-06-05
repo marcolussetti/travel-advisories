@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   5 June 2025
 
 Updated:
-:   14 March 2025
+:   4 June 2025
 
 Latest update:
-:   Update about ongoing demonstrations in Serbia ('Safety and security' pages).
+:   Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport ('Safety and security' page).
 
 ## Before you travel
 

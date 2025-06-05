@@ -66,7 +66,11 @@ Stag groups are not allowed to enter some city centre bars and restaurants. You 
 
 ### Illegal drugs
 
-The possession, sale and distribution of drugs is illegal, and the drugs are often dangerous counterfeits. Penalties for drug offences are severe. Convictions carry sentences of up to 18 years. Some shops, particularly in Prague, advertise ‘cannabis products’, which contain trace amounts of THC permissible under Czech law. However, possessing marijuana remains illegal in the Czech Republic.
+The possession, sale and distribution of drugs, including cannabis, is illegal, and the drugs are often dangerous counterfeits. Some shops, particularly in Prague, advertise ‘cannabis products’, which contain trace amounts of THC permissible under Czech law.
+
+You should expect severe penalties such as a long jail sentence and heavy fines for possessing, using or smuggling illegal drugs, including when transiting through the airport. Convictions carry sentences of up to 18 years.
+
+Airports in Czech Republic have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
 
 ### LGBT+ travellers
 

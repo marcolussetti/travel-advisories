@@ -1,11 +1,11 @@
 {
     "name": "Latvia",
-    "update_reason": "New information about British-Russian dual nationals and restrictions on vehicles (See 'Restrictions on vehicles' on the 'Entry requirements' page).",
+    "update_reason": "Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through airports ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Latvia/Warnings and insurance.md",
-            "update_date": "2025-05-08T16:54:36+01:00"
+            "update_date": "2025-06-04T17:09:34+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Latvia/Getting help.md"
         }
     ],
-    "update_date": "2025-05-08T16:54:36+01:00"
+    "update_date": "2025-06-04T17:09:34+01:00"
 }

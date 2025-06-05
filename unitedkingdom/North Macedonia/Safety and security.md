@@ -36,6 +36,12 @@ Keep your passport in a safe place and carry a copy of the photo page for identi
 
 ## Laws and cultural differences
 
+### Illegal drugs
+
+Illegal drugs, including cannabis, carry severe penalties. You should expect a long jail sentence and heavy fines for possessing, using or smuggling illegal drugs, including when transiting through the airport.
+
+Airports in North Macedonia have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
+
 ### Using cameras in secure areas
 
 It is illegal to take photographs of any military installation or site of government or strategic importance.

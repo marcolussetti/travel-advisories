@@ -36,9 +36,15 @@ Watch out for pickpockets and bag thieves in tourist areas, on buses and trains 
 
 ## Laws and cultural differences
 
-### Illegal drugs and prison sentences
+### Illegal drugs
 
-Penalties for drug-related crimes are severe. Possession of illegal drugs could result in a prison sentence of 5 to 10 years. The penalty for supplying drugs is up to 15 years in prison.
+Penalties for drug-related crimes are severe.
+
+You should expect a long jail sentence and heavy fines for possessing, using or smuggling illegal drugs, including when transiting through the airport.
+
+Possession of illegal drugs could result in a prison sentence of 5 to 10 years. The penalty for supplying drugs is up to 15 years in prison.
+
+Airports in Albania have excellent technology and security for detecting illegal items, including cannabis. This is also used to scan the baggage of transiting passengers.
 
 ### Being arrested
 

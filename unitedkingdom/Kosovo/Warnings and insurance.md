@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   5 June 2025
 
 Updated:
-:   29 August 2024
+:   4 June 2025
 
 Latest update:
-:   Clarification on areas that the FCDO already advises against all but essential travel (‘Warnings and insurance’, ‘Safety and security’ and ‘Regional risks’ pages).
+:   Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/66d031530b53069322597c76/FCDO__TA__052_-_Kosovo_Travel_Advice_Ed2__WEB_.jpg)
 

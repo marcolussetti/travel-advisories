@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   17 May 2025
+:   5 June 2025
 
 Updated:
-:   16 May 2025
+:   4 June 2025
 
 Latest update:
-:   Updated information about ongoing political demonstrations (‘Safety and security’ page).
+:   Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/6164003ce90e07197c0c2a1f/FCDO__TA__018_-_Georgia_Travel_Advice_Ed2__WEB_.jpg)
 

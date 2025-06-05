@@ -99,9 +99,11 @@ You must carry your passport with you at all times.
 
 It is illegal to wear clothing that hides your face partially or completely (for example, the burka and niqab) in public places. You risk a fine of up to 137 euros and detention for up to 7 days. There is no exemption for tourists.
 
-### Illegal drugs and prison sentences
+### Illegal drugs
 
-Possession of drugs and trafficking in drugs are serious offences and can lead to a minimum 3-month prison sentence or fine.
+Possession, use, or trafficking of illegal drugs, including cannabis, are serious offences and can lead to a minimum 3-month prison sentence, long jail terms, or heavy fines. You should expect severe penalties even when transiting through the airport.
+
+ Airports in Belgium have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
 
 ### Visiting battlefields
 

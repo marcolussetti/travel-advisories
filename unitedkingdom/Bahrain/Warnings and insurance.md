@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   5 June 2025
 
 Updated:
-:   26 October 2024
+:   4 June 2025
 
 Latest update:
-:   Information on an Israeli military attack on Iran (Safety and security)
+:   Updated information on passport requirements for dual Bahraini-UK nationals ('Entry requirements' page).
 
 ## Before you travel
 

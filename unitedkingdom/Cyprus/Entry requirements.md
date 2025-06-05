@@ -9,7 +9,7 @@ The authorities in Cyprus set and enforce entry rules. If you’re not sure how 
 To enter Cyprus, your passport must have:
 
 * a ‘date of issue’ less than 10 years before the date you arrive – if you renewed your passport before 1 October 2018, it may have a date of issue that is more than 10 years ago
-* an ‘expiry date’ at least 3 months after the day you plan to leave
+* an ‘expiry date’ at least 3 months after the day you plan to leave (the expiry date does not need to be within 10 years of the date of issue)
 * at least one blank page for stamping
 
 Check with your travel provider that your passport and other travel documents meet requirements. [Renew your passport](https://www.gov.uk/renew-adult-passport/renew) if you need to.

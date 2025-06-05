@@ -69,9 +69,11 @@ Gambling is only legal in places licensed by the government, such as official ca
 
 The police may act on reports of illegal gambling in unauthorised premises without warning. You could be arrested, charged and fined or given a prison sentence. If in doubt, ask if the venue is licensed.
 
-### Illegal drugs and prison sentences
+### Illegal drugs
 
-Selling or trafficking drugs is illegal and can have severe penalties.
+Illegal drugs, including cannabis, carry severe penalties. You should expect a long jail sentence and heavy fines for possessing, using or smuggling illegal drugs, including when transiting through the airport.
+
+Airports in Portugal have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
 
 ## Outdoor activities and adventure tourism
 
