@@ -6,7 +6,7 @@
 
 111 Azadliq Prospekti  
 AZ1007 Baku, Azerbaijan  
-Telephone: +(994) (12) 488-3300  
-Emergency After-Hours Telephone: +(994) (12) 488-3300  
-Fax: +(994) (12) 488-3695  
-Email: BakuACS@state.gov
+Telephone: +994-12-488-3300  
+Emergency After-Hours Telephone: +994-12-488-3300  
+Fax: +994-12-488-3695  
+Email: [BakuACS@state.gov](mailto:BakuACS@state.gov)

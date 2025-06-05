@@ -2,4 +2,4 @@
 
 [#### Destination Description](javascript:void(0); "Destination Description")
 
-[Learn about the U.S. relationship to countries around the world.](https://www.state.gov/countries-and-areas-list/)
+See the Department of State’s [Fact Sheet on Morocco](https://www.state.gov/countries-areas/morocco/) for information on U.S-Morocco relations.

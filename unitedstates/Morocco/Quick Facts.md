@@ -20,8 +20,8 @@ None
 
 CURRENCY RESTRICTIONS FOR ENTRY:
 
-Declare large quantities at entry
+Declare 100,000 dirhams or $10,000 USD
 
 CURRENCY RESTRICTIONS FOR EXIT:
 
-Export of Moroccan currency is prohibited
+Export of Moroccan currency (dirhams) is prohibited
