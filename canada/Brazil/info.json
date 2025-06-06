@@ -1,7 +1,7 @@
 {
     "name": "Brazil",
-    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
-    "update_date": "2025-06-03T10:52:00",
+    "update_reason": "Health \u2013 updated the travel health notice for Oropouche virus disease",
+    "update_date": "2025-06-05T14:41:00",
     "sections": {
         "risk": "canada/Brazil/risk.md",
         "security": "canada/Brazil/security.md",

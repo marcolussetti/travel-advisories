@@ -1,7 +1,7 @@
 {
     "name": "Dominican Republic",
-    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
-    "update_date": "2025-06-03T10:52:00",
+    "update_reason": "Health \u2013 updated the travel health notice for Oropouche virus disease",
+    "update_date": "2025-06-05T14:59:00",
     "sections": {
         "risk": "canada/Dominican Republic/risk.md",
         "security": "canada/Dominican Republic/security.md",
