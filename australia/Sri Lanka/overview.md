@@ -2,7 +2,7 @@
 
 Latest update
 
-We continue to advise exercise a high degree of caution in Sri Lanka.
+We've reviewed our travel advice for Sri Lanka and continue to advise exercise a high degree of caution. To enter Sri Lanka, you'll need a visa in the form of an Electronic Travel Authorisation (ETA). You should do this before you travel, as there are limited facilities to obtain an ETA on arrival at Colombo's Bandaranaike International Airport.
 
 Advice Level summary
 

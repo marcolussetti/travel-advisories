@@ -2,7 +2,9 @@
 
 Latest update
 
-The Netherlands has introduced temporary checks along its land borders with Belgium and Germany. The Netherlands national terrorism threat level remains at 'substantial' - level 4 of 5. Terrorists may target tourist areas or other places frequented by foreigners. Take official warnings seriously and follow the advice of local authorities (see 'Safety').
+The Netherlands is hosting the NATO Summit in The Hague from 24 to 25 June. Large crowds are expected. From 22 to 26 June, there will be severe disruptions to public transport and several major roads will be closed, affecting travel between The Hague and other major cities. Avoid the area if possible, monitor the media, and follow the advice of local authorities (see 'Travel').   
+  
+The Netherlands national terrorism threat level remains at 'substantial' - level 4 of 5. Terrorists may target tourist areas or other places frequented by foreigners. Take official warnings seriously and follow the advice of local authorities (see 'Safety').
 
 Advice Level summary
 
@@ -46,6 +48,7 @@ Full travel advice: [Local laws](#local-laws)
 
 ### Travel
 
+* The Netherlands will host the NATO Summit in The Hague from 24 to 25 June. Large crowds are expected around the summit venue. Anyone travelling by car between Amsterdam, The Hague, and Rotterdam from Sunday 22 to Thursday 26 June should expect severe disruptions. Several major roads will be temporarily closed or have limited accessibility. Public transport services will be adjusted, with certain trams, trains, and buses suspended in The Hague. Monitor the media and follow the advice of local authorities.
 * From 9 December 2024, the Netherlands has temporary border checks along its land borders with [Belgium](/destinations/europe/belgium "Belgium") and [Germany](/destinations/europe/germany "Germany") for 6 months.
 * The Netherlands is part of the [Schengen area](/before-you-go/the-basics/schengen "Visas and entry requirements in Europe and the Schengen Area"), meaning you can enter without a visa in some cases. In other situations, you’ll need to get a visa.
 * The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area is expected to start in October 2025.

@@ -18,8 +18,6 @@ Terrorist acts could include:
 
 An attack could happen anywhere in Kenya. An attack is possible at any time.
 
-Historically there has been an upsurge in terrorist activities and heightened threat warnings around religious and festive holidays as well as anniversary dates of previous attacks, such as 11 September, the 21 September Westgate Mall attack and the 7 October Hamas attack against Israel. Remain vigilant if visiting public areas.
-
 Areas prone to terrorist attacks include:
 
 * Nairobi
@@ -232,7 +230,7 @@ Social media can also be risky in destinations where there are social or politic
 
 #### Drink spiking and methanol poisoning
 
-Be alert to the potential risks around drink spiking and methanol poisoning through consuming alcoholic drinks. See our advice on [partying safely while overseas](https://www.smartraveller.gov.au/before-you-go/safety/partying#methanol).
+Be alert to the potential risks around drink spiking and methanol poisoning through consuming alcoholic drinks. See our advice on [partying safely while overseas](/before-you-go/safety/partying "Partying safely").
 
 Some criminals target foreigners with food and drink spiking. Their motivations can be for assault, including sexual assault, and theft.
 
@@ -252,7 +250,7 @@ Methanol can be used in unregulated alcohol production to lower costs. Methanol
 
 **More information:**
 
-* [Partying safely while overseas](https://www.smartraveller.gov.au/before-you-go/safety/partying#methanol)
+* [Partying safely while overseas](/before-you-go/safety/partying "Partying safely")
 
 #### National parks and game reserves
 

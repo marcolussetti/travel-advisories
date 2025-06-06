@@ -142,7 +142,7 @@ Kidnapping can happen anywhere, anytime, including in destinations that are typi
 
 The Australian Government's longstanding policy is that it doesn't make payments or concessions to kidnappers.
 
-**More information:**
+More information:
 
 * [Kidnapping](/before-you-go/safety/kidnapping "Reducing the risk of kidnapping")
 
@@ -215,5 +215,5 @@ If a [natural disaster](/node/346) occurs:
 
 **More information:**
 
-* [Sri Lankan Disaster Management Centre](http://www.dmc.gov.lk/index_english.htm)
+* [Sri Lanka Department of Meteorology](https://meteo.gov.lk/index.php?lang=en)
 * [Global Disaster Alert and Coordination System](http://gdacs.org/)

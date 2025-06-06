@@ -39,7 +39,6 @@ Tamavua
 Suva, Fiji
 
 Phone: +679 338 2211  
-Fax: +679 338 2065  
 Website: [fiji.embassy.gov.au](https://fiji.embassy.gov.au/)  
 Facebook: [Australia in Fiji](https://www.facebook.com/australiainfiji)  
 X: [@AusHCFJ](https://twitter.com/AusHCFJ)

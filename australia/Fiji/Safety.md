@@ -28,16 +28,7 @@ To reduce your risk of becoming a victim:
 
 #### Drink spiking and methanol poisoning
 
-Be alert to the potential risks around drink spiking and methanol poisoning through consuming alcoholic drinks. See our advice on [partying safely while overseas](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.smartraveller.gov.au%2Fbefore-you-go%2Fsafety%2Fpartying%23methanol&data=05%7C02%7CGlobalWatchOffice%40dfat.gov.au%7C9e1fe8405acd4aca988a08dd1cbc0dd6%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638698316229612867%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=oX8Tchm%2FG8MqpJDYow1VARutUBWN7jSHhnAHcTho7R0%3D&reserved=0).
-
-Get urgent medical attention if you think you or someone else has been drugged.
-
-Methanol can be used in unregulated alcohol production to lower costs. Methanol is highly toxic. As little as one shot can be fatal. Act quickly if you suspect you, or someone you're travelling with, has been poisoned. [Urgent medical attention](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.smartraveller.gov.au%2Fwhile-youre-away%2Fwhen-things-go-wrong%2Fmedical-assistance&data=05%7C02%7CGlobalWatchOffice%40dfat.gov.au%7C9e1fe8405acd4aca988a08dd1cbc0dd6%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638698316229629235%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=QyWh5i87yqXEQghTVCGmoOYc6rsLspeOk6Lo%2FdBXtKI%3D&reserved=0) could save your life or save you from permanent disability. Report suspected cases of methanol poisoning to the police.
-
-* be careful drinking cocktails and drinks made with spirits
-* drink only at reputable licensed premises
-* avoid home-made alcoholic drinks
-* labels on bottles aren't always accurate.
+Drink spiking can happen anywhere. Be alert to the potential risks and don't leave food or drinks unattended. Pay attention when your drinks are being mixed. Stick to reputable venues and avoid home-made alcoholic drinks due to risk of methanol poisoning. Get urgent medical help if you suspect you’ve been a victim.  
 
 **More information:**
 
@@ -47,7 +38,7 @@ Methanol can be used in unregulated alcohol production to lower costs. Methanol
 
 If you're a victim/survivor of [sexual assault](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.smartraveller.gov.au%2Fwhile-youre-away%2Fcrime%2Fsexual-assault-overseas&data=05%7C02%7CMichelle.Lam%40dfat.gov.au%7C6e4eef2e6048438f7e4b08dcf30d55db%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638652485841166989%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=ab7mjg3uDSJwV3TIEjZc3SZdz6E6DFzAy2WrkOHZtw0%3D&reserved=0), you may need urgent medical care. You may also want to report the crime to local police. You can call the Australian High Commission in Fiji for advice and consular assistance in seeking medical care and contacting police (see '[Local contacts](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.smartraveller.gov.au%2Fdestinations%2Fpacific%2Ffiji%23local-contacts&data=05%7C02%7CMichelle.Lam%40dfat.gov.au%7C6e4eef2e6048438f7e4b08dcf30d55db%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638652485841178881%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=uRocAzjA%2BLls0ESat5zKZCpwwvH%2BR1tg9%2BqsuFZ7WuI%3D&reserved=0)').
 
-If you choose to report the assault, go to the local police station in person to make a statement (you may wish to seek consular assistance before you visit). Statements from you and witnesses can be used as evidence in criminal court proceedings.
+If you choose to report the assault, go to the local police station in person to make a statement before you depart Fiji (you may wish to seek consular assistance before you visit). Police may not take your statement if you’ve returned to Australia. Statements from you and witnesses can be used as evidence in criminal court proceedings.
 
 Police will usually start to investigate while you're in Fiji. In most cases, you need to be in Fiji for the trial.
 
@@ -60,7 +51,7 @@ They can connect you to counselling hotlines and services.
 
 **More information:**
 
-* [Sexual assaulted overseas](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.smartraveller.gov.au%2Fwhile-youre-away%2Fcrime%2Fsexual-assault-overseas&data=05%7C02%7CMichelle.Lam%40dfat.gov.au%7C6e4eef2e6048438f7e4b08dcf30d55db%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638652485841189766%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=i4UNjjJ81Jv9FBnQ9Z2aRfUiX821ZY6pBNX9KA%2FuBTs%3D&reserved=0)
+* [Sexual assault overseas](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.smartraveller.gov.au%2Fwhile-youre-away%2Fcrime%2Fsexual-assault-overseas&data=05%7C02%7CMichelle.Lam%40dfat.gov.au%7C6e4eef2e6048438f7e4b08dcf30d55db%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638652485841189766%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=i4UNjjJ81Jv9FBnQ9Z2aRfUiX821ZY6pBNX9KA%2FuBTs%3D&reserved=0)
 
 #### Cyber security
 

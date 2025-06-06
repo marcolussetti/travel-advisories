@@ -18,7 +18,7 @@ Call 110.
 
 Call 110.
 
-In Colombo, you can also call (+94 11) 269 1111.
+In Colombo, you can also call +94 11 269 1111.
 
 #### Police
 
@@ -26,7 +26,7 @@ Call 118 or 119 or go to your local police station.
 
 #### Tourist police
 
-Call (+94 11) 242 1052 or (+94 11) 242 1451.
+Call +94 11 242 1052 or +94 11 242 1451.
 
 Always get a police report when you report a crime.
 
@@ -41,9 +41,10 @@ For consular assistance, contact the Australian High Commission in Colombo.
 #### Australian High Commission, Colombo
 
 21, Srimath R. G. Senanayake Mawatha (formerly Gregory's Road)  
-Colombo 7, Sri Lanka  
-Phone: (+94 11) 246 3200  
-Fax: (+94 11) 268 6453  
+Colombo 7, Sri Lanka
+
+Phone: +94 11 246 3200  
+Fax: +94 11 268 6453  
 Email: [consular.colombo@dfat.gov.au](mailto:consular.colombo@dfat.gov.au)  
 Website: [srilanka.embassy.gov.au](http://srilanka.embassy.gov.au/clmb/home.html)  
 X: [Australia in Sri Lanka](https://twitter.com/AusHCSriLanka)  

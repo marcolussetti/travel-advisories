@@ -4,7 +4,7 @@
 
 The security situation in Democratic Republic of the Congo (DRC) is volatile across the country. 
 
-Since January 2025, conflict between government forces and armed groups in the east is escalating. The security situation in and around Goma is deteriorating and closure of airspace is possible. The security situation in other regions of Eastern DRC may deteriorate with no warning.
+Conflict between government forces and armed groups in the east has escalated. The security situation in and around Goma has deteriorated and closure of airspace is possible. The security situation in other regions of Eastern DRC may deteriorate with no warning.
 
 There are over 130 active armed groups in eastern DRC. Armed conflict has caused widespread civilian displacement and deaths. Conflict between local armed groups and government forces is ongoing. It's a more serious threat in eastern and northern provinces. This includes:
 
@@ -12,11 +12,11 @@ There are over 130 active armed groups in eastern DRC. Armed conflict has caused
 * South Kivu, North Kivu, Ituri, Maniema, Tanganyika, Bas-Uélé and Haut-Uélé provinces where fighting has displaced hundreds of thousands of people
 * Mai Ndombe province
 
-In May 2021, the DRC Government declared a 'State of Siege' in the eastern provinces of Ituri and North Kivu. Military administrations have replaced civilian administrations in these provinces until further notice. The military administrations have been granted extended security powers, and there is potential for increased armed conflict in the region during this time.
+In the eastern provinces of Ituri and North Kivu, military administrations have replaced civilian administrations until further notice. The military administrations have been granted extended security powers, and there is potential for increased armed conflict in the region during this time.
 
 A large UN military presence and several aid organisations operate in the DRC. This includes the United Nations Organisation Stabilisation Mission in the Democratic Republic of the Congo (MONUSCO). On 25 July 2022, large protests began in the cities of Beni, Betembo, Goma and Rutshuru targeting MONUSCO. MONUSCO sites have been looted and the demonstrations have resulted in deaths. Avoid crowds, demonstrations and sites associated with MONUSCO in eastern DRC.
 
-Some local non-government organisations have suspended operations in North and South Kivu due to the security situation.
+Some non-government organisations have suspended operations in North and South Kivu due to the security situation.
 
 Intercommunal violence in Mai Ndombe province, particularly in the territory of Kwamouth, has escalated. Intercommunal violence may continue to increase and lead to further deaths and displacement.
 
@@ -29,13 +29,11 @@ If you're in an affected area:
 
 Keep your passport and other travel documents (e.g. visas, flights) up to date and secure.
 
-Regularly review your contingency plans in light of local developments. Be ready to leave the DRC at short notice if the situation worsens.
-
-If, despite our advice, you decide to travel, get professional security advice.
+Regularly review your contingency plans in light of local developments. If you travel to DRC despite our advice, be ready to leave at short notice if the situation worsens. You should also seek professional security advice.
 
 #### Demonstrations and protests
 
-Since 28 January, civil unrest and political violence has been occurring in Kinshasa, including outside some foreign embassies and UN offices. Protesters have started fires and thrown rocks at vehicles. Further protests are expected and may also spread to other parts of DRC. Foreigners may be randomly targeted.
+Civil unrest and political violence can occur in Kinshasa, including outside some foreign embassies and UN offices. Protesters may start fires and thrown rocks at vehicles. Foreigners may be randomly targeted.
 
 Public protests and events that draw large groups can quickly turn violent.
 
@@ -53,7 +51,7 @@ Security incidents can occur in Kinshasa, including:
 * demonstrations
 * attacks on vehicles
 
-The only road to the N'Djili Airport in Kinshasa may be blocked. Flight schedules may be disrupted. Confirm flight schedules with your airline or travel provider.
+During periods of unrest, the only road to the N'Djili Airport in Kinshasa may be blocked. Flight schedules may be disrupted. Confirm flight schedules with your airline or travel provider.
 
 Curfews may be imposed with little notice. Monitor local media for updates and follow the advice of local authorities.
 
@@ -63,9 +61,9 @@ Curfews may be imposed with little notice. Monitor local media for updates and f
 
 #### Kidnapping
 
-Kidnapping occurs across the world with political, ideological, and criminal motives. Foreigners, including Australians, have been kidnapped overseas whilst travelling. Kidnaps can happen anywhere, anytime, including in destinations that are typically at lower risk. 
+Kidnapping occurs across the world with political, ideological, and criminal motives. Foreigners, including Australians, have been kidnapped overseas whilst travelling. Kidnappings can happen anywhere, anytime, including in destinations that are typically at lower risk.
 
-Kidnapping is most common in the eastern and north-eastern regions of DRC.
+Kidnapping is a very high risk across DRC, it’s most common in the eastern and north-eastern regions.
 
 Areas with a high risk of kidnapping include:
 
@@ -73,7 +71,7 @@ Areas with a high risk of kidnapping include:
 * Kasai, Kasai Central and Kasai Oriental provinces
 * South Kivu, North Kivu, Ituri, Maniema, Tanganyika, Bas-Uélé and Haut-Uélé provinces
 
-If, despite our advice, you travel to an area with a high risk of kidnapping, our ability to provide consular assistance in these destinations will be limited. 
+Kidnappers have engaged in highway ambushes to target foreigners. Aid and humanitarian workers have been kidnapped regularly in these areas.
 
 Express kidnappings targeting foreigners have increased. The threat is particularly high in the Limete area of Kinshasa.
 
@@ -81,27 +79,44 @@ These attacks usually occur in broad daylight and victims can be abducted for a 
 
 These attacks are often perpetrated by small groups of individuals dressed in police uniforms.
 
-To reduce the risk of being kidnapped, you should:
+If despite our advice, you travel to an area with a high risk of kidnapping, our ability to provide consular assistance in these destinations is limited.
 
-* always be alert to your personal security and surroundings
-* get professional security advice for travel in locations with a heightened kidnap risk
+You are responsible for your own safety. To reduce the risk of being kidnapped:
+
+* always be alert to your personal security and surroundings - avoid distractions. Be prepared to stop or take evasive action if you sense danger
+
+* get professional security advice for travel in locations with a heightened kidnap risk. It is essential to have a contingency plan
+
 * check your accommodation has appropriate security measures
-* avoid isolated locations, particularly when travelling alone
-* vary your movements and don’t set patterns
-* notify family or friends of planned travel and share your location
-* avoid talking about your money or business affairs
-* use ATMs in public places and during daylight hours
-* avoid giving personal details to strangers online or over the phone
 
-The Australian Government's longstanding policy is that it doesn't make payments or concessions to kidnappers. Ransom payments to kidnappers have funded further terrorist attacks and criminal activity. Paying a ransom to terrorist groups will likely break Australian counter-terrorism financing laws. 
+* vary your movements so you don't set predictable patterns
+
+* keep a low profile – including online. Drawing attention to yourself in high-risk areas may signal to criminals that you have something worth taking
+
+* avoid isolated locations, particularly when travelling alone. There is safety in numbers, and you should try to travel with someone else, especially at night
+
+* notify family or friends of planned travel; share your location and emergency contacts that they can rely on if something happens
+
+* avoid talking about your money or business affairs
+
+* use ATMs in public places and during daylight hours
+
+* avoid giving personal details to strangers online or over the phone. Criminals have been known to search social media for victims
+
+* if you are confronted by armed criminals, it is best to surrender and cooperate – resistance tends to make the situation worse.
+
+You can find more information on how to reduce your risk of kidnapping here: [Kidnapping](https://www.smartraveller.gov.au/before-you-go/safety/kidnapping).
+
+The Australian Government's longstanding policy is that it doesn't make payments or concessions to kidnappers. Ransom payments to kidnappers have funded further terrorist attacks and criminal activity. Ransom payments to terrorist groups are likely to contravene Australian counter-terrorism financing laws.
 
 **More information:**
 
-* [Kidnapping](/node/57)
+* [Kidnapping](/before-you-go/safety/kidnapping "Reducing the risk of kidnapping")
+* [Scams that affect travellers](/before-you-go/safety/scams "Scams that affect travellers")
 
 #### Crime
 
-There's a very high level of crime. Risks increase after dark.
+There's a very high level of crime in the DRC. Risks increase after dark.
 
 Criminals may use roadblocks and pose as police or military personnel to rob travellers at night.
 
@@ -133,7 +148,7 @@ Drink spiking can happen anywhere. Be alert to the potential risks, and don't le
 
 **More information:**
 
-* [Partying safely while overseas](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.smartraveller.gov.au%2Fbefore-you-go%2Fsafety%2Fpartying&data=05%7C02%7Ctravel.advice%40dfat.gov.au%7Cbd0cd565db744527188508dd41a4930d%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638738897283012466%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=qp1rtZVwr0bEDnjjjWFKCc1hN8EKxoBJAVokbmzt8hY%3D&reserved=0)
+* [Partying safely](/before-you-go/safety/partying "Partying safely")
 
 #### Cyber Security
 
@@ -147,6 +162,8 @@ Social media can also be risky in destinations where there are social or politic
 
 #### Terrorism
 
+Terrorist attacks could occur anywhere and at any time. Be alert to possible threats, especially in public places. Terrorists may target tourist areas or other places frequented by foreigners and where large crowds may gather.
+
 There's an ongoing threat of terrorist attacks in the DRC, particularly in eastern DRC. An attack is possible at any time. Always be alert to possible threats, especially in public places.
 
 Areas prone to terrorist attacks include:
@@ -158,23 +175,25 @@ Areas prone to terrorist attacks include:
 Possible targets for terror attacks include:
 
 * government buildings and sites associated with the DRC armed forces (FARDC)
-* areas frequented by foreigners, such as hotels, clubs, restaurants and bars and markets
-* airports, other transportation hubs and vehicle convoys
+* hotels, clubs, restaurants and cafes
+* markets and shopping malls
+* outdoor recreation events, including festivals, concerts, and sporting venues
+* public transport, airports and railway hubs
 * schools and places of worship
 
 To reduce your risks:
 
+* report suspicious activities or items to the police
+* be alert in crowded places and monitor the media for new threats
 * take official warnings seriously and follow the instructions of local authorities
 * consider the level of security at venues you're visiting
-* be alert in crowded places and monitor the media
 * pay close attention to your personal security
 
-If there's a terrorist attack:
-
-* leave the affected area immediately if it's safe to do so
-* avoid the area afterwards in case of more attacks
+If there's a terrorist attack, leave the affected area as soon as it's safe to do so.
 
 Don't gather in groups after an attack. This also applies if you're evacuated from a building for security reasons, such as a bomb threat.
+
+Terrorism is a threat worldwide.
 
 **More information:**
 

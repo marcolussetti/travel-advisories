@@ -2,7 +2,7 @@
 
 Latest update
 
-We continue to advise exercise normal safety precautions in Fiji.
+We've reviewed our advice for Fiji and continue to advise exercise normal safety precautions. You don't need a tourist visa for Fiji. If your stay is less than 4 months, authorities will issue a visa when you arrive.
 
 Advice Level summary
 
@@ -23,22 +23,23 @@ Exercise normal safety precautions in Fiji.
 ### Safety
 
 * Crime in Fiji includes robbery, theft, violent assault, sexual assault and home invasions. Most crime is opportunistic. The highest risk is in urban areas and at night. Be careful in popular tourist areas located in and around Suva and Nadi.
-* Be alert to the potential risks around drink spiking and methanol poisoning through consuming alcoholic drinks. Don't leave food or drinks unattended, and pay attention when your drinks are being mixed. Get urgent medical help if you suspect drink spiking. See our advice on [Partying safely while overseas](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.smartraveller.gov.au%2Fbefore-you-go%2Fsafety%2Fpartying&data=05%7C02%7CGlobalWatchOffice%40dfat.gov.au%7C9e1fe8405acd4aca988a08dd1cbc0dd6%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638698316229592367%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=BT3ty5%2Bq4BnaZW1HvPN7pQg%2F21Ka1%2BOevh85N7BYJX4%3D&reserved=0).
 * Credit card fraud and ATM card skimming occur. Protect your PIN and be alert when using ATMs. Regularly check your card and bank statements for fraud.
 * Avoid protests, street rallies and areas with military activity. Protests can occur with little warning and can turn violent. Local authorities sometimes set up checkpoints and close roads. Follow their advice and monitor media for updates.
 * November to April is cyclone season, but cyclones may occur at other times. They can cause flooding and disrupt essential services. Know your accommodation’s evacuation plan. If a cyclone is approaching, find your nearest shelter and follow the advice of local authorities.
 * Flooding is common, especially in downtown Nadi and on the Coral Coast. Floods can cut off road access, including to the airport. Follow the advice of local authorities.
+* Drink spiking can happen anywhere. Be alert to the potential risks and don't leave food or drinks unattended.  See [Partying safely while overseas](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.smartraveller.gov.au%2Fbefore-you-go%2Fsafety%2Fpartying&data=05%7C02%7Ctravel.advice%40dfat.gov.au%7C610451ff5b984b89badf08dda48e9be4%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638847654600294288%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=p8DJb%2BodNSK9GTZjmaOeXPWYl9mJ%2Fop6i4%2BMhJoSfmc%3D&reserved=0)
 
 Full travel advice: [Safety](#safety)
 
 ### Health
 
-* Due to the ongoing heavy rains and flooding, boil all water before drinking.
-* Fiji has only one hyperbaric (decompression) chamber located in Suva. If you're diving, stay well within safety limits.
-* There are risks of leptospirosis and mosquito-borne illnesses in Fiji. Make sure your vaccinations are up-to-date. Protect yourself against mosquito bites.
-* Stay away from flooded rivers or creeks. Wear footwear when outside. Monitor the [Ministry of Health and Medical Services](http://www.health.gov.fj/) website and [Facebook](https://www.facebook.com/MHMSFiji/) page for information and updates.
-* Cases of typhoid, zika and dengue are present throughout Fiji.
-* Medical care standards in Fiji aren't as high as in Australia. Medical facilities often lack services, equipment and drugs, and have issues with infection prevention control. You may have to pay up-front. If you're seriously ill or injured, you’ll need medical evacuation to Australia.
+* Protect yourself against illness, drink boiled water or bottled water with sealed lids, avoid ice cubes and avoid raw and undercooked foods. Be particularly careful during and after heavy rain and flooding.
+* Fiji has two hyperbaric (decompression) chambers located in Suva and Nadi. If you're diving, stay well within safety limits.
+* There are risks of mosquito-borne illnesses, including dengue fever, Chikungunya and Zika virus. Protect yourself against mosquito bites.
+* Cases of leptospirosis and typhoid occur. Stay away from flooded rivers or creeks. Wear footwear when outside.
+* The Fiji Government has declared a HIV outbreak. Take precautions if you’re doing anything that exposes you to the risk of sexually transmitted infections.
+* Medical care standards in Fiji aren't as high as in Australia and are limited. Medical facilities often lack services, equipment and drugs, and have issues with infection prevention control. You may have to pay up-front. If you're seriously ill or injured, you’ll need medical evacuation to Australia.
+* Make sure your vaccinations are up-to-date. Monitor the [Ministry of Health and Medical Services](http://www.health.gov.fj/) website and [Facebook](https://www.facebook.com/MHMSFiji/) page for information and updates.
 
 Full travel advice: [Health](#health)
 

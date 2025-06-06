@@ -56,9 +56,39 @@ Authorities may arrest you or confiscate restricted medication if you don't have
 
 #### Current health risks
 
-There are cases of typhoid and leptospirosis in Fiji. Stay away from flooded rivers or creeks, and wear footwear when outside. Monitor the [Ministry of Health and Medical Services](http://www.health.gov.fj/) website and [Facebook page](https://www.facebook.com/MHMSFiji/) for information and updates.
+Monitor the [Ministry of Health and Medical Services](http://www.health.gov.fj/) website and [Facebook page](https://www.facebook.com/MHMSFiji/) for information and updates on current health risks and declared outbreaks.
 
-Fiji is also prone to mosquito-borne illnesses, including [dengue](https://www.health.gov.au/diseases/dengue-virus-infection) and zika. Make sure your vaccinations are up-to-date before you go. Protect yourself against mosquito bites.
+Make sure your vaccinations are up-to-date before you go. 
+
+#### Insect-borne illnesses
+
+Fiji is prone to outbreaks of mosquito-borne illnesses, including [dengue fever](https://www.healthdirect.gov.au/dengue-fever), [Chikungunya](https://www.healthdirect.gov.au/chikungunya-virus) and [Zika virus](https://www.healthdirect.gov.au/zika-virus).
+
+If you're pregnant, discuss your travel plans with your doctor and avoid affected areas.
+
+Monitor local news for health updates.
+
+To protect yourself against mosquito bites:
+
+* make sure your accommodation is insect-proof
+* use insect repellent
+* wear long, loose, light-coloured clothing
+
+Get medical help if you have a fever, muscle pain, rash or severe headache.
+
+#### HIV/AIDS and sexually transmitted diseases
+
+Rates of [HIV/AIDS](https://www.healthdirect.gov.au/hiv-infection-and-aids) infection are rising. The Fiji Government has declared a HIV outbreak in Fiji.
+
+Take precautions if you're doing anything that exposes you to risk of infection.
+
+**More information:**
+
+* [Infectious diseases](https://www.smartraveller.gov.au/before-you-go/health/diseases)
+
+#### Leptospirosis and typhoid
+
+There are cases of [typhoid](https://www.healthdirect.gov.au/typhoid-and-paratyphoid) and [leptospirosis](https://www.healthdirect.gov.au/leptospirosis) in Fiji. Stay away from flooded rivers or creeks, and wear footwear when outside.
 
 #### Measles
 
@@ -72,68 +102,32 @@ Get vaccinated before you travel.
 
 If you notice a high fever, sensitivity to light or nausea, get medical treatment straight away.
 
-**More information:**
-
-* [Meningococcal meningitis fact sheet](https://www.who.int/news-room/fact-sheets/detail/meningococcal-meningitis)
-
 #### Kava
 
-Kava, a traditional Pacific region drink, can be a health risk.
+[Kava](https://www.healthdirect.gov.au/kava) (also known as ‘yaqona’), a traditional Pacific region drink, can be a health risk.
 
 It can be dangerous if it reacts with:
 
 * alcohol
 * prescription medication, including antidepressants
 
-**More information:**
-
-* [Kava fact sheet](https://www.healthdirect.gov.au/kava)
-
-#### Insect-borne illnesses
-
-Fiji is prone to dengue and Zika virus outbreaks.
-
-If you're pregnant, discuss your travel plans with your doctor and avoid affected areas.
-
-Monitor local news for health updates.
-
-To protect yourself from disease:
-
-* make sure your accommodation is insect-proof
-* use insect repellent
-* wear long, loose, light-coloured clothing
-
-Get medical help if you have a fever, muscle pain, rash or severe headache.
-
-#### HIV/AIDS and sexually transmitted diseases
-
-Rates of [HIV/AIDS](https://www.healthdirect.gov.au/hiv-infection-and-aids) infection are rising. 
-
-Take precautions if you're doing anything that exposes you to risk of infection.
-
-**More information:**
-
-* [Infectious diseases](/before-you-go/health/diseases "Infectious diseases")
-
 #### Other health risks
 
 Waterborne, foodborne and other infectious diseases are common. These include:
 
-* [typhoid](https://www.healthdirect.gov.au/typhoid-and-paratyphoid)
 * [hepatitis](https://www.who.int/news-room/fact-sheets/detail/hepatitis)
-* [leptospirosis](https://www.healthdirect.gov.au/leptospirosis)
 * [tuberculosis](https://www.who.int/news-room/fact-sheets/detail/tuberculosis)
-* [measles](https://www.who.int/news-room/fact-sheets/detail/measles)
 * [mumps](https://www.healthdirect.gov.au/mumps)
-* [COVID-19](https://www.health.gov.au/health-alerts/covid-19)
+* [respiratory viruses](https://www.healthdirect.gov.au/respiratory-viruses), including [COVID-19](https://www.health.gov.au/health-alerts/covid-19) and [streptococcal infections](https://www.healthdirect.gov.au/group-a-streptococcal)
 
-Serious outbreaks sometimes occur.
+Serious outbreaks sometimes occur. Monitor the Ministry of Health and Medical Services website and Facebook page for information and updates.
 
 To protect yourself against illness:
 
 * drink boiled water or bottled water with sealed lids
 * avoid ice cubes
 * avoid raw and undercooked food, such as salads
+* make sure your vaccinations are up-to-date before you go
 
 Get medical advice if you have a fever or diarrhoea.
 
@@ -155,13 +149,14 @@ Get urgent medical care if you suspect poisoning.
 
 **More information:**
 
+* [Food safety](https://www.who.int/news-room/fact-sheets/detail/food-safety)
 * [Seafood poisoning](https://www.who.int/news-room/fact-sheets/detail/food-safety)
 
 #### Medical care
 
 #### Medical facilities
 
-Medical care standards in Fiji aren't as high as in Australia.
+Medical care standards in Fiji aren't as high as in Australia and are limited.
 
 Hospitals and medical facilities can lack:
 
@@ -173,13 +168,13 @@ Hospitals and medical facilities can lack:
 
 Many hospitals provide only basic care.
 
-Antibiotic-resistant bacteria outbreaks have occurred in health facilities in Fiji. 
+Antibiotic-resistant bacteria outbreaks can occur in health facilities in Fiji. 
 
 #### Medical emergencies
 
 Rescue and emergency services aren't as wide-ranging as they are in Australia.
 
-Ambulance services are limited.
+Ambulance services are limited. Adverse weather and road conditions may affect your ability to access medical services.
 
 In medical emergencies, hotels and resorts use public health facilities.
 
@@ -197,8 +192,8 @@ If you become seriously ill or have an accident, you may need to be evacuated to
 
 #### Diving accidents
 
-Fiji's only hyperbaric (decompression) chamber is at the Colonial War Memorial Hospital in Suva.
+Fiji has two hyperbaric (decompression) chambers located at the Colonial War Memorial Hospital in Suva and the Pacific Specialist Healthcare in Nadi.
 
 You should dive well within safety limits.
 
-Make sure your travel and health insurance covers you for diving-related costs.
+Make sure your travel and health insurance covers you for diving-related costs and for medical evacuation.

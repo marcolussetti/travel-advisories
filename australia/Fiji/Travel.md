@@ -93,7 +93,7 @@ This covers all forms of currency, not only cash.
 
 #### Local restrictions
 
-Monitor the Fijian Government [Facebook page](https://www.facebook.com/FijiGovernment) for information and updates about restrictions and curfew hours.
+Monitor the Fijian Government [Facebook page](https://www.facebook.com/FijiGovernment) for information and updates about any restrictions or curfew hours.
 
 **More information:**
 

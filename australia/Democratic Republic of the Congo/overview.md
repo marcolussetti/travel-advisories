@@ -2,30 +2,30 @@
 
 Latest update
 
-We've reviewed our travel advice for the Democratic Republic of the Congo (DRC) and have raised the travel advice. We now advise do not travel overall due to the volatile security situation and the threat of conflict, violent protests, terrorism and kidnapping.  
+We've reviewed our travel advice for the Democratic Republic of the Congo (DRC) and continue to advise do not travel due to the volatile security situation and the threat of conflict, violent protests, terrorism and kidnapping.  
   
-The security situation in the DRC is volatile across the country. Conflict in Eastern DRC is escalating. Violent demonstrations and protests may occur in Kinshasa and other locations. Some airlines have suspended flights to and from Kinshasa. Other options to depart the DRC may close with little or no warning. If you're in an affected area, shelter in place until it's safe to leave. Always exercise extreme caution. Monitor local media for updates, arrange effective personal safety measures and ensure travel documents are up to date.
+The security situation is volatile across the country. Conflict in Eastern DRC has escalated. Violent demonstrations and protests may occur in Kinshasa and other locations. Airlines may suspended flights to and from Kinshasa and other options to depart the DRC may close with little or no warning. If you're in an affected area, shelter in place until it's safe to leave. Always exercise extreme caution. Monitor local media for updates, arrange effective personal safety measures and ensure travel documents are up to date (see 'Safety').
 
 Advice Level summary
 
 We advise:
 
-Do not travel to the Democratic Republic of the Congo overall due to the volatile security situation and the threat of conflict, violent protests, terrorism and kidnapping.
+Do not travel to the Democratic Republic of the Congo due to the volatile security situation and the threat of conflict, violent protests, terrorism and kidnapping.
 
 ## Advice levels
 
 [What does this mean?](/before-you-go/travel-advice-explained/)
 
-[Do not travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level4) to the Democratic Republic of the Congo overall.
+[Do not travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level4) to the Democratic Republic of the Congo.
 
-[Do not travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level4) to the Democratic Republic of the Congo overall due to the volatile security situation and the threat of terrorism and kidnapping.
+[Do not travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level4) to the Democratic Republic of the Congo due to the volatile security situation and the threat of terrorism and kidnapping.
 
 ## Overview
 
 ### Safety
 
-* We've reviewed our travel advice for the Democratic Republic of the Congo (DRC) and have raised the travel advice. We now advise do not travel overall due to the volatile security situation and the threat of conflict, violent protests, terrorism and kidnapping.
-* The security situation in the DRC is volatile across the country. Conflict between government forces and armed groups in the east is escalating. The security situation in and around Goma is deteriorating, and airspace closure is possible. The security situation in other regions of Eastern DRC may deteriorate with no warning.  If it's safe to do so, leave affected areas.
+* Do not travel to the Democratic Republic of the Congo due to the volatile security situation and the threat of conflict, violent protests, terrorism and kidnapping across the country.
+* Conflict between government forces and armed groups in the east has escalated. The security situation in and around Goma has deteriorated, and airspace closure is possible. The security situation in other regions of Eastern DRC may deteriorate with no warning.  If it's safe to do so, leave affected areas.
 * Violent demonstrations and protests may occur in Kinshasa and other locations, including outside some foreign embassies and UN offices. Avoid areas where protests are happening. Curfews may be imposed with little notice. Roadblocks and road closures may occur without warning.
 * If you're in an affected area, shelter in place until it's safe to leave. Always exercise extreme caution. Arrange effective personal safety measures and ensure travel documents are up to date. Monitor local media for updates.
 * Crime rates are very high, especially in Kinshasa, Lubumbashi and in the east of the country. Risks increase after dark. Ensure your accommodation is secure. Don’t walk alone in Kinshasa, even during the day.
@@ -39,12 +39,12 @@ Full travel advice: [Safety](#safety)
 
 ### Health
 
-* There's currently an outbreak of Mpox (formerly known as monkeypox) in parts of Africa, including in the DRC. Mpox can be fatal. Maintain strict hygiene standards and avoid physical contact with anyone who has Mpox (see ‘Health risks’).
+* There's currently an outbreak of mpox in parts of Africa, including in the DRC. Mpox can be fatal. Maintain strict hygiene standards and avoid physical contact with anyone who has mpox (see ‘Health risks’).
 * Several outbreaks of Ebola Virus Disease (EVD) have occurred in DRC. There is an ongoing risk of EVD transmission in the DRC. EVD is often fatal. Avoid contact with EVD patients as the disease is spread through bodily fluids.
 * Ensure you've been vaccinated against yellow fever and polio before you travel. Carry proof of vaccination with you.
 * HIV/AIDS is widespread. Take precautions if you're taking part in high-risk activities.
 * Some insect-borne disease such as yellow fever and malaria are widespread. Ensure your accommodation is insect-proof and use insect repellent.
-* Foodborne, waterborne and other infectious diseases include cholera, typhoid, hepatitis and monkeypox. Drink only boiled or bottled water. Avoid raw or undercooked food. Don't swim in fresh water.
+* Foodborne, waterborne and other infectious diseases include cholera, typhoid and hepatitis. Drink only boiled or bottled water. Avoid raw or undercooked food. Don't swim in fresh water.
 
 Full travel advice: [Health](#health)
 
@@ -60,21 +60,20 @@ Full travel advice: [Local laws](#local-laws)
 
 ### Travel
 
-* Some airlines have suspended flights to and from Kinshasa. Other options to depart the Democratic Republic of the Congo (DRC) may close with no warning.
-* You need to obtain a visa before you enter the DRC. You can't get one on arrival. Entry and exit conditions can change at short notice. You should contact the nearest high commission/embassy or consulate of the DRC for the latest details.
+* Airlines may suspend flights to and from Kinshasa with little warning. Goma international airport is not functioning at full capacity. Flights may be delayed, cancelled, or rerouted with little warning. Other options to depart the Democratic Republic of the Congo (DRC) may also close without warning.
+* You need to obtain a visa before you enter the DRC. You can't get one on arrival. Entry and exit conditions can change at short notice. You should contact the nearest embassy or consulate of the DRC for the latest details.
 * Carry your yellow fever vaccination certificate. You'll need it to enter the country.
 * Military and police roadblocks are common. If you have them, always carry your government-issued identification, insurance card (carte rose), registration (carte grise) and driver's licence.
 * Don't use public transport. Bus and rail services are unsafe due to poor safety standards and crime.
-* Aircraft in and around Goma, North Kivu have reported experiencing interference with GPS flight systems. Some flights have been delayed, cancelled or rerouted. Monitor media, airlines' websites and local authority advice for flight information in or out of Goma International Airport.
 
 Full travel advice: [Travel](#travel)
 
 ### Local contacts
 
 * The [Consular Services Charter](/node/46) details what the Australian Government can and can't do to help you overseas.
-* Australia doesn't have an embassy or consulate in the DRC. Our ability to provide consular assistance may be limited.
+* Australia doesn't have an embassy or consulate in the DRC. Our ability to provide consular assistance is limited.
 * The [Canadian Embassy](https://www.international.gc.ca/country-pays/democratic_republic_congo-republique_democratique_congo/kinshasa.aspx?lang=eng) in Kinshasa provides consular assistance to Australians in the DRC. It can issue Australian [provisional travel documents](https://www.passports.gov.au/travel-related-documents). Its services are limited outside Kinshasa.
-* For full consular help, contact the [Australian Embassy in Zimbabwe](http://www.zimbabwe.embassy.gov.au/).
+* For consular assistance, contact the [Australian Embassy in Zimbabwe](http://www.zimbabwe.embassy.gov.au/).
 * To stay up to date with local information, follow the Embassy’s social media accounts.
 
 Full travel advice: [Local contacts](#local-contacts)

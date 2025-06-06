@@ -4,7 +4,7 @@
 
 Get comprehensive [travel insurance](/node/149) before you leave. Your policy needs to cover all overseas medical costs, including medical evacuation. The Australian Government won't pay for these costs.
 
-You'll probably need a special insurance policy for any 'do not travel' destinations. Some Australian policies may not cover you for these areas.
+You'll probably need a special insurance policy for any 'do not travel' destinations such as the DRC. Some Australian policies may not cover you for the DRC.
 
 If you can't afford travel insurance, you can't afford to travel. This applies to everyone, no matter how healthy and fit you are.
 
@@ -52,9 +52,9 @@ Carry a copy of your prescription or a letter from your doctor stating:
 
 #### Health risks
 
-#### Mpox (formerly known as monkeypox)
+#### Mpox
 
-The World Health Organisation (WHO) has declared the current Mpox outbreak in parts of Africa as a global public health emergency. It has now spread across a number of countries in Africa, including in the DRC.
+The World Health Organisation (WHO) has declared the current mpox outbreak in parts of Africa as a global public health emergency. It has now spread across a number of countries in Africa, including in the DRC.
 
 Mpox can be transmitted to humans through physical contact with an infectious person, infected animals or contaminated materials.
 
@@ -69,11 +69,11 @@ Symptoms include:
 * low energy
 * swollen lymph nodes
 
-Seek professional medical advice on Mpox vaccines.
+Seek professional medical advice on mpox vaccines.
 
-Maintain strict hygiene standards. Avoid physical contact with anyone who has Mpox.
+Maintain strict hygiene standards. Avoid physical contact with anyone who has mpox.
 
-See a doctor if you feel unwell and isolate from others if you develop any Mpox symptoms.
+See a doctor if you feel unwell and isolate from others if you develop any mpox symptoms.
 
 **More information:**
 
@@ -154,12 +154,12 @@ Seek medical advice if you have a fever, muscle pain, rash or severe headache.
 
 Waterborne, foodborne and other infectious diseases are widespread. These include:
 
-* [Cholera](https://www.who.int/news-room/fact-sheets/detail/cholera)
-* [Typhoid](https://www.who.int/immunization/diseases/typhoid/en/)
-* [Hepatitis](https://www.who.int/hepatitis/en/)
-* [Tuberculosis](https://www.who.int/news-room/fact-sheets/detail/tuberculosis)
-* [Meningitis](https://www.who.int/emergencies/diseases/meningitis/en/)
-* [Rabies](https://www.who.int/news-room/fact-sheets/detail/rabies)
+* [cholera](https://www.who.int/news-room/fact-sheets/detail/cholera)
+* [typhoid](https://www.who.int/immunization/diseases/typhoid/en/)
+* [hepatitis](https://www.who.int/hepatitis/en/)
+* [tuberculosis](https://www.who.int/news-room/fact-sheets/detail/tuberculosis)
+* [meningitis](https://www.who.int/emergencies/diseases/meningitis/en/)
+* [rabies](https://www.who.int/news-room/fact-sheets/detail/rabies)
 
 Serious outbreaks sometimes occur.
 

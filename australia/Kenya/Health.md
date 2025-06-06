@@ -50,7 +50,7 @@ Carry a copy of your prescription or a letter from your doctor stating:
 
 #### Health risks
 
-#### Mpox (formerly known as monkeypox)
+#### Mpox
 
 The World Health Organisation (WHO) has declared the current mpox outbreak in parts of Africa as a global public health emergency. It has now spread across a number of countries in Africa, including Kenya.
 
@@ -86,9 +86,9 @@ See a doctor if you feel unwell and isolate from others if you develop any mpox 
 
 Other insect-borne diseases occur, including:
 
-* [Dengue virus infection](https://www.health.gov.au/diseases/dengue-virus-infection)
+* [dengue virus infection](https://www.health.gov.au/diseases/dengue-virus-infection)
 * [Rift Valley fever](https://www.who.int/news-room/fact-sheets/detail/rift-valley-fever)
-* [Lymphatic filariasis](https://www.who.int/news-room/fact-sheets/detail/lymphatic-filariasis)
+* [lymphatic filariasis](https://www.who.int/news-room/fact-sheets/detail/lymphatic-filariasis)
 * [African sleeping sickness](https://www.who.int/news-room/fact-sheets/detail/trypanosomiasis-human-african-(sleeping-sickness))
 
 To protect yourself from disease:
@@ -115,7 +115,6 @@ Waterborne, foodborne and other [infectious diseases](/before-you-go/health/dise
 * [measles](https://www.health.gov.au/diseases/measles)
 * [cholera](https://www.who.int/news-room/fact-sheets/detail/cholera)
 * [tuberculosis](https://www.who.int/news-room/fact-sheets/detail/tuberculosis)
-* [COVID-19](https://www.health.gov.au/topics/covid-19/about)
 
 Serious outbreaks occur from time to time.
 

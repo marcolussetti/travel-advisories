@@ -14,7 +14,7 @@ The closest [embassy of the DRC](https://embassyofdrcongo.com/) is in Tokyo.
 
 #### Border measures
 
-Some airlines have suspended flights to and from Kinshasa. Other options to depart the DRC may close with no warning.
+Airlines may suspend flights to and from Kinshasa with little warning. Goma airport is not functioning at full capacity. Flights may be delayed, cancelled, or rerouted with little warning. Other options to depart the DRC may close with no warning.
 
 Border openings and other restrictions may change at short notice. Due to the ongoing insecurity in these areas, you should avoid the border entry points from Burundi, Rwanda, Uganda, South Sudan and the Central African Republic.
 
@@ -28,7 +28,7 @@ Find out about returning to Australia [after exposure to yellow fever](http://ww
 
 **More information:**
 
-* [Countries with a risk of yellow fever (PDF252KB)](https://www.who.int/publications/m/item/countries-with-risk-of-yellow-fever-transmission-and-countries-requiring-yellow-fever-vaccination-(november-2022))
+* [Countries with a risk of yellow fever](https://www.who.int/publications/m/item/countries-with-risk-of-yellow-fever-transmission-and-countries-requiring-yellow-fever-vaccination-(november-2022))
 
 #### Other entry requirements
 
@@ -59,7 +59,15 @@ If your passport is lost or stolen, tell the Australian Government as soon as po
 * In Australia, contact the [Australian Passport Information Service](https://www.passports.gov.au/contact-us).
 * If you're overseas, contact the nearest [Australian embassy or consulate](http://dfat.gov.au/about-us/our-locations/missions/Pages/our-embassies-and-consulates-overseas.aspx).
 
-The [Canadian Embassy](https://www.international.gc.ca/country-pays/democratic_republic_congo-republique_democratique_congo/kinshasa.aspx?lang=eng) in Kinshasa can issue Australian [provisional travel documents](https://www.passports.gov.au/travel-related-documents)(PTDs). You can't travel to or through South Africa on a PTD.
+#### Travel via South Africa
+
+If you're travelling through South Africa, South African authorities do not accept provisional travel documents. South African authorities do accept Australian emergency passports. 
+
+Strict rules apply to a child aged under 18 years travelling through South Africa. 
+
+**More information:**
+
+* [Travel advice for South Africa](https://www.smartraveller.gov.au/destinations/africa/south-africa)
 
 #### Passport with 'X' gender identifier
 

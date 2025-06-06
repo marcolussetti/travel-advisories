@@ -2,9 +2,9 @@
 
 Latest update
 
-We've reviewed our advice and continue to advise exercise a high degree of caution in Kenya overall due to the threat of terrorism and violent crime. Higher levels apply in some areas. Terrorist attacks could happen at any time, including in locations that are popular with foreigners and tourists.  Remain vigilant in public areas.   
+We continue to advise exercise a high degree of caution in Kenya overall due to the threat of terrorism and violent crime. Higher levels apply in some areas. Terrorist attacks could happen at any time, including in locations that are popular with foreigners and tourists (see 'Safety').   
   
-Protests and large demonstrations are common, and security forces may be deployed in response. Avoid areas affected by protests, demonstrations or large public gatherings, as the use of rubber bullets, tear gas, water cannons and live ammunition has resulted in fatalities and injuries. Road closures and traffic disruptions may occur at short notice. Opportunistic crime, including looting, robberies and assaults, may occur. Avoid large gatherings, monitor the media for updates and follow the advice of local authorities (see 'Safety').
+If you plan to take part in surrogacy arrangements in Kenya, be aware of all legal and other risks involved (see 'Local laws').
 
 Advice Level summary
 
@@ -44,13 +44,13 @@ See [Safety](#safety).
 * The borders with Somalia, Ethiopia and South Sudan are high-risk areas. Armed groups from Somalia kidnap and target foreigners in Kenya, including aid workers, particularly along the Somalia border region. Foreigners have previously been the target of kidnappings. If, despite our advice, you plan to travel to these areas, get professional security advice.
 * Protests and large demonstrations are common. Security forces may be deployed in response. The use of rubber bullets, tear gas, water cannons and, at times, live ammunition has resulted in fatalities and injuries. Expect road closures and traffic disruptions if there is a protest. Access to Jomo Kenyatta International Airport may be affected. Opportunistic crime, including looting, robberies and assaults, can happen around the protest area. If there is a protest, demonstration or large public gathering, avoid affected areas, limit your movements and follow the advice of local authorities.
 * Violent crime occurs, including carjackings, kidnapping and home invasions. Don't walk around after dark. If you live in Kenya, invest in strong personal security measures.
-* Be alert to the potential risks around drink spiking and methanol poisoning through consuming alcoholic drinks. See our advice on [partying safely while overseas](https://www.smartraveller.gov.au/before-you-go/safety/partying#methanol).
+* Be alert to the potential risks around drink spiking and methanol poisoning through consuming alcoholic drinks. See our advice on [partying safely while overseas](/before-you-go/safety/partying "Partying safely").
 * Scams are common. Criminals often use fake police, hotel or government identification to extort money from travellers. Be wary of anyone asking for money or information, even if they seem official.
 * Kenya can experience natural disasters and severe weather. Know the warning signs and safety measures for earthquakes, floods and tsunamis.
 
 ### Health
 
-* There's currently an outbreak of mpox (formerly known as monkeypox) in parts of Africa. Maintain strict hygiene standards and avoid physical contact with anyone who has mpox (see ‘Health risks’).
+* There's currently an outbreak of mpox in parts of Africa, including in Kenya. Maintain strict hygiene standards and avoid physical contact with anyone who has mpox (see ‘Health risks’).
 * Malaria is widespread, except in Nairobi and places higher than 2500 metres above sea level. Consider taking anti-malarial medication. Other insect-borne diseases including dengue, Rift Valley fever, filariasis and African sleeping sickness are common. Ensure your accommodation is insect-proof. Use insect repellent.
 * Yellow Fever is widespread. Get vaccinated before you travel and bring your vaccination certificate with you.
 * HIV/AIDS infection rates are high. Take precautions if you're taking part in high-risk activities.
@@ -63,9 +63,9 @@ Full travel advice: [Health](#health)
 * It's illegal to work or volunteer without a valid work permit. To work in the charity sector, get a valid work permit through the [Directorate of Immigration Services](https://immigration.go.ke/work-permits-and-passes/).
 * Know and follow local laws. It's illegal to have same-sex relationships.
 * It's illegal to take photos of official buildings. Get advice before taking photos. It's also illegal to destroy the local currency, smoke outside designated areas and possess ivory.
-* All plastic bags, including garbage and shopping bags, are banned.
 * Kenya recognises dual nationality but hasn't fully enacted laws around it. If you're a dual national, always travel on your Australian passport.
-* Foreign journalists seeking to work in Kenya must apply for accreditation through the [Media Council of Kenya portal](https://accreditation.mediacouncil.or.ke:882/).
+* Foreign journalists seeking to work in Kenya must apply for accreditation through the [Media Council of Kenya portal](https://mediacouncil.or.ke/).
+* If you plan to take part in surrogacy arrangements in Uganda, be aware of all legal and other risks involved. For further details see ‘Surrogacy’ section below.
 
 Full travel advice: [Local laws](#local-laws)
 
