@@ -35,6 +35,12 @@ To enter Sierra Leone, you must have a certificate to prove you’ve had a yello
 
 For more details about medical entry requirements and recommended vaccinations, see [TravelHealthPro’s Sierra Leone guide](https://travelhealthpro.org.uk/country/195/sierra-leone#Vaccine_Recommendations).
 
+## Mpox
+
+Expect extra health measures, such as temperature checks, hand sanitising and questions on arrival into Sierra Leone. These measures have been put in place to reduce the risks from Mpox. If you are found to have a high temperature, you will be referred to the airport’s medical unit for further evaluation.
+
+Precautions such as social distancing, hand washing and sanitising are in place across businesses and public spaces. If you do not follow local rules, you may be fined or prosecuted. Check locally for rules in place.
+
 ## Airport security fee
 
 All passengers must pay a 25 US dollar airport security fee on arrival and departure. You must show proof of payment before immigration. You can pay:

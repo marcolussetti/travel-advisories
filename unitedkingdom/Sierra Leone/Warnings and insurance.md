@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   2 April 2025
+:   6 June 2025
 
 Updated:
-:   1 April 2025
+:   5 June 2025
 
 Latest update:
-:   New information on land ownership disputes (‘Safety and security’ page).
+:   New information about measures put in place by Sierra Leone authorities to reduce the risks of Mpox (‘Entry requirements’ page).
 
 ## Before you travel
 

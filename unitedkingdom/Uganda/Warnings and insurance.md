@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   4 June 2025
+:   6 June 2025
 
 Updated:
-:   3 June 2025
+:   5 June 2025
 
 Latest update:
-:   Information added about reports of an explosion in Kampala on 3 June ('Warnings and insurance' page).
+:   Updated reference to an explosion on 3 June 2025 ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/667bf1c07d26b2be17a4b36d/FCDO__TA__066_-_Uganda_Travel_Advice_Ed8__WEB_.jpg)
 
@@ -27,10 +27,6 @@ FCDO advises against all but essential travel to:
 * Semuliki National Park
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/uganda/regional-risks).
-
-## Explosion in Kampala
-
-On 3 June 2025 there were reports of an explosion near the Catholic Basilica in the Munyonyo area of Kampala. A spokesperson for the Uganda People’s Defence Force advised the public to remain “calm but vigilant”. If you’re in the immediate area, follow the advice of the local authorities and monitor local media.
 
 ## Before you travel
 

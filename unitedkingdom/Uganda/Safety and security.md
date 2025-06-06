@@ -31,10 +31,11 @@ Consider whether locations that you visit have effective security arrangements i
 
 Previous terrorist attacks and disrupted attacks in Uganda have targeted the security forces, places where football matches were being viewed, restaurants, buses, schools, churches, national parks and government buildings.
 
-There have been a series of terrorist attacks in areas of western Uganda near to the border with the Democratic Republic of the Congo (DRC), including in national parks. You should exercise particular caution in these areas and follow the advice of local authorities.
+There have been a series of terrorist attacks in areas of western Uganda near to the border with the Democratic Republic of the Congo (DRC), including in national parks. You should exercise particular caution in these areas and follow the advice of local authorities. Terrorist attacks have also occurred in other parts of the country, including Kampala.
 
 Recent significant attacks include:
 
+* on 3 June 2025 there was an explosion near the Catholic Basilica in the Munyonyo area of Kampala
 * in December 2023, 10 people were killed in an attack on a bar and a farm in Kyabandara, and a further 3 people in an attack in Nyabitusi, in Kamwenge district near to Kibale forest
 * in October 2023, 2 tourists and their driver were killed by terrorists in Queen Elizabeth National Park
 * in June 2023, 42 people were killed in an attack on a school in Mpondwe, Kasese District, western Uganda, close to the border with the DRC

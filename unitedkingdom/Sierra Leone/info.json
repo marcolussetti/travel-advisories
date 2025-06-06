@@ -1,11 +1,11 @@
 {
     "name": "Sierra Leone",
-    "update_reason": "New information on land ownership disputes (\u2018Safety and security\u2019 page).",
+    "update_reason": "New information about measures put in place by Sierra Leone authorities to reduce the risks of Mpox (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Sierra Leone/Warnings and insurance.md",
-            "update_date": "2025-04-01T12:59:30+01:00"
+            "update_date": "2025-06-05T15:09:02+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Sierra Leone/Getting help.md"
         }
     ],
-    "update_date": "2025-04-01T12:59:30+01:00"
+    "update_date": "2025-06-05T15:09:02+01:00"
 }
