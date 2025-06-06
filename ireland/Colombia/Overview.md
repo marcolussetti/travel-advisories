@@ -14,9 +14,9 @@ Irish citizens do not require a visa to visit Colombia for periods of up to 90 d
 
 A valid passport is required for travel to Colombia. Irish passports should have a minimum validity of 6 months. Passport cards cannot be used.
 
-All travelers arriving in Colombia are required to register their details on the Colombian government’s [**CheckMig application**](https://apps.migracioncolombia.gov.co/pre-registro)  within 72 hours prior to boarding an inbound or outbound flight.
+Colombian authorities advise to travellers to register their details on the ‘[Check-Mig Form'](https://apps.migracioncolombia.gov.co/pre-registro) form on Migración Colombia. Although this is not mandatory, it might speed up your entry to the country. You can complete the form within 72 hours prior to boarding an inbound or outbound flight.
 
-Entry and exit requirements are subject to change. All citizens should consult the Colombian Ministry of Health and/or consult their local Colombian Embassy for up-to-date information on updates in entry requirements.
+Entry and exit requirements are subject to change. All citizens should contact Migracion Colombia and/or consult their local Colombian Embassy for up-to-date information on updates in entry requirements.
 
 Citizens can also follow the Embassy on X [**@EmbCol\_Ireland**](https://twitter.com/embcol_ireland) to ensure access to relevant updates and alerts.
 

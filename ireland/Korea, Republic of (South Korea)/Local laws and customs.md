@@ -4,11 +4,11 @@ Remember, the local laws apply to you as a visitor and it is your responsibility
 
 Courtesy is highly valued in Korea, and there is a strong social hierarchy, with respect for the elderly. There are specific seats reserved for the elderly on the subway systems. Reserved behaviour in public is the norm. Homosexual relationships are not illegal, but public displays of affection are not commonplace. LGBT groups are gaining visibility but any public gatherings are likely to be met with counter protests from conservative groups.
 
-### **Illegal drugs**
+### **Illegal Drugs**
 
 Illegal drug use (no matter what the drug) carries stiff penalties, including fines and long prison terms.
 
-### **Emergency assistance**
+### **Emergency Assistance**
 
 Call 112 for police (an interpretation service is available during working hours) and 119 for ambulance and fire. The Korean National Police operates a Central Interpretation Centre where foreigners can report crimes (through 112).
 
@@ -18,8 +18,16 @@ English is not widely spoken in South Korea so a translation app can be very use
 
 In general, taxi drivers do not speak English, though some companies offer in-car translation. It is best to have written directions (in Korean) and a map.
 
-### **Public transport**
+### **Public Transport**
 
 Some Korean taxi drivers are sometimes reluctant to pick up foreigners and this reluctance can be more evident at night or during inclement weather. Given often-heavy traffic conditions, visitors should get advice about travel times.
 
 The Seoul metro and bus network are excellent forms of transport: quick, cheap and extensive. Ticket machines operate in English as well as Korean.
+
+### **Money**
+
+Local currency is the ROK Won. Credit cards are not always accepted outside major cities. ATMs are widely available but may not always accept foreign cards.
+
+### **Mobile Phone Coverage**
+
+Check with your mobile phone network provider before travelling if your telephone will work in South Korea. Temporary mobiles are available at Incheon Airport for hire.

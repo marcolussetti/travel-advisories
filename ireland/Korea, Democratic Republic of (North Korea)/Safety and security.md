@@ -1,6 +1,6 @@
 ## Safety and security
 
-### **Political situation**
+### **Political Situation**
 
 Since the end of World War II, the Korean peninsula has been partitioned.  At the end of the Korean War in 1953, this partition was enforced when a 4km-wide de-militarised zone (DMZ) was created to separate North and South Korea. Peace has been maintained under an Armistice Agreement, however tensions rise and fall from time to time, and there have been infrequent military incidents, particularly along the DMZ border and maritime boundaries.
 
@@ -8,7 +8,7 @@ We recommend that you always stay in permitted areas and obey immediately any in
 
 Foreign nationals have been arrested and detained in North Korea for activity which may not be deemed an offence in other countries.
 
-### **Nuclear tests**
+### **Nuclear Tests**
 
 North Korea carried out underground nuclear tests in 2006, 2009, 2013 and 2016. They lead to an increase in political and military tension on the peninsula. There has been no evidence of radiation fall-out from these tests.
 
@@ -31,7 +31,7 @@ Other risks include being detained at international airports for currency violat
 
 The normal advice applies: common sense and no transfer of funds to strangers. If in doubt, refer the person to the nearest relevant Embassy or consular office.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If you’re a victim of a crime while in North Korea, report it to the local police immediately. And you can contact us at the [**Irish Embassy in Seoul**](/en/republic-of-korea/seoul/) if you need help.
 

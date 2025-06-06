@@ -25,16 +25,38 @@ Crime remains relatively low in the Netherlands but you should take sensible pre
 * Avoid falling asleep in public or on public transport
 * Avoid dark and unlit streets and stairways, arrange to be picked up or dropped off as close to your hotel or apartment entrance as possible
 
-### **Drink spiking**
+### **Drink Spiking**
 
 Incidents of drink spiking have been reported. Do not accept drinks from strangers or leave drinks unattended. If you are in a group, make sure you stay together.
 
 If you think your drink has been spiked, seek immediate medical attention and contact the police.
 
-### **Fake police scams**
+### **Fake Police Scams**
 
 There are reports of thieves posing as plain clothes policemen, more commonly in Amsterdam. The thieves ask to inspect currency and credit cards looking for counterfeits. Tourists handing over money have been robbed.
 
-### **Reporting a crime**
+### **Reporting a Crime**
 
 If a victim of a crime while in The Netherlands, report it to the local police immediately. Most Dutch police ("Politie" in Dutch) speak excellent English. Please contact the Irish Embassy in The Hague if you need help.
+
+### **Bicycles and Mopeds**
+
+Cycling is one of the most popular forms of transport in the Netherlands. In both urban and rural areas there is an extensive network of dedicated lanes (often paved with red tiles), next to the footpaths, for bicycles and mopeds. Do not walk in the cycle lanes.
+
+Bicycles and mopeds are frequently allowed to travel in either direction on one-way roads, and are given priority at many junctions. Take care when crossing roads and watch out for all forms of traffic – trams, bicycles, cars and mopeds – and, when driving, watch out for cyclists.
+
+### **Driving**
+
+The rules of the road in The Netherlands are broadly similar to those in Ireland, and roads are modern and well maintained. The Dutch drive on the right and give priority to the right, unless otherwise indicated. Be particularly careful when using roundabouts: as some have the right-of-way when on them but on others right-of-way must be given to vehicles entering.
+
+If visitors want to drive:
+
+* Bring your full Irish driving licence and make sure to have adequate and appropriate insurance.
+* Take extra care with bicycle traffic which generally has priority (see above).
+* Be aware of The Netherlands’ traffic laws, such as speed limits. Speed cameras, speed traps and unmarked vehicles are widely used. Motorway speed limits are 120kph, except where lower limits are posted. City limits are generally 50kph.
+
+### **Hiring a Vehicle**
+
+If hiring a vehicle, we advise not to hand over your passport as a form of security. If allowing your passport to be photocopied, keep it in your sight at all times.
+
+Check that you have adequate insurance and read the small print of the vehicle hire contract (particularly any waiver that will come into effect if the vehicle is damaged).

@@ -10,7 +10,7 @@ Violent crime can take place in Mongolia even in daylight and on busy streets. F
 * Avoid dark and unlit streets and stairways, and avoid remote or outlying areas after dark. Arrange to be picked up or dropped off as close to your hotel or apartment entrance as possible.
 * Ensure that you use licensed taxis at all times.
 
-### **Local travel**
+### **Local Travel**
 
 Mongolia is a vast, sparsely populated country – 22 times the size of Ireland with a population less than 4 million. Trips outside of the capital should be carefully planned and preferably undertaken with a reputable local guide or travel agency.
 
@@ -24,7 +24,7 @@ Road conditions, the standard of driving and frequency of accidents mean driving
 
 If you plan to drive to Mongolia, an international driving permit is required. You should also bring both your full driver's licence and make sure you have adequate and appropriate insurance. Due to the long distances between service and filling stations, and the harsh climate, trips to rural areas should be undertaken with at least two vehicles in case of breakdown.
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 Self-drive rental cars are not routinely available. If you're hiring a vehicle, we advise against handing over your passport as a form of security: you’re legally required to carry your passport with you at all times. If you're allowing your passport to be photocopied, keep it in your sight at all times.
 

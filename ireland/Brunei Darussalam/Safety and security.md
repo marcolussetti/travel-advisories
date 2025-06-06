@@ -10,7 +10,7 @@ Following an incident in September 2014, the police advise individuals against h
 
 There is a low threat from terrorism, but you should be aware of the global risk of indiscriminate terrorist attacks which could be in public areas, including those frequented by expatriates and foreign travellers.
 
-### **Road travel**
+### **Road Travel**
 
 Drivers of vehicles not registered in Brunei can only purchase motor fuel at 10 designated filling stations throughout the country, to a maximum of 250 litres. Filling a foreign car is more expensive as the purchase price does not include a government subsidy.
 

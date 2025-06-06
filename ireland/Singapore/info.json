@@ -3,12 +3,16 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Singapore/Overview.md"
+            "title": "Travel to Singapore overview",
+            "file": "ireland/Singapore/Travel to Singapore overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Singapore/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Singapore/Health.md"
         },
         {
             "title": "Local laws and customs",
@@ -19,13 +23,13 @@
             "file": "ireland/Singapore/Natural disasters and climate.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Singapore/Additional information.md"
+            "title": "Entry requirements",
+            "file": "ireland/Singapore/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Singapore/Embassy contact.md"
         }
     ],
-    "update_date": "2024-03-25T00:00:00"
+    "update_date": "2025-06-05T00:00:00"
 }

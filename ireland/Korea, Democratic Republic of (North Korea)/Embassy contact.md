@@ -1,8 +1,8 @@
 ## Embassy contact
 
-We do not have an Embassy in the Democratic People's Republic of Korea, please contact Embassy of Ireland Republic of Korea Embassy at (822) 721-7200 where you will be given a separate number to call. This will put you in touch directly with an Embassy official.
+As Ireland does not have an Embassy in the Democratic People's Republic of Korea, consular assistance is provided via the Embassy of Ireland Republic of Korea Embassy at (822) 721-7200 where you will be given a separate number to call. This will put you in touch directly with an Embassy official.
 
-If necessary, you can also make direct contact with the Consular Assistance Unit at the Department of Foreign Affairs in Dublin on +353 1 408 2000.
+If necessary, you can also make direct contact with the Consular Assistance Unit at the Department of Foreign Affairs and Trade in Dublin on +353 1 408 2000.
 
 Monday to Friday 09:00-12:30 and 13:30-17:00
 

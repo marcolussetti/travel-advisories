@@ -1,6 +1,6 @@
 ## Safety and security
 
-### **Social unrest**
+### **Social Unrest**
 
 The political situation in China is generally stable but there can be occasional outbreaks of social unrest. There are strictly enforced regulations against any public demonstrations which do not have prior approval of the authorities. Participants may be subject to severe legal action. Irish citizens should avoid gatherings and demonstrations or sites of possible unrest, which may turn violent and could result in legal difficulties.
 
@@ -22,21 +22,21 @@ China is a relatively safe destination in terms of petty crime but Irish citizen
 * Leave a photocopy of your passport (as well as travel and insurance documents) with family or friends at home.
 * Pick pocketing and theft are less common than in some other locations, but always be alert to your environment and personal security.
 
-### **Counterfeit banknotes**
+### **Counterfeit Banknotes**
 
 While the use of cash is increasingly rare in China, counterfeit bank notes, especially counterfeit RMB100 notes, were common in the past. Ask in the bank or bureau de change how to identify fake notes. Check notes before accepting them, as you will see many shop owners and taxi drivers doing.
 
-### **Tourist scams**
+### **Tourist Scams**
 
 Irish citizens travelling within China should exercise caution in relation to scams, particularly in the popular tourist areas of major cities, aimed at extorting money from foreigners. Travellers are approached by people inviting them to drink tea, visit an art exhibition or to practice English; the unwitting traveller is either forced to buy expensive (but worthless) artwork or is presented with a very large bill for the tea. In a commercial dispute such as this, the local police are unlikely to act so it is safer not to accept any invitations such as these.
 
 Exercise caution when hiring a rental bicycle using a QR code. Check QR stickers carefully, as there have been cases of the legitimate barcodes being replaced with false codes.
 
-### **Fake alcohol**
+### **Fake Alcohol**
 
 It is very common for bars and nightclubs to serve fake alcohol, which could result in violent behaviour and memory loss and result in Irish citizens being left in very vulnerable positions. We advise Irish citizens to be aware of your alcohol intake.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If a victim of a crime while in China, report it to the local police immediately. Please contact the Irish Embassy in Beijing or our Consulates if assistance is needed.
 
@@ -50,11 +50,11 @@ If planning to drive or cycle in China, be extremely careful as road safety in C
 
 All drivers must hold a valid Chinese driver's license and should purchase comprehensive insurance. Foreign driver's licenses and International Driving Permits are not valid in mainland China. Long-term residents may apply for a Chinese driver's license at the Vehicle Management Office in their city of residence.
 
-### **Public transport**
+### **Public Transport**
 
 Public transport infrastructure is well developed in major cities. We advise against using illegal taxis or buses.
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If hiring a vehicle, we advise not to hand over your passport as a form of security. If allowing your passport to be photocopied, keep it in sight at all times.
 

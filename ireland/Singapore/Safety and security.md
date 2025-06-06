@@ -11,7 +11,7 @@ Singapore is a relatively safe city, but take basic safety precautions and be aw
 * Do not carry credit cards, travel tickets and money together - leave spare cash and valuables in a safe place
 * Do not carry your passport unless absolutely necessary and leave a copy of it (and travel and insurance documents) with family or friends at home
 
-### **Reporting a crime**
+### **Reporting a Crime**
 
 If a victim of a crime while in Singapore, report it to the local police immediately. Please [**contact us at the Irish Embassy**](/en/singapore/embassy/) if assistance is required.
 
@@ -26,16 +26,16 @@ If you want to drive:
 * Be aware of Singapore’s traffic laws, such as speed limits
 * Wear seatbelts at all times
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If hiring a vehicle, we advise not to hand over your passport as a form of security. If allowing your passport to be photocopied, keep it in sight at all times.
 
 Check that you have adequate insurance and read the small print of the vehicle hire contract (particularly any waiver that will come into effect if the vehicle is damaged).
 
-### **Air travel**
+### **Air Travel**
 
 The Singaporean authorities will prosecute cases of air rage within their jurisdiction.
 
-### **Sea travel**
+### **Sea Travel**
 
 There have been attacks against ships in and around the waters of Singapore and the Malacca Straits. Be vigilant and take appropriate precautions. Reduce opportunities for theft, establish secure areas onboard and report all incidents to the coastal and flag state authorities.

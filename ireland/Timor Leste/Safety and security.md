@@ -14,7 +14,7 @@ There are occasional incidents of fighting between groups in various districts a
 
 There is a low threat from terrorism, but you should be aware of the global risk of indiscriminate terrorist attacks, which could be in public areas, including those frequented by expatriates and foreign travellers.
 
-### **Local travel**
+### **Local Travel**
 
 Take care if you go outside after dark. Avoid travelling alone or to isolated areas.
 
@@ -24,7 +24,7 @@ Crocodiles have been seen at beaches and inland waterways near Dili, and attacks
 
 Be particularly vigilant in border areas.
 
-### **Road travel**
+### **Road Travel**
 
 Poor road quality and an increasing number of cars, especially in Dili, make driving in Timor-Leste hazardous. Accidents are frequent. Drive with doors locked and windows up.
 
@@ -32,11 +32,11 @@ Drivers must hold a current driving licence valid for the class of vehicle they 
 
 Take extra care when it is wet. Travel in convoy whenever possible. Main routes are often single-track mountain roads, which can deteriorate rapidly and become impassable, particularly during the rainy season (December-April).
 
-### **Sea travel**
+### **Sea Travel**
 
 There have been incidents of piracy and armed robbery against ships in neighbouring waters. Mariners should be vigilant, reduce opportunities for theft, establish secure areas onboard and report all incidents to the coastal and flag state authorities.
 
-### **Political situation**
+### **Political Situation**
 
 Avoid any demonstrations and large crowds, as these have the potential to deteriorate quickly and turn violent.
 

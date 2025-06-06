@@ -3,25 +3,29 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Brunei Darussalam/Overview.md"
+            "title": "Travel to Brunei Darussalam overview",
+            "file": "ireland/Brunei Darussalam/Travel to Brunei Darussalam overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Brunei Darussalam/Safety and security.md"
         },
         {
+            "title": "Health",
+            "file": "ireland/Brunei Darussalam/Health.md"
+        },
+        {
             "title": "Local laws and customs",
             "file": "ireland/Brunei Darussalam/Local laws and customs.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Brunei Darussalam/Additional information.md"
+            "title": "Entry requirements",
+            "file": "ireland/Brunei Darussalam/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Brunei Darussalam/Embassy contact.md"
         }
     ],
-    "update_date": "2024-10-23T00:00:00"
+    "update_date": "2025-06-05T00:00:00"
 }

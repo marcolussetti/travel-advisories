@@ -3,12 +3,16 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Indonesia/Overview.md"
+            "title": "Travel to Indonesia overview",
+            "file": "ireland/Indonesia/Travel to Indonesia overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Indonesia/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Indonesia/Health.md"
         },
         {
             "title": "Local laws and customs",
@@ -19,13 +23,13 @@
             "file": "ireland/Indonesia/Natural disasters and climate.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Indonesia/Additional information.md"
+            "title": "Entry requirements",
+            "file": "ireland/Indonesia/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Indonesia/Embassy contact.md"
         }
     ],
-    "update_date": "2025-03-04T00:00:00"
+    "update_date": "2025-06-05T00:00:00"
 }

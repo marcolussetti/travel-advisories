@@ -29,7 +29,7 @@ If driving:
 * Heavy on-the-spot fines are in place for traffic offences such as speeding, driving under the influence of alcohol and for using mobile telephones without a hands-free device. There are also fines for jay walking.
 * You must drive with dipped headlights at all times, even during the day.
 
-**E-tolls in Slovenia: Obligation to pay e-toll at border with heavy fines for non-compliance**
+### **E-tolls in Slovenia: Obligation to pay e-toll at border with heavy fines for non-compliance**
 
 Slovenia has an e-toll/vignette system for motorway travel with sales points at border crossings. All vehicles under 3.5 tonnes, including cars, must have a vignette to drive on motorways even if only transiting through Slovenia for short distances/periods. Slovenian officials/police closely monitor motorway use and drivers who do not have a vignette will receive an on-the-spot fine of up to €800. You can find [**information about prices and locations of where to buy the vignettes**](http://www.dars.si/Dokumenti/Toll/Methods_of_payment/Vehicles_up_to_35_t/Vignette_308.aspx) on the [**Motorway Company of the Republic of Slovenia (DARS) website.**](http://www.dars.si/Dokumenti/Dokumenti/Toll/Vignette_308.aspx)
 
@@ -37,7 +37,7 @@ Vehicles over 3.5 tonnes must use the electronic tolling system for heavy vehicl
 
 For further information concerning registration etc, please click on the following link: [**www.darsgo.si**](http://www.darsgo.si/)
 
-**Warning: Breakdowns on Slovenian motorways/expressways**
+### **Warning: Breakdowns on Slovenian motorways/expressways**
 
 DARS (Slovenia’s motorway/expressway operator) warns that there have been reports of unofficial/unlicensed tow-truck operators who prey on broken-down vehicles and charge excessive prices for their services. If you break down on a Slovenian motorway/expressway DARS advise phoning their official number +386 1 518 8 518 to arrange a tow and DARS also advises drivers to double check that any tow operator who arrives is the one ordered. More information on what to do if you breakdown, including the official towing price list, is available on the DARS website [**DARS Towing Service**](https://www.dars.si/Towing_service)
 

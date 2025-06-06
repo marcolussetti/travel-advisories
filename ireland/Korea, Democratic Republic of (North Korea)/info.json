@@ -3,12 +3,16 @@
     "risk_level": "Avoid Non-Essential Travel",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Korea, Democratic Republic of (North Korea)/Overview.md"
+            "title": "Travel to North Korea overview",
+            "file": "ireland/Korea, Democratic Republic of (North Korea)/Travel to North Korea overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Korea, Democratic Republic of (North Korea)/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Korea, Democratic Republic of (North Korea)/Health.md"
         },
         {
             "title": "Local laws and customs",
@@ -19,13 +23,13 @@
             "file": "ireland/Korea, Democratic Republic of (North Korea)/Natural disasters and climate.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Korea, Democratic Republic of (North Korea)/Additional information.md"
+            "title": "Entry requirements",
+            "file": "ireland/Korea, Democratic Republic of (North Korea)/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Korea, Democratic Republic of (North Korea)/Embassy contact.md"
         }
     ],
-    "update_date": "2023-11-17T00:00:00"
+    "update_date": "2025-06-05T00:00:00"
 }

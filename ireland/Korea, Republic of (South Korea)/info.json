@@ -3,29 +3,33 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Korea, Republic of (South Korea)/Overview.md"
+            "title": "Travel to South Korea overview",
+            "file": "ireland/Korea, Republic of (South Korea)/Travel to South Korea overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Korea, Republic of (South Korea)/Safety and security.md"
         },
         {
+            "title": "Health",
+            "file": "ireland/Korea, Republic of (South Korea)/Health.md"
+        },
+        {
             "title": "Local laws and customs",
             "file": "ireland/Korea, Republic of (South Korea)/Local laws and customs.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/Korea, Republic of (South Korea)/Entry requirements.md"
         },
         {
             "title": "Moving to South Korea",
             "file": "ireland/Korea, Republic of (South Korea)/Moving to South Korea.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Korea, Republic of (South Korea)/Additional information.md"
-        },
-        {
             "title": "Embassy contact",
             "file": "ireland/Korea, Republic of (South Korea)/Embassy contact.md"
         }
     ],
-    "update_date": "2025-04-16T00:00:00"
+    "update_date": "2025-06-05T00:00:00"
 }

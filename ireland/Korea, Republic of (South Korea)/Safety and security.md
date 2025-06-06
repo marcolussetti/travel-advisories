@@ -1,6 +1,6 @@
 ## Safety and security
 
-### **Political situation**
+### **Political Situation**
 
 There are currently heightened political tensions in South Korea following the impeachment and arrest of President Yoon Suk Yeol. Large demonstrations are likely to continue, including in the areas around Gwanghwamun Plaza (Jongno), the Constitutional Court (Anguk), Seoul Western District Court (Gongdeok) and the National Assembly (Yeouido). Follow the advice of local authorities and avoid large public gatherings.
 
@@ -22,7 +22,7 @@ Crime remains relatively low in South Korea but visitors should take sensible pr
 * Keep a close eye on personal belongings and hold on to them in public places such as internet cafes, train and bus stations
 * Avoid dark and unlit streets and stairways, arrange to be picked up or dropped off as close to hotel or apartment entrance as possible
 
-### **Reporting a crime**
+### **Reporting a Crime**
 
 If a victim of a crime while in South Korea, report it to the local police immediately. Please contact us at the [**Irish Embassy**](https://www.ireland.ie/en/republic-of-korea/seoul/) or [**Consulate/Honorary Consul**](https://www.ireland.ie/en/republic-of-korea/seoul/) if help is needed. Call 112 for police (an interpretation service is available during working hours).
 
@@ -38,12 +38,12 @@ If driving:
 * Wear seatbelts at all times
 * Keep vehicle doors locked and bags kept out of sight to prevent opportunistic bag-snatching if stopped at traffic lights
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If hiring a vehicle, we advise not to hand over your passport as a form of security. If allowing your passport to be photocopied, keep it in sight at all times.
 
 Check that you have adequate insurance and read the small print of the vehicle hire contract (particularly any waiver that will come into effect if the vehicle is damaged).
 
-### **National exercises**
+### **National Exercises**
 
 The South Korean authorities normally hold nationwide civil emergency exercises on the 15th day of the month, eight times a year (not January, February, July or December). Sirens are sounded, transport stopped and some people are asked to take shelter in metro stations or basements. Check local announcements for further information on exercises.

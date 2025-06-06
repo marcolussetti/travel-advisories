@@ -1,5 +1,20 @@
 ## Safety and security
 
+### **Summer Music Festivals**
+
+There is a major concert at the Hippodrome in Zagreb on 5 July 2025 which is expected to have record large attendance. Accommodation in Zagreb is already at very high occupancy during this time. We would advise to stay away from the area of the Hippodrome if you are not attending.
+
+Croatia has numerous festivals throughout the summer. Please take note of travel advice below.
+
+While you are at the festival:
+
+* Always keep your valuables, including your passport, in a safe place.
+* Keep some spare cash separate from the rest of your money and credit cards
+* Don’t leave belongings unattended
+* Stay with your friends, look out for each other and avoid walking back to your accommodation on your own.
+* Police can issue on the spot fines for possession of small quantities of drugs for personal use ranging between €650 and €2,600
+* To stay safe and comfortable at a music festival in hot weather, prioritize hydration, shade, and sun protection. Drink plenty of water throughout the day, especially if you're dancing or standing in lines, and avoid excessive alcohol. Seek shade during the hottest hours, wear light, loose-fitting clothing, and apply sunscreen regularly.
+
 ### **Landmines**
 
 Landmines remain a very real danger in some parts of Croatia. Populated areas, major routes and almost all tourist sites are clear of mines and are safe to visit. However, isolated areas in the mountains and countryside have not all been cleared. Be careful not to stray from roads, paved areas or marked paths without an experienced guide and never enter areas that are taped off. You can get more information from the [**Croatian Mine Action Centre.**](https://welcome.cms.hr/index.php/en/mine-map/)

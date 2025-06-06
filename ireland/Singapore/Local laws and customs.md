@@ -2,11 +2,11 @@
 
 Remember, the local laws apply to you as a visitor and it is your responsibility to follow them. Be sensitive to local customs, traditions and practices as your behaviour may be seen as improper, hostile or may even be illegal.
 
-### **Illegal drugs**
+### **Illegal Drugs**
 
 Do not get involved with drugs of any kind. There are severe penalties for all drug offences in Singapore. Consumption or possession of even very small amounts can lead to imprisonment. Singapore retains the death penalty for drug trafficking.
 
-### **Personal identification**
+### **Personal Identification**
 
 A police permit is required for any outdoor public assembly or procession. Avoid street gatherings and public demonstrations as they might be illegal. Filming an illegal public gathering is also forbidden, as is the wearing or displaying of any ‘cause related’ material without permission.
 
@@ -16,7 +16,7 @@ Always carry personal identification, as you may be asked to show it during your
 
 It is illegal to possess, purchase and use e-cigarettes or vapes in Singapore as of 1 February 2018. Individuals caught using e-cigarettes of vapes can face fines of up to SGD$2,000.
 
-### **Criminal offences**
+### **Criminal Offences**
 
 Drunk and disorderly conduct is a serious offence in Singapore. Convicted offenders could face fines, imprisonment and/or corporal punishment, depending on the severity of the crime.
 
@@ -28,7 +28,7 @@ A wide range of offences, including ‘outrage of modesty’ (inappropriate beha
 
 ‘Outrage of modesty’ (molestation) can result in a fine, imprisonment jail or corporal punishment. Avoid any action that could be interpreted as molestation. Scams involving false claims of molestation are thought to exist. Usually once the complaint is made by the victim and the accused is arrested the police will not allow the accused person to travel and their passport will be confiscated while investigations are carried out. This can take several months.
 
-### **Other criminal offences**
+### **Other Criminal Offences**
 
 Approval from the Ministry of Manpower is required for a foreign national to give a talk on ‘racial, communal, religious, caused-related or political topics’.
 

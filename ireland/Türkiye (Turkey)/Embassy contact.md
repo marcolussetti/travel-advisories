@@ -1,6 +1,6 @@
 ## Embassy contact
 
-Please note if assistance is required in the case of an emergency while the Embassy is closed, contact the main Embassy number, 00 90 312 4591000, and leave a message on the Duty Officer voice mailbox. This mailbox will be monitored regularly. Please have an English speaker leave the initial message.
+If consular assistance is required in the case of an emergency while the Embassy is closed, contact the main Embassy number, 00 90 312 4591000, and leave a voicemail message. Voicemail messages will be monitored regularly by the Duty Officer. The initial message should be left in English.
 
 Monday to Friday 09:00-13:00 and 14:00-17:00
 

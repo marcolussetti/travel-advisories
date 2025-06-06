@@ -3,12 +3,16 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Mongolia/Overview.md"
+            "title": "Travel to Mongolia overview",
+            "file": "ireland/Mongolia/Travel to Mongolia overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Mongolia/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Mongolia/Health.md"
         },
         {
             "title": "Local laws and customs",
@@ -19,13 +23,13 @@
             "file": "ireland/Mongolia/Natural disasters and climate.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Mongolia/Additional information.md"
+            "title": "Entry requirements",
+            "file": "ireland/Mongolia/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Mongolia/Embassy contact.md"
         }
     ],
-    "update_date": "2025-03-04T00:00:00"
+    "update_date": "2025-06-05T00:00:00"
 }

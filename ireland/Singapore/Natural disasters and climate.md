@@ -1,6 +1,6 @@
 ## Natural disasters and climate
 
-### **Practical advice**
+### **Practical Advice**
 
 If travelling to Singapore, make sure you know what to expect then plan and pack so that you are prepared.
 

@@ -1,6 +1,6 @@
 ## Natural disasters and climate
 
-### **Geographical position**
+### **Geographical Position**
 
 Indonesia sits along a volatile seismic strip called the ‘Ring of Fire’ in the Pacific Ocean. Volcanic eruptions and earthquakes occur regularly, often with a potential threat of tsunamis. The capacity of the Indonesian emergency and rescue services, and local authorities, to deal with large natural disasters is limited.
 

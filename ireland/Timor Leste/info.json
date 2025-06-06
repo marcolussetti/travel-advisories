@@ -3,25 +3,29 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Timor Leste/Overview.md"
+            "title": "Travel to Timor Leste overview",
+            "file": "ireland/Timor Leste/Travel to Timor Leste overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Timor Leste/Safety and security.md"
         },
         {
+            "title": "Health",
+            "file": "ireland/Timor Leste/Health.md"
+        },
+        {
             "title": "Local laws and customs",
             "file": "ireland/Timor Leste/Local laws and customs.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Timor Leste/Additional information.md"
+            "title": "Entry requirements",
+            "file": "ireland/Timor Leste/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Timor Leste/Embassy contact.md"
         }
     ],
-    "update_date": "2023-11-23T00:00:00"
+    "update_date": "2025-06-05T00:00:00"
 }

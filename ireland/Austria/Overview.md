@@ -6,11 +6,19 @@ Normal Precautions
 
 ### **Travel Alert**
 
-Following the escalation of the situation in the Middle-East, the Austrian Interior Ministry has raised the terrorist alert level to **4 / “high”**, the second highest level in Austria.
+The Austrian Interior Ministry maintains a public alert system on terrorism. Austria's current threat level is 4, “high”, on a 5-step scale.
 
 Irish citizens in Austria are advised to exercise caution and follow the advice of local authorities.
 
-Visitors can contact the emergency services in Austria by dialling **112** or contact the Irish Embassy in Vienna at +43 1 715 4246 for consular assistance.
+Always be aware of your surroundings when in public places. Be particularly vigilant during:
+
+- sporting events
+
+- religious holidays
+
+- public celebrations
+
+Visitors can contact the emergency services in Austria by dialling **112** or contact the Irish Embassy in Vienna at **+43 1 715 4246** for consular assistance.
 
 ### **General Travel Advice**
 
@@ -31,7 +39,7 @@ See more information [**here**](https://www.oesterreich.gv.at/en/themen/leben_in
 
 Visitors to Austria are advised to follow the guidance of national, regional and local authorities and stay fully informed of what is going on by monitoring local news and social media.
 
-Citizens can also follow the Embassy on social media (Twitter [**@IrlEmbVienna**](https://twitter.com/IrlEmbVienna) and [**Facebook**](https://sv-se.facebook.com/irlembvienna/)) to ensure access to relevant updates and alerts.
+Citizens can also follow the Embassy on social media (X [**@IrlEmbVienna**](https://twitter.com/IrlEmbVienna) and [**Facebook**](https://sv-se.facebook.com/irlembvienna/)) to ensure access to relevant updates and alerts.
 
 ### **Emergency Assistance**
 

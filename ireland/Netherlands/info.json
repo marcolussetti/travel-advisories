@@ -3,8 +3,8 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Netherlands/Overview.md"
+            "title": "Travel to Netherlands overview",
+            "file": "ireland/Netherlands/Travel to Netherlands overview.md"
         },
         {
             "title": "Safety and security",
@@ -19,13 +19,13 @@
             "file": "ireland/Netherlands/Local laws and customs.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Netherlands/Additional information.md"
+            "title": "Entry requirements",
+            "file": "ireland/Netherlands/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Netherlands/Embassy contact.md"
         }
     ],
-    "update_date": "2025-04-22T00:00:00"
+    "update_date": "2025-06-05T00:00:00"
 }
