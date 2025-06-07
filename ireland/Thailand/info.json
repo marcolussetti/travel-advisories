@@ -3,12 +3,16 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Thailand/Overview.md"
+            "title": "Travel to Thailand overview",
+            "file": "ireland/Thailand/Travel to Thailand overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Thailand/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Thailand/Health.md"
         },
         {
             "title": "Local laws and customs",
@@ -19,17 +23,13 @@
             "file": "ireland/Thailand/Natural disasters and climate.md"
         },
         {
-            "title": "Health",
-            "file": "ireland/Thailand/Health.md"
-        },
-        {
-            "title": "Additional information",
-            "file": "ireland/Thailand/Additional information.md"
+            "title": "Entry requirements",
+            "file": "ireland/Thailand/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Thailand/Embassy contact.md"
         }
     ],
-    "update_date": "2025-04-24T00:00:00"
+    "update_date": "2025-06-06T00:00:00"
 }

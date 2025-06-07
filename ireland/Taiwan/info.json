@@ -3,21 +3,33 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Taiwan/Overview.md"
+            "title": "Travel to Taiwan overview",
+            "file": "ireland/Taiwan/Travel to Taiwan overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Taiwan/Safety and security.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Taiwan/Additional information.md"
+            "title": "Health",
+            "file": "ireland/Taiwan/Health.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Taiwan/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/Taiwan/Natural disasters and climate.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/Taiwan/Entry requirements.md"
         },
         {
             "title": "Department contact",
             "file": "ireland/Taiwan/Department contact.md"
         }
     ],
-    "update_date": "2024-07-31T00:00:00"
+    "update_date": "2025-06-06T00:00:00"
 }

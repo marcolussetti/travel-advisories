@@ -3,29 +3,29 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Panama/Overview.md"
+            "title": "Travel to Panama overview",
+            "file": "ireland/Panama/Travel to Panama overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Panama/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Panama/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Panama/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Panama/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/Panama/Local laws and customs.md"
+        },
+        {
+            "title": "Entry Requirements",
+            "file": "ireland/Panama/Entry Requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Panama/Embassy contact.md"
         }
     ],
-    "update_date": "2025-05-26T00:00:00"
+    "update_date": "2025-06-06T00:00:00"
 }

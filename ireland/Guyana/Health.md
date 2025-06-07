@@ -1,6 +1,6 @@
 ## Health
 
-Check with your doctor well in advance of travelling (8 weeks)to see if you need any vaccinations for this country. We advise you to take out comprehensive travel insurance before you travel.
+Authorities may ask for Yellow Fever vaccination certificate to enter Guyana. Check with your doctor well in advance of travelling (8 weeks) to see if you need additional vaccinations for this country. We advise you to take out comprehensive travel insurance before you travel.
 
 ### **Zika Virus**
 

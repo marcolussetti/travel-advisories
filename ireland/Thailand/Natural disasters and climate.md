@@ -1,6 +1,6 @@
 ## Natural disasters and climate
 
-### **Rain and flooding**
+### **Rain and Flooding**
 
 The rainy season in much of Thailand runs from May to October. Monsoon rains and storms quite often lead to heavy and dangerous flooding. The rainy season in south east of the Thai peninsula runs from November to March. You can get useful information on the weather conditions in Thailand from websites such as [**Phuket Weather Forecasts**](http://www.phuket.com/island/weather.htm), the [**Thai Meteorological Department**](https://www.tmd.go.th/en/) or [**Tourism Authority of Thailand News**](http://www.tatnews.org/).
 

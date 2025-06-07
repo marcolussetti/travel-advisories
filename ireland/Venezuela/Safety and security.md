@@ -1,12 +1,12 @@
 ## Safety and security
 
-### **Border security**
+### **Border Security**
 
 We advise against all travel to all Venezuelan border regions until further notice. There are security concerns related to drug trafficking at the Brazilian, Colombian and Guyanese borders, and security forces in these areas are scarce. Cross-border violence, kidnapping, drug trafficking and smuggling occur frequently in these areas.
 
 In general, border closures are common and can happen at very short notice. You should not use any of the borders’ land crossings.
 
-### **Crime and political unrest**
+### **Crime and Political Unrest**
 
 There are high levels of serious crime in Venezuela. The risk of armed robbery and muggings, homicide, kidnapping and carjacking is high in all major cities in Venezuela, as well as in rural areas. Cases of 'express kidnapping' (where victims are kidnapped from the street and forced to withdraw money from an ATM) have been reported. In Caracas, the central area and the Sabana Grande areas are particularly dangerous, as are some neighbourhoods in western and eastern Caracas. Violent incidents occur regularly on public transport. Police response times are reported to be poor or non-existent. If you're the victim of a crime, don't resist – victims are often killed or injured for failing to cooperate.
 
@@ -24,11 +24,11 @@ If approached by an officer purporting to be an airport official, even if they a
 
 If you are taking an international flight from Caracas, you should arrive at the airport three hours before departure, to allow time for security procedures. Do not stay in an airport hotel unless you can make safe transport arrangements between the hotel and the airport.
 
-### **Air travel**
+### **Air Travel**
 
 Tourist travel can often involve flying in light aircraft. There have been several accidents in recent years on the main tourist routes, including Los Roques, Canaima and Merida – some with fatalities. The International Air Transport Association publishes a [**list of registered airlines**](http://www.iata.org/whatwedo/safety/audit/Pages/index.aspx) that have been audited and found to meet a number of operational safety standards and recommended practices.
 
-### **Sea travel**
+### **Sea Travel**
 
 There have been incidents of piracy and armed robbery against boats in and around Venezuela's waters, especially east of Puerto La Cruz and in waters between Venezuela and Trinidad. Take suitable precautions and avoid these areas if possible.
 

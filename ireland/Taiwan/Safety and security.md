@@ -13,6 +13,6 @@ Always take sensible precautions:
 * Keep a close eye on personal belongings and hold on to them in public places such as internet cafés, train and bus stations.
 * Make sure that your accommodation and vehicle are well secured, with locked doors and windows at all times.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If a victim of a crime while in Taiwan, report it to the local police immediately.

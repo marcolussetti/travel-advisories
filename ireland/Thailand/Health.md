@@ -17,15 +17,17 @@ Follow our social media channels for the latest updates:
 [**Facebook**](https://www.facebook.com/IrishEmbassyThailand)  
 [**Twitter**](https://twitter.com/IrlEmbBangkok)
 
-### **Health and Health Insurance – Very Important**
+### **Medical Treatment and Health Insurance – Very Important**
 
-Due to the heat and other factors some European visitors to Thailand fall ill. Always check with a doctor well in advance of travelling for medical advice and to see if any vaccinations for Thailand are required.
+Due to the heat and other factors some European visitors to Thailand fall ill.
 
 If you require medical attention, public hospitals and small clinics particularly outside of Bangkok are not always up to standard. We recommend that you go to private hospitals in Thailand which are excellent but can be expensive. **Make sure to have adequate travel health insurance to cover the cost**.
 
+### Vaccinations
+
 Check with a doctor well in advance of travelling to see if any vaccinations for Thailand are required.
 
-### **Dengue fever**
+### **Dengue Fever**
 
 Dengue fever is prevalent in Thailand, particularly in the south. Before travelling, get up-to-date medical advice whether vaccination is required. When you arrive, avoid being bitten by mosquitoes by using bed nets and repellents, and wearing closed, long sleeves and trousers.
 
@@ -38,7 +40,3 @@ Frequently asked questions on Zika virus infection for the [**general public**](
 ### **Water**
 
 We recommend to avoid tap water and drink only boiled or bottled water during your stay.
-
-### **Air Pollution**
-
-Air pollution can be an issue in Thailand, particularly in the major cities of Bangkok and Chiang Mai. Exposure to high levels of PM2.5 can lead to various health issues, such as eye and skin irritation and headaches, and can aggravate underlying health conditions such as cardiac and respiratory conditions. You can check air quality levels for Thailand in real time on the [**World Air Quality Index website**](http://aqicn.org/city/bangkok).

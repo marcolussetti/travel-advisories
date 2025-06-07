@@ -18,17 +18,17 @@ Private recreational use of certain cannabis products is legal if the THC conten
 
 Some Irish nationals have suffered severe psychiatric effects due to cannabis use while in Thailand.
 
-### **Southern border provinces**
+### **Southern Border Provinces**
 
 We advise against all travel to or through the Southern Thai Provinces of Pattani, Yala, Narathiwat and Southern Songkhla due to ongoing instability and terrorist activity in this region. On 10 March 2019, a number of small explosions occurred in Satun City and in Patthalung Province in the South of Thailand and in December 2018; there was a number of small explosions on Samila beach in Songkhla City.
 
 Martial law still applies in these Provinces. There are frequent incidences of violence and there have been reports that extremists may be planning to target westerners in the southern border Provinces.
 
-### **Cambodian border**
+### **Cambodian Border**
 
 There have been occasional clashes between Cambodia and Thailand over the 'Preah Vihear' issue for several years. Hostilities broke on a number of occasions in 2011 and there were civilian and military deaths on both sides. We recommend that you should take care travelling through Thailand-Cambodia border.
 
-### **Burmese/Myanmar border**
+### **Burmese/Myanmar Border**
 
 We recommend to exercise caution when traveling to rural areas of the Northern region and particularly near the Thai-Myanmar border. There are occasional clashes between the Thai security forces and armed drug traffickers. Military checkpoints are active and passengers are often asked to produce their ID. If considering traveling into Myanmar from Thailand, only cross into that country at an official border checkpoint and follow instructions of the Burmese/Myanmar and Thai authorities.
 
@@ -44,7 +44,7 @@ Be aware of the risk of petty crime, including from pickpockets, bag snatchers a
 * The theft of passports and credit cards is a problem in Thailand. Leave a copy of your passport (as well as travel and insurance documents) with family or friends at home.
 * Be aware of pickpockets and bag snatchers. Keep a close eye on personal belongings and hold on to them in public places such as train and bus stations. Many visitors had their mobile phones and purses snatched by thieves on motorbikes when walking along busy streets or travelling in Tuk-Tuks. Stay vigilant!
 
-### **Tourist scams**
+### **Tourist Scams**
 
 Tourist scams are, unfortunately, a fairly common occurrence in Thailand, despite the best efforts of the authorities. Using common sense and exercising caution is essential to avoiding such scams. Do not accept offers to bring you to a jewellery shop or factory for a "special promotion". Avoid all offers from strangers approaching you in the streets with offers of inexpensive gems, travel, clothing, tours etc. If you feel you have been scammed contact the Thai Tourist Police on 1155. They will be as helpful as possible. However, the best way to avoid being scammed is to avoid the scammers in the first instance.
 
@@ -56,11 +56,11 @@ If passing through Suvarnabhumi Airport, make sure that you have paid for, and h
 
 Ownership of property in Thailand is very complicated. There have been many reported cases of property scams. Make sure to seek proper legal advice. Foreigners are not permitted to own land in Thailand. Many foreigners, including Irish citizens have found themselves in very difficult situations as a result of dealing in property. Be aware of the pitfalls. Avoid them.
 
-### **Personal safety**
+### **Personal Safety**
 
 In general, Thailand is a fairly safe country in which to travel once some basic precautions are taken. However, there have been incidents where foreign nationals have been attacked. Female passengers, in particular, should be careful of their personal safety. There have also been incidents where tourists have had their drinks drugged (tourist areas and 'red light' districts). Be very careful about taking drinks from strangers and be very wary at parties such as the Full Moon party on Koh Phangan Island. Avoid all drugs, consume alcohol in moderation and exercise caution at large social gatherings. Do not swim at night.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If a victim of a crime while in Thailand, report it to the local police immediately. Please contact us at [**Embassy in Bangkok**](https://www.ireland.ie/en/thailand/bangkok/) for information and advice (+66 (0) 2 0161360). Please note that the Embassy cannot report a crime on your behalf.
 
@@ -72,7 +72,7 @@ If planning to drive any kind of vehicle in Thailand, be extremely careful. Road
 * Make sure to have adequate and appropriate insurance
 * Driving under the influence of alcohol or drugs is against the law and you risk being detained, fined or banned from driving if caught
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If hiring any kind of vehicle, **we advise not to hand over your passport as a form of security**. If allowing your passport to be photocopied, keep it in your sight at all times. Check that you have adequate insurance and read the small print of the vehicle hire contract (particularly any waiver that will come into effect if the vehicle is damaged).
 

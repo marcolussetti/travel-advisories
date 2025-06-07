@@ -3,12 +3,16 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Colombia/Overview.md"
+            "title": "Travel to Colombia overview",
+            "file": "ireland/Colombia/Travel to Colombia overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Colombia/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Colombia/Health.md"
         },
         {
             "title": "Local laws and customs",
@@ -19,13 +23,13 @@
             "file": "ireland/Colombia/Natural disasters and climate.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Colombia/Additional information.md"
+            "title": "Entry Requirements",
+            "file": "ireland/Colombia/Entry Requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Colombia/Embassy contact.md"
         }
     ],
-    "update_date": "2025-06-05T00:00:00"
+    "update_date": "2025-06-06T00:00:00"
 }

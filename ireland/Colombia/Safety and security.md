@@ -8,11 +8,11 @@ Crime is prevalent in Colombia - take sensible precautions.
 
 Petty theft, such as pick-pocketing and bag-snatching, is relatively common in Colombia, including at the airport in Bogotá, on public transport, and near hotels. Take care of personal belongings and avoid obvious displays of wealth. Avoid using mobile phones on the street. Credit card and ATM fraud occurs, as well as card overcharging, especially in popular tourist areas.
 
-### **Tourist scams**
+### **Tourist Scams**
 
 There have been reports, including in Bogotá, of bogus policemen approaching foreigners to inspect documents or foreign currency. If approached, avoid handing over money or documents, unless threatened, and try to stay in busy areas.
 
-### **Street Crime and Drug-induced robberies**
+### **Street Crime and Drug-induced Robberies**
 
 Street crime is a problem in major cities, including Bogotá, Medellín, Cali and Santa Marta. Mugging and pickpocketing can be accompanied by violence.
 
@@ -22,7 +22,7 @@ Citizens should be particularly vigilant in bars and nightclubs, where in partic
 
 Where possible, visitors should plan how they will travel to and from their destination. Only use pre-booked taxis. Avoid travelling alone or at night, especially at border crossings or areas where there are few other people around.
 
-### **Serious crime**
+### **Serious Crime**
 
 Though the security situation in Colombia has improved in recent years, terrorism and serious criminal activities remain significant threats.
 
@@ -40,7 +40,7 @@ There is a risk of kidnapping from both terrorist and criminal groups. While Col
 
 Regularly reassess your security arrangements and consider carefully any travel around the country.
 
-### **Political unrest**
+### **Political Unrest**
 
 Demonstrations and protests take place regularly throughout Colombia, especially in large cities. These can be confrontational and can turn violent rapidly. Avoid large crowds, political rallies, demonstrations and any large public protests or gatherings.
 
@@ -48,7 +48,7 @@ Protests and demonstrations can lead to disruptions to traffic and public transp
 
 Monitor local media for updates and follow the advice of local authorities.
 
-### **Border security**
+### **Border Security**
 
 The Colombia-Venezuela border region is currently volatile. We advise against all travel to Colombia's border regions with Venezuela until further notice. Do not use any of the Colombia-Venezuela land crossings.
 
@@ -60,17 +60,17 @@ Avoid crossing between Panama and Colombia by land. The 'Darien Gap' is a danger
 
 Colombia is affected by landmines and unexploded ordnance. Mined areas are frequently unmarked so be aware of potential dangers when visiting remote locations or venturing off the main road.
 
-### **Lost or stolen passports**
+### **Lost or Stolen passports**
 
 It can take up to three weeks to replace a lost or stolen passport, due to time and distance factors. Please take extreme care with passports and other personal documentation. Getting a replacement passport will be easier with a copy of the lost or stolen one, so keep photocopies while travelling.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If a victim of a crime while in Colombia, report it to the local police immediately. Many insurance companies will only compensate loss from theft if a police report is provided. Police can take a report of a crime from travellers in person in any local police station known as CAI (Centro de Atencion Inmediata). Online police reports can also be filed on the [**National Police website**](https://adenunciar.policia.gov.co/Adenunciar/Login.aspx?ReturnUrl=%2fAdenunciar)
 
 Contact the Irish Embassy in Bogotá if assistance is required.
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If hiring a vehicle, the Embassy advises not to hand over passports as a form of security. If allowing passports to be photocopied, keep them in sight at all times.
 

@@ -12,7 +12,7 @@ Although the threat from terrorism in Vietnam is low, there is still a global ri
 
 Petty Crime is common in Vietnam, particularly in urban areas, you should take sensible precautions at all times and especially during the summer peak travel period;
 
-* Don’t carry your passport unless absolutely necessary and leave a copy of your passport and original birth certificate (as well as travel insurance documents and other important documents) with family or friends at home;
+* Don’t carry your passport unless absolutely necessary. Keep a photocopy of it on you in person and leave another copy of your passport and original birth certificate (as well as travel insurance documents and other important documents) with family or friends at home;
 * Don’t carry your credit card, travel tickets and money together, leave spare cash and valuables in a safe place;
 * Be aware that bag snatching occurs frequently and there is a significant increase in theft in the lead up to local festivals;
 * Avoid placing bags in the front basket of bicycles;
@@ -33,18 +33,15 @@ Always use licensed taxis or pre-arranged hotel pick-ups when transferring from 
 
 If you’re a victim of a crime while in Vietnam, report it to the local police immediately. You can contact us at the [**Irish Embassy in Hanoi**](/en/vietnam/hanoi/) if you need assistance
 
-### **Driving**
+### **Driving and Transport**
 
-If you’re planning to drive in Vietnam, you should be extremely careful. Road safety standards are low, particularly outside towns and cities. Accidents are frequent and are often caused by poor driving, badly maintained vehicles (this includes public transport) and inadequate lighting. Be aware that in the event of an accident, third parties involved are likely to have little or no insurance. Figures issued by the authorities in Vietnam show over 8,000 deaths and over 18,000 injured on the roads in the last year. Contact numbers for the emergency services are 112 for search and rescue. 113 for Police. 114 for fire department. 115 Ambulance.
+Road safety standards in Vietnam are low, particularly outside towns and cities. Accidents are frequent and are often caused by poor driving, badly maintained vehicles (this includes public transport) and inadequate lighting. Exercise a high degree of caution if considering using an overnight (‘sleeper’) bus during your time in Vietnam and be aware of the risk of being involved in a serious road accident, be aware also that in the event of an accident, third parties involved are likely to have little or no insurance.
 
-If you want to drive:
-
-* You will need to get a Vietnamese driving licence to drive a car or motorcycle from the Hanoi Department of Public Works and Transportation (telephone: 00 84 4 3843 5325) or the Ho Chi Minh City Department of Public Works and Transportation (telephone: 00 84 8 3829 0451 or 0452).
-* Bring your full Irish driving license and make sure you have adequate and appropriate insurance
+Please note that as Ireland is a participant in the Geneva Convention on Road Traffic 1949, and Vietnam is a participant in the Vienna Convention on Road Traffic 1968, International Drivers Permits issued by Ireland are **not** valid for use in Vietnam. If you want to drive, you will need to get a Vietnamese driving licence to drive a car or motorcycle from the Hanoi Department of Public Works and Transportation (telephone: 00 84 4 3843 5325) or the Ho Chi Minh City Department of Public Works and Transportation (telephone: 00 84 8 3829 0451 or 0452). Bring your full Irish driving license and make sure you have adequate and appropriate insurance.
 
 ### **Hiring a vehicle**
 
-If you’re hiring a vehicle, particularly a motorbike, you should not to hand over your passport as a form of security.  As a visitor to Vietnam you are required to be in possession of your passport at all times.  If you’re allowing your passport to be photocopied, keep it in your sight at all times.
+If you’re hiring a vehicle, particularly a motorbike, you should not hand over your passport as a form of security. If you’re allowing your passport to be photocopied, keep it in your sight at all times.
 
 Check that you have adequate insurance and read the small print of the vehicle hire contract (particularly any waiver that will come into effect if the vehicle is damaged).
 
@@ -64,7 +61,7 @@ Unexploded mines and ordnance are still a risk on former battlefields, particula
 
 Be aware of spiked drinks, food and cigarettes, particularly late at night in bars. Don’t leave food or drink unattended or accept food, drink or cigarettes from strangers.
 
-Homemade alcohol may be contaminated with bacteria or with toxic chemicals from pesticides and should be avoided.
+Homemade alcohol may be contaminated with methanol, bacteria or with toxic chemicals from pesticides and should be avoided.
 
 ### **Energy drinks**
 

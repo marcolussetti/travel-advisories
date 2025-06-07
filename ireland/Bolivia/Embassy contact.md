@@ -4,7 +4,7 @@ The Irish Embassy in Argentina is responsible for Bolivia. Our office hours are 
 
 Outside office hours, for genuine emergencies involving Irish citizens, which cannot wait until the next working day, please call +54 9 11 5945 7483.
 
-Irish citizens may also wish to contact the Duty Officer at the Department of Foreign Affairs in Dublin on +353 1 408 2000.
+Irish citizens may also wish to contact the Duty Officer at the Department of Foreign Affairs and Trade in Dublin on +353 1 408 2000.
 
 ### Embassy of Ireland, Argentina
 

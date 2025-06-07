@@ -3,29 +3,29 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Dominican Republic/Overview.md"
+            "title": "Travel to Dominican Republic overview",
+            "file": "ireland/Dominican Republic/Travel to Dominican Republic overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Dominican Republic/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Dominican Republic/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Dominican Republic/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Dominican Republic/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/Dominican Republic/Local laws and customs.md"
+        },
+        {
+            "title": "Entry Requirements",
+            "file": "ireland/Dominican Republic/Entry Requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Dominican Republic/Embassy contact.md"
         }
     ],
-    "update_date": "2025-04-02T00:00:00"
+    "update_date": "2025-06-06T00:00:00"
 }

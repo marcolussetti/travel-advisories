@@ -20,7 +20,7 @@ Take extreme care with passports and other personal documentation. If a passport
 
 ### **Reporting Crime**
 
-If a victim of crime while in Dominican Republic, report it to the [**local police**](https://www.policianacional.gob.do/contacto/)immediately. Many insurance companies will only compensate loss from theft if travellers can provide a police report.
+If a victim of crime while in Dominican Republic, report it to the [**local police**](https://www.policianacional.gob.do/contacto/) immediately. Many insurance companies will only compensate loss from theft if travellers can provide a police report.
 
 The Tourist Police have English-speaking officers and accept reports in English. The mobile application “[**Politur**](https://politur.gob.do/politur-app/)” is available to report an emergency, locate nearby police stations and speak with a police officer. The app is also available in English.
 

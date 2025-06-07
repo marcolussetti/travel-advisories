@@ -3,8 +3,8 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Uruguay/Overview.md"
+            "title": "Travel to Uruguay overview",
+            "file": "ireland/Uruguay/Travel to Uruguay overview.md"
         },
         {
             "title": "Safety and security",
@@ -19,13 +19,13 @@
             "file": "ireland/Uruguay/Natural disasters and climate.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Uruguay/Additional information.md"
+            "title": "Entry Requirements",
+            "file": "ireland/Uruguay/Entry Requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Uruguay/Embassy contact.md"
         }
     ],
-    "update_date": "2024-06-06T00:00:00"
+    "update_date": "2025-06-06T00:00:00"
 }

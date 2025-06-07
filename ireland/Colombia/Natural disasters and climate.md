@@ -22,7 +22,7 @@ Further information regarding potential evacuation routes can be found [**here.*
 * Be prepared to modify travel arrangements or even evacuate the area on short notice.
 * Wear a mask in areas that are affected by volcanic ash.
 * Notify family and friends of your whereabouts.
-* Register with the Department of Foreign Affairs [**here.**](/en/dfa/overseas-travel/citizens-registration/)
+* Register with the Department of Foreign Affairs and Trade [**here.**](/en/dfa/overseas-travel/citizens-registration/)
 
 ### **Flooding**
 

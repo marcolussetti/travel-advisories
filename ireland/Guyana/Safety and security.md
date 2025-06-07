@@ -1,6 +1,6 @@
 ## Safety and security
 
-Crime levels in Guyana are high, including frequent armed robberies, carjackings and other violent crimes. Be vigilant if walking during the day, especially if alone. Do not walk at night. Always drive with locked doors and closed windows. Avoid displaying any obvious signs of wealth (jewellery etc.) and keep your valuables locked in a hotel safe if possible.
+Crime levels in Guyana are high, including frequent armed robberies, carjackings and other violent crimes. Do not walk in Georgetown during the day or night, especially if alone. Always drive with locked doors and closed windows. Avoid displaying any obvious signs of wealth (jewellery etc.) and keep your valuables locked in a hotel safe if possible. Always ensure that you travel with a licenced taxi company – do not hail taxis off the street. Exercise extra caution around banks and currency exchange bureaus.
 
 The neighbourhoods of Agricola, Buxon, Tiger Bay, Albouystown, and Stabroek Market have been sites of violent attacks and should be avoided.
 

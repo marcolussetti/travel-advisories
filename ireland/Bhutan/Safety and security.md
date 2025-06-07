@@ -12,7 +12,7 @@ Crime remains relatively low in Bhutan but you should take sensible precautions:
 * Don’t carry your passport unless absolutely necessary and leave a copy of your passport (and travel and insurance documents) with family or friends at home.
 * Be careful on a night out and exercise caution.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If you’re a victim of a crime while in Bhutan, report it to the local police immediately.
 
@@ -22,7 +22,7 @@ Bhutan has no rail system and few main roads. If you’re planning to drive, be 
 
 However, tourists rarely drive in Bhutan as their visits must be arranged through tour operators traveling in groups with experienced coach drivers. If you want to drive, bring your international driving permit, request temporary authorisation to drive through your tour agency and make sure you have adequate and appropriate insurance
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If you do hire a vehicle, we advise you not to hand over your passport as a form of security. If you’re allowing your passport to be photocopied, keep it in your sight at all times.
 

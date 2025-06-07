@@ -3,12 +3,16 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Bhutan/Overview.md"
+            "title": "Travel to Bhutan overview",
+            "file": "ireland/Bhutan/Travel to Bhutan overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Bhutan/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Bhutan/Health.md"
         },
         {
             "title": "Local laws and customs",
@@ -19,13 +23,13 @@
             "file": "ireland/Bhutan/Natural disasters and climate.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Bhutan/Additional information.md"
+            "title": "Entry requirements",
+            "file": "ireland/Bhutan/Entry requirements.md"
         },
         {
             "title": "Department contact",
             "file": "ireland/Bhutan/Department contact.md"
         }
     ],
-    "update_date": "2023-11-17T00:00:00"
+    "update_date": "2025-06-06T00:00:00"
 }

@@ -20,7 +20,7 @@ Special entry requirements exist for travel to [Easter Island](https://www.gob.c
 * Book a return ticket ahead of entry to Rapa Nui.
 * Reserve a tourist service that is registered in SERNATUR (Chile’s national tourism service).
 
-For more information on visas and passports, please see the Additional Information tab.
+For more information on visas and passports, please see the Entry Requirements tab.
 
 Visitors to Chile are advised to follow the guidance of national and local authorities and stay fully informed of what is going on by monitoring local news and social media.
 

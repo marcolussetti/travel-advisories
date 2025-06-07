@@ -1,6 +1,6 @@
 ## Embassy contact
 
-We do not have an Embassy in Suriname, please contact Embassy of Ireland Brazil.
+There is no Irish Embassy in Suriname. However, if assistance is needed, please contact the Irish Embassy in Brazil.
 
 Monday to Friday 10:00-13:00
 

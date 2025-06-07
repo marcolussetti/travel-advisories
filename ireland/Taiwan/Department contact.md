@@ -1,5 +1,7 @@
 ## Department contact
 
+As the Department of Foreign Affairs and Trade does not have a presence in Taiwan, we are limited in the help we can offer in an emergency situation.
+
 Please contact our Consular Assistance Unit if you need guidance on the nearest assistance and we will help you as best we can.
 
 Our number is: +353 1408 2527.

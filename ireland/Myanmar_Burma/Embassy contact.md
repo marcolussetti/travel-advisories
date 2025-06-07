@@ -1,5 +1,7 @@
 ## Embassy contact
 
+As Ireland does not have an Embassy or Consulate in Myanmar/Burma, consular assistance is provided via the Embassy of Ireland in Thailand.
+
 After business hours, Irish Citizens seeking emergency consular assistance should contact the Duty Officer number at +662-016-1360.
 
 Please leave a message with your name, contact number and details of the emergency.

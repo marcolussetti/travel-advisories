@@ -3,12 +3,16 @@
     "risk_level": "Do Not Travel",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Myanmar_Burma/Overview.md"
+            "title": "Travel to Myanmar/Burma overview",
+            "file": "ireland/Myanmar_Burma/Travel to Myanmar_Burma overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Myanmar_Burma/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Myanmar_Burma/Health.md"
         },
         {
             "title": "Local laws and customs",
@@ -19,13 +23,13 @@
             "file": "ireland/Myanmar_Burma/Natural disasters and climate.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Myanmar_Burma/Additional information.md"
+            "title": "Entry requirements",
+            "file": "ireland/Myanmar_Burma/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Myanmar_Burma/Embassy contact.md"
         }
     ],
-    "update_date": "2025-03-28T00:00:00"
+    "update_date": "2025-06-06T00:00:00"
 }

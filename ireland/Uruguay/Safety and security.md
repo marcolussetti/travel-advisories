@@ -4,11 +4,11 @@
 
 Most visits to Uruguay are trouble-free but you should be careful of street crime in the capital city, Montevideo. Other parts of Uruguay, including Punta del Este are considered relatively safe, but we still advise you to be alert and take sensible precautions:
 
-### **Petty crime**
+### **Petty Crime**
 
 Street crime exists in Montevideo, but is usually restricted to handbag snatching and pick-pocketing. Muggings and robberies (occasionally armed) do sometimes occur, but increased police patrols in Montevideo’s port and old town areas have helped reduce street crime.
 
-### **Car crime**
+### **Car Crime**
 
 Car crime is common in Montevideo. Always try to park in a well-lit area, and remember to lock your car and avoid leaving luggage, personal documents and cash in the vehicle.
 
@@ -26,7 +26,7 @@ If you want to drive:
 * Use of dipped headlights is mandatory during the day when travelling on major roads outside cities;
 * Keep vehicle doors locked and bags out of sight to prevent opportunistic bag-snatching if stopped at traffic lights.
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If hiring a vehicle, we advise not to hand over your passport as a form of security. If allowing your passport to be photocopied, keep it in sight at all times.
 

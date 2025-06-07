@@ -4,7 +4,7 @@ The Embassy operates an out-of-hours service for Irish citizens requiring emerge
 
 Citizens leaving a message must remember to state their full name, the nature of the problem, current location, and the details of how the Duty Officer can get in contact (e.g. mobile phone number, or the phone number of the hotel/hostel where staying).
 
-Alternatively, contact the Department of Foreign Affairs in Dublin at +353 (0)1 408 2000.
+Alternatively, contact the Department of Foreign Affairs and Trade in Dublin at +353 (0)1 408 2000.
 
 Consular services are provided by appointment only, from 9am to 12pm on weekdays: contact us to make an appointment.
 

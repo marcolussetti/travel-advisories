@@ -1,6 +1,6 @@
 ## Safety and security
 
-### **Border security**
+### **Border Security**
 
 The Panama-Colombia border (Darien Gap) is particularly dangerous. There have been reports of violent crime, kidnapping and murder in this area.
 
@@ -22,17 +22,17 @@ Take care of your personal belongings and avoid obvious displays of wealth. Do n
 
 Avoid using mobile phones on the street.
 
-### **Lost or stolen passports:**
+### **Lost or Stolen passports:**
 
 Take extreme care with passports and other personal documentation. If a passport is lost or stolen, it can take up to three weeks to get a replacement, due to time and distance factors. Getting a replacement passport will be easier if travellers are able to provide a copy of the lost or stolen one, so keep photocopies or scans of passports.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If a victim of crime while in Panama, report it to the local police immediately or dial 911 from any telephone. Many insurance companies will only compensate loss from theft if travellers can provide a police report.
 
 [**Contact us**](/en/colombia/bogota/) at the Embassy or [**Honorary Consulate**](/en/dfa/embassies/) if travellers require assistance.
 
-### **Political situation**
+### **Political Situation**
 
 Political demonstrations may occur at short notice, which can lead to road blocks and occasionally turn violent. Travellers should avoid protests and demonstrations, monitor local media and follow the advice of the local authorities.
 
@@ -47,13 +47,13 @@ Exercise caution if you are planning to drive in Panama. Travellers can use an I
 
 Where possible, plan how you will travel to and from your destination and only use pre-booked taxis. We strongly advise against hailing taxis from the street. In general, taxis in Panama do not use meters, so it is advisable to agree on a fare before getting into the taxi.
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If hiring a vehicle, we advise not to hand over passports as a form of security. If allowing passports to be photocopied, keep them in your sight at all times.
 
 Check that adequate insurance is purchased and read the small print of the vehicle hire contract (particularly any waiver that will come into effect if the vehicle is damaged).
 
-### **Safe swimming**
+### **Safe Swimming**
 
 Be careful when swimming or taking part in water sports on Pacific and Caribbean beaches as in some places there are strong currents, rips and undertows. Panamanian beaches may not have lifeguards on duty.
 
@@ -61,7 +61,7 @@ Swimming in the Bay of Panama is not recommended as it is thought to be polluted
 
 If travellers wish to go swimming, always check the signage before getting into the water. Avoid swimming in water where there are no other swimmers.
 
-### **Natural disasters and climate**
+### **Natural Disasters and Climate**
 
 Earthquakes can occur from time to time in Panama. Tsunamis can also happen. Make sure you know what to do in the event of an earthquake or tsunami.
 

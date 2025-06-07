@@ -3,12 +3,16 @@
     "risk_level": "Avoid Non-Essential Travel",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Venezuela/Overview.md"
+            "title": "Travel to Venezuela overview",
+            "file": "ireland/Venezuela/Travel to Venezuela overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Venezuela/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Venezuela/Health.md"
         },
         {
             "title": "Local laws and customs",
@@ -19,13 +23,13 @@
             "file": "ireland/Venezuela/Natural disasters and climate.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Venezuela/Additional information.md"
+            "title": "Entry Requirements",
+            "file": "ireland/Venezuela/Entry Requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Venezuela/Embassy contact.md"
         }
     ],
-    "update_date": "2025-01-06T00:00:00"
+    "update_date": "2025-06-06T00:00:00"
 }
