@@ -33,9 +33,13 @@ Take precautions to protect yourself from petty crime, including:
 
 ## Laws and cultural differences
 
-### Cannabis
+### Illegal drugs and cannabis
 
-Recreational cannabis is legally available in Canada. [Laws vary depending on the province or territory you are visiting](https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/laws-regulations/provinces-territories.html). It is illegal to take cannabis across the Canadian border without a permit or exemption authorised by Health Canada. Those who attempt to take cannabis out of Canada without the relevant permit face arrest.
+Illegal drugs carry severe penalties. You should expect a long jail sentence and heavy fines for possessing, using or smuggling illegal drugs, including when transiting through the airport.
+
+Recreational cannabis is legally available in Canada. [Laws vary depending on the province or territory you are visiting](https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/laws-regulations/provinces-territories.html). It is illegal to take cannabis across the Canadian border without a permit or exemption authorised by Health Canada. Those who attempt to take cannabis out of Canada without the relevant permit face arrest.
+
+Airports in Canada have excellent technology and security for detecting illegal items, including cannabis. This is also used to scan the baggage of transiting passengers.
 
 See the [Canadian Border Services Agency](http://www.cbsa-asfc.gc.ca/travel-voyage/cannabis-eng.html) website for more information.
 

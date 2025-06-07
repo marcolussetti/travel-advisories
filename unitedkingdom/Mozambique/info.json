@@ -1,11 +1,11 @@
 {
     "name": "Mozambique",
-    "update_reason": "Removal of information about an incident in Maputo on 28 May.",
+    "update_reason": "Updated information on visa requirements (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Mozambique/Warnings and insurance.md",
-            "update_date": "2025-05-30T10:38:19+01:00"
+            "update_date": "2025-06-06T12:25:59+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Mozambique/Getting help.md"
         }
     ],
-    "update_date": "2025-05-30T10:38:19+01:00"
+    "update_date": "2025-06-06T12:25:59+01:00"
 }

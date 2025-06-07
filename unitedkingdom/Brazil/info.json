@@ -1,11 +1,11 @@
 {
     "name": "Brazil",
-    "update_reason": "Information added to the safety and security page about remaining aware of your surroundings in crowded places.",
+    "update_reason": "Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport. Updated information on scams ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Brazil/Warnings and insurance.md",
-            "update_date": "2025-02-28T16:22:16+00:00"
+            "update_date": "2025-06-06T10:50:28+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Brazil/Getting help.md"
         }
     ],
-    "update_date": "2025-02-28T16:22:16+00:00"
+    "update_date": "2025-06-06T10:50:28+01:00"
 }

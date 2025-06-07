@@ -72,9 +72,13 @@ You can get on-the-spot fines for littering, jay walking or spitting.
 
 It is illegal to import and re-export elephant ivory and its products, including tourist souvenirs. You could get a fine or prison sentence.
 
-### Illegal drugs and prison sentences
+### Illegal drugs
 
-Do not become involved with illegal drugs of any kind. This includes cannabidiol (CBD). Possession of drugs can lead to a prison sentence.
+Illegal drugs, including cannabis and cannabidiol (CBD), carry severe penalties.
+
+You should expect a long jail sentence and heavy fines for possessing, using or smuggling illegal drugs, including cannabis, when transiting through the airport.
+
+Airports in Hong Kong have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
 
 ### Taking photographs in secure areas
 

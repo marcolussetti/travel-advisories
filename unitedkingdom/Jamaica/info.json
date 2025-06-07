@@ -1,11 +1,11 @@
 {
     "name": "Jamaica",
-    "update_reason": "Addition of information about Zones of Special Operation and updated information on crime ('Safety and security' page).",
+    "update_reason": "Addition of information on hurricane season (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Jamaica/Warnings and insurance.md",
-            "update_date": "2025-02-14T13:13:27+00:00"
+            "update_date": "2025-06-06T10:48:07+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Jamaica/Getting help.md"
         }
     ],
-    "update_date": "2025-02-14T13:13:27+00:00"
+    "update_date": "2025-06-06T10:48:07+01:00"
 }

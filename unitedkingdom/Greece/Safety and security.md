@@ -76,17 +76,13 @@ The courts are likely to impose a heavy fine or a prison sentence if they judge 
 
 ### Smoking bans
 
-It’s illegal to smoke in indoor public places, including shopping malls and transport hubs. You could get a fine of up to 500 euros.
+It’s illegal to smoke in indoor public places. You could get a fine of up to 500 euros.
 
 ### Illegal drugs
 
 Illegal drugs, including cannabis, carry severe penalties. You should expect a long jail sentence and heavy fines for possessing, using or smuggling illegal drugs, including when transiting through  airports.
 
 Airports in Greece have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
-
-Possession of even small quantities of illegal drugs can lead to a long prison sentence.
-
-Nitrous oxide is illegal to buy or sell for recreational use. You could be arrested or fined.
 
 ### Public transport fines
 
@@ -136,7 +132,7 @@ Obey warning signs and flags on beaches. Follow instructions from lifeguards and
 
 ### Quad biking and mopeds
 
-Quad biking is an extreme sport and carries the risk of serious injury or death. You need specific travel insurance to cover quad biking. Always read the details of your insurance cover – especially the small print and exclusions on your policy.
+Quad biking carries the risk of serious injury or death. You need specific travel insurance to cover quad biking, it is defined as an extreme sport and excluded on many policies. Always read the details of your insurance cover.
 
 Make sure you get full instructions and training before your activity.
 
@@ -145,6 +141,27 @@ Insurance sold by the hire company usually only provides third-party insurance. 
 If you hire a moped, you need a valid driving licence with at least category A1 – ‘light motorcycle’. Choose a category in accordance with your driving licence and age. Category P, which is valid in the UK for driving mopeds up to 50cc, is not valid in Greece.
 
 Make sure the vehicle is in good condition. Drivers and passengers must wear helmets before operating quad bikes and mopeds. Failure to do so may invalidate your insurance. If police stop you, they will fine you and take your licence.
+
+### Hiking and exploring nature
+
+Take extra care when planning a hike or walk, especially during higher temperatures than you are used to. Trails often lack shade and the quality of route markings can vary.
+
+Ensure that you:
+
+* plan your route beforehand, and consider your limitations in distance and difficulty
+* check weather forecasts and avoid hiking during the peak hours of sun; pack a hat, sunscreen and plenty of water
+* wear appropriate footwear for uneven terrain and consider taking a map, GPS and a fully charged phone
+* avoid hiking alone if you can, and always tell someone where you are going and the route you will take
+
+Do not light fires as it is both dangerous and illegal due to the high risk of wildfires.
+
+Make sure your insurance covers you for extra costs such as mountain rescue service and helicopter evacuation.
+
+If an accident happens or if you become lost, call 112 for the emergency services.
+
+### Camping and Motorhome travel
+
+Greece has introduced regulations prohibiting camping in tents and the parking of trailers, semi-trailers, camper vans and motorhomes at archaeological sites, seashores, beaches, edges of public forests and in general public areas. Ensure that you used licensed campsites to avoid fines.
 
 ## Transport risks
 

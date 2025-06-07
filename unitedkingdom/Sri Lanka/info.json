@@ -1,11 +1,11 @@
 {
     "name": "Sri Lanka",
-    "update_reason": "Updated information about risks from chikungunya which is spread through mosquito bites ('Health' page).",
+    "update_reason": "Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Sri Lanka/Warnings and insurance.md",
-            "update_date": "2025-05-23T11:06:47+01:00"
+            "update_date": "2025-06-06T11:50:07+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Sri Lanka/Getting help.md"
         }
     ],
-    "update_date": "2025-05-23T11:06:47+01:00"
+    "update_date": "2025-06-06T11:50:07+01:00"
 }

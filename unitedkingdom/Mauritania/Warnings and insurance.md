@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   7 June 2025
 
 Updated:
-:   24 January 2025
+:   6 June 2025
 
 Latest update:
-:   Additional information about the introduction of e-visas to enter Mauritania (‘Entry requirements’ page).
+:   Updated information on visa requirements ('Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/675319b87e5323915d6a0428/FCDO__TA__027_-_Mauritania_Travel_Advice_Ed6__WEB_.jpg)
 

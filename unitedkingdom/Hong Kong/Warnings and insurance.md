@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   7 June 2025
 
 Updated:
-:   25 October 2024
+:   6 June 2025
 
 Latest update:
-:   This travel advice was reviewed for accuracy and there are no significant updates.
+:   Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport ('Safety and security' page).
 
 This travel advice covers the Hong Kong Special Administrative Region (SAR). For mainland China, see [travel advice for China](https://www.gov.uk/foreign-travel-advice/china) and for Macao SAR, see [Macao travel advice](https://www.gov.uk/foreign-travel-advice/macao).
 

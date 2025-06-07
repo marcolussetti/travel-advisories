@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   7 June 2025
 
 Updated:
-:   28 February 2025
+:   6 June 2025
 
 Latest update:
-:   Information added to the safety and security page about remaining aware of your surroundings in crowded places.
+:   Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport. Updated information on scams ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/661e86507469198185bd3e6f/FCDO__TA__092_-_Brazil_Travel_Advice_Ed3__WEB_.jpg)
 

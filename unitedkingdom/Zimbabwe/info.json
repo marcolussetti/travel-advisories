@@ -1,11 +1,11 @@
 {
     "name": "Zimbabwe",
-    "update_reason": "Removal of information on possible demonstrations on 31 March ('Safety and security' page).",
+    "update_reason": "Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Zimbabwe/Warnings and insurance.md",
-            "update_date": "2025-04-01T12:51:09+01:00"
+            "update_date": "2025-06-06T11:05:17+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Zimbabwe/Getting help.md"
         }
     ],
-    "update_date": "2025-04-01T12:51:09+01:00"
+    "update_date": "2025-06-06T11:05:17+01:00"
 }

@@ -1,13 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   7 June 2025
 
 Updated:
-:   14 February 2025
+:   6 June 2025
 
 Latest update:
-:   Addition of information about Zones of Special Operation and updated information on crime ('Safety and security' page).
+:   Addition of information on hurricane season (‘Warnings and insurance’ page).
+
+## Hurricane season
+
+Hurricane season runs from June to November. Stay informed by monitoring local and international weather updates, including from the US National Hurricane Center, and follow the guidance of local authorities, especially in the event of evacuation orders. See ‘Extreme weather and natural disasters’ on the [‘Safety and security’ page](https://www.gov.uk/foreign-travel-advice/jamaica/safety-and-security).
 
 ## Before you travel
 

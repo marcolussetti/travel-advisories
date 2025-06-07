@@ -77,6 +77,8 @@ Bank and credit card scams are common, including card cloning from ATMs and in s
 
 If you withdraw cash at an ATM and the cash has pink marks on it, speak to the bank (or police) straight away to get it changed. It may have been marked as damaged or counterfeit.
 
+Dating apps have been used by criminals to target foreign nationals in Brazil, leading to spiking of drinks, robbery and theft from bank accounts. Exercise caution when engaging with such apps, buy and keep hold of your own drinks, share your plans with friends or family, and be vigilant of your belongings including your mobile phone.
+
 ### Sexual assault and drink spiking
 
 Rape and other sexual offences against tourists are not common, but there have been attacks against both women and men. Some have involved date rape drugs. Buy your own drinks and keep them in sight.
@@ -117,9 +119,13 @@ Always carry a copy of your passport and another form of photo ID if you have on
 
 ### Illegal drugs and trafficking scams
 
-Drug trafficking is widespread in Brazil. It is illegal and the penalties are severe.
+Drug trafficking is widespread in Brazil. Bringing drugs in to or out of Brazil in any quantity is illegal and the penalties are severe.
 
-British nationals have been targeted through email scams where fraudsters offer a financial reward for travelling to Brazil, where they are then asked to carry items out of Brazil, including to the UK. These items are often illegal drugs. Anyone caught will face detention for drug trafficking, regardless of the circumstances.
+You should expect a long jail sentence and heavy fines for possessing, using or smuggling illegal drugs, including when transiting through the airport.
+
+British nationals have been targeted through email scams where fraudsters offer a financial reward for travelling to Brazil, where they are then asked to carry items in to or out of Brazil, including to the UK. These items are often illegal drugs. Anyone caught will face detention for drug trafficking, regardless of the circumstances.
+
+Airports in Brazil have excellent technology and security for detecting illegal items, including cannabis. This is also used to scan the baggage of transiting passengers.
 
 ### Electronic smoking devices
 

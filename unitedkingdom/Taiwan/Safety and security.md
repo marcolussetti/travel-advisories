@@ -18,7 +18,11 @@ Always carry ID such as a passport. The police will usually accept a printed cop
 
 ### Illegal drugs and penalties
 
-Avoid any involvement with illegal drugs, including cannabis, while in Taiwan. Drug laws are stricter than in the UK. Legal definitions of supply or trafficking may be different from in the UK, including the quantities of drugs involved. If you’re found guilty of smuggling, trafficking, possession or use of illegal narcotics, you can expect to get a severe prison sentence or, in some cases, the death penalty.
+Avoid any involvement with illegal drugs, including cannabis, while in Taiwan. Drug laws are stricter than in the UK. Legal definitions of supply or trafficking may be different from in the UK, including the quantities of drugs involved.
+
+If you’re found guilty of smuggling, trafficking, possession or use of illegal narcotics, including when transiting through the airport, you should expect to get a severe prison sentence or, in some cases, the death penalty.
+
+Airports in Taiwan have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
 
 ### LGBT+ travellers
 

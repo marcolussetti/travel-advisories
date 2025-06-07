@@ -3,6 +3,8 @@
 This section has safety advice for regions of Brazil. It only covers regions where FCDO has specific advice.
 You should also read [FCDO’s overall travel advice](/foreign-travel-advice/brazil) and [safety and security advice](/foreign-travel-advice/brazil/safety-and-security).
 
+You should monitor local media and follow the guidance of local authorities when travelling in remote areas.
+
 ## Amazonas State
 
 ### River travel

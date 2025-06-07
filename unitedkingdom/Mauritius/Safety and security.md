@@ -36,9 +36,13 @@ Police may occasionally ask to see your ID, such as your passport or driving lic
 
 It’s illegal to possess or import cigarette papers.
 
-### Illegal drugs and prison sentences
+### Illegal drugs
 
-There are severe penalties for all drug offences. Pack all luggage yourself and do not carry anything through customs for anyone else.
+Illegal drugs, including cannabis, carry severe penalties. Pack all luggage yourself and do not carry anything through customs for anyone else.
+
+You should expect a long jail sentence and heavy fines for possessing, using or smuggling illegal drugs, including when transiting through the airport.
+
+Airports in Mauritius have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
 
 If you are found with any drugs, it’s unlikely you’ll be bailed, regardless of the type of drug. Prosecutions take a year or more to come to court, and you’ll be detained until your trial.
 

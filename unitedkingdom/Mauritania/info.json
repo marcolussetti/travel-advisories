@@ -1,11 +1,11 @@
 {
     "name": "Mauritania",
-    "update_reason": "Additional information about the introduction of e-visas to enter Mauritania (\u2018Entry requirements\u2019 page).",
+    "update_reason": "Updated information on visa requirements ('Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Mauritania/Warnings and insurance.md",
-            "update_date": "2025-01-24T14:57:08+00:00"
+            "update_date": "2025-06-06T10:13:55+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Mauritania/Getting help.md"
         }
     ],
-    "update_date": "2025-01-24T14:57:08+00:00"
+    "update_date": "2025-06-06T10:13:55+01:00"
 }

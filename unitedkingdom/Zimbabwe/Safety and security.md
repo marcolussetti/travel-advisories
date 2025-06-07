@@ -54,9 +54,11 @@ Carry a copy of your passport’s photo page and your visa at all times. Leave y
 
 Zimbabwean residents must carry their residence card.
 
-### Illegal drugs and prison sentences
+### Illegal drugs
 
-Zimbabwean laws on the possession, use or trafficking of illegal drugs are strict and carry heavy fines and prison sentences.
+Illegal drugs, including cannabis, carry severe penalties. You should expect a long jail sentence and heavy fines for possessing, using or smuggling illegal drugs, including when transiting through the airport.
+
+Airports in Zimbabwe have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
 
 ### Money
 

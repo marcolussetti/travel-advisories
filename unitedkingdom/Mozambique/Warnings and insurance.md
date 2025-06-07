@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   31 May 2025
+:   7 June 2025
 
 Updated:
-:   30 May 2025
+:   6 June 2025
 
 Latest update:
-:   Removal of information about an incident in Maputo on 28 May.
+:   Updated information on visa requirements (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/681395d5b0ef2c9850525463/FCDO__TA__028_-_Mozambique_Travel_Advice_Ed10__WEB_.jpg)
 

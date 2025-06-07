@@ -88,6 +88,12 @@ Alcohol is not usually available on religious holidays. Drinking in public on th
 
 Police could fine you if you ignore ‘no smoking’ signs in certain public areas.
 
+### Illegal drugs
+
+Illegal drugs, including cannabis, carry severe penalties. You should expect a long jail sentence and heavy fines for possessing, using or smuggling illegal drugs, including when transiting through the airport.
+
+Airports in Sri Lanka use technology to detect illegal items. This is also used to scan the baggage of transiting passengers.
+
 ### Detention and prison sentences
 
 There are severe penalties for drug offences, terrorism and all other serious crimes. The authorities could hold you without charge indefinitely. If convicted, you may face a lengthy prison sentence.

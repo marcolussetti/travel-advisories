@@ -16,7 +16,7 @@ You will be denied entry if you do not have a valid travel document or try to us
 
 From 5 January 2025, it is no longer possible to obtain a visa on arrival in Mauritania. Before you travel, you must apply for an [e-visa](https://anrpts.gov.mr/visa/requestvisa) online via the website of the Mauritanian National Agency for the Population Register and Secure Titles (Agence Nationale du Registre des Populations et des Titres Sécurisés), who can be contacted via email ([contact@anrpts.gov.mr](mailto:contact@anrpts.gov.mr)) if you face any technical difficulties with your application.
 
-E-visa fees must be paid on arrival in Mauritania in exact cash in Euros or US Dollars. Change and receipts are not given. For information on visa lengths and fees, [read guidance on the Mauritanian government’s website](https://www.diplomatie.gov.mr/fr/node/50) (in French).
+E-visa fees must be paid on arrival in Mauritania in exact cash in Euros or US dollars. Change and receipts are not given. You should also print a copy of the e-visa and be ready to provide a copy on arrival in country. For information on visa lengths and fees, [read guidance on the Mauritanian government’s website](https://www.diplomatie.gov.mr/fr/node/50) (in French).
 
 You should apply for an e-visa well in advance of your anticipated travel date to ensure that it is issued on time by the Mauritanian authorities.
 

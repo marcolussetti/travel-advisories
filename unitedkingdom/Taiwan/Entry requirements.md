@@ -14,7 +14,7 @@ You will be denied entry if you do not have a valid travel document or try to us
 
 ## Visa requirements
 
-You visit Taiwan without a visa for up to 90 days. You can extend this by a further 90 days once you have arrived in Taiwan. You can get more information on [entering Taiwan without a visa (‘visa-exempt entry’)](https://www.boca.gov.tw/cp-149-4486-7785a-2.html) from the Taiwan Bureau of Consular Affairs. This applies if you travel:
+You can visit Taiwan without a visa for up to 90 days. You can extend this by a further 90 days once you have arrived in Taiwan. You can get more information on [entering Taiwan without a visa (‘visa-exempt entry’)](https://www.boca.gov.tw/cp-149-4486-7785a-2.html) from the Taiwan Bureau of Consular Affairs. This applies if you travel:
 
 * as a tourist
 * to visit family or friends
