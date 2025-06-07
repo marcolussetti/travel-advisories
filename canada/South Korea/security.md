@@ -2,14 +2,6 @@
 
 ## Safety and security
 
-### Presidential elections
-
-Due to the impeachment of the former president, presidential elections will take place on June 3, 2025.
-
-Demonstrations could occur before, during and after the elections.
-
-[More information on demonstrations](#demonstrations)
-
 ### Tensions on the Korean Peninsula
 
 Tensions on the Korean Peninsula could escalate with little notice and the security situation could deteriorate suddenly. Tensions may increase before, during and after North Korean nuclear and missile tests, military exercises or as the result of incidents or military activities at or near the inter-Korean border.

@@ -2,14 +2,6 @@
 
 ## Natural disasters and climate
 
-### Flooding in the centre of the country
-
-Since May 28, 2025, heavy rains have caused severe flooding in the centre of the country, including in the Praid salt mines.
-
-Some roads may be impassable or closed. More rain is expected in the hours and days to come and could further disrupt essential services.
-
-[For more information on flooding and landslides.](#flooding)
-
 ### Seismic activity
 
 Romania is located in an active seismic zone.

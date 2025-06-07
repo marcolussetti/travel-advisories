@@ -33,29 +33,30 @@ While violent incidents have not typically occurred in areas frequented by touri
 * Always be vigilant and aware of your surroundings
 * Do not touch or move suspicious items or unattended packages
 
-### Heightened threat of terrorism
+### Terrorism
 
-There is a heightened threat of terrorism in Sweden.
-
-Terrorist attacks could occur at any time.
+There is a threat of terrorism in Europe. Terrorists have carried out attacks in several European cities and further attacks are likely.
 
 Targets could include:
 
-* government buildings, including schools
+* government buildings
+* schools, including universities
 * places of worship
 * airports and other transportation hubs and networks
 * public areas such as tourist attractions, restaurants, bars, coffee shops, shopping centres, markets, hotels and other sites frequented by foreigners
 
-Always be aware of your surroundings when in public places. Be particularly vigilant if attending:
+Always be aware of your surroundings when in public places.
+
+Be particular vigilant during:
 
 * sporting events
 * religious holidays
 * major political events, such as demonstrations
 * other public celebrations
 
-Terrorists have used such occasions to mount attacks.
+Terrorists may use such occasions to mount attacks.
 
-The Government of Sweden maintains a public alert system on terrorism. On August 17, 2023, the Swedish Security Service (SAPO) raised the national terrorist threat level from 3 (elevated) to 4 (high) on a 5-step scale. The threat level is based on the assessment that the threat posed by violent extremists will remain heightened. The Government communicates threat level changes online and through local media.
+The Government of Sweden maintains a public alert system on terrorism. The Swedish Security Service’s (SAPO) current threat level is 3, “elevated threat,” on a 5-step scale. The Government of Sweden communicates changes to the threat level online and through local media.
 
 [Local terrorism threat level](https://www.krisinformation.se/en/hazards-and-risks/terrorism#:~:text=Assessment%20of%20terrorist%20threat%20level,be%204%20out%20of%205.) –  Swedish Crisis Information
 
