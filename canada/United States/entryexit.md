@@ -82,12 +82,19 @@ Customs officials may ask you to provide your address while in the United States
 
 ### Dual citizens
 
+#### Dual Canadian-American citizenship
+
 Although U.S. authorities don’t formally require dual nationals to carry both a U.S. and a Canadian passport, carrying both documents as proof of citizenship may facilitate your entry into the United States and your return to Canada.
+
+#### Canadians with dual citizenship from a third country
+
+As of June 9, 2025, the U.S. is limiting the entry of nationals from specific countries under the proclamation “Restricting the Entry of Foreign Nationals to Protect the United States from Foreign Terrorists and Other National Security and Public Safety Threats”. Canadian citizens, including dual citizens, travelling on a Canadian passport are not affected by this proclamation.
 
 #### Useful links
 
 * [Travelling as a dual citizen](https://travel.gc.ca/travelling/documents/dual-citizenship)
 * [Dual Nationality](https://travel.state.gov/content/travel/en/legal/travel-legal-considerations/Relinquishing-US-Nationality/Dual-Nationality.html) – U.S. Department of State, Bureau of Consular Affairs
+* [Proclamation](https://www.whitehouse.gov/presidential-actions/2025/06/restricting-the-entry-of-foreign-nationals-to-protect-the-united-states-from-foreign-terrorists-and-other-national-security-and-public-safety-threats/) – The White House
 
 ### Visas
 
@@ -108,7 +115,12 @@ Canadian permanent residents may need a non-immigrant visa to enter the United
 
 You must obtain this visa from the U.S. authorities before entering the country. You must also have a valid passport from your country of citizenship.
 
-[Cross U.S. Borders](https://www.dhs.gov/how-do-i/cross-us-borders#2) – U.S. Customs and Border Protection
+As of June 9, 2025, the U.S. proclamation “Restricting the Entry of Foreign Nationals to Protect the United States from Foreign Terrorists and Other National Security and Public Safety Threats” is in effect. It may impact your ability to obtain a visa if your country of citizenship is designated in the proclamation.
+
+#### Useful links
+
+* [Cross U.S. Borders](https://www.dhs.gov/how-do-i/cross-us-borders#2) – U.S. Customs and Border Protection
+* [Proclamation](https://www.whitehouse.gov/presidential-actions/2025/06/restricting-the-entry-of-foreign-nationals-to-protect-the-united-states-from-foreign-terrorists-and-other-national-security-and-public-safety-threats/) – The White House
 
 #### Visa Waiver Program
 
@@ -166,19 +178,11 @@ There is no set period that you must wait to re-enter the United States after th
 
 ### Biometrics
 
-Upon entry into the United States, non-U.S. citizens must provide biometrics, such as digital fingerprints and a photograph.
-
-Most Canadian citizens are exempt from this requirement. However, it will apply to Canadian citizens who:
-
-* need a visa or a waiver of ineligibility
-* must obtain an I-94 Arrival/Departure Record form to document dates of entry and exit from the country
-
-Random screenings of exempt Canadians have occurred at border crossings and airports. If you feel that your information has been wrongfully collected, you can address the issue directly with the U.S. Department of Homeland Security.
+Most ports of entry to the United States use facial recognition technology to verify your identity. In addition, digital fingerprints are required for some travellers.
 
 #### Useful links
 
-* [Biometrics](https://www.dhs.gov/biometrics) – U.S. Department of Homeland Security
-* [Arrival/Departure Forms: I-94 and I-94W](https://www.cbp.gov/travel/international-visitors/i-94) – U.S. Customs and Border Protection
+* [Biometrics](https://www.cbp.gov/travel/biometrics) – U.S. Customs and Border Protection
 
 ### Electronic devices
 
