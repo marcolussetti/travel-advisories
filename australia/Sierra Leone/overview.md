@@ -2,7 +2,9 @@
 
 Latest update
 
-We continue to advise exercise a high degree of caution in Sierra Leone. Public protests and demonstrations can turn violent with little or no warning. Avoid demonstrations, protests and areas where large gatherings are taking place. Follow the instructions of local authorities and check local media for updates. Power and water shortages occur regularly. Ensure that you maintain enough food, water and emergency supplies. There's currently an outbreak of Mpox in parts of Africa, including Sierra Leone.  
+The Sierra Leone government has introduced additional health screening measures in response to an increase in Mpox, including temperature checks on arrival into and while travelling in Sierra Leone. Maintain strict hygiene standards. Avoid physical contact with anyone who has Mpox (see 'Health').   
+  
+We continue to advise exercise a high degree of caution in Sierra Leone. Public protests and demonstrations can turn violent with little or no warning. Avoid demonstrations, protests and areas where large gatherings are taking place. Follow the instructions of local authorities and check local media for updates (see 'Safety').   
   
 The Australian High Commission in Accra currently has very limited capacity to provide consular assistance in Sierra Leone.
 
@@ -35,7 +37,7 @@ Full travel advice: [Safety](#safety)
 
 ### Health
 
-* There's currently an outbreak of Mpox in parts of Africa. Mpox can be fatal. Maintain strict hygiene standards and avoid physical contact with anyone who has mpox (see ‘Health risks’).
+* There's currently an outbreak of Mpox in parts of Africa. Mpox can be fatal. Additional health screening measures are in place across Sierra Leone due to an increase in cases. Follow all directions by local authorities, maintain strict hygiene standards and avoid physical contact with anyone who has Mpox (see ‘Health risks’).
 * Lassa fever is a risk in West African countries. It passes to humans via contact with food or household items contaminated with rodent droppings. Avoid contact with rodents. Ensure food is well-cooked and covered.
 * Yellow fever, malaria and other insect-borne diseases are common. Ensure your accommodation is insect-proof. Use insect repellent. Get vaccinated before you travel and consider taking anti-malarial medication.
 * The HIV/AIDS infection rate is high. Take precautions if you engage in high-risk activities.
@@ -59,6 +61,7 @@ Full travel advice: [Local laws](#local-laws)
 
 * Entry and exit conditions can change at short notice. You should contact the nearest embassy or consulate of Sierra Leone for the latest details.
 * You need a visa to enter Sierra Leone.
+* Additional health screening measures are in place due to the increase in cases of Mpox on arrival into and while travelling in Sierra Leone. Follow all directions by local authorities.
 * All inbound and outbound travellers from international airports in Sierra Leone are required to pay a US$25 airport security fee prior to travelling. Payment can be made [online](https://securipass.sl), via Orange Money, Afrimoney, at any branch of United Bank for Africa (UBA) or Sierra Leone Commercial Bank (SLCB).
 * All transport options between Lungi International Airport and Freetown carry risks, including overcrowding, poor maintenance and crime. Risks increase after dark. If you arrive at night, stay overnight at Lungi and transfer to Freetown the next morning. Arrange airport accommodation and transfers before you travel.
 * Road travel can be dangerous, especially at night. Always carry ID, vehicle registration and ownership papers. Keep your windows up, and doors locked, even when moving.

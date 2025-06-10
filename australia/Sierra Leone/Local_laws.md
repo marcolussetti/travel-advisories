@@ -55,6 +55,6 @@ If you enter Sierra Leone with a Sierra Leonean passport, local authorities will
 
 Standards of dress and behaviour are conservative, particularly for women. Avoid revealing clothing. Seek permission from locals before photographing them. Take care not to offend.
 
-The Islamic holiday month of [Ramadan](/before-you-go/major-events "Going overseas for a major event") is observed in Sierra Leone. Respect religious and cultural customs and laws at this time.
+The Islamic holy month of [Ramadan](/before-you-go/major-events "Going overseas for a major event") is observed in Sierra Leone. Respect religious and cultural customs and laws at this time.
 
 Avoid eating, drinking and smoking in public or in front of people who are fasting.

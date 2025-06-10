@@ -50,9 +50,11 @@ Carry a copy of your prescription or a letter from your doctor stating:
 
 #### Health risks
 
-#### Mpox (formerly known as Monkeypox)
+#### Mpox
 
-The World Health Organisation (WHO) has declared the current Mpox outbreak in parts of Africa as a global public health emergency. It has now spread across a number of countries in Africa, including Sierra Leone.  
+The World Health Organisation (WHO) has declared the current Mpox outbreak in parts of Africa as a global public health emergency. It has now spread across a number of countries in Africa, including Sierra Leone.
+
+The Sierra Leone government has introduced additional health screening measures, including temperature screening on arrival and across Sierra Leone, due to an increase in cases.   
   
 Mpox can be transmitted to humans through physical contact with an infectious person, infected animals or contaminated materials.  
   
@@ -142,8 +144,6 @@ Get medical advice if you have a fever or diarrhoea.
 * [Sierra Leone](https://wwwnc.cdc.gov/travel/destinations/traveler/none/sierra-leone) (US Center for Disease Control)
 
 #### Medical care
-
-#### Medical facilities
 
 Medical facilities are extremely limited in Sierra Leone, and only offer basic services. Ambulances are not reliable in Freetown, and are unavailable in most of the country. Paramedics may not have training and often have little or no equipment.  
   

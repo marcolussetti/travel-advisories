@@ -12,6 +12,8 @@ Entry and exit conditions can change at short notice. Contact the nearest [emba
 
 #### Entry to Sierra Leone
 
+The Sierra Leone government has introduced additional health screening measures, including temperature screening upon arrival and across Sierra Leone, due to an increase in cases.   
+  
 All inbound and outbound travellers from internationalairports in Sierra Leone are required to pay a US$25 airport security fee prior to travelling. Payment can be made [online](https://securipass.sl), via Orange Money, Afrimoney, at any branch of United Bank for Africa (UBA) or Sierra Leone Commercial Bank (SLCB).
 
 Border closures are possible with short notice.
