@@ -3,12 +3,16 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Canada/Overview.md"
+            "title": "Travel to Canada overview",
+            "file": "ireland/Canada/Travel to Canada overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Canada/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Canada/Health.md"
         },
         {
             "title": "Local laws and customs",
@@ -19,13 +23,13 @@
             "file": "ireland/Canada/Natural disasters and climate.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Canada/Additional information.md"
+            "title": "Entry Requirements",
+            "file": "ireland/Canada/Entry Requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Canada/Embassy contact.md"
         }
     ],
-    "update_date": "2025-06-03T00:00:00"
+    "update_date": "2025-06-09T00:00:00"
 }

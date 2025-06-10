@@ -3,12 +3,16 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Cambodia/Overview.md"
+            "title": "Travel to Cambodia overview",
+            "file": "ireland/Cambodia/Travel to Cambodia overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Cambodia/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Cambodia/Health.md"
         },
         {
             "title": "Local laws and customs",
@@ -19,13 +23,13 @@
             "file": "ireland/Cambodia/Natural disasters and climate.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Cambodia/Additional information.md"
+            "title": "Entry requirements",
+            "file": "ireland/Cambodia/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Cambodia/Embassy contact.md"
         }
     ],
-    "update_date": "2025-03-04T00:00:00"
+    "update_date": "2025-06-09T00:00:00"
 }

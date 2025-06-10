@@ -1,6 +1,8 @@
 ## Embassy contact
 
-If you need urgent assistance outside of working hours Monday to Friday, you can contact the Department of Foreign Affairs in Dublin on +353 1 408 2000.
+As there is no Irish Embassy in the Bahamas, we are limited in the help we can offer you in an emergency. However, if you need assistance, you can contact the Irish Embassy in [**Ottawa**](https://www.ireland.ie/en/canada/ottawa/)**.**
+
+If you need urgent assistance outside of working hours Monday to Friday, you can contact the Department of Foreign Affairs and Trade in Dublin on +353 1 408 2000.
 
 If you need urgent assistance during the weekend or on a public holiday, contact the Embassy and leave a message.
 

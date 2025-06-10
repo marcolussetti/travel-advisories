@@ -1,6 +1,6 @@
 ## Embassy contact
 
-We do not have an Embassy in Côte d'Ivoire, please contact Embassy of Ireland Nigeria.
+As Ireland does not have an Embassy or Consulate in the Côte d’Ivoire, consular assistance is provided via the [Embassy of Ireland in Nigeria](https://www.ireland.ie/en/nigeria/abuja/).
 
 If urgent assistance is needed, citizens can contact the Department of Foreign Affairs in Dublin on +353 1 408 2000.
 

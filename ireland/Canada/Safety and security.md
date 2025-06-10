@@ -14,11 +14,11 @@ Crime remains relatively low in Canada but you should take sensible precautions:
 * Avoid dark and unlit streets and stairways, and arrange to be picked up or dropped off as close to your hotel or apartment entrance as possible.
 * Keep a close eye on personal belongings and hold on to them in public places such as internet cafés, train and bus stations.
 
-### **Petty theft**
+### **Petty Theft**
 
 As with any country, crimes such as mugging, bag-snatching and pickpocketing are not uncommon in Canadian cities and towns. However, most visits to Canada are trouble-free.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If a victim of a crime while in Canada, report it to the local police immediately and get a police report. A police report is needed if applying for a replacement passport or making an insurance claim. If help or consular assistance is needed, please contact us at the nearest Embassy or Consulate.
 
@@ -32,7 +32,7 @@ If driving:
 * Driving under the influence of alcohol or drugs is against the law and you risk being detained, fined or banned from driving if caught
 * Keep vehicle doors locked and bags kept out of sight to prevent opportunistic bag-snatching if stopped at traffic lights
 
-### **Vehicle hire**
+### **Vehicle Hire**
 
 If hiring a vehicle, we advise you not to hand over your passport as a form of security. If allowing your passport to be photocopied, keep it in sight at all times.
 

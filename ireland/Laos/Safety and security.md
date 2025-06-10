@@ -20,7 +20,7 @@ Avoid these areas if possible. If travelling to these areas do not venture off w
 * Bag snatchers on motorbikes are also a problem;
 * When travelling by air, bus or train, stay vigilant against petty theft, particularly in busy rail and bus stations and in crowded airports.
 
-### **Lost or stolen passports**
+### **Lost or Stolen Passport**
 
 Do not carry your passport unless absolutely necessary and do not leave your passport as a deposit or guarantee when hiring a motorcycle.
 
@@ -28,15 +28,15 @@ If your passport is lost or stolen, report this to the Police immediately and ob
 
 If in Laos and your passport is lost or stolen please contact the Embassy of Ireland in Hanoi for assistance.
 
-### **Contaminated food or drink**
+### **Contaminated Food or Drink**
 
 There have been a number of incidents where tourists have had their drinks or food drugged. Some restaurants in popular tourist destinations offer drug-laced food and drink, which has led to the victim being assaulted. These products can contain harmful substances and consuming them can result in serious injury or even death. Never leave food or drink unattended.
 
-### **Date rape drugs**
+### **Date Rape Drugs**
 
 There have been incidents of drug-related rapes reported by foreigners. Be careful about taking drinks from strangers and be wary at bars, clubs, restaurants and parties.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If a victim of a crime while in Laos, report it to the local police immediately.
 
@@ -45,8 +45,6 @@ Police: 1191, 241162, 241163, 241164, and 212703.
 Tourist Police: 021-251-128
 
 Visitors can also contact the [**Irish Embassy in Hanoi**](https://www.ireland.ie/en/vietnam/) if you need our assistance is required.
-
-### **Transport**
 
 ### **Public Transport**
 
@@ -69,15 +67,13 @@ If involved in a road accident you will have to pay compensation for third party
 
 Visitors can report road accidents to a dedicated police number +856 20 5666 9090.
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If hiring a vehicle, we advise not to hand over your passport as a form of security. If allowing your passport to be photocopied, keep it in your sight at all times.
 
 Check that you have adequate insurance and read the small print of the vehicle hire contract (particularly any waiver that will come into effect if the vehicle is damaged).
 
-### **Water safety**
-
-### **Activities**
+### **Water Safety**
 
 Be extremely cautious if planning any river-based sporting activities, particularly in Vang Vieng. Tourists have been killed or seriously injured while taking part in activities such as tubing or jumping into the river. Visitors should carefully consider their personal safety and take appropriate precautions.
 
@@ -85,7 +81,7 @@ Be extremely cautious if planning any river-based sporting activities, particula
 
 Travel on the Mekong River by speedboat is dangerous, especially during the dry season, and we advise visitors to wear life-vests and crash helmets. River levels can vary during the year and the presence of debris in the river can make diving or jumping into the river dangerous.
 
-### **Health and safety requirements**
+### **Health and Safety Requirements**
 
 Visitors should also be aware that the health and safety requirements in Laos are nowhere near as stringent as in Ireland, and are often neither observed nor enforced. Therefore, the risk of a serious or fatal accident in the course of these activities is much higher than it would be in Ireland.
 

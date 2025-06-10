@@ -26,7 +26,7 @@ Visitors should take sensible precautions.
 * Beware of strangers offering drinks or confectionery that may be spiked.
 * Always be careful about your personal safety. Get advice from local contacts, avoid travel off the beaten track and always leave travel plans with friends, colleagues or relatives. Safety standards on taxis, buses and boats can be low.
 
-### **Reporting a crime**
+### **Reporting a Crime**
 
 If you’re a victim of a crime while in the Philippines, report it to the local police immediately. Citizens can contact us at the [**Irish Embassy in Manila**](/en/philippines/manila/) if assistance is required. .
 
@@ -34,17 +34,17 @@ If you’re a victim of a crime while in the Philippines, report it to the local
 
 If you’re planning to drive in Philippines, bring a full Irish driver’s licence and your international driving permit driving licence and make sure you have adequate and appropriate insurance.
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If you’re hiring a vehicle, we advise you not to hand over your passport as a form of security. If you’re allowing your passport to be photocopied, keep it in your sight at all times.
 
 Check that you have adequate insurance and read the small print of the vehicle hire contract (particularly any waiver that will come into effect if the vehicle is damaged).
 
-### **Air travel**
+### **Air Travel**
 
 With the exception of Philippine Airlines (PAL) and Cebu Pacific Air, all air carriers from the Philippines have been refused permission to operate [**services to the EU**](https://ec.europa.eu/transport/sites/transport/files/air-safety-list_en.pdf) due to safety concerns.
 
-### **Sea travel**
+### **Sea Travel**
 
 Avoid travel on ferries if possible. Ferries are often overloaded, lack necessary lifesaving equipment, are not adequately maintained and have incomplete passenger manifests. Storms can develop quickly.
 

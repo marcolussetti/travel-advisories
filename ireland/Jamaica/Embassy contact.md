@@ -2,7 +2,7 @@
 
 We do not have an Embassy in Jamaica, please contact Embassy of Ireland Canada.
 
-If urgent assistance is required, please contact the Department of Foreign Affairs in Dublin on +353 1 408 2000.
+If urgent assistance is required, please contact the Department of Foreign Affairs and Trade in Dublin on +353 1 408 2000.
 
 Monday to Friday 10.00am to 12.00pm and 2.00pm to 4.00pm
 

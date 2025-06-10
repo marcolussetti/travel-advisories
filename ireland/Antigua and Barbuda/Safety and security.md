@@ -13,7 +13,7 @@ Crime remains relatively low but visitors should take sensible precautions:
 * Avoid dark and unlit streets and stairways, and arrange to be picked up or dropped off as close to your hotel or apartment entrance as possible.
 * Lock doors and windows at night.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If a victim of a crime, report it to the local police immediately.
 
@@ -29,7 +29,7 @@ If planning to drive be careful and take these simple precautions:
 * Keep vehicle doors locked and bags kept out of sight to prevent opportunistic bag-snatching if stopped at traffic lights.
 * Vehicles may stop without warning so always maintain a safe distance between you and the vehicle in front.
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If hiring a vehicle, do not to hand over your passport as a form of security. If allowing your passport to be photocopied, keep it in your sight at all times.
 

@@ -1,6 +1,6 @@
 ## Travel to Vietnam Overview
 
-### **Security status**
+### **Security Status**
 
 Normal Precautions
 
@@ -14,7 +14,7 @@ If you hold a temporary passport, please contact your nearest Vietnamese Embassy
 
 Passport cards cannot be used.
 
-For more information on visas and passports, please see the Additional Information tab.
+For more information on visas and passports, please see the Entry requirements tab.
 
 Visitors to Vietnam are advised to follow the guidance of national and local authorities and stay fully informed of what's going on by monitoring local news and social media.
 
@@ -34,12 +34,10 @@ Search and Rescue: 112
 
 Fire: 114
 
-### **Our tips for Safe Travels:**
+### **Our Tips for Safe Travels:**
 
-Get comprehensive travel insurance that covers all your planned activities.
-
-[**Register**](/en/dfa/overseas-travel/citizens-registration/) your details with us so that we can contact you quickly if there’s an unforeseen crisis like a natural disaster or a family emergency.
-
-Follow us on X [**@dfatravelwise**](https://www.twitter.com/DFATravelWise) and Instagram [**@dfatravelwise**](https://www.instagram.com/dfatravelwise/)  for the latest travel updates.
-
-Read our [**‘Know Before You Go’**](/en/dfa/overseas-travel/know-before-you-go/).
+* Get comprehensive travel insurance that covers all your planned activities.
+* [**Register**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/) your details with us so that we can contact you quickly if there’s an unforeseen crisis like a natural disaster or a family emergency.
+* Follow us on X [**@dfatravelwise**](https://www.twitter.com/DFATravelWise) and Instagram [**@dfatravelwise**](https://www.instagram.com/dfatravelwise/) for the latest travel updates.
+* Read our [**‘Know Before You Go’**](https://www.ireland.ie/en/dfa/overseas-travel/know-before-you-go/) guide.
+* Read our [**Consular Assistance Charter**](https://www.ireland.ie/en/dfa/overseas-travel/assistance-abroad/consular-assistance-charter/) that clearly sets out the assistance that can be provided to citizens in difficulty overseas, and the limits of what the Department can do.

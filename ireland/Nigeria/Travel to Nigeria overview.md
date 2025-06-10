@@ -26,20 +26,6 @@ We advise against all travel to the following areas:
 * Niger state
 * Zamfara state
 
-We advise against all but essential travel to the following areas:
-
-* Abia state
-* Anambra state
-* Imo state
-* Taraba state
-* Kano state
-* Kebbi state
-* Jigawa state
-* Plateau state
-* Nasarawa state
-* Rivers state
-* Sokoto state
-
 ### **Security Advice:**
 
 All citizens present in Nigeria are encouraged to [**register their presence**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/) with the Embassy.

@@ -1,14 +1,14 @@
 ## Safety and security
 
+### **Terrorism**
+
+Arising from a heightened threat of terrorism in West Africa and worldwide, there is a risk of terrorism in Ghana. Indiscriminate terrorist attacks could be against civilian targets, including places frequented by tourists and expatriates such as hotels, beaches, churches or other areas where people gather.
+
 ### **Social unrest**
 
 We advise visitors to avoid attending all political gatherings as these can be flashpoints for civil unrest.
 
 Always keep informed of what is going on around you by monitoring local media and staying in contact with your hotel or tour organiser.
-
-### **Terrorism**
-
-Arising from a heightened threat of terrorism in West Africa and worldwide, there is a risk of terrorism in Ghana. Indiscriminate terrorist attacks could be against civilian targets, including places frequented by tourists and expatriates such as hotels, beaches, churches or other areas where people gather.
 
 ### **Crime**
 
@@ -37,11 +37,11 @@ The inter-city road network in Ghana is in good condition by regional standards,
 * Keep vehicle doors locked and bags kept out of sight to prevent opportunistic bag-snatching if stopped at traffic lights.
 * Visitors are advised to avoid travelling by road outside the main towns after dark, when the risk of accidents and robbery is greater.
 
-### **Public transport**
+### **Public Transport**
 
 Safety standards on buses and taxis are often low.
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If hiring a vehicle, we advise not to hand over your passport as a form of security.
 
@@ -53,6 +53,6 @@ Check that you have adequate insurance and read the small print of the vehicle h
 
 Wave and tide patterns are often dangerous, and swimming from beaches can be hazardous. Visitors should only do so on local advice.
 
-### **Water sports**
+### **Water Sports**
 
 If taking part in extreme adventure sports (white water rafting, kayaking, bungee jumping, etc.), make sure that these activities are covered by your insurance. Visitors should be aware that many of these adventure sports operators are unregulated, and so take care that you choose reputable tour operators.

@@ -1,6 +1,6 @@
 ## Safety and security
 
-### **Social unrest**
+### **Social Unrest**
 
 In Cambodia, there is a risk of violent incidents and we advise visitors to avoid crowds and in particular political demonstrations. We also advise against publicly expressing strong political views.
 
@@ -32,11 +32,11 @@ Petty Crime is common in Cambodia, particularly in urban areas visitors should t
 * Travelling by car will reduce the risk as will limiting night time travel around Phnom Penh, Sihanoukville and Siem Reap to well-lit public areas;
 * Visitors should be aware of the risk of robbery and other crime (including sexual offences) especially in Phnom Penh, Sihanoukville and Siem Reap, particularly after dark.
 
-### **Lost or stolen passport**
+### **Lost or Stolen Passport**
 
 If your passport is lost or stolen, report this to the Police immediately and obtain a Police Report. Irish Citizens should be aware that if this occurs, it will delay your travel plans considerably, and cost you money. Along with the time taken to arrange a new travel document, you will subsequently need to get a replacement visa and an exit visa from immigration and this can take at least three working days and may delay your onward travel plans considerably. Please be aware that the nearest Irish Embassy is in Hanoi, Vietnam and dealing with a lost or stolen passport can be extremely inconvenient for you and can take time to resolve.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If a victim of a crime while in Cambodia, report it to the local police immediately. Emergency services are 117 for police, 118 for fire, and 119 for ambulance.
 
@@ -47,7 +47,7 @@ To report a crime in Phnom Penh, go to the Central Security Office at Number 13,
 
 If planning to drive in Cambodia, visitors should be extremely careful as driving standards can be erratic and sometimes dangerous. If visitors want to drive, even a motorcycle, they will need a Cambodian driving licence. Make sure to have adequate and appropriate insurance. Be aware that driving without a licence may invalidate your travel insurance if you have an accident.
 
-### **Motorbikes and scooters**
+### **Motorbikes and Scooters**
 
 Roads in Cambodia are extremely dangerous, and accidents involving motorbikes or scooters, often causing serious injury, long-term brain damage or death, are a common occurrence in Cambodia. If deciding to rent or buy a motorbike or scooter please take the same precautions as you would at home. These include having an appropriate license, wearing a helmet, observing speed limits and obeying the rules of the road.
 
@@ -57,7 +57,7 @@ Never drive under the influence of drugs or alcohol. Please note that the use of
 
 Taxis are a common way to get around but be careful, as the standard of driving may be poor. Always use licensed taxis or pre-arranged hotel pick-ups when transferring from airports. Visitors should not accept offers of free transfers to hotels as these are likely to be bogus.
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If hiring a vehicle, we advise not to hand over your passport as a form of security. If allowing your passport to be photocopied, keep it in your sight at all times.
 
@@ -67,13 +67,13 @@ Check that you have adequate insurance and read the small print of the vehicle h
 
 Pedestrians should take particular care when crossing roads in major cities as driving in Cambodia can be erratic and sometimes dangerous.
 
-### **Energy drinks**
+### **Energy Drinks**
 
 A number of energy drinks, which are banned in European countries due to the high levels of stimulants they contain, are available in Cambodia. Many but not all carry health warnings.
 
 Consumption of these drinks, on their own or with alcohol can pose a serious danger to health, particularly to people with pre-existing cardiac or other health conditions.
 
-### **Outdoor adventure sports**
+### **Outdoor Adventure Sports**
 
 Before taking part in any outdoor or water-based sports or activities, such as kayaking, rock climbing, hang-gliding, etc., check that your travel insurance will cover you in the event of death or injury to yourself or a third party.
 

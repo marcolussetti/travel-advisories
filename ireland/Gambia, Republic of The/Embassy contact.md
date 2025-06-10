@@ -1,5 +1,7 @@
 ## Embassy contact
 
+As Ireland does not have an Embassy or Consulate in the Gambia, consular assistance is provided via the [Embassy of Ireland in Nigeria](https://www.ireland.ie/en/nigeria/abuja/).
+
 Irish citizens who require urgent assistance while the Embassy is closed can contact the Duty Officer at the Department of Foreign Affairs on +353 1 408 2000.
 
 The Duty Officer will refer the matter to the Embassy.

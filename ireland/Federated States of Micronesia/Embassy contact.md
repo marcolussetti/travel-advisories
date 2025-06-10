@@ -1,5 +1,7 @@
 ## Embassy contact
 
+As Ireland does not have an Embassy or Consulate in Federated States of Micronesia, consular assistance is provided via the Embassy of Ireland in Manila, Philippines.
+
 The Embassy of Ireland in Manila is open and provides consular services to Irish citizens in FSM. Contact details are below. For and emergency out of office hours, please contact number: +63 917 324 4787
 
 Access by Appointment only

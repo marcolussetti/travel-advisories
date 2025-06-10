@@ -3,29 +3,33 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Ghana/Overview.md"
+            "title": "Travel to Ghana overview",
+            "file": "ireland/Ghana/Travel to Ghana overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Ghana/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Ghana/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Ghana/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Ghana/Additional information.md"
+            "title": "Local Laws and Customs",
+            "file": "ireland/Ghana/Local Laws and Customs.md"
+        },
+        {
+            "title": "Natural Disasters and climate",
+            "file": "ireland/Ghana/Natural Disasters and climate.md"
+        },
+        {
+            "title": "Entry Requirements",
+            "file": "ireland/Ghana/Entry Requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Ghana/Embassy contact.md"
         }
     ],
-    "update_date": "2024-12-11T00:00:00"
+    "update_date": "2025-06-09T00:00:00"
 }

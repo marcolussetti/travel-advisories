@@ -3,12 +3,16 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Laos/Overview.md"
+            "title": "Travel to Laos overview",
+            "file": "ireland/Laos/Travel to Laos overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Laos/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Laos/Health.md"
         },
         {
             "title": "Local laws and customs",
@@ -19,13 +23,13 @@
             "file": "ireland/Laos/Natural disasters and climate.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Laos/Additional information.md"
+            "title": "Entry requirements",
+            "file": "ireland/Laos/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Laos/Embassy contact.md"
         }
     ],
-    "update_date": "2025-01-16T00:00:00"
+    "update_date": "2025-06-09T00:00:00"
 }

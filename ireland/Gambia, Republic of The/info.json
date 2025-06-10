@@ -3,29 +3,29 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Gambia, Republic of The/Overview.md"
+            "title": "Travel to Gambia overview",
+            "file": "ireland/Gambia, Republic of The/Travel to Gambia overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Gambia, Republic of The/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Gambia, Republic of The/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Gambia, Republic of The/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Gambia, Republic of The/Additional information.md"
+            "title": "Local Laws and Customs",
+            "file": "ireland/Gambia, Republic of The/Local Laws and Customs.md"
+        },
+        {
+            "title": "Entry Requirements",
+            "file": "ireland/Gambia, Republic of The/Entry Requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Gambia, Republic of The/Embassy contact.md"
         }
     ],
-    "update_date": "2024-12-10T00:00:00"
+    "update_date": "2025-06-09T00:00:00"
 }

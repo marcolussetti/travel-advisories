@@ -3,29 +3,29 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/C\u00f4te d'Ivoire/Overview.md"
+            "title": "Travel to Cote d'Ivoire overview",
+            "file": "ireland/C\u00f4te d'Ivoire/Travel to Cote d'Ivoire overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/C\u00f4te d'Ivoire/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/C\u00f4te d'Ivoire/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/C\u00f4te d'Ivoire/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/C\u00f4te d'Ivoire/Additional information.md"
+            "title": "Local Laws and Customs",
+            "file": "ireland/C\u00f4te d'Ivoire/Local Laws and Customs.md"
+        },
+        {
+            "title": "Entry Requirements",
+            "file": "ireland/C\u00f4te d'Ivoire/Entry Requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/C\u00f4te d'Ivoire/Embassy contact.md"
         }
     ],
-    "update_date": "2025-03-19T00:00:00"
+    "update_date": "2025-06-09T00:00:00"
 }

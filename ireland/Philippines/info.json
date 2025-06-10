@@ -3,12 +3,16 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Philippines/Overview.md"
+            "title": "Travel to Philippines overview",
+            "file": "ireland/Philippines/Travel to Philippines overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Philippines/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Philippines/Health.md"
         },
         {
             "title": "Local laws and customs",
@@ -19,13 +23,13 @@
             "file": "ireland/Philippines/Natural disasters and climate.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Philippines/Additional information.md"
+            "title": "Entry requirements",
+            "file": "ireland/Philippines/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Philippines/Embassy contact.md"
         }
     ],
-    "update_date": "2024-10-23T00:00:00"
+    "update_date": "2025-06-09T00:00:00"
 }

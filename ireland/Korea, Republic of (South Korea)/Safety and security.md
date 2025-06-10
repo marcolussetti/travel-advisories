@@ -2,8 +2,6 @@
 
 ### **Political Situation**
 
-There are currently heightened political tensions in South Korea following the impeachment and arrest of President Yoon Suk Yeol. Large demonstrations are likely to continue, including in the areas around Gwanghwamun Plaza (Jongno), the Constitutional Court (Anguk), Seoul Western District Court (Gongdeok) and the National Assembly (Yeouido). Follow the advice of local authorities and avoid large public gatherings.
-
 Political and student demonstrations occur from time to time which can disrupt traffic, and sometimes there are violent clashes. Demonstrations tend to occur in city centre areas, particularly on Gwanghwamun at weekends. Monitor local media, follow the advice of local authorities and exercise caution.
 
 Visitors should monitor the travel advice as the level of tension between North and South Korea can escalate at little notice. However, the likelihood of tensions directly impacting on the lives of those in the Republic of Korea is extremely slim. An armistice continues in effect between the Republic of Korea and the Democratic People's Republic of Korea (DPRK). The border between North and South Korea, the Demilitarised Zone or DMZ, is one of the most heavily-fortified borders in the world. The situation at this stage does not merit any cautionary advice about travelling to South Korea, although travel in the waters near the Northern Limit Line is not advisable. Always keep informed of what is going on around you by monitoring local media and staying in contact with your hotel or tour organiser.

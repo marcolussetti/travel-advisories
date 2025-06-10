@@ -14,13 +14,13 @@ Crime remains relatively low in Bahamas but you should take sensible precautions
 * Avoid dark and unlit streets and stairways, and arrange to be picked up or dropped off as close to your hotel or apartment entrance as possible.
 * Keep a close eye on your personal belongings and hold on to them in public places such as internet cafés, train and bus stations.
 
-### **Petty theft**
+### **Petty Theft**
 
 Beware of pickpockets, muggers and bag snatchers, especially in areas where large numbers of people crowd together. Keep all valuables safe, secure and out of sight.
 
 It’s not advisable to walk outside the main hotels, tourist areas, beaches and downtown Nassau, particularly after dark. The motive for attacks on tourists is usually robbery. In such cases, don’t attempt to resist.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If you’re a victim of a crime while in the Bahamas, report it to the local police immediately.
 
@@ -32,7 +32,7 @@ If you’re planning to drive in the Bahamas, you should be extremely careful. T
 * Driving under the influence of alcohol or drugs is against the law and you risk being detained, fined or banned from driving if caught.
 * Keep your vehicle doors locked and your bags kept out of sight to prevent opportunistic bag-snatching if you’re stopped at traffic lights.
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If you’re hiring a vehicle, we advise you not to hand over your passport as a form of security. If you’re allowing your passport to be photocopied, keep it in your sight at all times.
 

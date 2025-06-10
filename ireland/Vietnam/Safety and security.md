@@ -19,7 +19,7 @@ Petty Crime is common in Vietnam, particularly in urban areas, you should take s
 * Bag and mobile phone snatches from persons passing on motorbikes are increasingly common;
 * When travelling by air, bus or train, stay vigilant against petty theft, particularly in busy rail and bus stations and in crowded airports.
 
-### **Lost or Stolen Passports**
+### **Lost or Stolen Passport**
 
 If your passport is lost or stolen, report this to the Police immediately and obtain a Police Report. Irish Citizens should be aware that if this occurs, it will delay your travel plans considerably, and cost you money. Along with the time taken to arrange a new travel document, you will subsequently need to get a replacement visa and an exit visa from immigration in Vietnam and this can take at least three working days and may delay your onward travel plans. Please be aware that the nearest Irish Embassy is in Hanoi. In the event of a lost or stolen passport you can now renew your [**passport online**](/en/dfa/passports/passport-online/).
 
@@ -29,7 +29,7 @@ You should use licensed taxis after dark to minimise the risk of assault.
 
 Always use licensed taxis or pre-arranged hotel pick-ups when transferring from airports. Don’t accept offers of free transfers to hotels as these may be bogus.
 
-### **Reporting a crime**
+### **Reporting a Crime**
 
 If you’re a victim of a crime while in Vietnam, report it to the local police immediately. You can contact us at the [**Irish Embassy in Hanoi**](/en/vietnam/hanoi/) if you need assistance
 
@@ -39,7 +39,7 @@ Road safety standards in Vietnam are low, particularly outside towns and cities.
 
 Please note that as Ireland is a participant in the Geneva Convention on Road Traffic 1949, and Vietnam is a participant in the Vienna Convention on Road Traffic 1968, International Drivers Permits issued by Ireland are **not** valid for use in Vietnam. If you want to drive, you will need to get a Vietnamese driving licence to drive a car or motorcycle from the Hanoi Department of Public Works and Transportation (telephone: 00 84 4 3843 5325) or the Ho Chi Minh City Department of Public Works and Transportation (telephone: 00 84 8 3829 0451 or 0452). Bring your full Irish driving license and make sure you have adequate and appropriate insurance.
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If you’re hiring a vehicle, particularly a motorbike, you should not hand over your passport as a form of security. If you’re allowing your passport to be photocopied, keep it in your sight at all times.
 
@@ -49,7 +49,7 @@ Check that you have adequate insurance and read the small print of the vehicle h
 
 Pedestrians should take particular care when crossing roads in major cities.  Driving can be erratic and sometimes dangerous. Taxis are common but the standard of driving may be poor.
 
-### **Motorbikes and scooters**
+### **Motorbikes and Scooters**
 
 Accidents involving motorbikes or scooters, often causing serious injury or death, are common. If you decide to rent or purchase a motorbike or scooter please take the same precautions as you would at home. These include wearing a helmet, being extra vigilant of your surroundings, observing speed limits and obeying the rules of the road.
 
@@ -63,11 +63,11 @@ Be aware of spiked drinks, food and cigarettes, particularly late at night in ba
 
 Homemade alcohol may be contaminated with methanol, bacteria or with toxic chemicals from pesticides and should be avoided.
 
-### **Energy drinks**
+### **Energy Drinks**
 
 A number of energy drinks that are banned in Europe due to their high levels of stimulants are available in Vietnam. Many but not all carry health warnings. Consuming more than two of these drinks per day, on their own or with alcohol, can pose a serious health risk, particularly to people with pre-existing cardiac or other conditions.
 
-### **Outdoor adventure sports**
+### **Outdoor Adventure Sports**
 
 Before you take part in any outdoor or water-based sports or activities, such as kayaking, rock climbing, hang-gliding, etc., check that your travel insurance will cover you in the event of injury to yourself or a third party.
 

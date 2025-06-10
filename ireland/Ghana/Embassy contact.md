@@ -1,5 +1,7 @@
 ## Embassy contact
 
+As Ireland does not have an Embassy or Consulate in Ghana, consular assistance is provided via the [Embassy of Ireland in Nigeria](https://www.ireland.ie/en/nigeria/abuja/) and our Honorary Consul in Ghana.
+
 Irish citizens who require urgent assistance while the Embassy is closed can contact the Duty Officer at the Department of Foreign Affairs on + 353 (0) 1 408 2000.
 
 Monday to Thursday 9am to 4pm; Friday 9am to 12pm

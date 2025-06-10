@@ -3,8 +3,8 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Jamaica/Overview.md"
+            "title": "Travel to Jamaica overview",
+            "file": "ireland/Jamaica/Travel to Jamaica overview.md"
         },
         {
             "title": "Safety and security",
@@ -19,13 +19,13 @@
             "file": "ireland/Jamaica/Local laws and customs.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Jamaica/Additional information.md"
+            "title": "Entry Requirements",
+            "file": "ireland/Jamaica/Entry Requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Jamaica/Embassy contact.md"
         }
     ],
-    "update_date": "2025-02-28T00:00:00"
+    "update_date": "2025-06-09T00:00:00"
 }
