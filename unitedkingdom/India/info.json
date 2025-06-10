@@ -1,11 +1,11 @@
 {
     "name": "India",
-    "update_reason": "Addition of information that the Government of India stated on 10 May that India and Pakistan have agreed to stop military action ('Warnings and insurance' page).",
+    "update_reason": "Updated information about regional risks('Regional risks' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/India/Warnings and insurance.md",
-            "update_date": "2025-05-22T14:56:55+01:00"
+            "update_date": "2025-06-09T15:01:04+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/India/Getting help.md"
         }
     ],
-    "update_date": "2025-05-22T14:56:55+01:00"
+    "update_date": "2025-06-09T15:01:04+01:00"
 }

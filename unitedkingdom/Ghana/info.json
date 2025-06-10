@@ -1,11 +1,11 @@
 {
     "name": "Ghana",
-    "update_reason": "Updated information about the Walewale curfew ('Regional risks' page).",
+    "update_reason": "Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Ghana/Warnings and insurance.md",
-            "update_date": "2025-03-03T16:34:47+00:00"
+            "update_date": "2025-06-09T16:07:23+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Ghana/Getting help.md"
         }
     ],
-    "update_date": "2025-03-03T16:34:47+00:00"
+    "update_date": "2025-06-09T16:07:23+01:00"
 }

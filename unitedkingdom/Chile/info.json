@@ -1,11 +1,11 @@
 {
     "name": "Chile",
-    "update_reason": "Removal of information about a 7.4 magnitude earthquake ('Warnings and insurance' page).",
+    "update_reason": "Updated information about travelling with children, taxi scams at Santiago Airport and general advise about crime including, violent muggings and vehicle crime ('Entry requirements' and 'Safety and security' pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Chile/Warnings and insurance.md",
-            "update_date": "2025-05-08T16:15:40+01:00"
+            "update_date": "2025-06-09T12:16:33+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Chile/Getting help.md"
         }
     ],
-    "update_date": "2025-05-08T16:15:40+01:00"
+    "update_date": "2025-06-09T12:16:33+01:00"
 }

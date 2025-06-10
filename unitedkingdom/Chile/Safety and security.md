@@ -30,23 +30,30 @@ Nationwide protests often take place on significant dates, such as:
 
 ## Crime
 
-Pickpocketing, mugging and thefts from vehicles are very common throughout Chile, including inside airports.
+Pickpocketing, mugging and thefts from vehicles are very common throughout Chile, including inside airports, churches, hotels and bus stations, and at viewpoints and petrol stations.
 
-### Taxi scams
+This is a list of scams and techniques which have been used on British Nationals in Chile, especially in central Santiago and Valparaiso:
 
-Many foreign visitors have been scammed for large amounts of money by unlicensed taxi drivers, including in airport taxis.
+* Distraction robbery: The victim is distracted by one person while a second person steals the victim’s handbag or backpack from their chair or from under the table.
+* Liquid spill: Liquid is ‘accidentally’ spilled on a traveller, and the scammer steals the victim’s valuables while pretending to be assisting cleaning it off.
+* Tyre puncture: The driver pulls over owing to a punctured tyre (not knowing that their tyre has been deliberately punctured). A person then approaches the car offering to help, and distracts the driver whilst a second person steals belongings from the car.
+* Hire cars: Hire cars are targeted and broken into whilst parked at a viewpoint, petrol station or other location. Sometimes the driver is approached and distracted by one person while belongings are stolen from the car by a second person.
+* Airport taxi: Unlicenced taxi drivers at Santiago Airport add extra digits to the amount for the taxi journey i.e. charging 5,000,000 CLP (approx. 5,000 GBP / 5,000 USD) instead of 50,000 CLP. Others have convinced passengers to enter their pin number into a credit card reader whose display cannot be read. People have lost up to 10,000 GBP via this method.
+* Theft of belongings at Santiago airport: This includes luggage stolen both before check-in at the airport terminal and from the baggage carousel after arrival.
 
-Only book taxis at the desk inside the airport after collecting your luggage and before you enter the arrivals hall – see [how to recognise official taxis](https://www.mtt.gob.cl/viaja-seguro-en-taxis.html) (in Spanish). You should be able to book and pay in advance at these desks inside the airport. If you cannot pay beforehand, request an approximate amount for the journey at the taxi desk.
+### Taxi scams at Santiago Airport
 
-Be wary of people impersonating authorised taxi drivers. There are criminals who dress up as authorised taxi drivers, including people inside the airport arrival hall wearing official-looking lanyards and jackets.
+Many foreign visitors have been scammed for large amounts of money by unlicensed taxi drivers, including in airport taxis. Well-known taxi companies can be booked via ridesharing apps. Only book and pay for official taxis from inside the airport before exiting the building.
 
-At Santiago airport, unofficial taxi drivers will try to take you to the car park to board a private vehicle. Official taxis should only be taken in the controlled platform located on the ground floor of both T1 and T2.
+Do not use any transport from inside the airport if you cannot pay for it before getting into the vehicle.
 
-You should also insist on seeing the amount you are charged before you present your card for payment at the end of the ride.
+See [how to recognise official taxis](https://www.mtt.gob.cl/viaja-seguro-en-taxis.html) (in Spanish) and be wary of people impersonating authorised taxi drivers. There are criminals inside the airport arrival area who dress up as authorised taxi drivers, including people inside the airport arrival hall wearing official-looking lanyards and jackets, with printed price lists.
 
-Carefully review the amount being charged on portable credit card machines before paying, including the number of zeroes shown on the screen.
+To reduce the risk of being overcharged you can insist on paying in advance for your journey at one of the two official taxi booths in the arrivals at Santiago’s international airport, immediately after customs and just before you head through to the public area of arrivals. If one of the booths does not have a card reader available on that day, then you can go to the other booth instead.
 
-If the taxi takes you to an ATM to withdraw cash for payment, do not let the driver near the ATM while you use it.
+If you do decide to pay in the taxi, you should insist on seeing the amount you are charged before you present your card for payment at the end of the journey. Carefully review the amount being charged on portable credit card machines before paying, including the number of zeroes shown on the screen.
+
+If a taxi takes you to an ATM to withdraw cash for payment, do not let the driver near the ATM while you use it.
 
 Read information about the official transportation options at Santiago airport:
 
@@ -54,8 +61,6 @@ Read information about the official transportation options at Santiago airport:
 * [buses](https://www.nuevopudahuel.cl/fromairport?language=en&target=buses)
 * [transfers](https://www.nuevopudahuel.cl/fromairport?language=en&target=transfer)
 * [car rental](https://www.nuevopudahuel.cl/fromairport?language=en&target=arriendo-vehiculos) (read the section ‘Vehicle crime’ below if you are planning on renting a car)
-
-There are two companies operating in both terminals at the airport. Taxi Oficial Basico operates with black and yellow vehicles, and Taxi Oficial operates with blue vehicles.
 
 Book taxis in advance rather than hailing one from the street, especially late at night. Keep in groups and avoid walking alone late at night.
 
@@ -73,7 +78,7 @@ When travelling by bus or coach, take care of your belongings when getting on an
 
 ### Violent theft (muggings)
 
-Muggings have happened in tourist areas in Santiago and Valparaiso, increasingly with weapons such as pistols and knives. Muggings can take place during the day and in plain sight of others. Be aware of your surroundings, particularly in tourist areas or near official buildings. Muggers will target:
+Muggings happen frequently, especially in Santiago and Valparaiso, and increasingly with weapons such as guns and knives. Muggings can take place during the day and in plain sight of others. Be aware of your surroundings, particularly in tourist areas or near official buildings. Muggers will target:
 
 * tourists
 * people carrying large amounts of money – leaving ATMs or currency exchanges, for example
@@ -87,11 +92,10 @@ Do not resist any attempted mugging.
 
 There has been an increase in criminals:
 
-* targeting rental cars in major cities – they sometimes puncture the car’s tyres, often while at traffic lights, distract the occupants when they notice the tyres and steal valuables
+* targeting rental cars in major cities – they puncture the car’s tyres, often while at traffic lights, distract the occupants when they notice the tyres and steal valuables
 * following people from the airport on arrival and robbing them, sometimes at gunpoint
 * targeting vehicles entering or leaving private residences while the gates are opening or closing
-* carrying out carjackings in Santiago, especially in affluent areas – some armed carjackers target high-end vehicles on highways
-* intercepting car locking systems when drivers remotely activate the lock
+* carrying out carjacking’s in Santiago, especially in affluent areas – some armed carjackers target high-end vehicles on highways
 * targeting people parked at viewpoints and stealing belongings from their cars
 
 Be aware of your surroundings in and around the airport, when driving and on arrival at your destination. Keep vehicle doors locked and windows closed. Wait for gates to fully close before leaving your vehicle.

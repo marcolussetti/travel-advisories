@@ -14,7 +14,7 @@ Check with the Tajikistan authorities  before you travel to see which crossings
 
 There remains some risk of conflict over recognition of the border with Kyrgyzstan. There have been security incidents along the border including with exchanges of gunfire.
 
-In September 2022, armed conflict between the Kyrgyz and Tajik militaries resulted in over 100 deaths, including civilians. There was significant destruction of civilian property and infrastructure. Around 140,000 civilians were displaced. There is a risk of further violence and border closures at any time. Do not walk off-road – there are both marked and unmarked minefields.
+In September 2022, armed conflict between the Kyrgyz and Tajik militaries resulted in over 100 deaths, including civilians. There was significant destruction of civilian property and infrastructure. Around 140,000 civilians were displaced. Do not walk off-road – there are both marked and unmarked minefields.
 
 ### Tajikistan-Afghanistan border
 

@@ -106,11 +106,19 @@ Wearing military clothing including camouflage is illegal.
 
 It is advisable to carry ID. A copy of your passport’s photo page is acceptable. Keep the original in a safe place such as a hotel safe.
 
-### Illegal drugs and prison sentences
+### Illegal drugs
 
-Do not get involved with drugs of any kind. Penalties for drug-related offences are severe. Even possession of small amounts of marijuana can lead to a prison sentence of more than 5 years, usually after a long and expensive legal process. Bail is not normally granted.
+The possession of Illegal drugs, including cannabis, carry severe penalties.
 
-Class A drugs like cocaine are likely to be laced with other substances. Foreign visitors, including British people, have died after taking these drugs.
+Bail is not normally granted.
+
+You should expect a long jail sentence and heavy fines for possessing, using or smuggling illegal drugs, including when transiting through the airport.
+
+Even possession of small amounts of cannabis can lead to a prison sentence of more than 5 years, usually after a long and expensive legal process.
+
+Airports in Ghana have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
+
+Class A drugs like cocaine are likely to be laced with other substances. Foreign visitors, including British nationals, have died after taking these drugs.
 
 ### Using cameras in secure areas
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   27 March 2025
+:   10 June 2025
 
 Updated:
-:   26 March 2025
+:   9 June 2025
 
 Latest update:
-:   This travel advice has been reviewed for accuracy and updated with information on the Tajikistan-Kyrgyzstan border ('Regional risks' page).
+:   Updated information on visa requirements ('Entry requirements' page).
 
 ## Before you travel
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   9 May 2025
+:   10 June 2025
 
 Updated:
-:   8 May 2025
+:   9 June 2025
 
 Latest update:
-:   Removal of information about a 7.4 magnitude earthquake ('Warnings and insurance' page).
+:   Updated information about travelling with children, taxi scams at Santiago Airport and general advise about crime including, violent muggings and vehicle crime ('Entry requirements' and 'Safety and security' pages).
 
 This travel advice page also covers Rapa Nui (Easter Island).
 

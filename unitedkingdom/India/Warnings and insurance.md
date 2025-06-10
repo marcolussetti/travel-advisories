@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   23 May 2025
+:   10 June 2025
 
 Updated:
-:   22 May 2025
+:   9 June 2025
 
 Latest update:
-:   Addition of information that the Government of India stated on 10 May that India and Pakistan have agreed to stop military action ('Warnings and insurance' page).
+:   Updated information about regional risks('Regional risks' page).
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -33,7 +33,7 @@ Find out more about [why FCDO advises against travel to these regions](/foreign-
 
 ## India-Pakistan tensions
 
-Following military exchanges which began on 7 May, the Government of Pakistan stated on 10 May that India and Pakistan have agreed to stop military action.  FCDO continues to follow the situation closely. Follow the advice of local authorities.
+Following military exchanges which began on 7 May, the Government of India stated on 10 May that India and Pakistan have agreed to stop military action.  FCDO continues to follow the situation closely. Follow the advice of local authorities.
 
 ## Before you travel
 

@@ -30,6 +30,16 @@ There have been reports of sexual assaults in taxis in Croatia. To reduce risk a
 * share your ride status on the taxi app
 * make a call while in the taxi telling someone which taxi it is and where you are going
 
+### Large gatherings, including football matches
+
+Large gatherings and public events are overwhelmingly safe and peaceful in Croatia, including sporting events. However, there are periodic cases of violence between football fans around matches. Care should be taken near football stadiums around match times, especially “derby” matches, and you should:
+
+* avoid large crowds
+* follow local news reports
+* comply with instructions from police
+
+If you feel uncomfortable, leave the area immediately.
+
 ## Laws and cultural differences
 
 ### Personal ID
@@ -83,6 +93,10 @@ If you’re travelling in these areas, do not walk on uncultivated land or step 
 If you’re hiking in the mountains, get expert advice from local guides, however tame the mountain might seem. Weather in the Croatian mountains can change quickly, even in summer. Temperatures can get very low overnight.
 
 There is a risk of getting lost in the mountains when out hiking alone and using unmarked paths. Read the [Croatian Mountain Rescue tips on mountaineering](https://www.hgss.hr/en/), follow their X at [Hrvatska GSS](https://x.com/hrvatskaGSS) and see their maps. If you get into trouble, call the emergency number 112 for help from the Croatian Mountain Rescue Service.
+
+### Music festivals
+
+Many music festivals are held in Croatia each year. Follow the advice of police and local authorities when attending events and take care of your valuables if attending a festival or large concert. Find out how to enjoy festivals safely with the [festival travel checklist](https://www.gov.uk/guidance/festival-travel-checklist).
 
 ## Transport risks
 

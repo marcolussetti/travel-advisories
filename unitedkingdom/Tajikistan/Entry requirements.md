@@ -14,19 +14,21 @@ You will be denied entry if you do not have a valid travel document or try to us
 
 ## Visa requirements
 
-You must have a visa to enter or travel through Tajikistan. You may be asked to provide proof of hotel bookings and any arrangements booked through a tour operator to be issued with a tourist visa.
+You must have a visa to enter Tajikistan. British nationals cannot apply for a visa on arrival. If you arrive without a valid visa, you may be detained and refused entry. You will be required to pay for any ticket out of Tajikistan.
 
 If you overstay your visa, you will not be allowed to leave Tajikistan until you get an exit visa. You can pay for an exit visa at the Ministry of Foreign Affairs Consular Office. You may also get a fine, depending on how long you have overstayed. Exit visas are not available at airports in Tajikistan.
 
 ### Applying for a visa
 
-[Apply online for an e-visa](https://www.evisa.tj/index.evisa.html) from the Tajikistan Ministry of Foreign Affairs.
+[Apply online for an e-visa](https://www.evisa.tj/index.evisa.html) from the Tajikistan Ministry of Foreign Affairs before travelling. You should allow at least two weeks for processing.
+
+You may be asked to provide proof of hotel bookings and any arrangements booked through a tour operator to be issued with a tourist visa or evisa.
 
 Make sure you get the correct type of visa.  Once you’re in Tajikistan, you can apply for a visa extension at the [Ministry of Foreign Affairs](https://www.consular.tj/default_en.aspx).
 
 ### Travelling through Tajikistan
 
-You must have a transit visa to travel through Tajikistan on your way to another country. These are usually valid for 3 days. If you need to stay longer, you must get a longer visa from the [Ministry of Foreign Affairs](https://www.consular.tj/default_en.aspx) once you arrive.
+You must have a transit visa to travel through Tajikistan on your way to another country. These are usually valid for 3 days. If you need to stay longer, you must seek an extension from the [Ministry of Foreign Affairs](https://www.consular.tj/default_en.aspx) once you arrive.
 
 ## Registering with the authorities
 

@@ -25,7 +25,7 @@ To stay longer (to work or study, for business travel or for other reasons), you
 Chile requires children travelling with only one parent, with a guardian or alone, to have permission from the non-travelling parent or parents. Parents travelling with children for tourism have faced difficulty leaving Chile at the end of their visit when only one parent is present. You must have
 
 * a written notarised authorisation from the non-travelling parent(s)
-* a birth certificate
+* an original birth certificate
 
 If you’re travelling with children aged 17 and under, check the website of the [Chilean Ministry of Foreign Affairs](https://www.chile.gob.cl/en/chile/xplica/ingreso-y-salida-de-menores-del-pais) (website in Spanish) for what documents you need to show.
 
