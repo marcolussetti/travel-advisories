@@ -1,6 +1,6 @@
 # Thailand Travel Advisory
 
-### Travel Advisory July 24, 2023
+### Travel Advisory June 9, 2025
 
 ### Thailand - Level 1: Exercise Normal Precautions
 
@@ -14,11 +14,11 @@
 [T](javascript:void(0); "Tool Tip: Terrorism")
 [C](javascript:void(0); "Tool Tip: Crimes")
 
-***Reissued with obsolete COVID-19 page links removed.***
+***Updated to reflect lower travel advisory level for some provinces in Thailand.***
 
 Exercise normal precautions in Thailand. Some areas have increased risk.  Read the entire Travel Advisory.
 
-**Reconsider travel to:**
+**Exercise Increased Caution to:**
 
 * Yala, Pattani, Narathiwat, and Songkhla provinces due to **civil unrest** associated with ongoing insurgent activities.
 
@@ -26,20 +26,18 @@ Read the [country information page](https://travel.state.gov/content/travel/en/
 
 If you decide to travel to Thailand:
 
-* Enroll in the [Smart Traveler Enrollment Program (STEP)](https://step.state.gov/step/) to receive Alerts and make it easier to locate you in an emergency.
-* Follow the Department of State on [Facebook](https://www.facebook.com/travelgov/) and [Twitter](https://twitter.com/TravelGov).
-* Review the [Country Security Report](https://www.osac.gov/Content/Browse/Report?subContentTypes=Country%20Security%20Report) for Thailand.
 * Have evacuation plans that do not rely on U.S. government assistance.
-* Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) related to your travel.
+* Enroll in the [Smart Traveler Enrollment Program (STEP)](https://step.state.gov/step/) to receive Alerts and make it easier to locate you in an emergency.
+* Review the [Country Security Report](https://www.osac.gov/Content/Report/33ef53fa-45cf-409c-8398-1c49361d4481) for Thailand.
 * Prepare a contingency plan for emergency situations. Review the [Traveler’s Checklist](https://travel.state.gov/content/passports/en/go/checklist.html).
+* Visit the CDC page for the latest [Travel Health Information](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/thailand-travel-advisory.html#ExternalPopup) related to your travel.
+* We highly recommend that you buy insurance before you travel. Check with your [travel insurance provider](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) about evacuation assistance, medical insurance, and trip cancellation coverage.
 
-**Yala, Pattani, Narathiwat, and Songkhla Provinces – Level 3: Reconsider Travel**
+**Yala, Pattani, and Narathiwat Provinces – Level 2:  Exercise Increased Caution**
 
-Periodic violence directed mostly at Thai government interests by a domestic insurgency continues to affect security in the southernmost provinces of Yala, Pattani, Narathiwat, and Songkhla. In Songkhla, the insurgency is most active in the districts of Chana, Thepha, Nathawat, and Saba Yoi. U.S. citizens are at risk of death or injury due to the possibility of indiscriminate attacks in public places.
+Periodic violence between Thai security services and armed insurgents has been known to occur in Thailand’s three southernmost provinces of Yala, Pattani, and Narathiwat.  Seventeen districts in these provinces remain under a declared state of emergency due to ongoing violent conflict.  There is a collateral risk of violence for U.S. citizens in Thailand’s southernmost provinces due to low intensity conflict.
 
 The U.S. government has limited ability to provide emergency services to U.S. citizens in these provinces as U.S government employees must obtain special authorization to travel to these provinces.
-
-Visit our website for [Travel to High-Risk Areas](https://travel.state.gov/content/passports/en/go/TraveltoHighRiskAreas.html).
 
 ### Travel Advisory Levels
 
