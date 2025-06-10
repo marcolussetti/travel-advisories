@@ -1,7 +1,7 @@
 {
     "name": "Italy",
-    "update_reason": "Health \u2013 editorial update",
-    "update_date": "2025-05-21T13:56:00",
+    "update_reason": "Safety and security \u2013 removed information on mass gatherings in Rome and the Vatican",
+    "update_date": "2025-06-09T03:42:00",
     "sections": {
         "risk": "canada/Italy/risk.md",
         "security": "canada/Italy/security.md",

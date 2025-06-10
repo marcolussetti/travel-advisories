@@ -4,9 +4,9 @@
 
 ### Poás Volcano
 
-Costa Rican authorities are closely monitoring the Poás Volcano, which has become increasingly active. Poás Volcano National Park has been closed, and authorities have issued a “red” alert, level 4 on a scale of 4, for the surrounding area.
+Costa Rican authorities are closely monitoring the active Poás Volcano. Although authorities have reduced the alert level to “orange” (level 3 on a scale of 4) for the surrounding area, Poás Volcano National Park remains closed.
 
-An "orange" alert, level 3 on a scale of 4, is also in effect for the cantons of Grecia and Sarchí.
+An orange alert is also in effect for the nearby district of Toro Amarillo.
 
 If you are near the Poás Volcano, you should monitor local media to stay informed of the evolving situation.
 

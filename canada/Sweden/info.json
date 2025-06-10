@@ -1,7 +1,7 @@
 {
     "name": "Sweden",
-    "update_reason": "Safety and security \u2013 updated information on terrorism",
-    "update_date": "2025-06-06T13:42:00",
+    "update_reason": "Editorial change",
+    "update_date": "2025-06-09T03:37:00",
     "sections": {
         "risk": "canada/Sweden/risk.md",
         "security": "canada/Sweden/security.md",

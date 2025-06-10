@@ -56,9 +56,9 @@ Be particular vigilant during:
 
 Terrorists may use such occasions to mount attacks.
 
-The Government of Sweden maintains a public alert system on terrorism. The Swedish Security Service’s (SAPO) current threat level is 3, “elevated threat,” on a 5-step scale. The Government of Sweden communicates changes to the threat level online and through local media.
+The Government of Sweden maintains a public alert system on terrorism. The Swedish Security Service's (SAPO) current threat level is 3, "elevated threat," on a 5-step scale. The Government of Sweden communicates changes to the threat level online and through local media.
 
-[Local terrorism threat level](https://www.krisinformation.se/en/hazards-and-risks/terrorism#:~:text=Assessment%20of%20terrorist%20threat%20level,be%204%20out%20of%205.) –  Swedish Crisis Information
+[Local terrorism threat level](https://www.krisinformation.se/en/hazards-and-risks/terrorism#:~:text=Assessment%20of%20terrorist%20threat%20level,be%204%20out%20of%205.) – Swedish Crisis Information
 
 ### Demonstrations
 
@@ -81,9 +81,9 @@ If you undertake adventure tourism or trekking, especially in the arctic provinc
 * never do so alone
 * buy travel insurance that includes helicopter rescue and medical evacuation
 * ensure that your physical condition is good enough to meet the challenges of your activity
-* don’t venture off marked trails
-* ensure that you’re properly equipped
-* ensure that you’re well informed about weather and other conditions that may pose a hazard
+* don't venture off marked trails
+* ensure that you're properly equipped
+* ensure that you're well informed about weather and other conditions that may pose a hazard
 * inform a family member or friend of your itinerary
 * obtain detailed information on each activity before setting out
 
@@ -91,7 +91,7 @@ If you undertake adventure tourism or trekking, especially in the arctic provinc
 
 Road conditions and road safety are excellent. Some roads may be closed in winter, particularly in northern areas.
 
-Wildlife road accidents are common. Be particularly vigilant if driving at nighttime. Road signs indicating risks posed by the presence of particular animals display the animal’s silhouette on an orange triangle with red borders.
+Wildlife road accidents are common. Be particularly vigilant if driving at nighttime. Road signs indicating risks posed by the presence of particular animals display the animal's silhouette on an orange triangle with red borders.
 
 ### Public transportation
 
@@ -105,7 +105,7 @@ Most cities have good public bus systems. Long-distance bus lines are also avail
 
 #### Taxis
 
-Taxis are widely available but may be expensive. Use only officially marked taxis and don’t share them with strangers.
+Taxis are widely available but may be expensive. Use only officially marked taxis and don't share them with strangers.
 
 Taxi fares in Sweden are not regulated. Fares may vary and have no upper limit. Always confirm the rates before your journey or pre-negotiate fares.
 
