@@ -4,7 +4,7 @@
 
 To enter Honduras, you need:
 
-* A U.S. passport with at least three months validity.
+* A U.S. passport with at least six months validity.
 * Evidence of onward travel. For stays of up to 90 days, you do not need a visa for tourism.
 * Please note, individuals who do not obtain the appropriate visa, or overstay their time in Honduras, may face significant exit fines.
 
