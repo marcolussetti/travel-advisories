@@ -4,7 +4,7 @@ Remember, local laws apply to you as a visitor and it is your responsibility to 
 
 ### **Registration**
 
-Foreigners must register with the local Public Security Bureau (police station) **within 24 hours** of arrival in China. If staying in a hotel or hostel, they will carry out this procedure on your behalf. If staying with friends or family, you must register personally.
+Foreigners must be registered with the local Public Security Bureau (police station) **within 24 hours** of arrival in China. If staying in a hotel or hostel, they will carry out this procedure on your behalf. If staying with friends or family, you must register personally.
 
 ### **Arrest or Detention**
 

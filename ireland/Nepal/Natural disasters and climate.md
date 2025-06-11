@@ -1,8 +1,10 @@
 ## Natural disasters and climate
 
+### Monsoon Season
+
 Travel in the rural areas during the Monsoon season (June - September) can be dangerous and you should be careful. Monsoon rains cause flooding and landslides that can cut off some towns and villages for days at a time. You should check access routes before setting off on a journey.
 
-### **Avalanche/landslide**
+### **Avalanche/Landslide**
 
 Earth tremors are common in this region and can cause landslides and avalanches in hilly and mountainous areas. In 2012, an avalanche/landslide caused flash flooding on the Seti River in the Kaski district north of Pokhara resulting in fatalities. Be alert to the risk of landslides and flash floods in mountainous areas and alongside river banks.
 

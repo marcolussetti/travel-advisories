@@ -2,11 +2,11 @@
 
 Remember, the local laws apply to you as a visitor and it is your responsibility to follow them. Be sensitive to local customs, traditions and practices as some behaviour may be seen as improper, hostile or may even be illegal.
 
-### **Personal identification**
+### **Personal Identification**
 
 It is advisable to take a number of photocopies of your passport when travelling. During your stay carry a photocopy of your passport, as Sri Lankan laws require persons to carry photo identification with them at all times.
 
-### **Illegal drugs**
+### **Illegal Drugs**
 
 Penalties for possession, dealing and trafficking drugs are severe and include the death penalty.
 

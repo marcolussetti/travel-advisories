@@ -26,15 +26,15 @@ Crime remains relatively low in India but take sensible precautions:
 * Do not carry your passport unless absolutely necessary and leave a copy of your passport (as well as travel and insurance documents) with family or friends at home.
 * Be cautious when using a travel agent in India, use one that is recommended by your guidebook or a reliable hotel. Irish citizens have been the victims of travel agent scams in India.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If a victim of a crime while in India, report it to a local police station immediately. An FIR (first incident report) needs to be filed and the police must register the crime. Please contact us at the [**Irish Embassy in New Delhi**](https://www.ireland.ie/en/india/newdelhi/) if help is needed.
 
-### **Personal safety**
+### **Personal Safety**
 
 Avoid travelling alone on public transport, or in taxis or auto-rickshaws, especially at night. If you have to use a taxi get them from hotel taxi ranks and use pre-paid taxis at airports. Avoid hailing taxis or auto-rickshaws on the street. Meru Cabs and Mega Cabs are widely available in cities in India. They can be booked online or over the phone. Platforms for ordering taxis at set prices, such as Uber and OLA are now available in many cities, including Delhi, Mumbai, Hyderabad and Bangalore.
 
-### **Women travellers**
+### **Women Travellers**
 
 Women should use caution when travelling in India. Recent sexual attacks against female visitors in tourist areas and cities show that foreign women are at risk. Tourists have been the victims of sexual assault in Agra, Goa, Delhi, Bangalore, Madhya Pradesh, Kolkata and Rajasthan. Women travellers often receive unwanted attention in the form of verbal and physical harassment by individuals or groups of men. This may include being photographed.
 
@@ -48,7 +48,7 @@ If planning to drive in India, be extremely careful. Driving on Indian roads can
 
 If driving, bring an international driving licence and make sure to have adequate and appropriate insurance.
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If hiring a vehicle, we advise not to hand over your passport as a form of security. If allowing your passport to be photocopied, keep it in sight at all times.
 
@@ -62,7 +62,7 @@ If trekking in high altitudes, make sure your insurance policy covers altitudes 
 
 There are also parts of the border areas where only the Indian Air Force is permitted to carry out air rescues. They are under no obligation to perform air rescues and have limited resources available to do so.
 
-### **Satellite phones and other devices**
+### **Satellite Phones and other Devices**
 
 The possession or use of satellite phones without a licence in India is illegal. Foreigners in India have been arrested or detained for bringing satellite phones and other satellite-enabled navigational devices into the country without prior permission. Irish citizens should contact the Indian Department of Telecommunication if they require a licence.
 

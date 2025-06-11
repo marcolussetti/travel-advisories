@@ -1,5 +1,7 @@
 ## Embassy contact
 
+As Ireland does not have an Embassy or Consulate in Bangladesh, consular assistance is provided via the Embassy of Ireland in India.
+
 If you require emergency assistance from the Embassy, please contact us on: +91 (11) 49403200.
 
 If you call outside normal working hours, you will be asked to leave a message on the answering machine.

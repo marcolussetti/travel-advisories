@@ -10,11 +10,11 @@ If you intend to move outside resort areas, be aware of your surroundings and ta
 * Don’t carry your passport unless absolutely necessary and leave a copy of your passport (and travel and insurance documents) with family or friends at home.
 * Lock your luggage as a sensible precaution against luggage tampering, including theft.
 
-### **Lost or stolen passports**
+### **Lost or Stolen Passport**
 
 Given that the nearest Irish Embassy is a significant distance away in Manila, Philippines, dealing with a lost or stolen passport can be extremely inconvenient and can take time to resolve.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If you’re a victim of a crime while in Palau, report it to the local police immediately. You can contact the [**Irish Embassy in Manila**](/en/philippines/manila/) if you need help.
 

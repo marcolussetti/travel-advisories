@@ -13,21 +13,21 @@ Most visitors to Nepal experience a trouble-free stay. However, there are regul
 * Consider exchanging money only at banks and hotels
 * Pick-pocketing and bag-snatching are common in Kathmandu, particularly in tourist areas
 
-### **Lost passport**
+### **Lost Passport**
 
 If you lose your passport in Nepal, most travellers can get an emergency travel document to allow them to travel back to Ireland. If you are not resident in Ireland, you will have to apply for an emergency passport at the Irish Embassy in New Delhi. This can take 7 to 10 days to arrange. If you lose your passport in Nepal, you will have to get an exit visa which can take some time. E-mail copies of your passport and visa to yourself. This can help speed up the process if you do lose your passport.
 
-### **Serious crime**
+### **Serious Crime**
 
 Airports, buses and hotel rooms are targeted by criminals and the number of bag-snatchings by motor-bikers, particularly in relatively quieter areas of Kathmandu Valley, is on the rise. There are also increasing reports of foreigners being injured during these incidents.
 
 Assaults and robberies often take place in the evening in areas that are poorly lit, so you should be very cautious at night.
 
-### **Tourist scams**
+### **Tourist Scams**
 
 You should exercise caution when entering ‘dance bars’ as some foreigners have been swindled or harassed in some of these places. Always be cautious when accepting drinks from strangers, and don’t leave your drinks unattended.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If you’re a victim of a crime while in Nepal, report it to the local police or the Tourist Police in Kathmandu on (+377) (0)1 4700750 or the Tourist Police headquarters on (+377) (0)1 4247041. And you can contact us at the [**Irish Embassy in New Delhi**](/en/india/newdelhi/) if you need help.
 
@@ -35,17 +35,17 @@ If you’re a victim of a crime while in Nepal, report it to the local police or
 
 If you’re planning to drive in Nepal, you should be extremely careful. Traffic drives on the left, as in Ireland, but road travel in general carries risk. Bring your full Irish driver’s licence and your international driving permit. If you stay longer than 15 days, you’ll need to apply for a local licence
 
-### **Road safety**
+### **Road Safety**
 
 The general standard of driving throughout the country is poor and badly regulated. Roads in Kathmandu are very congested, many drivers are not properly licensed, trained or insured and vehicles are poorly maintained. There are few pavements outside central Kathmandu and motorists don’t yield right of way to pedestrians.
 
 During the monsoon season (June to September) many roads outside the Kathmandu valley are prone to landslides and become impassable.
 
-### **Public transport**
+### **Public Transport**
 
 Bus travel is particularly hazardous and fatal accidents are common. You should avoid travel on overnight buses.
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If you’re hiring a vehicle, we advise you not to hand over your passport as a form of security. If you’re allowing your passport to be photocopied, keep it in your sight at all times.
 

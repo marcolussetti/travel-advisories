@@ -8,7 +8,7 @@ Any Irish citizen considering travel should be aware that mRNA vaccines are not 
 
 ### **Infectious Diseases**
 
-To restrict the spread of infectious diseases, China implements quarantine and monitoring measures at ports of entry. People arriving to China may be tested for infectious diseases and may be required to undergo medical treatment directly or advised to seek medical treatment.
+To restrict the spread of infectious diseases, China implements monitoring measures at ports of entry and in some cases imposes quarantine measures. People arriving to China may be tested for infectious diseases and may be required to undergo medical treatment directly or advised to seek medical treatment.
 
 ### **Medical Facilities**
 

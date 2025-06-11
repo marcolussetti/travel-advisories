@@ -1,6 +1,6 @@
 ## Natural disasters and climate
 
-### **Rain and flooding**
+### **Rain and Flooding**
 
 Inland flooding and landslides happen frequently in the rainy seasons. Be aware that there are two different rainy seasons in Sri Lanka: May to August in the South West, and November to February in the North East.
 

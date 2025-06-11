@@ -2,7 +2,7 @@
 
 Remember, the local laws apply to you as a visitor and it is your responsibility to follow them. Be sensitive to local customs, traditions and practices as your behaviour may be seen as improper, hostile or may even be illegal.
 
-### **Illegal drugs**
+### **Illegal Drugs**
 
 Illegal drug use (no matter what the drug) carries stiff penalties, including fines and long prison terms. The slow judicial process means that lengthy pre-trial detention, usually of several years, is the norm.
 
@@ -10,11 +10,11 @@ Illegal drug use (no matter what the drug) carries stiff penalties, including fi
 
 On Wednesday, 18th September, a ban was imposed on the advertisement, production, manufacture, import, export, transport, sale, distribution, and storage of e-cigarettes and all similar vaping devices in India, with first time violations of the new rules potentially facing jail terms of up to one year and large fines. We advise citizens not to bring e-cigarettes or similar products into India
 
-### **Buying property**
+### **Buying Property**
 
 We advise you to get legal advice before investing in property or businesses in India. There are often strict rules preventing the purchase of property by non-Indian nationals (for example in Goa). If the purchase is judged to violate local laws (for example, if you purchase whilst in India on a tourist visa), you are likely to lose all the money you have put in to the purchase, and could even face prosecution.
 
-### **Satellite Phones and other technological equipment**
+### **Satellite Phones and other Technological Equipment**
 
 It is illegal to enter India with a satellite phone without prior permission from the Indian authorities. There have been cases of Irish travellers being arrested for possession of satellite phones and you should seek advice from the Indian Embassy in Dublin before travelling to India with a satellite phone. You may also need prior permission from the Indian authorities to bring equipment like listening or recording devices, radio transmitters, powerful cameras or binoculars into India.
 
@@ -25,3 +25,11 @@ The laws governing alcohol vary from state to state. Consumption of alcohol is p
 ### **LGBT**
 
 Homosexuality was decriminalised in September 2018; however, in many parts of the country conservative attitudes to homosexuality still exist and caution and discretion are advised at all times.
+
+### **Surrogacy**
+
+The Department of Justice and Equality have issued guidelines on obtaining Irish citizenship for children born of surrogacy arrangements. [**The guidelines can be accessed here.**](http://www.justice.ie/en/JELR/Pages/PR12000035)
+
+This is the only guidance that can be given to people considering surrogacy.
+
+Any Irish citizen who is considering entering into a surrogacy arrangement in India should be aware that the Government of India has announced that it will no longer support commercial surrogacy.

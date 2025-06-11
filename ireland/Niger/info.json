@@ -3,29 +3,29 @@
     "risk_level": "Do Not Travel",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Niger/Overview.md"
+            "title": "Travel to Niger overview",
+            "file": "ireland/Niger/Travel to Niger overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Niger/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Niger/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Niger/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Niger/Additional information.md"
+            "title": "Local Laws and Customs",
+            "file": "ireland/Niger/Local Laws and Customs.md"
+        },
+        {
+            "title": "Entry Requirements",
+            "file": "ireland/Niger/Entry Requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Niger/Embassy contact.md"
         }
     ],
-    "update_date": "2025-03-18T00:00:00"
+    "update_date": "2025-06-10T00:00:00"
 }

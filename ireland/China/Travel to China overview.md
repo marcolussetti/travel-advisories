@@ -8,17 +8,17 @@ High Degree of Caution
 
 Any Irish citizen planning to travel to China should carefully read all relevant notices on their local Chinese Embassy or Consulate website.
 
-China has announced that from 30 November 2024 until 31 December 2025, citizens of Ireland holding an ordinary Irish passport travelling to China for business, tourism, family visit or transit purposes for a duration not exceeding 30 days are eligible for visa-free entry. Individuals who do not meet the visa-free conditions or who are official passport holders still need to apply for a visa before entering China. Please see the Visa Section below for further information.
-
-For information on how the visa-free policy will be implemented, and for other information on visas please contact your nearest Chinese Embassy or Consulate.
-
-Additional information regarding visas, for example visa-free transit through China, can be found on the website of China’s [**National Immigration Administration**](https://en.nia.gov.cn/index.html)
+China has announced that from 30 November 2024 until 31 December 2025, citizens of Ireland holding an ordinary Irish passport travelling to China for business, tourism, family or friends visit, exchange and transit are eligible for visa-free entry, for a duration not exceeding 30 days. Individuals who do not meet the visa-free conditions or who are official passport holders still need to apply for a visa or a visa free certificate before entering China.
 
 A valid passport is required for travel to China. Irish passports should have a minimum validity of 6 months. Passport cards cannot be used.
 
-Further information and relevant announcements can be found in the Visas section of the website of the [**Embassy of China in Dublin**](http://ie.china-embassy.gov.cn/eng/qzfw/). See also the Entry requirements tab on this webpage
+Further information and relevant announcements can be found on the website of the [**Embassy of China in Dublin**](http://ie.china-embassy.gov.cn/eng/qzfw/) or obtained by contacting nearest Chinese Embassy or Consulate. See also the Entry Requirements tab on this webpage
 
-To restrict the spread of infectious diseases, China implements quarantine and monitoring measures at ports of entry. People arriving to China may be tested for infectious diseases and required to undergo medical treatment directly or advised to seek medical treatment.
+Additional information regarding visa policy can be found on the website of China’s [**National Immigration Administration**](https://en.nia.gov.cn/index.html).
+
+To restrict the spread of infectious diseases, China implements monitoring measures at ports of entry and in some cases imposes quarantine measures. People arriving to China may be tested for infectious diseases and required to undergo medical treatment directly or advised to seek medical treatment.
+
+Foreigners must be registered with the local Public Security Bureau (police station) **within 24 hours** of arrival in China. If staying in a hotel or hostel, they will carry out this procedure on your behalf. If staying with friends or family, you must register personally.
 
 China can experience different degrees of severe weather throughout the year. Irish citizens are advised to check the weather for the places that they plan to travel to. They may consult [**https://severeweather.wmo.int/**](https://severeweather.wmo.int/) for up-to-date weather information.
 
@@ -48,7 +48,7 @@ Please note in order to work in China a valid Z-visa and a valid work permit is 
 
 ### **Lost Passports and Visa Overstays**
 
-Any citizen who has lost their passport must obtain a police report, and then obtain an Emergency Travel Document from the Embassy. An exit visa must then be applied for, from the Chinese Entry Exit Bureau, to place in the Emergency Travel Document, in order to leave China. The estimated processing time for an exit visa is seven days.
+Any citizen who has lost their passport must report the loss to the police, and then obtain an Emergency Travel Certificate (ETC) from the Embassy. In order to leave China, it may be necessary to have an exit visa placed in your ETC. This must be obtained from the Local Entry Exit Bureau. The estimated processing time for an exit visa is seven days.
 
 Should a foreign citizen overstay their visa, it can take up to 30 days or longer for the local authorities to process the visa overstay fine. Again, the person must be able to pay for accommodation and support themselves during this time.
 
