@@ -34,6 +34,14 @@ To protect yourself from crime:
 
 Police and other local officials have reportedly harassed, mistreated and extorted foreigners. Ask for identification if you are unsure the person is an official.
 
+#### Drink Spiking
+
+Drink spiking can happen anywhere. Be alert to the potential risks, and don't leave food or drinks unattended. Pay attention when your drinks are being mixed. Stick to reputable venues and avoid homemade alcoholic drinks due to the risk of methanol poisoning. Get urgent medical help if you suspect you’ve been a victim.
+
+**More information:**
+
+* [Partying safely](https://www.smartraveller.gov.au/before-you-go/safety/partying)
+
 #### Cyber security
 
 You may be at risk of cyber-based threats during overseas travel to any country. Digital identity theft is a growing concern. Your devices and personal data can be compromised, especially if you're connecting to Wi-Fi, using or connecting to shared or public computers, or to Bluetooth.
@@ -132,3 +140,4 @@ The Australian Government's longstanding policy is that it doesn't make payments
 **More information:**
 
 * [Kidnapping](/before-you-go/safety/kidnapping "Reducing the risk of kidnapping")
+* [Scams that affect travellers](https://www.smartraveller.gov.au/before-you-go/safety/scams)

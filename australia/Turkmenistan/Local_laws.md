@@ -22,14 +22,25 @@ Penalties for drug offences are severe. They can include long prison sentences.
 
 * [Carrying or using drugs](/before-you-go/laws/drugs "Carrying or using drugs")
 
+#### Cyber security laws
+
+Turkmenistan has blocked many social media platforms, messaging apps and websites, including WhatsApp, Telegram, Facebook, Instagram, LinkedIn, X, Signal and YouTube. Access to Yahoo, Gmail and Hotmail can also be difficult.
+
+Virtual Private Networks (VPNs) are illegal and actively blocked in Turkmenistan.
+
+**More information:**
+
+* [Cyber security when travelling overseas](https://www.smartraveller.gov.au/before-you-go/staying-safe/cyber-security)
+* [Agency for Transport and Communications under the Cabinet of Ministers of Turkmenistan](https://www.mincom.gov.tm/en/)
+
 #### Other laws
 
-Several informal restrictions have been introduced on women's appearance and behaviour. There have been some reports of women not being allowed to sit in the front seat of cars and ride with male drivers who are not their family members.
+Several informal restrictions have been introduced with respect to women's appearance and behaviour. There have been some reports of women not being allowed to sit in the front seat of cars and ride with male drivers who are not their family members.
 
 In Turkmenistan it's illegal to:
 
 * have sexual relations between males
-* drive with a blood alcohol reading over 0%
+* drive with a blood alcohol reading over zero percent (0%)
 * smoke in restaurants, hotels and public spaces
 * gift tobacco
 

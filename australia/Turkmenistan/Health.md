@@ -71,7 +71,6 @@ Waterborne, foodborne, parasitic and other [infectious diseases](/before-you-go
 * [measles](https://www.who.int/news-room/fact-sheets/detail/measles)
 * [tuberculosis](https://www.who.int/news-room/fact-sheets/detail/tuberculosis)
 * [typhoid](https://www.who.int/immunization/diseases/typhoid/en/)
-* [COVID-19](https://www.health.gov.au/health-alerts/covid-19)
 
 Serious outbreaks sometimes occur.
 
@@ -84,8 +83,6 @@ To protect yourself from illness:
 Get urgent medical attention if you suspect food poisoning, or if you have a fever or diarrhoea.
 
 #### Medical care
-
-#### Medical facilities
 
 Medical facilities are limited in Turkmenistan.
 

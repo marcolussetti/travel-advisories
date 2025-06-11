@@ -94,7 +94,7 @@ If you wish to extend your visa:
 
 #### Validity
 
-Indonesia won't let you enter unless your passport is valid for 6 months after you plan to leave Indonesia. This can apply even if you're just transiting or stopping over. You can end up stranded, detained, or returned to your previous port overseas at your own cost if your passport is not valid for more than 6 months from the date you enter and the date you plan to leave Indonesia.
+Indonesia won't let you enter unless your passport has at least 6 months of validity from the date you plan to enter. You will also need at least 6 months passport validity from the date you plan to leave Indonesia, to avoid any issues for your departure or onward travel. This also applies even if you're just transiting or stopping over. There have been instances where travellers have become stranded, detained, or returned to their previous port overseas at their own cost.
 
 Indonesia does not accept entry with an emergency passport, even if it's valid for more than 6 months. Ensure you enter Indonesia on a valid ordinary, official, or diplomatic passport.
 

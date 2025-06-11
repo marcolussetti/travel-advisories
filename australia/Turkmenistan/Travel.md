@@ -6,6 +6,8 @@
 
 #### Visas
 
+You need a letter of invitation from the State Migration Service of Turkmenistan to apply for a visa, even if you're only transiting. You must keep the letter of invitation with you when you are in Turkmenistan.
+
 You need a visa to enter Turkmenistan, even if you're only transiting.
 
 You must get a visa before you arrive.
@@ -47,8 +49,6 @@ There is no embassy or consulate of Turkmenistan in Australia. See the Turkmenis
 
 #### Border measures
 
-Some regular international commercial flights are now operating into and out of Turkmenistan.
-
 You must take a COVID-19 (PCR) test on arrival, and if you have a positive test result, you may be required to quarantine in a state-run facility or at your place of residence under medical supervision.
 
 Contact your airline or the nearest [embassy or consulate](https://mfa.gov.tm/en) to confirm entry and quarantine requirements. There is no embassy or consulate of Turkmenistan in Australia. See the Turkmenistan Government's [list of embassies and consular offices](https://www.mfa.gov.tm/en/articles/63?breadcrumbs=no).
@@ -58,7 +58,7 @@ Contact your airline or the nearest [embassy or consulate](https://mfa.gov.tm/e
 When you arrive, you must:
 
 * present a migration card
-* pay a registration fee
+* pay a migration fee
 * register with the [State Migration Service](https://migration.gov.tm/services/salgylar-boyunca-hasaba-durmak-tm-16830101021174743) within 3 working days of arrival, not counting the arrival date
 
 If you don't register, or if you stay in Turkmenistan with an expired visa, you may face:
@@ -81,11 +81,11 @@ Customs rules control the import or export of:
 * antiques
 * protected animals
 
-You need a certificate from the Carpet Museum in central Ashgabat to export carpets from Turkmenistan. It must show that the carpet has no historical value. You may be able to get this certificate in some private shops.
+You need an export permit from the ‘Turkmenhaly’ State Association to export carpets from Turkmenistan. You may be able to get this permit in some private shops.
 
 **More information:**
 
-* [State Migration Service of Turkmenistan](https://migration.gov.tm/)
+* [State Migration Service of Turkmenistan](https://customs.gov.tm/en/customs-info/for-individuals)
 
 #### Passport
 
@@ -132,13 +132,13 @@ There are very few ATMs in Ashgabat, and none outside the capital city.
 
 US dollars can be readily exchanged. Make sure banknotes are in good condition and aren't counterfeit. Only use authorised foreign exchange providers.
 
-Exchange any unspent local currency before you leave. You may not be able to exchange local currency outside Turkmenistan.
+Converting local currency is extremely difficult. Local exchanges and hotels offer widely varying exchange rates, so exercise caution and exchange only as much as you need.
 
 #### Local travel
 
 #### Driving Permit
 
-You must have a valid International Driving Permit (IDP) to drive in Turkmenistan.
+You will need both a valid Australian and International Driving Permit (IDP) to drive in Turkmenistan (digital driver's licences may not be accepted).
 
 #### Road travel
 
@@ -159,6 +159,8 @@ Driving at night is dangerous due to a lack of lighting.
 Access to service stations can be limited in rural areas.
 
 Random police checks and security checkpoints on roads are common. Carry certified copies of your passport and visa.
+
+Vehicle restrictions (that may include the colour of the vehicle) can apply in downtown areas of Ashgabat, be aware of local rules.
 
 **More information:**
 

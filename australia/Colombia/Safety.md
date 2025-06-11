@@ -121,6 +121,10 @@ Social media can be risky in destinations where there are social or political te
 
 #### Terrorism
 
+There have been multiple terrorist incidents in the departments of Cauca and Valle de Cauca, including the city of Cali. If there's an attack, leave the area as soon as it's safe. Avoid the affected area in case of further attacks.
+
+Local authorities may impose additional security measures such as curfews. Follow the advice of local authorities and monitor the media for updates.
+
 Terrorist attacks remain a significant threat, even though security has improved.
 
 Attacks could occur anywhere and at any time in Colombia.

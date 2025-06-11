@@ -202,7 +202,7 @@ If you’re a tourist or visitor, be prepared to show your passport and entry st
 
 If you're living in the United States but not a US citizen, be prepared to show proof of legal residence, such as a US permanent resident card, valid US visa and electronic Form I-94, and US driver's licence or non-driver ID issued by the state in which you live.
 
-If you travel on an incorrect visa, breach the conditions of your ESTA or visa, or are found to be unlawfully present in the United States, you may be held at the port of entry or a nearby detention facility (including in Hawaii) while US authorities arrange your return to Australia (or the last country you visited).
+If you travel on an incorrect visa, breach the conditions of your ESTA or visa, or are found to be unlawfully present in the United States, you may be held at the port of entry while US authorities arrange your return to Australia (or the last country you visited). In some locations (including Hawaii), you may be held at a nearby federal detention centre while you wait to be returned to Australia.
 
 #### Passport
 

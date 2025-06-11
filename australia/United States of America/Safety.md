@@ -80,6 +80,8 @@ Threats include those posed by individuals and small groups motivated by a range
 
 Attacks can be indiscriminate, including at public events, on public transport, schools and in other places where crowds gather.
 
+On 5 June 2025, the FBI and Department of Homeland Security issued an [alert](https://x.com/FBI/status/1931003576295313886) highlighting potential public safety concerns related to ongoing threats to the Jewish and Israeli communities. 
+
 Subscribe to [National Terrorism Advisory System](https://www.dhs.gov/national-terrorism-advisory-system) for updates and advice.
 
 To reduce your risk of being involved in a terrorist incident:

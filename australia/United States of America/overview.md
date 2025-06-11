@@ -2,9 +2,9 @@
 
 Latest update
 
-Entry requirements are strict. US authorities have broad powers to decide if you're eligible to enter and may determine that you are inadmissible for any reason under US law. Check US entry, registration, transit and exit requirements. Whether you're travelling on a visa or under the Visa Waiver Program, ensure you understand all relevant terms and conditions before attempting to enter the United States.  
+Avoid areas where demonstrations and protests are occurring due to the potential for unrest and violence. Monitor media for information, follow the instructions of local authorities and abide by any curfews.  
   
-From 7 May, you'll require a passport or United States-issued photo identification which meets the US Department of Homeland Security’s (DHS) REAL ID requirements to board domestic flights in the United States (see 'Travel').
+Entry requirements are strict. US authorities have broad powers to decide if you're eligible to enter and may determine that you are inadmissible for any reason under US law. Check US entry, registration, transit and exit requirements. Whether you're travelling on a visa or under the Visa Waiver Program, ensure you understand all relevant terms and conditions before attempting to enter the United States.
 
 Advice Level summary
 
@@ -26,7 +26,7 @@ Exercise normal safety precautions in the United States of America.
 
 * Avoid areas where demonstrations and protests are occurring due to the potential for unrest and violence. Monitor media for information, follow the instructions of local authorities and abide by any curfews.
 * Violent crime is more common in the United States than in Australia. Gun crime is also prevalent. If you live in the United States, learn and practice active shooter drills.
-* There is a persistent threat of mass casualty violence and terrorist attacks in the United States. Be alert, particularly in public places and at events.
+* There is a persistent threat of mass casualty violence and terrorist attacks in the United States. Be alert, particularly in public places and at events. On 5 June 2025, the FBI and Department of Homeland Security issued an alert highlighting potential public safety concerns related to ongoing threats to the Jewish and Israeli communities.
 * Severe weather and natural hazards include earthquakes, volcanic eruptions, tsunamis, landslides, avalanches, hurricanes, tornadoes, winter storms, extreme temperatures, wildfires, and floods. Monitor weather conditions and follow the advice and instructions of local authorities, including evacuation orders.
 
 Full travel advice: [Safety](#safety)

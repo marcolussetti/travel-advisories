@@ -37,7 +37,8 @@ Australia doesn't have an embassy or consulate in Turkmenistan. The [Australian
 13 Kropotkinsky Pereulok  
 Moscow 119034  
 Russia  
-Phone: (+7 495) 956-6070  
+  
+Phone: +7 495 956-6070  
 Website: [russia.embassy.gov.au](https://russia.embassy.gov.au/)  
 X: [@PosolAustralia](https://twitter.com/PosolAustralia)
 

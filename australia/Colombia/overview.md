@@ -2,11 +2,11 @@
 
 Latest update
 
-Yellow fever is widespread in Colombia. Some countries may also require you to show a yellow fever vaccination certificate if you've travelled through the country (see ‘Health’).  
+There have been multiple terrorist incidents in the departments of Cauca and Valle de Cauca, including the city of Cali. If there's an attack, leave the area as soon as it's safe. Avoid the area in case of further attacks. Local authorities may impose additional security measures such as curfews. Follow the advice of local authorities and monitor media for updates (see 'Safety').  
   
-We continue to advise exercise a high degree of caution in Colombia overall due to the threat of violent crime and terrorism. We also advise do not travel to the Catatumbo region in Norte de Santander and Cesar, and the department of Cauca (except Popayán and the Pan American Highway), amongst other areas, due to increased violence from illegal armed groups and other criminal organisations.  
+We continue to advise exercise a high degree of caution in Colombia overall due to the threat of violent crime and terrorism. We also advise do not travel to the Catatumbo region in Norte de Santander and Cesar, and the department of Cauca (except Popayán and the Pan American Highway), among other areas, due to increased violence from illegal armed groups and other criminal organisations.  
   
-There's been an increase in foreigners, including Australians, who have been assaulted and robbed using incapacitating drugs (see 'Safety').
+There's been an increase in foreigners, including Australians, who have been assaulted and robbed using incapacitating drugs (see 'Safety'). Yellow fever is widespread in Colombia. Some countries may also require you to show a yellow fever vaccination certificate if you've travelled through the country (see ‘Health’).
 
 Advice Level summary
 
@@ -69,8 +69,9 @@ See [Safety](https://smartraveller.govcms.gov.au/destinations/americas/colombia
 
 ### Safety
 
-* The Colombian government has declared a state of emergency due to increased violence in the Catatumbo region, adjacent to the Venezuelan border in the department of Norte de Santander. There may be increased military presence and movement restrictions in the area.
+* There have been multiple terrorist incidents in the departments of Cauca and Valle de Cauca, including the city of Cali. If there's an attack, leave the area as soon as it's safe. Avoid the area in case of further attacks.
 * Terrorist groups continue to plan attacks around Colombia. Monitor the media and follow the advice of local authorities.
+* The Colombian government has declared a state of emergency due to increased violence in the Catatumbo region, adjacent to the Venezuelan border in the department of Norte de Santander. There may be increased military presence and movement restrictions in the area.
 * Violent crime and gang activity are common and increasing. Criminals may pose as police officers.
 * Criminals use incapacitating drugs to subdue their victims. Robberies and assaults occur after victims accept spiked food, drinks, cigarettes or chewing gum. Incidents have involved the use of online dating apps. Don't accept food or drink from strangers.
 * Don't travel alone or at night. Drug-related crime, terrorism and civil unrest make some areas very dangerous. These include the regions within 20km of the Venezuelan and Ecuadorian borders, the department of Cauca, the cities of Buenaventura and Tumaco, and the Darién Gap. Avoid these areas.
