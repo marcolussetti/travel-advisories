@@ -2,17 +2,6 @@
 
 ## Safety and security
 
-### Bomb blast in Munyonyo
-
-On June 3, 2025, an attempted terrorist attack occurred outside the Martyrs’ Shrine in Munyonyo, Kampala.
-
-If you’re in Uganda:
-
-* stay away from the affected area
-* avoid crowded places and public gatherings
-* always be aware of your surroundings
-* monitor local media for the lastest information
-
 ### Border with the Democratic Republic of Congo
 
 The volatile security situation in the eastern part of neighbouring Democratic Republic of Congo (DRC) could lead to possible incursions into western Uganda by armed rebel groups from the DRC.

@@ -2,6 +2,13 @@
 
 ## Safety and security
 
+On June 10, 2025, several explosions were reported in Cauca and Valle del Cauca including Cali, resulting in at least one casualty and several injured. Protests have been called in Cali for June 11, 2025.
+
+* Be aware of your surroundings
+* Avoid areas where demonstrations are taking place
+* Follow the advice of local authorities
+* Monitor local media for the latest information
+
 ### Dating applications
 
 ### Online dating applications

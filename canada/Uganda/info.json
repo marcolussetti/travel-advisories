@@ -1,7 +1,7 @@
 {
     "name": "Uganda",
-    "update_reason": "Safety and security \u2013 added information about an attempted terrorist attack in Kampala",
-    "update_date": "2025-06-03T11:32:00",
+    "update_reason": "Safety and security \u2013 removed information about an attempted terrorist attack in Kampala",
+    "update_date": "2025-06-10T09:28:00",
     "sections": {
         "risk": "canada/Uganda/risk.md",
         "security": "canada/Uganda/security.md",
