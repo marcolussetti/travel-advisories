@@ -1,11 +1,11 @@
 {
     "name": "Colombia",
-    "update_reason": "New information on yellow fever (\u2018Entry requirements\u2019 and \u2018Health\u2019 pages).",
+    "update_reason": "Addition of information following explosive devices detonated around Cauca and Valle de Cauca departments, including in the city of Cali (\u2018Warnings and Insurance\u2019 Page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Colombia/Warnings and insurance.md",
-            "update_date": "2025-05-30T13:07:59+01:00"
+            "update_date": "2025-06-11T01:02:52+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Colombia/Getting help.md"
         }
     ],
-    "update_date": "2025-05-30T13:07:59+01:00"
+    "update_date": "2025-06-11T01:02:52+01:00"
 }
