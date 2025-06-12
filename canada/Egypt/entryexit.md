@@ -41,6 +41,10 @@ Diplomatic and Special passport holders are required to have visas before arriva
 
 Travellers attempting to enter Egypt with diplomatic or official passports who do not have visas will be required to remain, at their own expense, in the airport transit area until their immediate departure from Egypt can be arranged. The Embassy of Canada in Egypt cannot intervene in such matters.
 
+### Gender expression and entry procedures
+
+You may be denied entry or subject to invasive search and screening if your gender expression or physical appearance does not match the gender identifier in your passport or your passport photograph.
+
 ### Visas
 
 Tourist visa: required  
@@ -64,6 +68,14 @@ If a child is born in Egypt to a Canadian parent, a data stamp proving that the 
 ### Regional travel
 
 If you are contemplating onward travel to other Arab countries, bear in mind that Canadians have been denied entry because their passports bore an Israeli visa, an Israeli border stamp or an Egyptian or Jordanian border stamp issued by an office bordering Israel, which would indicate they entered from Israel.
+
+### Israeli border
+
+Due to the ongoing events in Israel, West Bank and the Gaza Strip, the land borders could close with little notice.
+
+The Rafah border crossing to the Gaza Strip has been closed since May 2024. The Government of Canada continues to advise against all travel to the Gaza Strip due to ongoing military operations.
+
+The Taba border crossing to southern Israel remains open.
 
 ### Medication and cosmetics
 

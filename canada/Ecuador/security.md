@@ -4,7 +4,7 @@
 
 ### State of emergency
 
-A state of emergency is in effect in the following provinces and cantons:
+A state of emergency is in effect in the following provinces:
 
 * Guayas
 * Los Ríos
@@ -13,7 +13,6 @@ A state of emergency is in effect in the following provinces and cantons:
 * Santa Elena
 * El Oro
 * Sucumbíos
-* Ponce Enríquez canton, in Azuay
 * Metropolitan District of Quito, in Pichincha
 
 A curfew is in place from 10 pm to 5 am in several cantons in the following provinces:
@@ -33,7 +32,7 @@ The state of emergency is in response to gang violence. While the state of emerg
 If you are in Ecuador:
 
 * expect an increased police and military presence
-* carry your ID at all times
+* always carry your identification
 * follow the instructions of local authorities
 
 ### State of internal armed conflict

@@ -2,6 +2,20 @@
 
 ## Safety and security
 
+### Demonstrations in Los Angeles and other major cities
+
+Since June 6, 2025, large demonstrations have been taking place in Los Angeles. Demonstrations are also occurring in other major cities.
+
+Additional security forces have been deployed and a curfew is in effect for most of downtown Los Angeles from 8 pm to 6 am. Additional curfew orders may be imposed on short notice.
+
+If you are in an affected area:
+
+* stay away from demonstrations
+* follow the instructions of local authorities, including curfew orders
+* monitor local media for the latest information
+
+[Curfew guidance](https://lacity.gov/highlights/curfew-announced-downtown-los-angeles) – City of Los Angeles
+
 ### Border with Mexico
 
 Criminal incidents associated with drug trafficking are more frequent at the border with Mexico, in the following states:

@@ -24,7 +24,7 @@ If you encounter any debris or fragments:
 
 ### Situation in Israel, the West Bank and the Gaza Strip
 
-Following recent developments in Israel, the West Bank and the Gaza Strip, the security situation in neighbouring Sinai could deteriorate suddenly. Local authorities could impose movement restrictions on short notice.
+Due to the ongoing events in Israel, the West Bank and the Gaza Strip, the security situation in neighbouring Sinai could deteriorate suddenly. Local authorities could impose movement restrictions on short notice.
 
 If you are in or near affected areas:
 
@@ -37,7 +37,7 @@ Terrorists have targeted Coptic Christians and their places of worship, in both 
 
 There is a significant presence of armed security forces and police in most governorates throughout the country. Curfews may be imposed on very short notice.
 
-On May 19, 2019 and December 28, 2018, attacks on buses carrying tourists took place near the pyramids of Giza. The explosions resulted in multiple casualties.
+On May 19, 2019, and December 28, 2018, attacks on buses carrying tourists took place near the pyramids of Giza. The explosions resulted in multiple casualties.
 
 There is an increased risk of incidents and attacks on and around dates of national significance, including:
 
@@ -99,6 +99,20 @@ When travelling in the area:
 
 Exercise a high degree of caution when travelling to Red Sea coastal resorts (such as Ain el-Sokhna, el-Gouna Bay, Hurghada, Marsa Alam, Safaga and Soma Bay) and to the Upper Egypt cities of Aswan and Luxor.  While the beach resort areas are generally considered safe, sporadic terrorist attacks have targeted foreign tourists in recent years. Pay particular attention to local conditions if you are visiting Upper Egypt and the historic sites of the Nile Valley. Sectarian, economic and family-related disputes have occurred and can quickly become violent. Travel in large groups and by organized transportation, and follow the advice of local authorities, hotels and tour guides if you are travelling to rural areas.
 
+### Adventure tourism
+
+Outdoor activities, such as scuba diving, snorkelling, hiking, and other extreme sports can be dangerous.
+
+Tour operators may not meet Canadian safety standards.
+
+If you participate in adventure tourism activities:
+
+* don’t use equipment if you are unsure of its condition or safety
+* consider hiring an experienced guide from a reputable company
+* obtain detailed information on your activity and the environment in which you will be setting out
+* buy travel insurance that covers incidents related to this type of recreational activity
+* ensure that your physical condition is good enough to tackle the challenges of your activity
+
 ### Demonstrations and Civil unrest
 
 While the size and frequency of demonstrations has decreased significantly in recent years, they can still occur anywhere at any time without warning, but are most likely to occur on Fridays following noon prayers.
@@ -113,7 +127,7 @@ Rates of violent and petty crime have historically been low in Egypt, although t
 
 Reports of carjackings are extremely rare, however they do occur. They generally target sports utility or other high-value vehicles. Although isolated areas and night driving present the greatest threat, there have been reported incidents in daylight hours and in busy areas of Cairo. Assailants are usually armed, and a variety of tactics may be used to get vehicles to stop, including throwing objects at the windshield, feigning a traffic accident or minor collision with the target vehicle, or “sandwiching” the target vehicle to force it off the road. If you find yourself in such a situation, do not resist as carjackers are typically after the vehicle and, if the carjacking is successful, will leave the driver unharmed.
 
-If you are a victim of crime, report it to the Tourist Police or at a nearby police station as soon as possible. Request a copy of the police report at the time the report is made. Failure to report the crime while in Egypt makes it much more difficult to seek prosecution.
+If you are a victim of crime, report it to the Tourist Police, whose officers usually wear a distinctive arm band, or at a nearby police station as soon as possible. Request a copy of the police report at the time the report is made. Failure to report the crime while in Egypt makes it much more difficult to seek prosecution.
 
 ### Women’s safety
 
@@ -127,7 +141,7 @@ Unexploded landmines remain a risk in some desert and coastal areas, notably the
 
 ### Road safety
 
-Road conditions are often poor and the rate of vehicular accidents is one of the highest in the world. Drivers generally have little regard for traffic regulations and do not follow safe driving practices. Be cautious when crossing streets as drivers do not give pedestrians the right of way.
+Road conditions are often poor and the rate of car accidents is one of the highest in the world. Drivers generally have little regard for traffic regulations and do not follow safe driving practices. Be cautious when crossing streets as drivers do not give pedestrians the right of way.
 
 In the event of an accident, do not move the vehicle until the police arrive, unless you are in immediate danger, such as from a crowd and need to move to safety. Exercise caution when using taxis and the metro. There have been robberies and accidents involving both. Many taxis do not have working metres, and back seats are rarely equipped with seat belts. Women should not sit in the front seat, as this could be misinterpreted by the driver. The metro can be overcrowded and is not climate controlled but does have cars for women only on most lines.
 
@@ -147,26 +161,4 @@ We do not make assessments on the compliance of foreign domestic airlines with i
 
 [Information about foreign domestic airlines](https://travel.gc.ca/air/in-flight-safety#other)
 
-### Scuba diving / aquatic activities
-
-Sharks and other potentially dangerous aquatic animals are present in the waters off Egypt. Certain beaches and dive areas may be subject to temporary closures. Exercise caution and seek advice from local authorities, and ensure to dive with reputable and licensed operators.
-
-[Water safety abroad](https://travel.gc.ca/travelling/health-safety/water-safety)
-
-### Israeli Border
-
-Due to recent events in Israel, West Bank and the Gaza Strip, the land borders could close with little notice.
-
-Crossing at the Taba land border between Egypt and Israel is possible at this time. Cross-border movement regulations and restrictions are subject to change at any time and are the prerogative of the responsible authorities.
-
-The Rafah border crossing point to the Gaza Strip, which is controlled by border authorities in both Egypt and Gaza, opens and closes intermittently due to the ongoing armed conflict in Israel. Global Affairs Canada continues to advise against all travel in this area due to ongoing military operations against terrorists. Consult local authorities and refer to the [travel advice for Israel, the West Bank, and the Gaza Strip](http://travel.gc.ca/destinations/israel-the-west-bank-and-the-gaza-strip) for further information.
-
-Beyond the provision of a travel document (the passport), the Canadian government does not facilitate the crossing of borders by private citizens. It is the citizen’s responsibility to meet the entry requirements of the country where they wish to travel, in most cases either through application for a visa or simply by going to a point of entry. Authorities at the Rafah border crossing from Egypt to Gaza have sometimes requested a letter or witnessed declaration from the Embassy of Canada to Egypt as a requirement to cross the border. The Canadian embassy is unable to provide such a letter or declaration. You should avoid all travel to Gaza. Furthermore, the Canadian government has very limited ability to provide consular services to Canadians in the Gaza Strip and once there, it may be difficult to leave.
-
-### General safety information
-
-Although most tourist sites are open, the situation across Egypt remains unpredictable and less consistently safe than it was before January 2011. There is a potential for rapid escalation into violence where large groups of people are assembled
-
-Egypt has a special police force to assist tourists. Officers wearing a distinctive arm band saying “Tourism Police,” can be found in hotels and at tourist sites.
-
-Carry identification at all times. Photocopy your passport and other identification in case of loss or seizure.
+###

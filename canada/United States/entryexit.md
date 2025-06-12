@@ -88,7 +88,7 @@ Although U.S. authorities don’t formally require dual nationals to carry both 
 
 #### Canadians with dual citizenship from a third country
 
-As of June 9, 2025, the U.S. is limiting the entry of nationals from specific countries under the proclamation “Restricting the Entry of Foreign Nationals to Protect the United States from Foreign Terrorists and Other National Security and Public Safety Threats”. Canadian citizens, including dual citizens, travelling on a Canadian passport are not affected by this proclamation.
+Since June 9, 2025, the U.S. limits the entry of nationals from specific countries under the proclamation “Restricting the Entry of Foreign Nationals to Protect the United States from Foreign Terrorists and Other National Security and Public Safety Threats”. Canadian citizens, including dual citizens, travelling on a Canadian passport are not affected by this proclamation.
 
 #### Useful links
 
@@ -115,7 +115,7 @@ Canadian permanent residents may need a non-immigrant visa to enter the United
 
 You must obtain this visa from the U.S. authorities before entering the country. You must also have a valid passport from your country of citizenship.
 
-As of June 9, 2025, the U.S. proclamation “Restricting the Entry of Foreign Nationals to Protect the United States from Foreign Terrorists and Other National Security and Public Safety Threats” is in effect. It may impact your ability to obtain a visa if your country of citizenship is designated in the proclamation.
+Since June 9, 2025, the U.S. proclamation “Restricting the Entry of Foreign Nationals to Protect the United States from Foreign Terrorists and Other National Security and Public Safety Threats” is in effect. It may impact your ability to obtain a visa if your country of citizenship is designated in the proclamation.
 
 #### Useful links
 
