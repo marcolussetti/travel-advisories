@@ -98,9 +98,13 @@ Zanzibari authorities can fine you 700 US dollars or more if you’re wearing wh
 
 Plastic bags are banned for environmental reasons. If you arrive by air you’ll be asked to hand over all plastic bags on arrival. The ban does not include ‘ziplock’ bags for airline security procedures.
 
-### Illegal drugs and prison sentences
+### Illegal drugs
 
-Tanzania has strict laws on drug use and if you are found in possession of even a small amount you will be fined. There are severe penalties, including prison sentences, for possessing an amount that indicates possible intent to supply (drug trafficking). Tanzanian prisons tend to be dirty and overcrowded.
+Tanzania has strict laws on drug use. There may be severe penalties, including lengthy prison sentences which can be applied both for supplying and simple possession of any drugs, including when transiting through the airport.
+
+Airports in Tanzania have technology and security for detecting illegal items, including cannabis. This can be used to scan the baggage of transiting passengers.
+
+Tanzanian prisons tend to be dirty and overcrowded.
 
 ### Discrimination and harassment
 

@@ -1,23 +1,21 @@
 # Warnings and insurance
 
 Still current at:
-:   10 June 2025
+:   12 June 2025
 
 Updated:
-:   9 June 2025
+:   11 June 2025
 
 Latest update:
-:   Addition of information about demonstrations and protests in Los Angeles (‘Warnings and insurance’ page).
+:   Addition of information about demonstrations and protests (‘Warnings and insurance’ page).
 
 This travel advice also covers American Samoa, Guam, Northern Mariana Islands, Puerto Rico, and United States Virgin Islands.
 
-## Los Angeles demonstrations and protests
-
-Demonstrations and protests are taking place in Los Angeles. Media reports suggest the police response has included use of flash-bangs, tear gas, pepper balls, and rubber/sponge bullets. You should:
+## Protests are ongoing in cities and towns across the US. You should:
 
 * monitor local media and follow the advice of the local authorities
 * plan ahead to avoid disruption
-* stay away from crowds and demonstrations
+* stay away from mass gatherings and demonstrations
 
 ## Before you travel
 

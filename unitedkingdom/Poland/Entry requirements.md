@@ -75,7 +75,7 @@ If you have arrived in Poland from Ukraine and are in need of assistance, call +
 
 [FCDO advises against all travel to Belarus](http://www.gov.uk/foreign-travel-advice/belarus). The Kuzniсa-Bruzgi road border crossing is currently closed. In February 2023, traffic was suspended at the Bobrowniki border crossing until further notice. More border checkpoints may close or impose restrictions at short notice and other disruption is possible.
 
-Access to parts of the Polish border with Belarus is restricted. The regulations, which came into force on 13 June 2024 was extended on 10 March for another 90 days, prohibits access to the border in specific areas controlled by the Polish Border Guard posts at Narewka, Białowieża, Dubicze Cerkiewne and Czeremcha. In some areas, access is restricted to within 200m of the border and in others to within 2km. See precise [details of the restricted areas](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000281) (in Polish).
+Access to parts of the Polish border with Belarus is restricted. The regulations, which came into force on 13 June 2024 was extended on 8 June 2025 for another 90 days, prohibits access to the border in specific areas controlled by the Polish Border Guard posts at Narewka, Białowieża, Dubicze Cerkiewne and Czeremcha. In some areas, access is restricted to within 200m of the border and in others to within 2km. See precise [details of the restricted areas](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000738) (in Polish).
 
 You should check the [Polish Border Guards guidance](https://www.strazgraniczna.pl/) (in Polish), observe these regulations at all times and follow the instructions of the Polish authorities if you are in these areas.
 

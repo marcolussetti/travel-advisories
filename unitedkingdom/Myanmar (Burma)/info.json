@@ -1,11 +1,11 @@
 {
     "name": "Myanmar (Burma)",
-    "update_reason": "Updated information about Mandalay and Naypyitaw airports now only being open to domestic flights (See 'Earthquake in Myanmar' on the 'Warnings and insurance' page).",
+    "update_reason": "Updated information on Mandalay and Naypyitaw airports operating as usual ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Myanmar (Burma)/Warnings and insurance.md",
-            "update_date": "2025-04-10T16:49:33+01:00"
+            "update_date": "2025-06-11T13:52:45+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Myanmar (Burma)/Getting help.md"
         }
     ],
-    "update_date": "2025-04-10T16:49:33+01:00"
+    "update_date": "2025-06-11T13:52:45+01:00"
 }

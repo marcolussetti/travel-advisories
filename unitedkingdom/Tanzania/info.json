@@ -1,11 +1,11 @@
 {
     "name": "Tanzania",
-    "update_reason": "New information on travel to islands and coastal areas south of Kisiju (\u2018Regional risks\u2019 page).",
+    "update_reason": "Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Tanzania/Warnings and insurance.md",
-            "update_date": "2025-04-28T16:33:51+01:00"
+            "update_date": "2025-06-11T14:10:27+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Tanzania/Getting help.md"
         }
     ],
-    "update_date": "2025-04-28T16:33:51+01:00"
+    "update_date": "2025-06-11T14:10:27+01:00"
 }

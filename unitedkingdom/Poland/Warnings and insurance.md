@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   5 June 2025
+:   12 June 2025
 
 Updated:
-:   4 June 2025
+:   11 June 2025
 
 Latest update:
-:   Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport ('Safety and security' page).
+:   Updated information about access to parts of the Polish border with Belarus ('Entry requirements' page).
 
 ## Ukraine-Poland border
 

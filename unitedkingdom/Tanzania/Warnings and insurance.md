@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   29 April 2025
+:   12 June 2025
 
 Updated:
-:   28 April 2025
+:   11 June 2025
 
 Latest update:
-:   New information on travel to islands and coastal areas south of Kisiju (‘Regional risks’ page).
+:   Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/645a3ab12226ee000c0ae4a0/FCDO__TA__086_-_Tanzania_Travel_Advice_Ed1__WEB_.jpg)
 

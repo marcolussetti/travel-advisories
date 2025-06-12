@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 April 2025
+:   12 June 2025
 
 Updated:
-:   10 April 2025
+:   11 June 2025
 
 Latest update:
-:   Updated information about Mandalay and Naypyitaw airports now only being open to domestic flights (See 'Earthquake in Myanmar' on the 'Warnings and insurance' page).
+:   Updated information on Mandalay and Naypyitaw airports operating as usual ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/67f50d1390615dd92bc90cf7/FCDO__TA__064_-_Myanmar_Ed9__WEB_.jpg)
 
@@ -47,7 +47,9 @@ Find out more about [why FCDO advises against travel](/foreign-travel-advice/mya
 
 ## Earthquake in Myanmar
 
-On 28 March, a 7.7 magnitude earthquake hit Myanmar and neighbouring areas. Naypyitaw, Sagaing region, and Mandalay region continue to be affected, but especially the epicentre near Mandalay City, Mandalay region. There is heavy damage to infrastructure and Mandalay and Naypyitaw airports are only open to domestic flights.
+On 28 March, a 7.7 magnitude earthquake hit Myanmar and neighbouring areas. Naypyitaw, Sagaing region, and Mandalay region continue to be affected, but especially the epicentre near Mandalay City, Mandalay region. There is heavy damage to infrastructure.
+
+Mandalay and Naypyitaw airports are now operating as usual.
 
 If you are within these regions, there may be several strong after-shocks. Follow the advice of local authorities and monitor local media.
 
