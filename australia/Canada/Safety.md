@@ -117,6 +117,8 @@ If you plan to do a winter sport or activity:
 
 #### Forest fires
 
+Several Canadian provinces have been affected by forest fires. You should monitor local media about forest fire conditions and the impact on air quality. Follow the advice of local authorities.
+
 [Forest fires](/before-you-go/safety/natural-disasters "Staying safe when there's a natural disaster") are common and can get out of control, particularly in the warmer months from May to August. Check the latest wildfire information at [Provincial and Territorial wildfire information](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.canada.ca%2Fen%2Fpublic-safety-canada%2Fcampaigns%2Fwildfires%2Fprov.html&data=05%7C02%7CSatish.Rajah%40dfat.gov.au%7Cd9838e3b51394b80958908dcad1208d5%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638575540179057806%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=bfWM0QWpHqpNlcEz1OSbxHUSvxRkCVQayCovQxodN94%3D&reserved=0).
 
 To stay safe in fire season:

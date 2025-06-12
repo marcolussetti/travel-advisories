@@ -2,7 +2,9 @@
 
 Latest update
 
-We've reviewed our advice for Canada and continue to advise exercise normal safety precautions. Australian passport holders must apply for an electronic travel authorisation (eTA) before travelling to Canada by air (see 'Travel').
+Several Canadian provinces have been affected by forest fires. You should monitor local media about forest fire conditions and the impact on air quality. Follow the advice of local authorities (see ‘Safety’).   
+  
+We continue to advise exercise normal safety precautions in Canada. Australian passport holders must apply for an electronic travel authorisation (eTA) before travelling to Canada by air (see 'Travel').
 
 Advice Level summary
 
@@ -22,6 +24,7 @@ Exercise normal safety precautions in Canada.
 
 ### Safety
 
+* Several Canadian provinces have been affected by forest fires. You should monitor local media about forest fire conditions and the impact on air quality. Follow the advice of local authorities.
 * Avoid areas where demonstrations and protests are occurring. Follow instructions of local authorities.
 * Canada has a similar crime rate to Australia. Violent crime does occur throughout Canada, especially in larger cities. Petty crime can occur in tourist areas and on public transport. Look after your belongings. Theft from cars is common in larger cities. Don't leave valuables in your vehicle. Credit card scams and fraud occur. Check your statements often.
 * Bears and other dangerous wildlife live in forested areas. Get local advice before hiking.
