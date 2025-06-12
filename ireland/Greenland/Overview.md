@@ -33,4 +33,4 @@ As there is no Irish Embassy or Consulate in Greenland, and given the distances 
 * Get comprehensive travel and health insurance that covers all planned activities, especially any adventure activities.
 * [**Register**](/en/dfa/overseas-travel/citizens-registration/) your details with us so that we can contact you quickly if there’s an unforeseen crisis like a natural disaster or a family emergency.
 * Follow us on twitter [**@dfatravelwise**](https://www.twitter.com/DFATravelWise) for the latest travel updates.
-* Read our [**‘Know Before You Go’**](/en/dfa/overseas-travel/know-before-you-go/) guide.
+* Read our [**‘Know Before You Go’**](/en/dfa/overseas-travel/know-before-you-go-/) guide.

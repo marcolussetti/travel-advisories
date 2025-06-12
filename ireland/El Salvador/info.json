@@ -3,29 +3,29 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/El Salvador/Overview.md"
+            "title": "Travel to El Salvador overview",
+            "file": "ireland/El Salvador/Travel to El Salvador overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/El Salvador/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/El Salvador/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/El Salvador/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/El Salvador/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/El Salvador/Local laws and customs.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/El Salvador/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/El Salvador/Embassy contact.md"
         }
     ],
-    "update_date": "2025-03-13T00:00:00"
+    "update_date": "2025-06-11T00:00:00"
 }

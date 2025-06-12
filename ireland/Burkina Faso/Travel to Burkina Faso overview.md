@@ -36,7 +36,7 @@ You can contact the emergency services in Burkina Faso by dialling:
 * Get comprehensive travel insurance that covers all your planned activities.
 * [**Register**](/en/dfa/overseas-travel/citizens-registration/) your details with us so that we can contact you quickly if there’s an unforeseen crisis like a natural disaster or a family emergency.
 * Follow us on X [**@dfatravelwise**](https://www.twitter.com/DFATravelWise) and Instagram [**@dfatravelwise**](https://www.instagram.com/dfatravelwise/) for the latest travel updates.
-* Read our [**‘Know Before You Go’**](/en/dfa/overseas-travel/know-before-you-go/) guide.
+* Read our [**‘Know Before You Go’**](/en/dfa/overseas-travel/know-before-you-go-/) guide.
 * Read our [**Consular Assistance Charter**](https://www.ireland.ie/en/dfa/overseas-travel/assistance-abroad/consular-assistance-charter/) that clearly sets out the assistance that can be provided to citizens in difficulty overseas, and the limits of what the Department can do.
 
 As there is no Irish Embassy in Burkina Faso, we are limited in the help we can offer you in an emergency. However, if you need assistance, you can contact the **Irish Embassy in**[**Nigeria**](https://www.ireland.ie/en/nigeria/abuja/about/embassy-information/).

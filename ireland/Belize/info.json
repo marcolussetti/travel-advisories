@@ -3,29 +3,29 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Belize/Overview.md"
+            "title": "Travel to Belize overview",
+            "file": "ireland/Belize/Travel to Belize overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Belize/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Belize/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Belize/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Belize/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/Belize/Local laws and customs.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/Belize/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Belize/Embassy contact.md"
         }
     ],
-    "update_date": "2025-05-12T00:00:00"
+    "update_date": "2025-06-11T00:00:00"
 }

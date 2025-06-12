@@ -3,29 +3,29 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Honduras/Overview.md"
+            "title": "Travel to Honduras overview",
+            "file": "ireland/Honduras/Travel to Honduras overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Honduras/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Honduras/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Honduras/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Honduras/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/Honduras/Local laws and customs.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/Honduras/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Honduras/Embassy contact.md"
         }
     ],
-    "update_date": "2025-02-12T00:00:00"
+    "update_date": "2025-06-11T00:00:00"
 }

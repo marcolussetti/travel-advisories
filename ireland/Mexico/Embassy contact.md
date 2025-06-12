@@ -4,7 +4,7 @@ The Embassy operates an out of hours service for Irish citizens requiring emerge
 
 When leaving a message, remember to state your name, the nature of the problem, where you are now, and the details of how the Duty Officer can contact you (e.g. leave your mobile phone number, or the phone number of the hotel/hostel where you are staying).
 
-Alternatively, contact the Duty Officer at the Department of Foreign Affairs in Dublin at +353 (0)1 408 2000.
+Alternatively, contact the Duty Officer at the Department of Foreign Affairs and Trade in Dublin at +353 (0)1 408 2000.
 
 Monday to Friday 09:30 to 13:30
 

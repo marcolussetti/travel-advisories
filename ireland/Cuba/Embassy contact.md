@@ -1,5 +1,7 @@
 ## Embassy contact
 
+As there is no Irish Embassy in Cuba, we are limited in the help we can offer in an emergency. However, if assistance is required, please contact the [**Irish Embassy in Mexico City**](https://www.ireland.ie/en/mexico/mexicocity/).
+
 The Embassy operates an out of hours service for Irish citizens requiring emergency assistance on weekends and public holidays.
 
 If in need of emergency assistance during these times, please leave a message on the emergency message system by calling +52 55 5520 5803.

@@ -32,6 +32,6 @@ The ongoing conflict has seriously affected public infrastructure and services. 
 * Get comprehensive travel insurance that covers all your planned activities.
 * [**Register**](/en/dfa/overseas-travel/citizens-registration/) your details with us so that we can contact you quickly if there is an unforeseen crisis like a natural disaster or a family emergency.
 * Follow us on X [**@dfatravelwise**](https://www.twitter.com/DFATravelWise) and Instagram [**@dfatravelwise**](https://www.instagram.com/dfatravelwise/) for the latest travel updates.
-* Read our [**‘Know Before You Go’**](/en/dfa/overseas-travel/know-before-you-go/) guide.
+* Read our [**‘Know Before You Go’**](/en/dfa/overseas-travel/know-before-you-go-/) guide.
 
 As there is no Irish Embassy in Syria, we are limited in the help we can offer you in an emergency. However, if you need assistance, you can contact the [**Irish Embassy in Cairo, Egypt**](/en/egypt/cairo/)**.** If you are an Irish citizen and in need of emergency assistance outside of normal office hours, then you can contact us on the following emergency number: +20 1274443942.

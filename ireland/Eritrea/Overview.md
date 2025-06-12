@@ -31,6 +31,6 @@ Citizens can also follow the Embassy on social media ([**Twitter@ IrlEmbKenya**]
 * Get comprehensive travel insurance that covers all your planned activities.
 * [**Register**](/en/dfa/overseas-travel/citizens-registration/) your details with us so that we can contact you quickly if there’s an unforeseen crisis like a natural disaster or a family emergency.
 * Follow us on twitter [**@dfatravelwise**](https://www.twitter.com/DFATravelWise) for the latest travel updates.
-* Read our [**‘Know Before You Go’**](/en/dfa/overseas-travel/know-before-you-go/) guide.
+* Read our [**‘Know Before You Go’**](/en/dfa/overseas-travel/know-before-you-go-/) guide.
 
 As there is no Irish Embassy in Eritrea, we are limited in the help we can offer you in an emergency. However, if you need assistance, you can contact the [**Irish Embassy in Kenya**](/en/kenya/nairobi/).

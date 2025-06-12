@@ -36,6 +36,6 @@ The best help is often close at hand so if a problem arises, try talking to loca
 * Please be aware that travel insurance providers may not cover the Democratic Republic of Congo due to the DFA ‘Do Not Travel’ security status that is currently in place (see above).
 * [**Register**](/en/dfa/overseas-travel/citizens-registration/) your details with us so that we can contact you quickly if there is an unforeseen crisis like a natural disaster or a family emergency.
 * Follow us on X [**@dfatravelwise**](https://www.twitter.com/DFATravelWise) and Instagram [**@dfatravelwise**](https://www.instagram.com/dfatravelwise/) for the latest travel updates.
-* Read our [**‘Know Before You Go’**](/en/dfa/overseas-travel/know-before-you-go/) guide.
+* Read our [**‘Know Before You Go’**](/en/dfa/overseas-travel/know-before-you-go-/) guide.
 
 As there is no Irish Embassy in DRC, we are limited in the help we can offer in an emergency. However, if assistance is required, contact the [**Irish Embassy in Tanzania**](/en/tanzania/daressalaam/)**.**

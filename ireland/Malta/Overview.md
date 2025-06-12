@@ -32,4 +32,4 @@ Get a [**European Health Insurance Card**](http://www.hse.ie/eng/services/list/
 
 Follow us on X [**@dfatravelwise**](https://www.twitter.com/DFATravelWise)and Instagram [**@dfatravelwise**](https://www.instagram.com/dfatravelwise/)  for the latest travel updates.
 
-Read our [**‘Know Before You Go’**](/en/dfa/overseas-travel/know-before-you-go/) guide.
+Read our [**‘Know Before You Go’**](/en/dfa/overseas-travel/know-before-you-go-/) guide.

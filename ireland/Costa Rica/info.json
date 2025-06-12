@@ -3,29 +3,29 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Costa Rica/Overview.md"
+            "title": "Travel to Costa Rica overview",
+            "file": "ireland/Costa Rica/Travel to Costa Rica overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Costa Rica/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Costa Rica/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Costa Rica/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Costa Rica/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/Costa Rica/Local laws and customs.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/Costa Rica/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Costa Rica/Embassy contact.md"
         }
     ],
-    "update_date": "2025-02-12T00:00:00"
+    "update_date": "2025-06-11T00:00:00"
 }

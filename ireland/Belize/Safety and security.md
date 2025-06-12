@@ -16,6 +16,6 @@ If engaging in adventure tourism or outdoor activities, review weather condition
 
 Road conditions and driving standards are poor. Overland travel outside the major cities and resort areas should be undertaken with caution and only during daylight hours. It is not advised to drive in rural areas during or immediately after heavy rains.
 
-### **Hurricane season**
+### **Hurricane Season**
 
 The hurricane season generally runs from June to November each year and can cause heavy rain, flooding and extremely high winds. Citizens with plans to be in the affected region during this period should consider the need to travel based on information relating to extreme weather projections. Always monitor local and international weather updates for the region by accessing, for example, [**the Weather Channel**](https://weather.com/en-IE/weather/today/l/EIXX0014:1:EI?Goto=Redirected), or the [**US National Hurricane Centre website**](https://www.nhc.noaa.gov/).

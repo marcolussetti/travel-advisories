@@ -37,7 +37,7 @@ In the west of the country, there has been a rise in drug-related crime in the s
 
 Crime is also present in the East and South of the country, and citizens are encouraged to take care while travelling in all areas.
 
-### **Drug-related violence**
+### **Drug-related Violence**
 
 * Drug-related violence in Mexico has increased over recent years, with homicide rates peaking in 2021, though rates are still very high compared to Ireland. The violence is concentrated in certain areas. Make sure to research your destination thoroughly.
 * Although tourists are not usually targeted directly, the popular tourist destinations of Acapulco, Los Cabos, Taxco, Tijuana and Zihuatenejo are now classified as amongst the most dangerous locations in Latin America due to their homicide rates. In the last number of years, incidents in the Quintana Roo and Acapulco areas, amongst others, related to drugs/criminal gangs directly affected tourists and passers-by.
@@ -45,7 +45,7 @@ Crime is also present in the East and South of the country, and citizens are enc
 * Irish visitors who consider it necessary to visit Tijuana should remain in the Zona Río and Av. Revolución areas of the city and avoid the Zonas Norte and Oriente. There are high levels of crime in Rosarito.
 * Air travel should be favoured for travel to and within the northern border and Pacific states unless the safety of your preferred road route has been confirmed.
 
-### **Demonstrations and protests**
+### **Demonstrations and Protests**
 
 * Demonstrations and protests occur regularly throughout the country. Demonstrations and roadblocks are common in Mexico City (including to and from the airport) and in the states of Chiapas, Guerrero, Michoacán and Oaxaca. Visitors should avoid demonstrations and follow the advice of the local authorities while travelling in an area where a protest is taking place.
 
@@ -59,7 +59,7 @@ There is a high level of violent crime in Mexico. Pay close attention to your se
 * Keep a close eye on personal belongings and hold on to them in public places such as internet cafes, train and bus stations
 * Avoid dark and unlit streets and stairways, arrange to be picked up or dropped off as close to your hotel or apartment entrance as possible
 
-### **Reporting a crime**
+### **Reporting a Crime**
 
 If a victim of a crime while in Mexico, and visitors wish to report it, contact the nearest office of the Agencia del Ministerio Público (State Prosecutor’s office) as soon as possible. Complaints must be made in person, and photo identification must be presented. Please note that no criminal investigation is possible without a formal complaint to the authorities.
 
@@ -104,11 +104,11 @@ If driving:
 * People who rent or borrow cars in Mexico are responsible for any illegal items found in those vehicles, even if they were unaware of their presence
 * Be aware of local restrictions (for example certain limitations exist in Mexico City, where cars cannot circulate on certain days due to air pollution concerns).
 
-### **Vehicle emergency assistance**
+### **Vehicle Emergency Assistance**
 
 In case of a vehicle breakdown or roadside emergency, a highway patrol service offered by the Mexican Ministry of Tourism (SECTUR) called the Green Angels (Angeles Verdes) provides free assistance on all major toll highways from 8am to 8pm. The emergency number to request assistance from the Green Angels is 078.
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If hiring a vehicle, we advise not to hand over your passport as a form of security. If allowing your passport to be photocopied, keep it in sight at all times.
 
@@ -122,11 +122,11 @@ It is important to be particularly alert on public transport. When travelling on
 
 If travelling in Cancún and the States of Quintana Roo and/or Yucatán, visitors should note that there have been taxi driver protests at Cancún Airport and in the hotel zone over the introduction of ride-sharing applications, which have disrupted passengers travelling to and from the airport. Further protests may arise in future.
 
-### **Petty theft**
+### **Petty Theft**
 
 Pick-pocketing is common on the Mexico City Metro. Avoid travel during the rush hour if possible. Remain vigilant on long-distance bus journeys and pay attention to your hand luggage. It is advisable to use first-class bus services and travel during daylight. Crime levels on inter-city buses and on highways are high, and the risks increase after dark.
 
-### **Lost or stolen passports**
+### **Lost or Stolen passports**
 
 If your passport is lost or stolen, please notify the [**Embassy in Mexico City**](https://www.ireland.ie/en/mexico/mexicocity/) to get a replacement. While most visitors should be able to request a new passport using the online system, the arrival and collection or delivery of a replacement passport can take several weeks due to time and distance factors. Please take extreme care with your passport and other personal documentation. Getting a replacement passport will be easier if a copy of the lost or stolen one can be provided, so keep photocopies of your passport.
 
@@ -136,7 +136,7 @@ Be very cautious if approached by people who present themselves as police office
 
 “Virtual kidnapping” is an increasingly common trend in Mexico. This involves criminals calling, pretending to be a distressed relative/friend/employee that has been kidnapped and explaining the kidnappers have demanded a ransom for release. If this occurs, hang up immediately and verify the safety of the individual concerned.
 
-### **Crossing the US-Mexico border**
+### **Crossing the US-Mexico Border**
 
 Visitors should travel to Mexico by air to avoid international land border crossings, particularly along the border with the United States, in the following cities:
 

@@ -1,6 +1,6 @@
 ## Safety and security
 
-### **Hurricane season**
+### **Hurricane Season**
 
 The hurricane season in the Caribbean normally runs from July to October. Visitors should pay close attention to local and international weather reports and follow the advice of local authorities. Always monitor local and international weather updates for the region by accessing, for example, [**the Weather Channel**](http://www.weather.com/),or the [**US National Hurricane Centre website**](http://www.nhc.noaa.gov/).
 
@@ -29,7 +29,7 @@ Up to date security information is available in English through the Guatemalan T
 
 PROATUR issues advice on which routes to take when travelling in and around Sololá, Panajachel and Lake Atitlan. Avoid the Godinez by-pass via Patzun between Guatemala City and Panajachel. Use the Pan American Highway to Sololá instead. Visitors should also avoid the road between Cocales (Suchitepequez) and San Lucas Toliman (Atitlan) if possible.
 
-### **Road travel**
+### **Road Travel**
 
 For security reasons visitors should avoid travel on public buses, giving preference to private coach services which are generally safer. Visitors should prioritise travelling during the day on main roads.
 
@@ -39,7 +39,7 @@ PROVIAL, a roadside assistance force, patrols most of the major roads in the cou
 
 It is generally safer to travel on main roads. There is a greater risk of attack on quieter routes. Travel in convoy if possible. In more isolated locations, roads are unpaved and a four-wheel drive vehicle may be needed.
 
-### **Border areas**
+### **Border Areas**
 
 There have been numerous reports of customs/immigration officials charging an “entry fee”. This is illegal. By asking for an official receipt for money you may find that the “fee” is dropped.
 

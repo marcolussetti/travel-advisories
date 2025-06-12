@@ -26,11 +26,11 @@ Visitors should be aware that spot-checks are frequent, particularly in the sout
 
 If detained, you can ask the detention centre to notify the Embassy of Ireland in Mexico City, and request consular assistance. Please be aware that the majority of immigration authorities can only be contacted during office hours Monday-Friday.
 
-### **Illegal drugs**
+### **Illegal Drugs**
 
 Do not get involved with drugs of any kind in any way. Penalties for drug offences are severe. Convictions carry very long sentences – up to 25 years.
 
-### **Public order offences**
+### **Public Order Offences**
 
 Drinking alcohol in public places is strictly prohibited.
 
@@ -40,4 +40,8 @@ The status of same-sex marriage in Mexico’s states is complex. Currently, all 
 
 More information on procedures, local laws, development of current events or social services you can contact LOCATEL at 5658 1111. They have English-speaking staff available.
 
-Assisted human reproduction (surrogacy): Mexico is a federal country, with 32 states. There is no national law on assisted human reproduction or surrogacy, and regulations differ by state. The Department of Foreign Affairs urges caution in respect of undertaking a surrogacy arrangement in Mexico. Irish citizens should obtain independent and comprehensive legal advice before entering into any arrangement and should anticipate potential delays and other complications in securing the necessary paperwork to leave Mexican jurisdiction with a baby born by surrogacy. The Department also advises intending parents to prepare to remain in the country for up to three months after the birth of a baby by surrogacy.
+Assisted human reproduction (surrogacy): Mexico is a federal country, with 32 states. There is no national law on assisted human reproduction or surrogacy, and regulations differ by state. The Department of Foreign Affairs and Trade urges caution in respect of undertaking a surrogacy arrangement in Mexico. Irish citizens should obtain independent and comprehensive legal advice before entering into any arrangement and should anticipate potential delays and other complications in securing the necessary paperwork to leave Mexican jurisdiction with a baby born by surrogacy. The Department also advises intending parents to prepare to remain in the country for up to three months after the birth of a baby by surrogacy.
+
+### **Political Activities**
+
+The Mexican Constitution prohibits political activities by foreigners, and participation in activities such as demonstrations may result in detention and/or deportation.

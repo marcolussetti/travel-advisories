@@ -35,6 +35,6 @@ Visitors can contact the emergency services in Haiti by dialling:
 * Get comprehensive travel insurance that covers all planned activities.
 * [**Register**](/en/dfa/overseas-travel/citizens-registration/) your details with us so that we can contact you quickly if there is an unforeseen crisis like a natural disaster or a family emergency.
 * Follow us on twitter [**@dfatravelwise**](https://www.twitter.com/DFATravelWise) for the latest travel updates.
-* Read our [**‘Know Before You Go’**](/en/dfa/overseas-travel/know-before-you-go/) guide.
+* Read our [**‘Know Before You Go’**](/en/dfa/overseas-travel/know-before-you-go-/) guide.
 
 As there is no Irish Embassy in Haiti, we are limited in the help we can offer in an emergency. However, if assistance is required, contact the [**Embassy of Ireland to the USA in Washington DC**](/en/usa/washington/).

@@ -3,29 +3,29 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Togo/Overview.md"
+            "title": "Travel to Togo overview",
+            "file": "ireland/Togo/Travel to Togo overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Togo/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Togo/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Togo/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Togo/Additional information.md"
+            "title": "Local Laws and Customs",
+            "file": "ireland/Togo/Local Laws and Customs.md"
+        },
+        {
+            "title": "Entry Requirements",
+            "file": "ireland/Togo/Entry Requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Togo/Embassy contact.md"
         }
     ],
-    "update_date": "2025-03-19T00:00:00"
+    "update_date": "2025-06-11T00:00:00"
 }

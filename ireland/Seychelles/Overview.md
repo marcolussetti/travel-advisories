@@ -25,6 +25,6 @@ Visitors can contact the emergency services in Seychelles by dialling 999.
 * Get comprehensive travel insurance that covers all planned activities.
 * [**Register**](/en/dfa/overseas-travel/citizens-registration/) your details with us so that we can contact you quickly if there is an unforeseen crisis like a natural disaster or a family emergency.
 * Follow us on twitter [**@dfatravelwise**](https://www.twitter.com/DFATravelWise) for the latest travel updates.
-* Read our [**‘Know Before You Go’**](/en/dfa/overseas-travel/know-before-you-go/) guide.
+* Read our [**‘Know Before You Go’**](/en/dfa/overseas-travel/know-before-you-go-/) guide.
 
 As there is no Irish Embassy in Seychelles, we are limited in the help we can offer in an emergency. However, if assistance is required, contact the [**Irish Embassy in Tanzania**](/en/tanzania/daressalaam/).

@@ -2,16 +2,8 @@
 
 ### **Entry requirements**
 
-Irish citizens can obtain a free 30 day visa waiver on arrival in Qatar.
+Irish citizens can obtain a free 30 day visa waiver on arrival in Qatar. Passports should be valid for a minimum remaining period of six months to enter Qatar. A longer period of validity may be required if you intend to seek a Qatari residency visa. If you hold a Qatari residence permit, your passport must be valid for at least 3 months in order to travel into the country.
 
-Information on entry visas for Qatar can be found on the [**Qatar Ministry of Interior website.**](https://portal.moi.gov.qa/qatarvisas/)
+If unsure of what the entry requirements for Qatar are, including visa and other immigration information, ask your travel agent or contact the nearest [**Embassy or Consulate of Qatar**](https://mofa.gov.qa/en)**.** Information on entry visas for Qatar can also be found on the [**Qatar Ministry of Interior website.**](https://portal.moi.gov.qa/qatarvisas/)
 
-If unsure about the entry requirements for Qatar, including visa and other immigration information, ask your travel agent/airline or contact the nearest [**Embassy or Consulate of Qatar.**](https://www.mofa.gov.qa/en)
-
-### **Passports**
-
-Irish passports should be valid for a minimum of 6 months from the date of entry to Qatar. A longer period of validity may be required if planning to obtain a Qatari residency permit.
-
-Emergency Irish travel documents are not accepted for entry to Qatar but may be accepted for transit. Please contact your travel agent/airline and/or the nearest [**Embassy or Consulate of Qatar**](https://www.mofa.gov.qa/en) for further information.
-
-Do not carry your passport unless absolutely necessary and leave a photocopy of passport (and travel and insurance documents) in your hotel or with family or friends at home. Make sure to have a screen shot of your passport on your phone.
+Visitors must have legal status in Qatar when they depart. If your residency visa is under process, have overstayed your visa, involved in legal proceedings, have unpaid debt or are a child subject to a custody dispute, you may be prevented from leaving the country. A number of Irish nationals have been arrested when departing or transiting Qatar, including as a result of unpaid debts in the country.

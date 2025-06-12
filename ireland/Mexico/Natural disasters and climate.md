@@ -1,6 +1,6 @@
 ## Natural disasters and climate
 
-### **Hurricane season**
+### **Hurricane Season**
 
 The hurricane season in Mexico extends from June to the end of November and can severely disrupt transportation and utilities. Landslides, mudslides and flooding may occur. In the case of a hurricane, monitor local media reports and follow the instructions of local emergency officials. Visitors should also monitor local and international weather updates for the region and check the [**Weather Channel**](http://www.weather.com/) or the [**National Hurricane Centre**](http://www.nhc.noaa.gov/) in Miami.
 

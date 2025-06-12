@@ -10,6 +10,6 @@ Guatemalan medical service providers can be reluctant to offer care/treatment if
 
 There may be a risk of Zika virus in Guatemala. Irish Citizens especially those with a weakened immune system or women who are pregnant or trying to become pregnant are advised to follow guidance available on the website of the [**Health Protection Surveillance Centre (HPSC)**](https://www.hpsc.ie/a-z/vectorborne/zika/).
 
-### **Dengue fever**
+### **Dengue Fever**
 
 Dengue fever , a mosquito-borne illness, is common in Guatemala. Visitors to the country are advised to take appropriate precautions to avoid mosquito bites, such as using insect repellents, covering up and using mosquito nets, and to seek early medical advice if they experience symptoms of the virus. Please consult a doctor or the [**WHO**](https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue#:~:text=Dengue%20is%20a%20viral%20infection,million%20infections%20occurring%20each%20year.) for further information.

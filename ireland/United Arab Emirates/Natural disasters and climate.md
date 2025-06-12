@@ -2,12 +2,14 @@
 
 ### **Climate**
 
-The UAE is hot and dry most of the year. Drink plenty of water but remember that during Ramadan it is an offence to eat or drink in public between sunrise and sunset.
+The UAE has an arid desert climate characterised by extremely hot summers, with temperatures often exceeding 45°C, and mild winters. Rainfall is scarce and sporadic while humidity levels can be high, especially in coastal areas.
 
 ### **Sandstorms**
 
-There are occasional sandstorms but they are not usually bad enough to affect daily life.
+Sandstorms in the UAE are common, especially during the summer, when strong winds lift dust and sand, reducing visibility and air quality. These storms can occasionally disrupt travel and daily activities
 
 ### **Flooding**
 
-In some parts of the country, particularly in the mountains, occasional heavy rain can cause flash floods. Take precautions and seek out local advice.
+While rainfall is scarce and sporadic in the UAE, in recent years there have been some heavy rains between October and April across the UAE. This can lead to serious flooding that has resulted in major disruption and severe damage to property. Roads may be impassable due to flooding.
+
+During this period you should regularly check local weather forecasts and local media reporting, and to take appropriate precautions.

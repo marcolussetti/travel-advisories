@@ -1,12 +1,12 @@
 ## Embassy contact
 
-We do not have an Embassy in Kuwait, please contact Embassy of Ireland United Arab Emirates on +971 (0) 2 4958200.
+Ireland does not have an Embassy in Kuwait. If you need assistance, please contact the Embassy of Ireland United Arab Emirates on +971 (0) 2 4958200.
 
-If emergency assistance is required at the weekend or on a public holiday, leave a message on the answering machine. The answering machine is monitored regularly, and the Duty Officer at the Embassy will contact you as soon as possible.
+If you require emergency assistance at the weekend or on a public holiday, you will be asked to leave a message on the answering machine. The answering machine is monitored regularly, and the Duty Officer at the Embassy will contact you as soon as possible. When you leave a message, remember to state your name, the nature of the problem, where you are now, and the details of how the Duty Officer can contact you (e.g. leave your mobile phone number or the phone number of the hotel/hostel where you are staying). If necessary, contact the police. Please note that the Duty Officer will deal with emergencies only.
 
-Monday - Thursday 09:00-13:00
+The Embassy’s opening hours are as follows:
 
-Friday 09:00-11:00
+Monday - Thursday 09:00-13:00 Friday 09:00-11:00
 
 ### Embassy of Ireland, UAE
 

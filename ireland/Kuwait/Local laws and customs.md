@@ -1,31 +1,25 @@
 ## Local laws and customs
 
-Remember, the local laws apply to you as a visitor and it is your responsibility to follow them. Be sensitive to local customs, traditions and practices as your behaviour may be seen as improper, hostile or may even be illegal.
-
 ### **Muslim culture**
 
-Kuwait is a Muslim state and Islamic customs are strictly observed. Respect local traditions, customs, laws and religions. Dress conservatively - women who wear shorts or tight-fitting clothes, in particular in downtown areas, are likely to attract unwelcome attention. Be aware of your actions and take care not to offend other cultures or religious beliefs, especially during the holy month of Ramadan or other religious festivals, or if you intend to visit religious areas.
+Kuwait is an Islamic country and you should respect local traditions, customs, laws and religions. Be aware of your actions and take care not to offend other cultures or religious beliefs, especially during the holy month of Ramadan or other religious festivals, or if you intend to visit religious areas.
+
+Dress conservatively, particularly in the Emirates of Sharjah and Ajman, where Islamic law is more rigorously enforced. Women should cover shoulders and knees and underwear should not be visible. Swimming attire should only be worn on beaches or at swimming pools.
+
+Public displays of affection are frowned upon, and there have been several arrests for kissing in public. Sex outside of marriage is illegal, as is cohabitation, adultery and homosexual behaviour. If you conduct a sexual relationship outside heterosexual marriage you run the risk of prosecution, imprisonment and/or a fine and deportation. Private life is respected in Kuwait, however, people are punished for sexual activity outside marriage where there is a public element or if it is brought to the attention of the police authorities.
 
 During Ramadan, Muslims are not permitted to eat, drink or smoke during daylight hours. To avoid offence, you should not eat, drink or smoke in public during this time.
 
-Illegal drug use (no matter what the drug) carries stiff penalties, including fines and long prison terms.
-
 ### **Alcohol**
 
-Drunken behaviour in public or driving under the influence of alcohol is punishable by a fine or imprisonment and/or deportation and the withdrawal of your driving licence.
+Alcohol is illegal in Kuwait. Drunken behaviour in public or driving under the influence of alcohol is punishable by a fine, imprisonment, and/or deportation as well as the withdrawal of your driving licence.
 
-### **Sexual behaviour**
+### **Illegal drugs**
 
-Homosexual behaviour is illegal. Any public display of affection between men and women is also illegal. Caution and discretion are advised at all times.
+There is zero tolerance for drug-related offences.
+
+The penalties for drug trafficking, smuggling and possession of illegal drugs (including residual amounts) are severe. Drug trafficking penalties can include the death sentence or life imprisonment.
 
 ### **Forbidden products**
 
-The import and use of narcotics, alcohol, pork products and obscene material are forbidden and can lead to imprisonment.
-
-### **Business/commercial activities**
-
-Anyone involved in a commercial or any other dispute with a Kuwaiti company or individual may be prevented from leaving the country or placed in custody, pending resolution of the dispute. Bouncing cheques is illegal in Kuwait and can result in imprisonment and/or a fine.  The law does not provide for offenders to be released from custody on bail. 'Post dated' cheques can be banked immediately.
-
-### **Co-habiting**
-
-Co-habiting in Kuwait is illegal. If living with your partner in the same house, you need to be married.
+Bringing drugs, pork products, and pornographic books and materials into Kuwait is forbidden. Videos, books and magazines are subject to scrutiny and may be censored.

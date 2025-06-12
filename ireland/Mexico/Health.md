@@ -10,7 +10,7 @@ Not all hospitals will agree to deal directly with medical insurance companies h
 
 Check with a doctor well in advance of travelling to see if any vaccinations are needed for Mexico.
 
-### **Malaria and dengue fever**
+### **Malaria and Dengue fever**
 
 Malaria and dengue fever are endemic in low-lying rural areas of Mexico and outbreaks can occur throughout the year. If visiting these areas, consult a doctor before travelling about suitable anti-malarial medication and on arrival take adequate precautions against being bitten by mosquitoes. Mosquito repellent and clothing covering as much skin as possible provides some protection.
 

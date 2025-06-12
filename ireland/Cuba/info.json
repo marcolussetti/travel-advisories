@@ -3,25 +3,29 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Cuba/Overview.md"
+            "title": "Travel to Cuba overview",
+            "file": "ireland/Cuba/Travel to Cuba overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Cuba/Safety and security.md"
         },
         {
+            "title": "Health",
+            "file": "ireland/Cuba/Health.md"
+        },
+        {
             "title": "Local laws and customs",
             "file": "ireland/Cuba/Local laws and customs.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Cuba/Additional information.md"
+            "title": "Entry requirements",
+            "file": "ireland/Cuba/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Cuba/Embassy contact.md"
         }
     ],
-    "update_date": "2025-06-10T00:00:00"
+    "update_date": "2025-06-11T00:00:00"
 }

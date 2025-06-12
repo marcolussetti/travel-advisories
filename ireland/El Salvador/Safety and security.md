@@ -41,7 +41,7 @@ Foreign nationals can be kidnapping targets either for political or financial re
 
 Unexploded ordnance such as landmines is a danger in the El Salvador countryside, a legacy of past conflicts. Always keep to main routes, take local advice and avoid travel to such areas if advised to do so.
 
-### **Local travel**
+### **Local Travel**
 
 Try to avoid travelling anywhere in El Salvador at night and avoid travelling alone. Take particular care if you need to go to downtown San Salvador, other towns or cities, or travel on roads outside of major towns and cities after dark. Where possible, travel as part of a group and with a reputable travel company. Avoid travelling on public buses.
 
@@ -51,11 +51,11 @@ There have been instances of armed attacks on vehicles travelling throughout El 
 
 For shorter trips within towns and cities it is safer to take radio or hotel taxis rather than public buses or unofficial taxis.
 
-### **Lost or stolen passports**
+### **Lost or Stolen passports**
 
 If passports are lost or stolen, getting a replacement can take up to two weeks so keep your travel documents secure at all times. Getting a replacement passport will be easier if citizens are able to provide a copy of the lost or stolen one, so keep photocopies of your passport.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If citizens are a victim of a crime while in El Salvador, report it to the local police immediately. Contact us at the [**Irish Embassy in Mexico City**](https://www.ireland.ie/en/mexico/mexicocity/) if help is required.
 
@@ -68,7 +68,7 @@ If you are planning to drive in El Salvador, be extremely careful as road condit
 * Keep vehicle doors locked and bags kept out of sight to prevent opportunistic bag-snatching if stopped at traffic lights
 * Take particular care when travelling to/from the border with Guatemala. There have been reports of violent attacks on vehicles.
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If hiring a vehicle, we advise not to hand over your passport as a form of security. If allowing your passport to be photocopied, keep it in your sight at all times.
 
@@ -78,7 +78,7 @@ Check that you have adequate insurance and read the small print of the vehicle h
 
 Swimming on El Salvador's Pacific coast can be dangerous due to strong undertows. The currents around La Bocana de San Diego are particularly dangerous and several people have drowned in recent years. The number of lifeguards is limited and you should avoid swimming on isolated beaches.
 
-### **Hurricane season**
+### **Hurricane Season**
 
 The hurricane season in the Caribbean normally runs from July to October. Close attention should be paid to local and international weather reports and follow the advice of local authorities. Always monitor local and international weather updates for the region by accessing, for example, [**the Weather Channel**](http://www.weather.com/), or the [**US National Hurricane Centre website**](http://www.nhc.noaa.gov/).
 

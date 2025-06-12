@@ -2,7 +2,7 @@
 
 ### **Climate**
 
-The climate in Qatar is hot and dry most of the year. Take appropriate precautions to prevent sunburn and dehydration, remembering that during Ramadan it is an offence to eat or drink in public between sunrise and sunset.
+The climate in Qatar is hot and dry most of the year, with temperatures often exceeding 40°C, and mild winters. Rainfall is scarce and sporadic while humidity levels can be high, especially in coastal areas.
 
 ### **Sandstorms**
 

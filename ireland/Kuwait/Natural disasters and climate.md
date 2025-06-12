@@ -2,7 +2,7 @@
 
 ### **Climate**
 
-The climate in Kuwait is hot and dry most of the year.
+Kuwait has an arid desert climate characterised by extremely hot summers, with temperatures often exceeding 45°C, and mild winters. Rainfall is scarce and sporadic while humidity levels can be high, especially in coastal areas.
 
 ### **Sandstorms**
 

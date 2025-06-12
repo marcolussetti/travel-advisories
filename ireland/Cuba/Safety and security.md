@@ -8,7 +8,7 @@ Most visits to Cuba are trouble-free but please take sensible precautions:
 * Avoid dark and unlit streets and stairways, and arrange to be picked up or dropped off as close to your hotel or apartment entrance as possible.
 * Keep a close eye on personal belongings and hold on to them in public places such as internet cafés, train and bus stations.
 
-### **Petty theft**
+### **Petty Theft**
 
 Theft from luggage during baggage handling at airports can occur both on arrival and departure. Always remove all valuables, lock suitcases and consider having them shrink-wrapped before check-in.
 
@@ -16,15 +16,15 @@ Petty crime such as pickpocketing and bag snatching occurs, particularly on publ
 
 Thefts from hotel and guesthouse accommodation occur. We advised you to ensure that valuables are held securely and to exercise due caution at all times.
 
-### **Serious crime**
+### **Serious Crime**
 
 Car-related crime and muggings can occur from time to time in areas including Havana, Santiago and other areas less frequented by tourists. There have been attacks on foreigners using hire cars after staged punctures and by bogus hitch-hikers. Do not pick people up. If you get a puncture in a lonely spot, drive on several kilometres, preferably to a town, before stopping.
 
-### **Lost or stolen passports**
+### **Lost or Stolen passports**
 
 If your passport is lost or stolen, getting a replacement can take up to two weeks so keep your travel documents secure at all times. Getting a replacement passport will be easier if a copy of the lost or stolen one is provided, so keep photocopies of your passport.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If a victim of a crime while in Cuba, report it to the local police immediately. If assistance is required please contact us at the [**Irish Embassy in Mexico City**](/en/mexico/mexicocity/).
 
@@ -37,16 +37,16 @@ Many vehicles, including public transport, suffer from lack of maintenance and r
 * Keep vehicle doors locked and bags kept out of sight to prevent opportunistic bag-snatching if stopped at traffic lights
 * Beware of cyclists, potholes and cars that stop without warning to pick up hitchhikers
 
-### **Traffic accidents**
+### **Traffic Accidents**
 
 If involved in an accident, you may be detained, regardless of who is at fault. If you have a traffic accident where someone is killed or injured, the police investigation may take several months during which time the driver will normally not be allowed to leave Cuba. In some cases the driver may be imprisoned during this delay.
 
-### **Public transport**
+### **Public Transport**
 
 * Only use established tour operators and regulated taxis
 * Avoid using mopeds or three wheel Coco-Taxis for travel around Cuba
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If hiring a vehicle, we advise not to hand over your passport as a form of security. If allowing your passport to be photocopied, keep it in sight at all times.
 

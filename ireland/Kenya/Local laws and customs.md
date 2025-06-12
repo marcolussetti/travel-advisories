@@ -10,7 +10,7 @@ We advise caution if purchasing land or engaging in business ventures in Kenya a
 
 We advise caution if travelling to Kenya to meet an online acquaintance due to instances of fraud.
 
-Homosexuality is illegal in Kenya and public displays of affection could lead to arrest and imprisonment. More information for LGBT travellers is available at the following link [**dfa.ie/travel/assistance-abroad/lgbt/**](/en/dfa/overseas-travel/know-before-you-go/)
+Homosexuality is illegal in Kenya and public displays of affection could lead to arrest and imprisonment. More information for LGBT travellers is available at the following link [**dfa.ie/travel/assistance-abroad/lgbt/**](/en/dfa/overseas-travel/know-before-you-go-/)
 
 Kenya has banned plastic bags for environmental reasons and you will be asked to leave any plastic bags on the plane before leaving the aircraft on arrival.
 

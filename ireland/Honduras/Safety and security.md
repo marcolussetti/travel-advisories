@@ -24,21 +24,21 @@ Travellers should avoid walking in cities and towns across mainland Honduras inc
 
 Violent crime does not usually target business travellers and foreign nationals directly. However, shoot-outs between gang members and the security forces in public places can pose significant incidental risk to bystanders.
 
-### **Petty theft**
+### **Petty Theft**
 
 Petty theft is a problem in cities and tourist areas, including the Bay Islands (Roatan, Utila and Guanaja). Be particularly careful of belongings at bus stations, airports, isolated beaches, tourist sites, and on public transport. Keep valuables locked away in a safe or on your person when travelling.
 
-### **Serious crime**
+### **Serious Crime**
 
 Violent crime and taxi-muggings are common in Honduras. Be cautious when using public transport, including taxis, and make sure your accommodation has adequate security. Always be particularly careful after nightfall.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If a victim of a crime while in Honduras, please report it to the local police. Please also [**contact the Irish Embassy in Mexico**](https://www.ireland.ie/en/mexico/mexicocity/) on +52 55 5520 5803.
 
 Check that you have adequate insurance and read the small print of the vehicle hire contract (particularly any waiver that will come into effect if the vehicle is damaged).
 
-### **Local travel**
+### **Local Travel**
 
 Take care travelling in Honduras as there have been reports of violent attacks on cars and buses. Particular care should be taken if travelling on microbuses (‘colectivos’) in large cities such as Tegucigalpa and San Pedro Sula for security reasons. Travelling on major roads between large towns/cities is safer than travelling on more remote routes. Do not travel between towns/cities after dark as you greatly increase the risk of attack.
 
@@ -46,6 +46,6 @@ Take care travelling in Honduras as there have been reports of violent attacks o
 
 Exercise extreme caution near the borders with Guatemala, El Salvador and Nicaragua given the elevated risk of crime. Travellers should cross borders in the morning as they sometimes close in the early evening or remain unmanned at nights. It also allows time for you to reach your destination before dark. Visitors should avoid dealing with anyone suggesting that they can obtain your documents more quickly or more cheaply. Border fee crossings are US$3, or its equivalent in lempira, and the receipt should be retained. There are unmarked minefields in/around the border with Nicaragua. Take care and avoid walking on unmarked paths or off main roads in these areas.
 
-### **Hurricane season**
+### **Hurricane Season**
 
 The hurricane season in the Caribbean normally runs from July to October. Visitors should pay close attention to local and international weather reports and follow the advice of local authorities. Always monitor local and international weather updates for the region by accessing, for example, [**the Weather Channel**](http://www.weather.com/), or the [**US National Hurricane Centre website**](http://www.nhc.noaa.gov/).

@@ -3,29 +3,29 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Nicaragua/Overview.md"
+            "title": "Travel to Nicaragua overview",
+            "file": "ireland/Nicaragua/Travel to Nicaragua overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Nicaragua/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Nicaragua/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Nicaragua/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Nicaragua/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/Nicaragua/Local laws and customs.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/Nicaragua/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Nicaragua/Embassy contact.md"
         }
     ],
-    "update_date": "2024-02-02T00:00:00"
+    "update_date": "2025-06-11T00:00:00"
 }
