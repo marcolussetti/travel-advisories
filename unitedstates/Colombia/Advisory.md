@@ -88,7 +88,7 @@ Do not travel to this area for any reason. Crime, kidnapping, and armed conflict
 
 ### Travel Advisory Levels
 
-[![](/content/dam/NEWTravelAssets/images/travel-levelv1.svg)](/content/travel/en/international-travel/before-you-go/about-our-new-products.html "Travel Advisory Levels")
+[![](/content/dam/NEWTravelAssets/images/travel-levelv2.svg)](/content/travel/en/international-travel/before-you-go/about-our-new-products.html "Travel Advisory Levels")
 
 ### Assistance for U.S. Citizens
 

@@ -1,6 +1,6 @@
 # Dominican Republic Travel Advisory
 
-### Travel Advisory June 18, 2024
+### Travel Advisory June 12, 2025
 
 ### Dominican Republic - Level 2: Exercise Increased Caution
 
@@ -14,29 +14,47 @@
 [T](javascript:void(0); "Tool Tip: Terrorism")
 [C](javascript:void(0); "Tool Tip: Crimes")
 
-***Reissued after periodic review without changes.***
+Updated after periodic review with minor edits.  Last updated June 18, 2024.
 
-Exercise increased caution in the Dominican Republic due to **crime.**
+**Exercise increased caution** in the Dominican Republic due to **crime.**
 
-**Country Summary:**Violent crime, including armed robbery, homicide, and sexual assault, is a concern throughout the Dominican Republic. The development of a professional tourist police corps, institution of a 911 system in many parts of the country, and a concentration of resources in resort areas means these tend to be better policed than urban areas like Santo Domingo. The wide availability of weapons, the use and trade of illicit drugs, and a weak criminal justice system contribute to the high level of criminality on the broader scale.
+**Advisory Summary:**Violent crime is a concern in the Dominican Republic despite more police presence in areas often visited by tourists. Do not display wealth and be wary of meeting individuals from online in secluded locations.
 
-Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/DominicanRepublic.html) for additional information on travel to the Dominican Republic.
+If you decide to travel to the Dominican Republic, note that violent crime is a concern throughout the country affecting all residents regardless of nationality, including:
 
-If you decide to travel to the Dominican Republic:
+* Robbery
+* Homicide
+* Sexual assault
 
-* Be aware of your surroundings.
-* Do not physically resist any robbery attempt.
-* Do not display signs of wealth, such as wearing expensive watches or jewelry.
-* Follow the advice of resort and tour operators regarding local safety and security concerns.
-* Enroll in the [Smart Traveler Enrollment Program (STEP)](https://step.state.gov/) to receive Alerts and make it easier to locate you in an emergency.
-* Follow the Department of State on [Facebook](http://facebook.com/travelgov) and [Twitter](http://twitter.com/travelgov).
-* Review the [Country Security Report](https://www.osac.gov/Content/Browse/Report?subContentTypes=Country%20Security%20Report) for the Dominican Republic.
-* Prepare a contingency plan for emergency situations.  Review the [Traveler’s Checklist](https://travel.state.gov/content/passports/en/go/checklist.html).
-* Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) related to your travel.
+Resources available to tourists:
+
+* 911 emergency response system
+* Professional tourist police force (POLITUR)
+* Private security personnel in resorts
+
+Safety tips:
+
+* Pay attention to your surroundings.
+* Do not carry or wear valuable items that will attract attention.
+* Be vigilant about where your phone is and avoid using it openly on the street.
+* If robbed, hand over your personal belongings without resisting.
+* Travel with a partner or group if possible.
+* Do not leave food or drinks unattended.
+
+Criminals are rarely caught and prosecuted.
+
+U.S. citizens should always exercise caution when traveling abroad. Use these general tips to stay safe:
+
+* Enroll in the [Smart Traveler Enrollment Program (STEP).](https://mytravel.state.gov/s/step)
+* Review the [Country Security Report](https://www.osac.gov/Content/Report/a0444fbf-6267-44aa-8230-1c2ce149b0ec) for the Dominican Republic.
+* Prepare a contingency plan for emergency situations. Review the [Traveler’s Checklist](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-checklist.html).
+* Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/traveler/none/costa-rica) related to your travel.
+
+Follow the Department of State on [Facebook,](https://www.facebook.com/travelgov) [X (formerly Twitter),](https://twitter.com/travelgov) and [Instagram](https://www.instagram.com/travelgov/).
 
 ### Travel Advisory Levels
 
-[![](/content/dam/NEWTravelAssets/images/travel-levelv1.svg)](/content/travel/en/international-travel/before-you-go/about-our-new-products.html "Travel Advisory Levels")
+[![](/content/dam/NEWTravelAssets/images/travel-levelv2.svg)](/content/travel/en/international-travel/before-you-go/about-our-new-products.html "Travel Advisory Levels")
 
 ### Assistance for U.S. Citizens
 
