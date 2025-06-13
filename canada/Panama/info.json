@@ -1,7 +1,7 @@
 {
     "name": "Panama",
-    "update_reason": "Health \u2013 updated the travel health notice for Oropouche virus disease",
-    "update_date": "2025-06-05T14:29:00",
+    "update_reason": "The Need help? section was updated.",
+    "update_date": "2025-06-12T08:13:00",
     "sections": {
         "risk": "canada/Panama/risk.md",
         "security": "canada/Panama/security.md",

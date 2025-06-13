@@ -11,6 +11,38 @@ The crime rate is low. Petty crime, such as pickpocketing and purse snatching, o
 * Consult local authorities to find out which beaches are safe
 * Don’t bring valuable to the beach
 
+### Water shortages and power outages
+
+The British Virgin Islands regularly experience water shortages and power outages.
+
+Local authorities may impose water rationing measures.
+
+Power outages often impact essential services, such as:
+
+* public transportation, including flights
+* medical services
+* the public water supply
+* telecommunications
+* banking transactions
+* the supply of basic necessities
+
+Not all buildings are equipped with generators.
+
+* Keep a supply of water, food, fuel and an emergency kit on hand
+* Monitor local media for the latest information
+
+### Demonstrations
+
+Demonstrations occur sometimes.
+
+Even peaceful demonstrations can turn violent. They can also lead to disruptions to traffic and public transportation.
+
+* Avoid areas where demonstrations and large gatherings are taking place
+* Follow the instructions of local authorities
+* Monitor local media for information on ongoing demonstrations
+
+[Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
+
 ### Water activities
 
 Coastal waters can be dangerous. Follow the instructions and warnings of local authorities.
