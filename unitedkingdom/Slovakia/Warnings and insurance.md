@@ -1,13 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   5 June 2025
+:   13 June 2025
 
 Updated:
-:   4 June 2025
+:   12 June 2025
 
 Latest update:
-:   Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport ('Safety and security' page).
+:   Information added about The European Under-21 Football Championship, which will take place in Slovakia between 11 and 28 June (‘Warnings and insurance’ page).
+
+## European Under-21 Football Championship 2025
+
+The European Under-21 Football Championship will take place in Slovakia between 11 and 28 June. This may result in large, localised crowds watching the games. Follow the advice of local authorities. Travellers should also be aware that thieves may take advantage of such gatherings. See further advice about crime on the [safety and security page](https://www.gov.uk/foreign-travel-advice/slovakia/safety-and-security#crime).
 
 ## Before you travel
 

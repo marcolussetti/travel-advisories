@@ -29,9 +29,13 @@ You can reduce the risk of bag-snatching and mugging by:
 * avoiding isolated areas at night, especially if walking alone
 * using licensed taxis ordered in advance or using a taxi app
 
+### Lost or stolen passports
+
+If your passport is lost or stolen, you must renew your passport or apply for an emergency travel document. You cannot use a police report to leave Montenegro.
+
 ### Violent crime
 
-Incidents of violent crime between organised criminal groups can affect others close by. Be cautious, remain vigilant and aware of your surroundings. In the event of any incidents, follow all advice given by the local authorities.
+Incidents of violent crime between organised criminal groups can affect others close by. Be cautious, remain vigilant and aware of your surroundings. Stay away from confrontations and leave the area if you feel unsafe. In the event of any incidents, follow all advice given by the local authorities.
 
 ### Bank card fraud
 
@@ -77,13 +81,14 @@ Make sure you have the appropriate licence and insurance when renting outdoor ac
 
 ### Hiking and mountaineering
 
+Hikers have got lost in the mountains when they have left marked paths. If you get into trouble, call the emergency number 112.
+
 If you’re hiking in the mountains:
 
 * get expert advice from local guides
 * do not underestimate the hike, or factors like weather, landscape, distance and elevation
 * take a fully charged mobile phone and enough supplies
-
-Hikers have got lost in the mountains when they have left marked paths. If you get into trouble, call the emergency number 112.
+* inform someone of your route and expected return time
 
 ## Transport risks
 
@@ -95,13 +100,23 @@ Check if you need a [UK sticker to drive your car outside the UK](https://www.go
 
 ### Road conditions
 
-The standard of roads is fair to poor. Conditions are worse in rural areas, especially in the winter and after bad weather. The 2-lane Moraca Canyon can be dangerous when conditions are poor and there is congestion.
+The standard of roads is fair. Conditions are worse in rural areas, especially in the winter and after bad weather. The 2-lane Moraca Canyon can be dangerous when conditions are poor and there is congestion.
 
 Roads leading to Montenegro’s coastal areas are in better condition, but high traffic volumes can lead to delays during the summer season.
+
+Occasionally peaceful protests may occur, blocking main roads for several hours.
 
 Contact the Auto-Moto Association of Montenegro for roadside assistance and information about road closures. Assistance is available in English.
 
 Telephone: +38219807
+
+### Taxis
+
+Only use officially licensed taxis, which have a taxi sign on the roof and a company name and number written on the side.
+
+When using local taxis, always check the price per kilometre or agree on the full fare in advance, to avoid surprises. While many taxi drivers are honest, some may take advantage of tourists by overcharging, as in many other tourist destinations.
+
+If you are arriving at Podgorica airport, be aware that not all taxi companies are authorised to pick up passengers directly from the airport. To avoid issues, either take one of the licenced taxis available in front of the terminal or, if you are booking a ride in advance, confirm that the driver is permitted to collect passengers at the airport. Whilst there is no fine for passengers of unauthorised taxi pickups, it can cause delays if the driver is pulled aside by the authorities.
 
 ### Traffic penalties
 
@@ -122,6 +137,10 @@ If the drivers agree, they can both complete a [European accident report](http:
 If you’re sailing and want to enter Montenegro, see [Entry requirements](/foreign-travel-advice/montenegro/entry-requirements).
 
 If you have had an accident at sea, call 129, the emergency number of the rescue unit within the [Maritime Safety Department](https://www.gov.me/clanak/odsjek-traganja-i-spasavanja-na-moru) (in Montenegrin).
+
+### Pedestrian safety
+
+Traffic can be busy, fast and chaotic. Take care when crossing roads. Pedestrians should use designated road crossings. You can be fined for crossing the road if you are within 100 metres of a pedestrian crossing but do not use it. Drivers do not always stop, even though they are required to. The green pedestrian crossing signal also allows cars to turn right on to the crossing, so cross with caution.
 
 ## Extreme weather and natural disasters
 

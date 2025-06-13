@@ -4,13 +4,7 @@ The Foreign, Commonwealth & Development Office (FCDO) cannot provide tailored ad
 
 ## Emergency services in Montenegro
 
-Telephone: 112 (ambulance, fire, police)
-
-Ambulance: 124
-
-Fire: 123
-
-Police: 122
+Telephone: 112
 
 ## Contact your travel provider and insurer
 

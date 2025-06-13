@@ -1,11 +1,11 @@
 {
     "name": "Slovakia",
-    "update_reason": "Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport ('Safety and security' page).",
+    "update_reason": "Information added about The European Under-21 Football Championship, which will take place in Slovakia between 11 and 28 June (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Slovakia/Warnings and insurance.md",
-            "update_date": "2025-06-04T17:17:15+01:00"
+            "update_date": "2025-06-12T12:12:10+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Slovakia/Getting help.md"
         }
     ],
-    "update_date": "2025-06-04T17:17:15+01:00"
+    "update_date": "2025-06-12T12:12:10+01:00"
 }

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   10 June 2025
+:   13 June 2025
 
 Updated:
-:   9 June 2025
+:   12 June 2025
 
 Latest update:
-:   Updated information about regional risks('Regional risks' page).
+:   Update on Air India’s dedicated telephone hotlines to include a number for those outside of India (‘Warnings and insurance’ page).
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -30,6 +30,22 @@ FCDO advises against all travel to the region of Jammu and Kashmir (including Pa
 FCDO advises against all but essential travel to the state of Manipur including the capital, Imphal. Curfews and restrictions continue in parts of Manipur following violent ethnic clashes that broke out in 2023. Intermittent incidents have continued and escalated in September 2024.
 
 Find out more about [why FCDO advises against travel to these regions](/foreign-travel-advice/india/regional-risks).
+
+## Plane crash in Ahmedabad
+
+We are aware of a plane crash in Ahmedabad. The UK is working with local authorities in India to urgently establish the facts and provide support to those involved.
+
+British nationals who require consular assistance, or have concerns for friends or family, call:
+
+* +91 (11) 2419 2100 (in India)
+* +44 (0) 20 7008 5000 (in the UK)
+
+The Government of Gujarat State have established an Emergency Centre that can be contacted on: +91 (0) 79 23251900 / +91 (0) 9078405304.
+
+Air India have set up dedicated passenger hotline numbers for those seeking more information, call:
+
+* 1800 5691 444 (in India)
+* 0091 8062779200 (from outside India)
 
 ## India-Pakistan tensions
 

@@ -52,19 +52,22 @@ There have been skirmishes on the India-Bangladesh border. Travellers are advise
 
 Protests and large gatherings are common in India’s north-eastern states. They can happen without warning and occasionally result in disorder. Avoid protests and leave as soon as possible if a crowd develops. Review your security arrangements carefully and follow the advice of local authorities.
 
-## Chhattisgarh, Jharkhand, Odisha, Madhya Pradesh and Maharashtra, Telangana and Andhra Pradesh
+## Chhattisgarh, Jharkhand, Odisha, Madhya Pradesh and Maharashtra, Telangana, Andhra Pradesh and West Bengal
 
-Naxalite (Maoist or Left Wing Extremism) insurgents target police officers, paramilitary forces and government officials leading to injuries and deaths (150 in 2023 and around 100 in 2024). Seek advice from your travel provider and local authorities if you plan to travel to rural and forested areas of the following 12 districts, which the Indian government has identified as affected areas, including:
+Naxalite (Maoist or Left Wing Extremism) insurgents target police officers, paramilitary forces and government officials leading to injuries and deaths (150 in 2023 and around 100 in 2024). Seek advice from your travel provider and local authorities if you plan to travel to rural and forested areas in the following districts, which the Indian government has identified as affected districts, including:
 
-* In Chhattisgarh: Bastar, Bijapur, Dantewada, Kanker, Narayanpur, Mohalla-Manpur-Ambaragh Chowki, Sukma, Gariyband
+* In Chhattisgarh: Bastar, Bijapur, Dantewada, Dhamtari, Gariyaband, Kanker, Kondagaon, Mahasamund, Narayanpur, Rajnandgaon, Mohalla-Manpur- Ambagarh chowki, Khairgarh- Chhuikhadan-Gandai, Sukma, Kabirdham, Mungeli
 * In Jharkhand: West Singhbhum (there is risk of violent crime in rural areas), Giridih, Gumla, Latehar, Lohardaga
-* In Odisha: Kandhamal, Kalahandi, Malkangiri, Nuapada
-* In Madhya Pradesh: Balaghat
-* In Maharashtra: Gadchiroli
-* In Telangana: Bhadradri KothagudemIn
+* In Odisha: - Kalahandi, Kandhamal, Bolangir, Malkangiri, Nabrangpur, Nuapada, Rayagada
+* In Madhya Pradesh: Balaghat, Mandla, Dindori
+* In Maharashtra: Gadchiroli, Gondia
+* In Telangana: Bhadradri KothagudemIn , Mulugu
 * In Andhra Pradesh: Alluri Sitaramaraju
+* In West Bengal: Jhargram
 
 Foreign tourists and researchers must keep to security guidelines during visits to tribal areas in Odisha.
+
+For more details, see [Press Information Bureau](https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2082749).
 
 ## Goa
 

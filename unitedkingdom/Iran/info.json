@@ -1,11 +1,11 @@
 {
     "name": "Iran",
-    "update_reason": "Updated information about the current risks and political situation in Iran ('Warnings and insurance' and 'Safety and security' pages).",
+    "update_reason": "Updated information about the political situation in Iran ('Warnings and insurance' and 'Safety and security' pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Iran/Warnings and insurance.md",
-            "update_date": "2025-03-12T11:18:25+00:00"
+            "update_date": "2025-06-12T22:33:09+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Iran/Getting help.md"
         }
     ],
-    "update_date": "2025-03-12T11:18:25+00:00"
+    "update_date": "2025-06-12T22:33:09+01:00"
 }

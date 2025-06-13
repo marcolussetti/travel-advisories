@@ -1,15 +1,19 @@
 # Warnings and insurance
 
 Still current at:
-:   5 June 2025
+:   13 June 2025
 
 Updated:
-:   4 June 2025
+:   12 June 2025
 
 Latest update:
-:   Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through airports. New information on organised crime ('Safety and security' page).
+:   Addition of information that on 24 and 25 June the 2025 NATO Summit will take place in The Hague. Security measures will be in place from Sunday 22 June (‘Warnings and insurance’ page).
 
 Check [separate travel advice pages](/foreign-travel-advice) for advice on travel to the constituent countries and special municipalities in the Dutch Caribbean.
+
+## NATO Summit
+
+On 24 and 25 June the 2025 NATO Summit will take place in The Hague. From Sunday 22 June, security measures will affect road traffic, public transport and air travel around Amsterdam, Rotterdam and The Hague. More information can be found on the [Dutch Government website](https://www.government.nl/topics/nato-summit-2025/accessibility-2025-nato-summit).
 
 ## Before you travel
 

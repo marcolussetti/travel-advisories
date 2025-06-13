@@ -9,7 +9,7 @@ This is particularly important if you have a health condition or are pregnant.
 
 ## Emergency medical number
 
-Dial 124 and ask for an ambulance.
+Dial 112 for an ambulance.
 
 Contact your insurance or medical assistance company quickly if you’re referred to a medical facility for treatment.
 
@@ -29,7 +29,7 @@ Altitude sickness is a risk in parts of Montenegro. Read more about [altitude si
 
 ## Medication
 
-The legal status and regulation of some medicines prescribed or bought in the UK can be different in other countries.
+For details of customs rules relating to bringing medication into Montenegro, please see the [Entry Requirements](https://www.gov.uk/foreign-travel-advice/montenegro/entry-requirements) page.
 
 Read [best practice when travelling with medicines on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/43/medicines-and-travel).
 
@@ -41,10 +41,6 @@ FCDO has a list of [medical providers in Montenegro](https://www.gov.uk/govern
 
 Montenegro recognises the Global Health Insurance Card (GHIC).
 
-You will need to take your British passport and GHIC to a local office of the [Montenegrin Health Insurance Fund](https://fzocg.me/podrucne-jedinice/) (in Montenegrin) to request a certificate of entitlement to medical care. You need this in advance of medical treatment, or as soon as possible after an urgent admission to hospital. If you do not have a certificate, the hospital will charge for the treatment and paid bills will not be reimbursed.
-
-Any treatment provided is on the same terms as Montenegrin nationals. You’ll have to pay for your prescribed medicines and for other medical treatment.
-
 The NHS’s [getting healthcare abroad webpage](https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-uk-global-health-insurance-card-ghic/) has details about:
 
 * how to apply for a GHIC
@@ -54,6 +50,12 @@ The NHS’s [getting healthcare abroad webpage](https://www.nhs.uk/using-the-nhs
 A GHIC is not an alternative to travel insurance. You may have costs your GHIC does not cover.
 
 There is also [guidance on healthcare if you’re living in Montenegro](https://www.gov.uk/guidance/living-in-montenegro#health).
+
+## Accessing emergency medical treatment
+
+The UK has a reciprocal healthcare agreement with Montenegro, enabling British nationals to receive free emergency treatment in Montenegro. You must have a valid British passport and the GHIC to apply for a certificate of entitlement from the [Montenegrin Health Insurance Fund](https://fzocg.me/podrucne-jedinice/), to access free or subsidised medical care at state run medical facilities. You must apply for a certificate in advance or as soon as possible after an urgent admission to hospital. Further details on applying for a Montenegrin Health Insurance Fund can be found in the [Living in Montenegro](https://www.gov.uk/guidance/living-in-montenegro#healthcare-in-montenegro) guide.
+
+If you do not have a certificate, you will have to pay for the treatment and paid bills cannot be reimbursed.
 
 ## Travel and mental health
 

@@ -10,7 +10,7 @@ The authorities may close land border crossings at short notice.
 
 To enter Montenegro, your passport must:
 
-* have a ‘date of issue’ less than 10 years before the date you arrive – if you renewed your passport before 1 October 2018, it may have a date of issue that is more than 10 years ago
+* have been issued less than 10 years before the date you enter Montenegro – if you renewed your passport before 1 October 2018, it may have a date of issue that is more than 10 years ago
 * have an ‘expiry date’ at least 3 months after the day you plan to leave
 
 Check with your travel provider that your passport and other travel documents meet requirements. [Renew your passport](https://www.gov.uk/renew-adult-passport/renew) if you need to.
@@ -39,7 +39,7 @@ The dated entry stamp helps avoid any problems about the length of your stay in 
 
 ### Staying longer than 90 days in a 180-day period
 
-To stay longer, you must meet the Montenegrin government’s entry requirements. Check which type of visa or work permit you may need with the [Montenegrin Embassy in the UK](https://www.gov.me/en/diplomatic-missions/embassies-and-consulates-of-montenegro/united-kingdom-of-great-britain-and-northern-ireland).
+To stay longer than 90 days, you must meet the Montenegrin government’s entry requirements. Check which type of visa or work permit you may need with the [Montenegrin Embassy in the UK](https://www.gov.me/en/diplomatic-missions/embassies-and-consulates-of-montenegro/united-kingdom-of-great-britain-and-northern-ireland) in advance of your arrival to Montenegro.
 
 ## Vaccine requirements
 
@@ -47,9 +47,11 @@ For details about medical entry requirements and recommended vaccinations, see [
 
 ## Registering with the authorities
 
-All visitors to Montenegro must [be registered with the local tourism office or police](https://www.montenegro.travel/en/plan-your-stay-in-montenegro/how-can-you-journey-to-us/conditions-for-entering-montenegro) in the town or city where they’re staying.
+All visitors to Montenegro must register with the local tourism office or police within 24 hours of arrival.
 
-If you’re staying in a hotel or in some holiday lets, the staff or the owner will register you. If you’re staying with family or friends, or in rented accommodation, make sure you register within 24 hours of arrival in Montenegro.
+If you’re staying in a hotel or in some holiday lets, the staff or the owner is obliged to register you.
+
+If  staying in  private accommodation, make sure you complete the registration yourself.
 
 If you do not register you may be fined, detained or face a court appearance.
 
@@ -61,7 +63,7 @@ If you are sailing to Montenegro, enter only at a designated port or harbour. If
 
 There are strict rules about goods you can take into and out of Montenegro.
 
-Declare items of value like expensive jewellery, photographic and computer equipment or anything that may be prohibited or subject to tax or duty.
+Declare valuable items like expensive jewellery, photographic and computer equipment or anything that may be prohibited or subject to tax or duty.
 
 ### Taking pets into Montenegro
 
@@ -74,6 +76,12 @@ You cannot take meat, milk or products containing them into Montenegro. There ar
 ### Taking money into Montenegro
 
 Declare cash or travellers cheques if the value is 10,000 euros or more. You will get a certified declaration to show you brought it in with you. If you do not, your money could be seized when you leave.
+
+### Taking medicines into Montenegro
+
+When travelling to Montenegro, you may carry a reasonable amount of medication needed for personal use for a maximum of 6 months. You must declare any prescription medication containing narcotics to customs on arrival and may only bring up to 30 days’ worth of such medication, accompanied by a prescription or certificate from a doctor. The certificate must be less than 90 days old.
+
+Possession of a medications without proper medical documentation, or failure to declare such medication, may lead to confiscation and legal action.
 
 [Previous
 :

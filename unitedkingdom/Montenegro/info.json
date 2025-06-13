@@ -1,11 +1,11 @@
 {
     "name": "Montenegro",
-    "update_reason": "Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport ('Safety and security' page).",
+    "update_reason": "New information on taxis and pedestrian safety (\u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Montenegro/Warnings and insurance.md",
-            "update_date": "2025-06-04T17:10:22+01:00"
+            "update_date": "2025-06-12T14:54:29+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Montenegro/Getting help.md"
         }
     ],
-    "update_date": "2025-06-04T17:10:22+01:00"
+    "update_date": "2025-06-12T14:54:29+01:00"
 }

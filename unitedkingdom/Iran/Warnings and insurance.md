@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   13 June 2025
 
 Updated:
-:   12 March 2025
+:   12 June 2025
 
 Latest update:
-:   Updated information about the current risks and political situation in Iran ('Warnings and insurance' and 'Safety and security' pages).
+:   Updated information about the political situation in Iran ('Warnings and insurance' and 'Safety and security' pages).
 
 ![](https://assets.publishing.service.gov.uk/media/627e359b8fa8f53f99901991/FCDO__TA__021_-_Iran_Travel_Advice_Ed5__WEB_.jpg)
 
@@ -24,7 +24,7 @@ Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign
 
 ## Political situation in Iran
 
-In 2024, Iran and Israel took military action against one another. The situation remains tense in the Middle East and an escalation could happen quickly. We continue to advise against all travel to Iran.
+In 2024, Iran and Israel took military action against one another. Since 11 June, media reporting indicates a heightened risk of regional tension. The situation remains tense in the Middle East and an escalation could happen quickly. We continue to advise against all travel to Iran.
 
 Monitor this travel advice and other media to ensure you have the latest updates. Follow and contact FCDO travel on [X](https://x.com/fcdotravelgovuk), [Facebook](https://www.facebook.com/fcdotravel) and [Instagram](https://www.instagram.com/travelaware/). You can also [get email notifications](https://www.gov.uk/foreign-travel-advice/iran/email-signup) when this travel advice is updated.
 
