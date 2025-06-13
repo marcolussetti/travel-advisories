@@ -6,9 +6,13 @@ Normal Precautions
 
 ### **Travel Alert**
 
-Citizens should be aware of the potential for disruption from ongoing protests in California, especially in some neighborhoods of Los Angeles and San Francisco. Further protests are planned in cities across the USA. Tensions are currently high and protests have the potential to turn violent. Citizens should exercise caution and avoid areas near demonstrations.
+Citizens should be aware of the potential for disruption from ongoing protests in California, especially in some neighbourhoods of Los Angeles and San Francisco. Further protests are planned in cities across the USA. Tensions are currently high and protests have the potential to turn violent. Citizens should exercise caution and avoid areas near demonstrations.
 
-Citizens should also note that a curfew is now in place in parts of downtown Los Angeles. Visitors to the USA should follow the guidance of national and local authorities and stay fully informed of what is going on by monitoring local news and social media, including the social media accounts of the closest Consulate General of Ireland.
+Citizens should also note that a curfew is now in place in parts of downtown Los Angeles.
+
+Irish citizens intending to travel or be in Washington DC on 14 June 2025 should plan for potential major disruption arising from a planned large-scale military parade. Access will be limited around the parade route. There will also be a number of road closures and significant disruption to public transport. Flights will be unable to land or take-off for a period of time at Ronald Regan National Airport. A significant security operation will be in place. There is also the potential for protests, which could lead to confrontation.
+
+Visitors to the USA should follow the guidance of national and local authorities and stay fully informed of what is going on by monitoring local news and the social media accounts of the Embassy of Ireland and of the closest Consulate General of Ireland.
 
 ### **General Travel Advice**
 

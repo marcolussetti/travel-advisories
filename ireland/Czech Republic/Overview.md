@@ -10,7 +10,7 @@ Irish citizens need a valid passport or passport card to enter the Czech Republ
 
 Irish passports do not have a minimum validity requirement while travelling to the UK or within the EU. When travelling within Europe with an Irish passport and/or passport card, it should be valid for the duration of your stay.
 
-Irish citizens do not require a visa to enter the Czech Republic. However, visitors who intend to stay in the Czech Republic for longer than 30 days should report their presence to the local Foreign Police Department.
+Irish citizens do not require a visa to enter the Czech Republic. However, visitors who intend to stay in the Czech Republic for longer than 30 days should report their presence to the local [Foreign Police Department](https://policie.gov.cz/clanek/oddeleni-pobytovych-agend.aspx).
 
 Irish citizens travelling to the Czech Republic are advised to follow the guidance of national and local authorities and stay fully informed of what is going on by monitoring local news and social media.
 
