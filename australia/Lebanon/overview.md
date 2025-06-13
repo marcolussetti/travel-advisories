@@ -2,9 +2,11 @@
 
 Latest update
 
-We continue to advise Australians do not to travel to Lebanon due to the volatile security situation and the risk it could deteriorate with little notice. Beirut airport could close without warning, and you may be unable to leave for an extended period. The Australian Government may not be able to assist you to leave.  
+We continue to advise Australians do not to travel to Lebanon due to the volatile security situation and the risk it could deteriorate with little notice. Beirut airport could close without warning, and you may be unable to leave for an extended period. The Australian Government may not be able to assist you to leave.  
   
-Although a ceasefire agreement between Israel and Hizballah was announced on 26 November 2024, Israeli military airstrikes in southern Lebanon and parts of the Bekaa Valley could happen without warning. Avoid known or suspected areas of military activity. The conflict could spread to other areas in Lebanon. Be prepared to shelter in place for an extended period. Make sure you have enough supplies, including food, water, medicine, radio, torches and batteries. The conflict could spread to other areas in Lebanon. Keep your identity documents, including your passport, handy. See our advice on 'Armed conflict' in 'Safety'.  
+Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions. Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests.   
+  
+Although a ceasefire agreement between Israel and Hizballah was announced on 26 November 2024, Israeli military airstrikes in Beirut, southern Lebanon and parts of the Bekaa Valley could happen without warning. Avoid known or suspected areas of military activity. The conflict could spread to other areas in Lebanon. Be prepared to shelter in place for an extended period. Make sure you have enough supplies, including food, water, medicine, radio, torches and batteries. The conflict could spread to other areas in Lebanon. Keep your identity documents, including your passport, handy. See our advice on 'Armed conflict' in 'Safety'.  
   
 Since 19 October 2023, our advice has been Do Not Travel to Lebanon.
 

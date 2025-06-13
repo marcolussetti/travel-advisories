@@ -2,7 +2,9 @@
 
 Latest update
 
-We've reviewed our advice for Qatar and continue to advise exercise normal safety precautions. You may be placed under a travel ban if you're involved in a dispute about (but not limited to) business, labour, employment, fines or civil legal proceedings. You won't be able to leave Qatar until your travel ban is removed (see 'Travel').   
+We continue to advise exercise normal safety precautions. Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions.   
+  
+You may be placed under a travel ban if you're involved in a dispute about (but not limited to) business, labour, employment, fines or civil legal proceedings. You won't be able to leave Qatar until your travel ban is removed (see 'Travel').   
   
 Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests (see 'Safety').
 

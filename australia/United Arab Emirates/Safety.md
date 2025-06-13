@@ -2,15 +2,13 @@
 
 #### Civil unrest and political tension
 
-The security situation in the region remains unpredictable and could deteriorate with little or no warning. Conflicts in the Middle East or Gulf region could affect the UAE.
+Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions.
 
-There's an increased threat of terrorism in the UAE, including threats against military bases. Maintain a high level of security awareness.
+Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests.
 
-Rebel groups in Yemen have previously targeted the UAE and neighbouring countries with uncrewed aerial systems, including drones and missiles, most recently in January 2022.
+The security situation in the region remains unpredictable and could deteriorate with little or no warning. Monitor local and international media.
 
-Further attacks are possible.
-
-Be alert and monitor local and international media. In the event of a security incident, follow the advice of local authorities.
+If there's a security incident, follow the advice of local authorities.
 
 #### Demonstrations and protests
 
@@ -28,7 +26,7 @@ To protect yourself in case of unrest:
 
 #### Terrorism
 
-There's an increased threat of terrorism in the UAE, including threats against military bases. Maintain a high level of security awareness.
+There's an ongoing threat of terrorism in the UAE.
 
 Authorities have in the past arrested several alleged terrorists for possibly planning attacks in the UAE.
 
@@ -36,17 +34,18 @@ Several terrorist attacks have happened in the wider Gulf region in recent years
 
 Attacks could occur at any time and could target:
 
-* places of worship
+* places of worship and religious holidays
 * military sites
-* hotels
-* transport hubs
-* shopping malls and markets
-* major events
-* residential compounds
-* tourist locations
-* other locations visited by foreigners
+* transport hubs, including airports
+* hotels, clubs, restaurants and malls
+* souks (traditional markets)
+* outdoor recreation events, including festivals, concerts, and sporting venues
 
-**More information:**
+Maintain a high level of security awareness. Follow the advice of local authorities and monitor local media.
+
+Terrorism is a threat worldwide.
+
+More information:
 
 * [Terrorist threats](https://www.smartraveller.gov.au/before-you-go/safety/terrorism)
 

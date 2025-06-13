@@ -3,7 +3,8 @@
 Latest update
 
 We continue to advise exercise a high degree of caution in Bahrain due to the threat of terrorism and risk of civil unrest.  
-Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests. Monitor local and international media. If there's a security incident, follow the advice of local authorities (see 'Safety').
+  
+Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions. Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests. Monitor local and international media. If there's a security incident, follow the advice of local authorities (see 'Safety').
 
 Advice Level summary
 

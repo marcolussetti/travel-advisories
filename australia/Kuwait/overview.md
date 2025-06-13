@@ -2,7 +2,9 @@
 
 Latest update
 
-We continue to advise exercise a high degree of caution in Kuwait. There's an increased risk of terrorism, including threats against military bases. Maintain a high degree of security awareness. Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests (see 'Safety').
+We continue to advise exercise a high degree of caution in Kuwait. There's an increased risk of terrorism, including threats against military bases. Maintain a high degree of security awareness.   
+  
+Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions. Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests (see 'Safety').
 
 Advice Level summary
 

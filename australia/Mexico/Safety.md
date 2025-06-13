@@ -145,6 +145,8 @@ Some victims claim police officers or other officials are involved in their kidn
 
 Virtual or scam kidnappings target people over the phone to extort money. Kidnappers pose as officials or cartel members and demand payments for the release of a family member they have allegedly detained. If you receive a call or message, contact local police. Criminal groups may also attempt to extort relatives of tourists reported as missing in news reports.
 
+Other foreign nationals have been kidnapped and/or assaulted in Mexico by people they have met through online dating apps, with victims and their families extorted for large sums of money to secure their release. Use caution when meeting strangers, and meet only in public places, not isolated locations.
+
 Express kidnappings are also regularly reported in Mexico. Kidnappers force victims to withdraw funds from ATMs before being released, including being held in an unauthorised taxi.
 
 If, despite our advice, you travel to an area with a high risk of kidnapping, our ability to provide consular assistance in these destinations will be limited. 

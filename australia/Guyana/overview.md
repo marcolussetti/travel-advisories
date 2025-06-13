@@ -2,8 +2,6 @@
 
 Latest update
 
-There are ongoing protests in Georgetown and other locations in Guyana. Be aware of your surroundings, avoid protests and large public gatherings. Protests may turn violent at short notice. Monitor local media and follow the advice of local authorities.  
-  
 There's continuing tension between Guyana and Venezuela. The security situation may deteriorate near the Venezuelan border. If you choose to travel in this area, monitor local media and follow the advice of local authorities.
 
 Advice Level summary
@@ -26,7 +24,6 @@ See [Safety](#safety)
 
 ### Safety
 
-* There are ongoing protests in Georgetown and other locations in Guyana. Be aware of your surroundings, avoid protests and large public gatherings. Protests may turn violent at short notice. Monitor local media and follow the advice of local authorities.
 * Violent crime such as armed robberies, kidnapping, shootings and carjackings are a risk. These can result in injury or death. Risks increase after dark.
 * There's continuing tension between Guyana and Venezuela. The security situation may deteriorate in the area near the Venezuelan border.
 * Border disputes occur on the Suriname–Guyana and Venezuela–Guyana borders. Only use official crossing points.

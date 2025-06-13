@@ -4,11 +4,9 @@ Latest update
 
 We continue to advise do not travel to Syria due to the dangerous security situation and the threat of armed conflict, air strikes, terrorism, arbitrary detention and kidnapping. The security situation remains volatile. Armed clashes are ongoing in parts of Syria and have resulted in many civilian casualties. If you’re in Syria despite our advice, shelter in place and leave when it's safe to do so. If you're in Syria, despite our advice, avoid possible terrorist and military targets. Airports and airlines may suspend operations without notice.   
   
-Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests.  
+Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions. Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests.  
   
-Land border crossings between Syria and Lebanon have been the target of border clashes and bombings and could close without notice. If you're planning to cross a land border from Syria, contact the relevant authorities in your destination country for entry requirements (see 'Travel').  
-  
-Entry and exit requirements for Syria may change without notice.
+Land border crossings between Syria and Lebanon have been the target of border clashes and bombings and could close without notice. If you're planning to cross a land border from Syria, contact the relevant authorities in your destination country for entry requirements (see 'Travel'). Entry and exit requirements for Syria may change without notice.
 
 Advice Level summary
 

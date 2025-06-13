@@ -185,6 +185,8 @@ Kidnapping occurs across the world with political, ideological, and criminal mot
 
 Kidnapping occurs in Colombia. Criminals sometimes kidnap and murder foreigners. Most kidnappings are for ransom. Groups such as the FARC dissident groups and the ELN in rural areas are involved in kidnapping. Express kidnapping is also a problem in major urban areas, and virtual kidnappings have been reported.
 
+Foreigners have been kidnapped and/or assaulted in Colombia by people they have met through online dating apps, with victims and their families extorted for large sums of money to secure their release. There have been instances where victims have been temporarily incapacitated by scopolamine or similar drugs. Use caution when meeting strangers, and meet only in public places, not isolated locations.
+
 If, despite our advice, you travel to an area with a high risk of kidnapping, our ability to provide consular assistance will be limited.
 
 You are responsible for your own safety. To reduce the risk of kidnapping:

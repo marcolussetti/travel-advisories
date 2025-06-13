@@ -2,8 +2,6 @@
 
 Latest update
 
-A State of Emergency has been declared for parts of Belize City, the Belize District and the Cayo District. Law enforcement have increased powers to restore order and maintain peace in affected areas. Monitor local media and follow the advice of local authorities (see 'Safety').   
-  
 There's enhanced security measures being enforced at all local airports in Belize. You should arrive early at airports to allow enough time for security procedures (see ‘Travel’).  
   
 We continue to advise exercise a high degree of caution for Belize overall. We also continue to advise reconsider your need to travel to the South side of Belize City (south of Haulover Creek Canal) (see 'Safety').
@@ -32,7 +30,6 @@ Higher levels apply.
 
 ### Safety
 
-* A State of Emergency has been declared for parts of Belize City, the Belize District and the Cayo District in response to an escalated threat to public safety. Law enforcement have increased powers to restore order and maintain peace in affected areas. You should monitor local media and follow the advice of local authorities.
 * Belize's Civil Aviation department has announced enhanced security measures at all local airports. You should arrive early at airports to allow enough time for security procedures.
 * Criminal activity, including murder, armed robbery, home invasions, mugging and sexual assault, is a significant problem throughout Belize.
 * There's a high level of gang-related violence in the Southside of Belize City (south of Haulover Creek Canal), including murders and shootings.

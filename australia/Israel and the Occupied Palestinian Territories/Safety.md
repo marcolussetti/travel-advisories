@@ -4,11 +4,11 @@
 
 #### Overall security situation
 
-We continue to advise reconsider your need to travel to Israel overall due to the volatile security situation, armed conflict, civil unrest and terrorism. We continue to advise do not travel to Gaza, border areas with Gaza, border areas with Lebanon, and the West Bank (excluding East Jerusalem) due to the volatile security situation.
+Due to the deteriorating security situation, we've raised our level of advice and now advise, do not travel to Israel due to the volatile security situation, armed conflict, civil unrest and terrorism. We continue to advise do not travel to Gaza, border areas with Gaza, border areas with Lebanon, and the West Bank (excluding East Jerusalem) due to the volatile security situation.
 
 There continues to be a high threat of military and terrorist attacks against Israel and Israeli interests across the region. Rockets, missiles and drones have been fired at Israel from Gaza, Lebanon, Iran, Iraq, Yemen and Syria. There have also been terror attacks on civilians. Follow directions to seek shelter and monitor local media and public safety information updates through the [National Emergency Portal](https://www.oref.org.il/en) (accessible in Israel only).
 
-Military attacks may result in airspace closures, flight cancellations, diversions and other travel disruptions. Tel Aviv's Ben Gurion International Airport may pause operations due to heightened security concerns at any time and at short notice. This may cause flight delays or cancellations. Check with your airline or travel provider for the latest updates before travelling. GPS signals may be blocked in parts of Israel, affecting navigational apps and devices.
+Military attacks may result in airspace closures, flight cancellations, diversions and other travel disruptions. Tel Aviv's Ben Gurion International Airport is currently closed due to heightened security concerns. Check with your airline or travel provider for the latest updates before travelling. GPS signals may be blocked in parts of Israel, affecting navigational apps and devices.
 
 #### Gaza conflict
 

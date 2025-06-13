@@ -2,7 +2,9 @@
 
 Latest update
 
-We continue to advise exercise a high degree of caution in Jordan. Missile and drone attacks originating from Yemen and targeting Israel may fail in flight over Jordan leading to falling debris. We recommend remaining indoors and avoiding contact with debris in the event of intercepts. Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests. Monitor local media for updates and follow the advice of authorities (see 'Safety').  
+We continue to advise exercise a high degree of caution in Jordan. Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions.   
+  
+Missile and drone attacks originating from Yemen and targeting Israel may fail in flight over Jordan leading to falling debris. We recommend remaining indoors and avoiding contact with debris in the event of intercepts. Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests. Monitor local media for updates and follow the advice of authorities (see 'Safety').  
   
 Terrorism is a worldwide threat and could occur anywhere and at any time. Terrorists may target tourist areas or other places frequented by foreigners and where large crowds gather. Take official warnings seriously. If there's a security incident, follow the advice of local authorities (see 'Terrorism').
 

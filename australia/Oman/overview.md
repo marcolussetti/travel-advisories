@@ -2,7 +2,11 @@
 
 Latest update
 
-We have reviewed our travel advice for Oman and continue to advise exercise normal safety precautions. Reconsider your need to travel to border areas with Yemen due to the threat of armed conflict and violence. You'll need a valid visa to travel to Oman. The type of visa depends on your country of residence and purpose of travel. Entry and exit conditions can change at short notice (see ‘Travel’). Terrorist groups are active in the Arabian Peninsula and attacks against targets in Oman may happen (see 'Safety').
+We continue to advise exercise normal safety precautions. Reconsider your need to travel to border areas with Yemen due to the threat of armed conflict and violence.   
+  
+Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions. Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests.   
+  
+You'll need a valid visa to travel to Oman. The type of visa depends on your country of residence and purpose of travel. Entry and exit conditions can change at short notice (see ‘Travel’). Terrorist groups are active in the Arabian Peninsula and attacks against targets in Oman may happen (see 'Safety').
 
 Advice Level summary
 

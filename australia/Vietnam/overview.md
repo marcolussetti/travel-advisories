@@ -2,7 +2,7 @@
 
 Latest update
 
-We've reviewed our travel advice for Vietnam and continue to advise exercise normal safety precautions. You can apply online for an eVisa for tourism or business. You must have a visa before travelling to Vietnam and ensure your visa details are correct before you travel (See 'Travel').
+We continue to advise exercise normal safety precautions. You can apply online for an eVisa for tourism or business. You must have a visa before travelling to Vietnam and ensure your visa details are correct before you travel (See 'Travel').
 
 Advice Level summary
 
@@ -23,11 +23,11 @@ Exercise normal safety precautions in Vietnam.
 ### Safety
 
 * Road accidents are a major cause of injury. Be alert at all times on the roads.
+* During the rainy season (June to November), floods, typhoons, and severe weather can disrupt essential services and transportation and impact infrastructure. If you're in an affected area, follow the advice of local authorities.
 * Petty theft, including bag slashing, is common in tourist areas and crowded places, especially during holidays. Snatch-and-grab theft by thieves on motorcycles is also common. To make bags and backpacks more difficult to steal, hold them in front of you or on the opposite side of the traffic. Be aware of motorbikes approaching as you walk. Carry the minimum amount of valuables. Be prepared to surrender your valuables rather than risk being injured in a struggle.
 * Aggravated theft, sexual assault and assault happen. Travellers have been assaulted after having their food or drinks spiked. Be alert to the potential risks around drink spiking and methanol poisoning through consuming alcoholic drinks. Don't leave food or drinks unattended and pay attention when your drinks are being mixed. Get urgent medical help if you suspect drink spiking. See our advice on [Partying safely while overseas](/before-you-go/safety/partying "Partying safely").
 * Personal or commercial disputes sometimes lead to threats of physical violence or death. Have a clear agreement on the expected level of service. Report any threats to police.
 * Travellers have been robbed withdrawing money from ATMs. Credit and debit card fraud and card skimming happen across Vietnam. Taxi and gambling scams are also common. Only use ATMs in banks and shopping centres. Always keep your credit card in sight. Use metered or prearranged taxis, especially at airports. Report gambling scams to police.
-* During the rainy season (June to November), floods, typhoons, and severe weather can disrupt essential services and transportation and impact infrastructure. If you're in an affected area, follow the advice of local authorities.
 * Terrorism is a worldwide threat. Terrorist attacks could occur anywhere and at any time.
 
 Full travel advice: [Safety](#safety)

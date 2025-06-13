@@ -4,7 +4,7 @@ Latest update
 
 We continue to advise exercise a high degree of caution in Saudi Arabia. Higher levels apply in some areas.   
   
-For the 2025 Hajj season, local authorities have introduced additional arrangements and restrictions for foreign travellers. This includes not entering or staying in Makkah between 29 April and 11 June without either a valid work permit in Makkah, a residency ID issued from Makkah or a valid Hajj permit (see ’Travel’).   
+Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions. Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests.   
   
 Missile and drone attacks originating from Yemen and targeting Israel may fail in flight over Saudi Arabia. Attacks targeting sites in Saudi Arabia are possible. Most attacks are intercepted. Follow the advice of local authorities (see ‘Safety’).
 
@@ -62,7 +62,6 @@ Full travel advice: [Health](#health)
 
 ### Local laws
 
-* A Hajj permit is required to perform Hajj. The Kingdom has stated that violators will face fines, imprisonment, and deportation. You may also be banned from going to Saudi Arabia in the future if you do not comply with the rules. New procedures and restrictions have been introduced for the 2025 Hajj season (see 'Travel').
 * Don't use or carry illegal drugs. Penalties for trafficking, possessing or using drugs are severe. These can include the death penalty.
 * Many laws in Saudi Arabia are different to those in Australia, including for same-sex relations and abandoning the Islamic religion. Punishment may include imprisonment and the death penalty. Get professional advice for local legal matters. You may be prevented from leaving the country until issues are resolved.
 * It’s illegal to mock, provoke or question public order, religious values or public morals. Criticising Saudi Arabia, the royal family, the leadership or Islam is also against the law. These laws extend to social media posts, even if posted many years ago and outside Saudi Arabia. Foreigners have been sentenced to decades in prison for offensive tweets made outside Saudi Arabia years before their visit to the country.
@@ -75,7 +74,6 @@ Full travel advice: [Local laws](#local-laws)
 
 ### Travel
 
-* For the Hajj season 2025, local authorities have announced additional arrangements, procedures and entry/exit restrictions for foreign travellers. This includes not entering or staying in Makkah (Mecca) between 29 April and 11 June without either a valid work permit for Makkah, a residency ID issued from Makkah, or a valid Hajj permit (see 'Travel').
 * Local authorities also announced that the deadline for Umrah pilgrims’ departure from Saudi Arabia was 29 April 2025. Umrah pilgrims who have remained in the country beyond this date will be subject to legal penalties.
 * All Saudi visa holders are permitted to perform Umrah throughout the year, except around Hajj time, when only Hajj visa/permit holders can enter Makkah. Monitor the media for information about the dates the Hajj time starts.
 * Saudi Hajj and Umrah Ministry have launched the ‘[Nusuk’](https://www.nusuk.sa/) platform to register and facilitate pilgrim procedures for both Umrah and Hajj.

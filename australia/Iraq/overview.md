@@ -4,6 +4,8 @@ Latest update
 
 We continue to advise do not travel to Iraq due to the volatile security environment and the threat of kidnapping. If you are in Iraq, you should leave Iraq immediately by commercial means. If you're staying in Iraq, be alert and monitor media for updates (see 'Safety').   
   
+Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions.   
+  
 Terrorist attacks can occur without warning. Avoid possible targets including markets, transport hubs, places of worship and government facilities (see ‘Safety’).  
   
 Demonstrations and protest activity may occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests (see 'Civil unrest and political tension').

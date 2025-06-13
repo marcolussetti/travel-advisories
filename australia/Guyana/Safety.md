@@ -101,7 +101,7 @@ If you choose to travel in this area, you should:
 
 #### Demonstrations and protests
 
-There are ongoing protests in Georgetown and other locations in Guyana. Avoid protests and large public gatherings. These can turn violent.
+Avoid protests and large public gatherings. These can turn violent.
 
 Monitor the media for news on possible civil unrest. Avoid crowds and demonstrations.
 
