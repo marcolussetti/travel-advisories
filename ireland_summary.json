@@ -104,7 +104,7 @@
     {
         "destination": "Belgium",
         "risk_level": "High Degree of Caution",
-        "last_updated": "2025-04-08T00:00:00",
+        "last_updated": "2025-06-13T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/belgium/"
     },
     {
@@ -547,8 +547,8 @@
     },
     {
         "destination": "Israel and the Occupied Territories",
-        "risk_level": "Avoid Non-Essential Travel",
-        "last_updated": "2025-01-10T00:00:00",
+        "risk_level": "Do Not Travel",
+        "last_updated": "2025-06-13T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/israel-and-the-occupied-territories/"
     },
     {
@@ -614,7 +614,7 @@
     {
         "destination": "Kuwait",
         "risk_level": "High Degree of Caution",
-        "last_updated": "2025-06-11T00:00:00",
+        "last_updated": "2025-06-13T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/kuwait/"
     },
     {
@@ -932,7 +932,7 @@
     {
         "destination": "Qatar",
         "risk_level": "High Degree of Caution",
-        "last_updated": "2025-06-11T00:00:00",
+        "last_updated": "2025-06-13T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/qatar/"
     },
     {

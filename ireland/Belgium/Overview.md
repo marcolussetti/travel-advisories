@@ -6,9 +6,9 @@ High Degree of Caution
 
 ### **Travel Alert**
 
-National railway unions in Belgium intend to take industrial action on a number of days each month until August. Domestic and International train services are likely to be impacted. Strike action can occur at short notice.
+Industrial action is an ongoing issue in Belgium, which may affect national and international travel. Strikes can occur at short notice.
 
-Nationwide strikes are planned for the 13th of every month until further notice.
+A national strike on Wednesday 25 June will disrupt operations at Brussels Airport (Zavantem). All departures have been cancelled and arriving flights are likely to be impacted.
 
 For updates, monitor local news and check with your travel operator.
 

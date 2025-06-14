@@ -4,6 +4,10 @@
 
 High Degree of Caution
 
+### **Travel Alert**
+
+The Embassy of Ireland, Abu Dhabi is closely monitoring the current regional situation and advises that Irish citizens exercise heightened caution. Please follow the instructions of local authorities. For further updates, please monitor the Embassy’s social media channels on [**X**](https://x.com/IrelandEmbUAE), [**Instagram**](https://www.instagram.com/irelandembuae?igsh=bnRnYjQ0Mmt4OG50), and [**Facebook**](https://www.facebook.com/share/1Aek6yo4tR/?mibextid=wwXIfr).
+
 ### **General Travel Advice**
 
 Irish citizens require a visa to enter Kuwait. Electronic visas are now available. Visit the [**Ministry of Interior website**](https://evisa.moi.gov.kw/evisa/home_e.do) for more information. Applicants will be able to check the status of their application before travelling and the visas will be issued upon arrival.

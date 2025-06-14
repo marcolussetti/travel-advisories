@@ -2,37 +2,31 @@
 
 ### **Security status**
 
-**Israel:** Avoid Non Essential Travel
+**Israel:** Do Not Travel
 
 **Palestine:** Do Not Travel
 
 ### **Travel Alert**
 
-**The Department of Foreign Affairs advises against all but essential travel to Israel.**
+**Due to the emergency situation,** **the Department of Foreign Affairs and Trade advises against all travel to Israel and Palestine. Irish citizens currently in Israel or Palestine who have not already done so,** **are asked to register** **on the Department’s Citizens Registration platform** [**here**](https://citizensregistration.dfa.ie/)**.**
 
-**The Department of Foreign Affairs advises against all travel to Palestine,** **with the exception of East Jerusalem, where we advise against non-essential travel.**
+The Israeli government has declared a state of emergency. Israeli airspace has been closed until further notice. Significant airport disruptions are anticipated. Please contact your airline for relevant updates prior to travel. Travellers can check on the status of flights [**here**](https://www.iaa.gov.il/en/). For the latest guidance on land crossings to Jordan, please contact the Embassy.
 
-**Please be advised that as of 1 January 2025 those entering Israel from visa-exempt countries (including Ireland) must be in possession of a valid Electronic Travel Authorisation to Israel (ETA-IL). For further guidance, and to apply, see** [**https://israel-entry.piba.gov.il/**](https://israel-entry.piba.gov.il/)**.**
+The security situation across both Israel and Palestine remains tense and unpredictable, with the potential for intense escalation. Please continue to exercise extreme caution, monitor local media and international regularly, follow the advice of local authorities, and observe the additional security measures imposed during this time.
 
-**Irish citizens currently in Israel or Palestine who have not already done so,** **are asked to register** **on the Department’s Citizens Registration platform** [**here**](https://citizensregistration.dfa.ie/)**.**
+There is an imminent risk of rocket fire, drone infiltration and ballistic missiles, which can occur without warning, and can disrupt civilian infrastructure, including transportation and communications. We strongly advise that citizens familiarise themselves with their closest protected location. Many buildings are fitted with “safe rooms”; reinforced spaces designed to withstand missile attacks.
+
+Please continue to follow local guidance. Each municipality maintains a list of public shelters available, many of which are translated into English: please see relevant maps for [**Tel Aviv**](https://gisn.tel-aviv.gov.il/iview2js4/index.aspx?zoom=14000&extent=3869299,3770347,3871218,3771145&layers=592&back=0&year=2023&opacity=0.9&filters=) and [**Jerusalem**](https://www.jerusalem.muni.il/en/residents/security/shelters/). Several mobile applications, including Home Front Command and Red Alert: Israel, are available to download free of charge, and provide real-time security and safety alerts.
+
+In the event of mortar or rocket fire, a localised “red alert” siren may be activated. In such instances, please seek shelter immediately. We advise sheltering in place for a minimum of 10 minutes after the siren ends to avoid any falling shrapnel.
+
+For the latest updates please follow the X (formerly Twitter) accounts of the Irish Embassy in Tel Aviv [**here**](https://twitter.com/EmbassyTLV) and our Representative Office in Ramallah [**here**](https://twitter.com/IrlRepRamallah). For urgent consular assistance please contact: +972 369 64166 or +353 (1) 408 2000.
+
+**Those entering Israel from visa-exempt countries (including Ireland) must be in possession of a valid Electronic Travel Authorisation to Israel (ETA-IL). For further guidance, and to apply, see** [**https://israel-entry.piba.gov.il/**](https://israel-entry.piba.gov.il/)**.**
 
 Irish citizens in Israel are strongly advised not to travel to border areas with Lebanon, as directed by local authorities. The area remains a closed military zone and entry into the area is prohibited. Further incidents can occur without notice and there is potential for intense escalation; extreme caution is advised. Travel should also be avoided north of Acre, north of Route 85. In the occupied Golan Heights, travel should be avoided north of Route 87 and within 500m of the ‘Alpha Line’ or east of Highway 98.
 
 We strongly advise against all travel to the Gaza Strip, and to all border areas between the Gaza Strip and Israel, as directed by local authorities. Irish citizens in the Gaza Strip are advised to exercise extreme caution, and register their presence immediately by contacting the Embassy of Ireland in Tel Aviv.
-
-Due to the volatile security situation, we currently advise against all travel to the occupied West Bank, with the exception of East Jerusalem, where we advise against non-essential travel.
-
-The security situation across both Israel and Palestine remains tense and unpredictable, with the potential for intense escalation. Please continue to exercise caution, monitor local media regularly, follow the advice of local authorities, and observe any additional security measures imposed during this time.
-
-There is a risk of rocket fire, drone infiltration and ballistic missiles, which can occur without warning, and can disrupt civilian infrastructure, including transportation and communications. We strongly advise that citizens familiarise themselves with their closest protected location. Many buildings are fitted with “safe rooms”; reinforced spaces designed to withstand missile attacks.
-
-Please continue to follow local guidance . Each municipality maintains a list of public shelters available, many of which are translated into English: please see relevant maps for [**Tel Aviv**](https://gisn.tel-aviv.gov.il/iview2js4/index.aspx?zoom=14000&extent=3869299,3770347,3871218,3771145&layers=592&back=0&year=2023&opacity=0.9&filters=) and [**Jerusalem**](https://www.jerusalem.muni.il/en/residents/security/shelters/). Several mobile applications, including Home Front Command and Red Alert: Israel, are available to download free of charge, and provide real-time security and safety alerts.
-
-In the event of mortar or rocket fire, a localised “red alert” siren may be activated. In such instances, please seek shelter immediately. We advise sheltering in place for a minimum of 10 minutes after the siren ends to avoid any falling shrapnel.
-
-Ben Gurion International Airport (TLV) is operational. Please contact your airline for relevant updates prior to travel. Travellers can check on the status of flights [**here**](https://www.iaa.gov.il/en/).
-
-For the latest updates please follow the X (formerly Twitter) accounts of the Irish Embassy in Tel Aviv [**here**](https://twitter.com/EmbassyTLV) and our Representative Office in Ramallah [**here**](https://twitter.com/IrlRepRamallah). For urgent consular assistance please contact: +972 369 64166 or +353 (1) 408 2000.
 
 ### **Travel to Israel and the Occupied Territories:**
 
