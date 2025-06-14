@@ -2,6 +2,8 @@
 
 #### Security situation
 
+If you're an Australian citizen or permanent resident in Iran, you can now register on the Department of Foreign Affairs and Trade's [crisis registration portal](https://crisis.dfat.gov.au). We will communicate directly with registered Australians with important updates.
+
 Regional tensions are high, and the security situation could deteriorate quickly with little or no notice. This may also result in airspace closures, flight cancellations, flight diversions, and other travel disruptions.
 
 The security situation in Iran remains volatile. Tensions in the region may escalate further, due to ongoing hostility between Iran and Israel, and military tensions between Iran, the US, and other countries in the Middle East.
@@ -16,7 +18,7 @@ If despite our advice you go to Iran, or decide to stay there, monitor media for
 * work with only reliable, registered and authorised organisations and travel agencies
 * don't carry large amounts of cash
 
-Airlines may cancel or reduce their operations to and from Iran at short notice. If tensions escalate, your options to leave may be limited. The Australian Government may not be able to assist with your departure. Check the latest flight status with your airline or travel provider and make arrangements in case you can’t leave. Share those plans with family and friends.
+Flight cancellations and disruptions could continue with little or no notice, including due to airport and airspace closures. If you're in Iran, you should depart when it's safe to do so. The Australian Government may not be able to assist with your departure. Check the latest flight status with your airline or travel provider and make arrangements in case you can’t leave. Share those plans with family and friends.
 
 Iranian authorities are active in and closely monitor border areas with Iraq, Afghanistan and Pakistan. The security situation within 10km of the Iran-Iraq border is extremely dangerous.
 

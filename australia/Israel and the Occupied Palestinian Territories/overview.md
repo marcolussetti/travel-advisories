@@ -2,13 +2,17 @@
 
 Latest update
 
-We've reviewed our advice for Israel and the Occupied Palestinian Territories. Due to the deteriorating security situation, we've raised our level of advice and now advise, do not travel to Israel and the Occupied Palestinian Territories due to the volatile security situation, armed conflict, civil unrest and terrorism.   
+Due to the deteriorating security situation, we advise, do not travel to Israel and the Occupied Palestinian Territories due to the volatile security situation, armed conflict, civil unrest and terrorism.  
   
-Following military strikes in Iran there’s an increased threat of military and terrorist attacks against Israel. Israel has declared a national state of emergency. There's an ongoing threat of missile and rocket attacks in Israel. In an attack or other armed conflict, you should take shelter, follow the advice of local authorities and monitor local media and public safety information updates through the National Emergency Portal (accessible in Israel only – see 'Safety'). See our general advice on protecting your safety during an armed conflict (see 'Safety').  
+Following military strikes in Iran, there are military and rocket attacks against Israel. Israel has declared a national state of emergency. In an attack or other armed conflict, you should take shelter, follow the advice of local authorities and monitor local media and public safety information updates through the National Emergency Portal (accessible in Israel only – see 'Safety'). See our general advice on protecting your safety during an armed conflict (see 'Safety').  
   
-The security situation could deteriorate rapidly with little or no notice. Flight cancellations and disruptions could continue with little or no notice including due to airport and airspace closures. If you're in Israel, you should reconsider whether you need to remain and, if not, depart when it's safe to do so.  
+The security situation could continue to deteriorate rapidly. Flight cancellations and disruptions could continue with little or no notice, including due to airport and airspace closures. If you're in Israel, you should depart when it's safe to do so.  
   
-Terror attacks can occur anywhere at any time, including by lone actors. Be alert to personal safety risks. There continues to be a high threat of military and terrorist attacks against Israel and Israeli interests across the region. The security situation could deteriorate quickly, with little or no notice. This has resulted and may continue to result in airspace closures, flight cancellations, diversions, and other travel disruptions.
+Terror attacks can occur anywhere at any time, including by lone actors. Be alert to personal safety risks. There continues to be a very high threat of military and terrorist attacks against Israel and Israeli interests across the region.   
+  
+If you're an Australian citizen or permanent resident in Israel or the Occupied Palestinian Territories, you can now register on the Department of Foreign Affairs and Trade's crisis registration portal. See the 'Safety' section for details on how to register. We will communicate directly with registered Australians with important updates.  
+  
+If you need emergency consular assistance, contact the Australian Government's Consular Emergency Centre on +61 2 6261 3305 (if you're overseas) and 1300 555 135 (in Australia).
 
 Advice Level summary
 
@@ -44,12 +48,14 @@ See [Safety](#safety).
 
 ### Safety
 
-* Due to the deteriorating security situation, we've raised our level of advice and now advise, do not travel to Israel and the Occupied Palestinian Territories due to the volatile security situation, armed conflict, civil unrest and terrorism. The security situation could deteriorate rapidly with little or no notice. Flight cancellations and disruptions could continue with little or no notice including due to airport and airspace closures.
-* Following military strikes in Iran there’s an increased threat of military and terrorist attacks against Israel. Israel has declared a national state of emergency. We continue to advise do not travel to Gaza, border areas with Gaza, border areas with Lebanon and the West Bank (excluding East Jerusalem) due to the volatile security situation.
+* If you're an Australian citizen or permanent resident in Israel or the Occupied Palestinian Territories,  you can now register on the Department of Foreign Affairs and Trade's [crisis registration portal](https://crisis.dfat.gov.au). We will communicate directly with registered Australians with important updates.
+* Due to the deteriorating security situation, we've raised our level of advice and now advise, do not travel to Israel and the Occupied Palestinian Territories due to the volatile security situation, armed conflict, civil unrest and terrorism.
+* Following military strikes in Iran, there are military and rocket attacks against Israel. Israel has declared a national state of emergency. In an attack or other armed conflict, you should take shelter, follow the advice of local authorities and monitor local media and public safety information updates through the [National Emergency Portal](https://www.oref.org.il/en) (accessible in Israel only). See our general advice on protecting your safety during an armed conflict.
+* The security situation could continue to deteriorate rapidly. Flight cancellations and disruptions could continue with little or no notice, including due to airport and airspace closures. If you're in Israel, you should depart when it's safe to do so.
 * Terror attacks continue to be a threat to civilians and may be carried out by organised groups or lone actors, including using vehicles or makeshift weapons. Terrorist attacks could happen at any time or anywhere. Always be alert. Have an exit plan.
+* If you need emergency consular assistance, contact the Australian Government's Consular Emergency Centre on +61 2 6261 3305 (if you're overseas) and 1300 555 135 (in Australia).
 * Israel is a target for terrorism, rocket and drone attacks and military confrontation. There are tensions and security risks close to Israel's borders with Lebanon, Syria and Egypt. There are ongoing threats of rocket and drone attacks and military activity. Authorities are monitoring security on Israel’s northern border.
 * The threat of civil unrest, shooting and rocket attacks remains. Be alert to the risk of Israeli air strikes and land-based IDF operations in the West Bank and Gaza. In an attack or other armed conflict, follow the advice of local authorities. There continues to be a high threat of military reprisals and terrorist attacks against Israel and Israeli interests across the region. See our general advice on protecting your safety and monitor local media and public safety information updates through the [National Emergency Portal](https://www.oref.org.il/en) (accessible in Israel only). Make sure you have enough essential supplies.
-* Military attacks may result in airspace closures, flight cancellations, diversions and other travel disruptions. Tel Aviv's Ben Gurion International Airport is currently closed due to heightened security concerns.
 * Due to the risk of a deteriorating security environment, the Australian Government has offered voluntary departures to Australia for dependants of Australian officials posted to Israel and the Occupied Palestinian Territories.
 * GPS signals may be blocked in parts of Israel, disrupting navigational apps.
 * Land border crossings to Jordan are open but may close at short notice. The Rafah crossing between Gaza and Egypt may be closed or have highly restricted access for long periods and is subject to change at short notice. It was closed for a significant period due to the Gaza conflict and subjected to attacks, including air strikes.
