@@ -1,11 +1,11 @@
 {
     "name": "Bahrain",
-    "update_reason": "Updated information on passport requirements for dual Bahraini-UK nationals ('Entry requirements' page).",
+    "update_reason": "Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region (\u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Bahrain/Warnings and insurance.md",
-            "update_date": "2025-06-04T14:08:38+01:00"
+            "update_date": "2025-06-13T12:39:37+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Bahrain/Getting help.md"
         }
     ],
-    "update_date": "2025-06-04T14:08:38+01:00"
+    "update_date": "2025-06-13T12:39:37+01:00"
 }

@@ -1,11 +1,11 @@
 {
     "name": "Yemen",
-    "update_reason": "New information on Israeli missile strikes in Yemen (\u2018Safety and security\u2019 page).",
+    "update_reason": "Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Yemen/Warnings and insurance.md",
-            "update_date": "2024-12-30T15:04:59+00:00"
+            "update_date": "2025-06-13T12:38:14+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Yemen/Getting help.md"
         }
     ],
-    "update_date": "2024-12-30T15:04:59+00:00"
+    "update_date": "2025-06-13T12:38:14+01:00"
 }

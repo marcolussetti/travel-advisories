@@ -1,11 +1,11 @@
 {
     "name": "The Occupied Palestinian Territories",
-    "update_reason": "Updated information on why foreign nationals may be legally refused entry into Israel (See 'Immigration checks' on the 'Entry requirements' page).",
+    "update_reason": "FCDO now advises against all but essential travel to Israel and the Occupied Palestinian Territories and now advises against all travel to Sheba'a Farms and Ghajjar.",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/The Occupied Palestinian Territories/Warnings and insurance.md",
-            "update_date": "2025-05-16T14:30:33+01:00"
+            "update_date": "2025-06-13T17:24:20+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/The Occupied Palestinian Territories/Getting help.md"
         }
     ],
-    "update_date": "2025-05-16T14:30:33+01:00"
+    "update_date": "2025-06-13T17:24:20+01:00"
 }

@@ -1,11 +1,11 @@
 {
     "name": "Saudi Arabia",
-    "update_reason": "Updated information on Hajj 2025 ('Pilgrimage' page).",
+    "update_reason": "Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region (\u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Saudi Arabia/Warnings and insurance.md",
-            "update_date": "2025-06-03T17:10:07+01:00"
+            "update_date": "2025-06-13T12:36:53+01:00"
         },
         {
             "title": "Entry requirements",
@@ -38,5 +38,5 @@
             "file": "unitedkingdom/Saudi Arabia/Getting help.md"
         }
     ],
-    "update_date": "2025-06-03T17:10:07+01:00"
+    "update_date": "2025-06-13T12:36:53+01:00"
 }

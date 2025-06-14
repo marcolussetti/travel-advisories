@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 April 2025
+:   14 June 2025
 
 Updated:
-:   25 April 2025
+:   13 June 2025
 
 Latest update:
-:   Information about travelling with children ('Entry requirements' page).
+:   Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region (‘Safety and security’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/615dcb70d3bf7f55fd843aea/FCDO__TA__002_-_Algeria_Travel_Advice_Ed3__WEB_.jpg)
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   14 June 2025
 
 Updated:
-:   13 March 2025
+:   13 June 2025
 
 Latest update:
-:   CORRECTION: FCDO now advises against all travel to parts of the Kurdistan Region of Iraq ('Warnings and insurance' and 'Regional risks' pages).
+:   Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/67d2f0ae886e7770c211e09e/FCDO__TA__048_-_Iraq_Travel_Advice_Ed6__WEB_.jpg)
 

@@ -16,13 +16,13 @@ You will be denied entry if you do not have a valid travel document or try to us
 
 You must have a visa to enter Nigeria as a visitor. Get your visa before travelling.
 
-Some business travellers are eligible to apply for a visa on arrival. Check the [visa conditions from Nigerian Immigration Services](https://portal.immigration.gov.ng/).
-
 If you have a valid Nigerian residence permit (CERPAC or Green Card), you do not need a visa to enter Nigeria.
 
 For further information contact the [Nigeria High Commission in the UK](http://www.nigeriahc.org.uk/).
 
 ### Applying for a visa
+
+Visa on arrival is no longer available.  All visa applications must be submitted through the online portal prior to travel.
 
 You can [apply for a visa from Nigerian Immigration Services](https://portal.immigration.gov.ng/).
 

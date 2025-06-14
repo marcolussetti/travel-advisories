@@ -4,6 +4,12 @@ This section has safety advice for regions of Jordan. It only covers regions whe
 
 You should also read [FCDO’s overall travel advice](/foreign-travel-advice/jordan) and [safety and security advice](/foreign-travel-advice/jordan/safety-and-security).
 
+## Land border crossings
+
+There are reports of closures of the King Hussein/Allenby bridge crossing between Jordan and the West Bank. You should be aware of the risk of closures of the borders between Jordan and Israel and the West Bank, as well as possible road closures within Jordan, with no notice.
+
+See [Israel travel advice](https://www.gov.uk/foreign-travel-advice/israel) and [Occupied Palestinian Territories travel advice](https://www.gov.uk/foreign-travel-advice/the-occupied-palestinian-territories) and check with the Jordanian authorities before crossing.
+
 ## Border areas
 
 Take care near borders and if you’re crossing into a neighbouring country. Jordanian army and police units patrol the borders with Syria and Iraq and check traffic.

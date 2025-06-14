@@ -58,15 +58,14 @@ British nationals are seen as legitimate targets, including tourists, humanitari
 
 The long-standing policy of the British Government is not to make substantive concessions to hostage takers. The British Government considers that paying ransoms and releasing prisoners builds the capability of terrorist groups and finances their activities. This can, in turn, increase the risk of further hostage-taking. The Terrorism Act (2000) makes payments to terrorists illegal.
 
-## Conflict affecting Lebanon
+## Regional risks
 
-Ongoing hostilities between Israel and Lebanon could escalate quickly and pose risks for the wider region.
+Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region. There are reports of military debris falling in various locations. Travel disruptions, including flight cancellations and airspace closures may occur. Demonstrations and protest activity may take place.
 
-On 1 October, Iran launched over 200 ballistic missiles at Israel. Further attacks cannot be ruled out. Israel has promised a response.
+You should:
 
-Monitor this travel advice and other media as the situation is changing afast. Follow and contact FCDO travel on [X](https://x.com/fcdotravelgovuk), [Facebook](https://www.facebook.com/fcdotravel) and [Instagram](https://www.instagram.com/travelaware/). You can also [get email notifications](https://www.gov.uk/foreign-travel-advice/iraq/email-signup) when this travel advice is updated.
-
-Read FCDO advice [if you’re affected by a crisis abroad](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas).
+* monitor local and international media for the latest information
+* be vigilant and follow the instructions of local authorities
 
 ## Security situation
 

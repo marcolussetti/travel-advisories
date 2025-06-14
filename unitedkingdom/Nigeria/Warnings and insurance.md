@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   5 June 2025
+:   14 June 2025
 
 Updated:
-:   4 June 2025
+:   13 June 2025
 
 Latest update:
-:   Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting ('Safety and security' page).
+:   New information about on arrival VISAs (See ‘Applying for a VISA’ on the ‘Entry Requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/6544d305d36c910012935d1f/FCDO__TA__030_-_Nigeria_Travel_Advice_Ed8__WEB_.jpg)
 

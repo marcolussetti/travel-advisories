@@ -49,17 +49,14 @@ All British nationals are seen as legitimate targets, including tourists, NGOs, 
 
 The long-standing policy of the British government is not to make substantive concessions to terrorist hostage takers. The British government considers that paying ransoms builds the capability of terrorist groups and finances their activities. This can, in turn, increase the risk of further hostage-taking. The Terrorism Act (2000) makes payments to terrorists illegal.
 
-## Regional escalation
+## Regional risks
 
-Ongoing hostilities between Israel and Lebanon could escalate quickly and pose risks for the wider region.
+Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region. There are reports of military debris falling in various locations. Travel disruptions, including flight cancellations and airspace closures may occur. Demonstrations and protest activity may take place.
 
-There have recently been multiple incidents of Israeli missile strikes in Houthi controlled areas of Yemen. The ongoing threat of missile strikes in Houthi controlled areas of Yemen remains, posing a serious threat to any persons travelling through those areas.
+You should:
 
-On 1 October, Iran launched around 200 ballistic missiles at Israel. On 26 October, Israel carried out military action against Iran.
-
-Monitor this travel advice and other media as the situation is changing fast. Follow and contact FCDO travel on [X](https://x.com/fcdotravelgovuk), [Facebook](https://www.facebook.com/fcdotravel) and [Instagram](https://www.instagram.com/travelaware/). You can also [get email notifications](https://www.gov.uk/foreign-travel-advice/yemen/email-signup) when this travel advice is updated.
-
-Read FCDO advice [if you’re affected by a crisis abroad](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas).
+* monitor local and international media for the latest information
+* be vigilant and follow the instructions of local authorities
 
 ## Political situation
 

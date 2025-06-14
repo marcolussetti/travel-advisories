@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   14 June 2025
 
 Updated:
-:   14 March 2025
+:   13 June 2025
 
 Latest update:
-:   Updated information for British nationals affected by ongoing hostilities in Syria ('Warnings and insurance' and 'Getting help' pages).
+:   Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/5f4f3764e90e071c745ff2f9/FCDO__TA__039_-_Syria_Travel_Advice_Ed1__WEB_.jpg)
 

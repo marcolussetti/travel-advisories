@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   14 June 2025
 
 Updated:
-:   30 December 2024
+:   13 June 2025
 
 Latest update:
-:   New information on Israeli missile strikes in Yemen (‘Safety and security’ page).
+:   Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/5f4e3445e90e071c6f74664e/FCDO__TA__047_-_Yemen_Travel_Advice_Ed1__WEB_.jpg)
 

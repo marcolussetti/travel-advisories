@@ -51,6 +51,15 @@ Terrorist groups operating in Syria routinely use kidnapping as a tactic. This i
 
 The long-standing policy of the British government is not to make substantive concessions to hostage takers. The British government considers that paying ransoms and releasing prisoners builds the capability of terrorist groups and finances their activities. This can, in turn, increase the risk of further hostage-taking. The Terrorism Act (2000) makes payments to terrorists illegal.
 
+## Regional risks
+
+Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region. There are reports of military debris falling in various locations. Travel disruptions, including flight cancellations and airspace closures may occur. Demonstrations and protest activity may take place.
+
+You should:
+
+* monitor local and international media for the latest information
+* be vigilant and follow the instructions of local authorities
+
 ## Security situation
 
 The situation in Syria remains volatile and dangerous after over a decade of conflict and insecurity.
@@ -83,16 +92,6 @@ There is a humanitarian crisis in Syria. Public infrastructure and services have
 ### Sanctions
 
 The UK has sanctions in place on Syria. Sanctions started in 2011 as part of an EU initiative. See the [Office of Financial Sanctions Implementation, HM Treasury](https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation) and [UK sanctions on Syria](https://www.gov.uk/government/collections/uk-sanctions-on-syria) for more information.
-
-## Regional escalation
-
-Ongoing hostilities in the region and between Israel and Lebanon could escalate quickly and pose risks for the wider region.
-
-On 1 October, Iran launched around 200 ballistic missiles at Israel. On 26 October Israel carried out military action against Iran.
-
-Monitor this travel advice and other media as the situation is changing fast. Follow and contact FCDO travel on [X](https://X.com/fcdotravelgovuk), [Facebook](https://www.facebook.com/fcdotravel) and [Instagram](https://www.instagram.com/travelaware/). You can also [get email notifications](https://www.gov.uk/foreign-travel-advice/syria/email-signup) when this travel advice is updated.
-
-Read FCDO advice [if you’re affected by a crisis abroad](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas).
 
 ## Crime
 

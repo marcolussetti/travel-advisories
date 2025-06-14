@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   7 May 2025
+:   14 June 2025
 
 Updated:
-:   6 May 2025
+:   13 June 2025
 
 Latest update:
-:   New information about travellers arriving to Ecuador and needing to present a valid yellow fever certificate ('Entry requirements' page).
+:   Updated information on regional states of emergency ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/65a1082ce96df50014f8452c/FCDO__TA__014_-_Ecuador_Travel_Advice_Ed5__WEB_.jpg)
 
@@ -45,11 +45,11 @@ Find out more about [why FCDO advises against travel](/foreign-travel-advice/ecu
 
 ## Regional state of emergency (heavy rainfall)
 
-On 11 March the Committee of Emergency Operations (COE) declared a regional state of emergency for 60 days, due to heavy rainfall, in the following provinces: Guayas, Los Ríos, Manabí, Esmeraldas, Santa Elena, Loja and Azuay.
+On 11 March the Committee of Emergency Operations (COE) declared a regional state of emergency for 60 days, due to heavy rainfall, in the following provinces: Guayas, Los Ríos, Manabí, Esmeraldas, Santa Elena, Loja and Azuay. On 24 April, this measure was extended for a further 60 days and adding Pichincha, Bolivar, Chimborazo and Cotopaxi provinces.
 
 ## Regional state of emergency declared (internal disturbance and armed violence)
 
-A 60-day state of emergency (SOE) was renewed on 12 April due to internal disturbance and armed violence. You should always follow the instructions of police and local authorities. The SOE currently applies to the following provinces:
+A 30-day state of emergency (SOE) was renewed on 12 June due to internal disturbance and armed violence. You should always follow the instructions of police and local authorities. The SOE currently applies to the following provinces:
 
 * Guayas
 * El Oro
@@ -59,7 +59,6 @@ A 60-day state of emergency (SOE) was renewed on 12 April due to internal distur
 * Sucumbios
 * Los Ríos
 * Quito Metropolitan District (Pichincha province)
-* Camilo Ponce Enríquez district (Azuay province)
 
 Curfew hours (10pm until 5am) are in place until further notice, for the following districts (‘cantons’) and/or parishes (parroquias):
 

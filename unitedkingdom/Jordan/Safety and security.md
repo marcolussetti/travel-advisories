@@ -30,13 +30,17 @@ Examples of significant attacks include:
 
 Following recent developments in Israel, Lebanon, the West Bank and the Gaza Strip, the security situation could change suddenly.
 
-On 1 October, ballistic missiles targeted at Israel were intercepted over Jordan, including over Amman. On 26 October, Israel carried out military action against Iran. Flight cancellations, diversions and potential disturbances to Global Positioning System (GPS) signals may occur at short notice, as may temporarily closure of airspace.
+At 09:30am on 13 June official sirens sounded in Jordan warning people to stay indoors due to the risk of falling debris in anticipation of further exchanges between Israel and Iran. At 12:00 official announcements said the immediate State of Alert was over, but advised people to remain alert. If you hear sirens, please remain indoors and stay away from windows to ensure protection from any possible missile/drone fragments. If there are any injuries or damages, call 911 immediately.
 
-The interception of missiles may result in falling fragments and debris. If you encounter any projectile debris or fragments you should move away from them immediately and contact local authorities.
+If missiles are intercepted in Jordanian airspace, this may result in falling fragments and debris. If you encounter any projectile debris or fragments you should move away from them immediately and contact local authorities.
 
-Monitor this travel advice and other media as the situation is changing fast. Follow and contact FCDO travel on [X](https://twitter.com/fcdotravelgovuk), [Facebook](https://www.facebook.com/fcdotravel) and [Instagram](https://www.instagram.com/travelaware/). You can also [get email notifications](https://www.gov.uk/foreign-travel-advice/jordan/email-signup) when this travel advice is updated.
+On 13 June Jordanian authorities also announced the closure of its airspace. As of 1030 on 13 June Queen Alia International Airport was closed. This will result in flight cancellations and diversions.  Global Positioning System (GPS) signals may be unreliable. If you are in Jordan and have been affected, please contact your airline direct and follow the advice of the local authorities. If you are not yet in country, you should check with airlines and travel insurers before making any travel plans.
+
+In addition, there are reports of closures of the King Hussein/Allenby bridge crossing between Jordan and the West Bank. You should be aware of the risk of closures of the borders between Jordan and Israel and the West Bank, as well as possible road closures within Jordan, with no notice.
 
 Read FCDO advice [if you’re affected by a crisis abroad](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas).
+
+Also see [Warnings and insurance page](https://www.gov.uk/foreign-travel-advice/jordan).
 
 ## Political situation
 
@@ -71,7 +75,7 @@ Street begging can be aggressive, particularly in areas frequented by foreigners
 
 ### Sexual assault
 
-Women travellers are often harassed and sexually assaulted by men. Take care when walking or travelling alone. Maintain at least the same level of personal security awareness as you would in the UK. See [advice for women travelling abroad](https://www.gov.uk/guidance/advice-for-women-travelling-abroad).
+Take care when walking or travelling alone. Maintain at least the same level of personal security awareness as you would in the UK. See [advice for women travelling abroad](https://www.gov.uk/guidance/advice-for-women-travelling-abroad).
 
 You should not accept lifts from strangers. If you must use a taxi , you should:
 

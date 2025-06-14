@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   28 March 2025
+:   14 June 2025
 
 Updated:
-:   27 March 2025
+:   13 June 2025
 
 Latest update:
-:   FCDO no longer advises against all travel to the whole of Lebanon. FCDO continues to advise against all travel or all but essential travel to some areas of Lebanon ('Warnings and insurance' and 'Regional risks' pages).
+:   Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/67e532fa87cebda7c4ca4c52/FCDO__TA__023_-_Lebanon_Travel_Advice_Ed12__WEB_.jpg)
 
@@ -112,7 +112,7 @@ Celebratory gunfire is common in Lebanon and there is a risk from gunfire being 
 
 ### Local support
 
-The Embassy remains open as normal and continues with essential work, including full services to British nationals. Due to the security situation, we have temporarily withdrawn family members of British Embassy staff.
+The Embassy remains open as normal and continues with essential work, including full services to British nationals.
 
 Keep up to date with local and international media including TV and radio stations such as Virgin Radio Lebanon (FM 89.5) and Voice of Lebanon / Sawt Lubnan (FM 100.3 - 100.5) which may be useful sources of information on any developments.
 

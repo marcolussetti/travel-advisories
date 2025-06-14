@@ -14,6 +14,15 @@ Although there’s no recent history of terrorism in Cyprus, attacks cannot be r
 
 Attacks could be indiscriminate, including in places visited by foreign nationals.
 
+## Regional risks
+
+Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region.
+
+You should:
+
+* monitor local and international media for the latest information
+* be vigilant and follow the instructions of local authorities
+
 ## Political demonstrations
 
 Demonstrations may occur in cities with little or no notice. Events in the Middle East have led to heightened tensions and demonstrations are likely. Avoid any protests, political gatherings, or marches and leave the area if one develops. Local transport routes may be disrupted.

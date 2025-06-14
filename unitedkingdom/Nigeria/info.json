@@ -1,11 +1,11 @@
 {
     "name": "Nigeria",
-    "update_reason": "Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting ('Safety and security' page).",
+    "update_reason": "New information about on arrival VISAs (See \u2018Applying for a VISA\u2019 on the \u2018Entry Requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Nigeria/Warnings and insurance.md",
-            "update_date": "2025-06-04T17:20:10+01:00"
+            "update_date": "2025-06-13T15:47:31+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Nigeria/Getting help.md"
         }
     ],
-    "update_date": "2025-06-04T17:20:10+01:00"
+    "update_date": "2025-06-13T15:47:31+01:00"
 }

@@ -1,11 +1,11 @@
 {
     "name": "Ecuador",
-    "update_reason": "New information about travellers arriving to Ecuador and needing to present a valid yellow fever certificate ('Entry requirements' page).",
+    "update_reason": "Updated information on regional states of emergency ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Ecuador/Warnings and insurance.md",
-            "update_date": "2025-05-06T15:05:11+01:00"
+            "update_date": "2025-06-13T10:10:01+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Ecuador/Getting help.md"
         }
     ],
-    "update_date": "2025-05-06T15:05:11+01:00"
+    "update_date": "2025-06-13T10:10:01+01:00"
 }

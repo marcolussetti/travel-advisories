@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   18 April 2025
+:   14 June 2025
 
 Updated:
-:   17 April 2025
+:   13 June 2025
 
 Latest update:
-:   Updated information about length of validity for visas in UAE ('Entry requirements' page).
+:   Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region (‘Safety and security’ page).
 
 ## Before you travel
 

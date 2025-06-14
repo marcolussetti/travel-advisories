@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   17 May 2025
+:   14 June 2025
 
 Updated:
-:   16 May 2025
+:   13 June 2025
 
 Latest update:
-:   Updated information on why foreign nationals may be legally refused entry into Israel (See 'Immigration checks' on the 'Entry requirements' page).
+:   FCDO now advises against all but essential travel to Israel and the Occupied Palestinian Territories and now advises against all travel to Sheba'a Farms and Ghajjar.
 
-![](https://assets.publishing.service.gov.uk/media/675c2b29cfbf84c3b2bcf9bc/FCDO__TA__022_-_Israel_Travel_Advice_Ed19__WEB___1_.jpg)
+![](https://assets.publishing.service.gov.uk/media/684c436472e2ed81c079706c/FCDO__TA__022_-_Israel_Travel_Advice_Ed21__WEB___3_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/675c2b2ab745d5f7a053ef0a/FCDO__TA__022_-_Israel_Travel_Advice_Ed19__1_.pdf)
+[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/684c4364928e5ebb68e3f9b0/FCDO__TA__022_-_Israel_Travel_Advice_Ed21__3_.pdf)
 
 This travel advice covers Israel and the Occupied Palestinian Territories (OPTs).
 
@@ -30,15 +30,24 @@ FCDO advises against all travel to Gaza.
 
 ### The West Bank
 
-* FCDO advises against all travel to Tulkuram Governorate, Jenin Governorate, and Tubas Governorate except Route 90.
-* FCDO advises against all but essential travel to the rest of the West Bank, except for, Bethlehem Governorate, Jerusalem Governorate, Ramallah Municipality and, Jericho Municipality (including the areas south and west towards Jerusalem Governate).
+* FCDO advises against all travel to Tulkuram Governorate, Jenin Governorate, and Tubas Governorate except Route 90
 
-### Northern Israel
+### Northern Israel and Occupied Golan Heights
 
-* FCDO advises against all travel within 500m of the border with Syria (the ‘Alpha Line’).
-* FCDO advises against all but essential travel to the area between the Lebanon border and (but not including) Route 89 excluding Nahriyyah.
+* FCDO advises against all travel within 500m of the border with Syria (the ‘Alpha Line’)
+* FCDO advises against all travel to the Sheba’a Farms and Ghajjar
+
+### The rest of Israel and the Occupied Palestinian Territories
+
+FCDO advises against all but essential travel to the rest of Israel and the Occupied Palestinian Territories.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/the-occupied-palestinian-territories/regional-risks).
+
+## Risks of regional escalation
+
+On 13 June a nationwide state of emergency was declared in Israel. This followed Israeli strikes against nuclear and military facilities in Iran. Israeli airspace remains closed.
+
+The situation could escalate quickly and could pose significant risks, including missile fire. Check [Home Front Command](https://www.oref.org.il/en) for the latest guidance (available in Israel only) and follow instructions from the Israeli government. Restrictions may be put in place at short notice. Should you be in the Occupied Palestinian Territories and not have access to Home Front Command continue to follow local instructions including from Palestinian Civil Defence (Call 102, or see [www.pcd.ps](https://pcd.ps/) or [الدفاع المدني الفلسطيني Facebook](https://www.facebook.com/pcd.ps102?mibextid=LQQJ4d)). The interception of missiles over Israel and the OPTs may result in falling fragments or debris. If you encounter any projectile debris or fragments you should move away from them immediately and contact local authorities.
 
 ## Conflict with Lebanese Hizballah
 

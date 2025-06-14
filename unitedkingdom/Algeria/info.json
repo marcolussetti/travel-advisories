@@ -1,11 +1,11 @@
 {
     "name": "Algeria",
-    "update_reason": "Information about travelling with children ('Entry requirements' page).",
+    "update_reason": "Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region (\u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Algeria/Warnings and insurance.md",
-            "update_date": "2025-04-25T15:56:59+01:00"
+            "update_date": "2025-06-13T12:38:12+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Algeria/Getting help.md"
         }
     ],
-    "update_date": "2025-04-25T15:56:59+01:00"
+    "update_date": "2025-06-13T12:38:12+01:00"
 }

@@ -1,11 +1,11 @@
 {
     "name": "Kuwait",
-    "update_reason": "Updated information on visa requirements ('Entry requirements' page).",
+    "update_reason": "Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region (\u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Kuwait/Warnings and insurance.md",
-            "update_date": "2025-01-24T16:07:02+00:00"
+            "update_date": "2025-06-13T12:39:51+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Kuwait/Getting help.md"
         }
     ],
-    "update_date": "2025-01-24T16:07:02+00:00"
+    "update_date": "2025-06-13T12:39:51+01:00"
 }

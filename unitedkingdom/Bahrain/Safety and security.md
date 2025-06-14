@@ -22,15 +22,14 @@ Terrorists have threatened to carry out attacks in the Gulf region, including on
 
 Be aware of your surroundings, particularly during high profile events, and avoid large demonstrations.
 
-## Regional escalation
+## Regional risks
 
-Ongoing hostilities in the region and between Israel and Lebanon could escalate quickly and pose risks for the wider region.
+Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region.
 
-On 1 October, Iran launched around 200 ballistic missiles at Israel. On 26 October, Israel carried out military action against Iran.
+You should:
 
-Monitor this travel advice and other media as the situation is changing fast. Follow and contact FCDO travel on [X](https://x.com/fcdotravelgovuk), [Facebook](https://www.facebook.com/fcdotravel) and [Instagram](https://www.instagram.com/travelaware/). You can also [get email notifications](https://www.gov.uk/foreign-travel-advice/bahrain/email-signup) when this travel advice is updated.
-
-Read FCDO advice [if you’re affected by a crisis abroad](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas).
+* monitor local and international media for the latest information
+* be vigilant and follow the instructions of local authorities
 
 ## Political situation
 

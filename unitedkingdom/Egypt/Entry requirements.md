@@ -12,6 +12,10 @@ Check with your travel provider that your passport and other travel documents me
 
 You will be denied entry if you do not have a valid travel document or try to use a passport that has been reported lost or stolen.
 
+## Return tickets
+
+The Egyptian Civil Aviation Authority has directed all airlines and travel companies to ensure that any passengers arriving in Egypt between 12 and 16 June have a confirmed return ticket. Travelers who are unable to demonstrate this are liable to be refused entry into the country.
+
 ## Visa requirements
 
 British passport holders travelling to Egypt normally need a visa.
@@ -42,9 +46,9 @@ You may be denied entry if your gender expression or physical appearance does no
 
 ### Egypt-Sudan border crossing
 
-If you cross the border from Sudan, you can get a visa on arrival for 25 US dollars (cash only).
+It is no longer possible to cross the land border into Egypt from Sudan.
 
-If you are a British national and have crossed the border without valid documentation, contact the British Embassy in Cairo on + 20 (0) 2 2791 6000. See [Regional risks](/foreign-travel-advice/egypt/regional-risks).
+If you are a British national and have previously crossed the border without valid documentation, contact the British Embassy in Cairo on + 20 (0) 2 2791 6000. See [Regional risks](/foreign-travel-advice/egypt/regional-risks).
 
 ## Vaccine requirements
 

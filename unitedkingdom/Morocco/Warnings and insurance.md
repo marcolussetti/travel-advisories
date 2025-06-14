@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   14 June 2025
 
 Updated:
-:   26 October 2024
+:   13 June 2025
 
 Latest update:
-:   On 26 October Israel carried out military action against Iran ('Safety and security' page)
+:   Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region (‘Safety and security’ page).
 
 ## Before you travel
 

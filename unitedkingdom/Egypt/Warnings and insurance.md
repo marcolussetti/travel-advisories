@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   21 May 2025
+:   14 June 2025
 
 Updated:
-:   20 May 2025
+:   13 June 2025
 
 Latest update:
-:   Information added about entry for people whose gender expression or physical appearance does not match the sex marker in their passport (‘Entry requirements’ page).
+:   Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/670e278f30536cb92748313c/FCDO__TA__015_-_Egypt_Travel_Advice_Ed10__WEB_.jpg)
 

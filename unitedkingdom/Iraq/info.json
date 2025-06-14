@@ -1,11 +1,11 @@
 {
     "name": "Iraq",
-    "update_reason": "CORRECTION: FCDO now advises against all travel to parts of the Kurdistan Region of Iraq ('Warnings and insurance' and 'Regional risks' pages).",
+    "update_reason": "Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Iraq/Warnings and insurance.md",
-            "update_date": "2025-03-13T15:12:31+00:00"
+            "update_date": "2025-06-13T12:37:43+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Iraq/Getting help.md"
         }
     ],
-    "update_date": "2025-03-13T15:12:31+00:00"
+    "update_date": "2025-06-13T12:37:43+01:00"
 }

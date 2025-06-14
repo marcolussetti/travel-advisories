@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   23 May 2025
+:   14 June 2025
 
 Updated:
-:   22 May 2025
+:   13 June 2025
 
 Latest update:
-:   FCDO continues to advise against all travel to Tripoli. The British Embassy has temporarily reduced staff numbers, but the Embassy remains open with the Ambassador and a substantial team present (‘Warnings and insurance’ page).
+:   Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region (‘Safety and security’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/68237cb42b7ca0cc347e081e/FCDO__TA__024_-_Libya_Travel_Advice_Ed3__WEB_.jpg)
 
@@ -31,8 +31,6 @@ On 12 May, significant armed clashes broke out across Tripoli. A ceasefire was a
 FCDO continues to advise against all travel to Libya except for the cities of Benghazi and Misrata, to which we advise against all but essential travel.
 
 If you are a British national already in, or planning to travel to Tripoli, you should have robust security arrangements and contingency plans in place.
-
-Due to the current political tensions and risks of increased insecurity in Tripoli, the British Embassy has temporarily reduced staff numbers. The Embassy in Tripoli remains open, with the Ambassador and a substantial team of staff present.
 
 ## UK government support
 

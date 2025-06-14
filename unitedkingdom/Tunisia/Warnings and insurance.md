@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   14 June 2025
 
 Updated:
-:   27 January 2025
+:   13 June 2025
 
 Latest update:
-:   Removal of information about incident outside the Great Synagogue of Tunis ('Warnings and insurance' page).
+:   Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region (‘Safety and security’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/6164113fd3bf7f55f94794e9/FCDO__TA__042_-_Tunisia_Travel_Advice_Ed2__WEB_.jpg)
 

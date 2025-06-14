@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   14 June 2025
 
 Updated:
-:   7 March 2025
+:   13 June 2025
 
 Latest update:
-:   New information about the possibility of trade union strikes closing the Israeli side of the land border crossing (‘Entry requirements’ page).
+:   Additional information about regional tensions and the instruction to remain indoors to ensure protection from possible missile or drone fragments (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/65bbcf944965c50010e8a3f1/FCDO__TA__087_-_Jordan_Travel_Advice_Ed2__WEB_.jpg)
 
@@ -21,6 +21,25 @@ Your travel insurance could be invalidated if you travel against advice from the
 ### Jordan-Syria border
 
 FCDO advises against all travel to within 3km of the border with Syria.
+
+## Regional risks and airspace closure
+
+Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region. There are reports of military debris falling in various locations. Travel disruption, including flight cancellations and airspace closures may occur. Demonstrations and protest activity may take place. Land border crossings may close with no notice.
+
+You should:
+
+* monitor local and international media for the latest information
+* be vigilant and follow the instructions of local authorities
+* take shelter and stay away from windows if you hear air sirens. In the event of injuries or damage, call 911 immediately
+
+On 13 June Jordan announced the closure of its airspace. Queen Alia International Airport is also closed. Before you travel:
+
+* if you are in Jordan, contact your airline and follow the advice of the local authorities
+* if you are not yet in country, check with your airline and travel insurer
+
+See [safety and security page](https://www.gov.uk/foreign-travel-advice/jordan/safety-and-security).
+
+Read FCDO advice [if you’re affected by a crisis abroad](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas).
 
 ## Before you travel
 

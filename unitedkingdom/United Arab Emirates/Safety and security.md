@@ -28,13 +28,14 @@ Terrorists continue to issue statements threatening to carry out attacks in the 
 
 Maintain a high level of security awareness, particularly in public places and at public events.
 
-## Regional escalation
+## Regional risks
 
-Ongoing hostilities in the region could escalate quickly and pose risks for the wider region.
+Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region.
 
-Monitor this travel advice and other media as the situation is changing fast. Follow and contact FCDO travel on [X](https://X.com/fcdotravelgovuk), [Facebook](https://www.facebook.com/fcdotravel) and [Instagram](https://www.instagram.com/travelaware/). You can also [get email notifications](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/email-signup) when this travel advice is updated.
+You should:
 
-Read FCDO advice [if you’re affected by a crisis abroad](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas).
+* monitor local and international media for the latest information
+* be vigilant and follow the instructions of local authorities
 
 ## Crime
 
@@ -154,13 +155,13 @@ Liquor licences are not required for non-residents in the other Emirates where a
 
 There is zero tolerance for drugs-related offences.
 
-The penalties for trafficking, smuggling, using and possessing illegal drugs (including residual amounts) are severe. Sentences for drug trafficking can include the death penalty. Possession of even the smallest amount of illegal drugs can lead to a minimum 3-month prison term or a fine of between 20,000 UAE dirham and 100,000 UAE dirham. The Emirati authorities count the presence of drugs in the blood stream as possession.
+The penalties for trafficking, smuggling, using and possessing illegal drugs (including residual amounts) are severe. Sentences for drug trafficking can include the death penalty. Possession of even the smallest amount of illegal drugs, including cannabis, can lead to a minimum 3-month prison term or a fine of between 20,000 UAE dirham and 100,000 UAE dirham. The Emirati authorities count the presence of drugs in the blood stream as possession.
 
 Some ‘herbal highs’ and products containing cannabidiol  (CBD) are illegal in the UAE.
 
 Possessing, concealing or making transactions with money from drugs-related offences is illegal. You could get a prison sentence and a fine.
 
-UAE airports have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers. You can be arrested for carrying drugs, even residual amounts.
+UAE airports have excellent technology and security for detecting illegal items, including cannabis. This is also used to scan the baggage of transiting passengers. You can be arrested for carrying drugs, even residual amounts.
 
 Some skincare products and e-cigarette refills may contain ingredients that are illegal in the UAE such as CBD oil. If you are found in possession of such products, they will be confiscated and you could face criminal charges. A list of narcotic, psychotropic and controlled drugs where this rule applies, allowed quantities and documents to be presented can be found on the [UAE Ministry of Health website](https://mohap.gov.ae/en/services/issue-of-permit-to-import-medicines-for-personal-use).
 

@@ -20,6 +20,15 @@ Terrorists have threatened to carry out attacks in the Gulf region, including on
 
 Be aware of your surroundings, particularly during high-profile events, and avoid large demonstrations.
 
+## Regional risks
+
+Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region.
+
+You should:
+
+* monitor local and international media for the latest information
+* be vigilant and follow the instructions of local authorities
+
 ## Conflict affecting Lebanon
 
 Ongoing hostilities between Israel and Lebanon could escalate quickly and pose risks for the wider region.
