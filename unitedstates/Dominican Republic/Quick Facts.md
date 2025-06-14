@@ -4,7 +4,7 @@
 
 PASSPORT VALIDITY:
 
-Passports must be valid for the period of stay in the Dominican Republic.
+Passport must be valid for a period of 6 months starting with your arrival in country.
 
 BLANK PASSPORT PAGES:
 
@@ -12,16 +12,16 @@ BLANK PASSPORT PAGES:
 
 TOURIST VISA REQUIRED:
 
-Not required for visits shorter than 30 days
+Required when visiting for more than 30 days
 
 VACCINATIONS:
 
-None required if arriving from the United States
+None required if arriving from the United States. We recommend you be up-to-date on all [vaccinations](https://wwwnc.cdc.gov/travel/destinations/traveler/none/dominican-republic) recommended by the U.S. Centers for Disease Control and Prevention.
 
 CURRENCY RESTRICTIONS FOR ENTRY:
 
-None
+$10,000 or more must be declared (or equivalent)
 
 CURRENCY RESTRICTIONS FOR EXIT:
 
-$10,000 and over or its equivalent must be declared
+$10,000 or more must be declared (or equivalent)

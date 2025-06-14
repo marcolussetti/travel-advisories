@@ -2,76 +2,79 @@
 
 [#### Health](javascript:void(0); "Health")
 
-For emergency services in the Dominican Republic, dial **911** or **809-202-2026**.
+**Health resources**
 
-**Ambulance services:**
+[CDC Dominican Republic Traveler Information](https://wwwnc.cdc.gov/travel/destinations/traveler/none/dominican-republic?s_cid=ncezid-dgmq-travel-single-001)
 
-* The training and availability of emergency responders may be below U.S. standards.
-* Ambulances are not present or reliable in most areas of the country. They are more reliable and available in Santo Domingo, Santiago, Punta Cana, and Puerto Plata.
+[CDC Travelers' Health](https://wwwnc.cdc.gov/travel/page/traveler-information-center)
 
-**We do not pay medical bills.** Be aware that U.S. Medicare/Medicaid does not apply overseas.  Most hospitals and doctors overseas do not accept U.S. health insurance.
+[CDC Medical Tourism](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html)
 
-**Medical Insurance:** Make sure your health insurance plan provides coverage overseas. Most care providers overseas only accept cash payments. See [our webpage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/insurance-providers-overseas.html) for more information on insurance providers for overseas coverage. Visit the [U.S. Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/page/insurance) for more information on type of insurance you should consider before you travel overseas.
+[NASA Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast)
 
-We strongly recommend supplemental insurance to cover medical evacuation.
+[Insurance Coverage Overseas](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html?cq_ck=1708701048867)
 
-Always carry your prescription medication in original packaging, along with your doctor’s prescription. Check with the [Ministry for Public Health](https://www.msp.gob.do/web/) to ensure the medication is legal in the Dominican Republic.
+**Prevalent diseases**
 
-**Vaccinations:**Be up-to-date on all [vaccinations](http://wwwnc.cdc.gov/travel/page/vaccinations.htm) recommended by the U.S. Centers for Disease Control and Prevention.
+* [Dengue](https://www.cdc.gov/dengue/index.html)
+* [Malaria](https://www.cdc.gov/malaria/hcp/risk-assessment/index.html)
+* [Tuberculosis](https://www.cdc.gov/tb/risk-factors/country.html)
 
-**Further health information:**
+**Vaccinations**Visit your doctor at least one month before travel and [update your vaccinations](https://wwwnc.cdc.gov/travel/destinations/traveler/none/dominican-republic) for travel to the Dominican Republic.
 
-* [World Health Organization](https://www.who.int/countries/)
-* [U.S. Centers for Disease Control and Prevention](http://wwwnc.cdc.gov/travel/) (CDC)
+**Emergency numbers  
+Dial 911** or contact local tourist police (POLITUR) at **809-222-2026** for emergency services.
 
-**Air Quality**
+**Ambulance services**
 
-Air pollution can be a significant problem in many destinations overseas.
+* Emergency responder training and availability may be below U.S. standards.
+* Ambulances are generally unreliable and/or unavailable in most areas.
+* They are more reliable and available in Santo Domingo, Santiago, Punta Cana, and Puerto Plata.
 
-* Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in Dominican Republic.
-* For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/).
-* For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/).
-* For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
+**Medical payments and insurance**
 
-The U.S. Embassy maintains a [list of doctors and hospitals](https://do.usembassy.gov/services/medical-assistance/). We do not endorse or recommend any specific medical provider or clinic.
+* The U.S. government does not pay medical bills.
+* U.S. Medicare and Medicaid do not work overseas.
+* Most hospitals and doctors overseas do not accept U.S. health insurance.
+* Some care providers overseas only accept cash payments.
+* Make sure your health insurance plan provides [insurance coverage overseas](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) for reimbursement of payments. The CDC provides more information on types of [Travel Insurance](https://wwwnc.cdc.gov/travel/page/insurance) available.
+* We strongly recommend supplemental insurance to cover medical evacuation.
+* In the Dominican Republic, private clinics sometimes hold a patient, including his/her passport, or the remains of a deceased person, over unpaid medical bills. If this happens, contact the [Superintendence of Health and Occupational Risks (SISALRIL)](https://www.sisalril.gob.do/index.php "Original URL: https://www.sisalril.gob.do/index.php. Click or tap if you trust this link.") and/or the U.S. Embassy. It is illegal under Dominican law to retain an individual’s passport or hold them in a hospital for failure to pay medical bills. If this happens, please contact the U.S. Embassy for help assistance.
 
-**Health facilities in general:**
+**Prescription drugs**
 
+* Confirm that your medication is legal and listed on the [Ministry of Public Health](https://www.msp.gob.do/web/) (source: Dominican Republic, in Spanish)
+* Take your prescription medication in the original labeled packaging.
+* Bring a copy of your doctor’s prescription.
+* We recommend caution when purchasing prescription medications locally given the possibility of counterfeit pills. If purchased, only buy from a pharmacy after receiving a doctor’s prescription.
+
+**Health facilities**
+
+* Refer to this list of [doctors and hospitals](https://do.usembassy.gov/services/medical-assistance/) if you need healthcare in the Dominican Republic. (source: U.S. Embassy in the Dominican Republic). We do not endorse or recommend any specific medical provider or clinic.
 * Public medical clinics lack basic resources and supplies.
-* Hospitals and doctors require payment “up front” prior to service or admission.
-* Private hospitals usually require advance payment or proof of adequate insurance before admitting a patient.
-* Be aware that some hotels, resorts, etc. have exclusive agreements with medical providers, which have costs associated and may limit your choices in seeking emergency medical attention.
+* Hospitals and doctors require a deposit before service or admission.
+* Private hospitals need advance payment or proof of internationally-accepted insurance before admitting a patient.
+* Some hotels and resorts have exclusive agreements with medical providers, which can limit your choices and add costs to emergency medical attention.
 * Medical staff may speak little or no English.
-* Generally, in public hospitals only minimal staff is available overnight in non-emergency wards. Consider hiring a private nurse or having family spend the night with the patient, especially a minor child.
-* Patients bear all costs for transfer to or between hospitals.
-* Psychological and psychiatric services are limited, even in the larger cities, with hospital-based care only available through government institutions
+* Public hospitals have minimal staff overnight in non-emergency wards. Consider hiring a private nurse or having family stay with the patient, especially a minor child.
+* Patients are responsible for all medical expenses, including costs for transfer between hospitals.
+* Psychological and psychiatric services are limited, even in larger cities.
 
-**Medical Tourism and Elective Surgery**
+**Medical tourism and elective surgery**Many U.S. citizens have suffered **serious complications or died** during or after cosmetic or other elective surgery in the Dominican Republic.
 
-U.S. citizens have suffered serious complications or died during or after having cosmetic or other elective surgery.
+* Before traveling for surgery, get a medical evaluation from a U.S. doctor to determine if you are a good candidate. Refer to this list to see if your medical professional is licensed and accredited: [Consulta de Exequatur - Servicio Nacional de Salud](https://sns.gob.do/herramientas-de-consulta/consulta-de-exequatur/).
+* Research the doctor’s qualifications, experience, and complication rate. Review the medical facility’s credentials before traveling.
+* Share all health history information with your doctor before surgery.
+* See a travel medicine professional in the United States at least 4-6 weeks before your trip to discuss [medical tourism](https://wwwnc.cdc.gov/travel/page/medical-tourism) and to learn about specific risks related to your surgery and travel.
+* Legal options in case of malpractice are very limited in the Dominican Republic.
 
-If you are considering travel to the Dominican Republic for cosmetic surgery, be mindful of the following:
+**Water quality**
 
-* Have a medical evaluation from a U.S. doctor to determine if you are a good candidate for surgery.
-* Before travel, carefully research the doctor (e.g. qualifications, experience performing the surgery, complication rate) and credentials of the recovery facility you plan to use.
-* Share all health information (e.g. medical conditions, medications, allergies) with your doctor before your surgery.
-* Obtain international travel insurance that covers medical evacuation back to the United States and repatriation of remains. For more information, see: [https://wwwnc.cdc.gov/travel/page/insurance](https://gcc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwwwnc.cdc.gov%2Ftravel%2Fpage%2Finsurance&data=04%7C01%7CWedelEM%40state.gov%7C4165782ba8c94cb9134508d89ecdf86f%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C637433954761039823%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=brvf5UhxOE%2BiH7tX7FfjkKgaoCINGsR16QA2OkgdzxI%3D&reserved=0 "https://wwwnc.cdc.gov/travel/page/insurance").
-* See a travel medicine professional in the United States at least 4–6 weeks before your trip to discuss healthy travel and to learn about specific risks related to your surgery and travel. For more information on the risks of medical tourism, see: [https://wwwnc.cdc.gov/travel/page/medical-tourism](https://gcc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwwwnc.cdc.gov%2Ftravel%2Fpage%2Fmedical-tourism&data=04%7C01%7CWedelEM%40state.gov%7C4165782ba8c94cb9134508d89ecdf86f%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C637433954761049780%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=C8ONrSBoOk7zRKZoq4ZxHKz0tIa50oPMglSp7%2Bkn6sA%3D&reserved=0 "https://wwwnc.cdc.gov/travel/page/medical-tourism").
-* Your legal options in case of malpractice are very limited in the Dominican Republic.
+* Tap water in many areas is not safe to drink.
+* Bottled water is safe and should be requested at restaurants and hotels.
+* Request “no ice” in drinks because it may be made from tap water.
 
-**Tap Water:** Tap water is unsafe to drink. Bottled water and beverages are considered safe. Please note that many restaurants use tap water for ice.
+**Adventure travel**
 
-**Adventure Travel**
-
-* Visit the U.S. Centers for Disease Control and Prevention website for more information about [Adventure Travel](https://wwwnc.cdc.gov/travel/page/adventure).
-
-**General Health**
-
-The following diseases are prevalent:
-
-* [Tuberculosis](https://www.cdc.gov/tb/default.htm)
-* [Dengue](https://wwwnc.cdc.gov/travel/diseases/dengue)
-* [Chikungunya](https://www.cdc.gov/chikungunya/index.html)
-* [Malaria](https://www.cdc.gov/malaria/travelers/index.html)
-
-Visit the U.S. Centers for Disease Control and Prevention website for more information about [Resources for Travelers](https://wwwnc.cdc.gov/travel/page/traveler-information-center) regarding specific issues in the [Dominican Republic](https://wwwnc.cdc.gov/travel/destinations/traveler/none/dominican-republic?s_cid=ncezid-dgmq-travel-single-001).
+* [Adventure travel and sports](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/adventure-travel.html) may not be covered by accident insurance and safety protections.
+* [Follow advice from the CDC](https://wwwnc.cdc.gov/travel/page/adventure) to prepare for your trip.
