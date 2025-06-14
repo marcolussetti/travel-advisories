@@ -20,7 +20,7 @@ If you plan to visit Antarctica as an independent traveller, ensure to be self-s
 
 ### Tourism
 
-There are no tourist facilities on land, except a privately run base on the interior ice that caters to mountaineering-type expeditions
+There are no tourist facilities on land, except a privately run base on the interior ice that caters to mountaineering-type expeditions.
 
 Travelling to Antarctica may have a potential harmful impact on the environment. As a result, you should avoid any travel that is not part of an international scientific expedition or organized through a tour operator. Various tourism companies can arrange excursions to the continent.
 

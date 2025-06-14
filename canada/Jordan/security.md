@@ -2,27 +2,16 @@
 
 ## Safety and security
 
-### Information for Canadians in the Middle East
+### Renewed tensions in the Middle East
 
-Heightened tensions in the region could pose security risks in neighbouring countries.
+Renewed tensions pose serious security risks across the region. There are reports of military debris falling in various locations.
 
-This may result in:
-
-* travel disruptions, including flight cancellations and airspace closures
-* military debris falling in various locations
-
-The situation at the Jaber border crossing remains unpredictable due to the unstable security situation in Syria. Verify its status before travelling.
+This may result in travel disruptions, including flight cancellations and airspace closures.
 
 You should:
 
 * monitor local and international media to stay informed of the rapidly evolving situation
-* follow the instructions of local authorities at all times
-* be vigilant and prepared to shelter in place
-
-If you encounter any debris or fragments:
-
-* move away from them immediately
-* contact local authorities
+* be vigilant and follow the instructions of local authorities at all times, including any orders to shelter in place.
 
 ### Situation in Israel, the West Bank and the Gaza Strip
 

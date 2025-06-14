@@ -1,7 +1,7 @@
 {
     "name": "Antarctica",
-    "update_reason": "Health \u2013 editorial update",
-    "update_date": "2025-05-21T14:06:00",
+    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
+    "update_date": "2025-06-13T11:03:00",
     "sections": {
         "risk": "canada/Antarctica/risk.md",
         "security": "canada/Antarctica/security.md",

@@ -8,4 +8,8 @@
 
 ### Chapare Region - Avoid non-essential travel
 
-[Avoid non-essential travel](#levels "Risk Levels") to the Chapare Region, in Cochabamba Province, due to criminal activity such as drug trafficking, kidnapping and extortion.
+[Avoid non-essential travel](#levels "Risk Levels") to the Chapare Region, in the Department of Cochabamba, due to criminal activity such as drug trafficking, kidnapping and extortion.
+
+### Llallagua municipality - Avoid non-essential travel
+
+[Avoid non-essential travel](#levels "Risk Levels") to to Llallagua municipality, in the Department of Potosí, due to ongoing political and social tensions which have turned violent.

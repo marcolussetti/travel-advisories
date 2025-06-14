@@ -2,25 +2,27 @@
 
 ## Safety and security
 
-### Information for Canadians in the Middle East
+### Ongoing hostilities with Iran
 
-Heightened tensions in the region could pose security risks.
+There are heightened security risks in Israel, the West Bank and Jerusalem following exchanges of strikes with Iran on June 13, 2025. Further strikes by both sides is likely.
 
-This may result in:
+Drones, missiles and other types of projectiles could get past air defense systems and reach their targets. Interceptions could produce military debris falling in various locations.
 
-* travel disruptions, including flight cancellations and airspace closures
-* military debris falling in various locations
+A nationwide state of emergency is currently in effect in Israel.
+
+All flights to and from Ben Gurion International Airport are cancelled until further notice and the airport itself is closed.
 
 You should:
 
 * monitor local and international media to stay informed of the rapidly evolving situation
-* follow the instructions of local authorities at all times
-* be vigilant and prepared to shelter in place
+* be vigilant and follow the instructions of local authorities at all times, including any orders to shelter in place.
+* move away immediately and contact local authorities if you encounter unexploded ordnance, military debris or fragments
+* register or update your personal information with the Registration of Canadians Abroad service to receive the latest updates.
 
-If you encounter any debris or fragments:
+#### Useful links
 
-* move away from them immediately
-* contact local authorities
+* [Home Front Command (only available in Israel)](https://www.oref.org.il/en)
+* [Registration of Canadians Abroad service](https://travel.gc.ca/travelling/registration)
 
 ### Regional tensions
 

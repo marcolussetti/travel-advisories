@@ -2,7 +2,7 @@
 
 ## Safety and security
 
-On June 10, 2025, several explosions were reported in Cauca and Valle del Cauca including Cali, resulting in at least one casualty and several injured. Protests have been called in Cali for June 11, 2025.
+On June 10, 2025, there were several explosions and gun attacks in the departments of Cauca and Valle del Cauca, including Cali, resulting in several casualties. Remain vigilant since further attacks could occur.
 
 * Be aware of your surroundings
 * Avoid areas where demonstrations are taking place

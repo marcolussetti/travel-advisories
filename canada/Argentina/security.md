@@ -2,6 +2,10 @@
 
 ## Safety and security
 
+### Enhanced security measures
+
+In response to renewed tensions in the Middle East, the Argentine government has put enhanced security measures in place for Jewish institutions. This includes schools, clubs, places of worship, and the Argentine Israelite Mutual Association (AMIA).
+
 ### Crime
 
 #### Petty crime
