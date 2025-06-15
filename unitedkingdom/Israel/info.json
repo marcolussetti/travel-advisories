@@ -1,11 +1,11 @@
 {
     "name": "Israel",
-    "update_reason": "FCDO now advises against all but essential travel to Israel and the Occupied Palestinian Territories and now advises against all travel to Sheba'a Farms and Ghajjar.",
+    "update_reason": "Update on the Risks of regional escalation following military strikes with Iran ('Warnings and insurance ' page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Israel/Warnings and insurance.md",
-            "update_date": "2025-06-13T17:23:45+01:00"
+            "update_date": "2025-06-14T14:38:19+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Israel/Getting help.md"
         }
     ],
-    "update_date": "2025-06-13T17:23:45+01:00"
+    "update_date": "2025-06-14T14:38:19+01:00"
 }

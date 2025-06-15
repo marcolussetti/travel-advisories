@@ -1,11 +1,11 @@
 {
     "name": "Egypt",
-    "update_reason": "Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region ('Safety and security' page).",
+    "update_reason": "Due to ongoing developments in connection with the Global March on Gaza, travellers will want to review existing advice in the section on Safety and Security. We advise against all travel towards North Sinai",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Egypt/Warnings and insurance.md",
-            "update_date": "2025-06-13T12:37:23+01:00"
+            "update_date": "2025-06-14T10:48:56+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Egypt/Getting help.md"
         }
     ],
-    "update_date": "2025-06-13T12:37:23+01:00"
+    "update_date": "2025-06-14T10:48:56+01:00"
 }

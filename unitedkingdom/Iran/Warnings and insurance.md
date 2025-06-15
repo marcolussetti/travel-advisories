@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   14 June 2025
+:   15 June 2025
 
 Updated:
-:   13 June 2025
+:   14 June 2025
 
 Latest update:
-:   Addition of information that on 13 June, explosions were heard across the country including in Tehran. The situation could escalate quickly and poses significant risks. FCDO continues to advise against all travel to Iran (‘Warnings and insurance’ page).
+:   Update on political situation in Iran ('Warnings and insurance' page)
 
 ![](https://assets.publishing.service.gov.uk/media/627e359b8fa8f53f99901991/FCDO__TA__021_-_Iran_Travel_Advice_Ed5__WEB_.jpg)
 
@@ -24,7 +24,7 @@ Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign
 
 ## Political situation in Iran
 
-At 3:25am local time on 13 June, explosions were heard across the country including in Tehran. Reports suggest that military and nuclear installations across the country were hit, and senior military and political leaders killed in the strikes. Israel has claimed responsibility. A significant Iranian military response is underway.
+Israel continues to operate militarily against Iran. Reports suggest that military and nuclear installations across the country have been hit, and senior military and political leaders killed in the strikes. Israel has claimed responsibility. A significant Iranian military response is ongoing.
 
 The situation could escalate quickly and poses significant risks. We continue to advise against all travel to Iran.
 

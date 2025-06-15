@@ -1,11 +1,11 @@
 {
     "name": "Jordan",
-    "update_reason": "Additional information about regional tensions and the instruction to remain indoors to ensure protection from possible missile or drone fragments (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Update on regional risks and airspace closure ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Jordan/Warnings and insurance.md",
-            "update_date": "2025-06-13T14:09:36+01:00"
+            "update_date": "2025-06-14T14:46:07+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Jordan/Getting help.md"
         }
     ],
-    "update_date": "2025-06-13T14:09:36+01:00"
+    "update_date": "2025-06-14T14:46:07+01:00"
 }

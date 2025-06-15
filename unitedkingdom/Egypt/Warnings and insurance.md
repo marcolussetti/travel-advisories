@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   14 June 2025
+:   15 June 2025
 
 Updated:
-:   13 June 2025
+:   14 June 2025
 
 Latest update:
-:   Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region ('Safety and security' page).
+:   Due to ongoing developments in connection with the Global March on Gaza, travellers will want to review existing advice in the section on Safety and Security. We advise against all travel towards North Sinai
 
 ![](https://assets.publishing.service.gov.uk/media/670e278f30536cb92748313c/FCDO__TA__015_-_Egypt_Travel_Advice_Ed10__WEB_.jpg)
 

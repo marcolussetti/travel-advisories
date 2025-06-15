@@ -2,6 +2,8 @@
 
 This guide also has safety advice for [regions of Egypt](/foreign-travel-advice/egypt/regional-risks).
 
+Due to ongoing developments in connection with the Global March on Gaza, travellers will want to review existing advice. We advise against all travel within North Sinai Governorate.
+
 ## Terrorism
 
 There is a high threat of terrorist attack globally affecting UK interests and British nationals, including from groups and individuals who view the UK and British nationals as targets. Stay aware of your surroundings at all times.

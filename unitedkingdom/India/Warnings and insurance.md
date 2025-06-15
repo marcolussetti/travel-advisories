@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   13 June 2025
+:   15 June 2025
 
 Updated:
-:   12 June 2025
+:   14 June 2025
 
 Latest update:
-:   Update on Air India’s dedicated telephone hotlines to include a number for those outside of India (‘Warnings and insurance’ page).
+:   Opening of UK Reception Centre to assist British nationals following Ahmedabad plane crash ('Warnings and insurance' page)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -33,7 +33,7 @@ Find out more about [why FCDO advises against travel to these regions](/foreign-
 
 ## Plane crash in Ahmedabad
 
-We are aware of a plane crash in Ahmedabad. The UK is working with local authorities in India to urgently establish the facts and provide support to those involved.
+Following the plane crash in Ahmedabad, the UK is working with local authorities in India to urgently establish the facts and provide support to those involved.
 
 British nationals who require consular assistance, or have concerns for friends or family, call:
 
@@ -46,6 +46,20 @@ Air India have set up dedicated passenger hotline numbers for those seeking more
 
 * 1800 5691 444 (in India)
 * 0091 8062779200 (from outside India)
+
+## UK Reception Centre
+
+The Foreign, Commonwealth and Development Office has set up a UK Reception Centre in Ummed Hotel, near the airport in Ahmedabad, to provide support and advice for the families and friends of British nationals following the plane crash of Air India AI 171 on 12 June.  The UK Reception Centre is open from 0900 to 2100 IST daily.
+
+The Ummed Ahmedabad,
+Airport Circle,
+Ahmedabad,
+Gujarat 382475
+
+British nationals who require assistance, or have concerns for family or friends call:
+
+* +91 (11) 2419 2100 (in India)
+* +44 (0) 207 008 5000 (in the UK)
 
 ## India-Pakistan tensions
 

@@ -1,11 +1,11 @@
 {
     "name": "Iran",
-    "update_reason": "Addition of information that on 13 June, explosions were heard across the country including in Tehran. The situation could escalate quickly and poses significant risks. FCDO continues to advise against all travel to Iran (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Update on political situation in Iran ('Warnings and insurance' page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Iran/Warnings and insurance.md",
-            "update_date": "2025-06-13T12:02:52+01:00"
+            "update_date": "2025-06-14T14:33:04+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Iran/Getting help.md"
         }
     ],
-    "update_date": "2025-06-13T12:02:52+01:00"
+    "update_date": "2025-06-14T14:33:04+01:00"
 }
