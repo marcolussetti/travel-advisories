@@ -6,7 +6,9 @@ We continue to advise do not travel to Iraq due to the volatile security environ
   
 Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions.   
   
-Terrorist attacks can occur without warning. Avoid possible targets including markets, transport hubs, places of worship and government facilities (see ‘Safety’).  
+Terrorist attacks can occur without warning. Avoid possible targets including markets, transport hubs, places of worship and government facilities.  
+  
+The US Embassy in Baghdad issued a security alert on 15 June warning of an increased potential for terrorist attacks and to avoid locations frequented by foreigners (see ‘Safety’).  
   
 Demonstrations and protest activity may occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests (see 'Civil unrest and political tension').
 
@@ -32,6 +34,7 @@ See [Safety](#safety).
 
 * The security situation in Iraq is volatile and could deteriorate with little warning. There's a risk of violence, armed conflict, kidnapping and terrorist attacks. You should leave immediately by commercial means if it's safe to do so.
 * Terrorist attacks can occur without warning. Avoid possible targets such as crowded places and public spaces, including markets, transport hubs, places of worship and government facilities. If you must visit them, always have an exit plan.
+* The US Embassy in Baghdad issued a [security alert](https://iq.usembassy.gov/security-alert-for-u-s-citizens-u-s-embassy-iraq-june-15-2025/) on 15 June warning of an increased potential for terrorist attacks. Avoid locations frequented by foreigners and any large gatherings or crowds.
 * Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions.
 * Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests.
 * If you decide to travel to Iraq, despite our advice, you should remain vigilant. Ensure you have robust security arrangements and contingency plans in place. You should get professional security advice and keep up to date with the latest developments.

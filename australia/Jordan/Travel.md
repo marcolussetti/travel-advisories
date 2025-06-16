@@ -29,7 +29,11 @@ Monitor government announcements and media sources and follow the advice of loca
 
 #### Border with Israel
 
-Some land border crossings from Israel into Jordan are scheduled to be opened daily, but crossings may close without notice and for an unknown period of time. You need a visa to enter Jordan. Visas on arrival are available, but be prepared for delays when crossing into Jordan. If you're departing Israel to Jordan, check the Jordanian and [Israeli government websites](https://www.gov.il/en/departments/news/emergency-information-border-crossing) to determine if border crossings are open before travel.
+**Border with Israel**
+
+Some land border crossings from Israel into Jordan (Sheikh Hussein, Allenby Bridge, and Aqaba) are scheduled to be opened daily, but crossings may close without notice and for an unknown period of time. You need a visa to enter Jordan. Visas on arrival are available, but be prepared for delays when crossing into Jordan. If you're departing Israel to Jordan, check [Jordanian Border Crossings](https://www.accesscoordination.org/CrossingJordanC19%20-%20view.aspx) for regular opening times and also check the latest public information from local authorities in both Israel and Jordan to determine if border crossings are open before travel.
+
+For details about travel to the West Bank, read the travel advice for [Israel and the Occupied Palestinian Territories](https://www.smartraveller.gov.au/destinations/middle-east/israel-and-occupied-palestinian-territories).
 
 The security situation in the region remains unpredictable and could deteriorate with little or no warning.
 
@@ -54,20 +58,6 @@ Find out about returning to Australia after [exposure to yellow fever](http://ww
 **More information:**
 
 * [Countries with a risk of yellow fever (PDF 253KB)](https://www.who.int/publications/m/item/countries-with-risk-of-yellow-fever-transmission-and-countries-requiring-yellow-fever-vaccination-(november-2022))
-
-#### Land borders
-
-Land border crossings from Israel into Jordan (Sheikh Hussein, Allenby Bridge, and Aqaba) are scheduled to be opened daily, but crossings may close without notice and for an unknown period of time.
-
-If you're departing Israel to Jordan, check the Jordanian and Israeli government websites to determine if border crossings are open before travel.
-
-For details about travel to the West Bank, read the travel advice for [Israel and the Occupied Palestinian Territories](/destinations/middle-east/israel-and-occupied-palestinian-territories "Israel and the Occupied Palestinian Territories").
-
-If you decide to travel to either Syria or Iraq despite our advice, read our travel advisories for [Syria](/destinations/middle-east/syria "Syria") and [Iraq](/destinations/middle-east/iraq "Iraq").
-
-**More information:**
-
-* [Israel Ministry of Tourism](https://www.gov.il/en/departments/news/emergency-information-border-crossing)
 
 #### Passport
 

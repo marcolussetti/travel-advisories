@@ -46,7 +46,7 @@ Follow the advice of local authorities. The South Korean Government has released
 
 #### Civil unrest and political tension
 
-Avoid demonstrations and large public gatherings. This could be more frequent given the evolving domestic political situation as South Korea enters a period of national election campaigning. Be prepared to change your travel plans in case of traffic or other disruptions. Monitor the media for updates and follow the advice of local authorities.
+Avoid demonstrations and large public gatherings. Be prepared to change your travel plans in case of traffic or other disruptions. Monitor the media for updates and follow the advice of local authorities.
 
 Public protests, including organised strikes and events that draw large groups of people, are common, but they can sometimes turn violent and cause significant disruptions. Protests can affect public transport and access to other public services. Labour disputes have also caused disruptions to health care services, including at the larger hospitals with international clinics.
 

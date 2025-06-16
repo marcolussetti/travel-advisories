@@ -2,14 +2,6 @@
 
 #### Civil unrest and political tension
 
-#### Border with Israel
-
-Some land border crossings from Israel into Jordan are scheduled to be opened daily, but crossings may close without notice and for an unknown period of time. You need a visa to enter Jordan. Visas on arrival are available, but be prepared for delays when crossing into Jordan. If you're departing Israel to Jordan, check the Jordanian and [Israeli government websites](https://www.gov.il/en/departments/news/emergency-information-border-crossing) to determine if border crossings are open before travel.
-
-Missile and drone attacks originating from Yemen and targeting Israel may fail in flight over Jordan leading to falling debris. We recommend remaining indoors and avoiding contact with debris in the event of intercepts. Follow the advice of local authorities.
-
-The security situation in the region remains unpredictable and could deteriorate with little or no warning.
-
 #### Demonstrations and protests
 
 Demonstrations and protests are common, including in Amman.

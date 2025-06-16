@@ -2,7 +2,7 @@
 
 Latest update
 
-We continue to advise exercise normal safety precautions in South Korea. Avoid demonstrations and large public gatherings. This could be more frequent given the evolving domestic political situation as South Korea enters a period of national election campaigning. Be prepared to change your travel plans in case of traffic or other disruptions. Monitor the media for updates and follow the advice of local authorities (see 'Safety').
+Avoid demonstrations and large public gatherings. Be prepared to change your travel plans in case of traffic or other disruptions. Monitor the media for updates and follow the advice of local authorities (see 'Safety').
 
 Advice Level summary
 
@@ -22,7 +22,7 @@ Exercise normal safety precautions in South Korea.
 
 ### Safety
 
-* Avoid demonstrations and large public gatherings. This could be more frequent given the evolving domestic political situation as South Korea enters a period of national election campaigning. Be prepared to change your travel plans in case of traffic or other disruptions. Monitor the media for updates and follow the advice of local authorities.
+* Avoid demonstrations and large public gatherings. Be prepared to change your travel plans in case of traffic or other disruptions. Monitor the media for updates and follow the advice of local authorities.
 * South Korea and North Korea are technically still at war, and tensions on the Korean Peninsula can increase with little warning. North Korea regularly conducts missile launches and other provocations. Monitor developments. Consider downloading the South Korean Government's 'Emergency Ready' app to receive emergency messages in English.
 * Civil emergency drills and exercises are held several times a year. These can be held nationally, regionally or locally.
 * Large-scale public gatherings and protests are common, particularly in Seoul. Protests are generally peaceful and heavily policed but can sometimes turn violent. If possible, avoid large public gatherings and areas with significant police activity, and exercise caution in crowded areas. These gatherings can lead to significant disruptions to traffic and public transportation.

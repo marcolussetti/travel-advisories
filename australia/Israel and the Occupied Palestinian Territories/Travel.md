@@ -4,17 +4,17 @@
 
 #### Flights
 
-Tel Aviv's Ben Gurion International Airport is open but may pause operations due to heightened security concerns at any time, and at short notice. This may cause flight delays or cancellations. Check with your airline for the latest updates before travelling.
+Tel Aviv's Ben Gurion International Airport may close or pause operations due to heightened security concerns at any time, and at short notice. This may cause flight delays or cancellations. Check with your airline for the latest updates before travelling.
 
 #### Land border crossings
 
-Land border crossings to Jordan are open but may close at short notice. Before you travel, check [the](https://www.gov.il/en/departments/news/emergency-information-border-crossing) [United Nations Access Coordination Unit](https://www.accesscoordination.org/) website and public information of the country of planned travel to make sure border crossings are open.
+Land border crossings to Jordan may open and close at short notice. Before you travel, check [Jordanian Border Crossings](https://www.accesscoordination.org/CrossingJordanC19%20-%20view.aspx) for regular opening times and also check the latest public information from local authorities in Israel and Jordan to make sure border crossings are open.
 
 There are 2 land border crossings between Israel and Jordan: Sheikh Hussein/Jordan River near Irbid and Wadi Araba near Aqaba. Additionally, one land border crossing from Israel to Jordan goes through the West Bank: Allenby Bridge/King Hussein near Amman.
 
 These border crossings may open and close with little notice. There's also the possibility of queues and delays at border crossings.
 
-You'll need a visa to enter Jordan.
+You'll need a visa to enter Jordan. See our [Jordan Travel Advice](/destinations/middle-east/jordan "Jordan").
 
 You may find it difficult to travel by road if armed conflict escalates. GPS signals may be blocked in parts of Israel, disrupting navigational apps and devices.
 
@@ -22,7 +22,6 @@ Any travel options you pursue are taken at your own risk. You're responsible for
 
 **More information:**
 
-* [Land border crossings](https://www.gov.il/en/departments/news/emergency-information-border-crossing) (Government of Israel)
 * [Travel advice for Jordan](/destinations/middle-east/jordan "Jordan")
 
 #### Gaza
