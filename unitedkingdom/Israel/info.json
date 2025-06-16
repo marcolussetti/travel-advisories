@@ -1,11 +1,11 @@
 {
     "name": "Israel",
-    "update_reason": "Update on the Risks of regional escalation following military strikes with Iran ('Warnings and insurance ' page)",
+    "update_reason": "FCDO now advises against all travel to Israel and the Occupied Palestinian Territories (\"Warnings and Insurance\" page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Israel/Warnings and insurance.md",
-            "update_date": "2025-06-14T14:38:19+01:00"
+            "update_date": "2025-06-15T11:52:28+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Israel/Getting help.md"
         }
     ],
-    "update_date": "2025-06-14T14:38:19+01:00"
+    "update_date": "2025-06-15T11:52:28+01:00"
 }

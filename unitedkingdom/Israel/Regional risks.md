@@ -31,8 +31,6 @@ There have been large political demonstrations in Tel Aviv. Entry and exit to Be
 
 ## Areas near Gaza
 
-FCDO advises against all travel within 500m of the border with Gaza.
-
 There have been repeated instances of rocket fire from Gaza, which may reach well beyond the Gaza border area. Israel has often responded with air strikes into Gaza. You should:
 
 * make sure you know the safety actions to take if an Israeli warning siren sounds  – no warning sirens will sound inside Gaza
@@ -61,15 +59,11 @@ Do not enter Gaza by sea, including via a flotilla delivering humanitarian aid. 
 
 There was an ongoing conflict between Israel and Lebanese Hizballah (LH). On 27 November, LH and Israel agreed to a ceasefire, with a 60-day implementation period.
 
-FCDO advises against all but essential travel to the area between the Lebanon border and north of (not including) Route 89. There are continued tensions between Israel and Lebanon.
-
 There remains a risk that hostilities could reignite, and with little warning. You should check Home Front Command for the latest guidance. Restrictions may be put in place at short notice. If travelling near military operation areas, follow all Israeli official instructions.
 
 Military activity continues on the Israel-Lebanon border. Keep up to date with the news while travelling. See also section on Conflict with Lebanese Hizballah.
 
 ## Israel-Syria border
-
-FCDO advises against all travel within 500m of the border with Syria (the ‘Alpha Line’).
 
 The situation is fragile, with military exchanges either side of the border. If you’re travelling in the area, be aware of your personal security, check local media and follow advice from local authorities.
 
@@ -86,8 +80,6 @@ The security situation on the border with Egypt is volatile. Take extra care whe
 There are frequent clashes between Israeli Security Forces and Palestinians in these areas and violent incidents can occur without warning.
 
 ## West Bank
-
-FCDO advises against all travel to Tulkuram, Jenin and Tubas and all but essential travel to the rest of the West Bank, except for East Jerusalem.
 
 There has been a heightened state of tension and violent clashes resulting in deaths in the West Bank since the outbreak of conflict in October 2023.
 
