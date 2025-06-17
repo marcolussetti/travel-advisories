@@ -1,6 +1,6 @@
 # Israel, the West Bank and Gaza Travel Advisory
 
-### Travel Advisory January 17, 2025
+### Travel Advisory June 16, 2025
 
 ### See Individual Summaries
 
@@ -14,23 +14,30 @@
 [T](javascript:void(0); "Tool Tip: Terrorism")
 [C](javascript:void(0); "Tool Tip: Crimes")
 
-**Updated to reflect the current security situation in Israel and the West Bank.**
+**Updated due to the Authorized Departure of Family Members of U.S Government employees and some Non-Emergency U.S. Government Employees.**
+
+**On June 14,** the Department of State authorized the voluntary departure of family members and non-emergency U.S. government employees **due to the volatile and unpredictable security situation in the region.**
+
+In response to security incidents and without advance notice, the U.S. Embassy may further restrict or prohibit U.S. government employees and their family members from traveling to certain areas of Israel, the Old City of Jerusalem, and the West Bank.
+
+**Do Not Travel To**:
+
+* Israel due to **armed conflict, terrorism,** and **civil unrest**
+
+**Do Not Travel To:**
+
+* West Bank due to **terrorism**and **civil unrest**
 
 **Do Not Travel To:**
 
 * Gaza due to **terrorism** and **armed conflict**
-* Northern Israel within 4 kilometers/2.4 miles of the Lebanese and Syrian borders due to Israel’s continued military presence and activity
+* Northern Israel within 4 kilometers/2.5 miles of the Lebanese and Syrian borders due to continued military presence and activity
 
-**Reconsider Travel To:**
+**Country Summary:** Terrorist groups, lone-actor terrorists and other violent extremists continue plotting possible attacks in Israel, the West Bank, and Gaza. Terrorists and violent extremists may attack with little or no warning, targeting tourist locations, transportation hubs, markets/shopping malls, and local government facilities. The security environment is complex and can change quickly, and violence can occur in Israel, the West Bank, and Gaza without warning. Increased regional tensions can cause airlines to cancel and/or curtail flights into and out of Israel.
 
-* Israel due to **terrorism** and **civil unrest**
-* West Bank due to **terrorism**and **civil unrest**
+Some areas have increased risk.  Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/IsraeltheWestBankandGaza.html) for additional information on travel to Israel, the West Bank, and Gaza.
 
-**Country Summary:**  Terrorist groups, lone-actor terrorists and other violent extremists continue plotting possible attacks in Israel, the West Bank, and Gaza. Terrorists and violent extremists may attack with little or no warning, targeting tourist locations, transportation hubs, markets/shopping malls, and local government facilities. The security environment is complex and can change quickly, and violence can occur in Israel, the West Bank, and Gaza without warning. Increased regional tensions can cause airlines to cancel and/or curtail flights into and out of Israel.
-
-Some areas have increased risk. Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/IsraeltheWestBankandGaza.html) for additional information on travel to Israel and the West Bank, and Gaza.
-
-Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list "cdc.gov") related to your travel.
+Visit the CDC page for the latest [Travel Health Information](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/israel-west-bank-and-gaza-travel-advisory.html#ExternalPopup "cdc.gov") related to your travel.
 
 If you decide to travel to Israel, the West Bank, and Gaza:
 
@@ -40,42 +47,19 @@ If you decide to travel to Israel, the West Bank, and Gaza:
 * Avoid demonstrations and crowds.
 * Follow the instructions of security and emergency response officials.
 * Beware of and report suspicious activities, including unattended items, to local police.
-* Learn the location of the nearest bomb shelter or other hardened shelter. Download the [Home Front Command Red Alert application](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.idf.il%2Fen%2Fminisites%2Fregional-commands%2Fhome-front-command%2Fhome-front-command%2F&data=05%7C01%7CKreutnerK%40state.gov%7Cedce15ce46384bc0cd9708db2c3a38cf%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C638152400786154531%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=UL%2FSqi0gXe5OQ5ExV6V%2FjR4UU05KIAzNuJdnnFH4iCg%3D&reserved=0) or similar apps for mobile devices (available on devices within Israel) to receive real time alerts for rocket and missile attacks and armed UAV intrusions. U.S. government employees in Israel are encouraged to use these apps.
-* Obtain comprehensive travel medical insurance that includes medical evacuation prior to travel. Most travel insurance packages do not cover mental health related illnesses/care.
+* Learn the location of the nearest bomb shelter or other hardened shelter. Download the [Home Front Command Red Alert application](https://www.idf.il/en/minisites/regional-commands/home-front-command/home-front-command/) or similar apps for mobile devices (available on devices within Israel) to receive real time alerts for rocket and missile attacks and armed UAV intrusions.  U.S. government employees in Israel are encouraged to use these apps.
+* Obtain comprehensive travel medical insurance that includes medical evacuation prior to travel.  Most travel insurance packages do not cover mental health related illnesses/care.
 * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://step.state.gov/) to receive Alerts and make it easier to locate you in an emergency.
 * Follow the Department of State on [Facebook](http://www.facebook.com/travelgov) and [X/Twitter](http://www.twitter.com/travelgov).
 * Review the [Country Security Report](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.osac.gov%2FContent%2FBrowse%2FReport%3FsubContentTypes%3DCountry%2520Security%2520Report&data=04%7C01%7CGatesDN%40state.gov%7Ce5b9981ae5a74576c4a508da0695e01f%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C637829538016617374%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=%2BjeekQvgUygW7iLkkt8eZiPkdP20FTgfwg8n96lPdw8%3D&reserved=0) for Israel, the West Bank, and Gaza.
-* Prepare a contingency plan for emergency situations. Review the [Traveler’s Checklist](https://travel.state.gov/content/passports/en/go/checklist.html).
-* When traveling in rural areas, exercise caution given the possibility of unexploded ordnance. Do not touch or collect debris from rocket, missile, or UAV interceptions.
+* Prepare a contingency plan for emergency situations.  Review the [Traveler’s Checklist](https://travel.state.gov/content/passports/en/go/checklist.html).
+* When traveling in rural areas, exercise caution given the possibility of unexploded ordnance.  Do not touch or collect debris from rocket, missile, or UAV interceptions.
 
-**Gaza – Do Not Travel**
+**Israel – Do Not Travel (see below for additional information regarding areas near the Lebanese and Syrian borders)**
 
-Do not travel due to **terrorism** and**armed conflict.**
+Do not travel due to **armed conflict,** **terrorism, and civil unrest.**
 
-The U.S. government is unable to provide routine or emergency consular services to U.S. citizens in Gaza as U.S. government employees are prohibited from traveling there. The Israel Defense Forces (IDF) continue to conduct military operations in Gaza against Hamas, a U.S. government-designated foreign terrorist organization, which was responsible for the October 7 attack on Israel. As a result of the armed conflict, the security environment within Gaza and on its borders is extremely dangerous and volatile. The pedestrian crossing (Erez Crossing) between Gaza and Israel was damaged on October 7 and remains closed, and the pedestrian crossing between Egypt and Gaza has been closed since May 7 and it is unknown when it will re-open.  There are sporadic telecommunication and internet outages within Gaza further inhibiting the ability of residents to obtain information.
-
-If a U.S. citizen, Lawful Permanent Resident (LPR), or qualified immediate family member desires our assistance and has not already provided their information to the Department of State, please email U.S. Embassy Jerusalem at [JerusalemACS@state.gov](mailto:JerusalemACS@state.gov)with a copy of the individual’s travel document as well as an explanation or proof of relationship.
-
-Visit our website for [Travel to High Risk Areas](https://travel.state.gov/content/passports/en/go/TraveltoHighRiskAreas.html).
-
-If you decide to travel to Gaza:
-
-* Be prepared for an indefinite stay as the crossings between Gaza with Israel and Egypt can close without advance notice and for long periods during times of unrest and armed conflict.
-* Have a plan for entering and departing Gaza that does not rely on U.S. government assistance.
-* Households with infants and young children should plan for food and supplies, such as diapers and wipes, formula or baby food, and a change of clothing.
-* If you take medication, make sure to have at least five days’ worth at any given time – if you can, we encourage enough for two weeks beyond your scheduled trip and have a copy of your prescriptions handy.
-* If you use assistive or medical devices that require a power supply, be sure to find backup power or other ways that will sustain your device or equipment during a power outage.
-* Draft a will and designate appropriate insurance beneficiaries and/or power of attorney.
-* Discuss a plan with loved ones regarding care/custody of children, pets, property, belongings, non-liquid assets (collections, artwork, etc.), funeral wishes, etc.
-* Leave DNA samples with your medical provider in case it is necessary for your family to access them.
-
-Please be sure to visit our website for [How to Prepare for a Crisis](https://travel.state.gov/content/travel/en/international-travel/before-you-go/crisis_and_disaster_abroad_be_ready.html) for information that may be helpful.
-
-**Israel – Reconsider Travel (see below for specific advice on travel within 4 kilometers/2.4 miles of Lebanese and Syrian borders)**
-
-Reconsider travel due to **terrorism** and **civil unrest**.
-
-The security situation remains unpredictable, and U.S. citizens are reminded to remain vigilant and take appropriate steps to increase their security awareness as security incidents, including mortar and rocket fire and armed UAV intrusions, often take place without warning.
+The security situation in Israel, including Tel Aviv and Jerusalem is unpredictable, and U.S. citizens are reminded to remain vigilant and take appropriate steps to increase their security awareness as security incidents, including mortar and rocket fire and armed UAV intrusions and missiles, can take place without warning.
 
 U.S. government employees in Israel under Chief of Mission security responsibility are currently restricted from personal travel to the following locations:
 
@@ -88,24 +72,45 @@ Additional travel restrictions may be imposed on U.S. government employees under
 
 **Northern Israel (within 4 kilometers/2.5 miles of Lebanese and Syrian borders) – Do Not Travel**
 
-The Israeli authorities restrict travel to areas close to the border given the Israeli Defense Forces continued presence and activity.
+The Israeli authorities restrict travel to areas close to the border given the Israeli Defense Forces continued presence and activity.  Do not travel to this area for any reason.
 
-U.S. government employees in Israel under Chief of Mission security responsibility are currently restricted from personal travel within 4 kilometers/2.25 miles of the Lebanese and Syrian borders. Any U.S. government travel to this restricted area requires Regional Security Office approval, and any travel close to the border is done in full coordination with Israeli security forces.
+Due to the risks, U.S. government employees working in Israel are currently restricted from personal travel within 4 kilometers/2.5 miles of the Lebanese and Syrian borders.  Due to the risks, U.S. government employees working in Israel must obtain special authorization to travel close to these borders.
 
-The U.S. Embassy strongly recommends that U.S. citizens do not travel within 4 kilometers/2.5 miles of the Lebanese and Syrian borders.
+The U.S. Embassy strongly recommends that U.S. citizens not travel within 4 kilometers/2.5 miles of the Lebanese and Syrian borders.
 
-**West Bank – Reconsider Travel**
+**Gaza – Do Not Travel**
 
-Reconsider travel due to **terrorism**and **civil unrest**.
+Do not travel for any reason due to **terrorism** and**armed conflict.**
 
-U.S. government travel throughout the West Bank is limited. U.S. government employees in Israel under Chief of Mission security responsibility are currently restricted from all personal travel to the West Bank, except:
+The U.S. government is unable to provide routine or emergency consular services to U.S. citizens in Gaza as U.S. government employees are prohibited from traveling there.  The security environment within Gaza and on its borders is extremely dangerous and volatile.  The pedestrian crossing between Gaza and Israel (Erez Crossing) was damaged on October 7, 2023, and remains closed.   The pedestrian crossing between Egypt and Gaza (Rafah Crossing) has been closed since May 7, 2024, and remains closed to the general public.
+
+If a U.S. citizen or Lawful Permanent Resident (LPR) desires our assistance and has not already provided their information to the Department of State, please email U.S. Embassy Jerusalem at [JerusalemACS@state.gov](mailto:JerusalemACS@state.gov).
+
+Visit our website for [Travel to High Risk Areas](https://travel.state.gov/content/passports/en/go/TraveltoHighRiskAreas.html).
+
+If you decide to travel to Gaza:
+
+* Be prepared for an indefinite stay as the crossings between Gaza with Israel and Egypt can close without advance notice and for long periods during times of unrest and armed conflict.  This includes having food, supplies, and medicine for an extended or indefinite period.
+* Have a plan for entering and departing Gaza that does not rely on U.S. government assistance.
+* If you use assistive or medical devices that require a power supply, be sure to find backup power or other ways that will sustain your device or equipment without access to power.
+* Draft a will and designate appropriate insurance beneficiaries and/or power of attorney.
+* Discuss a plan with loved ones regarding care/custody of children, pets, property, belongings, non-liquid assets (collections, artwork, etc.), funeral wishes, etc.
+* Leave DNA samples with your medical provider in case it is necessary for your family to access them.
+
+Please be sure to visit our website for [Crisis and Disaster Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/crisis_and_disaster_abroad_be_ready.html): Be Ready for information that may be helpful.
+
+**West Bank – Do Not Travel**
+
+Do not travel due to **terrorism**and **civil unrest**.
+
+Due to the risks, U.S. government employees working in Israel must obtain special authorization travel to the West Bank.  U.S. government employees are currently restricted from all personal travel to the West Bank, except:
 
 * U.S. government employees can use Routes 1, 90, and 443 at any time.
-* U.S. government employees are permitted personal daylight travel to Jericho and Bethlehem, including Beit Jala and Beit Sahour.  Given continued closures of checkpoints throughout the West Bank, the only permitted and accessible route into Bethlehem for U.S. government employees and their family members is through Checkpoint 300 near Rachel’s Tomb.
+* U.S. government employees are permitted personal daylight travel to Jericho and Bethlehem, including Beit Jala and Beit Sahour.  Given continued closures of checkpoints throughout the West Bank, the only permitted and accessible route into Bethlehem for U.S. government employees and their family members is through Checkpoint 300 near Rachel’s Tomb.
 
-Over the past several months, there has been an increase in settler violence, Israeli military operations, and terrorist attacks. Some incidents have resulted in injury or death of U.S. citizens.
+Over the past several months, there has been an increase in violence, Israeli military operations, and terrorist attacks.  Some incidents have resulted in injury or death of U.S. citizens.  During periods of unrest, the Israeli government may restrict access to and within the West Bank, and some areas may be placed under curfew.
 
-Additional travel restrictions may be imposed on U.S. government employees under Chief of Mission security responsibility with little to no notice due to increased security issues or threats.
+Additional travel restrictions may be imposed on U.S. government employees working in Israel with little to no notice due to increased security issues or threats.
 
 Visit our website for [Travel to High Risk Areas](https://travel.state.gov/content/passports/en/go/TraveltoHighRiskAreas.html).
 

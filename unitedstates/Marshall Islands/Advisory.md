@@ -1,6 +1,6 @@
 # Marshall Islands Travel Advisory
 
-### Travel Advisory May 28, 2024
+### Travel Advisory June 16, 2025
 
 ### Marshall Islands - Level 1: Exercise Normal Precautions
 
@@ -14,7 +14,7 @@
 [T](javascript:void(0); "Tool Tip: Terrorism")
 [C](javascript:void(0); "Tool Tip: Crimes")
 
-***Reissued after periodic review without changes.***
+***Reissued after periodic review with minor edits.***
 
 Exercise normal precautions in the Marshall Islands.
 
@@ -22,11 +22,11 @@ Read the [country information page](https://travel.state.gov/content/travel/en/
 
 If you decide to travel to Marshall Islands:
 
-* Enroll in the [Smart Traveler Enrollment Program](https://step.state.gov/step/) ([STEP](https://step.state.gov/step/)) to receive security messages and make it easier to locate you in an emergency.
-* Follow the Department of State on [Facebook](https://www.facebook.com/travelgov/) and [Twitter](https://twitter.com/travelgov).
+* Enroll in the [Smart Traveler Enrollment Program (STEP)](https://step.state.gov/step/) to receive Alerts and make it easier to locate you in an emergency.
 * Review the [Country Security Report](https://www.osac.gov/Content/Report/2834dfbe-154a-46ed-a0be-1cbd178e8f17) for the Marshall Islands.
-* Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) related to your travel.
-* Prepare a contingency plan for emergency situations. Review the [Traveler’s Checklist](https://travel.state.gov/content/passports/en/go/checklist.html).
+* Prepare a plan for emergency situations. Review the [Traveler’s Checklist](https://travel.state.gov/content/passports/en/go/checklist.html).
+* Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) related to your travel.
+* We highly recommend that you buy insurance before you travel.  Check with your [travel insurance provider](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) about evacuation assistance, medical insurance, and trip cancellation coverage.
 
 ### Travel Advisory Levels
 

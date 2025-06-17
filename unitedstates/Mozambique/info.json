@@ -1,7 +1,7 @@
 {
     "name": "Mozambique",
-    "risk_level": "Level 3: Reconsider Travel",
-    "risk_level_number": 3,
+    "risk_level": "Level 2: Exercise Increased Caution",
+    "risk_level_number": 2,
     "pages": [
         {
             "title": "Quick Facts",
@@ -44,6 +44,6 @@
             "file": "unitedstates/Mozambique/Advisory.md"
         }
     ],
-    "update_date_advisory": "2024-12-19T00:00:00",
+    "update_date_advisory": "2025-06-16T00:00:00",
     "update_date_details": "2023-12-19T00:00:00"
 }

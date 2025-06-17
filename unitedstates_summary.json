@@ -794,7 +794,7 @@
     {
         "destination": "India",
         "risk_level": "Level 2: Exercise Increased Caution",
-        "last_updated_advisory": "2024-07-23T00:00:00",
+        "last_updated_advisory": "2025-06-16T00:00:00",
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/india-travel-advisory.html",
         "risk_level_number": 2,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/India.html",
@@ -839,7 +839,7 @@
     {
         "destination": "Israel, the West Bank and Gaza",
         "risk_level": "Other",
-        "last_updated_advisory": "2025-01-17T00:00:00",
+        "last_updated_advisory": "2025-06-16T00:00:00",
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/israel-west-bank-and-gaza-travel-advisory.html",
         "risk_level_number": -1,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Jerusalem.html",
@@ -1073,7 +1073,7 @@
     {
         "destination": "Marshall Islands",
         "risk_level": "Level 1: Exercise Normal Precautions",
-        "last_updated_advisory": "2024-05-28T00:00:00",
+        "last_updated_advisory": "2025-06-16T00:00:00",
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/marshall-islands-travel-advisory.html",
         "risk_level_number": 1,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/MarshallIslands.html",
@@ -1153,10 +1153,10 @@
     },
     {
         "destination": "Mozambique",
-        "risk_level": "Level 3: Reconsider Travel",
-        "last_updated_advisory": "2024-12-19T00:00:00",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated_advisory": "2025-06-16T00:00:00",
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/mozambique-travel-advisory.html",
-        "risk_level_number": 3,
+        "risk_level_number": 2,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Mozambique.html",
         "last_updated_country_details": "2023-12-19T00:00:00"
     },
