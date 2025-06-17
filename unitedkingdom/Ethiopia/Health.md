@@ -22,10 +22,11 @@ At least 8 weeks before your trip:
 
 See [what health risks you’ll face in Ethiopia](https://travelhealthpro.org.uk/country/76/ethiopia), including:
 
-* yellow fever
-* malaria and dengue
-* schistosomiasis
+* Yellow fever
+* Malaria and dengue
+* Schistosomiasis
 * Zika virus
+* Mpox
 
 Malaria is common in areas of the country up to 2,000 metres above sea level. Addis Ababa sits at 2,400m but a number of sites popular with tourists are below 2,000m.
 

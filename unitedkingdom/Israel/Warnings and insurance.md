@@ -1,13 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   16 June 2025
+:   17 June 2025
 
 Updated:
-:   15 June 2025
+:   16 June 2025
 
 Latest update:
-:   FCDO now advises against all travel to Israel and the Occupied Palestinian Territories ("Warnings and Insurance" page)
+:   New information about the departure of family members of staff at British Embassy Tel Aviv and British Consulate Jerusalem and updates about Jordan and Egypt’s land border crossings (See ‘Warning and insurance’ page).
+
+![](https://assets.publishing.service.gov.uk/media/684fe3c64734883ca9f79e4a/FCDO__TA__022_-_Israel_Travel_Advice_Ed22__WEB___1_.jpg)
+
+
+[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/684fe3c706337b7382f79e46/FCDO__TA__022_-_Israel_Travel_Advice_Ed22__1_.pdf)
 
 This travel advice covers Israel and the Occupied Palestinian Territories (OPTs).
 
@@ -23,11 +28,33 @@ If you are already in Israel and the Occupied Palestinian Territories follow loc
 
 ## Risks of regional escalation
 
-Iran has launched multiple rounds of missile and drone attacks against Israel. On 13 June a nationwide state of emergency was declared in Israel. This followed Israeli strikes against nuclear and military facilities in Iran. Israeli airspace remains closed.
+Following Israeli strikes against targets in Iran, Iran has launched multiple rounds of missile and drone attacks against Israel. On 13 June a nationwide state of emergency was declared in Israel. Israeli airspace remains closed and Ben Gurion Airport is currently closed .
 
-We recognise this is a fast-moving situation that poses significant risks. The situation has the potential to deteriorate further, quickly and without warning. The current situation has disrupted air links out of the country and may disrupt road links. We encourage you to read the FCDO’s advice on [if you’re affected by a crisis abroad](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas).
+This is a fast-moving situation that poses significant risks. The situation has the potential to deteriorate further, quickly and without warning. The current situation has disrupted air links out of the country and may disrupt road links. We encourage you to read the FCDO’s advice on [if you’re affected by a crisis abroad](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas)
 
-Check [Home Front Command](https://www.oref.org.il/en) for the latest guidance (available in Israel only) and follow instructions from the Israeli government. Restrictions may be put in place at short notice. Should you be in the Occupied Palestinian Territories and not have access to Home Front Command continue to follow local instructions including from Palestinian Civil Defence (Call 102, or see [www.pcd.ps](https://pcd.ps/) or [الدفاع المدني الفلسطيني | Facebook](https://www.facebook.com/pcd.ps102?mibextid=LQQJ4d)). The interception of missiles over Israel and the OPTs may result in falling fragments or debris. If you encounter any projectile debris or fragments you should move away from them immediately and contact local authorities.
+Family members of staff at the British Embassy in Tel Aviv and the British Consulate in Jerusalem have been temporarily withdrawn as a precautionary measure.
+
+The Embassy and Consulate continues with essential work including services to British nationals.
+
+### Let the UK government know you’re in Israel/Occupied Palestinian Territories
+
+Register your presence if you’re [in Israel/the Occupied Palestinian Territories](https://www.register.service.csd.fcdo.gov.uk/israel-20250612/tell-the-uk-government-youre-in-israel-or-the-occupied-palestinian-territories) for further updates.
+
+### Check local information
+
+Check [Home Front Command](https://www.oref.org.il/en) for the latest guidance (available in Israel only) and follow instructions from the Israeli government. Restrictions may be put in place at short notice. Should you be in the Occupied Palestinian Territories and not have access to Home Front Command continue to follow local instructions including from Palestinian Civil Defence (Call 102, or see [www.pcd.ps](https://pcd.ps/) or [الدفاع المدني الفلسطيني Facebook](https://www.facebook.com/pcd.ps102?mibextid=LQQJ4d)). The interception of missiles over Israel and the OPTs may result in falling fragments or debris. If you encounter any projectile debris or fragments you should move away from them immediately and contact local authorities.
+
+International land border crossings to Jordan and Egypt are open, but could close without notice and timings are subject to change. Before you travel check the travel advice for any neighbouring country that you are planning to travel to or through.
+
+Jordan-Israel border crossings (timings subject to change):
+
+* Allenby/King Hussein Bridge: 800am – 2:30pm.
+* The Northern (Jordan River/Sheikh Hussein) crossing: 8:30am-2:30pm.
+* The Southern (Yitzhak Rabin/Wadi Araba) crossing: 8:00am-8:00pm.
+
+Egypt-Israel border crossing (timings subject to change):
+
+* Taba: Open 24 hours.
 
 ## Conflict with Lebanese Hizballah
 
@@ -54,13 +81,9 @@ If you are in Israel and the OPTs, keep up to date through local media and follo
 * visit the [Israeli Home Front Command website](http://www.oref.org.il/en) (available in Israel only)
 * call 104 if you are in Israel
 
-International borders (air and land) in Israel and the OPTs could close at short notice. Check with border officials before you travel for the latest information. Check the travel advice for any neighbouring country that you are planning to travel to or through.
-
 Before travelling within Israel or the OPTs, check the local measures in place, that roads are open and, where appropriate, that scheduled train and bus services are operating.
 
-Monitor this travel advice and other media as the situation is changing fast. Follow and contact FCDO travel on [X](https://twitter.com/fcdotravelgovuk), [Facebook](https://www.facebook.com/fcdotravel) and [Instagram](https://www.instagram.com/travelaware/). You can also [get email notifications](https://www.gov.uk/foreign-travel-advice/israel/email-signup) when this travel advice is updated.
-
-Read FCDO advice [if you’re affected by a crisis abroad](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas).
+Monitor this travel advice and other media as the situation is changing fast.
 
 Travel within or out of Israel or the OPTs is at your own risk. You are encouraged to follow the advice of local authorities, for example on which routes are open or when to take shelter.
 

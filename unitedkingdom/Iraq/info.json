@@ -1,11 +1,11 @@
 {
     "name": "Iraq",
-    "update_reason": "Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region ('Safety and security' page).",
+    "update_reason": "Update on regional risks and airspace restrictions ('Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Iraq/Warnings and insurance.md",
-            "update_date": "2025-06-13T12:37:43+01:00"
+            "update_date": "2025-06-16T16:35:33+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Iraq/Getting help.md"
         }
     ],
-    "update_date": "2025-06-13T12:37:43+01:00"
+    "update_date": "2025-06-16T16:35:33+01:00"
 }

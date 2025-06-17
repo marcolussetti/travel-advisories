@@ -1,25 +1,21 @@
 # Warnings and insurance
 
 Still current at:
-:   5 June 2025
+:   17 June 2025
 
 Updated:
-:   4 June 2025
+:   16 June 2025
 
 Latest update:
-:   Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through airports (‘Safety and security’ page).
+:   Updated information about Jubilee 2025 - Holy Year and addition of information that the Italian authorities recommend that dual nationals with Italian citizenship enter and leave Italy on an Italian passport ('Warning and insurance' and 'Entry requirements' pages).
 
 This travel advice also covers Vatican City.
-
-## Death of Pope Francis
-
-Following the death of Pope Francis on 21 April, large crowds are expected in Rome and the Vatican City over the coming days. Please follow the advice of local authorities.
 
 ## Jubilee 2025 - Holy Year
 
 The Jubilee, known as the Holy Year, will take place in Rome from 24 December 2024 to 6 January 2026.
 
-The city is expected to be very busy, particularly when the bigger events take place including the Opening of the Holy Door of Saint Peter’s Basilica on 24 December 2024.
+The city is expected to be very busy, particularly when the bigger events take place, including the Jubilee of Youth 28 July to 3 August 2025.
 
 If you are planning to travel to Rome during this time, see our Jubilee 2025 - Holy Year information in [Safety and security](https://www.gov.uk/foreign-travel-advice/italy/safety-and-security#Jubilee-2025-Holy-Year).
 

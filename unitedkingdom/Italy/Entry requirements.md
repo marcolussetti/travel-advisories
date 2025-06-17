@@ -61,6 +61,10 @@ The EU’s Entry/Exit System (EES) is expected to start in October 2025. It is n
 
 Read more [information on the EU Entry/Exit System](https://www.gov.uk/guidance/eu-entryexit-system).
 
+## Dual citizenship
+
+The Italian authorities recommend that dual nationals with Italian citizenship enter and leave Italy on an Italian passport.
+
 ## Italy-Slovenia land border
 
 There are temporary border checks at Italy’s border with Slovenia. Allow extra time for crossing the land border. Be ready to show your passport or residency card if you are asked by the border police.

@@ -1,11 +1,11 @@
 {
     "name": "Italy",
-    "update_reason": "Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through airports (\u2018Safety and security\u2019 page).",
+    "update_reason": "Updated information about Jubilee 2025 - Holy Year and addition of information that the Italian authorities recommend that dual nationals with Italian citizenship enter and leave Italy on an Italian passport ('Warning and insurance' and 'Entry requirements' pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Italy/Warnings and insurance.md",
-            "update_date": "2025-06-04T17:05:14+01:00"
+            "update_date": "2025-06-16T12:32:04+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Italy/Getting help.md"
         }
     ],
-    "update_date": "2025-06-04T17:05:14+01:00"
+    "update_date": "2025-06-16T12:32:04+01:00"
 }

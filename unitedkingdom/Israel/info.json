@@ -1,11 +1,11 @@
 {
     "name": "Israel",
-    "update_reason": "FCDO now advises against all travel to Israel and the Occupied Palestinian Territories (\"Warnings and Insurance\" page)",
+    "update_reason": "New information about the departure of family members of staff at British Embassy Tel Aviv and British Consulate Jerusalem and updates about Jordan and Egypt\u2019s land border crossings (See \u2018Warning and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Israel/Warnings and insurance.md",
-            "update_date": "2025-06-15T11:52:28+01:00"
+            "update_date": "2025-06-16T22:18:15+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Israel/Getting help.md"
         }
     ],
-    "update_date": "2025-06-15T11:52:28+01:00"
+    "update_date": "2025-06-16T22:18:15+01:00"
 }

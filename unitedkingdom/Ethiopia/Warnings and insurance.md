@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   13 May 2025
+:   17 June 2025
 
 Updated:
-:   12 May 2025
+:   16 June 2025
 
 Latest update:
-:   Foreign nationals are currently unable to travel to airports in Tigray and Afar regional states due to restrictions by the Ethiopian authorities. Check with your operator before travel. The Ethiopian authorities may implement travel restrictions anywhere in the country at short notice. ('Regional risks' page)
+:   Updated information on what health risks you'll face in Ethiopia, including Mpox ('Health' page).
 
 ![](https://assets.publishing.service.gov.uk/media/67d4bf03b1e34f07631b5c1b/FCDO__TA__017_-_Ethiopia_Travel_Advice_Ed36__WEB_.jpg)
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   15 June 2025
+:   17 June 2025
 
 Updated:
-:   14 June 2025
+:   16 June 2025
 
 Latest update:
-:   Update on regional risks and airspace closure ('Warnings and insurance' page).
+:   Updated information about Jordan’s land border crossings (see “Warnings and Insurance”)
 
 ![](https://assets.publishing.service.gov.uk/media/65bbcf944965c50010e8a3f1/FCDO__TA__087_-_Jordan_Travel_Advice_Ed2__WEB_.jpg)
 
@@ -22,22 +22,31 @@ Your travel insurance could be invalidated if you travel against advice from the
 
 FCDO advises against all travel to within 3km of the border with Syria.
 
-## Regional risks and airspace closure
+## Regional risks
 
-Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region. There are reports of military debris falling in various locations. Travel disruption, including flight cancellations and airspace closures may occur. Demonstrations and protest activity may take place. Land border crossings may close with no notice.
+Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region. There are reports of military debris falling in various locations.
+
+Travel disruption, including flight cancellations and airspace closures may occur. Demonstrations and protest activity may take place.
 
 You should:
 
 * monitor local and international media for the latest information
 * be vigilant and follow the instructions of local authorities
 * take shelter and stay away from windows if you hear air sirens. In the event of injuries or damage, call 911 immediately
+* See [safety and security page](https://www.gov.uk/foreign-travel-advice/jordan/safety-and-security).
 
-As of 07:30 local time 14 June, Jordanian airspace has reopened but airports and airspace may close at short notice. Queen Alia International Airport is also closed. Before you travel:
+Jordanian airspace is open but airports and airspace may close at short notice. Before you travel:
 
 * if you are in Jordan, contact your airline and follow the advice of the local authorities
-* if you are not yet in country, check with your airline and travel insurer
+* if you are not yet in country, check with your airline
 
-See [safety and security page](https://www.gov.uk/foreign-travel-advice/jordan/safety-and-security).
+Land border crossings from Israel and the Occupied Palestinian Territories are open. Timings may change at no notice.
+
+* King Hussein/Allenby Bridge: 0800 – 1430
+* The Northern (Sheikh Hussein/Bet Shean) crossing: 0830 – 1430
+* The Southern (Wadi Araba) crossing: 0800 – 2000
+
+See [Entry requirements page](https://www.gov.uk/foreign-travel-advice/jordan/entry-requirements)
 
 Read FCDO advice [if you’re affected by a crisis abroad](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas).
 

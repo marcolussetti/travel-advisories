@@ -60,13 +60,12 @@ Be aware that if your passport is stolen, you cannot use a police report to leav
 
 ### Public transport
 
-Take care on public transport, in crowded areas and in city centres, including main stations – particularly in and around Termini station in Rome.
+Take care on public transport, in crowded areas and in city centres, including main stations – particularly in and around Termini station in Rome as well as the metro.
 
 Be particularly careful with your belongings:
 
 * on trains to and from airports
 * at cruise ship ports
-* on the ‘Circumvesuviana’ train between Naples and Sorrento
 * when unloading your baggage from trains and coaches
 
 ### Theft from cars
@@ -218,9 +217,9 @@ Many parts of Italy lie on a major seismic fault line, which means that minor tr
 
 Due to volcanic activity, local authorities have increased the alert levels for both Etna and Stromboli in the south of Italy. In the event of a volcanic eruption, follow the advice of local authorities.
 
-Airspace can be affected during eruptions. If you are travelling to or from Catania, during this period of heightened activity, check with your travel provider or with [Catania airport](https://www.aeroporto.catania.it/).
+Airspace can be affected during eruptions. If you are travelling to or from Catania, during a period of heightened activity, check with your travel provider or with [Catania airport](https://www.aeroporto.catania.it/).
 
-There are [several active volcanoes in southern Italy](https://rischi.protezionecivile.gov.it/en/volcanic/volcanoes-italy/). National emergency planning has been updated for [Vesuvius](https://www.protezionecivile.gov.it/en/approfondimento/update-national-emergency-plan-vesuvius/) as well as [the Phlegraean fields](https://rischi.protezionecivile.gov.it/en/volcanic/volcanoes-italy/phlegraen-fields/bradyseism-phlegraean-fields/), an area that remains active and which has experienced tremors in 2024.
+There are [several active volcanoes in southern Italy](https://rischi.protezionecivile.gov.it/en/volcanic/volcanoes-italy/). National emergency planning has been updated for [Vesuvius](https://www.protezionecivile.gov.it/en/approfondimento/update-national-emergency-plan-vesuvius/) as well as [the Phlegraean fields](https://rischi.protezionecivile.gov.it/en/volcanic/volcanoes-italy/phlegraen-fields/bradyseism-phlegraean-fields/), an area that remains active experiencing regular tremors.
 
 Read [what to do in the event of a volcanic eruption](https://rischi.protezionecivile.gov.it/en/volcanic/are-you-prepared/) and follow the instructions of the local authorities.
 

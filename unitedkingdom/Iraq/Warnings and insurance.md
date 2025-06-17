@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   14 June 2025
+:   17 June 2025
 
 Updated:
-:   13 June 2025
+:   16 June 2025
 
 Latest update:
-:   Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region ('Safety and security' page).
+:   Update on regional risks and airspace restrictions ('Safety and security’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/67d2f0ae886e7770c211e09e/FCDO__TA__048_-_Iraq_Travel_Advice_Ed6__WEB_.jpg)
 
