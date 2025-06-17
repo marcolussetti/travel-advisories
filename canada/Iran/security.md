@@ -2,16 +2,39 @@
 
 ## Safety and security
 
-### Information for Canadians in the Middle East
+### Ongoing hostilities with Israel
 
-Heightened tensions in the region could pose security risks.
+There are ongoing hostilities between Israel and Iran. Drones, missiles and other projectiles have struck targets in Iran.
 
-This may result in travel disruptions, including flight cancellations and airspace closures.
+Further attacks are likely to occur. Interceptions could produce falling military debris in various locations.
+
+If you have a valid Canadian passport, wish to leave Iran and can do so safely, note that there are border crossing options:
+
+* To Türkiye:
+  + Qator/Kapıköy
+  + Bazargan/Gürbulak
+  + Sero/Esendere
+
+* To Armenia:
+  + Nordoz/Agarak
+
+If you have dual Canadian-Iranian citizenship, Iranian border officials may require you to exit Iran on your Iranian passport.
+
+Missile and drone exchanges between Israel and Iran may result in disruptions to movement and transportation, including:
+
+* border closures or restrictions
+* flight cancellations
+* airspace closures
 
 You should:
 
 * monitor local and international media to stay informed of the rapidly evolving situation
-* be vigilant and prepared to shelter in place
+* identify the location of the closest bomb shelter, if available
+* shelter in a hardened structure away from windows when air raid warning sirens are active if there are no bomb shelters available
+* follow the instructions of local authorities, including air-raid sirens and evacuation or shelter in place orders
+* move away immediately and contact local authorities if you encounter unexploded ordnance, military debris or fragments
+
+[Canada's response to the situation in the Middle East](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=eng)
 
 In the context of recent developments between Canada and Iran, Iranian authorities could take retaliatory measures that could pose a risk to the safety and security of Canadians, including Canadian-Iranians.
 

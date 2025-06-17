@@ -4,7 +4,7 @@
 
 ### Lebanon - AVOID NON-ESSENTIAL TRAVEL
 
-[Avoid non-essential travel](#levels "Risk Levels") to Lebanon due to the unpredictable security situation, the continued risk of terrorist attacks and the conflict with Israel.
+[Avoid non-essential travel](#levels "Risk Levels") to Lebanon due to ongoing hostilities in the region, the unpredictable security situation, the continued risk of terrorist attacks and the conflict with Israel.
 
 The security situation could deteriorate further without warning. For emergency consular assistance, contact the [Emergency Watch and Response Centre](http://travel.gc.ca/assistance/emergency-assistance) in Ottawa.
 

@@ -4,7 +4,7 @@
 
 ### JORDAN - AVOID NON-ESSENTIAL TRAVEL
 
-[Avoid non-essential travel](#levels "Risk Levels") to Jordan due to the risk of falling military debris from intercepted projectiles, airspace closure, and renewed regional tensions.
+[Avoid non-essential travel](#levels "Risk Levels") to Jordan due to ongoing conflict in the region, the risk of falling military debris from intercepted projectiles, and airspace closures..
 
 ### Border with Syria - Avoid all travel
 

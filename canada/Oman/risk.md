@@ -4,7 +4,7 @@
 
 ### Oman - Exercise a high degree of caution
 
-[Exercise a high degree of caution](#levels "Risk Levels") in Oman due to the potential for violent demonstrations and the threat of terrorism.
+[Exercise a high degree of caution](#levels "Risk Levels") in Oman due to ongoing hostilities in the region, the potential for violent demonstrations and the threat of terrorism.
 
 ### Border with Yemen - AVOID NON-ESSENTIAL TRAVEL
 

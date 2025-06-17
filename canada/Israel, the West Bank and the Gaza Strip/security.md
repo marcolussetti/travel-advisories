@@ -4,45 +4,46 @@
 
 ### Ongoing hostilities with Iran
 
-There are heightened security risks in Israel, the West Bank and Jerusalem following exchanges of strikes with Iran on June 13, 2025. Further strikes by both sides is likely.
+There are ongoing hostilities between Israel and Iran.
 
-Drones, missiles and other types of projectiles could get past air defense systems and reach their targets. Interceptions could produce military debris falling in various locations.
+Drones, missiles and other projectiles have struck targets in Israel. Further attacks are likely to occur. Interceptions can produce falling military debris in Israel, Jerusalem and the West Bank.
 
 A nationwide state of emergency is currently in effect in Israel.
 
-All flights to and from Ben Gurion International Airport are cancelled until further notice and the airport itself is closed.
+Ben Gurion International Airport is closed. All flights to and from Israel are cancelled until further notice.
+
+If you have a valid Canadian passport, wish to leave Israel and can do so safely, note that there are border crossing options:
+
+* To Jordan:
+  + Jordan River/Sheikh Hussein Bridge, in the north of Israel
+  + Allenby/King Hussein Bridge, near Jericho in the West Bank
+  + Yitzak/Aqaba, near Eilat in the south of Israel
+
+You will need to obtain a visa online or from a Jordanian diplomatic mission prior to travelling if you’re planning on entering Jordan at the King Hussein Bridge (Allenby) border crossing.
+
+* To Egypt:
+  + Menahem Begin/Taba, from southern Israel into the Sinai Peninsula
+
+The security situation may result in disruptions to movement and transportation, including border closures or restrictions, especially in the West Bank. These restrictions could make it difficult to reach the Allenby border crossing.
+
+Check the status of the border crossings before heading there, and be aware that your personal situation could increase the risks to your safety and security in the country you’re crossing into. It could also affect your ability to enter. Israeli authorities recommend that their nationals avoid returning to Israel overland via Jordan and the Sinai Peninsula in Egypt due to high security threats.
 
 You should:
 
 * monitor local and international media to stay informed of the rapidly evolving situation
-* be vigilant and follow the instructions of local authorities at all times, including any orders to shelter in place.
+* identify the location of the closest bomb shelter, if available
+* shelter in a hardened structure, away from windows, when air raid warning sirens are active, if there are no bomb shelters nearby
+* follow the instructions of local authorities, including air-raid sirens and evacuation or shelter in place orders
 * move away immediately and contact local authorities if you encounter unexploded ordnance, military debris or fragments
 * register or update your personal information with the Registration of Canadians Abroad service to receive the latest updates.
+* ensure that your travel documents and those of your family are up to date
 
 #### Useful links
 
-* [Home Front Command (only available in Israel)](https://www.oref.org.il/en)
+* [Home Front Command](https://www.oref.org.il/en) (only available in Israel)
 * [Registration of Canadians Abroad service](https://travel.gc.ca/travelling/registration)
-
-### Regional tensions
-
-On November 27, 2024, a ceasefire took effect between Israel and Lebanon. The security situation in northern Israel, and along the Blue Line, remains volatile and unpredictable. Hostilities could resume at any time.
-
-Previous attacks reached populated areas and resulted in several casualties, including civilians.
-
-Drone, rocket and missile attacks may occur between Israel and armed groups in neighbouring countries.
-
-Terrorist groups and lone actors continue to carry out attacks in Israel.
-
-Terrorists may attack with little or no warning, targeting tourist locations and public areas.
-
-If you are in Israel despite the advisory in effect:
-
-* monitor local and international media to stay informed of the rapidly evolving situation
-* identify the location of the closest bomb shelter, if available
-* if there are no bomb shelters nearby, shelter in a hardened structure away from windows when air raid warning sirens are active
-* follow the instructions of local authorities, including air-raid sirens and evacuation orders
-* download an alert application to receive detailed information and instructions (e.g. Home Front Command)
+* [Canada's response to the situation in the Middle East](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=eng)
+* [Message to Israelis abroad](https://www.gov.il/en/pages/travelwarningsjune1) – National Security Council of Israel
 
 ### Hostilities in Israel and the Gaza Strip
 

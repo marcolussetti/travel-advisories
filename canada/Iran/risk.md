@@ -4,6 +4,8 @@
 
 ### Iran - AVOID ALL TRAVEL
 
-[Avoid all travel](#levels "Risk Levels") to Iran due to the volatile security situation, the regional threat of terrorism the high risk of arbitrary detention and unpredictable enforcement of local laws. The Iranian authorities have arrested and/or detained individuals, including foreign and dual nationals, to exert political or diplomatic influence on their governments.
+[Avoid all travel](#levels "Risk Levels") to Iran due to the ongoing hostilities with Israel, the high risk of arbitrary detention and the unpredictable enforcement of local laws. The Iranian authorities have arrested and/or detained individuals, including foreign and dual nationals, to exert political or diplomatic influence on their governments.
 
-You should leave by commercial means if you can do so safely. Our ability to provide consular services in Iran is extremely limited.
+You should leave Iran if you can do so safely. Iranian airspace is closed until further notice, but there are overland crossing options.
+
+Our ability to provide consular services in Iran is extremely limited.

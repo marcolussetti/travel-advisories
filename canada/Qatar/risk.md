@@ -2,6 +2,6 @@
 
 ## Risk level
 
-### Qatar - Take normal security precautions
+### Qatar - Exercise a high degree of caution
 
-[Take normal security precautions](#levels "Risk Levels") in Qatar.
+[Exercise a high degree of caution](#levels "Risk Levels") in Qatar due to ongoing hostilities in the region.

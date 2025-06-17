@@ -2,25 +2,24 @@
 
 ## Safety and security
 
-### Information for Canadians in the Middle East
+### Ongoing hostilities in the Middle East
 
-Heightened tensions in the region could pose security risks in neighbouring countries.
+Ongoing hostilities pose serious security risks across the region. There are reports of military debris falling in various locations.
 
-This may result in:
+This may result in disruptions to movement and transportation, including:
 
-* travel disruptions, including flight cancellations and airspace closures
-* military debris falling in various locations
+* border closures or restrictions
+* flight cancellations
+* airspace closures
 
 You should:
 
 * monitor local and international media to stay informed of the rapidly evolving situation
-* follow the instructions of local authorities at all times
-* be vigilant and prepared to shelter in place
+* be vigilant and follow the instructions of local authorities at all times, including any orders to shelter in place
+* sign up with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service to receive important information about the crisis
+* ensure that your travel documents and those of your family are up to date
 
-If you encounter any debris, fragments or unexploded ordnance:
-
-* move away from them immediately
-* contact local authorities
+[Canada's response to the situation in the Middle East](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=eng)
 
 ### Hostilities with Israel
 

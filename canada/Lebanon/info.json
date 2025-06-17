@@ -1,7 +1,7 @@
 {
     "name": "Lebanon",
-    "update_reason": "Risk level \u2013 avoid non-essential travel to Lebanon (with regional advisories)",
-    "update_date": "2025-06-04T15:51:00",
+    "update_reason": "editorial change",
+    "update_date": "2025-06-16T09:20:00",
     "sections": {
         "risk": "canada/Lebanon/risk.md",
         "security": "canada/Lebanon/security.md",

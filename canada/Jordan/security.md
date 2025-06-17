@@ -2,16 +2,24 @@
 
 ## Safety and security
 
-### Renewed tensions in the Middle East
+### Ongoing hostilities in the Middle East
 
-Renewed tensions pose serious security risks across the region. There are reports of military debris falling in various locations.
+Ongoing hostilities pose serious security risks across the region. There are reports of military debris falling in various locations.
 
-This may result in travel disruptions, including flight cancellations and airspace closures.
+This may result in disruptions to movement and transportation, including:
+
+* border closures or restrictions
+* flight cancellations
+* airspace closures
 
 You should:
 
 * monitor local and international media to stay informed of the rapidly evolving situation
-* be vigilant and follow the instructions of local authorities at all times, including any orders to shelter in place.
+* be vigilant and follow the instructions of local authorities at all times, including any orders to shelter in place
+* sign up with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service to receive important information about the crisis
+* ensure that your travel documents and those of your family are up to date
+
+[Canada's response to the situation in the Middle East](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=eng)
 
 ### Situation in Israel, the West Bank and the Gaza Strip
 
