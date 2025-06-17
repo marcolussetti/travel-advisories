@@ -10,9 +10,9 @@
 
 **Due to the emergency situation,** **the Department of Foreign Affairs and Trade advises against all travel to Israel and Palestine. Irish citizens currently in Israel or Palestine who have not already done so,** **are asked to register** **on the Department’s Citizens Registration platform** [**here**](https://citizensregistration.dfa.ie/)**.**
 
-The Israeli government has declared a state of emergency. Israeli airspace has been closed until further notice. Significant airport disruptions are anticipated. Please contact your airline for relevant updates prior to travel. Travellers can check on the status of flights [**here**](https://www.iaa.gov.il/en/). For the latest guidance on land crossings to Jordan, please contact the Embassy.
+The Israeli government has declared a state of emergency. Israeli airspace has been closed until further notice. Significant airport disruptions are anticipated. Please contact your airline for relevant updates prior to travel. Travellers can check on the status of flights [**here**](https://www.iaa.gov.il/en/). For the latest guidance on land crossings to Jordan and Egypt, please contact the Embassy.
 
-The security situation across both Israel and Palestine remains tense and unpredictable, with the potential for intense escalation. Please continue to exercise extreme caution, monitor local media and international regularly, follow the advice of local authorities, and observe the additional security measures imposed during this time.
+The security situation across both Israel and Palestine remains tense and unpredictable, with the potential for intense escalation. Please continue to exercise extreme caution, monitor local and international media regularly, follow the advice of local authorities, and observe the additional security measures imposed during this time.
 
 There is an imminent risk of rocket fire, drone infiltration and ballistic missiles, which can occur without warning, and can disrupt civilian infrastructure, including transportation and communications. We strongly advise that citizens familiarise themselves with their closest protected location. Many buildings are fitted with “safe rooms”; reinforced spaces designed to withstand missile attacks.
 

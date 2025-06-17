@@ -536,7 +536,7 @@
     {
         "destination": "Iran",
         "risk_level": "Do Not Travel",
-        "last_updated": "2025-02-11T00:00:00",
+        "last_updated": "2025-06-16T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/iran/"
     },
     {
@@ -548,7 +548,7 @@
     {
         "destination": "Israel and the Occupied Territories",
         "risk_level": "Do Not Travel",
-        "last_updated": "2025-06-13T00:00:00",
+        "last_updated": "2025-06-16T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/israel-and-the-occupied-territories/"
     },
     {
@@ -1196,7 +1196,7 @@
     {
         "destination": "United Arab Emirates",
         "risk_level": "High Degree of Caution",
-        "last_updated": "2025-06-11T00:00:00",
+        "last_updated": "2025-06-16T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/united-arab-emirates/"
     },
     {

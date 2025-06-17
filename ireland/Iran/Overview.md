@@ -6,17 +6,25 @@ Do Not Travel
 
 ### **Travel Alert**
 
-**The Department of Foreign Affairs continues to advise against all travel to Iran for Irish citizens. We advise Irish citizens who remain in Iran to leave while commercial options remain available.** The security situation could deteriorate further with little warning. Air travel may be suspended indefinitely at short notice. The Department of Foreign Affairs will be very limited in its ability to assist Irish citizens to leave Iran; citizens should not rely on evacuation options being possible if commercial options become unavailable. Irish citizens should ensure their personal documents, including passports, are up-to-date.
+**The Department of Foreign Affairs continues to advise against all travel to Iran for Irish citizens.**
 
-Irish citizens who choose to remain in Iran should register with the Department via the [**Citizens Registration**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/) facility if they have not already done so.
+Due to the ongoing military strikes in Iran, if you are currently in Iran, you are advised to be vigilant, follow the advice of local authorities, including any orders to shelter in place.
+
+Iranian airspace is currently closed, with no flights departing the country. The security situation could deteriorate further with little warning. If you have the means to leave the country safely by road you could consider doing so, however there may be security challenges associated with doing so, and borders could close at short notice.
+
+The Department of Foreign Affairs and Trade is very limited in its ability to assist Irish citizens to leave Iran.
+
+Irish citizens in Iran should register with the Department via the [**Citizens Registration**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/) facility if they have not already done so.
+
+**Irish citizens who are in need of Consular Assistance can contact the Embassy of Ireland in Iran via SMS or Whatsapp message on +98 910 810 5733 or by calling the Department of Foreign Affairs and Trade in Dublin on +353 1 408 8000.**
+
+**Irish citizens should ensure their personal documents, including passports, are up-to-date.**
 
 ### **General Travel Advice**
 
-**The Department of Foreign Affairs strongly advises against all travel to Iran at this time** due to the risk of arbitrary arrest and detentions of European citizens by the Iranian authorities.
+**The Department of Foreign Affairs continues to strongly advise against all travel to Iran at this time due to the ongoing conflict, as well as** the risk of arbitrary arrest and detention of European citizens by the Iranian authorities.
 
-Irish citizens in Iran should note that protests, sometimes violent, are currently occurring in a number of locations across the country. Irish citizens are strongly advised to avoid these protests. Please note that Internet access is frequently restricted or shut down completely by the authorities, which impedes communication.
-
-There are ongoing regional tensions. There's an increased risk of military conflict involving air and missile strikes against targets in Iran. This could escalate rapidly and without notice and could result in prolonged disruption or cancellation of flights in and out of the country.
+Irish citizens are strongly advised to avoid any protests or large gatherings.
 
 There are ongoing security issues within Iran. The security situation is particularly dangerous in the provinces bordering Pakistan, Afghanistan and Iraq. Security incidents can occur in any part of the country.
 
