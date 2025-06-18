@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   10 June 2025
+:   18 June 2025
 
 Updated:
-:   9 June 2025
+:   17 June 2025
 
 Latest update:
-:   Updated information on visa requirements ('Entry requirements' page).
+:   New information on applying for a visa ('Entry requirements’ page).
 
 ## Before you travel
 

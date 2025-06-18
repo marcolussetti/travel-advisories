@@ -12,43 +12,40 @@ Terrorist attacks in Trinidad and Tobago cannot be ruled out.
 
 Attacks could be indiscriminate including in places visited by foreign nationals. Stay aware of your surroundings, keep up to date with local media reports and follow the advice of local authorities.
 
-## Crime
+## Violent crime and assault
 
-### Carnival and other large-scale events
+In Trinidad and Tobago, there is a high level of violent crime, including gang-related attacks and shootings. Instances of homicides and armed robberies are rising.
 
-Robberies and opportunistic crime may occur during the carnival period.  If you are attending a large-scale event, such as the Carnival celebrations in Trinidad, you should take sensible precautions and always be aware of your surroundings. Avoid displaying jewellery or valuable items that may attract attention of criminals. Do not leave your drinks unattended, practice caution at crowded events and have a clear plan to return home safely after attending any events.
+Be cautious particularly when travelling in or around:
 
-### Violent crime and assault: Trinidad & Tobago
-
-In Trinidad, there’s a high level of violent crime. Gang-related attacks and shootings are increasing around the city centre of Port of Spain, including Laventille, Morvant and Barataria. In Tobago, violent crime is rare. Instances of homicides and armed robberies are rising.
-
-You can reduce the risk of being targeted when on foot by:
-
-* avoiding unlit areas at night
-* using well-populated roads and paths
-
-Stay aware of your surroundings and carry a mobile phone with roaming for use in an emergency.
-
-Violent criminals often carry out attacks in vehicles, ranging from the threat of violence to sexual assault and robbery, kidnapping for ransom, rape and murder. You can take precautions against being targeted by:
-
-* using well-established taxi firms, recommended by locals or your hotel
-* being cautious about accepting lifts in a private car or ‘maxi taxi’
-* taking local advice to avoid areas affected by gang violence
-* keeping the windows closed and doors locked while driving
+* downtown Port of Spain (east of Charlotte street, south and west of Picadilly street, and north of Independence Square)
+* Carenage, Sea Lots, Belmont, Laventille, Morvant and Beetham
+* Barataria and Cocorite
+* the interior of Queens Park Savannah
 
 ### Protecting yourself and your belongings
 
-If you’re staying in a villa, especially in an isolated area, it should have adequate security, including external security lighting, grills and overnight security guards.
+Criminals may carry out attacks, ranging from the threat of violence to sexual assault and robbery, kidnapping for ransom, rape and murder. A significant portion of violent crime in Trinidad and Tobago is gang-related. You can take precautions against being targeted:
 
-Withdrawing cash from an ATM or changing money can make you a target for pickpockets or muggers. Consider asking hotel or villa staff to take you by car.
+* always be alert to your surroundings - do not wear headphones when out and about
+* avoid walking or hiking alone, deserted beaches or isolated areas
+* avoid walking at night
+* avoid poorly lit or quiet areas of streets or parks
+* consider removing expensive jewellery
+* keep money, valuables and passports somewhere safe
+* park in well-lit areas
+* never leave anything in an unattended vehicle
+* do not leave bags, purses, handbags, laptops and phones exposed on the seat of a moving vehicle - there have been incidents of items being snatched through car windows
+* be careful when withdrawing cash from ATMs or changing money - use well-lit ATMs, withdraw small amounts only and preferably during daylight hours
+* keep an eye on your card when making purchases to avoid card skimming
+* if you’re staying in a villa, especially in an isolated area, make sure it has adequate security, including external security lighting, grills and overnight security guards
+* be cautious about what you post online - social media platforms are increasingly being monitored by criminals
+* if you’re attacked or robbed, don’t resist - criminals are often armed, and you can be seriously injured or killed
+* if you’re the victim of a violent crime, especially rape, get urgent medical help
 
-Keep money, valuables and passports somewhere safe, and never leave anything in an unattended vehicle.
+### Carnival and other large-scale events
 
-Take care when using dating apps in Trinidad and Tobago, especially those used by the LGBT+ community. Criminals have used apps like Grindr to trick, rob, and assault people.
-
-Social media platforms are increasingly being used to facilitate criminal activity, be cautious about what you post about yourself online.
-
-Keep an eye on your card when making purchases to avoid card skimming. Similarly, when making online purchases check the shop or seller is legitimate and consider using credit cards for payment. Many of these protect online purchases as part of the [UK Consumer Credit Act](https://www.moneyhelper.org.uk/en/everyday-money/credit/how-youre-protected-when-you-pay-by-card?).
+Robberies and opportunistic crime may occur during the carnival period.  If you are attending a large-scale event, such as the Carnival celebrations in Trinidad, you should take sensible precautions and always be aware of your surroundings. Avoid displaying jewellery or valuable items that may attract attention of criminals. Practice caution at crowded events and have a clear plan to return home safely after attending any events.
 
 ### Drink spiking
 
@@ -64,17 +61,26 @@ It is an offence for anyone, including children, to dress in camouflage clothing
 
 Trinidad and Tobago has decriminalised the possession of up to 30g of cannabis or up to 5g of cannabis resin. However, you’re not allowed to smoke cannabis in public spaces or while operating a vehicle.
 
-If you are stopped with more than these amounts, you could get a fine of 50,000 Trinidad and Tobago dollars. More severe penalties remain in place for other drug-related offences.
+If you are stopped with these amounts, you can be fined up to  50,000 Trinidad and Tobago dollars. For larger quantities there are more hefty fines and possible imprisonment. There are also severe penalties for other drug-related offences.
 
 ### LGBT+ travellers
 
-In March 2025, consensual same-sex activity between men became a crime punishable by up to five years imprisonment. It is also illegal for LGBT+ foreign nationals to enter the country, although in practice this has not been enforced. It is possible LGBT+ visitors could receive negative attention if they show affection in public.
+In March 2025, consensual same-sex activity was reinstated as a crime punishable by up to 5 imprisonment. It is also illegal for LGBT+ foreign nationals to enter the country. However, neither of these laws has been enforced in recent times. It is possible LGBT+ visitors could receive negative attention if they show affection in public.
+
+Take care when using dating apps especially those used by the LGBT+ community. Criminals have used apps like Grindr to trick, rob and assault people.
 
 Read more [advice for LGBT+ travellers](https://www.gov.uk/lesbian-gay-bisexual-and-transgender-foreign-travel-advice).
 
 ## Transport risks
 
 ### Road travel
+
+Criminals may carry out attacks in vehicles. You can take precautions against being targeted by:
+
+* using well-established taxi firms, recommended by locals or your hotel
+* being cautious about accepting lifts in a private car or ‘maxi taxi’
+* taking local advice to avoid areas affected by gang violence
+* keeping the windows closed and doors locked while driving
 
 If you are planning to drive in Trinidad and Tobago, see [information on driving abroad](https://www.gov.uk/driving-abroad).
 
@@ -86,11 +92,9 @@ Check the [licence requirements if you’re living in Trinidad and Tobago](http
 
 Driving standards in Trinidad and Tobago are mixed. High-speed road accidents on the main highways in Trinidad often result in fatalities. There have been accidents caused by drink-driving, including on the Beetham-Churchill Roosevelt Highway to and from the airport.
 
-Some roads are narrow and winding, and road surfaces are of a low standard. Pedestrians often walk on the roads, and drivers do not always indicate. Take care when driving and observe speed limits.
+Some roads are narrow and winding, and road surfaces are of a mixed standard. Pedestrians often walk on the roads, and drivers do not always indicate. Take care when driving and observe speed limits.
 
 Take extra care when driving at night as some roads are unlit. Road signs and hazards may not be easily visible.
-
-Keep vehicle doors locked, and windows closed whilst driving. There have been incidents of items being grabbed through car windows. Do not leave bags, purses, handbags exposed on the seat of the vehicle. Keep them out of sight.
 
 ## Extreme weather and natural disasters
 

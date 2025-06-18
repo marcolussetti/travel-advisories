@@ -22,7 +22,7 @@ If you overstay your visa, you will not be allowed to leave Tajikistan until you
 
 [Apply online for an e-visa](https://www.evisa.tj/index.evisa.html) from the Tajikistan Ministry of Foreign Affairs before travelling. You should allow at least two weeks for processing.
 
-You may be asked to provide proof of hotel bookings and any arrangements booked through a tour operator to be issued with a tourist visa or evisa.
+You may be asked to provide proof of hotel bookings and any arrangements booked through a tour operator to be issued with a tourist visa or evisa. This is usually requested in the form of a letter of invitation (LoI).
 
 Make sure you get the correct type of visa.  Once you’re in Tajikistan, you can apply for a visa extension at the [Ministry of Foreign Affairs](https://www.consular.tj/default_en.aspx).
 

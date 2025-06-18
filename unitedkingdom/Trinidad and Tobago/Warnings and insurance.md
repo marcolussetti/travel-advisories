@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   22 May 2025
+:   18 June 2025
 
 Updated:
-:   21 May 2025
+:   17 June 2025
 
 Latest update:
-:   Removal of information about the nationwide state of emergency in Trinidad and Tobago ('Safety and security' page).
+:   Updated information about crime, protecting your belongings, LGBT+ travellers and transport risks ('Safety and security' page).
 
 ## Before you travel
 

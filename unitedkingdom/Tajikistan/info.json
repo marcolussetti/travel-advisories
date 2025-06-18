@@ -1,11 +1,11 @@
 {
     "name": "Tajikistan",
-    "update_reason": "Updated information on visa requirements ('Entry requirements' page).",
+    "update_reason": "New information on applying for a visa ('Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Tajikistan/Warnings and insurance.md",
-            "update_date": "2025-06-09T15:43:46+01:00"
+            "update_date": "2025-06-17T10:16:24+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Tajikistan/Getting help.md"
         }
     ],
-    "update_date": "2025-06-09T15:43:46+01:00"
+    "update_date": "2025-06-17T10:16:24+01:00"
 }

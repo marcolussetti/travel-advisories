@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   15 June 2025
+:   18 June 2025
 
 Updated:
-:   14 June 2025
+:   17 June 2025
 
 Latest update:
-:   Update on political situation in Iran ('Warnings and insurance' page)
+:   Information added on the current situation affecting Iran (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/627e359b8fa8f53f99901991/FCDO__TA__021_-_Iran_Travel_Advice_Ed5__WEB_.jpg)
 
@@ -24,11 +24,25 @@ Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign
 
 ## Political situation in Iran
 
-Israel continues to operate militarily against Iran. Reports suggest that military and nuclear installations across the country have been hit, and senior military and political leaders killed in the strikes. Israel has claimed responsibility. A significant Iranian military response is ongoing.
+Israel continues to operate militarily against Iran. Reports suggest that a wide range of military, nuclear and civil installations across the country have been hit. Major cities have been affected, and the Israeli Defence Forces have issued evacuation warnings for some residential districts. A significant Iranian military response is ongoing.
 
 The situation could escalate quickly and poses significant risks. We continue to advise against all travel to Iran.
 
+## If you are in Iran
+
+### Travel by air
+
+Iranian airspace remains closed.
+
+### Travel by land
+
+Iran’s borders with neighbouring countries may have restrictions for foreign travellers and may close at short notice. If you plan to depart Iran across a land border and consider it safe to do so, check the travel advice of the country you intend to enter before travelling to the border, including visa requirements.
+
+Entry to countries bordering Iran is not straightforward, and some countries will ask for additional paperwork for British passport holders. If you intend to leave overland you do so at your own risk. Should you require assistance, including with additional paperwork, [contact the FCDO](https://www.contact.service.csd.fcdo.gov.uk/posts/iran/british-embassy-tehran).
+
 Monitor this travel advice and other media to ensure you have the latest updates.
+
+Be aware that FCDO advises against travel to some parts of countries that border Iran, including within Afghanistan, Iraq and Pakistan.
 
 Read FCDO advice [if you’re affected by a crisis abroad](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas).
 

@@ -22,6 +22,10 @@ To stay longer (to work or study, for business travel or for other reasons), you
 
 It is illegal to overstay the entry period or to work without a work permit.
 
+## Checks at border control
+
+The Antiguan and Barbudan authorities advise travellers to use [ArriveAntigua.com](https://arriveantigua.com/no_desktop) to speed up your entry into the country, though it is not mandatory. You can only access it through a mobile telephone or tablet and within 72 hours of travel.
+
 ## Airport tax
 
 Most airlines include departure tax in their flight costs. If you’re flying on regional airlines, you should check whether tax is included before you travel.

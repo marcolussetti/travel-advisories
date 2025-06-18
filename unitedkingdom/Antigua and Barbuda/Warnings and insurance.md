@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   18 June 2025
 
 Updated:
-:   3 December 2024
+:   17 June 2025
 
 Latest update:
-:   This travel advice has been reviewed and information on Tropical Storm Ernesto has been removed. There are no other significant updates.
+:   Addition of information that the authorities in Antigua and Barbuda advise travellers to use ArriveAntigua.com to speed up your entry to the country (‘Entry requirements’ page).
 
 ## Before you travel
 

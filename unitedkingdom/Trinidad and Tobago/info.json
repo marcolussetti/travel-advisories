@@ -1,11 +1,11 @@
 {
     "name": "Trinidad and Tobago",
-    "update_reason": "Removal of information about the nationwide state of emergency in Trinidad and Tobago ('Safety and security' page).",
+    "update_reason": "Updated information about crime, protecting your belongings, LGBT+ travellers and transport risks ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Trinidad and Tobago/Warnings and insurance.md",
-            "update_date": "2025-05-21T14:41:31+01:00"
+            "update_date": "2025-06-17T16:54:38+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Trinidad and Tobago/Getting help.md"
         }
     ],
-    "update_date": "2025-05-21T14:41:31+01:00"
+    "update_date": "2025-06-17T16:54:38+01:00"
 }

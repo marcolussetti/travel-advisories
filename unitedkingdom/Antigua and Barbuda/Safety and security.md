@@ -23,6 +23,7 @@ Take sensible precautions to protect your personal safety. You should:
 * take particular care around large gatherings, including street and beach parties, especially after dark or during the festival season
 * not carry large amounts of cash or jewellery
 * leave valuables and travel documents in a safety deposit box or secure hotel safe
+* be aware that resisting a robbery can lead to a violent response, including use of weapons that can result in physical injury
 
 ## Laws and cultural differences
 
@@ -85,12 +86,6 @@ Find out what you can do to [prepare for and respond to extreme weather and natu
 ### Hurricanes
 
 The hurricane season in the Caribbean normally runs from June to November. Monitor local and international weather updates from the [Antigua and Barbuda Meteorological Services](http://www.antiguamet.com/), the [World Meteorological Organization](https://severeweather.wmo.int/) and the [US National Hurricane Center](http://www.nhc.noaa.gov/index.shtml?atlc) and follow the advice of the local authorities, including any evacuation orders.
-
-The island of Barbuda was hit by hurricanes in 2017. Many buildings were destroyed and reconstruction work is still taking place. If you’re planning to visit Barbuda, you should:
-
-* monitor local and international weather updates
-* follow the advice of the local authorities
-* make sure your accommodation is secure
 
 See [tropical cyclones](https://www.gov.uk/tropical-cyclones) for advice about how to prepare effectively and what to do if you are likely to be affected by a hurricane.
 

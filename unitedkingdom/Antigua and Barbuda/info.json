@@ -1,11 +1,11 @@
 {
     "name": "Antigua and Barbuda",
-    "update_reason": "This travel advice has been reviewed and information on Tropical Storm Ernesto has been removed. There are no other significant updates.",
+    "update_reason": "Addition of information that the authorities in Antigua and Barbuda advise travellers to use ArriveAntigua.com to speed up your entry to the country (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Antigua and Barbuda/Warnings and insurance.md",
-            "update_date": "2024-12-03T15:03:59+00:00"
+            "update_date": "2025-06-17T09:18:07+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Antigua and Barbuda/Getting help.md"
         }
     ],
-    "update_date": "2024-12-03T15:03:59+00:00"
+    "update_date": "2025-06-17T09:18:07+01:00"
 }
