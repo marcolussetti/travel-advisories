@@ -6,6 +6,10 @@ High Degree of Caution
 
 ### **Travel Alert**
 
+Presidential and legislative elections will take place in Colombia in 2026. During election periods, increased volatility in the security situation can take place. Citizens are advised to avoid political rallies, demonstrations and large public protests or gatherings.
+
+June 2025 – There is a heightened risk of violence across the country due to armed group activity, in particular in rural areas. Several explosions and gun attacks have taken place in the departments of Cauca and Valle de Cauca, including the city of Cali in recent days. These attacks have resulted in a number of casualties. Security conditions in these departments are likely to remain volatile in the coming period. Road closures and obstructions may take place. Avoid areas where demonstrations are taking place, monitor official alerts and follow advice from local authorities.
+
 April 2025 - The Colombian Government has declared a national health emergency due to an increase in Yellow Fever cases, with the Departments of Tolima and Cundinamarca registering the highest numbers of cases. Irish citizens travelling to Colombia are advised to get vaccinated against Yellow Fever at least 10 days prior to travel.
 
 ### **General Travel Advice**

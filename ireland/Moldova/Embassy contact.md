@@ -8,10 +8,10 @@ Monday to Friday 09:30 to 12:30; 14:00 to 17:00
 
 ### Embassy of Ireland, Romania
 
-Bulevardul Iuliu Maniu 6L,   
-București 061072,   
+The Mark Tower,   
+Calea Griviței 82-98,   
 Bucharest   
-Romania
+010735
 
 [Tel: +40 758611959](tel:+40758611959)
 
