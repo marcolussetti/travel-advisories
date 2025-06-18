@@ -2,7 +2,7 @@
 
 Latest update
 
-We've reviewed our advice for Indonesia and continue to advise exercise a high degree of caution.   
+Some flights between Australia and Bali have been cancelled or postponed due to volcanic ash from Mt Lewotobi Laki-Laki. If your flight is affected, contact your airline and insurance provider for alternative travel and accommodation arrangements (see 'Travel').  
   
 Australians have drowned in coastal areas, due to rough seas and strong rip currents at popular tourist beaches including in Bali. Many beaches are unpatrolled.  
   
@@ -40,6 +40,7 @@ See [Safety](#safety).
 
 ### Safety
 
+* Some flights between Australia and Bali have been cancelled or postponed due to volcanic ash from Mt Lewotobi Laki-Laki. If your flight is affected, contact your airline and insurance provider for alternative travel and accommodation arrangements.
 * There's an ongoing risk of terrorist attack in Indonesia. Be alert to possible threats. Take official warnings seriously and follow the advice of local authorities. Popular tourist areas may be the target of terrorist attacks.
 * Public protests and events that draw large groups of people occur regularly and can turn violent with little notice. Expect traffic delays and restricted access to locations if there are protests. Avoid protests and demonstrations and monitor local media for the latest updates.
 * Travel by boat or ferry can be dangerous. Commercial and private boat and ferry operators may not comply with international safety and maintenance standards. Australians have been seriously injured or have died in marine transport incidents.
@@ -78,6 +79,7 @@ Full travel advice: [Local laws](#local-laws)
 
 ### Travel
 
+* Some flights between Australia and Bali have been cancelled or postponed due to volcanic ash from Mt Lewotobi Laki-Laki. If your flight is affected, contact your airline and insurance provider for alternative travel and accommodation arrangements.
 * Indonesian authorities have strict standards for damaged passports, and travellers have been refused entry into Indonesia with a damaged passport. Normal wear and tear, including water damage, minor tears or rips to the pages, can be considered damaged.
 * Before entering Indonesia, ensure you understand your visa conditions and entry and exit requirements, including if you're travelling by private sea vessel. Before you travel, check requirements with your travel provider, Indonesian Immigration or the nearest Embassy or Consulate of Indonesia. The Australian Government can't intervene in immigration, customs or quarantine matters in other countries.
 * Before entering Indonesia, the Ministry of Health requires you to complete an electronic health declaration form called the [SATUSEHAT Health Pass](https://sshp.kemkes.go.id/register). You can complete the form online before you check-in for your flight to Indonesia. After completing the form, a barcode containing your health and travel history will appear. Indonesian authorities will scan the barcode on arrival in Indonesia. Save your barcode, or bring a printed copy with you to ensure authorities can scan it on arrival. If you have Mpox symptoms you may be referred to a hospital for treatment on arrival (See 'Health').

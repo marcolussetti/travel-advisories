@@ -2,13 +2,22 @@
 
 Latest update
 
-Following military strikes in Iran, Australians in Iran should shelter in place and take the advice of local authorities in affected areas. See our general advice on protecting your safety during an armed conflict (see ‘Safety’). The security situation could continue to deteriorate rapidly. Flight cancellations and disruptions could continue with little or no notice, including due to airport and airspace closures. If you're in Iran, you should depart when it's safe to do so. The Australian Government may not be able to assist with your departure.  
-  
-We continue to advise do not travel to Iran. There's an ongoing risk of military conflict involving air and missile strikes against targets in Iran. This could continue to escalate rapidly and without notice. Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests (see 'Safety').  
-  
 If you're an Australian citizen or permanent resident in Iran, you can now register on the Department of Foreign Affairs and Trade's crisis registration portal. See the 'Safety' section for details on how to register. We will communicate directly with registered Australians with important updates.  
   
-Terrorist attacks could happen anywhere in Iran, including Tehran or other locations frequented by foreigners and tourists. They could occur anytime without warning. Australians, including dual nationals, should strongly consider leaving Iran as soon as possible. Foreigners, including Australians, are at a high risk of arbitrary detention or arrest. Foreign and dual nationals, including Australians, have been detained without due process of law. Kidnapping for ransom is a risk in Iran (see 'Safety').  
+We continue to advise do not travel to Iran. Following military strikes in Iran, Australians should shelter in place and take the advice of local authorities. See our advice on safety during an armed conflict (see ‘Safety’). The security situation could continue to deteriorate rapidly. If you're in Iran, you should depart when it's safe to do so. The Australian Government may not be able to assist with your departure.  
+  
+If you intend to travel by land into a neighbouring country, check the latest public information from local authorities in Iran and your destination on visa and border arrangements. Borders may close without notice. You should consider the risks carefully before attempting to leave by any route and you should make your own assessment whether it's safe for you to travel in current circumstances. This includes considering the security situation and the potential risks involved. If you are not confident in the safety and reliability of any departure option, shelter in place and follow the advice of local authorities. Transport routes may be disrupted. Roads may be crowded and exposed to security risks such a military action, rocket attacks and terrorism, as may border crossings.   
+  
+Iran’s borders with neighbouring countries may have restrictions for foreign nationals and may close at short notice. Check our travel advice for your destination including visa requirements. The latest information on border crossing is:  
+  
+Türkiye: Border crossings at Gurbulak (Bazargan) in Agri province and Kapikoy (Razi) in Van province remain open to third country nationals holding a valid visa to enter Türkiye (Australians can apply online for e-visas).  
+Armenia: The land border with Armenia (at Agarak) is open. Australians do not need a visa for Armenia for stays of up to 180 days. See our travel advice for Armenia for advice on safety concerns for some nearby Armenian border regions.   
+Azerbaijan: If you wish to depart at this border we will need to facilitate this through Azerbaijan authorities (See Travel). Australians require a visa which they should be able obtain online.   
+Turkmenistan: to cross this border we will need to facilitate this through Turkmenistan authorities (See Travel). Onward travel arrangements are best arranged from within Iran.  
+  
+We continue to advise Do Not Travel to Afghanistan, Iraq or to the regions of Pakistan that border Iran.   
+  
+Avoid all demonstrations and protests. Terrorist attacks could happen anywhere in Iran, including Tehran or other locations frequented by foreigners and tourists. Foreigners, including Australians, are at a high risk of arbitrary detention or arrest. Kidnapping for ransom is a risk in Iran.  
   
 If you need emergency consular assistance, contact the Australian Government's Consular Emergency Centre on +61 2 6261 3305 (if you're overseas) and 1300 555 135 (in Australia).
 
@@ -32,10 +41,10 @@ Do not travel to Iran due to the volatile regional security situation and the ri
 
 * If you're an Australian citizen or permanent resident in Iran, you can now register on the Department of Foreign Affairs and Trade's [crisis registration portal](https://crisis.dfat.gov.au). We will communicate directly with registered Australians with important updates.
 * Following military strikes in Iran, Australians in Iran should shelter in place and take the advice of local authorities in affected areas. See our general advice on protecting your safety during an [armed conflict](https://www.smartraveller.gov.au/before-you-go/staying-safe/armed-conflict). Airlines may cancel or reduce their operations to and from Iran at short notice and your options to leave may be limited. Check the latest flight status with your airline or travel provider. The Australian Government may not be able to assist with your departure.
+* If you intend to travel by land into a neighbouring country, check the latest public information from local authorities in Iran and your destination on visa and border arrangements. Borders may close without notice. See Travel for more information.
 * Terrorist attacks could happen anywhere in Iran, including Tehran or other locations frequented by foreigners and tourists. They could occur at any time with little or no warning. Avoid possible targets and areas with a low level of security. Possible targets for attacks include embassies, hotels, places of worship, tourist sites, government interests, military parades and locations, Western businesses and other interests. Take official warnings seriously.
 * Regional tensions are high and could escalate rapidly. There is ongoing hostility between Iran and Israel and military tensions between Iran, the US and other countries in the Middle East. The Iran-Iraq, Iran-Afghanistan, and Iran-Pakistan border areas can be volatile and remain extremely dangerous.
 * The security situation could continue to deteriorate rapidly. Flight cancellations and disruptions could continue with little or no notice, including due to airport and airspace closures. If you're in Iran, you should depart when it's safe to do so.
-* If you need emergency consular assistance, contact the Australian Government's Consular Emergency Centre on +61 2 6261 3305 (if you're overseas) and 1300 555 135 (in Australia).
 * Due to the risk of a deteriorating security environment, the Australian Government has offered voluntary departures to Australia for dependants of Australian officials posted to Iran.
 * Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice.
 * Demonstrations and protests are expected. Small, local protests continue in parts of Iran. Previously, security forces' response to protests has been severe, and many protesters and bystanders have been injured, killed or detained. There has been an increase in the number of foreign nationals arrested during previous protests. Avoid all demonstrations and protests.
@@ -70,6 +79,7 @@ Full travel advice: [Local laws](#local-laws)
 
 ### Travel
 
+* If you intend to travel by land into a neighbouring country, check the latest public information from local authorities in Iran and your destination on visa and border arrangements. Bordersmay close without notice. See Travel - Border Crossings from Iran below for more information.
 * We advise Australians not to travel to Iran. If you're in Iran, you should strongly consider leaving as soon as possible. If despite our advice you travel to Iran, you'll need a visa to enter and you'll need to get it before you travel. Contact your nearest [Iranian embassy](https://protocol.dfat.gov.au/Public/Missions/93) for details.
 * Airlines may cancel or reduce their operations into and out of Iran at short notice.
 * Some countries have restrictions on travellers coming out of Iran.

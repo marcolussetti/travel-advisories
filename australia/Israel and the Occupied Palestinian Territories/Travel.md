@@ -8,17 +8,17 @@ Tel Aviv's Ben Gurion International Airport may close or pause operations due t
 
 #### Land border crossings
 
+You should depart Israel or the Occupied Palestinian Territories when it’s safe to do so. The Australian Government can't offer advice on the safety of travelling to departure points. Any travel options you pursue are taken at your own risk. Make contingency plans to leave when it's safe to do so. You're responsible for your own safety and that of your family.
+
 Land border crossings to Jordan may open and close at short notice. Before you travel, check [Jordanian Border Crossings](https://www.accesscoordination.org/CrossingJordanC19%20-%20view.aspx) for regular opening times and also check the latest public information from local authorities in Israel and Jordan to make sure border crossings are open.
 
 There are 2 land border crossings between Israel and Jordan: Sheikh Hussein/Jordan River near Irbid and Wadi Araba near Aqaba. Additionally, one land border crossing from Israel to Jordan goes through the West Bank: Allenby Bridge/King Hussein near Amman.
 
-These border crossings may open and close with little notice. There's also the possibility of queues and delays at border crossings.
+Transport routes may be disrupted. Roads may be crowded and exposed to military action or have damage, including to bridges and facilities. Use your judgement to decide the best time and safest means of exit.
+
+Plan for delays at land border crossings. Expect disruption to travel and changes at short notice. Make sure you have an adequate supply of food, water, medication.
 
 You'll need a visa to enter Jordan. See our [Jordan Travel Advice](/destinations/middle-east/jordan "Jordan").
-
-You may find it difficult to travel by road if armed conflict escalates. GPS signals may be blocked in parts of Israel, disrupting navigational apps and devices.
-
-Any travel options you pursue are taken at your own risk. You're responsible for your own safety and that of your family.
 
 **More information:**
 

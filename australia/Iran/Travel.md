@@ -1,5 +1,25 @@
 # Travel
 
+#### Border crossings from Iran
+
+[**Türkiye**](https://www.smartraveller.gov.au/destinations/europe/turkiye)
+
+Border crossings at Gurbulak (Bazargan) in Agri province and Kapikoy (Razi) in Van province remain open to third country nationals holding a valid visa to enter Türkiye (Australians can apply online for e-visas).
+
+[**Armenia**](https://www.smartraveller.gov.au/destinations/europe/armenia)
+
+As of Monday, June 16, the land border with Armenia (at Agarak) was open.  Australians do not need a visa for Armenia for stays of up to 180 days per year.  See our travel advice for Armenia for advice on safety concerns for some nearby Armenian border regions.
+
+[**Azerbaijan**](https://www.smartraveller.gov.au/destinations/europe/azerbaijan)
+
+Azerbaijan authorities have reopened the crossing on its southern border at Astara for ‘exceptional’ crossing by third country nationals. If you wish to depart at this border we will need to register your details with Azerbaijan authorities for you to obtain a border crossing code (for Australian passport holders). If accepted, you will still need visas to enter Azerbaijan. Australians require a visa which they should be able obtain online. You can contact the Australian Embassy in Tehran for assistance with obtaining the border crossing code. Some travellers have been able to cross into Azerbaijan at Astara without this code.
+
+[**Turkmenistan**](https://www.smartraveller.gov.au/destinations/asia/turkmenistan)
+
+Turkmenistan authorities have announced border crossings are open to allow the safe transit of foreign citizens from Iran. . If you wish to depart at this border we will need to facilitate through Turkmenistan authorities (for Australian passport holders - see our advice for Turkmenistan). If approved, you will be issued with a transit visa for a period of up to 5 days.  Note internet, telephone and banking services can be unreliable in Turkmenistan, and onward flights and transport arrangements are best arranged from within Iran.  Note without prior approval by Turkmenistan authorities you will not be allowed to cross the border.
+
+We continue to advise Do Not Travel to Afghanistan, Iraq or to the regions of Pakistan that border Iran.
+
 #### Visas and border measures
 
 > Every country or territory decides who can enter or leave through its borders. For specific information about the evidence you'll need to enter a foreign destination, check with the nearest embassy, consulate or immigration department of the destination you're entering.
