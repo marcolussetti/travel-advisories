@@ -4,7 +4,7 @@
 
 ### State of emergency in the provinces of Lima and Callao
 
-The Peruvian government extended a state of emergency in Callao province and the following districts in the province of Lima until June 17, 2025:
+The Peruvian government extended a state of emergency in Callao province and the following districts in the province of Lima until July 16, 2025:
 
 * Ate
 * Carabayllo

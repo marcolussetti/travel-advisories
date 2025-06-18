@@ -24,3 +24,9 @@
 * Sonora, excluding the cities of Hermosillo, Guaymas/San Carlos and Puerto Peñasco
 * Tamaulipas, excluding the city of Tampico
 * Zacatecas, excluding Zacatecas City
+
+### Southwestern coast - Avoid non-essential travel
+
+[Avoid non-essential travel](#levels "Risk Levels") to the southwestern coast, from Bahías de Huatulco to Acapulco, due to Tropical Storm Erick.
+
+[Natural disasters and climate](#disasters)

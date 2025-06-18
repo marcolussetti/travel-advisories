@@ -44,6 +44,12 @@ Tourist visa: not required
  Student visa: required  
  Work visa: required
 
+### Other entry requirements
+
+The Chilean government requires that visitors to Chile have at least $46 USD per day available to cover their expenses during their trip. Customs officials may ask you to show them proof of sufficient funds to cover your stay.
+
+[Temporary stays](https://www.chileatiende.gob.cl/fichas/104218) – Government of Chile (in Spanish only)
+
 ### Tourist card
 
 You will receive a tourist card upon arrival. The card is valid for a maximum period of 90 days.
@@ -97,15 +103,18 @@ Canadian-Chilean dual citizens travelling to Chile on their Canadian passport mu
 
 ### Children and travel
 
-Chile has strict requirements for the entry and exit of persons under the age of 18, including special documentation.
+Chile has strict requirements for the entry and exit of persons under the age of 18, including special documentation. Children travelling with only one parent, with a guardian or alone, are required to carry:
 
-Children born in Chile require a Chilean passport to leave the country.
+* a notarized, apostilled and translated letter of authorization (from the other parent or from a court)
+* the child’s apostilled birth certificate
 
-Adults traveling with a minor must show evidence of their relationship to the child when entering or departing the country. You should carry the child’s original birth certificate.
+For more information on these requirements, contact the nearest Chilean embassy or consulate before travelling to Chile. If you’re already in Chile, contact a local Chilean notary public.
 
-Contact the nearest Chilean embassy or consulate before departure if your child is planning on travelling alone, or with only 1 parent, to ensure that the latest entry and exit requirements are met.
+#### Useful links
 
-[Travelling with children](http://travel.gc.ca/travelling/children)
+* [Travelling with children](http://travel.gc.ca/travelling/children)
+* [Entry and exit of minors from the country](https://www.chile.gob.cl/chile/xplica/ingreso-y-salida-de-menores-del-pais) – Minstry of Foreign Affairs (in Spanish only)
+* [Authentication of documents](https://www.international.gc.ca/gac-amc/about-a_propos/services/authentication-authentification/index.aspx?lang=eng)
 
 ### Yellow fever
 

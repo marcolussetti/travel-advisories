@@ -2,6 +2,27 @@
 
 ## Natural disasters and climate
 
+### Tropical Storm Erick
+
+Tropical Storm Erick is expected to make landfall as a hurricane between Bahías de Huatulco and Acapulco on June 19, 2025.
+
+The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
+
+* transportation
+* power distribution
+* water and food supply
+* telecommunications networks
+* emergency services
+* medical care
+
+If you are in the affected area of southern Mexico:
+
+* exercise caution
+* monitor local news and weather reports
+* follow the instructions of local authorities
+
+[Latest advisories](http://www.nhc.noaa.gov/) – U.S. National Hurricane Centre
+
 Mexico is subject to various natural disasters, which can occur at any time.
 
 In the event of a natural disaster:
