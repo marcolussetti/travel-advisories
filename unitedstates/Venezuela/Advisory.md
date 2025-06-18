@@ -55,7 +55,9 @@ If you decide to travel to Venezuela:
 
 ### Assistance for U.S. Citizens
 
-U.S. Embassy, Venezuela
+U.S. Embassy Caracas
+
+OPERATIONS SUSPENDED - MARCH 11, 2019
 
 Calle 24 Bis No. 48-50 Bogotá, D.C. Colombia
 
@@ -77,7 +79,7 @@ Email
 
 Website
 
-[https://ve.usembassy.gov/](https://ve.usembassy.gov/ "Embassy website address of U.S. Embassy, Venezuela: https://ve.usembassy.gov/")
+[https://ve.usembassy.gov/](https://ve.usembassy.gov/ "Embassy website address of U.S. Embassy Caracas <p>OPERATIONS SUSPENDED - MARCH 11, 2019</p>: https://ve.usembassy.gov/")
 
 ### Venezuela Map
 

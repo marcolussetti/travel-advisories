@@ -62,6 +62,8 @@ If you choose to disregard the Travel Advisory and travel to Afghanistan:
 
 U.S. Embassy Kabul
 
+OPERATIONS SUSPENDED - AUGUST 31, 2021
+
 null
 
 Telephone
@@ -82,7 +84,7 @@ Email
 
 Website
 
-[https://af.usembassy.gov/](https://af.usembassy.gov/ "Embassy website address of U.S. Embassy Kabul: https://af.usembassy.gov/")
+[https://af.usembassy.gov/](https://af.usembassy.gov/ "Embassy website address of U.S. Embassy Kabul <p>OPERATIONS SUSPENDED - AUGUST 31, 2021</p>: https://af.usembassy.gov/")
 
 ### Afghanistan Map
 
