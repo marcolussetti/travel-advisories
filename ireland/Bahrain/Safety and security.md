@@ -1,5 +1,17 @@
 ## Safety and security
 
+### Regional tensions
+
+Ongoing hostilities in Iran, Israel, and Palestine may escalate leading to possible attacks on military installations; and/or on strategic infrastructure. Debris from intercepted missiles or drones may cause localised damage over urban areas. The most immediate risk remains delay or cancellation of flights.
+
+### Maritime safety
+
+Many areas of the Gulf are highly politically sensitive and some are subject to jurisdictional disputes.
+
+### Social unrest
+
+The political situation in Bahrain is reasonably stable apart from occasional protests linked to regional hostilities or political demonstrations. Always keep yourself informed of what is going on around you by monitoring local media and staying in contact with your hotel or tour organiser. And avoid demonstrations and public gatherings, which can sometimes turn confrontational.
+
 ### **Crime**
 
 Crime remains relatively low in Bahrain but you should take sensible precautions:

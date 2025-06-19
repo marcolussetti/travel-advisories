@@ -4,6 +4,10 @@
 
 High Degree of Caution
 
+### **Travel Alert**
+
+Regional Tensions: Ongoing hostilities in Iran, Israel, and Palestine may escalate leading to possible attacks on military installations; and/or on strategic infrastructure. Debris from intercepted missiles or drones may cause localised damage over urban areas. The most immediate risk remains delay or cancellation of flights.
+
 ### **General Travel Advice**
 
 Irish citizens visiting Oman for 14 days or less do not need a visa. For longer stays visas can be obtained online or, in some cases, on arrival.
@@ -20,7 +24,7 @@ Oman does not recognise dual nationality. If you hold both Irish and Oman nation
 
 Due to the ongoing risk of piracy, we advise against all but essential travel by yacht and leisure craft on the high seas (more than 12 nautical miles from the shore) in the Gulf of Aden, Arabian Sea and part of the Indian Ocean bounded by the following latitude and longitude: 15°N in the Red Sea, 23° N in the Arabian Sea, 78° E and 15°S in the Indian Ocean.
 
-Citizens can also follow the Irish Embassy in Saudi Arabia on X[**@IrishEmbRiyadh**](https://twitter.com/irishembriyadh) to ensure access to relevant updates and alerts.
+Citizens can also follow the Irish Embassy in Saudi Arabia on X [**@IrishEmbRiyadh**](https://twitter.com/irishembriyadh) to ensure access to relevant updates and alerts.
 
 ### **Emergency Assistance**
 

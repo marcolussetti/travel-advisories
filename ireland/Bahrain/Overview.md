@@ -4,6 +4,10 @@
 
 High Degree of Caution
 
+### Travel Alert
+
+Regional Tensions: Ongoing hostilities in Iran, Israel, and Palestine may escalate leading to possible attacks on military installations; and/or on strategic infrastructure. Debris from intercepted missiles or drones may cause localised damage over urban areas. The most immediate risk remains delay or cancellation of flights.
+
 ### **General Travel Advice**
 
 Irish citizens require a visa to enter Bahrain.

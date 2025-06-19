@@ -4,14 +4,6 @@
 
 Normal Precautions
 
-### **Travel Alert**
-
-Citizens should be aware of the potential for disruption from ongoing protests in California, especially in some neighbourhoods of Los Angeles and San Francisco. Further protests are planned in cities across the USA. Tensions are currently high and protests have the potential to turn violent. Citizens should exercise caution and avoid areas near demonstrations.
-
-Citizens should also note that a curfew is now in place in parts of downtown Los Angeles.
-
-Visitors to the USA should follow the guidance of national and local authorities and stay fully informed of what is going on by monitoring local news and the social media accounts of the Embassy of Ireland and of the closest Consulate General of Ireland.
-
 ### **General Travel Advice**
 
 Those planning to travel are advised to monitor the website of [**the US Embassy in Dublin**](https://ie.usembassy.gov/us-travel-restrictions/) for updates and to consult your travel provider to make sure your passport and other travel documents meet the requirements for travel to the US.

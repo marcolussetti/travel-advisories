@@ -1,26 +1,30 @@
 ## Safety and security
 
+### Regional tensions
+
+Ongoing hostilities in Iran, Israel, Palestine and in Houthi controlled areas in Yemen may escalate leading to possible attacks on military installations and/or on strategic infrastructure. Debris from intercepted missiles or drones may cause localised damage over urban areas. The most immediate risk remains delay or cancellation of flights.
+
+### **Maritime safety**
+
+Many areas of the Gulf are highly politically sensitive and some are subject to jurisdictional disputes. Houthi rebels in Yemen have attacked vessels in the Red Sea as well as targets in Israel resulting in counter strikes from the US, UK and Israel. There is a risk of piracy in the southern Red Sea and in the Gulf of Aden.
+
 ### **Political unrest**
 
-While generally safe, conditions in certain areas of Saudi Arabia can deteriorate quickly leading to public disturbances. You should remain informed of local and regional developments that could result in a heightened level of risk.
+While generally safe, historically conditions in certain areas of Saudi Arabia can deteriorate quickly leading to public disturbances. You should remain informed of local and regional developments that could result in a heightened level of risk.
 
-Public demonstrations are illegal in Saudi Arabia and should be avoided. There is particular localised unrest in the Eastern Province region which can result in spontaneous demonstrations that can turn confrontational leading to violent clashes with security forces.
+Unauthorised public demonstrations are illegal in Saudi Arabia and should be avoided. In the past, localised unrest in the Eastern Province region resulted in spontaneous demonstrations and clashes with security forces.
 
 ### **Saudi-Yemeni border**
 
-There is an increased risk of terrorist incidents close to the Saudi-Yemen border.  In response to the request for assistance from the government of President Hadi, Saudi Arabia is leading a military intervention including air strikes, against Houthi rebels across Yemen.
+There is an increased risk of terrorist incidents close to the Saudi-Yemeni border. In addition, Houthi rebels have in recent years fired missiles at major towns and cities and strategic infrastructure in Saudi Arabia.
 
-Irish citizens should not travel to areas close to the Saudi-Yemeni border. Irish nationals within 80km of the border should leave the area unless it is essential to remain.
+The Embassy advises against all travel within 10Km of the Yemeni border and against any non-essential travel within 80 Km.
 
 ### **Terrorism**
 
 Irish citizens are advised to be extra vigilant and exercise caution when travelling in Saudi Arabia.
 
-While the Saudi authorities are actively pursuing terrorist cells operating in the Kingdom, a serious terrorist threat persists against western targets, religious sites and security forces. The Saudi Ministry of Interior has issued past warnings of possible attacks on oil installations and shopping malls throughout Saudi Arabia.
-
-There have been regular attacks on security forces and on US, Danish and Canadian citizens in Saudi Arabia. There are frequent posts on jihadist websites and social media calling for attacks against Western and other interests in Saudi Arabia including schools, residential compounds, oil workers, military installations, transport and aviation facilities, restaurants, shopping centres and mosques.
-
-You should remain vigilant and alert to your local security environment and take suitable precautions to ensure your personal safety.  If you are resident in Saudi Arabia you should regularly review your security arrangements and the level of protection provided at your residential compound, workplace and children’s schools to ensure they are adequate.
+Saudi authorities are actively pursuing foreign and domestic terrorist cells operating in the Kingdom. However terrorist threats persist against western targets, religious sites and security forces, including a “lone wolf” attack on the US Consulate in Jeddah in 2023. The Saudi Ministry of Interior has issued past warnings of possible attacks on oil installations and shopping malls throughout Saudi Arabia. You should remain vigilant and alert to your local security environment and take suitable precautions to ensure your personal safety. If you are resident in Saudi Arabia you should regularly review your security arrangements and the level of protection provided at your residential compound, workplace and children’s schools to ensure they are adequate.
 
 ### **Photography**
 
@@ -32,22 +36,23 @@ The overall crime rate is low in Saudi Arabia and is not usually an issue for tr
 
 * Don’t carry your credit card, travel tickets and money together - leave spare cash and valuables in a safe place;
 * Don’t carry your passport unless absolutely necessary and leave a copy of your passport (and travel and insurance documents) with family or friends at home;
-* Avoid showing large sums of money in public and don’t use ATMs after dark, especially if you are alone. Check no one has followed you after conducting your business;
-* Keep a close eye on your personal belongings and hold on to them in public places such as internet cafes, train and bus stations; and
+* Avoid showing large sums of money in public and don’t use ATMs after dark, especially if you are alone. Check no one has followed you after conducting your business;
+* Keep a close eye on your personal belongings and hold on to them in public places such as internet cafes, train and bus stations; and
 * Avoid dark and unlit streets and stairways, arrange to be picked up or dropped off as close to your hotel or apartment entrance as possible.
 
 ### **Driving**
 
-If you are planning to drive in Saudi Arabia, you should be extremely careful as general driving standards and road conditions are poor with frequent accidents particularly on the main highways.
+If you are planning to drive in Saudi Arabia, you should be extremely careful as driving standards are poor and road conditions vary with frequent accidents.
 
 If you want to drive:
 
 * Bring your full Irish driving license and international driving permit and make sure you have adequate and appropriate insurance;
+* You need to apply for a Saudi driving licence if staying more than three months;
+* Ensure your vehicle is appropriately equipped for any long distance trips and do not travel into the desert unless in convoy with experienced drivers. Summer temperatures can reach 45 to 50 degrees Celsius outdoors. Ensure your cooling system is regularly serviced. Do not leave any electrical items, aerosols or inflammable containers unattended in your vehicle.
 * Do not hitchhike;
 * Keep your vehicle doors locked if you’re stopped at traffic lights; and
-* Driving in Saudi Arabia can be difficult, particularly since road signs may be exclusively in Arabic script.
 
-Please note that some cities have implemented automated camera systems to catch red light runners and drivers exceeding the speed limit.  If you incur any fines these will need to be paid before leaving Saudi Arabia.  It is possible to make the payment at the airport but only during normal office hours.
+Please note that some cities have implemented automated camera systems to catch red light runners and drivers exceeding the speed limit. If you incur any fines these will need to be paid before leaving Saudi Arabia. It is possible to make the payment at the airport but only during normal office hours.
 
 ### **Hiring a vehicle**
 
@@ -57,7 +62,7 @@ Check that you have adequate insurance and read the small print of the vehicle h
 
 ### **Taxis/Chauffeur drive cars**
 
-Given the relatively low cost, most visitors will use taxis or chauffeur-driven cars. We recommend taxis are pre-booked and you should avoid hailing a taxi on the street or using unofficial drivers at the airport.
+Given the relatively low cost, most visitors will use official taxis, chauffeur-driven cars, or taxi-apps such as Uber or Careem. We recommend taxis are pre-booked and you should avoid hailing a taxi on the street or using unofficial drivers at the airport.
 
 ### **Female Travelers**
 
@@ -70,7 +75,3 @@ It is recommended that you keep a low profile and be especially vigilant in plac
 ### **Reporting a crime**
 
 If you are a victim of a crime while in Saudi Arabia you should report the incident to the local police immediately. You can also contact the Irish Embassy in Riyadh if you require further assistance.
-
-### **Maritime safety**
-
-Many areas of the Gulf are highly politically sensitive and some are subject to jurisdictional disputes. Vessels entering these areas have been detained and inspected and there have been occasional arrests. There is a risk of piracy in the southern Red Sea and in the Gulf of Aden.

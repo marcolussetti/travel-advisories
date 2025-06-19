@@ -6,15 +6,19 @@ High Degree of Caution
 
 ### **Latest Travel Alert**
 
-Please be advised that since 7 October 2023, a state of emergency has been in place across Israel and the occupied Palestinian territory and this remains the case. As a result, the three land border crossings into Jordan (Allenby /King Hussein Bridge, Jordan River/ Sheikh Hussein Crossing and Yitzhak Rabin / Arava Crossing) may be affected by long delays, reduced hours, and unforeseen closures without prior notification.
+Please be advised that since 7 October 2023, a state of emergency has been in place across Israel and the occupied Palestinian territory and this remains the case. As a result, the three land border crossings into Jordan (Allenby /King Hussein Bridge, Jordan River/ Sheikh Hussein Crossing, and Yitzhak Rabin / Arava Crossing) may be affected by long delays, reduced hours, and unforeseen closures without prior notification.
 
-In addition, flights have been disrupted on a number of occasions and we advise all travellers to and from Jordan to check with airlines in advance of travel.
+A recent deterioration in regional instability caused by the conflict between Israel and Iran has resulted in airstrikes – consisting of missiles and drones – travelling through the airspace of Jordan. Jordanian authorities are on high alert and Irish citizens are advised to follow local instructions during these period.
 
-Travellers to Jordan should exercise a high degree of caution, monitor local media, and **follow the instructions of local authorities at all times.** Where there are road closures, seek alternate routes, and avoid all demonstrations and large crowds. If you find yourself in immediate danger, please contact the Jordanian police by dialling 911.
+This is particularly important when air sirens are sounded, as there is risk of debris or shrapnel falling from the sky. During these periods, people are advised to shelter in place until the end of the warning period, which is signalled by a longer siren that rings for approx. 1 minute.
 
-In response to ongoing events, large-scale protests and demonstrations have occurred more frequently across Jordan, particularly in the capital, Amman. Demonstrations can be spontaneous and are often met with road closures and a heavy security presence.
+In addition, as a result of these airstrikes, the airspace in Jordan is liable to close at short notice, and flights have been disrupted on a number of occasions. We advise all travellers to and from Jordan to check with airlines in advance of travel. For citizens who are in Jordan and see their flights cancelled as a result of a closure of the airspace, we advise you to check in regularly with your airlines to confirm a re-scheduled flight or to book a new one.
 
-We recommend that all Irish citizens travelling to or residing in Jordan register on the our [Citizens Registration portal](https://citizensregistration.dfa.ie/).
+In general, travellers to Jordan should exercise a high degree of caution, monitor local media, and **follow the instructions of local authorities at all times.** Where there are road closures, seek alternate routes, and avoid all demonstrations and large crowds. If you find yourself in immediate danger, please contact the Jordanian police by dialling 911.
+
+In light of the ongoing regional situation, large-scale protests and demonstrations have occurred more frequently across Jordan, particularly in the capital, Amman. Demonstrations often take place around mosques and occur on Thursdays and Fridays, but they can also be spontaneous and are often met with road closures and a heavy security presence.
+
+We recommend that all Irish citizens travelling to or residing in Jordan register on the our [**Citizens Registration portal**](https://citizensregistration.dfa.ie/).
 
 ### **General Travel Advice**
 

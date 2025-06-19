@@ -8,9 +8,9 @@ Do Not Travel
 
 **The Department of Foreign Affairs continues to advise against all travel to Iran for Irish citizens.**
 
-Due to the ongoing military strikes in Iran, if you are currently in Iran, you are advised to be vigilant, follow the advice of local authorities, including any orders to shelter in place.
+Due to the ongoing military strikes in Iran, the airspace remains closed. If you wish to leave Iran, and can do so safely, it is currently possible to do so via a land border to a bordering country. You should be aware however that there may be challenges and risks involved, including potential restrictions for foreign travellers or dual nationals travelling to or crossing into bordering countries. Entry to bordering countries is not straightforward and you should inform yourself of any visa or paperwork requirements to enter a bordering country. Borders may close at short notice.
 
-Iranian airspace is currently closed, with no flights departing the country. The security situation could deteriorate further with little warning. If you have the means to leave the country safely by road you could consider doing so, however there may be security challenges associated with doing so, and borders could close at short notice.
+If you are not in a position to leave via a land border, we advise you to remain vigilant, monitor developments and media, as well as any advice from the authorities to shelter in place.
 
 The Department of Foreign Affairs and Trade is very limited in its ability to assist Irish citizens to leave Iran.
 
@@ -38,7 +38,7 @@ For more information on visas and passports, please see the Additional Informati
 
 Visitors to Iran are advised to follow the guidance of national and local authorities and stay fully informed of what is going on by monitoring local news and social media.
 
-Citizens can also follow the [Department of Foreign Affairs on X](https://x.com/dfatravelwise?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) to ensure access to relevant updates and alerts.
+Citizens can also follow the [**Department of Foreign Affairs on X**](https://x.com/dfatravelwise?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) to ensure access to relevant updates and alerts.
 
 ### **Emergency Assistance**
 

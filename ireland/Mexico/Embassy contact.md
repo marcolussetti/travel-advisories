@@ -28,6 +28,4 @@ SM22, Cancún
 
 [Tel: +52 998 195 9063](tel:+52998 195 9063)
 
-Fax: +52 998 195 9063
-
 **Email:** [anthony.leeman@honoraryconsul.ie](mailto:anthony.leeman@honoraryconsul.ie)

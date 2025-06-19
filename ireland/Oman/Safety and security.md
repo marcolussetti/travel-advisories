@@ -1,5 +1,9 @@
 ## Safety and security
 
+### Regional tensions
+
+Ongoing hostilities in Iran, Israel, and Palestine may escalate leading to possible attacks on military installations; and/or on strategic infrastructure. Debris from intercepted missiles or drones may cause localised damage over urban areas. The most immediate risk remains delay or cancellation of flights.
+
 Do not travel to the Yemen border area due to the risk of terrorism and conflict.
 
 ### **Social unrest**

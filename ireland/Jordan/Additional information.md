@@ -8,7 +8,7 @@ Passports must be valid for at least six months from date of entry into Jordan.
 
 ### **Regional Travel**
 
-If you travel between Jordan and Israel, you may experience difficulties or be refused entry to some other countries in the region if your passport has evidence of travel to Israel. This includes entry and exist stamps issued at the border crossing in Jordan or if your luggage has stickers indicating you have been to Israel.
+Travel between Jordan and Israel remains possible but the wider regional situation means that border crossings are subjected to long delays, added checks and unforeseen closures. If you travel to Israel, you may experience difficulties or be refused entry to some other countries in the region if your passport has evidence of travel to Israel. This includes entry and exist stamps issued at the border crossing in Jordan, or if your luggage has stickers indicating you have been to Israel.
 
 ### **Water**
 

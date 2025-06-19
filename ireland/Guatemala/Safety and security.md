@@ -16,7 +16,7 @@ Crime and violence are prevalent throughout Guatemala, and the security situatio
 * Do not carry your passport unless absolutely necessary and leave a copy of your passport (as well as travel and insurance documents) with family or friends at home.
 * Avoid showing large sums of money in public and using ATMs after dark, especially if alone. Check no one has followed you after conducting your business.
 * Avoid dark and unlit streets and stairways, and arrange to be picked up or dropped off as close to your hotel or apartment entrance as possible.
-* Keep a close eye on your personal belongings and hold on to them in public places such as internet cafés, train and bus stations.
+* Keep a close eye on your personal belongings and hold on to them in eating places, while on transportation and in other crowded areas.
 * Avoid travelling alone, particularly in remote areas.
 
 While most incidents involve local gangs, crime can be indiscriminate and can occur in tourist areas. Tourists may be directly targeted, or may be affected as a bystander or passer-by. Visitors should exercise caution when travelling in all areas of the country and avoid travelling on your own at night. Beware of scams.
@@ -43,4 +43,4 @@ It is generally safer to travel on main roads. There is a greater risk of attack
 
 There have been numerous reports of customs/immigration officials charging an “entry fee”. This is illegal. By asking for an official receipt for money you may find that the “fee” is dropped.
 
-Pay attention to your security in the border areas with Mexico, Honduras, El Salvador and Belize. There have been reports of disruptions and tensions at the Mexico-Guatemala border. Take particular care in the Belize/Guatemala border area because of the ongoing dispute between the two countries. Only use the officially recognised border crossings.
+Pay attention to your security in the border areas with Mexico, Honduras, El Salvador and Belize. There have been recent reports of disruptions and violence at the Mexico-Guatemala border, particularly in the Chiapas and Huehuetenango zones. Care should also be taken in the Belize/Guatemala border area because of the ongoing dispute between the two countries.
