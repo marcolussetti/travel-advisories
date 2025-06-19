@@ -2,6 +2,8 @@
 
 Latest update
 
+Due to the deteriorating security environment in Iran, the Australian Embassy remains closed. We urge Australians who want to leave Iran to do so now, if it is safe, otherwise shelter in place.   
+  
 If you're an Australian citizen or permanent resident in Iran, you can now register on the Department of Foreign Affairs and Trade's crisis registration portal. See the 'Safety' section for details on how to register. We will communicate directly with registered Australians with important updates.  
   
 We continue to advise do not travel to Iran. Following military strikes in Iran, Australians should shelter in place and take the advice of local authorities. See our advice on safety during an armed conflict (see ‘Safety’). The security situation could continue to deteriorate rapidly. If you're in Iran, you should depart when it's safe to do so. The Australian Government may not be able to assist with your departure.  
@@ -45,7 +47,8 @@ Do not travel to Iran due to the volatile regional security situation and the ri
 * Terrorist attacks could happen anywhere in Iran, including Tehran or other locations frequented by foreigners and tourists. They could occur at any time with little or no warning. Avoid possible targets and areas with a low level of security. Possible targets for attacks include embassies, hotels, places of worship, tourist sites, government interests, military parades and locations, Western businesses and other interests. Take official warnings seriously.
 * Regional tensions are high and could escalate rapidly. There is ongoing hostility between Iran and Israel and military tensions between Iran, the US and other countries in the Middle East. The Iran-Iraq, Iran-Afghanistan, and Iran-Pakistan border areas can be volatile and remain extremely dangerous.
 * The security situation could continue to deteriorate rapidly. Flight cancellations and disruptions could continue with little or no notice, including due to airport and airspace closures. If you're in Iran, you should depart when it's safe to do so.
-* Due to the risk of a deteriorating security environment, the Australian Government has offered voluntary departures to Australia for dependants of Australian officials posted to Iran.
+* Due to the deteriorating security environment in Iran, the Australian Embassy remains closed. We urge Australians who want to leave Iran to do so now, if it is safe, otherwise shelter in place.
+* The Australian Government has offered voluntary departures to Australia for dependants of Australian officials posted to Iran.
 * Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice.
 * Demonstrations and protests are expected. Small, local protests continue in parts of Iran. Previously, security forces' response to protests has been severe, and many protesters and bystanders have been injured, killed or detained. There has been an increase in the number of foreign nationals arrested during previous protests. Avoid all demonstrations and protests.
 * Australians, including dual nationals, should strongly consider leaving Iran as soon as possible. Foreigners in Iran, including Australians, are at a high risk of arbitrary detention or arrest. Foreign and dual nationals have been detained without due process of law. Iran does not recognise dual nationality. Our ability to provide consular support to dual Australian-Iranian nationals is extremely limited. We can't guarantee access to consular services or legal representation if you're detained or arrested.

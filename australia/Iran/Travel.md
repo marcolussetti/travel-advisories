@@ -12,7 +12,7 @@ As of Monday, June 16, the land border with Armenia (at Agarak) was open.  Aust
 
 [**Azerbaijan**](https://www.smartraveller.gov.au/destinations/europe/azerbaijan)
 
-Azerbaijan authorities have reopened the crossing on its southern border at Astara for ‘exceptional’ crossing by third country nationals. If you wish to depart at this border we will need to register your details with Azerbaijan authorities for you to obtain a border crossing code (for Australian passport holders). If accepted, you will still need visas to enter Azerbaijan. Australians require a visa which they should be able obtain online. You can contact the Australian Embassy in Tehran for assistance with obtaining the border crossing code. Some travellers have been able to cross into Azerbaijan at Astara without this code.
+Azerbaijan authorities have reopened the crossing on its southern border at Astara for ‘exceptional’ crossing by third country nationals. If you wish to depart at this border we will need to register your details with Azerbaijan authorities for you to obtain a border crossing code (for Australian passport holders). We will communicate details to registered Australians. If accepted, you will still need visas to enter Azerbaijan. Australians require a visa which they should be able obtain online. Some travellers have been able to cross into Azerbaijan at Astara without this code.
 
 [**Turkmenistan**](https://www.smartraveller.gov.au/destinations/asia/turkmenistan)
 

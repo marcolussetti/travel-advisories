@@ -2,7 +2,9 @@
 
 Latest update
 
-We've reviewed our advice for Turkmenistan and have lowered the overall travel advice level. We now advise exercise a high degree of caution overall due to the threat of crime. We continue to advise do not travel to the region bordering Afghanistan (see 'Safety'). You need a visa and a letter of invitation for Turkmenistan, even if you're only transiting. Get a visa before you arrive, and don't overstay your visa, as there are penalties (see 'Travel').
+We continue to advise exercise a high degree of caution overall due to the threat of crime. We continue to advise do not travel to the region bordering Afghanistan (see 'Safety'). You need a visa and a letter of invitation for Turkmenistan, even if you're only transiting. Get a visa before you arrive, and don't overstay your visa, as there are penalties (see 'Travel').  
+  
+The Iran-Turkmenistan border is open for humanitarian purposes, including for transit of foreign citizens in Iran. We are currently working with Turkmen authorities to facilitate humanitarian transit entry into Turkmenistan for Australian citizens. If you are an Australian citizen seeking humanitarian transit entry from Iran into Turkmenistan, contact the Australian Embassy in Moscow (see 'Travel' below) and attach a copy of your Australian passport.
 
 Advice Level summary
 
@@ -62,6 +64,7 @@ Full travel advice: [Local laws](#local-laws)
 
 ### Travel
 
+* The Iran-Turkmenistan border is open for humanitarian purposes, including for transit of foreign citizens in Iran.  We are currently working with Turkmen authorities to facilitate humanitarian transit entry into Turkmenistan for Australian citizens. If you are an Australian citizen seeking humanitarian transit entry from Iran into Turkmenistan, contact the Australian Embassy in Moscow via email ([consular.moscow@dfat.gov.au](mailto:consular.moscow@dfat.gov.au)) and attach a copy of your Australian passport.
 * You need a letter of invitation from the State Migration Service of Turkmenistan to apply for a visa, even if you're only transiting. You must keep the letter of invitation with you when you are in Turkmenistan.
 * Get a visa before you arrive. There are penalties for overstaying your visa. Entry and exit conditions can change at short notice. You should contact the nearest embassy or consulate of Turkmenistan for the latest details.
 * You must take a COVID-19 (PCR) test on arrival, and if your test results are positive, you may be required to quarantine in a state-run facility or at your place of residence under medical supervision.

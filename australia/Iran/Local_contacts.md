@@ -38,6 +38,8 @@ For consular assistance, contact the Australian Embassy in Tehran.
 
 #### Australian Embassy
 
+#### \*\*Due to the deteriorating security environment in Iran, the Australian Embassy remains closed.\*\*
+
 No.11, Yekta Street  
 Bahar Street, Shahid Fallahi Street  
 Valie Asr Avenue  
