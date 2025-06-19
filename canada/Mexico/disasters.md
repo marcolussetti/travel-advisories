@@ -2,9 +2,9 @@
 
 ## Natural disasters and climate
 
-### Tropical Storm Erick
+### Hurricane Erick
 
-Tropical Storm Erick is expected to make landfall as a hurricane between Bahías de Huatulco and Acapulco on June 19, 2025.
+Hurricane Erick is expected to make landfall as a hurricane between Tecpan de Galeana and Puerto Angel on June 19, 2025.
 
 The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
 

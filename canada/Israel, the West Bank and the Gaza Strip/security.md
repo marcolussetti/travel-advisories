@@ -2,29 +2,29 @@
 
 ## Safety and security
 
-### Ongoing hostilities with Iran
-
-There are ongoing hostilities between Israel and Iran.
+### Ongoing hostilities between Israel and Iran
 
 Drones, missiles and other projectiles have struck targets in Israel. Further attacks are likely to occur. Interceptions can produce falling military debris in Israel, Jerusalem and the West Bank.
 
-A nationwide state of emergency is currently in effect in Israel.
+A nationwide state of emergency is currently in effect in Israel. You should remain close to a bomb shelter or be prepared to shelter in a hardened structure away from windows in case air raid sirens activate.
 
-Ben Gurion International Airport is closed. All flights to and from Israel are cancelled until further notice.
+Ben Gurion International Airport is closed. All flights to and from Israel are cancelled until further notice. The Israeli government announced plans to coordinate future evacuation flights for tourists. You can register through this [form](https://govforms.gov.il/mw/forms/TouristEvacuationFromIsrael@tourism.gov.il?displang=en&gbxid=0) created by the Israeli Ministry of Tourism.
 
-If you have a valid Canadian passport, wish to leave Israel and can do so safely, note that there are border crossing options:
+If you wish to leave Israel now and can do so safely, commercial land or maritime options out of the country may be available.
+
+The following land border crossing options can currently be reached by commercial transportation means:
 
 * To Jordan:
-  + Jordan River/Sheikh Hussein Bridge, in the north of Israel
-  + Allenby/King Hussein Bridge, near Jericho in the West Bank
-  + Yitzak/Aqaba, near Eilat in the south of Israel
-
-You will need to obtain a visa online or from a Jordanian diplomatic mission prior to travelling if you’re planning on entering Jordan at the King Hussein Bridge (Allenby) border crossing.
+  + Jordan River/Sheikh Hussein Bridge, in the north of Israel (visa available on-arrival)
+  + Allenby/King Hussein Bridge, near Jericho in the West Bank (visa required prior to crossing)
+  + Yitzak/Aqaba, near Eilat in the south of Israel (visa available on-arrival)
 
 * To Egypt:
-  + Menahem Begin/Taba, from southern Israel into the Sinai Peninsula
+  + Menahem Begin/Taba, from southern Israel into the Sinai Peninsula (visa available on-arrival)
 
-The security situation may result in disruptions to movement and transportation, including border closures or restrictions, especially in the West Bank. These restrictions could make it difficult to reach the Allenby border crossing.
+If you travel to a border crossing to leave Israel or the West Bank, you do so at your own risk. The border of Gaza is closed.
+
+The security situation may result in disruptions to movement and transportation, including border closures or restrictions, especially in the West Bank. These restrictions could make it difficult to reach the Allenby border crossing, which is the only exit option for West Bank ID holders, even if you have a Canadian passport.
 
 Check the status of the border crossings before heading there, and be aware that your personal situation could increase the risks to your safety and security in the country you’re crossing into. It could also affect your ability to enter. Israeli authorities recommend that their nationals avoid returning to Israel overland via Jordan and the Sinai Peninsula in Egypt due to high security threats.
 
@@ -32,15 +32,15 @@ You should:
 
 * monitor local and international media to stay informed of the rapidly evolving situation
 * identify the location of the closest bomb shelter, if available
-* shelter in a hardened structure, away from windows, when air raid warning sirens are active, if there are no bomb shelters nearby
 * follow the instructions of local authorities, including air-raid sirens and evacuation or shelter in place orders
 * move away immediately and contact local authorities if you encounter unexploded ordnance, military debris or fragments
 * register or update your personal information with the Registration of Canadians Abroad service to receive the latest updates.
 * ensure that your travel documents and those of your family are up to date
 
-#### Useful links
+**Useful links**
 
 * [Home Front Command](https://www.oref.org.il/en) (only available in Israel)
+* [Status of border crossings](https://www.iaa.gov.il/en/) – Israel Airport Authority (only available in Israel)
 * [Registration of Canadians Abroad service](https://travel.gc.ca/travelling/registration)
 * [Canada's response to the situation in the Middle East](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=eng)
 * [Message to Israelis abroad](https://www.gov.il/en/pages/travelwarningsjune1) – National Security Council of Israel

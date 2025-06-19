@@ -2,6 +2,10 @@
 
 ## Natural disasters and climate
 
+### Climate change
+
+Climate change is affecting Cuba. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local media for the latest information.
+
 ### Hurricane season
 
 Hurricanes usually occur from mid-May to the end of November. During this period, even small tropical storms can quickly develop into major hurricanes.
@@ -25,7 +29,9 @@ If you decide to travel to a coastal area during the hurricane season despite th
 
 The rainy season extends from April to October.
 
-Seasonal flooding can hamper overland travel and reduce the delivery of essential services. Roads may become impassable due to mudslides and landslides. Bridges, buildings, and infrastructure may be damaged.
+Seasonal flooding can hamper overland travel and reduce the delivery of essential services. Roads may become impassable due to mudslides and landslides. Infrastructure may be damaged.
+
+[Floods – What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/flds-wtd/index-en.aspx)
 
 ### Earthquakes
 
@@ -41,4 +47,4 @@ In the event of an earthquake:
 #### Useful links
 
 * [Earthquakes – What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx)
-* [Latest earthquakes](https://earthquake.usgs.gov/earthquakes/map/) - U.S. Geological Survey
+* [Latest earthquakes](https://earthquake.usgs.gov/earthquakes/map/) – U.S. Geological Survey

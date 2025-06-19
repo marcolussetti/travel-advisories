@@ -2,23 +2,31 @@
 
 ## Safety and security
 
-### Ongoing hostilities with Israel
+### Ongoing hostilities between Israel and Iran
 
-There are ongoing hostilities between Israel and Iran. Drones, missiles and other projectiles have struck targets in Iran.
+Drones, missiles and other projectiles have struck targets in Iran.
 
 Further attacks are likely to occur. Interceptions could produce falling military debris in various locations.
 
-If you have a valid Canadian passport, wish to leave Iran and can do so safely, note that there are border crossing options:
+You should remain close to a bomb shelter or be prepared to shelter in a hardened structure away from windows in case air raid sirens activate.
+
+If you wish to leave Iran and can do so safely, note that there are border crossing options:
 
 * To Türkiye:
-  + Qator/Kapıköy
-  + Bazargan/Gürbulak
-  + Sero/Esendere
+
++ Qator/Kapıköy
++ Bazargan/Gürbulak
++ Sero/Esendere
 
 * To Armenia:
-  + Nordoz/Agarak
 
-If you have dual Canadian-Iranian citizenship, Iranian border officials may require you to exit Iran on your Iranian passport.
++ Nordoz/Agarak
+
+You must have valid travel documents. If you have dual Canadian-Iranian citizenship, Iranian border officials may require you to exit Iran on your Iranian passport.
+
+If you travel to one of Iran’s border crossings to leave the country, you do so at your own risk.
+
+We understand that there are connectivity problems in Iran. If possible, try to register or update your personal information through the [Registration of Canadians Abroad service](https://travel.gc.ca/travelling/registration) to receive the latest information about departure options. If you are unable to do so, try to contact Global Affairs Canada’s 24/7 [Emergency Watch and Response Centre](https://travel.gc.ca/assistance/emergency-assistance?_ga=2.93069341.168187391.1696947682-2043183889.1686925125).
 
 Missile and drone exchanges between Israel and Iran may result in disruptions to movement and transportation, including:
 
@@ -30,7 +38,6 @@ You should:
 
 * monitor local and international media to stay informed of the rapidly evolving situation
 * identify the location of the closest bomb shelter, if available
-* shelter in a hardened structure away from windows when air raid warning sirens are active if there are no bomb shelters available
 * follow the instructions of local authorities, including air-raid sirens and evacuation or shelter in place orders
 * move away immediately and contact local authorities if you encounter unexploded ordnance, military debris or fragments
 

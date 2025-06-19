@@ -269,11 +269,11 @@ To lower your risk of getting sexually transmissible infections (STIs), HIV, and
 
 Good health care is limited in availability.
 
-The health system is government-owned. The Cuban government operates hospitals and clinics throughout the island.
+The health system is state-run. The Cuban government operates all hospitals and clinics throughout the island.
 
 Medical professionals are generally adequately trained. However, facilities are in poor condition. They lack basic drugs, medical supplies and equipment. Hygiene practices may be inadequate.
 
-Medical services are also available at most hotels and international clinics located in resort areas, where doctors and nurses provide initial emergency medical care reserved for foreigners. Health care provided in those clinics is usually better than services offered in public facilities.
+Medical services are also available in most hotels and international clinics located in resort areas, in which doctors and nurses provide initial emergency medical care reserved for foreigners. Health care provided in these clinics is usually better than services offered in public facilities.
 
 Mental health care facilities are extremely limited. There are no hotlines available for this type of care in the country.
 
@@ -281,25 +281,25 @@ Emergency and ambulance services are limited. Response times may be slow, especi
 
 Make sure you get travel insurance that includes coverage for medical evacuation and hospital stays.
 
+Make sure you get travel insurance that includes coverage for medical evacuation and hospital stays.
+
 [Health and safety outside Canada](https://travel.gc.ca/travelling/health-safety)
 
 ### Medication
 
- Many prescription medications may not be available in Cuba.
+Many prescription medications may not be available in Cuba.
 
-If you take prescription medication, you’re responsible for determining their legality in the country.
+If you take prescription medications, you’re responsible for determining their legality in Cuba.
 
-* Bring enough of your medication with you
-* Always keep your medication in the original container
+* Bring enough medication for your stay
+* Always keep your medication in the original container and carry a copy of your prescriptions
 * Pack your medication in your carry-on luggage
 
-* Carry a paper and an electronic copy of your prescriptions
-
-Cuba faces severe medicine shortages, including antibiotics and common pain killers. In addition of your prescription medication, you should also bring your own basic medicine in sufficient quantities to last beyond the length of your intended stay.
+Cuba faces severe medicine shortages, including antibiotics and common pain killers. In addition to your prescription medication, you should also bring sufficient quantities of basic medicine.
 
 ### Fumigation
 
-Public health authorities implement insect control measures including periodic fumigation and aerial spraying.
+Public health authorities implement insect control measures, including periodic fumigation and aerial spraying.
 
 * Consult your doctor before traveling to see if the situation could affect you, especially if you suffer from respiratory ailments
 * Stay away from a nearby fumigation process
@@ -308,9 +308,9 @@ Public health authorities implement insect control measures including periodic f
 
 Standards of mortuary services in Cuba differ from those in Canada. Cultural and religious beliefs are not taken into consideration. Autopsies are mandatory.
 
-There is one funeral home and one morgue in the country which cater to foreigners. Both are located in Havana. Only these facilities have the authorization to issue appropriate documentation to accompany human remains. Timelines for the repatriation of human remains are long and costly.
+There is one funeral home and one morgue in the country that cater to foreigners. Both are in Havana. Only these facilities have the authorization to issue official documentation to accompany human remains. Repatriating human remains could be a costly process without insurance and can take a long time.
 
-The capacity for refrigeration is limited, as well as the availability of coffins and urns. Embalming materials and techniques are unlike those in Canada. Embalming may not be an option in some circumstances.
+The capacity for refrigeration of remains is limited, as is the availability of coffins and urns. Embalming materials and techniques are unlike those in Canada. Embalming may not be an option in some circumstances.
 
 Ensure your insurance includes coverage for the repatriation of human remains.
 

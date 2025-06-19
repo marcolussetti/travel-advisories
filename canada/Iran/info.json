@@ -1,7 +1,7 @@
 {
     "name": "Iran",
-    "update_reason": "Risk level; Safety and security \u2013 added information on border crossing options",
-    "update_date": "2025-06-16T17:49:00",
+    "update_reason": "Safety and security \u2013 updated information on ongoing hostilities between Iran and Israel",
+    "update_date": "2025-06-18T15:55:00",
     "sections": {
         "risk": "canada/Iran/risk.md",
         "security": "canada/Iran/security.md",

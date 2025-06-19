@@ -27,6 +27,6 @@
 
 ### Southwestern coast - Avoid non-essential travel
 
-[Avoid non-essential travel](#levels "Risk Levels") to the southwestern coast, from Bahías de Huatulco to Acapulco, due to Tropical Storm Erick.
+[Avoid non-essential travel](#levels "Risk Levels") to the southwestern coast, from Tecpan de Galeana to Puerto Angel, due to Hurricane Erick.
 
 [Natural disasters and climate](#disasters)

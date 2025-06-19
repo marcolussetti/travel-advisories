@@ -8,55 +8,60 @@ Learn about what you should do and how we can help if you are [arrested or detai
 
 ### Transfer to a Canadian prison
 
-Canada and Cuba accede the Treaty between the Government of Canada and the Government of the Republic of Cuba on the Serving of Penal Sentences. This enables a Canadian imprisoned in Cuba to request a transfer to a Canadian prison to complete a sentence. The transfer requires the agreement of both Canadian and Cuban authorities. This process can take a long time, and there is no guarantee that the transfer will be approved by either or both sides.
+A criminal conviction may lead to a jail sentence. Canadian citizenship confers no immunity, special protection or rights to preferential treatment.
 
-### Cuban criminal justice
+If a jail sentence is imposed, it will be served in a Cuban prison, unless a request for a transfer to a Canadian prison is approved by Cuba and Canada. Both countries have signed a treaty that permits a Canadian imprisoned in Cuba to request a transfer to complete the sentence in a Canadian prison.
 
-The criminal justice system in Cuba differs significantly from that in Canada. Charges are not laid until the investigation is complete. If you’re arrested in Cuba, you will likely be detained during the entire period of investigation. You should expect long delays to resolve your case. You will not be allowed to leave the country during this period.
+### Criminal justice system
+
+The criminal justice system in Cuba differs significantly from that in Canada. Charges are not laid until an investigation is complete. If you’re arrested in Cuba, you will likely be detained during the entire period of investigation. You should expect long delays to resolve your case. You will not be allowed to leave the country during this period.
 
 Cuba’s constitution allows the death penalty, but since 2003, the country has effectively had a moratorium on carrying out death sentences.
 
+### Money
+
+The currency of Cuba is the Cuban peso (CUP).
+
+Credit cards issued by U.S. financial institutions or affiliated with U.S. banks are not accepted in Cuba.
+
+Canadian credit cards are increasingly accepted at restaurants and hotels. However, the system is unreliable, and bank cards may not work or may stop working without notice.
+
+There are ATMs that accept certain cards, but they are unreliable and could have long lineups. Withdrawals are limited to 5,000 CUP.
+
+Some banks, or state-run exchange bureaus, will allow cash withdrawal using credit and debit cards but will provide the cash in CUP only.
+
+When travelling to Cuba, you should plan to bring enough cash to cover the duration of your stay. You should also plan for small banknotes to facilitate daily transactions such as street food, taxis, and tips.
+
+You can easily exchange Canadian dollars and certain other major international currencies for CUP at:
+
+* money exchange bureaus in Cuba’s international airports
+* banks
+* major hotels
+* official exchange bureaus
+
+It’s illegal to change money on the street or anywhere else other than authorized entities.
+
 ### Investments
 
-Private property rights in Cuba are strictly controlled. Only Cubans and permanent residents can buy a property in Cuba or register a privately owned vehicle. Be wary of strangers or acquaintances offering to purchase these items on your behalf. If you plan on making investments in Cuba, seek legal advice in Canada and Cuba. Do so before making commitments. Related disputes could take time and be costly to resolve.
+Private property rights in Cuba are strictly controlled. Only Cubans and permanent residents can buy a property in Cuba or register a privately owned vehicle. Be wary of strangers or acquaintances offering to purchase these items on your behalf. If you plan on making investments in Cuba, seek legal advice in Canada and Cuba before making commitments.
 
 ### Drugs
 
 Penalties for possession, use or trafficking of illegal drugs are severe. Convicted offenders can expect lengthy prison sentences.
 
 * Pack your own luggage and monitor it closely at all times
-* Don’t transport other people’s packages, bags or suitcases
+* Never transport other people’s packages, bags or suitcases
 
 [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
 
-### Child sex tourism
-
-It's a serious criminal offence to have sex with minors in Cuba.
-
-Local authorities are actively working to prevent child sex tourism. Tourists, including Canadians, have been convicted of offences related to the corruption of minors aged 16 and under.
-
-Prison sentences for this type of crime range from 7 to 25 years. Release on bail before trial is unlikely.
-
-[Child Sex Tourism: It’s a Crime](https://travel.gc.ca/travelling/publications/child-crime)
-
 ### Marriage
 
- To get married in Cuba, you must provide several documents including:
-
-* your birth certificate
-* a copy of your passport
-* your decree absolute certificate if divorced
-* a death certificate for your spouse and a marriage certificate if widowed
-* an affidavit of your single status if you have never been married before
-
-All documents must be translated into Spanish, certified, authenticated and legalised by the Embassy of Cuba in Canada.
-
- Consult the Embassy of Cuba in Canada if you wish to marry in Cuba, including to a Cuban national.
+To get married in Cuba, all documents you submit must be translated into Spanish, certified, authenticated, and legalised by the Embassy of Cuba to Canada, in Ottawa. Consult the Embassy of Cuba to Canada if you wish to marry in Cuba, including to a Cuban national.
 
 #### Useful links
 
-* [Foreign diplomatic missions and consulates in Canada](http://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng)
-* [Marriage overseas factsheet](https://travel.gc.ca/travelling/documents/marriage-overseas)
+* [Foreign Representatives in Canada](http://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng)
+* [Marriage outside Canada](https://travel.gc.ca/travelling/documents/marriage-overseas)
 
 ### Drones
 
@@ -66,9 +71,9 @@ They will be confiscated by the authorities upon entry.
 
 ### Photography
 
-Professional photographers require a visa to work in Cuba. They may also need a permit to import their equipment.
+Professional photographers require a visa to work in Cuba. If you are traveling to Cuba to work as a photographer, you may need a permit to import your equipment.
 
-It’s forbidden to photograph, including with drones:
+It’s forbidden to photograph:
 
 * military and police installations or personnel
 * harbour, rail and airport facilities
@@ -77,11 +82,10 @@ Military zones and any other restricted or heavily guarded areas are not always 
 
 ### Identification
 
-Authorities may request to see your ID at any time.
+Local authorities may request to see your identification at any time. By law, you must always carry valid identification.
 
-* Carry valid identification at all times
 * Keep a photocopy of your passport in case it’s lost or seized
-* Keep a digital copy of your ID and travel documents
+* Keep a digital copy of your identification and travel documents
 
 ### Dual citizenship
 
@@ -112,51 +116,7 @@ Be aware that Canadian consular officials cannot interfere in private legal matt
 * [Canadian embassies and consulates by destination](https://travel.gc.ca/assistance/embassies-consulates)
 * [Request emergency assistance](https://travel.gc.ca/assistance/emergency-assistance)
 
-### Imports and exports
-
-#### Personal effects and medicine
-
-Tourists are allowed to enter Cuba with personal effects but items entering the country for donations may be subject to import rules. They could be seized and taxed in accordance with local legislation. This includes:
-
-* clothing
-* new or used material goods
-* personal care products
-* medications
-
-Cuban customs officials have the authority to decide what they deem to be for the tourist's personal use. They may apply steep tariffs for personal baggage exceeding the allowable weight.
-
-#### Cigars
-
-You may export:
-
-* up to 20 cigars without documentation
-* up to 50 cigars if they are in their original container, closed and sealed with the official hologram
-
-If exceeding these amounts, you must provide a guarantee of origin certificate.
-
-Failure to comply with this regulation will lead to the seizure of the cigars without compensation.
-
-#### Art objects
-
-Art objects, including artifacts and paintings purchased in Cuba, must be accompanied by an export permit. It’s usually provided by state-owned galleries.
-
-In the absence of such a permit, items must be registered with the Registro Nacional de Bienes Culturales.
-
-[Ministry of Culture](https://www.ministeriodecultura.gob.cu/en/) – Government of Cuba
-
-#### Electronic devices
-
-Electronic devices with GPS technology may be confiscated upon entry and returned upon departure.
-
-Satellite telephones are forbidden.
-
-#### Electronic cigarettes and personal vaporizers
-
-You cannot bring electronic cigarettes or personal vaporizers to Cuba.
-
-Customs officials will seize these items upon arrival.
-
-#### Black market
+### Black market
 
 Street vendors may offer you black-market goods, such as cigars, or ask to change dollars for Cuban currency.
 
@@ -166,34 +126,30 @@ Engaging in black-market transactions is illegal and can lead to difficulties wi
 
 ### Boat traffic
 
-The U.S. government closely monitors boat traffic in the Straits of Florida. It will seize any vessel not bearing a licence from the Office of Foreign Assets Control (OFAC) if it believes it’s headed for Cuba.
+The U.S. government closely monitors boat traffic in the Straits of Florida. U.S. authorities will seize any vessel not bearing a licence from the Office of Foreign Assets Control (OFAC) if they believe it’s headed for Cuba.
 
-You’re subject to these measures if you dock your Canadian-registered boat in Florida. You’ll be exempted if you are simply en route to Cuba via the U.S.
+Vessels registered in Canada are exempt from these restrictions, unless you dock your boat in Florida while en route from Canada to Cuba. If you dock your vessel in Florida before travelling to Cuba, you must follow the OFAC regulations.
 
-If travelling by boat to Cuba from the US:
+If you travel by boat to Cuba from the U.S.:
 
-* Make sure to know the regulation related to docking and port controls
-* Expect thorough search and interrogations
+* make sure to know the regulations related to docking and port controls
+* expect thorough searches and interrogations
 
 ### Driving
 
-You should carry an international driving permit.
-
-[International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
-
 #### Traffic accidents
 
-Traffic accidents have led to arrest and detentions of Canadians in the past.
+Canadians have been arrested and detained due to traffic accidents.
 
-Accidents resulting in death or injury are treated as crimes. The onus is on the driver to prove innocence. If you’re found to bear responsibility in a traffic accident resulting in serious injury or death, you may face up to 10 years in prison.
+Accidents resulting in injury or death are treated as crimes. The driver must prove their innocence. If you’re found responsible in a traffic accident resulting in serious injury or death, you could face up to 10 years in prison.
 
 If you’re involved in an accident:
 
-* don’t leave the scene
-* don’t move your vehicle
+* do not leave the scene
+* do not move your vehicle
 * call the police
 
-While car insurance is mandatory for foreign drivers and foreign-registered vehicles, it's not for Cuban citizens. As a result, most local drivers don't carry a car insurance. You shouldn’t expect compensation for vehicle damage or personal injury from a Cuban driver following a car accident.
+Car insurance is mandatory for foreign drivers and foreign-registered vehicles, but not for Cuban citizens. As a result, most local drivers don't have car insurance. You shouldn’t expect compensation for vehicle damage or personal injury from a Cuban driver following a car accident.
 
 #### Vehicle rentals
 
@@ -206,30 +162,5 @@ Cuban authorities can prohibit you from leaving the country unless the rental ag
 Contract agreements don’t cover occasional drivers. As a result, the signatory is responsible for all people driving the vehicle.
 
 * Be cautious if you rent a vehicle in Cuba
-* Avoid renting a scooter; thieves target them and you may be responsible for the cost of its replacement
+* Avoid renting a scooter because thieves target them, and you may be responsible for the cost of its replacement
 * Make sure to obtain a receipt when returning a rental vehicle
-
-### Money
-
-The currency of Cuba is the Cuban peso (CUP).
-
-Credit cards issued by U.S. financial institutions or affiliated with U.S. banks are not accepted in Cuba.
-
-Canadian credit cards are increasingly accepted at restaurants and hotels. However, the system is unreliable and bank cards may not work or may stop working without notice.
-
-ATMs are rare and also unreliable. Each withdrawal is limited to 5 000 CUP, when possible.
-
-You may obtain credit card cash advances at banks, hotels or a state-run exchange bureau, but in CUP only.
-
-When travelling to Cuba, you should plan to bring enough currency to cover the duration of your stay. You should also plan for small bank notes to facilitate daily transactions such as, street food, taxis and tips.
-
-You can easily exchange Canadian and American dollars, as well as euros for CUP at:
-
-* the money exchange bureaus in Cuba’s international airports
-* banks
-* major hotels
-* official exchange bureaus
-
-It’s illegal to change money on the street or anywhere else other than authorized entities.
-
-You cannot go through Cuban customs with more than 5 000 CUP.
