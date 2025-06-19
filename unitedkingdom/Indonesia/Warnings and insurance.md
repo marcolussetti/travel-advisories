@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   9 April 2025
+:   19 June 2025
 
 Updated:
-:   8 April 2025
+:   18 June 2025
 
 Latest update:
-:   Updated information on the risks related to drugs, and of criminal gangs coercing people to carry drugs across borders (‘Safety and security’ page).
+:   Updated information on recent volcanic activity on Flores Island (‘Regional risks’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/6745db6083f3d6d843be9719/FCDO__TA__020_-_Indonesia_Travel_Advice_Ed9__WEB_.jpg)
 
@@ -18,34 +18,32 @@ Your travel insurance could be invalidated if you travel against advice from the
 
 ## Areas where FCDO advises against all travel
 
-### Mount Lewotobi Laki-Laki, East Nusa Tenggara
+### FCDO advises against all travel to a number of volcanoes in Indonesia:
 
-FCDO advises against all travel to within 7km of the crater of Mount Lewotobi Laki-Laki on Flores Island, East Nusa Tenggara Province. This is an exclusion zone put in place by the local authorities. Mount Lewotobi Laki-Laki erupted on 3 November 2024.
+### Mount Lewotobi Laki-Laki, on Flores Island, East Nusa Tenggara Province
 
-### Mount Sinabung, North Sumatra
+* to within 7km of the crater
 
-FCDO advises against all travel to within 5km of the Mount Sinabung crater in Karo Regency, North Sumatra. This is an exclusion zone put in place by the local authorities.
+### Mount Sinabung, Karo Regency, North Sumatra
+
+* to within 5km of the crater
 
 ### Mount Marapi, West Sumatra
 
-FCDO advises against all travel to within 3km of the crater of Mount Marapi in West Sumatra. This is an exclusion zone put in place by the local authorities.
+* to within 3km of the crater
 
-### Mount Semeru, East Java
+### Mount Semeru, Lumajang Regency, East Java
 
-FCDO advises against all travel to:
-
-* within 5 km of the crater of Mount Semeru in Lumajang Regency, East Java
-* the south-east area of Mount Semeru along the Besuk Kobokan river, approximately 13km from the crater, and 500m from any Besuk Kobokan riverbank
-
-These are exclusion zones put in place by the local authorities.
+* to within 5km of the crater
+* in the south-east of Mount Semura to within 500m from any riverbank of the Besuk Kobokan river for 13km from the crater
 
 ### Mount Ruang, Northern Sulawesi
 
-FCDO advises against all travel to within 7km of the crater of Mount Ruang in Northern Sulawesi. This is an exclusion zone put in place by the local authorities. Mount Ruang erupted on 16 April 2024.
+* to within 7km of the crater
 
-### Mount Ibu, North Maluku
+### Mount Ibu, North Maluku Province
 
-FCDO advises against all travel to within 7km of the crater of Mount Ibu in North Maluku Province. This is an exclusion zone put in place by the local authorities. Mount Ibu erupted on 6 June 2024.
+* to within 7km of the crater
 
 See [more details about why FCDO advises against travel](/foreign-travel-advice/indonesia/regional-risks).
 

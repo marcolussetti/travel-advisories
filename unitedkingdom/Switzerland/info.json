@@ -1,16 +1,21 @@
 {
     "name": "Switzerland",
-    "update_reason": "Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport ('Safety and security' page).",
+    "update_reason": "New information about the UEFA Women's Euro 2025 campaign that will be taking place in Switzerland from 2 to 27 July (See \u2018Women's Euro 2025\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Switzerland/Warnings and insurance.md",
-            "update_date": "2025-06-04T17:20:54+01:00"
+            "update_date": "2025-06-18T17:16:00+01:00"
         },
         {
             "title": "Entry requirements",
             "url": "https://www.gov.uk/foreign-travel-advice/switzerland/entry-requirements",
             "file": "unitedkingdom/Switzerland/Entry requirements.md"
+        },
+        {
+            "title": "Women's Euro 2025",
+            "url": "https://www.gov.uk/foreign-travel-advice/switzerland/womens-euro-2025",
+            "file": "unitedkingdom/Switzerland/Women's Euro 2025.md"
         },
         {
             "title": "Safety and security",
@@ -28,5 +33,5 @@
             "file": "unitedkingdom/Switzerland/Getting help.md"
         }
     ],
-    "update_date": "2025-06-04T17:20:54+01:00"
+    "update_date": "2025-06-18T17:16:00+01:00"
 }

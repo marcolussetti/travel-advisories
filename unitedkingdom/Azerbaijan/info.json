@@ -1,11 +1,11 @@
 {
     "name": "Azerbaijan",
-    "update_reason": "Updated information on dual nationality and the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport ('Entry requirements' and 'Safety and security' pages).",
+    "update_reason": "Updated information for British nationals wanting to enter Azerbaijan from Iran (\u2018Entry requirements\u2019 page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Azerbaijan/Warnings and insurance.md",
-            "update_date": "2025-06-04T17:01:48+01:00"
+            "update_date": "2025-06-18T20:58:06+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Azerbaijan/Getting help.md"
         }
     ],
-    "update_date": "2025-06-04T17:01:48+01:00"
+    "update_date": "2025-06-18T20:58:06+01:00"
 }

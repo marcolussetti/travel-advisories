@@ -71,6 +71,6 @@ Warnings and insurance](/foreign-travel-advice/switzerland)
 
 [Next
 :
-Safety and security](/foreign-travel-advice/switzerland/safety-and-security)
+Women's Euro 2025](/foreign-travel-advice/switzerland/womens-euro-2025)
 
 [View a printable version of the whole guide](/foreign-travel-advice/switzerland/print)

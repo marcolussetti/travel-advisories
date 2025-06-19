@@ -10,6 +10,16 @@ While Turkmenistan doesn’t require COVID-19 vaccination, all travellers must u
 
 Confirm the latest requirements with your Turkmen sponsor, or with the embassy that issued your visa if you have one. Check with your travel company or airline for changes.
 
+## Entering Turkmenistan across the Land Border from Iran
+
+If you are a British national wanting to enter Turkmenistan from Iran, you will need special authorisation from the Government of Turkmenistan. This can be facilitated by the British Embassy in Ashgabat by [contacting the FCDO](https://www.contact.service.csd.fcdo.gov.uk/home) before you travel to the border, indicating whether you are contacting from Iran or from the UK on behalf of a relative.
+
+You will need to provide personal details (name, date of birth, passport information).  Normal entry fees may also apply.
+
+Access to the internet and mobile phone networks is restricted in Turkmenistan. Make accommodation and onward travel arrangements in advance where possible.
+
+If you intend to leave Iran overland, you do so at your own risk. Read more FCDO advice [if you’re affected by a crisis abroad](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas).
+
 ## Passport validity requirements
 
 To enter Turkmenistan, your passport must have an ‘expiry date’ at least 6 months after the date you plan to leave Turkmenistan.

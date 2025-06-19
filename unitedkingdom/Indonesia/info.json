@@ -1,11 +1,11 @@
 {
     "name": "Indonesia",
-    "update_reason": "Updated information on the risks related to drugs, and of criminal gangs coercing people to carry drugs across borders (\u2018Safety and security\u2019 page).",
+    "update_reason": "Updated information on recent volcanic activity on Flores Island (\u2018Regional risks\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Indonesia/Warnings and insurance.md",
-            "update_date": "2025-04-08T16:36:57+01:00"
+            "update_date": "2025-06-18T14:29:52+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Indonesia/Getting help.md"
         }
     ],
-    "update_date": "2025-04-08T16:36:57+01:00"
+    "update_date": "2025-06-18T14:29:52+01:00"
 }

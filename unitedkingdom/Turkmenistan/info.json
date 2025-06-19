@@ -1,11 +1,11 @@
 {
     "name": "Turkmenistan",
-    "update_reason": "Updated guidance on taking dollars into Turkmenistan for exchange ('Entry requirements' page).",
+    "update_reason": "Updated information for British nationals wanting to enter Turkmenistan from Iran (\u2018Entry requirements\u2019 page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Turkmenistan/Warnings and insurance.md",
-            "update_date": "2025-02-13T16:50:17+00:00"
+            "update_date": "2025-06-18T20:57:50+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Turkmenistan/Getting help.md"
         }
     ],
-    "update_date": "2025-02-13T16:50:17+00:00"
+    "update_date": "2025-06-18T20:57:50+01:00"
 }

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   19 June 2025
 
 Updated:
-:   13 February 2025
+:   18 June 2025
 
 Latest update:
-:   Updated guidance on taking dollars into Turkmenistan for exchange ('Entry requirements' page).
+:   Updated information for British nationals wanting to enter Turkmenistan from Iran (‘Entry requirements’ page)
 
 ## Before you travel
 

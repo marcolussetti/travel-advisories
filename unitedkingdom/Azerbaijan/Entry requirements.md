@@ -4,6 +4,14 @@ This information is for people travelling on a full [‘British citizen’ passp
 
 The authorities in Azerbaijan set and enforce entry rules. If you’re not sure how these requirements apply to you, contact the [Azerbaijani Embassy in the UK.](https://london.mfa.gov.az/en)
 
+## Entering Azerbaijan across the Land Border from Iran
+
+The border between Azerbaijan and Iran is closed. British nationals might be able to cross the border with special authorisation from the Government of Azerbaijan, which must be facilitated by the British Embassy in Baku. British nationals who plan to request entry into Azerbaijan should [contact the FCDO](https://www.contact.service.csd.fcdo.gov.uk/home) before they travel to the border, indicating whether you are contacting from Iran or from the UK on behalf of a relative.
+
+British nationals will need to provide personal details (name, date of birth, passport information).  You will also need to apply for a visa through the normal process please see ‘applying for a visa’.
+
+If you intend to leave Iran overland, you do so at your own risk. Read more FCDO advice [if you’re affected by a crisis abroad](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas).
+
 ## Passport validity requirements
 
 To enter Azerbaijan as a visitor, your passport must usually have an ‘expiry date’ at least 6 months after the date you arrive and at least 2 blank pages for entry stamps. See ‘visa requirements’ for more details.

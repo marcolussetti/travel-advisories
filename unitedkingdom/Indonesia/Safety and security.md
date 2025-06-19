@@ -138,7 +138,11 @@ You must always carry your passport or stay permit (such as KITAS or KITAP).
 
 ### Illegal drugs and prison sentences
 
-Do not get involved with illegal drugs. Possession, trafficking and manufacture of any illegal drugs are serious offences in Indonesia. The Indonesian authorities have a zero-tolerance policy and those caught face lengthy prison sentences or a death penalty, usually after a protracted and expensive legal process. British nationals have been caught and given significant prison sentences for drug offences in Indonesia. Criminal gangs in the UK and elsewhere are known to coerce people into carrying drugs across borders. Do not allow yourself to be persuaded.
+Do not get involved with illegal drugs. Possession, trafficking and manufacture of any illegal drugs, including cannabis, are serious offences in Indonesia. The Indonesian authorities have a zero-tolerance policy and those caught face lengthy prison sentences or a death penalty, usually after a protracted and expensive legal process.
+
+British nationals have been caught and given significant prison sentences for drug offences in Indonesia. Criminal gangs in the UK and elsewhere are known to coerce people into carrying drugs across borders. Do not allow yourself to be persuaded.
+
+Airports in Indonesia have excellent technology and security for detecting illegal items, including cannabis. This is also used to scan the baggage of transiting passengers.
 
 If you are detained by the police, it is important to be aware of your rights. To assist you, we have [a guide to the legal and detention systems in Indonesia](https://www.gov.uk/government/publications/indonesia-prisoner-pack). The British Embassy strongly encourages adherence to local laws and regulations. Any payments requested after arrest, that you agree to, are at your own discretion.
 

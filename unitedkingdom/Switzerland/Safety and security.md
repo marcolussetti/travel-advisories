@@ -127,7 +127,7 @@ If you see a wildfire, call the fire department on 118.
 
 [Previous
 :
-Entry requirements](/foreign-travel-advice/switzerland/entry-requirements)
+Women's Euro 2025](/foreign-travel-advice/switzerland/womens-euro-2025)
 
 [Next
 :

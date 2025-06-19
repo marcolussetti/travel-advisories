@@ -1,13 +1,21 @@
 # Warnings and insurance
 
 Still current at:
-:   5 June 2025
+:   19 June 2025
 
 Updated:
-:   4 June 2025
+:   18 June 2025
 
 Latest update:
-:   Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport ('Safety and security' page).
+:   New information about the UEFA Women's Euro 2025 campaign that will be taking place in Switzerland from 2 to 27 July (See ‘Women's Euro 2025’ page).
+
+## Women’s Euro 2025
+
+The UEFA Women’s Euro 2025 tournament will take place in Switzerland from 2 to 27 July 2025.
+
+If you are travelling to Switzerland to attend the tournament, check the [Women’s Euro 2025 page](https://www.gov.uk/foreign-travel-advice/switzerland/womens-euro-2025).
+
+The tournament will take place in multiple cities around Switzerland. Fan zones will be set up, and transport networks may be busy around match times.
 
 ## Before you travel
 
