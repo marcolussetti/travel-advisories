@@ -2,7 +2,7 @@
 
 [#### Embassies and Consulates](javascript:void(0); "Embassies and Consulates")
 
-## [U.S. Embassy Ankara](https://tr.usembassy.gov/embassy-consulates/ankara/)
+## [U.S. Embassy Ankara](https://tr.usembassy.gov)
 
 1480 Sok No:1 Cukurambar Mah   
 Cankaya 06530, Ankara  
@@ -13,7 +13,7 @@ Fax: +(90) (312) 232-7472
 
 **Consulates**
 
-**[U.S. Consulate General Istanbul](https://tr.usembassy.gov/embassy-consulates/istanbul/)  
+**[U.S. Consulate General Istanbul](https://tr.usembassy.gov)  
 Istinye Mahallesi, Üç Şehitler Sokak No.2  
 Istinye 34460 – Istanbul, Turkey  
 Telephone:** +(90) (212) 335-9000  
@@ -21,7 +21,7 @@ Telephone:** +(90) (212) 335-9000
 **Fax:** +(90) (212) 335-9102  
 [Contact American Citizen Services Istanbul](https://tr.usembassy.gov/u-s-citizen-services/contact-acs-istanbul/)
 
-**[U.S. Consulate Adana](https://tr.usembassy.gov/embassy-consulates/adana/)  
+**[U.S. Consulate Adana](https://tr.usembassy.gov)  
 Girne Bulvari No. 212,  
 Güzelevler Mahallesi, Yüregir  
 Adana, Turkey  
@@ -30,6 +30,6 @@ Telephone:** +(90) (322) 455-4100
 **Fax:** +(90)(322) 455-4141  
 [Contact American Citizen Services Adana](https://tr.usembassy.gov/u-s-citizen-services/contact-acs-adana/)
 
-**[U.S. Consular Agent - Izmir](https://tr.usembassy.gov/u-s-citizen-services/contact-izmir-consular-agency/)  
+**[U.S. Consular Agent - Izmir](https://tr.usembassy.gov)  
 Emergency After-Hours Telephone:** +(90) (312) 455-5555  
 [Izmir@state.gov](mailto:Izmir@state.gov)

@@ -58,32 +58,27 @@ Read the [country information page](https://travel.state.gov/content/travel/en/i
 
 ### Assistance for U.S. Citizens
 
-Embassy of Switzerland
+U.S. Embassy Bern
 
-Pasdaran, Shahid Mousavi St.(Golestan 5th)  
-Corner of Paydarfard St., No. 55  
-Tehran, Iran
+null
 
 Telephone
 
-(98) (21) 2254-2178  
-(98) (21) 2256-5273
+U.S. Department of State, Bureau of Consular Affairs  
++1-888-407-4747  
++1-202-501-4444
 
 Emergency
 
-(41) (58) 465-3333
-
 Fax
-
-(98) (21) 2258-0432
 
 Email
 
-[tehran.fi@eda.admin.ch](mailto: tehran.fi@eda.admin.ch "Embassy email address: tehran.fi@eda.admin.ch")
+[BernACS@state.gov](mailto: BernACS@state.gov "Embassy email address: BernACS@state.gov")
 
 Website
 
-[http://www.eda.admin.ch/tehranfi](http://www.eda.admin.ch/tehranfi "Embassy website address of Embassy of Switzerland: http://www.eda.admin.ch/tehranfi")
+[https://ir.usembassy.gov/](https://ir.usembassy.gov/ "Embassy website address of U.S. Embassy Bern:  https://ir.usembassy.gov/")
 
 ### Iran Map
 

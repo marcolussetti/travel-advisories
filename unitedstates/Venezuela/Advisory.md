@@ -59,6 +59,7 @@ U.S. Embassy Caracas
 
 OPERATIONS SUSPENDED - MARCH 11, 2019
 
+**U.S. Embassy Bogota**  
 Calle 24 Bis No. 48-50 Bogotá, D.C. Colombia
 
 Telephone
