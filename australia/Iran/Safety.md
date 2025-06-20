@@ -2,23 +2,17 @@
 
 #### Security situation
 
-If you're an Australian citizen or permanent resident in Iran, you can now register on the Department of Foreign Affairs and Trade's [crisis registration portal](https://crisis.dfat.gov.au). We will communicate directly with registered Australians with important updates.
+The Australian Government has directed the departure of Australian officials from the Australian Embassy in Tehran due to the volatile security situation. Our Embassy and operations in Tehran are now closed.
 
-Regional tensions are high, and the security situation could deteriorate quickly with little or no notice. This may also result in airspace closures, flight cancellations, flight diversions, and other travel disruptions.
+The security situation is unpredictable and could deteriorate further with little warning. Our ability to provide consular assistance in Iran is extremely limited. Australians in need of consular assistance should call the Australian Government 24-hour Consular Emergency Centre on 1300 555 135 in Australia or +61 2 6261 3305 outside Australia. 
 
-The security situation in Iran remains volatile. Tensions in the region may escalate further, due to ongoing hostility between Iran and Israel, and military tensions between Iran, the US, and other countries in the Middle East.
+We urge Australians who want to leave Iran to do so now, if it is safe. Australians in Iran who are unable to leave, or do not wish to leave, are advised to shelter in place. Be alert and aware of your surroundings. Continue to monitor advice on Smartraveller. 
 
-If despite our advice you go to Iran, or decide to stay there, monitor media for possible threats and take extra precautions for your safety:
+If you're an Australian citizen or permanent resident in Iran, you can now register on the Department of Foreign Affairs and Trade's [crisis registration portal](https://crisis.dfat.gov.au/). We will communicate directly with registered Australians with important updates.
 
-* keep a low profile.
-* keep in contact with family and friends
-* don't travel alone or at night
-* check routes before you travel
-* don't put your travel or other plans on social media
-* work with only reliable, registered and authorised organisations and travel agencies
-* don't carry large amounts of cash
+Following military strikes in Iran, Australians in Iran should See our general advice on protecting your safety during an [armed conflict](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.smartraveller.gov.au%2Fbefore-you-go%2Fstaying-safe%2Farmed-conflict&data=05%7C02%7CNick.Casey%40dfat.gov.au%7Cf7a16e079aae4d0a5d7a08ddaf319fe6%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638859349862342955%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=QE9kKbjy3JBq9HBcjm9MLOGV44ozJr8x4xdFgmyHsx0%3D&reserved=0)..  The Australian Government may not be able to assist with your departure.
 
-Flight cancellations and disruptions could continue with little or no notice, including due to airport and airspace closures. If you're in Iran, you should depart when it's safe to do so. The Australian Government may not be able to assist with your departure. Check the latest flight status with your airline or travel provider and make arrangements in case you can’t leave. Share those plans with family and friends.
+If you intend to travel by land into a neighbouring country, check the latest public information from local authorities in Iran and your destination on visa and border arrangements. Borders may close without notice. See Travel for more information.
 
 Iranian authorities are active in and closely monitor border areas with Iraq, Afghanistan and Pakistan. The security situation within 10km of the Iran-Iraq border is extremely dangerous.
 
@@ -27,8 +21,6 @@ Do not visit military or nuclear sites; these are not always clearly marked. Eve
 #### Civil unrest and political tension
 
 Political developments in the region and local political tensions can trigger protests, demonstrations and vigils with little notice. Public protests and events that draw large groups of people can potentially turn violent.
-
-Australian embassy staff and their families in Tehran have been advised to monitor their surroundings and avoid protest areas.
 
 Some airlines may cancel flights at short notice in response to security developments - check with your airline.
 
@@ -72,8 +64,6 @@ You may be at greater risk of detention if authorities are suspicious of your ac
 Iran does not recognise dual nationality. If you're a dual Australian-Iranian national and are detained in Iran, our ability to provide consular support is extremely limited.
 
 The Australian Government may not be notified if you're detained. We can't guarantee consular access to any Australian detained or arrested. We also can't guarantee access to legal representation.
-
-If you're in Iran, you should leave as soon as possible.
 
 **More information:**
 

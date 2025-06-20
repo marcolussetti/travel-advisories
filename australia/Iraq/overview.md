@@ -6,6 +6,10 @@ We continue to advise do not travel to Iraq due to the volatile security environ
   
 Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions.   
   
+If you intend to travel by land into a neighbouring country, check the latest public information from local authorities in Iraq and your destination on visa and border arrangements. Borders may close without notice. You should consider the risks carefully before attempting to leave by any route and you should make your own assessment whether it's safe for you to travel in current circumstances. This includes considering the security situation and the potential risks involved. If you are not confident in the safety and reliability of any departure option, follow the advice of local authorities.   
+  
+Iraq’s borders with neighbouring countries may have restrictions for foreign nationals and may close at short notice. Check our travel advice for your destination including visa requirements.   
+  
 Terrorist attacks can occur without warning. Avoid possible targets including markets, transport hubs, places of worship and government facilities.  
   
 The US Embassy in Baghdad issued a security alert on 15 June warning of an increased potential for terrorist attacks and to avoid locations frequented by foreigners (see ‘Safety’).  
@@ -36,6 +40,7 @@ See [Safety](#safety).
 * Terrorist attacks can occur without warning. Avoid possible targets such as crowded places and public spaces, including markets, transport hubs, places of worship and government facilities. If you must visit them, always have an exit plan.
 * The US Embassy in Baghdad issued a [security alert](https://iq.usembassy.gov/security-alert-for-u-s-citizens-u-s-embassy-iraq-june-15-2025/) on 15 June warning of an increased potential for terrorist attacks. Avoid locations frequented by foreigners and any large gatherings or crowds.
 * Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions.
+* If you intend to travel by land into a neighbouring country, check the latest public information from local authorities in Iraq and your destination on visa and border arrangements. Borders may close without notice. You should consider the risks carefully before attempting to leave by any route and you should make your own assessment whether it's safe for you to travel in current circumstances. This includes considering the security situation and the potential risks involved. If you are not confident in the safety and reliability of any departure option, follow the advice of local authorities. Iraq’s borders with neighbouring countries may have restrictions for foreign nationals and may close at short notice. Check our travel advice for your destination including visa requirements.
 * Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests.
 * If you decide to travel to Iraq, despite our advice, you should remain vigilant. Ensure you have robust security arrangements and contingency plans in place. You should get professional security advice and keep up to date with the latest developments.
 * Large protests and political rallies occur regularly across Iraq. These can quickly turn violent. Avoid large public gatherings. If you're caught in an affected area, stay indoors. Follow the advice of local authorities or your security provider.

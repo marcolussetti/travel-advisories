@@ -4,7 +4,7 @@ Latest update
 
 We continue to advise exercise a high degree of caution in Bahrain due to the threat of terrorism and risk of civil unrest.  
   
-Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions. Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests. Monitor local and international media. If there's a security incident, follow the advice of local authorities (see 'Safety').
+Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions. Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests (see 'Safety').
 
 Advice Level summary
 
@@ -25,9 +25,10 @@ Exercise a high degree of caution in Bahrain due to the threat of terrorism and 
 ### Safety
 
 * Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions. There's an ongoing threat of attacks against Israeli interests across the region.
-* Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests.
+* Ongoing hostilities pose serious security risks across the region. Bahrain is host to regional security infrastructure, including the Combined Maritime Forces
 * Terrorism is a worldwide threat. Terrorist attacks could occur anywhere and at any time. Be alert to possible threats, especially in public places. Terrorists may target tourist areas or other places frequented by foreigners and where large crowds gather. Take official warnings seriously. If there's a security incident, follow the advice of local authorities.
-* Protests and clashes occur. Public rallies and meetings of large groups are illegal. Don't get caught up in demonstrations. Take care around Friday prayers due to the possibility of unrest.
+* Demonstrations and protests may also occur, including those against foreign governments. Local security situations could deteriorate with little notice. Avoid all demonstrations and protests.
+* Public rallies and meetings of large groups are illegal. Don't get caught up in demonstrations. Take care around Friday prayers due to the possibility of unrest.
 * The level of crime overall in Bahrain is low, although pickpocketing and bag snatching occurs. Take care near the old market areas (souks).
 * The weather is very hot from June to August. Sandstorms and dust storms are common. Monitor local media for updates.
 

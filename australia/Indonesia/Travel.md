@@ -6,8 +6,6 @@
 
 #### Travel to Bali
 
-Some flights between Australia and Bali have been cancelled or postponed due to volcanic ash from Mt Lewotobi Laki-Laki. If your flight is affected, contact your airline and insurance provider for alternative travel and accommodation arrangements.
-
 Before travelling to Bali, read the [Bali Provincial Government's official 'Do's and Don'ts' advice](https://lovebali.baliprov.go.id/article/detail/1686289659500/the-provincial-government-of-bali-issued-an-official-%E2%80%9Cdo-and-don%E2%80%99t%E2%80%9D-card-for-foreign-tourist-while-in-bali) for foreign tourists. Failure to observe local customs and laws may lead to criminal penalties and/or deportation.
 
 Foreign tourists entering Bali are subject to a tourist levy of IDR 150,000 per person. The tourist levy is separate from the e-Visa on Arrival or the Visa on Arrival. Cashless payments can be made online prior to travel or on arrival at designated payment counters at Bali's airport and seaport. Exemption from payment of the levy applies to transit passengers and certain visa holders. See the [Bali Provincial Government's](https://lovebali.baliprov.go.id/home) official website and [FAQs](https://lovebali.baliprov.go.id/faq) for further information.

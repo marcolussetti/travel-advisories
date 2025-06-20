@@ -50,7 +50,7 @@
     {
         "destination": "Bahrain",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-06-13T12:00:00Z",
+        "last_updated": "2025-06-20T12:00:00Z",
         "url": "https://www.smartraveller.gov.au/destinations/middle-east/bahrain"
     },
     {
@@ -260,7 +260,7 @@
     {
         "destination": "Egypt",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-06-13T12:00:00Z",
+        "last_updated": "2025-06-20T12:00:00Z",
         "url": "https://www.smartraveller.gov.au/destinations/africa/egypt"
     },
     {
@@ -416,19 +416,19 @@
     {
         "destination": "Indonesia",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-06-18T12:00:00Z",
+        "last_updated": "2025-06-20T12:00:00Z",
         "url": "https://www.smartraveller.gov.au/destinations/asia/indonesia"
     },
     {
         "destination": "Iran",
         "risk_level": "Do not travel",
-        "last_updated": "2025-06-19T12:00:00Z",
+        "last_updated": "2025-06-20T12:00:00Z",
         "url": "https://www.smartraveller.gov.au/destinations/middle-east/iran"
     },
     {
         "destination": "Iraq",
         "risk_level": "Do not travel",
-        "last_updated": "2025-06-16T12:00:00Z",
+        "last_updated": "2025-06-20T12:00:00Z",
         "url": "https://www.smartraveller.gov.au/destinations/middle-east/iraq"
     },
     {
@@ -440,7 +440,7 @@
     {
         "destination": "Israel and the Occupied Palestinian Territories",
         "risk_level": "Do not travel",
-        "last_updated": "2025-06-18T12:00:00Z",
+        "last_updated": "2025-06-20T12:00:00Z",
         "url": "https://www.smartraveller.gov.au/destinations/middle-east/israel-and-occupied-palestinian-territories"
     },
     {
@@ -812,7 +812,7 @@
     {
         "destination": "Saudi Arabia",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-06-13T12:00:00Z",
+        "last_updated": "2025-06-20T12:00:00Z",
         "url": "https://www.smartraveller.gov.au/destinations/middle-east/saudi-arabia"
     },
     {
@@ -992,7 +992,7 @@
     {
         "destination": "T\u00fcrkiye",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-04-28T12:00:00Z",
+        "last_updated": "2025-06-20T12:00:00Z",
         "url": "https://www.smartraveller.gov.au/destinations/europe/turkiye"
     },
     {

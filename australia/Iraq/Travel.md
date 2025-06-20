@@ -29,7 +29,7 @@ For a child travelling without a parent, the guardian must carry documentation s
 
 If despite our advice, you travel to border areas note that border crossings can close with little or no warning.
 
-Sensitive border areas, especially with [Syria](/destinations/middle-east/syria "Syria") and [Türkiye](/destinations/europe/turkiye "Türkiye"), are military targets.
+Sensitive border areas can potentially be military targets.
 
 #### Checkpoints
 

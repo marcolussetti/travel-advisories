@@ -365,8 +365,6 @@ If you plan to spend time in or on the water:
 
 #### Climate and natural disasters
 
-Some flights between Australia and Bali have been cancelled or postponed due to volcanic ash from Mt Lewotobi Laki-Laki. If your flight is affected, contact your airline and insurance provider for alternative travel and accommodation arrangements.
-
 Indonesia experiences [natural disasters](/before-you-go/safety/natural-disasters "Staying safe when there's a natural disaster") and [severe weather](/while-youre-away/crisis-or-emergency/severe-weather-incident "There's a severe weather incident"), including:
 
 * [floods](/before-you-go/safety/natural-disasters "Staying safe when there's a natural disaster")

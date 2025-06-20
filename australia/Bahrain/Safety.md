@@ -33,7 +33,7 @@ Terrorism is a threat worldwide.
 
 #### Civil unrest and political tension
 
-The security situation in the region remains unpredictable and could deteriorate with little or no warning.
+The security situation in the region remains unpredictable and could deteriorate with little or no warning. Ongoing hostilities pose serious security risks across the region. There are reports of military debris falling in various locations. Bahrain is host to regional security infrastructure, including the Combined Maritime Forces.
 
 #### Demonstrations and protests
 

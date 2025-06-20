@@ -44,9 +44,9 @@ Terrorism is a threat worldwide.
 
 The political situation within Saudi Arabia is currently stable. However, the security situation in the region remains unpredictable and could deteriorate with little or no warning.
 
-Military tensions remain in neighbouring Yemen.
+Ongoing hostilities pose serious security risks across the region. There are reports of military debris falling in various locations. Follow the advice of local authorities.
 
-Missile and drone attacks originating from Yemen are currently targeting Israel and may fail in flight over Saudi Arabia. Some are intercepted. Follow the advice of local authorities.
+Military tensions remain in neighbouring Yemen.
 
 Missiles, explosive-laden drones and explosive-laden boats have targeted civilian infrastructure in Saudi Arabia, including ports and airports. Most attacks have been intercepted by the Saudi military.
 

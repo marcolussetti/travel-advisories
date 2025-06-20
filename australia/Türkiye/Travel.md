@@ -1,5 +1,21 @@
 # Travel
 
+#### Border crossings
+
+#### Türkiye
+
+You will need permission from Türkiye’s Ministry of Foreign Affairs to enter Türkiye from Iran by land, and may be issued a transit visa with a maximum validity of five days for onwards travel. For assistance, contact the [Australian Embassy in Ankara](https://turkey.embassy.gov.au/).
+
+Land border crossings into a neighbouring country may open and close at short notice. Check the latest public information from local authorities on entry requirements and border arrangements. Plan for possible delays and make sure you have a supply of food, water and medication.
+
+#### Syria
+
+All border crossings from Syria are currently closed. We continue to advise do not travel to Syria.
+
+#### Iraq
+
+Crossing the border to or from Iraq is difficult. Military activity in the region is ongoing. The Turkish Government tightly controls entry and exit. We continue to advise Do Not Travel to Iraq.
+
 #### Visas and border measures
 
 > Every country or territory decides who can enter or leave through its borders. For specific information about the evidence you'll need to enter a foreign destination, check with the nearest embassy, consulate or immigration department of the destination you're entering.
@@ -25,12 +41,6 @@ Entry and exit conditions can change at short notice. Contact the [nearest emba
 **More information:**
 
 * [Turkish Ministry of Foreign Affairs](http://www.mfa.gov.tr/visa-information-for-foreigners.en.mfa)
-
-#### Border Crossings
-
-All border crossings from Syria are currently closed.
-
-Crossing the border to or from Iraq is difficult. Military activity in the region is ongoing. The Turkish Government tightly controls entry and exit.
 
 #### Other formalities
 

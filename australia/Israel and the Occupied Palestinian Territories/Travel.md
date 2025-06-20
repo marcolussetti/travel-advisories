@@ -12,17 +12,19 @@ You should depart Israel or the Occupied Palestinian Territories when it’s saf
 
 Land border crossings to Jordan may open and close at short notice. Before you travel, check [Jordanian Border Crossings](https://www.accesscoordination.org/CrossingJordanC19%20-%20view.aspx) for regular opening times and also check the latest public information from local authorities in Israel and Jordan to make sure border crossings are open.
 
-There are 2 land border crossings between Israel and Jordan: Sheikh Hussein/Jordan River near Irbid and Wadi Araba near Aqaba. Additionally, one land border crossing from Israel to Jordan goes through the West Bank: Allenby Bridge/King Hussein near Amman.
+There are 2 land border crossings between Israel and Jordan: Sheikh Hussein/Jordan River near Irbid and Wadi Araba near Aqaba. Additionally, one land border crossing from Israel to Jordan goes through the West Bank: Allenby Bridge/King Hussein near Amman. You'll need a visa to enter Jordan. See our [Jordan Travel Advice](/destinations/middle-east/jordan "Jordan").
+
+The land border crossing between Israel and Egypt: Taba border crossing (Menachem Begin Crossing) is open. To avoid long wait times at the border, you should pay for the Israeli [crossing fee online](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fborderpay.metropolinet.co.il%2F&data=05%7C02%7Ctravel.advice%40dfat.gov.au%7C78d6b4d527f341f21f2708ddaef96f26%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638859108519591432%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=CAoGYuaeKpTXXjeUn2Yh8llrQyHO9zanyzs8a%2Bk1cFo%3D&reserved=0) before you arrive. You'll need to pay for a tourist visa and a land border entry fee for entry to Egypt. For the visa, you must have a non-Egyptian credit card or US dollars in cash. For the land border entry fee (payable in Egyptian pounds) an ATM is available in the terminal. See our [Egypt Travel Advice](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.smartraveller.gov.au%2Fdestinations%2Fafrica%2Fegypt&data=05%7C02%7Ctravel.advice%40dfat.gov.au%7C78d6b4d527f341f21f2708ddaef96f26%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638859108519614137%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=hQOL2hS0FtLWiMMsOldDHdowMDEO2UcPzgi3qA9tMvw%3D&reserved=0).
 
 Transport routes may be disrupted. Roads may be crowded and exposed to military action or have damage, including to bridges and facilities. Use your judgement to decide the best time and safest means of exit.
 
 Plan for delays at land border crossings. Expect disruption to travel and changes at short notice. Make sure you have an adequate supply of food, water, medication.
 
-You'll need a visa to enter Jordan. See our [Jordan Travel Advice](/destinations/middle-east/jordan "Jordan").
-
 **More information:**
 
 * [Travel advice for Jordan](/destinations/middle-east/jordan "Jordan")
+* [Travel advice for Egypt](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.smartraveller.gov.au%2Fdestinations%2Fafrica%2Fegypt&data=05%7C02%7Ctravel.advice%40dfat.gov.au%7C78d6b4d527f341f21f2708ddaef96f26%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638859108519614137%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=hQOL2hS0FtLWiMMsOldDHdowMDEO2UcPzgi3qA9tMvw%3D&reserved=0)
+* [Tourist Evacuation from Israel](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgovforms.gov.il%2Fmw%2Fforms%2FTouristEvacuationFromIsrael%40tourism.gov.il%3Fdisplang%3Den%26gbxid%3D0&data=05%7C02%7Ctravel.advice%40dfat.gov.au%7C363a555dfdd74218b4a408ddaef1e5ae%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638859076141335020%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=HMoWc5VYGmRWfEtN7%2BXf2IRqwIwWiuaQ%2Bf8GTx%2Ffpuo%3D&reserved=0)
 
 #### Gaza
 

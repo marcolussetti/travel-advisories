@@ -220,7 +220,7 @@ The annual death toll on Saudi roads is extremely high. Exercise extreme caution
 
 Safety hazards include:
 
-* drivers ignoring road rules and driving while distracted
+* drivers ignoring road rules, with no lights, excessive speed, changing lanes without indicating and using mobile devices while driving
 * bad weather limiting visibility
 * poor road conditions in some parts of the country
 * camels straying onto roads

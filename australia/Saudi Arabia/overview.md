@@ -4,9 +4,9 @@ Latest update
 
 We continue to advise exercise a high degree of caution in Saudi Arabia. Higher levels apply in some areas.   
   
-Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions. Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests.   
+Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions. Local security situations could deteriorate with little notice.   
   
-Missile and drone attacks originating from Yemen and targeting Israel may fail in flight over Saudi Arabia. Attacks targeting sites in Saudi Arabia are possible. Most attacks are intercepted. Follow the advice of local authorities (see ‘Safety’).
+Ongoing hostilities pose serious security risks across the region. There are reports of military debris falling in various locations. Follow the advice of local authorities (see ‘Safety’).
 
 Advice Level summary
 
@@ -41,7 +41,7 @@ See [Safety](#safety).
 ### Safety
 
 * Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions. There is an increased threat of attacks against Israeli interests across the region.
-* Missile and drone attacks originating from Yemen and targeting Israel may fail in flight over Saudi Arabia. Attacks targeting sites in Saudi Arabia are possible.  Most attacks are intercepted. Follow the advice of local authorities.
+* Ongoing hostilities pose serious security risks across the region. There are reports of military debris falling in various locations. Follow the advice of local authorities.
 * Terrorist attacks could occur anywhere and at any time. Avoid possible targets such as energy infrastructure. Be alert at places frequented by foreigners and at large-scale entertainment events. Take official warnings seriously.
 * Demonstrations and protests are illegal in Saudi Arabia, and there may be severe penalties for participation. Avoid all demonstrations and protests should they occur.
 * Crime rates are low, but theft can happen, especially in crowded places and from vehicles. Physical, verbal and sexual harassment can also occur.
