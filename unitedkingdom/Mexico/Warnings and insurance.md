@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   18 June 2025
+:   20 June 2025
 
 Updated:
-:   17 June 2025
+:   19 June 2025
 
 Latest update:
-:   Addition of information about Tropical storm Erick to become a Category 2 Hurricane hitting the Pacific Coast ('Warnings and insurance' page)
+:   Hurricane Erick is expected to intensify strength (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/65fabfdfaa9b76001dfbdb8a/FCDO_TA_065_-_Mexico_Travel_Advice_Ed5_WEB.jpg)
 
@@ -15,14 +15,6 @@ Latest update:
 [Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/65fabfdfaa9b760011fbdb6b/FCDO_TA_065_-_Mexico_Travel_Advice_Ed5.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth and Development Office (FCDO).
-
-## Tropical Storm Erick – hurricane warning
-
-Tropical Storm Erick is expected to make landfall on the pacific coast on 17 June with heavy rains affecting Guerrero, Oaxaca, Chiapas and the south of Veracruz.  It is expected to gain strength and become a Category 2 hurricane by the afternoon of 18 June affecting an area along the southern pacific coast from Puerto Angel in Oaxaca to Punta Maldonado in Guerrero.
-
-You should closely monitor local and international weather updates from the [US National Hurricane Center](https://www.nhc.noaa.gov/) and follow the advice of [local authorities](https://x.com/CNPC_MX) and your tour operator, including any evacuation orders.
-
-See the [tropical cyclones page](https://www.gov.uk/guidance/extreme-weather-and-natural-hazards) for advice about how to prepare for travel during hurricane season and what to do ahead of a storm. In the aftermath of a hurricane, there can be flooding, high winds and continued rainfall.
 
 ## Areas where FCDO advises against all but essential travel
 
@@ -114,6 +106,14 @@ FCDO advises against all but essential travel to within 40km of the Guatemalan b
 FCDO advises against all but essential travel on Federal Highway 199 (Carretera Federal 199) between Rancho Nuevo (just outside San Cristobal de las Casas) and the Chancalá junction just outside Palenque (where Federal Highway 199 meets Federal Highway 307).
 
 Find out more about [why FCDO advises against travel to these areas](/foreign-travel-advice/mexico/regional-risks).
+
+## Hurricane Erick
+
+Hurricane Erick is intensifying and forecast to become a major hurricane, when it makes landfall in western Oaxaca or eastern Guerrero on Thursday 19 June.  It is expected to bring damaging winds and life-threatening flash floods and mudslides, particularly in areas of steep terrain.
+
+You should closely monitor local and international weather updates from the [US National Hurricane Center](https://www.nhc.noaa.gov/) and follow the advice of [local authorities](https://x.com/CNPC_MX) and your tour operator, including any evacuation orders.
+
+See the [tropical cyclones page](https://www.gov.uk/guidance/extreme-weather-and-natural-hazards) for advice about how to prepare for travel during hurricane season and what to do ahead of a storm. In the aftermath of a hurricane, there can be flooding, high winds and continued rainfall.
 
 Since 24 April a dispute between rival Cartels has included attacks on public transport in Baja California Sur. Affected municipalities include Los Cabos, La Paz, and Mulegé. Please follow the advice of local authorities
 

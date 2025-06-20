@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   14 June 2025
+:   20 June 2025
 
 Updated:
-:   13 June 2025
+:   19 June 2025
 
 Latest update:
-:   Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region (‘Safety and security’ page).
+:   Updated information about possible travel disruptions, including short-notice airspace closures, delayed and cancelled flights ('Safety and security' page)
 
 ## Before you travel
 

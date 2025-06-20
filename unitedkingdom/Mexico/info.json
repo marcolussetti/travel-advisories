@@ -1,11 +1,11 @@
 {
     "name": "Mexico",
-    "update_reason": "Addition of information about Tropical storm Erick to become a Category 2 Hurricane hitting the Pacific Coast ('Warnings and insurance' page)",
+    "update_reason": "Hurricane Erick is expected to intensify strength (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Mexico/Warnings and insurance.md",
-            "update_date": "2025-06-17T19:08:37+01:00"
+            "update_date": "2025-06-19T12:24:05+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Mexico/Getting help.md"
         }
     ],
-    "update_date": "2025-06-17T19:08:37+01:00"
+    "update_date": "2025-06-19T12:24:05+01:00"
 }

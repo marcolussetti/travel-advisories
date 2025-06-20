@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   14 June 2025
+:   20 June 2025
 
 Updated:
-:   13 June 2025
+:   19 June 2025
 
 Latest update:
-:   Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region ('Safety and security' page).
+:   There is a risk of disruptions to air travel to and from Beirut airport due to ongoing hostilities in the region which could escalate quickly and pose security risks for the wider region. Separately,the risk of air strikes in areas of Lebanon, including in southern suburbs of Beirut, remains. (‘Warning and insurance’ page)
 
 ![](https://assets.publishing.service.gov.uk/media/67e532fa87cebda7c4ca4c52/FCDO__TA__023_-_Lebanon_Travel_Advice_Ed12__WEB_.jpg)
 
@@ -98,13 +98,13 @@ The security situation presents a range of serious risks to British Nationals in
 
 ### Military activity across Lebanon
 
-There are ongoing airstrikes, mortar and artillery exchanges across Lebanon, primarily on the boundary with Israel and the Beqqa Valley, but there have also been some in the South and in the Nabatiyeh Governates north of the Litani river. Strikes in other areas of the country cannot be ruled out. The FCDO is aware that many people are returning to the south of Lebanon. Be aware that the Israeli Defence Force is continuing to tell people not to return to areas in the south close to the Blue Line. There are reported incidences of the Israeli Defences Forces firing on people who get too close to locations where they retain a presence.
+There are ongoing airstrikes, mortar and artillery exchanges across Lebanon, primarily on the boundary with Israel and the Beqqa Valley, but there have also been some in the South and in the Nabatiyeh Governates north of the Litani river. Strikes in other areas of the country cannot be ruled out, including in the southern suburbs of Beirut. The FCDO is aware that many people are returning to the south of Lebanon. Be aware that the Israeli Defence Force is continuing to tell people not to return to areas in the south close to the Blue Line. There are reported incidences of the Israeli Defences Forces firing on people who get too close to locations where they retain a presence.
 
 Further air-strikes in Lebanon cannot be ruled out. Strikes have resulted in civilian casualties and the destruction of residential buildings. There are also strikes both in population centres and in rural areas. We advise you to keep up to date with the latest situation including using multiple media sources to understand frequency and location of strikes as these may change rapidly. There are various mapping sources available online.
 
 ### Access to Beirut airport
 
-There is a risk that access to the airport may be disrupted, whether by traffic congestion, temporary roadblocks or closure caused by Israeli airstrikes nearby. If you are travelling to the airport, check the local security situation and only make the journey if you judge it safe to do so. Remain alert to local conditions as these could change quickly.
+Conflict between Israel and Iran is affecting airspace across the region, including in Lebanon. There is a risk of flight disruption and issues accessing the airport, as a result of airspace closures, traffic congestion, temporary roadblocks in addition to the risk of Israeli airstrikes nearby. If you are travelling to the airport, check the local security situation and only make the journey if you judge it safe to do so. Remain alert to local conditions as these could change quickly.
 
 ### Civil disorder
 

@@ -1,11 +1,11 @@
 {
     "name": "Oman",
-    "update_reason": "Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region (\u2018Safety and security\u2019 page).",
+    "update_reason": "Updated information about possible travel disruptions, including short-notice airspace closures, delayed and cancelled flights ('Safety and security' page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Oman/Warnings and insurance.md",
-            "update_date": "2025-06-13T12:40:48+01:00"
+            "update_date": "2025-06-19T20:21:12+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Oman/Getting help.md"
         }
     ],
-    "update_date": "2025-06-13T12:40:48+01:00"
+    "update_date": "2025-06-19T20:21:12+01:00"
 }

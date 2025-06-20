@@ -1,11 +1,11 @@
 {
     "name": "Guatemala",
-    "update_reason": "This travel advice was reviewed for accuracy and reissued without any significant updates.",
+    "update_reason": "Information added about a weather warning of heavy rainfall on Guatemala\u2019s Pacific coast due to Tropical Storm Erick ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Guatemala/Warnings and insurance.md",
-            "update_date": "2025-02-17T14:39:30+00:00"
+            "update_date": "2025-06-19T12:39:42+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Guatemala/Getting help.md"
         }
     ],
-    "update_date": "2025-02-17T14:39:30+00:00"
+    "update_date": "2025-06-19T12:39:42+01:00"
 }

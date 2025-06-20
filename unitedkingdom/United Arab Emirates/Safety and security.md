@@ -32,10 +32,13 @@ Maintain a high level of security awareness, particularly in public places and a
 
 Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region.
 
+There is a possibility of travel disruption, including short-notice airspace closures, delayed and cancelled flights, and other unanticipated travel impacts.
+
 You should:
 
 * monitor local and international media for the latest information
 * be vigilant and follow the instructions of local authorities
+* check with relevant airlines for the latest updates before travelling
 
 ## Crime
 

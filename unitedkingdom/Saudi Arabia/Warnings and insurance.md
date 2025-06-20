@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   14 June 2025
+:   20 June 2025
 
 Updated:
-:   13 June 2025
+:   19 June 2025
 
 Latest update:
-:   Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region (‘Safety and security’ page).
+:   Updated information about possible travel disruptions, including short-notice airspace closures, delayed and cancelled flights ('Safety and security' page)
 
 ![](https://assets.publishing.service.gov.uk/media/681a1ee1fb59a222d4f17336/FCDO__TA__034_-_Saudi_Arabia_Travel_Advice_Ed3__WEB_.jpg)
 

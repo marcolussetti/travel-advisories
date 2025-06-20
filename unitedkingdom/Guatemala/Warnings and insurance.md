@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   20 June 2025
 
 Updated:
-:   17 February 2025
+:   19 June 2025
 
 Latest update:
-:   This travel advice was reviewed for accuracy and reissued without any significant updates.
+:   Information added about a weather warning of heavy rainfall on Guatemala’s Pacific coast due to Tropical Storm Erick ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/65fac0c89316f5001d64c3c0/FCDO__TA__095_-_Guatemala_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -24,6 +24,10 @@ FCDO advises against all but essential travel to:
 * to the towns of Santa Ana Huista, San Antonio Huista and La Democracia in the department of Huehuetenango
 
 Find out more about [why FCDO advises against travel to these areas](https://www.gov.uk/foreign-travel-advice/guatemala/regional-risks).
+
+## Tropical Storm Erick
+
+On 17-18 June, heavy rainfall is expected along the Pacific coast of Guatemala due to Tropical Storm Erick in the Eastern Pacific. Monitor local and international weather updates from the [World Meteorological Organization](http://severe.worldweather.org/) and the [US National Hurricane Center](http://www.nhc.noaa.gov/). Follow the advice of the local authorities, including any evacuation orders.
 
 ## Before you travel
 
