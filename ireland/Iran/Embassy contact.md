@@ -1,10 +1,10 @@
 ## Embassy contact
 
-If you are an Irish citizen and require urgent assistance in the case of an emergency, please send a WhatsApp or SMS to +98 910 810 5733 detailing the nature of the emergency and your personal details.
+If you are an Irish citizen and require urgent assistance in the case of an emergency, please call +353 (0)1 4082527, or in case of an emergency out-of-hours, on +353 (0)1 4082000.
 
-A duty officer will respond as soon as possible.
+Please be aware that we are limited in the help we can offer in an emergency.
 
-For information on visas or passports, please contact:
+**The office of the Honorary Consul of Ireland is currently closed.**
 
 ### Honorary Consul of Ireland, Iran
 

@@ -6,7 +6,7 @@ Normal Precautions
 
 ### **Latest Travel Alert**
 
-As of 17 August 2023, the [**Swedish authorities**](https://www.sakerhetspolisen.se/ovriga-sidor/nyheter/nyheter/2023-08-17-hojning-av-terrorhotnivan-till-hogt-hot.html) have increased the terrorism threat level in Sweden to level four. The Swedish National Security Service (SÄPO) encourages all people in Sweden to maintain vigilance at **all times**, to monitor reliable local media sources for the most recent information and to follow the instructions issued by the Swedish Civil Contingencies Agency available [**here**](https://www.krisinformation.se/en/hazards-and-risks/terrorism). For more information, see the Safety and Security tab.
+As of 5 June 2025, the Swedish authorities have decreased the terrorism threat level in Sweden to level three – an elevated threat. An elevated threat level still includes the possibility that a terrorist attack could occur. The Swedish Government encourages all people in Sweden to remain alert, to monitor reliable local media sources for the most recent information and to follow the instructions issued by the Swedish Civil Contingencies Agency available [**here**](https://www.krisinformation.se/en/hazards-and-risks/terrorism). For more information, see the Safety and Security tab.
 
 ### **General Travel Advice**
 
@@ -18,7 +18,7 @@ Irish citizens do not require a visa to enter Sweden. However, if you are going 
 
 Visitors to Sweden are advised to follow the guidance of national and local authorities and stay fully informed of any current issues on by monitoring local news and social media.
 
-Citizens can also follow the Embassy on social media (Twitter [**@IrishEmbSweden**](https://twitter.com/IrishEmbSweden); [**Facebook**](https://m.facebook.com/IrishEmbSweden) and [**LinkedIn**](https://se.linkedin.com/company/irishembsweden)) to ensure access to relevant updates and alerts.
+Citizens can also follow the Embassy on social media (X [**@IrishEmbSweden**](https://twitter.com/IrishEmbSweden); [**Facebook**](https://m.facebook.com/IrishEmbSweden) and [**LinkedIn**](https://se.linkedin.com/company/irishembsweden)) to ensure access to relevant updates and alerts.
 
 ### **Emergency Assistance**
 
@@ -41,5 +41,5 @@ The Embassy provides emergency consular assistance for Irish citizens. Please ca
 * Get comprehensive travel insurance that covers all your planned activities.
 * Get a [**European Health Insurance Card**](http://www.hse.ie/eng/services/list/1/schemes/EHIC/)**.**
 * [**Register**](/en/dfa/overseas-travel/citizens-registration/) your details with us so that we can contact you quickly if there’s an unforeseen crisis like a natural disaster or a family emergency.
-* Follow us on twitter [**@dfatravelwise**](https://www.twitter.com/DFATravelWise) for the latest travel updates.
+* Follow us on X [**@dfatravelwise**](https://www.twitter.com/DFATravelWise) and Instagram [**@dfatravelwise**](https://www.instagram.com/dfatravelwise/) for the latest travel updates.
 * Read our [**‘Know Before You Go’**](/en/dfa/overseas-travel/know-before-you-go-/) guide.

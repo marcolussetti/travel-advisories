@@ -14,7 +14,7 @@ Avoid Non-Essential Travel
 
 ### **State of emergency**
 
-A state of emergency was renewed on 12 April 2025 for 60 days owing to ongoing internal unrest and armed violence. The current state of emergency applies to the following provinces:
+A state of emergency was renewed on 12 June 2025 for 60 days owing to ongoing internal unrest and armed violence. The current state of emergency applies to the following provinces:
 
 -Guayas
 
@@ -31,8 +31,6 @@ A state of emergency was renewed on 12 April 2025 for 60 days owing to ongoing i
 -Sucumbíos
 
 - Quito Metropolitan district – Pichincha province
-
-- Camilo Ponce Enríquez district – Azuay province
 
 The state of emergency allows the military and police to seize assets, conduct inspections, and enter private properties without permission.
 
@@ -68,6 +66,7 @@ Curfew hours (10pm until 05am) apply, until further notice, for the following di
 
 * La Joya de los Sachas Puerto Francisco De Orellana
 * Loreto
+* Puerto Francisco de Orellana
 
 ### **Sucumbios province:**
 
@@ -86,7 +85,7 @@ For all entry, including via land, airports and seaports, you may be asked to pr
 
 ### **Heavy rainfall**
 
-A regional state of emergency was declared by the Committee of Emergency Operations (COE) on 11 March 2025 for 60 days due to heavy rainfall in the following provinces:
+A regional state of emergency was declared by the Committee of Emergency Operations (COE) on 11 March 2025 for 60 days due to heavy rainfall. This measure was extended for a further 60 days on 24 April. It applies to the following provinces:
 
 - Guayas
 
@@ -100,7 +99,15 @@ A regional state of emergency was declared by the Committee of Emergency Operati
 
 - Loja
 
-Azuay
+- Azuay
+
+- Pichincha
+
+- Bolivar
+
+- Chimborazo
+
+- Cotopaxi
 
 ### **General Travel Advice**
 

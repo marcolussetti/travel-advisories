@@ -2,11 +2,9 @@
 
 ### **Terrorism**
 
-As of 17 August 2023, the threat level for terrorism in Sweden is currently assessed by the Swedish authorities as being at level four (out of five). Level four means that there is a high threat of terrorism and that the Swedish National Centre for Terrorist Threat Assessment (NCT) assesses the probability that actors have the intention and ability to carry out attacks to be high.
+As of 05 June 2025, the threat level for terrorism in Sweden is currently assessed by the Swedish authorities as being at level three (out of five). Level three means that the Swedish National Centre for Terrorist Threat Assessment (NCT) assesses the probability that actors have the intention and ability to carry out attacks to be **elevated.**
 
-In a [**statement**](https://www.sakerhetspolisen.se/ovriga-sidor/nyheter/nyheter/2023-08-17-hojning-av-terrorhotnivan-till-hogt-hot.html) on 17 August 2023, the Chief of the National Security Service encouraged all those in Sweden to maintain vigilance at all times, to monitor reliable local media sources for the most recent information and to follow the instructions issued by the Swedish authorities.
-
-The Embassy of Ireland in Sweden asks its citizens to adhere fully to the advice of the Swedish authorities on security matters. The Embassy continues to closely monitor the situation. Further information from the Swedish authorities can be found [**here**](https://www.krisinformation.se/en).
+The Swedish Government has advised the general public to remain alert and to report any suspicious activity to the Swedish authorities. The Embassy of Ireland in Sweden asks its citizens to adhere fully to the advice of the Swedish authorities on security matters. The Embassy continues to closely monitor the situation. Further information from the Swedish authorities can be found [**here**](https://www.krisinformation.se/en).
 
 ### **Crime**
 

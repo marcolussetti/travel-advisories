@@ -16,7 +16,9 @@ The Department of Foreign Affairs and Trade is very limited in its ability to as
 
 Irish citizens in Iran should register with the Department via the [**Citizens Registration**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/) facility if they have not already done so.
 
-**Irish citizens who are in need of Consular Assistance can contact the Embassy of Ireland in Iran via SMS or Whatsapp message on +98 910 810 5733 or by calling the Department of Foreign Affairs and Trade in Dublin on +353 1 408 8000.**
+**If you are an Irish citizen and require urgent assistance in the case of an emergency, please call +353 (0)1 4082527, or in case of an emergency out-of-hours, on +353 (0)1 4082000.**
+
+**Please be aware that we are limited in the help we can offer in an emergency.**
 
 **Irish citizens should ensure their personal documents, including passports, are up-to-date.**
 
@@ -57,11 +59,11 @@ Visitors can contact the emergency services in Iran by dialling the following nu
 * Follow us on X [**@dfatravelwise**](https://www.twitter.com/DFATravelWise) and Instagram [**@dfatravelwise**](https://www.instagram.com/dfatravelwise/) for the latest travel updates.
 * Read our [**‘Know Before You Go’**](https://www.ireland.ie/en/dfa/overseas-travel/know-before-you-go/) guide.
 
-If you are an Irish citizen and require urgent assistance in the case of an emergency, please send a WhatsApp or SMS to +98 910 810 5733 detailing the nature of the emergency and your personal details.
+If you are an Irish citizen and require urgent assistance in the case of an emergency, please call +353 (0)1 4082527, or in case of an emergency out-of-hours, on +353 (0)1 4082000.
 
-A duty officer will respond as soon as possible
+Please be aware that we are limited in the help we can offer in an emergency.
 
-For information on visas or passports, please contact:
+**The office of the Honorary Consul of Ireland is currently closed.**
 
 **Honorary Consul of Ireland, Iran**
 

@@ -4,6 +4,12 @@
 
 High Degree of Caution
 
+### **Travel Alert**
+
+Hurricane Erick made landfall on the coast of Oaxaca, Mexico, on 19 June, and may bring intense rains and life-threatening floods and mudslides. The Mexican Government has urged people in the region to avoid going out and advised those in low-lying areas to move to shelters.
+
+The storm is expected to move inland throughout 19 June and may impact other parts of southern Mexico.
+
 ### **General Travel Advice**
 
 Irish citizens do not require a visa to enter Mexico.
