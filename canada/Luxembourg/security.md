@@ -4,69 +4,120 @@
 
 ### Crime
 
-The crime rate is low in Luxembourg.
+Petty crime, such as pickpocketing, bag snatching and theft from vehicles, is common.
 
-However, petty crime, such as pickpocketing and purse snatching, occurs:
+Be particularly vigilant in crowded public areas such as:
 
-* on public transportation
-* around train stations
-* at the airport
-* at youth hostels
-* at hotel lobbies in the city of Luxembourg
+* buses, trains, bus and train stations, and airports
+* youth hostels
+* hotel lobbies
 
-Ensure that your personal belongings, including your passport and other travel documents, are secure at all times.
+During your trip:
 
-Carjacking incidents occur throughout the country. Ensure that valuables in vehicles are kept out of sight. Drive with the windows closed and car doors locked.
+* keep your personal belongings, including your passport and other travel documents, in a secure place
+* do not show signs of affluence or wear expensive jewellery
+* do not carry large sums of cash or valuables unnecessarily
+* be aware of your surroundings, especially in busy tourist areas
+* never leave personal belongings in plain sight or unattended in a vehicle, even in the trunk
+* always drive with the windows closed and car doors locked
 
-Thieves will sometimes pose as undercover police officers and demand an on-the-spot fine for minor offences (littering, for example). Be cautious of these imposters; a legitimate officer will never ask for cash payment for a fine.
+[Lost or stolen belongings abroad](https://travel.gc.ca/assistance/emergency-info/stolen-belongings)
+
+Home burglaries occur, especially around Christmas and the summer holidays, and can turn violent.
+
+* Stay in accommodations with adequate security measures
+* Keep doors and windows locked when you are away
+* If you're threatened by armed criminals, stay calm and do not resist
 
 ### Terrorism
 
-There is a threat of terrorism in Europe. Terrorist attacks have occurred in a number of European cities. There is a potential for other violent incidents.
+There is a threat of terrorism in Europe. Terrorists have carried out attacks in several European cities and further attacks are likely.
 
 Targets could include:
 
-* government buildings, including schools
+* government buildings, including police stations
+* schools, including universities
 * places of worship
 * airports and other transportation hubs and networks
 * public areas such as tourist attractions, restaurants, bars, coffee shops, shopping centres, markets, hotels and other sites frequented by foreigners
+* cultural venues
 
 Always be aware of your surroundings when in public places.
 
-### Public alert system
+Be particularly vigilant during:
 
-Luxembourg maintains a public alert system on terrorism and communicates threat level changes through local media and social media.
+* sporting events
+* religious holidays
+* public celebrations
+* major political events, such as elections
+
+Terrorists may use such occasions to mount attacks.
+
+The Government of Luxembourg maintains a public alert system on terrorism and communicates threat-level changes online and through social media. Luxembourg’s current threat level is 2, “real but abstract,” on a scale of 4.
 
 #### Useful links
 
-* [Info Crise national warning system](https://infocrise.public.lu/en.html) – Government of the Grand Duchy of Luxembourg
-* Crisis Centre tweets [@infocriseLU](https://x.com/infocriseLU) – High Commission for National Protection (in French)
-* [GouvAlert application](https://infocrise.public.lu/en/gouvalert.html) for instructions during crises – High Commission for National Protection
+* [Info Crise](https://infocrise.public.lu/en.html) – Government of the Grand Duchy of Luxembourg
+* [LUAlert](https://lu-alert.lu/en.html) – Government of the Grand Duchy of Luxembourg
 
-### Road safety
+### Fraud
 
-Traffic congestion in urban areas can be a problem.
+#### Police impersonation scam
 
-If your vehicle has been hit and you feel your personal safety is at risk, do not leave your vehicle. Call the police or drive immediately to the nearest police station.
+Individuals posing as police officers have approached tourists and asked them to pay on-the-spot fines for minor offences.
+
+If you face a similar situation:
+
+* offer to go to the nearest police station
+* ask to see police credentials
+* remain vigilant
+* do not hand over your money or documents unless you feel threatened
+
+[Overseas fraud](https://travel.gc.ca/travelling/health-safety/overseas-fraud)
+
+### Spiked food, drinks and other items
+
+Never leave your food or drinks unattended or in the care of strangers. Avoid accepting snacks, beverages, gum or cigarettes from new acquaintances, as these items may contain drugs that could put you at risk of sexual assault and robbery.
+
+### Demonstrations
+
+Demonstrations occur sometimes and usually take place on days of political importance and during international summits held in Luxembourg.
+
+Even peaceful demonstrations can turn violent. They can also lead to disruptions to traffic and public transportation.
+
+* Avoid areas where demonstrations and large gatherings are taking place
+* Follow the instructions of local authorities
+* Monitor local media for information on ongoing demonstrations
+
+[Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
+
+### Roads
+
+#### Road safety
+
+Road safety may vary considerably across the country.
+
+From Monday to Friday, hundreds of thousands of cross-border workers head into and out of Luxembourg City. Accidents are frequent on highways from France, Belgium and Germany during morning and evening traffic hours.
+
+#### Road conditions
+
+Driving can be dangerous during the fall and winter due to fog and ice.
+
+#### Driving habits
+
+Since there are many cross-border drivers, their driving habits may not align with local traffic laws.
+
+Always drive defensively, especially during traffic hours.
 
 ### Public transportation
 
-Public transportation is fast and reliable in Luxembourg.
+Public transportation is reliable and free in Luxembourg.
 
-Since February 2020, public transport is free throughout Luxembourg for trains, trams and buses (RGTR, TICE, AVL). First class tickets, however, still require payment. All passengers must carry a personal identity document because conductors may ask for them at any time.
-
-#### Useful links
-
-* [Mobiliteit.lu web service](https://www.mobiliteit.lu/en/plan-a-trip/) – Ministry of Mobility and Public Works, Public Transport Administration
-* Mobiliteit.lu application – Download on the [App Store](https://apps.apple.com/us/app/mobiliteit-lu/id434829995) or [Google Play Store](https://play.google.com/store/apps/details?id=de.hafas.android.cdt&hl=en)
+All passengers must carry photo identification because conductors may ask for it at any time.
 
 #### Taxis
 
-Opt for officially marked taxis.
-
-Taxi fares are no longer regulated in Luxembourg. Each taxi is free to apply its own rates. However, they are required to clearly display the fares.
-
-Ask the driver for a detailed list of tariffs.
+Only use officially marked taxis, which display a price list. Check the rates before getting into a taxi, as they may vary from one taxi to another. Rates may increase in the evenings and on Sundays.
 
 ### Air travel
 

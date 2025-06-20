@@ -4,7 +4,7 @@
 
 ### ISRAEL - AVOID ALL TRAVEL
 
-[Avoid all travel](#levels "Risk Levels") to Israel due to ongoing hostilities, renewed tensions and the unpredictable security situation.
+[Avoid all travel](#levels "Risk Levels") to Israel due to ongoing hostilities with Iran.
 
 The security situation can deteriorate rapidly.
 
@@ -12,7 +12,7 @@ Make sure your travel documents and those of your spouse and children are up to 
 
 ### West Bank - AVOID ALL TRAVEL
 
-[Avoid all travel](#levels "Risk Levels") to West Bank due to the unpredictable security situation and the renewed regional tensions.
+[Avoid all travel](#levels "Risk Levels") to the West Bank due to the unpredictable security situation and the renewed regional tensions.
 
 ### Gaza Strip - AVOID ALL TRAVEL
 

@@ -170,11 +170,21 @@ To lower your risk of getting sexually transmissible infections (STIs), HIV, and
 
 ### Medical services and facilities
 
-Health care is excellent. Service is available throughout the country.
+Health care is excellent and available throughout the country.
 
 Make sure you get travel insurance that includes coverage for medical evacuation and hospital stays.
 
 [Health and safety outside Canada](https://travel.gc.ca/travelling/health-safety)
+
+### Medication
+
+Some prescription medications may not be available in Luxembourg.
+
+If you take prescription medications, you’re responsible for determining their legality in Luxembourg.
+
+* Bring enough medication for your stay
+* Always keep your medication in the original container and carry a copy of your prescriptions
+* Pack your medication in your carry-on luggage
 
 ### Keep in Mind...
 

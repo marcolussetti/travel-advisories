@@ -10,7 +10,7 @@ Detention conditions may be below the standards of Canadian prisons.
 
 ### Drugs
 
-Penalties for possession, use or trafficking of illegal drugs are severe. Convicted offenders can expect prison sentences.
+Penalties for possession, use or trafficking of illegal drugs, including medical and recreational cannabis, are severe. You may be arrested on drug charges if you are with a person using illegal drugs. Border officials may also screen for drugs upon entry or departure. Convicted offenders can expect prison sentences.
 
 [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
 
@@ -86,23 +86,19 @@ Be aware that Canadian consular officials cannot interfere in private legal matt
 * [Canadian embassies and consulates by destination](https://travel.gc.ca/assistance/embassies-consulates)
 * [Request emergency assistance](https://travel.gc.ca/assistance/emergency-assistance?_ga)
 
-### 2SLGBTQI+ persons
-
-Salvadoran law does not prohibit sexual acts between individuals of the same sex.
-
-However, 2SLGBTQI+ persons could face discrimination based on their sexual orientation, gender identity, gender expression or sex characteristics.
-
-[Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
-
 ### Driving
 
-You can drive with your valid Canadian driver’s licence for the period you are allowed to stay in the country.
+You can drive with your valid Canadian driver’s licence for the first 90 days authorized for your stay in the country.
+
+After 90 days, you must apply for a Salvadoran driver’s licence using a copy of your valid Canadian driver’s licence that has been apostilled by the Embassy of Canada in San Salvador.
+
+Driving with any detectable amount of alcohol in blood or breath is strictly prohibited. Violators face immediate arrest and prison sentences.
 
 In the event of a car accident, as required by Salvadoran law:
 
 * remain at the scene
 * call the police
-* don’t move your vehicle until the authorities arrive
+* take pictures and move the vehicle to a safe nearby location to avoid obstructing traffic until the authorities arrive
 
 Some accidents may attract a crowd that could turn hostile. If you feel unsafe:
 
@@ -112,16 +108,14 @@ Some accidents may attract a crowd that could turn hostile. If you feel unsafe:
 
 If you plan to travel between countries, you must carry an international driving permit.
 
-[International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
+#### Useful links
+
+* [International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
+* [Authentication of documents](https://www.international.gc.ca/gac-amc/about-a_propos/services/authentication-authentification/)
 
 ### Money
 
-There are two official currencies in El Salvador:
-
-* the U.S. dollar (USD)
-* Bitcoin (BTC)
-
-Bitcoin became legal tender in September 2021, though not all businesses have fully transitioned to accepting it. Traditional and Bitcoin ATMs are widely available.
+The U.S. dollar (USD) is the official currency in El Salvador.
 
 Canadian credit and debit cards are generally accepted. However, Canadian dollars cannot be exchanged in El Salvador.
 

@@ -4,9 +4,11 @@
 
 ### Hurricane Erick
 
-Hurricane Erick is expected to make landfall as a hurricane between Tecpan de Galeana and Puerto Angel on June 19, 2025.
+On June 19, 2025, Hurricane Erick made landfall on the Western coast of Oaxaca State.
 
-The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
+Hurricane Erick is gradually weakening as it is moving inland northwestward, but it will continue to bring heavy rainfall and violent winds.
+
+It may cause flash flooding and landslides and could severely disrupt the following essential services:
 
 * transportation
 * power distribution

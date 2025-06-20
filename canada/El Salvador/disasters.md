@@ -2,6 +2,10 @@
 
 ## Natural disasters and climate
 
+### Climate change
+
+Climate change is affecting El Salvador. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local media for the latest information.
+
 ### Earthquakes and tsunamis
 
 El Salvador is located in a highly active seismic zone. Tremors occur regularly and major earthquakes occur from time to time.
@@ -12,6 +16,14 @@ In the event of an earthquake:
 
 * monitor local media to stay informed of the evolving situation
 * follow the instructions of local authorities
+
+#### Useful links
+
+* [Earthquakes](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx) – What to Do?
+* [Latest Earthquakes](https://earthquake.usgs.gov/earthquakes/map/) – U.S. Geological Survey
+* [Information on seismic activity](https://www.snet.gob.sv/informacion/?area=sismologia) – General Directorate of the Observatory of Threats and Natural Resources (in Spanish only)
+* [Tsunami alerts](http://tsunami.gov/) – U.S. Tsunami Warning System
+* [Information on tsunamis](https://www.snet.gob.sv/informacion/?area=tsunamis) – General Directorate of the Observatory of Threats and Natural Resources (in Spanish only)
 
 ### Volcanoes
 
@@ -29,14 +41,14 @@ If you intend on visiting a volcano area:
 
 #### Useful links
 
-* [Earthquakes](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx) – What to Do?
-* [Latest earthquakes](https://earthquake.usgs.gov/earthquakes/map/) – U.S. Geological Survey
-* [Tsunami alerts](http://tsunami.gov/) – U.S. Tsunami Warning System
-* [Seismic and volcanic activity alerts](https://elobservatorio.marn.gob.sv/) – Salvadoran Observatory of the Ministry of Environment and Natural Resources (in Spanish)
+* [Daily volcano forecast](https://www.snet.gob.sv/) – General Directorate of the Observatory of Threats and Natural Resources (in Spanish only)
+* [Volcanoes of El Salvador](https://www.snet.gob.sv/ver/volcanologia) – General Directorate of the Observatory of Threats and Natural Resources (in Spanish only)
 
 ### Rainy season
 
-The rainy season extends from May to November. Seasonal flooding can hamper overland travel and reduce the provision of essential services. Roads may become impassable and bridges may be damaged.
+The rainy season extends from May to November. Seasonal flooding can hamper overland travel and reduce the provision of essential services. Roads may become impassable and bridges may be damaged.
+
+Check local weather forecasts daily in the rainy season for severe weather events.
 
 ### Hurricane season
 

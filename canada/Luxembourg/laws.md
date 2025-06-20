@@ -8,15 +8,18 @@ Learn about what you should do and how we can help if you are [arrested or detai
 
 ### Transfer to a Canadian prison
 
-Canada and Luxembourg are signatories to the Convention on the Transfer of Sentenced Persons. This enables a Canadian imprisoned in Luxembourg to request a transfer to a Canadian prison to complete a sentence. The transfer requires the agreement of both Canadian and Luxembourg authorities.
+Canada and Luxembourg are signatories to the Convention on the Transfer of Sentenced Persons. This enables a Canadian imprisoned in Luxembourg to request a transfer to a Canadian prison to complete a sentence. The transfer requires the agreement of both Canadian and Luxembourgish authorities.
 
 This process can take a long time, and there is no guarantee that the transfer will be approved by either or both sides.
 
 ### Drugs
 
-Penalties for possession, use or trafficking of illegal drugs are severe. Public intoxication and disorderly conduct is illegal.
+Penalties for possession, use or trafficking of illegal drugs are severe. Convicted offenders can expect prison sentences or heavy fines.
 
-Convicted offenders can expect prison sentences or heavy fines.
+Public intoxication and disorderly conduct is a criminal offence and can lead to an arrest or a heavy fine.
+
+* Pack your own luggage and monitor it closely at all times
+* Never transport other people’s packages, bags or suitcases
 
 [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
 
@@ -58,15 +61,41 @@ Be aware that Canadian consular officials cannot interfere in private legal matt
 
 You must be at least 18 years old to drive in Luxembourg.
 
-If you become a legal resident of Luxembourg and wish to drive, you will need a local driver’s licence. To exchange your Canadian Driver’s licence, you will need a certified criminal record check, which you must obtain from the RCMP before you leave Canada.
+You can drive using a valid Canadian driver’s licence for up to 12 months.
 
-Penalties for drinking and driving are severe. The legal blood alcohol limit is 0.02 percent for a commercial and learner drivers and 0.05 percent for others. If a police officer suspects you of drinking and driving, they could confiscate your driver’s license on the spot. If you’re convicted, you can expect heavy fines.
+You must carry an international driving permit.
 
-You should carry an international driving permit.
+If you become a legal resident of Luxembourg, you will need a local driver’s licence, which you must obtain within 12 months of becoming a resident. To exchange your Canadian driver’s licence, you need a certified criminal record check, which you must obtain from the Royal Canadian Mounted Police before you leave Canada.
 
-* [Driving in Luxembourg](http://ec.europa.eu/transport/road_safety/going_abroad/luxembourg/index_en.htm) - European Commission
-* [Certified criminal record check](https://rcmp.ca/en/criminal-records/criminal-record-checks) – RCMP
-* [More about the International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
+Penalties for drinking and driving are severe. The legal blood alcohol limit is 0.02% for commercial and learner drivers and 0.05% for others.
+
+Police regularly conduct sobriety checks.
+
+Convicted offenders can expect:
+
+* license suspension
+* heavy fines
+* a jail sentence
+
+You should always have a blank accident report in your vehicle. If you are involved in a car accident that does not result in injury, you must exchange details with the drivers involved and complete the accident report before submitting it to your insurance company.
+
+If you are involved in a car accident that results in injury or dispute, immediately report it to the police, who will officially assess the situation.
+
+#### Mandatory equipment
+
+From October to April, cars in Luxembourg must be equipped with winter or all-weather tires marked with ‘M.S.,’ ‘M+S,’ ‘M&S,’ or the alpine symbol, regardless of the vehicle’s country of registration.
+
+You must always keep a warning triangle sign and a brightly colored driver’s vest in your vehicle.
+
+Luxembourg authorities strictly enforce all road traffic laws, and police regularly conduct random road checks. You could be fined for minor infractions.
+
+#### Useful links
+
+* [Road rules and safety – Luxembourg](http://ec.europa.eu/transport/road_safety/going_abroad/luxembourg/index_en.htm) – Your Europe
+* [Criminal record check](https://rcmp.ca/en/criminal-records/criminal-record-checks) – Royal Canadian Mounted Police
+* [International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
+
+
 
 ### Money
 

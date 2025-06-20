@@ -16,7 +16,7 @@ Before you travel, check with your transportation company about passport require
 
 #### Regular Canadian passport
 
-Your passport must be valid for at least 6 months beyond the date you expect to leave El Salvador.
+Your passport must be valid at the time of entry to El Salvador. It must also be in good condition and have at least one blank page.
 
 #### Passport for official travel
 
@@ -39,43 +39,38 @@ Different entry rules may apply when travelling with a temporary passport or an 
 
 ### Visas
 
-Tourist visa: not required for stays up to 90 days  
-Business visa: not required for stays up to 90 days  
-Student visa: not required for stays up to 90 days
+Tourist visa: not required for stays up to 180 days  
+ Business visa: not required for stays up to 180 days  
+ Student visa: not required for stays up to 180 days
 
-### Entry immigration card
-
-To enter El Salvador, you must purchase an entry immigration card, which is valid for up to 180 days. Local officials determine the card's validity period.
-
-The entry immigration card is not a visa, but it’s a mandatory requirement to enter El Salvador.
-
-You don’t need an entry immigration card if you meet one of these conditions:
-
-* hold a Canadian passport showing you were born in El Salvador
-* show proof that one of your parents is a Salvadoran national
-
-Keep the receipt of your entry immigration card with your passport. It will allow you to re-enter El Salvador, as long as it is still valid.
-
-To extend your stay in El Salvador beyond 180 days, you must depart and re-enter El Salvador by air, land or sea and obtain a new entry immigration card.
-
-### Entry and exit stamps
-
-You must obtain entry and exit stamps at border crossings.
+To extend your stay in El Salvador beyond 180 days, you must depart and re-enter El Salvador by air, land or sea.
 
 ### Central America-4 Border Control Agreement
 
-Under the terms of the Central America-4 Border Control Agreement (CA-4), your Salvadoran entry immigration card will allow you to travel for up to a total of 90 days within any of the CA-4 countries, which are:
+Under the terms of the Central America-4 Border Control Agreement (CA-4), Canadian tourists may travel freely within any of the following CA-4 countries:
 
 * El Salvador
 * Guatemala
 * Honduras
 * Nicaragua
 
-When travelling between these countries, you still must check in at immigration counters but don’t need to obtain additional permits. Other countries’ authorities will stamp your passport to record your entry/exit dates and to ensure that you have not overstayed the initial time authorized for your visit in the CA-4 region. The 90-day period begins at your first point of entry to any of the CA-4 countries. You will be fined if you exceed the 90-day limit.
+You can travel between these countries for up to 90 days without having to undergo entry and exit formalities at border immigration checkpoints. However, 90 days are not automatically granted. It is the immigration officer at your first entry point into the CA-4 region who will determine the exact length of your authorized stay.
 
-You may request an extension of up to 90 days once a year. If you are in El Salvador, you must request this extension and pay the required fee at El Salvador’s immigration headquarters in San Salvador at least 5 days before your first 90-day limit expires. Immigration authorities will determine the length of the extension.
+You must still check in at immigration counters when you enter or exit these checkpoints.
 
-If you have received a new Canadian passport while inside El Salvador – for example, your previous passport was lost – and you want to continue travelling by land in the CA-4 region, you need a new Salvadoran entry stamp in your new passport before entering one of the other countries. You must present your new passport at El Salvador’s immigration headquarters to arrange this.
+Make sure you receive an entry or exit stamp in your passport each time you cross a checkpoint to avoid problems with immigration authorities and fines.
+
+Salvadoran immigration authorities may grant you a stay of up to 180 days. However, other CA-4 countries only recognize the first 90 days. Keep this in mind when travelling within the CA-4 region to avoid problems with immigration authorities.
+
+If you wish to extend your stay beyond 90 days within the CA-4 region, you must request an extension and pay the required fee at the designated immigration office in one of the other CA-4 countries before the 90-day limit expires. Immigration authorities will determine the exact length of the extension.
+
+Once your total authorized stay expires, you must change your migratory status, leave the CA-4 region or return to El Salvador, where you may be granted a stay of up to 180 days. If you fail to do so, you will be fined and given 5 days to leave.
+
+Once you leave the CA-4 region, you may attempt to return and restart the process without delay. However, the immigration officer could deny your re-entry.
+
+If you get a new Canadian passport in El Salvador, you must obtain a new entry stamp from immigration authorities before exiting the country and travelling within the CA-4 region.
+
+[Immigration and Foreign Affairs](https://www.migracion.gob.sv/) – Government of El Salvador (in Spanish only)
 
 ### Work or study
 
@@ -85,7 +80,10 @@ Make sure you have all the required documents before you leave Canada.
 
 ### Other entry requirements
 
-Customs officials may ask you to show them a return or onward ticket and proof of sufficient funds to cover the cost of your stay.
+Customs officials may ask you to show them:
+
+* a return or onward ticket
+* proof of sufficient funds to cover the cost of your stay.
 
 ### Children and travel
 
@@ -94,7 +92,7 @@ A Canadian minor, under 18 years of age, living in or visiting El Salvador for m
 To depart El Salvador, a minor resident needs written consent from any parent listed on the child’s birth certificate who is not travelling with the minor. The consent form must be:
 
 * an original document (not a photocopy or a scan)
-* notarized by either a Salvadoran notary in El Salvador or a Salvadoran consul abroad.
+* notarized by either a Salvadoran notary in El Salvador or a Salvadoran consul abroad
 
 [Travelling with children](http://travel.gc.ca/travelling/children)
 

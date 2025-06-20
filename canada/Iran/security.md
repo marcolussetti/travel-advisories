@@ -8,9 +8,7 @@ Drones, missiles and other projectiles have struck targets in Iran.
 
 Further attacks are likely to occur. Interceptions could produce falling military debris in various locations.
 
-You should remain close to a bomb shelter or be prepared to shelter in a hardened structure away from windows in case air raid sirens activate.
-
-If you wish to leave Iran and can do so safely, note that there are border crossing options:
+You should leave Iran if you can do so safely. It’s possible to cross the land border at the following locations:
 
 * To Türkiye:
 
@@ -22,24 +20,17 @@ If you wish to leave Iran and can do so safely, note that there are border cross
 
 + Nordoz/Agarak
 
-You must have valid travel documents. If you have dual Canadian-Iranian citizenship, Iranian border officials may require you to exit Iran on your Iranian passport.
+* To Azerbaijan:
 
-If you travel to one of Iran’s border crossings to leave the country, you do so at your own risk.
++ The Astara border crossing point is closed. The Embassy of Canada to Türkiye, in Ankara, can request special entry authorization for Canadians from the Government of Azerbaijan. If you assess this to be your safest option, you or someone on your behalf should contact the [Embassy of Canada in Ankara](https://www.international.gc.ca/country-pays/turkiye/ankara.aspx?lang=eng&_ga=2.207730970.909031257.1750038042-1748139045.1691506137) or Global Affairs Canada’s 24/7 [Emergency Watch and Response Centre](https://travel.gc.ca/assistance/emergency-assistance?_ga=2.93069341.168187391.1696947682-2043183889.1686925125).
 
-We understand that there are connectivity problems in Iran. If possible, try to register or update your personal information through the [Registration of Canadians Abroad service](https://travel.gc.ca/travelling/registration) to receive the latest information about departure options. If you are unable to do so, try to contact Global Affairs Canada’s 24/7 [Emergency Watch and Response Centre](https://travel.gc.ca/assistance/emergency-assistance?_ga=2.93069341.168187391.1696947682-2043183889.1686925125).
+Border closures or restrictions to movement could occur.
 
-Missile and drone exchanges between Israel and Iran may result in disruptions to movement and transportation, including:
+You must have valid travel documents. If you have dual Canadian-Iranian citizenship, Iranian border officials require you to exit Iran on your Iranian passport.
 
-* border closures or restrictions
-* flight cancellations
-* airspace closures
+We understand that there are connectivity problems in Iran. If possible, you or someone on your behalf should try to register or update your personal information through the [Registration of Canadians Abroad service](https://travel.gc.ca/travelling/registration) to receive the latest information from the Government of Canada, including updates on available commercial travel options. Registration can also be done on your behalf online or by contacting Global Affairs Canada’s 24/7 [Emergency Watch and Response Centre](https://travel.gc.ca/assistance/emergency-assistance?_ga=2.93069341.168187391.1696947682-2043183889.1686925125).
 
-You should:
-
-* monitor local and international media to stay informed of the rapidly evolving situation
-* identify the location of the closest bomb shelter, if available
-* follow the instructions of local authorities, including air-raid sirens and evacuation or shelter in place orders
-* move away immediately and contact local authorities if you encounter unexploded ordnance, military debris or fragments
+If you remain in Iran, you should stay close to a bomb shelter or be prepared to shelter in a hardened structure away from windows in case air raid sirens activate.
 
 [Canada's response to the situation in the Middle East](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=eng)
 
