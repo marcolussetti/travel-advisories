@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   17 June 2025
+:   21 June 2025
 
 Updated:
-:   16 June 2025
+:   20 June 2025
 
 Latest update:
-:   Updated information about Jordan’s land border crossings (see “Warnings and Insurance”)
+:   Changes to the risks of regional escalation and new information about Jordan’s land border crossings (see 'Warnings and insurance', 'Entry Requirements' and 'Safety and Security' pages)
 
 ![](https://assets.publishing.service.gov.uk/media/65bbcf944965c50010e8a3f1/FCDO__TA__087_-_Jordan_Travel_Advice_Ed2__WEB_.jpg)
 
@@ -24,9 +24,9 @@ FCDO advises against all travel to within 3km of the border with Syria.
 
 ## Regional risks
 
-Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region. There are reports of military debris falling in various locations.
+Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region. There are reports of military debris falling in various locations. Iran aligned militia groups are also likely to continue to conduct attacks.
 
-Travel disruption, including flight cancellations and airspace closures may occur. Demonstrations and protest activity may take place.
+The current situation has disrupted air links and may disrupt road links and border crossings. Demonstrations and protest activity may take place.
 
 You should:
 
@@ -40,11 +40,13 @@ Jordanian airspace is open but airports and airspace may close at short notice. 
 * if you are in Jordan, contact your airline and follow the advice of the local authorities
 * if you are not yet in country, check with your airline
 
-Land border crossings from Israel and the Occupied Palestinian Territories are open. Timings may change at no notice.
+There are three land border crossings from Israel and the Occupied Palestinian Territories.  They are open most days from 8 or 8.30am.  Closures may happen at no notice, including over the weekend.
 
-* King Hussein/Allenby Bridge: 0800 – 1430
-* The Northern (Sheikh Hussein/Bet Shean) crossing: 0830 – 1430
-* The Southern (Wadi Araba) crossing: 0800 – 2000
+* King Hussein/Allenby Bridge
+* The Northern (Sheikh Hussein/Bet Shean) crossing
+* The Southern (Wadi Araba) crossing
+
+Those traveling from Israel and the OPTs should refer to [Israel travel advice - GOV.UK](https://www.gov.uk/foreign-travel-advice/israel)
 
 See [Entry requirements page](https://www.gov.uk/foreign-travel-advice/jordan/entry-requirements)
 

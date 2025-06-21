@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   19 June 2025
+:   21 June 2025
 
 Updated:
-:   18 June 2025
+:   20 June 2025
 
 Latest update:
-:   Additional information from the Israeli Ministry of Tourism, and information about border crossing and commercial transport options ('Warnings and insurance' page).
+:   Update to the risks of regional escalation (see 'Warnings and Insurance' page)
 
 ![](https://assets.publishing.service.gov.uk/media/684fe3c929fb1002010c4e51/FCDO__TA__022_-_Israel_Travel_Advice_Ed22__WEB_.jpg)
 
@@ -32,13 +32,22 @@ Let the UK government know you’re in Israel/Occupied Palestinian Territories, 
 
 ## Risks of regional escalation
 
-Following Israeli strikes against targets in Iran, Iran has launched multiple rounds of missile and drone attacks against Israel. On 13 June a nationwide state of emergency was declared in Israel. Israeli airspace remains closed and Ben Gurion Airport is currently closed.
+Following Israeli strikes against targets in Iran, Iran has launched multiple rounds of missile and drone attacks against Israel. Iran aligned militia groups are also likely to continue to conduct attacks. On 13 June a nationwide state of emergency was declared in Israel. Israeli airspace remains closed and Ben Gurion Airport is currently closed.
 
-This is a fast-moving situation that poses significant risks. The situation has the potential to deteriorate further, quickly and without warning. The current situation has disrupted air links out of the country and may disrupt road links. We encourage you to read the FCDO’s advice on [if you’re affected by a crisis abroad](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas)
+This is a fast-moving situation that poses significant risks. The situation has the potential to deteriorate further, quickly and without warning. The current situation has disrupted air links out of the country and may disrupt road links and border crossings. We encourage you to read the FCDO’s advice on [if you’re affected by a crisis abroad](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas)
 
 Family members of staff at the British Embassy in Tel Aviv and the British Consulate in Jerusalem have been temporarily withdrawn as a precautionary measure.
 
 The Embassy and Consulate continues with essential work including services to British nationals.
+
+Any attacks could be indiscriminate, including places visited by foreign nationals such as:
+
+* The Old City in Jerusalem
+* Government, military and police installations
+* Security personnel including military and police
+* Transport networks
+* Businesses with western interests
+* Crowded places
 
 ### Check local information
 
@@ -48,15 +57,15 @@ The Israeli Ministry of Tourism has also announced plans to collect information 
 
 If you are in the Occupied Palestinian Territories and not have access to Home Front Command continue to follow local instructions including from Palestinian Civil Defence (Call 102, or see [www.pcd.ps](https://pcd.ps/) or [الدفاع المدني الفلسطيني Facebook](https://www.facebook.com/pcd.ps102?mibextid=LQQJ4d)). The interception of missiles over Israel and the OPTs may result in falling fragments or debris. If you encounter any projectile debris or fragments you should move away from them immediately and contact local authorities.
 
-International land border crossings to Jordan and Egypt are open, but could close without notice and timings are subject to change. Before you travel check the travel advice for any neighbouring country that you are planning to travel to or through. Commercial transport services to border crossings (eg taxis and bus transport) are operating, subject to safety alerts. Commercial flights continue to operate from airports in the region to various destinations, including the UK.
+International land border crossings to Jordan and Egypt are open. Timings may change, or they may close, at no notice, including over the weekend. More information is available on the [Israel Airport Authority website](https://www.iaa.gov.il/en/land-border-crossings/alenbi/notifications-and-updates/). Before you travel check the travel advice for any neighbouring country that you are planning to travel to or through. Commercial transport services to border crossings (eg taxis and bus transport) are operating, subject to safety alerts. Commercial flights continue to operate from airports in the region to various destinations, including the UK.
 
-Jordan-Israel border crossings (timings subject to change):
+Jordan-Israel border crossings (opening times are subject to change):
 
-* Allenby/King Hussein Bridge: 8am to 2:30pm
-* The Northern (Jordan River/Sheikh Hussein) crossing: 8:30am to 2:30pm
-* The Southern (Yitzhak Rabin/Wadi Araba) crossing: 8am to 8pm
+* Allenby/King Hussein Bridge
+* The Northern (Jordan River/Sheikh Hussein) crossing
+* The Southern (Yitzhak Rabin/Wadi Araba) crossing
 
-Egypt-Israel border crossing (timings subject to change):
+Egypt-Israel border crossing (opening times are subject to change):
 
 * Taba: Open 24 hours
 

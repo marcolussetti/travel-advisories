@@ -12,7 +12,7 @@ Although there is no recent history of terrorism in Panama, attacks cannot be ru
 
 ## Political situation
 
-On 27 May, the Panamanian government announced a state of emergency in Bocas del Toro province in response to ongoing strikes and protests. If you are in the province, stay away from protests and be alert to further announcements by the local authorities.
+On 20 June, the Panamanian government announced a ‘state of urgency’ for 5 days in Bocas del Toro province in response to ongoing strikes and violent protests. This provides for the suspension of the constitutional right to freedom of assembly and allows the authorities to arrest people without a warrant. If you are in the province, stay away from protests, pay attention to good local advice and be alert to further announcements by the local authorities.
 
 Protests can be unpredictable, occur at short notice and escalate quickly. Avoid protests and demonstrations, monitor local media and follow advice from local authorities. Avoid travelling around protest-affected areas at night. Protests may be particularly large in Colón City.
 
@@ -20,7 +20,7 @@ Protests often involve informal road blocks and can affect access to the border 
 
 ## Crime
 
-If you’re the victim of a crime in Panama and want to report the incident, do so before you leave the country, otherwise the police may not investigate.
+If you are the victim of a crime in Panama and want to report the incident, do so before you leave the country, otherwise the police may not investigate.
 
 Street crime can happen anywhere, but these areas of Panama City have higher levels of crime:
 
@@ -66,7 +66,7 @@ There have been incidents of targeted gang assassinations, some in tourist areas
 
 ### Personal ID
 
-As a foreign national, you must carry ID such as a passport. The police will usually accept a printed copy
+As a foreign national, you must carry ID such as a passport. The police will usually accept a printed copy.
 
 ### Curfew in Colón Province
 
@@ -76,13 +76,13 @@ In Colón the curfew is from Sundays to Thursdays from 8pm to 4am and on Fridays
 
 ### Smoking and e-cigarette bans
 
-It’s illegal to smoke in public places. You could be fined 25 to 100 US dollars if you’re caught smoking where it’s not allowed. The use of e-cigarettes is also banned in public places.
+It is illegal to smoke in public places. You could be fined 25 to 100 US dollars if you are caught smoking where it’s not allowed. The use of e-cigarettes is also banned in public places.
 
 ### Illegal drugs and prison sentences
 
 Do not become involved with drugs of any kind. You can get a prison sentence for possessing even a small quantity of drugs.
 
-The judicial process is slow and sentencing may take up to 2 years, during which you are likely to be detained. Conditions in prisons and other detention facilities in Panama are harsh. Most facilities are overcrowded with limited access to healthcare. There have been recent cases of riots ending in prisoner deaths.
+The judicial process is slow and sentencing may take up to 2 years, during which you are likely to be detained. Conditions in prisons and other detention facilities in Panama are often harsh. Most facilities are overcrowded with limited access to healthcare. There have been recent cases of riots resulting in prisoner deaths.
 
 ### LGBT+ travellers
 
@@ -129,7 +129,7 @@ Traffic can be heavy in Panama City and other populated areas such as:
 
 Repair work and construction sites are common in these areas.
 
-If you’re involved in a traffic accident with another driver, wait inside your vehicle for your insurance representative and the traffic police to arrive. Avoid any type of confrontation with other drivers or passers-by.
+If you are involved in a traffic accident with another driver, wait inside your vehicle for your insurance representative and the traffic police to arrive. Avoid any type of confrontation with other drivers or passers-by.
 
 ### Taxis
 

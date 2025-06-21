@@ -12,10 +12,6 @@ Check with your travel provider that your passport and other travel documents me
 
 You will be denied entry if you do not have a valid travel document or try to use a passport that has been reported lost or stolen.
 
-## Return tickets
-
-The Egyptian Civil Aviation Authority has directed all airlines and travel companies to ensure that any passengers arriving in Egypt between 12 and 16 June have a confirmed return ticket. Travelers who are unable to demonstrate this are liable to be refused entry into the country.
-
 ## Visa requirements
 
 British passport holders travelling to Egypt normally need a visa.

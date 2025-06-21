@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   5 June 2025
+:   21 June 2025
 
 Updated:
-:   4 June 2025
+:   20 June 2025
 
 Latest update:
-:   Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through airports ('Safety and security' page).
+:   New information on entering Turkey across the land border from Iran (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/6703bc3c3b919067bb482cfb/FCDO__TA__043_-_Turkey_Travel_Advice_Ed4__WEB_.jpg)
 

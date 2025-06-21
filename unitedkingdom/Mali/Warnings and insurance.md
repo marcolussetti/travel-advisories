@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   21 June 2025
 
 Updated:
-:   27 January 2025
+:   20 June 2025
 
 Latest update:
-:   New information on the criminalisation of the promotion or participation in consensual same-sex relationships (‘Safety and security’ page).
+:   Updated information on the visa process and the security situation, including terrorist threats to international businesses ('Entry requirements' and 'Safety and security' pages).
 
 ![](https://assets.publishing.service.gov.uk/media/651e9d407309a10014b0a8b3/FCDO__TA__026_-_Mali_Travel_Advice_Ed5__WEB_.jpg)
 

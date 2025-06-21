@@ -22,8 +22,9 @@ Attacks could be indiscriminate and occur at any time, including in places frequ
 * military sites and institutions
 * government and official buildings
 * international institutions
-* transport hubs, including airports
+* transport hubs, including airports and major roads
 * embassies
+* international businesses, including mining companies and operations
 * religious sites and places of worship
 * sporting and cultural events
 * shopping centres and crowded places
@@ -31,13 +32,11 @@ Attacks could be indiscriminate and occur at any time, including in places frequ
 
 Examples of recent significant attacks include:
 
+* in June 2025, JNIM claimed to kill more than 150 soldiers, in multiple attacks targeting military bases in Boulkessi, Timbuktu and Mahou
 * in September 2024, at least 70 people were killed by attacks in the Gendarmerie School in Faladie district and Modibo Keita International Airport in Bamako
-* In July 2024, at least 7 civilians were killed by an indiscriminate motorcycle attack in an IDP camp in Mondoro, Gao Region
-* In June 2024, ISSP claimed responsibility for an attack which killed or wounded on the route between Menaka and Ansongo
-* In May 2024, 9 people were abducted and killed in an attack in Koundi locality, near Timbuktu
-* In March 2024, at least 10 soldiers were killed when JNIM seized an army barracks in Dandaresso, near Sikasso
-* In February 2024, 4 soldiers were killed in an attack on an army base in Melgue, Kayes region, near the Mauritanian border
-* in 2023, at least 40 Malian soldiers and Dozo hunters were killed in a militant attack in Farabougou village in the central Segou region
+* in July 2024, at least 7 civilians were killed by an indiscriminate motorcycle attack in an IDP camp in Mondoro, Gao Region
+* in June 2024, ISSP claimed responsibility for an attack which killed or wounded on the route between Menaka and Ansongo
+* in May 2024, 9 people were abducted and killed in an attack in Koundi locality, near Timbuktu
 * in 2023, a project worker for a humanitarian organisation, Action Against Hunger, was killed in Gao Region
 * in 2023, a roadside bomb killed 3 people and wounded 16 others in the Cercle de Bankass, in Mali’s central region of Bandiagara
 * in 2023, more than 60 people were killed in a suspected jihadist attack on a river boat near Abakoira in the north of Mali

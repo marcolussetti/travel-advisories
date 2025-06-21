@@ -1,11 +1,11 @@
 {
     "name": "Turkey",
-    "update_reason": "Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through airports ('Safety and security' page).",
+    "update_reason": "New information on entering Turkey across the land border from Iran (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Turkey/Warnings and insurance.md",
-            "update_date": "2025-06-04T17:20:00+01:00"
+            "update_date": "2025-06-20T14:58:33+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Turkey/Getting help.md"
         }
     ],
-    "update_date": "2025-06-04T17:20:00+01:00"
+    "update_date": "2025-06-20T14:58:33+01:00"
 }

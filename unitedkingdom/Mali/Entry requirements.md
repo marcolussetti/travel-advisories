@@ -14,7 +14,9 @@ You will be denied entry if you do not have a valid travel document or try to us
 
 ## Visa requirements
 
-You must have a visa to visit Mali. Arrange your visa with the [Malian Embassy in Europe](https://www.amba-mali.be/), which covers the UK.
+You must have a visa to visit Mali. The application and payment process is now fully online via the [Malian Ministry of Foreign Affairs website](https://diplomatiemdc.gouv.ml/vitrine/).
+
+An entry permit will be issued electronically once approved. There is no need to send documents to the Malian Embassy in Brussels, which covers the UK.
 
 ## Vaccine requirements
 

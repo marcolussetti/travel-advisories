@@ -6,7 +6,7 @@ The authorities in Panama set and enforce entry rules. If you’re not sure how 
 
 ## Passport validity requirements
 
-If you’re visiting Panama, your passport must have an ‘expiry date’ at least 6 months after the day you plan to leave Panama.
+If you are visiting Panama, your passport must have an ‘expiry date’ at least 6 months after the day you plan to leave Panama.
 
 If you live in Panama, your passport must have an ‘expiry date’ at least 6 months after the day you arrive.
 

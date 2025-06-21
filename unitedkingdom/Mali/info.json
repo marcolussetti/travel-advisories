@@ -1,11 +1,11 @@
 {
     "name": "Mali",
-    "update_reason": "New information on the criminalisation of the promotion or participation in consensual same-sex relationships (\u2018Safety and security\u2019 page).",
+    "update_reason": "Updated information on the visa process and the security situation, including terrorist threats to international businesses ('Entry requirements' and 'Safety and security' pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Mali/Warnings and insurance.md",
-            "update_date": "2025-01-27T16:28:56+00:00"
+            "update_date": "2025-06-20T15:11:29+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Mali/Getting help.md"
         }
     ],
-    "update_date": "2025-01-27T16:28:56+00:00"
+    "update_date": "2025-06-20T15:11:29+01:00"
 }

@@ -1,11 +1,11 @@
 {
     "name": "Jordan",
-    "update_reason": "Updated information about Jordan\u2019s land border crossings (see \u201cWarnings and Insurance\u201d)",
+    "update_reason": "Changes to the risks of regional escalation and new information about Jordan\u2019s land border crossings (see 'Warnings and insurance', 'Entry Requirements' and 'Safety and Security' pages)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Jordan/Warnings and insurance.md",
-            "update_date": "2025-06-16T22:17:53+01:00"
+            "update_date": "2025-06-20T20:28:23+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Jordan/Getting help.md"
         }
     ],
-    "update_date": "2025-06-16T22:17:53+01:00"
+    "update_date": "2025-06-20T20:28:23+01:00"
 }

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   19 June 2025
+:   21 June 2025
 
 Updated:
-:   18 June 2025
+:   20 June 2025
 
 Latest update:
-:   Updated information for British nationals wanting to enter Turkmenistan from Iran (‘Entry requirements’ page)
+:   Addition of information on entering Turkmenistan across the land border from Iran (‘Entry requirements’ page).
 
 ## Before you travel
 

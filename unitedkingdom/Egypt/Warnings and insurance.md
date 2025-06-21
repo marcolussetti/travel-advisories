@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   15 June 2025
+:   21 June 2025
 
 Updated:
-:   14 June 2025
+:   20 June 2025
 
 Latest update:
-:   Due to ongoing developments in connection with the Global March on Gaza, travellers will want to review existing advice in the section on Safety and Security. We advise against all travel towards North Sinai
+:   Remove outdated information about requiring a return ticket to enter Egypt (‘Entry requirements’ page)
 
 ![](https://assets.publishing.service.gov.uk/media/670e278f30536cb92748313c/FCDO__TA__015_-_Egypt_Travel_Advice_Ed10__WEB_.jpg)
 

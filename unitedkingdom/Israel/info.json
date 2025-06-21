@@ -1,11 +1,11 @@
 {
     "name": "Israel",
-    "update_reason": "Additional information from the Israeli Ministry of Tourism, and information about border crossing and commercial transport options ('Warnings and insurance' page).",
+    "update_reason": "Update to the risks of regional escalation (see 'Warnings and Insurance' page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Israel/Warnings and insurance.md",
-            "update_date": "2025-06-18T09:56:38+01:00"
+            "update_date": "2025-06-20T20:28:13+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Israel/Getting help.md"
         }
     ],
-    "update_date": "2025-06-18T09:56:38+01:00"
+    "update_date": "2025-06-20T20:28:13+01:00"
 }

@@ -20,9 +20,9 @@ Follow Azerbaijani national government and local authorities’ advice in areas 
 
 The border with Armenia remains closed. The FCDO also advises against all travel to within 5km of the rest of the border with Armenia. Note that this does not include the border of Azerbaijan’s Nakhchivan exclave with Armenia.
 
-## Borders with Iran and Georgia
+## Border with Georgia
 
-The land borders between Iran and Azerbaijan, and Georgia and Azerbaijan are temporarily closed.
+The land border between Georgia and Azerbaijan is temporarily closed.
 
 ## Azerbaijan-Russia border
 

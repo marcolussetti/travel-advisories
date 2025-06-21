@@ -48,6 +48,8 @@ If you wish to combine travel to Jordan with a visit to Israel and the Occupied 
 
 On the Jordanian side, board guards will stamp passports unless the traveller requests otherwise and tells them before they hand over their passport.
 
+Photography and videography are not permitted on the border crossings.
+
 ## Departure tax
 
 You must pay a departure tax of 10 Jordanian dinars in cash at all land border crossings. There are usually ATMs at the border.

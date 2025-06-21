@@ -1,11 +1,11 @@
 {
     "name": "Iran",
-    "update_reason": "Information added on the current situation affecting Iran (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Information that due to the security situation, UK staff have been temporarily withdrawn from Iran. Our embassy continues to operate remotely (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Iran/Warnings and insurance.md",
-            "update_date": "2025-06-17T16:35:44+01:00"
+            "update_date": "2025-06-20T14:57:42+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Iran/Getting help.md"
         }
     ],
-    "update_date": "2025-06-17T16:35:44+01:00"
+    "update_date": "2025-06-20T14:57:42+01:00"
 }

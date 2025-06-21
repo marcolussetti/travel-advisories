@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   31 May 2025
+:   21 June 2025
 
 Updated:
-:   30 May 2025
+:   20 June 2025
 
 Latest update:
-:   Announcement of a state of emergency in Bocas Del Toro province (See ‘Political situation’ on the ‘Safety and security’ page).
+:   Announcement of a state of urgency in Bocas Del Toro province (See ‘Political situation’ on the ‘Safety and security’ page).
 
 ## Before you travel
 
