@@ -315,9 +315,9 @@ High-risk travellers include those visiting or working in prisons, refugee camps
 
 ### Medical services and facilities
 
-Limited medical facilities are available in Yangon but may not meet Canadian standards and are very limited elsewhere in the country. Foreign prescription drugs are often counterfeit and are unsafe to use. There are no emergency neonatal services in Myanmar.
+Limited medical facilities are available in Yangon and do not meet Canadian standards. They are very limited elsewhere in the country. Foreign prescription drugs are often counterfeit and unsafe to use.
 
-Medical evacuation is necessary for cases of serious illness or accident. Doctors and hospitals may demand immediate cash payment for health services and medical evacuation. Make sure you have adequate/accessible cash to cover the cost of emergency needs.
+Medical evacuation is necessary for cases of serious illness or accident. Doctors and hospitals may demand immediate cash payment for health services and medical evacuation. Make sure you have enough cash to cover the cost of emergency medical services.
 
 Make sure you get travel insurance that includes coverage for medical evacuation and hospital stays.
 

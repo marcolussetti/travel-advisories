@@ -4,11 +4,9 @@
 
 ### Hurricane Erick
 
-On June 19, 2025, Hurricane Erick made landfall on the Western coast of Oaxaca State.
+On June 19, 2025, Hurricane Erick made landfall on the western coast of Oaxaca State. It caused significant damage to buildings and infrastructure.
 
-Hurricane Erick is gradually weakening as it is moving inland northwestward, but it will continue to bring heavy rainfall and violent winds.
-
-It may cause flash flooding and landslides and could severely disrupt the following essential services:
+The storm brought excessive rainfall and violent winds. It caused severe flooding and there are significant disruptions to the following essential services:
 
 * transportation
 * power distribution
@@ -17,7 +15,7 @@ It may cause flash flooding and landslides and could severely disrupt the follow
 * emergency services
 * medical care
 
-If you are in the affected area of southern Mexico:
+If you are in the affected area of southwestern Mexico:
 
 * exercise caution
 * monitor local news and weather reports

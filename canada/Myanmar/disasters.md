@@ -41,4 +41,7 @@ Cyclones usually occur between April and October. Severe rainstorms can result i
 
 Keep informed of regional weather forecasts, avoid disaster areas and follow the instructions of local authorities.
 
-[Tornadoes, cyclones, hurricanes, typhoons and monsoons](https://travel.gc.ca/travelling/health-safety/hurricanes-typhoons-cyclones-monsoons).
+#### Useful links
+
+* [Earthquakes - What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx)
+* [Tornadoes, cyclones, hurricanes, typhoons and monsoons](https://travel.gc.ca/travelling/health-safety/hurricanes-typhoons-cyclones-monsoons)

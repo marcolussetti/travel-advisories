@@ -42,7 +42,7 @@ Different entry rules may apply when travelling with a temporary passport or an 
 Tourist visa: required   
 Business visa: required
 
-A visa is required for tourism and business purposes and is valid for 28 days. It should be obtained prior to travel at a Myanmar diplomatic mission. An eVisa option and multiple-entry business visas are available.
+A visa is required for tourism and business purposes and is valid for 28 days. It should be obtained prior to travel at a Myanmar diplomatic mission. Both eVisas and multiple-entry business visas are available. Visitors must produce proof of hotel accommodation on arrival. Staying with friends or colleagues is not a valid option for entry into the country.
 
 The Myanmar government has created a visa-on-arrival program to allow select business travellers, including Canadians, to obtain a business visa upon arrival at the Yangon International Airport. Travellers are encouraged not to rely on this option, however, as the program’s requirements and eligibility criteria remain unclear. It is strongly recommended that all travellers, including business travellers, carefully verify visa requirements and options with the nearest Embassy of the Republic of the Union of Myanmar before travelling.
 
@@ -50,7 +50,7 @@ Foreign journalists have had difficulty obtaining visas, and some have been deni
 
 Travel to parts of Myanmar is strictly controlled by government authorities. Foreigners have been deported and detained for visa offences.
 
-[eVisa](https://evisa.moip.gov.mm/) - Myanmar's Ministry of Immigration and population
+[eVisa](https://evisa.moip.gov.mm/) – Myanmar's Ministry of Immigration and population
 
 ### Port of entry
 
@@ -58,9 +58,11 @@ You should use the same port of entry (e.g. Yangon International Airport) to ent
 
 ### Border crossings
 
-There are few land border crossing points, and permission to cross these borders may be required in advance, through a process separate from the required visa application. Some government-authorized tour companies may be able to secure the appropriate permission from the Ministry of Hotels and Tourism.
+We strongly advise against all travel to Myanmar, including through its land borders, due to the ongoing conflict. You could be caught in violent clashes.
 
-Border crossings may close with little or no notice, and entry may be restricted to the nationals of the bordering states and/or to the immediate area or border town. Although travel to or from Myanmar via a land route is possible, Global Affairs Canada advises against travel to the border areas with China, Laos and Thailand.
+If you decide to travel, know that land border crossing hours of operation are unpredictable and could leave you stranded on either side of the border. Border crossings may close with little or no notice, and entry may be restricted to the nationals of the bordering states and/or to the immediate area or border town.
+
+Some government-authorized tour companies may be able to secure the appropriate permission from the Ministry of Hotels and Tourism to cross these borders in advance, through a process separate from the required visa application.
 
 ### Children and travel
 

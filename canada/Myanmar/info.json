@@ -1,7 +1,7 @@
 {
     "name": "Myanmar",
-    "update_reason": "Health \u2013 added an outbreak monitoring for post-earthquake health risks",
-    "update_date": "2025-05-26T09:58:00",
+    "update_reason": "Thorough review and update of the entire content",
+    "update_date": "2025-06-20T07:12:00",
     "sections": {
         "risk": "canada/Myanmar/risk.md",
         "security": "canada/Myanmar/security.md",

@@ -28,7 +28,7 @@ Border closures or restrictions to movement could occur.
 
 You must have valid travel documents. If you have dual Canadian-Iranian citizenship, Iranian border officials require you to exit Iran on your Iranian passport.
 
-We understand that there are connectivity problems in Iran. If possible, you or someone on your behalf should try to register or update your personal information through the [Registration of Canadians Abroad service](https://travel.gc.ca/travelling/registration) to receive the latest information from the Government of Canada, including updates on available commercial travel options. Registration can also be done on your behalf online or by contacting Global Affairs Canada’s 24/7 [Emergency Watch and Response Centre](https://travel.gc.ca/assistance/emergency-assistance?_ga=2.93069341.168187391.1696947682-2043183889.1686925125).
+We understand that there are connectivity problems in Iran. If possible, you or someone on your behalf should try to register or update your personal information through the [Registration of Canadians Abroad service](https://travel.gc.ca/travelling/registration) to receive the latest information from the Government of Canada, including updates on available travel options. Registration can also be done on your behalf online or by contacting Global Affairs Canada’s 24/7 [Emergency Watch and Response Centre](https://travel.gc.ca/assistance/emergency-assistance?_ga=2.93069341.168187391.1696947682-2043183889.1686925125).
 
 If you remain in Iran, you should stay close to a bomb shelter or be prepared to shelter in a hardened structure away from windows in case air raid sirens activate.
 

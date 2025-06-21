@@ -1,7 +1,7 @@
 {
     "name": "Iran",
-    "update_reason": "Safety and security \u2013 added information on land border crossings and commercial travel options",
-    "update_date": "2025-06-19T18:35:00",
+    "update_reason": "editorial change",
+    "update_date": "2025-06-20T11:25:00",
     "sections": {
         "risk": "canada/Iran/risk.md",
         "security": "canada/Iran/security.md",

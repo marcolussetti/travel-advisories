@@ -4,13 +4,23 @@
 
 ### State of emergency in Bocas del Toro Province
 
-A state of emergency was declared in Bocas del Toro Province on May 27, 2025, following several weeks of demonstrations.
+A state of emergency is currently in effect in Bocas del Toro Province in response to demonstrations and violent incidents. During the state of emergency, several key constitutional rights are suspended, including but not limited to:
 
-If you're in the affected area:
+* freedom of movement
+* freedom of speech
+* fair detention
+* privacy
+* peaceful public gatherings
 
-* carry valid ID at all times
+Since June 19, 2025, there have been significant clashes between police and protestors in the Changuinola region. Arson, looting, and vandalism have taken place, including at the Capitán Manuel Niño International Airport.
+
+Fuel shortages, including on the islands, may impact service availability, such as transportation.
+
+You should avoid the affected areas. However, if you're there:
+
+* carry valid identification at all times
 * follow the instructions of local authorities
-* monitor local media to stay informed on the evolving situation
+* monitor local media for the latest information.
 
 ### Nationwide demonstrations
 
