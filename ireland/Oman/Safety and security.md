@@ -1,12 +1,12 @@
 ## Safety and security
 
-### Regional tensions
+### Regional Tensions
 
 Ongoing hostilities in Iran, Israel, and Palestine may escalate leading to possible attacks on military installations; and/or on strategic infrastructure. Debris from intercepted missiles or drones may cause localised damage over urban areas. The most immediate risk remains delay or cancellation of flights.
 
 Do not travel to the Yemen border area due to the risk of terrorism and conflict.
 
-### **Social unrest**
+### **Social Unrest**
 
 The political situation in Oman is reasonably stable but there can be occasional outbreaks of social unrest. Always keep yourself informed of what is going on around you by monitoring local media and staying in contact with your hotel or tour organiser. And avoid demonstrations and public gatherings, which can sometimes turn confrontational.
 
@@ -24,7 +24,7 @@ Be vigilant particularly in public places. Avoid large gatherings and all demons
 * Avoid dark and unlit streets and stairways, and arrange to be picked up or dropped off as close to your hotel or apartment entrance as possible; and
 * Keep a close eye on your personal belongings and hold on to them in public places such as internet cafés, train and bus stations.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If you’re a victim of a crime while in Oman, report it to the local police immediately. If you require further assistance you can contact us at the [**Irish Embassy in Riyadh**](/en/saudiarabia/riyadh/) if you need help.
 
@@ -38,7 +38,7 @@ If you are planning to drive in Oman, you should be cautious. Driving is on the 
 * Keep your vehicle doors locked and your bags kept out of sight to prevent opportunistic bag-snatching if you’re stopped at traffic lights; and
 * Don’t use a mobile phone whilst driving (you can be given an on-the-spot fine).
 
-### **Local travel**
+### **Local Travel**
 
 There are good roads in Muscat and between Muscat and major towns in the interior. However, driving at night can be dangerous outside Muscat, as there is a risk of hitting camels that stray onto the road.
 
@@ -46,7 +46,7 @@ If you are involved in an accident you must stay with your vehicle and call the 
 
 All off-road travel should be with at least two vehicles suitably equipped in case of emergencies. If you are intending such travel, you should take out sufficient insurance to meet the costs of rescue.
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If you are hiring a vehicle, we advise you not to hand over your passport as a form of security. If you’re allowing your passport to be photocopied, keep it in your sight at all times.
 
@@ -56,7 +56,7 @@ Rental and company vehicles in particular have been vulnerable to robbery in the
 
 Please be aware that hired cars in this region often come with a daily travel limit (often 200km – 250km), beyond which you may have to pay a surcharge.
 
-### **Maritime safety**
+### **Maritime Safety**
 
 Many areas of the Gulf of Aden are highly sensitive. Vessels entering these areas have been detained and inspected, and there have been occasional arrests. Piracy in the Indian Ocean and in the Gulf of Aden is also increasing in frequency, and is a significant threat.
 

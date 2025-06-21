@@ -1,6 +1,6 @@
 ## Safety and security
 
-### **Practical advice**
+### **Practical Advice**
 
 * Get advice locally about areas of risk and security concerns
 * Take common-sense precautions about safety and security

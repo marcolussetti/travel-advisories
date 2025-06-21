@@ -6,7 +6,7 @@ High Degree of Caution
 
 ### **Travel Alert**
 
-While tourists are not normally the targets of gang violence, passers-by could be affected. Visitors should avoid unnecessary travel to the southern neighbourhoods of Belize City due to the high rate of violent crime and gang violence. On 7 May, the government announced a one-month state of emergency in parts of Belize City, as well as in Belize and Cayo districts, which grants the police additional powers. At all times, visitors should follow the advice of local authorities.
+While tourists are not normally the targets of gang violence, passers-by could be affected. Visitors should avoid unnecessary travel to the southern neighbourhoods of Belize City due to the high rate of violent crime and gang violence.
 
 ### **General Travel Advice**
 

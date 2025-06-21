@@ -3,8 +3,8 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Oman/Overview.md"
+            "title": "Travel to Oman overview",
+            "file": "ireland/Oman/Travel to Oman overview.md"
         },
         {
             "title": "Safety and security",
@@ -19,13 +19,13 @@
             "file": "ireland/Oman/Natural disasters and climate.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Oman/Additional information.md"
+            "title": "Entry requirements",
+            "file": "ireland/Oman/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Oman/Embassy contact.md"
         }
     ],
-    "update_date": "2025-06-18T00:00:00"
+    "update_date": "2025-06-20T00:00:00"
 }

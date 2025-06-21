@@ -1,5 +1,7 @@
 ## Embassy contact
 
+As Ireland does not have an Embassy or Consulate in Oman, consular assistance is provided via the Embassy of Ireland in Saudi Arabia.
+
 If you are an Irish citizen and require emergency out of hours assistance you can contact the Duty Officer at +966 550 543 386.
 
 If your call is not answered or you are unable to make a voice call please send a text message with your name, contact information for you and your sponsor and details of your emergency. The Duty Officer will respond to you as soon as possible.

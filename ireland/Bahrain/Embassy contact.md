@@ -1,5 +1,7 @@
 ## Embassy contact
 
+As Ireland does not have an Embassy or Consulate in Bahrain, consular assistance is provided via the Embassy of Ireland in Saudi Arabia.
+
 If you are an Irish citizen and require emergency out of hours assistance you can contact the Duty Officer at +966 550 543 386.
 
 Sunday to Thursday 09:00-11:00

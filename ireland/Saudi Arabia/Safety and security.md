@@ -1,20 +1,20 @@
 ## Safety and security
 
-### Regional tensions
+### **Regional Tensions**
 
 Ongoing hostilities in Iran, Israel, Palestine and in Houthi controlled areas in Yemen may escalate leading to possible attacks on military installations and/or on strategic infrastructure. Debris from intercepted missiles or drones may cause localised damage over urban areas. The most immediate risk remains delay or cancellation of flights.
 
-### **Maritime safety**
+### **Maritime Safety**
 
 Many areas of the Gulf are highly politically sensitive and some are subject to jurisdictional disputes. Houthi rebels in Yemen have attacked vessels in the Red Sea as well as targets in Israel resulting in counter strikes from the US, UK and Israel. There is a risk of piracy in the southern Red Sea and in the Gulf of Aden.
 
-### **Political unrest**
+### **Political Unrest**
 
 While generally safe, historically conditions in certain areas of Saudi Arabia can deteriorate quickly leading to public disturbances. You should remain informed of local and regional developments that could result in a heightened level of risk.
 
 Unauthorised public demonstrations are illegal in Saudi Arabia and should be avoided. In the past, localised unrest in the Eastern Province region resulted in spontaneous demonstrations and clashes with security forces.
 
-### **Saudi-Yemeni border**
+### **Saudi-Yemeni Border**
 
 There is an increased risk of terrorist incidents close to the Saudi-Yemeni border. In addition, Houthi rebels have in recent years fired missiles at major towns and cities and strategic infrastructure in Saudi Arabia.
 
@@ -54,24 +54,24 @@ If you want to drive:
 
 Please note that some cities have implemented automated camera systems to catch red light runners and drivers exceeding the speed limit. If you incur any fines these will need to be paid before leaving Saudi Arabia. It is possible to make the payment at the airport but only during normal office hours.
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If you are hiring a vehicle, we advise you not to hand over your passport as a form of security. If you’re allowing your passport to be photocopied, keep it in your sight at all times.
 
 Check that you have adequate insurance and read the small print of the vehicle hire contract (particularly any waiver that will come into effect if the vehicle is damaged).
 
-### **Taxis/Chauffeur drive cars**
+### **Taxis/Chauffeur Driven** **Cars**
 
 Given the relatively low cost, most visitors will use official taxis, chauffeur-driven cars, or taxi-apps such as Uber or Careem. We recommend taxis are pre-booked and you should avoid hailing a taxi on the street or using unofficial drivers at the airport.
 
-### **Female Travelers**
+### **Female Travellers**
 
 If you are travelling in Saudi Arabia, you should only travel in pre-booked taxis known to be safe and avoid hailing a taxi in the street or accepting a lift from someone you do not know.
 
-### **Personal safety**
+### **Personal Safety**
 
 It is recommended that you keep a low profile and be especially vigilant in places popular with foreign nationals such as hotels, restaurants and shopping malls. Make sure that your vehicle is safe at all times and be certain of your destination and direction of travel before departing.
 
-### **Reporting a crime**
+### **Reporting a Crime**
 
 If you are a victim of a crime while in Saudi Arabia you should report the incident to the local police immediately. You can also contact the Irish Embassy in Riyadh if you require further assistance.

@@ -3,12 +3,16 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/French Guiana/Overview.md"
+            "title": "Travel to French Guiana overview",
+            "file": "ireland/French Guiana/Travel to French Guiana overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/French Guiana/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/French Guiana/Health.md"
         },
         {
             "title": "Local laws and customs",
@@ -19,13 +23,13 @@
             "file": "ireland/French Guiana/Natural Disasters and Climate.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/French Guiana/Additional information.md"
+            "title": "Entry requirements",
+            "file": "ireland/French Guiana/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/French Guiana/Embassy contact.md"
         }
     ],
-    "update_date": "2023-11-20T00:00:00"
+    "update_date": "2025-06-20T00:00:00"
 }

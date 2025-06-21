@@ -6,9 +6,9 @@ We cannot pay for emergency medical repatriation, repatriation of remains, or fo
 
 Buying comprehensive travel insurance can save a lot of money if something goes wrong. It will also ensure that you get the medical attention you need, when needed. Hospital bills can quickly run into thousands of euro, and a medical evacuation back to Ireland can cost thousands more.
 
-Not all policies are the same, and the cheapest one might be cheap for a reason. Make sure the policy covers all planned activities.  [**Insurance Ireland recommend**](http://www.insuranceireland.eu/consumer-information/general-non-life-insurance/travel) that you purchase a policy that provides a minimum medical cover of €1 million.
+Not all policies are the same, and the cheapest one might be cheap for a reason. Make sure the policy covers all planned activities. [**Insurance Ireland recommend**](http://www.insuranceireland.eu/consumer-information/general-non-life-insurance/travel) that you purchase a policy that provides a minimum medical cover of €1 million.
 
-### **Emergency expenses**
+### **Emergency Expenses**
 
 Your policy should cover:
 
@@ -32,4 +32,4 @@ The EHIC is not a substitute for proper travel insurance provided by a reputable
 
 ### **Aedes Albopictus (Tiger Mosquito)**
 
-The Aedes albopictus, more commonly known as tiger mosquito, is present in south-western and south-eastern regions of France, as well as Alsace, Vendée and the Paris metropolitan area. The aedes albopictus is considered capable of carrying diseases such as dengue, zika, chikunguya or West Nile virus. However, the vast majority of cases of these diseases detected in France were contracted outside of the country, with only a very small number of locally-transmitted cases of dengue, West Nile virus and chikunguya detected in southern France. Travellers are encouraged to consider adopting sensible precautions such as using an insect repellent where mosquitos might be present.
+The Aedes albopictus, more commonly known as tiger mosquito, is present in south-western and south-eastern regions of France, as well as Alsace, Vendée and the Paris metropolitan area. The aedes albopictus is considered capable of carrying diseases such as dengue, zika, chikunguya or West Nile virus. However, the vast majority of cases of these diseases detected in France were contracted outside of the country, with only a very small number of locally-transmitted cases of dengue, West Nile virus and chikunguya detected in southern France. Travellers are encouraged to consider adopting sensible precautions such as using an insect repellent where mosquitos might be present.

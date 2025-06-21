@@ -3,25 +3,29 @@
     "risk_level": "Do Not Travel",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Yemen/Overview.md"
+            "title": "Travel to Yemen overview",
+            "file": "ireland/Yemen/Travel to Yemen overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Yemen/Safety and security.md"
         },
         {
+            "title": "Health",
+            "file": "ireland/Yemen/Health.md"
+        },
+        {
             "title": "Local laws and customs",
             "file": "ireland/Yemen/Local laws and customs.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Yemen/Additional information.md"
+            "title": "Entry requirements",
+            "file": "ireland/Yemen/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Yemen/Embassy contact.md"
         }
     ],
-    "update_date": "2025-05-19T00:00:00"
+    "update_date": "2025-06-20T00:00:00"
 }

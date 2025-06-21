@@ -3,12 +3,16 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Saudi Arabia/Overview.md"
+            "title": "Travel to Saudi Arabia overview",
+            "file": "ireland/Saudi Arabia/Travel to Saudi Arabia overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Saudi Arabia/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Saudi Arabia/Health.md"
         },
         {
             "title": "Local laws and customs",
@@ -19,13 +23,13 @@
             "file": "ireland/Saudi Arabia/Natural disasters and climate.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Saudi Arabia/Additional information.md"
+            "title": "Entry requirements",
+            "file": "ireland/Saudi Arabia/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Saudi Arabia/Embassy contact.md"
         }
     ],
-    "update_date": "2025-06-18T00:00:00"
+    "update_date": "2025-06-20T00:00:00"
 }

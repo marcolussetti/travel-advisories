@@ -80,7 +80,7 @@
     {
         "destination": "Bahrain",
         "risk_level": "High Degree of Caution",
-        "last_updated": "2025-06-18T00:00:00",
+        "last_updated": "2025-06-20T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/bahrain/"
     },
     {
@@ -110,7 +110,7 @@
     {
         "destination": "Belize",
         "risk_level": "High Degree of Caution",
-        "last_updated": "2025-06-11T00:00:00",
+        "last_updated": "2025-06-20T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/belize/"
     },
     {
@@ -212,7 +212,7 @@
     {
         "destination": "Central African Republic",
         "risk_level": "Do Not Travel",
-        "last_updated": "2024-08-16T00:00:00",
+        "last_updated": "2025-06-20T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/central-african-republic/"
     },
     {
@@ -254,7 +254,7 @@
     {
         "destination": "Congo",
         "risk_level": "High Degree of Caution",
-        "last_updated": "2024-11-07T00:00:00",
+        "last_updated": "2025-06-20T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/congo/"
     },
     {
@@ -404,13 +404,13 @@
     {
         "destination": "France",
         "risk_level": "Normal Precautions",
-        "last_updated": "2024-12-05T00:00:00",
+        "last_updated": "2025-06-20T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/france/"
     },
     {
         "destination": "French Guiana",
         "risk_level": "High Degree of Caution",
-        "last_updated": "2023-11-20T00:00:00",
+        "last_updated": "2025-06-20T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/french-guiana/"
     },
     {
@@ -866,7 +866,7 @@
     {
         "destination": "Oman",
         "risk_level": "High Degree of Caution",
-        "last_updated": "2025-06-18T00:00:00",
+        "last_updated": "2025-06-20T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/oman/"
     },
     {
@@ -992,7 +992,7 @@
     {
         "destination": "Saudi Arabia",
         "risk_level": "High Degree of Caution",
-        "last_updated": "2025-06-18T00:00:00",
+        "last_updated": "2025-06-20T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/saudi-arabia/"
     },
     {
@@ -1250,7 +1250,7 @@
     {
         "destination": "Yemen",
         "risk_level": "Do Not Travel",
-        "last_updated": "2025-05-19T00:00:00",
+        "last_updated": "2025-06-20T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/yemen/"
     },
     {

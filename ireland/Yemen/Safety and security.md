@@ -4,9 +4,9 @@ On-going hostilities in the region have negatively impacted Yemen’s social and
 
 Northern Yemen has been hit by intense air strikes by a number of actors in recent months. Travelling to this region may be extremely dangerous and all travel should be avoided. Areas under control by the Internationally Recognised Government have not been subject to aerial bombardment but remain volatile and there is a constant risk of civil disorder, terrorism and kidnapping. Travel in these areas is also not advised.
 
-### **Violent unrest**
+### **Violent Unrest**
 
-The political situation in Yemen is extremely unstable and continues to deteriorate.  Violent clashes are being witnessed.  If you are in Yemen, we advise you to leave immediately.  Always keep yourself informed of what’s going on around you by monitoring local media and staying in contact with your hotel or tour organiser.
+The political situation in Yemen is extremely unstable and continues to deteriorate. Violent clashes are being witnessed. If you are in Yemen, we advise you to leave immediately. Always keep yourself informed of what’s going on around you by monitoring local media and staying in contact with your hotel or tour organiser.
 
 ### **Terrorism**
 

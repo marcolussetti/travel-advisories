@@ -1,14 +1,14 @@
 ## Safety and security
 
-### Regional tensions
+### Regional Tensions
 
 Ongoing hostilities in Iran, Israel, and Palestine may escalate leading to possible attacks on military installations; and/or on strategic infrastructure. Debris from intercepted missiles or drones may cause localised damage over urban areas. The most immediate risk remains delay or cancellation of flights.
 
-### Maritime safety
+### Maritime Safety
 
 Many areas of the Gulf are highly politically sensitive and some are subject to jurisdictional disputes.
 
-### Social unrest
+### Social Unrest
 
 The political situation in Bahrain is reasonably stable apart from occasional protests linked to regional hostilities or political demonstrations. Always keep yourself informed of what is going on around you by monitoring local media and staying in contact with your hotel or tour organiser. And avoid demonstrations and public gatherings, which can sometimes turn confrontational.
 
@@ -22,7 +22,7 @@ Crime remains relatively low in Bahrain but you should take sensible precautions
 * Avoid dark and unlit streets and stairways, and arrange to be picked up or dropped off as close to your hotel or apartment entrance as possible; and
 * Keep a close eye on your personal belongings and hold on to them in public places such as internet cafés, train and bus stations.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If you are a victim of a crime while in Bahrain, report it to the local police immediately. If you require further assistance, you can contact the [**Irish Embassy in Riyadh**](/en/saudiarabia/riyadh/).
 
@@ -34,7 +34,7 @@ If you’re planning to drive in Bahrain, you should be extremely careful. Unsaf
 * There is zero tolerance to driving under the influence of alcohol or drugs. You risk being detained, fined or banned from driving if caught;
 * Keep your vehicle doors locked and your bags kept out of sight to prevent opportunistic bag-snatching if you’re stopped at traffic lights; and
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If you are hiring a vehicle, we advise you not to hand over your passport as a form of security. If you are allowing your passport to be photocopied, keep it in your sight at all times.
 

@@ -3,29 +3,29 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Congo/Overview.md"
+            "title": "Travel to Congo overview",
+            "file": "ireland/Congo/Travel to Congo overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Congo/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Congo/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Congo/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Congo/Additional information.md"
+            "title": "Local Laws and Customs",
+            "file": "ireland/Congo/Local Laws and Customs.md"
+        },
+        {
+            "title": "Entry Requirements",
+            "file": "ireland/Congo/Entry Requirements.md"
         },
         {
             "title": "Department contact",
             "file": "ireland/Congo/Department contact.md"
         }
     ],
-    "update_date": "2024-11-07T00:00:00"
+    "update_date": "2025-06-20T00:00:00"
 }
