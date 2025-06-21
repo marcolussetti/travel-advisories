@@ -2,120 +2,110 @@
 
 [#### Health](javascript:void(0); "Health")
 
-Excellent health facilities are available in Mexico City and other major cities. Ambulance services are widely available, but training and availability of emergency responders may be below U.S. standards. Injured or seriously ill travelers may prefer to take a taxi to a health provider. Mexican facilities often require payment “up front” before providing medical care, and most hospitals in Mexico do not accept U.S. health insurance. A [list of doctors and hospitals](https://mx.usembassy.gov/medical-practitioners/) is available on the U.S. Embassy or consulate website.
+**Health Resources**[Mexico Traveler Health Information](https://wwwnc.cdc.gov/travel/destinations/traveler/none/mexico?s_cid=ncezid-dgmq-travel-single-001)   
+[Health Traveler Information](https://wwwnc.cdc.gov/travel/page/traveler-information-center)  
+[Medical Tourism information](https://wwwnc.cdc.gov/travel/yellowbook/2024/health-care-abroad/medical-tourism)   
+[International Air Quality Index](https://www.airnow.gov/international/us-embassies-and-consulates/)   
+[Insurance Coverage Overseas](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html)
 
-U.S. citizens have lodged complaints against some private hospitals in Cancun, the Riviera Maya, and Los Cabos to include exorbitant prices and inflexible collection measures.  Travelers should obtain complete information on billing, pricing, and proposed medical procedures before agreeing to any medical care in these locations.  Be aware that some resorts have exclusive agreements with medical providers and ambulance services, which may limit your choices in seeking emergency medical attention.  Some hospitals in tourist centers utilize sliding scales, deciding on rates for services based on negotiation and on the patient’s perceived ability to pay.  In some instances, providers have been known to determine the limits of a patient’s credit card or insurance, quickly reach that amount in services rendered, and subsequently discharge the patient or transfer them to a public hospital.
+**Common diseases**  
+CDC Traveler’s Health in Mexico
 
-Visit the [U.S. Centers for Disease Control and Prevention](https://www.cdc.gov/) website for information on Medical Tourism.
+**Vaccinations**Visit your doctor at least one month before traveling to Mexico to [update your vaccinations](https://wwwnc.cdc.gov/travel/destinations/traveler/none/mexico?s_cid=ncezid-dgmq-travel-single-001).
 
-For emergency services in Mexico, dial **911**.  Although there may be English-speaking operators available, it is best to seek the assistance of a Spanish speaker to place the call.
+**Emergency healthcare**Dial 911 to report emergencies in Mexico. Seek help from a Spanish speaker to place the call. Not all emergency operators are English-speaking.
 
 Ambulance services are:
 
-* widely available in major cities but training and availability of emergency responders may be below U.S. standards,
-* not present in many remote and rural areas of the country,
-* not equipped with state-of-the-art medical equipment.
-* Injured or seriously ill travelers may prefer to take a taxi or private vehicle to the nearest major hospital rather than wait for an ambulance.
+* Widely available in major cities. However, emergency responder training and availability may be below U.S. standards.
+* Not available in rural or remote areas.
+* Not equipped with advanced medical equipment.
 
-**We do not pay medical bills**
+Injured or seriously ill travelers may reach a major hospital faster by arranging private transportation than waiting for an ambulance.
 
-Be aware that U.S. Medicare/Medicaid does not apply overseas.  Most hospitals and doctors overseas do not accept U.S. health insurance.
+**Health facilities**  
+Excellent health facilities are available in Mexico City and major cities.
 
-**Medical Insurance**
+* Mexican health providers usually require payment before providing medical care or before releasing you from the hospital.
+* Most hospitals do not accept U.S. health insurance, including Medicare.
+* Refer to this [list of doctors and hospitals](https://wwwnc.cdc.gov/travel/destinations/traveler/none/mexico?s_cid=ncezid-dgmq-travel-single-001) if you need healthcare in Mexico
+* We do not endorse or recommend any specific medical provider or clinic.
 
-Make sure your health insurance plan provides coverage overseas.  Most care providers overseas only accept cash payments. See [our webpage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) for more information on insurance coverage overseas. Visit the [U.S. Centers for Disease Control and Prevention](https://www.cdc.gov/) for more information on type of insurance you should consider before you travel overseas.
+**High costs at private hospitals**Most private hospitals in Mexico charge higher than expected prices and require payment before they allow you to leave.
 
-We strongly recommend [supplemental insurance](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) to cover medical evacuation as well.
+* Some resorts have exclusive deals with medical providers and ambulances. This can limit your choices for emergency healthcare.
+* Get all billing, pricing, and medical procedure details before agreeing to any medical care.
+* Some private providers may discharge a patient to the public hospital if the patient reaches credit card or medical insurance limits.
 
-Always carry your prescription medication in original packaging, along with your doctor’s prescription.  Check the [Mexican government’s Drug Schedule](http://www.csg.gob.mx/descargas/pdf/priorizacion/cuadro-basico/med/catalogo/2016/EDICION_2016_MEDICAMENTOS.pdf) to ensure the medication is legal in Mexico.
+**Medical payments and insurance**The U.S. government does not pay medical bills.
 
-**Vaccinations**
+* U.S. Medicare and Medicaid do not pay for medical care in Mexico.
+* U.S. health insurance often [does not always cover care](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) outside of the United States. Most hospitals and doctors in Mexico do not accept U.S. health insurance.
+* Even if your health insurance will cover the costs of medical care in Mexico, many hospitals want up-front payment. Not all U.S. insurance companies have staff available on nights or weekends to authorize payment.
+* Most care providers overseas accept cash or major credit cards.
 
-Be up-to-date on all [vaccinations](https://wwwnc.cdc.gov/travel/destinations/list) recommended by the U.S. Centers for Disease Control and Prevention.
+We strongly recommend supplemental insurance to cover medical evacuation. The CDC provides more information on types of [travel insurance](https://wwwnc.cdc.gov/travel/page/insurance) available.
 
-**Further health information**
+**Medical tourism and elective surgery**Many U.S. citizens suffer serious complications or die during or after cosmetic or other elective surgery in Mexico.
 
-* [World Health Organization](https://www.who.int/travel-advice)
-* [U.S. Centers for Disease Control and Prevention (](https://www.cdc.gov/)CDC)
+* Medical tourism for affordable cosmetic, dental, or elective surgeries is rapidly growing.
+* Medical systems abroad work differently than in the United States. They have different rules and regulations.
+* Mexico has many elective or cosmetic surgery facilities, but quality of care varies widely.
+* Before you plan any surgery in Mexico, confirm that emergency medical facilities are available, and professionals are accredited and qualified. Consult with your local physician or the [U.S. Centers for Disease Control and Prevention](https://wwwnc.cdc.gov/travel/page/insurance) for more information.
+* Coverage for [medical evacuation](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) is recommended for unforeseen medical complications.
+* Your legal options in case of malpractice are very limited in Mexico. PROFECO (Spanish only) may be able to help resolve disputes over medical services.
 
-The U.S. Embassy maintains a [list of doctors and hospitals](https://mx.usembassy.gov/medical-practitioners/).  We do not endorse or recommend any specific medical provider or clinic.
+**Private residential treatment facilities**Private facilities in Mexico include child behavior modification, addiction rehabilitation and assisted living centers.
 
-**Medical Tourism and Elective Surgery**
-
-* U.S. citizens have suffered serious complications or died during or after having cosmetic or other elective surgery.
-* Medical tourism is a rapidly growing industry. People seeking health care overseas should understand that medical systems operate differently from those in the United States and are not subject to the same rules and regulations.  Anyone interested in traveling for medical purposes should consult with their local physician before traveling and visit the [U.S. Centers for Disease Control and Prevention](https://www.cdc.gov/) website for more information on Medical Tourism.
-* We strongly recommend [supplemental insurance](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) to cover medical evacuation in the event of unforeseen medical complications.
-* Your legal options in case of malpractice are very limited in Mexico.  Several foreigners have successfully enlisted the support of [PROFECO](https://www.gob.mx/profeco) (Spanish only) in order to resolve disputes over medical services.
-* Although Mexico has many elective/cosmetic surgery facilities that are on par with those found in the United States, the quality of care varies widely.  If you plan to undergo surgery in Mexico, make sure that emergency medical facilities are available and professionals are accredited and qualified.
+* Standards for education, safety, health, and sanitation vary widely.
+* Staff licensing may not meet U.S. standards or be strictly enforced.
+* There have been reports of abuse, negligence, or mismanagement at some facilities.
+* U.S. citizens should thoroughly research and choose carefully before selecting a facility.
 
 **Pharmaceuticals**
 
-* Exercise caution when purchasing medication overseas.  Pharmaceuticals, both over the counter and requiring prescription in the United States, are often readily available for purchase with little controls.  Counterfeit medication is common and may prove to be ineffective, the wrong strength, or contain dangerous ingredients.  Medication should be purchased in consultation with a medical professional and from reputable establishments.
-* The Drug Enforcement Agency reports counterfeit prescription pills are sold by criminals on both sides of the border. These pills are sometimes represented as OxyContin, Percocet, Xanax, and others, and may contain deadly doses of fentanyl. Counterfeit pills are readily advertised on social media and can be purchased at small, non-chain pharmacies in Mexico along the border and in tourist areas.  U.S. citizens have become seriously ill or died in Mexico after using synthetic drugs or adulterated prescription pills.
-* U.S. Customs and Border Protection and the Food and Drug Administration are responsible for rules governing the transport of medication back to the United States.  Medication purchased abroad must meet their requirements to be legally brought back into the United States.  Medication should be for personal use and must be approved for usage in the United States.  Please visit the [U.S. Customs and Border Protection](https://www.cbp.gov/travel/us-citizens/know-before-you-go/prohibited-and-restricted-items) and the [Food and Drug Administration](https://www.fda.gov/drugs/resourcesforyou/consumers/buyingusingmedicinesafely/buyingmedicinefromoutsidetheunitedstates/default.htm) websites for more information.
-* Visit the [Mexican Health Department](https://www.gob.mx/salud/en)website (Spanish only) or contact the [Embassy of Mexico](https://embamex.sre.gob.mx/eua/index.php/en/home) in Washington, D.C., for more information about obtaining a permit to import medicine into Mexico.
-* For a list of controlled substances in Mexico, visit the [COFEPRIS](https://www.gob.mx/cofepris/en)website (Spanish only) and the [Mexican Drug Schedule](http://www.csg.gob.mx/descargas/pdf/priorizacion/cuadro-basico/med/catalogo/2016/EDICION_2016_MEDICAMENTOS.pdf) (Spanish only). U.S. citizens should carry a copy of their prescription or doctor’s letter, but it is still possible that they may be subject to arrest for arriving in Mexico with substances on these lists. Note that a medicine considered “over the counter” in some U.S. states may be a controlled substance in Mexico. For example, pseudoephedrine, the active ingredient in Sudafed, is considered a controlled substance in Mexico. For more information, contact the  [Embassy of Mexico](https://embamex.sre.gob.mx/eua/index.php/en/home)in Washington, D.C.
+**Importing into Mexico**Some medicines that are sold over-the-counter in some U.S. states are controlled substances in Mexico. For example, pseudoephedrine (found in Sudafed) is illegal in Mexico.
 
-**Assisted Reproductive Technology and Surrogacy**
+* You could be arrested if your over the counter or prescription medicine is illegal in Mexico, even with a U.S. doctor’s letter or prescription.
+* For information about what you can bring to Mexico and regulations on controlled substances in Mexico, visit the [COFEPRIS](https://www.gob.mx/cofepris/en) website (Spanish only), the [Secretary of Foreign Affairs (SRE) website](https://www.gob.mx/sre/en), and the Mexican Law of General Health’s List of Prohibited Drugs (source: LGS, Chapter V, Article 234, Spanish only)
+* You may need to either leave certain medications at home in the United States, or obtain a permit to import medicine into Mexico from COFEPRIS.(Comisión Federal para la Protección contra Riesgos Sanitarios | Gobierno | gob.mx) (Spanish only). Please contact the [Embassy of Mexico in Washington, D.C.](https://embamex.sre.gob.mx/eua/index.php/en/home) or your nearest [Mexican Consulate](https://www.gob.mx/sre/documentos/list-of-mexican-consulates-in-the-united-states) for additional information.
 
-* If you are considering traveling to Mexico to have a child using assisted reproductive technology (ART) including surrogacy, visit the State Department’s [ART and Surrogacy Abroad page](https://travel.state.gov/content/travel/en/legal/travel-legal-considerations/us-citizenship/Assisted-Reproductive-Technology-ART-Surrogacy-Abroad.html) for general information regarding U.S. citizenship for the child.
-* Surrogacy in Mexico presents serious risks that must be considered before U.S. citizens begin the surrogacy process.
-* If you decide to pursue parenthood in Mexico via ART with a gestational mother, be prepared for possible long delays to document your child’s birth in Mexico and their U.S. citizenship by obtaining a U.S. passport.
-* Ensure you understand Mexican law, which varies by state. The only four states with a legal framework for surrogacy do not permit foreigners and/or same-sex couples to use the procedure. In the other 28 states, surrogacy is largely unregulated.
-* In most states, Mexican courts may not enforce surrogacy agreements between non-Mexican or same-sex intending parents and a gestational mother should disputes arise, due to a lack of legal framework for surrogacy. The U.S. Embassy is aware of several cases where surrogacy agencies presented a partial, or false, interpretation of Mexican surrogacy laws.
-* In most Mexican states, the gestational mother is the child’s legal parent with full parental rights, and the gestational mother’s name is typically listed on the Mexican state-issued birth certificate. In certain states, a court may amend the birth certificate to remove the name of the gestational mother.
-* The U.S. Embassy is aware of cases of foreign nationals, including U.S. citizens, being arrested for attempting to circumvent local law related to surrogacy.
+**Purchasing in Mexico**Exercise caution when purchasing medication in Mexico. Counterfeit medication is common and may:
 
-**Carbon Monoxide**
+* Not be effective
+* Not be the correct strength
+* Contain dangerous ingredients.
 
-* Many hotels and other lodgings are not equipped with carbon monoxide detectors, even if they contain sources of this potentially lethal gas. U.S. citizens have died as a result of carbon monoxide poisoning throughout Mexico. If your lodging is not equipped with a carbon monoxide detector, consider traveling with a portable one.
+The Drug Enforcement Agency reports that counterfeit prescription pills are sold by criminals on both sides of the border. U.S. citizens have become **seriously ill or died** in Mexico after using synthetic drugs or contaminated prescription pills.
 
-**Water Quality**
+* Counterfeit pills are often advertised on social media and sold at small pharmacies near the border and in tourist areas in Mexico.
+* Pills represented as OxyContin, Percocet, Xanax, and others may contain deadly doses of Fentanyl.
 
-* In many areas in Mexico, tap water is not potable. Bottled water and beverages are safe, although you should be aware that many restaurants and hotels serve tap water unless bottled water is specifically requested. Be aware that ice for drinks might be made using tap water.
+**Returning to the U.S.**U.S. Customs and Border Protection and the Food and Drug Administration are responsible for rules governing the transport of medication back to the United States.
 
-**Altitude**
+* Medication purchased abroad must meet U.S. requirements to be legally brought back into the United States.
+* Medication should be for personal use and must be approved by the United States.
+* [Prohibited and Restricted Items](https://www.cbp.gov/travel/us-citizens/know-before-you-go/prohibited-and-restricted-items)
+* [Buying Medicine from Outside the U.S.](https://www.fda.gov/drugs/resources-drugs/buying-medicine-outside-us-risky-business-think-its-safe-buying-medicine-outside-united-states-think-0)
 
-* Many cities in Mexico, such as Mexico City, are at high altitude, which can lead to altitude illness. Visit the U.S. Centers for Disease Control and Prevention website for more information about [Travel to High Altitudes](https://wwwnc.cdc.gov/travel/page/travel-to-high-altitudes).
+**Assisted reproductive technology (ART) and surrogacy**Access the latest information from the Department of State on [assisted reproductive technology](https://mx.usembassy.gov/surrogacy-art-and-dna-testing/) (ART) or surrogacy before you travel to Mexico.
 
-**Adventure Travel**
+In 2021, Mexico’s Supreme Court ruled that surrogacy is constitutional but left it to the individual Mexican states to regulate the practice. However, the [vast majority](https://surrogacymiracles.mx/is-surrogacy-in-mexico-legal-a-detailed-explanation/) of Mexican states lack laws that expressly permit or regulate surrogacy, leaving parents and surrogates with no clear protections. Surrogacy agreements between foreign “intended parents” and gestational mothers are not always enforced by Mexican courts. Some U.S. citizens face long delays for court decisions on parental rights and custody.
 
-* Participation in adventure sports and activities may not be covered by accident insurance and safety protections and regulations for these activities may differ from U.S. standards.  Visit [our website](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/adventure-travel.html) and [the U.S. Centers for Disease Control and Prevention website](https://www.cdc.gov/) for more information about adventure travel.
+* Delays in getting your child’s Mexican birth certificate will impact the processing of an application to document your child’s U.S. citizenship. You may be asked to provide a DNA sample to prove genetic relationships when applying for documentation of your child’s U.S. citizenship
 
-**General Health**
+If you choose to pursue ART or surrogacy in Mexico, consider hiring a reputable local attorney who understands Mexican law regarding ART or surrogacy.
 
-The following diseases are prevalent:
+**Food and water quality:**
 
-* COVID-19
-* Hepatitis
-* [Typhoid Fever](https://wwwnc.cdc.gov/travel/diseases/typhoid)
-* [Travelers’ Diarrhea](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Mexico.html#ExternalPopup)
-* [Dengue](https://wwwnc.cdc.gov/travel/diseases/dengue)
-* [Chikungunya](https://www.cdc.gov/chikungunya/index.html)
-* [Zika](https://wwwnc.cdc.gov/travel/diseases/zika)
-* Rocky Mountain Spotted Fever
-* Parasitic Infections
-* Chronic Respiratory Disease
-* Visit the U.S. Centers for Disease Control and Prevention website for more information about [Resources for Travelers](https://wwwnc.cdc.gov/travel/page/traveler-information-center) regarding specific issues in Mexico.
+* Tap water in many areas is not safe to drink.
+* Bottled water is safe and should be requested at restaurants and hotels.
+* You may want to request no ice in your drinks since it may be made from tap water.
+* Uncooked vegetables can make you sick.
 
-**Air Quality**
+**High altitude**Many cities in Mexico, such as Mexico City, are at high altitude. Be aware of the symptoms of altitude sickness and take precautions before you travel.
 
-* Air pollution is a significant problem in several major cities in Mexico. Consider the impact seasonal smog and heavy particulate pollution may have on you and consult your doctor before traveling if necessary.
+Visit the U.S. Centers for Disease Control and Prevention website for more information about [Travel to High Altitudes (source: CDC).](https://wwwnc.cdc.gov/travel/page/travel-to-high-altitudes)
 
-Air pollution can be a significant problem in many destinations overseas.
-
-* Check [NASA’s Air Quality Forecast](https://aeronet.gsfc.nasa.gov/new_web/aqforecast), which uses Artificial Intelligence (AI), historical data, and global pollution modeling to generate a three-day forecast of expected air quality in Mexico.
-* For information about common air pollutants, check the [CDC’s Air Quality page](https://www.cdc.gov/air-quality/pollutants/).
-* For information about the U.S. Air Quality Index and health guidance, check out the EPA’s [AirNow](https://www.airnow.gov/aqi/aqi-basics/).
-* For general health information, visit the “[Your Health Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad.html)” page.
-
-For further health information, go to:
-
-* [World Health Organization](https://www.who.int/)
-* [U.S. Centers for Disease Control and Prevention](https://www.cdc.gov/) (CDC)
-
-**Private Residential Treatment Facilities**
-
-* These facilities provide care to U.S. citizens throughout Mexico and include child behavior modification facilities, rehabilitation facilities, and assisted living centers.
-* There is a wide range in standards for education, safety, health, sanitation, immigration, and residency.  Staff licensing may not be strictly enforced or meet the standards of similar facilities in the United States.
-* The State Department has received reports of abuse, negligence, or mismanagement at some of these facilities. U.S. citizens should exercise due diligence and do extensive research before selecting a residential treatment facility.
+**Air quality**  
+[Air pollution](https://airquality.gsfc.nasa.gov/forecast) is a significant problem in several major cities in Mexico. Consult your doctor on how seasonal smog and heavy particulate pollution may impact your health.

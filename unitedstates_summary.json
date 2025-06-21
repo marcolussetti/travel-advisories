@@ -1104,7 +1104,7 @@
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/mexico-travel-advisory.html",
         "risk_level_number": -1,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Mexico.html",
-        "last_updated_country_details": "2025-03-20T00:00:00"
+        "last_updated_country_details": "2025-06-20T00:00:00"
     },
     {
         "destination": "Moldova",
@@ -1917,15 +1917,6 @@
         "last_updated_country_details": "2025-01-21T00:00:00"
     },
     {
-        "destination": "Micronesia",
-        "risk_level": null,
-        "advisory_details_url": null,
-        "risk_level_number": null,
-        "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/FederatedStatesOfMicronesia.html",
-        "last_updated_advisory": null,
-        "last_updated_country_details": "2025-05-30T00:00:00"
-    },
-    {
         "destination": "United Kingdom",
         "risk_level": null,
         "advisory_details_url": null,
@@ -2032,6 +2023,15 @@
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/France.html",
         "last_updated_advisory": null,
         "last_updated_country_details": "2025-03-19T00:00:00"
+    },
+    {
+        "destination": "Micronesia",
+        "risk_level": null,
+        "advisory_details_url": null,
+        "risk_level_number": null,
+        "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/FederatedStatesOfMicronesia.html",
+        "last_updated_advisory": null,
+        "last_updated_country_details": "2025-05-30T00:00:00"
     },
     {
         "destination": "Israel, the West Bank and Gaza",

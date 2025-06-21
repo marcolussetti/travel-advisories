@@ -4,24 +4,24 @@
 
 PASSPORT VALIDITY:
 
-Passport must be valid at time of entry
+Your passport must be valid at time of entry.
 
 BLANK PASSPORT PAGES:
 
-One page per stamp
+One blank passport page per stamp required for air travelers.
 
 TOURIST VISA REQUIRED:
 
-Yes, if visiting for more than 180 days
+A visa is required when visiting for more than 180 days
 
 VACCINATIONS:
 
-See Travelers’ Health section
+Visit your doctor at least one month before traveling to Mexico to update your vaccinations.
 
 CURRENCY RESTRICTIONS FOR ENTRY:
 
-$10,000
+$10,000 USD or more must be declared.
 
 CURRENCY RESTRICTIONS FOR EXIT:
 
-$10,000
+$10,000 USD or more must be declared.

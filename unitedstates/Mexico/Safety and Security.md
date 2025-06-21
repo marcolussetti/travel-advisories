@@ -2,79 +2,160 @@
 
 [#### Safety and Security](javascript:void(0); "Safety and Security")
 
-Travelers are urged to review the [Mexico Travel Advisory](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/mexico-travel-advisory.html) for information about safety and security concerns affecting the country on a state-by-state basis.
+**Emergency numbers**
 
-U.S. citizens traveling to and residing in Mexico should not expect public health and safety standards like those in the United States. Even where such standards exist, enforcement varies by location. Travelers should mitigate the risk of illness or injury by taking standard health and safety precautions.
+Local authorities are responsible for investigating and prosecuting crimes.
 
-**The phone number to report emergencies in Mexico is “911.”**Although there may be English-speaking operators available, it is best to seek the assistance of a Spanish speaker to place the call.
+**Dial 911** to report emergencies in Mexico. Seek help from a Spanish speaker to place the call. Not all emergency operators speak English.
 
-**Crime:**Crime in Mexico occurs at a high rate and can be violent, from random street crime to cartel-related attacks. Over the past year, Mission Mexico has assisted U.S. citizens who were victims of armed robbery, carjacking, extortion, homicide, kidnapping, pick-pocketing, and sexual assault. Increased levels of cartel-related violence have resulted in territorial disputes and targeted killings, injuring or killing innocent bystanders. Travelers who find themselves in an active shooter scenario should flee in the opposite direction, if possible, or drop to the ground, preferably behind a hard barrier.
+**Dial 55 8526 2561** (from Mexico) for the U.S. Embassy.
 
-Drivers on roads and highways may encounter government checkpoints, which often include National Guard or military personnel. State and local police also set up checkpoints in and around cities and along the highways to deter criminal activity and enforce traffic laws. In some parts of Mexico, criminal organizations and other non-governmental actors have been known to erect unauthorized checkpoints and have abducted or threatened violence against those who fail to stop and/or pay a “toll.” When approaching a checkpoint, regardless of whether it is official, cooperate and avoid any actions that may appear suspicious or aggressive.
+**Dial 844 528 6611** (from the United States) for the U.S. Embassy.
 
-While Mexican authorities endeavor to safeguard the country’s major resort areas and tourist destinations, those areas have not been immune to the types of violence and crime experienced elsewhere in Mexico. In some areas of Mexico, response time of local police is often slow. In addition, filing police reports can be time consuming. See our [Mexico Travel Advisory](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/mexico-travel-advisory.html) for more information.
+[Contact the closest U.S. Consulate](https://docs.google.com/forms/d/e/1FAIpQLSf3jwQvR0ykztNQDDOKmfHIGfDI96-Rwxl7EoJRsgUE9xe3dQ/viewform?fbzx=1095838111506264549)
 
-**Demonstrations**occur frequently.  They may take place in response to political or economic issues, on politically significant holidays, and during international events.  Protesters in Mexico may block traffic on roads, including major thoroughfares, or take control of toll booths on highways.  Travelers who encounter protesters who demand unofficial tolls are generally allowed to pass upon payment.  U.S. citizens should avoid participating in demonstrations or other activities that might be deemed political by authorities, as Mexican law prohibits political activities by foreign citizens and such actions may result in detention or deportation.
+U.S. citizens in Mexico should not expect the same public health and safety standards as in the United States. Enforcement varies by location, even when standards exist. Follow health and safety precautions to reduce the risk of illness or injury.
 
-* Demonstrations can be unpredictable, avoid areas around protests and demonstrations.
-* Past demonstrations have turned violent.
-* Check local media for updates and traffic advisories.
+**Crime:**Crime in Mexico is common and can be violent. This ranges from petty street crime to attacks by cartels, criminal organizations and terrorist organizations. There have been violent crimes in resort areas and tourist spots in Mexico.
 
-**International Financial Scams:** See the [Department of State](http://travel.state.gov/content/passports/english/emergencies/scams.html)and the [FBI](http://www.fbi.gov/scams-safety/fraud) pages for information.
+* Mission Mexico has assisted U.S. citizens who were victims of armed robbery, carjacking, extortion, homicide, kidnapping, pickpocketing, and sexual assault. · Targeted killings and other cartel, criminal organizations and terrorist organizations violence result from fights over territory. This can hurt innocent bystanders.
+* Travelers who experience an active shooter situation should flee or drop to the ground behind a hard barrier.
+* For more details, review the Mexico Travel Advisory
 
-Internet romance and financial scams are prevalent in Mexico. Scams are often initiated through Internet postings/profiles or by unsolicited emails and letters. Scammers almost always pose as U.S. citizens who have no one else to turn to for help. Common scams include:
+**Robbery:**Robberies happen often in cities. Criminals force victims to use their debit or credit cards to withdraw money. They may also pose as taxi drivers to trick you.
 
-* Romance/Online dating
-* Money transfers
-* Lucrative sales
-* Grandparent/Relative targeting
-* Free Trip/Luggage
-* Inheritance notices
-* Bank overpayments
+To stay safe:
 
-Mexico’s consumer protection agency, [PROFECO](https://www.gob.mx/profeco) (Procuraduría Federal del Consumidor, Spanish only), can sometimes [provide assistance](https://www.gob.mx/profeco/acciones-y-programas/servicios) (Spanish only) to victims of such scams. In addition, there have been allegations of banking fraud perpetrated by private bankers against U.S. citizens. U.S. citizens who believe they have been victims of fraud can file a police report [file a complaint](https://www.gob.mx/condusef/acciones-y-programas/portal-de-queja-electronica-182131) (Spanish only) with the Mexican banking regulatory agency, [CONDUSEF](https://www.gob.mx/condusef) (Comision Nacional para la Proteccion y Defensa de los Usuarios de Servicios Financieros, Spanish only), or consult with an attorney.
+* Limit the cash you carry in public. · Do not hail taxis on the street. Use trusted ride-sharing apps or book taxis through your hotel or an authorized taxi stand.
+* Ask your bank how to quickly freeze or cancel your bank and credit cards.
 
-**Victims of Crime:**U.S. victims of sexual assault are encouraged to contact the U.S. Embassy or nearest Consulate for assistance.  Report emergencies to the local police at 911, report crimes already committed to the Ministerio Publico, and contact the Embassy or Consulate at +52-55-85262561.  Remember that local authorities are responsible for investigating and prosecuting crimes.
+**Extortion:**Extortion schemes are common, such as virtual kidnapping. Criminals convince families that a relative has been kidnapped. The relative is actually safe but unreachable. In another version of virtual kidnapping, a caller tells someone who has checked into a hotel that they are in danger and must pay a ransom. The criminals try to scare the victim into not contacting police or family. They claim the cartel, criminal organization, or terrorist organization is involved and threaten violence.
 
-U.S. citizen victims of crime should contact the local authorities to file a Mexican police report before departing Mexico. In most instances, victims of crime will file reports with the Ministerio Publico (equivalent to the office of public prosecutor or district attorney in the United States) and not with police first responders. U.S. citizens should also inform the [U.S. Embassy or nearest consulat](https://mx.usembassy.gov/contact/)e.
+To protect yourself from these schemes:
 
-See our webpage on [help for U.S. victims of crime overseas](https://travel.state.gov/content/travel/en/international-travel/emergencies/crime.html).We can:
+* Don’t share travel plans, your room number, or personal details with strangers.
+* Don’t share business details with strangers in person or over the phone, especially when using hotel phones.
+* If someone tells you your loved one has been kidnapped, try first to contact them directly and confirm whether they are safe.
+* End your phone call immediately if you receive a threat.
+* If someone tells you that you are in danger in a hotel, contact the front desk to report the threat, consider relocating to another hotel, and evaluate whether you should contact local authorities for more help.
 
-* help you find appropriate medical care,
-* assist you in reporting a crime to the police,
-* contact relatives or friends with your written consent,
-* provide general information regarding the victim’s role during the local investigation and following its conclusion,
-* provide a list of local attorneys,
-* provide information on [victim’s compensation programs in the United States](http://travel.state.gov/content/passports/en/emergencies/victims.html),
-* provide an emergency loan for repatriation to the United States and/or limited medical support in cases of destitution,
-* help you find accommodation and arrange flights home,
-* replace a stolen or lost passport.
+**Drug smuggling:**Mexican cartels, criminal organizations and terrorist organizations are active in a violent struggle to control trafficking routes. Crime organizations may try to convince Americans to carry packages into the United States for them. They target unaware travelers who regularly cross the border to smuggle drugs.
 
-**Domestic Violence:**U.S. citizen victims of domestic violence are encouraged to contact the [U.S. Embassy or nearest consulate](https://mx.usembassy.gov/contact/) for assistance.
+* Monitor your vehicle closely.
 
-**Kidnapping:**Mexico experiences very high rates of kidnapping.  If you believe you or your U.S. citizen or Lawful Permanent Resident (LPR) relative has been kidnapped, please contact the U.S. Embassy or nearest consulate immediately.
+Don’t agree to carry any package across the border.  
+  
+**Sexual assault:**Rape and sexual assault are common in some resort areas, especially at night or early morning. Criminals sometimes drug their victim’s drinks. 
 
-**Robbery:**Mexico experiences robberies, typically in cities, in which abductors force victims to use their debit or credit card to withdraw money from ATMs in exchange for their release. Perpetrators commonly work in cooperation with, or pose as, taxi drivers. To minimize the risk of such robberies:
+* Be aware of your surroundings.
+* Consider bringing a friend with you when you go out.
+* Closely monitor your drinks.
 
-* Only use a reputable taxi company or a trusted ride-sharing app.
-* Book taxis through your hotel or an authorized taxi stand.
+**Financial scams:**Follow the Department of State guidelines to protect yourself from scams and learn how the FBI can help.
 
-**Extortion:**Extortion schemes are common in Mexico.  In a typical scheme known as a virtual kidnapping, criminals convince family members that a relative has been abducted, when, in fact, the person is safe but unreachable.  The purported abductors will often use threats to persuade victims to isolate themselves, making communication with family members less likely.  Unable to reach their loved ones, family members often consent to paying the “ransom” demand.  Criminals use various means to gather information about potential victims, including monitoring social media sites, eavesdropping on conversations, or using information taken from a stolen cell phone.  Some of these extortions have been conducted from Mexican prisons.  You can reduce the risk of falling victim to this type of extortion through the following:
+Internet financial scams are common in Mexico. Scammers often reach out through online services or unwanted emails. They may pretend to be U.S. citizens needing help. They even claim that you or a loved one may be in danger if you do not give them money. There have also been reports of banking fraud against U.S. citizens. Common scams include:
 
-* Do not discuss travel plans, your room number, or any other personal information within earshot of strangers.
-* Do not divulge personal business details to strangers in person or over the phone, especially when using hotel phones.
-* If you are threatened on the phone, hang up immediately.
+* Requests for you to help with a money transfer, promising you a share of the money.
+* Notifications of supposed bank overpayments or fake inheritances. · Promises of free trips or luggage.
+* Online girlfriends or boyfriends claiming they are in trouble and asking for financial help.
+* Promises to help you exit your timeshare property investment in Mexico.
 
-**Sexual Assault:**Rape and sexual assault are serious problems in some resort areas. Many of these incidents occur at night or during the early morning hours, in hotel rooms, on hotel grounds, or on deserted beaches. In some cases, assailants drug the drinks of victims before assaulting them. Pay attention to your surroundings and to who might have handled your drink.
+If you think you’ve been scammed, you can:
 
-**Credit/Debit Card “Skimming:”** There have been instances of fraudulent charges or withdrawals from accounts due to “skimmed” cards. If you choose to use credit or debit cards, you should regularly check your account to ensure there are no unauthorized transactions. Travelers should limit the amount of cash they carry in public, exercise caution when withdrawing cash from ATMs, and avoid ATMs located in isolated or unlit areas.
+* File a police report.
+* File a complaint with Mexico’s consumer protection agency, PROFECO (Procuraduría Federal del Consumidor, Spanish only).
+* File a complaint with the Mexican banking regulatory agency CONDUSEF (Comision Nacional para la Proteccion y Defensa de los Usuarios de Servicios Financieros, Spanish only).
+* Consult an attorney.
 
-**Alcohol:**If you choose to drink alcohol, it is important to do so in moderation and to stop and seek medical attention if you begin to feel ill. There have been reports of individuals falling ill or blacking out after consuming unregulated alcohol. The Mexican Federal Commission for the Protection against Sanitary Risk, [COFEPRIS](https://www.gob.mx/cofepris) (*Comision Federal para la Proteccion contra Riesgos Sanitarios, Spanish only*), is responsible for inspecting hotels, restaurants, and other establishments for health violations, including reports of unregulated alcohol. Please email COFEPRIS at [contactociudadano@cofepris.gob.mx](mailto:contactociudadano@cofepris.gob.mx) for more information or if you wish to file a report. You can file a report online (Spanish only) via the COFEPRIS website, by calling the COFEPRIS call center at 800 033 50 50 (from Mexico) or +52 (55) 5080-5425 (from the United States), or by scheduling an appointment *(Spanish only)* to visit a COFEPRIS office.
+**Credit and debit card skimming:**Fraudulent charges or cash withdrawals can occur due to “skimmed” cards.
 
-There have also been instances of criminals drugging drinks to rob or sexually assault victims. Additionally, if you feel you have been the victim of unregulated alcohol or another serious health violation, you should notify the [U.S. Embassy or nearest consulate](https://mx.usembassy.gov/contact/). You may also contact the U.S. Department of State – Bureau of Consular Affairs in Washington, D.C. at 1-888-407-4747 (toll-free in the United States and Canada) or 1-202-501-4444 (from all other countries).
+* Use ATMs in safe, well-lit areas, ideally within banks.
+* Be especially alert for skimming devices in tourist areas. These are popular targets.
+* Regularly check your account for unauthorized transactions.
 
-**Drug Smuggling:**Mexican criminal organizations are engaged in a violent struggle to control trafficking routes. Criminal organizations smuggling drugs into the United States have targeted unsuspecting individuals who regularly cross the border. Frequent border crossers are advised to vary their routes and travel times and to closely monitor their vehicles to avoid being targeted.
+**Victims of crime:**When a crime occurs while traveling:
 
-**Tourism:**In major cities and resort areas, the tourism industry is generally well-regulated.  Best practices and safety inspections are regularly enforced.  Hazardous areas and activities are identified with appropriate signage, and professional staff is typically on hand in support of organized activities.  In the event of an injury, appropriate medical treatment is widely available throughout the country.  Outside of a major metropolitan center, it may take more time for first responders and medical professionals to stabilize a patient and/or provide life-saving assistance.  In smaller towns and areas less commonly frequented by foreign tourists, the tourism industry is unevenly regulated, and safety inspections for equipment and facilities do not commonly occur.  Hazardous areas/activities are not always identified with appropriate signage, and staff may not be trained or certified either by the host government or by recognized authorities in the field.  In the event of an injury, appropriate medical treatment is typically available only in or near major cities.  First responders are generally unable to access areas outside of major cities to provide urgent medical treatment.  U.S. citizens are encouraged to purchase [medical evacuation insurance](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html).
+* **Dial 911** for the local authorities.
+* File a report of the crime “denuncia” with the “Ministerio Publico,” similar to the office of public prosecutor or district attorney in the United States. (Note: First responders do not handle crime reports.)
+* **Dial +52-55-8526-2561** for the U.S. Embassy or nearest Consulate to report serious crimes such as:
+  + Kidnapping of a U.S. citizen or lawful permanent resident (LPR)
+  + Domestic violence
+  + Sexual assault
 
-Since 2016, Mexico has opened seven multilingual Centers for the Care and Protection of Tourists (CAPTA) and Tourist Assistance Centers (CATTAC) in Los Cabos, La Paz, Acapulco, Playa del Carmen, Mazatlan, Ciudad Madero, and Queretaro. These offices have proven helpful assisting U.S. citizen visitors in resolving disputes with merchants and government entities, filing criminal reports, securing needed services, and locating special needs accommodations.
+The Department of State provides help for U.S. victims of crime overseas. The Embassy or Consulate can:
+
+* Replace a stolen or lost passport.
+* Help you find appropriate medical care.
+* Assist you in reporting a crime to local authorities.
+* With your written consent, contact relatives or friends.
+* Provide general information about a victim’s role during local investigation and following its conclusion.
+* Share a list of local attorneys.
+* Issue an emergency loan for repatriation to the U.S. or limited medical support in cases of poverty.
+* Help you find accommodations and arrange flights home.
+* Inform you about victim’s compensation programs in the U.S.
+
+**Carbon monoxide:**U.S. citizens have died from carbon monoxide poisoning in Mexico.
+
+* Many hotels and vacation rental properties do not have carbon monoxide detectors.
+* If you are not sure that your accommodations provide one, bring a portable carbon monoxide detector.
+
+**Demonstrations:**Demonstrations happen often, sometimes due to political or economic issues, political holidays, or international events.
+
+* Protesters may block roads, bridges, or take over toll booths.
+* If protesters ask for money at toll booths, paying usually lets you pass.
+
+U.S. citizens should not join demonstrations, as Mexican law forbids political activities by foreigners. Joining demonstrations can lead to detention or deportation.
+
+* Avoid areas with protests.
+* Protests can be unpredictable and sometimes turn violent.
+* Check local media for updates and traffic news. Tourism regulations
+
+In major cities and resorts, tourism is well-regulated and enforced through best practices and safety inspections.
+
+* Dangerous areas and activities are marked with signs.
+* In smaller towns, regulations, inspections and safety measures are limited.
+* Professional staff support organized tour-group activities.
+
+U.S. citizens are encouraged to purchase medical evacuation insurance. See our webpage for more [information on insurance providers for overseas coverage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html).
+
+**Tourist assistance:  
+Dial 078** from any phone in Mexico to get free information about:
+
+* Tourist attractions
+* Airports and travel agencies
+* Car rental companies
+* Embassies and consulates
+* Fairs and exhibitions
+* Hotels
+* Hospitals
+* Financial services
+* Migratory and other issues
+
+Mexico also has multilingual Centers for the Care and Protection of the Tourist (CAPTA) and Tourist Assistance Centers (CATTAC) to help with:
+
+* Disputes with businesses and government
+* Filing criminal reports
+* Finding special needs accommodations
+
+Locations:
+
+* Acapulco
+* Cancun
+* Cozumel
+* Ciudad Madero
+* La Paz
+* Los Cabos
+* Mazatlan
+* Playa del Carmen
+* Queretaro
+
+**Traveling in the state of Quintana Roo (Cancun, Playa del Carmen, Tulum, and Cozumel):**Consider downloading the government of Quintana Roo’s Guest Assist mobile app. Find easy access to emergency numbers, legal advice, and tourist information. Get help with police reports for lost passports or complaints against service providers.
+
+**Weather and Natural Disasters**Resources during natural disasters [Civil Protection](https://www.proteccioncivil.cdmx.gob.mx/)  
+[U.S. Federal Emergency Management Agency](https://www.fema.gov/) (FEMA)
+
+**Earthquakes and tsunamis**Mexico is an active [earthquake zone](https://www.usgs.gov/faqs/what-should-i-do-during-earthquake). Tsunamis may occur following significant earthquakes. Travelers may wish to download one of several earthquake alert apps. Tropical storm and hurricane season is May to November
+
+Make plans to prepare for a potential [disaster or crisis](https://travel.state.gov/content/travel/en/international-travel/before-you-go/crisis_and_disaster_abroad_be_ready.html). Tropical storms with heavy rain and wind occur between May and November.
+
+[Stay informed](https://www.weather.gov/safety/hurricane-ww) of incoming storms and avoid these areas if possible.
