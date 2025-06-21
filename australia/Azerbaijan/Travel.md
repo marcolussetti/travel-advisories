@@ -22,6 +22,16 @@ You can apply to extend or renew your visa through Azerbaijan's [State Migratio
 
 * [Ministry of Foreign Affairs of the Republic of Azerbaijan](http://www.mfa.gov.az/?language=en)
 
+#### Border crossing with Iran
+
+For Australians travelling from Iran, Azerbaijan authorities have reopened the crossing on its southern border at Astara for 'exceptional' crossing by third-country nationals.
+
+You will still need a visa to enter Azerbaijan. You can get a visa online: <https://evisa.gov.az/en/>
+
+To depart Iran at the border, we must register your details with Azerbaijan authorities to get a border crossing code (for Australian passport holders). This is different to the visa. Contact the Australian Embassy in Türkiye ([consular.ankara@dfat.gov.au](mailto:consular.ankara@dfat.gov.au)). You will need to provide your full name, passport number, your e-visa for Azerbaijan, and contact details for all individuals seeking to transit. If possible, send a scan of your passport biodata page.
+
+Some travellers have been able to cross into Azerbaijan at Astara without this code. Waiting times can vary significantly. Internet and telephone connectivity in Iran, including at the Azerbaijan border, can be very poor.
+
 #### Registering with the police
 
 If you plan to stay in Azerbaijan for over 15 days, you must register with the State Migration Service online (registration upon place of stay) or at regional migration departments ([www.migration.gov.az](http://www.migration.gov.az/)), even if you have a 90-day visa. Do this within 10 days of arrival. If you don't, you'll be fined.

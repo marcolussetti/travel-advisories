@@ -2,7 +2,11 @@
 
 Latest update
 
-We've reviewed our advice for Armenia and continue to advise exercise normal safety precautions. Higher levels apply in some areas. Do not travel within 5km of Armenia's border with Azerbaijan.
+We continue to advise exercise normal safety precautions. Higher levels apply in some areas. Do not travel within 5km of Armenia's border with Azerbaijan.   
+  
+Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions. The border crossing between Iran and Armenia is open at Agarak. Border crossings into a neighbouring country may open and close at short notice. Check the latest public information from local authorities on entry requirements and border arrangements.   
+  
+Australians do not need a visa for Armenia for stays of up to 180 days per year (see 'Safety').
 
 Advice Level summary
 
@@ -31,6 +35,8 @@ See [Safety](#safety)
 ### Safety
 
 * Do not travel within 5km of Armenia's border with Azerbaijan due to the risk of armed conflict, the volatile security environment on the border, and unmarked landmines. Monitor the media for developments and follow the advice of local authorities.
+* Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions.
+* The land border crossing between Iran and Armenia is open at Agarak. Border crossings into a neighbouring country may open and close at short notice. Check the latest public information from local authorities on entry requirements and border arrangements.
 * Protests occur in Yerevan, Gyumri and other major cities. In the past, some of these protests have been violent. Avoid large public gatherings.
 * Petty crime, such as pickpocketing and theft from cars, is common. Be careful on trains to and from Georgia.
 

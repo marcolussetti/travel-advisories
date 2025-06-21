@@ -2,7 +2,13 @@
 
 Latest update
 
-We've reviewed our advice for Azerbaijan and continue to advise exercise a high degree of caution due to the threat of terrorism. Higher levels apply in some areas. Be alert to possible threats, especially in public places. Terrorists may target tourist areas and attractions or other places frequented by foreigners. Take official warnings seriously (see "Safety").
+For Australians travelling from Iran, Azerbaijan authorities have reopened the crossing on its southern border at Astara for 'exceptional' crossing by third-country nationals. You will need both a visa and a border crossing code to enter Azerbaijan.   
+  
+We must register your details with Azerbaijan authorities to get the border crossing code (for Australian passport holders). See 'Travel' for details. This is different to the visa. Some travellers have been able to cross into Azerbaijan at Astara without a code.   
+  
+Waiting times can vary significantly. Internet and telephone connectivity in Iran, including at the Azerbaijan border, can be very poor. Requirements for border crossings may change without notice. Check the latest public information from local authorities on entry requirements and border arrangements.  
+  
+We continue to advise exercise a high degree of caution due to the threat of terrorism. Higher levels apply in some areas. Be alert to possible threats, especially in public places. Terrorists may target tourist areas and attractions or other places frequented by foreigners. Take official warnings seriously (see "Safety").
 
 Advice Level summary
 
@@ -59,7 +65,10 @@ Full travel advice: [Local laws](#local-laws)
 
 ### Travel
 
-* You'll need a visa to visit Azerbaijan. You can apply for an electronic visa valid for 90 days.
+* For Australians travelling from Iran, Azerbaijan authorities have reopened the crossing on its southern border at Astara for 'exceptional' crossing by third-country nationals.
+* You will still need a visa to enter Azerbaijan. You can get a visa online: <https://evisa.gov.az/en/>
+* To depart Iran at the border, we must register your details with Azerbaijan authorities to get you a border crossing code (for Australian passport holders). This is different to the visa. Contact the Australian Embassy in Türkiye ([consular.ankara@dfat.gov.au](mailto:consular.ankara@dfat.gov.au)). You will need to provide your full name, passport number, your e-visa for Azerbaijan, and contact details for all individuals seeking to transit. If possible, send a scan of your passport biodata page.
+* Some travellers have been able to cross into Azerbaijan at Astara without this code. Waiting times can vary significantly. Internet and telephone connectivity in Iran, including at the Azerbaijan border, can be very poor.
 * Contact the nearest embassy or consulate of Azerbaijan for details about visas, currency, customs and quarantine rules.
 
 Full travel advice: [Travel](#travel)
