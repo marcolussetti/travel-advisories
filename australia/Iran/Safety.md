@@ -2,15 +2,15 @@
 
 #### Security situation
 
+The US has conducted strikes on Iranian nuclear sites at Fordow, Natanz and Esfahan. Australians in Iran should see our general advice on protecting your safety during an [armed conflict](https://www.smartraveller.gov.au/before-you-go/staying-safe/armed-conflict). Local security situations could deteriorate with little notice.
+
 The Australian Government has directed the departure of Australian officials from the Australian Embassy in Tehran due to the volatile security situation. Our Embassy and operations in Tehran are now closed.
 
-The security situation is unpredictable and could deteriorate further with little warning. Our ability to provide consular assistance in Iran is extremely limited. Australians in need of consular assistance should call the Australian Government 24-hour Consular Emergency Centre on 1300 555 135 in Australia or +61 2 6261 3305 outside Australia. 
+Our ability to provide consular assistance in Iran is extremely limited. Australians in need of consular assistance should call the Australian Government 24-hour Consular Emergency Centre on 1300 555 135 in Australia or +61 2 6261 3305 outside Australia. 
 
-We urge Australians who want to leave Iran to do so now, if it is safe. Australians in Iran who are unable to leave, or do not wish to leave, are advised to shelter in place. Be alert and aware of your surroundings. Continue to monitor advice on Smartraveller. 
+We urge Australians who want to leave Iran to do so now, if it is safe. Australians in Iran who are unable to leave, or do not wish to leave, are advised to shelter in place. Be alert and aware of your surroundings. Continue to monitor advice on Smartraveller. The Australian Government may not be able to assist with your departure.
 
 If you're an Australian citizen or permanent resident in Iran, you can now register on the Department of Foreign Affairs and Trade's [crisis registration portal](https://crisis.dfat.gov.au/). We will communicate directly with registered Australians with important updates.
-
-Following military strikes in Iran, Australians in Iran should See our general advice on protecting your safety during an [armed conflict](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.smartraveller.gov.au%2Fbefore-you-go%2Fstaying-safe%2Farmed-conflict&data=05%7C02%7CNick.Casey%40dfat.gov.au%7Cf7a16e079aae4d0a5d7a08ddaf319fe6%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638859349862342955%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=QE9kKbjy3JBq9HBcjm9MLOGV44ozJr8x4xdFgmyHsx0%3D&reserved=0)..  The Australian Government may not be able to assist with your departure.
 
 If you intend to travel by land into a neighbouring country, check the latest public information from local authorities in Iran and your destination on visa and border arrangements. Borders may close without notice. See Travel for more information.
 

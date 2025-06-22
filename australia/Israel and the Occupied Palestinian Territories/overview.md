@@ -2,17 +2,17 @@
 
 Latest update
 
+Following military strikes in Iran, there are military and rocket attacks against Israel. Israel has declared a national state of emergency. In an attack or other armed conflict, you should take shelter, follow the advice of local authorities and monitor local media and public safety information updates through the National Emergency Portal (accessible in Israel only – see 'Safety'). See our general advice on protecting your safety during an armed conflict (see 'Safety').  
+  
+The security situation could continue to deteriorate rapidly. Flight cancellations and disruptions could continue with little or no notice, including due to airport and airspace closures. Check with your airline for the latest updates before travelling. If you're in Israel, you should depart when it's safe to do so.  
+  
+We continue to advise do not travel to Israel and the Occupied Palestinian Territories due to the volatile security situation, armed conflict, civil unrest and terrorism.  
+  
 For information on assisted departures for Australian citizens or permanent residents, make sure you register on the DFAT crisis registration portal (see ‘Safety’). We will contact registered Australians directly with important updates.  
   
 If you intend to travel by land into a neighbouring country, you should check the latest public information from local authorities on entry requirements and border arrangements. Border crossing points may be closed without notice. You should make your own assessment whether it's safe for you to travel in current circumstances. This includes considering the security situation and the potential risks involved. If you are not confident in the safety and reliability of any departure option, shelter in place and follow the advice of local authorities. Transport routes may be disrupted. Roads may be crowded and exposed to security risks such a military action, rocket attacks and terrorism, as may border crossings. Use your judgement to decide the best time and safest means of exit.  
   
 Land border crossings to Jordan may open and close at short notice. Before you travel, check for regular opening times (see link in Safety) and also check the latest public information from local authorities in Israel and Jordan to make sure border crossings are open. There are two land border crossings between Israel and Jordan: Sheikh Hussein/Jordan River near Irbid and Wadi Araba near Aqaba. Additionally, one land border crossing from Israel to Jordan goes through the West Bank: Allenby Bridge/King Hussein near Amman. You'll need a visa to visit Jordan. Multiple visa options are available on the Ministry of Interior webpage (see link in Safety below and our Jordan travel advice), depending on your travel requirements. Visas on arrival are available but be prepared for delays when crossing into Jordan (see 'Safety').  
-  
-We continue to advise do not travel to Israel and the Occupied Palestinian Territories due to the volatile security situation, armed conflict, civil unrest and terrorism.  
-  
-Following military strikes in Iran, there are military and rocket attacks against Israel. Israel has declared a national state of emergency. In an attack or other armed conflict, you should take shelter, follow the advice of local authorities and monitor local media and public safety information updates through the National Emergency Portal (accessible in Israel only – see 'Safety'). See our general advice on protecting your safety during an armed conflict (see 'Safety').  
-  
-The security situation could continue to deteriorate rapidly. Flight cancellations and disruptions could continue with little or no notice, including due to airport and airspace closures. Check with your airline for the latest updates before travelling. If you're in Israel, you should depart when it's safe to do so.  
   
 Terror attacks can occur anywhere at any time, including by lone actors. Be alert to personal safety risks. There continues to be a very high threat of military and terrorist attacks against Israel and Israeli interests across the region.  
   
