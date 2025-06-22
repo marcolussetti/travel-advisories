@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   15 June 2025
+:   22 June 2025
 
 Updated:
-:   14 June 2025
+:   21 June 2025
 
 Latest update:
-:   Opening of UK Reception Centre to assist British nationals following Ahmedabad plane crash ('Warnings and insurance' page)
+:   Updated information regarding the Ahmedabad plane crash and support available for British nationals ('Warnings and insurance' page).
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -31,39 +31,35 @@ FCDO advises against all but essential travel to the state of Manipur including 
 
 Find out more about [why FCDO advises against travel to these regions](/foreign-travel-advice/india/regional-risks).
 
-## Plane crash in Ahmedabad
+## Plane crash in Ahmedabad (Air India AI 171)
 
-Following the plane crash in Ahmedabad, the UK is working with local authorities in India to urgently establish the facts and provide support to those involved.
+Following the plane crash in Ahmedabad on 12 June, the UK is working to provide support to those involved and is coordinating with partners and local authorities in India to establish the facts.
 
-British nationals who require consular assistance, or have concerns for friends or family, call:
-
-* +91 (11) 2419 2100 (in India)
-* +44 (0) 20 7008 5000 (in the UK)
-
-The Government of Gujarat State have established an Emergency Centre that can be contacted on: +91 (0) 79 23251900 / +91 (0) 9078405304.
-
-Air India have set up dedicated passenger hotline numbers for those seeking more information, call:
-
-* 1800 5691 444 (in India)
-* 0091 8062779200 (from outside India)
-
-## UK Reception Centre
-
-The Foreign, Commonwealth and Development Office has set up a UK Reception Centre in Ummed Hotel, near the airport in Ahmedabad, to provide support and advice for the families and friends of British nationals following the plane crash of Air India AI 171 on 12 June.  The UK Reception Centre is open from 0900 to 2100 IST daily.
-
-The Ummed Ahmedabad,
-Airport Circle,
-Ahmedabad,
-Gujarat 382475
-
-British nationals who require assistance, or have concerns for family or friends call:
+British nationals who require assistance, or have concerns for family or friends should call:
 
 * +91 (11) 2419 2100 (in India)
 * +44 (0) 207 008 5000 (in the UK)
 
+The Foreign, Commonwealth and Development Office has set up a UK Reception Centre in Ummed Hotel, near the airport in Ahmedabad, to provide support and advice for the families and friends of British nationals affected.
+
+* The UK Reception Centre is open from 10am to 5pm daily.
+* The Ummed Ahmedabad, Airport Circle, Ahmedabad, Gujarat 382475.
+
+The Government of Gujarat State have established an Emergency Centre that can be contacted on:
+
+* +91 (0) 79 23251900
+* +91 (0) 9078405304
+
+Air India has set up dedicated passenger hotline numbers for those seeking more information, call:
+
+* 1800 5691 444 (in India)
+* +91 8062779200 (from outside India)
+
 ## India-Pakistan tensions
 
 Following military exchanges which began on 7 May, the Government of India stated on 10 May that India and Pakistan have agreed to stop military action.  FCDO continues to follow the situation closely. Follow the advice of local authorities.
+
+$CTA
 
 ## Before you travel
 

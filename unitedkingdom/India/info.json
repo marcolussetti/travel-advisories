@@ -1,11 +1,11 @@
 {
     "name": "India",
-    "update_reason": "Opening of UK Reception Centre to assist British nationals following  Ahmedabad plane crash ('Warnings and insurance' page)",
+    "update_reason": "Updated information regarding the Ahmedabad plane crash and support available for British nationals ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/India/Warnings and insurance.md",
-            "update_date": "2025-06-14T09:08:08+01:00"
+            "update_date": "2025-06-21T13:10:54+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/India/Getting help.md"
         }
     ],
-    "update_date": "2025-06-14T09:08:08+01:00"
+    "update_date": "2025-06-21T13:10:54+01:00"
 }
