@@ -8,7 +8,7 @@ Drones, missiles and other projectiles have struck targets in Iran.
 
 Further attacks are likely to occur. Interceptions could produce falling military debris in various locations.
 
-You should leave Iran if you can do so safely. It’s possible to cross the land border at the following locations:
+You should leave Iran if you can do so safely. Canada is unable to provide assistance within Iran, including transportation to the border. It’s possible to cross the land border at the following locations:
 
 * To Türkiye:
 
@@ -22,7 +22,7 @@ You should leave Iran if you can do so safely. It’s possible to cross the land
 
 * To Azerbaijan:
 
-+ The Astara border crossing point is closed. The Embassy of Canada to Türkiye, in Ankara, can request special entry authorization for Canadians from the Government of Azerbaijan. If you assess this to be your safest option, you or someone on your behalf should contact the [Embassy of Canada in Ankara](https://www.international.gc.ca/country-pays/turkiye/ankara.aspx?lang=eng&_ga=2.207730970.909031257.1750038042-1748139045.1691506137) or Global Affairs Canada’s 24/7 [Emergency Watch and Response Centre](https://travel.gc.ca/assistance/emergency-assistance?_ga=2.93069341.168187391.1696947682-2043183889.1686925125).
++ The Astara border crossing point is closed. The Embassy of Canada to Türkiye, in Ankara, can request special entry authorization for Canadians from the Government of Azerbaijan. If authorization is granted, you will receive an entry code and will need to obtain an [electronic visa](https://evisa.gov.az/en/) ahead of crossing. If you assess this to be your safest option, you or someone on your behalf should contact Global Affairs Canada’s 24/7 [Emergency Watch and Response Centre](https://travel.gc.ca/assistance/emergency-assistance?_ga=2.93069341.168187391.1696947682-2043183889.1686925125).
 
 Border closures or restrictions to movement could occur.
 
