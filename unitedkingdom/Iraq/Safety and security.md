@@ -60,12 +60,21 @@ The long-standing policy of the British Government is not to make substantive co
 
 ## Regional risks and airspace restrictions
 
-Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region. There are reports of military debris falling in various locations. Demonstrations and protest activity may take place.
+Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region.
+
+Following Israeli strikes against targets in Iran, Iran has launched multiple rounds of missile and drone attacks against Israel, and on 22 June the US launched military strikes on Iran.
 
 You should:
 
 * monitor local and international media for the latest information
 * be vigilant and follow the instructions of local authorities
+
+We encourage you to:
+
+* read the FCDO’s advice on [if you’re affected by a crisis abroad](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas)
+* monitor local and international media for the latest information
+* be vigilant and follow the instructions of local authorities, avoiding all but essential travel to military bases
+* check with relevant airlines for the latest updates before travelling
 
 Iraqi airspace restrictions have been implemented. Only a very limited number of international flights are still going ahead. Given the rapidly changing context, it is unclear when flights transiting Iraqi airspace will resume as normal.
 

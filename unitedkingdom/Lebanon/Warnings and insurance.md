@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   20 June 2025
+:   23 June 2025
 
 Updated:
-:   19 June 2025
+:   22 June 2025
 
 Latest update:
-:   There is a risk of disruptions to air travel to and from Beirut airport due to ongoing hostilities in the region which could escalate quickly and pose security risks for the wider region. Separately,the risk of air strikes in areas of Lebanon, including in southern suburbs of Beirut, remains. (‘Warning and insurance’ page)
+:   Update on regional risks following US military strikes against Iran on 22 June ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/67e532fa87cebda7c4ca4c52/FCDO__TA__023_-_Lebanon_Travel_Advice_Ed12__WEB_.jpg)
 

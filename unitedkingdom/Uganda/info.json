@@ -1,11 +1,11 @@
 {
     "name": "Uganda",
-    "update_reason": "Updated reference to an explosion on 3 June 2025 ('Safety and security' page).",
+    "update_reason": "Security operation in Kalerwe Market in Kampala on 22 June 2025 (see Warnings and insurance page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Uganda/Warnings and insurance.md",
-            "update_date": "2025-06-05T09:37:14+01:00"
+            "update_date": "2025-06-22T13:17:12+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Uganda/Getting help.md"
         }
     ],
-    "update_date": "2025-06-05T09:37:14+01:00"
+    "update_date": "2025-06-22T13:17:12+01:00"
 }

@@ -1,11 +1,11 @@
 {
     "name": "Kuwait",
-    "update_reason": "Updated information about possible travel disruptions, including short-notice airspace closures, delayed and cancelled flights ('Safety and security' page)",
+    "update_reason": "Update on regional risks following US military strikes against Iran on 22 June ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Kuwait/Warnings and insurance.md",
-            "update_date": "2025-06-19T20:10:20+01:00"
+            "update_date": "2025-06-22T12:32:06+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Kuwait/Getting help.md"
         }
     ],
-    "update_date": "2025-06-19T20:10:20+01:00"
+    "update_date": "2025-06-22T12:32:06+01:00"
 }

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   21 June 2025
+:   23 June 2025
 
 Updated:
-:   20 June 2025
+:   22 June 2025
 
 Latest update:
-:   Information that due to the security situation, UK staff have been temporarily withdrawn from Iran. Our embassy continues to operate remotely (‘Warnings and insurance’ page).
+:   Update on the political situation in Iran ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/627e359b8fa8f53f99901991/FCDO__TA__021_-_Iran_Travel_Advice_Ed5__WEB_.jpg)
 
@@ -26,7 +26,7 @@ Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign
 
 ## Political situation in Iran
 
-Israel continues to operate militarily against Iran. Reports suggest that a wide range of military, nuclear and civil installations across the country have been hit. Major cities have been affected, and the Israeli Defence Forces have issued evacuation warnings for some residential districts. A significant Iranian military response is ongoing. Due to the ongoing security situation, we have taken the precautionary measure to temporarily withdraw UK staff from Iran. Our embassy continues to operate remotely.
+Israel continues to operate militarily against Iran and on 22 June the US launched military strikes on Iran. Reports suggest that a wide range of military, nuclear and civil installations across the country have been hit. Major cities have been affected, and the Israeli Defence Forces have issued evacuation warnings for some residential districts. A significant Iranian military response is ongoing. Due to the ongoing security situation, we have taken the precautionary measure to temporarily withdraw UK staff from Iran. Our embassy continues to operate remotely.
 
 The situation could escalate quickly and poses significant risks. We continue to advise against all travel to Iran.
 

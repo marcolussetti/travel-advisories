@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   20 June 2025
+:   23 June 2025
 
 Updated:
-:   19 June 2025
+:   22 June 2025
 
 Latest update:
-:   Updated information about possible travel disruptions, including short-notice airspace closures, delayed and cancelled flights ('Safety and security' page)
+:   Update on regional risks following US military strikes against Iran on 22 June ('Safety and security' page).
 
 ## Before you travel
 

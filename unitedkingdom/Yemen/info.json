@@ -1,11 +1,11 @@
 {
     "name": "Yemen",
-    "update_reason": "Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region ('Safety and security' page).",
+    "update_reason": "Update on regional risks following US military strikes against Iran on 22 June ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Yemen/Warnings and insurance.md",
-            "update_date": "2025-06-13T12:38:14+01:00"
+            "update_date": "2025-06-22T12:35:02+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Yemen/Getting help.md"
         }
     ],
-    "update_date": "2025-06-13T12:38:14+01:00"
+    "update_date": "2025-06-22T12:35:02+01:00"
 }

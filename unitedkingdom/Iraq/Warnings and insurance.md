@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   17 June 2025
+:   23 June 2025
 
 Updated:
-:   16 June 2025
+:   22 June 2025
 
 Latest update:
-:   Update on regional risks and airspace restrictions ('Safety and security’ page).
+:   Update on regional risks following US military strikes against Iran on 22 June ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/67d2f0ae886e7770c211e09e/FCDO__TA__048_-_Iraq_Travel_Advice_Ed6__WEB_.jpg)
 

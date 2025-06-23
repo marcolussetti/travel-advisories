@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   21 June 2025
+:   23 June 2025
 
 Updated:
-:   20 June 2025
+:   22 June 2025
 
 Latest update:
-:   Update to the risks of regional escalation (see 'Warnings and Insurance' page)
+:   Update on regional risks following US military strikes against Iran on 22 June ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/684fe3c64734883ca9f79e4a/FCDO__TA__022_-_Israel_Travel_Advice_Ed22__WEB___1_.jpg)
 
@@ -30,9 +30,23 @@ If you are already in Israel and the Occupied Palestinian Territories follow loc
 
 Let the UK government know you’re in Israel/Occupied Palestinian Territories, register your presence if you’re [in Israel/the Occupied Palestinian Territories](https://www.register.service.csd.fcdo.gov.uk/israel-20250612/tell-the-uk-government-youre-in-israel-or-the-occupied-palestinian-territories) for further updates.
 
+The UK is preparing a flight to transport British nationals and their dependants out of Israel and the OPTs.
+
+The UK government has launched a flight registration form for British nationals to register their details and interest in the flight.
+
+Further flights will be considered depending on demand, and the latest security situation.
+
+The Foreign Office has invited British Nationals in Israel and the Occupied Palestinian Territories (OPTs) to register their interest in a flight to help them depart.
+
+All British Nationals who have already registered via the [Register Your Presence](https://www.register.service.csd.fcdo.gov.uk/israel-20250612/tell-the-uk-government-youre-in-israel-or-the-occupied-palestinian-territories) portal will automatically be contacted and provided with a link to the booking portal. The FCDO is urging all those interested in flights back to the UK to register their presence now, if not done so already, so that they can receive details.
+
+Those with greatest need will be prioritised for flights. British nationals plus their non-British immediate family members travelling with them are eligible. All passengers must hold a valid travel document. Non-British immediate family members will require valid visas/permission to enter or remain that was granted for more than six months.
+
+The FCDO will contact those who are allocated a seat on the flight directly and British Nationals should not make their way to the airport unless they are contacted.
+
 ## Risks of regional escalation
 
-Following Israeli strikes against targets in Iran, Iran has launched multiple rounds of missile and drone attacks against Israel. Iran aligned militia groups are also likely to continue to conduct attacks. On 13 June a nationwide state of emergency was declared in Israel. Israeli airspace remains closed and Ben Gurion Airport is currently closed .
+Following Israeli strikes against targets in Iran, Iran has launched multiple rounds of missile and drone attacks against Israel, and on 22 June the US launched military strikes on Iran. Iran aligned militia groups are also likely to continue to conduct attacks. On 13 June a nationwide state of emergency was declared in Israel. Israeli airspace remains closed and Ben Gurion Airport is currently closed .
 
 This is a fast-moving situation that poses significant risks. The situation has the potential to deteriorate further, quickly and without warning. The current situation has disrupted air links out of the country and may disrupt road links and border crossings. We encourage you to read the FCDO’s advice on [if you’re affected by a crisis abroad](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas)
 

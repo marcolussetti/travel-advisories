@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   21 June 2025
+:   23 June 2025
 
 Updated:
-:   20 June 2025
+:   22 June 2025
 
 Latest update:
-:   Changes to the risks of regional escalation and new information about Jordan’s land border crossings (see 'Warnings and insurance', 'Entry Requirements' and 'Safety and Security' pages)
+:   Update on regional risks ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/65bbcf944965c50010e8a3f1/FCDO__TA__087_-_Jordan_Travel_Advice_Ed2__WEB_.jpg)
 
@@ -24,14 +24,16 @@ FCDO advises against all travel to within 3km of the border with Syria.
 
 ## Regional risks
 
-Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region. There are reports of military debris falling in various locations. Iran aligned militia groups are also likely to continue to conduct attacks.
+Ongoing hostilities in the region and between Israel and Iran have the potential to deteriorate further, quickly and without warning including since US military strikes against Iran on 22 June. Iran aligned militia groups are also likely to continue to conduct attacks.
 
 The current situation has disrupted air links and may disrupt road links and border crossings. Demonstrations and protest activity may take place.
 
-You should:
+We encourage you to:
 
+* read the FCDO’s advice on [if you’re affected by a crisis abroad](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas)
 * monitor local and international media for the latest information
-* be vigilant and follow the instructions of local authorities
+* be vigilant and follow the instructions of local authorities, avoiding all but essential travel to military bases
+* check with relevant airlines for the latest updates before travelling
 * take shelter and stay away from windows if you hear air sirens. In the event of injuries or damage, call 911 immediately
 * See [safety and security page](https://www.gov.uk/foreign-travel-advice/jordan/safety-and-security).
 

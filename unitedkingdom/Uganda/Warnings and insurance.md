@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   6 June 2025
+:   23 June 2025
 
 Updated:
-:   5 June 2025
+:   22 June 2025
 
 Latest update:
-:   Updated reference to an explosion on 3 June 2025 ('Safety and security' page).
+:   Security operation in Kalerwe Market in Kampala on 22 June 2025 (see Warnings and insurance page).
 
 ![](https://assets.publishing.service.gov.uk/media/667bf1c07d26b2be17a4b36d/FCDO__TA__066_-_Uganda_Travel_Advice_Ed8__WEB_.jpg)
 
@@ -27,6 +27,10 @@ FCDO advises against all but essential travel to:
 * Semuliki National Park
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/uganda/regional-risks).
+
+## Security situation
+
+On 22 June 2025, the Ugandan People’s Defence Forces reported that security forces had killed one person in a security operation in Kalerwe Market in Kampala. If you are in the immediate area be vigilant, follow the advice of local authorities and monitor local media.
 
 ## Before you travel
 
