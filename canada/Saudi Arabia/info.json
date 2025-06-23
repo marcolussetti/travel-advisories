@@ -1,7 +1,7 @@
 {
     "name": "Saudi Arabia",
-    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
-    "update_date": "2025-06-16T15:04:00",
+    "update_reason": "Safety and security \u2013 updated information on ongoing hostilities in the Middle East",
+    "update_date": "2025-06-22T21:32:00",
     "sections": {
         "risk": "canada/Saudi Arabia/risk.md",
         "security": "canada/Saudi Arabia/security.md",

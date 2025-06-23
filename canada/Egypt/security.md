@@ -4,9 +4,9 @@
 
 ### Ongoing hostilities in the Middle East
 
-Ongoing hostilities pose serious security risks across the region. There are reports of military debris falling in various locations.
+The security situation in the region could deteriorate significantly without notice.
 
-This may result in disruptions to movement and transportation, including:
+There are reports of military debris falling in various locations. This may result in disruptions to movement and transportation, including:
 
 * border closures or restrictions
 * flight cancellations

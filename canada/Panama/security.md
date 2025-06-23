@@ -18,6 +18,8 @@ Fuel shortages, including on the islands, may impact service availability, such 
 
 You should avoid the affected areas. However, if you're there:
 
+* consider sheltering in place
+* limit your movements
 * carry valid identification at all times
 * follow the instructions of local authorities
 * monitor local media for the latest information.
