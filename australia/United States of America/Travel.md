@@ -75,9 +75,12 @@ If your ESTA application is denied or, you're not eligible to travel under the V
 
 The category of visa you need to apply for will depend on your reason for travel.
 
+In June 2025, the US Department of State announced it will instruct applicants for certain US visa types to adjust the privacy settings on their social media profiles to facilitate US Government vetting of their online presence.
+
 **More information:**
 
 * [US Department of State - Bureau of Consular Affairs](https://travel.state.gov/content/travel/en/us-visas.html)
+* [US Department of State – Announcement of Expanded Screening and Vetting for Visa Applicants](https://www.state.gov/releases/office-of-the-spokesperson/2025/06/announcement-of-expanded-screening-and-vetting-for-visa-applicants/)
 * [Embassy of the United States of America in Australia](https://au.usembassy.gov/visas/)
 
 #### Entry into the US

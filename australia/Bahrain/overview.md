@@ -4,7 +4,9 @@ Latest update
 
 We continue to advise exercise a high degree of caution in Bahrain due to the threat of terrorism and risk of civil unrest.  
   
-Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions. Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests (see 'Safety').
+Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions. The security situation in the Middle East is unpredictable and could deteriorate further with little warning. There is a risk of reprisal attacks and further escalation across the region, as well as the potential for terrorist attacks. Australians in Bahrain should read our general advice about terrorism risks and protecting your safety during an armed conflict (see ‘Safety’). As the regional security situation is evolving, Australians in Bahrain should closely monitor and follow the guidance of local authorities.   
+  
+Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests. Monitor local media for updates and follow the advice of authorities (see 'Safety').
 
 Advice Level summary
 
@@ -24,9 +26,11 @@ Exercise a high degree of caution in Bahrain due to the threat of terrorism and 
 
 ### Safety
 
-* Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions. There's an ongoing threat of attacks against Israeli interests across the region.
-* Ongoing hostilities pose serious security risks across the region. Bahrain is host to regional security infrastructure, including the Combined Maritime Forces
-* Terrorism is a worldwide threat. Terrorist attacks could occur anywhere and at any time. Be alert to possible threats, especially in public places. Terrorists may target tourist areas or other places frequented by foreigners and where large crowds gather. Take official warnings seriously. If there's a security incident, follow the advice of local authorities.
+* Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions. The security situation in the Middle East is unpredictable and could deteriorate further with little warning. There is a risk of reprisal attacks and further escalation across the region, as well as the potential for terrorist attacks.
+* Australians should read our general advice about [terrorism risks](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.smartraveller.gov.au%2Fbefore-you-go%2Fsafety%2Fterrorism&data=05%7C02%7Ctravel.advice%40dfat.gov.au%7C16c8c58f64de46df6caa08ddb1e93e18%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638862337525088846%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=5u8W%2FTVyGCdsRRl%2BmayaLkV%2FmR20Ls1LkH0pckMjk2w%3D&reserved=0) and  protecting your safety during an [armed conflict](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.smartraveller.gov.au%2Fbefore-you-go%2Fstaying-safe%2Farmed-conflict&data=05%7C02%7Ctravel.advice%40dfat.gov.au%7C16c8c58f64de46df6caa08ddb1e93e18%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638862337525123454%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=xb7cAVOyMbxADT4V5Ll%2BRFOpW3qDG7nKTx0EB5CCHME%3D&reserved=0).
+* As the regional security situation is evolving, Australians in Bahrain should closely monitor and follow the guidance of local authorities. Take official warnings seriously. If there’s a security incident, follow the advice of local authorities.
+* Ongoing hostilities pose serious security risks across the region. Bahrain is host to regional security infrastructure, including the Combined Maritime Forces.
+* Terrorism is a worldwide threat. Terrorist attacks could occur anywhere and at any time. Be alert to possible threats, especially in public places. Terrorists may target tourist areas or other places frequented by foreigners and where large crowds gather. Take official warnings seriously.
 * Demonstrations and protests may also occur, including those against foreign governments. Local security situations could deteriorate with little notice. Avoid all demonstrations and protests.
 * Public rallies and meetings of large groups are illegal. Don't get caught up in demonstrations. Take care around Friday prayers due to the possibility of unrest.
 * The level of crime overall in Bahrain is low, although pickpocketing and bag snatching occurs. Take care near the old market areas (souks).

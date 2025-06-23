@@ -4,8 +4,6 @@
 
 Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions.
 
-Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests.
-
 The security situation in the region remains unpredictable and could deteriorate with little or no warning. Monitor local and international media.
 
 If there's a security incident, follow the advice of local authorities.

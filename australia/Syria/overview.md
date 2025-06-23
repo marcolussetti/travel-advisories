@@ -4,7 +4,9 @@ Latest update
 
 We continue to advise do not travel to Syria due to the dangerous security situation and the threat of armed conflict, air strikes, terrorism, arbitrary detention and kidnapping. The security situation remains volatile. Armed clashes are ongoing in parts of Syria and have resulted in many civilian casualties. If you’re in Syria despite our advice, shelter in place and leave when it's safe to do so. If you're in Syria, despite our advice, avoid possible terrorist and military targets. Airports and airlines may suspend operations without notice.   
   
-Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions. Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests.  
+Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions. The security situation in the Middle East is unpredictable and could deteriorate further with little warning. There is a risk of reprisal attacks and further escalation across the region, as well as the potential for terrorist attacks. Australians in Syria should read our general advice about terrorism risks and protecting your safety during an armed conflict (see ‘Safety’).  
+  
+Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests. Monitor local media for updates and follow the advice of authorities.  
   
 Land border crossings between Syria and Lebanon have been the target of border clashes and bombings and could close without notice. If you're planning to cross a land border from Syria, contact the relevant authorities in your destination country for entry requirements (see 'Travel'). Entry and exit requirements for Syria may change without notice.
 
@@ -28,10 +30,10 @@ See [Safety](#safety).
 
 ### Safety
 
-* We continue to advise do not travel to Syria due to the dangerous security situation and the threat of armed conflict, air strikes, terrorism, arbitrary detention and kidnapping. The security situation remains volatile. Armed clashes are ongoing in parts of Syria and have resulted in many civilian casualties. If you’re in Syria despite our advice, shelter in place and leave when it's safe to do so.
+* Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions. The security situation in the Middle East is unpredictable and could deteriorate further with little warning. There is a risk of reprisal attacks and further escalation across the region, as well as the potential for terrorist attacks.
+* Australians should read our general advice about [terrorism risks](/node/342) and  protecting your safety during an [armed conflict](/node/622).
+* Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests. Monitor local media for updates and follow the advice of authorities.
 * Land border crossings may be closed without notice. Additional road closures and checkpoints may be established. Airports and airlines may suspend operations without notice.
-* Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions.
-* Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests.
 * Foreigners, especially aid workers and journalists, have been kidnapped. Vary your routines so your movements don't become obvious to others.
 * Protests can turn violent. Authorities have arrested people near demonstrations, regardless of their citizenship. Avoid large public gatherings.
 * Serious crime occurs, including violent robberies, kidnappings and carjackings. Keep your vehicle doors locked and windows up, even when moving. Carry only what you need.

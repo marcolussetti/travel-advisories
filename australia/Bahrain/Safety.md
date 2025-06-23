@@ -104,7 +104,7 @@ Make sure any unused SIM cards are kept in a safe place or deactivated by contac
 
 **More information:**
 
-[Cyber security when travelling overseas](https://www.smartraveller.gov.au/before-you-go/staying-safe/cyber-security)
+* [Cyber security when travelling overseas](https://www.smartraveller.gov.au/before-you-go/staying-safe/cyber-security)
 
 #### Climate and natural disasters
 

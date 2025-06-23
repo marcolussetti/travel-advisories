@@ -4,9 +4,9 @@ Latest update
 
 We continue to advise do not travel to Yemen, including the island of Socotra. There's ongoing armed conflict and a very high threat of kidnapping and terrorism. Military operations against Houthi targets are continuing in Yemen and the Red Sea area.  
   
-Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions.   
+Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions. The security situation in the Middle East is unpredictable and could deteriorate further with little warning. There is a risk of reprisal attacks and further escalation across the region, as well as the potential for terrorist attacks. Australians in Yemen should read our general advice about terrorism risks and protecting your safety during an armed conflict (see ‘Safety’).  
   
-Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests (see 'Safety').
+Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests. Monitor local media for updates and follow the advice of authorities.
 
 Advice Level summary
 
@@ -29,8 +29,9 @@ See [Safety](#safety)
 ### Safety
 
 * Do not travel to Yemen (including the island of Socotra) due to the ongoing civil and international conflict.
-* Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions.
-* Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests. There is an increased threat of attacks against Israeli interests across the region.
+* Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions. The security situation in the Middle East is unpredictable and could deteriorate further with little warning. There is a risk of reprisal attacks and further escalation across the region, as well as the potential for terrorist attacks.
+* Australians should read our general advice about [terrorism risks](/node/342) and  protecting your safety during an [armed conflict](/node/622).
+* Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests. Monitor local media for updates and follow the advice of authorities.
 * Military operations continue in Yemen and the Red Sea in response to attacks by Houthi militants on ships transiting the Red Sea and surrounding waters, including the Gulf of Aden.
 * Despite truce agreements, the security situation in Yemen remains highly unstable and unpredictable. Airstrikes, other military activities and violent clashes may occur sporadically and without warning. There may be limited government control over parts of the country.
 * There's extreme political instability, risk of injury from landmines and unexploded ordinance, and a very high threat of kidnapping and terrorism. You may also be unable to get enough food, water or medical care.

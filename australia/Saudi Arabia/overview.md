@@ -4,9 +4,7 @@ Latest update
 
 We continue to advise exercise a high degree of caution in Saudi Arabia. Higher levels apply in some areas.   
   
-Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions. Local security situations could deteriorate with little notice.   
-  
-Ongoing hostilities pose serious security risks across the region. There are reports of military debris falling in various locations. Follow the advice of local authorities (see ‘Safety’).
+Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions. The security situation in the Middle East is unpredictable and could deteriorate further with little warning. There is a risk of reprisal attacks and further escalation across the region, as well as the potential for terrorist attacks. Australians in Saudi Arabia should read our general advice about terrorism risks and protecting your safety during an armed conflict (see ‘Safety’). Ongoing hostilities pose serious security risks across the region. There are reports of military debris falling in various locations. Follow the advice of local authorities.
 
 Advice Level summary
 
@@ -40,10 +38,11 @@ See [Safety](#safety).
 
 ### Safety
 
-* Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions. There is an increased threat of attacks against Israeli interests across the region.
+* Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions. The security situation in the Middle East is unpredictable and could deteriorate further with little warning. There is a risk of reprisal attacks and further escalation across the region, as well as the potential for terrorist attacks.
+* Australians should read our general advice about [terrorism risks](/node/342) and  protecting your safety during an [armed conflict](/node/622).
 * Ongoing hostilities pose serious security risks across the region. There are reports of military debris falling in various locations. Follow the advice of local authorities.
-* Terrorist attacks could occur anywhere and at any time. Avoid possible targets such as energy infrastructure. Be alert at places frequented by foreigners and at large-scale entertainment events. Take official warnings seriously.
 * Demonstrations and protests are illegal in Saudi Arabia, and there may be severe penalties for participation. Avoid all demonstrations and protests should they occur.
+* Terrorist attacks could occur anywhere and at any time. Avoid possible targets such as energy infrastructure. Be alert at places frequented by foreigners and at large-scale entertainment events. Take official warnings seriously.
 * Crime rates are low, but theft can happen, especially in crowded places and from vehicles. Physical, verbal and sexual harassment can also occur.
 * Be prepared for extreme weather. From June to August, temperatures can exceed 50°C. Sandstorms and dust storms are common.
 * Driving can be hazardous. The annual road death toll is extremely high.

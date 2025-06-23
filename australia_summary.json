@@ -50,7 +50,7 @@
     {
         "destination": "Bahrain",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-06-20T12:00:00Z",
+        "last_updated": "2025-06-23T12:00:00Z",
         "url": "https://www.smartraveller.gov.au/destinations/middle-east/bahrain"
     },
     {
@@ -422,13 +422,13 @@
     {
         "destination": "Iran",
         "risk_level": "Do not travel",
-        "last_updated": "2025-06-22T12:00:00Z",
+        "last_updated": "2025-06-23T12:00:00Z",
         "url": "https://www.smartraveller.gov.au/destinations/middle-east/iran"
     },
     {
         "destination": "Iraq",
         "risk_level": "Do not travel",
-        "last_updated": "2025-06-20T12:00:00Z",
+        "last_updated": "2025-06-23T12:00:00Z",
         "url": "https://www.smartraveller.gov.au/destinations/middle-east/iraq"
     },
     {
@@ -464,7 +464,7 @@
     {
         "destination": "Jordan",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-06-15T12:00:00Z",
+        "last_updated": "2025-06-23T12:00:00Z",
         "url": "https://www.smartraveller.gov.au/destinations/middle-east/jordan"
     },
     {
@@ -488,7 +488,7 @@
     {
         "destination": "Kuwait",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-06-13T12:00:00Z",
+        "last_updated": "2025-06-23T12:00:00Z",
         "url": "https://www.smartraveller.gov.au/destinations/middle-east/kuwait"
     },
     {
@@ -512,7 +512,7 @@
     {
         "destination": "Lebanon",
         "risk_level": "Do not travel",
-        "last_updated": "2025-06-13T12:00:00Z",
+        "last_updated": "2025-06-23T12:00:00Z",
         "url": "https://www.smartraveller.gov.au/destinations/middle-east/lebanon"
     },
     {
@@ -722,7 +722,7 @@
     {
         "destination": "Oman",
         "risk_level": "Exercise normal safety precautions",
-        "last_updated": "2025-06-13T12:00:00Z",
+        "last_updated": "2025-06-23T12:00:00Z",
         "url": "https://www.smartraveller.gov.au/destinations/middle-east/oman"
     },
     {
@@ -782,7 +782,7 @@
     {
         "destination": "Qatar",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-06-18T12:00:00Z",
+        "last_updated": "2025-06-23T12:00:00Z",
         "url": "https://www.smartraveller.gov.au/destinations/middle-east/qatar"
     },
     {
@@ -812,7 +812,7 @@
     {
         "destination": "Saudi Arabia",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-06-20T12:00:00Z",
+        "last_updated": "2025-06-23T12:00:00Z",
         "url": "https://www.smartraveller.gov.au/destinations/middle-east/saudi-arabia"
     },
     {
@@ -920,7 +920,7 @@
     {
         "destination": "Syria",
         "risk_level": "Do not travel",
-        "last_updated": "2025-06-13T12:00:00Z",
+        "last_updated": "2025-06-23T12:00:00Z",
         "url": "https://www.smartraveller.gov.au/destinations/middle-east/syria"
     },
     {
@@ -1010,7 +1010,7 @@
     {
         "destination": "United Arab Emirates",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-06-13T12:00:00Z",
+        "last_updated": "2025-06-23T12:00:00Z",
         "url": "https://www.smartraveller.gov.au/destinations/middle-east/united-arab-emirates"
     },
     {
@@ -1022,7 +1022,7 @@
     {
         "destination": "United States of America",
         "risk_level": "Exercise normal safety precautions",
-        "last_updated": "2025-06-11T12:00:00Z",
+        "last_updated": "2025-06-23T12:00:00Z",
         "url": "https://www.smartraveller.gov.au/destinations/americas/united-states-america"
     },
     {
@@ -1058,7 +1058,7 @@
     {
         "destination": "Yemen",
         "risk_level": "Do not travel",
-        "last_updated": "2025-06-13T12:00:00Z",
+        "last_updated": "2025-06-23T12:00:00Z",
         "url": "https://www.smartraveller.gov.au/destinations/middle-east/yemen"
     },
     {

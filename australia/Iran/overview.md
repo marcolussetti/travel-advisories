@@ -36,15 +36,15 @@ Do not travel to Iran due to the volatile regional security situation and the ri
 
 ### Border crossings
 
-Requirements for border crossings may change without notice. Check the latest public information from local authorities on entry requirements and border arrangements.
+Requirements for border crossings may change without notice. Check the latest public information from local authorities on entry requirements and border arrangements. 
 
 ##### [Azerbaijan](/destinations/europe/azerbaijan "Azerbaijan")
 
 For Australians travelling from Iran, Azerbaijan authorities have reopened the crossing on its southern border at Astara for 'exceptional' crossing by third-country nationals. You will need both a visa and a border crossing code to enter Azerbaijan.  
   
-We must register your details with Azerbaijan authorities to get the border crossing code (for Australian passport holders). Waiting times can vary significantly. It can take up to 48 hours or longer for a border crossing code to be issued by authorities. See 'Travel' on our Azerbaijan page for details. This is different to the visa. Some travellers have been able to cross into Azerbaijan at Astara without a code.  
+We must register your details with Azerbaijan authorities to get the border crossing code (for Australian passport holders). Waiting times can vary significantly. It can take up to 48 hours or longer for a border crossing code to be issued by authorities. Contact the Australian Embassy in Türkiye ([consular.ankara@dfat.gov.au](mailto:consular.ankara@dfat.gov.au)). See 'Travel' in our Azerbaijan travel advice for details. This is different to the visa.   
   
- Internet and telephone connectivity in Iran, including at the Azerbaijan border, can be very poor. Requirements for border crossings may change without notice. Check the latest public information from local authorities on entry requirements and border arrangements.
+Internet and telephone connectivity in Iran, including at the Azerbaijan border, can be very poor. Requirements for border crossings may change without notice. Check the latest public information from local authorities on entry requirements and border arrangements.
 
 ##### [Türkiye](/destinations/europe/turkiye "Türkiye")
 
@@ -52,9 +52,7 @@ You will need permission from Türkiye’s Ministry of Foreign Affairs to enter 
 
 ##### [Armenia](/destinations/europe/armenia "Armenia")
 
-The border crossing between Iran and Armenia is open at Agarak. Border crossings into a neighbouring country may open and close at short notice. Check the latest public information from local authorities on entry requirements and border arrangements. 
-
-Australians do not need a visa for Armenia for stays of up to 180 days per year.  See our travel advice for Armenia for advice on safety concerns for some nearby Armenian border regions.
+The border crossing between Iran and Armenia is open at Agarak. Border crossings into a neighbouring country may open and close at short notice. Check the latest public information from local authorities on entry requirements and border arrangements. Australians do not need a visa for Armenia for stays of up to 180 days per year.  See our travel advice for Armenia for advice on safety concerns for some nearby Armenian border regions.
 
 ##### [Turkmenistan](/destinations/asia/turkmenistan "Turkmenistan")
 
@@ -64,16 +62,17 @@ Australians seeking to transit Turkmenistan must arrive at either Bajgiran or Ar
   
 Requirements for border crossings from Iran may change without notice. Check the latest public information from local authorities on entry requirements and border arrangements.
 
+Foreigners, including dual nationals, are at increased risk of questioning, arrest or detention in Iran. If you’re a dual Australian-Iranian you must exit Iran on your Iranian passport. You should be prepared to encounter checkpoints and questioning from Iranian authorities before departing Iran. See ‘Security – Risk of arbitrary detention or arrest’.
+
 Full travel advice: [Travel](#travel)
 
 ### Safety
 
 * The US has conducted strikes on Iranian nuclear sites at Fordow, Natanz and Esfahan. Australians in Iran should see our general advice on protecting your safety during an [armed conflict](https://www.smartraveller.gov.au/before-you-go/staying-safe/armed-conflict). Local security situations could deteriorate with little notice.
 * The Australian Government has directed the departure of Australian officials from the Australian Embassy in Tehran due to the volatile security situation. Our Embassy and operations in Tehran are now closed.
-* The security situation is unpredictable and could deteriorate further with little warning. Our ability to provide consular assistance in Iran is extremely limited. Australians in need of consular assistance should call the Australian Government 24-hour Consular Emergency Centre on 1300 555 135 in Australia or +61 2 6261 3305 outside Australia.
-* We urge Australians who want to leave Iran to do so now, if it is safe. Australians in Iran who are unable to leave, or do not wish to leave, are advised to shelter in place. Be alert and aware of your surroundings. Continue to monitor advice on Smartraveller. The Australian Government may not be able to assist with your departure.
+* The security situation is unpredictable and could deteriorate further with little warning. Our ability to provide consular assistance in Iran is extremely limited. We urge Australians who want to leave Iran to do so now, if it is safe. Australians in Iran who are unable to leave, or do not wish to leave, are advised to shelter in place. Be alert and aware of your surroundings. The Australian Government may not be able to assist with your departure.
 * If you're an Australian citizen or permanent resident in Iran, you can now register on the Department of Foreign Affairs and Trade's [crisis registration portal](https://crisis.dfat.gov.au). We will communicate directly with registered Australians with important updates.
-* If you intend to travel by land into a neighbouring country, check the latest public information from local authorities in Iran and your destination on visa and border arrangements. Borders may close without notice. See Travel for more information.
+* If you intend to travel by land into a neighbouring country, check the latest public information from local authorities in Iran and your destination on visa and border arrangements. Borders may close without notice.
 * Terrorist attacks could happen anywhere in Iran, including Tehran or other locations frequented by foreigners and tourists. They could occur at any time with little or no warning. Avoid possible targets and areas with a low level of security. Possible targets for attacks include embassies, hotels, places of worship, tourist sites, government interests, military parades and locations, Western businesses and other interests. Take official warnings seriously.
 * Regional tensions are high and could escalate rapidly. There is ongoing hostility between Iran and Israel and military tensions between Iran, the US and other countries in the Middle East. The Iran-Iraq, Iran-Afghanistan, and Iran-Pakistan border areas can be volatile and remain extremely dangerous.
 * Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice.
@@ -111,6 +110,7 @@ Full travel advice: [Local laws](#local-laws)
 
 * If you intend to travel by land into a neighbouring country, check the latest public information from local authorities in Iran and your destination on visa and border arrangements. Bordersmay close without notice. See Travel - Border Crossings from Iran below for more information.
 * We advise Australians not to travel to Iran. If you're in Iran, you should strongly consider leaving as soon as possible. If despite our advice you travel to Iran, you'll need a visa to enter and you'll need to get it before you travel. Contact your nearest [Iranian embassy](https://protocol.dfat.gov.au/Public/Missions/93) for details.
+* Foreigners, including dual nationals, are at increased risk of questioning, arrest or detention in Iran. If you’re a dual Australian-Iranian you must exit Iran on your Iranian passport. You should be prepared to encounter checkpoints and questioning from Iranian authorities before departing Iran (see ‘Security – Risk of arbitrary detention or arrest’).
 * Airlines may cancel or reduce their operations into and out of Iran at short notice.
 * Some countries have restrictions on travellers coming out of Iran.
 * If your passport contains Israeli stamps or visas, Iranian authorities will refuse your entry.

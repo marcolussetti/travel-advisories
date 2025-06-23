@@ -2,11 +2,11 @@
 
 Latest update
 
-We’ve raised our level of advice for Qatar. We now advise exercise a high degree of caution due to ongoing hostilities in the region.  
+We continue to advise exercise a high degree of caution in Qatar due to ongoing hostilities in the region.  
   
-Conflicts in the Middle East could lead to an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions.   
+Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions. The security situation in the Middle East is unpredictable and could deteriorate further with little warning. There is a risk of reprisal attacks and further escalation across the region, as well as the potential for terrorist attacks. Australians in Qatar should read our general advice about terrorism risks and protecting your safety during an armed conflict (see ‘Safety’).  
   
-Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests (see 'Safety').
+Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests. Monitor local media for updates and follow the advice of authorities.
 
 Advice Level summary
 
@@ -26,8 +26,9 @@ Exercise a high degree of caution in Qatar due to the ongoing hostilities in the
 
 ### Safety
 
-* We advise exercise a high degree of caution due to ongoing hostilities in the region. Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions. There's an ongoing threat of attacks against Israeli interests across the region.
-* Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests. Monitor local and international media and follow the advice of local authorities.
+* We advise exercise a high degree of caution due to ongoing hostilities in the region. Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions. The security situation in the Middle East is unpredictable and could deteriorate further with little warning. There is a risk of reprisal attacks and further escalation across the region, as well as the potential for terrorist attacks.
+* Australians should read our general advice about [terrorism risks](/node/342) and  protecting your safety during an [armed conflict](/node/622).
+* Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests. Monitor local media for updates and follow the advice of authorities.
 * Several terrorist attacks have happened in the wider Gulf region in recent years. Terrorists may target tourist areas and attractions. More attacks could occur. If there's a security incident, follow the advice of local authorities.
 * Qatar has a low crime rate. Pickpocketing, bag snatching and other petty crimes are rare but can happen. Keep an eye on your belongings, especially in crowded places.
 * Bank and credit card fraud can occur. Always keep your credit card in sight when shopping.

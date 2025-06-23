@@ -2,11 +2,13 @@
 
 #### Border crossings from Iran
 
+Requirements for border crossings from Iran may change without notice. Check the latest public information from local authorities on entry requirements and border arrangements.
+
 [Azerbaijan](https://www.smartraveller.gov.au/destinations/europe/azerbaijan)
 
 For Australians travelling from Iran, Azerbaijan authorities have reopened the crossing on its southern border at Astara for 'exceptional' crossing by third-country nationals. You will need both a visa and a border crossing code to enter Azerbaijan.  
   
-We must register your details with Azerbaijan authorities to get the border crossing code (for Australian passport holders). Waiting times can vary significantly. It can take up to 48 hours or longer for a border crossing code to be issued by authorities. See 'Travel' on our Azerbaijan page for details. This is different to the visa. Some travellers have been able to cross into Azerbaijan at Astara without a code.  
+We must register your details with Azerbaijan authorities to get the border crossing code (for Australian passport holders). Waiting times can vary significantly. It can take up to 48 hours or longer for a border crossing code to be issued by authorities. Contact the Australian Embassy in Türkiye ([consular.ankara@dfat.gov.au](mailto:consular.ankara@dfat.gov.au)). See 'Travel' in our Azerbaijan page for details. This is different to the visa.   
   
 Internet and telephone connectivity in Iran, including at the Azerbaijan border, can be very poor. Requirements for border crossings may change without notice. Check the latest public information from local authorities on entry requirements and border arrangements.
 
@@ -24,9 +26,7 @@ Australians do not need a visa for Armenia for stays of up to 180 days per year.
 
 The Iran-Turkmenistan border is open for humanitarian purposes, including for transit of foreign citizens in Iran. We are working with Turkmen authorities to facilitate humanitarian transit entry into Turkmenistan for Australian citizens. If you are an Australian citizen seeking humanitarian transit entry from Iran into Turkmenistan, contact the Australian Embassy in Moscow (see 'Travel' on our Turkmenistan page) and attach a copy of your Australian passport.  
   
-Australians seeking to transit Turkmenistan must arrive at either Bajgiran or Artyk border crossing posts and must present a valid airline ticket with a departure time from Turkmenistan within 7 hours of your arrival at the land border. Details of your outward flight, and information on which crossing you will use, must be communicated to the Australian Embassy in Moscow in advance of your arrival at the border. If you arrive at the border more than 7 hours from your departure time from Turkmenistan, or without a valid airline ticket, you will be turned away.  
-  
-Requirements for border crossings from Iran may change without notice. Check the latest public information from local authorities on entry requirements and border arrangements.
+Australians seeking to transit Turkmenistan must arrive at either Bajgiran or Artyk border crossing posts and must present a valid airline ticket with a departure time from Turkmenistan within 7 hours of your arrival at the land border. Details of your outward flight, and information on which crossing you will use, must be communicated to the Australian Embassy in Moscow in advance of your arrival at the border. If you arrive at the border more than 7 hours from your departure time from Turkmenistan, or without a valid airline ticket, you will be turned away.
 
 #### Visas and border measures
 

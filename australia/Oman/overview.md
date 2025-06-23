@@ -4,7 +4,9 @@ Latest update
 
 We continue to advise exercise normal safety precautions. Reconsider your need to travel to border areas with Yemen due to the threat of armed conflict and violence.   
   
-Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions. Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests.   
+Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions. The security situation in the Middle East is unpredictable and could deteriorate further with little warning. There is a risk of reprisal attacks and further escalation across the region, as well as the potential for terrorist attacks. Australians in Oman should read our general advice about terrorism risks and protecting your safety during an armed conflict (see ‘Safety’).  
+  
+Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests. Monitor local media for updates and follow the advice of authorities.  
   
 You'll need a valid visa to travel to Oman. The type of visa depends on your country of residence and purpose of travel. Entry and exit conditions can change at short notice (see ‘Travel’). Terrorist groups are active in the Arabian Peninsula and attacks against targets in Oman may happen (see 'Safety').
 
@@ -34,10 +36,11 @@ See [Safety](#safety).
 
 ### Safety
 
-* Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions. There is an increased threat of attacks against Israeli interests across the region.
+* Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions. The security situation in the Middle East is unpredictable and could deteriorate further with little warning. There is a risk of reprisal attacks and further escalation across the region, as well as the potential for terrorist attacks.
+* Australians should read our general advice about [terrorism risks](/before-you-go/safety/terrorism "Terrorism") and  protecting your safety during an [armed conflict](/before-you-go/staying-safe/armed-conflict "Armed conflict").
+* Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests. Monitor local media for updates and follow the advice of authorities.
 * Armed conflict is ongoing in neighbouring Yemen. If you travel to border areas, be alert to possible threats. Seek local advice on safe routes.
 * Terrorist groups are active in the Arabian Peninsula and attacks against targets in Oman may happen. Terrorist attacks can occur anywhere. Take official warnings seriously.
-* Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests.
 * Protests can turn violent. Avoid large public gatherings. Take care around the time of Friday prayers.
 * The crime rate in Oman is low. Tourists are sometimes targets for burglaries and theft especially in crowded places and from vehicles. Physical, verbal and sexual harassment can occur.
 * Risks increase at night. Secure your accommodation. Don't camp in remote areas. Some women and travellers camping in isolated areas have been assaulted.
