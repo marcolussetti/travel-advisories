@@ -1,7 +1,7 @@
 {
     "name": "Qatar",
-    "update_reason": "Safety and security \u2013 updated information on ongoing hostilities in the Middle East",
-    "update_date": "2025-06-22T21:32:00",
+    "update_reason": "Safety and security \u2013 added information on missile strikes near Doha and on the airspace closure",
+    "update_date": "2025-06-23T14:05:00",
     "sections": {
         "risk": "canada/Qatar/risk.md",
         "security": "canada/Qatar/security.md",

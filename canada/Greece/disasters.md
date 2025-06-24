@@ -2,6 +2,16 @@
 
 ## Natural disasters and climate
 
+### Chios fires
+
+Since June 22, 2025, multiple fires have broken out on the island of Chios.
+
+Local authorities have declared a state of emergency and have issued evacuation orders for several areas.
+
+* Stay away from the affected areas
+* Follow the instructions of local emergency services personnel, including any evacuation orders
+* Monitor local media for up-to-date information on the situation
+
 ### Seismic activity
 
 Greece is located in an active seismic zone. Major earthquakes could occur and can cause significant damage.

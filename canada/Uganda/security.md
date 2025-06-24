@@ -2,15 +2,6 @@
 
 ## Safety and security
 
-### Explosions in Kampala
-
-On June 22, 2025, the U.S. Embassy in Uganda issued the following security alert: "There are reports of an explosion with casualties near Kalerwe Market in Kampala on June 22, 2025 at approximately 9:20 am. Local government has closed the area for investigation."
-
-If you're in the affected area:
-
-* follow the instructions of local authorities
-* monitor local media to stay informed on the evolving situation
-
 ### Border with the Democratic Republic of Congo
 
 The volatile security situation in the eastern part of neighbouring Democratic Republic of Congo (DRC) could lead to possible incursions into western Uganda by armed rebel groups from the DRC.

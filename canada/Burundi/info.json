@@ -1,7 +1,7 @@
 {
     "name": "Burundi",
-    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
-    "update_date": "2025-06-02T10:32:00",
+    "update_reason": "Safety and security \u2013 removed information about legislative elections in Burundi",
+    "update_date": "2025-06-23T13:19:00",
     "sections": {
         "risk": "canada/Burundi/risk.md",
         "security": "canada/Burundi/security.md",

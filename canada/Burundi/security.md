@@ -2,13 +2,6 @@
 
 ## Safety and security
 
-### Legislative elections
-
-Legislative elections are scheduled for June 5, 2025, in Burundi.
-
-* Avoid all political gatherings
-* Follow the instructions of local authorities
-
 ### Security situation in Bujumbura Mairie Province
 
 The security situation in Bujumbura Mairie Province is volatile and unpredictable due to the ongoing conflict in the Democratic Republic of Congo.

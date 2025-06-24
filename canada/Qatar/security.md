@@ -4,13 +4,15 @@
 
 ### Ongoing hostilities in the Middle East
 
-The security situation in the region could deteriorate significantly without notice.
+On June 23, 2025, Qatar temporarily closed its airspace due to recent security developments in the region. There were missiles strikes near Doha. You should shelter in place when air raid sirens are active.
 
-There are reports of military debris falling in various locations. This may result in disruptions to movement and transportation, including:
+There could be military debris falling in various locations. This may result in disruptions to movement and transportation, including:
 
 * border closures or restrictions
 * flight cancellations
 * airspace closures
+
+The security situation in the region could deteriorate significantly without notice.
 
 You should:
 
@@ -19,7 +21,12 @@ You should:
 * sign up with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service to receive important information about the crisis
 * ensure that your travel documents and those of your family are up to date
 
-[Canada's response to the situation in the Middle East](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=eng)
+#### 
+
+#### Useful links
+
+* [Security alert](https://qa.usembassy.gov/security-alert-worldwide-caution-june-22-2025/) – Embassy of the United States in Qatar
+* [Canada's response to the situation in the Middle East](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=eng)
 
 ### Regional conflicts
 

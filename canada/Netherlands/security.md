@@ -2,6 +2,14 @@
 
 ## Safety and security
 
+### NATO Summit
+
+The NATO Summit will take place in The Hague June 24 to 25, 2025. Increased security measures will be in place in the period surrounding the summit in The Hague, particularly between Amsterdam Schiphol Airport and The Hague, Rotterdam and Amsterdam.
+
+* Expect disruptions and road closures
+* Allow plenty of time to reach your destination
+* Avoid large crowds
+
 ### Terrorism
 
 There is a threat of terrorism in Europe. Terrorists have carried out attacks in several European cities. Attacks in the Netherlands cannot be ruled out. Further attacks elsewhere in Europe are likely.
