@@ -2,7 +2,7 @@
 
 Latest update
 
-We continue to advise exercise normal safety precautions. Reconsider your need to travel to border areas with Yemen due to the threat of armed conflict and violence.   
+Due to the deteriorating security situation and hostilities in the region, we’ve raised our level of advice for Oman to 'Exercise a high degree of caution’. Reconsider your need to travel to border areas with Yemen due to the threat of armed conflict and violence.  
   
 Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions. The security situation in the Middle East is unpredictable and could deteriorate further with little warning. There is a risk of reprisal attacks and further escalation across the region, as well as the potential for terrorist attacks. Australians in Oman should read our general advice about terrorism risks and protecting your safety during an armed conflict (see ‘Safety’).  
   
@@ -12,9 +12,9 @@ You'll need a valid visa to travel to Oman. The type of visa depends on your cou
 
 Advice Level summary
 
-We advise:
+We now advise:
 
-Exercise normal safety precautions in Oman.
+Exercise a high degree of caution in Oman.
 
 Higher levels apply in some areas.
 
@@ -22,9 +22,9 @@ Higher levels apply in some areas.
 
 [What does this mean?](/before-you-go/travel-advice-explained/)
 
-[Exercise normal safety precautions](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level1) in Oman overall.
+[Exercise a high degree of caution](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level2) in Oman overall.
 
-[Exercise normal safety precautions](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level1)
+[Exercise a high degree of caution](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level2) in Oman due to the hostilities in the region.
 
 [Reconsider your need to travel](https://smartraveller.gov.au/consular-services/travel-advice-explained#level3) to border areas with Yemen.
 
@@ -36,6 +36,7 @@ See [Safety](#safety).
 
 ### Safety
 
+* Due to the deteriorating security situation and hostilities in the region, we’ve raised our level of advice for Oman to 'Exercise a high degree of caution’. Reconsider your need to travel to border areas with Yemen due to the threat of armed conflict and violence.
 * Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions. The security situation in the Middle East is unpredictable and could deteriorate further with little warning. There is a risk of reprisal attacks and further escalation across the region, as well as the potential for terrorist attacks.
 * Australians should read our general advice about [terrorism risks](/before-you-go/safety/terrorism "Terrorism") and  protecting your safety during an [armed conflict](/before-you-go/staying-safe/armed-conflict "Armed conflict").
 * Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests. Monitor local media for updates and follow the advice of authorities.
@@ -65,7 +66,7 @@ Full travel advice: [Health](#health)
 * Oman has strict dress codes. It's illegal to wear military or similar clothing and accessories.
 * Oman has strict laws on public speech, including on social media. It also has a strict code of behaviour. Don't disrespect Islam or any other religion. Take care during Ramadan and Shia festivals. Avoid eating, drinking or smoking in public during Ramadan.
 * Fundraising and charity activities are strictly regulated in Oman. It is illegal to raise funds or organise a crowdfunding campaign without Omani government approval.
-* It is illegal to fly drones or any other remote-controlled fling device without a valid licence or in a restricted space.
+* It is illegal to fly drones or any other remote-controlled flying device without a valid licence or in a restricted space.
 
 Full travel advice: [Local laws](#local-laws)
 

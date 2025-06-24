@@ -422,7 +422,7 @@
     {
         "destination": "Iran",
         "risk_level": "Do not travel",
-        "last_updated": "2025-06-23T12:00:00Z",
+        "last_updated": "2025-06-24T12:00:00Z",
         "url": "https://www.smartraveller.gov.au/destinations/middle-east/iran"
     },
     {
@@ -721,8 +721,8 @@
     },
     {
         "destination": "Oman",
-        "risk_level": "Exercise normal safety precautions",
-        "last_updated": "2025-06-23T12:00:00Z",
+        "risk_level": "Exercise a high degree of caution",
+        "last_updated": "2025-06-24T12:00:00Z",
         "url": "https://www.smartraveller.gov.au/destinations/middle-east/oman"
     },
     {
@@ -1022,7 +1022,7 @@
     {
         "destination": "United States of America",
         "risk_level": "Exercise normal safety precautions",
-        "last_updated": "2025-06-23T12:00:00Z",
+        "last_updated": "2025-06-24T12:00:00Z",
         "url": "https://www.smartraveller.gov.au/destinations/americas/united-states-america"
     },
     {

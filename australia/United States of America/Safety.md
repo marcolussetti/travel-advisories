@@ -82,6 +82,8 @@ Attacks can be indiscriminate, including at public events, on public transport, 
 
 On 5 June 2025, the FBI and Department of Homeland Security issued an [alert](https://x.com/FBI/status/1931003576295313886) highlighting potential public safety concerns related to ongoing threats to the Jewish and Israeli communities. 
 
+On 22 June 2025, the Department of Homeland Security issued a National Terrorism Advisory System[bulletin](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.dhs.gov%2Fsites%2Fdefault%2Ffiles%2Fntas%2Falerts%2F25_0622_S1_NTAS-Bulletin.pdf&data=05%7C02%7Ctravel.advice%40dfat.gov.au%7C37e163099cff4d4f8c0908ddb2b7a1b0%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638863223953300217%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=dbQ5t0269kyCaojn%2B0Xzhyfe738GGhu%2FbnIkVtVPZx0%3D&reserved=0), warning that the ongoing Iran conflict is causing a heightened threat environment in the United States.
+
 Subscribe to [National Terrorism Advisory System](https://www.dhs.gov/national-terrorism-advisory-system) for updates and advice.
 
 To reduce your risk of being involved in a terrorist incident:
