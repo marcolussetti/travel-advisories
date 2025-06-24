@@ -16,9 +16,9 @@ If you are a South African citizen aged 18 or over, you must use a South African
 
 You can visit South Africa without a visa for up to 90 days for business or tourism.
 
-For more information on visas, contact the [South African High Commission](https://dirco.gov.za/uk/).
-
 Check the expiry date of your visa or entry stamp and ensure you do not overstay.
+
+For more information on visas, contact the [South African High Commission](https://dirco.gov.za/uk/).
 
 The Department of Home Affairs also has information on [South Africa visas and immigration regulations](https://www.dha.gov.za/index.php/applying-for-sa-visa).
 

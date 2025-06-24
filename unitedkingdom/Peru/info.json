@@ -1,11 +1,11 @@
 {
     "name": "Peru",
-    "update_reason": "Updated information on the State of Emergency in the regions of Lima and Callao (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Updated information on State of Emergency (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Peru/Warnings and insurance.md",
-            "update_date": "2025-05-22T10:49:18+01:00"
+            "update_date": "2025-06-23T11:40:14+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Peru/Getting help.md"
         }
     ],
-    "update_date": "2025-05-22T10:49:18+01:00"
+    "update_date": "2025-06-23T11:40:14+01:00"
 }

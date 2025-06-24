@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   23 May 2025
+:   24 June 2025
 
 Updated:
-:   22 May 2025
+:   23 June 2025
 
 Latest update:
-:   Updated information on the State of Emergency in the regions of Lima and Callao (‘Warnings and insurance’ page).
+:   Updated information on State of Emergency (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/6645e81e993111924d9d365a/FCDO__TA__093_-_Peru_Travel_Advice_Ed3__WEB_.jpg)
 
@@ -35,7 +35,17 @@ Find out more about [why FCDO advises against travel](https://www.gov.uk/fore
 
 ## State of Emergency
 
-The Peruvian government has declared a State of Emergency until 17 June in the regions of Lima and Callao following security issues. In Lima the measure applies to the following districts: Ate, Carabayllo, Comas, Puente Piedra, San Martín de Porres, San Juan de Lurigancho, Villa María del Triunfo and Villa El Salvador. This will see the police and army working together, and permit the restriction of some constitutional rights, for example, the police will be able to detain people without a judicial order if they deem it necessary.
+The Peruvian government has extended the State of Emergency until 16 July in the following regions:
+
+* Ambo district in Huánuco region
+* Pastaza district in Datem del Marañón province, Loreto region
+* Putumayo, Rosa Panduro, Teniente Clevero and Yagua in Putumayo province, Loreto region
+* Illimo district in Lambayeque region
+* Pangoa and Río Tambo districts in Satipo province, Junín region
+* Ate, Carabayllo, Comas, Puente Piedra, San Juan de Lurigancho, San Martín de Porres, Villa El Salvador, and Villa María del Triunfo districts in Lima
+* Callao region
+
+This will see the police and army working together, and permit the restriction of some constitutional rights, for example, the police will be able to detain people without a judicial order if they deem it necessary.
 
 ## Before you travel
 

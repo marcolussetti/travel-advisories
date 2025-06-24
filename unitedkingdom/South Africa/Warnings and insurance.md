@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   15 April 2025
+:   24 June 2025
 
 Updated:
-:   14 April 2025
+:   23 June 2025
 
 Latest update:
-:   Updated information about what health risks you’ll face in South Africa, including Mpox ('Health' page).
+:   Updated information on visa requirements (‘Entry Requirements’ page); nightlife and dating, airport crime, vehicle crime, illegal drugs and cannabis laws and driving rules and standards ('Safety and security' page).
 
 ## Before you travel
 

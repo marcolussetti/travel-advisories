@@ -51,9 +51,8 @@ There have been recent attacks and violent crime on secondary roads to and from 
 
 You should:
 
-* stay on the M3 and N2
-* avoid the R300
-* stay on ‘airport approach road’ (exit 16 on the N2) and avoid Borcherd’s Quarry Road leading to Nyanga
+* stay on the M3 and N2 (rather than the R300)
+* stay on ‘airport approach road’ (exit 16 on the N2) rather than taking the Borcherd’s Quarry Road leading to Nyanga
 * make a journey plan in advance and discuss it with a trusted local contact
 * avoid following GPS navigation routes that take you away from main roads
 
@@ -108,9 +107,11 @@ Criminals may pose as officials for financial or personal gain. If in doubt, ask
 * police on 10111
 * emergency services on 112 (mobile only)
 
-### Dating app safety
+### Nightlife and dating
 
-Criminals use dating apps to rob, rape or sexually assault victims. Be cautious using dating apps. Meet in well-lit, public places and tell friends or family your plans.
+Criminals use dating apps to rob, rape or sexually assault victims. Be cautious using dating apps and meet in well-lit, public places. Always tell friends or family your plans.
+
+There have been instances of drink spiking involving robbery and sexual assault with both male and female victims. Do not leave drinks unattended or accept drinks from strangers. If you think your drink has been spiked, seek immediate medical help and contact the police.
 
 ### ATMs and money exchanges
 
@@ -147,6 +148,7 @@ You should:
 * go to your connecting flight quickly if in transit
 * consider vacuum-wrapping luggage
 * keep valuables in your carry-on luggage
+* avoid dropping off your rental car at night
 
 ### Vehicle crime
 
@@ -166,6 +168,7 @@ To reduce your risk while driving:
 
 * check your route for any hazards or disruptions before you set off
 * use a GPS, but do not follow routes into less secure areas – generally smaller roads
+* check whether car rental companies have any safety tips
 * stay on main roads and park in well-lit areas
 * avoid stopping for long periods
 * lock your car when you leave it, and manually check the doors have locked
@@ -236,9 +239,13 @@ Across parts of South Africa, there have been water shortages. Follow the advice
 
 Always carry a copy of your passport photo page and the page with your visitors permit or residence permit for South Africa. South African officials may ask for ID and proof of residence at any time. Keep your passport in a hotel safe or another secure location. Do not carry it with you unless you need it for official identification.
 
-### Cannabis laws
+### Illegal drugs and cannabis laws
 
-It is illegal to buy or sell cannabis or to use it in public. Using cannabis in private is legal. Public and private use of cannabidiol oils (CBD oils) is also legal. The use, sale and purchase of all other drugs is illegal.
+Illegal drugs, including cannabis, carry severe penalties. Using cannabis in private is legal. Public and private use of cannabidiol oils (CBD oils) is also legal.
+
+You should expect a long jail sentence and heavy fines for possessing, using or smuggling illegal drugs, including when transiting through the airport.
+
+Airports in South Africa have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
 
 ### LGBT+ travellers
 
@@ -327,7 +334,7 @@ Driving standards vary in South Africa. Fatal road accidents are common, particu
 Drive cautiously and:
 
 * obey speed limits
-* avoid unfamiliar areas at night
+* avoid unfamiliar areas and be extra vigilant at night
 * keep fuel levels above half a tank to avoid running out
 
 On highways, drivers overtake or undertake in any lane including the hard shoulder.
