@@ -1,10 +1,10 @@
 ## Local laws and customs
 
-### **Illegal drugs**
+### **Illegal Drugs**
 
 Illegal drug use (no matter what the drug) carries stiff penalties.
 
-### **Buying property in Monaco**
+### **Buying Property in Monaco**
 
 If you’re planning to buy property we strongly advise you to consult an independent legal advisor from the beginning of the process.
 

@@ -2,7 +2,7 @@
 
 ### **Entry requirements (visa/passport)**
 
-If you are unsure about the entry requirements for Turkmenistan, including visa and other immigration information, ask your travel agent or contact the [**Embassy of Turkmenistan in London**](https://uk.tmembassy.gov.tm/en).
+Irish citizens require permission to enter Turkmenistan. If you are unsure about the entry requirements for Turkmenistan, including visa and other immigration information, ask your travel agent or contact the [**Embassy of Turkmenistan in London**](https://uk.tmembassy.gov.tm/en).
 
 You can also check with them how long your passport must be valid for.
 
@@ -32,7 +32,7 @@ There is no roaming service within Turkmenistan which means that foreign mobile 
 
 ### **Money**
 
-You should bring enough money for the duration of your stay and only change money through official exchange booths.
+You should bring enough money for the duration of your stay and only change money through official exchange booths. US Dollars in particular are recommended.
 
 ### **More travel advice**
 

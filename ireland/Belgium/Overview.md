@@ -8,7 +8,9 @@ High Degree of Caution
 
 Industrial action is an ongoing issue in Belgium, which may affect national and international travel. Strikes can occur at short notice.
 
-A national strike on Wednesday 25 June will disrupt operations at Brussels Airport (Zavantem). All departures have been cancelled and arriving flights are likely to be impacted.
+A national strike on Wednesday 25 June will disrupt operations at Brussels Airport (Zavantem) and Brussels South Charleroi Airport. All departures from Zavantem have been cancelled and arriving flights are likely to be impacted. All arrivals and departures from Charleroi Airport have been cancelled.
+
+A strike notice has not been served on [Belgian Rail](https://www.belgiantrain.be/en/travel-info/train-network-travel-info/strike) but disruption to trains travelling to and from Brussels is foreseen.
 
 For updates, monitor local news and check with your travel operator.
 

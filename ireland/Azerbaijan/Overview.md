@@ -21,6 +21,10 @@ Irish citizens require a visa to enter Azerbaijan. Citizens can apply online usi
 
 A valid passport is required for travel to Azerbaijan. Passport cards **cannot** be used. Irish passports should have a minimum validity of 3 months from the expiry date of your Azerbaijani visa. This means your passport must be valid for at least 6 months after the date you arrive in Azerbaijan.
 
+### **Entry restrictions**
+
+Anyone who has visited Nagorno-Karabakh in the past without the permission of the Azerbaijani authorities will be refused entry to Azerbaijan. Visitors should not attempt to enter Azerbaijan via the land borders with Russia (i.e. Dagestan) and Georgia as these as these are closed to foreign nationals. To enter from Iran, permission for Irish citizens to enter Azerbaijan by land border from Iran may be facilitated subject to the permission of the authorities and must be coordinated in advance by the Embassy of Ireland in Ankara, Türkiye. Please contact the Embassy of Ireland in Ankara, Türkiye or the Department of Foreign Affairs and Trade in Dublin if you are intending to make this journey.
+
 For further information on entry requirements, please read the ‘Additional Information’ section of this page.
 
 ### **Emergency Assistance**

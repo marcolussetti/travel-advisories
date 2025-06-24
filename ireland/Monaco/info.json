@@ -3,8 +3,8 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Monaco/Overview.md"
+            "title": "Travel to Monaco overview",
+            "file": "ireland/Monaco/Travel to Monaco overview.md"
         },
         {
             "title": "Safety and security",
@@ -15,13 +15,13 @@
             "file": "ireland/Monaco/Local laws and customs.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Monaco/Additional information.md"
+            "title": "Entry requirements",
+            "file": "ireland/Monaco/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Monaco/Embassy contact.md"
         }
     ],
-    "update_date": "2023-11-21T00:00:00"
+    "update_date": "2025-06-23T00:00:00"
 }

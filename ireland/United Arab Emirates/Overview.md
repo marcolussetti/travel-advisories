@@ -6,6 +6,8 @@ High Degree of Caution
 
 ### **Travel Alert**
 
+**Airport disruptions are anticipated. Please contact your airline for relevant updates prior to travel.**
+
 The Embassy of Ireland, Abu Dhabi is closely monitoring the current regional situation and advises that Irish citizens exercise heightened caution. Please follow the instructions of local authorities. For further updates, please monitor the Embassy’s social media channels on [X](https://x.com/IrelandEmbUAE), [Instagram](https://www.instagram.com/irelandembuae?igsh=bnRnYjQ0Mmt4OG50), and [Facebook](https://www.facebook.com/share/1Aek6yo4tR/?mibextid=wwXIfr)
 
 ### **General Travel Advice**

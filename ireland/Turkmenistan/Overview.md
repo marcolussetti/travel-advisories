@@ -4,17 +4,15 @@
 
 High degree of caution.
 
-### **COVID-19 Entry Requirements**
-
-Travellers to Turkmenistan must take a COVID-19 (PCR) test on arrival. Travellers who receive a positive test result may be required to quarantine in a state-run facility or at their place of residence under medical supervision. Passengers should confirm the latest information with their Turkmen sponsor, or with the Turkmen Embassy where their visa was issued as the requirements may be subject to change with little notice.
-
 ### **General Travel Advice**
 
 If you have a need to travel to Turkmenistan, even when transiting, you are strongly advised to contact the [**Turkmen Embassy London**](https://uk.tmembassy.gov.tm/en) for more information on the requirements for entry.
 
-**Department of Foreign Affairs advises against all travel to the Turkmenistan/Afghanistan border area.**
+**If you are seeing to enter Turkmenistan from Iran, by land border, you must contact the Embassy of Ireland in Ankara, Türkiye or the Department of Foreign Affairs and Trade in Dublin, to facilitate this transit, which is subject to the approval of the Turkmen authorities.**  **You should contact us as early as possible before intended travel.**
 
-**Certain parts of Turkmenistan have been designated as ‘restricted’ and special permits are required from the Ministry of Foreign Affairs in order to travel there. Check the situation with your local guide before travelling outside the** **capital.**
+The Department of Foreign Affairs and Trade advises against all travel to the Turkmenistan/Afghanistan border area.
+
+Certain parts of Turkmenistan have been designated as ‘restricted’ and special permits are required from the Ministry of Foreign Affairs in order to travel there. Check the situation with your local guide before travelling outside the capital.
 
 Irish citizens require a visa and letter of invitation to enter Turkmenistan.  Further information about visas and letters of invitation can be obtained from the [**Turkmen Embassy in London**](https://uk.tmembassy.gov.tm/en).
 
@@ -23,6 +21,10 @@ A valid passport is required for travel to Turkmenistan. Irish passports should 
 Visitors to Turkmenistan are advised to follow the guidance of national and local authorities and stay fully informed of what's going on by monitoring local news and social media.
 
 Citizens are strongly encouraged to [**register**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/) their travel with the Embassy of Ireland in Ankara, Türkiye.
+
+### **COVID-19 Entry Requirements**
+
+While Turkmenistan doesn’t require COVID-19 vaccination, all travellers may have to undergo a COVID-19 test upon arrival, which costs about 31 US dollars. Passengers should confirm the latest information with their Turkmen sponsor, or with the Turkmen Embassy where their visa was issued as the requirements may be subject to change with little notice.
 
 ### **Emergency Assistance**
 

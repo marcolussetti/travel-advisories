@@ -1,8 +1,6 @@
 ## Embassy contact
 
-We do not have an Embassy in Mayotte, please contact our office in Dublin.
-
-24 hours a day, 7 days a week
+As there is no Irish Embassy or Consulate in Mayotte, we are limited in the help we can offer you in an emergency. However, if you need assistance, you can contact the Consular Assistance Unit at the Department of Foreign Affairs and Trade, in Dublin.
 
 ### Department of Foreign Affairs
 

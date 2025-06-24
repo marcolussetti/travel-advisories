@@ -16,6 +16,20 @@ Visitors are advised to follow the guidance of national and local authorities; s
 
 Follow the Embassy on social media (X [**@IrlEmbAnkara**](https://twitter.com/IrlEmbAnkara) and [**Facebook**](https://www.facebook.com/IrishEmbassyTurkiye)) to ensure access to relevant updates and alerts.
 
+### **Entry, passport and visa requirements**
+
+Irish citizens require a passport with minimum 150 days’ validity to enter Türkiye. Passport cards are **not** accepted in Türkiye.
+
+Irish citizens do not require a visa to enter Türkiye for stays of up to 90 days within any 180-day period, for purposes such as tourism and business travel. Individuals planning official travel using another category of passport should contact the Embassy of Ireland in Ankara for further information. The nearest Turkish Embassy can also clarify any visa requirements.
+
+Dual citizens, including children, should ensure that they also carry a valid Irish passport to ensure no issues are encountered when travelling back to Ireland.
+
+The Embassy is not able to intervene in the decisions taken by Turkish immigration authorities. If a citizen is refused entry to Türkiye, they will be held in the airport pending deportation on the next available flight back to their original destination on the airline company they travelled with.
+
+For more information on visas, passports and residence permit requirements, please see the Additional Information tab.
+
+**Citizens seeking to enter Türkiye overland from Iran should contact the Embassy of Ireland, Ankara, or the Department of Foreign Affairs and Trade in Ireland, as soon as possible before they travel.** The Turkish authorities require requests for foreign nationals to cross the land border from Iran to Türkiye to be communicated, in advance, by the Embassy of Ireland in Ankara. Citizens must also have a valid Irish passport with minimum 150 days’ validity to enter Türkiye. Any citizens planning travel to Türkiye are also advised to make plans for onward travel as early as possible as flights and other transport may have limited availability.
+
 ### **Demonstrations and protests**
 
 Large demonstrations have taken place in Istanbul and other Turkish cities since March 19 2025. A ban on demonstrations is currently in place and a number of restrictions on transport and movement within the city have been in effect.
@@ -29,18 +43,6 @@ Many parts of Türkiye are a high-risk zone for earthquakes and tremors. Visitor
 On 6 February 2023, two significant earthquakes hit Southeast Anatolia, strongly affecting the provinces of Kahramanmaraş, Kilis, Diyarbakır, Adana, Osmaniye, Gaziantep, Şanlırurfa, Adıyaman, Malatya and Hatay. Significant structural damage across the region led to casualties. Citizens in these areas may experience continued disruption to local transport, accommodation options and other services and should heed the instructions of the Turkish authorities.
 
 See the Natural Disasters and Climate tab for more information.
-
-### **Entry, passport and visa requirements**
-
-Irish citizens require a passport with minimum 150 days’ validity to enter Türkiye. Passport cards are **not** accepted in Türkiye.
-
-Irish citizens do not require a visa to enter Türkiye for stays of up to 90 days within any 180-day period, for purposes such as tourism and business travel. Individuals planning official travel using another category of passport should contact the Embassy of Ireland in Ankara for further information. The nearest Turkish Embassy can also clarify any visa requirements.
-
-Dual citizens, including children, should ensure that they also carry a valid Irish passport to ensure no issues are encountered when travelling back to Ireland.
-
-The Embassy is not able to intervene in the decisions taken by Turkish immigration authorities. If a citizen is refused entry to Türkiye, they will be held in the airport pending deportation on the next available flight back to their original destination on the airline company they travelled with.
-
-For more information on visas, passports and residence permit requirements, please see the Additional Information tab.
 
 ### **Medical, Dental, and Cosmetic Procedures**
 

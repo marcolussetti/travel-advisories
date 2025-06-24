@@ -6,7 +6,11 @@ High Degree of Caution
 
 ### **Travel Alert**
 
-The Embassy of Ireland, Abu Dhabi is closely monitoring the current regional situation and advises that Irish citizens exercise heightened caution. Please follow the instructions of local authorities. For further updates, please monitor the Embassy’s social media channels on [**X**](https://x.com/IrelandEmbUAE), [**Instagram**](https://www.instagram.com/irelandembuae?igsh=bnRnYjQ0Mmt4OG50), and [**Facebook**](https://www.facebook.com/share/1Aek6yo4tR/?mibextid=wwXIfr).
+We continue to monitor ongoing regional tensions. Please exercise caution, monitor local and international media, follow the advice of local authorities, and observe any additional security measures imposed during this time.
+
+Continuing airport disruptions are anticipated. Please contact your airline for relevant updates prior to travel.
+
+For the latest updates please follow the X (formerly Twitter) accounts of the Irish Embassy in Abu Dhabi here. For urgent consular assistance please contact us at +971 495 8200 or [Embassy.ABUDHABI@dfa.ie](mailto:Embassy.ABUDHABI@dfa.ie).
 
 ### **General Travel Advice**
 

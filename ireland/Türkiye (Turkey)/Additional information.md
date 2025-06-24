@@ -8,6 +8,8 @@ Visitors should check their passports in plenty of time before travel. The Embas
 
 Irish citizens do not require a visa to enter Türkiye for stays of up to 90 days within any 180-day period, for purposes such as tourism and business travel. Individuals planning official travel using another category of passport should contact the Embassy of Ireland in Ankara for further information. The nearest Turkish Embassy can also clarify any visa requirements. Contact details for the Turkish Embassy in Dublin are available [**here**](http://dublin.emb.mfa.gov.tr/Mission).
 
+**Citizens seeking to enter Türkiye overland from Iran should contact the Embassy of Ireland, Ankara, or the Department of Foreign Affairs and Trade in Ireland, as soon as possible before they travel.** The Turkish authorities require requests for foreign nationals to cross the land border from Iran to Türkiye to be communicated, in advance, by the Embassy of Ireland in Ankara. Citizens must also have a valid Irish passport with minimum 150 days’ validity to enter Türkiye. Any citizens planning travel to Türkiye are also advised to make plans for onward travel as early as possible as flights and other transport may have limited availability.
+
 If a citizen is refused entry to Türkiye, they will be held in the airport pending deportation on the next available flight back to their original destination on the airline company they travelled with. The Embassy is not able to intervene in the decisions taken by Turkish immigration authorities.
 
 Dual citizens, including children, should ensure that they also carry a valid Irish passport to ensure no issues are encountered when travelling back to Ireland.
