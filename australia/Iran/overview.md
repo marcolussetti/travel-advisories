@@ -2,19 +2,17 @@
 
 Latest update
 
-The US has conducted strikes on Iranian nuclear sites at Fordow, Natanz and Esfahan. Australians in Iran should see our advice on safety during an armed conflict (see ‘Safety’). Local security situations could deteriorate with little notice.  
+The security situation in Iran and the region is unpredictable. A ceasefire is currently in place. Regional tensions remain high and there continues to be a risk of further military conflict.   
   
-We urge Australians who want to leave Iran to do so now, if it is safe. Australians in Iran who are unable to leave, or do not wish to leave, are advised to shelter in place. Be alert and aware of your surroundings. Continue to monitor advice on Smartraveller.   
+We continue to urge Australians who want to leave Iran to do so now, if it is safe. Australians in Iran who are unable to leave, or do not wish to leave, should see our advice on safety during an armed conflict (see ‘Safety’).   
   
-The Australian Government has directed the departure of Australian officials from the Australian Embassy in Tehran due to the volatile security situation. Our Embassy and operations in Tehran are now closed.  
+The Australian Government has directed the departure of Australian officials from the Australian Embassy in Tehran due to the volatile security situation. Our Embassy and operations in Tehran are now closed. Our ability to provide consular assistance in Iran is extremely limited. Australians in need of consular assistance should call the Australian Government 24-hour Consular Emergency Centre on 1300 555 135 in Australia or +61 2 6261 3305 outside Australia.   
   
-The security situation is unpredictable and could deteriorate further with little warning. Our ability to provide consular assistance in Iran is extremely limited. Australians in need of consular assistance should call the Australian Government 24-hour Consular Emergency Centre on 1300 555 135 in Australia or +61 2 6261 3305 outside Australia. The Australian Government may not be able to assist with your departure.  
-  
-If you're an Australian citizen or permanent resident in Iran, you can register on the Department of Foreign Affairs and Trade's crisis registration portal. See the 'Safety' section for details on how to register. We will communicate directly with registered Australians with important updates.  
+If you're an Australian citizen or permanent resident in Iran, you can register on the Department of Foreign Affairs and Trade's crisis registration portal. See the 'Safety' section for details on how to register. We will communicate directly with registered Australians with updates.  
   
 If you intend to travel by land into a neighbouring country, check the latest public information from local authorities in Iran and your destination on visa and border arrangements. Borders may close without notice. You should consider the risks carefully before attempting to leave by any route and you should make your own assessment whether it's safe for you to travel in current circumstances. This includes considering the security situation and the potential risks involved. If you are not confident in the safety and reliability of any departure option, shelter in place and follow the advice of local authorities. Transport routes may be disrupted. Roads may be crowded and exposed to security risks such a military action, rocket attacks and terrorism, as may border crossings.   
   
-Iran’s borders with neighbouring countries may have restrictions for foreign nationals and may close at short notice. Check our travel advice for your destination including visa requirements. See detailed information on border crossings in the ‘Overview’ section below.  
+Iran’s borders with neighbouring countries may have restrictions for foreign nationals and may close at short notice. For border crossings into Azerbaijan, you must register your details with Azerbaijan authorities to get a border crossing code. It can take up to 4 business days or longer for a border crossing code to be issued by authorities. Check our travel advice for your destination, including visa requirements. See detailed information on border crossings in the ‘Overview’ section below.  
   
 Avoid all demonstrations and protests. Terrorist attacks could happen anywhere in Iran, including Tehran or other locations frequented by foreigners and tourists. Foreigners, including Australians, are at a high risk of arbitrary detention or arrest. Kidnapping for ransom is a risk in Iran.
 
@@ -36,15 +34,19 @@ Do not travel to Iran due to the volatile regional security situation and the ri
 
 ### Border crossings
 
-Requirements for border crossings may change without notice. Check the latest public information from local authorities on entry requirements and border arrangements. 
+Requirements for border crossings may change without notice. Check the latest public information from local authorities on entry requirements and border arrangements.
 
 ##### [Azerbaijan](/destinations/europe/azerbaijan "Azerbaijan")
 
 For Australians travelling from Iran, Azerbaijan authorities have reopened the crossing on its southern border at Astara for 'exceptional' crossing by third-country nationals. We have consular staff in Azerbaijan, including at the Astara border crossing, to support Australians leaving Iran. You will need both a visa and a border crossing code to enter Azerbaijan.  
   
-We must register your details with Azerbaijan authorities to get the border crossing code (for Australian passport holders). Waiting times can vary significantly. It can take up to 48 hours or longer for a border crossing code to be issued by Azerbaijan authorities. Contact the Australian Embassy in Türkiye ([consular.ankara@dfat.gov.au](mailto:consular.ankara@dfat.gov.au)). See 'Travel' in our Azerbaijan travel advice for details. This is different to the visa.   
-  
-Internet and telephone connectivity in Iran, including at the Azerbaijan border, can be very poor. Requirements for border crossings may change without notice. We encourage you to pre-arrange onward transport and accommodation from the border to Baku. Baku has more services available and is closer to the international airport.
+We must register your details with Azerbaijan authorities to get the border crossing code (for Australian passport holders, permanent residents and immediate family members). This is different to a visa. Contact the Australian Embassy in Türkiye ([consular.ankara@dfat.gov.au](mailto:consular.ankara@dfat.gov.au)). It can take up to 4 business days or longer for a border crossing code to be issued by Azerbaijan authorities.
+
+For Australian citizens, you will need to provide your full name, passport number, your e-visa for Azerbaijan, and contact details for all individuals seeking to transit. If possible, send a scan of your Australian passport biodata page.
+
+For Australian permanent residents, provide your full name, passport number, your e-visa for Azerbaijan, and contact details for all individuals seeking to transit. If possible, send a scan of your passport biodata page and proof of permanent residence in Australia.
+
+Internet and telephone connectivity in Iran, including at the Azerbaijan border, can be very poor. We encourage you to pre-arrange onward transport and accommodation from the border to Baku. Baku has more services available and is closer to the international airport.
 
 ##### [Türkiye](/destinations/europe/turkiye "Türkiye")
 
@@ -68,12 +70,13 @@ Full travel advice: [Travel](#travel)
 
 ### Safety
 
-* The US has conducted strikes on Iranian nuclear sites at Fordow, Natanz and Esfahan. Australians in Iran should see our general advice on protecting your safety during an [armed conflict](https://www.smartraveller.gov.au/before-you-go/staying-safe/armed-conflict). Local security situations could deteriorate with little notice.
-* The Australian Government has directed the departure of Australian officials from the Australian Embassy in Tehran due to the volatile security situation. Our Embassy and operations in Tehran are now closed.
-* The security situation is unpredictable and could deteriorate further with little warning. Our ability to provide consular assistance in Iran is extremely limited. We urge Australians who want to leave Iran to do so now, if it is safe. Australians in Iran who are unable to leave, or do not wish to leave, are advised to shelter in place. Be alert and aware of your surroundings. The Australian Government may not be able to assist with your departure.
+* The security situation in Iran and the region is unpredictable. A ceasefire is currently in place. Regional tensions remain high and there continues to be a risk of further military conflict.
+* The US conducted strikes on Iranian nuclear sites at Fordow, Natanz and Esfahan on 22 June. Australians in Iran should see our general advice on protecting your safety during an [armed conflict](https://www.smartraveller.gov.au/before-you-go/staying-safe/armed-conflict).
+* Our ability to provide consular assistance in Iran is extremely limited. We urge Australians who want to leave Iran to do so now, if it is safe. Australians in Iran who are unable to leave, or do not wish to leave, are advised to shelter in place. Be alert and aware of your surroundings. The Australian Government may not be able to assist with your departure.
 * If you're an Australian citizen or permanent resident in Iran, you can now register on the Department of Foreign Affairs and Trade's [crisis registration portal](https://crisis.dfat.gov.au). We will communicate directly with registered Australians with important updates.
 * If you intend to travel by land into a neighbouring country, check the latest public information from local authorities in Iran and your destination on visa and border arrangements. Borders may close without notice.
 * Terrorist attacks could happen anywhere in Iran, including Tehran or other locations frequented by foreigners and tourists. They could occur at any time with little or no warning. Avoid possible targets and areas with a low level of security. Possible targets for attacks include embassies, hotels, places of worship, tourist sites, government interests, military parades and locations, Western businesses and other interests. Take official warnings seriously.
+* The Australian Government directed the departure of Australian officials from the Australian Embassy in Tehran due to the volatile security situation. Our Embassy and operations in Tehran are now closed.
 * Regional tensions are high and could escalate rapidly. There is ongoing hostility between Iran and Israel and military tensions between Iran, the US and other countries in the Middle East. The Iran-Iraq, Iran-Afghanistan, and Iran-Pakistan border areas can be volatile and remain extremely dangerous.
 * Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice.
 * Demonstrations and protests are expected. Small, local protests continue in parts of Iran. Previously, security forces' response to protests has been severe, and many protesters and bystanders have been injured, killed or detained. There has been an increase in the number of foreign nationals arrested during previous protests. Avoid all demonstrations and protests.

@@ -28,7 +28,7 @@ Be extra careful at tourist areas, including:
 * the Ta Kwai temple (known as Ta Krabei in Cambodia)
 * the Ta Muen Thom temple (known as Ta Moan in Cambodia)
 
-Tourist attractions and border crossings in this area may close with little or no notice.
+Border crossing points along the Thailand-Cambodia border continue to be closed at short notice. Monitor local media for updates and follow the advice of local authorities.
 
 #### Thailand-Myanmar border
 

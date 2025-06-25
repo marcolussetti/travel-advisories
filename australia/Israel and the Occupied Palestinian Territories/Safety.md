@@ -4,13 +4,15 @@
 
 #### Overall security situation
 
-If you're an Australian citizen or permanent resident in Israel or the Occupied Palestinian Territories,  you can now register on DFAT's [crisis registration portal](https://crisis.dfat.gov.au). We will communicate directly with registered Australians with important updates.
+The security situation in Israel and in the region is unpredictable. A ceasefire is currently in place between Israel and Iran. Regional tensions remain high and there continues to be a risk of further military conflict.
+
+If you're an Australian citizen or permanent resident in Israel or the Occupied Palestinian Territories, you can now register on DFAT's [crisis registration portal](https://crisis.dfat.gov.au). We will communicate directly with registered Australians with important updates.
 
 We advise do not travel to Israel due to the volatile security situation, armed conflict, civil unrest and terrorism. We continue to advise do not travel to Gaza, border areas with Gaza, border areas with Lebanon, and the West Bank (excluding East Jerusalem) due to the volatile security situation.
 
-Following military strikes in Iran, there are military and rocket attacks against Israel. Israel has declared a national state of emergency. In an attack or other armed conflict, you should take shelter, follow the advice of local authorities and monitor local media and public safety information updates through the [National Emergency Portal](https://www.oref.org.il/en) (accessible in Israel only). See our general advice on protecting your safety during an armed conflict.
+Israel has declared a national state of emergency. In an attack or other armed conflict, you should take shelter, follow the advice of local authorities and monitor local media and public safety information updates through the [National Emergency Portal](https://www.oref.org.il/en) (accessible in Israel only). See our general advice on protecting your safety during an armed conflict.
 
-The security situation could continue to deteriorate rapidly. Flight cancellations and disruptions could continue with little or no notice, including due to airport and airspace closures. If you're in Israel, you should depart when it's safe to do so. Tel Aviv's Ben Gurion International Airport is currently closed due to heightened security concerns. Check with your airline or travel provider for the latest updates before travelling. GPS signals may be blocked in parts of Israel, affecting navigational apps and devices.
+The security situation could deteriorate rapidly. Flight cancellations and disruptions could continue with little or no notice, including due to airport and airspace closures. If you're in Israel, you should depart when it's safe to do so. Tel Aviv's Ben Gurion International Airport is due to return to full operation on 25 June. Commercial options are becoming increasingly available. If you have an existing ticket, contact your travel agent or airline. This may be the fastest way for you to reach your final destination. GPS signals may be blocked in parts of Israel, affecting navigational apps and devices.
 
 #### Gaza conflict
 

@@ -6,8 +6,6 @@ The US has conducted strikes on Iranian nuclear sites at Fordow, Natanz and Esfa
 
 The Australian Government has directed the departure of Australian officials from the Australian Embassy in Tehran due to the volatile security situation. Our Embassy and operations in Tehran are now closed.
 
-Our ability to provide consular assistance in Iran is extremely limited. Australians in need of consular assistance should call the Australian Government 24-hour Consular Emergency Centre on 1300 555 135 in Australia or +61 2 6261 3305 outside Australia. 
-
 We urge Australians who want to leave Iran to do so now, if it is safe. Australians in Iran who are unable to leave, or do not wish to leave, are advised to shelter in place. Be alert and aware of your surroundings. Continue to monitor advice on Smartraveller. The Australian Government may not be able to assist with your departure.
 
 If you're an Australian citizen or permanent resident in Iran, you can now register on the Department of Foreign Affairs and Trade's [crisis registration portal](https://crisis.dfat.gov.au/). We will communicate directly with registered Australians with important updates.

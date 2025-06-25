@@ -2,7 +2,9 @@
 
 Latest update
 
-We've reviewed our advice for Cambodia and continue to advise exercise normal safety precautions. There have been reports of fatal cases of avian influenza (H5N1) or bird flu in Cambodia. Avoid close contact with birds and animals that might be infected, especially dead or sick birds, and avoid places like poultry or dairy farms and markets that sell live animals (see 'Health').  
+Due to ongoing dispute along the Cambodia-Thailand border, the closure of all land border crossing points was announced on 24 June 2025. This situation can change at short notice, monitor local media for the latest updates and follow the advice of local authorities (see ‘Travel’).  
+  
+There have been reports of fatal cases of avian influenza (H5N1) or bird flu in Cambodia. Avoid close contact with birds and animals that might be infected, especially dead or sick birds, and avoid places like poultry or dairy farms and markets that sell live animals (see 'Health').  
   
 You'll need a valid visa to travel to Cambodia. If you stay longer than your visa allows, officials may stop you from leaving Cambodia. In cases of excessive overstays, you may be arrested and detained for violating immigration laws (see 'Travel'). Laws in Cambodia, including those related to incitement and defamation, can be broadly defined and applied (see 'Local Laws').
 
@@ -62,6 +64,7 @@ Full travel advice: [Local laws](#local-laws)
 
 ### Travel
 
+* Due to ongoing dispute along the Cambodia-Thailand border, the closure of all land border crossing points was announced on 24 June 2025. This situation can change at short notice, monitor local media for the latest updates and follow the advice of local authorities
 * If you're entering Cambodia via air, you must complete and submit an electronic [e-Arrival Card (CeA)](https://arrival.gov.kh/) within 7 days before your arrival.
 * You need a visa to enter Cambodia. You can [apply for an e-visa online](http://www.evisa.gov.kh/) or get a tourist visa on arrival. These are valid for 30 days. For longer stays or other situations, apply for a visa through an [embassy or consulate of Cambodia](https://protocol.dfat.gov.au/Public/Missions/36). Entry and exit conditions can change at short notice. You should contact the nearest embassy or consulate of Cambodia for the latest details.
 * If you overstay your visa, Cambodian immigration officials may stop you from leaving Cambodia. For excessive overstays, you could be arrested for violating immigration laws and detained until your overstay fines are paid.

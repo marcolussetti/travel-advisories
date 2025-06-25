@@ -2,9 +2,9 @@
 
 Latest update
 
-From 1 May 2025, you must complete a Thailand Digital Arrival Card (TDAC) within 3 days before arriving in Thailand. The TDAC must be submitted online through the Thailand Immigration Bureau website. Visit the Thailand Immigration Bureau website for further information, including a guide to completing the TDAC and how to submit the TDAC online (see 'Travel').  
+You must complete a Thailand Digital Arrival Card (TDAC) within 3 days before arriving in Thailand. The TDAC must be submitted online through the Thailand Immigration Bureau website. Visit the Thailand Immigration Bureau website for further information, including a guide to completing the TDAC and how to submit the TDAC online (see 'Travel').  
   
-Following the recent 7.7 magnitude earthquake in the region, there's ongoing assessments of the structural integrity of buildings across Thailand. Check with your accommodation provider and follow the advice of technical experts and local authorities. Avoid affected areas, follow the advice of the local authorities, including any evacuation orders. Monitor local media for updates (see 'Safety').  
+Border crossing points along the Thailand-Cambodia border continue to be closed at short notice. Monitor local media for updates and follow the advice of local authorities.  
   
 Be alert to risks around drink spiking. Don't leave food or drinks unattended. Stay with people you trust at bars, nightclubs and in taxis. See our advice on partying safely while overseas. There's an ongoing risk of terrorism in Thailand. Popular tourist areas may be the target of terrorist attacks. Road accidents are a significant cause of injury. Wear helmets on motorcycles and motorcycle taxis (see 'Safety').
 
@@ -40,14 +40,13 @@ See [Safety](#safety).
 
 ### Safety
 
-* Following the 7.7 magnitude earthquake in Myanmar on 28 March, tremors continue to be felt across Thailand. Assessments of the structural integrity of buildings across Thailand are ongoing. Check with your accommodation provider. Follow the advice of local authorities, including the [Tourism Authority of Thailand](https://www.facebook.com/tatnews.org) and the [Bangkok Metropolitan Administration](https://www.facebook.com/bangkokbma) (BMA).
+* Border crossing points along the Thailand-Cambodia border continue to be closed at short notice. Monitor local media for updates and follow the advice of local authorities. Border areas near Cambodia, Myanmar and Malaysia are dangerous due to violence, armed conflict and landmines. Pay close attention to your personal security.
+* Anti-government protests have previously occurred in Bangkok and other areas of Thailand. There may be further protests in the future. The security environment can be unpredictable and turn violent. Those attending protests can face arrest or other legal consequences. Monitor local media for information on protest locations and avoid public gatherings.
 * There's an ongoing risk of terrorist attacks in Thailand. Popular tourist areas may be the target of terrorist attacks. Coordinated attacks have occurred in the southern border provinces. The ongoing conflict in the Middle East could lead to an increased threat of attacks against Israeli interests in other regions. Be alert to possible threats. Take official warnings seriously and follow the advice of local authorities.
 * Road accidents are a significant cause of injury. Be alert at all times on the roads, including wearing helmets on motorcycles and motorcycle taxis.
 * Scams, credit card fraud and ATM fraud are common.
 * Sexual assault, assault, robbery and drink spiking can happen to tourists. Be alert to the potential risks around drink spiking and methanol poisoning through consuming alcoholic drinks. Don't leave food or drinks unattended. Stay with people you trust at parties, bars, nightclubs and in taxis. See our advice on [Partying safely while overseas](/before-you-go/safety/partying "Partying safely").
-* Anti-government protests have previously occurred in Bangkok and other areas of Thailand. The security environment can be unpredictable and turn violent. Those attending protests can face arrest or other legal consequences. Monitor local media for information on protest locations and avoid public gatherings.
 * Reconsider your need to travel to the 3 most southern provinces of the Thailand-Malaysia border: Yala, Pattani and Narathiwat. Low-level insurgent activity continues to occur in these areas.
-* Border areas near Cambodia, Myanmar and Malaysia are dangerous due to violence, armed conflict and landmines. Pay close attention to your personal security.
 * Floods and severe weather can disrupt essential services during the wet season (May to November). Follow the advice of local officials.
 
 Full travel advice: [Safety](#safety)

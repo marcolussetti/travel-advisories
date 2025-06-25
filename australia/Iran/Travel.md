@@ -6,11 +6,15 @@ Requirements for border crossings from Iran may change without notice. Check the
 
 [Azerbaijan](https://www.smartraveller.gov.au/destinations/europe/azerbaijan)
 
-For Australians travelling from Iran, Azerbaijan authorities have reopened the crossing on its southern border at Astara for 'exceptional' crossing by third-country nationals. We have consular staff in Azerbaijan, including at the Astara border crossing, to support Australians leaving Iran. You will need both a visa and a border crossing code to enter Azerbaijan.  
+For Australians travelling from Iran, Azerbaijan authorities have reopened the crossing on its southern border at Astara for 'exceptional' crossing by third-country nationals. We have consular staff in Azerbaijan, including at the Astara border crossing, to support Australians leaving Iran. You will need both a visa and a border crossing code to enter Azerbaijan.  
   
-We must register your details with Azerbaijan authorities to get the border crossing code (for Australian passport holders). Waiting times can vary significantly. It can take up to 48 hours or longer for a border crossing code to be issued by Azerbaijan authorities. Contact the Australian Embassy in Türkiye ([consular.ankara@dfat.gov.au](mailto:consular.ankara@dfat.gov.au)). See 'Travel' in our Azerbaijan travel advice for details. This is different to the visa.   
-  
-Internet and telephone connectivity in Iran, including at the Azerbaijan border, can be very poor. Requirements for border crossings may change without notice. We encourage you to pre-arrange onward transport and accommodation from the border to Baku. Baku has more services available and is closer to the international airport.
+We must register your details with Azerbaijan authorities to get the border crossing code (for Australian passport holders, permanent residents and immediate family members). This is different to a visa. Contact the Australian Embassy in Türkiye ([consular.ankara@dfat.gov.au](mailto:consular.ankara@dfat.gov.au)). It can take up to 4 business days or longer for a border crossing code to be issued by Azerbaijan authorities.
+
+For Australian citizens, you will need to provide your full name, passport number, your e-visa for Azerbaijan, and contact details for all individuals seeking to transit. If possible, send a scan of your Australian passport biodata page.
+
+For Australian permanent residents, provide your full name, passport number, your e-visa for Azerbaijan, and contact details for all individuals seeking to transit. If possible, send a scan of your passport biodata page and proof of permanent residence in Australia.
+
+Internet and telephone connectivity in Iran, including at the Azerbaijan border, can be very poor. We encourage you to pre-arrange onward transport and accommodation from the border to Baku. Baku has more services available and is closer to the international airport.
 
 [Türkiye](https://www.smartraveller.gov.au/destinations/europe/turkiye)
 
