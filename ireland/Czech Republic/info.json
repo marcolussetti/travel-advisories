@@ -3,29 +3,33 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Czech Republic/Overview.md"
+            "title": "Travel to Czech Republic overview",
+            "file": "ireland/Czech Republic/Travel to Czech Republic overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Czech Republic/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Czech Republic/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Czech Republic/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Czech Republic/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/Czech Republic/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/Czech Republic/Natural disasters and climate.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/Czech Republic/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Czech Republic/Embassy contact.md"
         }
     ],
-    "update_date": "2025-06-12T00:00:00"
+    "update_date": "2025-06-24T00:00:00"
 }

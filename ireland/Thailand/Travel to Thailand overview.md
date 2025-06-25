@@ -6,13 +6,15 @@ Normal Precautions
 
 ### **Travel Alert**
 
-From May 1 2025, all non-Thai nationals entering Thailand are required to complete the Thailand Digital Arrival Card at least 3 days in advance of their date of arrival. The application portal and further details can be found on the [**Thailand Digital Arrival Card**](https://tdac.immigration.go.th/arrival-card/#/home) website.
+From May 1 2025, all non-Thai nationals entering Thailand are required to complete the Thailand Digital Arrival Card within 3 days of their date of arrival. The application portal and further details can be found on the [**Thailand Digital Arrival Card**](https://tdac.immigration.go.th/arrival-card/#/home) website.
+
+There is an ongoing border dispute between Thailand and Cambodia, which has led to occasional clashes between Thai and Cambodian troops. The land border may be closed or unexpectedly have their hours of operation changed. Please follow the instructions and advice of the national and local authorities.
 
 ### **General Travel Advice**
 
 Irish citizens do not require a visa to enter Thailand for the purpose of tourism or short-term business engagements for a period not exceeding 60 days. A valid passport is required for travel to Thailand. Thai immigration authorities are known to adopt a strict approach to accepting damaged passports. Irish citizens are advised to renew their passport before travel to Thailand should it have any damage as Thai Immigration may refuse entry otherwise. Irish passports should have a minimum validity of 6 months. Passport cards cannot be used.
 
-From May 1 2025, all non-Thai nationals entering Thailand are required to complete the Thailand Digital Arrival Card at least 3 days in advance of their date of arrival. The application portal and further details can be found on the [**Thailand Digital Arrival Card**](https://tdac.immigration.go.th/arrival-card/#/home) website.
+From May 1 2025, all non-Thai nationals entering Thailand are required to complete the Thailand Digital Arrival Card within 3 days of their date of arrival. The application portal and further details can be found on the [**Thailand Digital Arrival Card**](https://tdac.immigration.go.th/arrival-card/#/home) website.
 
 Please consult the website of the Royal Thai Embassy in London for the most up-to-date information regarding entry requirements for Thailand.
 

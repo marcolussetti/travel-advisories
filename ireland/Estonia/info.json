@@ -3,29 +3,33 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Estonia/Overview.md"
+            "title": "Travel to Estonia overview",
+            "file": "ireland/Estonia/Travel to Estonia overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Estonia/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Estonia/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Estonia/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Estonia/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/Estonia/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/Estonia/Natural disasters and climate.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/Estonia/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Estonia/Embassy contact.md"
         }
     ],
-    "update_date": "2025-01-22T00:00:00"
+    "update_date": "2025-06-24T00:00:00"
 }

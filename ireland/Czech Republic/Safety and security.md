@@ -13,7 +13,7 @@ Crime remains relatively low in the Czech Republic but you should take sensible 
 * If approached by an individual claiming to be a police officer, decline to show your money but offer instead to go with him or her to the nearest police station or call 158 or 112 to check their identity.
 * Czech authorities have reported several incidents of deaths and hospitalisations resulting from the consumption of tainted spirits. You should take extra care when drinking or buying spirits in the Czech Republic as instances of methanol poisoning have been reported. We recommend that you only buy alcohol from legitimate vendors and ensure the seal around the cap or cork has not been broken.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If you’re the victim of a crime while in the Czech Republic, report it in-person at a local police station, and get a police report (‘policejní zpráva’) and police report crime number.
 
@@ -53,7 +53,7 @@ The Czech police fine individuals caught attempting to cross a road or tram trac
 
 Extra care should be taken at pedestrian crossings as motorists in the Czech Republic don’t always stop despite being obliged to do so by the law.
 
-### **Public transport**
+### **Public Transport**
 
 You must buy tickets for public transport before travelling and validate them at the start of your journey at the yellow machines, which are located at the top of the escalators/stairs in metro stations or on trams and buses. Sometimes tickets can be bought on the spot in trains/buses/trams. In some cities it is also possible to buy a ticket via SMS.
 
@@ -77,7 +77,7 @@ If you want to drive:
 * To drive on Czech motorways, vehicles must display a valid digital vignette (dálniční známka), which can be bought [**online**](https://digitale-vignette-online.cz/en) for 1 year, 30 days or 10 days.
 * Keep up to date by consulting the local motoring hotline, available in Czech and English on 1230 or +420 1230. [**Basic Traffic Rules in the Czech Republic**](/690/Basic-Traffic-Rules-in-the-Czech-Republic.pdf) can be found online. (Please note this is not a legal document and provides basic tips only).
 
-### **Vehicle hire**
+### **Vehicle Hire**
 
 If you’re hiring a vehicle, we advise you not to hand over your passport or passport card as a form of security. If you’re allowing your passport to be photocopied, keep it in your sight at all times. Ensure to read the small print of the vehicle hire contract and any waiver that will come into effect if the vehicle is damaged.
 

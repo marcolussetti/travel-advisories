@@ -1,22 +1,18 @@
 ## Safety and security
 
-### **Unrest**
+### **Demonstrations**
 
-The political situation in Georgia has stabilised since the 2008 conflict with Russia but it is still fragile. The fighting seen in 2008 has calmed down substantially and life in Tbilisi has returned to normal.
+Protests continue to occur frequently in Georgia and can potentially turn confrontational or escalate. We therefore advise to avoid areas where large demonstrations and rallies are gathered as situations can develop rapidly. We recommend that travellers remain aware of what is going on in their surroundings and keep checking local media reports.
 
 ### **South Ossetia and Abkhazia**
 
-The separatist regions of South Ossetia and Abkhazia remain in the control of Russian forces and we advise against attempts to travel there. We also advise against all but essential travel to the areas near the Administrative Boundary Lines (ABLs) of these regions as sporadic attacks and incidents can still take place. There are reports of unexploded ordinance these areas and they should be avoided until they have been confirmed clear.
+The political situation in Georgia has stabilised since the 2008 conflict with Russia but it is still fragile. The separatist regions of South Ossetia and Abkhazia remain in the control of Russian forces and we advise against attempts to travel there. We also advise against all but essential travel to the areas near the Administrative Boundary Lines (ABLs) of these regions as sporadic attacks and incidents can still take place. There are reports of unexploded ordinance these areas and they should be avoided until they have been confirmed clear.
 
 ### **Border crossings**
 
-Do not attempt to enter or leave Georgia via the land borders with the Russian Federation (ie Dagestan, Chechnya, Ingushetia, North Ossetia) under any circumstances. The border crossing between the Russian Federation and unoccupied Georgia at Verkhny Lars reopened in 2010 for citizens of the CIS and Georgia. However, traffic is extremely regulated and neither Russian nor Georgian visas are available at the crossing. The crossing is not open to tourists.
+Do not attempt to enter or leave Georgia via the land borders with the Russian Federation (ie Dagestan, Chechnya, Ingushetia, North Ossetia) under any circumstances. The border crossing between the Russian Federation and unoccupied Georgia at Verkhny Lars is not open to tourists.
 
 It is illegal to enter Georgia via Abkhazia or South Ossetia as there is no official border control. If travellers do so they may face criminal prosecution, which carries a prison sentence of up to four years. If the passport contains entry/exit stamps from the separatist Abkhazian or South Ossetian authorities, the Georgian authorities may consider this as illegal entry into Georgia via an unrecognised border crossing.
-
-### **Demonstrations**
-
-Protests are not uncommon in Georgia, particularly at times of heightened political tension. We therefore advise to avoid areas where large crowds are gathered as situations can develop rapidly. We recommend that travellers remain aware of what is going on in their surroundings and keep checking local media reports.
 
 ### **Crime**
 

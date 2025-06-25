@@ -8,7 +8,7 @@ High Degree of Caution
 
 ### **Demonstrations and Industrial Action**
 
-In recent months,demonstrations and industrial action have taken place on a rolling basis in Kenya. Irish citizens travelling to Kenya should always monitor local media and follow the advice of local authorities. Always avoid demonstrations, as they may turn violent.
+Demonstrations and industrial action are taking place on a rolling basis in Kenya. Irish citizens travelling to Kenya should always monitor local media and follow the advice of local authorities. Always avoid demonstrations, as they may turn violent.
 
 ### **COVID-19** **Entry Requirements**
 

@@ -1,5 +1,9 @@
 ## Health
 
+### **Travelling with medicines**
+
+Caution should be exercised when entering Georgia as foreign nationals have been detained on arrival for possession of medicines that would not normally be problematic in other countries. Visitors are advised to carry a doctor’s prescription if intending to travel with prescription medicine and to declare the medications on a Custom Declaration Form.
+
 ### **Vaccinations**
 
 Check with a doctor a minimum of eight weeks in advance of travelling to see if any vaccinations for Georgia are required.

@@ -1,6 +1,6 @@
 ## Health
 
-### **Mosquitoes and horseflies**
+### **Mosquitoes and Horseflies**
 
 Mosquitoes and horseflies are common in Estonia during the summer months, as are ticks and mites which can spread infection. Insect repellent is a sensible precaution if planning on visiting during the summer, particularly if you intend going to Estonia’s many forests and bogs.
 
@@ -12,7 +12,7 @@ Buying comprehensive travel insurance can save a lot of money if something goes 
 
 Not all policies are the same, and the cheapest one might be cheap for a reason. Make sure your policy covers all the activities you plan to do on your trip. [**Insurance Ireland recommend**](http://www.insuranceireland.eu/consumer-information/general-non-life-insurance/travel) that you purchase a policy that provides a minimum medical cover of €1 million.
 
-### **Emergency expenses**
+### **Emergency Expenses**
 
 Your policy should cover:
 

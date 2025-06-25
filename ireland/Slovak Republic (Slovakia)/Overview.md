@@ -4,12 +4,6 @@
 
 Normal Precautions
 
-### **Travel Alert**
-
-On 25 March 2025, the Slovak government introduced a range of emergency measures following an outbreak of foot and mouth disease. This had led to increased vehicle inspection measures, especially on freight vehicles, on the Czech, Austrian, Hungarian and Polish borders.
-
-People are also advised to avoid visiting farms and forests in affected areas and to follow strict hygiene measures to prevent the disease from spreading. Details of all measures in place can be found on the [Ministry of the Interior of the Slovak Republic website](https://www.minv.sk/?tlacove-spravy-2&sprava=slintacka-a-krivacka-aktualne-informacie-o-opatreniach-a-rezime-na-hraniciach)
-
 ### **General Travel Advice**
 
 Irish citizens need a valid passport or passport card to enter the Slovak Republic.

@@ -4,7 +4,7 @@
 
 Check with your doctor a minimum of eight weeks in advance of travelling to see if you need any vaccinations for the Czech Republic.
 
-### **Medical facilities**
+### **Medical Facilities**
 
 English-speaking doctors in the Czech Republic can be found at:
 
@@ -22,7 +22,7 @@ Buying comprehensive travel insurance can save you and your family a lot of mone
 
 Not all policies are the same, and the cheapest one might be cheap for a reason. Make sure your policy covers all the activities you plan to do on your trip. [**Insurance Ireland recommend**](http://www.insuranceireland.eu/consumer-information/general-non-life-insurance/travel) that you purchase a policy that provides a minimum medical cover of €1 million.
 
-### **Emergency expenses**
+### **Emergency Expenses**
 
 Your policy should cover:
 
