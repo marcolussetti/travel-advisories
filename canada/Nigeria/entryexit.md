@@ -49,6 +49,12 @@ Verify that the length of stay indicated on your entry stamp and on your visa ma
 
 [Nigeria Immigration Service](https://immigration.gov.ng/)
 
+### Landing and exit cards
+
+You are required to complete an online form before entering or exiting Nigeria.
+
+[Obtain landing or exit cards](https://lecard.immigration.gov.ng/) – Nigeria Immigration Service
+
 ### Passport requirements for dual citizens
 
 If you have dual citizenship, you must enter and leave Nigeria on your Nigerian passport.
@@ -59,7 +65,7 @@ To avoid delays, dual citizens should ensure that their Nigerian passport is val
 
 ### Border crossings
 
-Land border crossings with Benin, Niger, Chad and Cameroon may close on short
+Land border crossings with Benin, Niger, Chad and Cameroon may close on short notice.
 
 ### Children and travel
 

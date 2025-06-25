@@ -2,12 +2,6 @@
 
 ## Safety and security
 
-### Sporadic civil unrest
-
-Since the general election on October 9, 2024, there have been political tensions and violent incidents in several areas throughout the country. Although the frequency and severity of demonstrations and rallies have decreased since mid-January, sporadic protests and clashes may still occur. Temporary roadblocks and road closures may happen with little to no notice.
-
-[More information on demonstrations](#demonstrations)
-
 ### Cabo Delgado province
 
 Militants continue to be active in several northern districts of Cabo Delgado. Violent clashes between militants and security forces occur frequently. Staged attacks against populated areas have targeted both security forces and civilians. Militants have burned villages, raided police stations, and conducted roadside ambushes and attacks with machetes and firearms against residents. This has resulted in hundreds of casualties and more than one million displaced persons.
@@ -40,7 +34,7 @@ If you cross at this land border:
 
 ### Demonstrations
 
-Demonstrations and civil unrest can lead to violence and confrontations with security forces. Even peaceful demonstrations can turn violent at any time. Security forces may use tear gas and rubber bullets to disperse crowds. Demonstrations can also lead to significant disruptions to traffic and public transportation. Essential services and supplies may also be disrupted.
+Demonstrations and civil unrest can lead to violence and confrontations with security forces, especially during election periods. Even peaceful demonstrations can turn violent at any time. Security forces may use tear gas and rubber bullets to disperse crowds. Demonstrations can also lead to significant disruptions to traffic and public transportation. Essential services and supplies may also be disrupted.
 
 * Avoid areas where demonstrations and large gatherings are taking place
 * Follow the instructions of local authorities

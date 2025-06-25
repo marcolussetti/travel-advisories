@@ -10,19 +10,16 @@ Interceptions can produce falling military debris in Israel, Jerusalem and the W
 
 You should remain close to a bomb shelter or be prepared to shelter in a hardened structure away from windows in case air raid sirens activate.
 
-Starting June 23, 2025, Ben Gurion International Airport is scheduled to partially resume operations for Israeli air carriers to conduct limited [outbound repatriation flights](https://safe-return.org.il/en "https://safe-return.org.il/en"). Sign up for updates on future evacuation flights for tourists through this [form](https://govforms.gov.il/mw/forms/TouristEvacuationFromIsrael@tourism.gov.il?displang=en&gbxid=0 "https://govforms.gov.il/mw/forms/touristevacuationfromisrael@tourism.gov.il?displang=en&gbxid=0") created by the Israeli Ministry of Tourism.
+Ben Gurion International Airport is open to commercial flights. The Israeli government is coordinating evacuation flights for tourists. You can register through this [form](https://govforms.gov.il/mw/forms/TouristEvacuationFromIsrael@tourism.gov.il?displang=en&gbxid=0) created by the Israeli Ministry of Tourism.
 
 If you wish to leave Israel now and can do so safely, there are also commercial options, including maritime routes to Cyprus and border crossings with:
 
 * Jordan:
-
-+ Jordan River/Sheikh Hussein Bridge, in the north of Israel ([obtain a visa online in advance](https://moi.gov.jo/EN/Pages/Visa_E_Applications "https://moi.gov.jo/en/pages/visa_e_applications"))
-+ Allenby/King Hussein Bridge, near Jericho in the West Bank (only exit option for West Bank ID holders. Obtain a visa from local authorities in advance before crossing)
-+ Yitzak/Aqaba, near Eilat in the south of Israel ([obtain a visa online in advance](https://moi.gov.jo/EN/Pages/Visa_E_Applications "https://moi.gov.jo/en/pages/visa_e_applications"))
-
+  + Jordan River/Sheikh Hussein Bridge, in the north of Israel ([obtain a visa online in advance](https://moi.gov.jo/EN/Pages/Visa_E_Applications "https://moi.gov.jo/en/pages/visa_e_applications"))
+  + Allenby/King Hussein Bridge, near Jericho in the West Bank (only exit option for West Bank ID holders. Obtain a visa from local authorities in advance before crossing)
+  + Yitzak/Aqaba, near Eilat in the south of Israel ([obtain a visa online in advance](https://moi.gov.jo/EN/Pages/Visa_E_Applications "https://moi.gov.jo/en/pages/visa_e_applications"))
 * Egypt:
-
-+ Menahem Begin/Taba, from southern Israel into the Sinai Peninsula (visa available on-arrival)
+  + Menahem Begin/Taba, from southern Israel into the Sinai Peninsula (visa available on-arrival)
 
 If you travel to a border crossing to leave Israel, Jerusalem, or the West Bank, you do so at your own risk. The border of Gaza is closed.
 
@@ -40,8 +37,6 @@ If you remain in Israel, the West Bank or Jerusalem, you should:
 * move away immediately and contact local authorities if you encounter unexploded ordnance, military debris or fragments
 * register or update your personal information with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration "https://travel.gc.ca/travelling/registration") service to receive the latest updates
 * ensure that your travel documents and those of your family are up to date
-
-#### 
 
 #### Useful links
 

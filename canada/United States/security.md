@@ -2,16 +2,6 @@
 
 ## Safety and security
 
-### Demonstrations in Los Angeles and other major cities
-
-Since June 6, 2025, demonstrations have been taking place in Los Angeles and other cities. Additional security forces have been deployed to affected areas. Curfew orders may be imposed on short notice.
-
-If you are in an affected area:
-
-* stay away from demonstrations
-* follow the instructions of local authorities, including curfew orders
-* monitor local media for the latest information
-
 ### Border with Mexico
 
 Criminal incidents associated with drug trafficking are more frequent at the border with Mexico, in the following states:

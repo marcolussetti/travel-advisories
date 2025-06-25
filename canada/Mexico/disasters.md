@@ -2,27 +2,6 @@
 
 ## Natural disasters and climate
 
-### Hurricane Erick
-
-On June 19, 2025, Hurricane Erick made landfall on the western coast of Oaxaca State. It caused significant damage to buildings and infrastructure.
-
-The storm brought excessive rainfall and violent winds. It caused severe flooding and there are significant disruptions to the following essential services:
-
-* transportation
-* power distribution
-* water and food supply
-* telecommunications networks
-* emergency services
-* medical care
-
-If you are in the affected area of southwestern Mexico:
-
-* exercise caution
-* monitor local news and weather reports
-* follow the instructions of local authorities
-
-[Latest advisories](http://www.nhc.noaa.gov/) – U.S. National Hurricane Centre
-
 Mexico is subject to various natural disasters, which can occur at any time.
 
 In the event of a natural disaster:

@@ -306,11 +306,14 @@ Coastal waters can be dangerous as riptides are common. Public beaches in major 
 
 Outdoor activities, such as hiking, can be dangerous in remote areas as trails may become impassable due to flash floods.
 
+Extreme sports, such as skydiving and bungee jumping, are dangerous and tour operators may not meet Canadian safety standards. Certain adventure activities, such as hot air ballooning, are both dangerous and illegal.
+
 If you intend to participate in adventure tourism activities:
 
 * share your itinerary with a friend or family member if hiking alone
 * stay on marked trails and consider hiring an experienced guide from a reputable company
 * obtain detailed information on your activity and on the environment in which you will be setting out
+* refrain from using equipment if you are unsure of its condition or safety
 
 [Visit Brazil](https://visitbrasil.com/en/) – Tourism Committee of Brazil
 

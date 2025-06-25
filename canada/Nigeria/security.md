@@ -318,6 +318,10 @@ There have been several incidents of armed robbery at the Murtala Muhammed Inter
 
 Major hotels and customer service centres at the airports in Abuja, Kano and Lagos offer reliable car-hire services with drivers.
 
+### Women safety
+
+Women travelling alone may be subject to some forms of harassment or verbal abuse.
+
 [Advice for women travellers](https://travel.gc.ca/travelling/health-safety/advice-for-women-travellers "Advice for women travellers")
 
 ### 2SLGBTQI+ persons

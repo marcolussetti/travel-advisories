@@ -4,21 +4,23 @@
 
 ### Ongoing hostilities in the Middle East
 
-Missiles, drones and other projectiles have struck targets in the region. The security situation could deteriorate significantly without notice.
+Missiles, drones and other projectiles have struck targets in the region. Military debris has fallen in various locations.
 
 You should be particularly vigilant near military installations.
 
-Military debris has fallen in various locations. There have been disruptions to movement and transportation, including:
+There have been disruptions to movement and transportation, including:
 
 * border closures or restrictions
 * flight cancellations
 * airspace closures
 
+The security situation could deteriorate significantly without notice.
+
 You should:
 
 * monitor local and international media to stay informed of the rapidly evolving situation
 * be vigilant and follow the instructions of local authorities at all times, including any orders to shelter in place
-* sign up with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration "https://travel.gc.ca/travelling/registration") service to receive important information about the crisis
+* sign up with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration "https://travel.gc.ca/travelling/registration") service to receive important information about the crisis
 * ensure that your travel documents and those of your family are up to date
 
 [Canada's response to the situation in the Middle East](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=eng "https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=eng")

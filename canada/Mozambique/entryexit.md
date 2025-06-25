@@ -49,7 +49,7 @@ You can apply for a visa at the nearest embassy or consulate of Mozambique.
 
 #### Tourist and business visa exemption
 
-Canadian tourists or business travellers may be exempt from applying for a visa under certain conditions. The requirement for visa-exempt travellers to apply for an Electronic Travel Authorization (ETA) is currently suspended.
+Canadian tourists and business travellers may be exempt from applying for a visa under certain conditions. The requirement for visa-exempt travellers to apply for an Electronic Travel Authorization (ETA) is currently suspended.
 
 Trips of more than 30 days require an extension of stay from immigration authorities. Administrative fees may apply. If your passport has less than 6 months validity, Mozambican authorities may refuse to extend your visa exemption.
 
@@ -57,8 +57,8 @@ Upon arrival, you must provide:
 
 * a return or onward ticket (except for travel by land)
 * a passport valid for at least 6 months beyond the date you expect to leave Mozambique
-* fee payment of 650 Mozambican meticals or equivalent in accepted currencies, paid by card or cash
-* proof of accommodation (a hotel reservation or a written invitation from your host)
+* a payment of 650 Mozambican meticals or equivalent in accepted currencies, paid by card or cash
+* proof of accommodation
 
 #### Visa pre-authorizations
 
