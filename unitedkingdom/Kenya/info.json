@@ -1,11 +1,11 @@
 {
     "name": "Kenya",
-    "update_reason": "Removal of information about a US alert on increased caution in Kenya and about disruptions due to ongoing strike action  ('Warnings and insurance' page).",
+    "update_reason": "Updated information on the potential for protests ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Kenya/Warnings and insurance.md",
-            "update_date": "2024-11-04T12:48:11+00:00"
+            "update_date": "2025-06-24T16:16:19+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Kenya/Getting help.md"
         }
     ],
-    "update_date": "2024-11-04T12:48:11+00:00"
+    "update_date": "2025-06-24T16:16:19+01:00"
 }

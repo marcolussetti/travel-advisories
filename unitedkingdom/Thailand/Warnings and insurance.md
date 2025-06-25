@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   24 May 2025
+:   25 June 2025
 
 Updated:
-:   23 May 2025
+:   24 June 2025
 
 Latest update:
-:   Updated information on illegal drugs and the risks of carrying cannabis out of Thailand ('Warnings and insurance' and 'Safety and security' pages).
+:   New information about the temporary suspension of Thailand-Cambodia border crossing (‘Regional Risks’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/6164105ce90e07198018f873/FCDO__TA__040_-_Thailand_Travel_Advice_Ed2__WEB_.jpg)
 

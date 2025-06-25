@@ -16,7 +16,7 @@ Attacks could be indiscriminate, including in places visited by expatriates and 
 
 ### Border with Thailand
 
-The line of the international border near the Preah Vihear temple (‘Khaoi Pra Viharn’ in Thai) has been in dispute between Cambodia and Thailand, with occasional clashes between Cambodian and Thai troops. There have also been disputes over control of the Ta Moan and Ta Krabey temples, which are close to the Cambodia-Thailand border.
+Land borders/crossings between Cambodia and Thailand are temporarily suspended. The line of the international border near the Preah Vihear temple (‘Khaoi Pra Viharn’ in Thai) has been in dispute between Cambodia and Thailand, with occasional clashes between Cambodian and Thai troops. There have also been disputes over control of the Ta Moan and Ta Krabey temples, which are close to the Cambodia-Thailand border.
 
 Take extra care when travelling in this area, and follow the instructions of the local authorities.
 
@@ -122,6 +122,8 @@ The conditions in Cambodian prisons are extremely poor and overcrowded. Medical 
 ### Illegal drugs
 
 Possession, trafficking and manufacture of any illegal drugs are serious offences in Cambodia. This includes cannabis. British nationals have been caught carrying cannabis while transiting through Cambodia.
+
+Airports in Cambodia have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
 
 The Cambodia authorities have a zero-tolerance policy to drug offences. Possessing drugs, even in very small quantities, can carry severe penalties, including:
 

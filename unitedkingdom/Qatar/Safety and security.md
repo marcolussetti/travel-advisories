@@ -24,19 +24,6 @@ Terrorists issue statements threatening to carry out attacks in the Gulf region.
 * mosques
 * large demonstrations
 
-## Regional risks
-
-Ongoing hostilities in the region and between Israel and Iran have the potential to deteriorate further, quickly and without warning including since US military strikes against Iran on 22 June.
-
-There is a possibility of travel disruption, including short-notice airspace closures, delayed and cancelled flights, and other unanticipated travel impacts.
-
-We encourage you to:
-
-* read the FCDO’s advice on [if you’re affected by a crisis abroad](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas)
-* monitor local and international media for the latest information
-* be vigilant and follow the instructions of local authorities, avoiding all but essential travel to military bases
-* check with relevant airlines for the latest updates before travelling
-
 ## Political situation
 
 Events in the region, including political developments, have an impact on local public opinion. Be aware of local sensitivities on these issues. Follow news reports and avoid public gatherings and demonstrations. There is the potential for increased tension on Fridays.

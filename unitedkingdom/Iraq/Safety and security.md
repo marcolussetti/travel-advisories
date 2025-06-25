@@ -58,26 +58,6 @@ British nationals are seen as legitimate targets, including tourists, humanitari
 
 The long-standing policy of the British Government is not to make substantive concessions to hostage takers. The British Government considers that paying ransoms and releasing prisoners builds the capability of terrorist groups and finances their activities. This can, in turn, increase the risk of further hostage-taking. The Terrorism Act (2000) makes payments to terrorists illegal.
 
-## Regional risks and airspace restrictions
-
-Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region.
-
-Following Israeli strikes against targets in Iran, Iran has launched multiple rounds of missile and drone attacks against Israel, and on 22 June the US launched military strikes on Iran.
-
-You should:
-
-* monitor local and international media for the latest information
-* be vigilant and follow the instructions of local authorities
-
-We encourage you to:
-
-* read the FCDO’s advice on [if you’re affected by a crisis abroad](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas)
-* monitor local and international media for the latest information
-* be vigilant and follow the instructions of local authorities, avoiding all but essential travel to military bases
-* check with relevant airlines for the latest updates before travelling
-
-Iraqi airspace restrictions have been implemented. Only a very limited number of international flights are still going ahead. Given the rapidly changing context, it is unclear when flights transiting Iraqi airspace will resume as normal.
-
 ## Security situation
 
 Some areas of Iraq have experienced recent attack by artillery, drones and rockets. Coalition military installations continue to be a target, including in the Kurdistan Region.

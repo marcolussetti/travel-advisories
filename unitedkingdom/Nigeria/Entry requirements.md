@@ -26,6 +26,12 @@ Visa on arrival is no longer available.  All visa applications must be submitte
 
 You can [apply for a visa from Nigerian Immigration Services](https://portal.immigration.gov.ng/).
 
+### Landing and departure cards
+
+The Nigerian authorities have recently introduced a system for foreigners to complete landing and departure cards before entry/exit and you may be asked for these at the airport or other border points.
+
+The forms can be completed through the [online portal](https://lecard.immigration.gov.ng/).
+
 ## Vaccine requirements
 
 To enter Nigeria, you must have a certificate to prove you’ve had a yellow fever vaccination if you’re coming from a [country listed as a transmission risk](https://nathnacyfzone.org.uk/factsheet/65/countries-with-risk-of-yellow-fever-transmission).

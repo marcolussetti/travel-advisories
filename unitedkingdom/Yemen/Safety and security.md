@@ -49,19 +49,6 @@ All British nationals are seen as legitimate targets, including tourists, NGOs, 
 
 The long-standing policy of the British government is not to make substantive concessions to terrorist hostage takers. The British government considers that paying ransoms builds the capability of terrorist groups and finances their activities. This can, in turn, increase the risk of further hostage-taking. The Terrorism Act (2000) makes payments to terrorists illegal.
 
-## Regional risks
-
-Ongoing hostilities in the region and between Israel and Iran have the potential to deteriorate further, quickly and without warning including since US military strikes against Iran on 22 June.
-
-There is a possibility of travel disruption, including short-notice airspace closures, delayed and cancelled flights, and other unanticipated travel impacts.
-
-We encourage you to:
-
-* read the FCDO’s advice on [if you’re affected by a crisis abroad](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas)
-* monitor local and international media for the latest information
-* be vigilant and follow the instructions of local authorities, avoiding all but essential travel to military bases
-* check with relevant airlines for the latest updates before travelling
-
 ## Political situation
 
 The political and security situation in Yemen remains uncertain and volatile.

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   14 June 2025
+:   25 June 2025
 
 Updated:
-:   13 June 2025
+:   24 June 2025
 
 Latest update:
-:   New information about on arrival VISAs (See ‘Applying for a VISA’ on the ‘Entry Requirements’ page).
+:   New information on completing travel cards ('Entry requirements' page).
 
 ![](https://assets.publishing.service.gov.uk/media/6544d305d36c910012935d1f/FCDO__TA__030_-_Nigeria_Travel_Advice_Ed8__WEB_.jpg)
 

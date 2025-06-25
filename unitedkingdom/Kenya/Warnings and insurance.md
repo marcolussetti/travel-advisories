@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   25 June 2025
 
 Updated:
-:   4 November 2024
+:   24 June 2025
 
 Latest update:
-:   Removal of information about a US alert on increased caution in Kenya and about disruptions due to ongoing strike action ('Warnings and insurance' page).
+:   Updated information on the potential for protests ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/618e41d8d3bf7f0559e1d936/FCDO__TA__055_-_Kenya_Travel_Advice_Ed3__WEB_.jpg)
 

@@ -19,9 +19,9 @@ This is due to regular attacks in the provinces by the border with Malaysia. See
 
 ## Thailand-Cambodia border
 
-Take extra care in border areas and follow the instructions of local authorities. The line of the international border near the Preah Vihear temple is disputed by Cambodia and Thailand. There are unexploded landmines in the border area. Stay on marked paths especially around Ta Krabey.
+Land borders/crossings between Thailand and Cambodia are temporarily suspended due to a dispute between Thailand and Cambodia.
 
-Stay alert to the local situation when travelling anywhere near to the border with Cambodia, and at land crossings between the 2 countries.
+Take extra care and stay alert in border areas and follow the instructions of local authorities, especially at tourist destinations such as the Preah Vihear temple, the Ta Kwai temple and the Ta Muen Thom temple. There are also unexploded landmines in the border area. Stay on marked paths especially around Ta Krabey.
 
 ## Thailand-Laos border
 

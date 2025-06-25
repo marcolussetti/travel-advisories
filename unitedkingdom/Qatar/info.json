@@ -1,11 +1,11 @@
 {
     "name": "Qatar",
-    "update_reason": "Update following the interception of Iranian missiles fired towards Qatar on 23 June (\u201cWarnings and Insurance\u201d page)",
+    "update_reason": "Updated information about the risks of regional escalation and the instruction to take shelter if instructed ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Qatar/Warnings and insurance.md",
-            "update_date": "2025-06-23T21:36:56+01:00"
+            "update_date": "2025-06-24T17:34:26+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Qatar/Getting help.md"
         }
     ],
-    "update_date": "2025-06-23T21:36:56+01:00"
+    "update_date": "2025-06-24T17:34:26+01:00"
 }

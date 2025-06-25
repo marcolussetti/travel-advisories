@@ -45,7 +45,7 @@ The long-standing policy of the British government is not to make substantive co
 
 ## Political situation
 
-This year has seen major protests across multiple cities in Kenya, including Nairobi and Mombasa. A number of protestors have been injured and killed. The situation could change quickly. Avoid political gatherings and large crowds and monitor local media to see when and where major protests are likely. Follow local news and the instructions of local authorities closely.
+Protests, demonstrations and strikes are common in Kenya, particularly in Nairobi. These events often cause traffic disruption and can lead to violence. A number of demonstrators have been injured and killed in recent years. The situation could change quickly, especially on key dates, such as the anniversary of the Finance Bill protests, which took place in June and July 2024. Stay away from political gatherings and large crowds and monitor local media to see when and where major protests are likely. Follow local news and the instructions of local authorities closely.
 
 ## Crime
 

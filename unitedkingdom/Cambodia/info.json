@@ -1,11 +1,11 @@
 {
     "name": "Cambodia",
-    "update_reason": "Updated information on illegal drugs, including cannabis ('Safety and security' page).",
+    "update_reason": "New information about temporary suspension of border crossing between Cambodia and Thailand (\u2018Safe and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Cambodia/Warnings and insurance.md",
-            "update_date": "2025-05-23T14:47:15+01:00"
+            "update_date": "2025-06-24T10:53:57+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Cambodia/Getting help.md"
         }
     ],
-    "update_date": "2025-05-23T14:47:15+01:00"
+    "update_date": "2025-06-24T10:53:57+01:00"
 }

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   24 May 2025
+:   25 June 2025
 
 Updated:
-:   23 May 2025
+:   24 June 2025
 
 Latest update:
-:   Updated information on illegal drugs, including cannabis ('Safety and security' page).
+:   New information about temporary suspension of border crossing between Cambodia and Thailand (‘Safe and security’ page).
 
 ## Before you travel
 

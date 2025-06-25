@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   23 June 2025
+:   25 June 2025
 
 Updated:
-:   22 June 2025
+:   24 June 2025
 
 Latest update:
-:   Update on regional risks ('Warnings and insurance' page).
+:   Updated information about the risks of regional escalation and the instruction to take shelter if instructed ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/65bbcf944965c50010e8a3f1/FCDO__TA__087_-_Jordan_Travel_Advice_Ed2__WEB_.jpg)
 
@@ -24,17 +24,18 @@ FCDO advises against all travel to within 3km of the border with Syria.
 
 ## Regional risks
 
-Ongoing hostilities in the region and between Israel and Iran have the potential to deteriorate further, quickly and without warning including since US military strikes against Iran on 22 June. Iran aligned militia groups are also likely to continue to conduct attacks.
+Hostilities in the region and between Israel and Iran have the potential to deteriorate further, quickly and without warning. On 22 June the US launched military strikes against Iranian nuclear facilities and on 23 June Iran launched military strikes against a US military base in Qatar. Iran aligned militia groups are also likely to continue to conduct attacks.
 
 The current situation has disrupted air links and may disrupt road links and border crossings. Demonstrations and protest activity may take place.
 
-We encourage you to:
+As a precautionary measure, we encourage you to:
 
 * read the FCDO’s advice on [if you’re affected by a crisis abroad](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas)
 * monitor local and international media for the latest information
-* be vigilant and follow the instructions of local authorities, avoiding all but essential travel to military bases
-* check with relevant airlines for the latest updates before travelling
+* be vigilant and follow the instructions of local authorities
 * take shelter and stay away from windows if you hear air sirens. In the event of injuries or damage, call 911 immediately
+* avoid military or security facilities
+* check with relevant airlines for the latest updates before travelling
 * See [safety and security page](https://www.gov.uk/foreign-travel-advice/jordan/safety-and-security).
 
 Jordanian airspace is open but airports and airspace may close at short notice. Before you travel:

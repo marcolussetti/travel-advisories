@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   23 June 2025
+:   25 June 2025
 
 Updated:
-:   22 June 2025
+:   24 June 2025
 
 Latest update:
-:   Update on regional risks following US military strikes against Iran on 22 June ('Safety and security' page).
+:   Updated information about the risks of regional escalation and the instruction to take shelter if instructed ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/5f4e3445e90e071c6f74664e/FCDO__TA__047_-_Yemen_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -23,6 +23,21 @@ FCDO advises against all travel to the whole of the Yemen due to the unpredictab
 If you’re in Yemen, you should leave immediately.
 
 See [Safety and security](/foreign-travel-advice/yemen/safety-and-security) for more information.
+
+## Regional risks
+
+Hostilities in the region and between Israel and Iran have the potential to deteriorate further, quickly and without warning. On 22 June the US launched military strikes against Iranian nuclear facilities and on 23 June Iran launched military strikes against a US military base in Qatar.
+
+There is a possibility of travel disruption, including short-notice airspace closures, delayed and cancelled flights, and other unanticipated travel impacts.
+
+As a precautionary measure we encourage you to:
+
+* read the FCDO’s advice on [if you’re affected by a crisis abroad](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas)
+* monitor local and international media for the latest information
+* be vigilant and follow the instructions of local authorities
+* take shelter and stay away from windows if instructed. If you require urgent assistance call 199 or 194
+* avoid military or security facilities
+* check with relevant airlines for the latest updates before travelling
 
 ## UK government support
 
