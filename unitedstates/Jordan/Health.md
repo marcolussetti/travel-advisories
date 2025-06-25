@@ -45,7 +45,7 @@ Medical tourism is a rapidly growing industry. People seeking health care overse
 **Pharmaceuticals:**
 
 * Exercise caution when purchasing medication overseas. Pharmaceuticals, both over the counter and requiring prescription in the United States, are often readily available for purchase with little controls. Counterfeit medication is common and may prove to be ineffective, the wrong strength, or contain dangerous ingredients. Medication should be purchased in consultation with a medical professional and from reputable establishments.
-* Always carry your prescription medication in original packaging, along with your doctor’s prescription. [Check the attached list of prohibited medication](https://jo.usembassy.gov/medical-assistance/).
+* Always carry your prescription medication in original packaging, along with your doctor’s prescription. [Check the attached list of prohibited medication](/content/dam/NEWTravelAssets/pdfs/2025-01%20LIST%20OF%20PROHIBITED%20DRUGS.pdf).
 * U.S. Customs and Border Protection and the Food and Drug Administration are responsible for rules governing the transport of medication back to the United States. Medication purchased abroad must meet their requirements to be legally brought back into the United States. Medication should be for personal use and must be approved for usage in the United States. Please visit the [U.S. Customs and Border Protection](https://www.cbp.gov/travel/us-citizens/know-before-you-go/prohibited-and-restricted-items) and the [Food and Drug Administration](https://www.fda.gov/drugs/fda-drug-info-rounds-video/traveling-prescription-medications) websites for more information.
 
 **Surrogacy:**

@@ -1,6 +1,6 @@
 # Lebanon Travel Advisory
 
-### Travel Advisory December 27, 2024
+### Travel Advisory June 24, 2025
 
 ### Lebanon - Level 4: Do Not Travel
 
@@ -14,7 +14,9 @@
 [T](javascript:void(0); "Tool Tip: Terrorism")
 [C](javascript:void(0); "Tool Tip: Crimes")
 
-**Updated to reflect the lifting of ordered departure of non-mission-employed eligible family members (EFMs) and the lifting of authorized departure for mission-employed EFMs and non-essential U.S. direct hire (USDH) employees.**
+**Updated to reflect the ordered departure of** family members and non-emergency U.S. government personnel.
+
+On June 22, the Department of State ordered the departure of family members and non-emergency U.S. government personnel from Lebanon due to the volatile and unpredictable security situation in the region.
 
 Do Not Travel to Lebanon due to **crime, terrorism, civil unrest, kidnapping, unexploded landmines, and the risk of armed conflict**. Some areas, especially near the borders, have increased risk. Read the entire Travel Advisory.
 
@@ -22,9 +24,9 @@ U.S. Embassy Beirut personnel are restricted from personal travel without advanc
 
 Commercial flights are available, but at reduced capacity. Please check flight options at [Beirut–Rafic Hariri International Airport](https://www.beirutairport.gov.lb/index.php?lang=en).
 
-**Country Summary:** U.S. citizens in Lebanon should be aware that consular officers from the U.S. Embassy are not always able to travel to assist them. The Department of State considers the threat to U.S. government personnel in Beirut serious enough to require them to live and work under strict security. The internal security policies of the U.S. Embassy may be adjusted at any time and without advance notice.
+**Country Summary:** U.S. citizens in Lebanon should be aware that consular officers from the U.S. Embassy are not always able to travel to assist them. The Department of State considers the threat to U.S. government personnel in Beirut serious enough to require them to live and work under strict security. The internal security policies of the U.S. Embassy may be adjusted at any time and without advance notice.
 
-Since October 8, 2023, cross-border exchanges of fire have occurred between Hizballah and Israel; in some instances, including targets well north of the border region. A cessation of hostilities between Israel and Lebanon went into effect on November 27 and implementation is ongoing; however, there are continued instances of military activity in some areas of Lebanon. The Lebanese government cannot guarantee the safety of U.S. citizens against sudden outbreaks of violence and armed conflict. Family, neighborhood, or sectarian disputes can escalate quickly and can lead to gunfire or other violence with no warning.
+Since October 8, 2023, cross-border exchanges of fire have occurred between Hizballah and Israel. In some instances, targets have been well north of the border region. A cessation of hostilities between Israel and Lebanon went into effect on November 27, and implementation is ongoing; however, there are continued instances of military activity in some areas of Lebanon. The Lebanese government cannot guarantee the safety of U.S. citizens against sudden outbreaks of violence and armed conflict. Family, neighborhood, or sectarian disputes can escalate quickly and can lead to gunfire or other violence with no warning.
 
 Terrorist groups continue plotting possible attacks in Lebanon. Terrorists may conduct attacks with little or no warning targeting tourist locations, transportation hubs, markets/shopping malls, and local government facilities.
 
@@ -34,40 +36,40 @@ Kidnapping, whether for ransom, political motives, or family disputes, has occur
 
 Unexploded landmines and explosive remnants of war are a hazard along the border with Syria. Heed land mine warning signs. Do not venture off the road into areas marked off with red and white plastic tape. Avoid roadside ditches, shoulders, and unmarked trails. Never touch anything resembling unexploded munitions.
 
-U.S. citizens should avoid demonstrations and exercise caution if in the vicinity of any large gatherings or protests as these have the potential to turn violent quickly and with little notice. Protesters have blocked major roads, including thoroughfares between downtown Beirut and the area where the U.S. Embassy is located, and between Beirut and Beirut Rafic Hariri International Airport.
+U.S. citizens should avoid demonstrations and exercise caution if in the vicinity of any large gatherings or protests as these have the potential to turn violent quickly and with little notice. Protesters have blocked major roads, including thoroughfares between downtown Beirut and the area where the U.S. Embassy is located, and between Beirut and Beirut-Rafic Hariri International Airport.
 
-Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Lebanon.html) for additional information on travel to Lebanon.
+Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Lebanon.html) for additional information on travel to Lebanon.
 
 If you decide to travel to Lebanon:
 
-* Visit our website for information on [Travel to High-Risk Areas](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/high-risk-travelers.html).
+* Visit our website for information on [Travel to High-Risk Areas](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/high-risk-travelers.html).
 * Appoint one family member to serve as the point of contact with kidnappers/hostage-takers, media, U.S. and host country government agencies, and members of Congress if you are kidnapped, or taken hostage.
 * Keep travel documents up to date and easily accessible.
 * Do not touch unknown metal objects and avoid traveling off well-used roads, tracks, and paths due to risk of unexploded ordnance.
 * Avoid demonstrations and crowds.
 * Stay alert in locations frequented by Westerners.
 * Monitor local media for breaking events and adjust your plans based on new information.
-* Enroll in the [Smart Traveler Enrollment Program](https://step.state.gov/step/) ([STEP](https://step.state.gov/step/)) to receive Alerts and make it easier to locate you in an emergency.
-* Follow the Department of State on [Facebook](https://www.facebook.com/travelgov)and[X/Twitter](https://x.com/TravelGov?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor).
-* Review the [Country Security Report](https://www.osac.gov/Content/Browse/Report?subContentTypes=Country%20Security%20Report) for Lebanon.
-* Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel) related to your travel.
-* U.S. citizens who travel abroad should always have a contingency plan for emergency situations. Review the [Traveler’s Checklist](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-checklist.html).
+* Enroll in the [Smart Traveler Enrollment Program](https://step.state.gov/step/) ([STEP](https://step.state.gov/step/)) to receive Alerts and make it easier to locate you in an emergency.
+* Follow the Department of State on [Facebook](https://www.facebook.com/statedept/)  and [X/Twitter](https://x.com/travelgov).
+* Review the [Country Security Report](https://www.osac.gov/Content/Browse/Report?subContentTypes=Country%20Security%20Report) for Lebanon.
+* Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel) related to your travel.
+* U.S. citizens who travel abroad should always have a contingency plan for emergency situations. Review the [Traveler’s Checklist](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-checklist.html).
 
-**Southern Lebanon – Level 4: Do Not Travel, Depart If You Are There (See map below)**
+**Southern Lebanon – Level 4:  Do Not Travel, Depart If You Are There (See map below)**
 
-The U.S. Embassy strongly urges U.S. citizens to avoid southern Lebanon and to depart if you are there; that is, all parts south of the city of Saida, to include inland areas, as illustrated in the map below. There have continued to be instances of military activity in South Lebanon and near the Syrian border since the cessation of hostilities went into effect.
+The U.S. Embassy strongly urges U.S. citizens to avoid southern Lebanon and to depart if you are there; that is, all parts south of the city of Saida, to include inland areas, as illustrated in the map below. There have continued to be instances of military activity in South Lebanon and near the Syrian border since the cessation of hostilities went into effect.
 
 **![](/content/dam/NEWTravelAssets/images/Picture4.png)**
 
-**Border with Syria – Level 4: Do Not Travel, Depart If You Are There**
+**Border with Syria – Level 4:  Do Not Travel, Depart If You Are There**
 
 The U.S. Embassy strongly urges U.S. citizens to avoid the Lebanon-Syria border and to depart if you are there. This area has seen clashes between Lebanese security forces and Syrian-based groups, as well as recent airstrikes. The U.S. Department of State also warns U.S. citizens of the risk of traveling on flights that fly over Syria, which include some flights to and from Beirut.
 
-**Refugee Settlements – Level 4: Do Not Travel, Depart If You Are There**
+**Refugee Settlements – Level 4:  Do Not Travel, Depart If You Are There**
 
 The U.S. Embassy urges U.S. citizens to avoid travel to refugee settlements in Lebanon and depart if you are there. These settlements are prone to outbreaks of violence including shootings and explosions.
 
-Visit our website for [Travel to High-Risk Areas](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/high-risk-travelers.html).
+Visit our website for [Travel to High-Risk Areas](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/high-risk-travelers.html).
 
 ### Travel Advisory Levels
 
