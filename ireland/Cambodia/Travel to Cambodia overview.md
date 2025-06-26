@@ -4,6 +4,12 @@
 
 Normal Precautions
 
+### **Travel Alert**
+
+As of 25 June 2025, land border crossings between Thailand and Cambodia have been temporarily suspended.
+
+An ongoing border dispute between Thailand and Cambodia has led to occasional clashes between Thai and Cambodian troops. Irish citizens should take extra care when travelling in this area and follow the instructions of national and local authorities.
+
 ### **General Travel Advice**
 
 Tourists wishing to travel to Cambodia can apply for an [**E-visa**](https://www.evisa.gov.kh/) or visa-on-arrival.

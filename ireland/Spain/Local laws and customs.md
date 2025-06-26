@@ -6,7 +6,7 @@ Remember, the local laws apply to you as a visitor and it is your responsibility
 
 Alcoholic spirits are usually sold in significantly larger measures in bars and restaurants in Spain than in Ireland. Consumption of alcohol in public places, except licensed bars and restaurants, is generally not permitted and may result in a fine.
 
-### **Illegal drugs**
+### **Illegal Drugs**
 
 There have been fatalities involving Irish citizens who have consumed illegal drugs in Spain. The Spanish authorities take the possession of illegal drugs in any quantity extremely seriously and such activity may result in imprisonment. The authorities in Mallorca and Ibiza are particularly active in anti-drug law enforcement, and are likely to prosecute in cases of use or possession of drugs.
 
@@ -16,11 +16,11 @@ Under Spanish law, you must carry state-issued photo ID on your person at all ti
 
 For Irish citizens, acceptable forms of state-issued photo ID include a passport or Passport Card. To avoid the inconvenience, and risk of loss/robbery associated with carrying your Irish passport book, we advise our citizens to obtain a Passport Card, which can be easily carried in your wallet or purse. Please find further information on how to apply for a Passport Card on the [**Passport Office website**](/en/greatbritain/london/contact/passport-queries/).
 
-### **Arrest and detention**
+### **Arrest and Detention**
 
 If you're arrested by the Spanish police at any stage, please ensure that all judicial matters against you are resolved before you leave Spain and that you have paid any fines. Otherwise, you may be detained when you come back to Spain and you may incur further fines or even a prison sentence. Information on consular assistance available to you if you are arrested can be found on the [**Irish Embassy's website**](/en/spain/madrid/).
 
-### **Buying property in Spain**
+### **Buying Property in Spain**
 
 If you intend to buy property in Spain, we strongly advise you to consult an independent, legal advisor with expertise in property law from the beginning of the process.
 

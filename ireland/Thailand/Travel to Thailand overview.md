@@ -8,7 +8,7 @@ Normal Precautions
 
 From May 1 2025, all non-Thai nationals entering Thailand are required to complete the Thailand Digital Arrival Card within 3 days of their date of arrival. The application portal and further details can be found on the [**Thailand Digital Arrival Card**](https://tdac.immigration.go.th/arrival-card/#/home) website.
 
-There is an ongoing border dispute between Thailand and Cambodia, which has led to occasional clashes between Thai and Cambodian troops. The land border may be closed or unexpectedly have their hours of operation changed. Please follow the instructions and advice of the national and local authorities.
+There is an ongoing border dispute between Thailand and Cambodia, which has led to occasional clashes between Thai and Cambodian troops. As of 25 June 2025, land border crossings between Thailand and Cambodia have been temporarily suspended. Irish citizens should take extra care when travelling in this area and follow the instructions and advice of the national and local authorities.
 
 ### **General Travel Advice**
 

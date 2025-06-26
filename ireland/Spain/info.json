@@ -3,29 +3,33 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Spain/Overview.md"
+            "title": "Travel to Spain overview",
+            "file": "ireland/Spain/Travel to Spain overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Spain/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Spain/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Spain/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Spain/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/Spain/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/Spain/Natural disasters and climate.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/Spain/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Spain/Embassy contact.md"
         }
     ],
-    "update_date": "2025-05-06T00:00:00"
+    "update_date": "2025-06-25T00:00:00"
 }

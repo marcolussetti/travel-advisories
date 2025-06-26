@@ -3,12 +3,16 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/T\u00fcrkiye (Turkey)/Overview.md"
+            "title": "Travel to T\u00fcrkiye overview",
+            "file": "ireland/T\u00fcrkiye (Turkey)/Travel to T\u00fcrkiye overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/T\u00fcrkiye (Turkey)/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/T\u00fcrkiye (Turkey)/Health.md"
         },
         {
             "title": "Local laws and customs",
@@ -19,17 +23,13 @@
             "file": "ireland/T\u00fcrkiye (Turkey)/Natural Disasters and Climate.md"
         },
         {
-            "title": "Health",
-            "file": "ireland/T\u00fcrkiye (Turkey)/Health.md"
-        },
-        {
-            "title": "Additional information",
-            "file": "ireland/T\u00fcrkiye (Turkey)/Additional information.md"
+            "title": "Entry requirements",
+            "file": "ireland/T\u00fcrkiye (Turkey)/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/T\u00fcrkiye (Turkey)/Embassy contact.md"
         }
     ],
-    "update_date": "2025-06-23T00:00:00"
+    "update_date": "2025-06-25T00:00:00"
 }

@@ -36,7 +36,7 @@ Visitors should consult a doctor before travelling. Ensure you have sufficient a
 
 If you become concerned for your mental health (or the mental health of a friend / family member) while in Türkiye please contact the Embassy (+90 312 4591000) or the Consular Assistance team in Dublin (+353 1 408 2000). We can direct you to local medical facilities and help you make contact with friends / family in Türkiye or Ireland. The Embassy cannot provide medical advice or funds to return home.
 
-### **Emergency expenses**
+### **Emergency Expenses**
 
 Visitors should check their insurance policy to see if it covers the following:
 

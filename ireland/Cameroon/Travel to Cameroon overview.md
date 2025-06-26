@@ -22,7 +22,7 @@ For more information on visas and passports, please see the Entry Requirements t
 
 Visitors are advised to follow the guidance of national and local authorities and stay fully informed of what is going on by monitoring local news and social media.
 
-Citizens can also follow the Irish Embassy in Nigeria on social media ([X](https://dfat.cloud.gov.ie/apps/eDocs/S/DFA534/Files/DFA534-001-2024/Countries%20to%20be%20updated/Twitter) and [**Facebook)**](https://www.facebook.com/embassyofirelandnigeria/) to ensure access to relevant updates and alerts.
+Citizens can also follow the Irish Embassy in Nigeria on social media ([**X**](https://x.com/IrlEmbNigeria)and [**Facebook)**](https://www.facebook.com/embassyofirelandnigeria/) to ensure access to relevant updates and alerts.
 
 ### **Emergency Assistance**
 

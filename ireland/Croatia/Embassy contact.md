@@ -6,9 +6,11 @@ Monday to Friday from 09:30 - 12:30 and 14:30 - 16:00
 
 ### Embassy of Ireland, Croatia
 
-Miramarska Avenue 23/lll   
-10000 Zagreb   
-Croatia
+Square One,   
+Trg Žrtava Fašizma 1,   
+Zagreb,   
+Croatia   
+10000
 
 [Tel: +385 1 6278 920](tel:+3851 6278 920)
 

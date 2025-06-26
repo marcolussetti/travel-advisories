@@ -17,8 +17,9 @@ Fax: +49 30 220 72299
 ### Consulate General of Ireland, Frankfurt
 
 Neue Mainzer Strasse 1   
-60311 Frankfurt am Main   
-Germany
+Frankfurt   
+Germany   
+60311
 
 [Tel: +49 30 220 72 160](tel:+4930 220 72 160)
 

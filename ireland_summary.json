@@ -182,13 +182,13 @@
     {
         "destination": "Cambodia",
         "risk_level": "Normal Precautions",
-        "last_updated": "2025-06-09T00:00:00",
+        "last_updated": "2025-06-25T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/cambodia/"
     },
     {
         "destination": "Cameroon",
         "risk_level": "Avoid Non-Essential Travel",
-        "last_updated": "2025-06-03T00:00:00",
+        "last_updated": "2025-06-25T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/cameroon/"
     },
     {
@@ -554,7 +554,7 @@
     {
         "destination": "Italy",
         "risk_level": "Normal Precautions",
-        "last_updated": "2025-05-23T00:00:00",
+        "last_updated": "2025-06-25T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/italy/"
     },
     {
@@ -872,7 +872,7 @@
     {
         "destination": "Pakistan",
         "risk_level": "High Degree of Caution",
-        "last_updated": "2025-06-04T00:00:00",
+        "last_updated": "2025-06-25T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/pakistan/"
     },
     {
@@ -932,7 +932,7 @@
     {
         "destination": "Qatar",
         "risk_level": "High Degree of Caution",
-        "last_updated": "2025-06-23T00:00:00",
+        "last_updated": "2025-06-25T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/qatar/"
     },
     {
@@ -1064,7 +1064,7 @@
     {
         "destination": "Spain",
         "risk_level": "Normal Precautions",
-        "last_updated": "2025-05-06T00:00:00",
+        "last_updated": "2025-06-25T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/spain/"
     },
     {
@@ -1124,7 +1124,7 @@
     {
         "destination": "Thailand",
         "risk_level": "Normal Precautions",
-        "last_updated": "2025-06-24T00:00:00",
+        "last_updated": "2025-06-25T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/thailand/"
     },
     {
@@ -1160,7 +1160,7 @@
     {
         "destination": "T\u00fcrkiye (Turkey)",
         "risk_level": "High Degree of Caution",
-        "last_updated": "2025-06-23T00:00:00",
+        "last_updated": "2025-06-25T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/turkiye/"
     },
     {

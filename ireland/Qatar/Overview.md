@@ -10,7 +10,7 @@ We continue to monitor ongoing regional tensions. Please exercise caution, monit
 
 Continuing airport disruptions are anticipated. Please contact your airline for relevant updates prior to travel.
 
-For the latest updates please follow the X (formerly Twitter) accounts of the Irish Embassy in Abu Dhabi here. For urgent consular assistance please contact us at +971 495 8200 or [Embassy.ABUDHABI@dfa.ie](mailto:Embassy.ABUDHABI@dfa.ie).
+For the latest updates please follow the X (formerly Twitter) accounts of the Irish Embassy in Abu Dhabi [here](https://x.com/IrelandEmbUAE). For urgent consular assistance please contact us at +971 495 8200 or [Embassy.ABUDHABI@dfa.ie](mailto:Embassy.ABUDHABI@dfa.ie).
 
 ### **General Travel Advice**
 
