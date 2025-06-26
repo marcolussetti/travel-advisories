@@ -1,7 +1,7 @@
 {
     "name": "Uganda",
-    "update_reason": "Safety and security \u2013 removed information on an explosion in Kampala",
-    "update_date": "2025-06-23T08:47:00",
+    "update_reason": "The Need help? section was updated.",
+    "update_date": "2025-06-25T07:20:00",
     "sections": {
         "risk": "canada/Uganda/risk.md",
         "security": "canada/Uganda/security.md",

@@ -2,13 +2,16 @@
 
 ## Safety and security
 
-### Ongoing hostilities between Israel and Iran
+### Tensions between Iran and Israel
 
-Drones, missiles and other projectiles have struck targets in Iran.
+Tensions remain high between Iran and Israel and hostilities could resume with little or no warning. During previous attacks, drones, missiles and other projectiles have struck targets in Iran.
 
-Interceptions could produce falling military debris in various locations.
+The Iranian airspace is open, however commercial flight options may be limited. Heightened tensions could result in:
 
-You should leave Iran if you can do so safely. Canada is unable to provide assistance within Iran, including transportation to the border. It’s possible to cross the land border at the following locations:
+* travel disruptions, including flight cancellations and airspace closures
+* military debris falling in various locations
+
+Canada is unable to provide assistance within Iran, including transportation to the border. It’s possible to cross the land border at the following locations:
 
 * To Türkiye:
 
@@ -27,9 +30,16 @@ Border closures or restrictions to movement could occur.
 
 You must have valid travel documents. If you have dual Canadian-Iranian citizenship, Iranian border officials require you to exit Iran on your Iranian passport.
 
-We understand that there are connectivity problems in Iran. If possible, you or someone on your behalf should try to register or update your personal information through the [Registration of Canadians Abroad service](https://travel.gc.ca/travelling/registration "https://travel.gc.ca/travelling/registration") to receive the latest information from the Government of Canada, including updates on available travel options. Registration can also be done on your behalf online or by contacting Global Affairs Canada’s 24/7 [Emergency Watch and Response Centre](https://travel.gc.ca/assistance/emergency-assistance?_ga=2.93069341.168187391.1696947682-2043183889.1686925125 "https://travel.gc.ca/assistance/emergency-assistance?_ga=2.93069341.168187391.1696947682-2043183889.1686925125").
+You should:
 
-If you remain in Iran, you should stay close to a bomb shelter or be prepared to shelter in a hardened structure away from windows in case air raid sirens activate.
+* monitor local and international media to stay informed of the rapidly evolving situation
+* follow the instructions of local authorities at all times
+* register or update your personal information through the [Registration of Canadians Abroad service](https://travel.gc.ca/travelling/registration "https://travel.gc.ca/travelling/registration") to receive the latest information from the Government of Canada,
+
+If you encounter any debris or fragments:
+
+* move away from them immediately
+* contact local authorities
 
 [Canada's response to the situation in the Middle East](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=eng "https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=eng")
 
