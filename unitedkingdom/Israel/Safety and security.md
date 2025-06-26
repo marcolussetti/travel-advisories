@@ -4,6 +4,24 @@ This travel advice covers Israel and the Occupied Palestinian Territories (OPTs)
 
 This guide also has safety advice for [regions of Israel and the OPTs](/foreign-travel-advice/israel/regional-risks).
 
+## Conflict with Lebanese Hizballah
+
+Following the conflict between Israel and Lebanese Hizballah (LH), a ceasefire was agreed on 27 November 2024.
+
+There remains a risk that hostilities could reignite, and with little warning. Check Home Front Command for the latest guidance. Restrictions may be put in place at short notice.
+
+## Conflict with the Houthis (in Yemen)
+
+Following the conflict between Israel and the Houthis (in Yemen), there continues to be a risk of missile and drone attacks throughout Israel. There is a risk of shrapnel from intercepted missiles falling across Israel and the OPTs and possible disruption at Ben Gurion airport.
+
+Check Home Front Command for the latest guidance. Restrictions may be put in place at short notice.
+
+## Conflict in Israel and the OPTs
+
+On 7 October 2023 there was a large-scale terrorist attack by Hamas in southern Israel. The frequency of attacks has significantly decreased but there is still a risk of rocket attacks throughout Israel.
+
+There is an increased risk of political tension which can cause demonstrations and clashes around anniversaries and significant events.
+
 ## Terrorism
 
 There is a high threat of terrorist attack globally affecting UK interests and British nationals, including from groups and individuals who view the UK and British nationals as targets. Stay aware of your surroundings at all times.

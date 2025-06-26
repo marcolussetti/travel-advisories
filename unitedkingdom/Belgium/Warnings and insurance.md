@@ -1,13 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   5 June 2025
+:   26 June 2025
 
 Updated:
-:   4 June 2025
+:   25 June 2025
 
 Latest update:
-:   Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport ('Safety and security' page).
+:   Eurostar services to and from Belgium will be severely disrupted today (25 June). Check your operator’s advice before travelling, including where you are taking connecting trains ('Warnings and insurance' page).
+
+## Eurostar disruption 25 June
+
+Eurostar services to and from Belgium will be severely disrupted today (25 June). Check your operator’s advice before travelling, including where you are taking connecting trains.
 
 ## National strike action
 

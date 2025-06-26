@@ -1,11 +1,11 @@
 {
     "name": "Belgium",
-    "update_reason": "Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport ('Safety and security' page).",
+    "update_reason": "Eurostar services to and from Belgium will be severely disrupted today (25 June). Check your operator\u2019s advice before travelling, including where you are taking connecting trains ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Belgium/Warnings and insurance.md",
-            "update_date": "2025-06-04T17:04:26+01:00"
+            "update_date": "2025-06-25T13:41:13+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Belgium/Getting help.md"
         }
     ],
-    "update_date": "2025-06-04T17:04:26+01:00"
+    "update_date": "2025-06-25T13:41:13+01:00"
 }
