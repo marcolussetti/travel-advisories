@@ -27,7 +27,7 @@ Crimes committed abroad can also be prosecutable in the United States, regardles
 
 **LGB Travelers:**There are no legal restrictions on same-sex sexual relations or the organization of LGB events in Montenegro. The law prohibits discrimination against individuals because of sexual orientation. However, LGB individuals are subject to widespread societal discrimination, ostracism, and harassment.
 
-Seeour [LGBT Travel Information](/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/lgb.html)page and section 6 of our [Human Rights Report](http://www.state.gov/j/drl/rls/hrrpt/) for further details.
+Seeour [LGB Travelers Travel Information](/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/lgb.html)page and section 6 of our [Human Rights Report](http://www.state.gov/j/drl/rls/hrrpt/) for further details.
 
 **Athletic Contract Disputes:** U.S. citizen athletes should carefully review their contract before accepting a job offer or moving to Montenegro. Some professional athletes report contract disputes about treatment and living conditions. U.S. citizen-athletes should research the team, living arrangements, and the city or town where they will live before accepting an offer.
 
