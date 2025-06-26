@@ -2,7 +2,7 @@
 
 Latest update
 
-We continue to advise exercise normal safety precautions in Hungary.
+Hungary has passed legislation that could provide a legal basis to ban LGBTQIA+ Pride events, including the Budapest Pride. Authorities can use facial recognition technology to identify and fine anyone who takes part in illegal or banned demonstrations.
 
 Advice Level summary
 

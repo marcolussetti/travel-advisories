@@ -37,7 +37,7 @@ Terrorism is a threat worldwide.
 
 Petty crime occurs in Hungary, especially on public transport and in tourist areas.
 
-Theft from vehicles and highway [robberies](/before-you-go/safety/theft-robbery "Theft and robbery") also occur. Be wary of tactics persuading drivers to pull over. 
+Theft from vehicles and highway [robberies](/before-you-go/safety/theft-robbery "Theft and robbery") also occur. Be wary of tactics persuading drivers to pull over.
 
 To protect yourself from theft:
 
@@ -84,9 +84,9 @@ Before you travel, read our advice on [reducing the risk of sexual assault](/be
 
 #### Cyber security
 
-You may be at risk of cyber-based threats during overseas travel to any country. Digital identity theft is a growing concern. Your devices and personal data can be compromised, especially if you're connecting to Wi-Fi, using or connecting to shared or public computers, or to Bluetooth. 
+You may be at risk of cyber-based threats during overseas travel to any country. Digital identity theft is a growing concern. Your devices and personal data can be compromised, especially if you're connecting to Wi-Fi, using or connecting to shared or public computers, or to Bluetooth.
 
-Social media can also be risky in destinations where there are social or political tensions or laws that may seem unreasonable by Australian standards. Travellers have been arrested for things they have said on social media. Don't comment on local or political events on your social media. 
+Social media can also be risky in destinations where there are social or political tensions or laws that may seem unreasonable by Australian standards. Travellers have been arrested for things they have said on social media. Don't comment on local or political events on your social media.
 
 **More information:**
 
@@ -94,14 +94,11 @@ Social media can also be risky in destinations where there are social or politic
 
 #### Civil unrest and political tension
 
-Public protests and events that draw large groups of people are usually peaceful but can turn violent. They can disrupt traffic and public transport.
+Public protests, demonstrations and events that draw large groups of people are usually peaceful but can turn violent. They can disrupt traffic and public transport.
 
-Extremist groups have used national holidays to stage demonstrations. Be careful of protests around:
+If you participate in illegal or banned demonstrations, you could be identified by facial recognition technology and face large fines.
 
-* 15 March — Revolution Day
-* June/July – Budapest Pride march
-* 20 August — St Stephen's Day
-* 23 October — Republic Day
+Extremist groups have used national holidays to stage demonstrations.
 
 To stay safe:
 

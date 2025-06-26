@@ -8,19 +8,23 @@ If you're [arrested or jailed](/while-youre-away/when-things-go-wrong/arrested-j
 
 #### Drugs
 
-Penalties for drug offences are severe. They include the death penalty.
+Penalties for drug offences are severe. They include the death penalty.
 
 Possession of even small quantities of drugs for recreational purposes can lead to long jail sentences and deportation.
 
 Thai authorities may conduct spot-checks for illegal drugs in tourist areas.
 
-Travellers have been targeted for narcotic tests. Under Thai law, authorities have the right to demand urine samples from people suspected of taking illegal drugs.
+Travellers have been targeted for narcotic tests. Under Thai law, authorities have the right to demand urine samples from people suspected of taking illegal drugs.
 
 If you're asked to submit a urine sample, ask to do it at a police station. You can also ask to contact the Tourist Police on 1155 and request English-speaking officers.
 
-Private recreational use of cannabis is decriminalised if the Tetrahydrocannabinol (THC) content is below 0.2% in weight. Cannabis use in public places remains illegal, and smoking outside is considered a public nuisance. Offenders risk fines and arrest. It is still illegal to sell or supply any extracts of cannabis containing more than 0.2% of THC.
+The use of cannabis is limited to medicinal purposes only. The content of Tetrahydrocannabinol (THC) must be below 0.2% in weight and you must have a prescription.
 
-While cannabis is decriminalised in Thailand, be aware that in the next destination you're travelling to it may be illegal, including when transiting. This may include residual amounts of illicit drugs in your system (such as in your blood or saliva) or on items you are carrying.
+Cannabis use in public places remains illegal, and smoking outside is considered a public nuisance. Offenders risk fines and arrest.
+
+Prescribing cannabis or its by-product for recreational use in establishments, selling cannabis online or through a vending machine, as well as advertising for commercial purpose is prohibited.
+
+Be aware that in the next destination you're travelling to, including when transiting, illicit drugs including cannabis may be illegal. This may include residual amounts of illicit drugs in your system (such as in your blood or saliva) or on items you're carrying.
 
 Follow directions from local authorities.
 

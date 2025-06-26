@@ -32,6 +32,8 @@ Large fines apply.
 
 Heavy fines exist for minor driving infringements. Penalties for serious driving offences include prison.
 
+In March 2025, Hungary passed legislation that could provide a legal basis to ban LGBTQIA+ Pride events, including the Budapest Pride march. Authorities can use facial recognition technology to identify and fine anyone who takes part in illegal or banned demonstrations.
+
 #### Australian laws
 
 Some Australian criminal laws still apply when you're overseas. If you break these laws, you may face prosecution in Australia.

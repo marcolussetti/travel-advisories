@@ -83,7 +83,7 @@ Possible targets for future attacks include:
 
 * embassies
 * shopping malls, markets and banks
-* hotels and beach resorts
+* hotels and beach locations
 * restaurants, bars and nightclubs
 * schools and places of worship
 * outdoor recreation events, including festivals or other gatherings in public spaces

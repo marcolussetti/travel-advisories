@@ -4,7 +4,7 @@
 
 #### Flights
 
-Tel Aviv's Ben Gurion International Airport may close or pause operations due to heightened security concerns at any time, and at short notice. This may cause flight delays or cancellations. Check with your airline for the latest updates before travelling.
+Tel Aviv's Ben Gurion International Airport is returning to full operations, with commercial options becoming increasingly available. If you have an existing ticket, contact your travel agent or airline. This may be the fastest way for you to reach your destination.
 
 #### Land border crossings
 
