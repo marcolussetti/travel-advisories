@@ -74,7 +74,7 @@ If you are planning to drive on St Helena, Ascension or Tristan da Cunha, see [i
 
 ### St Helena
 
-You can use a UK photocard driving licence to drive on St Helena for 3 months. After that, you’ll need to get a local licence from the Post Office in Jamestown. If you still have a paper driving licence, you may need to [update it to a photocard licence](https://www.gov.uk/exchange-paper-driving-licence) or get the c[orrect version of the international driving permit (IDP)](https://www.gov.uk/driving-abroad/international-driving-permit) as well.
+You can use a UK photocard driving licence to drive on St Helena for 3 months. After that, you’ll need to get a local licence from the Post Office in Jamestown. If you still have a paper driving licence, you may need to [update it to a photocard licence](https://www.gov.uk/exchange-paper-driving-licence) or get the [correct version of the international driving permit (IDP)](https://www.gov.uk/driving-abroad/international-driving-permit) as well.
 
 There is limited public transport on St Helena, but hire cars are available.
 
@@ -92,11 +92,11 @@ Feral sheep and donkeys can be a hazard on the roads, especially during wet weat
 
 ### St Helena
 
-South African airline Airlink provides weekly flights between St Helena and Johannesburg from March to October. Between November and February there is a twice weekly service. From November 2024 to February 2025 there will be a weekly flight to St Helena from Johannesburg and a weekly flight from Cape Town. For the month of March 2025, only Cape Town Saturday flights will operate. Overall, it is recommended to purchase a flexible ticket for onward journeys as flight delays can happen.
+South African airline Airlink provides weekly flights between St Helena and Johannesburg from March to October. Between December and February there is a twice weekly service. From December 2025 to February 2026 there will be a weekly flight to St Helena from Johannesburg on Saturday and a weekly flight from Cape Town on Tuesday. Overall, it is recommended to purchase a flexible ticket for onward journeys as flight delays can happen.
 
 ### Ascension
 
-There is a monthly charter flight from South Africa to Ascension, stopping at St Helena. The Ascension Island government handles the bookings. For more information, email [flight.bookings@ascension.gov.ac](mailto:flight.bookings@ascension.gov.ac).
+There is a monthly charter flight from South Africa to Ascension, stopping at St Helena. The Ministry of Defence operates a fare-paying service from RAF Brize Norton to Mount Pleasant Airport twice a week. This flight also stops in Ascension Island. The Ascension Island government handles the bookings for both flights. For more information, email [flight.bookings@ascension.gov.ac](mailto:flight.bookings@ascension.gov.ac).
 
 ### Tristan da Cunha
 

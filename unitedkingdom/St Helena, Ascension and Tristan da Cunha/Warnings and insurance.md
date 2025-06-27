@@ -1,15 +1,15 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   27 June 2025
 
 Updated:
-:   19 February 2025
+:   26 June 2025
 
 Latest update:
-:   New information about flights to St Helena ('Safety and security' page).
+:   This travel advice has been updated for style and accuracy with minor edits throughout.
 
-St Helena, Ascension and Tristan da Cunha are British Overseas Territories. There is no British Embassy, and the St Helena, Ascension and Tristan da Cunha governments will support you if you need emergency assistance.
+St Helena, Ascension and Tristan da Cunha are British Overseas Territories. There are no British Embassies, and the St Helena, Ascension and Tristan da Cunha governments will support you if you need emergency assistance.
 
 ## Before you travel
 

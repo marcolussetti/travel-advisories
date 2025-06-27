@@ -84,9 +84,7 @@ For details about medical entry requirements and recommended vaccinations, see [
 
 ## Customs rules
 
-There are strict rules about importing alcohol into St Helena, Ascension and Tristan da Cunha. You need a licence to import more than 2 bottles of spirits.
-
-For other prohibited items, see customs information:
+There are strict rules about importing alcohol into St Helena, Ascension and Tristan da Cunha. For further details about restrictions on alcohol as well as information about other prohibited items, see customs information:
 
 * [St Helena](https://sthelenaairport.com/st-helena/arriving/customs-excise-requirements/)
 * [Ascension](https://www.ascension.gov.ac/customs-attendance-and-checks)

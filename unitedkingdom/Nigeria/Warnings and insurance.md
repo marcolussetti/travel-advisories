@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   25 June 2025
+:   27 June 2025
 
 Updated:
-:   24 June 2025
+:   26 June 2025
 
 Latest update:
-:   New information on completing travel cards ('Entry requirements' page).
+:   New information on where attacks could take place at any time and new information on intercommunal violence in Benue State ('Safety and security' and 'Regional risks' pages).
 
 ![](https://assets.publishing.service.gov.uk/media/6544d305d36c910012935d1f/FCDO__TA__030_-_Nigeria_Travel_Advice_Ed8__WEB_.jpg)
 

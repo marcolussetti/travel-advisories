@@ -1,11 +1,11 @@
 {
     "name": "St Helena, Ascension and Tristan da Cunha",
-    "update_reason": "New information about flights to St Helena ('Safety and security' page).",
+    "update_reason": "This travel advice has been updated for style and accuracy with minor edits throughout.",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/St Helena, Ascension and Tristan da Cunha/Warnings and insurance.md",
-            "update_date": "2025-02-19T16:01:04+00:00"
+            "update_date": "2025-06-26T16:53:12+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/St Helena, Ascension and Tristan da Cunha/Getting help.md"
         }
     ],
-    "update_date": "2025-02-19T16:01:04+00:00"
+    "update_date": "2025-06-26T16:53:12+01:00"
 }

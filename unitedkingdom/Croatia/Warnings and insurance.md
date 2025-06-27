@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   10 June 2025
+:   27 June 2025
 
 Updated:
-:   9 June 2025
+:   26 June 2025
 
 Latest update:
-:   Information added about large gatherings, including football matches and music festivals ('Safety and security' page).
+:   Addition of information about music festivals and updated information about wildfires (‘Safety and security’ page).
 
 ## Before you travel
 

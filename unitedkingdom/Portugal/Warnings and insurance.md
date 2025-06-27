@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   5 June 2025
+:   27 June 2025
 
 Updated:
-:   4 June 2025
+:   26 June 2025
 
 Latest update:
-:   Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport ('Safety and security' page).
+:   Information on the introduction of a Code of Conduct in Albufeira and updated information on wildfires ('Safety and security' page).
 
 This travel advice also covers Madeira, Porto Santo and the Azores.
 

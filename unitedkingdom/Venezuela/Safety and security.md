@@ -20,8 +20,6 @@ The situation in Venezuela is currently tense, monitor developments closely and 
 
 There is currently an increased risk of demonstrations and protests. These may become violent and could be dispersed by the use of force, including with the use of rubber bullets and tear gas. Avoid political rallies, demonstrations and crowds, and do not cross security-force lines or barricades.
 
-These may become violent and could be dispersed by the use of force, including with the use of rubber bullets and tear gas. Avoid political rallies, demonstrations and crowds, and do not cross security-force lines or barricades.
-
 There is currently a more visible security presence across the country, including with military deployments. There are strict controls at border crossings, both via land and at airports. Some foreigners, including British nationals, have been questioned extensively on the reasons for their visit. This can involve being held at the airport for hours or days and can result in deportation. Whilst checks are being carried out you may not be allowed to contact relatives, friends or the British Embassy.
 
 Since July, some foreign nationals, including Europeans, have been detained and accused of terrorism. In some cases, the relevant embassy has not been yet able to support those detained. Support from FCDO to any British nationals who are detained may be severely limited.
@@ -98,7 +96,9 @@ Heavy rains and lack of maintenance can affect road conditions. Get local advice
 
 Fuel shortages are common across all parts of the country. You must pay a set amount of US dollars for the amount of fuel you need, rather than simply filling up the tank. Pay the correct price, as petrol stations do not usually give any change. You should check the local situation ahead of any travel.
 
-There are regular police and National Guard checkpoints throughout the country. Drive slowly through these and stop if asked. There have been reports of attempts by the police and National Guard to extract bribes for traffic offences, so ask for a written record giving details of the offence and the officer’s details.
+Take particular care to check the local situation ahead of any travel to Canaima National Park and the Gran Sabana area of Bolivar State. There have been reports of increased criminal activity along the main road ‘Troncal 10’, particularly between El Callao and the Brazilian border.
+
+There are regular police and National Guard checkpoints throughout the country. Drive slowly through these and stop if asked. There have been reports of attempts by the police and National Guard to extract bribes at check points, including for traffic offences.
 
 Driving under the influence of alcohol is illegal but common, especially at weekends. Many vehicles are in poor condition and drivers routinely ignore red lights.
 
@@ -106,7 +106,7 @@ If you’re in a traffic accident, you must stay at the scene until the traffic 
 
 ### Air travel
 
-Flights between Venezuela, the Dominican Republic and Peru have been suspended. Contact your airline or travel agent/tour operator if your flight is affected.
+Availability of flights to and from Venezuela remains limited. Stay in contact with your airline or travel agent/tour operator for up-to-date information on your itinerary.
 
 The [UK Air Safety List (ASL)](https://www.gov.uk/guidance/uk-air-safety-list) lists all known airlines in Venezuela that do not meet international safety standards and are banned from operating commercial air services to and from the UK. Check the ASL when considering which airlines to fly with. The list is maintained by the Department for Transport, based on advice from the [UK Civil Aviation Authority](https://www.caa.co.uk/Commercial-Industry/Airlines/Licensing/Requirements-and-guidance/Third-Country-Operator-Certificates). The [UK Civil Aviation Authority](https://www.gov.uk/guidance/uk-air-safety-list).
 

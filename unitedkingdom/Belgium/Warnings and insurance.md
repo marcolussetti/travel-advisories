@@ -1,17 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 June 2025
+:   27 June 2025
 
 Updated:
-:   25 June 2025
+:   26 June 2025
 
 Latest update:
-:   Eurostar services to and from Belgium will be severely disrupted today (25 June). Check your operator’s advice before travelling, including where you are taking connecting trains ('Warnings and insurance' page).
-
-## Eurostar disruption 25 June
-
-Eurostar services to and from Belgium will be severely disrupted today (25 June). Check your operator’s advice before travelling, including where you are taking connecting trains.
+:   Removal of information on disruption to Eurostar services ('Warning and insurance' page).
 
 ## National strike action
 

@@ -28,6 +28,7 @@ Attacks could be indiscriminate and could occur at any time, including in places
 * educational institution
 * international organisations
 * large public gatherings
+* military locations and venues within them
 
 Take particular care during election periods, or periods of religious significance or other public holidays.
 

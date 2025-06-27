@@ -71,9 +71,13 @@ The police may act on reports of illegal gambling in unauthorised premises witho
 
 ### Illegal drugs
 
-Illegal drugs, including cannabis, carry severe penalties. You should expect a long jail sentence and heavy fines for possessing, using or smuggling illegal drugs, including when transiting through the airport.
+Illegal drugs, including cannabis, carry severe penalties. You should expect a long jail sentence and heavy fines for smuggling illegal drugs, including when transiting through the airport.
 
 Airports in Portugal have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
+
+### Local laws governing public behaviour in Albufeira
+
+The municipality of Albufeira has introduced a [Code of Conduct](https://www.cm-albufeira.pt/sites/default/files/RepositorioPublicacoes/2025/cma-regrascomp-regras13jun2025.pdf) which bans inappropriate behaviour in public places. Check out [the rules](https://www.cm-albufeira.pt/sites/default/files/RepositorioPublicacoes/2025/cma-regrascomp-regras13jun2025.pdf) that are now in force. If you break the rules, you could be fined on the spot from between 150 and 1800 euros.
 
 ## Outdoor activities and adventure tourism
 
@@ -137,17 +141,18 @@ Find out what you can do to [prepare for and respond to extreme weather and natu
 
 ### Wildfires
 
-Wildfires can start anywhere in Portugal. Risk of fires is higher when the weather is hot and dry. Fires have become more common due to drought and high temperatures during the summer months.
+There is an increased risk of wildfires from April to October when the weather is hot and dry. Wildfires can start anywhere in Portugal.
 
 Wildfires are highly dangerous and unpredictable. The Portuguese authorities may evacuate areas and close roads for safety reasons. You should:
 
-* familiarise yourself with [local safety and emergency procedures](https://aldeiasseguras.pt/)
+* check the [fire risk index](https://fogos.icnf.pt/rif/Stat_Global_Sensibilizacao_Riscolist2.asp?cmd=search&t=Stat_Global_Sensibilizacao_Risco&z_Distrito=%3D&x_Distrito=Lisboa&s_x_Distrito=s%3DqWdZQQfoL0nvgPIqYxyvA0PCo96bPEO64Kr_WevIwu5pe7gS7lE38M5vMEWB4vcON5LOTfPWSb3kt3hZcepo69CpZHWNk1isNAOYbIl7L3rPXSk4dNC49H7uk_nBT4YQIeBbNEPISi-VbXiJ8jLk_Sy0PwUj1zLCVekURxXZSKGWQXmkvvfaM7RR9FXFhOb06Now8ebhvpYMRmOA2By7UgZ7Doph1OWkVcioDKcYbmH02XBBg_hjdHZSW_r-e3cAX6DuzU7AjWsajA6lmlxI8jcsIjCyxpghUaJSu3X4UTE.%26d%3DDB%26f0%3DFpmwLCgZZEKoWy0G6I4vzcn_Ir0bBCh3Jj5oiA..%26t0%3D200%26fn0%3D&z_Concelho=LIKE&x_Concelho=&s_x_Concelho=s%3DKj1QSYU6d6vtOSr-LV4nbavzwBeNMOlXncgVBJ7Y7t0hLNQ-GhdE0PRVwyByw7LqACxm1qRIoFW-4nxrb8Y_WPCqDoCzZsssEFsPDaXOK55PDWfm2wIzlAi-in0l-IPNWms4TmuQ7E_FP09eYqrSf_VFRNpOrPPdWI_RJjahZKvEvwgZP3acG3QCG_MDqnR962GB3DG1USnjw0L6olALeFkj8DrZ-NIOuezWFg..%26d%3DDB%26f0%3DSV4E0VTr4yFHHgr8lM38VtPvTje7R9iqqtAHDA..%26t0%3D200%26fn0%3D%26f1%3DixGZmwftVA1p4rkBpeiELcB9I00YmTxBNt7hNQyUJAM.%26t1%3D200%26fn1%3D) for your location (in Portuguese)
+* familiarise yourself with [local safety and emergency procedures](https://aldeiasseguras.pt/)
 * follow the advice of the Portuguese authorities
-* call the emergency services on 112 if you see a wildfire
+* call the emergency services on 112 if you see a fire
 
-Starting a wildfire, even if it is by accident, is illegal and you could get a fine or a prison sentence.
+Starting a fire, even if it is by accident, is illegal and you could get a fine or a prison sentence.
 
-For information about active wildfires and forecasts, visit the Portuguese Met Office website for information on [Portugal](http://www.ipma.pt/en/riscoincendio/rcm.pt/) and [Madeira](http://www.ipma.pt/en/riscoincendio/rcm.md/).
+For information about active wildfires and forecasts, visit the Portuguese Met Office website for information on [Portugal](http://www.ipma.pt/en/riscoincendio/rcm.pt/) and [Madeira](http://www.ipma.pt/en/riscoincendio/rcm.md/).
 
 ### Earthquakes
 

@@ -63,6 +63,8 @@ Be cautious when travelling in the Federal Capital Territory. Take advice from t
 
 There are protests in Abuja from time to time, which can turn violent. Monitor local media, avoid demonstrations and large gatherings and follow instructions from local police and security forces.
 
+There has been an increase in intercommunal violence in Benue State, with a number of deaths reported. There may be increased security presence in parts of the state.
+
 ## South East and South South Nigeria
 
 FCDO advises against all travel to the riverine areas (the river and swamp locations accessible by boat, but not by road) of Delta, Bayelsa, Rivers, Akwa Ibom and Cross River states.

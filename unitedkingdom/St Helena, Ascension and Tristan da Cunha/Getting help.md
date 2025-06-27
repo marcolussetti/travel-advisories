@@ -2,7 +2,7 @@
 
 The Foreign, Commonwealth & Development Office (FCDO) cannot provide tailored advice for individual trips. Read this travel advice and carry out your own research before deciding whether to travel.
 
-St Helena, Ascension and Tristan da Cunha are British Overseas Territories. There is no British Embassy, and the local authorities will deal with requests for emergency assistance.
+St Helena, Ascension and Tristan da Cunha are British Overseas Territories. There are no British Embassies, and the local authorities will deal with requests for emergency assistance.
 
 ## Emergency services on St Helena and Ascension
 

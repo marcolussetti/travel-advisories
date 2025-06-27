@@ -1,11 +1,11 @@
 {
     "name": "Nigeria",
-    "update_reason": "New information on completing travel cards ('Entry requirements' page).",
+    "update_reason": "New information on where attacks could take place at any time and new information on intercommunal violence in Benue State ('Safety and security' and 'Regional risks' pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Nigeria/Warnings and insurance.md",
-            "update_date": "2025-06-24T10:45:55+01:00"
+            "update_date": "2025-06-26T09:34:53+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Nigeria/Getting help.md"
         }
     ],
-    "update_date": "2025-06-24T10:45:55+01:00"
+    "update_date": "2025-06-26T09:34:53+01:00"
 }
