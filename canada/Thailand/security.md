@@ -8,7 +8,7 @@ Separatist insurgents periodically perpetrate criminally and politically motivat
 
 These deadly attacks include shootings, bombings and arson, and are usually directed at military, government and security buildings and personnel. They have also occurred in a variety of public places.
 
-Martial law and heavily enhanced security measures are in place in Narathiwat, Pattani, Yala, and Sadao District in Songkhla.
+Martial law and heavily enhanced security measures are in place in Narathiwat, Pattani, and Yala provinces, and the Chana, Na Thawi, Thepha and Saba Yoi, and Districts of Songkhla province.
 
 Increased enforcement powers allow authorities to:
 
@@ -27,11 +27,13 @@ Occasional violence, banditry and clashes between government forces and drug tra
 
 Border crossing points may be closed without notice. Cross at designated border crossing points only, with the required travel documentation.
 
-### Preah Vihear Temple area and surrounding border region
+### Disputed Thailand-Cambodia border region
 
-Thailand and Cambodia have an ongoing border dispute in the region. There are reports of landmines in the Preah Vihear temple area.
+Thailand and Cambodia have an ongoing border dispute in the region. Tensions have increased since an exchange of fire on May 28, 2025. Land border crossings between Thailand and Cambodia may be closed or change their hours of operation unexpectedly.
 
-Exercise a high degree of caution if you are travelling to any other Thai–Cambodian border areas.
+* Expect an increased military presence and vigilance
+* Follow the instructions of local authorities
+* Exercise increased caution if you are travelling to any Thai-Cambodian border areas
 
 ### Political tensions
 
@@ -69,7 +71,9 @@ You should report all criminal incidents to the Thai police in the jurisdiction 
 
 ### Fraud
 
-Many Canadians fall victim to a variety of scams while visiting Thailand. You should report all incidents to the tourist police.
+There is a rise in cases where foreigners have been lured to Thailand with promises of high-paying jobs, only to be kidnapped and forced to work for scams or trafficked into neighbouring countries.
+
+Many Canadians fall victim to a variety of scams while visiting Thailand. Always verify a job offer through official channels. You should report all incidents to the tourist police.
 
 #### Credit card and ATM fraud
 

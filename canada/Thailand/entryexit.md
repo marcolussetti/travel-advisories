@@ -44,17 +44,31 @@ Business visa: not required for stays of up to 60 days
 Student visa: required   
 Working visa: required
 
+[Thai visa applications](https://thaievisa.go.th/)
+
 If you're travelling to Thailand for tourism with a regular Canadian passport, you can obtain a 60-day visa exemption on arrival (no visa required), which can be extended at the Immigration Office for another 30 days maximum at the discretion of the immigration officer.
 
-If you have a Multiple Entry Tourist Visa (METV), you can enter Thailand multiple times during the 6-month period of validity, however each visit must be 60 days or less. The METV visa must be obtained before travelling.
+If you wish to stay longer than 60 days, work or study in Thailand, you must obtain the appropriate visa from the Thai authorities by submitting your application online.
 
-A Destination Thailand Visa (DTV) is valid for five years. This visa allows the holder, their spouse and dependant children, to multiple entries with each stay not exceeding 180 days.
+Avoid using visa agents or intermediaries, as Thai authorities actively monitor and strictly enforce visa regulations. If you have a passport with altered or counterfeit visas or stamps, you could face fines, jail, deportation, and future entry bans.
+
+#### Digital Arrival Card
+
+All travellers must complete a digital arrival card online before they arrive in Thailand. This applies to all points of entry—air, land, or sea.
+
+[Register for a digital arrival card](https://tdac.immigration.go.th/) – Thailand’s Immigration Bureau
+
+#### Multiple Entry Tourist Visa (METV)
+
+A METV is valid for 6 months and allows multiple entries, however each visit must be 60 days or less. The METV must be obtained before travelling.
+
+#### Destination Thailand Visa (DTV)
+
+A DTV is valid for five years. This visa allows multiple entries for the holder, their spouse and dependant children, with each stay not exceeding 180 days.
 
 After the initial maximum stay of 180 days, you will have to leave and re-enter Thailand with the same DTV before it expires. DTVs are issued to remote workers, as well as participants of Muay Thai courses, Thai cooking classes, sports training, medical treatments, seminars, and music festivals.
 
 DTV-holders are not permitted to work for Thai companies.
-
-If you wish to stay longer than 60 days or work or study in Thailand, you must obtain the appropriate visa directly from a Thai embassy or consulate. Please beware of visa intermediaries, visa agents, or visa agencies. Local authorities are actively monitoring and enforcing compliance with visa regulations.
 
 Those applying for non-immigrant visas of category "O-A" need to show proof of a valid health insurance meeting specific criteria.
 
@@ -65,7 +79,7 @@ Those applying for non-immigrant visas of category "O-A" need to show proof of a
 
 ### Other entry requirements
 
-Thai Border officials may ask you to show them a return or onward ticket and proof that you have sufficient funds to support yourself for the duration of your stay.
+You may be asked to show border officials a return or onward ticket and proof that you have sufficient funds to support yourself for the duration of your stay.
 
 If you are unable to do so, you may be denied entry.
 
@@ -81,11 +95,13 @@ The date indicated on your Thai entry stamp determines how long you may stay in 
 
 All foreigners staying in Thailand longer than 3 months must notify Thailand's immigration bureau of their residence every 90 days.
 
+### Overstays
+
 The Royal Thai Police perform random visa checks and strict penalties are enforced for overstaying. Canadians overstaying their visa have been arrested and detained until deportation. Deportation procedures are at the foreigner's own expense and can be lengthy. Detention conditions in immigration detention centres are poor.
 
 If you overstay, regardless of whether you leave Thailand voluntarily or are deported, you may be banned from re-entering Thailand for 1 to 10 years.
 
-[Notification of stay longer than 90 days](https://www.immigration.go.th/en/?page_id=1666)- Thailand's immigration bureau
+[Notification of stay longer than 90 days](https://www.immigration.go.th/en/?page_id=1666) – Thailand's Immigration Bureau
 
 ### Dual citizenship
 

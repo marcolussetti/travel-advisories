@@ -246,3 +246,9 @@ Certain prescription and over-the-counter medications, legally available in Cana
 Consult Singapore’s Health Sciences Authority to determine if you must obtain permission to import some personal medications.
 
 [Bringing personal medication into Singapore](https://www.hsa.gov.sg/personal-medication) - Singapore’s Health Sciences Authority
+
+### Keep in Mind...
+
+The decision to travel is the sole responsibility of the traveller. The traveller is also responsible for his or her own personal safety.
+
+Be prepared. Do not expect medical services to be the same as in Canada. Pack a [travel health kit](http://travel.gc.ca/travelling/health-safety/kit), especially if you will be travelling away from major city centres.

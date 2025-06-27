@@ -2,6 +2,14 @@
 
 ## Safety and security
 
+### Disputed Cambodia-Thailand border region
+
+Cambodia and Thailand have an ongoing border dispute. Tensions have increased since an exchange of fire on May 28, 2025. Land border crossings between Cambodia and Thailand may be closed or have their hours of operation changed unexpectedly.
+
+* Expect an increased military presence and vigilance
+* Follow the instructions of local authorities
+* Exercise increased caution if you are travelling to any Cambodian-Thai border areas
+
 ### Crime
 
 #### Petty crime

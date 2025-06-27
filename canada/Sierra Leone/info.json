@@ -1,7 +1,7 @@
 {
     "name": "Sierra Leone",
-    "update_reason": "Safety and security \u2013 updated information about border areas; Entry an exit \u2013 added information on health screening measures at the airport",
-    "update_date": "2025-06-03T14:21:00",
+    "update_reason": "Health \u2013 editorial update",
+    "update_date": "2025-06-26T14:19:00",
     "sections": {
         "risk": "canada/Sierra Leone/risk.md",
         "security": "canada/Sierra Leone/security.md",

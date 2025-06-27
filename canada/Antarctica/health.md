@@ -166,3 +166,9 @@ There are no search and rescue or emergency evacuation facilities in Antarctica.
 Make sure you get travel insurance that includes coverage for medical evacuation and hospital stays.
 
 [Health and safety outside Canada](https://travel.gc.ca/travelling/health-safety)
+
+### Keep in Mind...
+
+The decision to travel is the sole responsibility of the traveller. The traveller is also responsible for his or her own personal safety.
+
+Be prepared. Do not expect medical services to be the same as in Canada. Pack a [travel health kit](http://travel.gc.ca/travelling/health-safety/kit), especially if you will be travelling away from major city centres.

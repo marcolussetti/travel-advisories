@@ -1,7 +1,7 @@
 {
     "name": "Zambia",
-    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
-    "update_date": "2025-06-02T10:32:00",
+    "update_reason": "Health \u2013 editorial update",
+    "update_date": "2025-06-26T14:19:00",
     "sections": {
         "risk": "canada/Zambia/risk.md",
         "security": "canada/Zambia/security.md",

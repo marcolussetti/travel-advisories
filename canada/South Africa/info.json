@@ -1,7 +1,7 @@
 {
     "name": "South Africa",
-    "update_reason": "Health \u2013 removed the travel health notice for mpox",
-    "update_date": "2025-06-02T12:53:00",
+    "update_reason": "Health \u2013 editorial update",
+    "update_date": "2025-06-26T14:19:00",
     "sections": {
         "risk": "canada/South Africa/risk.md",
         "security": "canada/South Africa/security.md",

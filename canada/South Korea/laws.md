@@ -16,9 +16,22 @@ Penalties for possession, use or trafficking of illegal drugs are severe. Convic
 
 [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
 
+### Medication
+
+You cannot bring medication classified as a controlled substance into South Korea without an import permit, even with a prescription. This includes narcotic and psychotropic drugs.
+
+If you take prescription medications, you're responsible for determining their legality in South Korea. Without proper authorization, these medications may be confiscated, and you could face legal consequences.
+
+To import narcotic and psychotropic substances, you must apply online for approval before you arrive.
+
+#### Useful links
+
+* [Apply for an import permit](https://nedrug.mfds.go.kr/CCAAI01/init) – Ministry of Food and Drug Safety, Republic of Korea
+* [Drug information search](https://nedrug.mfds.go.kr/eng/index) – Government of Korea
+
 ### Support for anti-government organizations
 
-South Korea’s National Security Law prohibits statements and materials that praise anti-government organizations.
+South Korea's National Security Law prohibits statements and materials that praise anti-government organizations.
 
 ### Photography
 
@@ -40,9 +53,9 @@ The Korean government investigates the use of fraudulent documents, degrees and 
 
 ### Dual citizenship
 
-South Korea legally recognizes dual citizenship. If you’re a citizen of Canada, but also a citizen of South Korea, our ability to offer you consular services may be limited while you’re there. You may also be subject to different entry/exit requirements.
+South Korea legally recognizes dual citizenship. If you're a citizen of Canada, but also a citizen of South Korea, our ability to offer you consular services may be limited while you're there. You may also be subject to different entry/exit requirements.
 
-The South Korean government considers children born from a Korean and a non-Korean parent to be South Korean citizens until age 18, even if they weren’t born in South Korea. Former Koreans over 65 who wish to live their remaining years in South Korea may be granted citizenship.
+The South Korean government considers children born from a Korean and a non-Korean parent to be South Korean citizens until age 18, even if they weren't born in South Korea. Former Koreans over 65 who wish to live their remaining years in South Korea may be granted citizenship.
 
 A male dual citizen whose name appears on the Korean family relation certificate may be subject to compulsory military service, even when entering South Korea on a Canadian passport. Before travelling to South Korea, Canadian males of Korean origin may need to renounce their Korean citizenship or have their names removed from the Korean family relation certificate to avoid this requirement.
 

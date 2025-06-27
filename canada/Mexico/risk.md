@@ -10,7 +10,10 @@
 
 [Avoid non-essential travel](#levels "Risk Levels") to the following states due to high levels of violence and organized crime:
 
-* Chiapas, excluding the cities of Palenque via highway 186 from Villahermosa, San Cristobal de las Casas and Tuxtla Gutiérrez
+* Chiapas, excluding:
+  + the city and ruins of Palenque (and highway 186 leading there)
+  + the city of Tuxtla Gutiérrez (and its airport and the main road leading there)
+  + the city of San Cristobal de las Casas (and toll highway 190D between this city and Tuxtla Gutiérrez)
 * Chihuahua, excluding Chihuahua City
 * Colima, excluding the city of Manzanillo if accessed by air
 * Guanajuato, in all areas south of and including highways 43D and 45D

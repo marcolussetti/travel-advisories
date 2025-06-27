@@ -16,7 +16,7 @@ Police may still require that you produce the original document. If you fail to 
 
 ### Drugs
 
-Penalties for possession, use or trafficking of illegal drugs, including cannabis, are very severe. Convicted offenders can expect heavy fines, jail sentences or even the death penalty.
+Penalties for possession, use or trafficking of illegal drugs are very severe. Convicted offenders can expect heavy fines, jail sentences or even the death penalty.
 
 Police regularly perform spot checks to search for illegal drugs, particularly in and around entertainment venues. Uniformed or undercover police may conduct physical searches and may screen your belongings. You may be asked to provide a urine sample.
 
@@ -36,7 +36,7 @@ It is illegal to promote the consumption of alcohol. You could be fined or taken
 
 It is prohibited to import, possess or use e-cigarettes, vaporisers, e-baraku (e-hashish) and their refills. Convicted offenders can expect heavy fines or jail sentences of up to 10 years.
 
-A smoking ban is in effect on several beaches across the country and is punishable by a 100,000-baht fine and up to 1 year in prison.
+Smoking is prohibited in all public places. A smoking ban is in effect on several beaches across the country and is punishable by a 100,000-baht fine and up to 1 year in prison.
 
 Check with local authorities and look for no-smoking signs before smoking on a beach.
 

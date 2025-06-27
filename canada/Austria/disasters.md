@@ -28,5 +28,5 @@ Always carefully follow the advice of local authorities.
 
 #### Useful links
 
-* [LAWIS](https://lawis.at/station/?table=true&zoom=7&lang=en&intro=false&focus=true¢er=48.87194147722911%2C11.359863281250002&last_sid=348&zeit=180&last_iid=10969#348) – Avalanche Warning Service Information System
+* [LAWIS](https://lawis.at/station/?table=true&zoom=7&lang=en&intro=false&focus=true&center=48.87194147722911%2C11.359863281250002&last_sid=348&zeit=180&last_iid=10969#348) – Avalanche Warning Service Information System
 * [Avalanche forecasting and warnings](http://www.avalanches.org/) - European Avalanche Warning Services (EAWS)
