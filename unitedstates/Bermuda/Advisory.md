@@ -54,7 +54,7 @@ Fax
 
 Email
 
-[mailto:HamiltonConsulate@state.gov](mailto: mailto:HamiltonConsulate@state.gov "Embassy email address: mailto:HamiltonConsulate@state.gov")
+[HamiltonConsulate@state.gov](mailto: HamiltonConsulate@state.gov "Embassy email address: HamiltonConsulate@state.gov")
 
 Website
 
