@@ -2,7 +2,7 @@
 
 Latest update
 
-We continue to advise exercise normal safety precautions in Switzerland.
+The UEFA Women’s Euro 2025 tournament will be held across several cities in Switzerland from 2 to 27 July. Expect increased activity around match venues and fan zones. Public transport networks may be congested, especially before and after games. Large-scale events often attract petty crime, including pickpocketing. Remain vigilant and secure personal belongings, especially in crowded areas. See our advice on going overseas for a major event page to understand the extra precautions you may need to take (see 'Safety').
 
 Advice Level summary
 
@@ -22,6 +22,7 @@ Exercise normal safety precautions in Switzerland.
 
 ### Safety
 
+* The UEFA Women’s Euro 2025 tournament will be held across several cities in Switzerland from 2 to 27 July. Expect increased activity around match venues and fan zones. Public transport networks may be congested, especially before and after games. Large-scale events often attract petty crime, including pickpocketing. Remain vigilant and secure personal belongings, especially in crowded areas. See our advice on [going overseas for a major event](/before-you-go/major-events "Going overseas for a major event") page to understand the extra precautions you may need to take.
 * Serious crime levels are low, but petty crime is on the rise. Take care at tourist spots and on transport, including overnight trains. Watch out for thieves who use distraction techniques. Keep your belongings close.
 * Terrorists have targeted European cities, including transport hubs, churches, other houses of worship and places visited by travellers. Always be alert. Take official warnings seriously.
 * Avalanches, flash floods, rock falls, mudslides and sudden weather changes occur in alpine areas. Monitor local weather. Follow the advice of authorities. Stick to marked slopes and trails when skiing.

@@ -4,25 +4,11 @@
 
 #### Security situation
 
-We advise exercise a high degree of caution in New Caledonia overall due to the risk of civil disorder and violence. We also advise reconsider your need to travel to some areas, due to an increased risk of civil disorder and violence. Political tensions and unrest may increase at short notice. There's an increased police and security presence. Authorities may impose restrictions, including curfews, at short notice. 
+We advise exercise a high degree of caution in New Caledonia overall due to the risk of civil disorder and violence. Political tensions and unrest may increase at short notice. There's an increased police and security presence. Authorities may impose restrictions, including curfews, at short notice. 
 
-Significant civil disorder, violence and arson attacks occurred across New Caledonia in May 2024. Always pay close attention to your personal security and your surroundings. The security situation remains tense in New Caledonia. 
-
-Reconsider your need to travel to the following areas due to the increased risk of civil disorder and violence.
-
-* The Loyalty Islands
-* Iles de Pins; and
-* Inland of the coastal strip between Mt Dore and Kone. This includes travel on:  
-  RT1 north of Kone  
-  RPN2 east of Kone  
-  RT3 east of Borail  
-  RP5 east of Fonwhary (past access road to Farino)  
-  RP4 east of Boulouparis  
-  RT1 south of Noumea past St Louis
+Significant civil disorder, violence and arson attacks occurred across New Caledonia in May 2024. Always pay close attention to your personal security and your surroundings. There is a continued risk of disruption due to civil disorder and violence.  
 
 Political demonstrations and protests may turn violent at short notice. Some essential services are impacted. Follow the advice of local authorities.
-
-Australian officials have been advised to follow heightened security measures, including while travelling through New Caledonia.
 
 #### Demonstrations and protests
 

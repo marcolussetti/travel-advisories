@@ -2,7 +2,9 @@
 
 Latest update
 
-We continue to advise exercise a high degree of caution in Uganda overall. Higher levels apply to the border areas with South Sudan and the Democratic Republic of Congo. Terrorism remains a threat in Uganda. Targets may include large gatherings, worship, music and cultural festivals, hotels, bars and other tourist areas (see 'Safety'). There's currently an outbreak of mpox in parts of Africa, including in Uganda (see 'Health'). If you plan to take part in surrogacy arrangements in Uganda, be aware of all legal and other risks involved (see 'Local laws').
+We continue to advise exercise a high degree of caution in Uganda overall. Higher levels apply to the border areas with South Sudan and the Democratic Republic of Congo. Terrorism remains a threat in Uganda. Targets may include large gatherings, worship, music and cultural festivals, hotels, bars and other tourist areas (see 'Safety'). There's currently an outbreak of mpox in parts of Africa, including in Uganda (see 'Health'). If you plan to take part in surrogacy arrangements in Uganda, be aware of all legal and other risks involved (see 'Local laws').  
+  
+The Australian Consulate in Kampala closes on 30 June. Consular services are available from the Australian High Commission in Nairobi.
 
 Advice Level summary
 
@@ -78,8 +80,8 @@ Full travel advice: [Travel](#travel)
 ### Local contacts
 
 * The [Consular Services Charter](/consular-services/consular-services-charter "Consular Services Charter") details what the Australian Government can and can't do to help you overseas.
-* The Australian Consulate in Kampala can provide limited consular help.
-* You can get full consular help from the [Australian High Commission in Kenya](http://kenya.highcommission.gov.au/nair/home.html).
+* The Australian Consulate in Kampala closes on 30 June 2025. Consular services are available from the Australian High Commission in Nairobi.
+* You can get full consular assistance from the [Australian High Commission in Kenya](http://kenya.highcommission.gov.au/nair/home.html).
 * To stay up to date with local information, follow the High Commission’s social media accounts.
 
 Full travel advice: [Local contacts](#local-contacts)

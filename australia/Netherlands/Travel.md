@@ -12,7 +12,7 @@ Always carry your passport when crossing borders, in the [Schengen area](/befor
 
 Entry and exit conditions can change at short notice. Contact the nearest [Australian embassy or consulate](http://dfat.gov.au/about-us/our-locations/missions/Pages/our-embassies-and-consulates-overseas.aspx) for details about visas, currency, customs and quarantine rules. 
 
-From 9 December 2024, the Netherlands will have temporary border checks along its land borders with [Belgium](/destinations/europe/belgium "Belgium") and [Germany](/destinations/europe/germany "Germany") for 6 months.
+From 9 December 2024, the Netherlands will have temporary border checks along its land borders with [Belgium](/destinations/europe/belgium "Belgium") and [Germany](/destinations/europe/germany "Germany") for 12 months.
 
 **More information:**
 

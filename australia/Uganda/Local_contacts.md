@@ -30,21 +30,9 @@ Your insurer should have a 24-hour emergency number.
 
 Read the [Consular Services Charter](/consular-services/consular-services-charter "Consular Services Charter") for what the Australian Government can and can't do to help you overseas.
 
-The Australian Consulate in Kampala provides limited consular help to Australians in Uganda. The consulate doesn't issue passports.
+The Australian Consulate in Kampala closes on 30 June 2025.
 
-Full consular help is available from the Australian High Commission in Kenya.
-
-#### Australian Consulate, Kampala
-
-Protea Hotel by Marriott Kampala Skyz  
-1 Water Lane Naguru  
-Kampala, Uganda
-
-Phone: (+256) 31 2515865 or (+256) 77 2202285
-
-Email: [australianconsulate.ug@gmail.com](mailto:australianconsulate.ug@gmail.com)
-
-By appointment only.
+Consular assistance is available from the Australian High Commission in Kenya.
 
 #### Australian High Commission, Nairobi
 

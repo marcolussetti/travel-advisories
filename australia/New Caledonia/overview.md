@@ -2,7 +2,7 @@
 
 Latest update
 
-We advise exercise a high degree of caution in Noumea and western coastal areas between Kone and Noumea. We also continue to advise reconsider your need to travel to other parts of the country, including Loyalty islands and IIes de Pins and inland of the western coastal areas on Grand Terre, including on some major roads (see 'Safety').   
+We’ve reviewed our advice and now advise exercise a high degree of caution for all areas of New Caledonia, after lowering our advice level for the Loyalty Islands, IIes de Pins and inland of the western coastal areas on Grand Terre.  
   
 Political tensions and civil unrest may increase at short notice. Demonstrations and protests may turn violent at short notice. Avoid demonstrations and public gatherings. There’s still a high police and security presence in country. Be aware of your personal security and belongings. Isolated security incidents, including arson, may occur across the territory. Some essential services are affected. Monitor local media and follow the advice of local authorities (see 'Safety').
 
@@ -10,39 +10,22 @@ Advice Level summary
 
 We advise:
 
-Exercise a high degree of caution in New Caledonia overall due to the risk of civil disorder and violence.
-
-Higher levels apply in some areas.
+Exercise a high degree of caution in New Caledonia due to the risk of civil disorder and violence.
 
 ## Advice levels
 
 [What does this mean?](/before-you-go/travel-advice-explained/)
 
-[Exercise a high degree of caution](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level2) in New Caledonia overall.
+[Exercise a high degree of caution](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level2) in New Caledonia.
 
-[Exercise a high degree of caution](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level3) in New Caledonia overall due to the risk of civil disorder and violence.
-
-[Reconsider your need to travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level3) to the Loyalty Islands; Iles de Pins; and inland of the coastal strip between Mt Dore and Kone.
-
-[Reconsider your need to travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level3) to the following areas due to the increased risk of civil disorder and violence.
-
-* The Loyalty Islands
-* Iles de Pins; and
-* Inland of the coastal strip between Mt Dore and Kone. This includes travel on:  
-  RT1 north of Kone  
-  RPN2 east of Kone  
-  RT3 east of Borail  
-  RP5 east of Fonwhary (past access road to Farino)  
-  RP4 east of Boulouparis  
-  RT1 south of Noumea past St Louis
+[Exercise a high degree of caution](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level3) in New Caledonia due to the risk of civil disorder and violence.
 
 ## Overview
 
 ### Safety
 
-* We advise exercise a high degree of caution in Noumea and western coastal areas between Kone and Noumea. We continue to advise reconsider your need to travel to other parts of the country, including Loyalty islands and IIes de Pins and inland of the western coastal areas on Grand Terre, including on some major roads (see 'Safety' below).
 * Political tensions and unrest may increase at short notice. Be alert to personal safety risks. There’s a high police and security presence. Authorities may impose restrictions, including curfews, at short notice.
-* Security incidents, including arson and carjackings, continue across the country. Political demonstrations and protests may turn violent at short notice. Some essential services, including healthcare, are affected.
+* Security incidents, including arson, continue across the country. Political demonstrations and protests may turn violent at short notice. Some essential services, including healthcare, are affected.
 * Car theft, vehicle break-ins and household break-and-enters occur. Look after your belongings and always lock your car and accommodation.
 * Cyclone season is from November to May, but cyclones and severe weather can occur at any time. They can cause landslides and flooding and may disrupt essential services. For more information read the [New Caledonia's cyclone alert system](https://securite-civile.gouv.nc/prevention-risques-majeurs/risques-naturels/cyclones) website (in French).
 * New Caledonia can experience earthquakes, tsunamis and bushfires. A tsunami can arrive within minutes of a tremor or earthquake. Monitor the websites of the [New Caledonian Department of Emergency Management](https://securite-civile.gouv.nc/) (in French with safety instructions in English for cyclone alert levels) and the [New Caledonian Weather Bureau](http://www.meteo.nc/) (in French) for updates. Your tour operator or accommodation provider may also be able to provide advice.
