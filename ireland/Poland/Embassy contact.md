@@ -3,7 +3,7 @@
 The Embassy’s public office is open from Monday to Friday between 09:30-12:30 and 14:30-16:30.  
  Visitors can also follow the Embassy on Facebook (@AmbasadaIrlandii) and on X (@IrlEmbWarsaw).
 
-The Embassy operates a weekend out-of-hours service for Irish citizens requiring emergency assistance. If emergency assistance is needed, please call the main Embassy number +48 22 564 2200 and follow the recorded instructions to reach the Embassy Duty Officer. Alternatively, citizens may contact the Duty Officer at the Department of Foreign Affairs in Dublin at +353 (0)1 408 2000.
+The Embassy operates a weekend out-of-hours service for Irish citizens requiring emergency assistance. If emergency assistance is needed, please call the main Embassy number +48 22 564 2200 and follow the recorded instructions to reach the Embassy Duty Officer. Alternatively, citizens may contact the Duty Officer at the Department of Foreign Affairs and Trade in Dublin at +353 (0)1 408 2000.
 
 More information on Honorary Consuls can be found here: [**https://www.dfa.ie/travel/our-services/honorary-consuls/**](https://www.ireland.ie/en/dfa/embassies/)
 

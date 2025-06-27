@@ -4,7 +4,13 @@
 
 Same-sex sexual activity is legal in Hungary. Budapest is generally tolerant and open. Outside of Budapest, however, showing affection in public may receive unwanted attention.
 
-On 19 March 2025, Hungary passed legislation that could be used as a legal basis to ban future rallies and marches that depict or promote LGBT+ identities to minors. Participants in unsanctioned events could be identified by facial recognition technology and face fines of up to 200,000 Hungarian Forints. If you are planning to attend Budapest Pride, you should follow local media and the Embassy of Ireland’s social media for updates.
+On 19 March 2025, Hungary passed legislation that could be used as a legal basis to ban future rallies and marches that depict or promote LGBT+ identities to minors. Participants in unsanctioned events could be identified by facial recognition technology and face fines of up to 200,000 Hungarian Forints. The Hungarian government has declared that it considers Pride demonstrations planned for June 28, 2025, to be illegal. Counter-demonstrations have been announced and approved.
+
+We recommend [registering your travel with the Embassy](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/). The Embassy urges you to follow the authorities' updates and local media, and maintain awareness of events if you are in Budapest on 28 June. The Facebook page of the Budapest Police can be found [here](https://www.facebook.com/p/BRFK-Budapesti-Rend%C5%91r-f%C5%91kapit%C3%A1nys%C3%A1g-100079994174246/). Caution should be exercised and remember that participation in events may be illegal under Hungarian law and is at your own risk.
+
+The Hungarian Helsinki Committee has published a question-and-answer compilation on the subject, which can be found in the [here](https://helsinki.hu/en/pride2025/). The Budapest Pride organization has also published information on its own [on its website](https://budapestpride.hu/en/news/legal-information-about-the-30th-budapest-pride-march/).
+
+The Hungarian authorities are responsible for public safety in Hungary, including these events. In emergencies, the general emergency number is 112. The Ministry for Foreign Affairs is on call 24/7: +358 9 1605 5555.
 
 ### **Road safety awareness**
 

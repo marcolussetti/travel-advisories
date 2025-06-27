@@ -30,10 +30,10 @@ Policy should cover:
 
 Exclusions: Most insurance policies will not cover drink or drug-related incidents.
 
-### **Medical emergency**
+### **Medical Emergency**
 
 To locate the nearest clinic operating an emergency service, contact the 24-hour hotline of the German Doctors’ Association on 116 117. An emergency pharmacy service (“Notapotheken”) also operates throughout Germany. The emergency pharmacy in any area changes every day. Enter your German postal code at the website of the [**German Association of Pharmacists**](http://www.aponet.de/service/notdienstapotheke-finden.html) to locate the nearest pharmacy offering an emergency service that evening. The website of the Embassy of Ireland in Berlin contains a list of [**English speaking medical facilities.**](https://www.ireland.ie/693/Updated-2016-English-speaking-doctors-Germany.pdf)
 
-### **Long term stays**
+### **Long Term Stays**
 
 Health insurance is a legal requirement if you intend to reside in Germany. An EHIC card is not sufficient for longer stays as it does not cover routine care.

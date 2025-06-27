@@ -38,15 +38,7 @@ Spain
 
 ### Honorary Consul of Ireland, Barcelona
 
-Ms. Susana Ferrer   
-Avda. Diagonal 640   
-Planta 8 D   
-08017 Barcelona   
-Spain
-
-[Tel: +34 932 553 383](tel:+34932 553 383)
-
-**Email:** [barcelona@honoraryconsul.ie](mailto:barcelona@honoraryconsul.ie)
+(Temporarily Closed Until Further Notice)
 
 ### Honorary Consul General of Ireland, Bilbao
 

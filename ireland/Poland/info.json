@@ -3,29 +3,33 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Poland/Overview.md"
+            "title": "Travel to Poland overview",
+            "file": "ireland/Poland/Travel to Poland overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Poland/Safety and security.md"
         },
         {
+            "title": "Health",
+            "file": "ireland/Poland/Health.md"
+        },
+        {
             "title": "Local laws and customs",
             "file": "ireland/Poland/Local laws and customs.md"
         },
         {
-            "title": "Dual Nationals",
-            "file": "ireland/Poland/Dual Nationals.md"
+            "title": "Natural disasters and climate",
+            "file": "ireland/Poland/Natural disasters and climate.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Poland/Additional information.md"
+            "title": "Entry requirements",
+            "file": "ireland/Poland/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Poland/Embassy contact.md"
         }
     ],
-    "update_date": "2025-05-13T00:00:00"
+    "update_date": "2025-06-26T00:00:00"
 }

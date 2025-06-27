@@ -13,15 +13,15 @@ Crime remains relatively low in Latvia but you should take sensible precautions:
 * There have been a number of thefts in hostels so take particular care of belongings when using these.
 * There are a number of scams operated by some strip/lap-dancing bars/clubs. Always ask the price of the drink before ordering and pay for each drink as it is ordered. Specify the exact drink you would like to order.
 
-### **Reporting crime**
+### **Reporting Crime**
 
-If victim of a crime while in Latvia, report it to the local police immediately, call 110 or 112, before contacting the [Irish Embassy in Riga](/en/latvia/riga/).
+If victim of a crime while in Latvia, report it to the local police immediately, call 110 or 112, before contacting the [**Irish Embassy in Riga**](/en/latvia/riga/).
 
 ### **Riga City Tourism Police**
 
 The Riga City Tourist Police Department provides a 24-hour English-language service for tourists to Riga in difficulties, or who would like to register a complaint about their treatment in Riga.  The telephone number to call is +371 67181818.
 
-### **Passport loss/theft**
+### **Lost or Stolen Passport**
 
 If your passport is lost or stolen in Rīga, firstly report the loss or theft to the police station at Matīsa iela 9 (between Brīvības and Tērbatas iela, ph: +371 67086200). This station is responsible for the Old City area.
 
@@ -41,7 +41,7 @@ If driving, it is recommended to:
 * It is forbidden to drive while smoking or using a cell phone.
 * Use dimmed headlights at all times
 
-**Car Rental**
+### **Car Rental**
 
 If hiring a vehicle, we advise not to hand over your passport as a form of security. If allowing your passport to be photocopied, keep it in sight at all times.
 

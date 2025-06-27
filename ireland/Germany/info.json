@@ -3,29 +3,29 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Germany/Overview.md"
+            "title": "Travel to Germany overview",
+            "file": "ireland/Germany/Travel to Germany overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Germany/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Germany/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Germany/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Germany/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/Germany/Local laws and customs.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/Germany/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Germany/Embassy contact.md"
         }
     ],
-    "update_date": "2025-03-04T00:00:00"
+    "update_date": "2025-06-26T00:00:00"
 }

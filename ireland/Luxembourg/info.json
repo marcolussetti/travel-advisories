@@ -3,29 +3,29 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Luxembourg/Overview.md"
+            "title": "Travel to Luxembourg overview",
+            "file": "ireland/Luxembourg/Travel to Luxembourg overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Luxembourg/Safety and security.md"
         },
         {
+            "title": "Health",
+            "file": "ireland/Luxembourg/Health.md"
+        },
+        {
             "title": "Local laws and customs",
             "file": "ireland/Luxembourg/Local laws and customs.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Luxembourg/Additional information.md"
-        },
-        {
-            "title": "Health",
-            "file": "ireland/Luxembourg/Health.md"
+            "title": "Entry requirements",
+            "file": "ireland/Luxembourg/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Luxembourg/Embassy contact.md"
         }
     ],
-    "update_date": "2024-02-22T00:00:00"
+    "update_date": "2025-06-26T00:00:00"
 }

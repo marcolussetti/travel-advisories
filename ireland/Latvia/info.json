@@ -3,29 +3,33 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Latvia/Overview.md"
+            "title": "Travel to Latvia overview",
+            "file": "ireland/Latvia/Travel to Latvia overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Latvia/Safety and security.md"
         },
         {
+            "title": "Health",
+            "file": "ireland/Latvia/Health.md"
+        },
+        {
             "title": "Local laws and customs",
             "file": "ireland/Latvia/Local laws and customs.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Latvia/Additional information.md"
+            "title": "Natural disasters and climate",
+            "file": "ireland/Latvia/Natural disasters and climate.md"
         },
         {
-            "title": "Health",
-            "file": "ireland/Latvia/Health.md"
+            "title": "Entry requirements",
+            "file": "ireland/Latvia/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Latvia/Embassy contact.md"
         }
     ],
-    "update_date": "2025-03-06T00:00:00"
+    "update_date": "2025-06-26T00:00:00"
 }

@@ -3,29 +3,29 @@
     "risk_level": "Avoid Non-Essential Travel",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Gabon/Overview.md"
+            "title": "Travel to Gabon overview",
+            "file": "ireland/Gabon/Travel to Gabon overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Gabon/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Gabon/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Gabon/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Gabon/Additional information.md"
+            "title": "Local Laws and Customs",
+            "file": "ireland/Gabon/Local Laws and Customs.md"
+        },
+        {
+            "title": "Entry Requirements",
+            "file": "ireland/Gabon/Entry Requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Gabon/Embassy contact.md"
         }
     ],
-    "update_date": "2024-12-09T00:00:00"
+    "update_date": "2025-06-26T00:00:00"
 }

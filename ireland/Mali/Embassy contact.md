@@ -1,6 +1,6 @@
 ## Embassy contact
 
-We do not have an Embassy in Mali, please contact our office in Dublin.
+Ireland does not have an Embassy or Consulate in Mali. Citizens in need of consular assistance should contact the Department of Foreign Affairs and Trade.
 
 24 hours a day, 7 days a week
 

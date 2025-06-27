@@ -3,29 +3,33 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Malta/Overview.md"
+            "title": "Travel to Malta overview",
+            "file": "ireland/Malta/Travel to Malta overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Malta/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Malta/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Malta/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Malta/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/Malta/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/Malta/Natural disasters and climate.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/Malta/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Malta/Embassy contact.md"
         }
     ],
-    "update_date": "2024-10-03T00:00:00"
+    "update_date": "2025-06-26T00:00:00"
 }

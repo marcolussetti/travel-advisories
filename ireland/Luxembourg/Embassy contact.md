@@ -4,7 +4,7 @@ In case of a genuine emergency (death, serious illness, arrest, etc.) a message 
 
 This is an emergency number and only for cases that cannot wait until the office reopens.
 
-Alternatively contact the duty officer at the Department of Foreign Affairs in Dublin on +353 1 408 2000.
+Alternatively contact the duty officer at the Department of Foreign Affairs and Trade in Dublin on +353 1 408 2000.
 
 Monday to Friday 10:00-12:30
 

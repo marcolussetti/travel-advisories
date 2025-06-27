@@ -1,5 +1,7 @@
 ## Embassy contact
 
+**Citizens in need of consular assistance should contact the Department of Foreign Affairs and Trade.**
+
 Citizens can contact our Consular Assistance Unit for guidance on the nearest assistance and we will help as best we can.
 
 Our number is: +353 1 408 2000.

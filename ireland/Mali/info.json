@@ -3,29 +3,29 @@
     "risk_level": "Do Not Travel",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Mali/Overview.md"
+            "title": "Travel to Mali overview",
+            "file": "ireland/Mali/Travel to Mali overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Mali/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Mali/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Mali/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Mali/Additional information.md"
+            "title": "Local Laws and Customs",
+            "file": "ireland/Mali/Local Laws and Customs.md"
+        },
+        {
+            "title": "Entry Requirements",
+            "file": "ireland/Mali/Entry Requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Mali/Embassy contact.md"
         }
     ],
-    "update_date": "2025-05-21T00:00:00"
+    "update_date": "2025-06-26T00:00:00"
 }
