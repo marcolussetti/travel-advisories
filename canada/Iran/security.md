@@ -2,11 +2,13 @@
 
 ## Safety and security
 
-### Tensions between Iran and Israel
+### Tensions in the Middle East
 
-Tensions remain high between Iran and Israel and hostilities could resume with little or no warning. During previous attacks, drones, missiles and other projectiles have struck targets in Iran.
+There are ongoing tensions in the region and hostilities could resume with little or no warning. During previous attacks, drones, missiles and other projectiles have struck targets in Iran.
 
-The Iranian airspace is open, however commercial flight options may be limited. Heightened tensions could result in:
+Iranian airspace is open, however commercial flight options may be limited.
+
+Heightened tensions could result in:
 
 * travel disruptions, including flight cancellations and airspace closures
 * military debris falling in various locations
@@ -19,8 +21,7 @@ Canada is unable to provide assistance within Iran, including transportation to 
 + Sero/Esendere
 
 * To Armenia:
-
-+ Nordoz/Agarak
+  + Nordoz/Agarak
 
 * To Azerbaijan:
 
@@ -34,7 +35,7 @@ You should:
 
 * monitor local and international media to stay informed of the rapidly evolving situation
 * follow the instructions of local authorities at all times
-* register or update your personal information through the [Registration of Canadians Abroad service](https://travel.gc.ca/travelling/registration "https://travel.gc.ca/travelling/registration") to receive the latest information from the Government of Canada,
+* register or update your personal information through the [Registration of Canadians Abroad service](https://travel.gc.ca/travelling/registration "https://travel.gc.ca/travelling/registration") to receive the latest information from the Government of Canada.
 
 If you encounter any debris or fragments:
 

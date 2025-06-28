@@ -2,9 +2,9 @@
 
 ## Risk level
 
-### JORDAN - AVOID NON-ESSENTIAL TRAVEL
+### Jordan - Exercise a high degree of caution
 
-[Avoid non-essential travel](#levels "Risk Levels") to Jordan due to ongoing conflict in the region, the risk of falling military debris from intercepted projectiles, and airspace closures.
+[Exercise a high degree of caution](#levels "Risk Levels") in Jordan due to ongoing tensions in the region and demonstrations.
 
 ### Border with Syria - Avoid all travel
 
@@ -17,3 +17,7 @@
 ### Northeastern Jordan, east of Ruwaished - Avoid all travel
 
 [Avoid all travel](#levels "Risk Levels") to the east of the city of Ruwaished, in northeastern Jordan, due to military activity and the lack of emergency facilities.
+
+### Refugee camps - Avoid non-essential travel
+
+[Avoid non-essential travel](#levels "Risk Levels") to to all refugee camps, including Zaatari and Azraq due to the unpredictable security situation

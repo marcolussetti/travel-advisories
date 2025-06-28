@@ -2,6 +2,15 @@
 
 ## Safety and security
 
+### Zagreb Hippodrome concert
+
+A very large-scale music concert is scheduled to take place at the Zagreb Hippodrome on July 5, 2025. Increased security measures will be in place in the period surrounding the concert. More than 500,000 people are expected to attend the event.
+
+* Expect disruptions and road closures
+* Allow plenty of time to reach your destination
+* Be vigilant near or in large crowds
+* Follow the instructions of local authorities
+
 ### Crime
 
 The violent crime rate is low. Petty crime, such as pickpocketing and purse snatching, is common.

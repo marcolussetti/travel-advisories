@@ -20,7 +20,7 @@ Penalties for possession, use or trafficking of illegal drugs are severe. Convic
 
 ### 2SLGBTQI+ persons
 
-A new child protection law passed in March 2025 could be the legal basis to ban future 2SLGBTQI+ Pride events, including the Budapest Pride March. This law also allows authorities to use facial recognition technology to identify and fine anyone who takes part in these events.
+A new child protection law passed in March 2025 has been used to ban the Budapest Pride March and could continue to be used as the legal basis to ban future 2SLGBTQI+ Pride events. This law also allows authorities to use facial recognition technology to identify and fine anyone who takes part in these events.
 
 Hungarian law doesn’t prohibit sexual acts between individuals of the same sex. However, homosexuality isn’t widely accepted in Hungarian society.
 

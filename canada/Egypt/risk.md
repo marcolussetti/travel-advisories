@@ -4,7 +4,7 @@
 
 ### Egypt - Exercise a high degree of caution
 
-[Exercise a high degree of caution](#levels "Risk Levels") in Egypt due to ongoing hostilities in the region, the unpredictable security situation and the threat of terrorism.
+[Exercise a high degree of caution](#levels "Risk Levels") in Egypt due to ongoing tensions in the region, the unpredictable security situation and the threat of terrorism.
 
 ### Northern Sinai - Avoid all travel
 

@@ -2,11 +2,13 @@
 
 ## Safety and security
 
-### Demonstrations throughout Kenya
+### Demonstrations across Kenya
 
-Demonstrations are scheduled to take place in Nairobi and across Kenya on June 25, 2025. Spontaneous gatherings and demonstrations may also occur before or after this date.
+Since June 25, 2025, demonstrations have been taking place in Nairobi and across Kenya.
 
-Even peaceful demonstrations can turn violent at any time. They can also lead to disruption to traffic and public transportation. Telecommunications and Internet access may also be disrupted.
+Violent incidents, including shootings and looting, have led to casualties
+
+Demonstrations can turn violent at any time. They can also lead to disruption to traffic and public transportation. Telecommunications and Internet access may also be disrupted.
 
 Authorities may impose curfews and restrict movement without notice.
 

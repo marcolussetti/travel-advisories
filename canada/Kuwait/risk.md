@@ -4,7 +4,7 @@
 
 ### KUWAIT - Exercise a high degree of caution
 
-[Exercise a high degree of caution](#levels "Risk Levels") in Kuwait due to ongoing hostilities in the region and the threat of terrorism.
+[Exercise a high degree of caution](#levels "Risk Levels") in Kuwait due to ongoing tensions in the region and the threat of terrorism.
 
 ### Border with Iraq - Avoid all travel
 

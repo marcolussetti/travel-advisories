@@ -4,7 +4,7 @@
 
 ### Saudi Arabia - Exercise a high degree of caution
 
-[Exercise a high degree of caution](#levels "Risk Levels") in Saudi Arabia due to ongoing hostilities in the region, the threat of terrorist attacks and security incidents.
+[Exercise a high degree of caution](#levels "Risk Levels") in Saudi Arabia due to ongoing tensions in the region, the threat of terrorist attacks and security incidents.
 
 ### Border with Yemen - Avoid all travel
 

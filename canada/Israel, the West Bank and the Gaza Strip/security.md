@@ -2,49 +2,33 @@
 
 ## Safety and security
 
-### Ongoing hostilities between Israel and Iran
+### Tensions in the Middle East
 
-Drones, missiles and other projectiles have struck targets in Israel.
+There are ongoing tensions in the region. Hostilities could resume with little or no warning. During previous attacks, drones, missiles and other projectiles have struck targets in Israel.
 
-Interceptions can produce falling military debris in Israel, Jerusalem and the West Bank. A nationwide state of emergency is currently in effect in Israel.
+Ben Gurion International Airport is open to commercial flights. However, ongoing tensions could result in:
 
-You should remain close to a bomb shelter or be prepared to shelter in a hardened structure away from windows in case air raid sirens activate.
+* travel disruptions, including flight cancellations and airspace closures
+* military debris falling in various locations.
 
-Ben Gurion International Airport is open to commercial flights. The Israeli government is coordinating evacuation flights for tourists. You can register through this [form](https://govforms.gov.il/mw/forms/TouristEvacuationFromIsrael@tourism.gov.il?displang=en&gbxid=0) created by the Israeli Ministry of Tourism.
+Land border crossings with Jordan and Egypt remain open. For West Bank ID holders, the Allenby/King Hussein bridge near Jericho is the only available exit option. You must obtain a visa in advance before crossing.
 
-If you wish to leave Israel now and can do so safely, there are also commercial options, including maritime routes to Cyprus and border crossings with:
-
-* Jordan:
-  + Jordan River/Sheikh Hussein Bridge, in the north of Israel ([obtain a visa online in advance](https://moi.gov.jo/EN/Pages/Visa_E_Applications "https://moi.gov.jo/en/pages/visa_e_applications"))
-  + Allenby/King Hussein Bridge, near Jericho in the West Bank (only exit option for West Bank ID holders. Obtain a visa from local authorities in advance before crossing)
-  + Yitzak/Aqaba, near Eilat in the south of Israel ([obtain a visa online in advance](https://moi.gov.jo/EN/Pages/Visa_E_Applications "https://moi.gov.jo/en/pages/visa_e_applications"))
-* Egypt:
-  + Menahem Begin/Taba, from southern Israel into the Sinai Peninsula (visa available on-arrival)
-
-If you travel to a border crossing to leave Israel, Jerusalem, or the West Bank, you do so at your own risk. The border of Gaza is closed.
-
-You should register and update your contact information through the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration "https://travel.gc.ca/travelling/registration") service to receive the latest information from the Government of Canada, including updates about travel options.
-
-The security situation may cause disruptions to movement and transportation, including border closures or restrictions, especially in the West Bank. These restrictions could make it difficult to reach the Allenby border crossing, which is the only exit option for West Bank ID holders, even if you have a Canadian passport.
-
-Check the status of the border crossings before heading there, and be aware that your personal situation could increase the risks to your safety and security in the country you’re crossing into. It could also affect your ability to enter. If you have dual Canadian-Israeli citizenship, Israeli authorities recommend that their nationals avoid crossing into Jordan and the Sinai Peninsula in Egypt due to high security threats.
-
-If you remain in Israel, the West Bank or Jerusalem, you should:
+You should:
 
 * monitor local and international media to stay informed of the rapidly evolving situation
-* identify the location of the closest bomb shelter, if available
-* follow the instructions of local authorities, including air-raid sirens and evacuation or shelter in place orders
-* move away immediately and contact local authorities if you encounter unexploded ordnance, military debris or fragments
-* register or update your personal information with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration "https://travel.gc.ca/travelling/registration") service to receive the latest updates
-* ensure that your travel documents and those of your family are up to date
+* follow the instructions of local authorities at all times
+* be vigilant and prepared to shelter in place
+* Register or update your contact information with the [Registration of Canadians abroad](https://travel.gc.ca/travelling/registration) service to receive the latest information from the Government of Canada
 
-#### Useful links
+If you encounter any debris or fragments:
 
-* [Home Front Command](https://www.oref.org.il/en "https://www.oref.org.il/en") (only available in Israel)
-* [Status of border crossings](https://www.iaa.gov.il/en/ "https://www.iaa.gov.il/en/") – Israel Airport Authority (only available in Israel)
-* [Registration of Canadians Abroad service](https://travel.gc.ca/travelling/registration "https://travel.gc.ca/travelling/registration")
-* [Canada's response to the situation in the Middle East](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=eng "https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=eng")
-* [Message to Israelis abroad](https://www.gov.il/en/pages/travelwarningsjune1 "https://www.gov.il/en/pages/travelwarningsjune1") – National Security Council of Israel
+* move away from them immediately
+* contact local authorities
+
+**Useful links**
+
+* [Registration of Canadians Abroad service](https://travel.gc.ca/travelling/registration)
+* [Canada's response to the situation in the Middle East](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=eng)
 
 ### Hostilities in Israel and the Gaza Strip
 

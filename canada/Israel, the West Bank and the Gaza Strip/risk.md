@@ -4,7 +4,7 @@
 
 ### ISRAEL - AVOID ALL TRAVEL
 
-[Avoid all travel](#levels "Risk Levels") to Israel due to ongoing hostilities with Iran.
+[Avoid all travel](#levels "Risk Levels") to to Israel due to ongoing tensions in the region.
 
 The security situation can deteriorate rapidly.
 
@@ -26,4 +26,4 @@ The Government of Canada’s ability to provide consular services in the Gaza St
 
 ### JERUSALEM - AVOID ALL TRAVEL
 
-[Avoid all travel](#levels "Risk Levels") to Jerusalem due to the unpredictable security situation and the renewed regional tensions.
+[Avoid all travel](#levels "Risk Levels") to Jerusalem due to the unpredictable security situation and ongoing tensions the region.

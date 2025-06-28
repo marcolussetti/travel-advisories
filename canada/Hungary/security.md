@@ -2,6 +2,10 @@
 
 ## Safety and security
 
+### Budapest Pride
+
+Hungarian authorities have banned the Budapest Pride March, scheduled on June 28, 2025. Local law enforcement may use facial recognition technology to identify participants in unsanctioned events. Those identified could face fines of up to 200,000 Hungarian Forints.
+
 ### Crime
 
 #### Petty crime

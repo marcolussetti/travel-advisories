@@ -98,7 +98,11 @@ Be aware that Canadian consular officials cannot interfere in private legal matt
 
 ### Driving
 
-You can drive in Nicaragua with a Canadian driver’s licence for up to 30 days. If you intend to stay longer, you must obtain an international driving permit.
+You can drive in Nicaragua with a valid Canadian driver’s licence.
+
+It is prohibited for children to ride as passengers on motorcycles.
+
+The nationwide speed limits are 50 km/h for vehicles and 40 km/h for motorcycles, regardless of signage on the roads indicating otherwise. Failure to respect these speed limits will result in fines.
 
 In the event of a car accident:
 
@@ -106,17 +110,15 @@ In the event of a car accident:
 * call 118 to report the accident and request Transit Police
 * don’t move your vehicle until the authorities arrive
 
-Failure to remain at the site may be considered an admission of guilt under Nicaraguan law.
+Leaving the scene may be considered an admission of guilt under Nicaraguan law.
 
 However, police may not respond, especially overnight. If you feel unsafe:
 
-* ensure your windows and doors are locked
+* ensure your windows and doors are closed and locked
 * drive to the nearest police station or a secure location
 * report the accident to the police and your insurance company as soon as possible
 
 If you are involved in a road accident causing injuries, you may be detained until a legal decision is made, regardless of culpability.
-
-[International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
 
 ### Money
 
