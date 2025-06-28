@@ -8,11 +8,11 @@ PASSPORT VALIDITY:
 
 BLANK PASSPORT PAGES:
 
-1 page.
+1 page
 
 TOURIST VISA REQUIRED:
 
-Yes.
+Yes
 
 VACCINATIONS:
 
@@ -20,8 +20,8 @@ Yellow fever vaccination is not required, but most countries transited by airlin
 
 CURRENCY RESTRICTIONS FOR ENTRY:
 
-None.
+None
 
 CURRENCY RESTRICTIONS FOR EXIT:
 
-None.
+None
