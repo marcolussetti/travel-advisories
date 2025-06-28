@@ -28,19 +28,13 @@ Examples of significant attacks include:
 
 ## Situation in Israel, Lebanon, and the Occupied Palestinian Territories
 
-Following recent developments in Israel, Lebanon, the West Bank and the Gaza Strip, the security situation could change suddenly.
+Following hostilities in Israel, Lebanon, the West Bank and Gaza, the security situation could change suddenly.
 
-At 09:30am on 13 June official sirens sounded in Jordan warning people to stay indoors due to the risk of falling debris in anticipation of further exchanges between Israel and Iran. At 12:00 official announcements said the immediate State of Alert was over, but advised people to remain alert. If you hear sirens, please remain indoors and stay away from windows to ensure protection from any possible missile/drone fragments. If there are any injuries or damages, call 911 immediately.
+If you hear sirens, remain indoors and stay away from windows to ensure protection from any possible missile/drone fragments. If there are any injuries or damages, call 911 immediately.
 
 If missiles are intercepted in Jordanian airspace, this may result in falling fragments and debris. If you encounter any projectile debris or fragments you should move away from them immediately and contact local authorities.
 
-On 13 June Jordanian authorities also announced the closure of its airspace. As of 1030 on 13 June Queen Alia International Airport was closed. This will result in flight cancellations and diversions.  Global Positioning System (GPS) signals may be unreliable. If you are in Jordan and have been affected, please contact your airline direct and follow the advice of the local authorities. If you are not yet in country, you should check with airlines and travel insurers before making any travel plans.
-
-In addition, there are reports of closures of the King Hussein/Allenby bridge crossing between Jordan and the West Bank. You should be aware of the risk of closures of the borders between Jordan and Israel and the West Bank, as well as possible road closures within Jordan, with no notice.
-
-Read FCDO advice [if you’re affected by a crisis abroad](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas).
-
-Also see [Warnings and insurance page](https://www.gov.uk/foreign-travel-advice/jordan).
+Flight cancellations and diversions can occur at no notice.  Global Positioning System (GPS) signals may be unreliable. If you are in Jordan and have been affected, contact your airline direct and follow the advice of the local authorities. If you are not yet in country, you should check with airlines and travel insurers before making any travel plans.
 
 ## Political situation
 
@@ -167,7 +161,7 @@ Driving standards differ from those in the UK. Stray animals, broken-down vehicl
 
 If you have an accident, do not leave the scene before the police arrive and take a statement. Call 911 to contact police.
 
-The speed limit in urban areas is 40kph, 80kph on rural roads and 120kph on highways. The police issue 15 to 150 Jordanian dinar on-the-spot fines.
+The speed limit varies from 40kph in some urban areas to 120kph on some highways. You should follow speed restrictions carefully. The police issue 15 to 150 Jordanian dinar on-the-spot fines.
 
 It is illegal to drive or ride in a front seat without a seatbelt or use a mobile phone while driving. You could get a fine. All cars must carry a fire extinguisher and warning triangle.
 

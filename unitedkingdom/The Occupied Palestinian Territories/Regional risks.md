@@ -65,13 +65,19 @@ Military activity continues on the Israel-Lebanon border. Keep up to date with t
 
 ## Israel-Syria border
 
+FCDO advises against all travel within 500m of the border with Syria (the ‘Alpha Line’).
+
 The situation is fragile, with military exchanges either side of the border. If you’re travelling in the area, be aware of your personal security, check local media and follow advice from local authorities.
 
 ## Occupied Golan Heights
 
-There has been an increase in rocket attacks into the Golan Heights since 7 October 2023, including a rocket attack from Lebanon on 27 July which killed 12 Israeli civilians. Rocket attacks and sporadic gunfire occur without warning. There is also a risk of falling debris from Israeli and Syrian air defence systems.
+FCDO advises against all travel within 500m of the Area of Separation in the occupied Golan Heights (the ‘Alpha line’). Do not attempt to enter the occupied Golan Heights through Syria.
 
-Landmines have been planted across the Occupied Golan Heights, including near to populated areas and roads. These areas are usually marked and often fenced off. Follow established roads and paths. FCDO long-standing advice has been to not hike off-trail. If you’re in the region, follow advice from local law enforcement.
+FCDO advises against all travel to the Sheba’a Farms and Ghajjar.
+
+Following the conflict between Israel and Lebanese Hizballah, a ceasefire was agreed on 27 November. There remains a risk that hostilities could reignite, and with little warning. Check Home Front Command for the latest guidance. In the occupied Golan Heights, restrictions may be put in place at short notice. Rocket attacks and sporadic gunfire occur without warning. There is also a risk of falling debris from Israeli and Syrian air defence systems.
+
+Landmines have been planted across the occupied Golan Heights, including near to populated areas and roads. These areas are usually marked and often fenced off. Follow established roads and paths. FCDO long-standing advice has been to not hike off-trail. If you’re in the region, follow advice from local law enforcement.
 
 ## Border with Egypt
 

@@ -12,7 +12,7 @@ Although there is no recent history of terrorism in Panama, attacks cannot be ru
 
 ## Political situation
 
-On 20 June, the Panamanian government announced a ‘state of urgency’ for 5 days in Bocas del Toro province in response to ongoing strikes and violent protests. This provides for the suspension of the constitutional right to freedom of assembly and allows the authorities to arrest people without a warrant. If you are in the province, stay away from protests, pay attention to good local advice and be alert to further announcements by the local authorities.
+On 25 June, the Panamanian government extended the ‘state of urgency’ in Bocas del Toro province until 29 June in response to ongoing violent protests. This provides for the suspension of the constitutional right to freedom of assembly and allows the authorities to arrest people without a warrant. If you are in the province, stay away from protests, pay attention to good local advice and be alert to further announcements by the local authorities.
 
 Protests can be unpredictable, occur at short notice and escalate quickly. Avoid protests and demonstrations, monitor local media and follow advice from local authorities. Avoid travelling around protest-affected areas at night. Protests may be particularly large in Colón City.
 
@@ -120,12 +120,7 @@ Drink-driving is a serious offence in Panama. If you are tested and found to hav
 
 Driving standards can be poor. Traffic accidents are common. Roads are often poorly lit and can have potholes and unfinished repairs. Darien Province and other remote rural areas may have very few surfaced roads.
 
-Traffic can be heavy in Panama City and other populated areas such as:
-
-* Pacora
-* Chorrera
-* Capira
-* Arraijan
+Traffic can be heavy in populated areas especially in and close to Panama City.
 
 Repair work and construction sites are common in these areas.
 

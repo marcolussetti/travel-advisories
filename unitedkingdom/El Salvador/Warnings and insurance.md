@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   28 June 2025
 
 Updated:
-:   15 August 2024
+:   27 June 2025
 
 Latest update:
-:   Removal of State of Emergency information ('Warnings and insurance' page).
+:   Updated information on crime (‘Safety and security’ page).
 
 ## Before you travel
 

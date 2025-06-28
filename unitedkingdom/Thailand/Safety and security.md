@@ -16,12 +16,13 @@ There are regular terrorist attacks in the 4 provinces in the southern tip of Th
 
 Martial law is in place in most areas in these provinces, which means security forces have greater security enforcement and investigative powers. See [Regional risks](/foreign-travel-advice/thailand/regional-risks).
 
-However, terrorist attacks could take place anywhere in Thailand. Attacks could be indiscriminate, including in places visited by foreign nationals. Stay aware of your surroundings, keep up to date with local media reports and follow the advice of local authorities.
+However, terrorist attacks could take place anywhere in Thailand. Attacks could be indiscriminate, including in tourist destinations. Stay aware of your surroundings, keep up to date with local media reports and follow the advice of local authorities.
 
 Targets might include:
 
 * security forces
 * government offices
+* locations popular with tourists and foreigners
 * hotels
 * shops and supermarkets
 * transport infrastructure

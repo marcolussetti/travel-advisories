@@ -1,11 +1,11 @@
 {
     "name": "Thailand",
-    "update_reason": "New information about the temporary suspension of Thailand-Cambodia border crossing (\u2018Regional Risks\u2019 page).",
+    "update_reason": "Updated information on the risk of terrorism in Thailand (see \u2018Terrorism in Thailand\u2019 on the \u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Thailand/Warnings and insurance.md",
-            "update_date": "2025-06-24T10:53:31+01:00"
+            "update_date": "2025-06-27T17:18:51+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Thailand/Getting help.md"
         }
     ],
-    "update_date": "2025-06-24T10:53:31+01:00"
+    "update_date": "2025-06-27T17:18:51+01:00"
 }

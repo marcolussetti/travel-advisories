@@ -1,11 +1,11 @@
 {
     "name": "Saudi Arabia",
-    "update_reason": "Updated information about the risks of regional escalation and the instruction to take shelter if instructed ('Warnings and insurance' page).",
+    "update_reason": "Updated information about regional risks (see \u201cWarnings and Insurance\u201d page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Saudi Arabia/Warnings and insurance.md",
-            "update_date": "2025-06-24T17:34:19+01:00"
+            "update_date": "2025-06-27T19:58:46+01:00"
         },
         {
             "title": "Entry requirements",
@@ -38,5 +38,5 @@
             "file": "unitedkingdom/Saudi Arabia/Getting help.md"
         }
     ],
-    "update_date": "2025-06-24T17:34:19+01:00"
+    "update_date": "2025-06-27T19:58:46+01:00"
 }

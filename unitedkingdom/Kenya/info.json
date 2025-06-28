@@ -1,11 +1,11 @@
 {
     "name": "Kenya",
-    "update_reason": "Updated information on the potential for protests ('Safety and security' page).",
+    "update_reason": "Information on the risk of kidnaps ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Kenya/Warnings and insurance.md",
-            "update_date": "2025-06-24T16:16:19+01:00"
+            "update_date": "2025-06-27T17:49:38+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Kenya/Getting help.md"
         }
     ],
-    "update_date": "2025-06-24T16:16:19+01:00"
+    "update_date": "2025-06-27T17:49:38+01:00"
 }

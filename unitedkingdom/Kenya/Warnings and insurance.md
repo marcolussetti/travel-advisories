@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   25 June 2025
+:   28 June 2025
 
 Updated:
-:   24 June 2025
+:   27 June 2025
 
 Latest update:
-:   Updated information on the potential for protests ('Safety and security' page).
+:   Information on the risk of kidnaps ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/618e41d8d3bf7f0559e1d936/FCDO__TA__055_-_Kenya_Travel_Advice_Ed3__WEB_.jpg)
 
@@ -30,6 +30,10 @@ Due to the risk of terrorism from groups based in Somalia, FCDO advises against 
 * within 15km of the east coast between the Tana River and the Galana (Athi-Galana-Sabaki) River
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/kenya/regional-risks).
+
+## Risk of Kidnap
+
+There is a high risk of kidnapping across Kenya. British nationals are seen as legitimate targets. Westerners have been the target of kidnaps and further kidnaps are very likely.
 
 ## Before you travel
 

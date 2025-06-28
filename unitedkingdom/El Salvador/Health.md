@@ -26,10 +26,6 @@ Altitude sickness is a risk in parts of El Salvador. Read more about [altitude s
 
 There is a risk of contaminated drinking water. Bottled water is inexpensive and widely available.
 
-## Lake Coatepeque
-
-A bacteria called Cyanobacteria Limnoraphis has been found in Lake Coatepeque in the Santa Ana Department. There are restrictions on activity in the lake whilst the Government responds. See the [Ministry of Environment and Natural Resources](https://www.ambiente.gob.sv/gobierno-de-el-salvador-decreta-estado-de-emergencia-ambiental-en-el-lago-de-coatepeque/) for updates on the situation, check locally if in the area.
-
 ## Medication
 
 The legal status and regulation of some medicines prescribed or bought in the UK can be different in other countries. UK prescriptions cannot be used in El Salvador. To find a pharmacy (‘farmacia’) look for one of the big national chains such as Farmacia San Nicolas, Farmacias UNO or Farmacias Economicas.

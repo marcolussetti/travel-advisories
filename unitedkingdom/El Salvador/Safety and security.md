@@ -16,17 +16,13 @@ Avoid demonstrations and do not engage in any political activity.
 
 It’s illegal for foreign nationals to engage in political activities such as public demonstrations in El Salvador. If you participate in demonstrations, you may be detained and deported. Avoid large gatherings or demonstrations and be cautious in public areas.
 
-In 2021 there were significant political protests in San Salvador. Although the protests were peaceful and there were no injuries, there was significant damage to property.
-
-Also in 2021, gunmen in San Salvador opened fire on activists from one of El Salvador’s main opposition parties, killing 2 people and injuring 5 more.
-
 ## Crime
 
-El Salvador has until recently had one of the highest crime rates in Latin America. The risks of violent and petty crime remain, despite recent progress.
+Security in El Salvador has improved considerably with significant reductions in crime. However, travellers should remain cautious as the risks of violent and petty crime still exist.
 
 ### State of exception (emergency)
 
-El Salvador’s government has declared a state of exception (emergency) in response to a sharp rise in gang-related murders. The state of exception started in 2022 and has remained in place since. The murder rate has fallen significantly, but the authorities are concerned the gangs could regroup.
+El Salvador’s government declared a state of exception (emergency) in response to a sharp rise in gang-related murders. The state of exception started in 2022 and has remained in place since. The murder rate has fallen significantly, but the authorities are concerned the gangs could regroup.
 
 The state of exception gives police additional powers, resulting in a much higher number of arrests, sometimes without much evidence. It also allows police to detain people for much longer before trial. Many ordinary legal safeguards have also been weakened or removed. For example, joint legal hearings for over 100 people are common.
 
@@ -44,7 +40,7 @@ Within San Salvador, the areas of Santa Elena, San Benito and Maquilishuat have 
 
 ### Protecting yourself and your belongings
 
-Avoid walking alone or on remote trails. It may be safer to travel with others or go on a tour with a reputable company. Take extra care in more rundown areas of towns and cities and those less visited by tourists. Follow local advice on where the safer areas are.
+Avoid walking alone or on remote trails. It may be safer to travel with others or go on a tour with a reputable company. Take extra care in more deprived areas of towns and cities and those less visited by tourists. Follow local advice on where the safer areas are.
 
 Withdraw money from ATMs in shopping centres or change money in hotels or banks. Do not withdraw a lot of money at one time or use ATMs at night or in badly lit areas.
 
@@ -72,7 +68,7 @@ Public buses (repainted old US school buses) are not safe due to petty crime. Pr
 
 ### Criminal kidnapping
 
-The risk of kidnapping to foreigners or visitors is relatively low, despite an increase in kidnapping of Salvadorans. You might wish to share your location or plans with a trusted person, particularly if taking public transport or a taxi. Kidnap gangs generally target rich Salvadorans rather than visitors.
+The risk of kidnapping to foreigners or visitors is relatively low, however, you might wish to share your location or plans with a trusted person, particularly if taking public transport or a taxi.
 
 ### Scams
 

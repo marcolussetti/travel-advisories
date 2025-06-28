@@ -6,7 +6,7 @@ You should also read [FCDO’s overall travel advice](/foreign-travel-advice/jor
 
 ## Land border crossings
 
-There are reports of closures of the King Hussein/Allenby bridge crossing between Jordan and the West Bank. You should be aware of the risk of closures of the borders between Jordan and Israel and the West Bank, as well as possible road closures within Jordan, with no notice.
+The roads within Jordan and land border crossings between Jordan and Israel and the West Bank can close at no notice.
 
 See [Israel travel advice](https://www.gov.uk/foreign-travel-advice/israel) and [Occupied Palestinian Territories travel advice](https://www.gov.uk/foreign-travel-advice/the-occupied-palestinian-territories) and check with the Jordanian authorities before crossing.
 

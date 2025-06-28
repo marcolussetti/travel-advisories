@@ -38,12 +38,15 @@ Follow the advice of Egyptian authorities and be vigilant in crowds and large ga
 
 ## Regional risks
 
-Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region. There are reports of military debris falling in various locations. Travel disruptions, including flight cancellations and airspace closures may occur. Demonstrations and protest activity may take place.
+Following hostilities in the region, a ceasefire between Israel and Iran began on 24 June
 
 You should:
 
+* stay up to date with events in the region
+* check for any transport disruption that may still be occurring
 * monitor local and international media for the latest information
-* be vigilant and follow the instructions of local authorities
+* [read the FCDO’s advice on if you’re affected by a crisis abroad](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.gov.uk%2Fguidance%2Fhow-to-deal-with-a-crisis-overseas&data=05%7C02%7CCrisis%40fcdo.gov.uk%7C4563265a30b14112d88208ddb588a69b%7Cd3a2d0d37cc84f52bbf985bd43d94279%7C0%7C0%7C638866320685449525%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=NKlHvb0l0yilhgUsvbbH7LHGuefu%2FZHZMRJ0Ja%2B5umk%3D&reserved=0%22%20\t%20%22_blank)
+* follow the instructions of local authorities
 
 ## Political situation
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   21 June 2025
+:   28 June 2025
 
 Updated:
-:   20 June 2025
+:   27 June 2025
 
 Latest update:
-:   Remove outdated information about requiring a return ticket to enter Egypt (‘Entry requirements’ page)
+:   Updated information about regional risks (see “Safety and Security ” page)
 
 ![](https://assets.publishing.service.gov.uk/media/670e278f30536cb92748313c/FCDO__TA__015_-_Egypt_Travel_Advice_Ed10__WEB_.jpg)
 

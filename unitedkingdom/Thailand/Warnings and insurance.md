@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   25 June 2025
+:   28 June 2025
 
 Updated:
-:   24 June 2025
+:   27 June 2025
 
 Latest update:
-:   New information about the temporary suspension of Thailand-Cambodia border crossing (‘Regional Risks’ page).
+:   Updated information on the risk of terrorism in Thailand (see ‘Terrorism in Thailand’ on the ‘Safety and security’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/6164105ce90e07198018f873/FCDO__TA__040_-_Thailand_Travel_Advice_Ed2__WEB_.jpg)
 

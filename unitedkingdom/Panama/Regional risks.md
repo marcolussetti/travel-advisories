@@ -12,11 +12,9 @@ There is a risk of violence near the Colombia border in an area east of a line d
 * Yaviza in the eastern Darien Province
 * Punta Piña on the Pacific coast
 
-Political and criminal violence in Colombia can spill over into Panama. There is a threat from Colombian guerrillas and other armed groups. Foreign nationals and Panamanian citizens have been the victims of violent crimes, kidnapping and murder in this area.
+You should only travel to the east of this line in an organised group, and make sure local police and security authorities are aware of your visit. Follow local security advice and do not stray from your group.
 
-## Darien Province
-
-Only travel to Darien Province in an organised group, and make sure local police and security authorities are aware of your visit. Follow local security advice and do not stray from your group.
+Colombian criminal violence can spill over into the region of Panama bordering Colombia where there is a threat from Colombian and other armed groups. Foreign nationals and Panamanian citizens have been the victims of violent crimes, kidnapping and murder in this area.
 
 [Previous
 :

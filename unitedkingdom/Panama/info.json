@@ -1,11 +1,11 @@
 {
     "name": "Panama",
-    "update_reason": "Announcement of a state of urgency in Bocas Del Toro province (See \u2018Political situation\u2019 on the \u2018Safety and security\u2019 page).",
+    "update_reason": "Extension of a state of urgency in Bocas Del Toro province (See \u2018Political situation\u2019 on the \u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Panama/Warnings and insurance.md",
-            "update_date": "2025-06-20T23:01:34+01:00"
+            "update_date": "2025-06-27T15:36:13+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Panama/Getting help.md"
         }
     ],
-    "update_date": "2025-06-20T23:01:34+01:00"
+    "update_date": "2025-06-27T15:36:13+01:00"
 }
