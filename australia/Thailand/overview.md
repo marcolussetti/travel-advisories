@@ -2,19 +2,11 @@
 
 Latest update
 
-There's an ongoing risk of terrorism in Thailand. Popular tourist areas may be the target of terrorist attacks anywhere across Thailand, including Bangkok and Phuket.  
+There's an ongoing risk of terrorism in Thailand. Popular tourist areas may be the target of terrorist attacks anywhere across Thailand, including Bangkok and Phuket. Phuket International Airport has increased security measures from 26 June and advised passengers to arrive well ahead of flights. This follows discovery of an explosive device near the airport this week. Thai authorities defused devices in Phuket, Krabi and Phang Nga this week and have made related arrests in recent days.   
   
 The security situation in Thailand can be unpredictable. Large protests have occurred in Bangkok and other areas. In previous years, large political protests and government crowd control operations have resulted in violence.  
   
-Border crossing points along the Thailand-Cambodia border continue to be closed at short notice. Monitor local media for updates and follow the advice of local authorities.  
-  
-The use of cannabis is limited to medicinal purposes only. The content of Tetrahydrocannabinol (THC) must be below 0.2% in weight and you must have a prescription.  
-  
-You must complete a Thailand Digital Arrival Card (TDAC) within 3 days before arriving in Thailand. The TDAC must be submitted online through the Thailand Immigration Bureau website. Visit the Thailand Immigration Bureau website for further information, including a guide to completing the TDAC and how to submit the TDAC online (see 'Travel').  
-  
-Be alert to risks around drink spiking. Don't leave food or drinks unattended. Stay with people you trust at bars, nightclubs and in taxis. See our advice on partying safely while overseas.  
-  
-Road accidents are a significant cause of injury. Wear helmets on motorcycles and motorcycle taxis (see 'Safety').
+Be alert to risks around drink spiking. Don't leave food or drinks unattended. Stay with people you trust at bars, nightclubs and in taxis. See our advice on partying safely while overseas.
 
 Advice Level summary
 
@@ -48,7 +40,7 @@ See [Safety](#safety).
 
 ### Safety
 
-* There's an ongoing risk of terrorist attacks in Thailand. Popular tourist areas may be the target of terrorist attacks anywhere across Thailand, including Bangkok and Phuket. Coordinated attacks have occurred in the southern provinces. The ongoing conflict in the Middle East could lead to an increased threat of attacks against Israeli interests in other regions. Be alert to possible threats. Take official warnings seriously and follow the advice of local authorities.
+* There's an ongoing risk of terrorist attacks in Thailand. Popular tourist areas may be the target of terrorist attacks anywhere across Thailand, including Bangkok and Phuket. Phuket International Airport has increased security measures from 26 June and advised passengers to arrive well ahead of flights. This follows discovery of an explosive device near the airport this week. Thai authorities defused devices in Phuket, Krabi and Phang Nga this week and have made related arrests in recent days. Coordinated attacks have occurred in the southern provinces. The ongoing conflict in the Middle East could lead to an increased threat of attacks against Israeli interests in other regions. Be alert to possible threats. Take official warnings seriously and follow the advice of local authorities.
 * Border crossing points along the Thailand-Cambodia border continue to be closed at short notice. Monitor local media for updates and follow the advice of local authorities. Border areas near Cambodia, Myanmar and Malaysia are dangerous due to violence, armed conflict and landmines. Pay close attention to your personal security.
 * Anti-government protests have previously occurred in Bangkok and other areas of Thailand. There may be further protests in the future. The security environment can be unpredictable and turn violent. Those attending protests can face arrest or other legal consequences. Monitor local media for information on protest locations and avoid public gatherings.
 * Road accidents are a significant cause of injury. Be alert at all times on the roads, including wearing helmets on motorcycles and motorcycle taxis.
