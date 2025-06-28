@@ -4,7 +4,7 @@
 
 Check with a doctor a minimum of eight weeks in advance of travelling to see if any vaccinations are needed for Azerbaijan.
 
-### **Medical facilities**
+### **Medical Facilities**
 
 Medical facilities outside Baku are very limited. Even in Baku serious illness or injury may require evacuation to Türkiye or Western Europe. You should make sure your travel insurance covers this.
 
@@ -18,7 +18,7 @@ Not all policies are the same, and the cheapest one might be cheap for a reason.
 
 Make sure that you have saved the contact information for your insurance provider before you depart, including any emergency assistance details, and have this information to hand should you need it while abroad.
 
-### **Emergency expenses**
+### **Emergency Expenses**
 
 Your policy should cover:
 

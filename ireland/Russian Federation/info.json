@@ -3,29 +3,29 @@
     "risk_level": "Do Not Travel",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Russian Federation/Overview.md"
+            "title": "Travel to Russian Federation overview",
+            "file": "ireland/Russian Federation/Travel to Russian Federation overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Russian Federation/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Russian Federation/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Russian Federation/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Russian Federation/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/Russian Federation/Local laws and customs.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/Russian Federation/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Russian Federation/Embassy contact.md"
         }
     ],
-    "update_date": "2025-04-03T00:00:00"
+    "update_date": "2025-06-27T00:00:00"
 }

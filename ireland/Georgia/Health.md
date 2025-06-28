@@ -1,6 +1,6 @@
 ## Health
 
-### **Travelling with medicines**
+### **Travelling with Medicines**
 
 Caution should be exercised when entering Georgia as foreign nationals have been detained on arrival for possession of medicines that would not normally be problematic in other countries. Visitors are advised to carry a doctor’s prescription if intending to travel with prescription medicine and to declare the medications on a Custom Declaration Form.
 
@@ -12,7 +12,7 @@ Check with a doctor a minimum of eight weeks in advance of travelling to see if 
 
 Rabies is common in Georgia so make sure to have the relevant vaccinations.
 
-### **Medical facilities**
+### **Medical Facilities**
 
 Medical facilities in Tbilisi are available but expensive. Outside Tbilisi, medical facilities are limited. Make sure to have all the medication needed to cover your trip and to cover potential delays.
 
@@ -24,7 +24,7 @@ Buying comprehensive travel insurance can save a lot of money if something goes 
 
 Not all policies are the same, and the cheapest one might be cheap for a reason. Make sure the policy covers all planned activities. [**Insurance Ireland recommend**](http://www.insuranceireland.eu/consumer-information/general-non-life-insurance/travel) that travellers purchase a policy that provides a minimum medical cover of €1 million.
 
-### **Emergency expenses**
+### **Emergency Expenses**
 
 Policies should cover:
 
@@ -37,3 +37,11 @@ Policies should cover:
 * Any extra activities travellers intend to do that are excluded from standard policies (e.g. water sport activities such as jet skiing or other extreme sports).
 
 Exclusions: Most insurance policies will not cover drink or drug-related incidents.
+
+### **Air Quality**
+
+If travellers have respiratory issues, make sure you bring any necessary inhalers with you on your trip, as the air in Tbilisi can be difficult at times.
+
+### **Water**
+
+The Embassy recommends to avoid drinking tap water.

@@ -17,7 +17,7 @@ Crime rates are relatively low in Azerbaijan but occasional muggings do take pla
 * Do not carry credit cards, travel tickets and money together - leave spare cash and valuables in a safe place.
 * Leave a photocopy of your passport (and travel and insurance documents) with family or friends at home.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If you are a victim of a crime while in Azerbaijan, report it to the local police immediately. You can contact the Embassy of Ireland in Türkiye if you need assistance.
 
@@ -25,7 +25,7 @@ If you are a victim of a crime while in Azerbaijan, report it to the local polic
 
 If you are planning to drive in Azerbaijan, especially at night take extra care. Roads tend to be badly lit and of poor quality and many cars are poorly maintained. If driving, bring your international driving licence and make sure you have adequate and appropriate insurance.
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If you are hiring a vehicle, we advise not to hand over a passport as a form of security. If allowing passports to be photocopied, keep them in your sight at all times.
 
@@ -35,6 +35,6 @@ We advise Irish citizens to always ensure that they have adequate insurance and 
 
 Be aware that most old taxis do not have seat belts.
 
-### **Earthquake**
+### **Earthquakes**
 
 While there have been no serious recent earthquakes in Azerbaijan, visitors should be aware that Azerbaijan is located in an active seismic zone and there is the potential for earthquakes across the Caucasus region

@@ -8,7 +8,7 @@ Protests continue to occur frequently in Georgia and can potentially turn confro
 
 The political situation in Georgia has stabilised since the 2008 conflict with Russia but it is still fragile. The separatist regions of South Ossetia and Abkhazia remain in the control of Russian forces and we advise against attempts to travel there. We also advise against all but essential travel to the areas near the Administrative Boundary Lines (ABLs) of these regions as sporadic attacks and incidents can still take place. There are reports of unexploded ordinance these areas and they should be avoided until they have been confirmed clear.
 
-### **Border crossings**
+### **Border Crossings**
 
 Do not attempt to enter or leave Georgia via the land borders with the Russian Federation (ie Dagestan, Chechnya, Ingushetia, North Ossetia) under any circumstances. The border crossing between the Russian Federation and unoccupied Georgia at Verkhny Lars is not open to tourists.
 
@@ -22,7 +22,7 @@ Although Tbilisi itself is considered to be a relatively safe city, normal preca
 * Do not carry a passport unless absolutely necessary and leave a copy of the passport (as well as travel and insurance documents) with family or friends at home.
 * There have been reports of muggings near Narikala Fortress and Mother Georgia in Tbilisi and we recommend that travellers do not walk alone in this area.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If a victim of a crime while in Georgia, report it to the local police immediately. Please contact us at the [**Embassy of Ireland in Ankara, Türkiye**](https://www.ireland.ie/en/turkiye/ankara/) if help is needed.
 
@@ -36,7 +36,7 @@ If planning to drive in Georgia, be extremely careful. Driving in Georgia can be
 * Many of the roads in Georgia are poorly lit and can be badly marked.
 * Heavy rain and flooding often affect roads and bridges making travel difficult or impossible (particularly in remote areas). When travelling outside of Tbilisi vehicles should be suitably equipped to deal with a range of adverse situations.
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If hiring a vehicle, we advise not to hand over passports as a form of security. If allowing passports to be photocopied, keep them in sight at all times.
 
@@ -50,7 +50,7 @@ Pedestrians should exercise particular caution, even at marked pedestrian crossi
 
 If using taxis in Tbilisi, and other cities, it is safer to use licensed taxis. Not all taxis are metered. If travellers find themselves in an unmetered taxi, travellers should agree the price for the journey before starting. If staying in a hotel, we recommend to book a taxi through the hotel reception.
 
-### **Air safety**
+### **Air Safety**
 
 Where possible, fly directly to Tbilisi on a scheduled international flight. Among the International airlines serving Georgia are Austrian Airlines, BMI British Midlands, Czech Airlines, KLM Royal Dutch Airlines, Lufthansa and Turkish Airlines.
 

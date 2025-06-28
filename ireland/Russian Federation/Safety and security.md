@@ -12,7 +12,7 @@ The vast majority of visits to the Russian Federation go smoothly. However, you 
 * Avoid dark and unlit streets and stairways, arrange to be picked up or dropped off as close to your hotel or apartment entrance as possible. Do not get into a taxi if there is already another passenger.
 * Drink-spiking leading to robbery, violence and/or abuse does happen. Unconscious victims are often left outside, which can be life threatening in the winter months. Buy your own drinks and keep sight of them at all times.
 
-### **Reporting a crime**
+### **Reporting a Crime**
 
 If you're a victim of a crime while in the Russian Federation, report it to the local police immediately. And you can contact us at the Irish Embassy in Moscow if you need help.
 
@@ -20,7 +20,7 @@ If you're a victim of a crime while in the Russian Federation, report it to the 
 
 There is a threat from terrorism in the Russian Federation, including suicide bombings in public places so be cautious and vigilant in public places. On 3 April 2017, a suicide attack on the St Petersburg metro resulted in 15 deaths and many injuries. On 22 March 2024, a terrorist attack occurred at the Crocus City Hall music venue in Moscow resulted in 145 deaths and many injuries.
 
-### **Political unrest and demonstrations**
+### **Political Unrest and Demonstrations**
 
 Political rallies, protests, and demonstrations can occur in Russia and have the potential to turn violent. Avoid all demonstrations and large gatherings and monitor local media.
 

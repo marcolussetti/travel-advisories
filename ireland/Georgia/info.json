@@ -3,29 +3,33 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Georgia/Overview.md"
+            "title": "Travel to Georgia overview",
+            "file": "ireland/Georgia/Travel to Georgia overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Georgia/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Georgia/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Georgia/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Georgia/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/Georgia/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/Georgia/Natural disasters and climate.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/Georgia/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Georgia/Embassy contact.md"
         }
     ],
-    "update_date": "2025-06-24T00:00:00"
+    "update_date": "2025-06-27T00:00:00"
 }

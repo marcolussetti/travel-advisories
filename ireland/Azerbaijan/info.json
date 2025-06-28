@@ -3,29 +3,29 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Azerbaijan/Overview.md"
+            "title": "Travel to Azerbaijan overview",
+            "file": "ireland/Azerbaijan/Travel to Azerbaijan overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Azerbaijan/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Azerbaijan/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Azerbaijan/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Azerbaijan/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/Azerbaijan/Local laws and customs.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/Azerbaijan/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Azerbaijan/Embassy contact.md"
         }
     ],
-    "update_date": "2025-06-23T00:00:00"
+    "update_date": "2025-06-27T00:00:00"
 }

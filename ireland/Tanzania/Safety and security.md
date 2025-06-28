@@ -32,17 +32,17 @@ Most visits to Tanzania are trouble-free but armed crime is increasing so take s
 
 Muggings, bag grabs from passing cars, and robberies including forced ATM withdrawals, sometimes accompanied by violence or the threat of violence, have increased throughout Tanzania and Zanzibar, especially in areas frequented by backpackers and expatriates.
 
-### **Taxis, Busses and Motorbikes**
+### **Taxis, Buses and Motorbikes**
 
 Local buses (‘dala dalas’), motorbike taxis (‘boda bodas’), and tuk-tuks (‘bijajis’) are often poorly maintained, badly driven and lacking insurance cover. There are frequent accidents, some of which result in fatalities.
 
 Visitors are advised to use official taxis with white number plates or to book your transport from the hotel reception. Visitors are advised to arrange transport in advance if going to arrive at your destination late at night. Keep doors locked, windows up and valuables out of sight at all time while in a taxis. Always ask to see the driver’s ID. Do not hail taxis in the street, use unlicensed taxis, or accept lifts from strangers. Even if a taxi appears to be licensed be cautious, and under no circumstances get into a taxi if there is anybody other than the driver in the vehicle.
 
-### **Credit card fraud**
+### **Credit Card Fraud**
 
 Credit card fraud is increasing. Theft of credit cards and isolated incidents of cloning (also called 'skimming') do occur. When paying by credit card, do not let it out of your sight. Keep cards safe, and do not let anyone know your PIN numbers.
 
-### **Reporting a crime**
+### **Reporting a Crime**
 
 If a victim of a crime while in Tanzania, report it to the local police immediately. Please contact us at the Irish Embassy in Tanzania if help is needed.
 
@@ -59,7 +59,7 @@ If driving:
 * If stopped by the police, ask to see identification before making any payments for traffic violations.
 * If involved in a road accident, co-operate with the local police.
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If hiring a vehicle, we advise not to hand over your passport as a form of security. If allowing your passport to be photocopied, keep it in sight at all times.
 
@@ -67,7 +67,7 @@ Check that you have adequate insurance and read the small print of the vehicle h
 
 ### **Ferries**
 
-The Department of Foreign Affairs strongly advises all citizens to exercise caution when travelling by sea ferries to offshore isles as overloading of ferries both with passengers and cargo is very common.
+The Department of Foreign Affairs and Trade strongly advises all citizens to exercise caution when travelling by sea ferries to offshore isles as overloading of ferries both with passengers and cargo is very common.
 
 If travelling by passenger ferry either between Dar es Salaam and the islands of Zanzibar, or on one of Tanzania’s lakes, only use reputable ferry companies. Purchase your tickets inside the ferry terminal, not from vendors outside. If you have any concerns about the seaworthiness of the vessel or feel that it is overloaded, get off immediately. Once aboard, familiarise yourself with emergency procedures, especially the locations of life jackets and emergency exits.
 

@@ -20,11 +20,11 @@ Crime in Turkmenistan is comparatively low, but you should always take sensible 
 * Keep valuables out of sight and avoid obvious displays of wealth, especially in rural areas
 * Keep away from unlit or remote areas
 
-### **Women travellers**
+### **Women Travellers**
 
 Women should take basic personal safety precautions such as avoiding going out alone late at night.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If you’re a victim of a crime while in Turkmenistan, report it to the local police immediately. And you can contact us at the [**Embassy of Ireland in Ankara, Türkiye**](https://www.ireland.ie/en/turkiye/ankara/) if you need help.
 
@@ -32,7 +32,7 @@ If you’re a victim of a crime while in Turkmenistan, report it to the local po
 
 If you’re planning to drive in Turkmenistan, you should take care. Many roads are poor and badly lit. Driving at night is not advisable.  If you want to drive, bring your full Irish driver’s licence and your international driving permit and make sure you have adequate and appropriate insurance
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If you’re hiring a vehicle, we advise you not to hand over your passport as a form of security. If you’re allowing your passport to be photocopied, keep it in your sight at all times.
 
@@ -42,6 +42,6 @@ Check that you have adequate insurance and read the small print of the vehicle h
 
 Don’t travel in unofficial taxis, particularly at night and alone, or if there is another passenger already in the car. We advise you to hire a private car and driver or an officially licensed taxi through your hotel or travel agency.
 
-### **Air safety**
+### **Air Safety**
 
 We can’t be sure that maintenance procedures on aircraft used for internal flights are properly observed so if possible don’t fly on [**airlines listed under the EU operating ban**](https://ec.europa.eu/transport/modes/air/safety/air-ban_en). Where possible, use a direct flight originating from outside Eastern Europe and Central Asia.

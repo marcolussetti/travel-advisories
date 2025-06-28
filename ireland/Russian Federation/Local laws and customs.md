@@ -2,7 +2,7 @@
 
 Remember, the local laws apply to you as a visitor and it is your responsibility to follow them. Be sensitive to local customs, traditions and practices as your behaviour may be seen as improper, hostile or even illegal.
 
-### **Illegal drugs**
+### **Illegal Drugs**
 
 Illegal drug use (no matter what the drug) carries stiff penalties, including long prison terms for possession of drugs.
 
@@ -20,13 +20,21 @@ There are strict regulations governing the export from the Russian Federation of
 
 For further information visit the website of the [**Russian Federal Customs Service**](http://eng.customs.ru/).
 
-### **Dual nationality**
+### **Dual Nationality**
 
 Legislation came into force on 4 August 2014 regarding Russian nationals who are also citizens of other countries. Russian passport holders must inform the Russian authorities of the other passports they hold. If you hold both Irish and Russian citizenship you should take legal advice and/ or contact the relevant Russian authority (the nearest Russian Embassy if you are not in the Russian Federation or your local Migration office if you are in the Russian Federation) to find out how the legislation might impact you.
 
-### **Passport validity**
+### **Banking**
 
-Your passport should be valid for a minimum period of 6 months after the expiry date of your visa.
+The rouble is the unit of currency in the Russian Federation. If you want to buy roubles in the country, we advise that you take euro or US dollars to change. Please note:
+
+* All notes should be in good condition
+* You should only change money at banks, hotels and recognised exchange kiosks
+* You will need to show your passport and visa to change money
+* It is an offence to change money from street traders
+* It is illegal to pay directly with dollars or euro
+* Most hotels, restaurants and larger shops accept credit cards, but smaller shops do not. ATMs exist in most major cities
+* Travellers’ cheques are not widely accepted
 
 ### **Transport**
 
@@ -41,7 +49,7 @@ If you want to drive:
 * Be aware of the Russian Federation’s traffic laws, such as speed limits
 * Keep your vehicle doors locked and your bags kept out of sight to prevent opportunistic bag-snatching if you’re stopped at traffic lights
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If you’re hiring a vehicle, we advise you not to hand over your passport as a form of security. If you’re allowing your passport to be photocopied, keep it in your sight at all times.
 
@@ -55,6 +63,6 @@ During the harsh winter months pavements can become extremely icy so good walkin
 
 If you want to travel by taxi while in the Russian Federation, we advise you to book an official taxi service through your hotel and agree on the price of the journey in advance.
 
-### **Air safety**
+### **Air Safety**
 
 If you intend to travel to or within the Russian Federation, avoid travelling on [**airlines that fall under the EU operating ban**](http://ec.europa.eu/transport/modes/air/safety/air-ban/search_en).

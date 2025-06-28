@@ -3,29 +3,33 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Tanzania/Overview.md"
+            "title": "Travel to Tanzania overview",
+            "file": "ireland/Tanzania/Travel to Tanzania overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Tanzania/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Tanzania/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Tanzania/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Tanzania/Additional information.md"
+            "title": "Local Laws and Customs",
+            "file": "ireland/Tanzania/Local Laws and Customs.md"
+        },
+        {
+            "title": "Natural Disasters and Climate",
+            "file": "ireland/Tanzania/Natural Disasters and Climate.md"
+        },
+        {
+            "title": "Entry Requirements",
+            "file": "ireland/Tanzania/Entry Requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Tanzania/Embassy contact.md"
         }
     ],
-    "update_date": "2025-06-12T00:00:00"
+    "update_date": "2025-06-27T00:00:00"
 }

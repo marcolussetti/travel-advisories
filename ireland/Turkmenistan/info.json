@@ -3,25 +3,29 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Turkmenistan/Overview.md"
+            "title": "Travel to Turkmenistan overview",
+            "file": "ireland/Turkmenistan/Travel to Turkmenistan overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Turkmenistan/Safety and security.md"
         },
         {
+            "title": "Health",
+            "file": "ireland/Turkmenistan/Health.md"
+        },
+        {
             "title": "Local laws and customs",
             "file": "ireland/Turkmenistan/Local laws and customs.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Turkmenistan/Additional information.md"
+            "title": "Entry requirements",
+            "file": "ireland/Turkmenistan/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Turkmenistan/Embassy contact.md"
         }
     ],
-    "update_date": "2025-06-23T00:00:00"
+    "update_date": "2025-06-27T00:00:00"
 }

@@ -1,10 +1,10 @@
 ## Local laws and customs
 
-### **Illegal drugs**
+### **Illegal Drugs**
 
 Possession or use illegal drugs use carries stiff penalties, including fines and long prison terms.
 
-### **Local culture & religion**
+### **Local Culture and Religion**
 
 Dress for both men and women tends to be similar to, if slightly more modest than, dress in Ireland.
 
