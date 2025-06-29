@@ -4,9 +4,13 @@ The political situation in Thailand can be unpredictable and has led to periods 
 
 Lèse-majesté (criticism of the monarchy in any form) is a crime in Thailand; it can be interpreted broadly and carries a long jail sentence. Some foreign and Thai journalists, Human Rights Defenders and members of the public have faced criminal charges, including for defamation, sedition, and under the Computer Crimes Act for raising concerns, making political comments, and sharing articles online that could be seen as portraying Thailand negatively or making accusations about individuals.
 
-Terrorist attacks can happen in Thailand. There were explosions in Bangkok in April and May 2017. In August 2016, there were multiple explosions in tourist areas across Thailand and in July 2015, there was a large explosion at the Erawan Shrine in Bangkok, which is a major tourist attraction. On 2 August 2019, there were three small explosions at locations in central Bangkok. Please follow the advice of Thai Authorities, avoid any large gatherings and be aware of your personal safety at all times.
+### **Terrorism**
 
-We strongly advise against all travel to or through the southern Provinces of Pattani, Yala, Narathiwat and Southern Songkhla. On 10 March 2019, a number of small explosions occurred in Satun City and in Patthalung Province in the South of Thailand. In December 2018, there was a number of small explosions on Samila beach in Songkhla City.
+There is currently a heightened risk of terrorism in Thailand.
+
+Terrorist attacks occur in the country from time to time, including in the capital, Bangkok, and in popular tourist destinations such as Phuket and Krabi. A number of suspected explosive devices being detected by Thai Security Forces, in a number of popular tourist locations in southern Thailand in the period since mid-June 2025, including at Phuket Airport. Additional security measures put in place in response to these incidents may require passengers to factor in extra time for security checks ahead of flights, so you should make sure to check with airlines and allow sufficient time at airports ahead of scheduled departures.
+
+Irish citizens are advised to be vigilant at all times, avoid any large gatherings and to follow the advice of Thai Authorities, and be aware of personal safety at all times. We strongly advise against all travel to, or through, the southern Provinces of Pattani, Yala, Narathiwat and Southern Songkhla. On 10 March 2019, a number of small explosions occurred in Satun City and in Patthalung Province in the South of Thailand. In December 2018, there was a number of small explosions on Samila beach in Songkhla City.
 
 Most Irish tourists enjoy their visits to Thailand safely and happily. That is why many return. However, a number, including Irish citizens, are subject to theft, scams and fraud of various kinds, and a small number to assault and violence. Be aware of your surroundings at all times. Keep credit cards secure, use alcohol moderately, avoid drugs at all times, do not carry large amounts of cash, keep valuables safely at your hotel and take common sense precautions.
 
@@ -14,11 +18,13 @@ Most Irish tourists enjoy their visits to Thailand safely and happily. That is w
 
 Punishment for drug-related offences such as possession, distribution or manufacture are severe. We cannot overemphasise our message: do not become involved in using or distributing drugs in Thailand. The consequences (as a number of Irish citizens are aware) can be severe.
 
-Private recreational use of certain cannabis products is legal if the THC content is below 0.2% by weight. **It is illegal to use cannabis in public places.** Cultivation, consumption, distribution and sales of cannabis products is legal, although some restrictions remain in place - check with the relevant local authorities if you are unsure.
+The legal situation regarding cannabis has been the subject of a number of changes and revisions in recent years.
+
+As of June 2025, the Government has confirmed that recreational use of cannabis is not legal. Moreover, the Government has announced that cannabis will be reclassified as a narcotic, and this is likely to lead to legal changes that will mean criminal penalties for anyone found in possession of cannabis, unless prescribed by a doctor for medical treatment.
 
 Some Irish nationals have suffered severe psychiatric effects due to cannabis use while in Thailand.
 
-### **Southern Border Provinces**
+The export of cannabis from Thailand without appropriate authorisation continues to constitute a criminal offence and offenders are liable for severe penalties.**Southern Border Provinces**
 
 We advise against all travel to or through the Southern Thai Provinces of Pattani, Yala, Narathiwat and Southern Songkhla due to ongoing instability and terrorist activity in this region. On 10 March 2019, a number of small explosions occurred in Satun City and in Patthalung Province in the South of Thailand and in December 2018; there was a number of small explosions on Samila beach in Songkhla City.
 
@@ -26,15 +32,11 @@ Martial law still applies in these Provinces. There are frequent incidences of v
 
 ### **Cambodian Border**
 
-There have been occasional clashes between Cambodia and Thailand over the 'Preah Vihear' issue for several years. Hostilities broke on a number of occasions in 2011 and there were civilian and military deaths on both sides. We recommend that you should take care travelling through Thailand-Cambodia border.
+There is an ongoing border dispute between Thailand and Cambodia, which has led to occasional clashes between Thai and Cambodian troops. As a consequence of the border tensions, land crossings between Thailand and Cambodia have been subject to temporary closures and restrictions. Irish citizens should take extra care when travelling in areas close to the border and follow the instructions and advice of the national and local authorities. Travellers intending to travel by land between the two countries should check in advance to make sure that border crossings are open in order to avoid travel delay or disruption.
 
 ### **Burmese/Myanmar Border**
 
 We recommend to exercise caution when traveling to rural areas of the Northern region and particularly near the Thai-Myanmar border. There are occasional clashes between the Thai security forces and armed drug traffickers. Military checkpoints are active and passengers are often asked to produce their ID. If considering traveling into Myanmar from Thailand, only cross into that country at an official border checkpoint and follow instructions of the Burmese/Myanmar and Thai authorities.
-
-### **Terrorism**
-
-Terrorist attacks may occur in Thailand. The last major terrorist incident in Bangkok was in August 2015 when 20 civilians lost their lives. There have been a number of smaller explosions since then. On 2 August 2019, there were three small explosions at locations in central Bangkok. A number of foreign tourists were also injured in a bombing in August 2016.
 
 ### **Crime**
 
