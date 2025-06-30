@@ -24,6 +24,7 @@ Terrorism is a threat worldwide.
 **More information:**
 
 * [Terrorism](https://www.smartraveller.gov.au/before-you-go/safety/terrorism)
+* [Armed conflict](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.smartraveller.gov.au%2Fbefore-you-go%2Fstaying-safe%2Farmed-conflict&data=05%7C02%7Ctravel.advice%40dfat.gov.au%7C16c8c58f64de46df6caa08ddb1e93e18%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638862337525123454%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=xb7cAVOyMbxADT4V5Ll%2BRFOpW3qDG7nKTx0EB5CCHME%3D&reserved=0).
 
 #### Kidnapping
 

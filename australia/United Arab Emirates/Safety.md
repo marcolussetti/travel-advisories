@@ -2,9 +2,9 @@
 
 #### Civil unrest and political tension
 
-Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions.
+The security situation in the Middle East remains unpredictable and could deteriorate with little or no warning. If the regional security situation deteriorates again this may result in airspace closures, flight cancellations and other travel disruptions at short notice.
 
-The security situation in the region remains unpredictable and could deteriorate with little or no warning. Monitor local and international media.
+Monitor local and international media.
 
 If there's a security incident, follow the advice of local authorities.
 

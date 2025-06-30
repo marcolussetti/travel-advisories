@@ -44,7 +44,7 @@ If, despite our advice, you decide to travel to North Sinai:
 
 #### Security Situation
 
-Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and the security situation could deteriorate with little notice. Avoid all demonstrations and protests. Peaceful protests and rallies can turn violent at short notice. Be aware, follow the advice of local authorities and monitor local media for updates.
+If the regional security situation deteriorates again this may result in airspace closures, flight cancellations and other travel disruptions at short notice. Avoid all demonstrations and protests. Peaceful protests and rallies can turn violent at short notice. Be aware, follow the advice of local authorities and monitor local media for updates.
 
 There's a high threat of terrorist attacks and violent crime in the Governorate of North Sinai.
 

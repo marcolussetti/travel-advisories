@@ -20,7 +20,7 @@ The land border crossing between Israel and Egypt (Taba Border Crossing – Mena
 
 To avoid long wait times at the border, you should pay for the Israeli [crossing fee online](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fborderpay.metropolinet.co.il%2F&data=05%7C02%7Ctravel.advice%40dfat.gov.au%7C5f8bc89ccb994418981908ddaf28d4e8%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638859312092875343%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Sr9Qfpv3cHiDnFgXDt7Cov7JAKt6NJh0NxXoytp0F5I%3D&reserved=0) before you arrive. You'll need to pay for a tourist visa and a land border entry fee for entry to Egypt. For the visa, you must have a non-Egyptian credit card or US dollars in cash. For the land border entry fee (payable in Egyptian Pounds) an ATM is available in the terminal. Plan for possible delays and make sure you have a supply of food, water and medication.
 
-The security situation in the region remains unpredictable and could deteriorate with little or no warning.
+The security situation in the region remains unpredictable and could deteriorate with little or no warning. Be aware that we currently advise Reconsider your Need to travel North of the St Catherine-Nuweiba Road in South Sinai except for the coast.
 
 #### Children
 

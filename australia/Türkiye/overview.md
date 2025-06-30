@@ -4,9 +4,7 @@ Latest update
 
 You will need permission from Türkiye’s Ministry of Foreign Affairs to enter Türkiye from Iran by land. You may be issued a transit visa with a maximum validity of five days for onwards travel. For assistance, contact the Australian Embassy in Ankara (see 'Travel').  
   
-Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions.   
-  
-Land border crossings into a neighbouring country may open and close at short notice. Check the latest public information from local authorities on entry requirements and border arrangements (see 'Safety').  
+If the regional security situation deteriorates again this may result in airspace closures, flight cancellations and other travel disruptions at short notice. Land border crossings into a neighbouring country may open and close at short notice. Check the latest public information from local authorities on entry requirements and border arrangements (see 'Safety').  
   
 There have been large protests across Türkiye, including in Istanbul. Demonstrations and protests may continue and may turn violent. A protest ban is in effect and there are restrictions to freedom of movement for those suspected of participating in protests. This is likely to be strictly enforced. Avoid protests and large public gatherings. Monitor the media and follow the advice of local authorities (see 'Safety').  
   
@@ -49,7 +47,7 @@ See [Safety](#safety)
 * There have been large protests across Türkiye, including in Istanbul. Demonstrations and protests may continue and may turn violent.   A protest ban is in effect and there are restrictions to freedom of movement for those suspected of participating in protests.  This is likely to be strictly enforced. Avoid protests and large public gatherings. Monitor the media and follow the advice of local authorities.
 * There's an ongoing risk of earthquakes in parts of Türkiye. Aftershocks can continue for days or weeks. Know the dangers of a major earthquake in your area and where your local shelter is.
 * There's an ongoing high threat of terrorist attacks in Türkiye. Possible targets include tourist areas, transport networks, shopping malls, hotels, places of worship and diplomatic premises. Be alert to potential threats, especially in locations frequented by foreigners. Avoid crowds, keep a low profile and be aware of your surroundings. Monitor the media for updates and follow the advice of local authorities.
-* Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions. Land border crossings into a neighbouring country may open and close at short notice. Check the latest public information from local authorities on entry requirements and border arrangements.
+* If the regional security situation deteriorates again this may result in airspace closures, flight cancellations and other travel disruptions at short notice. Land border crossings into a neighbouring country may open and close at short notice. Check the latest public information from local authorities on entry requirements and border arrangements.
 * There have been several recent deaths reported in Türkiye from methanol in counterfeit drinks. Be alert to the potential risks around food and drink spiking and methanol poisoning. See our advice on [partying safely while overseas](https://www.smartraveller.gov.au/before-you-go/safety/partying). Toxic substances, including methanol, could be mixed into alcoholic drinks. Drink only at reputable venues. Avoid homemade alcohol. Get medical help straight away if you suspect poisoning.
 
 Full travel advice:  [Safety](#safety)

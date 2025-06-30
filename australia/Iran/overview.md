@@ -40,7 +40,7 @@ Requirements for border crossings may change without notice. Check the latest pu
 
 For Australians travelling from Iran, Azerbaijan authorities have reopened the crossing on its southern border at Astara for 'exceptional' crossing by third-country nationals. 
 
-We have worked with Azerbaijan authorities to clear the backlog of Australian border crossing code applications. Any new applications will be delayed until next week, as 26-27 June is a public holiday in Azerbaijan.  If you have a crossing code, you can cross the Azerbaijan border during the holiday. Consular staff are at the border in Azerbaijan to assist as needed. 
+We have worked with Azerbaijan authorities to clear the backlog of Australian border crossing code applications. If you have a crossing code, you can cross the Azerbaijan border during the holiday. Consular staff are at the border in Azerbaijan to assist as needed. 
 
 You will need both a visa and a border crossing code to enter Azerbaijan. We must register your details with Azerbaijan authorities to get the border crossing code (for Australian passport holders, permanent residents and immediate family members). This is different to a visa. Contact the Australian Embassy in Türkiye ([consular.ankara@dfat.gov.au](mailto:consular.ankara@dfat.gov.au)). It can take up to 4 business days or longer for a border crossing code to be issued by Azerbaijan authorities.
 

@@ -28,11 +28,11 @@ For Australians travelling from Iran, Azerbaijan authorities have reopened the c
 
 You will still need a visa to enter Azerbaijan. You can get a visa online: <https://evisa.gov.az/en/>
 
-To depart Iran at the border, we must register your details with Azerbaijan authorities to get a border crossing code (for Australian passport holders). This is different to the visa. Contact the Australian Embassy in Türkiye ([consular.ankara@dfat.gov.au](mailto:consular.ankara@dfat.gov.au)). It can take up to 48 hours or longer for a border crossing code to be issued by authorities. Due to 26-27 June being a public holiday in Azerbaijan, new applications will not be processed until next week. If you have a crossing code, we have been advised you can cross the Azerbaijan border during the holiday.
+To depart Iran at the border, we must register your details with Azerbaijan authorities to get a border crossing code (for Australian passport holders, permanent residents and immediate family members). This is different to the visa. Contact the Australian Embassy in Türkiye ([consular.ankara@dfat.gov.au](mailto:consular.ankara@dfat.gov.au)). It can take up to 4 business days or longer for a border crossing code to be issued by authorities.
 
 You will need to provide your full name, passport number, your e-visa for Azerbaijan, and contact details for all individuals seeking to transit. If possible, send a scan of your passport biodata page.
 
-Some travellers have been able to cross into Azerbaijan at Astara without this code. Waiting times can vary significantly. Internet and telephone connectivity in Iran, including at the Azerbaijan border, can be very poor.
+Waiting times can vary significantly. Internet and telephone connectivity in Iran, including at the Azerbaijan border, can be very poor.
 
 #### Registering with the police
 

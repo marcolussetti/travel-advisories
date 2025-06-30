@@ -2,7 +2,9 @@
 
 Latest update
 
-Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions. The security situation in the Middle East is unpredictable and could deteriorate further with little warning. There is a risk of reprisal attacks and further escalation across the region, as well as the potential for terrorist attacks. Australians in the UAE should read our general advice about terrorism risks and protecting your safety during an armed conflict (see ‘Safety’).  
+We continue to advise exercise a high degree of caution in the United Arab Emirates (UAE).  
+  
+The security situation in the Middle East remains unpredictable. If the regional security situation deteriorates again this may result in airspace closures, flight cancellations and other travel disruptions at short notice (see ‘Safety’).  
   
 Tourist visas for the UAE are issued on arrival in Abu Dhabi and Dubai. For the latest information on travelling to, from or connecting through Abu Dhabi and Dubai international airports, see ‘Travel’.
 
@@ -24,10 +26,10 @@ Exercise a high degree of caution in the UAE due to the threat of terrorism.
 
 ### Safety
 
-* Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions. The security situation in the Middle East is unpredictable and could deteriorate further with little warning. There is a risk of reprisal attacks and further escalation across the region, as well as the potential for terrorist attacks.
+* The security situation in the Middle East remains unpredictable. If the regional security situation deteriorates again this may result in airspace closures, flight cancellations and other travel disruptions at short notice.
 * Australians should read our general advice about [terrorism risks](/node/342) and  protecting your safety during an [armed conflict](/node/622).
-* Demonstrations and protests are prohibited and rarely occur, unless they have been authorised in advance by local authorities. Avoid any demonstrations or protests if you come across them. Monitor local media for updates and follow the advice of authorities.
 * There's an ongoing threat of terrorism in the UAE. Maintain a high level of security awareness. If there's a security incident, follow the advice of local officials.
+* Demonstrations and protests are prohibited and rarely occur, unless they have been authorised in advance by local authorities. Avoid any demonstrations or protests if you come across them. Monitor local media for updates and follow the advice of authorities.
 * The crime rate is low. Petty crime, such as pickpocketing and bag snatching, occurs but is rare. Drink spiking sometimes happens. Physical and verbal harassment and sexual assaults occur. Avoid walking alone after dark in isolated places, including pedestrian underpasses.
 * Be prepared for extreme weather. Between June and September, temperatures can exceed 50°C. Sand and dust storms are also common. In extreme heat, stay out of the sun and drink plenty of water. Intense storms can occur between December and May, which may trigger flash flooding. Monitor local media and follow the advice of local authorities.
 * Many areas of the Gulf are sensitive to security issues and territorial disputes. There's also a risk of piracy. If you're planning sea travel, refer to the International Maritime Bureau’s piracy reports.

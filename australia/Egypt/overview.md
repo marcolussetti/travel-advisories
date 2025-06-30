@@ -4,7 +4,7 @@ Latest update
 
 We continue to advise exercise a high degree of caution for Egypt due to the threat of terrorism. We also advise do not travel or reconsider your need to travel to several areas of Egypt due to threats including higher risks of terrorism or serious crime - read our advice carefully. Terrorist attacks could occur anywhere in Egypt. Potential targets include religious sites and tourist locations.   
   
-Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions. For information on the Taba land border crossings from Israel see 'Travel' below. Be aware that we currently advise Reconsider your Need to travel North of the St Catherine-Nuweiba Road in South Sinai except for the coast.  
+If the regional security situation deteriorates again this may result in airspace closures, flight cancellations and other travel disruptions at short notice.   
   
 Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests (See 'Safety').
 
@@ -50,9 +50,9 @@ See [Safety](#safety)
 
 ### Safety
 
-* For information on the Taba land border crossings from Israel please see 'Travel' below. Be aware that we currently advise Reconsider your Need to travel North of the St Catherine-Nuweiba Road in South Sinai except for the coast.
-* Conflicts in the Middle East could result in an increase in tensions elsewhere in the region and may result in airspace closures, flight cancellations and other travel disruptions. Land border crossings into a neighbouring country may open and close at short notice. Check the latest public information from local authorities on entry requirements and border arrangements.
+* If the regional security situation deteriorates again this may result in airspace closures, flight cancellations and other travel disruptions at short notice.
 * Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests.
+* For information on the Taba land border crossings from Israel please see 'Travel' below. Be aware that we currently advise Reconsider your Need to travel North of the St Catherine-Nuweiba Road in South Sinai except for the coast.
 * There's a high threat of terrorist attacks and violent crime in the Governorate of North Sinai.
 * The Rafah crossing between Gaza and Egypt may be closed or have highly restricted access which is subject to change at short notice. It has been subject to air strikes during the current conflict.
 * Terrorists have attacked popular tourist locations, resulting in deaths and injuries. More attacks are likely. Be alert to possible threats.
