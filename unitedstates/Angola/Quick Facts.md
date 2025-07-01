@@ -4,7 +4,7 @@
 
 PASSPORT VALIDITY:
 
-Valid for at least the planned duration of stay
+Valid for the duration of stay
 
 BLANK PASSPORT PAGES:
 
@@ -12,7 +12,7 @@ BLANK PASSPORT PAGES:
 
 TOURIST VISA REQUIRED:
 
-No. U.S. passport holders on tourism are eligible for visa-free entry for stays of up to 30 days at a time (90 days total per calendar year). All other travelers must obtain a visa or visa pre-approval.
+Not required for tourism up to 30 days per visit (90 days total per calendar year)
 
 VACCINATIONS:
 
@@ -20,8 +20,8 @@ None
 
 CURRENCY RESTRICTIONS FOR ENTRY:
 
-Declare amounts over $10,000
+$10,000 or equivalent
 
 CURRENCY RESTRICTIONS FOR EXIT:
 
-Up to the equivalent of $10,000 in combined currency (See currency regulations below)
+$10,000 or equivalent

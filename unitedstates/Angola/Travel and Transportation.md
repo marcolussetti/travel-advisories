@@ -2,30 +2,57 @@
 
 [#### Travel and Transportation](javascript:void(0); "Travel and Transportation")
 
-**Road Conditions and Safety:** Major roads between Luanda and the provincial capitals are improving, but some road conditions remain poor while the infrastructure for pedestrians is lacking: Large potholes require reduced speed and can limit main roads to single-lanes, and it is common for people and animals to walk along the road. Drunk driving is also a problem. Other hazards include potholes, lack of or attention to traffic signals, erratic driving habits, poorly maintained vehicles without headlights/taillights/brake lights, excessive speed, pedestrians, and roaming animals. During the rainy season, November-April, roads and bridges that are already in poor condition can become impassable and landmines may become displaced and surface outside known mine fields.
+**Road Conditions and Safety:** Major roads between Luanda and the provincial capitals are improving, but road conditions remain poor.
 
-When driving outside of Luanda on other than primary roads between major cities, a four-wheel-drive vehicle is useful. Secondary roads are often unpaved and nearly impassable. Major routes are paved in most areas and feature gas stations and other roadside services. Driving during daylight hours is recommended outside Luanda.
+* There are no or only limited sidewalks and pedestrian infrastructure.
+* People and animals often walk on roadsides or interfere with traffic.
+* Large potholes reduce driving speeds and may limit main roads to single lanes.
+* Drunk driving is a problem.
+* Other hazards include:
+  + Potholes
+  + Ignored or non-working traffic signals
+  + Speeding and erratic driving habits
+  + Poorly maintained vehicles with no headlights, taillights, or brake lights
+* During the rainy season, November-April, roads and bridges become impassable and landmines may be displaced to roadways from known minefields.
 
-**Traffic Laws:** You will need an international driving permit or Angolan drivers license to drive. You may use a U.S. license for up to one month.
+When driving outside of Luanda major routes are paved in most areas and have gas stations and other roadside services. Driving during daylight hours is recommended.
 
-**Checkpoints**: Both inside and around Luanda, police set up spontaneous roadblocks to check for vehicle documentation. They may also solicit bribes or request immediate payment of "fines" for alleged minor infractions. Police and military officials are sometimes undisciplined, and their authority should not be challenged.
+* A four-wheel-drive vehicle may be necessary on secondary roads outside of Luanda.
+* Some roads are often unpaved and are impassable with a low-clearance vehicle.
+
+**Traffic Laws:** You will need an international driving permit or Angolan driver’s license to drive. You may use a U.S. license for up to one month.
+
+**Checkpoints**: Both inside and around Luanda, police set up spontaneous roadblocks to check vehicle documentation. They may also solicit bribes or request immediate payment for alleged minor infractions. Police and military officials are sometimes undisciplined, but avoid challenging their authority:
 
 * Make sure all vehicle documentation is available for inspection.
 * Resist paying bribes. Politely ask for a ticket or for the officer’s name and badge number if no violation is alleged. Ask to contact the U.S. Embassy if you are not let go.
-* Remain inside your vehicle with doors locked and open the window slightly to communicate.
-* Carry color photocopies of your passport and other identity documents to give to security or police officials.
-* Report any incident to the U.S. Embassy in Luanda.
+* Remain inside your vehicle with doors locked. Open your window slightly to communicate.
+* Carry color photocopies of your passport and other identity documents to present to security or police officials.
+* Report any incident to the U.S. Embassy.
 
-**Accidents:**In the event of an automobile accident, remain at the scene until the police arrive.
+**Accidents:** In the event of an automobile accident, remain at the scene until police arrive.
 
-If a hostile mob forms or you feel your safety is in danger, leave the scene and proceed directly to the nearest police station to report the incident.  Do not stop at the scene of an accident where people have gathered, as mobs can develop quickly.
+If a crowd gathers or you feel in danger, leave the scene and proceed directly to the nearest police station to report the incident.
 
-**Landmines:** Use caution in remote areas or off main roads outside of Luanda. Landmines are most common in the southern provinces. The provinces of Bie, Cuando Cubango Cuanza Sul, Moxico, and Huila have a higher prevalence of landmines than other areas of the country.
+* Do not stop at the scene of an accident where people have gathered, as mobs can develop quickly.
 
-**Public Transportation:**Avoid all use of public transportation in multi-passenger vans known as *candongueiros* or motorcycles, *taxistas*, and hire private transport from a reliable source. All public transportation is unregulated, unreliable, and generally unsafe. The U.S. Embassy has determined Allo Taxi is an acceptable rideshare service.
+**Landmines:** Use caution in remote areas or off main roads outside Luanda. Landmines are most common in the southern provinces, including:
 
-See our [Road Safety page](https://travel.state.gov/content/travel/en/international-travel/before-you-go/driving-and-road-safety.html) for more information.
+* Bie
+* Cuando
+* Cubango
+* Cuanza Sul
+* Moxico
+* Huila
 
-**Aviation Safety Oversight:** As there is no direct commercial air service to the United States by carriers registered in Angola, the U.S. Federal Aviation Administration (FAA) has not assessed the government of Angola’s civil aviation authority for compliance with International Civil Aviation Organization (ICAO) aviation safety standards. Further information may be found on the [FAA’s safety assessment page](https://www.faa.gov/about/initiatives/iasa).
+**Public Transportation:** Most public transportation is unregulated, unreliable, and generally unsafe:
 
-**Maritime Travel:**Mariners planning travel to Angola should also check for U.S. [maritime advisories and alerts](https://www.maritime.dot.gov/msci-advisories). Information may also be posted to the U.S. Coast Guard homeport website (https:homeport.uscg.mil), and the [NGA broadcast warnings website](https://msi.nga.mil/NGAPortal/MSI.portal) select “broadcast warnings.”
+* Avoid public transportation in multi-passenger vans (known as *candongueiros*) or on motorcycles (known as *taxistas*).
+* Only hire private transport from reliable sources.
+* U.S. Embassy personnel are only authorized to use UGO ride service.
+
+ See our [Road Safety page](https://travel.state.gov/content/travel/en/international-travel/before-you-go/driving-and-road-safety.html) for more information.
+
+**Aviation Oversight:** The U.S. Federal Aviation Administration (FAA) has not assessed Angola’s Civil Aviation Authority for compliance with international standards for aviation safety oversight. [FAA's website](https://website/) includes more information on its assessment program.
+
+**Maritime Travel:** Mariners planning travel to Angola should also check for U.S. maritime [advisories](https://www.maritime.dot.gov/msci-advisories) and [alerts](https://www.maritime.dot.gov/msci-alerts). Information may also be posted to the [U.S. Coast Guard homeport website](https://homeport.uscg.mil/), and the [NGA broadcast warning website](https://msi.nga.mil/NavWarnings).

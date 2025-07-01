@@ -2,22 +2,26 @@
 
 [#### Entry, Exit and Visa Requirements](javascript:void(0); "Entry, Exit and Visa Requirements")
 
-**U.S. passport holders traveling to the Republic of Angola on tourism are eligible for visa-free entry for stays of up to 30 days at a time (90 days total per calendar year).**
+**You may visit Angola visa-free as a tourist for up to 30 days per trip (90 days total per calendar year).**
 
-U.S. citizens traveling to Angola for tourism must present the following upon arrival:
+ You must present the following upon arrival: 
 
-* A passport which is valid for at least the planned duration of stay within Angola; and,
+* A U.S. passport valid for the duration of your stay in Angola, with at least 1 blank page
 
-**All other travelers must obtain a visa or visa pre-approval before traveling to Angola.**U.S. passport holders traveling to the Republic of Angola for other reasons, including: work, temporary residency, study, or medical treatment, should apply for the appropriate visa at the nearest Angolan Embassy or Consulate or through the Angolan Migration Service’s (Serviço de Migração e Estrangeiros, SME [site for visas and visa pre-approval](http://www.smevisa.gov.ao/). SME strives to complete visa processing within three business days, but delays may occur.
+**For all other travel, you must obtain a visa or visa pre-approval before traveling to Angola.**
 
-Foreign workers in Angola must arrive with a work visa and must keep the visa current. Doing otherwise risks fines and arrest.
+* Review visa requirements at the nearest Angolan Embassy or Consulate or at [the Angolan Migration Service, Serviço de Migração e Estrangeiros (SME) website for visas and visa pre-approval](https://www.sme.gov.ao/).
+* Apply for your visa as soon as possible. Wait times may be long.
+* If you plan to work in Angola, you must have a valid, unexpired work visa during your stay. If you don’t, police may fine or arrest you.
 
-Arrange reliable and secure ground transportation from the airport in advance.
+Immigration and customs officials at the airport have detained foreigners without cause and demanded payments, tips, or bribes before allowing them to enter or depart Angola.
 
-Immigration and customs officials at the airport have detained foreigners without cause and demanded gratuities before allowing them to enter or depart Angola. If harassed at a port of entry, ask to speak with the U.S. Embassy or an immigration shift supervisor (*chefe de turno da imigração*).
+* If harassed at a port of entry, ask to speak with the U.S. Embassy or an immigration shift supervisor (*chefe de turno da imigração*).
 
-**Currency Regulations:**Any amount over $10,000 in combined currency must be declared upon entry. Non-residents and residents may also exit the country with up to $10,000. Expect to be searched at the airport and any amount over those limits to be confiscated.
+**Airport Transportation:** Arrange reliable ground transportation from the airport before you arrive.
 
-**HIV/AIDS restrictions:**The U.S. Department of State is unaware of any HIV/AIDS entry restrictions for visitors to or foreign residents of Angola.
+**Currency Regulations:** You must declare any currency over $10,000 at entry and exit.  Expect to be searched at the airport. Any amount over $10,000 may be confiscated.
 
-Find information on [dual nationality](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/Dual-Nationality-Travelers.html), [prevention of international child abduction](https://travel.state.gov/content/travel/en/International-Parental-Child-Abduction.html) and [customs regulations](https://travel.state.gov/content/travel/en/international-travel/before-you-go/customs-and-import.html) on our websites.
+**HIV/AIDS restrictions:** The U.S. Department of State is unaware of any HIV/AIDS entry restrictions for visitors to or foreign residents of Angola.
+
+Find information on [dual nationality](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/Dual-Nationality-Travelers.html), [prevention of international child abduction](https://travel.state.gov/content/travel/en/International-Parental-Child-Abduction.html) and [customs regulations](https://travel.state.gov/content/travel/en/international-travel/before-you-go/customs-and-import.html) on our website.
