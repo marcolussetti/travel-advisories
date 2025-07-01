@@ -8,7 +8,7 @@ Separatist insurgents periodically perpetrate criminally and politically motivat
 
 These deadly attacks include shootings, bombings and arson, and are usually directed at military, government and security buildings and personnel. They have also occurred in a variety of public places.
 
-Martial law and heavily enhanced security measures are in place in Narathiwat, Pattani, and Yala provinces, and the Chana, Na Thawi, Thepha and Saba Yoi, and Districts of Songkhla province.
+Martial law and heavily enhanced security measures are in place in Narathiwat, Pattani, and Yala provinces, and the Chana, Na Thawi, Thepha and Saba Yoi districts of Songkhla province.
 
 Increased enforcement powers allow authorities to:
 
@@ -17,11 +17,11 @@ Increased enforcement powers allow authorities to:
 * seize objects or documents
 * impose curfews
 
-You risk becoming a collateral victim of an attack if you travel in these provinces.
+You risk becoming a collateral victim of an attack if you travel in these provinces.
 
 ### Myanmar border areas in the provinces of Mae Hong Son and Tak
 
-Exercise a high degree of caution when travelling to the Thailand–Myanmar border areas in the provinces of Mae Hong Son and Tak.
+Exercise a high degree of caution when travelling to the Thailand-Myanmar border areas in the provinces of Mae Hong Son and Tak.
 
 Occasional violence, banditry and clashes between government forces and drug traffickers occur.
 
@@ -55,7 +55,7 @@ Such measures could be enforced at any time. Some television, radio stations and
 
 Petty crime, such as purse snatching, pickpocketing and theft, is common. Thieves sometimes use razors to cut purses and bags open to remove their contents.
 
-* Don’t leave bags unattended
+* Don't leave bags unattended
 * Ensure that your personal belongings, including your passport and travel documents, are secure at all times, especially in tourist areas, crowded markets and bus or train stations
 * Avoid walking in dark alleys or isolated areas
 
@@ -125,7 +125,7 @@ Never leave food or drinks unattended or in the care of strangers. Be wary of ac
 
 Seek immediate medical attention if you suspect that you have been drugged.
 
-### Women’s safety
+### Women's safety
 
 Sexual assaults against foreign women have occurred. Be particularly vigilant during full moon parties, Songkran, and other events in popular tourist locations.
 
@@ -183,7 +183,7 @@ Diving schools and rescue services may not adhere to international standards.
 
 * Rent water sports equipment only from operators affiliated with major international training organizations
 * Exercise extreme caution when swimming or practising water activities
-* Heed flag warnings and don’t swim when a red flag is displayed
+* Heed flag warnings and don't swim when a red flag is displayed
 * If stung by a jellyfish, seek immediate medical assistance
 
 [Water safety abroad](https://travel.gc.ca/travelling/health-safety/water-safety)
@@ -192,7 +192,7 @@ Diving schools and rescue services may not adhere to international standards.
 
 If you undertake adventure sports, such as zip-lining, rock climbing, speleology, elephant trekking or parasailing, choose a well-established and reputable company that has insurance.
 
-Tour operators may not adhere to international standards. If you have any doubt concerning the safety of the installation or equipment, don’t use them. Ensure that your travel insurance covers the recreational activities you choose.
+Tour operators may not adhere to international standards. If you have any doubt concerning the safety of the installation or equipment, don't use them. Ensure that your travel insurance covers the recreational activities you choose.
 
 If engaging in adventure tourism:
 
@@ -200,9 +200,9 @@ If engaging in adventure tourism:
 * always hire an experienced guide from a reputable company
 * buy travel insurance that includes helicopter rescue and medical evacuation
 * ensure that your physical condition is good enough to meet the challenges of your activity
-* don’t venture off marked trails
-* ensure that you’re properly equipped
-* ensure that you’re well informed about weather and other conditions that may pose a hazard
+* don't venture off marked trails
+* ensure that you're properly equipped
+* ensure that you're well informed about weather and other conditions that may pose a hazard
 * inform a family member or friend of your itinerary
 * obtain detailed information on each activity before setting out
 
@@ -230,7 +230,7 @@ Pedestrians and cyclists should be particularly careful. You should always use e
 
 Motorcycle accidents are common and are responsible for the majority of road deaths. Rental scooters and motorcycles are often poorly maintained, making them unsafe to their riders and others on the road.
 
-Helmets are mandatory for motorcycle riders (including passengers), but many helmets don’t meet international safety standards.
+Helmets are mandatory for motorcycle riders (including passengers), but many helmets don't meet international safety standards.
 
 Insurance claims could be denied if you were driving without a motorcycle licence.
 
@@ -246,7 +246,7 @@ If arriving by air, arrange to be picked up by hotel shuttle services, use a tru
 
 Unlicensed vehicles (bearing black and white licence plates) are not correctly insured to carry passengers and may not use meters. Many taxis may not be equipped with backseat seatbelts.
 
-Don’t share a taxi with strangers.
+Don't share a taxi with strangers.
 
 Disputes with taxis operators, tuk-tuks (motorized rickshaws), etc., occur and have occasionally resulted in violence or intimidation. Should a dispute occur and you feel threatened, seek local police's assistance to settle the matter.
 
@@ -254,7 +254,7 @@ Disputes with taxis operators, tuk-tuks (motorized rickshaws), etc., occur and h
 
 Passenger boats accidents have occurred due to overloading and poor maintenance of some vessels. Vessels often lack adequate safety equipment.
 
-Don’t board vessels that appear overloaded or unseaworthy.
+Don't board vessels that appear overloaded or unseaworthy.
 
 #### Trains
 

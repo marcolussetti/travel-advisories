@@ -4,8 +4,6 @@
 
 ### Demonstrations and strikes
 
-Demonstrations linked to the Tempi train accident have been occurring in Greece since February 28, 2025. Violent incidents have occurred. Expect sporadic disruptions to public transportation and road closures.
-
 #### Demonstrations
 
 Demonstrations take place regularly, particularly in Athens and Thessaloniki. They are usually held on days of social or historical significance, such as:

@@ -1,7 +1,7 @@
 {
     "name": "Hungary",
-    "update_reason": "Safety and security \u2013 added information on the banning of the Budapest Pride March",
-    "update_date": "2025-06-27T15:43:00",
+    "update_reason": "Safety and security \u2013 removed information on the Budapest Pride March",
+    "update_date": "2025-06-30T14:39:00",
     "sections": {
         "risk": "canada/Hungary/risk.md",
         "security": "canada/Hungary/security.md",
