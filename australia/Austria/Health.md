@@ -81,6 +81,18 @@ Measles cases can occur. Austria has experienced outbreaks in the past. Make sur
 
 * [Measles immunisation service](https://www.health.gov.au/topics/immunisation/immunisation-services/measles-immunisation-service-0?language=und) (Department of Health)
 
+#### Other health risks
+
+Outbreaks of foodborne and other infectious diseases can occur. These include:
+
+* [Hepatitis](https://www.who.int/health-topics/hepatitis)
+
+To reduce your risk of illness:
+
+* practice good hygiene
+* avoid contaminated food or water
+* make sure your vaccinations are up to date
+
 #### Medical care
 
 The standard of medical facilities is of a similar standard to Australia.

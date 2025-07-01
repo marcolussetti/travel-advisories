@@ -30,7 +30,7 @@ Your insurer should have a 24-hour emergency number.
 
 Read the [Consular Services Charter](/consular-services/consular-services-charter "Consular Services Charter") for what the Australian Government can and can't do to help you overseas.
 
-The Australian Consulate in Kampala closes on 30 June 2025.
+The Australian Consulate in Kampala closed on 30 June 2025.
 
 Consular assistance is available from the Australian High Commission in Kenya.
 

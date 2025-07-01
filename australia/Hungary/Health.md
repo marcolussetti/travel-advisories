@@ -67,6 +67,18 @@ To reduce your risk of tick-borne disease:
 * remove ticks as soon as possible, making sure to remove the whole tick
 * monitor the tick site for signs of infection
 
+#### Other health risks
+
+Outbreaks of foodborne and other infectious diseases can occur. These include:
+
+* [Hepatitis](https://www.who.int/health-topics/hepatitis#tab=tab_1)
+
+To reduce your risk of illness:
+
+* practice good hygiene
+* avoid contaminated food or water
+* make sure your vaccinations are up to date
+
 **More information:**
 
 * [Infectious diseases](/before-you-go/health/diseases "Infectious diseases")

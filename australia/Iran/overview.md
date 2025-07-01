@@ -8,6 +8,8 @@ If you'd like to depart, commercial options to leave Iran are becoming available
   
 We continue to urge Australians who want to leave Iran to do so now, if it is safe. Australians in Iran who are unable to leave, or do not wish to leave, are advised to take all precautions for your safety. Be alert and aware of your surroundings. While the current ceasefire is holding, the situation remains volatile and can change quickly. See our advice on safety during an armed conflict (see ‘Safety’).   
   
+Foreigners in Iran, including Australians, are at a high risk of arbitrary detention or arrest. The risk of questioning may be increased at border crossings for dual Australian-Iranian nationals when trying to leave or enter Iran. Our ability to provide consular support to dual Australian-Iranian nationals is extremely limited. We can't guarantee access to consular services or legal representation if you're detained or arrested. If you’re a dual Australian-Iranian you must exit Iran on your Iranian passport. You should be prepared to encounter checkpoints and questioning from Iranian authorities before departing Iran. See ‘Security – Risk of arbitrary detention or arrest’.  
+  
 If you're an Australian citizen or permanent resident in Iran, you can register on the Department of Foreign Affairs and Trade's crisis registration portal. Keep your registration details up to date so we can contact you (see 'Safety').   
   
 If you intend to travel by land into a neighbouring country, check the latest public information from local authorities in Iran and your destination on visa and border arrangements. Borders may close without notice. You should consider the risks carefully before attempting to leave by any route and you should make your own assessment whether it's safe for you to travel in current circumstances. This includes considering the security situation and the potential risks involved. If you are not confident in the safety and reliability of any departure option, shelter in place and follow the advice of local authorities. Transport routes may be disrupted. Roads may be crowded and exposed to security risks such a military action, rocket attacks and terrorism, as may border crossings. Iran’s borders with neighbouring countries may have restrictions for foreign nationals and may close at short notice. See detailed information on border crossings in the ‘Overview’ section below.  
@@ -34,7 +36,7 @@ Do not travel to Iran due to the volatile regional security situation and the ri
 
 ### Border crossings
 
-Requirements for border crossings may change without notice. Check the latest public information from local authorities on entry requirements and border arrangements.
+Requirements for border crossings may change without notice. Check the latest public information from local authorities on entry requirements and border arrangements. Foreigners in Iran, including Australians, are at a high risk of arbitrary detention or arrest. The risk of questioning may be increased at border crossings for dual Australian-Iranian nationals when trying to leave or enter Iran.  If you’re a dual Australian-Iranian you must exit Iran on your Iranian passport. You should be prepared to encounter checkpoints and questioning from Iranian authorities before departing Iran. See ‘Security – Risk of arbitrary detention or arrest'.
 
 ##### [Azerbaijan](/destinations/europe/azerbaijan "Azerbaijan")
 
@@ -64,10 +66,6 @@ The Iran-Turkmenistan border is open for humanitarian purposes, including for tr
   
 Australians seeking to transit Turkmenistan must arrive at either Bajgiran or Artyk border crossing posts and must present a valid airline ticket with a departure time from Turkmenistan within 7 hours of your arrival at the land border. Details of your outward flight, and information on which crossing you will use, must be communicated to the Australian Embassy in Moscow in advance of your arrival at the border. If you arrive at the border more than 7 hours from your departure time from Turkmenistan, or without a valid airline ticket, you will be turned away.  
   
-Requirements for border crossings from Iran may change without notice. Check the latest public information from local authorities on entry requirements and border arrangements.
-
-Foreigners, including dual nationals, are at increased risk of questioning, arrest or detention in Iran. If you’re a dual Australian-Iranian you must exit Iran on your Iranian passport. You should be prepared to encounter checkpoints and questioning from Iranian authorities before departing Iran. See ‘Security – Risk of arbitrary detention or arrest’.
-
 Full travel advice: [Travel](#travel)
 
 ### Safety

@@ -60,6 +60,18 @@ If you're in forest or country areas, you're at risk of tick-borne diseases, suc
 
 * [Infectious diseases](/before-you-go/health/diseases "Infectious diseases")
 
+#### Other health risks
+
+Outbreaks of foodborne and other infectious diseases can occur. These include:
+
+* [Hepatitis](https://www.who.int/health-topics/hepatitis#tab=tab_1)
+
+To reduce your risk of illness:
+
+* practice good hygiene
+* avoid contaminated food or water
+* make sure your vaccinations are up to date
+
 #### Medical care
 
 Medical facilities are of Western standards. The quality of care in the Czech Republic is generally good, with private facilities usually being of a higher standard than public ones.
