@@ -11,7 +11,7 @@ Crime remains relatively low in Finland but you should take sensible precautions
 * Don’t carry your credit card, travel tickets and money together - leave spare cash and valuables in a safe place.
 * Don’t carry your passport unless absolutely necessary and leave a copy of your passport (and travel and insurance documents) with family or friends at home.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If you’re a victim of a crime while in Finland, report it to the local police immediately. You can contact us at the Irish Embassy in Helsinki if you need help.
 
@@ -23,7 +23,7 @@ If you’re planning to drive in Finland, you should take care, particularly dur
 * Drive with dimmed headlights at all times.
 * Make sure your car has winter/snow tyres (either studded or non-studded) from 1 December to 31 March – this is a legal requirement.
 
-### **Vehicle hire**
+### **Vehicle Hire**
 
 If you’re hiring a vehicle, we advise you not to hand over your passport as a form of security. If you’re allowing your passport to be photocopied, keep it in your sight at all times.
 

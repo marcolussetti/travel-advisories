@@ -4,10 +4,6 @@
 
 High Degree of Caution
 
-### **Travel Alert**
-
-Travellers are advised that on 21 March 2025 the US Embassy in Tanzania issued a [**Travel Advisory**](https://tz.usembassy.gov/security-alert-u-s-embassy-dar-es-salaam-tanzania-march-21-2025/) to avoid travel to islands and coastal areas south of Kisiju, Tanzania.
-
 ### **General Travel Advice**
 
 Irish citizens require a visa to enter mainland Tanzania and Zanzibar. [**Apply for an e-visa**](https://visa.immigration.go.tz/) before you travel. It is possible to get a tourist or business visa for a single entry on arrival at main ports of entry to Tanzania, subject to the fulfilment of all immigration requirements. You will not be able to get a multiple entry visa on arrival. Passengers may be asked to provide proof of their return journey at Tanzanian immigration.

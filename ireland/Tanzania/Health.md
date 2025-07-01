@@ -4,9 +4,9 @@
 
 Before travelling, the Department **strongly recommends** obtaining comprehensive travel insurance which will cover all overseas medical costs, including medical repatriation/evacuation, repatriation of remains and legal costs. Check any exclusions and, in particular, that your policy covers all the activities you want to undertake.
 
-From 1 October 2024, all foreigners entering Zanzibar will be required to purchase mandatory travel insurance directly from the national insurer, Zanzibar Insurance Corporation. For more information please visit <https://visitzanzibar.go.tz/>.
+From 1 October 2024, all foreigners entering Zanzibar will be required to purchase mandatory travel insurance directly from the national insurer, Zanzibar Insurance Corporation. For more information please visit [**https://visitzanzibar.go.tz/**](https://visitzanzibar.go.tz/).
 
-On 14 January 2025, [WHO informed member states of an outbreak of suspected Marburg disease in the Kagera region of northwest Tanzania](https://www.who.int/emergencies/disease-outbreak-news/item/2025-DON552). Investigations are ongoing to determine the full scope of the outbreak. Travellers to the area are advised to take extra precautions, read relevant [WHO guidance](https://www.who.int/emergencies/disease-outbreak-news/item/2025-DON552), monitor developments regularly and follow the advice of local authorities.
+On 14 January 2025, [**WHO informed member states of an outbreak of suspected Marburg disease in the Kagera region of northwest Tanzania**](https://www.who.int/emergencies/disease-outbreak-news/item/2025-DON552). Investigations are ongoing to determine the full scope of the outbreak. Travellers to the area are advised to take extra precautions, read relevant [**WHO guidance**](https://www.who.int/emergencies/disease-outbreak-news/item/2025-DON552), monitor developments regularly and follow the advice of local authorities.
 
 ### **Vaccinations**
 

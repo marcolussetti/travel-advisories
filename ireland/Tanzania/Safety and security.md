@@ -12,7 +12,7 @@ Demonstrations and political rallies happen occasionally across Tanzania (includ
 
 ### **Mtwara and Border with Mozambique**
 
-Irish citizens are advised against all travel within 20 kilometres of the border between Mtwara, Tanzania, and Cabo Delgado, Mozambique, due to ongoing violent insurgency in Cabo Delgado. Irish citizens may also wish to consult [travel advice for Mozambique](https://www.ireland.ie/en/dfa/overseas-travel/advice/mozambique/#:~:text=General%20Travel%20Advice,equivalent%20of%20650%20Meticais%20(approx.).
+Irish citizens are advised against all travel within 20 kilometres of the border between Mtwara, Tanzania, and Cabo Delgado, Mozambique, due to ongoing violent insurgency in Cabo Delgado. Irish citizens may also wish to consult [**travel advice for Mozambique**](https://www.ireland.ie/en/dfa/overseas-travel/advice/mozambique/#:~:text=General%20Travel%20Advice,equivalent%20of%20650%20Meticais%20(approx.).
 
 ### **Petty and Violent Crime**
 

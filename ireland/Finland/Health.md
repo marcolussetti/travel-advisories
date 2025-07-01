@@ -1,12 +1,12 @@
 ## Health
 
-### **Medical care**
+### **Medical Care**
 
 You may be charged a standard fee at public health centres depending on the treatment you receive and where you receive it.
 
 There’s a fixed daily charge for both in-patient treatment and outpatient visits at public hospitals, which are non-refundable. However, you may be able to claim a partial refund on private treatment from either a doctor or a hospital if you submit a receipt to the local KELA (the Social Insurance Institute of Finland) office. You must claim refunds for medical expenses within six months of the original payment.
 
-### **Prescription drugs**
+### **Prescription Drugs**
 
 You can get prescription drugs from any pharmacy. You'll be charged the full cost but you may be able to claim a refund from the local KELA office. See details at the following link [**http://www.kela.fi/web/en/medicine-expenses?inheritRedirect=true**](http://www.kela.fi/web/en/medicine-expenses?inheritRedirect=true)
 
@@ -20,7 +20,7 @@ Buying comprehensive travel insurance can save you and your family a lot of mone
 
 Not all policies are the same, and the cheapest one might be cheap for a reason. Make sure your policy covers all the activities you plan to do on your trip. [**Insurance Ireland recommend**](http://www.insuranceireland.eu/consumer-information/general-non-life-insurance/travel) that you purchase a policy that provides a minimum medical cover of €1 million.
 
-### **Emergency expenses**
+### **Emergency Expenses**
 
 Your policy should cover:
 
