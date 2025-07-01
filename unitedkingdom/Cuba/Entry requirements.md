@@ -14,7 +14,7 @@ You will be denied entry if you do not have a valid travel document or try to us
 
 ## Visa requirements
 
-If you’re visiting Cuba as a tourist, you need to get a tourist card, also known as a tourist visa, before you travel. Apply through the [Cuban Embassy in the UK](https://misiones.cubaminrex.cu/en/united-kingdom/embassy-cuba-united-kingdom-great-britain-and-northern-ireland) or check with your travel agent or tour operator. Travellers can also access the link [here](https://evisacuba.cu/en/inicio) to apply for their tourist cards/’visa’ online. The electronic card will be linked to the applicant’s passport.
+If you’re visiting Cuba as a tourist, you need to get a tourist -visa, also known as a tourist -card, before you travel. Apply through the [Cuban Embassy in the UK](https://misiones.cubaminrex.cu/en/united-kingdom/embassy-cuba-united-kingdom-great-britain-and-northern-ireland) or check with your travel agent or tour operator. You can also apply for an electronic visa through the [eVisa-Cuba](https://evisacuba.cu/en/inicio) site. When your application is approved, you will receive a ten-character code which should be entered as you fill in your advance passenger information on the [DViajeros](https://www.dviajeros.mitrans.gob.cu/inicio) platform (see below). This will generate a QR code to be presented to the immigration authorities at the border. The electronic-visa will be linked to the applicant’s passport.
 
 You must also show proof of onward or return travel. See [Cuba’s consular services information](https://misiones.cubaminrex.cu/en/united-kingdom/consular-services) for details.
 
@@ -28,7 +28,9 @@ The authorities take any breach of immigration rules seriously. You could be det
 
 ### Checks at border control
 
-You must complete an online arrival form on the [D’Viajeros traveller information portal](https://dviajeros.mitrans.gob.cu/inicio) within 72 hours before entering the country. You’ll get a QR code by email. This must be to shown to the authorities on arrival as an electronic or printed version. Airlines will check completion of the form at check-in..
+You must complete an online arrival form on the [D’Viajeros traveller information portal](https://dviajeros.mitrans.gob.cu/inicio) within 72 hours before entering the country. You’ll get a QR code by email. This must be shown to the authorities on arrival as an electronic or printed version. Airlines will check completion of the form at check-in.
+
+You should download or print your completed [DViajeros](https://www.dviajeros.mitrans.gob.cu/inicio) form as a PDF, as wifi may not be accessible to do so on arrival in Cuba.
 
 ### Travelling from the USA to Cuba
 

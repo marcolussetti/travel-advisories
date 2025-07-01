@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   1 July 2025
 
 Updated:
-:   21 October 2024
+:   30 June 2025
 
 Latest update:
-:   New information about terrorist kidnap (‘Safety and security’ page).
+:   Updated information on political situation ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/615dd5bc8fa8f52978e14a16/FCDO__TA__041_-_Togo_Travel_Advice_Ed2__WEB_.jpg)
 

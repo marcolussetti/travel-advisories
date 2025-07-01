@@ -1,11 +1,11 @@
 {
     "name": "India",
-    "update_reason": "Updated information about the closure of the UK Reception Center in Ummed Hotel (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Updated information about the Ahmedabad plane crash and support available for British nationals ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/India/Warnings and insurance.md",
-            "update_date": "2025-06-26T17:02:46+01:00"
+            "update_date": "2025-06-30T12:07:14+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/India/Getting help.md"
         }
     ],
-    "update_date": "2025-06-26T17:02:46+01:00"
+    "update_date": "2025-06-30T12:07:14+01:00"
 }

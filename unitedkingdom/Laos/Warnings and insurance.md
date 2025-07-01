@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   22 May 2025
+:   1 July 2025
 
 Updated:
-:   21 May 2025
+:   30 June 2025
 
 Latest update:
-:   Updated information on illegal drugs, including cannabis ('Safety and security' page).
+:   Clarity on visa extensions, new information on increased security levels in Bokeo Province near border of Thailand and Myanmar, and updated information on airports able to detect illegal substances ('Entry requirements', 'Regional risks' and 'Safety and security pages).
 
 ![](https://assets.publishing.service.gov.uk/media/64391b7a773a8a0013ab2c63/FCDO__TA__088_-_Laos_Travel_Advice_Ed1__WEB_.jpg)
 

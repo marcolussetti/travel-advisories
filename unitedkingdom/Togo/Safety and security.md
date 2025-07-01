@@ -10,7 +10,7 @@ UK Counter Terrorism Policing has information and advice on [staying safe abroad
 
 Terrorists are very likely to try to carry out attacks in Togo.
 
-The main threat is from Al-Qaida in the Islamic Magreb (AQIM) and its associated groups, who are active mainly in the northern region of the country near the Burkina Faso border. However, attacks could be indiscriminate, including in places frequented by foreign nationals, such as:
+The main threat in Togo is from Jama’at Nusrat al-Islam wal-Muslimin (JNIM) and other al-Qa’ida (AQ) affiliated groups, including al-Qa’ida in the Islamic Maghreb (AQIM). JNIM is mainly active in the northern region of the country near the Burkina Faso border. However, attacks could be indiscriminate, including in places frequented by foreign nationals, such as:
 
 * beach resorts
 * hotels
@@ -29,6 +29,8 @@ The long-standing policy of the British government is not to make substantive co
 Terrorist kidnapping is infrequent in Togo, but may occur. FCDO advises against all travel to within 5km of the border with Burkina Faso, due to the security situation in Burkina Faso.
 
 ## Political situation
+
+Political rallies, protests and violent demonstrations can take place unexpectedly. Monitor media outlets, updates from the local authorities or from your travel operator about possible disruptions. Be vigilant if you’re visiting crowded public places or attending events which attract large crowds. If you see a threatening or intimidating situation, stay away and exercise caution. Turn around and move to safety.
 
 The cities of Sokodé, Bafilo and Mango have a history of violent demonstrations where protesters and security forces have been injured and killed. If you’re in an area of any town or city when a demonstration happens, leave immediately.
 

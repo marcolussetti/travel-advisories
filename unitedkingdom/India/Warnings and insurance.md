@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   27 June 2025
+:   1 July 2025
 
 Updated:
-:   26 June 2025
+:   30 June 2025
 
 Latest update:
-:   Updated information about the closure of the UK Reception Center in Ummed Hotel (‘Warnings and insurance’ page).
+:   Updated information about the Ahmedabad plane crash and support available for British nationals ('Warnings and insurance' page).
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -39,8 +39,6 @@ British nationals who require assistance, or have concerns for family or friends
 
 * +91 (11) 2419 2100 (in India)
 * +44 (0) 207 008 5000 (in the UK)
-
-The UK Reception Centre has now closed. Please contact the numbers above for further support and advice if required.
 
 Air India has set up dedicated passenger hotline numbers for those seeking more information, call:
 

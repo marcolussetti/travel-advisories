@@ -96,6 +96,8 @@ Legal processes before court hearings can be long and expensive. It can take man
 
 Criminal gangs in the UK and elsewhere are known to coerce people into carrying drugs across borders. Do not allow yourself to be persuaded.
 
+Airports in Laos have security equipment and procedures in place for scanning and detecting illegal substances, including cannabis. This is also used to scan the carry-on and checked-in baggage of transiting passengers.
+
 It is important to be aware of your rights if you are detained by the police. See our [guidance for those detained or imprisoned in Laos](https://www.gov.uk/government/publications/laos-prisoner-pack).
 
 Police often raid venues known to be frequented by foreigners. You may have to take a urine or blood test if there is a suspicion you have used drugs. You will be arrested if the test is positive.

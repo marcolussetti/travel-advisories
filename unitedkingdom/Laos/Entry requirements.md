@@ -36,7 +36,7 @@ See a full [list of the entry points that accept e-visas and visas on arrival](h
 
 ### Visa extensions
 
-From 1 January 2025, you’re allowed to [extend your tourist visa](https://immigration.gov.la/how-to-apply-visa-extension/) twice while in Laos, for a total of 60 days.
+From 1 January 2025, you’re allowed to [extend your tourist visa](https://immigration.gov.la/how-to-apply-visa-extension/) twice while in Laos, for a total of 60 additional days.
 
 If you do not extend your visa within 90 days, you will face a fine in Lao kip worth 2,000 US dollars, deportation to your home country and a ban on returning to Laos.
 
