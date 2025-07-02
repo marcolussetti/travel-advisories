@@ -3,29 +3,29 @@
     "risk_level": "Do Not Travel",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Burundi/Overview.md"
+            "title": "Travel to Burundi overview",
+            "file": "ireland/Burundi/Travel to Burundi overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Burundi/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Burundi/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Burundi/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Burundi/Additional information.md"
+            "title": "Local Laws and Customs",
+            "file": "ireland/Burundi/Local Laws and Customs.md"
+        },
+        {
+            "title": "Entry Requirements",
+            "file": "ireland/Burundi/Entry Requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Burundi/Embassy contact.md"
         }
     ],
-    "update_date": "2023-11-21T00:00:00"
+    "update_date": "2025-07-01T00:00:00"
 }

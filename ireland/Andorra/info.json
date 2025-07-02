@@ -3,25 +3,33 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Andorra/Overview.md"
+            "title": "Travel to Andorra overview",
+            "file": "ireland/Andorra/Travel to Andorra overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Andorra/Safety and security.md"
         },
         {
+            "title": "Health",
+            "file": "ireland/Andorra/Health.md"
+        },
+        {
             "title": "Local laws and customs",
             "file": "ireland/Andorra/Local laws and customs.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Andorra/Additional information.md"
+            "title": "Natural disasters and climate",
+            "file": "ireland/Andorra/Natural disasters and climate.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/Andorra/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Andorra/Embassy contact.md"
         }
     ],
-    "update_date": "2025-05-06T00:00:00"
+    "update_date": "2025-07-01T00:00:00"
 }

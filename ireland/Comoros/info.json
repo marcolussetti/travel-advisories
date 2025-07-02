@@ -3,29 +3,29 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Comoros/Overview.md"
+            "title": "Travel to Comoros Overview",
+            "file": "ireland/Comoros/Travel to Comoros Overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Comoros/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Comoros/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Comoros/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Comoros/Additional information.md"
+            "title": "Local Laws and Customs",
+            "file": "ireland/Comoros/Local Laws and Customs.md"
+        },
+        {
+            "title": "Entry Requirements",
+            "file": "ireland/Comoros/Entry Requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Comoros/Embassy contact.md"
         }
     ],
-    "update_date": "2023-11-23T00:00:00"
+    "update_date": "2025-07-01T00:00:00"
 }

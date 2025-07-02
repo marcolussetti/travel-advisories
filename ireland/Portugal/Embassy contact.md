@@ -16,3 +16,17 @@ Lisbon
 [Tel: +351 213308200](tel:+351213308200)
 
 [**Contact us**](/en/portugal/lisbon/contact/)
+
+### Honorary Consul of Ireland, Algarve
+
+Andrea Viegas   
+Quinta Shopping 114   
+Quinta do Lago   
+Almancil, Portugal   
+8135-024
+
+[Tel: +351 289 157 353](tel:+351289 157 353)
+
+**Email Consul:** [Andrea.viegas@honoraryconsul.ie](mailto:Andrea.viegas@honoraryconsul.ie)
+
+**Email Consular Assistant:** [Marlene.netomendonca@honoraryconsul.ie](mailto:Marlene.netomendonca@honoraryconsul.ie)

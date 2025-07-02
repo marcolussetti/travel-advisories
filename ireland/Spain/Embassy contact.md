@@ -38,7 +38,7 @@ Spain
 
 ### Honorary Consul of Ireland, Barcelona
 
-(Temporarily Closed Until Further Notice)
+(Temporarily closed until further notice)
 
 ### Honorary Consul General of Ireland, Bilbao
 
@@ -115,11 +115,4 @@ Spain
 
 ### Honorary Consul General of Ireland, Gran Canaria/Las Palmas
 
-Mr. Victor Auz Castro   
-C/ León y Castillo 195 1º der.   
-35004 Las Palmas de Gran Canaria   
-Spain
-
-[Tel: +34 92 829 7728](tel:+3492 829 7728)
-
-**Email:** [grancanaria@honoraryconsul.ie](mailto:grancanaria@honoraryconsul.ie)
+(Temporarily closed until further notice)

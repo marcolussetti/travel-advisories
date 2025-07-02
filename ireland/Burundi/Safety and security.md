@@ -1,6 +1,6 @@
 ## Safety and security
 
-### **Civil unrest**
+### **Civil Unrest**
 
 Burundi has experienced political instability in recent years. The situation remains volatile and sporadic outbreaks of violence and civil unrest continue to occur. Grenade attacks are common, and often politically motivated. Travellers should limit their movements, avoid large gatherings and remain vigilant at all times.
 
@@ -24,7 +24,7 @@ Crime levels are increasing in Burundi and muggings at gun and knife point, burg
 * Keep a close eye on your personal belongings and hold on to them in public places such as internet cafés, train and bus stations.
 * Avoid walking in the streets after dark, even in Bujumbura city centre
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If you're a victim of a crime while in Burundi, report it to the local police immediately. And you can contact us at the Irish Embassy in Dar es Salaam if you need help.
 
@@ -38,7 +38,7 @@ If you want to drive:
 * Driving under the influence of alcohol or drugs is against the law and you risk being detained, fined or banned from driving if caught
 * Keep your vehicle doors locked and your bags kept out of sight to prevent opportunistic bag-snatching if you're stopped at traffic lights
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If you're hiring a vehicle, we advise you not to hand over your passport as a form of security. If you're allowing your passport to be photocopied, keep it in your sight at all times.
 

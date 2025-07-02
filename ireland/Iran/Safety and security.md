@@ -23,7 +23,7 @@ Travellers have occasionally been victims of theft while in Iran so take sensibl
 
 ### **Reporting crime**
 
-If a victim of a crime while in Iran, report it to the local police immediately. Contact the Honorary Consul in Tehran or Department of Foreign Affairs in Dublin at +353 1 408 2000.
+If a victim of a crime while in Iran, report it to the local police immediately. Contact the Honorary Consul in Tehran or Department of Foreign Affairs and Trade in Dublin at +353 1 408 2000.
 
 ### **Driving**
 

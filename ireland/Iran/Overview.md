@@ -6,11 +6,13 @@ Do Not Travel
 
 ### **Travel Alert**
 
-**The Department of Foreign Affairs continues to advise against all travel to Iran for Irish citizens.**
+**The Department of Foreign Affairs and Trade continues to advise against all travel to Iran for Irish citizens.**
 
-Due to the ongoing military strikes in Iran, the airspace remains closed. If you wish to leave Iran, and can do so safely, it is currently possible to do so via a land border to a bordering country. You should be aware however that there may be challenges and risks involved, including potential restrictions for foreign travellers or dual nationals travelling to or crossing into bordering countries. Entry to bordering countries is not straightforward and you should inform yourself of any visa or paperwork requirements to enter a bordering country. Borders may close at short notice.
+Israel began military strikes on Iran on 13 June. A ceasefire came into effect on 24 June, however the situation remains fragile and could deteriorate quickly. Iran’s airspace has partially reopened, with announcements of some commercial flights resuming from the east of the country. For further information on flight options, you should contact the airlines directly.
 
-If you are not in a position to leave via a land border, we advise you to remain vigilant, monitor developments and media, as well as any advice from the authorities to shelter in place.
+If you wish to leave Iran, and can do so safely, it is also currently possible to do so via a land border to a bordering country. You should be aware however that there may be challenges and risks involved, including potential restrictions for foreign travellers or dual nationals travelling to or crossing into bordering countries. Entry to bordering countries is not straightforward and you should inform yourself of any visa or paperwork requirements to enter a bordering country. Borders may close at short notice.
+
+If you are not in a position to leave, we advise you to remain vigilant, monitor developments and media, as well as any advice from the authorities to shelter in place.
 
 The Department of Foreign Affairs and Trade is very limited in its ability to assist Irish citizens to leave Iran.
 
@@ -24,7 +26,7 @@ Irish citizens in Iran should register with the Department via the [**Citizens R
 
 ### **General Travel Advice**
 
-**The Department of Foreign Affairs continues to strongly advise against all travel to Iran at this time due to the ongoing conflict, as well as** the risk of arbitrary arrest and detention of European citizens by the Iranian authorities.
+**The Department of Foreign Affairs and Trade continues to strongly advise against all travel to Iran at this time due to the ongoing conflict, as well as** the risk of arbitrary arrest and detention of European citizens by the Iranian authorities.
 
 Irish citizens are strongly advised to avoid any protests or large gatherings.
 

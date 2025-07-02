@@ -1,6 +1,6 @@
 ## Embassy contact
 
-As there is no Irish Embassy or Consulate in Andorra, assistance is provided through the [Embassy of Ireland, Madrid](https://www.ireland.ie/en/spain/madrid/)  
+As there is no Irish Embassy or Consulate in Andorra, assistance is provided through the [**Embassy of Ireland, Madrid**](https://www.ireland.ie/en/spain/madrid/).  
   
  Please note that if you require urgent assistance while the Embassy is closed, you should call the main Embassy number, +34 91 4364093, and leave a message on the Duty Officer voice mailbox.
 
