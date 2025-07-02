@@ -20,7 +20,7 @@ Exercise normal precautions in Thailand. Some areas have increased risk.  Read 
 
 **Exercise Increased Caution to:**
 
-* Yala, Pattani, Narathiwat, and Songkhla provinces due to **civil unrest** associated with ongoing insurgent activities.
+* Yala, Pattani, and Narathiwat, provinces due to **civil unrest** associated with ongoing insurgent activities.
 
 Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Thailand.html) for additional information on travel to Thailand.
 

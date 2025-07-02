@@ -21,7 +21,7 @@ A passport with a validity of at least six months and a visa are required for en
 
 **Fines:**
 
-* Travelers who fail to properly register themselves incur a fine of 1.5 JOD (approximately 2 USD) per day beyond their permitted length of stay.
+* Travelers who fail to properly register themselves incur a fine of 3.0 JOD (approximately 4 USD) per day beyond their permitted length of stay.
 * This fine is usually assessed at departure.
 * Travelers are barred from leaving until the fine is paid.
 

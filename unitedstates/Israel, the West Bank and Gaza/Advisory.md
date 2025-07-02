@@ -1,6 +1,6 @@
 # Israel, the West Bank and Gaza Travel Advisory
 
-### Travel Advisory June 16, 2025
+### Travel Advisory July 1, 2025
 
 ### See Individual Summaries
 
@@ -14,24 +14,22 @@
 [T](javascript:void(0); "Tool Tip: Terrorism")
 [C](javascript:void(0); "Tool Tip: Crimes")
 
-**Updated due to the Authorized Departure of Family Members of U.S Government employees and some Non-Emergency U.S. Government Employees.**
+**Updated to reflect the current security situation in Israel.**
 
-**On June 14,** the Department of State authorized the voluntary departure of family members and non-emergency U.S. government employees **due to the volatile and unpredictable security situation in the region.**
+**On June 14,** the Department of State authorized the voluntary departure of family members and non-emergency U.S. government employees **due to the volatile and unpredictable security situation in the region.**
 
 In response to security incidents and without advance notice, the U.S. Embassy may further restrict or prohibit U.S. government employees and their family members from traveling to certain areas of Israel, the Old City of Jerusalem, and the West Bank.
 
-**Do Not Travel To**:
+**Reconsider Travel To:**
 
-* Israel due to **armed conflict, terrorism,** and **civil unrest**
-
-**Do Not Travel To:**
-
-* West Bank due to **terrorism**and **civil unrest**
+* Israel due to **terrorism**and **civil unrest**
+* West Bankdue to **terrorism** and **civil unrest**
 
 **Do Not Travel To:**
 
-* Gaza due to **terrorism** and **armed conflict**
-* Northern Israel within 4 kilometers/2.5 miles of the Lebanese and Syrian borders due to continued military presence and activity
+* Gaza due to **terrorism** and **armed conflict and within 11.3 km/7 miles of the Gaza Periphery**
+* Northern Israel within **4 kilometers/2.5 miles of the Lebanese and Syrian borders** due to continued military presence and activity
+* The Egyptian border within **2.4km/1.5 miles**, except for the Taba crossing, which is open
 
 **Country Summary:** Terrorist groups, lone-actor terrorists and other violent extremists continue plotting possible attacks in Israel, the West Bank, and Gaza. Terrorists and violent extremists may attack with little or no warning, targeting tourist locations, transportation hubs, markets/shopping malls, and local government facilities. The security environment is complex and can change quickly, and violence can occur in Israel, the West Bank, and Gaza without warning. Increased regional tensions can cause airlines to cancel and/or curtail flights into and out of Israel.
 
@@ -51,20 +49,20 @@ If you decide to travel to Israel, the West Bank, and Gaza:
 * Obtain comprehensive travel medical insurance that includes medical evacuation prior to travel.  Most travel insurance packages do not cover mental health related illnesses/care.
 * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://step.state.gov/) to receive Alerts and make it easier to locate you in an emergency.
 * Follow the Department of State on [Facebook](http://www.facebook.com/travelgov) and [X/Twitter](http://www.twitter.com/travelgov).
-* Review the [Country Security Report](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.osac.gov%2FContent%2FBrowse%2FReport%3FsubContentTypes%3DCountry%2520Security%2520Report&data=04%7C01%7CGatesDN%40state.gov%7Ce5b9981ae5a74576c4a508da0695e01f%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C637829538016617374%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=%2BjeekQvgUygW7iLkkt8eZiPkdP20FTgfwg8n96lPdw8%3D&reserved=0) for Israel, the West Bank, and Gaza.
+* Review the [Country Security Report](https://www.osac.gov/Content/Browse/Report?subContentTypes=Country%20Security%20Report) for Israel, the West Bank, and Gaza.
 * Prepare a contingency plan for emergency situations.  Review the [Traveler’s Checklist](https://travel.state.gov/content/passports/en/go/checklist.html).
-* When traveling in rural areas, exercise caution given the possibility of unexploded ordnance.  Do not touch or collect debris from rocket, missile, or UAV interceptions.
+* When traveling in rural areas, exercise caution given the possibility of unexploded ordnance.
 
-**Israel – Do Not Travel (see below for additional information regarding areas near the Lebanese and Syrian borders)**
+**Israel – Reconsider Travel (see below for additional information regarding areas near the Lebanese and Syrian borders)**
 
-Do not travel due to **armed conflict,** **terrorism, and civil unrest.**
+Reconsider travel due to **terrorism, and civil unrest.**
 
 The security situation in Israel, including Tel Aviv and Jerusalem is unpredictable, and U.S. citizens are reminded to remain vigilant and take appropriate steps to increase their security awareness as security incidents, including mortar and rocket fire and armed UAV intrusions and missiles, can take place without warning.
 
 U.S. government employees in Israel under Chief of Mission security responsibility are currently restricted from personal travel to the following locations:
 
 * Within 11.3 kilometers/seven miles of the Gaza demarcation line; and
-* Within 2.4 kilometers/1.5 miles of the Israel-Egypt border.
+* Northern Israel within 4 kilometers/2.5 miles of the Lebanese and Syrian border due to continued military presence and activity
 
 Any official travel of U.S. government personnel within these areas requires approval from the Embassy’s security office.
 
@@ -77,6 +75,21 @@ The Israeli authorities restrict travel to areas close to the border given the I
 Due to the risks, U.S. government employees working in Israel are currently restricted from personal travel within 4 kilometers/2.5 miles of the Lebanese and Syrian borders.  Due to the risks, U.S. government employees working in Israel must obtain special authorization to travel close to these borders.
 
 The U.S. Embassy strongly recommends that U.S. citizens not travel within 4 kilometers/2.5 miles of the Lebanese and Syrian borders.
+
+**West Bank – Reconsider Travel**
+
+Reconsider Travel due to **terrorism**and **civil unrest**.
+
+Due to the risks, U.S. government employees working in Israel must obtain special authorization travel to the West Bank.  U.S. government employees are currently restricted from all personal travel to the West Bank, except:
+
+* U.S. government employees can use Routes 1, 90, and 443 at any time.
+* U.S. government employees are permitted personal daylight travel to Jericho and Bethlehem, including Beit Jala and Beit Sahour.  Given continued closures of checkpoints throughout the West Bank, the only permitted and accessible route into Bethlehem for U.S. government employees and their family members is through Checkpoint 300 near Rachel’s Tomb.
+
+Over the past several months, there has been an increase in violence, Israeli military operations, and terrorist attacks.  Some incidents have resulted in injury or death of U.S. citizens.  During periods of unrest, the Israeli government may restrict access to and within the West Bank, and some areas may be placed under curfew.
+
+Additional travel restrictions may be imposed on U.S. government employees working in Israel with little to no notice due to increased security issues or threats.
+
+Visit our website for [Travel to High Risk Areas](https://travel.state.gov/content/passports/en/go/TraveltoHighRiskAreas.html).
 
 **Gaza – Do Not Travel**
 
@@ -97,22 +110,7 @@ If you decide to travel to Gaza:
 * Discuss a plan with loved ones regarding care/custody of children, pets, property, belongings, non-liquid assets (collections, artwork, etc.), funeral wishes, etc.
 * Leave DNA samples with your medical provider in case it is necessary for your family to access them.
 
-Please be sure to visit our website for [Crisis and Disaster Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/crisis_and_disaster_abroad_be_ready.html): Be Ready for information that may be helpful.
-
-**West Bank – Do Not Travel**
-
-Do not travel due to **terrorism**and **civil unrest**.
-
-Due to the risks, U.S. government employees working in Israel must obtain special authorization travel to the West Bank.  U.S. government employees are currently restricted from all personal travel to the West Bank, except:
-
-* U.S. government employees can use Routes 1, 90, and 443 at any time.
-* U.S. government employees are permitted personal daylight travel to Jericho and Bethlehem, including Beit Jala and Beit Sahour.  Given continued closures of checkpoints throughout the West Bank, the only permitted and accessible route into Bethlehem for U.S. government employees and their family members is through Checkpoint 300 near Rachel’s Tomb.
-
-Over the past several months, there has been an increase in violence, Israeli military operations, and terrorist attacks.  Some incidents have resulted in injury or death of U.S. citizens.  During periods of unrest, the Israeli government may restrict access to and within the West Bank, and some areas may be placed under curfew.
-
-Additional travel restrictions may be imposed on U.S. government employees working in Israel with little to no notice due to increased security issues or threats.
-
-Visit our website for [Travel to High Risk Areas](https://travel.state.gov/content/passports/en/go/TraveltoHighRiskAreas.html).
+Please be sure to visit our website for [Crisis and Disaster Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/crisis_and_disaster_abroad_be_ready.html): Be Ready for information that may be helpful.
 
 ### Travel Advisory Levels
 
