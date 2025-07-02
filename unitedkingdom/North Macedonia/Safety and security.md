@@ -118,6 +118,8 @@ Wildfires are possible in North Macedonia from April to October due to the dry a
 * not light fires or barbecues except in designated and marked areas
 * not leave any rubbish
 
+The government commonly introduces a ban on entering forest and wilderness areas during summer months when the risk of wildfires is highest. Fines for non-compliance are severe. For further information seek local advice or contact Public Enterprise National Forests.
+
 If you see a wildfire, call the emergency services on 112.
 Follow any advice from the police or local authorities.
 

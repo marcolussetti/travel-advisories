@@ -22,9 +22,10 @@ At least 8 weeks before your trip:
 
 See [what health risks you’ll face in Angola](https://travelhealthpro.org.uk/country/7/angola) including:
 
-* yellow fever
-* malaria and dengue
+* Yellow fever
+* Malaria and dengue
 * Zika virus
+* Cholera
 
 Altitude sickness is a risk in parts of Angola. Read more about [altitude sickness on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/26/altitude-illness).
 

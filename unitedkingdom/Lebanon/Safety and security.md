@@ -49,7 +49,8 @@ We encourage you to:
 
 * read the FCDO’s advice on [if you’re affected by a crisis abroad](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas)
 * monitor local and international media for the latest information
-* be vigilant and follow the instructions of local authorities, avoiding all but essential travel to military bases
+* be vigilant and follow the instructions of local authorities
+* avoid military or security facilities
 * check with relevant airlines for the latest updates before travelling
 
 ## Security situation

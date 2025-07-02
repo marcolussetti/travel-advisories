@@ -1,17 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   13 June 2025
+:   2 July 2025
 
 Updated:
-:   12 June 2025
+:   1 July 2025
 
 Latest update:
-:   Information added about The European Under-21 Football Championship, which will take place in Slovakia between 11 and 28 June (‘Warnings and insurance’ page).
-
-## European Under-21 Football Championship 2025
-
-The European Under-21 Football Championship will take place in Slovakia between 11 and 28 June. This may result in large, localised crowds watching the games. Follow the advice of local authorities. Travellers should also be aware that thieves may take advantage of such gatherings. See further advice about crime on the [safety and security page](https://www.gov.uk/foreign-travel-advice/slovakia/safety-and-security#crime).
+:   New information on extended stays in Slovakia ('Entry requirements' page).
 
 ## Before you travel
 

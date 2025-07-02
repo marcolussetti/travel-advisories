@@ -1,11 +1,11 @@
 {
     "name": "Angola",
-    "update_reason": "This travel advice has been rewritten to make it easier to read and understand.",
+    "update_reason": "Updated information of what health risks you\u2019ll face in Angola (\u2018Health\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Angola/Warnings and insurance.md",
-            "update_date": "2024-01-10T12:55:42+00:00"
+            "update_date": "2025-07-01T12:08:28+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Angola/Getting help.md"
         }
     ],
-    "update_date": "2024-01-10T12:55:42+00:00"
+    "update_date": "2025-07-01T12:08:28+01:00"
 }

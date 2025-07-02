@@ -28,13 +28,13 @@ If you’re travelling to other Schengen countries as well, make sure your whole
 
 ### Staying longer than 90 days in a 180-day period
 
-To stay longer, to work or study, for business travel or for other reasons, you must meet the [Slovak government’s entry requirements](https://www.mzv.sk/web/londyn-en).
+To stay longer, to work or study, for business travel or for other reasons, you must meet the local [foreigner residence requirements](https://www.mic.iom.sk/en/residence/general-information.html) and the [recent changes](https://www.mic.iom.sk/en/news/920-changes-in-the-act-on-the-residence-of-foreigners-from-july-1-2025.html) to this made on 1 July 2025.
 
 If you’re in Slovakia with a residence permit or long-stay visa, this does not count towards your 90-day visa-free limit.
 
 You could get a fine of up to 1,600 euros if you stay longer than legally allowed.
 
-Read about [passport stamping if you live in Slovakia](https://www.gov.uk/guidance/living-in-slovakia#passports-and-travel).
+Read about [passport stamping if you live in Slovakia](https://www.gov.uk/guidance/living-in-slovakia#passports-and-travel).
 
 Make sure you get your passport stamped on entry and exit.
 

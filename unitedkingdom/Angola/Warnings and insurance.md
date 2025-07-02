@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   2 July 2025
 
 Updated:
-:   10 January 2024
+:   1 July 2025
 
 Latest update:
-:   This travel advice has been rewritten to make it easier to read and understand.
+:   Updated information of what health risks you’ll face in Angola (‘Health’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/6437d3f1db4ba90013448e0a/FCDO__TA__053_-_Angola_Travel_Advice_Ed2__WEB_.jpg)
 
