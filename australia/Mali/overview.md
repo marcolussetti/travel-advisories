@@ -2,9 +2,9 @@
 
 Latest update
 
-We've reviewed our advice and continue to advise do not travel to Mali. You're subject to all local laws and penalties, which can be interpreted broadly and applied harshly by Australian standards. Australians may be at risk of arbitrary detention or enforcement of local laws for unintentionally breaking the law.  
+We continue to advise do not travel to Mali. You're subject to all local laws and penalties, which can be interpreted broadly and applied harshly by Australian standards. Australians may be at risk of arbitrary detention or enforcement of local laws for unintentionally breaking the law.  
   
-There's an ongoing and very high threat of terrorism throughout Mali, including the capital, Bamako. Terrorists have targeted security forces, civilians and foreign interests, resulting in casualties, including civilians. Attacks can occur in places visited by foreigners, including airports, public transport and transportation hubs, tourist attractions, restaurants, bars, coffee shops, shopping centres, markets and hotels (see 'Safety').  
+There's an ongoing and very high threat of terrorism throughout Mali, including the capital, Bamako. Terrorists have targeted security forces, civilians and foreign interests, resulting in casualties, including civilians. Terrorist groups have directly threatened foreign interests operating in Mali. Attacks can occur in places visited by foreigners, including airports, public transport and transportation hubs, tourist attractions, restaurants, bars, coffee shops, shopping centres, markets and hotels (see 'Safety').  
   
 The security situation in southern Mali has further deteriorated. The kidnapping risk of foreign nationals in southern Mali is increasing. Foreign nationals and foreign interests, including mining operations, may be targeted.  
   
@@ -31,7 +31,8 @@ See [Safety](#safety).
 ### Safety
 
 * The security situation is volatile. If you're in Mali despite our advice, consider leaving by commercial means if it's safe to do so. If you decide to remain in Mali, be prepared to leave the country at short notice.
-* There's an ongoing and very high threat of terrorist attacks throughout Mali, including in the capital Bamako. Serious injuries and deaths have occurred as a result. Significant dates such as holidays are periods of heightened risk. Further attacks are very likely. Avoid public places. Take official warnings seriously. Get professional security advice before you travel.
+* There's an ongoing and very high threat of terrorist attacks throughout Mali, including in the capital Bamako. Serious injuries and deaths have occurred as a result. Terrorist groups have directly threatened foreign interests operating in Mali.
+* Significant dates such as holidays are periods of heightened risk. Further attacks are very likely. Avoid public places. Take official warnings seriously. Get professional security advice before you travel.
 * The security situation in northern, central, and increasingly southern Mali is dangerous and volatile. Attacks targeting security forces, civilians and foreign interests regularly occur by terrorist and other armed groups who operate in these areas. These groups have fuelled inter-community tensions in the area, resulting in regular ethnic group clashes. There are ongoing military operations throughout the country.
 * There's a very high risk of kidnapping in Mali. The risk of kidnapping of foreign nationals in southern Mali is increasing. Foreign nationals and foreign interests, including mining operations, may be targeted. Ransoms paid to kidnappers may fund terrorism.
 * Armed robbery and carjackings also occur. Several groups target foreigners. Keep vehicle doors and windows locked, even when moving.

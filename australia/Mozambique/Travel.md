@@ -6,19 +6,17 @@
 
 #### Land border closures
 
-Land border crossings into neighbouring countries may be restricted or blocked at short notice due to the protests occurring across the country following the elections that were held on 9 October 2024. 
+Land border crossings into neighbouring countries may be restricted or blocked at short notice. 
 
 #### Visas
 
-You'll need a visa to enter Mozambique. Visas on arrival may only be possible under certain circumstances, see the [Embassy of the Republic of Mozambique](http://embamoc.jp/english/visa/index.html) for more information.
+You'll need a visa to enter Mozambique. Please see the [Embassy of the Republic of Mozambique](https://embamoc.jp/visas) for more information on visa types and document requirements.
 
 Entry and exit conditions can change at short notice. Contact the nearest Mozambique [embassy or consulate](https://protocol.dfat.gov.au/Public/Missions/137) for details about visas, currency, customs and quarantine rules.
 
 #### Border measures
 
-International commercial flights to and from Mozambique remain limited. Contact your travel provider directly for the latest advice. To enter Mozambique, you need to hold a tourist visa, working visa, temporary residence visas or identification document and foreign residence (DIRE). You don't need to request authorization to exit Mozambique.
-
-Land border crossings into neighbouring countries may be restricted or closed at short notice.
+To enter Mozambique, you need to hold a tourist visa, working visa, temporary residence visas or identification document and foreign residence (DIRE). You don't need to request authorization to exit Mozambique.
 
 #### Other formalities
 
@@ -133,15 +131,24 @@ During the rainy season, road damage and floods may occur, including in:
 
 Some pedestrians may deliberately cause accidents to extort money from you.
 
-Checkpoints are common. Police might ask for a bribe.
-
 If you plan to drive in Mozambique:
 
 * check you have the right insurance
 * learn local traffic laws and practices
 * ask for local advice on road conditions outside major centres
+* keep doors locked and windows closed at all time
+* avoid travelling after dark
+* ensure you have adequate fuel for your trip
 
-Stop at police signals, including at checkpoints.
+Stop at police signals, including at checkpoints. Checkpoints are common. Only national police have the authority to establish a road checkpoint. Police may conduct a vehicle inspection or request identification documents. Failure to provide identification documents may result in a fine.
+
+Police might ask for a bribe. If police request a bride:
+
+* remain calm and courteous
+* show original documentation but do not hand them over
+* ask for a clear explanation and request a written fine to be paid at a police station
+
+Unofficial checkpoints have been reported throughout the country.
 
 **More information:**
 

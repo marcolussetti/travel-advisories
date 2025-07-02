@@ -4,7 +4,7 @@
 
 There's an ongoing and very high threat of terrorist attacks and kidnapping throughout Mali, including intermittent high-profile attacks in the capital Bamako, which can result in serious injury and death.
 
-The security situation in northern, central, and increasingly in southern Mali is dangerous and volatile. Attacks targeting security forces, civilians and foreign interests regularly occur by terrorist and other armed groups who operate in these areas. These groups have fuelled inter-community tensions in the area, resulting in regular ethnic group clashes. There are ongoing military operations throughout the country.
+The security situation in northern, central, and increasingly in southern Mali is dangerous and volatile. Attacks targeting security forces, civilians and foreign interests regularly occur by terrorist and other armed groups who operate in these areas. Terrorist groups have directly threatened foreign interests operating in Mali. These groups have fuelled inter-community tensions in the area, resulting in regular ethnic group clashes. There are ongoing military operations throughout the country.
 
 If you're in Mali despite our advice, you should consider leaving by commercial means if it's safe to do so.
 

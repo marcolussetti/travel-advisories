@@ -4,7 +4,7 @@
 
 Terrorism is a threat in Mozambique, with a higher threat in Cabo Delgado and in Erati and Memba districts of Nampula province. Terrorists are likely to target foreigners and foreign interests, including in towns and other areas where foreign companies operate and where expatriate staff reside. 
 
-The insurgency poses an extreme threat in Cabo Delgado and in Erati and Memba districts of Nampula province, and attacks are highly likely to continue and to intensify, including in areas not previously affected by terrorist attacks.
+The insurgency poses an extreme threat in Cabo Delgado and in Erati and Memba districts of Nampula province, and attacks are highly likely to continue, including in areas not previously affected by terrorist attacks.
 
 An attack could happen anywhere and at any time.
 
@@ -45,7 +45,7 @@ If, despite our advice, you travel to an area with a high risk of kidnapping, ou
 To reduce the risk of kidnapping: 
 
 * always be alert to your personal security and surroundings
-* get professional security advice for travel in locations with a heightened kidnap risk
+* seek professional security advice for travel in locations with a heightened kidnap risk
 * check your accommodation has appropriate security measures
 * avoid isolated locations, particularly when travelling alone
 * notify family or friends of planned travel and share your location
@@ -65,11 +65,12 @@ Violent clashes between armed groups linked to Islamist extremism and security f
 
 Raids on towns and villages, roadside ambushes and other attacks are occurring. There's an increased presence of security forces in the province, and clashes between security forces and insurgents are frequent.
 
-We advise do not travel to Cabo Delgado. If, despite our advice, you decide to travel to Cabo Delgado province, you should:
+We advise do not travel to Cabo Delgado, and in Erati and Memba districts of Nampula province. If, despite our advice, you decide to travel to these areas, you should:
 
 * get professional security advice
+* check that your travel insurer will cover you
 * check local and social media for updates before you travel
-* be watchful
+* take extra precautions and to protect yourself from security and health risks
 * follow the advice of local authorities.
 
 Attacks continue to occur in various locations, including the districts of:
@@ -90,11 +91,11 @@ Attacks continue to occur in various locations, including the districts of:
 
 Militants have used machetes and firearms to conduct lethal attacks, as well as destroying vehicles, buildings and infrastructure. It is possible that violence could spill over into other districts. 
 
-A ceasefire is in place in Sofala province, but sporadic violence continues to occur. This includes on the EN1 road between Inchope and Gorongoza and the EN6 road between Tica and Inchope.
+Attacks have also occurred on the EN1 road between the Save River and Muxungue and from Gorongosa to Caia, and on the EN6 road between Beira and Chimoio.
 
 #### Demonstrations and protests
 
-Demonstrations and protests continue to occur across the country following the elections that were held on 9 October 2024. The unrest has resulted in deaths, destruction of property and blockades of roads, including to and from airports. Be prepared for significant disruptions.
+Demonstrations and protests have occurred following elections in October 2024. These have decreased in frequency and severity since early 2025. The unrest resulted in deaths, destruction of property and blockades of roads, including to and from airports.
 
 To reduce your risks of being affected by demonstrations and protests, you should:
 
@@ -132,6 +133,7 @@ Carjacking is also common. Be extra careful:
 * in Maputo
 * on roads to Mutare, Zimbabwe
 * on roads to South Africa
+* at toll booths
 
 Serious [assaults](/before-you-go/safety/assault "Reducing the risk of assault") and robberies have occurred at 2 coastal resorts in Inhambane province.
 
