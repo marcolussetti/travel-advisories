@@ -4,7 +4,7 @@
 
 The US conducted strikes on Iranian nuclear sites at Fordow, Natanz and Esfahan on 22 June. Australians in Iran should see our general advice on protecting your safety during an [armed conflict](https://www.smartraveller.gov.au/before-you-go/staying-safe/armed-conflict). Local security situations could deteriorate with little notice.
 
-We urge Australians who want to leave Iran to do so now, if it is safe. Australians in Iran who are unable to leave, or do not wish to leave, are advised to take all precautions for your safety. Be alert and aware of your surroundings. The Australian Government may not be able to assist with your departure.
+We encourage Australians who want to leave Iran to do so now, if it is safe. Australians in Iran who are unable to leave, or do not wish to leave, are advised to take all precautions for your safety. Be alert and aware of your surroundings. The Australian Government may not be able to assist with your departure.
 
 If you're an Australian citizen or permanent resident in Iran, you can register on the Department of Foreign Affairs and Trade's [crisis registration portal](https://crisis.dfat.gov.au/). We will communicate directly with registered Australians with important updates.
 

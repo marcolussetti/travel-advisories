@@ -4,7 +4,7 @@ Latest update
 
 We continue to advise exercise a high degree of caution in Kenya overall due to the threat of terrorism and violent crime. Higher levels apply in some areas. Terrorist attacks could happen at any time, including in locations that are popular with foreigners and tourists (see 'Safety').   
   
-If you plan to take part in surrogacy arrangements in Kenya, be aware of all legal and other risks involved (see 'Local laws').
+Protests and large demonstrations are common, and security forces may be deployed in response. Avoid areas affected by protests, demonstrations or large public gatherings, as the use of rubber bullets, tear gas, water cannons and live ammunition has resulted in fatalities and injuries. Road closures and traffic disruptions may occur at short notice. Opportunistic crime, including looting, robberies and assaults, may occur. Avoid large gatherings, monitor the media for updates and follow the advice of local authorities (see 'Safety').
 
 Advice Level summary
 

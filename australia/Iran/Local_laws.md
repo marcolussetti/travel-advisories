@@ -79,7 +79,7 @@ You cannot photograph sensitive sites or events, including:
 
 #### Electronic equipment
 
-It's illegal to use drones without authorisation.
+It's illegal to use drones without authorisation. The use of drones over military, police, security or sensitive areas may result in imprisonment.
 
 You will need permission to bring in a range of electronic equipment, including:
 
