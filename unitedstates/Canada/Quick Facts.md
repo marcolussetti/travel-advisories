@@ -20,8 +20,8 @@ None
 
 CURRENCY RESTRICTIONS FOR ENTRY:
 
-None
+You must declare $10,000 CAN or more.
 
 CURRENCY RESTRICTIONS FOR EXIT:
 
-None
+You must declare $10,000 CAN or more.

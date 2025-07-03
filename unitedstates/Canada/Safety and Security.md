@@ -2,47 +2,71 @@
 
 [#### Safety and Security](javascript:void(0); "Safety and Security")
 
-**911 is the emergency telephone number in Canada.**
+**Emergency phone number**
 
-**Crime:** Although Canada generally has a lower crime rate than the United States, violent crimes occur throughout the country, especially in urban areas. Criminals may target parked cars, especially in large cities and popular tourist destination, for opportunistic smash-and-grab thefts. Do not leave unattended possessions in a vehicle, even in the trunk. Some jurisdictions such as Montreal, Toronto, and Vancouver may fine you for leaving your car doors unlocked or for leaving valuables in view. Pickpockets may target you, especially in popular tourist areas. Exercise caution. Safeguard yourself and your property.
+Local authorities are responsible for investigating and prosecuting crimes.
 
-**Demonstrations** occur frequently. They may take place in response to political or economic issues, on politically significant holidays, and during international events.
+**Dial 911** for all emergencies in Canada.
 
-* Demonstrations can be unpredictable, avoid areas around protests and demonstrations.
+Contact the U.S. Mission to Canada at [**here**](https://ca.usembassy.gov/contact/)to report emergencies.
+
+**Crime**Petty theft sometimes occurs.
+
+* Thieves often target parked cars in big cities or tourist spots. Avoid leaving items in your car or trunk to prevent “smash and grab” thefts.
+* Car thefts are increasing in some cities.
+  + Avoid parking on the street or in unmonitored parking lots.
+  + Consider a remote monitoring service or wheel locks.
+  + If your car is stolen, contact the police and do not attempt to locate the car yourself.
+* Montreal, Toronto, and Vancouver have strict parking laws. They may fine you for unlocked doors or visible valuables.
+* Pickpockets may target you in busy tourist areas. Stay alert and protect your belongings.
+
+**Demonstrations**Demonstrations occur frequently. They may take place in response to political or economic issues. They may also occur on politically significant holidays and during international events.
+
+* Demonstrations can be unpredictable. Avoid areas around protests and demonstrations.
+* Past demonstrations have rarely been violent in Canada.
 * Check local media for updates and traffic advisories.
 
-While there is a very small likelihood of violence at a political gathering in Canada, we strongly encourage U.S. citizens to avoid all protests and demonstrations and maintain a high level of vigilance and practice good situational awareness when traveling abroad.
+**Scams**Review the Department of State’s [Protecting Yourself from Scams](https://travel.state.gov/content/travel/en/international-travel/emergencies/international-financial-scams.html) and the [FBI](http://www.fbi.gov/scams-safety/fraud) pages for information.
 
-**International Financial Scams:**See the [Department of State](http://travel.state.gov/content/passports/english/emergencies/scams.html)and the [FBI](http://www.fbi.gov/scams-safety/fraud) pages for information.
+**Technology Usage Abroad**Mobile devices can be compromised, stolen, or damaged anywhere in the world. Before traveling abroad, it is best to keep all software (operating system and apps) updated. If possible, use a virtual private network (VPN) and encrypted voice over IP (VoIP) applications. Make sure that all VPN/VoIP are reputable, and U.S. based. Do not connect to unknown open Wi-Fi.
 
-**Victims of Crime:**  U.S. citizen victims of sexual assault are encouraged to contact the U.S. Embassy for assistance.  Report crimes to the local police at 911 and contact the U.S. Embassy at +1(613) 688-5335. Remember that local authorities are responsible for investigating and prosecuting crime.
+GPS Navigation Apps are helpful in getting U.S. citizens around in a foreign country. Prior to using the GPS app make sure you research the route to make sure it is safe. GPS navigation app may give you the shortest route without safety consideration.
 
-See our webpage on [help for U.S. victims of crime overseas](http://travel.state.gov/content/passports/en/emergencies/victims.html).
+**Victims of crimes**
+
+**Dial 911** (the Canadian emergency number) to report crimes to the local police.
+
+U.S. citizen victims of sexual assault are encouraged to contact the U.S. Mission for assistance.
+
+Report crimes to the local police at 911 and contact the U.S. Mission to Canada [**here**](https://ca.usembassy.gov/contact/), after calling local authorities. Local authorities are responsible for investigating and prosecuting crime.
+
+Review our webpage on help for [U.S. victims of crime overseas](https://travel.state.gov/content/travel/en/international-travel/emergencies/crime.html).
 
 We can:
 
-•    Help you find appropriate medical care
+* Help you find appropriate medical care.
+* Assist you in reporting a crime to the police.
+* Contact relatives or friends with your written consent.
+* Provide general information regarding the victim’s role during the local investigation and following its conclusion.
+* Provide a list of local attorneys.
+* Provide information on [victim’s compensation programs in the U.S](https://travel.state.gov/content/travel/en/international-travel/emergencies/crime.html).
+* Provide an emergency loan for repatriation to the U.S. and/or limited medical support in cases of destitution.
+* Help you find accommodation and arrange flights home.
+* Replace a stolen or lost passport.
 
-•    Assist you in reporting a crime to the police
+**Domestic violence**
 
-•    Contact relatives or friends with your written consent
+**Dial 911** (the Canadian emergency number) to report crimes to the local police.
 
-•    Provide general information regarding the victim’s role during the local investigation and following its conclusion
+U.S. citizen victims of domestic violence are encouraged to contact the U.S. Mission to Canada [**here**](https://ca.usembassy.gov/contact/)for assistance, after calling local authorities.
 
-•    Provide a list of local attorneys
+**Tourism safety**The tourism industry is generally regulated.
 
-•    Provide our information on [victim’s compensation programs in the U.S.](http://travel.state.gov/content/passports/english/emergencies/victims.html)
-
-•    Provide an emergency loan for repatriation to the United States and/or limited medical support in cases of destitution
-
-•    Help you find accommodation and arrange flights home
-
-•    Replace a stolen or lost passport
-
-**Domestic Violence:** U.S. citizen victims of domestic violence are encouraged to contact the U.S. Embassy or Consulates for assistance.
-
-**Tourism:** The tourism industry is generally regulated and rules with regard to best practices and safety inspections are regularly enforced. Hazardous areas/activities are identified with appropriate signage and professional staff is typically on hand in support of organized activities. In the event of an injury, appropriate medical treatment is widely available throughout the country.
-
-Outside of a major metropolitan center, it may take more time for first responders and medical professionals to stabilize a patient and provide life-saving assistance. If you are considering travel outside of populated areas, particularly in the northern Arctic territories, you need to know that search and rescue capabilities are limited because of extreme isolation and the harsh climate. You must be prepared for significant delays in receiving emergency assistance in these areas and plan accordingly.
-
-U.S. citizens are encouraged to purchase [medical evacuation insurance](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html).
+* Rules with regards to general practices and safety inspections are regularly enforced.
+* Dangerous areas and activities are marked with signs.
+* Trained staff are usually there to help with organized activities.
+* Appropriate medical treatment is widely available for injuries.
+* If someone gets hurt, they can usually get medical help anywhere in the country
+* In smaller cities, it might take longer for medical help to arrive and assist.
+* The Arctic territories are remote, and responders may be delayed due to isolation and harsh conditions. Plan for delays if you are traveling to these areas.
+* U.S. citizens are encouraged to purchase medical evacuation insurance.  See our webpage for more [information on insurance providers for overseas coverage](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html).

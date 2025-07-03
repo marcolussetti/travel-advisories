@@ -2,22 +2,78 @@
 
 [#### Travel and Transportation](javascript:void(0); "Travel and Transportation")
 
-**Road Conditions and Safety:**As in the United States, all emergency assistance in Canada can be reached by dialing 911.
+**Helpful resources**
 
-For detailed information on road conditions throughout Canada, as well as links to provincial government websites, please see the [Transport Canada](https://tc.canada.ca/en) website or the [Canadian Automobile Association](https://www.caa.ca/) (CAA) website. The CAA honors American Automobile Association memberships. Automobile warranties of vehicles purchased in the United States may not be valid in Canada.
+[Driving and Road Safety Abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/driving-and-road-safety.html)  
+[Canadian Automobile Association (CAA)](https://www.caa.ca/)  
+[Transport Canada](https://tc.canada.ca/en)
 
-Winter travel can be dangerous due to heavy snowfalls and hazardous icy conditions. Some provinces require snow tires. CAA has [tips for winter driving](https://www.caa.ca/app/uploads/2021/02/winterdrivingbrochure_en.pdf). Both winter conditions and wildfires may prompt the sudden closure of highways. Provincial ministries of transport typically post closures and other alerts about road conditions on their websites.
+**Road conditions and safety**
 
-**Traffic Laws:**Driving in Canada is similar to driving in many parts of the United States. Distances and speeds, however, are posted in kilometers per hour and some signs, particularly in Québec, may only be in French. U.S. driver’s licenses are valid for visitors in Canada. Proof of auto insurance is required. U.S. auto insurance is accepted  for tourists in Canada. For specific information concerning Canadian driving permits, mandatory insurance, and entry regulations, please contact the [Canadian National Tourist Organization](https://us-keepexploring.canada.travel/travel-info/getting-around#auto-rv-travel).
+* Vehicle warranties from the U.S. may not be valid in Canada.
+* Winter travel can be dangerous due to heavy snow and icy roads. Some provinces require snow tires. The Canadian Automobile Association (CAA) provides winter driving tips.
+* Winter weather and wildfires can sometimes cause highways to close suddenly. Provincial transport ministries usually post road closures and alerts on their websites.
+* The CAA honors American Automobile Association (AAA) memberships.
+* Transport Canada and CAA provide detailed information on road conditions throughout Canada.
 
-Some provinces require drivers to keep their vehicles’ headlights on during the day and some have banned driving while using a hand-held cell phone. Motorcycles cannot share a lane, and safety helmets for motorcycle riders and passengers are mandatory.
+**Traffic laws**
 
-It is illegal to take automobile radar detectors into Québec, Ontario, Manitoba, the Yukon, or the Northwest Territories, regardless of whether they are used. Police may confiscate radar detectors and impose substantial fines.
+In Canada distances and speeds are in kilometers per hour.
 
-Drivers approaching border crossings into the United States may encounter traffic backups. Drivers should be alert, as lane restrictions at border approaches exist for drivers in NEXUS and FAST expedited inspection programs.
+* Some road signs, especially in Québec, are only in French.
+* U.S. driver’s licenses are valid for visitors, and proof of auto insurance is required.
+* U.S. auto insurance is accepted for tourists.
+* Some provinces require headlights to be on during the day, others have banned cell phone use while driving.
+* Motorcycles cannot share lanes, and helmets are required for riders and passengers.
+* Radar detectors are illegal in Québec, Ontario, Manitoba, the Yukon, and the Northwest Territories, even if not used. Police can take them and issue fines.
+* Be prepared for traffic backups near U.S. border crossings.
 
-**Public Transportation:** Public transportation options vary across Canada, but all cities and most major towns have [a public transit system](https://www.canada.ca/en/immigration-refugees-citizenship/services/new-immigrants/new-life-canada/driving/other-transportation.html).
+**Public transportation**
 
-**Aviation Safety Oversight:**The U.S. Federal Aviation Administration (FAA) has assessed the government of Canada’s Civil Aviation Authority as being in compliance with International Civil Aviation Organization (ICAO) aviation safety standards for oversight of Canada’s air carrier operations.  Further information may be found on the [FAA’s safety assessment page](http://www.faa.gov/about/initiatives/iasa/).
+Public transportation is available in all cities and most major towns across Canada.
 
-**Maritime Travel:** Mariners planning travel to Canada should also check for U.S. maritime [advisories](https://www.maritime.dot.gov/msci-advisories) and [alerts](https://www.maritime.dot.gov/msci-alerts). Information may also be posted to the  [U.S. Coast Guard homeport website](https://www.dco.uscg.mil/Our-Organization/Assistant-Commandant-for-Prevention-Policy-CG-5P/International-Domestic-Port-Assessment/), and the [NGA broadcast warnings](https://msi.nga.mil/NavWarnings).
+See our [Road Safety page](https://travel.state.gov/content/travel/en/international-travel/before-you-go/driving-and-road-safety.html) for more information.
+
+**Aviation safety oversight**
+
+The U.S. Federal Aviation Administration (FAA) has found that Canada’s Civil Aviation Authority meets international standards for aviation safety oversight. FAA’s [website](https://www.faa.gov/about/initiatives/iasa) includes more information on its assessment program.
+
+**Maritime travel**
+
+Mariners planning travel to Canada should also check for U.S. maritime [advisories](https://www.maritime.dot.gov/msci-advisories) and [alerts](https://www.maritime.dot.gov/msci-alerts). Information may also be posted to the [U.S. Coast Guard homeport website](https://homeport.uscg.mil/), and the [NGA broadcast warning website](https://msi.nga.mil/NavWarnings).
+
+**Weather**
+
+**Seasons**
+
+Canadian winters can be harsh.
+
+* Temperatures are cold in the south and extremely cold in the north.
+* Cyclonic storms east of the Rockies form when cold air from the Arctic, moist air from the Pacific, and dry air from the interior mix. These storms bring most of the country's rain and snow.
+
+**Natural disasters**
+
+Wildfires are common. They disrupt travel and cause poor air quality warnings, particularly in the Western portions of Canada. The most active wildfire period is from May through September.
+
+**U.S Citizens living abroad**
+
+If you live abroad for a long time, you or your family may experience various [life events](https://travel.state.gov/content/travel/en/international-travel/while-abroad.html).
+
+* Learn how to prepare for life events like [voting](https://travel.state.gov/content/travel/en/international-travel/while-abroad/voting.html), getting [married](https://travel.state.gov/content/travel/en/international-travel/while-abroad/marriage-abroad.html), or the [birth of a child](https://travel.state.gov/content/travel/en/international-travel/while-abroad/birth-abroad.html).
+* Ensure you have a plan for [healthcare or insurance](https://travel.state.gov/content/travel/en/international-travel/while-abroad/your-health-abroad.html) abroad
+* Even abroad, you still have [certain obligations](https://travel.state.gov/content/travel/en/international-travel/while-abroad/federal-benefits-and-obligations-abroad.html) such as paying your U.S. taxes or registering for military selective service.
+
+**Fact Sheet**
+
+Please see the U.S. Department of State [Fact Sheet](https://www.state.gov/countries-areas/canada/) for Canada.
+
+**For additional travel information**
+
+* Enroll in the [Smart Traveler Enrollment Program (STEP)](https://mytravel.state.gov/s/step) to receive security messages and make it easier to locate you in an emergency.
+* Call us in Washington, D.C. at 1-888-407-4747 (toll-free in the United States and Canada) or 1-202-501-4444 (from all other countries) from 8:00 a.m. to 8:00 p.m., Eastern Standard Time, Monday through Friday (except U.S. federal holidays).
+* Follow us on [X](https://x.com/travelgov) (formerly Twitter), [Facebook](http://www.facebook.com/travelgov), and [Instagram](https://www.instagram.com/travelgov/).
+* See [traveling safely abroad](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-checklist.html) for useful travel tips.
+
+**International Parental Child Abduction (IPCA)**
+
+Review information about International Parental Child Abduction in [Canada](https://travel.state.gov/content/travel/en/International-Parental-Child-Abduction/International-Parental-Child-Abduction-Country-Information/Canada.html). For additional IPCA-related information, please see the [International Child Abduction Prevention and Return Act (ICAPRA) report](https://travel.state.gov/content/travel/en/International-Parental-Child-Abduction/for-providers/legal-reports-and-data.html).
