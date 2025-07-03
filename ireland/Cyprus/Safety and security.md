@@ -27,7 +27,7 @@ Crime remains relatively low in Cyprus but take sensible precautions:
   • Leave a photocopy of your passport (and travel and insurance documents) with family or friends at home.  
   • Personal attacks, including sexual assaults, are infrequent but they do occur. Be alert to the possible use of ‘date rape’ and other drugs. Buy your own drinks and keep sight of them at all times to make sure they are not spiked. If drinking, know your limit; drinks served in bars are often stronger than those in Ireland.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If a victim of a crime while in Cyprus, report it to the local police immediately. Contact the Irish Embassy in Nicosia if you need help.
 
@@ -41,7 +41,7 @@ If arrested or detained, ask police or prison officials to notify the Irish Emba
 
 There are few public buses and no rail links in Cyprus. Taxis are widely available.
 
-### **Vehicle hire**
+### **Vehicle Hire**
 
 Rental cars and scooters are widely available and carry distinguishable red number plates. If hiring any vehicle, whether it is a car, moped, boat or jet ski, check that it is road, or sea-worthy and that you have appropriate insurance cover and safety equipment. Also read the small print of the vehicle hire contract (particularly any waiver that will come into effect if the vehicle is damaged).  
 • If hiring a vehicle, we advise you not to hand over your passport as a form of security. If you’re allowing your passport to be photocopied, keep it in your sight at all times.  

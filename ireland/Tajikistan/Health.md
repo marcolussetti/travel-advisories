@@ -1,5 +1,7 @@
 ## Health
 
+### **Vaccinations**
+
 Check with a doctor well in advance of travelling to see what vaccinations for Tajikistan are required.
 
 ### **Medical facilities**

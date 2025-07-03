@@ -3,12 +3,16 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Uzbekistan/Overview.md"
+            "title": "Travel to Uzbekistan overview",
+            "file": "ireland/Uzbekistan/Travel to Uzbekistan overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Uzbekistan/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Uzbekistan/Health.md"
         },
         {
             "title": "Local laws and customs",
@@ -19,13 +23,13 @@
             "file": "ireland/Uzbekistan/Natural disasters and climate.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Uzbekistan/Additional information.md"
+            "title": "Entry requirements",
+            "file": "ireland/Uzbekistan/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Uzbekistan/Embassy contact.md"
         }
     ],
-    "update_date": "2023-11-28T00:00:00"
+    "update_date": "2025-07-02T00:00:00"
 }

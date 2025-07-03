@@ -3,29 +3,29 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Tajikistan/Overview.md"
-        },
-        {
-            "title": "Health",
-            "file": "ireland/Tajikistan/Health.md"
+            "title": "Travel to Tajikistan overview",
+            "file": "ireland/Tajikistan/Travel to Tajikistan overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Tajikistan/Safety and security.md"
         },
         {
+            "title": "Health",
+            "file": "ireland/Tajikistan/Health.md"
+        },
+        {
             "title": "Local laws and customs",
             "file": "ireland/Tajikistan/Local laws and customs.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Tajikistan/Additional information.md"
+            "title": "Entry requirements",
+            "file": "ireland/Tajikistan/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Tajikistan/Embassy contact.md"
         }
     ],
-    "update_date": "2025-04-04T00:00:00"
+    "update_date": "2025-07-02T00:00:00"
 }

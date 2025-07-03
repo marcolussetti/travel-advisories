@@ -3,29 +3,29 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Sweden/Overview.md"
+            "title": "Travel to Sweden overview",
+            "file": "ireland/Sweden/Travel to Sweden overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Sweden/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Sweden/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Sweden/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Sweden/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/Sweden/Local laws and customs.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/Sweden/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Sweden/Embassy contact.md"
         }
     ],
-    "update_date": "2025-06-19T00:00:00"
+    "update_date": "2025-07-02T00:00:00"
 }

@@ -3,12 +3,16 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Kazakhstan/Overview.md"
+            "title": "Travel to Kazakhstan overview",
+            "file": "ireland/Kazakhstan/Travel to Kazakhstan overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Kazakhstan/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Kazakhstan/Health.md"
         },
         {
             "title": "Local laws and customs",
@@ -19,13 +23,13 @@
             "file": "ireland/Kazakhstan/Natural disasters and climate.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Kazakhstan/Additional information.md"
+            "title": "Entry requirements",
+            "file": "ireland/Kazakhstan/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Kazakhstan/Embassy contact.md"
         }
     ],
-    "update_date": "2024-03-15T00:00:00"
+    "update_date": "2025-07-02T00:00:00"
 }

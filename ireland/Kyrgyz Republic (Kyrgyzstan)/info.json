@@ -3,12 +3,16 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Kyrgyz Republic (Kyrgyzstan)/Overview.md"
+            "title": "Travel to Kyrgyz Republic (Kyrgyzstan) overview",
+            "file": "ireland/Kyrgyz Republic (Kyrgyzstan)/Travel to Kyrgyz Republic (Kyrgyzstan) overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Kyrgyz Republic (Kyrgyzstan)/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Kyrgyz Republic (Kyrgyzstan)/Health.md"
         },
         {
             "title": "Local laws and customs",
@@ -19,13 +23,13 @@
             "file": "ireland/Kyrgyz Republic (Kyrgyzstan)/Natural disasters and climate.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Kyrgyz Republic (Kyrgyzstan)/Additional information.md"
+            "title": "Entry requirements",
+            "file": "ireland/Kyrgyz Republic (Kyrgyzstan)/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Kyrgyz Republic (Kyrgyzstan)/Embassy contact.md"
         }
     ],
-    "update_date": "2023-11-28T00:00:00"
+    "update_date": "2025-07-02T00:00:00"
 }

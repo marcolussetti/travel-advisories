@@ -22,13 +22,13 @@ Visitors should take sensible precautions to protect yourself from crime while i
 * Robberies have taken place on trains, so always lock railway compartments on overnight trains.
 * Be wary of accepting food and drink from strangers in bars, nightclubs and restaurants. Some visitors have been drugged and subsequently robbed.
 
-### **Lost or stolen passports**
+### **Lost or Stolen Passports**
 
 Report the loss of a passport immediately to the police and get confirmation of the loss in writing. Visitors need this report when applying for an emergency passport from the [**Irish Embassy in Moscow**](/en/moscow/).
 
 The Embassy can accept applications for new passports, which may take between four and six weeks to be processed in Dublin, but it cannot issue new full passports.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If a victim of a crime while in Kazakhstan, report it to the local police immediately. Contact the [**Irish Embassy in Moscow**](/en/moscow/) if help is required.
 
@@ -36,7 +36,7 @@ If a victim of a crime while in Kazakhstan, report it to the local police immedi
 
 If planning to drive in Kazakhstan, exercise caution and bring your international driving licence and make sure to have adequate and appropriate insurance.
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If hiring a vehicle, we advise not to hand over your passport as a form of security. If allowing your passport to be photocopied, keep it in sight at all times.
 

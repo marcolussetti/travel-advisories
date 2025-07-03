@@ -3,29 +3,29 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Slovak Republic (Slovakia)/Overview.md"
+            "title": "Travel to Slovak Republic overview",
+            "file": "ireland/Slovak Republic (Slovakia)/Travel to Slovak Republic overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Slovak Republic (Slovakia)/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Slovak Republic (Slovakia)/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Slovak Republic (Slovakia)/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Slovak Republic (Slovakia)/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/Slovak Republic (Slovakia)/Local laws and customs.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/Slovak Republic (Slovakia)/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Slovak Republic (Slovakia)/Embassy contact.md"
         }
     ],
-    "update_date": "2025-06-24T00:00:00"
+    "update_date": "2025-07-02T00:00:00"
 }

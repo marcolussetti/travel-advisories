@@ -1,6 +1,6 @@
 ## Health
 
-### **Get travel and medical insurance**
+### **Get Travel and Medical Insurance**
 
 Before travelling, we **strongly recommend** that you obtain comprehensive travel insurance which will cover all overseas medical costs, including medical repatriation/evacuation, repatriation of remains and legal costs. Check any exclusions and, in particular, that your policy covers all the activities you want to undertake.
 

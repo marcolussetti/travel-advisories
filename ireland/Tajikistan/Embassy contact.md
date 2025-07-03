@@ -1,5 +1,7 @@
 ## Embassy contact
 
+As there is no Irish Embassy in Tajikistan, we are limited in the help we can offer in an emergency. However, if assistance is required, contact the [**Irish Embassy in Moscow.**](/en/moscow/)
+
 The Embassy operates an out-of-hours service for Irish citizens requiring emergency assistance. If emergency assistance is required, please contact the Embassy Duty Officer at +7 985 928 7615
 
 Monday to Friday 09:30-13:00 and 14:30-17:30

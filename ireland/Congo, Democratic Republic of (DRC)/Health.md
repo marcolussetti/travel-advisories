@@ -1,14 +1,14 @@
 ## Health
 
-### **Get travel and medical insurance**
+### **Get Travel and Medical Insurance**
 
-Before travelling, the Department **strongly recommends** that you obtain comprehensive travel insurance which will cover all overseas medical costs, including medical repatriation/evacuation, repatriation of remains and legal costs. Check any exclusions and, in particular, that your policy covers all the activities you want to undertake.
+Before travelling, the Department of Foreign Affairs **strongly recommends** that you obtain comprehensive travel insurance which will cover all overseas medical costs, including medical repatriation/evacuation, repatriation of remains and legal costs. Check any exclusions and, in particular, that your policy covers all the activities you want to undertake.
 
 ### **COVID-19**
 
 From July 2023 DRC removed all COVID-19 related entry requirements. Proof of either vaccination or a negative test result is no longer required. COVID-19 related exit requirements were removed in 2022.
 
-### **Medical facilities**
+### **Medical Facilities**
 
 The Centre Prive d'Urgence (CPU) clinic in Kinshasa is able to cope with basic health problems and to stabilise a patient after most serious accidents. Medical evacuation is advisable as soon as possible. Outside Kinshasa, western standard medical facilities are practically non-existent.
 
@@ -16,7 +16,7 @@ The Centre Prive d'Urgence (CPU) clinic in Kinshasa is able to cope with basic
 
 Malaria is prevalent in the Democratic Republic of Congo. Before travelling, get up-to-date medical advice as to whether you will need anti-malarial medication. On arrival, avoid being bitten by mosquitoes by using bed nets and repellents, and wearing closed shoes, long sleeves and trousers.
 
-### **Other illnesses**
+### **Other Illnesses**
 
 DRC has experienced a number of Ebola outbreaks in recent years. There are also currently outbreaks of cholera, measles, monkey pox, plague, yellow fever and vaccine-derived polio.
 
@@ -34,7 +34,7 @@ Evidence of vaccination (in the form of a certificate) can be a requirement for 
 
 Make sure to bring enough medication for entire trip and for any unexpected delays. Also bring copies of your prescription in case you lose your medication.
 
-### **Medical emergency facilities**
+### **Medical Emergency Facilities**
 
 In Kinshasa:
 

@@ -1,6 +1,6 @@
 ## Embassy contact
 
-We do not have an Embassy in Kyrgyzstan, please contact Embassy of Ireland Russia.
+We do not have an Embassy in Kyrgyzstan, please contact the [**Irish Embassy in Moscow**](https://www.dfa.ie/irish-embassy/russia/contact-us/).
 
 The Embassy operates an out-of-hours service for Irish citizens requiring emergency assistance. If you are in need of emergency assistance, please ring the Embassy Duty Officer at +7 985 928 7615
 

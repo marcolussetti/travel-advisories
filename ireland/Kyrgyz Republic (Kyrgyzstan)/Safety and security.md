@@ -1,10 +1,10 @@
 ## Safety and security
 
-### **Political unrest**
+### **Political Unrest**
 
 There are continuing political and ethnic tensions in Kyrgyzstan and demonstrations can occur from time. You should avoid all demonstrations or large public gatherings as they have the potential to turn violent.
 
-### **Border areas**
+### **Border Areas**
 
 Security has been increased in border areas. We advise you to only use officially-recognised border crossings and to only travel in the border areas if absolutely necessary.
 
@@ -35,7 +35,7 @@ Mugging and theft regularly occur in both city and rural areas and foreigners ar
 
 Avoid travelling in unofficial taxis, particularly at night and alone, or if there’s another passenger already in the car. We don’t encourage the hiring of private hackney cabs instead of licensed taxicabs in Kyrgyzstan. In addition, taxis aren’t always metered and you should negotiate the fare in advance of entering the taxi.
 
-### **Lost or stolen passports**
+### **Lost or Stolen Passports**
 
 If you lose your passport you must report this immediately to the police and get confirmation of the loss in writing. This report will be necessary when applying for an emergency passport from the [**Irish Embassy in Moscow**](https://www.dfa.ie/irish-embassy/russia/contact-us/).
 
@@ -45,7 +45,7 @@ The Embassy is able to accept applications for new passports, which may take bet
 
 Passenger lists on aircraft aren’t always kept confidential. There have been cases of people being met by name from an aircraft and subsequently robbed. If you’re arriving at Manas International Airport, arrange your onward transportation from the airport in advance.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If you’re a victim of a crime while in Kyrgyzstan, report it to the local police immediately. And you can contact us at the [**Irish Embassy in Moscow**](https://www.dfa.ie/irish-embassy/russia/contact-us/) if you need help.
 
@@ -60,16 +60,16 @@ If you’re planning to drive in Kyrgyzstan, you should be extremely careful. Ma
 * Avoid driving at night
 * Be aware that roads outside the capital are often blocked by snow during the winter months and avalanches and landslides frequently block roads in the spring
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If you’re hiring a vehicle, we advise you not to hand over your passport as a form of security. If you’re allowing your passport to be photocopied, keep it in your sight at all times.
 
 Check that you have adequate insurance and read the small print of the vehicle hire contract (particularly any waiver that will come into effect if the vehicle is damaged).
 
-### **Air safety**
+### **Air Safety**
 
 It’s not known whether maintenance procedures on aircraft used on internal flights are always properly observed or whether passengers are covered by insurance. If possible, we advise you to fly directly to your destination on an international flight originating outside Eastern Europe and Central Asia, and avoid in-country and regional travel using domestic carriers. If you intend to travel to and from Kyrgyzstan, avoid flying on [**airlines listed under the EU operating ban**](https://ec.europa.eu/transport/modes/air/safety/air-ban_en).
 
-### **Public transport**
+### **Public Transport**
 
 We advise against using local buses and/or mini-buses as vehicles often lack seatbelts and are not well maintained. Theft on board is also a risk.

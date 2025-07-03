@@ -16,7 +16,7 @@ Crime remains relatively low in Sweden but you should take sensible precautions.
 * Keep a close eye on your personal belongings and hold on to them in public places such as internet cafes, train and bus stations
 * Avoid dark and unlit streets and stairways, arrange to be picked up or dropped off as close to your hotel or apartment entrance as possible
 
-### **Reporting a crime**
+### **Reporting a Crime**
 
 If you’re a victim of a crime while in Sweden, report it to the local police immediately. And you can contact us at the Irish Embassy if you need help.
 
@@ -34,7 +34,7 @@ The rules of the road in Sweden are broadly similar to those in Ireland, and roa
 * When driving in Sweden, particularly in the north of the country, wild animals straying on the roads, such as deer and elk, can be an added danger
 * Keep your vehicle doors locked and your bags kept out of sight to prevent opportunistic bag-snatching if you’re stopped at traffic lights
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If you’re hiring a vehicle, we advise you not to hand over your passport as a form of security. If you’re allowing your passport to be photocopied, keep it in your sight at all times.
 

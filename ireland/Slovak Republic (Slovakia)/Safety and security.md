@@ -19,7 +19,7 @@ Crime remains relatively low in Slovakia but you should take sensible precaution
 * Be aware that drinking on the street is forbidden in Bratislava except in clearly delineated areas such as terraces during the summer. Noise is also forbidden in Bratislava after 10pm. The Slovak Police will not hesitate to impose penalties on supporters who break the law.
 * If you decide to go to a party, do not go alone and make sure that you know where you will be and that you have the means to get home independently and safely.
 
-### **Reporting a crime**
+### **Reporting a Crime**
 
 If you’re a victim of a crime while in Slovakia, report it to the local police immediately. The number for emergency services in Slovakia is 112. And you can contact us at the [**Irish Embassy in Bratislava**](/en/slovak-republic/bratislava/) if you need help.
 
@@ -33,7 +33,7 @@ If you are planning to drive:
 * Driving under the influence of alcohol or drugs is against the law and you risk being detained, fined or banned from driving if caught. The drink/driving limit in Slovakia is zero
 * Particular care should be taken on secondary roads which may not be cleared of snow and ice in winter
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If you’re hiring a vehicle, we advise you not to hand over your passport as a form of security. If you’re allowing your passport to be photocopied, keep it in your sight at all times.
 

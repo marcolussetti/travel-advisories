@@ -3,29 +3,33 @@
     "risk_level": "Do Not Travel",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Congo, Democratic Republic of (DRC)/Overview.md"
+            "title": "Travel to the Democratic Republic of Congo (DRC) overview",
+            "file": "ireland/Congo, Democratic Republic of (DRC)/Travel to the Democratic Republic of Congo (DRC) overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Congo, Democratic Republic of (DRC)/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Congo, Democratic Republic of (DRC)/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Congo, Democratic Republic of (DRC)/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Congo, Democratic Republic of (DRC)/Additional information.md"
+            "title": "Local Laws and Customs",
+            "file": "ireland/Congo, Democratic Republic of (DRC)/Local Laws and Customs.md"
+        },
+        {
+            "title": "Climate and natural disasters",
+            "file": "ireland/Congo, Democratic Republic of (DRC)/Climate and natural disasters.md"
+        },
+        {
+            "title": "Entry Requirements",
+            "file": "ireland/Congo, Democratic Republic of (DRC)/Entry Requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Congo, Democratic Republic of (DRC)/Embassy contact.md"
         }
     ],
-    "update_date": "2025-01-28T00:00:00"
+    "update_date": "2025-07-02T00:00:00"
 }
