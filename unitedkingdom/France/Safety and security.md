@@ -34,6 +34,10 @@ French authorities regularly report that they have disrupted planned attacks and
 
 There can be frequent industrial action across France. This can lead to disruption and delays on roads and public transport. If you’re due to travel to or within France, monitor the media, check your operator’s advice and follow the advice of the authorities.
 
+On 3 and 4 July, planned industrial action by air traffic control unions is expected to disrupt flights to and from airports across France.
+
+Check your operator’s advice before travelling, including where you are taking connecting flights.
+
 ### Demonstrations
 
 Demonstrations, political gatherings, or marches can take place with little or no warning, particularly in cities.

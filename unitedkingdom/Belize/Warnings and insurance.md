@@ -1,17 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   9 May 2025
+:   3 July 2025
 
 Updated:
-:   8 May 2025
+:   2 July 2025
 
 Latest update:
-:   Information on the state of emergency declared on 7 May (‘Warnings and insurance’ page).
-
-## State of emergency
-
-Following an increase in gang violence, a one-month state of emergency was declared in parts of Belize City, the Belize District, and the Cayo District on 7 May 2025. The state of emergency grants law enforcement expanded powers and could be extended. Follow the advice of the local authorities and monitor local media.
+:   Removal of information on the state of emergency declared on 7 May (‘Warnings and insurance’ page).
 
 ## Before you travel
 

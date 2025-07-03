@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   27 June 2025
+:   3 July 2025
 
 Updated:
-:   26 June 2025
+:   2 July 2025
 
 Latest update:
-:   Removal of information on disruption to Eurostar services ('Warning and insurance' page).
+:   Updated information on potential travel disruption due to industrial action ('Safety and security' page).
 
 ## Before you travel
 
