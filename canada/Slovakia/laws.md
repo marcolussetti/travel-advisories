@@ -8,15 +8,15 @@ Learn about what you should do and how we can help if you are [arrested or detai
 
 ### Transfer to a Canadian prison
 
-Canada and Slovakia are signatories to the Convention on the Transfer of Sentenced Persons. This enables a Canadian imprisoned in Slovakia to request a transfer to a Canadian prison to complete a sentence. The transfer requires the agreement of both Canadian and Slovakia authorities.
+Canada and Slovakia are signatories to the Convention on the Transfer of Sentenced Persons. This enables a Canadian imprisoned in Slovakia to request a transfer to a Canadian prison to complete a sentence. The transfer requires the agreement of both Canadian and Slovak authorities.
 
 This process can take a long time, and there is no guarantee that the transfer will be approved by either or both sides.
 
 ### Drugs
 
-Penalties for possession, use or trafficking of illegal drugs are severe. Convicted offenders can expect lengthy jail sentences.
+Penalties for possession, use or trafficking of illegal drugs, including cannabis, are severe. Convicted offenders can expect lengthy jail sentences.
 
-Public intoxication and disorderly conduct is illegal. Offenders could be severely fined or detained.
+Public intoxication and disorderly conduct are illegal. Offenders could be severely fined or detained.
 
 [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
 
@@ -60,28 +60,36 @@ You must carry photo identification, such as a passport as local authorities can
 
 ### Photography
 
-Avoid taking pictures of military installations and personnel, as this activity is prohibited locally.
+It is illegal to take pictures of military installations and personnel.
 
 ### Driving
 
-You should carry an international driving permit.
+To drive in Slovakia, you must have the following:
 
-There is zero tolerance for driving under the influence of alcohol. Penalties are strict.
+* a valid Canadian driver’s licence
+* an international driving permit
+
+Slovakia has a zero-tolerance policy for drinking and driving. Penalties include:
+
+* licence suspension
+* heavy fines
+* a jail sentence
 
 Vehicles must be equipped with the following items for emergency situations:
 
 * a first aid kit
 * warning triangle
-* tow rope
-* functional spare tire
 * high-visibility vests for all passengers
 
-A vignette (toll sticker) is required to travel on highways. You can buy them at border crossings, gas stations and post offices.
+A vignette (toll sticker) is required to travel on highways. You can buy them at border crossings, gas stations and post offices. You can also buy an e-vignette online which you can display when requested.
 
 Fines for traffic violations must be paid on the spot.
 
-* [Driving in Slovakia](http://ec.europa.eu/transport/road_safety/going_abroad/slovakia/index_en.htm) - European Commission
+* [Driving in Slovakia](http://ec.europa.eu/transport/road_safety/going_abroad/slovakia/index_en.htm) – European Commission
+* [Electronic vignette](https://eznamka.sk/selfcare/purchase) – Eznamka, Slovak National Motorway Company
 * [More about the International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
+
+
 
 ### Money
 

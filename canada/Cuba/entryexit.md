@@ -2,10 +2,6 @@
 
 ## Entry and exit requirements
 
-As of July 1, 2025, the Cuban government will only accept electronic visas to enter the country.
-
-If you travel directly from Canada to Cuba, your tourist visa should be included in your ticket. However, if you travel to Cuba via a third country, including on flights with stopovers in a third country, you must apply for a Cuban electronic visa ahead of time.
-
 Every country or territory decides who can enter or exit through its borders. The Government of Canada cannot intervene on your behalf if you do not meet your destination’s entry or exit requirements.
 
 We have obtained the information on this page from the Cuban authorities. It can, however, change at any time.
@@ -47,15 +43,17 @@ Tourist visa: required
  Family visa: required  
  Business visa: required
 
-#### Tourist card
+Canadian tourists travelling to Cuba need a visa, which allows for stays of up to 90 days.
 
-Canadian tourists travelling to Cuba need a visa, known as tourist card, which allows you to stay in Cuba for up to 90 days.
+The tourist visa is generally included in holiday packages provided by tour operators or airlines providing direct flights from Canada.
 
-The tourist card is generally included in holiday packages provided by tour operators or airlines providing direct flights from Canada. If you travel to Cuba on your own or transit via another country, you are responsible for obtaining the tourist card from a Cuban government office in Canada. You may also buy it at some airports in Canada and in the United States.
+If you travel to Cuba via a third country, including on flights with stopovers in a third country, you must obtain a Cuban electronic visa ahead of time. A 10-character code will be provided, which you must include when filling out the online customs form.
+
+[Tourist visas](https://evisacuba.cu/en/inicio) – Government of Cuba
 
 ### Length of stay
 
-You may stay in Cuba for up to 6 months, but you must request an extension of stay if you intend to stay longer than the initial 90-day period allowed by the standard tourist card.
+You may stay in Cuba for up to 6 months, but you must request an extension of stay if you intend to stay longer than the initial 90-day period allowed by the standard tourist visa.
 
 [D’Viajeros traveller information portal](https://dviajeros.mitrans.gob.cu/inicio) – Government of Cuba
 

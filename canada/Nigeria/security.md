@@ -145,9 +145,17 @@ Be particularly vigilant during:
 
 Terrorists may use such occasions to mount attacks.
 
+### Intercommunal violence
+
+Intercommunal tensions can occasionally escalate into localized violence and unrest.
+
+While possible throughout Nigeria, these conflicts most commonly occur in the north-central, northwestern and northeastern states.
+
+During periods of unrest, local authorities can strengthen security measures and impose curfews.
+
 ### State of emergency
 
-Local authorities periodically declare a state of emergency in various states to fight against crime or terrorist activities.
+Local authorities periodically declare a state of emergency in various states to fight against crime, civil unrest or terrorist activities.
 
 When a state of emergency is in effect, security forces have increased rights to:
 

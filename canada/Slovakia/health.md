@@ -184,13 +184,23 @@ To lower your risk of getting sexually transmissible infections (STIs), HIV, and
 
 ### Medical services and facilities
 
-Medical facilities are adequate.
+Good health care is limited in availability, especially outside of Bratislava and other major cities. Some doctors may speak English, but not all health care providers will.
 
-Doctors and hospitals often expect immediate cash payment.
+Doctors and medical facilities may require immediate cash payment for medical treatment.
 
 Make sure you get travel insurance that includes coverage for medical evacuation and hospital stays.
 
 [Health and safety outside Canada](https://travel.gc.ca/travelling/health-safety)
+
+### Medication
+
+Some prescription medications may not be available in Slovakia.
+
+If you take prescription medications, you’re responsible for determining their legality in Slovakia.
+
+* Bring enough medication for your stay
+* Always keep your medication in the original container and carry a copy of your prescriptions
+* Pack your medication in your carry-on luggage
 
 ### Keep in Mind...
 

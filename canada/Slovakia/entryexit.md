@@ -51,12 +51,12 @@ Different entry rules may apply when travelling with a temporary passport or an 
 ### Visas
 
 Tourist visa: not required for stays up to 90 days\*  
-Business visa: not required for stays up to 90 days  
-Student visa: not required for stays up to 90 days
+ Business visa: not required for stays up to 90 days  
+ Student visa: not required for stays up to 90 days
 
 \* The 90-day period begins upon initial entry into any country of the Schengen area. Stays are cumulative and include visits to any Schengen area country within any 180-day period.
 
-Canadians who intend to work or plan to remain in Slovakia for more than 90 days must obtain a temporary residence permit. Failure to obtain a residence permit for stays of over 90 days could result in deportation. Deportation from Slovakia will also mean expulsion from the greater Schengen area.
+Canadians who intend to work or plan to remain in Slovakia for more than 90 days must obtain a temporary residence permit. Failure to obtain a residence permit for stays of over 90 days could result in deportation. If you are deported from Slovakia this will also apply to all Schengen area countries.
 
 ### Other entry requirements
 
@@ -64,12 +64,12 @@ Customs officials may ask you to show them:
 
 * a return or onward ticket
 * proof that you have a place to stay
-* proof of sufficient funds for your stay
+* proof of sufficient funds for your stay, approx. 80 CAD per person per day
 * proof of health insurance coverage
 
 ### Registration
 
-If you intend to stay in private accommodations for a visit lasting more than 30 days, you must register with the nearest police station within three days of arrival. Hotel guests are registered by hotel staff.
+If you intend to stay in private accommodations for a visit lasting more than 30 days, you must register your stay at the nearest Border and Foreign Police station within three days of arrival. Hotel guests are registered by hotel staff.
 
 ### Children and travel
 

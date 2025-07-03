@@ -4,46 +4,46 @@
 
 ### Crime
 
-Petty crime, such as pickpocketing and purse snatching, occurs, especially in crowded areas and particularly during summer months. Foreigners are often targeted.
+#### Petty crime
 
-Pickpockets often work in teams, sometimes including children, and target people on trains and at railway stations and airports. Their methods include distracting a victim who is boarding or exiting a train or surrounding a victim in line-ups or at check-out counters.
+Petty crime, such as pickpocketing and purse snatching, occurs, especially in crowded areas and particularly during summer months. Thieves target tourists.
 
-Always be suspicious if someone offers to help you with a flat tire. These individuals may have punctured the tire themselves and seize the opportunity to steal a bag or other valuable objects while you are distracted.
+Criminals, including groups of children and teenagers, use various techniques to distract their victims, especially on public transportation and at train stations. Car theft and theft from inside cars occurs, particularly with rental and luxury cars.
 
-Individuals have also been harassed for reasons of race or foreign-looking appearance.
+Theft occurs in crowded public areas such as:
 
-* Ensure that your personal belongings, including your passport and other travel documents, are secure at all times
-* Do not show signs of affluence
-* Avoid public parks in city centres and railway stations after dark
+* popular tourist areas, including lookouts
+* buses, trains, bus and train stations, and airports
+* hotel lobbies
+* restaurants, including outdoor seating areas
 
-Be vigilant in:
+Thieves are active in Bratislava’s Old Town area.
 
-* shopping centres
-* markets
-* public transportation stations
-* trains
-* hotels
-* major tourist attractions, including Bratislava’s Old Town area
+During your trip:
 
-#### Car thefts
-
-Car thefts and break-ins occur, particularly in major cities. Car thieves target foreign luxury vehicles more than other models.
-
-* Never leave personal belongings unattended in a vehicle, even in the trunk
-* Park your vehicule in a secure area
+* keep your personal belongings, including your passport and other travel documents, in a secure place and out of sight
+* never leave personal belongings unattended in a vehicle, even in the trunk
+* park your vehicle in a secure area
+* do not carry large sums of cash or valuables unnecessarily
+* avoid isolated areas
+* be aware of your surroundings, especially in busy tourist areas
 
 ### Terrorism
 
-There is a threat of terrorism in Europe. Terrorist attacks have occurred in a number of European cities. There is a potential for other violent incidents.
+There is a threat of terrorism in Europe. Terrorists have carried out attacks in several European cities and further attacks are likely.
 
 Targets could include:
 
-* government buildings, including schools
+* government buildings, including police stations
+* schools, including universities
 * places of worship
 * airports and other transportation hubs and networks
 * public areas such as tourist attractions, restaurants, bars, coffee shops, shopping centres, markets, hotels and other sites frequented by foreigners
+* cultural venues
 
-Always be aware of your surroundings when in public places.Be particularly vigilant during:
+Always be aware of your surroundings when in public places.
+
+Be particularly vigilant during:
 
 * sporting events
 * religious holidays
@@ -52,21 +52,40 @@ Always be aware of your surroundings when in public places.Be particularly vigil
 
 Terrorists may use such occasions to mount attacks.
 
-### Fraudulent police officers
+### Fraud
 
-Individuals posing as plainclothes police officers may ask to see your foreign currency and passport. If approached, decline to hand over personal belongings. Offer instead to go to the nearest police station or seek assistance from a local contact.
+#### Overcharging
+
+Certain establishments, such as bars or nightclubs, may try to overcharge you.
+
+Discussions about overcharging have turned violent. Tourists have been threatened and forced to pay the bill.
+
+* Always confirm the price of an item before ordering
+* Do not leave an open tab
+* Avoid giving your credit card to bar or restaurant staff
+* Check the accuracy of your bill before paying
 
 [Overseas fraud](https://travel.gc.ca/travelling/health-safety/overseas-fraud)
 
-### Spiked food and drinks
+### Harassment
+
+Women, 2SLGBTQI+ persons and racialized groups, have been subject to harassment or verbal abuse.
+
+Be vigilant when travelling alone, especially at night. If you are the victim of harassment, you should report it immediately to the police.
+
+#### Useful links
+
+[Advice for women travellers](https://travel.gc.ca/travelling/health-safety/advice-for-women-travellers "Advice for women travellers")
+
+[Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
+
+### Spiked food, drinks and other items
 
 Never leave food or drinks unattended or in the care of strangers. Be wary of accepting snacks, beverages, gum or cigarettes from new acquaintances, as these items may contain drugs that could put you at risk of sexual assault and robbery.
 
 ### Demonstrations
 
-Demonstrations occur sometimes.
-
-Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation.
+Demonstrations occur sometimes. Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation.
 
 * Avoid areas where demonstrations and large gatherings are taking place
 * Follow the instructions of local authorities
@@ -74,21 +93,53 @@ Even peaceful demonstrations can turn violent at any time. They can also lead to
 
 [Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
 
+### Adventure tourism
+
+Outdoor activities, such as hiking, climbing, skiing, and other extreme sports, can be dangerous.
+
+Weather conditions can change rapidly, even in the summer. Lightning strikes are particularly common in the Tatra region of the Carpathians, as well as a risk of sudden storms and avalanches.
+
+If you intend to participate in adventure tourism activities:
+
+* share your itinerary with a friend or family member if you’re alone
+* obtain detailed information on your activity and the environment in which you will be setting out
+* buy travel insurance that covers incidents related to this type of recreational activity
+* ensure that your physical condition is good enough to tackle the challenges of your activity
+* ensure that you have proper equipment and bring sufficient water
+* monitor weather conditions and other possible hazards
+
+#### Useful links
+
+* [Current warnings](https://hzs.sk/) – Mountain Rescue Service (in Slovak only)
+* [Avalanche risk](https://avalanches.sk/bulletin/latest) – Avalanche prevention centre
+
 ### Roads
 
-Road conditions and road safety can vary greatly throughout the country. Driving conditions may be hazardous during winter.
+#### Road conditions
 
-Drivers do not respect traffic laws. They often drive at excessive speeds and use reckless manoeuvring.
+Road conditions vary greatly throughout the country.
 
-Avoid travelling after dark in remote areas.
+Driving conditions may be hazardous during winter and in rural areas due to poorly lit roads.
+
+#### Driving habits
+
+Drivers don’t always respect traffic laws. Speeding is common, and drivers can be aggressive and reckless.
+
+If you choose to drive:
+
+* plan your trip in advance, especially if you are visiting a rural area
+* familiarize yourself with your itinerary before you leave
+* avoid travelling after dark, especially in remote areas
 
 ### Public transportation
 
-Public transportation is well developed and reliable.
-
 #### Taxis
 
-Officially marked taxis are generally reliable, safe and economical. Beware of taxi drivers who try to overcharge by not switching on the meter. Pre-negotiate the fare.
+Taxi availability may be limited outside city centres.
+
+* Only use officially marked taxis
+* Only use reputable taxi companies through establishments such as hotels or cab hailing apps
+* Confirm the fare in advance
 
 ### Air travel
 

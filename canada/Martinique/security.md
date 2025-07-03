@@ -91,7 +91,7 @@ Ferry services provide transportation mainly to Guadeloupe, Dominica and St Luci
 
 Fort-de-France is a cruise ship stop.
 
-[Advice for Cruise Travellers](http://travel.gc.ca/travelling/publications/advice-for-cruise-travellers)
+[Cruise travel health and safety](https://travel.gc.ca/travelling/health-safety/advice-for-travellers/cruise-travel)
 
 ### Air travel
 

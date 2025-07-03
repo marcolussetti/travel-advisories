@@ -48,7 +48,7 @@ If you decide to take a cruise in Greenland:
 * choose a well-established and reputable cruise company
 * ensure that your travel insurance covers cruise ship travel and includes helicopter rescue and medical evacuation
 
-[Advice for Cruise Travellers](https://travel.gc.ca/travelling/publications/advice-for-cruise-travellers)
+[Cruise travel health and safety](https://travel.gc.ca/travelling/health-safety/advice-for-travellers/cruise-travel)
 
 ### Air travel
 

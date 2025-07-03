@@ -4,94 +4,100 @@
 
 ### Impacts of the armed conflict in Ukraine
 
-In February 2022, Russia launched a military invasion of Ukraine. Russian forces are conducting military operations from Belarus.
-
-Several countries, including Canada, have imposed sanctions on Belarus for its role in the conflict.
-
-Certain international companies suspended their operations in the country.
+In February 2022, Russia launched a military invasion of Ukraine. Russian forces conduct military operations from Belarus. Security conditions are unpredictable and could deteriorate without notice.
 
 Projectiles from the armed conflict in Ukraine have landed in the Brest region near the Ukrainian border. Be aware of your surroundings.
 
-This situation is disrupting certain essential services such as:
+The ability of the Embassy of Canada to Poland to provide consular services in Belarus is extremely limited. If you are in Belarus, you should leave by commercial means.
 
-* banking services
-* transportation
-* courier services
+If you decide to remain in Belarus despite this advisory, be aware that:
 
-Flight options to leave Belarus are very limited. The situation in Belarus could deteriorate further.
+* you may have to stay in Belarus longer than expected
+* you may not be able to access your funds in Canadian or most international financial institutions
+* you should not depend on the Government of Canada to help you leave the country
 
-The ability of the Embassy of Canada to Poland to provide consular services in Belarus is extremely limited. If you are in Belarus, you should leave by commercial means.  
- You should not depend on the Government of Canada to help you leave the country.
+If you plan to leave Belarus:
 
-If you decide to remain in Belarus despite this advisory:
+* ensure that your [travel documents](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports.html) and those of your family are up-to-date and secure at all times
 
-* monitor trustworthy news sources to stay informed on the evolving situation
-* ensure that your passport and other travel documents are secure at all times
-* review your personal security plans on a daily basis
-* make sure you have an adequate supply of cash, essential items and medications
-* be prepared to shelter in place
-* expect transportation routes and essential services disruptions
 * communicate your travel plans to family and friends
 * register and update your contact information through the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service and encourage other Canadian citizens in Belarus to do so
 
 ### Political situation
 
-Local authorities actively target political opposition, journalists, and individuals perceived to be critical of the government, even for activities that took place outside of Belarus. Local authorities may enforce local laws in an arbitrary manner.
+Belarusian authorities may enforce local laws in an arbitrary manner. The Belarusian government and security forces actively target political opposition, journalists, and individuals perceived to be critical of the government. This includes activities that have taken place in the past or outside of Belarus.
 
-Journalists are particularly scrutinized. There are reports of intimidation, harassment and violence against local and foreign journalists, and some have been detained or have had their equipment confiscated.
-
-Several countries, including Canada, advise their airlines to avoid Belarusian airspace due to serious safety and security concerns. As such, air transportation options to leave Belarus may be restricted.
-
-The political situation remains fluid and unpredictable. Authorities could enforce security restrictions without notice.
+Journalists face considerable risks. Local and foreign journalists could face intimidation, harassment and violence. Some have been detained or had their equipment confiscated. The political situation remains fluid and unpredictable. Authorities could enforce security restrictions without notice.
 
 If you are in Belarus:
 
-* be vigilant at all times
 * expect a heightened security presence and security checks
+
 * avoid expressions of dissent or making statements critical of or sensitive to the government
 * monitor local media for the latest information
 
 ### Surveillance
 
-Security authorities may place foreigners under surveillance. Hotel rooms, telephones, fax machines and e-mail messages may be monitored. Personal possessions in hotel rooms may be searched. Foreigners have been expelled from the country for working with Belarusian civil-society groups.
+You could experience surveillance by the authorities simply because you are a foreigner. They may:
+
+* monitor your telecommunications and your location at all times
+* review the content stored on your electronic devices
+* search your personal possessions or accommodations without your knowledge or consent
+* subject you to intense scrutiny at the airport or border crossings, including searches of your personal possessions and telecommunications devices.
+
+Local authorities in Belarus block access to several:
+
+* websites
+* social networks
+* search engines
+* online services
+
+Don’t assume that your internet connection or past internet activity is private. Foreigners have been expelled from the country for working with Belarusian civil-society groups.
 
 ### Crime
 
-Petty crimes such as pickpocketing and purse snatching occur, particularly in the cities of:
+Petty crime, such as pickpocketing and purse snatching, occurs, particularly in particularly in crowded public areas and places frequented by foreigners, such as:
 
-* Brest
-* Gomel
-* Grodno
-* Minsk
-* Mogilev
-* Vitebsk
+* popular tourist areas, including lookouts
+* buses, trains, bus and train stations, and airports
+* hotel lobbies
+* restaurants, including outdoor seating areas
+* beaches
 
-Such crimes are especially common after dark in and around hotels and hostels frequented by foreigners.
+During your trip:
 
-Be vigilant when crossing the border with Poland at Brest due to the risk of mugging.
-
-Theft of luxury cars is common. Park any vehicle in a secure location or guarded lot, and always keep valuables out of sight.
-
-Ensure that your personal belongings, including your passport and other travel documents, are secure at all times.
-
-Avoid showing signs of affluence and carrying large sums of cash. Always be aware of your surroundings.
+* keep your personal belongings, including your passport and other travel documents, in a secure place and out of sight
+* do not show signs of affluence or wear expensive jewellery
+* avoid deserted streets at night
+* avoid isolated areas
 
 ### Terrorism
 
-There is a threat of terrorism in Europe. Terrorist attacks have occurred in a number of European cities. There is a potential for other violent incidents.
+There is a threat of terrorism in Europe. Terrorist attacks have occurred in several European cities. There is a potential for other violent incidents.
 
 Targets could include:
 
-* government buildings, including schools
+* government buildings, including police stations
+* schools, including universities
 * places of worship
-* airports and other transportation hubs and networks
+* airports and transportation hubs
 * public areas such as tourist attractions, restaurants, bars, coffee shops, shopping centres, markets, hotels and other sites frequented by foreigners
+* cultural venues
 
 Always be aware of your surroundings when in public places.
 
+Be particularly vigilant during:
+
+* sporting events
+* religious holidays
+* public celebrations
+* major political events, such as elections
+
+Terrorists may use such occasions to mount attacks.
+
 ### Demonstrations
 
-Demonstrations can occur. Local authorities have used force and arrested demonstrators in the past. Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation.
+Demonstrations can occur. Local authorities have used force and arrested demonstrators in the past. If you are close to a demonstration, you may be detained by the Belarusian authorities for questioning. Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation.
 
 * Avoid areas where demonstrations and large gatherings are taking place
 * Follow the instructions of local authorities
@@ -101,41 +107,61 @@ Demonstrations can occur. Local authorities have used force and arrested demonst
 
 ### Fraud
 
-Debit- and credit-card fraud is common. Be cautious when using debit or credit cards:
+#### Credit card, debit card and ATM fraud
 
-* pay careful attention when your cards are being handled by others
-* use ATMs located in well-lit public areas or inside a bank or business
-* avoid using card readers with an irregular or unusual feature
+Credit and debit card as well as ATM fraud occurs.
+
+When using your debit or credit card:
+
 * cover the keypad with one hand when entering your PIN
+* pay careful attention when others are handling your cards
+* avoid using card readers with an irregular or unusual feature
+* use ATMs located in public areas or inside a bank or business
 * check for any unauthorized transactions on your account statements
 
 [Overseas fraud](https://travel.gc.ca/travelling/health-safety/overseas-fraud)
 
-### Spiked food and drinks
+### Spiked food, drinks and other items.
 
-Never leave food or drinks unattended or in the care of strangers. Be wary of accepting snacks, beverages, gum or cigarettes from new acquaintances, as the items may contain drugs that could put you at risk of sexual assault and robbery.
+Never leave your food or drinks unattended or in the care of strangers. Avoid accepting snacks, beverages, gum or cigarettes from new acquaintances, as these items may contain drugs that could put you at risk of sexual assault and robbery.
 
-### Tourist facilities
+### 2SLGBTQI+ persons
 
-Tourist facilities are limited and only available in the larger cities.
+2SLGBTQI+ persons, as well as their allies, have been harassed, and verbally and physically abused.
 
-### Road safety
+2SLGBTQI+ travellers should carefully consider the risks of travelling to Belarus.
 
-Roads are generally in good condition; however, many may be impassable in winter.
+[Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
 
-Drivers generally have little regard for traffic regulations and do not follow safe-driving practices.
+### Roads
 
-Horse-drawn carts are a common road hazard in rural areas.
+#### Road conditions
 
-Radar traps are widespread.
+Road conditions vary considerably across the country. Many roads are impassable in winter. In rural areas, horse-drawn carts are a common road hazard.
+
+ Roads may be poorly maintained and dangerous due to:
+
+* large potholes
+* malfunctioning or absence of traffic lights
+* insufficient lighting
+* uneven surfaces
+* bad road markings and signage
+
+#### Driving habits
+
+Drivers don’t always respect traffic laws. Speeding is common, and drivers can be aggressive and reckless.
 
 ### Public transportation
 
-Use only officially marked taxis and do not share them with strangers. Fares vary greatly, and vehicles are often poorly maintained.
+#### Taxis
 
-Buses and trolleys are poorly maintained and are usually crowded and unheated.
+Only use officially marked taxis from reputable taxi companies. Never share a taxi with strangers.
 
-Exercise caution when travelling by train, especially on sleeper trains to Warsaw and Moscow. Store valuables in a safe place and do not leave your compartment unattended. Ensure that the door is secured from the inside.
+Arrange your pickup with your hotel before arrival when travelling by air.
+
+#### Trains
+
+Thieves are active on trains. Store valuables in a safe place and do not leave your compartment unattended. Lock the door from the inside.
 
 ### Air travel
 

@@ -1,7 +1,7 @@
 {
     "name": "Yemen",
-    "update_reason": "Risk level; Safety and security \u2013 updated information on tensions in the region",
-    "update_date": "2025-06-27T17:19:00",
+    "update_reason": "Health \u2013 editorial change",
+    "update_date": "2025-07-02T15:57:00",
     "sections": {
         "risk": "canada/Yemen/risk.md",
         "security": "canada/Yemen/security.md",

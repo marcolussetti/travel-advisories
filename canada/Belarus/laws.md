@@ -8,6 +8,12 @@ Learn about what you should do and how we can help if you are [arrested or detai
 
 A serious violation may lead to a jail or death sentence. The sentence will be served in local prisons.
 
+### Drugs
+
+Penalties for possession, use or trafficking of illegal drugs are severe. Convicted offenders can expect lengthy jail sentences.
+
+[Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
+
 ### Dual citizenship
 
 Dual citizenship is not legally recognized in Belarus.
@@ -44,21 +50,21 @@ Be aware that Canadian consular officials cannot interfere in private legal matt
 
 ### Identification
 
-Always carry originals of your passport, visa and migration card, as you may be asked to prove your identity and date of entry into the country. Failure to provide internationally recognized identification could result in detention.
-
-### Drugs
-
-Penalties for possession, use or trafficking of illegal drugs are severe. Convicted offenders can expect lengthy jail sentences.
-
-[Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
+Always carry originals of your passport, visa and migration card. You may be asked at any time to prove your identity and date of entry into the country. You could be arrested and detained if you fail to show internationally recognized identification.
 
 ### Photography
 
 Photography of military installations, public buildings and monuments may result in a penalty. Seek permission from local authorities before taking photographs.
 
+### Death Penalty
+
+Belarusian authorities apply, sometimes arbitrarily, the death penalty for certain crimes, including for attempts to carry out acts of terrorism.
+
 ### 2SLGBTQI+ persons
 
 Belarusian law does not prohibit sexual acts between individuals of the same sex. Homosexuality, however, is not widely accepted in Belarus.
+
+Media and artistic depictions of same-sex relationships and transgender people are considered “pornography” under Belarusian law. You could face arrest and detention for public displays of 2SLGBTQI+ relationships, themes, or identities.
 
 [Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
 
@@ -66,35 +72,32 @@ Belarusian law does not prohibit sexual acts between individuals of the same sex
 
 You must carry an international driving permit.
 
-Checkpoints are common on roads and border crossings in Belarus.
+There is a zero-tolerance policy for drinking and driving.
 
 Traffic safety in Belarus is controlled by uniformed police officers known as DAI in Belarusian and GAI in Russian. If a traffic police officer waves a striped wand or points a red retro-reflector at you, you must pull over and stop, and be ready to present driving and insurance documents.
 
-Drivers of foreign vehicles must pay a fee to use Belarusian highways.
+You must keep your headlights on at all times between November 1 and March 31.
 
-There is a [digital road toll system](http://www.belarus.by/rel_image/4581), BelToll, to collect tolls along motorways.
+#### Highway fees
 
-You must drive with the vehicle lights on at all times from November 1 to March 31.
+There is a digital road toll system, BelToll, to collect tolls on highways. You must pay an additional fee if you are driving  a vehicle not registered in Belarus.
 
-The use of hand-held devices while driving is prohibited.
+#### Driving near border areas
 
-Drivers may not have any alcohol in their blood system: the alcohol limit for drivers is 0.00%.
-
-The speed limit in urban areas is 60 km/h, unless specified otherwise. Outside urban areas the speed limit is 90 km/h and on highways, 110 km/h. Speed limits are strictly enforced.
-
-Most traffic signs are in Cyrillic script only (not Latin).
+Additional security checkpoints are common on roads near border crossings.
 
 The Belarusian government may enforce a requirement for special permits to travel in “protected border zones.” Be alert for warning signs, road barriers or border-guard posts. Do not cross into such areas without permission. For more information, contact the embassy of Belarus.
 
-* [Digital toll collection](http://www.belarus.by/rel_image/4581) - BelToll
+#### Useful links
+
+* [Digital toll collection](http://www.belarus.by/rel_image/4581) – BelToll
 * [International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
-* [Foreign diplomatic missions and consulates in Canada](http://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng)
+* [Foreign Representatives in Canada](http://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng)
 
 ### Money
 
 The currency is the Belarusian ruble (BYR).
 
-Credit cards are accepted by many hotels, restaurants and stores, especially in Minsk. ATMs are available in major cities to withdraw rubles. Traveller’s cheques are not accepted for payment but can be exchanged  
-at a bank for rubles.
+Credit cards are accepted by many hotels, restaurants and stores, especially in Minsk. ATMs are available in major cities to withdraw rubles.
 
-You must pay for goods and services in Belarusian rubles. The use of foreign currency in cash transactions is prohibited. You can face arrest if you attempt to buy an item with currency other than Belarusian rubles. Exchange foreign currency at government-licensed booths only. A valid passport must be presented to purchase foreign currency.
+You must pay for goods and services in Belarusian rubles. The use of foreign currency in cash transactions is prohibited. You could face arrest if you attempt to buy an item with currency other than Belarusian rubles. Exchange foreign currency at government-licensed booths only. You must present a valid passport to purchase foreign currency.

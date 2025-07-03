@@ -31,7 +31,7 @@ Ensure that the recreational activities you choose are covered by your travel in
 
 The port of Grand Cayman is a cruise-ship stop.
 
-[Advice for Cruise Travellers](https://travel.gc.ca/travelling/publications/advice-for-cruise-travellers)
+[Cruise travel health and safety](https://travel.gc.ca/travelling/health-safety/advice-for-travellers/cruise-travel)
 
 ### Demonstrations
 

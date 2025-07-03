@@ -4,4 +4,4 @@
 
 ### Climate change
 
-Climate change is affecting Belarus. Extreme and unusual weather events are becoming more frequent and my affect your travel plans. Monitor local media for the latest information.
+Climate change is affecting Belarus. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local media for the latest information.

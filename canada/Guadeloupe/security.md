@@ -95,7 +95,7 @@ Ferry services provide transportation to the islands that make up Guadeloupe as 
 
 Pointe-à-Pitre is a cruise ship stop.
 
-[Advice for Cruise Travellers](http://travel.gc.ca/travelling/publications/advice-for-cruise-travellers)
+[Cruise travel health and safety](https://travel.gc.ca/travelling/health-safety/advice-for-travellers/cruise-travel)
 
 ### Air travel
 
