@@ -1,6 +1,6 @@
 # Lebanon Travel Advisory
 
-### Travel Advisory June 24, 2025
+### Travel Advisory July 3, 2025
 
 ### Lebanon - Level 4: Do Not Travel
 
@@ -14,9 +14,7 @@
 [T](javascript:void(0); "Tool Tip: Terrorism")
 [C](javascript:void(0); "Tool Tip: Crimes")
 
-**Updated to reflect the ordered departure of** family members and non-emergency U.S. government personnel.
-
-On June 22, the Department of State ordered the departure of family members and non-emergency U.S. government personnel from Lebanon due to the volatile and unpredictable security situation in the region.
+**Updated to reflect the lifting of ordered departure** of family members and non-emergency U.S. government personnel.
 
 Do Not Travel to Lebanon due to **crime, terrorism, civil unrest, kidnapping, unexploded landmines, and the risk of armed conflict**. Some areas, especially near the borders, have increased risk. Read the entire Travel Advisory.
 
@@ -24,7 +22,7 @@ U.S. Embassy Beirut personnel are restricted from personal travel without advanc
 
 Commercial flights are available, but at reduced capacity. Please check flight options at [Beirut–Rafic Hariri International Airport](https://www.beirutairport.gov.lb/index.php?lang=en).
 
-**Country Summary:** U.S. citizens in Lebanon should be aware that consular officers from the U.S. Embassy are not always able to travel to assist them. The Department of State considers the threat to U.S. government personnel in Beirut serious enough to require them to live and work under strict security. The internal security policies of the U.S. Embassy may be adjusted at any time and without advance notice.
+**Country Summary:** U.S. citizens in Lebanon should be aware that consular officers from the U.S. Embassy are not always able to travel to assist them. The Department of State considers the threat to U.S. government personnel in Beirut serious enough to require them to live and work under strict security. The internal security policies of the U.S. Embassy may be adjusted at any time and without advance notice.
 
 Since October 8, 2023, cross-border exchanges of fire have occurred between Hizballah and Israel. In some instances, targets have been well north of the border region. A cessation of hostilities between Israel and Lebanon went into effect on November 27, and implementation is ongoing; however, there are continued instances of military activity in some areas of Lebanon. The Lebanese government cannot guarantee the safety of U.S. citizens against sudden outbreaks of violence and armed conflict. Family, neighborhood, or sectarian disputes can escalate quickly and can lead to gunfire or other violence with no warning.
 
