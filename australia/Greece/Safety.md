@@ -197,7 +197,7 @@ If you're in or near an affected area, monitor the media and follow the advice o
 
 #### Fires
 
-Wildfires occur during the extended summer period, from June to September. Fires can start close to cities and tourist locations with little warning and travel quickly. Fatalities have occurred. Avoid affected areas.
+Wildfires occur during the extended summer period, from June to September. Wildfires have burned near cities and tourist locations including the islands of Rhodes, Crete and Evia, prompting evacuations. Fires can start with little warning and travel quickly. Fatalities have occurred. Avoid affected areas and follow the advice of local authorities.
 
 Expect travel disruptions if you're due to travel to an area that might be affected by wildfires. Monitor the media and contact your travel provider for the latest updates. The air quality during these periods may deteriorate due to heavy smoke. Forest fires are highly dangerous and unpredictable.
 

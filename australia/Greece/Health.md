@@ -62,7 +62,7 @@ For more information, contact the Greek National Organization of Medicines:
 
 #### Heatwaves
 
-Heatwaves are becoming more frequent over the summer months. They can cause heat exhaustion, heat stroke and death. Drink water, wear a hat and light clothing and stay in air-conditioned buildings or shaded areas. 
+Heatwaves are frequent over the summer months. They can cause heat exhaustion, heat stroke and death. Drink water, wear a hat and light clothing and stay in air-conditioned buildings or shaded areas. 
 
 Many major tourist sites have little shade. At peak tourist periods, queues at major attractions can involve waiting over an hour in the sun. Plan your visit to these sites, keep an eye on the weather forecast, and follow the advice of local authorities.
 

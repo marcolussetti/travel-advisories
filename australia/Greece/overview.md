@@ -2,7 +2,7 @@
 
 Latest update
 
-Greece is in an active seismic zone and experiences earthquakes and volcanic activity. In a seismic event, monitor the media and official websites for updates and follow the advice of local authorities (see 'Safety').
+Extreme temperatures and wildfires affect many areas of Greece during summer, including close to cities and tourist locations. Wildfires occur during the extended summer period, from June to September, including near cities and tourist locations, prompting evacuations. Fires can start with little warning and travel quickly. Avoid affected areas and follow the advice of local authorities (see 'Safety').
 
 Advice Level summary
 
@@ -22,6 +22,7 @@ Exercise normal safety precautions in Greece.
 
 ### Safety
 
+* Wildfires occur during the extended summer period, from June to September, including near cities and tourist locations, prompting evacuations. Fires can start with little warning and travel quickly. Fatalities have occurred. Avoid affected areas and follow the advice of local authorities.
 * Greece is in an active seismic zone and experiences earthquakes and volcanic activity, including near major tourist destinations such as the islands of Santorini and Crete. If you're in the area, monitor the media and follow the advice of local authorities.
 * Petty crime and theft are serious issues in tourist areas and on buses and trains. Pickpocketing, bag snatching, and slashing luggage to steal belongings are common. Pay close attention to your belongings.
 * Terrorist attacks have occurred at or near popular tourist areas in central Athens. Always be alert and take official warnings seriously.
@@ -32,7 +33,7 @@ Full travel advice: [Safety](#safety)
 
 ### Health
 
-* Heatwaves are becoming more frequent over the summer months. Drink plenty of water, wear light clothing, stay in air conditioning or shaded areas, and follow the advice of local authorities.
+* Heatwaves are frequent over the summer months. Drink plenty of water, wear light clothing, stay in air conditioning or shaded areas, and follow the advice of local authorities.
 * Dust storms occur in Greece, particularly during Spring.
 * Medications such as codeine are subject to special rules. Carry a prescription and a letter from your doctor.
 * Measles is common in Greece. Make sure your vaccinations are up to date.
