@@ -27,7 +27,7 @@ Croatia is a relatively safe country. However, you should take sensible precauti
 * Don’t carry your passport unless absolutely necessary and leave a copy of your passport (and travel and insurance documents) with family or friends at home.
 * Take special care of your valuables if you’re travelling by train, especially at night.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If you’re a victim of a crime while in Croatia, report it to the local police immediately. You can contact us at the Irish Embassy in Zagreb if you need help.
 
@@ -44,7 +44,7 @@ If you’re planning to drive in Croatia, you should exercise caution and please
 * Under Croatian law, it’s illegal for professional drivers (e.g. hauliers, taxi drivers, etc.) and young people (16-24 years) to drive with any alcohol in their system (there is also a zero tolerance policy for those in charge of yachts and boats). For other drivers, the blood/alcohol limit is 0.05.
 * Police routinely spot check motorists for drinking and driving and will administer breath-analyser tests at the site of even the most minor accident. Drivers who refuse to submit to a breath analyser test are presumed to have been driving while intoxicated. Croatian police are obliged to take blood samples to test blood alcohol levels in the event of an accident resulting in death or serious injuries.
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If you’re hiring a vehicle, we advise you not to hand over your passport as a form of security. If you’re allowing your passport to be photocopied, keep it in your sight at all times.
 

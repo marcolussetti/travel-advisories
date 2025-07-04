@@ -21,7 +21,7 @@ In each case above the document presented must be current and in date. Where the
 
 Furthermore, it is recommended that you also obtain comprehensive travel insurance which will cover all overseas medical costs, including medical repatriation/evacuation, repatriation of remains and legal costs which are not covered under the TCA. You should check any exclusions and, in particular, that your policy covers you for the activities you want to undertake.
 
-### **Medical treatment**
+### **Medical Treatment**
 
 Visitors requiring immediate treatment for serious injuries/illness should call 999 or go to the nearest hospital with an Accident and Emergency department (A&E). For minor illnesses and injuries there are a number of National Health Service (NHS) walk-in-centres, details on [**www.nhs.uk**](http://www.nhs.uk/)
 

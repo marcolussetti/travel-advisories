@@ -1,8 +1,6 @@
 ## Natural disasters and climate
 
-### **Climate and Skiing**
-
-### **Practical advice**
+### **Practical Advice**
 
 If travelling to Austria, make sure to know what to expect – then plan and pack appropriately. Get local advice on how to manage in the case of a serious incident or dangerous conditions and co-operate with local authorities.
 

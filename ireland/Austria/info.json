@@ -3,12 +3,16 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Austria/Overview.md"
+            "title": "Travel to Austria overview",
+            "file": "ireland/Austria/Travel to Austria overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Austria/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Austria/Health.md"
         },
         {
             "title": "Local laws and customs",
@@ -19,13 +23,13 @@
             "file": "ireland/Austria/Natural disasters and climate.md"
         },
         {
-            "title": "Health",
-            "file": "ireland/Austria/Health.md"
+            "title": "Entry requirements",
+            "file": "ireland/Austria/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Austria/Embassy contact.md"
         }
     ],
-    "update_date": "2025-06-05T00:00:00"
+    "update_date": "2025-07-03T00:00:00"
 }

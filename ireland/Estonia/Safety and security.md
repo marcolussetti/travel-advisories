@@ -11,6 +11,7 @@ Crime remains relatively low in Estonia but you sensible precautions:
 * Do not carry credit cards, travel tickets and money together - leave spare cash and valuables in a safe place.
 * Do not carry your passport unless absolutely necessary and leave a photocopy of your passport (and travel and insurance documents) with family or friends at home.
 * Pickpocketing and mugging can be a problem in the Tallinn Old Town, ferry ports and major hotels - particularly during the summer months so be careful - take sensible precautions and avoid unlit side-streets and parks at night.
+* Be aware that, while generally safe, incidents involving “date rape” drugs (such as GHB, Rohypnol etc.) have been reported, particularly in tourist hotspots. Take care when consuming alcohol. Do not leave drinks unattended, and do not accept drinks from strangers.
 
 ### **Reporting Crime**
 

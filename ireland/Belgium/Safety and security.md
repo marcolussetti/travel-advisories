@@ -10,7 +10,7 @@ In March 2016, terrorist attacks occurred at Brussels Airport and the city’s m
 
 If in Belgium, you should expect to see additional security measures and an increased police presence in public places. We advise all citizens to maintain an awareness of their surroundings, monitor local media for up-to-date information, and follow the instructions of local authorities.
 
-### **Petty theft**
+### **Petty Theft**
 
 As with any country, crimes such as mugging, bag-snatching and pickpocketing are not uncommon in Belgian cities and towns. Always keep a close eye on your personal belongings and be vigilant at major railway stations, on the metro, buses and trams.
 
@@ -32,7 +32,7 @@ We also advise to exercise caution in the following areas:
 
 There have been a number of recent incidents of violent crime in Belgium, which have included shootings, stabbings and the use of explosive devices, such as grenades. Authorities have attributed these to criminal organisations involved in drug trafficking. These incidents have mainly occurred in Antwerp and Brussels.
 
-It is advisable to remain vigilant and any suspicions as regards illegal activity should be reported to [police authorities](https://www.police.be/en).
+It is advisable to remain vigilant and any suspicions as regards illegal activity should be reported to [**police authorities**](https://www.police.be/en).
 
 ### **Public Gatherings**
 
@@ -40,6 +40,22 @@ Marches and demonstrations are common, particularly in Brussels, and often resul
 
 Always keep informed of what is going on around you by monitoring local media and staying in contact with your hotel or tour organiser.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If a victim of a crime while in Belgium, report it to the local police immediately. Contact the Irish Embassy in Brussels if assistance is required.
+
+### **Driving**
+
+If you want to drive in Belgium:
+
+* Bring a full Irish driving license and make sure to have adequate and appropriate insurance.
+* Driving under the influence of alcohol or drugs is against the law and you risk being detained, fined or banned from driving if caught.
+* Be aware that on-the-spot fines can be incurred for motoring offences. If unable to pay the fine, your vehicle may be impounded.
+* Keep vehicle doors locked and bags kept out of sight to prevent opportunistic bag-snatching if stopped at traffic lights.
+* Be aware of low emissions zones prohibiting certain types of vehicles from specific urban areas. Further information is available on the Urban Access Regulations [**website**](https://www.urbanaccessregulations.eu/) where you can search by city.
+
+More tips and driving advice for Belgium is available from [**AA Ireland**](http://www.theaa.ie/aa/summer-driving/belgium.aspx).
+
+### **Pedestrians**
+
+Pedestrians should be aware that ‘the green man’ signal does not mean that cars will automatically stop. Many of the zebra crossings are not accompanied by light systems. The custom is that the motorist should stop to allow any pedestrian cross at the zebra crossing as and when they choose to use the zebra crossing. Be careful in all cases and at all times as some motorists will be more vigilant than others.

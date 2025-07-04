@@ -3,29 +3,29 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Belgium/Overview.md"
+            "title": "Travel to Belgium overview",
+            "file": "ireland/Belgium/Travel to Belgium overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Belgium/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Belgium/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Belgium/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Belgium/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/Belgium/Local laws and customs.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/Belgium/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Belgium/Embassy contact.md"
         }
     ],
-    "update_date": "2025-06-26T00:00:00"
+    "update_date": "2025-07-03T00:00:00"
 }

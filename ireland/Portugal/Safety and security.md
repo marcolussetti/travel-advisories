@@ -25,7 +25,7 @@ Along with other European countries, there is potential for Portugal to experien
 
 * In general Portugal is a safe country, however, be careful of your personal safety as there have been reports of incidents in nightclubs.
 
-### **Reporting a crime**
+### **Reporting a Crime**
 
 If you’re a victim of a crime while in Portugal, report it to the local police immediately. And you can contact us at the Irish Embassy if you need help.
 
@@ -46,17 +46,8 @@ If you want to drive:
 
 Whether you’re a driver or a pedestrian, be careful at crossings on busy roads, as designated crossing places are often poorly marked. Pay particular attention late at night or in busy commercial and entertainment districts in cities such as Lisbon and Porto.
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If you’re hiring a vehicle, we advise you not to hand over your passport as a form of security. If you’re allowing your passport to be photocopied, keep it in your sight at all times.
 
 Check that you have adequate insurance and read the small print of the vehicle hire contract (particularly any waiver that will come into effect if the vehicle is damaged).
-
-### **Our tips for Safe Travels:**
-
-* Purchase comprehensive travel insurance, which covers all your intended activities.
-* Consider applying for a Passport Card in addition to your passport in case your passport is lost or stolen while you are abroad, and don’t store both documents in the same place.
-* Get a [**European Health Insurance Card**](http://www.hse.ie/eng/services/list/1/schemes/EHIC/)
-* [**Register**](/en/dfa/overseas-travel/citizens-registration/) your details with us so that we can contact you quickly if there is an unforeseen crisis like a natural disaster or a family emergency.
-* Follow us on twitter [**@dfatravelwise**](https://www.twitter.com/DFATravelWise) for the latest travel updates.
-* Read our ‘[**Know Before You Go**](/en/dfa/overseas-travel/know-before-you-go-/)’ guide.

@@ -11,11 +11,11 @@ Crime remains relatively low in Austria but visitors should take sensible precau
 
 Be particularly aware of petty theft at Vienna´s largest train stations, Westbahnhof, and Hauptbahnhof. There have also been several recent reports of thefts on the trains between Vienna and Prague/Budapest.
 
-### **Reporting a crime**
+### **Reporting a Crime**
 
 If a victim of a crime while in Austria, report it to the local police immediately. Citizens can contact the Embassy if assistance is required.
 
-### **Passport loss/theft**
+### **Lost or Stolen Passport**
 
 If your passport is lost or stolen, contact the Embassy as soon as possible and report the loss or theft to the nearest police station or Magistrat. Citizens will need to submit a copy of your police statement when applying for a new passport or making a claim on your insurance.
 
@@ -37,7 +37,7 @@ The rules of the road are more complex in Austria than those in Ireland, especia
 * Motorists in Austria must form an emergency corridor as soon as traffic ceases to progress and congestion is imminent on motorways or dual carriageways and highways, regardless of whether emergency vehicles are already in the vicinity or not.
 * Road conditions are generally good although roads in alpine areas can become hazardous during winter and some mountain roads may be closed for extended period.
 
-### **Using the motorway**
+### **Using the Motorway**
 
 If planning to use motorways and ‘S’ roads in Austria, you risk heavy, on-the-spot fines if not displaying a [**Motorway Vignette**](http://www.austria.info/uk/service-facts/getting-there-around/austria-by-road) on the vehicle. Motorway Vignettes can be purchased at all major border crossings into Austria and at larger petrol stations.
 
@@ -45,7 +45,7 @@ If planning to use motorways and ‘S’ roads in Austria, you risk heavy, on-th
 
 The legal drink driving limit in Austria is 50 milligrams of alcohol per 100 millilitres of blood. The limit is 10 milligrams of alcohol per 100 millilitres of blood for coach/HGV drivers and those who have had a licence for less than two years. Penalties for driving under the influence of alcohol are severe.
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If hiring a vehicle, we advise not to hand over your passport as a form of security. If allowing your passport to be photocopied, keep it in sight at all times.
 

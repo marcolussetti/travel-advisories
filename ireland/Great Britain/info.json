@@ -3,29 +3,29 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Travel to Great Britain Overview",
-            "file": "ireland/Great Britain/Travel to Great Britain Overview.md"
+            "title": "Travel to Great Britain overview",
+            "file": "ireland/Great Britain/Travel to Great Britain overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Great Britain/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Great Britain/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Great Britain/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Great Britain/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/Great Britain/Local laws and customs.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/Great Britain/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Great Britain/Embassy contact.md"
         }
     ],
-    "update_date": "2025-03-24T00:00:00"
+    "update_date": "2025-07-03T00:00:00"
 }

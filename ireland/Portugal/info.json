@@ -3,29 +3,29 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Portugal/Overview.md"
+            "title": "Travel to Portugal overview",
+            "file": "ireland/Portugal/Travel to Portugal overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Portugal/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Portugal/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Portugal/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Portugal/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/Portugal/Local laws and customs.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/Portugal/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Portugal/Embassy contact.md"
         }
     ],
-    "update_date": "2025-07-01T00:00:00"
+    "update_date": "2025-07-03T00:00:00"
 }

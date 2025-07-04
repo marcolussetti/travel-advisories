@@ -3,29 +3,33 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Croatia/Overview.md"
+            "title": "Travel to Croatia overview",
+            "file": "ireland/Croatia/Travel to Croatia overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Croatia/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Croatia/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Croatia/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Croatia/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/Croatia/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/Croatia/Natural disasters and climate.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/Croatia/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Croatia/Embassy contact.md"
         }
     ],
-    "update_date": "2025-06-05T00:00:00"
+    "update_date": "2025-07-03T00:00:00"
 }

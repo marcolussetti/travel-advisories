@@ -7,7 +7,7 @@
 * For the protection of vulnerable groups, the 3-G rule (vaccinated/recovered or tested) continues to apply in health care settings (e.g. visits to hospitals and nursing homes) within Austria. To meet the 3-G rule, a certificate or proof of Covid vaccination, recovery or testing must be presented upon request. Please pay attention to their different validity periods.
 * **To note:** A previous recovery is no longer considered an ‘immunological event’ in its own right. This means that going forward, three vaccinations will generally be required to fulfil the above stated 3-G rule. Each recovery is still valid for six months; however, it no longer replaces a vaccination.
 
-### **Tick-borne encephalitis**
+### **Tick-borne Encephalitis**
 
 If planning to travel in forested areas, there is a risk of being exposed to tick-borne encephalitis. Ticks are very common in country areas and are active from spring to autumn. Vaccinations can be organised with a medical practitioner.
 
@@ -19,7 +19,7 @@ Buying comprehensive travel insurance can save a lot of money if something goes 
 
 Not all policies are the same, and the cheapest one might be cheap for a reason. Make sure your policy covers all planned activities. [**Insurance Ireland recommend**](http://www.insuranceireland.eu/consumer-information/general-non-life-insurance/travel) purchasing a policy that provides a minimum medical cover of €1 million.
 
-### **Emergency expenses**
+### **Emergency Expenses**
 
 Policies should cover:
 

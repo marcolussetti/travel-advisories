@@ -4,8 +4,6 @@ If you are an Irish citizen and require urgent assistance in the case of an emer
 
 Please be aware that we are limited in the help we can offer in an emergency.
 
-**The office of the Honorary Consul of Ireland is currently closed.**
-
 ### Honorary Consul of Ireland, Iran
 
 Alireza Feizollahi   
