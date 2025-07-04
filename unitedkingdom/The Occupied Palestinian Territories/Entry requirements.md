@@ -18,13 +18,13 @@ You will be denied entry if you do not have a valid travel document or try to us
 
 ## Visa requirements
 
-You can visit Israel without a visa as a tourist. On entry, visitors get permission to stay for up to 3 months. However, if you are a dual national, read the [dual nationals guidance](https://www.gov.uk/foreign-travel-advice/israel/entry-requirements#british-people-holding-dual-nationality) for more information.
+You can visit Israel without a visa as a tourist. On entry, visitors get permission to stay for up to 3 months. However, if you are a dual national, read the [dual nationals guidance](/foreign-travel-advice/israel/entry-requirements#british-people-holding-dual-nationality) for more information.
 
 If you work in Israel without the proper permissions, you can be detained and deported. This process could take several months.
 
 ## Electronic Travel Authorisation (ETA)
 
-As of 1 January 2025, to visit Israel you will need to get an Electronic Travel Authorisation (ETA) before you arrive. The ETA is valid for 2 years and covers a visit of 90 days. It will cost 25 new Israeli shekels. You can check your eligibility and [apply for an ETA with the Israel Population and Immigration authority](https://israel-entry.piba.gov.il/)
+As of 1 January 2025, to visit Israel you will need to get an Electronic Travel Authorisation (ETA) before you arrive. The ETA is valid for 2 years and covers a visit of 90 days. It will cost 25 new Israeli shekels. You can check your eligibility and [apply for an ETA with the Israel Population and Immigration authority](https://israel-entry.piba.gov.il/).
 
 ## Checks at border control
 
@@ -49,7 +49,7 @@ This stamp has been issued to travellers who have no Palestinian or other Arab a
 
 ### Immigration checks
 
-The Israeli authorities decide if you can enter Israel. You may experience lengthy personal questioning and baggage searches at security when you enter and leave Israel. Some visitors may face searches and questioning, including those:
+The Israeli authorities decide if you can enter Israel. You may experience lengthy personal questioning and baggage searches at security when you enter and leave Israel. Some visitors may face longer searches and questioning, including those:
 
 * with Palestinian or Arab ancestry, or with ancestry of a country that is predominantly Muslim
 * with evidence of previous travel which may be considered suspicious
@@ -86,13 +86,13 @@ Read about the [requirements for foreign nationals entering the West Bank on th
 
 Israeli border officials at Tel Aviv Ben Gurion Airport have asked some travellers to sign a form stating they are not allowed to enter territories controlled by the Palestinian Authority unless they get advance authorisation from the Israeli ‘Territory Actions Co-ordinator’. You can be deported from Israel and barred from entry for up to 10 years for violating this restriction.
 
-If immigration officials believe you plan to enter Gaza without permission, or that you’re entering Israel to work in the OPTs, they may refuse your entry.
+If immigration officials believe you plan to enter Gaza without permission, or that you’re entering Israel to work in the OPTs, they may refuse you entry.
 
-FCDO cannot support your application for entry or exit permits for Gaza. If you decide to visit Gaza against FCDO advice, you must contact the relevant authorities well in advance. FCDO cannot provide administrative support to UK charities wishing to enter Gaza by the Rafah crossing.
+FCDO cannot support your application for entry or exit permits for Gaza. If you decide to visit Gaza against FCDO advice, you must contact the relevant authorities well in advance. FCDO cannot provide administrative support to UK charities wishing to enter Gaza by the Rafah crossing.
 
 The Rafah border regularly closes with no warning and for long periods. The Erez border is currently closed. At these times it may be impossible to enter or leave Gaza.
 
-Israeli checkpoints may close on Israeli public holidays and during periods of increased instability. There have been increased movement and access restrictions across the West Bank with unpredictable opening and closing times. There is [information on known checkpoint closures on the UN website](https://www.accesscoordination.org/). This can change at short notice.
+Israeli checkpoints may close on Israeli public holidays and during periods of increased instability. There have been increased movement and access restrictions across the West Bank with unpredictable opening and closing times. There is information on [known checkpoint closures on the UN website](https://www.accesscoordination.org/). This can change at short notice.
 
 Foreign nationals may encounter suspicion or hostility at checkpoints and in areas not frequented by foreign nationals.
 
@@ -104,7 +104,9 @@ If you’re a British national with a Palestinian name or place of birth but wit
 
 ## British people holding dual nationality
 
-British-Palestinian dual nationals living in the West Bank and Gaza may only exit the OPTs through the Allenby border crossing into Jordan or the Rafah border crossing into Egypt. They must return by the same route. If you’re a British-Palestinian dual national entering Gaza against FCDO travel advice, check entry and exit procedures with the relevant authorities. There is a limit on the number of dual nationals permitted to enter and exit Gaza through Erez – this includes if you are entering for medical or humanitarian reasons. The Israeli government has the authority to make decisions on entry and exit permits through Erez.
+British-Palestinian dual nationals living in the West Bank and Gaza may only exit the OPTs through the Allenby border crossing into Jordan or the Rafah border crossing into Egypt. They must return by the same route.
+
+If you’re a British-Palestinian dual national entering Gaza against FCDO travel advice, check entry and exit procedures with the relevant authorities. There is a limit on the number of dual nationals permitted to enter and exit Gaza through Erez – this includes if you are entering for medical or humanitarian reasons. The Israeli government has the authority to make decisions on entry and exit permits through Erez.
 
 Check with your nearest Israeli embassy if you need pre-approval to travel to Israel. Dual nationals holding Iranian, Iraqi, Syrian and Lebanese citizenship have previously been affected. If you are not a citizen of any of these countries, but have close family ties, you should check with your nearest Israeli embassy before travel.
 
@@ -118,13 +120,29 @@ Dual nationals holding Iranian, Iraqi, Syrian and Lebanese citizenship have prev
 
 Children aged 17 and under travelling to Israel alone or with only one parent should carry a letter from their parents or guardians confirming parental consent, accommodation plans and contact details.
 
-Children exiting Israel alone should carry a locally issued notarised letter as advised by [external law firms](https://lawoffice.org.il/en/unaccompanied-minors-traveling-abroad-from-israel/).
+Children exiting Israel alone should carry a locally-issued notarised letter as advised by [external law firms](https://lawoffice.org.il/en/unaccompanied-minors-traveling-abroad-from-israel/).
 
 For children with at least one Israeli parent, read the advice for dual nationals above.
+
+## Entry to Egypt
+
+Egypt-Israel border crossing (opening times are subject to change):
+
+* Taba: Open 24 hours
+
+At the border crossing from Israel to Egypt at Taba, you must pay a ‘Sinai Tax’ of 720 Egyptian Pounds per person (not applicable to children 24 months old or younger). This is payable at the Taba Border Crossing in Egyptian Pounds (cash only). There is a bank and ATMs dispensing Egyptian Pounds available at the border and in hotels on the Egyptian side.
+
+The ‘Sinai Tax’ exempts you from requiring an entry visa for Egypt for up to 15 days, as long as you stay within the Sinai Peninsula. If your stay in Sinai will exceed 15 days, or you are planning to leave the Sinai Peninsula, including to fly on from mainland airports e.g. Cairo or Hurghada, you will need an entry visa. This costs USD25 and can be purchased at the Taba Border Crossing on entry, or from the immigration office in Sharm El Sheikh.
 
 ## Entry to Jordan
 
 Land crossings to Jordan may be restricted or close at short notice, including due to trade union strikes. More information is available on the [Israel Airport Authority website](https://www.iaa.gov.il/en/land-border-crossings/alenbi/notifications-and-updates/).
+
+Jordan-Israel border crossings (opening times are subject to change):
+
+* Allenby/King Hussein Bridge
+* The Northern (Jordan River/Sheikh Hussein) crossing
+* The Southern (Yitzhak Rabin/Wadi Araba) crossing
 
 ## Vaccine requirements
 

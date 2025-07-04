@@ -55,6 +55,12 @@ FCDO recognises that major international organisations need to carry out humanit
 
 Do not enter Gaza by sea, including via a flotilla delivering humanitarian aid. The Israeli Navy routinely patrols the area and will prevent any vessels attempting to breach the restrictions – see [entry requirements](/foreign-travel-advice/israel/entry-requirements). You will be detained and deported, and your electronic equipment is likely to be confiscated. FCDO does not believe that humanitarian supplies should be delivered in this way. If you send humanitarian assistance or other goods to Gaza, use established channels.
 
+## Conflict with the Houthis (in Yemen)
+
+Following the conflict between Israel and the Houthis (in Yemen), there continues to be a risk of missile and drone attacks throughout Israel. There is a risk of shrapnel from intercepted missiles falling across Israel and the OPTs and possible disruption at Ben Gurion airport, in Tel Aviv.
+
+Check Home Front Command for the latest guidance. Restrictions may be put in place at short notice.
+
 ## Israel-Lebanon
 
 There was an ongoing conflict between Israel and Lebanese Hizballah (LH). On 27 November, LH and Israel agreed to a ceasefire, with a 60-day implementation period.

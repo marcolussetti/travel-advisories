@@ -4,7 +4,7 @@ This travel advice covers Israel and the Occupied Palestinian Territories (OPTs)
 
 This section has safety advice for regions of Israel and OPTs. It only covers regions where FCDO has specific advice.
 
-You should also read [FCDO’s overall travel advice](/foreign-travel-advice/the-occupied-palestinian-territories) and [safety and security advice](/foreign-travel-advice/the-occupied-palestinian-territories/safety-and-security).
+You should also read [FCDO’s overall travel advice](/foreign-travel-advice/israel) and [safety and security advice](/foreign-travel-advice/israel/safety-and-security).
 
 ## Jerusalem
 
@@ -33,7 +33,7 @@ There have been large political demonstrations in Tel Aviv. Entry and exit to Be
 
 There have been repeated instances of rocket fire from Gaza, which may reach well beyond the Gaza border area. Israel has often responded with air strikes into Gaza. You should:
 
-* make sure you know the safety actions to take if an Israeli warning siren sounds – no warning sirens will sound inside Gaza
+* make sure you know the safety actions to take if an Israeli warning siren sounds  – no warning sirens will sound inside Gaza
 * follow [advice from local authorities](https://www.idf.il/en/minisites/regional-commands/home-front-command/how-to-act-during-an-alert/)
 * stay informed of the security situation through the media
 
@@ -49,11 +49,17 @@ The border crossings with Israel (Erez) and Egypt (Rafah) may close with no noti
 
 There will be no warning siren inside Gaza and there are no official air raid shelters. Take advice from locals about the safest place to shelter.
 
-FCDO cannot help individuals applying for entry or exit permits for Gaza. See [entry requirements](/foreign-travel-advice/the-occupied-palestinian-territories/entry-requirements).
+FCDO cannot help individuals applying for entry or exit permits for Gaza. See [entry requirements](/foreign-travel-advice/israel/entry-requirements).
 
 FCDO recognises that major international organisations need to carry out humanitarian and reconstruction work and engage in independent reporting and verification of the situation in Gaza. Medical and other essential specialist staff should co-ordinate their entry to and exit from Gaza with those organisations.
 
-Do not enter Gaza by sea, including via a flotilla delivering humanitarian aid. The Israeli Navy routinely patrols the area and will prevent any vessels attempting to breach the restrictions – see [entry requirements](/foreign-travel-advice/the-occupied-palestinian-territories/entry-requirements). You will be detained and deported, and your electronic equipment is likely to be confiscated. FCDO does not believe that humanitarian supplies should be delivered in this way. If you send humanitarian assistance or other goods to Gaza, use established channels.
+Do not enter Gaza by sea, including via a flotilla delivering humanitarian aid. The Israeli Navy routinely patrols the area and will prevent any vessels attempting to breach the restrictions – see [entry requirements](/foreign-travel-advice/israel/entry-requirements). You will be detained and deported, and your electronic equipment is likely to be confiscated. FCDO does not believe that humanitarian supplies should be delivered in this way. If you send humanitarian assistance or other goods to Gaza, use established channels.
+
+## Conflict with the Houthis (in Yemen)
+
+Following the conflict between Israel and the Houthis (in Yemen), there continues to be a risk of missile and drone attacks throughout Israel. There is a risk of shrapnel from intercepted missiles falling across Israel and the OPTs and possible disruption at Ben Gurion airport, in Tel Aviv.
+
+Check Home Front Command for the latest guidance. Restrictions may be put in place at short notice.
 
 ## Israel-Lebanon
 
@@ -99,7 +105,7 @@ The cities of Bethlehem, Ramallah and Jericho see large numbers of tourists incl
 
 ### Violent incidents
 
-There is a risk of violent incidents and demonstrations in the West Bank (see [Political situation](/foreign-travel-advice/the-occupied-palestinian-territories/safety-and-security) for details). If you are in a location where an Israeli security operation or armed clashes are ongoing, stay inside and wait for the local authorities to confirm that the situation is calm before moving to a different location.
+There is a risk of violent incidents and demonstrations in the West Bank (see [Political situation](/foreign-travel-advice/israel/safety-and-security) for details). If you are in a location where an Israeli security operation or armed clashes are ongoing, stay inside and wait for the local authorities to confirm that the situation is calm before moving to a different location.
 
 Israelis living in the illegal settlements in the West Bank occasionally organise demonstrations which can turn violent. There are reports that settlers have threatened people travelling near to settlements and settlement outposts. Take care if you are near settlements, including those in the hills around Nablus, in the South Hebron hills and settlement outposts.
 

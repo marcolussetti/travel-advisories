@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   4 July 2025
 
 Updated:
-:   15 November 2024
+:   3 July 2025
 
 Latest update:
-:   New information added about arrival report ('Entry requirements' page)
+:   Removal of malaria as a health risk in Suriname, as the World Health Organisation certified Suriname malaria-free on 30 June 2025 (‘Health’ page).
 
 ## Before you travel
 

@@ -19,9 +19,11 @@ You must have a visa to visit Indonesia.
 You can get a [30-day visa on arrival (VOA)](https://evisa.imigrasi.go.id/) for:
 
 * tourism or visiting
-* business or an official meeting
+* some business purposes or an official meeting
 * procurement of goods
 * official visits or government duties
+
+The VOA is not suitable for all business purposes. You should confirm the appropriate visa for your visit at the [Indonesian immigration website](https://www.imigrasi.go.id/wna/permohonan-visa-republik-indonesia).
 
 The VOA costs 500,000 Indonesian rupiah, payable in cash or by card. It is valid for single entry only. You must meet passport validity requirements and have a return or onward ticket. Most of the [main airports and ports](https://kemlu.go.id/london/en/news/18631/visa-on-arrival-voa-for-foreign-travellers) issue VOAs.
 

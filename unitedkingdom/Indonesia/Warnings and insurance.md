@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   19 June 2025
+:   4 July 2025
 
 Updated:
-:   18 June 2025
+:   3 July 2025
 
 Latest update:
-:   Updated information on recent volcanic activity on Flores Island (‘Regional risks’ page).
+:   Updated information on entering Indonesia with the appropriate visa('Entry requirements' page).
 
 ![](https://assets.publishing.service.gov.uk/media/6745db6083f3d6d843be9719/FCDO__TA__020_-_Indonesia_Travel_Advice_Ed9__WEB_.jpg)
 

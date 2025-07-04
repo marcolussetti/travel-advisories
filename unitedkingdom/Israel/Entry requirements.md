@@ -124,9 +124,25 @@ Children exiting Israel alone should carry a locally-issued notarised letter as 
 
 For children with at least one Israeli parent, read the advice for dual nationals above.
 
+## Entry to Egypt
+
+Egypt-Israel border crossing (opening times are subject to change):
+
+* Taba: Open 24 hours
+
+At the border crossing from Israel to Egypt at Taba, you must pay a ‘Sinai Tax’ of 720 Egyptian Pounds per person (not applicable to children 24 months old or younger). This is payable at the Taba Border Crossing in Egyptian Pounds (cash only). There is a bank and ATMs dispensing Egyptian Pounds available at the border and in hotels on the Egyptian side.
+
+The ‘Sinai Tax’ exempts you from requiring an entry visa for Egypt for up to 15 days, as long as you stay within the Sinai Peninsula. If your stay in Sinai will exceed 15 days, or you are planning to leave the Sinai Peninsula, including to fly on from mainland airports e.g. Cairo or Hurghada, you will need an entry visa. This costs USD25 and can be purchased at the Taba Border Crossing on entry, or from the immigration office in Sharm El Sheikh.
+
 ## Entry to Jordan
 
 Land crossings to Jordan may be restricted or close at short notice, including due to trade union strikes. More information is available on the [Israel Airport Authority website](https://www.iaa.gov.il/en/land-border-crossings/alenbi/notifications-and-updates/).
+
+Jordan-Israel border crossings (opening times are subject to change):
+
+* Allenby/King Hussein Bridge
+* The Northern (Jordan River/Sheikh Hussein) crossing
+* The Southern (Yitzhak Rabin/Wadi Araba) crossing
 
 ## Vaccine requirements
 

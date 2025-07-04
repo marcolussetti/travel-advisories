@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   21 June 2025
+:   4 July 2025
 
 Updated:
-:   20 June 2025
+:   3 July 2025
 
 Latest update:
-:   Updated information on the risks during the aftermath of Hurricane Erick ('Warnings and insurance' page).
+:   Removal of information about the risks during the aftermath of Hurricane Erick ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/65fabfdfaa9b76001dfbdb8a/FCDO_TA_065_-_Mexico_Travel_Advice_Ed5_WEB.jpg)
 
@@ -107,15 +107,9 @@ FCDO advises against all but essential travel on Federal Highway 199 (Carretera 
 
 Find out more about [why FCDO advises against travel to these areas](/foreign-travel-advice/mexico/regional-risks).
 
-## Hurricane Erick - Aftermath
+## Ongoing Cartel Violence in Baja California Sur
 
-Hurricane Erick has passed over the Pacific coast of Mexico causing significant damage to coastal communities in Oaxaca and Guerrero. In the aftermath, the risk of flooding, high winds and continued rainfall persists. Travel disruption, road closures and intermittent electricity and internet outages are possible while the clean-up operation is ongoing.
-
-You should continue to monitor local and international weather updates from the [US National Hurricane Center](https://www.nhc.noaa.gov/) and follow the advice of [local authorities](https://x.com/CNPC_MX) and your tour operator.
-
-See the [tropical cyclones page](https://www.gov.uk/guidance/extreme-weather-and-natural-hazards) for advice on travelling during hurricane season.
-
-Since 24 April a dispute between rival Cartels has included attacks on public transport in Baja California Sur. Affected municipalities include Los Cabos, La Paz, and Mulegé. Please follow the advice of local authorities
+Since 24 April a dispute between rival Cartels has included attacks on public transport in Baja California Sur. Affected municipalities include Los Cabos, La Paz, and Mulegé. Please follow the advice of local authorities.
 
 ## Before you travel
 

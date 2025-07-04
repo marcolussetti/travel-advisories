@@ -1,11 +1,11 @@
 {
     "name": "Suriname",
-    "update_reason": "New information added about arrival report ('Entry requirements' page)",
+    "update_reason": "Removal of malaria as a health risk in Suriname, as the World Health Organisation certified Suriname malaria-free on 30 June 2025 (\u2018Health\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Suriname/Warnings and insurance.md",
-            "update_date": "2024-11-15T16:16:22+00:00"
+            "update_date": "2025-07-03T13:04:25+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Suriname/Getting help.md"
         }
     ],
-    "update_date": "2024-11-15T16:16:22+00:00"
+    "update_date": "2025-07-03T13:04:25+01:00"
 }

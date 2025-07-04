@@ -24,7 +24,7 @@ See [what health risks you’ll face in Suriname](https://travelhealthpro.org.uk
 
 * yellow fever
 * Zika virus
-* malaria and dengue
+* dengue
 * schistosomiasis
 
 ## Medication

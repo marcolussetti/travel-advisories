@@ -1,11 +1,11 @@
 {
     "name": "Indonesia",
-    "update_reason": "Updated information on recent volcanic activity on Flores Island (\u2018Regional risks\u2019 page).",
+    "update_reason": "Updated information on entering Indonesia with the appropriate visa('Entry requirements' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Indonesia/Warnings and insurance.md",
-            "update_date": "2025-06-18T14:29:52+01:00"
+            "update_date": "2025-07-03T10:53:22+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Indonesia/Getting help.md"
         }
     ],
-    "update_date": "2025-06-18T14:29:52+01:00"
+    "update_date": "2025-07-03T10:53:22+01:00"
 }

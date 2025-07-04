@@ -1,11 +1,11 @@
 {
     "name": "The Occupied Palestinian Territories",
-    "update_reason": "FCDO now advises against all but essential travel to parts of Israel/The Occupied Palestinian Territories. FCDO continues to advise against all travel to certain areas in Israel/the Occupied Palestinian Territories. Removal of Register Your Presence information (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "FCDO no longer advises against all travel or all but essential travel to some areas of Israel and the West Bank but continues to advise against all travel or all but essential travel to other areas of Israel and the OPTs ('Warnings and insurance' and 'Entry requirements' pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/The Occupied Palestinian Territories/Warnings and insurance.md",
-            "update_date": "2025-06-27T17:27:09+01:00"
+            "update_date": "2025-07-03T18:55:03+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/The Occupied Palestinian Territories/Getting help.md"
         }
     ],
-    "update_date": "2025-06-27T17:27:09+01:00"
+    "update_date": "2025-07-03T18:55:03+01:00"
 }
