@@ -118,6 +118,18 @@ The crime rate is low by regional standards. Petty crime occurs, especially at t
 * Lock car doors and windows
 * Avoid travelling alone, especially in remote areas
 
+### Adulterated alcohol
+
+People have died in Jordan after drinking methanol-adulterated alcohol. Poisoning incidents have happened at various locations, including in Amman, Zarqa and Balqa.
+
+You should be alert to the risk of poisoning when buying and/or consuming lesser-known alcohol brands. Even if the wrapping or container appears intact, it may contain substances that could put your health at risk.
+
+* Be cautious if you choose to drink alcohol
+* Avoid buying alcohol from individuals
+* Seek medical assistance if you begin to feel sick
+
+[Alcohol, drugs and travel](https://travel.gc.ca/travelling/health-safety/drugs)
+
 ### Firearms
 
 Incidents of celebratory gunfire, while illegal, are common and occasionally result in injury and death.

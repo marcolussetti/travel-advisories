@@ -20,9 +20,11 @@ Penalties for possession, use or trafficking of illegal drugs are severe. Convic
 
 ### 2SLGBTQI+ persons
 
-2SLGBTQI+ persons have been harassed and verbally and/or physically abused.
+2SLGBTQI+ persons have been harassed and verbally and/or physically abused. Be cautious and avoid public displays of affection with someone of the same sex.
 
-Discriminatory laws against 2SLGBTQI+ persons exist in Trinidad and Tobago.
+The law in Trinidad and Tobago prohibits sexual acts between men. Those convicted can face sentences of up to 5 years in prison.
+
+It’s illegal for 2SLGBTQI+ foreign nationals to enter the country, but this law is rarely enforced.
 
 [Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
 

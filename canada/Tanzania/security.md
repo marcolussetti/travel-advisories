@@ -2,21 +2,6 @@
 
 ## Safety and security
 
-### Security threats in the coastal area and islands south of Kisiju
-
-On March 21, 2025, the U.S. Embassy in Tanzania issued a security alert recommending that its nationals “avoid travel to islands and coastal area south of Kisiju.” The Tanzanian Police and local security agencies are currently monitoring security threats in the area.
-
-If you are in the affected area:
-
-* exercise caution
-* monitor local media to stay informed of the security situation
-* follow the instructions of local authorities
-
-#### Useful links
-
-* [Notice to the public](https://x.com/tanpol/status/1903457512860360739) – Tanzania Police Force (in Swahili only)
-* [Security alert](https://tz.usembassy.gov/security-alert-u-s-embassy-dar-es-salaam-tanzania-march-21-2025/) – U.S. Embassy of the United States in Tanzania
-
 ### Border with Mozambique in the Mtwara region
 
 Extremist groups are active in the northern districts of Cabo Delgado, Mozambique. Security incidents have occurred along the border, in the Mtwara Region. Tanzanian military and security forces conduct counterinsurgency operations in the area where access is controlled in several locations and movements in and out are monitored.

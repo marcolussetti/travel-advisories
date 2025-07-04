@@ -56,4 +56,4 @@ If you are travelling near a volcano, check for the latest activity and warnings
 * [Information in case of natural disasters](https://www.jnto.go.jp/eng/basic-info/emergency-info/natural-disasters.html) – Japan National Tourism Organization
 * [Earthquakes](https://www.getprepared.gc.ca/cnt/hzd/rthqks-en.aspx) – Government of Canada
 * [Tsunami alerts](https://www.tsunami.gov/) – U.S. Tsunami Warning System
-* [Volcanic alert levels and warnings](http://www.jma.go.jp/en/volcano/) – Japan Meteorological Agency
+* [Volcanic alert levels and warnings](https://www.jma.go.jp/bosai/#lang=en&pattern=default) – Japan Meteorological Agency

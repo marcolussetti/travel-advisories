@@ -2,10 +2,6 @@
 
 ## Safety and security
 
-### Security situation in Rusizi District
-
-The security situation in the Rusizi District, bordering South Kivu in the Democratic Republic of Congo (DRC), is volatile and unpredictable. It could deteriorate rapidly and without warning.
-
 ### Border with the Democratic Republic of Congo
 
 The security situation at the border between Rwanda and the Democratic Republic of Congo (DRC) is unstable and unpredictable due to intensifying combat in North Kivu in the DRC, including around the city of Goma. Active fighting, including shelling, have been reported in Rubavu District. Escalating tensions between the DRC and Rwanda could further deteriorate the situation in Rubavu district.

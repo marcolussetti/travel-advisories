@@ -1,7 +1,7 @@
 {
     "name": "Rwanda",
-    "update_reason": "Health \u2013 editorial change",
-    "update_date": "2025-06-30T14:47:00",
+    "update_reason": "Risk levels \u2013 update to regional risks; Safety and security \u2013 removed information about the security situation in Rusizi District",
+    "update_date": "2025-07-03T16:35:00",
     "sections": {
         "risk": "canada/Rwanda/risk.md",
         "security": "canada/Rwanda/security.md",
