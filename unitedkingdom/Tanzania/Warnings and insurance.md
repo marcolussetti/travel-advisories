@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   12 June 2025
+:   5 July 2025
 
 Updated:
-:   11 June 2025
+:   4 July 2025
 
 Latest update:
-:   Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport ('Safety and security' page).
+:   Updated information about health risks you may face in Tanzania (‘Health’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/645a3ab12226ee000c0ae4a0/FCDO__TA__086_-_Tanzania_Travel_Advice_Ed1__WEB_.jpg)
 

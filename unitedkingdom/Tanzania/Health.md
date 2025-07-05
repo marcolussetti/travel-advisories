@@ -25,6 +25,7 @@ See [what health risks you’ll face in Tanzania](https://travelhealthpro.org.uk
 * dengue
 * malaria
 * cholera
+* mpox
 
 On 13 March the [Government of Tanzania declared the Marburg virus disease outbreak over.](https://www.afro.who.int/countries/united-republic-of-tanzania/news/tanzania-declares-end-marburg-virus-disease-outbreak)  This announcement came after no new cases had been reported since the death of the last confirmed case on 28 January.
 

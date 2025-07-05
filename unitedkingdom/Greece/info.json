@@ -1,11 +1,11 @@
 {
     "name": "Greece",
-    "update_reason": "New information on hiking and camping and motorhome travel (\u2018Safety and security\u2019 page).",
+    "update_reason": "Information about wildfires in Greece and updated information under emergency alerts and preparedness ('Warnings and insurance'  and 'Safety and security' pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Greece/Warnings and insurance.md",
-            "update_date": "2025-06-06T16:45:27+01:00"
+            "update_date": "2025-07-04T15:24:07+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Greece/Getting help.md"
         }
     ],
-    "update_date": "2025-06-06T16:45:27+01:00"
+    "update_date": "2025-07-04T15:24:07+01:00"
 }

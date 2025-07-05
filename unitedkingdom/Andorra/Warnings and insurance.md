@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   2 May 2025
+:   5 July 2025
 
 Updated:
-:   1 May 2025
+:   4 July 2025
 
 Latest update:
-:   Removal of information about power outages across Andorra (‘Warnings and insurance’ page).
+:   Information that you must meet requirements for entry to France or Spain, even if you have Andorran residency ('Entry requirements' page).
 
 ## Before you travel
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   21 June 2025
+:   5 July 2025
 
 Updated:
-:   20 June 2025
+:   4 July 2025
 
 Latest update:
-:   New information on entering Turkey across the land border from Iran (‘Entry requirements’ page).
+:   Information about wildfires in Turkey ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/6703bc3c3b919067bb482cfb/FCDO__TA__043_-_Turkey_Travel_Advice_Ed4__WEB_.jpg)
 
@@ -27,6 +27,10 @@ Find out more about [why FCDO advises against travel](https://www.gov.uk/foreig
 ## Support from the UK government
 
 While 24-hour consular assistance is available by phone or online, in-person consular support is severely limited in areas where we advise against travel.
+
+## Wildfires in Turkey
+
+Wildfires happen frequently in Turkey during summer. Please see Wildfires section on the [Safety and security page](https://www.gov.uk/foreign-travel-advice/turkey/safety-and-security) for more information.
 
 ## Before you travel
 

@@ -187,13 +187,21 @@ When walking roadside, take care when crossing the road and if possible use a pe
 
 ## Extreme weather and natural disasters
 
-### Emergency alerts
+### Emergency alerts and preparedness
 
 Greece can experience extreme natural phenomena such as earthquakes, wildfires, extreme heat and flash floods. To be alerted to events near where you are located in Greece, register for alerts from the [Greek government’s Emergency Communication Service](https://civilprotection.gov.gr/en)) (in English):
 
 * for iPhones go to Settings > Notifications and enable the ‘Emergency Alerts’ option at the bottom
 * for Android 11 and higher go to Settings > Notifications > Advanced Settings > Wireless Emergency Alerts
 * for Samsung devices go to Settings > Apps > Messages > Notifications > Emergency Notifications and enable the ‘Emergency Alerts’ option
+
+Consider preparing a grab bag with essentials such as:
+
+* passports/ID cards
+* mobile phones and device chargers
+* money and bank cards
+* insurance and other important documents
+* essential medicine and prescription details
 
 For further information, see Greece’s [Civil Protection website](http://civilprotection.gr/en/forest-fires) (in Greek).
 

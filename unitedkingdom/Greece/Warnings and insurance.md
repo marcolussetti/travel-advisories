@@ -1,13 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   7 June 2025
+:   5 July 2025
 
 Updated:
-:   6 June 2025
+:   4 July 2025
 
 Latest update:
-:   New information on hiking and camping and motorhome travel (‘Safety and security’ page).
+:   Information about wildfires in Greece and updated information under emergency alerts and preparedness ('Warnings and insurance' and 'Safety and security' pages).
+
+## Wildfires in Greece
+
+There is a high risk of wildfires during the summer season from April to October. For advice, visit the wildfires section on the [Safety and security page](https://www.gov.uk/foreign-travel-advice/greece/safety-and-security).
 
 ## Before you travel
 
