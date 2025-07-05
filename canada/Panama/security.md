@@ -2,31 +2,9 @@
 
 ## Safety and security
 
-### State of emergency in Bocas del Toro Province
-
-A state of emergency is currently in effect in Bocas del Toro Province in response to demonstrations and violent incidents. During the state of emergency, several key constitutional rights are suspended, including but not limited to:
-
-* freedom of movement
-* freedom of speech
-* fair detention
-* privacy
-* peaceful public gatherings
-
-Since June 19, 2025, there have been significant clashes between police and protestors in the Changuinola region. Arson, looting, and vandalism have taken place, including at the Capitán Manuel Niño International Airport.
-
-Fuel shortages, including on the islands, may impact service availability, such as transportation.
-
-You should avoid the affected areas. However, if you're there:
-
-* consider sheltering in place
-* limit your movements
-* carry valid identification at all times
-* follow the instructions of local authorities
-* monitor local media for the latest information.
-
 ### Nationwide demonstrations
 
-Nationwide demonstrations have been occurring frequently since late April 2025, causing travel disruptions. Roadblocks have been set up and public transport disrupted at times in the following areas:
+Nationwide demonstrations have been occurring frequently since late April 2025. Roadblocks have been set up and public transportion disrupted at times in the following areas:
 
 * Panama City
 * Bocas del Toro Province, including the Changuinola region
@@ -36,6 +14,22 @@ Nationwide demonstrations have been occurring frequently since late April 2025, 
 Demonstrations could happen in other areas without notice.
 
 [Demonstrations](#demonstrations)
+
+### Bocas del Toro Province
+
+The state of emergency previously declared in Bocas del Toro Province has now been officially lifted. This follows a period of civil unrest, including demonstrations and violent incidents, particularly in the Changuinola region.
+
+While the situation has improved and constitutional rights have been reinstated, the area is still in a phase of recovery. Infrastructure and essential services may remain disrupted, and localized tensions could persist.
+
+Fuel shortages, especially on the islands, may continue to affect transportation and other services.
+
+If you are in the affected areas:
+
+* avoid areas where demonstrations may still occur
+* limit non-essential movement and remain vigilant
+* carry valid identification at all times
+* follow the instructions of local authorities
+* monitor local news and official updates regularly
 
 ### Region between Metetí and the Colombian border
 

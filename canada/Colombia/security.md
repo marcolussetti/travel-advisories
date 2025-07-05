@@ -2,6 +2,19 @@
 
 ## Safety and security
 
+### July 4 Attacks
+
+There have been violent incidents on July 4, 2025, in several regions, including Catatumbo, south Bolívar, Choco, Arauca, northeast Boyaca, Cauca, Nariño and Antioquia. Military and police installations are targeted, as well as critical infrastructure such as oil pipelines, power towers, roads, bridges, government buildings and bank headquarters.
+
+If you are in an affected area:
+
+* limit your movements
+* be vigilant at all times
+* avoid all demonstrations and large gatherings
+* follow the instructions of local authorities
+* monitor local media
+* confirm your location and wellbeing with your emergency contacts
+
 On June 10, 2025, there were several explosions and gun attacks in the departments of Cauca and Valle del Cauca, including Cali, resulting in several casualties. Remain vigilant since further attacks could occur.
 
 * Be aware of your surroundings

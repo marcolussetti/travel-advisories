@@ -8,6 +8,8 @@ Separatist insurgents periodically perpetrate criminally and politically motivat
 
 These deadly attacks include shootings, bombings and arson, and are usually directed at military, government and security buildings and personnel. They have also occurred in a variety of public places.
 
+These groups may also target popular tourist areas throughout Thailand.
+
 Martial law and heavily enhanced security measures are in place in Narathiwat, Pattani, and Yala provinces, and the Chana, Na Thawi, Thepha and Saba Yoi districts of Songkhla province.
 
 Increased enforcement powers allow authorities to:
@@ -50,6 +52,46 @@ Legal provisions may allow the military to retain and exercise sweeping powers t
 * exercise force in response to violence
 
 Such measures could be enforced at any time. Some television, radio stations and web sites may be unavailable, and access to social media services may be intermittently suspended.
+
+### Terrorism
+
+There is an ongoing threat of terrorism in Thailand. Thai authorities have defused devices in Phuket, Krabi and Phang Nga in June 2025. Small-scale bomb attacks have occurred in public places. Further attacks are possible.
+
+Targets could include:
+
+* government buildings, including schools
+* places of worship
+* airports and other transportation hubs and networks
+* public areas such as tourist attractions, restaurants, bars, coffee shops, shopping centres, markets, hotels and other sites frequented by foreigners
+
+Always be aware of your surroundings when in public places.
+
+### Demonstrations
+
+Large demonstrations occur regularly in Bangkok and across the country. They are often related to social and political tensions, and are expected to continue.
+
+Even peaceful demonstrations can turn violent at any time. They can also disrupt traffic and public transportation when they block major roads and intersections and may cause the closure of mass transit stations.
+
+Maintain a high level of personal security awareness at all times.
+
+Demonstration sites in Bangkok include:
+
+* the areas around the Victory Monument
+* Thammasat University
+* the Bangkok Arts and Cultural Centre
+* the Democracy Monument
+* Ratchaprasong intersection
+
+Other areas of the city may also be affected by protests and associated movements. Demonstrations have also taken place in other cities.
+
+* Avoid military installations and concentrations of security personnel
+* Expect a heightened security presence in several areas
+* Carry identification documents at all time
+* Avoid areas where demonstrations and large gatherings are taking place
+* Follow the instructions of local authorities
+* Monitor local media for information on ongoing demonstrations
+
+[Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
 
 ### Crime
 
@@ -133,45 +175,7 @@ If you are victim of a sexual assault, you should seek medical attention and rep
 
 [Advice for women travellers](https://travel.gc.ca/travelling/health-safety/advice-for-women-travellers "Advice for women travellers")
 
-### Terrorism
-
-There is a threat of terrorism in Thailand. Although infrequent outside of the southern provinces of Narathiwat, Pattani, Songkhla and Yala, small-scale bomb attacks have occurred in public places. Further attacks are possible.
-
-Targets could include:
-
-* government buildings, including schools
-* places of worship
-* airports and other transportation hubs and networks
-* public areas such as tourist attractions, restaurants, bars, coffee shops, shopping centres, markets, hotels and other sites frequented by foreigners
-
-Always be aware of your surroundings when in public places.
-
-### Demonstrations
-
-Large demonstrations are taking place regularly in Bangkok and across the country. There are social tensions, and demonstrations are likely to continue.
-
-Even peaceful demonstrations can turn violent at any time. They can also disrupt traffic and public transportation when they block major roads and intersections and may cause the closure of mass transit stations.
-
-Maintain a high level of personal security awareness at all times.
-
-Demonstration sites in Bangkok include:
-
-* the areas around the Victory Monument
-* Thammasat University
-* the Bangkok Arts and Cultural Centre
-* the Democracy Monument
-* Ratchaprasong intersection
-
-Other areas of the city may also be affected by protests and associated movements. Demonstrations have also taken place in other cities.
-
-* Avoid military installations and concentrations of security personnel
-* Expect a heightened security presence in several areas
-* Carry identification documents at all time
-* Avoid areas where demonstrations and large gatherings are taking place
-* Follow the instructions of local authorities
-* Monitor local media for information on ongoing demonstrations
-
-[Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
+### 
 
 ### Water activities
 

@@ -9,7 +9,6 @@ In July 2024, widespread violence began in Bangladesh, resulting in thousands of
 If you are in Bangladesh, expect the following:
 
 * a military presence in major city centres
-* a reduced police presence throughout the country
 * traffic delays and increased commuting times
 
 [For more information on demonstrations](#demonstrations)

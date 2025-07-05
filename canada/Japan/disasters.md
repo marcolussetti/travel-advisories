@@ -47,7 +47,16 @@ Japan is prone to tsunamis. A tsunami can occur within minutes of a nearby earth
 
 There are a number of active volcanoes. The Japan Meteorological Agency lists active volcanoes and associated warnings.
 
-If you are travelling near a volcano, check for the latest activity and warnings. Always follow the advice and instructions of local authorities.
+Ash clouds can disrupt air travel and cause or worsen respiratory problems.
+
+Active volcanoes are monitored to provide residents with an early warning should unusual activity occur. Local authorities can raise alert levels and order evacuations on short notice.
+
+If you are near active volcanoes:
+
+* take official warnings seriously and respect exclusion zones
+* monitor local media to stay up-to-date on latest developments
+* follow the advice of local authorities, including evacuation orders
+* be prepared to modify your travel arrangements or even evacuate the area on short notice
 
 #### Useful links
 
