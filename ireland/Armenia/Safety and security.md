@@ -1,6 +1,6 @@
 ## Safety and security
 
-### **Border areas**
+### **Border Areas**
 
 The border with Azerbaijan remains closed.
 
@@ -37,13 +37,13 @@ If planning to drive in Armenia, be extremely careful. Roads outside the princip
 
 If driving, bring a full Irish licence and international driving permit and make sure adequate and appropriate insurance is purchased.
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If hiring a vehicle, we advise travellers not to hand over passports as a form of security. If allowing passports to be photocopied, keep them in sight at all times.
 
-Check that adequate insurance is purchased and read the small print of the vehicle hire contract (particularly any waiver that will come into effect if the vehicle is damaged)..
+Check that adequate insurance is purchased and read the small print of the vehicle hire contract (particularly any waiver that will come into effect if the vehicle is damaged).
 
-### **Public transport**
+### **Public Transport**
 
 Public transport tends to be crowded and poorly maintained. Buses run at irregular times and may be difficult to negotiate if travellers do not speak Armenian or Russian.
 
@@ -51,6 +51,6 @@ Public transport tends to be crowded and poorly maintained. Buses run at irregul
 
 Taxis are relatively cheap and accessible in Yerevan. They can be hailed easily on the street. Check that the meter is running. If there is no meter, negotiate a price for the journey before you start. Average prices for journeys in the city centre are in the region of 500-1000 dram.
 
-### **Air safety**
+### **Air Safety**
 
 We recommend flying to Armenia on a scheduled international flight. Western airlines currently serving Armenia include Aegean, Air France, Austrian Airlines and LOT.

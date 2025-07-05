@@ -12,7 +12,7 @@ We strongly advise avoiding protests and taking photographs. Keep up-to-date wit
 
 Bulgaria generally has a low level of crime. However, pickpocketing and petty crime is common in tourist areas, particularly around the Black Sea coastal resorts, and transport hubs, such as airports and bus terminals.
 
-Take care with personal belongings, especially on public transport, and around tourist attractions, markets and shopping malls. Do not walk around with a passport or wallet in the back pocket of your jeans. Do not keep valuables in a bag/pouch which someone else can open without it being noticed . Keep valuables stored in a secure location, such as a hotel safe. Be alert to possible scams. If approached in a busy area, this could be an attempt to distract travellers while they are robbed.
+Take care with personal belongings, especially on public transport, and around tourist attractions, markets and shopping malls. Do not walk around with a passport or wallet in the back pocket of your jeans. Do not keep valuables in a bag/pouch which someone else can open without it being noticed. Keep valuables stored in a secure location, such as a hotel safe. Be alert to possible scams. If approached in a busy area, this could be an attempt to distract travellers while they are robbed.
 
 If reporting a crime, contact the local police on 112.
 
@@ -42,10 +42,18 @@ If travellers want to drive:
 
 Police checkpoints are common, particularly when leaving a town, and on-the-spot fines can be charged for minor violations. There are, however, reports of police officers attempting extortion through fines.
 
-### **Vehicle hire**
+### **Vehicle Hire**
 
 If hiring a vehicle in Bulgaria, we advise not to hand over the passport as a form of security. If allowing passports to be photocopied, keep them in sight at all times.
 
 If bringing a hired car into Bulgaria, make sure to have the original contract document. The document should state that the car can be brought into Bulgaria.
 
 Check that adequate insurance is purchased and read the small print of the vehicle hire contract (particularly any waiver that will come into effect if the vehicle is damaged).
+
+### **Public Transport**
+
+Public transport throughout Bulgaria is generally good, although the standard of buses and trams in the cities is varied. Tickets can be purchased in bulk from ticket kiosks or for single journeys on the tram or bus. Sofia has a metro system with four lines that run through the city centre.
+
+Travelling by bus or air within the country is cheap and reliable. There are internal flights between Sofia, Plovdiv, Burgas and Varna which are quite accessible. The bus network is quite extensive.
+
+Train travel is less popular and the quality of the service is not as comfortable. Car hire is also possible, with international companies such as Avis and Hertz operating in Bulgaria as well as other local companies.

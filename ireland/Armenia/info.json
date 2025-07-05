@@ -3,29 +3,33 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Armenia/Overview.md"
+            "title": "Travel to Armenia overview",
+            "file": "ireland/Armenia/Travel to Armenia overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Armenia/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Armenia/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Armenia/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Armenia/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/Armenia/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/Armenia/Natural disasters and climate.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/Armenia/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Armenia/Embassy contact.md"
         }
     ],
-    "update_date": "2025-03-05T00:00:00"
+    "update_date": "2025-07-04T00:00:00"
 }

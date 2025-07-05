@@ -9,7 +9,7 @@ Not all policies are the same, and the cheapest one might be cheap for a reason.
 
 The Embassy cannot pay for emergency medical repatriation, repatriation of remains, or for expenses as a result of a personal emergency while abroad.
 
-### **Emergency expenses**
+### **Emergency Expenses**
 
 As well as all medical care abroad, the travel insurance policy should cover:
 
@@ -25,7 +25,7 @@ As well as all medical care abroad, the travel insurance policy should cover:
 
 We advise getting a European Health Insurance Card (EHIC) before travelling to Bulgaria. This card replaces the E111 form and entitles travellers to emergency medical treatment in public healthcare facilities on the same terms as Bulgarian nationals. The EHIC is not a substitute for travel insurance and does not cover most treatment in private clinics (where the majority of tourists have treatment), medical repatriation, ongoing medical treatment or treatment of a non-urgent nature. Always check with the hospital/clinic administrator beforehand whether the EHIC will be accepted. Applications for an EHIC can be submitted on the [**HSE’s website**](https://www2.hse.ie/services/ehic/ehic.html).
 
-### **Medical facilities**
+### **Medical Facilities**
 
 Medical staff in Bulgaria are generally well-trained but hospitals and clinics are sometimes poorly resourced. If staying in resorts, be careful to check if the medical facility is public or private and ensure that travellers are covered by insurance or the EHIC, or can afford the treatment if choosing a private facility.
 

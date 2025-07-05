@@ -1,6 +1,6 @@
 ## Safety and security
 
-### **Social unrest**
+### **Social Unrest**
 
 The political situation in Angola is reasonably stable but there can be occasional outbreaks of social unrest.
 
@@ -25,11 +25,11 @@ Crime, particularly in Angola’s capital, Luanda, can be an issue and you shoul
 * Keep a close eye on your personal belongings and hold on to them in public places such as internet cafés, train and bus stations
 * Be aware a high proportion of the civilian population is armed
 
-### **Serious crime**
+### **Serious Crime**
 
 In the capital, Luanda, criminal violence including muggings, car-jackings and armed hold-ups can happen in any area at any time. Muggings, particularly to steal mobile phones, as well as armed car-jackings appear to be on the increase.  We advise against walking around Luanda after dark.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If you’re a victim of a crime while in Angola, report it to the local police immediately. And you can contact us at the Irish Embassy in Lisbon if you need help.
 
@@ -43,7 +43,7 @@ If you want to drive:
 * Driving under the influence of alcohol or drugs is against the law and you risk being detained, fined or banned from driving if caught
 * Keep your vehicle doors locked and your bags kept out of sight to prevent opportunistic bag-snatching if you’re stopped at traffic lights
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If you’re hiring a vehicle, we advise you not to hand over your passport as a form of security.
 
@@ -51,6 +51,6 @@ If you’re allowing your passport to be photocopied, keep it in your sight at a
 
 Check that you have adequate insurance and read the small print of the vehicle hire contract (particularly any waiver that will come into effect if the vehicle is damaged).
 
-### **Regional travel**
+### **Regional Travel**
 
 Travel outside Luanda can be difficult and dangerous. There’s widespread poverty, social exclusion and disease, as well as a shattered infrastructure and mines and unexploded ordnance throughout parts of the country. If you travel outside Luanda, you should only do so in the company of people or organisations who are experienced in dealing with the local conditions.

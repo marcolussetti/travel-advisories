@@ -1,6 +1,6 @@
 {
     "name": "Israel and the Occupied Territories",
-    "risk_level": "Do Not Travel",
+    "risk_level": "Avoid Non-Essential Travel",
     "pages": [
         {
             "title": "Overview",
@@ -19,5 +19,5 @@
             "file": "ireland/Israel and the Occupied Territories/Embassy contact.md"
         }
     ],
-    "update_date": "2025-06-16T00:00:00"
+    "update_date": "2025-07-04T00:00:00"
 }

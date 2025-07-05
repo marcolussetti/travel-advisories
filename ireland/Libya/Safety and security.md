@@ -33,3 +33,15 @@ Some general precautions to protect yourself from crime while in Libya include:
 * Avoid showing large sums of money in public and do not use ATMs after dark, especially if alone. Check no one has followed you after conducting your business.
 * Avoid dark and unlit streets and stairways, and arrange to be picked up or dropped off as close to your hotel or apartment entrance as possible.
 * Keep a close eye on your personal belongings and hold on to them in public places such as internet cafés, train and bus stations.
+
+### **Driving**
+
+Road travel within Libya remains highly dangerous. There continues to be a risk of being caught up in outbreaks of hostilities. There’s also a high risk of carjacking and robbery. The coastal road between Zawiyah and Tripoli presents an elevated risk. There is a risk of striking unexploded ordnance off-road. Road traffic accidents are frequent and often result in fatalities. All land borders into Libya are subject to closure at short notice.
+
+Areas of Libya that border with Algeria, Niger, Chad and Sudan are very dangerous. Avoid cross-border travel between Libya and these countries. Bandits and armed tribal groups operate in these areas. There's also a very high threat of kidnapping. Violence and armed robberies have been reported as vehicles leave Libya by road. This includes roads that cross into Tunisia.
+
+Due to the threat of violence, the Embassy advises against travel by car in Libya. However should visitors chose to drive in Libya, be extremely careful and follow these basic guidelines:
+
+* Bring your full Irish driver’s licence and make sure to have adequate and appropriate insurance.
+* Driving under the influence of alcohol or drugs is against the law and you risk being detained, fined or banned from driving if caught.
+* Keep vehicle doors locked and bags out of sight to prevent opportunistic bag-snatching if stopped at traffic lights.

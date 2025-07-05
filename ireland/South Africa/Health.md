@@ -4,7 +4,7 @@
 
 Hospital treatment in large cities in South Africa is good but can be expensive. Medical facilities in rural areas can be basic. In remote areas, air evacuation is sometimes the only option for medical emergencies.
 
-### **Get travel and medical insurance**
+### **Get Travel and Medical Insurance**
 
 Before travelling, the Department **strongly recommends** that you obtain comprehensive travel insurance which will cover all overseas medical costs, including medical repatriation/evacuation, repatriation of remains and legal costs. You should check any exclusions and, in particular, that your policy covers you for the activities you want to undertake.
 
@@ -34,7 +34,7 @@ There are periodic outbreaks of cholera in rural South Africa, especially in Nor
 
 Anyone arriving in South Africa from a country where yellow fewer is present must have a yellow fever vaccination certificate valid at least six days before entry into South Africa. If you don’t have this certificate on arrival in South Africa you could be refused entry or vaccinated at the airport and quarantined for up to six days.
 
-### **Hospitals and clinics**
+### **Hospitals and Clinics**
 
 #### **Cape Town**
 

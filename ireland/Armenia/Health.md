@@ -1,6 +1,6 @@
 ## Health
 
-### **Medical facilities**
+### **Medical Facilities**
 
 Medical facilities outside Yerevan are generally poor and treatment is not recommended for anything other than minor ailments. In case of medical need and for advice and assistance contact the Irish Honorary Consul in Yerevan.
 
@@ -16,7 +16,7 @@ Buying comprehensive travel insurance can save a lot of money if something goes 
 
 Not all policies are the same, and the cheapest one might be cheap for a reason. Make sure your policy covers all planned activities. [**Insurance Ireland recommend**](http://www.insuranceireland.eu/consumer-information/general-non-life-insurance/travel) that travellers purchase a policy that provides a minimum medical cover of €1 million.
 
-### **Emergency expenses**
+### **Emergency Expenses**
 
 Your policy should cover:
 

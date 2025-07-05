@@ -1,10 +1,10 @@
 ## Safety and security
 
-### **Political unrest**
+### **Political Unrest**
 
 The political situation in South Africa is reasonably stable but dangerous incidents can happen. Always keep yourself informed of what's going on around you by monitoring local media and staying in contact with your hotel or tour organiser and avoid demonstrations and public gatherings, which can sometimes turn confrontational.
 
-### **Protests and demonstrations**
+### **Protests and Demonstrations**
 
 In South Africa, there are frequent protest marches, strike-related demonstrations, and occasional incidents of public disorder that have the potential to escalate into violence. These protests, marches, and demonstrations can happen unexpectedly throughout the country. It is advisable to steer clear of areas where such events are taking place, particularly in city centres and townships
 
@@ -36,13 +36,13 @@ South Africa National Parks (SANParks) advise against using the Numbi gate entra
 
 Follow SANParks advice on using alternative entrances. If you stay outside the park, contact your lodge in advance to find out if any disruptions will affect your trip. Get up-to-date [SANParks news](https://www.sanparks.org/about/news/) on the park website.
 
-### **Car crime**
+### **Car Crime**
 
 Armed car-jacking is a serious concern throughout South Africa. Thefts and smash-and-grab robberies from vehicles are common. You should keep the doors locked and windows closed, and exercise caution when travelling, particularly at night and at filling stations.
 
 If mugged or your car is hijacked you should remain calm, offer no resistance and hand over possessions without question. Avoid eye contact.
 
-### **Reporting a crime**
+### **Reporting Crime**
 
 If a victim of a crime while in South Africa, report it to the local police immediately on 10111 (112 from mobile phones). And you can [**contact us at the Irish Embassy in Pretoria**](/en/southafrica/pretoria/) if you need help.
 
@@ -64,7 +64,7 @@ If you want to drive:
 * Never leave bags, suitcases, or items of value on display in your car – these should be locked away in the boot
 * Avoid isolated beaches and picnic spots across South Africa and stay in company. Walking alone anywhere, especially in remote areas, is not advised and hikers should stick to popular trails. Call the police on 10111 (112 from mobile phones) at the first sign of a threat.
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If hiring a vehicle, we advise you not to hand over your passport as a form of security. If you're allowing your passport to be photocopied, keep it in your sight at all times.
 

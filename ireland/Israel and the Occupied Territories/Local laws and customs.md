@@ -1,6 +1,6 @@
 ## Local laws and customs
 
-**The Department of Foreign Affairs advises against all travel to Israel. The Department of Foreign Affairs advises against all travel to the occupied Palestinian territory (oPt).** **The specific advice below may be relevant to citizens already present in the country.**
+**The Department of Foreign Affairs advises against non-essential travel to Israel.** **The Department of Foreign Affairs advises against all travel to the occupied Palestinian territory (oPt), with the exception of East Jerusalem, where we advise against non-essential travel.** **The specific advice below may be relevant to citizens already present in the country.**
 
 Please note that local laws apply as a visitor and it is the traveller’s responsibility to follow them. Be sensitive to local customs, traditions and practices as your behaviour may be seen as improper, hostile or may even be illegal.
 

@@ -26,7 +26,7 @@
     {
         "destination": "Angola",
         "risk_level": "High Degree of Caution",
-        "last_updated": "2024-12-16T00:00:00",
+        "last_updated": "2025-07-04T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/angola/"
     },
     {
@@ -50,7 +50,7 @@
     {
         "destination": "Armenia",
         "risk_level": "High Degree of Caution",
-        "last_updated": "2025-03-05T00:00:00",
+        "last_updated": "2025-07-04T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/armenia/"
     },
     {
@@ -164,7 +164,7 @@
     {
         "destination": "Bulgaria",
         "risk_level": "Normal Precautions",
-        "last_updated": "2025-03-04T00:00:00",
+        "last_updated": "2025-07-04T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/bulgaria/"
     },
     {
@@ -547,14 +547,14 @@
     },
     {
         "destination": "Israel and the Occupied Territories",
-        "risk_level": "Do Not Travel",
-        "last_updated": "2025-06-16T00:00:00",
+        "risk_level": "Avoid Non-Essential Travel",
+        "last_updated": "2025-07-04T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/israel-and-the-occupied-territories/"
     },
     {
         "destination": "Italy",
         "risk_level": "Normal Precautions",
-        "last_updated": "2025-06-25T00:00:00",
+        "last_updated": "2025-07-04T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/italy/"
     },
     {
@@ -656,7 +656,7 @@
     {
         "destination": "Libya",
         "risk_level": "Do Not Travel",
-        "last_updated": "2025-05-15T00:00:00",
+        "last_updated": "2025-07-04T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/libya/"
     },
     {
@@ -1052,7 +1052,7 @@
     {
         "destination": "South Africa",
         "risk_level": "High Degree of Caution",
-        "last_updated": "2025-01-16T00:00:00",
+        "last_updated": "2025-07-04T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/south-africa/"
     },
     {

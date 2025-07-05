@@ -1,6 +1,6 @@
 ## Safety and security
 
-**The Department of Foreign Affairs advises against all travel to Israel.** **The Department of Foreign Affairs advises against all travel to the occupied Palestinian territory (oPt).** **The specific advice below may be relevant to citizens already present in the country.**
+**The Department of Foreign Affairs advises against non-essential travel to Israel.** **The Department of Foreign Affairs advises against all travel to the occupied Palestinian territory (oPt), with the exception of East Jerusalem, where we advise against non-essential travel.** **The specific advice below may be relevant to citizens already present in the country.**
 
 If already in Israel or the oPt, you should keep up to date with local media on developments that could lead to an outbreak of regional military conflict and make your travel plans accordingly.
 

@@ -3,25 +3,29 @@
     "risk_level": "Do Not Travel",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Libya/Overview.md"
+            "title": "Travel to Libya overview",
+            "file": "ireland/Libya/Travel to Libya overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Libya/Safety and security.md"
         },
         {
+            "title": "Health",
+            "file": "ireland/Libya/Health.md"
+        },
+        {
             "title": "Local laws and customs",
             "file": "ireland/Libya/Local laws and customs.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Libya/Additional information.md"
+            "title": "Entry requirements",
+            "file": "ireland/Libya/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Libya/Embassy contact.md"
         }
     ],
-    "update_date": "2025-05-15T00:00:00"
+    "update_date": "2025-07-04T00:00:00"
 }

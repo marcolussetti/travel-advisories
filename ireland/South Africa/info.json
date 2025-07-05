@@ -3,29 +3,33 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/South Africa/Overview.md"
+            "title": "Travel to South Africa overview",
+            "file": "ireland/South Africa/Travel to South Africa overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/South Africa/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/South Africa/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/South Africa/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/South Africa/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/South Africa/Local laws and customs.md"
+        },
+        {
+            "title": "Climate and Natural Disasters",
+            "file": "ireland/South Africa/Climate and Natural Disasters.md"
+        },
+        {
+            "title": "Entry Requirements",
+            "file": "ireland/South Africa/Entry Requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/South Africa/Embassy contact.md"
         }
     ],
-    "update_date": "2025-01-16T00:00:00"
+    "update_date": "2025-07-04T00:00:00"
 }

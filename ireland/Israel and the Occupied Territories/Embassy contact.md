@@ -10,7 +10,7 @@ If citizens phone outside of working hours, leave us a message with the followin
 
 We regularly monitor these messages and one of our staff members will be in contact.
 
-Public office opening hours: Monday - Thursday 10:00-12:30 or by appointment
+Public office opening hours: Monday - Thursday 10:00-12:30 or by appointment.
 
 ### Embassy of Ireland, Israel
 

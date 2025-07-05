@@ -3,29 +3,33 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Italy/Overview.md"
+            "title": "Travel to Italy overview",
+            "file": "ireland/Italy/Travel to Italy overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Italy/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Italy/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Italy/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Italy/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/Italy/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/Italy/Natural disasters and climate.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/Italy/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Italy/Embassy contact.md"
         }
     ],
-    "update_date": "2025-06-25T00:00:00"
+    "update_date": "2025-07-04T00:00:00"
 }

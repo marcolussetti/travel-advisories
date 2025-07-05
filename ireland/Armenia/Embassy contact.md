@@ -1,5 +1,7 @@
 ## Embassy contact
 
+As Ireland does not have an Embassy or Consulate in Armenia, consular assistance is provided via the [**Embassy of Ireland in Bulgaria**](https://www.ireland.ie/en/bulgaria/sofia/).
+
 Please note that if assistance is required in the case of an emergency while the Embassy is closed, contact the main Embassy number, +359 2 985 3425, to receive further information on emergency consular assistance.
 
 Monday to Friday 09:15 - 16:45

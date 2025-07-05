@@ -3,11 +3,11 @@ Afghanistan,Do Not Travel,2025-06-04T00:00:00,https://www.ireland.ie/en/dfa/over
 Albania,Normal Precautions,2024-04-19T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/albania/
 Algeria,High Degree of Caution,2025-04-14T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/algeria/
 Andorra,Normal Precautions,2025-07-01T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/andorra/
-Angola,High Degree of Caution,2024-12-16T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/angola/
+Angola,High Degree of Caution,2025-07-04T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/angola/
 Anguilla,Normal Precautions,2023-11-16T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/anguilla/
 Antigua and Barbuda,Normal Precautions,2025-06-09T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/antigua-and-barbuda/
 Argentina,Normal Precautions,2025-05-29T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/argentina/
-Armenia,High Degree of Caution,2025-03-05T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/armenia/
+Armenia,High Degree of Caution,2025-07-04T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/armenia/
 Australia,Normal Precautions,2025-06-03T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/australia/
 Austria,Normal Precautions,2025-07-03T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/austria/
 Azerbaijan,High Degree of Caution,2025-06-27T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/azerbaijan/
@@ -26,7 +26,7 @@ Bosnia and Herzegovina,Normal Precautions,2024-10-11T00:00:00,https://www.irelan
 Botswana,Normal Precautions,2025-04-02T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/botswana/
 Brazil,High Degree of Caution,2025-05-29T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/brazil/
 Brunei Darussalam,Normal Precautions,2025-06-05T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/brunei-darussalam/
-Bulgaria,Normal Precautions,2025-03-04T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/bulgaria/
+Bulgaria,Normal Precautions,2025-07-04T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/bulgaria/
 Burkina Faso,Do Not Travel,2025-06-03T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/burkina-faso/
 Burundi,Do Not Travel,2025-07-01T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/burundi/
 Cambodia,Normal Precautions,2025-06-25T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/cambodia/
@@ -90,8 +90,8 @@ India,High Degree of Caution,2025-06-10T00:00:00,https://www.ireland.ie/en/dfa/o
 Indonesia,High Degree of Caution,2025-06-05T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/indonesia/
 Iran,Do Not Travel,2025-07-03T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/iran/
 Iraq,Do Not Travel,2025-04-10T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/iraq/
-Israel and the Occupied Territories,Do Not Travel,2025-06-16T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/israel-and-the-occupied-territories/
-Italy,Normal Precautions,2025-06-25T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/italy/
+Israel and the Occupied Territories,Avoid Non-Essential Travel,2025-07-04T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/israel-and-the-occupied-territories/
+Italy,Normal Precautions,2025-07-04T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/italy/
 Jamaica,High Degree of Caution,2025-06-09T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/jamaica/
 Japan,Normal Precautions,2025-06-04T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/japan/
 Jordan,High Degree of Caution,2025-06-18T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/jordan/
@@ -108,7 +108,7 @@ Latvia,Normal Precautions,2025-06-26T00:00:00,https://www.ireland.ie/en/dfa/over
 Lebanon,Avoid Non-Essential Travel,2025-05-29T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/lebanon/
 Lesotho,High Degree of Caution,2024-03-15T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/lesotho/
 Liberia,High Degree of Caution,2024-03-11T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/liberia/
-Libya,Do Not Travel,2025-05-15T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/libya/
+Libya,Do Not Travel,2025-07-04T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/libya/
 Liechtenstein,Normal Precautions,2025-04-14T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/liechtenstein/
 Lithuania,Normal Precautions,2023-11-15T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/lithuania/
 Luxembourg,Normal Precautions,2025-06-26T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/luxembourg/
@@ -174,7 +174,7 @@ Slovak Republic (Slovakia),Normal Precautions,2025-07-02T00:00:00,https://www.ir
 Slovenia,Normal Precautions,2025-06-05T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/slovenia/
 Solomon Islands,Normal Precautions,2025-06-03T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/solomon-islands/
 Somalia,Do Not Travel,2024-02-26T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/somalia/
-South Africa,High Degree of Caution,2025-01-16T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/south-africa/
+South Africa,High Degree of Caution,2025-07-04T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/south-africa/
 South Sudan,Do Not Travel,2025-03-24T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/south-sudan/
 Spain,Normal Precautions,2025-06-25T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/spain/
 Sri Lanka,High Degree of Caution,2025-06-10T00:00:00,https://www.ireland.ie/en/dfa/overseas-travel/advice/sri-lanka/

@@ -2,7 +2,7 @@
 
 Remember, the local laws apply to you as a visitor and it is your responsibility to follow them. Be sensitive to local customs, traditions and practices as your behaviour may be seen as improper, hostile or even illegal.
 
-### **Illegal drugs**
+### **Illegal Drugs**
 
 Illegal drug use (no matter what the drug) carries stiff penalties, including fines and long prison terms.
 
@@ -18,6 +18,6 @@ In cities such as Florence and Venice, observe notices regarding public conduct.
 
 Tourists should be aware that bathing in fountains is prohibited at all times.
 
-### **Getting married in Italy**
+### **Getting Married in Italy**
 
-All Irish citizens wishing to marry in Italy must obtain a nulla osta (a certificate of freedom to marry). More information on how to apply is available on our website in the Travel section.
+All Irish citizens wishing to marry in Italy must obtain a nulla osta (a certificate of freedom to marry). More information on how to apply is available on our [**website**](https://www.ireland.ie/en/dfa/overseas-travel/consular-services/marriage-and-civil-partnership-abroad/).

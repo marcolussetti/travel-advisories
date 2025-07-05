@@ -6,6 +6,6 @@ Do not use photographic equipment, maps, binoculars or GPS devices near governme
 
 It is recommended that you carry a certified copy of your passport data page and relevant visa, for identification purposes in the event that you are stopped by the Angolan authorities. Failure to do so may result in a fine.
 
-### **Illegal drugs**
+### **Illegal Drugs**
 
 Illegal drug use (no matter what the drug) carries stiff penalties, including fines and long prison terms.
