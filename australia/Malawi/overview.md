@@ -2,7 +2,7 @@
 
 Latest update
 
-We continue to advise exercise a high degree of caution in Malawi. Demonstrations and protests can be unpredictable and may turn violent quickly. Avoid protests and demonstrations. During periods of unrest, monitor local media for updates, avoid affected areas and follow the advice of local authorities (see ‘Safety’). You don't need to apply for a visa if you're visiting Malawi for tourism purposes for up to 90 days (see 'Travel'). There's an outbreak of Mpox in parts of Africa, including Malawi. Maintain strict hygiene standards and avoid physical contact with anyone who has Mpox (see 'Health').
+Demonstrations may occur in the lead up to Malawi’s general elections due to be held on 16 September. Demonstrations and protests can be unpredictable and may turn violent quickly. During periods of unrest, monitor local media for updates, avoid affected areas and follow the advice of local authorities (see ‘Safety’).
 
 Advice Level summary
 
@@ -22,17 +22,18 @@ Exercise a high degree of caution in Malawi due to the threat of violent crime.
 
 ### Safety
 
+* Demonstrations may occur in the lead up to Malawi’s general elections due to be held on 16 September. Protests and demonstrations can be volatile and may turn violent quickly. Avoid large public gatherings.
 * Petty crime, such as bag snatching and theft is common, including on public transport. Keep your valuables out of sight.
 * Violent crime includes burglary, carjacking and food and drink spiking. Crime hotspots include bus and ferry terminals, and the walk between Lilongwe Old Town and the Capital City. Avoid walking at night, particularly in urban areas. Don't accept food or drink from strangers. Be alert to the potential risks around drink spiking and methanol poisoning through consuming alcoholic drinks. See our advice on [partying safely while overseas](https://www.smartraveller.gov.au/before-you-go/safety/partying).
 * The Mulanje district is a high-risk area for crime. Dangers include unrest, property damage, intimidation and violence.
 * Before climbing Mount Mulanje, contact the [Mountain Club of Malawi](https://mcm438.wordpress.com/) for safety advice.
-* Protests and demonstrations can occur, often in market areas. They can turn be volatile and may turn violent quickly. Avoid large public gatherings.
 
 Full travel advice: [Safety](#safety)
 
 ### Health
 
 * Public medical facilities are limited. Private facilities in Lilongwe, Blantyre and Mzuzu may not meet Australian standards. If you're seriously ill or injured, you'll need medical evacuation. Ensure your travel insurance covers this. Medical evacuation is expensive and complicated to organise.
+* There's an outbreak of Mpox in parts of Africa, including Malawi. Maintain strict hygiene standards and avoid physical contact with anyone who has Mpox
 * Cholera outbreaks occur. Practice safe food and water precautions.
 * Malaria is common and occurs year-round. Consider taking anti-malarial medication. Other insect-borne diseases include filariasis, plague and African sleeping sickness. Ensure your accommodation is insect-proof. Use insect repellent.
 * Lake Malawi contains schistosomiasis. Take precautions if you visit the lake region.

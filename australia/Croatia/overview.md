@@ -2,7 +2,7 @@
 
 Latest update
 
-On 5 July, a major music concert will be held at the Zagreb Hippodrome. Authorities are expecting very large crowds to attend the event or travel to Zagreb. If you're in Zagreb, see our advice on 'going overseas for a major event' page to understand the extra precautions you may need to take (see 'Safety').
+Croatia is part of the Schengen area. In some situations, this lets you enter Croatia without a visa. The new European Entry/Exit System (EES) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area is expected to start in October 2025 (see 'Travel').
 
 Advice Level summary
 
@@ -22,7 +22,6 @@ Exercise normal safety precautions in Croatia.
 
 ### Safety
 
-* On 5 July, a major music concert will be held at the Zagreb Hippodrome. Authorities are expecting large crowds, with up to 500,000 people expected to attend the event. If you're in Zagreb see our advice on [going overseas for a major event](/before-you-go/major-events "Going overseas for a major event") page to understand the extra precautions you may need to take.
 * There's been an increase in bomb threats against public areas, such as shopping malls, government offices and schools. Monitor the media for developments and follow the advice of local authorities.
 * Public protests and events that draw large groups of people can turn violent. Be careful if you attend soccer matches and avoid protests and demonstrations.
 * Don't jump off rocks and cliffs along the coast. Party boats and other venues, such as nightclubs, might have different safety standards than Australia.

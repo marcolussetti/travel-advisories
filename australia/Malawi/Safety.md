@@ -102,7 +102,7 @@ Methanol can be used in unregulated alcohol production to lower costs. Methanol
 
 #### Civil unrest and political tension
 
-Demonstrations can happen at any time. They often take place in market and city centre areas.
+Protests and demonstrations can happen at any time. Demonstrations may occur in the lead up to Malawi’s general elections due to be held on 16 September. Protests and demonstrations often take place in market and city centre areas.
 
 Public protests and events that draw large groups of people can be unpredictable and may turn violent quickly. Avoid activities that could be considered political and stay away from protests and demonstrations.
 
