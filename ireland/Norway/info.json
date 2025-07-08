@@ -3,12 +3,16 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Norway/Overview.md"
+            "title": "Travel to Norway overview",
+            "file": "ireland/Norway/Travel to Norway overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Norway/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Norway/Health.md"
         },
         {
             "title": "Local laws and customs",
@@ -19,13 +23,13 @@
             "file": "ireland/Norway/Natural disasters and climate.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Norway/Additional information.md"
+            "title": "Entry requirements",
+            "file": "ireland/Norway/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Norway/Embassy contact.md"
         }
     ],
-    "update_date": "2025-03-27T00:00:00"
+    "update_date": "2025-07-07T00:00:00"
 }

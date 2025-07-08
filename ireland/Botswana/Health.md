@@ -1,6 +1,6 @@
 ## Health
 
-### **Get travel and medical insurance**
+### **Get Travel and Medical Insurance**
 
 Before travelling, the Department **strongly recommends** that you obtain comprehensive travel insurance which will cover all overseas medical costs, including medical repatriation/evacuation, repatriation of remains and legal costs. You should check any exclusions and, in particular, that your policy covers you for the activities you want to undertake.
 
@@ -22,6 +22,6 @@ Malaria exists in the northern parts of Botswana, particularly during the rainy 
 
 Botswana has one of the highest HIV and AIDS infection rates in the world. If you’re engaging in activities that expose you to possible HIV infection, make sure you take adequate precautions. If you suspect that you have been exposed, you should seek immediate medical attention.
 
-### **Tick-borne encephalitis**
+### **Tick-borne Encephalitis**
 
 Anyone intending to camp or walk in the bush should be cautious of tick bites.

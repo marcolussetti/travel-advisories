@@ -3,12 +3,16 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Iceland/Overview.md"
+            "title": "Travel to Iceland overview",
+            "file": "ireland/Iceland/Travel to Iceland overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Iceland/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Iceland/Health.md"
         },
         {
             "title": "Local laws and customs",
@@ -19,13 +23,13 @@
             "file": "ireland/Iceland/Natural disasters and climate.md"
         },
         {
-            "title": "Health",
-            "file": "ireland/Iceland/Health.md"
+            "title": "Entry requirements",
+            "file": "ireland/Iceland/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Iceland/Embassy contact.md"
         }
     ],
-    "update_date": "2024-12-19T00:00:00"
+    "update_date": "2025-07-07T00:00:00"
 }

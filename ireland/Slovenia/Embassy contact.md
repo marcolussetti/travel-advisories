@@ -4,7 +4,7 @@ If you are in need of emergency assistance in Slovenia outside office hours, ple
 
 The out of hours service is strictly for genuine emergencies only. Queries or requests that can wait until normal office hours will not be dealt with by the duty officer.
 
-Alternatively, please contact the Consular Assistance Unit at the Department of Foreign Affairs in Dublin at (+353) 1 408 2000.
+Alternatively, please contact the Consular Assistance Unit at the Department of Foreign Affairs and Trade in Dublin at (+353) 1 408 2000.
 
 Monday to Friday 09:00-12:30 and 14:30-16:00
 

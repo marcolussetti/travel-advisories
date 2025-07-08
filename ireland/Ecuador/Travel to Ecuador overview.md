@@ -85,29 +85,15 @@ For all entry, including via land, airports and seaports, you may be asked to pr
 
 ### **Heavy rainfall**
 
-A regional state of emergency was declared by the Committee of Emergency Operations (COE) on 11 March 2025 for 60 days due to heavy rainfall. This measure was extended for a further 60 days on 24 April. It applies to the following provinces:
+A regional state of emergency was declared by the Committee of Emergency Operations (COE) on 04 July 2025 for 45 days due to heavy rainfall. It applies to the following provinces:
 
-- Guayas
+- Zamoras
 
-- Los Ríos
+- Chincipe
 
-- Manabí
+- Napo
 
-- Esmeraldas
-
-- Santa Elena
-
-- Loja
-
-- Azuay
-
-- Pichincha
-
-- Bolivar
-
-- Chimborazo
-
-- Cotopaxi
+Visitors are advised to follow the guidance of national and local authorities and stay fully informed of what is going on by monitoring local news and social media.
 
 ### **General Travel Advice**
 
@@ -136,8 +122,6 @@ Irish citizens **do not require** a visa to enter Ecuador for stays up to 90 day
 A valid passport is required for travel to Ecuador. Irish passports should have a minimum validity of 6 months. Passport cards cannot be used.
 
 For more information on visas and passports, please see the Entry Requirements tab.
-
-Visitors to Ecuador are advised to follow the guidance of national and local authorities and stay fully informed of what is going on by monitoring local news and social media.
 
 Citizens can also follow the Irish Embassy in Chile on [**X**](https://twitter.com/irlembchile) to ensure access to relevant updates and alerts or a family emergency.
 

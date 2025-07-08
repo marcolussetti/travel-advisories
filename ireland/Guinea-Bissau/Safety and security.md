@@ -1,6 +1,6 @@
 ## Safety and security
 
-### **Practical advice**
+### **Practical Advice**
 
 * Read our [**‘Know Before You Go’**](https://www.ireland.ie/en/dfa/overseas-travel/know-before-you-go/) guide for useful security tips when travelling abroad
 * Get advice locally about areas of risk and security concerns

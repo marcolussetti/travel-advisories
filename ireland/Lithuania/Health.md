@@ -8,7 +8,7 @@ Buying comprehensive travel insurance can save you and your family a lot of mone
 
 Not all policies are the same, and the cheapest one might be cheap for a reason. Make sure your policy covers all the activities you plan to do on your trip. [**Insurance Ireland recommend**](http://www.insuranceireland.eu/consumer-information/general-non-life-insurance/travel) that you purchase a policy that provides a minimum medical cover of €1 million.
 
-### **Emergency expenses**
+### **Emergency Expenses**
 
 Your policy should cover:
 
@@ -30,6 +30,6 @@ As an Irish resident you are entitled to get healthcare through the public syste
 
 The EHIC is not a substitute for proper travel insurance provided by a reputable insurer. It doesn’t cover medical repatriation, ongoing medical treatment or treatment of a non-urgent nature. Also, some private hospitals may not accept the EHIC, so you should check with the hospital administrator beforehand.
 
-### **Tick-borne encephalitis**
+### **Tick-borne Encephalitis**
 
 Tick-borne encephalitis and Lyme disease are common in Lithuania, especially in forested areas during the summer months. You should seek medical advice regarding inoculations against rabies and tick-borne encephalitis if you intend to visit forested areas.

@@ -1,6 +1,6 @@
 ## Health
 
-### **Medical insurance**
+### **Medical Insurance**
 
 Under Belarusian law, visitors must have medical insurance that covers the period of their stay. If bought outside Belarus, you must be able to show the Belarusian authorities that your policy is valid in Belarus for the duration of your visit and that it provides emergency treatment cover of at least US$5,000. Even with this, it can still be difficult to persuade local officials that a policy obtained abroad meets these criteria.
 
@@ -16,7 +16,7 @@ Buying comprehensive travel insurance can save you and your family a lot of mone
 
 Not all policies are the same, and the cheapest one might be cheap for a reason. Make sure your policy covers all the activities you plan to do on your trip. [**Insurance Ireland recommend**](http://www.insuranceireland.eu/consumer-information/general-non-life-insurance/travel) that you purchase a policy that provides a minimum medical cover of €1 million.
 
-### **Emergency expenses**
+### **Emergency Expenses**
 
 Your policy should cover:
 
@@ -34,7 +34,7 @@ Exclusions: Visitors should know most insurance policies will not cover drink or
 
 Check with a doctor a minimum of eight weeks in advance of travelling to see if any vaccinations for Belarus are required.
 
-### **Medical facilities**
+### **Medical Facilities**
 
 Standards of healthcare are well below that of Ireland and you should bring enough essential personal medications to last for your stay, as you may not be able to get supplies in Belarus.
 

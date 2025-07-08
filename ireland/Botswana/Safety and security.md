@@ -24,11 +24,11 @@ If you want to drive:
 * Driving under the influence of alcohol or drugs is against the law and you risk being detained, fined or banned from driving if caught
 * Keep your vehicle doors locked and your bags kept out of sight to prevent opportunistic bag-snatching if you’re stopped at traffic lights
 
-### **Driving in rural areas**
+### **Driving in Rural Areas**
 
 Wildlife and stray livestock can pose a serious hazard so avoid driving in rural areas at night. Botswana is a very large and under-populated country. Therefore the distance between one urban centre and another can be very long with minimum services of any kind available en-route, including fuel, food, accommodation and mobile phone coverage. Ensure you carry enough drinking water, some food and a second spare tyre if travelling long distances on dirt roads.
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If you’re hiring a vehicle, we advise you not to hand over your passport as a form of security. If you’re allowing your passport to be photocopied, keep it in your sight at all times.
 

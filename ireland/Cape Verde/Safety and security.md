@@ -14,17 +14,17 @@ Crime remains relatively low but you should take sensible precautions:
 * Avoid dark and unlit streets and stairways, and arrange to be picked up or dropped off as close to your hotel or apartment entrance as possible.
 * Lock doors and windows at night.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If you’re a victim of a crime, report it to the local police immediately.
 
-### **Road safety**
+### **Road Safety**
 
 Cape Verde has an extensive road system. On the islands of Santiago, Sal, and São Vicente, many urban and rural roads are asphalt. On the other islands, some roads are narrow, winding and poorly lit, and mostly cobblestone.  
 During the rainy season, cobblestone roads are especially slippery, and mud and rockslides are common on roads that cut through mountains. Roads and streets often are unlit and driving at night is hazardous. Main roads are usually paved with cobblestones but can be narrow, winding and poorly lit.  
 Drivers and pedestrians should exercise caution, particularly after dark.
 
-### **Public transportation**
+### **Public Transportation**
 
 Praia has three principal modes of public transport: taxi, city buses, and intercity commuter van service. The use of Intercity van service is strongly discouraged due to the bad driving habits of local residents.  
 While official taxis are considered safe and reliable, passengers should still exercise good common sense and avoid sharing a taxi with strangers.  

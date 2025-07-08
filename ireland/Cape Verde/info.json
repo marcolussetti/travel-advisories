@@ -3,29 +3,29 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Cape Verde/Overview.md"
+            "title": "Travel to Cape Verde overview",
+            "file": "ireland/Cape Verde/Travel to Cape Verde overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Cape Verde/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Cape Verde/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Cape Verde/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Cape Verde/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/Cape Verde/Local laws and customs.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/Cape Verde/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Cape Verde/Embassy contact.md"
         }
     ],
-    "update_date": "2023-11-17T00:00:00"
+    "update_date": "2025-07-07T00:00:00"
 }

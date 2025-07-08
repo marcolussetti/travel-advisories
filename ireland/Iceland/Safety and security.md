@@ -1,6 +1,6 @@
 ## Safety and security
 
-### **Political Stability/unrest**
+### **Political Stability/Unrest**
 
 The political situation in Iceland is reasonably stable but there can be occasional outbreaks of social unrest.
 
@@ -18,7 +18,7 @@ Crime remains relatively low in Iceland but visitors should take sensible precau
 * Do not carry your passport unless absolutely necessary and leave a copy of your passport (and travel and insurance documents) with family or friends at home.
 * Ensure that your valuables are secure and do not leave your car unlocked.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If a victim of a crime while in Iceland, report it to the local police immediately. Please contact the Irish Embassy in Oslo if you need help.
 
@@ -39,7 +39,7 @@ Driving in the Highlands (F-roads) requires an appropriate 4x4 vehicle. F-roads 
 
 You can find out more about driving in the Highlands here: [**https://safetravel.is/driving/summer/highland-driving/**](https://safetravel.is/driving/summer/highland-driving/)
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If hiring a vehicle, we advise not to hand over your passport as a form of security. If allowing your passport to be photocopied, keep it in your sight at all times.
 

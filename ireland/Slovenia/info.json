@@ -3,29 +3,29 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Slovenia/Overview.md"
+            "title": "Travel to Slovenia overview",
+            "file": "ireland/Slovenia/Travel to Slovenia overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Slovenia/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Slovenia/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Slovenia/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Slovenia/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/Slovenia/Local laws and customs.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/Slovenia/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Slovenia/Embassy contact.md"
         }
     ],
-    "update_date": "2025-06-05T00:00:00"
+    "update_date": "2025-07-07T00:00:00"
 }

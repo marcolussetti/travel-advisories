@@ -4,7 +4,7 @@ Irish health authorities have classified Cape Verde as a country where there is 
 
 Irish Health authorities also categorise Cape Verde as one of the high risk countries where the rates of hepatitis C are high. There is also a low risk of malaria in the capital city, Praia (Santiago Island). For more information and advice, visit the website of the HSE [**The Health Service Executive - Feidhmeannacht na Seirbhíse Sláinte**](https://www.hse.ie/eng/)
 
-### **Get travel and medical insurance**
+### **Get Travel and Medical Insurance**
 
 Before travelling, the Department strongly recommends that you obtain comprehensive travel insurance which will cover all overseas medical costs, including medical repatriation/evacuation, repatriation of remains and legal costs. You should check any exclusions and, in particular, that your policy covers you for the activities you want to undertake.
 

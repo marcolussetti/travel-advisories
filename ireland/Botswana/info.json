@@ -3,29 +3,29 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Botswana/Overview.md"
+            "title": "Travel to Botswana overview",
+            "file": "ireland/Botswana/Travel to Botswana overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Botswana/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Botswana/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Botswana/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Botswana/Additional information.md"
+            "title": "Local Laws and Customs",
+            "file": "ireland/Botswana/Local Laws and Customs.md"
+        },
+        {
+            "title": "Entry Requirements",
+            "file": "ireland/Botswana/Entry Requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Botswana/Embassy contact.md"
         }
     ],
-    "update_date": "2025-04-02T00:00:00"
+    "update_date": "2025-07-07T00:00:00"
 }

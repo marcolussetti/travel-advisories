@@ -6,7 +6,7 @@ There has been a rise in irregular migration from Belarus to its EU neighbours, 
 
 There may be long queues at the border and customs and immigration can be lengthy and bureaucratic. Ignore ‘private facilitators’ who offer to help travellers pass through checkpoints and border crossings.
 
-### **Social unrest**
+### **Social Unrest**
 
 We strongly advise visitors to avoid political demonstrations, rallies, marches or public gatherings, which increasingly have the potential to turn unpredictable and volatile. Being around such demonstrations or rallies could be interpreted as actively participating in the event, and could result in detention by the authorities.
 
@@ -27,7 +27,7 @@ Visitors should be alert at all times to the possibility of tourist crime, parti
 * Take extra care when travelling by train as theft can occur, especially on overnight sleeper trains to Warsaw and Moscow.
 * When visiting night clubs, pay particular attention to your surroundings and drinks, as the drugging of drinks is not uncommon.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If a victim of a crime while in Belarus, report it to the local police immediately. Citizens can contact the Irish Embassy in Vilnius.
 
@@ -44,17 +44,17 @@ If visitors want to drive:
 * Vehicles should have lights on at all times from 1 November to 31 March inclusive
 * Most traffic signs are in Cyrillic script only (not Latin).
 
-### **Speed limits**
+### **Speed Limits**
 
 Be aware of Belarus’s traffic laws, such as speed limits. The speed limit in built-up areas is 60km/h, unless specified otherwise. Outside built-up areas, the limit is 90km/h, and on motorways the speed limit is 100km/h. If a driver’s licence is held for less than two years, you must not exceed 70km/h.
 
-### **Car documentation**
+### **Car Documentation**
 
 When travelling by private vehicle, visitors must be able to produce ownership documents at customs offices at border crossings. If you are not the owner of the car, you must produce a letter of ‘power of attorney’. Only originals of these documents are accepted.
 
 If driving into Belarus make sure that you do not overstay the temporary import terms for your vehicles. If you violate the exit deadline, your vehicle could be confiscated at the Belarusian border or at an in-country police checkpoint.
 
-### **Driving on the motorway**
+### **Driving on the Motorway**
 
 There is a fee system in operation on Belarus' highways for drivers of foreign vehicles. Payments are collected at border checkpoints and will vary according to the length of your stay.
 
@@ -62,16 +62,16 @@ There is a fee system in operation on Belarus' highways for drivers of foreign v
 
 Visitors must have third party car insurance or you may get an ‘on-the-spot’ fine. Visitors can only buy this when entering Belarus. Ask at Belarusian Customs border offices for information.
 
-### **Police checkpoints**
+### **Police Checkpoints**
 
 There are police checkpoints on routes throughout the country. Always stop at these when instructed, and have your vehicle documentation to hand, otherwise you risk a fine and delay.
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If hiring a vehicle, we advise not to hand over your passport as a form of security. If allowing your passport to be photocopied, keep it in your sight at all times.
 
 Check that you have adequate insurance and read the small print of the vehicle hire contract (particularly any waiver that will come into effect if the vehicle is damaged).
 
-### **Adventure sports**
+### **Adventure Sports**
 
 As many adventure sports operators are unregulated, take care when choosing and always go with reputable tour operators.

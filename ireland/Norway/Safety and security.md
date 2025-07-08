@@ -8,7 +8,7 @@ Petty crime does happen in Norway but at a low level compared to other European 
 * Do not carry your passport unless absolutely necessary and leave a photocopy (as well as travel and insurance documents) with family or friends at home.
 * Exercise normal precautions at night, avoid walking alone and stick to well-lit areas.
 
-### **Reporting a crime**
+### **Reporting a Crime**
 
 If a victim of a crime while in Norway, report it to the local police immediately. Citizens can contact the Embassy if assistance is required.
 
@@ -25,8 +25,18 @@ If driving:
 * Throughout the year, keep headlights on at all times when driving.
 * Note that Norway drives on the right.
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If hiring a vehicle, we advise not to hand over your passport as a form of security. If allowing your passport to be photocopied, keep it in sight at all times.
 
 Check that you have adequate insurance and read the small print of the vehicle hire contract (particularly any waiver that will come into effect if the vehicle is damaged).
+
+### **Visiting the Arctic**
+
+Arctic travel is increasingly popular with tourists, and most go by ship. Some areas of the Arctic are remote and require experienced guides to escort visitors. If travelling independently, it is important to inform someone of your travel plans and ensure you have all the necessary equipment with you.
+
+### **Svalbard**
+
+Travel beyond the limits of Longyearbyen in Svalbard requires that you are accompanied by a qualified person with a rifle due to risks of polar bear attacks. Do not travel beyond the town limits alone. Due to the unique flora and fauna there are strict environmental rules in place in Svalbard and travel to certain areas and certain activities are restricted. It is recommended that you travel with a recognised tour operator when travelling outside of Longyearbyen.
+
+For further information on travel and safety in Svalbard please see the Governor of Svalbard [**website**](https://www.sysselmesteren.no/en/).

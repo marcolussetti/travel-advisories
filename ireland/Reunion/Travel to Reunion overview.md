@@ -34,8 +34,6 @@ You can contact the emergency services in Réunion by dialling 112. Specific eme
 * Fire brigade: 18
 * Ambulance: 15
 
-As there is no Irish Embassy or Consulate in Réunion, we are limited in the help we can offer you in an emergency situation. However, if there is an emergency, or if you need help and advice, you can contact our Embassy in Paris on **+331 44176700** or our Consular Assistance Unit at the Department of Foreign Affairs and Trade in Dublin on +353 1 408 2000.
-
 ### **Our Tips for Safe Travels:**
 
 * Get comprehensive travel insurance that covers all your planned activities.

@@ -1,5 +1,7 @@
 ## Embassy contact
 
+As Ireland does not have an Embassy or Consulate in Iceland, consular assistance is provided via the [**Embassy of Ireland in Oslo, Norway**](https://www.ireland.ie/en/norway/oslo/).
+
 If visitors need emergency assistance outside normal working hours, please dial the Embassy switchboard at +47 2201 7200. The mobile telephone number of the officer on duty will be available on the answering machine. Alternatively, please contact the 24-hour duty officer in Dublin at +353 1 478 0822.
 
 Monday to Friday 09:00-16:30
