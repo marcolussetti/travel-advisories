@@ -4,9 +4,9 @@
 
 ### Typhoon Danas
 
-Typhoon Danas is expected to make landfall on Taiwan, on July 7, 2025.
+On July 7, 2025, Typhoon Danas made landfall on the southwestern coast of Taiwan, in Chiayi County. The storm then moved northward, causing significant damage and resulting in casualties.
 
-The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
+The storm will likely continue to bring excessive rainfall and violent winds. It caused flash flooding and landslides and could continue to severely disrupt the following essential services:
 
 * transportation
 * power distribution

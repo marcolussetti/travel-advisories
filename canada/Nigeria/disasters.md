@@ -25,7 +25,7 @@ Know the symptoms of dehydration and heatstroke, which can both be fatal.
 
 The Harmattan is a sand-laden and dusty wind that blows in from the Sahara Desert, typically between November and March, with peak intensity from December to February. These dust-filled winds may deteriorate the air quality and affect the health of people with respiratory ailments.
 
-The Harmattan also reduces visibility, which can create hazardous driving conditions, especially during storms
+The Harmattan also reduces visibility, which can create hazardous driving conditions, especially during storms.
 
 During a storm:
 
