@@ -4,7 +4,7 @@ Latest update
 
 The security situation in Iran and the region is unpredictable. A ceasefire is currently in place. Regional tensions remain high and there continues to be a risk of further military conflict.   
   
-If you'd like to depart, commercial options to leave Iran are becoming available, including flights from Mashhad. Flights from other cities are expected to commence in the coming days. Contact your travel provider about air and land transport availability.  Flight cancellations and disruptions could continue with little or no notice, including due to airport and airspace closures. If you have an existing ticket, contact your travel provider or airline. This may be the fastest way for you to reach your destination.  
+If you'd like to depart, international flights from Iran have resumed, including from Tehran Imam Khomeini International Airport. Contact your travel provider about air and land transport availability.  Flight cancellations and disruptions could continue with little or no notice, including due to airport and airspace closures. If you have an existing ticket, contact your travel provider or airline. This may be the fastest way for you to reach your destination.  
   
 We continue to encourage Australians who want to leave Iran to do so now, if it is safe. Australians in Iran who are unable to leave, or do not wish to leave, are advised to take all precautions for your safety. Be alert and aware of your surroundings. While the current ceasefire is holding, the situation remains volatile and can change quickly. See our advice on safety during an armed conflict (see ‘Safety’).   
   
@@ -42,9 +42,7 @@ Requirements for border crossings may change without notice. Check the latest pu
 
 For Australians travelling from Iran, Azerbaijan authorities have reopened the crossing on its southern border at Astara for 'exceptional' crossing by third-country nationals. 
 
-We have worked with Azerbaijan authorities to clear the backlog of Australian border crossing code applications. If you have a crossing code, you can cross the Azerbaijan border during the holiday. Consular staff are at the border in Azerbaijan to assist as needed. 
-
-You will need both a visa and a border crossing code to enter Azerbaijan. We must register your details with Azerbaijan authorities to get the border crossing code (for Australian passport holders, permanent residents and immediate family members). This is different to a visa. Contact the Australian Embassy in Türkiye ([consular.ankara@dfat.gov.au](mailto:consular.ankara@dfat.gov.au)). It can take up to 4 business days or longer for a border crossing code to be issued by Azerbaijan authorities.
+You will need both a visa and a border crossing code to enter Azerbaijan. We must register your details with Azerbaijan authorities to get the border crossing code (for Australian passport holders, permanent residents and immediate family members). This is different to a visa. Contact the Australian Embassy in Türkiye ([consular.ankara@dfat.gov.au](mailto:consular.ankara@dfat.gov.au)). It can take up to 4 business days or longer for a border crossing code to be issued by Azerbaijan authorities. If you have a crossing code, you can cross the Azerbaijan border. 
 
 For Australian citizens, you will need to provide your full name, passport number, your e-visa for Azerbaijan, and contact details for all individuals seeking to transit. If possible, send a scan of your Australian passport biodata page.
 

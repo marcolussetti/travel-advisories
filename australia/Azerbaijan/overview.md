@@ -4,7 +4,7 @@ Latest update
 
 For Australians travelling from Iran, Azerbaijan authorities have reopened the crossing on its southern border at Astara for 'exceptional' crossing by third-country nationals. You will need both a visa and a border crossing code to enter Azerbaijan.  
   
-We must register your details with Azerbaijan authorities to get the border crossing code (for Australian passport holders, permanent residents and immediate family members). It can take up to 4 business days or longer for a border crossing code to be issued by authorities. We have consular staff in Azerbaijan, including at the Astara border crossing, to support Australians leaving Iran. Waiting times can vary significantly (see 'Travel').  
+We must register your details with Azerbaijan authorities to get the border crossing code (for Australian passport holders, permanent residents and immediate family members). It can take up to 4 business days or longer for a border crossing code to be issued by authorities. Waiting times can vary significantly (see 'Travel').  
   
 Internet and telephone connectivity in Iran, including at the Azerbaijan border, can be very poor. Requirements for border crossings may change without notice. Check the latest public information from local authorities on entry requirements and border arrangements.  
   

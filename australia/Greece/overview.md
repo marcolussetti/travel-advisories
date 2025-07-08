@@ -2,7 +2,7 @@
 
 Latest update
 
-Extreme temperatures and wildfires affect many areas of Greece during summer, including close to cities and tourist locations. Wildfires occur during the extended summer period, from June to September, including near cities and tourist locations, prompting evacuations. Fires can start with little warning and travel quickly. Avoid affected areas and follow the advice of local authorities (see 'Safety').
+Extreme temperatures and wildfires affect many areas of Greece during summer, including close to cities and tourist locations. Follow the advice of local authorities (see 'Safety').
 
 Advice Level summary
 
