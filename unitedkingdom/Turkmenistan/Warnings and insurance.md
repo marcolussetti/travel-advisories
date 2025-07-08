@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   21 June 2025
+:   8 July 2025
 
 Updated:
-:   20 June 2025
+:   7 July 2025
 
 Latest update:
-:   Addition of information on entering Turkmenistan across the land border from Iran (‘Entry requirements’ page).
+:   Removal of information on entering Turkmenistan across the land border from Iran.
 
 ## Before you travel
 

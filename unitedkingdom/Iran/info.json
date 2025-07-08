@@ -1,11 +1,11 @@
 {
     "name": "Iran",
-    "update_reason": "Information added on ceasefire and continued risk of regional escalation.",
+    "update_reason": "Removal of border crossing information following resumption of commercial airline operations. Information on British Embassy Tehran returning to normal operations ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Iran/Warnings and insurance.md",
-            "update_date": "2025-06-28T20:19:16+01:00"
+            "update_date": "2025-07-07T16:47:20+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Iran/Getting help.md"
         }
     ],
-    "update_date": "2025-06-28T20:19:16+01:00"
+    "update_date": "2025-07-07T16:47:20+01:00"
 }

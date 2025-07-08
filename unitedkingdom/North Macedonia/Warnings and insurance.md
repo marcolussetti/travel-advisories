@@ -1,13 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   2 July 2025
+:   8 July 2025
 
 Updated:
-:   1 July 2025
+:   7 July 2025
 
 Latest update:
-:   Addition of information about bans on entering forest and wilderness areas during the summer months ('Safety and security' page).
+:   Information about a widlfire which has closed the Blace - Hani I Elezit border crossing (Summary Page)
+
+## Wildfire on the Stenkovec-Blace Road
+
+Macedonian authorities have closed the Stenkovec-Blace Road on the Macedonian side in both directions leading to the Blace - Hani I Elezit border crossing between North Macedonia and Kosovo, which is also closed. This is due to a wildfire. Macedonian authorities are recommending not to travel to the border crossing until the fire is extinguished and traffic normalises. You should avoid this crossing and use alternative routes, and follow the advice of local authorities.
 
 ## Before you travel
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   7 June 2025
+:   8 July 2025
 
 Updated:
-:   6 June 2025
+:   7 July 2025
 
 Latest update:
-:   Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport ('Safety and security' page).
+:   Updated information on the 2025 Urban Resilience Air Defence Exercise
 
 The UK does not recognise Taiwan as a state and has no diplomatic relations with Taiwan, so limited support is available to British nationals. Please refer to the [British Office in Taipei](https://www.gov.uk/world/organisations/british-office-taipei) for further information.
 

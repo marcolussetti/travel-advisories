@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   21 June 2025
+:   8 July 2025
 
 Updated:
-:   20 June 2025
+:   7 July 2025
 
 Latest update:
-:   New information on entering Armenia across the land border from Iran (‘Entry requirements’ page).
+:   Removal of information regarding entry into Armenia via the land border with Iran.
 
 ![](https://assets.publishing.service.gov.uk/media/615dcc368fa8f5297eda6658/FCDO__TA__003_-_Armenia_Travel_Advice_Ed3__WEB_.jpg)
 

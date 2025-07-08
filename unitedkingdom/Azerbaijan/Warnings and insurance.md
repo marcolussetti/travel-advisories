@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   21 June 2025
+:   8 July 2025
 
 Updated:
-:   20 June 2025
+:   7 July 2025
 
 Latest update:
-:   Addition of information on entering Azerbaijan across the land border from Iran (‘Entry requirements’ page).
+:   Removal of information regarding entry into Azerbaijan via the land border with Iran.
 
 ![](https://assets.publishing.service.gov.uk/media/67efddbf27eb76c92cf7e567/FCDO__TA__004_-_Azerbaijan_Travel_Advice_Ed9__WEB_.jpg)
 

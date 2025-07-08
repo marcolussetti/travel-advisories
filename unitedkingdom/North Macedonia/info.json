@@ -1,11 +1,11 @@
 {
     "name": "North Macedonia",
-    "update_reason": "Addition of information about bans on entering forest and wilderness areas during the summer months ('Safety and security' page).",
+    "update_reason": "Information about a widlfire which has closed the Blace - Hani I Elezit border crossing (Summary Page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/North Macedonia/Warnings and insurance.md",
-            "update_date": "2025-07-01T16:26:56+01:00"
+            "update_date": "2025-07-07T22:13:23+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/North Macedonia/Getting help.md"
         }
     ],
-    "update_date": "2025-07-01T16:26:56+01:00"
+    "update_date": "2025-07-07T22:13:23+01:00"
 }

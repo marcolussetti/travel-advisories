@@ -4,14 +4,6 @@ This information is for people travelling on a full [‘British citizen’ passp
 
 The authorities in Armenia set and enforce entry rules. If you’re not sure how these requirements apply to you, contact the [Armenian Embassy in the UK](https://www.mfa.am/en).
 
-## Entering Armenia across the Land Border from Iran
-
-Armenia-Iran border is open to foreign nationals coming from Iran. This is subject to change at short notice. If you decide to leave Iran, you do so at your own risk and the British government cannot do anything to ensure your safety. Only travel if you feel it is safe to do so. In Iran, holding a British passport or having perceived connections to the UK can be reason enough for the Iranian authorities to detain you.
-
-British nationals entering Armenia from Iran will need a valid passport, see [‘passport validity requirements’](https://www.gov.uk/foreign-travel-advice/armenia/entry-requirements#passport-validity-requirements). You do not need a visa to enter Armenia, see [‘visa requirements’](https://www.gov.uk/foreign-travel-advice/armenia/entry-requirements#visa-requirements).
-
-Read more FCDO advice [if you’re affected by a crisis abroad](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas).
-
 ## Passport validity requirements
 
 If you are visiting Armenia, your passport must be valid for the duration of your stay.

@@ -1,11 +1,11 @@
 {
     "name": "Turkey",
-    "update_reason": "Information about wildfires in Turkey ('Warnings and insurance' page).",
+    "update_reason": "Removal of information on entering Turkey across the land border from Iran.",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Turkey/Warnings and insurance.md",
-            "update_date": "2025-07-04T17:46:27+01:00"
+            "update_date": "2025-07-07T16:48:00+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Turkey/Getting help.md"
         }
     ],
-    "update_date": "2025-07-04T17:46:27+01:00"
+    "update_date": "2025-07-07T16:48:00+01:00"
 }
