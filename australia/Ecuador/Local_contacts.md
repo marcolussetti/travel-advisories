@@ -40,10 +40,9 @@ For issue of provisional travel documents, contact the:
 
 #### Australian Consulate, Guayaquil
 
-Edificio Samborondón Plaza  
-4th floor, office # 410  
-Km. 1.5 Vía Samborondón  
-Samborondón, Guayas, Ecuador
+Urbanización Puerto Azul   
+Mz. D4, Solar 3, Villa 1   
+Guayaquil, Ecuador
 
 Phone: +593 9 5981 1614 (Monday to Friday 8am to 1pm and 1:30pm to 4:30pm)  
 Email: [ausconsulate@unidas.com.ec](mailto:ausconsulate@unidas.com.ec)

@@ -2,7 +2,7 @@
 
 Latest update
 
-We've reviewed our advice for Ethiopia and continue to advise reconsider your need to travel to Ethiopia overall due to the risk of civil unrest and the threat of armed conflict. We now advise do not travel to Tigray Regional State. We also advise do not travel to a number of other locations. Other levels apply in some areas.
+We've reviewed our advice for Ethiopia and continue to advise reconsider your need to travel overall due to the risk of civil unrest and the threat of armed conflict. Higher levels apply in some areas. We've lowered our travel advice for a number of regions, see advice levels for more information. The security situation in Ethiopia is dynamic and could deteriorate without warning. Monitor media for updates and follow the advice of local authorities (see 'Safety).
 
 Advice Level summary
 
@@ -20,15 +20,7 @@ Other levels apply in some areas.
 
 [Reconsider your need to travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level3) to Ethiopia overall due to the risk of civil unrest and the threat of armed conflict.
 
-[Do not travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level4 ) to the following locations:
-
-* Amhara Regional State
-* Benishangul-Gumuz Regional State
-* Gambela Regional State
-* Tigray Regional State
-* Kelam Welega, West Welega, East Welega, Horo Guduru Welega, North Shewa, West Shewa, Bale and Borena Zones in Oromia Regional State
-* Jarar, Dollo, Korahe, Shabelle, Afder, and Liben Zones of Somali Regional State and within 40km of the border with Somalia in Fafan Zone
-* The border areas of Ethiopia with Eritrea, Sudan, South Sudan, Kenya, and Somalia
+[Do not travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level4 )
 
 [Do not travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level4 ) to the following locations due to the security situation including the risk of terrorist attacks, kidnapping, civil unrest and armed conflict: 
 
@@ -36,39 +28,39 @@ Other levels apply in some areas.
 * Benishangul-Gumuz Regional State
 * Gambela Regional State
 * Tigray Regional State
-* Kelam Welega, West Welega, East Welega, Horo Guduru Welega, North Shewa, West Shewa, Bale and Borena Zones in Oromia Regional State
-* Jarar, Dollo, Korahe, Shabelle, Afder, and Liben Zones of Somali Regional State and within 40km of the border with Somalia in Fafan Zone
-* The border areas of Ethiopia with Eritrea, Sudan, South Sudan, Kenya, and Somalia
+* The northern parts of Oromia Regional State bordering Amhara and Benishangul-Gumuz
+* The border areas of Ethiopia with Eritrea, Sudan, South Sudan, Kenya and Somalia
 
 See [Safety](#safety)
 
-[Reconsider your need to travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level3) to these locations:
-
-* Nogob, Erer, Sitti and Fafan Zones of Somali Regional State (excluding the border areas with Somalia)
-* East Bale, Arsi, West Arsi, Guji, West Hararghe, East Hararghe, South West Shewa, East Shewa, Finfine Special Zone, Jimma, Buno Bedele, and Illubabor Zones of Oromia Regional State
+[Reconsider your need to travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level3)
 
 [Reconsider your need to travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level3) to these locations due to the risk of civil unrest and the threat of armed conflict:
 
-* Nogob, Erer, Sitti and Fafan Zones of Somali Regional State (excluding the border areas with Somalia)
-* East Bale, Arsi, West Arsi, Guji, West Hararghe, East Hararghe, South West Shewa, East Shewa, Finfine Special Zone, Jimma, Buno Bedele, and Illubabor Zones of Oromia Regional State
+* Somali Regional State (excluding the border areas with Somalia and Kenya, which remain 'do not travel')
+* East Shewa, Guji and West Guji Zones of Oromia Regional State
 
 See [Safety](#safety)
 
-[Exercise a high degree of caution](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level2) in the city of Addis Ababa, as well as Afar, Harar, Dire Dawa, South Ethiopia and Central Ethiopia and Southwest Ethiopia Peoples’ Regional States due to the security situation and the risk of civil unrest.
+[Exercise a high degree of caution](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level2)
 
-[Exercise a high degree of caution](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level2) in the city of Addis Ababa, as well as Afar, Harar, Dire Dawa, South Ethiopia and Central Ethiopia and Southwest Ethiopia Peoples’ Regional States due to the security situation and the risk of civil unrest.
+[Exercise a high degree of caution](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level2) to these locations due to the security situation and the risk of civil unrest:
+
+* Cities of Addis Ababa and Dire Dawa
+* Afar, Harari, Central Ethiopia, South Ethiopia and Southwest Ethiopia Peoples’ Regional States
+* Parts of Oromia Regional State (excluding areas identified as 'do not travel' and 'reconsider your need to travel')
 
 ## Overview
 
 ### Safety
 
-* The security situation in Ethiopia is dynamic and could deteriorate without warning. Roads can be closed at any time and communications may not be reliable. We advise against all road travel outside of major cities.
+* The security situation in Ethiopia is dynamic and could deteriorate without warning. Roads can be closed at any time and communications may not be reliable.
 * Ethiopia’s borders with Eritrea, Somalia, Kenya, South Sudan, and Sudan are high-risk areas. If, despite our advice, you plan to travel to these areas, get professional security advice.
 * There's a threat of terrorism across Ethiopia. Attacks could occur with little or no warning. Possible targets include hotels, markets, places of worship, government buildings, transport hubs and aircraft. Avoid possible targets, be alert on days of national significance, and maintain a high level of vigilance.
-* The threat of kidnapping is particularly high in some parts of Amhara and Oromia Regional States, and near the border areas with Kenya, Somalia and South Sudan. Aid and humanitarian workers may be targeted. Several active terrorist groups have the intent and capability to kidnap foreigners.
+* The threat of kidnapping is particularly high in some parts of Amhara, parts of Oromia Regional State, and near the border areas with Kenya, Somalia and South Sudan. Aid and humanitarian workers may be targeted. Several active terrorist groups have the intent and capability to kidnap foreigners.
 * Petty crime, particularly pickpocketing, is common in Addis Ababa. Foreigners may be targets. Be vigilant in all areas, particularly around Meskel Square, Mercato market, Hyatt Regency, Hilton and Sheraton hotels, Yeka Hills, Entoto, and Bole. Violent assault can occur and is more common after dark. Don't walk at night.
 * Drink spiking can happen anywhere. Be alert to the potential risks, and don't leave food or drinks unattended. Pay attention when your drinks are being mixed. Stick to reputable venues and avoid homemade alcoholic drinks due to the risk of methanol poisoning. Get urgent medical help if you suspect you’ve been a victim.
-* Earthquakes and volcanic activity can affect parts of Ethiopia. In January 2025, Ethiopian authorities began evacuating people from Mount Dofan in Awash National Park due to increased volcanic activity.
+* Earthquakes and volcanic activity can affect parts of Ethiopia.
 
 Full travel advice: [Safety](#safety)
 
@@ -96,7 +88,7 @@ Full travel advice: [Local laws](#local-laws)
 
 ### Travel
 
-* We continue to advise reconsider your need to travel to Ethiopia and also advise do not travel to some locations. The security situation is dynamic.
+* We continue to advise reconsider your need to travel to Ethiopia and also advise do not travel to some locations. The security situation is dynamic and could deteriorate without warning.
 * You must have a visa to enter Ethiopia. Visa applications must be made [online](https://www.evisa.gov.et/#/home). Entry and exit conditions can change at short notice. You should contact the [nearest embassy or consulate of Ethiopia](https://protocol.dfat.gov.au/Public/Missions/66) for the latest details.
 * The official currency is the Ethiopian Birr (ETB). You can exchange US dollars at the international airport, major banks and hotels. It's difficult to change Australian dollars. ATMs issue small amounts of local currency. In Addis Ababa large hotels, restaurants and large shops accept credit cards. Outside of Addis Ababa, credit card and ATM facilities are limited. Have multiple ways to access money.
 

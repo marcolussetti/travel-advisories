@@ -20,9 +20,14 @@ Ensure that you meet all entry and exit conditions.
 
 #### Border measures
 
-You can't enter Poland via the land borders from Belarus and Russia (Kaliningrad).
+Temporary border checks have been in place at all German land entry borders since 16 September 2024.
 
-Since 16 September, temporary border checks at all German land borders are in place for 6 months. The existing checks at Germany's borders with Austria, Switzerland, Poland, and the Czech Republic will be extended, and the periods will be aligned.
+From 7 July 2025, temporary border checks entering Poland from Lithuania are in place. Make sure you:
+
+* carry your passport when crossing borders, including within the [Schengen area](/before-you-go/the-basics/schengen "Visas and entry requirements in Europe and the Schengen Area"), and
+* monitor border conditions by checking local information and directly with transport providers.
+
+Entry and exit conditions can change at short notice. Contact the nearest [embassy or consulate of Poland](https://protocol.dfat.gov.au/Public/Consulates/162/State/2) for the latest details on entry requirements before you travel.
 
 #### European Entry/Exit System (EES)
 

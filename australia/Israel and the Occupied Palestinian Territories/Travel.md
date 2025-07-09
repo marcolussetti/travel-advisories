@@ -1,14 +1,8 @@
 # Travel
 
-#### Flight and road routes out of Israel
-
-#### Flights
-
-Tel Aviv's Ben Gurion International Airport is returning to full operations, with commercial options becoming increasingly available. If you have an existing ticket, contact your travel agent or airline. This may be the fastest way for you to reach your destination.
+#### Road routes out of Israel
 
 #### Land border crossings
-
-You should depart Israel or the Occupied Palestinian Territories when it’s safe to do so. The Australian Government can't offer advice on the safety of travelling to departure points. Any travel options you pursue are taken at your own risk. Make contingency plans to leave when it's safe to do so. You're responsible for your own safety and that of your family.
 
 Land border crossings to Jordan may open and close at short notice. Before you travel, check [Jordanian Border Crossings](https://www.accesscoordination.org/CrossingJordanC19%20-%20view.aspx) for regular opening times and also check the latest public information from local authorities in Israel and Jordan to make sure border crossings are open.
 

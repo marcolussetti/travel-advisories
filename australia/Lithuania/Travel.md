@@ -10,6 +10,15 @@ Lithuania is part of the [Schengen area](/before-you-go/the-basics/schengen "Vi
 
 Entry and exit conditions can change at short notice. Contact the nearest [Lithuanian embassy or consulate](https://protocol.dfat.gov.au/Public/Missions/116) for details about visas, currency, customs and quarantine rules.
 
+#### Border measures
+
+From 7 July, temporary border checks entering Lithuania’s borders with Poland are in place.
+
+Make sure you:
+
+* carry your passport when crossing borders, including within the [Schengen area](/before-you-go/the-basics/schengen "Visas and entry requirements in Europe and the Schengen Area"), and
+* monitor border conditions by checking local information and directly with transport providers.
+
 #### European Entry/Exit System (EES)
 
 The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area is expected to start in October 2025.

@@ -2,7 +2,7 @@
 
 Latest update
 
-We continue to advise exercise normal safety precautions in Poland.
+There's temporary border checks at Poland's borders with Germany and Lithuania in place. Entry and exit conditions can change at short notice. Monitor border conditions by checking local information and directly with transport providers (see 'Travel').
 
 Advice Level summary
 
@@ -49,7 +49,7 @@ Full travel advice: [Local laws](#local-laws)
 
 * Poland is part of the [Schengen area](/before-you-go/the-basics/schengen "Visas and entry requirements in Europe and the Schengen Area"), meaning you can enter without a visa in some cases. Entry and exit conditions can change at short notice. Contact the nearest embassy or consulate of Poland for details about visas, currency, customs and quarantine rules.
 * The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area is expected to start in October 2025.
-* Temporary border checks at all German land borders will be in place from 16 September for 6 months. The existing checks at Germany's borders with Austria, Switzerland, Poland, and the Czech Republic will be extended, and the periods will be aligned.
+* Temporary border checks have been in place at all German land entry borders since 16 September 2024. From 7 July 2025, temporary border checks at Poland's borders with Lithuania are also in place.
 * You can't enter Poland via the land borders from Belarus and Russia (Kaliningrad).
 * Be cautious if travelling in regions bordering Russia, Belarus and Ukraine. Access is restricted up to 2km from the border in some areas.
 * If you're travelling by land, you must have a valid Australian passport.

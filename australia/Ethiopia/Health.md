@@ -2,7 +2,7 @@
 
 #### Travel insurance
 
-If you travel to Ethiopia, check you have appropriate [travel insurance](https://www.smartraveller.gov.au/before-you-go/the-basics/insurance). If you plan to travel to ‘Do not travel’ parts of Ethiopia, you'll likely need a specialised insurance policy that covers travel to high-risk destinations. 
+If you travel to Ethiopia, check you have appropriate [travel insurance](/before-you-go/the-basics/travel-insurance "Travel insurance"). If you plan to travel to ‘Do not travel’ parts of Ethiopia, you'll likely need a specialised insurance policy that covers travel to high-risk destinations.
 
 Your policy needs to cover all overseas medical costs, including medical evacuation. The Australian Government won't pay for these costs.
 
@@ -89,7 +89,7 @@ Waterborne, foodborne and other infectious diseases are also common. These inclu
 * [tuberculosis](https://www.who.int/news-room/fact-sheets/detail/tuberculosis)
 * [brucellosis](https://www.who.int/news-room/fact-sheets/detail/brucellosis)
 * [meningitis](https://www.who.int/emergencies/diseases/meningitis/en/)
-* [COVID-19](https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert?utm_source=health.gov.au&utm_medium=redirect&utm_campaign=digital_transformation&utm_content=health-topics/novel-coronavirus-2019-ncov)
+* [mpox](https://www.cdc.gov.au/topics/mpox-monkeypox) (Australian Government)
 
 Serious outbreaks sometimes occur.
 

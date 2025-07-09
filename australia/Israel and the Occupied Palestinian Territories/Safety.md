@@ -6,9 +6,9 @@
 
 The security situation in Israel and in the region is unpredictable. A ceasefire is currently in place between Israel and Iran. Regional tensions remain high and there continues to be a risk of further military conflict.
 
-We advise do not travel to Israel due to the volatile security situation, armed conflict, civil unrest and terrorism. We continue to advise do not travel to Gaza, border areas with Gaza, border areas with Lebanon, and the West Bank (excluding East Jerusalem) due to the volatile security situation.
+We've reviewed our advice for Israel and the Occupied Palestinian Territories and have lowered the overall travel advice level. We now advise reconsider your need to travel to Israel and the Occupied Palestinian Territories overall due to the volatile security situation, armed conflict, civil unrest and terrorism.  We continue to advise do not travel to Gaza and areas near the border with Gaza, border areas with Lebanon and the West Bank (excluding East Jerusalem).
 
-The security situation could deteriorate at short notice. Flight cancellations and disruptions could occur with little or no notice, including due to airport and airspace closures. If you're in Israel, you should depart when it's safe to do so. Tel Aviv's Ben Gurion International Airport is returning to full operations, with commercial options becoming increasingly available. If you have an existing ticket, contact your travel provider or airline. This may be the fastest way for you to reach your destination.
+The security situation could deteriorate at short notice. Flight cancellations and disruptions could occur with little or no notice, including due to airport and airspace closures.
 
 #### Gaza conflict
 

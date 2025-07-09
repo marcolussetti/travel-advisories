@@ -102,6 +102,8 @@ During periods of unrest:
 
 #### Kidnapping
 
+Kidnapping is a risk across Kenya.
+
 Kidnapping occurs across the world with political, ideological, and criminal motives. Foreigners, including Australians, have been kidnapped overseas while travelling. Kidnaps can happen anywhere, anytime, including destinations that are typically at lower risk.  
   
 Several active terrorist groups have the intent and capability to kidnap foreigners. Armed groups from Somalia have kidnapped aid workers in the Somalia border region. Foreigners and residents have been the target of kidnapping in coastal resorts and towns in the North Eastern region (Mandera, Wajir and Garissa counties), Lamu county and areas within Tana River and Kilifi Counties.

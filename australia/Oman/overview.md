@@ -2,7 +2,7 @@
 
 Latest update
 
-We continue to advise exercise a high degree of caution in Oman due to the regional security situation in the Middle East. Reconsider your need to travel to border areas with Yemen due to the threat of armed conflict and violence.  
+We now advise exercise normal safety precautions in Oman. Higher levels apply in some areas.  
   
 The security situation in the Middle East is unpredictable. If the regional security situation deteriorates again, this may result in airspace closures, flight cancellations and other travel disruptions at short notice (see ‘Safety’). Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests. Monitor local media for updates and follow the advice of authorities.  
   
@@ -12,7 +12,7 @@ Advice Level summary
 
 We advise:
 
-Exercise a high degree of caution in Oman due to the regional security situation in the Middle East.
+Exercise normal safety precaution in Oman overall.
 
 Higher levels apply in some areas.
 
@@ -20,9 +20,9 @@ Higher levels apply in some areas.
 
 [What does this mean?](/before-you-go/travel-advice-explained/)
 
-[Exercise a high degree of caution](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level2) in Oman overall.
+[Exercise normal safety precautions](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level2) in Oman overall.
 
-[Exercise a high degree of caution](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level2) in Oman due to the regional security situation in Middle East.
+[Exercise normal safety precautions](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level2) in Oman overall.
 
 [Reconsider your need to travel](https://smartraveller.gov.au/consular-services/travel-advice-explained#level3) to border areas with Yemen.
 

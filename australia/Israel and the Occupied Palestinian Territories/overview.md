@@ -2,15 +2,15 @@
 
 Latest update
 
-The security situation in Israel and in the region is unpredictable. A ceasefire is currently in place between Israel and Iran. Regional tensions remain high and there continues to be a risk of further military conflict.   
+We've reviewed our advice for Israel and the Occupied Palestinian Territories and have lowered the overall travel advice level. We now advise reconsider your need to travel to Israel and the Occupied Palestinian Territories overall due to the volatile security situation, armed conflict, civil unrest and terrorism.   
   
-The security situation could deteriorate at short notice. Flight cancellations and disruptions could occur with little or no notice, including due to airport and airspace closures. Ben Gurion International Airport is returning to full operations, with commercial options becoming increasingly available. If you have an existing ticket, contact your travel provider or airline. This may be the fastest way for you to reach your destination.   
+We continue to advise do not travel to Gaza and areas near the border with Gaza, border areas with Lebanon and the West Bank (excluding East Jerusalem).   
   
-We continue to advise do not travel to Israel and the Occupied Palestinian Territories due to the volatile security situation, armed conflict, civil unrest and terrorism. If you're in Israel, you should depart when it's safe to do so.  
+The security situation in Israel and in the region is unpredictable. A ceasefire is currently in place between Israel and Iran. Regional tensions remain high and there continues to be a risk of further military conflict. The security situation could deteriorate at short notice. Flight cancellations and disruptions could occur with little or no notice, including due to airport and airspace closures.   
   
 In an attack or other armed conflict, you should take shelter, follow the advice of local authorities and monitor local media and public safety information updates through the National Emergency Portal (accessible in Israel only – see 'Safety').  
   
-If you intend to travel by land into a neighbouring country, you should check the latest public information from local authorities on entry requirements and border arrangements, including opening times. Border crossing points may be closed without notice. Land border crossings to Jordan may open and close at short notice. Before you travel, check for regular opening times (see 'Safety' and land border crossings in 'Travel').  
+If you intend to travel by land into a neighbouring country, you should check the latest public information from local authorities on entry requirements and border arrangements, including opening times. Border crossing points may be closed without notice (see 'Travel').  
   
 Terror attacks can occur anywhere at any time, including by lone actors. Be alert to personal safety risks. There continues to be a very high threat of military and terrorist attacks against Israel and Israeli interests across the region.
 
@@ -18,15 +18,17 @@ Advice Level summary
 
 We now advise:
 
-Do not travel to Israel and the Occupied Palestinian Territories overall due to the volatile security situation, armed conflict, civil unrest and terrorism.
+Reconsider your need to travel to Israel and the Occupied Palestinian Territories overall due to the volatile security situation, armed conflict, civil unrest and terrorism.
+
+Higher levels apply in some areas.
 
 ## Advice levels
 
 [What does this mean?](/before-you-go/travel-advice-explained/)
 
-[Do not travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level4) to Israel and the Occupied Palestinian Territories.
+[Reconsider your need to travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level3) to Israel and the Occupied Palestinian Territories.
 
-[Do not travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level4) to Israel and the Occupied Palestinian Territories due to the volatile security situation, armed conflict, civil unrest and terrorism.
+[Reconsider your need to travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level3) to Israel and the Occupied Palestinian Territories due to the volatile security situation, armed conflict, civil unrest and terrorism.
 
 See [Safety](#safety).
 
@@ -49,10 +51,8 @@ See [Safety](#safety).
 ### Safety
 
 * The security situation in Israel and in the region is unpredictable. A ceasefire is currently in place between Israel and Iran. Regional tensions remain high and there continues to be a risk of further military conflict.
-* The security situation could deteriorate at short notice. Flight cancellations and disruptions could occur with little or no notice, including due to airport and airspace closures. Ben Gurion International Airport is returning to full operations, with commercial options becoming increasingly available. If you have an existing ticket, contact your travel provider or airline. This may be the fastest way for you to reach your destination.
+* The security situation could deteriorate at short notice. Flight cancellations and disruptions could occur with little or no notice, including due to airport and airspace closures.
 * In an attack or other armed conflict, you should take shelter, follow the advice of local authorities and monitor local media and public safety information updates through the [National Emergency Portal](https://www.oref.org.il/en) (accessible in Israel only).
-* If you intend to travel by land into a neighbouring country, you should check the latest public information from local authorities on entry requirements and border arrangements, including opening times. Border crossing points may be closed without notice.
-* Land border crossings to Jordan may open and close at short notice. Before you travel, check for regular opening times on [Jordanian Border Crossings](https://www.accesscoordination.org/CrossingJordanC19%20-%20view.aspx) and also check the latest public information from local authorities in Israel and Jordan to make sure border crossings are open.
 * Terror attacks continue to be a threat to civilians and may be carried out by organised groups or lone actors, including using vehicles or makeshift weapons. Terrorist attacks could happen at any time or anywhere. Always be alert. Have an exit plan.
 * Israel is a target for terrorism, rocket and drone attacks and military confrontation. There are tensions and security risks close to Israel's borders with Lebanon, Syria and Egypt. There are ongoing threats of rocket and drone attacks and military activity. Authorities are monitoring security on Israel’s northern border.
 * Be alert to the risk of Israeli air strikes and land-based IDF operations in the West Bank and Gaza. There continues to be a high threat of military reprisals and terrorist attacks against Israel and Israeli interests across the region. See our general advice on protecting your safety and monitor local media and public safety information updates through the [National Emergency Portal](https://www.oref.org.il/en) (accessible in Israel only). Make sure you have enough essential supplies.
@@ -82,7 +82,7 @@ Full travel advice: [Local laws](#local-laws)
 ### Travel
 
 * From 1 January, all foreign nationals must have either an Electronic Travel Authorisation (ETA-IL) or a visa before arriving in Israel. To check your eligibility and to apply, visit the [ETA-IL website](https://israel-entry.piba.gov.il/) (see '[Travel](https://www.smartraveller.gov.au/destinations/middle-east/israel-and-occupied-palestinian-territories#travel)').
-* Tel Aviv's Ben Gurion International Airport is returning to full operations, with commercial options becoming increasingly available. If you have an existing ticket, contact your travel agent or airline. This may be the fastest way for you to reach your destination. GPS signals may be blocked in parts of Israel, disrupting navigational apps and devices.
+* Tel Aviv's Ben Gurion International Airport is returning to full operations, with commercial options becoming increasingly available. GPS signals may be blocked in parts of Israel, disrupting navigational apps and devices.
 * Land border crossings to Jordan may open and close at short notice. Before you travel, check for regular opening times on [Jordanian Border Crossings](https://www.accesscoordination.org/CrossingJordanC19%20-%20view.aspx) and also check the latest public information from local authorities in Israel and Jordan to make sure border crossings are open. Visas on arrival are available but be prepared for delays when crossing into Jordan.
 * The Rafah crossing between Gaza and Egypt may be closed or have highly restricted access for long periods and is subject to change at short notice. It has been closed for a significant period due to the Gaza conflict and can be subjected to attacks, including air strikes.
 * By law, you're considered Israeli if one or both of your parents are Israeli. Israeli citizens must enter and leave on an Israeli passport. Authorities will consider you a Palestinian national if you currently hold, or used to hold, a Palestinian ID card. You may need to get a Palestinian travel document.

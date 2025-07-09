@@ -2,13 +2,13 @@
 
 Latest update
 
-Some flights between Australia and Bali have been cancelled or postponed due to volcanic ash from Mt Lewotobi Laki-Laki. If your flight is affected, contact your airline and insurance provider for alternative travel and accommodation arrangements (see 'Travel').  
-  
 Australians have drowned in coastal areas, due to rough seas and strong rip currents at popular tourist beaches including in Bali. Many beaches are unpatrolled.  
   
 Before entering Indonesia, ensure you understand your visa conditions and entry and exit requirements. Indonesian authorities have strict standards for damaged passports, and travellers have been refused entry into Indonesia with a damaged passport. Water damage, minor tears or rips to the pages can be considered damaged (see 'Travel').   
   
 If you're travelling to Bali, read the Bali Provincial Government's 'Do's and Don'ts' advice for foreign tourists before you travel (See 'Local Laws'). Offensive behaviour that fails to respect local culture, religion, places of worship, and traditional ceremonies can lead to criminal penalties and/or deportation.   
+  
+There has been recent volcanic activity at Mt Lewotobi Laki-Laki. Flights between Australia and Bali may be affected by ash clouds. Monitor local media for updates and follow the advice of local authorities (see'Safety').  
   
 Drinks may be spiked or mixed with toxic substances. Be alert to the potential risks around drink spiking and methanol poisoning through consuming alcoholic drinks. Don't leave food or drinks unattended. Cases of methanol poisoning in drinks have previously been reported in Indonesia, including in Bali and Lombok (see 'Safety').
 
@@ -40,7 +40,6 @@ See [Safety](#safety).
 
 ### Safety
 
-* Some flights between Australia and Bali have been cancelled or postponed due to volcanic ash from Mt Lewotobi Laki-Laki. If your flight is affected, contact your airline and insurance provider for alternative travel and accommodation arrangements.
 * There's an ongoing risk of terrorist attack in Indonesia. Be alert to possible threats. Take official warnings seriously and follow the advice of local authorities. Popular tourist areas may be the target of terrorist attacks.
 * Public protests and events that draw large groups of people occur regularly and can turn violent with little notice. Expect traffic delays and restricted access to locations if there are protests. Avoid protests and demonstrations and monitor local media for the latest updates.
 * Travel by boat or ferry can be dangerous. Commercial and private boat and ferry operators may not comply with international safety and maintenance standards. Australians have been seriously injured or have died in marine transport incidents.

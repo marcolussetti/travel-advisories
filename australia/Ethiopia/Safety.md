@@ -4,7 +4,7 @@
 
 The security situation in Ethiopia is dynamic and can deteriorate without warning. Travellers should monitor local media and follow the advice of local authorities.
 
-The Amhara militia (Fano) is active in several areas of Amhara Regional State. The risk of civil unrest and armed conflict is higher in some areas, particularly in Amhara, Oromia, Benishangul-Gumuz, and Gambela Regional States, and along international borders, except the border shared with Djibouti. We continue to advise against travel to these areas due to the volatile security situation. 
+The Amhara militia (Fano) is active in several areas of Amhara Regional State. The risk of civil unrest and armed conflict is higher in some areas, particularly in Amhara, Oromia, Benishangul-Gumuz, and Gambela Regional States, and along international borders, except the border shared with Djibouti. We continue to advise against travel to these areas due to the volatile security situation.
 
 Low-level political and ethnic disputes are common across many parts of Ethiopia, including along intra-regional borders. Disputes can turn violent. While foreigners have not been targeted, you should remain alert to the risk.
 
@@ -12,7 +12,7 @@ Security measures, including curfews and movement restrictions, may be implemen
 
 International events and political changes can trigger demonstrations. Public protests and events that draw large groups of people can turn violent. Avoid crowds or protests.
 
-If, despite our advice, you travel to 'Do Not Travel' areas of Ethiopia, you should:
+If, despite our advice, you travel to 'Do not travel' areas of Ethiopia, you should:
 
 * ensure that your travel documents are up to date and readily accessible to you
 * have a contingency plan in place if you need to leave quickly
@@ -68,7 +68,7 @@ Several active terrorist and militia groups have the intent and capability to ki
 
 If despite our advice you travel to an area with a high risk of kidnapping, you should be aware that our ability to provide consular assistance is limited.
 
-You are responsible for your own safety. To reduce the risk of kidnapping: 
+You are responsible for your own safety. To reduce the risk of kidnapping:
 
 * always be alert to your personal security and surroundings - avoid distractions. Be prepared to stop or take evasive action if you sense danger
 
@@ -99,14 +99,14 @@ The Australian Government's longstanding policy is that it doesn't make payments
 **More information:**
 
 * [Kidnapping](/before-you-go/safety/kidnapping "Reducing the risk of kidnapping")
-* [Scams that affect travellers](https://www.smartraveller.gov.au/before-you-go/safety/scams)
-* [Reducing the risk of piracy](https://www.smartraveller.gov.au/before-you-go/safety/piracy)
+* [Scams that affect travellers](/before-you-go/safety/scams "Scams that affect travellers")
+* [Reducing the risk of piracy](/before-you-go/safety/piracy "Reducing the risk of piracy")
 
 #### Border areas
 
-Cross-border violence is common and can occur at any time. 
+Cross-border violence is common and can occur at any time.
 
-Do not travel to the following border areas of Ethiopia due to the risk of terrorism, [kidnapping](https://www.smartraveller.gov.au/before-you-go/safety/kidnapping), armed conflict, violent crime, and landmines:
+Do not travel to the following border areas of Ethiopia due to the risk of terrorism, [kidnapping](/before-you-go/safety/kidnapping "Reducing the risk of kidnapping"), armed conflict, violent crime, and landmines:
 
 * Within 10km of the border with Eritrea
 * Within 20km of the border with Sudan
@@ -146,7 +146,7 @@ Drink spiking can happen anywhere. Be alert to the potential risks, and don't le
 
 **More information:**
 
-* [Partying safely while overseas](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.smartraveller.gov.au%2Fbefore-you-go%2Fsafety%2Fpartying&data=05%7C02%7CMichelle.Lam%40dfat.gov.au%7Cbd0cd565db744527188508dd41a4930d%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638738897282360647%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=8hzP1P0iV92Jm88KsRyu4DlEadlSJN77OY%2FyBZsYuRk%3D&reserved=0)
+* [Partying safely while overseas](/before-you-go/safety/partying "Partying safely")
 
 #### Cyber security
 
@@ -160,7 +160,7 @@ Social media can also be risky in destinations where there are social or politic
 
 #### Climate and natural disasters
 
-Ethiopia experiences [natural disasters](https://www.smartraveller.gov.au/before-you-go/safety/natural-disasters) and [severe weather](https://www.smartraveller.gov.au/while-youre-away/crisis-or-emergency/severe-weather-incident), including drought and flooding.
+Ethiopia experiences [natural disasters](/before-you-go/safety/natural-disasters "Staying safe when there's a natural disaster") and [severe weather](/before-you-go/safety/severe-weather "Severe weather"), including drought and flooding.
 
 Ethiopia is in an active [earthquake](/before-you-go/safety/earthquakes-tsunamis "Earthquakes and tsunamis") and [volcanic zone](/before-you-go/safety/natural-disasters "Staying safe when there's a natural disaster").
 
@@ -184,12 +184,12 @@ Some areas of Ethiopia experience severe flooding. Flash flooding may occur in t
 * water and food supply
 * emergency services.
 
-Travellers should take caution and monitor local media for advice and up-to-date information on weather conditions prior to travel.  
+Travellers should take caution and monitor local media for advice and up-to-date information on weather conditions prior to travel.
 
 #### Earthquakes
 
-There's a risk of earthquakes and volcanic activity in Ethiopia. 
+There's a risk of earthquakes and volcanic activity in Ethiopia.
 
 On 4 January 2025, Ethiopian authorities began evacuating people from Mount Dofan in Awash National Park due to increased volcanic activity.
 
-You should familiarise yourself with safety procedures in the event of an earthquake and follow the advice of local authorities. Visit the Smartraveller page on [Earthquakes](https://www.smartraveller.gov.au/before-you-go/safety/earthquakes-tsunamis) for information on what to do before, during, and after an earthquake.
+You should familiarise yourself with safety procedures in the event of an earthquake and follow the advice of local authorities. Visit the Smartraveller page on [earthquakes](/before-you-go/safety/earthquakes-tsunamis "Earthquakes and tsunamis") for information on what to do before, during, and after an earthquake.

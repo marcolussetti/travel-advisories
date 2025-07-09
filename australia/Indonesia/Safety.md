@@ -399,6 +399,8 @@ Walking and driving in flooded areas can be dangerous. Flood waters may hide unc
 
 #### Volcanoes
 
+There has been recent volcanic activity at Mt Lewotobi Laki-Laki. Flights between Australia and Bali may be affected by ash clouds. Monitor local media and follow the advice of local authorities.
+
 Volcanic activity may escalate with little or no notice, leading to flight disruptions and airport closures, including in surrounding provinces. Contact your airline for the latest flight information.
 
 There are over 120 volcanoes in Indonesia. 76 of them are active volcanoes and could erupt at any time.
