@@ -1,8 +1,8 @@
 ## Embassy contact
 
-We do not have an Embassy in Albania, please contact Embassy of Ireland Greece.
+As Ireland does not have an Embassy or Consulate in Albania, consular assistance is provided via the [**Embassy of Ireland in Athens, Greece**](https://www.ireland.ie/en/greece/athens/).
 
-Where emergency consular assistance is required for Irish citizens outside of opening hours, please leave a message at: +30 210 7232771. This mailbox is monitored regularly. Alternatively, contact the Duty Officer at the Department of Foreign Affairs in Dublin at: +353 1 478 0822.
+Where emergency consular assistance is required for Irish citizens outside of opening hours, please leave a message at: +30 210 7232771. This mailbox is monitored regularly. Alternatively, contact the Duty Officer at the Department of Foreign Affairs and Trade in Dublin at: +353 1 478 0822.
 
 ### Embassy of Ireland, Greece
 

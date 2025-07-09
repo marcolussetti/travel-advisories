@@ -3,29 +3,29 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Barbados/Overview.md"
+            "title": "Travel to Barbados overview",
+            "file": "ireland/Barbados/Travel to Barbados overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Barbados/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Barbados/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Barbados/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Barbados/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/Barbados/Local laws and customs.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/Barbados/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Barbados/Embassy contact.md"
         }
     ],
-    "update_date": "2025-06-04T00:00:00"
+    "update_date": "2025-07-08T00:00:00"
 }

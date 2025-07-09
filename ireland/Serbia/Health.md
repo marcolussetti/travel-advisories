@@ -2,7 +2,7 @@
 
 Get medical advice before travelling and make sure that you have any vaccinations needed for Serbia and purchase comprehensive travel insurance which covers all intended activities.
 
-### **Medical facilities**
+### **Medical Facilities**
 
 The level of medical care in Serbia is not comparable to that in Western Europe. Doctors and hospitals will often expect immediate payment, in cash, for health services so if you have been referred to a medical facility for treatment, contact your insurance/medical assistance company as soon as possible.
 
@@ -16,7 +16,7 @@ Buying comprehensive travel insurance can save a lot of money if something goes 
 
 Not all policies are the same, and the cheapest one might be cheap for a reason. Make sure your policy covers all planned activities. [**Insurance Ireland recommend**](http://www.insuranceireland.eu/consumer-information/general-non-life-insurance/travel) purchasing a policy that provides a minimum medical cover of €1 million.
 
-### **Emergency expenses**
+### **Emergency Expenses**
 
 Policies should cover:
 
@@ -30,12 +30,12 @@ Policies should cover:
 
 Exclusions: Most insurance policies will not cover drink or drug-related incidents.
 
-### **Animal-borne disease**
+### **Animal-borne Disease**
 
 Cases of rabid foxes and dogs have been reported in Serbia, usually in parks and the outskirts of major cities, including in areas which had been rabies-free for decades. Be wary of, and try to avoid contact with, stray dogs. If bitten, get medical help as soon as possible.
 
 There is also a risk of exposure to tick-borne encephalitis in forested areas so take precautions to avoid tick bites.
 
-### **Mosquito-borne diseases**
+### **Mosquito-borne Diseases**
 
 Mosquito-borne diseases, including West Nile disease can be a problem in Serbia. Take precautions by getting up-to-date medical advice before travel as to whether you will need anti-malarial medication. When you arrive, avoid being bitten by mosquitoes by using bed nets and repellents, and wearing closed shoes, long sleeves and trousers.

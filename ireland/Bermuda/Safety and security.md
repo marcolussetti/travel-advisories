@@ -11,6 +11,6 @@ Crime remains relatively low in Bermuda but there is a moderate level of petty t
 * Keep a close eye on your personal belongings and hold on to them in public places such as internet cafés, train and bus stations.
 * Be careful when wandering after dark or visiting remote or isolated locations
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If you’re a victim of a crime while in Bermuda, report it to the local police immediately. And you can contact the [**Honorary Consul in Hamilton**](/en/dfa/embassies/) if you need help.

@@ -6,10 +6,6 @@ Normal Precautions
 
 ### Travel Alert
 
-The widespread electricity outages across Portugal on Monday 28 April have now been resolved. Some disruption to services, including transport services, remains. We recommend following the advice and instructions of the local authorities at all times and consulting with your travel provider before travelling
-
-If you are in need of emergency consular assistance, please contact DFAT [+353 1 408 2527](tel:+353 1 408 2527).
-
 Wildfires are common in Portugal, particularly during the summer. You should familiarise yourself with [**wildfire safety advice**](https://www.ipma.pt/en/riscoincendio/rcm.pt/) and always follow the safety instructions of the local authorities.
 
 For more information, please see the Safety and Security tab.

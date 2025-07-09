@@ -34,7 +34,7 @@ Most visits to Serbia are trouble-free but be careful of street crime, such as m
 * Four-wheel-drive and luxury vehicles are a popular target for criminals.
 * Isolated incidents of armed violence in major cities are a problem; however, these are usually linked to organised crime and not directed against foreigners.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If a victim of a crime while in Serbia, report it to the local police immediately and get a report. Citizens can also contact the Honorary Consul of Ireland in Belgrade if assistance is required.
 
@@ -49,15 +49,15 @@ If driving:
 * Driving with dipped headlights is compulsory during the day
 * Check local developments before starting your journey particularly if you plan to cross a land border with Kosovo
 
-### **Vehicle documentation**
+### **Vehicle Documentation**
 
 Visitors could be refused entry into Serbia if they cannot show proof that they own or have hired the vehicle so bring your V5 logbook or hire agreement and a locally valid insurance policy so you can present them to the authorities. European green card vehicle insurance is valid in Serbia but is no longer required. The green card annotation for Serbia is ‘SRB’.
 
-### **Road tolls**
+### **Road Tolls**
 
 There are several tollbooths along Serbia’s motorways. Tolls will depend on the size of vehicles and visitors should have at least €200 in cash for toll charges.
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If hiring a vehicle, we advise not to hand over your passport as a form of security. If you are allowing your passport to be photocopied, keep it in sight at all times.
 

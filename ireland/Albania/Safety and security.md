@@ -13,7 +13,7 @@ Crime remains relatively low in Albania but you should take sensible precautions
 * Avoid dark and unlit streets and stairways, and arrange to be picked up or dropped off as close to your hotel or apartment entrance as possible.
 * Be aware that ownership of firearms is widespread in Albania.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If a victim of a crime while in Albania, report it to the local police immediately. Please contact us at the Irish Embassy in Athens if help is needed.
 
@@ -30,7 +30,7 @@ If driving:
 * Be aware that drivers with foreign licensed vehicles draw particular scrutiny from the Road Traffic Police.
 * Be aware that many parts of Albania are very mountainous, and there can be heavy snowfall in winter. Cars should have adequate winter tyres, and drivers should be aware that some roads may be impassable during winter months. Public transport may also be disrupted.
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If hiring a vehicle, we advise not to hand over your passport as a form of security. If allowing your passport to be photocopied, keep it in sight at all times.
 

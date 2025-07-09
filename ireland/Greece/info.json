@@ -3,25 +3,33 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Greece/Overview.md"
+            "title": "Travel to Greece overview",
+            "file": "ireland/Greece/Travel to Greece overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Greece/Safety and security.md"
         },
         {
+            "title": "Health",
+            "file": "ireland/Greece/Health.md"
+        },
+        {
             "title": "Local laws and customs",
             "file": "ireland/Greece/Local laws and customs.md"
         },
         {
-            "title": "Health",
-            "file": "ireland/Greece/Health.md"
+            "title": "Natural disasters and climate",
+            "file": "ireland/Greece/Natural disasters and climate.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/Greece/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Greece/Embassy contact.md"
         }
     ],
-    "update_date": "2025-06-30T00:00:00"
+    "update_date": "2025-07-08T00:00:00"
 }

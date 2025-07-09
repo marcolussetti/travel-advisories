@@ -13,7 +13,7 @@ Crime remains relatively low but you should take sensible precautions:
 * Avoid dark and unlit streets and stairways, and arrange to be picked up or dropped off as close to your hotel or apartment entrance as possible.
 * Lock doors and windows at night.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If you’re a victim of a crime, report it to the local police immediately. And you can contact us at the [**Irish Embassy in Washington DC**](/en/usa/washington/contact/) if you need help.
 
@@ -24,6 +24,6 @@ If you’re planning to drive in Anguilla, be careful and take these simple prec
 * Bring your full Irish and international driving license and make sure you have adequate and appropriate insurance
 * Keep your vehicle doors locked and your bags kept out of sight to prevent opportunistic bag-snatching if you’re stopped at traffic lights
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If you’re hiring a vehicle, do not to hand over your passport as a form of security. If you’re allowing your passport to be photocopied, keep it in your sight at all times.

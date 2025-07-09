@@ -8,7 +8,7 @@ Buying comprehensive travel insurance can save a lot of money if something goes 
 
 Not all policies are the same, and the cheapest one might be cheap for a reason. Make sure the policy covers all planned activities. [**Insurance Ireland recommend**](http://www.insuranceireland.eu/consumer-information/general-non-life-insurance/travel) that you purchase a policy that provides a minimum medical cover of €1 million.
 
-### **Emergency expenses**
+### **Emergency Expenses**
 
 Policies should cover:
 
@@ -26,7 +26,7 @@ Exclusions: Most insurance policies will not cover drink or drug-related inciden
 
 Check with a doctor a minimum of eight weeks in advance of travelling to see if any vaccinations for Albania are required.
 
-### **Medical facilities**
+### **Medical Facilities**
 
 The level of medical care is not comparable to that in Western Europe, and medical and dental facilities (including those for accident and emergency use) are very poor, particularly outside Tirana. It is recommended to take out comprehensive insurance before travelling to Albania, to ensure access to private health care, air ambulance evacuation and repatriation if necessary.
 
@@ -34,7 +34,7 @@ The level of medical care is not comparable to that in Western Europe, and medic
 
 There are high levels of Hepatitis in Albania. Learn more about Hepatitis on the [**HSE’s website**](https://www2.hse.ie/conditions/hepatitis/).
 
-### **Tick-borne encephalitis**
+### **Tick-borne Encephalitis**
 
 Cases of tick-borne encephalitis have been reported in North Albania. A vaccination against tick-borne encephalitis is available if planning to travel to this area. As an additional precaution, keep all areas of your body covered when close to shrubs or bushes, and inspect yourself regularly for ticks.
 
