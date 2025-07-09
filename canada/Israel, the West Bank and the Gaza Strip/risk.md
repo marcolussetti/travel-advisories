@@ -4,7 +4,7 @@
 
 ### ISRAEL - AVOID ALL TRAVEL
 
-[Avoid all travel](#levels "Risk Levels") to to Israel due to ongoing tensions in the region.
+[Avoid all travel](#levels "Risk Levels") to Israel due to ongoing tensions in the region.
 
 The security situation can deteriorate rapidly.
 
