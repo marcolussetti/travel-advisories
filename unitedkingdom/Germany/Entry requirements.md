@@ -61,6 +61,10 @@ A temporary reintroduction of border controls is currently in place at Germanyâ€
 
 See information from [The Federal Ministry of the Interior and Community](https://www.bmi.bund.de/SharedDocs/pressemitteilungen/EN/2024/09/binnengrenzkontrollen_en.html).
 
+## Checkpoints on the Germany/Poland border
+
+Poland has introduced border checks on the Germany/Poland border. Vehicles may be stopped and documentation checked. For further information see [Poland Travel Advice](https://www.gov.uk/foreign-travel-advice/poland).
+
 ## Vaccine requirements
 
 For details about medical entry requirements and recommended vaccinations, see [TravelHealthProâ€™s Germany guide](https://travelhealthpro.org.uk/country/88/germany#Vaccine_Recommendations).

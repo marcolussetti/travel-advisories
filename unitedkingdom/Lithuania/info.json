@@ -1,11 +1,11 @@
 {
     "name": "Lithuania",
-    "update_reason": "Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through airports ('Safety and security' page).",
+    "update_reason": "Information on the checkpoints introduced on the Lithuania-Poland border ('Entry requirements' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Lithuania/Warnings and insurance.md",
-            "update_date": "2025-06-04T17:11:06+01:00"
+            "update_date": "2025-07-08T14:59:36+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Lithuania/Getting help.md"
         }
     ],
-    "update_date": "2025-06-04T17:11:06+01:00"
+    "update_date": "2025-07-08T14:59:36+01:00"
 }

@@ -1,11 +1,11 @@
 {
     "name": "Kosovo",
-    "update_reason": "Information about the temporary closure of the Hani i Elezit / Blace border crossing between Kosovo and North Macedonia (Summary Page)",
+    "update_reason": "Removal of information about the temporary closure of the Hani i Elezit / Blace border crossing between Kosovo and North Macedonia.",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Kosovo/Warnings and insurance.md",
-            "update_date": "2025-07-07T22:37:29+01:00"
+            "update_date": "2025-07-08T12:50:18+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Kosovo/Getting help.md"
         }
     ],
-    "update_date": "2025-07-07T22:37:29+01:00"
+    "update_date": "2025-07-08T12:50:18+01:00"
 }

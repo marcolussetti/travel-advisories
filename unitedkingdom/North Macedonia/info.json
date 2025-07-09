@@ -1,11 +1,11 @@
 {
     "name": "North Macedonia",
-    "update_reason": "Information about a widlfire which has closed the Blace - Hani I Elezit border crossing (Summary Page)",
+    "update_reason": "Removal of information about a widlfire which has closed the Blace - Hani I Elezit border crossing.",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/North Macedonia/Warnings and insurance.md",
-            "update_date": "2025-07-07T22:13:23+01:00"
+            "update_date": "2025-07-08T12:51:41+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/North Macedonia/Getting help.md"
         }
     ],
-    "update_date": "2025-07-07T22:13:23+01:00"
+    "update_date": "2025-07-08T12:51:41+01:00"
 }

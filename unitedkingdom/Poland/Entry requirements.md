@@ -81,7 +81,7 @@ You should check the [Polish Border Guards guidance](https://www.strazgraniczna
 
 ### Other Polish borders
 
-Border checkpoints may close or impose restrictions at short notice and other disruption is possible. Check the [Polish Border Guards guidance](https://www.strazgraniczna.pl/) (in Polish) and follow the instructions of the Polish authorities if you are in these areas.
+From 7 July 2025, Polish border guards will implement controls at the German and Lithuanian borders for entry into Poland. Border checkpoints may close or impose restrictions at short notice and other disruption is possible. Check the [Polish Border Guards guidance](https://www.strazgraniczna.pl/) (in Polish) and follow the instructions of the Polish authorities if you are in these areas.
 
 ## Border controls at Germany’s land borders
 

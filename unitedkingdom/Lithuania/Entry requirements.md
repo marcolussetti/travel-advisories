@@ -63,6 +63,10 @@ British nationals can travel to Lithuania from Belarus or Russia by bus. Restri
 
 For more information, see the [Lithuanian Customs Service website](https://lrmuitine.lt/web/guest/naujienos/aktualijos/aktualija?p_p_id=EXT_WPLISTALLNEWS&p_p_lifecycle=0&_EXT_WPLISTALLNEWS_obj_id=090004d2801f1006#en), and read FCDO’s [Russia travel advice](https://www.gov.uk/foreign-travel-advice/russia/returning-to-the-uk) or [Belarus travel advice](https://www.gov.uk/foreign-travel-advice/belarus).
 
+## Checkpoints on the Lithuania/Poland Border
+
+Poland has reintroduced border checks on the Lithuania/Poland border. Vehicles may be stopped and documentation checked. For further information see [Poland Travel Advice](https://www.gov.uk/foreign-travel-advice/poland).
+
 ## Vaccine requirements
 
 For details about medical entry requirements and recommended vaccinations, see [TravelHealthPro’s Lithuania guide](https://travelhealthpro.org.uk/country/131/lithuania#Vaccine_Recommendations).

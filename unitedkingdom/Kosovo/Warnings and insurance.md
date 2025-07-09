@@ -1,22 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   8 July 2025
+:   9 July 2025
 
 Updated:
-:   7 July 2025
+:   8 July 2025
 
 Latest update:
-:   Information about the temporary closure of the Hani i Elezit / Blace border crossing between Kosovo and North Macedonia (Summary Page)
+:   Removal of information about the temporary closure of the Hani i Elezit / Blace border crossing between Kosovo and North Macedonia.
 
 ![](https://assets.publishing.service.gov.uk/media/66d031530b53069322597c76/FCDO__TA__052_-_Kosovo_Travel_Advice_Ed2__WEB_.jpg)
 
 
 [Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/66d03153a7256f1cd83a8a3b/FCDO__TA__052_-_Kosovo_Travel_Advice_Ed2.pdf)
-
-## Temporary closure of the Hani i Elezit / Blace border crossing between Kosovo and North Macedonia
-
-Authorities in North Macedonia have announced the temporary closure of the Hani i Elezit / Blace border crossing between Kosovo and North Macedonia due to a wildfire on the Macedonian side. Please avoid this crossing and use alternative routes, and follow the advice of local authorities.
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 

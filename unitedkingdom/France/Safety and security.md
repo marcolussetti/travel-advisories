@@ -34,8 +34,6 @@ French authorities regularly report that they have disrupted planned attacks and
 
 There can be frequent industrial action across France. This can lead to disruption and delays on roads and public transport. If you’re due to travel to or within France, monitor the media, check your operator’s advice and follow the advice of the authorities.
 
-On 3 and 4 July, planned industrial action by air traffic control unions is expected to disrupt flights to and from airports across France.
-
 Check your operator’s advice before travelling, including where you are taking connecting flights.
 
 ### Demonstrations
@@ -191,6 +189,8 @@ Burglaries can happen while you are asleep in your vehicle. Take sensible precau
 Find out what you can do to [prepare for and respond to extreme weather and natural hazards](https://www.gov.uk/guidance/tropical-cyclones).
 
 ### Wildfires
+
+Marseille Airport is currently closed due to wildfires in the area. It may reopen later today, but you should contact your operator for the latest information.
 
 Wildfires can start anywhere in France during the summer months, particularly along the Mediterranean coast and in Corsica.
 
