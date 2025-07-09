@@ -16,7 +16,7 @@ Furthermore, some laws are also prosecutable in the United States, regardless of
 
 **Disaster Preparedness:** Preparing for natural disasters is crucial in El Salvador. The country has 21 active volcanoes and frequent earthquakes. During the rainy season, severe flooding and mudslides often occur.
 
-Find information about natural disaster preparedness on the [U.S. Federal Emergency Management Agency (FEMA)](https://www.fema.gov/) website. Find information in Spanish about earthquakes (sismos) and other natural disasters in El Salvador on the [Government of El Salvador’s web page](http://www.snet.gob.sv). Learn more on our [webpage about crisis and disaster preparedness](https://travel.state.gov/content/travel/en/international-travel/before-you-go/crisis_and_disaster_abroad_be_ready.html).
+Find information about natural disaster preparedness on the [U.S. Federal Emergency Management Agency (FEMA)](https://www.fema.gov/) website. Find information in Spanish about earthquakes (sismos) and other natural disasters in El Salvador on the [Government of El Salvador’s web page](http://www.snet.gob.sv/). Learn more on our [webpage about crisis and disaster preparedness](https://travel.state.gov/content/travel/en/international-travel/before-you-go/crisis_and_disaster_abroad_be_ready.html).
 
 **Women Travelers:** See our travel tips for [Women Travelers](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/women-travelers.html).
 

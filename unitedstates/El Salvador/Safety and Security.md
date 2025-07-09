@@ -2,14 +2,14 @@
 
 [#### Safety and Security](javascript:void(0); "Safety and Security")
 
-The crime threat level in El Salvador is high and our [Travel Advisory](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/ElSalvador.html "El Salvador Travel Advisory") warns U.S. citizens to exercise increased caution due to crime. See below for additional information on crime.
+The crime threat level in El Salvador is high. See below for additional information on crime.
 
 Dial 911 for emergency assistance in El Salvador. **Demonstrations** occur anywhere, and are most common near the capital of San Salvador. They may take place in response to political or economic issues. They may also occur on politically significant holidays and during international events.
 
 * Demonstrations can be unpredictable, avoid areas around protests and demonstrations.
 * Check local media for updates and traffic advisories.
 
-**Crime:** Crimes in El Salvador include robbery, car theft, sexual assault, and other crimes.
+**Crime:** Crimes in El Salvador include robbery, car theft, sexual assault, and other crimes.
 
 In the past, gangs, primarily Mara Salvatrucha (MS-13) and 18th Street (M18) or sub factions of each, controlled a majority of the space in El Salvador and were the source of many crimes including extortion. Since 2022, the Government of El Salvador has severely disrupted gang-related activities. This has led to a significant reduction in crime throughout the country. While levels have dropped, crime, including violent crime, still occurs.
 
@@ -49,7 +49,7 @@ We can:
 * Assist you in reporting a crime to police
 * Contact relatives or friends with your written consent
 * Provide general information regarding the victim’s role during the local investigation and following its conclusion
-* Provide a list of local attorneys. We do not endorse or recommend any specific attorneys.
+* Provide a list of local attorneys.  We do not endorse or recommend any specific attorneys.
 * Provide information on [victim’s compensation programs in the U.S.](https://travel.state.gov/content/travel/en/international-travel/emergencies/crime.html)
 * Provide an emergency loan for repatriation to the United States and/or limited medical support in cases of destitution
 * Help you find accommodation and arrange flights home
