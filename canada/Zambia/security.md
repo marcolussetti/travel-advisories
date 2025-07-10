@@ -2,6 +2,21 @@
 
 ## Safety and security
 
+### Contamination of Kafue River
+
+In February 2025, a large volume of contaminated mining wastewater was discharged into the Mwambashi Stream, which flows into the Kafue River.
+
+The spill introduced high levels of pollutants, including chemicals and heavy metals, into the water. This has caused severe environmental damage and poses serious risks to public health.
+
+You should avoid the affected area.
+
+If you must travel to the affected area:
+
+* follow local public health and environmental guidance regarding water safety and food
+* only use water that is known to be safe for drinking, bathing, or cooking. Boiling water doesn’t remove heavy metals
+* don’t eat fish that may have been caught in or passed through the affected area. Check local fish advisories for the latest food safety information
+* talk to your health care provider if you're worried about any symptoms you may have
+
 ### Areas bordering Angola, the Democratic Republic of Congo, Mozambique
 
 Despite Zambia being declared a landmine-free country in 2009, there may still be landmines and unexploded ordinance in areas bordering Angola, Democratic Republic of Congo (DRC) and Mozambique.

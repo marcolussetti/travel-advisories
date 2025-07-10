@@ -22,6 +22,20 @@ During the state of emergency:
 
 More information on [state of emergency](#Emergencies)
 
+### Demonstrations and roadblocks
+
+Demonstrations and roadblocks are ongoing in the regions of La Libertad, Cusco, Ica and Arequipa.
+
+Certain main roads, including sections of the Pan-American Highway, are affected. Some interregional bus services have temporarily suspended operations.
+
+If you are in an affected region:
+
+* do not attempt to cross roadblocks
+* stay informed by local authorities and official sources
+* consult the road status on the Peruvian government’s official platform
+
+[Real-time road status](https://gis.sutran.gob.pe/alerta_sutran/) – Government of Peru (in Spanish only)
+
 ### Demonstrations and strikes
 
 Demonstrations and strikes take place regularly throughout the country. Strikes can complicate travel and disrupt public transport and services, including your ability to travel to or leave isolated tourist destinations such as Machu Picchu. They could also lead to border closures with Bolivia. Protestors may also block rivers essential for transportation in some remote regions, including the Manu region of Madre de Dios and Iquitos region. This may result in the temporary detainment of tourists.

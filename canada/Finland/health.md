@@ -192,19 +192,24 @@ To lower your risk of getting sexually transmissible infections (STIs), HIV, and
 
 Health care is excellent. Service is available throughout the country.
 
-### Medications
-
-Finnish customs prohibit shipments of medications from abroad. Local physicians may be reluctant to prescribe equivalent quantities or dosages.
-
-* Make sure you have a sufficient supply of your prescription medication for the duration of your stay
-* Be aware of the types and quantities of medication you are allowed to bring with you
-
 Make sure you get travel insurance that includes coverage for medical evacuation and hospital stays.
 
-#### Useful links
+[Health and safety outside Canada](https://travel.gc.ca/travelling/health-safety)
 
-* [Health and safety outside Canada](https://travel.gc.ca/travelling/health-safety)
-* [Travelling with medicines](https://tulli.fi/en/private-persons/importrestrictions/medicines) - Finnish customs authority
+### Medications
+
+Some prescription medications may not be available in Finland.
+
+If you take prescription medications, you’re responsible for determining their legality in Finland.
+
+You can bring a 90-day supply of most personal prescription drugs.
+
+For prescribed narcotics, you may only bring a 14-day supply, accompanied by a medical certificate explaining their necessity.
+
+* Always keep your medication in the original container and carry a copy of your prescriptions
+* Pack your medication in your carry-on luggage
+
+[Travelling with medicines](https://tulli.fi/en/private-persons/importrestrictions/medicines) - Finnish customs authority
 
 ### Keep in Mind...
 

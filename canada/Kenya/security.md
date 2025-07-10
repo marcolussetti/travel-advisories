@@ -4,7 +4,7 @@
 
 ### Demonstrations across Kenya
 
-Demonstrations are scheduled to take place in Nairobi across Kenya on July 7, 2025. Gatherings and demonstrations may also occur before or after this date.
+Demonstrations have been taking place in Nairobi and across Kenya.
 
 Recent demonstrations have been violent, with incidents of looting and shootings resulting in casualties.
 

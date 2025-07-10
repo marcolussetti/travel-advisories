@@ -14,20 +14,9 @@ This process can take a long time, and there is no guarantee that the transfer w
 
 ### Drugs
 
-Penalties for possession, use or trafficking of illegal drugs are severe. Convicted offenders can expect prison sentences and a heavy fine.
+Penalties for possession, use or trafficking of illegal drugs are severe. Convicted offenders can expect prison sentences and heavy fines.
 
 [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
-
-### Prescription medication
-
-You can bring a 90-day supply of most personal prescription drugs with a formal doctor’s note.
-
-For prescribed narcotics, you may only bring a 14-day supply, accompanied by a medical certificate explaining their necessity.
-
-* Keep prescription medications in their original container
-* Carry your original prescription readily available for inspection by customs officials
-
-[Travelling with medicines](https://tulli.fi/en/private-persons/importrestrictions/medicines) - Finnish customs authority
 
 ### Dual citizenship
 
@@ -69,10 +58,9 @@ You must be at least 18 years of age to drive a car in Finland.
 
 Low-beam headlights are required. Winter tires are mandatory between November 1 and March 31.
 
-You should carry an international driving permit.
+[More information about driving in Finland](http://ec.europa.eu/transport/road_safety/going_abroad/index_en.htm) - European Commission
 
-* [More information about driving in Finland](http://ec.europa.eu/transport/road_safety/going_abroad/index_en.htm) - European Commission
-* [Learn about the international driving permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
+
 
 ### Money
 

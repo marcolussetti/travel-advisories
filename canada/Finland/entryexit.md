@@ -21,20 +21,22 @@ If you plan to stay in the Schengen area for a longer period of time, you will n
 
 ### Border crossings with Russia
 
-Finnish authorities have closed all land border crossings with Russia. Since April 15, 2024, maritime border crossing points at Haapasaari, the port of Nuijamaa, and Santio are closed to personal watercraft.
+Finnish authorities have closed all land border crossings with Russia.
+
+Maritime border crossing points at Haapasaari, the port of Nuijamaa, and Santio are closed to personal watercraft.
 
 #### Useful links
 
-* [New measures at the eastern border](https://intermin.fi/en/-/finland-to-continue-restrictions-at-eastern-border-to-manage-the-situation-government-prepared-to-take-further-measures) – Finnish Ministry of the Interior
+* [Situation at the eastern border](https://intermin.fi/en/current-issues/situation-at-the-eastern-border)– Finnish Ministry of the Interior
 * [Contact information and hours of operation](https://raja.fi/en/contact-information) – Finnish Border Guard
 
 ### Vehicles with Russian license plates
 
-Since September 2023, Finland has enforced an entry ban on vehicles registered in Russia. This restriction is currently in place at the border and reflects existing European Union sanctions against the Russian Federation.
+Finland enforces an EU entry ban on vehicles registered with Russian license plates.
 
-Vehicles registered in Russia carrying Russian license plates will be refused entry into Finland.
+Certain exceptions apply. You should verify with the Finnish authorities before you attempt to cross the border in a private vehicle registered in Russia.
 
-[Restrictions on import of vehicles registered in Russia](https://um.fi/current-affairs/article/-/asset_publisher/iYk2EknIlmNL/content/rajoituksia-venajalle-rekisteroityjen-autojen-tuontiin) - Ministry for Foreign Affairs
+[Restrictions on import of vehicles registered in Russia](https://um.fi/current-affairs/article/-/asset_publisher/iYk2EknIlmNL/content/rajoituksia-venajalle-rekisteroityjen-autojen-tuontiin) - Ministry for Foreign Affairs
 
 ### Passport
 
