@@ -107,6 +107,20 @@ Criticising the Thai monarchy (‘lèse-majesté’) is illegal. The law can be 
 
 Posting images of people drinking alcohol or wearing clothing considered inappropriate can be illegal. Both the person who uploaded the images and the people in them could be fined or imprisoned.
 
+### Buying property in Thailand
+
+Buying property in Thailand is not straightforward. Make sure you understand local laws and consult a lawyer before making financial commitments. British people have been victims of property scams.
+
+### Drones
+
+It is illegal to fly a drone in Thailand if it is not registered. You must [register your drone](https://anyregis.nbtc.go.th/home_member/) with Thailand’s National Broadcasting and Telecommunications Commission (NBTC) within 30 days of entering Thailand or purchasing a drone in Thailand even if you do not intend to fly it.
+
+The regulations apply to all drones, including those for recreational use. The fine for an unregistered drone with the NBTC is 100,000 baht or five years imprisonment or both.
+
+### Gambling – playing cards
+
+Thailand has strict laws on gambling. Under the Playing Cards Act (1943) it is illegal to carry over one hundred and twenty playing cards. Violation of the Act could lead to prosecution, a fine, or even imprisonment.
+
 ### Personal ID
 
 Police may ask to check your passport. If you do not have it with you, you could be asked to produce it within 24 hours at a police station. Usually, a copy of the photo page of your passport will be sufficient.
@@ -149,10 +163,6 @@ Thailand is generally a safe place for LGBT+ travellers. Thailand legalised same
 ### Wildlife, animal products and souvenirs
 
 It’s illegal to buy, sell, kill or capture any protected wild animal or trade its parts without a licence.
-
-### Buying property in Thailand
-
-Buying property in Thailand is not straightforward. Make sure you understand local laws and consult a lawyer before making financial commitments. British people have been victims of property scams.
 
 ## Outdoor activities and adventure tourism
 

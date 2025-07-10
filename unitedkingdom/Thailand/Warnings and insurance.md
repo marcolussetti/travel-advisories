@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   28 June 2025
+:   10 July 2025
 
 Updated:
-:   27 June 2025
+:   9 July 2025
 
 Latest update:
-:   Updated information on the risk of terrorism in Thailand (see ‘Terrorism in Thailand’ on the ‘Safety and security’ page).
+:   New information on the legal status of drones and playing cards (See 'Laws and cultural differences' on the 'Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/6164105ce90e07198018f873/FCDO__TA__040_-_Thailand_Travel_Advice_Ed2__WEB_.jpg)
 

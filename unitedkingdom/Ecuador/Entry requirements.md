@@ -97,7 +97,12 @@ For full details about medical entry requirements and recommended vaccinations, 
 
 ## Customs rules
 
-There are strict rules about [goods you can take into or out of Ecuador via air](https://www.aduana.gob.ec/viajeros-por-via-aerea/) and [via land](https://www.aduana.gob.ec/viajeros-por-via-terrestre/). You must declare anything that may be prohibited or subject to tax or duty.
+From 29 July, every adult passenger or family group travelling to or from Ecuador carrying taxable goods or cash equal to or higher than 10,000 US dollars must:
+
+* [register online](https://www.aduana.gob.ec/servicio-al-ciudadano/formulario-de-registro-aduanero/login/)
+* complete the form, and present the digital version (QR code) to customs on arrival/departure (airports, land borders, ports)
+
+This form must be completed at least three days before travelling. Failure to declare goods can lead to fines, confiscation of goods or criminal charges.
 
 ## Taking money out of Ecuador
 

@@ -1,10 +1,10 @@
 # Warnings and insurance
 
 Still current at:
-:   9 July 2025
+:   10 July 2025
 
 Updated:
-:   8 July 2025
+:   9 July 2025
 
 Latest update:
 :   Updated information on potential travel disruption due to wildfires closing Marseille Airport on 8 July ('Safety and security' page).

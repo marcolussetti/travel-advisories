@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   28 June 2025
+:   10 July 2025
 
 Updated:
-:   27 June 2025
+:   9 July 2025
 
 Latest update:
-:   Updated information about regional risks (see “Safety and Security ” page)
+:   Updated with information about the risks from terrorism and updated information about entry from Israel and Sudan (‘Safety and security’ and ‘Entry requirements’ pages).
 
 ![](https://assets.publishing.service.gov.uk/media/670e278f30536cb92748313c/FCDO__TA__015_-_Egypt_Travel_Advice_Ed10__WEB_.jpg)
 
@@ -67,12 +67,6 @@ International borders in Israel and the Occupied Palestinian Territories (OPTs) 
 The Rafah border crossing is currently closed. When re-opened, Israel, Egypt and the authorities in Gaza may determine procedures for who is permitted to cross and when.
 
 If you are a British national in Gaza who wants to leave Gaza, see [Israel travel advice](https://www.gov.uk/foreign-travel-advice/israel#travelling-to-egypt-from-gaza) and [OPTs travel advice](https://www.gov.uk/foreign-travel-advice/the-occupied-palestinian-territories#travelling-to-egypt-from-gaza).
-
-Humanitarian aid workers cannot enter or exit Gaza through Egypt at this time.
-
-### Sending aid to Gaza from Egypt
-
-The Egyptian authorities have said all aid to Gaza must go through the [Egyptian Red Crescent](https://egyptianrc.org/). Standard operating procedures can be found on the [Logistics Cluster](https://logcluster.org/en/document/palestine-egypt-standard-operating-procedures-egyptian-red-crescent-erc-january-2024) website. The authorities are unlikely to consider requests for humanitarian access made in Egypt at short notice.
 
 ### Concern for friends and family
 

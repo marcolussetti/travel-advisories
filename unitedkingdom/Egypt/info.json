@@ -1,11 +1,11 @@
 {
     "name": "Egypt",
-    "update_reason": "Updated information about regional risks (see \u201cSafety and Security \u201d page)",
+    "update_reason": "Updated with information about the risks from terrorism and updated information about entry from Israel and Sudan (\u2018Safety and security\u2019 and \u2018Entry requirements\u2019 pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Egypt/Warnings and insurance.md",
-            "update_date": "2025-06-27T20:09:56+01:00"
+            "update_date": "2025-07-09T09:25:40+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Egypt/Getting help.md"
         }
     ],
-    "update_date": "2025-06-27T20:09:56+01:00"
+    "update_date": "2025-07-09T09:25:40+01:00"
 }

@@ -10,63 +10,46 @@ UK Counter Terrorism Policing has information and advice on [staying safe abroa
 
 ### Terrorism in Egypt
 
-Terrorists are very likely to try to carry out attacks in Egypt.
+Terrorists are likely to try to carry out attacks in Egypt.
 
-Terrorism is a risk across Egypt, particularly in North Sinai. Attacks could be indiscriminate. Targets might include:
+Terrorist attacks could be indiscriminate including in places visited by foreign nationals. Stay aware of your surroundings, keep up to date with local media reports and follow the advice of local authorities. Be vigilant in crowds and large gatherings.
+
+Targets might include:
 
 * Egyptian security forces
 * religious sites
 * large public gatherings
 * places visited by foreign nationals
 
-The authorities in Egypt have a significant security presence across the country, including armed security officers at important sites, critical infrastructure and road checkpoints. Extra measures are in place at tourist sites.
+The authorities in Egypt have a significant security presence across the country. Extra measures are in place at tourist sites.
 
-Recent attacks include:
+Examples of recent attacks include:
 
-* in 2022, an attack to the west of the Suez Canal targeting security forces within the city of Ismailiyah
-* in 2019, at least 20 people killed by a car bomb in Central Cairo’s Manial district
-* in 2019, at least 16 people injured after an IED attack on a tourist bus near the Giza pyramids
-* in 2019, 3 security personnel killed by a suicide bomber in Central Cairo’s Darb al-ahmar district
-
-There are frequent terrorist attacks in North Sinai. Most attacks are in the north-east corner of the governorate between Al-Arish city and the border with Gaza. Most attacks in North Sinai are against the Egyptian government and military installations and personnel. However, terrorists have attacked civilians suspected of working with the authorities and local religious minority groups.
-
-### Terrorism during holiday periods
-
-There is a heightened threat of terrorism in and around religious sites and during religious festivals, such as the month of Ramadan and the Christmas period (including Coptic Christmas in January). Terrorists have attacked over local holiday weekends. The Egyptian Presidency website has a [list of public holidays](https://www.presidency.eg/en/%D9%85%D8%B5%D8%B1/%D8%A7%D9%84%D8%B9%D8%B7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A%D8%A9/).
-
-Follow the advice of Egyptian authorities and be vigilant in crowds and large gatherings.
+* In 2024, one Israeli-Canadian national was killed in a shooting attack in Alexandria
+* In 2023, 2 Israeli tourists and an Egyptian tour guide were killed in a shooting attack in Alexandria
+* In 2022, 4 police officers and one insurgent killed in an attack on a police checkpoint in Ismailiya City
 
 ## Regional risks
 
-Following hostilities in the region, a ceasefire between Israel and Iran began on 24 June
+Following hostilities in the region, a ceasefire between Israel and Iran began on 24 June.
 
 You should:
 
 * stay up to date with events in the region
 * check for any transport disruption that may still be occurring
 * monitor local and international media for the latest information
-* [read the FCDO’s advice on if you’re affected by a crisis abroad](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.gov.uk%2Fguidance%2Fhow-to-deal-with-a-crisis-overseas&data=05%7C02%7CCrisis%40fcdo.gov.uk%7C4563265a30b14112d88208ddb588a69b%7Cd3a2d0d37cc84f52bbf985bd43d94279%7C0%7C0%7C638866320685449525%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=NKlHvb0l0yilhgUsvbbH7LHGuefu%2FZHZMRJ0Ja%2B5umk%3D&reserved=0%22%20\t%20%22_blank)
+* [read the FCDO’s advice on if you’re affected by a crisis abroad](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas)
 * follow the instructions of local authorities
 
 ## Political situation
 
-The political environment in Egypt is restrictive. Security forces have responded violently to protests and disturbances, resulting in a number of deaths.
+The political environment in Egypt is restrictive. Avoid large gatherings, demonstrations and protests as the situation could change quickly and without warning. Security forces have responded forcefully to protests and disturbances.
 
-Protests, marches and demonstrations could happen across Egypt, particularly after Friday prayers. They are more common in cities and could happen at short notice. Avoid large gatherings, demonstrations and protests as the situation could change quickly and without warning. Police have used water cannons, tear gas, birdshot and live ammunition as crowd control. The authorities may close public spaces, including parks and beaches, at short notice, particularly around holidays. If you do not follow their instructions, you could be fined or arrested.
-
-Foreign nationals involved in any political activity or activities critical of the government may be at risk of detention or other measures.
-
-There are reports that security personnel are checking personal electronic devices, particularly around public gathering places, such as Tahrir Square.
+Foreign nationals involved in any political activity or activities critical of the government may be at risk of detention. This includes posting negative comments on social media.
 
 ## Crime
 
-Take extra care when travelling alone, particularly at night, in taxis and microbuses. The crime rate is generally low, but visitors have reported:
-
-* armed robberies
-* muggings, including in taxis
-* sexual assaults
-* break-ins to accommodation and cars
-* pickpocketing and bag-snatching
+The crime rate is generally low, but visitors should take sensible precautions as they would in the UK.
 
 To report a crime, phone the tourist police on 126. If you do not report a crime before you leave Egypt, it will be difficult to prosecute later.
 
@@ -74,71 +57,53 @@ To report a crime, phone the tourist police on 126. If you do not report a crime
 
 A number of sexual assaults have been reported to the British Embassy, including cases involving minors.
 
-The majority of cases that have been reported took place in tourist resorts in the Red Sea region, often committed by someone the victim had already met, including hotel workers and excursion staff. There have also been reports of hotel staff discouraging incidents being reported to local police.
+The majority of cases that have been reported took place in tourist resorts in the Red Sea region, often committed by someone the victim had already met, including hotel workers and excursion staff. There have also been reports of hotel staff discouraging incidents being reported to local police.
 
-Female travellers should exercise caution when travelling alone, particularly at night, in buses, taxis and microbuses. If you are travelling on public transport including microbuses, avoid being the last passenger left on board.
+Female travellers should exercise caution when travelling alone, particularly at night, in taxis.
 
 Take extra precautions:
 
-* make sure children and young people are always accompanied by known and trusted people and not left alone with hotel or excursion staff
+* do not leave children unaccompanied
 * do not allow hotel staff to enter your room when you are alone – try to ensure a friend or relative is present
-* avoid travelling in a taxi alone – if this is not possible, apply extra security by sharing the details of your driver and trip with a friend, and using live location on WhatsApp
-* use reputable providers for any services and excursions, and carry out research beforehand, including by consulting your tour operator where you have one
+* avoid travelling in a taxi alone – if this is not possible, apply extra security by sharing the details of your driver, trip and live location with a friend
+* use reputable providers for any services and excursions, and carry out research beforehand
 * avoid sharing personal contact or social media details
-
-See [advice for women travelling abroad](https://www.gov.uk/guidance/advice-for-women-travelling-abroad) and [information for British nationals affected by rape or sexual assault abroad](https://www.gov.uk/guidance/victim-of-rape-and-sexual-assault-abroad).
-
-If you experience sexual harassment or assault, or if you feel threatened or unsafe, report it to the hotel or local authorities.
-
-Tourist police: 126
-
-Local police: 122
-
-British Embassy in Cairo: +20 2 279 1 6000
-
-All numbers provide English speakers.
 
 ### Protecting your belongings
 
-Take particular care of your possessions on buses, trains and in crowds. Criminals may ride past on bikes and snatch valuables.
+Pickpocketing is rare in Egypt. Take the same precautions as you would in the UK.
 
-Keep a copy of your passport, visa and flight ticket separately from originals when travelling. Leave copies at home where others can access them and store them electronically so you can access them easily. If your passport is lost or stolen, tell the police immediately and get a police report. You will need a police report to get visa stamps transferred to your replacement passport.
+It might be helpful to make photocopies of your passport, visa and flight ticket to keep separately from originals when travelling. If your passport is lost or stolen, tell the police immediately and get a police report. You will need a police report to get visa stamps transferred to your replacement passport.
 
 ### Scammers and touts at tourist sites
 
-Be cautious in tourist areas, where scammers and touts target foreign nationals.
-
-Touts may confront tourists at popular tourist sites, such as the Giza pyramids, and aggressively ask for money or business. This can even happen when you’re in a car or taxi. If you use a pre-booked guide or take an organised tour to visit the pyramids, you are likely to face fewer difficulties.
+Be cautious in tourist areas, where scammers and touts sometimes target foreign nationals.
 
 ## Laws and cultural differences
 
-Egypt is predominantly an Islamic country. Always respect local traditions, customs, laws and religions. Make sure you do not cause offence, especially during Ramadan or when you visit religious areas.
+Egypt is predominantly an Islamic country. Take care to respect local traditions, customs, laws and religions. Seek to avoid offence, especially during Ramadan or when you visit religious areas.
 
 ### Religion
 
-It is illegal to encourage people to convert to Christianity.
+It is illegal to encourage people to convert to Christianity or any other religion.
 
 ### Ramadan
 
-Ramadan is a holy month for Muslims. The dates vary by year and country and you should check this before you travel. During this time, do not:
-
-* eat, drink, smoke or chew gum in public in the daytime, including in your car
-* play loud music or dance
-* swear in public
+Ramadan is a holy month for Muslims. The dates vary by year and country and you should check this before you travel. During this time, it is culturally insensitive to eat, drink or smoke in public during daylight hours. It is advisable not to play loud music, dance or swear in public.
 
 Get more advice when you arrive from your tour guide, hotel or business contacts.
 
 You should also:
 
 * check opening hours of shops and restaurants
-* be aware that if hotels and restaurants are providing food or drink in fasting hours, they may separate you from Islamic guests, for example with screens
+* be aware that if hotels and restaurants are providing food or drink in fasting hours, they may separate non-fasting guests, for example with screens
 * follow local dress codes – clothing that does not meet local dress codes may cause more offence at this time
 * be aware that driving may be erratic, particularly when people are trying to get home at dusk
 * be patient and show tolerance
 
 ### Personal ID
 
-Police check ID regularly and will ask to see your passport. They may detain you if you cannot show it.
+Police check ID regularly and will ask to see your passport. They may detain you if you cannot show your ID and your visa (or a digital/paper copy).
 
 ### Dress code
 
@@ -146,21 +111,17 @@ Dress modestly, especially in rural areas, mosques and souqs (markets).
 
 ### Behaviour in public
 
-Showing affection in public is frowned upon. Holding hands is generally fine, but there are places in Egypt where this is looked down on. Behaviour accepted in tourist resort areas may not be tolerated elsewhere.
+Couples showing physical affection in public is frowned upon. Holding hands is generally fine. Behaviour accepted in tourist resort areas may not be accepted elsewhere.
 
 ### Alcohol laws
 
-Drinking alcohol anywhere other than a licensed restaurant or bar is illegal and can lead to arrest.
+Drinking alcohol anywhere other than licensed restaurants, bars, or private homes or certain tourist resorts is illegal and can lead to arrest.
 
 ### Illegal drugs penalties
 
 Possession, use or trafficking of illegal drugs is a serious offence and can, even for small amounts, lead to life imprisonment or the death penalty. People who get a life sentence on drugs charges normally spend the rest of their lives in prison with no chance of parole or a pardon.
 
 Khat is illegal in Egypt.
-
-### Criticising the Egyptian government
-
-Making political or negative comments about the Egyptian government, including about the President or security forces, can cause trouble with the authorities. People have faced prison sentences for making insulting comments on social media.
 
 ### Photography and filming restrictions
 
@@ -172,11 +133,10 @@ It is illegal to take or share photos that could be considered damaging to the c
 
 It is illegal to take photos of, or near, military property. This includes the Suez Canal.
 
-The police have arrested British nationals for photographing churches, electricity stations, train stations and bridges. If you are in any doubt, get permission before taking photos. There are sensitivities about taking photographs of:
+If you are in any doubt, get permission before taking photos. There are sensitivities about taking photographs of:
 
 * embassies
-* government buildings
-* churches
+* government buildings and infrastructure
 * religious buildings
 
 ### Drones
@@ -217,14 +177,12 @@ Speak to your tour company before booking a hot air balloon flight. Some UK tour
 
 There have been recent incidents involving British nationals on diving boats/tours in the Red Sea. Some of these have included fatalities. Safety standards of Red Sea resort diving operators and boats vary considerably. Some operators may not provide adequate safety and insurance standards.
 
-The Marine Accident Investigation Branch (an independent investigative unit within the Department for Transport) published [guidance](https://www.gov.uk/government/news/safety-bulletin-12025-published) about liveaboard vessels on their website in February 2025. They recommend that prospective customers are advised only to book liveaboard dive holidays through reputable vendors who can provide assurance about the safety standards applicable to the dive boat. On arrival on board, customers should request that the crew provide a thorough safety briefing before departure.
+The Marine Accident Investigation Branch (an independent investigative unit within the Department for Transport) published [guidance](https://www.gov.uk/government/news/safety-bulletin-12025-published) about liveaboard vessels on their website in February 2025. They recommend that prospective customers book liveaboard dive holidays only through reputable vendors who can provide assurance about the safety standards applicable to the dive boat. On arrival on board, customers should request that the crew provide a thorough safety briefing before departure.
 
 You should:
 
 * observe safety standards on board and exercise caution
 * make bookings through your tour representative or reputable operator if possible
-* check the weather and stay alert to changes
-* not dive or snorkel without a dive buddy or guide
 * not dive below your insurance policy’s depth limit – doing so will invalidate your cover
 
 Shark attacks are rare, but there have been attacks on tourists in the Red Sea region. Monitor any updates from local authorities or your tour operator.
@@ -234,16 +192,6 @@ See ⁠[watersports safety advice](https://www.rospa.com/leisure-water-safety/wa
 ### Quad bikes and desert visits
 
 There have been several serious quad bike accidents involving British nationals in resort areas. Take the same precautions as you would in the UK. Safety standards vary considerably. Always wear a crash helmet.
-
-## Landmines
-
-There is a small risk from unexploded landmines in some desert areas, including:
-
-* in north-west Egypt near El-Alamein
-* on limited stretches of the Mediterranean coast near Marsa Matrouh
-* on the Red Sea coast south of Suez
-
-Dangerous areas are usually well marked with signs and barbed wire fencing. Take care and follow local advice, especially if planning trips off marked roads or paths.
 
 ## Transport risks
 
@@ -263,7 +211,7 @@ You may not be allowed to import a vehicle into Egypt. If you want to bring in a
 
 ### Driving conditions
 
-Accidents are common because of poor road conditions, dangerous driving and poor traffic law enforcement. Do not drive outside main cities and resorts at night. Make sure you have appropriate insurance.
+Accidents are common because of variable road conditions, dangerous driving and poor traffic law enforcement. Do not drive outside main cities and resorts at night. Make sure you have appropriate insurance.
 
 ### Off-road travel
 
@@ -274,8 +222,6 @@ If you’re travelling off road, use a qualified guide and get a permit from the
 Serious bus crashes in recent years have caused many deaths, including tourists.
 
 There have also been fatal train collisions and derailments.
-
-Suspect devices have been found at train stations and on the rail network. While some have turned out to be hoaxes or false alarms, you should be vigilant as you would in the UK.
 
 ### River and sea travel
 

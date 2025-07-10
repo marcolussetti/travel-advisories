@@ -10,7 +10,7 @@ To enter Egypt, your passport must have an ‘expiry date’ at least 6 months a
 
 Check with your travel provider that your passport and other travel documents meet requirements. [Renew your passport](https://www.gov.uk/renew-adult-passport/renew) if you need to.
 
-You will be denied entry if you do not have a valid travel document or try to use a passport that has been reported lost or stolen.
+You will be denied entry if you do not have a valid travel document.
 
 ## Visa requirements
 
@@ -24,13 +24,13 @@ You can apply for a visa:
 
 * online – [getting an e-visa in advance](https://visa2egypt.gov.eg/eVisa/Home?VISTK=AMEV-QAST-XKKB-4X4J-LYML-KSS1-J4VF-B3V5-GO2U-AYIZ-4F82-1WR5-RW7O-0L87-4CZ8-9CFV) can help to prevent delays, tourist e-visas are valid for up to 3 months
 * in person or by post – apply through the [Egyptian Consulate General in the UK](https://egyptconsulate.co.uk/visas/)
-* on arrival in Egypt – approved airports have kiosks in the arrival hall before you reach the immigration counters where you can buy a visa for 25 US dollars (cash only – Egyptian officials prefer dollars, but you may be able to pay in British pounds or euros, visas on arrival are valid for up to 30 days)
+* on arrival in Egypt – approved airports have kiosks before you reach the immigration counters where you can buy a visa for 25 US dollars (cash only – Egyptian officials prefer dollars, but you may be able to pay in British pounds or euros). Visas on arrival are valid for up to 30 days.
 
 British passport holders from British Overseas Territories and Crown Dependencies cannot apply online.
 
 ### Visa extensions
 
-You can apply for a visa extension at the Egyptian Passport and Immigration Offices. If you try to leave Egypt on an expired visa, you may face difficulties. You may get a fine if your visa has expired by more than 14 days. Contact the [Egyptian Consulate General in the UK](https://egyptconsulate.co.uk/visas/) for more information.
+You can apply for a visa extension at the Egyptian Passport and Immigration Offices. If you try to leave Egypt on an expired visa, you may face difficulties, including a fine if your visa has expired by more than 14 days. Contact the [Egyptian Consulate General in the UK](https://egyptconsulate.co.uk/visas/) for more information.
 
 ### Visa agents in airports
 
@@ -40,11 +40,17 @@ You do not need to buy a visa from an agent. Agents often charge more than the r
 
 You may be denied entry if your gender expression or physical appearance does not match the sex marker in your passport or your passport photograph. See [general advice for LGBT+ travellers](https://www.gov.uk/guidance/lesbian-gay-bisexual-and-transgender-foreign-travel-advice)
 
-### Egypt-Sudan border crossing
+### Entering Egypt from Israel
 
-It is no longer possible to cross the land border into Egypt from Sudan.
+If you cross the border from Israel into Egypt at Taba, you will have to pay a ‘Sinai Tax’ of 720 Egyptian pounds per person (not applicable to children 24 months). This is payable at the Taba Border Crossing in Egyptian pounds, cash only. There is a bank and ATMs dispensing Egyptian pounds at the border. The ‘Sinai Tax’ exempts you from requiring an entry visa for Egypt for up to 15 days, as long as you stay within the Sinai Peninsula. If your stay in Sinai will exceed 15 days, or you are planning to leave the Sinai Peninsula, including to fly on from mainland airports, for example Cairo or Hurghada, you will need an entry visa. This costs 25 US dollars and can be purchased at the Taba Border Crossing on entry, or from the immigration office in Sharm el Sheikh.
 
-If you are a British national and have previously crossed the border without valid documentation, contact the British Embassy in Cairo on + 20 (0) 2 2791 6000. See [Regional risks](/foreign-travel-advice/egypt/regional-risks).
+### Entering Egypt from Sudan
+
+The situation at the Egypt-Sudan border remains unclear. There are 2 main land border crossings – Qustul and Argeen. There is almost no infrastructure at these crossings, and it is no longer possible to obtain a visa on arrival at these locations. The Egyptian consulate is based in Wadi Halfa, 30km from the border – applications for Egyptian visas can be made here, but visa approvals can take upwards of 6 months.
+
+The UK Government is no longer evacuating people from Sudan. The British Embassy in Cairo does not have staff at the border and our ability to provide assistance is very limited. Travel in and from Sudan is at your own risk. See [Sudan travel advice](https://www.gov.uk/foreign-travel-advice/sudan).
+
+If you are a British national and have crossed into Egypt from Sudan without valid documents, contact the [British Embassy in Cairo](https://www.gov.uk/world/organisations/british-embassy-cairo) for support.
 
 ## Vaccine requirements
 
@@ -66,13 +72,9 @@ You can bring up to 5,000 Egyptian pounds into or out of Egypt.
 
 You must declare foreign currency worth more than 10,000 US dollars on arrival – there is no limit to the amount of foreign currency you can bring.
 
-### Electronic devices and other valuables
+### Electronic and communication devices
 
-You must declare some valuables, including electronic devices and video cameras, when you arrive. Officials will note these in your passport. They may ask you to show the items when you leave the country. If you do not have them, you may have to pay a high rate of customs duty.
-
-### Satellite phones or radio equipment
-
-Officials are likely to confiscate satellite phones or radio communications equipment unless you have prior clearance from the Ministry of Telecommunications.
+You should declare high value electronic devices and recording equipment when you arrive. Officials are likely to confiscate satellite phones or radio communications equipment unless you have prior clearance from the Ministry of Telecommunications.
 
 [Previous
 :

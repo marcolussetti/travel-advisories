@@ -45,11 +45,9 @@ For further information, contact the [Egyptian Consulate General in the UK](http
 
 ## Healthcare in Egypt
 
-Some hotel doctors have overcharged for treatment and medicines. Check your bill closely for excessive charges. Pharmacies outside hotels will often supply medication at lower prices.
+Some hotel doctors have overcharged for treatment and medicines. Pharmacies outside hotels will often supply medication at lower prices. FCDO has a [list of medical providers in Egypt](https://www.gov.uk/government/publications/egypt-list-of-medical-facilities-practitioners) where some staff will speak English.
 
 Access to specialised treatment for psychiatric illness is limited and may not be available outside major cities.
-
-FCDO has a [list of medical providers in Egypt](https://www.gov.uk/government/publications/egypt-list-of-medical-facilities-practitioners) where some staff will speak English.
 
 ## Travel and mental health
 

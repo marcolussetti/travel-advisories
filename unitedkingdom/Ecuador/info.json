@@ -1,11 +1,11 @@
 {
     "name": "Ecuador",
-    "update_reason": "Updated information on regional states of emergency ('Warnings and insurance' page).",
+    "update_reason": "Updated information on custom rules about an online registration requirement for travellers entering and/or leaving Ecuador ('Entry requirements' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Ecuador/Warnings and insurance.md",
-            "update_date": "2025-06-13T10:10:01+01:00"
+            "update_date": "2025-07-09T16:07:36+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Ecuador/Getting help.md"
         }
     ],
-    "update_date": "2025-06-13T10:10:01+01:00"
+    "update_date": "2025-07-09T16:07:36+01:00"
 }

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   14 June 2025
+:   10 July 2025
 
 Updated:
-:   13 June 2025
+:   9 July 2025
 
 Latest update:
-:   Updated information on regional states of emergency ('Warnings and insurance' page).
+:   Updated information on custom rules about an online registration requirement for travellers entering and/or leaving Ecuador ('Entry requirements' page).
 
 ![](https://assets.publishing.service.gov.uk/media/65a1082ce96df50014f8452c/FCDO__TA__014_-_Ecuador_Travel_Advice_Ed5__WEB_.jpg)
 
