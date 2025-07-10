@@ -1,6 +1,6 @@
 ## Safety and security
 
-### **Social unrest**
+### **Social Unrest**
 
 Protests and demonstrations may take place in Liechtenstein. Monitor the local media and other important sources of information about possible demonstrations, avoid affected areas and follow the advice of local authorities.
 
@@ -15,7 +15,7 @@ The level of serious crime in Liechtenstein is relatively low and most visits to
 * Do not carry credit cards, travel tickets and money together - leave spare cash and valuables in a safe place.
 * Do not carry your passport unless absolutely necessary and leave a photocopy of passport (and travel and insurance documents) with family or friends at home.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If a victim of a crime while in Liechtenstein, report it to the local police immediately. Contact the Irish Embassy in Berne if you need help.
 
@@ -26,17 +26,17 @@ If planning to drive in Liechtenstein, exercise the same caution as when driving
 * Bring a full Irish driver’s licence and make sure you have adequate and appropriate insurance
 * Driving under the influence of alcohol or drugs is against the law and you risk being detained, fined or banned from driving if caught
 
-### **Traffic offences**
+### **Traffic Offences**
 
 Liechtenstein traffic regulations are strictly enforced and any serious breach of the rules, particularly in the case of driving under the influence of alcohol, can result in heavy fines, loss of license and/or imprisonment.
 
 Speeding is taken very seriously and breaking the speed limit could result in a hefty fine, which can be sent to you even after you have left the country. If the fine is unpaid you may have difficulties when entering/leaving Liechtenstein.
 
-### **Winter equipment**
+### **Winter Equipment**
 
 All cars should be fitted with winter tyres when driving in Liechtenstein during the winter months. Snow chains may also be required for mountainous routes.
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If hiring a vehicle, we advise not to hand over your passport as a form of security. If allowing your passport to be photocopied, keep it in sight at all times.
 

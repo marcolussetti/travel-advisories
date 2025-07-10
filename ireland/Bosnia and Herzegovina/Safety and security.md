@@ -22,7 +22,7 @@ Crime remains relatively low in Bosnia and Herzegovina but take sensible precaut
 * Do not carry your passport unless absolutely necessary and leave a copy (as well as travel and insurance documents) with family or friends at home.
 * There have been a number of thefts from 'locked’ compartments on trains so make sure that the compartment door is properly locked and that all valuables are placed out of sight or well away from the door.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If a victim of a crime while in Bosnia and Herzegovina, report it to the local police immediately and get a report. Call the police on 122, and citizens can contact the Irish Embassy in Ljubljana on +386 1 300 8970 if assistance is required.
 
@@ -37,14 +37,22 @@ If planning to drive in Bosnia and Herzegovina, be aware that driving after dark
 * Between 15 November and 15 April, it is obligatory to have winter tyres on vehicles. Alternatively, use summer tyres with a minimum thread of 4mm as long as snow chains are in the vehicle and you can demonstrate, if asked, how to fit them correctly.
 * Get more information on traffic and safety from the [**Automobile Association of Bosnia and Herzegovina**](http://bihamk.ba/).
 
-### **Car documentation**
+### **Car Documentation**
 
 Bring all of the relevant ownership/rental and registration information as border guards may ask to see them.
 
 If driving to, or through, Bosnia and Herzegovina, including the 9.5km road section at Neum on the Dalmatian Coastal Highway, ensure that your Green Card includes cover for Bosnia and Herzegovina.
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If hiring a vehicle, we advise not to hand over your passport as a form of security. If allowing your passport to be photocopied, keep it in sight at all times.
 
 Check that you have adequate insurance and read the small print of the vehicle hire contract (particularly any waiver that will come into effect if the vehicle is damaged).
+
+### **Public Transport**
+
+Local rail, bus and tram services are generally reliable, but are currently not operating or severely restricted.
+
+### **Taxis**
+
+The taxis service is also currently very limited and in addition please note that taxi drivers from the two political entities in the country (the Republika Srpska and the Federation of Bosnia and Herzegovina) may be unwilling to travel from one entity to another.

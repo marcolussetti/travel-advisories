@@ -6,11 +6,11 @@ Check your doctor a minimum of eight weeks in advance of travel to see what vacc
 
 A small number of cases of polio have recently been diagnosed in Ukraine. Polio vaccination is recommended for all travellers from Ireland to countries where polio transmission is a risk. Before travelling to areas where poliomyelitis cases are still occurring, travellers should ensure that they have completed the recommended age-appropriate polio vaccine schedule and have received a booster dose, if necessary. More information is available on the [**Health Protection and Surveillance Centre website**](http://www.hpsc.ie/).
 
-### **Sexually transmitted disease**
+### **Sexually Transmitted Disease**
 
 There is a high level of sexually transmitted diseases in Ukraine and HIV is reportedly widespread. You should exercise necessary caution if engaging in activities that expose you to possible infection. If you suspect that you have been exposed to possible infection, you should seek immediate medical attention.
 
-### **Radioactive contamination**
+### **Radioactive Contamination**
 
 The risk of radioactive contamination from the 1986 accident at Chornobyl is insignificant, other than within the exclusion zone immediately around the Chornobyl site and you don’t need to take any special precautions.
 
@@ -22,7 +22,7 @@ Buying comprehensive travel insurance can save you and your family a lot of mone
 
 Not all policies are the same, and the cheapest one might be cheap for a reason. Make sure your policy covers all the activities you plan to do on your trip. [**Insurance Ireland recommend**](http://www.insuranceireland.eu/consumer-information/general-non-life-insurance/travel) that you purchase a policy that provides a minimum medical cover of €1 million.
 
-### **Emergency expenses**
+### **Emergency Expenses**
 
 Your policy should cover:
 

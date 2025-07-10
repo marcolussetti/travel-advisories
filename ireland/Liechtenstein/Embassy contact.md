@@ -1,6 +1,7 @@
 ## Embassy contact
 
-Please note that there is no resident Embassy in Liechtenstein.  
+As Ireland does not have an Embassy or Consulate in Liechtenstein, consular assistance is provided via the [**Embassy of Ireland in Berne, Switzerland**](https://www.ireland.ie/en/switzerland/berne/).
+
 If urgent assistance is required while the Embassy in Berne, Switzerland is closed, contact the main Embassy number, +41 (0)31 350 0380, and leave a detailed message for the Duty Officer. This mailbox is monitored regularly.
 
 Monday to Friday 09:30 to 12:00

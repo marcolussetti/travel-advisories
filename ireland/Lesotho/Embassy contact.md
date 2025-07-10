@@ -1,6 +1,6 @@
 ## Embassy contact
 
-We do not have an Embassy in Lesotho, please contact Embassy of Ireland to South Africa on the information below.
+As Ireland does not have an Embassy or Consulate in Lesotho, consular assistance is provided via the Embassy of Ireland in South Africa.
 
 ### Embassy of Ireland, South Africa
 

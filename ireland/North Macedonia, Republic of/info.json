@@ -3,25 +3,29 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/North Macedonia, Republic of/Overview.md"
+            "title": "Travel to North Macedonia overview",
+            "file": "ireland/North Macedonia, Republic of/Travel to North Macedonia overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/North Macedonia, Republic of/Safety and security.md"
         },
         {
+            "title": "Health",
+            "file": "ireland/North Macedonia, Republic of/Health.md"
+        },
+        {
             "title": "Local laws and customs",
             "file": "ireland/North Macedonia, Republic of/Local laws and customs.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/North Macedonia, Republic of/Additional information.md"
+            "title": "Entry requirements",
+            "file": "ireland/North Macedonia, Republic of/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/North Macedonia, Republic of/Embassy contact.md"
         }
     ],
-    "update_date": "2023-11-22T00:00:00"
+    "update_date": "2025-07-09T00:00:00"
 }

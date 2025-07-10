@@ -6,9 +6,9 @@ Please be aware that Lesotho lacks good medical facilities.
 
 There is a high incidence of HIV and AIDS in Lesotho exercise necessary caution if engaging in activities that expose you to possible infection.
 
-### **Get travel and medical insurance**
+### **Get Travel and Medical Insurance**
 
-Before travelling, the Department **strongly recommends** that you obtain comprehensive travel insurance which will cover all overseas medical costs, including medical repatriation/evacuation, repatriation of remains and legal costs. Check any exclusions and, in particular, that your policy covers all the activities you want to undertake.
+Before travelling, the Department of Foreign Affairs and Trade **strongly recommends** that you obtain comprehensive travel insurance which will cover all overseas medical costs, including medical repatriation/evacuation, repatriation of remains and legal costs. Check any exclusions and, in particular, that your policy covers all the activities you want to undertake.
 
 ### **Vaccinations**
 

@@ -1,6 +1,7 @@
 ## Embassy contact
 
-Please note that there is no resident Embassy in Algeria.  
+As Ireland does not have an Embassy or Consulate in Algeria, consular assistance is provided via the [**Embassy of Ireland in Berne, Switzerland**](https://www.ireland.ie/en/switzerland/berne/).
+
 If you require urgent assistance while the Embassy in Berne, Switzerland is closed, contact the main Embassy number, +41 (0)31 350 0380, and leave a message on the voice mailbox.
 
 This mailbox will be monitored regularly.

@@ -1,6 +1,6 @@
 ## Safety and security
 
-### **Social unrest**
+### **Social Unrest**
 
 Protests and demonstrations do happen, mainly in Zürich, Geneva, Bern or Basel. These are often aimed at international organisations and international meetings. Some protests have become violent in the past. You should monitor local media about possible demonstrations. Avoid affected areas and follow the advice of local authorities.
 
@@ -16,7 +16,7 @@ Crime levels remains low in Switzerland although petty theft does happen, especi
 * Don’t carry your passport unless absolutely necessary and leave a copy of your passport (and travel and insurance documents) with family or friends at home.
 * Avoid dark and unlit streets and stairways, and arrange to be picked up or dropped off as close to your hotel or apartment entrance as possible.
 
-### **Reporting a crime**
+### **Reporting a Crime**
 
 If you’re a victim of a crime while in Switzerland, report it to the local police immediately. You can contact us at the Irish Embassy or Honorary Consul if you need help.
 
@@ -31,9 +31,9 @@ If you want to drive:
 * Be aware of Switzerland’s traffic laws, such as speed limits. Speeding is taken very seriously and could result in a hefty fine, which can be sent to you even after you have left Switzerland. Failure to pay can result in future difficulties when entering or leaving Switzerland
 * Keep your vehicle doors locked and your bags kept out of sight to prevent opportunistic bag-snatching if you’re stopped at traffic lights
 * Cars should be fitted with winter tyres when driving in Switzerland during the winter months. Snow chains may also be required for mountainous routes
-* A motorway tax, or vignette, must be paid by all users of Switzerland’s motorways, including short-term visitors. The current annual fee is CHF40 and can be obtained from the Swiss Federal Customs Agency at border crossing points or [online](https://via.admin.ch/shop/dashboard).
+* A motorway tax, or vignette, must be paid by all users of Switzerland’s motorways, including short-term visitors. The current annual fee is CHF40 and can be obtained from the Swiss Federal Customs Agency at border crossing points or [**online**](https://via.admin.ch/shop/dashboard).
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If you’re hiring a vehicle, we advise you not to hand over your passport as a form of security. If you’re allowing your passport to be photocopied, keep it in your sight at all times.
 

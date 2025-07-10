@@ -3,12 +3,16 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Algeria/Overview.md"
+            "title": "Travel to Algeria overview",
+            "file": "ireland/Algeria/Travel to Algeria overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Algeria/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Algeria/Health.md"
         },
         {
             "title": "Local laws and customs",
@@ -19,13 +23,13 @@
             "file": "ireland/Algeria/Natural disasters and climate.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Algeria/Additional information.md"
+            "title": "Entry requirements",
+            "file": "ireland/Algeria/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Algeria/Embassy contact.md"
         }
     ],
-    "update_date": "2025-04-14T00:00:00"
+    "update_date": "2025-07-09T00:00:00"
 }

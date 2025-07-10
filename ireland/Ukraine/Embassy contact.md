@@ -1,6 +1,6 @@
 ## Embassy contact
 
-Any citizen requiring emergency consular assistance in Ukraine can call the Department of Foreign Affairs on +353 1 408 2000.
+Any citizen requiring emergency consular assistance in Ukraine can call the Department of Foreign Affairs and Trade on +353 1 408 2000.
 
 ### Department of Foreign Affairs
 

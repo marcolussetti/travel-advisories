@@ -1,6 +1,6 @@
 ## Safety and security
 
-### **Social unrest**
+### **Social Unrest**
 
 The security situation in Haiti is extremely volatile. Avoid demonstrations and public gatherings, which can turn confrontational. You should take appropriate security precautions and keep yourself informed of what is going on around you by monitoring local media and staying in contact with your hotel or local contacts.
 
@@ -25,10 +25,6 @@ There is a high risk of crime within Haiti, including armed robberies, burglarie
 * Keep a close eye on personal belongings and hold on to them in public places such as internet cafes, train and bus stations.
 * Avoid dark and unlit streets and stairways, arrange to be picked up or dropped off as close to your hotel or apartment entrance as possible.
 
-### **Reporting a crime**
+### **Reporting a Crime**
 
 If a victim of a crime while in Haiti, report it to the local police immediately.
-
-### **Hurricane season**
-
-The hurricane season in the Caribbean normally runs from July to October. Pay close attention to local and international weather reports and follow the advice of local authorities. Always monitor local and international weather updates for the region by accessing, for example, [**the Weather Channel**](http://www.weather.com/), or the [**US National Hurricane Centre website**](http://www.nhc.noaa.gov/).

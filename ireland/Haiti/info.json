@@ -3,29 +3,33 @@
     "risk_level": "Do Not Travel",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Haiti/Overview.md"
+            "title": "Travel to Haiti overview",
+            "file": "ireland/Haiti/Travel to Haiti overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Haiti/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Haiti/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Haiti/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Haiti/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/Haiti/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/Haiti/Natural disasters and climate.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/Haiti/Entry requirements.md"
         },
         {
             "title": "Contact us",
             "file": "ireland/Haiti/Contact us.md"
         }
     ],
-    "update_date": "2024-05-24T00:00:00"
+    "update_date": "2025-07-09T00:00:00"
 }

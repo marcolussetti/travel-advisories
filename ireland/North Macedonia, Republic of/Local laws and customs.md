@@ -6,7 +6,7 @@ It is obligatory upon arrival to declare large amounts of foreign currency (in e
 
 While Irish citizens do not require visas to enter North Macedonia, un-accompanied minors not in possession of letters of consent from parents or guardians risk refusal of entry.
 
-### **Driving and transport**
+### **Driving and Transport**
 
 Public transport in Skopje and throughout North Macedonia is not as well as developed as elsewhere and motorways are few and far between. Rail, bus and taxis are, however, relatively inexpensive.
 

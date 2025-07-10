@@ -3,29 +3,33 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Switzerland/Overview.md"
+            "title": "Travel to Switzerland overview",
+            "file": "ireland/Switzerland/Travel to Switzerland overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Switzerland/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Switzerland/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Switzerland/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Switzerland/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/Switzerland/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/Switzerland/Natural disasters and climate.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/Switzerland/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Switzerland/Embassy contact.md"
         }
     ],
-    "update_date": "2025-04-14T00:00:00"
+    "update_date": "2025-07-09T00:00:00"
 }

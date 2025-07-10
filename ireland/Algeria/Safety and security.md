@@ -1,12 +1,12 @@
 ## Safety and security
 
-### **Practical advice**
+### **Practical Advice**
 
 * Get advice locally about areas of risk and security concerns
 * Take common-sense precautions about safety and security
 * Know who to contact in case of an emergency
 
-### **Social unrest**
+### **Social Unrest**
 
 The political situation in Algeria is reasonably stable but we advise you to avoid all demonstrations and public gatherings, which can sometimes turn confrontational.
 
@@ -32,11 +32,11 @@ Crime remains relatively low in Algeria but you should take sensible precautions
 * Avoid dark and unlit streets and stairways, and arrange to be picked up or dropped off as close to your hotel or apartment entrance as possible.
 * Keep a close eye on your personal belongings and hold on to them in public places such as internet cafés, train and bus stations.
 
-### **Petty theft**
+### **Petty Theft**
 
 Petty theft and home burglary happen frequently in Algeria, and muggings are on the rise, especially after dark in the cities. More serious crimes have been reported in which armed men posing as police officers have entered homes and robbed the occupants at gunpoint.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If you’re a victim of a crime while in Algeria, report it to the local police immediately. And you can contact us at the Irish Embassy in Switzerland (Berne) if you need help.
 
@@ -50,7 +50,7 @@ If you want to drive:
 * Driving under the influence of alcohol or drugs is against the law and you risk being detained, fined or banned from driving if caught
 * Keep your vehicle doors locked and your bags kept out of sight to prevent opportunistic bag-snatching if you’re stopped at traffic lights
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If you’re hiring a vehicle, we advise you not to hand over your passport as a form of security. If you’re allowing your passport to be photocopied, keep it in your sight at all times.
 

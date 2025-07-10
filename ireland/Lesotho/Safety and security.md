@@ -1,6 +1,6 @@
 ## Safety and security
 
-### **Political unrest**
+### **Political Unrest**
 
 There are occasionally spontaneous political demonstrations in Maseru and it is advisable to avoid demonstrations, rallies and large public gatherings as a precaution. Monitor local media for reports of demonstrations or unrest.
 
@@ -20,15 +20,15 @@ Crime rates in Lesotho have increased in recent years so please take sensible pr
 * Do not walk around Maseru after dark and avoid driving in rural areas at night.
 * Keep doors locked, windows shut and valuables out of sight when driving in urban centres, especially Maseru.
 
-### **Petty theft**
+### **Petty Theft**
 
 Muggers in central Maseru sometimes target foreign nationals. We advise to avoid walking alone in isolated areas or after dark and driving in rural areas at night. Only carry essentials with you and keep valuables out of sight.
 
-### **Theft from vehicles**
+### **Theft from Vehicles**
 
 When driving in urban centres, especially Maseru, keep doors locked, windows shut and valuables out of sight. Park in well-lit areas and do not pick up strangers. Take care at the approaches to main border crossings, particularly at night. Armed car hijacking is also increasing.
 
-### **Personal safety**
+### **Personal Safety**
 
 There have been recent incidences of armed attacks on pedestrians. If visitors have no alternative but to walk around Maseru, avoid taking the same route repeatedly and be vigilant. If attacked, or your car is hijacked, do not resist.
 
@@ -36,7 +36,7 @@ There have been recent incidences of armed attacks on pedestrians. If visitors h
 
 There is a public transport/taxi service in Lesotho but safety cannot be guaranteed. We recommend visitors take telephone taxis. Always confirm the fare in advance and never take a lift from a stranger.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If a victim of a crime while in Lesotho, report it to the local police immediately. Citizens can contact us at our Irish Embassy in Pretoria, South Africa.
 
@@ -52,7 +52,7 @@ If visitors want to drive:
 * Watch out for animals roaming on the roads, especially at night
 * Local mini-bus taxis are often poorly maintained and uninsured, and ignore road safety rules
 
-### **Vehicle hire**
+### **Vehicle Hire**
 
 If hiring a vehicle, we advise not to hand over your passport as a form of security. If allowing your passport to be photocopied, keep it in your sight at all times.
 

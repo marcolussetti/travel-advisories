@@ -8,7 +8,7 @@ Buying comprehensive travel insurance can save a lot of money if something goes 
 
 Not all policies are the same, and the cheapest one might be cheap for a reason. Make sure your policy covers all planned activities. [**Insurance Ireland recommend**](http://www.insuranceireland.eu/consumer-information/general-non-life-insurance/travel) that you purchase a policy that provides a minimum medical cover of €1 million.
 
-### **Emergency expenses**
+### **Emergency Expenses**
 
 Your policy should cover:
 
@@ -29,3 +29,7 @@ Irish residents are entitled to get healthcare through the public system in coun
 [**Apply for your EHIC and find out more information**](http://www.hse.ie/eng/services/list/1/schemes/EHIC/apply/).
 
 The EHIC is not a substitute for proper travel insurance provided by a reputable insurer. It does not cover medical repatriation, ongoing medical treatment or treatment of a non-urgent nature. Also, some private hospitals may not accept the EHIC, so check with the hospital administrator beforehand.
+
+### **Water**
+
+While the water supply in Romania is not known to be contaminated, use of bottled or filtered water is recommended as a safer option.

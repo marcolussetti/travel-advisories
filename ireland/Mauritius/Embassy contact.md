@@ -1,6 +1,6 @@
 ## Embassy contact
 
-As there is no Embassy in Mauritius, please contact the Embassy of Ireland in South Africa.
+As Ireland does not have an Embassy or Consulate in Mauritius, consular assistance is provided via the Embassy of Ireland in South Africa.
 
 Monday to Thursday 09:00-12:00
 

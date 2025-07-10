@@ -30,11 +30,11 @@ Mauritius has generally low levels of violent crime but take sensible precaution
 * Keep a close eye on personal belongings and hold on to them in public places such as internet cafés, train and bus stations.
 * Avoid walking alone at night on deserted/public beaches or in poorly-lit areas especially in the back streets of the business district of Port Louis
 
-### **Petty theft**
+### **Petty Theft**
 
 Petty crime is common, with many active pickpockets and purse snatchers in popular tourist areas including Port Louis, Grand Baie and Flic en Flac. We recommend that you keep valuables in hotel safes, where possible, and make copies of important documents, including passports.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If a victim of a crime while in Mauritius, report it to the local police immediately. Please contact the Irish Embassy in Pretoria if you need help.
 
@@ -51,12 +51,12 @@ If planning to drive:
 * Keep vehicle doors locked and bags kept out of sight to prevent opportunistic bag-snatching if stopped at traffic lights.
 * Drivers and passengers on motorcycles are required to wear helmets.
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If hiring a vehicle, we advise not to hand over your passport as a form of security. If allowing your passport to be photocopied, keep it in sight at all times.
 
 Check that you have adequate insurance and read the small print of the vehicle hire contract (particularly any waiver that will come into effect if the vehicle is damaged).
 
-### **Water safety**
+### **Water Safety**
 
 While there have been no attacks by pirates in Mauritian waters, vessels have been attacked up to 1,000 miles off the Somali coast. Sailing vessels are especially vulnerable so we advise not to travel in yachts or pleasure craft in international waters in this part of the Indian Ocean.

@@ -3,29 +3,33 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Liechtenstein/Overview.md"
+            "title": "Travel to Liechtenstein overview",
+            "file": "ireland/Liechtenstein/Travel to Liechtenstein overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Liechtenstein/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Liechtenstein/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Liechtenstein/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Liechtenstein/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/Liechtenstein/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/Liechtenstein/Natural disasters and climate.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/Liechtenstein/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Liechtenstein/Embassy contact.md"
         }
     ],
-    "update_date": "2025-04-14T00:00:00"
+    "update_date": "2025-07-09T00:00:00"
 }
