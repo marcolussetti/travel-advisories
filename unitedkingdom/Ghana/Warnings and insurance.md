@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   10 June 2025
+:   11 July 2025
 
 Updated:
-:   9 June 2025
+:   10 July 2025
 
 Latest update:
-:   Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport ('Safety and security' page).
+:   Information about elections on 11 July and possible disruptions (Safety and Security).
 
 ![](https://assets.publishing.service.gov.uk/media/65dca99ff1cab30011fc4712/FCDO__TA__090_-_Ghana_Travel_Advice_Ed2__WEB_.jpg)
 

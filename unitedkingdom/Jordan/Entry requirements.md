@@ -43,12 +43,16 @@ You can [extend your Jordan visa online](https://eservices.moi.gov.jo/MOI_EVISA/
 There are three land border crossings from Israel and the Occupied Palestinian Territories.  They are open most days from 8 or 8.30am.  Closures may happen at no notice, including over the weekend.
 
 * King Hussein/Allenby Bridge
-* The Northern (Sheikh Hussein/Bet Shean) crossing
-* The Southern (Wadi Araba) crossing
+* The Northern (Sheikh Hussein/Jordan River Crossing) crossing
+* The Southern (Wadi Araba/Yitzhak Rabin) crossing
 
 Those traveling from Israel and the OPTs should refer to [Israel travel advice - GOV.UK](https://www.gov.uk/foreign-travel-advice/israel)
 
 The King Hussein Bridge/Allenby crossing is not an international crossing between Jordan and the Occupied Palestinian Territories or Israel. You cannot enter Jordan using the King Hussein Bridge/Allenby crossing without getting a visa beforehand. You can get a visa from the [Jordanian Ministry of Interior](https://eservices.moi.gov.jo/MOI_EVISA/faces/Pages/Runnables/login.jsf).
+
+If you are travelling on a British passport, you do not need to prebook to leave Jordan via the King Hussein/Allenby Bridge.
+
+If you have entered Jordan using a non-British passport you may need to prebook to enter Israel or the Occupied Palestinian Territories via the King Hussein/Allenby Bridge. Bookings are made via [Jordan Express Tourist Transport Company](https://jett-khb.com.jo/about), at busy times they can be booked up several days in advance.
 
 If you wish to combine travel to Jordan with a visit to Israel and the Occupied Palestinian Territories, you can get a multiple-entry visa before you travel from the [Jordanian Ministry of Interior](https://eservices.moi.gov.jo/MOI_EVISA/faces/Pages/Runnables/login.jsf). You should also check the [Israel travel advice](https://www.gov.uk/foreign-travel-advice/israel) before using the land borders to enter Israel.
 

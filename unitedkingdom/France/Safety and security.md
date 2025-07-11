@@ -190,8 +190,6 @@ Find out what you can do to [prepare for and respond to extreme weather and natu
 
 ### Wildfires
 
-Marseille Airport has reopened after wildfires caused it to close yesterday. There may be ongoing disruption to schedules. Contact your operator for the latest information.
-
 Wildfires can start anywhere in France during the summer months, particularly along the Mediterranean coast and in Corsica.
 
 The French weather service have launched a [fire alert map](https://meteofrance.com/meteo-des-forets) for travellers to check.

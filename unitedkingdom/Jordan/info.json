@@ -1,11 +1,11 @@
 {
     "name": "Jordan",
-    "update_reason": "Updated information about regional risks, applying for a visa, and rules of the road in Jordan (see \u201cWarnings and Insurance\u201d, \u201cEntry Requirements\u201d, Safety and Security\u201d, and \u201cRegional Risks\u201d pages)",
+    "update_reason": "New information about pre-booking departure via the land border crossing at King Hussein/Allenby Bridge ('Entry requirements' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Jordan/Warnings and insurance.md",
-            "update_date": "2025-06-27T19:28:28+01:00"
+            "update_date": "2025-07-10T15:34:53+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Jordan/Getting help.md"
         }
     ],
-    "update_date": "2025-06-27T19:28:28+01:00"
+    "update_date": "2025-07-10T15:34:53+01:00"
 }

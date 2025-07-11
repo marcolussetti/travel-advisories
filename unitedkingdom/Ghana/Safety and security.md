@@ -26,6 +26,8 @@ Demonstrations in the capital Accra are normally well policed and peaceful, but 
 
 Disputes can occur between local tribes. This can lead to inter-ethnic violence and civil unrest. Seek local advice and take precautions in areas where political tensions are heightened. If you encounter any type of demonstration or disturbance leave the area quickly and do not attempt to watch or photograph any demonstration or disturbance. See [Regional risks](/foreign-travel-advice/ghana/regional-risks).
 
+The Ghana Electoral Commission has scheduled a rerun election in the Ablekuma North Parliamentary constituency of the Greater Accra region for Friday 11 July. You should monitor local media and follow the advice of the local authorities.
+
 ## Crime
 
 ### Protecting yourself and your belongings
