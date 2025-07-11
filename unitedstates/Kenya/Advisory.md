@@ -108,7 +108,7 @@ Gigiri, Nairobi, Kenya
 
 Telephone
 
-+(254) (20) 363-6451
++(254) (20) 363-6000
 
 Emergency
 
