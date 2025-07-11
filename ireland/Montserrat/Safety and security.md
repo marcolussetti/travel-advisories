@@ -10,10 +10,6 @@ Crime remains relatively low in Montserrat but you should take sensible precauti
 * Keep a close eye on your personal belongings and hold on to them in public places such as internet cafes, train and bus stations.
 * Avoid dark and unlit streets and stairways, arrange to be picked up or dropped off as close to your hotel or apartment entrance as possible.
 
-### **Reporting a crime**
+### **Reporting a Crime**
 
 If you’re a victim of a crime while in Montserrat, report it to the local police immediately.
-
-### **Hurricane season**
-
-The hurricane season in the Caribbean normally runs from July to October. You should pay close attention to local and international weather reports and follow the advice of local authorities. Always monitor local and international weather updates for the region by accessing, for example, [**the Weather Channel**](http://www.weather.com/), or the [**US National Hurricane Centre website**](http://www.nhc.noaa.gov/).

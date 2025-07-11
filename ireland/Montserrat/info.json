@@ -3,29 +3,33 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Montserrat/Overview.md"
+            "title": "Travel to Montserrat overview",
+            "file": "ireland/Montserrat/Travel to Montserrat overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Montserrat/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Montserrat/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Montserrat/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Montserrat/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/Montserrat/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/Montserrat/Natural disasters and climate.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/Montserrat/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Montserrat/Embassy contact.md"
         }
     ],
-    "update_date": "2023-11-23T00:00:00"
+    "update_date": "2025-07-10T00:00:00"
 }

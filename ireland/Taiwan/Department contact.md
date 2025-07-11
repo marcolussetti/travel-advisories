@@ -8,7 +8,7 @@ Our number is: +353 1408 2527.
 
 24 hours a day, 7 days a week
 
-### Department of Foreign Affairs
+### Department of Foreign Affairs and Trade
 
 Iveagh House   
 80 St Stephen’s Green   

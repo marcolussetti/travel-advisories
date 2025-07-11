@@ -17,12 +17,6 @@ Make sure that you are happy with your own security arrangements and keep your t
 
 Zimbabwe is currently experiencing electricity shortages resulting in extended periods without power. During blackouts, visitors should exercise a high degree of caution when driving as traffic lights may not be operational. Water rationing is being experienced in certain parts of the country. Contact your tour operator or hotel for latest updates.
 
-### **Money**
-
-Zimbabwe’s economic situation continues to be unstable. Both the Zimbabwe Dollar and US Dollar are currently used. This may change without notice. There is a shortage of physical cash so it is not always possible to make cash withdrawals using an international bankcard. Clarification on acceptable payment methods should always be sought in advance from hotels and other outlets. Visit the Reserve Bank of Zimbabwe website at [**www.rbz.co.zw**](https://www.rbz.co.zw/) for daily exchange rate values in relation to the major currencies.
-
-Availability of fuel can be unreliable. Payment is usually made in cash; most filling stations do not accept international cards.
-
 ### **Crime**
 
 Crime in Zimbabwe is high and a high proportion of the civil population is armed so visitors should always take sensible precautions:
@@ -33,7 +27,7 @@ Crime in Zimbabwe is high and a high proportion of the civil population is armed
 * Avoid dark and unlit streets and stairways, and arrange to be picked up or dropped off as close to your hotel or apartment entrance as possible;
 * Keep a close eye on your personal belongings and hold on to them in public places such as internet cafés, train and bus stations.
 
-### **Serious crime**
+### **Serious Crime**
 
 Avoid situations or areas where you feel unsafe. Make sure that your accommodation is secure at all times because armed robberies targeting foreign residents have increased.
 
@@ -41,7 +35,7 @@ The incidence of armed car-jacking has increased in major towns in recent years.
 
 Opportunistic theft, especially of visible jewellery, handbags, etc, is common and passports are at particular risk. Visitors should take care with baggage in public places, and at reception desks when checking in/out of hotels. Particular care should be taken at Harare International Airport where there have been a number of such thefts.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If a victim of a crime while in Zimbabwe, report it to the local police immediately. Citizens can also contact us at the Irish Embassy in South Africa.
 
@@ -57,13 +51,13 @@ If visitors want to drive:
 * Driving under the influence of alcohol or drugs is against the law and there is a risk of being detained, fined or banned from driving if caught;
 * Keep vehicle doors locked and bags kept out of sight to prevent opportunistic bag-snatching if stopped at traffic lights.
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If hiring a vehicle, we advise not to hand over your passport as a form of security. If allowing your passport to be photocopied, keep it in your sight at all times.
 
 Check that you have adequate insurance and read the small print of the vehicle hire contract (particularly any waiver that will come into effect if the vehicle is damaged).
 
-### **Regional travel**
+### **Regional Travel**
 
 Owing to the uncertain political and economic situation, we strongly advise against independent travel (particularly backpacking).
 

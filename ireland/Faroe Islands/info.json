@@ -3,29 +3,29 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Faroe Islands/Overview.md"
+            "title": "Travel to Faroe Islands overview",
+            "file": "ireland/Faroe Islands/Travel to Faroe Islands overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Faroe Islands/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Faroe Islands/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Faroe Islands/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Faroe Islands/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/Faroe Islands/Local laws and customs.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/Faroe Islands/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Faroe Islands/Embassy contact.md"
         }
     ],
-    "update_date": "2023-11-20T00:00:00"
+    "update_date": "2025-07-10T00:00:00"
 }

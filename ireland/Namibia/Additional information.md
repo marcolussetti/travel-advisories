@@ -1,6 +1,6 @@
 ## Additional information
 
-### **Passports and documents for travel**
+### **Passports and Documents for Travel**
 
 The Namibian Government instated new visa requirements, which came into force on 1 April 2025. These requirements will apply to Irish citizens, who are now required to obtain a visa on arrival, or in advance of travel via online application, at a cost of N$1600. Additional information regarding visa requirements is available online from the Namibian Ministry of Home Affairs, Immigration, Safety and Security website and on their e-services webpage.
 

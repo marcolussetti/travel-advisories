@@ -2,7 +2,7 @@
 
 Any citizen requiring emergency consular assistance in Ukraine can call the Department of Foreign Affairs and Trade on +353 1 408 2000.
 
-### Department of Foreign Affairs
+### Department of Foreign Affairs and Trade
 
 Iveagh House   
 80 St Stephen’s Green   

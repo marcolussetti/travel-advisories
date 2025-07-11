@@ -1,4 +1,4 @@
-## Safety and security
+## Natural disasters and climate
 
 ### **Hurricane Season**
 

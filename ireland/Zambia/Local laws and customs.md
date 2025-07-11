@@ -6,7 +6,7 @@ Remember, the local laws apply to you as a visitor and it is your responsibility
 
 There have been reports of tourists being detained for possession of prescription medication, without the doctor prescription. If you require medication travel with sufficient supply for your stay, and be sure to retain and carry the appropriate documentation.
 
-### **Illegal drugs**
+### **Illegal Drugs**
 
 The possession, smuggling and/or use of narcotics, including marijuana, is strictly prohibited in Zambia and can result in severe punishments. Possession of even small quantities may result in sentences up to five years in prisons where conditions are very poor.
 

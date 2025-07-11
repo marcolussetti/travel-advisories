@@ -308,7 +308,7 @@
     {
         "destination": "Denmark",
         "risk_level": "Normal Precautions",
-        "last_updated": "2025-03-20T00:00:00",
+        "last_updated": "2025-07-10T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/denmark/"
     },
     {
@@ -380,7 +380,7 @@
     {
         "destination": "Faroe Islands",
         "risk_level": "Normal Precautions",
-        "last_updated": "2023-11-20T00:00:00",
+        "last_updated": "2025-07-10T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/faroe-islands/"
     },
     {
@@ -458,7 +458,7 @@
     {
         "destination": "Greenland",
         "risk_level": "Normal Precautions",
-        "last_updated": "2023-11-20T00:00:00",
+        "last_updated": "2025-07-10T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/greenland/"
     },
     {
@@ -512,7 +512,7 @@
     {
         "destination": "Hungary",
         "risk_level": "Normal Precautions",
-        "last_updated": "2025-06-26T00:00:00",
+        "last_updated": "2025-07-10T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/hungary/"
     },
     {
@@ -776,7 +776,7 @@
     {
         "destination": "Montserrat",
         "risk_level": "Normal Precautions",
-        "last_updated": "2023-11-23T00:00:00",
+        "last_updated": "2025-07-10T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/montserrat/"
     },
     {
@@ -800,7 +800,7 @@
     {
         "destination": "Namibia",
         "risk_level": "Normal Precautions",
-        "last_updated": "2025-05-30T00:00:00",
+        "last_updated": "2025-07-10T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/namibia/"
     },
     {
@@ -926,7 +926,7 @@
     {
         "destination": "Puerto Rico",
         "risk_level": "Normal Precautions",
-        "last_updated": "2023-11-23T00:00:00",
+        "last_updated": "2025-07-10T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/puerto-rico/"
     },
     {
@@ -1256,13 +1256,13 @@
     {
         "destination": "Zambia",
         "risk_level": "High Degree of Caution",
-        "last_updated": "2024-12-19T00:00:00",
+        "last_updated": "2025-07-10T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/zambia/"
     },
     {
         "destination": "Zimbabwe",
         "risk_level": "High Degree of Caution",
-        "last_updated": "2024-09-02T00:00:00",
+        "last_updated": "2025-07-10T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/zimbabwe/"
     }
 ]

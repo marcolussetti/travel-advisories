@@ -18,7 +18,7 @@ Most visits to Namibia are trouble free but sensible precautions should be taken
 
 We advise all Irish citizens resident in Namibia to continue to take the usual precautions at their homes, in vehicles and when walking in public. Please remain vigilant and contact the Police or the Embassy if you have any concerns.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If a victim of a crime while in Namibia, report it to the local police immediately. Contact the Irish Embassy in Lusaka if you need help.
 
@@ -42,7 +42,7 @@ Travellers are advised that under Namibian law, tourists hiring a self-drive veh
 
 We advise against using taxis hailed on the street. Ask your hotel or accommodation to call a reputable company.
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If hiring a vehicle, we advise you not to hand over your passport as a form of security. If allowing your passport to be photocopied, keep it in sight at all times.
 

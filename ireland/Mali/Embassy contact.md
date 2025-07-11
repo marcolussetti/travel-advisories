@@ -4,7 +4,7 @@ Ireland does not have an Embassy or Consulate in Mali. Citizens in need of consu
 
 24 hours a day, 7 days a week
 
-### Department of Foreign Affairs
+### Department of Foreign Affairs and Trade
 
 Iveagh House   
 80 St Stephen’s Green   

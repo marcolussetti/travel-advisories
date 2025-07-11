@@ -1,16 +1,16 @@
 ## Health
 
-### **Get travel and medical insurance**
+### **Get Travel and Medical Insurance**
 
 Please note that while the Embassy can provide information on local medical supports it cannot provide medical advice or pay for medical bills.
 
-Before travelling, the Department **strongly recommends** getting comprehensive travel insurance which will cover all overseas medical costs, including medical repatriation/evacuation, repatriation of remains and legal costs. Check any exclusions and, in particular, that your policy covers all activities you want to undertake.
+Before travelling, the Department of Foreign Affairs and Trade **strongly recommends** getting comprehensive travel insurance which will cover all overseas medical costs, including medical repatriation/evacuation, repatriation of remains and legal costs. Check any exclusions and, in particular, that your policy covers all activities you want to undertake.
 
-### **Medical facilities**
+### **Medical Facilities**
 
 Medical facilities are quite good in Windhoek but you may be expected to pay for treatment up front even if you have insurance. Make sure you are fully aware of the conditions in your insurance policy and what cover is provided should you become ill or involved in an accident whilst in Namibia.
 
-### **Malaria, rabies and cholera**
+### **Malaria, Rabies and Cholera**
 
 Malaria, rabies and cholera are common in Namibia and pose a serious health risk. Consult a GP and review relevant precautions before traveling.
 

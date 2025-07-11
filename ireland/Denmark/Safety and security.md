@@ -1,6 +1,6 @@
 ## Safety and security
 
-### **Political Stability/unrest**
+### **Political Stability/Unrest**
 
 The political situation in Denmark is reasonably stable but there can be occasional outbreaks of social unrest, including, for example isolated incidents of civil disturbance or violence, particularly in the area of Christiania, in Copenhagen.
 
@@ -18,7 +18,7 @@ Crime remains relatively low in Denmark but you should take sensible precautions
 * Don’t carry your passport unless absolutely necessary and leave a copy of your passport (and travel and insurance documents) with family or friends at home.
 * Pickpockets are attracted to crowded, public areas frequented by tourists, especially during the summer, so be extra careful to keep your personal belongings such as passports, money and credit cards secure.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If you are a victim of a crime while in Denmark, report it to the local police immediately. You can also contact us at the Embassy of Ireland in Copenhagen if you need help.
 
@@ -30,7 +30,7 @@ If visitors are planning to drive in Denmark, you should take the same precautio
 * Be aware of Denmark’s traffic laws; dimmed headlights are mandatory at all times, parking violations carry heavy fines, and urban speed limits tend to be lower than in Ireland.
 * Road conditions in winter can be icy. Main roads are normally well salted in central Copenhagen but may not be salted outside of the metropolitan area.
 
-### **Vehicle hire**
+### **Vehicle Hire**
 
 * If visitors are hiring a vehicle, we advise you not to hand over your passport as a form of security. If you are allowing your passport to be photocopied, keep it in your sight at all times.
 * Check that you have adequate insurance and read the small print of the vehicle hire contract (particularly any waiver that will come into effect if the vehicle is damaged)

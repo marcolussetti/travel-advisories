@@ -8,25 +8,19 @@ High Degree of Caution
 
 ### **Drought**
 
-The southern Africa region is experiencing severe drought and many States have announced national emergencies, including Zambia. Travellers should be aware that this may pose additional unforeseen difficulties and should note that many areas are experiencing extended power shortages as a result.
+The southern Africa region experienced severe drought in 2024 and many States announced national emergencies, including Zambia. Travellers should be aware that this may pose additional unforeseen difficulties and should note that many areas may still experience power shortages as a result.
 
-### **Cholera**
+### **Kafue River Pollution**
 
-Zambia experienced a widespread outbreak of cholera at the end of 2023 which saw an immediate sharp rise in the number of cases and deaths recorded during the second week of January 2024. The outbreak was widespread in Zambia, with the majority of cases recorded in Lusaka Province. As of December 2024, new reported cases of cholera are low; however, an end to the outbreak has not yet officially been announced.
+In February 2025, a large amount of toxic wastewater, including heavy metals, was released into the Mwambashi stream in the Copperbelt Province when a tailing dam collapsed at a local leach mine. The Mwambashi stream flows into the Kafue river which is a major waterway for the region. This incident has posed a serious health risk for the surrounding area, potentially affecting local ground water sources. A fishing ban has been put in place on the Kafue river in the Central and Copperbelt Provinces.
 
-Citizens planning travel to Zambia are advised to seek medical advice in advance of travel regarding cholera precautions, vaccinations and treatment. Citizens should stay abreast of information on the cholera outbreak and take note of any public health advice issued. Information and guidance on the Cholera situation from the Ministry of Health in Zambia, as well as public health advice on Cholera, can be found via the following links:
-
-[**Ministry of Health Zambia Facebook**](https://www.facebook.com/mohzambia/)
-
-[**Ministry of Health Zambia Twitter**](https://twitter.com/mohzambia?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
-
-[**WHO Advice on Cholera**](https://www.who.int/health-topics/cholera#tab=tab_1)
+Citizens should be aware of these health hazards if travelling in the region and are advised to avoid the immediate area where the incident took place, and water sources in the wider surrounding, as well as avoiding the consumption of fish potentially sourced from the region. Note boiling water does not remove heavy metals.
 
 ### **Mpox**
 
-In August 2024, there was an increase in the numbers of cases of Mpox in countries in region, with the World Health Organisation (WHO) declaring the Mpox outbreak a public health emergency of international concern (PHEIC).
+In August 2024, there was an increase in the numbers of cases of Mpox in. in region, with the World Health Organisation (WHO) declaring the Mpox outbreak a public health emergency of international concern (PHEIC).
 
-On 10 October 2024, Zambia reported a first confirmed case of Mpox in the country. Irish citizens are advised to follow developments in the region in respect of Mpox, and to consult relevant public health advice on Mpox, such as is available via the following links:
+On 10 October 2024, Zambia reported a first confirmed case of Mpox in the country and a low number of cases continue to be reported as of June 2025. Irish citizens are advised to follow developments in the region in respect of Mpox, and to consult relevant public health advice on Mpox, such as is available via the following links:
 
 [**HSE Advice on Mpox**](https://www2.hse.ie/conditions/mpox/)
 
@@ -59,9 +53,9 @@ Visitors can contact the emergency services in Zambia by dialling 999. Specific 
 
 The Embassy can also offer practical advice and assistance in the case of a death, serious injury, detention, or other emergency.
 
-### **Our tips for Safe Travels:**
+### **Our Tips for Safe Travels:**
 
 * Get comprehensive travel insurance that covers all planned activities.
 * [**Register**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/) your details with us so that we can contact you quickly if there’s an unforeseen crisis like a natural disaster or a family emergency.
-* Follow [**@dfatravelwise**](https://www.twitter.com/DFATravelWise) on **X** and Instagram [**@dfatravelwise**](https://www.instagram.com/dfatravelwise/) for the latest travel updates.
+* Follow [**@dfatravelwise**](https://www.twitter.com/DFATravelWise) onX and Instagram [**@dfatravelwise**](https://www.instagram.com/dfatravelwise/) for the latest travel updates.
 * Read our [**‘Know Before You Go’**](https://www.ireland.ie/en/dfa/overseas-travel/know-before-you-go/) guide.

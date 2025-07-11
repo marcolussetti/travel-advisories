@@ -1,16 +1,16 @@
 ## Health
 
-### **Get travel and medical insurance**
+### **Get Travel and Medical Insurance**
 
 Please note that while Embassy can provide information on local medical supports we cannot provide medical advice or pay for medical bills.
 
-Before travelling, the Department **strongly recommends** getting comprehensive travel insurance which will cover all overseas medical costs, including medical repatriation/evacuation, repatriation of remains and legal costs. Check any exclusions and, in particular, that your policy covers all activities you want to undertake.
+Before travelling, the Department of Foreign Affairs and Trade **strongly recommends** getting comprehensive travel insurance which will cover all overseas medical costs, including medical repatriation/evacuation, repatriation of remains and legal costs. Check any exclusions and, in particular, that your policy covers all activities you want to undertake.
 
-### **Medical facilities**
+### **Medical Facilities**
 
 Medical facilities in Zambia are less developed than in Ireland, especially in rural areas.  Even basic drugs and clean needles may not be available. Take particular care if travelling with children.
 
-**Water**
+### **Water**
 
 Only drink or use boiled or bottled water. If you suffer from severe diarrhoea during a visit to Zambia, get immediate medical attention.
 
@@ -30,7 +30,7 @@ Also bring copies of prescriptions in case you lose your medication. On arrival,
 
 Malaria is a threat in Zambia. Before travelling, ask a doctor about risks and suitable anti-malarial medication. After arrival, take precautions to avoid being bitten by mosquitoes by using bed nets and repellents, and wearing closed shoes, long sleeves and trousers.
 
-### **Cholera and dysentery**
+### **Cholera and Dysentery**
 
 Cholera and dysentery are common, especially during the rainy season (November – April). Only drink bottled or boiled water and avoid ice in drinks. Avoid food from street vendors. If you suffer from diarrhoea during a visit to Zambia you should seek immediate medical attention.
 

@@ -1,5 +1,7 @@
 ## Embassy contact
 
+As there is no Irish Embassy in Zimbabwe, we are limited in the help we can offer in an emergency. However, if assistance is required, please contact the [**Irish Embassy in South Africa**](https://www.ireland.ie/en/southafrica/pretoria/)**.**
+
 Monday to Thursday 09:00-12:00
 
 ### Embassy of Ireland, South Africa

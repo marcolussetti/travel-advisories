@@ -1,10 +1,10 @@
 ## Health
 
-### **Get travel and medical insurance**
+### **Get Travel and Medical Insurance**
 
-Before travelling, the Department **strongly recommends** that you obtain comprehensive travel insurance which will cover all overseas medical costs, including medical repatriation/evacuation, repatriation of remains and legal costs. Check any exclusions and, in particular, that your policy covers all the activities you want to undertake.
+Before travelling, the Department of Foreign Affairs and Trade **strongly recommends** that you obtain comprehensive travel insurance which will cover all overseas medical costs, including medical repatriation/evacuation, repatriation of remains and legal costs. Check any exclusions and, in particular, that your policy covers all the activities you want to undertake.
 
-### **Healthcare facilities**
+### **Healthcare Facilities**
 
 The standard of healthcare, even in private hospitals, varies widely in Zimbabwe. Private healthcare facilities are expensive and the cost of evacuation can be high.
 
@@ -20,7 +20,7 @@ Cholera outbreaks are still being reported in various regions in Zimbabwe. Altho
 
 The level of HIV and AIDS infection in Zimbabwe is very high. Visitors should exercise caution if engaging in activities that expose them to possible infection. If you suspect that you have been exposed to possible infection, seek immediate medical attention.
 
-### **Other illnesses**
+### **Other Illnesses**
 
 Other water-borne, food-borne and infectious diseases (including hepatitis, tuberculosis, measles, typhoid and rabies) are prevalent in Zimbabwe, with more serious outbreaks occurring from time to time. Use good personal hygiene practices and take all necessary precautions; avoid raw and undercooked food.
 

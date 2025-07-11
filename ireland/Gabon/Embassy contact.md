@@ -10,7 +10,7 @@ Our number is: +353 1 408 2000.
 
 [**Contact Us**](https://www.ireland.ie/en/contactus/)
 
-### Department of Foreign Affairs
+### Department of Foreign Affairs and Trade
 
 Iveagh House   
 80 St. Stephen's Green   

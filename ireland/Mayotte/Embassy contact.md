@@ -2,7 +2,7 @@
 
 As there is no Irish Embassy or Consulate in Mayotte, we are limited in the help we can offer you in an emergency. However, if you need assistance, you can contact the Consular Assistance Unit at the Department of Foreign Affairs and Trade, in Dublin.
 
-### Department of Foreign Affairs
+### Department of Foreign Affairs and Trade
 
 Iveagh House   
 80 St Stephen’s Green   

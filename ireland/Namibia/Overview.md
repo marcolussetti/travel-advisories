@@ -8,7 +8,7 @@ Normal Precautions
 
 ### **Drought**
 
-The southern Africa region is experiencing severe drought and many States have announced national emergencies, including Namibia. Travellers should be aware that this may pose additional unforeseen difficulties and should note that many areas may experience water and power shortages as a result.
+The southern Africa region experienced severe drought in 2024 and many States announced national emergencies, including Namibia. Travellers should be aware that this may pose additional unforeseen difficulties.
 
 ### **General Travel Advice**
 
@@ -37,7 +37,7 @@ Specific emergency numbers are:
 
 As there is no Irish Embassy in Namibia, we are limited in the help we can offer citizens in an emergency. However, if assistance is required, please contact the [**Irish Embassy in Lusaka, Zambia**](https://www.ireland.ie/en/zambia/lusaka/)**.**
 
-### **Our tips for Safe Travels:**
+### **Our Tips for Safe Travels:**
 
 * Get comprehensive travel insurance that covers all planned activities.
 * Carry copies of your passport and copies of any relevant documents (such as birth certificates) for minors who may be traveling.

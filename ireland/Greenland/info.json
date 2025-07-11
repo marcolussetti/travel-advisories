@@ -3,29 +3,29 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Greenland/Overview.md"
+            "title": "Travel to Greenland overview",
+            "file": "ireland/Greenland/Travel to Greenland overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Greenland/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Greenland/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Greenland/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Greenland/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/Greenland/Local laws and customs.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/Greenland/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Greenland/Embassy contact.md"
         }
     ],
-    "update_date": "2023-11-20T00:00:00"
+    "update_date": "2025-07-10T00:00:00"
 }

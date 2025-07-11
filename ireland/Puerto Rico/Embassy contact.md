@@ -1,10 +1,12 @@
 ## Embassy contact
 
+Puerto Rico is a territory of the United States. If you need assistance, you can contact the [**Irish Embassy in Washington DC**](https://www.ireland.ie/en/usa/washington/)**.**
+
 If you are in need of emergency assistance, please contact the Embassy at + 1-202-462-3939 and leave a message on the answering machine.
 
 The answering machine is monitored regularly and the Duty Officer will contact you as soon as possible.
 
-Alternatively, you may contact the Duty Officer at the Department of Foreign Affairs in Dublin at + 353-1-408 2000.
+Alternatively, you may contact the Duty Officer at the Department of Foreign Affairs and Trade in Dublin at + 353-1-408 2000.
 
 Monday to Friday 09:00-13:00 and 14:00-16:00
 

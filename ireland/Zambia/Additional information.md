@@ -1,6 +1,6 @@
 ## Additional information
 
-### **Entry requirements (visa/passport)**
+### **Entry Requirements (visa/passport)**
 
 Irish citizens may travel to Zambia for the purpose of tourism and/or visiting friends/relatives for up to 90 days in any period of 12 months. They will receive a passport entry stamp with a specified period of stay upon arrival (generally 30 days renewable) and there is no associated fee.
 
