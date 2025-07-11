@@ -39,7 +39,7 @@ Bloque E, Edif Grupo Terra
 Tegucigalpa, Honduras
 
 Phone: +504 2236 6936  
-Email: [australianconsulate@terra.hn](mailto:australianconsulate@terra.hn)
+Email: [australianconsulate@corporaciongrupoterra.com](mailto:australianconsulate@corporaciongrupoterra.com)
 
 You can get full consular assistance from the Australian Embassy in Mexico.
 

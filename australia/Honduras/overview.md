@@ -2,7 +2,7 @@
 
 Latest update
 
-We continue to advise exercise a high degree of caution due to the threat of violent crime. To enter Honduras, you must purchase a tourist card at the airport. If you're not a tourist or you plan to stay longer, you'll need a visa (see 'Travel').
+We've reviewed our advice for Honduras and continue to advise exercise a high degree of caution due to the threat of violent crime. Violent crime is widespread. Carjackers and armed robbers may target people travelling to and from the airport or at traffic lights. Arrive and depart the airport in daylight. Always keep vehicle doors and windows locked. Don't walk outside or travel after dark (see 'Safety').
 
 Advice Level summary
 

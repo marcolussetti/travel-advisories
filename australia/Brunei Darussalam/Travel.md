@@ -27,10 +27,15 @@ You must have the following before boarding your flight:
 * a valid visa (for visa-required passport holders).
 * a completed [E-Arrival Card](https://www.imm.gov.bn/)
 * a completed [Health Declaration Form](https://www.healthinfo.gov.bn/travel#/home) (BruHealth Portal)
+* a medical insurance policy with a minimum coverage of BND10,000 (if travelling for tourism purposes and staying longer than two weeks).
 
 You're required to complete an [E-Arrival Card online](https://www.imm.gov.bn/) before arriving in and departing Brunei. This includes air, land and sea routes. Transit passengers who do not pass through Brunei's immigration control posts will not be required to complete an E-Arrival Card. Refer to Brunei's [Immigration and National Registration System Portal](https://www.imm.gov.bn/) for more information.
 
 Due to the global increase in Mpox cases, it's mandatory for all individuals arriving in Brunei by air, land, or sea to complete a [Health Declaration Form](https://www.healthinfo.gov.bn/travel.#/home) through the "BruHealth" mobile application or [Brunei's Ministry of Health Website](https://www.healthinfo.gov.bn/travel.) within 3 days before arrival.
+
+You’re required to hold medical insurance throughout the duration of your visa, with tourists needing a minimum coverage of BND10,000 and Work Pass holders and long-term business or professional visits require a minimum coverage of BND100,000. 
+
+Proof of your medical insurance will need to be shown at Brunei’s immigration control posts when entering. Failure to provide proof of medical insurance will limit your visa to a validity of two weeks. Exemptions are given to those transiting Brunei for up to 72 hours and holding an onward ticket. Insurance can be purchased from local insurers or international companies offering worldwide coverage that includes Brunei.
 
 #### Other formalities
 

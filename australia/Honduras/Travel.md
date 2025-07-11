@@ -115,19 +115,22 @@ ATMs are available in major centres. Check your bank statements for ATM fraud.
 
 #### Local travel
 
+Honduran urban and rural roads and highways are dangerous.
+
+Armed robbery, car jackings and bus jackings occur.
+
+Carjackers may target you leaving a major airport. You may be robbed at traffic lights or by criminals pretending to be injured.
+
+It's more dangerous at night. Travelling by bus or car is risky after dark:
+
+* in San Pedro Sula
+* in Tegucigalpa
+* in other major cities
+* at beach resorts
+
 #### Local restrictions
 
 A State of Exception is periodically declared in various municipalities in Honduras to reduce crime. During this time, restrictions on freedom of movement (curfews) and other rights may be restricted. Monitor local media for updates and information on restrictions in specific neighbourhoods. You must always carry identification and comply with all local laws and police instructions.
-
-#### Landmines
-
-There are unmarked mine fields on both sides of the Honduras-Nicaragua border, especially in:
-
-* the Rio Coco region
-* the Choluteca and El Paraiso provinces
-* the area near the Atlantic Coast
-
-Don't leave known safe roads and areas.
 
 #### Tour operators
 
@@ -215,11 +218,15 @@ To safely use taxis:
 
 Public transport is not safe. Vehicles are often poorly serviced and drivers aren't trained.
 
-#### Sea travel
+#### Landmines
 
-Honduran navy patrols may board private vessels to check papers.
+There are unmarked mine fields on both sides of the Honduras-Nicaragua border, especially in:
 
-Criminals posing as fishermen have carried out armed attacks against private vessels.
+* the Rio Coco region
+* the Choluteca and El Paraiso provinces
+* the area near the Atlantic Coast
+
+Don't leave known safe roads and areas.
 
 #### Air travel
 
@@ -230,3 +237,9 @@ Check [Honduras's air safety profile](http://aviation-safety.net/database/countr
 **More information:**
 
 * [Air travel](/before-you-go/getting-around/air-travel "Travelling by air")
+
+#### Sea travel
+
+Honduran navy patrols may board private vessels to check papers.
+
+Criminals posing as fishermen have carried out armed attacks against private vessels.

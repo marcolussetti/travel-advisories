@@ -17,6 +17,8 @@ Crime often involves firearms and street gangs. There have been mass shootings i
 
 Honduras has very high rates of murder. Take safety precautions.
 
+Travellers have been sexually assaulted, often following spiking of food or drink. These incidents are on the rise.
+
 Travellers have been affected by violent crime:
 
 * in and around San Pedro Sula — including when leaving the airport
@@ -52,33 +54,6 @@ To protect yourself from violent crime:
 
 If you're a victim of violent crime, especially rape, get medical help straight away. Honduras has a high risk of [HIV/AIDS](https://www.who.int/news-room/fact-sheets/detail/hiv-aids) infection.
 
-#### Kidnapping
-
-Kidnapping occurs across the world with political, ideological and criminal motives. Foreigners, including Australians, have been kidnapped overseas while travelling. Kidnaps can happen anywhere, anytime, including destinations that are typically at lower risk. The Australian Government's longstanding policy is that it doesn't make payments or concessions to kidnappers.
-
-Express kidnappings can occur in the urban areas of Honduras, they are often committed by organised gangs or taxi drivers. The kidnappers usually take their victims to an ATM and force them to make a cash withdrawal. If threatened, do not resist. 
-
-**More information:**
-
-* [Kidnapping](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.smartraveller.gov.au%2Fbefore-you-go%2Fsafety%2Fkidnapping&data=05%7C02%7Ctravel.advice%40dfat.gov.au%7C0f0c1aa2ae3d413665bb08dc334d44fa%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638441654174896271%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=qmb6gv0H9m3%2F0lQjSVjAj3wFEguE7fZUR9t7Zym3Sew%3D&reserved=0)
-
-#### Other crime
-
-Honduran urban and rural roads and highways are dangerous.
-
-Armed robbery, car jackings and bus jackings occur.
-
-Carjackers may target you leaving a major airport. You may be robbed at traffic lights or by criminals pretending to be injured.
-
-Travellers have been sexually assaulted, often following spiking of food or drink. These incidents are on the rise.
-
-It's more dangerous at night. Travelling by bus or car is risky after dark:
-
-* in San Pedro Sula
-* in Tegucigalpa
-* in other major cities
-* at beach resorts
-
 If you're walking alone, you could be at risk of violent crime.
 
 To stay safe:
@@ -89,10 +64,6 @@ To stay safe:
 * keep car windows and doors locked
 * travel in convoy
 * do not travel after dark
-
-**More information:**
-
-* [Partying safely](/before-you-go/safety/partying "Partying safely")
 
 #### Petty crime
 
@@ -117,6 +88,12 @@ If you're attacked or robbed, don't resist. If criminals have guns or weapons, t
 
 The Bay Islands are generally safer than mainland Honduras. Crime is lower, but petty crime is common. Tourists can be the victims of violent crime. Theft from homes and long-term rentals happens.
 
+Drink spiking can happen anywhere. Be alert to the potential risks, and don't leave food or drinks unattended. Pay attention when your drinks are being mixed. Stick to reputable venues and avoid homemade alcoholic drinks due to the risk of methanol poisoning. Get urgent medical help if you suspect you’ve been a victim.
+
+**More information:**
+
+* [Partying safely](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.smartraveller.gov.au%2Fbefore-you-go%2Fsafety%2Fpartying&data=05%7C02%7CMichelle.Lam%40dfat.gov.au%7Cbd0cd565db744527188508dd41a4930d%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638738897282360647%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=8hzP1P0iV92Jm88KsRyu4DlEadlSJN77OY%2FyBZsYuRk%3D&reserved=0)
+
 #### Scams and fraud
 
 [Scams](/before-you-go/safety/scams "Scams that affect travellers") and credit card fraud are a risk.
@@ -135,13 +112,59 @@ Social media can also be risky in destinations where there are social or politic
 
 * [Cyber security when travelling overseas](https://www.smartraveller.gov.au/before-you-go/staying-safe/cyber-security)
 
-**Safety Tips for Women Travelers**
+#### Safety Tips for Women Travelers
 
 Women traveling alone may encounter instances of sexual harassment and verbal abuse.
 
 **More information:**
 
 * [Advice for Women Travellers](https://www.smartraveller.gov.au/before-you-go/who-you-are/women)
+
+#### Kidnapping
+
+Kidnapping occurs across the world with political, ideological and criminal motives. Foreigners, including Australians, have been kidnapped overseas while travelling. Kidnaps can happen anywhere, anytime, including in destinations that are typically at lower risk.
+
+Express [kidnappings](https://www.smartraveller.gov.au/before-you-go/safety/kidnapping) can occur in urban areas in Honduras, and are often committed by organised gangs or taxi drivers. Victims are forced to withdraw money from ATMs to secure their release. If threatened, do not resist.
+
+Use only well-known radio taxi companies with the phone number displayed on the vehicle's roof or ride-sharing applications. Don't hail taxis off the street.  Note the taxi's registration number and phone number.
+
+If despite our advice, you travel to an area with a high risk of kidnapping our ability to provide consular assistance in these destinations is limited.
+
+You are responsible for your own safety. To reduce the risk of kidnapping:
+
+* always be alert to your personal security and surroundings – avoid distractions. Be prepared to stop or take evasive action if you sense danger
+
+* get professional security advice for travel in locations with a heightened kidnap risk. It is essential to have a contingency plan
+
+* check your accommodation has appropriate security measures
+
+* vary your movements so you don’t set predictable patterns
+
+* keep a low profile – including online. Drawing attention to yourself in high-risk areas may signal to criminals that you have something worth taking
+
+* avoid isolated locations, particularly when travelling alone. There is safety in numbers, and you should try to travel with someone else, especially at night
+
+* notify family or friends of planned travel; share you location and emergency contacts that they can rely on if something happens
+
+* avoid talking about your money or business affairs
+
+* use ATMs in public places and during daylight hours
+
+* avoid giving personal details to strangers online or over the phone. Criminals have been known to search social media for victims
+
+* if you are confronted by armed criminals, it is best to surrender and cooperate – resistance tends to make the situation worse
+
+You can find more information on how to reduce your risk of kidnapping here: [Kidnapping](https://www.smartraveller.gov.au/before-you-go/safety/kidnapping).  
+
+The Australian Government’s longstanding policy is that it doesn’t make payments or concessions to kidnappers. Ransom payments to kidnappers have funded further terrorist attacks and criminal activity. Ransom payments to terrorist groups are likely to contravene Australian counter-terrorism financing laws.
+
+**More information:**
+
+* [Kidnapping](https://www.smartraveller.gov.au/before-you-go/safety/kidnapping)
+
+* [Scams that affect travellers](https://www.smartraveller.gov.au/before-you-go/safety/scams)
+
+* [Reducing the risk of piracy](https://www.smartraveller.gov.au/before-you-go/safety/piracy)
 
 #### Civil unrest and political tension
 

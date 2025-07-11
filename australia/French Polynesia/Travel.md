@@ -117,7 +117,7 @@ The local currency is the Pacific Franc (XPF — Franc Pacifique).
 
 You can change Australian dollars at the Tahiti-Faa'a International Airport, which is only open for international arrivals and departures. ATMs are located throughout Tahiti and on the main islands.
 
-Credit cards are accepted in hotels, restaurants, boutiques and supermarkets on the main islands. However, you may only be able to use cash :
+Credit cards are accepted in hotels, restaurants, boutiques and supermarkets on the main islands. However, you may only be able to use cash:
 
 * at smaller shops
 * on remote islands and atolls
@@ -131,7 +131,7 @@ Take enough cash if you are travelling to remote islands.
 
 Industrial and political disputes as well as strikes can cause disruptions to essential services including transport. Monitor developments and plan as required.
 
-To learn more about strikes and civil disputes see '[Safety](#safety)'
+To learn more about strikes and civil disputes see '[Safety](#safety)'.
 
 The road network is not developed, and traffic jams occur frequently. It can take a long time to drive a short distance. Seek local advice about road conditions when planning your travel to the airport or marina.
 
@@ -239,6 +239,8 @@ If you plan to travel by sea:
 DFAT doesn’t provide information on the safety of individual commercial airlines or flight paths.
 
 Contact your airline for the latest information.
+
+Domestic flights departing from or arriving at the Tahiti-Faa’a International Airport (from/to other French Polynesian islands) have the same on-board security restrictions as international flights. There are limitations on what you can take on board. Check with your airline if you are unsure. 
 
 **More information:**
 

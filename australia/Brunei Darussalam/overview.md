@@ -2,7 +2,7 @@
 
 Latest update
 
-You're required to complete a Health declaration form within 3 days before arriving in Brunei (see 'Travel').
+You're required to complete a Health declaration form within 3 days before arriving in Brunei. You’re also required to hold medical insurance throughout the validity of your visa, with the minimum coverage depending on the type of visa you hold. Failure to show proof of medical insurance will limit your visa to a validity of two weeks (see 'Travel').
 
 Advice Level summary
 
@@ -56,6 +56,7 @@ Full travel advice: [Local laws](#local-laws)
 * To enter Brunei, you'll need a visa. In some cases you may be able to obtain and pay for a visa on arrival. Entry and exit conditions can change at short notice. You should contact the nearest high commission or consulate of Brunei for the latest details.
 * You're required to complete an [E-Arrival Card online](https://www.imm.gov.bn/) before arriving in and departing Brunei. This includes air, land and sea routes. If you're transiting, you will not be required to complete an E-Arrival Card.
 * You're required to complete a [Health Declaration Form](https://www.healthinfo.gov.bn/travel#/home) within 3 days before arriving in Brunei by air, land, or sea. This is in response to the global spread of Mpox.
+* You’re required to hold medical insurance throughout the validity of your visa, with the minimum coverage depending on the type of visa you hold. Failure to show proof of medical insurance will limit your visa to a validity of two weeks.
 
 Full travel advice: [Travel](#travel)
 

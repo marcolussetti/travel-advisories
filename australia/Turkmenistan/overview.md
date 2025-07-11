@@ -2,13 +2,7 @@
 
 Latest update
 
-We continue to advise exercise a high degree of caution overall due to the threat of crime. We continue to advise do not travel to the region bordering Afghanistan (see 'Safety'). You need a visa and a letter of invitation for Turkmenistan, even if you're only transiting. Get a visa before you arrive, and don't overstay your visa, as there are penalties (see 'Travel').  
-  
-The Iran-Turkmenistan border is open for humanitarian purposes, including for transit of foreign citizens in Iran. We are working with Turkmen authorities to facilitate humanitarian transit entry into Turkmenistan for Australian citizens. If you are an Australian citizen seeking humanitarian transit entry from Iran into Turkmenistan, contact the Australian Embassy in Moscow (see 'Travel' below) and attach a copy of your Australian passport.   
-  
-Australians seeking to transit Turkmenistan must arrive at either Bajgiran or Artyk border crossing posts and must present a valid airline ticket with a departure time from Turkmenistan within 7 hours of your arrival at the land border. Details of your outward flight, and information on which crossing you will use, must be communicated to the Australian Embassy in Moscow in advance of your arrival at the border. If you arrive at the border more than 7 hours from your departure time from Turkmenistan, or without a valid airline ticket, you will be turned away.  
-  
-Requirements for border crossings from Iran may change without notice. Check the latest public information from local authorities on entry requirements and border arrangements.
+You need a visa and a letter of invitation for Turkmenistan, even if you're only transiting. Get a visa before you arrive, and don't overstay your visa, as there are penalties (see 'Travel').
 
 Advice Level summary
 
@@ -68,9 +62,6 @@ Full travel advice: [Local laws](#local-laws)
 
 ### Travel
 
-* The Iran-Turkmenistan border is open for humanitarian purposes, including for transit of foreign citizens in Iran.  We are currently working with Turkmen authorities to facilitate humanitarian transit entry into Turkmenistan for Australian citizens. If you are an Australian citizen seeking humanitarian transit entry from Iran into Turkmenistan, contact the Australian Embassy in Moscow via email ([crisis.moscow@dfat.gov.au](mailto:crisis.moscow@dfat.gov.au)) and attach a copy of your Australian passport.
-* Australians seeking to transit Turkmenistan via Iran must arrive at either Bajgiran or Artyk border crossing posts and must present a valid airline ticket with a departure time from Turkmenistan within 7 hours of your arrival at the land border. Details of your outward flight, and information on which crossing you will use, must be communicated to the Australian Embassy in Moscow in advance of your arrival at the border. If you arrive at the border more than 7 hours from your departure time from Turkmenistan, or without a valid airline ticket, you will be turned away.
-* Requirements for border crossings from Iran may change without notice. Check the latest public information from local authorities on entry requirements and border arrangements.
 * You need a letter of invitation from the State Migration Service of Turkmenistan to apply for a visa, even if you're only transiting. You must keep the letter of invitation with you when you are in Turkmenistan.
 * Get a visa before you arrive. There are penalties for overstaying your visa. Entry and exit conditions can change at short notice. You should contact the nearest embassy or consulate of Turkmenistan for the latest details.
 * You must take a COVID-19 (PCR) test on arrival, and if your test results are positive, you may be required to quarantine in a state-run facility or at your place of residence under medical supervision.

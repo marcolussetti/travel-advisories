@@ -129,4 +129,4 @@ The Central Hospital of French Polynesia in Papeete has a decompression facility
 
 There's no shared healthcare agreement between Australia and French Polynesia.
 
-Make sure your insurance covers medical evacuation and your planned activities.
+Make sure your travel insurance covers you for activities you will undertake while overseas, and includes medical evacuation.

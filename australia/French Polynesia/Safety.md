@@ -83,7 +83,7 @@ If you’re hiking in the mountains:
 * never go alone
 * be prepared with appropriate equipment and supplies
 
-Stick to marked trails. In many mountain areas telephone signals are not available. Heavy rains and flash flooding may occur at anytime.
+Stick to marked trails. In many mountain areas telephone signals are not available. Heavy rains and flash flooding may occur at any time.
 
 #### Climate and natural disasters
 

@@ -90,6 +90,18 @@ Get medical advice if you have a fever, muscle pain, rash or severe headache.
 
 Protect yourself if you are at risk of infection.
 
+#### Rabies
+
+There's a high risk of [rabies](http://www.who.int/rabies/en/) in Honduras. Avoid direct contact with all animals, especially:
+
+* dogs
+* cats
+* bats
+
+Get urgent medical attention if you're bitten or scratched.
+
+While travelling, take precautions, including keeping your distance from animals and closely supervising children. 
+
 #### Other health risks
 
 Waterborne, foodborne and other [infectious diseases](/before-you-go/health/diseases "Infectious diseases") are common. These include:
@@ -120,8 +132,6 @@ Severe air pollution happens in Honduras during the dry season.
 This can lead to respiratory problems. Before you travel, discuss the risks and how to manage them with your doctor.
 
 #### Medical care
-
-#### Medical facilities
 
 Medical facilities in Tegucigalpa and San Pedro Sula are poor. Services outside these areas are extremely limited.
 

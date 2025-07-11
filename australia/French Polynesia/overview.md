@@ -2,7 +2,7 @@
 
 Latest update
 
-We've reviewed our advice for French Polynesia and continue to advise exercise normal safety precautions. Beaches in French Polynesia are not patrolled. There may be strong currents, even in the lagoons, ask locals before going swimming, obey warning signs and follow the advice of local authorities (see 'Safety').
+We continue to advise exercise normal safety precautions for French Polynesia. Make sure your travel insurance covers you for activities you will undertake while overseas, and includes medical evacuation. Beaches in French Polynesia are not patrolled. There may be strong currents, even in the lagoons, ask locals before going swimming, obey warning signs and follow the advice of local authorities (see 'Safety').
 
 Advice Level summary
 
@@ -25,7 +25,7 @@ Exercise normal safety precautions in French Polynesia.
 * The rate of serious crime is low. But petty crime, including theft, does occur. Take arranged transport and avoid walking after dark. Keep your belongings close, especially in crowded places or on the beach. Don't leave food or drink unattended.
 * French Polynesia has natural disasters, including cyclones and tsunamis. Check with the [High Commission of France in French Polynesia (French)](http://www.polynesie-francaise.pref.gouv.fr/) for updates. They also run a phone hotline during major emergencies. Your tour operator or accommodation provider may also be able to provide timely advice.
 * Strikes and industrial disputes can lead to unrest and disrupt essential services, including transport links. Protests can turn violent. Avoid large public gatherings.
-* The cyclone season between November and April. However, tropical storms and cyclones are likely to occur at any time. Understand and follow French Polynesia's cyclone alert system.
+* The cyclone season is between November and April. However, tropical storms and cyclones are likely to occur at any time. Understand and follow French Polynesia's cyclone alert system.
 * Tsunamis may occur and can arrive within minutes of a tremor or earthquake. Know the warning signs and move immediately to high ground.
 
 Full travel advice: [Safety](#safety)
