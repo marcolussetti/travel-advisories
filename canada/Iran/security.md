@@ -4,7 +4,7 @@
 
 ### Tensions in the Middle East
 
-There are ongoing tensions in the region and hostilities could resume with little or no warning. During previous attacks, drones, missiles and other projectiles have struck targets in Iran.
+There are ongoing tensions in the region and hostilities could resume with little or no warning. During previous attacks, drones, missiles and other projectiles struck targets in Iran.
 
 Iranian airspace is open, however commercial flight options may be limited.
 
@@ -13,19 +13,7 @@ Heightened tensions could result in:
 * travel disruptions, including flight cancellations and airspace closures
 * military debris falling in various locations
 
-Canada is unable to provide assistance within Iran, including transportation to the border. It’s possible to cross the land border at the following locations:
-
-* To Türkiye:
-
-+ Qator/Kapıköy
-+ Sero/Esendere
-
-* To Armenia:
-  + Nordoz/Agarak
-
-* To Azerbaijan:
-
-+ The Astara border crossing point is closed. The Embassy of Canada to Türkiye, in Ankara, can request special entry authorization for Canadians from the Government of Azerbaijan. If authorization is granted, you will receive an entry code and will need to obtain an [electronic visa](https://evisa.gov.az/en/ "https://evisa.gov.az/en/") ahead of crossing. If you assess this to be your safest option, you or someone on your behalf should contact Global Affairs Canada’s 24/7 [Emergency Watch and Response Centre](https://travel.gc.ca/assistance/emergency-assistance?_ga=2.93069341.168187391.1696947682-2043183889.1686925125 "https://travel.gc.ca/assistance/emergency-assistance?_ga=2.93069341.168187391.1696947682-2043183889.1686925125").
+Canada is unable to provide assistance within Iran, including transportation to the border. It’s possible to cross the land border with Türkiye and Armenia.
 
 Border closures or restrictions to movement could occur.
 

@@ -338,7 +338,7 @@
     {
         "destination": "Denmark",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-06-26T14:19:54",
+        "last_updated": "2025-07-10T09:14:52",
         "details_url": "https://travel.gc.ca/destinations/denmark"
     },
     {
@@ -362,7 +362,7 @@
     {
         "destination": "Ecuador",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-07-08T16:34:29",
+        "last_updated": "2025-07-10T11:18:10",
         "details_url": "https://travel.gc.ca/destinations/ecuador"
     },
     {
@@ -374,7 +374,7 @@
     {
         "destination": "El Salvador",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-06-26T14:19:54",
+        "last_updated": "2025-07-10T15:22:38",
         "details_url": "https://travel.gc.ca/destinations/el-salvador"
     },
     {
@@ -548,7 +548,7 @@
     {
         "destination": "Hong Kong",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-06-26T14:19:54",
+        "last_updated": "2025-07-10T14:29:10",
         "details_url": "https://travel.gc.ca/destinations/hong-kong"
     },
     {
@@ -578,7 +578,7 @@
     {
         "destination": "Iran",
         "risk_level": "Avoid all travel",
-        "last_updated": "2025-06-27T16:35:21",
+        "last_updated": "2025-07-10T12:42:19",
         "details_url": "https://travel.gc.ca/destinations/iran"
     },
     {
@@ -595,8 +595,8 @@
     },
     {
         "destination": "Israel, the West Bank and the Gaza Strip",
-        "risk_level": "Avoid all travel",
-        "last_updated": "2025-07-08T09:12:41",
+        "risk_level": "Avoid non-essential travel (with regional advisories)",
+        "last_updated": "2025-07-10T05:45:30",
         "details_url": "https://travel.gc.ca/destinations/israel-the-west-bank-and-the-gaza-strip"
     },
     {
@@ -632,7 +632,7 @@
     {
         "destination": "Kenya",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-07-09T19:27:08",
+        "last_updated": "2025-07-10T10:54:30",
         "details_url": "https://travel.gc.ca/destinations/kenya"
     },
     {
@@ -830,7 +830,7 @@
     {
         "destination": "Morocco",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-06-26T14:19:54",
+        "last_updated": "2025-07-10T14:31:48",
         "details_url": "https://travel.gc.ca/destinations/morocco"
     },
     {
@@ -1034,7 +1034,7 @@
     {
         "destination": "Saint Kitts and Nevis",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2025-06-26T14:19:54",
+        "last_updated": "2025-07-10T10:40:19",
         "details_url": "https://travel.gc.ca/destinations/saint-kitts-and-nevis"
     },
     {
@@ -1214,7 +1214,7 @@
     {
         "destination": "Taiwan",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2025-07-07T12:08:39",
+        "last_updated": "2025-07-10T03:34:47",
         "details_url": "https://travel.gc.ca/destinations/taiwan"
     },
     {
