@@ -5,10 +5,10 @@
 [**U.S. Embassy Ottawa**](https://ca.usembassy.gov/embassy-consulates/ottawa/)
 
 **490 Sussex Drive  
-Ottawa, Ontario K1N 1G8  
-Canada  
+Ottawa, Ontario   
+K1N 1G8  
 Telephone:**+1 (613) 688-5335  
-**Emergency After-Hours Telephone:** +1 (613) 238-5335  
+**Emergency After-Hours Telephone:**   
 **Fax:** +1 (613) 688-3082  
 **Email:** [Canada.ACS@gdit-gss.com](mailto:Canada.ACS@gdit-gss.com)
 
@@ -18,8 +18,9 @@ The Ottawa consular district includes the counties of Kingston, Lanark, Leeds, P
 
 [**U.S. Consulate General Montreal**](https://ca.usembassy.gov/embassy-consulates/montreal/)
 
-**1134 Rue Ste- Catherine West  
-Montréal, Quebec H3B 1H4  
+**1134 Rue Sainte-Catherine Street West  
+Suite 100  
+Montreal, Québec H3B 1H4  
 Canada  
 Telephone:** +1 (514) 398-9695  
 **Emergency After-Hours Telephone:** +1 (416) 645-9124  
@@ -43,7 +44,8 @@ The consular district includes the province of Ontario except for the counties o
 [**U.S. Consulate General Vancouver**](https://ca.usembassy.gov/embassy-consulates/vancouver/)
 
 **1075 West Pender Street  
-Vancouver, British Columbia V6E 2M6  
+Vancouver, British Columbia   
+V6E 2M6  
 Canada  
 Telephone:** +1 (604) 685-4311  
 **Emergency After-Hours Telephone:** +1 (604) 685-4311  
@@ -54,11 +56,11 @@ The consular district includes British Columbia and the Yukon Territory.
 
 [**U.S. Consulate General Halifax**](https://ca.usembassy.gov/embassy-consulates/halifax/)
 
-**Purdy's Wharf Tower II  
-1969 Upper Water Street, Suite 904  
-Halifax, Nova Scotia B3J 3R7  
-Canada  
-Telephone:**+1 (902) 429-2480  
+**1969 Upper Water Street  
+Suite 904, Purdy’s Wharf  
+Tower II  
+B3J 3R7  
+Telephone: 902-812-0049**  
 **Emergency After-Hours Telephone:** +1 (902) 429-2480, Press 1  
 **Email:**[Halifax-ACS@state.gov](mailto:Halifax-ACS@state.gov)
 
@@ -67,7 +69,8 @@ The Halifax consular district includes New Brunswick, Newfoundland and Labrador,
 [**U.S. Consulate Winnipeg**](https://ca.usembassy.gov/embassy-consulates/winnipeg/)
 
 **201 Portage Avenue, Suite 860  
-Winnipeg, Manitoba R3B 3K6  
+Winnipeg, Manitoba   
+R3B 3K6  
 Canada  
 Telephone:**+1 (204) 940-1800  
 **Emergency After-Hours Telephone:** +1 (403) 266-8962 and press "0" for assistance (Consulate General Calgary)  
@@ -87,8 +90,8 @@ Telephone:** +1 (418) 692-2095
 The consular district includes Quebec City and those regions of Quebec Province to the North and East of the Montreal and Ottawa Districts (indicated above) – to include the area around Saguenay/Lac Saint-Jean, Rimouski and the Gaspé Peninsula – as well as the Territory of Nunavut.
 
 [**U.S. Consulate General Calgary**](https://ca.usembassy.gov/embassy-consulates/calgary/) **615 Macleod Trail S.E., 10th Floor  
-Calgary, Alberta T2G 4T8  
-Canada  
+Calgary, Alberta   
+T2G 4T8, Canada  
 Telephone:** +1 (403) 266-8962  
 **Fax:** +1 (403) 264-6630  
 **Email:** [Canada.ACS@gdit-gss.com](mailto:Canada.ACS@gdit-gss.com)The consular district includes Alberta, Manitoba, Saskatchewan, and the Northwest Territories, excluding Nunavut.

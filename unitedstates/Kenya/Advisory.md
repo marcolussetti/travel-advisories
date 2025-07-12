@@ -112,7 +112,7 @@ Telephone
 
 Emergency
 
-+(254) (20) 363-6170
+null
 
 Fax
 
