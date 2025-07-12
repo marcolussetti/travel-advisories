@@ -45,6 +45,18 @@ Flash floods and landslides are common. Roads may become impassable and bridges 
 
 #### Earthquakes and tsunamis
 
+Since July 8, 2025, a series of earthquakes, up to a magnitude of 5.7, has been occurring. The tremors have resulted in structural damage and casualties in the departments of Escuintla, Sacatepéquez and Guatemala. Further earthquakes could occur.
+
+If you’re in or near the affected areas:
+
+* monitor local media for the latest information
+* follow instructions from local authorities, including evacuation orders
+
+#### Useful links
+
+* [CONRED](https://conred.gob.gt/) – National Coordinator for Disaster Reduction (in Spanish only)
+* [Earthquakes – What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx)
+
 Guatemala is located in an active seismic zone. Earthquakes and tsunamis can occur.
 
 A tsunami can occur within minutes of a nearby earthquake. However, the risk of tsunami can remain for several hours following the first tremor. If you’re staying on the coast, familiarize yourself with the region’s evacuation plans in the event of a tsunami warning.
@@ -60,7 +72,7 @@ In the event of an earthquake or volcanic eruption:
 * monitor local media to stay informed of the evolving situation
 * follow the instructions of local authorities, including evacuation orders
 
-Useful links
+#### Useful links
 
 * [CONRED](https://conred.gob.gt/) – National Coordinator for Disaster Reduction (in Spanish)
 * [Earthquakes – What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx)

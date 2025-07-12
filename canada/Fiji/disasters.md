@@ -4,21 +4,29 @@
 
 ### Climate change
 
-Climate change is affecting Fiji. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local news to stay informed on the current situation.
+Climate change is affecting Fiji. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local media for the latest information.
 
-### Cyclones and monsoons
+### Rainy and cyclone season
 
-The rainy (or monsoon) and cyclone seasons in the South Pacific are from November to April. Severe storms can cause flooding and landslides, which result in significant loss of life and extensive damage to infrastructure, and hamper the provision of essential services.
+The rainy and cyclone season in the Pacific Islands Region takes place from November to April, but cyclones may occur at other times.
 
-* Keep informed of regional weather forecasts
+Severe storms, including rain and wind, can cause flooding and landslides, which can result in significant loss of life and extensive damage to infrastructure, and can hamper the provision of essential services.
+
+Flooding can also cut off access to roads, including to the airport. The risk of leptospirosis often increases after a cyclone or flood when people come into contact with contaminated water or soil.
+
+* Stay informed of the latest regional weather forecasts
+* Stay in a safe place and limit movement during serious weather events
+* Ensure you have sufficient potable water, food, and a battery-operated radio
 * Avoid disaster areas
 * Follow the advice of local authorities
 
-Useful links
+#### Useful links
 
-* [Tornadoes, cyclones, hurricanes, typhoons and monsoons](https://travel.gc.ca/travelling/health-safety/hurricanes-typhoons-cyclones-monsoons)
-* [Fiji Meteorological Service](http://www.met.gov.fj/)
+* [Severe storms outside Canada](https://travel.gc.ca/travelling/health-safety/hurricanes-typhoons-cyclones-monsoons)
+* [Weather Forecast](http://www.met.gov.fj/) – Fiji Meteorological Service
 
 ### Seismic activity
 
 Fiji is located in an active seismic zone and is prone to earthquakes. Tsunamis may occur after a strong earthquake and can travel long distances across the Pacific Ocean.
+
+Familiarize yourself with the tsunami safe zones that are nearest to your accommodations.

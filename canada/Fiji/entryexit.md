@@ -4,7 +4,7 @@
 
 Every country or territory decides who can enter or exit through its borders. The Government of Canada cannot intervene on your behalf if you do not meet your destination’s entry or exit requirements.
 
-We have obtained the information on this page from the Fijian authorities. It can, however, change at any time.
+We have obtained the information on this page from Fijian authorities. It can, however, change at any time.
 
 Verify this information with the [Foreign Representatives in Canada](https://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng).
 
@@ -39,13 +39,14 @@ Different entry rules may apply when travelling with a temporary passport or an 
 
 ### Visas
 
-Tourist visa: issued upon arrival for stays of up to 4 months  
+Tourist visa: not required for stays of up to 4 months  
 Business visa: required  
-Work visa: required
+Work visa: required  
+Student visa: required
 
-### Other requirements
+### Other entry requirements
 
-An onward or return ticket is required to visit Fiji.
+Customs officials will ask you to show them a return or onward ticket.
 
 ### Children and travel
 

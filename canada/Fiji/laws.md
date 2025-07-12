@@ -10,40 +10,14 @@ Learn about what you should do and how we can help if you are [arrested or detai
 
 Penalties for possession, use or trafficking of illegal drugs are severe. Convicted offenders can expect jail sentences or heavy fines.
 
+* Pack your own luggage and monitor it closely at all times
+* Never transport other people’s packages, bags or suitcases
+
 [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
-
-### Child sex tourism
-
-It's a serious criminal offence to have sex with minors in Fiji.
-
-Conviction may result in a lengthy prison sentence.
-
-[Child Sex Tourism: It’s a Crime](https://travel.gc.ca/travelling/publications/child-crime)
-
-### Imports and exports
-
-Fiji has strict import restrictions and customs regulations, especially for food, plants, weapons, pets, drugs, tobacco and alcohol. Before travelling, make sure you are aware of the customs process, allowances and restrictions.
-
-* [Customs arrival information](http://www.frcs.org.fj/arriving-in-fiji/) - Fiji Revenue & Customs Service
-* [Prohibited and restricted imports](http://www.frcs.org.fj/wp-content/uploads/2012/10/CUSTOMS-PROHIBITED-IMPORTS-AND-EXPORTS-REGULATIONS-1986-REVISED-29.01.pdf) - Fiji Revenue & Customs Service
-
-### Driving
-
-Traffic drives on the left.
-
-There is zero tolerance for driving under the influence of alcohol.
-
-You should carry an International Driving Permit.
-
-[International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
-
-### Culture
-
-Dress conservatively outside tourist areas to avoid offending local sensitivities.
 
 ### 2SLGBTQI+ persons
 
-Fijian law does not prohibit sexual acts between individuals of the same sex. Homosexuality, however, is not socially tolerated in rural areas.
+Fijian law does not prohibit sexual acts between individuals of the same sex. However, homosexuality is not socially tolerated. Avoid public displays of affection. Gender-based violence occurs.
 
 [Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
 
@@ -81,10 +55,55 @@ Be aware that Canadian consular officials cannot interfere in private legal matt
 * [Canadian embassies and consulates by destination](https://travel.gc.ca/assistance/embassies-consulates)
 * [Request emergency assistance](https://travel.gc.ca/assistance/emergency-assistance?_ga)
 
+### Driving
+
+Traffic drives on the left. Give way to vehicles on the right in roundabouts.
+
+Fiji has a zero-tolerance policy for drinking and driving.
+
+You should carry an International Driving Permit.
+
+[International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
+
+### Imports and exports
+
+Fiji has strict import restrictions and customs regulations, especially for:
+
+* food
+* plants
+* weapons
+* pets
+* drugs
+* tobacco and alcohol
+
+Before travelling to Fiji, make sure you are aware of the customs process, allowances and restrictions.
+
+#### Useful links
+
+* [Arriving in Fiji](http://www.frcs.org.fj/arriving-in-fiji/) – Fiji Revenue and Customs Service
+* [Customs regulations](http://www.frcs.org.fj/wp-content/uploads/2012/10/CUSTOMS-PROHIBITED-IMPORTS-AND-EXPORTS-REGULATIONS-1986-REVISED-29.01.pdf) – Fiji Revenue and Customs Service
+
+### Child sex tourism
+
+It's a serious criminal offence to have sex with minors in Fiji. Conviction may result in a lengthy prison sentence.
+
+[Child Sex Tourism: It’s a Crime](https://travel.gc.ca/travelling/publications/child-crime)
+
+### Dress and behaviour
+
+Dress conservatively outside tourist areas to avoid offending local sensitivities. Nudity in public, including women going topless, is illegal.
+
+During kava ceremonies and in rural villages, cover your shoulders and knees.
+
 ### Money
 
-The currency is the Fijian dollar (FJD).
+The currency of Fiji is the Fijian dollar (FJD).
 
-Major credit cards are accepted by most hotels, restaurants and shops. ATMs are widely available in main centres and some rural areas.
+Credit cards are accepted by most hotels, restaurants, and shops. ATMs are widely available in main centres and some rural areas.
 
-Possession of currency equivalent to more than FJ$10,000 must be declared upon entering or exiting the country.
+You must make a customs declaration when in possession of currency:
+
+* equivalent to more than $5,000 FJD when entering the country
+* equivalent to more than $10,000 FJD when exiting the country
+
+Undeclared money can lead to a fine or a prison sentence.

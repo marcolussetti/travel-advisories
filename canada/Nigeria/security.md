@@ -2,6 +2,15 @@
 
 ## Safety and security
 
+### Local government elections in Lagos State
+
+Local government elections are scheduled to take place across Lagos State on July 12, 2025. A total restriction on vehicle movement will be enforced from 6 am to 3 pm on that day.
+
+* Expect disruptions to traffic and public transportation, including access to Murtala Mohammed International Airport
+* Avoid areas where demonstrations and large gatherings are taking place
+* Follow the instructions of local authorities
+* Monitor local media for the latest information
+
 ### State of emergency in Rivers State
 
 On March 18, 2025, the government of Nigeria declared a 6-month state of emergency in Rivers State. This is in response to an attack by militants on oil infrastructure and political instability in the state.

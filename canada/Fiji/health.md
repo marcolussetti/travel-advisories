@@ -57,6 +57,14 @@ There is a risk of [hepatitis A](https://www.canada.ca/en/public-health/services
 
 Practise [safe food and water precautions](https://travel.gc.ca/travelling/health-safety/food-water) and wash your hands often. Vaccination is recommended for all travellers to areas where hepatitis A is present.
 
+Rabies 
+
+In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/diseases/rabies) may be present in some wildlife species, including bats. Rabies is a deadly disease that spreads to humans primarily through bites or scratches from an infected animal.
+
+If you are bitten or scratched by an animal while travelling, immediately wash the wound with soap and clean water and see a health care professional.
+
+Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who will be working directly with wildlife.
+
 Measles 
 
 Measles is a serious viral infection that spreads easily. It spreads through the air, and can stay in the air for up to 2 hours. You can also get measles by direct contact with an infected person or by touching a surface with the virus on it and then touching your eyes, nose, or mouth before washing your hands.
@@ -99,14 +107,6 @@ In addition to vaccination, use personal protective measures to help protect you
 
 [Vaccine for COVID-19: How to get vaccinated](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/vaccines/how-vaccinated.html)  
 [COVID-19: Spread, prevention and risks](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html#p)
-
-Rabies 
-
-In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/diseases/rabies) may be present in some wildlife species, including bats. Rabies is a deadly disease that spreads to humans primarily through bites or scratches from an infected animal.
-
-If you are bitten or scratched by an animal while travelling, immediately wash the wound with soap and clean water and see a health care professional.
-
-Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who will be working directly with wildlife.
 
 ### Safe food and water precautions
 
@@ -234,11 +234,25 @@ To lower your risk of getting sexually transmissible infections (STIs), HIV, and
 
 ### Medical services and facilities
 
-Good medical services and facilities are limited in availability. Quality of care varies greatly throughout the country. Medical services and facilities are adequate in major cities, but not in more remote areas. Avoid older medical clinics, as they often lack basic drugs and equipment, and have poor hygiene standards. Private hospitals and clinics located in cities are often better staffed and equipped than public or rural facilities. Medical evacuation may be necessary in the case of serious injury or illness.
+Good health care is severely limited. Facilities often lack services, medical supplies, drugs, and equipment. Clinics and hospitals usually require payment in advance.
+
+Emergency and ambulance services are very limited and response times are slow. Ambulance services only provide transportation and don’t provide care. In case of serious illness or injury, you should consider taking a taxi or private vehicle to get to the hospital rather than wait for an ambulance.
+
+Medical evacuation is very expensive and you will likely need it in case of serious illness or injury.
 
 Make sure you get travel insurance that includes coverage for medical evacuation and hospital stays.
 
 [Health and safety outside Canada](https://travel.gc.ca/travelling/health-safety)
+
+### Medication
+
+Some prescription medications may not be available in Fiji.
+
+If you take prescription medications, you’re responsible for determining their legality in Fiji.
+
+* Bring enough medication for your stay
+* Always keep your medication in the original container and carry a copy of your prescriptions
+* Pack your medication in your carry-on luggage
 
 ### Keep in Mind...
 
