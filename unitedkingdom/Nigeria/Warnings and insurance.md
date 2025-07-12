@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   27 June 2025
+:   12 July 2025
 
 Updated:
-:   26 June 2025
+:   11 July 2025
 
 Latest update:
-:   New information on where attacks could take place at any time and new information on intercommunal violence in Benue State ('Safety and security' and 'Regional risks' pages).
+:   New information on local elections and travel disruptions in Lagos State (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/6544d305d36c910012935d1f/FCDO__TA__030_-_Nigeria_Travel_Advice_Ed8__WEB_.jpg)
 
@@ -67,6 +67,14 @@ FCDO advises against all but essential travel to:
 * Imo State
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/nigeria/regional-risks).
+
+## Local government elections in Lagos State
+
+Local government elections are due to take place across Lagos State on Saturday 12 July. The Lagos State Police have announced a total restriction of vehicle movements across the state from 6am to 3pm on Saturday 12 July.
+
+This is likely to cause travel disruptions across the state, including access to Murtala Muhammed International Airport.
+
+Seek advice from local authorities or your travel operator before travelling and monitor local media.
 
 ## Before you travel
 

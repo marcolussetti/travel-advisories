@@ -1,11 +1,11 @@
 {
     "name": "Ukraine",
-    "update_reason": "Addition of information about unexploded weapons and cyber attacks and updated information on the Russian invasion of Ukraine ('Warnings and insurance' and 'Safety and security' pages).",
+    "update_reason": "Addition of information about the risk of flooding (\u2018Safety and security\u2019 page). Update to number of drone and missile strikes in Russian invasion of Ukraine section (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Ukraine/Warnings and insurance.md",
-            "update_date": "2025-05-13T16:53:47+01:00"
+            "update_date": "2025-07-11T16:53:12+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Ukraine/Getting help.md"
         }
     ],
-    "update_date": "2025-05-13T16:53:47+01:00"
+    "update_date": "2025-07-11T16:53:12+01:00"
 }

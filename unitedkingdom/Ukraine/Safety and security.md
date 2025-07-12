@@ -159,6 +159,14 @@ If you travel by train, make sure your belongings are secure. Do not agree to lo
 
 Ukraine’s air space is closed.
 
+## Extreme weather and natural disasters
+
+Find out what you can do to prepare for and respond to [extreme weather and natural hazards](https://www.gov.uk/guidance/tropical-cyclones).
+
+### Flooding
+
+Floods can cause travel disruption and damage to property and infrastructure. [Check weather warnings from Ukraine’s Hydrometeorological Center](https://www.meteo.gov.ua/en/Meteorolohichni-poperedzhennya) before travel and follow the advice of the local authorities.
+
 [Previous
 :
 Entry requirements](/foreign-travel-advice/ukraine/entry-requirements)

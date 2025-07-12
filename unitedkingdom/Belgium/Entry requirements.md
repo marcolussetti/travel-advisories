@@ -57,6 +57,10 @@ The EU’s Entry/Exit System (EES) is expected to start in October 2025. It is n
 
 Read more [information on the EU Entry/Exit System](https://www.gov.uk/guidance/eu-entryexit-system).
 
+## Additional Border Controls in Belgium
+
+Belgium has introduced additional entry checks until December 2025. Checks may be carried out on major roads leading into Belgium, motorway car parks, international bus services, international trains and on intra-Schengen flights. Checks may involve verifying travel documents and identification, as well as screening for illegal substances. In Belgium you must carry your passport with you at all times.
+
 ## Border controls at Germany’s land borders
 
 There are temporary border controls in place to travel into Germany. Check the [entry requirements for Germany](https://www.gov.uk/foreign-travel-advice/germany/entry-requirements).

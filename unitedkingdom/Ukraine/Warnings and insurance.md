@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   14 May 2025
+:   12 July 2025
 
 Updated:
-:   13 May 2025
+:   11 July 2025
 
 Latest update:
-:   Addition of information about unexploded weapons and cyber attacks and updated information on the Russian invasion of Ukraine ('Warnings and insurance' and 'Safety and security' pages).
+:   Addition of information about the risk of flooding (‘Safety and security’ page). Update to number of drone and missile strikes in Russian invasion of Ukraine section (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/663398524d8bb7378fb6c167/FCDO__TA__044_-_Ukraine_Travel_Advice_Ed12__WEB___1_.jpg)
 
@@ -58,7 +58,7 @@ FCDO advises against all but essential travel to the following regions in weste
 
 ## Russian invasion of Ukraine
 
-The Russian invasion of Ukraine is ongoing, with frequent missile and drone attacks across the country, which injure and kill civilians and cause significant damage to civilian infrastructure, including residential areas, energy and industrial facilities. Drone attacks have increased significantly in recent months. Russia launched over 4,000 drones into Ukraine in March 2025, up from fewer than 1,000 in August 2024. British nationals are advised to exercise heightened awareness and be prepared to immediately shelter in the event an air alert is announced. Be extra vigilant whilst travelling in urban centres.
+The Russian invasion of Ukraine is ongoing, with frequent missile and drone attacks across the country, which injure and kill civilians and cause significant damage to civilian infrastructure, including residential areas, energy and industrial facilities. Russian Military activity against Ukraine has increased over the last 6 months, with the total number of drone and missile strikes increasing in size. Russia launched around 5,500 drones and missiles in June 2025, up from 3,900 in February 2025 and 1,000 in August 2024. British nationals are advised to exercise heightened awareness and be prepared to immediately shelter in the event an air alert is announced. Be extra vigilant whilst travelling in urban centres.
 
 There is an ongoing risk of harm to British nationals from Russian attacks across all of Ukraine, including from missiles and drones that hit unintended targets or from falling debris. While these are more frequent where FCDO advises against all travel, they can and do also happen in the western regions, where FCDO advice is against all but essential travel.
 

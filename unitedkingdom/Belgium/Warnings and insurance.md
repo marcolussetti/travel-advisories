@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   27 June 2025
+:   12 July 2025
 
 Updated:
-:   26 June 2025
+:   11 July 2025
 
 Latest update:
-:   Removal of information on disruption to Eurostar services ('Warning and insurance' page).
+:   New information on additional border controls in Belgium (Entry Requirements page)
 
 ## National strike action
 
