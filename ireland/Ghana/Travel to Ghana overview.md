@@ -8,7 +8,7 @@ High Degree of Caution
 
 Irish citizens are advised to follow developments in the region in respect of m-pox, and to consult advice available such as on the [**HSE website**](https://www2.hse.ie/conditions/mpox/).
 
-We advise visitors to avoid all political gatherings as these can be flashpoints for civil unrest. Always keep informed of what is going on around you by monitoring local media and staying in contact with your hotel or tour organiser.
+We advise visitors to avoid all large and political gatherings as these can be flashpoints for civil unrest and may become violent. Always keep informed of what is going on around you by monitoring local media and staying in contact with your hotel or tour organiser.
 
 Irish citizens need a visa to travel to Ghana. It is not possible to receive a visa at the border and must arrange for this prior to travel. Citizens should apply for visa no more than 45 days before their trip. Further information on how to apply for a visa can be obtained from the [**Ghana High Commission**](https://www.ghanahighcommissionuk.com/) in London.
 
@@ -20,7 +20,7 @@ The best help is often close at hand so if a problem arises, try talking to loca
 
 Visitors can contact the emergency services in Ghana by dialling 112.
 
-### **Our tips for Safe Travels:**
+### **Our Tips for Safe Travels:**
 
 * Get comprehensive travel insurance that covers all planned activities.
 * [**Register**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/) with us so that we can get in contact quickly if there is an unforeseen crisis like a natural disaster or a family emergency.

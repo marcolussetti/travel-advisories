@@ -8,7 +8,7 @@ Buying comprehensive travel insurance can save you and your family a lot of mone
 
 Not all policies are the same, and the cheapest one might be cheap for a reason. Make sure your policy covers all the activities you plan to do on your trip. [**Insurance Ireland recommend**](http://www.insuranceireland.eu/consumer-information/general-non-life-insurance/travel) that you purchase a policy that provides a minimum medical cover of €1 million.
 
-Emergency expenses
+### **Emergency Expenses**
 
 Your policy should cover:
 
@@ -26,7 +26,7 @@ Exclusions: You should know most insurance policies will not cover drink or drug
 
 Check with your doctor a minimum of eight weeks in advance of travelling to see if you need any vaccinations for Kosovo.
 
-### **Medical facilities**
+### **Medical Facilities**
 
 The standard of medical care in Kosovo is not comparable to that in Western Europe and you should take out comprehensive travel insurance to cover any medical evacuation.
 
@@ -36,6 +36,6 @@ Crimean Congo Haemorrhagic Fever (CCHF), a tick-borne infection, is endemic to K
 
 If you’ve visited Kosovo and are suffering from a fever, headache, chills, muscle aches, vomiting, red rash (which does not fade when pressed under a glass), bleeding on the roof of the mouth or any other unexplained symptoms, you should seek medical advice immediately.
 
-### **Tick-borne encephalitis**
+### **Tick-borne Encephalitis**
 
 There’s also a risk of exposure to tick-borne encephalitis in forested areas.

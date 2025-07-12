@@ -1,12 +1,14 @@
 ## Health
 
-Check with a GP a minimum of eight weeks in advance of travelling to see if any vaccinations for Ghana are required. The standard of medical care available in Ghana is good by regional standards but not as high as the standard available in Ireland. Serious accidents or illnesses may require medical evacuation to Europe.
+Irish citizens are advised to ensure their routine vaccinations are up-to-date before you travel. Check with a GP a minimum of eight weeks in advance of travelling to see if any vaccinations for Ghana are required.
+
+The standard of medical care available varies throughout Ghana. Serious accidents or illnesses may require medical evacuation.
 
 ### **Malaria**
 
 Malaria is endemic in Ghana and can be fatal without medical attention. Before travelling, get up-to-date medical advice as to whether anti-malarial medication is needed. Avoid mosquito bites by using bed nets and repellents, and wearing closed shoes, long sleeves and trousers.
 
-### **Yellow fever**
+### **Yellow Fever**
 
 A yellow fever vaccination and a valid WHO-approved Yellow Vaccination Book are required for entry to Ghana – if visitors cannot provide evidence of yellow fever vaccination, they may be deported.
 

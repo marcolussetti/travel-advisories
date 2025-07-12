@@ -3,29 +3,29 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Trinidad and Tobago/Overview.md"
+            "title": "Travel to Trinidad and Tobago overview",
+            "file": "ireland/Trinidad and Tobago/Travel to Trinidad and Tobago overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Trinidad and Tobago/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Trinidad and Tobago/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Trinidad and Tobago/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Trinidad and Tobago/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/Trinidad and Tobago/Local laws and customs.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/Trinidad and Tobago/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Trinidad and Tobago/Embassy contact.md"
         }
     ],
-    "update_date": "2025-01-02T00:00:00"
+    "update_date": "2025-07-11T00:00:00"
 }

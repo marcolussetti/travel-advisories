@@ -1,10 +1,14 @@
 ## Health
 
-### **Health**
+### **Vaccinations**
 
 Inoculations are generally not needed but visitors with existing medical conditions or illnesses should seek specific advice in advance from their GPs.
 
+### **Medical Services**
+
 Public medical services in the Republic of Moldova are of an uneven quality and the European Health Insurance Card (EHIC) is not valid there. It is strongly recommended that travellers to the Republic of Moldova take out comprehensive travel insurance in order to maximize potential treatment options.
+
+### **Water**
 
 While the water supply in the Republic of Moldova is not known to be contaminated it is recommended to use bottled or filtered water as a safer alternative.
 
@@ -16,7 +20,7 @@ Buying comprehensive travel insurance can save a lot of money if something goes 
 
 Not all policies are the same, and the cheapest one might be cheap for a reason. Make sure your policy covers all planned activities. [**Insurance Ireland recommend**](http://www.insuranceireland.eu/consumer-information/general-non-life-insurance/travel) that you purchase a policy that provides a minimum medical cover of €1 million.
 
-**Emergency expenses**
+### **Emergency Expenses**
 
 Your policy should cover:
 

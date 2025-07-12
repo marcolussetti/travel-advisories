@@ -19,13 +19,15 @@ Zimbabwe is currently experiencing electricity shortages resulting in extended p
 
 ### **Crime**
 
-Crime in Zimbabwe is high and a high proportion of the civil population is armed so visitors should always take sensible precautions:
+There is a moderate level of crime in Zimbabwe. People travelling alone may be more vulnerable. Mugging, pickpocketing and bag-snatching are common in city centres, especially after dark. Visitors should always take sensible precautions:
 
 * Do not carry credit cards, travel tickets and money together - leave spare cash and valuables in a safe place;
-* Do not carry your passport unless absolutely necessary and leave a copy of your passport (as well as travel and insurance documents) with family or friends at home.
+* Do not carry your passport unless absolutely necessary and leave a copy of your passport (as well as travel and insurance documents) with family or friends at home;
 * Avoid showing large sums of money in public and do not use ATMs after dark, especially if alone. Check no one has followed you after conducting your business;
 * Avoid dark and unlit streets and stairways, and arrange to be picked up or dropped off as close to your hotel or apartment entrance as possible;
-* Keep a close eye on your personal belongings and hold on to them in public places such as internet cafés, train and bus stations.
+* Keep a close eye on your personal belongings and hold on to them in public places such as internet cafés, train and bus stations;
+* Keep a close eye on your personal belongings and hold on to them in public places such as internet cafés, train and bus stations;
+* There have been occasional armed robberies targeting foreign residents. Make sure your accommodation is always secure.
 
 ### **Serious Crime**
 

@@ -3,25 +3,29 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Hungary/Overview.md"
+            "title": "Travel to Hungary overview",
+            "file": "ireland/Hungary/Travel to Hungary overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Hungary/Safety and security.md"
         },
         {
+            "title": "Health",
+            "file": "ireland/Hungary/Health.md"
+        },
+        {
             "title": "Local laws and customs",
             "file": "ireland/Hungary/Local laws and customs.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Hungary/Additional information.md"
+            "title": "Entry requirements",
+            "file": "ireland/Hungary/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Hungary/Embassy contact.md"
         }
     ],
-    "update_date": "2025-07-10T00:00:00"
+    "update_date": "2025-07-11T00:00:00"
 }

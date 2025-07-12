@@ -3,29 +3,29 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Saint Vincent and the Grenadines/Overview.md"
+            "title": "Travel to Saint Vincent and the Grenadines overview",
+            "file": "ireland/Saint Vincent and the Grenadines/Travel to Saint Vincent and the Grenadines overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Saint Vincent and the Grenadines/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Saint Vincent and the Grenadines/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Saint Vincent and the Grenadines/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Saint Vincent and the Grenadines/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/Saint Vincent and the Grenadines/Local laws and customs.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/Saint Vincent and the Grenadines/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Saint Vincent and the Grenadines/Embassy contact.md"
         }
     ],
-    "update_date": "2024-11-04T00:00:00"
+    "update_date": "2025-07-11T00:00:00"
 }

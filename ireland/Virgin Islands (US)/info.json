@@ -3,29 +3,29 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Virgin Islands (US)/Overview.md"
+            "title": "Travel to Virgin Islands (US) overview",
+            "file": "ireland/Virgin Islands (US)/Travel to Virgin Islands (US) overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Virgin Islands (US)/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Virgin Islands (US)/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Virgin Islands (US)/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Virgin Islands (US)/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/Virgin Islands (US)/Local laws and customs.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/Virgin Islands (US)/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Virgin Islands (US)/Embassy contact.md"
         }
     ],
-    "update_date": "2023-11-23T00:00:00"
+    "update_date": "2025-07-11T00:00:00"
 }

@@ -3,29 +3,29 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Virgin Islands (UK)/Overview.md"
+            "title": "Travel to Virgin Islands (UK) overview",
+            "file": "ireland/Virgin Islands (UK)/Travel to Virgin Islands (UK) overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Virgin Islands (UK)/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Virgin Islands (UK)/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Virgin Islands (UK)/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Virgin Islands (UK)/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/Virgin Islands (UK)/Local laws and customs.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/Virgin Islands (UK)/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Virgin Islands (UK)/Embassy contact.md"
         }
     ],
-    "update_date": "2023-11-23T00:00:00"
+    "update_date": "2025-07-11T00:00:00"
 }

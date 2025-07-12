@@ -3,8 +3,8 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Moldova/Overview.md"
+            "title": "Travel to Moldova overview",
+            "file": "ireland/Moldova/Travel to Moldova overview.md"
         },
         {
             "title": "Safety and security",
@@ -19,13 +19,13 @@
             "file": "ireland/Moldova/Local laws and customs.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Moldova/Additional information.md"
+            "title": "Entry requirements",
+            "file": "ireland/Moldova/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Moldova/Embassy contact.md"
         }
     ],
-    "update_date": "2024-02-22T00:00:00"
+    "update_date": "2025-07-11T00:00:00"
 }

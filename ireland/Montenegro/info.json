@@ -3,29 +3,29 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Montenegro/Overview.md"
+            "title": "Travel to Montenegro overview",
+            "file": "ireland/Montenegro/Travel to Montenegro overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Montenegro/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Montenegro/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Montenegro/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Montenegro/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/Montenegro/Local laws and customs.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/Montenegro/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Montenegro/Embassy contact.md"
         }
     ],
-    "update_date": "2023-11-21T00:00:00"
+    "update_date": "2025-07-11T00:00:00"
 }

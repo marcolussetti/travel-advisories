@@ -1,6 +1,6 @@
 ## Safety and security
 
-### **Political unrest**
+### **Political Unrest**
 
 The Republic of Kosovo formally declared independence from Serbia in 2008. Ireland, and the majority of our EU partners, fully recognise the Republic of Kosovo as an independent nation.
 
@@ -10,7 +10,7 @@ However, the government of Serbia and many Serbs in Kosovo reject Kosovo's decla
 
 The situation in the north of the country is especially unpredictable. Avoid non-essential travel to northern Mitrovica and to the northern municipalities of Leposavic, Zubin Potok and Zvecan as there’s an increased risk of disturbance in these areas and violence can flare up in the city of Mitrovica without warning. You shouldn’t try to enter Kosovo from Serbia via Leposavic and Zubin Potok at present.
 
-### **Border posts**
+### **Border Posts**
 
 A number of police and customs border posts between Kosovo and Serbia have been attacked and border control points may close as a result of disorder. You should therefore consider alternative routes of travel to Serbia.
 
@@ -32,7 +32,7 @@ Take normal, sensible precautions while in Kosovo:
 * Don’t carry your passport unless absolutely necessary and leave a copy of your passport (and travel and insurance documents) with family or friends at home.
 * Be aware of mugging, bag snatching and pick-pocketing, particularly on busy public transport, in train stations, markets and other places frequented by tourists. You should also be aware that the incidence of car-jacking and car theft continue to increase, particularly in the city of Pristina
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If you’re a victim of a crime while in Kosovo, report it to the local police immediately and get a report. And you can contact us at the [**Irish Embassy in Budapest**](http://www.embassyofireland.hu/) if you need help.
 
@@ -42,19 +42,19 @@ If you’re planning to drive in Kosovo, you should be extremely careful. The ge
 
 * Bring your full Irish driving licence and make sure you have adequate and appropriate insurance. European Green Card vehicle insurance is not valid in Kosovo. You should buy local insurance at the border or, if not available, the nearest town
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If you’re hiring a vehicle, we advise you not to hand over your passport as a form of security. If you’re allowing your passport to be photocopied, keep it in your sight at all times.
 
 Check that you have adequate insurance and read the small print of the vehicle hire contract (particularly any waiver that will come into effect if the vehicle is damaged).
 
-### **Serbian cars**
+### **Serbian Cars**
 
 You should be aware that many Serbian car hire firms will not allow their vehicles to be driven in Kosovo due to concerns about the security situation. There have been some incidents where Serbian registered cars have been targeted in more isolated areas of Kosovo.
 
 You should check local developments before starting your journey particularly if you plan to cross a land border with Serbia.
 
-**Stray dogs**
+### **Stray Dogs**
 
 You may encounter stray dogs in Kosovo. Please maintain awareness of your surroundings and keep distance from stray dogs. If you are bitten by an animal, you should seek medical attention immediately. In Pristina, the University Clinical Center of Kosovo can be consulted:
 

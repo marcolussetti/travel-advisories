@@ -1,10 +1,10 @@
 ## Safety and security
 
-### **LGBT+ travellers**
+### **LGBT+ Travellers**
 
 Same-sex sexual activity is legal in Hungary. Budapest is generally tolerant and open. Outside of Budapest, however, showing affection in public may receive unwanted attention.
 
-### **Road safety awareness**
+### **Road Safety Awareness**
 
 It is important to be road safe aware, especially because things can be a bit different in a new country. Please take special care when crossing the road or driving, especially in your early weeks and months. Increased attention to road safety could save your life.
 
@@ -17,7 +17,7 @@ Some differences to be aware of:
 * **There is 0% alcohol tolerance in operation when driving or using other vehicles. You must hold valid insurance to drive in Hungary.**
 * If you are planning to drive in Hungary, be aware it is compulsory to carry your passport, international driving license and third party insurance with you when driving.
 
-### **Vehicle hire**
+### **Vehicle Hire**
 
 * If hiring a vehicle, we advise you not to hand over your passport as a form of security. If allowing your passport to be photocopied, keep it in your sight at all times.
 * Check that you have adequate insurance and read the small print of the vehicle hire contract (particularly any waiver that will come into effect if the vehicle is damaged).
@@ -43,6 +43,6 @@ We recommend the following basic precautions:
 * Always use a registered taxi provider. All taxis in Budapest are yellow and the cars will have a company logo/sticker on the door. Where possible call a taxi rather than hailing one on the street. Confirm the destination with the driver and be careful when paying as Hungarian notes come in a range of denominations.
 * Don't carry your credit card, travel tickets and money together - leave spare cash and valuables in a safe place. Do not store all information on your mobile only but send copies to your email (also to a next of kin) to have access in case your mobile was lost or stolen.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If you are a victim of a crime while in Hungary, report it to the local police immediately. The number for emergency services is 112. Ask a Hungarian to assist you if you are having language difficulties with the operator. At the police station, you can request an interpreter to make a police report in English. Always ask for a copy of this report and keep it. You can also contact us at the Irish Embassy in Budapest if you need help.
