@@ -2,6 +2,22 @@
 
 ## Safety and security
 
+### Demonstrations in Luanda
+
+On July 12, 2025, demonstrations took place in Luanda. Further demonstrations could occur in the coming days.
+
+Even peaceful demonstrations can turn violent at any time. They can also lead to disruption to traffic and public transportation.
+
+Authorities may restrict movement without notice.
+
+If you are in Angola:
+
+* stay away from demonstrations
+* avoid areas around government buildings
+* expect increased security presence
+* monitor local media for the latest information
+* follow the instructions of local authorities
+
 ### Province of Cabinda
 
 Militant groups claiming independence are active in this province and clashes with security forces are possible.
