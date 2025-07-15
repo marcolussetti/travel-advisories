@@ -3,11 +3,10 @@
 [#### Embassies and Consulates](javascript:void(0); "Embassies and Consulates")
 
 **EMERGENCY ASSISTANCE FOR U.S. CITIZENS IN MEXICO**  
-From Mexico: 800-681-9374 or 55-8526-2561  
-From the United States: 1-844-528-6611
-
-U.S. Citizen Services Inquiries: [Contact Form](https://forms.office.com/Pages/ResponsePage.aspx?id=dFDPZv5a0UimkaErISH0Szi3DTazr0NBsx5_pSkMOZRUNkNRRkEyOEtJT1dWM0YzNjZFWU5USERVUSQlQCN0PWcu&wdLOR=cEB0B8057-EEC7-44BD-B53B-2E015C4B6EA1)
-
+From Mexico: 55 5080 2000  
+From the United States: 011 52 55 5080 2000  
+U.S. Citizen Services Inquiries: [Mexico.ACS@gdit-gss.com](mailto:Mexico.ACS@gdit-gss.com "mailto:Mexico.ACS@gdit-gss.com")  
+  
 [**U.S. Embassy Mexico City**](https://mx.usembassy.gov/embassy-consulates/embassy/)Paseo de la Reforma 305  
 Colonia Cuauhtémoc  
 06500 Ciudad de México

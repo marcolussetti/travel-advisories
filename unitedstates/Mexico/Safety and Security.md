@@ -8,17 +8,14 @@ Local authorities are responsible for investigating and prosecuting crimes.
 
 **Dial 911** to report emergencies in Mexico. Seek help from a Spanish speaker to place the call. Not all emergency operators speak English.
 
-**Dial 55 8526 2561** (from Mexico) for the U.S. Embassy.
-
-**Dial 844 528 6611** (from the United States) for the U.S. Embassy.
-
-[Contact the closest U.S. Consulate](https://docs.google.com/forms/d/e/1FAIpQLSf3jwQvR0ykztNQDDOKmfHIGfDI96-Rwxl7EoJRsgUE9xe3dQ/viewform?fbzx=1095838111506264549)
+Contact the U.S. Embassy or closest U.S. Consulate**[here](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmx.usembassy.gov%2Fcontact%2F&data=05%7C02%7COCSContentManager%40state.gov%7Ce6269a63d8cb406eede108ddc2ee7263%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C638881051561055211%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=w%2Bj7uvHH%2BhilV5X3i1ofsRSlj%2FC8mEn4IgqcW0cZsb0%3D&reserved=0 "Original URL: https://mx.usembassy.gov/contact/. Click or tap if you trust this link.")**to report emergencies.
 
 U.S. citizens in Mexico should not expect the same public health and safety standards as in the United States. Enforcement varies by location, even when standards exist. Follow health and safety precautions to reduce the risk of illness or injury.
 
 **Crime:**Crime in Mexico is common and can be violent. This ranges from petty street crime to attacks by cartels, criminal organizations and terrorist organizations. There have been violent crimes in resort areas and tourist spots in Mexico.
 
-* Mission Mexico has assisted U.S. citizens who were victims of armed robbery, carjacking, extortion, homicide, kidnapping, pickpocketing, and sexual assault. · Targeted killings and other cartel, criminal organizations and terrorist organizations violence result from fights over territory. This can hurt innocent bystanders.
+* Mission Mexico has assisted U.S. citizens who were victims of armed robbery, carjacking, extortion, homicide, kidnapping, pickpocketing, and sexual assault.
+* Targeted killings and other cartel, criminal organizations and terrorist organizations violence result from fights over territory. This can hurt innocent bystanders.
 * Travelers who experience an active shooter situation should flee or drop to the ground behind a hard barrier.
 * For more details, review the Mexico Travel Advisory
 
@@ -26,7 +23,8 @@ U.S. citizens in Mexico should not expect the same public health and safety stan
 
 To stay safe:
 
-* Limit the cash you carry in public. · Do not hail taxis on the street. Use trusted ride-sharing apps or book taxis through your hotel or an authorized taxi stand.
+* Limit the cash you carry in public.
+* Do not hail taxis on the street. Use trusted ride-sharing apps or book taxis through your hotel or an authorized taxi stand.
 * Ask your bank how to quickly freeze or cancel your bank and credit cards.
 
 **Extortion:**Extortion schemes are common, such as virtual kidnapping. Criminals convince families that a relative has been kidnapped. The relative is actually safe but unreachable. In another version of virtual kidnapping, a caller tells someone who has checked into a hotel that they are in danger and must pay a ransom. The criminals try to scare the victim into not contacting police or family. They claim the cartel, criminal organization, or terrorist organization is involved and threaten violence.
@@ -56,7 +54,8 @@ Don’t agree to carry any package across the border.
 Internet financial scams are common in Mexico. Scammers often reach out through online services or unwanted emails. They may pretend to be U.S. citizens needing help. They even claim that you or a loved one may be in danger if you do not give them money. There have also been reports of banking fraud against U.S. citizens. Common scams include:
 
 * Requests for you to help with a money transfer, promising you a share of the money.
-* Notifications of supposed bank overpayments or fake inheritances. · Promises of free trips or luggage.
+* Notifications of supposed bank overpayments or fake inheritances.
+* Promises of free trips or luggage.
 * Online girlfriends or boyfriends claiming they are in trouble and asking for financial help.
 * Promises to help you exit your timeshare property investment in Mexico.
 
@@ -77,7 +76,7 @@ If you think you’ve been scammed, you can:
 
 * **Dial 911** for the local authorities.
 * File a report of the crime “denuncia” with the “Ministerio Publico,” similar to the office of public prosecutor or district attorney in the United States. (Note: First responders do not handle crime reports.)
-* **Dial +52-55-8526-2561** for the U.S. Embassy or nearest Consulate to report serious crimes such as:
+* Contact the U.S. Embassy or closest U.S. Consulate**[here](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmx.usembassy.gov%2Fcontact%2F&data=05%7C02%7COCSContentManager%40state.gov%7Ce6269a63d8cb406eede108ddc2ee7263%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C638881051561090091%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Z3GhyDzlRpUzHKOKh1IHqcn0i59p4cmhHULSxKSDEfE%3D&reserved=0 "Original URL: https://mx.usembassy.gov/contact/. Click or tap if you trust this link.")**to report serious crimes such as:
   + Kidnapping of a U.S. citizen or lawful permanent resident (LPR)
   + Domestic violence
   + Sexual assault

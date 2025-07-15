@@ -456,19 +456,19 @@ Mexico
 
 Telephone
 
-null
++52 55 5080-2000
 
 Emergency
 
-U.S. Citizen Services: From Mexico 800-681-9374 or 55-8526-2561. From the United States 1-844-528-6611
++52 55 5080-2000
 
 Fax
 
-null
++52 55 5080-2005
 
 Email
 
-Contact Form
+[Mexico.ACS@gdit-gss.com](mailto: Mexico.ACS@gdit-gss.com "Embassy email address: Mexico.ACS@gdit-gss.com")
 
 Website
 
