@@ -2,7 +2,7 @@
 
 Latest update
 
-We've reviewed the travel advice for Portugal and continue to advise exercise normal safety precautions.
+We continue to advise exercise normal safety precautions in Portugal. High temperatures and bushfires regularly impact mainland Portugal during the summer months. Monitor the media and follow the advice of local authorities.
 
 Advice Level summary
 
@@ -45,6 +45,7 @@ Full travel advice: [Health](#health)
 * Gambling is legal in official casinos and licensed venues. It's illegal everywhere else. Check that you're entering a licensed venue.
 * You must always carry photo identification.
 * Don't ride an e-scooter or e-bike under the influence of alcohol. You can be fined.
+* Follow the [Code of Conduct](https://www.cm-albufeira.pt/sites/default/files/RepositorioPublicacoes/2025/cma-regrascomp-regras13jun2025.pdf) on public behaviour for the municipality of Albufeira (Algarve) to avoid potential fines.
 * Portugal recognises dual nationality.
 
 Full travel advice: [Local laws](#local-laws)

@@ -26,6 +26,10 @@ Gambling is illegal in unlicensed venues. Organisers, players and anyone on the 
 
 Check you're entering a licensed gambling venue.
 
+#### Inappropriate behaviour in public places
+
+A [Code of Conduct](https://www.cm-albufeira.pt/sites/default/files/RepositorioPublicacoes/2025/cma-regrascomp-regras13jun2025.pdf) has been introduced in the municipality of Albufeira, in the Algarve, banning inappropriate behaviour in public places. Be aware of the rules and avoid on the spot fines ranging between €150 and €1,800.
+
 #### Other laws
 
 You must carry photo ID in Portugal.
