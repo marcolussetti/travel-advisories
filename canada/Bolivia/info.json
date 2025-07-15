@@ -1,7 +1,7 @@
 {
     "name": "Bolivia",
-    "update_reason": "Risk levels \u2013 removed advisory to avoid non-essential travel to Llallagua municipality",
-    "update_date": "2025-07-07T10:03:00",
+    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
+    "update_date": "2025-07-14T09:57:00",
     "sections": {
         "risk": "canada/Bolivia/risk.md",
         "security": "canada/Bolivia/security.md",

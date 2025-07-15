@@ -1,7 +1,7 @@
 {
     "name": "Sri Lanka",
-    "update_reason": "The Need help? section was updated.",
-    "update_date": "2025-07-11T08:11:00",
+    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
+    "update_date": "2025-07-14T09:57:00",
     "sections": {
         "risk": "canada/Sri Lanka/risk.md",
         "security": "canada/Sri Lanka/security.md",

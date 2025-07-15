@@ -6,16 +6,9 @@
 
 In May 2024, demonstrations against constitutional reforms became violent in New Caledonia. Arson and looting took place during the riots.
 
-Certain restrictions are still in place, such as:
-
-* public gatherings, demonstrations and processions in Nouméa and the communes of Greater Nouméa
-* alcohol sales
-* fuel sales and transportation
-* ammunition purchases
-
-Flights have partially resumed and the La Tontouta International Airport has reopened.
-
 The situation remains volatile and could escalate without notice.
+
+There is a heightened presence of police and security forces. Authorities may impose restrictions, including curfews, at short notice.
 
 If you are in New Caledonia:
 
@@ -33,7 +26,7 @@ Drink spiking occurs. Never leave food or drinks unattended or in the care of st
 
 ### Demonstrations
 
-Demonstrations occur from time to time. Roadblocks and marches may occur on main roads at any time and with little or no notice. Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation.
+Demonstrations occur frequently. Roadblocks and marches may occur on main roads at any time and with little or no notice. Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation.
 
 * Avoid areas where demonstrations and large gatherings are taking place
 * Follow the instructions of local authorities
