@@ -4,6 +4,10 @@
 
 High Degree of Caution
 
+### **Travel Alert**
+
+Recently, Guatemala has been subject to earthquakes of varying severity, from 3.0 to 5.7 magnitude. Earthquakes and their aftershocks can also cause landslides in some parts of the country. If travelling through Guatemala, please make sure you know what to do in case of an earthquake. Earthquakes may also cause road blockages and temporary disruptions.
+
 ### **General Travel Advice**
 
 Irish citizens do not require a visa to enter Guatemala. Visitors should note that Guatemala is party to the Central America Border Control Agreement (CA-4) signed between Guatemala, Honduras, Nicaragua and El Salvador. Upon arriving in any of the CA-4 countries, visitors may travel to the other three member states, and stay for up to 90 days within the CA-4 region, without undergoing any entry and exit formalities. This period begins at the first point of entry in to any of the CA-4 countries. Fines are applied for travellers who exceed this 90-day limit, though a request for a 30-day extension can be made before the 90 days limit expires.

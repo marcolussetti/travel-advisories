@@ -1,6 +1,6 @@
 ## Health
 
-The Department of Foreign Affairs strongly recommends obtaining comprehensive travel insurance which will cover all overseas medical costs, including medical evacuation, before travelling to Nigeria. Check any exclusions, and that your policy covers all the activities you want to undertake. Travellers should note that the Irish Government does not provide funds for emergency medical repatriation or for repatriation of remains.
+The Department of Foreign Affairs and Trade strongly recommends obtaining comprehensive travel insurance which will cover all overseas medical costs, including medical evacuation, before travelling to Nigeria. Check any exclusions, and that your policy covers all the activities you want to undertake. Travellers should note that the Irish Government does not provide funds for emergency medical repatriation or for repatriation of remains.
 
 In most parts of Nigeria, medical facilities are very basic and even in major population centres the level of available medical care is quite limited, and payment must usually be made up-front. Accordingly, medical evacuation to Europe or South Africa is frequently required for anything more than a minor accident or illness.
 

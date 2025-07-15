@@ -38,7 +38,7 @@ There is a high risk of kidnapping throughout Nigeria. We advise to take securit
 
 The Middle Belt states often experience outbreaks of localised violence, linked to civil unrest, farmer-herder disputes and elections, and such outbreaks can occur at short notice. Such occurrences can often be quickly followed by localised curfews imposed by the authorities. Visitors are advised to avoid large crowds, political rallies, demonstrations and any large public protests or gatherings.
 
-In the event that you encounter difficulties in the areas where the Department advises against all or all but essential travel to, the assistance that the Department of Foreign Affairs or our Embassy in Abuja may be able to provide, is likely to be extremely limited. Before considering travel to these areas, we advise you to take professional security advice.
+In the event that you encounter difficulties in the areas where the Department of Foreign Affairs and Trade advises against all or all but essential travel to, the assistance that the Department of Foreign Affairs or our Embassy in Abuja may be able to provide, is likely to be extremely limited. Before considering travel to these areas, we advise you to take professional security advice.
 
 For all other areas, we advise you to take additional security precautions. These might include:
 
@@ -54,11 +54,7 @@ For all other areas, we advise you to take additional security precautions. Thes
 
 Travellers to Nigeria should bear these factors in mind and pay careful attention to local news prior to and during travel to/in Nigeria. Visit the ‘Safety and Security’ tab for more information.
 
-Irish citizens require a visa to enter Nigeria.
-
-A valid passport is required for travel to Nigeria. Irish passports should have a minimum validity of 6 months. Passport cards cannot be used.
-
-For more information on visas and passports, please see the Additional Information tab.
+Irish citizens require a visa and landing/departure cards for their visit to Nigeria. A valid passport is required for travel to Nigeria. Irish passports should have a minimum validity of 6 months. Passport cards cannot be used. For more information on visas and passports, please see the Entry Requirements tab.
 
 Visitors to Nigeria are advised to follow the guidance of national and local authorities and stay fully informed of what is going on by monitoring local news and social media.
 

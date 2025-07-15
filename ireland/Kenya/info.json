@@ -3,29 +3,29 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Kenya/Overview.md"
+            "title": "Travel to Kenya Overview",
+            "file": "ireland/Kenya/Travel to Kenya Overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Kenya/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Kenya/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Kenya/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Kenya/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/Kenya/Local laws and customs.md"
+        },
+        {
+            "title": "Entry Requirements",
+            "file": "ireland/Kenya/Entry Requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Kenya/Embassy contact.md"
         }
     ],
-    "update_date": "2025-06-24T00:00:00"
+    "update_date": "2025-07-14T00:00:00"
 }

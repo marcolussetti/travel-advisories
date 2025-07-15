@@ -66,7 +66,7 @@ Pick pocketing and theft on public transport is common. Pay close attention to b
 
 Only use well-marked and reputable taxis when travelling in Kenya.
 
-### **Border regions**
+### **Border Regions**
 
 Avoid non-essential travel within 75km of the Kenya-Somalia border due to the very high risk of terrorist activity in the region.
 
