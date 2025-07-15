@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 July 2025
+:   15 July 2025
 
 Updated:
-:   10 July 2025
+:   14 July 2025
 
 Latest update:
-:   Information about elections on 11 July and possible disruptions (Safety and Security).
+:   Removal of information about elections in Ablekuma North in the Greater Accra region, which have now taken place.
 
 ![](https://assets.publishing.service.gov.uk/media/65dca99ff1cab30011fc4712/FCDO__TA__090_-_Ghana_Travel_Advice_Ed2__WEB_.jpg)
 

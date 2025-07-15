@@ -1,11 +1,11 @@
 {
     "name": "Ghana",
-    "update_reason": "Information about elections on 11 July and possible disruptions (Safety and Security).",
+    "update_reason": "Removal of information about elections in Ablekuma North in the Greater Accra region, which have now taken place.",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Ghana/Warnings and insurance.md",
-            "update_date": "2025-07-10T18:24:53+01:00"
+            "update_date": "2025-07-14T13:26:03+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Ghana/Getting help.md"
         }
     ],
-    "update_date": "2025-07-10T18:24:53+01:00"
+    "update_date": "2025-07-14T13:26:03+01:00"
 }

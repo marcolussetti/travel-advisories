@@ -26,7 +26,8 @@ See [what health risks you’ll face in Mozambique](https://travelhealthpro.org.
 
 * malaria
 * dengue
-* Schistosomiasis
+* schistosomiasis
+* mpox
 
 ## Medication
 
