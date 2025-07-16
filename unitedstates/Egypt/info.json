@@ -1,7 +1,7 @@
 {
     "name": "Egypt",
-    "risk_level": "Level 3: Reconsider Travel",
-    "risk_level_number": 3,
+    "risk_level": "Level 2: Exercise Increased Caution",
+    "risk_level_number": 2,
     "pages": [
         {
             "title": "Quick Facts",
@@ -44,6 +44,6 @@
             "file": "unitedstates/Egypt/Advisory.md"
         }
     ],
-    "update_date_advisory": "2024-10-15T00:00:00",
+    "update_date_advisory": "2025-07-15T00:00:00",
     "update_date_details": "2025-04-01T00:00:00"
 }

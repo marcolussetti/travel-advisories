@@ -523,10 +523,10 @@
     },
     {
         "destination": "Egypt",
-        "risk_level": "Level 3: Reconsider Travel",
-        "last_updated_advisory": "2024-10-15T00:00:00",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated_advisory": "2025-07-15T00:00:00",
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/egypt-travel-advisory.html",
-        "risk_level_number": 3,
+        "risk_level_number": 2,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Egypt.html",
         "last_updated_country_details": "2025-04-01T00:00:00"
     },
@@ -749,7 +749,7 @@
     {
         "destination": "Haiti",
         "risk_level": "Level 4: Do Not Travel",
-        "last_updated_advisory": "2024-09-18T00:00:00",
+        "last_updated_advisory": "2025-07-15T00:00:00",
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/haiti-travel-advisory.html",
         "risk_level_number": 4,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Haiti.html",
@@ -1082,7 +1082,7 @@
     {
         "destination": "Mauritania",
         "risk_level": "Level 3: Reconsider Travel",
-        "last_updated_advisory": "2023-07-31T00:00:00",
+        "last_updated_advisory": "2025-07-15T00:00:00",
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/mauritania-travel-advisory.html",
         "risk_level_number": 3,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Mauritania.html",
@@ -1235,7 +1235,7 @@
     {
         "destination": "Nigeria",
         "risk_level": "Level 3: Reconsider Travel",
-        "last_updated_advisory": "2023-09-20T00:00:00",
+        "last_updated_advisory": "2025-07-15T00:00:00",
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/nigeria-travel-advisory.html",
         "risk_level_number": 3,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Nigeria.html",

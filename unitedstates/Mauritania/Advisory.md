@@ -1,6 +1,6 @@
 # Mauritania Travel Advisory
 
-### Travel Advisory July 31, 2023
+### Travel Advisory July 15, 2025
 
 ### Mauritania - Level 3: Reconsider Travel
 
@@ -14,42 +14,47 @@
 [T](javascript:void(0); "Tool Tip: Terrorism")
 [C](javascript:void(0); "Tool Tip: Crimes")
 
-***Reissued with obsolete COVID-19 page links removed.***
+***Reissued after periodic review with minor edits.***
 
-Reconsider travel to Mauritania due to **crime** and **terrorism**.  Some areas have increased risk.  Read the entire Travel Advisory.
+Reconsider travel to Mauritania due to **terrorism** and **crime**. Some areas have increased risk. Read the entire Travel Advisory.
 
 Do Not Travel To:
 
-* Areas designated as off limits by the Mauritanian military due to **crime** and **terrorism**.
+* Areas marked off-limits by the Mauritanian military. These areas are unsafe due to security risks and terrorist activities.
+* All areas north of the Tropic of Cancer
+* All areas within 100 KM of the Mali and Algeria Border
 
-**Country Summary:** Violent crimes, such as mugging, armed robbery, and assault, are common. Local police lack the resources to respond effectively to serious crimes.
+**Country Summary:** Violent crimes occur frequently outside the Tevragh Zeina neighborhoods in Nouakchott. They include mugging, armed robbery, and assault. Local police lack the resources to respond quickly and effectively to serious crimes. Transportation options and communication infrastructure are limited outside Nouakchott. little or no warning, targeting places frequented by Westerners.
 
-Terrorists may attack with little or no warning, targeting places frequented by Westerners.
+**Terrorism**
 
-The U.S. government has limited ability to provide emergency services to U.S. citizens in Mauritania as U.S. government employees must obtain special authorization to travel outside Nouakchott. U.S. government employees may travel only during daylight hours and are prohibited from walking alone outside of designated areas and times.
+Terrorist violence is a risk in Mauritania. This includes potential attacks and other activities. Visit the U.S. Department of State's country [reports on terrorism to learn more.](https://www.state.gov/reports/country-reports-on-terrorism-2021/mauritania#:~:text=Overview%3A%20Mauritania%20remained%20an%20excellent,on%20its%20soil%20since%202011.)
+
+**U.S. Travel Limits and Emergency Services**
+
+The U.S. government can only offer limited emergency services to U.S. citizens in Mauritania. This is due to travel rules for U.S. government employees, poor infrastructure, and few health facilities, especially outside of Nouakchott.
+
+U.S. government employees can travel outside Nouakchott only during the day. They cannot walk alone outside of specific areas and times. U.S. government employees must get special permission to travel outside Nouakchott. This helps them move smoothly through security checkpoints on major roads.
 
 Read the [country information](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Mauritania.html) page for additional information on travel to Mauritania.
 
 If you decide to travel to Mauritania:
 
+* Visit our website for [Travel to High-Risk Areas](https://travel.state.gov/content/passports/en/go/TraveltoHighRiskAreas.html).
 * Use caution when walking or driving at night.
 * Always carry a copy of your U.S. passport and visa (if applicable). Keep original documents in a secure location.
 * Monitor local media for breaking events and be prepared to adjust your plans.
 * Be aware of your surroundings.
-* Enroll in the [Smart Traveler Enrollment Program (STEP)](https://step.state.gov/step/) to receive Alerts and make it easier to locate you in an emergency.
-* Follow the Department of State on [Facebook](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.facebook.com%2Ftravelgov%2F&data=04%7C01%7CStanleyER%40state.gov%7C2dd615c16e184c18933308d9db38add5%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C637781858746162820%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=%2FmJd%2BRV%2FvBKinAmAalIyBzCzdTI%2F8N727qv7XfWI%2FQ4%3D&reserved=0) and [Twitter](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FTravelGov&data=04%7C01%7CStanleyER%40state.gov%7C2dd615c16e184c18933308d9db38add5%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C637781858746162820%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=e5wyTD9LhQdTitORkLgIhD4Do0HBFmMTwVYGRMcHay8%3D&reserved=0).
-* Review the [Country Security Report](https://www.osac.gov/Content/Browse/Report?subContentTypes=Country%20Security%20Report) for Mauritania.
-* Prepare a contingency plan for emergency situations.  Review the [Traveler’s Checklist](https://travel.state.gov/content/passports/en/go/checklist.html).
-* Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) related to your travel.
+* Enroll in the [Smart Traveler Enrollment Program (STEP)](https://step.state.gov/step/) to receive alerts. It makes it easier to locate you in an emergency.
+* Review the [Country Security Report](https://www.osac.gov/Content/Browse/Report?subContentTypes=Country%20Security%20Report) for Mauritania.
+* Prepare a backup plan for emergency situations.  Review the [Traveler’s Checklist](https://travel.state.gov/content/passports/en/go/checklist.html).
+* Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/traveler/none/mauritania) related to your travel.
 
 **Areas Designated Off-Limits by the Mauritanian Military – Level 4: Do Not Travel**
 
-The government of Mauritania designates certain areas off-limits to foreigners and most Mauritanians. These “No Movement Zones” are extremely dangerous due to their proximity to Mali, where armed groups engaged in an active insurgency carry out cross-border attacks into Mauritania. The government of Mauritania does not maintain a substantial presence in these areas and thus police are unable to respond to most incidents there. In addition, cell phone coverage and paved roads are nonexistent. U.S. officials are unable to travel to these places. Since the boundaries of such areas frequently change, U.S. citizens should pay attention to all posted signs and notices of restricted entry. They should presume the following areas are off-limits:
+The government of Mauritania designates certain areas off-limits to foreigners and most Mauritanians. These “No Movement Zones” are very dangerous. They are near Mali, where armed groups are fighting an active insurgency. This violence may spill over the border into Mauritania. The government of Mauritania has little presence in these areas. Police cannot respond to most incidents.
 
-* All areas north of the Tropic of Cancer
-* All areas east of 08⁰ longitude (West of Greenwich) situated within 100km of the Mali Border
-
-Visit our website for [Travel to High-Risk Areas](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/high-risk-travelers.html).
+Cell phone coverage and paved roads are nonexistent in these areas. U.S. officials are unable to travel to these places. The boundaries of these areas often change, so stay informed about restricted entry.
 
 ### Travel Advisory Levels
 
