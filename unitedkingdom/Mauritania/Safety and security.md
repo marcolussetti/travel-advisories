@@ -22,7 +22,7 @@ Crime levels are moderate but steadily increasing.
 
 There have been burglaries in areas where foreign nationals live and robberies during daylight.
 
-There have been thefts and robberies at knifepoint after dark on the unlit and isolated beaches at Nouakchott and in the ‘Le Cinquième’ district. Be particularly careful in these places.
+There have been thefts and robberies at knifepoint during the day and night on the unlit and isolated beaches in Nouakchott and in the ‘Le Cinquième’, ‘Dar Naim’ and Citè Plage districts. Be particularly careful in these places.
 
 Report crime to the police by dialling 117 or visiting a police station.
 
@@ -34,7 +34,7 @@ You should always carry copies of your photo ID, especially outside Nouakchott w
 
 ### Religion
 
-Mauritania recognises Islam as the only religion of its citizens and the state. It is illegal to participate in non-Islamic gatherings and activities that have not been authorised by the Mauritanian authorities. Attempting to convert people to other religions is illegal – those caught doing this can be arrested or deported.
+Mauritania recognises Islam as the only religion of its citizens and the state. It is illegal to participate in non-Islamic gatherings and activities that have not been authorised by the Mauritanian authorities. Attempting to convert people to other religions is illegal – those caught doing this can be arrested or deported. Blasphemy is a criminal offence and the maximum penalty is death. Respect local traditions, customs, laws and religion at all times and be aware of your actions to ensure they don’t offend, especially during the holy month of Ramadan or when visiting religious sites.
 
 ### Ramadan
 

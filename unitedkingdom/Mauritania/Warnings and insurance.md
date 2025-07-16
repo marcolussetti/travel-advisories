@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   7 June 2025
+:   16 July 2025
 
 Updated:
-:   6 June 2025
+:   15 July 2025
 
 Latest update:
-:   Updated information on visa requirements ('Entry requirements’ page).
+:   Updated information about areas where violent crime has occurred and the risks around blasphemy (‘Safety and security’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/675319b87e5323915d6a0428/FCDO__TA__027_-_Mauritania_Travel_Advice_Ed6__WEB_.jpg)
 

@@ -1,11 +1,11 @@
 {
     "name": "Netherlands",
-    "update_reason": "Addition of information that on 24 and 25 June the 2025 NATO Summit will take place in The Hague. Security measures will be in place from Sunday 22 June (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Information updated about temporary border controls when entering Netherlands, and when leaving Netherlands into Belgium (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Netherlands/Warnings and insurance.md",
-            "update_date": "2025-06-12T16:46:55+01:00"
+            "update_date": "2025-07-15T16:20:46+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Netherlands/Getting help.md"
         }
     ],
-    "update_date": "2025-06-12T16:46:55+01:00"
+    "update_date": "2025-07-15T16:20:46+01:00"
 }

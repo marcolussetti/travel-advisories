@@ -50,13 +50,15 @@ Read more [information on the EU Entry/Exit System](https://www.gov.uk/guidance
 
 ## Temporary border controls
 
-From 9 December the Netherlands has reintroduced temporary border controls at its land borders as well as additional checks on some international trains and specific flights, for a period of six months. See information from [Royal Netherlands Marechaussee](https://english.marechaussee.nl/topics/t/temporary-reintroduction-of-border-control).
+Netherlands has introduced additional entry checks until December 2025. Checks may be carried out on major roads leading into Netherlands, international trains and on intra-Schengen flights. See information from [Royal Netherlands Marechaussee](https://english.marechaussee.nl/topics/t/temporary-reintroduction-of-border-control).
 
-## Border controls at Germany’s land borders
+## Border controls at Germany’s borders
 
-A temporary reintroduction of border controls are currently in place at Germany’s land borders.
+A temporary reintroduction of border controls are currently in place at Germany’s borders. If you are planning to enter Germany from Netherlands, see information from [The Federal Ministry of the Interior and Community](https://www.bmi.bund.de/SharedDocs/pressemitteilungen/EN/2024/09/binnengrenzkontrollen_en.html).
 
-See information from [The Federal Ministry of the Interior and Community](https://www.bmi.bund.de/SharedDocs/pressemitteilungen/EN/2024/09/binnengrenzkontrollen_en.html).
+## Border controls at Belgium’s borders
+
+Belgium has introduced additional entry checks until December 2025. Checks may be carried out on major roads leading into Belgium, motorway car parks, international bus services, international trains and on intra-Schengen flights. Checks may involve verifying travel documents and identification, as well as screening for illegal substances. In Belgium you must carry your passport with you at all times.
 
 ## Vaccine requirements
 

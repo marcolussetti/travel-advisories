@@ -1,19 +1,15 @@
 # Warnings and insurance
 
 Still current at:
-:   13 June 2025
+:   16 July 2025
 
 Updated:
-:   12 June 2025
+:   15 July 2025
 
 Latest update:
-:   Addition of information that on 24 and 25 June the 2025 NATO Summit will take place in The Hague. Security measures will be in place from Sunday 22 June (‘Warnings and insurance’ page).
+:   Information updated about temporary border controls when entering Netherlands, and when leaving Netherlands into Belgium (‘Entry requirements’ page).
 
 Check [separate travel advice pages](/foreign-travel-advice) for advice on travel to the constituent countries and special municipalities in the Dutch Caribbean.
-
-## NATO Summit
-
-On 24 and 25 June the 2025 NATO Summit will take place in The Hague. From Sunday 22 June, security measures will affect road traffic, public transport and air travel around Amsterdam, Rotterdam and The Hague. More information can be found on the [Dutch Government website](https://www.government.nl/topics/nato-summit-2025/accessibility-2025-nato-summit).
 
 ## Before you travel
 
