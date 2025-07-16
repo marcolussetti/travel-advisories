@@ -22,9 +22,9 @@ You must have valid health insurance to enter Ukraine. Check the [Visit Ukraine
 
 You need to carefully consider the safest means and route to depart. Roads, including bridges and facilities, may be crowded, exposed to military action or damaged. Plan for delays at land border crossings. Expect disruption to travel and changes at short notice.
 
-Ensure you have an adequate supply of food, water, medication, and fuel. Use your judgement to decide the best time and safest means of exit. If you judge it's safe to leave Ukraine and travel by road, check the entry requirements for where you travel, such as [Poland](/destinations/europe/poland "Poland"), [Romania](/destinations/europe/romania "Romania"), [Moldova](/destinations/europe/moldova "Moldova"), [Slovakia](/destinations/europe/slovakia "Slovakia") and [Hungary](/destinations/europe/hungary "Hungary"), for more information. Be aware that some borders may close without notice. Any travel options you pursue are taken at your own risk.
+Ensure you have an adequate supply of food, water, medication, and fuel. Use your judgement to decide the best time and safest means of exit. If you judge it's safe to leave Ukraine and travel by road, check the entry requirements for where you travel, such as [Poland](/destinations/europe/poland "Poland"), [Romania](/destinations/europe/romania "Romania"), [Moldova](/destinations/europe/moldova "Moldova"), [Slovakia](/destinations/europe/slovakia "Slovakia") and [Hungary](/destinations/europe/hungary "Hungary"), for more information. Be aware that some borders may close without notice.
 
-If you judge it's safe to leave Ukraine, see the following websites on land border crossing wait times and rules on border crossing points:
+If you judge it's safe to depart Ukraine, see the following websites on land border crossing wait times and rules on border crossing points:
 
 * [Waiting time at cross-border points](https://kordon.customs.gov.ua/en)
 * [Visit Ukraine](https://visitukraine.today/)
@@ -65,12 +65,12 @@ If your passport is lost or stolen, tell the Australian Government as soon as po
 
 * In Australia, contact the [Australian Passport Information Service](https://www.passports.gov.au/contact-us)
 * If you're overseas, contact the nearest [Australian embassy or consulate](http://dfat.gov.au/about-us/our-locations/missions/Pages/our-embassies-and-consulates-overseas.aspx)
-* Due to the security situation, the Australian Embassy is not able to provide in-person consular or passport services in Ukraine at the moment.
+* Due to the security situation, the Australian Embassy is not able to provide in-person consular or passport services in Ukraine.
 * Obtaining a replacement passport may take extra time. You'll need to travel to the nearest Australian embassy or consulate outside Ukraine, at your own expense and risk, to obtain a travel document.
 
 #### Children
 
-Ukrainian citizens aged under 16 years need consent from both parents to leave Ukraine unaccompanied. This includes dual nationals. See [Local laws](https://www.smartraveller.gov.au/destinations/europe/ukraine#local-laws)
+Ukrainian citizens aged under 16 years need consent from both parents to depart Ukraine unaccompanied. This includes dual nationals. See [Local laws](https://www.smartraveller.gov.au/destinations/europe/ukraine#local-laws)
 
 **More information:**
 
@@ -92,7 +92,7 @@ ATMs are available, and credit cards are widely used in cities. However, due to 
 
 Outside major cities, carry enough cash in local currency.
 
-There's a risk that cyber attacks could disrupt mobile, internet and banking services.
+There's a risk that cyber-attacks could disrupt mobile, internet and banking services.
 
 Contact an [embassy or consulate of Ukraine](https://protocol.dfat.gov.au/Public/Missions/208) for updates on how much cash you can take in and out of the country. If you take more cash than is allowed, officials may confiscate it.
 
@@ -101,8 +101,6 @@ Contact an [embassy or consulate of Ukraine](https://protocol.dfat.gov.au/Publi
 #### MH17 crash site
 
 In July 2014, Malaysia Airlines flight MH17 was shot down near Hrabovo in the Russian-controlled part of Donetsk province.
-
-Investigations into the crash have been suspended.
 
 Do not travel to this area due to ongoing armed conflict in the surrounding vicinity.
 
@@ -116,7 +114,7 @@ When you drive, you must carry the following:
 
 * original vehicle registration papers
 * ownership documents
-* insurance papers
+* insurance papers.
 
 You'll need to show them at border crossings or if stopped by police. This includes rental vehicles.
 

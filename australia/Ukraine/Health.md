@@ -14,9 +14,9 @@ See your doctor or travel clinic to:
 
 * have a basic health check-up
 * ask if your travel plans may affect your health
-* plan any vaccinations you need
+* plan any vaccinations you need.
 
-Do this at least 8 weeks before you leave.
+Do this at least 8 weeks before you depart Australia.
 
 If you have immediate concerns for your welfare or the welfare of another Australian, call the 24-hour Consular Emergency Centre on +61 2 6261 3305 or contact your [nearest Australian Embassy, High Commission or Consulate](https://www.dfat.gov.au/about-us/our-locations/missions/our-embassies-and-consulates-overseas) to discuss counselling hotlines and services available in your location.
 
@@ -35,7 +35,7 @@ Carry a copy of your prescription or a letter from your doctor stating:
 
 * what the medication is
 * your required dosage
-* that it's for personal use
+* that it's for personal use.
 
 **More information:**
 
@@ -47,12 +47,12 @@ Carry a copy of your prescription or a letter from your doctor stating:
 
 Tick-borne diseases, including [tick-borne encephalitis](https://www.who.int/immunization/diseases/tick_encephalitis/en/) (World Health Organization), are a risk in forested areas.
 
-Ticks are common from spring to autumn.
+Ticks are common from spring to autumn (March to December) in Ukraine.
 
 To protect yourself from disease:
 
 * use insect repellent
-* wear long, loose, light-coloured clothing
+* wear long, loose, light-coloured clothing.
 
 Check your body for ticks during and after visiting forests.
 
@@ -74,16 +74,15 @@ Take steps to reduce your risk of exposure to the virus.
 
 #### Polio
 
-Ukraine’s last reported outbreak of [polio](https://www.who.int/news-room/fact-sheets/detail/poliomyelitis) was in October 2021. The outbreak was officially closed by the World Health Organization in September 2023. Due to low vaccination rates in Ukraine, polio poses a serious risk to young children.
+Due to low vaccination rates in Ukraine, [polio](https://www.who.int/news-room/fact-sheets/detail/poliomyelitis) poses a serious risk to young children.
 
-Check your [polio](https://www.who.int/news-room/fact-sheets/detail/poliomyelitis) (World Health Organization) vaccinations are up to date before you travel. You may need a booster dose.
+Check your [polio](https://www.who.int/news-room/fact-sheets/detail/poliomyelitis) vaccinations are up to date before you travel. You may need a booster dose.
 
 #### Other health risks
 
 Waterborne, foodborne and other infectious diseases are common, including these listed by the World Health Organization:
 
 * [tuberculosis](https://www.who.int/news-room/fact-sheets/detail/tuberculosis)
-* [measles](https://www.who.int/news-room/fact-sheets/detail/measles)
 * [diphtheria](https://www.healthdirect.gov.au/diphtheria)
 * [hepatitis](https://www.who.int/hepatitis/en/)
 * [rabies](https://www.who.int/news-room/fact-sheets/detail/rabies)
@@ -97,7 +96,7 @@ To protect yourself from illness:
 * avoid raw and undercooked food, such as salads
 * avoid contact with dogs and other mammals
 
-If an animal bites or scratches you, get medical help straight away.
+If an animal bites or scratches you, seek medical help straight away.
 
 Get medical advice if you have a fever or diarrhoea.
 
@@ -107,7 +106,7 @@ Get medical advice if you have a fever or diarrhoea.
 
 #### Radiation poisoning
 
-A catastrophic nuclear accident occurred at the Chornobyl Nuclear Power Plant in 1986. It spread radioactive material across northern Ukraine and beyond. Radioactivity remains a risk in and around the plant.
+A catastrophic nuclear accident occurred at the Chernobyl Nuclear Power Plant in 1986. It spread radioactive material across northern Ukraine and beyond. Radioactivity remains a risk in and around the plant.
 
 #### Medical care
 

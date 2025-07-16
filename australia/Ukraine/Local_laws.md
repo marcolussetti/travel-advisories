@@ -2,6 +2,10 @@
 
 #### Local law
 
+Always carry your passport.
+
+Local police may stop foreigners and ask them to see their passports and visas.
+
 Ukrainian males (including Australian/Ukrainian dual nationals) from 18 to 60 years of age are being stopped from leaving Ukraine. Military conscription is occurring.
 
 You're subject to all local laws and penalties, including those that may appear harsh by Australian standards. Research local laws before travelling.
@@ -12,15 +16,9 @@ If you're arrested or jailed, the Australian Government will do what it can to h
 
 Penalties for being caught in possession of drugs are severe. Convicted offenders can expect jail sentences and fines.
 
-#### Other laws
-
-Always carry your passport.
-
-Local police may stop foreigners and ask them to see their passports and visas.
-
 #### Surrogacy
 
-Do not enter into surrogacy arrangements. Due to the Russian invasion, the security situation continues to be volatile and could deteriorate suddenly. Missile strikes and attacks are ongoing in some locations across the country, including in major cities. There's a risk to life.
+Do not enter into surrogacy arrangements. Due to the Russian invasion, the security situation continues to be volatile and could deteriorate suddenly. Missile strikes and attacks are ongoing across the country, including in major cities. There's a risk to life.
 
 Some surrogacy agencies have been prevented from fulfilling their contractual obligations since Russia's invasion, causing a significant increase in costs for the intended parents. Ukrainian Government agencies may take longer than you expect to issue documents.
 
@@ -48,7 +46,7 @@ If you're in Ukraine, make sure you have plans to leave Ukraine as soon as it's 
 
 #### Australian laws
 
-Australian law prohibits Australian citizens, residents, and holders of Australian visas from engaging in hostile activities overseas unless they are serving in the armed forces of a foreign country. Foreigners have been killed and may be targeted. Your safety is at the highest risk if you engage in active combat.
+Australian law prohibits Australian citizens, residents, and holders of Australian visas from engaging in hostile activities overseas unless they are serving in the armed forces of a foreign country. Australians on the frontline have been killed and captured by Russia. Foreigners have been killed and may be targeted. Your safety is at the highest risk if you engage in active combat.
 
 Do not travel to Ukraine. There is a risk to life. If, despite our advice, you travel to Ukraine to fight with a non-government armed group on either side of the conflict – or recruit another person to do so (including inducing, inciting or encouraging) – your activities may be criminal offences. Russian proxies have given foreign nationals death sentences in the Donetsk region for engaging in the war in Ukraine.
 

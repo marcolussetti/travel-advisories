@@ -8,7 +8,7 @@ Depending on what you need, contact your:
 * travel agent
 * insurance provider
 * employer
-* airline
+* airline.
 
 #### Fire
 
@@ -47,8 +47,6 @@ For all visa enquiries, see the [Ukraine page](https://www.homeaffairs.gov.au/h
 
 You can email the Australian Embassy for advice on consular and passport information: [Consular.Kyiv@dfat.gov.au](mailto:Consular.Kyiv@dfat.gov.au)
 
-Website: [ukraine.embassy.gov.au](http://ukraine.embassy.gov.au/kyiv/home.html)
-
-Facebook: [Australian Embassy, Ukraine](https://www.facebook.com/AUinUA/)
-
+Website: [ukraine.embassy.gov.au](http://ukraine.embassy.gov.au/kyiv/home.html)  
+Facebook: [Australian Embassy, Ukraine](https://www.facebook.com/AUinUA/)  
 X: [@AUinUA](https://twitter.com/AUinUA)
