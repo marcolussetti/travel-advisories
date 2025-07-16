@@ -1,6 +1,6 @@
 ## Natural disasters and climate
 
-### **Rainy seasons**
+### **Rainy Seasons**
 
 During the two rainy seasons (February to May and September to December), Rwanda frequently experiences intense thunderstorms. Landslides and floods are also common during these seasons. If you’re travelling to or living in Rwanda, monitor regional weather forecasts and always follow local authorities’ instructions about security and evacuation.
 

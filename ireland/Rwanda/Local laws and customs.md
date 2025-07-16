@@ -6,6 +6,6 @@ Remember, the local laws apply to you as a visitor and it is your responsibility
 
 Photography of public buildings is prohibited.
 
-### **Plastic bags**
+### **Plastic Bags**
 
 Plastic bags are banned in Rwanda and any visible bags may be confiscated on arrival.

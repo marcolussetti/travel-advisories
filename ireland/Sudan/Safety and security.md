@@ -10,11 +10,11 @@ There have been frequent demonstrations in Sudan in recent years, often leading 
 
 You should avoid all protests and demonstrations and should not try to take photographs of demonstrations. If caught up in a demonstration, leave the area immediately. Closely monitor the local media for updates on the situation.
 
-### **Air travel**
+### **Air Travel**
 
 Khartoum International Airport is currently closed. There are serious concerns about the safety and reliability of local airlines in Sudan. [**Many of these airlines are banned from operating in European airspace**](http://ec.europa.eu/transport/modes/air/safety/air-ban/index_en.htm).
 
-### **Regional travel**
+### **Regional Travel**
 
 Locally-obtained permits are required for all travel to many destinations outside Khartoum, including Darfur.
 

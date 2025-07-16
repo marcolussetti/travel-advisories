@@ -3,29 +3,29 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Namibia/Overview.md"
+            "title": "Travel to Namibia overview",
+            "file": "ireland/Namibia/Travel to Namibia overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Namibia/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Namibia/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Namibia/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Namibia/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/Namibia/Local laws and customs.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/Namibia/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Namibia/Embassy contact.md"
         }
     ],
-    "update_date": "2025-07-10T00:00:00"
+    "update_date": "2025-07-15T00:00:00"
 }

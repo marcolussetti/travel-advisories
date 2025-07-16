@@ -42,11 +42,11 @@ If visitors want to drive:
 
 Private taxis, motorbike taxis or mini buses available for public transport can be hazardous as vehicle maintenance and driving standards are often very poor and vehicles overcrowded.
 
-### **Higher risk activities**
+### **Higher Risk Activities**
 
 Currents and riptides are strong and unpredictable on Liberia’s beaches, making swimming conditions very dangerous. Beaches are not manned by lifeguards. Canoes and fishing boats offering passenger services along the coast are often overwhelmed by waves and should be avoided.
 
-### **Corruption and fraud**
+### **Corruption and Fraud**
 
 Corruption is common in Liberia. Business fraud against foreigners is also a problem. If thinking of making an investment or entering into a contract, we advise you to research the person or company concerned before making any commitments. Be particularly careful when the business opportunity is the result of unsolicited contact or promises rapid financial gain.
 

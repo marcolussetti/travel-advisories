@@ -21,3 +21,7 @@ While there are no formal rules limiting photography at public buildings, be cau
 ### **Wildlife, Animal Products and Souvenirs**
 
 A licence is required to buy, sell, kill or capture any protected wild animal or trade its parts. Punishments for buying or trafficking these goods, including ivory and rhino horn, include significant fines and/or prison sentence.
+
+### **Money**
+
+The Namibian Dollar is tied and equivalent to the South African Rand which is also legal tender in Namibia.

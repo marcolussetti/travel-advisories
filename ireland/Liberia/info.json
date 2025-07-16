@@ -3,29 +3,33 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Liberia/Overview.md"
+            "title": "Travel to Liberia overview",
+            "file": "ireland/Liberia/Travel to Liberia overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Liberia/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Liberia/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Liberia/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Liberia/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/Liberia/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/Liberia/Natural disasters and climate.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/Liberia/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Liberia/Embassy contact.md"
         }
     ],
-    "update_date": "2024-03-11T00:00:00"
+    "update_date": "2025-07-15T00:00:00"
 }

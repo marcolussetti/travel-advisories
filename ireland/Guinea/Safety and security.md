@@ -2,7 +2,7 @@
 
 ### **Political Situation**
 
-Following a coup in Guinea on 5 September 2021, a transitional government is in place. Political tensions are high. Demonstrations occur frequently throughout the country, may be  called with little or no notice and can quickly turn violent. You should avoid large demonstrations or rallies (both political and non-political), particularly those close to military barracks and regularly monitor local and international media reports.
+Following a coup in Guinea on 5 September 2021, a transitional government is in place. Political tensions are high. Demonstrations occur frequently throughout the country, may be called with little or no notice and can quickly turn violent. You should avoid large demonstrations or rallies (both political and non-political), particularly those close to military barracks and regularly monitor local and international media reports.
 
 It is strongly recommended that Irish citizens travelling in Guinea [**register**](/en/dfa/overseas-travel/citizens-registration/) with our Embassy in Sierra Leone.
 
@@ -28,7 +28,7 @@ The standard of road maintenance is low. Beware of deep potholes. Many roads are
 
 ### **Emergency Assistance**
 
-If there is an emergency, or if you need help and advice, you can contact our Consular Assistance Unit at the Department of Foreign Affairs in Dublin on +353 1 408 2000.
+If there is an emergency, or if you need help and advice, you can contact our Consular Assistance Unit at the Department of Foreign Affairs and Trade in Dublin on +353 1 408 2000.
 
 As there is no Irish Embassy or Consulate in Guinea, we are limited in the help we can offer in an emergency. The best help is often close at hand so if you have problems, try talking to your local contacts, tour operator representative or hotel management.
 

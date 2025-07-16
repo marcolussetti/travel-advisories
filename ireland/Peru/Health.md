@@ -12,7 +12,7 @@ There have been outbreaks of Zika Virus (a dengue-like mosquito-borne disease) i
 
 Check with a doctor well in advance of travelling to see if any vaccinations for Peru are required.
 
-### **Yellow fever**
+### **Yellow Fever**
 
 If visitors plan on travelling in Latin America, a Yellow Fever Certificate may be required. Confirm with the authorities of your next destination whether they require a certificate following a visit to Peru.
 

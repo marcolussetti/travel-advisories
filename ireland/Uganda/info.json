@@ -3,12 +3,16 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Uganda/Overview.md"
+            "title": "Travel to Uganda overview",
+            "file": "ireland/Uganda/Travel to Uganda overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Uganda/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Uganda/Health.md"
         },
         {
             "title": "Local laws and customs",
@@ -19,13 +23,13 @@
             "file": "ireland/Uganda/Natural disasters and climate.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Uganda/Additional information.md"
+            "title": "Entry requirements",
+            "file": "ireland/Uganda/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Uganda/Embassy contact.md"
         }
     ],
-    "update_date": "2025-06-04T00:00:00"
+    "update_date": "2025-07-15T00:00:00"
 }

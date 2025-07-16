@@ -1,12 +1,12 @@
 ## Safety and security
 
-### **Practical advice**
+### **Practical Advice**
 
 * Get advice locally about areas of risk and security concerns
 * Take common-sense precautions about safety and security
 * Know who to contact in case of an emergency
 
-### **Border areas**
+### **Border Areas**
 
 Irish citizens should exercise caution when travelling near the Rwanda-DRC border given the possibility of fighting there. You should be alert to the possibility of incursions, stray bullets or artillery fire entering Rwanda. There are many points where the border is not marked.
 
@@ -32,7 +32,7 @@ While levels of crime are relatively low in Rwanda, there has been an increase i
 * Avoid dark and unlit streets and stairways, and arrange to be picked up or dropped off as close to your hotel or apartment entrance as possible.
 * Keep a close eye on your personal belongings and hold on to them in public places such as internet cafés, train and bus stations.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If you’re a victim of a crime while in Rwanda, report it to the local police immediately. And you can contact us at our [**Embassy in Kampala in Uganda**](/en/uganda/kampala/) if you need help.
 
@@ -47,12 +47,12 @@ If you want to drive:
 * Keep your vehicle doors locked and your bags kept out of sight to prevent opportunistic theft
 * Be careful during the annual rains in late spring and autumn. Roads may become impassable for anything but four-wheel-drive vehicles. There may be landslides or floods on some of the major roads
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If you’re hiring a vehicle, we advise you not to hand over your passport as a form of security. If you’re allowing your passport to be photocopied, keep it in your sight at all times.
 
 Check that you have adequate insurance and read the small print of the vehicle hire contract (particularly any waiver that will come into effect if the vehicle is damaged).
 
-### **Public transport**
+### **Public Transport**
 
 We strongly advise against taking shared taxis or motorbike taxis due to the high rate of accidents.

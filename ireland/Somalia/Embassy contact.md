@@ -1,8 +1,6 @@
 ## Embassy contact
 
-Ireland does not have an Embassy in Somalia.
-
-The Embassy of Ireland in Kenya is accredited to Somalia and can be contacted in case of emergencies or for advice.
+As there is no Irish Embassy in Somalia, we are limited in the help we can offer in an emergency. However, if assistance is required, please contact the [**Irish Embassy in Kenya**](https://www.ireland.ie/en/kenya/nairobi/).
 
 ### Embassy of Ireland, Kenya
 

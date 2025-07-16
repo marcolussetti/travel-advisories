@@ -2,7 +2,7 @@
 
 Outside of office hours, the emergency contact for the Embassy is + 265 888 207 543.
 
-Alternatively, you may contact the Duty Officer at the Department of Foreign Affairs in Dublin at + 353 1 408 2000.
+Alternatively, you may contact the Duty Officer at the Department of Foreign Affairs and Trade in Dublin at + 353 1 408 2000.
 
 Monday - Thursday: 07:30 - 12:00 and 13:30 - 16:30; Friday: 07:30 - 12:30
 

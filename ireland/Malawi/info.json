@@ -3,29 +3,29 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Malawi/Overview.md"
+            "title": "Travel to Malawi overview",
+            "file": "ireland/Malawi/Travel to Malawi overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Malawi/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Malawi/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Malawi/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Malawi/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/Malawi/Local laws and customs.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/Malawi/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Malawi/Embassy contact.md"
         }
     ],
-    "update_date": "2025-03-04T00:00:00"
+    "update_date": "2025-07-15T00:00:00"
 }

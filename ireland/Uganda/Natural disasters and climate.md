@@ -1,12 +1,12 @@
 ## Natural disasters and climate
 
-### **Practical advice**
+### **Practical Advice**
 
 * If you’re travelling to Uganda, make sure you know what to expect – then plan and pack so that you’re prepared
 * Get local advice on how to manage in the case of a serious incident or dangerous conditions
 * Co-operate with local authorities and emergency services in the case of serious incidents
 
-### **Rainy season**
+### **Rainy Season**
 
 The rainy seasons in Uganda normally run from March to May and from October to November. You should pay close attention to local and international weather reports and follow the advice of local authorities.
 

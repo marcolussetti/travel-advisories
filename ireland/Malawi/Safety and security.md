@@ -1,10 +1,10 @@
 ## Safety and security
 
-### **Current issues**
+### **Current Issues**
 
 Caution should be exercised in all areas, especially after dark. When visiting rural areas it is advisable to check on the general safety of the area, or for any recent incidents, with contacts in the community in advance.
 
-### **Social unrest**
+### **Social Unrest**
 
 Always be aware of your surroundings, pay attention to local media and be careful around large groups of people in major urban areas. Avoid rallies, demonstrations and public gatherings. If in an area where you believe your safety is threatened, leave immediately.
 
@@ -18,13 +18,13 @@ Residential break-ins, organised robberies and car-jackings are known to occur a
 
 Avoid dark and unlit streets and stairways, and arrange to be picked up or dropped off as close to your hotel or accommodation entrance as possible.
 
-### **Reporting a crime**
+### **Reporting a Crime**
 
 Report any crime to the police immediately. Although the investigation and prosecution of the crime are solely the responsibility of local authorities, our consular officers can help you to understand the local criminal justice process and find a lawyer, if needed.
 
 The emergency number in Malawi is 999 (or 01 757 999, or 01 751 444).
 
-### **Lost or stolen passport**
+### **Lost or Stolen Passport**
 
 Lost or stolen passports are sometimes handed to the police within a few days. Report the loss to the nearest police station as soon as possible, and keep in touch with that station in case of recovery. If your passport is stolen, apply to the Embassy for a replacement.
 
@@ -42,7 +42,7 @@ If you want to drive:
 * Never leave personal belongings in a vehicle.
 * Be aware that petrol stations are found only in larger towns and plan your route accordingly. Most petrol stations do not accept credit or debit cards but it is possible to purchase and top up a fuel card (using cash) which will then be accepted as payment for fuel.
 
-### **Traffic offences**
+### **Traffic Offences**
 
 If caught drink driving or speeding your licence and/or vehicle can be confiscated on the spot. It will only be returned after an appearance before a magistrate. Convicted drivers face a fine and/or imprisonment. The blood alcohol limit is 0.08g per 100ml of blood.
 
@@ -52,13 +52,13 @@ Drive slowly in all built-up areas. Traffic police often place speed cameras in 
 
 There have been instances of armed car-jackings, particularly of four-wheel-drive vehicles. These can happen when a vehicle is stopped, for example, while waiting to enter at a compound vehicle gate, at intersections, or in traffic. Car doors should be locked and windows closed, especially when stopping your vehicle. Do not resist if threatened by car-jackers.
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If hiring a vehicle, we advise not to hand over your passport as a form of security. If allowing your passport to be photocopied, keep it in sight at all times.
 
 Check that you have adequate insurance and read the small print of the vehicle hire contract (particularly any waiver that will come into effect if the vehicle is damaged).
 
-### **Public transport**
+### **Public Transport**
 
 Long-distance coach services are available to travel between the major cities of Lilongwe, Mzuzu and Blantyre and international bus services also operate to Tanzania and South Africa.
 

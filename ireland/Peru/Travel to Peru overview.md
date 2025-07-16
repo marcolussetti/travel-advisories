@@ -14,17 +14,25 @@ While not required by Peruvian authorities, Irish citizens may wish to get vacci
 
 ### **States of Emergency**
 
-States of Emergency declared many years ago as well as those more recently declared are in force throughout many regions of Peru. A State of Emergency declared for security reasons gives the armed forces responsibility for law and order. A State of Emergency declared for natural disasters or health alerts means that the standard service providers in the region cannot guarantee normal services and frequently need help from central government; however, in these cases the armed forces do not take responsibility for law and order.
+States of Emergency are in force throughout many regions of Peru. A State of Emergency declared for security reasons gives the armed forces responsibility for law and order. A State of Emergency declared for natural disasters or health alerts means that the standard service providers in the region cannot guarantee normal services and frequently need help from central government; however, in these cases the armed forces do not take responsibility for law and order.
 
 When a state of emergency is in effect, security forces have increased rights to restrict freedom of movement, conduct search and seizures, and detain persons of interest.
 
 If visitors do decide to visit any area under a state of emergency they should follow instructions given by police, military or other officials. You can read a list of the areas with a state of emergency in [**El Peruano**](https://diariooficial.elperuano.pe/Normas) official newspaper (in Spanish).
 
+### **Protests, Demonstrations, and Roadblocks**
+
+Protests, demonstration, and roadblocks can develop quickly. Protests in Lima often happen in the historic centre, but can also spread to other areas. Other regions that have seen protests include Arequipa, Ayacucho, Cusco, La Libertad, Madre de Dios and Puno.
+
+Irish citizens throughout Peru should avoid areas where demonstrations, large gatherings, or roadblocks are taking place and follow the instructions of local authorities.
+
+Irish citizens in Peru should be aware that travel to some parts of the country, especially tourist locations in the south, may not be possible.
+
+If you are in an affected region you should not attempt to pass roadblocks. Stay informed by local authorities and official sources – Real-time information on road closures and roadblocks can be found on the official [Government of Peru website](https://gis.sutran.gob.pe/alerta_sutran/) (in Spanish).
+
+Train services, including those to and from Machu Picchu, are occasionally suspended or disrupted because of protests.
+
 ### **General Travel Advice**
-
-Protests in Lima often happen in the historic centre, but can also spread to other areas. Other regions that have seen protests include Arequipa, Ayacucho, Cusco, La Libertad, Madre de Dios and Puno. Irish citizens throughout Peru should avoid areas where demonstrations and large gatherings are taking place and follow the instructions of local authorities.
-
-Irish citizens in Peru should be aware that travel to some parts of the country, especially tourist locations in the south, may not be possible. Train services, including those to and from Machu Picchu, are occasionally suspended or disrupted because of protests.
 
 Irish citizens do not require a visa to enter Peru for stays up to 183 days.
 

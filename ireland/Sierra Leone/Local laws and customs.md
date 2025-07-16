@@ -14,7 +14,7 @@ The Sierra Leone Police levy a SLL 500,000/SLE 500 fee for all foreign nationals
 
 Penalties for possession, use or trafficking of drugs are severe; do not become involved in drugs in any way.
 
-### **Precious gems and minerals**
+### **Precious Gems and Minerals**
 
 Sierra Leone’s customs authorities enforce strict regulations about the export of precious minerals and gems such as diamonds and gold.  Anyone exporting such exports should comply with Sierra Leonean law.
 
@@ -29,3 +29,17 @@ The majority of the population of Sierra Leone is Muslim (60% - 70%) although th
 However, be aware of your actions and take care not to offend the religious beliefs of others, especially during the holy month of Ramadan or other religious festivals, or if visiting religious areas.
 
 During Ramadan, Muslims are not permitted to eat, drink or smoke during daylight hours. To avoid offence, exercise discretion when eating, drinking or smoking in public during this time.
+
+### **Currency**
+
+Sierra Leone is a cash-based economy; it is advisable to bring enough cash to cover expenses while in the country. Credit cards and travellers’ cheques are rarely accepted so do not rely on them.  Although there are a number of ATMs in Freetown, the security of the transactions cannot be guaranteed and they have had less cash available since redenomination commenced. The exchange rate given by ATMs is also highly unfavourable.
+
+The government has prohibited the use of foreign currency in the country; you will not be able to pay in Euro or US dollars locally. Foreign currency can be exchanged for Leones in banks or official foreign-exchange offices. Always be careful when carrying cash.
+
+### **Language**
+
+English is the official language of Sierra Leone and is widely spoken in Freetown. Krio, an English-based creole dialect, is the lingua franca of Sierra Leone and is widely spoken across the country.
+
+### **Power**
+
+Power supply remains unreliable, particularly during the dry season. Rented accommodation and hotels rely on generators and private water supplies.

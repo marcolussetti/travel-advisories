@@ -3,29 +3,29 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Guinea/Overview.md"
+            "title": "Travel to Guinea overview",
+            "file": "ireland/Guinea/Travel to Guinea overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Guinea/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Guinea/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Guinea/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Guinea/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/Guinea/Local laws and customs.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/Guinea/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Guinea/Embassy contact.md"
         }
     ],
-    "update_date": "2023-11-21T00:00:00"
+    "update_date": "2025-07-15T00:00:00"
 }

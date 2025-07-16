@@ -3,29 +3,33 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Sierra Leone/Overview.md"
+            "title": "Travel to Sierra Leone overview",
+            "file": "ireland/Sierra Leone/Travel to Sierra Leone overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Sierra Leone/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Sierra Leone/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Sierra Leone/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Sierra Leone/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/Sierra Leone/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/Sierra Leone/Natural disasters and climate.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/Sierra Leone/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Sierra Leone/Embassy contact.md"
         }
     ],
-    "update_date": "2025-03-11T00:00:00"
+    "update_date": "2025-07-15T00:00:00"
 }

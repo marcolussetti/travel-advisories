@@ -3,29 +3,33 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Zambia/Overview.md"
+            "title": "Travel to Zambia overview",
+            "file": "ireland/Zambia/Travel to Zambia overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Zambia/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Zambia/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Zambia/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Zambia/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/Zambia/Local laws and customs.md"
+        },
+        {
+            "title": "Natural disasters and climate",
+            "file": "ireland/Zambia/Natural disasters and climate.md"
+        },
+        {
+            "title": "Entry Requirements",
+            "file": "ireland/Zambia/Entry Requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Zambia/Embassy contact.md"
         }
     ],
-    "update_date": "2025-07-10T00:00:00"
+    "update_date": "2025-07-15T00:00:00"
 }

@@ -1,6 +1,6 @@
 ## Health
 
-### **Get Travel and Medical Insurance**
+### **Travel and Medical Insurance**
 
 Please note that while Embassy can provide information on local medical supports we cannot provide medical advice or pay for medical bills.
 

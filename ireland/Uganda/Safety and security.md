@@ -1,6 +1,6 @@
 ## Safety and security
 
-### **Practical advice**
+### **Practical Advice**
 
 There is a high threat of terrorism across the East Africa region. Ugandan authorities have issued a number of alerts warning of a heightened risk of terrorism and Uganda has experienced a number of bomb blasts in 2021. Terror attacks can be indiscriminate, including in places frequented by expatriates and foreign travellers. Large crowds of people and public places may also be targets.
 
@@ -8,7 +8,7 @@ There is a high threat of terrorism across the East Africa region. Ugandan autho
 * Take common-sense precautions about safety and security
 * Know who to contact in case of an emergency
 
-### **Political unrest**
+### **Political Unrest**
 
 You are advised that political demonstrations in Uganda can take a violent turn without warning. You should avoid all political gatherings including demonstrations and rallies, remain vigilant at all times, and follow local media for updates.
 
@@ -29,7 +29,7 @@ You are advised to take the following precautions:
 * Avoid walking after dark and arrange to be picked up or dropped off as close to your hotel or apartment entrance as possible
 * Bag snatches by thieves on motorbikes are becoming more common; always remain aware of your surroundings, day and night.
 
-### **Reporting a crime**
+### **Reporting a Crime**
 
 If you’re a victim of a crime while in Uganda, report it to the local police immediately. And you can contact us at the Irish Embassy if you need help.
 
@@ -56,7 +56,7 @@ Hiring a vehicle
 
 There is a high threat of terrorism across the East Africa region. Ugandan authorities have issued a number of alerts warning of a heightened risk of terrorism. Terror attacks can be indiscriminate, including in places frequented by expatriates and foreign travellers. Large crowds of people and public places may also be targets.
 
-### **Regional travel**
+### **Regional Travel**
 
 Travel can be difficult and dangerous so do not go outside the main towns unless you are well prepared. We recommend that you do not travel outside of towns after dark.
 
