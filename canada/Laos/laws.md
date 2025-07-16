@@ -12,6 +12,10 @@ Travellers are subject to search, detention and the possibility of fines by auth
 
 Always carry ID, and comply with requests to stop at checkpoints and roadblocks.
 
+### Smoking
+
+It is prohibited to import, possess or use shishas, e-cigarettes, vaporisers and their refills. Convicted offenders can expect heavy fines or jail sentences.
+
 ### Drugs
 
 Penalties for possession, use or trafficking of illegal drugs are strict and may include the death penalty.

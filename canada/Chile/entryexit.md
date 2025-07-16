@@ -65,7 +65,7 @@ Alternatively, you may go, well in advance of departure:
 * at a special police unit (Jefatura Nacional de Migración y Policia Internacional) in Santiago
 * at the nearest office of the Police Investigations Service outside of Santiago
 
-#### Useful Links
+#### Useful links
 
 * [Migrations and International Police](https://pdichile.cl/instituci%C3%B3n/unidades/migraciones) – Investigations Police of Chile (Spanish only)
 * [Replacing a tourist card](https://www.pdichile.cl/tr%C3%A1mites-online/duplicado-de-tarjeta-de-turismo) – Police Investigations Service (Spanish only)
@@ -76,7 +76,7 @@ You can request an extension of stay for up to 90 days online. You must do so be
 
 If you have stayed in Chile for longer than the allowed period, you will have to pay a fine at the Chilean immigration office before you can leave the country.
 
-#### Useful Links
+#### Useful links
 
 * [Migrations Chile](https://serviciomigraciones.cl/en/home/) – National Migration Service
 * [Portal for digital processes](https://tramites.extranjeria.gob.cl/) – National Migration Service (Spanish only)
@@ -90,7 +90,7 @@ Stays on Easter Island (Rapa Nui) are limited to 30 consecutive days for all tra
 * show proof of reservation of an accommodation authorized by local authorities
 * fill the Rapa Nui Entry Form
 
-#### Useful Links
+#### Useful links
 
 * [Requirements to visit Rapa Nui island](https://www.gob.cl/rapanuiprotegida-en/) – Government of Chile
 * [Rapa Nui Entry Form](https://ingresorapanui.interior.gob.cl/) – Government of Chile
