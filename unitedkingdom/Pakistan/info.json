@@ -1,11 +1,11 @@
 {
     "name": "Pakistan",
-    "update_reason": "Addition of information that on 10 May, the Government of Pakistan stated that India and Pakistan have agreed to stop military action ('Warnings and insurance' page).",
+    "update_reason": "Removal of information about the UK Air Safety List, as Pakistani air carriers are no longer on the UK Air Safety List. Addition of information about risks related to terrorism ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Pakistan/Warnings and insurance.md",
-            "update_date": "2025-05-22T14:56:58+01:00"
+            "update_date": "2025-07-16T09:33:23+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Pakistan/Getting help.md"
         }
     ],
-    "update_date": "2025-05-22T14:56:58+01:00"
+    "update_date": "2025-07-16T09:33:23+01:00"
 }

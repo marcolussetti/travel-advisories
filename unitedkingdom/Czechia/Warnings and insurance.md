@@ -7,7 +7,7 @@ Updated:
 :   16 July 2025
 
 Latest update:
-:   New information on border checks leading into Belgium ('Entry requirements' page).
+:   This page has been checked for style and accuracy, with minor edits throughout and the addition of new information on the risks from extreme weather and natural disasters (‘Safety and security’ page).
 
 ## Before you travel
 
@@ -29,7 +29,7 @@ The Foreign, Commonwealth & Development Office (FCDO) provides advice about risk
 
 ### Get travel advice updates
 
-Sign up to [get email notifications](https://www.gov.uk/foreign-travel-advice/luxembourg/email-signup) when this advice is updated.
+Sign up to [get email notifications](https://www.gov.uk/foreign-travel-advice/czech-republic/email-signup) when this advice is updated.
 
 Follow FCDO:
 
@@ -39,6 +39,6 @@ Follow FCDO:
 
 [Next
 :
-Entry requirements](/foreign-travel-advice/luxembourg/entry-requirements)
+Entry requirements](/foreign-travel-advice/czechia/entry-requirements)
 
-[View a printable version of the whole guide](/foreign-travel-advice/luxembourg/print)
+[View a printable version of the whole guide](/foreign-travel-advice/czechia/print)

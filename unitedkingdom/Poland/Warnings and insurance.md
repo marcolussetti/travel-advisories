@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   9 July 2025
+:   17 July 2025
 
 Updated:
-:   8 July 2025
+:   16 July 2025
 
 Latest update:
-:   Information about the Polish border with Germany and Lithuania ('Entry requirements' page).
+:   This page has been checked for style and accuracy, with minor edits throughout and the addition of new information on the risks from extreme weather and natural disasters (‘Safety and security’ page).
 
 ## Ukraine-Poland border
 

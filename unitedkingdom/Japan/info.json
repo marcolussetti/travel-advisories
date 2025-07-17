@@ -1,11 +1,11 @@
 {
     "name": "Japan",
-    "update_reason": "Updated information on drink spiking and new information about illegal drugs ('Safety and security' page).",
+    "update_reason": "Addition of pertussis (whooping cough) to health risks faced in Japan (See \u2018Vaccine recommendations and health risks\u2019 on the 'Health' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Japan/Warnings and insurance.md",
-            "update_date": "2024-11-27T09:41:57+00:00"
+            "update_date": "2025-07-16T10:14:23+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Japan/Getting help.md"
         }
     ],
-    "update_date": "2024-11-27T09:41:57+00:00"
+    "update_date": "2025-07-16T10:14:23+01:00"
 }

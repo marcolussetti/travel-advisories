@@ -1,11 +1,11 @@
 {
     "name": "Poland",
-    "update_reason": "Information about the Polish border with Germany and Lithuania ('Entry requirements' page).",
+    "update_reason": "This page has been checked for style and accuracy, with minor edits throughout and the addition of new information on the risks from extreme weather and natural disasters (\u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Poland/Warnings and insurance.md",
-            "update_date": "2025-07-08T14:58:45+01:00"
+            "update_date": "2025-07-16T16:31:35+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Poland/Getting help.md"
         }
     ],
-    "update_date": "2025-07-08T14:58:45+01:00"
+    "update_date": "2025-07-16T16:31:35+01:00"
 }

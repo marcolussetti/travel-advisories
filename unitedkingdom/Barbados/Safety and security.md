@@ -17,6 +17,7 @@ There have been incidents of violent crime, including:
 * armed robbery
 * sexual assault
 * gang-related shootings
+* carjackings
 
 There has been an increase in gang-related murders involving guns. Some incidents have taken place in populated and public areas.
 

@@ -1,11 +1,11 @@
 {
     "name": "Tunisia",
-    "update_reason": "Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region (\u2018Safety and security\u2019 page).",
+    "update_reason": "FCDO now advises against all but essential travel to within 20km of the Tunisia-Algerian border in El Kef and Jendouba Governorates, south of the town of Jendouba. FCDO no longer advises against travel to the archaeological site of Chemtou.",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Tunisia/Warnings and insurance.md",
-            "update_date": "2025-06-13T12:38:41+01:00"
+            "update_date": "2025-07-16T11:23:07+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Tunisia/Getting help.md"
         }
     ],
-    "update_date": "2025-06-13T12:38:41+01:00"
+    "update_date": "2025-07-16T11:23:07+01:00"
 }

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   17 July 2025
 
 Updated:
-:   15 May 2024
+:   16 July 2025
 
 Latest update:
-:   Information about celebratory gunfire in Chad ('Safety and security' page).
+:   Updated information about limited UK government support available (‘Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/60dc7052e90e07717b84dc57/FCDO__TA__010_-_Chad_Travel_Advice_Ed4__WEB_.jpg)
 
@@ -55,7 +55,15 @@ No travel can be guaranteed safe. Read all the advice in this guide. You may als
 * read about [safety for solo and independent travel](https://www.gov.uk/guidance/solo-and-independent-travel)
 * see [advice on volunteering and adventure travel abroad](https://www.gov.uk/guidance/safer-adventure-travel-and-volunteering-overseas)
 
-### Travel insurance
+## Limited UK government support
+
+Support for British nationals is severely limited in Chad with assistance provided remotely from British High Commission Yaoundé. In-person assistance is not available.
+
+If there is serious violence, unrest or a deterioration in the security situation, it could be difficult to leave safely.
+
+Do not rely on the UK government to evacuate you as they may not be able to do so. Have your own plans on how you would leave the country, make sure you keep all travel documentation up to date and monitor the local situation.
+
+## Travel insurance
 
 If you choose to travel, research your destinations and [get appropriate travel insurance](https://www.gov.uk/guidance/foreign-travel-insurance). Insurance should cover your itinerary, planned activities and expenses in an emergency.
 

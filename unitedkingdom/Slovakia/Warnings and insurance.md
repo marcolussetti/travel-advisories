@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   2 July 2025
+:   17 July 2025
 
 Updated:
-:   1 July 2025
+:   16 July 2025
 
 Latest update:
-:   New information on extended stays in Slovakia ('Entry requirements' page).
+:   This page has been checked for style and accuracy, with minor edits throughout and the addition of new information on the risks from extreme weather and natural disasters (‘Safety and security’ page).
 
 ## Before you travel
 

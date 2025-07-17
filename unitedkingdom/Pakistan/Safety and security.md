@@ -21,7 +21,7 @@ Terrorist groups operating in Pakistan include:
 * Tehreek-e Taliban Pakistan (TTP)
 * Tehreek-e Jihad Pakistan (TJP)
 * Balochistan separatists
-* Islamic Sate Khorasan Province (ISKP)
+* Islamic State Khorasan Province (ISKP)
 * al-Qa’ida
 
 Terrorist groups mainly target Government of Pakistan security forces. Areas of Balochistan and Khyber Pakhtunkhwa, including Peshawar, suffer regular terrorist attacks. Attacks have also taken place in Karachi and other major cities.
@@ -53,9 +53,9 @@ Take particular care during periods of national or religious significance, inclu
 
 Examples of recent attacks include:
 
+* in March 2025, the Jaffar Express passenger train travelling from Quetta to Peshawar, with at least 380 passengers on board, was hijacked by the Balochistan Liberation Army (BLA), resulting in 64 deaths
 * in November 2024, a suicide attack by Baloch separatists at Quetta railway station killed at least 26 people.
-* in 2023, TTP militants attacked a police station in Karachi killing police officers
-* in 2022, 4 people were killed in a suicide bomb at the University of Karachi targeting Chinese nationals
+* in October 2024, a suicide attack near Karachi’s Jinnah International Airport killed 4 individuals - including two Chinese nationals and two Pakistani civilians
 * public service and health officials have been attacked while working on health programmes
 
 ### Terrorist kidnap
@@ -102,7 +102,7 @@ Always carry photo ID.  You may be asked to show it.
 
 ### Ramadan
 
-Ramadan, also called Ramazan in Pakistan, is a holy month for Muslims. The dates vary by year and country. In 2025, Ramadan is expected to start around the end of February and finish around the end of March. During this time, do not:
+Ramadan, also called Ramazan in Pakistan, is a holy month for Muslims. The dates vary by year and country. In 2026, Ramadan is expected to start around mid-February and finish around mid-March. During this time, do not:
 
 * eat, drink, smoke or chew gum in public in the daytime, including in your car
 * play loud music or dance
@@ -191,7 +191,7 @@ Avoid using street or e-taxis. Only use taxis from reputable, licensed companies
 
 ### Air travel
 
-The [UK Air Safety List (ASL)](https://www.gov.uk/guidance/uk-air-safety-list#pakistan) lists all known airlines in Pakistan that do not meet international safety standards and are banned from operating commercial air services to, from, and within the UK. Check the UK Air Safety List when considering which airlines to fly with. The list is maintained by the Department for Transport, based on advice from the [UK Civil Aviation Authority](https://www.caa.co.uk/Commercial-Industry/Airlines/Licensing/Requirements-and-guidance/Third-Country-Operator-Certificates).
+Airports can be crowded at times and your baggage may need to go through screening equipment and checks. When travelling through an airport, allow enough time to complete check-in and security procedures.
 
 Flights to and from the mountainous areas in the north of Pakistan are frequently delayed or cancelled due to extreme weather.
 

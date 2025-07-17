@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   17 July 2025
 
 Updated:
-:   27 November 2024
+:   16 July 2025
 
 Latest update:
-:   Updated information on drink spiking and new information about illegal drugs ('Safety and security' page).
+:   Addition of pertussis (whooping cough) to health risks faced in Japan (See ‘Vaccine recommendations and health risks’ on the 'Health' page).
 
 ## Before you travel
 

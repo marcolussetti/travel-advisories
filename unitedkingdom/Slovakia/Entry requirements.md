@@ -60,10 +60,6 @@ As a visitor to Slovakia, you must [report where you are staying to the nearest 
 
 If you plan to stay in Slovakia for a longer period, you must [apply for a residence permit](https://www.minv.sk/?residencies).
 
-## Vaccine requirements
-
-For details about medical entry requirements and recommended vaccinations, see [TravelHealthPro’s Slovakia guide](https://travelhealthpro.org.uk/country/197/slovakia#Vaccine_Recommendations).
-
 ## Customs rules
 
 There are strict rules about [goods you can take into or out of Slovakia](https://www.financnasprava.sk/en/individuals/customs-duty/import). You must declare anything that may be prohibited or subject to tax or duty.

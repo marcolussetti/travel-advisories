@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   17 April 2025
+:   17 July 2025
 
 Updated:
-:   16 April 2025
+:   16 July 2025
 
 Latest update:
-:   Updated information on political rallies and protests, security personnel, risks of road travel, and public offences ('Safety and security' page).
+:   Updated information on terrorism in Madagascar ('Safety and security' page).
 
 ## Before you travel
 

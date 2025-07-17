@@ -139,6 +139,12 @@ Minor roads and even some main roads between major towns and cities can be narro
 
 You must pay road tolls on some stretches of motorways, expressways and national roads. See the [toll operator website](https://etoll.gov.pl/en/) for details.
 
+## Extreme weather and natural disasters
+
+Find out what you can do to [prepare for and respond to extreme weather and natural hazards](https://www.gov.uk/guidance/extreme-weather-and-natural-hazards).
+
+You may receive alerts on your mobile phone from the Polish government in the event of extreme weather, a natural disaster or other emergency. These are in Polish and English, and you should follow the authorities’ instructions. You can find out information about the [text message alert system here](https://alert.rcb.gov.pl/en/alert-rcb/) and about the [Government Centre for Security](https://www.gov.pl/web/rcb-en).
+
 [Previous
 :
 Entry requirements](/foreign-travel-advice/poland/entry-requirements)

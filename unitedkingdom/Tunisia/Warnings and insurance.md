@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   14 June 2025
+:   17 July 2025
 
 Updated:
-:   13 June 2025
+:   16 July 2025
 
 Latest update:
-:   Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region (‘Safety and security’ page).
+:   FCDO now advises against all but essential travel to within 20km of the Tunisia-Algerian border in El Kef and Jendouba Governorates, south of the town of Jendouba. FCDO no longer advises against travel to the archaeological site of Chemtou.
 
-![](https://assets.publishing.service.gov.uk/media/6164113fd3bf7f55f94794e9/FCDO__TA__042_-_Tunisia_Travel_Advice_Ed2__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/687773e67ea20916863637c6/FCDO__TA__042_-_Tunisia_Travel_Advice_Ed3__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/6164113fe90e07197d8fb73a/FCDO__TA__042_-_Tunisia_Travel_Advice_Ed2.pdf)
+[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/687773e77ea20916863637c7/FCDO__TA__042_-_Tunisia_Travel_Advice_Ed3.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -24,6 +24,7 @@ FCDO advises against all travel to:
 
 * the Chaambi Mountains National Park
 * the designated military operations zones:
+
   + Mount Salloum
   + Mount Sammamma
   + Mount Mghila
@@ -33,7 +34,7 @@ This is due to cross-border terrorist activity and operations by the Tunisian se
 In addition, FCDO advises against all but essential travel to:
 
 * areas north and west of the town of Ghardimaou in Jendouba Governorate, including El Feidja National Park
-* within 30km of the Tunisia-Algeria border in El Kef and Jendouba governorates, south of the town of Jendouba, including the archaeological site of Chemtou
+* within 20km of the Tunisia-Algeria border in El Kef and Jendouba governorates, south of the town of Jendouba
 * Kasserine Governorate, including the town of Sbeitla
 * within 10km of the rest of the Tunisia-Algeria border south of Kasserine Governorate
 * within 10km of Mount Mghila
@@ -49,7 +50,7 @@ FCDO advises against all travel to:
 
 This is due to cross-border terrorist activity and fighting in Libya.
 
-In addition, FCDO advises against all but essential travel to within 75km of the Tunisia-Libya border, including Remada, El Borma and the town of Zarzis
+In addition, FCDO advises against all but essential travel to within 75km of the Tunisia-Libya border, including Remada and El Borma.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/tunisia/regional-risks).
 

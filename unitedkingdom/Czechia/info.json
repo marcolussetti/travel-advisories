@@ -1,0 +1,32 @@
+{
+    "name": "Czechia",
+    "update_reason": "This page has been checked for style and accuracy, with minor edits throughout and the addition of new information on the risks from extreme weather and natural disasters (\u2018Safety and security\u2019 page).",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Czechia/Warnings and insurance.md",
+            "update_date": "2025-07-16T16:37:15+01:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/czechia/entry-requirements",
+            "file": "unitedkingdom/Czechia/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/czechia/safety-and-security",
+            "file": "unitedkingdom/Czechia/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/czechia/health",
+            "file": "unitedkingdom/Czechia/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/czechia/getting-help",
+            "file": "unitedkingdom/Czechia/Getting help.md"
+        }
+    ],
+    "update_date": "2025-07-16T16:37:15+01:00"
+}

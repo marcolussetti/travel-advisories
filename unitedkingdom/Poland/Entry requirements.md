@@ -87,10 +87,6 @@ From 7 July 2025, Polish border guards will implement controls at the German an
 
 There are temporary border controls in place to travel into Germany. Check the [entry requirements for Germany](https://www.gov.uk/foreign-travel-advice/germany/entry-requirements).
 
-## Vaccine requirements
-
-For details about medical entry requirements and recommended vaccinations, see [TravelHealthPro’s Poland guide](https://travelhealthpro.org.uk/country/180/poland#Vaccine_Recommendations).
-
 ## Customs rules
 
 There are strict rules about goods you can take into and out of Poland. You must declare anything that may be prohibited or subject to tax or duty.

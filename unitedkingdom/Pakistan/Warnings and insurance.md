@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   23 May 2025
+:   17 July 2025
 
 Updated:
-:   22 May 2025
+:   16 July 2025
 
 Latest update:
-:   Addition of information that on 10 May, the Government of Pakistan stated that India and Pakistan have agreed to stop military action ('Warnings and insurance' page).
+:   Removal of information about the UK Air Safety List, as Pakistani air carriers are no longer on the UK Air Safety List. Addition of information about risks related to terrorism ('Safety and security' page).
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -64,7 +64,7 @@ Find out more about [why FCDO advises against travel to these regions](/foreign-
 
 ## India-Pakistan tensions
 
-On 10 May, the Government of Pakistan stated that India and Pakistan have agreed to stop military action. FCDO continues to follow the situation closely. Follow the advice of local authorities.
+Following military exchanges which began on 7 May, the Government of Pakistan stated on 10 May that India and Pakistan have agreed to stop military action.  FCDO continues to follow the situation closely. Follow the advice of local authorities.
 
 ## Before you travel
 
@@ -75,6 +75,7 @@ No travel can be guaranteed safe. Read all the advice in this guide. You may als
 * see [general advice for LGBT+ travellers](https://www.gov.uk/guidance/lesbian-gay-bisexual-and-transgender-foreign-travel-advice)
 * read about [safety for solo and independent travel](https://www.gov.uk/guidance/solo-and-independent-travel)
 * see [advice on volunteering and adventure travel abroad](https://www.gov.uk/guidance/safer-adventure-travel-and-volunteering-overseas)
+* read the FCDO’s advice on [if you’re affected by a crisis abroad](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas)
 
 ### Travel insurance
 

@@ -1,11 +1,11 @@
 {
     "name": "Slovakia",
-    "update_reason": "New information on extended stays in Slovakia ('Entry requirements' page).",
+    "update_reason": "This page has been checked for style and accuracy, with minor edits throughout and the addition of new information on the risks from extreme weather and natural disasters (\u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Slovakia/Warnings and insurance.md",
-            "update_date": "2025-07-01T15:46:05+01:00"
+            "update_date": "2025-07-16T16:31:11+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Slovakia/Getting help.md"
         }
     ],
-    "update_date": "2025-07-01T15:46:05+01:00"
+    "update_date": "2025-07-16T16:31:11+01:00"
 }

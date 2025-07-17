@@ -24,6 +24,7 @@ See [what health risks you’ll face in Japan](https://travelhealthpro.org.uk/co
 
 * dengue
 * biting insects and ticks
+* pertussis (‘whooping cough’)
 
 Altitude sickness is a risk in parts of Japan. Read more about [altitude sickness on TravelHealthPro](https://travelhealthpro.org.uk/disease/12/altitude-illness).
 

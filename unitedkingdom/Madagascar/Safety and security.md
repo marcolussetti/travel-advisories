@@ -10,7 +10,7 @@ UK Counter Terrorism Policing has information and advice on [staying safe abroad
 
 ### Terrorism in Madagascar
 
-Terrorist attacks in Madagascar cannot be ruled out.
+Although there’s no recent history of terrorism in Madagascar, attacks cannot be ruled out.
 
 Terrorist attacks could be indiscriminate, including in places frequented by foreign nationals.
 

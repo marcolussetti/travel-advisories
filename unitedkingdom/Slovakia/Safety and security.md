@@ -110,6 +110,12 @@ If you use Slovak motorways (‘Dialnica’), you must display a motorway vignet
 
 Only use officially licensed taxis. Drivers must display their licence. Take sensible precautions, particularly at night or if you are alone. Do not get into a taxi if you are concerned about the driver or condition of the vehicle. Taxi drivers sometimes try to overcharge tourists by adding unauthorised supplements or by not setting the meter at the start of a journey. Make sure the taxi meter is on or agree a set price for the journey beforehand. See information on [local taxi use](https://www.visitbratislava.com/informations/transport/).
 
+## Extreme weather and natural disasters
+
+Find out what you can do to [prepare for and respond to extreme weather and natural hazards](https://www.gov.uk/guidance/extreme-weather-and-natural-hazards).
+
+You can access [local forecasts and weather warnings](https://www.shmu.sk/sk/?page=987) for Slovakia. Follow the instructions of local authorities.
+
 [Previous
 :
 Entry requirements](/foreign-travel-advice/slovakia/entry-requirements)

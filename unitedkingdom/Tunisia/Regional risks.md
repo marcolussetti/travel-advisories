@@ -17,7 +17,7 @@ FCDO advises against all travel to:
 In addition, FCDO advises against all but essential travel to:
 
 * areas north and west of the town of Ghardimaou in Jendouba Governorate, including El Feidja National Park
-* within 30km of the Tunisia-Algeria border in El Kef and Jendouba governorates, south of the town of Jendouba, including the archaeological site of Chemtou
+* within 20km of the Tunisia-Algeria border in El Kef and Jendouba governorates, south of the town of Jendouba, including the archaeological site of Chemtou
 * Kasserine Governorate, including the town of Sbeitla
 * within 10km of the rest of the Tunisia-Algeria border south of Kasserine Governorate
 * within 10km of Mount Mghila
@@ -33,7 +33,7 @@ FCDO advises against all travel to:
 * within 20km of the rest of the Tunisia-Libya border area north of Dhehiba
 * the town of Ben Guerdane and immediate surrounding area
 
-In addition, FCDO advises against all but essential travel to within 75km of the Tunisia-Libya border, including Remada, El Borma and the town of Zarzis.
+In addition, FCDO advises against all but essential travel to within 75km of the Tunisia-Libya border, including Remada and El Borma.
 
 There is a heightened Tunisian security presence at the border with Libya due to cross-border terrorist activity and fighting in Libya. Border crossings are sometimes closed temporarily without notice. Some violent incidents have occurred. See [Libya travel advice](https://www.gov.uk/foreign-travel-advice/libya).
 

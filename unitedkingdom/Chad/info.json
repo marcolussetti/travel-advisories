@@ -1,11 +1,11 @@
 {
     "name": "Chad",
-    "update_reason": "Information about celebratory gunfire in Chad ('Safety and security' page).",
+    "update_reason": "Updated information about limited UK government support available (\u2018Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Chad/Warnings and insurance.md",
-            "update_date": "2024-05-15T15:09:48+01:00"
+            "update_date": "2025-07-16T14:12:52+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Chad/Getting help.md"
         }
     ],
-    "update_date": "2024-05-15T15:09:48+01:00"
+    "update_date": "2025-07-16T14:12:52+01:00"
 }

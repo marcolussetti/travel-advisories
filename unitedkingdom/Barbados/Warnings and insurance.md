@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   15 May 2025
+:   17 July 2025
 
 Updated:
-:   14 May 2025
+:   16 July 2025
 
 Latest update:
-:   Updated information about swimming safety (‘Safety and security’ page).
+:   The crime section has been updated to reference the risk of carjacking (‘Safety and security’ page).
 
 ## Hurricane season
 
