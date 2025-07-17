@@ -2,7 +2,9 @@
 
 Latest update
 
-We continue to advise do not travel to Syria due to the dangerous security situation and the threat of armed conflict, air strikes, terrorism, arbitrary detention and kidnapping. The security situation remains volatile. Armed clashes are ongoing in parts of Syria and have resulted in many civilian casualties. If you’re in Syria despite our advice, shelter in place and leave when it's safe to do so. Airports and airlines may suspend operations without notice (see 'Safety').   
+We continue to advise do not travel to Syria due to the dangerous security situation and the threat of armed conflict, air strikes, terrorism, arbitrary detention and kidnapping.   
+  
+The security situation remains volatile. Armed clashes are ongoing in parts of Syria and have resulted in many civilian casualties. Israeli air strikes may continue to occur throughout the country, including in Damascus. If you’re in Syria despite our advice, shelter in place and leave when it's safe to do so. Airports and airlines may suspend operations without notice (see 'Safety').  
   
 The security situation in the Middle East is unpredictable. If the regional security situation deteriorates again this may result in airspace closures, flight cancellations and other travel disruptions at short notice. Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests. Monitor local media for updates and follow the advice of authorities.  
   
@@ -28,6 +30,7 @@ See [Safety](#safety).
 
 ### Safety
 
+* Armed clashes are ongoing in parts of Syria and have resulted in many civilian casualties. Israeli air strikes may continue to occur throughout the country, including in Damascus.
 * The security situation in the Middle East is unpredictable and could deteriorate further with little warning. If the regional security situation deteriorates again this may result in airspace closures, flight cancellations and other travel disruptions at short notice. There is a risk of reprisal attacks and further escalation across the region, as well as the potential for terrorist attacks.
 * Australians should read our general advice about [terrorism risks](/node/342) and  protecting your safety during an [armed conflict](/node/622).
 * Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests. Monitor local media for updates and follow the advice of authorities.

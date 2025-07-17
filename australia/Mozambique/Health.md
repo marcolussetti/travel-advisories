@@ -74,7 +74,7 @@ Other waterborne, foodborne and [infectious disease](/before-you-go/health/dise
 * [rabies](https://www.who.int/news-room/fact-sheets/detail/rabies)
 * [measles](https://www.healthdirect.gov.au/measles)
 * [dengue](https://www.health.gov.au/diseases/dengue-virus-infection)
-* [COVID-19](https://www.health.gov.au/topics/covid-19/about)
+* [mpox](https://www.cdc.gov.au/topics/mpox)
 
 Serious outbreaks sometimes occur.
 

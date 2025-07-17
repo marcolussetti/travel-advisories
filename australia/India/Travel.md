@@ -188,6 +188,8 @@ Counterfeit currency is in circulation. Take care when dealing with cash.
 
 #### Local travel
 
+All land border crossing points between India and Pakistan are closed.
+
 #### Travel delays
 
 Travel delays are common.

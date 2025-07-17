@@ -2,7 +2,7 @@
 
 #### Armed conflict and terrorism
 
-Armed clashes are ongoing in parts of Syria and have resulted in many civilian casualties. Additional road closures and checkpoints may be established. Shelter in place and leave when it’s safe to do so.  
+Armed clashes are ongoing in parts of Syria and have resulted in many civilian casualties. Additional road closures and checkpoints may be established. Shelter in place and leave when it’s safe to do so.
 
 The security situation in Syria is dangerous due to:
 
@@ -15,6 +15,10 @@ The security situation in Syria is dangerous due to:
 Land border crossings may be closed without notice. Additional road closures and checkpoints may be established. Airports and airlines may suspend operations without notice.
 
 Chemical weapons have been used during the conflict in Syria. These weapons could be used again.
+
+Australians should read our general advice about [terrorism risks](/before-you-go/safety/terrorism "Terrorism") and protecting your safety during an [armed conflict](/before-you-go/staying-safe/armed-conflict "Armed conflict").
+
+We continue to advise do not travel to Syria due to the extremely dangerous security situation and the threat of armed conflict, air strikes, terrorism, arbitrary detention and kidnapping. We have advised do not travel to Syria since 2011.
 
 If you're in Syria despite this advice, prepare to leave as soon as possible.
 
@@ -41,7 +45,8 @@ Terrorism is a threat worldwide.
 
 **More information:**
 
-* [Terrorism](https://www.smartraveller.gov.au/before-you-go/safety/terrorism)
+* [Terrorism](/before-you-go/safety/terrorism "Terrorism")
+* [Armed conflict](/before-you-go/staying-safe/armed-conflict "Armed conflict")
 
 #### Kidnapping
 

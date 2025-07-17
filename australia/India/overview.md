@@ -2,11 +2,7 @@
 
 Latest update
 
-Following recent hostilities in Jammu and Kashmir and border areas with Pakistan a ceasefire has come into effect. We recommend you monitor local media, take official warnings seriously and follow the advice of local authorities.  
-  
-Airports across northern and western India have reopened for flight operations. Check flight times with your airline well in advance of your flight and allow extra time for heightened security checks in place.  
-  
-We continue to advise do not travel to the Union Territory of Jammu and Kashmir, the entire India-Pakistan border area, and Manipur. This doesn’t apply to the Union Territory of Ladakh. India has closed the Attari border crossing with Pakistan.
+We continue to advise exercise a high degree of caution in India overall. We also continue to advise do not travel to the Union Territory of Jammu and Kashmir, the India-Pakistan border, or Manipur. All land border crossing points between India and Pakistan are closed.
 
 Advice Level summary
 
@@ -89,6 +85,7 @@ Full travel advice: [Local laws](#local-laws)
 
 * You must apply for a visa before arrival. Check your eligibility and apply online for an e-visa by visiting the Government of India's [Indian Visa Online](https://indianvisaonline.gov.in/evisa/tvoa.html) website. For information on other visa types and immigration requirements, see the [eFRRO](https://indianfrro.gov.in/eservices/home.jsp) and [Bureau of Indian Immigration](https://boi.gov.in/) websites or contact the nearest high commission/embassy or consulate of India for the latest details.
 * You may need permission from Indian authorities to visit 'restricted' or 'protected' areas, particularly in the north-east.
+* All land border crossing points between India and Pakistan are closed.
 * Travelling by road in India can be dangerous, particularly at night. Accidents are common.
 * If you have had a baby in India, you must inform the Foreigners Registration Office (FRRO) and secure the appropriate travel document and Indian visa to remain legally in the country or to travel. Failure to comply could result in significant financial penalties by the FRRO.
 
