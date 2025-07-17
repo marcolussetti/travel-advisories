@@ -18,40 +18,21 @@ You should:
 
 ### Security situation
 
-The security situation remains volatile following the collapse of the former regime in December 2024. Localized clashes between opposing armed groups and airstrikes continue to occur in several governorates across Syria.
+In December 2024, opposition forces took control of Syria’s capital, Damascus, toppled the former regime and formed a transitional government.
 
-Damascus airport is operational and Aleppo airport has resumed limited commercial operations, but several airlines are still suspending flights to and from Syria. Confirm the status of your flight with your airline before going to the airport.
+Despite ongoing efforts by the transitional government to dismantle armed factions and strengthen security, violent clashes continue to occur between minority communities, groups loyal to the former regime and security forces from the interim government, resulting in casualties, both civilian and combatant. The situation remains volatile and unpredictable. The risk of kidnapping, including of foreign nationals, has been increasing throughout Syria.
 
-Land border crossings may close with little notice. Verify their status before you travel.
+Israeli air strikes continue to occur throughout the country, including in Damascus. The strikes have targeted military installations, transitional government's buildings and security forces positions.
 
-The Canadian Government does not have an office in Syria. If you or your family require assistance, contact Global Affairs Canada's 24/7 [Emergency Watch and Response Centre](https://travel.gc.ca/assistance/emergency-assistance).
+Damascus airport is operational and Aleppo airport has resumed limited commercial operations. However, several airlines have not resumed operations to and from Syria. Land border crossings and airspace may close without notice.  The Government of Canada has urged Canadians to leave Syria since November 2011.
 
-You should also:
+If you choose to travel to Syria or remain in the country despite this advisory:
 
 * register or update your contact information through the Registration of Canadians Abroad service
+* ensure that your travel documents are up to date
 * identify safe means to leave the country
 * exercise extreme caution at all times
 * always be aware of your surroundings
-
-**Useful links**
-
-* [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration)
-* [More information on security situation](https://travel.gc.ca/destinations/syria#security_situation)
-
-On December 8, 2024, opposition forces took control of Syria’s capital, Damascus, toppling the former regime.
-
-The change in power has exacerbated longstanding sectarian tensions. In March 2025, violent armed clashes erupted between groups loyal to the former regime and security forces from the interim government, leading to several casualties, both civilian and combatants. The situation remains volatile.
-
-The interim government is working to dismantle regional armed factions. Efforts remain ongoing to fully implement an agreement to integrate the Syrian Democratic Forces (SDF), mostly present in northeastern Syria, into Syria’s military institutions by the end of 2025.
-
-Israeli air strikes on military targets continue to occur, especially in western governorates.
-
-The Government of Canada has urged Canadians to leave Syria since November 2011.
-
-If you choose to travel to Syria, or remain in the country, despite this advisory:
-
-* keep in mind that you are responsible for your own safety and that of your family
-* ensure that your travel documents are up to date
 
 ### Terrorism
 

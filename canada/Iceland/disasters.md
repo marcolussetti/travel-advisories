@@ -4,7 +4,7 @@
 
 ### Reykjanes Peninsula
 
-On April 1, 2025, a new volcanic eruption began on the Reykjanes Peninsula in Southwest Iceland, near the town of Grindavík and the Blue Lagoon. Further eruptions could happen at any time and without warning.
+On July 16, 2025, a new volcanic eruption began on the Reykjanes Peninsula in Southwest Iceland, near the town of Grindavík and the Blue Lagoon. Further eruptions could happen at any time and without warning.
 
 The Icelandic authorities have closed roads near the eruption site and declared a state of emergency in the area around:
 
@@ -13,8 +13,6 @@ The Icelandic authorities have closed roads near the eruption site and declared 
 * Svartsengi powerplant
 
 Keflavik International Airport has not been affected by the eruptions. Flights to and from the airport continue to run on schedule.
-
-#### 
 
 #### Useful links
 

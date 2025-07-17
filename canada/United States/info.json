@@ -1,7 +1,7 @@
 {
     "name": "United States",
-    "update_reason": "The Need help? section was updated.",
-    "update_date": "2025-07-09T12:45:00",
+    "update_reason": "Natural disasters and climate \u2013 removed information on the tsunami warning for South Alaska and the Alaskan Peninsula",
+    "update_date": "2025-07-16T19:04:00",
     "sections": {
         "risk": "canada/United States/risk.md",
         "security": "canada/United States/security.md",
