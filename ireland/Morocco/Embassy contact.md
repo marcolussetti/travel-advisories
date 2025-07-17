@@ -2,7 +2,7 @@
 
 Please note that if emergency assistance is required while the Embassy is closed, contact the duty number, +212666 933 599.
 
-Alternatively, you can call the Duty Officer at the Department of Foreign Affairs at 00353 1 408 2000.
+Alternatively, you can call the Duty Officer at the Department of Foreign Affairs and Trade at 00353 1 408 2000.
 
 ### Embassy of Ireland, Morocco
 

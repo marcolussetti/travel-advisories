@@ -3,29 +3,29 @@
     "risk_level": "Avoid Non-Essential Travel",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Mauritania/Overview.md"
+            "title": "Travel to Mauritania overview",
+            "file": "ireland/Mauritania/Travel to Mauritania overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Mauritania/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Mauritania/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Mauritania/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Mauritania/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/Mauritania/Local laws and customs.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/Mauritania/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Mauritania/Embassy contact.md"
         }
     ],
-    "update_date": "2025-03-26T00:00:00"
+    "update_date": "2025-07-16T00:00:00"
 }

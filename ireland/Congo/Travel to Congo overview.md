@@ -8,9 +8,7 @@ High Degree of Caution
 
 Irish citizens are advised to exercise a high degree of caution in respect of their personal safety while in the Republic of Congo (also known as Congo-Brazzaville). Irish citizens are also advised to follow developments in the region in respect of m-pox and to consult advice available such as on the [**HSE website**](https://www2.hse.ie/conditions/mpox/).
 
-The Department of Foreign Affairs advises against all travel to the area within 50km of the border with Central African Republic.
-
-The Department of Foreign Affairs advises against non-essential travel to the Pool (except Brazzaville) and eastern Bouenza regions.
+The Department of Foreign Affairs and Trade advises against all travel to the area within 50km of the border with Central African Republic.
 
 Citizens in the country are advised to be vigilant, keep up to date with local developments, and avoid any demonstrations and large gatherings. Irish citizens in Congo-Brazzaville or intending to travel to the country should ensure that they have [**registered**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/) with the Department of Foreign Affairs and Trade.
 

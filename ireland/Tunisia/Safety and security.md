@@ -9,7 +9,7 @@ We advise Irish citizens in Tunisia to exercise a high degree of caution and a s
 
 As crowded areas, transport hubs, and places frequented by foreigners could be targeted by terrorists, we advise particular vigilance in these areas.
 
-### **Border areas**
+### **Border Areas**
 
 Tunisia's borders with Libya and Algeria are open, but the security situation is very tense. Unrest in Libya continues to have a serious impact on the security of southern Tunisia, with a significant increase in cross-border trafficking and the availability of weapons, and occasional violent clashes between armed groups and the Tunisian security forces. Border crossing points can be temporarily closed without notice.
 
@@ -22,7 +22,7 @@ Do not travel to:
 
 There is a risk of kidnap from terrorists operating in the south of Tunisia, close to the border with Algeria. You must get permission from the Tunisian authorities (National Guard) to enter certain desert areas near the border with Algeria. It is recommended that you do not travel to this region, but if you plan to do so, you are strongly advised to travel with a reputable tour operator or a licensed local guide.
 
-### **State of emergency**
+### **State of Emergency**
 
 Following an explosion in central Tunis on 24th November 2015, a state-of-emergency was imposed. It has been extended on a number of occasions and remains in place.
 
@@ -46,7 +46,7 @@ Incidents involving petty crimes do occur. Be aware that pickpockets operate in 
 
 There is a risk of kidnap from terrorists operating in the south of Tunisia, close to the border with Algeria.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If you’re a victim of a crime while in Tunisia, report it to the local police immediately. And you can contact the Honorary Consulate in Tunis or the Irish Embassy in Morocco if you need help.
 
@@ -58,7 +58,7 @@ If you’re planning to drive in Tunisia, you should be extremely careful as tra
 * Driving under the influence of alcohol or drugs is against the law and you risk being detained, fined or banned from driving if caught
 * Keep your vehicle doors locked and your bags kept out of sight to prevent opportunistic bag-snatching if you’re stopped at traffic lights
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If you’re hiring a vehicle, we advise you not to hand over your passport as a form of security. If you’re allowing your passport to be photocopied, keep it in your sight at all times.
 

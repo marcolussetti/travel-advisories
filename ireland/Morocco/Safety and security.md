@@ -1,6 +1,6 @@
 ## Safety and security
 
-### **Social unrest**
+### **Social Unrest**
 
 Regional developments have the potential to trigger popular unrest in Morocco. Always keep informed of what is going on around you by monitoring local media and staying in contact with your hotel or tour organiser. Avoid demonstrations and public gatherings, which can sometimes turn confrontational.
 
@@ -18,7 +18,7 @@ Most visitors find Morocco relatively trouble free. However, you should take the
 * Avoid dark and unlit streets and stairways, and arrange to be picked up or dropped off as close to your hotel or apartment entrance as possible.
 * Keep a close eye on personal belongings and hold on to them in public places such as internet cafés, train and bus stations.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If a victim of a crime while in Morocco, report it to the local police immediately. Please contact the [**Irish Embassy in Rabat**](https://www.ireland.ie/en/morocco/rabat/) if help is required.
 
@@ -30,7 +30,7 @@ If planning to drive in Morocco, be extremely careful. Morocco has a poor road s
 * Driving under the influence of alcohol or drugs is against the law and you risk being detained, fined or banned from driving if caught
 * Keep vehicle doors locked and bags kept out of sight to prevent opportunistic bag-snatching if stopped at traffic lights
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If hiring a vehicle, we advise not to hand over your passport as a form of security. If allowing your passport to be photocopied, keep it in your sight at all times.
 

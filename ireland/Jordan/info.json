@@ -3,12 +3,16 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Jordan/Overview.md"
+            "title": "Travel to Jordan overview",
+            "file": "ireland/Jordan/Travel to Jordan overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Jordan/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Jordan/Health.md"
         },
         {
             "title": "Local laws and customs",
@@ -19,13 +23,13 @@
             "file": "ireland/Jordan/Natural disasters and climate.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Jordan/Additional information.md"
+            "title": "Entry requirements",
+            "file": "ireland/Jordan/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Jordan/Embassy contact.md"
         }
     ],
-    "update_date": "2025-06-18T00:00:00"
+    "update_date": "2025-07-16T00:00:00"
 }

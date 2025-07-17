@@ -1,6 +1,8 @@
 ## Embassy contact
 
-There is no Irish Embassy or Consulate in Iraq, which limits our capacity to respond. Where emergency consular assistance is required for Irish citizens outside of opening hours, please contact the Embassy of Ireland in Jordan. Alternatively, please contact the Duty Officer at the Department of Foreign Affairs in Dublin at: +353 1 408 2000.
+As Ireland does not have an Embassy or Consulate in Iraq, consular assistance is provided via the [**Embassy of Ireland in Amman, Jordan**](https://www.ireland.ie/en/jordan/amman/).
+
+For out of hours emergencies only, Irish citizens can contact +962 799732370. Alternatively, Irish citizens who require urgent assistance while the Embassy is closed can contact the Duty Officer at the Department of Foreign Affairs and Trade on +353 1 408 2000.
 
 Embassy opening hours: Sunday to Thursday 09:00-13.00
 

@@ -1,5 +1,7 @@
 ## Embassy contact
 
+As there is no Irish Embassy in Tunisia, we are limited in the help we can offer you in an emergency. However, if you need assistance, you can contact the [**Embassy Of Ireland, Morocco**](https://www.ireland.ie/en/morocco/rabat/)
+
 Please note that if you require urgent assistance while the Embassy is closed, you should call the duty officer on +212 666 933 599, and leave a message on the Duty Officer voice mailbox. This mailbox is monitored regularly.
 
 Monday to Friday 09:00-18:00

@@ -1,6 +1,6 @@
 ## Local laws and customs
 
-### **Practical advice**
+### **Practical Advice**
 
 * Read our travel advice, inform yourself before travelling and get advice locally on arrival
 * Remember, the local laws apply to you as a visitor and it is your responsibility to follow them
