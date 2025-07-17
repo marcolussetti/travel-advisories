@@ -1,6 +1,6 @@
 # Rwanda Travel Advisory
 
-### Travel Advisory February 26, 2025
+### Travel Advisory July 16, 2025
 
 ### Rwanda - Level 2: Exercise Increased Caution
 
@@ -14,35 +14,41 @@
 [T](javascript:void(0); "Tool Tip: Terrorism")
 [C](javascript:void(0); "Tool Tip: Crimes")
 
-***Updated to remove Marburg Virus Disease language and health indicator due to end of outbreak, and to increase the Burundi and DRC border areas to Level 4-Do Not Travel.***
+***Updated to remove the Level 4: Do Not Travel area near the border with Burundi and to reflect changes to the Level 4: Do Not Travel areas near the border with the Democratic Republic of the Congo.***
 
-Exercise increased caution in Rwanda due to the potential for **armed violence**. Some areas are Level 4- Do Not Travel due to a significant risk. Read the entire Travel Advisory.
+Exercise increased caution in Rwanda due to the potential for **armed violence**. Some areas have an increased risk. Read the entire Travel Advisory.
 
-**Level 4 Do Not Travel to:**
+**Do Not Travel to:**
 
-* The Rwanda-Burundi border due to armed violence.
-* The Rwanda-Democratic Republic of the Congo (DRC) border due to armed violence.
+* **Rusizi District** within 10 kilometers of the Democratic Republic of the Congo (DRC) border due to **armed violence**.
+* **Rubavu District** within 10 kilometers of the DRC border due to **armed violence**.
 
-Read the [country information page](https://travel.state.gov/content/passports/en/country/rwanda.html) for additional information on travel to Rwanda.
+**Country Summary:** Armed groups, individuals, and military forces routinely clash in nearby countries. The ongoing violence in these areas raises the risk of spillingover into Rwanda.
 
-**Country Summary:** Armed groups, individuals, and military forces routinely clash with each other in neighboring countries. The ongoing violence in these areas increases the likelihood for spill over into Rwanda.
+Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Rwanda.html) for additional information on travel to Rwanda.
 
 If you decide to travel to Rwanda:
 
-* Enroll in the [Smart Traveler Enrollment Program](https://step.state.gov/step/) ([STEP](https://step.state.gov/step/)) to receive Alerts from the U.S. Embassy and make it easier to locate you in an emergency.
-* Follow the Department of State on [Facebook](http://www.facebook.com/travelgov) and X/[Twitter](http://www.twitter.com/travelgov).
-* Review the [Country Security Report](https://www.osac.gov/Content/Report/15058502-b7f8-4a27-bb1c-1c9286d10fc6)for Rwanda.
-* Prepare a contingency plan for emergency situations. Review the [Traveler’s Checklist](https://travel.state.gov/content/passports/en/go/checklist.html).
-* Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) related to your travel and return to the United States.
+* Enroll in the [Smart Traveler Enrollment Program](https://step.state.gov/step/) ([STEP](https://step.state.gov/step/)) to receive messages and Alerts from the U.S. Embassy and make it easier to locate you in an emergency.
+* Review the [Country Security Report](https://www.osac.gov/Country/Rwanda/Detail)for Rwanda.
+* Prepare a plan for emergency situations. Review the [Traveler’s Checklist](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-checklist.html#_blank).
+* Visit the CDC page for the [latest Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) related to your travel and return to the United States.
 * We highly recommend that you buy insurance before you travel. Check with your [travel insurance provider](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) about evacuation assistance, medical insurance, and trip cancellation coverage.
 
-**Rwanda-**[**Burundi**](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Burundi.html)**Border — Level 4: Do Not Travel**  
-The Nyungwe Forest National Park in Rwanda borders Burundi. Borders may not be clearly marked. A permit from the Rwanda Development Board is required for entry to Nyungwe Forest National Park. Relations between Burundi and Rwanda remain tense, with reported incidents of cross-border incursions and armed violence.
+**Rusizi District within 10 kilometers of the DRC border – Level 4: Do Not Travel**
 
-**Rwanda-**[**Democratic Republic of the Congo (DRC)**](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/DemocraticRepublicoftheCongoDRC.html)**Border – Level 4: Do Not Travel**  
-Armed groups operate in the DRC’s North and South Kivu provinces and Virunga Park, which is next to Rwanda’s Volcanoes National Park. The area has seen rising armed conflict that could spill across poorly marked borders. A permit from the Rwanda Development Board is required for entry to Volcanoes National Park in Rwanda.  
-  
-**Visit our website for** [**Travel to High-Risk Areas**](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/high-risk-travelers.html)**.**
+* Lake Kivu borders the DRC. Borders may not be clearly marked. A permit from the Rwanda Development Board is required for entry to Nyungwe Forest National Park.
+* Due to the risks, U.S. government employees working in Rwanda must obtain special authorization to travel to Rusizi District.
+
+Visit our website for [Travel to High-Risk Areas](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/high-risk-travelers.html).
+
+**Rubavu District within 10 kilometers of the DRC border – Level 4: Do Not Travel**
+
+* Armed groups operate in the DRC’s North and South Kivu provinces and Virunga Park. This is next to Rwanda’s Volcanoes National Park. The area has faced increasing armed conflict, which might spread across a poorly marked border.
+* To enter the Volcanoes National Park in Rwanda, you need a permit from the Rwanda Development Board.
+* Due to the risks, U.S. government employees working in Rwanda must obtain special authorization to travel to Rubavu District.
+
+Visit our website for [Travel to High-Risk Areas](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/high-risk-travelers.html).
 
 ### Travel Advisory Levels
 
