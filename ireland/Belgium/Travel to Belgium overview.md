@@ -16,6 +16,14 @@ Visitors to Belgium are advised to follow the guidance of national and local aut
 
 Citizens can also follow the Irish Embassy in Brussels on X [**@IrishEmbBelgium**](https://twitter.com/IrishEmbBelgium) to ensure access to relevant updates and alerts.
 
+### **Temporary Internal Border Controls**
+
+Authorities have announced the implementation of enhanced immigration checks within Belgium and at border crossing until December 2025. Checks may occur on motorways, motorway car parks, international bus traffic, international trains and intra-Schengen flights.
+
+Travellers may also be subject to controls at Schengen borders neighbouring Belgium following the introduction of checks by authorities in France, Germany and The Netherlands.
+
+Travellers should be aware of potential delays and additional documentation requirements during this period.
+
 ### **Emergency Assistance**
 
 The best help is often close at hand so if problems arise, try talking to local contacts, tour operator representatives or hotel management.

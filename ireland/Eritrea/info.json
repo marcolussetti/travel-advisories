@@ -3,29 +3,33 @@
     "risk_level": "Avoid Non-Essential Travel",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Eritrea/Overview.md"
+            "title": "Eritrea Overview",
+            "file": "ireland/Eritrea/Eritrea Overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Eritrea/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Eritrea/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Eritrea/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Eritrea/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/Eritrea/Local laws and customs.md"
+        },
+        {
+            "title": "Climate and natural disasters",
+            "file": "ireland/Eritrea/Climate and natural disasters.md"
+        },
+        {
+            "title": "Entry Requirements",
+            "file": "ireland/Eritrea/Entry Requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Eritrea/Embassy contact.md"
         }
     ],
-    "update_date": "2023-11-20T00:00:00"
+    "update_date": "2025-07-17T00:00:00"
 }

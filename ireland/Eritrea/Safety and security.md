@@ -4,7 +4,7 @@
 
 The UN Human Rights Council has expressed concerns in relation to human rights abuses in Eritrea.
 
-### **Border regions**
+### **Border Regions**
 
 We advise caution when travelling Eritrea border areas where the risk to safety is high. Avoid all travel within 25 km of Eritrea’s land borders.
 
@@ -28,7 +28,7 @@ Street crime is rare but does occur in cities and towns, including Asmara so you
 
 Banditry is known to take place in border areas, and on some rural roads. Driving on main roads outside of border areas is generally safe but driving on non-metalled roads, off-road driving, walking and hiking in rural areas can be dangerous and we advise against doing so near border areas.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If you are a victim of a crime whilst in Eritrea, report it to the local police immediately. Irish citizens can also contact the [**Irish Embassy in Kenya**](/en/kenya/nairobi/), for assistance.
 
@@ -42,7 +42,7 @@ If you want to drive:
 * Driving under the influence of alcohol or drugs is against the law and there is a risk being detained, fined or banned from driving if caught
 * Keep vehicle doors locked and  bags kept out of sight to prevent opportunistic bag-snatching if stopped at traffic lights
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If hiring a vehicle, travellers are advised not to hand over passports as a form of security. If allowing your passport to be photocopied, keep it in sight at all times.
 
