@@ -2,26 +2,6 @@
 
 ## Safety and security
 
-### State of emergency in the provinces of Lima and Callao
-
-The Peruvian government extended a state of emergency in Callao province and the following districts in the province of Lima until July 16, 2025:
-
-* Ate
-* Carabayllo
-* Comas
-* Puente Piedra
-* San Juan de Lurigancho
-* San Martín de Porres
-* Villa María del Triunfo
-* Villa el Salvador
-
-During the state of emergency:
-
-* you should always carry valid ID as security forces may ask to see it
-* you cannot have a passenger on a motorcycle
-
-More information on [state of emergency](#Emergencies)
-
 ### Demonstrations and strikes
 
 Demonstrations and strikes take place regularly throughout the country. Strikes can complicate travel and disrupt public transport and services, including your ability to travel to or leave isolated tourist destinations such as Machu Picchu. They could also lead to border closures with Bolivia. Protestors may also block rivers essential for transportation in some remote regions, including the Manu region of Madre de Dios and Iquitos region. This may result in the temporary detainment of tourists.
