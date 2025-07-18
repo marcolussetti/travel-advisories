@@ -69,9 +69,7 @@ You will probably need cash in Uganda. However, some larger stores, restaurants 
 
 #### Local restrictions
 
-For the latest information on the Ebola outbreak, follow the advice issued by the [Government of Uganda](https://www.health.go.ug/ebola/) and monitor the local media.
-
-When in public, anyone aged 6 or above must wear masks and maintain social distancing.
+For the latest information on Ebola outbreaks, follow the advice issued by the [Government of Uganda](https://health.go.ug/) and monitor the local media.
 
 #### Driving permit
 

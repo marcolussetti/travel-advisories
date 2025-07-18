@@ -2,9 +2,9 @@
 
 Latest update
 
-We continue to advise exercise a high degree of caution in Uganda overall. Higher levels apply to the border areas with South Sudan and the Democratic Republic of Congo. Terrorism remains a threat in Uganda. Targets may include large gatherings, worship, music and cultural festivals, hotels, bars and other tourist areas (see 'Safety'). There's currently an outbreak of mpox in parts of Africa, including in Uganda (see 'Health'). If you plan to take part in surrogacy arrangements in Uganda, be aware of all legal and other risks involved (see 'Local laws').  
+We continue to advise exercise a high degree of caution in Uganda overall. Higher levels apply to the border areas with South Sudan and the Democratic Republic of Congo. Terrorism remains a threat in Uganda (see 'Safety'). There's currently an outbreak of Mpox in parts of Africa, including in Uganda (see 'Health'). If you plan to take part in surrogacy arrangements in Uganda, be aware of all legal and other risks involved (see 'Local laws').  
   
-The Australian Consulate in Kampala closed on 30 June. Consular services are available from the Australian High Commission in Nairobi.
+The Australian Consulate in Kampala has moved and has new contact details (see 'Local contacts'). The Consulate can provide limited consular assistance. Full consular assistance is available from the Australian High Commission in Kenya.
 
 Advice Level summary
 
@@ -50,11 +50,11 @@ Full travel advice: [Safety](#safety)
 
 ### Health
 
-* There's currently an outbreak of mpox in parts of Africa. Maintain strict hygiene standards and avoid physical contact with anyone who has mpox.
+* There's currently an outbreak of Mpox in parts of Africa. Maintain strict hygiene standards and avoid physical contact with anyone who has Mpox.
 * Many medications are in short supply or not available in Uganda. Take enough legal medicine for your trip.
 * Yellow fever and malaria are common. Other insect-borne diseases can occur. Make sure your accommodation is insect proof. Use insect repellent.
 * HIV/AIDS is a risk. Take steps to reduce your risk of exposure to the virus.
-* Foodborne, waterborne and other infectious diseases in Uganda include cholera, typhoid, hepatitis and mpox. Drink only boiled or bottled water. Avoid raw or undercooked food. Avoid physical contact with anyone who has mpox.
+* Foodborne, waterborne and other infectious diseases in Uganda include cholera, typhoid, hepatitis and Mpox. Drink only boiled or bottled water. Avoid raw or undercooked food. Avoid physical contact with anyone who has Mpox.
 * Medical facilities are very limited outside Kampala. If you become seriously ill or injured, you may need to be evacuated to another country. Make sure your travel insurance covers this.
 
 Full travel advice: [Health](#health)
@@ -80,7 +80,7 @@ Full travel advice: [Travel](#travel)
 ### Local contacts
 
 * The [Consular Services Charter](/consular-services/consular-services-charter "Consular Services Charter") details what the Australian Government can and can't do to help you overseas.
-* The Australian Consulate in Kampala closed on 30 June 2025. Consular services are available from the Australian High Commission in Nairobi.
+* The Australian Consulate in Kampala can provide limited consular assistance.
 * You can get full consular assistance from the [Australian High Commission in Kenya](http://kenya.highcommission.gov.au/nair/home.html).
 * To stay up to date with local information, follow the High Commission’s social media accounts.
 

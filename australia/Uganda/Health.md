@@ -56,7 +56,7 @@ Carry a copy of your prescription and a dated letter from your doctor stating:
 
 #### Mpox
 
-The World Health Organisation (WHO) has declared the current mpox outbreak in parts of Africa as a global public health emergency. It has now spread across a number of countries in Africa, including Uganda.
+The World Health Organisation (WHO) has declared the current Mpox outbreak in parts of Africa as a global public health emergency. It has now spread across a number of countries in Africa, including Uganda.
 
 Mpox can be transmitted to humans through physical contact with an infectious person, infected animals or contaminated materials.
 
@@ -71,11 +71,11 @@ Symptoms include:
 * low energy
 * swollen lymph nodes
 
-Seek professional medical advice on mpox vaccines.
+Seek professional medical advice on Mpox vaccines.
 
-Maintain strict hygiene standards. Avoid physical contact with anyone who has mpox.
+Maintain strict hygiene standards. Avoid physical contact with anyone who has Mpox.
 
-See a doctor if you feel unwell and isolate from others if you develop any mpox symptoms.
+See a doctor if you feel unwell and isolate from others if you develop any Mpox symptoms.
 
 **More information:**
 
@@ -165,7 +165,6 @@ To protect yourself from illness:
 * avoid ice cubes
 * don't eat raw or undercooked food, such as salads
 * don't swim in fresh water
-* avoid physical contact with anyone who has mpox
 
 Check with your doctor about typhoid vaccinations.
 
