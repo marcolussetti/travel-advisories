@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   27 June 2025
+:   18 July 2025
 
 Updated:
-:   26 June 2025
+:   17 July 2025
 
 Latest update:
-:   New information for LGBT+ travellers and Budapest Pride 2025 (See ‘LGBT+ travellers’ on the ‘Safety and security’ page).
+:   New information for LGBT+ travellers and new information on the risks from extreme weather and natural disasters (‘Safety and security’ page).
 
 ## Before you travel
 

@@ -61,7 +61,7 @@ Airports in Hungary have excellent technology and security for detecting illegal
 
 Same-sex sexual activity is legal in Hungary. Budapest is generally tolerant and open. Outside of Budapest, showing affection in public may receive unwanted attention. Read more [advice for LGBT+ travellers](https://www.gov.uk/guidance/lesbian-gay-bisexual-and-transgender-foreign-travel-advice).
 
-On 19 March, Hungary passed legislation allowing the banning of rallies and marches that depict or promote LGBT+ identities to minors. On 24 June, Hungary’s Minister of Justice announced that Budapest Pride, due to be held on 28 June, is an illegal event. Under Hungarian law, participants in banned events could be identified by facial recognition technology and face fines of up to 200,000 Hungarian Forints. With policing arrangements for an illegal Pride march unclear and counter demonstrations planned there is a heightened risk to participants’ safety.
+Hungary has passed legislation allowing the banning of rallies and marches that depict or promote LGBT+ identities to minors. Participants could be identified by facial recognition technology and face fines of up to 200,000 Hungarian Forints. The Hungarian government classified Budapest Pride 2025 as illegal under this legislation.
 
 ## Outdoor activities and adventure tourism
 
@@ -108,6 +108,12 @@ If you are planning to transit through Hungary with consignments of humanitarian
 ### Rail travel
 
 Take care when travelling by train and keep your belongings in sight. Take extra care on night trains. Never leave bags unattended. Travel with companions where possible and lock your compartment from the inside.
+
+## Extreme weather and natural disasters
+
+Find out what you can do to [prepare for and respond to extreme weather and natural hazards](https://www.gov.uk/guidance/extreme-weather-and-natural-hazards).
+
+You can access [local forecasts and weather warnings](https://www.met.hu/en/idojaras/index.php) for Hungary.  Follow the instructions of local authorities.
 
 [Previous
 :

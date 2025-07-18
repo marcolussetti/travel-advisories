@@ -1,11 +1,11 @@
 {
     "name": "Hungary",
-    "update_reason": "New information for LGBT+ travellers and Budapest Pride 2025 (See \u2018LGBT+ travellers\u2019 on the \u2018Safety and security\u2019 page).",
+    "update_reason": "New information for LGBT+ travellers and new information on the risks from extreme weather and natural disasters (\u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Hungary/Warnings and insurance.md",
-            "update_date": "2025-06-26T09:49:25+01:00"
+            "update_date": "2025-07-17T09:36:12+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Hungary/Getting help.md"
         }
     ],
-    "update_date": "2025-06-26T09:49:25+01:00"
+    "update_date": "2025-07-17T09:36:12+01:00"
 }

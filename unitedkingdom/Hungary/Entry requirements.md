@@ -54,10 +54,6 @@ The EU’s Entry/Exit System (EES) is expected to start in October 2025. It is n
 
 Read more [information on the EU Entry/Exit System](https://www.gov.uk/guidance/eu-entryexit-system).
 
-## Vaccine requirements
-
-For details about medical entry requirements and recommended vaccinations, see [TravelHealthPro’s Hungary guide](https://travelhealthpro.org.uk/country/103/hungary#Vaccine_Recommendations).
-
 ## Customs rules
 
 There are strict rules about [goods you can take into and out of Hungary](https://nav.gov.hu/en/intormation_on_customs_matters/General_Customs_Information/Information_for_travellers_2022), including pets, hunting weapons, alcohol and tobacco products and some medicines. You must declare anything that may be prohibited or subject to tax or duty.
