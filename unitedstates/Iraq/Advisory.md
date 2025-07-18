@@ -1,6 +1,6 @@
 # Iraq Travel Advisory
 
-### Travel Advisory June 11, 2025
+### Travel Advisory July 17, 2025
 
 ### Iraq - Level 4: Do Not Travel
 
@@ -14,13 +14,11 @@
 [T](javascript:void(0); "Tool Tip: Terrorism")
 [C](javascript:void(0); "Tool Tip: Crimes")
 
-**Updated to reflect the ordered departure of non-emergency U.S. government personnel.**
-
-On June 11, the Department of State ordered the departure of non-emergency U.S. government personnel due to heightened regional tensions.
+***Updated to reflect the lifting of ordered departure of non-emergency U.S. government personnel.***
 
 Do not travel to Iraq due to **terrorism, kidnapping, armed conflict, civil unrest, and the U.S. government’s limited ability to provide emergency services to U.S. citizens in Iraq. Do not travel to Iraq for any reason.**
 
-**Country Summary:** U.S. citizens in Iraq face high risks, including violence and kidnapping. Terrorist and insurgent groups regularly attack Iraqi security forces and civilians. Anti-U.S. militias threaten U.S. citizens and international companies. Attacks using improvised explosive devices, indirect fire, and unmanned aerial vehicles occur in many areas, including major cities. The Department of State requires U.S. government personnel in Iraq to live and work under strict security due to serious threats.
+**Country Summary:** U.S. citizens in Iraq face high risks, including violence and kidnapping. Terrorist and insurgent groups regularly attack Iraqi security forces and civilians. Anti-U.S. militias threaten U.S. citizens and international companies. Attacks using improvised explosive devices, indirect fire, and unmanned aerial vehicles occur in many areas, including major cities. The Department of State requires U.S. government personnel in Iraq to live and work under strict security due to serious threats.
 
 There is risk of terrorist violence, including terrorist attacks and other activity in Iraq. Visit the U.S. Department of State’s [country reports on terrorism](https://www.state.gov/country-reports-on-terrorism/) to learn more.
 
@@ -37,7 +35,7 @@ U.S. citizens should not travel through Iraq to engage in armed conflict in Syri
 
 Because of security concerns, U.S. government personnel in Baghdad are prohibited from using Baghdad International Airport.
 
-The Federal Aviation Administration (FAA) has issued a Notice to Airmen (NOTAM) and a Special Federal Aviation Regulation (SFAR) due to risks to civil aviation operating within or in the vicinity of Iraq.  For more information, U.S. citizens should consult the [Federal Aviation Administration’s Prohibitions, Restrictions, and Notices.](https://www.faa.gov/air_traffic/publications/us_restrictions#Iraq "faa.gov")
+The Federal Aviation Administration (FAA) has issued a Notice to Airmen (NOTAM) and a Special Federal Aviation Regulation (SFAR) due to risks to civil aviation operating within or in the vicinity of Iraq. For more information, U.S. citizens should consult the [Federal Aviation Administration’s Prohibitions, Restrictions, and Notices.](https://www.faa.gov/air_traffic/publications/us_restrictions#Iraq)
 
 Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Iraq.html) for additional information on travel to Iraq.
 
