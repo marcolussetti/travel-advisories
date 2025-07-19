@@ -1,6 +1,6 @@
 ## Local laws and customs
 
-### **Muslim culture**
+### **Muslim Culture**
 
 Remember, the local laws apply to you as a visitor and it is your responsibility to follow them. Be sensitive to local customs, traditions and practices as your behaviour may be seen as improper, hostile or may even be illegal.
 
@@ -14,7 +14,7 @@ If you become pregnant outside of marriage, both you and your partner could face
 
 During Ramadan, Muslims are not permitted to eat, drink or smoke during daylight hours. To avoid offence, you should not eat, drink or smoke in public during this time.
 
-### **Sharia law**
+### **Sharia Law**
 
 Sharia law is an Islamic body of law and moral code. Penalties under Sharia law can be very severe, particularly for offences such as theft and adultery. We advise you to respect local religious traditions and avoid offending local sensitivities. Travellers should dress conservatively and women are advised to cover their legs, arms and head.
 
@@ -28,17 +28,13 @@ Only licensed hotels, restaurants and bars can sell alcohol. Expatriates living 
 
 It is illegal to drink alcohol or be drunk in public. For example, if you drink alcohol in a non-licenced public place, you could get a prison sentence of up to 6 months or a fine up to 3,000 Qatari riyals.
 
-### **Illegal drugs**
+### **Illegal Drugs**
 
 There is zero tolerance for drug-related offences.
 
 The penalties for drug trafficking, smuggling and possession are severe. Drug trafficking penalties can include the death sentence or life imprisonment. Travellers who transit in Qatar airports are subject to these laws. Qatari airports have excellent technology and security, so transiting passengers carrying even residual amounts of drugs may be arrested.
 
-### **Prescription medicines**
-
-If bringing controlled/prescription medication into Qatar, the medicine should be in its original packaging and carry your original prescription. Avoid carrying large quantities of controlled or prescription medication. Some medicines available on prescription or over the counter elsewhere could be considered illegal in Qatar. If in doubt, check with the nearest [**Embassy or Consulate of Qatar.**](https://www.mofa.gov.qa/en)
-
-### **Forbidden materials**
+### **Forbidden Materials**
 
 Bringing alcohol, drugs, pork products and pornographic books and material into Qatar is forbidden. Videos, books and magazines are subject to scrutiny and may be censored. Qatar law also prohibits the importation, sale and purchase of electronic cigarettes, liquids and other similar products (e.g., electronic shisha pipes).
 

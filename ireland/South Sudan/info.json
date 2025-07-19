@@ -3,29 +3,33 @@
     "risk_level": "Do Not Travel",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/South Sudan/Overview.md"
+            "title": "Travel to South Sudan overview",
+            "file": "ireland/South Sudan/Travel to South Sudan overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/South Sudan/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/South Sudan/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/South Sudan/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/South Sudan/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/South Sudan/Local laws and customs.md"
+        },
+        {
+            "title": "Climate and natural disasters",
+            "file": "ireland/South Sudan/Climate and natural disasters.md"
+        },
+        {
+            "title": "Entry requirements",
+            "file": "ireland/South Sudan/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/South Sudan/Embassy contact.md"
         }
     ],
-    "update_date": "2025-03-24T00:00:00"
+    "update_date": "2025-07-18T00:00:00"
 }

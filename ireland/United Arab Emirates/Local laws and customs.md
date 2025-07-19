@@ -1,6 +1,6 @@
 ## Local laws and customs
 
-### **Muslim culture**
+### **Muslim Culture**
 
 The UAE is an Islamic country and you should respect local traditions, customs, laws and religions. Be aware of your actions and take care not to offend other cultures or religious beliefs, especially during the holy month of Ramadan or other religious festivals, or if you intend to visit religious areas.
 
@@ -13,19 +13,11 @@ To obtain a UAE birth certificate for a child born outside of wedlock, additiona
 
 If you become pregnant outside of marriage, your medical insurance may not cover you. Consult your medical insurance provider before getting pregnant, or giving birth in the UAE.
 
-### **Forbidden products**
+### **Forbidden Products**
 
 Bringing illegal drugs, pork products and pornographic books and material into the UAE is forbidden. Videos, books and magazines are subject to scrutiny and may be censored.
 
-### **Prescription medications**
-
-Prescription medicines are tightly controlled in the UAE. Medications available over the counter or by prescription in Ireland, such as codeine may be illegal or considered a controlled substance in the UAE. Carefully consult the [**UAE Ministry of Health**](https://mohap.gov.ae/en/services/issue-of-permit-to-import-medicines-for-personal-use) guidelines before travelling to the UAE to see if your medication is on the list of controlled or prohibited substances. If in doubt consult with a doctor or pharmacist.
-
-If your medication is on the controlled drugs list, pre-approval is required to bring it into the UAE. You can apply for [**online approval**](https://mohap.gov.ae/en/services/issue-of-permit-to-import-medicines-for-personal-use) prior to travel or on arrival at the airport in the UAE. Online approvals can take up to five working days following completion of the application form. You will require the original prescription and an attested medical report and will only be permitted to carry up to a maximum of 3 months’ supply for narcotics & controlled medicines, and a maximum of 6 months’ supply for prescription-only medicines. If you arrive in the UAE without prior approval or the required documentation for approval on entry, the medication will not be allowed into the UAE and you may be prosecuted under UAE law.
-
-Other medicines not on the controlled list may be brought into the UAE but always carry the original prescription and not more than three months’ supply. Medicines should be in the original packaging and should not have expired. Possession of controlled or prescription medication without proper documentation may lead to confiscation and, in some cases, prosecution. Possession of illegal drugs — even in trace amounts — is a criminal offence in the UAE and carries a minimum sentence of 3 months’ imprisonment or a fine of AED 20,000 to AED 100,000, or both. Larger quantities or evidence of intent to supply can lead to significantly harsher penalties, including life imprisonment or the death penalty for trafficking. Further information on controlled medicines and permissions can be obtained directly from the [**UAE Ministry of Health**](https://mohap.gov.ae/en/services/issue-of-permit-to-import-medicines-for-personal-use) by emailing **info@moh.gov.ae** or calling +971 2 652 0500.
-
-### **Criminal offences**
+### **Criminal Offences**
 
 Financial crimes, including fraud, and the non-payment of bills, is regarded very seriously in the UAE and can result in imprisonment and/or a fine. Issuing a bounced cheque due to insufficient funds is no longer treated as a criminal offence in most cases. However, if there is evidence of fraud, deception, or intent to avoid payment — such as knowingly writing a cheque on a closed account — the act may still be prosecuted under the UAE Penal Code and can result in incarceration or a fine. Non-criminal cheque disputes are enforceable through civil execution measures under UAE commercial law.
 
@@ -47,11 +39,11 @@ Travellers should also be aware that, under the UAE’s entry and residence law,
 
 The legal age for purchasing and drinking alcohol is 21 in Abu Dhabi, Dubai and the Northern Emirates except Sharjah, where drinking or possessing alcohol is illegal.
 
-Although alcohol is widely available in urban centres such as Abu Dhabi and Dubai, itit is illegal to drink or be under the influence of alcohol in a public place anywhere in the UAE. Irish nationals have been arrested and charged under this law, often in cases where they have come to the attention of the police for a related offence, such as disorderly or offensive behaviour.
+Although alcohol is widely available in urban centres such as Abu Dhabi and Dubai, it is illegal to drink or be under the influence of alcohol in a public place anywhere in the UAE. Irish nationals have been arrested and charged under this law, often in cases where they have come to the attention of the police for a related offence, such as disorderly or offensive behaviour.
 
 Liquor licences are not required in the UAE to purchase and consume alcohol in licenced venues like hotel bars, restaurants, and pubs. However, a liquor licence is required in Dubai for purchasing alcohol for consumption in private places like homes or private parties. Outside licensed venues, you can only buy alcohol with a liquor licence from an official liquor distributors. Tourists can get a temporary liquor licence directly from the supplier. This licence is only for use in Dubai. While this requirement might not be strictly enforced in private settings, it remains a legal requirement. Liquor licences are not required for non-residents in the other Emirates.
 
-### **Illegal drugs**
+### **Illegal Drugs**
 
 There is zero tolerance for drugs-related offences.
 

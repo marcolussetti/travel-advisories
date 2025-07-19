@@ -3,12 +3,16 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Mozambique/Overview.md"
+            "title": "Travel to Mozambique overview",
+            "file": "ireland/Mozambique/Travel to Mozambique overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Mozambique/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Mozambique/Health.md"
         },
         {
             "title": "Local laws and customs",
@@ -19,13 +23,13 @@
             "file": "ireland/Mozambique/Natural disasters and climate.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Mozambique/Additional information.md"
+            "title": "Entry requirements",
+            "file": "ireland/Mozambique/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Mozambique/Embassy contact.md"
         }
     ],
-    "update_date": "2025-04-16T00:00:00"
+    "update_date": "2025-07-18T00:00:00"
 }

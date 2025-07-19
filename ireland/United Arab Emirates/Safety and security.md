@@ -37,7 +37,7 @@ If you want to drive:
 
 Offensive gestures and bad language can lead to fines, incarceration, and deportation.
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If hiring a vehicle, we advise you not to hand over your passport as a form of security. If allowing your passport to be photocopied, keep it in sight at all times.
 

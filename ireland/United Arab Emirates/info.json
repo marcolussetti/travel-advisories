@@ -3,12 +3,16 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/United Arab Emirates/Overview.md"
+            "title": "Travel to United Arab Emirates overview",
+            "file": "ireland/United Arab Emirates/Travel to United Arab Emirates overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/United Arab Emirates/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/United Arab Emirates/Health.md"
         },
         {
             "title": "Local laws and customs",
@@ -19,13 +23,13 @@
             "file": "ireland/United Arab Emirates/Natural disasters and climate.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/United Arab Emirates/Additional information.md"
+            "title": "Entry requirements",
+            "file": "ireland/United Arab Emirates/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/United Arab Emirates/Embassy contact.md"
         }
     ],
-    "update_date": "2025-06-23T00:00:00"
+    "update_date": "2025-07-18T00:00:00"
 }

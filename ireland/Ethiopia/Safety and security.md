@@ -31,7 +31,7 @@ If a victim of a crime while in Ethiopia, report it to the local police immediat
 
 Homosexual activity is illegal and the subject is taboo for the majority of Ethiopians. There has been an increase in anti-LGBT rhetoric from authorities in Ethiopia and displays of affection in public are likely to attract unwanted attention.
 
-### **Social unrest**
+### **Social Unrest**
 
 The political situation across Ethiopia can be volatile. Public and civil protests are frequent and can turn violent without warning. Universities can be hotspots for ethnically motivated violence. If intending to visit a university during your stay, please seek the advice of your university contacts.
 
@@ -57,13 +57,13 @@ If you want to drive:
 * Keep vehicle doors locked and bags kept out of sight to prevent opportunistic bag-snatching if stopped at traffic lights
 * If you encounter roadblocks or checkpoints while driving, follow the advice of the local authorities present. If the roadblock or checkpoint is unattended, turn around and not attempt to pass it.
 
-### **Traffic accidents**
+### **Traffic Accidents**
 
 If your vehicle comes into contact with another, make sure that valuables are secure before getting out of the vehicle and lock doors to prevent theft while not in the vehicle. The Traffic Police will come to assess the scene and mark the location of the incident.
 
 If there is a dispute at the scene, try to remain calm, do not engage physically, and try to take note of the other driver's name, licence plate, description, etc. If a crowd assembles, stay in your car and wait for the police to arrive.
 
-### **Vehicle hire**
+### **Vehicle Hire**
 
 If hiring a vehicle, we advise you not to hand over your passport as a form of security. If allowing your passport to be photocopied, keep it in sight at all times.
 

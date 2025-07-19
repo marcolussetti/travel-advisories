@@ -4,7 +4,7 @@
 
 There are ongoing regional tensions and, in the event of any incidents, you should monitor local media reports and follow the advice of the local authorities. The domestic political situation in Kuwait is generally stable.
 
-### **Social unrest**
+### **Social Unrest**
 
 There have been a number of protests by expatriate labourers in Kuwait over their employment conditions. International events and political developments (including elections) may also prompt demonstrations in Kuwait.
 
@@ -56,7 +56,7 @@ If you want to drive:
 * Driving under the influence of alcohol or drugs is against the law and the penalties can be severe. Your insurance is likely to be invalidated, leaving you to pay claims by other parties involved.
 * Keep your vehicle doors locked and your bags kept out of sight to prevent opportunistic bag-snatching if you’re stopped at traffic lights.
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If you’re hiring a vehicle, we advise you not to hand over your passport as a form of security. If you’re allowing your passport to be photocopied, keep it in your sight at all times.
 
@@ -68,6 +68,6 @@ Rip currents can occur at any beach and can sweep even the strongest swimmer out
 
 The safety of tourist boats may not be up to Irish standards. Ensure that life jackets are available for all passengers.
 
-### **Crossing the border**
+### **Crossing the Border**
 
 Only use authorised road border crossing points into Iraq and Saudi Arabia. Any other unauthorised movement in the vicinity of borders is illegal and dangerous: armed guards patrol the border area. If planning to cross the border from Kuwait into Iraq, make sure that you have the correct paperwork.

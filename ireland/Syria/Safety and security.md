@@ -4,7 +4,7 @@
 
 There is a widespread and significant risk of terrorism in Syria, with regular incidents resulting in civilian casualties. This security context poses a significant risk to foreigners, if you must travel to Syria against our Travel Advice, great vigilance is advised.
 
-### **Social unrest**
+### **Social Unrest**
 
 If you are currently in Syria, we strongly advise you to leave immediately while this is still possible. Our clear advice for some time has been to leave the country by commercial means.
 
@@ -30,7 +30,7 @@ You should exercise caution if going outside after dark, and take sensible preca
 * Avoid dark and unlit streets and stairways, and arrange to be picked up or dropped off as close to your hotel or apartment entrance as possible.
 * Keep a close eye on your personal belongings and hold on to them in public places such as internet cafés, train and bus stations.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If you are a victim of a crime while in Syria, report it to the local police immediately. If you need help, you should contact the Embassy in Cairo or the Honorary Consulate in Damascus.
 
@@ -42,11 +42,11 @@ If you are planning to drive in Syria, road and driving standards are variable, 
 * Driving under the influence of alcohol or drugs is against the law and you risk being detained, fined or banned from driving if caught.
 * Keep your vehicle doors locked and your bags kept out of sight to prevent opportunistic bag-snatching if you’re stopped at traffic lights.
 
-### **Security checkpoints**
+### **Security Checkpoints**
 
 There has been an increase in the number of checkpoints on major routes, and intermittent road closures on the main inter-city highways.
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If hiring a vehicle, we advise you not to hand over your passport as a form of security. If you’re allowing your passport to be photocopied, keep it in your sight at all times.
 

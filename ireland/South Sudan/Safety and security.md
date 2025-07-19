@@ -8,7 +8,7 @@ Juba is a rapidly growing city with a huge disparity in wealth between foreigner
 
 There is a high security presence in Juba, especially at night, and particularly around road junctions and government buildings. Visitors will come across security checkpoints and should be prepared to respond to these in a calm, patient and respectful manner.
 
-### **Border regions**
+### **Border Regions**
 
 We advise against all travel to the regions bordering Sudan (Upper Nile, Unity, Northern and Western Bar el Ghazal States). Parts of the border between Sudan and South Sudan have yet to be delineated, and the status of some armed groups along the border remains unresolved. This has occasionally led to intense fighting in disputed regions, as well as to aerial bombings. The border areas are a potential flashpoint for Sudanese armed groups.
 
@@ -35,7 +35,7 @@ There is widespread violent crime, including kidnapping, armed robbery, car-jack
 * Be alert to the possibility of your vehicle being followed and be careful when you leave the vehicle
 * If confronted by armed attackers, leave the area immediately, if it is safe to do so. If not, then you should do what your attackers demand without resistance
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If a victim of a crime while in South Sudan, report it to the local police immediately. Please contact the [**Embassy of Ireland in Addis Ababa**](https://www.ireland.ie/en/ethiopia/addisababa/), Ethiopia if you need help.
 
@@ -50,21 +50,21 @@ If visitors want to drive:
 * Bring your full Irish driver’s licence and international driving permit and make sure to have adequate and appropriate insurance
 * Keep vehicle doors locked and bags kept out of sight to prevent opportunistic bag-snatching if stopped at traffic lights
 
-### **Fuel shortages**
+### **Fuel Shortages**
 
 Expect serious shortages of fuel whenever tensions between Sudan and South Sudan are high.
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If hiring a vehicle, we advise not to hand over your passport as a form of security. If allowing your passport to be photocopied, keep it in sight at all times.
 
 Check that you have adequate insurance and read the small print of the vehicle hire contract (particularly any waiver that will come into effect if the vehicle is damaged).
 
-### **Public transport**
+### **Public Transport**
 
 Visitors are at high risk of involvement in traffic accidents when using public transport, as many vehicles are unsafe.
 
-### **Air safety**
+### **Air Safety**
 
 We cannot be sure that maintenance procedures on aircraft used for internal flights are properly observed so if possible, do not fly on [**airlines listed under the EU operating ban**](https://transport.ec.europa.eu/transport-themes/eu-air-safety-list_en).
 

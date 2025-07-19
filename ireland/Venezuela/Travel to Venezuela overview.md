@@ -4,12 +4,6 @@
 
 Avoid Non-Essential Travel
 
-### **Travel Alert**
-
-The Department of Foreign Affairs and Trade strongly advises against non-essential travel to Venezuela and advises against all travel to border areas.
-
-Presidential elections were held in Venezuela on 28 July. Demonstrations and civil unrest have led to an increase in violent crime and the arbitrary enforcement of local laws. There are strict controls at border crossings, both via land and at airports. Some foreign nationals have been arrested and detained without access to their embassies. There has been a decline in basic living conditions with an ongoing risk of shortages of food, water, medicine and petrol. Transport routes, including to Simón Bolívar International airport may be disrupted. Citizens are advised to avoid all large gatherings. Remain alert for developments, including changes in instructions by local authorities or security forces.
-
 ### **General Travel Advice**
 
 The Department of Foreign Affairs and Trade strongly advises against non-essential travel to Venezuela at this time due to the security situation in the country.

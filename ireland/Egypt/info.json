@@ -3,29 +3,33 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Egypt/Overview.md"
+            "title": "Travel to Egypt overview",
+            "file": "ireland/Egypt/Travel to Egypt overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Egypt/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Egypt/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Egypt/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Egypt/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/Egypt/Local laws and customs.md"
+        },
+        {
+            "title": "Climate and natural disasters",
+            "file": "ireland/Egypt/Climate and natural disasters.md"
+        },
+        {
+            "title": "Entry Requirements",
+            "file": "ireland/Egypt/Entry Requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Egypt/Embassy contact.md"
         }
     ],
-    "update_date": "2024-11-19T00:00:00"
+    "update_date": "2025-07-18T00:00:00"
 }

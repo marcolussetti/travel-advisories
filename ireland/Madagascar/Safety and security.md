@@ -1,12 +1,12 @@
 ## Safety and security
 
-### **Practical advice**
+### **Practical Advice**
 
 * Get advice locally about areas of risk and security concerns
 * Take common-sense precautions about safety and security
 * Know who to contact in case of an emergency
 
-### **Political unrest**
+### **Political Unrest**
 
 Madagascar has a history of political unrest, and the situation can be unpredictable. Due to the possibility of violence, you should avoid large gatherings and political demonstrations, and avoid the centre of Antananarivo.
 
@@ -23,7 +23,7 @@ Robberies, theft and street crime occur frequently in towns and cities, in natur
 * Beware of pickpockets in crowded areas like street markets and airports.
 * Keep a close eye on your personal belongings and hold on to them in public places such as internet cafés, train and bus stations.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If you are a victim of a crime while in Madagascar, report it to the local police immediately. You can contact the Irish Embassy in Mozambique if you need help.
 
@@ -36,7 +36,7 @@ If you are planning to drive in Madagascar, follow these basic guidelines:
 * Driving under the influence of alcohol or drugs is against the law and you risk being detained, fined or banned from driving if caught
 * Keep your vehicle doors locked and your bags kept out of sight to prevent opportunistic bag-snatching if you’re stopped at traffic lights
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If you are hiring a vehicle, we advise you not to hand over your passport as a form of security. If you are allowing your passport to be photocopied, keep it in your sight at all times.
 

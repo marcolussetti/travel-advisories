@@ -37,7 +37,7 @@ If you want to drive:
 * Bring an international driving license and make sure you have adequate and appropriate insurance.
 * It is illegal to drink and drive, no matter how small the amount, and your insurance is likely to be invalidated in the event of an accident. The penalties for driving under the influence of alcohol or drugs can be severe.
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If hiring a vehicle, we advise not to hand over your passport as a form of security. If allowing your passport to be photocopied, keep it in sight at all times.
 

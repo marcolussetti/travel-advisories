@@ -1,6 +1,6 @@
 ## Local laws and customs
 
-### **Muslim culture**
+### **Muslim Culture**
 
 Kuwait is an Islamic country and you should respect local traditions, customs, laws and religions. Be aware of your actions and take care not to offend other cultures or religious beliefs, especially during the holy month of Ramadan or other religious festivals, or if you intend to visit religious areas.
 
@@ -14,12 +14,12 @@ During Ramadan, Muslims are not permitted to eat, drink or smoke during daylight
 
 Alcohol is illegal in Kuwait. Drunken behaviour in public or driving under the influence of alcohol is punishable by a fine, imprisonment, and/or deportation as well as the withdrawal of your driving licence.
 
-### **Illegal drugs**
+### **Illegal Drugs**
 
 There is zero tolerance for drug-related offences.
 
 The penalties for drug trafficking, smuggling and possession of illegal drugs (including residual amounts) are severe. Drug trafficking penalties can include the death sentence or life imprisonment.
 
-### **Forbidden products**
+### **Forbidden Products**
 
 Bringing drugs, pork products, and pornographic books and materials into Kuwait is forbidden. Videos, books and magazines are subject to scrutiny and may be censored.

@@ -4,12 +4,6 @@
 
 Normal Precautions
 
-### **Travel Alert**
-
-The Netherlands will host the upcoming 2025 NATO Summit on 24 and 25 June at the World Forum in The Hague. It requires many security measures, which will affect road traffic, public transportation and air travel between Amsterdam, The Hague and Rotterdam.
-
-Further information on road and transporation diversions associated with the NATO Summit can be found [**here**](https://www.government.nl/ministries/ministry-of-foreign-affairs/activiteiten/nato-summit-2025/nato-summit-2025-accessibility).
-
 ### **General Travel Advice**
 
 Irish citizens need a valid passport or passport card to enter the Netherlands.
@@ -24,7 +18,7 @@ Citizens can also follow the Embassy on social media (@IrelandinNL on [**X**](ht
 
 ### **Temporary Reintroduction of Land Border Controls**
 
-The Royal Netherlands Marechaussee has implemented temporary border controls at its internal boders with Belgium and Germany for 6 months (from 9 December 2024 to 8 June 2025).
+The Netherlands has implemented temporary border controls at its internal borders with Belgium and Germany to combat irregular migration and cross-border crime. These controls, carried out by the Royal Netherlands Marechaussee, commenced on 9 December 2024 for initial period of 6 months. These controls have now been extended and will remain in place until 9 December 2025.
 
 Travellers should be aware of potential delays and additional documentation requirements during this period. Further information can be found on the [**website**](https://english.marechaussee.nl/topics/temporary-reintroduction-of-border-control) of the Royal Netherlands Marechaussee.
 

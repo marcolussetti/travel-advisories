@@ -18,7 +18,7 @@ Money
 
 Djibouti is largely a cash-based economy. The Djiboutian Franc is the official currency. Credit cards are accepted at major hotels and supermarkets, but note that Visa is much more widely accepted than Mastercard. ATMs are available in Djibouti City, again Visa more widely accepted. You should ensure that you carry sufficient hard currency.
 
-### **Practical advice**
+### **Practical Advice**
 
 * Read our travel advice, inform yourself before travelling, and get advice locally when you arrive.
 * Remember, the local laws apply to you as a visitor and it is your responsibility to follow them.

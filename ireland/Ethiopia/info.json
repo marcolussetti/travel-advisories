@@ -3,29 +3,33 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Ethiopia/Overview.md"
+            "title": "Travel to Ethiopia overview",
+            "file": "ireland/Ethiopia/Travel to Ethiopia overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Ethiopia/Safety and security.md"
         },
         {
+            "title": "Health",
+            "file": "ireland/Ethiopia/Health.md"
+        },
+        {
             "title": "Local laws and customs",
             "file": "ireland/Ethiopia/Local laws and customs.md"
         },
         {
-            "title": "Natural disasters and climate",
-            "file": "ireland/Ethiopia/Natural disasters and climate.md"
+            "title": "Climate and natural disasters",
+            "file": "ireland/Ethiopia/Climate and natural disasters.md"
         },
         {
-            "title": "Health",
-            "file": "ireland/Ethiopia/Health.md"
+            "title": "Entry Requirements",
+            "file": "ireland/Ethiopia/Entry Requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Ethiopia/Embassy contact.md"
         }
     ],
-    "update_date": "2025-05-15T00:00:00"
+    "update_date": "2025-07-18T00:00:00"
 }

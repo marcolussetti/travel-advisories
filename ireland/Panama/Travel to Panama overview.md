@@ -6,8 +6,6 @@ High Degree of Caution
 
 ### **Travel Alert**
 
-May 2025 - Protests have been taking place across Panama since 23 April in rejection of a social security law reform. Protests and demonstrations have led to disruptions to traffic and public transportation and could turn violent at any time. Avoid areas where demonstrations and large gatherings are taking place. Monitor local media regularly and follow the advice of local authorities.
-
 In February 2024, the Pan American Health Organization (PAHO) issued an epidemiological alert concerning increasing reports of Oropouche disease, a virus mainly transmitted to humans through being bitten by infected midges. Some species of mosquito are also known to spread the virus. Oropouche can manifest as an acute febrile illness with common systems including headache, nausea, vomiting, muscle and joint pains. Occasionally symptoms can be more severe. PAHO has reported an outbreak in countries in Central America, including Panama. Take precautions to avoid being bitten by mosquitoes by using bed nets and repellents, and wearing closed shoes, long sleeves and trousers.
 
 ### **General Travel Advice**

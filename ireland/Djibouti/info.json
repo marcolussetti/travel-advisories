@@ -3,29 +3,29 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Djibouti/Overview.md"
+            "title": "Travel to Djibouti overview",
+            "file": "ireland/Djibouti/Travel to Djibouti overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Djibouti/Safety and security.md"
         },
         {
-            "title": "Local laws and customs",
-            "file": "ireland/Djibouti/Local laws and customs.md"
-        },
-        {
             "title": "Health",
             "file": "ireland/Djibouti/Health.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Djibouti/Additional information.md"
+            "title": "Local laws and customs",
+            "file": "ireland/Djibouti/Local laws and customs.md"
+        },
+        {
+            "title": "Entry Requirements",
+            "file": "ireland/Djibouti/Entry Requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Djibouti/Embassy contact.md"
         }
     ],
-    "update_date": "2023-11-20T00:00:00"
+    "update_date": "2025-07-18T00:00:00"
 }

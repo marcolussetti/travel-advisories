@@ -1,6 +1,6 @@
 ## Safety and security
 
-### **Political stability/unrest**
+### **Political Stability/Unrest**
 
 There has been significant unrest in Mozambique since the elections of 9 October 2024. The situation has improved in recent months, but the possibility of future unrest remains. Protests and demonstrations may occur at short notice and cause disruption to services, supply chains, roads, transport, borders, and mobile and Wi-Fi networks.
 
@@ -39,7 +39,7 @@ If you are visiting Mozambique, take local advice on areas to avoid and follow t
 
 Avoid dark and unlit streets and stairways, arrange to be picked up or dropped off as close to your hotel or apartment entrance as possible
 
-### **Petty crime**
+### **Petty Crime**
 
 Street crime, such as pickpocketing or robbery with threats of violence, is a reality in Mozambique and, as anywhere, the risks increase after dark.
 
@@ -61,7 +61,7 @@ If you want to drive:
 * You must carry original identification documents and vehicle documents at all times (notarised copies are not acceptable) and you may be asked to produce them by the authorities. Always make sure that your documents are returned to you
 * Keep your vehicle doors locked and your bags kept out of sight to prevent opportunistic bag-snatching if you are stopped at traffic lights and always drive with the windows closed
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If you are hiring a vehicle, we advise you not to hand over your passport as a form of security.
 
@@ -75,10 +75,10 @@ Whilst violent crime does occur at times, most visits to Mozambique are trouble-
 
 Cases of kidnapping take place primarily in larger cities, especially Maputo and Matola. Individuals perceived as wealthy, including foreigners, tend to be preferred targets. Be extremely vigilant at all times, avoid displaying signs of affluence, consider regularly modifying your patterns of travel, and be aware of your surroundings at all times.
 
-### **Public transport**
+### **Public Transport**
 
 Take note of the condition of the vehicle before you decide to use public transport and make other arrangements if you have any concerns.
 
-### **Lost/stolen passport**
+### **Lost/Stolen Passport**
 
 If your passport is stolen, make a police report immediately. You should also inform the local immigration authorities and show them a copy of your police report. If you contact the Irish Embassy, they can arrange a replacement passport.

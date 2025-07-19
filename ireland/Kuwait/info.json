@@ -3,8 +3,8 @@
     "risk_level": "High Degree of Caution",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Kuwait/Overview.md"
+            "title": "Travel to Kuwait overview",
+            "file": "ireland/Kuwait/Travel to Kuwait overview.md"
         },
         {
             "title": "Safety and security",
@@ -19,13 +19,13 @@
             "file": "ireland/Kuwait/Natural disasters and climate.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Kuwait/Additional information.md"
+            "title": "Entry requirements",
+            "file": "ireland/Kuwait/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Kuwait/Embassy contact.md"
         }
     ],
-    "update_date": "2025-06-13T00:00:00"
+    "update_date": "2025-07-18T00:00:00"
 }

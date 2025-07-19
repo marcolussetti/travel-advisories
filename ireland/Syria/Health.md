@@ -1,0 +1,5 @@
+## Health
+
+There have been reported cases of cholera across the country. Cholera is a bacterial disease transmitted through contaminated drinking water or food. Drink only boiled or bottled water and ensure that food has been properly prepared. Additional information on cholera can be found here: [**Cholera (who.int)**](https://www.who.int/news-room/fact-sheets/detail/cholera?gclid=CjwKCAjw2OiaBhBSEiwAh2ZSP6HKyQ2WUlK-7iA1QXq6KCAOXP4O_MjQhjZ_V0gz5HRx4BN4c76AchoCJCgQAvD_BwE).
+
+Polio vaccination is recommended for all travellers from Ireland to countries where polio transmission is a risk. Before travelling to areas where poliomyelitis cases are still occurring, travellers should ensure that they have completed the recommended age-appropriate polio vaccine schedule and have received a booster dose, if necessary. More information is available on the [**Health Protection and Surveillance Centre website**](http://www.hpsc.ie/A-Z/VaccinePreventable/Polio/Guidance/).

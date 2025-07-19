@@ -3,12 +3,16 @@
     "risk_level": "Avoid Non-Essential Travel",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Lebanon/Overview.md"
+            "title": "Travel to Lebanon overview",
+            "file": "ireland/Lebanon/Travel to Lebanon overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Lebanon/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Lebanon/Health.md"
         },
         {
             "title": "Local laws and customs",
@@ -19,13 +23,13 @@
             "file": "ireland/Lebanon/Natural disasters and climate.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Lebanon/Additional information.md"
+            "title": "Entry requirements",
+            "file": "ireland/Lebanon/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Lebanon/Embassy contact.md"
         }
     ],
-    "update_date": "2025-05-29T00:00:00"
+    "update_date": "2025-07-18T00:00:00"
 }

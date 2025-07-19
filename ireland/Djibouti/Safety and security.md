@@ -16,7 +16,7 @@ There is a risk of terrorism in Djibouti, which could be indiscriminate and targ
 
 If you are a victim of a crime while in Djibouti, report it to the local police immediately. And you can contact us at the [**Irish Embassy in Addis Ababa**](/en/ethiopia/addisababa/) if you need help.
 
-### **Practical advice**
+### **Practical Advice**
 
 * Read our Know Before You Go travel guide for useful security tips when travelling abroad
 * Get advice locally about areas of risk and security concerns

@@ -3,12 +3,16 @@
     "risk_level": "Do Not Travel",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/Syria/Overview.md"
+            "title": "Travel to Syria overview",
+            "file": "ireland/Syria/Travel to Syria overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/Syria/Safety and security.md"
+        },
+        {
+            "title": "Health",
+            "file": "ireland/Syria/Health.md"
         },
         {
             "title": "Local laws and customs",
@@ -19,13 +23,13 @@
             "file": "ireland/Syria/Natural disasters and climate.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/Syria/Additional information.md"
+            "title": "Entry requirements",
+            "file": "ireland/Syria/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/Syria/Embassy contact.md"
         }
     ],
-    "update_date": "2024-12-11T00:00:00"
+    "update_date": "2025-07-18T00:00:00"
 }

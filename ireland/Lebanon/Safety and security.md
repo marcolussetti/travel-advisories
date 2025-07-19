@@ -2,7 +2,7 @@
 
 The situation in Lebanon remains volatile. In light of the unpredictability of the situation, events could escalate throughout the country with little warning.
 
-### **Political unrest and Regional tensions**
+### **Political Unrest and Regional Tensions**
 
 The political situation in Lebanon is fragile and has the potential to deteriorate quickly.
 
@@ -36,7 +36,7 @@ Citizens should always take sensible precautions:
 * Avoid dark and unlit streets and stairways, and arrange to be picked up or dropped off as close to your hotel or apartment entrance as possible.
 * Keep a close eye on your personal belongings and hold on to them in public places such as internet cafés, train and bus stations.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If a victim of a crime while in Lebanon, report it to the local police immediately. Contact the [**Honorary Consul in Beirut**](https://www.ireland.ie/en/dfa/embassies/) or the [**Irish Embassy in Cairo**](https://www.ireland.ie/en/egypt/cairo/) if you require assistance.
 
@@ -50,15 +50,15 @@ If planning to drive in Lebanon, travellers should be extremely careful as the a
 * Avoid driving outside the main cities at night.
 * Be aware that many traffic lights are not in operation due to electricity shortages.
 
-### **Road closures**
+### **Road Closures**
 
 The road to the airport can be closed sporadically due to various factors. Citizens should closely monitor local news and social media.
 
-### **Diesel engines**
+### **Diesel Engines**
 
 If driving your own car in Lebanon, be aware that vehicles with diesel engines are now banned.
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If you are hiring a vehicle, we advise you not to hand over your passport as a form of security. If allowing your passport to be photocopied, keep it in your sight at all times.
 

@@ -24,7 +24,7 @@ Independent travel to remote areas is strongly discouraged. The movement and pre
 
 Irish citizens are strongly advised not to seek to travel to or from Gaza via the Rafah border crossing. The vicinity of the border crossing is particularly dangerous with frequent attacks on security forces. Rafah border crossing is also currently closed.
 
-### **Protests and demonstrations**
+### **Protests and Demonstrations**
 
 Although protests and demonstrations in Egypt are now relatively rare compared to the 2013 period, they can occur without warning and the police response to any protests can be harsh. Protests can also turn violent and result in large numbers of deaths and injuries. Under Egyptian law, anyone participating in an unauthorised protest or demonstrations can expect to be detained for an extended period.
 
@@ -70,12 +70,12 @@ If driving:
 * Be aware that driving under the influence of alcohol or drugs is against the law and you risk being detained, fined or banned from driving if caught
 * Keep vehicle doors locked and bags out of sight to prevent opportunistic bag-snatching if stopped at traffic lights.
 
-### **Vehicle hire**
+### **Vehicle Hire**
 
 If hiring a vehicle, we advise not to hand over your passport as a form of security. If allowing your passport to be photocopied, keep it in sight at all times.
 
 Check to have adequate insurance and read the small print of the vehicle hire contract (particularly any waiver that will come into effect if the vehicle is damaged).
 
-### **Public transport**
+### **Public Transport**
 
 Public transport in Egypt has a poor safety record. There have been numerous accidents in recent years involving buses, micro-buses, trains and metro services which have resulted in a considerable number of deaths, including foreign tourists. The train and metro network has also been the target of terrorist attacks. Where they are available, women should use the women-only carriages of trains.
