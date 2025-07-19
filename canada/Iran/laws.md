@@ -14,6 +14,14 @@ The Iranian legal system differs from the one in Canada.
 
 You may be held for lengthy periods without access to legal counsel or consular officials if you are suspected of or witness to offences.
 
+### Risk of arbitrary arrest and detention, and the death penalty
+
+Canadians, including those with dual Canadian-Iranian citizenship, are at high risk of arbitrary arrest and detention in Iran. Holding a Canadian passport can be reason enough for Iranian authorities to detain you. The Government of Canada has no embassy or consulate in Iran, which significantly limits our ability to assist you in that context.
+
+Iranian law criminalizes all forms of collaboration with individuals or organizations considered enemies of the state, and allows for the death penalty as punishment. Iranian authorities have wrongfully arrested and detained foreign nationals over charges related to espionage and/or national security, without concrete evidence they committed a crime.
+
+Following the hostilities between Iran and Israel in June 2025, Iranian authorities have heightened the military’s presence throughout the country and intensified their targeting of individuals suspected of espionage or threatening national security.
+
 ### Drugs
 
 Penalties for possession, use or trafficking of illegal drugs and alcohol are severe. Convicted offenders can expect severe penalties, including the death penalty.

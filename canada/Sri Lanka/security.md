@@ -2,19 +2,6 @@
 
 ## Safety and security
 
-### Political and economic situation
-
-The political and economic situation has stabilized in Sri Lanka. However, economic difficulties continue as some basic necessities, such as specific medicines and food items may have limited availability. Power outages, though infrequent, may also occur.
-
-The economic situation may also impact public services, including healthcare.
-
-If you are in Sri Lanka:
-
-* keep supplies of food, water and fuel in case of lengthy disruptions
-* make sure to have sufficient supply of any required medicines on hand as availability may be limited
-* avoid areas where demonstrations and large gatherings are taking place
-* follow the instructions of local authorities
-
 ### Demonstrations
 
 Demonstrations occur frequently in Colombo, and occasionally elsewhere in the country. Security forces may use tear gas and water cannons during violent protests. Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation.
@@ -71,6 +58,10 @@ Ensure that your personal belongings, including passports and other travel docum
 ### Inter-communal tensions
 
 Inter-communal and religious tensions exist throughout the country and have led to violence. Further violent incidents could occur.
+
+### Shortages and the economic situation
+
+Although Sri Lanka's economic situation has stabilized, there are occasional shortages of certain medicines and food items.
 
 ### Spiked food and drinks
 

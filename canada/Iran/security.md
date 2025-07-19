@@ -32,17 +32,15 @@ If you encounter any debris or fragments:
 
 [Canada's response to the situation in the Middle East](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=eng "https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=eng")
 
-In the context of recent developments between Canada and Iran, Iranian authorities could take retaliatory measures that could pose a risk to the safety and security of Canadians, including Canadian-Iranians.
+### Increased surveillance and scrutiny
 
-Canadians in Iran are likely to be subject to increased surveillance by Iranian authorities for activities and behaviours that would be considered innocuous in Canada, including:
+Canadians in Iran are likely to be subject to increased surveillance and scrutiny by Iranian authorities, including for activities and behaviours that would be considered normal in Canada, including:
 
 * taking photographs in public places
 * travelling to remote areas not usually frequented by tourists
 * interacting with the local population
 
 Keep a low profile and don’t share your personal information with strangers.
-
-There is no resident Canadian government office in Iran. The ability of Canadian officials to provide consular assistance is extremely limited.
 
 ### Demonstrations
 

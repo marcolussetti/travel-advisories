@@ -2,16 +2,6 @@
 
 ## Safety and security
 
-### Municipal elections
-
-Municipal elections are scheduled for July 17, 2025 in Togo. Demonstrations could occur before, during and after the elections.
-
-* Avoid areas where demonstrations and large gatherings are taking place
-* Follow the instructions of local authorities
-* Monitor local media for information on ongoing demonstrations
-
-[More information about demonstrations](#demonstrations)
-
 ### Border with Burkina Faso
 
 Extremist groups operating in southwest Burkina Faso have infiltrated the border with Togo. They have carried out attacks as well as kidnappings.

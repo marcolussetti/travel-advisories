@@ -14,7 +14,7 @@ Heavy smoke may deteriorate the air quality in areas near active fires.
 
 In case of a major fire:
 
-* stay away from the affected area, particularly if you suffer from respatory ailments
+* stay away from the affected area, particularly if you suffer from respiratory ailments
 * follow the instructions of local authorities, including any evacuation orders
 * monitor local media for the latest information
 
