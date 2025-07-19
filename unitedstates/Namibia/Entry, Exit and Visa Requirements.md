@@ -9,7 +9,8 @@ Requirements for Entry:
 * Visa
   + **As of April 1, 2025, the Namibian Government requires U.S. citizen tourists to obtain a visa prior to entering the country. Visitors are recommended to apply for their visa in advance of planned travel through Namibia’s online visa on arrival portal (**[**https://eservices.mhaiss.gov.na/visaonarrival**](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Feservices.mhaiss.gov.na%2Fvisaonarrival&data=05%7C02%7CHernandezCA%40state.gov%7C1389ee8b59e8412b8fc308dd75ccba4d%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C638796244338903391%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=ta8d78Jv71%2BSyLdmb5KW7QzSVUjQIOErrAtnXvlF0bk%3D&reserved=0)**).**
   + Visitors arriving in Windhoek or Walvis Bay or visitors entering at large border crossing points (e.g. Katima Mulilo, Ngoma) will also be able to purchase tourist visas at time of arrival. Visitors using the online visa application system must bring a hard copy of their approval notice.
-  + Travelers should be prepared to show the following upon arrivalConfirmation of Accommodation
+  + Travelers should be prepared to show the following upon arrival
+    - Confirmation of Accommodation
     - Confirmation of Sufficient Funds
     - Travel Itinerary
     - Proof of Travel/Medical Insurance

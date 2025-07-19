@@ -4,7 +4,8 @@
 
 **Passports and Visas:**
 
-* Passports and visas are required for all U.S. citizens traveling to Libya.
+Passports and visas are required for all U.S. citizens traveling to Libya.
+
 * Contact the [Libyan Embassy in Washington, D.C.](https://www.embassyoflibyadc.org/visa) for information on visa application procedures.
 * The Government of Libya does not allow persons with passports bearing an Israeli visa or entry/exit stamps from Israel to enter Libya.
 * All visa applications are vetted by Libyan authorities and are only issued by the appropriate Libyan Embassy upon receipt of approval by the Libyan Ministry of Foreign Affairs.
@@ -22,6 +23,6 @@ U.S. citizens must enter and exit the United States using their U.S. passport, a
 
 * Libya’s land borders with Egypt and Tunisia are subject to periodic closures. Short-term closures of other land borders may occur with little notice.
 * Within three days of arrival in Libya, visitors must register at the police station closest to where they are residing.
-* Some HIV/AIDS entry restrictions exist for visitors to and foreign residents of Libya. Please verify this information with the <http://www.embassyoflibyadc.org/> before you travel.
+* Some HIV and AIDS entry restrictions exist for visitors to and foreign residents of Libya. Please verify this information with the <http://www.embassyoflibyadc.org/> before you travel.
 
 Find information on [dual nationality](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/Dual-Nationality-Travelers.html), [prevention of international child abduction](https://travel.state.gov/content/travel/en/International-Parental-Child-Abduction/prevention.html) and [customs regulations](https://travel.state.gov/content/travel/en/international-travel/before-you-go/customs-and-import.html) on our websites.

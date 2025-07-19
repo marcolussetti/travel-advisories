@@ -4,15 +4,15 @@
 
 PASSPORT VALIDITY:
 
-At least six months from the date of entry.
+6 months from the date of entry.
 
 BLANK PASSPORT PAGES:
 
-At least two blank pages.
+2 blank pages.
 
 TOURIST VISA REQUIRED:
 
-Required for stays longer than 30 days. See Entry, Exit, and Visa Requirements below for more information about visa-free entry.
+Yes, for stays longer than 30 days.
 
 VACCINATIONS:
 

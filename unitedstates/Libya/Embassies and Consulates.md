@@ -15,4 +15,4 @@ Telephone Outside of Office Hours, from Libya (WhatsApp calling enabled):** +216
 
 There is currently no U.S. Embassy in Libya.  Questions may be addressed to the [Libya External Office located in Tunis](https://ly.usembassy.gov/).
 
-Inquiries regarding U.S. citizens in Libya may be directed to the Department of State’s Office of Overseas Citizens Services.  Callers in the United States and Canada may dial the toll-free number 1-888-407-4747.  Callers outside the United States and Canada may dial 1-202-501-4444.
+Inquiries regarding U.S. citizens in Libya may be directed to the Department of State’s Office of Overseas Citizens Services. Callers in the United States and Canada may dial the toll-free number 1-888-407-4747. Callers outside the United States and Canada may dial 1-202-501-4444.

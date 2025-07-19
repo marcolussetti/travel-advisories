@@ -2,4 +2,4 @@
 
 [#### Destination Description](javascript:void(0); "Destination Description")
 
-[Learn about the U.S. relationship to countries around the world.](https://www.state.gov/countries-and-areas-list/)
+Review the Department of State’s Fact Sheet on [Tajikistan](https://www.state.gov/countries-areas/tajikistan/) for information on U.S.-Tajikistan
