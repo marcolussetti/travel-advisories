@@ -1,13 +1,19 @@
 # Warnings and insurance
 
 Still current at:
-:   18 June 2025
+:   19 July 2025
 
 Updated:
-:   17 June 2025
+:   18 July 2025
 
 Latest update:
-:   Updated information about crime, protecting your belongings, LGBT+ travellers and transport risks ('Safety and security' page).
+:   State of Emergency declared (Safety and security page)
+
+## State of Emergency
+
+The Trinidad and Tobago Government declared a State of Public Emergency, effective from 18 July 2025.
+
+No curfew or restrictions on movement have been imposed. Expect heightened police and military presence as the State of Emergency gives the authorities additional powers of searching, arrest and detention. Always carry your ID and comply with local authorities.
 
 ## Before you travel
 

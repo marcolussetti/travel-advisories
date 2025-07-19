@@ -8,7 +8,7 @@ UK Counter Terrorism Policing has information and advice on [staying safe abroa
 
 ### Terrorism in Slovenia
 
-Although there’s no recent history of terrorism in Slovenia, attacks cannot be ruled out.
+Terrorist attacks in Slovenia cannot be ruled out.
 
 ## Laws and cultural differences
 

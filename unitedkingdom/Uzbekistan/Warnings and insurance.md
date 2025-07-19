@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   19 July 2025
 
 Updated:
-:   16 August 2024
+:   18 July 2025
 
 Latest update:
-:   FCDO now advises you to see our travel advice before travelling to the Afghanistan-Uzbekistan border region and information on a new unified emergency services number being introduced across the country over the course of 2024 ('Regional risks' and 'Getting help' pages).
+:   Addition of information about the risks of not carrying personal ID with you, prohibited materials and use of social media (‘Safety and security’ page).
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 

@@ -27,29 +27,28 @@ If you are travelling in areas where attacks have previously occurred, stay awar
 
 ## Political situation
 
-Avoid any demonstrations or large gatherings of people. Use caution and maintain a high level of security awareness, particularly in public places.
+Avoid demonstrations or large gatherings of people, which are likely to attract a heavy presence from security forces. Use caution and maintain a high level of security awareness, particularly in public places.
 
 ## Crime
 
-Muggings, pickpocketing and bag-snatching are common, especially in crowded places like bazaars and on public transport. Home burglaries and break-ins also happen, even in wealthier neighbourhoods.
+Pickpocketing and bag-snatching are common, especially in crowded places like bazaars and on public transport. Home burglaries and break-ins also happen, even in wealthier neighbourhoods.
 
 Use caution and take measures to reduce your personal risk, such as:
 
 * keep sight of your belongings at all times
 * be aware of thieves using distraction techniques
 * avoid carrying all your valuables together in one place e.g. handbags or pockets
+* exercise a similar level of caution as you would in the UK
 
 ## Laws and cultural differences
 
 ### Personal ID
 
-You must carry your passport with you at all times. This is a legal requirement in Uzbekistan, and the police often carry out checks.
+You must carry your passport with you at all times. This is a legal requirement in Uzbekistan, and the police often carry out checks. You can be fined or arrested for failing to do so.
 
 ### Illegal drugs and prison sentences
 
-Possession of drugs is illegal. You can get a long prison sentence if convicted.
-
-Prison sentences can be lengthy. While prison conditions have reportedly improved, reports of widespread hepatitis and tuberculosis as well as allegations of mistreatment of some prisoners by officials remain a concern.
+Possession of drugs is illegal. You can get a long prison sentence if convicted. While prison conditions have reportedly improved, reports of widespread hepatitis and tuberculosis as well as allegations of mistreatment of some prisoners by officials remain a concern.
 
 ### Alcohol laws
 
@@ -58,6 +57,18 @@ It is illegal to sell alcohol and tobacco to someone aged 20 or under.
 ### Taking photos in secure areas
 
 Any form of photography can upset the authorities, particularly photographs of government buildings. This includes the Palace of Forums in Tashkent and sometimes local bazaars not normally visited by tourists. While restrictions have been relaxed recently, you should check before taking photos, especially near airports, border checkpoints, military barracks, bridges, police stations and metro stations.
+
+### Prohibited material
+
+It is prohibited to bring material into Uzbekistan that could be considered as undermining the state. This includes material which promotes war, terrorism, religious hatred or racism and pornographic content.
+
+### Social media
+
+Be careful when posting images of your visit on social media, particularly in relation to images or comments about public buildings, the Uzbek flag, national food or customs. Disrespectful content, including criticism of the government, could result in fines or detention.
+
+### Ramadan
+
+Ramadan is a holy month for Muslims. The dates vary by year and country. Cafés and restaurants may amend their menus and be busy around fast-breaking (‘Iftar’). Areas around mosques are also likely to be busy around prayer times. Take particular care not to offend religious sensitivities at this time.
 
 ### LGBT+ travellers
 
@@ -69,9 +80,9 @@ Read more [advice for LGBT+ travellers](https://www.gov.uk/lesbian-gay-bisexual-
 
 The currency in Uzbekistan is the Uzbek so’m (or soum/som – UZS), and is not available in currency exchanges outside Uzbekistan.
 
-Bring enough cash for your entire stay. US dollars are the most easily exchanged foreign currency. Only change money through official exchange booths. It is illegal to change money on the black market, and there are harsh penalties. Official exchange booths will not accept damaged or marked bank notes.
+There are very few ATMs which accept international bank cards outside of the main cities. Bring enough cash for your entire stay, or withdraw cash from an ATM in a main city ahead of any planned travel to the regions. US dollars are the most easily exchanged foreign currency. Only change money through official exchange booths. It is illegal to change money on the black market, and there are harsh penalties. Official exchange booths will not accept damaged or marked bank notes, nor will they accept US dollars issued before 2013.
 
-There are very few ATMs which accept international debit and credit cards outside of the main cities. Internationally issued credit cards are not widely accepted outside Tashkent and the main cities. Travellers cheques are not normally accepted.
+Internationally issued credit cards are not widely accepted outside Tashkent and the main cities. Travellers cheques are not normally accepted.
 
 ## Transport risks
 
@@ -87,13 +98,13 @@ You should get your licence and IDP translated into either Russian or Uzbek to m
 
 Hire car companies often have stricter requirements for their customers, such as a year of driving experience, minimum age and holding an IDP.
 
-Take care as many roads have poor surfaces and bad lighting.
-
 Uzbekistan road laws require you:
 
 * to drive on the right
 * to wear seatbelts for drivers and all passengers
 * not to use a mobile phone while driving
+
+Roads often have poor surfaces and bad lighting. Driving standards are below those in the UK and can be erratic.
 
 ### Taxis and buses
 
@@ -106,13 +117,9 @@ Unlicensed taxis are still common, despite licensing laws. Many taxis do not hav
 
 Many buses and taxis in Uzbekistan run on compressed natural gas and safety regulations on these vehicles are often not followed. Where possible opt for modern vehicles.
 
-### Air travel
-
-On 19 May 2022, the UK introduced sanctions against the Russian airlines Aeroflot, Rossiya Airlines and Ural Airlines. It is now illegal under UK law for any British national to buy flight tickets from these airlines.
-
 ### Rail travel
 
-If you must travel overnight, keep valuables in a safe place. Do not leave your belongings in the compartment unattended. Lock the door from the inside. You’ll need to show your passport with a valid visa when booking train tickets.
+Take similar precautions as you would in the UK. If you must travel overnight, keep valuables in a safe place. Do not leave your belongings in the compartment unattended. Lock the door from the inside. You’ll need to show your passport with a valid visa when booking train tickets.
 
 ## Extreme weather and natural disasters
 

@@ -12,6 +12,8 @@ Police: 102
 
 A new unified emergency services number, 112, was introduced in 2024 to cover all emergency calls. The previous emergency numbers are still in operation.
 
+Uzbekistan also has a 24/7 tourist hotline, the “Call Centre for Safe Tourism”, on 1173, whose operators speak English as well as Uzbek and Russian, and can direct callers to locally available support.
+
 ## Contact your travel provider and insurer
 
 Contact your travel provider and your insurer if you are involved in a serious incident or emergency abroad. They will tell you if they can help and what you need to do.
@@ -44,9 +46,9 @@ See [how to get help from the UK government abroad](https://www.contact.service
 
 ### Help in the UK
 
-You can call FCDO in London if you need urgent help because something has happened to a friend or relative abroad.
+You can call FCDO in London if you need urgent help because something has happened to a friend or relative abroad.
 
-Telephone: 020 7008 5000 (24 hours)
+Telephone: +44 20 7008 5000 (24 hours)
 
 [Find out about call charges](https://www.gov.uk/call-charges)
 
