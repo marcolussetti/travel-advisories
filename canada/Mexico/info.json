@@ -1,7 +1,7 @@
 {
     "name": "Mexico",
-    "update_reason": "Risk levels \u2013 updated advisory for Chiapas",
-    "update_date": "2025-06-26T15:40:00",
+    "update_reason": "Safety and security \u2013 demonstrations in the Tlalpan district of Mexico City",
+    "update_date": "2025-07-19T15:19:00",
     "sections": {
         "risk": "canada/Mexico/risk.md",
         "security": "canada/Mexico/security.md",

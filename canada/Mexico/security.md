@@ -2,6 +2,17 @@
 
 ## Safety and security
 
+Anti-gentrification demonstrations are planned for July 20, 2025, in the Tlalpan district of Mexico City. Demonstrators will gather outside the Fuentes Brotantes Metrobus station at 3 p.m. before marching toward the El Caminero Metrobus station. There could be disruptions to public transportation and traffic.
+
+If you’re in the affected area:
+
+* avoid areas where demonstrations and large gatherings are taking place
+* expect a heightened security presence
+* follow the instructions of local authorities
+* monitor local media for information on ongoing demonstrations
+
+More on [demonstrations](#demonstrations)
+
 ### Crime
 
 ### Violent clashes in Culiacán, Mazatlán and surrounding areas
