@@ -76,7 +76,7 @@ To protect yourself from methanol poisoning you should:
 * check bottle seals are intact
 * check labels for poor print quality or incorrect spelling
 
-If the label, smell or taste seems wrong, do not drink the alcohol. These are signs it is illegal and could contain methanol. TravelHealthPro lists the [symptoms of methanol poisoning](https://www.travelhealthpro.org.uk/factsheet/25/personal-safety).
+If the label, smell or taste seems wrong, do not drink the alcohol. These are signs it is illegal and could contain methanol. TravelHealthPro lists the [symptoms of methanol poisoning](https://www.travelhealthpro.org.uk/factsheet/25/personal-safety). For more information about spiking and methanol poisoning, read Travel Aware’s information on [Spiking and methanol poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/).
 
 Seek [urgent medical attention](https://www.gov.uk/government/publications/list-of-medical-facilities-in-vietnam) if you or someone you are travelling with show signs of methanol poisoning.
 
@@ -113,8 +113,10 @@ You must always carry photographic ID. The authorities will accept a printed cop
 
 ### Illegal drugs penalties
 
-Penalties for possessing, using, distributing or manufacturing drugs (including cannabis), regardless of the amount involved, are severe.
-Convicted offenders can expect long jail sentences and heavy fines.
+Penalties for possessing, using, distributing or manufacturing drugs, including cannabis, regardless of the amount involved, are severe.
+You should expect a long jail sentence and heavy fines for possessing, using or smuggling illegal drugs, including when transiting through the airport.
+
+Airports in Vietnam have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
 
 The death penalty may also be imposed depending on the severity of the crime. Police periodically raid nightlife establishments suspected of engaging in the drug trade. You may be required to submit to drug testing if present during these raids.
 
@@ -247,6 +249,8 @@ Landmines and other unexploded weapons are a hazard in former battlefields. Area
 ## Extreme weather and natural disasters
 
 Find out what you can do to [prepare for and respond to extreme weather and natural hazards](https://www.gov.uk/guidance/tropical-cyclones).
+
+Storm Wipha is approaching northern Vietnam, with landfall forecast for Tuesday 22 July. Areas including Ha Long Bay, Ha Noi and Ninh Binh are forecast to be affected. You should expect heavy rainfall, strong winds, flooding, and mudslides in affected areas in the days after landfall. You should expect travel disruption and should follow advice from local authorities. For more regular updates, English-news versions of local newspapers are available at VNexpress ([https://e.vnexpress.net/](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fe.vnexpress.net%2F&data=05%7C02%7Cresponse%40fcdo.gov.uk%7C0770249adb1843ea2d9208ddc8138e8d%7Cd3a2d0d37cc84f52bbf985bd43d94279%7C0%7C0%7C638886708503840538%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=1UbPgZe2bwH7ewDPq439mfLye2JCDZh7NtfIjnPGFp4%3D&reserved=0)) and Vietnam News ([https://vietnamnews.vn/](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fvietnamnews.vn%2F&data=05%7C02%7Cresponse%40fcdo.gov.uk%7C0770249adb1843ea2d9208ddc8138e8d%7Cd3a2d0d37cc84f52bbf985bd43d94279%7C0%7C0%7C638886708503853809%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=3YcacNU12SNLNUIYcKVlxinROMB8A%2BL32jPWU7GbNVc%3D&reserved=0)).
 
 ### Tropical cyclones
 

@@ -1,13 +1,15 @@
 # Warnings and insurance
 
 Still current at:
-:   10 May 2025
+:   21 July 2025
 
 Updated:
-:   9 May 2025
+:   21 July 2025
 
 Latest update:
-:   Updated information about drug penalties including using cannabis, and random drug testing, and updated information about the Vietnamese legal system ('Safety and security' page).
+:   Update regarding Storm Wipha. Northern Vietnam affected, including Ha Long Bay.
+
+Storm Wipha is approaching northern Vietnam, with landfall forecast for Tuesday 22 July. Areas including Ha Long Bay, Ha Noi and Ninh Binh are forecast to be affected. You should expect heavy rainfall, strong winds, flooding, and mudslides in affected areas in the days after landfall. You should expect travel disruption and should follow advice from local authorities. For more regular updates, English-news versions of local newspapers are available at VNexpress ([https://e.vnexpress.net/](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fe.vnexpress.net%2F&data=05%7C02%7Cresponse%40fcdo.gov.uk%7C0770249adb1843ea2d9208ddc8138e8d%7Cd3a2d0d37cc84f52bbf985bd43d94279%7C0%7C0%7C638886708503840538%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=1UbPgZe2bwH7ewDPq439mfLye2JCDZh7NtfIjnPGFp4%3D&reserved=0)) and Vietnam News ([https://vietnamnews.vn/](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fvietnamnews.vn%2F&data=05%7C02%7Cresponse%40fcdo.gov.uk%7C0770249adb1843ea2d9208ddc8138e8d%7Cd3a2d0d37cc84f52bbf985bd43d94279%7C0%7C0%7C638886708503853809%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=3YcacNU12SNLNUIYcKVlxinROMB8A%2BL32jPWU7GbNVc%3D&reserved=0)).
 
 ## Before you travel
 
