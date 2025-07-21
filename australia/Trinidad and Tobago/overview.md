@@ -2,7 +2,7 @@
 
 Latest update
 
-We've reviewed our advice for Trinidad and Tobago and continue to advise exercise a high degree of caution due to the threat of violent crime. To reduce the risk of violent crime and petty theft, be aware of your surroundings at all times, particularly if you're attending a large-scale event (see 'Safety').   
+The Trinidad and Tobago government has declared a State of Emergency due to heightened criminal activity (see 'Safety'). There may be an increased police presence and minor disruptions, such as roadblocks. Curfews may be imposed at short notice. Monitor local media for updates and follow the advice of local authorities.  
   
 You require a visa to enter Trinidad and Tobago. You must apply for an e-visa at least 14 business days before travel. (see 'Travel')
 
@@ -26,6 +26,7 @@ See [Safety](#safety).
 
 ### Safety
 
+* The Trinidad and Tobago government has declared a State of Emergency due to heightened criminal activity. There may be an increased police presence and minor disruptions, such as roadblocks. Curfews may be imposed at any time. Monitor local media and follow the advice of local authorities.
 * Violent crime such as murder, kidnapping, shootings, armed robbery, rape, carjacking and home invasions are common. Take care at all times when travelling by road and using ATMs, especially after dark.
 * Gang and drug-related crime is also common and can affect travellers and expatriates.
 * Bag snatching, pickpocketing and theft from cars is common. Keep valuables out of sight, your car doors locked, and car windows up.

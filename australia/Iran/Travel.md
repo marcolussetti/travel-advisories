@@ -2,29 +2,9 @@
 
 #### Border crossings from Iran
 
-Requirements for border crossings from Iran may change without notice. Check the latest public information from local authorities on entry requirements and border arrangements.
+Requirements for border crossings from Iran may change without notice. Check the latest public information from local authorities on entry requirements and border arrangements. 
 
-[Azerbaijan](https://www.smartraveller.gov.au/destinations/europe/azerbaijan)
-
-For Australians travelling from Iran, Azerbaijan authorities have reopened the crossing on its southern border at Astara for 'exceptional' crossing by third-country nationals. You will need both a visa and a border crossing code to enter Azerbaijan.  
-  
-We must register your details with Azerbaijan authorities to get the border crossing code (for Australian passport holders, permanent residents and immediate family members). This is different to a visa. Contact the Australian Embassy in Türkiye ([consular.ankara@dfat.gov.au](mailto:consular.ankara@dfat.gov.au)). It can take up to 4 business days or longer for a border crossing code to be issued by Azerbaijan authorities.
-
-For Australian citizens, you will need to provide your full name, passport number, your e-visa for Azerbaijan, and contact details for all individuals seeking to transit. If possible, send a scan of your Australian passport biodata page.
-
-For Australian permanent residents, provide your full name, passport number, your e-visa for Azerbaijan, and contact details for all individuals seeking to transit. If possible, send a scan of your passport biodata page and proof of permanent residence in Australia.
-
-Internet and telephone connectivity in Iran, including at the Azerbaijan border, can be very poor. We encourage you to pre-arrange onward transport and accommodation from the border to Baku. Baku has more services available and is closer to the international airport.
-
-[Türkiye](https://www.smartraveller.gov.au/destinations/europe/turkiye)
-
-You will need permission from Türkiye’s Ministry of Foreign Affairs to enter Türkiye from Iran by land. You may be issued a transit visa with a maximum validity of five days for onwards travel. For assistance, contact the [Australian Embassy in Ankara](https://turkey.embassy.gov.au/). Border crossings at Gurbulak (Bazargan) in Agri province and Kapikoy (Razi) in Van province remain open to third country nationals holding a valid visa to enter Türkiye (Australians can apply online for e-visas).
-
-[Armenia](https://www.smartraveller.gov.au/destinations/europe/armenia)
-
-The border crossing between Iran and Armenia is open at Agarak. Border crossings into a neighbouring country may open and close at short notice. Check the latest public information from local authorities on entry requirements and border arrangements. 
-
-Australians do not need a visa for Armenia for stays of up to 180 days per year.  See our travel advice for Armenia for advice on safety concerns for some nearby Armenian border regions.
+For further information on travelling across neighbouring borders, see our travel advice for [Azerbaijan](https://www.smartraveller.gov.au/destinations/europe/azerbaijan), [Türkiye](https://www.smartraveller.gov.au/destinations/europe/turkiye) and [Armenia](https://www.smartraveller.gov.au/destinations/europe/armenia). We continue to advise do not travel to Iraq or Afghanistan.
 
 #### Visas and border measures
 

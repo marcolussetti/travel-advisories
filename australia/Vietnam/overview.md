@@ -2,7 +2,7 @@
 
 Latest update
 
-We continue to advise exercise normal safety precautions. You can apply online for an eVisa for tourism or business. You must have a visa before travelling to Vietnam and ensure your visa details are correct before you travel (See 'Travel').
+You can apply online for an eVisa for tourism or business. You must have a visa before travelling to Vietnam and ensure your visa details are correct before you travel (See 'Travel').
 
 Advice Level summary
 
@@ -46,7 +46,7 @@ Full travel advice: [Health](#health)
 ### Local laws
 
 * Don’t use or carry illegal drugs, including marijuana. Penalties for drug offences include the death penalty and life imprisonment. Never carry parcels or luggage for others. It is a crime to have drugs in your system, and you can also be charged for using drugs, even if it was outside of Vietnam.
-* Get professional legal advice before signing any contract. If you're in a business or civil dispute, officials could stop you leaving Vietnam until it’s resolved.
+* Vietnamese authorities may place an exit ban on certain individuals to prevent them from leaving the country. You may be subject to an exit ban because of an ongoing investigation, legal matter, business or commercial dispute, until the matter is resolved.
 * It's illegal to gamble in a non-government licensed casino or possess pornography. Non-state sanctioned political or religious activity or material, or involvement with groups perceived by the Government of Vietnam to be associated with dissident groups, is also illegal.
 * It’s illegal to export antiques without a permit. Get a permit from the [Ministry of Culture, Sports and Tourism](https://english.bvhttdl.gov.vn/). It’s illegal to photograph border areas or military sites. Be careful when taking photos.
 * Possessing or distributing images or objects linked to the former Republic of Vietnam, including commemorative or Vietnam War service-related items, is an offence that could attract harsh penalties.

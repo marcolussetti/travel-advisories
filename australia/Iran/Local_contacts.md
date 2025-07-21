@@ -38,14 +38,13 @@ For consular assistance, contact the Australian Embassy in Tehran.
 
 #### Australian Embassy
 
-#### \*\*Due to the deteriorating security environment in Iran, the Australian Embassy is closed.\*\*
+**The Australian Embassy in Tehran has re-opened but can only provide limited consular and passport assistance in Iran at this time. All in-person services are by appointment only.**
 
 No.11, Yekta Street  
 Bahar Street, Shahid Fallahi Street  
 Valie Asr Avenue  
 Tehran, Iran
 
-Phone: +98 21 7206 8666  
 Website: [iran.embassy.gov.au](http://www.iran.embassy.gov.au/)  
 Facebook: [Australia in Iran](https://www.facebook.com/AustraliaInIran)  
 Instagram: [@AustraliaInIran](https://www.instagram.com/australiainiran/)

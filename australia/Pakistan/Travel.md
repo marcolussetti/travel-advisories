@@ -106,6 +106,8 @@ Pakistan is primarily a cash-based society, but this is changing with the broade
 
 #### Local travel
 
+All land border crossing points between Pakistan and India are closed. If you have plans to travel to India from Pakistan, reconsider your route and follow the advice of local authorities.
+
 #### Driving permit
 
 To drive in Pakistan, you need both:

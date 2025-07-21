@@ -2,6 +2,8 @@
 
 #### Crime
 
+On 18 July 2025, the Trinidad and Tobago government declared a State of Emergency due to heightened criminal activity. There may be an increased police presence and minor disruptions, such as roadblocks. Curfews may be imposed at any time. Monitor local media and follow the advice of local authorities.
+
 Violent crime is common, including against travellers and expatriates. Incidents include:
 
 * murders

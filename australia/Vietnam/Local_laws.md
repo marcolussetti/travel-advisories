@@ -57,6 +57,21 @@ If you're involved in a business or civil dispute, authorities could stop you fr
 * [Doing business in Vietnam](https://export.business.gov.au/find-export-markets/market-explorer-tool/market-explorer-results/all/all/vnm)
 * [Living or working overseas](/before-you-go/activities/living-overseas "Going overseas to live or work")
 
+#### Exit bans
+
+Vietnamese authorities may place an exit ban on certain individuals to prevent them from leaving the country.
+
+An exit ban can relate to investigations into:
+
+* an individual, their family or an employer
+* criminal and civil matters, such as business disputes or motor vehicle accidents
+* employment without a valid work permit
+* unpaid financial debts
+
+People involved in any of these circumstances can request an exit ban. You may not be aware that authorities have placed an exit ban on you until you try to leave the country. Your passport may be seized until the case is fully investigated and settled.
+
+If you are subject to an exit ban because of an ongoing investigation, legal matter or business/commercial dispute, get professional legal advice.
+
 #### Employment
 
 Disputes over alleged misrepresentation of working and living conditions for Australians working in Vietnam often happen. This is especially the case for people teaching English.
