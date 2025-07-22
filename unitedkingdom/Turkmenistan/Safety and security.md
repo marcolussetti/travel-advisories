@@ -12,31 +12,21 @@ Although there’s no recent history of terrorism in Turkmenistan, attacks canno
 
 ## Border restrictions
 
-Turkmen land border crossings can be subject to occasional and unannounced closures. The borders with Afghanistan and Iran are particularly sensitive.
+Turkmen land border crossings can be subject to occasional and unannounced closures. The borders with Afghanistan and Iran are particularly sensitive, with access to areas near these borders being tightly restricted.
 
 ## Laws and cultural differences
 
 ### Personal ID
 
-Police sometimes carry out checks of identity documents. Always carry a copy of the photo page and the visa page of your passport, and keep your passport separately in a safe place.
+Police sometimes carry out checks of identity documents. Always carry your passport on you. Keep a copy of the photo page of your passport and your letter of invitation in a safe place.
+
+### Crime
+
+Whilst the crime rate is low, you should exercise a similar level of caution as you would in the UK.
 
 ### Ramadan
 
-Turkmenistan is a majority Muslim country. Ramadan is a holy month for Muslims. The dates vary by year and country. In 2025, Ramadan is expected to start around the end of February and finish around the end of March. During this time, do not:
-
-* eat, drink, smoke or chew gum in public in the daytime, including in a car or taxi
-* play loud music or dance
-* wear revealing clothes
-* swear in public
-
-You should also:
-
-* check opening hours of shops and restaurants
-* be aware that if hotels and restaurants are providing food or drink in fasting hours, they may separate you from Muslim guests, for example with screens
-* be aware that driving may be erratic, particularly when people are trying to get home at dusk
-* be patient and show tolerance
-
-Get more advice from your tour guide, hotel or business contacts.
+Ramadan is a holy month for Muslims. The dates vary by year and country. Cafés and restaurants may amend their menus and be busy around fast-breaking (‘Iftar’). Areas around mosques are also likely to be busy around prayer times. Take particular care not to offend religious sensitivities at this time.
 
 ### Alcohol laws and bans
 
@@ -60,7 +50,7 @@ If you’re found guilty of possession or use of illegal drugs, you could face a
 
 ### Taking photos in secure areas
 
-Check before taking photos of or near airports, military infrastructure, police stations, government buildings or embassies. The guards at the presidential palace may tell you not to take photos of it.
+It is illegal to take pictures of certain buildings. Check before taking photos of or near airports, military infrastructure, police stations, government buildings or embassies. The guards at the presidential palace may tell you not to take photos of it.
 
 The Turkmen can be sensitive about having their picture taken without their consent.
 
@@ -69,6 +59,10 @@ The Turkmen can be sensitive about having their picture taken without their cons
 Internet connections outside the larger hotels can be unreliable. Many social media apps and websites are blocked, including YouTube, X, Facebook and WhatsApp. Access to Yahoo, Gmail and Hotmail is often difficult. VPNs are illegal in Turkmenistan and are usually blocked as soon as the authorities identify them.
 
 There is a single state-owned mobile telephone provider, Altyn Asyr, which uses the TM CELL brand. Altyn Asyr does not provide a roaming service and the quality of the network is low.
+
+Comments, including content posted on social media, interpreted as being negative about Turkmenistan’s political system and traditions are taken very seriously and may constitute an offence. Many Turkmen are uncomfortable discussing politics.
+
+It is illegal to take pictures of certain buildings. Ask before taking pictures of anything of possible military or security interest, including government buildings and food markets.
 
 ### Relationships with Turkmens
 
@@ -92,9 +86,9 @@ Driving standards are poor. Road travel at night outside cities is particularly 
 
 ### Taxis
 
-Licensed taxis are clearly identified and are white or yellow. Avoid unlicensed taxis.
+Licensed taxis are clearly identified by white and green markings. Avoid unlicensed taxis.
 
-Although taxis have meters, drivers will usually ask foreign nationals for a fee of around 20 manat. They might also ask for payment in US dollars, but this is illegal. Most taxi drivers do not speak much English.
+Although taxis have meters, drivers will usually charge foreign nationals around 20 manat for a journey within the city centre. They might ask for payment in US dollars, but this is illegal. Most taxi drivers do not speak much English.
 
 ## Extreme weather and natural disasters
 
@@ -102,7 +96,7 @@ Find out what you can do to [prepare for and respond to extreme weather and natu
 
 ### Earthquakes
 
-There is a risk of earthquakes – usually tremors, but stronger earthquakes have happened too. Ashgabat was largely destroyed by an earthquake in 1948, when up to 100,000 people were killed.
+Turkmenistan is in an active seismic zone. There are regular tremors and there have been strong earthquakes.
 
 The US Federal Emergency Management Agency has [advice about what to do before, during and after an earthquake](http://www.ready.gov/earthquakes).
 

@@ -1,11 +1,11 @@
 {
     "name": "Colombia",
-    "update_reason": "Addition of information following explosive devices detonated around Cauca and Valle de Cauca departments, including in the city of Cali (\u2018Warnings and Insurance\u2019 Page)",
+    "update_reason": "Removal of information about explosive devices being detonated around Cauca and Valle de Cauca departments, including in the city of Cali.",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Colombia/Warnings and insurance.md",
-            "update_date": "2025-06-11T01:02:52+01:00"
+            "update_date": "2025-07-21T14:13:09+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Colombia/Getting help.md"
         }
     ],
-    "update_date": "2025-06-11T01:02:52+01:00"
+    "update_date": "2025-07-21T14:13:09+01:00"
 }

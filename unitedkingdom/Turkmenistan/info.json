@@ -1,11 +1,11 @@
 {
     "name": "Turkmenistan",
-    "update_reason": "Removal of information on entering Turkmenistan across the land border from Iran.",
+    "update_reason": "This advice has been reviewed throughout, and includes updates to the entry requirements section, and about taking photographs or using social media (\u2018Entry requirements\u2019 and \u2018Safety and security\u2019 pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Turkmenistan/Warnings and insurance.md",
-            "update_date": "2025-07-07T16:48:20+01:00"
+            "update_date": "2025-07-21T10:48:40+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Turkmenistan/Getting help.md"
         }
     ],
-    "update_date": "2025-07-07T16:48:20+01:00"
+    "update_date": "2025-07-21T10:48:40+01:00"
 }

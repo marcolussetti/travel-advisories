@@ -6,7 +6,7 @@ The authorities in Turkmenistan set and enforce entry rules. If you’re not sur
 
 ## COVID-19 rules
 
-While Turkmenistan doesn’t require COVID-19 vaccination, all travellers must undergo a COVID-19 test upon arrival, which costs about 31 US dollars.
+You do not require a COVID-19 vaccination to enter Turkmenistan. All travellers by air must undergo a COVID-19 test upon arrival at Ashgabat airport, which costs 31 US dollars cash. There is no test if you enter by land or sea.
 
 Confirm the latest requirements with your Turkmen sponsor, or with the embassy that issued your visa if you have one. Check with your travel company or airline for changes.
 
@@ -26,21 +26,27 @@ If you have the wrong visa or if you overstay your visa, you could be prosecuted
 
 ### Applying for a visa
 
-Contact the [Embassy of Turkmenistan in London](https://uk.tmembassy.gov.tm/en) at least a month ahead of your intended travel date.
+You need a letter of invitation to support your visa application. For tourist visits, authorised travel agents can provide these letters. If you are travelling on business, you will need letters from the relevant government ministries or companies you want to do business with. If you want to attend an exhibition or event, the organiser normally provides visa support.
 
-You need a letter of invitation to support your application. For tourist visits, authorised travel agents can provide these letters. If you are travelling on business, you will need letters from the relevant government ministries or companies you want to do business with. If you want to attend an exhibition or event, the organiser normally provides visa support.
+Once you have your letter of invitation you can either apply for a visa at your nearest Embassy of Turkmenistan or purchase a visa on arrival. The visa on arrival option is only available if entering the country by air to Ashgabat International Airport.
 
-You should keep your letter of invitation with you when you are in Turkmenistan.
+Visas applications to an Embassy of Turkmenistan are referred to Ashgabat for a decision, which can take up to a month.
 
-The Embassy of Turkmenistan will refer your visa application to Ashgabat for a decision, which can take up to a month. There is an accelerated 24-hour service costing about 150 US dollars.
+The cost of a visa is dependent on the length of stay in Turkmenistan, whether you are applying for a single or multiple entry visa and whether or not you are opting for the “Express Service” from the Embassy or visa on arrival option at Ashgabat airport. For a full list of prices for visas visit [the Embassy of Turkmenistan website of the Embassy of Turkmenistan](https://uk.tmembassy.gov.tm/en/consular-services/visa-info) in London where a PDF document called “Visa Fees” outlines the range of prices for visas.
 
 ### Transit visas and travelling through Turkmenistan by car
 
-You can use a transit visa if you will be in Turkmenistan for less than 5 days. You cannot change your transit visa to a tourist visa, and you must notify the authorities if you intend to change your route.
+If you will be in Turkmenistan for fewer than 5 days you may also be able to use a transit visa. These are most commonly used for entry to Turkmenistan through a land border, for example if travelling overland from Uzbekistan.
 
-You cannot buy a transit visa at Baku seaport. If you want to travel to Azerbaijan by sea, you need to have visas for both Turkmenistan and Azerbaijan.
+Transit visas follow the same letter of invitation process as visit visas and you must secure the visa before you travel. Transit visas can’t be obtained on arrival at the border crossing.
 
-You’ll be charged up to 150 US dollars to bring a car into Turkmenistan by land or sea.
+The [website of the Embassy of Turkmenistan in London](https://uk.tmembassy.gov.tm/en/consular-services/visa-info) sets out the eligibility criteria for a transit visa. You cannot change your transit visa to a tourist visa, and you must notify the authorities if you intend to change your route.
+
+You cannot buy a transit visa for Turkmenistan at Baku seaport. You must secure it ahead of time. If you want to travel from Turkmenistan to Azerbaijan by sea, you need to have visas for both Turkmenistan and Azerbaijan.
+
+You will be charged up to 150 US dollars to bring a car into Turkmenistan by land or sea.
+
+A transit visa is not usually required for layover flights where you will remain airside. You should contact the [Embassy of Turkmenistan in London](https://uk.tmembassy.gov.tm/en/) or your airline with further questions.
 
 Border officials may close Turkmen border crossings without notice.
 
@@ -50,13 +56,19 @@ For details about medical entry requirements and recommended vaccinations, see [
 
 ## Registering with the authorities
 
-If you’re staying for more than 3 days, you must register with the State Migration Service of Turkmenistan within 3 days of your arrival. Your hotel will usually register you, but if you are staying in private accommodation you’ll need to go and register in person.
+If you’re staying in the country for more than 3 working days, you must register with the State Migration Service of Turkmenistan within 3 days of your arrival. Your hotel or sponsor will usually register you. Confirm this with them before you travel, including what documentation is required.
 
-In Ashgabat, register at the office at 57 Azadi Street. If you’re not staying in Ashgabat, you should register at the local department office. You must provide 2 passport-size photos and provide confirmation of your departure date from your employer or sponsor.
+To register, you will usually need:
+
+* your passport
+* 2 passport-size photos, and
+* written confirmation of where you are staying from your sponsor
 
 ### Taxes for foreign nationals
 
 On arrival, you must pay a migration fee of 14 US dollars. All foreign visitors must also pay a ‘tourism tax’ of 2 US dollars for each day of their stay in Turkmenistan. Hotels include the tax as a separate item on your bill.
+
+You may be charged additional taxes on entry, bring enough cash (US dollars) to cover unexpected charges.
 
 ## Customs rules
 

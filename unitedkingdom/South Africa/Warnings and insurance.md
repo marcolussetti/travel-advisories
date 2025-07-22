@@ -1,13 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   24 June 2025
+:   22 July 2025
 
 Updated:
-:   23 June 2025
+:   21 July 2025
 
 Latest update:
-:   Updated information on visa requirements (‘Entry Requirements’ page); nightlife and dating, airport crime, vehicle crime, illegal drugs and cannabis laws and driving rules and standards ('Safety and security' page).
+:   FlySafair planned pilot strikes from 21 July until 3 August may cause disruption to internal and regional flights (‘Warnings and insurance’ page).
+
+## FlySafair pilot strike
+
+FlySafair pilots have announced plans to strike from 21 July until 3 August, which may cause flight disruptions for internal and regional flights. Check your booking with FlySafair or your tour operator ahead of your intended travel.
 
 ## Before you travel
 

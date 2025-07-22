@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 June 2025
+:   22 July 2025
 
 Updated:
-:   11 June 2025
+:   21 July 2025
 
 Latest update:
-:   Addition of information following explosive devices detonated around Cauca and Valle de Cauca departments, including in the city of Cali (‘Warnings and Insurance’ Page)
+:   Removal of information about explosive devices being detonated around Cauca and Valle de Cauca departments, including in the city of Cali.
 
 ![](https://assets.publishing.service.gov.uk/media/67c05135b0bb6528ee866b96/FCDO_TA_054_-_Colombia_Travel_Advice_Ed3_WEB.jpg)
 
@@ -15,10 +15,6 @@ Latest update:
 [Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/67c0513672e83aab48866ba1/FCDO_TA_054_-_Colombia_Travel_Advice_Ed3.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
-
-### Explosive devices detonated around Cauca and Valle de Cauca departments, including in the city of Cali
-
-On 10 June, several explosive devices were detonated in and around Cauca and Valle de Cauca departments, including the city of Cali. Local authorities are investigating. Road closures and obstructions should be expected. You should continue to monitor media and follow advice from local authorities. See [safety and security](https://www.gov.uk/foreign-travel-advice/colombia/safety-and-security).
 
 ## Areas where FCDO advises against all but essential travel
 
