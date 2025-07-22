@@ -14,7 +14,15 @@ As terrorists could attempt further attacks, and such attacks could include plac
 
 ### **Safety on Balconies**
 
-There have been a number of serious accidents in recent years involving falls from balconies.  Several of these have resulted in the death or serious injury of an Irish citizen. It is important to exercise caution when using hotel and apartment balconies, particularly if you have consumed alcohol or drugs, and to avoid taking unnecessary risks. If you suffer a balcony fall while under the influence of alcohol or drugs, your insurance company may refuse to cover any resultant costs. You should also be aware that the Spanish authorities may impose fines on those engaged in risky behaviour on balconies, including climbing over them or jumping from them.
+There have been a number of serious accidents in recent years involving falls from balconies.  Several of these have resulted in the death or serious injury of an Irish citizen. It is important to exercise caution when using hotel and apartment balconies, particularly if you have consumed alcohol or drugs, and to avoid taking unnecessary risks. If you suffer a balcony fall while under the influence of alcohol or drugs, your insurance company may refuse to cover any resultant costs. You should also be aware that the Spanish authorities may impose fines on those engaged in risky behaviour on balconies, including climbing over them or jumping from them. Children should always be supervised when on or near a balcony.
+
+### **Water Safety**
+
+There can be risks associated with water activities. Sadly, each year people drown in the sea and in swimming pools in Spain. Always make sure to take sensible precautions when swimming or enjoying water activities. Closely supervise children in or around any body of water at all times.
+
+Spanish beaches can have strong undercurrents, hidden rocks, or shallow depths. Do not dive into unknown water. In Spain, many beaches have a flag system. It is important that you understand the system and follow any warnings.
+
+Water Safety Ireland provide comprehensive guidance on pool safety, beach safety, safe swimming tips, water sports and more. Before you travel, familiarise yourself with the [**advice from Water Safety Ireland**](https://watersafety.ie/recreation/).
 
 ### **Crime**
 
@@ -59,7 +67,9 @@ There are two main police forces in Spain:
 * The Policía Nacional (National Police) is the nationwide metropolitan police agency of Spain. It deals with criminal, judicial, terrorism and immigration matters. They can be contacted by dialling 091.
 * The Guardia Civil (Civil Guard) operates mainly in rural areas. It has both military and civilian functions. They can be contacted by dialling 062.
 
-In most urban areas, there is also the Policia Local (dial 092), which is responsible for traffic inside the cities and minor crime.
+There are also regional police forces in the Basque Country (‘Ertzaintza’), Catalonia (‘Mossos d’Esquadra’), and Navarra (‘Policía Foral’).
+
+In most urban areas, there is the Policía Local (dial 092), which is responsible for traffic inside the cities and minor crime.
 
 ### **Reporting a Crime**
 
@@ -74,6 +84,8 @@ You can make a police report either:
 1. **In person:** At the nearest police station. English language interpreters are not always available at short notice so you should consider bringing a Spanish-speaking person with you.
 
 2.**Online:**You can also make a [**police report online**](https://denuncias.policia.es/OVD/?lang=en_GB). Some crimes, especially more serious crimes involving physical violence, must be reported in person.
+
+Some Spanish cities have a Police Foreign Tourist Assistance Service [**(‘Servicio de Atención al Turista Extranjero – SATE’)**](https://www.policia.es/_es/dependencias_localizador_accesible.php) where crimes can be reported in English.
 
 ### **Driving**
 

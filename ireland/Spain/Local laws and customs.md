@@ -18,7 +18,9 @@ For Irish citizens, acceptable forms of state-issued photo ID include a passport
 
 ### **Arrest and Detention**
 
-If you're arrested by the Spanish police at any stage, please ensure that all judicial matters against you are resolved before you leave Spain and that you have paid any fines. Otherwise, you may be detained when you come back to Spain and you may incur further fines or even a prison sentence. Information on consular assistance available to you if you are arrested can be found on the [**Irish Embassy's website**](/en/spain/madrid/).
+If you are arrested by the Spanish police at any stage, please ensure that all judicial matters against you are resolved before you leave Spain and that you have paid any fines. Otherwise, you may be detained when you come back to Spain and you may incur further fines or even a prison sentence. Information on consular assistance available to you if you are arrested can be found on the [**Irish Embassy's website**](/en/spain/madrid/).
+
+Please be aware that ignoring direct requests from the police can be considered as disobedience, which is a criminal offence in Spain.
 
 ### **Buying Property in Spain**
 

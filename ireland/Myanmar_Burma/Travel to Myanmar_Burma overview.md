@@ -4,12 +4,6 @@
 
 Do Not Travel
 
-### **Travel Alert**
-
-The Embassy is aware of the earthquake in Myanmar, also felt in Thailand. Any citizens currently in Thailand or Myanmar and in need of consular assistance can contact the Embassy on +66 2 016 1360. For those in Ireland concerned about those travelling in the region, please contact the Department of Foreign Affairs and Trade Consular Assistance line at +353 1 408 2527.
-
-We encourage citizens to follow the instructions of local authorities in the event of an emergency.
-
 ### **General Travel Advice**
 
 The Department of Foreign Affairs and Trade strongly advises against all travel to Myanmar at this time and continues to monitor the ongoing situation in the country since the February 2021 military coup.

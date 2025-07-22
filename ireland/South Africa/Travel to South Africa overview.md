@@ -8,7 +8,7 @@ High Degree of Caution
 
 Irish citizens who are planning to visit South Africa for less than 90 days, do not require a visa. If you wish to visit for longer than 90 days please consult your nearest [**Embassy or Consulate**](/en/dfa/embassies-in-ireland/) of South Africa before travelling.
 
-A valid passport is required for travel to South Africa and Irish passports should have a minimum validity of 30 days from your intended date of departure from South Africa. Passport cards cannot be used. Your passport must have at least two blank pages and must not be damaged in any way. If your passport fails on either count, it will be not be accepted by the South African authorities.
+A valid passport is required for travel to South Africa and Irish passports should have a minimum validity of 6 months from your intended date of departure from South Africa. Passport cards cannot be used. Your passport must have at least two blank pages and must not be damaged in any way. If your passport fails on either count, it will be not be accepted by the South African authorities.
 
 There is a very high level of crime, including violent crime, in South Africa. The most violent crimes tend to occur away from the normal tourist destinations, but you should take sensible precautions to protect your safety. Crime increases in areas where large crowds gather, so be particularly vigilant if you're attending sporting or other events that attract large numbers. (See Safety and Security)
 

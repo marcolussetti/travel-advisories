@@ -2,7 +2,7 @@
 
 ### **Earthquakes**
 
-Myanmar can experience extreme weather conditions and earthquakes. A strong 6.7 magnitude earthquake struck northeast India near the border with Myanmar and Bangladesh, on 4 January, 2016. A 6.8 Magnitude struck in the Bagan region in August 2016 and 4.7 most recently on the border with China in April 2017. If travelling to or living in Myanmar, make sure you know what to do in the event of an earthquake.
+Myanmar is an earthquake zone and can experience extreme weather conditions and earthquakes. A strong 7.7 magnitude earthquake struck central Myanmar on 28 March 2025, resulting in many fatalities. There continues to be ongoing seismic activity in the region. If travelling to or living in Myanmar, make sure you know what to do in the event of an earthquake.
 
 ### **Cyclones**
 

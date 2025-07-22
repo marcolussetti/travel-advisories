@@ -6,7 +6,11 @@ Normal Precautions
 
 ### Travel Alert
 
-Spain can at times experience extreme weather conditions, including flooding, which can adversely affect travel plans. You can monitor information and alerts, including severe weather warnings, on the website of the Spanish Meteorological Agency, [**AEMET**](https://www.aemet.es/en/portada). Citizens are advised to check the latest weather information before they travel and to follow the advice of the local authorities.
+Spain can at times experience extreme weather conditions. During the extended summer months in Spain, many parts of the country will experience heatwaves with exceptionally high temperatures. You can monitor information and alerts, including severe weather warnings, on the website of the Spanish Meteorological Agency, [**AEMET**](https://www.aemet.es/en/portada). Citizens are advised to check the latest weather information before they travel and to follow the advice of the local authorities.
+
+The HSE has advice on heat health, which can be found on their [**website**](https://www.hpsc.ie/news/title-24973-en.html).
+
+The occurrence of wildfires during periods of warm and dry weather is common in Spain. For more advice on this, please visit the section below on ‘Natural disasters and climate’.
 
 As part of their Safe Tourism campaign, the Spanish National Police have published useful information for tourists, which can be found on their [**website**](https://www.policia.es/miscelanea/participacion_ciudadana/pasaporte_turista_2024.pdf)**.**
 
