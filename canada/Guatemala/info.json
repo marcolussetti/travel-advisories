@@ -1,7 +1,7 @@
 {
     "name": "Guatemala",
-    "update_reason": "Natural disasters and climate \u2013 added information on a series of earthquakes",
-    "update_date": "2025-07-11T14:30:00",
+    "update_reason": "Health \u2013 editorial change",
+    "update_date": "2025-07-21T10:55:00",
     "sections": {
         "risk": "canada/Guatemala/risk.md",
         "security": "canada/Guatemala/security.md",

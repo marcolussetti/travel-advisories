@@ -4,7 +4,7 @@
 
 ### Demonstrations in Luanda
 
-On July 12, 2025, demonstrations took place in Luanda. Further demonstrations could occur in the coming days.
+Demonstrations are scheduled to take place in Luanda on July 26, 2025. Gatherings and demonstrations may also occur before or after this date.
 
 Even peaceful demonstrations can turn violent at any time. They can also lead to disruption to traffic and public transportation.
 

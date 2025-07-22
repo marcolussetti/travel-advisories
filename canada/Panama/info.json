@@ -1,7 +1,7 @@
 {
     "name": "Panama",
-    "update_reason": "Safety and security \u2013 updated information on the situation in Bocas del Toro Province",
-    "update_date": "2025-07-04T10:23:00",
+    "update_reason": "Health \u2013 editorial change",
+    "update_date": "2025-07-21T11:02:00",
     "sections": {
         "risk": "canada/Panama/risk.md",
         "security": "canada/Panama/security.md",

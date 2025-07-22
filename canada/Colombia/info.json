@@ -1,7 +1,7 @@
 {
     "name": "Colombia",
-    "update_reason": "Safety and security \u2013 removed information about attacks on June 10 and July 4",
-    "update_date": "2025-07-07T13:32:00",
+    "update_reason": "Health \u2013 editorial change",
+    "update_date": "2025-07-21T11:32:00",
     "sections": {
         "risk": "canada/Colombia/risk.md",
         "security": "canada/Colombia/security.md",

@@ -1,7 +1,7 @@
 {
     "name": "El Salvador",
-    "update_reason": "Need help? \u2013 removed information on the temporary unavailability of in-person services",
-    "update_date": "2025-07-14T10:55:00",
+    "update_reason": "The Need help? section was updated.",
+    "update_date": "2025-07-21T14:15:00",
     "sections": {
         "risk": "canada/El Salvador/risk.md",
         "security": "canada/El Salvador/security.md",

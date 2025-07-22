@@ -24,3 +24,15 @@ If you decide to travel to a coastal area during the hurricane season despite th
 * [Severe storms outside Canada](https://travel.gc.ca/travelling/health-safety/hurricanes-typhoons-cyclones-monsoons )
 * [Large-scale emergencies outside Canada](https://travel.gc.ca/assistance/emergency-info/large-scale-emergencies-abroad)
 * [Active storm tracking and hurricane watches and warnings](http://www.nhc.noaa.gov/) – U.S. National Hurricane Center
+
+### Wildfires
+
+High temperatures create dry conditions, which can lead to large fires throughout The Bahamas, particularly between March and May.
+
+Heavy smoke may deteriorate the air quality in areas near active fires.
+
+In case of a major fire:
+
+* stay away from the affected areas, particularly if you suffer from respiratory ailments
+* monitor local media for the latest information
+* follow the instructions of local authorities, including evacuation orders
