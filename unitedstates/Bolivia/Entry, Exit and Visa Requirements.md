@@ -11,6 +11,7 @@ All U.S. citizens visiting Bolivia are required to obtain a visa. Most types of 
 * With a visitor visa, you may stay 30 days per trip, not to exceed 90 days per year. A Bolivian visitor visa costs $160 US and can be paid in U.S. or local currency upon arrival.
 * Visitors must show proof of a round-trip ticket or confirmation of plans to depart Bolivia.
 * Visitors must provide proof of lodging in Bolivia including the address of the accommodation. If you are staying with friends or family, authorities may require a letter of invitation from the host.
+* Visitors must provide proof of economic solvency (i.e., photocopy of bank statements, etc.)
 * If you purchase a visa at the airport, you will be required to provide a photocopy of your passport biographic page.
 * If you plan to work, study, volunteer, or conduct business in Bolivia, you must apply for a separate visa.
 * Make sure you get entry and exit stamps from the Bolivian authorities every time you enter or leave Bolivia.
