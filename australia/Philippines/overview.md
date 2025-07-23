@@ -2,7 +2,7 @@
 
 Latest update
 
-A southwest monsoon has caused heavy rain, flooding and strong winds across metro Manila and surrounding areas. There may be disruptions to transport, including flights. Monitor local media for updates and follow the instructions of local authorities. The Australian Embassy will be closed on 22 July (see 'Safety').  
+A southwest monsoon has caused heavy rain, flooding and strong winds across metro Manila and surrounding areas. There may be disruptions to transport, including flights. Monitor local media for updates and follow the instructions of local authorities. The Australian Embassy will be closed on 23 July (see 'Safety').  
   
 Terrorist attacks could occur anywhere in the Philippines. Possible targets include aviation and airports, public transport, hotels, shopping malls, restaurants, major events, places of worship and tourist areas (see 'Safety'). Do not travel to central and western Mindanao, including the Zamboanga Peninsula, Sulu Archipelago and the southern Sulu Sea area due to the very high threat of terrorism and kidnapping.
 
@@ -46,7 +46,7 @@ See [Safety](#safety).
 
 ### Safety
 
-* A southwest monsoon has caused heavy rain, flooding and strong winds across metro Manila and surrounding areas. There may be disruptions to transport, including flights. Monitor [PAGASA](https://www.pagasa.dost.gov.ph/) local media for updates and follow the instructions of local authorities. The Australian Embassy will be closed on 22 July. If you need urgent consular assistance, call the 24 Hour Consular Emergency Centre in Canberra at +61 2 6261 3305.
+* A southwest monsoon has caused heavy rain, flooding and strong winds across metro Manila and surrounding areas. There may be disruptions to transport, including flights. Monitor [PAGASA](https://www.pagasa.dost.gov.ph/) local media for updates and follow the instructions of local authorities. The Australian Embassy will be closed on 23 July. If you need urgent consular assistance, call the 24 Hour Consular Emergency Centre in Canberra at +61 2 6261 3305.
 * Terrorist attacks could occur anywhere in the Philippines. Possible targets include aviation and airports, public transport, hotels, shopping malls, restaurants, major events, places of worship and tourist areas. Be alert to possible threats. On 3 December 2023 there was a terrorist attack in Marawi City resulting in four dead and many injured, leading to heightened security arrangements in Mindanao and elsewhere, including Manila. Do not travel to central and western Mindanao, including the Zamboanga Peninsula Sulu Archipelago and the southern Sulu Sea area due to the very high threat of terrorism and kidnapping.
 * Kidnappings occur in the Philippines and kidnappers may target popular tourist areas. The threat of kidnapping and piracy in the southern Philippines is high, especially in the area of the Sulu Archipelago. If you travel to the southern Philippines despite our advice, get professional security advice. Ensure your accommodation has proper security measures. Don't travel by boat.
 * There's an increased risk of demonstrations and civil unrest following recent events. Avoid protests and large gatherings as they may turn violent. Transport and other essential services may be disrupted. Monitor the media for updates and follow the advice of local authorities.

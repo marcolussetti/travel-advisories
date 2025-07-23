@@ -2,11 +2,11 @@
 
 Latest update
 
-There have been multiple terrorist incidents in the departments of Cauca and Valle de Cauca, including the city of Cali. If there's an attack, leave the area as soon as it's safe. Avoid the area in case of further attacks. Local authorities may impose additional security measures such as curfews. Follow the advice of local authorities and monitor media for updates (see 'Safety').  
-  
 We continue to advise exercise a high degree of caution in Colombia overall due to the threat of violent crime and terrorism. We also advise do not travel to the Catatumbo region in Norte de Santander and Cesar, and the department of Cauca (except Popayán and the Pan American Highway), among other areas, due to increased violence from illegal armed groups and other criminal organisations.  
   
-There's been an increase in foreigners, including Australians, who have been assaulted and robbed using incapacitating drugs (see 'Safety'). Yellow fever is widespread in Colombia. Some countries may also require you to show a yellow fever vaccination certificate if you've travelled through the country (see ‘Health’).
+There's been an increase in foreigners, including Australians, who have been assaulted and robbed using incapacitating drugs (see 'Safety').   
+  
+Yellow fever is widespread in Colombia. Some countries, including Ecuador may require you to show a yellow fever vaccination certificate if you've travelled through Colombia. Digital vaccination certificates may not be accepted. Check with your airline if you need an International Vaccination Certificate (see ‘Health’).
 
 Advice Level summary
 
@@ -83,7 +83,7 @@ Full travel advice: [Safety](#safety)
 
 ### Health
 
-* Yellow fever is widespread. Get vaccinated before you travel. A vaccination certificate is required to enter Colombia if arriving from, or transited through Angola, Brazil, Democratic Republic of Congo or Uganda. Some countries may require you to present a yellow fever vaccination certificate if you’ve travelled through Colombia. Some national parks require a vaccination certificate to enter.
+* Yellow fever is widespread. Get vaccinated before you travel. A vaccination certificate is required to enter Colombia if you're arriving from (or you've transited through) Angola, Brazil, Democratic Republic of Congo or Uganda. Some countries may require you to present a yellow fever vaccination certificate if you’ve travelled through Colombia, including Ecuador. Some national parks require a vaccination certificate to enter.
 * Zika virus is also widespread. If you're pregnant, discuss your travel plans with your doctor.
 * Malaria is a risk in areas below 800m. This doesn't include Bogotá. Consider taking anti-malarial medication if travelling to these areas.
 * Altitude sickness is a risk to anyone above 2500m (this includes Bogotá). Get advice from your doctor. Make sure your travel insurance covers medical evacuation from high altitude.

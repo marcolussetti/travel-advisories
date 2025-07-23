@@ -56,7 +56,13 @@ You may find most medication in pharmacies in large cities, but medicine for com
 
 #### Yellow fever and other insect-borne diseases
 
-[Yellow fever](https://www.health.gov.au/diseases/yellow-fever?utm_source=health.gov.au&utm_medium=callout-auto-custom&utm_campaign=digital_transformation) is widespread in Colombia. Yellow fever is a potentially fatal virus spread by mosquitoes. It can be prevented by vaccination. Get vaccinated before you travel. You'll need a valid yellow fever vaccination certificate to enter Colombia, if arriving from, or transiting through Angola, Brazil, Democratic Republic of Congo or Uganda. Some countries may require you to present a yellow fever vaccination certificate if you’ve travelled through Colombia. Some airlines may want to see one on departure.  
+[Yellow fever](https://www.health.gov.au/diseases/yellow-fever?utm_source=health.gov.au&utm_medium=callout-auto-custom&utm_campaign=digital_transformation) is widespread in Colombia. Yellow fever is a potentially fatal virus spread by mosquitoes. It can be prevented by vaccination. Get vaccinated before you travel.
+
+You'll need a valid yellow fever vaccination certificate to enter Colombia if you’re arriving from (or you’ve transited through) Angola, Brazil, Democratic Republic of Congo or Uganda.
+
+Some countries may require you to present a yellow fever vaccination certificate if you’ve travelled through Colombia. Some airlines may want to see your certificate on departure.
+
+You will need to present an International Vaccination Certificate when travelling to certain countries, including Ecuador. Australia’s digital vaccination certificate may not be accepted.. Check with your airline or local authorities for further requirements.
 
 Some National Parks require proof of yellow fever vaccination to enter. More information is available at [Parques Naturales de Colombia](https://www.parquesnacionales.gov.co/portal/es/parques-nacionales/).
 
