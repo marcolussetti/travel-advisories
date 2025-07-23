@@ -42,7 +42,6 @@ Colombia is located in an active seismic area. Earthquakes occur frequently. Dan
 
 * [Colombian Geological Service](http://www2.sgc.gov.co/ "Servicio GeolóGico Colombiano") – Colombia’s government (in Spanish)
 * [Latest earthquakes](https://earthquake.usgs.gov/earthquakes/map/) – U.S. Geological Survey
-* [Earthquakes - What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx)
 
 ### Rainy seasons
 
@@ -68,7 +67,3 @@ If you decide to travel to a coastal area during the hurricane season despite th
 * [Severe storms outside Canada](https://travel.gc.ca/travelling/health-safety/hurricanes-typhoons-cyclones-monsoons )
 * [Large-scale emergencies outside Canada](https://travel.gc.ca/assistance/emergency-info/large-scale-emergencies-abroad)
 * [Active storm tracking and hurricane watches and warnings](http://www.nhc.noaa.gov/) – U.S. National Hurricane Center
-
-### 
-
-###

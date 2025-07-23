@@ -11,7 +11,8 @@
 [Avoid all travel](#levels "Risk Levels") to the following border areas due to the high threat of terrorism, banditry and kidnapping:
 
 * within 200 km of the border with Mali, Mauritania and Niger
-* within 50 km of the border with Libya and Tunisia
+* within 50 km of the border with Libya
+* within 50 km of the border with Tunisia, except for travel by land to/from Tunisia via the N44 highway and the Oum Tboul border crossing, where you should exercise a high degree of caution
 
 ### Border with Morocco - Avoid all travel
 

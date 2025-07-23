@@ -6,8 +6,6 @@
 
 Cyprus is located in an active seismic zone. Earthquakes occur regularly.
 
-[Earthquakes - What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx)
-
 ### Forest and maquis fires
 
 Forest and maquis fires may occur, particularly during the summer.

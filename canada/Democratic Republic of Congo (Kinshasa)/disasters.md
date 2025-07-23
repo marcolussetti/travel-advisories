@@ -16,8 +16,6 @@ If you are in the affected areas:
 
 The DRC is located in an active seismic area. Earthquakes may occur.
 
-[Earthquakes - What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx)
-
 ### Volcanoes
 
 Volcanic eruptions are common in some parts of the country. Mount Nyiragongo, situated on the edge of Goma, is one of the world’s most active volcanoes. The latest eruption in May 2021 forced the evacuation of hundreds of thousands of people, caused significant damage to infrastructure and resulted in many casualties.

@@ -51,5 +51,3 @@ Seasonal flooding can hamper overland travel and reduce the provision of essenti
 Algeria is located in an active seismic zone.
 
 Even minor earthquakes can cause significant damage.
-
-[Earthquakes - What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx)

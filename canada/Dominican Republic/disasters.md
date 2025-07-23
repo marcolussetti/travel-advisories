@@ -33,7 +33,7 @@ Flooding occurs throughout the country due to heavy rains. Roads may become impa
 * Stay informed of the latest regional weather forecasts
 * Follow the instructions of local authorities, including evacuation orders
 
-[Emergency operations centre](http://www.coe.gob.do/) - Dominican Republic government (Spanish only)
+[Emergency operations centre](http://www.coe.gob.do/) – Dominican Republic government (Spanish only)
 
 ### Earthquakes and tsunamis
 
@@ -43,6 +43,5 @@ A tsunami can occur within minutes of a nearby earthquake. However, the risk of 
 
 #### Useful links
 
-* [Earthquakes - What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx)
-* [Tsunami alerts](https://www.tsunami.gov/) - U.S. Tsunami Warning System
-* [Emergency operations centre](http://www.coe.gob.do/) - Dominican Republic government (Spanish only)
+* [Tsunami alerts](https://www.tsunami.gov/) – U.S. Tsunami Warning System
+* [Emergency operations centre](http://www.coe.gob.do/) – Dominican Republic government (Spanish only)

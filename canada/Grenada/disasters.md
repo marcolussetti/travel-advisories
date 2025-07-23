@@ -28,6 +28,5 @@ Grenada is located in an active seismic zone. Earthquakes and tsunamis can occur
 A tsunami can occur within minutes of a nearby earthquake. However, the risk of tsunami can remain for several hours following the first tremor. If you’re staying on the coast, familiarize yourself with the region’s evacuation plans in the event of a tsunami warning.
 
 * [Grenada’s National Disaster Management Agency](http://nadma.gd/ "Grenada's National Disaster Management Agency") – Government of Grenada
-* [Earthquake - Get prepared](https://www.getprepared.gc.ca/cnt/hzd/rthqks-en.aspx)
 * [Tsunami warning system](http://tsunami.gov/) – U.S. National Weather Service
 * [Latest earthquakes](https://earthquake.usgs.gov/earthquakes/map/) – U.S. Geological Survey

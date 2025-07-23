@@ -23,8 +23,6 @@ In the event of an earthquake:
 * avoid the affected areas
 * monitor local media to stay informed on the evolving situation
 
-[Earthquakes - What to do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx)
-
 ### Flooding and landslides
 
 The rainy season generally extends from March to May. Heavy rainfall may cause severe flooding and trigger landslides, especially in northern and eastern provinces.

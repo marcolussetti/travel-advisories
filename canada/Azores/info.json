@@ -1,7 +1,7 @@
 {
     "name": "Azores",
-    "update_reason": "Health \u2013 editorial update",
-    "update_date": "2025-06-26T14:19:00",
+    "update_reason": "Editorial change",
+    "update_date": "2025-07-22T15:39:00",
     "sections": {
         "risk": "canada/Azores/risk.md",
         "security": "canada/Azores/security.md",

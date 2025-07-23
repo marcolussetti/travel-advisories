@@ -34,7 +34,4 @@ If you are planning to visit these areas:
 * monitor levels of volcanic activity through the local media
 * follow the instructions of local authorities, including evacuation orders
 
-#### Useful links
-
-* [Large-scale emergencies abroad](https://travel.gc.ca/assistance/emergency-info/large-scale-emergencies-abroad?_ga=2.150830131.489439484.1728304356-59030252.1707511955)
-* [Floods - What to do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/flds-wtd/index-en.aspx)
+[Large-scale emergencies outside Canada](https://travel.gc.ca/assistance/emergency-info/large-scale-emergencies-abroad?_ga=2.150830131.489439484.1728304356-59030252.1707511955)

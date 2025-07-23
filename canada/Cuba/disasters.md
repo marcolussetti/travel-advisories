@@ -31,8 +31,6 @@ The rainy season extends from April to October.
 
 Seasonal flooding can hamper overland travel and reduce the delivery of essential services. Roads may become impassable due to mudslides and landslides. Infrastructure may be damaged.
 
-[Floods – What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/flds-wtd/index-en.aspx)
-
 ### Earthquakes
 
 Cuba is located in an active seismic zone.
@@ -44,7 +42,4 @@ In the event of an earthquake:
 * monitor local media to stay informed of the evolving situation
 * follow the instructions of local authorities, including evacuation orders
 
-#### Useful links
-
-* [Earthquakes – What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx)
-* [Latest earthquakes](https://earthquake.usgs.gov/earthquakes/map/) – U.S. Geological Survey
+[Latest earthquakes](https://earthquake.usgs.gov/earthquakes/map/) – U.S. Geological Survey

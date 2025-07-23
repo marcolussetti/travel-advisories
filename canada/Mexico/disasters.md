@@ -9,10 +9,7 @@ In the event of a natural disaster:
 * monitor local news to stay informed on the evolving situation
 * follow the instructions of local authorities, including evacuation orders
 
-#### Useful links
-
-* [Secretary of Integrated Risk Management and Civil Protection](https://www.proteccioncivil.cdmx.gob.mx/) – Government of Mexico City (in Spanish)
-* [Get prepared](https://www.getprepared.gc.ca/index-en.aspx)
+[Secretary of Integrated Risk Management and Civil Protection](https://www.proteccioncivil.cdmx.gob.mx/) – Government of Mexico City (in Spanish)
 
 ### Climate change
 
@@ -51,8 +48,6 @@ Know the symptoms of dehydration and heatstroke, which can both be fatal.
 
 Heavy rains can cause flooding and landslides, especially between June and November. They can hamper overland travel, especially in rural areas. Roads may become impassable and infrastructure damaged.
 
-[Landslides — Get Prepared](https://www.getprepared.gc.ca/cnt/hzd/lndslds-prp-en.aspx)
-
 ### Earthquakes and tsunamis
 
 Mexico is located in an active seismic zone and there is a risk of earthquakes, aftershocks and landslides.
@@ -67,8 +62,8 @@ A tsunami can occur within minutes of a nearby earthquake. However, the risk of 
 
 #### Useful links
 
-* [Latest earthquakes](https://earthquake.usgs.gov/earthquakes/map/) - U.S. Geological Survey
-* [Tsunami alerts](http://tsunami.gov/) - U.S. Tsunami Warning System
+* [Latest earthquakes](https://earthquake.usgs.gov/earthquakes/map/) – U.S. Geological Survey
+* [Tsunami alerts](http://tsunami.gov/) – U.S. Tsunami Warning System
 
 ### Forest fires
 

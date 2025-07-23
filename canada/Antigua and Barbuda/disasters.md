@@ -36,6 +36,5 @@ In the event of an earthquake:
 
 #### Useful links
 
-* [Earthquakes – What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx)
 * [Latest earthquakes](https://earthquake.usgs.gov/earthquakes/map/) – U.S. Geological Survey
 * [Prepare for earthquakes](https://www.getprepared.gc.ca/cnt/hzd/rthqks-en.aspx)

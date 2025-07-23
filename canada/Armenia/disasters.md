@@ -10,8 +10,6 @@ A vast portion of the territory is at an altitude of 1000m above sea level where
 
 Armenia is located in an active seismic zone. Although no major events have occurred in recent years, an earthquake could strike at any time.
 
-[Earthquakes - What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx)
-
 ### Flood
 
 The rainy season generally extends from March to June and from October to November.

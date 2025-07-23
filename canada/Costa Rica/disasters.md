@@ -65,7 +65,6 @@ In the event of an earthquake or volcanic eruption:
 
 #### Useful links
 
-* [Earthquakes](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx) – What to Do?
 * [Latest earthquakes](https://earthquake.usgs.gov/earthquakes/map/) – U.S. Geological Survey
 * [Tsunami alerts](http://tsunami.gov/) – U.S. Tsunami Warning System
 * [National Commission for Risk Prevention and Emergency Response](http://www.cne.go.cr/) (in Spanish)

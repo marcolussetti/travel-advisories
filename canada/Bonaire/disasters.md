@@ -28,5 +28,3 @@ If you decide to travel to a coastal area during the hurricane season despite th
 ### Seismic activity
 
 Bonaire is located in an active seismic zone. Earthquakes can occur.
-
-[Earthquakes – What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx)

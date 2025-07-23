@@ -38,7 +38,6 @@ Extreme weather changes result in heavy rains and windstorms in the fall and win
 
 #### Useful links
 
-* [Floods – What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/flds-wtd/index-en.aspx)
 * [Rain Weather Warnings](https://www.ipma.pt/en/otempo/prev-sam/?p=rain) – Portuguese Institute of Sea and Atmosphere
 * [Early Warnings for Europe](https://www.meteoalarm.org/en/live/) – MeteoAlarm
 
@@ -48,6 +47,5 @@ Portugal is located in an active seismic zone. Earthquakes occur frequently, esp
 
 #### Useful links
 
-* [Earthquakes – What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx)
 * [Seismic maps](https://www.ipma.pt/en/geofisica/sismicidade/) – Portuguese Institute of Sea and Atmosphere
 * [Information about active events](https://prociv.gov.pt/en/home/) – Portuguese National Authority for Emergency and Civil Protection

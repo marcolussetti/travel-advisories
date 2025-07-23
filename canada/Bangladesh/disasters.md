@@ -19,10 +19,7 @@ In the event of an earthquake:
 * monitor local media for the latest information
 * follow the instructions of local authorities
 
-#### Useful links
-
-* [Earthquakes – What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx)
-* [Tsunami alerts](https://www.tsunami.gov/) – U.S. Tsunami Warning System
+[Tsunami alerts](https://www.tsunami.gov/) – U.S. Tsunami Warning System
 
 ### Monsoons and cyclones
 

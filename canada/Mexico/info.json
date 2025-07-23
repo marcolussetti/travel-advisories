@@ -1,7 +1,7 @@
 {
     "name": "Mexico",
-    "update_reason": "Safety and security \u2013 removed information on demonstrations in the Tlalpan district of Mexico City",
-    "update_date": "2025-07-21T10:52:00",
+    "update_reason": "Editorial change",
+    "update_date": "2025-07-22T12:30:00",
     "sections": {
         "risk": "canada/Mexico/risk.md",
         "security": "canada/Mexico/security.md",

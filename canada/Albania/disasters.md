@@ -25,8 +25,6 @@ If you’re in or around an affected area:
 * monitor local media for the latest developments
 * follow the instructions of local authorities
 
-[Earthquakes - What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx)
-
 ### Wildfires
 
 Forest fires are common during the summer. The air quality in areas near active fires may deteriorate due to heavy smoke.

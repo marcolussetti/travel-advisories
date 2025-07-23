@@ -67,7 +67,7 @@ You must always carry valid photo identification. Local authorities may request 
 
 You must be at least 18 years old to drive a car in Portugal.
 
-You can drive using a Canadian driver’s licence for up to 185 days, as long as you are not a resident of Portugal.
+You can drive using a valid Canadian driver’s licence for up to 185 days, as long as you are not a resident of Portugal.
 
 Penalties for drinking and driving are severe. The legal blood alcohol limit is 0.05%.
 

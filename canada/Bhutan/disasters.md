@@ -4,9 +4,7 @@
 
 ### Seismic activity
 
-Bhutan is located in an active seismic zone. Earthquakes can happen at any time. 
-
-[Earthquakes - What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx)
+Bhutan is located in an active seismic zone. Earthquakes can happen at any time.
 
 ### Monsoon
 

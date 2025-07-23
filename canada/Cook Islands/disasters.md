@@ -27,7 +27,4 @@ The Cook Islands are located in an active seismic zone. Earthquakes and tsunamis
 
 A tsunami can occur within minutes of a nearby earthquake. However, the risk of tsunami can remain for several hours following the first tremor. If you’re staying on the coast, familiarize yourself with the region’s evacuation plans in the event of a tsunami warning.
 
-#### Useful links
-
-* [Earthquakes](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx) - What to Do?
-* [Tsunami alerts](https://www.tsunami.gov/) - U.S. Tsunami Warning System
+[Tsunami alerts](https://www.tsunami.gov/) - U.S. Tsunami Warning System

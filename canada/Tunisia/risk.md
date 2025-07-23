@@ -10,7 +10,7 @@
 
 [Avoid all travel](#levels "Risk Levels") to the following areas, due to recurring anti-terrorist operations:
 
-* the area within 20 km of the Algerian border, except for the following tourist towns, where you should exercise a high degree of caution:
+* the area within 20 km of the Algerian border, except for the highway P7 to/from the Malloula border crossing and following tourist towns, where you should exercise a high degree of caution:
   + Aïn Draham
   + Chebika
   + Mides

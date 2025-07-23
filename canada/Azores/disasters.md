@@ -12,7 +12,6 @@ The Azores are located in an active seismic zone. Small earthquakes occur frequ
 
 #### Useful links
 
-* [Earthquakes – What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx)
 * [Recent seismic activity](http://www.ivar.azores.gov.pt/civisa/Paginas/homeCIVISA.aspx) – Seismovolcanic Information and Surveillance Centre of the Azores (CIVISA) (Portuguese only)
 * [Latest news](https://www.prociv.azores.gov.pt/) – Regional Service of Civil Protection and Fire Department of the Azores (Portuguese only)
 * [Seismic maps](https://www.ipma.pt/en/geofisica/sismicidade/) – Portuguese Institute of Sea and Atmosphere
@@ -39,6 +38,5 @@ Extreme weather changes result in heavy rains and windstorms in the fall and win
 
 #### Useful links
 
-* [Floods – What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/flds-wtd/index-en.aspx)
 * [Rain Weather Warnings](https://www.ipma.pt/en/otempo/prev-sam/?p=rain) – Portuguese Institute of Sea and Atmosphere
 * [Early Warnings for Europe](https://www.meteoalarm.org/en/live/) – MeteoAlarm
