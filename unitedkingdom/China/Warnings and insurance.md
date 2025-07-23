@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   9 April 2025
+:   23 July 2025
 
 Updated:
-:   8 April 2025
+:   22 July 2025
 
 Latest update:
-:   Updated information on the possibility of medical screening on arrival into China, the processes for applying for visas for some age categories, access to consular services for dual nationals and safety risks in border areas. This advice has also been reviewed in full for accuracy and style. ('Entry requirements' and 'Regional risks' pages)
+:   Revised language on drug trafficking, medical screening, vaccine requirements, military zone restrictions and the China-Myanmar border. Addition of recent change to legislation concerning religious regulations for foreigners ('Entry requirements', 'Safety and security' and 'Regional risks' pages).
 
 This travel advice covers mainland China. See travel advice for the Special Administrative Regions, [Hong Kong](https://www.gov.uk/foreign-travel-advice/hong-kong) and [Macao](https://www.gov.uk/foreign-travel-advice/macao).
 

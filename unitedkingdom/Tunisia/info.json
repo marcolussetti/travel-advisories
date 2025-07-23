@@ -1,11 +1,11 @@
 {
     "name": "Tunisia",
-    "update_reason": "FCDO now advises against all but essential travel to within 20km of the Tunisia-Algerian border in El Kef and Jendouba Governorates, south of the town of Jendouba. FCDO no longer advises against travel to the archaeological site of Chemtou.",
+    "update_reason": "Clarification of areas where FCDO advises against travel in Medenine Governorate ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Tunisia/Warnings and insurance.md",
-            "update_date": "2025-07-16T11:23:07+01:00"
+            "update_date": "2025-07-22T16:35:18+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Tunisia/Getting help.md"
         }
     ],
-    "update_date": "2025-07-16T11:23:07+01:00"
+    "update_date": "2025-07-22T16:35:18+01:00"
 }

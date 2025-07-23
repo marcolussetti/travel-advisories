@@ -81,6 +81,8 @@ All foreign nationals travelling to or around ‘sensitive’ areas might attrac
 
 Sensitivities can change over time and may heighten around particular dates or events.
 
+There are restricted military areas, where foreigners can be detained, fined or deported if found without prior authorisation. Signs typically indicate where these areas are, but it may not always be clear.
+
 You may attract additional scrutiny while travelling around mainland China if you’re a current or former employee of:
 
 * foreign governments
@@ -91,7 +93,13 @@ This list is not exhaustive and may change over time. This is particularly relev
 
 ### Religious activities and materials
 
-The Chinese authorities formally recognise 5 religions: Buddhism, Catholicism, Islam, Protestantism and Taoism. Only officially registered religious organisations are permitted to carry out religious activities. Even officially registered organisations must observe restrictions on some religious activities, including preaching and distributing religious materials. The Falun Gong movement and others the authorities consider as ‘cults’ are banned in China.
+The Chinese authorities formally recognise five religions: Buddhism, Catholicism, Islam, Protestantism and Taoism. Only officially registered religious organisations are permitted to carry out religious activities. Even officially registered organisations must observe restrictions on some religious activities, including preaching and distributing religious materials.
+
+Updated [religious legislation](https://www.sara.gov.cn/static/content/ywdt/qtyw/2025-04-01/1356550603266883584.html) (Chinese language only) entered into force on 1 May 2025, setting out rules that foreigners must abide by when practicing religion in China. The paragraph below summarises some of the key information included in the link, but local legal advice should be sought for full and further detail.
+
+Foreigners may participate in religious activity that complies with Chinese law in registered temples, churches, or other approved temporary locations. Foreign nationals may invite Chinese religious professionals to hold baptisms, weddings, funerals, dojos, pujas, and other religious ceremonies for them. Foreigners wanting to hold religious activities or events in approved locations must meet the specific requirements and use the correct application procedures. One of these requirements (Article 10) is that Chinese religious professionals should preside over religious activity. Another (Article 16), is that group religious activities held by foreigners in China are limited to participation by foreigners in China. Collective religious events involving Chinese citizens are prohibited unless officially approved by the Chinese government. There are also rules for foreign religious professionals visiting China to give lectures or sermons, and those bringing in religious materials.
+
+The Falun Gong movement and others that the authorities consider as ‘cults’ are banned in China.
 
 ### Criminal proceedings
 
@@ -132,15 +140,17 @@ Counterfeit banknotes (especially 100 renminbi notes) are common, including from
 
 ### Illegal drugs penalties and prison sentences
 
-There are severe penalties for drugs offences in China, including the death penalty. The Chinese authorities randomly test foreign nationals for drugs, including on entry to the country. If you test positive, the Chinese authorities can prosecute you regardless of where or when you took drugs. Police also raid homes. If drugs are found in your property, penalties can be extremely harsh.
+Possession, trafficking and manufacture of any illegal drugs, including cannabis, are serious offences in China. The Chinese authorities have a zero-tolerance policy and those caught face heavy fines, lengthy prison sentences, or the death penalty.
 
-The police can raid nightclubs and bars. If you’re in a bar that’s raided, you will be subject to on-the-spot testing and immigration checks. This may involve:
+Airports in China have security equipment and procedures in place for scanning and detecting illegal items, including cannabis. This is also used to scan all the baggage of transiting passengers.
+
+The Chinese authorities can randomly test foreign nationals for drugs, including on entry to the country. Police can also raid homes as well as nightclubs and bars. If you’re in a bar that’s raided, you will be subject to on-the-spot testing and immigration checks. This may involve:
 
 * being kept at the location, or another location, for several hours
 * giving hair and urine samples
 * passport and visa checks
 
-Testing positive for drugs, or being found in breach of your visa conditions, can lead to heavy fines, detention and deportation.
+If you test positive, the Chinese authorities can prosecute you regardless of where or when you took drugs. Testing positive for drugs, or being found in breach of your visa conditions, can lead to heavy fines, detention and deportation.
 
 ### Internet access
 

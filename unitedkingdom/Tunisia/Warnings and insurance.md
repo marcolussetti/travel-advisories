@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   17 July 2025
+:   23 July 2025
 
 Updated:
-:   16 July 2025
+:   22 July 2025
 
 Latest update:
-:   FCDO now advises against all but essential travel to within 20km of the Tunisia-Algerian border in El Kef and Jendouba Governorates, south of the town of Jendouba. FCDO no longer advises against travel to the archaeological site of Chemtou.
+:   Clarification of areas where FCDO advises against travel in Medenine Governorate ('Warnings and insurance' page).
 
-![](https://assets.publishing.service.gov.uk/media/687773e67ea20916863637c6/FCDO__TA__042_-_Tunisia_Travel_Advice_Ed3__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/687faf22fdc190fb6b8468e3/FCDO__TA__042_-_Tunisia_Travel_Advice_Ed5__WEB___1_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/687773e77ea20916863637c7/FCDO__TA__042_-_Tunisia_Travel_Advice_Ed3.pdf)
+[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/687faf22fdc190fb6b8468e4/FCDO__TA__042_-_Tunisia_Travel_Advice_Ed5__2_.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -50,7 +50,7 @@ FCDO advises against all travel to:
 
 This is due to cross-border terrorist activity and fighting in Libya.
 
-In addition, FCDO advises against all but essential travel to within 75km of the Tunisia-Libya border, including Remada and El Borma.
+In addition, FCDO advises against all but essential travel to within 75km of the Tunisia-Libya border, including Remada and El Borma but excluding Zarzis, the C118 road and all areas in Medenine Governorate north of the road.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/tunisia/regional-risks).
 

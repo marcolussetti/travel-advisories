@@ -20,7 +20,7 @@ At least 8 weeks before your trip:
 * check the latest [vaccine recommendations for Kiribati](https://travelhealthpro.org.uk/country/118/kiribati#Vaccine_Recommendations)
 * see where to get vaccines and whether you have to pay on the [NHS travel vaccinations page](https://www.nhs.uk/conditions/travel-vaccinations/)
 
-See [what health risks you’ll face in Kiribati](https://travelhealthpro.org.uk/country/118/kiribati#General_Information).
+See [what health risks you’ll face in Kiribati](https://travelhealthpro.org.uk/country/118/kiribati#General_Information), including Dengue.
 
 Drink and use only boiled or bottled water and avoid ice in drinks. Do not eat local shellfish or lagoon fish on Tarawa.
 

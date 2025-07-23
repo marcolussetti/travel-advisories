@@ -38,7 +38,7 @@ The ability of the British Embassy to help British nationals in Xinjiang Uyghur 
 
 ### China-Myanmar border
 
-There has been escalating violence near the China-Myanmar border. The Chinese authorities reported artillery shells from Myanmar had injured residents and damaged structures within its territory, prompting increased armed patrols along the border. Stray artillery shells have caused injury in Zhenkang county, Yunnan province.
+There is continuing violence on the Myanmar side of the China-Myanmar border, which has occasionally spilled over into China. In early 2024, the Chinese authorities reported artillery shells from Myanmar had injured residents and damaged structures within its territory in Yunnan province, prompting increased armed patrols along the border.
 
 [Previous
 :

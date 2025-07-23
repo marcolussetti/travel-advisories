@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   23 July 2025
 
 Updated:
-:   12 March 2024
+:   22 July 2025
 
 Latest update:
-:   This travel advice has been rewritten to make it easier to read and understand.
+:   Updated information of what health risks you’ll face in Kiribati (‘Health’ page).
 
 ## Before you travel
 

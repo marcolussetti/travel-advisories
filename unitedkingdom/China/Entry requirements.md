@@ -8,7 +8,7 @@ Immigration authorities may collect biometric data, including scanned fingerprin
 
 ## Medical screening on arrival or during your time in China
 
-You may need to pass through medical screening on entry into China. This may be body temperature scanning, or more rarely testing such as throat or nasal swabs or medical examinations. Recent changes to China’s ‘Frontier Health and Quarantine Laws’ means you may be refused entry into China if you do not comply with the screening measures. The Chinese authorities react quickly to outbreaks of any infectious disease.
+You may need to pass through medical screening on entry into China. This may be body temperature scanning, or more rarely testing such as throat or nasal swabs, blood tests or medical examinations. Recent changes to China’s ‘Frontier Health and Quarantine Laws’ means you may be refused entry into China if you do not comply with the screening measures.
 
 ## Passport validity requirements
 

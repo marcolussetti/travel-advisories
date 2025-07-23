@@ -33,7 +33,7 @@ FCDO advises against all travel to:
 * within 20km of the rest of the Tunisia-Libya border area north of Dhehiba
 * the town of Ben Guerdane and immediate surrounding area
 
-In addition, FCDO advises against all but essential travel to within 75km of the Tunisia-Libya border, including Remada and El Borma.
+In addition, FCDO advises against all but essential travel to within 75km of the Tunisia-Libya border, including Remada and El Borma but excluding Zarzis, the C118 road and all areas in Medenine Governorate north of the road.
 
 There is a heightened Tunisian security presence at the border with Libya due to cross-border terrorist activity and fighting in Libya. Border crossings are sometimes closed temporarily without notice. Some violent incidents have occurred. See [Libya travel advice](https://www.gov.uk/foreign-travel-advice/libya).
 

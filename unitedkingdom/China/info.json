@@ -1,11 +1,11 @@
 {
     "name": "China",
-    "update_reason": "Updated information on the possibility of medical screening on arrival into China, the processes for applying for visas for some age categories, access to consular services for dual nationals and safety risks in border areas. This advice has also been reviewed in full for accuracy and style. ('Entry requirements' and 'Regional risks' pages)",
+    "update_reason": "Revised language on drug trafficking, medical screening, vaccine requirements, military zone restrictions and the China-Myanmar border. Addition of recent change to legislation concerning religious regulations for foreigners ('Entry requirements', 'Safety and security' and 'Regional risks' pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/China/Warnings and insurance.md",
-            "update_date": "2025-04-08T14:49:29+01:00"
+            "update_date": "2025-07-22T12:26:29+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/China/Getting help.md"
         }
     ],
-    "update_date": "2025-04-08T14:49:29+01:00"
+    "update_date": "2025-07-22T12:26:29+01:00"
 }
