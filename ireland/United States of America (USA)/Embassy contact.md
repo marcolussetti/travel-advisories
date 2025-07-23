@@ -113,7 +113,7 @@ Floor 17
 New York NY 10166   
 USA
 
-Our consular region covers New York, Connecticut, New Jersey, New York, Pennsylvania, Delaware and Ohio.
+Our consular region covers Connecticut, Delaware, New Jersey, New York, Ohio and Pennsylvania.
 
 [**Contact us**](/en/usa/newyork/contact/)
 
