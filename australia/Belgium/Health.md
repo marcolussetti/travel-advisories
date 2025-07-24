@@ -56,12 +56,10 @@ Carry a copy of your prescription or a letter from your doctor stating:
 
 There have been outbreaks of measles in Belgium. Make sure your vaccinations are up-to-date before you travel.
 
-**More Information:**
+More Information:
 
 * [Communicable diseases](https://www.health.gov.au/topics/communicable-diseases?utm_source=health.gov.au&utm_medium=callout-auto-custom&utm_campaign=digital_transformation) (Department of Health and Aged Care)
 * [Measles immunisation service](https://www.health.gov.au/health-topics/immunisation/immunisation-services/measles-immunisation-service) (Department of Health and Aged Care)
-
-#### Other health risks
 
 Other health risks in Belgium are broadly similar to those in Australia.
 

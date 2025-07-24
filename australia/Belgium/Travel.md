@@ -14,7 +14,9 @@ Always carry your passport when you cross borders, even in the [Schengen area](
 
 Entry and exit conditions can change at short notice. Contact the nearest [embassy or consulate](https://protocol.dfat.gov.au/Public/Missions/23) for details about visas, currency, customs and quarantine rules.
 
-#### Border Measures
+#### Border measures
+
+Belgium has introduced additional entry checks until December 2025. Checks may be carried out on major roads leading into Belgium, motorway car parks, international bus and train services and intra-Schengen flights. This may involve verifying travel documents, identification and screening for illegal substances. In Belgium, you must carry your passport with you at all times.
 
 There are temporary border controls in place to travel into France and Germany from Belgium. Check the entry requirements for [France](/destinations/europe/france "France"), [Germany](/destinations/europe/germany "Germany") and [the Netherlands](/node/385) before you travel.
 

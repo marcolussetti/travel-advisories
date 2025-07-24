@@ -99,7 +99,7 @@ You may be at risk of cyber-based threats during overseas travel to any country.
 
 Social media can also be risky in destinations where there are social or political tensions or laws that may seem unreasonable by Australian standards. Travellers have been arrested for things they have said on social media. Don't comment on local or political events on your social media.
 
-**More information:**
+More information:
 
 * [Cyber security when travelling overseas](/before-you-go/staying-safe/cyber-security "Cyber security when travelling overseas")
 
@@ -109,9 +109,9 @@ Kidnapping can happen anywhere, anytime, including in destinations that are typi
 
 The Australian Government's longstanding policy is that it doesn't make payments or concessions to kidnappers.
 
-**More information,** including advice on how to reduce your risk of kidnapping:
+**More information:**
 
-* [Kidnapping](https://www.smartraveller.gov.au/before-you-go/safety/kidnapping)
+* [Kidnapping](/before-you-go/safety/kidnapping "Reducing the risk of kidnapping")
 
 #### Drink spiking
 

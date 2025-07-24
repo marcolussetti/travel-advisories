@@ -36,25 +36,25 @@ Visitors may be asked to show proof of onward travel on entry to Bolivia (a plan
 
 #### Yellow fever vaccination
 
-You may be asked to show proof of your yellow fever vaccination at some ports of entry in Bolivia, and some airlines may want to see it when you leave.
+You may be asked to show proof of your yellow fever vaccination at some ports of entry in Bolivia, and to enter some countries after visiting Bolivia.
 
 Find out about returning to Australia [after exposure to yellow fever](http://www.health.gov.au/yellowfever).
 
 **More information:**
 
-* [Countries with a risk of yellow fever](https://www1.health.gov.au/internet/main/publishing.nsf/content/health-pubhlth-strateg-communic-factsheets-yellow.htm#07)
+* [Yellow fever vaccine](https://www.healthdirect.gov.au/yellow-fever)
 
 #### Other formalities
 
 #### Travel with dual-national children
 
-Unless travelling with both parents, dual nationals under the age of 18 years must comply with strict local entry and exit requirements~~:~~. Contact the nearest Bolivian Embassy for updated information before departure. 
-
-#### Accommodation registration
-
-Immigration inspectors at the port of entry may request your accommodation details to keep a register.
+Unless travelling with both parents, dual nationals under the age of 18 years must comply with strict local entry and exit requirements~~:~~. Contact the nearest Bolivian Embassy for updated information before departure.
 
 #### Passport
+
+You need to have at least 6 months validity remaining in your passport to enter Bolivia.
+
+Emergency travel documents can be used to enter, transit, or depart Bolivia as long as they have at least 6 months of validity from the moment of entry in Bolivia.
 
 #### Money
 
@@ -72,7 +72,7 @@ Many businesses accept international credit cards.
 
 #### Uyuni salt plains
 
-Choose a tour operator that has a CB radio or satellite phone. Mobile phone coverage is limited.
+Choose a tour operator that has a CB radio and/or satellite phone. Mobile phone coverage is limited.
 
 Be prepared for delays from melting snow and snowfalls.
 
@@ -104,9 +104,7 @@ If driving:
 * be alert to possible hazards, especially at night and in rural areas
 * allow extra time and be prepared to change your plans if travelling during the wet season.
 
-**More information:**
-
-* [Driving or riding](/before-you-go/getting-around/road-safety "Road safety")
+Petrol and diesel shortages across the country leading to very long queues are common.
 
 #### Motorcycles
 
@@ -114,15 +112,19 @@ Check with your travel insurer whether your policy covers you when using a motor
 
 Always wear a helmet.
 
-#### Taxis
+**More information:**
 
-Book registered taxis through your hotel or ride-share apps.
-
-Be aware of criminals and [scams](/before-you-go/safety/scams "Scams that affect travellers") targeting taxi passengers.
+* [Road safety](https://www.smartraveller.gov.au/before-you-go/getting-around/road-safety)
 
 #### Public transport
 
 Public transport can be unsafe due to poor roads, driving and vehicle maintenance standards.
+
+During protests there may be no public transport available in La Paz.
+
+**More information:**
+
+* [Public transport](https://www.smartraveller.gov.au/before-you-go/getting-around/public-transport)
 
 #### Boat travel
 

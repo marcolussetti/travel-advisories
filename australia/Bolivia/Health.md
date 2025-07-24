@@ -52,6 +52,33 @@ Carry a copy of your prescription or a letter from your doctor stating:
 
 #### Health risks
 
+#### Altitude sickness
+
+Altitude sickness can be life-threatening and affect anyone, even if you're healthy. You're at risk of altitude sickness if you travel to high altitudes.
+
+You're more at risk if you:
+
+* ascend quickly
+* have had altitude sickness before
+* exercise or drink alcohol before you get used to the altitude
+* have health problems that affect breathing
+
+Many areas of Bolivia are at high altitudes, including:
+
+* La Paz
+* Salar de Uyuni
+* Lake Titicaca
+* Potosi
+* Sucre
+
+See your doctor for specific advice to minimise the risk of altitude sickness.
+
+Check if your insurance covers emergency evacuation from altitude and related medical costs.
+
+**More information:**
+
+* [Taking care of your health](https://www.smartraveller.gov.au/before-you-go/health)
+
 #### Insect-borne diseases
 
 [Yellow fever](http://www.health.gov.au/yellowfever) is a risk in Bolivia. Yellow fever is a potentially fatal virus spread by mosquitoes. It's prevented by vaccination. Get vaccinated before you travel. You may be asked to show proof of your vaccination at some ports of entry in Bolivia or to enter some countries after visiting Bolivia. Check their entry requirements before travelling. 
@@ -63,6 +90,7 @@ Carry a copy of your prescription or a letter from your doctor stating:
 
 Travellers are at risk from:
 
+* [chikungunya](https://www.who.int/news-room/fact-sheets/detail/chikungunya)
 * [malaria](https://www.who.int/news-room/fact-sheets/detail/malaria)
 * [dengue](http://www.who.int/denguecontrol/disease/en/)
 * [Chagas disease](https://www.who.int/en/news-room/fact-sheets/detail/chagas-disease-(american-trypanosomiasis))
@@ -77,10 +105,6 @@ To protect yourself from illness:
 Consult your doctor about how to prevent malaria.
 
 Seek medical advice if you have a fever, muscle pain, rash or severe headache.
-
-**More information:**
-
-* [Infectious diseases](/before-you-go/health/diseases "Infectious diseases")
 
 #### Other health risks
 
@@ -104,30 +128,9 @@ If you're bitten or scratched by an animal, get medical help straight away.
 
 Seek medical advice if you have a fever or diarrhoea.
 
-#### Altitude sickness
+**More information:**
 
-You're at risk of altitude sickness if you travel to high altitudes.
-
-Altitude sickness can be life-threatening and affect anyone, even if you're healthy.
-
-You're more at risk if you:
-
-* ascend quickly
-* have had altitude sickness before
-* exercise or drink alcohol before you get used to the altitude
-* have health problems that affect breathing
-
-Many areas of Bolivia are at high altitudes, including:
-
-* La Paz
-* Salar de Uyuni
-* Lake Titicaca
-* Potosi
-* Sucre
-
-See your doctor for specific advice to minimise the risk of altitude sickness.
-
-Check if your insurance covers emergency evacuation from altitude and related medical costs.
+* [Infectious diseases](https://www.smartraveller.gov.au/before-you-go/health/diseases)
 
 #### Medical care
 
@@ -140,3 +143,7 @@ Hospitals often need payment or proof of medical insurance before they will trea
 You could need treatment at a more suitable place if you become seriously ill or injured.
 
 Medical evacuation from Bolivia can be difficult and very expensive. Many air ambulance services can't fly into La Paz due to the high altitude.
+
+**More information:**
+
+* [Medical assistance overseas](https://www.smartraveller.gov.au/while-youre-away/when-things-go-wrong/medical-assistance)

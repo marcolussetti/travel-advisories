@@ -14,9 +14,9 @@ Depending on what you need, contact your:
 
 Call 119.
 
-#### Medical emergencies
+#### Medical emergencies in La Paz
 
-Call 118 or go to the hospital.
+Call 165 or go to the hospital.
 
 #### Police
 
@@ -43,7 +43,7 @@ Av Arequipa No 8221
 Phone/Whatsapp: (+591) 706 10626  
 Email: [consul@australiabolivia.com](mailto:consul@australiabolivia.com)
 
-Opening hours: 9am-12pm, Monday to Friday  
+Consulate opening hours: 9am-1pm, Monday to Friday  
 You can contact the Honorary Consul via email, phone or WhatsApp to discuss your needs.
 
 #### Australian Embassy in Peru

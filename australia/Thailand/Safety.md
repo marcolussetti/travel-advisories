@@ -20,15 +20,19 @@ To stay safe during periods of unrest:
 
 #### Thailand-Cambodia border
 
-Thailand and Cambodia have an ongoing border dispute. Fighting between military forces has occurred along the Thai-Cambodian border. There's a risk of landmines and unexploded weapons near the border area.
+Thailand and Cambodia have an ongoing border dispute. There are reports of violence and armed conflict between military forces has occurred along the Thai-Cambodian border. There's a risk of landmines and unexploded weapons near the border area.
 
 Be extra careful at tourist areas, including:
 
 * the Preah Vihear temple (known as Khao Pra Viharn in Thailand)
 * the Ta Kwai temple (known as Ta Krabei in Cambodia)
 * the Ta Muen Thom temple (known as Ta Moan in Cambodia)
+* Don Tawal temple
+* Chong Bok temple
+* Chong An Ma temple
+* Chong Chom temple.
 
-Border crossing points along the Thailand-Cambodia border continue to be closed at short notice. Monitor local media for updates and follow the advice of local authorities.
+Border crossing points along the Thail-Cambodia border continue to be closed at short notice. Monitor local media for updates and follow the advice of local authorities.
 
 #### Thailand-Myanmar border
 

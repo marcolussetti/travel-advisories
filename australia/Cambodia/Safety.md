@@ -1,5 +1,50 @@
 # Safety
 
+#### Civil unrest and political tension
+
+#### Cambodia-Thailand border
+
+Armed conflict between Thai and Cambodian military forces along the Thai-Cambodian border has increased. This includes reports of military strikes, violence and the use of landmines in the border areas of Preah Vihear and Oddar Meanchey provinces. Follow the advice of local authorities, monitor local media for updates and pay close attention to your personal security.
+
+#### Public protests and events
+
+Public protests and events that draw large groups of people may turn violent. Local police and security forces have occasionally responded with force and may not distinguish between demonstrators and bystanders.
+
+Authorities may arrest and deport foreigners involved in protests, filming or taking photos of demonstrations, the military or the police.
+
+In Phnom Penh, possible sites for rallies include:
+
+* political party offices and court buildings
+* Wat Phnom
+* Freedom Park
+* the Prime Minister's home
+* government and military buildings or compounds
+
+Roadblocks can be set up with little warning, restricting access through the city. Armed security personnel on the streets can increase around the time of local political events such as elections.
+
+Land and border disputes along Cambodia's borders with Vietnam and Thailand have resulted in:
+
+* demonstrations
+* increased presence of armed forces
+* violence
+* cross-border fighting
+
+Tourist attractions and border crossing points in these areas close with little or no notice.
+
+To protect yourself during periods of unrest:
+
+* avoid demonstrations, political events, protests, large-scale public gatherings and roadblocks
+* monitor the media about possible unrest, protest locations and roadblocks
+* follow the advice of local authorities
+* don't film or photograph protests, political rallies or armed security personnel
+* be particularly alert and careful in the lead-up to and during days of national significance, such as elections, commemorations, and religious events.
+* show respect, especially in areas where royal family or religious activities are taking place
+
+**More information:**
+
+* [Armed conflict](/before-you-go/staying-safe/armed-conflict "Armed conflict")
+* [Demonstrations and civil unrest](/node/343)
+
 #### Crime
 
 #### Petty crime
@@ -142,44 +187,6 @@ Methanol can be used in unregulated alcohol production to lower costs. Methanol
 **More information**
 
 * [Partying safely while overseas](/before-you-go/safety/partying "Partying safely")
-
-#### Civil unrest and political tension
-
-Public protests and events that draw large groups of people may turn violent. Local police and security forces have occasionally responded with force and may not distinguish between demonstrators and bystanders.
-
-Authorities may arrest and deport foreigners involved in protests, filming or taking photos of demonstrations, the military or the police.
-
-In Phnom Penh, possible sites for rallies include:
-
-* political party offices and court buildings
-* Wat Phnom
-* Freedom Park
-* the Prime Minister's home
-* government and military buildings or compounds
-
-Roadblocks can be set up with little warning, restricting access through the city. Armed security personnel on the streets can increase around the time of local political events such as elections.
-
-Land and border disputes along Cambodia's borders with Vietnam and Thailand have resulted in:
-
-* demonstrations
-* increased presence of armed forces
-* violence
-* cross-border fighting
-
-Tourist attractions and border crossing points in these areas close with little or no notice.
-
-To protect yourself during periods of unrest:
-
-* avoid demonstrations, political events, protests, large-scale public gatherings and roadblocks
-* monitor the media about possible unrest, protest locations and roadblocks
-* follow the advice of local authorities
-* don't film or photograph protests, political rallies or armed security personnel
-* be particularly alert and careful in the lead-up to and during days of national significance, such as elections, commemorations, and religious events.
-* show respect, especially in areas where royal family or religious activities are taking place
-
-**More information:**
-
-* [Demonstrations and civil unrest](/node/343)
 
 #### Terrorism
 

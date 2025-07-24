@@ -2,9 +2,11 @@
 
 Latest update
 
-There's an ongoing risk of terrorism in Thailand. Popular tourist areas may be the target of terrorist attacks anywhere across Thailand, including Bangkok and Phuket. Phuket International Airport has increased security measures and passengers should arrive early for their flight. This follows the recent discovery of an explosive device near the airport. Thai authorities also defused devices in Phuket, Krabi and Phang Nga and made arrests.   
+We've reviewed our advice for Thailand and continue to advise exercise a high degree of caution overall. We now advise reconsider your need to travel to the border areas of Buriram, Si Saket, Surin and Ubon Ratchathani provinces near the Cambodia border due to armed conflict in the area.  
   
-The security situation in Thailand can be unpredictable. Large protests have occurred in Bangkok and other areas. In previous years, large political protests and government crowd control operations have resulted in violence.  
+Armed conflict between Thai and Cambodian forces along the Thai-Cambodian border has increased. This includes reports of military strikes, violence and landmines in the border areas of Buriram, Si Saket, Surin and Ubon Ratchathani provinces. There are reports of casualties. Follow the advice of local authorities, monitor local media for updates and pay close attention to your personal security. Border crossing points along the Thai-Cambodian border continue to be closed at short notice.  
+  
+There's an ongoing risk of terrorism in Thailand. Popular tourist areas may be the target of terrorist attacks anywhere across Thailand, including Bangkok and Phuket. Phuket International Airport has increased security measures and passengers should arrive early for their flight. This follows the recent discovery of an explosive device near the airport. Thai authorities also defused devices in Phuket, Krabi and Phang Nga and made arrests.   
   
 Be alert to risks around drink spiking. Don't leave food or drinks unattended. Stay with people you trust at bars, nightclubs and in taxis. See our advice on partying safely while overseas.
 
@@ -24,6 +26,19 @@ Higher levels apply in some areas.
 
 [Exercise a high degree of caution](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level2) in Thailand overall due to security and safety risks.
 
+[Reconsider your need to travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level3) to the border areas of Buriram, Si Saket, Surin and Ubon Ratchathani provinces.
+
+[Reconsider your need to travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level3) to the border areas of:
+
+* Buriram province
+* Si Saket province
+* Surin province
+* Ubon Ratchathani province
+
+due to armed conflict in the area.
+
+See [Safety](#safety).
+
 [Reconsider your need to travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level3) to Yala, Pattani and Narathiwat provinces.
 
 [Reconsider your need to travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level3) to:
@@ -40,8 +55,10 @@ See [Safety](#safety).
 
 ### Safety
 
+* We've reviewed our advice for Thailand and continue to advise exercise a high degree of caution overall. We now advise reconsider your need to travel to the border areas of Buriram, Si Saket, Surin and Ubon Ratchathani provinces near the Cambodia border due to armed conflict in the area.
+* Armed conflict between Thai and Cambodian forces along the Thai-Cambodian border has increased. This includes reports of military strikes, violence and landmines in the border areas of Buriram, Si Saket, Surin and Ubon Ratchathani provinces. Follow the advice of local authorities and pay close attention to your personal security.
+* Border crossing points along the Thai-Cambodian border continue to be closed at short notice
 * There's an ongoing risk of terrorist attacks in Thailand. Popular tourist areas may be the target of terrorist attacks anywhere across Thailand, including Bangkok and Phuket. Phuket International Airport has increased security measures and passengers should arrive early for their flight. This follows the recent discovery of an explosive device near the airport. Thai authorities also defused devices in Phuket, Krabi and Phang Nga and made arrests. Coordinated attacks have occurred in the southern provinces. The ongoing conflict in the Middle East could lead to an increased threat of attacks against Israeli interests in other regions. Be alert to possible threats. Take official warnings seriously and follow the advice of local authorities.
-* Border crossing points along the Thailand-Cambodia border continue to be closed at short notice. Monitor local media for updates and follow the advice of local authorities. Border areas near Cambodia, Myanmar and Malaysia are dangerous due to violence, armed conflict and landmines. Pay close attention to your personal security.
 * Anti-government protests have previously occurred in Bangkok and other areas of Thailand. There may be further protests in the future. The security environment can be unpredictable and turn violent. Those attending protests can face arrest or other legal consequences. Monitor local media for information on protest locations and avoid public gatherings.
 * Road accidents are a significant cause of injury. Be alert at all times on the roads, including wearing helmets on motorcycles and motorcycle taxis.
 * Scams, credit card fraud and ATM fraud are common.

@@ -64,7 +64,7 @@ Parents of dual-national children should contact a Brazilian embassy or consulat
 
 #### Validity
 
-Authorities won't let you enter Brazil unless your passport is valid for at least 6 months from the date of your entry. This may apply even if you're just transiting.
+Authorities may not let you enter Brazil unless your passport is valid for at least 6 months from the date of your entry. This may apply even if you're just transiting.
 
 Some immigration authorities and airlines apply the rule inconsistently. Tourists can receive conflicting advice from different sources. You can end up stranded if your passport is not valid for more than 6 months.
 

@@ -4,19 +4,20 @@
 
 You're subject to all local laws and penalties, including those that may appear harsh by Australian standards. Research local laws before travelling.
 
-If you're arrested or jailed, the Australian Government will do what it can to help you under our [Consular Services Charter](/node/46). But we can't get you out of trouble or out of jail.
+If you're arrested or jailed, the Australian Government will do what it can to help you under our [Consular Services Charter](/node/46) but we can't get you out of trouble or out of jail.
 
 #### Drugs
 
-Penalties for drug offences are severe. They include long prison sentences in local jails.
+Penalties for drug offences are severe. They include long prison sentences in local jails. Prison conditions are poor.
 
 **More information:**
 
 * [Carrying or using drugs](/before-you-go/laws/drugs "Carrying or using drugs")
+* [Arrested overseas](https://www.smartraveller.gov.au/while-youre-away/when-things-go-wrong/arrested-jailed)
 
 #### Proof of identity
 
-You must always carry photo identification in Bolivia. This can be a photocopy of your passport and the Bolivian entry stamp pages.
+You must always carry photo identification in Bolivia. This should be a photocopy of your passport bio page and the Bolivian entry stamp pages.
 
 #### Other laws
 

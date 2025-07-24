@@ -53,12 +53,12 @@ Monitor local media for updates. Follow advice from local authorities (see '[Sa
 
 #### Cambodia–Thailand border
 
-Due to ongoing dispute along the Cambodia-Thailand border, the closure of all land border crossing points was announced on 24 June 2025. This situation can change at short notice, monitor local media for the latest updates and follow the advice of local authorities.
+Due to the ongoing dispute along the Cambodia-Thailand border, the closure of all land border crossing points was announced on 24 June. This situation can change at short notice, monitor local media for the latest updates and follow the advice of local authorities.
 
 If you visit this border area, landmines and unexploded military weapons are a risk. The risk is higher in and around:
 
 * the Preah Vihear temple (known as Khao Pra Viharn temple in Thailand), between Sisaket Province in Thailand and Preah Vihear Province in Cambodia
-* the Ta Krabei (known as Ta Kwai temple in Thailand) and Ta Moan Thom (known as Ta Muen temple in Thailand) temples, in Oddar Meanchey province in Cambodia
+* the Ta Krabei (known as Ta Kwai temple in Thailand) and Ta Moan Thom (known as Ta Muen temple in Thailand) temples, in Oddar Meanchey province in Cambodia.
 
 #### Working in Cambodia
 
