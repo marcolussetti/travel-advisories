@@ -97,6 +97,12 @@ You should also:
 * follow local dress codes – clothing that doesn’t meet local dress codes may cause more offence at this time
 * be aware that driving may be erratic, particularly when people are trying to get home at dusk
 
+### Illegal drugs
+
+Illegal drugs, including cannabis, carry severe penalties. You should expect a long jail sentence and heavy fines for possessing, using or smuggling illegal drugs, including when transiting through the airport.
+
+Airports in Morocco have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
+
 ### LGBT+ travellers
 
 Same-sex sexual relations are illegal in Morocco. Avoid showing affection in public – complaints can lead to prosecution. See more [advice for LGBT+ travellers](https://www.gov.uk/guidance/lesbian-gay-bisexual-and-transgender-foreign-travel-advice).

@@ -1,11 +1,11 @@
 {
     "name": "Morocco",
-    "update_reason": "Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region (\u2018Safety and security\u2019 page).",
+    "update_reason": "Addition of information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Morocco/Warnings and insurance.md",
-            "update_date": "2025-06-13T12:37:44+01:00"
+            "update_date": "2025-07-23T14:18:26+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Morocco/Getting help.md"
         }
     ],
-    "update_date": "2025-06-13T12:37:44+01:00"
+    "update_date": "2025-07-23T14:18:26+01:00"
 }

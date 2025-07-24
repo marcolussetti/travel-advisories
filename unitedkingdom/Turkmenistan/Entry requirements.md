@@ -28,7 +28,7 @@ If you have the wrong visa or if you overstay your visa, you could be prosecuted
 
 You need a letter of invitation to support your visa application. For tourist visits, authorised travel agents can provide these letters. If you are travelling on business, you will need letters from the relevant government ministries or companies you want to do business with. If you want to attend an exhibition or event, the organiser normally provides visa support.
 
-Once you have your letter of invitation you can either apply for a visa at your nearest Embassy of Turkmenistan or purchase a visa on arrival. The visa on arrival option is only available if entering the country by air to Ashgabat International Airport.
+Once you have your letter of invitation you can either apply for a visa at your nearest Embassy of Turkmenistan or purchase a visa on arrival. The visa on arrival option is available at Ashgabat International Airport and some land borders. Check with your sponsoring tour agency for latest details on land border crossings.
 
 Visas applications to an Embassy of Turkmenistan are referred to Ashgabat for a decision, which can take up to a month.
 

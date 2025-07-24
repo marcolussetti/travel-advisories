@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   22 July 2025
+:   24 July 2025
 
 Updated:
-:   21 July 2025
+:   23 July 2025
 
 Latest update:
-:   This advice has been reviewed throughout, and includes updates to the entry requirements section, and about taking photographs or using social media (‘Entry requirements’ and ‘Safety and security’ pages).
+:   Clarification that you can get a visa on arrival at Ashgabat International Airport and some land borders (‘Entry requirements’ page).
 
 ## Before you travel
 

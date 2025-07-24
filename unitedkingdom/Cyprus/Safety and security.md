@@ -147,9 +147,14 @@ Find out what you can do to [prepare for and respond to extreme weather and natu
 
 ### Wildfires
 
-Wildfires often occur during the summer months due to dry and hot weather.
+There is a high risk of wildfires during the summer season from April to October. Ensure that your mobile phone is registered to receive emergency alerts to be warned of wildfires near your location.
 
-Wildfires are dangerous and unpredictable. Take care when visiting or driving through woodland areas. Put out cigarette ends properly, and do not light barbecues outside of designated areas. If you see a fire, call the emergency services on 112 or 1407.
+Wildfires are highly dangerous and unpredictable. The situation can change quickly.
+
+Be cautious if you are in or near an area affected by wildfires:
+
+* follow the guidance of the emergency services
+* call the Cyprus emergency services on 112 if you are in immediate danger
 
 Get more [information on wildfires from the Department of Forests website](http://www.moa.gov.cy/moa/fd/fd.nsf/fd52_en/fd52_en?OpenDocument).
 

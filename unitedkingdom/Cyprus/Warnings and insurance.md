@@ -1,13 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   14 June 2025
+:   24 July 2025
 
 Updated:
-:   13 June 2025
+:   23 July 2025
 
 Latest update:
-:   Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region (‘Safety and security’ page).
+:   Information about wildfires in Cyprus ('Warnings and insurance' and 'Safety and security' pages).
+
+## Wildfires in Cyprus
+
+There is a high risk of wildfires during the summer season from April to October. For advice visit the wildfires section on the [Safety and security page](https://www.gov.uk/foreign-travel-advice/cyprus/safety-and-security)
 
 ## Before you travel
 

@@ -1,11 +1,11 @@
 {
     "name": "Cyprus",
-    "update_reason": "Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region (\u2018Safety and security\u2019 page).",
+    "update_reason": "Information about wildfires in Cyprus ('Warnings and insurance' and 'Safety and security' pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Cyprus/Warnings and insurance.md",
-            "update_date": "2025-06-13T12:39:37+01:00"
+            "update_date": "2025-07-23T20:42:00+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Cyprus/Getting help.md"
         }
     ],
-    "update_date": "2025-06-13T12:39:37+01:00"
+    "update_date": "2025-07-23T20:42:00+01:00"
 }
