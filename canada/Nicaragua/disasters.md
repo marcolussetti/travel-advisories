@@ -61,9 +61,8 @@ A tsunami can occur within minutes of a nearby earthquake. However, the risk of 
 
 #### Useful links
 
-* [Earthquakes - What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx)
-* [Latest earthquakes](https://earthquake.usgs.gov/earthquakes/map/) - U.S. Geological Survey
-* [Tsunami alerts](https://www.tsunami.gov/) - U.S. Tsunami Warning System
+* [Latest earthquakes](https://earthquake.usgs.gov/earthquakes/map/) – U.S. Geological Survey
+* [Tsunami alerts](https://www.tsunami.gov/) – U.S. Tsunami Warning System
 
 ### Volcanoes
 
@@ -85,4 +84,4 @@ In the event of a volcanic eruption:
 * monitor local media to stay informed of the evolving situation
 * follow the instructions of local authorities, including evacuation orders
 
-[Ineter](http://www.ineter.gob.ni/) - Nicaraguan Institute of Territorial Studies (in Spanish)
+[Ineter](http://www.ineter.gob.ni/) – Nicaraguan Institute of Territorial Studies (in Spanish)

@@ -24,10 +24,7 @@ If an earthquake occurs:
 * monitor local media to stay informed on the evolving situation
 * follow the instructions of local authorities
 
-#### Useful links
-
-* [Earthquakes](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx) - What to Do?
-* [Latest earthquakes](https://earthquake.usgs.gov/earthquakes/map/?extent=18.31281,-12.65625&extent=61.10079,94.21875) - U.S. Geological Survey
+[Latest earthquakes](https://earthquake.usgs.gov/earthquakes/map/?extent=18.31281,-12.65625&extent=61.10079,94.21875) – U.S. Geological Survey
 
 ### Wildfires
 

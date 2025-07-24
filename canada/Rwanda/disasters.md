@@ -6,8 +6,6 @@
 
 Rwanda is located in an active seismic zone.  However, earthquakes are not common.
 
-[Earthquakes - What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx)
-
 ### Volcanoes
 
 There are several active and dormant volcanoes in and around Rwanda.

@@ -2,6 +2,14 @@
 
 ## Safety and security
 
+### General elections
+
+General elections are scheduled to take place on August 29, 2025. Expect disruptions to traffic and public transportation.
+
+* Avoid areas where demonstrations and large gatherings are taking place
+* Follow the instructions of local authorities
+* Monitor local media for the latest information
+
 ### Power outages
 
 Power outages occur and sometimes impact essential services, such as:

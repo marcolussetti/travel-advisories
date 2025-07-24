@@ -19,7 +19,6 @@ In the event of an earthquake:
 
 #### Useful links
 
-* [Earthquakes](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx) – What to Do?
 * [Latest Earthquakes](https://earthquake.usgs.gov/earthquakes/map/) – U.S. Geological Survey
 * [Information on seismic activity](https://www.snet.gob.sv/informacion/?area=sismologia) – General Directorate of the Observatory of Threats and Natural Resources (in Spanish only)
 * [Tsunami alerts](http://tsunami.gov/) – U.S. Tsunami Warning System

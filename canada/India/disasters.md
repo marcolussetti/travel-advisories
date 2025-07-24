@@ -44,8 +44,6 @@ Parts of India are located in active seismic zones. Earthquakes occur.
 
 In the event of an earthquake, follow the instructions of local authorities.
 
-[What to do during an earthquake](https://www.getprepared.gc.ca/cnt/hzd/rthqks-drng-en.aspx)
-
 ### Air pollution
 
 Smoke haze and other types of air pollution can be extremely hazardous in urban areas and cities such as Delhi. It’s typically at its worst in winter. In rural areas, air quality can be affected by agricultural burning.

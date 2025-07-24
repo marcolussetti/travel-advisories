@@ -2,6 +2,27 @@
 
 ## Natural disasters and climate
 
+### Tropical Storm Co-May
+
+Tropical Storm Co-May is expected to gain typhoon strength and make landfall on the northwestern coast of Luzon, in the Ilocos region, on July 25, 2025.
+
+The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
+
+* transportation
+* power distribution
+* water and food supply
+* telecommunications networks
+* emergency services
+* medical care
+
+If you are in the affected area:
+
+* exercise caution
+* monitor local news and weather reports
+* follow the instructions of local authorities
+
+[Active warnings](https://pagasa.dost.gov.ph/) – Philippine Atmospheric, Geophysical and Astronomical Services Administration
+
 ### Climate change
 
 Climate change is affecting the Philippines. Extreme and unusual weather events are becoming more frequent. Monitor local news to stay informed on the current situation.
@@ -64,6 +85,5 @@ If you're staying on the coast, familiarize yourself with the region's evacuatio
 * [Hazard Hunter](https://hazardhunter.georisk.gov.ph/) – Philippine Institute of Volcanology and Seismology
 * [Philippine Institute of Volcanology and Seismology](https://www.phivolcs.dost.gov.ph/) – Department of Science and Technology
 * [Nationwide Operational Assessment of Hazards](http://noah.up.edu.ph/#/) – University of the Philippines
-* [Earthquakes – What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx)
 * [Latest earthquakes](https://earthquake.usgs.gov/earthquakes/map/?extent=18.31281,-12.65625&extent=61.10079,94.21875)  – U.S. Geological Survey
 * [Tsunami alerts](https://tsunami.gov/) – U.S. Tsunami Warning System

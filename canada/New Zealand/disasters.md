@@ -30,7 +30,7 @@ Severe rainstorms can lead to flooding and landslides. Flooding and landslides h
 
 #### Useful links
 
-* [Weather forecast](https://www.metservice.com/) - Meteorological Service of New Zealand Ltd
+* [Weather forecast](https://www.metservice.com/) – Meteorological Service of New Zealand Ltd
 * [Tornadoes, cyclones, hurricanes, typhoons and monsoons](https://travel.gc.ca/travelling/health-safety/hurricanes-typhoons-cyclones-monsoons)
 * [Large-scale emergencies abroad](https://travel.gc.ca/assistance/emergency-info/large-scale-emergencies-abroad)
 
@@ -50,8 +50,8 @@ In case of a major fire:
 
 There are 12 alpine regions in New Zealand and avalanches can occur during any season. Learn about the risks of the terrain at your destination and carry the recommended equipment.
 
-* [Avalanche Advisory](https://www.avalanche.net.nz/) - New Zealand Mountain Safety Council
-* [Be avalanche alert](https://www.doc.govt.nz/parks-and-recreation/know-before-you-go/be-avalanche-alert/) - Department of Conservation
+* [Avalanche Advisory](https://www.avalanche.net.nz/) – New Zealand Mountain Safety Council
+* [Be avalanche alert](https://www.doc.govt.nz/parks-and-recreation/know-before-you-go/be-avalanche-alert/) – Department of Conservation
 
 ### Seismic activity
 
@@ -61,10 +61,7 @@ New Zealand is located in an active seismic zone. Earthquakes and tsunamis occur
 
 If you’re staying on the coast, familiarize yourself with the region’s evacuation plans in the event of a tsunami warning.
 
-#### Useful links
-
-* [Earthquakes - What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx)
-* [Tsunami alerts](https://www.tsunami.gov/) - U.S. Tsunami Warning System
+[Tsunami alerts](https://www.tsunami.gov/) – U.S. Tsunami Warning System
 
 #### Volcanoes
 

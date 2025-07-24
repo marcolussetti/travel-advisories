@@ -20,8 +20,6 @@ In case of a significant fire:
 
 North Macedonia is located in an active seismic zone. Even minor earthquakes can cause damage.
 
-[Earthquakes - What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx)
-
 ### Flooding and landslides
 
 Heavy rains, particularly during spring and summer, can cause flooding and landslides. Roads may become impassable and infrastructure damaged.
@@ -42,7 +40,7 @@ Between November and February, Skopje and surrounding areas can be affected by t
 #### Useful links
 
 * [Meteorological forecast](https://uhmr.gov.mk/) - Hydrometeorological service (in Macedonian)
-* [Flights](http://skp.airports.com.mk/en-EN/flights) - Skopje airport
+* [Flights](http://skp.airports.com.mk/en-EN/flights) - Skopje airport
 
 ### Air pollution
 

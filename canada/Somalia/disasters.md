@@ -14,7 +14,3 @@ Seasonal flooding, including flash flooding, can hamper overland travel and redu
 * Stay away from flooded areas
 * Monitor weather reports
 * Follow instructions from local authorities, including evacuation orders
-
-[Floods – What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/flds-wtd/index-en.aspx)
-
-###

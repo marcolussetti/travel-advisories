@@ -21,8 +21,6 @@ In the event of an earthquake:
 * monitor local media for the latest developments
 * landslides are possible in affected areas, and strong aftershocks may occur after the initial earthquake
 
-[Earthquakes - What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx)
-
 ### Floods
 
 Severe rainstorms occur in various regions around Türkiye, especially in the Black Sea region and coastal areas. Heavy rainfall can cause severe flooding and landslides, resulting in extensive damage to infrastructure and hampering the provision of essential services in the affected areas. Roads may become impassable and bridges damaged.

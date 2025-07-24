@@ -6,10 +6,7 @@
 
 Croatia is located in an active seismic zone. Even minor earthquakes can cause significant damage.
 
-#### Useful links
-
-* [Earthquakes - What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx)
-* [Latest earthquakes @seizmo\_hr](https://twitter.com/seizmo_hr) - Seismological Survey
+[Latest earthquakes @seizmo\_hr](https://twitter.com/seizmo_hr) - Seismological Survey
 
 ### Wildfires
 

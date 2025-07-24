@@ -14,7 +14,4 @@ Heavy rains, particularly in the fall and winter, can cause flooding. Roads may 
 * Stay informed of the latest regional weather forecasts
 * Follow the instructions of local authorities, including evacuation orders
 
-#### Useful links
-
-* [Floods – What to do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/flds-wtd/index-en.aspx)
-* [Saint Pierre and Miquelon weather](https://meteofrance.pm/fr) (French only)
+[Saint Pierre and Miquelon weather](https://meteofrance.pm/fr) (French only)

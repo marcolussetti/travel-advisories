@@ -6,8 +6,6 @@
 
 Mongolia is located in an active seismic zone. Earthquakes and landslides occur.
 
-[Earthquakes - What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx)
-
 ### Flooding and landslides
 
 Heavy rains, particularly from mid-July to mid-September, can cause severe flooding and landslides. Roads may become impassable and infrastructure damaged.
@@ -16,7 +14,7 @@ Heavy rains, particularly from mid-July to mid-September, can cause severe flood
 * Stay informed of the latest regional weather forecasts
 * Follow the advice of local authorities, including evacuation orders
 
-[Large-scale emergencies abroad](https://travel.gc.ca/assistance/emergency-info/large-scale-emergencies-abroad)
+[Large-scale emergencies outside Canada](https://travel.gc.ca/assistance/emergency-info/large-scale-emergencies-abroad)
 
 ### Dust storms
 
@@ -45,4 +43,4 @@ During periods of high pollution:
 
 Consult your doctor before booking your trip if you have lung, heart or respiratory problems
 
-[Air pollution in Ulaanbaatar](https://aqicn.org/city/ulaanbaatar/mnb/) - World Air Quality Index
+[Air pollution in Ulaanbaatar](https://aqicn.org/city/ulaanbaatar/mnb/) – World Air Quality Index

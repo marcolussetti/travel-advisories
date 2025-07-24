@@ -6,10 +6,7 @@
 
 Montenegro is located in an active seismic zone. Even minor earthquakes can cause damage.
 
-#### Useful links
-
-* [Latest earthquakes](http://www.seismo.co.me/web/Posljednji zemljotres_CG.htm) - Hydrometeorological and Seismological Service of Montenegro
-* [Earthquakes - What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx)
+[Latest earthquakes](http://www.seismo.co.me/web/Posljednji zemljotres_CG.htm) - Hydrometeorological and Seismological Service of Montenegro
 
 ### Wildfires
 

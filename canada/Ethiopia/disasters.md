@@ -15,8 +15,6 @@ If you are in or near an affected area:
 * keep your phone charged and have a list of emergency numbers
 * follow instructions of local authorities, including evacuation orders
 
-[Earthquakes – What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx)
-
 ### Drought
 
 Due to below-average rainfall for several years in a row, Ethiopia is experiencing severe drought.

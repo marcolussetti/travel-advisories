@@ -27,5 +27,3 @@ It can disrupt the provision of the following essential services:
 #### Earthquakes
 
 Georgia is located in an active seismic zone. Earthquakes may cause landslides in affected areas, and strong aftershocks may occur up after the initial tremor.
-
-[Earthquakes - What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx)

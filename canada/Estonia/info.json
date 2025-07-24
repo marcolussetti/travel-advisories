@@ -1,7 +1,7 @@
 {
     "name": "Estonia",
-    "update_reason": "The Need help? section was updated.",
-    "update_date": "2025-07-15T11:14:00",
+    "update_reason": "Editorial change",
+    "update_date": "2025-07-23T08:38:00",
     "sections": {
         "risk": "canada/Estonia/risk.md",
         "security": "canada/Estonia/security.md",

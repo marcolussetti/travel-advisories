@@ -17,5 +17,3 @@ Heavy rains and seasonal storms can cause severe flooding and landslides. Roads 
 ### Earthquakes
 
 Malta is located in an active seismic zone. However, earthquakes are rare.
-
-[Earthquakes - What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx)

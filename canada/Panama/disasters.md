@@ -33,6 +33,7 @@ A tsunami can occur within minutes of a nearby earthquake. However, the risk of 
 
 In the event of a natural disaster, follow the advice of the local authorities.
 
-* [Earthquakes – What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx)
+#### Useful links
+
 * [Tsunami alerts](http://tsunami.gov/) – U.S. Tsunami Warning System
 * [Latest earthquakes](https://earthquake.usgs.gov/earthquakes/map/) – U.S. Geological Survey

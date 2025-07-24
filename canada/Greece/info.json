@@ -1,7 +1,7 @@
 {
     "name": "Greece",
-    "update_reason": "The Need help? section was updated.",
-    "update_date": "2025-07-02T08:03:00",
+    "update_reason": "Editorial change",
+    "update_date": "2025-07-23T08:45:00",
     "sections": {
         "risk": "canada/Greece/risk.md",
         "security": "canada/Greece/security.md",

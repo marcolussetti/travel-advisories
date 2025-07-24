@@ -21,10 +21,7 @@ In the event of an earthquake:
 * monitor local media for the latest developments
 * landslides are possible in affected areas, and strong aftershocks may occur after the initial earthquake
 
-#### Useful links
-
-* [Earthquakes](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx) - What to Do?
-* [Latest earthquakes](https://earthquake.usgs.gov/earthquakes/map/?extent=18.31281,-12.65625&extent=61.10079,94.21875) - U.S. Geological Survey
+[Latest earthquakes](https://earthquake.usgs.gov/earthquakes/map/?extent=18.31281,-12.65625&extent=61.10079,94.21875) – U.S. Geological Survey
 
 ### Dust storms
 
@@ -51,4 +48,4 @@ In the event of flooding:
 * stay informed of the latest regional weather forecasts
 * follow the instructions of local authorities
 
-[Large-scale emergencies abroad](https://travel.gc.ca/assistance/emergency-info/large-scale-emergencies-abroad)
+[Large-scale emergencies outside Canada](https://travel.gc.ca/assistance/emergency-info/large-scale-emergencies-abroad)

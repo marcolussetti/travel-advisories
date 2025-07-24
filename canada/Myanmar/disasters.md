@@ -6,9 +6,9 @@
 
 On March 28, 2025, a magnitude 7.7 earthquake, followed by a 6.4 aftershock, struck near Sagaing and Mandalay, causing extensive infrastructure damage and resulting in several casualties.
 
-Additional tremors could occur.
+Additional tremors are likely to continue.
 
-There are significant disruptions to essential services and a state of emergency is in effect in the following regions:
+Early recovery work is underway, but there are significant disruptions essential services in the following regions:
 
 * Sagaing
 * Mandalay
@@ -17,12 +17,10 @@ There are significant disruptions to essential services and a state of emergency
 * Naypyidaw
 * Bago
 
-Confirm with your airline that the airport is open before you travel.
-
 If you are in the affected area:
 
 * monitor local media to stay informed of the latest developments
-* seek shelter in a safe place, away from buildings and infrastructure
+* seek shelter in a safe place, away from buildings and infrastructure, during aftershocks
 * follow instructions from local authorities, including evacuation orders
 
 ### Climate change
@@ -31,7 +29,7 @@ Climate change is affecting Myanmar. Extreme and unusual weather events are beco
 
 ### Seismic activity
 
-Myanmar is located in an active seismic zone and minor earthquakes are common.
+Myanmar is located in a highly active seismic zone. A major earthquake occurred in March 2025 and minor earthquakes are common.
 
 ### Monsoons and typhoons
 
@@ -41,7 +39,4 @@ Cyclones usually occur between April and October. Severe rainstorms can result i
 
 Keep informed of regional weather forecasts, avoid disaster areas and follow the instructions of local authorities.
 
-#### Useful links
-
-* [Earthquakes - What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx)
-* [Tornadoes, cyclones, hurricanes, typhoons and monsoons](https://travel.gc.ca/travelling/health-safety/hurricanes-typhoons-cyclones-monsoons)
+[Tornadoes, cyclones, hurricanes, typhoons and monsoons](https://travel.gc.ca/travelling/health-safety/hurricanes-typhoons-cyclones-monsoons)

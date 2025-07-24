@@ -37,7 +37,6 @@ Mount Vesuvius and the Phlegraean Fields in the Naples area are active volcanoes
 
 #### Useful links
 
-* [Earthquakes - What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx)
 * [Information on active volcanoes](https://www.ingv.it/it/dati-in-tempo-reale-vulcani-maps) - Italian National Institute of Geophysics and Volcanology (in Italian only)
 * [Information on seismic activity in Italy](https://rischi.protezionecivile.gov.it/en/seismic-0) - Italian Civil Protection Department
 

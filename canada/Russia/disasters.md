@@ -31,10 +31,7 @@ Parts of Russia are in active seismic zones. Earthquakes commonly occurs in:
 
 Even minor earthquakes can cause significant damage.  Landslides can occur with little warning following volcanic eruptions and earthquakes. Roads may become impassable.
 
-#### Useful links
-
-* [Earthquakes – What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx)
-* [Earthquake Early Alert Service](http://www.gsras.ru/new/eng/ssd.htm) – Russian Academy of Science
+[Earthquake Early Alert Service](http://www.gsras.ru/new/eng/ssd.htm) – Russian Academy of Science
 
 #### Volcanoes
 

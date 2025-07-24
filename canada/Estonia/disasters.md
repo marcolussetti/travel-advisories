@@ -13,5 +13,3 @@ Heavy rains and melting snow can cause flooding and landslides. Flooding can ham
 * Exercise caution, particularly in areas around rivers
 * Stay informed of the latest regional weather forecasts
 * Follow the instructions of local authorities, including evacuation orders
-
-[Floods – What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/flds-wtd/index-en.aspx%22%20/t%20%22_blank)

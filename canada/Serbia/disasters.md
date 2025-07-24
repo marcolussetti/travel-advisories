@@ -10,8 +10,6 @@ Climate change is affecting Serbia. Extreme and unusual weather events are becom
 
 Serbia is located in an active seismic zone.
 
-[Earthquakes - What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx)
-
 ### Bush and forest fires
 
 Bush and forest fires are common in the summer months. The air quality in areas near active fires may deteriorate due to heavy smoke. In case of a major fire, stay away from the affected area, particularly if you suffer from respiratory ailments.

@@ -55,6 +55,5 @@ Tsunami warnings may be issued after a strong earthquake. A tsunami can occur wi
 #### Useful links
 
 * [COPECO](http://copeco.gob.hn/) – Honduran disaster relief agency (in Spanish)
-* [Earthquakes](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx) – What to Do?
 * [Latest earthquakes](https://earthquake.usgs.gov/earthquakes/map/) – U.S. Geological Survey
 * [Tsunami alerts](http://tsunami.gov/) – U.S. Tsunami Warning System

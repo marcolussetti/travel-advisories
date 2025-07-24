@@ -14,8 +14,6 @@ Heavy rains, particularly in the winter, can cause flooding and landslides. Road
 * Stay informed of the latest regional weather forecasts
 * Follow the instructions of local authorities, including evacuation orders
 
-[Floods – What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/flds-wtd/index-en.aspx)
-
 ### Wildfires
 
 High temperatures create dry conditions, which can lead to large fires throughout Luxembourg, particularly in the spring and summer. Fires can lead to transportation disruptions. Heavy smoke may deteriorate the air quality in areas near active fires.

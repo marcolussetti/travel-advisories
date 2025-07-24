@@ -1,7 +1,7 @@
 {
     "name": "Myanmar",
-    "update_reason": "Health \u2013 removal of the outbreak monitoring (OM) alert for post-earthquake health risks in Myanmar",
-    "update_date": "2025-07-21T11:15:00",
+    "update_reason": "Natural disasters and climate \u2013 updated information on the earthquake in central Myanmar",
+    "update_date": "2025-07-23T11:25:00",
     "sections": {
         "risk": "canada/Myanmar/risk.md",
         "security": "canada/Myanmar/security.md",

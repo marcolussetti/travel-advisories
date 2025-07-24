@@ -45,5 +45,3 @@ During a sand or dust storm :
 ### Earthquakes
 
 Although Tunisia is not located in a high-risk zone for earthquakes, small tremors do occasionally occur.
-
-[Earthquakes - What to do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx)

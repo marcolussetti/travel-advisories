@@ -31,8 +31,6 @@ If you decide to travel to Tonga during cyclone season:
 
 Tonga is located on the Pacific Ring of Fire and experiences regular seismic activity.
 
-[Earthquakes – What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx)
-
 ### Volcanoes
 
 On July 3, 2024, the Home Reef Volcano started erupting. You should stay at least 5 km away from the volcano.

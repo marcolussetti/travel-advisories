@@ -10,8 +10,6 @@ Climate change is affecting Moldova. Extreme and unusual weather events are beco
 
 Moldova is located in an active seismic zone. The region is prone to earthquakes.
 
-[Earthquakes – What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx)
-
 ### Flooding and landslides
 
 There is a risk of flooding and landslides during the spring and the fall.

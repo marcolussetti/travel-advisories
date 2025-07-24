@@ -45,6 +45,5 @@ In the event of an earthquake:
 
 #### Useful links
 
-* [Earthquakes – What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx)
 * [Tsunami alerts](https://www.tsunami.gov/) – U.S. Tsunami Warning System
 * [Latest earthquakes](https://earthquake.usgs.gov/earthquakes/map/) – U.S. Geological Survey

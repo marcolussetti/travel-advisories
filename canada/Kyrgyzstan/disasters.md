@@ -4,9 +4,8 @@
 
 Kyrgyzstan is in an active seismic zone. Earthquakes occur.
 
-#### Useful links:
+#### Useful links
 
-* [Earthquakes - What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx)
 * [Large-scale emergencies abroad](https://travel.gc.ca/assistance/emergency-info/large-scale-emergencies-abroad)
 * [Safety precautions in case of an emergency situation](http://en.mes.kg/) - Ministry of Emergency Situations of Kyrgyzstan
 

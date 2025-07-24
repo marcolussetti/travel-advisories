@@ -37,5 +37,3 @@ In case of a significant fire:
 ### Seismic activity
 
 Slovenia is located in an active seismic zone. Even minor earthquakes can cause damage.
-
-[Earthquakes - What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx)

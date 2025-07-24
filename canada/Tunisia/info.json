@@ -1,7 +1,7 @@
 {
     "name": "Tunisia",
-    "update_reason": "Risk levels \u2013 updated the advisory for the border with Algeria",
-    "update_date": "2025-07-22T17:11:00",
+    "update_reason": "Editorial change",
+    "update_date": "2025-07-23T10:25:00",
     "sections": {
         "risk": "canada/Tunisia/risk.md",
         "security": "canada/Tunisia/security.md",

@@ -59,7 +59,6 @@ If you’re staying on the coast, familiarize yourself with the region’s evacu
 
 * [Alerts Ecuador](https://alertasecuador.gob.ec/) – Risk Management Secretariat (in Spanish only)
 * [Tsunami Early Warning System](https://www.gestionderiesgos.gob.ec/tsunami/) – Government of Ecuador (in Spanish only)
-* [Earthquakes – What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx)
 * [Latest earthquakes](https://earthquake.usgs.gov/earthquakes/map/) – U.S. Geological Survey
 * [Tsunami alerts](https://www.tsunami.gov/) – U.S. Tsunami Warning System
 

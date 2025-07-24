@@ -10,8 +10,6 @@ Summers are usually hot and dry with temperatures often exceeding 40 C. Winters 
 
 Uzbekistan is located in an active seismic zone. Although there have been no incidents in recent years, a tremor can occur at any time.
 
-[Earthquakes – What to do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx)
-
 ### Rainy season
 
 In Uzbekistan, the rainy season usually extends from November to May. Rain is very rare during summer months.

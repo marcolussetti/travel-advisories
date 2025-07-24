@@ -100,5 +100,3 @@ Landslides can occur with little warning following volcanic eruptions and earthq
 * Monitor local media for the latest updates, including those on road conditions
 * Stay away from flooded areas
 * Monitor weather reports
-
-[Earthquakes - What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx)

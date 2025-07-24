@@ -52,10 +52,7 @@ If you’re in or near the affected areas:
 * monitor local media for the latest information
 * follow instructions from local authorities, including evacuation orders
 
-#### Useful links
-
-* [CONRED](https://conred.gob.gt/) – National Coordinator for Disaster Reduction (in Spanish only)
-* [Earthquakes – What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx)
+[CONRED](https://conred.gob.gt/) – National Coordinator for Disaster Reduction (in Spanish only)
 
 Guatemala is located in an active seismic zone. Earthquakes and tsunamis can occur.
 
@@ -75,6 +72,5 @@ In the event of an earthquake or volcanic eruption:
 #### Useful links
 
 * [CONRED](https://conred.gob.gt/) – National Coordinator for Disaster Reduction (in Spanish)
-* [Earthquakes – What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx)
 * [Tsunami warning system](http://tsunami.gov/) – U.S. National Weather Service
 * [Latest earthquakes](https://earthquake.usgs.gov/earthquakes/map/) – U.S. Geological Survey

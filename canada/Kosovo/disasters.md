@@ -10,8 +10,6 @@ Climate change is affecting Kosovo. Extreme and unusual weather events are becom
 
 Kosovo is located in an active seismic zone. Even minor earthquakes can cause significant damage.
 
-[Earthquakes - What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx)
-
 ### Wildfires
 
 Forest fires are common between June and September, particularly in northern Kosovo. The air quality in areas near active fires may deteriorate due to heavy smoke.

@@ -8,12 +8,9 @@ Climate change is affecting Yemen. Extreme and unusual weather events are becomi
 
 ### Earthquakes
 
-Yemen is located in a seismic and a volcanic zone.
+Yemen is located in a seismic and volcanic zone.
 
-#### Useful links
-
-* [Earthquakes - What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx)
-* [Large-scale emergencies abroad](https://travel.gc.ca/assistance/emergency-info/large-scale-emergencies-abroad)
+[Large-scale emergencies outside Canada](https://travel.gc.ca/assistance/emergency-info/large-scale-emergencies-abroad)
 
 ### Severe weather
 
@@ -50,4 +47,4 @@ In the event of flooding:
 * stay informed of the latest regional weather forecasts
 * follow the instructions of emergency responders, including evacuation orders
 
-[Large-scale emergencies abroad](https://travel.gc.ca/assistance/emergency-info/large-scale-emergencies-abroad)
+[Large-scale emergencies outside Canada](https://travel.gc.ca/assistance/emergency-info/large-scale-emergencies-abroad)

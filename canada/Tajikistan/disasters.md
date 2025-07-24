@@ -10,8 +10,6 @@ Climate change is affecting Tajikistan. Extreme and unusual weather events are b
 
 Tajikistan is located in an active seismic zone. There have been no major incidents in recent years, but minor tremors occur frequently and could trigger mudflows and landslides.
 
-[Earthquakes – What to do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx)
-
 ### Avalanches
 
 There is a risk of avalanches in mountainous regions, especially following heavy snowfalls.

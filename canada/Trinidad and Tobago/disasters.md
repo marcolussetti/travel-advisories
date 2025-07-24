@@ -33,7 +33,4 @@ Trinidad and Tobago is located in an active seismic zone.
 
 Trinidad and Tobago’s Office of Disaster Preparedness and Management and the University of the West Indies’ Seismic Research Centre provide information and advice in the event of an earthquake.
 
-#### Useful links
-
-* [Alerts and more information about seismic activity](https://odpm.gov.tt/) – Office of Disaster Preparedness and Management
-* [Earthquakes – What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx)
+[Alerts and more information about seismic activity](https://odpm.gov.tt/) – Office of Disaster Preparedness and Management

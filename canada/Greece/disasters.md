@@ -18,7 +18,6 @@ If you're travelling near an active volcano or are practising volcano tourism:
 
 #### Useful links
 
-* [Earthquakes – What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx)
 * [Latest earthquakes](https://www.gein.noa.gr/en/) – National Observatory of Athens
 * [Volcanic eruptions](https://www.civilprotection.gr/en/volcanic-eruptions#:~:text=PREPAREDNESS%20FOR%20VOLCANIC%20ERUPTIONS,tens%20of%20kilometers%20from%20these) – Ministry for climate crisis and civil protections
 
