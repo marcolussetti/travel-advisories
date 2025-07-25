@@ -4,11 +4,42 @@
 
 ### Disputed Cambodia-Thailand border region
 
-Cambodia and Thailand have an ongoing border dispute. Tensions have increased since an exchange of fire on May 28, 2025. Land border crossings between Cambodia and Thailand may be closed or have their hours of operation changed unexpectedly.
+Cambodia and Thailand have an ongoing border dispute. Tensions have increased since an exchange of fire on May 28, 2025, and have escalated to armed conflict with multiple casualties on July 24, 2025.
+
+Land mines are present in the disputed border regions. Land border crossings between Cambodia and Thailand may be closed or have their hours of operation changed unexpectedly.
+
+Cross at designated border crossing points only, with the required travel documentation.
 
 * Expect an increased military presence and vigilance
 * Follow the instructions of local authorities
-* Exercise increased caution if you are travelling to any Cambodian-Thai border areas
+* Exercise increased caution if you are travelling to any Cambodia-Thailand border areas
+
+### Landmines
+
+Cambodia is one of the most heavily mined countries in the world. Landmines pose a threat to the safety of travellers.
+
+There are still reports of landmines in the following areas:
+
+* the Preah Vihear Phnom Kulen temple areas
+* the border areas, including with Thailand
+* the River of a Thousand Lingas
+
+There are also landmines in rural areas, especially in the following provinces:
+
+* Banteay Meanchey
+* Battambang
+* Kampong Thom
+* Pursat
+* Siem Reap except in the town of Siem Reap and the Angkor temples, which are considered clear by the Cambodian government
+
+If you are travelling through the affected areas:
+
+* be especially vigilant in remote areas, near small bridges and secondary roads
+* do not walk in forested areas, fields or in dry rice paddies without a local guide
+* don't handle suspicious items and report them to local authorities
+* pay attention to signs indicating the possible presence of landmines
+* stay on paved and main roads and avoid roadside ditches, shoulders and unmarked trails
+* cross only at official border crossings
 
 ### Crime
 
@@ -44,32 +75,7 @@ During your trip:
 * avoid walking alone after dark
 * report any criminal incidents to the local police of the jurisdiction, before leaving Cambodia
 
-### Landmines
-
-Cambodia is one of the most heavily mined countries in the world. Landmines pose a threat to the safety of travellers.
-
-There are still reports of landmines in the following areas:
-
-* the Preah Vihear Phnom Kulen temple areas
-* the border areas, including with Thailand
-* the River of a Thousand Lingas
-
-There are also landmines in rural areas, especially in the following provinces:
-
-* Banteay Meanchey
-* Battambang
-* Kampong Thom
-* Pursat
-* Siem Reap except in the town of Siem Reap and the Angkor temples, which are considered clear by the Cambodian government
-
-If you are travelling through the affected areas:
-
-* be especially vigilant in remote areas, near small bridges and secondary roads
-* do not walk in forested areas, fields or in dry rice paddies without a local guide
-* don't handle suspicious items and report them to local authorities
-* pay attention to signs indicating the possible presence of landmines
-* stay on paved and main roads and avoid roadside ditches, shoulders and unmarked trails
-* cross only at official border crossings
+### 
 
 ### Terrorism
 

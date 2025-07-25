@@ -57,6 +57,14 @@ You must have an invitation from a Ukrainian company or individual if travelling
 
 Foreigners who join the Ukrainian Armed Forces must sign a six-month contract with the Ukrainian Armed Forces and are not allowed to leave the country during this period.
 
+### Dual citizenship
+
+Dual citizenship is not legally recognized in Ukraine. In some cases, border authorities have refused to let dual citizens of Canada and Ukraine (both men and women) leave Ukraine on their Canadian passports.
+
+If you were born in Ukraine and lived there after 1991, and have not renounced your Ukrainian citizenship, you are considered a Ukrainian citizen and must travel on a Ukrainian passport. Travelling on a foreign passport is a violation of local migration laws, and you may have to pay a fine.
+
+Canadian citizens born to Ukrainian parents may unknowingly have Ukrainian citizenship. If you have family ties to Ukraine, you should contact the nearest Ukrainian embassy or consulate about potential citizenship obligations before travelling to Ukraine.
+
 ### Other entry requirements
 
 Immigration officials may ask for proof of sufficient funds to cover your stay in Ukraine.

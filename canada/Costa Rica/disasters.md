@@ -2,16 +2,6 @@
 
 ## Natural disasters and climate
 
-### Poás Volcano
-
-Costa Rican authorities are closely monitoring the active Poás Volcano. Although authorities have reduced the alert level to “orange” (level 3 on a scale of 4) for the surrounding area, Poás Volcano National Park remains closed.
-
-An orange alert is also in effect for the nearby district of Toro Amarillo.
-
-If you are near the Poás Volcano, you should monitor local media to stay informed of the evolving situation.
-
-[For more information on volcanoes](#volcano)
-
 ### Hurricane season
 
 Hurricanes usually occur from mid-May to the end of November. During this period, even small tropical storms can quickly develop into major hurricanes.

@@ -32,15 +32,15 @@ Dual citizenship is not legally recognized in Ukraine.
 
 If local authorities consider you a citizen of Ukraine, they may refuse to grant you access to Canadian consular services. This will prevent us from providing you with those services.
 
-You may be considered a citizen of Ukraine if you were born in Ukraine or if one or both of your parents are Ukrainian citizens.
+If you were born in Ukraine and lived there after 1991, and have not renounced your Ukrainian citizenship, you are considered a Ukrainian citizen. Canadian citizens born in Ukraine, or born to Ukrainian parents, may unknowingly have Ukrainian citizenship.
 
-Due to the ongoing Russian military invasion, males between 18 and 60 years of age holding Ukrainian citizenship are prohibited from leaving the country.
+Due to the ongoing Russian military invasion, men between 18 and 60 years of age holding Ukrainian citizenship are prohibited from leaving the country.
 
 [Dual citizens](https://travel.gc.ca/travelling/documents/dual-citizenship)
 
 ### Mandatory military service (mobilization)
 
-Ukraine has mandatory military service for males over the age of 18. Due to the ongoing Russian military invasion, Ukrainian men between 18 and 60 years may be subject to mobilization
+Ukraine has mandatory military service for men over the age of 18. Due to the ongoing Russian military invasion, Ukrainian men between 18 and 60 years may be subject to mobilization.
 
 ### International Child Abduction
 

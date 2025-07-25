@@ -2,6 +2,18 @@
 
 ## Safety and security
 
+### Disputed Thailand-Cambodia border region
+
+The security environment is volatile at the border between Thailand and Cambodia due to an ongoing border dispute in the region. Tensions have increased since an exchange of fire on May 28, 2025, and have escalated to armed conflict  with multiple casualties on July 24, 2025.
+
+Land mines are present in the disputed border regions. Land border crossings between Thailand and Cambodia may be closed or change their hours of operation unexpectedly.
+
+Cross at designated border crossing points only, with the required travel documentation.
+
+* Expect an increased military presence and vigilance
+* Follow the instructions of local authorities
+* Exercise increased caution if you are travelling to any Thailand-Cambodia border areas
+
 ### Southern provinces of Narathiwat, Pattani, Songkhla and Yala
 
 Separatist insurgents periodically perpetrate criminally and politically motivated attacks in the southernmost provinces of Narathiwat, Pattani, Songkhla and Yala.
@@ -28,14 +40,6 @@ Exercise a high degree of caution when travelling to the Thailand-Myanmar border
 Occasional violence, banditry and clashes between government forces and drug traffickers occur.
 
 Border crossing points may be closed without notice. Cross at designated border crossing points only, with the required travel documentation.
-
-### Disputed Thailand-Cambodia border region
-
-Thailand and Cambodia have an ongoing border dispute in the region. Tensions have increased since an exchange of fire on May 28, 2025. Land border crossings between Thailand and Cambodia may be closed or change their hours of operation unexpectedly.
-
-* Expect an increased military presence and vigilance
-* Follow the instructions of local authorities
-* Exercise increased caution if you are travelling to any Thai-Cambodian border areas
 
 ### Political tensions
 
