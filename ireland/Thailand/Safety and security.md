@@ -24,15 +24,17 @@ As of June 2025, the Government has confirmed that recreational use of cannabis 
 
 Some Irish nationals have suffered severe psychiatric effects due to cannabis use while in Thailand.
 
-The export of cannabis from Thailand without appropriate authorisation continues to constitute a criminal offence and offenders are liable for severe penalties.**Southern Border Provinces**
+The export of cannabis from Thailand without appropriate authorisation continues to constitute a criminal offence and offenders are liable for severe penalties.
+
+### **Southern Border Provinces**
 
 We advise against all travel to or through the Southern Thai Provinces of Pattani, Yala, Narathiwat and Southern Songkhla due to ongoing instability and terrorist activity in this region. On 10 March 2019, a number of small explosions occurred in Satun City and in Patthalung Province in the South of Thailand and in December 2018; there was a number of small explosions on Samila beach in Songkhla City.
 
 Martial law still applies in these Provinces. There are frequent incidences of violence and there have been reports that extremists may be planning to target westerners in the southern border Provinces.
 
-### **Cambodian Border**
+### **Cambodian Border Region**
 
-There is an ongoing border dispute between Thailand and Cambodia, which has led to occasional clashes between Thai and Cambodian troops. As a consequence of the border tensions, land crossings between Thailand and Cambodia have been subject to temporary closures and restrictions. Irish citizens should take extra care when travelling in areas close to the border and follow the instructions and advice of the national and local authorities. Travellers intending to travel by land between the two countries should check in advance to make sure that border crossings are open in order to avoid travel delay or disruption.
+We advise against all travel to the entirety of the border region between Thailand and Cambodia, where armed clashes have been taking place between Thai and Cambodian armed forces arising from escalating tensions related to longstanding border disputes. The clashes have resulted in fatalities, including civilian fatalities. Border crossings are subject to restrictions and closures, and there may also be a possibility of disruption to air travel between the two countries. We strongly advise citizens against any attempt to approach or cross the border. The situation remains very fluid and Irish citizens in Thailand or intending to visit the country should pay close attention to authoritative sources of information and advice, and remain vigilant at all times.
 
 ### **Burmese/Myanmar Border**
 

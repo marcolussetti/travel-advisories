@@ -15,7 +15,7 @@ Ensure you are [**registered**](https://www.ireland.ie/en/dfa/overseas-travel/ci
 Follow our social media channels for the latest updates:
 
 [**Facebook**](https://www.facebook.com/IrishEmbassyThailand)  
-[**Twitter**](https://twitter.com/IrlEmbBangkok)
+[**X**](https://x.com/IrlEmbBangkok)
 
 ### **Medical Treatment and Health Insurance – Very Important**
 
