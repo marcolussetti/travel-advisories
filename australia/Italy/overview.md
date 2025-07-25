@@ -2,7 +2,7 @@
 
 Latest update
 
-The Jubilee, also known as the Holy Year, is taking place throughout 2025. Large numbers of visitors are expected and there's likely to be a high demand for accommodation. Traffic disruptions and an increased risk of petty crime could occur. Make early preparations if you're visiting Rome during this time (see 'Travel').
+Vehicle break-ins and thefts are common in Italy. Australians have had belongings, including passports and other valuables stolen from parked cars. Avoid leaving valuables in your car, private van or tour bus (see 'Safety').
 
 Advice Level summary
 
@@ -22,6 +22,7 @@ Exercise normal safety precautions in Italy.
 
 ### Safety
 
+* Vehicle break-ins and thefts are common in Italy. Australians have had belongings, including passports and other valuables stolen from parked cars. Avoid leaving valuables in your car, private van or tour bus.
 * Petty crime is common. Be aware of pickpockets and bag snatchers at tourist spots and on transport, particularly at central train stations. Thieves often work in groups on trains. Take care of your belongings.
 * Bombings against political targets happen. Avoid protests and crowds. Monitor local news.
 * Always be alert to terrorism. Terrorists have targeted European cities, including transport hubs and places visited by travellers. Take official warnings seriously.

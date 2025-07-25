@@ -38,32 +38,23 @@ For consular help, contact:
 
 #### Australian Embassy Rome
 
-Via Antonio Bosio 5
+Via Antonio Bosio 5  
+00161 Rome, Italy
 
-00161 Rome, Italy 
-
-Phone: +39 06 85 2721
-
-Email: [consular-rome@dfat.gov.au](mailto:consular-rome@dfat.gov.au)
-
-Website: [italy.embassy.gov.au](http://www.italy.embassy.gov.au/rome/home.html)
-
-Facebook: [Australian Embassy, Italy](https://www.facebook.com/AusEmbIT/) 
-
+Phone: +39 06 85 2721  
+Email: [consular-rome@dfat.gov.au](mailto:consular-rome@dfat.gov.au)  
+Website: [italy.embassy.gov.au](http://www.italy.embassy.gov.au/rome/home.html)  
+Facebook: [Australian Embassy, Italy](https://www.facebook.com/AusEmbIT/)   
 X: [@AusAmbItaly](https://x.com/AusAmbItaly)
 
 #### Australian Consulate-General Milan
 
-3rd Floor
+3rd Floor  
+Via Borgogna 2  
+20122 Milan, Italy
 
-Via Borgogna 2
-
-20122 Milan, Italy 
-
-Phone: +39 02 7767 4200
-
-Email: [consular-milan@austrade.gov.au](mailto:consular-milan@austrade.gov.au)
-
+Phone: +39 02 7767 4200  
+Email: [consular-milan@austrade.gov.au](mailto:consular-milan@austrade.gov.au)  
 Website: [www.austrade.gov.au/en/contact-us/international-offices/italy](https://www.austrade.gov.au/en/contact-us/international-offices/italy)
 
 Check the Embassy website for details about opening hours and any temporary closures.

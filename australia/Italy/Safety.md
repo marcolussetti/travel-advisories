@@ -8,6 +8,7 @@ Thieves are most active:
 
 * in larger cities
 * in and around major tourist spots
+* in parked cars
 * on public transport
 * at major airports
 * at railway stations and bus terminals
@@ -21,6 +22,27 @@ To reduce the risk of theft:
 * avoid walking in quiet and poorly lit streets, especially at night
 
 Monitor local sources for advice about new safety or security risks.
+
+#### Theft from cars
+
+Vehicle break-in and theft is common. Many Australians have had belongings, including passports and other valuables stolen from their parked cars. Avoid leaving luggage in your car or out of sight for any length of time.
+
+Large tour buses and campervans on busy streets are routinely targeted. 
+
+There are reports of thieves slashing tyres and staging roadside emergencies. They aim to persuade drivers to pull over and get out of their cars. While the driver is distracted, the thieves steal personal belongings.
+
+Popular targets for thieves include:
+
+* in the streets near historic sites
+* car parks near beaches, coastal areas and shopping malls
+* rest stops and service stations
+* camping sites.
+
+To reduce your risk of theft from your vehicle:
+
+* don't leave valuables in your vehicle
+* when you leave your vehicle, lock all doors
+* try to use a secure parking facility, especially overnight.
 
 #### Theft on trains
 
@@ -78,27 +100,6 @@ Be alert to the potential risks. Stick to reputable venues and avoid homemade al
 **More information:**
 
 * [Partying safely](/before-you-go/safety/partying "Partying safely")
-
-#### Theft from cars
-
-Vehicle break-in and theft is common. Many Australians have had belongings, including passports and other valuables, stolen from their parked cars.
-
-Thieves steal from cars at traffic lights, rest stops, service stations and on the roadside.
-
-Lock your car doors and keep luggage and valuables out of sight.
-
-There are reports of thieves slashing tyres or staging roadside emergencies. They aim to persuade drivers to pull over and get out of their cars. While the driver is distracted, the thieves steal personal belongings.
-
-Popular targets for thieves are unattended campervans or mobile homes either:
-
-* parked at camping sites
-* in the streets near historic sites
-
-To reduce your risk of theft from your vehicle:
-
-* don't leave valuables in your vehicle
-* when you leave your vehicle, lock all doors
-* try to use a secure parking facility, especially overnight
 
 #### Cyber security
 

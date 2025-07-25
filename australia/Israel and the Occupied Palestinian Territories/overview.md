@@ -2,7 +2,7 @@
 
 Latest update
 
-We've reviewed our advice for Israel and the Occupied Palestinian Territories and have lowered the overall travel advice level. We now advise reconsider your need to travel to Israel and the Occupied Palestinian Territories overall due to the volatile security situation, armed conflict, civil unrest and terrorism.   
+We continue to advise reconsider your need to travel to Israel and the Occupied Palestinian Territories overall due to the volatile security situation, armed conflict, civil unrest and terrorism.   
   
 We continue to advise do not travel to Gaza and areas near the border with Gaza, border areas with Lebanon and the West Bank (excluding East Jerusalem).   
   
@@ -12,11 +12,13 @@ In an attack or other armed conflict, you should take shelter, follow the advice
   
 If you intend to travel by land into a neighbouring country, you should check the latest public information from local authorities on entry requirements and border arrangements, including opening times. Border crossing points may be closed without notice (see 'Travel').  
   
-Terror attacks can occur anywhere at any time, including by lone actors. Be alert to personal safety risks. There continues to be a very high threat of military and terrorist attacks against Israel and Israeli interests across the region.
+Terror attacks can occur anywhere at any time, including by lone actors. Be alert to personal safety risks. There continues to be a very high threat of military and terrorist attacks against Israel and Israeli interests across the region.  
+  
+Israel has a naval blockade in place along the coast of Gaza. Don't join others seeking to break the blockade. Previous attempts to break the blockade have resulted in death, injury, arrest or deportation of foreigners (see 'Safety').
 
 Advice Level summary
 
-We now advise:
+We advise:
 
 Reconsider your need to travel to Israel and the Occupied Palestinian Territories overall due to the volatile security situation, armed conflict, civil unrest and terrorism.
 

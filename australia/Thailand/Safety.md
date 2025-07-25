@@ -20,7 +20,7 @@ To stay safe during periods of unrest:
 
 #### Thailand-Cambodia border
 
-Thailand and Cambodia have an ongoing border dispute. There are reports of violence and armed conflict between military forces has occurred along the Thai-Cambodian border. There's a risk of landmines and unexploded weapons near the border area.
+Thailand and Cambodia have an ongoing border dispute. There is ongoing violence and armed conflict between military forces along the Thai-Cambodian border. There's a risk of landmines and unexploded weapons near the border area.
 
 Be extra careful at tourist areas, including:
 
@@ -32,7 +32,7 @@ Be extra careful at tourist areas, including:
 * Chong An Ma temple
 * Chong Chom temple.
 
-Border crossing points along the Thail-Cambodia border continue to be closed at short notice. Monitor local media for updates and follow the advice of local authorities.
+Border crossing points along the Thai-Cambodia border continue to be closed at short notice. Monitor local media for updates and follow the advice of local authorities.
 
 #### Thailand-Myanmar border
 

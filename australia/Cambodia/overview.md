@@ -2,9 +2,9 @@
 
 Latest update
 
-We've reviewed our advice for Cambodia and continue to advise exercise normal safety precautions overall. We now advise reconsider your need to travel to the border area of the north-western provinces of Preah Vihear and Oddar Meanchey due to armed conflict in the area.  
+We continue to advise exercise normal safety precautions in Cambodia overall. We now advise reconsider your need to travel to the border areas of the northern and north-western provinces of Preah Vihear and Oddar Meanchey due to armed conflict in the area.  
   
-Armed conflict between Thai and Cambodian military forces along the Thai-Cambodian border has increased. This includes reports of military strikes, violence and the use of landmines in the border areas. Follow the advice of local authorities, monitor local media for updates and pay close attention to your personal security. Land border crossing points along the Thai-Cambodian border remain closed (see ‘Safety’ and ‘Travel’).  
+Armed conflict between Thai and Cambodian military forces along the Thai-Cambodian border has increased. This includes military strikes, violence and the use of landmines in the border areas. Follow the advice of local authorities, monitor local media for updates and pay close attention to your personal security. Land border crossing points along the Thai-Cambodian border remain closed (see ‘Safety’ and ‘Travel’).  
   
 You'll need a valid visa to travel to Cambodia. If you stay longer than your visa allows, officials may stop you from leaving Cambodia. In cases of excessive overstays, you may be arrested and detained for violating immigration laws (see 'Travel'). Laws in Cambodia, including those related to incitement and defamation, can be broadly defined and applied (see 'Local Laws').
 
@@ -14,6 +14,8 @@ We advise:
 
 Exercise normal safety precautions in Cambodia.
 
+Higher levels apply in some areas.
+
 ## Advice levels
 
 [What does this mean?](/before-you-go/travel-advice-explained/)
@@ -22,16 +24,16 @@ Exercise normal safety precautions in Cambodia.
 
 [Exercise normal safety precautions](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level1) in Cambodia.
 
-[Reconsider your need to travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level3) to the border area of north-western provinces of Preah Vihear and Oddar Meanchey due to armed conflict in the area.
+[Reconsider your need to travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level3) to the border areas of the northern and north-western provinces of Preah Vihear and Oddar Meanchey due to armed conflict in the area.
 
-[Reconsider your need to travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level3) to the border area of north-western provinces of Preah Vihear and Oddar Meanchey due to armed conflict in the area.
+[Reconsider your need to travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level3) to the border areas of the northern and north-western provinces of Preah Vihear and Oddar Meanchey due to armed conflict in the area.
 
 ## Overview
 
 ### Safety
 
-* We've reviewed our advice for Cambodia and continue to advise exercise normal safety precautions overall. We now advise reconsider your need to travel to the border area of north-western provinces of Preah Vihear and Oddar Meanchey due to armed conflict in the area.
-* Armed conflict between Thai and Cambodian military forces along the Thai-Cambodian border has increased. This includes reports of military strikes, violence and the use of landmines in the border areas. Follow the advice of local authorities, monitor local media for updates and pay close attention to your personal security.
+* We now advise reconsider your need to travel to the border areas of the northern and north-western provinces of Preah Vihear and Oddar Meanchey due to armed conflict in the area.
+* Armed conflict between Thai and Cambodian military forces along the Thai-Cambodian border has increased. This includes military strikes, violence and the use of landmines in the border areas. Follow the advice of local authorities, monitor local media for updates and pay close attention to your personal security.
 * Street crimes, particularly phone and bag snatchings, occur regularly. Thieves often travel on motorbikes and target pedestrians or people in open taxis. Be prepared to surrender your valuables rather than risk injury in a struggle. Significant celebrations (such as Khmer New Year) often attract large crowds and can lead to increased petty crime and more serious threats.
 * Sexual assault occurs in tourist areas. Travellers have been assaulted after having their drinks spiked. Be alert to the potential risks around drink spiking and methanol poisoning through consuming alcoholic drinks. Stay with people you trust, and don't leave your drinks unattended in nightclubs and bars. See our advice on [Partying safely while overseas](/before-you-go/safety/partying "Partying safely").
 * Many people in Cambodia own guns, and gun crime and shootouts are common. Explosions have also occurred. These incidents usually arise from commercial, personal or other disputes. They can and have occurred at a wide range of locations, including at popular tourist destinations.
@@ -70,7 +72,7 @@ Full travel advice: [Local laws](#local-laws)
 
 ### Travel
 
-* Due to the ongoing dispute along the Cambodia-Thailand border, the closure of all land border crossing points was announced on 24 June. This situation can change at short notice, monitor local media for the latest updates and follow the advice of local authorities.
+* Due to the ongoing dispute along the Cambodia-Thailand border, the closure of all land border crossing points was announced on 24 June. This situation can change at short notice. Monitor local media for updates and follow the advice of local authorities.
 * If you're entering Cambodia via air, you must complete and submit an electronic [e-Arrival Card (CeA)](https://arrival.gov.kh/) within 7 days before your arrival.
 * You need a visa to enter Cambodia. You can [apply for an e-visa online](http://www.evisa.gov.kh/) or get a tourist visa on arrival. These are valid for 30 days. For longer stays or other situations, apply for a visa through an [embassy or consulate of Cambodia](https://protocol.dfat.gov.au/Public/Missions/36). Entry and exit conditions can change at short notice. You should contact the nearest embassy or consulate of Cambodia for the latest details.
 * If you overstay your visa, Cambodian immigration officials may stop you from leaving Cambodia. For excessive overstays, you could be arrested for violating immigration laws and detained until your overstay fines are paid.

@@ -94,12 +94,6 @@ For more information, visit the [official Jubilee website](https://www.iubilaeum
 
 Several cities in Italy impose a 'tourist tax' per person for each night of stay. You pay this directly to your accommodation provider, and it's often requested as a cash payment.
 
-You may also need to pay an access fee to visit Venice on a day trip between 18 April – 27 July.
-
-**More information:**
-
-* [Venice access fee](https://cda.ve.it/en/)
-
 #### Driving permit
 
 If you're not a resident, you'll need both:

@@ -4,7 +4,9 @@ Latest update
 
 We've reviewed our travel advice for the Democratic Republic of the Congo (DRC) and continue to advise do not travel due to the volatile security situation and the threat of conflict, violent protests, terrorism and kidnapping.  
   
-The security situation is volatile across the country. Conflict in Eastern DRC has escalated. Violent demonstrations and protests may occur in Kinshasa and other locations. Airlines may suspended flights to and from Kinshasa and other options to depart the DRC may close with little or no warning. If you're in an affected area, shelter in place until it's safe to leave. Always exercise extreme caution. Monitor local media for updates, arrange effective personal safety measures and ensure travel documents are up to date (see 'Safety').
+The security situation is volatile across the country. Conflict in Eastern DRC has escalated. Violent demonstrations and protests may occur in Kinshasa and other locations. Airlines may suspended flights to and from Kinshasa and other options to depart the DRC may close with little or no warning. If you're in an affected area, shelter in place until it's safe to leave. Always exercise extreme caution. Monitor local media for updates, arrange effective personal safety measures and ensure travel documents are up to date (see 'Safety').   
+  
+There is an outbreak of cholera in the DRC. Maintain strict hygiene. Drink only bottled or boiled water (see ‘Health’).
 
 Advice Level summary
 
@@ -39,12 +41,12 @@ Full travel advice: [Safety](#safety)
 
 ### Health
 
-* There's currently an outbreak of mpox in parts of Africa, including in the DRC. Mpox can be fatal. Maintain strict hygiene standards and avoid physical contact with anyone who has mpox (see ‘Health risks’).
+* There's currently an outbreak of Mpox in parts of Africa, including in the DRC. Mpox can be fatal. Maintain strict hygiene standards and avoid physical contact with anyone who has Mpox (see ‘Health risks’).
 * Several outbreaks of Ebola Virus Disease (EVD) have occurred in DRC. There is an ongoing risk of EVD transmission in the DRC. EVD is often fatal. Avoid contact with EVD patients as the disease is spread through bodily fluids.
 * Ensure you've been vaccinated against yellow fever and polio before you travel. Carry proof of vaccination with you.
 * HIV/AIDS is widespread. Take precautions if you're taking part in high-risk activities.
 * Some insect-borne disease such as yellow fever and malaria are widespread. Ensure your accommodation is insect-proof and use insect repellent.
-* Foodborne, waterborne and other infectious diseases include cholera, typhoid and hepatitis. Drink only boiled or bottled water. Avoid raw or undercooked food. Don't swim in fresh water.
+* Foodborne, waterborne and other infectious diseases include cholera, typhoid and hepatitis are widespread. There is currently an outbreak of cholera in the DRC. Drink only boiled or bottled water. Avoid raw or undercooked food. Don't swim in fresh water.
 
 Full travel advice: [Health](#health)
 
