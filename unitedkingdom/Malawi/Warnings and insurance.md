@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   30 May 2025
+:   25 July 2025
 
 Updated:
-:   29 May 2025
+:   24 July 2025
 
 Latest update:
-:   Information of attack on group of British tourists in Mulanje ('Safety and Security' page).
+:   Updated with information about the risks from terrorism (‘Safety and security’ page’).
 
 ## Before you travel
 

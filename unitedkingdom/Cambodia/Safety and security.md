@@ -14,12 +14,6 @@ Attacks could be indiscriminate, including in places visited by expatriates and 
 
 ## Political situation
 
-### Border with Thailand
-
-Land borders/crossings between Cambodia and Thailand are temporarily suspended. The line of the international border near the Preah Vihear temple (‘Khaoi Pra Viharn’ in Thai) has been in dispute between Cambodia and Thailand, with occasional clashes between Cambodian and Thai troops. There have also been disputes over control of the Ta Moan and Ta Krabey temples, which are close to the Cambodia-Thailand border.
-
-Take extra care when travelling in this area, and follow the instructions of the local authorities.
-
 ### Land borders
 
 Be alert to the local security situation in border regions and at land crossings between countries. Get local advice before you set off. At the more remote crossing points, conditions can be basic. Local officials and tour operators can ask for unofficial fees or inflate visa prices at land borders. Make sure you know the correct visa requirements and fees before you travel.
@@ -97,7 +91,7 @@ To protect yourself from methanol poisoning you should:
 * check bottle seals are intact
 * check labels for poor print quality or incorrect spelling
 
-If the label, smell or taste seems wrong, do not drink the alcohol. These are signs it is illegal and could contain methanol. TravelHealthPro lists the [symptoms of methanol poisoning](https://www.travelhealthpro.org.uk/factsheet/25/personal-safety).
+If the label, smell or taste seems wrong, do not drink the alcohol. These are signs it is illegal and could contain methanol. TravelHealthPro lists the [symptoms of methanol poisoning](https://www.travelhealthpro.org.uk/factsheet/25/personal-safety). For more information about spiking and methanol poisoning, read Travel Aware’s information on [Spiking and methanol poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/).
 
 Seek [urgent medical attention](https://www.gov.uk/government/publications/list-of-medical-facilities-in-vietnam) if you or someone you are travelling with show signs of methanol poisoning.
 

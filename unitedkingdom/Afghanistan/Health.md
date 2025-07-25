@@ -11,7 +11,7 @@ This is particularly important if you have a health condition or are pregnant.
 
 ## Emergency medical treatment
 
-There is no public ambulance service in Afghanistan, including Kabul. If you need urgent attention, speak directly with a local medical practitioner and use local transport to get to hospital when safe to do so. Ambulances sent by hospitals may require payment or evidence of insurance before they treat you.
+There are limited public ambulance services in Afghanistan. The telephone number for the ambulance service in Kabul  is 102 and each province has a separate emergency number. If you need urgent attention, speak directly with a local medical practitioner and use local transport to get to hospital when safe to do so. Ambulances sent by hospitals may require payment or evidence of insurance before they treat you.
 
 Contact your insurance company quickly if you’re referred to a medical facility for treatment.
 

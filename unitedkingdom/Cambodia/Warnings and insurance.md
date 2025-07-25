@@ -1,13 +1,32 @@
 # Warnings and insurance
 
 Still current at:
-:   25 June 2025
+:   25 July 2025
 
 Updated:
-:   24 June 2025
+:   24 July 2025
 
 Latest update:
-:   New information about temporary suspension of border crossing between Cambodia and Thailand (‘Safe and security’ page).
+:   FCDO now advises against all but essential travel to within 50km from the border with Thailand in Oddar Meanchey and Preah Vihear provinces (‘Warnings and insurance’ page).
+
+![](https://assets.publishing.service.gov.uk/media/688280936a7ea0e1ce1d3658/Cambodia.jpg)
+
+
+[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/68827df19fab8e2e86161064/FCDO_TA_085_-_Cambodia_Travel_Advice_Ed2_1.pdf)
+
+### Areas where FCDO advises against all but essential travel
+
+FCDO advises against all but essential travel
+
+* Within 50km from the border with Thailand in Oddar Meanchey and Preah Vihear provinces.
+
+### Border with Thailand
+
+There are reports of fighting including rocket and artillery fire on 24 July between Cambodia and Thailand at several locations along the border. Casualties have been reported, as well as evacuations of areas close to the border. Land borders/crossings between Cambodia and Thailand have been suspended. Some tourist destinations in border areas such as the Preah Vihear/Khao Phra Wihan temple, the Ta Krabey/Ta Kwai temple and the Tamone Thom/Ta Muen Thom temple are currently closed.
+
+There are also unexploded landmines in the border area.
+
+We advise against all but essential travel to the affected border areas.
 
 ## Before you travel
 

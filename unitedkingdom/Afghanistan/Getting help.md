@@ -23,6 +23,8 @@ Find out more about [changing or cancelling travel plans](https://www.gov.uk/gui
 
 There is no British Embassy in Afghanistan and our ability to provide help to British nationals is severely limited and cannot be delivered in person.
 
+The UK government cannot help British nationals who are in Afghanistan and who wish to leave. Anyone who wants to leave Afghanistan should do so by commercial means or through a land border. FCDO cannot advise on the safety of routes to leave Afghanistan.
+
 FCDO has guidance on staying safe and what to do if you need help or support abroad, including:
 
 * getting help if you’re a [victim of crime](https://www.gov.uk/victim-crime-abroad)

@@ -1,17 +1,35 @@
 # Warnings and insurance
 
 Still current at:
-:   24 July 2025
+:   25 July 2025
 
 Updated:
-:   23 July 2025
+:   24 July 2025
 
 Latest update:
-:   Information about wildfires in Cyprus ('Warnings and insurance' and 'Safety and security' pages).
+:   Updated information about wildfires in Cyprus ('Warnings and insurance' page).
 
 ## Wildfires in Cyprus
 
-There is a high risk of wildfires during the summer season from April to October. For advice visit the wildfires section on the [Safety and security page](https://www.gov.uk/foreign-travel-advice/cyprus/safety-and-security)
+There are active wildfires in Cyprus, including in the Paphos and Limassol districts, which have resulted in some evacuations from affected areas. Transport and infrastructure (electricity, water) links in locations close to the fires may be affected whilst the authorities respond to the situation.
+
+Both Paphos and Larnaca airports are operating as normal.
+
+Get more [information on wildfires from the Department of Forests website](http://www.moa.gov.cy/moa/fd/fd.nsf/fd52_en/fd52_en?OpenDocument).
+
+### If you are travelling to an area affected by wildfires
+
+If you are due to travel to an area that might be affected by wildfires, contact your travel operator or accommodation provider before you travel to check that it is not currently impacted. Make sure you have appropriate insurance.
+
+### If you are in or near areas affected by wildfires
+
+* be cautious if you are in or near an area affected by wildfires. You should follow the guidance of the emergency services
+* call the Cypriot Emergency services on 112 if you are in immediate danger
+* contact  your airline or travel operator, who can assist you with information relating travel back to the UK
+
+### If you need consular assistance
+
+If you are a British national and need consular assistance, call our 24-hour helpline on +44 20 7008 5000
 
 ## Before you travel
 

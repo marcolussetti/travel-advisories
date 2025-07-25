@@ -20,7 +20,7 @@ There are strict rules about goods you can take into or out of Afghanistan. You 
 
 ### Taking money into Afghanistan
 
-It is illegal to bring any foreign currency into Afghanistan.
+It is illegal to carry more than 5000 US dollars through airports and more than 500 US dollars through land borders in cash. For more information, see [‘Money’ on ‘Safety and security’ page](https://www.gov.uk/foreign-travel-advice/afghanistan/safety-and-security#money).
 
 [Previous
 :

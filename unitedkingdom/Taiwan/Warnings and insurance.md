@@ -1,15 +1,19 @@
 # Warnings and insurance
 
 Still current at:
-:   8 July 2025
+:   25 July 2025
 
 Updated:
-:   7 July 2025
+:   24 July 2025
 
 Latest update:
-:   Updated information on the 2025 Urban Resilience Air Defence Exercise
+:   New information about Tropical Storm Francisco ('Warnings and insurance' page).
 
 The UK does not recognise Taiwan as a state and has no diplomatic relations with Taiwan, so limited support is available to British nationals. Please refer to the [British Office in Taipei](https://www.gov.uk/world/organisations/british-office-taipei) for further information.
+
+### Tropical Storm Francisco
+
+The Central Weather Administration reported on 23 July (Wednesday) that Tropical Storm Francisco is expected to get close to Taiwan on 24 and 25 July (Thursday and Friday). Its current trajectory will see heavy rainfall affecting areas in the eastern and northern parts of Taiwan over Thursday and Friday. Francisco is forecast to weaken slightly on Saturday and Sunday as it moves west towards China. From Saturday 26 July to Tuesday 29 July, low-pressure conditions are likely to cause erratic weather across Taiwan.
 
 ## Before you travel
 

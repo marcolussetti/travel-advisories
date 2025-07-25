@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   10 July 2025
+:   25 July 2025
 
 Updated:
-:   9 July 2025
+:   24 July 2025
 
 Latest update:
-:   New information on the legal status of drones and playing cards (See 'Laws and cultural differences' on the 'Safety and security' page).
+:   FCDO now advises against all but essential travel to within 50km of the border from Cambodia in the provinces of Buriram, Si Saket, Surin and Ubon Ratchathani (‘Warnings and insurance’ and ‘Regional risks’ pages).
 
-![](https://assets.publishing.service.gov.uk/media/6164105ce90e07198018f873/FCDO__TA__040_-_Thailand_Travel_Advice_Ed2__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/688283752b6fd60b7c16103c/Map_of_Thailand.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/6164105ce90e07197a68c1fe/FCDO__TA__040_-_Thailand_Travel_Advice_Ed2.pdf)
+[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/68828375f47abf78ca1d3667/FCDO__TA__040_-_Thailand_Travel_Advice_Ed3_1__5_.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -29,7 +29,19 @@ FCDO also advises against all but essential travel on the Hat Yai to Padang Bes
 
 This is due to regular attacks in the provinces by the border with Malaysia. See [Safety and security](https://www.gov.uk/foreign-travel-advice/thailand/safety-and-security) .
 
+FCDO also advices against all but essential travel to border areas with Cambodia. Specifically:
+
+* Within 50km of the border from Cambodia in the provinces of Buriram, Si Saket, Surin and Ubon Ratchathani.
+
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/thailand/safety-and-security#terrorism).
+
+## Thailand-Cambodia border
+
+There are reports of fighting including rocket and artillery fire on 24 July between Thailand and Cambodia at several locations along the border. Casualties have been reported, as well as evacuations of areas close to the border. Land borders/crossings between Thailand and Cambodia have been suspended. Some tourist destinations in border areas such as the Khao Phra Wihan/Preah Vihear temple, the Ta Kwai/Ta Krabey temple and the Ta Muen Thom/Tamone Thom temple are currently closed.
+
+There are also unexploded landmines in the border area.
+
+We advise against all but essential travel to the affected border areas.
 
 ## Do not carry cannabis out of Thailand
 

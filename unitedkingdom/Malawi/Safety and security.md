@@ -8,7 +8,7 @@ UK Counter Terrorism Policing has information and advice on [staying safe abroad
 
 ### Terrorism in Malawi
 
-Terrorist attacks in Malawi cannot be ruled out.
+Although there is no recent history of terrorism in Malawi attacks cannot be ruled out.
 
 ## Political situation
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   25 July 2025
 
 Updated:
-:   26 September 2024
+:   24 July 2025
 
 Latest update:
-:   New information regarding closure of Afghan embassy in London (‘Entry requirements’ page)
+:   Addition of information about risks related to religious activities and to women travelling alone (‘Safety and security’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/66447989993111924d9d348d/FCDO__TA__001_-_Afghanistan_Travel_Advice_Ed3__WEB_.jpg)
 
@@ -39,3 +39,7 @@ If you are a British national in Afghanistan and need help from the UK governmen
 ## Travel insurance
 
 If you choose to travel against FCDO advice, research your destinations and [get appropriate travel insurance](https://www.gov.uk/guidance/foreign-travel-insurance). Insurance should cover your itinerary, planned activities and expenses in an emergency.
+
+## About FCDO travel advice
+
+FCDO provides advice about risks of travel to help you make informed decisions. Find out [more about FCDO travel advice](https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice).

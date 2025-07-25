@@ -43,7 +43,7 @@ There is a very high threat of being kidnapped in Afghanistan.
 
 British nationals are seen as legitimate targets, including tourists, humanitarian aid workers, journalists and business travellers. If you are kidnapped, the reason for your presence is unlikely to protect you or secure your safe release.
 
-The long-standing policy of the British government policy is to not make substantive concessions to hostage takers. The British government considers that paying ransoms and releasing prisoners builds the capability of terrorist groups and finances their activities. This can, in turn, increase the risk of further hostage-taking. The Terrorism Act (2000) makes payments to terrorists illegal.
+The long-standing policy of the British government is not to make substantive concessions to hostage takers. The British government considers that paying ransoms and releasing prisoners builds the capability of terrorist groups and finances their activities. This can, in turn, increase the risk of further hostage-taking. The Terrorism Act (2000) makes payments to terrorists illegal.
 
 ## Tour operators in Afghanistan
 
@@ -67,7 +67,7 @@ Do not rely on previous experience of travelling in Afghanistan or previous unde
 
 ### Protests
 
-The current conflict in Israel and the Occupied Palestinian Territories has led to protests in Afghanistan. Avoid demonstrations as they may turn violent and you may be arrested.
+Avoid demonstrations as they may turn violent and you may be arrested.
 
 ## Detention and possible charges
 
@@ -88,6 +88,8 @@ The risk of detention is especially high if you have worked in the military or h
 
 If you are found guilty of spying or working to undermine Afghanistan’s national security, the punishment may be execution.
 
+The Taliban do not tolerate the practice of religions other than Islam and may view religious activities that do not fit with their own version of Sunni Islam as suspicious, particularly any efforts to convert Afghan nationals to an alternative religion. Such actions are forbidden and can lead to severe penalties. The Taliban’s justice system includes lengthy imprisonment, lashings (including in public) and the death penalty.
+
 ### UK government support for detainees
 
 The British government may not be notified if you are detained. There are considerable challenges in setting up contact or access. FCDO’s ability to get any information from the authorities could be severely limited, and you may not be able to contact your next of kin.
@@ -102,13 +104,15 @@ There is a significant risk of kidnapping of foreign nationals for ransom.
 
 Potential targets for kidnap include British tourists, British nationals working for international organisations, and British nationals of Afghan origin visiting friends and relatives.
 
-Criminal groups will target anyone perceived to have money for extortion purposes. Victims can be targeted or selected at random. Criminal groups may kidnap victims by stopping cars on busy roads or targeting people who are withdrawing money from banks and ATMs. Kidnap victims are held while criminals empty their bank accounts using their cash cards. Recent incidents include a British dual national being kidnapped at gunpoint and a British national kidnapped while withdrawing money from a bank.
+Criminal groups will target anyone perceived to have money for extortion purposes. Victims can be targeted or selected at random. Criminal groups may kidnap victims by stopping cars on busy roads or targeting people who are withdrawing money from banks and ATMs. Kidnap victims are held while criminals empty their bank accounts using their cash cards. Incidents include a British dual national being kidnapped at gunpoint and a British national kidnapped while withdrawing money from a bank.
 
 ## Laws and cultural differences
 
 There are no formal internationally recognised structures or processes of law in Afghanistan and foreign nationals, including British nationals, have been detained without due process.
 
-Afghanistan is an Islamic country. The country’s laws and customs are very different to those in the UK. It is illegal to try to convert Muslims to other faiths.
+Afghanistan is an Islamic country. The country’s laws and customs are very different to those in the UK.
+
+The Taliban do not tolerate the practice of religions other than Islam and may view religious activities that do not fit with their own version of Sunni Islam as suspicious, particularly any efforts to convert Afghan nationals to an alternative religion.
 
 ### Laws on dress
 
@@ -124,7 +128,7 @@ Men must dress modestly and avoid wearing clothing such as sleeveless shirts or 
 
 ### Lack of women’s rights
 
-The Taliban have made it illegal for women to travel for more than 75km (46 miles) without being accompanied by their husband, father or brother (a ‘mahram’). This could affect a woman’s ability to leave Afghanistan.
+The Taliban have made it illegal for women to travel for more than 72km (44 miles) without being accompanied by their husband, father or brother (a ‘mahram’). Taliban officials regularly check transport and monitor public locations, including hospitals and schools. They can stop women from travelling, including leaving Afghanistan, and may penalise women in other ways, including detention, if they do not comply.
 
 ### Ramadan
 
@@ -161,7 +165,7 @@ Do not buy or try to export antiquities without getting a receipt from an author
 
 ### Money
 
-If you travel to Afghanistan against FCDO advice, you are likely to encounter problems with money. It is illegal to bring any foreign currency into Afghanistan, but you may not be able to use foreign-issued bank cards at ATMs and local banks.
+If you travel to Afghanistan against FCDO advice, you may face problems with the authorities if you try to import foreign currency. It is illegal to carry more than 5000 US dollars through airports and more than 5000 US dollars through land borders in cash, but you may not be able to use foreign-issued bank cards at ATMs and local banks.
 
 Some ATMs and many banks accept foreign-issued bank cards, with restrictions on the amount of cash you can withdraw. Check with local branches.
 

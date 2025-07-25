@@ -1,11 +1,11 @@
 {
     "name": "Malawi",
-    "update_reason": "Information of attack on group of British tourists in Mulanje ('Safety and Security' page).",
+    "update_reason": "Updated with information about the risks from terrorism (\u2018Safety and security\u2019 page\u2019).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Malawi/Warnings and insurance.md",
-            "update_date": "2025-05-29T11:50:38+01:00"
+            "update_date": "2025-07-24T12:10:20+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Malawi/Getting help.md"
         }
     ],
-    "update_date": "2025-05-29T11:50:38+01:00"
+    "update_date": "2025-07-24T12:10:20+01:00"
 }

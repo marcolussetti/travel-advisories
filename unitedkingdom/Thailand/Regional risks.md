@@ -19,9 +19,11 @@ This is due to regular attacks in the provinces by the border with Malaysia. See
 
 ## Thailand-Cambodia border
 
-Land borders/crossings between Thailand and Cambodia are temporarily suspended due to a dispute between Thailand and Cambodia.
+There are reports of fighting including rocket and artillery fire on 24 July between Thailand and Cambodia at several locations along the border. Casualties have been reported, as well as evacuations of areas close to the border. Land borders/crossings between Thailand and Cambodia have been suspended. Some tourist destinations in border areas such as the Khao Phra Wihan/Preah Vihear temple, the Ta Kwai/Ta Krabey temple and the Ta Muen Thom/Tamone Thom temple are currently closed.
 
-Take extra care and stay alert in border areas and follow the instructions of local authorities, especially at tourist destinations such as the Preah Vihear temple, the Ta Kwai temple and the Ta Muen Thom temple. There are also unexploded landmines in the border area. Stay on marked paths especially around Ta Krabey.
+There are also unexploded landmines in the border area.
+
+We advise against all but essential travel to the affected border areas.
 
 ## Thailand-Laos border
 

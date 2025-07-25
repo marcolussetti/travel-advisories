@@ -1,11 +1,11 @@
 {
     "name": "Afghanistan",
-    "update_reason": "New information regarding closure of Afghan embassy in London (\u2018Entry requirements\u2019 page)",
+    "update_reason": "Addition of information about risks related to religious activities and to women travelling alone (\u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Afghanistan/Warnings and insurance.md",
-            "update_date": "2024-09-26T10:28:32+01:00"
+            "update_date": "2025-07-24T13:34:45+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Afghanistan/Getting help.md"
         }
     ],
-    "update_date": "2024-09-26T10:28:32+01:00"
+    "update_date": "2025-07-24T13:34:45+01:00"
 }
