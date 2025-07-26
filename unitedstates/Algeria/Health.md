@@ -55,8 +55,8 @@ Psychological and psychiatric services are limited, even in the larger cities, w
 
 **Pharmaceuticals:**
 
-* Always carry your prescription medication in original packaging, along with your doctor’s prescription.  Check with the Algerian Ministry of Health [COUNTRY Federal Office of Public Health w/ link] to ensure the medication is legal in Algeria.
-* Exercise caution when purchasing medication overseas.  Medication should be purchased in consultation with a medical professional and from reputable establishments.
+* Always carry your prescription medication in original packaging, along with your doctor’s prescription. Check with the Algerian Ministry of Health to ensure the medication is legal in Algeria.
+* Exercise caution when purchasing medication overseas. Medication should be purchased in consultation with a medical professional and from reputable establishments.
 
 **Assisted Reproductive Technology and Surrogacy:**
 

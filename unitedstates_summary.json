@@ -316,10 +316,10 @@
     },
     {
         "destination": "Cambodia",
-        "risk_level": "Level 1: Exercise Normal Precautions",
-        "last_updated_advisory": "2023-07-24T00:00:00",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated_advisory": "2025-07-25T00:00:00",
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/cambodia-travel-advisory.html",
-        "risk_level_number": 1,
+        "risk_level_number": 2,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Cambodia.html",
         "last_updated_country_details": "2023-04-25T00:00:00"
     },
@@ -1684,10 +1684,10 @@
     },
     {
         "destination": "Thailand",
-        "risk_level": "Level 1: Exercise Normal Precautions",
-        "last_updated_advisory": "2025-06-09T00:00:00",
+        "risk_level": "Level 2: Exercise Increased Caution",
+        "last_updated_advisory": "2025-07-25T00:00:00",
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/thailand-travel-advisory.html",
-        "risk_level_number": 1,
+        "risk_level_number": 2,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Thailand.html",
         "last_updated_country_details": null
     },

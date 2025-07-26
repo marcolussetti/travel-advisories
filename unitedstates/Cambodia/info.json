@@ -1,7 +1,7 @@
 {
     "name": "Cambodia",
-    "risk_level": "Level 1: Exercise Normal Precautions",
-    "risk_level_number": 1,
+    "risk_level": "Level 2: Exercise Increased Caution",
+    "risk_level_number": 2,
     "pages": [
         {
             "title": "Quick Facts",
@@ -44,6 +44,6 @@
             "file": "unitedstates/Cambodia/Advisory.md"
         }
     ],
-    "update_date_advisory": "2023-07-24T00:00:00",
+    "update_date_advisory": "2025-07-25T00:00:00",
     "update_date_details": "2023-04-25T00:00:00"
 }
