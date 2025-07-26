@@ -2,7 +2,7 @@
 
 ### Extreme Heat
 
-Extreme temperatures are currently affecting many areas of Italy. For information on hottest areas and how to take care in the heat visit the HSE website [**advice on heat health**](https://www.hpsc.ie/news/title-24427-en.html) or the website of the [**Italian Ministry of Health**](https://www.salute.gov.it/portale/caldo/homeCaldo.jsp) (in Italian only).
+Extreme temperatures are currently affecting many areas of Italy. For information on hottest areas and how to take care in the heat visit the HSE website [**advice on heat health**](https://about.hse.ie/news/keep-cool-hse-shares-guidance-to-stay-safe-during-high-temperatures/) or the website of the [**Italian Ministry of Health**](https://www.salute.gov.it/portale/caldo/homeCaldo.jsp) (in Italian only).
 
 High temperatures can be dangerous. Know the symptoms of dehydration and heatstroke. If you are in Italy
 

@@ -4,6 +4,14 @@
 
 High Degree of Caution
 
+### **Travel Alert**
+
+There is increased terrorist and serious organised crime activity in the Kayes Region in western Mali, and in part of Mauritania bordering the Matam region in Senegal.
+
+All citizens are advised to be vigilant, particularly when travelling in Eastern Senegal, and to avoid all travel within 25 kilometres of the Mali border and the Mauritania border in the Matam region.
+
+If there are compelling reasons for you to travel to the eastern borders, it is strongly advised that you do not travel at night, and that you do not give away any details about your journey prior to departing.
+
 ### **General Travel Advice**
 
 Irish citizens do not need a visa to travel to Senegal. If intending to stay in Senegal for longer than 3 months, you must register with the local authorities in order to obtain a ‘Carte d’étranger’. This should be done following arrival in Senegal.

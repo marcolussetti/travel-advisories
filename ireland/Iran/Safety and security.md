@@ -21,7 +21,7 @@ Travellers have occasionally been victims of theft while in Iran so take sensibl
 * Keep a close eye on personal belongings and hold on to them in public places such as busy streets, train and bus stations.
 * There have been attempted robberies by people claiming to be plain-clothes policemen. If approached by anyone who claims to be a policeman, ask to see their ID and request the presence of a uniformed officer. Do not hand over any documents or cash, or get in to any vehicle.
 
-### **Reporting crime**
+### **Reporting Crime**
 
 If a victim of a crime while in Iran, report it to the local police immediately. Contact the Honorary Consul in Tehran or Department of Foreign Affairs and Trade in Dublin at +353 1 408 2000.
 
@@ -35,11 +35,11 @@ If you want to drive:
 * Driving under the influence of alcohol or drugs is against the law and you risk being detained, fined or banned from driving if caught
 * Keep vehicle doors locked and bags kept out of sight to prevent opportunistic bag-snatching if stopped at traffic lights
 
-### **If involved in an incident**
+### **If Involved in an Incident**
 
 Do not leave the scene. Wait until the police arrive to make their report.
 
-### **Hiring a vehicle**
+### **Hiring a Vehicle**
 
 If hiring a vehicle, we advise **not** to hand over your passport as a form of security. If allowing your passport to be photocopied, keep it in sight at all times.
 

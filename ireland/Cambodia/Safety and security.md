@@ -4,7 +4,7 @@
 
 In Cambodia, there is a risk of violent incidents and we advise visitors to avoid crowds and in particular political demonstrations. We also advise against publicly expressing strong political views.
 
-The sovereignty of land adjacent to the Preah Vihear temple on the Cambodian/Thai border is the subject of a dispute and tensions continue to run high there. Visitors should take extra care when travelling in this area, and follow the instructions of local authorities.
+The sovereignty of land adjacent to the Preah Vihear temple on the Cambodian/Thai border is the subject of a dispute and tensions continue to run high there. Due to the ongoing conflict at the Thailand-Cambodia border, we strongly advise against all travel to the border region.
 
 Always keep yourself informed of what is going on around you by monitoring local media and staying in contact with your hotel or tour organiser.
 
