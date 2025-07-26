@@ -70,9 +70,11 @@ To protect yourself from methanol poisoning:
 * check bottle seals are intact
 * check labels for poor print quality or incorrect spelling
 
-Methanol is tasteless and odourless. It can rapidly lead to serious illness. Long-term effects may include blindness and permanent damage to the Central Nervous System. Coma and death may occur following substantial exposure.
+Methanol is tasteless and odourless. It can rapidly lead to serious illness. Long-term effects may include blindness and permanent damage to the Central Nervous System. Coma and death may occur following exposure.
 
-TravelHealthPro lists the [symptoms of methanol poisoning](https://www.travelhealthpro.org.uk/factsheet/25/personal-safety). Seek [urgent medical attention](https://www.gov.uk/government/publications/laos-list-of-medical-facilities) if you or someone you are travelling with show signs of methanol poisoning.
+TravelHealthPro lists the [symptoms of methanol poisoning](https://www.travelhealthpro.org.uk/factsheet/25/personal-safety). For more information about spiking and methanol poisoning, read Travel Aware’s information on [Spiking and methanol poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/).
+
+Seek [urgent medical attention](https://www.gov.uk/government/publications/laos-list-of-medical-facilities) if you or someone you are travelling with show signs of methanol poisoning.
 
 ## Laws and cultural differences
 
@@ -193,7 +195,9 @@ Find out what you can do to [prepare for and respond to extreme weather and natu
 
 ### Monsoon
 
-The rainy season in Laos normally runs from May to October, at the same time as the typhoon season in south-east Asia. Mountain areas are vulnerable to landslides in the rainy season and the Mekong’s river basins and surrounding areas are likely to be flooded. Meteorologists predict that tropical storms could be more forceful and more frequent in the future, this can amplify monsoon storms and rainfall. Away from river basins there is a high risk of flash flooding causing falling trees, damage to buildings and transport infrastructure; be aware landslides may expose undiscovered UXO.
+The rainy season in Laos normally runs from May to October, at the same time as the typhoon season in south-east Asia. The season started early in 2025 with higher-than-expected levels of rain. This means that river levels are above average and heavy rainstorms may cause unexpected and serious flooding. Be aware of local advice, social media coverage and follow the advice of the local authorities.
+
+Mountain areas are vulnerable to landslides in the rainy season and the Mekong’s river basins and surrounding areas are likely to be flooded. Meteorologists predict that tropical storms could be more forceful and more frequent in the future, this can amplify monsoon storms and rainfall. Away from river basins there is a high risk of flash flooding causing falling trees, damage to buildings and transport infrastructure; be aware landslides may expose undiscovered UXO.
 
 During the monsoon season local road transport is often disrupted due to conditions. Cross country journeys can often take substantially longer than posted schedules and have limited mobile phone coverage. Travel with extra water and food supplies.
 

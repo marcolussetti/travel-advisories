@@ -18,6 +18,8 @@ Political demonstrations are common in Mexico City and can happen across the cou
 
 It is illegal for foreign nationals to participate in political activities in Mexico. If you join demonstrations, the Mexican authorities may detain and deport you.
 
+Since July 2025 there have been protests against gentrification in Mexico City, which have taken place in central and tourist areas.
+
 Monitor local media and avoid all demonstrations. If you come across protests, move away from the area.
 
 ## Crime

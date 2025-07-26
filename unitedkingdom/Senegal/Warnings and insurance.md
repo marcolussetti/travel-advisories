@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   1 May 2025
+:   26 July 2025
 
 Updated:
-:   30 April 2025
+:   25 July 2025
 
 Latest update:
-:   Information added about protecting yourself and your belongings (See 'Crime' on the 'Safety and security' page).
+:   Addition of information about risks related to terrorism in the northern and eastern border areas (‘Safety and security’ and ‘Regional risks’ pages).
 
 ## Before you travel
 

@@ -1,11 +1,11 @@
 {
     "name": "Burkina Faso",
-    "update_reason": "Updated guidance for LGBT+ travellers ('Safety and security\u2019 page).",
+    "update_reason": "FCDO now advises against all travel to Burkina Faso ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Burkina Faso/Warnings and insurance.md",
-            "update_date": "2025-02-03T14:33:33+00:00"
+            "update_date": "2025-07-25T11:46:51+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Burkina Faso/Getting help.md"
         }
     ],
-    "update_date": "2025-02-03T14:33:33+00:00"
+    "update_date": "2025-07-25T11:46:51+01:00"
 }

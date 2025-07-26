@@ -1,21 +1,15 @@
 # Warnings and insurance
 
 Still current at:
-:   12 June 2025
+:   26 July 2025
 
 Updated:
-:   11 June 2025
+:   25 July 2025
 
 Latest update:
-:   Addition of information about demonstrations and protests (‘Warnings and insurance’ page).
+:   This travel advice has been reviewed for accuracy, with edits throughout including on entry requirements and the risks associated with outdoor activities, terrorism and extreme weather (See 'Warnings and insurance', 'Entry requirements' and 'Safety and security' pages).
 
 This travel advice also covers American Samoa, Guam, Northern Mariana Islands, Puerto Rico, and United States Virgin Islands.
-
-## Protests are ongoing in cities and towns across the US. You should:
-
-* monitor local media and follow the advice of the local authorities
-* plan ahead to avoid disruption
-* stay away from mass gatherings and demonstrations
 
 ## Before you travel
 

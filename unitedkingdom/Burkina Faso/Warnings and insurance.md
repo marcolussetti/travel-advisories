@@ -1,26 +1,24 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   26 July 2025
 
 Updated:
-:   3 February 2025
+:   25 July 2025
 
 Latest update:
-:   Updated guidance for LGBT+ travellers ('Safety and security’ page).
+:   FCDO now advises against all travel to Burkina Faso ('Warnings and insurance' page).
 
-![](https://assets.publishing.service.gov.uk/media/5f4e31d2d3bf7f0a2f2e5034/FCDO__TA__006_-_Burkina_Faso_Travel_Advice_Ed1__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/6880fe502b6fd60b7c160f72/FCDO_TA_006_-_Burkina_Faso_Travel_Advice_Ed2_WEB.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/5f4e31d2e90e071c79c84cb8/FCDO__TA__006_-_Burkina_Faso_Travel_Advice_Ed1.pdf)
+[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/6880fe502b6fd60b7c160f73/FCDO_TA_006_-_Burkina_Faso_Travel_Advice_Ed2.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
 ## Areas where FCDO advises against travel
 
-FCDO advises against all travel to Burkina Faso, except to the capital, Ouagadougou.
-
-FCDO advises against all but essential travel to Ouagadougou, up to the toll booths on all roads out of the city.
+FCDO advises against all travel to Burkina Faso.
 
 This is due to the threat of terrorist attacks and terrorist kidnap, and the unstable political situation in the country.
 

@@ -1,11 +1,11 @@
 {
     "name": "Kyrgyzstan",
-    "update_reason": "Updated information on the Kyrgyzstan-Tajikistan border ('Regional risks' page).",
+    "update_reason": "New information on terrorism (See \u2018Terrorism in Kyrgyzstan\u2019 on the \u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Kyrgyzstan/Warnings and insurance.md",
-            "update_date": "2025-03-25T10:27:07+00:00"
+            "update_date": "2025-07-25T16:56:26+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Kyrgyzstan/Getting help.md"
         }
     ],
-    "update_date": "2025-03-25T10:27:07+00:00"
+    "update_date": "2025-07-25T16:56:26+01:00"
 }

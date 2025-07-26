@@ -10,13 +10,15 @@ UK Counter Terrorism Policing has information and advice on [staying safe abroa
 
 Terrorists are very likely to try and carry out attacks in the US.
 
-Attacks could be indiscriminate, including in places visited by foreigners. You should remain aware of your surroundings, keep up to date with local media reports and follow the advice of local authorities. Targets could include:
+Terrorism attacks could be indiscriminate, including in places visited by tourists and foreign nationals such as:
 
-* crowded areas
+* crowded places and mass gatherings
 * transportation networks
-* public events
+* sporting and cultural events
+* places of worship and religious sites
+* hospitals and clinics, schools and universities
 
-The [US Department of Homeland Security](https://www.dhs.gov/national-terrorism-advisory-system) provides current alerts within the US and its territories.
+Stay aware of your surroundings, keep up to date with local media reports and follow the advice of local authorities.  The US Department of Homeland Security provides alerts within the US and its territories. If there is a life threatening emergency, call 911.  US authorities regularly report that they have disrupted planned attacks and made arrests. [Report suspicious activity](https://www.dhs.gov/report-suspicious-activity#:~:text=If%20you%20see%20suspicious%20activity%2C%20please%20report%20it,assess%20the%20situation%2C%20they%20can%20obtain%20additional%20support.) to local law enforcement authorities.
 
 ## Crime
 
@@ -34,7 +36,7 @@ Research your destination before you travel and follow the advice of local autho
 
 ### Protests
 
-Protests are common and can become violent. Follow the instructions of local authorities who may introduce curfews or emergency orders. If you attend peaceful protests:
+Protests are common and can become violent. Follow the instructions of local authorities who may introduce curfews or emergency orders. If you attend peaceful protests or mass gatherings:
 
 * be mindful of your surroundings
 * move away if there are signs of trouble
@@ -42,7 +44,7 @@ Protests are common and can become violent. Follow the instructions of local aut
 
 ## Laws and cultural differences
 
-US states may have different laws. While you are in a state, you are subject to both that state’s laws as well as national (federal) law.
+US states may have different laws. While you are in a state, you are subject to both that state’s laws as well as national (federal) law. Not adhering to all US state and federal law can put your visa status and future travel to the US at risk.
 
 ### Personal ID
 
@@ -54,9 +56,9 @@ The national legal age for buying and drinking alcohol is 21. Some states have d
 
 ### Illegal drugs
 
-Illegal drugs, including cannabis, carry severe penalties. You should expect a long jail sentence and heavy fines for possessing, using or smuggling illegal drugs, including when transiting through airports.
+Illegal drugs, including cannabis, carry severe penalties. You should expect a long jail sentence and heavy fines for possessing, using or smuggling illegal drugs, including when transiting through airports. US law prohibits the importation, exportation, manufacture, sale or transportation of drug paraphernalia. If you are convicted of any of these offenses, you will be subject to fines and imprisonment.
 
-Airports in USA have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
+Airports in USA have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers. All persons arriving at a port-of-entry to the United States are subject to inspection by U.S. Customs and Border Protection (CBP) officers.
 
 Check state laws to make sure you follow laws on possession and use of controlled substances. The US Department of Justice provides a [list of all controlled substances](https://www.dea.gov/drug-information/csa).
 
@@ -65,6 +67,28 @@ Check state laws to make sure you follow laws on possession and use of controlle
 The US is a very diverse society and attitudes towards LGBT+ people differ hugely across the country. Check state and local laws for the areas you plan to travel to. Refer to entry requirements which may apply to LGBT+ travellers (see [entry requirements](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements)).
 
 Read more [advice for LGBT+ travellers](https://www.gov.uk/lesbian-gay-bisexual-and-transgender-foreign-travel-advice).
+
+## Outdoor Activities
+
+If you’re taking part in organised outdoor activities, check that the company is reputable and has documented safety procedures.
+
+For sports activities like skiing, potholing and mountaineering, and for sports classed as particularly dangerous (for example off-piste skiing, mountain biking, climbing or paragliding), your insurance should include:
+
+* mountain rescue services
+* helicopter costs
+* repatriation to your country of residence or possible transfer to neighbouring countries for treatment
+
+### Hiking
+
+* Check weather forecasts and conditions and make sure you’re properly equipped for the worst-case scenario with items such as a map, compass, GPS and telecommunication equipment.
+* Risks are greater if you undertake any activity alone. You may want to hire a guide for expert advice. Always leave copies of your itinerary with someone.
+* Check the [US National Park Service website](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.nps.gov%2Fsubjects%2Fhealthandsafety%2Fprepare-for-your-activity.htm&data=05%7C02%7CCharlotte.Nixon%40fcdo.gov.uk%7C5608e46cd9ad40b0d00108ddb3cd1a56%7Cd3a2d0d37cc84f52bbf985bd43d94279%7C0%7C0%7C638864415742509094%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=uYGfw4%2FbGIrOmgHe0FyTSaiwHA378PKZDfZiVbQIn74%3D&reserved=0) for additional advice.
+
+### Winter sports
+
+* Read about [preparing for winter sports abroad](https://www.gov.uk/guidance/winter-sports-stay-safe-on-the-slopes).
+* Take advice on weather and avalanche conditions before you travel. Follow local skiing laws and regulations.
+* Off-piste skiing is very dangerous and can invalidate your travel insurance. Avalanches are a risk in some areas. Follow safety instructions carefully and go with a qualified guide. Check ahead on the [National Avalanche Center website](https://avalanche.org/#/current)
 
 ## Transport risks
 
@@ -119,7 +143,7 @@ The US National Oceanic and Atmospheric Administration (NOAA) predicts that ther
 You should:
 
 * monitor approaching storms on the [US National Hurricane Center website](https://www.nhc.noaa.gov/)
-* follow instructions from local authorities, including evacuation orders from the [Florida Division of Emergency Management](https://www.floridadisaster.org/evacuation-orders/).
+* follow instructions from local authorities, including evacuation orders
 * visit the [Federal Emergency Management Agency (FEMA) website](https://www.fema.gov) for information on preparing for extreme weather and evacuating
 * check with your airline or travel agent about possible disruption to flights or airport services and follow their advice
 
@@ -151,7 +175,11 @@ You should:
 
 For more information visit the [National Interagency Fire Center](https://www.nifc.gov/) and [Fire Research and Management Exchange System](https://www.frames.gov/) websites.
 
-For information about wildfires in California, see the [CAL FIRE](https://www.fire.ca.gov/incidents/) website.
+For information about wildfires in California, see the [CAL FIRE](https://www.fire.ca.gov/incidents/) website.
+
+### Flash flooding
+
+Flash floods can cause travel disruption and damage to property and infrastructure. [Check weather warnings from the US’s National Weather Service (NOAA)](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.weather.gov%2Falerts%2Fas.htmlThere&data=05%7C02%7CCharlotte.Nixon%40fcdo.gov.uk%7C9a8c32ec8cb642ebb07708ddbd320a1b%7Cd3a2d0d37cc84f52bbf985bd43d94279%7C0%7C0%7C638874745075644264%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=mF0mOSTmh1SeiMrQlYfUJ4AjItXBkRv7%2Fh%2BZkLYgs0U%3D&reserved=0) before travel and follow the advice of the local authorities.
 
 ## Arctic travel
 

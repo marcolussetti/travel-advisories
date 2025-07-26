@@ -1,15 +1,19 @@
 # Warnings and insurance
 
 Still current at:
-:   27 June 2025
+:   26 July 2025
 
 Updated:
-:   26 June 2025
+:   25 July 2025
 
 Latest update:
-:   Information on the introduction of a Code of Conduct in Albufeira and updated information on wildfires ('Safety and security' page).
+:   New Information on industrial action affecting Portuguese airports (’Warnings and insurance’ page).
 
 This travel advice also covers Madeira, Porto Santo and the Azores.
+
+## Industrial Action
+
+Industrial action by baggage handlers at Portuguese airports from Friday to Monday during the months of July and August may cause delays. If you are travelling over this period, check for announcements and follow the advice of your airline or tour operator.
 
 ## Before you travel
 

@@ -1,11 +1,11 @@
 {
     "name": "Timor-Leste",
-    "update_reason": "Updated information on rabies cases ('Health' page).",
+    "update_reason": "Removal of malaria from list of potential health risks, after Timor-Leste was certified by the WHO to be malaria-free on 24 July 2025 ('Health' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Timor-Leste/Warnings and insurance.md",
-            "update_date": "2024-10-09T12:42:19+01:00"
+            "update_date": "2025-07-25T15:49:22+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Timor-Leste/Getting help.md"
         }
     ],
-    "update_date": "2024-10-09T12:42:19+01:00"
+    "update_date": "2025-07-25T15:49:22+01:00"
 }

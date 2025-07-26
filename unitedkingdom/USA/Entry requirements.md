@@ -52,11 +52,13 @@ You cannot normally apply for an ESTA visa waiver if you were in the following c
 
 You cannot apply for an ESTA visa waiver if you travelled to or were in Cuba on or after 12 January 2021.
 
-If you are not eligible for an ESTA, you must instead apply for a US visa.
+An ESTA may not be sufficient for all types of business travel – particularly if you are travelling on behalf of a US company. Please check the rules on the [ESTA website](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Festa.cbp.dhs.gov%2F&data=05%7C02%7CCharlotte.Nixon%40fcdo.gov.uk%7C5608e46cd9ad40b0d00108ddb3cd1a56%7Cd3a2d0d37cc84f52bbf985bd43d94279%7C0%7C0%7C638864415742600533%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=WAX%2FAn0YVOvpq5u%2BSMjtVacNL3%2B9KV0Gvqpy4sLHHqk%3D&reserved=0) carefully.
+
+If you are not eligible for an ESTA, you must instead apply for a US visa. Travelling on an ESTA when ineligible can lead to detention and deportation by the US authorities.
 
 ### Applying for a visa
 
-The US Embassy in London has information on [how to apply for a visa](https://uk.usembassy.gov/visas/).
+The US Embassy in London has information on [how to apply for a visa](https://uk.usembassy.gov/visas/).  Please check the guidance carefully.
 
 ### US visa appointments
 
@@ -90,7 +92,7 @@ There are strict rules about [goods you can take into or out of the US](https://
 
 ## Global Entry
 
-The US Customs and Border Protection Trusted Traveller Program (TTP) [Global Entry](http://www.cbp.gov/travel/trusted-traveler-programs/global-entry) allows pre-approved, low-risk travellers expedited clearance at some US airports. If you’re a British citizen, you can [register to get a UK background check](https://www.gov.uk/apply-faster-entry-usa). If you pass the background checks, you’ll be invited to apply for [Global Entry for UK Citizens](https://www.cbp.gov/travel/trusted-traveler-programs/global-entry/international-arrangements/UnitedKingdom/global-entry-UK-citizens).
+The US Customs and Border Protection Trusted Traveller Program (TTP) [Global Entry](http://www.cbp.gov/travel/trusted-traveler-programs/global-entry) allows pre-approved, low-risk travellers expedited clearance at some US airports. If you’re a British citizen, you can [register to get a UK background check](https://www.gov.uk/apply-faster-entry-usa). If you pass the background checks, you’ll be invited to apply for [Global Entry for UK Citizens](https://www.cbp.gov/travel/trusted-traveler-programs/global-entry/international-arrangements/UnitedKingdom/global-entry-UK-citizens). Check eligibility carefully.
 
 [Previous
 :

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   26 July 2025
 
 Updated:
-:   25 March 2025
+:   25 July 2025
 
 Latest update:
-:   Updated information on the Kyrgyzstan-Tajikistan border ('Regional risks' page).
+:   New information on terrorism (See ‘Terrorism in Kyrgyzstan’ on the ‘Safety and security’ page).
 
 ## Before you travel
 

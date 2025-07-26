@@ -12,7 +12,9 @@ UK Counter Terrorism Policing has information and advice on [staying safe abroad
 
 Terrorist attacks in Senegal cannot be ruled out.
 
-Attacks could be indiscriminate, including in places visited by foreigners. Terrorist groups in the Sahel region in West Africa have shown their capability and intent by mounting attacks in Mali, which shares a border with Senegal.
+Attacks could be indiscriminate, including in places visited by foreign nationals. Stay aware of your surroundings, keep up to date with local media reports and follow the advice of local authorities.
+
+Several terrorist groups operate in neighbouring Mali, including Jama’a Nusrat ul-Islam wa al-Muslimin (JNIM) and Islamic State Sahel Province (ISSP). Whilst the regions most affected by terrorist activity are central and northern Mali, JNIM has increasingly conducted attacks in southern and western Mali near to the Senegalese border.
 
 ### Terrorist kidnap
 

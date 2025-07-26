@@ -6,11 +6,13 @@ You should also read [FCDO’s overall travel advice](/foreign-travel-advice/sen
 
 ## Northern and eastern border areas
 
-Take particular care in remote areas of Senegal near the border areas with Mauritania and Mali, and to the east of the city of Podor as far as Kidira.
+Take particular care in remote areas of Senegal near the border areas with Mauritania and Mali.
+
+Terrorist groups, including Jama’a Nusrat ul-Islam wa al-Muslimin (JNIM), are active in neighbouring Mali, and have carried out deadly attacks close to the border with Senegal. Border areas may be at risk or destabilised as the borders are not tightly controlled. See [‘Terrorism’](https://www.gov.uk/foreign-travel-advice/senegal/safety-and-security).
 
 ## Casamance Region
 
-Casamance, the spur of land south of The Gambia, has suffered from decades of low-intensity separatist violence, largely directed at Senegalese security forces. Be on alert for clashes if you are travelling in the region. The risk of attacks is lower in the main tourist areas of the Casamance.
+Casamance, the spur of land south of The Gambia, has suffered from decades of low-intensity separatist violence, largely directed at Senegalese security forces. Be on alert for clashes if you are travelling in the region, particularly close to the Gambian and Guinea-Bissauan borders. The risk of clashes is lower in the main tourist areas of the Casamance.
 
 When driving:
 

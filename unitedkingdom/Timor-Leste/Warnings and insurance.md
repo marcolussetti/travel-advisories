@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   26 July 2025
 
 Updated:
-:   9 October 2024
+:   25 July 2025
 
 Latest update:
-:   Updated information on rabies cases ('Health' page).
+:   Removal of malaria from list of potential health risks, after Timor-Leste was certified by the WHO to be malaria-free on 24 July 2025 ('Health' page).
 
 ## Before you travel
 

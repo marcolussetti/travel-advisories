@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   17 July 2025
+:   26 July 2025
 
 Updated:
-:   16 July 2025
+:   25 July 2025
 
 Latest update:
-:   Addition of pertussis (whooping cough) to health risks faced in Japan (See ‘Vaccine recommendations and health risks’ on the 'Health' page).
+:   Updated on the risks from terrorism (‘Safety and security’ page).
 
 ## Before you travel
 

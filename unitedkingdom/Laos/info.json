@@ -1,11 +1,11 @@
 {
     "name": "Laos",
-    "update_reason": "Clarity on visa extensions, new information on  increased security levels in Bokeo Province near border of Thailand and Myanmar, and updated information on airports able to detect illegal substances ('Entry requirements', 'Regional risks' and 'Safety and security pages).",
+    "update_reason": "Information on areas bordering Thailand and Cambodia, including on land border crossings (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Laos/Warnings and insurance.md",
-            "update_date": "2025-06-30T12:12:53+01:00"
+            "update_date": "2025-07-25T17:00:00+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Laos/Getting help.md"
         }
     ],
-    "update_date": "2025-06-30T12:12:53+01:00"
+    "update_date": "2025-07-25T17:00:00+01:00"
 }

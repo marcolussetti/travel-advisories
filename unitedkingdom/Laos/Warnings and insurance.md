@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   1 July 2025
+:   26 July 2025
 
 Updated:
-:   30 June 2025
+:   25 July 2025
 
 Latest update:
-:   Clarity on visa extensions, new information on increased security levels in Bokeo Province near border of Thailand and Myanmar, and updated information on airports able to detect illegal substances ('Entry requirements', 'Regional risks' and 'Safety and security pages).
+:   Information on areas bordering Thailand and Cambodia, including on land border crossings (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/64391b7a773a8a0013ab2c63/FCDO__TA__088_-_Laos_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -23,6 +23,16 @@ Your travel insurance could be invalidated if you travel against advice from the
 FCDO advises against all but essential travel to Xaisomboun Province. There are intermittent attacks on infrastructure and armed clashes with anti-government groups.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/laos/regional-risks).
+
+### Land borders/ crossing with Thailand and Cambodia
+
+There were reports of fighting including rocket and artillery fire on 24 July between Thailand and Cambodia, at several locations including along the border arears with Laos. Casualties have been reported, as well as evacuations of areas close to the border. Land borders/crossings between Thailand and Cambodia have been suspended. Some tourist destinations in border areas such as the Khao Phra Wihan/Preah Vihear temple, the Ta Kwai/Ta Krabey temple and the Ta Muen Thom/Tamone Thom temple are currently closed.
+
+There are also unexploded landmines in the border area.
+
+British nationals in Southern Laos travelling to Cambodia or Thailand , should carefully consider which land border crossings to use. British Nationals should also carefully consider any travel they have planned close to the Lao border adjoining the affected areas.
+
+See our travel advice for [Thailand](https://www.gov.uk/foreign-travel-advice/thailand) and [Cambodia](https://www.gov.uk/foreign-travel-advice/cambodia).
 
 ## Before you travel
 

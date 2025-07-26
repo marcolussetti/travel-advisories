@@ -1,11 +1,11 @@
 {
     "name": "Senegal",
-    "update_reason": "Information added about protecting yourself and your belongings (See 'Crime' on the 'Safety and security' page).",
+    "update_reason": "Addition of information about risks related to terrorism in the northern and eastern border areas (\u2018Safety and security\u2019 and \u2018Regional risks\u2019 pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Senegal/Warnings and insurance.md",
-            "update_date": "2025-04-30T15:59:42+01:00"
+            "update_date": "2025-07-25T09:36:48+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Senegal/Getting help.md"
         }
     ],
-    "update_date": "2025-04-30T15:59:42+01:00"
+    "update_date": "2025-07-25T09:36:48+01:00"
 }

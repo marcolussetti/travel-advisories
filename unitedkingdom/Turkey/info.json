@@ -1,11 +1,11 @@
 {
     "name": "Turkey",
-    "update_reason": "Removal of information on entering Turkey across the land border from Iran.",
+    "update_reason": "Addition of information about access to e-sim services ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Turkey/Warnings and insurance.md",
-            "update_date": "2025-07-07T16:48:00+01:00"
+            "update_date": "2025-07-25T16:22:26+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Turkey/Getting help.md"
         }
     ],
-    "update_date": "2025-07-07T16:48:00+01:00"
+    "update_date": "2025-07-25T16:22:26+01:00"
 }

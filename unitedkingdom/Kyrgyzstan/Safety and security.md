@@ -10,18 +10,9 @@ UK Counter Terrorism Policing has information and advice on [staying safe abroad
 
 ### Terrorism in Kyrgyzstan
 
-Terrorists are likely to try to carry out attacks in Kyrgyzstan.
+Terrorist attacks in Kyrgyzstan cannot be ruled out.
 
-Attacks could be indiscriminate, including in places visited by foreign nationals such as:
-
-* international hotels, restaurants and pubs
-* religious sites and places of worship
-* shopping centres and crowded places
-* embassies and government buildings
-* sporting and cultural events
-* transport hubs
-
-Stay aware of your surroundings, keep up to date with local media reports and follow the advice of local authorities.
+Attacks could be indiscriminate, including in places visited by foreign nationals. Be alert for any security related announcements by the Kyrgyz authorities.
 
 ## Political situation
 

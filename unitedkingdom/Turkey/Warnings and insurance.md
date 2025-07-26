@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   8 July 2025
+:   26 July 2025
 
 Updated:
-:   7 July 2025
+:   25 July 2025
 
 Latest update:
-:   Removal of information on entering Turkey across the land border from Iran.
+:   Addition of information about access to e-sim services ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/6703bc3c3b919067bb482cfb/FCDO__TA__043_-_Turkey_Travel_Advice_Ed4__WEB_.jpg)
 

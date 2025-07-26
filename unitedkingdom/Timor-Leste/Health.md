@@ -34,7 +34,6 @@ Go to TravelHealthPro to see [what health risks you’ll face in Timor-Leste](ht
 * typhoid
 * hepatitis
 * tuberculosis
-* malaria
 
 Altitude sickness is a risk in parts of Timor-Leste. Read more about [altitude sickness on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/26/altitude-illness).
 

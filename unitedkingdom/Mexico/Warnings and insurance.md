@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   4 July 2025
+:   26 July 2025
 
 Updated:
-:   3 July 2025
+:   25 July 2025
 
 Latest update:
-:   Removal of information about the risks during the aftermath of Hurricane Erick ('Warnings and insurance' page).
+:   Update to information on political situation (Safety and Security page).
 
 ![](https://assets.publishing.service.gov.uk/media/65fabfdfaa9b76001dfbdb8a/FCDO_TA_065_-_Mexico_Travel_Advice_Ed5_WEB.jpg)
 
@@ -106,10 +106,6 @@ FCDO advises against all but essential travel to within 40km of the Guatemalan b
 FCDO advises against all but essential travel on Federal Highway 199 (Carretera Federal 199) between Rancho Nuevo (just outside San Cristobal de las Casas) and the Chancalá junction just outside Palenque (where Federal Highway 199 meets Federal Highway 307).
 
 Find out more about [why FCDO advises against travel to these areas](/foreign-travel-advice/mexico/regional-risks).
-
-## Ongoing Cartel Violence in Baja California Sur
-
-Since 24 April a dispute between rival Cartels has included attacks on public transport in Baja California Sur. Affected municipalities include Los Cabos, La Paz, and Mulegé. Please follow the advice of local authorities.
 
 ## Before you travel
 

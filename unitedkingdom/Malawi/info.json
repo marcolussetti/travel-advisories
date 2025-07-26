@@ -1,11 +1,11 @@
 {
     "name": "Malawi",
-    "update_reason": "Updated with information about the risks from terrorism (\u2018Safety and security\u2019 page\u2019).",
+    "update_reason": "Information on upcoming elections ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Malawi/Warnings and insurance.md",
-            "update_date": "2025-07-24T12:10:20+01:00"
+            "update_date": "2025-07-25T15:13:15+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Malawi/Getting help.md"
         }
     ],
-    "update_date": "2025-07-24T12:10:20+01:00"
+    "update_date": "2025-07-25T15:13:15+01:00"
 }

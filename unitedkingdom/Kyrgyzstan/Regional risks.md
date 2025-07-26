@@ -12,7 +12,7 @@ Stay aware of your surroundings if you travel to the provinces (‘oblasts’) o
 
 There remains some risk of conflict over recognition of the border with Tajikistan. There have been security incidents along the border including with exchanges of gunfire.
 
-In September 2022, armed conflict between the Kyrgyz and Tajik militaries resulted in over 100 deaths, including civilians. There was significant destruction of civilian property and infrastructure. Around 140,000 civilians were displaced. There is a risk of further violence and border closures at any time. Unexploded landmines and weapons remain a risk.
+In September 2022, armed conflict between the Kyrgyz and Tajik militaries resulted in over 100 deaths, including civilians. There was significant destruction of civilian property and infrastructure. Around 140,000 civilians were displaced. Unexploded landmines and weapons remain a risk.
 
 ## Border with Uzbekistan
 

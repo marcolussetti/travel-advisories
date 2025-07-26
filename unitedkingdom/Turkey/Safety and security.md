@@ -91,6 +91,10 @@ Accepting lifts from drivers of unofficial taxis is highly risky. Find a registe
 
 ## Laws and cultural differences
 
+### E-sims
+
+Access to some e-sim services is restricted in Turkey. Check with your provider before travelling.
+
 ### Ramadan
 
 Ramadan is a holy month for Muslims. Ramadan in Turkey will likely begin between 16 and 20 February in 2026 and will last for 29 or 30 days. Get more advice when you arrive from your tour guide, hotel or business contacts.

@@ -10,7 +10,7 @@ UK Counter Terrorism Policing has information and advice on [staying safe abroa
 
 ### Terrorism in Japan
 
-Terrorist attacks in Japan cannot be ruled out.
+Although there’s no recent history of terrorism in Japan, attacks cannot be ruled out.
 
 ## Political situation
 

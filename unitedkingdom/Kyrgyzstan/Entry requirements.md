@@ -36,7 +36,7 @@ For details about medical entry requirements and recommended vaccinations, see [
 
 ## Kyrgyz-British dual nationality
 
-Kyrgyzstan does not recognise dual nationality. If you enter Kyrgyzstan on a Kyrgyz passport, the British Embassy will only be able to provide limited consular assistance. If you’re arrested or detained, the Kyrgyz authorities are unlikely to allow you to get help from the British Embassy.
+Kyrgyzstan does not recognise dual nationality. If you enter Kyrgyzstan on a Kyrgyz passport and are also a British national, the British Embassy will only be able to provide limited consular assistance. If you’re arrested or detained, the Kyrgyz authorities are unlikely to allow you to get help from the British Embassy.
 
 ## Entering or leaving by a land border
 

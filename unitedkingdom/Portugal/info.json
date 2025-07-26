@@ -1,11 +1,11 @@
 {
     "name": "Portugal",
-    "update_reason": "Information on the introduction of a Code of Conduct in Albufeira and updated information on wildfires ('Safety and security' page).",
+    "update_reason": "New Information on industrial action affecting Portuguese airports (\u2019Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Portugal/Warnings and insurance.md",
-            "update_date": "2025-06-26T15:55:25+01:00"
+            "update_date": "2025-07-25T10:43:59+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Portugal/Getting help.md"
         }
     ],
-    "update_date": "2025-06-26T15:55:25+01:00"
+    "update_date": "2025-07-25T10:43:59+01:00"
 }
