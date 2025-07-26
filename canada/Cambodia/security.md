@@ -2,9 +2,9 @@
 
 ## Safety and security
 
-### Disputed Cambodia-Thailand border region
+### Armed clashes along the Cambodia-Thailand border
 
-Cambodia and Thailand have an ongoing border dispute. Tensions have increased since an exchange of fire on May 28, 2025, and have escalated to armed conflict with multiple casualties on July 24, 2025.
+The security environment is volatile at the border between Thailand and Cambodia due to an ongoing border dispute in the region. Tensions have increased since an exchange of fire on May 28, 2025, and have escalated to armed conflict with multiple casualties.
 
 Land mines are present in the disputed border regions. Land border crossings between Cambodia and Thailand may be closed or have their hours of operation changed unexpectedly.
 

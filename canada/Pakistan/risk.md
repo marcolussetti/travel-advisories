@@ -2,9 +2,9 @@
 
 ## Risk level
 
-### Pakistan - AVOID NON-ESSENTIAL TRAVEL
+### Pakistan - Exercise a high degree of caution
 
-[Avoid non-essential travel](#levels "Risk Levels") to Pakistan due to the unpredictable security situation and ongoing military clashes between Pakistan and India. There is also a threat of terrorism, civil unrest, sectarian violence and kidnapping.
+[Exercise a high degree of caution](#levels "Risk Levels") in Pakistan due to the unpredictable security situation. There is also a threat of terrorism, regional violence, civil unrest, sectarian violence and kidnapping.
 
 ### Regional advisory - Avoid all travel
 
@@ -24,5 +24,8 @@
 
 + Haripur
 + Abbottabad
-+ Buner
 + Chitral
+
+### Karachi - AVOID NON-ESSENTIAL TRAVEL
+
+[Avoid non-essential travel](#levels "Risk Levels") to the city of Karachi, due to violence and the risk of terrorism..

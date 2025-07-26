@@ -4,9 +4,11 @@
 
 ### Tropical Storm Co-May
 
-Tropical Storm Co-May is expected to gain typhoon strength and make landfall on the northwestern coast of Luzon, in the Ilocos region, on July 25, 2025.
+On July 25, 2025, Tropical Storm Co-May made landfall on the coasts of the Pangasinan and Ilocos provinces.
 
-The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
+Tropical Storm Co-May has gradually weakened as it moved northward, but it may continue to bring heavy rainfall and violent winds.
+
+It may also cause flash flooding and landslides and could severely disrupt the following essential services:
 
 * transportation
 * power distribution

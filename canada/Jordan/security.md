@@ -16,20 +16,6 @@ You should:
 
 [Canada's response to the situation in the Middle East](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=eng)
 
-### Situation in Israel, the West Bank and the Gaza Strip
-
-Land borders to the north and south with Israel remain open.
-
-However, reduced hours or closures on short notice may affect operating hours at the land border crossings with Israel. Verify the status of the border crossing before you travel to the border.
-
-If you are in Jordan:
-
-* register or update your personal information with the Registration of Canadians Abroad service to receive the latest updates
-* expect disturbances to Global Positioning System (GPS) signalexercise caution
-* expect heightened security measures
-* avoid all demonstrations and gatherings
-* follow the instructions of local authorities
-
 ### Areas within 5 km of the borders with Syria and Iraq, with the exception of the tourist site Umm Qais
 
 Clashes involving small arms and mortar fire have occurred in the areas bordering Syria and Iraq, due to the ongoing conflict in these countries. Borders with Syria and Iraq are highly militarized. Government security forces may engage vehicles and people coming into Jordan illegally.
@@ -61,9 +47,7 @@ Demonstrations occur regularly. Even peaceful demonstrations can turn violent at
 * Follow the instructions of local authorities
 * Monitor local media for information on ongoing demonstrations
 
-Since October 13, 2023, protests related to the ongoing conflict in Israel, the West Bank and the Gaza Strip have been taking place regularly at various locations across Jordan.
-
-Protest activity occurs throughout the week with larger demonstrations typically occurring on Fridays.
+Protests related to the ongoing conflicts in Israel, the West Bank and the Gaza Strip are taking place periodically at various locations across Jordan.
 
 Major gathering places have included:
 
@@ -77,7 +61,6 @@ Major gathering places have included:
 + the al-Wehdat refugee camp in South Amman
 + the Baqa'a refugee camp near Ein Al-Basha on the Amman-Jerash highway
 
-* the American Embassy and surrounding areas in Abdoun, Amman
 * various neighbourhoods in East Amman
 
 Most protests have been peaceful and contained by security forces. Isolated incidents of clashes with security forces have been reported.

@@ -308,7 +308,7 @@ Mexico's standards for the height of balcony railings are considerably lower tha
 
 ### Demonstrations
 
-Demonstrations occur frequently and roadblocks are common during demonstrations. Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation, as well as airport closures.
+Demonstrations occur frequently, especially in Mexico City, and roadblocks are common during demonstrations. Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation, as well as airport closures.
 
 It’s illegal for foreigners to conduct political activity in Mexico, including participating in demonstrations. If you participate in demonstrations as a foreigner, you may face detention, deportation, and the denial of future entry into Mexico.
 

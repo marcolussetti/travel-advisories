@@ -2,6 +2,10 @@
 
 ## Entry and exit requirements
 
+Due to the ongoing security situation in Israel, the West Bank and the Gaza Strip, operations at the land borders with Jordan may be affected by reduced hours or closure on short notice.
+
+Verify the status of the border crossing before you head there.
+
 Every country or territory decides who can enter or exit through its borders. The Government of Canada cannot intervene on your behalf if you do not meet your destination’s entry or exit requirements.
 
 We have obtained the information on this page from the Jordanian authorities. It can, however, change at any time.
@@ -39,14 +43,12 @@ Different entry rules may apply when travelling with a temporary passport or an 
 
 ### Visas
 
-#### Tourist visa
+Tourist visa: required, and valid for 30 days.
 
-Required, and valid for 30 days. You may obtain a visa upon arrival if you travel by air or enter Jordan at the following border crossings:
+You may obtain a visa upon arrival if you travel by air or enter Jordan at the following border crossings:
 
 * Sheikh Hussein Bridge
 * Wadi Araba (Aqaba)
-
-Due to recent events in Israel, West Bank and the Gaza Strip, operations at the land borders with Jordan may be affected by reduced hours or closure on short notice.
 
 You need to obtain a visa online or from a Jordanian diplomatic mission prior to travelling if you’re planning on entering Jordan at the King Hussein Bridge (Allenby) border crossing.
 

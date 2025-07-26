@@ -1,7 +1,7 @@
 {
     "name": "Thailand",
-    "update_reason": "Risk levels \u2013 avoid all travel to the Thailand-Cambodia border, avoid non-essential travel to eastern provinces; Safety and security \u2013 updated information about disputed Thailand-Cambodia border region",
-    "update_date": "2025-07-24T17:37:00",
+    "update_reason": "Safety and security \u2013 added information on martial law in effect in districts along the border with Cambodia",
+    "update_date": "2025-07-25T23:14:00",
     "sections": {
         "risk": "canada/Thailand/risk.md",
         "security": "canada/Thailand/security.md",

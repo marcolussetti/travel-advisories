@@ -2,17 +2,33 @@
 
 ## Safety and security
 
-### Disputed Thailand-Cambodia border region
+### Armed clashes along the Thailand-Cambodia border
 
-The security environment is volatile at the border between Thailand and Cambodia due to an ongoing border dispute in the region. Tensions have increased since an exchange of fire on May 28, 2025, and have escalated to armed conflict  with multiple casualties on July 24, 2025.
+The security environment is volatile at the border between Thailand and Cambodia due to an ongoing border dispute in the region. Tensions have increased since an exchange of fire on May 28, 2025, and have escalated to armed conflict with multiple casualties.
+
+On July 25, 2025, Thai authorities declared martial law in several districts along the border with Cambodia. When martial law is in effect, local authorities have enhanced powers and may impose security measures such as curfews and other movement restrictions. Martial law is in effect in the following districts of Chanthaburi and Trat provinces:
+
+* Chanthaburi:
+
++ Mueang Chanthaburi
++ Tha Mai
++ Makham
++ Laem Sing
++ Kaeng Hang Maew
++ Na Yai Am
++ Khao Khitchakut
+
+* Trat:
+
++ Khao Saming
 
 Land mines are present in the disputed border regions. Land border crossings between Thailand and Cambodia may be closed or change their hours of operation unexpectedly.
 
 Cross at designated border crossing points only, with the required travel documentation.
 
 * Expect an increased military presence and vigilance
-* Follow the instructions of local authorities
-* Exercise increased caution if you are travelling to any Thailand-Cambodia border areas
+* Follow the instructions of local authorities, including curfews and evacuation orders
+* Exercise increased caution if you are travelling to any areas along the border with Cambodia
 
 ### Southern provinces of Narathiwat, Pattani, Songkhla and Yala
 
