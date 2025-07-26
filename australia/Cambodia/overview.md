@@ -2,9 +2,9 @@
 
 Latest update
 
-We continue to advise exercise normal safety precautions in Cambodia overall. We now advise reconsider your need to travel to the border areas of the northern and north-western provinces of Preah Vihear and Oddar Meanchey due to armed conflict in the area.  
+We now advise do not travel to areas within 50 kilometres of the Thailand-Cambodia border due to the ongoing armed conflict.  
   
-Armed conflict between Thai and Cambodian military forces along the Thai-Cambodian border has increased. This includes military strikes, violence and the use of landmines in the border areas. Follow the advice of local authorities, monitor local media for updates and pay close attention to your personal security. Land border crossing points along the Thai-Cambodian border remain closed (see ‘Safety’ and ‘Travel’).  
+Armed conflict between Thai and Cambodian military forces along the Thailand-Cambodia border has increased. This includes military strikes, violence and landmines in the border areas. Follow the advice of local authorities, monitor local media for updates and pay close attention to your personal security. Land border crossing points along the Thailand-Cambodia border remain closed (see ‘Safety’ and ‘Travel’).  
   
 You'll need a valid visa to travel to Cambodia. If you stay longer than your visa allows, officials may stop you from leaving Cambodia. In cases of excessive overstays, you may be arrested and detained for violating immigration laws (see 'Travel'). Laws in Cambodia, including those related to incitement and defamation, can be broadly defined and applied (see 'Local Laws').
 
@@ -24,16 +24,16 @@ Higher levels apply in some areas.
 
 [Exercise normal safety precautions](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level1) in Cambodia.
 
-[Reconsider your need to travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level3) to the border areas of the northern and north-western provinces of Preah Vihear and Oddar Meanchey due to armed conflict in the area.
+[Do not travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level4) to areas within 50 kilometres of the Thailand-Cambodia border.
 
-[Reconsider your need to travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level3) to the border areas of the northern and north-western provinces of Preah Vihear and Oddar Meanchey due to armed conflict in the area.
+[Do not travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level4) to areas within 50 kilometres of the Thailand-Cambodia border due to ongoing armed conflict.
 
 ## Overview
 
 ### Safety
 
-* We now advise reconsider your need to travel to the border areas of the northern and north-western provinces of Preah Vihear and Oddar Meanchey due to armed conflict in the area.
-* Armed conflict between Thai and Cambodian military forces along the Thai-Cambodian border has increased. This includes military strikes, violence and the use of landmines in the border areas. Follow the advice of local authorities, monitor local media for updates and pay close attention to your personal security.
+* We now advise do not travel to areas within 50 kilometres of the Thailand-Cambodia border due to the ongoing armed conflict.
+* Armed conflict between Thai and Cambodian military forces along the Thailand-Cambodia border has increased. This includes military strikes, violence and the use of landmines in the border areas. Follow the advice of local authorities, monitor local media for updates and pay close attention to your personal security.
 * Street crimes, particularly phone and bag snatchings, occur regularly. Thieves often travel on motorbikes and target pedestrians or people in open taxis. Be prepared to surrender your valuables rather than risk injury in a struggle. Significant celebrations (such as Khmer New Year) often attract large crowds and can lead to increased petty crime and more serious threats.
 * Sexual assault occurs in tourist areas. Travellers have been assaulted after having their drinks spiked. Be alert to the potential risks around drink spiking and methanol poisoning through consuming alcoholic drinks. Stay with people you trust, and don't leave your drinks unattended in nightclubs and bars. See our advice on [Partying safely while overseas](/before-you-go/safety/partying "Partying safely").
 * Many people in Cambodia own guns, and gun crime and shootouts are common. Explosions have also occurred. These incidents usually arise from commercial, personal or other disputes. They can and have occurred at a wide range of locations, including at popular tourist destinations.

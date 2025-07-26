@@ -4,7 +4,7 @@
 
 #### Cambodia-Thailand border
 
-Armed conflict between Thai and Cambodian military forces along the Thai-Cambodian border has increased. This includes military strikes, violence and the use of landmines in the border areas of Preah Vihear and Oddar Meanchey provinces. Follow the advice of local authorities, monitor local media for updates and pay close attention to your personal security.
+Armed conflict between Thai and Cambodian military forces along the Thailand-Cambodia border has increased. This includes military strikes, violence and landmines. Follow the advice of local authorities, monitor local media for updates and pay close attention to your personal security.
 
 #### Public protests and events
 

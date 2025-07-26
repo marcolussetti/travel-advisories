@@ -2,13 +2,11 @@
 
 Latest update
 
-We continue to advise exercise a high degree of caution in Thailand overall. We now advise reconsider your need to travel to the border areas of Buriram, Si Saket, Surin and Ubon Ratchathani provinces near the Cambodia border due to armed conflict in the area.  
+Due to the ongoing armed conflict along the Thailand-Cambodia border, we now advise do not travel to areas within 50 kilometres of the Thailand-Cambodia land border throughout the provinces of Buriram, Si Saket, Sa Kaeo, Surin, Ubon Ratchathani, Chanthaburi and mainland Trat. Follow the advice of local authorities, including when navigating maritime areas near the maritime borders (see 'Safety').  
   
-Armed conflict between Thai and Cambodian forces along the Thai-Cambodian border has increased. This includes military strikes, violence and landmines near the border areas of Buriram, Si Saket, Surin and Ubon Ratchathani provinces. There are reports of casualties. Follow the advice of local authorities, monitor local media for updates and pay close attention to your personal security. Border crossing points along the Thai-Cambodian border continue to be closed at short notice.  
+Armed conflict between Thai and Cambodian forces along the Thailand-Cambodia border has increased. This includes military strikes, violence and landmines near the border areas of Buriram, Si Saket, Sa Kaeo, Surin, Ubon Ratchathani, Chanthaburi and mainland Trat provinces. There are reports of casualties. Martial law has been declared in some districts in these provinces. Follow the advice of local authorities, monitor local media for updates and pay close attention to your personal security. Border crossing points along the Thailand-Cambodia border continue to be closed.  
   
-There's an ongoing risk of terrorism in Thailand. Popular tourist areas may be the target of terrorist attacks anywhere across Thailand, including Bangkok and Phuket. Phuket International Airport has increased security measures and passengers should arrive early for their flight. This follows the recent discovery of an explosive device near the airport. Thai authorities also defused devices in Phuket, Krabi and Phang Nga and made arrests.   
-  
-Be alert to risks around drink spiking. Don't leave food or drinks unattended. Stay with people you trust at bars, nightclubs and in taxis. See our advice on partying safely while overseas.
+There's an ongoing risk of terrorism in Thailand. Popular tourist areas may be the target of terrorist attacks anywhere across Thailand, including Bangkok and Phuket (see 'Safety').
 
 Advice Level summary
 
@@ -26,16 +24,9 @@ Higher levels apply in some areas.
 
 [Exercise a high degree of caution](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level2) in Thailand overall due to security and safety risks.
 
-[Reconsider your need to travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level3) to the border areas of Buriram, Si Saket, Surin and Ubon Ratchathani provinces.
+[Do not travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level4) to areas within 50 kilometres of the Thailand-Cambodia land border throughout the provinces of Buriram, Si Saket, Sa Kaeo, Surin, Ubon Ratchathani, Chanthaburi and mainland Trat.
 
-[Reconsider your need to travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level3) to the border areas of:
-
-* Buriram province
-* Si Saket province
-* Surin province
-* Ubon Ratchathani province
-
-due to armed conflict in the area.
+[Do not travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level4) to areas within 50 kilometres of the Thailand-Cambodia land border throughout the provinces of Buriram, Si Saket, Sa Kaeo, Surin, Ubon Ratchathani, Chanthaburi and mainland Trat, due to armed conflict in the area.
 
 See [Safety](#safety).
 
@@ -55,9 +46,9 @@ See [Safety](#safety).
 
 ### Safety
 
-* We now advise reconsider your need to travel to the border areas of Buriram, Si Saket, Surin and Ubon Ratchathani provinces near the Cambodia border due to armed conflict in the area.
+* Due to the ongoing armed conflict along the Thailand-Cambodia border, we now advise do not travel to areas within 50 kilometres of the Thailand-Cambodia land border throughout the provinces of Buriram, Si Saket, Sa Kaeo, Surin, Ubon Ratchathani, Chanthaburi and mainland Trat. Follow the advice of local authorities, including when navigating maritime areas near the maritime borders.
 * Armed conflict between Thai and Cambodian forces along the Thai-Cambodian border has increased. This includes military strikes, violence and landmines in the border areas of Buriram, Si Saket, Surin and Ubon Ratchathani provinces. Follow the advice of local authorities and pay close attention to your personal security.
-* Border crossing points along the Thai-Cambodian border continue to be closed at short notice
+* All border crossing points along the Thailand-Cambodia border are currently closed. Monitor local media for updates and follow the advice of local authorities.
 * There's an ongoing risk of terrorist attacks in Thailand. Popular tourist areas may be the target of terrorist attacks anywhere across Thailand, including Bangkok and Phuket. Phuket International Airport has increased security measures and passengers should arrive early for their flight. This follows the recent discovery of an explosive device near the airport. Thai authorities also defused devices in Phuket, Krabi and Phang Nga and made arrests. Coordinated attacks have occurred in the southern provinces. The ongoing conflict in the Middle East could lead to an increased threat of attacks against Israeli interests in other regions. Be alert to possible threats. Take official warnings seriously and follow the advice of local authorities.
 * Anti-government protests have previously occurred in Bangkok and other areas of Thailand. There may be further protests in the future. The security environment can be unpredictable and turn violent. Those attending protests can face arrest or other legal consequences. Monitor local media for information on protest locations and avoid public gatherings.
 * Road accidents are a significant cause of injury. Be alert at all times on the roads, including wearing helmets on motorcycles and motorcycle taxis.
