@@ -1,11 +1,11 @@
 {
     "name": "Cambodia",
-    "update_reason": "FCDO now advises against all but essential travel to within 50km from the border with Thailand\u202fin Oddar Meanchey and Preah Vihear provinces\u202f(\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Information on the spread of an escalating dispute along the border with Thailand and Cambodia ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Cambodia/Warnings and insurance.md",
-            "update_date": "2025-07-24T21:19:07+01:00"
+            "update_date": "2025-07-26T10:33:56+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Cambodia/Getting help.md"
         }
     ],
-    "update_date": "2025-07-24T21:19:07+01:00"
+    "update_date": "2025-07-26T10:33:56+01:00"
 }

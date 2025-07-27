@@ -1,11 +1,11 @@
 {
     "name": "Thailand",
-    "update_reason": "FCDO now advises against all but essential travel to within 50km of the border from Cambodia in the provinces of Buriram, Si Saket, Surin and Ubon Ratchathani (\u2018Warnings and insurance\u2019 and \u2018Regional risks\u2019 pages).",
+    "update_reason": "Information on the spread of an escalating dispute along the border with Thailand and Cambodia ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Thailand/Warnings and insurance.md",
-            "update_date": "2025-07-24T21:20:55+01:00"
+            "update_date": "2025-07-26T10:33:48+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Thailand/Getting help.md"
         }
     ],
-    "update_date": "2025-07-24T21:20:55+01:00"
+    "update_date": "2025-07-26T10:33:48+01:00"
 }
