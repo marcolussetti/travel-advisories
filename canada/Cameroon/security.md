@@ -2,6 +2,14 @@
 
 ## Safety and security
 
+Heightened security measures have been implemented, particularly in Yaoundé and Douala, following the July 26, 2025 announcement by Cameroon’s electoral authorities concerning the publication of the candidate list for the October 2025 presidential elections.
+
+You should avoid areas near government buildings, including Elections Cameroon (ELECAM) headquarters and its surroundings.
+
+Political announcements may lead to demonstrations and civil unrest.
+
+[Information on demonstrations](#demonstrations)
+
 ### Far North region and Mayo-Louti Department
 
 Violent extremist groups carry out attacks, kidnappings and banditry in these regions.
