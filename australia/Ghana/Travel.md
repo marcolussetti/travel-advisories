@@ -8,7 +8,7 @@
 
 You'll need a visa to travel to Ghana.
 
-Entry and exit conditions can change at short notice. Contact an embassy or [high commission of Ghana](https://protocol.dfat.gov.au/Public/Missions/76) for details about visas, currency, customs and quarantine rules.
+Entry and exit conditions can change at short notice. Contact the [High Commission of Ghana](https://protocol.dfat.gov.au/Public/Missions/76) for details about visas, currency, customs and quarantine rules.
 
 **Border measures**
 
@@ -29,6 +29,10 @@ Find out about returning to Australia [after exposure to yellow fever](https://w
 **More information:**
 
 * [Countries with a risk of yellow fever (PDF 252KB)](https://www.who.int/publications/m/item/countries-with-risk-of-yellow-fever-transmission-and-countries-requiring-yellow-fever-vaccination-(november-2022))
+
+#### Customs rules
+
+There are strict rules about [goods you can take into or out of Ghana](https://gra.gov.gh/customs/). You must declare anything that may be prohibited or subject to tax or duty.
 
 #### Ghanacard
 
@@ -63,7 +67,7 @@ Although Australian passports comply with international standards for sex and ge
 
 **More information:**
 
-* [LGBTQIA+ travellers](https://www.smartraveller.gov.au/before-you-go/who-you-are/LGBTI)
+* [LGBTQIA+ travellers](/before-you-go/who-you-are/LGBTQIA "Advice for LGBTQIA+ travellers")
 
 #### Money
 
@@ -86,13 +90,11 @@ To ensure your access to money:
 
 #### Local travel
 
-A curfew is in place from 8pm to 5am, covering Walewale and its surrounding areas in the North East Region. You should plan your travel movements to avoid breaking the curfew and follow the directions of local authorities.
+Several curfews are in place across Ghana. Plan your travel movements to avoid breaking the curfew and follow the directions of local authorities.
+
+There have been an increasing number of reported incidents of banditry involving passenger buses travelling in the Upper West and Upper East regions resulting in injuries and deaths.
 
 Border areas often see higher criminal activity and violence. 
-
-Chieftaincy disputes and political tension can sometimes lead to localised violence and unrest across Ghana. 
-
-There have been an increasing number of reported incidents of banditry involving passenger buses travelling in the Upper West and Upper East regions resulting in injuries and deaths. In January 2024, unidentified gunmen attacked a bus travelling on the Walewale-Bolgatanga highway, resulting in several injuries. 
 
 There are security risks with using [public transport](https://www.smartraveller.gov.au/node/366) (see '[Safety')](https://www.smartraveller.gov.au/destinations/africa/ghana#safety).
 
@@ -152,19 +154,25 @@ Your travel insurance policy may not cover you for accidents while driving a mot
 
 Always wear a helmet.
 
-#### Taxis
+#### Taxis and rideshare services
 
 Only use registered taxis and limousines. If you can, arrange these through your hotel.
 
-There are security risks with using unregistered taxis and rideshare services.
+Rideshare services operate within Ghana (Bolt and Uber). Always use the app-based booking system. 
+
+Avoid flagging down taxis or rideshare services in the street.
+
+Ask your accommodation host or tour guide for advice on using public transport. Book local transport through a reputable provider. 
+
+There are security risks with using unregistered taxis and rideshare services, especially at night. Consider sitting in the back seat rather than the front.
 
 Take care when travelling alone at night (see [Safety).](#safety)
 
 #### Public transport
 
-Public transport is limited.
+Public transport is limited. Safety and maintenance standards of public transport can be unreliable.
 
-Safety and maintenance standards can be unreliable.
+Avoid using commuter buses (vans) due to safety concerns related to overcrowding, poor maintenance and reckless driving.
 
 There are security risks with using [public transport](/node/366) (see 'Safety').
 

@@ -30,6 +30,8 @@ Members of the LGBTQIA+ community and advocates can be targets for harassment. T
 
 Penalties for drug offences are severe. They can include long jail terms.
 
+Airports in Tanzania have technology and security for detecting illegal items, including drugs. This can be used to scan the baggage of transiting passengers.
+
 **More information:**
 
 * [Carrying or using drugs](/before-you-go/laws/drugs "Carrying or using drugs")

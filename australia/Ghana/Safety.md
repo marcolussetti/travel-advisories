@@ -6,8 +6,8 @@
 
 Violent crime occurs across Ghana. This includes:
 
-* [Assault](https://www.smartraveller.gov.au/before-you-go/safety/assault)
-* [Armed robbery](https://www.smartraveller.gov.au/before-you-go/safety/theft-robbery) (including in a taxi)
+* [Assault](/before-you-go/safety/assault "Reducing the risk of assault")
+* [Armed robbery](/before-you-go/safety/theft-robbery "Theft and robbery") (including in a taxi)
 * [Sexual assault](https://www.smartraveller.gov.au/before-you-go/safety/sexual-assault)
 * Break-ins and burglars may be armed
 * Carjacking
@@ -91,6 +91,10 @@ If you suspect a scam, get legal advice.
 
 Don't travel to Ghana to get your money back or to get revenge. You could be in danger.
 
+**More information:**
+
+* [Scams that affect travellers](/before-you-go/safety/scams "Scams that affect travellers")
+
 #### Drink Spiking
 
 Drink spiking can happen anywhere. Be alert to the potential risks, and don't leave food or drinks unattended. Pay attention when your drinks are being mixed. Stick to reputable venues and avoid homemade alcoholic drinks due to the risk of methanol poisoning. Get urgent medical help if you suspect you’ve been a victim.
@@ -107,7 +111,7 @@ Social media can also be risky in destinations where there are social or politic
 
 **More information:**
 
-[Cyber security when travelling overseas](https://www.smartraveller.gov.au/before-you-go/staying-safe/cyber-security)
+* [Cyber security when travelling overseas](/before-you-go/staying-safe/cyber-security "Cyber security when travelling overseas")
 
 #### Civil unrest and political tension
 
@@ -115,15 +119,16 @@ Chieftaincy conflicts, land disputes and political tension can lead to localised
 
 Due to the ongoing chieftaincy conflict in Bawku, there's an increased risk of politically motivated attacks in the Upper West and Upper East Regions. 
 
-There's been an increase in reported incidents of banditry involving passenger buses travelling in the Upper West and Upper East regions resulting in injuries and deaths. In January 2024, unidentified gunmen attacked a bus travelling on the Walewale-Bolgatanga highway, resulting in several injuries. 
+There's been an increase in incidents of banditry involving passenger buses travelling in the Upper West and Upper East regions resulting in injuries and deaths. 
 
-Ghana has issued a curfew from 8pm to 5am covering Walewale and its surrounding areas in the North East Region. You should plan your travel movements to avoid breaking the curfew and follow the directions of local authorities.
+There are several curfews in place across Ghana: 
 
-Pay attention to your personal safety and surroundings.
+* Binduri Township and surrounding arears in Upper East Region, from 6pm to 6am
+* Bawku Municipality and surrounding areas in Upper East Region, from 6pm to 6am
+* Nkwanta Township and surrounding areas in Oti Region, from 6pm to 5am
+* Walewale and surrounding areas in the North East Region, from 10pm to 4am
 
-Be cautious around large public gatherings like football matches.
-
-Disputes involving local ethnic groups can also turn violent.
+You should plan your travel movements to avoid breaking the curfew and follow the directions of local authorities. 
 
 #### Demonstrations and protests
 
@@ -142,6 +147,12 @@ Be prepared to change your travel plans in case of protests or strikes. If your 
 * travel agent
 * travel insurer
 
+Pay attention to your personal safety and surroundings.
+
+Be cautious around large public gatherings like football matches.
+
+Disputes involving local ethnic groups can also turn violent.
+
 **More information:**
 
 * [Demonstrations and civil unrest](/node/343)
@@ -152,20 +163,20 @@ Terrorism is a threat worldwide. This includes in Ghana. There's a heightened r
 
 An attack could happen anywhere and at any time.
 
-* consider likely targets and level of security provided, including places visited by foreigners, such as shopping centres.
-* always be alert to possible threats, especially in public places.
+* consider likely targets and level of security provided, including places visited by foreigners, such as shopping centres
+* always be alert to possible threats, especially in public places
 * report any suspicious items or activities to the police.
 
 To protect yourself from being involved in a terrorist attack:
 
 * monitor the media for possible threats
 * take official warnings seriously
-* follow the advice of local authorities
+* follow the advice of local authorities.
 
 If there’s a terrorist attack:
 
 * leave the affected area immediately if it’s safe to
-* avoid the area afterwards in case of more attacks
+* avoid the area afterwards in case of more attacks.
 
 **More information:**
 
@@ -175,32 +186,31 @@ If there’s a terrorist attack:
 
 Kidnapping occurs across the world with political, ideological and criminal motives. Foreigners, including Australians, have been kidnapped overseas whilst travelling, including in Ghana. Kidnapping can happen anywhere, anytime, including in destinations that are typically lower risk.
 
-Criminals increasingly target foreigners for violent crime in Ghana. This includes [kidnapping](https://www.smartraveller.gov.au/before-you-go/safety/kidnapping). Scammers may kidnap you to seek a ransom for your release.
+Criminals increasingly target foreigners for violent crime in Ghana. This includes [kidnapping](https://www.smartraveller.gov.au/before-you-go/safety/kidnapping). Scammers may kidnap you to seek a ransom for your release. See the 'Crime' section under 'Safety' for more details.
 
 There is a threat of kidnapping across Ghana. The risk is higher in northern Ghana, including the Upper West and Upper East regions. If, despite our advice, you travel to an area with a high risk of kidnapping, our ability to provide consular assistance may be limited.
 
-To reduce the risk of kidnapping:
+You are responsible for your own safety. To reduce the risk of kidnapping:
 
-* always be alert to your personal security and surroundings, particularly at night
-* get professional security advice for travel to locations with a heightened kidnap risk
+* always be alert to your personal security and surroundings - avoid distractions. Be prepared to stop or take evasive action if you sense danger
+* get professional security advice for travel in locations with a heightened kidnap risk. It's essential to have a contingency plan
 * check your accommodation has appropriate security measures
-* avoid isolated locations, particularly when travelling alone
-* avoid predictable movements.  Vary travel routes and times, particularly on your usual routes
-* notify family or friends of planned travel and share your location
+* vary your movements so you don't set predictable patterns
+* keep a low profile – including online. Drawing attention to yourself in high-risk areas may signal to criminals that you have something worth taking
+* avoid isolated locations, particularly when travelling alone. There is safety in numbers, and you should try to travel with someone else, especially at night
+* notify family or friends of planned travel; share your location and emergency contacts that they can rely on if something happens
 * avoid talking about your money or business affairs
-* don't display money or valuables
-* use ATMs inside banks, hotels and shopping centres during daylight hours
-* avoid giving personal details to strangers online or over the phone
-* always use licensed taxi services arranged through your hotel
-* when travelling by road, keep windows up and doors locked, especially at night
+* use ATMs in public places and during daylight hours
+* avoid giving personal details to strangers online or over the phone. Criminals have been known to search social media for victims
+* If you are confronted by armed criminals, it is best to surrender and cooperate – resistance tends to make the situation worse.
 
 The Australian Government's longstanding policy is that it doesn't make payments or concessions to kidnappers. Ransom payments to kidnappers have funded further terrorist attacks and criminal activity. Paying a ransom to terrorist groups will likely break Australian counter-terrorism financing laws.
-
-See the 'Crime' section under 'Safety' for more details.
 
 **More information:** 
 
 * [Kidnapping](https://www.smartraveller.gov.au/before-you-go/safety/kidnapping)
+* [Scams that affect travellers](/before-you-go/safety/scams "Scams that affect travellers")
+* [Reducing the risk of piracy](/before-you-go/safety/piracy "Reducing the risk of piracy")
 
 #### Climate and natural disasters
 

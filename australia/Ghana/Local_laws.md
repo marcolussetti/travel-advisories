@@ -22,7 +22,7 @@ Violence, threats, extortion, eviction and arbitrary arrest of LGBTQIA+ people 
 
 **More information:**
 
-* [Advice for LGBTQIA+ travellers](https://www.smartraveller.gov.au/before-you-go/who-you-are/LGBTQIA)
+* [Advice for LGBTQIA+ travellers](/before-you-go/who-you-are/LGBTQIA "Advice for LGBTQIA+ travellers")
 
 #### Other laws
 

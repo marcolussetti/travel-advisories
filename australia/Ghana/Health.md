@@ -50,7 +50,7 @@ Carry a copy of your prescription or a letter from your doctor stating:
 
 #### Health risks
 
-#### Mpox (formerly known as monkeypox)
+#### Mpox
 
 The World Health Organisation (WHO) has declared the current Mpox outbreak in parts of Africa as a global public health emergency. It has now spread across a number of countries in Africa, including Ghana.
 
@@ -121,7 +121,6 @@ Waterborne, foodborne, parasitic and other infectious diseases are common, inclu
 * [meningococcal meningitis](https://www.who.int/news-room/fact-sheets/detail/meningitis)
 * [tuberculosis](https://www.who.int/news-room/fact-sheets/detail/tuberculosis)
 * [dengue fever](https://www.health.gov.au/diseases/dengue-virus-infection)
-* [COVID-19](https://www.health.gov.au/topics/covid-19/about)
 
 Serious outbreaks sometimes occur.
 

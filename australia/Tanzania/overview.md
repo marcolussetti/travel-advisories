@@ -2,8 +2,11 @@
 
 Latest update
 
-The US Embassy in Tanzania has issued a security alert to advise avoiding all travel to islands and coastal areas south of Kisiju. Terrorism and violent crime are risks in Tanzania. Be alert to your surroundings and pay close attention to your personal security (see 'Safety').  
-There's currently an Mpox outbreak in parts of Africa, including in Tanzania. You'll need to pass through Mpox screening, including body temperature checks, at all points of entry into Tanzania (see 'Health'). To travel to Zanzibar, you'll need inbound travel insurance from the Zanzibar Insurance Corporation. This insurance coverage is limited, so make sure you have other insurance coverage for your travel.
+To travel to Zanzibar, you need to purchase inbound travel insurance from the Zanzibar Insurance Corporation. This insurance coverage is limited, so make sure you have other insurance coverage for your travel (see 'Travel').  
+  
+Terrorism and violent crime are risks in Tanzania. Be alert to your surroundings and pay close attention to your personal security (see 'Safety').  
+  
+There's currently an Mpox outbreak in parts of Africa, including in Tanzania. You'll need to pass through Mpox screening, including body temperature checks, at all points of entry into Tanzania (see 'Health').
 
 Advice Level summary
 
@@ -32,7 +35,6 @@ See [Safety](#safety)
 ### Safety
 
 * Terrorist attacks could happen at any time, including in locations popular with foreigners and tourists.
-* The US Embassy in Tanzania has issued a [security alert](https://tz.usembassy.gov/security-alert-u-s-embassy-dar-es-salaam-tanzania-march-21-2025/) advising avoiding all travel to islands and coastal areas south of Kisiju. Be alert to your surroundings and pay close attention to your personal security.
 * During the rainy seasons (March to May and November to December), floods can block roads. Monsoons occur in coastal and island areas from July to October. Cyclones in coastal areas are also common. Follow the advice of local officials.
 * Violent armed robbery, petty theft and threats of violence are common, especially in Dar es Salaam. Be extra careful in and around Arusha in northern Tanzania. Armed robberies, carjackings and home invasions have occurred. Bag snatching from moving vehicles is increasing. Victims can be injured or killed by being dragged behind vehicles. Don't resist bag-snatch attempts.
 * Only use registered taxis. Travellers have been targeted by criminals while using unlicensed taxis.
@@ -42,7 +44,7 @@ Full travel advice: [Safety](#safety)
 
 ### Health
 
-* There's currently an outbreak of Mpox (formerly known as monkeypox) in parts of Africa. Maintain strict hygiene standards and avoid physical contact with anyone who has Mpox (see ‘Health risks’).
+* There's currently an outbreak of Mpox in parts of Africa, including in Tanzania. Maintain strict hygiene standards and avoid physical contact with anyone who has Mpox (see ‘Health risks’).
 * Malaria, including chloroquine-resistant strains, occurs year-round, except in areas above 1800 metres. You should take anti-malarial medication.
 * Yellow fever can occur. Check with a health professional before travelling if you need to get vaccinated. Other insect-borne diseases include Zika virus, dengue, filariasis and East African trypanosomiasis (sleeping sickness). Ensure your accommodation is insect-proof and use insect repellent.
 * HIV/AIDS is widespread. Take precautions if you're taking part in high-risk activities.
@@ -54,6 +56,7 @@ Full travel advice: [Health](#health)
 ### Local laws
 
 * Don't use or carry illegal drugs. Penalties for drug offences are severe and include long prison sentences. It's also illegal to possess pornographic material.
+* Airports in Tanzania have technology and security for detecting illegal items, including drugs. This can be used to scan the baggage of transiting passengers.
 * Plastic bags are banned in Tanzania. You can face heavy fines and imprisonment for up to 7 days.
 * Same-sex relations are illegal and punishable by up to 30 years in jail. Authorities have targeted LGBTQIA+ rights activists.
 * It's illegal to photograph military zones, weapons or personnel.

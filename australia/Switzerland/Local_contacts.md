@@ -34,38 +34,26 @@ Consular assistance is available from the Australian Embassy in Bern and the Con
 
 #### Australian Embassy, Bern
 
-Address: Weltpoststrasse 5, 2nd Floor – Flex Office
+Address: Weltpoststrasse 5, 2nd Floor – Flex Office  
+3015 Bern, Switzerland
 
-3015 Bern, 
-
-Switzerland
-
-Phone: +41 (0)31 310 17 80
-
-Email: [bern.embassy@dfat.gov.au](mailto:bern.embassy@dfat.gov.au)
-
-Website: <Switzerland.embassy.gov.au>
-
+Phone: +41 (0)31 310 17 80   
+Email: [bern.embassy@dfat.gov.au](mailto:bern.embassy@dfat.gov.au)   
+Website: <Switzerland.embassy.gov.au>  
 X: [AusAmbCH](https://twitter.com/AusAmbCH)
 
 See the Embassy website for details about opening hours and any temporary closures.
 
 #### Australian Consulate-General, Geneva
 
-Address : Chemin des Fins 2, 1218 Le Grand-Saconnex
+Address : Chemin des Fins 2, 1218 Le Grand-Saconnex  
+Postal address: Case postale 102, 1211 Geneva 19  
+Switzerland
 
-Postal address: Case postale 102, 1211 Geneva 19
-
-Switzerland 
-
-Phone: +41 (0)22 799 9100 
-
-Email: [australian.consulate-geneva@dfat.gov.au](mailto:Australian.consulate-geneva@dfat.gov.au)
-
-Website: [geneva.mission.gov.au](https://geneva.mission.gov.au/) 
-
-Facebook: [Australian Consulate-General, Switzerland](https://www.facebook.com/AustraliaInSwitzerland/)
-
+Phone: +41 (0)22 799 9100   
+Email: [australian.consulate-geneva@dfat.gov.au](mailto:Australian.consulate-geneva@dfat.gov.au)  
+Website: [geneva.mission.gov.au](https://geneva.mission.gov.au/)   
+Facebook: [Australian Consulate-General, Switzerland](https://www.facebook.com/AustraliaInSwitzerland/)  
 X: [Australian Consulate Geneva](https://twitter.com/AusCGGeneva)
 
 See the Consulate-General website for details about opening hours and any temporary closures.

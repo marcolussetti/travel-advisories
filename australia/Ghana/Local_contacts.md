@@ -44,7 +44,6 @@ Cantonments
 Accra, Ghana  
   
 Phone: (+233) 302 216 400  
-Fax: (+233) 302 216 410  
 Email: [AccraHC.Enquiries@dfat.gov.au](mailto:AccraHC.Enquiries@dfat.gov.au)  
   
 Website: [ghana.highcommission.gov.au](http://www.ghana.highcommission.gov.au/acra/home.html)  
