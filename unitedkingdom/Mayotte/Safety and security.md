@@ -43,6 +43,12 @@ There is a significant risk of [piracy in the Gulf of Aden and Indian Ocean](htt
 
 Find out what you can do to prepare for and respond to [extreme weather and natural hazards](https://www.gov.uk/guidance/tropical-cyclones).
 
+### Ongoing disruption following Cyclone Chido
+
+Most services in Mayotte have now been restored following Cyclone Chido in 2024, but some outages (including drinking water and electricity) may still occur.
+
+The hospital remains open, but not all services have been restored.
+
 ### Tropical cyclones
 
 The cyclone season in Mayotte normally runs from December to April. Monitor local news and check [French Weather Service](https://meteofrance.yt/fr) (in French) and [World Meteorological Organization](https://severeweather.wmo.int/tc/swi/index.html). Follow advice issued by the local authorities.

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   2 July 2025
+:   29 July 2025
 
 Updated:
-:   1 July 2025
+:   28 July 2025
 
 Latest update:
-:   Updated information of what health risks you’ll face in Angola (‘Health’ page).
+:   Information added about a 3-day strike for taxi drivers in Luanda from 28 July. We are aware of reports of attacks on vehicles, including on app-based taxis (e.g. Yango and Heetch) and public buses, looting and civil disorder in the capital, Luanda (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/6437d3f1db4ba90013448e0a/FCDO__TA__053_-_Angola_Travel_Advice_Ed2__WEB_.jpg)
 
@@ -27,6 +27,10 @@ FCDO advises against all but essential travel to Cabinda Province, except to Cab
 FCDO advises against all but essential travel to within 1km of the border with the Democratic Republic of the Congo (DRC) in Lunda Norte province, except for official border crossings and their access roads. This is due to poor conditions, insecurity and banditry.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/angola/regional-risks).
+
+## Protests in Luanda
+
+The taxi drivers union has called for a 3 day strike from 28 July. There are reports of attacks on vehicles, including app-based taxis (eg Yango and Heetch) and public buses. There are also reports of civil disorder and looting. The disorder may occur in any part of the city, and may move to different places. Take local advice and move away if you see a demonstration or crowd forming.
 
 ## Before you travel
 

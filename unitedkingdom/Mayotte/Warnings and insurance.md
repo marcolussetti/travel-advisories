@@ -1,38 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   29 July 2025
 
 Updated:
-:   19 December 2024
+:   28 July 2025
 
 Latest update:
-:   FCDO now advises against all but essential travel to Mayotte and updated information on Cyclone Chido (‘Warnings and insurance’ and ‘Safety and security’ pages).
-
-![](https://assets.publishing.service.gov.uk/media/67644a04e6ff7c8a1fde9c30/FCDO__TA__099_-_Mayotte_Travel_Advice_Ed1__WEB_.jpg)
-
-
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/67644a05e6ff7c8a1fde9c31/FCDO__TA__099_-_Mayotte_Travel_Advice_Ed1.pdf)
-
-Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO). Consular support is also severely limited where FCDO advises against travel.
-
-## FCDO advises against all but essential travel to Mayotte
-
-## Cyclone Chido
-
-Cyclone Chido has caused widespread damage to infrastructure, including the international airport, and severe disruption to services in Mayotte. Stay alert and follow the advice of the [local authorities](https://www.mayotte.gouv.fr/Actualites/Communiques-de-presse/Communique-de-presse-2024/Cyclone-Chido-point-de-situation-a-14-heures). There is a curfew in place between 10pm and 4am local time each night.
-
-Given the widespread damage to infrastructure, including the international airport, and severe disruption to services caused by cyclone Chido, we advise against all but essential travel to Mayotte.
-
-Further information on tropical cyclones is detailed in [Safety and security](https://www.gov.uk/foreign-travel-advice/mayotte/safety-and-security).
-
-### Help abroad in an emergency
-
-There is no British Embassy in Mayotte but the British Embassy in Paris, France, supports British nationals who need emergency help from the UK government.
-
-If you are in Mayotte and need UK consular assistance, please contact the British Embassy in Paris which operates a 24/7 consular telephone service.
-
-Telephone: +33 (0) 1 44 51 31 00
+:   FCDO no longer advises against all but essential travel to Mayotte.
 
 ## Before you travel
 

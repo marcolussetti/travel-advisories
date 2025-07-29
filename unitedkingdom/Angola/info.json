@@ -1,11 +1,11 @@
 {
     "name": "Angola",
-    "update_reason": "Updated information of what health risks you\u2019ll face in Angola (\u2018Health\u2019 page).",
+    "update_reason": "Information added about a 3-day strike for taxi drivers in Luanda from 28 July. We are aware of reports of attacks on vehicles, including on app-based taxis (e.g. Yango and Heetch) and public buses, looting and civil disorder in the capital, Luanda (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Angola/Warnings and insurance.md",
-            "update_date": "2025-07-01T12:08:28+01:00"
+            "update_date": "2025-07-28T16:16:35+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Angola/Getting help.md"
         }
     ],
-    "update_date": "2025-07-01T12:08:28+01:00"
+    "update_date": "2025-07-28T16:16:35+01:00"
 }

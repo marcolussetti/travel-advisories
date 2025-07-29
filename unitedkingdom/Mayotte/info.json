@@ -1,11 +1,11 @@
 {
     "name": "Mayotte",
-    "update_reason": "FCDO now advises against all but essential travel to Mayotte and updated information on Cyclone Chido (\u2018Warnings and insurance\u2019 and \u2018Safety and security\u2019 pages).",
+    "update_reason": "FCDO no longer advises against all but essential travel to Mayotte.",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Mayotte/Warnings and insurance.md",
-            "update_date": "2024-12-19T14:50:28+00:00"
+            "update_date": "2025-07-28T14:45:12+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Mayotte/Getting help.md"
         }
     ],
-    "update_date": "2024-12-19T14:50:28+00:00"
+    "update_date": "2025-07-28T14:45:12+01:00"
 }

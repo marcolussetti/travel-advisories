@@ -1,11 +1,11 @@
 {
     "name": "Vietnam",
-    "update_reason": "Update regarding Storm Wipha. Northern Vietnam affected, including Ha Long Bay.",
+    "update_reason": "Removal of information about Storm Wipha.",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Vietnam/Warnings and insurance.md",
-            "update_date": "2025-07-21T06:20:25+01:00"
+            "update_date": "2025-07-28T16:24:52+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Vietnam/Getting help.md"
         }
     ],
-    "update_date": "2025-07-21T06:20:25+01:00"
+    "update_date": "2025-07-28T16:24:52+01:00"
 }
