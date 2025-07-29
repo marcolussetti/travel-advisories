@@ -2,8 +2,6 @@
 
 Remember, the local laws apply to you as a visitor and it is your responsibility to follow them. Be sensitive to local customs, traditions and practices as your behaviour may be seen as improper, hostile or may even be illegal.
 
-### **Muslim Culture**
-
 Syria is a conservative society, and you should respect local traditions, customs, laws and religions. Avoid public displays of affection, dress conservatively (women's clothes should cover their legs and upper arms), be aware of your actions and take care not to offend other cultures or religious beliefs, especially during the holy month of Ramadan or other religious festivals, or if you intend to visit religious areas.
 
 During Ramadan, Muslims are not permitted to eat, drink or smoke during daylight hours. To avoid offence, you should not eat, drink or smoke in public during this time.

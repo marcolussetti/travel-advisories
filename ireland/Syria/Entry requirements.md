@@ -2,7 +2,7 @@
 
 ### Visa
 
-Irish citizens require a visa to enter Syria, however the Embassy of Syria in London is temporarily closed.
+Irish citizens require a visa to enter Syria.
 
 ### **Passports**
 

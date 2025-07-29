@@ -1,6 +1,6 @@
 ## Travel to Syria overview
 
-### **Security status**
+### **Security Status**
 
 Do Not Travel
 
@@ -12,7 +12,7 @@ We cannot guarantee that documents sent to or from the Honorary Consul in Damasc
 
 The decision to travel is solely your responsibility and you are responsible for your personal safety for the duration of your trip. Continue to monitor this travel advice for updates.
 
-Irish citizens require a visa to enter Syria, however the Embassy of Syria in London is temporarily closed.
+Irish citizens require a visa to enter Syria.
 
 A valid passport is required for travel to Syria. Irish passports should have a minimum validity of three months from the date of entry into Syria. Passport cards cannot be used.
 
