@@ -1,7 +1,7 @@
 {
     "name": "Grenada",
-    "update_reason": "Editorial change",
-    "update_date": "2025-07-22T12:27:00",
+    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
+    "update_date": "2025-07-28T11:40:00",
     "sections": {
         "risk": "canada/Grenada/risk.md",
         "security": "canada/Grenada/security.md",

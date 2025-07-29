@@ -1,7 +1,7 @@
 {
     "name": "Paraguay",
-    "update_reason": "The Need help? section was updated.",
-    "update_date": "2025-07-25T08:32:00",
+    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
+    "update_date": "2025-07-28T11:40:00",
     "sections": {
         "risk": "canada/Paraguay/risk.md",
         "security": "canada/Paraguay/security.md",

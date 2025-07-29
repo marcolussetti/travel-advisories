@@ -1,7 +1,7 @@
 {
     "name": "Belarus",
-    "update_reason": "Thorough review and update of the entire content",
-    "update_date": "2025-07-02T15:43:00",
+    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
+    "update_date": "2025-07-28T11:40:00",
     "sections": {
         "risk": "canada/Belarus/risk.md",
         "security": "canada/Belarus/security.md",

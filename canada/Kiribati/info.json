@@ -1,7 +1,7 @@
 {
     "name": "Kiribati",
-    "update_reason": "The Need help? section was updated.",
-    "update_date": "2025-07-23T09:37:00",
+    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
+    "update_date": "2025-07-28T11:40:00",
     "sections": {
         "risk": "canada/Kiribati/risk.md",
         "security": "canada/Kiribati/security.md",

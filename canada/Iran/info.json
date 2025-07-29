@@ -1,7 +1,7 @@
 {
     "name": "Iran",
-    "update_reason": "Safety and security \u2013 updated information on increased surveillance and scrutiny; Laws and culture \u2013 added information on the risk of arbitrary arrest and detention, and the death penalty",
-    "update_date": "2025-07-18T15:16:00",
+    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
+    "update_date": "2025-07-28T11:40:00",
     "sections": {
         "risk": "canada/Iran/risk.md",
         "security": "canada/Iran/security.md",

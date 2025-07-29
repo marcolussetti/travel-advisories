@@ -1,7 +1,7 @@
 {
     "name": "Zambia",
-    "update_reason": "Safety and security \u2013 added information on the contamination of the Kafue River",
-    "update_date": "2025-07-09T16:12:00",
+    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
+    "update_date": "2025-07-28T11:40:00",
     "sections": {
         "risk": "canada/Zambia/risk.md",
         "security": "canada/Zambia/security.md",

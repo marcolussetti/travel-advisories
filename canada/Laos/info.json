@@ -1,7 +1,7 @@
 {
     "name": "Laos",
-    "update_reason": "Laws and culture \u2013 added information on smoking",
-    "update_date": "2025-07-15T16:57:00",
+    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
+    "update_date": "2025-07-28T11:40:00",
     "sections": {
         "risk": "canada/Laos/risk.md",
         "security": "canada/Laos/security.md",

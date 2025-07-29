@@ -2,27 +2,6 @@
 
 ## Natural disasters and climate
 
-### Typhoon Danas
-
-On July 7, 2025, Typhoon Danas made landfall on the southwestern coast of Taiwan, in Chiayi County. The storm then moved northward, causing significant damage and resulting in casualties.
-
-The storm will likely continue to bring excessive rainfall and violent winds. It caused flash flooding and landslides and could continue to severely disrupt the following essential services:
-
-* transportation
-* power distribution
-* water and food supply
-* telecommunications networks
-* emergency services
-* medical care
-
-If you are in Taiwan:
-
-* exercise caution
-* monitor local news and weather reports
-* follow the instructions of local authorities
-
-[Latest updates](https://www.cwa.gov.tw/V8/E/P/Typhoon/TY_WARN.html) – Central Weather Administration
-
 ### Climate change
 
 Climate change is affecting Taiwan. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local news to stay informed on the current situation.

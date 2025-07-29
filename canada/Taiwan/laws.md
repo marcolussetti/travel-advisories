@@ -63,7 +63,7 @@ You may be subject to mandatory military service if:
 
 This requirement may apply even if you enter Taiwan on your Canadian passport.
 
-Confirm these regulations with the Taipei Economic and Cultural Office in Canada before travelling
+Confirm these regulations with the Taipei Economic and Cultural Office in Canada before travelling.
 
 [Taipei Economic and Cultural Office in Canada](https://www.roc-taiwan.org/ca_en/index.html)
 

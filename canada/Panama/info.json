@@ -1,7 +1,7 @@
 {
     "name": "Panama",
-    "update_reason": "Safety and security \u2013 removed information on nationwide demonstrations and the situation in Bocas del Toro Province",
-    "update_date": "2025-07-24T08:44:00",
+    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
+    "update_date": "2025-07-28T11:40:00",
     "sections": {
         "risk": "canada/Panama/risk.md",
         "security": "canada/Panama/security.md",

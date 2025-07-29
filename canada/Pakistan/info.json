@@ -1,7 +1,7 @@
 {
     "name": "Pakistan",
-    "update_reason": "Risk levels \u2013 exercise a high degree of caution in Pakistan",
-    "update_date": "2025-07-25T16:09:00",
+    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
+    "update_date": "2025-07-28T11:40:00",
     "sections": {
         "risk": "canada/Pakistan/risk.md",
         "security": "canada/Pakistan/security.md",

@@ -1,7 +1,7 @@
 {
     "name": "Jordan",
-    "update_reason": "Safety and security \u2013 removed information on the situation in Israel, the West Bank and the Gaza Strip and updated information on demonstrations; Entry and exit requirements \u2013 editorial change",
-    "update_date": "2025-07-25T16:00:00",
+    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
+    "update_date": "2025-07-28T11:40:00",
     "sections": {
         "risk": "canada/Jordan/risk.md",
         "security": "canada/Jordan/security.md",

@@ -2,29 +2,6 @@
 
 ## Natural disasters and climate
 
-### Tropical Storm Co-May
-
-On July 25, 2025, Tropical Storm Co-May made landfall on the coasts of the Pangasinan and Ilocos provinces.
-
-Tropical Storm Co-May has gradually weakened as it moved northward, but it may continue to bring heavy rainfall and violent winds.
-
-It may also cause flash flooding and landslides and could severely disrupt the following essential services:
-
-* transportation
-* power distribution
-* water and food supply
-* telecommunications networks
-* emergency services
-* medical care
-
-If you are in the affected area:
-
-* exercise caution
-* monitor local news and weather reports
-* follow the instructions of local authorities
-
-[Active warnings](https://pagasa.dost.gov.ph/) – Philippine Atmospheric, Geophysical and Astronomical Services Administration
-
 ### Climate change
 
 Climate change is affecting the Philippines. Extreme and unusual weather events are becoming more frequent. Monitor local news to stay informed on the current situation.

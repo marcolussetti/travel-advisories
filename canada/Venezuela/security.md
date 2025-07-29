@@ -2,29 +2,6 @@
 
 ## Safety and security
 
-### Municipal elections
-
-Municipal elections are scheduled for July 27, 2025.
-
-Demonstrations and social unrest may occur before, during and after the elections, especially in major cities. The security situation can deteriorate without warning.
-
-During past demonstrations, authorities have used excessive force, resulting in casualties. You could be arrested and detained without cause.
-
-Authorities may impose curfews and restrict movement without notice.
-
-Traffic and public transportation may be disrupted, including access to Simón Bolívar International Airport.
-
-If you are in Venezuela:
-
-* limit your movements
-* avoid areas around government buildings and where demonstrations and large gatherings are taking place
-* avoid areas where security forces are present
-* expect heavy security measures and increased security presence
-* monitor local media for the latest information
-* follow the instructions of local authorities
-
-[More information on demonstrations and social unrest](#demonstrations)
-
 ### Border areas
 
 #### Guyana

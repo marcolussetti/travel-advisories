@@ -1,7 +1,7 @@
 {
     "name": "Argentina",
-    "update_reason": "Editorial change",
-    "update_date": "2025-07-22T14:51:00",
+    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
+    "update_date": "2025-07-28T11:40:00",
     "sections": {
         "risk": "canada/Argentina/risk.md",
         "security": "canada/Argentina/security.md",

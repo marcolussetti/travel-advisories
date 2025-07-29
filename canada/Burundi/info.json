@@ -1,7 +1,7 @@
 {
     "name": "Burundi",
-    "update_reason": "Health \u2013 editorial change",
-    "update_date": "2025-06-30T14:42:00",
+    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
+    "update_date": "2025-07-28T11:40:00",
     "sections": {
         "risk": "canada/Burundi/risk.md",
         "security": "canada/Burundi/security.md",

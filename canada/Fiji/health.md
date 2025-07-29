@@ -57,14 +57,6 @@ There is a risk of [hepatitis A](https://www.canada.ca/en/public-health/services
 
 Practise [safe food and water precautions](https://travel.gc.ca/travelling/health-safety/food-water) and wash your hands often. Vaccination is recommended for all travellers to areas where hepatitis A is present.
 
-Rabies 
-
-In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/diseases/rabies) may be present in some wildlife species, including bats. Rabies is a deadly disease that spreads to humans primarily through bites or scratches from an infected animal.
-
-If you are bitten or scratched by an animal while travelling, immediately wash the wound with soap and clean water and see a health care professional.
-
-Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who will be working directly with wildlife.
-
 Measles 
 
 Measles is a serious viral infection that spreads easily. It spreads through the air, and can stay in the air for up to 2 hours. You can also get measles by direct contact with an infected person or by touching a surface with the virus on it and then touching your eyes, nose, or mouth before washing your hands.
@@ -107,6 +99,14 @@ In addition to vaccination, use personal protective measures to help protect you
 
 [Vaccine for COVID-19: How to get vaccinated](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/vaccines/how-vaccinated.html)  
 [COVID-19: Spread, prevention and risks](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html#p)
+
+Rabies 
+
+In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/diseases/rabies) may be present in some wildlife species, including bats. Rabies is a deadly disease that spreads to humans primarily through bites or scratches from an infected animal.
+
+If you are bitten or scratched by an animal while travelling, immediately wash the wound with soap and clean water and see a health care professional.
+
+Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who will be working directly with wildlife.
 
 ### Safe food and water precautions
 
