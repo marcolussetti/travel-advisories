@@ -2,7 +2,7 @@
 
 Latest update
 
-We continue to advise exercise a high degree of caution in Bahrain. The security situation in the Middle East is unpredictable. If the regional security situation deteriorates again this may result in airspace closures, flight cancellations and other travel disruptions at short notice (see'Safety').
+We continue to advise exercise a high degree of caution in Bahrain. You can get a visa on arrival for Australian passport holders. It's also possible to obtain a visa to enter Bahrain online (see 'Travel').
 
 Advice Level summary
 

@@ -6,11 +6,11 @@ While there have been no recent terrorist attacks in Bosnia and Herzegovina, ter
 
 Possible targets include:
 
-* places of worship or religious holidays
+* public transport, including train stations and airports
 * hotels, clubs, restaurants and cafes
-* markets and shopping malls
-* outdoor recreation events, including festivals,  concerts, and sporting venues
-* public transport, airports and railway hubs
+* government buildings, including schools
+* places of worship or religious holidays
+* public areas that attract large groups of people, such as tourist attractions, music and cultural events, festivals, Pride events, seasonal markets, sporting venues and shopping centres
 
 To stay safe:
 
@@ -24,9 +24,11 @@ If there's an attack, leave the affected area as soon as it's safe to do so.
 
 Terrorism is a threat worldwide.
 
-**More information**:
+**More information:**
 
 * [Terrorism](/before-you-go/safety/terrorism "Terrorism")
+* [Police contacts](https://zalbe.ba/home/)
+* [State investigation and protection agency](http://www.sipa.gov.ba/en/about-us/general-info)
 
 #### Civil unrest and political tension
 
@@ -34,12 +36,12 @@ Public protests and events that draw large groups of people can turn violent.
 
 Ethnic and religious tensions may result in demonstrations or conflict.
 
-Events can happen with little or no warning and may target foreigners.
+Incidents can happen with little or no warning and may target foreigners.
 
 To stay safe during periods of unrest:
 
+* avoid all protests and demonstrations
 * monitor the media for updates
-* avoid areas where protests may occur
 * follow the advice of local authorities
 
 **More information:**
@@ -58,9 +60,13 @@ To protect yourself from crime:
 * don't go out alone after dark or to isolated places
 * pay close attention to personal belongings, especially on public transport and in crowds
 * use ATMs inside banks, shops and shopping centres and avoid ATMs on the street
-* monitor the media for updates on areas with gun violence
-* avoid known trouble areas
+* monitor the media for updates
+* leave the area if you think there may be danger
 * avoid obvious displays of wealth and carrying large sums of cash
+
+**More information:**
+
+* [Scams](/before-you-go/safety/scams "Scams that affect travellers")
 
 #### Drink spiking
 
@@ -68,7 +74,7 @@ Drink spiking can occur at popular nightclubs, sometimes leading to [sexual ass
 
 Be alert to the potential risks, and don't leave food or drinks unattended. Pay attention when your drinks are being mixed. Stick to reputable venues and avoid homemade alcoholic drinks due to the risk of methanol poisoning. Get urgent medical help if you suspect you’ve been a victim.
 
-**More information**
+**More information:**
 
 * [Partying safely](/before-you-go/safety/partying "Partying safely")
 
@@ -106,14 +112,14 @@ To protect yourself:
 
 **More information:**
 
-* [Bosnia and Herzegovina Mine Action Centre](http://www.bhmac.org/?lang=en).
+* [Bosnia and Herzegovina Mine Action Centre](http://www.bhmac.org/?lang=en)
 
 #### Climate and natural disasters
 
 Bosnia and Herzegovina experiences [natural disasters](/before-you-go/safety/natural-disasters "Staying safe when there's a natural disaster") and [severe weather](/before-you-go/safety/severe-weather "Severe weather"), including:
 
 * [earthquakes](/before-you-go/safety/earthquakes-tsunamis "Earthquakes and tsunamis")
-* [flooding](https://www.smartraveller.gov.au/before-you-go/safety/natural-disasters)
+* [floods](/before-you-go "Before you go")
 * landslides
 * [bush and forest fires](https://www.smartraveller.gov.au/before-you-go/safety/natural-disasters)
 

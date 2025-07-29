@@ -56,7 +56,7 @@ Non-compliance may lead to fines and drone confiscation.
 
 Some Australian criminal laws still apply when you're overseas. If you break these laws, you may face prosecution in Australia.
 
-**More information:**
+More information:
 
 * [Staying within the law and respecting customs](/node/350)
 

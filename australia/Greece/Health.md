@@ -12,7 +12,7 @@ If you're not insured, you may have to pay many thousands of dollars up-front f
 
 Confirm:
 
-* what activities and care your policy covers
+* what activities and care your policy covers (e.g. quad biking is considered an extreme sport and is excluded from many policies)
 * that your insurance covers you for the whole time you'll be away.
 
 #### Physical and mental health
@@ -32,7 +32,7 @@ If you have immediate concerns for your welfare or the welfare of another Austra
 **More information:**
 
 * [General health advice](/node/43)
-* [Healthy holiday tips](https://www.healthdirect.gov.au/healthy-holiday-tips-infographic) (Healthdirect Australia)
+* [Healthy holiday tips](https://www.healthdirect.gov.au/healthy-holiday-tips-infographic)
 
 #### Medications
 
@@ -62,7 +62,7 @@ For more information, contact the Greek National Organization of Medicines:
 
 #### Heatwaves
 
-Heatwaves are frequent over the summer months. They can cause heat exhaustion, heat stroke and death. Drink water, wear a hat and light clothing and stay in air-conditioned buildings or shaded areas. 
+Heatwaves are frequent over the summer months. They can cause heat exhaustion, heat stroke and death. Drink water, wear a hat and light clothing and stay in air-conditioned buildings or shaded areas.
 
 Many major tourist sites have little shade. At peak tourist periods, queues at major attractions can involve waiting over an hour in the sun. Plan your visit to these sites, keep an eye on the weather forecast, and follow the advice of local authorities.
 
@@ -70,7 +70,7 @@ Avoid hiking during heatwaves. If you do head out on a hike, don't go alone. Be 
 
 #### Dust storms
 
-Storms of dust from the Sahara Desert are increasing in frequency across Greece, particularly during Spring, worsening the air quality and reducing sunlight and visibility. If you have respiratory conditions, you should limit outdoor activities and consider wearing masks outside until the skies clear. 
+Storms of dust from the Sahara Desert are increasing in frequency across Greece, particularly during Spring, worsening the air quality and reducing sunlight and visibility. If you have respiratory conditions, you should limit outdoor activities and consider wearing masks outside until the skies clear.
 
 #### Measles
 

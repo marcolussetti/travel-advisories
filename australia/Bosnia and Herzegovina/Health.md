@@ -12,7 +12,7 @@ If you're not insured, you may have to pay many thousands of dollars up-front fo
 
 Confirm:
 
-* what activities and care your policy covers,  especially if you plan to undertake high-risk activities such as mountaineering or skiing
+* what activities and care your policy covers, especially if you plan to undertake [adventure sports](/before-you-go/activities/adventure "Going overseas for sports and adventure")
 * that your insurance covers you for the whole time you'll be away (including if stopovers on the way to your destination are covered)
 * what may void your coverage, such as consuming alcohol or driving a class of vehicle you aren’t licenced to drive.
 
@@ -33,7 +33,7 @@ If you have immediate concerns for your welfare or the welfare of another Austra
 **More information:**
 
 * [General health advice](/node/43)
-* [Healthy holiday tips](https://www.healthdirect.gov.au/healthy-holiday-tips-infographic) (Healthdirect Australia)
+* [Healthy holiday tips](https://www.healthdirect.gov.au/healthy-holiday-tips-infographic)
 
 #### Medications
 
@@ -81,7 +81,7 @@ Measles cases can routinely occur. Bosnia and Herzegovina has experienced signif
 
 **More information:**
 
-* [Measles immunisation service (Department of Health)](https://www.health.gov.au/health-topics/immunisation/immunisation-services/measles-immunisation-service)
+* [Measles immunisation service](https://www.health.gov.au/health-topics/immunisation/immunisation-services/measles-immunisation-service)
 
 #### Other health risks
 
@@ -112,6 +112,10 @@ Get medical advice if you develop symptoms.
 
 #### Medical care
 
-Medical facilities in Bosnia and Herzegovina aren't up to Australian standards, especially outside of major cities.
+Medical facilities in Bosnia and Herzegovina may not be to the same standard as Australia , especially outside of major cities.
 
 If you're seriously ill or injured, you'll need to be evacuated to a place with better facilities. Medical evacuation can be very expensive.
+
+**More information:**
+
+* [Medical assistance overseas](/while-youre-away/when-things-go-wrong/medical-assistance "Medical assistance overseas")

@@ -2,7 +2,7 @@
 
 Latest update
 
-We continue to advise exercise a high degree of caution in Qatar due to the regional security situation in the Middle East. If the regional security situation deteriorates again this may result in airspace closures, flight cancellations and other travel disruptions at short notice.
+We continue to advise exercise a high degree of caution in Qatar due to the regional security situation in the Middle East (see 'Safety').
 
 Advice Level summary
 

@@ -4,8 +4,6 @@ Latest update
 
 We continue to advise exercise a high degree of caution in the United Arab Emirates (UAE).  
   
-The security situation in the Middle East remains unpredictable. If the regional security situation deteriorates again this may result in airspace closures, flight cancellations and other travel disruptions at short notice (see ‘Safety’).  
-  
 Tourist visas for the UAE are issued on arrival in Abu Dhabi and Dubai. For the latest information on travelling to, from or connecting through Abu Dhabi and Dubai international airports, see ‘Travel’.
 
 Advice Level summary

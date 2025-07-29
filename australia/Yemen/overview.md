@@ -4,9 +4,7 @@ Latest update
 
 We continue to advise do not travel to Yemen, including the island of Socotra. There's ongoing armed conflict and a very high threat of kidnapping and terrorism. Military operations against Houthi targets are continuing in Yemen and the Red Sea area.  
   
-The security situation in the Middle East is unpredictable. If the regional security situation deteriorates again this may result in airspace closures, flight cancellations and other travel disruptions at short notice (see ‘Safety’).  
-  
-Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests. Monitor local media for updates and follow the advice of authorities.
+Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests. Monitor local media for updates and follow the advice of authorities (see 'Safety').
 
 Advice Level summary
 

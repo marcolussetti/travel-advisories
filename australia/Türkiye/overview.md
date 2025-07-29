@@ -4,8 +4,6 @@ Latest update
 
 You will need permission from Türkiye’s Ministry of Foreign Affairs to enter Türkiye from Iran by land. You may be issued a transit visa with a maximum validity of five days for onwards travel. For assistance, contact the Australian Embassy in Ankara (see 'Travel').  
   
-If the regional security situation deteriorates again this may result in airspace closures, flight cancellations and other travel disruptions at short notice. Land border crossings into a neighbouring country may open and close at short notice. Check the latest public information from local authorities on entry requirements and border arrangements (see 'Safety').  
-  
 There have been large protests across Türkiye, including in Istanbul. Demonstrations and protests may continue and may turn violent. A protest ban is in effect and there are restrictions to freedom of movement for those suspected of participating in protests. This is likely to be strictly enforced. Avoid protests and large public gatherings. Monitor the media and follow the advice of local authorities (see 'Safety').  
   
 You'll need an e-visa for tourism or business if you're staying for less than 90 days (see ‘Travel’).

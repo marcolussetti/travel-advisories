@@ -2,9 +2,9 @@
 
 Latest update
 
-We now advise exercise normal safety precautions in Oman. Higher levels apply in some areas.  
+We continue to advise exercise normal safety precautions in Oman. Higher levels apply in some areas.  
   
-The security situation in the Middle East is unpredictable. If the regional security situation deteriorates again, this may result in airspace closures, flight cancellations and other travel disruptions at short notice (see ‘Safety’). Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests. Monitor local media for updates and follow the advice of authorities.  
+Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests. Monitor local media for updates and follow the advice of authorities.  
   
 You'll need a valid visa to travel to Oman. The type of visa depends on your country of residence and purpose of travel. Entry and exit conditions can change at short notice (see ‘Travel’).
 

@@ -15,9 +15,9 @@ Entry and exit conditions can change at short notice, and you'll need a visa in 
 
 #### European Entry/Exit System (EES)
 
-The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area is expected to start in October 2025. 
+The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area is expected to start in October 2025.
 
-The EES is a digital border system that registers non-EU visitors travelling into the Schengen Area. When entering the Schengen Area, you'll need to have your fingerprints and photo taken. This creates a digital record that registers your biometric details. 
+The EES is a digital border system that registers non-EU visitors travelling into the Schengen Area. When entering the Schengen Area, you'll need to have your fingerprints and photo taken. This creates a digital record that registers your biometric details.
 
 You'll need to do this on your first visit to the EU after the EES is introduced.​ If you visit the Schengen Area again within 3 years of creating your digital record, you'll only need to provide either your fingerprint or photograph at the border on entry and exit.
 
@@ -82,10 +82,6 @@ If you have Greek citizenship, you can only take up to 10,000 euros when leaving
 
 #### Local travel
 
-#### Extension of stays
-
-Extension of stays in Greece beyond the allowed 90 days isn't automatic (digital driver's licences may not be accepted). Requests for extension with the relevant local authority should be lodged at least 4 weeks before your visa-free period expires. Present your request to the office of the Greek police on aliens issues.
-
 #### Driving permit
 
 Australian driver's licences are officially recognised as valid for use in Greece (digital driver’s licences may not be accepted). If you plan on driving in Greece, you may not need an International Driving Permit. Contact the [Greek Embassy or Consulate](https://www.mfa.gr/en/appendix/greece-bilateral-relations/a.html) for more information on your licence type.
@@ -112,11 +108,19 @@ Driving offences may also attract heavy penalties.
 
 #### Quad bikes and motorcycles
 
-Quad bike and motorcycle accidents cause serious injuries and deaths every summer on the Greek islands. Operating or riding quad bikes and motorcycles while intoxicated is illegal.
+Quad bike and motorcycle accidents regularly cause serious injuries and death to Australian visitors to Greece.
 
-Always wear a helmet. It's illegal not to wear one. It may also invalidate your travel insurance if you have an accident.
-
-If you experience any issues with the bike's operation, it's recommended that you return it to the rental company as soon as possible.
+Make sure you get full instructions and training before your activity.  
+  
+Always wear a helmet. It's illegal not to wear one. It may also invalidate your travel insurance if you have an accident.  
+  
+Make sure the bike is in good condition. If you experience any issues with the bike's operation, return it to the rental company as soon as possible.  
+  
+Riding quad bikes and motorcycles while intoxicated is illegal.  
+  
+You need specific [travel insurance](/before-you-go/the-basics/travel-insurance "Travel insurance") for quad biking. It is defined as an extreme sport and is excluded from many policies. Always read the details of your insurance cover. Insurance sold by hire companies usually only covers third parties. It may not cover you for any injuries you sustain in an accident.   
+  
+It's likely the rental company will charge you for any damage to the bike, and you may face arrest if you don't pay.
 
 #### Taxis
 

@@ -14,7 +14,7 @@ If you're arrested or jailed, the Australian Government will do what it can to h
 
 Don't use or carry illegal drugs. Penalties for drug offences are severe. Possessing even small amounts of illegal drugs can lead to prison sentences. This includes marijuana.
 
-**More information**:
+**More information:**
 
 * [Carrying or using drugs](/before-you-go/laws/drugs "Carrying or using drugs")
 
@@ -56,7 +56,7 @@ Contact the nearest [embassy or consulate of Bosnia and Herzegovina](https://pro
 
 #### Local customs
 
-Same-sex relationships are legal but aren't widely tolerated. Avoid public displays of affection with someone of the same sex.
+Same-sex relationships are legal but aren't widely accepted. Avoid public displays of affection with someone of the same sex.
 
 **More information:**
 

@@ -2,7 +2,7 @@
 
 Latest update
 
-We continue to advise exercise a high degree of caution due to crime, protests and the risk of landmines in Bosnia and Herzegovina. Unexploded landmines remain a danger. Stay on main roads and avoid isolated mountain areas. Travel in daylight.
+We've reviewed our advice for Bosnia and Herzegovina. We continue to advise exercise a high degree of caution due to the risk of landmines. Unexploded landmines remain a danger. Stay on main roads and avoid isolated mountain areas. Travel in daylight (see 'Safety').
 
 Advice Level summary
 
@@ -26,16 +26,15 @@ Exercise a high degree of caution in Bosnia and Herzegovina due to the risk of l
 * Many locals have firearms. You might be caught in the wrong place. Monitor the media for updates on areas with gun violence.
 * Ethnic and religious tensions may result in demonstrations and traffic disruptions. Events can happen with little or no warning and may target foreigners. Stay away from protests, as they could turn violent. Monitor local media for updates.
 * Unexploded landmines remain a danger. Stay on main roads and avoid isolated mountain areas. Travel in daylight.
-* Terrorism is a worldwide threat. Terrorist attacks could occur anywhere and at any time. Be alert to possible threats. Terrorists may target tourist areas or crowded places such as music and cultural events, festivals, LGBTQIA+ community events, tourist areas and other public areas. Take official warnings seriously. If there's a security incident, follow the advice of local authorities.
-* Earthquakes, flooding and landslides occur. Watch out for bush and forest fires in summer. Stick to marked slopes and trails when skiing. Follow the advice of local authorities.
+* Terrorism is a worldwide threat. Terrorists have targeted European cities. Crowded places, such as music and cultural events, festivals, Pride events, tourist areas, markets, shopping areas, transport hubs, major sporting events and other public areas are possible targets. Be vigilant in public places and follow the advice of local authorities. Report anything suspicious to the police.
+* Earthquakes, floods and landslides occur. Watch out for bush and forest fires in summer. Stick to marked slopes and trails when skiing. Follow the advice of local authorities.
 
 Full travel advice: [Safety](#safety)
 
 ### Health
 
 * Take care in forests and rural areas where ticks carry encephalitis. Ticks are active from spring to autumn. Check your body for ticks and remove them as soon as possible.
-* West Nile virus (WNV) can occur. There's no vaccine to prevent WNV. Use insect repellent. Make sure your accommodation is insect-proof.
-* Medical facilities in Bosnia and Herzegovina aren't up to Australian standards. Check your insurance covers medical evacuation.
+* Medical facilities in Bosnia and Herzegovina may not be up to the same standard as those in Australia. Check your insurance covers medical evacuation.
 
 Full travel advice: [Health](#health)
 
@@ -50,7 +49,7 @@ Full travel advice: [Local laws](#local-laws)
 
 ### Travel
 
-* You don't need a visa for stays of up to 90 days.
+* You don't need a visa for stays of up to 90 days within a six-month period.
 * Entry and exit conditions can change at short notice. You should contact the nearest embassy or consulate of Bosnia and Herzegovina for the latest details.
 
 Full travel advice: [Travel](#travel)
@@ -60,6 +59,6 @@ Full travel advice: [Travel](#travel)
 * The [Consular Services Charter](/consular-services/consular-services-charter "Consular Services Charter") details what the Australian Government can and can't do to help you overseas.
 * The Australian Consulate in Sarajevo can provide some consular help.
 * Contact the Australian Consul in Sarajevo or the [Australian Embassy in Vienna](http://www.austria.embassy.gov.au/vien/home.html) for full consular and passport assistance.
-* Follow the Australian embassy's social media accounts to stay up to date with local information.
+* Follow the Australian Embassy's social media accounts to stay up to date with local information.
 
 Full travel advice: [Local contacts](#local-contacts)

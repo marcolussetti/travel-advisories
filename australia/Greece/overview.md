@@ -2,7 +2,9 @@
 
 Latest update
 
-Extreme temperatures and wildfires affect many areas of Greece during summer, including close to cities and tourist locations. Follow the advice of local authorities (see 'Safety').
+Extreme temperatures and wildfires affect many areas of Greece during summer, including close to cities and tourist locations. Follow the advice of local authorities (see 'Safety').  
+  
+Quad bike and motorcycle accidents have caused serious injuries and deaths of Australian visitors to Greece. You need specific travel insurance for quad biking as it’s excluded from many policies. Always read the details of your cover (see ‘Travel’).
 
 Advice Level summary
 
@@ -56,6 +58,7 @@ Full travel advice: [Local laws](#local-laws)
 * The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen area is expected to start in October 2025.
 * There may be long queues at border points when the new system starts. Allow plenty of time for transfers.
 * Entry and exit conditions can change at short notice. Contact the nearest [Greek embassy or Consulate](https://www.mfa.gr/missionsabroad/en/) for enquiries about your ability to enter Greece from your departure country.
+* Quad bike and motorcycle accidents have caused serious injuries and deaths of Australian visitors to Greece. You need specific travel insurance for quad biking as it’s excluded from many policies. Always read the details of your cover.
 
 Full travel advice: [Travel](#travel)
 

@@ -4,8 +4,6 @@ Latest update
 
 We continue to advise exercise a high degree of caution for Egypt due to the threat of terrorism. We also advise do not travel or reconsider your need to travel to several areas of Egypt due to threats including higher risks of terrorism or serious crime - read our advice carefully. Terrorist attacks could occur anywhere in Egypt. Potential targets include religious sites and tourist locations.   
   
-If the regional security situation deteriorates again this may result in airspace closures, flight cancellations and other travel disruptions at short notice.   
-  
 Demonstrations and protest activity may also occur, and local security situations could deteriorate with little notice. Avoid all demonstrations and protests (See 'Safety').
 
 Advice Level summary

@@ -2,9 +2,9 @@
 
 Latest update
 
-We continue to advise exercise a high degree of caution in Saudi Arabia. Higher levels apply in some areas.   
+We continue to advise exercise a high degree of caution in Saudi Arabia. Higher levels apply in some areas (see 'Safety').   
   
-The security situation in the Middle East is unpredictable. If the regional security situation deteriorates again this may result in airspace closures, flight cancellations and other travel disruptions at short notice (see 'Safety').
+You need a valid visa to enter Saudi Arabia. You can apply for an e-visa at the Visit Saudi website (see 'Travel').
 
 Advice Level summary
 

@@ -40,16 +40,15 @@ Australia has a consulate in Sarajevo headed by an Honorary Consul. The office p
 
 Get in contact before you visit.
 
-**Australian Consulate, Sarajevo**
+#### Australian Consulate, Sarajevo
 
 Strossmayerova 1/1  
 71000 Sarajevo  
 Bosnia and Herzegovina
 
-Tel: +387 33 209 202  
 Email: [auconsulate.bih@gmail.com](mailto:auconsulate.bih@gmail.com)
 
-**Australian Embassy, Vienna**
+#### Australian Embassy, Vienna
 
 The Icon, Gertrude-Fröhlich-Sandner-Str. 2  
 1100 Vienna, Austria
@@ -60,9 +59,9 @@ Website: [austria.embassy.gov.au](http://www.austria.embassy.gov.au/vien/home.h
 X: [@AusAmbVIE](https://twitter.com/AusAmbVIE)  
 Facebook: [@AusEmbassyVie](https://www.facebook.com/AusEmbassyVie/)
 
-Check the Embassy website for details about opening hours and any temporary closures.
+Check the embassy website for details about opening hours and any temporary closures.
 
-**24-hour Consular Emergency Centre**
+24-hour Consular Emergency Centre
 
 In a consular emergency, if you can't contact an embassy, call the 24-hour Consular Emergency Centre on:
 

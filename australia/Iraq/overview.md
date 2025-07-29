@@ -4,8 +4,6 @@ Latest update
 
 We continue to advise do not travel to Iraq due to the volatile security environment and the threat of kidnapping. If you are in Iraq, you should leave Iraq immediately by commercial means. If you're staying in Iraq, be alert and monitor media for updates (see 'Safety').   
   
-The security situation in the Middle East is unpredictable. If the regional security situation deteriorates again this may result in airspace closures, flight cancellations and other travel disruptions at short notice.  
-  
 If you intend to travel by land into a neighbouring country, check the latest public information from local authorities in Iraq and your destination on visa and border arrangements. Borders may close without notice. You should consider the risks carefully before attempting to leave by any route and you should make your own assessment whether it's safe for you to travel in current circumstances. This includes considering the security situation and the potential risks involved. If you are not confident in the safety and reliability of any departure option, follow the advice of local authorities.   
   
 Iraq’s borders with neighbouring countries may have restrictions for foreign nationals and may close at short notice. Check our travel advice for your destination including visa requirements.   

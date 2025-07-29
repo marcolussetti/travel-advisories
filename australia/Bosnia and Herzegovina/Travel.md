@@ -8,9 +8,9 @@ Make sure you meet all entry and exit conditions. If you don't, the Australian G
 
 #### Visa-free travel for short stays
 
-You don't need a visa for stays of up to 90 days.
+You don't need a visa for stays of up to 90 days within a six-month period.
 
-You'll need a temporary residence permit if you plan to stay longer than 90 days.
+You'll need a temporary residence permit if you plan to stay longer.
 
 Entry and exit conditions can change at short notice. Contact the nearest [embassy or consulate of Bosnia and Herzegovina](https://protocol.dfat.gov.au/Public/Missions/31) for details about visas, currency, customs and other travel requirements.
 
@@ -27,11 +27,10 @@ For a stay of 3 days or more, you must register with the local police within 48 
 
 Check with an [embassy or consulate of Bosnia and Herzegovina](https://protocol.dfat.gov.au/Public/Missions/31) before you travel.
 
-**More information**(not all links are available in English):
+**More information:**
 
 * [Border Police of Bosnia and Herzegovina](http://www.granpol.gov.ba/?lang=en)
-* [Ministry of Foreign Affairs](http://www.mvp.gov.ba/default.aspx?pageIndex=1)
-* [Ministry of Civil Affairs](http://www.mcp.gov.ba/?lang=en)
+* [Ministry of Security](https://msb.gov.ba/inf_za_strance/default.aspx?id=14555&langTag=en-US)
 
 #### Passport
 
@@ -66,13 +65,11 @@ Although Australian passports comply with international standards for sex and ge
 
 #### Money
 
-The currency of Bosnia and Herzegovina is the Bosnian Mark (KM or BAM).
+The currency of Bosnia and Herzegovina is the Bosnia and Herzegovina convertible mark (KM or BAM).
 
 You'll find ATMs in major centres.
 
 While credit and debit card use is increasing, you'll still need cash outside Sarajevo.
-
-Some banks will cash traveller's cheques for KM, but many won't accept them.
 
 #### Local travel
 
@@ -80,10 +77,12 @@ Some banks will cash traveller's cheques for KM, but many won't accept them.
 
 To drive a vehicle, you'll need both:
 
-* a current Australian driver's licence
+* a current Australian driver's licence (digital driver’s licences may not be accepted)
 * a valid international driving permit (IDP)
 
 Driving without an IDP could void your travel and vehicle insurance. Get your IDP before departing Australia.
+
+If you’re staying longer than 6 months, you’ll need to get a local driving licence.
 
 The minimum age for driving is 18 years old.
 
@@ -129,7 +128,6 @@ Police can collect traffic fines on the spot.
 **More information:**
 
 * [Driving or riding](/before-you-go/getting-around/road-safety "Road safety")
-* [Bosnia and Herzegovina auto club (Bosnian)](http://bihamk.ba/)
 
 #### Taxis
 

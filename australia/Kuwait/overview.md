@@ -2,9 +2,7 @@
 
 Latest update
 
-We continue to advise exercise a high degree of caution in Kuwait. There's an increased risk of terrorism, including threats against military bases. Maintain a high degree of security awareness.   
-  
-The security situation in the Middle East is unpredictable. If the regional security situation deteriorates again this may result in airspace closures, flight cancellations and other travel disruptions at short notice.
+We continue to advise exercise a high degree of caution in Kuwait. There's an increased risk of terrorism, including threats against military bases. Maintain a high degree of security awareness (see 'Safety').
 
 Advice Level summary
 
