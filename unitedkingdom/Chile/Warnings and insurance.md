@@ -1,15 +1,21 @@
 # Warnings and insurance
 
 Still current at:
-:   10 June 2025
+:   30 July 2025
 
 Updated:
-:   9 June 2025
+:   30 July 2025
 
 Latest update:
-:   Updated information about travelling with children, taxi scams at Santiago Airport and general advise about crime including, violent muggings and vehicle crime ('Entry requirements' and 'Safety and security' pages).
+:   Earthquake and Tsunami warning - regional update
 
 This travel advice page also covers Rapa Nui (Easter Island).
+
+## Earthquake in the Kamchatka Peninsular Region
+
+An earthquake with a preliminary magnitude of 8.7 has struck the eastern coast of Russia in the Kamchatka Peninsula region. A tsunami threat message has been issued by the Pacific Tsunami Warning Centre.
+
+If you are in the affected areas potentially affected by the earthquake or tsunami you should follow the advice of the local authorities.
 
 ## Before you travel
 

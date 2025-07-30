@@ -40,13 +40,13 @@ Previous significant incidents include:
 
 ### Terrorist kidnapping
 
-There is a threat of kidnapping by terrorist groups operating in the Philippines, including the targeting of foreign nationals in rural, urban and coastal areas .
+There is a threat of kidnapping by terrorist groups operating in the Philippines, including the targeting of foreign nationals in rural, urban and coastal areas throughout Mindanao especially in the Sulu Archipelago and the Zamboanga Peninsula.
 
-The primary threat in the Philippines has historically been posed by ASG, who kidnapped a number of westerners over the 2010s, including British nationals as recently as 2019.
+A number of Westerners have been kidnapped in recent years, including British Nationals in 2019.
 
-British nationals are seen as legitimate targets, including tourists, humanitarian aid workers, journalists and business travellers. If you are kidnapped, the reason for your presence is unlikely to protect you or secure your safe release.
+British nationals are seen as legitimate targets, including tourists, humanitarian aid workers, journalists, and business travellers. If you are kidnapped, the reason for your presence is unlikely to protect you or secure your safe release.
 
-The long-standing policy of the British government is not to make substantive concessions to hostage takers. The British government considers that paying ransoms and releasing prisoners builds the capability of terrorist groups and finances their activities. This can, in turn, increase the risk of further hostage-taking.  The Terrorism Act (2000) makes payments to terrorists illegal.
+The long-standing policy of the British government is not to make substantive concessions to hostage takers. The British government considers that paying ransoms and releasing prisoners builds the capability of terrorist groups and finances their activities. This can, in turn, increase the risk of further hostage-taking. The Terrorism Act (2000) makes payments to terrorists illegal.
 
 ## Crime
 

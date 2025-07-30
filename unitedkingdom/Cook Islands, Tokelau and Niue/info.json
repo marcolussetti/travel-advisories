@@ -1,11 +1,11 @@
 {
     "name": "Cook Islands, Tokelau and Niue",
-    "update_reason": "Updated information about Extreme weather and natural disasters following earthquake in region (\u2018Warnings and insurance page).",
+    "update_reason": "Removal of information about extreme weather and natural disasters following an earthquake in the region.",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Cook Islands, Tokelau and Niue/Warnings and insurance.md",
-            "update_date": "2025-03-30T15:20:02+01:00"
+            "update_date": "2025-07-29T14:12:29+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Cook Islands, Tokelau and Niue/Getting help.md"
         }
     ],
-    "update_date": "2025-03-30T15:20:02+01:00"
+    "update_date": "2025-07-29T14:12:29+01:00"
 }

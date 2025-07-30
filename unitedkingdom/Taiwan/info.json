@@ -1,11 +1,11 @@
 {
     "name": "Taiwan",
-    "update_reason": "New information about Tropical Storm Francisco ('Warnings and insurance' page).",
+    "update_reason": "Earthquake and Tsunami warning - regional update ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Taiwan/Warnings and insurance.md",
-            "update_date": "2025-07-24T16:23:16+01:00"
+            "update_date": "2025-07-30T06:02:34+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Taiwan/Getting help.md"
         }
     ],
-    "update_date": "2025-07-24T16:23:16+01:00"
+    "update_date": "2025-07-30T06:02:34+01:00"
 }

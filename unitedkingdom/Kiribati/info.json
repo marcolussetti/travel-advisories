@@ -1,11 +1,11 @@
 {
     "name": "Kiribati",
-    "update_reason": "Updated information of what health risks you\u2019ll face in Kiribati (\u2018Health\u2019 page).",
+    "update_reason": "Earthquake and Tsunami warning - regional update ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Kiribati/Warnings and insurance.md",
-            "update_date": "2025-07-22T10:03:16+01:00"
+            "update_date": "2025-07-30T03:45:15+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Kiribati/Getting help.md"
         }
     ],
-    "update_date": "2025-07-22T10:03:16+01:00"
+    "update_date": "2025-07-30T03:45:15+01:00"
 }

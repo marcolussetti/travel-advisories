@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   5 July 2025
+:   30 July 2025
 
 Updated:
-:   4 July 2025
+:   29 July 2025
 
 Latest update:
-:   Information about wildfires in Greece and updated information under emergency alerts and preparedness ('Warnings and insurance' and 'Safety and security' pages).
+:   Information added about the upcoming UEFA Champions league match between Rangers and Panathinaikos on 30 July ('Safety and security' page).
 
 ## Wildfires in Greece
 

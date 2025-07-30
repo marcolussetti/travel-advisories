@@ -1,15 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   31 March 2025
+:   30 July 2025
 
 Updated:
-:   30 March 2025
+:   29 July 2025
 
 Latest update:
-:   Updated information about Extreme weather and natural disasters following earthquake in region (‘Warnings and insurance page).
-
-There has been a 7.1 magnitude earthquake in the Tonga Islands. Minor sea level fluctuations may occur in some coastal areas, including Nieu. Remain observant and exercise normal caution near the sea. Follow instructions and advice from local authorities.
+:   Removal of information about extreme weather and natural disasters following an earthquake in the region.
 
 ## Before you travel
 

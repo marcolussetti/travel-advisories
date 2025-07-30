@@ -1,15 +1,21 @@
 # Warnings and insurance
 
 Still current at:
-:   25 July 2025
+:   30 July 2025
 
 Updated:
-:   24 July 2025
+:   30 July 2025
 
 Latest update:
-:   New information about Tropical Storm Francisco ('Warnings and insurance' page).
+:   Earthquake and Tsunami warning - regional update ('Warnings and insurance' page).
 
 The UK does not recognise Taiwan as a state and has no diplomatic relations with Taiwan, so limited support is available to British nationals. Please refer to the [British Office in Taipei](https://www.gov.uk/world/organisations/british-office-taipei) for further information.
+
+## Earthquake in the Kamchatka Peninsular Region
+
+An earthquake with a preliminary magnitude of 8.7 has struck the eastern coast of Russia in the Kamchatka Peninsula region. A tsunami threat message has been issued by the Pacific Tsunami Warning Centre.
+
+If you are in the affected areas potentially affected by the earthquake or tsunami you should follow the advice of the local authorities.
 
 ### Tropical Storm Francisco
 

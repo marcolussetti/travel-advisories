@@ -1,18 +1,24 @@
 # Warnings and insurance
 
 Still current at:
-:   7 May 2025
+:   30 July 2025
 
 Updated:
-:   6 May 2025
+:   30 July 2025
 
 Latest update:
-:   Removal of information about a traffic incident at the entrance of Manila Airport(‘Warnings and insurance' page).
+:   Earthquake and Tsunami warning - regional update
 
 ![](https://assets.publishing.service.gov.uk/media/616406778fa8f52980d9301c/FCDO__TA__033_-_Philippines_Travel_Advice_Ed2__WEB_.jpg)
 
 
 [Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/61640677e90e071976488ec3/FCDO__TA__033_-_Philippines_Travel_Advice_Ed2.pdf)
+
+## Earthquake in the Kamchatka Peninsular Region
+
+An earthquake with a preliminary magnitude of 8.7 has struck the eastern coast of Russia in the Kamchatka Peninsula region. A tsunami threat message has been issued by the Pacific Tsunami Warning Centre.
+
+If you are in the affected areas potentially affected by the earthquake or tsunami you should follow the advice of the local authorities.
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -31,6 +37,12 @@ FCDO also advises against all but essential travel to the remainder of Mindanao,
 This advice is due to terrorist activity and clashes between the military and insurgent groups in south Philippines.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/philippines/safety-and-security#terrorism).
+
+## Earthquake in the Kamchatka Peninsular Region
+
+An earthquake with a preliminary magnitude of 8.7 has struck the eastern coast of Russia in the Kamchatka Peninsula region. A tsunami threat message has been issued by the Pacific Tsunami Warning Centre.
+
+If you are in the affected areas potentially affected by the earthquake or tsunami you should follow the advice of the local authorities.
 
 ## Before you travel
 

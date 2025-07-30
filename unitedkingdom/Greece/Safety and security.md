@@ -114,6 +114,16 @@ It is illegal to approach or take photos or videos of military installations, ve
 
 ## Outdoor activities and adventure tourism
 
+### UEFA Champions League
+
+Athens will host [Panathinaikos vs Rangers in the UEFA Champions League](https://www.uefa.com/uefachampionsleague/match/2045396--panathinaikos-vs-rangers/) on Wednesday 30th July. If you are travelling to Athens for the match, you should:
+
+* plan your movement around the city to arrive at the stadium well in advance of the match kick-off
+* follow the instructions of the local authorities
+* take care of your personal possessions including passports, especially in crowds and on public transport
+
+Further information can be found on [Rangers FC official website](https://www.rangers.co.uk/).
+
 ### Music festivals
 
 Take extra care of your valuables at festivals or large concerts. Read the [festivals in Europe travel checklist](https://www.gov.uk/guidance/festival-travel-checklist) for more advice.

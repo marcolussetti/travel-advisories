@@ -1,11 +1,11 @@
 {
     "name": "Philippines",
-    "update_reason": "Removal of information about a\u202ftraffic incident at the entrance of Manila Airport(\u2018Warnings and insurance' page).",
+    "update_reason": "Earthquake and Tsunami warning - regional update",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Philippines/Warnings and insurance.md",
-            "update_date": "2025-05-06T12:36:27+01:00"
+            "update_date": "2025-07-30T07:02:39+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Philippines/Getting help.md"
         }
     ],
-    "update_date": "2025-05-06T12:36:27+01:00"
+    "update_date": "2025-07-30T07:02:39+01:00"
 }

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   5 June 2025
+:   30 July 2025
 
 Updated:
-:   4 June 2025
+:   30 July 2025
 
 Latest update:
-:   Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport ('Safety and security' page).
+:   Earthquake and Tsunami warning - regional update ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/621cd8428fa8f54915f43831/FCDO__TA__059_-_Russia_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -25,6 +25,12 @@ FCDO advises against all travel to Russia due to the risks and threats from its
 * limited ability for the UK government to provide support
 
 There is also a high likelihood terrorists  will try to carry out attacks, including in major cities. See [Safety and security](https://www.gov.uk/foreign-travel-advice/russia/safety-and-security).
+
+## Earthquake in the Kamchatka Peninsular Region
+
+An earthquake with a preliminary magnitude of 8.7 has struck the eastern coast of Russia in the Kamchatka Peninsula region. A tsunami threat message has been issued by the Pacific Tsunami Warning Centre.
+
+If you are in the affected areas potentially affected by the earthquake or tsunami you should follow the advice of the local authorities.
 
 ## Limited UK government support
 

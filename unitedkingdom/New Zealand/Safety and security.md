@@ -61,7 +61,7 @@ Highways can be narrow, winding and hilly. Car rental companies should provide y
 
 ### Motor vehicle insurance
 
-Hire car companies will arrange your insurance, but if you are driving a private vehicle you must get insurance, including accident cover. Accident victims do not have a legal right to sue a third party. The [Accident Compensation Commission (ACC)](https://www.live-work.immigration.govt.nz/resources/acc-helping-to-meet-the-costs-of-personal-injury#:~:text=The%20Accident%20Compensation%20Corporation%20%28ACC%29%20provides%20compulsory%20insurance,pay%20some%20of%20your%20medical%20and%20rehabilitation%20costs.) helps pay for local care if you’re injured.  However, delayed travel or loss of income in a third country is not covered.
+Hire car companies will arrange your insurance, but if you are driving a private vehicle you must get insurance, including accident cover. Accident victims do not have a legal right to sue a third party. The [Accident Compensation Commission (ACC)](https://www.acc.co.nz/) helps pay for local care if you’re injured.  However, delayed travel or loss of income in a third country is not covered.
 
 ## Extreme weather and natural disasters
 

@@ -1,11 +1,11 @@
 {
     "name": "USA",
-    "update_reason": "This travel advice has been reviewed for accuracy, with edits throughout including on entry requirements and the risks associated with outdoor activities, terrorism and extreme weather (See 'Warnings and insurance', 'Entry requirements' and 'Safety and security' pages).",
+    "update_reason": "Earthquake and Tsunami warning - regional update",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/USA/Warnings and insurance.md",
-            "update_date": "2025-07-25T23:42:21+01:00"
+            "update_date": "2025-07-30T03:47:25+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/USA/Getting help.md"
         }
     ],
-    "update_date": "2025-07-25T23:42:21+01:00"
+    "update_date": "2025-07-30T03:47:25+01:00"
 }

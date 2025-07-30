@@ -1,11 +1,11 @@
 {
     "name": "China",
-    "update_reason": "Revised language on drug trafficking, medical screening, vaccine requirements, military zone restrictions and the China-Myanmar border. Addition of recent change to legislation concerning religious regulations for foreigners ('Entry requirements', 'Safety and security' and 'Regional risks' pages).",
+    "update_reason": "Earthquake and Tsunami warning - regional update ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/China/Warnings and insurance.md",
-            "update_date": "2025-07-22T12:26:29+01:00"
+            "update_date": "2025-07-30T06:00:55+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/China/Getting help.md"
         }
     ],
-    "update_date": "2025-07-22T12:26:29+01:00"
+    "update_date": "2025-07-30T06:00:55+01:00"
 }

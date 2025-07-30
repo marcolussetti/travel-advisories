@@ -53,7 +53,9 @@ To protect yourself from methanol poisoning:
 * check bottle seals are intact
 * check labels for poor print quality or incorrect spelling
 
-Methanol is tasteless and odourless. TravelHealthPro lists the [symptoms of methanol poisoning](https://www.travelhealthpro.org.uk/factsheet/25/personal-safety). Seek [urgent medical attention](https://www.gov.uk/government/publications/list-of-medical-facilities-in-costa-rica) if you or someone you are travelling with show signs of methanol poisoning.
+Methanol is tasteless and odourless. TravelHealthPro lists the [symptoms of methanol poisoning](https://www.travelhealthpro.org.uk/factsheet/25/personal-safety). For more information about spiking and methanol poisoning, read Travel Aware’s information on [Spiking and methanol poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/).
+
+Seek [urgent medical attention](https://www.gov.uk/government/publications/list-of-medical-facilities-in-costa-rica) if you or someone you are travelling with show signs of methanol poisoning.
 
 ## Laws and cultural differences
 

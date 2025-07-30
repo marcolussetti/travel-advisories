@@ -1,13 +1,19 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   30 July 2025
 
 Updated:
-:   19 December 2024
+:   30 July 2025
 
 Latest update:
-:   Removal of information relating to the now cancelled industrial action and demonstrations (‘Safety and security’ page).
+:   Earthquake and Tsunami warning - regional update
+
+## Earthquake in the Kamchatka Peninsular Region
+
+An earthquake with a preliminary magnitude of 8.7 has struck the eastern coast of Russia in the Kamchatka Peninsula region. A tsunami threat message has been issued by the Pacific Tsunami Warning Centre.
+
+If you are in the affected areas potentially affected by the earthquake or tsunami you should follow the advice of the local authorities.
 
 ## Before you travel
 

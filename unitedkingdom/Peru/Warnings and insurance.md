@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   24 June 2025
+:   30 July 2025
 
 Updated:
-:   23 June 2025
+:   30 July 2025
 
 Latest update:
-:   Updated information on State of Emergency (‘Warnings and insurance’ page).
+:   Earthquake and Tsunami warning - regional update ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/6645e81e993111924d9d365a/FCDO__TA__093_-_Peru_Travel_Advice_Ed3__WEB_.jpg)
 
@@ -46,6 +46,12 @@ The Peruvian government has extended the State of Emergency until 16 July in the
 * Callao region
 
 This will see the police and army working together, and permit the restriction of some constitutional rights, for example, the police will be able to detain people without a judicial order if they deem it necessary.
+
+## Earthquake in the Kamchatka Peninsular Region
+
+An earthquake with a preliminary magnitude of 8.7 has struck the eastern coast of Russia in the Kamchatka Peninsula region. A tsunami threat message has been issued by the Pacific Tsunami Warning Centre.
+
+If you are in the affected areas potentially affected by the earthquake or tsunami you should follow the advice of the local authorities.
 
 ## Before you travel
 

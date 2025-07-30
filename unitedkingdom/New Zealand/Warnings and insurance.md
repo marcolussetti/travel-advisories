@@ -1,15 +1,21 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   30 July 2025
 
 Updated:
-:   2 January 2025
+:   30 July 2025
 
 Latest update:
-:   This travel advice was reviewed for accuracy and reissued with additional information on travelling to remote areas ('Safety and security' page).
+:   Earthquake and Tsunami warning - regional update ('Warnings and insurance' page).
 
 This travel advice page covers New Zealand. See separate [travel advice for Cook Islands, Tokelau and Niue](/foreign-travel-advice/cook-islands-tokelau-and-niue).
+
+## Earthquake in the Kamchatka Peninsular Region
+
+An earthquake with a preliminary magnitude of 8.7 has struck the eastern coast of Russia in the Kamchatka Peninsula region. A tsunami threat message has been issued by the Pacific Tsunami Warning Centre.
+
+If you are in the affected areas potentially affected by the earthquake or tsunami you should follow the advice of the local authorities.
 
 ## Before you travel
 

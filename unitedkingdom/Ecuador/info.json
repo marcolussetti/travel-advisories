@@ -1,11 +1,11 @@
 {
     "name": "Ecuador",
-    "update_reason": "Updated information on heavy rainfall across the highlands and Amazon regions. Road emergency declared ('Warnings and insurance' page).",
+    "update_reason": "Earthquake and Tsunami warning - regional update ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Ecuador/Warnings and insurance.md",
-            "update_date": "2025-07-10T14:39:05+01:00"
+            "update_date": "2025-07-30T03:55:00+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Ecuador/Getting help.md"
         }
     ],
-    "update_date": "2025-07-10T14:39:05+01:00"
+    "update_date": "2025-07-30T03:55:00+01:00"
 }

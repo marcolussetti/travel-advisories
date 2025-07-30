@@ -1,15 +1,21 @@
 # Warnings and insurance
 
 Still current at:
-:   26 July 2025
+:   30 July 2025
 
 Updated:
-:   25 July 2025
+:   30 July 2025
 
 Latest update:
-:   This travel advice has been reviewed for accuracy, with edits throughout including on entry requirements and the risks associated with outdoor activities, terrorism and extreme weather (See 'Warnings and insurance', 'Entry requirements' and 'Safety and security' pages).
+:   Earthquake and Tsunami warning - regional update
 
 This travel advice also covers American Samoa, Guam, Northern Mariana Islands, Puerto Rico, and United States Virgin Islands.
+
+## Earthquake in the Kamchatka Peninsular Region
+
+An earthquake with a preliminary magnitude of 8.7 has struck the eastern coast of Russia in the Kamchatka Peninsula region. A tsunami threat message has been issued by the Pacific Tsunami Warning Centre.
+
+If you are in the affected areas potentially affected by the earthquake or tsunami you should follow the advice of the local authorities.
 
 ## Before you travel
 
