@@ -10,7 +10,7 @@ Most Australian citizens don’t need a visa to enter unless you have a criminal
 
 Australian permanent residents need to apply online for a New Zealand Electronic Travel Authority (NZeTA) to enter New Zealand. Australian citizens are exempt from this rule.
 
-For more information refer to the [NZ Government Immigration website](https://www.immigration.govt.nz/about-us/policy-and-law/how-the-immigration-system-operates).
+For more information refer to the [NZ Government Immigration website](https://immigration.govt.nz).
 
 If you've been:
 

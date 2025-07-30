@@ -2,6 +2,8 @@
 
 Latest update
 
+There’s a Pacific wide tsunami warning in place following an M8.6 earthquake 60kms offshore from the Kamchatka peninsula, Russia. The warnings extend to some coastal areas of all Pacific islands. If you're in the affected area, move to higher ground immediately. If there's an official evacuation warning, follow the advice of local authorities. Monitor media for updates. Read our general information on what to do if there’s a tsunami (see ‘Safety’).  
+  
 We've reviewed our advice for Niue and continue to advise exercise normal safety precautions. Cyclone season is from November to April. If you're travelling to Niue, monitor media for weather updates and warnings (see 'Safety').
 
 Advice Level summary
@@ -22,6 +24,7 @@ Exercise normal safety precautions in Niue.
 
 ### Safety
 
+* There’s a Pacific wide tsunami warning in place following an M8.6 earthquake 60kms offshore from the Kamchatka peninsula, Russia. The warnings extend to some coastal areas of all Pacific islands. If you're in the affected area, move to higher ground immediately. If there's an official evacuation warning, follow the advice of local authorities. Monitor media for updates. Read our general information on what to do if there’s a tsunami. See our advice on what to do during an [earthquake or tsunami](/node/345).
 * Niue’s crime rate is low. Don't leave valuables in motor vehicles.
 * Strong rips and waves can endanger swimmers. Check with [Niue Tourism](https://www.niueisland.com/) where it's safe to swim. If you plan to do a tour or adventure activity, make sure your operator is accredited on the [Niue Tourism website](https://www.niueisland.com/see-and-do/tours). Local wildlife can be aggressive, dogs have attacked people walking and cycling. Be aware of your surroundings and avoid travelling alone.
 * Cyclone season is November to April, but severe storms can happen at any time. Know your accommodation's evacuation plan and your nearest shelter.

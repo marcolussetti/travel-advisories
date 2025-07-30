@@ -2,6 +2,8 @@
 
 Latest update
 
+There’s a Pacific wide tsunami warning in place following an M8.6 earthquake 60kms offshore from the Kamchatka peninsula, Russia. The warnings extend to some coastal areas of all Pacific islands. If you're in the affected area, move to higher ground immediately. If there's an official evacuation warning, follow the advice of local authorities. Monitor media for updates. Read our general information on what to do if there’s a tsunami (see ‘Safety’).  
+  
 We continue to advise exercise a high degree of caution in Papua New Guinea due to high levels of crime, tribal violence and civil unrest. Higher levels apply in some areas.   
   
 Local level elections will take place across the country between May and August 2025. Be alert to the possibility of tensions and violence during elections.   
@@ -38,6 +40,7 @@ See '[Safety](#safety)'
 
 ### Safety
 
+* There’s a Pacific wide tsunami warning in place following an M8.6 earthquake 60kms offshore from the Kamchatka peninsula, Russia. The warnings extend to some coastal areas of all Pacific islands. If you're in the affected area, move to higher ground immediately. If there's an official evacuation warning, follow the advice of local authorities. Monitor media for updates. See our advice on what to do during an [earthquake or tsunami](/node/345).
 * Local level elections will take place across the country between May and August 2025. Be alert to the possibility of tensions and violence during elections.
 * Civil disorder, rioting and looting can escalate rapidly. Always pay close attention to your personal security and your surroundings. Australian officials always follow heightened security measures, including while travelling through PNG. Avoid high-risk areas and activities and consider using private security.
 * [Kidnapping](https://www.smartraveller.gov.au/before-you-go/safety/kidnapping) can happen with criminal motives. There have been incidents of kidnapping in remote areas and near some mining sites. Targets have included foreigners.

@@ -2,7 +2,7 @@
 
 Latest update
 
-We continue to advise exercise normal safety precautions in Guam. Entry requirements for Guam are the same as for the United States of America (see 'Travel').
+There’s a Pacific wide tsunami warning in place following an M8.6 earthquake 60kms offshore from the Kamchatka peninsula, Russia. The warnings extend to some coastal areas of all Pacific islands. If you're in the affected area, move to higher ground immediately. If there's an official evacuation warning, follow the advice of local authorities. Monitor media for updates. Read our general information on what to do if there’s a tsunami (see 'Safety').
 
 Advice Level summary
 
@@ -22,6 +22,7 @@ Exercise normal safety precautions in Guam.
 
 ### Safety
 
+* There’s a Pacific wide tsunami warning in place following an M8.6 earthquake 60kms offshore from the Kamchatka peninsula, Russia. The warnings extend to some coastal areas of all Pacific islands. If you're in the affected area, move to higher ground immediately. If there's an official evacuation warning, follow the advice of local authorities. Monitor media for updates. See our advice on what to do during an [earthquake and tsunami](https://www.smartraveller.gov.au/before-you-go/safety/earthquakes-tsunamis?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExZGhvZDJKb0hKVktCVWN0VQEe2PVnYkK2sSjt2KhoSjyJtC4P4liM_2E7C-Nj5aqQWtNOzEdqEvTUG048kWQ_aem_TBi5IrN1X86X4ehe6WAHIA).
 * Petty crime occurs in Guam. Use common sense and protect your valuables, don't leave them in your car or take them to the beach.
 * Guam can experience tropical storms, flooding, landslides, typhoons, earthquakes and tsunamis. Monitor the [Global Disaster Alert and Coordination System](http://gdacs.org/) for updates. Follow the advice of local authorities.
 * Tropical storms and typhoons are most common from June to December. Know your evacuation plan and local shelter locations. Prepare for disruption to services, including air and sea travel.

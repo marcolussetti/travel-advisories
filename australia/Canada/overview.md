@@ -2,6 +2,8 @@
 
 Latest update
 
+There’s a Pacific wide tsunami warning in place following a magnitude 8.6 earthquake 60kms offshore from the Kamchatka peninsula, Russia. This covers the west coast of Canada, including British Columbia. If you're in the affected area, move to higher ground immediately. If there's an official evacuation warning, follow the advice of local authorities. Monitor media for updates. Read our general information on what to do if there’s a tsunami (see 'Safety').  
+  
 Several Canadian provinces have been affected by forest fires. You should monitor local media about forest fire conditions and the impact on air quality. Follow the advice of local authorities (see ‘Safety’).   
   
 We continue to advise exercise normal safety precautions in Canada. Australian passport holders must apply for an electronic travel authorisation (eTA) before travelling to Canada by air (see 'Travel').
@@ -24,6 +26,7 @@ Exercise normal safety precautions in Canada.
 
 ### Safety
 
+* There’s a Pacific wide tsunami warning in place following a magnitude 8.6 earthquake 60kms offshore from the Kamchatka peninsula, Russia. This covers the west coast of Canada, including British Columbia. If you're in the affected area, move to higher ground immediately. If there's an official evacuation warning, follow the advice of local authorities. Monitor media for updates.  See our advice on what to do during an [earthquake or tsunami](/node/345).
 * Several Canadian provinces have been affected by forest fires. You should monitor local media about forest fire conditions and the impact on air quality. Follow the advice of local authorities.
 * Avoid areas where demonstrations and protests are occurring. Follow instructions of local authorities.
 * Canada has a similar crime rate to Australia. Violent crime does occur throughout Canada, especially in larger cities. Petty crime can occur in tourist areas and on public transport. Look after your belongings. Theft from cars is common in larger cities. Don't leave valuables in your vehicle. Credit card scams and fraud occur. Check your statements often.

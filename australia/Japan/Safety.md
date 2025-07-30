@@ -101,6 +101,8 @@ If you're skiing in Japan:
 
 #### Climate and natural disasters
 
+On 30 July, a magnitude 8.6 earthquake occurred approximately 60 km offshore from the southern tip of the Kamchatka peninsula, Russia, with a depth of 50 km. A tsunami is possible along the eastern coast of Japan with a height of up to 3 metres. Move to higher ground immediately. If there's an official evacuation warning, immediately follow the advice of local authorities.
+
 A series of earthquakes occurred in Ishikawa Prefecture in Central Japan on and after 1 January 2024. Some infrastructure in that part of Japan may remain impacted. Exercise caution and follow local authorities' advice if travelling to affected areas.
 
 Japan experiences [natural disasters](/before-you-go/safety/natural-disasters "Staying safe when there's a natural disaster") and [severe weather](/while-youre-away/crisis-or-emergency/severe-weather-incident "There's a severe weather incident"), including:

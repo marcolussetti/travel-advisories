@@ -2,6 +2,8 @@
 
 Latest update
 
+A magnitude 8.6 earthquake has occurred approximately 60kms offshore from the southern tip of the Kamchatka peninsula in Russia. A tsunami warning is in place for the west coast of the US including Alaska and Hawaii. There's an evacuation order in place for Hawaii. If you're in the affected area, move to higher ground immediately. If there's an official evacuation warning, immediately follow the advice of local authorities.  
+  
 Avoid areas where demonstrations and protests are occurring due to the potential for unrest and violence. Monitor media for information, follow the instructions of local authorities and abide by any curfews.  
   
 Entry requirements are strict. US authorities have broad powers to decide if you're eligible to enter and may determine that you are inadmissible for any reason under US law. Check US entry, registration, transit and exit requirements. Whether you're travelling on a visa or under the Visa Waiver Program, ensure you understand all relevant terms and conditions before attempting to enter the United States.
@@ -24,6 +26,7 @@ Exercise normal safety precautions in the United States of America.
 
 ### Safety
 
+* A magnitude 8.6 earthquake occurred approximately 60 km offshore from the southern tip of the Kamchatka peninsula, Russia, with a depth of 50 km. A tsunami is possible along the western coast of the US, with current evacuation orders in place for Hawaii. If you're in the affected area, move to higher ground immediately. If there's an official evacuation warning, immediately follow the advice of local authorities.
 * Avoid areas where demonstrations and protests are occurring due to the potential for unrest and violence. Monitor media for information, follow the instructions of local authorities and abide by any curfews.
 * Violent crime is more common in the United States than in Australia. Gun crime is also prevalent. If you live in the United States, learn and practice active shooter drills.
 * There is a persistent threat of mass casualty violence and terrorist attacks in the United States. Be alert, particularly in public places and at events. On 5 June 2025, the FBI and Department of Homeland Security issued an alert highlighting potential public safety concerns related to ongoing threats to the Jewish and Israeli communities.

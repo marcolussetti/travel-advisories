@@ -2,7 +2,9 @@
 
 Latest update
 
-We continue to advise exercise a high degree of caution in Honiara. Political unrest can occur in Honiara during Parliament sittings, elections and times of political uncertainty.   
+There’s a Pacific wide tsunami warning in place following an M8.6 earthquake 60kms offshore from the Kamchatka peninsula, Russia. The warnings extend to some coastal areas of all Pacific islands. If there's an official evacuation warning, follow the advice of local authorities. Monitor media for updates. Read our general information on what to do if there’s a tsunami (see 'Safety').  
+  
+Political unrest can occur in Honiara during Parliament sittings, elections and times of political uncertainty.   
   
 There's an increase of mosquito borne illnesses, including Malaria and Dengue fever (see 'Health').  
   
@@ -32,6 +34,7 @@ Higher levels apply in some areas.
 
 ### Safety
 
+* There’s a Pacific wide tsunami warning in place following an M8.6 earthquake 60kms offshore from the Kamchatka peninsula, Russia. The warnings extend to some coastal areas of all Pacific islands. If there's an official evacuation warning, follow the advice of local authorities. Monitor media for updates. Read our general information on what to do if there’s a tsunami. See our advice on what to do during an [earthquake or tsunami](https://www.smartraveller.gov.au/before-you-go/safety/earthquakes-tsunamis).
 * Political unrest can occur in Honiara during Parliament sittings, elections and times of political uncertainty. Demonstrations can turn violent quickly. Avoid protests and political gatherings.
 * Petty crime, break-ins, robbery and more serious offences including sexual assault can occur. Keep your accommodation locked. Lock your vehicle doors and windows, even while moving.
 * Be aware of local wildlife. Street dogs in Honiara can be vicious. Sharks and crocodiles are common. Get local advice before entering the water.

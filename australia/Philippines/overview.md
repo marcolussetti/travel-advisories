@@ -2,6 +2,8 @@
 
 Latest update
 
+There’s a Pacific wide tsunami warning in place following a magnitude 8.6 earthquake 60kms offshore from the Kamchatka peninsula, Russia. The warning extends to some coastal areas of the Philippines. If you're in the affected area, move to higher ground immediately. If there's an official evacuation warning, follow the advice of local authorities. Monitor media for updates. Read our general information on what to do if there’s a tsunami (see 'Safety').  
+  
 Terrorist attacks could occur anywhere in the Philippines. Possible targets include aviation and airports, public transport, hotels, shopping malls, restaurants, major events, places of worship and tourist areas (see 'Safety'). Do not travel to central and western Mindanao, including the Zamboanga Peninsula, Sulu Archipelago and the southern Sulu Sea area due to the very high threat of terrorism and kidnapping.
 
 Advice Level summary
@@ -44,6 +46,7 @@ See [Safety](#safety).
 
 ### Safety
 
+* There’s a Pacific wide tsunami warning in place following a magnitude 8.6 earthquake 60kms offshore from the Kamchatka peninsula, Russia. The warning extends to some coastal areas of the Philippines. If you're in the affected area, move to higher ground immediately. If there's an official evacuation warning, follow the advice of local authorities. Monitor media for updates. See our advice on what to do during an [earthquake or tsunami](https://www.smartraveller.gov.au/before-you-go/safety/earthquakes-tsunamis).
 * Terrorist attacks could occur anywhere in the Philippines. Possible targets include aviation and airports, public transport, hotels, shopping malls, restaurants, major events, places of worship and tourist areas. Be alert to possible threats. On 3 December 2023 there was a terrorist attack in Marawi City resulting in four dead and many injured, leading to heightened security arrangements in Mindanao and elsewhere, including Manila. Do not travel to central and western Mindanao, including the Zamboanga Peninsula Sulu Archipelago and the southern Sulu Sea area due to the very high threat of terrorism and kidnapping.
 * Kidnappings occur in the Philippines and kidnappers may target popular tourist areas. The threat of kidnapping and piracy in the southern Philippines is high, especially in the area of the Sulu Archipelago. If you travel to the southern Philippines despite our advice, get professional security advice. Ensure your accommodation has proper security measures. Don't travel by boat.
 * There's an increased risk of demonstrations and civil unrest following recent events. Avoid protests and large gatherings as they may turn violent. Transport and other essential services may be disrupted. Monitor the media for updates and follow the advice of local authorities.

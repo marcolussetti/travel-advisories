@@ -2,6 +2,8 @@
 
 Latest update
 
+There’s a Pacific wide tsunami warning in place following an M8.6 earthquake 60kms offshore from the Kamchatka peninsula, Russia. The warnings extend to some coastal areas of all Pacific islands. If you're in the affected area, move to higher ground immediately. If there's an official evacuation warning, follow the advice of local authorities. Monitor media for updates. Read our general information on what to do if there’s a tsunami (see 'Safety').  
+  
 We continue to advise exercise normal safety precautions in Tonga. Tongan beaches can have strong rips and submerged debris from recent disasters that can make swimming dangerous. Ask locals about safe swimming areas (see 'Safety').
 
 Advice Level summary
@@ -22,6 +24,7 @@ Exercise normal safety precautions in Tonga.
 
 ### Safety
 
+* There’s a Pacific wide tsunami warning in place following an M8.6 earthquake 60kms offshore from the Kamchatka peninsula, Russia. The warnings extend to some coastal areas of all Pacific islands. If you're in the affected area, move to higher ground immediately. If there's an official evacuation warning, follow the advice of local authorities. Monitor media for updates. Read our general information on what to do if there’s a tsunami (see 'Safety'). See our advice on what to do during an [earthquake or tsunami](/node/345).
 * Crime in Tonga is at the same level as expected in Australia and includes robbery, assault, theft and break-ins. Keep doors, windows and gates locked and don't go out alone at night.
 * Civil unrest is rare, but protests could turn violent. Avoid large public gatherings.
 * Communications in the outer islands, including the Vava'u and Ha'apai groups, can be limited at times, particularly after earthquakes.

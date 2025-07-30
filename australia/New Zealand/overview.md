@@ -2,7 +2,9 @@
 
 Latest update
 
-We've reviewed our advice for New Zealand and continue to advise exercise normal safety precautions.
+There’s a Pacific wide tsunami warning in place following an M8.6 earthquake 60kms offshore from the Kamchatka peninsula, Russia. The warnings extend to some coastal areas of all Pacific islands. If you're in the affected area, move to higher ground immediately. If there's an official evacuation warning, follow the advice of local authorities. Monitor media for updates. Read our general information on what to do if there’s a tsunami (see ‘Safety’).  
+  
+We continue to advise exercise normal safety precautions for New Zealand.
 
 Advice Level summary
 
@@ -22,6 +24,7 @@ Exercise normal safety precautions in New Zealand.
 
 ### Safety
 
+* There’s a Pacific wide tsunami warning in place following an M8.6 earthquake 60kms offshore from the Kamchatka peninsula, Russia. The warnings extend to some coastal areas of all Pacific islands. If you're in the affected area, move to higher ground immediately. If there's an official evacuation warning, follow the advice of local authorities. Monitor media for updates. Read our general information on what to do if there’s a tsunami. See our advice on what to do during an [earthquake or tsunami](/node/345).
 * Earthquakes are a constant risk. Large, damaging quakes can happen at any time. Know what to do during and after an earthquake.
 * All of New Zealand's coastline is at risk of a tsunami. Know the tsunami warning signs and move to high ground immediately. Don't wait for official alerts.
 * New Zealand has several active volcanoes. Volcanic alert levels may rise quickly. You may be ordered to evacuate at short notice. Stay informed and follow the advice of local authorities.
@@ -49,7 +52,7 @@ Full travel advice: [Local laws](#local-laws)
 
 * You must complete a New Zealand Traveller Declaration Form (NZTD) before passport control on arrival. You need to answer questions about your trip and what you’re bringing into the country. You can complete it [online](https://www.travellerdeclaration.govt.nz/) or by using the NZTD app, there's no cost.
 * Most Australian citizens don't need a visa to enter unless you have a criminal record or if you've been deported from any country. Entry and exit conditions can change at short notice.
-* Before you travel, check [Immigration New Zealand's](https://www.immigration.govt.nz/new-zealand-visas/preparing-a-visa-application/your-journey-to-new-zealand/arriving-in-new-zealand) website for current entry restrictions and requirements.
+* Before you travel, check [Immigration New Zealand's](https://immigration.govt.nz) website for current entry restrictions and requirements.
 
 Full travel advice: [Travel](#travel)
 

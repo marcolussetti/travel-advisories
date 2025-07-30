@@ -2,7 +2,7 @@
 
 Latest update
 
-We continue to advise exercise normal safety precautions in the Cook Islands. Authorities will issue you a 31-day visitor visa on arrival (see 'Travel').
+There’s a Pacific wide tsunami warning in place following an M8.6 earthquake 60kms offshore from the Kamchatka peninsula, Russia. The warnings extend to some coastal areas of all Pacific islands. If you're in the affected area, move to higher ground immediately. If there's an official evacuation warning, follow the advice of local authorities. Monitor media for updates. Read our general information on what to do if there’s a tsunami (see 'Safety').
 
 Advice Level summary
 
@@ -22,6 +22,7 @@ Exercise normal safety precautions in the Cook Islands.
 
 ### Safety
 
+* There’s a Pacific wide tsunami warning in place following an M8.6 earthquake 60kms offshore from the Kamchatka peninsula, Russia. The warnings extend to some coastal areas of all Pacific islands. If you're in the affected area, move to higher ground immediately. If there's an official evacuation warning, follow the advice of local authorities. Monitor media for updates. See our advice on what to do during an [earthquake and tsunami](https://www.smartraveller.gov.au/before-you-go/safety/earthquakes-tsunamis?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExZGhvZDJKb0hKVktCVWN0VQEe2PVnYkK2sSjt2KhoSjyJtC4P4liM_2E7C-Nj5aqQWtNOzEdqEvTUG048kWQ_aem_TBi5IrN1X86X4ehe6WAHIA).
 * The Cook Islands' crime rate is low. Thieves sometimes target tourists, especially at the beach. Watch out for your belongings. Ensure your accommodation is kept locked at all times.
 * Don't leave valuables in motor scooters or motorcycles.
 * Cyclone season is from November to April, but severe storms can happen anytime. Know your accommodation's evacuation plan and your nearest shelter.
