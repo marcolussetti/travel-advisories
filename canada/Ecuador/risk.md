@@ -33,7 +33,7 @@
   + Huaquillas
 * in the province of Guayas:
   + Durán
-  + Milagros
+  + Milagro
   + the following areas of northern Guayaquil:
     - Bastión Popular
     - El Fortín

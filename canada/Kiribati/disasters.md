@@ -2,6 +2,12 @@
 
 ## Natural disasters and climate
 
+A tsunami warning is in effect.
+
+If you’re in or around the affected areas, follow the instructions of local authorities and monitor local news for information on the tsunami’s progress.
+
+[Tsunami Advisory](http://www.tsunami.gov/) – U.S. Tsunami Warning System
+
 ### Cyclones and monsoons
 
 The rainy seasons in the South Pacific extend from November to April. Severe rainstorms can cause flooding and landslides, which can hamper overland, maritime and air travel. They can also reduce the provision of essential services such as water and power.

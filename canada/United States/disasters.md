@@ -2,6 +2,20 @@
 
 ## Natural disasters and climate
 
+Tsunami warnings are in effect for:
+
+* the Alaska Peninsula from Attu to Samalga Pass, Alaska (50 km southwest of Nikolski)
+* Hawaii
+
+Tsunami advisories are in effect for:
+
+* the Alaskan Peninsula from Samalga Pass to Chignik Bay, Alaska
+* the west coast from the US/Mexico border to the US/Canada border
+
+If you’re in or around the affected areas, follow the instructions of local authorities and monitor local news for information on the tsunami’s progress.
+
+[Tsunami Advisory](http://www.tsunami.gov/) – U.S. Tsunami Warning System
+
 Natural disasters can occur at any time.
 
 [Plan Ahead for Disasters](https://www.ready.gov/) – U.S. Department of Homeland Security

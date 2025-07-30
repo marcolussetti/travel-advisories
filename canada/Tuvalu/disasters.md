@@ -2,6 +2,12 @@
 
 ## Natural disasters and climate
 
+A tsunami warning is in effect.
+
+If you’re in or around the affected areas, follow the instructions of local authorities and monitor local news for information on the tsunami’s progress.
+
+[Tsunami Advisory](http://www.tsunami.gov/) – U.S. Tsunami Warning System
+
 ### Rainy seasonal
 
 The rainy (or monsoon) and tropical cyclone seasons in the South Pacific extend from November to April. These storms can result in extensive damage to infrastructure and can hamper the provision of essential services.

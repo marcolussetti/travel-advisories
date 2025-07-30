@@ -2,6 +2,12 @@
 
 ## Natural disasters and climate
 
+A tsunami warning is in effect.
+
+If you’re in or around the affected areas, follow the instructions of local authorities and monitor local news for information on the tsunami’s progress.
+
+[Tsunami Advisory](http://www.tsunami.gov/) – U.S. Tsunami Warning System
+
 ### Cyclone season
 
 Cyclones usually occur from November to April. These severe storms can put you at risk and hamper the provision of essential services.

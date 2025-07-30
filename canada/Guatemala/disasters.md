@@ -2,6 +2,12 @@
 
 ## Natural disasters and climate
 
+A tsunami warning is in effect.
+
+If you’re in or around the affected areas, follow the instructions of local authorities and monitor local news for information on the tsunami’s progress.
+
+[Tsunami Advisory](http://www.tsunami.gov/) – U.S. Tsunami Warning System
+
 ### Wildfires
 
 Forest fires occur between November and June. They can happen throughout the country, but the Petén area is usually the most affected.

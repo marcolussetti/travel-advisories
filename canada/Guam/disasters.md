@@ -2,6 +2,12 @@
 
 ## Natural disasters and climate
 
+A tsunami warning is in effect.
+
+If you’re in or around the affected areas, follow the instructions of local authorities and monitor local news for information on the tsunami’s progress.
+
+[Tsunami Advisory](http://www.tsunami.gov/) – U.S. Tsunami Warning System
+
 ### Typhoons
 
 Typhoons usually occur between July and December. During this period, even small storms can quickly develop into major typhoons. These severe storms can put you at risk and hamper the provision of essential services.

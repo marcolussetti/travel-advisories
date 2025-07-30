@@ -2,6 +2,12 @@
 
 ## Natural disasters and climate
 
+A tsunami warning is in effect.
+
+If you’re in or around the affected areas, follow the instructions of local authorities and monitor local news for information on the tsunami’s progress.
+
+[Tsunami Advisory](http://www.tsunami.gov/) – U.S. Tsunami Warning System
+
 ### Monsoon
 
 The rainy (or monsoon) season extends from July to November. Severe rainstorms can cause flooding and landslides, resulting in significant loss of life, extensive damage to infrastructure, and disruptions in the provision of essential services.

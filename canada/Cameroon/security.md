@@ -2,11 +2,21 @@
 
 ## Safety and security
 
-Heightened security measures have been implemented, particularly in Yaoundé and Douala, following the July 26, 2025 announcement by Cameroon’s electoral authorities concerning the publication of the candidate list for the October 2025 presidential elections.
+**Presidential elections**
 
-You should avoid areas near government buildings, including Elections Cameroon (ELECAM) headquarters and its surroundings.
+Political tensions are high in the context of the presidential elections scheduled for October 2025. Announcements related to the electoral process could lead to protests and civil unrest.
 
-Political announcements may lead to demonstrations and civil unrest.
+During periods of high tension, the authorities may strengthen security measures, restrict movement without notice and impose curfews.
+
+Even peaceful demonstrations can turn violent at any time. They can also lead to disruption to traffic and public transportation.
+
+If you are in Cameroon:
+
+* stay away from demonstrations and gatherings
+* avoid areas around government buildings, including the headquarters of Elections Cameroon (ELECAM)
+* expect increased security presence
+* monitor local media for the latest information
+* follow the instructions of local authorities
 
 [Information on demonstrations](#demonstrations)
 

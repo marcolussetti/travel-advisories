@@ -4,14 +4,19 @@
 
 ### Demonstrations in Luanda
 
-Demonstrations are scheduled to take place in Luanda on July 26, 2025. Gatherings and demonstrations may also occur before or after this date.
+Demonstrations and strikes by taxi drivers are taking place in Luanda from July 28 to July 30, 2025.
 
-Even peaceful demonstrations can turn violent at any time. They can also lead to disruption to traffic and public transportation.
+Incidents of violence have occurred, including attacks on app-based taxis and public buses, as well as looting and civil disorder.
+
+Gatherings and demonstrations may also occur after these dates.
+
+Even peaceful demonstrations can turn violent at anytime. They can also lead to disruption of traffic and public transportation.
 
 Authorities may restrict movement without notice.
 
-If you are in Angola:
+If you are in Luanda:
 
+* limit non-essential movements
 * stay away from demonstrations
 * avoid areas around government buildings
 * expect increased security presence

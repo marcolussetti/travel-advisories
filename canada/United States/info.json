@@ -1,7 +1,7 @@
 {
     "name": "United States",
-    "update_reason": "Natural disasters and climate \u2013 removed information on the tsunami warning for South Alaska and the Alaskan Peninsula",
-    "update_date": "2025-07-16T19:04:00",
+    "update_reason": "Natural disasters and climate \u2013 added information on tsunami warnings and advisories for the Alaskan Peninsula, Hawaii and the west coast from the Mexican border to the Canadian border",
+    "update_date": "2025-07-29T22:23:00",
     "sections": {
         "risk": "canada/United States/risk.md",
         "security": "canada/United States/security.md",

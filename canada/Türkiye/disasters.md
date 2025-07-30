@@ -2,6 +2,10 @@
 
 ## Natural disasters and climate
 
+Wildfires occur frequently in Türkiye during the summer.
+
+[More information on wildfires](#wildfires)
+
 ### Earthquakes
 
 Türkiye is located in an active seismic zone.
@@ -29,11 +33,11 @@ Droughts and snowstorms can also delay travel and disrupt essential services.
 
 ### Wildfires
 
-Forest fires often occur during the summer months, particularly in provinces on the Mediterranean and Aegean coasts of Türkiye.
+Wildfires often occur during the summer months, particularly in provinces on the Mediterranean and Aegean coasts of Türkiye, including areas close to major tourist centers.
 
-Heavy smoke and ash fall may deteriorate the air quality in areas near active fires. They can also lead to road and air traffic disruptions and power outages.
+Heavy smoke and ash fall may deteriorate the air quality in areas near active fires. They can also lead to road and air traffic disruptions, power outages, and evacuation orders.
 
-In case of major fire:
+In case of a major fire:
 
 * stay away from the affected areas, especially if you suffer from respiratory ailments
 * follow the instructions of local authorities, including evacuation orders

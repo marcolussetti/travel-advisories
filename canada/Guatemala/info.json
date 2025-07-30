@@ -1,7 +1,7 @@
 {
     "name": "Guatemala",
-    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
-    "update_date": "2025-07-28T11:40:00",
+    "update_reason": "Natural disasters and climate \u2013 added information on a tsunami warning",
+    "update_date": "2025-07-30T00:57:00",
     "sections": {
         "risk": "canada/Guatemala/risk.md",
         "security": "canada/Guatemala/security.md",
