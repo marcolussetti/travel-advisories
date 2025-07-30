@@ -58,27 +58,29 @@ Read the [country information page](https://travel.state.gov/content/travel/en/i
 
 ### Assistance for U.S. Citizens
 
-U.S. Embassy Bern
+Embassy of Switzerland - Foreign Interests Section
 
 null
 
 Telephone
 
-U.S. Department of State, Bureau of Consular Affairs  
-+1-888-407-4747  
-+1-202-501-4444
++98 21 22 54 21 78+98 21 22 56 52 73+98 21 22 77 24 63
 
 Emergency
 
++41 58 465 3333
+
 Fax
+
++98 21 22 58 04 32
 
 Email
 
-[BernACS@state.gov](mailto: BernACS@state.gov "Embassy email address: BernACS@state.gov")
+[tehran.fi@eda.admin.ch](mailto: tehran.fi@eda.admin.ch "Embassy email address: tehran.fi@eda.admin.ch")
 
 Website
 
-[https://ir.usembassy.gov/](https://ir.usembassy.gov/ "Embassy website address of U.S. Embassy Bern:  https://ir.usembassy.gov/")
+[http://www.eda.admin.ch/tehranfi](https://www.eda.admin.ch/countries/iran/en/home/representations/embassy/embassy-of-switzerland-foreign-interests-section.html)
 
 ### Iran Map
 
