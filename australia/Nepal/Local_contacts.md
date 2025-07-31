@@ -45,9 +45,9 @@ Your insurer should have a 24-hour emergency number.
 
 Read the [Consular Services Charter](/consular-services/consular-services-charter "Consular Services Charter") for what the Australian Government can and can't do to help you overseas.
 
-For consular help, contact the Australian Embassy in Kathmandu.
+For consular assistance, contact the Australian Embassy in Kathmandu.
 
-The Embassy in Kathmandu will provide consular, passport and notarial services by appointment only due to a temporary relocation. Check the Embassy website for details about opening hours and any temporary closures.
+The Embassy in Kathmandu provides consular, passport and notarial services by appointment only. Check the Embassy website for details about opening hours and any temporary closures.
 
 #### Australian Embassy, Kathmandu
 

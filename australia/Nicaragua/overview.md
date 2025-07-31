@@ -2,7 +2,7 @@
 
 Latest update
 
-We've reviewed our advice for Nicaragua and continue to advise exercise a high degree of caution due to the threat of violent crime. Check with the nearest embassy or consulate of Nicaragua to confirm the latest entry requirements before travel (see 'Travel').
+We continue to advise exercise a high degree of caution in Nicaragua due to the threat of violent crime. Check with the nearest embassy or consulate of Nicaragua to confirm the latest entry requirements before travel (see 'Travel').
 
 Advice Level summary
 

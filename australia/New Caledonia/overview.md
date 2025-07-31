@@ -2,11 +2,7 @@
 
 Latest update
 
-There’s a Pacific wide tsunami warning in place following an M8.6 earthquake 60kms offshore from the Kamchatka peninsula, Russia. The warnings extend to some coastal areas of all Pacific islands. If you're in the affected area, move to higher ground immediately. If there's an official evacuation warning, follow the advice of local authorities. Monitor media for updates. Read our general information on what to do if there’s a tsunami (see 'Safety').  
-  
-We continue to advise exercise a high degree of caution for all areas of New Caledonia.  
-  
-Political tensions and civil unrest may increase at short notice. Demonstrations and protests may turn violent at short notice. Avoid demonstrations and public gatherings. There’s still a high police and security presence in country. Be aware of your personal security and belongings. Isolated security incidents, including arson, may occur across the territory. Some essential services are affected. Monitor local media and follow the advice of local authorities (see 'Safety').
+We continue to advise exercise a high degree of caution for all areas of New Caledonia. Political tensions and civil unrest may increase at short notice. Demonstrations and protests may turn violent at short notice. Avoid demonstrations and public gatherings. There’s still a high police and security presence in country. Be aware of your personal security and belongings. Isolated security incidents, including arson, may occur across the territory. Some essential services are affected. Monitor local media and follow the advice of local authorities (see 'Safety').
 
 Advice Level summary
 
@@ -26,7 +22,6 @@ Exercise a high degree of caution in New Caledonia due to the risk of civil diso
 
 ### Safety
 
-* There’s a Pacific wide tsunami warning in place following an M8.6 earthquake 60kms offshore from the Kamchatka peninsula, Russia. The warnings extend to some coastal areas of all Pacific islands. If you're in the affected area, move to higher ground immediately. If there's an official evacuation warning, follow the advice of local authorities. Monitor media for updates. See our advice on what to do during an [earthquake and tsunami](https://www.smartraveller.gov.au/before-you-go/safety/earthquakes-tsunamis?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExZGhvZDJKb0hKVktCVWN0VQEe2PVnYkK2sSjt2KhoSjyJtC4P4liM_2E7C-Nj5aqQWtNOzEdqEvTUG048kWQ_aem_TBi5IrN1X86X4ehe6WAHIA).
 * Political tensions and unrest may increase at short notice. Be alert to personal safety risks. There’s a high police and security presence. Authorities may impose restrictions, including curfews, at short notice.
 * Security incidents, including arson, continue across the country. Political demonstrations and protests may turn violent at short notice. Some essential services, including healthcare, are affected.
 * Car theft, vehicle break-ins and household break-and-enters occur. Look after your belongings and always lock your car and accommodation.

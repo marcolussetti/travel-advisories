@@ -50,11 +50,11 @@ See [Safety](#safety).
 
 ### Health
 
-* There's currently an outbreak of mpox in parts of Africa, including in Kenya. Maintain strict hygiene standards and avoid physical contact with anyone who has mpox (see ‘Health risks’).
+* There's currently an outbreak of Mpox in parts of Africa, including in Kenya. Maintain strict hygiene standards and avoid physical contact with anyone who has Mpox (see ‘Health risks’).
 * Malaria is widespread, except in Nairobi and places higher than 2500 metres above sea level. Consider taking anti-malarial medication. Other insect-borne diseases including dengue, Rift Valley fever, filariasis and African sleeping sickness are common. Ensure your accommodation is insect-proof. Use insect repellent.
 * Yellow Fever is widespread. Get vaccinated before you travel and bring your vaccination certificate with you.
 * HIV/AIDS infection rates are high. Take precautions if you're taking part in high-risk activities.
-* You may be exposed to foodborne, waterborne and other infectious diseases, including hepatitis, meningococcal disease, measles, cholera and mpox. Drink only boiled or bottled water. Avoid raw or undercooked food. Avoid physical contact with anyone who has mpox.
+* You may be exposed to foodborne, waterborne and other infectious diseases, including hepatitis, meningococcal disease, measles, cholera and mpox. Drink only boiled or bottled water. Avoid raw or undercooked food.
 
 Full travel advice: [Health](#health)
 

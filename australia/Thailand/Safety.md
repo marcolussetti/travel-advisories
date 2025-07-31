@@ -20,7 +20,9 @@ To stay safe during periods of unrest:
 
 #### Thailand-Cambodia border
 
-Thailand and Cambodia have an ongoing border dispute and we now advise do not travel to areas within 50 kilometres of the Thailand-Cambodia land border throughout the provinces of Buriram, Si Saket, Sa Kaeo, Surin, Ubon Ratchathani, Chanthaburi and mainland Trat. There is ongoing violence and armed conflict between military forces along the Thailand-Cambodia border. There's a risk of landmines and unexploded weapons near the border area. Follow the advice of local authorities, including when navigating maritime areas near the maritime borders.
+A ceasefire has been agreed between Thailand and Cambodia, but the security situation along the Thailand-Cambodia border remains unpredictable.
+
+Due to the recent armed conflict along the Thailand-Cambodia border which included military strikes and violence, and the presence of landmines, we continue to advise do not travel to areas within 50 kilometres of the Thailand-Cambodia land border throughout the provinces of Buriram, Si Saket, Sa Kaeo, Surin, Ubon Ratchathani, Chanthaburi and mainland Trat. Follow the advice of local authorities, including when navigating maritime areas near the maritime borders, monitor local media for updates and pay close attention to your personal security.
 
 The following temples, popular with tourists, now fall in the do not travel area:
 
@@ -43,8 +45,6 @@ Martial law has been declared in some areas of Chanthaburi Province, including:
 * Khao Khitchakut District
 
 Martial law has also been declared in Khao Saming District in Trat Province.
-
-Follow the advice of local authorities and monitor local media for updates.
 
 All border crossing points along the Thailand-Cambodia border are currently closed. Monitor local media for updates and follow the advice of local authorities.
 

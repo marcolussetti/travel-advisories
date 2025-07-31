@@ -2,7 +2,7 @@
 
 Latest update
 
-There’s a Pacific wide tsunami warning in place following an M8.6 earthquake 60kms offshore from the Kamchatka peninsula, Russia. The warnings extend to some coastal areas of all Pacific islands. If there's an official evacuation warning, follow the advice of local authorities. Monitor media for updates. Read our general information on what to do if there’s a tsunami (see 'Safety').
+We've reviewed our advice for Fiji and continue to advise exercise normal safety precautions. You don't need a tourist visa for Fiji. If your stay is less than 4 months, authorities will issue a visa when you arrive.
 
 Advice Level summary
 
@@ -22,7 +22,6 @@ Exercise normal safety precautions in Fiji.
 
 ### Safety
 
-* There’s a Pacific wide tsunami warning in place following an M8.6 earthquake 60kms offshore from the Kamchatka peninsula, Russia. The warnings extend to some coastal areas of all Pacific islands. If there's an official evacuation warning, follow the advice of local authorities. Monitor media for updates. See our advice on what to do during an [earthquake and tsunami](https://www.smartraveller.gov.au/before-you-go/safety/earthquakes-tsunamis?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExZGhvZDJKb0hKVktCVWN0VQEe2PVnYkK2sSjt2KhoSjyJtC4P4liM_2E7C-Nj5aqQWtNOzEdqEvTUG048kWQ_aem_TBi5IrN1X86X4ehe6WAHIA).
 * Crime in Fiji includes robbery, theft, violent assault, sexual assault and home invasions. Most crime is opportunistic. The highest risk is in urban areas and at night. Be careful in popular tourist areas located in and around Suva and Nadi.
 * Credit card fraud and ATM card skimming occur. Protect your PIN and be alert when using ATMs. Regularly check your card and bank statements for fraud.
 * Avoid protests, street rallies and areas with military activity. Protests can occur with little warning and can turn violent. Local authorities sometimes set up checkpoints and close roads. Follow their advice and monitor media for updates.

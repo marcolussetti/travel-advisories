@@ -2,7 +2,7 @@
 
 Latest update
 
-We've reviewed our advice for Cuba and continue to advise exercise a high degree of caution. If you've travelled to Cuba since January 2021, you're not eligible to participate in the US Visa Waiver Program (VWP). You need a visa to enter Cuba. There's an ongoing severe shortage of fuel, which is impacting transport and other government services. There's also a severe shortage of food and drinking water (see 'Travel').
+We continue to advise exercise a high degree of caution in Cuba. If you've travelled to Cuba since January 2021, you're not eligible to participate in the US Visa Waiver Program (VWP). You need a visa to enter Cuba. There's an ongoing severe shortage of fuel, which is impacting transport and other government services. There's also a severe shortage of food and drinking water (see 'Travel').
 
 Advice Level summary
 

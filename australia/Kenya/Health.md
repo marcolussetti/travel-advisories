@@ -52,7 +52,7 @@ Carry a copy of your prescription or a letter from your doctor stating:
 
 #### Mpox
 
-The World Health Organisation (WHO) has declared the current mpox outbreak in parts of Africa as a global public health emergency. It has now spread across a number of countries in Africa, including Kenya.
+The World Health Organisation (WHO) has declared the current Mpox outbreak in parts of Africa as a global public health emergency. It has now spread across a number of countries in Africa, including Kenya.
 
 Mpox can be transmitted to humans through physical contact with an infectious person, infected animals or contaminated materials.
 
@@ -67,15 +67,15 @@ Symptoms include:
 * low energy
 * swollen lymph nodes
 
-Seek professional medical advice on mpox vaccines.
+Seek professional medical advice on Mpox vaccines.
 
-Maintain strict hygiene standards. Avoid physical contact with anyone who has mpox.
+Maintain strict hygiene standards. Avoid physical contact with anyone who has Mpox.
 
-See a doctor if you feel unwell and isolate from others if you develop any mpox symptoms.
+See a doctor if you feel unwell and isolate from others if you develop any Mpox symptoms.
 
 **More information:**
 
-* [mpox](https://www.cdc.gov.au/topics/mpox-monkeypox) (Australian Government)
+* [Mpox](https://www.cdc.gov.au/topics/mpox-monkeypox) (Australian Government)
 * [Infectious diseases](https://www.smartraveller.gov.au/before-you-go/health/diseases)
 
 #### Insect-borne diseases
@@ -90,6 +90,8 @@ Other insect-borne diseases occur, including:
 * [Rift Valley fever](https://www.who.int/news-room/fact-sheets/detail/rift-valley-fever)
 * [lymphatic filariasis](https://www.who.int/news-room/fact-sheets/detail/lymphatic-filariasis)
 * [African sleeping sickness](https://www.who.int/news-room/fact-sheets/detail/trypanosomiasis-human-african-(sleeping-sickness))
+* [chikungunya](https://www.who.int/news-room/fact-sheets/detail/Chikungunya)
+* [leishmaniasis](https://www.who.int/news-room/fact-sheets/detail/leishmaniasis)
 
 To protect yourself from disease:
 

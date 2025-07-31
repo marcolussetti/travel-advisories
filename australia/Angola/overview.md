@@ -2,7 +2,9 @@
 
 Latest update
 
-We've reviewed our advice for Angola and continue to advise exercise a high degree of caution. Angola is experiencing a cholera outbreak affecting 17 of the 21 Angolan provinces, including in Luanda, Bengo, Icolo e Bengo, Cuanza Norte, Malanje and Benguela. Be careful when drinking water or consuming food. You don't need a visa to visit Angola as a tourist. For all other travel, apply for a visa online (see 'Travel').
+Demonstrations are ongoing in Luanda and other provinces. There's reports of civil disorder and violence resulting in deaths and injuries. Avoid areas affected by protests, demonstrations or large public gatherings. Review travel routes before departing safe locations. Demonstrations can lead to traffic disruptions and delays. Authorities can restrict movements without notice. Monitor media for updates and follow advice from local authorities (see 'Safety').   
+  
+Angola is experiencing a cholera outbreak, including in Luanda, Bengo, Icolo e Bengo, Cuanza Norte, Malanje and Benguela provinces. Be careful when drinking water or consuming food. You don't need a visa to visit Angola as a tourist. For all other travel, apply for a visa online (see 'Travel').
 
 Advice Level summary
 
@@ -30,7 +32,8 @@ See [Safety](#safety)
 
 ### Safety
 
-* Demonstrations and civil unrest are common, particularly in Cabinda, Lunda Norte and Lunda Sul. Protests can turn violent. Avoid large public gatherings and follow the instructions of local authorities.
+* Demonstrations, protests and large gatherings can occur anywhere and cause disruption to traffic and public transportation services. Avoid protests, demonstrations and large public gatherings. Monitor media for updates and follow advice from local authorities.
+* Authorities can restrict movements without notice. Expect an increased security presence throughout the city and around government buildings.
 * Angola has a high crime rate. Common crimes range from petty theft to armed robbery and carjacking. The risk of violent crime is much higher at night. Don't walk alone or at night.
 * In and around Luanda, criminals have kidnapped foreigners from vehicles. Lock your doors and windows, even when moving. Be alert for attempts to stop your vehicle.
 * Flash flooding may occur during the rainy season from October to May. It can damage infrastructure and disrupt services. Follow the advice of local officials.

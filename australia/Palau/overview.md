@@ -2,8 +2,6 @@
 
 Latest update
 
-There’s a Pacific wide tsunami warning in place following an M8.6 earthquake 60kms offshore from the Kamchatka peninsula, Russia. The warnings extend to some coastal areas of all Pacific islands. If you're in the affected area, move to higher ground immediately. If there's an official evacuation warning, follow the advice of local authorities. Monitor media for updates. Read our general information on what to do if there’s a tsunami (see ‘Safety’).  
-  
 We continue to advise exercise normal safety precautions in Palau. Visitor visas are available on arrival. A Palau entry form is required and is available online up to 72 hours before arrival. There is no charge for the form. Be alert to scams.
 
 Advice Level summary
@@ -24,7 +22,6 @@ Exercise normal safety precautions in Palau.
 
 ### Safety
 
-* There’s a Pacific wide tsunami warning in place following an M8.6 earthquake 60kms offshore from the Kamchatka peninsula, Russia. The warnings extend to some coastal areas of all Pacific islands. If you're in the affected area, move to higher ground immediately. If there's an official evacuation warning, follow the advice of local authorities. Monitor media for updates. Read our general information on what to do if there’s a tsunami. See our advice on what to do during an [earthquake or tsunami](/node/345).
 * Palau has a low crime rate, but petty crime does occur. Protect your valuables.
 * Palau experiences tropical storms. These can disrupt services. Know your hotel or cruise ship's evacuation plan. Find out where your nearest shelter is.
 * Palau is at risk of tsunamis. Know the warning signs and move immediately to higher ground. Don't wait for official alerts.

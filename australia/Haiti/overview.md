@@ -2,7 +2,7 @@
 
 Latest update
 
-We've reviewed the advice for Haiti and continue to advise do not travel to Haiti. Toussaint-Louverture International Airport has resumed operations, but many airlines have suspended flights in and out of Port-au-Prince until further notice. Gang violence has affected travel across Port-au-Prince, including to and from the airport. A State of Emergency is in place countrywide in response to gang violence. The security situation remains volatile. Violent crime is common, including murder, armed robbery, kidnapping, assault, sexual assault and carjacking. Air, land and sea borders between Haiti and the Dominican Republic are closed. Airports are open but can be difficult to access due to the highly volatile security situation. You should consider leaving the country if it's safe to do so.
+We continue to advise do not travel to Haiti. Toussaint-Louverture International Airport has resumed operations, but many airlines have suspended flights in and out of Port-au-Prince until further notice. Gang violence has affected travel across Port-au-Prince, including to and from the airport. A State of Emergency is in place countrywide in response to gang violence. The security situation remains volatile. Violent crime is common, including murder, armed robbery, kidnapping, assault, sexual assault and carjacking. Air, land and sea borders between Haiti and the Dominican Republic are closed. Airports are open but can be difficult to access due to the highly volatile security situation. You should consider leaving the country if it's safe to do so.
 
 Advice Level summary
 

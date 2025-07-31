@@ -2,9 +2,9 @@
 
 Latest update
 
-Due to the ongoing armed conflict along the Thailand-Cambodia border, we now advise do not travel to areas within 50 kilometres of the Thailand-Cambodia land border throughout the provinces of Buriram, Si Saket, Sa Kaeo, Surin, Ubon Ratchathani, Chanthaburi and mainland Trat. Follow the advice of local authorities, including when navigating maritime areas near the maritime borders (see 'Safety').  
+A ceasefire has been agreed between Thailand and Cambodia but the security situation along the Thailand-Cambodia border remains unpredictable.  
   
-Armed conflict between Thai and Cambodian forces along the Thailand-Cambodia border has increased. This includes military strikes, violence and landmines near the border areas of Buriram, Si Saket, Sa Kaeo, Surin, Ubon Ratchathani, Chanthaburi and mainland Trat provinces. There are reports of casualties. Martial law has been declared in some districts in these provinces. Follow the advice of local authorities, monitor local media for updates and pay close attention to your personal security. Border crossing points along the Thailand-Cambodia border continue to be closed.  
+Due to the recent armed conflict along the Thailand-Cambodia border which included military strikes and violence, and the presence of landmines, we continue to advise do not travel to areas within 50 kilometres of the Thailand-Cambodia land border throughout the provinces of Buriram, Si Saket, Sa Kaeo, Surin, Ubon Ratchathani, Chanthaburi and mainland Trat. Follow the advice of local authorities, monitor local media for updates and pay close attention to your personal security (see 'Safety').  
   
 There's an ongoing risk of terrorism in Thailand. Popular tourist areas may be the target of terrorist attacks anywhere across Thailand, including Bangkok and Phuket (see 'Safety').
 
@@ -26,7 +26,7 @@ Higher levels apply in some areas.
 
 [Do not travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level4) to areas within 50 kilometres of the Thailand-Cambodia land border throughout the provinces of Buriram, Si Saket, Sa Kaeo, Surin, Ubon Ratchathani, Chanthaburi and mainland Trat.
 
-[Do not travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level4) to areas within 50 kilometres of the Thailand-Cambodia land border throughout the provinces of Buriram, Si Saket, Sa Kaeo, Surin, Ubon Ratchathani, Chanthaburi and mainland Trat, due to armed conflict in the area.
+[Do not travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level4) to areas within 50 kilometres of the Thailand-Cambodia land border throughout the provinces of Buriram, Si Saket, Sa Kaeo, Surin, Ubon Ratchathani, Chanthaburi and mainland Trat, due to the risk of armed conflict in the area.
 
 See [Safety](#safety).
 
@@ -46,9 +46,9 @@ See [Safety](#safety).
 
 ### Safety
 
-* Due to the ongoing armed conflict along the Thailand-Cambodia border, we now advise do not travel to areas within 50 kilometres of the Thailand-Cambodia land border throughout the provinces of Buriram, Si Saket, Sa Kaeo, Surin, Ubon Ratchathani, Chanthaburi and mainland Trat. Follow the advice of local authorities, including when navigating maritime areas near the maritime borders.
-* Armed conflict between Thai and Cambodian forces along the Thai-Cambodian border has increased. This includes military strikes, violence and landmines in the border areas of Buriram, Si Saket, Surin and Ubon Ratchathani provinces. Follow the advice of local authorities and pay close attention to your personal security.
-* All border crossing points along the Thailand-Cambodia border are currently closed. Monitor local media for updates and follow the advice of local authorities.
+* A ceasefire has been agreed between Thailand and Cambodia, but the security situation along the Thailand-Cambodia border remains unpredictable.
+* Due to the recent armed conflict along the Thailand-Cambodia border which included military strikes and violence, and the presence of landmines, we continue to advise do not travel to areas within 50 kilometres of the Thailand-Cambodia land border throughout the provinces of Buriram, Si Saket, Sa Kaeo, Surin, Ubon Ratchathani, Chanthaburi and mainland Trat.
+* All border crossing points along the Thailand-Cambodia border are currently closed. Follow the advice of local authorities, monitor local media for updates and pay close attention to your personal security.
 * There's an ongoing risk of terrorist attacks in Thailand. Popular tourist areas may be the target of terrorist attacks anywhere across Thailand, including Bangkok and Phuket. Phuket International Airport has increased security measures and passengers should arrive early for their flight. This follows the recent discovery of an explosive device near the airport. Thai authorities also defused devices in Phuket, Krabi and Phang Nga and made arrests. Coordinated attacks have occurred in the southern provinces. The ongoing conflict in the Middle East could lead to an increased threat of attacks against Israeli interests in other regions. Be alert to possible threats. Take official warnings seriously and follow the advice of local authorities.
 * Anti-government protests have previously occurred in Bangkok and other areas of Thailand. There may be further protests in the future. The security environment can be unpredictable and turn violent. Those attending protests can face arrest or other legal consequences. Monitor local media for information on protest locations and avoid public gatherings.
 * Road accidents are a significant cause of injury. Be alert at all times on the roads, including wearing helmets on motorcycles and motorcycle taxis.

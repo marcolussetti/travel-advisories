@@ -46,6 +46,7 @@ If you need consular assistance, contact the Australian Embassy in Rome, Italy.
 
 Via Antonio Bosio 5   
 00161 Rome, Italy  
+  
 Phone: +39 06 85 2721   
 Email: [consular-rome@dfat.gov.au](mailto:consular-rome@dfat.gov.au)  
 Website: [italy.embassy.gov.au](http://www.italy.embassy.gov.au/)   

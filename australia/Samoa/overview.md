@@ -2,8 +2,6 @@
 
 Latest update
 
-There’s a Pacific wide tsunami warning in place following an M8.6 earthquake 60kms offshore from the Kamchatka peninsula, Russia. The warnings extend to some coastal areas of all Pacific islands. If you're in the affected area, move to higher ground immediately. If there's an official evacuation warning, follow the advice of local authorities. Monitor media for updates. Read our general information on what to do if there’s a tsunami (see ‘Safety’).  
-  
 Samoa’s Ministry of Health has declared a dengue outbreak. Protect yourself against mosquito bites and use insect repellent (see 'Health').  
   
 We continue to advise exercise normal safety precautions in Samoa.
@@ -26,7 +24,6 @@ Exercise normal safety precautions in Samoa.
 
 ### Safety
 
-* There’s a Pacific wide tsunami warning in place following an M8.6 earthquake 60kms offshore from the Kamchatka peninsula, Russia. The warnings extend to some coastal areas of all Pacific islands. If you're in the affected area, move to higher ground immediately. If there's an official evacuation warning, follow the advice of local authorities. Monitor media for updates. Read our general information on what to do if there’s a tsunami. See our advice on what to do during an [earthquake or tsunami](/node/345).
 * Crimes include robbery, assault, theft and break-ins. Avoid going out alone at night, especially in downtown Apia and harbour-front areas.
 * Cyclone season is November to April, but storms occur year-round. They can cause flooding and disrupt services. Know your hotel or cruise ship's evacuation plan. Find out where your local shelter is. Further information on severe weather and what to do can be found at [Severe weather incident overseas](https://www.smartraveller.gov.au/while-youre-away/crisis-or-emergency/severe-weather-incident)
 * Earthquakes and aftershocks happen often. Ask your host or hotel about what to do if there's an earthquake. Samoa can experience tsunamis. Know the warning signs and move immediately to high ground. Don't wait for official alerts.

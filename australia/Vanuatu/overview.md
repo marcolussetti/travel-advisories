@@ -2,8 +2,6 @@
 
 Latest update
 
-There’s a Pacific wide tsunami warning in place following an M8.6 earthquake 60kms offshore from the Kamchatka peninsula, Russia. The warnings extend to some coastal areas of all Pacific islands. If you're in the affected area, move to higher ground immediately. If there's an official evacuation warning, follow the advice of local authorities. Monitor media for updates. Read our general information on what to do if there’s a tsunami (see 'Safety').  
-  
 A 7.2-magnitude earthquake struck Port Vila on 17 December 2024, causing damage to infrastructure, including roads and buildings. Parts of the CBD remain closed for safety reasons while demolition of damaged buildings continue. Port Vila's cruise ship terminal remains cut off due to a landslide which is still to be cleared. Follow the advice of local authorities.  
   
 Many hotels and tourism operators are open for business, but some have been significantly impacted by the earthquake and are temporarily closed or have relocated.
@@ -26,7 +24,6 @@ Exercise normal safety precautions in Vanuatu.
 
 ### Safety
 
-* There’s a Pacific wide tsunami warning in place following an M8.6 earthquake 60kms offshore from the Kamchatka peninsula, Russia. The warnings extend to some coastal areas of all Pacific islands. If you're in the affected area, move to higher ground immediately. If there's an official evacuation warning, follow the advice of local authorities. Monitor media for updates. Read our general information on what to do if there’s a tsunami (see 'Safety'). See our advice on what to do during an [earthquake or tsunami](/before-you-go/safety/earthquakes-tsunamis "Earthquakes and tsunamis").
 * A 7.2-magnitude earthquake struck Port Vila on 17 December 2024, causing damage to infrastructure, including roads and buildings. Parts of the CBD remain closed for safety reasons while demolition of damaged buildings continue. Port Vila's cruise ship terminal remains cut off due to a landslide which is still to be cleared. Follow the advice of local authorities.
 * The cyclone season is from November to April, but cyclones and tropical storms can sometimes occur outside this. Cyclones can disrupt services and cause property damage, injuries, and loss of life. In the event of a cyclone, check the [National Disaster Management Office](https://ndmo.gov.vu/) and [Vanuatu Meteorological and Geo-Hazards Department](https://www.vmgd.gov.vu/vmgd/index.php) websites.
 * Crime in Vanuatu is low. Crime tends to increase in the lead-up to holidays such as Independence Day (30 July) and Christmas. The risk is also higher at night or in isolated locations. Don't walk alone after dark.

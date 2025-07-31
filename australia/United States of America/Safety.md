@@ -102,8 +102,6 @@ If there's an attack, leave the affected area as soon as it's safe to do so.
 
 #### Climate and natural disasters
 
-Following the January 2025 fires in California, including in parts of Los Angeles, there is widespread infrastructure damage, including to roads and buildings. Recovery operations are underway. Monitor local media and follow the advice of local authorities.
-
 [Natural disasters](https://www.smartraveller.gov.au/before-you-go/safety/natural-disasters) and [severe weather](https://www.smartraveller.gov.au/node/347) events regularly impact the US. These include:
 
 * [wildfires](https://www.smartraveller.gov.au/before-you-go/safety/natural-disasters#bushfires)

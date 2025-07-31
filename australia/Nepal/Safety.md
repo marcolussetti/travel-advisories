@@ -2,7 +2,7 @@
 
 #### Civic unrest and political tension
 
-A small number of incidents involving Improvised Explosive Devices (IEDs) have occurred, often associated with political events, such as election periods. These attacks have caused deaths and serious injuries. Physical confrontations between rival political organisations can also occur.
+A small number of incidents involving low-yield Improvised Explosive Devices (IEDs) have occurred, often associated with political events, such as election periods. These attacks have caused deaths and serious injuries. Physical confrontations between rival political organisations can also occur.
 
 These incidents usually don't target travellers, but you could get caught up in violence aimed at others.
 
@@ -10,7 +10,7 @@ Threats have been made against religious organisations in Nepal. This includes s
 
 #### Demonstrations and protests
 
-Calls for political protests, strikes and demonstrations sometimes are common. Violent clashes between protesters and authorities can occur. Avoid visiting government buildings during political unrest.
+Calls for protests, strikes and demonstrations sometimes occur. Violent clashes between protesters and authorities can occur. Avoid visiting government buildings during political unrest.
 
 During strikes, authorities may enforce curfews at short notice in the areas that protests affect. This happens throughout Nepal.
 
@@ -31,13 +31,11 @@ To reduce your risks during strikes or other periods of unrest:
 
 **More information:**
 
-* [Demonstrations and civil unrest](/before-you-go/safety/protests-civil-unrest "Protests and civil unrest")
+* [Protests and civil unrest](/before-you-go/safety/protests-civil-unrest "Protests and civil unrest")
 
 #### Crime
 
-#### Petty crime
-
-Pickpocketing and petty theft are common, especially:
+Pickpocketing and petty theft may occur, especially:
 
 * at tourist sites and airports
 * on buses
@@ -56,24 +54,7 @@ To reduce your risk of petty crime:
 * never trek alone
 * If you're the victim of fraud or a scam, report it to local police immediately.
 
-#### Violent crime
-
 Travellers have been victims of [armed robberies](/before-you-go/safety/theft-robbery "Theft and robbery") and assaults, including [sexual assaults](/consular-services/resources/sexual-assault-overseas-factsheet "Fact sheet: Sexual assault overseas").
-
-Victims of sexual assault often have their drinks 'spiked' before the assault. This happens in popular areas of Kathmandu and Pokhara.
-
-Women are at particular risk, especially when alone and at night.
-
-To protect yourself from drink spiking:
-
-* never accept food, drinks, gum or cigarettes from strangers
-* don't leave drinks unattended
-* if you aren't sure if a drink is safe, leave it
-* stick with people you trust when you're out
-
-Get urgent medical help if you think you or a companion have had your drinks spiked.
-
-Be alert to the potential risks around drink spiking and methanol poisoning through consuming alcoholic drinks.  See our advice on [Partying safely](/before-you-go/safety/partying "Partying safely").
 
 #### Kidnapping
 
@@ -169,7 +150,7 @@ If proper safety equipment isn't available, use another provider.
 With conditions, foreign tourists are permitted to enter Nepal for mountain trekking and mountaineering. All foreigners require a permit for trekking and mountaineering. Solo foreign trekkers are required to have a licenced trekking guide. Trekking is managed through the Trekkers' Information Management System (TIMS) by:
 
 * [Trekking Agency Association of Nepal](http://www.taan.org.np/) (TAAN)
-* [Nepal Tourism Board (NTB)](https://www.tourismdepartment.gov.np/)
+* [Nepal Tourism Board (NTB)](https://ntb.gov.np/)
 
 All foreign trekkers must have a valid TIMS card. This includes those not travelling with organised groups.
 

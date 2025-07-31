@@ -6,7 +6,7 @@
 
 #### Visas
 
-You need a visa to enter Nepal. Visas-on-arrival are available but travellers should check with the nearest Nepal Embassy for details and conditions.  
+You need a visa to enter Nepal. Visas on arrival are available but travellers should check with the nearest Nepal Embassy for details and conditions.  
   
 You need a valid visa in your passport to leave Nepal.
 
@@ -22,11 +22,11 @@ If your visa has expired, extend it at the Department of Immigration before you 
 
 If you overstay your visa, authorities can detain you until you pay a fine. The amount of the fine is based on the number of days you overstayed.
 
-Entry and exit conditions can change at short notice. Contact the nearest [embassy or consulate](http://au.nepalembassy.gov.np/contact/) for details about visas, currency, customs and quarantine rules.
+Entry and exit conditions can change at short notice. Contact the nearest [embassy or consulate](https://au.nepalembassy.gov.np/) for details about visas, currency, customs and quarantine rules.
 
 #### Border measures
 
-Some of Nepal’s land border checkpoints are open to foreign nationals. Contact an [embassy or consulate of Nepal](http://au.nepalembassy.gov.np/contact/) for details.
+Some of Nepal’s land border checkpoints are open to foreign nationals. Contact an [embassy or consulate](https://au.nepalembassy.gov.np/) of Nepal for details.
 
 #### Passport
 
@@ -147,8 +147,8 @@ Landslides and other disruptions can occur on the Mugling-Narayanghat highway, a
 
 Road travel can be disrupted due to:
 
+* roadworks and infrastructure projects
 * demonstrations and strikes
-* roadworks and infrastructure projects.
 
 Significant delays on major roads within cities and towns, as well as on highways, are common.
 
@@ -202,8 +202,6 @@ Women may be harassed, including sexually, on public buses.
 * [Transport and getting around safely](/before-you-go/getting-around/public-transport "Public transport")
 
 #### Air travel
-
-Kathmandu airport is operating at partially reduced hours due to construction activities. International and domestic flights could be disrupted and delayed. Before travelling, contact your tour operator or airline for updates.
 
 In normal circumstances, cancellations and delays are common, especially during:
 

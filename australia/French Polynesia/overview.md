@@ -2,7 +2,7 @@
 
 Latest update
 
-There’s a Pacific wide tsunami warning in place following an M8.6 earthquake 60kms offshore from the Kamchatka peninsula, Russia. The warnings extend to some coastal areas of all Pacific islands. If you're in the affected area, move to higher ground immediately. If there's an official evacuation warning, follow the advice of local authorities. Monitor media for updates. Read our general information on what to do if there’s a tsunami (see 'Safety').
+Beaches in French Polynesia are not patrolled. There may be strong currents, even in the lagoons, ask locals before going swimming, obey warning signs and follow the advice of local authorities (see 'Safety').
 
 Advice Level summary
 
@@ -22,7 +22,6 @@ Exercise normal safety precautions in French Polynesia.
 
 ### Safety
 
-* There’s a Pacific wide tsunami warning in place following an M8.6 earthquake 60kms offshore from the Kamchatka peninsula, Russia. The warnings extend to some coastal areas of all Pacific islands. If you're in the affected area, move to higher ground immediately. If there's an official evacuation warning, follow the advice of local authorities. Monitor media for updates. See our advice on what to do during an [earthquake and tsunami](https://www.smartraveller.gov.au/before-you-go/safety/earthquakes-tsunamis?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExZGhvZDJKb0hKVktCVWN0VQEe2PVnYkK2sSjt2KhoSjyJtC4P4liM_2E7C-Nj5aqQWtNOzEdqEvTUG048kWQ_aem_TBi5IrN1X86X4ehe6WAHIA).
 * The rate of serious crime is low. But petty crime, including theft, does occur. Take arranged transport and avoid walking after dark. Keep your belongings close, especially in crowded places or on the beach. Don't leave food or drink unattended.
 * French Polynesia has natural disasters, including cyclones and tsunamis. Check with the [High Commission of France in French Polynesia (French)](http://www.polynesie-francaise.pref.gouv.fr/) for updates. They also run a phone hotline during major emergencies. Your tour operator or accommodation provider may also be able to provide timely advice.
 * Strikes and industrial disputes can lead to unrest and disrupt essential services, including transport links. Protests can turn violent. Avoid large public gatherings.

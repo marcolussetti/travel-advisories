@@ -2,9 +2,9 @@
 
 Latest update
 
-We now advise do not travel to areas within 50 kilometres of the Thailand-Cambodia border due to the ongoing armed conflict.  
+A ceasefire has been agreed between Cambodia and Thailand but the security situation along the Cambodia-Thailand border remains unpredictable.  
   
-Armed conflict between Thai and Cambodian military forces along the Thailand-Cambodia border has increased. This includes military strikes, violence and landmines in the border areas. Follow the advice of local authorities, monitor local media for updates and pay close attention to your personal security. Land border crossing points along the Thailand-Cambodia border remain closed (see ‘Safety’ and ‘Travel’).  
+Due to the recent armed conflict along the Cambodia-Thailand border which included military strikes and violence, and the presence of landmines, we continue to advise do not travel to areas within 50 kilometres of the Cambodia-Thailand border. Follow the advice of local authorities, monitor local media for updates and pay close attention to your personal security. Land border crossing points along the Cambodia-Thailand border remain closed (see ‘Safety’ and ‘Travel’).  
   
 You'll need a valid visa to travel to Cambodia. If you stay longer than your visa allows, officials may stop you from leaving Cambodia. In cases of excessive overstays, you may be arrested and detained for violating immigration laws (see 'Travel'). Laws in Cambodia, including those related to incitement and defamation, can be broadly defined and applied (see 'Local Laws').
 
@@ -24,16 +24,15 @@ Higher levels apply in some areas.
 
 [Exercise normal safety precautions](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level1) in Cambodia.
 
-[Do not travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level4) to areas within 50 kilometres of the Thailand-Cambodia border.
+[Do not travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level4) to areas within 50 kilometres of the Cambodia-Thailand border.
 
-[Do not travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level4) to areas within 50 kilometres of the Thailand-Cambodia border due to ongoing armed conflict.
+[Do not travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level4) to areas within 50 kilometres of the Cambodia-Thailand border due to the risk of armed conflict.
 
 ## Overview
 
 ### Safety
 
-* We now advise do not travel to areas within 50 kilometres of the Thailand-Cambodia border due to the ongoing armed conflict.
-* Armed conflict between Thai and Cambodian military forces along the Thailand-Cambodia border has increased. This includes military strikes, violence and the use of landmines in the border areas. Follow the advice of local authorities, monitor local media for updates and pay close attention to your personal security.
+* A ceasefire has been agreed between Cambodia and Thailand but the security situation along the Cambodia-Thailand border remains unpredictable. Due to the recent armed conflict along the Cambodia-Thailand border which included military strikes and violence, and the presence of landmines, we continue to advise do not travel to areas within 50 kilometres of the Cambodia-Thailand border. Follow the advice of local authorities, monitor local media for updates and pay close attention to your personal security.
 * Street crimes, particularly phone and bag snatchings, occur regularly. Thieves often travel on motorbikes and target pedestrians or people in open taxis. Be prepared to surrender your valuables rather than risk injury in a struggle. Significant celebrations (such as Khmer New Year) often attract large crowds and can lead to increased petty crime and more serious threats.
 * Sexual assault occurs in tourist areas. Travellers have been assaulted after having their drinks spiked. Be alert to the potential risks around drink spiking and methanol poisoning through consuming alcoholic drinks. Stay with people you trust, and don't leave your drinks unattended in nightclubs and bars. See our advice on [Partying safely while overseas](/before-you-go/safety/partying "Partying safely").
 * Many people in Cambodia own guns, and gun crime and shootouts are common. Explosions have also occurred. These incidents usually arise from commercial, personal or other disputes. They can and have occurred at a wide range of locations, including at popular tourist destinations.

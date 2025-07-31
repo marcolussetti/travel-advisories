@@ -2,7 +2,7 @@
 
 Latest update
 
-We've reviewed our advice for Guatemala and now advise reconsider your need to travel to border areas between Guatemala and Chiapas State in Mexico due to organised crime and drug-related violence. We continue to advise exercise a high degree of caution overall due to the threat of violent crime. Avoid protests and public gatherings. If you're in an affected area, you should leave as soon as it's safe to do so. Monitor local media and follow the advice of local authorities.
+We continue to advise exercise a high degree of caution in Guatemala overall due to the threat of violent crime. Higher levels apply in some areas. Avoid protests and public gatherings. If you're in an affected area, you should leave as soon as it's safe to do so. Monitor local media and follow the advice of local authorities.
 
 Advice Level summary
 
@@ -28,7 +28,6 @@ High levels apply in some areas.
 
 ### Safety
 
-* We now advise reconsider your need to travel to border areas between Guatemala and Chiapas State in Mexico due to organised crime and drug-related violence.
 * Avoid demonstrations and public gatherings. Leave affected areas as soon as it's safe to (see 'Civil unrest and political tension').
 * Violent crime, including murder, carjacking and kidnapping, is common. Risks increase at night. Take extra care after dark. Only use ATMs during daylight.
 * Border crossings have a high crime rate. Only cross during daylight hours. Allow enough time to reach a major city before dark.

@@ -54,7 +54,7 @@ Carry a copy of your prescription and a letter from your doctor stating:
 
 #### Air pollution
 
-Air quality in Nepal varies, especially in winter. Some towns, including Kathmandu, experience high levels of seasonal smog and pollution.
+Air quality in Nepal varies. Some areas, including Kathmandu, experience high levels of seasonal smog and pollution, especially from February to April.
 
 Get medical advice if you're worried about air pollution.
 

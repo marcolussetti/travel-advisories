@@ -89,7 +89,14 @@ Monitor local media for updates.
 
 #### Forest fires
 
-[Forest fires](/while-youre-away/crisis-or-emergency/bushfire "There's a bushfire") often occur during dry and hot weather, usually from April to October. Forest fires can be unpredictable and dangerous. Smoke from fires can reduce air quality and can be harmful to your health.
+[Forest fires](/while-youre-away/crisis-or-emergency/bushfire "There's a bushfire") occur during dry and hot weather, usually from April to October. Forest fires can be unpredictable and dangerous. Smoke from fires can reduce air quality and can be harmful to your health.
+
+If you find yourself in an area that's threatened by a fire front:
+
+* Track the progress of the fire in the local media.
+* Follow the advice and instructions of local authorities at all times.
+* Identify your local emergency shelter.
+* If you have medication for breathing difficulties, keep it on you at all times.
 
 Causing a wildfire or a forest fire is a criminal offence in Albania. Penalties could result from fines to imprisonment.
 
@@ -128,3 +135,20 @@ Mountain activities, such as hiking and rock climbing, can be dangerous, especia
 **More information:**
 
 * [Going overseas for adventure](/before-you-go/activities/adventure "Going overseas for sports and adventure")
+
+#### Water activities
+
+Water activities, such as jet skiing, boating and parasailing, can be dangerous. Transport and tour operators don't always follow safety and maintenance standards.
+
+If you are planning to spend time in or on the water:
+
+* check if your travel insurance policy covers water sports
+* only use reputable marine tourism businesses that comply with the safety regulations
+* always use available safety gear, such as life jackets or seat belts
+* don't overload your vessel capacity
+* don't drink alcohol, alcohol affects your judgement, balance and coordination.
+* follow the advice of local authorities
+
+**More information:**
+
+* [Water safety while travelling overseas](/news-and-updates/water-safety "Water safety while travelling overseas")

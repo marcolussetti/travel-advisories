@@ -285,12 +285,12 @@ Information on tourism, road conditions and emergency regional assistance is ava
 
 Kenya can experience [natural disasters](/before-you-go/safety/natural-disasters "Staying safe when there's a natural disaster") and [severe weather](/while-youre-away/crisis-or-emergency/severe-weather-incident "There's a severe weather incident"), including:
 
-* flash flooding
-* mudslides
-* drought
 * [earthquakes](/before-you-go/safety/earthquakes-tsunamis "Earthquakes and tsunamis")
 * [volcanic activity](/before-you-go/safety/natural-disasters "Staying safe when there's a natural disaster")
 * [tsunamis](/before-you-go/safety/natural-disasters "Staying safe when there's a natural disaster")
+* flash flooding
+* mudslides
+* drought
 
 If a natural disaster occurs:
 

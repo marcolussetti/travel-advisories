@@ -4,7 +4,9 @@
 
 #### Cambodia-Thailand border
 
-Armed conflict between Thai and Cambodian military forces along the Thailand-Cambodia border has increased. This includes military strikes, violence and landmines. Follow the advice of local authorities, monitor local media for updates and pay close attention to your personal security.
+A ceasefire has been agreed between Cambodia and Thailand but the security situation along the Cambodia-Thailand border remains unpredictable.
+
+Due to the recent armed conflict along the Cambodia-Thailand border which included military strikes and violence, and the presence of landmines, we continue to advise do not travel to areas within 50 kilometres of the Cambodia-Thailand border. Follow the advice of local authorities, monitor local media for updates and pay close attention to your personal security.
 
 #### Public protests and events
 

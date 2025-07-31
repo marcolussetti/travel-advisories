@@ -32,7 +32,7 @@ If you have immediate concerns for your welfare or the welfare of another Austra
 **More information:**
 
 * [General health advice](/node/43)
-* [Healthy holiday tips](https://www.healthdirect.gov.au/healthy-holiday-tips-infographic) (Healthdirect Australia)
+* [Healthy holiday tips](https://www.healthdirect.gov.au/healthy-holiday-tips-infographic)
 
 #### Medications
 
@@ -59,7 +59,7 @@ Ticks in forests and country areas can carry encephalitis. Ticks are active from
 Diseases spread by sandflies are common in coastal regions. Sandflies can carry:
 
 * sandfly fever
-* [leishmaniasis](https://www.who.int/news-room/fact-sheets/detail/leishmaniasis) (World Health Organisation)
+* [leishmaniasis](https://www.who.int/news-room/fact-sheets/detail/leishmaniasis)
 
 To protect yourself from disease:
 

@@ -2,7 +2,7 @@
 
 Latest update
 
-On 30 July, a magnitude 8.6 earthquake occurred approximately 60 km offshore from the southern tip of the Kamchatka peninsula, Russia, with a depth of 50 km. A tsunami is possible along the eastern coast of Japan with a height of up to 3 metres. Move to higher ground immediately. If there's an official evacuation warning, immediately follow the advice of local authorities.
+We've reviewed our advice for Japan and continue to advise exercise normal safety precautions. Australians are eligible for Japan's visa exemption scheme for short-stay tourism and business travel. Currently, you don't need a visa to travel to Japan for up to 90 days but entry and exit conditions can change at short notice. It is your responsibility to verify visa requirements from the nearest embassy or consulate of Japan.
 
 Advice Level summary
 
@@ -28,7 +28,6 @@ Higher levels apply in some areas.
 
 ### Safety
 
-* On 30 July, a magnitude 8.6 earthquake occurred approximately 60 km offshore from the southern tip of the Kamchatka peninsula, Russia, with a depth of 50 km. A tsunami is possible along the eastern coast of Japan with a height of up to 3 metres. Move to higher ground immediately. If there's an official evacuation warning, immediately follow the advice of local authorities.
 * Japan is prone to earthquakes and tsunamis. Japanese authorities have detailed plans to respond to natural disasters. In an emergency, follow the advice of local authorities and emergency signage. Move to higher ground immediately if you're in a coastal region after a major earthquake. Check the [Disaster Prevention Portal](https://www.mlit.go.jp/river/bousai/olympic/en/helpful03/index.html) for more information.
 * All major disaster warnings are published by the [Japan Meteorological Agency](https://www.data.jma.go.jp/multi/index.html?lang=en) (JMA). We recommend downloading [NHK’s smart phone application](https://www3.nhk.or.jp/nhkworld/en/app/) to keep up to date with a natural disaster or other emergency alerts.
 * A series of earthquakes occurred in Ishikawa Prefecture in Central Japan on and after 1 January 2024. Some infrastructure may remain impacted. Follow the advice of local authorities if travelling to affected areas.

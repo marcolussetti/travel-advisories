@@ -2,7 +2,7 @@
 
 Latest update
 
-We continue to advise exercise a high degree of caution in Albania. Mountain activities, such as hiking and rock climbing, can be dangerous (see ‘Safety’).
+We've reviewed our advice for Albania and continue to advise exercise a high degree of caution. Water activities, such as jet skiing or boating, can be dangerous. Extreme temperatures and wildfires occur from April to October. Avoid affected areas, follow the advice of local authorities and monitor local media for up-to-date information (see ‘Safety’).
 
 Advice Level summary
 
@@ -25,8 +25,8 @@ Exercise a high degree of caution in Albania due to limited healthcare options.
 * Terrorism is a threat worldwide. Terrorists have targeted European cities, including transport hubs and tourist locations. Take official warnings seriously.
 * Political protests could take place in central Tirana. Most demonstrations are peaceful, but they can turn violent. Monitor local media for the latest updates.
 * Theft from vehicles is common. Petty crime occurs. Take care of your belongings on public transport.
-* Severe weather occurs from December to February and may cause flooding, particularly in northern Albania. Monitor the local media and stay in touch with friends and family.
-* Mountain activities, such as hiking and rock climbing, can be dangerous, especially if you're unprepared. Trails aren't always marked, and weather conditions can change rapidly, even in summer. You should hire an experienced guide from a reputable company. Never hike alone.
+* Severe weather occurs from December to February and may cause flooding, particularly in northern Albania. Extreme temperatures and wildfires occur from April to October during the extended summer period. Fires can start with little warning and spread quickly. Avoid affected areas.
+* Adventure activities, such as hiking, rock climbing, jet skiing, boating and parasailing, can be dangerous, especially if you're unprepared. Tour operators don't always follow safety and maintenance standards. Trails aren't always marked, and weather conditions can change rapidly. You should hire an experienced guide from a reputable company. Check your travel insurance policy covers your activity and always use available safety gear.
 
 Full travel advice: [Safety](#safety)
 

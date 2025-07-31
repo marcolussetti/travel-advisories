@@ -78,9 +78,9 @@ Social media can also be risky in destinations where there are social or politic
 
 #### Civil unrest and political tension
 
-Demonstrations could take place and become violent. Avoid large gatherings and political rallies. Follow the instructions of local authorities.
+Demonstrations are ongoing in Luanda and other provinces. There's reports of civil disorder and violence resulting deaths and injuries.
 
-Civil unrest, public protests and events that draw large groups of people can turn violent.
+Civil unrest, public protests and events that draw large groups of people can turn violent. Avoid areas affected by protests, demonstrations or large public gatherings.
 
 Hotspots for civil unrest include:
 
@@ -98,7 +98,7 @@ Armed gangs have attacked foreigners outside Cabinda city. They have warned that
 
 Lunda Norte and Lunda Sul provinces are diamond-mining areas. There's potential for civil unrest and associated crime. Violence against foreigners does occur in these provinces.
 
-To protect yourself during unrest, avoid protests and large public gatherings.
+To protect yourself during unrest, avoid protests and large public gatherings. Monitor media for updates and follow advice from local authorities.
 
 **More information:**
 
