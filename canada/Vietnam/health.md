@@ -185,6 +185,21 @@ Dengue
 [Dengue](https://www.canada.ca/en/public-health/services/infectious-diseases/viral-haemorrhagic-fevers/dengue-fever.html)  
 [Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)
 
+Zika virus 
+
+[Zika virus](https://www.canada.ca/en/public-health/services/diseases/zika-virus.html) is a risk in this country.
+
+Zika virus is primarily spread through the bite of an infected mosquito. It can also be sexually transmitted. Zika virus can cause serious birth defects.
+
+During your trip:
+
+* [Prevent mosquito bites](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html) at all times.
+* Use condoms correctly or avoid sexual contact, particularly if you are pregnant.
+
+If you are pregnant or planning a pregnancy, you should discuss the potential risks of travelling to this destination with your health care provider. You may choose to avoid or postpone travel.
+
+For more information, see [Zika virus: Pregnant or planning a pregnancy.](https://www.canada.ca/en/public-health/services/diseases/zika-virus/pregnant-planning-pregnancy.html)
+
 ### Animal precautions
 
 Some infections can spread directly from animals to people, like rabies or bird flu (avian influenza). Others don’t spread directly from animals but can infect people who visit areas animals have contaminated with their droppings or body fluids.

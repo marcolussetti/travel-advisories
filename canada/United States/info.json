@@ -1,7 +1,7 @@
 {
     "name": "United States",
-    "update_reason": "Natural disasters and climate \u2013 added information on tsunami warnings and advisories for the Alaskan Peninsula, Hawaii and the west coast from the Mexican border to the Canadian border",
-    "update_date": "2025-07-29T22:23:00",
+    "update_reason": "Natural disasters and climate \u2013 updated information on tsunami advisories for California",
+    "update_date": "2025-07-30T16:04:00",
     "sections": {
         "risk": "canada/United States/risk.md",
         "security": "canada/United States/security.md",

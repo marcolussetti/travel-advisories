@@ -49,20 +49,18 @@ Do not travel to Yemen. If you choose to travel to Yemen, or remain in the count
 
 ### Regional conflicts
 
-Since November 2023, rebels regularly conduct attacks against commercial vessels in the Red Sea with drones and missiles. In response, since January 2024, a US-led coalition has conducted air strikes on rebel-controlled positions in western and northern Yemen, including the cities of Hajjah, Taiz, Hodeidah and Sanaa.
+Since November 2023, terrorist entities in Yemen have conducted drone and missile attacks against commercial vessels in the Red Sea, and further strikes on Israeli territory.
 
-The rebels have also conducted rockets, drones and missiles attacks on Israeli territory,  leading to retaliatory airstrikes in Yemen.
+These attacks have prompted retaliatory airstrikes against terrorist positions in western and northern Yemen by Israel and the United States, including in Hajjah, Taiz, Hodeidah, and Sanaa, causing significant damage to infrastructure, such as:
 
-Israeli airstrikes have caused casualties and targeted infrastructure, including:
-
-* the Sanaa International Airport
+* Sanaa International Airport
 * ports
 * power stations
 * oil terminals
 
-During the civil war between rebels and government forces, armed rebels in Yemen have targeted neighbouring countries, such as Saudi Arabia and the United Arab Emirates, in retaliation for their involvement in the war in Yemen. The April 2022 truce significantly reduced the violence in the country and in the region, but there is still no agreement to end the civil war. There is a continued risk of internal armed conflict and a heightened risk of attacks targeting western interests in Yemen and in the region.
+Throughout the conflict in Yemen, militant groups have attacked civilian and military targets in neighbouring countries such as Saudi Arabia and the United Arab Emirates. A UN-brokered truce reached in 2022 significantly reduced violence in the country and led to a decrease in cross-border attacks. However, there is still no comprehensive agreement in place to end the war. There is a continued risk of internal armed conflict and a heightened risk of attacks by non-state actors targeting Western interests in Yemen and in the region.
 
-Due to security risks, the Government of Canada cannot provide assistance to citizens trying to leave Yemen by land to Saudi Arabia.
+Due to security risks, the Government of Canada cannot provide assistance to citizens trying to leave Yemen by land for Saudi Arabia.
 
 ### Terrorism
 

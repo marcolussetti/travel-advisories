@@ -49,14 +49,6 @@ Travellers get vaccinated either because it is required to enter a country or be
 
 [Yellow Fever Vaccination Centres in Canada]( https://www.canada.ca/en/public-health/services/travel-health/yellow-fever.html#select-centre)
 
-Rabies 
-
-In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/diseases/rabies) may be present in some wildlife species, including bats. Rabies is a deadly disease that spreads to humans primarily through bites or scratches from an infected animal.
-
-If you are bitten or scratched by an animal while travelling, immediately wash the wound with soap and clean water and see a health care professional.
-
-Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who will be working directly with wildlife.
-
 Measles 
 
 Measles is a serious viral infection that spreads easily. It spreads through the air, and can stay in the air for up to 2 hours. You can also get measles by direct contact with an infected person or by touching a surface with the virus on it and then touching your eyes, nose, or mouth before washing your hands.
@@ -100,6 +92,14 @@ In addition to vaccination, use personal protective measures to help protect you
 [Vaccine for COVID-19: How to get vaccinated](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/vaccines/how-vaccinated.html)  
 [COVID-19: Spread, prevention and risks](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html#p)
 
+Rabies 
+
+In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/diseases/rabies) may be present in some wildlife species, including bats. Rabies is a deadly disease that spreads to humans primarily through bites or scratches from an infected animal.
+
+If you are bitten or scratched by an animal while travelling, immediately wash the wound with soap and clean water and see a health care professional.
+
+Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who will be working directly with wildlife.
+
 ### Safe food and water precautions
 
 Eating or drinking unsafe food or water, or swimming in contaminated water can make you sick while travelling. Take precautions by following these tips:
@@ -131,7 +131,7 @@ Zika virus
 
 Zika virus is primarily spread through the bite of an infected mosquito. It can also be sexually transmitted. Zika virus can cause serious birth defects.
 
-Visit the Centers for Disease Control and Prevention’s webpage [Areas at Risk for Zika](https://www.cdc.gov/zika/geo/index.html)  for the most up-to-date information on Zika risk in the United States.
+Visit the Centers for Disease Control and Prevention’s webpage [Zika cases in the United](https://www.cdc.gov/zika/zika-cases-us/index.html) for the most up-to-date information on Zika risk in the United States.
 
 During your trip to a Zika risk area:
 

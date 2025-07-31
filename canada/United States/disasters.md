@@ -2,15 +2,7 @@
 
 ## Natural disasters and climate
 
-Tsunami warnings are in effect for:
-
-* the Alaska Peninsula from Attu to Samalga Pass, Alaska (50 km southwest of Nikolski)
-* Hawaii
-
-Tsunami advisories are in effect for:
-
-* the Alaskan Peninsula from Samalga Pass to Chignik Bay, Alaska
-* the west coast from the US/Mexico border to the US/Canada border
+Tsunami advisories are in effect for California, the coast from Rincon Point to Ragged Point and the coast from Humboldt/Del Norte Line to the border between Oregon and California
 
 If you’re in or around the affected areas, follow the instructions of local authorities and monitor local news for information on the tsunami’s progress.
 
