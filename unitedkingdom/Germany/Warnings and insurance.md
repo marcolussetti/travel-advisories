@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   9 July 2025
+:   31 July 2025
 
 Updated:
-:   8 July 2025
+:   30 July 2025
 
 Latest update:
-:   Information on checkpoints introduced on the Germany-Poland border (‘Entry requirements’ page).
+:   Updated information on new Schengen entry requirements being introduced from 12 October ('Entry requirements' page)
 
 ## Before you travel
 

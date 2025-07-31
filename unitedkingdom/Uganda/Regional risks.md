@@ -4,6 +4,12 @@ This section has safety advice for regions of Uganda. It only covers regions whe
 
 You should also read [FCDO’s overall travel advice](/foreign-travel-advice/uganda/warnings-and-insurance) and [safety and security advice](/foreign-travel-advice/uganda/safety-and-security).
 
+## Kampala
+
+Kampala is a busy capital, take the same precautions as you would in the UK. See [Safety and Security](https://www.gov.uk/foreign-travel-advice/uganda/safety-and-security) for general risks.
+
+In June 2025, two security operations took place in Kampala. On 3 June, there was an explosion near the Catholic Basilica in the Munyonyo area. On 22 June, security forces killed one person in a security operation in Kalerwe Market.
+
 ## Uganda-DRC border
 
 ### Western Uganda

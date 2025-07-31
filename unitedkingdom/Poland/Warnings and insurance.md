@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   17 July 2025
+:   31 July 2025
 
 Updated:
-:   16 July 2025
+:   30 July 2025
 
 Latest update:
-:   This page has been checked for style and accuracy, with minor edits throughout and the addition of new information on the risks from extreme weather and natural disasters (‘Safety and security’ page).
+:   Updated information on new Schengen entry requirements being introduced from 12 October ('Entry requirements' page).
 
 ## Ukraine-Poland border
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   16 May 2025
+:   31 July 2025
 
 Updated:
-:   15 May 2025
+:   30 July 2025
 
 Latest update:
-:   Updated information on volcanic eruptions (‘Safety and security’ page).
+:   Earthquake and Tsunami warning - regional update ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/627a68268fa8f57d82837b34/FCDO__TA__063_-_Papua_New_Guinea_Ed1__WEB_.jpg)
 
@@ -16,8 +16,6 @@ Latest update:
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth and Development Office (FCDO).
 
-There was a 6.9 magnitude earthquake in the New Britain Region, Papua New Guinea at 06:04:39 local time, 5 Apr 2025. The advice is to follow emergency instructions from local authorities.
-
 ## Areas where FCDO advises against all but essential travel
 
 ### Hela and Southern Highlands provinces
@@ -25,6 +23,12 @@ There was a 6.9 magnitude earthquake in the New Britain Region, Papua New Guinea
 FCDO advises against all but essential travel to Hela and Southern Highlands provinces due to the high risk of tribal fighting.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/papua-new-guinea/regional-risks).
+
+## Earthquake in the Kamchatka Peninsular Region
+
+An earthquake with a preliminary magnitude of 8.8 has struck the eastern coast of Russia in the Kamchatka Peninsula region. A tsunami threat message has been issued by the Pacific Tsunami Warning Centre.
+
+If you are in the affected areas potentially affected by the earthquake or tsunami you should follow the advice of the local authorities.
 
 ## Before you travel
 

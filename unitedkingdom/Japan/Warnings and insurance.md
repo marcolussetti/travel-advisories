@@ -1,17 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   30 July 2025
+:   31 July 2025
 
 Updated:
-:   30 July 2025
+:   31 July 2025
 
 Latest update:
-:   Earthquake and Tsunami warning
+:   Updated information on tsunami warnings following 8.8 earthquake (Warnings and insurance)
 
 ## Earthquake in the Kamchatka Peninsular Region
 
-Following the magnitude 8.8 earthquake off of the eastern coast of Russia, the Japanese Meteorological Agency has issued tsunami warnings of up to three meters along Japan’s Pacific coast from Hokkaido to Wakayama.
+Following the magnitude 8.8 earthquake off the eastern coast of Russia on 30 July, the Japanese Meteorological Agency has revised all tsunami warnings for parts of Hokkaido Prefecture and the Tohoku region to lower level tsunami advisories. Tsunami advisories remain in place for Japan’s coast from Hokkaido to Okinawa.
 
 Please follow the advice of local authorities. For further information in English, please access the [NHK website](https://www3.nhk.or.jp/nhkworld/en/news/)
 

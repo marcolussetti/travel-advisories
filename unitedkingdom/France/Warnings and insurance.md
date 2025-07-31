@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 July 2025
+:   31 July 2025
 
 Updated:
-:   10 July 2025
+:   30 July 2025
 
 Latest update:
-:   Removal of information on potential travel disruption due to wildfires closing Marseille Airport on 8 July ('Safety and security' page).
+:   Updated information on new Schengen entry requirements being introduced from 12 October ('Entry requirements' page).
 
 ## Before you travel
 

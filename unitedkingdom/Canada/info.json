@@ -1,11 +1,11 @@
 {
     "name": "Canada",
-    "update_reason": "Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs, including cannabis, when transiting through the airport ('Safety and security' page).",
+    "update_reason": "Addition of information regarding the Kamchatka earthquake",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Canada/Warnings and insurance.md",
-            "update_date": "2025-06-06T16:25:11+01:00"
+            "update_date": "2025-07-30T08:00:54+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Canada/Getting help.md"
         }
     ],
-    "update_date": "2025-06-06T16:25:11+01:00"
+    "update_date": "2025-07-30T08:00:54+01:00"
 }

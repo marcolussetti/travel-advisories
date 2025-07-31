@@ -35,22 +35,21 @@ There have been a series of terrorist attacks in areas of western Uganda near to
 
 Recent significant attacks include:
 
-* on 3 June 2025 there was an explosion near the Catholic Basilica in the Munyonyo area of Kampala
 * in December 2023, 10 people were killed in an attack on a bar and a farm in Kyabandara, and a further 3 people in an attack in Nyabitusi, in Kamwenge district near to Kibale forest
 * in October 2023, 2 tourists and their driver were killed by terrorists in Queen Elizabeth National Park
 * in June 2023, 42 people were killed in an attack on a school in Mpondwe, Kasese District, western Uganda, close to the border with the DRC
-* in 2022, the ADF carried out an attack in the vicinity of Bweramule Parish in Ntoroko District, on the border with DRC
 * in 2021, terrorists used 2 explosive devices in central Kampala killing 4 and injuring 33 people. The police disarmed 2 further explosive devices
-* in 2021, terrorists used an explosive device on a coach travelling on the Kampala to Masaka road near Mpigi killing one person
 * in 2021, terrorists used an explosive device to attack a restaurant in Komamboga, a suburb in the north-east of Kampala killing one person and injuring a number of others
 
 ## Political situation
+
+The next general elections are scheduled to be held in Uganda in 2026, on a date between 12 January and 9 February.
 
 Political rallies, protests and violent demonstrations in Uganda:
 
 * can happen anywhere without warning
 * can cause loss of life and injury
-* are more like around elections
+* are more likely around elections
 
 The police have used tear gas, rubber bullets and live ammunition to disperse demonstrators. Avoid all demonstrations and rallies where possible.
 

@@ -1,11 +1,11 @@
 {
     "name": "Turkmenistan",
-    "update_reason": "Clarification that you can get a visa on arrival at Ashgabat International Airport and some land borders (\u2018Entry requirements\u2019 page).",
+    "update_reason": "Updated information about transit visas and travelling through Turkmenistan by car (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Turkmenistan/Warnings and insurance.md",
-            "update_date": "2025-07-23T14:48:14+01:00"
+            "update_date": "2025-07-30T14:28:34+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Turkmenistan/Getting help.md"
         }
     ],
-    "update_date": "2025-07-23T14:48:14+01:00"
+    "update_date": "2025-07-30T14:28:34+01:00"
 }

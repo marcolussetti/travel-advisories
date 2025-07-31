@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   19 June 2025
+:   31 July 2025
 
 Updated:
-:   18 June 2025
+:   30 July 2025
 
 Latest update:
-:   New information about the UEFA Women's Euro 2025 campaign that will be taking place in Switzerland from 2 to 27 July (See ‘Women's Euro 2025’ page).
+:   Updated information on new Schengen entry requirements being introduced from 12 October ('Entry requirements' page).
 
 ## Women’s Euro 2025
 

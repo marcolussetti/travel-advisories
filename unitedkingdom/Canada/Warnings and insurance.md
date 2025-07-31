@@ -1,13 +1,19 @@
 # Warnings and insurance
 
 Still current at:
-:   7 June 2025
+:   31 July 2025
 
 Updated:
-:   6 June 2025
+:   30 July 2025
 
 Latest update:
-:   Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs, including cannabis, when transiting through the airport ('Safety and security' page).
+:   Addition of information regarding the Kamchatka earthquake
+
+## Earthquake in the Kamchatka Peninsular Region
+
+An earthquake with a preliminary magnitude of 8.8 has struck the eastern coast of Russia in the Kamchatka Peninsula region. A tsunami threat message has been issued by the Pacific Tsunami Warning Centre.
+
+If you are in the affected areas potentially affected by the earthquake or tsunami you should follow the advice of the local authorities.
 
 ## Before you travel
 

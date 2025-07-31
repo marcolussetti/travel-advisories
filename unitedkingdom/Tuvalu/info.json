@@ -1,11 +1,11 @@
 {
     "name": "Tuvalu",
-    "update_reason": "This travel advice has been rewritten to make it easier to read and understand.",
+    "update_reason": "Earthquake and Tsunami warning - regional update ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Tuvalu/Warnings and insurance.md",
-            "update_date": "2024-04-05T15:57:07+01:00"
+            "update_date": "2025-07-30T11:56:05+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Tuvalu/Getting help.md"
         }
     ],
-    "update_date": "2024-04-05T15:57:07+01:00"
+    "update_date": "2025-07-30T11:56:05+01:00"
 }

@@ -1,11 +1,11 @@
 {
     "name": "Peru",
-    "update_reason": "Earthquake and Tsunami warning - regional update ('Warnings and insurance' page).",
+    "update_reason": "Tsunami Alert following earthquake in the Kamchatka Peninsular Region. (See \u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Peru/Warnings and insurance.md",
-            "update_date": "2025-07-30T03:48:06+01:00"
+            "update_date": "2025-07-30T18:37:26+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Peru/Getting help.md"
         }
     ],
-    "update_date": "2025-07-30T03:48:06+01:00"
+    "update_date": "2025-07-30T18:37:26+01:00"
 }

@@ -28,7 +28,7 @@ The requirements for [working in Spain](https://www.gov.uk/guidance/travel-to-sp
 
 If you’re travelling to other Schengen countries as well, make sure your whole visit is within the 90-day visa-free limit. Visits to Schengen countries in the 180 days before you travel count towards your 90 days. If you overstay the 90-day visa-free limit, you may be banned from entering Schengen countries for up to 3 years.
 
-If you are visiting Spain and need to extend your visa-free stay for exceptional reasons, such as a medical emergency, you must [apply to the immigration authorities (‘Extranjería’)](https://www.inclusion.gob.es/web/migraciones/w/autorizacion-de-residencia-temporal-por-circunstancias-excepcionales-por-razones-humanitarias.-incluye-anexo-de-autorizacion-de-trabajo-hi-39-) (in Spanish).
+If you are visiting Spain and need to extend your visa-free stay for exceptional reasons, such as a medical emergency, you must [apply to the immigration authorities (‘Extranjería’)](https://sede.policia.gob.es/portalCiudadano/_en/tramites_extranjeria_tramite_prorrogaestancia_cortaduracion.php#).
 
 Make sure you get your passport stamped on entry and exit.
 
@@ -62,9 +62,16 @@ If you cannot return to the UK before your visa-free limit expires, [contact th
 
 ## New Schengen entry requirements
 
-The EU’s Entry/Exit System (EES) is expected to start in October 2025. It is not currently in operation. The European Union will inform about the specific start date of the EES before its launch.
+From 12 October 2025, the European Union’s (EU) new Entry/Exit System (EES) will begin. When travelling into and out of the Schengen area, for short stays, you may need to:
 
-Read more [information on the EU Entry/Exit System](https://www.gov.uk/guidance/eu-entryexit-system).
+* have you fingerprints and your photo taken
+* answer the Schengen Border Code questions
+
+If you enter the Schengen area through the Port of Dover, Eurotunnel at Folkestone or St Pancras International, this information will be taken at the border, before you leave the UK. You may also need to provide either your fingerprint or photo when you leave the Schengen area.
+
+EES may take each passenger a few extra minutes to complete so be prepared to wait longer than usual at the border once the system starts.
+
+Read more [information on the EU Entry/Exit System and to understand which countries are in the Schengen area](https://www.gov.uk/guidance/eu-entryexit-system).
 
 ## Travelling between Spain and Gibraltar
 

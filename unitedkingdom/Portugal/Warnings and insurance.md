@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 July 2025
+:   31 July 2025
 
 Updated:
-:   25 July 2025
+:   30 July 2025
 
 Latest update:
-:   New Information on industrial action affecting Portuguese airports (’Warnings and insurance’ page).
+:   Updated information on new Schengen entry requirements being introduced from 12 October ('Entry requirements' page).
 
 This travel advice also covers Madeira, Porto Santo and the Azores.
 

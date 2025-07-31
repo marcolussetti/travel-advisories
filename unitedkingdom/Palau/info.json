@@ -1,11 +1,11 @@
 {
     "name": "Palau",
-    "update_reason": "This travel advice was reviewed for accuracy and there are no significant updates.",
+    "update_reason": "Earthquake and Tsunami warning - regional update ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Palau/Warnings and insurance.md",
-            "update_date": "2025-05-13T10:51:18+01:00"
+            "update_date": "2025-07-30T11:54:54+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Palau/Getting help.md"
         }
     ],
-    "update_date": "2025-05-13T10:51:18+01:00"
+    "update_date": "2025-07-30T11:54:54+01:00"
 }

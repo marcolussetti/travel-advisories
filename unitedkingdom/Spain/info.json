@@ -1,11 +1,11 @@
 {
     "name": "Spain",
-    "update_reason": "Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through airports ('Safety and security' page).",
+    "update_reason": "Updated information on new Schengen entry requirements being introduced from 12 October ('Entry requirements' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Spain/Warnings and insurance.md",
-            "update_date": "2025-06-04T17:19:44+01:00"
+            "update_date": "2025-07-30T15:05:41+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Spain/Getting help.md"
         }
     ],
-    "update_date": "2025-06-04T17:19:44+01:00"
+    "update_date": "2025-07-30T15:05:41+01:00"
 }

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   18 July 2025
+:   31 July 2025
 
 Updated:
-:   17 July 2025
+:   30 July 2025
 
 Latest update:
-:   New information for LGBT+ travellers and new information on the risks from extreme weather and natural disasters (‘Safety and security’ page).
+:   Updated information on new Schengen entry requirements being introduced from 12 October ('Entry requirements' page)
 
 ## Before you travel
 

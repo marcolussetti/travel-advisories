@@ -1,11 +1,11 @@
 {
     "name": "Netherlands",
-    "update_reason": "Information updated about temporary border controls when entering Netherlands, and when leaving Netherlands into Belgium (\u2018Entry requirements\u2019 page).",
+    "update_reason": "Updated information on new Schengen entry requirements being introduced from 12 October ('Entry requirements' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Netherlands/Warnings and insurance.md",
-            "update_date": "2025-07-15T16:20:46+01:00"
+            "update_date": "2025-07-30T15:14:37+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Netherlands/Getting help.md"
         }
     ],
-    "update_date": "2025-07-15T16:20:46+01:00"
+    "update_date": "2025-07-30T15:14:37+01:00"
 }

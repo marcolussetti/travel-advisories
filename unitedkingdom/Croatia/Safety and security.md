@@ -98,8 +98,6 @@ There is a risk of getting lost in the mountains when out hiking alone and using
 
 Many music festivals are held in Croatia each year. Follow the advice of police and local authorities when attending events and take care of your valuables if attending a festival or large concert. Find out how to enjoy festivals safely with the [festival travel checklist](https://www.gov.uk/guidance/festival-travel-checklist).
 
-A large concert is planned to take place in the Zagreb Hippodrome on Saturday 5 July, with reportedly up to 500,000 attendees. Zagreb is likely to be busy the whole weekend. There are also likely to be road closures and changes to public transport provision. Check and follow police and local authorities’ advice when planning any journeys in, out and around the city that weekend.
-
 ## Transport risks
 
 ### Road travel
@@ -147,7 +145,7 @@ Intentionally causing a fire is illegal in Croatia and you could be fined 2,000 
 
 * leave no litter, especially not glass which is known to start fires
 * do not light barbecues. From 1 June to 31 October it is illegal to set outdoor fires and barbecues except in designated areas
-* properly extinguish cigarette ends and do not leave any rubbish behind, particularly empty bottles, as these are known to start fires. Fines in these cases have ranged from 260 to 1,200 euros
+* properly extinguish cigarette ends and do not leave any rubbish behind, particularly empty bottles, as these are known to start fires
 
 ### Earthquakes
 

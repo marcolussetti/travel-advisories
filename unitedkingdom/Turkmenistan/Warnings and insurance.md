@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   24 July 2025
+:   31 July 2025
 
 Updated:
-:   23 July 2025
+:   30 July 2025
 
 Latest update:
-:   Clarification that you can get a visa on arrival at Ashgabat International Airport and some land borders (‘Entry requirements’ page).
+:   Updated information about transit visas and travelling through Turkmenistan by car (‘Entry requirements’ page).
 
 ## Before you travel
 

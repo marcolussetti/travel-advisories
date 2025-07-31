@@ -24,6 +24,7 @@ See [what health risks you’ll face in Italy](https://travelhealthpro.org.uk/co
 
 * dengue
 * biting insects and ticks
+* west nile disease
 
 Altitude sickness is a risk in parts of Italy, including the Alps and the Dolomites. Read more about [altitude sickness on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/26/altitude-illness).
 

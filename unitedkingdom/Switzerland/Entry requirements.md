@@ -53,9 +53,16 @@ See [passport stamping if you live in Switzerland](https://www.gov.uk/guidance/l
 
 ## New Schengen entry requirements
 
-The EU’s Entry/Exit System (EES) is expected to start in October 2025. It is not currently in operation. The European Union will inform about the specific start date of the EES before its launch.
+From 12 October 2025, the European Union’s (EU) new Entry/Exit System (EES) will begin. When travelling into and out of the Schengen area, for short stays, you may need to:
 
-Read more [information on the EU Entry/Exit System](https://www.gov.uk/guidance/eu-entryexit-system).
+* have you fingerprints and your photo taken
+* answer the Schengen Border Code questions
+
+If you enter the Schengen area through the Port of Dover, Eurotunnel at Folkestone or St Pancras International, this information will be taken at the border, before you leave the UK. You may also need to provide either your fingerprint or photo when you leave the Schengen area.
+
+EES may take each passenger a few extra minutes to complete so be prepared to wait longer than usual at the border once the system starts.
+
+Read more [information on the EU Entry/Exit System and to understand which countries are in the Schengen area](https://www.gov.uk/guidance/eu-entryexit-system).
 
 ## Vaccine requirements
 

@@ -1,11 +1,11 @@
 {
     "name": "France",
-    "update_reason": "Removal of information on potential travel disruption due to wildfires closing Marseille Airport on 8 July ('Safety and security' page).",
+    "update_reason": "Updated information on new Schengen entry requirements being introduced from 12 October ('Entry requirements' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/France/Warnings and insurance.md",
-            "update_date": "2025-07-10T10:53:08+01:00"
+            "update_date": "2025-07-30T15:10:34+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/France/Getting help.md"
         }
     ],
-    "update_date": "2025-07-10T10:53:08+01:00"
+    "update_date": "2025-07-30T15:10:34+01:00"
 }

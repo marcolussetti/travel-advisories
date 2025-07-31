@@ -50,7 +50,7 @@ To protect yourself from methanol poisoning you should:
 * check bottle seals are intact
 * check labels for poor print quality or incorrect spelling
 
-If the label, smell or taste seems wrong, do not drink the alcohol. These are signs it is illegal and could contain methanol. TravelHealthPro lists the [symptoms of methanol poisoning](https://www.travelhealthpro.org.uk/factsheet/25/personal-safety).
+If the label, smell or taste seems wrong, do not drink the alcohol. These are signs it is illegal and could contain methanol. TravelHealthPro lists the [symptoms of methanol poisoning](https://www.travelhealthpro.org.uk/factsheet/25/personal-safety). For more information about spiking and methanol poisoning, read Travel Aware’s information on [Spiking and methanol poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/).
 
 Seek [urgent medical attention](https://www.gov.uk/government/publications/fiji-doctors-and-medical-facilities/list-of-english-speaking-doctors-and-medical-facilities-in-fiji) if you or someone you are travelling with show signs of methanol poisoning.
 

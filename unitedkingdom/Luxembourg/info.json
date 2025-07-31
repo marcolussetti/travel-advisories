@@ -1,11 +1,11 @@
 {
     "name": "Luxembourg",
-    "update_reason": "New information on border checks leading into Belgium ('Entry requirements' page).",
+    "update_reason": "Updated information on new Schengen entry requirements being introduced from 12 October ('Entry requirements' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Luxembourg/Warnings and insurance.md",
-            "update_date": "2025-07-16T09:24:07+01:00"
+            "update_date": "2025-07-30T15:12:53+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Luxembourg/Getting help.md"
         }
     ],
-    "update_date": "2025-07-16T09:24:07+01:00"
+    "update_date": "2025-07-30T15:12:53+01:00"
 }

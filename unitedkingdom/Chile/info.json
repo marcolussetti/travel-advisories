@@ -1,11 +1,11 @@
 {
     "name": "Chile",
-    "update_reason": "Earthquake and Tsunami warning - regional update",
+    "update_reason": "Updated information about tsunami risks ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Chile/Warnings and insurance.md",
-            "update_date": "2025-07-30T03:43:29+01:00"
+            "update_date": "2025-07-30T17:22:22+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Chile/Getting help.md"
         }
     ],
-    "update_date": "2025-07-30T03:43:29+01:00"
+    "update_date": "2025-07-30T17:22:22+01:00"
 }

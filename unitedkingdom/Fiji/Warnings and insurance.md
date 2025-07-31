@@ -1,13 +1,19 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   31 July 2025
 
 Updated:
-:   24 December 2024
+:   30 July 2025
 
 Latest update:
-:   Information about drink spiking and methanol poisoning ('Safety and security' page).
+:   Earthquake and Tsunami warning - regional update ('Warnings and insurance' page).
+
+## Earthquake in the Kamchatka Peninsular Region
+
+An earthquake with a preliminary magnitude of 8.8 has struck the eastern coast of Russia in the Kamchatka Peninsula region. A tsunami threat message has been issued by the Pacific Tsunami Warning Centre.
+
+If you are in the affected areas potentially affected by the earthquake or tsunami you should follow the advice of the local authorities.
 
 ## Before you travel
 

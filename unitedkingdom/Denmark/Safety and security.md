@@ -80,7 +80,7 @@ Greenland is in the Arctic Circle, and most of it is very remote. Emergency medi
 
 Travel between towns is by air, sea or dogsled only. Arctic weather can affect travel, and you should be prepared for delays and cancellations.
 
-There is limited tourist accommodation around the international airport in Kangerlussuaq. During busy periods or when there is travel disruption, there may be no beds available unless you have booked ahead.
+During busy periods or when there is travel disruption, there may be no accommodation available unless you have booked ahead.
 
 Supply chains are limited and travel times are long. Make sure you travel with sufficient prescription medication for all of your time in Greenland.
 

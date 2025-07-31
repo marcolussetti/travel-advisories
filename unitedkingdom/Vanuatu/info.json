@@ -1,11 +1,11 @@
 {
     "name": "Vanuatu",
-    "update_reason": "Updated information about the earthquake in Port Villa and new information about getting assistance from the UK government ('Safety and security' and 'Getting help' pages).",
+    "update_reason": "Earthquake and Tsunami warning - regional update ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Vanuatu/Warnings and insurance.md",
-            "update_date": "2025-02-25T10:36:55+00:00"
+            "update_date": "2025-07-30T11:47:10+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Vanuatu/Getting help.md"
         }
     ],
-    "update_date": "2025-02-25T10:36:55+00:00"
+    "update_date": "2025-07-30T11:47:10+01:00"
 }

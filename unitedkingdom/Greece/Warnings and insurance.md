@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   30 July 2025
+:   31 July 2025
 
 Updated:
-:   29 July 2025
+:   30 July 2025
 
 Latest update:
-:   Information added about the upcoming UEFA Champions league match between Rangers and Panathinaikos on 30 July ('Safety and security' page).
+:   Updated information on new Schengen entry requirements being introduced from 12 October ('Entry requirements' page)
 
 ## Wildfires in Greece
 

@@ -64,7 +64,7 @@ Check if you need a [UK sticker to drive your car outside the UK](https://www.go
 
 ### Tolls
 
-You must buy and display a vignette (sticker) to travel on Swiss motorways. You can buy one at most border crossings, petrol stations, post offices, by phone (+800 1002 0030) or [buy a vignette online](https://www.ch.ch/en/swiss-motorway-sticker/). If you do not have a vignette, you could get a large fine.
+You must buy and display a vignette (sticker) to travel on Swiss motorways. You can buy one at most border crossings, petrol stations, post offices, by phone (+800 1002 0030) or [buy a vignette online](https://via.admin.ch/shop/dashboard). If you do not have a vignette, you could get a large fine.
 
 If you’re involved in a car accident, use the orange emergency phones to ask for help.
 

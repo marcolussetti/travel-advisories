@@ -1,11 +1,11 @@
 {
     "name": "Croatia",
-    "update_reason": "Addition of information about music festivals and updated information about wildfires (\u2018Safety and security\u2019 page).",
+    "update_reason": "Updated information on new Schengen entry requirements being introduced from 12 October ('Entry requirements' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Croatia/Warnings and insurance.md",
-            "update_date": "2025-06-26T09:24:10+01:00"
+            "update_date": "2025-07-30T15:05:27+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Croatia/Getting help.md"
         }
     ],
-    "update_date": "2025-06-26T09:24:10+01:00"
+    "update_date": "2025-07-30T15:05:27+01:00"
 }

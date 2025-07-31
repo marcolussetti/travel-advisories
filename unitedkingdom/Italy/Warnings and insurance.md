@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   17 June 2025
+:   31 July 2025
 
 Updated:
-:   16 June 2025
+:   30 July 2025
 
 Latest update:
-:   Updated information about Jubilee 2025 - Holy Year and addition of information that the Italian authorities recommend that dual nationals with Italian citizenship enter and leave Italy on an Italian passport ('Warning and insurance' and 'Entry requirements' pages).
+:   Updated information on what health risks you may face in Italy ('Health' page).
 
 This travel advice also covers Vatican City.
 

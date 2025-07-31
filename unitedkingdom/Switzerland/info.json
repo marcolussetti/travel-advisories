@@ -1,11 +1,11 @@
 {
     "name": "Switzerland",
-    "update_reason": "New information about the UEFA Women's Euro 2025 campaign that will be taking place in Switzerland from 2 to 27 July (See \u2018Women's Euro 2025\u2019 page).",
+    "update_reason": "Updated information on new Schengen entry requirements being introduced from 12 October ('Entry requirements' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Switzerland/Warnings and insurance.md",
-            "update_date": "2025-06-18T17:16:00+01:00"
+            "update_date": "2025-07-30T15:07:19+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Switzerland/Getting help.md"
         }
     ],
-    "update_date": "2025-06-18T17:16:00+01:00"
+    "update_date": "2025-07-30T15:07:19+01:00"
 }

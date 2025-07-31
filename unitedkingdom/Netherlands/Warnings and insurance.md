@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   16 July 2025
+:   31 July 2025
 
 Updated:
-:   15 July 2025
+:   30 July 2025
 
 Latest update:
-:   Information updated about temporary border controls when entering Netherlands, and when leaving Netherlands into Belgium (‘Entry requirements’ page).
+:   Updated information on new Schengen entry requirements being introduced from 12 October ('Entry requirements' page).
 
 Check [separate travel advice pages](/foreign-travel-advice) for advice on travel to the constituent countries and special municipalities in the Dutch Caribbean.
 

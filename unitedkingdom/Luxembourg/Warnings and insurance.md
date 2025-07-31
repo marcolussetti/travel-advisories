@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   17 July 2025
+:   31 July 2025
 
 Updated:
-:   16 July 2025
+:   30 July 2025
 
 Latest update:
-:   New information on border checks leading into Belgium ('Entry requirements' page).
+:   Updated information on new Schengen entry requirements being introduced from 12 October ('Entry requirements' page).
 
 ## Before you travel
 

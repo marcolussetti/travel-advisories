@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   27 June 2025
+:   31 July 2025
 
 Updated:
-:   26 June 2025
+:   30 July 2025
 
 Latest update:
-:   Addition of information about music festivals and updated information about wildfires (‘Safety and security’ page).
+:   Updated information on new Schengen entry requirements being introduced from 12 October ('Entry requirements' page).
 
 ## Before you travel
 

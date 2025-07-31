@@ -36,17 +36,19 @@ The cost of a visa is dependent on the length of stay in Turkmenistan, whether y
 
 ### Transit visas and travelling through Turkmenistan by car
 
-If you will be in Turkmenistan for fewer than 5 days you may also be able to use a transit visa. These are most commonly used for entry to Turkmenistan through a land border, for example if travelling overland from Uzbekistan.
+If you will be in Turkmenistan for fewer than 5 days you may also be able to use a transit visa. These are most commonly used for entry to Turkmenistan through a land border, for example if travelling overland from Uzbekistan. Apply for a letter of invitation through your nearest Embassy of Turkmenistan.
 
-Transit visas follow the same letter of invitation process as visit visas and you must secure the visa before you travel. Transit visas can’t be obtained on arrival at the border crossing.
+When you apply for a transit visa, the sponsor will be the Turkmen State Migration Service, rather than a tour agency. Check the  [website of the Embassy of Turkmenistan in London](https://uk.tmembassy.gov.tm/en/consular-services/visa-info) for further information.
 
-The [website of the Embassy of Turkmenistan in London](https://uk.tmembassy.gov.tm/en/consular-services/visa-info) sets out the eligibility criteria for a transit visa. You cannot change your transit visa to a tourist visa, and you must notify the authorities if you intend to change your route.
+You must secure the letter of invitation before you travel, and it can take up to a month for a letter of invitation to issue. This can then be converted to a transit visa at the land border checkpoint.
+
+The [website of the Embassy of Turkmenistan in London](https://uk.tmembassy.gov.tm/en/consular-services/visa-info) sets out the eligibility criteria for a transit visa. You cannot change your transit visa to a tourist visa, and you must enter and leave Turkmenistan using the border crossings you included on the letter of invitation.
 
 You cannot buy a transit visa for Turkmenistan at Baku seaport. You must secure it ahead of time. If you want to travel from Turkmenistan to Azerbaijan by sea, you need to have visas for both Turkmenistan and Azerbaijan.
 
 You will be charged up to 150 US dollars to bring a car into Turkmenistan by land or sea.
 
-A transit visa is not usually required for layover flights where you will remain airside. You should contact the [Embassy of Turkmenistan in London](https://uk.tmembassy.gov.tm/en/) or your airline with further questions.
+A transit visa is not usually required for layover flights where you will remain airside. You should contact the [Embassy of Turkmenistan in London](https://uk.tmembassy.gov.tm/en/) or your airline with further questions.
 
 Border officials may close Turkmen border crossings without notice.
 
