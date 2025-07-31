@@ -4,6 +4,12 @@
 
 Normal Precautions
 
+### **Travel Alert**
+
+### **Tsunami risk**
+
+There exists a risk of tsunami on the coast of Chile on 30 July 2025. Citizens are advised to follow the advice of local authorities and contact the Embassy if assistance is required.
+
 ### **General Travel Advice**
 
 In recent years, there have been large-scale protests and demonstrations leading to civil unrest across Chile, and there is a risk of violent protest in Santiago and other Chilean cities, particularly on Friday afternoons and evenings. Even peaceful protests can become violent.

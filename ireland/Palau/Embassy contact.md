@@ -1,6 +1,6 @@
 ## Embassy contact
 
-As Ireland does not have an Embassy or Consulate in Federated States of Micronesia, consular assistance is provided via the Embassy of Ireland in Manila, Philippines.
+As there is no Irish Embassy in Palau, we are limited in the help we can offer you in an emergency. However, if you need assistance, you can contact the [**Irish Embassy in Manila, Philippines**](https://www.ireland.ie/en/philippines/manila/)**.**
 
 The Embassy of Ireland in Manila is open and provides consular services to Irish citizens in Palau. Emergency out of office hours number: +63 917 324 4787
 

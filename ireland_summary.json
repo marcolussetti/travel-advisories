@@ -224,7 +224,7 @@
     {
         "destination": "Chile",
         "risk_level": "High Degree of Caution",
-        "last_updated": "2025-06-06T00:00:00",
+        "last_updated": "2025-07-30T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/chile/"
     },
     {
@@ -332,7 +332,7 @@
     {
         "destination": "Ecuador",
         "risk_level": "Avoid Non-Essential Travel",
-        "last_updated": "2025-07-15T00:00:00",
+        "last_updated": "2025-07-30T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/ecuador/"
     },
     {
@@ -386,7 +386,7 @@
     {
         "destination": "Federated States of Micronesia",
         "risk_level": "Normal Precautions",
-        "last_updated": "2025-06-09T00:00:00",
+        "last_updated": "2025-07-30T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/federated-states-of-micronesia/"
     },
     {
@@ -404,7 +404,7 @@
     {
         "destination": "France",
         "risk_level": "Normal Precautions",
-        "last_updated": "2025-06-20T00:00:00",
+        "last_updated": "2025-07-30T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/france/"
     },
     {
@@ -878,7 +878,7 @@
     {
         "destination": "Palau",
         "risk_level": "Normal Precautions",
-        "last_updated": "2025-06-10T00:00:00",
+        "last_updated": "2025-07-30T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/palau/"
     },
     {
@@ -902,13 +902,13 @@
     {
         "destination": "Peru",
         "risk_level": "High Degree of Caution",
-        "last_updated": "2025-07-15T00:00:00",
+        "last_updated": "2025-07-30T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/peru/"
     },
     {
         "destination": "Philippines",
         "risk_level": "High Degree of Caution",
-        "last_updated": "2025-06-09T00:00:00",
+        "last_updated": "2025-07-30T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/philippines/"
     },
     {
@@ -1160,7 +1160,7 @@
     {
         "destination": "T\u00fcrkiye (Turkey)",
         "risk_level": "High Degree of Caution",
-        "last_updated": "2025-07-25T00:00:00",
+        "last_updated": "2025-07-30T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/turkiye/"
     },
     {
