@@ -20,7 +20,7 @@ None.
 
 CURRENCY RESTRICTIONS FOR ENTRY:
 
-Travelers must declare currency in amounts greater than $10,000. See the [Ecuadorian customs website.](https://www.aduana.gob.ec/viajeros-por-via-aerea-aeropuerto/)
+Travelers must declare currency in amounts greater than $10,000. See the [Ecuadorian customs website](https://www.aduana.gob.ec/servicio-al-ciudadano/viajeros-por-via-aerea/).
 
 CURRENCY RESTRICTIONS FOR EXIT:
 
