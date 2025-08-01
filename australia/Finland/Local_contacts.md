@@ -40,17 +40,19 @@ You can get full consular assistance from the Australian Embassy in Stockholm, S
 
 Museokatu 25 B 23  
 00100 Helsinki  
-Finland  
-Phone: (+358) 10 420 4492  
+Finland
+
+Phone: +358 10 420 4492  
 Email: [australian.consulate@tradimex.fi](mailto: australian.consulate@tradimex.fi)
 
 #### Australian Embassy, Stockholm
 
 Klarabergsviadukten 63, 8th Floor  
-111 64 Stockholm, Sweden  
+111 64 Stockholm, Sweden
+
 Phone: +46 8 613 2900  
 Email: [reception.stockholm@dfat.gov.au](mailto: reception.stockholm@dfat.gov.au)  
-Web: [sweden.embassy.gov.au](https://sweden.embassy.gov.au)  
+Web: [sweden.embassy.gov.au](https://sweden.embassy.gov.au/stok/contact-us.html)  
 Facebook: [Sweden Embassy Face​book](https://www.facebook.com/AusEmbSE)  
 X: [AusAmbSe](https://twitter.com/AusAmbSE)
 

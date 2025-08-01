@@ -2,21 +2,21 @@
 
 Latest update
 
-We continue to advise exercise a high degree of caution in Qatar due to the regional security situation in the Middle East (see 'Safety').
+We've lowered our overall travel advice level. We now advise exercise normal safety precautions in Qatar.
 
 Advice Level summary
 
-We now advise:
+We advise:
 
-Exercise a high degree of caution in Qatar due to the regional security situation in the Middle East.
+Exercise normal safety precautions in Qatar.
 
 ## Advice levels
 
 [What does this mean?](/before-you-go/travel-advice-explained/)
 
-[Exercise a high degree of caution](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level2) in Qatar.
+[Exercise normal safety precautions](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level1) in Qatar.
 
-[Exercise a high degree of caution](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level2) in Qatar due to the regional security situation in the Middle East .
+[Exercise normal safety precautions](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level1) in Qatar.
 
 ## Overview
 

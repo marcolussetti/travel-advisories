@@ -27,12 +27,12 @@ See your doctor or travel clinic to:
 
 Do this at least 8 weeks before you leave.
 
-If you have immediate concerns for your welfare or the welfare of another Australian, call the 24-hour Consular Emergency Centre on +61 2 6261 3305 or contact your [nearest Australian Embassy, High Commission or Consulate](https://www.dfat.gov.au/about-us/our-locations/missions/our-embassies-and-consulates-overseas) to discuss counselling hotlines and services available in your location*.*
+If you have immediate concerns for your welfare or the welfare of another Australian, call the 24-hour Consular Emergency Centre on +61 2 6261 3305 or contact your [nearest Australian Embassy, High Commission or Consulate](https://www.dfat.gov.au/about-us/our-locations/missions/our-embassies-and-consulates-overseas) to discuss counselling hotlines and services available in your location.
 
-**More information:**
+[**More information:**](https://sweden.embassy.gov.au/stok/contact-us.html)
 
 * [General health advice](/before-you-go/health "Taking care of your health")
-* [Healthy holiday tips](https://www.healthdirect.gov.au/healthy-holiday-tips-infographic) (Healthdirect Australia)
+* [Healthy holiday tips](https://www.healthdirect.gov.au/healthy-holiday-tips-infographic)
 
 #### Medications
 
@@ -74,7 +74,7 @@ After visiting forested areas:
 * remove any ticks as soon as possible
 * keep checking the tick site for infection
 
-**More information:**
+More information:
 
 * [Finnish Institute for Health and Welfare](https://thl.fi/en/web/thlfi-en/whats-new)
 
@@ -88,7 +88,7 @@ Major hospitals are located in the Helsinki, Tampere and Turku areas.
 
 English is widely spoken.
 
-A reciprocal health care agreement (RHCA) allows Australians who visit for fewer than 90 days to access emergency medical services for free.
+A reciprocal health care agreement (RHCA) allows Australians who visit for fewer than 90 days to access some emergency medical services. You’ll still need to pay a client fee for all public health care treatment.
 
 It doesn't provide the same amount of coverage as Medicare in Australia. It doesn't cover:
 

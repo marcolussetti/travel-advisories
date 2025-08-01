@@ -2,13 +2,9 @@
 
 Latest update
 
-We advise exercise a high degree of caution overall due to the security situation. Higher levels apply in some areas.   
+We continue to advise exercise a high degree of caution overall due to the security situation. Higher levels apply in some areas.   
   
-We continue to advise do not travel to Cabo Delgado province, Erati and Memba districts of Nampula province due to the extreme threat of terrorism, kidnapping, and ongoing clashes between armed groups and security forces. Terrorists are likely to target areas frequented by foreigners, including where foreign companies operate and where expatriate staff reside. There's a kidnapping risk across Mozambique. Kidnappings have occurred in Maputo, Beira, Sofala and in Cabo Delgado province (see 'Safety').  
-  
-We continue to advise reconsider your need to travel to Marrupa and Mecula districts of Niassa province due to the security situation.   
-  
-Protests and strikes can occur at short notice. Avoid all protests and demonstrations, monitor local media for updates and follow the advice of local authorities. Roadblocks and road closures may occur at any time (see 'Safety').   
+Terrorists are likely to target areas frequented by foreigners, including where foreign companies operate and where expatriate staff reside. There's a kidnapping risk across Mozambique. Kidnappings have occurred in Maputo, Beira, Sofala and in Cabo Delgado province. Protests and strikes can occur at short notice. Avoid all protests and demonstrations, monitor local media for updates and follow the advice of local authorities. Roadblocks and road closures may occur at any time (see 'Safety').   
   
 There's currently an outbreak of Mpox in parts of Africa. There have been reports of Mpox in Mozambique (see 'Health').
 
@@ -75,7 +71,7 @@ Full travel advice: [Safety](#safety)
 * Malaria occurs year-round, particularly outside Maputo. Consider taking anti-malarial medication. Other insect-borne diseases include filariasis, plague and African sleeping sickness. Ensure your accommodation is insect-proof and use insect repellent.
 * The HIV/AIDS risk is high. Take precautions if you're taking part in high-risk activities.
 * Foodborne, waterborne and other infectious diseases include cholera, hepatitis, tuberculosis and rabies. Drink only boiled or bottled water. Avoid raw or undercooked food.
-* There have been reports of Mpox in Mozambique. Maintain strict hygiene standards and avoid physical contact with anyone who has Mpox (see ‘Health risks’).
+* There have been reports of increased cases of Mpox in Mozambique. Mpox is rarely fatal. Maintain strict hygiene standards and avoid physical contact with anyone who has Mpox (see ‘Health risks’).
 * Medical facilities are limited. If you're seriously ill or injured, you may need medical evacuation. Ensure your travel insurance covers this.
 
 Full travel advice: [Health](#health)

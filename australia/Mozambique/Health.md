@@ -64,6 +64,34 @@ The rate of [HIV/AIDS](https://www.who.int/news-room/fact-sheets/detail/hiv-aid
 
 Take precautions if you engage in activities that expose you to the virus.
 
+#### Mpox
+
+The World Health Organisation (WHO) has declared the Mpox outbreak in parts of Africa as a global public health emergency. Mpox has spread across a number of countries in Africa, including Mozambique.
+
+Mpox can be transmitted to humans through physical contact with an infectious person, infected animals or contaminated materials.
+
+Symptoms include:
+
+* rash
+* fever
+* sore throat
+* headache
+* muscle aches
+* back pain
+* low energy
+* swollen lymph nodes
+
+Get professional medical advice on Mpox vaccines.
+
+Maintain strict hygiene standards. Avoid physical contact with anyone who has Mpox.
+
+See a doctor if you feel unwell and isolate from others if you develop any Mpox symptoms.
+
+**More information:**
+
+* [Mpox](https://www.cdc.gov.au/topics/mpox-monkeypox)
+* [Infectious diseases](https://www.smartraveller.gov.au/before-you-go/health/diseases)
+
 #### Other health risks
 
 Other waterborne, foodborne and [infectious disease](/before-you-go/health/diseases "Infectious diseases") risks include:
@@ -74,7 +102,6 @@ Other waterborne, foodborne and [infectious disease](/before-you-go/health/dise
 * [rabies](https://www.who.int/news-room/fact-sheets/detail/rabies)
 * [measles](https://www.healthdirect.gov.au/measles)
 * [dengue](https://www.health.gov.au/diseases/dengue-virus-infection)
-* [mpox](https://www.cdc.gov.au/topics/mpox)
 
 Serious outbreaks sometimes occur.
 

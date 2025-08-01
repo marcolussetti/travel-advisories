@@ -31,9 +31,9 @@ Always carry a valid passport even if travelling from another Schengen country.
 
 #### European Entry/Exit System (EES)
 
-The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area has been delayed until later in 2025. A specific start date hasn't been announced.
+The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area is expected to start in October 2025.
 
-The EES is a digital border system that registers non-EU visitors travelling into the Schengen Area. When entering the Schengen Area, you'll need to have your fingerprints and photo taken. This creates a digital record that registers your biometric details. Passports will no longer be stamped.
+The EES is a digital border system that registers non-EU visitors travelling into the Schengen Area. When entering the Schengen Area, you'll need to have your fingerprints and photo taken. This creates a digital record that registers your biometric details.
 
 You'll need to do this on your first visit to the EU after the EES is introduced.​ If you visit the Schengen Area again within 3 years of creating your digital record, you'll only need to provide either your fingerprint or photograph at the border on entry and exit.
 
@@ -84,15 +84,13 @@ You don't need to declare cash if travelling to or from another EU country.
 
 #### Travel from Russia
 
-Finland has closed land border crossings with [Russia](https://www.smartraveller.gov.au/node/334) indefinitely. 
+Finland has closed land border crossings with [Russia](https://www.smartraveller.gov.au/node/334) indefinitely.
 
-Maritime crossing points in the Eastern Gulf of Finland are closed. The border crossing points for maritime traffic at Haapasaari, the port of Nuijamaa and Santio are closed to leisure boating. 
+Maritime crossing points in the Eastern Gulf of Finland are closed. The border crossing points for maritime traffic at Haapasaari, the port of Nuijamaa and Santio are closed to leisure boating.
 
-The train service between St Petersburg and Helsinki is suspended. Public transport services between Finland and Russia have been suspended. 
+The train service between St Petersburg and Helsinki is suspended. Public transport services between Finland and Russia have been suspended.
 
-This situation may change at short notice.
-
-**More information**
+**More information:**
 
 * [Finnish Border Guard website](https://raja.fi/en/guidelines-for-travellers-at-border-crossings)
 * [Travel advice for Russia](/node/334)
