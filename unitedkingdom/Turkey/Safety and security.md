@@ -10,11 +10,11 @@ UK Counter Terrorism Policing has information and advice on [staying safe abroad
 
 ### Terrorism in Turkey
 
-Terrorists are very likely to try to carry out attacks in Turkey.
+Terrorists are likely to try to carry out attacks in Turkey.
 
-Most terrorist attacks have occurred in southeast Turkey, Ankara and Istanbul. You should remain aware of your surroundings, keep up to date with local media reports and follow the advice of local authorities.
+Most terrorist attacks have occurred in South East Turkey, Ankara and Istanbul. You should remain aware of your surroundings, keep up to date with local media reports and follow the advice of local authorities.
 
-See [Regional risks](https://www.gov.uk/foreign-travel-advice/turkey/regional-risks) for details about the areas in south-east Turkey where FCDO advises against travel.
+See [Regional risks](https://www.gov.uk/foreign-travel-advice/turkey/regional-risks) for details about the areas in South East Turkey where FCDO advises against travel.
 
 There have been several attacks involving knives, firearms and explosives. Attacks could be indiscriminate including in places visited by foreign nationals, such as:
 

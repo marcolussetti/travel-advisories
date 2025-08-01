@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 July 2025
+:   1 August 2025
 
 Updated:
-:   25 July 2025
+:   31 July 2025
 
 Latest update:
-:   Addition of information about access to e-sim services ('Safety and security' page).
+:   Updated with information about the risks from terrorism (‘Safety and security’ page’).
 
 ![](https://assets.publishing.service.gov.uk/media/6703bc3c3b919067bb482cfb/FCDO__TA__043_-_Turkey_Travel_Advice_Ed4__WEB_.jpg)
 

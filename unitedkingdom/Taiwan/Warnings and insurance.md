@@ -1,25 +1,19 @@
 # Warnings and insurance
 
 Still current at:
-:   30 July 2025
+:   1 August 2025
 
 Updated:
-:   30 July 2025
+:   31 July 2025
 
 Latest update:
-:   Earthquake and Tsunami warning - regional update ('Warnings and insurance' page).
+:   New information on extreme heavy rain warnings in middle and southern parts of Taiwan ('Warnings and insurance' page).
 
 The UK does not recognise Taiwan as a state and has no diplomatic relations with Taiwan, so limited support is available to British nationals. Please refer to the [British Office in Taipei](https://www.gov.uk/world/organisations/british-office-taipei) for further information.
 
-## Earthquake in the Kamchatka Peninsular Region
+### Extreme heavy rain warnings
 
-An earthquake with a preliminary magnitude of 8.7 has struck the eastern coast of Russia in the Kamchatka Peninsula region. A tsunami threat message has been issued by the Pacific Tsunami Warning Centre.
-
-If you are in the affected areas potentially affected by the earthquake or tsunami you should follow the advice of the local authorities.
-
-### Tropical Storm Francisco
-
-The Central Weather Administration reported on 23 July (Wednesday) that Tropical Storm Francisco is expected to get close to Taiwan on 24 and 25 July (Thursday and Friday). Its current trajectory will see heavy rainfall affecting areas in the eastern and northern parts of Taiwan over Thursday and Friday. Francisco is forecast to weaken slightly on Saturday and Sunday as it moves west towards China. From Saturday 26 July to Tuesday 29 July, low-pressure conditions are likely to cause erratic weather across Taiwan.
+Heavy rain in central and southern Taiwan sets to continue and evacuations are taking place. Continuous rain is expected until Monday 4 August. In mountainous areas, stay alert to the risk of landslides, falling rocks, debris and flash floods. Low-lying areas should be on guard for flooding.
 
 ## Before you travel
 
