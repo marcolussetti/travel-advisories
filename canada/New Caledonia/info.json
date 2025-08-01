@@ -1,7 +1,7 @@
 {
     "name": "New Caledonia",
-    "update_reason": "Natural disasters and climate \u2013 added information on a tsunami warning",
-    "update_date": "2025-07-30T00:44:00",
+    "update_reason": "Natural disasters and climate \u2013 removed information on the tsunami warning",
+    "update_date": "2025-07-31T10:55:00",
     "sections": {
         "risk": "canada/New Caledonia/risk.md",
         "security": "canada/New Caledonia/security.md",

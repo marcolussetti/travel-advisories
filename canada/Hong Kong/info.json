@@ -1,7 +1,7 @@
 {
     "name": "Hong Kong",
-    "update_reason": "Natural disasters and climate \u2013 added information on a tsunami warning",
-    "update_date": "2025-07-30T01:54:00",
+    "update_reason": "Natural disasters and climate \u2013 removed information on the tsunami warning",
+    "update_date": "2025-07-31T10:17:00",
     "sections": {
         "risk": "canada/Hong Kong/risk.md",
         "security": "canada/Hong Kong/security.md",

@@ -1,7 +1,7 @@
 {
     "name": "Japan",
-    "update_reason": "Natural disasters and climate \u2013 added information on a tsunami warning",
-    "update_date": "2025-07-29T22:43:00",
+    "update_reason": "Natural disasters and climate \u2013 removed information on the tsunami warning",
+    "update_date": "2025-07-31T09:12:00",
     "sections": {
         "risk": "canada/Japan/risk.md",
         "security": "canada/Japan/security.md",

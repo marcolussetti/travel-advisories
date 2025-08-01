@@ -2,12 +2,6 @@
 
 ## Natural disasters and climate
 
-A tsunami warning is in effect.
-
-If you’re in or around the affected areas, follow the instructions of local authorities and monitor local news for information on the tsunami’s progress.
-
-[Tsunami Advisory](http://www.tsunami.gov/) – U.S. Tsunami Warning System
-
 ### Heavy rainfall
 
 Heavy rainfall across Ecuador’s Sierra and Amazon regions has triggered flooding, landslides, and significant damage to the national road network, especially in the provinces of Azuay, Napo, Sucumbíos, Zamora Chinchipe, Loja, and Chimborazo.

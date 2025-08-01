@@ -2,11 +2,7 @@
 
 ## Natural disasters and climate
 
-A tsunami warning is in effect.
-
-If you’re in or around the affected areas, follow the instructions of local authorities and monitor local news for information on the tsunami’s progress.
-
-[Tsunami Advisory](http://www.tsunami.gov/) – U.S. Tsunami Warning System
+### Climate Change
 
 Climate change is affecting Micronesia. Extreme and unusual weather events are becoming more frequent. Micronesia is prone to a many natural disasters such as earthquakes, tsunamis, flooding and drought.
 

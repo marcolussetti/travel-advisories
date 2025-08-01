@@ -1,7 +1,7 @@
 {
     "name": "Indonesia",
-    "update_reason": "Natural disasters and climate \u2013 added information on a tsunami warning",
-    "update_date": "2025-07-29T23:25:00",
+    "update_reason": "Natural disasters and climate \u2013 removed information on the tsunami warning",
+    "update_date": "2025-07-31T09:30:00",
     "sections": {
         "risk": "canada/Indonesia/risk.md",
         "security": "canada/Indonesia/security.md",

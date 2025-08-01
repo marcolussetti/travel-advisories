@@ -4,11 +4,11 @@
 
 ### Demonstrations in Luanda
 
-Demonstrations and strikes by taxi drivers are taking place in Luanda from July 28 to July 30, 2025.
+Demonstrations took place in Luanda between July 28 and 30, 2025.
 
-Incidents of violence have occurred, including attacks on app-based taxis and public buses, as well as looting and civil disorder.
+These demonstrations were violent, with incidents of looting and shootings resulting in casualties.
 
-Gatherings and demonstrations may also occur after these dates.
+More gatherings and demonstrations may occur.
 
 Even peaceful demonstrations can turn violent at anytime. They can also lead to disruption of traffic and public transportation.
 
@@ -16,7 +16,6 @@ Authorities may restrict movement without notice.
 
 If you are in Luanda:
 
-* limit non-essential movements
 * stay away from demonstrations
 * avoid areas around government buildings
 * expect increased security presence
@@ -125,7 +124,7 @@ Shortages of fuel, municipal water and power may occur. Drinking water and some 
 
 Demonstrations occur occasionally.
 
-Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation.
+Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation. Clashes between security forces and demonstrators have resulted in casualties in the past. Security forces have used excessive force to disperse crowds.
 
 * Avoid areas where demonstrations and large gatherings are taking place
 * Follow the instructions of local authorities

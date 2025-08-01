@@ -2,9 +2,11 @@
 
 ## Safety and security
 
-### Armed clashes along the Thailand-Cambodia border
+### Tensions along the Thailand-Cambodia border
 
-The security environment is volatile at the border between Thailand and Cambodia due to an ongoing border dispute in the region. Tensions have increased since an exchange of fire on May 28, 2025, and have escalated to armed conflict with multiple casualties.
+Tensions have increased along the Thailand-Cambodia border since an exchange of fire on May 28, 2025.
+
+Thai and Cambodian authorities reached a ceasefire agreement on July 28, 2025, after five consecutive days of armed conflict along the border, with multiple casualties on both sides. The security environment remains volatile at the border due to a longstanding border dispute in the region.
 
 On July 25, 2025, Thai authorities declared martial law in several districts along the border with Cambodia. When martial law is in effect, local authorities have enhanced powers and may impose security measures such as curfews and other movement restrictions. Martial law is in effect in the following districts of Chanthaburi and Trat provinces:
 

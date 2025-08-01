@@ -2,11 +2,9 @@
 
 ## Natural disasters and climate
 
-A tsunami warning is in effect.
+### Climate change
 
-If you’re in or around the affected areas, follow the instructions of local authorities and monitor local news for information on the tsunami’s progress.
-
-[Tsunami Advisory](http://www.tsunami.gov/) – U.S. Tsunami Warning System
+Climate change is affecting Niue. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local news to stay informed on the current situation. 
 
 ### Cyclone and monsoon seasons
 

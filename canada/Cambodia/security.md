@@ -2,9 +2,11 @@
 
 ## Safety and security
 
-### Armed clashes along the Cambodia-Thailand border
+### Tensions along the Cambodia-Thailand border
 
-The security environment is volatile at the border between Thailand and Cambodia due to an ongoing border dispute in the region. Tensions have increased since an exchange of fire on May 28, 2025, and have escalated to armed conflict with multiple casualties.
+Tensions have increased along the Cambodia-Thailand border since an exchange of fire on May 28, 2025.
+
+Thai and Cambodian authorities reached a ceasefire agreement on July 28, 2025, after five consecutive days of armed conflict along the border, with multiple casualties on both sides. The security environment remains volatile at the border due to a longstanding border dispute in the region.
 
 Land mines are present in the disputed border regions. Land border crossings between Cambodia and Thailand may be closed or have their hours of operation changed unexpectedly.
 

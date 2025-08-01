@@ -1,7 +1,7 @@
 {
     "name": "Cambodia",
-    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
-    "update_date": "2025-07-28T11:40:00",
+    "update_reason": "Risk levels \u2013 avoid all travel within 50 km of the Cambodia-Thailand border; Safety and security \u2013 updated information on tensions along the Cambodia-Thailand border",
+    "update_date": "2025-07-31T16:39:00",
     "sections": {
         "risk": "canada/Cambodia/risk.md",
         "security": "canada/Cambodia/security.md",

@@ -2,12 +2,6 @@
 
 ## Natural disasters and climate
 
-Tsunami advisories are in effect for California, the coast from Rincon Point to Ragged Point and the coast from Humboldt/Del Norte Line to the border between Oregon and California
-
-If you’re in or around the affected areas, follow the instructions of local authorities and monitor local news for information on the tsunami’s progress.
-
-[Tsunami Advisory](http://www.tsunami.gov/) – U.S. Tsunami Warning System
-
 Natural disasters can occur at any time.
 
 [Plan Ahead for Disasters](https://www.ready.gov/) – U.S. Department of Homeland Security
@@ -65,7 +59,6 @@ If you're in an area prone to earthquakes, familiarize yourself with emergency p
 
 #### Useful links
 
-* [Earthquake – Get prepared](https://www.getprepared.gc.ca/cnt/hzd/rthqks-en.aspx)
 * [Earthquakes](http://www.ready.gov/earthquakes) – Federal Emergency Management
 
 ### Heat and humidity

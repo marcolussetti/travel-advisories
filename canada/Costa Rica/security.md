@@ -55,13 +55,6 @@ On the Caribbean coast, the following areas are of particular concern for theft:
 * Puerto Limón
 * Puerto Viejo
 
-##### Residential break-ins
-
-Residential break-ins occur. Burglars may target rental accommodations or houses and apartments owned by foreigners.
-
-* Choose well-secured accommodation
-* Make sure you lock doors and windows at night and when you’re away
-
 ##### Car break-ins and theft
 
 Car break-ins and theft are very common throughout the country. Rental and luxury vehicles are a target of choice. Theft commonly occurs in the parking lots of:
@@ -87,12 +80,30 @@ If driving in Costa Rica:
 
 #### Violent crime
 
-Violent crime, including murders and armed robberies, occurs. Drug trafficking is common, and most incidents are drug-related.  The most affected provinces are:
+Violent crime occurs. Incidents include:
+
+* murders
+* armed robberies
+* burglaries
+* assaults
+
+Drug trafficking is common, and most violent incidents are drug-related. The most affected provinces are:
 
 * Alajuela
 * Limón
 * Puntarenas
 * San José
+
+#### Burglaries
+
+Residential break-ins occur. Burglars may be armed with knives or guns and sometimes target rental accommodations or houses and apartments owned by foreigners.
+
+* Choose well-secured accommodation
+* Make sure you lock doors and windows at night and when you’re away
+* Do not confront burglars
+* Report any suspicious activity to the authorities
+
+#### Assaults
 
 Although not frequent, violent assaults against travellers have occurred on the Caribbean coast in:
 
