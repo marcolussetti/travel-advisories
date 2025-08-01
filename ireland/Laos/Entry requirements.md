@@ -2,7 +2,7 @@
 
 ### **Visa**
 
-Visa-on-arrival and e-Visa are available for travel to Lao PDR from Ireland. E-visa can be obtained before your departure [**here**](https://laoevisa.gov.la/index).
+Visa-on-arrival (at certain entry points) and e-Visa are available for travel to Lao PDR from Ireland. E-visa can be obtained before your departure [**here**](https://laoevisa.gov.la/index).
 
 Tourist visas can only be extended twice in-country. Be aware that if you do not renew your visa within 90 days, new regulations set a fine of 2 million LAK, deportation to your home country and a ban on returning to Lao PDR.
 

@@ -6,21 +6,21 @@ Do Not Travel
 
 ### **Travel Alert**
 
-### **Conflict escalation in eastern DRC**
+### **Conflict Escalation in Eastern DRC**
 
-Increased conflict and fighting, including shelling in populated areas, has been reported in January 2025. DFA advises against all travel to eastern DRC, in particular Ituri, North Kivu and South Kivu.
+Increased conflict and fighting, including shelling in populated areas, has been ongoing since January 2025. DFA advises against all travel to eastern DRC, in particular Ituri, North Kivu and South Kivu. While there has been important progress in peace initiatives in recent months, the level of violence in the region remains high.
 
-As of 27 January, Goma airport is not functional and lake traffic is not authorised. The border crossings between Rwanda and the DRC at Gisenyi/Goma could close at short notice. Information is changing on a daily basis.
+Goma airport continues to be non-functional. The border crossings between Rwanda and the DRC at Gisenyi/Goma could close at short notice. Information is changing on a daily basis.
 
-Irish citizens planning to cross the border to Rwanda should familiarise themselves with the relevant [DFA Travel Advice](https://www.ireland.ie/en/dfa/overseas-travel/advice/rwanda/#:~:text=General%20Travel%20Advice,see%20the%20Additional%20Information%20tab.). Please note Rwanda is covered by the Embassy of Ireland in Kampala.
+Irish citizens planning to cross the border to Rwanda should familiarise themselves with the relevant [**DFA Travel Advice**](https://www.ireland.ie/en/dfa/overseas-travel/advice/rwanda/). Please note Rwanda is covered by the Embassy of Ireland in Kampala.
 
 ### **Protests**
 
-Violent protests can break out quickly in urban centres with little warning. On 28 January there were large and violent protests outside multiple embassies and offices of international organisations in Kinshasa. Stay alert and avoid any protests. Carry an identification document, limit movements and be cautious if you are travelling at night.
+Violent protests can break out quickly in urban centres with little warning. On 28 January there were large and violent protests outside multiple embassies and offices of international organisations in Kinshasa. Stay alert and avoid any protests. There is an ongoing risk of terrorist attacks at gathering points in Kinshasa. Carry an identification document, limit movements and be cautious if you are travelling at night.
 
 ### **Mpox**
 
-There has been an upsurge of mpox in the DRC and a number of countries in Africa. On 14 August 2024 the WHO classified this outbreak as a [public health emergency of international concern](https://www.who.int/news/item/14-08-2024-who-director-general-declares-mpox-outbreak-a-public-health-emergency-of-international-concern). Individuals in DRC or considering travel to DRC should follow local public health instructions and updates.
+Since January 1, 2024, the Democratic Republic of Congo and several neighbouring countries in Central and Eastern Africa have confirmed an upsurge in mpox cases. On 14 August 2024 the WHO classified this outbreak as a [**public health emergency of international concern**](https://www.who.int/news/item/14-08-2024-who-director-general-declares-mpox-outbreak-a-public-health-emergency-of-international-concern). Between 1 January and 31 May 2025, DRC reported more than 12 000 suspected cases and 22 deaths, accounting for over 50% of all mpox cases in Africa this year. Individuals in DRC or considering travel to DRC should follow local public health instructions and updates.
 
 ### **General Travel Advice**
 

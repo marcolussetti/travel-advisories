@@ -18,7 +18,7 @@ To avoid cholera and diarrhoeal illnesses the World Health Organisation advises 
 
 ### **Dengue Fever**
 
-Dengue fever, particularly in Vientiane, is common. There is no vaccine against this disease. Avoid mosquito bites during the day, especially just after dawn and just before dusk by using bed nets and repellents, and wearing closed shoes, long sleeves and trousers. More information on dengue fever is available from the [**World Health Organisation**](http://www.who.int/topics/dengue/en/).
+Dengue fever, particularly in Vientiane, is common. Avoid mosquito bites during the day, especially just after dawn and just before dusk by using bed nets and repellents, and wearing closed shoes, long sleeves and trousers. More information on dengue fever is available from the [**World Health Organisation**](http://www.who.int/topics/dengue/en/).
 
 ### **Malaria**
 

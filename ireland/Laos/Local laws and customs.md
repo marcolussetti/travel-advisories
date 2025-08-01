@@ -14,6 +14,8 @@ The Lao Government prohibits sexual relationships between foreign citizens and L
 
 Do not get involved with drugs of any kind. There have been several deaths as a result of drug use among foreign nationals visiting Laos. Possession, trafficking and manufacture of drugs are serious offences in Laos and are punishable by lengthy prison sentences, including the death penalty.
 
+While cigarettes are legal, e-cigarettes/vapes and heated tobacco such as shisha are illegal in Laos and punishable by fines or imprisonment.
+
 ### **Money**
 
 Major credit cards are accepted at the larger international hotels and main tourist-orientated establishments. Travellers’ cheques can be cashed at most banks in Vientiane and major towns. International ATM facilities are increasingly available. Most transactions are conducted in cash using US Dollars, Thai Baht or Lao Kip.
