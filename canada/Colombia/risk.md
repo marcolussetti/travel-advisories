@@ -8,7 +8,7 @@
 
 ### Border areas - Avoid all travel
 
-[Avoid all travel](#levels "Risk Levels") to the following departments and border areas due to the risk of kidnapping and violence posed by the presence of illegal armed groups and other criminal organizations:
+[Avoid all travel](#levels "Risk Levels") to the following departments and border areas due to the risk of kidnapping and violence posed by the presence of illegal armed groups and other criminal organizations, with exclusions where you should avoid non-essential travel:
 
 * Arauca
 * Caquetá, excluding the city of Florencia

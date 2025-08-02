@@ -19,7 +19,7 @@ There are severe penalties for possession, use or trafficking of illegal drugs. 
 
 ### 2SLGBTQI+ persons
 
-Saint Lucian law criminalize sexual acts and relationships between persons of the same sex.
+Saint Lucian law criminalizes sexual acts and relationships between persons of the same sex.
 
 2SLGBTQI+ persons could be discriminated against or detained based on their sexual orientation, gender identity, gender expression, or sex characteristics. They could also be detained and face other charges such as:
 
@@ -27,7 +27,7 @@ Saint Lucian law criminalize sexual acts and relationships between persons of th
 * gross indecency
 * offence to public morals
 
-2SLGBTQI+ persons could face up lengthy jail sentence. They should carefully consider the risks of travelling to Saint Lucia.
+2SLGBTQI+ persons could face a lengthy jail sentence. They should carefully consider the risks of travelling to Saint Lucia.
 
 [Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
 

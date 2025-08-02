@@ -26,7 +26,7 @@ The ability of the Embassy of Canada to Nicaragua to provide consular assistance
 
 #### Petty crime
 
-Petty crime, such as pickpocketing and purse snatching, occurs. Crime against property, such as house and car burglaries also occur frequently in:
+Petty crime, such as pickpocketing and purse snatching, occurs. Crime against property, such as house and car burglaries, also occurs frequently in:
 
 * the poor neighbourhoods of the following cities:
   + Bluefields
@@ -81,7 +81,7 @@ While driving:
 
 ### Violent crime
 
-Violent crime, including murders, armed robberies and sexual assaults, occurs although difficult to assess and likely under reported.
+Violent crime, including murders, armed robberies and sexual assaults, occurs, although it is difficult to assess and likely underreported.
 
 Most violent incidents are organized crime-related or politically motivated. Paramilitary forces and para-police, which are armed civilians in plain clothes, have committed exactions against citizens. Assaults mostly take place in major cities but sometimes also in rural areas.
 

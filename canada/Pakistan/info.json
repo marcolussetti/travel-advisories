@@ -1,7 +1,7 @@
 {
     "name": "Pakistan",
-    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
-    "update_date": "2025-07-28T11:40:00",
+    "update_reason": "Safety and security \u2013 added information about U.S. Security Alert for Karachi",
+    "update_date": "2025-08-01T16:18:00",
     "sections": {
         "risk": "canada/Pakistan/risk.md",
         "security": "canada/Pakistan/security.md",
