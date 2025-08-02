@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   31 July 2025
+:   2 August 2025
 
 Updated:
-:   30 July 2025
+:   1 August 2025
 
 Latest update:
-:   Earthquake and Tsunami warning - regional update ('Warnings and insurance' page).
+:   Removal of information on tsunami alert specific to the earthquake in the Kamchatka Peninsular Region (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/67c05135b0bb6528ee866b96/FCDO_TA_054_-_Colombia_Travel_Advice_Ed3_WEB.jpg)
 
@@ -61,12 +61,6 @@ FCDO advises against all but essential travel to within 5km of the border with E
 FCDO advises against all but essential travel to Orito, San Miguel, Valle del Guamuez, Puerto Caicedo, Puerto Guzmán, Puerto Asis and Puerto Leguizamo in Putumayo Department.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/colombia/regional-risks).
-
-## Earthquake in the Kamchatka Peninsular Region
-
-An earthquake with a preliminary magnitude of 8.8 has struck the eastern coast of Russia in the Kamchatka Peninsula region. A tsunami threat message has been issued by the Pacific Tsunami Warning Centre.
-
-If you are in areas which may be affected by the earthquake or tsunami, see [The National Unit for Disaster Risk Management (UNGRD) X account](https://x.com/UNGRD) for information. Follow the advice of the local authorities.
 
 ## Before you travel
 

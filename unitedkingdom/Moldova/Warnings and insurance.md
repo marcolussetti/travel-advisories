@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   5 June 2025
+:   2 August 2025
 
 Updated:
-:   4 June 2025
+:   1 August 2025
 
 Latest update:
-:   Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport ('Safety and security' page).
+:   Updated with information about the risks from terrorism (‘Safety and security’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/620fb5b8d3bf7f4f05879a08/FCDO__TA__058_-_Moldova_Travel_Advice_Ed1__WEB_.jpg)
 

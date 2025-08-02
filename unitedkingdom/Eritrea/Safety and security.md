@@ -20,25 +20,29 @@ Military activity is currently underway in response to attempts by Houthi milita
 
 ### Local security measures
 
-There are often reports in Eritrea of conscription surges and mobilisation, connected to the regional instability of the Horn of Africa. Extra security measures may still be in place around Asmara and other regions of Eritrea. Get advice from your host, accommodation or travel operator.
+There are  periodically reports of conscription surges and mobilisation of reservists in Eritrea, connected to regional instability of the Horn of Africa. Security measures may be in place around Asmara and other regions of Eritrea. Get advice from your host, accommodation or travel operator.
+
+Tensions between Eritrea and Ethiopia are high. The security situation could change with little notice
 
 ### Armed civilians
 
 A large proportion of the population has access to arms under the government of Eritrea’s civilian militia programme. The British Embassy has no evidence these weapons increase the threat of violent crime.
 
-## Travelling outside of Asmara
+## Travel permits
 
-Foreign nationals must apply in advance for a permit to travel outside Asmara’s surrounding province, Zoba Maekel. There are checkpoints outside Asmara where officials will check your travel permit. Applications for permits are handled by the relevant ministry:
+Foreign nationals must apply in advance for a permit to travel outside Asmara’s surrounding province, Zoba Maekel, as well as to certain sites within the capital like the ‘tank graveyard’. There are checkpoints outside Asmara where officials will check your travel permit. Applications for permits are handled by the relevant ministry:
 
 * Ministry of Trade and Industry for business travellers
 * Ministry of Tourism, Harnet Avenue, for tourists
 * Ministry of Foreign Affairs for diplomats
 
+Applications may take several days to be processed and are not always successful.
+
 When applying, you must give details of the car you’ll be travelling in. There have been reports of authorities not allowing tourists to use public transport for travel outside of Asmara.
 
-If you are living or working outside Asmara, you will also need a travel permit to leave your area of residence or work. Apply to the local region (‘zoba’) administration office. Applications may take several days to be processed and are not always successful.
+If you are living or working outside Asmara, you will also need a travel permit to leave your area of residence or work. Apply to the local region (‘zoba’) administration office.
 
-Restrictions on travel by foreign nationals apply equally to foreign diplomats. Staff from the British Embassy cannot always give consular assistance in person to British nationals outside Asmara.
+Restrictions on travel by foreign nationals apply equally to foreign diplomats. Staff from the British Embassy cannot always provide consular assistance in person to British nationals outside Asmara.
 
 ## Crime
 
@@ -60,11 +64,11 @@ You must always carry ID. A copy of the photo page of your passport is enough. K
 
 Internet access is highly restricted in Eritrea, mainly limited to hotels and a small number of internet cafes. There is no 3G in the country. The national telephone networks are often unreliable and may only work for limited periods each day outside Asmara and larger towns.
 
-International SIM cards will not work in Eritrea. You need a residence permit to buy a local SIM card and this can take several weeks. There have been unconfirmed reports that phone calls made on the Eritrean mobile network are recorded.
+International SIM cards do not work in Eritrea. You need a residence permit to buy a local SIM card and this can take several weeks. There have been unconfirmed reports that phone calls made on the Eritrean mobile network are recorded.
 
-### Using cameras in secure areas
+### Photography
 
-Photographing government buildings and military installations is illegal. You need a permit to take photographs of the ‘tank graveyard’ in Asmara. You can apply for a permit at the [Ministry of Tourism](http://www.eritrea.be/MoT.htm). Always ask if you want to take a photo in any area where security personnel are present.
+Photographing government buildings and military installations is illegal. Always ask if you want to take a photo in any area where security personnel are present. You need a permit to take photographs of the ‘tank graveyard’ in Asmara. You can apply for a permit at the [Ministry of Tourism](http://www.eritrea.be/MoT.htm).
 
 ### LGBT+ travellers
 
@@ -76,19 +80,19 @@ Read more [advice for LGBT+ travellers](https://www.gov.uk/lesbian-gay-bisexual-
 
 ### Road travel
 
-If you are planning to drive in Eritrea, see [information on driving abroad](https://www.gov.uk/driving-abroad).
+If you are planning to drive in Eritrea, you will need a [1949 version of the international driving permit (IDP)](https://www.gov.uk/driving-abroad/international-driving-permit) and your UK driving licence. You cannot get an IDP outside the UK so get one before you travel.
 
-You’ll need a [1949 version of the international driving permit (IDP)](https://www.gov.uk/driving-abroad/international-driving-permit) and your UK driving licence. Take both to the Ministry of Transportation and Communication and they will issue you with a driving permit.
+Take both your IDP and UK driving license to the Ministry of Transportation and Communication and they will issue you with a driving permit.
 
-You cannot get an IDP outside the UK so get one before you travel.
+See [information on driving abroad](https://www.gov.uk/driving-abroad).
 
 ### Road conditions
 
-If you travel after dark during power cuts or in rural areas, roads could be unlit and street lighting limited.
-
-Road signage and safety barriers are scarce and road surfaces are uneven. Other drivers may drive without lights and some drive erratically or at speed. Tight blind bends and steep drops are common. In many parts of the country, roads are difficult or impassable during the rainy season.
+Road signage and safety barriers are scarce and road surfaces are uneven. Tight blind bends and steep drops are common. Street lighting is limited and may be affected by power cuts. Other drivers may drive without lights and some drive erratically or at speed. In many parts of the country, roads are difficult or impassable during the rainy season.
 
 ### Air travel
+
+The runway at Asmara International Airport is occasionally damaged by weather conditions, particularly during the rainy season. If this happens, flights may be delayed or cancelled until the runway has been repaired, and travellers may experience significant disruption.
 
 The [UK Air Safety List (ASL)](https://www.gov.uk/guidance/uk-air-safety-list) lists all known airlines in Eritrea that do not meet international safety standards and are banned from operating commercial air services to, from, and within the UK. Check the UK Air Safety List when considering which airlines to fly with. The list is maintained by the Department for Transport, based on advice from the [UK Civil Aviation Authority](https://www.caa.co.uk/Commercial-Industry/Airlines/Licensing/Requirements-and-guidance/Third-Country-Operator-Certificates).
 
@@ -96,9 +100,7 @@ Check whether your tour operator has concerns about airlines in Eritrea.
 
 ### Sea travel
 
-Mariners must get permissions and entry visas before attempting to land in Eritrea.
-
-You risk being detained if you go ashore on the south-western Hanish Islands or any other islands that belong to Eritrea. See [regional risks](/foreign-travel-advice/eritrea/regional-risks).
+Mariners should get permissions and entry visas before attempting to enter Eritrean waters. Vessels have been impounded and crew detained for entering Eritrean waters or landing in Eritrea, including islands belonging to Eritrea without permission.
 
 ### Piracy risk
 

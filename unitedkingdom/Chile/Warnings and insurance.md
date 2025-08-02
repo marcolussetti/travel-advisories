@@ -1,27 +1,15 @@
 # Warnings and insurance
 
 Still current at:
-:   31 July 2025
+:   2 August 2025
 
 Updated:
-:   30 July 2025
+:   1 August 2025
 
 Latest update:
-:   Updated information about tsunami risks ('Warnings and insurance' page).
+:   Removal of information on tsunami alert specific to the Earthquake in the Kamchatka Peninsular Region (‘Warnings and insurance’ page).
 
 This travel advice page also covers Rapa Nui (Easter Island).
-
-## Earthquake in the Kamchatka Peninsular Region
-
-An earthquake with a preliminary magnitude of 8.8 has struck the eastern coast of Russia in the Kamchatka Peninsula region. Chile’s National Service for Disaster Prevention and Response (SENAPRED) has issued tsunami alerts for Chile’s Pacific coast and Rapa Nui (Easter Island).
-
-If you are in the areas potentially affected by the earthquake or tsunami you should follow the advice of the local authorities.
-
-Actions to take:
-
-* Monitor local media for updates and information about affected areas
-* Notify friends and family of your safety
-* Have travel documents up to date and easily accessible
 
 ## Before you travel
 

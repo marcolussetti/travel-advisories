@@ -1,18 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   17 June 2025
+:   2 August 2025
 
 Updated:
-:   16 June 2025
+:   1 August 2025
 
 Latest update:
-:   Updated information on what health risks you'll face in Ethiopia, including Mpox ('Health' page).
-
-![](https://assets.publishing.service.gov.uk/media/67d4bf03b1e34f07631b5c1b/FCDO__TA__017_-_Ethiopia_Travel_Advice_Ed36__WEB_.jpg)
-
-
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/67d4bbf4a4075fa7b9851dfb/Annex_C_-_Ethiopia_Map__After_Proposed_Changes_.pdf)
+:   FCDO now advises against all travel to south and west of the A3 road in North Shewa zone, including the A3 road itself in North Shewa, and to within 10km of the borders with South Sudan and Kenya, including the shores of Lake Turkana. FCDO now advises against all but essential travel all of East Shewa zone (except the Addis Ababa to Adama Expressway and 10km either side of the expressway between Addis Ababa and Bishoftu and the Addis Ababa to Hawassa Expressway) and West Guji and Guji zones (except the Hawassa to Mega road); updated information on conflict and violence (‘Warnings and insurance’ and ‘Safety and security’ pages).
 
 ## Areas where FCDO advises against travel
 
@@ -61,15 +56,15 @@ FCDO advises against all travel to:
 
 * within 10km of the border with Kenya, except for principal roads and towns
 * north of (but not including) the A4 road in West Shewa zone
-* south and west of the A3 road in North Shewa zone
+* south and west of the A3 road in North Shewa zone, including the A3 road itself in North Shewa
 * West Wollega zone (including the main Addis Ababa to Gambela road), East Wollega zone, Kellem Wollega and Horo Gudru Wollega
 
 FCDO advises against all but essential travel to:
 
-* all of East Shewa zone except the Addis Ababa to Adama Expressway and 10km either side of the expressway between Addis Ababa and Bishoftu.
-* the A4 road between Addis Ababa and Cheliya, except for the section in the Finfine special zone.
-* all of North Shewa zone (including the section of the A3 road there)
-* West Guji and Guji zones
+* all of East Shewa zone except the Addis Ababa to Adama Expressway and 10km either side of the expressway between Addis Ababa and Bishoftu and the Addis Ababa to Hawassa Expressway
+* the A4 road between Addis Ababa and Cheliya, except for the section in the Finfine special zone
+* the remainder of North Shewa zone
+* West Guji and Guji zones (except the Hawassa to Mega road)
 
 ### Somali region
 
@@ -89,7 +84,7 @@ FCDO advises against all but essential travel to:
 
 ### Central, Southern, Sidama and South West regions (formerly SNNPR)
 
-FCDO advises against all travel to within 10km of the borders with South Sudan and Kenya
+FCDO advises against all travel to within 10km of the borders with South Sudan and Kenya including the shores of Lake Turkana
 
 ### Benishangul-Gumuz region
 

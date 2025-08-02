@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   31 July 2025
+:   2 August 2025
 
 Updated:
-:   30 July 2025
+:   1 August 2025
 
 Latest update:
-:   Tsunami Alert following earthquake in the Kamchatka Peninsular Region. (See ‘Warnings and insurance’ page).
+:   Removal of information about State of Emergency (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/6645e81e993111924d9d365a/FCDO__TA__093_-_Peru_Travel_Advice_Ed3__WEB_.jpg)
 
@@ -32,32 +32,6 @@ FCDO advises against all but essential travel to the Valley of the Apurímac, En
 We advise against all but essential travel to these two areas for safety and security reasons.
 
 Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/peru/regional-risks).
-
-## Earthquake in the Kamchatka Peninsular Region
-
-An earthquake with a preliminary magnitude of 8.8 has struck the eastern coast of Russia in the Kamchatka Peninsula region. A tsunami threat message has been issued by the Pacific Tsunami Warning Centre.
-
-If you are in the affected areas potentially affected by the earthquake or tsunami you should follow the advice of the local authorities.
-
-## Tsunami Alert following earthquake in the Kamchatka Peninsular Region
-
-The Peruvian Government has issued a Tsunami alert for the Peruvian Coastal area advising of a ‘high probability of a tsunami’ expected to arrive on Wednesday 30 July. They are recommending that people remain alert to updates, follow emergency instructions, avoid and evacuate from beaches and low-lying areas, and suspend any planned maritime activity.
-
-More information can be found on: [DIHIDRONAV - Dirección de Hidrografía y Navegación](https://www.dhn.mil.pe/portal/) (in Spanish only)
-
-## State of Emergency
-
-The Peruvian government has extended the State of Emergency until 16 July in the following regions:
-
-* Ambo district in Huánuco region
-* Pastaza district in Datem del Marañón province, Loreto region
-* Putumayo, Rosa Panduro, Teniente Clevero and Yagua in Putumayo province, Loreto region
-* Illimo district in Lambayeque region
-* Pangoa and Río Tambo districts in Satipo province, Junín region
-* Ate, Carabayllo, Comas, Puente Piedra, San Juan de Lurigancho, San Martín de Porres, Villa El Salvador, and Villa María del Triunfo districts in Lima
-* Callao region
-
-This will see the police and army working together, and permit the restriction of some constitutional rights, for example, the police will be able to detain people without a judicial order if they deem it necessary.
 
 ## Before you travel
 

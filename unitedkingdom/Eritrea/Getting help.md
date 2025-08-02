@@ -27,7 +27,7 @@ Find out more about [changing or cancelling travel plans](https://www.gov.uk/gui
 
 Consular support is severely limited in parts of Eritrea. Constraints on travel within Eritrea mean the British Embassy is often unable to deliver in-person consular assistance outside the greater Asmara area.
 
-The Eritrean authorities may not inform the British Embassy if a British national is in need of help. There have been recent instances where the Eritrean authorities have refused the embassy consular access to detained foreign nationals.
+The Eritrean authorities may not inform the British Embassy if a British national is in need of help. There have been instances where the Eritrean authorities have refused to give the Embassy consular access to detained foreign nationals.
 
 ## Support from FCDO
 

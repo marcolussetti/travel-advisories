@@ -1,11 +1,11 @@
 {
     "name": "Russia",
-    "update_reason": "Earthquake and Tsunami warning - regional update ('Warnings and insurance' page).",
+    "update_reason": "Removal of information on tsunami alert specific to the earthquake in the Kamchatka Peninsular Region  (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Russia/Warnings and insurance.md",
-            "update_date": "2025-07-30T03:57:48+01:00"
+            "update_date": "2025-08-01T16:49:20+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Russia/Getting help.md"
         }
     ],
-    "update_date": "2025-07-30T03:57:48+01:00"
+    "update_date": "2025-08-01T16:49:20+01:00"
 }

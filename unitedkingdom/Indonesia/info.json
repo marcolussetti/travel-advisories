@@ -1,11 +1,11 @@
 {
     "name": "Indonesia",
-    "update_reason": "Updated information on entering Indonesia with the appropriate visa('Entry requirements' page).",
+    "update_reason": "New information for travellers to fill in a customs declaration form before travel ('Entry requirements' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Indonesia/Warnings and insurance.md",
-            "update_date": "2025-07-03T10:53:22+01:00"
+            "update_date": "2025-08-01T15:24:41+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Indonesia/Getting help.md"
         }
     ],
-    "update_date": "2025-07-03T10:53:22+01:00"
+    "update_date": "2025-08-01T15:24:41+01:00"
 }

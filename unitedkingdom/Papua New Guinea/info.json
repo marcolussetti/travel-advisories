@@ -1,11 +1,11 @@
 {
     "name": "Papua New Guinea",
-    "update_reason": "Earthquake and Tsunami warning - regional update ('Warnings and insurance' page).",
+    "update_reason": "Removal of information on tsunami alert specific to the Earthquake in the Kamchatka Peninsular Region  (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Papua New Guinea/Warnings and insurance.md",
-            "update_date": "2025-07-30T12:11:07+01:00"
+            "update_date": "2025-08-01T12:40:20+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Papua New Guinea/Getting help.md"
         }
     ],
-    "update_date": "2025-07-30T12:11:07+01:00"
+    "update_date": "2025-08-01T12:40:20+01:00"
 }

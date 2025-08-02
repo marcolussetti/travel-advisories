@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   17 July 2025
+:   2 August 2025
 
 Updated:
-:   16 July 2025
+:   1 August 2025
 
 Latest update:
-:   Removal of information about the UK Air Safety List, as Pakistani air carriers are no longer on the UK Air Safety List. Addition of information about risks related to terrorism ('Safety and security' page).
+:   Addition of information about a US Security Alert reporting a threat to high-end hotels in Karachi (‘Safety and security’ page).
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 

@@ -1,17 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   22 July 2025
+:   2 August 2025
 
 Updated:
-:   21 July 2025
+:   1 August 2025
 
 Latest update:
-:   FlySafair planned pilot strikes from 21 July until 3 August may cause disruption to internal and regional flights (‘Warnings and insurance’ page).
-
-## FlySafair pilot strike
-
-FlySafair pilots have announced plans to strike from 21 July until 3 August, which may cause flight disruptions for internal and regional flights. Check your booking with FlySafair or your tour operator ahead of your intended travel.
+:   Removal of information on FlySafair pilot strike ('Warnings and insurance' page).
 
 ## Before you travel
 

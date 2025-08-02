@@ -1,11 +1,11 @@
 {
     "name": "Chile",
-    "update_reason": "Updated information about tsunami risks ('Warnings and insurance' page).",
+    "update_reason": "Removal of information on tsunami alert specific to the Earthquake in the Kamchatka Peninsular Region  (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Chile/Warnings and insurance.md",
-            "update_date": "2025-07-30T17:22:22+01:00"
+            "update_date": "2025-08-01T12:41:44+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Chile/Getting help.md"
         }
     ],
-    "update_date": "2025-07-30T17:22:22+01:00"
+    "update_date": "2025-08-01T12:41:44+01:00"
 }

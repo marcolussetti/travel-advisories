@@ -9,7 +9,7 @@ This is particularly important if you have a health condition or are pregnant.
 
 ## Emergency medical number
 
-Call 122244 and ask for an ambulance.
+Call 122244 and ask for an ambulance. Please note that the call handler may not speak English.
 
 Contact your insurance company quickly if you’re referred to a medical facility for treatment.
 

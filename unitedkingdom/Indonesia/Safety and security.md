@@ -100,13 +100,16 @@ Affected drinks have included:
 
 To protect yourself from methanol poisoning:
 
-* buy alcoholic beverages only from licensed liquor stores
-* buy drinks only at licensed bars and hotels
+* buy alcoholic beverages only from licensed liquor stores, bars, clubs, restaurants and hotels
 * avoid home-made alcoholic drinks
 * check bottle seals are intact
 * check labels for poor print quality or incorrect spelling
 
-Methanol is tasteless and odourless. TravelHealthPro lists the [symptoms of methanol poisoning](https://www.travelhealthpro.org.uk/factsheet/25/personal-safety). Seek [urgent medical attention](https://www.gov.uk/government/publications/indonesia-list-of-medical-facilities-and-funeral-directors/list-of-medical-facilities-in-indonesia) if you or someone you are travelling with show signs of methanol poisoning.
+Methanol is tasteless and odourless. If the label, smell or taste seems wrong, do not drink the alcohol. These are signs it is illegal and could contain methanol.
+
+TravelHealthPro lists the [symptoms of methanol poisoning](https://www.travelhealthpro.org.uk/factsheet/25/personal-safety). For more information about spiking and methanol poisoning, read Travel Aware’s information on [Spiking and methanol poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/).
+
+Seek [urgent medical attention](https://www.gov.uk/government/publications/indonesia-list-of-medical-facilities-and-funeral-directors/list-of-medical-facilities-in-indonesia) if you or someone you are travelling with show signs of methanol poisoning.
 
 ## Laws and cultural differences
 

@@ -20,10 +20,6 @@ You must have a visa to enter Eritrea. For information about visas, contact the 
 
 Dual nationals who enter Eritrea on an Eritrean identity card will need an exit permit from the Immigration Office in Asmara to leave the country.
 
-## Land border crossings
-
-Eritrea’s land borders with Djibouti and Ethiopia are closed at the moment. It is unclear if and when the borders will reopen. Eritrea’s land border with Sudan is operational in response to the conflict in Sudan.
-
 ## Vaccination requirements
 
 At least 8 weeks before your trip, check the [vaccinations and certificates you need in TravelHealthPro’s Eritrea guide](https://travelhealthpro.org.uk/country/74/eritrea#Vaccine_Recommendations).

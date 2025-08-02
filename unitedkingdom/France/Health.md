@@ -23,6 +23,7 @@ At least 8 weeks before your trip:
 See what [health risks you’ll face in France](https://travelhealthpro.org.uk/country/81/france), including:
 
 * dengue
+* chikungunya
 * biting insects and ticks
 
 Altitude sickness is a risk in parts of France. Read more about [altitude sickness on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/26/altitude-illness).

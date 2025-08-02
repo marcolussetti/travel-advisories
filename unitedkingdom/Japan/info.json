@@ -1,11 +1,11 @@
 {
     "name": "Japan",
-    "update_reason": "Updated information on tsunami warnings following 8.8 earthquake (Warnings and insurance)",
+    "update_reason": "Removal of information on tsunami alert specific to the Earthquake in the Kamchatka Peninsular Region  (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Japan/Warnings and insurance.md",
-            "update_date": "2025-07-31T02:05:24+01:00"
+            "update_date": "2025-08-01T12:38:35+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Japan/Getting help.md"
         }
     ],
-    "update_date": "2025-07-31T02:05:24+01:00"
+    "update_date": "2025-08-01T12:38:35+01:00"
 }

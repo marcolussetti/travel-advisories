@@ -57,6 +57,10 @@ Find more information [about](https://www.gov.uk/guidance/indonesia-visa-oversta
 
 To enter Indonesia, all international travellers must fill out an electronic self-declaration form called [SATUSEHAT Health Pass](https://sshp.kemkes.go.id/). It is recommended that you complete this form prior to departure to avoid delays when arriving in Indonesia.
 
+## Customs declaration
+
+You will be required to complete an [e-customs declaration](https://ecd.beacukai.go.id/) form when travelling to Indonesia. You can complete this up to 3 days before your arrival.
+
 ## Registering with the police
 
 If you stay in private accommodation in Indonesia, you must register your presence with the local police at the nearest police station. You could be fined 5 million Indonesian rupiah if you do not register. If you’re staying in a hotel, you will be registered automatically.

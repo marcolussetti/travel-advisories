@@ -1,11 +1,11 @@
 {
     "name": "South Africa",
-    "update_reason": "FlySafair planned pilot strikes from 21 July until 3 August may cause disruption to internal and regional flights (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Removal of information on FlySafair pilot strike ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/South Africa/Warnings and insurance.md",
-            "update_date": "2025-07-21T16:36:26+01:00"
+            "update_date": "2025-08-01T17:05:16+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/South Africa/Getting help.md"
         }
     ],
-    "update_date": "2025-07-21T16:36:26+01:00"
+    "update_date": "2025-08-01T17:05:16+01:00"
 }

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   31 July 2025
+:   2 August 2025
 
 Updated:
-:   30 July 2025
+:   1 August 2025
 
 Latest update:
-:   Updated information on new Schengen entry requirements being introduced from 12 October ('Entry requirements' page).
+:   Updated information on wildfire risks and health ( 'Safety and security' and 'Health' pages).
 
 ## Before you travel
 

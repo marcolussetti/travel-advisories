@@ -1,11 +1,11 @@
 {
     "name": "France",
-    "update_reason": "Updated information on new Schengen entry requirements being introduced from 12 October ('Entry requirements' page).",
+    "update_reason": "Updated information on wildfire risks and health ( 'Safety and security' and 'Health' pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/France/Warnings and insurance.md",
-            "update_date": "2025-07-30T15:10:34+01:00"
+            "update_date": "2025-08-01T16:36:18+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/France/Getting help.md"
         }
     ],
-    "update_date": "2025-07-30T15:10:34+01:00"
+    "update_date": "2025-08-01T16:36:18+01:00"
 }

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   29 July 2025
+:   2 August 2025
 
 Updated:
-:   28 July 2025
+:   1 August 2025
 
 Latest update:
-:   Information added about a 3-day strike for taxi drivers in Luanda from 28 July. We are aware of reports of attacks on vehicles, including on app-based taxis (e.g. Yango and Heetch) and public buses, looting and civil disorder in the capital, Luanda (‘Warnings and insurance’ page).
+:   Updated information about protests in Luanda ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/6437d3f1db4ba90013448e0a/FCDO__TA__053_-_Angola_Travel_Advice_Ed2__WEB_.jpg)
 
@@ -30,7 +30,7 @@ Find out more about [why FCDO advises against travel](/foreign-travel-advice/ang
 
 ## Protests in Luanda
 
-The taxi drivers union has called for a 3 day strike from 28 July. There are reports of attacks on vehicles, including app-based taxis (eg Yango and Heetch) and public buses. There are also reports of civil disorder and looting. The disorder may occur in any part of the city, and may move to different places. Take local advice and move away if you see a demonstration or crowd forming.
+Unrest in Luanda and several provinces on 28 - 31 July has resulted in at least 29 fatalities, according to the Government of Angola. While tensions have eased, the situation remains unpredictable. British nationals should remain vigilant, avoid all demonstrations, and follow local guidance.
 
 ## Before you travel
 
