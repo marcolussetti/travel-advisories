@@ -2,7 +2,7 @@
 
 Please be aware that Ecuador is in an earthquake zone and is also subject to volcanic eruptions. Travelers should check the website of the [**National Ecuadorian Geophysics Institute**](http://www.igepn.edu.ec/) for the latest information.
 
-### **Earthquakes and natural disasters**
+### **Earthquakes and Natural disasters**
 
 There is increased risk of earthquakes (the last major earthquake (6.8 magnitude) occurred on 18 March 2023) and other natural disasters. Visitors should familiarise themselves with evacuation procedures in whatever area of the country they are in, and in case of emergency, follow the advice of the local authorities.
 

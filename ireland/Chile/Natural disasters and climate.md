@@ -12,6 +12,6 @@ Because Chile is in an active seismic zone, volcanic eruptions can occur. If tra
 
 Flooding is frequent during autumn and winter throughout the country, mainly as a result of heavy rains and overloaded sewage systems. Transportation and services are often affected.
 
-### **Forest fires**
+### **Forest Fires**
 
 Forest fires often occur during the summer months. Even though they can happen anywhere, forest fires usually occur between Santiago and Valparaíso and in the Magallanes. In the event of a major fire, visitors should follow the instructions of local emergency services, particularly with regard to evacuation procedures.

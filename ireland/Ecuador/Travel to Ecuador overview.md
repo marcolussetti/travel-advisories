@@ -6,17 +6,13 @@ Avoid Non-Essential Travel
 
 ### **Travel Alert**
 
-### **Tsunami risk**
-
-There exists a risk of tsunami on the coast of Ecuador, including the Galapagos Islands, on 30 July 2025. Citizens are advised to follow the advice of local authorities and contact the Embassy if assistance is required.
-
 ### **Yellow Fever**
 
 As of 12 May 2025, travellers to Ecuador will require a yellow fever vaccination certificate, owing to the increase of yellow fever in the region. In particular, travellers from Colombia, Peru, Bolivia, and Brazil will need to present a yellow fever vaccination certificate.
 
 The yellow fever vaccine must have been administered at least 10 days before entering Ecuador. The certificate may be requested when boarding by means of air, land, or sea transport to Ecuador.
 
-### **State of emergency**
+### **State of Emergency**
 
 A state of emergency was renewed on 12 June 2025 for 60 days owing to ongoing internal unrest and armed violence. The current state of emergency applies to the following provinces:
 
@@ -87,7 +83,7 @@ If they do not have the correct documentation they may not be permitted to enter
 
 For all entry, including via land, airports and seaports, you may be asked to provide a reason for your travel and evidence of a return or onward journey.
 
-### **Heavy rainfall**
+### **Heavy Rainfall**
 
 A regional state of emergency was declared by the Committee of Emergency Operations (COE) on 04 July 2025 for 45 days due to heavy rainfall. It applies to the following provinces:
 

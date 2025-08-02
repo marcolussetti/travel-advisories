@@ -11,7 +11,7 @@ The New Zealand Government requires a New Zealand Electronic Travel Authority (N
 
 The NZeTA can be requested via the official mobile app or website at [**https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/about-visa/nzeta**](https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/about-visa/nzeta).
 
-The NZeTA will cost NZD $17 on the mobile app, or NZD $23 online. Visitors will also be required to pay an International Visitor Conservation and Tourism Levy (IVL). The IVL costs NZD $35 and is paid at the same time as the NZeTA.
+The NZeTA will cost NZD $17 on the mobile app, or NZD $23 online. Visitors will also be required to pay an International Visitor Conservation and Tourism Levy (IVL). The IVL costs NZD $100 and is paid at the same time as the NZeTA.
 
 Visitors are advised to apply for the NZeTA at least 72 hours prior to travel in order for it to be processed in good time. The criteria for a successful application can be found [**here**](https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/criteria/nzeta?nationality=nationality-IRL&country=residence-IRL).
 

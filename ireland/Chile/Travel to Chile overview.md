@@ -1,14 +1,8 @@
 ## Travel to Chile overview
 
-### **Security status**
+### **Security Status**
 
 Normal Precautions
-
-### **Travel Alert**
-
-### **Tsunami risk**
-
-There exists a risk of tsunami on the coast of Chile on 30 July 2025. Citizens are advised to follow the advice of local authorities and contact the Embassy if assistance is required.
 
 ### **General Travel Advice**
 

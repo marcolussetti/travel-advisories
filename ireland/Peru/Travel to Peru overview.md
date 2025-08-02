@@ -6,10 +6,6 @@ High Degree of Caution
 
 ### **Travel Alert**
 
-### **Tsunami risk**
-
-There exists a risk of tsunami on the coast of Peru on 30 July 2025. Citizens are advised to follow the advice of local authorities and contact the Embassy if assistance is required.
-
 ### **Yellow Fever**
 
 The Ministry of Health of Peru has announced [epidemiological alert](https://www.gob.pe/institucion/minsa/noticias/1130076-minsa-emite-alerta-epidemiologica-por-fiebre-amarilla-e-intensifica-acciones-en-amazonas-huanuco-y-san-martin) due to the sharp rise in yellow fever cases. In particular, there has been a rise in cases in areas of the Peruvian Amazon, including the districts of Huanuco, San Martin, and Amazonas.
