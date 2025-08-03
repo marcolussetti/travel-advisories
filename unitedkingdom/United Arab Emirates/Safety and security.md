@@ -12,7 +12,9 @@ Terrorists are likely to try to carry out attacks in the United Arab Emirates (U
 
 Attacks could be indiscriminate, including in places visited by foreign nationals.
 
-Terrorists continue to issue statements threatening to carry out attacks in the Gulf region. These include references to attacks on western interests, including against UK citizens. Targets may include:
+Terrorists continue to issue statements threatening to carry out attacks in the Gulf region. These include references to attacks on western interests, including against UK citizens. Due to increasing regional tensions, Israeli and Jewish linked sites could be targets for terrorists in the UAE.
+
+Targets may include:
 
 * residential compounds
 * military sites

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   28 June 2025
+:   3 August 2025
 
 Updated:
-:   27 June 2025
+:   2 August 2025
 
 Latest update:
-:   Updated information about regional risks (see “Warnings and Insurance” page)
+:   Due to increasing regional tensions, Israeli and Jewish linked sites could be targets for terrorists in the UAE. (Safety and security)
 
 ## Regional risks
 
