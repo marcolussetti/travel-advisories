@@ -6,13 +6,11 @@ High Degree of Caution
 
 ### **Travel Alert**
 
+We are aware of reports of threats directed at high-end hotels in Karachi, and the decision of some Embassies to limit travel of staff to these locations. [Security Alert: U.S. Consulate General Karachi, Pakistan (July 31, 2025) - U.S. Embassy & Consulates in Pakistan](https://pk.usembassy.gov/security-alert-u-s-consulate-general-karachi-pakistan-july-31-2025/). Citizens may exercise additional caution in tourist areas around Karachi and this time and reconsider travel plans if not essential.
+
 We advise against all travel to parts of Pakistan, including the border areas with both India and Afghanistan, the province of Balochistan and Pakistan-administered Kashmir. See below for detailed guidance.
 
 A ceasefire between Pakistan and India was announced on 10 May following recent hostilities. The security situation may remain tense and unpredictable in parts of Pakistan and the specific guidance about parts of Pakistan continues to apply.
-
-While airlines are expected to gradually resume activities following the opening of airspace on the 10 May, it may take several days for full operations to resume.
-
-Travellers should contact their airline and monitor airport and authorities’ announcements for up-to-date information.
 
 Avoid staying near the border areas and exercise caution. Stay up to date via the media, local authorities, your hotel, travel agency or airline. Always follow the instructions of the local authorities.
 
@@ -24,7 +22,7 @@ We advise against all travel to:
 * the former FATA (Federally Administered Tribal Areas)
 * in the province of Khyber-Pakhtunkhwa: the districts of Charsadda, Kohat, Tank, Bannu, Lakki, Dera Ismail Khan, Swat, Buner and Lower Dir in North Waziristan, Upper South and Lower South Waziristan
 * the city of Peshawar and districts south of the city, including travel on the Peshawar to Chitral road via the Lowari Pass
-* travel on the Karakoram Highway between Islamabad and Gilgit
+* travel on the Karakoram Highway between Islamabad and Gilgi
 
 ### **General Travel Advice**
 
