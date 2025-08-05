@@ -6,7 +6,7 @@
 8 Boulevard Moulay Youssef,  
 Casablanca, Morocco  
 Telephone:** +(212) (522) 64-20-00  
-**Emergency After-Hours Telephone:**+(212)(661) 13-19-39  
+**Emergency After-Hours Telephone:**+212-537-63-72-00  
 **Fax:** +(212) (522) 20-41-27  
 [acscasablanca@state.gov](mailto:acscasablanca@state.gov)
 
