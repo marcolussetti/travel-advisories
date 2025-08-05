@@ -14,7 +14,13 @@ Although there’s no recent history of terrorism in Bolivia, terrorist attacks 
 
 ### Protecting your belongings
 
-Petty crime is common in central La Paz, in other popular tourist destinations, on buses and in crowded areas. Do not leave your bag or other belongings unattended. Always keep your passport, money and other valuable items in a safe place. On night buses, use a money belt under your clothes for important documents and credit cards; theft can occur when you are asleep.
+Bolivia is facing a protracted economic crisis and dollar shortage which has led to an increase in crime rates. Petty crime is common in central La Paz, in other popular tourist destinations, on buses and in crowded areas. Do not leave your bag or other belongings unattended. Always keep your passport, money and other valuable items in a safe place. On night buses, use a money belt under your clothes for important documents and credit cards; theft can occur when you are asleep.
+
+### Criminals impersonating Police Officers
+
+Thieves often impersonate police officers. They have used fake police ID cards, uniforms and even police stations to fool victims. They may ask to check your documents and your bags and take your belongings.
+
+You should not get into an unmarked police car under any circumstances. The police cannot stop or search you on the street without a written order from a state prosecutor.
 
 ### Violent crime
 
@@ -51,9 +57,9 @@ Foreign visitors are particularly vulnerable when entering Bolivia at overland b
 
 There have been several incidents at the Cementerio General and the Sopocachi areas of La Paz.
 
-Express kidnappers sometimes impersonate police officers to target foreigners. They have used fake police ID cards, uniforms and even police stations to fool victims. One of the criminals pretends to be a friendly tourist. A fake police officer then approaches and asks for passports and other information. The impostors persuade the victim to get into a taxi driven by another criminal, where they rob them, sometimes by taking them to ATMs to withdraw money.
+Express kidnappers sometimes impersonate police officers to target foreigners. They have used fake police ID cards, uniforms and even police stations to fool victims.
 
-Call the Tourist Police on 800-14-0081 (toll-free) if you suspect impostors are targeting you. The police cannot search you without a written order from a state prosecutor.
+The police cannot stop or search you on the street without a written order from a state prosecutor.
 
 Be aware of your surroundings and always let someone you trust know your whereabouts, especially after dark. If you are a victim of kidnapping, follow the kidnapper’s instructions.
 
@@ -79,7 +85,9 @@ There are illegal bars in Bolivia. If the police find you at one, you may be det
 
 ### Illegal drugs and prison sentences
 
-Bolivia is the world’s third largest producer of cocaine. There are harsh penalties for those caught trafficking or in possession. The minimum sentence is 8 years and prison conditions are very poor. Never leave luggage unattended when departing the country and avoid any contact with illegal drugs.
+Bolivia is the world’s third largest producer of cocaine. There are harsh penalties for those caught trafficking or in possession. The minimum sentence is 8 years and prison conditions are very poor. Never leave luggage unattended when departing the country and avoid any contact with illegal drugs. Under Bolivian law carrying any amount of illegal drugs or substances is considered drug trafficking.
+
+All passengers on departing international flights from Bolivia will have their hold and hand baggage searched by the Police Narcotics Division, and this will include a search of your person and your bags by a sniffer dog.
 
 ### Ayahuasca ceremonies
 
@@ -107,31 +115,31 @@ If you’re mountain biking on the so-called ‘Death Road’, from La Paz to Co
 
 ### Road travel
 
-There are blockades on many roads in Bolivia, especially near the city of Cochabamba. Check local advice before travelling. Do not attempt to cross blockades in a motor vehicle or on a motorbike. Pedestrians are not usually prevented from crossing blockades but exercise caution before doing so. There are petrol and diesel shortages across the country with extremely long queues forming at service stations in anticipation of deliveries. There may be no public transport in La Paz apart from the cable car.
+There are regular petrol and diesel shortages across the country with long queues forming at service stations in anticipation of deliveries. Bus services between cities may be affected due to lack of fuel and there may be less available public transport in La Paz and other major cities.
 
-If you are planning to drive in Bolivia, see [information on driving abroad](https://www.gov.uk/driving-abroad).
+If you are planning to drive in Bolivia, take these fuel shortages into account. They  can make long distance travel difficult and strand those traveling by car for several days while waiting for fuel deliveries, see [information on driving abroad](https://www.gov.uk/driving-abroad).
 
 You’ll need to have both a [1949 international driving permit (IDP)](https://www.gov.uk/driving-abroad/international-driving-permit) and your UK driving licence with you in the car to drive in Bolivia. You cannot buy an IDP outside the UK, so get one before you travel.
 
 ### Driving standards
 
-Road travel can be dangerous due to poor road conditions and low driving standards. Serious accidents happen on the main tourist routes. Some of Bolivia’s main highways are paved but most roads are unpaved rough tracks.
+Road travel can be dangerous due to poor road conditions and low driving standards. Serious accidents can happen on the main tourist routes. Some of Bolivia’s main highways are paved but most roads are unpaved rough tracks.
 
-During the rainy season (November to March) there is a risk of landslides and roads can be blocked. Check [road status updates from the Bolivian road authority](https://transitabilidad.abc.gob.bo/mapa/) (in Spanish) and get local advice before you set out.
+During the rainy season (November to March) there is a risk of landslides and roads can be blocked. Check [road status updates from the Bolivian road authority](https://transitabilidad.abc.gob.bo/mapa/) (in Spanish/accessible only from within Bolivia) and get local advice before you set out.
 
 Vehicles are often not well maintained. Four-wheel drive vehicles are often needed, especially during the rainy season. Broken-down vehicles with no warning lights are a frequent hazard on roads at night.
 
 ### Buses and taxis
 
-Accidents involving public transport, especially long-distance buses, have affected British people. Bus drivers drive for longer than would be permitted under European laws.
+Accidents involving public transport, especially long-distance buses, are common and have affected British nationals. Bus drivers drive for longer than would be permitted under UK laws.
 
-Many taxis and most bus companies do not meet European standards and rarely have seatbelts.
+Many taxis and most bus companies do not meet UK standards and rarely have seatbelts.
 
 Safety standards for bus transportation around Bolivia vary greatly between providers. Please keep safety in mind when booking your transportation. Some bus companies which cater specifically for the tourist market, although they may be more expensive, tend to have better safety standards, including seatbelts and better trained drivers. You should research the type of bus you will be taking carefully before travelling.
 
 ### Road blockades
 
-Groups often use road blockades as a form of protest, without warning. Avoid large crowds and demonstrations, and do not attempt to cross blockades. Blockades can disrupt public transport at very short notice. Strikes may result in widespread road blockades, including on roads to and from airports. Check [road status updates from the Bolivian road authority](https://transitabilidad.abc.gob.bo/mapa/) (in Spanish) to see which roads are blocked.
+Protest groups often use road blockades as a form of protest, without warning. Avoid large crowds and demonstrations, and do not attempt to cross blockades. Blockades can disrupt public transport at very short notice. Strikes may result in widespread road blockades, including on roads to and from airports. Check [road status updates from the Bolivian road authority](https://transitabilidad.abc.gob.bo/mapa/) (in Spanish) to see which roads are blocked.
 
 ### Air travel
 
@@ -147,11 +155,9 @@ Find out what you can do to [prepare for and respond to extreme weather and natu
 
 ### Forest fires
 
-Forest fires have been burning in Bolivia since August and continue to affect some parts of Southern and Eastern Bolivia. This is having an impact on air quality in the areas most affected by the fires but also in other parts of the country, including La Paz. It is advisable to wear a face mask if the air quality is particularly bad, or to stay inside.
+Forest fires are common during the dry season (May to October) and affect some parts of Southern and Eastern Bolivia. This can impact air quality in the areas most affected by the fires but also in other parts of the country, including La Paz. It is advisable to wear a face mask if the air quality is particularly bad, or to stay inside.
 
 ### Flooding and landslides
-
-From 20 February 2024 there are red alerts for flooding throughout Bolivia due to torrential rains. Check local advice before travelling by road.
 
 Floods and landslides are common, particularly in mountainous areas during the rainy season (November to March). Roads are often impassable for days at a time.
 

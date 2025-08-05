@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 July 2025
+:   5 August 2025
 
 Updated:
-:   25 July 2025
+:   4 August 2025
 
 Latest update:
-:   FCDO now advises against all travel to Burkina Faso ('Warnings and insurance' page).
+:   New information and language on criminal and terrorist kidnaps (See ‘Terrorist kidnap’ and ‘Criminal kidnapping’ on the ‘Safety and security’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/6880fe502b6fd60b7c160f72/FCDO_TA_006_-_Burkina_Faso_Travel_Advice_Ed2_WEB.jpg)
 

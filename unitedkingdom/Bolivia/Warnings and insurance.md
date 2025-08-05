@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   31 May 2025
+:   5 August 2025
 
 Updated:
-:   30 May 2025
+:   4 August 2025
 
 Latest update:
-:   New information about protests in Bolivia and associated disruption ('Warnings and insurance' page).
+:   This travel advice has been reviewed with changes made throughout including updated information on criminals impersonating police officers, illegal drugs, extra checks at airports and road travel (‘Entry requirements', ‘Safety and security’ and ‘Health’ pages).
 
 ![](https://assets.publishing.service.gov.uk/media/672ccc5a62831268b0b1a328/FCDO__TA__098_-_Bolivia_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -21,11 +21,6 @@ Your travel insurance could be invalidated if you travel against advice from the
 FCDO advises against all but essential travel to the Chapare region of Cochabamba Department including Villa Tunari and highway routes 4 and 24 that pass through Chapare.
 
 Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/bolivia/safety-and-security).
-
-## Disruption in Bolivia
-
-There are large political protests and blockades across the country, which could intensify at any time. The protests will hinder road transport across the country and may turn violent. The protests and blockades are in place in all 9 departments and on roads connecting major cities. In La Paz, affected areas include the centre of the city near Plaza Murillo and the area of Sopocachi near the Plaza Avaroa.
-Stay away from political protests and government buildings, and follow the advice of the police.
 
 ## Before you travel
 

@@ -47,7 +47,7 @@ For full details about medical entry requirements and recommended vaccinations, 
 
 ## Customs rules
 
-There are strict rules about [goods you can take into or out of Bolivia](https://www.aduana.gob.bo/aduana7/content/viajero) (in Spanish). You must declare anything that may be prohibited or subject to tax or duty.
+There are strict rules about [goods you can take into or out of Bolivia](https://www.aduana.gob.bo/aduana7/content/viajero) (in Spanish). You must declare anything that may be prohibited or subject to tax or duty. You should declare through [Bolivia’s 250 declaration form](https://www.bing.com/ck/a?!&&p=12b180b923e5007f8fdbbcd8b267ca6f06c33b30efbe1b0caa06c551e0985ba7JmltdHM9MTc1MzY2MDgwMA&ptn=3&ver=2&hsh=4&fclid=360c5dd0-5880-67e2-0ccc-49fa59f966a1&psq=bolivia+250+form&u=a1aHR0cDovL2FuYnN3MDEuYWR1YW5hLmdvYi5ibzo3NDAxL3ZpYWplcm8vUHVibGljbzI1MC5qc3A&ntb=1) (link only works in Bolivia).
 
 [Previous
 :

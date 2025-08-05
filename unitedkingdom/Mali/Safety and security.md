@@ -47,11 +47,13 @@ This continues a historical trend of terrorists attacking military bases and per
 
 ### Terrorist kidnap
 
-There is a very high threat of kidnapping by al-Qa’ida and Islamic State-aligned groups in Mali. JNIM and ISSP operate throughout Mali, Niger and Burkina Faso. JNIM, in particular, has previously conducted kidnappings from all parts of Mali, including in urban areas and in the capital, Bamako. The terrorist kidnap threat is most significant in northern and central Mali but is increasing in southern Mali.
+There is a very high threat of kidnapping by al-Qa’ida and Islamic State-aligned groups in Mali. JNIM and ISSP operate throughout Mali, Niger and Burkina Faso. JNIM, in particular, has previously conducted kidnappings from all parts of Mali, including in urban areas and the capital, Bamako. The terrorist kidnap threat is highest in northern and central Mali but is increasing in southern Mali.
 
-If you are working or travelling in Mali, be aware of the very high threat of terrorist kidnapping. Stay aware of your surroundings at all times, including when travelling and in crowded public places, including camps for displaced people, religious gatherings and places of worship, markets, shopping areas and places frequented by westerners like hotels, bars, nightclubs, restaurants and transport hubs. Make sure you have carefully considered the threat and have security measures in place
+A number of foreign nationals have been kidnapped in Mali in recent years, by Al-Qaeda and Islamic State affiliated groups.
 
 British nationals are seen as legitimate targets, including tourists, humanitarian aid workers, journalists and business travellers. If you are kidnapped, the reason for your presence is unlikely to protect you or secure your safe release.
+
+If you are working or travelling in Mali, be aware of the very high threat of terrorist kidnapping. Stay aware of your surroundings at all times, including when travelling and in crowded public places, including camps for displaced people, religious gatherings and places of worship, markets, shopping areas and places frequented by westerners like hotels, bars, nightclubs, restaurants and transport hubs. You should avoid regular patterns of travel and aim to only travel during daylight hours.
 
 The long-standing policy of the British government is to not make substantive concessions to hostage takers. The British government considers that paying ransoms and releasing prisoners builds the capability of terrorist groups and finances their activities. This can, in turn, increase the risk of further hostage-taking. The Terrorism Act (2000) makes payments to terrorists illegal.
 
@@ -81,13 +83,11 @@ To reduce your personal risk:
 
 Keep copies of your passport’s photo page and your visa or entry stamp in a separate place from the original in case your passport is stolen.
 
-### Criminal kidnap
+### Criminal kidnapping
 
-Criminal kidnapping takes place across Mali, including in Gao and Keyes regions.
+Kidnapping by criminal groups is widespread across Mali, Niger, and Burkina Faso. There has been an increase in kidnappings of western nationals and gangs operate throughout Mali, including in Gao and Keyes regions. There is a possibility that criminal groups could sell people they kidnap as hostages to terrorist organisations.
 
-Criminal groups have kidnapped hostages and sold them on to terrorist organisations. Such incidents have included foreign nationals, such as tourists, humanitarian aid workers, journalists and business travellers.
-
-When arranging meetings, use a secure location. Avoid regular patterns of travel and aim to only travel during daylight hours.
+British nationals are seen as legitimate targets, including tourists, humanitarian aid workers, journalists and business travellers. If you are kidnapped, the reason for your presence is unlikely to protect you or secure your safe release. You should avoid regular patterns of travel and aim to only travel during daylight hours.
 
 ### Vehicle crime
 

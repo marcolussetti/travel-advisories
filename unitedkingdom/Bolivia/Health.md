@@ -13,6 +13,8 @@ Call 118 and ask for an ambulance.
 
 Contact your insurance company quickly if you’re referred to a medical facility for treatment.
 
+Public healthcare in Bolivia can be inconsistent in response times and quality of service throughout the country. In remote areas the provision of emergency medical assistance is limited. Consider private alternatives if they are available.
+
 ## Vaccine recommendations and health risks
 
 At least 8 weeks before your trip:
@@ -37,7 +39,7 @@ Read [best practice when travelling with medicines on TravelHealthPro](https://t
 
 ## Healthcare in Bolivia
 
-The public healthcare system does not meet the same standards as the UK, and you may not be able to access the public health system as it is already overstretched. There are private clinics in all main cities that work with international insurance. It is very important to have travel insurance and access to funds, as you will need to pay up front to receive treatment.
+The public healthcare system does not meet the same standards as the UK, and you may not be able to access the public health system as it is already overstretched. Bolivia is also prone to shortages in medical supplies and pharmaceuticals. There are private clinics in all main cities that work with international insurance. It is very important to have travel insurance and access to funds, as you will need to pay up front to receive treatment.
 
 FCDO has a list of [medical providers in Bolivia](https://www.gov.uk/government/publications/bolivia-medical-facilities-and-practitioners) where some staff will speak English.
 

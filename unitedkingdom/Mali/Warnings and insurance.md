@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   21 June 2025
+:   5 August 2025
 
 Updated:
-:   20 June 2025
+:   4 August 2025
 
 Latest update:
-:   Updated information on the visa process and the security situation, including terrorist threats to international businesses ('Entry requirements' and 'Safety and security' pages).
+:   Updated information and language on criminal and terrorist kidnaps (See ‘Terrorist kidnap’ and ‘Criminal kidnapping’ on the ‘Safety and security’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/651e9d407309a10014b0a8b3/FCDO__TA__026_-_Mali_Travel_Advice_Ed5__WEB_.jpg)
 

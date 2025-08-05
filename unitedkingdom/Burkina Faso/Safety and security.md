@@ -40,15 +40,15 @@ Examples of significant attacks include:
 
 ### Terrorist kidnap
 
-There’s a very high threat of kidnapping by Al-Qaeda and Islamic State-affiliated and other regional Islamist groups. These include Jamaat Nusrat al-Islam wal Muslimeen (JNIM) and Islamic State Greater Sahara (ISGS ), who operate throughout Mali, Niger and Burkina Faso.
+There’s a very high threat of kidnapping by Al-Qaeda and regional Islamic State-affiliated groups in Burkina Faso. These include Jamaat Nusrat al-Islam wal Muslimeen (JNIM) and Islamic State Greater Sahara (ISGS ), who operate throughout Mali, Niger and Burkina Faso.
 
-A number of Westerners have been kidnapped and killed in Burkina Faso in recent years, especially in the Northeast of the country.
+A number of foreign nationals have been kidnapped and killed in Burkina Faso in recent years, especially in the northeast of the country.
 
 British nationals are seen as legitimate targets, including tourists, humanitarian aid workers, journalists and business travellers. If you are kidnapped, the reason for your presence is unlikely to protect you or secure your safe release.
 
-The long-standing policy of the British government is not to make substantive concessions to hostage takers. The British government considers that paying ransoms and releasing prisoners builds the capability of terrorist groups and finances their activities. This can, in turn, increase the risk of further hostage-taking. The Terrorism Act (2000) makes payments to terrorists illegal.
+If you’re working or travelling in Burkina Faso, you should be aware of the risk of terrorist kidnapping. You should maintain a high level of vigilance at all times, including when travelling. You should be particularly vigilant when walking in crowded public places, including camps for displaced people, religious gatherings and insecure spaces like places of worship, markets, shopping malls, hotels, bars, night clubs, restaurants, nature reserves and national parks, and transport hubs. You should avoid regular patterns of travel and aim to only travel during daylight hours.
 
-If you’re working or travelling in Burkina Faso, you should be aware of the risk of terrorist kidnapping. You should maintain a high level of vigilance at all times, including when travelling. You should be particularly vigilant when walking in crowded public places, including camps for displaced people, religious gatherings and insecure spaces like places of worship, markets, shopping malls, hotels, bars, night clubs, restaurants, nature reserves and national parks, and transport hubs. You should make sure you have carefully considered the threat and have reasonable, proportionate mitigation measures in place.
+The long-standing policy of the British government is to not make substantive concessions to hostage takers. The British government considers that paying ransoms and releasing prisoners builds the capability of terrorist groups and finances their activities. This can, in turn, increase the risk of further hostage-taking. The Terrorism Act (2000) makes payments to terrorists illegal.
 
 ## Political situation
 
@@ -82,6 +82,12 @@ Armed groups have also stopped drivers to rob passengers and their vehicles. Cri
 ### Street crime
 
 Street crime is a serious risk for foreign visitors. Most incidents are opportunist snatches of purses, wallets, jewellery and other valuables. Thieves are particularly active near the UN Circle and the former Central Market in Ouagadougou, and are often armed. Do not carry valuables in public places or walk alone at night.
+
+### Criminal kidnapping
+
+Kidnapping by criminal groups is widespread across Niger, Mali and Burkina Faso. There is a possibility that criminal groups could sell people they kidnap as hostages to terrorist organisations.
+
+British nationals are seen as legitimate targets, including tourists, humanitarian aid workers, journalists and business travellers. If you are kidnapped, the reason for your presence is unlikely to protect you or secure your safe release. You should avoid regular patterns of travel and aim to only travel during daylight hours.
 
 ## Laws and cultural differences
 

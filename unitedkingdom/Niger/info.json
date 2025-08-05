@@ -1,11 +1,11 @@
 {
     "name": "Niger",
-    "update_reason": "Updated information about the security situation in Niger, including kidnapping ('Safety and security' page).",
+    "update_reason": "New information for criminal kidnaps (See \u2018Criminal kidnapping\u2019 on the \u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Niger/Warnings and insurance.md",
-            "update_date": "2025-04-30T14:00:36+01:00"
+            "update_date": "2025-08-04T16:00:38+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Niger/Getting help.md"
         }
     ],
-    "update_date": "2025-04-30T14:00:36+01:00"
+    "update_date": "2025-08-04T16:00:38+01:00"
 }
