@@ -32,7 +32,7 @@ Be cautious travelling in the Kosovo border area. See [Safety](https://www.smar
 **More information:**
 
 * [Travel advice for Kosovo](/destinations/europe/kosovo "Kosovo")
-* [Serbian Ministry of Foreign Affairs](https://www.mfa.gov.rs/) [(English version)](https://www.mfa.gov.rs/en)
+* [Serbian Ministry of Foreign Affairs](https://www.mfa.gov.rs/en)
 
 #### Passport
 
@@ -89,7 +89,7 @@ Traveller's cheques aren't widely accepted. However, larger branches of some ban
 
 #### Border crossings
 
-Border crossings close at short notice. Delays and disruptions to cross-border transport are possible.
+Border crossings close at short notice. Delays and disruptions to cross-border transport are possible. Delays and strict controls at the border are common, especially in the European summer.
 
 To stay safe:
 

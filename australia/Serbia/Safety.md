@@ -2,9 +2,9 @@
 
 #### Terrorism
 
-Terrorist attacks could occur anywhere and at any time. 
+Terrorist attacks could occur anywhere and at any time.
 
-In June, one person was killed in an attack outside of the Israeli embassy in Belgrade.
+In June 2024, one person was killed in an attack outside of the Israeli embassy in Belgrade.
 
 Be alert to possible threats, especially in public places. Terrorists may target tourist areas or other places frequented by foreigners, and where large crowds may gather.
 
@@ -35,7 +35,7 @@ Terrorism is a threat worldwide.
 
 #### Demonstrations and protests
 
-Protests are common in Belgrade and other towns and cities across Serbia, which have increased regularly since November 2024. Protests have usually been peaceful but have caused major traffic and public transport disruptions. Protests can turn violent, and foreigners have been detained after attending protests.
+Protests are common in Belgrade and other towns and cities across Serbia and have increased regularly since November 2024. They have usually been peaceful, but there have also been some violent clashes, which have caused major traffic and public transport disruptions. Foreigners have been detained after attending protests.
 
 Some sporting events have turned violent, injuring people and damaging property. There have been clashes between police and fans near sports venues and between fans of opposing teams. While foreigners aren't targets, there have been isolated incidents where the clashes have affected foreigners.
 
@@ -82,9 +82,7 @@ Further unrest may occur at any time.
 
 The area of Southern Serbia bordering Kosovo has unexploded landmines and other remnants of war. Only use well-known roads or paths.
 
-To stay safe in southern Serbia, only use well-known roads and paths and be alert to uncleared landmine warning signs.
-
-#### Crime
+To stay safe in southern Serbia-Kosovo border area, only use well-known roads and paths and be alert to uncleared landmine warning signs.
 
 #### Crime
 
@@ -106,7 +104,7 @@ However, there have been several violent and fatal attacks against foreigners, p
 * in bars
 * in inner-city suburbs
 
-Many Serbians own guns, and shootings happen. 
+Many Serbians own guns, and shootings happen.
 
 To protect yourself from violent crime:
 
@@ -132,9 +130,9 @@ To reduce your risk of fraud:
 
 #### Cyber security
 
-You may be at risk of cyber-based threats during overseas travel to any country. Digital identity theft is a growing concern. Your devices and personal data can be compromised, especially if you're connecting to Wi-Fi, using or connecting to shared or public computers, or Bluetooth. 
+You may be at risk of cyber-based threats during overseas travel to any country. Digital identity theft is a growing concern. Your devices and personal data can be compromised, especially if you're connecting to Wi-Fi, using or connecting to shared or public computers, or Bluetooth.
 
-Social media can also be risky in destinations where there are social or political tensions or laws that may seem unreasonable by Australian standards. Travellers have been arrested for things they have said on social media. Don't comment on local or political events on your social media. 
+Social media can also be risky in destinations where there are social or political tensions or laws that may seem unreasonable by Australian standards. Travellers have been arrested for things they have said on social media. Don't comment on local or political events on your social media.
 
 **More information:**
 
@@ -142,9 +140,9 @@ Social media can also be risky in destinations where there are social or politic
 
 #### Kidnapping
 
-Kidnapping can happen anywhere, anytime, including in destinations that are typically at lower risk.  
+Kidnapping can happen anywhere, anytime, including in destinations that are typically at lower risk.
 
-The Australian Government's longstanding policy is that it doesn't make payments or concessions to kidnappers. 
+The Australian Government's longstanding policy is that it doesn't make payments or concessions to kidnappers.
 
 **More information:**
 

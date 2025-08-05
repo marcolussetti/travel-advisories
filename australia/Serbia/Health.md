@@ -32,7 +32,7 @@ If you have immediate concerns for your welfare or the welfare of another Austra
 **More information:**
 
 * [General health advice](/before-you-go/health "Taking care of your health")
-* [Healthy holiday tips](https://www.healthdirect.gov.au/healthy-holiday-tips-infographic) (Healthdirect Australia)
+* [Healthy holiday tips](https://www.healthdirect.gov.au/healthy-holiday-tips-infographic)
 
 #### Medications
 

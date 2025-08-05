@@ -37,8 +37,9 @@ For consular assistance, contact the Australian Embassy in Belgrade.
 #### Australian Embassy, Belgrade
 
 Vladimira Popovica 38-40, 8th floor  
-11070 Belgrade, Serbia  
-Phone: (+381 11) 330 3400  
+11070 Belgrade, Serbia
+
+Phone: +381 11 330 3400  
 Email: [belgrade.embassy@dfat.gov.au](mailto:belgrade.embassy@dfat.gov.au)  
 Website: [serbia.embassy.gov.au](https://serbia.embassy.gov.au/bgde/home.html)  
 Facebook: [Australia in Serbia](https://www.facebook.com/AustraliainSerbia/)

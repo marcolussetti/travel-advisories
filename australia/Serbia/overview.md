@@ -2,7 +2,7 @@
 
 Latest update
 
-We continue to advise exercise normal safety precautions in Serbia. You don't need a visa for tourist visits of up to 90 days in a 6-month period. You'll need a visa for other situations. Entry and exit conditions can change with little notice (see 'Travel').
+We’ve reviewed our advice for Serbia and continue to advise exercise normal safety precautions. You don't need a visa for tourist visits of up to 90 days in a 6-month period. You'll need a visa for other situations. Entry and exit conditions can change with little notice (see 'Travel').
 
 Advice Level summary
 
@@ -14,7 +14,7 @@ Exercise normal safety precautions in Serbia.
 
 [What does this mean?](/before-you-go/travel-advice-explained/)
 
-[Exercise normal safety precautions](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level1) in Serbia.
+[Exercise normal safety precautions](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level1)
 
 [Exercise normal safety precautions](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level1) in Serbia.
 
@@ -22,11 +22,11 @@ Exercise normal safety precautions in Serbia.
 
 ### Safety
 
-* Terrorism is a threat worldwide. Terrorists have staged attacks in European cities. Targets have included public transport,  transport hubs, and public places popular with tourists.
+* Terrorism is a threat worldwide. Terrorists have staged attacks in European cities. Targets have included public transport, transport hubs, and public places popular with tourists.
 * Protests are common in Belgrade and other towns and cities across Serbia and can disrupt transport and other essential services. Avoid protests and large gatherings as they may turn violent. Foreigners have been detained after attending protests. Monitor local media for updates and follow the advice of local authorities.
 * The area of Southern Serbia bordering Kosovo has unexploded landmines. Only use well-known roads and paths.
 * Violent attacks sometimes occur near nightclubs. Targeted bomb attacks and gun violence can occur. Many Serbians own guns. Be alert to suspicious behaviour and avoid trouble spots.
-* Earth tremors and flooding can occur. Bushfires happen in summer. Snow and ice can be a danger in winter. Monitor the media for updates.
+* Earth tremors and flooding can occur. Bushfires happen in summer. Snow and ice can be a danger in winter.
 
 Full travel advice: [Safety](#safety)
 
@@ -50,7 +50,8 @@ Full travel advice: [Local laws](#local-laws)
 
 * Entry and exit conditions can change at short notice. You should contact the nearest embassy or consulate of Serbia for the latest details.
 * You don't need a visa for tourist visits of up to 90 days in a 6-month period. This applies from the date of the first entry. You'll need a visa for other situations.
-* Full details of Serbia's entry requirements are on [the Ministry of Foreign Affairs website](https://www.mfa.gov.rs/en/citizens/travel-serbia/covid-19-entry-requirements)and can change without notice. Monitor local media and follow [the Republic of Serbia - Citizen Services website](https://www.srbija.gov.rs/) (in Serbian) for updates.
+* You must register with the local police within 24 hours of arrival in Serbia. Your hotel or your host will normally arrange registration. Failure to register can result in fines and difficulties when departing.
+* Full details of Serbia's entry requirements are on the [Ministry of Foreign Affairs](https://www.mfa.gov.rs/en/citizens/travel-serbia/covid-19-entry-requirements) website and can change without notice. Monitor local media and follow the [Republic of Serbia - Citizen Services](https://www.srbija.gov.rs/) website for updates.
 
 Full travel advice: [Travel](#travel)
 
