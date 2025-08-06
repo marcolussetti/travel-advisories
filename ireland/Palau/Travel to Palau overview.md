@@ -4,12 +4,6 @@
 
 Normal Precautions
 
-### **Travel Alert**
-
-A tsunami warning has been issued for the Pacific region following a magnitude 8.6 earthquake off the coast of Kamchatka, eastern Russia.
-
-If you are in affected areas, move to higher ground immediately. In the event of an official evacuation warning, follow the advice of local authorities. Monitor media for updates.
-
 ### **General Travel Advice**
 
 Irish citizens can travel to Palau for up to 30 days without a visa. You should contact the Bureau of Immigration before you travel if you’re likely to seek an extension of stay.

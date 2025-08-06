@@ -10,12 +10,6 @@ Normal Precautions
 
 Following the 22 March attack in Moscow, France has raised its national threat level to the highest ‘Emergency’ level. This is level 3 on the French Vigipirate security programme.
 
-### **New Caledonia Tsunami Warning**
-
-A tsunami warning has been issued for the Pacific region following a magnitude 8.6 earthquake off the coast of Kamchatka, eastern Russia.
-
-If you are in affected areas, move to higher ground immediately. In the event of an official evacuation warning, follow the advice of local authorities. Monitor media for updates.
-
 ### **New Caledonia Safety and Security**
 
 The state of emergency for New Caledonia has lifted.

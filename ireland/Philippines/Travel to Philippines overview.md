@@ -4,12 +4,6 @@
 
 High Degree of Caution
 
-### **Travel Alert**
-
-A tsunami warning has been issued for the Pacific region following a magnitude 8.6 earthquake off the coast of Kamchatka, eastern Russia.
-
-If you are in affected areas, move to higher ground immediately. In the event of an official evacuation warning, follow the advice of local authorities. Monitor media for updates.
-
 ### **General Travel Advice**
 
 Irish citizens do not require a visa to enter the Philippines for an initial period up to 30 days.
