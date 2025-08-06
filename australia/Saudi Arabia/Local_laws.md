@@ -10,7 +10,7 @@ If you break Saudi law, even without knowing, the punishment may be severe.
 
 If you're arrested or jailed, the Australian Government will do what it can to help you under our [Consular Services Charter](/node/46). But we can't get you out of trouble or out of jail. Ensure that you read carefully the information on our [Consular Services Charter](/consular-services/consular-services-charter "Consular Services Charter") to find out what we can and cannot do.
 
-Local authorities have arrested Australians travelling or living in Saudi Arabia and didn't always report these cases to the [Embassy of Australia in Riyadh.](https://saudiarabia.embassy.gov.au/ryad/contact-us.html)
+Local authorities have arrested Australians travelling or living in Saudi Arabia and didn't always report these cases to the [Australian Embassy in Riyadh.](https://saudiarabia.embassy.gov.au/ryad/contact-us.html)
 
 If you're arrested, approval from local authorities for Embassy staff to visit you may take many months to be obtained.
 
@@ -147,7 +147,7 @@ If you're [sexually assaulted](https://www.smartraveller.gov.au/while-youre-awa
 
 If you're a victim of sexual assault, find out about support services as quickly as possible from the:
 
-* [Embassy of Australia in Riyadh](https://saudiarabia.embassy.gov.au/)
+* [Australian Embassy in Riyadh](https://saudiarabia.embassy.gov.au/)
 * Consular Emergency Centre in Canberra
 
 Consular officers can't provide legal or medical advice. However, they can provide lists of English-speaking service providers who may be able to help. See 'Local contacts'.

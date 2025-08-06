@@ -52,7 +52,7 @@ Full travel advice: [Safety](#safety)
 ### Health
 
 * Travellers to Saudi Arabia (excluding residents) must have medical insurance that covers the cost of COVID-19 treatment. This is included in the cost of a tourist visa (eVisa). See further details on the [Visit Saudi](https://www.visitsaudi.com/en/help-support) website.
-* There are new vaccination requirements for visitors travelling to Saudi Arabia to perform Umrah or visit Holy Mosques. For more information, see the [Ministry of Health](https://www.moh.gov.sa/en/HealthAwareness/Pilgrims_Health/Pages/default.aspx) website.
+* There are new vaccination requirements for visitors travelling to Saudi Arabia to perform Umrah or visit Holy Mosques. For more information, see the [Ministry of Health](https://www.moh.gov.sa/en/Pages/default.aspx) website.
 * Cases of Middle East respiratory syndrome have been reported. Avoid contact with camels or products contaminated with camel secretions.
 * Sandstorms and dust storms can cause allergies and breathing problems. Discuss your travel plans with a doctor if you have an existing condition.
 * Malaria, including chloroquine-resistant strains, is present in south-western Saudi Arabia. Consider taking anti-malarial medication. Other insect-borne diseases include dengue and leishmaniasis. Use insect repellent.
@@ -73,8 +73,7 @@ Full travel advice: [Local laws](#local-laws)
 
 ### Travel
 
-* Local authorities also announced that the deadline for Umrah pilgrims’ departure from Saudi Arabia was 29 April 2025. Umrah pilgrims who have remained in the country beyond this date will be subject to legal penalties.
-* All Saudi visa holders are permitted to perform Umrah throughout the year, except around Hajj time, when only Hajj visa/permit holders can enter Makkah. Monitor the media for information about the dates the Hajj time starts.
+* All Saudi visa holders of Muslim faith are permitted to perform Umrah at any time throughout the year, except around Hajj time, when only Hajj visa/permit holders can enter Makkah. Monitor the media for information about the dates the Hajj time starts.
 * Saudi Hajj and Umrah Ministry have launched the ‘[Nusuk’](https://www.nusuk.sa/) platform to register and facilitate pilgrim procedures for both Umrah and Hajj.
 * Australian citizens holding valid Australian passports can apply for a tourist visa online or on arrival. Check the [Saudi eVisa](https://visa.visitsaudi.com/?_ga=2.38204960.203637712.1643716791-1500723252.1635340540) website for current information on tourist visas. A visa does not guarantee your entry to Saudi Arabia. Check visa conditions before your arrival.
 * Unless you’re a resident of Saudi Arabia, you must have medical insurance that covers the cost of COVID-19 treatment (see ‘Health’). See further details on the [Visit Saudi](https://www.visitsaudi.com/en/help-support) website.
@@ -84,7 +83,7 @@ Full travel advice: [Travel](#travel)
 ### Local contacts
 
 * The [Consular Services Charter](/consular-services/consular-services-charter "Consular Services Charter") details what we can and can't do to help you overseas.
-* For consular help, contact the [Embassy of Australia in Riyadh.](https://saudiarabia.embassy.gov.au/ryad/home.html)
+* For consular help, contact the [Australian Embassy in Riyadh.](https://saudiarabia.embassy.gov.au/ryad/home.html)
 * Follow the Embassy's social media channels for local information (see 'Local contacts').
 
 Full travel advice: [Local contacts](#local-contacts)

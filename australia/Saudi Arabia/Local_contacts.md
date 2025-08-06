@@ -68,7 +68,7 @@ Read the [Consular Services Charter](/node/46) for what the Australian Governm
 
 Contact the Australian Embassy in Riyadh for consular help.
 
-#### Embassy of Australia, Riyadh
+#### Australian Embassy, Riyadh
 
 Diplomatic Quarter  
 Riyadh  

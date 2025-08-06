@@ -4,14 +4,6 @@
 
 > Every country or territory decides who can enter or leave through its borders. For specific information about the evidence you'll need to enter a foreign destination, check with the nearest embassy, consulate or immigration department of the destination you're entering.
 
-#### Hajj season 2025
-
-For the Hajj season 2025, local authorities have announced additional arrangements, procedures and entry/exit restrictions which must be followed by all foreign citizens who are coming to the Kingdom of Saudi Arabia.
-
-Local authorities also announced that the deadline for Umrah pilgrims’ departure from Saudi Arabia is 29 April 2025. Umrah Pilgrims who have remained in the country beyond this date will be subject to legal penalties. For more information see the [Ministry of Hajj and Umrah X account.](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fx.com%2FMoHU_En%2Fstatus%2F1909600304804278716%3Ft%3Dn5TjwU5dUYTmRG9-wFMUoA%26s%3D08&data=05%7C02%7CLara.Abu.Dari%40dfat.gov.au%7C9d69c6daed864566571008dd7c0858a9%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638803097475921138%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=o6j6SjoRZQKflyixQXftYmL%2F8%2F0w%2B0mQznXSsdgFHBY%3D&reserved=0)
-
-A Hajj permit is required to perform Hajj. The Kingdom has stated that violators will face fines, imprisonment, and deportation. You may also be banned from going to Saudi Arabia in the future if you do not comply with the rules. 
-
 #### Travelling from Sudan to Saudi Arabia
 
 See the [travel advice for Sudan](https://www.smartraveller.gov.au/destinations/africa/sudan) for information about flying from Sudan to Saudi Arabia.
@@ -46,11 +38,11 @@ If you’re transiting through Saudi Arabia, you may need a transit visa. Check 
 
 Only Muslims are allowed to enter Makkah (Mecca) and Madinah.
 
-You may not be allowed to enter through a land crossing, for example the King Fahd Causeway from Bahrain, on a business/visit visa that is annotated “via air’’. Note that this may be written in Arabic. Carefully read and understand the restrictions of your Saudi business/visit visa.
+You may not be allowed to enter through a land crossing, for example the King Fahd Causeway from Bahrain, on a business/visit visa that is annotated 'via air'. Note that this may be written in Arabic. Carefully read and understand the restrictions of your Saudi business/visit visa.
 
 Entry and exit conditions can change at short notice. Contact the nearest [embassy or consulate of Saudi Arabia](https://protocol.dfat.gov.au/Public/Missions/174) for details about visas, currency, customs, vaccination and quarantine rules.
 
-Around Hajj time, Saudi authorities restrict entry to and exit from some airports including Jeddah, Madinah, Yanbu, and Taif to Hajj visas holders only. Other travellers may need to justify their need to travel to any of these cities/airport before they can be allowed to board the flight. You can still enter Saudi Arabia through other entry points. Check with your airline, travel agency and your nearest Saudi Embassy/Consulate for up-to-date information.
+Around Hajj time, Saudi authorities restrict entry to and exit from some airports including Jeddah, Madinah, Yanbu and Taif to Hajj visas holders only. Other travellers may need to justify their need to travel to any of these cities or airports before they can be allowed to board the flight. You can still enter Saudi Arabia through other entry points. Check with your airline, travel agency and your nearest Saudi Embassy/Consulate for up-to-date information.
 
 #### Exit visas
 
@@ -140,7 +132,7 @@ There are new vaccination requirements for visitors travelling to Saudi Arabia t
 **More information:**
 
 * [Hajj](https://www.smartraveller.gov.au/before-you-go/major-events/hajj)
-* [Ministry of Health](https://www.moh.gov.sa/en/HealthAwareness/Pilgrims_Health/Pages/default.aspx)
+* [Ministry of Health](https://www.moh.gov.sa/en/awarenessplateform/SeasonalAndFestivalHealth/Pages/HajjAndUmrahHealth.aspx)
 
 #### Passport
 
@@ -173,7 +165,7 @@ Some people may try to trick you into giving them your passport. Always keep it 
 If you lose your passport before arriving in Saudi Arabia:
 
 * you may not be able to enter the country
-* the Embassy of Australia may not be able to provide you with a new passport, as personal lodgement is compulsory to obtain a new passport
+* the Australian Embassy may not be able to provide you with a new passport, as personal lodgement is compulsory to obtain a new passport
 * you may have to return to Australia
 
 If your passport is lost or stolen, tell the Australian Government as soon as possible:
