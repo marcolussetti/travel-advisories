@@ -1,7 +1,7 @@
 {
     "name": "Mauritius",
     "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
-    "update_date": "2025-07-28T11:40:00",
+    "update_date": "2025-08-05T15:18:00",
     "sections": {
         "risk": "canada/Mauritius/risk.md",
         "security": "canada/Mauritius/security.md",

@@ -57,20 +57,6 @@ If you are the victim of a sexual assault, you may report it immediately to the 
 
 ### Jubilee 2025
 
-A large number of visitors are expected in Rome for the Jubilee of Youth, taking place from July 28 to August 3, 2025.
-
-If you plan to attend:
-
-* keep your personal belongings, including your passport and other travel documents, in a secure place
-* follow the instructions of local authorities
-* be prepared for hot weather
-
-#### Useful links
-
-* [Jubilee of Youth](https://www.iubilaeum2025.va/en/pellegrinaggio/calendario-giubileo/GrandiEventi/Giubileo-dei-Giovani.html)
-* [Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
-* [Sun and heat safety tips for travellers](https://www.iubilaeum2025.va/en/pellegrinaggio/calendario-giubileo/GrandiEventi/Giubileo-dei-Giovani.html)
-
 The Jubilee, also known as the Holy Year, will take place in Rome from December 24, 2024, to January 6, 2026.
 
 A large number of visitors are expected. Pilgrimages and large-scale events will take place across the city during the Holy Year. If you plan on travelling to Rome during the Jubilee, plan accordingly.
