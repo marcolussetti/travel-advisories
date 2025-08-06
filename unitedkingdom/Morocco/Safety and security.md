@@ -8,7 +8,7 @@ UK Counter Terrorism Policing has information and advice on [staying safe abroa
 
 ### Terrorism in Morocco
 
-Terrorists are very likely to try to carry out attacks in Morocco.
+Terrorists are likely to try to carry out attacks in Morocco.
 
 Terrorism attacks could be indiscriminate, including in places visited by foreign nationals, such as:
 

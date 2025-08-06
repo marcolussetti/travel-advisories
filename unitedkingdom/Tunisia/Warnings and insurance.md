@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   23 July 2025
+:   6 August 2025
 
 Updated:
-:   22 July 2025
+:   5 August 2025
 
 Latest update:
-:   Clarification of areas where FCDO advises against travel in Medenine Governorate ('Warnings and insurance' page).
+:   Updated with information about the risks from terrorism (‘Safety and security’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/687faf22fdc190fb6b8468e3/FCDO__TA__042_-_Tunisia_Travel_Advice_Ed5__WEB___1_.jpg)
 

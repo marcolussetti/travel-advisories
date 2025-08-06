@@ -10,7 +10,7 @@ UK Counter Terrorism Policing has information and advice on [staying safe abroad
 
 ### Terrorism in Tunisia
 
-Terrorists are very likely to try to carry out attacks in Tunisia.
+Terrorists are likely to try to carry out attacks in Tunisia.
 
 Security forces remain on a high state of alert in Tunis and other places. You may be at higher risk in and around:
 
