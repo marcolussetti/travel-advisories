@@ -1,5 +1,7 @@
 ## Entry requirements
 
+### **Visa/Passport**
+
 Irish passport holders must meet the following requirements for entry to Samoa:
 
 Have an onward (or return) ticket to a country you have a valid visa or permit to enter;

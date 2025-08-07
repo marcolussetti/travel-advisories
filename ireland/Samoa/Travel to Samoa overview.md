@@ -4,6 +4,12 @@
 
 Normal Precautions
 
+### **Travel Alert**
+
+Samoa’s Ministry of Health has declared a dengue outbreak. Protect yourself against mosquito bites and use insect repellent (see 'Health').
+
+We continue to advise normal safety precautions in Samoa.
+
 ### **General Travel Advice**
 
 Irish citizens do not require a visa to enter Samoa.

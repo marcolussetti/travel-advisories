@@ -4,7 +4,7 @@ As Ireland does not have an Embassy or Consulate in Samoa, consular assistance i
 
 If you require emergency assistance from the Embassy, please contact us on +64 4 4712252. If you call outside normal working hours, you will be given instructions to call another number to speak to a Duty Officer.
 
-You may also wish to call the Department of Foreign Affairs in Dublin directly at 00353-1-4082000.
+You may also wish to call the Department of Foreign Affairs and Trade in Dublin directly at 00353-1-4082000.
 
 ### Postal address
 

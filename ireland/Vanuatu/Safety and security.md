@@ -13,7 +13,7 @@ We advise you to take basic precautions while travelling to Vanuatu:
 * Keep a close eye on your personal belongings and hold on to them in public places.
 * Avoid dark and unlit streets and stairways, arrange to be picked up or dropped off as close to your hotel or apartment entrance as possible.
 
-### **Road travel**
+### **Road Travel**
 
 Road travel in Vanuatu can be dangerous. Roads are often poorly maintained and unlit.
 
