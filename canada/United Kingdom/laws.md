@@ -18,11 +18,21 @@ Penalties for possession, use or trafficking of illegal drugs, including cannabi
 
 [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
 
-### Laws on knives
+### Banned and restricted goods
 
-It is illegal to carry, purchase, sell or enter the country with certain types of knives. Convicted offenders can expect heavy fines and jail sentences.
+It is illegal to carry, purchase, sell or enter the country with certain types of knives.
 
-[Selling, buying and carrying knives](https://www.gov.uk/buying-carrying-knives) - UK Government
+It is also illegal to bring into the country:
+
+* pepper spray
+* personal imports of meat and dairy products from most non-European Union countries
+
+Convicted offenders can expect heavy fines and jail sentences.
+
+#### Useful links
+
+* [Selling, buying and carrying knives](https://www.gov.uk/buying-carrying-knives) – UK Government
+* [Bringing goods into the UK for personal use: Banned and restricted goods](https://www.gov.uk/bringing-goods-into-uk-personal-use/banned-and-restricted-goods) – UK Government
 
 ### Dual citizenship
 

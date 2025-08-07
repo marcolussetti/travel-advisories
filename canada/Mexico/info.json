@@ -1,7 +1,7 @@
 {
     "name": "Mexico",
-    "update_reason": "Natural disasters and climate \u2013 removed information on the tsunami warning",
-    "update_date": "2025-07-31T11:14:00",
+    "update_reason": "The Need help? section was updated.",
+    "update_date": "2025-08-06T13:40:00",
     "sections": {
         "risk": "canada/Mexico/risk.md",
         "security": "canada/Mexico/security.md",

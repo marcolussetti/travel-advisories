@@ -18,7 +18,7 @@ You should:
 
 ### Terrorism
 
-There’s an ongoing threat of terrorism. Terrorist groups have indicated their intention to target the United Arab Emirates (UAE). Enhanced security measures are in place, and Emirati authorities may reinforce them on short notice.
+There’s an ongoing threat of terrorism. Terrorist groups have indicated their intention to target the United Arab Emirates (UAE). In the context of ongoing regional tensions, terrorists could carry out attacks against Jewish and Israeli targets. Enhanced security measures are in place, and Emirati authorities may reinforce them on short notice.
 
 Terrorist attacks could occur at any time.
 

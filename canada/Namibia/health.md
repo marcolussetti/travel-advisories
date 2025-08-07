@@ -56,6 +56,14 @@ There is a risk of [hepatitis A](https://www.canada.ca/en/public-health/services
 
 Practise [safe food and water precautions](https://travel.gc.ca/travelling/health-safety/food-water) and wash your hands often. Vaccination is recommended for all travellers to areas where hepatitis A is present.
 
+Rabies 
+
+In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/diseases/rabies) is commonly carried by dogs and some wildlife, including bats. Rabies is a deadly disease that spreads to humans primarily through bites or scratches from an infected animal. While travelling, take [precautions](https://www.canada.ca/en/public-health/services/diseases/rabies/prevention.html), including keeping your distance from animals (including free-roaming dogs), and closely supervising children.
+
+If you are bitten or scratched by a dog or other animal while travelling, immediately wash the wound with soap and clean water and see a health care professional. **In this destination, rabies treatment may be limited or may not be available, therefore you may need to return to Canada for treatment.**
+
+Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who are at high risk of exposure (e.g., occupational risk such as veterinarians and wildlife workers, children, adventure travellers and spelunkers, and others in close contact with animals).
+
 Measles 
 
 Measles is a serious viral infection that spreads easily. It spreads through the air, and can stay in the air for up to 2 hours. You can also get measles by direct contact with an infected person or by touching a surface with the virus on it and then touching your eyes, nose, or mouth before washing your hands.
@@ -112,14 +120,6 @@ Malaria
 • Exclude mosquitoes from your living area with screening and/or closed, well-sealed doors and windows.  
 • Use insecticide-treated bed nets if mosquitoes cannot be excluded from your living area. 
 
-Rabies 
-
-In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/diseases/rabies) is commonly carried by dogs and some wildlife, including bats. Rabies is a deadly disease that spreads to humans primarily through bites or scratches from an infected animal. While travelling, take [precautions](https://www.canada.ca/en/public-health/services/diseases/rabies/prevention.html), including keeping your distance from animals (including free-roaming dogs), and closely supervising children.
-
-If you are bitten or scratched by a dog or other animal while travelling, immediately wash the wound with soap and clean water and see a health care professional. **In this destination, rabies treatment may be limited or may not be available, therefore you may need to return to Canada for treatment.**
-
-Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who are at high risk of exposure (e.g., occupational risk such as veterinarians and wildlife workers, children, adventure travellers and spelunkers, and others in close contact with animals).
-
 ### Safe food and water precautions
 
 Eating or drinking unsafe food or water, or swimming in contaminated water can make you sick while travelling. Take precautions by following these tips:
@@ -144,12 +144,6 @@ Typhoid
 
 Travellers visiting regions with a risk of typhoid, especially those exposed to places with poor sanitation, should speak to a health care professional about vaccination.
 
-Schistosomiasis
-
-There is a risk of [schistosomiasis](https://www.who.int/news-room/fact-sheets/detail/schistosomiasis) in this destination. Schistosomiasis is a parasitic disease caused by tiny worms (blood flukes) which can be found in freshwater (lakes, rivers, ponds, and wetlands). The worms can break the skin, and their eggs can cause stomach pain, diarrhea, flu-like symptoms, or urinary problems. Schistosomiasis mostly affects underdeveloped and rural communities, particularly agricultural and fishing communities.
-
-Most travellers are at low risk. Travellers should avoid contact with untreated freshwater such as lakes, rivers, and ponds (e.g., swimming, bathing, wading, ingesting). There is no vaccine or medication available to prevent infection.
-
 Cholera
 
 **Risk**
@@ -164,6 +158,12 @@ Travellers at higher risk of getting cholera include those:
 * visiting areas where outbreaks are occurring
 
 Vaccination may be recommended for high-risk travellers, and should be discussed with a health care professional.
+
+Schistosomiasis
+
+There is a risk of [schistosomiasis](https://www.who.int/news-room/fact-sheets/detail/schistosomiasis) in this destination. Schistosomiasis is a parasitic disease caused by tiny worms (blood flukes) which can be found in freshwater (lakes, rivers, ponds, and wetlands). The worms can break the skin, and their eggs can cause stomach pain, diarrhea, flu-like symptoms, or urinary problems. Schistosomiasis mostly affects underdeveloped and rural communities, particularly agricultural and fishing communities.
+
+Most travellers are at low risk. Travellers should avoid contact with untreated freshwater such as lakes, rivers, and ponds (e.g., swimming, bathing, wading, ingesting). There is no vaccine or medication available to prevent infection.
 
 ### Tick and insect bite prevention
 

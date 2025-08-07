@@ -1,7 +1,7 @@
 {
     "name": "Panama",
-    "update_reason": "Natural disasters and climate \u2013 removed information on the tsunami warning",
-    "update_date": "2025-07-31T09:16:00",
+    "update_reason": "The Need help? section was updated.",
+    "update_date": "2025-08-06T13:41:00",
     "sections": {
         "risk": "canada/Panama/risk.md",
         "security": "canada/Panama/security.md",
