@@ -2,9 +2,9 @@
 
 Latest update
 
-Samoa’s Ministry of Health has declared a dengue outbreak. Protect yourself against mosquito bites and use insect repellent (see 'Health').  
+We've reviewed our advice for Samoa and continue to advise exercise normal safety precautions.  
   
-We continue to advise exercise normal safety precautions in Samoa.
+Samoa’s Ministry of Health has declared a dengue outbreak and healthcare systems are facing pressures with the increasing number of cases. Protect yourself against mosquito bites and use insect repellent (see 'Health').
 
 Advice Level summary
 
@@ -30,6 +30,7 @@ Exercise normal safety precautions in Samoa.
 * Samoa has strong tides and powerful currents. Ask locals about safe swimming areas.
 * Stray dogs are common. They can be vicious. Don't approach or touch dogs. Be mindful of dogs if walking or exercising.
 * Demonstrations sometimes happen. Although rare, protests can sometimes turn violent. Avoid large public gatherings.
+* Civil unrest and politically motivated violence is rare. Political demonstrations and peaceful protests can occur in the lead up to elections particularly around the period of the formation of Government. Samoa has announced an election for 29 August 2025.
 
 Full travel advice: [Safety](#safety)
 

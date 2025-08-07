@@ -53,7 +53,7 @@ The public telephone line (+687 27 24 14) and consular assistance mailbox of the
 
 Outside of office hours, if you require urgent consular assistance, please follow the prompts (details below) to be connected to the 24/7 Consular Emergency Centre in Canberra.
 
-Check the Consulate-General website for details about opening hours, any temporary closures and other information useful to your circumstances.
+Check the Consulate-General website for details about opening hours and any temporary closures.
 
 #### 24-hour Consular Emergency Centre
 

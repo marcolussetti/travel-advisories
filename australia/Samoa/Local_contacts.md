@@ -38,11 +38,10 @@ For consular help, contact the Australian High Commission in Apia.
 Apia, Samoa  
   
 Phone: +685 23 411   
-Fax: +685 23 159  
 Website: [samoa.highcommission.gov.au](https://samoa.highcommission.gov.au)  
 Facebook: [Australian High Commission, Samoa](https://www.facebook.com/AusHCSamoa/)
 
-Check the High Commission website for details about opening hours and any temporary closures.
+Check the High Commission website for details about opening hours.
 
 #### 24-hour Consular Emergency Centre
 

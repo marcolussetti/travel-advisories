@@ -58,9 +58,9 @@ Be careful if you're consuming kava. It can be dangerous if it reacts with alcoh
 
 #### Insect-borne diseases
 
-Samoa’s Ministry of Health has declared a dengue outbreak. Protect yourself against mosquito bites and use insect repellent. See [Healthdirect Australia](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.healthdirect.gov.au%2Fdengue-fever&data=05%7C02%7CGeri.Furness%40dfat.gov.au%7C0b0a969f987242a4065a08dd86b5a56b%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638814836909497126%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Gw92Yr4m62K5BUrWNNXUgyA%2FxcvzJvT05HpD0g3GaIk%3D&reserved=0) for more information. 
+Mosquito-borne diseases are prevalent in Samoa.
 
-Mosquito-borne diseases are prevalent in Samoa. Dengue outbreaks have occurred in the past, and the Ministry of Health continues to monitor for more outbreaks. 
+Samoa’s Ministry of Health has declared a dengue outbreak. Healthcare systems are facing pressures with the increasing number of cases.Protect yourself against mosquito bites and use insect repellent. See [Healthdirect Australia](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.healthdirect.gov.au%2Fdengue-fever&data=05%7C02%7CGeri.Furness%40dfat.gov.au%7C0b0a969f987242a4065a08dd86b5a56b%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638814836909497126%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Gw92Yr4m62K5BUrWNNXUgyA%2FxcvzJvT05HpD0g3GaIk%3D&reserved=0) for more information. 
 
 Outbreaks of insect-borne diseases can happen, mostly in the wet season. Diseases include:
 
@@ -85,7 +85,7 @@ Find out about [zika virus-affected countries](https://www.healthdirect.gov.au/
 **More information:**
 
 * [dengue](https://www.health.gov.au/diseases/dengue-virus-infection)
-* [Infectious diseases | Smartraveller](https://www.smartraveller.gov.au/before-you-go/health/diseases)
+* [infectious diseases](https://www.smartraveller.gov.au/before-you-go/health/diseases)
 
 #### Measles
 

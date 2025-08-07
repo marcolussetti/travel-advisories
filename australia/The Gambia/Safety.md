@@ -51,6 +51,14 @@ To protect yourself from crime:
 * avoid conspicuous displays of money, devices, jewellery and watches
 * arrange airport transfers and hotel pick-ups through trusted contacts and hotel services.
 
+#### Drink spiking
+
+Drink spiking can happen anywhere. Be alert to the potential risks, and don't leave food or drinks unattended. Pay attention when your drinks are being mixed. Stick to reputable venues and avoid homemade alcoholic drinks due to the risk of methanol poisoning. Get urgent medical help if you suspect you’ve been a victim.
+
+**More information:**
+
+* [Partying safely](/before-you-go/safety/partying "Partying safely")
+
 #### Scams and fraud
 
 Scams and fraud can be common in The Gambia. 
@@ -106,7 +114,7 @@ The Australian Government's longstanding policy is that it doesn't make payments
 
 **More information:**
 
-* [Kidnapping](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.smartraveller.gov.au%2Fbefore-you-go%2Fsafety%2Fkidnapping&data=05%7C02%7CSatish.Rajah%40dfat.gov.au%7C3f8f1f766de7498e536908dcaa027c7f%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638572174866932571%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=RMJkNS9MC4I%2Bl1Pyc2bSZI7QUCewRcKYJY%2Bi8Yzg0uE%3D&reserved=0)
+* [Kidnapping](/before-you-go/safety/kidnapping "Reducing the risk of kidnapping")
 
 #### Cyber security
 
@@ -116,7 +124,7 @@ Social media can also be risky in destinations where there are social or politic
 
 More information:
 
-* [Cyber security when travelling overseas](https://www.smartraveller.gov.au/before-you-go/staying-safe/cyber-security)
+* [Cyber security when travelling overseas](/before-you-go/staying-safe/cyber-security "Cyber security when travelling overseas")
 
 #### Terrorism
 

@@ -6,7 +6,7 @@ You're subject to all local laws and penalties, including those that may appear 
 
 If you're arrested or jailed, the Australian Government will do what it can to help you under our [Consular Services Charter](/consular-services/consular-services-charter "Consular Services Charter"). But we can't get you out of trouble or out of jail.
 
-The Gambia often blocks consular access to foreigners in detention.
+Authorities in The Gambia have blocked consular access to foreigners in detention in the past.
 
 If you're arrested, ask police or prison officials to contact the Australian High Commission in Abuja, or the Canadian Embassy in Dakar. Do this as soon as possible. See [Local contacts](#local-contacts)
 
@@ -79,7 +79,7 @@ The Gambia is a mostly Islamic country. Standards of dress and behaviour, espec
 
 #### Ramadan
 
-The Islamic holiday month of [Ramadan](https://www.smartraveller.gov.au/before-you-go/major-events/ramadan) is observed in The Gambia. Respect religious and cultural customs and laws at this time.
+The Islamic holy month of [Ramadan](https://www.smartraveller.gov.au/before-you-go/major-events/ramadan) is observed in The Gambia. Respect religious and cultural customs and laws at this time.
 
 During Ramadan, eating, drinking and smoking may be illegal in public during the day. If you're not fasting, avoid these activities around people who are. Seek local advice to avoid offence.
 

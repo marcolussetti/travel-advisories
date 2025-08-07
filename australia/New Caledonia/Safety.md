@@ -4,7 +4,7 @@
 
 #### Security situation
 
-We advise exercise a high degree of caution in New Caledonia overall due to the risk of civil disorder and violence. Political tensions and unrest may increase at short notice. There's an increased police and security presence. Authorities may impose restrictions, including curfews, at short notice. 
+We advise exercise a high degree of caution in New Caledonia overall due to the risk of civil disorder and violence. Political tensions and unrest may increase at short notice and around days of national or commemorative significance. There's an increased police and security presence. Authorities may impose restrictions, including curfews, at short notice. 
 
 Significant civil disorder, violence and arson attacks occurred across New Caledonia in May 2024. Always pay close attention to your personal security and your surroundings. There is a continued risk of disruption due to civil disorder and violence.  
 
@@ -22,7 +22,7 @@ To protect yourself:
 * monitor the media and other sources for potential unrest
 * follow the advice of local authorities
 
-Politically-motivated protests, strikes and industrial disputes can lead to social unrest. They often disrupt essential services, including:
+Politically motivated protests, strikes and industrial disputes can lead to social unrest. They often disrupt essential services, including:
 
 * local transport
 * domestic flights
@@ -36,7 +36,9 @@ If there's a protest or strike:
 
 Demonstrations and protests may increase in the days leading up to and on days of national or commemorative significance. These include: 
 
+* 13 May (anniversary of civil unrest)
 * New Caledonia Day (24 September)
+* Election periods
 
 #### More information:
 
@@ -48,7 +50,7 @@ Several shark attacks occurred in 2023. A fatal attack claimed the life of an Au
 
 Shark-proof nets have been installed in Noumea at sections of the Baie des Citrons and Chateau Royal-Meridien beaches. Watersports and swimming outside of these areas are permitted on an “own risk” basis. 
 
-Both beaches are patrolled daily by lifeguards from 8.45am to 5pm during December to April and from 8.45am to 4pm during May to November. Chateau Royal-Meridien beach is open only during lifeguard surveillance hours. See the [Noumea Town Hall](https://www.noumea.nc/noumea-pratique/securite/baignade-activites-nautiques-plages-noumea) website (in French) for any updates on the lifeguard surveillance hours. Follow the advice and instructions of local authorities at all times.
+Both beaches are patrolled daily by lifeguards from 8.45am to 5pm during the summer season from October to April and from 8.45am to 4pm during the cool season from May to end September. See the [Noumea Town Hall](https://www.noumea.nc/noumea-pratique/securite/baignade-activites-nautiques-plages-noumea) website (in French) for any updates on the lifeguard surveillance hours. Follow the advice and instructions of local authorities at all times.
 
 More information on understanding shark safety in New Caledonia is available on the [New Caledonia Tourism](https://au.newcaledonia.travel/frequently-asked-questions/shark-safety/) website (in English). 
 
@@ -73,7 +75,7 @@ Patrolled beaches use the following flag system:
 
 #### More Information:
 
-* [Water sports and activities](https://www.smartraveller.gov.au/before-you-go/activities/adventure#water-sports)
+* [Water safety while travelling overseas](https://www.smartraveller.gov.au/before-you-go/activities/adventure#water-sports)
 * [Rescue and Surveillance Operational Center of New Caledonia (COSSNC)](https://mrcc.nc) with information (in French) on [shark risk](https://mrcc.nc/risque-requin).
 
 #### Tours and adventure activities
@@ -95,13 +97,8 @@ Roadside security incidents can occur suddenly. Dangerous incidents include:
 * roadblocks
 * carjacking
 * stone-throwing
-* shooting
 
-Major routes have been affected.
-
-Local authorities can close major roads without warning.
-
-#### Petty crime
+Major routes have been affected. Local authorities can close major roads without warning.
 
 Car theft, vehicle break-ins, petty thefts and household break-and-enters occur.
 
@@ -128,23 +125,13 @@ More information:
 
 * [Cyber security when travelling overseas](https://www.smartraveller.gov.au/before-you-go/staying-safe/cyber-security)
 
-#### Kidnapping
-
-Kidnapping can happen anywhere, anytime, including in destinations that are typically at lower risk.
-
-The Australian Government's longstanding policy is that it doesn't make payments or concessions to kidnappers.
-
-**More information:**
-
-* [Kidnapping](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.smartraveller.gov.au%2Fbefore-you-go%2Fsafety%2Fkidnapping&data=05%7C02%7Ctravel.advice%40dfat.gov.au%7C0f0c1aa2ae3d413665bb08dc334d44fa%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638441654174896271%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=qmb6gv0H9m3%2F0lQjSVjAj3wFEguE7fZUR9t7Zym3Sew%3D&reserved=0)
-
 #### Terrorism
 
 Terrorism is a threat worldwide. Terrorist attacks could occur anywhere and at any time. Be alert to possible threats, especially in public places. Terrorists may target tourist areas or other places frequented by foreigners and where large crowds may gather.
 
-More information:
+**More information:**
 
-[Terrorism](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.smartraveller.gov.au%2Fbefore-you-go%2Fsafety%2Fterrorism&data=05%7C02%7CMichelle.Lam%40dfat.gov.au%7C863f6417a3d143c6520308dca0a53d2b%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638561878757893123%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=r2BI%2F5N6%2B3gvjJC2iCtgbF3FpnbGcpmgN%2BZc3IsrTrU%3D&reserved=0)
+* [Terrorism](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.smartraveller.gov.au%2Fbefore-you-go%2Fsafety%2Fterrorism&data=05%7C02%7CMichelle.Lam%40dfat.gov.au%7C863f6417a3d143c6520308dca0a53d2b%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638561878757893123%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=r2BI%2F5N6%2B3gvjJC2iCtgbF3FpnbGcpmgN%2BZc3IsrTrU%3D&reserved=0)
 
 #### Climate and natural disasters
 
@@ -295,3 +282,4 @@ To protect yourself from bushfires:
 **More information:**
 
 * [New Caledonian Department of Emergency Management (Sécurité Civile - DSCGR) Bushfire information](https://securite-civile.gouv.nc/risques-majeurs-en-nouvelle-caledonie/risques-naturels/feux-de-foret) (in French)
+* [Météo France Nouvelle-Calédonie](http://www.meteo.nc/) with [bushfire updates](https://www.meteo.nc/nouvelle-caledonie/risque-feu)  (in French)

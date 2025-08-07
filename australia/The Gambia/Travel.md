@@ -10,13 +10,13 @@ You may need a visa to enter The Gambia.
 
 Entry and exit conditions can change at short notice.
 
-Contact the [High Commission of the Republic of The Gambia](https://protocol.dfat.gov.au/Public/Missions/197) for details about visas, currency, customs and quarantine rules.
+Contact the [High Commission of The Gambia](https://protocol.dfat.gov.au/Public/Missions/197) for details about visas, currency, customs and quarantine rules.
 
 **Border measures**
 
-Commercial flights to and from The Gambia are limited. The land border with Senegal is open. Contact High Commission of The Gambia for the latest details.
+Commercial flights to and from The Gambia may be limited from time to time, especially outside of peak tourist season. The land border with Senegal is open. Contact the [High Commission of The Gambia](https://protocol.dfat.gov.au/Public/Missions/197) for the latest details.
 
-A compulsory Security Airport Fee must be paid upon entering and exiting The Gambia. The fee is US$20, or equivalent in euros, pound sterling or local currency. The fee can be paid via marked kiosks in Banjul International Airport. Children below 2 years of age and transit passengers are exempt.
+A compulsory Security Airport Fee must be paid upon entering and exiting The Gambia by air. The fee is US$20, or equivalent in euros, pound sterling or local currency. The fee can be paid via marked kiosks in Banjul International Airport. Children below 2 years of age and transit passengers are exempt.
 
 If you're driving across the border into The Gambia in a private vehicle, you may be asked to pay a vehicle registration fee.
 
@@ -24,11 +24,13 @@ If you're driving across the border into The Gambia in a private vehicle, you m
 
 You need a valid yellow fever vaccination certificate to enter The Gambia. Some airlines may want to see one when you leave.
 
-Find out about returning to Australia [after exposure to yellow fever](https://www.healthdirect.gov.au/yellow-fever) (Department of Health and Aged Care)
+You may need a valid yellow fever vaccination certificate to travel to other countries after visiting The Gambia.
+
+Find out about returning to Australia [after exposure to yellow fever](https://www.healthdirect.gov.au/yellow-fever) (Department of Health, Disability and Aged Care).
 
 **More information:**
 
-* [Countries with a risk of yellow fever](https://cdn.who.int/media/docs/default-source/travel-and-health/countries-with-risk-of-yellow-fever-transmission.pdf?sfvrsn=bf42ac59_4&download=true)
+* [Yellow fever](https://www.who.int/news-room/fact-sheets/detail/yellow-fever)
 
 #### Passport
 
@@ -59,7 +61,7 @@ Although Australian passports comply with international standards for sex and ge
 
 More information:
 
-* [LGBTQIA+ travellers](https://www.smartraveller.gov.au/before-you-go/who-you-are/LGBTI)
+* [LGBTQIA+ travellers](/before-you-go/who-you-are/LGBTQIA "Advice for LGBTQIA+ travellers")
 
 #### Money
 

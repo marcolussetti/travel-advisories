@@ -39,7 +39,7 @@ Read the [Consular Services Charter](/consular-services/consular-services-chart
 
 Australia doesn't have an embassy or consulate in The Gambia.
 
-The [Canadian Embassy](https://www.international.gc.ca/country-pays/senegal/dakar.aspx?lang=eng) in Dakar, Senegal, gives consular assistance to Australians in The Gambia. This includes issuing Australian [provisional travel documents](https://www.passports.gov.au/travel-related-documents).
+The [Canadian Embassy](https://www.international.gc.ca/country-pays/senegal/dakar.aspx?lang=eng) in Dakar, Senegal, gives consular assistance to Australians in The Gambia. This includes issuing Australian [provisional travel documents](https://www.dfat.gov.au/node/149460).
 
 #### Canadian Embassy, Dakar
 
@@ -48,7 +48,7 @@ Dakar, Senegal
 Phone: +221 33 889 4700  
 Fax: +221 33 889 4720  
 Email: [dakar@international.gc.ca](mailto:dakar@international.gc.ca)  
-Website: <https://www.international.gc.ca/country-pays/senegal/dakar.aspx?lang=eng>
+Website: [Embassy of Canada to Senegal, in Dakar](https://www.international.gc.ca/country-pays/senegal/dakar.aspx?lang=eng)
 
 Limited consular services are also available from the:
 

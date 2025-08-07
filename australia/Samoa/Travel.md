@@ -110,6 +110,7 @@ If you plan to drive:
 * check if you're covered by your travel and hire car insurance policies
 * learn local traffic laws and practices
 * avoid driving at night
+* seek advice on obtaining a local driver’s license
 
 More information:
 

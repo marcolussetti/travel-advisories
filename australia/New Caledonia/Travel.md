@@ -19,18 +19,23 @@ In other situations, you'll need a visa issued by the [French representations i
 
 New Caledonia is an overseas territory of France.
 
-Contact the [Consulate-General of France in Sydney](https://au.ambafrance.org/-Visas-new-) or the [Embassy of France in Canberra](https://au.ambafrance.org/-English-)for up-to-date information on visa requirements. 
+Contact the [Consulate-General of France in Sydney](https://au.ambafrance.org/-Visas-new-), [Consulate-General of France in Melbourne](https://au.ambafrance.org/-Consulate-General-in-Melbourne-) or the [Embassy of France in Canberra](https://au.ambafrance.org/-English-) for the latest details on up-to-date information on visa requirements. 
 
 #### Border measures
 
 Check with your airline or travel provider on minors' travel regulations, including those travelling unaccompanied.
 
-Entry protocols apply to private sailboats and cruise ships visiting New Caledonia. All immigration procedures must be completed in Noumea, with some approvals required before arrival. During a crisis, arrivals by sea may be prohibited or restricted by local authorities. Private sailboats must contact the Maritime Rescue Coordination Centre (MRCC) for clearance to come to New Caledonia, with Noumea being the mandatory port of entry. Contact your airline, cruise line, local port agent, tour operator or local employer, for the latest updates.
+Entry protocols apply to private sailboats and cruise ships visiting New Caledonia. All immigration procedures must be completed in Noumea, with some approvals required before arrival. During a crisis, arrivals by sea may be prohibited or restricted by local authorities. Noumea is the port of entry for private sailboats for clearance and inspection by immigration, customs and biosecurity services. Further information and contacts available in English at [New Caledonia Tourism official website – Arriving by sea](https://au.newcaledonia.travel/travel-guide/arriving-by-boat/).
+
+Contact your airline, cruise line, local port agent, tour operator or local employer, for the latest updates.
 
 **More information:**
 
-* [French High Commission in New Caledonia](https://www.nouvelle-caledonie.gouv.fr/Demarches/Accueil-des-etrangers/Conditions-d-entree-des-etrangers-en-Nouvelle-Caledonie) with entry conditions to New Caledonia by foreign nationals (in French).
-* [Rescue and Surveillance Operational Center of New Caledonia (COSSNC)](https://mrcc.nc/) with up-to-date information (in English) for [private sailboats](https://mrcc.nc/information-nautique/avis-en-vigueur).
+* [French High Commission in New Caledonia](https://www.nouvelle-caledonie.gouv.fr/Demarches/Accueil-des-etrangers/Conditions-d-entree-des-etrangers-en-Nouvelle-Caledonie) with entry conditions to New Caledonia by foreign nationals, including mandatory arrival-departure checks and declarations with immigration services at Tontouta international airport (air travellers) or the Port of Noumea (sea travellers)  (in French).
+* [French Customs Directorate in New Caledonia](https://douane.gouv.nc/) with [information for travellers](https://douane.gouv.nc/particuliers/les-voyageurs), including [authorised goods](https://douane.gouv.nc/sites/default/files/atoms/files/marchandises_autorisees_en_nouvelle-caledonie.pdf) and customs regulations applicable to [private yachts](https://douane.gouv.nc/particuliers/formalites-douanieres-pour-les-navires-de-plaisance) and [travellers arriving by air](https://douane.gouv.nc/particuliers/les-voyageurs)(all in French)
+* [Biosecurity New Caledonia (DAVAR-SIVAP)](https://davar.gouv.nc) including [information for travellers and private yachts](https://davar.gouv.nc/importations-exportations-importations/particuliers-voyageurs-plaisanciers) (forms in French and English).
+* [New Caledonia Tourism: The Official website for tourism in New Caledonia](https://au.newcaledonia.travel), including [visa-entry requirements and contacts for arrival by plane or on board cruise ships](https://au.newcaledonia.travel/travel-guide/passport-visa-and-customs/), or [on board private sailboats](https://au.newcaledonia.travel/travel-guide/arriving-by-boat/) (in English).
+* [Rescue and Surveillance Operational Center of New Caledonia (COSSNC)](https://mrcc.nc/) for emergency assistance at sea.
 
 #### Other formalities
 
@@ -105,7 +110,7 @@ You can drive in New Caledonia on a valid Australian driver's licence for up to 
 To find out about driver's licences and driving regulations:
 
 * Visit the [New Caledonian Department of Infrastructure and Land Transport](https://dittt.gouv.nc/), including information on [foreign licences](https://dittt.gouv.nc/permis-de-conduire/demande-de-permis-de-conduire/echange-de-permis-de-conduire) (in French)
-* Visit the [New Caledonian Public Service](https://service-public.nc/particuliers/transports/automobile/alcool-au-volant#:~:text=la%20vitesse%20autoris%C3%A9e).-,Seuil%20d%27alcool%C3%A9mie,depuis%20plus%20de%202%20ans.) website, which includes information on alcohol limits.
+* Visit the [New Caledonian Public Service](https://service-public.nc/article/l-alcool-au-volant) website, which includes information on alcohol limits.
 
 On the road:
 
@@ -118,10 +123,9 @@ You could encounter:
 * roadblocks
 * carjackings
 * stone-throwing
+* shooting
 
 These incidents are uncommon but dangerous (see [Safety](https://www.smartraveller.gov.au/destinations/pacific/new-caledonia#safety)).
-
-Leave the area quickly and safely if stones are thrown at your car.
 
 If you plan to drive:
 
@@ -157,21 +161,22 @@ Other municipalities in New Caledonia have taxi services. Check the website of t
 
 [New Caledonia Tourism](https://au.newcaledonia.travel/plan-your-trip/transport/) provides information on[all transport services](https://au.newcaledonia.travel/plan-your-trip/transport/) available (in English), 
 
-Buses operate throughout Grande Terre (the main island). Check the Taneo bus services' [website](https://www.taneo.nc/) and [Facebook](https://www.facebook.com/taneoNC/) page (in French) for the most up-to-date information as services are currently suspended until further notice. Maritime shuttles may be put in place during a crisis, monitor the Taneo website and Facebook page for further information.
+Buses operate throughout Grande Terre (the main island). Check the Taneo bus services' [website](https://www.taneo.nc/) and [Facebook](https://www.facebook.com/taneoNC/) page (in French) for the most up-to-date information as services are gradually resuming with reviewed lines and timetables. Maritime shuttles may be put in place during a crisis, monitor the Taneo website and Facebook page for further information.
 
-On other islands, [public transport](https://www.smartraveller.gov.au/before-you-go/getting-around/public-transport) is limited.
+On other islands, [public or private-rented transport](https://au.newcaledonia.travel/plan-your-trip/transport/transport-in-the-islands/) is limited.
 
 #### Sea travel
 
 Passenger ferries run from Noumea to:
 
-* Île des Pins
+* Isle of Pines
 * Maré and Lifou in the Loyalty Islands
 
 Many international [cruises](https://www.smartraveller.gov.au/before-you-go/getting-around/cruises) stopover in New Caledonia. See [Health](https://www.smartraveller.gov.au/destinations/pacific/new-caledonia#health)
 
 **More information:**
 
+* [Travelling on public transport overseas](https://www.smartraveller.gov.au/before-you-go/getting-around/public-transport)
 * [Travelling by boat](https://www.smartraveller.gov.au/before-you-go/getting-around/boat-travel)
 
 #### Air travel

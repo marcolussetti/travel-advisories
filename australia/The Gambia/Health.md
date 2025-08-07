@@ -61,6 +61,12 @@ The [HIV/AIDS](https://www.who.int/news-room/fact-sheets/detail/hiv-aids) infe
 
 Take precautions if you engage in activities that expose you to the virus.
 
+#### Polio
+
+While The Gambia was declared free of Wild Poliovirus (Type 1) in 2004, Vaccine-Derived Poliovirus (Type 2) has been detected in the country in the last 12 months through environmental surveillance.
+
+Stay up to date with recommended polio vaccinations, including a booster dose, through the [Australian Immunisation Handbook](https://immunisationhandbook.health.gov.au/).
+
 #### Other health risks
 
 Waterborne, foodborne, parasitic and other infectious diseases are common, including these listed by the World Health Organization:
@@ -73,7 +79,6 @@ Waterborne, foodborne, parasitic and other infectious diseases are common, incl
 * [tuberculosis](https://www.who.int/news-room/fact-sheets/detail/tuberculosis)
 * [rabies](https://www.who.int/news-room/fact-sheets/detail/rabies)
 * [bilharzia (schistosomiasis)](https://www.who.int/news-room/fact-sheets/detail/schistosomiasis)
-* [COVID-19](https://www.health.gov.au/topics/covid-19/about)
 
 Serious outbreaks can occur.
 
@@ -104,8 +109,6 @@ If you become seriously ill or injured, you'll need to be evacuated to a place w
 
 Not all medication available over the counter or by prescription in Australia is available in other countries.
 
-Some may even be considered illegal or a controlled substance, even if prescribed by an Australian doctor.
-
 Some prescription or over-the-counter drugs are illegal in The Gambia. This includes skin-bleaching creams and other medication available in Australia.
 
 It's illegal to import, use or possess medication containing:
@@ -119,7 +122,9 @@ It's illegal to import, use or possess medication containing:
 * clobestatol
 * clobestatone
 
-Other restrictions may apply. Check with the [High Commission of the Republic of The Gambia](https://protocol.dfat.gov.au/Public/Missions/197) before you travel.
+Other restrictions may apply. Check with the [High Commission of The Gambia](https://protocol.dfat.gov.au/Public/Missions/197) before you travel.
+
+Pharmacy regulation in The Gambia is limited, and counterfeit medications are a risk. Bring all essential, legal medication with you.
 
 If you plan to bring medication, check if it's legal in The Gambia. Take enough legal medicine for your trip.
 
@@ -131,4 +136,4 @@ Carry a copy of your prescription or a letter from your doctor stating:
 
 More information:
 
-* [Medication](https://www.smartraveller.gov.au/before-you-go/health/medications)
+* [Medication](/before-you-go/health/medications "Medication and medical equipment")

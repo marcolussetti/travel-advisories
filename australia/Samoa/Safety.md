@@ -15,6 +15,8 @@ Petty crime is common, including theft from vehicles and accommodation.
 
 Violent house break-ins can occur.
 
+Samoa has experienced widespread power outages which can impact street lighting. Avoid dimly lit areas where possible.
+
 To protect yourself from crime:
 
 * avoid going out alone at night
@@ -26,7 +28,7 @@ Drink spiking can happen anywhere. Be alert to the potential risks, and don't le
 
 **More information:**
 
-* [Partying safely while overseas](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.smartraveller.gov.au%2Fbefore-you-go%2Fsafety%2Fpartying&data=05%7C02%7CMichelle.Lam%40dfat.gov.au%7Cbd0cd565db744527188508dd41a4930d%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638738897282360647%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=8hzP1P0iV92Jm88KsRyu4DlEadlSJN77OY%2FyBZsYuRk%3D&reserved=0)
+* [Partying safely](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.smartraveller.gov.au%2Fbefore-you-go%2Fsafety%2Fpartying&data=05%7C02%7CMichelle.Lam%40dfat.gov.au%7Cbd0cd565db744527188508dd41a4930d%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638738897282360647%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=8hzP1P0iV92Jm88KsRyu4DlEadlSJN77OY%2FyBZsYuRk%3D&reserved=0)
 
 #### Cyber security
 
@@ -38,24 +40,16 @@ Social media can also be risky in destinations where there are social or politic
 
 * [Cyber security when travelling overseas](https://www.smartraveller.gov.au/before-you-go/staying-safe/cyber-security)
 
-#### Kidnapping
-
-Kidnapping can happen anywhere, anytime, including in destinations that are typically at lower risk.
-
-The Australian Government’s longstanding policy is that it doesn’t make payments or concessions to kidnappers.
-
-**More information:**
-
-* [Kidnapping](https://www.smartraveller.gov.au/before-you-go/safety/kidnapping)
+####
 
 #### Civil unrest and political tension
 
-Civil unrest is rare and protests are generally peaceful. However, public protests and events that draw large groups of people can turn violent. Avoid demonstrations and follow the advice of local authorities.
+Civil unrest and politically motivated violence is rare. Political demonstrations and peaceful protests can occur in the lead up to elections particularly around the period of the formation of Government. Samoa has announced an election for 29 August 2025. Elections can be emotive and draw large groups of people. Avoid demonstrations and follow the advice of local authorities.
 
 To protect yourself during periods of unrest:
 
 * avoid protests, demonstrations and crowds
-* monitor the media for possible unrest
+* monitor the media for possible unrest or locations to avoid
 
 **More information:**
 

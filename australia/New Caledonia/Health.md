@@ -53,6 +53,7 @@ If you have immediate concerns for your welfare or the welfare of another Austra
 **More information:**
 
 * [General health advice](/before-you-go/health "Taking care of your health")
+* [Managing your mental health](https://www.smartraveller.gov.au/before-you-go/health/mental-health)
 * [Healthy holiday tips](https://www.healthdirect.gov.au/healthy-holiday-tips-infographic) (Healthdirect Australia)
 
 #### Medications
@@ -77,7 +78,7 @@ Carry a copy of your prescription or a letter from your doctor stating:
 
 #### Insect-borne diseases
 
-Insect-borne diseases such as [Dengue](https://www.health.gov.au/diseases/dengue-virus-infection), [Chikungunya](https://www.health.gov.au/diseases/chikungunya-virus-infection) and [Zika](https://www.health.gov.au/diseases/flavivirus-infection-including-zika-virus) are a risk in New Caledonia, especially in the warmer and wetter months.
+Insect-borne diseases such as [Dengue](https://www.health.gov.au/diseases/dengue-virus-infection), [Chikungunya](https://www.health.gov.au/diseases/chikungunya-virus-infection) and [Zika](https://www.health.gov.au/diseases/flavivirus-infection-including-zika-virus) can be risks in New Caledonia, especially in the warmer and wetter months.
 
 If you're pregnant, the Australian Department of Health and Aged Care recommends you:
 
@@ -118,16 +119,10 @@ Waterborne, foodborne, parasitic and other infectious diseases occur. These incl
 * [influenza](https://www.who.int/en/news-room/fact-sheets/detail/influenza-(seasonal))
 * [conjunctivitis](https://www.cdc.gov/conjunctivitis/index.html)
 * [Pertussis – Whooping cough](https://www.who.int/docs/librariesprovider2/default-document-library/pertussis-factsheet-08022024.pdf)
-* [COVID-19](https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert) (Australian Department of Health and Aged Care)
-* [Actualité COVID-19 | Gouvernement de la Nouvelle-Calédonie](https://gouv.nc/actualite-covid-19) (in French)
 
 It's generally safe to drink tap water in towns.
 
-To protect yourself from illness:
-
-* drink boiled water or bottled water with sealed lids in rural areas
-* attend to symptoms, such as itchiness and skin wounds
-* avoid raw and undercooked food, such as salads
+In rural areas, to protect yourself from illness drink boiled water or bottled water with sealed lids.
 
 #### More information:
 
@@ -152,9 +147,11 @@ In the Southern Province:
 
 In the Northern Province, the main public hospitals are:
 
-* [Koumac (Hôpital Paula-Thavoavianon)](https://gouv.nc/etablissement-public/centre-hospitalier-du-nord-0) – has emergency, general medical and mid-wife services.
-* [Poindimié (Hôpital Raymond Doui-Nebayes)](https://gouv.nc/etablissement-public/centre-hospitalier-du-nord-0) – has general, physical and rehabilitation, continuing care services.
+* [Koumac (Hôpital Paula-Thavoavianon)](https://gouv.nc/etablissement-public/centre-hospitalier-du-nord-0) – for external consultations only.
+* [Poindimié (Hôpital Raymond Doui-Nebayes)](https://gouv.nc/etablissement-public/centre-hospitalier-du-nord-0) – for external consultations only.
 * [Koné (Pôle Sanitaire du Nord)](https://gouv.nc/etablissement-public/centre-hospitalier-du-nord-0) – has emergency, general medical, surgery, anaesthesia, maternity, operations, day-care and continuing care services.
+
+Please see the Facebook page [Centre Hospitalier DU NORD](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.facebook.com%2FChn1recrutement&data=05%7C02%7CConsular.Noumea%40dfat.gov.au%7Ce6164e0fe9004b2e01ab08ddb79bc031%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638868601760284532%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Dxv2eFWLtebbzQCcuAragpo95%2Fc5itH1ZbwHVUDwtW0%3D&reserved=0) for information on services and opening times for the Northern Province main public hospitals.
 
 The only decompression chamber is in Noumea ([SCADEM - Travaux sous-marin Nouvelle-Calédonie](https://scadem.com/#caisson-hyperbare) (in French)).
 
