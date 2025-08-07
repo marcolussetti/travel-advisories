@@ -1,11 +1,11 @@
 {
     "name": "Italy",
-    "update_reason": "Updated information on what health risks you may face in Italy ('Health' page).",
+    "update_reason": "Information added about what to do when travelling to Italy with medicines containing internationally controlled drugs ('Health' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Italy/Warnings and insurance.md",
-            "update_date": "2025-07-30T16:52:01+01:00"
+            "update_date": "2025-08-06T11:07:21+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Italy/Getting help.md"
         }
     ],
-    "update_date": "2025-07-30T16:52:01+01:00"
+    "update_date": "2025-08-06T11:07:21+01:00"
 }

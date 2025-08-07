@@ -50,7 +50,9 @@ The e-Arrival card can be submitted up to 72 hours before arrival in South Korea
 
 All travellers arriving in South Korea from ‘Strict Quarantine Inspection Required Areas’ (including those who have transited in a ‘Strict Quarantine Inspection Required Area’) need to submit a health questionnaire, either through the pre-entry Q-Code system or by completing a paper-based questionnaire on arrival in South Korea. Travellers arriving in South Korea from ‘Quarantine Inspection Required Areas’ who exhibit symptoms must also submit a Q-Code or paper-based health questionnaire.
 
-Failure to complete required health screenings could result in a fine of up to KRW 10 million. The UK is not currently designated as a ‘Quarantine Inspection Required Area’ however travellers should check the full list of [Quarantine Inspection Required Areas](https://qcode.kdca.go.kr/qco/bbs/BD_selectBbs.do?q_bbsSn=1016&q_bbsDocNo=20241220165453831&q_clsfNo=2&q_searchKeyTy=&q_searchVal=&q_currPage=1&q_sortName=&q_sortOrder=&) and [Q-Code submission process](https://qcode.kdca.go.kr/qco/guide.do) prior to travel.
+As of 1 August 2025, the UK is designated as a ‘Quarantine Inspection Required Area’, meaning that if you have any symptoms of illness you must submit a Q-Code or paper-based health questionnaire on arrival.
+
+Travellers should check the full list of [Quarantine Inspection Required Areas](https://qcode.kdca.go.kr/qco/bbs/BD_selectBbsList.do?q_bbsSn=1016) prior to travel, as the countries on the lists change frequently. If you need to submit a questionnaire, you should also review the [Q-Code submission process](https://qcode.kdca.go.kr/qco/guide.do). Failure to complete required health screenings could result in a fine of up to KRW 10 million.
 
 ## Vaccine requirements
 

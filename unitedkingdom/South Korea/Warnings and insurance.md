@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   17 April 2025
+:   7 August 2025
 
 Updated:
-:   16 April 2025
+:   6 August 2025
 
 Latest update:
-:   Updated information on political protests (See ‘Demonstrations’ on ‘Safety and security' page).
+:   Updated information on health screening requirements when arriving in country (‘Entry requirements’ page).
 
 ## Before you travel
 

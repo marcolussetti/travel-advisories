@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   5 July 2025
+:   7 August 2025
 
 Updated:
-:   4 July 2025
+:   6 August 2025
 
 Latest update:
-:   Updated information about health risks you may face in Tanzania (‘Health’ page).
+:   Information added about the upcoming general elections scheduled to take place in Tanzania on 29 October 2025 ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/645a3ab12226ee000c0ae4a0/FCDO__TA__086_-_Tanzania_Travel_Advice_Ed1__WEB_.jpg)
 

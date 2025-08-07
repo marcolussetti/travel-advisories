@@ -60,6 +60,8 @@ The legal status and regulation of some medicines prescribed or bought in the UK
 
 Read [best practice when travelling with medicines on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/43/medicines-abroad).
 
+For advice on what to do when travelling to Italy with medicines containing internationally controlled drugs, see information on the [Ministry of Health](https://www.salute.gov.it/new/en/tema/medicinali-stupefacenti-e-precursori-di-droghe/travelling-internationally-medicines-containing/) website.
+
 ### Pharmacies
 
 You will need to go to a pharmacy to get most over-the-counter medicines. Pharmacies are widely available and are usually identified by a green cross. UK prescriptions are not accepted, though you may be able to buy an equivalent medication from the pharmacy.

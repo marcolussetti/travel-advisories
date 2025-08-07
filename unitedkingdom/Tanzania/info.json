@@ -1,11 +1,11 @@
 {
     "name": "Tanzania",
-    "update_reason": "Updated information about health risks you may face in Tanzania (\u2018Health\u2019 page).",
+    "update_reason": "Information added about the upcoming general elections scheduled to take place in Tanzania on 29 October 2025 ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Tanzania/Warnings and insurance.md",
-            "update_date": "2025-07-04T16:16:24+01:00"
+            "update_date": "2025-08-06T16:15:08+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Tanzania/Getting help.md"
         }
     ],
-    "update_date": "2025-07-04T16:16:24+01:00"
+    "update_date": "2025-08-06T16:15:08+01:00"
 }
