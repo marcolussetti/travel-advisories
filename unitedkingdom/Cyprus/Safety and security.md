@@ -122,6 +122,8 @@ You can use a UK photocard driving licence to drive in Cyprus. If you still ha
 
 You must display a UK sticker to drive a UK-based car in Cyprus.
 
+If you are visiting Cyprus, you may be able to use your [Blue Badge](https://www.gov.uk/government/publications/blue-badge-using-it-in-the-eu/using-a-blue-badge-in-the-european-union) in some circumstances. Check local parking rules.
+
 ### Driving standards
 
 Driving standards are poor and there is an increased risk of road deaths compared to the UK.

@@ -129,6 +129,8 @@ If you want to stay longer, you must apply to the [Portuguese Customs authority]
 
 Check if you need a [UK sticker to drive your car outside the UK](https://www.gov.uk/displaying-number-plates/flags-identifiers-and-stickers).
 
+If you are visiting Portugal, you may be able to use your [Blue Badge](https://www.gov.uk/government/publications/blue-badge-using-it-in-the-eu/using-a-blue-badge-in-the-european-union) in some circumstances. Check local parking rules.
+
 Check [how long you can use your UK licence if you live in Portugal](https://www.gov.uk/guidance/living-in-portugal#driving-in-portugal).
 
 ### Tolls

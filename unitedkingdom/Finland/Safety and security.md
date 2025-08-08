@@ -34,6 +34,8 @@ You need a UK driving licence to drive in Finland. Hire car companies often ha
 
 Check if you need a [UK sticker to drive your car outside the UK](https://www.gov.uk/displaying-number-plates/flags-identifiers-and-stickers).
 
+If you are visiting Finland, you may be able to use your [Blue Badge](https://www.gov.uk/government/publications/blue-badge-using-it-in-the-eu/using-a-blue-badge-in-the-european-union) in some circumstances. Check local parking rules.
+
 ### Drink-driving laws
 
 Drink-driving is a serious offence in Finland, and you could get a prison sentence if found guilty. The drink-drive limit in Finland is significantly lower than the limit in England.

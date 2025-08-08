@@ -36,6 +36,8 @@ Airports in Ireland have excellent technology and security for detecting illegal
 
 If you are planning to drive in Ireland, see [information on driving abroad](https://www.gov.uk/driving-abroad/international-driving-permit) and check the [rules of the road in the RAC’s Ireland guide](https://www.rac.co.uk/drive/travel/country/ireland/). The guide lists driving regulations and other legal requirements you need to be aware of.
 
+If you are visiting Ireland, you may be able to use your [Blue Badge](https://www.gov.uk/government/publications/blue-badge-using-it-in-the-eu/using-a-blue-badge-in-the-european-union) in some circumstances. Check local parking rules.
+
 [Previous
 :
 Entry requirements](/foreign-travel-advice/ireland/entry-requirements)

@@ -125,6 +125,8 @@ You will need to show these if you are stopped by the police or if you cross non
 
 Check if you need a [UK sticker to drive your car outside the UK](https://www.gov.uk/displaying-number-plates/flags-identifiers-and-stickers).
 
+If you are visiting Poland, you may be able to use your [Blue Badge](https://www.gov.uk/government/publications/blue-badge-using-it-in-the-eu/using-a-blue-badge-in-the-european-union) in some circumstances. Check local parking rules.
+
 Hire car companies often have stricter requirements for their customers, such as a year of driving experience, a higher minimum age and holding an IDP. Most car rental companies will not allow you to take a hire car across the Poland-Ukraine border.
 
 If you want to drive for longer than 6 months, see [driving requirements for residents](https://www.gov.uk/guidance/living-in-poland#driving-in-poland).

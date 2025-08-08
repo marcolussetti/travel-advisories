@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   15 July 2025
+:   8 August 2025
 
 Updated:
-:   14 July 2025
+:   7 August 2025
 
 Latest update:
-:   Removal of information about local elections in Lagos which have passed.
+:   Updated information about vaccine requirements, taxis and buses, and travelling in Lagos ('Entry requirements', 'Safety and security' and 'Regional risks' pages).
 
 ![](https://assets.publishing.service.gov.uk/media/6544d305d36c910012935d1f/FCDO__TA__030_-_Nigeria_Travel_Advice_Ed8__WEB_.jpg)
 

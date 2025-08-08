@@ -123,6 +123,8 @@ When driving in Belgium, always carry:
 * your MOT (‘contrôle technique’) certificate
 * your passport and your passengers’ passports
 
+If you are visiting Belgium, you may be able to use your [Blue Badge](https://www.gov.uk/government/publications/blue-badge-using-it-in-the-eu/using-a-blue-badge-in-the-european-union) in some circumstances. Check local parking rules.
+
 If you live in Belgium, see [driving requirements for residents](https://www.gov.uk/guidance/living-in-belgium#driving-in-belgium).
 
 ### Driving regulations

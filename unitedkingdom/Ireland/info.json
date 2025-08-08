@@ -1,11 +1,11 @@
 {
     "name": "Ireland",
-    "update_reason": "Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport (\u2018Safety and security\u2019 page).",
+    "update_reason": "Updated with a link to information about using a UK issued Blue Badge in Ireland (\u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Ireland/Warnings and insurance.md",
-            "update_date": "2025-06-04T17:03:38+01:00"
+            "update_date": "2025-08-07T14:23:55+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Ireland/Getting help.md"
         }
     ],
-    "update_date": "2025-06-04T17:03:38+01:00"
+    "update_date": "2025-08-07T14:23:55+01:00"
 }

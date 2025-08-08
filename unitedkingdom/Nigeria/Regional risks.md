@@ -80,11 +80,13 @@ Militant groups are active across the Niger Delta region and have carried out a 
 
 There have been attacks and targeted killings. Some attacks have been on isolated roads and in remote locations, but they could occur in metropolitan areas. There is also a heightened risk of indiscriminate attacks on police and security infrastructure, which may affect bystanders. A number of states have imposed curfews. Be cautious about travelling in remote areas at night and follow local news and information outlets.
 
-Secessionist groups are active in the south-east and attacks and violent clashes often occur with the military and other security forces. Although foreign nationals are not normally targeted, there is a risk you could be caught in an attack. Some previous protests have turned violent.  Anyone travelling to the region should exercise increased caution and continue to follow FCDO travel advice. Monitor local government announcements and media reporting.
+Secessionist groups are active in the south-east and attacks and violent clashes often occur with the military and other security forces. Although foreign nationals are not normally targeted, there is a risk you could be caught in an attack. Some previous protests have turned violent. In Imo State there is an emerging trend of successionist groups using improvised explosive devices though the overall number of incidents remains relatively low. Anyone travelling to the region should exercise increased caution and continue to follow FCDO travel advice. Monitor local government announcements and media reporting.
 
-## South West Nigeria
+## South West Nigeria including Lagos
 
 Violent crimes such as mugging, kidnapping, car-jacking and armed robbery are common, particularly in the larger cities. Intercommunal violence is common and can flare up suddenly. Large-scale terrorist attacks are rare, but Islamic State West Africa claimed 2 attacks in 2022. While these attacks have not targeted foreign nationals, try to avoid being caught up in such incidents.
+
+Be cautious when travelling in Lagos, particularly on the mainland, which attracts high levels of crime and where security levels can be unpredictable. Street crime is a significant risk across Lagos, particularly in crowded areas. Take sensible measures to guard your possessions and reduce your personal risk. Be cautious when moving around Lagos at night, risks can be particularly high when moving around the city by foot.
 
 Be alert and take any security advice given by your hotel, employer or your hosts.
 

@@ -28,13 +28,13 @@ You can [apply for a visa from Nigerian Immigration Services](https://portal.imm
 
 ### Landing and departure cards
 
-The Nigerian authorities have recently introduced a system for foreigners to complete landing and departure cards before entry/exit and you may be asked for these at the airport or other border points.
+The Nigerian authorities have introduced a system for foreigners to complete landing and departure cards before entry/exit and you may be asked for these at the airport or other border points.
 
 The forms can be completed through the [online portal](https://lecard.immigration.gov.ng/).
 
 ## Vaccine requirements
 
-To enter Nigeria, you must have a certificate to prove you’ve had a yellow fever vaccination if you’re coming from a [country listed as a transmission risk](https://nathnacyfzone.org.uk/factsheet/65/countries-with-risk-of-yellow-fever-transmission).
+To enter Nigeria, you must have a certificate to prove you’ve had a yellow fever vaccination.
 
 For full details about medical entry requirements and recommended vaccinations, see [TravelHealthPro’s Nigeria guide](http://travelhealthpro.org.uk/country/165/nigeria#Vaccine_recommendations).
 

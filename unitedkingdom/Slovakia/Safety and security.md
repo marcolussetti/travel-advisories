@@ -94,6 +94,8 @@ You can use a UK photocard driving licence to drive in Slovakia for up to 6 mont
 
 If you stay longer than 6 months, you must [exchange your licence for a Slovak one](https://www.gov.uk/guidance/living-in-slovakia#driving-in-slovakia).
 
+If you are visiting Slovakia, you may be able to use your [Blue Badge](https://www.gov.uk/government/publications/blue-badge-using-it-in-the-eu/using-a-blue-badge-in-the-european-union) in some circumstances. Check local parking rules.
+
 Hire car companies often have stricter requirements for their customers, such as a year of driving experience, a higher minimum age and holding an IDP .
 
 Drink-driving is a serious offence in Slovakia. If you are tested and found to have any alcohol in your system, you may get a fine of up to 1,300 euros, have your licence confiscated and face possible imprisonment.

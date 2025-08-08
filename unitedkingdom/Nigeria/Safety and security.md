@@ -81,7 +81,7 @@ Throughout Nigeria there are high levels of violent street crime including muggi
 
 There are frequent reports of carjackings, some involving armed gunmen, on Nigeria’s urban roads with rural road networks especially dangerous.
 
-Criminals have targeted visiting British nationals as your perceived wealth makes you attractive victims. Follow guidance offered by hosts or employers and limit road travel at night as far as possible. Avoid carrying large amounts of cash and never wear valuable watches, jewellery or items of sentimental value. If you suspect danger, move to a safer area.
+Criminals have targeted visiting British nationals due to perceived wealth. Follow guidance offered by hosts or employers and limit road travel at night as far as possible. Avoid carrying large amounts of cash and never wear valuable watches, jewellery or items of sentimental value. If you suspect danger, move to a safer area.
 
 If you’re caught up in an armed robbery, immediately comply with the attackers’ demands.
 
@@ -185,7 +185,7 @@ Additional checks are in place at the Nigeria-Benin, Nigeria-Niger and Nigeria-C
 
 ### Taxis and buses
 
-Public transport throughout Nigeria is dangerous. Taxis and long-distance buses are often poorly maintained, uninsured and driven by unqualified drivers. Most major hotels offer cars for hire with drivers, so use these where possible. Taxis, including online taxi app services, can pose a kidnap risk to passengers.
+There is a particularly high level of crime and little regulatory oversight on public transport, including taxis, in Nigeria. Taxis and long-distance buses are often poorly maintained, uninsured and driven by unqualified drivers. Most major hotels offer cars for hire with drivers, so use these where possible. Taxis, including online taxi app services, can pose a kidnap risk to passengers.
 
 If you are expecting a greeter or driver to collect you at any of Nigeria’s international airports, make sure they properly identify themselves before you set off. Criminals posing as greeters are a problem.
 

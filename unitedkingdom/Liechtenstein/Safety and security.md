@@ -63,6 +63,8 @@ You can drive in Liechtenstein with a UK driving licence. You do not need an int
 
 Check if you need a [UK sticker to drive your car outside the UK](https://www.gov.uk/displaying-number-plates/flags-identifiers-and-stickers). Alpine winters make driving more difficult. Equip your car with winter tyres and snow-chains, and check road conditions before departure.
 
+If you are visiting Liechtenstein, you may be able to use your [Blue Badge](https://www.gov.uk/government/publications/blue-badge-using-it-in-the-eu/using-a-blue-badge-in-the-european-union) in some circumstances. Check local parking rules.
+
 The police strictly enforce road regulations. If you are stopped by police for a traffic offence you could face a heavy fine and a possible prison sentence.
 
 ### Tolls

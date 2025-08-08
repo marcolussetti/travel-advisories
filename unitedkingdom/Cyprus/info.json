@@ -1,11 +1,11 @@
 {
     "name": "Cyprus",
-    "update_reason": "Updated information about wildfires in Cyprus ('Warnings and insurance' page).",
+    "update_reason": "Updated with a link to information about using a UK issued Blue Badge in Cyprus (\u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Cyprus/Warnings and insurance.md",
-            "update_date": "2025-07-24T17:01:25+01:00"
+            "update_date": "2025-08-07T13:58:45+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Cyprus/Getting help.md"
         }
     ],
-    "update_date": "2025-07-24T17:01:25+01:00"
+    "update_date": "2025-08-07T13:58:45+01:00"
 }

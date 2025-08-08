@@ -50,6 +50,8 @@ If you are planning to drive in Sweden, see [information on driving abroad](htt
 
 You need a UK driving licence to drive in Sweden. Hire car companies often have stricter requirements for their customers, such as a year of driving experience and a minimum age.
 
+If you are visiting Sweden, you may be able to use your [Blue Badge](https://www.gov.uk/government/publications/blue-badge-using-it-in-the-eu/using-a-blue-badge-in-the-european-union) in some circumstances. Check local parking rules.
+
 During winter, snow and ice on the roads cause accidents daily. From 1 December to 31 March, and any other times designated by the police, all vehicles must have winter tyres.
 
 ## Extreme weather and natural disasters

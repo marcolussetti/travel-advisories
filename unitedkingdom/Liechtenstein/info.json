@@ -1,11 +1,11 @@
 {
     "name": "Liechtenstein",
-    "update_reason": "Updated information on new Schengen entry requirements being introduced from 12 October ('Entry requirements' page)",
+    "update_reason": "Updated with a link to information about using a UK issued Blue Badge in Liechtenstein (\u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Liechtenstein/Warnings and insurance.md",
-            "update_date": "2025-07-30T15:07:31+01:00"
+            "update_date": "2025-08-07T14:25:11+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Liechtenstein/Getting help.md"
         }
     ],
-    "update_date": "2025-07-30T15:07:31+01:00"
+    "update_date": "2025-08-07T14:25:11+01:00"
 }

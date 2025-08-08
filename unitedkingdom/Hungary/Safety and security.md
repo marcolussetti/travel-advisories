@@ -89,6 +89,8 @@ You can use a UK photocard driving licence to drive in Hungary. If you still hav
 
 Check if you need a [UK sticker to drive your car outside the UK](https://www.gov.uk/displaying-number-plates/flags-identifiers-and-stickers).
 
+If you are visiting Hungary, you may be able to use your [Blue Badge](https://www.gov.uk/government/publications/blue-badge-using-it-in-the-eu/using-a-blue-badge-in-the-european-union) in some circumstances. Check local parking rules.
+
 Check the [information about driving if you’re resident in Hungary](https://www.gov.uk/guidance/living-in-hungary#driving-in-hungary).
 
 ### Driving regulations

@@ -62,6 +62,8 @@ You can use a UK photocard driving licence to drive in Switzerland. If you still
 
 Check if you need a [UK sticker to drive your car outside the UK](https://www.gov.uk/displaying-number-plates/flags-identifiers-and-stickers).
 
+If you are visiting Switzerland, you may be able to use your [Blue Badge](https://www.gov.uk/government/publications/blue-badge-using-it-in-the-eu/using-a-blue-badge-in-the-european-union) in some circumstances. Check local parking rules.
+
 ### Tolls
 
 You must buy and display a vignette (sticker) to travel on Swiss motorways. You can buy one at most border crossings, petrol stations, post offices, by phone (+800 1002 0030) or [buy a vignette online](https://via.admin.ch/shop/dashboard). If you do not have a vignette, you could get a large fine.
@@ -127,7 +129,7 @@ If you see a wildfire, call the fire department on 118.
 
 [Previous
 :
-Women's Euro 2025](/foreign-travel-advice/switzerland/womens-euro-2025)
+Entry requirements](/foreign-travel-advice/switzerland/entry-requirements)
 
 [Next
 :

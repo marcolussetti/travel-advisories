@@ -111,6 +111,8 @@ If you’re planning to drive in Croatia, see [information on driving abroad](ht
 
 You can use a UK photocard driving licence to drive in Croatia for up to one year. If you still have a paper driving licence, you may need to [update it to a photocard licence](https://www.gov.uk/exchange-paper-driving-licence) or get the [correct version of the international driving permit (IDP)](https://www.gov.uk/driving-abroad/international-driving-permit) as well.
 
+If you are visiting Croatia, you may be able to use your [Blue Badge](https://www.gov.uk/government/publications/blue-badge-using-it-in-the-eu/using-a-blue-badge-in-the-european-union) in some circumstances. Check local parking rules.
+
 The Croatian Automobile Association lists [current traffic hazards](https://www.hak.hr/en#traffic-flow-and-road-conditions).
 
 Drink-driving is a serious offence in Croatia. If you’re found with more than 0.05% of alcohol in your blood (in England it’s 0.08%) you will get a fine, and you may lose your licence and get a prison sentence. The alcohol limit is zero for drivers under the age of 24.

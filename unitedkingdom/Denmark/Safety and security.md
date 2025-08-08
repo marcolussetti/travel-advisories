@@ -66,6 +66,8 @@ Cyclists often have the right of way. Always check cycle lanes before turning ri
 
 Check if you need a [UK sticker to drive your car outside the UK](https://www.gov.uk/displaying-number-plates/flags-symbols-and-identifiers).
 
+If you are visiting Denmark, you may be able to use your [Blue Badge](https://www.gov.uk/government/publications/blue-badge-using-it-in-the-eu/using-a-blue-badge-in-the-european-union) in some circumstances. Check local parking rules.
+
 ### Bicycles and scooters
 
 Many bicycle accidents happen when pedestrians do not give the right of way to bicycles. There are online guides in English on cycling in Denmark at [Visit Copenhagen](https://www.visitcopenhagen.com/biking) and the [Danish Cyclists’ Federation](https://www.cyklistforbundet.dk/english/) (’Cyklistforbundet’).

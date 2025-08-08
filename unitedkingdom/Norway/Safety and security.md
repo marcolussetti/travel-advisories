@@ -42,6 +42,8 @@ If you are planning to drive in Norway, see [information on driving abroad](http
 
 You can use a UK photocard driving licence to drive in Norway for up to 90 days. If you still have a paper driving licence, you may need to [update it to a photocard licence](https://www.gov.uk/exchange-paper-driving-licence) or get the [correct version of the international driving permit (IDP)](https://www.gov.uk/driving-abroad/international-driving-permit) as well.
 
+If you are visiting Norway, you may be able to use your [Blue Badge](https://www.gov.uk/government/publications/blue-badge-using-it-in-the-eu/using-a-blue-badge-in-the-european-union) in some circumstances. Check local parking rules.
+
 Drink-driving is a serious offence in Norway. If you are tested and found to have a quarter of England’s legal limit of alcohol in your system you may get a fine and possible imprisonment. There are frequent roadside checks for alcohol.
 
 You must use winter tyres with a minimum 3-millimetre (mm) tread if there is snow or ice covering the roads. You may also need to use studded tyres or snow chains. Truck drivers must use winter tyres with a minimum 5mm tread and have enough snow chains.

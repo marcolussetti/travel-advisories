@@ -102,6 +102,8 @@ Driving laws in Austria can be complex, especially for caravan and motorhomes. F
 
 You can use a UK photocard driving licence to drive in Austria if you are aged 18 or over. If you still have a paper driving licence, you may need to [update it to a photocard licence](https://www.gov.uk/exchange-paper-driving-licence).
 
+If you are visiting Austria, you may be able to use your [Blue Badge](https://www.gov.uk/government/publications/blue-badge-using-it-in-the-eu/using-a-blue-badge-in-the-european-union) in some circumstances. Check local parking rules.
+
 Hire car companies often have stricter requirements for their customers, such as a year of driving experience and a higher minimum age.
 
 You must carry insurance and vehicle ownership documents.

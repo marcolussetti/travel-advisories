@@ -1,17 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   25 July 2025
+:   8 August 2025
 
 Updated:
-:   24 July 2025
+:   7 August 2025
 
 Latest update:
-:   Updated information about wildfires in Cyprus ('Warnings and insurance' page).
+:   Updated with a link to information about using a UK issued Blue Badge in Cyprus (‘Safety and security’ page).
 
 ## Wildfires in Cyprus
 
-There are active wildfires in Cyprus, including in the Paphos and Limassol districts, which have resulted in some evacuations from affected areas. Transport and infrastructure (electricity, water) links in locations close to the fires may be affected whilst the authorities respond to the situation.
+There have been active wildfires in Cyprus, including in the Paphos and Limassol districts, which have resulted in some evacuations from affected areas. Transport and infrastructure (electricity, water) links in locations close to the fires may be affected whilst the authorities respond to the situation.
 
 Both Paphos and Larnaca airports are operating as normal.
 
