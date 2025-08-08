@@ -12,7 +12,7 @@ One page per entry stamp.
 
 TOURIST VISA REQUIRED:
 
-Not required for tourist stays under 30 days
+Visa on Arrival required for tourist stays under 90 days
 
 VACCINATIONS:
 
