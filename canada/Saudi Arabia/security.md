@@ -16,71 +16,84 @@ You should:
 
 [Canada's response to the situation in the Middle East](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=eng)
 
+### Behaviour in public and on social media
+
+Saudi law prohibits:
+
+* criticizing the Kingdom of Saudi Arabia, the royal family, its institutions, and Islam
+* provoking, mocking or questioning public order, religious values, and public morals
+* expressing support for any banned groups or organizations considered by Saudi authorities to practice violence
+
+These prohibitions extend to your online activity, including what you post, share or like on social media.
+
+If the Saudi authorities accuse you of such an offence or place you under investigation, you could face a travel ban until the conclusion of the proceedings, which could last several months or years. The legal processes around national security cases can be complex and slow.
+
+Saudi nationals and foreigners have been sentenced to lengthy jail sentences for social media activities, including posts or simple “likes”. This included social media activity that took place outside Saudi Arabia and sometimes many years in the past.
+
 ### Borders
 
 #### Border with Yemen
 
-Armed groups in Yemen regularly target Saudi interests near the border in retaliation for Saudi involvement in the war in Yemen. Houthi militias regularly launch rockets, missiles and mortars at Saudi population centres near the border.
+Between 2015 and 2022, missiles, drones and other projectiles were used by terrorists in Yemen and the international coalition conducting strikes on terrorist-controlled areas in Yemen, including near the border with Saudi Arabia.
 
-* Exercise extreme caution if you are travelling to or within other parts of southwestern Saudi Arabia
-* Airports in the area may be closed with little or no notice. Verify your travel plans before leaving for the airport
+During that period, terrorist attacks also targeted cities in Saudi Arabia, civilian infrastructure, airports, military bases and energy facilities. Military debris from interceptions also posed a security risk. A 2022 U.N.-brokered truce ended cross-border strikes from Yemen, but the terrorist group responsible for the attacks has threatened to resume strikes on Saudi Arabia.
+
+Saudi border authorities regularly patrol along the border with Yemen to dismantle criminal networks involved in human, narcotics and arms trafficking. Security operations near the border periodically lead to violent spillovers, including clashes with Saudi authorities.
+
+Due to the ongoing conflicts and instability along the border, airports in the area may be closed with little or no notice. Verify your travel plans before leaving for the airport.
+
+Exercise extreme caution if you are travelling to or within other parts of southwestern Saudi Arabia.
 
 #### Northern Saudi border
 
-The Saudi authorities have declared “out of bounds” zones within 20 km of:
+Saudi authorities have declared “out of bounds” zones within 20 km of:
 
 * the border with Iraq
 * the towns of Hafr al Batin and Khafji in Eastern Province
 
-Violations are punishable by up to 30 months in prison and a SAR 25,000 fine.
+If you enter these zones without proper authorization, even inadvertently, you face severe penalties, including imprisonment and fines.
 
-Direct access to land border crossings remains available and signs are being placed in areas where vehicles are allowed to cross. Consult local authorities before attempting to cross a land border through this area.
+You should only cross the border at designated and official land border crossing points, which are clearly identified.
 
-### Qatif
+### Governorate of Al Qatif
 
-From May to September, 2017, clashes between Saudi security forces and activists and militants have caused casualties in Al Awamiya in the Qatif region of Eastern Province. Although the situation has calmed, tensions remain high and there is a heavy security presence in the area.
-
-#### Al Awamiya and Al Musawara
-
-Civil unrest and armed clashes may occur. Saudi forces may impose curfews with little or no notice.
-
-If you must travel to Al Awamiya and Al Musawara suburbs of Qatif, exercise extreme caution and follow the instructions of local authorities.
+In the past, sectarian tensions led to violent clashes between Saudi security forces and Shia militant groups, especially around the cities of Al Awamiyah and Al Musawara. While there have been no major security incidents since 2020, tensions persist and security forces maintain a heightened presence.
 
 ### Missile strikes and drones
 
-Missiles and drones have been launched from Yemen into Saudi Arabia, most of which have been intercepted and destroyed by Saudi air defence systems. The majority of these events occur close to the Yemen border, however some have occurred in cities such as Riyadh, Abha, Yanbu as well as in parts of the Eastern Province. Urban areas, military, oil and public facilities, such as airports, may be targeted by these missiles and drones. These events are expected to continue to occur and the situation remains unpredictable. Given the significant range of recent strikes Saudi Arabia, the Red Sea and the Gulf are at risk.
-
-Missile and drone interceptions may cause scattered debris or fragments. Seek shelter during these events, stay away from doors and windows and follow the instructions of local authorities.
+Missiles and drones launched by terrorist entities in Yemen toward Israel often transit Saudi airspace. Most of these have been intercepted and destroyed, but the projectiles and military debris pose a risk in Saudi Arabia, the Red Sea and the Persian Gulf. Although a UN-brokered truce was announced in 2022, drone attacks launched from Yemen may still occur near the Saudi border. Previous attacks have targeted Riyadh, Abha, Yanbu and parts of Eastern Province. The possibility of further attacks from Yemen on cities and infrastructure in Saudi Arabia cannot be ruled out.
 
 If you encounter debris or fragments:
 
-* don’t get close to or touch them
 * move away from them immediately
 * contact local authorities
 
 ### Terrorism
 
-There is a threat of terrorism. Attacks have occurred throughout the country. Latest large-scale attacks have targeted the Shia minority in Eastern Province, Saudi Arabia’s security forces and places of worship where large groups gather. Further attacks cannot be ruled out.
+There is a threat of terrorism throughout the country.
 
-Targets could include:
+Saudi authorities conduct counter-terrorism operations and have heightened security measures, but attacks cannot be ruled out. Terrorists have targeted Saudi and foreign interests, such as government buildings, military installations, energy facilities and diplomatic missions.
 
-* government buildings, including schools
+Targets could also include:
+
+* schools, including universities
 * places of worship
 * airports and other transportation hubs and networks
-* public areas such as tourist attractions, restaurants, bars, coffee shops, shopping centres, markets, hotels and other sites frequented by foreigners
+* public areas such as tourist attractions, restaurants, coffee shops, shopping centres, markets, hotels and other sites frequented by foreigners
 
-Heightened security measures are currently in place and may be reinforced on short notice.
+Always be aware of your surroundings when in public places.
 
-* Always be aware of your surroundings when in public places
-* Be particularly vigilant during religious holidays and public celebrations. Terrorists have used such occasions to mount attacks
+Be particularly vigilant during:
 
-### Kidnapping
+* sporting events
+* religious holidays
+* public celebrations
 
-There is a threat of kidnapping in Saudi Arabia. Maintain a high level of vigilance at all times.
+Terrorists have used such occasions to mount attacks.
 
 ### Demonstrations
 
-Demonstrations are illegal in Saudi Arabia. They occur predominantly in Shia communities in the Qatif area of Eastern Province. Even peaceful demonstrations can turn violent at any time. They can also lead to significant disruptions to traffic and public transportation. Security forces quickly prevent demonstrations from forming or gathering momentum.
+Demonstrations are illegal and therefore rare in Saudi Arabia. In the past, demonstrations and civil unrest occurred in predominantly Shia communities in the Al Qatif governorate of Eastern Province, due to longstanding sectarian tensions. In Saudi Arabia, security forces react quickly to prevent demonstrations from forming or gathering momentum. Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation.
 
 * Avoid areas where demonstrations and large gatherings are taking place
 * Follow the instructions of local authorities
@@ -90,51 +103,58 @@ Demonstrations are illegal in Saudi Arabia. They occur predominantly in Shia com
 
 ### Hajj
 
-The next Hajj pilgrimage to Mecca is expected to take place from June 4 to 9, 2025.Traffic in Mecca peaks during Eid al-Adha.
+The next Hajj pilgrimage to Mecca is expected to take place from May 24 to 29, 2026. Traffic in Mecca peaks during Eid al-Adha, which occurs during Hajj.
 
 #### Religious sites during Hajj
 
-There are safety risks at religious sites due to overcrowding. Pilgrims have been killed or injured in stampedes. The sites are far from the Canadian embassy. Contact your travel agent for information on available services and support.
-
-[Information on entry requirements during the pilgrimage](https://travel.gc.ca/destinations/saudi-arabia?_ga=2.187610600.1712953064.1710160261-33860031.1709822302#entryexit)
+There are safety risks at religious sites due to overcrowding. Pilgrims have been killed or injured in stampedes. The sites are far from the Embassy of Canada to Saudi Arabia, in Riyadh. Contact your travel agent for information on available services and support.
 
 ### Crime
 
 The crime rate is low. Petty crime, such as pickpocketing and purse snatching, occurs, especially in crowded areas and at holy sites.
 
-* Don’t show signs of affluence
-* Ensure that your personal belongings, including your passport and other travel documents, are secure at all times
+* Do not show signs of affluence
+* Keep your personal belongings, including your passport and other travel documents, in a secure place
 
-### Women’s safety
+### Roads
 
-Women travelling alone may be subject to some forms of harassment and verbal abuse.
+#### Road conditions
 
-[Advice for women travellers](https://travel.gc.ca/travelling/health-safety/advice-for-women-travellers "Advice for women travellers")
+Roads in rural areas are less developed, and driving can be dangerous due to:
 
-### Road safety
+* unpaved or uneven surfaces
+* insufficient lighting
+* lack of maintenance
+* camel crossings
+* poorly maintained vehicles
 
-Roads in larger cities are generally well maintained. Roads in rural areas are less developed, poorly lit and range from pavement to sand or gravel.
+#### Driving habits
 
-* Exercise extreme caution when driving
-* Don’t drive off-road unless you are in a convoy of four-wheel-drive vehicles and with an experienced guide
-* Ensure you are well prepared with a sufficient supply of gas, water and food, and a cell or satellite phone
-* Leave your travel itinerary with a relative or friend
+Speeding is common and drivers often disregard traffic laws, including road markings. Fatal car accidents are frequent.
 
-#### Driving risks
+If you’re involved in an accident:
 
-Poor driving habits, disregard for traffic laws and road markings, and excessive speed are common and cause fatal accidents.
+* immediately contact the police and Najm
+* do not leave the scene or move your car until the police arrive
+* do not make any financial arrangements with the other drivers
+
+[Reporting a car accident in Saudi Arabia](https://najm.sa/sites/en/Pages/accidentreport) – Najm
+
+In a traffic accident resulting in personal injury, regardless of fault, drivers may be held for several days until responsibility is determined and restitution is made. If severe injuries or death occur, compensation may need to be paid to the victim’s family for the injuries or loss of life.
+
+### Public transportation
 
 #### Taxis
 
-Only use pre-arranged, licensed taxis. Avoid shared or unregistered taxis.
+Only use pre-arranged and licensed taxis or ride-sharing services. Avoid shared or unregistered taxis.
 
 ### Marine transportation
 
-Exercise caution if travelling by sea, including for recreational purposes, in the Gulf, particularly around the disputed islands of Abu Musa and Tunbs. Iran and the United Arab Emirates each claim sovereignty over the islands.
+Exercise caution if travelling by sea, including for recreational purposes in Red Sea waters close to Yemen and in the Persian Gulf, particularly around the disputed islands of Abu Musa and Tunbs. Iran and the United Arab Emirates each claim sovereignty over the islands.
 
-Pirate attacks occur in coastal waters and, in some cases, farther out at sea. Mariners should take appropriate precautions.
+Pirate attacks occur in coastal waters and, in some cases, farther out at sea. Travellers should take appropriate precautions.
 
-[Live piracy report](https://icc-ccs.org/index.php/piracy-reporting-centre) - International Maritime Bureau
+[Live piracy report](https://icc-ccs.org/) – International Maritime Bureau Piracy Reporting Centre
 
 ### Air travel
 

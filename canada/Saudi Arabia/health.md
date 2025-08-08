@@ -272,7 +272,7 @@ To lower your risk of getting sexually transmissible infections (STIs), HIV, and
 
 ### Medical services and facilities
 
-Modern medical care is available in large cities. Adequate medical services are available in smaller cities. Immediate cash payment may be required.
+Modern medical care is available in large cities, and adequate medical services are available in smaller cities. Immediate cash payment may be required.
 
 Make sure you get travel insurance that includes coverage for medical evacuation and hospital stays.
 

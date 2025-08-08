@@ -6,15 +6,15 @@
 
 Political tensions are high in the context of the presidential elections scheduled for October 2025. Announcements related to the electoral process could lead to protests and civil unrest.
 
-During periods of high tension, the authorities may strengthen security measures, restrict movement without notice and impose curfews.
+During periods of high tension, authorities may strengthen security measures, restrict movement without notice and impose curfews.
 
-Even peaceful demonstrations can turn violent at any time. They can also lead to disruption to traffic and public transportation.
+Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation.
 
 If you are in Cameroon:
 
-* stay away from demonstrations and gatherings
+* avoid areas where demonstrations and large gatherings are taking place
 * avoid areas around government buildings, including the headquarters of Elections Cameroon (ELECAM)
-* expect increased security presence
+* expect an increased security presence
 * monitor local media for the latest information
 * follow the instructions of local authorities
 
