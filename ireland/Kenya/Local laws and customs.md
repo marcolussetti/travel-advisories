@@ -43,3 +43,13 @@ If issued with an on the spot fine ask that the correct process is followed and 
 The currency in Kenya is Kenya Shilling and it is used for most transactions. Prices for hotels and safaris are usually quoted in US dollars but can also be paid in Kenya Shillings. US dollars are generally not accepted elsewhere.
 
 ATM machines and currency exchange offices are widely available.
+
+### **Volunteering**
+
+International volunteering in the Global South is popular among Irish people. While in some countries it may be possible to volunteer in or visit orphanages, this can have serious consequences for children. Growing evidence demonstrates the links between institutions and trafficking, with volunteer visits helping to sustain an ‘orphanage industry’, increasing the risk of exposure to abuse and exploitation.
+
+Comhlámh’s Code of Good Practice is a set of standards for Irish Volunteer Sending Agencies (VSAs). VSAs commit to child-safe volunteering, ensuring that no programmes or activities involve the sending of volunteers to orphanages, with one exception - the sending of skilled and vetted volunteers in support of de-institutionalisation.
+
+If you intend to volunteer with an organisation in Kenya, we encourage you to do so responsibly. Be aware of health, safety and security risks and satisfy yourself that the organisation has sufficient procedures in place.
+
+For more on volunteering, visit [**Volunteering | Irish Aid | Ireland.ie**](https://www.ireland.ie/en/irish-aid/get-involved/volunteering/)**.**

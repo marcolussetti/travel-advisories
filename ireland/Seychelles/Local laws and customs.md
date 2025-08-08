@@ -1,6 +1,10 @@
 ## Local laws and customs
 
-### **Practical advice**
+### **Illegal Drugs and Prison Sentences**
+
+Drug taking and smuggling are serious offences in Seychelles. Penalties are severe and may include fines and prison sentences, up to life imprisonment.
+
+### **Practical Advice**
 
 * Read our travel advice, inform yourself before travelling and get advice locally on arrival
 * Remember, the local laws apply to you as a visitor and it is your responsibility to follow them

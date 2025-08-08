@@ -1,5 +1,7 @@
 ## Embassy contact
 
+As Ireland does not have an Embassy or Consulate in Botswana, consular assistance is provided via the Embassy of Ireland in South Africa.
+
 Monday to Thursday 09:00-12:00
 
 ### Embassy of Ireland, South Africa

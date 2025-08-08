@@ -24,6 +24,8 @@ Travellers may also be subject to controls at Schengen borders neighbouring Belg
 
 Travellers should be aware of potential delays and additional documentation requirements during this period.
 
+Irish citizens are required to carry a valid passport/passport card (or Belgian residence permit) at all times.
+
 ### **Emergency Assistance**
 
 The best help is often close at hand so if problems arise, try talking to local contacts, tour operator representatives or hotel management.
