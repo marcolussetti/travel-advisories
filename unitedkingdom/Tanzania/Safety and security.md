@@ -142,6 +142,10 @@ If you are trekking or climbing, only use a reputable travel company, stick to e
 
 ## Transport risks
 
+### Air travel
+
+The [UK Air Safety List (ASL)](https://www.gov.uk/guidance/uk-air-safety-list#tanzania) lists all airlines certified by the authorities with responsibility for regulatory oversight of Tanzania. These airlines are banned from operating commercial air services to, from, and within the United Kingdom. Check the UK Air Safety List when considering which airlines to fly with. The list is maintained by the Department for Transport, based on advice from the [UK Civil Aviation Authority](https://www.caa.co.uk/Commercial-Industry/Airlines/Licensing/Requirements-and-guidance/Third-Country-Operator-Certificates).
+
 ### Road travel
 
 If you’re planning to drive in Tanzania, see [information on driving abroad](https://www.gov.uk/driving-abroad).

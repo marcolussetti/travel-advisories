@@ -8,7 +8,7 @@ UK Counter Terrorism Policing has information and advice on [staying safe abroad
 
 ### Terrorism in the UAE
 
-Terrorists are likely to try to carry out attacks in the United Arab Emirates (UAE).
+Terrorists are very likely to try to carry out attacks in the United Arab Emirates (UAE).
 
 Attacks could be indiscriminate, including in places visited by foreign nationals.
 

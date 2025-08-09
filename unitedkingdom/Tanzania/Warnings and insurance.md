@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   7 August 2025
+:   9 August 2025
 
 Updated:
-:   6 August 2025
+:   8 August 2025
 
 Latest update:
-:   Information added about the upcoming general elections scheduled to take place in Tanzania on 29 October 2025 ('Safety and security' page).
+:   Tanzania and air carriers certified by the Tanzania Civil Aviation Authority have been added to the UK Air Safety List, meaning they are subject to an operating ban on safety grounds and cannot fly to, from or within the UK ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/645a3ab12226ee000c0ae4a0/FCDO__TA__086_-_Tanzania_Travel_Advice_Ed1__WEB_.jpg)
 

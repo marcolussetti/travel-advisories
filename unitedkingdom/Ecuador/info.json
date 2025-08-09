@@ -1,11 +1,11 @@
 {
     "name": "Ecuador",
-    "update_reason": "Removal of information on tsunami alert specific to the Earthquake in the Kamchatka Peninsular Region  (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Updated information following the renewal of a state of emergency for the provinces of El Oro, Guayas, Los R\u00edos and Manab\u00ed ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Ecuador/Warnings and insurance.md",
-            "update_date": "2025-08-01T12:38:57+01:00"
+            "update_date": "2025-08-08T14:03:23+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Ecuador/Getting help.md"
         }
     ],
-    "update_date": "2025-08-01T12:38:57+01:00"
+    "update_date": "2025-08-08T14:03:23+01:00"
 }

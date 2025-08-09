@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   2 August 2025
+:   9 August 2025
 
 Updated:
-:   1 August 2025
+:   8 August 2025
 
 Latest update:
-:   Removal of information on tsunami alert specific to the Earthquake in the Kamchatka Peninsular Region (‘Warnings and insurance’ page).
+:   Updated information following the renewal of a state of emergency for the provinces of El Oro, Guayas, Los Ríos and Manabí ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/65a1082ce96df50014f8452c/FCDO__TA__014_-_Ecuador_Travel_Advice_Ed5__WEB_.jpg)
 
@@ -51,57 +51,12 @@ In several areas, landslides have disrupted vehicle access, making travel to the
 
 ## Regional state of emergency declared (internal disturbance and armed violence)
 
-A 30-day state of emergency (SOE) was renewed on 12 June due to internal disturbance and armed violence. You should always follow the instructions of police and local authorities. The SOE currently applies to the following provinces:
+A 60-day state of emergency (SOE) was renewed on 6 August due to internal disturbance and armed violence. You should always follow the instructions of police and local authorities. The SOE currently applies to the following provinces:
 
 * Guayas
 * El Oro
-* Santa Elena
 * Manabí
-* Orellana
-* Sucumbios
 * Los Ríos
-* Quito Metropolitan District (Pichincha province)
-
-Curfew hours (10pm until 5am) are in place until further notice, for the following districts (‘cantons’) and/or parishes (parroquias):
-
-Azuay province:
-
-* Camilo Ponce Enríquez
-
-Los Ríos province:
-
-* Baba
-* Babahoyo
-* Buena Fe
-* Mocache
-* Montalvo
-* Palenque
-* Pueblo Viejo
-* Quevedo
-* Quinsaloma
-* Urdaneta
-* Valencia
-* Ventanas
-* Vinces
-
-Guayas province:
-
-* Balao
-* Durán
-* Parroquia Tenguel
-
-Orellana province:
-
-* La Joya de los Sachas
-* Puerto Francisco De Orellana
-* Loreto
-
-Sucumbios province:
-
-* Shushufindi
-* Lago Agrio
-
-If you need to travel to or from the airport for a booked flight during curfew hours, you can do so by presenting your booking reservation.
 
 ## Before you travel
 

@@ -1,11 +1,11 @@
 {
     "name": "United Arab Emirates",
-    "update_reason": "Due to increasing regional tensions, Israeli and Jewish linked sites could be targets for terrorists in the UAE. (Safety and security)",
+    "update_reason": "Terrorists are very likely to try to carry out attacks in the United Arab Emirates (UAE).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/United Arab Emirates/Warnings and insurance.md",
-            "update_date": "2025-08-02T22:37:21+01:00"
+            "update_date": "2025-08-08T21:34:06+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/United Arab Emirates/Getting help.md"
         }
     ],
-    "update_date": "2025-08-02T22:37:21+01:00"
+    "update_date": "2025-08-08T21:34:06+01:00"
 }
