@@ -2,9 +2,9 @@
 
 Latest update
 
-We've reviewed our advice for Malaysia and continue to advise exercise normal safety precautions. Higher levels apply in some areas.   
+We've reviewed our advice for Malaysia and have changed the travel advice level for Eastern Sabah region. We now advise exercise a high degree of caution for mainland regions along the shoreline between Terusan to Tawau, including waterfront resorts and beaches due to the risk of kidnapping. We continue to advise reconsider your need to travel offshore to the islands, resorts, dive sites of Eastern Sabah, south of and including Lankayan Island to Tawau due to the risk of kidnapping for ransom.  
   
-You must complete a Malaysia Digital Arrival Card (MDAC) before arrival in Malaysia. The MDAC must be submitted through the Malaysian Immigration website. Travellers registering to use the MDAC will receive an email acknowledgment containing a link and a pin number to view their visit pass online after they pass through the auto gate. Travellers who use the auto gate to enter Malaysia will need to be able to take and keep a snapshot of their visit pass on their phone and present this visit pass if requested by Malaysian authorities (see 'travel').  
+You must complete a Malaysia Digital Arrival Card (MDAC) before arrival in Malaysia. The MDAC must be submitted through the Malaysian Immigration website. Travellers registering to use the MDAC will receive an email acknowledgment containing a link and a pin number to view their visit pass online after they pass through the auto gate. Travellers who use the auto gate to enter Malaysia will need to be able to take and keep a snapshot of their visit pass on their phone and present this visit pass if requested by Malaysian authorities (see 'Travel').  
   
 Malaysian law requires that you carry identification, such as your passport or a Malaysian Immigration Issued Card (IKAD), with you at all times and electronic evidence of the visa entry if you entered via auto gates. If you are asked by police and you are unable to provide this evidence, you may be detained until you can present it (see 'local laws').  
   
@@ -14,7 +14,7 @@ Advice Level summary
 
 We advise:
 
-Exercise normal safety precautions in Malaysia.
+Exercise normal safety precautions in Malaysia overall.
 
 Higher levels apply in some areas.
 
@@ -22,22 +22,26 @@ Higher levels apply in some areas.
 
 [What does this mean?](/before-you-go/travel-advice-explained/)
 
-[Exercise normal safety precautions](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level1) in Malaysia.
+[Exercise normal safety precautions](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level1) in Malaysia overall.
 
-[Exercise normal safety precautions](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level1) in Malaysia.
+[Exercise normal safety precautions](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level1) in Malaysia overall.
 
-[Reconsider your need to travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level3) to the coastal region of eastern Sabah, including the islands, dive sites and associated tourist facilities.
+[Exercise a high degree of caution](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level2) for mainland regions along the shoreline between Terusan to Tawau, including waterfront resorts and beaches.
 
-[Reconsider your need to travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level3) to the coastal region of eastern Sabah, including the islands, dive sites and associated tourist facilities, due to the high threat of kidnapping. The risk of kidnapping increases on the water and waterfront after nightfall and is highest in the area between the towns of Sandakan and Tawau.
+[Exercise a high degree of caution](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level2) for mainland regions along the shoreline between Terusan to Tawau, including waterfront resorts and beaches, due to the risk of kidnapping.
 
 See [Safety](#safety).
+
+[Reconsider your need to travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level3) offshore to the islands, resorts and dive sites of Eastern Sabah south of and including Lankayan Island to Tawau.
+
+[Reconsider your need to travel](https://www.smartraveller.gov.au/consular-services/travel-advice-explained#level3) offshore to the islands, resorts and dive sites of Eastern Sabah south of and including Lankayan Island to Tawau, due to the risk of kidnapping for ransom. The risk increases after nightfall.
 
 ## Overview
 
 ### Safety
 
 * There is a risk of terrorism in Malaysia. Terrorism is a global threat. Attacks could be random and small-scale. Possible targets could include tourist areas and a range of other locations frequented by foreigners, including in Kuala Lumpur (see Full Advice - [Safety](#safety) below). Take official warnings seriously.
-* There's an ongoing high risk of kidnapping in the coastal areas of eastern Sabah. There have been a number of attempted and successful kidnappings. This includes islands, dive sites and tourist facilities. If, despite our advice, you travel to these areas, get professional security advice. Obey all local governments' curfews.
+* There's an ongoing risk of kidnapping in offshore and coastal areas of Eastern Sabah. There have been a number of attempted and successful kidnappings. This includes islands, dive sites and tourist facilities. If, despite our advice, you travel to these areas, get professional security advice. Obey all local governments' curfews.
 * Petty crime is common. Bag-snatching, including by thieves on motorbikes, happens often. When walking, hold your bag on the opposite side to the traffic. Safeguard your belongings, especially in shopping centres, at the airport and on trains. Credit card fraud is common. Always keep your credit card in sight when paying for purchases.
 * Assault, sexual assault, robbery and drink spiking can occur, including in tourist areas of Kuala Lumpur and Penang. Be alert to the potential risks around drink spiking and methanol poisoning through consuming alcoholic drinks. Don't leave your food or drinks unattended. Never accept food, drinks, cigarettes or gum from strangers. Stay with people you trust at parties, bars, nightclubs and taxis. See our advice on [Partying safely while overseas](/before-you-go/safety/partying "Partying safely").
 * Piracy in South-East Asian waters is an ongoing problem. Avoid travelling by boat in the southern Sulu Sea. If you intend to travel in the region by boat, check the International Maritime Bureau's [piracy reports](http://www.icc-ccs.org/). Arrange personal security measures.

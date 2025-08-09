@@ -46,15 +46,15 @@ Avoid travelling to or through the far southern provinces of Thailand.
 
 #### Kidnapping
 
-Kidnapping occurs across the world with political, ideological, and criminal motives. Foreigners, including Australians, have been kidnapped overseas whilst travelling. Kidnaps can happen anywhere, anytime, including in destinations that are typically at lower risk.  
+Kidnapping occurs across the world with political, ideological, and criminal motives. Foreigners, including Australians, have been kidnapped overseas whilst travelling. Kidnaps can happen anywhere, anytime, including in destinations that are typically at lower risk.
 
-There's an ongoing high threat of kidnapping in the coastal areas of eastern Sabah, including islands, dive sites and other tourist facilities.
+There's an ongoing high threat of kidnapping in the coastal areas of Eastern Sabah, including islands, dive sites and other tourist facilities.
 
-Extremists based in the southern Philippines are active in the area between the towns of Sandakan and Tawau in eastern Sabah.
+Extremists based in the southern Philippines are active in the area between the towns of Terusan and Tawau in Eastern Sabah, including offshore islands such as Lankayan Island. The risk increases after nightfall.
 
 Foreigners have been kidnapped from the nearby islands of Sipadan and Mataking and surrounding waters.
 
-Some attempted and successful kidnappings have happened in coastal areas of eastern Sabah in recent years.
+Some attempted and successful kidnappings have happened in coastal areas of Eastern Sabah in recent years.
 
 * In April 2024, two Malaysian Maritime Enforcement Agency personnel were injured in a shootout with a suspicious vessel while on patrol near Kunak.
 * In May 2021, Malaysian authorities arrested eight suspected Abu Sayyaf militants who they suspect may have been planning kidnappings in Malaysia.

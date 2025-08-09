@@ -45,7 +45,9 @@ Travellers in Iran, including Australians, are at a high risk of arbitrary deten
 
 There's been an increase in the number of foreign nationals being arrested or detained in Iran.
 
-You may be at greater risk of detention if authorities are suspicious of your activities or background. You could attract the attention of authorities if you:
+You may be at greater risk of detention if authorities are suspicious of your activities or background, especially following a security incident or military conflict. Foreign journalists and other media workers in Iran may face high risks, including arrest and imprisonment. See our [advice for journalists](/before-you-go/who-you-are/advice-journalists "Advice for journalists").
+
+You could also attract the attention of authorities if you:
 
 * study or do other academic activity
 * travel outside tourist areas
@@ -53,7 +55,7 @@ You may be at greater risk of detention if authorities are suspicious of your ac
 * take photos, except in major tourist sites
 * have contact with Iranians who are of interest to authorities
 * behave or express views perceived as anti-Iranian, anti-Iranian Government, or that could cause religious offence, including on social media
-* are affiliated with, or have links to, Iranian opposition or other political groups.
+* are affiliated with, or have links to Israel, Iranian opposition or other political groups.
 
 Iran does not recognise dual nationality. If you're a dual Australian-Iranian national and are detained in Iran, our ability to provide consular support is extremely limited.
 
@@ -62,6 +64,7 @@ The Australian Government may not be notified if you're detained. We can't guara
 **More information:**
 
 * [Advice for dual nationals](https://www.smartraveller.gov.au/before-you-go/who-you-are/dual-nationals)
+* [Advice for journalists](/before-you-go/who-you-are/advice-journalists "Advice for journalists")
 * [Fact sheet: Arrested or jailed overseas](https://www.smartraveller.gov.au/consular-services/resources/arrested-jailed-overseas-factsheet)
 
 #### Terrorism

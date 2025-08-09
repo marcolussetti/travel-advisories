@@ -30,7 +30,7 @@ Get professional advice if you're involved in local legal proceedings. In partic
 
 Know your rights and responsibilities.
 
-Penalties for serious offences include death and corporal punishment. Same-sex relations are considered serious offences.
+Penalties for serious offences, including security related offences, may result in death and corporal punishment. Same-sex relations are considered serious offences.
 
 These activities are illegal in Iran:
 

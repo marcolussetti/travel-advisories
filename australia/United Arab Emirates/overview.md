@@ -25,6 +25,7 @@ Exercise a high degree of caution in the UAE due to the threat of terrorism.
 ### Safety
 
 * The security situation in the Middle East remains unpredictable. If the regional security situation deteriorates again this may result in airspace closures, flight cancellations and other travel disruptions at short notice.
+* The ongoing conflict in the Middle East could lead to an increased threat of attacks against Israeli and Jewish communities in the region, including in the UAE.
 * Australians should read our general advice about [terrorism risks](/node/342) and  protecting your safety during an [armed conflict](/node/622).
 * There's an ongoing threat of terrorism in the UAE. Maintain a high level of security awareness. If there's a security incident, follow the advice of local officials.
 * Demonstrations and protests are prohibited and rarely occur, unless they have been authorised in advance by local authorities. Avoid any demonstrations or protests if you come across them. Monitor local media for updates and follow the advice of authorities.

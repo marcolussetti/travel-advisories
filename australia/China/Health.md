@@ -89,6 +89,8 @@ Ask for sterilised equipment. You may need to pay for new syringes in hospitals 
 
 #### Insect-borne illnesses
 
+An outbreak of [Chikungunya](https://www.who.int/health-topics/chikungunya#tab=tab_1) is occurring in the southern province of Guangdong. The most common symptoms are fever and joint pain. Newborns and older people with underlying health conditions are at higher risk of severe symptoms.
+
 [Japanese encephalitis](https://www.who.int/news-room/fact-sheets/detail/japanese-encephalitis) is widespread in rural southern China from June to August. The disease is also known as encephalitis B. A vaccine is available.
 
 [Dengue](https://www.health.gov.au/diseases/dengue-virus-infection) cases have risen sharply, especially in Guangdong and Guangzhou. Risks increase during the wet season.
@@ -128,6 +130,8 @@ To protect yourself from illness:
 **More information:**
 
 * [Infectious diseases](/before-you-go/health/diseases "Infectious diseases")
+* [World Health Organisation information on Chikungunya virus](https://www.who.int/health-topics/chikungunya#tab=tab_1)
+* [Department of Health, Disability and Ageing Chikungunya virus infection information](https://www.health.gov.au/diseases/chikungunya-virus-infection)
 
 #### Pollution
 

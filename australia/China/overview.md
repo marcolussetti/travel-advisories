@@ -2,7 +2,7 @@
 
 Latest update
 
-We've reviewed our advice for China and continue to advise exercise a high degree of caution. As previously advised, authorities have detained foreigners on the grounds of 'endangering national security'. Australians may be at risk of arbitrary detention or harsh enforcement of local laws, including broadly defined National Security Laws.
+We continue to advise exercise a high degree of caution. As previously advised, authorities have detained foreigners on the grounds of 'endangering national security'. Australians may be at risk of arbitrary detention or harsh enforcement of local laws, including broadly defined National Security Laws.
 
 Advice Level summary
 
@@ -38,6 +38,7 @@ Full travel advice: [Safety](#safety)
 ### Health
 
 * Tap water in China may not be safe to drink. Drink only bottled water with intact seals.
+* There are risks of mosquito-borne illnesses, including dengue fever and chikungunya. Protect yourself against mosquito bites.
 * People have died from bird flu in China. Stay away from live poultry. When preparing food, handle poultry properly and ensure it's thoroughly cooked.
 * HIV/AIDS is a risk in China. Take precautions if engaging in activities that expose you to the risk of infection. Ask for sterilised equipment when receiving medical treatment.
 * Animal and human rabies and hand, foot and mouth disease are common. Be careful with both wild and domestic animals in China. Wash your hands carefully and regularly. Take other hygiene precautions.
