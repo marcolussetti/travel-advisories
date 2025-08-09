@@ -4,7 +4,11 @@
 
 ### Border areas
 
-Some border crossings with neighbouring countries are not properly identified, especially in the Fergana Valley, where the Tajik border meets eastern Uzbekistan and southern Kyrgyzstan. You should exercise caution if you go hiking or cycling in the countryside, especially in areas near the border with Afghanistan where the security situation is volatile.
+In March 2025, Tajik, Uzbek and Kyrgyz authorities reached an agreement on the delimitation of their shared borders. Despite the agreement, tensions could arise during and after the delimitation process.
+
+It may be difficult to find the border’s exact location and some border crossings with neighbouring countries are not clearly identified.
+
+If you travel to areas near the border with Afghanistan despite the advisory in effect, you should remain vigilant as the security situation is volatile, unpredictable and the area difficult to access.
 
 Borders may close without notice.
 
@@ -14,11 +18,9 @@ The land border between Tajikistan and Afghanistan has been closed since the Tal
 
 #### Kyrgyzstan
 
-Tensions and occasional clashes due to territorial disputes have occurred at the border between the Sughd region of Tajikistan and the Batken region of Kyrgyzstan, including near the Vorukh enclave. Conflicts have resulted in numerous casualties, including civilians. Tajik and Kyrgyz authorities are still negotiating the delimitation of their shared borders.
+The security situation at the border between Tajikistan and Kyrgyzstan has improved. However, while limited cross-border travel is now possible, some checkpoints remain closed or restricted. Travellers may be subject to specific entry procedures and permit requirements.
 
-In September 2022, Tajikistan and Kyrgyzstan signed a ceasefire agreement, but the situation remains unpredictable and could deteriorate without notice.
-
-The passage of persons, goods and vehicles to and from Kyrgyzstan is restricted at certain checkpoints on the Tajik-Kyrgyz border until further notice.
+In September 2022, violent clashes due to territorial disputes broke out at the border between the Sughd region of Tajikistan and the Batken region of Kyrgyzstan, including near the Vorukh enclave. The clashes resulted in numerous casualties, including civilians.
 
 #### Uzbekistan
 

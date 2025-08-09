@@ -326,13 +326,13 @@
     {
         "destination": "C\u00f4te d'Ivoire (Ivory Coast)",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-07-30T15:06:38",
+        "last_updated": "2025-08-08T16:20:34",
         "details_url": "https://travel.gc.ca/destinations/cote-d-ivoire-ivory-coast"
     },
     {
         "destination": "Democratic Republic of Congo (Kinshasa)",
-        "risk_level": "Avoid all travel",
-        "last_updated": "2025-07-28T11:40:02",
+        "risk_level": "Avoid non-essential travel (with regional advisories)",
+        "last_updated": "2025-08-08T11:03:12",
         "details_url": "https://travel.gc.ca/destinations/congo-kinshasa"
     },
     {
@@ -362,7 +362,7 @@
     {
         "destination": "Ecuador",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-07-31T14:16:05",
+        "last_updated": "2025-08-08T12:10:14",
         "details_url": "https://travel.gc.ca/destinations/ecuador"
     },
     {
@@ -386,7 +386,7 @@
     {
         "destination": "Eritrea",
         "risk_level": "Avoid non-essential travel (with regional advisories)",
-        "last_updated": "2025-07-28T11:40:02",
+        "last_updated": "2025-08-08T15:51:07",
         "details_url": "https://travel.gc.ca/destinations/eritrea"
     },
     {
@@ -572,7 +572,7 @@
     {
         "destination": "Indonesia",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-07-31T09:30:08",
+        "last_updated": "2025-08-08T12:34:24",
         "details_url": "https://travel.gc.ca/destinations/indonesia"
     },
     {
@@ -602,7 +602,7 @@
     {
         "destination": "Italy",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-08-05T11:16:09",
+        "last_updated": "2025-08-08T09:32:05",
         "details_url": "https://travel.gc.ca/destinations/italy"
     },
     {
@@ -614,7 +614,7 @@
     {
         "destination": "Japan",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2025-08-01T07:07:59",
+        "last_updated": "2025-08-08T08:30:55",
         "details_url": "https://travel.gc.ca/destinations/japan"
     },
     {
@@ -632,7 +632,7 @@
     {
         "destination": "Kenya",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-08-05T15:34:08",
+        "last_updated": "2025-08-08T09:39:30",
         "details_url": "https://travel.gc.ca/destinations/kenya"
     },
     {
@@ -656,7 +656,7 @@
     {
         "destination": "Kyrgyzstan",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-07-29T13:02:36",
+        "last_updated": "2025-08-08T16:21:15",
         "details_url": "https://travel.gc.ca/destinations/kyrgyzstan"
     },
     {
@@ -788,7 +788,7 @@
     {
         "destination": "Mexico",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-08-06T13:40:58",
+        "last_updated": "2025-08-08T13:24:39",
         "details_url": "https://travel.gc.ca/destinations/mexico"
     },
     {
@@ -1220,7 +1220,7 @@
     {
         "destination": "Tajikistan",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-07-28T11:40:02",
+        "last_updated": "2025-08-08T16:14:10",
         "details_url": "https://travel.gc.ca/destinations/tajikistan"
     },
     {
@@ -1298,7 +1298,7 @@
     {
         "destination": "Uganda",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-07-28T11:40:02",
+        "last_updated": "2025-08-08T10:25:19",
         "details_url": "https://travel.gc.ca/destinations/uganda"
     },
     {
@@ -1334,7 +1334,7 @@
     {
         "destination": "Uzbekistan",
         "risk_level": "Take normal security precautions (with regional advisories)",
-        "last_updated": "2025-07-28T11:40:02",
+        "last_updated": "2025-08-08T16:28:51",
         "details_url": "https://travel.gc.ca/destinations/uzbekistan"
     },
     {

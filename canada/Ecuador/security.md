@@ -6,22 +6,10 @@
 
 A state of emergency is in effect in the following provinces:
 
+* El Oro
 * Guayas
 * Los Ríos
 * Manabí
-* Orellana
-* Santa Elena
-* El Oro
-* Sucumbíos
-* Metropolitan District of Quito, in Pichincha
-
-A curfew is in place from 10 pm to 5 am in several cantons in the following provinces:
-
-* Azuay
-* Guayas
-* Los Ríos
-* Orellana
-* Sucumbíos
 
 The state of emergency is in response to gang violence. While the state of emergency is in effect, security forces have the power to:
 

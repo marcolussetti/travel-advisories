@@ -1,7 +1,7 @@
 {
     "name": "Kyrgyzstan",
-    "update_reason": "The Need help? section was updated.",
-    "update_date": "2025-07-29T13:02:00",
+    "update_reason": "Risk levels \u2013 removed the advisory for the borders with Tajikistan and Uzbekistan; Safety and security \u2013 updated the information on border areas",
+    "update_date": "2025-08-08T16:21:00",
     "sections": {
         "risk": "canada/Kyrgyzstan/risk.md",
         "security": "canada/Kyrgyzstan/security.md",

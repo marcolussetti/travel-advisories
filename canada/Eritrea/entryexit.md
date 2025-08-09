@@ -44,21 +44,29 @@ Business visa: required
 Official visa: required  
 In-transit visa: required
 
-All visas must be obtained prior to travel. Obtaining a visa can take a very long time. Apply well in advance of your planned departure.
+All visas must be obtained prior to travel. Processing times can be long. Apply well in advance of your planned departure date.
 
-### Dual citizenship
+#### Exit visa
 
-You should always travel using your valid Canadian passport and present yourself as Canadian to foreign authorities at all times. Note, however, that dual citizens must have an Eritrean national ID card, or at least have applied for one, before they can obtain an Eritrean visa in their Canadian passport. Dual citizens who enter Eritrea must obtain an exit visa before leaving the country. Exit visa applications may be denied or cause delays in planning a trip, even for people who have entered Eritrea legally.
+Dual citizens who entered Eritrea with an Eritrean national identification card or an Eritrean passport must obtain an exit visa from the Immigration Office in Asmara before leaving the country. Exit visas may be denied or cause significant delays in travel plans, even for people who have entered Eritrea legally.
 
-[Travellers with dual citizenship](http://travel.gc.ca/travelling/documents/dual-citizenship)
+[Visa information – Consulate General of Eritrea](https://consulateoferitrea.ca/visa-requirement/)
 
-### Departure tax
+### Permit for travel outside Asmara
 
-A departure tax must be paid at the airport in nakfas or in U.S. dollars.
+All foreign nationals, including diplomats, employees of non-governmental organizations and employees of the United Nations, must obtain a permit for all travel beyond 25 km outside Asmara. Travel regulations are strictly enforced throughout Eritrea and there are numerous military checkpoints. Applications for permits are processed by the relevant ministry:
 
-### Travel permit outside Asmara
+* Ministry of Tourism for tourists
+* Ministry of Trade and Industry for business travellers
+* Ministry of Foreign Affairs for diplomats and non-governmental organization employees
 
-All foreign nationals, including employees of non-governmental organizations and of the United Nations, must obtain a travel permit from the Government of Eritrea for all travel outside Asmara. Foreign nationals living or working outside Asmara must also obtain a travel permit to travel outside the area where they live or work. Travel regulations are strictly enforced throughout Eritrea, and there are numerous military checkpoints. The Department of Tourism, in Asmara, processes applications for travel permits. If you obtain permission to travel outside Asmara and you experience problems, Canadian officials could be limited in their capacity to provide consular assistance. The restrictions on travel outside of Asmara also apply to diplomats.
+Foreign nationals living or working outside Asmara must also obtain a travel permit from the local regional administration office, known locally as “zoba”, to travel outside the area in which they live or work.
+
+If you obtain permission to travel outside Asmara and you experience problems, Canadian officials could be limited in their capacity to provide consular assistance.
+
+### Land border crossings
+
+Eritrea’s land border crossings with Ethiopia and Djibouti are closed.
 
 ### Children and travel
 

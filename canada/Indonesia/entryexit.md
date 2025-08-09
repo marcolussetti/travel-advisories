@@ -89,6 +89,12 @@ To enter Indonesia, you must fill out the SATUSEHAT Health Pass (SSHP) form. Thi
 
 [SATUSEHAT Health Pass](https://sshp.kemkes.go.id/) – Ministry of Health of the Republic of Indonesia
 
+#### Customs declaration form
+
+You must complete an online customs declaration form up to 72 hours before you arrive in Indonesia. You can also fill it out at customs at major airports on arrival.
+
+[E-customs declaration](https://ecd.beacukai.go.id/) – Government of Indonesia
+
 Customs officials may ask you to show them a return or onward ticket and proof of sufficient funds to cover your stay.
 
 ### Children and travel

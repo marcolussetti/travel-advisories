@@ -2,8 +2,31 @@
 
 ## Risk level
 
-### Democratic Republic of Congo - AVOID ALL TRAVEL
+### Democratic Republic of the Congo - AVOID NON-ESSENTIAL TRAVEL
 
-[Avoid all travel](#levels "Risk Levels") to the Democratic Republic of Congo (DRC) due to the fragile security situation, heightened tensions in the region, high crime rates and civil unrest.
+[Avoid non-essential travel](#levels "Risk Levels") to the Democratic Republic of the Congo (DRC) due to the fragile security situation, high crime rates and the risk of civil unrest.
 
-You should leave by commercial means if you can do so safely. Our ability to provide consular services in the Democratic Republic of Congo is limited.
+### Eastern and northeastern areas of the DRC - Avoid all travel
+
+[Avoid all travel](#levels "Risk Levels") to the eastern and northeastern provinces of the DRC, in particular:
+
+* Maniema
+* North Kivu
+* South Kivu
+* Tanganyika
+* Bas-Uélé, Haut-Uélé and Ituri
+* Haut-Lomami
+
+If you decide to travel to these areas despite this advisory, you should regularly review the situation to determine whether your continued presence in the area is warranted.
+
+### Kasaï provinces - Avoid all travel
+
+[Avoid all travel](#levels "Risk Levels") to the following provinces due to frequent clashes between security forces and armed militias:
+
+* Kasaï
+* Kasaï-Central
+* Kasaï-Oriental
+
+### Mai-Ndombe province - Avoid all travel
+
+[Avoid all travel](#levels "Risk Levels") to the province of Mai-Ndombe due to intercommunal violence.

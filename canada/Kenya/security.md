@@ -2,26 +2,6 @@
 
 ## Safety and security
 
-### Demonstrations across Kenya
-
-Demonstrations have been taking place in Nairobi and across Kenya.
-
-Recent demonstrations have been violent, with incidents of looting and shootings resulting in casualties.
-
-Demonstrations can also lead to disruptions to traffic and public transportation. Telecommunications and Internet access may also be disrupted.
-
-Authorities may impose curfews and restrict movement without notice.
-
-If you are in Kenya:
-
-* stay away from demonstrations
-* avoid areas around government buildings
-* expect heavy security measures and increased security presence
-* monitor local media for the latest information
-* follow the instructions of local authorities, including curfew orders
-
-[More information on demonstrations](#demonstrations)
-
 ### Terrorism
 
 There is a threat of terrorism. Credible information indicates that foreigners may be targeted by extremists in the following areas:

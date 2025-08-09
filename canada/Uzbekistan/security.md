@@ -4,7 +4,9 @@
 
 ### Borders areas
 
-Armed clashes have occurred in the mountainousarea bordering Kyrgyzstan, Tajikistan and Uzbekistan*.* The situation could escalate without notice.
+In March 2025, Tajik, Uzbek and Kyrgyz authorities reached an agreement on the delimitation of their shared borders. Despite the agreement, tensions could arise during and after the delimitation process.
+
+Armed clashes have occurred in the mountainousarea bordering Kyrgyzstan, Tajikistan and Uzbekistan*.*
 
 #### Afghanistan
 
@@ -18,11 +20,9 @@ In 2022, shelling from Afghanistan was reported in the Uzbek city of Termez, cau
 
 In 2020, Uzbekistan announced the completion of a demining operation along its border with Tajikistan.
 
-Although no incidents have been reported since, landmines still pose a threat to your safety.
+Although no incidents have been reported since, landmines still pose a safety risk.
 
 #### Kyrgyzstan
-
-Land disputes and tensions between Uzbekistan and Kyrgyzstan have occurred since the dissolution of the Soviet Union in 1991. However, in early 2023, Uzbek and Kyrgyz authorities announced that they finally reached an agreement on the delimitation of their shared borders.
 
 Kyrgyz authorities may restrict access to border crossings with Uzbekistan without warning.
 

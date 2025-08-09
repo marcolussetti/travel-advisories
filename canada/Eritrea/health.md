@@ -276,9 +276,11 @@ High-risk travellers include those visiting or working in prisons, refugee camps
 
 ### Medical services and facilities
 
-Good health care is limited in availability.
+Medical facilities and services are not up to Canadian standards.
 
-There is a shortage of medications.
+Medical supplies can be limited. A cash deposit or an upfront payment is required.
+
+Medical evacuation, which can be very expensive, may be necessary in the event of serious illness or injury.
 
 Make sure you get travel insurance that includes coverage for medical evacuation and hospital stays.
 

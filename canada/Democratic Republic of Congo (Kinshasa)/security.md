@@ -6,11 +6,11 @@
 
 The security situation remains unpredictable across the country.
 
-Fighting is ongoing between government forces and rebel groups and has caused many casualties in eastern DRC, including civilians. Rebel groups control the towns of Goma and Bukavu, including Kavumu airport.
+Fighting is ongoing between pro-government militias and armed groups and has caused many casualties in eastern DRC, including civilians. Armed groups control the towns of Goma and Bukavu, including their airports.
 
-Violent demonstrations and civil unrest have taken place in Kinshasa and others may occur without notice. They could target foreign nationals.
+Previously, violent demonstrations, sometimes targeting foreign nationals, took place in Kinshasa. Others may occur at any time.
 
-There could be temporary roadblocks and road closures without warning, including on roads leading to airports. Land and water border crossings may close without notice.
+During these events, roadblocks and road closures may occur, including on roads leading to airports. Land and water border crossings may also close without notice.
 
 **In eastern DRC**:
 
@@ -96,7 +96,7 @@ The province of Tanganyika, and especially Manono Territory, is the theatre of a
 
 ### Ituri Province
 
-Armed clashes persist in the province of Ituri. There is a terrorist threat in the Beni and Irumu territories.
+Armed clashes persist in the province of Ituri. There is a terrorist threat in Irumu territorry.
 
 ### Haut-Lomami Province
 
@@ -127,19 +127,14 @@ In the capital, choose a hotel in the commune of Gombe, which is both the admini
 
 ### Terrorism
 
-There is a threat of terrorism in the Democratic Republic of Congo, particularly:
-
-* in the region of Beni-Butembo and Goma in North Kivu
-* in the vicinity of Boga in Ituri
-* towards the border with Uganda
-
-Terrorist groups clash over control of good-trafficking routes, mining sites, and agricultural areas.
+There is a threat of terrorism in the Democratic Republic of Congo, particularly in the border areas with Rwanda, Burundi and Uganda. Armed groups clash over control of goods-trafficking routes, mining sites and agricultural areas.
 
 Attacks on civilians and government targets occur frequently. Further attacks are likely.
 
 Targets could include:
 
-* government buildings, including schools
+* government buildings, including police stations
+* schools, including universities
 * places of worship
 * airports and other transportation hubs and networks
 * public areas such as restaurants, bars, coffee shops, markets, hotels and other sites frequented by foreigners

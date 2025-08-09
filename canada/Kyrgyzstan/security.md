@@ -4,27 +4,21 @@
 
 ### Border areas
 
-#### South of Kyrgyzstan including Jalal-Abad, Batken, Osh Oblasts (Provinces) and borders with Uzbekistan and Tajikistan
+In March 2025, Tajik, Uzbek and Kyrgyz authorities reached an agreement on the delimitation of their shared borders. Despite the agreement, tensions could arise during and after the delimitation process.
 
-The southern regions are prone to smuggling activities due to ill-defined and porous borders, making the security situation volatile and dangerous in the south of the country and along the borders with Uzbekistan and Tajikistan.
+The southern regions are prone to smuggling activities, affecting the security situation in the south of the country and along the borders with Uzbekistan and Tajikistan.
+
+You should be vigilant if you travel near border areas.
 
 #### Uzbekistan
-
-Land disputes and tensions between Uzbekistan and Kyrgyzstan have occurred since the dissolution of the Soviet Union in 1991. However, in early 2023, Uzbek and Kyrgyz authorities announced that they finally reached an agreement on the delimitation of their shared borders.
-
-Uzbek authorities may restrict access to border crossings with Kyrgyzstan without warning.
 
 You should confirm with local authorities if border posts are open for travel before heading to Uzbekistan.
 
 #### Tajikistan
 
-Tensions and occasional clashes due to territorial disputes have occurred on the border between the Sughd region of Tajikistan and the Batken region of Kyrgyzstan, including near the Vorukh enclave. Conflicts have resulted in numerous casualties, including civilians.
+The security situation at the border between Tajikistan and Kyrgyzstan has improved, however, while limited cross-border travel is now possible, some checkpoints remain closed or restricted. Travellers may be subject to specific entry procedures and permit requirements.
 
-In September 2022, Kyrgyzstan and Tajikistan signed a ceasefire agreement, but the situation remains unpredictable and could deteriorate without notice.
-
-The passage of persons, goods and vehicles to and from Tajikistan is restricted at certain border checkpoints located at the Kyrgyz-Tajik border until further notice.
-
-[Order of the Cabinet of Ministers](http://cbd.minjust.gov.kg/act/view/ru-ru/218534) – Ministry of Justice of Kyrgyzstan (in Kyrgyz and Russian only)
+In September 2022, violent clashes due to territorial disputes broke out at the border between the Sughd region of Tajikistan and the Batken region of Kyrgyzstan, including near the Vorukh enclave. The clashes resulted in numerous casualties, including civilians.
 
 #### Landmines
 

@@ -2,6 +2,21 @@
 
 ## Safety and security
 
+### Presidential elections
+
+Political tensions are running high ahead of the January 2026 presidential elections. Announcements related to the electoral process, including nominations, could lead to protests and civil unrest.
+
+During periods of political tension, local authorities may increase security measures, restrict movement without notice and impose curfews.
+
+Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation.
+
+If you are in Uganda:
+
+* avoid areas where demonstrations and large gatherings are taking place
+* expect an increased security presence
+* monitor local media for information on ongoing demonstrations
+* follow the instructions of local authorities
+
 ### Border with the Democratic Republic of Congo
 
 The volatile security situation in the eastern part of neighbouring Democratic Republic of Congo (DRC) could lead to possible incursions into western Uganda by armed rebel groups from the DRC.

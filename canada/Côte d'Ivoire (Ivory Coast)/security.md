@@ -2,6 +2,21 @@
 
 ## Safety and security
 
+### Presidential election
+
+In the run up to the October 2025 presidential election political tensions may increase. There could be demonstrations after election-related announcements.
+
+Local authorities may adjust security measures and restrict movement.
+
+Even peaceful gatherings can occasionally lead to disruptions or affect traffic and public transportation.
+
+If you are in Côte d’Ivoire:
+
+* avoid demonstrations and gatherings
+* expect an increased presence of security forces
+* monitor local media to stay informed of the latest information
+* follow the instructions of local authorities
+
 ### Region bordering Liberia
 
 Inter-community land conflicts occur regularly and result violent clashes.

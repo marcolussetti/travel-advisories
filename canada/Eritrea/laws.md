@@ -8,13 +8,30 @@ Learn about what you should do and how we can help if you are [arrested or detai
 
 ### Drugs
 
-Penalties for possession, use or trafficking of illegal drugs are severe.
+Penalties for possession, use or trafficking of illegal drugs are severe. Convicted offenders can expect jail sentences and heavy fines.
+
+* Pack your own luggage and monitor it closely at all times
+* Never transport other people’s packages, bags or suitcases
 
 [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
 
+### Identification
+
+Local authorities may request to see your identification at any time.
+
+* Always carry valid photo identification
+* Keep a photocopy of your passport and visa in a safe place in case they’re lost or seized
+* Keep a digital copy of your identification and travel documents
+
+### Electronic items
+
+Eritrea has strict regulations for electronics allowed into the country. All electronic items, including laptops, cell phones and cameras, must be declared upon arrival. Failure to declare electronic items on arrival may result in their confiscation upon departure.
+
 ### 2SLGBTQI+ persons
 
-The laws of Eritrea prohibit sexual acts between individuals of the same sex.
+Eritrean law criminalizes sexual acts and relationships between persons of the same sex.
+
+Convicted offenders could face up to 7 years of imprisonment and heavy fines.
 
 2SLGBTQI+ persons should carefully consider the risks of travelling to Eritrea.
 
@@ -22,7 +39,15 @@ The laws of Eritrea prohibit sexual acts between individuals of the same sex.
 
 ### Photography
 
-It is forbidden to photograph government buildings and military facilities.
+Photographing sensitive installations is prohibited. This includes:
+
+* airports
+* ports
+* military sites
+* government buildings
+* uniformed service members
+
+Always ask permission before photographing government buildings or individuals.
 
 ### Driving
 
@@ -30,9 +55,14 @@ To drive in Eritrea, you must have a local driver’s licence. To obtain one, yo
 
 [International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
 
-### Local culture
+### Dress and behaviour
 
-Dress and behave discreetly and respect religious and social traditions to avoid offending local residents.
+To avoid offending local sensitivities:
+
+* dress conservatively
+* avoid kissing in public
+* behave discretely
+* respect religious and social traditions
 
 ### Ramadan
 
@@ -48,11 +78,13 @@ In public, between sunrise and sunset, be discreet when:
 
 Dual citizenship is not legally recognized in Eritrea.
 
-If local authorities consider you an Eritrean citizen, they may refuse to grant you access to Canadian consular services, thereby preventing Canadian consular officials from providing you with those services.
+If local authorities consider you a citizen of Eritrea, they may refuse to grant you access to Canadian consular services. This will prevent us from providing you with those services.
 
-Dual citizens returning to Eritrea may have to do compulsory military service.
+[Dual citizens](https://travel.gc.ca/travelling/documents/dual-citizenship)
 
-[General information for travellers with dual citizenship](https://travel.gc.ca/travelling/documents/dual-citizenship)
+### Mandatory military service
+
+All Eritrean citizens between the ages of 18 and 40 are subject to mandatory military service and could be called for military mobilization.
 
 ### International Child Abduction
 
@@ -77,12 +109,12 @@ Be aware that Canadian consular officials cannot interfere in private legal matt
 
 ### Money
 
-The currency is the nakfa (ERN).
+The currency of Eritrea is the nakfa (ERN).
 
-On arrival, travellers must declare, in writing, all foreign currency they are importing in excess of US$10,000 or the equivalent in other foreign currencies.
+On arrival, travellers must declare all foreign currency they are importing in excess of US$10,000 or the equivalent in other foreign currencies.
 
-Credit cards are not accepted as a method of payment for everyday transactions. They are made in cash, using the nakfa. However, the Government of Eritrea expects foreign tourists to pay for accommodations in foreign currency.
+Eritrea has a cash-based economy. Credit cards are not accepted as a method of payment for everyday transactions. It is illegal to use foreign currency to make purchases, except for official hotels, where foreigners are expected to pay for accommodations in euros or U.S. dollars.
 
-Foreign currency must be exchanged at a branch of the Himbol Exchange at the official exchange rate.
+Foreign currency must be exchanged at a branch of the “Himbol”, the official state foreign currency exchange, at main banks or in major hotels in Asmara.
 
-You can’t take more than 500 nakfa out of the country. Offenders can have their money confiscated or face prosecution.
+You can’t take more than 1000 nafka out of the country. Offenders could have their money confiscated and/or face prosecution.
