@@ -356,7 +356,7 @@
     {
         "destination": "Eritrea",
         "risk_level": "Avoid Non-Essential Travel",
-        "last_updated": "2025-08-07T00:00:00",
+        "last_updated": "2025-08-08T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/eritrea/"
     },
     {
@@ -584,7 +584,7 @@
     {
         "destination": "Kenya",
         "risk_level": "High Degree of Caution",
-        "last_updated": "2025-08-07T00:00:00",
+        "last_updated": "2025-08-08T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/kenya/"
     },
     {
@@ -614,7 +614,7 @@
     {
         "destination": "Kuwait",
         "risk_level": "High Degree of Caution",
-        "last_updated": "2025-07-18T00:00:00",
+        "last_updated": "2025-08-08T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/kuwait/"
     },
     {
@@ -932,7 +932,7 @@
     {
         "destination": "Qatar",
         "risk_level": "High Degree of Caution",
-        "last_updated": "2025-07-18T00:00:00",
+        "last_updated": "2025-08-08T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/qatar/"
     },
     {
@@ -1196,7 +1196,7 @@
     {
         "destination": "United Arab Emirates",
         "risk_level": "High Degree of Caution",
-        "last_updated": "2025-07-18T00:00:00",
+        "last_updated": "2025-08-08T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/united-arab-emirates/"
     },
     {
@@ -1262,7 +1262,7 @@
     {
         "destination": "Zimbabwe",
         "risk_level": "High Degree of Caution",
-        "last_updated": "2025-07-11T00:00:00",
+        "last_updated": "2025-08-08T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/zimbabwe/"
     }
 ]

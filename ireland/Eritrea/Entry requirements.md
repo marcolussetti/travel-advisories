@@ -10,7 +10,7 @@ A valid passport is required for travel to Eritrea. Irish passports should have 
 
 It is advisable to take a number of photocopies of your passport with you when travelling to Eritrea and visitors should carry a photocopy of their passport at all times during their stay.
 
-### Lost or Stolen Passports
+### **Lost or Stolen Passports**
 
 If a passport is lost or stolen while abroad, we can help.
 
