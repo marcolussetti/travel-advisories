@@ -35,9 +35,10 @@ Colonia Alcalá Martin
 Colonia Valle del Poniente  
 66196 Santa Catarina, Nuevo León
 
-[**U.S. Consulate General Nogales**](https://mx.usembassy.gov/embassy-consulates/nogales/)Calle San José s/n  
-Fracc. Los Álamos  
-84065 Nogales, Sonora
+[**U.S. Consulate General Nogales**](https://mx.usembassy.gov/embassy-consulates/nogales/)      
+Calle Kalamata 99  
+Colonia Jardines de Kalitea  
+84066 Nogales, Sonora
 
 [**U.S. Consulate General Nuevo Laredo**](https://mx.usembassy.gov/embassy-consulates/nuevo-laredo/)Paseo Colon 1901  
 Colonia Madero  
