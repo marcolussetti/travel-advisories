@@ -2,6 +2,29 @@
 
 ## Natural disasters and climate
 
+### Heavy rainfall and flooding
+
+Since August 8, 2025, heavy rainfall has caused severe flooding and mudslides across several prefectures in Japan. There is significant disruption to the following essential services:
+
+* transportation, including operations at airports
+
+* power distribution
+
+* water and food supply
+
+* telecommunication networks
+
+* emergency services
+
+* medical care
+
+If you are in an affected area:
+
+* monitor local news and weather reports
+* follow the instructions of local authorities, including evacuation orders
+
+[Latest warnings and advisories](https://www.jma.go.jp/bosai/map.html#5/34.5/137/&elem=all&contents=warning&lang=en) – Japan Meteorological Agency
+
 ### Climate change
 
 Climate change is affecting Japan. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local news to stay informed on the current situation.
