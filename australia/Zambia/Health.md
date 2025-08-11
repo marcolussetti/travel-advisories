@@ -61,11 +61,9 @@ You could be arrested and jailed if you don't carry your prescription.
 
 Outbreaks of [anthrax](https://www.health.gov.au/diseases/anthrax) occur in Zambia, affecting both rural and urban provinces. Avoid dead animals or carcasses. Purchase meat from reputable sources, and do not eat raw or undercooked meat. Avoid animal products that could have been sourced from animals that may have died of natural causes. If you suspect that you may have come into contact with anthrax, seek urgent medical advice.
 
-#### Mpox (formerly known as monkeypox)
+#### Mpox
 
-The World Health Organisation (WHO) has declared the current mpox outbreak in parts of Africa as a global public health emergency. It has now spread across a number of countries in Africa, including Zambia.
-
-Mpox can be transmitted to humans through physical contact with an infectious person, infected animals or contaminated materials.
+There's currently an outbreak of Mpox in parts of Africa, including in Zambia. Mpox can be fatal. Mpox can be transmitted to humans through physical contact with an infectious person, infected animals or contaminated materials.
 
 Symptoms may include:
 
@@ -74,11 +72,11 @@ Symptoms may include:
 * low energy
 * swollen lymph nodes
 
-Seek professional medical advice on mpox vaccines.
+Seek professional medical advice on Mpox vaccines.
 
-Maintain strict hygiene standards. Avoid physical contact with anyone who has mpox.
+Maintain strict hygiene standards. Avoid physical contact with anyone who has Mpox.
 
-See a doctor if you feel unwell and isolate from others if you develop any mpox symptoms.
+See a doctor if you feel unwell and isolate from others if you develop any Mpox symptoms.
 
 **More information:**
 
@@ -122,7 +120,6 @@ Waterborne, foodborne and other [infectious diseases](https://www.smartraveller
 * [measles](https://www.who.int/immunization/diseases/measles/en/)
 * [viral haemorrhagic fever](https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/viral-haemorrhagic-fever)
 * [rabies](https://www.who.int/news-room/fact-sheets/detail/rabies)
-* [COVID-19](https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert)
 
 Serious outbreaks sometimes occur.
 
@@ -133,10 +130,24 @@ To protect yourself from illness:
 * avoid raw and undercooked food, such as salads
 * avoid contact with animals
 * don't swim in freshwater
+* be aware that waterways that look clean may be contaminated and that fish sourced from contaminated waterways may also be affected
 
 If you're bitten or scratched by an animal, get medical help immediately.
 
 * Get medical advice if you have a fever or diarrhoea.
+
+**Copperbelt Province – Precautions Against Heavy Metal Poisoning**
+
+A toxic waste spill into the Mwambashi stream ecosystem in February 2025 has caused severe environmental damage and may cause serious risks to public health in the Chambishi, Mwambashi and Kitwe areas of the Copperbelt Province.
+
+If you must travel to the affected area:
+
+* Follow local public health and environmental guidance regarding water safety and food
+* Only use water that is known to be safe for drinking, bathing or cooking. Boiling water does not remove heavy metals
+* Avoid consuming fish sourced from or which may have passed through the affected area
+* Seek medical attention if you are concerned about any symptoms you may have.
+
+The US Embassy in Zambia has provided the following information on the spill - [Health Alert – U.S. Embassy Lusaka, Zambia, August 6, 2025 - U.S. Embassy in Zambia](https://zm.usembassy.gov/health-alert-u-s-embassy-lusaka-zambia/).
 
 #### Medical care
 

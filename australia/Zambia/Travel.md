@@ -20,7 +20,7 @@ A KAZA UNVISA is valid for travel between Zambia and Zimbabwe and day trips to B
 
 You can also apply for a KAZA UNVISA online. It costs US$50 and is valid for 30 days.
 
-Entry and exit conditions can change at short notice. Information on entry and visa requirements can be found at [For Visitors – Zambia Department of Immigration (zambiaimmigration.gov.zm)](https://www.zambiaimmigration.gov.zm/for-visitors/), or contact the nearest [high commission embassy or consulate of Zambia](https://protocol.dfat.gov.au/Public/Missions/221) for details about visas, currency, customs and quarantine rules.
+Entry and exit conditions can change at short notice. Information on entry and visa requirements can be found at [For Visitors – Zambia Department of Immigration](https://www.zambiaimmigration.gov.zm/for-visitors/), or contact the nearest [high commission embassy or consulate of Zambia](https://protocol.dfat.gov.au/Public/Missions/221) for details about visas, currency, customs and quarantine rules.
 
 #### Permits and departure levy
 
@@ -58,9 +58,9 @@ Zambian authorities have refused entry to people arriving from Ebola-affected co
 
 To enter Zambia, you must have 6 months remaining validity on your passport and have at least 3 blank pages. If you don't, you may be denied entry. If you're travelling to multiple African countries on one trip, ensure you have enough blank pages to accommodate the requirements of all countries you plan to visit.
 
-Some foreign governments and airlines apply the rule inconsistently. Travellers can receive conflicting advice from different sources.
+You can end up stranded if your passport does not have at least 6 months remaining validity.
 
-You can end up stranded if your passport does not have at least 6 months remaining validity
+Some foreign governments and airlines apply the rule inconsistently. Travellers can receive conflicting advice from different sources.
 
 The Australian Government does not set these rules. Check your passport's expiry date before you travel. If you're not sure it'll be valid for long enough, consider getting [a new passport](https://www.passports.gov.au/).
 
@@ -81,9 +81,7 @@ If you're travelling through South Africa, South African authorities do not acce
 
 Strict rules apply to a child aged under 18 years travelling through South Africa. 
 
-**More information:**
-
-* [Travel advice for South Africa](https://www.smartraveller.gov.au/destinations/africa/south-africa) (Smartraveller)
+Check out our [travel advice for South Africa](https://www.smartraveller.gov.au/destinations/africa/south-africa). 
 
 #### Passport with 'X' gender identifier
 
@@ -131,13 +129,15 @@ These may not be marked.
 
 Off-road travel in these areas is dangerous.
 
+Take care when travelling in rural parts of Zambia close to the border with the Democratic Republic of Congo (DRC). The border is not demarcated and there is a risk of inadvertently illegally entering DRC.
+
 If you travel to these border areas despite the risks, ask local authorities about the safest routes.
 
 #### Driving permit
 
 To drive in Zambia, you need both:
 
-* a valid Australian driver's licence
+* a valid Australian driver's licence (digital driver’s licences may not be accepted)
 * an International Driving Permit (IDP)
 
 You must get your IDP before leaving Australia.

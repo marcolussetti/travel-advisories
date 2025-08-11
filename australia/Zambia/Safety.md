@@ -28,11 +28,13 @@ To protect yourself from crime:
 * keep vehicle doors locked, windows up and valuables out of sight, even when moving
 * avoid changing money in busy public areas
 
+#### Drink spiking
+
 Drink spiking can happen anywhere. Be alert to the potential risks, and don't leave food or drinks unattended. Pay attention when your drinks are being mixed. Stick to reputable venues and avoid homemade alcoholic drinks due to the risk of methanol poisoning. Get urgent medical help if you suspect you’ve been a victim.
 
 **More information:**
 
-* [Partying safely while overseas](https://www.smartraveller.gov.au/before-you-go/safety/partying)
+* [Partying safely](/before-you-go/safety/partying "Partying safely")
 
 #### Sexual crime
 
@@ -111,6 +113,8 @@ If you plan to do an [adventure activity](https://www.smartraveller.gov.au/befo
 * always use available safety gear, such as life jackets or seatbelts
 
 If proper safety equipment isn't available, use another provider.
+
+Be aware that waterways that look clean may be contaminated.
 
 #### Wildlife safety
 
