@@ -2,7 +2,7 @@
 
 Latest update
 
-We're reviewed our advice for New Caledonia and continue to advise exercise a high degree of caution. There’s still a high police and security presence in country. Isolated security incidents may occur across the territory. Monitor local media and follow the advice of local authorities (see 'Safety').
+We continue to advise exercise a high degree of caution in New Caledonia. There’s still a high police and security presence in country. Isolated security incidents may occur across the territory. Monitor local media and follow the advice of local authorities (see 'Safety').
 
 Advice Level summary
 
