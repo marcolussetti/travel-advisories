@@ -1,19 +1,19 @@
 # Warnings and insurance
 
 Still current at:
-:   1 August 2025
+:   12 August 2025
 
 Updated:
-:   31 July 2025
+:   11 August 2025
 
 Latest update:
-:   New information on extreme heavy rain warnings in middle and southern parts of Taiwan ('Warnings and insurance' page).
+:   New information on Typhoon Podul (‘Warnings and insurance' page).
 
 The UK does not recognise Taiwan as a state and has no diplomatic relations with Taiwan, so limited support is available to British nationals. Please refer to the [British Office in Taipei](https://www.gov.uk/world/organisations/british-office-taipei) for further information.
 
-### Extreme heavy rain warnings
+### Tyhpoon Podul
 
-Heavy rain in central and southern Taiwan sets to continue and evacuations are taking place. Continuous rain is expected until Monday 4 August. In mountainous areas, stay alert to the risk of landslides, falling rocks, debris and flash floods. Low-lying areas should be on guard for flooding.
+According to Taiwan’s Central Weather Administration, Typhoon Podul is expected to make landfall on Taiwan’s East coast (Hualien and Taitung) on 13 August (Wednesday), with expected impacts across the whole of Taiwan through to 14 August (Thursday). Be alert to risks from heavy rainfall in all regions of Taiwan.
 
 ## Before you travel
 

@@ -1,11 +1,11 @@
 {
     "name": "Guyana",
-    "update_reason": "Updated information on protests, authorities have lifted the curfew. ('Warning and Insurance' page).",
+    "update_reason": "Information added about the upcoming national and regional elections and updated information on what health risk you may face in Guyana ('Warnings and insurance' and 'Health' pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Guyana/Warnings and insurance.md",
-            "update_date": "2025-05-01T23:12:36+01:00"
+            "update_date": "2025-08-11T16:10:20+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Guyana/Getting help.md"
         }
     ],
-    "update_date": "2025-05-01T23:12:36+01:00"
+    "update_date": "2025-08-11T16:10:20+01:00"
 }

@@ -79,6 +79,8 @@ Airports in Portugal have excellent technology and security for detecting illega
 
 The municipality of Albufeira has introduced a [Code of Conduct](https://www.cm-albufeira.pt/sites/default/files/RepositorioPublicacoes/2025/cma-regrascomp-regras13jun2025.pdf) which bans inappropriate behaviour in public places. Check out [the rules](https://www.cm-albufeira.pt/sites/default/files/RepositorioPublicacoes/2025/cma-regrascomp-regras13jun2025.pdf) that are now in force. If you break the rules, you could be fined on the spot from between 150 and 1800 euros.
 
+The Town Council has placed restrictions on the sale of alcohol from shops and supermarkets in certain parts of Albufeira between 11pm and 8am. For more information on the measures, including the areas affected, see [Albufeira Town Hall’s website.](https://www.cm-albufeira.pt/artigo/municipio-de-albufeira-restringe-venda-de-bebidas-alcoolicas-durante-o-periodo-noturno).
+
 ## Outdoor activities and adventure tourism
 
 ### Beaches and swimming

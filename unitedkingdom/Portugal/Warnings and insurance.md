@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   8 August 2025
+:   12 August 2025
 
 Updated:
-:   7 August 2025
+:   11 August 2025
 
 Latest update:
-:   Updated with a link to information about using a UK issued Blue Badge in Portugal (‘Safety and security’ page).
+:   Information on the restriction on alcohol sales in Albufeira (‘Safety and security’ page).
 
 This travel advice also covers Madeira, Porto Santo and the Azores.
 

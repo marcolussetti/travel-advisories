@@ -25,10 +25,11 @@ Go to TravelHealthPro to see [what health risks you’ll face in Guyana](https:/
 * yellow fever
 * dengue
 * Zika virus
+* Oropouche Virus
 
 Altitude sickness is a risk in parts of Guyana. Read more about [altitude sickness on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/26/altitude-illness).
 
-In 2016, the UNAIDS/WHO Working Group estimated that around 8,500 people in Guyana were living with HIV. Take normal precautions to avoid exposure to HIV/AIDS.
+In 2024, UNAIDS estimated that around 11,000 people in Guyana were living with HIV. Take normal precautions to avoid exposure to HIV/AIDS.
 
 ## Medication
 

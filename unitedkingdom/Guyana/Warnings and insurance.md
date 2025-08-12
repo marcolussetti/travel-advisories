@@ -1,17 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   2 May 2025
+:   12 August 2025
 
 Updated:
-:   1 May 2025
+:   11 August 2025
 
 Latest update:
-:   Updated information on protests, authorities have lifted the curfew. ('Warning and Insurance' page).
+:   Information added about the upcoming national and regional elections and updated information on what health risk you may face in Guyana ('Warnings and insurance' and 'Health' pages).
 
-## Ongoing Protests
+## Elections
 
-There are ongoing sporadic protests in Georgetown and other locations across Guyana. Protests can take place with little notice and may become violent. Be aware of your surroundings, stay away from protests and follow the advice of local authorities.
+Guyana will hold national and regional elections on 1 September 2025. Political rallies are common. These rallies can draw large crowds and cause significant transport disruption. Any event with large crowds, including large celebratory gatherings, has the potential to turn violent and can also be used by criminals as cover for robbery and theft.
 
 ## Before you travel
 
