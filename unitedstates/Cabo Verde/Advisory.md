@@ -56,7 +56,7 @@ Praia, Santiago, Cabo Verde
 
 Telephone
 
-+(238) 260-8948
++ (238) 260 8900
 
 Emergency
 
@@ -68,7 +68,7 @@ Fax
 
 Email
 
-[praiaconsular@state.gov](mailto: praiaconsular@state.gov "Embassy email address: praiaconsular@state.gov")
+[PraiaACS@state.gov](mailto: PraiaACS@state.gov "Embassy email address: PraiaACS@state.gov")
 
 Website
 
