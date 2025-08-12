@@ -1,7 +1,7 @@
 {
     "name": "Saudi Arabia",
-    "update_reason": "Thorough review and update of the entire content",
-    "update_date": "2025-08-07T08:31:00",
+    "update_reason": "Health \u2013 removal of the Outbreak monitoring alert for meningococcal disease cases linked to Umrah travel to Saudi Arabia",
+    "update_date": "2025-08-11T14:53:00",
     "sections": {
         "risk": "canada/Saudi Arabia/risk.md",
         "security": "canada/Saudi Arabia/security.md",

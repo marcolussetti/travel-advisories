@@ -11,20 +11,6 @@ This section has information and advice about health risks you might face when t
 
 It's best to talk to a healthcare provider or visit a travel health clinic preferably 6 weeks before your trip to get personalized health advice. Even if your travel date is coming up soon, it's still worthwhile to make an appointment.
 
-### Outbreak Monitoring
-
-#### Meningococcal disease cases linked to Umrah travel to Saudi Arabia
-
-There have been reported cases of meningococcal disease linked to Umrah travel to Saudi Arabia.
-
-If you are considering travel to Saudi Arabia for the purposes of Umrah, make sure you are vaccinated with a quadrivalent (ACYW) meningococcal vaccine before travelling, as required by Saudi Arabia. Talk to a health care provider or visit a travel health clinic, preferably 6 weeks before your trip, to discuss vaccination and to get personalized health advice.
-
-[Health requirements (moh.gov.sa)](https://www.moh.gov.sa/en/HealthAwareness/Pilgrims_Health/Pages/default.aspx)
-
-Immediately seek medical attention if you, your child, or another close contact develops symptoms of meningococcal disease. This can include sudden fever, drowsiness, irritability, headache, vomiting, stiff neck, and a skin rash that spreads rapidly.
-
-[Symptoms of invasive meningococcal disease](https://www.canada.ca/en/public-health/services/immunization/vaccine-preventable-diseases/invasive-meningococcal-disease/symptoms.html)
-
 ### Routine vaccines
 
 Make sure your routine vaccinations are up-to-date before you travel, no matter where you’re going.

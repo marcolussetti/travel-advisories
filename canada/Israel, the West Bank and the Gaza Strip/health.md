@@ -142,12 +142,6 @@ Typhoid
 
 Travellers visiting regions with a risk of typhoid, especially those exposed to places with poor sanitation, should speak to a health care professional about vaccination.
 
-Leptospirosis
-
-[Leptospirosis](https://travel.gc.ca/travelling/health-safety/diseases/leptospirosis) is a bacterial disease that typically causes fever, nausea, vomiting, muscle pain, skin rash and eye infection. The disease is spread through direct contact with urine from infected animals or with urine-contaminated water, soil, or food.
-
-Leptospirosis is a risk in this country, especially when participating in freshwater activities (e.g., swimming, rafting), being in areas with poor sanitation, or having close contact with animals, especially rodents. Most travellers are at low risk. There is no vaccine available for leptospirosis.  Travellers at high risk may wish to consult a health care professional about pre-exposure antibiotics.
-
 ### Tick and insect bite prevention
 
 Many diseases are spread by bites from infected ticks and insects like mosquitoes, fleas, or flies. Before you travel, find out what types of ticks or insects are in the area, when they’re most active, and what diseases they can spread.

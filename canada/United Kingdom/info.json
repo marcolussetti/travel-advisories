@@ -1,7 +1,7 @@
 {
     "name": "United Kingdom",
-    "update_reason": "Laws and culture \u2013 added information on banned and restricted goods",
-    "update_date": "2025-08-06T15:33:00",
+    "update_reason": "The Need help? section was updated.",
+    "update_date": "2025-08-11T08:22:00",
     "sections": {
         "risk": "canada/United Kingdom/risk.md",
         "security": "canada/United Kingdom/security.md",

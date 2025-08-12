@@ -1,7 +1,7 @@
 {
     "name": "China",
-    "update_reason": "Health \u2013 Travel health notice for chikungunya added",
-    "update_date": "2025-08-05T15:50:00",
+    "update_reason": "The Need help? section was updated.",
+    "update_date": "2025-08-11T08:23:00",
     "sections": {
         "risk": "canada/China/risk.md",
         "security": "canada/China/security.md",

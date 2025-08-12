@@ -12,6 +12,27 @@ This section has information and advice about health risks you might face when t
 
 It's best to talk to a healthcare provider or visit a travel health clinic preferably 6 weeks before your trip to get personalized health advice. Even if your travel date is coming up soon, it's still worthwhile to make an appointment.
 
+### Outbreak Monitoring
+
+#### Rabies in Indonesia
+
+There is an increase in rabies cases in both dogs and humans in Bali, Indonesia, particularly in Jembrana Regency and the South Kuta and Mengwi Districts of Badung Regency.
+
+Rabies is a disease that is deadly if people don't receive medical care before symptoms start. People usually get rabies from bites or scratches from an infected animal. Travellers are more at risk if they spend time around stray (free-roaming) dogs. Children are especially at risk.
+
+There is a vaccine to help protect against rabies. Before you travel, talk to your health care provider or visit a travel health clinic to find out if you should be vaccinated before you leave Canada. Rabies treatment may be hard to find in Indonesia. If you’re bitten or scratched while travelling, you may need to return to Canada for treatment.
+
+While in Bali:
+
+* stay away from free-roaming dogs and other animals, and watch children closely when around animals
+* thoroughly clean any bites or scratches immediately with soap and water
+* get medical help immediately if you are bitten or scratched
+
+**Learn more:**
+
+[Rabies: Symptoms and treatment](https://www.canada.ca/en/public-health/services/diseases/rabies.html)  
+[Rabies: Prevention and risks](https://www.canada.ca/en/public-health/services/diseases/rabies/prevention.html)
+
 ### Routine vaccines
 
 Make sure your routine vaccinations are up-to-date before you travel, no matter where you’re going.
@@ -58,6 +79,47 @@ There is a risk of [hepatitis A](https://www.canada.ca/en/public-health/services
 
 Practise [safe food and water precautions](https://travel.gc.ca/travelling/health-safety/food-water) and wash your hands often. Vaccination is recommended for all travellers to areas where hepatitis A is present.
 
+Influenza
+
+ The best way to protect yourself from seasonal [influenza](https://www.canada.ca/en/public-health/services/diseases/flu-influenza.html) (flu) is to get vaccinated every year. [Get the flu shot](https://www.canada.ca/en/public-health/services/diseases/flu-influenza/get-your-flu-shot.html) at least 2 weeks before travelling.
+
+ The flu occurs worldwide.
+
+* In the Northern Hemisphere, the flu season usually runs from November to   April.
+* In the Southern Hemisphere, the flu season usually runs between April and   October.
+* In the tropics, there is flu activity year round.
+
+The flu vaccine available in one hemisphere may only offer partial protection against the flu in the other hemisphere.
+
+The flu virus spreads from person to person when they cough or sneeze or by touching objects and surfaces that have been contaminated with the virus. Clean your hands often and wear a mask if you have a fever or respiratory symptoms.
+
+Malaria 
+
+[Malaria](https://www.canada.ca/en/public-health/services/diseases/malaria.html) is a serious and sometimes fatal disease that is caused by parasites spread through the bites of mosquitoes.  
+   
+**There is a risk of malaria in certain areas and/or during a certain time of year in this destination.**
+
+[Antimalarial medication may be recommended](https://www.canada.ca/en/public-health/services/catmat/appendix-1-malaria-risk-recommended-chemoprophylaxis-geographic-area.html) depending on your itinerary and the time of year you are travelling. Consult a health care professional or visit a travel health clinic before travelling to discuss your options. It is recommended to do this 6 weeks before travel, however, it is still a good idea any time before leaving.   
+ 
+
+Rabies 
+
+In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/diseases/rabies) is commonly carried by dogs and some wildlife, including bats. Rabies is a deadly disease that spreads to humans primarily through bites or scratches from an infected animal. While travelling, take [precautions](https://www.canada.ca/en/public-health/services/diseases/rabies/prevention.html), including keeping your distance from animals (including free-roaming dogs), and closely supervising children.
+
+If you are bitten or scratched by a dog or other animal while travelling, immediately wash the wound with soap and clean water and see a health care professional. **In this destination, rabies treatment may be limited or may not be available, therefore you may need to return to Canada for treatment.**
+
+Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who are at high risk of exposure (e.g., occupational risk such as veterinarians and wildlife workers, children, adventure travellers and spelunkers, and others in close contact with animals).
+
+Polio 
+
+[Polio](https://travel.gc.ca/travelling/health-safety/diseases/polio) (poliomyelitis) is an infectious disease that can be prevented by vaccination. It is caused by poliovirus type 1, 2 or 3. Circulating vaccine-derived poliovirus 2 (cVDPV2) is present in this country.
+
+Polio is spread from person to person and through contaminated food and water. Infection with the polio virus can cause paralysis and death in individuals of any age who are not immune.
+
+**Recommendations:**
+
+* Be sure that your polio vaccinations are up to date before travelling. Polio is part of the [routine vaccine schedule](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-1-key-immunization-information/page-13-recommended-immunization-schedules.html#p1c12a2) for children in Canada.
+* One booster dose of the polio vaccine is recommended as an [adult](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-3-vaccination-specific-populations/page-9-immunization-travellers.html#a3).
 Measles 
 
 Measles is a serious viral infection that spreads easily. It spreads through the air, and can stay in the air for up to 2 hours. You can also get measles by direct contact with an infected person or by touching a surface with the virus on it and then touching your eyes, nose, or mouth before washing your hands.
@@ -85,54 +147,6 @@ Hepatitis B
 
 Hepatitis B vaccination is recommended for all travellers. [Prevent hepatitis B](https://www.canada.ca/en/public-health/services/diseases/hepatitis-b/prevention-risks.html#a2) infection by practicing safe sex, only using new and sterile drug equipment, and only getting tattoos and piercings in settings that follow public health regulations and standards.
 
-Influenza
-
- The best way to protect yourself from seasonal [influenza](https://www.canada.ca/en/public-health/services/diseases/flu-influenza.html) (flu) is to get vaccinated every year. [Get the flu shot](https://www.canada.ca/en/public-health/services/diseases/flu-influenza/get-your-flu-shot.html) at least 2 weeks before travelling.
-
- The flu occurs worldwide.
-
-* In the Northern Hemisphere, the flu season usually runs from November to   April.
-* In the Southern Hemisphere, the flu season usually runs between April and   October.
-* In the tropics, there is flu activity year round.
-
-The flu vaccine available in one hemisphere may only offer partial protection against the flu in the other hemisphere.
-
-The flu virus spreads from person to person when they cough or sneeze or by touching objects and surfaces that have been contaminated with the virus. Clean your hands often and wear a mask if you have a fever or respiratory symptoms.
-
-Malaria 
-
-[Malaria](https://www.canada.ca/en/public-health/services/diseases/malaria.html) is a serious and sometimes fatal disease that is caused by parasites spread through the bites of mosquitoes.  
-   
-**There is a risk of malaria in certain areas and/or during a certain time of year in this destination.**
-
-[Antimalarial medication may be recommended](https://www.canada.ca/en/public-health/services/catmat/appendix-1-malaria-risk-recommended-chemoprophylaxis-geographic-area.html) depending on your itinerary and the time of year you are travelling. Consult a health care professional or visit a travel health clinic before travelling to discuss your options. It is recommended to do this 6 weeks before travel, however, it is still a good idea any time before leaving.   
-   
-[Protect yourself from mosquito bites](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html) at all times:   
-• Cover your skin and use an [approved](https://www.canada.ca/en/health-canada/services/about-pesticides/insect-repellents.html) insect repellent on uncovered skin.   
-• Exclude mosquitoes from your living area with screening and/or closed, well-sealed doors and windows.  
-• Use insecticide-treated bed nets if mosquitoes cannot be excluded from your living area.   
-• Wear permethrin-treated clothing.   
-   
-If you develop [symptoms](https://www.canada.ca/en/public-health/services/diseases/malaria/symptoms-malaria.html) similar to malaria when you are travelling or up to a year after you return home, see a health care professional immediately. Tell them where you have been travelling or living.
-
-Rabies 
-
-In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/diseases/rabies) is commonly carried by dogs and some wildlife, including bats. Rabies is a deadly disease that spreads to humans primarily through bites or scratches from an infected animal. While travelling, take [precautions](https://www.canada.ca/en/public-health/services/diseases/rabies/prevention.html), including keeping your distance from animals (including free-roaming dogs), and closely supervising children.
-
-If you are bitten or scratched by a dog or other animal while travelling, immediately wash the wound with soap and clean water and see a health care professional. **In this destination, rabies treatment may be limited or may not be available, therefore you may need to return to Canada for treatment.**
-
-Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who are at high risk of exposure (e.g., occupational risk such as veterinarians and wildlife workers, children, adventure travellers and spelunkers, and others in close contact with animals).
-
-Polio 
-
-[Polio](https://travel.gc.ca/travelling/health-safety/diseases/polio) (poliomyelitis) is an infectious disease that can be prevented by vaccination. It is caused by poliovirus type 1, 2 or 3. Circulating vaccine-derived poliovirus 2 (cVDPV2) is present in this country.
-
-Polio is spread from person to person and through contaminated food and water. Infection with the polio virus can cause paralysis and death in individuals of any age who are not immune.
-
-**Recommendations:**
-
-* Be sure that your polio vaccinations are up to date before travelling. Polio is part of the [routine vaccine schedule](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-1-key-immunization-information/page-13-recommended-immunization-schedules.html#p1c12a2) for children in Canada.
-* One booster dose of the polio vaccine is recommended as an [adult](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-3-vaccination-specific-populations/page-9-immunization-travellers.html#a3).
 COVID-19
 
 COVID-19 is an infectious viral disease. Most of the time, it spreads when people are in close contact with others who are infected with the virus. It spreads through respiratory particles, or through an infected surface or object.
@@ -212,6 +226,21 @@ A vaccine for the prevention of chikungunya (IXCHIQ) is approved in Canada. Talk
 
 [Chikungunya](https://www.canada.ca/en/public-health/services/diseases/chikungunya.html)
 
+Zika virus 
+
+[Zika virus](https://www.canada.ca/en/public-health/services/diseases/zika-virus.html) is a risk in this country.
+
+Zika virus is primarily spread through the bite of an infected mosquito. It can also be sexually transmitted. Zika virus can cause serious birth defects.
+
+During your trip:
+
+* [Prevent mosquito bites](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html) at all times.
+* Use condoms correctly or avoid sexual contact, particularly if you are pregnant.
+
+If you are pregnant or planning a pregnancy, you should discuss the potential risks of travelling to this destination with your health care provider. You may choose to avoid or postpone travel.
+
+For more information, see [Zika virus: Pregnant or planning a pregnancy.](https://www.canada.ca/en/public-health/services/diseases/zika-virus/pregnant-planning-pregnancy.html)
+
 Lymphatic filariasis
 
 [Lymphatic filariasis](https://www.who.int/news-room/fact-sheets/detail/lymphatic-filariasis), also known as elephantiasis, is caused by filariae (tiny worms) spread to humans through the bite of an infected mosquito. It can cause a range of illnesses. Risk is generally low for most travellers. Protect yourself from mosquito bites. There is no vaccine available for lymphatic filariasis although drug treatments exist.
@@ -227,21 +256,6 @@ Dengue
 **Learn more:**  
 [Dengue](https://www.canada.ca/en/public-health/services/infectious-diseases/viral-haemorrhagic-fevers/dengue-fever.html)  
 [Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)
-
-Zika virus 
-
-[Zika virus](https://www.canada.ca/en/public-health/services/diseases/zika-virus.html) is a risk in this country.
-
-Zika virus is primarily spread through the bite of an infected mosquito. It can also be sexually transmitted. Zika virus can cause serious birth defects.
-
-During your trip:
-
-* [Prevent mosquito bites](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html) at all times.
-* Use condoms correctly or avoid sexual contact, particularly if you are pregnant.
-
-If you are pregnant or planning a pregnancy, you should discuss the potential risks of travelling to this destination with your health care provider. You may choose to avoid or postpone travel.
-
-For more information, see [Zika virus: Pregnant or planning a pregnancy.](https://www.canada.ca/en/public-health/services/diseases/zika-virus/pregnant-planning-pregnancy.html)
 
 ### Animal precautions
 
