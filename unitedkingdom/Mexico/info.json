@@ -1,11 +1,11 @@
 {
     "name": "Mexico",
-    "update_reason": "Update to information on political situation (Safety and Security page).",
+    "update_reason": "Information about travel disruption in Mexico City ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Mexico/Warnings and insurance.md",
-            "update_date": "2025-07-25T20:18:45+01:00"
+            "update_date": "2025-08-12T15:42:01+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Mexico/Getting help.md"
         }
     ],
-    "update_date": "2025-07-25T20:18:45+01:00"
+    "update_date": "2025-08-12T15:42:01+01:00"
 }

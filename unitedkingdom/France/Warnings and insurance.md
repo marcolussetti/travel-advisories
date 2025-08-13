@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   2 August 2025
+:   13 August 2025
 
 Updated:
-:   1 August 2025
+:   12 August 2025
 
 Latest update:
-:   Updated information on wildfire risks and health ( 'Safety and security' and 'Health' pages).
+:   Updated with a link to information about using a UK issued Blue Badge in France (‘Safety and security’ page).
 
 ## Before you travel
 
