@@ -10,7 +10,7 @@ Visitors must carry their passport at all times. If stopped by the police for a 
 
 Dual citizens (Irish citizens who also hold Belarusian citizenship) can only enter and leave Belarus on a valid Belarusian passport. You cannot use your Irish passport, even if you have an appropriate visa.
 
-Dual Irish-Belarusian citizens should be aware that the Irish Embassy can only provide them with consular assistance in Belarus at the discretion of the Belarusian authorities, and this permission may not be granted.
+Dual Irish-Belarusian citizens should be aware that the Irish Embassy can only provide them with consular assistance in Belarus at the discretion of the Belarusian authorities, and this permission may not be granted. Dual citizens are cautioned that they may be subject to mandatory military service, and that Belarusian authorities may attempt to prevent your departure from the country on this basis.
 
 ### **Illegal Drugs**
 
@@ -20,9 +20,9 @@ Belarus has severe penalties for drugs-related crimes. The penalties for drug po
 
 Visitors should avoid taking photographs of any government building, military installations, state institutions and uniformed officials.
 
-### **Homosexuality**
+### LGBT
 
-Homosexuality is legal under Belarusian law. However, Belarus is a conservative society and the gay/lesbian scene is very low profile and few homosexuals openly declare themselves. Caution and discretion are advised at all times.
+Homosexuality is legal under Belarusian law, however there have been reports of the government suppressing LGBT+ organisations. Belarus is a conservative society and there is a degree of intolerance among some sections of the population; be careful about public displays of affection. Caution and discretion are advised at all times.
 
 ### **Money**
 

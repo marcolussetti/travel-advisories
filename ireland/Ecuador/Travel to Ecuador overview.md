@@ -6,6 +6,20 @@ Avoid Non-Essential Travel
 
 ### **Travel Alert**
 
+Exercise increased caution in Ecuador due to civil unrest, crime, and kidnapping.
+
+Owing to drug trafficking, criminal activity, and high risk of violence, the Embassy advises to **avoid all but essential travel to**:
+
+- Within 20km of the border with Colombia, except for the official border-crossing town of Tulcan in Carchi province. In particular, avoid travel to Carchi and Sucumbíos;
+
+- Minefields near the southern portion of the border with Peru, in particular Chinchipe, El Pangui, Nangaritza, and Yantzaza;
+
+- Esmeraldas, El Oro, Guayas, and Los Ríos provinces.
+
+This **does not apply** to airside transit within Guayaquil Airport in Guayas Province, including onward or return travel to the **Galapagos Islands.**
+
+**To note, your travel insurance could be invalidated if you travel against advice of the Department of Foreign Affairs and Trade.**
+
 ### **Yellow Fever**
 
 As of 12 May 2025, travellers to Ecuador will require a yellow fever vaccination certificate, owing to the increase of yellow fever in the region. In particular, travellers from Colombia, Peru, Bolivia, and Brazil will need to present a yellow fever vaccination certificate.
@@ -14,25 +28,27 @@ The yellow fever vaccine must have been administered at least 10 days before ent
 
 ### **State of Emergency**
 
-A state of emergency was renewed on 12 June 2025 for 60 days owing to ongoing internal unrest and armed violence. The current state of emergency applies to the following provinces:
+A state of emergency was renewed on 06 August 2025 for 60 days owing to ongoing internal unrest and armed violence. The current state of emergency applies to the following provinces:
 
 -Guayas
 
 -El Oro
 
--Santa Elena
-
 -Manabí
-
--Orellana
 
 -Los Ríos
 
--Sucumbíos
+The state of emergency allows the military and police to:
 
-- Quito Metropolitan district – Pichincha province
+- seize assets
 
-The state of emergency allows the military and police to seize assets, conduct inspections, and enter private properties without permission.
+- conduct inspections;
+
+- prohibit assembly;
+
+- read private mail and phone records;
+
+- enter private properties without permission.
 
 Curfew hours (10pm until 05am) apply, until further notice, for the following districts (‘cantons’) and/or parishes (parroquias):
 
@@ -75,14 +91,6 @@ Curfew hours (10pm until 05am) apply, until further notice, for the following di
 
 Should you need to travel to or from the airport during curfew hours, this is permissible by presenting evidence of a flight booking reservation.
 
-The current security situation remains volatile and uncertain due to the threat of violent crime. Travellers should carry their IDs at all times and follow the instructions of local authorities. There may be increased military and police presence around key public buildings, airports, and on the streets.
-
-The Embassy advises all Irish citizens in Ecuador to be particularly attentive to news and safety recommendations from the Ecuadorian authorities. If an Irish citizen decides to travel to Ecuador at this time, via a land border from Peru or Colombia, against our clear advice, they must present a criminal record certificate from their country of residence covering the last five years. The certificate must be legalised with a Hague Apostille. This does not apply to children and adolescents under 18.
-
-If they do not have the correct documentation they may not be permitted to enter via the land border, and they may have to change travel plans. This restriction applies exclusively to land borders, and not to entry via airports or seaports.
-
-For all entry, including via land, airports and seaports, you may be asked to provide a reason for your travel and evidence of a return or onward journey.
-
 ### **Heavy Rainfall**
 
 A regional state of emergency was declared by the Committee of Emergency Operations (COE) on 04 July 2025 for 45 days due to heavy rainfall. It applies to the following provinces:
@@ -97,31 +105,27 @@ Visitors are advised to follow the guidance of national and local authorities an
 
 ### **General Travel Advice**
 
-Due to a significant increase in violent criminal activity throughout the country, citizens should currently avoid non-essential travel to the following areas:
+The current security situation remains volatile and uncertain due to the threat of violent crime. Travellers should:
 
-- Esmeraldas
+- Expect an increased police and military presence, especially near prisons, key public buildings, and airports;
 
-- Manabí
+- carry identification at all times;
 
-- Santa Elena
+- follow the instructions of local authorities.
 
-- Guayas
+The Embassy advises all Irish citizens in Ecuador to be particularly attentive to news and safety recommendations from the Ecuadorian authorities.
 
-- El Oro
+If an Irish citizen decides to travel to Ecuador at this time, via a land border from Peru or Colombia, **against our clear advice**, they must present a criminal record certificate from their country of residence covering the last five years. The certificate must be legalised with a Hague Apostille. This does not apply to children and adolescents under 18.
 
-- Los Ríos
+If they do not have the correct documentation they **may not be permitted** to enter via the land border, and they may have to change travel plans. This restriction applies exclusively to land borders, and not to entry via airports or seaports.
 
-- Santo Domingo de los Tsáchilas
+For all entry, including via land, airports and seaports, you may be asked to provide a reason for your travel and evidence of a return or onward journey.
 
-This **does not apply** to airside transit within Guayaquil Airport in Guayas province, including onward or return travel to the **Galapagos Islands.**
+Irish citizens **do not require** a visa to enter Ecuador for stays up to **90 days**.
 
-We advise against all travel within the 20km exclusion zone along the border with Colombia, except for the official border-crossing town of Tulcan in Carchi province, due to the security situation.
+A valid passport is required for travel to Ecuador. Irish passports should have a **minimum validity** of 6 months. Passport cards **cannot be used**.
 
-Irish citizens **do not require** a visa to enter Ecuador for stays up to 90 days.
-
-A valid passport is required for travel to Ecuador. Irish passports should have a minimum validity of 6 months. Passport cards cannot be used.
-
-For more information on visas and passports, please see the Entry Requirements tab.
+For more information on visas and passports, please see the **Entry Requirements tab**.
 
 Citizens can also follow the Irish Embassy in Chile on [**X**](https://twitter.com/irlembchile) to ensure access to relevant updates and alerts or a family emergency.
 
