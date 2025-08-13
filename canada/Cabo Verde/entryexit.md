@@ -4,7 +4,7 @@
 
 Every country or territory decides who can enter or exit through its borders. The Government of Canada cannot intervene on your behalf if you do not meet your destination’s entry or exit requirements.
 
-We have obtained the information on this page from the Cabo Verde authorities. It can, however, change at any time.
+We have obtained the information on this page from the Cabo Verdean authorities. It can, however, change at any time.
 
 Verify this information with the [Foreign Representatives in Canada](https://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng).
 
@@ -39,18 +39,18 @@ Different entry rules may apply when travelling with a temporary passport or an 
 
 ### Visas
 
-Tourist visa: not required for stays up to 30 days  
+Tourist visa: not required for stays of up to 30 days  
 Business visa: required  
+Work permit: required  
 Student visa: required
 
-### Other entry requirements
+### Electronic travel authorization (ETA)
 
-You must complete the pre-registration form:
+You must have an ETA to enter Cabo Verde for tourism or business. Your ETA is valid for one year or until you change your passport, whichever comes first.
 
-* at least 5 days before your arrival in Cabo Verde and pay the airport security tax online
-* at the airport when you pay the airport security tax
+To get an ETA, you must complete an online pre-registration form and pay an airport security fee at least 5 days before you arrive in Cabo Verde. Certain exceptions apply. You should consult the Government of Cabo Verde’s online platform to register and for more information.
 
-[Pre-registration form](https://registration.cv.zetes.com/(S(1g5lokkvgfzt3alhsfj0bulr))/Pages/CapeVerde/PersonalInfo.aspx) – Government of Cabo Verde
+[Efficient, Automatic & Safe Entry (EASE)](https://www.easecv.com/en/) – Government of Cabo Verde
 
 ### Children and travel
 

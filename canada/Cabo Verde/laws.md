@@ -8,17 +8,12 @@ Learn about what you should do and how we can help if you are [arrested or detai
 
 ### Drugs
 
-There are severe penalties for possession, use or trafficking of illegal drugs.
+Penalties for possession, use or trafficking of illegal drugs are severe. Convicted offenders can expect long jail sentences and heavy fines.
+
+* Pack your own luggage and monitor it closely at all times
+* Never transport other people’s packages, bags or suitcases
 
 [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
-
-### Medication
-
-Foreigners have been arrested for carrying unlabelled pills.
-
-For a complete list of prohibited items, contact the Embassy of the Republic of Cabo Verde.
-
-[Foreign diplomatic missions and consulates in Canada](http://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng)
 
 ### Driving
 
@@ -57,6 +52,6 @@ Be aware that Canadian consular officials cannot interfere in private legal matt
 
 ### Money
 
-The currency is the Cabo Verde escudo (CVE).
+The currency of Cabo Verde is the Cabo Verde escudo (CVE).
 
-Some hotels and restaurants in Praia will convert U.S. dollars and euros into local currency. Major credit cards are accepted in some hotels and restaurants.
+Some hotels and restaurants in Praia convert U.S. dollars and euros into local currency. Some hotels and restaurants accept major credit cards.

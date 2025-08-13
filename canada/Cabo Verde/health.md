@@ -250,13 +250,29 @@ High-risk travellers include those visiting or working in prisons, refugee camps
 
 ### Medical services and facilities
 
-Basic medical procedures are available in Mindelo and Praia.
+Good health care is only available in major cities, including in Praia and Mindelo. There are smaller public facilities and private clinics across the country that can provide basic care. Public facilities may lack medical supplies and equipment.
 
-You may need medical evacuation if you need specialized care, have sustained serious injury or become severely ill.
+Emergency and ambulance services are very limited and response times are slow, especially in rural areas. In an emergency, you should consider taking a taxi or a private vehicle to go to the hospital in Praia or Mindelo.
+
+Cabo Verde has no sea rescue or air evacuation services. Medical evacuation between islands is limited. Air evacuation from the islands of Brava and Santo Antão is especially difficult because there are no airports. Medical evacuation can be very expensive and you may need it in case of serious illness or injury.
 
 Make sure you get travel insurance that includes coverage for medical evacuation and hospital stays.
 
 [Health and safety outside Canada](https://travel.gc.ca/travelling/health-safety)
+
+### Medication
+
+Some prescription medications may not be available in Cabo Verde.
+
+If you take prescription medications, you’re responsible for determining their legality in Cabo Verde.
+
+Foreigners have been arrested for carrying unlabelled pills.
+
+* Bring enough medication for your stay
+* Always keep your medication in the original container and carry a copy of your prescriptions
+* Pack your medication in your carry-on luggage
+
+[Travelling with medication](https://travel.gc.ca/travelling/health-safety/medication?_ga=2.191785258.1604296173.1718630005-1405742948.1680118138)
 
 ### Keep in Mind...
 

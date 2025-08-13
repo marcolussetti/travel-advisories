@@ -120,7 +120,7 @@ These include vaccinations for COVID-19, polio, meningococcal meningitis, and ye
 
 For more information, visit the Saudi Arabia Ministry of Health’s page for Hajj and Umrah health regulations.
 
-[Hajj and Umrah Health Regulations - Ministry of Health in the Kingdom of Saudi Arabia](https://www.moh.gov.sa/en/HealthAwareness/Pilgrims_Health/Pages/default.aspx) (external)
+[Hajj and Umrah Health Regulations - Ministry of Health in the Kingdom of Saudi Arabia](https://www.moh.gov.sa/en/HealthAwareness/Pilgrims-Health/Pages/default.aspx) (external)
 
 Large numbers of people in small areas can enable the spread of infectious diseases and increase the risk of injury. Take the time to prepare for your trip and know how to reduce the risks.
 

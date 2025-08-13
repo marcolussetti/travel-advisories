@@ -2,6 +2,27 @@
 
 ## Natural disasters and climate
 
+### Typhoon Podul
+
+Typhoon Podul is expected to make landfall on Taiwan on August 13, 2025.
+
+The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
+
+* transportation
+* power distribution
+* water and food supply
+* telecommunications networks
+* emergency services
+* medical care
+
+If you are in Taiwan:
+
+* exercise caution
+* monitor local news and weather reports
+* follow the instructions of local authorities
+
+[Latest updates](https://www.cwa.gov.tw/V8/E/P/Typhoon/TY_WARN.html) – Central Weather Administration
+
 ### Climate change
 
 Climate change is affecting Taiwan. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local news to stay informed on the current situation.
