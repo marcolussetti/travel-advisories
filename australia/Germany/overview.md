@@ -2,7 +2,9 @@
 
 Latest update
 
-We've reviewed our travel advice for Germany and advise exercise normal safety precautions. There's an ongoing threat of terrorism in Germany. Terrorist attacks could occur anywhere and at any time. There have been multiple attacks using vehicles or knives in the last year. Be alert in public places and report suspicious activity to the police (see 'Safety'). There are temporary border checks at all German land borders until 15 September (see 'Travel').
+The new European Entry/Exit System (EES) starts on 12 October for all non-EU nationals, including Australians, travelling in or out of the Schengen Area. You’ll need to register at borders and have your fingerprint and photo taken. There may be longer border queues (see ‘Travel’).  
+  
+There's an ongoing threat of terrorism in Germany. Terrorist attacks could occur anywhere and at any time. There have been multiple attacks using vehicles or knives in the last year. Be alert in public places and report suspicious activity to the police (see 'Safety').
 
 Advice Level summary
 
@@ -46,9 +48,9 @@ Full travel advice: [Local laws](#local-laws)
 
 ### Travel
 
+* Germany is a part of the [Schengen area](/before-you-go/basics/visas-and-entry-requirements-europe-and-schengen-area "Visas and entry requirements in Europe and the Schengen Area") which means you can enter Germany without a visa in some cases. In other situations, you'll need a visa.
+* The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/en/ees) starts on 12 October for all non-EU nationals, including Australians, travelling in or out of the Schengen Area. Read more in our full advice.
 * There are temporary border checks at all German land borders until 15 September.
-* Germany is part of the [Schengen area](/before-you-go/the-basics/schengen "Visas and entry requirements in Europe and the Schengen Area"), which means you can enter without a visa in some cases. In other situations, you'll need a visa.
-* The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area is expected to start in October 2025. A specific start date hasn't been announced.
 * Entry and exit conditions can change at short notice. For the latest details, contact the [nearest German embassy or consulate.](https://protocol.dfat.gov.au/Public/Missions/75)
 
 [Full travel advice: Travel](#travel)

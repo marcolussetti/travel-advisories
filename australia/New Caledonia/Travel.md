@@ -110,7 +110,7 @@ You can drive in New Caledonia on a valid Australian driver's licence for up to 
 To find out about driver's licences and driving regulations:
 
 * Visit the [New Caledonian Department of Infrastructure and Land Transport](https://dittt.gouv.nc/), including information on [foreign licences](https://dittt.gouv.nc/permis-de-conduire/demande-de-permis-de-conduire/echange-de-permis-de-conduire) (in French)
-* Visit the [New Caledonian Public Service](https://service-public.nc/article/l-alcool-au-volant) website, which includes information on alcohol limits.
+* Visit the [New Caledonian Public Service](https://service-public.nc/article/l-alcool-au-volant) website, which includes information on alcohol limits. Your alcohol limit needs to be under 0.2g/L.
 
 On the road:
 

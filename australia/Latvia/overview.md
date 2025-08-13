@@ -2,7 +2,7 @@
 
 Latest update
 
-We've reviewed our advice for Latvia and continue to advise exercise normal safety precautions in Latvia. We also advise reconsider your need to travel to areas near the border with Belarus.
+The new European Entry/Exit System (EES) starts on 12 October for all non-EU nationals, including Australians, travelling in or out of the Schengen Area. You’ll need to register at borders and have your fingerprint and photo taken. There may be longer border queues (see ‘Travel’).
 
 Advice Level summary
 
@@ -54,8 +54,8 @@ Full travel advice: [Local laws](#local-laws)
 
 ### Travel
 
-* Latvia is part of the [Schengen area](/before-you-go/the-basics/schengen "Visas and entry requirements in Europe and the Schengen Area"), meaning you can enter without a visa in some cases. In other situations, you'll need to get a visa.
-* The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area is expected to start in October 2025.
+* Latvia is a part of the [Schengen area](/node/424) which means you can enter Latvia without a visa in some cases. In other situations, you'll need a visa.
+* The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/en/ees) starts on 12 October for all non-EU nationals, including Australians, travelling in or out of the Schengen Area. Read more in our full advice.
 * Entry and exit conditions can change at short notice. You should contact the nearest [embassy or consulate of Latvia](https://protocol.dfat.gov.au/Public/Missions/110) for the latest details.
 * Selected land borders between Latvia and Russia/Belarus remain open for travel via car and bus, except for vehicles registered in Russia or Belarus, carrying Russian or Belarusian license plates. These vehicles will be refused entry into Latvia. Before entering Latvia, any vehicle registered in a third country must be declared for use via the [e-services](https://e.csdd.lv/trvalstutldeklar/) of the Road Traffic Safety Directorate. There are no passenger rail options currently running between Russia/Belarus and Latvia. Australians seeking to cross will need to comply with Latvian border rules and requirements. Visit the [Latvian Border Guard website](https://www.rs.gov.lv/en?setlang=1) before crossing for more information.
 

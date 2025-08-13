@@ -2,7 +2,7 @@
 
 Latest update
 
-We've reviewed our travel advice for Estonia and continue to advise exercise normal safety precautions.
+The new European Entry/Exit System (EES) starts on 12 October for all non-EU nationals, including Australians, travelling in or out of the Schengen Area. You’ll need to register at borders and have your fingerprint and photo taken. There may be longer border queues (see ‘Travel’).
 
 Advice Level summary
 
@@ -46,9 +46,9 @@ Full travel advice: [Local laws](#local-laws)
 
 ### Travel
 
-* Estonia is part of the [Schengen Area](/before-you-go/the-basics/schengen "Visas and entry requirements in Europe and the Schengen Area"), meaning you can enter Estonia without a visa in some cases.
+* Estonia is a part of the [Schengen area](/node/424)which means you can enter Estonia without a visa in some cases. In other situations, you'll need a visa.
+* The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/en/ees) starts on 12 October for all non-EU nationals, including Australians, travelling in or out of the Schengen Area. Read more in our full advice.
 * Entry and exit conditions can change at short notice. You should contact the [nearest embassy or consulate of Estonia](https://protocol.dfat.gov.au/Public/Missions/65) for the latest details.
-* The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area is expected to start in October 2025.
 * Border crossings between Estonia and [Russia](https://www.smartraveller.gov.au/destinations/europe/russia) can close at short notice. Check with [Estonianborder](https://www.estonianborder.eu/yphis/index.action) before crossing. There can be lengthy delays, and private cars bearing Russian number plates are banned from entering Estonia.
 * You'll need to comply with all Estonian border rules and requirements. Check the [Estonia Police and Border Guard Board](https://www.politsei.ee/en/procedure-for-crossing-the-estonian-russian-border) for more information. Be particularly careful in border areas with [Russia](/destinations/europe/russia "Russia"), and don't approach the border zone in Eastern Estonia. Australians with dual Russian or Belarussian citizenship may also face lengthy delays or be denied entry.
 

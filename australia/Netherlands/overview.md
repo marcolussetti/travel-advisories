@@ -2,6 +2,8 @@
 
 Latest update
 
+The new European Entry/Exit System (EES) starts on 12 October for all non-EU nationals, including Australians, travelling in or out of the Schengen Area. You'll need to register at borders and have your fingerprint and photo taken. There may be longer border queues (see 'Travel').  
+  
 The Netherlands national terrorism threat level remains at 'substantial' - level 4 of 5. Terrorists may target tourist areas or other places frequented by foreigners. Take official warnings seriously and follow the advice of local authorities (see 'Safety').
 
 Advice Level summary
@@ -46,9 +48,9 @@ Full travel advice: [Local laws](#local-laws)
 
 ### Travel
 
+* The Netherlands is a part of the [Schengen area](/node/424), which means you can enter the Netherlands without a visa in some cases. In other situations, you'll need a visa.
+* The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/en/ees) starts on 12 October for all non-EU nationals, including Australians, travelling in or out of the Schengen Area. Read more in our full advice.
 * From 9 December 2024, the Netherlands has temporary border checks along its land borders with [Belgium](/destinations/europe/belgium "Belgium") and [Germany](/destinations/europe/germany "Germany") for 12 months.
-* The Netherlands is part of the [Schengen area](/before-you-go/the-basics/schengen "Visas and entry requirements in Europe and the Schengen Area"), meaning you can enter without a visa in some cases. In other situations, you’ll need to get a visa.
-* The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area is expected to start in October 2025.
 * Entry and exit conditions can change at short notice. Contact the nearest embassy or consulate of the Netherlands for the latest details.
 
 Full travel advice: [Travel](#travel)

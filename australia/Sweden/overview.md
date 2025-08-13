@@ -2,7 +2,9 @@
 
 Latest update
 
-We've reviewed our travel advice for Sweden and have lowered the overall travel advice level. We now advise exercise normal safety precautions overall. Sweden’s domestic terror alert is now at ‘elevated’ (level 3 of 5). Terrorist attacks could occur anywhere and at any time. While violent incidents are rare in tourist locations, you should still be cautious. There are incidents of gang-related violent crime in Sweden. Be alert in public places and report suspicious activity to the police (see 'Safety').
+The new European Entry/Exit System (EES) starts on 12 October for all non-EU nationals, including Australians, travelling in or out of the Schengen Area. You’ll need to register at borders and have your fingerprint and photo taken. There may be longer border queues (see ‘Travel’).  
+  
+Sweden’s domestic terror alert is now at ‘elevated’ (level 3 of 5). Terrorist attacks could occur anywhere and at any time. While violent incidents are rare in tourist locations, you should still be cautious. There are incidents of gang-related violent crime in Sweden. Be alert in public places and report suspicious activity to the police (see 'Safety').
 
 Advice Level summary
 
@@ -48,8 +50,8 @@ Full travel advice: [Local laws](#local-laws)
 
 ### Travel
 
-* Schengen visa rules apply. Entry and exit conditions can change at short notice. You should contact the nearest embassy or consulate of Sweden for the latest details.
-* The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area is expected to start in October 2025.
+* Sweden is a part of the [Schengen area](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.smartraveller.gov.au%2Fbefore-you-go%2Fthe-basics%2Fschengen&data=05%7C02%7Ctravel.advice%40dfat.gov.au%7C509ca38abddc42e08b6008ddd968ac5f%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638905765779227641%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=xKxvh8LHp5bwaufnBpSmXNIQuuXQbcgQEs2Yi8uWoek%3D&reserved=0) which means you can enter Sweden without a visa in some cases. In other situations, you'll need a visa.
+* The new [European Entry/Exit System (EES)](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftravel-europe.europa.eu%2Fen%2Fees&data=05%7C02%7Ctravel.advice%40dfat.gov.au%7C509ca38abddc42e08b6008ddd968ac5f%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638905765779249242%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=d6RQbbGH4qXBzvJz%2BL6D6jO4ze%2F%2FgzRL08iKw8i53QY%3D&reserved=0) starts on 12 October for all non-EU nationals, including Australians, travelling in or out of the Schengen Area. Read more in our full advice.
 * Sweden's official currency is the Swedish Krona (SEK).
 
 Full travel advice: [Travel](#travel)

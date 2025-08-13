@@ -2,7 +2,7 @@
 
 Latest update
 
-We've reviewed our travel advice for Slovakia and continue to advise exercise normal safety precautions.
+The new European Entry/Exit System (EES) starts on 12 October for all non-EU nationals, including Australians, travelling in or out of the Schengen Area. You’ll need to register at borders and have your fingerprint and photo taken. There may be longer border queues (see ‘Travel’).
 
 Advice Level summary
 
@@ -47,8 +47,8 @@ Full travel advice: [Local laws](#local-laws)
 
 ### Travel
 
-* Slovakia is part of the [Schengen area](/before-you-go/the-basics/schengen "Visas and entry requirements in Europe and the Schengen Area"), meaning you can enter the country without a visa in some cases.
-* The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area is expected to start in October 2025. A specific start date hasn't been announced.
+* Slovakia is a part of the [Schengen area](/node/424)which means you can enter Slovakia without a visa in some cases. In other situations, you'll need a visa.
+* The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/en/ees) starts on 12 October for all non-EU nationals, including Australians, travelling in or out of the Schengen Area. Read more in our full advice.
 * Entry and exit conditions can change at short notice. Contact Slovakia's nearest [embassy or](https://protocol.dfat.gov.au/Public/Missions/180) [consulate](https://protocol.dfat.gov.au/Public/Consulates/180/State) for details. Ensure that you meet all entry and exit conditions. The Australian government can't assist you if you don't.
 * Register with the police if you plan to stay longer than 3 days in Slovakia.
 

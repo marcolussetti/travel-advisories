@@ -2,6 +2,8 @@
 
 Latest update
 
+The new European Entry/Exit System (EES) starts on 12 October for all non-EU nationals, including Australians, travelling in or out of the Schengen Area. You’ll need to register at borders and have your fingerprint and photo taken. There may be longer border queues (see ‘Travel’).  
+  
 Extreme temperatures and wildfires affect many areas of Greece during summer, including close to cities and tourist locations. Follow the advice of local authorities (see 'Safety').  
   
 Quad bike and motorcycle accidents have caused serious injuries and deaths of Australian visitors to Greece. You need specific travel insurance for quad biking as it’s excluded from many policies. Always read the details of your cover (see ‘Travel’).
@@ -54,8 +56,8 @@ Full travel advice: [Local laws](#local-laws)
 
 ### Travel
 
-* Greece is a part of the [Schengen area](/before-you-go/the-basics/schengen "Visas and entry requirements in Europe and the Schengen Area"). This allows you to enter without a visa in some cases.
-* The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen area is expected to start in October 2025.
+* Greece is a part of the [Schengen area](/before-you-go/basics/visas-and-entry-requirements-europe-and-schengen-area "Visas and entry requirements in Europe and the Schengen Area") which means you can enter Greece without a visa in some cases. In other situations, you'll need a visa.
+* The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/en/ees) starts on 12 October for all non-EU nationals, including Australians, travelling in or out of the Schengen Area. Read more in our full advice.
 * There may be long queues at border points when the new system starts. Allow plenty of time for transfers.
 * Entry and exit conditions can change at short notice. Contact the nearest [Greek embassy or Consulate](https://www.mfa.gr/missionsabroad/en/) for enquiries about your ability to enter Greece from your departure country.
 * Quad bike and motorcycle accidents have caused serious injuries and deaths of Australian visitors to Greece. You need specific travel insurance for quad biking as it’s excluded from many policies. Always read the details of your cover.

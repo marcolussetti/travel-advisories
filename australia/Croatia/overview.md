@@ -2,7 +2,7 @@
 
 Latest update
 
-Croatia is part of the Schengen area. In some situations, this lets you enter Croatia without a visa. The new European Entry/Exit System (EES) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area is expected to start in October 2025 (see 'Travel').
+The new European Entry/Exit System (EES) starts on 12 October for all non-EU nationals, including Australians, travelling in or out of the Schengen Area. You’ll need to register at borders and have your fingerprint and photo taken. There may be longer border queues (see ‘Travel’).
 
 Advice Level summary
 
@@ -48,8 +48,8 @@ Full travel advice: [Local laws](#local-laws)
 
 ### Travel
 
-* Croatia is part of the [Schengen area](/before-you-go/the-basics/schengen "Visas and entry requirements in Europe and the Schengen Area"). In some situations, this lets you enter Croatia without a visa.
-* The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area is expected to start in October 2025.
+* Croatia is a part of the [Schengen area](/node/424) which means you can enter Croatia without a visa in some cases. In other situations, you'll need a visa.
+* The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/en/ees) starts on 12 October for all non-EU nationals, including Australians, travelling in or out of the Schengen Area. Read more in our full advice.
 * Temporary border checks have been introduced at Croatia's borders with Slovenia. You should allow extra time for crossing the land border between Croatia and Slovenia.
 * Croatia's official currency is the euro.
 

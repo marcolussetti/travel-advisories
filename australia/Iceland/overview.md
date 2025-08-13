@@ -2,6 +2,8 @@
 
 Latest update
 
+The new European Entry/Exit System (EES) starts on 12 October for all non-EU nationals, including Australians, travelling in or out of the Schengen Area. You’ll need to register at borders and have your fingerprint and photo taken. There may be longer border queues (see ‘Travel’).  
+  
 There are volcanic eruptions occurring on the Reykjanes Peninsula in Southwest Iceland, near the town of Grindavík and the Blue Lagoon. Avoid areas near the eruption site and areas close to mountains with steep slopes on the Reykjanes peninsula due to the danger of falling rocks. Further eruptions could happen at any time and without warning. Southern Iceland could be affected by potentially dangerous volcanic gas clouds, including Þorlákshöfn and Vestmannaeyjar. If you're in an area affected by volcanic gas, monitor local media for updates and follow the advice of local authorities (see 'Safety'). The international airport remains open.
 
 Advice Level summary
@@ -47,9 +49,9 @@ Full travel advice: [Local laws](#local-laws)
 
 ### Travel
 
+* Iceland is a part of the [Schengen area](/node/424) which means you can enter Iceland without a visa in some cases. In other situations, you'll need a visa.
+* The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/en/ees) starts on 12 October for all non-EU nationals, including Australians, travelling in or out of the Schengen Area. Read more in our full advice.
 * The international airport remains open after the volcanic eruption on the Reykjanes Peninsula. Monitor local media for updates and follow the advice of local authorities on exclusion zones and road closures.
-* Iceland is part of the [Schengen area](/before-you-go/the-basics/schengen "Visas and entry requirements in Europe and the Schengen Area"). You may be able to enter Iceland without a [visa](https://www.government.is/topics/foreign-affairs/visa-to-iceland/) in some cases.
-* The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area is expected to start in October 2025.
 * Entry and exit conditions can change at short notice. Contact an [embassy](https://protocol.dfat.gov.au/Public/Missions/90) or [consulate](https://protocol.dfat.gov.au/Public/Consulates/90/State) of Iceland for details about visas, currency, customs and quarantine rules.
 
 Full travel advice: [Travel](#travel)

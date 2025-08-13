@@ -2,7 +2,7 @@
 
 Latest update
 
-There's temporary border checks at Poland's borders with Germany and Lithuania in place. Entry and exit conditions can change at short notice. Monitor border conditions by checking local information and directly with transport providers (see 'Travel').
+The new European Entry/Exit System (EES) starts on 12 October for all non-EU nationals, including Australians, travelling in or out of the Schengen Area. You’ll need to register at borders and have your fingerprint and photo taken. There may be longer border queues (see ‘Travel’).
 
 Advice Level summary
 
@@ -47,8 +47,8 @@ Full travel advice: [Local laws](#local-laws)
 
 ### Travel
 
-* Poland is part of the [Schengen area](/before-you-go/the-basics/schengen "Visas and entry requirements in Europe and the Schengen Area"), meaning you can enter without a visa in some cases. Entry and exit conditions can change at short notice. Contact the nearest embassy or consulate of Poland for details about visas, currency, customs and quarantine rules.
-* The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area is expected to start in October 2025.
+* Poland is part of the [Schengen area](/before-you-go/basics/visas-and-entry-requirements-europe-and-schengen-area "Visas and entry requirements in Europe and the Schengen Area"), which means you can enter Poland without a visa in some cases. In other situations, you'll need a visa.
+* The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/en/ees) starts on 12 October for all non-EU nationals, including Australians, travelling in or out of the Schengen Area. Read more in our full advice.
 * Temporary border checks have been in place at all German land entry borders since 16 September 2024. From 7 July 2025, temporary border checks at Poland's borders with Lithuania are also in place.
 * You can't enter Poland via the land borders from Belarus and Russia (Kaliningrad).
 * Be cautious if travelling in regions bordering Russia, Belarus and Ukraine. Access is restricted up to 2km from the border in some areas.

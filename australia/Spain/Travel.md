@@ -6,7 +6,7 @@
 
 Entry and exit conditions can change at short notice. Contact your airline or your nearest [Embassy or Consulate of Spain](https://protocol.dfat.gov.au/Public/Missions/185) for details about the latest visa and entry requirements. 
 
-Spain is a part of the [Schengen Area](/before-you-go/the-basics/schengen "Visas and entry requirements in Europe and the Schengen Area"), along with many other European countries. This allows you to enter without a visa in some cases. 
+Spain is a part of the [Schengen Area](/before-you-go/basics/visas-and-entry-requirements-europe-and-schengen-area "Visas and entry requirements in Europe and the Schengen Area"), along with many other European countries. This allows you to enter without a visa in some cases. 
 
 You'll need a visa if:
 
@@ -21,15 +21,30 @@ Entry and exit conditions can change at short notice. Contact the nearest [embas
 
 #### European Entry/Exit System (EES)
 
-The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area is expected to start in October 2025.
+On 12 October, the new European Union's (EU) [European Entry/Exit System (EES)](https://travel-europe.europa.eu/en/ees) for registering all non-EU nationals, including Australians, travelling in or out of the Schengen area, starts.
 
-The EES is a digital border system that registers non-EU visitors travelling into the Schengen Area. When entering the Schengen Area, you'll need to have your fingerprints and photo taken. This creates a digital record that registers your biometric details. 
+European countries using the EES will gradually introduce the system at their external borders. Data collection will be introduced at border crossing points with full implementation by 10 April 2026.
 
-You'll need to do this on your first visit to the EU after the EES is introduced.​ If you visit the Schengen Area again within 3 years of creating your digital record, you'll only need to provide either your fingerprint or photograph at the border on entry and exit.
+After it is fully implemented, EES registration will replace the current system of manually stamping passports. ​
 
-This process should only take a few minutes per person, however you may experience longer queues at borders when the new system starts.
+The registration process should only take a few minutes but there may be longer border queues when the new system starts.
 
-Entry and exit conditions can change at short notice. Contact the nearest [embassy or consulate of](https://protocol.dfat.gov.au/Public/Missions/185) [Spain](https://protocol.dfat.gov.au/Public/Missions/185) for the latest details on entry requirements before you travel.
+When travelling into and out of the Schengen area, for short stays, you may need to 
+
+* have your fingerprints and photo taken
+* answer Schengen Border Code questions
+
+This creates a digital record that registers your biometric details.
+
+If you revisit the Schengen area within 3 years of creating your digital record, you'll only need to provide either your fingerprint or photograph at the border on entry and exit.
+
+If you frequently travel to Schengen areas for work and/or leisure purposes, you must ensure that your total stay in the Schengen area is no more than 90 days in every 180 days. Be aware of immigration penalties and enforcement for exceeding the limit in any individual country you plan to travel to or through.
+
+Entry and exit conditions can change at short notice. Before you travel, contact the nearest [embassy or consulate](https://protocol.dfat.gov.au/Public/Missions/23) for details on entry requirements .
+
+**More information:**
+
+* [Visas and entry requirements in Europe and the Schengen Area](/node/424)
 
 #### Passport
 

@@ -2,8 +2,7 @@
 
 Latest update
 
-We’ve reviewed our advice for Norway and continue to advise exercise normal safety precautions.   
-Terrorism is an ongoing risk. Be alert to possible threats, especially in public places. Take official warnings seriously. If there's a security incident, follow the advice of local authorities.
+The new European Entry/Exit System (EES) starts on 12 October for all non-EU nationals, including Australians, travelling in or out of the Schengen Area. You’ll need to register at borders and have your fingerprint and photo taken. There may be longer border queues (see ‘Travel’).
 
 Advice Level summary
 
@@ -53,8 +52,8 @@ Full travel advice: [Local laws](#local-laws)
 
 ### Travel
 
-* Norway is part of the Schengen area, meaning you can enter without a visa in some cases. In other situations, you'll need to get a visa.
-* The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area is expected to start in October 2025.
+* Norway is part of the [Schengen area](/before-you-go/basics/visas-and-entry-requirements-europe-and-schengen-area "Visas and entry requirements in Europe and the Schengen Area") which means you can enter Norway without a visa in some cases. In other situations, you'll need a visa.
+* The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) starts on 12 October for all non-EU nationals, including Australians, travelling in or out of the Schengen Area. Read more in our full advice.
 * Entry and exit conditions can change at short notice. Contact the nearest embassy or consulate of Norway for the latest details.
 * The Norwegian territory of Svalbard isn't part of the Schengen area. You’ll need your passport to enter the Svalbard archipelago.
 * Norway's official currency is the Norwegian Kroner (NOK).

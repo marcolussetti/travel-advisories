@@ -2,7 +2,7 @@
 
 Latest update
 
-We’ve reviewed our travel advice for Denmark and advise exercise normal safety precautions.   
+The new European Entry/Exit System (EES) starts on 12 October for all non-EU nationals, including Australians, travelling in or out of the Schengen Area. You’ll need to register at borders and have your fingerprint and photo taken. There may be longer border queues (see ‘Travel’).  
   
 Denmark's domestic terror threat level is set to 'significant' (level 4 of 5). Terrorist attacks could occur anywhere and at any time. Terrorists may target tourist areas and attractions or other places frequented by foreigners. Take official warnings seriously and follow the advice of local authorities (see 'Safety').
 
@@ -47,8 +47,8 @@ Full travel advice: [Local laws](#local-laws)
 
 ### Travel
 
-* Denmark is part of the [Schengen area](/before-you-go/the-basics/schengen "Visas and entry requirements in Europe and the Schengen Area"). In some situations, this means you can enter Denmark without a visa. Entry and exit conditions can change at short notice. Contact the nearest embassy or consulate of Denmark for the latest details.
-* The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area is expected to start in October 2025.
+* Denmark is a part of the  [Schengen area](/node/424)which means you can enter Denmark without a visa in some cases. In other situations, you'll need a visa.
+* The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/en/ees) starts on 12 October for all non-EU nationals, including Australians, travelling in or out of the Schengen Area. Read more in our full advice.
 * The currency is the Danish Krone (DKK).
 
 Full travel advice: [Travel](#travel)

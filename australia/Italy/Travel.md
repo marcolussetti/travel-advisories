@@ -4,7 +4,7 @@
 
 > Every country or territory decides who can enter or leave through its borders. For specific information about the evidence you'll need to enter a foreign destination, check with the nearest embassy, consulate or immigration department of the destination you're entering.
 
-Italy is part of the [Schengen area](/before-you-go/the-basics/schengen "Visas and entry requirements in Europe and the Schengen Area"), along with many other European countries, which means you can enter Italy without a visa in some cases.
+Italy is part of the [Schengen area](/before-you-go/basics/visas-and-entry-requirements-europe-and-schengen-area "Visas and entry requirements in Europe and the Schengen Area"), along with many other European countries, which means you can enter Italy without a visa in some cases.
 
 If, for unexpected reasons, you can't return to Australia or leave Italy before your visa-free limit expires, contact the nearest [local immigration office ('questura’](https://questure.poliziadistato.it/)) in Italy.
 
@@ -16,19 +16,30 @@ Temporary border checks have been introduced at Italy's borders with [Slovenia](
 
 #### European Entry/Exit System (EES)
 
-The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area is expected to start in October 2025. 
+On 12 October, the new European Union's (EU) [European Entry/Exit System (EES)](https://travel-europe.europa.eu/en/ees)for registering all non-EU nationals, including Australians, travelling in or out of the Schengen area, starts.
 
-The EES is a digital border system that registers non-EU visitors travelling into the Schengen Area. When entering the Schengen Area, you'll need to have your fingerprints and photo taken. This creates a digital record that registers your biometric details. 
+European countries using the EES will gradually introduce the system at their external borders. Data collection will be introduced at border crossing points with full implementation by 10 April 2026.
 
-You'll need to do this on your first visit to the EU after the EES is introduced.​ If you visit the Schengen Area again within 3 years of creating your digital record, you'll only need to provide either your fingerprint or photograph at the border on entry and exit.
+After it is fully implemented, EES registration will replace the current system of manually stamping passports. ​
 
-This process should only take a few minutes per person, however you may experience longer queues at borders when the new system starts.
+The registration process should only take a few minutes but there may be longer border queues when the new system starts.
 
-Entry and exit conditions can change at short notice. Contact the [nearest Italian embassy or consulate](https://protocol.dfat.gov.au/Public/Missions/97) for details about visas, currency, customs and quarantine rules.
+When travelling into and out of the Schengen area, for short stays, you may need to
+
+* have your fingerprints and photo taken
+* answer Schengen Border Code questions
+
+This creates a digital record that registers your biometric details.
+
+If you revisit the Schengen area within 3 years of creating your digital record, you'll only need to provide either your fingerprint or photograph at the border on entry and exit.
+
+If you frequently travel to Schengen areas for work and/or leisure purposes, you must ensure that your total stay in the Schengen area is no more than 90 days in every 180 days. Be aware of immigration penalties and enforcement for exceeding the limit in any individual country you plan to travel to or through.
+
+Entry and exit conditions can change at short notice. Before you travel, contact the nearest [embassy or consulate](https://protocol.dfat.gov.au/Public/Missions/23) for details on entry requirements .
 
 **More information:**
 
-* [Visas and entry requirements in Europe](/before-you-go/the-basics/schengen "Visas and entry requirements in Europe and the Schengen Area")
+* [Visas and entry requirements in Europe and the Schengen Area](/node/424)
 
 #### Passport
 

@@ -2,11 +2,11 @@
 
 Latest update
 
-Belgium has introduced additional entry checks until December 2025. Checks may be carried out on major roads leading into Belgium, motorway car parks, international bus and train services and intra-Schengen flights. Temporary border controls are also in place for travel from Belgium to France, Germany and the Netherlands (see 'Travel').  
+The new European Entry/Exit System (EES) starts on 12 October for all non-EU nationals, including Australians, travelling in or out of the Schengen Area. You’ll need to register at borders and have your fingerprint and photo taken. There may be longer border queues (see ‘Travel’).  
   
-There's an ongoing threat of terrorism in Belgium. Belgium's national threat level is set at 'serious' – level 3 of 4.  Crowded places such as music and cultural events, festivals, tourist areas, shopping areas, transport hubs, major sporting events and other public areas are possible targets. Be vigilant in public places and follow the advice of local authorities (see 'Safety').     
+Belgium has also introduced additional entry checks until December 2025. Checks may be carried out on major roads leading into Belgium, motorway car parks, international bus and train services and intra-Schengen flights (see 'Travel').  
   
-General strikes occur often in Belgium and may cause significant travel disruption across the country. Monitor local media and check with your travel provider for potential delays.
+There's an ongoing threat of terrorism in Belgium. Belgium's national threat level is set at 'serious' – level 3 of 4.  Crowded places such as music and cultural events, festivals, tourist areas, shopping areas, transport hubs, major sporting events and other public areas are possible targets. Be vigilant in public places and follow the advice of local authorities (see 'Safety').
 
 Advice Level summary
 
@@ -48,11 +48,11 @@ Full travel advice: [Local laws](#local-laws)
 
 ### Travel
 
-* Belgium has introduced additional entry checks until December 2025. Checks may be carried out on major roads leading into Belgium, motorway car parks, international bus and train services and intra-Schengen flights. This may involve verifying travel documents, identification and screening for illegal substances. In Belgium, you must carry your passport with you at all times.
-* There are temporary border controls in place to travel into France, Germany and the Netherlands from Belgium. Check the entry requirements for [France](https://www.smartraveller.gov.au/destinations/europe/france), [Germany](https://www.smartraveller.gov.au/destinations/europe/germany) and the [Netherlands](/destinations/europe/netherlands "Netherlands") before you travel.
+* Belgium is a part of the [Schengen area](/before-you-go/basics/visas-and-entry-requirements-europe-and-schengen-area "Visas and entry requirements in Europe and the Schengen Area") which means you can enter Belgium without a visa in some cases. In other situations, you'll need a visa.
+* The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/en/ees) starts on 12 October for all non-EU nationals, including Australians, travelling in or out of the Schengen Area. Read more in our full advice.
+* Belgium has also introduced additional entry checks until December 2025. Checks may be carried out on major roads leading into Belgium, motorway car parks, international bus and train services and intra-Schengen flights. This may involve verifying travel documents, identification and screening for illegal substances. In Belgium, you must carry your passport with you at all times.
+* There are also temporary border controls in place to travel into France, Germany and the Netherlands from Belgium. Check the entry requirements for [France](https://www.smartraveller.gov.au/destinations/europe/france), [Germany](https://www.smartraveller.gov.au/destinations/europe/germany) and the [Netherlands](/destinations/europe/netherlands "Netherlands") before you travel.
 * General strikes occur often in Belgium and may cause significant travel disruption across the country. Monitor local media and check with your travel provider for potential delays.
-* Belgium is a part of the [Schengen area](/before-you-go/the-basics/schengen "Visas and entry requirements in Europe and the Schengen Area"), along with many other European countries, meaning you can enter Belgium without a visa in some cases. In other situations, you'll need a visa.
-* The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area is expected to start in October 2025.
 * Entry and exit conditions can change at short notice. Contact the nearest Belgian embassy or consulate for the latest details.
 
 Full travel advice: [Travel](#travel)

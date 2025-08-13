@@ -2,7 +2,7 @@
 
 Latest update
 
-We continue to advise exercise normal safety precautions in Slovenia. Entry and exit conditions can change at short notice (see 'Travel').
+The new European Entry/Exit System (EES) starts on 12 October for all non-EU nationals, including Australians, travelling in or out of the Schengen Area. You’ll need to register at borders and have your fingerprint and photo taken. There may be longer border queues (see ‘Travel’).
 
 Advice Level summary
 
@@ -45,8 +45,8 @@ Full travel advice: [Local laws](#local-laws)
 
 ### Travel
 
-* Slovenia is part of the [Schengen area](/before-you-go/the-basics/schengen "Visas and entry requirements in Europe and the Schengen Area"). This means you can enter Slovenia without a visa in some cases.
-* The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area is expected to start in October 2025.
+* Slovenia is a part of the [Schengen area](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.smartraveller.gov.au%2Fbefore-you-go%2Fthe-basics%2Fschengen&data=05%7C02%7Ctravel.advice%40dfat.gov.au%7C509ca38abddc42e08b6008ddd968ac5f%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638905765779227641%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=xKxvh8LHp5bwaufnBpSmXNIQuuXQbcgQEs2Yi8uWoek%3D&reserved=0) which means you can enter Slovenia without a visa in some cases. In other situations, you'll need a visa.
+* The new [European Entry/Exit System (EES)](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftravel-europe.europa.eu%2Fen%2Fees&data=05%7C02%7Ctravel.advice%40dfat.gov.au%7C509ca38abddc42e08b6008ddd968ac5f%7C9b7f23b30e8347a58a40ffa8a6fea536%7C0%7C0%7C638905765779249242%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=d6RQbbGH4qXBzvJz%2BL6D6jO4ze%2F%2FgzRL08iKw8i53QY%3D&reserved=0) starts on 12 October for all non-EU nationals, including Australians, travelling in or out of the Schengen Area. Read more in our full advice.
 * Entry and exit conditions can change at short notice. Contact the nearest [embassy or consulate of Slovenia](https://protocol.dfat.gov.au/Public/Missions/181) for details about visas, currency, customs and quarantine rules. Ensure that you meet all entry and exit conditions. The Australian government cannot assist you if you don't.
 
 Full travel advice: [Travel](#travel)

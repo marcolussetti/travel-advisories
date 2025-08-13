@@ -2,6 +2,8 @@
 
 Latest update
 
+The new European Entry/Exit System (EES) starts on 12 October for all non-EU nationals, including Australians, travelling in or out of the Schengen Area. You'll need to register at borders and have your fingerprint and photo taken. There may be longer border queues (see 'Travel').  
+  
 There's temporary border checks at Lithuania’s borders with Poland in place. Entry and exit conditions can change at short notice. Monitor border conditions by checking local information and directly with transport providers (see 'Travel').
 
 Advice Level summary
@@ -46,8 +48,8 @@ Full travel advice: [Local laws](#local-laws)
 
 ### Travel
 
-* Lithuania is part of the [Schengen area,](/before-you-go/the-basics/schengen "Visas and entry requirements in Europe and the Schengen Area") meaning you can enter without a visa in some cases. In other situations, you'll need to get a visa.
-* The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area is expected to start in October 2025.
+* Lithuania is a part of the [Schengen area](/before-you-go/basics/visas-and-entry-requirements-europe-and-schengen-area "Visas and entry requirements in Europe and the Schengen Area"), which means you can enter Lithuania without a visa in some cases. In other situations, you'll need a visa.
+* The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/en/ees) starts on 12 October for all non-EU nationals, including Australians, travelling in or out of the Schengen Area. Read more in our full advice.
 * From 7 July, temporary border checks entering Lithuania’s borders with Poland are in place. Entry requirements can change at short notice. See the website of the [Consular Information Ministry of Foreign Affairs of the Republic of Lithuania](https://keliauk.urm.lt/en/entry-to-lithuania) for the latest entry information.
 * Rules apply to children who live in Lithuania and are travelling alone, with an unrelated adult and in some instances, with one parent. A consent letter from at least one parent is required.
 

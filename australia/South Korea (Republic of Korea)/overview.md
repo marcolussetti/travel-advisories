@@ -2,6 +2,8 @@
 
 Latest update
 
+Australia has been designated by the ROK health authorities as a ‘Quarantine Inspection Required Area’ due to the presence of dengue fever. If you show symptoms of illness, you'll need to register on the Korean Q-code system or complete a health questionnaire form on arrival in South Korea (see ‘Travel’).  
+  
 Avoid demonstrations and large public gatherings. Be prepared to change your travel plans in case of traffic or other disruptions. Monitor the media for updates and follow the advice of local authorities (see 'Safety').
 
 Advice Level summary
@@ -59,7 +61,8 @@ Full travel advice: [Local laws](#local-laws)
 ### Travel
 
 * Australian passport holders can visit South Korea as tourists for stays of up to 90 days without applying for a K-ETA (or visa waiver) until 31 December 2025. Previously approved K-ETA applications will remain valid up to the granted expiry date. Visit the official [K-ETA website](https://www.k-eta.go.kr/)for more information.
-* If you have visited countries designated as 'quarantine inspection required areas' for cholera, polio, plague, Middle East Respiratory Syndrome (MERS), or Avian Influenza Human Infection, you may be required to register on the [Korean Q-code system](https://qcode.kdca.go.kr/qco/index.do?lang=en) before arrival or complete a health questionnaire on arrival in South Korea. Further information on 'Quarantine Inspection Required Areas' is available on the '[Notices](https://qcode.kdca.go.kr/qco/index.do?lang=en)' page. Check with the South Korean embassy or consulate for the latest requirements for Australians.
+* If you're arriving from 'Quarantine Inspection Required Areas' (including Australia) and show symptoms of illness, you'll need to register on the [Korean Q-code system](https://qcode.kdca.go.kr/qco/index.do?lang=en) before arrival or complete a health questionnaire on arrival in South Korea.
+* Further information on quarantine areas and requirements is available on the ROK '[Notices](https://qcode.kdca.go.kr/qco/index.do?lang=en)' page. Check with the ROK embassy or consulate for the latest requirements.
 * Entry and exit conditions can change at short notice. You should contact the nearest [South Korean embassy or consulate](https://protocol.dfat.gov.au/Public/Missions/105) for the latest details.
 
 Full travel advice: [Travel](#travel)

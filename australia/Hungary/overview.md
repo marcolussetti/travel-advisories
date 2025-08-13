@@ -2,6 +2,8 @@
 
 Latest update
 
+The new European Entry/Exit System (EES) starts on 12 October for all non-EU nationals, including Australians, travelling in or out of the Schengen Area. You’ll need to register at borders and have your fingerprint and photo taken. There may be longer border queues (see ‘Travel’).  
+  
 Hungary has passed legislation that could provide a legal basis to ban LGBTQIA+ Pride events, including the Budapest Pride. Authorities can use facial recognition technology to identify and fine anyone who takes part in illegal or banned demonstrations.
 
 Advice Level summary
@@ -47,8 +49,8 @@ Full travel advice: [Local laws](#local-laws)
 
 ### Travel
 
-* Hungary is part of the [Schengen area](/before-you-go/the-basics/schengen "Visas and entry requirements in Europe and the Schengen Area"). This means that, in some cases, you can enter Hungary without a visa. Otherwise, you'll need to get a visa before you travel.
-* The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area is expected to start in October 2025.
+* Hungary is a part of the [Schengen area](/node/424) which means you can enter Hungary without a visa in some cases. In other situations, you'll need a visa.
+* The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/en/ees) starts on 12 October for all non-EU nationals, including Australians, travelling in or out of the Schengen Area. Read more in our full advice.
 * Entry and exit conditions can change at short notice. You should contact the nearest [embassy](https://protocol.dfat.gov.au/Public/Missions/89) or [consulate](https://protocol.dfat.gov.au/Public/Consulates/89/State) of Hungary for the latest details.
 
 Full travel advice: [Travel](#travel)

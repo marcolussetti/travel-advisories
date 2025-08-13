@@ -2,6 +2,8 @@
 
 Latest update
 
+The new European Entry/Exit System (EES) starts on 12 October for all non-EU nationals, including Australians, travelling in or out of the Schengen Area. You’ll need to register at borders and have your fingerprint and photo taken. There may be longer border queues (see ‘Travel’).  
+  
 There's an ongoing threat of terrorism in Austria. There have been terrorist attacks and arrests relating to planned attacks. Most recently, there was an attack in Villach in February 2025. Be vigilant in public places and follow the advice of local authorities. Report anything suspicious to the police.
 
 Advice Level summary
@@ -46,8 +48,8 @@ Full travel advice: [Local laws](#local-laws)
 
 ### Travel
 
-* Austria is part of the [Schengen area](/before-you-go/the-basics/schengen "Visas and entry requirements in Europe and the Schengen Area"), meaning you can enter the country without a visa in some cases.
-* The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area is expected to start in October 2025.
+* Austria is a part of the [Schengen area](/before-you-go/basics/visas-and-entry-requirements-europe-and-schengen-area "Visas and entry requirements in Europe and the Schengen Area") which means you can enter Austria without a visa in some cases. In other situations, you'll need a visa.
+* The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/en/ees) starts on 12 October for all non-EU nationals, including Australians, travelling in or out of the Schengen Area. Read more in our full advice.
 * Entry and exit conditions can change at short notice. Contact the nearest [embassy](https://protocol.dfat.gov.au/Public/Missions/16) or consulate of Austria for the latest details.  Ensure that you meet all entry and exit conditions. The Australian government can't assist you if you don't.
 
 Full travel advice: [Travel](#travel)

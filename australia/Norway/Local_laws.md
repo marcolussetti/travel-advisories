@@ -6,7 +6,7 @@ You're subject to all local laws and penalties, including those that may appear 
 
 If you're arrested or jailed, the Australian Government will do what it can to help you under our [Consular Services Charter](/consular-services/consular-services-charter "Consular Services Charter"). But we can't get you out of trouble or out of jail.
 
-If you break the law in Norway, you may be banned from the [Schengen area](/before-you-go/the-basics/schengen "Visas and entry requirements in Europe and the Schengen Area") for up to 10 years or permanently.
+If you break the law in Norway, you may be banned from the [Schengen area](/before-you-go/basics/visas-and-entry-requirements-europe-and-schengen-area "Visas and entry requirements in Europe and the Schengen Area") for up to 10 years or permanently.
 
 **More information:**
 

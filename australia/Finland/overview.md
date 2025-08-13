@@ -2,7 +2,7 @@
 
 Latest update
 
-We’ve reviewed our advice for Finland and continue to advise exercise normal safety precautions overall. All land border crossings with Russia are closed indefinitely (see 'Travel').
+The new European Entry/Exit System (EES) starts on 12 October for all non-EU nationals, including Australians, travelling in or out of the Schengen Area. You’ll need to register at borders and have your fingerprint and photo taken. There may be longer border queues (see ‘Travel’).
 
 Advice Level summary
 
@@ -45,8 +45,8 @@ Full travel advice: [Local laws](#local-laws)
 
 ### Travel
 
-* Finland is part of the [Schengen area](/before-you-go/the-basics/schengen "Visas and entry requirements in Europe and the Schengen Area"). In some situations, this lets you enter Finland without a visa.
-* The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/ees_en) for all non-EU nationals, including Australians, travelling in or out of the Schengen Area is expected to start in October 2025.
+* Finland is a part of the [Schengen area](/node/424)which means you can enter Finland without a visa in some cases. In other situations, you'll need a visa.
+* The new [European Entry/Exit System (EES)](https://travel-europe.europa.eu/en/ees) starts on 12 October for all non-EU nationals, including Australians, travelling in or out of the Schengen Area. Read more in our full advice.
 * Entry and exit conditions can change at short notice. Contact the nearest [embassy or consulate of Finland](https://protocol.dfat.gov.au/Public/Missions/69) for the latest details.
 * Finland has closed land border crossings with [Russia](/destinations/europe/russia "Russia") indefinitely. Maritime crossing points in the Eastern Gulf of Finland are closed. The border crossing points for maritime traffic at Haapasaari, the port of Nuijamaa and Santio are closed to leisure boating. The train service between St Petersburg and Helsinki is suspended. Public transport services between Finland and Russia have been suspended.
 
