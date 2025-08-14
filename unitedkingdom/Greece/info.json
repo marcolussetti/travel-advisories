@@ -1,11 +1,11 @@
 {
     "name": "Greece",
-    "update_reason": "Updated information on new Schengen entry requirements being introduced from 12 October ('Entry requirements' page)",
+    "update_reason": "Updated information about emergency alerts and preparedness in Greece ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Greece/Warnings and insurance.md",
-            "update_date": "2025-07-30T15:03:11+01:00"
+            "update_date": "2025-08-13T16:11:04+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Greece/Getting help.md"
         }
     ],
-    "update_date": "2025-07-30T15:03:11+01:00"
+    "update_date": "2025-08-13T16:11:04+01:00"
 }

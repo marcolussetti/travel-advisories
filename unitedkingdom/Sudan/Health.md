@@ -37,10 +37,9 @@ See [what health risks you’ll face in Sudan](https://travelhealthpro.org.uk/c
 * cholera
 * malaria
 * yellow fever
+* dengue
 
 TravelHealthPro has more information on [malaria in Sudan](https://www.travelhealthpro.org.uk/country/212/sudan#Malaria).
-
-There is an ongoing cholera outbreak in Sudan, made worse by the impact of the conflict on health services. Take care with personal, food and water hygiene.
 
 ### Other health risks
 

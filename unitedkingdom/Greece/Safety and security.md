@@ -114,16 +114,6 @@ It is illegal to approach or take photos or videos of military installations, ve
 
 ## Outdoor activities and adventure tourism
 
-### UEFA Champions League
-
-Athens will host [Panathinaikos vs Rangers in the UEFA Champions League](https://www.uefa.com/uefachampionsleague/match/2045396--panathinaikos-vs-rangers/) on Wednesday 30th July. If you are travelling to Athens for the match, you should:
-
-* plan your movement around the city to arrive at the stadium well in advance of the match kick-off
-* follow the instructions of the local authorities
-* take care of your personal possessions including passports, especially in crowds and on public transport
-
-Further information can be found on [Rangers FC official website](https://www.rangers.co.uk/).
-
 ### Music festivals
 
 Take extra care of your valuables at festivals or large concerts. Read the [festivals in Europe travel checklist](https://www.gov.uk/guidance/festival-travel-checklist) for more advice.
@@ -199,11 +189,13 @@ When walking roadside, take care when crossing the road and if possible use a pe
 
 ### Emergency alerts and preparedness
 
-Greece can experience extreme natural phenomena such as earthquakes, wildfires, extreme heat and flash floods. To be alerted to events near where you are located in Greece, register for alerts from the [Greek government’s Emergency Communication Service](https://civilprotection.gov.gr/en)) (in English):
+Greece can experience extreme natural phenomena such as earthquakes, wildfires, extreme heat and flash floods. To be alerted to events near where you are located in Greece, make sure your mobile phone is set to allow emergency alerts. For instructions on how to do this see:
 
 * for iPhones go to Settings > Notifications and enable the ‘Emergency Alerts’ option at the bottom
 * for Android 11 and higher go to Settings > Notifications > Advanced Settings > Wireless Emergency Alerts
 * for Samsung devices go to Settings > Apps > Messages > Notifications > Emergency Notifications and enable the ‘Emergency Alerts’ option
+
+This will allow the [Greek government’s Emergency Communication Service](https://civilprotection.gov.gr/en) alerts to reach you. Always keep your phone with you as you will receive alerts according to the location of your phone.
 
 Consider preparing a grab bag with essentials such as:
 
@@ -245,8 +237,6 @@ Be cautious if you are in or near an area affected by wildfires:
 For further information, see Greece’s [Civil Protection website](http://civilprotection.gr/en/forest-fires) (in Greek).
 
 ### Earthquakes
-
-The area around the Cycladic islands of Santorini (Thira), Anafi, Ios and Amorgos, experienced increased earthquake activity in early 2025. This increase has since subsided and the tourist season is expected to continue as usual.
 
 There is a risk of earthquakes and earth tremors in Greece. You should:
 

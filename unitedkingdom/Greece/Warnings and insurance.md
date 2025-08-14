@@ -1,17 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   31 July 2025
+:   14 August 2025
 
 Updated:
-:   30 July 2025
+:   13 August 2025
 
 Latest update:
-:   Updated information on new Schengen entry requirements being introduced from 12 October ('Entry requirements' page)
+:   Updated information about emergency alerts and preparedness in Greece ('Safety and security' page).
 
 ## Wildfires in Greece
 
-There is a high risk of wildfires during the summer season from April to October. For advice, visit the wildfires section on the [Safety and security page](https://www.gov.uk/foreign-travel-advice/greece/safety-and-security).
+There is a high risk of wildfires during the summer season from April to October. For advice, visit the wildfires section on the [Safety and security page](https://www.gov.uk/foreign-travel-advice/greece/safety-and-security#wildfires).
 
 ## Before you travel
 

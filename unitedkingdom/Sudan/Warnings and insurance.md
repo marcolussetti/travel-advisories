@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   8 May 2025
+:   14 August 2025
 
 Updated:
-:   7 May 2025
+:   13 August 2025
 
 Latest update:
-:   Addition of information that the only civilian airport operating international flights, Port Sudan Airport, is subject to drone attacks and at risk of intermittent closure ('Warnings and insurance' and 'Safety and security' page).
+:   Updated information on health risks in Sudan (‘Health’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/672a3fc8f03408fa7966d186/FCDO__TA__038_-_Sudan_Travel_Advice_Ed8__WEB_.jpg)
 
@@ -22,7 +22,7 @@ FCDO advises against all travel to Sudan because of the ongoing military confl
 
 There have been several ceasefires, but these have been regularly broken.
 
-Khartoum International Airport is closed. The only civilian airport operating international flights is Port Sudan Airport, however this is subject to drone attacks and the risk of intermittent closure is high.
+Khartoum International Airport is closed. The only civilian airport operating international flights is Port Sudan Airport, however it was subject to drone attacks in early May. Since then, no new strikes have been reported, but surveillance drone activity has continued. A limited number of airlines are currently operating from the airport.
 
 Monitor travel advice and other media reports for the latest information.
 
