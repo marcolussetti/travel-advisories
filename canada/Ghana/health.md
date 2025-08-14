@@ -6,7 +6,7 @@
 
 * [Measles: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/504) - 12 May, 2025
 * [COVID-19 and International Travel](https://travel.gc.ca/travelling/health-safety/travel-health-notices/513) - 12 May, 2025
-* [Polio: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/508) - 2 July, 2025
+* [Polio: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/508) - 13 August, 2025
 
 This section has information and advice about health risks you might face when travelling. Following this advice can help reduce your risk of getting sick. Not all risks are listed here.
 
@@ -57,22 +57,6 @@ Travellers get vaccinated either because it is required to enter a country or be
 
 [Yellow Fever Vaccination Centres in Canada](https://www.canada.ca/en/public-health/services/travel-health/yellow-fever.html#select-centre)  
 \* It is important to note that [country entry requirements](https://www.who.int/publications/m/item/vaccination-requirements-and-recommendations-for-international-travellers-and-malaria-situation-per-country-2022-edition "Link to External Site") may not reflect your risk of yellow fever at your destination. It is recommended that you contact the nearest [diplomatic or consular office](http://www.international.gc.ca/protocol-protocole/reps.aspx?view=d "Link to External Site") of the destination(s) you will be visiting to verify any additional entry requirements.
-
-Measles 
-
-Measles is a serious viral infection that spreads easily. It spreads through the air, and can stay in the air for up to 2 hours. You can also get measles by direct contact with an infected person or by touching a surface with the virus on it and then touching your eyes, nose, or mouth before washing your hands.
-
-Getting vaccinated is the best way to protect yourself and others from measles. In Canada, the measles vaccine is part of the routine immunization schedule. If you’re unsure whether you’re protected, talk to a healthcare provider.
-
-**Learn more:**
-
-[Measles](https://www.canada.ca/en/public-health/services/diseases/measles.html)
-
-Hepatitis B
-
-[Hepatitis B](https://www.canada.ca/en/public-health/services/diseases/hepatitis-b.html) is a risk in every destination. It is a viral liver disease that is easily transmitted from one person to another through exposure to blood and body fluids containing the hepatitis B virus.  Travellers who may be exposed to blood or other bodily fluids (e.g., through sexual contact, medical treatment, sharing needles, tattooing, acupuncture or occupational exposure) are at higher risk of getting hepatitis B.
-
-Hepatitis B vaccination is recommended for all travellers. [Prevent hepatitis B](https://www.canada.ca/en/public-health/services/diseases/hepatitis-b/prevention-risks.html#a2) infection by practicing safe sex, only using new and sterile drug equipment, and only getting tattoos and piercings in settings that follow public health regulations and standards.
 
 Influenza
 
@@ -129,6 +113,22 @@ Polio is spread from person to person and through contaminated food and water. I
 
 * Be sure that your polio vaccinations are up to date before travelling. Polio is part of the [routine vaccine schedule](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-1-key-immunization-information/page-13-recommended-immunization-schedules.html#p1c12a2) for children in Canada.
 * One booster dose of the polio vaccine is recommended as an [adult](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-3-vaccination-specific-populations/page-9-immunization-travellers.html#a3).
+Measles 
+
+Measles is a serious viral infection that spreads easily. It spreads through the air, and can stay in the air for up to 2 hours. You can also get measles by direct contact with an infected person or by touching a surface with the virus on it and then touching your eyes, nose, or mouth before washing your hands.
+
+Getting vaccinated is the best way to protect yourself and others from measles. In Canada, the measles vaccine is part of the routine immunization schedule. If you’re unsure whether you’re protected, talk to a healthcare provider.
+
+**Learn more:**
+
+[Measles](https://www.canada.ca/en/public-health/services/diseases/measles.html)
+
+Hepatitis B
+
+[Hepatitis B](https://www.canada.ca/en/public-health/services/diseases/hepatitis-b.html) is a risk in every destination. It is a viral liver disease that is easily transmitted from one person to another through exposure to blood and body fluids containing the hepatitis B virus.  Travellers who may be exposed to blood or other bodily fluids (e.g., through sexual contact, medical treatment, sharing needles, tattooing, acupuncture or occupational exposure) are at higher risk of getting hepatitis B.
+
+Hepatitis B vaccination is recommended for all travellers. [Prevent hepatitis B](https://www.canada.ca/en/public-health/services/diseases/hepatitis-b/prevention-risks.html#a2) infection by practicing safe sex, only using new and sterile drug equipment, and only getting tattoos and piercings in settings that follow public health regulations and standards.
+
 COVID-19
 
 COVID-19 is an infectious viral disease. Most of the time, it spreads when people are in close contact with others who are infected with the virus. It spreads through respiratory particles, or through an infected surface or object.
@@ -253,14 +253,6 @@ To reduce your risk of getting sick:
 
 Make sure to closely watch children; they are more likely to try to touch animals.
 
-Lassa fever 
-
-Lassa fever is a risk in this country.
-
-Lassa fever is caused by a virus carried by rodents. Humans get sick when they inhale or come into close contact with feces, saliva, or urine of infected rodents or the blood or bodily fluids of infected humans.
-
-Lassa virus can be very serious. Avoid rodents and rodent-infested areas.
-
 Mpox
 
 [Mpox (monkeypox)](https://www.canada.ca/en/public-health/services/diseases/mpox.html) is a risk in this country. It is a viral disease that can cause serious illness in some circumstances. Risk is generally low for most travellers.
@@ -290,6 +282,14 @@ Travellers with a higher risk of exposure include those:
 * working with wild mammals, especially those that eat wild birds (e.g., foxes)
 
 All eligible people are encouraged to get the seasonal influenza shot, which will protect them against human influenza viruses. While the seasonal influenza shot does not prevent infection with avian influenza, it can reduce the chance of getting sick with human and avian influenza viruses at the same time.
+
+Lassa fever 
+
+Lassa fever is a risk in this country.
+
+Lassa fever is caused by a virus carried by rodents. Humans get sick when they inhale or come into close contact with feces, saliva, or urine of infected rodents or the blood or bodily fluids of infected humans.
+
+Lassa virus can be very serious. Avoid rodents and rodent-infested areas.
 
 ### Person-to-person infections
 

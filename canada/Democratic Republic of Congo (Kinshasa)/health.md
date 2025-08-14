@@ -5,7 +5,7 @@
 ### Relevant Travel Health Notices
 
 * [Measles: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/504) - 12 May, 2025
-* [Polio: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/508) - 2 July, 2025
+* [Polio: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/508) - 13 August, 2025
 * [COVID-19 and International Travel](https://travel.gc.ca/travelling/health-safety/travel-health-notices/513) - 12 May, 2025
 * [Mpox: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/515) - 30 June, 2025
 

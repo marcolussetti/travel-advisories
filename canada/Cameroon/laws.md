@@ -88,7 +88,7 @@ To drive in Cameroon you must have an International Driving Permit along your va
 
 If you intend to stay in Cameroon for more than one year, you will require a Cameroonian driver’s licence. To obtain a Cameroonian driver's licence, you are required to present your Canadian driver’s licence to the Delegation of Public Transport in your town of residence.
 
-Traffic accidents can quickly draw large crowds. Remain calm if there is a dispute, particularly in a public place. If threatened by a large crowd, ask local police to intervene.
+Traffic accidents can quickly draw large crowds. Remain calm if there is a dispute, particularly in a public place. If you feel threatened by a large crowd, ask the local police to intervene.
 
 [International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
 

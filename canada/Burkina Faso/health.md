@@ -121,11 +121,9 @@ Before travel, discuss rabies vaccination with a health care professional. It ma
 
 Polio 
 
-The World Health Organization (WHO), at the time of their last report, identified this country as no longer poliovirus-infected, but as having been previously infected within the last 24 months.
+[Polio](https://travel.gc.ca/travelling/health-safety/diseases/polio) (poliomyelitis) is an infectious disease that can be prevented by vaccination. It is caused by poliovirus type 1, 2 or 3. Circulating vaccine-derived poliovirus 2 (cVDPV2) is present in this country.
 
-[Polio](https://travel.gc.ca/travelling/health-safety/diseases/polio) is spread from person to person and through contaminated food and water. Infection with polio virus can cause paralysis and death in individuals of any age who are not immune.
-
-Polio can be preventeed by vaccination.
+Polio is spread from person to person and through contaminated food and water. Infection with the polio virus can cause paralysis and death in individuals of any age who are not immune.
 
 **Recommendations:**
 
