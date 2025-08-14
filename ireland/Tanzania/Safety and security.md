@@ -1,14 +1,22 @@
 ## Safety and security
 
-### **Terrorism and Political Unrest**
+### **Political Situation**
 
-The political situation in Tanzania is reasonably stable but terrorist incidents, including the 1998 bombing of the U.S. Embassies in Dar es Salaam and Nairobi, as well as occasional attacks by extremists on police stations and mosques, among other targets, highlight the threat posed by terrorism in East Africa and underscore the capacity of terrorist groups to carry out such attacks against foreign nationals.
+General elections are scheduled to take place in Tanzania on 29 October 2025, with early voting in Zanzibar on 28 October 2025.
+
+Recent elections in Tanzania (particularly on the islands of Zanzibar) have turned violent and resulted in some fatalities, as have demonstrations and political gatherings. Police may use tear gas and/or live ammunition for crowd control.
+
+Avoid all demonstrations, rallies, and large crowds and keep up to date with local and international events.
+
+If visitors become aware of any nearby protests, leave the area immediately and monitor our travel advice, and social and local media for up-to-date information. Access to some social media platforms may be restricted during the electoral period.
+
+### **Terrorism**
+
+Barring unrest during the election period, the political situation in Tanzania is reasonably stable but terrorist incidents, including the 1998 bombing of the U.S. Embassies in Dar es Salaam and Nairobi, as well as occasional attacks by extremists on police stations and mosques, among other targets, highlight the threat posed by terrorism in East Africa and underscore the capacity of terrorist groups to carry out such attacks.
 
 Extremists linked to the Islamic terrorist group Al-Shabaab based in Somalia pose a threat across the east Africa region, and are thought to be active in Tanzania. However, many security incidents in Tanzania are of unclear origin and may be conducted by criminal gangs. Most attacks of this nature target the local security forces, although attacks against foreign nationals cannot be ruled out.
 
 Be vigilant at all times, especially in crowded areas and public places like transport hubs, hotels, restaurants and bars, and during major gatherings like sporting or religious events, as attacks could be indiscriminate, including in places visited by foreign nationals.
-
-Demonstrations and political rallies happen occasionally across Tanzania (including on the islands of Unguja (Zanzibar) and Pemba). Some have turned violent and resulted in fatalities. Police may use tear gas and/or live ammunition for crowd control. Keep up to date with local and international events and avoid all demonstrations and large gatherings. If visitors become aware of any nearby protests, leave the area immediately and monitor our travel advice, X and local media for up-to-date information.
 
 ### **Mtwara and Border with Mozambique**
 

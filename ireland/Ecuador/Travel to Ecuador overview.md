@@ -129,7 +129,7 @@ For more information on visas and passports, please see the **Entry Requirements
 
 Citizens can also follow the Irish Embassy in Chile on [**X**](https://twitter.com/irlembchile) to ensure access to relevant updates and alerts or a family emergency.
 
-**Our Tips for Safe Travels:**
+### **Our Tips for Safe Travels:**
 
 * Get comprehensive travel insurance that covers all your planned activities.
 * [**Register**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/) your details with us so that we can contact you quickly if there’s an unforeseen crisis like a natural disaster or a family emergency.

@@ -1,6 +1,6 @@
 ## Travel to Tanzania overview
 
-### **Security status**
+### **Security Status**
 
 High Degree of Caution
 
