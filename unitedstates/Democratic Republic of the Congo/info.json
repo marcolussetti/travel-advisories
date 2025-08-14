@@ -1,13 +1,13 @@
 {
     "name": "Democratic Republic of the Congo",
-    "risk_level": "Level 4: Do Not Travel",
-    "risk_level_number": 4,
+    "risk_level": "Level 3: Reconsider Travel",
+    "risk_level_number": 3,
     "pages": [
         {
             "title": "Advisory",
             "file": "unitedstates/Democratic Republic of the Congo/Advisory.md"
         }
     ],
-    "update_date_advisory": "2025-01-29T00:00:00",
+    "update_date_advisory": "2025-08-12T00:00:00",
     "update_date_details": null
 }

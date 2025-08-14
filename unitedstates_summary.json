@@ -245,11 +245,11 @@
     {
         "destination": "Brazil",
         "risk_level": "Level 2: Exercise Increased Caution",
-        "last_updated_advisory": "2025-08-08T00:00:00",
+        "last_updated_advisory": "2025-05-29T00:00:00",
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/brazil-travel-advisory.html",
         "risk_level_number": 2,
         "country_info_url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Brazil.html",
-        "last_updated_country_details": "2025-08-11T00:00:00"
+        "last_updated_country_details": "2025-06-04T00:00:00"
     },
     {
         "destination": "British Virgin Islands",
@@ -469,10 +469,10 @@
     },
     {
         "destination": "Democratic Republic of the Congo",
-        "risk_level": "Level 4: Do Not Travel",
-        "last_updated_advisory": "2025-01-29T00:00:00",
+        "risk_level": "Level 3: Reconsider Travel",
+        "last_updated_advisory": "2025-08-12T00:00:00",
         "advisory_details_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/democratic-republic-of-the-congo-travel-advisory.html",
-        "risk_level_number": 4,
+        "risk_level_number": 3,
         "country_info_url": null,
         "last_updated_country_details": null
     },
