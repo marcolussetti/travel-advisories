@@ -99,9 +99,7 @@ If you intend to travel to the West Bank:
 
 ### Travel to and from Gaza Strip
 
-The Erez border crossing, controlled by Israel, is currently closed. There are no options other than the Rafah border crossing, controlled by Egypt, to enter or exit the Gaza Strip.
-
-Due to the ongoing conflict, entry to and exit from the Gaza Strip is currently extremely limited.
+The Erez border crossing, controlled by Israel, is currently closed. The Rafah border crossing, controlled by both Egypt and Israel, has been closed since May 2024. Due to the ongoing conflict, entry to and exit from the Gaza Strip is extremely limited.
 
 ### Travel to and from Jordan
 
