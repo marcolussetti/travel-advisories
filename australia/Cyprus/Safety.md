@@ -10,7 +10,7 @@ The self-proclaimed 'Turkish Republic of Northern Cyprus' (TRNC) controls northe
 
 The United Kingdom retains sovereignty over 2 Sovereign Base Areas (SBAs) on the island. Together, the two SBAs cover 3% of Cyprus's land area.
 
-The Republic of Cyprus is a full European Union (EU) member. The entire island is regarded as part of the EU, but Cypriot and EU law is suspended in the areas not controlled by the Government of Cyprus.
+The Republic of Cyprus is a full European Union (EU) member. The entire island is regarded as part of the EU, but Cypriot and EU law is suspended in the areas not controlled by the Government of the Republic of Cyprus.
 
 Be aware of the political sensitivity of the division of the island. Monitor local news for updates.
 
@@ -26,7 +26,7 @@ It's illegal on either side of the UN Buffer Zone in south and north Cyprus to:
 * Take photos within the UN Buffer Zone.
 * Capture images in any designated military area.
 
-Adhere to 'no photography' signs. Police in both regions strictly enforce these rules.
+Adhere to 'no photography' signs. Police in all areas strictly enforce these rules.
 
 #### Violent incidents
 
@@ -53,7 +53,7 @@ To stay safe:
 
 #### Petty crime
 
-Bag-snatching, pickpocketing and petty theft happen, particularly in urban and tourist areas.
+Bag-snatching, pickpocketing and petty theft happen, particularly in urban and tourist areas including beaches.
 
 To reduce your risk of petty crime:
 
@@ -159,7 +159,7 @@ If you plan to do an [adventure activity](/before-you-go/activities/adventure "
 
 If proper safety equipment isn't available, use another provider.
 
-Some operators may ask for your passport as a deposit or guarantee for equipment hire. [Passports](/consular-services/passport-services "Passport services") are valuable documents. Never give your passport as a deposit or guarantee.
+Some operators may ask for your passport as a deposit or guarantee for equipment hire including vehicle rental. [Passports](/consular-services/passport-services "Passport services") are valuable documents. Never give your passport as a deposit or guarantee as these may be retained preventing travel.
 
 #### Climate and natural disasters
 

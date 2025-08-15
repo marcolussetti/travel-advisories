@@ -12,15 +12,15 @@ Depending on what you need, contact your:
 
 #### Fire and rescue services
 
-Call 112.
+Call 112/119.
 
 #### Medical emergencies
 
-Call 112.
+Call 112/119.
 
 #### Police
 
-Call 199.
+Call 112/199.
 
 #### All emergencies in northern Cyprus
 

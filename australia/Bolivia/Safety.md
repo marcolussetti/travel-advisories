@@ -2,6 +2,10 @@
 
 #### Civil unrest and political tension
 
+General elections will take place in Bolivia on 17 August. There will be no public transport from 17 to 18 August. Private transport will be limited. Restrictions include transport to and from the airports. 
+
+Alcohol drinking and large gatherings will not be allowed from 15 to 18 August. Penalties for breaching these rules can include imprisonment.
+
 Protest activity will likely increase in the lead-up to the 17 August election and in the post-election period. If no candidate secures a first round majority a second round will be held on 19 October. Political and civil tensions are ongoing, and events can be unpredictable. Large-scale political demonstrations, protests and events can occur and escalate violently with little warning. Authorities may use tear gas and force to control protests. Strikes and demonstrations may disrupt local and international travel.
 
 Roadblocks set up by protesters are common and unpredictable. They can disrupt transport at very short notice and strand travellers. Take extra food, water, medication, warm clothing and cash with you. Don't cross roadblocks, even if they appear unattended, as doing so may lead to violence. 

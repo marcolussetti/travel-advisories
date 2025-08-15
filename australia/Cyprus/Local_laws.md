@@ -53,7 +53,7 @@ It's illegal in both parts of Cyprus to:
 
 If you plan to [get married](/before-you-go/activities/marriage "Getting married overseas") in Cyprus, check the legal requirements with the local municipality where your wedding will take place before you travel.
 
-Cypriot authorities will not accept Certificates of No Impediment to Marry (CNI) issued outside Australia, including those issued by the Australian High Commission in Nicosia.
+Cypriot authorities will not accept Certificates of No Impediment to Marry (CNI) issued outside Australia.
 
 **More information:**
 
@@ -70,7 +70,7 @@ Due to possible legal complications, Australians considering surrogacy in Cyprus
 
 Surrogacy in the Republic of Cyprus is highly regulated and subject to strict conditions. Be aware that non-compliance with Cypriot laws on surrogacy could lead to criminal penalties. Before proceeding, seek independent legal advice on both Australian and Cypriot laws.
 
-#### Surrogacy in the north (the area not controlled by the Republic of Cyprus)
+#### Surrogacy in the north (the area not controlled by the Government of the Republic of Cyprus)
 
 You should avoid pursuing surrogacy arrangements in northern Cyprus. Intending parents should be aware that there is a high level of risk involved and that there are public concerns about human rights abuses, sexual exploitation, criminal networks, and a lack of adequate legal protections for all parties involved. Additionally, the Australian High Commission's ability to assist Australian citizens in northern Cyprus is limited.
 

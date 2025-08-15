@@ -18,6 +18,7 @@ Entry and exit conditions can change at short notice. Contact the nearest embass
 
 * [Ministry of Foreign Affairs](https://mfa.gov.cy/) (Cyprus)
 * [Ministry of Interior](https://www.moi.gov.cy/)(Cyprus)
+* [Visas - Gov.cy](https://www.gov.cy/en/information/visas/)
 
 #### Sea Travel
 
@@ -30,7 +31,7 @@ The only legal entry to Cyprus is through:
 * the airports of Larnaca and Paphos
 * the seaports of Larnaca, Limassol, Latsi and Paphos
 
-It's illegal to enter or exit Cyprus via any air or seaport in north Cyprus (the area not under the Republic of Cyprus's control). 
+It's illegal to enter or exit Cyprus via any air or seaport in north Cyprus (the area not under the Government of the Republic of Cyprus's control). 
 
 Illegal entry ports include:
 
@@ -242,6 +243,7 @@ Theft can occur on public transport. Take care of your belongings.
 **More information:**
 
 * [Transport and getting around safely](/before-you-go/getting-around "Getting around")
+* [Visit Cyprus](https://www.visitcyprus.com/)
 
 #### Sea travel
 

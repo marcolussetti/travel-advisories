@@ -2,7 +2,7 @@
 
 Latest update
 
-We've reviewed our advice for Bolivia and continue to advise exercise a high degree of caution due to the threat of violent crime and the risk of civil unrest. Political and civil tensions are ongoing, and events can be unpredictable. Large-scale political demonstrations, protests and events can occur with little warning, which may also result in travel disruptions. Protest activity will likely increase in the lead-up to the 17 August election. Avoid demonstrations and protests. Monitor the media and follow the advice of local authorities (see 'Safety').
+We continue to advise exercise a high degree of caution in Bolivia due to the threat of violent crime and the risk of civil unrest. Political and civil tensions are ongoing, and events can be unpredictable. Large-scale political demonstrations, protests and events can occur with little warning, which may also result in travel disruptions. Protest activity will likely increase in the lead-up to the 17 August election. Avoid demonstrations and protests. Monitor the media and follow the advice of local authorities (see 'Safety').
 
 Advice Level summary
 
@@ -22,6 +22,7 @@ Exercise a high degree of caution in Bolivia due to the threat of violent crime 
 
 ### Safety
 
+* General elections will take place in Bolivia on 17 August. There will be restrictions on public and private transport on 17 and 18 August, including transport to and from airports. Alcohol drinking and large gatherings will not be allowed from 15 to 18 August. Penalties for breaching these rules can include imprisonment.
 * Protest activity will likely increase in the lead-up to the 17 August election. Political and civil tensions are ongoing, and events can be unpredictable. Large-scale political demonstrations, protests and events can occur and escalate with little warning. This may result in travel disruptions and can be violent. Avoid demonstrations and protests, monitor the media and follow the advice of local authorities
 * Civil unrest is common in Bolivia. Roadblocks, demonstrations, protests (some violent), and strikes could occur at any time. Don't cross roadblocks set up by protesters. Avoid crowds as they can become violent.
 * Violent crime, associated with drug trafficking, poses a risk in some parts of the country, particularly in the Chapare region. Take extra care in these areas.

@@ -23,7 +23,7 @@ Exercise a high degree of caution in Cyprus due to the active UN peacekeeping op
 ### Safety
 
 * A UN peacekeeping force maintains a buffer zone between northern and southern Cyprus. The Government of the Republic of Cyprus controls the southern part of the island. The self-proclaimed 'Turkish Republic of Northern Cyprus' ('TRNC') controls the northern part of the island.
-* Australia doesn't recognise the Turkish Cypriot administration in the north of Cyprus (the area not effectively controlled by the Government of Cyprus). Our ability to provide consular assistance in the northern part of Cyprus is limited.
+* Australia doesn't recognise the Turkish Cypriot administration in the north of Cyprus (the area not effectively controlled by the Government of the Republic of Cyprus). Our ability to provide consular assistance in the northern part of Cyprus is limited.
 * Violence and conflicts can occur in the UN-protected Buffer Zone, especially during public demonstrations. Avoid visiting those locations after such events, when tensions can remain high. Avoid protests.
 * Watch out for bag snatching and pickpocketing, particularly in tourist areas.
 * Cyprus experiences earth tremors and violent storms. Forest fires are common from May to October. Monitor local media for updates.
