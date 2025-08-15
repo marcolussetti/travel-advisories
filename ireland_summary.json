@@ -1,11 +1,5 @@
 [
     {
-        "destination": "Afghanistan",
-        "risk_level": "Do Not Travel",
-        "last_updated": "2025-06-04T00:00:00",
-        "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/afghanistan/"
-    },
-    {
         "destination": "Albania",
         "risk_level": "Normal Precautions",
         "last_updated": "2025-07-08T00:00:00",
@@ -96,12 +90,6 @@
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/barbados/"
     },
     {
-        "destination": "Belarus",
-        "risk_level": "Do Not Travel",
-        "last_updated": "2025-08-12T00:00:00",
-        "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/belarus/"
-    },
-    {
         "destination": "Belgium",
         "risk_level": "High Degree of Caution",
         "last_updated": "2025-08-07T00:00:00",
@@ -168,18 +156,6 @@
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/bulgaria/"
     },
     {
-        "destination": "Burkina Faso",
-        "risk_level": "Do Not Travel",
-        "last_updated": "2025-06-03T00:00:00",
-        "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/burkina-faso/"
-    },
-    {
-        "destination": "Burundi",
-        "risk_level": "Do Not Travel",
-        "last_updated": "2025-07-01T00:00:00",
-        "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/burundi/"
-    },
-    {
         "destination": "Cambodia",
         "risk_level": "Normal Precautions",
         "last_updated": "2025-07-25T00:00:00",
@@ -208,12 +184,6 @@
         "risk_level": "Normal Precautions",
         "last_updated": "2025-07-09T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/cayman-islands/"
-    },
-    {
-        "destination": "Central African Republic",
-        "risk_level": "Do Not Travel",
-        "last_updated": "2025-06-20T00:00:00",
-        "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/central-african-republic/"
     },
     {
         "destination": "Chad",
@@ -256,12 +226,6 @@
         "risk_level": "High Degree of Caution",
         "last_updated": "2025-07-16T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/congo/"
-    },
-    {
-        "destination": "Congo, Democratic Republic of (DRC)",
-        "risk_level": "Do Not Travel",
-        "last_updated": "2025-07-31T00:00:00",
-        "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/democratic-republic-of-congo/"
     },
     {
         "destination": "Cook Islands",
@@ -498,12 +462,6 @@
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/guyana/"
     },
     {
-        "destination": "Haiti",
-        "risk_level": "Do Not Travel",
-        "last_updated": "2025-07-09T00:00:00",
-        "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/haiti/"
-    },
-    {
         "destination": "Honduras",
         "risk_level": "High Degree of Caution",
         "last_updated": "2025-06-11T00:00:00",
@@ -532,18 +490,6 @@
         "risk_level": "High Degree of Caution",
         "last_updated": "2025-06-05T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/indonesia/"
-    },
-    {
-        "destination": "Iran",
-        "risk_level": "Do Not Travel",
-        "last_updated": "2025-07-25T00:00:00",
-        "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/iran/"
-    },
-    {
-        "destination": "Iraq",
-        "risk_level": "Do Not Travel",
-        "last_updated": "2025-07-16T00:00:00",
-        "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/iraq/"
     },
     {
         "destination": "Israel and the Occupied Territories",
@@ -654,12 +600,6 @@
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/liberia/"
     },
     {
-        "destination": "Libya",
-        "risk_level": "Do Not Travel",
-        "last_updated": "2025-07-04T00:00:00",
-        "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/libya/"
-    },
-    {
         "destination": "Liechtenstein",
         "risk_level": "Normal Precautions",
         "last_updated": "2025-07-09T00:00:00",
@@ -700,12 +640,6 @@
         "risk_level": "High Degree of Caution",
         "last_updated": "2025-06-10T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/maldives/"
-    },
-    {
-        "destination": "Mali",
-        "risk_level": "Do Not Travel",
-        "last_updated": "2025-06-26T00:00:00",
-        "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/mali/"
     },
     {
         "destination": "Malta",
@@ -792,12 +726,6 @@
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/mozambique/"
     },
     {
-        "destination": "Myanmar/Burma",
-        "risk_level": "Do Not Travel",
-        "last_updated": "2025-07-21T00:00:00",
-        "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/myanmar-burma/"
-    },
-    {
         "destination": "Namibia",
         "risk_level": "Normal Precautions",
         "last_updated": "2025-07-15T00:00:00",
@@ -832,12 +760,6 @@
         "risk_level": "High Degree of Caution",
         "last_updated": "2025-06-11T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/nicaragua/"
-    },
-    {
-        "destination": "Niger",
-        "risk_level": "Do Not Travel",
-        "last_updated": "2025-06-10T00:00:00",
-        "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/niger/"
     },
     {
         "destination": "Nigeria",
@@ -948,12 +870,6 @@
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/romania/"
     },
     {
-        "destination": "Russian Federation",
-        "risk_level": "Do Not Travel",
-        "last_updated": "2025-06-27T00:00:00",
-        "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/russian-federation/"
-    },
-    {
         "destination": "Rwanda",
         "risk_level": "High Degree of Caution",
         "last_updated": "2025-07-15T00:00:00",
@@ -1044,22 +960,10 @@
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/solomon-islands/"
     },
     {
-        "destination": "Somalia",
-        "risk_level": "Do Not Travel",
-        "last_updated": "2025-08-07T00:00:00",
-        "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/somalia/"
-    },
-    {
         "destination": "South Africa",
         "risk_level": "High Degree of Caution",
         "last_updated": "2025-07-21T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/south-africa/"
-    },
-    {
-        "destination": "South Sudan",
-        "risk_level": "Do Not Travel",
-        "last_updated": "2025-08-07T00:00:00",
-        "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/south-sudan/"
     },
     {
         "destination": "Spain",
@@ -1072,12 +976,6 @@
         "risk_level": "High Degree of Caution",
         "last_updated": "2025-06-10T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/sri-lanka/"
-    },
-    {
-        "destination": "Sudan",
-        "risk_level": "Do Not Travel",
-        "last_updated": "2025-08-07T00:00:00",
-        "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/sudan/"
     },
     {
         "destination": "Suriname",
@@ -1096,12 +994,6 @@
         "risk_level": "Normal Precautions",
         "last_updated": "2025-07-09T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/switzerland/"
-    },
-    {
-        "destination": "Syria",
-        "risk_level": "Do Not Travel",
-        "last_updated": "2025-07-28T00:00:00",
-        "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/syria/"
     },
     {
         "destination": "Taiwan",
@@ -1188,12 +1080,6 @@
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/uganda/"
     },
     {
-        "destination": "Ukraine",
-        "risk_level": "Do Not Travel",
-        "last_updated": "2025-07-28T00:00:00",
-        "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/ukraine/"
-    },
-    {
         "destination": "United Arab Emirates",
         "risk_level": "High Degree of Caution",
         "last_updated": "2025-08-08T00:00:00",
@@ -1246,12 +1132,6 @@
         "risk_level": "Normal Precautions",
         "last_updated": "2025-07-11T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/virgin-islands-us/"
-    },
-    {
-        "destination": "Yemen",
-        "risk_level": "Do Not Travel",
-        "last_updated": "2025-06-20T00:00:00",
-        "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/yemen/"
     },
     {
         "destination": "Zambia",
