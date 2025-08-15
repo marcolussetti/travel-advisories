@@ -1,19 +1,19 @@
 # Warnings and insurance
 
 Still current at:
-:   12 August 2025
+:   15 August 2025
 
 Updated:
-:   11 August 2025
+:   14 August 2025
 
 Latest update:
-:   Information on the restriction on alcohol sales in Albufeira (‘Safety and security’ page).
+:   Addition of information about wildfires ('Warnings and insurance' page).
 
 This travel advice also covers Madeira, Porto Santo and the Azores.
 
-## Industrial Action
+## Wildfires in Portugal
 
-Industrial action by baggage handlers at Portuguese airports from Friday to Monday during the months of July and August may cause delays. If you are travelling over this period, check for announcements and follow the advice of your airline or tour operator.
+There is a high risk of wildfires during the summer season from April to October. For advice, visit the wildfires section on the [Safety and security page](https://www.gov.uk/foreign-travel-advice/portugal/safety-and-security#wildfires).
 
 ## Before you travel
 

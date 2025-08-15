@@ -23,7 +23,7 @@ At least 8 weeks before your trip:
 See [what health risks you’ll face in Samoa](https://travelhealthpro.org.uk/country/188/samoa), including:
 
 * Zika virus
-* dengue
+* dengue take [precautions against being bitten by mosquitos](https://travelhealthpro.org.uk/factsheet/38/insect-and-tick-bite-avoidance)
 
 ## Medication
 

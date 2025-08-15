@@ -1,13 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   13 June 2025
+:   15 August 2025
 
 Updated:
-:   12 June 2025
+:   14 August 2025
 
 Latest update:
-:   New information on taxis and pedestrian safety (‘Safety and security’ page).
+:   Addition of information about wildfires ('Warnings and insurance' page).
+
+## Wildfires in Montenegro
+
+There is a high risk of wildfires during the summer season from April to October. For advice, visit the wildfires section on the [Safety and security](https://www.gov.uk/foreign-travel-advice/montenegro/safety-and-security#wildfires) page.
 
 ## Before you travel
 

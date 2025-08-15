@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   2 August 2025
+:   15 August 2025
 
 Updated:
-:   1 August 2025
+:   14 August 2025
 
 Latest update:
-:   Removal of information on tsunami alert specific to the Earthquake in the Kamchatka Peninsular Region (‘Warnings and insurance’ page).
+:   Updated information on health risks you’ll face in Samoa (‘Health’ page).
 
 ## Before you travel
 

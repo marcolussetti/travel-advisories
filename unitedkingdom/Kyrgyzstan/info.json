@@ -1,11 +1,11 @@
 {
     "name": "Kyrgyzstan",
-    "update_reason": "New information on terrorism (See \u2018Terrorism in Kyrgyzstan\u2019 on the \u2018Safety and security\u2019 page).",
+    "update_reason": "Updated assessment that terrorists are likely to try to carry out attacks in Kyrgyzstan. Due to increasing regional tensions in the Middle East, Israeli and Jewish linked sites could be targets for terrorists in Kyrgyzstan (\u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Kyrgyzstan/Warnings and insurance.md",
-            "update_date": "2025-07-25T16:56:26+01:00"
+            "update_date": "2025-08-14T16:17:24+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Kyrgyzstan/Getting help.md"
         }
     ],
-    "update_date": "2025-07-25T16:56:26+01:00"
+    "update_date": "2025-08-14T16:17:24+01:00"
 }

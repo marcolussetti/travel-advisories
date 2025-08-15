@@ -10,11 +10,9 @@ UK Counter Terrorism Policing has information and advice on [staying safe abroad
 
 ### Terrorism in Burundi
 
-Terrorists are likely to try to carry out attacks in Burundi.
+Terrorist attacks in Burundi cannot be ruled out.
 
 Attacks could be indiscriminate, including in places visited by foreign nationals.
-
-Al-Shabaab, although based in Somalia, poses a threat across the East Africa region. Al-Shabaab has previously made public threats against Burundi because of its support for the African Union peacekeeping mission in Somalia. Al-Shabaab have claimed responsibility for attacks in Kenya and Uganda, linking some attacks to support for the African Union peacekeeping mission.
 
 Follow the advice of local authorities and exercise caution while travelling around the country.
 

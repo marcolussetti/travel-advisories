@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 July 2025
+:   15 August 2025
 
 Updated:
-:   25 July 2025
+:   14 August 2025
 
 Latest update:
-:   New information on terrorism (See ‘Terrorism in Kyrgyzstan’ on the ‘Safety and security’ page).
+:   Updated assessment that terrorists are likely to try to carry out attacks in Kyrgyzstan. Due to increasing regional tensions in the Middle East, Israeli and Jewish linked sites could be targets for terrorists in Kyrgyzstan (‘Safety and security’ page).
 
 ## Before you travel
 

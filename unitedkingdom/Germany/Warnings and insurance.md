@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   31 July 2025
+:   15 August 2025
 
 Updated:
-:   30 July 2025
+:   14 August 2025
 
 Latest update:
-:   Updated information on new Schengen entry requirements being introduced from 12 October ('Entry requirements' page)
+:   Updated with a link to information about using a UK issued Blue Badge in Germany (‘Safety and security’ page).
 
 ## Before you travel
 

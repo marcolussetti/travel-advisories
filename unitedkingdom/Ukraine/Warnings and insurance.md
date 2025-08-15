@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   12 July 2025
+:   15 August 2025
 
 Updated:
-:   11 July 2025
+:   14 August 2025
 
 Latest update:
-:   Addition of information about the risk of flooding (‘Safety and security’ page). Update to number of drone and missile strikes in Russian invasion of Ukraine section (‘Warnings and insurance’ page).
+:   Additional information for dual nationals ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/663398524d8bb7378fb6c167/FCDO__TA__044_-_Ukraine_Travel_Advice_Ed12__WEB___1_.jpg)
 
@@ -112,7 +112,11 @@ Expect increased documentation checks, transport restrictions and increased secu
 
 If you are a dual British-Ukrainian national or you have the right to reside in the UK, and want to leave Ukraine, contact the State Border Guard Service of Ukraine on [adpsu@dpsu.gov.ua](mailto:adpsu@dpsu.gov.ua) for advice.
 
-Ukrainian national and dual-national males aged 18 to 60 are prohibited from leaving the country.
+Ukrainian national and dual-national males aged 18 to 60 are prohibited from leaving the country. Dual-nationals have to comply to the same military conscription laws as Ukrainian mono-nationals.
+
+Even if you do not consider Ukrainian to be your primary nationality, the Ukrainian authorities may see you as a Ukrainian national: for example, if you have a Ukrainian parent, or if you were born in Ukraine.
+
+For any information regarding nationality issues, you would need to seek advice from local authorities or legal experts.
 
 The authorities in the countries bordering Ukraine set and enforce their entry rules. Before you travel, check the [foreign travel advice](https://www.gov.uk/foreign-travel-advice) for any countries you plan to travel through. If you need assistance from the UK government, contact the [British Embassy in that country](https://www.gov.uk/world/embassies).
 

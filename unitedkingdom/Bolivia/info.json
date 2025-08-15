@@ -1,11 +1,11 @@
 {
     "name": "Bolivia",
-    "update_reason": "This travel advice has been reviewed with changes made throughout including updated information on criminals impersonating police officers, illegal drugs, extra checks at airports and road travel (\u2018Entry requirements', \u2018Safety and security\u2019 and \u2018Health\u2019 pages).",
+    "update_reason": "New information on rules surrounding upcoming elections on Sunday 17 August ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Bolivia/Warnings and insurance.md",
-            "update_date": "2025-08-04T15:25:51+01:00"
+            "update_date": "2025-08-14T15:57:02+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Bolivia/Getting help.md"
         }
     ],
-    "update_date": "2025-08-04T15:25:51+01:00"
+    "update_date": "2025-08-14T15:57:02+01:00"
 }

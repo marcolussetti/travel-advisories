@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   5 August 2025
+:   15 August 2025
 
 Updated:
-:   4 August 2025
+:   14 August 2025
 
 Latest update:
-:   This travel advice has been reviewed with changes made throughout including updated information on criminals impersonating police officers, illegal drugs, extra checks at airports and road travel (‘Entry requirements', ‘Safety and security’ and ‘Health’ pages).
+:   New information on rules surrounding upcoming elections on Sunday 17 August ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/672ccc5a62831268b0b1a328/FCDO__TA__098_-_Bolivia_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -21,6 +21,12 @@ Your travel insurance could be invalidated if you travel against advice from the
 FCDO advises against all but essential travel to the Chapare region of Cochabamba Department including Villa Tunari and highway routes 4 and 24 that pass through Chapare.
 
 Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/bolivia/safety-and-security).
+
+## General elections
+
+General elections will take place in Bolivia on Sunday 17 August. There will be no public transport from midnight Sunday 17 August until midnight Monday 18 August. Very limited private transport will be allowed to operate and only with a permit. International flights will still run but there will be limited taxis with permission to travel to and from the airports.
+
+You will not be allowed to drink alcohol or to gather in large groups from midnight Friday 15 August until midnight Monday 18 August. Penalties for breaching these rules are harsh and could include imprisonment until the end of election day.
 
 ## Before you travel
 

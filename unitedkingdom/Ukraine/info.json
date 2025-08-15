@@ -1,11 +1,11 @@
 {
     "name": "Ukraine",
-    "update_reason": "Addition of information about the risk of flooding (\u2018Safety and security\u2019 page). Update to number of drone and missile strikes in Russian invasion of Ukraine section (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Additional information for dual nationals ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Ukraine/Warnings and insurance.md",
-            "update_date": "2025-07-11T16:53:12+01:00"
+            "update_date": "2025-08-14T16:07:07+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Ukraine/Getting help.md"
         }
     ],
-    "update_date": "2025-07-11T16:53:12+01:00"
+    "update_date": "2025-08-14T16:07:07+01:00"
 }

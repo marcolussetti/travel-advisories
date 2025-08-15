@@ -1,11 +1,11 @@
 {
     "name": "Burundi",
-    "update_reason": "Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport ('Safety and security' page).",
+    "update_reason": "Updated with information about the risks from terrorism (\u2018Safety and security\u2019 page\u2019).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Burundi/Warnings and insurance.md",
-            "update_date": "2025-06-04T17:18:38+01:00"
+            "update_date": "2025-08-14T12:01:50+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Burundi/Getting help.md"
         }
     ],
-    "update_date": "2025-06-04T17:18:38+01:00"
+    "update_date": "2025-08-14T12:01:50+01:00"
 }

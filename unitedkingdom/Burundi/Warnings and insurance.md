@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   5 June 2025
+:   15 August 2025
 
 Updated:
-:   4 June 2025
+:   14 August 2025
 
 Latest update:
-:   Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport ('Safety and security' page).
+:   Updated with information about the risks from terrorism (‘Safety and security’ page’).
 
 ![](https://assets.publishing.service.gov.uk/media/67f055b1cb0feef57df7e5dd/Annex_B_FCDO__TA__007_-_Burundi_Travel_Advice_Ed5__WEB_.jpg)
 

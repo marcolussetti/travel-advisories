@@ -1,11 +1,11 @@
 {
     "name": "Germany",
-    "update_reason": "Updated information on new Schengen entry requirements being introduced from 12 October ('Entry requirements' page)",
+    "update_reason": "Updated with a link to information about using a UK issued Blue Badge in Germany (\u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Germany/Warnings and insurance.md",
-            "update_date": "2025-07-30T15:01:46+01:00"
+            "update_date": "2025-08-14T10:14:13+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Germany/Getting help.md"
         }
     ],
-    "update_date": "2025-07-30T15:01:46+01:00"
+    "update_date": "2025-08-14T10:14:13+01:00"
 }
