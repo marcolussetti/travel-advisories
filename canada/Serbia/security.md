@@ -74,7 +74,7 @@ Always be aware of your surroundings when in public places.
 
 ### Demonstrations
 
-Demonstrations may occur. Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation.
+Demonstrations occur frequently across the country. They have disrupted services and transportation and have led to acts of vandalism, arson and violent clashes between rival groups. Security forces have used tear gas to disperse crowds.
 
 * Avoid areas where demonstrations and large gatherings are taking place
 * Follow the instructions of local authorities

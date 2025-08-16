@@ -59,7 +59,11 @@ Foreigners must register their biometrics (fingerprints and facial scan) at thei
 
 ### Screening measures
 
-The Korea Immigration Service will screen your body temperature upon your arrival at the airport. They may test you for infectious diseases including cholera and Zika virus. In some cases, authorities may quarantine you for medical observation if you show flu-like symptoms or test positive for an infectious disease.
+When you arrive from countries designated as "Quarantine Inspection Required Areas" including Canada, you are subject to symptom-based health screening measures. The Korea Immigration Service will assess your body temperature upon arrival. If you exhibit symptoms associated with infectious diseases, you must submit a health questionnaire either in electronic (Q-CODE) or paper format. Korean authorities may test you for other infectious diseases such as cholera and Zika virus. If you show flu-like symptoms or test positive for an infectious disease, authorities may quarantine you for medical observation.
+
+You can register for a Q-CODE up to 7 days before arrival.
+
+[Q-CODE guide](https://qcode.kdca.go.kr/qco/guide.do) – Korea Disease Control and Prevention Agency
 
 ### Children and travel
 

@@ -6,9 +6,7 @@
 
 Border areas often see higher criminal activity and violence.
 
-There is a heightened risk of terrorist attacks in the northern areas of Ghana bordering Côte d’Ivoire, Togo and Benin, and more specifically, Burkina Faso, where armed groups and militias are active.
-
-The expansion of extremist militants and the limited capacity of the Ghanaian authorities to control borders may increase the risk posed by criminals.
+Inter-communal violence related to the Bawku chieftaincy conflict is increasingly affecting northern parts of Ghana. While the country has not been targeted by extremist attacks, these flare ups could present opportunities for violent extremist groups based in Burkina Faso, as well as criminals, to expand their activities across Ghana’s northern borders.
 
 ### Inter-ethnic violence
 

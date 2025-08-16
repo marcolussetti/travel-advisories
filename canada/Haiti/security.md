@@ -2,11 +2,11 @@
 
 ## Safety and security
 
-### Ongoing violence and the state of emergency
+### Ongoing violence and state of emergency
 
-A countrywide state of emergency is in effect in response to ongoing gang violence.
+A state of emergency is in effect in the departments of Ouest, Artibonite and Centre due to the ongoing security crisis gang violence.
 
-Toussaint-Louverture airport in Port-au-Prince has has reopened although with limited operations. Most airlines have suspended their flights to and from Port-au-Prince until further notice. Confirm the status of your flight with your airline before going to the airport.
+Toussaint-Louverture airport in Port-au-Prince has reopened, however operations remain limited. Most international airlines have suspended their flights to and from Port-au-Prince until further notice. Confirm the status of your flight with your airline before going to the airport.
 
 More information on [states of emergency](#statesofemergency) and [airport access](#airports)
 

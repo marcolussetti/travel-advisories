@@ -2,6 +2,22 @@
 
 ## Natural disasters and climate
 
+### Floods and landslides
+
+On 11 August 2025, heavy rains caused severe flooding and landslides in Cabo Verde, particularly on the islands of São Vicente, Santo Antão and São Nicolau. The floods and landslides caused several casualties and significant damage to buildings and infrastructure. A state of emergency was declared on all three islands.
+
+Additional rainfall is expected in the coming days, increasing the risk of flooding in areas already affected. The following essential services are severely disrupted in São Vicente, Santo Antão and São Nicolau:
+
+* transportation
+* power distribution
+* drinking water supply
+
+If you are in an affected area:
+
+* stay away from flooded areas
+* monitor local news and weather reports
+* follow the instructions of local authorities, including evacuation orders
+
 ### Climate change
 
 Climate change is affecting Cabo Verde. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local media for the latest information.
