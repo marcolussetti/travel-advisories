@@ -6,6 +6,8 @@ Visitors should remain vigilant and aware, including when using ATMs. Petty thef
 
 Only use official taxis and avoid poorly lit or remote areas.
 
+The rate of violence crime has risen in recent years. Visitors should exercise caution, particularly whilst traveling in the Puntarenas and Limon regions.
+
 Exercise caution when purchasing spirit-based drinks as there have been a number of cases of serious illness or death caused by alcoholic drinks containing methanol. If travellers shows symptoms of alcohol-induced methanol poisoning (including headache, dizziness, nausea and vomiting), seek medical attention immediately. Tourists should not leave drinks unattended, and women travelling alone should exercise increased vigilance.
 
 Travellers should be aware that some beaches have strong currents/riptides, while many beaches do not have lifeguards. Visitors should also be aware that crocodiles have been sighted in beaches along the Pacific coast, with some attacks in recent years. Always consult with locals before swimming.
