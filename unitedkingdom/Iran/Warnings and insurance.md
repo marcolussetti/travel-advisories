@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   8 July 2025
+:   16 August 2025
 
 Updated:
-:   7 July 2025
+:   15 August 2025
 
 Latest update:
-:   Removal of border crossing information following resumption of commercial airline operations. Information on British Embassy Tehran returning to normal operations ('Warnings and insurance' page).
+:   Updated with information about the risks from terrorism and risks following arrest ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/627e359b8fa8f53f99901991/FCDO__TA__021_-_Iran_Travel_Advice_Ed5__WEB_.jpg)
 

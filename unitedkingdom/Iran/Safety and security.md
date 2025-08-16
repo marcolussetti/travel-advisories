@@ -8,16 +8,17 @@ UK Counter Terrorism Policing has information and advice on [staying safe abroad
 
 ### Terrorism in Iran
 
-Terrorists are very likely to try to carry out attacks in Iran.
+Terrorists are likely to try to carry out attacks in Iran.
 
 Terrorist attacks could be indiscriminate, including in places frequented by foreign nationals. Stay aware of your surroundings, keep up to date with local media reports and follow the advice of local authorities.
 
-Previous attacks include:
+Examples of recent attacks include:
 
-* in April 2024, 11 Iranian security force members were killed, following attacks claimed by Jaish al-Adl on an Iranian military site in the southeastern province of Sistan-o-Balochistan
 * in January 2024, at least 84 people were killed and more than 200 wounded in suicide bombing attacks in Kerman, southern Iran, carried out by Islamic State Khorasan Province (ISKP)
-* in 2023, one person was killed and 8 wounded in a terrorist attack at a Shia Muslim shrine in the Iranian city of Shiraz, southern Iran
-* in 2022, 15 people were killed at a holy site in Shiraz
+* in 2023, one person was killed and 8 wounded in a terrorist attack at the Shah Cheragh mausoleum, a Shia holy site in Shiraz southern Iran
+* in 2022, 15 people were killed in a shooting attack at the Shah Cheragh mausoleum, Shiraz, in an attack claimed by ISKP
+
+Baluchistan separatist groups have targeted government buildings and infrastructure in the Sistan-Baluchistan region of Iran resulting in casualties.
 
 ## Leaving Iran in an emergency
 
@@ -29,7 +30,12 @@ You should have a contingency plan to leave Iran in an emergency situation. Air,
 
 There is a very high risk of arrest, questioning and detention for British nationals and British-Iranian dual nationals. If the Iranian authorities accuse you of security related offences as a British national in Iran, there is a risk that you will be sentenced to death.
 
-Holding a British passport or having perceived connections to the UK can be reason enough for the Iranian authorities to detain you. If you are detained in Iran, you could face months or years of imprisonment.
+Holding a British passport or having perceived connections to the UK can be reason enough for the Iranian authorities to detain you. If you are detained in Iran, you could face:
+
+* months or years of imprisonment
+* a fine, which in some cases can be a significant amount
+* imprisonment until any fines owed are paid
+* strict bail conditions, including a travel ban or your (or your family’s) assets being used as security
 
 British nationals, including British-Iranian dual nationals, and other foreign nationals, have been unfairly detained in Iran. They are often made to serve long prison sentences. In 2023, Iran executed some foreign national detainees, including a British-Iranian national. The criminal justice process in these cases falls below international standards.
 

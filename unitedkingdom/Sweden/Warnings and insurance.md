@@ -1,13 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   8 August 2025
+:   16 August 2025
 
 Updated:
-:   7 August 2025
+:   15 August 2025
 
 Latest update:
-:   Updated with a link to information about using a UK issued Blue Badge in Sweden (‘Safety and security’ page).
+:   Updated with information following a shooting in Örebro ('Warnings and insurance' page).
+
+## Shooting in the city of Örebro
+
+There was a shooting in Örebro on 15 August 2025. If you’re in the immediate area follow the advice of the local authorities and monitor local media.
 
 ## Before you travel
 

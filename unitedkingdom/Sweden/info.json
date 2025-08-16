@@ -1,11 +1,11 @@
 {
     "name": "Sweden",
-    "update_reason": "Updated with a link to information about using a UK issued Blue Badge in Sweden (\u2018Safety and security\u2019 page).",
+    "update_reason": "Updated with information following a shooting in \u00d6rebro ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Sweden/Warnings and insurance.md",
-            "update_date": "2025-08-07T14:28:25+01:00"
+            "update_date": "2025-08-15T14:46:50+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Sweden/Getting help.md"
         }
     ],
-    "update_date": "2025-08-07T14:28:25+01:00"
+    "update_date": "2025-08-15T14:46:50+01:00"
 }
