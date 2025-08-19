@@ -24,10 +24,10 @@ Photographing of airports, government buildings and military sites is prohibited
 
 Identification should be carried at all times as failure to produce identification can led to detention by the police.
 
-### **Illegal drugs**
+### **Illegal Drugs**
 
 Penalties for possessing, using, or trafficking in illegal drugs in Chad are severe, and convicted offenders can expect long jail sentences and heavy fines.
 
 ### **Satellite Phones**
 
-Satellite phone are illegal in Chad.
+Satellite phones are illegal in Chad.

@@ -2,7 +2,7 @@
 
 Health services in Chad are limited and emergency services do not exist.
 
-### **Get travel and medical insurance**
+### **Get Travel and Medical Insurance**
 
 Before travelling, the Department **strongly recommends** that visitors obtain comprehensive travel insurance which will cover all overseas medical costs, including medical repatriation/evacuation, repatriation of remains and legal costs. Visitors should check any exclusions and, in particular, that the policy covers the activities to be undertaken.
 

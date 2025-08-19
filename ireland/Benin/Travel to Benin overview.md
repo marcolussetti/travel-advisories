@@ -26,7 +26,7 @@ The best help is often close at hand so if you have problems, try talking to you
 
 You can contact the emergency services in Benin by dialling 117.
 
-### **Our tips for Safe Travels:**
+### **Our Tips for Safe Travels:**
 
 * Get comprehensive travel insurance that covers all your planned activities.
 * [**Register**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/) your details with us so that we can contact you quickly if there’s an unforeseen crisis like a natural disaster or a family emergency.

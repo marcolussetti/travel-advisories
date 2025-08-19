@@ -20,7 +20,7 @@ Bandarban
 
 Irish citizens travelling to or located in Bangladesh are recommended to exercise a high degree of caution, avoid demonstrations and monitor the advice of local authorities. As calls for elections mount and political campaigning begins, it is likely that there will be an increase in rallies, protests and demonstrations between now and the end of the year. In this context, it is important that citizens remain particularly vigilant. Those who have not already done so should register their details and those of their dependents [**here**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/).
 
-## **General Travel Advice**
+### **General Travel Advice**
 
 Irish citizens require a visa to enter Bangladesh. The visa-on-arrival system is available to travellers from Ireland, depending on the purpose of visit. However, we recommend that travellers obtain a visa in advance to eliminate uncertainties with the visa-on-arrival process. Irish travellers to Bangladesh are encouraged to consult Bangladeshi authorities, such as the [**Bangladesh High Commission in London**](https://bhclondon.org.uk/), for advice on entry requirements.
 
@@ -30,13 +30,13 @@ Visitors to Bangladesh are advised to follow the guidance of national and local 
 
 Citizens can also follow the Irish Embassy in India on social media (X [**@IrlEmbIndia**](https://twitter.com/IrlEmbIndia) and [**Facebook**](https://www.facebook.com/IrelandinIndia/)) to ensure access to relevant updates and alerts.
 
-## **Security**
+### **Security**
 
 There are heightened security concerns about the potential threat to Western citizens in Bangladesh and Irish citizens should remain vigilant while travelling in the country. Due to the risk of terrorist attacks, Irish citizens are advised to exercise caution in public places, to avoid large gatherings or demonstrations, and venues frequented by expats/foreign tourists, and to keep informed of news reports or security developments.
 
 We advise against all but essential travel to the Chittagong Hill Tracts (this does not include Chittagong City). If you must visit the area, you should only stay in the main towns of Khagrachari, Rangamati and Bandarban and only travel on the main roads. There’s a risk of being caught up in clashes between rival groups engaged in conflict there.
 
-## **Emergency Assistance**
+### **Emergency Assistance**
 
 The best help is often close at hand so if you have problems, try talking to your local contacts, tour operator representative or hotel management.
 

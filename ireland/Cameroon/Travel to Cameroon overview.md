@@ -22,13 +22,13 @@ For more information on visas and passports, please see the Entry Requirements t
 
 Visitors are advised to follow the guidance of national and local authorities and stay fully informed of what is going on by monitoring local news and social media.
 
-Citizens can also follow the Irish Embassy in Nigeria on social media ([**X**](https://x.com/IrlEmbNigeria)and [**Facebook)**](https://www.facebook.com/embassyofirelandnigeria/) to ensure access to relevant updates and alerts.
+Citizens can also follow the Irish Embassy in Nigeria on social media ([**X**](https://x.com/IrlEmbNigeria) and [**Facebook)**](https://www.facebook.com/embassyofirelandnigeria/) to ensure access to relevant updates and alerts.
 
 ### **Emergency Assistance**
 
 The best help is often close at hand so if a problem arises, try talking to local contacts, tour operator representatives or hotel management.
 
-**Our tips for Safe Travels:**
+### **Our Tips for Safe Travels:**
 
 * Get comprehensive travel insurance that covers all planned activities.
 * [**Register**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/) with us so that we can get in contact quickly if there is an unforeseen crisis like a natural disaster or a family emergency.

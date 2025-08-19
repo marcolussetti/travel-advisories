@@ -14,7 +14,7 @@ Citizens should be particularly vigilant when on the street. Avoid remote areas,
 
 Travellers can use an Irish driver’s license for a period of up to 90 days from their entry into the territory. If you want to drive, keep vehicle doors locked and bags kept out of sight to prevent opportunistic bag-snatching if stopped at traffic lights.
 
-### **Lost or Stolen Passports:**
+### **Lost or Stolen Passports**
 
 Take extreme care with passports and other personal documentation. If a passport is lost or stolen, it can take up to three weeks to get a replacement, due to time and distance factors. Getting a replacement passport will be easier if travellers are able to provide a copy of the lost or stolen one, so keep photocopies or scans of passports.
 
@@ -36,7 +36,7 @@ If you are involved in an accident, call the police and wait at the scene. You m
 
 Where possible, plan how you will travel to and from your destination. Only use pre-booked taxis. We strongly advise against hailing taxis from the street.
 
-### **Dominican Republic-Haiti border**
+### **Dominican Republic-Haiti Border**
 
 The Dominican Republic-Haiti border remain closed to travellers. Crossing the border by land or sea is not allowed. Disturbances and incidents are common, some of which can lead to violence. Avoid the border area as the security situation is highly volatile.
 

@@ -3,8 +3,8 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Travel to Fiji Overview",
-            "file": "ireland/Fiji/Travel to Fiji Overview.md"
+            "title": "Travel to Fiji overview",
+            "file": "ireland/Fiji/Travel to Fiji overview.md"
         },
         {
             "title": "Safety and security",
@@ -31,5 +31,5 @@
             "file": "ireland/Fiji/Embassy contact.md"
         }
     ],
-    "update_date": "2025-06-03T00:00:00"
+    "update_date": "2025-08-18T00:00:00"
 }

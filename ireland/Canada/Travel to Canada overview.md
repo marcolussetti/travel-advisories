@@ -1,6 +1,6 @@
 ## Travel to Canada overview
 
-### **Security status**
+### **Security Status**
 
 Normal Precautions
 

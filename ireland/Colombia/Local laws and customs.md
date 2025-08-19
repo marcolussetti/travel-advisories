@@ -8,7 +8,7 @@ Drug trafficking is a serious crime in Colombia and drug smugglers face severe p
 
 Homosexuality is legal but not widely accepted, especially in rural areas.
 
-### **Military or Strategic Government sites**
+### **Military or Strategic Government Sites**
 
 Photographing of military or strategic government sites is not allowed.
 

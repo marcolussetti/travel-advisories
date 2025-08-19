@@ -18,15 +18,3 @@ Bucharest
 [Tel: +40 758611959](tel:+40758611959)
 
 [**Contact us**](/en/romania/bucharest/contact/)
-
-### Honorary Consul of Ireland, Moldova
-
-Dr. Suzanne O'Connell   
-Skytower   
-Office 1A, 5th Floor   
-Vlaicu Pircalab Str. 63   
-Chisinau, MD-2012 Republ
-
-[Tel: +373 22 80 7145](tel:+37322 80 7145)
-
-**Email:** [suzanne.oconnell@honoraryconsul.ie](mailto:suzanne.oconnell@honoraryconsul.ie)

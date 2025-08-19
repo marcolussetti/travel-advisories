@@ -13,7 +13,7 @@ Due to the continuing risk of instability in Chad, in addition to the high risk 
 * The Lake Chad region
 * 30km of all of Chad’s borders
 
-The Department of Foreign Affairs advises against non-essential travel to the rest of Chad.
+The Department of Foreign Affairs and Trade advises against non-essential travel to the rest of Chad.
 
 There remains a risk of public protests throughout Chad, which may occur in N’Djamena and other cities. Security forces often use live ammunition to disperse protests, leading to civilian fatalities and casualties.
 
@@ -43,7 +43,7 @@ Visitors can contact the emergency services in Chad by dialling Specific emergen
 * Fire brigade: 18
 * Ambulance: 2251-1237/2251-4242
 
-### **Our tips for Safe Travels:**
+### **Our Tips for Safe Travels:**
 
 * Get comprehensive travel insurance that covers all planned activities.
 * [**Register**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/) your details with us so that we can contact you quickly if there is an unforeseen crisis like a natural disaster or a family emergency.

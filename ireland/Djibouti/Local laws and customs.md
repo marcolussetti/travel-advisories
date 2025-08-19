@@ -14,7 +14,7 @@ There are no legal restrictions on homosexuality in Djibouti, though the subject
 
 There are a high number of military installations in Djibouti, and travellers should be aware that photographing infrastructure, including military facilities, ports, airports, bridges and public buildings is prohibited. Care should be taken when photographing near prohibited locations.
 
-Money
+### **Money**
 
 Djibouti is largely a cash-based economy. The Djiboutian Franc is the official currency. Credit cards are accepted at major hotels and supermarkets, but note that Visa is much more widely accepted than Mastercard. ATMs are available in Djibouti City, again Visa more widely accepted. You should ensure that you carry sufficient hard currency.
 

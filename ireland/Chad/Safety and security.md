@@ -14,7 +14,7 @@ In April 2021, rebels entered north-western Chad from Libya before being repelle
 
 Incidents of robbery, carjacking at gunpoint, and murder have been reported throughout the country including in N’Djamena.
 
-### **Practical advice**
+### **Practical Advice**
 
 * Get advice locally about areas of risk and security concerns
 * Take common-sense precautions about safety and security

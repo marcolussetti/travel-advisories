@@ -1,6 +1,6 @@
 ## Travel to Bermuda overview
 
-### **Security status**
+### **Security Status**
 
 Normal Precautions
 

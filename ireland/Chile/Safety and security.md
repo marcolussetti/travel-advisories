@@ -14,7 +14,7 @@ Nationwide protests usually take place on:
 * 1st May (Worker’s Day);
 * 11th September (anniversary of the 1973 military coup).
 
-### **Crime & Petty theft**
+### **Crime & Petty Theft**
 
 Pickpocketing, other thefts and muggings are increasingly common throughout Chile, particularly around well-known tourist sites and bus stations. There have been reports of violent muggings in areas popular with tourists in Santiago and Valparaiso. Visitors should not leave luggage unattended and should be particularly attentive at bus terminals, restaurants and other areas frequented by tourists. We advise to take great care with your belongings and avoid obvious displays of wealth. Avoid using your mobile phone in the street. Keep in groups and do not walk alone late at night.
 

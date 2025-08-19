@@ -2,7 +2,7 @@
 
 Check with a doctor well in advance of travelling to see if any vaccinations are required for Cuba.
 
-### **Medical facilities**
+### **Medical Facilities**
 
 Generally, Cuba’s medical services are acceptable, although basic medicine and equipment are not always available. Bring any prescription drugs you take regularly. A copy of the prescription and a letter from a doctor explaining your condition can be helpful at customs.
 

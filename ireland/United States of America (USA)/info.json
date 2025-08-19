@@ -3,25 +3,29 @@
     "risk_level": "Normal Precautions",
     "pages": [
         {
-            "title": "Overview",
-            "file": "ireland/United States of America (USA)/Overview.md"
+            "title": "Travel to United States of America (USA) overview",
+            "file": "ireland/United States of America (USA)/Travel to United States of America (USA) overview.md"
         },
         {
             "title": "Safety and security",
             "file": "ireland/United States of America (USA)/Safety and security.md"
         },
         {
+            "title": "Health",
+            "file": "ireland/United States of America (USA)/Health.md"
+        },
+        {
             "title": "Local laws and customs",
             "file": "ireland/United States of America (USA)/Local laws and customs.md"
         },
         {
-            "title": "Additional information",
-            "file": "ireland/United States of America (USA)/Additional information.md"
+            "title": "Entry requirements",
+            "file": "ireland/United States of America (USA)/Entry requirements.md"
         },
         {
             "title": "Embassy contact",
             "file": "ireland/United States of America (USA)/Embassy contact.md"
         }
     ],
-    "update_date": "2025-06-18T00:00:00"
+    "update_date": "2025-08-18T00:00:00"
 }

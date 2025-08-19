@@ -50,7 +50,7 @@ Specific emergency numbers are:
 * [**Register**](/en/dfa/overseas-travel/citizens-registration/) your details with us so that we can contact you quickly if there is an unforeseen crisis like a natural disaster or a family emergency.
 * Follow us on X [**@dfatravelwise**](https://www.twitter.com/DFATravelWise)  and Instagram [**@dfatravelwise**](https://www.instagram.com/dfatravelwise/) for the latest travel updates.
 * Read our [**‘Know Before You Go’**](/en/dfa/overseas-travel/know-before-you-go-/) guide.
-* Read our [**Consular Assistance Charter**](https://www.ireland.ie/en/dfa/overseas-travel/assistance-abroad/consular-assistance-charter/) that clearly sets out the assistance that can be provided to citizens in difficulty overseas, and the limits of what the Department can do.   
+* Read our [**Consular Assistance Charter**](https://www.ireland.ie/en/dfa/overseas-travel/assistance-abroad/consular-assistance-charter/) that clearly sets out the assistance that can be provided to citizens in difficulty overseas, and the limits of what the Department can do.  
    As there is no Embassy of Ireland in the Central African Republic, we are limited in the help we can offer in an emergency. However, if there is an emergency, or help and advice is needed, citizens can contact our Consular Assistance Unit at the Department of Foreign Affairs and Trade in Dublin on +353 1 408 2000.
 
 ### **EU Directive on Consular Protection**

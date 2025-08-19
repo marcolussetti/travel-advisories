@@ -60,7 +60,7 @@ Avoid crossing between Panama and Colombia by land. The 'Darien Gap' is a danger
 
 Colombia is affected by landmines and unexploded ordnance. Mined areas are frequently unmarked so be aware of potential dangers when visiting remote locations or venturing off the main road.
 
-### **Lost or Stolen passports**
+### **Lost or Stolen Passports**
 
 It can take up to three weeks to replace a lost or stolen passport, due to time and distance factors. Please take extreme care with passports and other personal documentation. Getting a replacement passport will be easier with a copy of the lost or stolen one, so keep photocopies while travelling.
 

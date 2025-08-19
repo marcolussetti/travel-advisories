@@ -51,7 +51,7 @@ There have been instances of armed attacks on vehicles travelling throughout El 
 
 For shorter trips within towns and cities it is safer to take radio or hotel taxis rather than public buses or unofficial taxis.
 
-### **Lost or Stolen passports**
+### **Lost or Stolen Passports**
 
 If passports are lost or stolen, getting a replacement can take up to two weeks so keep your travel documents secure at all times. Getting a replacement passport will be easier if citizens are able to provide a copy of the lost or stolen one, so keep photocopies of your passport.
 

@@ -18,6 +18,7 @@ SW1X 7HR
 
 ### Consulate General of Ireland, Manchester
 
+(Postal address only)   
 17 Marble St   
 14th Floor   
 Manchester   

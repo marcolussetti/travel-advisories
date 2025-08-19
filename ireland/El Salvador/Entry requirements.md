@@ -1,5 +1,7 @@
 ## Entry requirements
 
+### **Visa/Passport**
+
 Irish citizens do not need a visa to enter El Salvador, and may stay for up to 90 days. Entry to the country is at the discretion of the immigration officer, and visitors should be prepared to share information on travel plans, funds, etc. to immigration officers.
 
 Passports should be valid for six months from the date of entry into El Salvador.

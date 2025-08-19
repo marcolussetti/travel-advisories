@@ -1,12 +1,12 @@
 ## Travel to Cuba overview
 
-### **Security status**
+### **Security Status**
 
 Normal Precautions
 
-### Travel Alert
+### **Travel Alert**
 
-### **Power Outage**
+#### **Power Outage**
 
 Cuba has recently experienced several nationwide electrical grid shutdowns (most recently in March). A schedule of outages remains in place to restrict electricity usage. Basic services in eastern and other parts of Cuba are still affected in the wake of the 2024 hurricane season, as well as the earthquake on 10 November.
 

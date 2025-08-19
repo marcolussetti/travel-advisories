@@ -6,11 +6,11 @@ Normal Precautions
 
 ### **Travel Alert**
 
-### **National Threat Level**
+#### **National Threat Level**
 
 Following the 22 March attack in Moscow, France has raised its national threat level to the highest ‘Emergency’ level. This is level 3 on the French Vigipirate security programme.
 
-### **New Caledonia Safety and Security**
+#### **New Caledonia Safety and Security**
 
 The state of emergency for New Caledonia has lifted.
 

@@ -8,7 +8,7 @@ Summer thunderstorms are fairly frequent in most parts of Canada, with some beco
 
 May to September are the prime tornado months with the peak season in June and early July. Listen to local weather bulletins and check the [**National Hurricane Centre**](http://www.nhc.noaa.gov/), [**Environment Canada**](http://www.ec.gc.ca/default.asp?lang=En&n=FD9B0E51-1) and [**The Weather Network**](http://www.theweathernetwork.com/) websites. This is especially important if camping or travelling by recreational vehicle.
 
-### **Forest fires**
+### **Forest Fires**
 
 Forest fires can break out at any time, regardless of the season, though they tend to be most prevalent from May-September. Please heed local warnings and monitor news bulletins for latest details on local outbreaks. For more information visit the [**Environment Canada**](http://www.ec.gc.ca/default.asp?lang=En&n=FD9B0E51-1) website.
 

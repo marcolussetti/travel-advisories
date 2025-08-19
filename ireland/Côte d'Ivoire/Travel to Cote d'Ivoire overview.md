@@ -38,7 +38,7 @@ Visitors can contact the emergency services in Côte d’Ivoire by dialling the 
 * Fire brigade: 112
 * Ambulance: 185
 
-### **Our tips for Safe Travels:**
+### **Our Tips for Safe Travels:**
 
 * Get comprehensive travel insurance that covers all planned activities.
 * [**Register**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/) with us so that we can get in contact quickly if there is an unforeseen crisis like a natural disaster or a family emergency.

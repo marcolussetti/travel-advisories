@@ -6,7 +6,7 @@ Embassy Washington – Washington DC, Maryland, Virginia, West Virginia
 
 If you are an Irish citizen and in urgent need of emergency assistance, please contact the Embassy at + 1-202-462-3939 and leave a message on the answering machine. The answering machine is monitored regularly and the Duty Officer will contact you as soon as possible in cases where it is a genuine emergency.
 
-Alternatively, you may contact the Duty Officer at the Department of Foreign Affairs in Dublin at + 353-1-408 2000.
+Alternatively, you may contact the Duty Officer at the Department of Foreign Affairs and Trade in Dublin at + 353-1-408 2000.
 
 Monday to Friday 09:00-13:00 and 14:00-16:00
 
@@ -139,6 +139,18 @@ Additional visa services provided for: Arizona, Hawaii, Nevada, New Mexico, Sout
 
 [**Contact us**](/en/usa/sanfrancisco/contact/)
 
+### Honorary Consul of Ireland, Buffalo (New York)
+
+Kathleen Higgins Greeley   
+Higgins Law Group   
+69 Delaware Ave #100   
+Buffalo   
+NY 14202
+
+[Tel: +171 6 462 3107](tel:+1716 462 3107)
+
+[kathleen.higginsgreeley@honoraryconsul.ie](mailto:kathleen.higginsgreeley@honoraryconsul.ie)
+
 ### Honorary Consul of Ireland, Charlotte (North Carolina)
 
 Robert John Young   
@@ -187,6 +199,17 @@ Denver, CO
 
 **Email:** [**Please contact the Consulate General of Ireland in Austin**](/en/usa/austin/contact/)
 
+### Honorary Consul of Ireland, Nashville (Tennessee)
+
+Amy Seigenthaler   
+700 12th Ave S SUITE 400,   
+Nashville, TN 37203,   
+USA
+
+[Tel: +1 (615) 964-0855](tel:+1(615) 964-0855)
+
+**Email:** [amy.seigenthaler@honoraryconsul.ie](mailto:amy.seigenthaler@honoraryconsul.ie)
+
 ### Honorary Consul of Ireland, New Orleans (Louisiana)
 
 Judge James F. McKay III   
@@ -197,6 +220,18 @@ Louisiana 70124
 [Tel: +1 (504) 482-8983](tel:+1(504) 482-8983)
 
 **Email:** [james.mckay@honoraryconsul.ie](mailto:james.mckay@honoraryconsul.ie)
+
+### Honorary Consul of Ireland, Orlando (Florida)
+
+Patrick M. Delaney   
+300 South Orange Avenue,   
+Suite 1400,   
+Orlando   
+Florida 32801
+
+[Tel: +1 407 839 4532](tel:+1407 839 4532)
+
+Email: [Orlando@honoraryconsul.ie](mailto:Orlando@honoraryconsul.ie)
 
 ### Honorary Consul of Ireland, Pittsburgh (Pennsylvania)
 
@@ -220,6 +255,17 @@ USA
 [Tel: +1 619 291 1630](tel:+1619 291 1630)
 
 **Email:** [patrick.otoole@honoraryconsul.ie](mailto:patrick.otoole@honoraryconsul.ie)
+
+### Honorary Consul General of Ireland, Seattle (Washington)
+
+Bernard Hensey   
+4 Eden Ln   
+Mercer Island, WA 98040   
+USA
+
+[Tel: +1 206 351 1046](tel:+1206 351 1046)
+
+Email: [bernard.hensey@honoraryconsul.ie](mailto:bernard.hensey@honoraryconsul.ie)
 
 ### Honorary Consul of Ireland, St. Louis (Missouri)
 

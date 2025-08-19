@@ -30,7 +30,7 @@ There is a high incidence of malaria in low-land tropical areas, particularly in
 
 In July 2023, Colombian health authorities reported a dengue outbreak with 53,000 cases recorded in municipalities such as Meta, Tolima, Cundinamarca, Sucre, Santander, Cesar, Norte de Santander, Atlantico, Cordoba and Guajira. Citizens visiting a tropical or subtropical area should use insect repellent, wear loose clothing, sleep under a mosquito net and be aware of their environment. Dengue mosquitoes breed in still water in urban areas.
 
-### **Zika virus**
+### **Zika Virus**
 
 There have been outbreaks of Zika Virus (a dengue-like mosquito-borne disease) in Central and South America and the Caribbean. Irish Citizens especially those with a weakened immune system or women who are pregnant or trying to become pregnant are advised to follow guidance available on the website of the [**Health Protection Surveillance Centre (HPSC)**](http://www.hpsc.ie/A-Z/Vectorborne/Zika/).
 

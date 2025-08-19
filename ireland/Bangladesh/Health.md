@@ -1,6 +1,6 @@
 ## Health
 
-### Vaccinations
+### **Vaccinations**
 
 Check with your doctor well in advance of travelling to see if you need any vaccinations for Bangladesh. If you have a pre-existing health condition, check with your doctor before travelling.
 

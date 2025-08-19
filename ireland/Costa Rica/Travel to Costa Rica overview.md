@@ -1,6 +1,6 @@
 ## Travel to Costa Rica overview
 
-### **Security status**
+### **Security Status**
 
 High Degree of Caution
 

@@ -20,7 +20,7 @@ Thefts from hotel and guesthouse accommodation occur. We advised you to ensure 
 
 Car-related crime and muggings can occur from time to time in areas including Havana, Santiago and other areas less frequented by tourists. There have been attacks on foreigners using hire cars after staged punctures and by bogus hitch-hikers. Do not pick people up. If you get a puncture in a lonely spot, drive on several kilometres, preferably to a town, before stopping.
 
-### **Lost or Stolen passports**
+### **Lost or Stolen Passports**
 
 If your passport is lost or stolen, getting a replacement can take up to two weeks so keep your travel documents secure at all times. Getting a replacement passport will be easier if a copy of the lost or stolen one is provided, so keep photocopies of your passport.
 

@@ -18,7 +18,7 @@ Visitors to Barbados are advised to follow the guidance of national and local au
 
 Citizens can also follow the Embassy of Ireland, USA on [**social media**](https://linktr.ee/embassyofirelandusa) to ensure access to relevant updates and alerts.
 
-**Emergency Assistance**
+### **Emergency Assistance**
 
 The best help is often close at hand so if you have problems, try talking to your local contacts, tour operator representative or hotel management.
 
@@ -28,7 +28,7 @@ You can contact the emergency services in Barbados by dialling the emergency num
 * Fire brigade: 311
 * Ambulance: 511
 
-**Our Tips for Safe Travels:**
+### **Our Tips for Safe Travels:**
 
 * Get comprehensive travel insurance that covers all your planned activities.
 * [**Register**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/) your details with us so that we can contact you quickly if there’s an unforeseen crisis like a natural disaster or a family emergency.

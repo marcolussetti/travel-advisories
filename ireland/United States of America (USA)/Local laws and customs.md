@@ -6,11 +6,11 @@ When you are in the US, all federal, state and local laws apply to you. Laws var
 
 If you get into any difficulties with US Authorities, you should explain to them that you are an Irish national and ask to speak to an Irish consular officer. We will do what we can to help you but we cannot get you out of trouble or out of jail.
 
-### **Illegal drugs**
+### **Illegal Drugs**
 
 Illegal drug use (no matter what the drug) carries stiff penalties, including fines and long prison terms.
 
-### **Immigration documents**
+### **Immigration Documents**
 
 US Federal Law requires all foreign nationals to carry immigration documentation (such as your passport showing that you have permission to enter or remain) at all times while in the USA.
 

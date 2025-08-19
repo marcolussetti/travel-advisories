@@ -24,7 +24,7 @@ Driving standards and road conditions in Côte d’Ivoire are poor and are below
 
 Ocean currents are very strong along the coast, and many swimming accidents are caused by rip tides. There is no lifeboat service and many drownings occur each year.
 
-### **Practical advice**
+### **Practical Advice**
 
 * Get advice locally about areas of risk and security concerns
 * Take common-sense precautions about safety and security
