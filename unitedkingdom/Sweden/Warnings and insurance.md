@@ -1,17 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   16 August 2025
+:   19 August 2025
 
 Updated:
-:   15 August 2025
+:   18 August 2025
 
 Latest update:
-:   Updated with information following a shooting in Örebro ('Warnings and insurance' page).
-
-## Shooting in the city of Örebro
-
-There was a shooting in Örebro on 15 August 2025. If you’re in the immediate area follow the advice of the local authorities and monitor local media.
+:   Removal of warning about a shooting which occurred on August 15 ('Warnings and insurance' page).
 
 ## Before you travel
 

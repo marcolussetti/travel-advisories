@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   2 August 2025
+:   19 August 2025
 
 Updated:
-:   1 August 2025
+:   18 August 2025
 
 Latest update:
-:   Addition of information about a US Security Alert reporting a threat to high-end hotels in Karachi (‘Safety and security’ page).
+:   Addition of information relating to flash flooding and landslides in Pakistan (‘Warnings and insurance’ page).
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -61,6 +61,20 @@ FCDO advises against all travel to within 10 miles of the Line of Control.
 FCDO advises against all but essential travel to all areas of Sindh Province north of and including the city of Nawabshah.
 
 Find out more about [why FCDO advises against travel to these regions](/foreign-travel-advice/pakistan/regional-risks).
+
+## Flash flooding and landslides
+
+Above average rainfall is causing flash floods and landslides in Pakistan, damaging roads, bridges, and telecommunication infrastructure in northern areas, the following areas are particularly affected:
+
+* Khyber Pakhtunkhwa
+* Gilgit-Baltistan
+* Pakistan-Administered Kashmir
+
+The Government of Pakistan’s [National Disaster Management Authority](https://www.ndma.gov.pk/) is advising against all tourist activity to disaster-vulnerable areas. Follow local weather updates from the [Pakistan Meteorological Department](https://www.pmd.gov.pk/en/) and follow weather advisories from the [National Disaster Management Authority](https://www.ndma.gov.pk/).  Also follow UK guidance on how to [prepare for and respond to extreme weather and natural hazards](https://www.gov.uk/guidance/extreme-weather-and-natural-hazards). If you are a British national in need of urgent assistance, [contact us](https://www.contact.service.csd.fcdo.gov.uk/emergency-help/country).
+
+On 1st August 2025, the United States Embassy in Islamabad issued a travel advisory: [Security Alert: U.S. Consulate General Karachi, Pakistan (July 31, 2025) - U.S. Embassy & Consulates in Pakistan](https://pk.usembassy.gov/security-alert-u-s-consulate-general-karachi-pakistan-july-31-2025/).
+
+The advisory says “The U.S. Consulate General Karachi received a report of a threat directed at high-end hotels in Karachi.  In response to such threats, the U.S. Embassy and Consulates sometimes place areas such as tourist attractions, hotels, markets, shopping malls and restaurants off-limits to official U.S. government personnel. The U.S. Consulate General in Karachi has temporarily limited visits by official U.S. government personnel to these hotels.”
 
 ## India-Pakistan tensions
 

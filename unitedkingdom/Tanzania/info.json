@@ -1,11 +1,11 @@
 {
     "name": "Tanzania",
-    "update_reason": "Tanzania and air carriers certified by the Tanzania Civil Aviation Authority have been added to the UK Air Safety List, meaning they are subject to an operating ban on safety grounds and cannot fly to, from or within the UK ('Safety and security' page).",
+    "update_reason": "Removal of reference to US Embassy personnel being prohibited from islands and coastal areas south of Kisiju (\u2018Regional risks\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Tanzania/Warnings and insurance.md",
-            "update_date": "2025-08-08T16:48:18+01:00"
+            "update_date": "2025-08-18T16:40:28+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Tanzania/Getting help.md"
         }
     ],
-    "update_date": "2025-08-08T16:48:18+01:00"
+    "update_date": "2025-08-18T16:40:28+01:00"
 }

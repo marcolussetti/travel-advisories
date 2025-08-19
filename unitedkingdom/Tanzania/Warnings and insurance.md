@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   9 August 2025
+:   19 August 2025
 
 Updated:
-:   8 August 2025
+:   18 August 2025
 
 Latest update:
-:   Tanzania and air carriers certified by the Tanzania Civil Aviation Authority have been added to the UK Air Safety List, meaning they are subject to an operating ban on safety grounds and cannot fly to, from or within the UK ('Safety and security' page).
+:   Removal of reference to US Embassy personnel being prohibited from islands and coastal areas south of Kisiju (‘Regional risks’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/645a3ab12226ee000c0ae4a0/FCDO__TA__086_-_Tanzania_Travel_Advice_Ed1__WEB_.jpg)
 

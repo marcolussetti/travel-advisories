@@ -1,11 +1,11 @@
 {
     "name": "Sweden",
-    "update_reason": "Updated with information following a shooting in \u00d6rebro ('Warnings and insurance' page).",
+    "update_reason": "Removal of warning about a shooting which occurred on August 15 ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Sweden/Warnings and insurance.md",
-            "update_date": "2025-08-15T14:46:50+01:00"
+            "update_date": "2025-08-18T15:45:28+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Sweden/Getting help.md"
         }
     ],
-    "update_date": "2025-08-15T14:46:50+01:00"
+    "update_date": "2025-08-18T15:45:28+01:00"
 }

@@ -1,11 +1,11 @@
 {
     "name": "Pakistan",
-    "update_reason": "Addition of information about a US Security Alert reporting a threat to high-end hotels in Karachi (\u2018Safety and security\u2019 page).",
+    "update_reason": "Addition of information relating to flash flooding and landslides in Pakistan (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Pakistan/Warnings and insurance.md",
-            "update_date": "2025-08-01T20:13:45+01:00"
+            "update_date": "2025-08-18T16:08:07+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Pakistan/Getting help.md"
         }
     ],
-    "update_date": "2025-08-01T20:13:45+01:00"
+    "update_date": "2025-08-18T16:08:07+01:00"
 }

@@ -1,11 +1,11 @@
 {
     "name": "Bolivia",
-    "update_reason": "New information on rules surrounding upcoming elections on Sunday 17 August ('Warnings and insurance' page).",
+    "update_reason": "Removal of information about the general elections.",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Bolivia/Warnings and insurance.md",
-            "update_date": "2025-08-14T15:57:02+01:00"
+            "update_date": "2025-08-18T16:40:42+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Bolivia/Getting help.md"
         }
     ],
-    "update_date": "2025-08-14T15:57:02+01:00"
+    "update_date": "2025-08-18T16:40:42+01:00"
 }
