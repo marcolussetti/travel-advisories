@@ -1,7 +1,7 @@
 {
     "name": "Spain",
-    "update_reason": "Health \u2013 editorial change",
-    "update_date": "2025-08-13T16:04:00",
+    "update_reason": "Natural disasters and climate \u2013 added information on wildfires",
+    "update_date": "2025-08-18T15:52:00",
     "sections": {
         "risk": "canada/Spain/risk.md",
         "security": "canada/Spain/security.md",

@@ -54,7 +54,7 @@ You can apply for 2 consecutive extensions (for a total of 90 days) at any Zimba
 #### Useful links
 
 * [Zimbabwe Department of Immigration](http://www.zimimmigration.gov.zw/)
-* [Apply for an eVisa](https://www.evisa.gov.zw/home) - Government of Zimbabwe eVisa Website
+* [Apply for an eVisa](https://www.evisa.gov.zw) - Government of Zimbabwe eVisa Website
 
 #### Business visa and work permit
 

@@ -2,6 +2,22 @@
 
 ## Natural disasters and climate
 
+### Wildfires
+
+Wildfires are burning in central and northwestern parts of the country. Since early August 2025, fires have rapidly intensified in various provinces, including:
+
+* Ourense
+* Zamora
+* Salamanca
+* León
+* Cáceres
+
+Evacuation orders and warnings are in effect for multiple regions.
+
+Road closures and poor visibility due to smoke are affecting travel. Air quality is significantly degraded in fire-affected zones.
+
+[More information on wildfires](#wildfires)
+
 ### Climate change
 
 Climate change is affecting Spain. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local news to stay informed on the current situation.

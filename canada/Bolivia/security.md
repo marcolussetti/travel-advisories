@@ -2,18 +2,6 @@
 
 ## Safety and security
 
-### General elections
-
-General elections are scheduled for August 17, 2025.
-
-Certain electoral rules will be imposed and strictly enforced before, during, and after the election. Penalties for breaking these rules may be severe and include detention until the end of the election.
-
-* Public demonstrations are banned from midnight on August 14 until 6 pm on August 17
-* The sale and consumption of alcohol is prohibited from midnight on August 15 until noon on August 18
-* Public gatherings; vehicle traffic, including public transportation; and domestic flights are suspended on August 17
-
-While international flights will still operate on August 17, there will be a limited number of taxis authorized to drive to and from the airport.
-
 ### Demonstrations
 
 Demonstrations occur frequently, often with little or no notice. Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation. Protesters may also use dynamite during protests. The police often respond with tear gas to disperse crowds.

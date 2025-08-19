@@ -2,6 +2,21 @@
 
 ## Natural disasters and climate
 
+### Wildfires
+
+Wildfires are burning in northern parts of the country. Since July 2025, fires have rapidly intensified in the following districts:
+
+* Viseu
+* Guarda
+* Coimbra
+* Castelo Branco
+
+Evacuation orders and warnings are in effect for multiple regions.
+
+Road closures and poor visibility due to smoke are affecting travel. Air quality is significantly degraded in fire-affected zones.
+
+[More information on wildfires](#Wildfires)
+
 ### Climate change
 
 Climate change is affecting Portugal. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local media for the latest information.
