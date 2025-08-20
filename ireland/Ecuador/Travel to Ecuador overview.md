@@ -6,9 +6,9 @@ Avoid Non-Essential Travel
 
 ### **Travel Alert**
 
-Exercise increased caution in Ecuador due to civil unrest, crime, and kidnapping.
+Exercise increased caution in Ecuador due to civil unrest, violent crime, and kidnapping.
 
-Owing to drug trafficking, criminal activity, and high risk of violence, the Embassy advises to **avoid all but essential travel to**:
+Owing to drug trafficking, criminal activity, and high risk of violence, the Embassy advises to **avoid all travel to**:
 
 - Within 20km of the border with Colombia, except for the official border-crossing town of Tulcan in Carchi province. In particular, avoid travel to Carchi and Sucumbíos;
 
@@ -90,20 +90,6 @@ Curfew hours (10pm until 05am) apply, until further notice, for the following di
 * Lago Agrio
 
 Should you need to travel to or from the airport during curfew hours, this is permissible by presenting evidence of a flight booking reservation.
-
-### **Heavy Rainfall**
-
-A regional state of emergency was declared by the Committee of Emergency Operations (COE) on 04 July 2025 for 45 days due to heavy rainfall. It applies to the following provinces:
-
-- Zamoras
-
-- Chincipe
-
-- Napo
-
-Visitors are advised to follow the guidance of national and local authorities and stay fully informed of what is going on by monitoring local news and social media.
-
-### **General Travel Advice**
 
 The current security situation remains volatile and uncertain due to the threat of violent crime. Travellers should:
 

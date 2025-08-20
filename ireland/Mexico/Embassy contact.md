@@ -29,3 +29,17 @@ SM22, Cancún
 [Tel: +52 998 195 9063](tel:+52998 195 9063)
 
 **Email:** [anthony.leeman@honoraryconsul.ie](mailto:anthony.leeman@honoraryconsul.ie)
+
+### ​Honorary Consul of Ireland, Guadalajara
+
+John Tobin   
+WeWork Punto Sur, Av. Punto Sur 312   
+Int. 04-137, piso 4   
+Tlajomulco de Zúñiga   
+Jalisco, 45645
+
+[Tel: +52 3318944839](tel:+523318944839)
+
+[john.tobin@honoraryconsul.ie](mailto:john.tobin@honoraryconsul.ie);
+
+[ana.ponce@honoraryconsul.ie](mailto:ana.ponce@honoraryconsul.ie) (assistant)

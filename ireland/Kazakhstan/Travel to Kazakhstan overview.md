@@ -1,6 +1,6 @@
 ## Travel to Kazakhstan overview
 
-### **Security status**
+### **Security Status**
 
 High Degree of Caution
 

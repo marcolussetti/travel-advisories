@@ -4,7 +4,7 @@
 
 High Degree of Caution
 
-### **Latest Travel Alert**
+### **Travel Alert**
 
 The availability and quality of medical services in Guinea is poor. Citizens should be aware that they may have difficulty accessing even basic medical services, particularly in remote areas.
 

@@ -29,6 +29,6 @@ Travellers must declare cash on exit from Ecuador and tax must be paid on amount
 
 There are no **COVID-19 vaccination** requirements to enter Ecuador. While the wearing of facemasks is no longer mandatory in Ecuador, travellers may be asked to wear them by private establishments. It is recommended to carry a mask and proof of vaccination at all times.
 
-As of 12 May 2023, travellers to Ecuador will require a **yellow fever vaccination certificate**, owing to the increase of yellow fever in the region. In particular, travellers from Colombia, Peru, Bolivia, and Brazil will need to present a yellow fever vaccination certificate.
+As of 12 May 2025, travellers to Ecuador will require a **yellow fever vaccination certificate**, owing to the increase of yellow fever in the region. In particular, travellers from Colombia, Peru, Bolivia, and Brazil will need to present a yellow fever vaccination certificate.
 
 The yellow fever vaccine must have been administered at least 10 days before entering Ecuador. The certificate may be requested when boarding by means of air, land, or sea transport to Ecuador.

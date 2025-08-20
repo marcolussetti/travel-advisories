@@ -1,6 +1,6 @@
 {
     "name": "Chile",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "Normal Precautions",
     "pages": [
         {
             "title": "Travel to Chile overview",
@@ -27,5 +27,5 @@
             "file": "ireland/Chile/Embassy contact.md"
         }
     ],
-    "update_date": "2025-08-18T00:00:00"
+    "update_date": "2025-08-19T00:00:00"
 }

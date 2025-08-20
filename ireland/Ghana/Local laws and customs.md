@@ -1,20 +1,20 @@
 ## Local laws and customs
 
-Remember, the local laws apply to you as a visitor and it is your responsibility to follow them. Be sensitive to local customs, traditions and practices as your behaviour may be seen as improper, hostile or even illegal.
-
-### **Local culture**
+### **Local Culture**
 
 Ghana is a conservative and religious country and visitors should use common sense and respect local sensitivities. Beachwear should be confined to the beach, and wearing immodest clothing in public is likely to cause offence or attract unwanted attention.
 
-### **Illegal drugs**
+### **Illegal Drugs**
 
 Illegal drug use (no matter what the drug) carries stiff penalties, including fines and long prison terms.
 
-### **LGBT**
+### **LGBTIQ+**
 
-Homosexuality in Ghana is illegal and can incur a penalty of up to seven years in prison.
+Engaging in same-sex activity is illegal and could lead to prison sentences. LGBTIQ+ relationships and identities are largely regarded as socially unacceptable.
 
-Caution and discretion are advised at all times.
+Violence, threats, extortion, eviction and arbitrary arrest of LGBTIQ + people occur, and the debate around an anti-LGBTIQ+ bill has increased these risks to the LGBTIQ+ community.
+
+LGBTIQ+ travellers are advised to consider travel plans and personal security carefully. Caution and discretion are advised at all times.
 
 ### **Photography**
 

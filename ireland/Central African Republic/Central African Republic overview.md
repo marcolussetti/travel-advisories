@@ -2,7 +2,7 @@
 
 ### **Security Status**
 
-Do not travel
+Do Not Travel
 
 ### **Travel Alert**
 
@@ -16,7 +16,7 @@ Health and travel advice issued by the local authorities in Central African Repu
 
 As there is no Embassy of Ireland or Consulate in the Central African Republic, we are limited in the help we can offer in an emergency. If in the Central African Republic you should [**register**](/en/dfa/overseas-travel/citizens-registration/) your details with us. If consular assistance is required, please contact Consular Assistance at the Department of Foreign Affairs and Trade in Dublin at +353 1 408 2000
 
-### **COVID-19 and Yellow Fever Entry Requirements**
+#### **COVID-19 and Yellow Fever Entry Requirements**
 
 Entry requirements for the Central African Republic can change at short notice. While there are currently no specific travel restriction related to COVID-19, it is advisable to travel with a valid negative COVID-19 test result that has been issued within 48 hours of arrival in the country. A valid Yellow Fever vaccination certificate is required to enter or transit the country. If transiting through a third country, you should also check the travel advice for that country.
 

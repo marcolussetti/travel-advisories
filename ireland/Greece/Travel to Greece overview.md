@@ -6,7 +6,7 @@ Normal Precautions
 
 ### **Travel Alert**
 
-### **Wildfires**
+#### **Wildfires**
 
 Greece is currently facing several wildfires following high summer temperatures and subsequent heatwaves. The risk of wildfires is expected to intensify in the coming weeks.
 
@@ -16,7 +16,7 @@ Stay fully informed of what is going on by monitoring local news and social medi
 
 See [**here**](https://www.civilprotection.gr/en/forest-fires) for official information and advice on forest fires in Greece. You can also [**register to get emergency alerts**](https://civilprotection.gov.gr/112) from the Greek Government’s Emergency Communication Service, to get emergency alerts.
 
-### **Santorini (Thira), Amorgos, Anafi and los**
+#### **Santorini (Thira), Amorgos, Anafi and los**
 
 Following seismic activity in this part of Greece, the authorities have put in place a series of safety measures on Santorini until November, including at the Old Port of Fira, the eastern part of the settlement of Armeni Oia and the Ammoudi Settlement.
 
