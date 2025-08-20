@@ -49,6 +49,10 @@ If you need a visa, you must have at least 6 blank pages in your passport.
 
 ### Other entry requirements
 
+#### Health insurance
+
+When entering Brunei, you must be able to show sufficient proof of medical insurance to customs officials, which must cover the entire length of your stay. If you do not have proof of insurance coverage, your visa will only be valid for two weeks.
+
 #### E-Arrival Card
 
 You must register and get approved for an E-Arrival Card before arriving in Brunei by air, land or sea. If you arrived in Brunei before February 9, 2023, and didn't get an E-Arrival Card, you will need to get one before leaving Brunei. The E-Arrival Card is separate from any visa requirements.

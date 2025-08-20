@@ -4,7 +4,7 @@
 
 ### Crime
 
-#### Petty Crime
+#### Petty crime
 
 Petty crime, such as pickpocketing, purse snatching, and home burglary occurs.
 
@@ -47,12 +47,6 @@ Never leave food or drinks unattended or in the care of strangers. Be wary of ac
 Women travelling alone may face some forms of harassment, verbal abuse and sexual assault.
 
 [Advice for women travellers](https://travel.gc.ca/travelling/health-safety/advice-for-women-travellers "Advice for women travellers")
-
-### 2SLGBTQI+ persons
-
-2SLGBTQI+ persons could be discriminated against based on their sexual orientation, gender identity, gender expression, or sex characteristics.
-
-[Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
 
 ### Demonstrations
 

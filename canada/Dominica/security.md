@@ -32,12 +32,6 @@ Women travelling alone may be subject to some forms of harassment and verbal abu
 
 [Advice for women travellers](https://travel.gc.ca/travelling/health-safety/advice-for-women-travellers "Advice for women travellers")
 
-### 2SLGBTQI+ persons
-
-2SLGBTQI+ persons could be discriminated against based on their sexual orientation, gender identity, gender expression, or sex characteristics.
-
-[Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
-
 ### Power outages
 
 Power outages occur regularly, including in Roseau. They can occur numerous times a day and sometimes for multiple-hour stretches.

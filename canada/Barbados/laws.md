@@ -56,6 +56,14 @@ It is an offence for civilians to dress in camouflage clothing or to carry items
 
 If you plan on buying property, or making other investments in Barbados, seek legal advice in Canada and in Barbados. Do so before making commitments. Related disputes could take time and be costly to resolve.
 
+### 2SLGBTQI+ persons
+
+Barbadian law does not prohibit sexual acts between persons of the same sex.
+
+However, 2SLGBTQI+ persons could be discriminated against based on their sexual orientation, gender identity, gender expression, or sex characteristics.
+
+[Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
+
 ### Marriage
 
 If you wish to marry in Barbados, you must provide an application for a marriage license in person to the Officer at the Ministry of Home Affairs and Information.

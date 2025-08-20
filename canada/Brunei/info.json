@@ -1,7 +1,7 @@
 {
     "name": "Brunei",
-    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
-    "update_date": "2025-07-28T08:03:00",
+    "update_reason": "Entry and exit requirements \u2013 added information about health insurance requirements",
+    "update_date": "2025-08-19T11:23:00",
     "sections": {
         "risk": "canada/Brunei/risk.md",
         "security": "canada/Brunei/security.md",

@@ -14,9 +14,11 @@ Penalties for possession, use or trafficking of illegal drugs are severe. Convic
 
 ### 2SLGBTQI+ persons
 
-Local law criminalizes sexual acts and relationships between individuals of the same sex.
+The law of Saint Vincent and the Grenadines criminalizes sexual acts and relationships between persons of the same sex.
 
-Those convicted can face sentences of up to 10 years' imprisonment.
+2SLGBTQI+ persons could also be discriminated against or detained based on their sexual orientation, gender identity, gender expression or sex characteristics.
+
+Convicted offenders could face up to 10 years of imprisonment and heavy fines.
 
 2SLGBTQI+ persons should carefully consider the risks of travelling to Saint Vincent and the Grenadines.
 

@@ -29,7 +29,7 @@ You need a local driving permit to drive in Saint Kitts and Nevis. You can buy a
 
 ### 2SLGBTQI+ persons
 
-Kittian and Nevisian law doesn’t criminalize sexual acts or relationships between persons of the same sex.
+Kittian and Nevisian law does not prohibit sexual acts between persons of the same sex.
 
 However, 2SLGBTQI+ persons could be discriminated against based on their sexual orientation, gender identity, gender expression or sex characteristics.
 

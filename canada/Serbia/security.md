@@ -2,6 +2,12 @@
 
 ## Safety and security
 
+### Demonstrations
+
+Violent demonstrations are taking place across the country. There have been acts of vandalism, arson, and clashes leading to injuries.
+
+[More on demonstrations and mass gatherings](#demonstrations)
+
 ### Areas bordering Kosovo
 
 Exercise a high degree of caution within 10km of the border with Kosovo due to the potential for political tensions, possible civil unrest and the presence of  landmines.
@@ -74,7 +80,7 @@ Always be aware of your surroundings when in public places.
 
 ### Demonstrations
 
-Demonstrations occur frequently across the country. They have disrupted services and transportation and have led to acts of vandalism, arson and violent clashes between rival groups. Security forces have used tear gas to disperse crowds.
+Demonstrations occur frequently across the country. Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation.
 
 * Avoid areas where demonstrations and large gatherings are taking place
 * Follow the instructions of local authorities

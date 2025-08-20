@@ -4,37 +4,25 @@
 
 ### Terrorism
 
-There is a threat of terrorism. Credible information indicates that foreigners may be targeted by extremists in the following areas:
+There is a threat of terrorism throughout Kenya, including in Nairobi.
 
-* Nairobi
-* Naivasha
-* Nanyuki
-* Meru
-* Narok
-* the coastal areas of Kenya
-
-There is an increased risk of terrorist attacks in the following counties:
-
-* Mandera
-* Wajir
-* Garissa
-
-Terrorist attacks have occurred:
+Terrorist attacks have occurred in the past:
 
 * in Nairobi
 * in the coastal region, including in Mombasa and Malindi
-* in the Mandera, Wajir and Garissa counties, near the border with Somalia
+* in Lamu, Mandera, Wajir and Garissa counties, near the border with Somalia
 
-Foreigners have been targeted in some attacks. Further attacks cannot be ruled out.
+Foreigners have been targeted and further attacks cannot be ruled out.
 
 Targets could include:
 
-* government buildings, including schools
+* government buildings
+* schools, including universities
 * places of worship
 * airports and other transportation hubs and networks
 * public areas such as tourist attractions, restaurants, bars, coffee shops, shopping centres, markets, hotels and other sites frequented by foreigners
 
-Be particularly alert during religious holidays, sporting events and public celebrations. Terrorists have carried out attacks during these events.
+Be particularly alert around anniversary dates of past terrorist attacks such as August 7, September 11 and 21, and October 7. Also remain alert during religious holidays, sporting events and public celebrations. Terrorists have carried out attacks during these events.
 
 * Always be aware of your surroundings when in public places
 * Stay at hotels that have robust security measures, but keep in mind that even the most secure locations cannot be considered completely free of risk

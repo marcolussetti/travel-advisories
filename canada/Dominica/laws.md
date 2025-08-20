@@ -35,11 +35,9 @@ Penalties for drinking and driving are severe. The legal blood alcohol limit is 
 
 ### 2SLGBTQI+ persons
 
-Dominican law prohibits sexual acts between individuals of the same sex.
+Dominican law does not prohibit sexual acts between persons of the same sex.
 
-2SLGBTQI+ persons could also be discriminated against or detained based on their sexual orientation, gender identity, gender expression, or sex characteristics.
-
-2SLGBTQI+ persons should carefully consider the risks of travelling to Dominica.
+However, 2SLGBTQI+ persons could be discriminated against or detained based on their sexual orientation, gender identity, gender expression, or sex characteristics.
 
 [Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
 

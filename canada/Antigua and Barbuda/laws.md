@@ -48,9 +48,9 @@ Be aware that Canadian consular officials cannot interfere in private legal matt
 
 ### 2SLGBTQI+ persons
 
-Antiguan and Barbudan law criminalizes sexual acts and relationships between persons of the same sex, though it is rarely enforced.
+Antiguan and Barbudan law does not prohibit sexual acts between persons of the same sex.
 
-2SLGBTQI+ persons could be discriminated against based on their sexual orientation, gender identity, gender expression, or sex characteristics.
+However, 2SLGBTQI+ persons could be discriminated against based on their sexual orientation, gender identity, gender expression, or sex characteristics.
 
 [Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
 
