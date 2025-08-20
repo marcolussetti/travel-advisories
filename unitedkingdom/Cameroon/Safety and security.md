@@ -29,6 +29,8 @@ The terrorist groups Boko Haram and Islamic State West Africa (ISWA) are mainly 
 
 There are occasional isolated incidents of political unrest around the country. You should stay alert, avoid large gatherings and monitor local media.
 
+Presidential elections will be held on 12 October 2025 in Cameroon. Exercise vigilance in crowded areas and near polling stations, and avoid rallies. Protests and unrest can occur without warning and the situation could change quickly.
+
 Political developments and increased tensions related to the English-speaking North-West and South-West regions could lead to isolated incidents of violence in other parts of the country. This could affect western interests, as well as places frequented by foreigners. You should plan your movements carefully. In November 2020, a threat by non-state armed groups was made against diplomatic missions in Yaoundé, including the British High Commission.
 
 ### Bomb attacks

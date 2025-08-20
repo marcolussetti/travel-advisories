@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   20 August 2025
 
 Updated:
-:   21 November 2024
+:   19 August 2025
 
 Latest update:
-:   Updated information about what health risks you'll face in Cameroon ('Health' page)
+:   New information about Cameroonian elections in October 2025 (See ‘Political situation’ in 'Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/639343a4e90e0769b63df154/FCDO__TA__008_-_Cameroon_Travel_Advice_Ed5__WEB_.jpg)
 

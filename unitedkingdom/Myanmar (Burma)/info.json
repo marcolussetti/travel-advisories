@@ -1,11 +1,11 @@
 {
     "name": "Myanmar (Burma)",
-    "update_reason": "Updated information on Mandalay and Naypyitaw airports operating as usual ('Warnings and insurance' page).",
+    "update_reason": "Information added about the regional risks in Myanmar and additional guidance on potential security risks around the upcoming election period which is proposed to begin in December ('Safety and security' and 'Regional risks' pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Myanmar (Burma)/Warnings and insurance.md",
-            "update_date": "2025-06-11T13:52:45+01:00"
+            "update_date": "2025-08-19T16:06:52+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Myanmar (Burma)/Getting help.md"
         }
     ],
-    "update_date": "2025-06-11T13:52:45+01:00"
+    "update_date": "2025-08-19T16:06:52+01:00"
 }

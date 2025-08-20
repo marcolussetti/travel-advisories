@@ -1,11 +1,11 @@
 {
     "name": "Mexico",
-    "update_reason": "Information about travel disruption in Mexico City ('Warnings and insurance' page).",
+    "update_reason": "Removal of information about travel disruption at Benito Juarez International Airport (AICM) in Mexico City.",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Mexico/Warnings and insurance.md",
-            "update_date": "2025-08-12T15:42:01+01:00"
+            "update_date": "2025-08-19T10:50:26+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Mexico/Getting help.md"
         }
     ],
-    "update_date": "2025-08-12T15:42:01+01:00"
+    "update_date": "2025-08-19T10:50:26+01:00"
 }

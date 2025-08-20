@@ -1,19 +1,15 @@
 # Warnings and insurance
 
 Still current at:
-:   12 August 2025
+:   20 August 2025
 
 Updated:
-:   11 August 2025
+:   19 August 2025
 
 Latest update:
-:   New information on Typhoon Podul (‘Warnings and insurance' page).
+:   Removal of information on Typhoon Podul ('Warnings and insurance' page).
 
 The UK does not recognise Taiwan as a state and has no diplomatic relations with Taiwan, so limited support is available to British nationals. Please refer to the [British Office in Taipei](https://www.gov.uk/world/organisations/british-office-taipei) for further information.
-
-### Tyhpoon Podul
-
-According to Taiwan’s Central Weather Administration, Typhoon Podul is expected to make landfall on Taiwan’s East coast (Hualien and Taitung) on 13 August (Wednesday), with expected impacts across the whole of Taiwan through to 14 August (Thursday). Be alert to risks from heavy rainfall in all regions of Taiwan.
 
 ## Before you travel
 

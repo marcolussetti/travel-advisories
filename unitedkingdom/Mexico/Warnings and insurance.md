@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   13 August 2025
+:   20 August 2025
 
 Updated:
-:   12 August 2025
+:   19 August 2025
 
 Latest update:
-:   Information about travel disruption in Mexico City ('Warnings and insurance' page).
+:   Removal of information about travel disruption at Benito Juarez International Airport (AICM) in Mexico City.
 
 ![](https://assets.publishing.service.gov.uk/media/65fabfdfaa9b76001dfbdb8a/FCDO_TA_065_-_Mexico_Travel_Advice_Ed5_WEB.jpg)
 
@@ -106,10 +106,6 @@ FCDO advises against all but essential travel to within 40km of the Guatemalan b
 FCDO advises against all but essential travel on Federal Highway 199 (Carretera Federal 199) between Rancho Nuevo (just outside San Cristobal de las Casas) and the Chancalá junction just outside Palenque (where Federal Highway 199 meets Federal Highway 307).
 
 Find out more about [why FCDO advises against travel to these areas](/foreign-travel-advice/mexico/regional-risks).
-
-## Travel disruption Mexico City
-
-Heavy rain over 10-12 August has forced sporadic closures to Benito Juarez International Airport (AICM) in Mexico City. Flights have been cancelled and roads around the airport have faced flooding and significant disruption. It is possible that rains may continue to cause disruption in the coming days. Monitor local media and stay in touch with your airline or travel agent.
 
 ## Before you travel
 

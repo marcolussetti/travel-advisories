@@ -1,11 +1,11 @@
 {
     "name": "Burkina Faso",
-    "update_reason": "New information and language on criminal and terrorist kidnaps (See \u2018Terrorist kidnap\u2019 and \u2018Criminal kidnapping\u2019 on the \u2018Safety and security\u2019 page).",
+    "update_reason": "Updated information on the threat of terrorist attacks to roads (See \u2018Road safety\u2019 on the \u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Burkina Faso/Warnings and insurance.md",
-            "update_date": "2025-08-04T16:02:05+01:00"
+            "update_date": "2025-08-19T10:48:02+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Burkina Faso/Getting help.md"
         }
     ],
-    "update_date": "2025-08-04T16:02:05+01:00"
+    "update_date": "2025-08-19T10:48:02+01:00"
 }

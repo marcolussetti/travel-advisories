@@ -24,6 +24,14 @@ See [what health risks you’ll face in Zambia](https://travelhealthpro.org.uk/c
 
 The UNAIDS Zambia country progress report of 2020 estimated the overall HIV prevalence in the adult population is 11%, compared to a prevalence of 0.2% in adults in the UK. Take normal precautions to [avoid exposure to HIV/AIDS](https://travelhealthpro.org.uk/factsheet/15/sexually-transmitted-infections).
 
+## Potential health risks from heavy metals in water
+
+Chemical waste containing heavy metals was released from a mine in Copperbelt Province into the Chambishi Stream and the Mwambashi and Kafue Rivers in February 2025. Exposure to heavy metal contaminants may affect health. As a precaution:
+
+* avoid bathing in rivers and streams near the Chambishi stream, and where the Mwambashi and Kafue rivers meet
+* avoid consuming untreated locally sourced water or fish from this area. Boiling water does not remove heavy metal contaminants
+* seek medical attention if you feel unwell
+
 ## Medication
 
 The legal status and regulation of some medicines prescribed or bought in the UK can be different in other countries.

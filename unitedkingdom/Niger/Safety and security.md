@@ -21,7 +21,7 @@ There is a heightened risk of attack in Niamey. Terrorist  attacks could be ind
 * locations popular with tourists and foreign nationals
 * sporting and cultural events
 * shopping centres
-* transport hubs
+* major roads and transport hubs
 * religious sites and places of worship, particularly churches
 * national parks and nature reserves; including the Parc du W
 * foreign, national or local government buildings
@@ -30,6 +30,8 @@ There is a heightened risk of attack in Niamey. Terrorist  attacks could be ind
 There may be a heightened risk of attack during election periods and religious festivals including the month of Ramadan. Stay aware of your surroundings, keep up to date with local media reports and follow the advice of local authorities.
 
 There are frequent attacks across Niger, particularly in the Diffa and Tillabéri regions.
+
+[See also road safety](https://www.gov.uk/foreign-travel-advice/niger/safety-and-security)
 
 Examples of significant attacks include:
 
@@ -159,7 +161,7 @@ FCDO advises against all travel outside the capital Niamey.
 
 The Government of Niger will only allow foreign nationals to travel outside of Niamey if you get their permission and are escorted by Nigerien security and military forces.
 
-There have been reports of landmines being used in Burkina Faso on the road between Ouagadougou and Niamey.
+Attacks on major roads and other transport routes by terrorists are increasing, including through the use of landmines and other explosive devices. This is particularly the case in areas where terrorist groups are operational, including on the road between Ouagadougou and Niamey.
 
 There is minimal infrastructure in rural or desert areas, including a lack of phone signal or access to healthcare, food and water. Some roads are pot-holed, conditions are often worse during and just after rainy season. Driving standards are poor. Vehicles often drive without lights at night and there is little street lighting.
 

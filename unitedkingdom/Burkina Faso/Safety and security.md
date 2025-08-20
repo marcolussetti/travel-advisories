@@ -19,7 +19,7 @@ There is a high threat from terrorism throughout the country, including increasi
 * tourist sites
 * sporting and cultural events including music festivals
 * shopping centres
-* transport hubs
+* major roads and transport hubs
 * religious sites and places of worship, particularly churches
 * national parks and nature reserves
 * foreign, national or local government buildings
@@ -28,6 +28,8 @@ There is a high threat from terrorism throughout the country, including increasi
 There may be a heightened risk of attack during festivals, and religious and public holiday periods. Stay aware of your surroundings, keep up to date with local media reports and follow the advice of the local authorities.
 
 There are frequent attacks across Burkina Faso, particularly close to the borders with Mali, Niger and Côte d’Ivoire and in the eastern region.
+
+[See also road safety](https://www.gov.uk/foreign-travel-advice/burkina-faso/safety-and-security)
 
 Examples of significant attacks include:
 
@@ -137,17 +139,19 @@ The best option is to bring US dollars in cash to exchange.
 
 If you’re planning to drive in Burkina Faso, see [information on driving abroad](https://www.gov.uk/driving-abroad).
 
-Get security advice about travelling by road anywhere outside Ouagadougou.
+Get security advice about travelling by road in Burkina Faso.
 
 You can use a UK photocard driving licence to drive in Burkina Faso. If you still have a paper driving licence, you may need to [update it to a photocard licence](https://www.gov.uk/exchange-paper-driving-licence) or get the [1949 version of the international driving permit (IDP)](https://www.gov.uk/driving-abroad/international-driving-permit).
+
+### Road safety
 
 Roads, even if they are paved, are in a poor state of repair. Road conditions off the main roads are often difficult, especially in the rainy season from June to October. Vehicles are often in poor condition.
 
 Avoid travelling at night, even if using a local driver. Roads have very limited lighting, and vehicles often have no headlights. Livestock, pedestrians and motorbikes on the roads are additional hazards.
 
-### Using secure vehicles
+Attacks on major roads and transport routes by terrorists are increasing, including through the use of landmines and other explosive devices. This is particularly the case in areas where terrorist groups are operational and near border areas.
 
-If you decide to travel outside the capital against FCDO advice, get professional security advice. There is danger of armed attacks on all roads, but especially:
+There is danger of armed attacks on all roads, including:
 
 * from Ouagadougou to Bobo-Dioulasso
 * from Bobo-Dioulasso to Côte d’Ivoire
@@ -155,7 +159,7 @@ If you decide to travel outside the capital against FCDO advice, get professiona
 * to Benin, Bogandée and Gayeri
 * to Niger
 
-Stay on clearly marked roads or tracks and avoid minor roads unless travelling in convoy. There is limited access to phone networks, so consider taking a satellite phone in case you break down or have another emergency. Always carry drinking water with you.
+There is limited access to phone networks, so consider taking a satellite phone in case you break down or have another emergency. Always carry drinking water with you.
 
 ## Extreme weather and natural disasters
 

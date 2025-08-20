@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   5 August 2025
+:   20 August 2025
 
 Updated:
-:   4 August 2025
+:   19 August 2025
 
 Latest update:
-:   New information for criminal kidnaps (See ‘Criminal kidnapping’ on the ‘Safety and security’ page).
+:   Updated information on the threat of terrorist attacks to roads (See ‘Road safety’ on the ‘Safety and security’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/66c48e1c2e8f04b086cdf445/FCDO__TA__029_-_Niger_Travel_Advice_Ed3__WEB_.jpg)
 

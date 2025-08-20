@@ -30,6 +30,8 @@ Attacks could be indiscriminate and occur at any time, including in places frequ
 * shopping centres and crowded places
 * hotels, restaurants and bars
 
+[See also road safety](https://www.gov.uk/foreign-travel-advice/mali/safety-and-security)
+
 Examples of recent significant attacks include:
 
 * in June 2025, JNIM claimed to kill more than 150 soldiers, in multiple attacks targeting military bases in Boulkessi, Timbuktu and Mahou
@@ -159,9 +161,11 @@ Approach security checkpoints slowly and follow instructions. There have been in
 
 Exercise caution and do not resist demands if you feel threatened or in danger.
 
-### Road conditions
+### Road safety
 
-Road conditions in Bamako are difficult during the rainy season from June to October. Roads outside Bamako are often damaged and dangerous. Other road users may drive unpredictably. There is a risk of landmines and other explosive devices on the roads in northern and eastern Mali.
+Road conditions in Bamako are difficult during the rainy season from June to October. Roads outside Bamako are often damaged and dangerous. Other road users may drive unpredictably.
+
+Attacks on major roads and transport routes by terrorists are increasing across the country, including through the use of landmines and other explosive devices. This is particularly the case in areas where terrorist groups are operational and near border areas, including the roads in northern and eastern Mali.
 
 Take all necessary safety precautions, especially outside of main urban areas, have confidence in your security arrangements and stay alert.
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   12 June 2025
+:   20 August 2025
 
 Updated:
-:   11 June 2025
+:   19 August 2025
 
 Latest update:
-:   Updated information on Mandalay and Naypyitaw airports operating as usual ('Warnings and insurance' page).
+:   Information added about the regional risks in Myanmar and additional guidance on potential security risks around the upcoming election period which is proposed to begin in December ('Safety and security' and 'Regional risks' pages).
 
 ![](https://assets.publishing.service.gov.uk/media/67f50d1390615dd92bc90cf7/FCDO__TA__064_-_Myanmar_Ed9__WEB_.jpg)
 
@@ -44,25 +44,6 @@ FCDO advises against all but essential travel to:
 The conflict is Myanmar is increasingly volatile. The security situation may deteriorate at short notice and the military regime can introduce travel restrictions at any time. Consider your travel plans carefully.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/myanmar/regional-risks).
-
-## Earthquake in Myanmar
-
-On 28 March, a 7.7 magnitude earthquake hit Myanmar and neighbouring areas. Naypyitaw, Sagaing region, and Mandalay region continue to be affected, but especially the epicentre near Mandalay City, Mandalay region. There is heavy damage to infrastructure.
-
-Mandalay and Naypyitaw airports are now operating as usual.
-
-If you are within these regions, there may be several strong after-shocks. Follow the advice of local authorities and monitor local media.
-
-British nationals in Myanmar who require consular assistance can call British Embassy Yangon on +95 (01) 370 863/4/5/7.
-
-If you’re in the area, follow the advice of the local authorities and monitor local media.
-
-See the US Federal Emergency Management Agency advice about [what to do before, during and after an earthquake](http://www.ready.gov/earthquakes).
-
-UNICEF also have information on staying safe in an earthquake:
-
-* [in English](https://www.unicef.org/myanmar/earthquake-safety-information-en?fbclid=IwZXh0bgNhZW0CMTAAAR0kW12iLQyfEX5B9qvY6ZVyl6wftxOI1yB0c1DDeYGt5hhXQvUgtKi0XIE_aem_b7Q-S3efNb3x32nCjb1VQg)
-* [in Burmese](https://www.unicef.org/myanmar/my/earthquake-safety-information-my)
 
 ## Before you travel
 

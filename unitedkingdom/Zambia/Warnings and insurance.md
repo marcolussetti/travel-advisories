@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   20 August 2025
 
 Updated:
-:   14 November 2024
+:   19 August 2025
 
 Latest update:
-:   Updated information about health risks you may face in Zambia ('Health' page)
+:   New information on the potential health risks from heavy metals in water (‘Health’ page).
 
 ## Before you travel
 

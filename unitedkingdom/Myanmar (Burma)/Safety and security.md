@@ -1,6 +1,6 @@
 # Safety and security
 
-This guide also has safety advice for [regions of Myanmar](https://www.gov.uk/foreign-travel-advice/myanmar/regional-risks).
+This guide also has safety and security advice for [regions of Myanmar](https://www.gov.uk/foreign-travel-advice/myanmar/regional-risks).
 
 ## Terrorism
 
@@ -29,7 +29,7 @@ There have also been attacks on schools and hospitals.
 
 There is a higher likelihood of opposition attacks after sunset and an increased presence of security forces on occasions of national significance, including:
 
-* Myanmar Independence Day (4 January )
+* Myanmar Independence Day (4 January)
 * the anniversary of the 2021 coup (1 February)
 * Union Day (12 February)
 * Peasants Day (2 March)
@@ -38,12 +38,14 @@ There is a higher likelihood of opposition attacks after sunset and an increased
 * Martyrs’ Day (19 July)
 * the anniversary of the execution of political prisoners (23 to 25 July)
 * the lapsing of the state of emergency (1 August)
-* the 8888 uprising (8 August )
+* the 8888 uprising (8 August)
 * National Day (25 November)
 
 Some areas in Myanmar are under martial law; others have curfews or ‘stay at home’ orders. In Yangon, there is a city-wide curfew from 1am to 3am (see [Regional Risks](https://www.gov.uk/foreign-travel-advice/myanmar/regional-risks)). Ensure you are aware of local restrictions. If you ignore military instructions or curfews, you could be detained and, if you’re convicted, you could face a lengthy prison sentence. Ensure you are aware of local rules and restrictions before you arrive in an area.
 
 Be cautious and avoid all demonstrations, large crowds and political gatherings. You risk arrest and detention if you attempt to photograph demonstrations or protests.
+
+The military regime has stated its intention to hold elections starting in December 2025 and running into early 2026. Stay alert as the security situation could deteriorate at short notice including around sites and venues related to the election, such as campaign events, polling sites, or political party premises.
 
 ## Police and military checkpoints
 
@@ -58,7 +60,7 @@ The most common crimes in Myanmar are non-violent crimes of opportunity, includi
 * pickpocketing
 * theft of unattended possessions in public places or hotel rooms
 
-Myanmar is largely a cash based society. Make sure you have access to your cash, but avoid displaying it or other valuables in public.
+Myanmar is largely a cash-based society. Make sure you have access to your cash, but avoid displaying it or other valuables in public.
 
 ### Protecting your belongings
 
@@ -68,7 +70,7 @@ Thieves often distract their victims by asking questions, begging for money, off
 
 Be wary of merchants offering to sell gems, gold or semi-precious stones. You could lose your money or get drawn into an illegal activity. Do not buy gems or minerals from an unlicensed source.
 
-Be cautious of job offers that appear too good to be true in Myanmar and neighbouring countries. There are cyber scam centres operating in eastern Myanmar, particularly in the Myawaddy district in eastern Kayin and Tachileik township in eastern Shan. Victims are trafficked into Myanmar to carry out online scams. They are held in poor living conditions and subjected to severe mistreatment. Some victims have had their passports confiscated and have been held to ransom.
+Be cautious of job offers that appear too good to be true in Myanmar and neighbouring countries. There are cyber scam centres operating across Myanmar, particularly in the Myawaddy district in eastern Kayin and Tachileik township in eastern Shan. Victims are trafficked into Myanmar to carry out online scams. They are held in poor living conditions and subjected to severe mistreatment. Some victims have had their passports confiscated and have been held to ransom.
 
 FCDO is aware of fraudulent emails being sent by individuals claiming to work for British firms seeking loans to advance their business interests in Myanmar. These have falsely stated they are acting on the advice of the British Embassy.
 
@@ -88,7 +90,7 @@ Visitors can buy a SIM card for a nominal fee when they arrive. They can be topp
 
 ### Detention and arrest
 
-There is a risk of arbitrary detention and arrest, particularly for journalists and human rights activists. The criminal justice process followed in such cases falls below international standards.
+There is a risk of arbitrary detention and arrest, particularly for journalists and human rights activists. The criminal justice process followed in such cases falls below international standards. The death penalty is in place in Myanmar.
 
 Myanmar does not recognise dual nationality. If you are a dual national with Myanmar nationality you will be treated as a Myanmar national by local authorities.
 
@@ -102,7 +104,7 @@ The legal process in Myanmar is unpredictable, lacks transparency and is open to
 
 ### Religious customs
 
-When visiting Buddhist religious sites, respect religious customs. Shorts and sleeveless tops will cause offence. You should remove shoes and socks before entering a pagoda or monastery.
+Although primarily Buddhist, many different religions are represented in Myanmar.  When visiting Buddhist religious sites, respect religious customs. Shorts and sleeveless tops will cause offence. You should remove shoes and socks before entering a pagoda or monastery.
 
 Under Myanmar law, insulting religion is a prosecutable offence. Insulting religion is a broad term and can include any disrespectful depiction or image of Buddha or other religious representation. This includes tattoos of Buddha.
 
@@ -116,7 +118,7 @@ For possession of illegal drugs in Myanmar, you could get a fine and a prison se
 
 Do not take photographs or videos of the police, demonstrations, military installations or military personnel.
 
-There are strict regulations around bringing in and using drones in Myanmar. Using a drone around government buildings, religious buildings or even tourist sites can result in criminal penalties, including a possible prison sentence. If you want to bring and use a drone in Myanmar, get permission from the Myanmar authorities.
+There are strict regulations around bringing in and using drones in Myanmar. Using a drone around government buildings, religious buildings or even tourist sites can result in criminal penalties, including a possible prison sentence. Do not attempt to enter Myanmar with a drone unless you have the necessary permits in place before you travel.
 
 ### LGBT+ travellers
 
@@ -138,15 +140,15 @@ Local authorities have a particular interest in and are monitoring the importati
 
 If you are planning to drive in Myanmar, see [information on driving abroad](https://www.gov.uk/driving-abroad).
 
-The permits and licences you need for driving in Myanmar may change at short notice. Contact your car hire company to find out the latest requirements before you travel. At a minimum, you should carry both the [1969 international driving permit (IDP)](https://www.gov.uk/driving-abroad/international-driving-permit) and your UK driving licence. You cannot buy an IDP outside the UK, so get one before you travel .
+The permits and licences you need for driving in Myanmar may change at short notice. Contact your car hire company to find out the latest requirements before you travel. At a minimum, you should carry both the [1969 international driving permit (IDP)](https://www.gov.uk/driving-abroad/international-driving-permit) and your UK driving licence. You cannot buy an IDP outside the UK, so get one before you travel.
 
-Overland travel can be hazardous, particularly in the rainy season from May to October. Roads can become impassable and bridges are sometimes damaged. Travel by road can be restricted at short notice by military and opposition forces.
+Overland travel can be hazardous, particularly in the rainy season from May to October. Roads can become impassable, and bridges are sometimes damaged. Travel by road can be restricted at short notice by military and opposition forces. Some roads and infrastructure were damaged in the March 2025 earthquake.
 
-Road safety standards are significantly lower than in the UK. Serious road accidents are common. Under Myanmar law, the driver of a car involved in an accident with a pedestrian is always at fault.
+Road safety standards are significantly lower than in the UK. Serious road accidents are common. Medical facilities, outside major cities, fall below international standards. Under Myanmar law, the driver of a car involved in an accident with a pedestrian is always at fault.
 
 Many vehicles, including taxis and buses, are in a poor condition. Although driving is on the right in Myanmar, the majority of cars are right-hand drive.
 
-There are recent reports of attacks on the Yangon-Mandalay Expressway and National Highway 1 that links Yangon to Mandalay . Attacks have included the use of landmines and improvised explosive devices. There is an increased risk of attacks after dark, and an unofficial curfew is in place.
+There are recent reports of attacks on the Yangon-Mandalay Expressway and National Highway 1 that links Yangon to Mandalay. Attacks have included the use of landmines and improvised explosive devices. There is an increased risk of attacks after dark, and an unofficial curfew is in place.
 
 ### Rail travel
 
@@ -170,7 +172,9 @@ Myanmar normally experiences cyclones between mid-April and mid-May, and during 
 
 ### Earthquakes
 
-There is a risk of earthquakes and tremors. The US Federal Emergency Management Agency has advice about [what to do before, during and after an earthquake](http://www.ready.gov/earthquakes) or [tsunami](http://www.ready.gov/tsunamis).
+There is a risk of earthquakes in Myanmar. On 28 March, a 7.7 magnitude earthquake hit Myanmar and neighbouring areas. Naypyitaw, Sagaing region, and Mandalay region continue to be affected. There is heavy damage to infrastructure, including to hospitals and roads. If you are within these regions follow the advice of local authorities and monitor local media.
+
+The US Federal Emergency Management Agency has advice about [what to do before, during and after an earthquake](http://www.ready.gov/earthquakes) or [tsunami](http://www.ready.gov/tsunamis).
 
 [Previous
 :

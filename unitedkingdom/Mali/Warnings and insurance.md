@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   5 August 2025
+:   20 August 2025
 
 Updated:
-:   4 August 2025
+:   19 August 2025
 
 Latest update:
-:   Updated information and language on criminal and terrorist kidnaps (See ‘Terrorist kidnap’ and ‘Criminal kidnapping’ on the ‘Safety and security’ page).
+:   Updated information on the threat of terrorist attacks to roads (See ‘Road safety’ on the ‘Safety and security’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/651e9d407309a10014b0a8b3/FCDO__TA__026_-_Mali_Travel_Advice_Ed5__WEB_.jpg)
 

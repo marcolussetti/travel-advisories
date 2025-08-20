@@ -30,14 +30,6 @@ To enter Myanmar, you must have a certificate to prove you’ve had a yellow fev
 
 For full details about medical entry requirements and recommended vaccinations, see [TravelHealthPro’s Myanmar guide](https://travelhealthpro.org.uk/country/156/myanmar-burma).
 
-## Health screening
-
-### Mpox
-
-Travellers will be expected to complete a short health declaration in relation to the mpox virus on arrival.
-
-Read [more about mpox from TravelHealthPro](https://travelhealthpro.org.uk/disease/125/mpox-monkeypox).
-
 ## Customs rules
 
 There are strict rules about goods you can take into or out of Myanmar. You must declare anything that may be prohibited or subject to tax or duty.
