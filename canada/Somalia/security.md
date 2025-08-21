@@ -2,20 +2,6 @@
 
 ## Safety and security
 
-### Heightened risk of terrorism
-
-On March 4, 2025, the U.S. Embassy in Somalia issued the following security alert:
-
-“The U.S. Embassy in Mogadishu is tracking credible information related to potential imminent attacks against multiple locations in Somalia including Mogadishu’s Aden Adde International Airport. ’’
-
-If you’re in Somalia:
-
-* be vigilant in public spaces, especially in areas frequented by foreigners
-* avoid areas where demonstrations and large gatherings are taking place
-* locate the emergency exits in buildings you enter
-
-[Security alert](https://so.usembassy.gov/security-alert-for-u-s-citizens-march-4-2025/) – U.S. Embassy in Somalia
-
 There is no resident Canadian government office in Somalia; therefore, the Government of Canada can’t provide consular assistance to you if you are in distress in Somalia. If so, you will have to make your way to the nearest Canadian embassy or consulate or rely on your own resources.
 
 The rule of law is virtually non-existent. Violent demonstrations, suicide bombings, attacks and military activity occur regularly. The current situation represents a very serious threat to travellers. Be aware that anti-Western sentiment may at times be strong. Foreign travellers, including journalists, human rights activists and humanitarian workers, are at very high risk of kidnapping, murder and arrest without notice or apparent cause.

@@ -4,6 +4,10 @@
 
 ### Terrorism
 
+On August 19, 2025, the U.S. Embassy in Nairobi issued the following security alert:
+
+“Terrorist groups, such as al-Shabaab, are an ongoing and persistent threat not only in Kenya as a whole, but also in Nairobi. Locations such as hotels, embassies, restaurants, malls and markets, schools, police stations, places of worship, and other places frequented by foreigners and tourists continue to be attractive targets. Terrorist groups can attack with little to no warning. While attacks can occur at any time, concerns are heightened in proximity to anniversary dates of prior attacks such as August 7th, September 11th, September 21st Westgate Mall attack, and the October 7th Hamas attack against Israel.”
+
 There is a threat of terrorism throughout Kenya, including in Nairobi.
 
 Terrorist attacks have occurred in the past:
@@ -25,6 +29,7 @@ Targets could include:
 Be particularly alert around anniversary dates of past terrorist attacks such as August 7, September 11 and 21, and October 7. Also remain alert during religious holidays, sporting events and public celebrations. Terrorists have carried out attacks during these events.
 
 * Always be aware of your surroundings when in public places
+* Avoid areas where large gatherings are taking place
 * Stay at hotels that have robust security measures, but keep in mind that even the most secure locations cannot be considered completely free of risk
 
 ### Areas bordering Somalia and portion of the Coast region
@@ -254,3 +259,5 @@ Pirate attacks and armed robbery against ships occur in coastal waters. Mariners
 We do not make assessments on the compliance of foreign domestic airlines with international safety standards.
 
 [Information about foreign domestic airlines](https://travel.gc.ca/air/in-flight-safety#other)
+
+* ~~Avoid areas where demonstrations and large gatherings are taking place~~

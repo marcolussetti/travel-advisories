@@ -26,6 +26,28 @@ If you are in an affected area:
 
 If you or your family require assistance, contact the Embassy of Canada in Kinshasa or Global Affairs Canada's 24/7 [Emergency Watch and Response Centre](https://travel.gc.ca/assistance/emergency-assistance).
 
+### Terrorism
+
+On August 20, 2025, the U.S. Embassy in Kinshasa issued the following security alert: “The U.S. Embassy in Kinshasa alerts U.S. citizens that we have received reports indicating places of worship may be the target of terrorist attacks in the North Kivu province in the Democratic Republic of the Congo. The Embassy advises U.S. citizens to exercise increased awareness, avoid large gatherings, and monitor local news and security updates.”
+
+There is a threat of terrorism in the Democratic Republic of Congo, particularly in the border areas with Rwanda, Burundi and Uganda. Armed groups clash over control of goods-trafficking routes, mining sites and agricultural areas.
+
+Attacks on civilians and government targets occur frequently. Further attacks are likely.
+
+Targets could include:
+
+* government buildings, including police stations
+* schools, including universities
+* places of worship
+* airports and other transportation hubs and networks
+* public areas such as restaurants, bars, coffee shops, markets, hotels and other sites frequented by foreigners
+
+Large-scale events could be targeted.
+
+* Always be aware of your surroundings when in public places
+* Monitor local media
+* Follow the instructions of the local authorities
+
 ### Demonstrations
 
 Demonstrations occur frequently, especially in Kinshasa. Even peaceful demonstrations can turn violent suddenly. They can also cause major disruption to traffic and public transport.
@@ -124,26 +146,6 @@ In the capital, choose a hotel in the commune of Gombe, which is both the admini
 
 * Exercise extreme caution outside the commune of Gombe
 * Avoid all travel after dark
-
-### Terrorism
-
-There is a threat of terrorism in the Democratic Republic of Congo, particularly in the border areas with Rwanda, Burundi and Uganda. Armed groups clash over control of goods-trafficking routes, mining sites and agricultural areas.
-
-Attacks on civilians and government targets occur frequently. Further attacks are likely.
-
-Targets could include:
-
-* government buildings, including police stations
-* schools, including universities
-* places of worship
-* airports and other transportation hubs and networks
-* public areas such as restaurants, bars, coffee shops, markets, hotels and other sites frequented by foreigners
-
-Large-scale events could be targeted.
-
-* Always be aware of your surroundings when in public places
-* Monitor local media
-* Follow the instructions of the local authorities
 
 ### Crime
 

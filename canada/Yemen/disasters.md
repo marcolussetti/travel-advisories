@@ -2,6 +2,22 @@
 
 ## Natural disasters and climate
 
+### Floods
+
+Since August 19, 2025, heavy rains have caused severe flooding in Yemen, including in Aden and Sanaa. The floods have caused significant damage to buildings and infrastructure.
+
+Further rainfall is expected in the coming days, increasing the risk of flooding in areas already affected. The following essential services are severely disrupted:
+
+* transportation
+* power distribution
+* drinking water supply
+
+If you are in an affected area:
+
+* stay away from flooded areas, rivers and streams
+* monitor local news and weather reports
+* follow the instructions of emergency personnel, including evacuation orders
+
 ### Climate change
 
 Climate change is affecting Yemen. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local media for the latest information.
