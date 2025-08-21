@@ -1,11 +1,11 @@
 {
     "name": "Pakistan",
-    "update_reason": "Addition of information relating to flash flooding and landslides in Pakistan (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Updated information about the flash flooding and landslides in Pakistan (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Pakistan/Warnings and insurance.md",
-            "update_date": "2025-08-18T16:08:07+01:00"
+            "update_date": "2025-08-20T12:18:11+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Pakistan/Getting help.md"
         }
     ],
-    "update_date": "2025-08-18T16:08:07+01:00"
+    "update_date": "2025-08-20T12:18:11+01:00"
 }

@@ -1,13 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   5 June 2025
+:   21 August 2025
 
 Updated:
-:   4 June 2025
+:   20 August 2025
 
 Latest update:
-:   Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport ('Safety and security' page).
+:   New information on maintenance at Astana airport from 1 September to 31 October (‘Warnings and insurance’ page).
+
+## Maintenance in Astana International Airport
+
+Astana International Airport will undergo scheduled runway maintenance from 1 September to 31 October between 10a.m. and 6 p.m. Check with your airline for the latest information on arrival and departure times, as schedules may be adjusted at short notice.
 
 ## Before you travel
 

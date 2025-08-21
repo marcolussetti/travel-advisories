@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   19 August 2025
+:   21 August 2025
 
 Updated:
-:   18 August 2025
+:   20 August 2025
 
 Latest update:
-:   Addition of information relating to flash flooding and landslides in Pakistan (‘Warnings and insurance’ page).
+:   Updated information about the flash flooding and landslides in Pakistan (‘Warnings and insurance’ page).
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -64,11 +64,7 @@ Find out more about [why FCDO advises against travel to these regions](/foreign-
 
 ## Flash flooding and landslides
 
-Above average rainfall is causing flash floods and landslides in Pakistan, damaging roads, bridges, and telecommunication infrastructure in northern areas, the following areas are particularly affected:
-
-* Khyber Pakhtunkhwa
-* Gilgit-Baltistan
-* Pakistan-Administered Kashmir
+Above average rainfall is causing flash floods and landslides in Pakistan, damaging roads, bridges, and telecommunication infrastructure across the country.
 
 The Government of Pakistan’s [National Disaster Management Authority](https://www.ndma.gov.pk/) is advising against all tourist activity to disaster-vulnerable areas. Follow local weather updates from the [Pakistan Meteorological Department](https://www.pmd.gov.pk/en/) and follow weather advisories from the [National Disaster Management Authority](https://www.ndma.gov.pk/).  Also follow UK guidance on how to [prepare for and respond to extreme weather and natural hazards](https://www.gov.uk/guidance/extreme-weather-and-natural-hazards). If you are a British national in need of urgent assistance, [contact us](https://www.contact.service.csd.fcdo.gov.uk/emergency-help/country).
 

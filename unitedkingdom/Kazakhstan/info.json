@@ -1,11 +1,11 @@
 {
     "name": "Kazakhstan",
-    "update_reason": "Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport ('Safety and security' page).",
+    "update_reason": "New information on maintenance at Astana airport from 1 September to 31 October (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Kazakhstan/Warnings and insurance.md",
-            "update_date": "2025-06-04T17:07:51+01:00"
+            "update_date": "2025-08-20T11:02:45+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Kazakhstan/Getting help.md"
         }
     ],
-    "update_date": "2025-06-04T17:07:51+01:00"
+    "update_date": "2025-08-20T11:02:45+01:00"
 }
