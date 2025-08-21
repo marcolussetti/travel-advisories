@@ -1,16 +1,16 @@
 ## Entry requirements
 
-### Visas
+### **Visa**
 
 Irish passport holders do not need to get a visa before arrival. A visa, normally valid for 90 days, will be issued on arrival if you hold a valid Irish passport and have a return ticket.
 
-### **Passports**
+### **Passport**
 
 Citizens need a valid passport to enter Mauritius and your passport must be valid for a minimum of six months from the date you enter the country. You may be refused entry to Mauritius if your passport has less than six months validity remaining or if you do not have a return ticket.
 
 It is advisable to take a number of photocopies of your passport and to also carry a photocopy at all times during your stay.
 
-### **Lost or Stolen Passports**
+### **Lost or Stolen Passport**
 
 If your passport is lost or stolen while in Mauritius, please contact the Irish Embassy in Pretoria, South Africa. We will do our best to help as quickly as possible but this can take some time. Location and circumstances may limit the help we can give you.
 

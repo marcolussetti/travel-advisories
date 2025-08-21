@@ -1,6 +1,6 @@
 ## Travel to Monaco overview
 
-### **Security status**
+### **Security Status**
 
 Normal Precautions
 

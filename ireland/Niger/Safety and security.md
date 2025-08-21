@@ -10,7 +10,7 @@ Citizens should exercise caution and avoid large political rallies and gathering
 
 Levels of crime, especially in the capital Niamey, are high. Thefts, robberies and residential break-ins can occur at any time. Take sensible precautions to keep important items like money, passports, jewellery and mobile phones safe.
 
-### **Practical advice**
+### **Practical Advice**
 
 * Read our [**Know Before You Go travel guide**](https://www.ireland.ie/en/dfa/overseas-travel/know-before-you-go/) for useful security tips when travelling abroad
 * Get advice locally about areas of risk and security concerns

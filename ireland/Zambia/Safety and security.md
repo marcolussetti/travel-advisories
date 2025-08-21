@@ -46,7 +46,7 @@ Extra care is advised during the rainy season (November to April) as roads and b
 
 If driving, be vigilant, keep vehicle doors locked and windows closed, and be aware of your surroundings, especially if driving after dark.
 
-### **Practical Advice:**
+### **Practical Advice**
 
 * Bring a full Irish driving licence and an international driving permit and make sure you have adequate and appropriate insurance
 * Driving under the influence of alcohol or drugs is against the law and you risk being detained, fined or banned from driving if caught

@@ -6,17 +6,17 @@ High Degree of Caution
 
 ### **Travel Alert**
 
-### **Drought**
+#### **Drought**
 
 The southern Africa region experienced severe drought in 2024 and many States announced national emergencies, including Zambia. Travellers should be aware that this may pose additional unforeseen difficulties and should note that many areas may still experience power shortages as a result.
 
-### **Kafue River Pollution**
+#### **Kafue River Pollution**
 
 In February 2025, a large amount of toxic wastewater, including heavy metals, was released into the Mwambashi stream in the Copperbelt Province when a tailing dam collapsed at a local leach mine. The Mwambashi stream flows into the Kafue river which is a major waterway for the region. This incident has posed a serious health risk for the surrounding area, potentially affecting local ground water sources. A fishing ban has been put in place on the Kafue river in the Central and Copperbelt Provinces.
 
 Citizens should be aware of these health hazards if travelling in the region and are advised to avoid the immediate area where the incident took place, and water sources in the wider surrounding, as well as avoiding the consumption of fish potentially sourced from the region. Note boiling water does not remove heavy metals.
 
-### **Mpox**
+#### **Mpox**
 
 In August 2024, there was an increase in the numbers of cases of Mpox in. in region, with the World Health Organisation (WHO) declaring the Mpox outbreak a public health emergency of international concern (PHEIC).
 

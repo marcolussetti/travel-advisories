@@ -22,7 +22,7 @@ Take care of your personal belongings and avoid obvious displays of wealth. Do n
 
 Avoid using mobile phones on the street.
 
-### **Lost or Stolen passports:**
+### **Lost or Stolen Passports**
 
 Take extreme care with passports and other personal documentation. If a passport is lost or stolen, it can take up to three weeks to get a replacement, due to time and distance factors. Getting a replacement passport will be easier if travellers are able to provide a copy of the lost or stolen one, so keep photocopies or scans of passports.
 
@@ -60,11 +60,3 @@ Be careful when swimming or taking part in water sports on Pacific and Caribbean
 Swimming in the Bay of Panama is not recommended as it is thought to be polluted with untreated sewage and industrial waste**.**
 
 If travellers wish to go swimming, always check the signage before getting into the water. Avoid swimming in water where there are no other swimmers.
-
-### **Natural Disasters and Climate**
-
-Earthquakes can occur from time to time in Panama. Tsunamis can also happen. Make sure you know what to do in the event of an earthquake or tsunami.
-
-Panama is prone to heavy rains. The rainy season runs from April to December, but October and November normally register the heaviest rainfall. Occasional flooding and landslides occur in rural areas. Some city streets and rural roads can become impassable due to flooding.
-
-In Panama, the hurricane season is from June to November, but storms can happen year-round. They can cause flooding and landslides, particularly in rural areas.

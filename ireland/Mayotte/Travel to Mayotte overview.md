@@ -6,6 +6,16 @@ High Degree of Caution
 
 ### **Travel Alert**
 
+#### **Chikungunya Outbreak**
+
+Mayotte is currently experiencing a Chikungunya outbreak. There is also a risk of autochthonous malaria.
+
+Protect yourself from mosquito bites at all times.
+
+It is advisable to speak to your healthcare provider or travel health clinic well in advance of any visit to Mayotte.
+
+#### **Cyclone Season**
+
 The cyclone season in Mayotte normally runs from November to May. Cyclones can cause severe damage to property. The authorities have a well-structured system of phased warnings in place. You should follow any advice issued by the local authorities. If you are travelling to or living in Mayotte, make sure you know what to do in the event of a cyclone.
 
 You can find further information on the website of the [**World Meteorological Organisation**](https://severeweather.wmo.int/).
@@ -35,7 +45,7 @@ You can contact the emergency services in Mayotte by dialling 112. Specific emer
 * Get comprehensive travel insurance that covers all your planned activities.
 * Get a [**European Health Insurance Card**](http://www.hse.ie/eng/services/list/1/schemes/EHIC/).
 * [**Register**](/en/dfa/overseas-travel/citizens-registration/) your details with us so that we can contact you quickly if there’s an unforeseen crisis like a natural disaster or a family emergency.
-* Follow us on X [**@dfatravelwise**](https://www.twitter.com/DFATravelWise) and Instagram [**@dfatravelwise**](https://www.instagram.com/dfatravelwise/) for the latest travel updates.
+* Follow us on X [**@dfatravelwise**](https://www.x.com/DFATravelWise) and Instagram [**@dfatravelwise**](https://www.instagram.com/dfatravelwise/) for the latest travel updates.
 * Read our [**‘Know Before You Go’**](/en/dfa/overseas-travel/know-before-you-go-/) guide.
 * Read our [**Consular Assistance Charter**](https://www.ireland.ie/en/dfa/overseas-travel/assistance-abroad/consular-assistance-charter/) that clearly sets out the assistance that can be provided to citizens in difficulty overseas, and the limits of what the Department can do.
 

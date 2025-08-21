@@ -1,6 +1,6 @@
 ## Entry requirements
 
-### Visas
+### Visa
 
 In January 2024, the Kenya State Department for Immigration and Citizen Services implemented a new policy on a Visa Free Regime in Kenya.
 
@@ -8,7 +8,7 @@ In January 2024, the Kenya State Department for Immigration and Citizen Services
 
 The ETA system replaces the previous e-visa system for Kenya.
 
-### **Passports**
+### **Passport**
 
 Passports should be valid for at least 6 months from date of entry into Kenya and have at least 2 blank pages. Passport cards cannot be used.
 

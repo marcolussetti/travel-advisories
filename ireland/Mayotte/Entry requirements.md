@@ -10,6 +10,8 @@ Irish citizens need a valid passport or passport card to enter Mayotte.
 
 It’s advisable to take a number of photocopies of your passport with you when travelling to Mayotte and you should carry a photocopy of your passport at all times during your stay.
 
+### **Lost or Stolen Passports**
+
 If your passport is lost or stolen while you’re abroad, we can help.
 
 What we can do:

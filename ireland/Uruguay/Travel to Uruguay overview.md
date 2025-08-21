@@ -1,6 +1,6 @@
 ## Travel to Uruguay overview
 
-### **Security status**
+### **Security Status**
 
 Normal Precautions
 
