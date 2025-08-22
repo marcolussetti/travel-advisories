@@ -29,7 +29,7 @@ This process can take a long time, and there is no guarantee that the transfer w
 
 ### Drugs
 
-Penalties for possession, use or trafficking of illegal drugs are severe. Convicted offenders can expect lengthy prison sentences. Mexican laws and their enforcement related to the possession and use of recreational and medical marijuana (cannabis) are unclear. You could be arrested or extorted for possession, use, or transport of marijuana.
+Penalties for possession, use or trafficking of illegal drugs are severe. Convicted offenders can expect lengthy prison sentences. Mexican laws and their enforcement related to the possession and use of recreational and medical cannabis are unclear. You could be arrested or extorted for possession, use, or transport of cannabis.
 
 [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
 

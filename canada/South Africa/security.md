@@ -4,7 +4,7 @@
 
 ### Outages
 
-Nationwide power shortages or rolling blackouts, referred to as load shedding, are still occurring regularly. They are occurring numerous times a day and for multiple-hour stretches. They are expected to continue through 2023 and into 2024.
+Nationwide power shortages or rolling blackouts, referred to as load shedding, are still occurring regularly. They are occurring numerous times a day and for multiple-hour stretches.
 
 Though the potential for a nationwide blackout is low, the associated risks are high, including a nationwide loss of power for days or weeks.
 

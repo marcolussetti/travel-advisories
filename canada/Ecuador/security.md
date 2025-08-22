@@ -4,12 +4,14 @@
 
 ### State of emergency
 
-A state of emergency is in effect in the following provinces:
+A state of emergency is in effect in the following locations:
 
-* El Oro
-* Guayas
-* Los Ríos
-* Manabí
+* Echeandía and Las Naves cantons in Bolívar Province
+* La Maná canton in Cotopaxi Province
+* El Oro Province
+* Guayas Province
+* Los Ríos Province
+* Manabí Province
 
 The state of emergency is in response to gang violence. While the state of emergency is in effect, security forces have the power to:
 

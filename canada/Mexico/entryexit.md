@@ -68,46 +68,47 @@ For information on the type of visa required for these activities, contact the M
 
 [Travelling to Mexico by Land](https://embamex.sre.gob.mx/canada/index.php/en/travelbyland) – Embassy of Mexico in Canada
 
-### Tourist card
-
-When you enter Mexico for a stay of less than 180 days, you are required to have a Multiple Immigration Form (FMM) or Tourist Card.
+### Entering as a tourist
 
 If you enter Mexico by air:
 
-* the immigration official will stamp your passport and note the number of days you are allowed to spend in Mexico, or
-* if you are a tourist, you will go through an E-gate kiosk where you will scan your passport and self-register your entry. You will receive a receipt and have 60 days to download your e-tourist card
+* an immigration official will stamp your passport and note the number of days you are allowed to spend in Mexico, or
+* you may be directed to an E-gate kiosk where you will scan your passport and self-register your entry. The kiosk will generate a printed reciept with the days you are allowed to spend in Mexico.
+
+In both cases, you will have 60 days to download your multiple Digital Migratory Form (FFMD)
+
+[Multiple Digital Migratory Form by Air](https://www.inm.gob.mx/spublic/portal/inmex.html)  – Government of Mexico
 
 If you enter Mexico by land:
 
-You must present a completed tourist card unless you stay in Mexico for less than 72 hours within the northern border zone. You can complete the tourist card form online before your arrival. However, you must print the form and present it to the migration official at the port of entry. You can also obtain a tourist card at the immigration office located at the border.
+* you must present yourself before an immigration official and present a completed Multiple Migratory Form (FMM), unless you stay in Mexico for less than 72 hours within the northern border zone (21 km). The immigration official will write down in your FMM the number of days you are authorized to stay.
 
-If you don’t obtain a tourist card upon arrival, you may face:
+You can complete the FMM online before your arrival, print the form and present it to the immigration official at the port of entry.
 
-* a fine
-* detention
-* expulsion
+[Multiple Immigration Form](https://www.inm.gob.mx/fmme/publico/en/solicitud.html) – Government of Mexico
 
-You should keep your tourist card with you at all times as proof of your legal stay in Mexico. You may be asked to show it to Mexican officials when exiting the country or if you are stopped at an immigration checkpoint. If you are unable to show your tourist card or digital tourist card upon departure, you will have to pay for a replacement.
+Always carry with you your FMM or FMMD as proof of your legal stay in Mexico. You may be asked to show it to Mexican officials:
 
-#### Useful links
+* at an immigration checkpoint
+* when departing the country
 
-* [Portal access for digital tourist card](https://www.inm.gob.mx/spublic/portal/inmex.html) – Government of Mexico
-* [Multiple Immigration Form](https://www.inm.gob.mx/fmme/publico/en/solicitud.html) – Government of Mexico
+If you are unable to show your FMM or FMMD upon departure, you will have to pay for a replacement.
 
 ### Length of stay
 
-An immigration official will determine the number of days you can remain in Mexico and note it:
-
-* on your tourist card if you’re entering by land
-* in your passport if you’re entering by air
-
-You may not automatically be allowed to stay in Mexico for a maximum period of 180 days. If you're seeking the maximum number of days, you may be required to:
+The maximum stay for tourism purposes is 190 days. This maximum is not granted automatically. The immigration officer will determine the exact length of your authorized stay. If you're seeking the maximum number of days, you may be required to:
 
 * explain the purpose of your trip to the immigration official
 * provide details about your trip (accommodations, funds, return flight, etc.)
 * provide a letter of invitation, if staying in someone’s home
 
-You won’t be able to request an extension or change the condition of your stay from inside the country.
+You must leave Mexico before your authorized stay ends. You won’t be able to request an extension or change the condition of your stay from inside the country.
+
+If you overstay, you may face:
+
+* fines
+* detention
+* deportation
 
 ### Tourism tax
 
@@ -136,6 +137,8 @@ Mexico has a list of tax-exempt items you can include in your luggage. If you ex
 ### Dual citizenship
 
 If you enter and leave Mexico as a dual citizen, you must identify yourself as a Mexican citizen and carry valid passports for both countries.
+
+If you are a citizen of Canada and also of Mexico, you must use your Canadian passport to return to Canada by air, as you are not eligible for a Special Authorization or an electronic Travel Authorization (eTA).
 
 [Laws about dual citizenship](https://travel.gc.ca/destinations/mexico#laws)
 

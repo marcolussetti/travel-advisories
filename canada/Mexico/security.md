@@ -348,7 +348,7 @@ If you undertake water sports:
 
 [Water safety abroad](https://travel.gc.ca/travelling/health-safety/water-safety)
 
-### Adventure tourism
+### Adventure travel
 
 Outdoor activities, including hiking, mountain biking, scuba diving, and other extreme sports can be dangerous.
 
@@ -363,6 +363,8 @@ If you intend to participate in adventure tourism activities:
 * ensure that you have proper equipment and bring sufficient water
 * monitor weather conditions and other possible hazards
 * refrain from using equipment if you are unsure of its condition or safety
+
+[Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
 ### Power outages
 
