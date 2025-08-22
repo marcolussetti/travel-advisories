@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   5 July 2025
+:   22 August 2025
 
 Updated:
-:   4 July 2025
+:   21 August 2025
 
 Latest update:
-:   Lifting of ‘state of urgency’ in Bocas Del Toro province (see ‘Political situation’ on the ‘Safety and security’ page).
+:   Updated information about the use of taxis in Panama (see ‘Taxis’ on the ‘Safety and security’ page).
 
 ## Before you travel
 

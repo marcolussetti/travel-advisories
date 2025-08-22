@@ -14,7 +14,9 @@ Terrorist attacks in Georgia cannot be ruled out. Attacks could happen anywhere 
 
 ## Political situation
 
-26 April marked the 150th consecutive day of political demonstrations, some leading to violent confrontation between police and protesters. In Tbilisi these are mainly on Rustaveli Avenue, Chavchavadze Avenue and Heroes’ Square and in other nearby areas, but they can begin or end at different locations across the city, disrupting traffic. Demonstrations are taking place in other cities and towns. Demonstrations generally begin in the evening and some rallies extend into the night.
+4 August marked the 250th consecutive day of political demonstrations, some leading to violent confrontation between police and protesters. In Tbilisi these are mainly on Rustaveli Avenue, Chavchavadze Avenue and Heroes’ Square and in other nearby areas, but they can begin or end at different locations across the city, disrupting traffic. Demonstrations are taking place in other cities and towns. Demonstrations generally begin in the evening and some rallies extend into the night.
+
+Municipal elections are scheduled to take place in Georgia on 4 October 2025. During the campaign period there is a heightened risk of demonstrations and political rallies.
 
 Tensions can escalate without warning. You should:
 
@@ -22,7 +24,11 @@ Tensions can escalate without warning. You should:
 * avoid large gatherings and demonstrations
 * follow the advice of local authorities
 
-### Crime
+If you participate or engage in political demonstrations, you may face additional questioning on exit or be refused re-entry to Georgia.
+
+If you have unpaid fines, you may be refused exit until paid.
+
+## Crime
 
 Crime levels are low. You should:
 
@@ -31,9 +37,15 @@ Crime levels are low. You should:
 * stay aware of your surroundings
 * always keep your mobile phone charged and with you
 
-Georgian law protects everyone’s human rights and equality, but ethnic minorities and LGBT+ people may face discrimination. Harassment and assault based on race and sexuality do take place.
+Georgian law protects everyone’s human rights and equality, but ethnic minorities and LGBT+ people may face discrimination. Harassment and assault based on race does take place. Those perceived as being part of or supporting the LGBT+ community may face harassment and assault.
 
 If someone attempts to assault you or you feel threatened, call the emergency number 112 and ask for the police.
+
+### Drink spiking
+
+There have been reports of drink spiking in Georgia. Be wary of strangers approaching you to take you to a restaurant or nightclub. If strangers offer you food and drink these items may contain drugs that could put you at risk. Buy your own drinks and always keep sight of them to avoid them being spiked.
+
+For more information about spiking, read Travel Aware’s information on [Spiking and methanol poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/?_gl=1*1m0ptxg*_ga*MTMyMzMzNDQ0Mi4xNzI1OTU1OTIw*_ga_S5RQ7FTGVR*czE3NTQ5MDI5NDIkbzU5JGcxJHQxNzU0OTA0NDU0JGozNCRsMCRoMA..).
 
 ## Laws and cultural differences
 

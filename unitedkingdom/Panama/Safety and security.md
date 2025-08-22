@@ -128,7 +128,7 @@ If you are involved in a traffic accident with another driver, wait inside your 
 
 ### Taxis
 
-Unregistered taxis can be in poor condition. Many accidents are due to poor maintenance and driving standards. It’s common for taxis to pick up other passengers in Panama. Make sure your drivers do not do this.
+Taxis can be in poor condition and accidents, due to poor maintenance and driving standards, are common.  To reduce your risk, use ride-hailing apps or hotel-arranged transport only.
 
 ## Extreme weather and natural disasters
 

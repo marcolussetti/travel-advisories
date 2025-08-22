@@ -1,11 +1,11 @@
 {
     "name": "Georgia",
-    "update_reason": "Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport ('Safety and security' page).",
+    "update_reason": "Addition of information about drink spiking and updated information on political situation and crime ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Georgia/Warnings and insurance.md",
-            "update_date": "2025-06-04T17:08:56+01:00"
+            "update_date": "2025-08-21T12:06:43+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Georgia/Getting help.md"
         }
     ],
-    "update_date": "2025-06-04T17:08:56+01:00"
+    "update_date": "2025-08-21T12:06:43+01:00"
 }
