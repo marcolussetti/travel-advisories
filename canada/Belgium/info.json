@@ -1,7 +1,7 @@
 {
     "name": "Belgium",
-    "update_reason": "Health \u2013 editorial update",
-    "update_date": "2025-06-26T14:19:00",
+    "update_reason": "Editorial change",
+    "update_date": "2025-08-22T15:50:00",
     "sections": {
         "risk": "canada/Belgium/risk.md",
         "security": "canada/Belgium/security.md",

@@ -14,7 +14,9 @@ In case of an earthquake or a tsunami alert, follow the instructions of local au
 
 [Tsunami alerts](https://www.tsunami.gov/) - U.S. Tsunami Warning System
 
-### Monsoon
+### Typhoons and monsoons
+
+Typhoons usually occur from April to November. During this period, even small tropical storms can quickly develop into major typhoons.
 
 The rainy (or monsoon) season extends from June to October. Seasonal flooding can hamper overland travel and reduce the provision of essential services. Roads may become impassable and bridges damaged.
 
@@ -22,9 +24,9 @@ Jungle treks are not advisable during the rainy season due to the possibility of
 
 #### Useful links
 
-* [Weather warnings](https://www.tmd.go.th/en/) - Thai Meteorological department
-* [Mekong river levels](https://www.mrcmekong.org/) - Mekong River Commission
-* [Tornadoes, cyclones, hurricanes, typhoons and monsoons](https://travel.gc.ca/travelling/health-safety/hurricanes-typhoons-cyclones-monsoons)
+* [Weather warnings](https://www.tmd.go.th/en/) – Thai Meteorological department
+* [Mekong river levels](https://www.mrcmekong.org/) – Mekong River Commission
+* [Severe storms outside Canada](https://travel.gc.ca/travelling/health-safety/hurricanes-typhoons-cyclones-monsoons)
 
 ### Air pollution
 

@@ -1,7 +1,7 @@
 {
     "name": "Spain",
-    "update_reason": "Natural disasters and climate \u2013 added information on wildfires",
-    "update_date": "2025-08-18T15:52:00",
+    "update_reason": "Editorial change",
+    "update_date": "2025-08-22T15:50:00",
     "sections": {
         "risk": "canada/Spain/risk.md",
         "security": "canada/Spain/security.md",

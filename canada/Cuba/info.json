@@ -1,7 +1,7 @@
 {
     "name": "Cuba",
-    "update_reason": "Health \u2013 Outbreak monitoring alert for Hepatitis A in Cuba has been added",
-    "update_date": "2025-08-11T12:12:00",
+    "update_reason": "Editorial change",
+    "update_date": "2025-08-22T15:50:00",
     "sections": {
         "risk": "canada/Cuba/risk.md",
         "security": "canada/Cuba/security.md",

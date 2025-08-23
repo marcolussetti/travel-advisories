@@ -1,7 +1,7 @@
 {
     "name": "Finland",
-    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
-    "update_date": "2025-08-13T14:44:00",
+    "update_reason": "Editorial change",
+    "update_date": "2025-08-22T15:50:00",
     "sections": {
         "risk": "canada/Finland/risk.md",
         "security": "canada/Finland/security.md",

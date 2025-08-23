@@ -1,7 +1,7 @@
 {
     "name": "Thailand",
-    "update_reason": "Risk levels \u2013 avoid all travel within 50 km of the Thailand-Cambodia border; Safety and security \u2013 updated information on tensions along the Thailand-Cambodia border",
-    "update_date": "2025-07-31T16:31:00",
+    "update_reason": "Editorial change",
+    "update_date": "2025-08-22T16:51:00",
     "sections": {
         "risk": "canada/Thailand/risk.md",
         "security": "canada/Thailand/security.md",

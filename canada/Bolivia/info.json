@@ -1,7 +1,7 @@
 {
     "name": "Bolivia",
-    "update_reason": "Safety and security \u2013 removed information on general elections",
-    "update_date": "2025-08-18T15:04:00",
+    "update_reason": "Editorial change",
+    "update_date": "2025-08-22T15:50:00",
     "sections": {
         "risk": "canada/Bolivia/risk.md",
         "security": "canada/Bolivia/security.md",

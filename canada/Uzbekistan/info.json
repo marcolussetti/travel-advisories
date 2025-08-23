@@ -1,7 +1,7 @@
 {
     "name": "Uzbekistan",
-    "update_reason": "Risk levels \u2013 removed the advisory for the borders with Kyrgyzstan and Tajikistan; Safety and security \u2013 updated information on border areas",
-    "update_date": "2025-08-08T16:28:00",
+    "update_reason": "Editorial change",
+    "update_date": "2025-08-22T15:50:00",
     "sections": {
         "risk": "canada/Uzbekistan/risk.md",
         "security": "canada/Uzbekistan/security.md",

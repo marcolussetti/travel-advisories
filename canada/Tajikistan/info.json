@@ -1,7 +1,7 @@
 {
     "name": "Tajikistan",
-    "update_reason": "Risk levels \u2013 removed the advisory for the border with Kyrgyzstan; Safety and security \u2013 updated information on border areas",
-    "update_date": "2025-08-08T16:14:00",
+    "update_reason": "Editorial change",
+    "update_date": "2025-08-22T15:50:00",
     "sections": {
         "risk": "canada/Tajikistan/risk.md",
         "security": "canada/Tajikistan/security.md",

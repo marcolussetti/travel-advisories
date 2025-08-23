@@ -10,7 +10,7 @@ Verify this information with the [Foreign Representatives in Canada](https://ww
 
 ### Passport
 
-Entry requirements vary depending on the type of passport you use for travel.
+Entry requirements vary depending on the type of passport you're travelling with.
 
 Before you travel, check with your transportation company about passport requirements. Its rules on passport validity may be more stringent than the country’s entry rules.
 
@@ -30,12 +30,12 @@ While the Government of Canada issues passports with an “X” gender identifie
 
 #### Other travel documents
 
-Different entry rules may apply when travelling with a temporary passport or an emergency travel document. Before you leave, check with the closest foreign representative for your destination.
+Different entry rules may apply when travelling with a temporary passport or an emergency travel document. Before you leave, verify this information with the closest foreign representative for your destination.
 
 #### Useful links
 
 * [Foreign Representatives in Canada](https://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng)
-* [Canadian passports](http://www.canada.ca/passport)
+* [Canadian passports and other travel documents](http://www.canada.ca/passport)
 
 ### Visas
 
@@ -96,7 +96,7 @@ If you are unable to show your FMM or FMMD upon departure, you will have to pay 
 
 ### Length of stay
 
-The maximum stay for tourism purposes is 190 days. This maximum is not granted automatically. The immigration officer will determine the exact length of your authorized stay. If you're seeking the maximum number of days, you may be required to:
+The maximum stay for tourism purposes is 180 days. This maximum is not granted automatically. The immigration officer will determine the exact length of your authorized stay. If you're seeking the maximum number of days, you may be required to:
 
 * explain the purpose of your trip to the immigration official
 * provide details about your trip (accommodations, funds, return flight, etc.)

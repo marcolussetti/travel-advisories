@@ -1,7 +1,7 @@
 {
     "name": "Kuwait",
-    "update_reason": "Risk level; Safety and security \u2013 updated information on tensions in the region",
-    "update_date": "2025-06-27T18:37:00",
+    "update_reason": "Editorial change",
+    "update_date": "2025-08-22T15:50:00",
     "sections": {
         "risk": "canada/Kuwait/risk.md",
         "security": "canada/Kuwait/security.md",

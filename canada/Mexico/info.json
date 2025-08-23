@@ -1,7 +1,7 @@
 {
     "name": "Mexico",
-    "update_reason": "Update of the Entry and exit requirements section",
-    "update_date": "2025-08-21T14:47:00",
+    "update_reason": "Editorial change",
+    "update_date": "2025-08-22T17:00:00",
     "sections": {
         "risk": "canada/Mexico/risk.md",
         "security": "canada/Mexico/security.md",

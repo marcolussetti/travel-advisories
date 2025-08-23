@@ -1,7 +1,7 @@
 {
     "name": "Sierra Leone",
-    "update_reason": "Health \u2013 removed outbreak monitoring alert for mpox; Entry and exit requirements \u2013  removed information about health screening measures at the airport",
-    "update_date": "2025-08-18T13:09:00",
+    "update_reason": "Editorial change",
+    "update_date": "2025-08-22T15:50:00",
     "sections": {
         "risk": "canada/Sierra Leone/risk.md",
         "security": "canada/Sierra Leone/security.md",

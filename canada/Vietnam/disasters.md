@@ -43,8 +43,9 @@ If you decide to travel to Vietnam during this period:
 
 #### Useful links
 
-* [Forecasting](https://nchmf.gov.vn/KttvsiteE/en-US/2/index.html) - National Center for Hydro-Meteorological Forecasting
-* [Tornadoes, cyclones, hurricanes, typhoons and monsoons](https://travel.gc.ca/travelling/health-safety/hurricanes-typhoons-cyclones-monsoons)
+* [Forecasting](https://nchmf.gov.vn/KttvsiteE/en-US/2/index.html) – National Center for Hydro-Meteorological Forecasting
+* [Mekong river levels](https://www.mrcmekong.org/) – Mekong River Commission
+* [Severe storms outside Canada](https://travel.gc.ca/travelling/health-safety/hurricanes-typhoons-cyclones-monsoons)
 * [Large-scale emergencies abroad](https://travel.gc.ca/assistance/emergency-info/large-scale-emergencies-abroad)
 
 ### Heat waves

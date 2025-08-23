@@ -31,7 +31,7 @@ Climate change is affecting Myanmar. Extreme and unusual weather events are beco
 
 Myanmar is located in a highly active seismic zone. A major earthquake occurred in March 2025 and minor earthquakes are common.
 
-### Monsoons and typhoons
+### Monsoons and cyclones
 
 The rainy (or monsoon) season extends from May to November. Severe rainstorms can cause flash flooding and landslides.
 
@@ -39,4 +39,7 @@ Cyclones usually occur between April and October. Severe rainstorms can result i
 
 Keep informed of regional weather forecasts, avoid disaster areas and follow the instructions of local authorities.
 
-[Tornadoes, cyclones, hurricanes, typhoons and monsoons](https://travel.gc.ca/travelling/health-safety/hurricanes-typhoons-cyclones-monsoons)
+#### Useful links
+
+* [Mekong river levels](https://www.mrcmekong.org/) – Mekong River Commission
+* [Severe storms outside Canada](https://travel.gc.ca/travelling/health-safety/hurricanes-typhoons-cyclones-monsoons)

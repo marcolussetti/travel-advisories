@@ -12,7 +12,7 @@ Verify this information with the [Foreign Representatives in Canada](https://ww
 
 ### Passports
 
-Entry requirements vary depending on the type of passport you use for travel.
+Entry requirements vary depending on the type of passport you're travelling with.
 
 Before you travel, check with your transportation company about passport requirements. Its rules on passport validity may be more stringent than the country’s entry rules.
 
@@ -32,12 +32,12 @@ While the Government of Canada issues passports with an “X” gender identifie
 
 #### Other travel documents
 
-Different entry rules may apply when travelling with a temporary passport or an emergency travel document. Before you leave, check with the closest foreign representative for your destination.
+Different entry rules may apply when travelling with a temporary passport or an emergency travel document. Before you leave, verify this information with the closest foreign representative for your destination.
 
 #### Useful links
 
 * [Foreign Representatives in Canada](https://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng)
-* [Canadian passports](http://www.canada.ca/passport)
+* [Canadian passports and other travel documents](http://www.canada.ca/passport)
 
 ### Visas and other entry requirements
 

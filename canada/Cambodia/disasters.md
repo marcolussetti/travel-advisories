@@ -2,9 +2,11 @@
 
 ## Natural disasters and climate
 
-### Monsoon
+### Monsoon and cyclones
 
-The rainy (or monsoon) season extends from May to November. Severe rainstorms can cause flooding and landslides, resulting in loss of life and extensive damage to infrastructure. They can also hamper the provision of essential services. Roads may become impassable and bridges damaged. Flooding can affect wide areas in numerous provinces, including certain parts of Phnom Penh.
+The rainy (or monsoon) season extends from May to November. Cyclones usually occur between April and November.
+
+Severe rainstorms can cause flooding and landslides, resulting in loss of life and extensive damage to infrastructure. They can also hamper the provision of essential services. Roads may become impassable and bridges damaged. Flooding can affect wide areas in numerous provinces, including certain parts of Phnom Penh.
 
 * Keep informed of regional weather forecasts
 * Avoid disaster areas
@@ -12,8 +14,8 @@ The rainy (or monsoon) season extends from May to November. Severe rainstorms ca
 
 #### Useful links
 
-* [Tornadoes, cyclones, hurricanes, typhoons and monsoons](https://travel.gc.ca/travelling/health-safety/hurricanes-typhoons-cyclones-monsoons)
-* [Mekong River conditions](http://ffw.mrcmekong.org/) – Mekong River Commission
+* [Severe storms outside Canada](https://travel.gc.ca/travelling/health-safety/hurricanes-typhoons-cyclones-monsoons)
+* [Mekong river levels](https://www.mrcmekong.org/) – Mekong River Commission
 
 ### Forest fires
 

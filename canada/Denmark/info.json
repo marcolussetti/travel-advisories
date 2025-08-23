@@ -1,7 +1,7 @@
 {
     "name": "Denmark",
-    "update_reason": "The Need help? section was updated.",
-    "update_date": "2025-07-23T08:13:00",
+    "update_reason": "Editorial change",
+    "update_date": "2025-08-22T15:50:00",
     "sections": {
         "risk": "canada/Denmark/risk.md",
         "security": "canada/Denmark/security.md",

@@ -1,7 +1,7 @@
 {
     "name": "Palau",
-    "update_reason": "Natural disasters and climate \u2013 removed information on the tsunami warning",
-    "update_date": "2025-07-31T09:51:00",
+    "update_reason": "Editorial change",
+    "update_date": "2025-08-22T15:50:00",
     "sections": {
         "risk": "canada/Palau/risk.md",
         "security": "canada/Palau/security.md",

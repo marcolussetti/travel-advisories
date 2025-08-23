@@ -2,6 +2,25 @@
 
 ## Safety and security
 
+### Attack in Cali
+
+On August 21, 2025, a car bomb exploded in Cali in front of Base Aérea Marco Fidel Suarez. This incident caused multiple injuries and fatalities. Military personnel have been deployed to the city and have the power to stop civilians and request their identification.
+
+Further attacks are possible. You should exercise particular caution around potential targets, including:
+
+* government buildings
+* military and law enforcement establishments
+* places of worship
+* transportation infrastructure, including airports and public transportation
+* shopping malls and commercial facilities
+* entertainment centres
+
+If you are in Cali:
+
+* always carry your identification
+* follow the instructions of military personnel and local authorities
+* remain vigilant
+
 ### Dating applications
 
 ### Online dating applications

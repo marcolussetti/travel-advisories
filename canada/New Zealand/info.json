@@ -1,7 +1,7 @@
 {
     "name": "New Zealand",
-    "update_reason": "Natural disasters and climate \u2013 removed information on the tsunami warning",
-    "update_date": "2025-08-01T08:53:00",
+    "update_reason": "Editorial change",
+    "update_date": "2025-08-22T15:50:00",
     "sections": {
         "risk": "canada/New Zealand/risk.md",
         "security": "canada/New Zealand/security.md",

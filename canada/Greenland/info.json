@@ -1,7 +1,7 @@
 {
     "name": "Greenland",
-    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
-    "update_date": "2025-07-28T08:03:00",
+    "update_reason": "Editorial change",
+    "update_date": "2025-08-22T15:50:00",
     "sections": {
         "risk": "canada/Greenland/risk.md",
         "security": "canada/Greenland/security.md",
