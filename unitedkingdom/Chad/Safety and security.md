@@ -49,9 +49,9 @@ The long-standing policy of the British government is not to make substantive co
 
 ## Political situation
 
-There is a continuing risk of instability in Chad, particularly in its border regions and during major political events. Chad is undergoing a political transition, and voting in Presidential elections concluded on 6 May. Following the announcement of preliminary results, protests were called by opposition groups. Legislative elections are also due to take place before the end of 2024.
+There is a continuing risk of instability in Chad, particularly in its border regions and during major political events. Chad has completed its political transition, with legislative elections concluding at the end of 2024.
 
-On 28 February, several people were killed or injured in armed clashes between supporters of the PSF (Socialist Party without Borders) and government forces in Chad’s capital. The leader of the PSF, Yaya Dillo, was amongst those killed.
+In February 2024, several people were killed or injured in armed clashes between supporters of the PSF (Socialist Party without Borders) and government forces in Chad’s capital. The leader of the PSF, Yaya Dillo, was amongst those killed.
 
 Public demonstrations, including anti-government protests, are common in Chad. Crowds can gather quickly and may become violent. In 2022, security forces fired live ammunition during a clash with protestors, and civilians were killed and injured.
 
@@ -59,7 +59,9 @@ Demonstrations have targeted foreign, national and local government facilities, 
 
 While celebratory gunfire is illegal in Chad, it can occur during celebrations, including during weddings and some political events. Celebratory gunfire led to civilian deaths and injuries in May 2024 after the announcement of provisional election results. In the event of celebratory gunfire, take cover on the lower levels of buildings and away from windows.
 
-In 2021, an armed convoy belonging to the rebel group Le front pour l’alternance et la concorde au Tchad (FACT) crossed into Chad from Libya and fought government forces. President Idriss Deby Itno was killed, and a transitional military council was established to govern Chad. The UK government advised British nationals to leave Chad. The British Embassy in N’Djamena closed temporarily.
+In 2021, an armed convoy belonging to the rebel group Le Front pour l’Alternance et la Concorde au Tchad (FACT) crossed into Chad from Libya and fought government forces. President Idriss Deby Itno was killed, and a transitional military council was established to govern Chad. The UK government advised British nationals to leave Chad. The British Embassy in N’Djamena closed temporarily.
+
+In N’Djamena, there have been recent incidents of fatal shootings on the section of Avenue du Général Kerim Nassour in front of the Presidential Palace, seek alternative routes.
 
 ## Crime
 
@@ -73,9 +75,9 @@ Armed robbery is common in some residential areas of N’Djamena, particularly f
 
 ### Protecting yourself and your belongings
 
-Stay alert and be particularly cautious about street crime if you’re on foot in the capital. Do not carry large sums of money, jewellery or other valuables. Avoid isolated or less developed areas of towns and do not go out alone or at night.
+Stay alert and be particularly cautious about street crime. Do not carry large sums of money, jewellery or other valuables. Avoid isolated or less developed areas of towns and do not go out alone or at night.
 
-To reduce your personal risk, consider using pre-arranged secure cars to get around N’Djamena. Keep car doors locked and windows closed.
+To reduce your personal risk, do not walk and consider using pre-arranged secure cars to get around N’Djamena. Keep car doors locked and windows closed.
 
 ## Laws and cultural differences
 
@@ -136,7 +138,7 @@ Travel in convoy, keep doors locked and carry spare fuel and supplies. There are
 
 Police checkpoints are common. Officers may ask you to show your passport, driving licence and vehicle registration documents.
 
-Take care on the road in front of the Presidential Palace in N’Djamena. Do not stop in front of the palace, drive close to the guards or use this road at night. In 2023 a military guard was killed when an unmarked car stopped outside the presidential palace. Guards are likely to be on high alert and may act in an unpredictable way.
+Take great care on the road in front of the Presidential Palace in N’Djamena where there have been recent shootings including fatalities.
 
 ### Travelling outside N’Djamena
 

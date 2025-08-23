@@ -1,11 +1,11 @@
 {
     "name": "Turkey",
-    "update_reason": "Updated with information about the risks from terrorism (\u2018Safety and security\u2019 page\u2019).",
+    "update_reason": "New information about advice on swimming and beaches ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Turkey/Warnings and insurance.md",
-            "update_date": "2025-07-31T13:36:16+01:00"
+            "update_date": "2025-08-22T15:58:35+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Turkey/Getting help.md"
         }
     ],
-    "update_date": "2025-07-31T13:36:16+01:00"
+    "update_date": "2025-08-22T15:58:35+01:00"
 }

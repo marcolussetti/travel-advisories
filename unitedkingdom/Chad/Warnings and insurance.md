@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   17 July 2025
+:   23 August 2025
 
 Updated:
-:   16 July 2025
+:   22 August 2025
 
 Latest update:
-:   Updated information about limited UK government support available (‘Warnings and insurance' page).
+:   Addition of information about the road in front of the Presidential Palace in N’Djamena (‘Safety and security’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/60dc7052e90e07717b84dc57/FCDO__TA__010_-_Chad_Travel_Advice_Ed4__WEB_.jpg)
 

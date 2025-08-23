@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   9 August 2025
+:   23 August 2025
 
 Updated:
-:   8 August 2025
+:   22 August 2025
 
 Latest update:
-:   Updated information following the renewal of a state of emergency for the provinces of El Oro, Guayas, Los Ríos and Manabí ('Warnings and insurance' page).
+:   Information updated following the addition of Cotopaxi (cantón La Maná) and Bolívar (cantones La Naves y Echeandía) provinces to the state of emergency ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/65a1082ce96df50014f8452c/FCDO__TA__014_-_Ecuador_Travel_Advice_Ed5__WEB_.jpg)
 
@@ -57,6 +57,8 @@ A 60-day state of emergency (SOE) was renewed on 6 August due to internal distur
 * El Oro
 * Manabí
 * Los Ríos
+* Cotopaxi (cantón La Maná)
+* Bolívar (cantones La Naves y Echeandía)
 
 ## Before you travel
 

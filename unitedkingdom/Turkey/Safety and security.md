@@ -12,9 +12,9 @@ UK Counter Terrorism Policing has information and advice on [staying safe abroad
 
 Terrorists are likely to try to carry out attacks in Turkey.
 
-Most terrorist attacks have occurred in South East Turkey, Ankara and Istanbul. You should remain aware of your surroundings, keep up to date with local media reports and follow the advice of local authorities.
+Most terrorist attacks have occurred in southeast Turkey, Ankara and Istanbul. You should remain aware of your surroundings, keep up to date with local media reports and follow the advice of local authorities.
 
-See [Regional risks](https://www.gov.uk/foreign-travel-advice/turkey/regional-risks) for details about the areas in South East Turkey where FCDO advises against travel.
+See [Regional risks](https://www.gov.uk/foreign-travel-advice/turkey/regional-risks) for details about the areas in south-east Turkey where FCDO advises against travel.
 
 There have been several attacks involving knives, firearms and explosives. Attacks could be indiscriminate including in places visited by foreign nationals, such as:
 
@@ -58,19 +58,28 @@ Be wary of strangers approaching you to change money, or to take you to a restau
 
 In Turkey, including Ankara and Istanbul, people have died or suffered serious illness after drinking illegally produced local spirits and counterfeit bottles of branded alcohol.
 
-To protect yourself:
+There is a risk of methanol poisoning from home brewed alcohol or counterfeit replicas of well-known alcohol brands.
 
-* buy alcoholic beverages only from licensed liquor stores
-* buy drinks only at licensed bars and hotels
+Affected drinks may include:
+
+* local spirits
+* spirit-based mixed drinks such as cocktails
+* counterfeit brand-named spirits
+
+To reduce the risk of methanol poisoning:
+
+* buy alcoholic beverages only from licensed liquor stores, bars, clubs, restaurants and hotels
 * avoid home-made alcoholic drinks
 * check bottle seals are intact
 * check labels for poor print quality or incorrect spelling
 
 If you have any concerns, ask for advice from your tour operator or the Turkish authorities.
 
-Seek [urgent medical attention](https://www.gov.uk/government/publications/turkey-list-of-medical-practitioners/list-of-medical-facilities-in-turkey) if you or someone you are travelling with falls ill after drinking alcohol.
+Methanol is tasteless and odourless. If the label, smell or taste seems wrong, do not drink the alcohol. These are signs it is illegal and could contain methanol.
 
 For more information about spiking and methanol poisoning, read Travel Aware’s information on [Spiking and methanol poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/).
+
+Seek [urgent medical attention](https://www.gov.uk/government/publications/turkey-list-of-medical-practitioners/list-of-medical-facilities-in-turkey) if you or someone you are travelling with falls ill after drinking alcohol.
 
 ### Sexual assault
 
@@ -191,11 +200,19 @@ Book activities at a licensed water sports centre and before you start:
 * ask for a safety demonstration
 * make sure you know how to call for help
 
-Obey any warning signs and flags on beaches. Follow instructions from lifeguards and observe the flag indicators on beaches.
+### Swimming and beaches
+
+Every year, people drown in the sea and in swimming pools in Turkey. Always supervise children, even if they can swim or there is a lifeguard present.
+
+Take care when swimming in the sea. Some beaches may have strong undercurrents.
+
+Hidden rocks or shallow depths can cause serious injury or death. Do not dive into unknown water.
 
 Follow local advice if jellyfish or urchins are present.
 
-See [water safety on holiday](https://www.rlss.org.uk/safety-on-holiday) from the Royal Life Saving Society and the Royal Society for the Prevention of Accidents (ROSPA) [watersports safety abroad guide](https://www.rospa.com/leisure-water-safety/water/advice/watersports-abroad).
+Many beaches have a flag system. Make sure you understand the system and follow any warnings (a red flag means you must not enter the water). Follow instructions from lifeguards. Take extra care and seek local advice if there are no lifeguards, flags, or signs.
+
+See further tips on [ABTA’s swim safe pages](https://www.abta.com/tips-and-advice/staying-safe-on-holiday/swim-safe) and [Water Safety on Holiday](https://www.rlss.org.uk/safety-on-holiday) from the Royal Life Saving Society.
 
 ## Transport risks
 

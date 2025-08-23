@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   1 August 2025
+:   23 August 2025
 
 Updated:
-:   31 July 2025
+:   22 August 2025
 
 Latest update:
-:   Updated with information about the risks from terrorism (‘Safety and security’ page’).
+:   New information about advice on swimming and beaches ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/6703bc3c3b919067bb482cfb/FCDO__TA__043_-_Turkey_Travel_Advice_Ed4__WEB_.jpg)
 
