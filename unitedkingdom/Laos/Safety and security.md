@@ -62,10 +62,9 @@ Affected drinks may include:
 
 Laos authorities have issued an order prohibiting the sale and consumption of Tiger Vodka and Tiger Whisky due to concerns about them being a risk to health. You should avoid consuming these products.
 
-To protect yourself from methanol poisoning:
+To reduce the risk of methanol poisoning:
 
-* buy alcoholic beverages only from licensed liquor stores
-* buy drinks only at licensed bars and hotels
+* buy alcoholic beverages only from licensed liquor stores, bars, clubs, restaurants and hotels
 * avoid home-made alcoholic drinks
 * check bottle seals are intact
 * check labels for poor print quality or incorrect spelling
@@ -195,13 +194,13 @@ Find out what you can do to [prepare for and respond to extreme weather and natu
 
 ### Monsoon
 
+The Department of Meteorology and Hydrology in Laos has issued a warning on 24 August for Storm Kajiki, which is expected through 25-26 August, bringing heavy rainfall across Laos, with very heavy rain likely in the central and upper northern region of the country.  Monitor local news and check [World Meteorological Organization weather reports](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fworldweather.wmo.int%2Fen%2Fcountry.html%3FcountryCode%3D121&data=05%7C02%7Cresponse%40fcdo.gov.uk%7C3bb54cabfe8846968c3208dde2c7f80c%7Cd3a2d0d37cc84f52bbf985bd43d94279%7C0%7C0%7C638916070966272163%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=YQzgg%2FeBS7Daij4pTXHa8fqJeBvCfgMKZfdKIcdyw2c%3D&reserved=0). The Mekong River Commission posts [official updates on the Mekong River](https://eur03.safelinks.protection.outlook.com/?url=http%3A%2F%2Fffw.mrcmekong.org%2F&data=05%7C02%7Cresponse%40fcdo.gov.uk%7C3bb54cabfe8846968c3208dde2c7f80c%7Cd3a2d0d37cc84f52bbf985bd43d94279%7C0%7C0%7C638916070966288585%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=KBKcgyQ890CB2nOoC5kcNvvHtZau%2FaUpYSwsAIg5AWI%3D&reserved=0).
+
 The rainy season in Laos normally runs from May to October, at the same time as the typhoon season in south-east Asia. The season started early in 2025 with higher-than-expected levels of rain. This means that river levels are above average and heavy rainstorms may cause unexpected and serious flooding. Be aware of local advice, social media coverage and follow the advice of the local authorities.
 
-Mountain areas are vulnerable to landslides in the rainy season and the Mekong’s river basins and surrounding areas are likely to be flooded. Meteorologists predict that tropical storms could be more forceful and more frequent in the future, this can amplify monsoon storms and rainfall. Away from river basins there is a high risk of flash flooding causing falling trees, damage to buildings and transport infrastructure; be aware landslides may expose undiscovered UXO.
+Travel to some provinces can be seriously disrupted during this time. Mountain areas are vulnerable to landslides in the rainy season and the Mekong’s river basins and surrounding areas are likely to be flooded. Meteorologists predict that tropical storms could be more forceful and more frequent in the future, this can amplify monsoon storms and rainfall. Away from river basins there is a high risk of flash flooding causing falling trees, damage to buildings and transport infrastructure; be aware landslides may expose undiscovered UXO.
 
 During the monsoon season local road transport is often disrupted due to conditions. Cross country journeys can often take substantially longer than posted schedules and have limited mobile phone coverage. Travel with extra water and food supplies.
-
-The Mekong River Commission posts [official updates on the Mekong River](http://ffw.mrcmekong.org/). Travel to some provinces can be seriously disrupted during this time. Monitor local news and check [World Meteorological Organization weather reports](https://worldweather.wmo.int/en/country.html?countryCode=121).
 
 [Previous
 :
