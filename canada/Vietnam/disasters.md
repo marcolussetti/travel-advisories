@@ -2,6 +2,25 @@
 
 ## Natural disasters and climate
 
+### Typhoon Kajiki
+
+Typhoon Kajiki is expected to make landfall on the coast of Vietnam, near Vinh, on the morning of August 25, 2025.
+
+The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
+
+* transportation
+* power distribution
+* water and food supply
+* telecommunications networks
+* emergency services
+* medical care
+
+If you are in the affected area:
+
+* exercise caution
+* monitor local news and weather reports
+* follow the instructions of local authorities
+
 ### Rainy season
 
 The rainy season extends:
