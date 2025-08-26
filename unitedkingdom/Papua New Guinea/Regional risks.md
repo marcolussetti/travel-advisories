@@ -4,19 +4,15 @@ This section has safety advice for regions of Papua New Guinea. It only covers r
 
 You should also read [FCDO’s overall travel advice](/foreign-travel-advice/papua-new-guinea) and [safety and security advice](/foreign-travel-advice/papua-new-guinea/safety-and-security).
 
-## Hela and Southern Highlands provinces
+## Enga, Hela and Southern Highlands Provinces
 
-FCDO advises against all but essential travel to Hela and Southern Highlands provinces due to the high risk of tribal fighting.
+FCDO advises against all but essential travel to Hela, Southern Highlands and Enga Provinces (except Wabag District) due to the high risk of tribal fighting.
 
-If you plan to travel there, be cautious, stay away from large crowds and gatherings and consider getting private security advice.
+If you plan to travel there, be cautious, stay away from large crowds and gatherings and consider getting private security advice.  Pay attention to local advice on curfews and other restrictions which may be imposed at short notice.
+
+Be particularly cautious and stay away from, the area around the Porgera gold mine, which has been subject to violent landowner disputes.
 
 See [Tribal fighting](/foreign-travel-advice/papua-new-guinea/safety-and-security).
-
-## Enga Province
-
-Due to continued tribal fighting Enga province, visitors should pay attention to local advice on curfews and other restrictions which may be imposed at short notice.
-
-Be particularly cautious throughout the province and stay away from the area around the Porgera gold mine (currently closed), which has been subject to violent landowner disputes.
 
 ## Papua New Guinea-Indonesia border
 

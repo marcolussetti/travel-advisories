@@ -1,26 +1,25 @@
 # Warnings and insurance
 
 Still current at:
-:   2 August 2025
+:   26 August 2025
 
 Updated:
-:   1 August 2025
+:   25 August 2025
 
 Latest update:
-:   Removal of information on tsunami alert specific to the Earthquake in the Kamchatka Peninsular Region (‘Warnings and insurance’ page).
-
-![](https://assets.publishing.service.gov.uk/media/627a68268fa8f57d82837b34/FCDO__TA__063_-_Papua_New_Guinea_Ed1__WEB_.jpg)
-
-
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/627a681b8fa8f57d882d2376/FCDO__TA__063_-_Papua_New_Guinea_Ed1.pdf)
+:   Addition of information following wide-spread intercommunal violence as FCDO advises against all but essential travel to Enga Province, except Wabag District (Warnings and insurance and Regional risks pages)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth and Development Office (FCDO).
 
 ## Areas where FCDO advises against all but essential travel
 
-### Hela and Southern Highlands provinces
+### Hela, Southern Highlands and most of Enga Provinces
 
-FCDO advises against all but essential travel to Hela and Southern Highlands provinces due to the high risk of tribal fighting.
+FCDO advises against all but essential travel to Hela and Southern Highlands Provinces due to the high risk of tribal fighting.
+
+FCDO advises against all but essential travel to Enga Province in the Highlands, except Wabag District.
+
+Following wide-spread intercommunal violence in Wapenamanda area of Enga Province, the provincial government has declared all districts except Wabag District, which remains relatively safe, as ‘fighting zones’.  The authorities report deaths, destruction of property, and the closure of public services.  Checkpoints, random searches, and curfews have been introduced.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/papua-new-guinea/regional-risks).
 
