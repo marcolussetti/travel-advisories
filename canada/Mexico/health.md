@@ -6,7 +6,7 @@
 
 * [Measles: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/504) - 12 May, 2025
 * [COVID-19 and International Travel](https://travel.gc.ca/travelling/health-safety/travel-health-notices/513) - 12 May, 2025
-* [Dengue: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/517) - 21 July, 2025
+* [Dengue: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/517) - 25 August, 2025
 
 This section has information and advice about health risks you might face when travelling. Following this advice can help reduce your risk of getting sick. Not all risks are listed here.
 
@@ -359,14 +359,16 @@ You may experience health problems caused by air pollution in major cities. In M
 
 Consult your doctor before booking your trip if you have lung, heart or respiratory problems.
 
-### Altitude sickness
+### High-altitude illnesses
 
 Mexico City is 2240 metres above sea level. In some parts of the country, you may experience health problems due to high altitudes.
 
-Altitude sickness can be life-threatening. It may require immediate medical evacuation.
+High-altitude illnesses can be life-threatening. They may require immediate medical evacuation.
 
-* Know about the symptoms of altitude sickness
-* Find out how to prevent or reduce the effects of altitude sickness
+* Know about the symptoms of high-altitude illnesses
+* Find out how to prevent or reduce the effects of high-altitude illneses
+
+[Learn more about high-altitude illnesses](https://travel.gc.ca/travelling/health-safety/travel-health-information/altitude-illnesses)
 
 ### Death abroad
 

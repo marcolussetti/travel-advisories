@@ -214,7 +214,7 @@ Road conditions and road safety can vary greatly throughout the country. Coastal
 * poor lane markings
 * damage to roads during the hurricane season
 
-Speeding, as well as driving under the influence of marijuana or alcohol, are common.
+Speeding, as well as driving under the influence of cannabis or alcohol, are common.
 
 When driving between Norman Manley International Airport and Kingston, take the South Camp Road – also known as the Hummingbird Route – rather than Mountain View Avenue, where several robbery incidents have been reported.
 

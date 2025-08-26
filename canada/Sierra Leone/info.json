@@ -1,7 +1,7 @@
 {
     "name": "Sierra Leone",
-    "update_reason": "Editorial change",
-    "update_date": "2025-08-22T15:50:00",
+    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
+    "update_date": "2025-08-25T10:15:00",
     "sections": {
         "risk": "canada/Sierra Leone/risk.md",
         "security": "canada/Sierra Leone/security.md",

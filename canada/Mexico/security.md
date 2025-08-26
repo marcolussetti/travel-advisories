@@ -354,7 +354,7 @@ Outdoor activities, including hiking, mountain biking, scuba diving, and other e
 
 Tour operators may not meet Canadian safety standards.
 
-If you intend to participate in adventure tourism activities:
+If you intend to participate in adventure travel activities:
 
 * share your itinerary with a friend or family member if you’re alone
 * stay on marked trails and consider hiring an experienced guide from a reputable company
