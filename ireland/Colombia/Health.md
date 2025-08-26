@@ -16,7 +16,9 @@ Tap water is safe to drink only in Bogotá. In all other areas of Colombia, only
 
 ### **Yellow Fever**
 
-Yellow fever vaccination certificate is required to enter Colombia for travellers aged 1 year or over arriving from Brazil, Angola, Democratic Republic of Congo, and Uganda and for travellers having transited for more than 12 hours through an airport from the countries mentioned above.  Such certificates are also mandatory to enter certain high-risk regions and national parks in Colombia (including Tayrona National Park).
+A Yellow Fever vaccination certificate is required to enter Colombia for travellers aged 1 year or over arriving from Brazil, Angola, Democratic Republic of Congo, and Uganda and for travellers having transited for more than 12 hours through an airport from the countries mentioned above.  Such certificates are also mandatory to enter certain high-risk regions and national parks in Colombia (including Tayrona National Park).
+
+In April 2025 the Colombian Government declared a national health emergency due to an increase in Yellow Fever cases, with the departments of Tolima and Cundinamarca registering the highest numbers of cases. While yet not mandatory, Irish citizens travelling to Colombia are advised to get vaccinated against Yellow Fever at least 10 days prior to travel.
 
 If travelling on to neighbouring countries in Latin America from Colombia, travellers may not be allowed to do so without production of a Yellow Fever vaccination certificate. Confirm with the authorities of any next planned destinations whether they require a certificate following visiting Colombia.
 

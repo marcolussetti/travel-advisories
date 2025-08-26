@@ -1,16 +1,18 @@
 ## Travel to Colombia overview
 
-### **Security status**
+### **Security Status**
 
 High Degree of Caution
 
 ### **Travel Alert**
 
+#### **Heightened Security Risks**
+
+August 2025 – Several incidents attributed to armed groups have led to heightened security risks across the country in recent days. On 21 August, explosions took place in the cities of Cali, Valle del Cauca and Florencia, Caquetá. A gun attack on a police helicopter also occurred in the department of Antioquia. These incidents have led to multiple casualties, and a large number of injured civilians. Security conditions across the country are expected to remain volatile in the coming period. Road closures and obstructions may occur. Citizens are advised to monitor official alerts and follow the advice of local authorities.
+
+#### **Elections**
+
 Presidential and legislative elections will take place in Colombia in 2026. During election periods, increased volatility in the security situation can take place. Citizens are advised to avoid political rallies, demonstrations and large public protests or gatherings.
-
-June 2025 – There is a heightened risk of violence across the country due to armed group activity, in particular in rural areas. Several explosions and gun attacks have taken place in the departments of Cauca and Valle de Cauca, including the city of Cali in recent days. These attacks have resulted in a number of casualties. Security conditions in these departments are likely to remain volatile in the coming period. Road closures and obstructions may take place. Avoid areas where demonstrations are taking place, monitor official alerts and follow advice from local authorities.
-
-April 2025 - The Colombian Government has declared a national health emergency due to an increase in Yellow Fever cases, with the Departments of Tolima and Cundinamarca registering the highest numbers of cases. Irish citizens travelling to Colombia are advised to get vaccinated against Yellow Fever at least 10 days prior to travel.
 
 ### **General Travel Advice**
 
@@ -18,7 +20,7 @@ Irish citizens do not require a visa to visit Colombia for periods of up to 90 d
 
 A valid passport is required for travel to Colombia. Irish passports should have a minimum validity of 6 months. Passport cards cannot be used.
 
-Colombian authorities advise to travellers to register their details on the ‘[Check-Mig Form'](https://apps.migracioncolombia.gov.co/pre-registro) form on Migración Colombia. Although this is not mandatory, it might speed up your entry to the country. You can complete the form within 72 hours prior to boarding an inbound or outbound flight.
+Colombian authorities advise travellers to register their details on the ‘[Check-Mig Form'](https://apps.migracioncolombia.gov.co/pre-registro) form on Migración Colombia. Although this is not mandatory, it might speed up your entry to the country. You can complete the form within 72 hours prior to boarding an inbound or outbound flight.
 
 Entry and exit requirements are subject to change. All citizens should contact Migracion Colombia and/or consult their local Colombian Embassy for up-to-date information on updates in entry requirements.
 

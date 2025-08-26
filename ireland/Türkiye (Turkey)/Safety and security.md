@@ -73,7 +73,7 @@ It is advisable to use taxis ordered by hotels or directly from a taxi kiosk whe
 
 ### **Extreme Sports**
 
-If participating in extreme sports (including hot-air ballooning), be satisfied that appropriate safety precautions are in place. There have been a number of hot-air ballooning accidents in Cappadocia in the past, which have led to a number of fatalities. There have also been a number of fatalities and serious injuries in paragliding accidents in the resorts of Oludeniz and Fethiye. Only use reputable operators and insist on training before use. Make sure your travel insurance covers all the activities you want to undertake, as often they are excluded in standard policies.
+If participating in extreme sports or adventure activities (including hot-air ballooning, paragliding, water sports, ziplining and quad biking), be satisfied that appropriate safety precautions are in place. There have been a number of hot-air ballooning accidents in Cappadocia in the past, which have led to a number of fatalities. There have also been a number of fatalities and serious injuries in paragliding accidents in the resorts of Oludeniz and Fethiye. Safety and maintenance standards of operators can vary. Only use reputable operators, insist on receiving full instructions and training before use and ensure adequate safety equipment is provided. Make sure your travel insurance covers all the activities you want to undertake, as often they are excluded in standard policies.
 
 ### **Stray Dogs**
 
