@@ -154,7 +154,7 @@ If you intend on hiking, including on volcanoes:
 * ensure that you’re properly equipped
 * stay informed about weather and other conditions that may pose a hazard
 * inform a family member or friend of your itinerary
-* know the symptoms of acute altitude sickness, which can be fatal
+* know the symptoms of high-altitude illnesses, which can be fatal
 * obtain detailed information on hiking routes before setting out and do not venture off marked trails
 
 ### Water activities

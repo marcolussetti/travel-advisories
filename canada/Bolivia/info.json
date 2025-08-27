@@ -1,7 +1,7 @@
 {
     "name": "Bolivia",
-    "update_reason": "Health \u2013 removed Travel health notice for Oropouche virus",
-    "update_date": "2025-08-25T13:02:00",
+    "update_reason": "Editorial change",
+    "update_date": "2025-08-26T12:07:00",
     "sections": {
         "risk": "canada/Bolivia/risk.md",
         "security": "canada/Bolivia/security.md",

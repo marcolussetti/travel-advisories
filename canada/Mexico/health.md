@@ -361,14 +361,14 @@ Consult your doctor before booking your trip if you have lung, heart or respirat
 
 ### High-altitude illnesses
 
-Mexico City is 2240 metres above sea level. In some parts of the country, you may experience health problems due to high altitudes.
+Mexico City is 2,240 metres above sea level. In some parts of the country, you may experience health problems due to high altitudes.
 
 High-altitude illnesses can be life-threatening. They may require immediate medical evacuation.
 
 * Know about the symptoms of high-altitude illnesses
 * Find out how to prevent or reduce the effects of high-altitude illneses
 
-[Learn more about high-altitude illnesses](https://travel.gc.ca/travelling/health-safety/travel-health-information/altitude-illnesses)
+[High-altitude illnesses](https://travel.gc.ca/travelling/health-safety/travel-health-information/altitude-illnesses)
 
 ### Death abroad
 

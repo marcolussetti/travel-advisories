@@ -1,7 +1,7 @@
 {
     "name": "Mali",
-    "update_reason": "Health \u2013 removed Travel health notice for polio",
-    "update_date": "2025-08-25T13:19:00",
+    "update_reason": "The Need help? section was updated.",
+    "update_date": "2025-08-26T11:38:00",
     "sections": {
         "risk": "canada/Mali/risk.md",
         "security": "canada/Mali/security.md",

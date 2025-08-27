@@ -185,9 +185,9 @@ If you intend to do adventure sports:
 
 * never do so alone and always hire an experienced guide from a reputable company
 * buy travel insurance that includes helicopter rescue and medical evacuation
-* exercise extreme caution, as local authorities have limited rescue capabilities, particularly in high altitude and remote areas
+* exercise extreme caution, as local authorities have limited rescue capabilities, particularly in high-altitude and remote areas
 * update your SOS or GPS emergency locator information and inform a family member or friend of your itinerary
-* ensure that your physical condition is good enough to meet the challenges of your activity and know the symptoms of acute altitude sickness
+* ensure that your physical condition is good enough to meet the challenges of your activity and know the symptoms of high-altitude illnesses
 * ensure that you’re properly equipped and well informed about weather and other conditions that may pose a hazard
 * obtain detailed information on trekking routes before setting out and do not venture off marked trails
 

@@ -183,7 +183,7 @@ If you intend to participate in adventure tourism activities:
 * ensure that you have proper equipment and bring sufficient water
 * monitor weather conditions and other possible hazards;
 * share your itinerary with a friend or family member if hiking alone
-* know the symptoms of acute altitude sickness, dehydration and heatstroke, which can be fatal
+* know the symptoms of high-altitude illnesses, dehydration and heatstroke, which can be fatal
 * stay away from stray dogs, which can be aggressive and carry rabies.
 
 Useful links:

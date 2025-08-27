@@ -309,9 +309,9 @@ Make sure you get travel insurance that includes coverage for medical evacuation
 
 [Health and safety outside Canada](https://travel.gc.ca/travelling/health-safety)
 
-### Altitude sickness
+### High-altitude illnesses
 
-You’re at risk of altitude sickness if you travel 2500 metres above sea level or more.
+You’re at risk of high-altitude illnesses if you travel 2,500 metres above sea level or more.
 
 In some departments, you may experience health problems due to high altitudes including in:
 
@@ -325,9 +325,12 @@ You're more at risk if you:
 * ascend quickly
 * exercise or drink alcohol before you get used to the altitude
 
-Altitude sickness can be fatal. You may require immediate medical evacuation, which is less accessible in remote areas. Seek medical attention at a lower altitude if you develop symptoms.
+High-altitude illnesses can be fatal. You may require immediate medical evacuation, which is less accessible in remote areas. Seek medical attention at a lower altitude if you develop symptoms.
 
-[Well on Your Way - A Canadian’s Guide to Healthy Travel Abroad](https://travel.gc.ca/travelling/publications/well-on-your-way)
+#### Useful links
+
+* [High-altitude illnesses](https://travel.gc.ca/travelling/health-safety/travel-health-information/altitude-illnesses)
+* [Well on Your Way - A Canadian’s Guide to Healthy Travel Abroad](https://travel.gc.ca/travelling/publications/well-on-your-way)
 
 ### Medication
 

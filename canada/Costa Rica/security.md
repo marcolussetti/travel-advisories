@@ -198,7 +198,7 @@ If you intend to practice adventure tourism:
 * don’t camp or sleep overnight on beaches
 * ensure that you’re adequately equipped and bring sufficient water
 * stay informed of weather and other conditions that may pose a hazard
-* know the symptoms of acute altitude sickness, which can be fatal
+* know the symptoms of high-altitude illnesses, which can be fatal
 * inform a family member or friend of your itinerary
 * refrain from using facilities or equipment if you have doubts on their safety
 

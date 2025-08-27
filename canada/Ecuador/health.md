@@ -322,14 +322,16 @@ If you take prescription medication, you’re responsible for determining its le
 * Pack your medication in your carry-on luggage
 * Carry a paper and an electronic copy of your prescriptions
 
-### Altitude sickness
+### High-altitude illnesses
 
-Some cities and major tourist attractions are located at more than 2700 metres above sea level. In some parts of the country, you may experience health problems due to high altitudes.
+Some cities and major tourist attractions are located at more than 2,700 metres above sea level. In some parts of the country, you may experience health problems due to high altitudes.
 
-Altitude sickness can range from mild to severe symptoms, which in extreme cases can be fatal. It may require immediate medical evacuation.
+High-altitude illnesses can range from mild to severe symptoms, which in extreme cases can be fatal. It may require immediate medical evacuation.
 
-* Know about the symptoms of altitude sickness
-* Find out how to prevent or reduce the effects of altitude sickness
+* Know about the symptoms of high-altitude illnesses
+* Find out how to prevent or reduce the effects of high-altitude illnesses
+
+[High-altitude illnesses](https://travel.gc.ca/travelling/health-safety/travel-health-information/altitude-illnesses)
 
 ### Keep in Mind...
 
