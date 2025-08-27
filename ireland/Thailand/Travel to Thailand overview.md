@@ -8,7 +8,7 @@ Normal Precautions
 
 #### **Cambodia Border Region**
 
-We advise against all travel to the entirety of the border region between Thailand and Cambodia, where armed clashes have been taking place between Thai and Cambodian armed forces arising from escalating tensions related to longstanding border disputes. The clashes have resulted in fatalities, including civilian fatalities. Border crossings are subject to restrictions and closures, and there may also be a possibility of disruption to air travel between the two countries. We strongly advise citizens against any attempt to approach or cross the border. The situation remains very fluid and Irish citizens in Thailand or intending to visit the country should pay close attention to authoritative sources of information and advice, and remain vigilant at all times.
+We advise against all travel to the entirety of the border region between Thailand and Cambodia, where armed clashes have taken place between Thai and Cambodian armed forces. The clashes have resulted in fatalities including civilian fatalities, and land mines remain present in the disputed border regions. Border crossings are subject to restrictions and closures, and there is a possibility of disruption to air travel between the two countries. While a ceasefire has been agreed, the situation remains fluid and Irish citizens in Thailand and Cambodia or intending to visit should pay close attention to authoritative sources of information and advice, and remain vigilant at all times.
 
 #### **Terrorism**
 

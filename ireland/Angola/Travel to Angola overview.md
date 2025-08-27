@@ -4,12 +4,6 @@
 
 High Degree of Caution
 
-### **Travel Alert**
-
-#### **Protests in Luanda**
-
-A three-day strike by the taxi drivers union (from July 28) has seen large demonstrations in Luanda. There has been reports of civil disorder and looting. If you are in Luanda, avoid any unnecessary movement, monitor local media for the latest information, and follow the instructions of local authorities.
-
 ### **General Travel Advice**
 
 As of 29 September 2023, Irish citizens no longer require a visa to enter Angola, if they are travelling for tourism. Irish citizens can stay for up to 30 days per entry and a maximum of 90 days per year. If visiting Angola for a reason other than tourism, it is still necessary to apply for a visa at an Angolan embassy or consulate.
