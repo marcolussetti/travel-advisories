@@ -32,7 +32,9 @@ You must have a visa to visit Azerbaijan.
 
 ### Applying for a visa
 
-You can apply and pay for a visa from the [ASAN Visa (e-visa) service](https://evisa.gov.az/en/). Apply at least 3 days in advance. An urgent 3-hour service is available for an additional fee.
+If you are travelling in connection with the Formula 1 Azerbaijan Grand Prix, you will be able to obtain a visa on arrival at any international airport in Azerbaijan between the 25 August and 30 September 2025. For more information, including the requirements to be able to use this service, visit the [website of the Embassy of the Republic of Azerbaijan](https://london.mfa.gov.az/en/news/formula-1-le-bagli-azerbaycana-gelen-sexsler-ucun-viza-prosedurlari-sadelesdirilib) in London.
+
+If you are travelling for another reason, you can apply and pay for a visa from the [ASAN Visa (e-visa) service](https://evisa.gov.az/en/). Apply at least 3 days in advance. An urgent 3-hour service is available for an additional fee.
 
 E-visas are normally single entry and allow a 30-day visit within a 90-day period of validity. You must print out the e-visa and bring it with your passport to show on arrival. Officials will check that your passport is valid for 3 months after the visa expiry date. This means your passport must be valid for at least 6 months after the date you arrive in Azerbaijan.
 

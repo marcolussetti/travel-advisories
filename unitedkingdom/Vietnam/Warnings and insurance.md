@@ -1,19 +1,19 @@
 # Warnings and insurance
 
 Still current at:
-:   25 August 2025
+:   27 August 2025
 
 Updated:
-:   24 August 2025
+:   26 August 2025
 
 Latest update:
-:   Storm Kajiki to make landfall around 13.00 on 25th August. Central and northern areas of Vietnam affected, including Hue, Hanoi and Danang ("Warnings and Insurance Page" & "Safety and Security Page")
+:   Updated information about visa requirements ('Entry requirements' page).
 
 ## Storm Kajiki
 
-Storm Kajiki is approaching central Vietnam, with landfall forecast for around 13.00 on 25 August. Areas including Hue, Thanh Hoa, Ha Noi, Ninh Binh and Danang are forecast to be affected. You should expect high winds and heavy rainfall. There is an increased risk of flooding and mudslides in affected areas in the days after landfall. You should expect travel disruption and should follow the advice of local authorities.
+Storm Kajiki is approaching central Vietnam, with landfall forecast for around 13.00 on 25 August. Areas including Hue, Thanh Hoa, Ha Noi, Ninh Binh and Danang are forecast to be affected. You should expect high winds and heavy rainfall. There is an increased risk of flooding and mudslides in affected areas in the days after landfall. You should expect travel disruption and follow the advice of local authorities.
 
-For more regular updates, English-news versions of local newspapers are available at VNexpress ( [https://e.vnexpress.net/](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fe.vnexpress.net%2F&data=05%7C02%7Cresponse%40fcdo.gov.uk%7C01cffdeaf164446d430208dde2de1469%7Cd3a2d0d37cc84f52bbf985bd43d94279%7C0%7C0%7C638916165622332150%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=XrV2njBtEBKC9zgpZ2PgjQOvAPbgZgQOHgGtX%2FUzDfI%3D&reserved=0)) and Vietnam News ( [https://vietnamnews.vn/](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fvietnamnews.vn%2F&data=05%7C02%7Cresponse%40fcdo.gov.uk%7C01cffdeaf164446d430208dde2de1469%7Cd3a2d0d37cc84f52bbf985bd43d94279%7C0%7C0%7C638916165622345481%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=uBRIuX5P3cCKxErBna%2F6tKFY3NVzvfeVO03bReBx8Jo%3D&reserved=0) ).
+For more regular updates, English-news versions of local newspapers are available at [VNexpress](https://e.vnexpress.net/) and [Vietnam News](https://vietnamnews.vn/).
 
 ## Before you travel
 

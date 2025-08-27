@@ -1,11 +1,11 @@
 {
     "name": "Kenya",
-    "update_reason": "Information on the risk of kidnaps ('Warnings and insurance' page).",
+    "update_reason": "New information on social media and dating apps when in Kenya (See \u2018LGBT+ travellers\u2019 and \u2018Social media and dating apps\u2019 on the \u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Kenya/Warnings and insurance.md",
-            "update_date": "2025-06-27T17:49:38+01:00"
+            "update_date": "2025-08-26T13:52:56+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Kenya/Getting help.md"
         }
     ],
-    "update_date": "2025-06-27T17:49:38+01:00"
+    "update_date": "2025-08-26T13:52:56+01:00"
 }

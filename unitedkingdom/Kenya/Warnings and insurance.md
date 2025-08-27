@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   28 June 2025
+:   27 August 2025
 
 Updated:
-:   27 June 2025
+:   26 August 2025
 
 Latest update:
-:   Information on the risk of kidnaps ('Warnings and insurance' page).
+:   New information on social media and dating apps when in Kenya (See ‘LGBT+ travellers’ and ‘Social media and dating apps’ on the ‘Safety and security’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/618e41d8d3bf7f0559e1d936/FCDO__TA__055_-_Kenya_Travel_Advice_Ed3__WEB_.jpg)
 

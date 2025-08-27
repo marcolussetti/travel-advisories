@@ -24,7 +24,7 @@ Check the visa expiry date written in your passport is correct before leaving bo
 
 ## Visa requirements
 
-You can visit Vietnam without a visa for up to 45 days for tourism or business.
+You can visit Vietnam without a visa for up to 45 days for tourism or business. On arrival, your passport will be stamped with an entry and exit stamp (the date you have to leave by). Check that the date given is 45 days from your arrival date, as Immigration will not change this after you have left the airport/land border.
 
 If you want to stay longer than 45 days, you can:
 

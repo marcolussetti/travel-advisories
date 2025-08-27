@@ -1,11 +1,11 @@
 {
     "name": "Vietnam",
-    "update_reason": "Storm Kajiki to make landfall around 13.00 on 25th August. Central and northern areas of Vietnam affected, including Hue, Hanoi and Danang (\"Warnings and Insurance Page\" & \"Safety and Security Page\")",
+    "update_reason": "Updated information about visa requirements ('Entry requirements' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Vietnam/Warnings and insurance.md",
-            "update_date": "2025-08-24T08:33:16+01:00"
+            "update_date": "2025-08-26T15:57:17+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Vietnam/Getting help.md"
         }
     ],
-    "update_date": "2025-08-24T08:33:16+01:00"
+    "update_date": "2025-08-26T15:57:17+01:00"
 }

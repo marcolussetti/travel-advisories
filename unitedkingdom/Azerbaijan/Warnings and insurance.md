@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   8 July 2025
+:   27 August 2025
 
 Updated:
-:   7 July 2025
+:   26 August 2025
 
 Latest update:
-:   Removal of information regarding entry into Azerbaijan via the land border with Iran.
+:   Updated visa procedures for visitors travelling to Azerbaijan in connection with the Formula 1 Azerbaijan Grand Prix (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/67efddbf27eb76c92cf7e567/FCDO__TA__004_-_Azerbaijan_Travel_Advice_Ed9__WEB_.jpg)
 

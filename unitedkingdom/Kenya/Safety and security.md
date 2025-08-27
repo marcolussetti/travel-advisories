@@ -88,6 +88,10 @@ Do not accept drinks or food from strangers in bars or clubs. Criminals spike dr
 
 Sexual assaults are rare, but do happen, and can affect both male and female travellers.
 
+### Social media and dating apps
+
+Criminals can use dating apps to identify victims to rob or sexually assault. There has been an increase in criminals targeting LGBT+ travellers in particular. Be cautious when using social media and dating apps. If you decide to meet someone, meet in a well-lit, public place and make sure that someone knows where you are.
+
 ## Laws and cultural differences
 
 ### Personal ID
@@ -112,7 +116,7 @@ It is illegal to take photographs of official buildings, including embassies, or
 
 ### LGBT+ travellers
 
-Same-sex sexual activity is illegal and same-sex relationships are not tolerated in Kenya’s conservative society. Showing affection in public could lead to arrest and imprisonment.
+Same-sex sexual activity is illegal and same-sex relationships are not tolerated in Kenya’s conservative society. Showing affection in public could lead to arrest and imprisonment. See the ‘Social media and dating apps’ subheading for more advice.
 
 Read more [advice for LGBT+ travellers](https://www.gov.uk/lesbian-gay-bisexual-and-transgender-foreign-travel-advice).
 
