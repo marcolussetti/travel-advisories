@@ -358,11 +358,13 @@ Make sure you get travel insurance that includes coverage for medical evacuation
 
 [Health and safety outside Canada](https://travel.gc.ca/travelling/health-safety)
 
-### Altitude sickness
+### High-altitude illnesses
 
-Addis Ababa is located about 2500 metres above sea level. Acute mountain sickness may occur at high altitudes.
+Addis Ababa is located about 2,500 metres above sea level. High-altitude illnesses may occur at high altitudes.
 
 Be well informed about the potential health hazards at high altitudes.
+
+[High-altitude illnesses](https://travel.gc.ca/travelling/health-safety/travel-health-information/altitude-illnesses)
 
 ### Keep in Mind...
 

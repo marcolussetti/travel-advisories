@@ -327,10 +327,7 @@ You're more at risk if you:
 
 High-altitude illnesses can be fatal. You may require immediate medical evacuation, which is less accessible in remote areas. Seek medical attention at a lower altitude if you develop symptoms.
 
-#### Useful links
-
-* [High-altitude illnesses](https://travel.gc.ca/travelling/health-safety/travel-health-information/altitude-illnesses)
-* [Well on Your Way - A Canadian’s Guide to Healthy Travel Abroad](https://travel.gc.ca/travelling/publications/well-on-your-way)
+[High-altitude illnesses](https://travel.gc.ca/travelling/health-safety/travel-health-information/altitude-illnesses)
 
 ### Medication
 

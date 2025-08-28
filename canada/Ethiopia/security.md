@@ -314,7 +314,7 @@ If you intend on hiking in this area despite the advisory in place:
 * ensure that your physical condition is good enough to meet the challenges of your activity
 * ensure that you’re properly equipped and well informed about weather and other conditions that may pose a hazard
 * inform a family member or friend of your itinerary, including when you expect to be back to camp
-* know the symptoms of acute altitude sickness, which can be fatal
+* know the symptoms of high-altitude illnesses, which can be fatal
 * obtain detailed information on trekking routes before setting out and do not venture off marked trails
 
 ### Women’s safety
@@ -322,8 +322,6 @@ If you intend on hiking in this area despite the advisory in place:
 Women travelling alone may be subject to harassment and verbal abuse.
 
 [Advice for women travellers](https://travel.gc.ca/travelling/health-safety/advice-for-women-travellers "Advice for women travellers")
-
-###
 
 ### Air travel
 

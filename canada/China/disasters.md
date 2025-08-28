@@ -48,8 +48,6 @@ China is located in an active seismic zone and is prone to earthquakes.
 
 Familiarize yourself with the security measures in place at your accommodations while in China. In the event of an earthquake, pay careful attention to all official warnings and follow evacuation orders issued by the Government of China. Aftershocks could occur.
 
-[What to do during an earthquake](https://www.getprepared.gc.ca/cnt/hzd/rthqks-drng-en.aspx)
-
 ### Avalanches and landslides
 
 In mountainous regions, avalanches and landslides present a risk and have resulted in fatalities.

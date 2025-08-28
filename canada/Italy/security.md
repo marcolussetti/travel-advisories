@@ -156,7 +156,7 @@ If you intend to participate in adventure tourism activities:
 * stay on marked trails and consider hiring an experienced guide from a reputable company
 * buy travel insurance that covers incidents related to this type of recreational activity
 * ensure that your physical condition is good enough to tackle the challenges of your activity
-* know the symptoms of acute altitude sickness, dehydration and heatstroke, which can be fatal
+* know the symptoms of high-altitude illnesses, dehydration and heatstroke, which can be fatal
 * ensure that you have proper equipment and bring sufficient water
 * monitor weather conditions and other possible hazards
 

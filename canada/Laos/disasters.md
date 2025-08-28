@@ -4,9 +4,9 @@
 
 ### Typhoon Kajiki
 
-Typhoon Kajiki is expected to pass through parts of central and northern Laos on August 25, 2025.
+On August 26, 2025, remnants of Typhoon Kajiki brought excessive rainfall to northern Laos.
 
-The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
+The storm caused caused flooding and disruptions to the following essential services:
 
 * transportation
 * power distribution

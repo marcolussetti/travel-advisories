@@ -232,7 +232,7 @@ If you intend on engaging in trekking activities:
 * ensure that your physical condition is good enough to meet the challenges of your activity
 * ensure that you're properly equipped and well informed about weather and other conditions that may pose a hazard
 * inform a family member or friend of your itinerary, including when you expect to be back to camp
-* know the symptoms of acute altitude sickness, which can be fatal
+* know the symptoms of high-altitude illnesses, which can be fatal
 * obtain detailed information on trekking routes or ski slopes before setting out and don't venture off marked trails or slopes
 
 In case of air evacuation, advance payment of the total evacuation cost is required from the insurance company before rescue teams will perform rescue operations. The Government of Canada is unable to intervene, provide, or pay for rescue services.

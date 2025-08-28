@@ -272,7 +272,7 @@ If you intend on trekking:
 * ensure that your physical condition is good enough to meet the challenges of your activity
 * ensure that you’re adequately equipped and well informed about weather and other conditions that may pose a hazard
 * inform a family member or friend of your itinerary, including when you expect to be back to camp
-* know the symptoms of acute altitude sickness, which can be fatal
+* know the symptoms of high-altitude illnesses, which can be fatal
 * obtain detailed information on trekking routes or ski slopes before setting out and do not venture off marked trails or slopes
 
 ### Wildlife viewing

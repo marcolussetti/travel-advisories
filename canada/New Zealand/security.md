@@ -69,7 +69,7 @@ If you are participating in adventure tourism, such as zip-lining, rock climbing
 * make sure you’re well-equipped and informed about weather and other hazardous conditions
 * consider purchasing or renting a distress or personal locator beacon (PLB)
 * tell a family member or friend about your itinerary, including when you expect to be back
-* know the symptoms of acute altitude sickness, which can be fatal
+* know the symptoms of high-altitude illnesses, which can be fatal
 * don’t venture off marked trails
 * don’t use the facilities or equipment if you have doubts about their safety
 

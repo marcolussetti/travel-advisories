@@ -105,7 +105,7 @@ If you intend to go hiking, mountaineering or skiing:
 * carry an avalanche beacon
 * stay informed about weather and other conditions that may pose a hazard
 * inform a family member or friend of your itinerary
-* know the symptoms of acute altitude sickness, which can be fatal
+* know the symptoms of high-altitude illnesses, which can be fatal
 * obtain detailed information on your activity and on the environment in which you will be doing it before setting out
 
 #### Useful links

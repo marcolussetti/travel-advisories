@@ -48,7 +48,7 @@ Road conditions and road safety can vary greatly throughout the country.
 
 The roads in the capital, Maseru, are adequate, as well as the roads leading to the airport and industrial areas. The roads leading to the Lesotho–South Africa border crossings and most of Lesotho’s district capitals are also in good condition. Aggressive and unpredictable local driving habits pose a risk in Maseru.
 
-The roads linking rural communities are gravel and poorly maintained.  They are poorly lit, and wandering livestock pose a risk to drivers. Some of these rural communities, mainly those in the mountainous areas, are only connected by dirt roads.  You may need a four-wheel drive vehicle in those areas. You must also have such a vehicle to enter and depart Lesotho through the Sani Pass on the eastern border. 
+The roads linking rural communities are gravel and poorly maintained.  They are poorly lit, and wandering livestock pose a risk to drivers. Some of these rural communities, mainly those in the mountainous areas, are only connected by dirt roads.  You may need a four-wheel drive vehicle in those areas. You must also have such a vehicle to enter and depart Lesotho through the Sani Pass on the eastern border.
 
 Tourist facilities are limited in Lesotho. There are few gas stations outside of cities and large towns, and no roadside assistance services operating throughout the country.
 
@@ -63,13 +63,13 @@ Weather conditions can change rapidly in mountainous regions. Even in the summer
 
 #### Bus and taxis
 
-Although public bus and taxi services exist, poor vehicle maintenance, overcrowding and lack of driver training make them unsafe. Accidents occur regularly. 
+Although public bus and taxi services exist, poor vehicle maintenance, overcrowding and lack of driver training make them unsafe. Accidents occur regularly.
 
 The best way to travel is by private car.
 
 ### Renting a car
 
-Car rental services are available in Maseru. If you rent a car in South Africa, you may bring it into Lesotho with a letter of authorization from the rental company. 
+Car rental services are available in Maseru. If you rent a car in South Africa, you may bring it into Lesotho with a letter of authorization from the rental company.
 
 Check with the rental company to make sure they issue letters of authorization.
 
@@ -96,7 +96,7 @@ If you intend to hike:
 * ensure that your physical condition is good enough to meet the challenges of your activity
 * ensure that you’re properly equipped and well informed about weather and other conditions that may pose a hazard
 * inform a family member or friend of your itinerary, including when you expect to be back to camp
-* know the symptoms of acute altitude sickness, which can be fatal
+* know the symptoms of high-altitude illnesses, which can be fatal
 
 ### Women’s Safety
 

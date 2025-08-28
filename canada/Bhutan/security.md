@@ -12,11 +12,11 @@ Violent crime is not common.
 
 ### Trekking
 
-Bhutan is located in the eastern Himalayas. Several trekking trails are situated at altitudes exceeding 5,000 metres. Acute altitude sickness may occur at high altitudes.
+Bhutan is located in the eastern Himalayas. Several trekking trails are situated at altitudes exceeding 5,000 metres. High-altitude illnesses may occur at high altitudes.
 
 If you intend on trekking:
 
-* know the symptoms of acute altitude sickness, which can be fatal
+* know the symptoms of high-altitude illnesses, which can be fatal
 * never do so alone and always hire an experienced guide from a reputable company
 * buy travel insurance that includes helicopter rescue and medical evacuation
 * ensure that your physical condition is good enough to meet the challenges of your activity

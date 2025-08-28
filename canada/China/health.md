@@ -305,11 +305,13 @@ Make sure you get travel insurance that includes coverage for medical evacuation
 
 [Health and safety outside Canada](https://travel.gc.ca/travelling/health-safety)
 
-### Altitude sickness
+### High-altitude illnesses
 
-Tibet, Qinghai, western Sichuan and parts of Xinjiang are situated at altitudes exceeding 3,000 metres. Acute mountain sickness may occur at high altitudes.
+Tibet, Qinghai, western Sichuan and parts of Xinjiang are situated at altitudes exceeding 3,000 metres. High-altitude illnesses may occur at high altitudes.
 
-Know the symptoms of acute altitude sickness, which can be fatal.
+Know the symptoms of high-altitude illnesses, which can be fatal.
+
+[High-altitude illnesses](https://travel.gc.ca/travelling/health-safety/travel-health-information/altitude-illnesses)
 
 ### Keep in Mind...
 

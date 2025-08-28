@@ -4,9 +4,9 @@
 
 ### Typhoon Kajiki
 
-Typhoon Kajiki is expected to make landfall on the coast of Vietnam, near Vinh, on the morning of August 25, 2025.
+On August 25, 2025, Typhoon Kajiki made landfall in north-central Vietnam. It caused significant damage to buildings and infrastructure.
 
-The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
+The storm brought excessive rainfall and violent winds, resulting in of several casualties and displaced persons. Typhoon Kajiki caused severe flooding and there are significant disruptions to the following essential services:
 
 * transportation
 * power distribution
