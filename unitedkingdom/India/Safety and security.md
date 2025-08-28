@@ -16,14 +16,14 @@ There is a heightened risk of terrorism in some Indian regions. Read [our advice
 
 Terrorist and insurgent groups operating in India include:
 
-* Lashkar-e-Tayyiba (LET) and Jaish-e-Mohammed (JEM) in Kashmir
-* Naxalite (radical communist insurgent) groups active in some of the India’s eastern, southern and central states
+* Lashkar-e-Taiba (LeT) and Jaish-e-Mohammed (JeM) in Indian-administered Kashmir
+* Naxalite (Maoist or Left Wing Extremism) groups active in some of the India’s eastern, southern and central states
 * Khalistani extremists operating mainly in Punjab
 * Daesh, Al Qa’ida in the Indian Subcontinent (AQIS) and other groups may also be planning attacks
 
 Terrorist attacks have targeted Indian government interests and civilians, including tourists and foreign nationals. Security has been strengthened, including at major hotels and transport hubs. However, terrorist attacks could be indiscriminate, including in places visited by foreign nationals, such as:
 
-* restaurants, hotels, bars and markets
+* restaurants, hotels, bars, shopping centres and markets
 * stations and airports
 * places of worship and tourist attractions
 * festivals, sports venues and beaches
@@ -37,13 +37,15 @@ Take particular care during periods of national or religious significance, such 
 
 Stay aware of your surroundings and keep up to date with local media reports. It is advisable to always carry identity documents and follow the advice of local authorities.
 
-## Political situation
+## Demonstrations and mass gatherings
 
-Strikes (sometimes referred to as ‘bandh’ or ‘hartal’), political rallies and demonstrations happen frequently and can become violent. The risks are higher during elections and after the death of party or government leaders. Protests may also happen at short notice, especially around days of national importance. Local authorities may impose curfews and other restrictions. Transport and public services including mobile networks and internet may be disrupted.
+Strikes (sometimes referred to as ‘bandh’ or ‘hartal’), political rallies and demonstrations happen frequently and can become violent. The risks are higher during elections and after the death of party or government leaders. Protests can happen at short notice, especially around days of national importance.
+
+Local authorities may impose curfews and other restrictions. Transport and public services including mobile networks and internet may be disrupted. Stampedes have occurred during some events with large crowds like sporting events or parades resulting in death and injuries.
 
 You should:
 
-* avoid protests or large gatherings, including at religious sites
+* avoid protests or demonstrations, rallies and large gatherings including at religious sites
 * follow the advice of the local authorities and your travel company
 * monitor local media and follow any curfew restrictions
 
@@ -57,7 +59,7 @@ If you’re the victim of crime in India, call:
 
 ### Protecting your belongings
 
-Keep a copy of your passport, visa and flight ticket separately from originals when travelling. Leave copies at home where others can access them, and store copies electronically. If your passport is lost or stolen, tell the police immediately and get a police report. You will need the police report for your exit visa application.
+Keep a copy of your passport complete with your emergency contact details, visa and flight ticket separately from originals when travelling. Leave copies at home where others can access them, and store copies electronically. If your passport is lost or stolen, tell the police immediately and get a police report. You will need the police report for your exit visa application.
 
 Take care of your possessions on buses, trains and in crowds. Criminals may ride past on motorbikes and snatch valuables.
 
@@ -67,7 +69,7 @@ Be cautious in tourist areas, where scammers, pickpockets and ticket touts targe
 
 Cybercrime, internet scamming, card skimming and confidence scams are common. These scams come in many forms and can cause great financial loss.
 
-Criminals often use the details of British high commissions and embassies. Be cautious and check the authenticity of details before responding.
+Criminals often use the details of British High Commissions and Embassies. Be cautious and check the authenticity of details before responding.
 
 ### Drink and food spiking
 
@@ -95,7 +97,7 @@ It is illegal to drink alcohol in public places, such as parks.
 
 In some states, foreign nationals and non-resident Indians can buy 30-day alcohol permits.
 
-There is often a ban on the sale of alcohol during major religious festivals, national holidays and elections.
+There is often a ban on the sale of alcohol during major religious festivals, national holidays and elections. Police can carry out vehicle checks during this period.
 
 The consumption, production or transportation of alcohol is illegal in:
 
@@ -103,15 +105,15 @@ The consumption, production or transportation of alcohol is illegal in:
 * Gujarat
 * Mizoram
 * Nagaland
-* the region of Lakshadweep
+* Union Territory of Lakshadweep
 
 If you drink or possess alcohol in these states, you could be arrested and held without bail. You could face a prison sentence of 5 to 10 years.
 
-### Smoking and e-cigarette bans
+### Smoking and vapes bans
 
 It is illegal to smoke in most public places. Only smoke in designated smoking areas.
 
-E-cigarettes and related products are banned. You cannot buy e-cigarettes in India or bring them into the country.
+Vapes and related products are banned. You cannot buy vapes in India or bring them into the country.
 
 ### Illegal drugs and prison sentences
 
@@ -125,7 +127,7 @@ Activities involving cameras and binoculars, like photography, birdwatching or p
 
 It is illegal to possess and operate satellite phones and GPS devices in India without a licence, even if you are only transiting through India. This may also cover other satellite-enabled devices, including handheld or cycling GPSs. You can be fined or arrested for possession of these devices without permission and the item can be confiscated.
 
-A number of British nationals have been arrested or detained for bringing satellite phones and other satellite-enabled navigational devices into the country without prior permission. Contact the Indian Department of Telecommunication to [request a licence](https://dot.gov.in/contact-us). Further information is also available at the [Bureau of Civil Aviation Security](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fbcasindia.gov.in%2F%23%2Fpages%2Fpermitted-and-prohibited%2Felectronic-items&data=05%7C02%7CDiana.Joseph%40fcdo.gov.uk%7C6f456b783ea544ee418c08dd3ca0611d%7Cd3a2d0d37cc84f52bbf985bd43d94279%7C0%7C0%7C638733381721060919%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=WpTy%2FFejIiPKx5J94Ke9sCZgX06h%2Fxy9ljaLSJsA7XY%3D&reserved=0).
+A number of British nationals have been arrested or detained for bringing satellite phones and other satellite-enabled navigational devices into the country without prior permission. Contact the Indian Department of Telecommunication to [request a licence](https://dot.gov.in/contact-us). Further information is also available at the [Bureau of Civil Aviation Security](https://bcasindia.gov.in/#/pages/permitted-and-prohibited/electronic-items).
 
 ### Swimming safety
 
@@ -143,7 +145,7 @@ Trekkers should:
 
 Leave details of where you’re going and when you expect to return with your accommodation. You are extremely unlikely to have a phone signal in the mountains, so make sure your accommodation provider registers your whereabouts using the [online C-form](https://indianfrro.gov.in/frro/FormC).
 
-It is illegal to possess or operate satellite phones without prior permission of the Indian authorities.
+It is illegal to possess or operate satellite phones or GPS devices without prior permission of the Indian authorities. [Contact the Indian Department of Telecommunication to request a licence](https://dot.gov.in/contact-us).
 
 Hazards when trekking exist throughout the year, especially above 3,000 metres, including:
 
@@ -164,7 +166,7 @@ See more [advice for LGBT+ travellers](https://www.gov.uk/lesbian-gay-bisexual-a
 
 ### Child custody and family law
 
-Indian family law is very different from UK law. Special caution is needed when child custody becomes an issue. In case of dispute, [consult a lawyer in India](https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/lawyers?country=India) to find out more about the relevant laws.
+Indian family law is different from UK law. Special caution is needed when child custody becomes an issue. In case of dispute, [consult a lawyer in India](https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/lawyers?country=India) to find out more about the relevant laws.
 
 Commercial surrogacy is illegal for foreign nationals in India. Overseas Citizens of India (OCI) can seek legal guidance on surrogacy if at least one partner is an Indian passport holder.
 
@@ -248,7 +250,7 @@ You should:
 
 The monsoon season in India usually runs from June to October. Monsoon rains can cause:
 
-* flooding and landslides, sometimes leading to significant loss of life
+* flash flooding and landslides, which can often occur with limited warning, sometimes leading to significant loss of life and property, particularly in mountainous areas
 * towns and villages to be cut off
 * serious disruption to road and train travel
 * disruption in big cities due to flooding

@@ -1,11 +1,11 @@
 {
     "name": "India",
-    "update_reason": "Updated information about the Ahmedabad plane crash and support available for British nationals ('Warnings and insurance' page).",
+    "update_reason": "This travel advice has been reviewed in full with updates including risks from flash flooding and landslides in mountainous areas, large crowds, terrorism, traffic disruptions and information about medication in India (\u2018Safety and security\u2019, \u2018Regional risks\u2019 and \u2018Health\u2019 pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/India/Warnings and insurance.md",
-            "update_date": "2025-06-30T12:07:14+01:00"
+            "update_date": "2025-08-27T16:59:01+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/India/Getting help.md"
         }
     ],
-    "update_date": "2025-06-30T12:07:14+01:00"
+    "update_date": "2025-08-27T16:59:01+01:00"
 }

@@ -37,11 +37,13 @@ Severe air pollution is a major health hazard, especially during the winter mont
 
 The legal status and regulation of some medicines prescribed or bought in the UK can be different in other countries.
 
+Pharmacies are widely available  in India. Most medicines that require a prescription in the UK will require one in India. Take your existing medicine packaging to show them exactly what you need.
+
 Read [best practice when travelling with medicines on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/43/medicines-abroad).
 
 ## Healthcare in India
 
-Medical facilities differ from those in the UK, especially in more remote areas. Specialised treatment may not be available outside major cities. In major cities, government and more expensive private medical care is available
+Medical facilities differ from those in the UK, especially in more remote areas. Specialised treatment may not be available outside major cities. In major cities, government and more expensive private medical care is available.
 
 FCDO has a list of [medical providers in India](https://www.gov.uk/government/publications/india-list-of-hospitals) where some staff will speak English.
 

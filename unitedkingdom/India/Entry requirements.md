@@ -49,17 +49,17 @@ It’s illegal to overstay your visa in India. Make sure you leave the country b
 
 If you or someone you’re travelling with has a short-term tourist visa and is hospitalised, you may be able to [extend or convert to a medical visa](https://boi.gov.in/boi/public/content/pages/51280760-1ddb-4c72-8e1e-02b5731ef7a9).
 
-Make sure you get your passport stamped.
+Make sure you get your passport stamped
 
 Make sure the border control officer puts a stamp in your passport when you arrive in India. You’ll need to show it when you leave, so border control officers know you have not overstayed your visa.
 
 ## Registering with the authorities
 
-Hotels, hostels and other accommodation providers must register foreign guests with the [Foreigners Regional Registration Office](https://indianfrro.gov.in/eservices/home.jsp). Make sure your accommodation provider registers you.
+Hotels, hostels and other accommodation providers must register foreign guests with the [Foreigners Regional Registration Office](https://indianfrro.gov.in/efrro/home). Make sure your accommodation provider registers you [using the online C-form](https://indianfrro.gov.in/frro/FormC).
 
-You will need your passport with a valid visa to get accommodation in country.  British nationals who have overstayed their Indian visa have found it difficult to find accommodation.
+You will need your passport with a valid visa to get accommodation in country. British nationals who have overstayed their Indian visa have found it difficult to find accommodation.
 
-If you plan to stay in India for more than 180 days and do not hold an OCI card, you must register within 14 days of arrival with the [Foreigners Regional Registration Office](https://indianfrro.gov.in/eservices/home.jsp). You could be denied permission to leave if you do not do this.
+If you plan to stay in India for more than 180 days and do not hold an OCI card, you must register within 14 days of arrival with the [Foreigners Regional Registration Office](https://indianfrro.gov.in/efrro/home). You could be denied permission to leave if you do not do this.
 
 You may need to register your stay depending on the type of visa you hold, check if you need to.
 
@@ -88,17 +88,23 @@ If you’re visiting India, you can bring cash, travellers cheques (in British p
 
 You must declare any amount above 5,000 US dollars in notes, or 10,000 US dollars in notes and travellers cheques combined.
 
-## Access permits in north-east India
+## Access permits
 
-You need a permit to travel to [Sikkim](https://sikkimtourism.gov.in/Public/TravellerEssentials/rap), [Arunachal Pradesh](https://arunachaltourism.com/protected-area-permit/), [Nagaland](https://ilp.nagaland.gov.in/) and parts of the [Andaman and Nicobar Islands](https://police.andaman.gov.in/index.php/en/public-information/foreigners/for-foreign-tourist.html). Apply at least 3 months in advance.
+Special permits are required to visit certain parts of India designated as restricted or protected areas.
 
-In India, apply at the liaison office of the state for which you need a permit or the Foreigners Regional Registration Office (FRRO).
+Permit regulations can change at any time.
 
-Permit regulations can change at any time. Contact the relevant state liaison office or the [Indian Bureau of Immigration](https://boi.gov.in/) for the latest guidance.
+Information is available from:
 
-If you’re travelling to Mizoram, you need to register online with the Superintendent of Police in Aizawl or state CID on the [e-FRRO online portal](https://indianfrro.gov.in/eservices/home.jsp).
+* the [Ministry of Home Affairs](https://www.mha.gov.in/sites/default/files/2022-08/AnnexVII_01022018%5B1%5D.pdf) website
+* local tour operators
+* the relevant state liaison office
+* the [Indian Bureau of Immigration](https://boi.gov.in/)
 
-If you are travelling to Mizoram, Meghalaya and Nagaland, check guidelines issued by local authorities. Blockades and protests may disrupt traffic along the national highways connecting them with each other and with Assam, particularly in border areas.
+You need to apply for permits 3 months before your arrival. You can submit your application:
+
+* in the UK, the [High Commission of India in London](https://www.hcilondon.gov.in/) or [another Indian consulate](https://www.hcilondon.gov.in/page/consular-jurisdiction/)
+* in India, the liaison office of the state for which you need a permit or the [Foreigners Regional Registration Office (FRRO)](https://indianfrro.gov.in/efrro/home)
 
 [Previous
 :

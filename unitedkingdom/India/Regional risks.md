@@ -10,13 +10,12 @@ FCDO advises against all travel within 10km of the India-Pakistan border. The 
 
 The India-Pakistan border in Gujarat and Rajasthan is unmarked in some areas. Approaching it away from an official crossing point could be dangerous. Where it is unmarked, you could enter Pakistan illegally.
 
-## Jammu and Kashmir
+## Union Territory of Jammu and Kashmir
 
-FCDO advises against all travel to the region of Jammu and Kashmir (including Pahalgam, Gulmarg, Sonamarg, the city of Srinagar and the Jammu-Srinagar national highway), except for:
+FCDO advises against all travel to the Union Territory of Jammu and Kashmir (including Pahalgam, Gulmarg, Sonamarg, the city of Srinagar and the Jammu-Srinagar national highway), except for:
 
 * travel by air to and from the city of Jammu
 * travel within the city of Jammu
-* travel within the Union Territory of Ladakh
 
 There have been frequent terrorist incidents in Jammu and Kashmir. There is a continuing threat, towards Indian government targets and civilians including tourists and foreign nationals. See [Terrorism](/foreign-travel-advice/india/safety-and-security#terrorism).
 
@@ -30,7 +29,7 @@ Foreign nationals are vulnerable in rural districts and outside the main populat
 
 FCDO advises against all but essential travel to the state of Manipur. Some insurgent groups are active in north-east India in the state of Manipur.
 
-In 2023 violent ethnic clashes broke out across Manipur, including in the state capital, Imphal. Intermittent incidents have continued and escalated in September 2024. There may be curfews and other restrictions including transport disruptions and the suspension of internet services at short notice in some parts of the state.
+In 2023 violent ethnic clashes broke out across Manipur, including in the state capital, Imphal. Intermittent incidents of violence have continued, including between May and July 2025. There may be curfews and other restrictions including transport disruptions and the suspension of internet services at short notice in some parts of the state.
 
 You should:
 
@@ -46,34 +45,24 @@ There have been:
 
 * violent clashes along the disputed border between Assam and Mizoram and Assam-Meghalaya that led to deaths
 * reports of violent communal and political clashes in Tripura
-* security forces killing a number of civilians in Nagaland near the Myanmar border
 
 There have been skirmishes on the India-Bangladesh border. Travellers are advised to check with local authorities that it is safe to travel before visiting these areas.
 
-Protests and large gatherings are common in India’s north-eastern states. They can happen without warning and occasionally result in disorder. Avoid protests and leave as soon as possible if a crowd develops. Review your security arrangements carefully and follow the advice of local authorities.
+Protests, blockades and large gatherings are common in India’s north-eastern states. They can happen without warning and occasionally result in disorder. Blockades and protests may disrupt traffic along the national highways connecting them with each other and with Assam, particularly in border areas.
+
+Avoid protests and leave as soon as possible if a crowd develops. Review your security arrangements carefully and follow the advice of local authorities.
 
 ## Chhattisgarh, Jharkhand, Odisha, Madhya Pradesh and Maharashtra, Telangana, Andhra Pradesh and West Bengal
 
-Naxalite (Maoist or Left Wing Extremism) insurgents target police officers, paramilitary forces and government officials leading to injuries and deaths (150 in 2023 and around 100 in 2024). Seek advice from your travel provider and local authorities if you plan to travel to rural and forested areas in the following districts, which the Indian government has identified as affected districts, including:
+Naxalite (Maoist or Left Wing Extremism) insurgents target police officers, paramilitary forces and government officials leading to injuries and deaths. Seek advice from your travel provider and local authorities if you plan to travel to certain pockets in these states that are affected, for specific areas see more details, see [Press Information Bureau](https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2082749).
 
-* In Chhattisgarh: Bastar, Bijapur, Dantewada, Dhamtari, Gariyaband, Kanker, Kondagaon, Mahasamund, Narayanpur, Rajnandgaon, Mohalla-Manpur- Ambagarh chowki, Khairgarh- Chhuikhadan-Gandai, Sukma, Kabirdham, Mungeli
-* In Jharkhand: West Singhbhum (there is risk of violent crime in rural areas), Giridih, Gumla, Latehar, Lohardaga
-* In Odisha: - Kalahandi, Kandhamal, Bolangir, Malkangiri, Nabrangpur, Nuapada, Rayagada
-* In Madhya Pradesh: Balaghat, Mandla, Dindori
-* In Maharashtra: Gadchiroli, Gondia
-* In Telangana: Bhadradri KothagudemIn , Mulugu
-* In Andhra Pradesh: Alluri Sitaramaraju
-* In West Bengal: Jhargram
-
-Foreign tourists and researchers must keep to security guidelines during visits to tribal areas in Odisha.
-
-For more details, see [Press Information Bureau](https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2082749).
+Foreign tourists and researchers must keep to security and administrative guidelines during visits to tribal areas in Odisha and Andaman and Nicobar Islands.
 
 ## Goa
 
 Many opportunistic criminals operate in Goa because of the high number of tourists.
 
-There have been some serious incidents involving British nationals in recent years, including sexual assaults and the murder of a young female traveller.
+There have been some serious incidents involving British nationals in recent years, including sexual assaults.
 
 It is illegal to drink alcohol in public places in Goa. If you drink alcohol outside the limits of a licensed premises, you could be fined or given a prison sentence. You can drink within the limits of a registered beach shack or bar, for example, but not on an open beach or road.
 

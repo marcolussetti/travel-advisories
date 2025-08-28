@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   1 July 2025
+:   28 August 2025
 
 Updated:
-:   30 June 2025
+:   27 August 2025
 
 Latest update:
-:   Updated information about the Ahmedabad plane crash and support available for British nationals ('Warnings and insurance' page).
+:   This travel advice has been reviewed in full with updates including risks from flash flooding and landslides in mountainous areas, large crowds, terrorism, traffic disruptions and information about medication in India (‘Safety and security’, ‘Regional risks’ and ‘Health’ pages).
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -17,37 +17,18 @@ Your travel insurance could be invalidated if you travel against advice from the
 
 FCDO advises against all travel within 10km of the India-Pakistan border. The Wagah-Attari border crossing is closed.
 
-### Jammu and Kashmir
+### Union Terrioty of Jammu and Kashmir
 
-FCDO advises against all travel to the region of Jammu and Kashmir (including Pahalgam, Gulmarg, Sonamarg, the city of Srinagar and the Jammu-Srinagar national highway), except for:
+FCDO advises against all travel to the Union Territory of Jammu and Kashmir (including Pahalgam, Gulmarg, Sonamarg, the city of Srinagar and the Jammu-Srinagar national highway), except for:
 
 * travel by air to and from the city of Jammu
 * travel within the city of Jammu
-* travel within the Union Territory of Ladakh
 
 ### Manipur
 
-FCDO advises against all but essential travel to the state of Manipur including the capital, Imphal. Curfews and restrictions continue in parts of Manipur following violent ethnic clashes that broke out in 2023. Intermittent incidents have continued and escalated in September 2024.
+FCDO advises against all but essential travel to the state of Manipur including the capital, Imphal. Curfews and restrictions continue in parts of Manipur following violent ethnic clashes that broke out in 2023. Intermittent violence continues, including during May to July 2025.
 
 Find out more about [why FCDO advises against travel to these regions](/foreign-travel-advice/india/regional-risks).
-
-## Plane crash in Ahmedabad (Air India AI 171)
-
-Following the plane crash in Ahmedabad on 12 June, the UK is working to provide support to those involved and is coordinating with partners and local authorities in India to establish the facts.
-
-British nationals who require assistance, or have concerns for family or friends should call:
-
-* +91 (11) 2419 2100 (in India)
-* +44 (0) 207 008 5000 (in the UK)
-
-Air India has set up dedicated passenger hotline numbers for those seeking more information, call:
-
-* 1800 5691 444 (in India)
-* +91 8062779200 (from outside India)
-
-## India-Pakistan tensions
-
-Following military exchanges which began on 7 May, the Government of India stated on 10 May that India and Pakistan have agreed to stop military action.  FCDO continues to follow the situation closely. Follow the advice of local authorities.
 
 ## Before you travel
 
