@@ -18,10 +18,6 @@ An [**International Driving Permit**](https://www.citizensinformation.ie/en/trav
 
 Road travel in Kiribati can be dangerous. Roads are often poorly maintained and unlit.
 
-### **Inter-island Travel**
-
-Some restrictions remain on inter-island travel, particularly on COVID-19 free islands where availability of quarantine centres is a factor.
-
 ### **Airports**
 
 There are two international airports in Kiribati - **Bonriki International Airport** located at Bonriki on South Tarawa of the Gilberts Islands Group; and **Cassidy International Airport** located at Cassidy on Kiritimati Island of the Line Islands Group.
