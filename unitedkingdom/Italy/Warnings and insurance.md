@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   7 August 2025
+:   29 August 2025
 
 Updated:
-:   6 August 2025
+:   28 August 2025
 
 Latest update:
-:   Information added about what to do when travelling to Italy with medicines containing internationally controlled drugs ('Health' page).
+:   Updated information about the need to carry personal ID and new information about registering with the police (‘Entry requirements’ and ‘Safety and security’ pages).
 
 This travel advice also covers Vatican City.
 

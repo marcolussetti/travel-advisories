@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   8 August 2025
+:   29 August 2025
 
 Updated:
-:   7 August 2025
+:   28 August 2025
 
 Latest update:
-:   Updated information about vaccine requirements, taxis and buses, and travelling in Lagos ('Entry requirements', 'Safety and security' and 'Regional risks' pages).
+:   New information on exemptions for yellow fever vaccine requirements when entering Nigeria (See ‘Vaccine requirements’ on the ‘Entry requirements’ page)
 
 ![](https://assets.publishing.service.gov.uk/media/6544d305d36c910012935d1f/FCDO__TA__030_-_Nigeria_Travel_Advice_Ed8__WEB_.jpg)
 

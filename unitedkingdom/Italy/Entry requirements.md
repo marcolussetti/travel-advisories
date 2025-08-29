@@ -59,7 +59,7 @@ Read about [passport stamping if you live in Italy](https://www.gov.uk/guidance/
 
 From 12 October 2025, the European Union’s (EU) new Entry/Exit System (EES) will begin. When travelling into and out of the Schengen area, for short stays, you may need to:
 
-* have you fingerprints and your photo taken
+* have your fingerprints and your photo taken
 * answer the Schengen Border Code questions
 
 If you enter the Schengen area through the Port of Dover, Eurotunnel at Folkestone or St Pancras International, this information will be taken at the border, before you leave the UK. You may also need to provide either your fingerprint or photo when you leave the Schengen area.
@@ -76,11 +76,13 @@ The Italian authorities recommend that dual nationals with Italian citizenship e
 
 There are temporary border checks at Italy’s border with Slovenia. Allow extra time for crossing the land border. Be ready to show your passport or residency card if you are asked by the border police.
 
-## Registering with the authorities
+## Registering with the police
 
-You must declare your presence (‘dichiarazione di presenza’) to the local immigration authority (‘questura’) within 8 days of arriving if you’ve come from another Schengen-area country and are not staying in a hotel or bed and breakfast. The ‘questura’ will give you a form to complete.
+Hotels and accommodation providers in Italy have a legal duty to register your passport details with the police. When checking into your accommodation wait until hotel staff have registered your passport details. Do not leave your passport for later collection. If the hotelier takes a photocopy of your passport, ensure it is either returned to you or destroyed.
 
-You can get more information from the [Ministry of Foreign Affairs](https://www.esteri.it/en/servizi-consolari-e-visti/ingressosoggiornoinitalia/condizioni_ingresso/) or [Italian police force](https://www.poliziadistato.it/articolo/10618).
+If you’ve come from another Schengen-area country and you are not staying in a hotel or facility that registers your stay, you must declare your presence (‘dichiarazione di presenza’) to the local immigration authority (‘questura’) within 8 days of arriving. The ‘questura’ will give you a form to complete.
+
+You can get more information from the [Ministry of Foreign Affairs](https://www.esteri.it/en/servizi-consolari-e-visti/ingressosoggiornoinitalia/condizioni_ingresso/) or [Italian police force](https://www.poliziadistato.it/articolo/10618).
 
 ## Travelling with people aged 17 and under
 

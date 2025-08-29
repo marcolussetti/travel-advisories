@@ -38,6 +38,8 @@ To enter Nigeria, you must have a certificate to prove you’ve had a yellow fev
 
 For full details about medical entry requirements and recommended vaccinations, see [TravelHealthPro’s Nigeria guide](http://travelhealthpro.org.uk/country/165/nigeria#Vaccine_recommendations).
 
+Infants aged 8 months or younger and adults aged 61 or older are exempt from this requirement.
+
 ## Health screening
 
 You must fill in an [online Nigeria Health Declaration Form](https://healthapp.ncdc.gov.ng/) when entering Nigeria. This includes transit passengers. On arrival, a paper version is available.

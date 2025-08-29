@@ -1,11 +1,11 @@
 {
     "name": "Nigeria",
-    "update_reason": "Updated information about vaccine requirements, taxis and buses, and travelling in Lagos ('Entry requirements', 'Safety and security' and 'Regional risks' pages).",
+    "update_reason": "New information on exemptions for yellow fever vaccine requirements when entering Nigeria (See \u2018Vaccine requirements\u2019 on the \u2018Entry requirements\u2019 page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Nigeria/Warnings and insurance.md",
-            "update_date": "2025-08-07T13:00:19+01:00"
+            "update_date": "2025-08-28T16:34:19+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Nigeria/Getting help.md"
         }
     ],
-    "update_date": "2025-08-07T13:00:19+01:00"
+    "update_date": "2025-08-28T16:34:19+01:00"
 }

@@ -82,7 +82,7 @@ Do not take drinks from strangers or leave your drinks unattended. Victims of sp
 
 ### Personal ID
 
-You must always be able to show some form of ID. In most cases a copy of the photo page of your passport should be enough, but you may also be asked for a second form of photo ID. The police will normally ask for your full passport if you are stopped while driving.
+Under Italian law, police can stop you at any time to carry out an identity check or your date of entry into the country. Carry photo ID with you at all times. The police will normally ask for your full passport if you are stopped while driving.
 
 ### Illegal drugs
 
