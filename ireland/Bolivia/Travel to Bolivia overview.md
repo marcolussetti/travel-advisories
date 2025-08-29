@@ -4,10 +4,6 @@
 
 High Degree of Caution
 
-### **Travel Alert**
-
-As Bolivia prepares for elections in August 2025, there is a heightened risk of civil unrest, large-scale protests and road blockages. These can happen with little warning and may result in travel disruptions. Citizens are advised to avoid all demonstrations, to monitor the media and to follow the advice of local authorities.
-
 ### **General Travel Advice**
 
 Irish citizens do not require a visa to enter Bolivia.
