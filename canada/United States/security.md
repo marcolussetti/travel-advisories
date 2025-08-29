@@ -44,7 +44,7 @@ Incidences of mass shootings occur, resulting most often in casualties. Although
 
 Familiarize yourself on how to respond to an active shooter situation.
 
-[Active Shooter Event Quick Reference Guide](https://www.cisa.gov/resources-tools/resources/active-shooter-attacks-action-guide) - Cybersecurity and Infrastructure Security Agency
+[Active Shooter Preparedness](https://www.cisa.gov/topics/physical-security/active-shooter-preparedness) – Cybersecurity and Infrastructure Security Agency
 
 #### Home break-ins
 
@@ -112,7 +112,12 @@ If you intend on hiking, backpacking or skiing:
 * ensure that your physical condition is good enough to meet the challenges of your activity
 * ensure that you are properly equipped and well informed about weather and other conditions that may pose a hazard
 * inform a family member or friend of your itinerary, including when you expect to be back to camp
-* know the symptoms of acute altitude sickness, which can be fatal
+* know the symptoms of high-altitude illnesses, which can be fatal
+
+#### Useful links
+
+* [Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
+* [High-altitude illnesses](https://travel.gc.ca/travelling/health-safety/travel-health-information/altitude-illnesses)
 
 ### Air travel
 

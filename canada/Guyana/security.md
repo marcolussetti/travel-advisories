@@ -2,6 +2,18 @@
 
 ## Safety and security
 
+### General elections
+
+General elections are scheduled for September 1, 2025.
+
+Demonstrations could occur before, during, and after the elections. Even peaceful demonstrations can turn violent at any time. Criminals may also use large crowds as a chance to commit crimes like pickpocketing and stealing bags and purses.
+
+If you are in Guyana:
+
+* stay away from demonstrations
+* always be aware of your surroundings
+* follow the instructions of local authorities
+
 ### Border with Venezuela
 
 There are no official border crossings with Venezuela. The security environment is volatile along the border between Guyana and Venezuela due to the ongoing discord over the Guyana Essequibo region and gang-related violence.

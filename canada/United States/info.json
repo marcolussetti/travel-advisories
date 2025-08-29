@@ -1,7 +1,7 @@
 {
     "name": "United States",
-    "update_reason": "Natural disasters and climate \u2013 removed information on the tsunami advisories",
-    "update_date": "2025-07-31T11:57:00",
+    "update_reason": "Editorial change",
+    "update_date": "2025-08-28T10:20:00",
     "sections": {
         "risk": "canada/United States/risk.md",
         "security": "canada/United States/security.md",

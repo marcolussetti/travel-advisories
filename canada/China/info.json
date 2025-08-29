@@ -1,7 +1,7 @@
 {
     "name": "China",
-    "update_reason": "Editorial change",
-    "update_date": "2025-08-27T10:55:00",
+    "update_reason": "The Need help? section was updated.",
+    "update_date": "2025-08-28T11:46:00",
     "sections": {
         "risk": "canada/China/risk.md",
         "security": "canada/China/security.md",

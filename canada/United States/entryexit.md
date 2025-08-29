@@ -66,7 +66,7 @@ Different entry rules may apply when travelling with a temporary passport or an 
 
 Canadians and other foreign nationals visiting the United States for periods longer than 30 days must be registered with the United States Government. Failure to comply with the registration requirement could result in penalties, fines, and misdemeanor prosecution. You should consult the U.S. Citizenship and Immigration Services (USCIS) website to determine if you need to register with USCIS and how to do so. You can verify if you have been automatically registered on entry to the U.S. by looking up your I-94 admission form on the U.S. Customs and Border Protection (CBP) website.
 
-#### Useful Links
+#### Useful links
 
 * [Alien Registration Requirement](https://ca.usembassy.gov/alien-registration-requirement/) – U.S. Embassy & Consulates in Canada
 * [Alien Registration Requirement](https://www.uscis.gov/alienregistration) – U.S. Citizenship and Immigration Services
@@ -180,9 +180,7 @@ There is no set period that you must wait to re-enter the United States after th
 
 Most ports of entry to the United States use facial recognition technology to verify your identity. In addition, digital fingerprints are required for some travellers.
 
-#### Useful links
-
-* [Biometrics](https://www.cbp.gov/travel/biometrics) – U.S. Customs and Border Protection
+[Biometrics](https://www.cbp.gov/travel/biometrics) – U.S. Customs and Border Protection
 
 ### Electronic devices
 

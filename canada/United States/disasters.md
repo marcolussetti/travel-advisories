@@ -57,9 +57,7 @@ Earthquakes pose a risk in the following states:
 
 If you're in an area prone to earthquakes, familiarize yourself with emergency procedures.
 
-#### Useful links
-
-* [Earthquakes](http://www.ready.gov/earthquakes) – Federal Emergency Management
+[Earthquakes](http://www.ready.gov/earthquakes) – Federal Emergency Management
 
 ### Heat and humidity
 
@@ -99,7 +97,7 @@ Tornadoes pose a risk across much of the United States, particularly in central,
 * Monitor local news and weather reports
 * Follow the instructions of local authorities
 
-#### Useful links:
+#### Useful links
 
 * [National tornado information](https://www.ready.gov/tornadoes) – U.S. Department of Homeland Security
 * [U.S. National Weather Service](https://www.weather.gov/)
