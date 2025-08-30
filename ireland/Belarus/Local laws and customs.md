@@ -20,7 +20,7 @@ Belarus has severe penalties for drugs-related crimes. The penalties for drug po
 
 Visitors should avoid taking photographs of any government building, military installations, state institutions and uniformed officials.
 
-### LGBT
+### **LGBT**
 
 Homosexuality is legal under Belarusian law, however there have been reports of the government suppressing LGBT+ organisations. Belarus is a conservative society and there is a degree of intolerance among some sections of the population; be careful about public displays of affection. Caution and discretion are advised at all times.
 

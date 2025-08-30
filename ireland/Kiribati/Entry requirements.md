@@ -12,6 +12,6 @@ Have sufficient funds for self-support.
 
 If you’re travelling to work in Kiribati, you should get a visa in advance by arrangement with your employer. Please visit the [**Ministry of Foreign Affairs and Immigration website**](https://www.mfa.gov.ki/) for further information on visas.
 
-### **Departure tax**
+### **Departure Tax**
 
 You must pay a 20 Australian dollar departure tax at the airport.

@@ -45,13 +45,3 @@ Avoid certain foodstuffs (primarily local dairy produce, forest mushrooms and fr
 ### **Water**
 
 Do not drink village well water as it is usually heavily contaminated with impurities. In cities, first boil, then filter tap water before drinking. We recommend to buy bottled water, which is widely available in shops.
-
-### Embassy of Ireland, Lithuania
-
-Gedimino Prospektas 1   
-Vilnius, LT-01103   
-Lithuania
-
-[Tel: +370 5 2629460](tel:+3705 2629460)
-
-[**Contact us**](/en/lithuania/vilnius/contact/)

@@ -4,6 +4,12 @@
 
 High Degree of Caution
 
+### **Travel Alert**
+
+Travellers to Jamaica should be aware that a general election will take place on 3 September 2025. Owing to the increased risk of social unrest and violence during this time, any protests, demonstrations or large public gatherings should be avoided.
+
+As noted below under “Security Operations”, Jamaican authorities can impose a State of Emergency or other measures, including curfews, with little or no notice.
+
 ### **General Travel Advice**
 
 Irish citizens do not need a visa to enter Jamaica for 90 days or less as tourists. More information is available [**here**](https://www.pica.gov.jm/immigration/entry-visa-requirements).

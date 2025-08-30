@@ -31,7 +31,7 @@ If driving:
 
 ### **E-tolls in Slovenia: Obligation to Pay E-toll at Border with Heavy Fines for Non-compliance**
 
-Slovenia has an e-toll/vignette system for motorway travel with sales points at border crossings. All vehicles under 3.5 tonnes, including cars, must have a vignette to drive on motorways even if only transiting through Slovenia for short distances/periods. Slovenian officials/police closely monitor motorway use and drivers who do not have a vignette will receive an on-the-spot fine of up to €800. You can find [**information about prices and locations of where to buy the vignettes**](http://www.dars.si/Dokumenti/Toll/Methods_of_payment/Vehicles_up_to_35_t/Vignette_308.aspx) on the [**Motorway Company of the Republic of Slovenia (DARS) website.**](http://www.dars.si/Dokumenti/Dokumenti/Toll/Vignette_308.aspx)
+Slovenia has an e-toll/vignette system for motorway travel with sales points at border crossings. All vehicles under 3.5 tonnes, including cars, must have a vignette to drive on motorways even if only transiting through Slovenia for short distances/periods. Slovenian officials/police closely monitor motorway use and drivers who do not have a vignette will receive an on-the-spot fine of up to €800. You can find information about prices and locations of where to buy the vignettes on the [**Motorway Company of the Republic of Slovenia (DARS) website.**](http://www.dars.si/Dokumenti/Dokumenti/Toll/Vignette_308.aspx)
 
 Vehicles over 3.5 tonnes must use the electronic tolling system for heavy vehicles. Under this system, only those vehicles registered with the DarsGo system, equipped with a DarsGo Unit and with valid financial coverage for electronic toll payments will be able to use Slovenian motorways and expressways.
 
