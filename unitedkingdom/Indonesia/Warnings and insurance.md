@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   2 August 2025
+:   30 August 2025
 
 Updated:
-:   1 August 2025
+:   29 August 2025
 
 Latest update:
-:   New information for travellers to fill in a customs declaration form before travel ('Entry requirements' page).
+:   Updated information about protests across Indonesia with a small number becoming violent ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/6745db6083f3d6d843be9719/FCDO__TA__020_-_Indonesia_Travel_Advice_Ed9__WEB_.jpg)
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   14 June 2025
+:   30 August 2025
 
 Updated:
-:   13 June 2025
+:   29 August 2025
 
 Latest update:
-:   Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region ('Safety and security' page).
+:   This travel advice has been reviewed for accuracy, with revisions and the addition of information about Ramadan, lifting of sanctions and the risks from terrorism, including kidnap ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/5f4f3764e90e071c745ff2f9/FCDO__TA__039_-_Syria_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -18,19 +18,15 @@ Your travel insurance could be invalidated if you travel against advice from the
 
 ## FCDO advises against all travel to Syria
 
-FCDO advises against all travel to Syria due to the ongoing conflict and unpredictable security conditions.
-
-If you are a British national in Syria, leave by any practical means.
-
-If you are affected by escalated hostilities in Syria, shelter in place until you can identify safe means to leave. Some curfews may be imposed in affected areas. Follow local advice and exercise caution.
+FCDO advises against all travel to Syria due to the  the ongoing conflict and unpredictable security conditions and threat of terrorist attacks.
 
 ## UK government support
 
-Consular support is not available from the British government from within Syria, as all British Embassy services in Damascus are suspended. The FCDO may become aware of support provided by other organisations which can be shared with British nationals. If you need help, call the FCDO in London on +44 (0)20 7008 5000.
+Consular support is not available from the British government from within Syria. The FCDO may become aware of support provided by other organisations which can be shared with British nationals. If you need help, call the FCDO in London on +44 (0)20 7008 5000.
 
 ## Travel insurance
 
-If you choose to travel against FCDO advice, research your destinations and [get appropriate travel insurance](https://www.gov.uk/guidance/foreign-travel-insurance). Insurance should cover your itinerary, planned activities and expenses in an emergency.
+If you choose to travel against FCDO advice, research your destinations and [get appropriate travel insurance](https://www.gov.uk/guidance/foreign-travel-insurance). Insurance should cover your itinerary, planned activities and expenses in an emergency. Have robust security arrangements and contingency plans in place.
 
 ## About FCDO travel advice
 

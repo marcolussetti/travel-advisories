@@ -1,11 +1,11 @@
 {
     "name": "Marshall Islands",
-    "update_reason": "Earthquake and Tsunami warning - regional update ('Warnings and insurance' page).",
+    "update_reason": "Removal of information on a tsunami alert specific to the Earthquake in the Kamchatka Peninsular Region.",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Marshall Islands/Warnings and insurance.md",
-            "update_date": "2025-07-30T11:53:23+01:00"
+            "update_date": "2025-08-29T12:26:04+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Marshall Islands/Getting help.md"
         }
     ],
-    "update_date": "2025-07-30T11:53:23+01:00"
+    "update_date": "2025-08-29T12:26:04+01:00"
 }

@@ -36,7 +36,7 @@ For details about medical entry requirements and recommended vaccinations, see [
 
 ### Proof of MMR vaccination for children
 
-To enter the Marshall Islands, you must show proof children aged 4 and under have had the measles, mumps and rubella (MMR) vaccine. For details, see the [Ministry of Health and Human Services](https://rmihealth.org/blog2/travel-advisory/160-measles-ta-issuance-4).
+To enter the Marshall Islands, you must show proof children aged 4 and under have had the measles, mumps and rubella (MMR) vaccine. For details, see the [Ministry of Health and Human Services](https://rmihealth.org/news/travel-advisory/travel-advisory-due-to-measles.html).
 
 ## Customs rules
 

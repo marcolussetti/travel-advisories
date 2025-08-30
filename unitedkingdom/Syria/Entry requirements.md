@@ -2,7 +2,7 @@
 
 This information is for people travelling on a full [‘British citizen’ passport](https://www.gov.uk/types-of-british-nationality) from the UK, who choose to travel against FCDO advice. It is based on the UK government’s understanding of the current rules for the most common types of travel.
 
-The relevant authorities in Syria set and enforce entry rules.
+The Syrian government or relevant authorities relevant authorities in Syria set and enforce entry rules.
 
 ## Passport validity requirements
 
@@ -20,9 +20,7 @@ If your passport shows previous travel to Israel, you may be refused entry into 
 
 ## Visa requirements
 
-You must have a visa for the area of Syria you want to travel to.
-
-### Applying for a visa
+You must have a visa to travel to Syria.
 
 If you choose to travel to Syria against FCDO advice, ensure you have the right visa or you may be refused entry. You can apply for a visa, and check the status of your visa application [via this website](https://www.evisa.sy/home-content).
 
@@ -30,11 +28,11 @@ It currently takes approximately 5-7 days for a visa application to be processed
 
 ### Penalties for illegal entry
 
-If you enter Syria illegally, you could get a fine of 5 to 10 million Syrian pounds and a prison sentence of 5 to 10 years.
+If you enter Syria illegally, you could be fined or given a  a prison sentence.
 
 ### Journalists travelling to Syria
 
-Foreign journalists entering Syria should check with the interim Syrian authorities to ensure adherence to relevant regulations and requirements.
+Foreign journalists entering Syria should check with the Syrian authorities to ensure adherence to relevant regulations and requirements.
 
 ## Vaccine requirements
 

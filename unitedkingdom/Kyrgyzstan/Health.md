@@ -7,6 +7,12 @@ Before you travel check that:
 
 This is particularly important if you have a health condition or are pregnant.
 
+## Air quality
+
+Air quality in Bishkek has deteriorated due to pollutants into the air, particularly during the winter months. Try to minimise your exposure to outside air by staying in an air-conditioned indoor place as much as possible, with windows and doors closed and well-sealed.
+
+Regularly damp-dust all indoor surfaces, washing your hands afterwards. Monitor local reports and weather forecasts for the latest information and advice.
+
 ## Emergency medical number
 
 Call 103 and ask for an ambulance.
@@ -40,7 +46,9 @@ You may need to pay cash for medication.
 
 ## Healthcare in Kyrgyzstan
 
-Medical facilities in Kyrgyzstan are not as developed as those in the UK. Make sure you have adequate travel health insurance and accessible funds to cover the cost of any medical treatment abroad and repatriation.
+The quality of medical care in Kyrgyzstan is not as high as the UK. Medical facilities are often badly equipped and unhygienic, with a limited supply of drugs. There is no guarantee that equipment will have been properly sterilised, especially in rural hospitals. Avoid all but basic or essential treatment in the event of an emergency. Make sure you have adequate travel health insurance and accessible funds to cover the cost of any medical treatment abroad and repatriation.
+
+There is no reciprocal healthcare agreement between the UK and Kyrgyzstan.
 
 FCDO has a [list of medical providers in Kyrgyzstan](https://www.gov.uk/government/publications/kyrgyzstan-list-of-medical-facilitiespractitioners) where some staff will speak English.
 

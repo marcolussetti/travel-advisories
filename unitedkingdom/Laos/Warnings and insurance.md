@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   25 August 2025
+:   30 August 2025
 
 Updated:
-:   24 August 2025
+:   29 August 2025
 
 Latest update:
-:   Information on potential impact of Storm Kajiki (Safety and security page) in central and northern Laos on 25-26 August with risks of heavy rainfall and landslides, mudslides and fallen trees, especially along the railway corridor.
+:   Removal of information about Storm Kajiki.
 
 ![](https://assets.publishing.service.gov.uk/media/64391b7a773a8a0013ab2c63/FCDO__TA__088_-_Laos_Travel_Advice_Ed1__WEB_.jpg)
 

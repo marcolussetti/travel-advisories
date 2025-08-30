@@ -4,15 +4,11 @@ The Foreign, Commonwealth & Development Office (FCDO) cannot provide tailored ad
 
 ## Emergency services in Syria
 
-Due to the conflict, there are no effective emergency services in Syria.
+Emergency services may be limited in Syria due to the 14-year conflict that country has gone through.
 
 ### Help abroad in an emergency
 
-Consular support is not available from the British government from within Syria, as all British Embassy services in Damascus are suspended and all diplomatic and consular staff have been withdrawn. The FCDO may become aware of support provided by other organisations which can be shared with British nationals.
-
-The FCDO may become aware of plans by other organisations which can be shared with British nationals we know want to leave. Any travel would be undertaken at your own risk.
-
-If you are a British national in Syria and need help, call the FCDO in London on +44 (0)20 7008 5000.
+Consular support is not available from the British government from within Syria. The FCDO may become aware of support provided by other organisations which can be shared with British nationals. If you need help, call the FCDO in London on +44 (0)20 7008 5000.
 
 [Find out about call charges](https://www.gov.uk/call-charges)
 

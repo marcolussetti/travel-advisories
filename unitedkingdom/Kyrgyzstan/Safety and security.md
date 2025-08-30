@@ -33,27 +33,36 @@ Avoid crowds and demonstrations, check for updates on local media and follow the
 
 ### Protecting yourself and your belongings
 
-Street crime is a risk, including bag-snatching and mugging. Take care if you go out alone, and consider using private cars or pre-arranged taxis at night.
+Street crime is a risk, including bag-snatching and mugging. Take care if you go out alone or use public transport and consider using private cars or pre-arranged taxis at night.
 
 Do not show large amounts of money and be wary of strangers offering help or being over-friendly.
 
 Be careful when using currency exchange offices and visiting the bazaars in Bishkek, particularly Osh Bazaar, where pickpockets target tourists.
 
-### Sexual assault
+Use caution and take measures to reduce your personal risk, such as:
 
-There have been cases of sexual assault and harassment, including on public transport.
+* keep sight of your belongings at all times
+* be aware of thieves using distraction techniques
+* avoid carrying all your valuables together in one place e.g. handbags or pockets
+* exercise a similar level of caution as you would in the UK
 
-### Drink and food spiking
+### Drink spiking and sexual assault
 
-Drink spiking can happen in nightclubs and bars. Do not leave your drink or food unattended. See [TravelAware ‘Stick with your mates’](https://travelaware.campaign.gov.uk/#stick_with_your_mates) for tips and advice.
+Drink spiking is a risk in nightclubs and bars and can lead to sexual assault. Alcohol and drugs can reduce your vigilance, making you less in control.
+
+Buy your own drinks and always keep them in sight to avoid them being spiked. If you drink, know your limit. Avoid splitting up from your friends and do not go off with people you do not know. See [Travel Aware ‘Stick with your mates’](https://travelaware.campaign.gov.uk/#stick_with_your_mates) for tips and advice.
 
 ## Laws and cultural differences
 
 Kyrgyzstan has a secular constitution. Most Kyrgyz people are Muslim. Respect local traditions, customs, laws and religions. Make sure your actions do not offend other cultures or religious beliefs, especially during the holy month of Ramadan or when you visit religious sites.
 
+### Ramadan
+
+Ramadan is a holy month for Muslims. The dates vary by year and country. Cafés and restaurants may amend their menus and be busy around fast-breaking (‘Iftar’). Areas around mosques are also likely to be busy around prayer times. Take particular care not to offend religious sensitivities at this time.
+
 ### Personal ID
 
-You must always carry your passport, or a notarised copy of it. The police can arrest you if you do not carry ID. You can get a copy of your passport notarised in the UK and translated into Kyrgyz or Russian, or use a copy notarised in Kyrgyzstan.
+You must always carry your passport, or a notarised copy of it, with you at all times. The police can arrest you if you do not carry ID. You can be arrested if you fail to do so. You can get a copy of your passport notarised in the UK and translated into Kyrgyz or Russian, or use a copy notarised in Kyrgyzstan.
 
 ### Illegal drugs and prison sentences
 
@@ -61,9 +70,17 @@ It is illegal to possess or use drugs. You could get a lengthy prison sentence i
 
 The police conduct regular drug raids in bars and night clubs. Police will be masked and armed. Stay calm and follow instructions. If you are not carrying and have not taken drugs you are normally asked for identification and then allowed to leave.
 
+### Alcohol laws
+
+It is illegal to sell alcohol to someone aged 18 or under. Drinking in public is prohibited, and violators may face a 1,000 KGS fines or even imprisonment.
+
 ### E-cigarettes
 
 It is illegal to bring e-cigarettes, vaping devices and solutions into Kyrgyzstan or to buy and sell them. Customs officials will confiscate these items; and they could fine or detain you.
+
+### Prohibited material
+
+It is prohibited to bring certain material into Kyrgyzstan. This includes material which promotes war, terrorism, religious hatred or racism and pornographic content.
 
 ### Using cameras and drones in secure areas
 
@@ -84,6 +101,16 @@ Read more [advice for LGBT+ travellers](https://www.gov.uk/lesbian-gay-bisexual-
 ### Power cuts
 
 There are frequent power cuts throughout Kyrgyzstan during the winter.
+
+### Money
+
+The currency in Kyrgyzstan is the Kyrgyz som (KGS), and is usually not available in currency exchanges outside Kyrgyzstan.
+
+ATMs are widely available in main cities and usually distribute Kyrgyz som and US dollars.  You should pay with KGS but USD is a universal currency, and may be accepted in certain situations. ATMs sometimes have a maximum som withdrawal limit. This varies from bank to bank, but is often around 10,000 KGS. ATMs are also usually available in smaller towns, though it may be more difficult to withdraw dollars outside main cities. Credit and debit cards are widely used around the country; VISA is accepted in most places, but MasterCard is sometimes not accepted. Payment by QR code is also common. Travellers’ cheques are not normally accepted.
+
+Bring cash if you plan to travel to rural areas where ATMs may not be available.
+
+US dollars are the most easily exchanged foreign currency. Notes from before 2007 usually are not accepted or subject to additional charge if changing to Kyrgyz som.
 
 ## Outdoor activities and adventure tourism
 
@@ -121,6 +148,12 @@ Drink-driving is a serious offence in Kyrgyzstan. If you are tested and found to
 
 If the police stop you and issue a fine, they should give you a paper copy with instructions on how to pay. You can pay fines through a payment terminal or in a bank. Do not pay cash directly to police officers, although some may have a payment terminal you can use. Some fines may be reduced if you pay quickly. Payment terminals are available on streets and other places such as malls, grocery stores, kiosks and restaurants.
 
+Kyrgyzstan road laws require you:
+
+* to drive on the right
+* to wear seatbelts for drivers and all passengers
+* not to use a mobile phone while driving
+
 ### Driving safety
 
 Many roads are poorly lit and not maintained, with road works or damaged roads often not clearly signposted. Watch out for pedestrians as they often have a low awareness of road safety. Roads outside of Bishkek are often blocked by snow in winter.
@@ -133,7 +166,7 @@ Petrol stations are limited in rural areas and diesel is often unavailable. Make
 
 ### Taxis and buses
 
-Avoid flagging down taxis. Use pre-ordered  taxi services, which are more reputable and have English-speaking dispatchers.
+Avoid flagging down taxis. Use licensed pre-ordered taxi services whenever possible, these are more reputable and have English-speaking dispatchers.
 
 Avoid using local buses and minibuses if possible. They are not always maintained properly and pickpockets operate on them.
 

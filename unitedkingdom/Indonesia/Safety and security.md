@@ -46,9 +46,9 @@ Recent attacks include:
 
 ## Political situation
 
-The political situation in Indonesia is stable. However, elections, presidential inaugurations and external developments, including in the Middle East, can trigger protests or unrest. Nationwide student protests took place in 2019 and 2020, and could recur at any time.
+The political situation in Indonesia is stable. However, elections, internal and external developments, including in the Middle East, can trigger protests or unrest.
 
-Indonesia held national elections on 14 February.
+Most recently, in August 2025, protests have taken place across Jakarta and other major cities with a small number becoming violent.
 
 Avoid all protests, demonstrations and student and political rallies as they can become violent without warning.
 
@@ -98,7 +98,7 @@ Affected drinks have included:
 * spirit-based mixed drinks, such as cocktails
 * counterfeit brand-name bottled alcohol in shops or behind the bar
 
-To protect yourself from methanol poisoning:
+To reduce the risk of methanol poisoning:
 
 * buy alcoholic beverages only from licensed liquor stores, bars, clubs, restaurants and hotels
 * avoid home-made alcoholic drinks

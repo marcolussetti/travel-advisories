@@ -14,15 +14,11 @@ There remains some risk of conflict over recognition of the border with Tajikist
 
 In September 2022, armed conflict between the Kyrgyz and Tajik militaries resulted in over 100 deaths, including civilians. There was significant destruction of civilian property and infrastructure. Around 140,000 civilians were displaced. Unexploded landmines and weapons remain a risk.
 
-## Border with Uzbekistan
-
-There are occasional violent incidents on Kyrgyzstan’s border with Uzbekistan. There is also a risk of landmines in these border areas.
-
 ## Border crossings
 
 Crossing the borders  can be complex, take local advice if you’re planning on crossing.
 
-Check local media reports before you travel to see which border posts are open. Only use officially recognised border crossings. Border crossings can close at short notice, particularly the Tajikistan-Kyrgyzstan border near the Vorukh enclave.
+Check local media reports before you travel to see which border posts are open. Only use officially recognised border crossings. Border crossings can close at short notice.
 
 [Previous
 :

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   23 August 2025
+:   30 August 2025
 
 Updated:
-:   22 August 2025
+:   29 August 2025
 
 Latest update:
-:   Information updated following the addition of Cotopaxi (cantón La Maná) and Bolívar (cantones La Naves y Echeandía) provinces to the state of emergency ('Warnings and insurance' page).
+:   New information on border control checks and regulations and Yellow Fever requirement eliminated for certain countries ('Entry requirements' page).
 
 ![](https://assets.publishing.service.gov.uk/media/65a1082ce96df50014f8452c/FCDO__TA__014_-_Ecuador_Travel_Advice_Ed5__WEB_.jpg)
 

@@ -9,7 +9,7 @@ This is particularly important if you have a health condition or are pregnant.
 
 ## Emergency medical number
 
-Emergency services in Syria have been severely impacted by the conflict and are often unresponsive.
+Emergency services in Syria have been severely impacted due to the 14-year conflict and could be unresponsive.
 
 Contact your insurance company quickly if you’re referred to a medical facility for treatment.
 
@@ -35,7 +35,7 @@ Read [best practice when travelling with medicines on TravelHealthPro](https://t
 
 ## Healthcare in Syria
 
-The quality of healthcare has deteriorated significantly during the conflict. Many hospitals are no longer operating and there are shortages of even the most basic medicines and medical supplies. The destruction of infrastructure means there are regular outbreaks of infectious diseases across the country.
+The quality of healthcare has deteriorated significantly due to conflict. Health facilities have been destroyed or damaged, many hospitals and clinics are no longer operating and there are shortages of even the most basic medicines and medical supplies. There are regular outbreaks of infectious diseases across the country. This is particularly true in rural areas.
 
 ## Travel and mental health
 

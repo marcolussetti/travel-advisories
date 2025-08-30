@@ -252,10 +252,6 @@ Landmines and other unexploded weapons are a hazard in former battlefields. Area
 
 Find out what you can do to [prepare for and respond to extreme weather and natural hazards](https://www.gov.uk/guidance/tropical-cyclones).
 
-Storm Kajiki is approaching central Vietnam, with landfall forecast for around 13.00 on 25 August. Areas including Hue, Thanh Hoa, Ha Noi, Ninh Binh and Danang are forecast to be affected. You should expect high winds and heavy rainfall. There is an increased risk of flooding and mudslides in affected areas in the days after landfall. You should expect travel disruption and follow the advice of local authorities.
-
-For more regular updates, English-news versions of local newspapers are available at [VNexpress](https://e.vnexpress.net/) and [Vietnam News](https://vietnamnews.vn/).
-
 ### Tropical cyclones
 
 Tropical cyclones affect the eastern coastal regions of Vietnam, with a risk of:

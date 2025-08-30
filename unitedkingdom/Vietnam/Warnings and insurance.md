@@ -1,19 +1,21 @@
 # Warnings and insurance
 
 Still current at:
-:   27 August 2025
+:   30 August 2025
 
 Updated:
-:   26 August 2025
+:   29 August 2025
 
 Latest update:
-:   Updated information about visa requirements ('Entry requirements' page).
+:   Updated information about tropical storm season('Warnings and insurance' page).
 
-## Storm Kajiki
+## Tropical storm season
 
-Storm Kajiki is approaching central Vietnam, with landfall forecast for around 13.00 on 25 August. Areas including Hue, Thanh Hoa, Ha Noi, Ninh Binh and Danang are forecast to be affected. You should expect high winds and heavy rainfall. There is an increased risk of flooding and mudslides in affected areas in the days after landfall. You should expect travel disruption and follow the advice of local authorities.
+The tropical storm season runs from May to November. You should follow and monitor local and international weather updates from the [National Centre for Hydro-Meteorological Forecasting](https://nchmf.gov.vn/KttvsiteE/en-US/2/index.html) and [Japan Meteorological Agency](https://www.jma.go.jp/bosai/map.html#5/34.5/137/&elem=root&typhoon=all&contents=typhoon&lang=en) and follow the advice of local authorities.
 
-For more regular updates, English-news versions of local newspapers are available at [VNexpress](https://e.vnexpress.net/) and [Vietnam News](https://vietnamnews.vn/).
+See [Extreme weather and natural disasters](https://www.gov.uk/foreign-travel-advice/vietnam/safety-and-security#extreme-weather-and-natural-disasters).
+
+For more regular updates, English-news versions of local newspapers are available at [VNexpress](https://e.vnexpress.net/) and [Vietnam News](https://vietnamnews.vn/).
 
 ## Before you travel
 

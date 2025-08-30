@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   15 August 2025
+:   30 August 2025
 
 Updated:
-:   14 August 2025
+:   29 August 2025
 
 Latest update:
-:   Updated assessment that terrorists are likely to try to carry out attacks in Kyrgyzstan. Due to increasing regional tensions in the Middle East, Israeli and Jewish linked sites could be targets for terrorists in Kyrgyzstan (‘Safety and security’ page).
+:   This travel advice has been reviewed with minor edits throughout, including medication, crime, drink spiking and sexual assault, prohibited materials, air quality and using and accessing money. There continues to be an assessment that terrorists are likely to try to carry out attacks in Kyrgyzstan. Due to increasing regional tensions in the Middle East, Israeli and Jewish linked sites could be targets for terrorists in Kyrgyzstan ('Entry requirements', 'Safety and security', 'Regional risks' and 'Health' pages).
 
 ## Before you travel
 

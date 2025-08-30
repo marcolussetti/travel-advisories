@@ -47,11 +47,20 @@ To apply in-person, you should get an appointment before visiting the Ministry o
 
 ## Checks at border control
 
-You may be asked your reason for travel and for evidence of a return or onward journey.
+All travellers entering Ecuador must register their entry and exit in the national immigration database. This is a mandatory requirement under Ecuadorean immigration regulations. At border control, you may be asked to:
+
+* provide your reason for travel
+* show proof of a return or onward journey
 
 ### Peru and Colombia land border crossings
 
-If you enter Ecuador via land from Peru or Colombia, you must get an official passport entry stamp showing your arrival date. Sometimes buses do not stop at the border, which can lead to foreign visitors not getting a stamp. You could get fined or asked to leave the country voluntarily. Contact an [immigration office](https://www.ministeriodegobierno.gob.ec/directorio-de-servicios-de-apoyo-migratorio/) as soon as possible.
+If you are entering Ecuador by land from Peru or Colombia, it is essential to use an official immigration checkpoint to receive the required passport entry stamp indicating your arrival date. Some buses may bypass immigration checkpoints, which can result in travellers not receiving the necessary stamp. This can lead to serious immigration issues.
+
+Evading immigration control filters, regardless of the reason, is considered a serious offence. According to official sources:
+
+* it will result in denied entry (‘inadmisión’) on future entry attempts
+* immigration fines are generally not applicable for this type of violation (but they apply for overstaying cases)
+* for official enquiries or direct assistance, contact an  [immigration office](https://servicio.migracion.gob.ec/) (in Spanish) as soon as possible
 
 ### Galapagos Islands
 
@@ -86,12 +95,6 @@ In more complex situations, such as legal disputes, a child will need judicial w
 Children entering Ecuador with someone other than a parent or legal guardian do not need a consent letter.
 
 ## Vaccine requirements
-
-From 12 May, to enter Ecuador you must have a certificate to prove you’ve had:
-
-* a yellow fever vaccination (vaccinated at least 10 days before you travel) if you’re coming from a [country listed as a transmission risk](https://nathnacyfzone.org.uk/factsheet/65/countries-with-risk-of-yellow-fever-transmission) and have been in one of those countries 10 days or more
-
-Those of 60 years old or above are exempt from this requirement when presenting a valid passport on entry to Ecuador. If for health reasons you cannot receive the yellow fever vaccine, you must present a doctor’s certificate indicating this.
 
 For full details about medical entry requirements and recommended vaccinations, see [TravelHealthPro’s Ecuador guide](https://travelhealthpro.org.uk/country/70/ecuador#Vaccine_Recommendations).
 

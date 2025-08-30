@@ -32,7 +32,7 @@ You can also get a visa on arrival (single entry) at many entry points, includin
 * Luang Prabang airport
 * Paske airport
 
-See a full [list of the entry points that accept e-visas and visas on arrival](https://immigration.gov.la/checkpoints/).
+See a full [list of the entry points that accept e-visas and visas on arrival](https://immigration.gov.la/en/checkpoints/category/category/?limit=12&offset=0&category=international-border-checkpoint).
 
 ### Visa extensions
 
