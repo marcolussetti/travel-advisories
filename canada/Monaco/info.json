@@ -1,7 +1,7 @@
 {
     "name": "Monaco",
-    "update_reason": "Editorial change",
-    "update_date": "2025-08-22T15:50:00",
+    "update_reason": "The Need help? section was updated.",
+    "update_date": "2025-08-29T07:25:00",
     "sections": {
         "risk": "canada/Monaco/risk.md",
         "security": "canada/Monaco/security.md",

@@ -4,100 +4,118 @@
 
 Chile is subject to various natural disasters such as:
 
-* earthquakes
 * volcanic eruptions
-* tsunamis
-* torrential rains
-* floods and mudslides
-* forest fires
+* earthquakes and tsunamis
+* torrential rains, floods and mudslides
+* wildfires
+* coastal swells
+* tornadoes
 
 Border crossings can close due to severe weather conditions.
 
 #### Useful links
 
 * [Latest alerts](https://senapred.cl/informate/alertas) – National Service for Prevention and Response to Natural Disasters (SENAPRED) (Spanish only)
-* [Border crossing status](http://www.pasosfronterizos.gov.cl/complejos-fronterizos/) (Spanish only)
+* [Border crossings](http://www.pasosfronterizos.gov.cl/) – Ministry of the Interior (Spanish only)
 
-### Seismic activity
+### Volcanoes
 
-Chile is located in a very active seismic zone.
+There are 500 active volcanoes in Chile. Local authorities closely monitor the following volcanoes:
 
-#### Volcanoes
-
-There are 500 active volcanoes in Chile.
+* Villarica
+* Osorno
+* Llaima
+* Calbuco
+* Grupo Descabezados
 
 Debris from erupting volcanoes can clog rivers and cause them to overflow, resulting in flash floods and landslides. Ash clouds may also cause disruptions to domestic and international flights.
 
-If you are travelling near active volcanoes:
+If you’re travelling near active volcanoes:
 
 * monitor levels of volcanic activity through the local media
 * pay careful attention to all warnings issued
-* follow the advice of local authorities
+* follow the instructions of local authorities
 * be prepared to modify your travel arrangements or even evacuate the area on short notice
 
-[Volcano alerts](https://rnvv.sernageomin.cl/) – National geology and mining service (Spanish only)
+#### Useful links
 
-#### Earthquakes and tsunamis
+* [Volcano alerts](https://rnvv.sernageomin.cl/) – National Geology and Mining Service (Spanish only)
+* [Volcanic eruptions](https://bibliogrd.senapred.gob.cl/bitstream/handle/1671/6385/05_ErupcionVolcanica_Ingles%20SENAPRED%202023.pdf?sequence=5&isAllowed=y) – National Service for Disaster Prevention and Response (SENAPRED)
 
-Earthquakes and tsunamis can occur anywhere throughout Chile.
+### Earthquakes and tsunamis
 
-A tsunami can occur within minutes of a nearby earthquake. However, the risk of tsunami can remain for several hours following the first tremor. If you're staying on the coast, familiarize yourself with the region's evacuation plans in the event of a tsunami warning.
+Chile is located in a very active seismic zone. Earthquakes and tsunamis can occur anywhere throughout the country.
+
+A tsunami can occur within minutes of a nearby earthquake. However, the risk of a tsunami can remain for several hours following the first tremor. If you're staying on the coast, familiarize yourself with the region's evacuation plans in the event of a tsunami warning.
 
 In the event of an earthquake or tsunami:
 
-* monitor local news for to stay informed on the evolving situation
+* monitor local media for the latest information
 * follow the instructions of local authorities, including evacuation orders
 
 #### Useful links
 
-* [Latest earthquakes in Chile](https://www.sismologia.cl/) – National Seismological Centre (Spanish only)
-* [Latest alerts](https://senapred.cl/informate/alertas) – National Service for Disaster Prevention and Response (SENAPRED) (Spanish only)
-* [Latest earthquakes](https://earthquake.usgs.gov/earthquakes/map/) – U.S. Geological Survey
-* [Tsunami warning system](http://tsunami.gov/) – U.S. National Weather Service
+* [Earthquakes](https://bibliogrd.senapred.gob.cl/bitstream/handle/1671/6385/15_Sismo_Ingles%20SENAPRED%202023.pdf?sequence=15&isAllowed=y) – National Service for Disaster Prevention and Response (SENAPRED)
+* [Latest alerts](https://senapred.cl/informate/alertas) – National Service for Disaster Prevention and Response (SENAPRED) (Spanish only)
+* [Latest earthquakes](https://earthquake.usgs.gov/earthquakes/map/?extent=-3.33795,-125.33203&extent=65.07213,-64.6875) – U.S. Geological Survey
+* [Tsunami alerts](https://www.tsunami.gov/%22%20HYPERLINK%20%22https:/www.tsunami.gov/) – U.S. Tsunami Warning System
 
-### Flooding
+### Torrential rains, flooding and mudslides
 
-Flooding is frequent during fall and winter, especially between May and August. It occurs throughout the country, mainly as a result of heavy rains and overloaded sewage systems. Seasonal flooding can hamper overland travel and reduce the provision of essential services. Roads may become impassable and bridges damaged.
+Flooding is frequent during the fall and the winter, especially between May and August. It occurs throughout the country, mainly as a result of heavy rains and overloaded sewage systems. Seasonal flooding can hamper overland travel and reduce the provision of essential services. Roads may become impassable and bridges damaged.
 
-Flooding from rising river levels after heavy rain cause injuries and deaths.
+Flooding from rising river levels after heavy rain can cause injuries and deaths.
 
-Avoid riverside accommodations, especially in central and southern Chile, as dry riverbeds swell rapidly.
+Avoid riverside accommodations, especially in central and southern Chile, because dry riverbeds swell rapidly.
 
-### Coastal swell
+#### Useful links
 
-Dangerous waves caused by large ocean swells occur along the Chilean coast. Large waves carrying rocks and other debris can occur without warning and even when the local weather is clear.
+* [Winter](https://bibliogrd.senapred.gob.cl/bitstream/handle/1671/6385/10_Invierno_ingles%20SENAPRED%202023.pdf?sequence=10&isAllowed=y) – National Service for Disaster Prevention and Response (SENAPRED)
+* [Floods](https://bibliogrd.senapred.gob.cl/bitstream/handle/1671/6385/09_Inundaciones_ingles%20SENAPRED%202023.pdf?sequence=9&isAllowed=y) – National Service for Disaster Prevention and Response (SENAPRED)
+* [Mudflows](https://bibliogrd.senapred.gob.cl/bitstream/handle/1671/6385/01_Aluviones_Ingles%20SENAPRED%202023.pdf?sequence=1&isAllowed=y) – National Service for Disaster Prevention and Response (SENAPRED)
+
+### Coastal swells
+
+Dangerous waves caused by large ocean swells occur along the Chilean coast. Large waves carrying rocks and other debris can occur without warning and even when the weather is clear.
 
 If you plan to travel near the coast:
 
 * monitor local swell reports
 * exercise caution in coastal and rocky areas
-* do not enter the ocean or engage in boating or water activities when swell warnings are in force
+* do not enter the ocean or engage in water activities when swell warnings are in force
 
-[Marine Forecasts](https://meteoarmada.directemar.cl/prontus_meteo/site/edic/base/port/inicio.html) – Chile Navy Weather Service (some information in Spanish only)
+#### Useful links
+
+* [Marine forecasts](https://meteoarmada.directemar.cl/prontus_meteo/site/edic/base/port/inicio.html) – Chilean Navy Weather Service (some information in Spanish only)
+* [Sea surges](https://bibliogrd.senapred.gob.cl/bitstream/handle/1671/6385/12_Marejadas_Ingles%20SENAPRED%202023.pdf?sequence=12&isAllowed=y) – National Service for Disaster Prevention and Response (SENAPRED)
 
 ### Wildfires
 
 Bush and forest fires are common during the summer months, from December to March. They can happen anywhere, but they usually occur between Santiago and Valparaíso, and in Magallanes.
 
-The air quality in areas near active fires may deteriorate due to heavy smoke.
+Heavy smoke may deteriorate the air quality in areas near active fires.
 
 In case of a major fire:
 
 * stay away from affected areas, particularly if you suffer from respiratory ailments
-* follow the advice of local emergency services personnel
-* monitor local media for up-to-date information on the situation
+* monitor local media for the latest information
+* follow the instructions of local authorities, including evacuation orders
 
 #### Useful links
 
-* [Current situation and fire forecast](https://www.conaf.cl/incendios/situacion-actual-y-pronostico-de-incendios/#reporteincendios) – Chilean National Forestry Organization (CONAF) (Spanish only)
-* [Latest alerts](https://senapred.cl/informate/alertas) – National Service for Disaster Prevention and Response (SENAPRED) (Spanish only)
+* [Current situation and fire forecast](https://www.conaf.cl/incendios/situacion-actual-y-pronostico-de-incendios/#reporteincendios) – National Forest Corporation (CONAF) (Spanish only)
+* [Latest alerts](https://senapred.cl/informate/alertas) – National Service for Disaster Prevention and Response (SENAPRED) (Spanish only)
+* [Wildfires](https://bibliogrd.senapred.gob.cl/bitstream/handle/1671/6385/08_IncendiosForestales_Ingles%20SENAPRED%202023.pdf?sequence=8&isAllowed=y) – National Service for Disaster Prevention and Response (SENAPRED)
 
 ### Air pollution
 
-Santiago has one of the highest pollution levels in South America. Heavy smog can pose serious health hazards from May through October.
+Santiago is one of the most polluted cities in South America. Heavy smog can pose serious health hazards from May to October.
 
 The ozone layer is especially thin over parts of Chile.
 
-Take precautions to protect yourself from sunburn.
+Take precautions to protect yourself from sunburn and avoid going outdoors when the pollution levels are high.
 
-[Regional UV index](https://www.indiceuv.cl/) – University of Santiago (Spanish only)
+#### Useful links
+
+* [Regional UV index](https://www.indiceuv.cl/) – University of Santiago (Spanish only)
+* [National Air Quality Information System](https://sinca.mma.gob.cl/) – Ministry of the Environment (Spanish only)

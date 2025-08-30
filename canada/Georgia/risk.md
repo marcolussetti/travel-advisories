@@ -8,7 +8,7 @@
 
 ### Tbilisi - Exercise a high degree of caution
 
-[Exercise a high degree of caution](#levels "Risk Levels") in Tbilisi due to the risk of large-scale demonstrations and clashes between security forces and protestors.
+[Exercise a high degree of caution](#levels "Risk Levels") in Tbilisi due to the risk of demonstrations and clashes between security forces and protestors.
 
 ### The border with Russia, the occupied regions of Abkhazia and South Ossetia and surrounding areas - Avoid all travel
 

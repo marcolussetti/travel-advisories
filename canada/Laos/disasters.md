@@ -6,7 +6,7 @@
 
 On August 26, 2025, remnants of Typhoon Kajiki brought excessive rainfall to northern Laos.
 
-The storm caused caused flooding and disruptions to the following essential services:
+The storm caused flooding and disruptions to the following essential services:
 
 * transportation
 * power distribution
@@ -14,6 +14,8 @@ The storm caused caused flooding and disruptions to the following essential serv
 * telecommunications networks
 * emergency services
 * medical care
+
+Heavy rainfall is expected to continue and could cause further flooding and mudslides.
 
 If you are in the affected area:
 

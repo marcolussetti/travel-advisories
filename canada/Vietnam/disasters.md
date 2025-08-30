@@ -6,7 +6,7 @@
 
 On August 25, 2025, Typhoon Kajiki made landfall in north-central Vietnam. It caused significant damage to buildings and infrastructure.
 
-The storm brought excessive rainfall and violent winds, resulting in of several casualties and displaced persons. Typhoon Kajiki caused severe flooding and there are significant disruptions to the following essential services:
+The storm brought excessive rainfall and violent winds, resulting in several casualties and displaced persons. It caused severe flooding and there are significant disruptions to the following essential services:
 
 * transportation
 * power distribution
@@ -14,6 +14,8 @@ The storm brought excessive rainfall and violent winds, resulting in of several 
 * telecommunications networks
 * emergency services
 * medical care
+
+Heavy rainfall is expected to continue and could cause further flooding and mudslides.
 
 If you are in the affected area:
 

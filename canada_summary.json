@@ -223,8 +223,8 @@
     },
     {
         "destination": "Cambodia",
-        "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-08-22T16:50:40",
+        "risk_level": "Exercise a high degree of caution (with regional advisories)",
+        "last_updated": "2025-08-29T12:30:05",
         "details_url": "https://travel.gc.ca/destinations/cambodia"
     },
     {
@@ -260,7 +260,7 @@
     {
         "destination": "Chile",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-08-26T12:12:18",
+        "last_updated": "2025-08-29T15:21:11",
         "details_url": "https://travel.gc.ca/destinations/chile"
     },
     {
@@ -458,7 +458,7 @@
     {
         "destination": "Georgia",
         "risk_level": "Take normal security precautions (with regional advisories)",
-        "last_updated": "2025-08-22T15:50:01",
+        "last_updated": "2025-08-29T10:30:48",
         "details_url": "https://travel.gc.ca/destinations/georgia"
     },
     {
@@ -572,7 +572,7 @@
     {
         "destination": "Indonesia",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-08-25T10:15:07",
+        "last_updated": "2025-08-29T14:44:58",
         "details_url": "https://travel.gc.ca/destinations/indonesia"
     },
     {
@@ -662,7 +662,7 @@
     {
         "destination": "Laos",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-08-27T13:28:24",
+        "last_updated": "2025-08-29T13:04:04",
         "details_url": "https://travel.gc.ca/destinations/laos"
     },
     {
@@ -806,7 +806,7 @@
     {
         "destination": "Monaco",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2025-08-22T15:50:01",
+        "last_updated": "2025-08-29T07:25:53",
         "details_url": "https://travel.gc.ca/destinations/monaco"
     },
     {
@@ -1232,7 +1232,7 @@
     {
         "destination": "Thailand",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-08-22T16:51:25",
+        "last_updated": "2025-08-29T11:57:09",
         "details_url": "https://travel.gc.ca/destinations/thailand"
     },
     {
@@ -1346,13 +1346,13 @@
     {
         "destination": "Venezuela",
         "risk_level": "Avoid all travel",
-        "last_updated": "2025-08-22T15:50:01",
+        "last_updated": "2025-08-29T14:50:38",
         "details_url": "https://travel.gc.ca/destinations/venezuela"
     },
     {
         "destination": "Vietnam",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-08-28T16:07:49",
+        "last_updated": "2025-08-29T13:08:56",
         "details_url": "https://travel.gc.ca/destinations/vietnam"
     },
     {

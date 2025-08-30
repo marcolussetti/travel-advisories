@@ -8,6 +8,8 @@ We have obtained the information on this page from Chilean authorities. It can, 
 
 Verify this information with the [Foreign Representatives in Canada](https://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng).
 
+Chile has strict entry and exit requirements, especially for dual citizens and children.
+
 ### Passport
 
 Entry requirements vary depending on the type of passport you're travelling with.
@@ -46,15 +48,15 @@ Tourist visa: not required
 
 ### Other entry requirements
 
-The Chilean government requires that visitors to Chile have at least $46 USD per day available to cover their expenses during their trip. Customs officials may ask you to show them proof of sufficient funds to cover your stay.
+The Chilean government requires visitors to have at least $46 USD per day available to cover their expenses during their trip. Customs officials may ask you to show them proof of sufficient funds to cover your stay.
 
-[Temporary stays](https://www.chileatiende.gob.cl/fichas/104218) – Government of Chile (in Spanish only)
+[Temporary stays](https://www.chileatiende.gob.cl/fichas/104218) – Government of Chile (Spanish only)
 
 ### Tourist card
 
 You will receive a tourist card upon arrival. The card is valid for a maximum period of 90 days.
 
-You must retain the card and present it to immigration officers upon departure from the country. Failure to do so may result in delays.
+You must keep the card and present it to immigration officers upon departure from the country. Failure to do so may result in delays.
 
 #### Replacing a tourist card
 
@@ -62,8 +64,8 @@ If your card is lost or stolen, you may obtain a new one online.
 
 Alternatively, you may go, well in advance of departure:
 
-* at a special police unit (Jefatura Nacional de Migración y Policia Internacional) in Santiago
-* at the nearest office of the Police Investigations Service outside of Santiago
+* to a special police unit (Jefatura Nacional de Migración y Policia Internacional) in Santiago
+* to the nearest office of the Police Investigations Service outside Santiago
 
 #### Useful links
 
@@ -74,25 +76,26 @@ Alternatively, you may go, well in advance of departure:
 
 You can request an extension of stay for up to 90 days online. You must do so before your current tourist card’s expiration date. A fee applies.
 
-If you have stayed in Chile for longer than the allowed period, you will have to pay a fine at the Chilean immigration office before you can leave the country.
+If you stay in Chile for longer than the allowed period, you will have to pay a fine at the Chilean immigration office before you can leave the country.
 
 #### Useful links
 
-* [Migrations Chile](https://serviciomigraciones.cl/en/home/) – National Migration Service
-* [Portal for digital processes](https://tramites.extranjeria.gob.cl/) – National Migration Service (Spanish only)
+* [Migrations Chile](https://serviciomigraciones.cl/en/home/) – National Migration Service
+* [Portal for digital processes](https://tramites.extranjeria.gob.cl/) – National Migration Service (Spanish only)
 
 ### Easter Island
 
-Stays on Easter Island (Rapa Nui) are limited to 30 consecutive days for all travellers, including Chileans who reside on the mainland. To board, and upon entry, you will have to:
+Stays on Easter Island (Rapa Nui) are limited to 30 consecutive days for all travellers, including Chileans who reside on the mainland. To board a flight and upon arrival on the island, you will have to show:
 
-* have a round trip ticket
-* have a passport valid for the duration of the stay
-* show proof of reservation of an accommodation authorized by local authorities
-* fill the Rapa Nui Entry Form
+* a round-trip ticket
+* a passport valid for the duration of the stay
+* proof of reservation of an accommodation authorized by local authorities
+
+You’ll also have to complete the Rapa Nui Entry Form.
 
 #### Useful links
 
-* [Requirements to visit Rapa Nui island](https://www.gob.cl/rapanuiprotegida-en/) – Government of Chile
+* [Travelling requirements](https://www.gob.cl/rapanuiprotegida-en/tourist/) – Government of Chile
 * [Rapa Nui Entry Form](https://ingresorapanui.interior.gob.cl/) – Government of Chile
 
 ### Dual citizenship
@@ -105,14 +108,14 @@ Canadian-Chilean dual citizens travelling to Chile on their Canadian passport mu
 
 Chile has strict requirements for the entry and exit of persons under the age of 18, including special documentation. Children travelling with only one parent, with a guardian or alone, are required to carry:
 
-* a notarized, apostilled and translated letter of authorization (from the other parent or from a court)
-* the child’s apostilled birth certificate
+* a notarized, apostilled and translated letter of authorization from the other parent or a court
+* the child’s apostilled long-form birth certificate
 
 For more information on these requirements, contact the nearest Chilean embassy or consulate before travelling to Chile. If you’re already in Chile, contact a local Chilean notary public.
 
 #### Useful links
 
-* [Travelling with children](http://travel.gc.ca/travelling/children)
+* [Children and travel](https://travel.gc.ca/travelling/children)
 * [Entry and exit of minors from the country](https://www.chile.gob.cl/chile/xplica/ingreso-y-salida-de-menores-del-pais) – Minstry of Foreign Affairs (in Spanish only)
 * [Authentication of documents](https://www.international.gc.ca/gac-amc/about-a_propos/services/authentication-authentification/index.aspx?lang=eng)
 

@@ -2,6 +2,19 @@
 
 ## Safety and security
 
+### Demonstrations in Jakarta
+
+Significant demonstrations have been occurring in Jakarta since August 25, 2025. Violent incidents have occurred. Police have responded with tear gas and water cannons to disperse crowds.
+
+If you are in Jakarta:
+
+* stay away from demonstrations
+* expect road closures
+* follow the instructions of local authorities
+* monitor local media for information on ongoing demonstrations
+
+[Demonstrations](#demonstrations)
+
 ### Indonesian Papua
 
 Political tension and regular violent incidents continue to occur in most of Indonesian Papua.

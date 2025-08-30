@@ -4,18 +4,7 @@
 
 ### Political tensions
 
-There are ongoing political tensions in Georgia. Large demonstrations and rallies continue to occur daily and regularly become violent. Security forces have used excessive force to disperse crowds.
-
-You could face heavy fines and detention if you participate in demonstrations.
-
-Mass gatherings have occurred at and around central locations in Tbilisi, including:
-
-* government buildings and institutions
-* major public squares and landmarks
-* political parties’ headquarters
-* universities
-
-Demonstrations are likely to continue
+There are ongoing political tensions in Georgia. Political demonstrations take place regularly, particularly in central Tbilisi and can become violent. Demonstrations and political rallies could intensify ahead of the municipal elections scheduled for October 4, 2025.
 
 [For more information on demonstrations](#demonstrations)
 
@@ -87,9 +76,9 @@ Terrorists may use such occasions to mount attacks.
 
 ### Demonstrations
 
-Planned and unplanned political demonstrations take place regularly in Georgia, especially in Tbilisi during international events and around election periods.
+Political demonstrations take place regularly in Georgia, especially in central Tbilisi and around election periods.
 
-Local authorities may heighten security measures, especially around government buildings. Security forces may also strongly repress demonstrators by using tear gas and water cannons to disperse crowds, resulting in numerous arrests and injuries.
+Local authorities may heighten security measures, especially around government buildings. Security forces may also strongly repress demonstrators and carry out arrests.
 
 Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation.
 

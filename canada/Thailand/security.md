@@ -8,7 +8,7 @@ Tensions have increased along the Thailand-Cambodia border since an exchange of 
 
 Thai and Cambodian authorities reached a ceasefire agreement on July 28, 2025, after five consecutive days of armed conflict along the border, with multiple casualties on both sides. The security environment remains volatile at the border due to a longstanding border dispute in the region.
 
-On July 25, 2025, Thai authorities declared martial law in several districts along the border with Cambodia. When martial law is in effect, local authorities have enhanced powers and may impose security measures such as curfews and other movement restrictions. Martial law is in effect in the following districts of Chanthaburi and Trat provinces:
+Thai authorities have declared martial law in several districts along the border with Cambodia. When martial law is in effect, local authorities have enhanced powers and may impose security measures such as curfews and other movement restrictions. Martial law is in effect in the following districts of Chanthaburi, Trat and Sa Kaeo provinces:
 
 * Chanthaburi:
 
@@ -23,6 +23,10 @@ On July 25, 2025, Thai authorities declared martial law in several districts alo
 * Trat:
 
 + Khao Saming
+
+* Sa Kaeo:
+
++ Ban Nong Chan
 
 Land mines are present in the disputed border regions. Land border crossings between Thailand and Cambodia may be closed or change their hours of operation unexpectedly.
 

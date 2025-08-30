@@ -44,6 +44,8 @@ Business visa: required
 Work visa: required  
 Student visa: required
 
+Venezuelan authorities strictly enforce entry requirements. You must obtain a visa before travelling to Venezuela. Visas are not available upon arrival. Penalties for entering Venezuela without a valid visa are severe, including potentially lengthy detention or imprisonment.
+
 ### Other entry requirements
 
 Customs officials may ask you to show them a return or onward ticket and proof of sufficient funds to cover your stay.

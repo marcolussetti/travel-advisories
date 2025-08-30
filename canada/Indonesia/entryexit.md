@@ -77,25 +77,31 @@ Entry regulations and permission to remain in Indonesian Papua may change at any
 
 #### Love Bali Tourist Levy
 
-Tourists entering Bali are subject to the Love Bali Tourist Levy. This fee will is in addition to the visa fees paid to enter Indonesia.
+Tourists entering Bali are subject to the Love Bali Tourist Levy. This fee is in addition to the visa fees paid to enter Indonesia.
 
-If your are travelling to Bali, you must pay directly through the levy website.
+If you are travelling to Bali, you must pay directly through the levy website.
 
-[Levy for Foreign Tourists](https://lovebali.baliprov.go.id/) – Provincial Government of Bali
+[Levy for Foreign Tourists](https://lovebali.baliprov.go.id/) – Provincial Government of Bali
 
-#### SATUSEHAT Health Pass Form
+#### All Indonesia Declaration Form
 
-To enter Indonesia, you must fill out the SATUSEHAT Health Pass (SSHP) form. This is an electronic health declaration that you must complete before you check in for your flight to Indonesia. Once you have submitted the SSHP form, you’ll receive a barcode. Save or print out a copy of the barcode for Indonesian authorities to scan upon arrival.
+Indonesia has introduced the All Indonesia Declaration Form, which combines customs and health declarations into a single form. The trial phase has begun at Soekarno-Hatta International Airport, Juanda International Airport and Ngurah Rai International Airport, and runs from August 18 to September 30, 2025. The form will become mandatory on October 1, 2025.
 
-[SATUSEHAT Health Pass](https://sshp.kemkes.go.id/) – Ministry of Health of the Republic of Indonesia
+The Health Declaration or SATUSEHAT Health Pass (SSHP) QR codes may still be used to enter Indonesia until they are discontinued on October 1, 2025.
 
-#### Customs declaration form
+You must complete the form before you check in for your flight to Indonesia. Once you have submitted the SSHP form, you’ll receive a barcode. Save or print out a copy of the barcode for Indonesian authorities to scan upon arrival before September 30, 2025.
 
-You must complete an online customs declaration form up to 72 hours before you arrive in Indonesia. You can also fill it out at customs at major airports on arrival.
+Existing QR codes for the Electronic Customs Declaration can be used until they are discontinued on October 1, 2025.
 
-[E-customs declaration](https://ecd.beacukai.go.id/) – Government of Indonesia
+You must complete either the online All Indonesia Declaration Form or both the Electronic Customs Declaration and Health Declaration forms up to 72 hours before you arrive in Indonesia. You can also fill it out at customs at major airports on arrival but you will not be allowed to clear immigration, regardless of the type of visa you have, without completing the form.
 
 Customs officials may ask you to show them a return or onward ticket and proof of sufficient funds to cover your stay.
+
+#### Useful links
+
+* [SATUSEHAT Health Pass](https://sshp.kemkes.go.id/) – Ministry of Health of Indonesia
+* [E-customs declaration](https://ecd.beacukai.go.id/) – Government of Indonesia
+* [All Indonesia Declaration Form](http://allindonesia.imigrasi.go.id/) – Government of Indonesia
 
 ### Children and travel
 

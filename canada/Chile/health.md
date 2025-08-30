@@ -237,11 +237,11 @@ To lower your risk of getting sexually transmissible infections (STIs), HIV, and
 
 ### Medical services and facilities
 
-Health care is good. Service is widely available in Santiago and other major cities, but can be very limited in remote areas.
+Health care in Chile is good, especially at private facilities. Service is widely available in Santiago and other major cities but can be very limited in remote areas.
 
-Treatment at private clinics and hospitals is expensive. Most doctors and smaller hospitals typically require advance payment in cash.
+Treatment at private clinics and hospitals is expensive. Most doctors and smaller hospitals typically require advance payment.
 
-Carry an up-to-date medical report from a Canadian physician for reference if you have a pre-existing health condition.
+If you have a pre-existing health condition, carry an up-to-date medical report from a Canadian physician for reference.
 
 Make sure you get travel insurance that includes coverage for medical evacuation and hospital stays.
 
