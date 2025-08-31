@@ -1,11 +1,11 @@
 {
     "name": "Indonesia",
-    "update_reason": "Updated information about protests across Indonesia with a small number becoming violent ('Safety and security' page).",
+    "update_reason": "Updated information about protests across Indonesia including violent clashes and fatalities.",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Indonesia/Warnings and insurance.md",
-            "update_date": "2025-08-29T14:28:36+01:00"
+            "update_date": "2025-08-30T08:14:45+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Indonesia/Getting help.md"
         }
     ],
-    "update_date": "2025-08-29T14:28:36+01:00"
+    "update_date": "2025-08-30T08:14:45+01:00"
 }

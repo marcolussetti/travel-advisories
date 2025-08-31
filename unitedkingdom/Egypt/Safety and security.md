@@ -1,6 +1,6 @@
 # Safety and security
 
-This guide also has safety advice for [regions of Egypt](/foreign-travel-advice/egypt/regional-risks).
+Approximately one million British people travel to Egypt each year. Most visits are trouble-free. This guide also has safety advice for [regions of Egypt](/foreign-travel-advice/egypt/regional-risks).
 
 ## Terrorism
 

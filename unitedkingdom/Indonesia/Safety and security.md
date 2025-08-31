@@ -48,7 +48,7 @@ Recent attacks include:
 
 The political situation in Indonesia is stable. However, elections, internal and external developments, including in the Middle East, can trigger protests or unrest.
 
-Most recently, in August 2025, protests have taken place across Jakarta and other major cities with a small number becoming violent.
+Most recently, in August 2025, protests have taken place in major cities across Indonesia including violent clashes and fatalities.
 
 Avoid all protests, demonstrations and student and political rallies as they can become violent without warning.
 
