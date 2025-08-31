@@ -4,6 +4,10 @@
 
 High Degree of Caution
 
+### **Latest Travel Alert**
+
+Public demonstrations have been occurring in several regions across Indonesia, including Jakarta and Bali. Tensions have been reported in certain areas including clashes between demonstrators and security forces. Further demonstrations are expected to take place, and have the potential to turn violent. Any Irish citizens in Indonesia should exercise a high degree of caution and closely follow the instructions of the local authorities. Citizens are strongly encouraged to register with the Embassy at the following link: [Citizen Registration - Department of Foreign Affairs and Trade](https://citizensregistration.dfa.ie/).
+
 ### **General Travel Advice**
 
 Irish citizens require a visa to enter Indonesia. Travellers to Indonesia can apply for an electronic Visa on Arrival (VoA) at a cost of IDR 500,000.
