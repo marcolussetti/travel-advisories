@@ -14,7 +14,9 @@ Always carry personal identification, as you may be asked to show it during your
 
 ### **E-Cigarettes/Vapes**
 
-It is illegal to possess, purchase and use e-cigarettes or vapes in Singapore as of 1 February 2018. Individuals caught using e-cigarettes of vapes can face fines of up to SGD$2,000.
+Irish citizens living in, travelling to or transiting Singapore are reminded that **all vaping is illegal in Singapore**. As of 1 September 2025, stricter enforcement arrangements and penalties are in place for anyone possessing, purchasing or using an e-vaporiser. Further information on measures by the Singapore Government is available at the link below:
+
+[Stop Vaping | gov.sg](https://www.gov.sg/stopvaping#27df0b102749340f569a4780a8d4ab3f)
 
 ### **Criminal Offences**
 
