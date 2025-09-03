@@ -8,8 +8,6 @@ Israel, Jerusalem, the West Bank and the Gaza Strip are located in an active sei
 
 Even minor earthquakes can cause significant damage.
 
-[Earthquakes - What to Do?](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx)
-
 ### Sandstorms and dust storms
 
 Sandstorms and dust storms occur in spring and summer in some areas. Sand-laden winds can blow at high speeds for days, creating difficult driving conditions. These storms can also lead to respiratory problems for some individuals.

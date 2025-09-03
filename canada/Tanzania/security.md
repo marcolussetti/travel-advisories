@@ -2,6 +2,21 @@
 
 ## Safety and security
 
+### General election
+
+Ahead of Tanzania’s general election on October 29, 2025, political tensions may increase and there could be demonstrations.
+
+Local authorities may adjust security measures and restrict movement.
+
+Even peaceful gatherings can occasionally lead to disruptions or affect traffic and public transportation.
+
+If you are in Tanzania:
+
+* avoid demonstrations and large gatherings
+* expect an increased presence of security forces
+* monitor local media to stay informed of the latest information
+* follow the instructions of local authorities
+
 ### Border with Mozambique in the Mtwara region
 
 Extremist groups are active in the northern districts of Cabo Delgado, Mozambique. Security incidents have occurred along the border, in the Mtwara Region. Tanzanian military and security forces conduct counterinsurgency operations in the area where access is controlled in several locations and movements in and out are monitored.

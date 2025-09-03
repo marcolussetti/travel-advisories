@@ -30,11 +30,25 @@ If you encounter any debris or fragments:
 * [Registration of Canadians Abroad service](https://travel.gc.ca/travelling/registration)
 * [Canada's response to the situation in the Middle East](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=eng)
 
-### Hostilities in Israel and the Gaza Strip
+### Military operations in the Gaza Strip
 
-The security situation is volatile and unpredictable in Israel and extremely dangerous in the Gaza Strip due to ongoing hostilities.
+On October 7, 2023, terrorists based in the Gaza Strip carried out a large-scale terrorist attack in Israel, resulting in thousands of casualties. Subsequently, Israel launched a military offensive into the Gaza Strip. The operation has resulted in thousands of civilian casualties and led to significant damage to civilian infrastructure, such as hospitals and schools.
 
-Due to infrastructure damage, there could be connectivity problems in the Gaza Strip. If possible, try to register or update your personal information through the [Registration of Canadians Abroad service](https://travel.gc.ca/travelling/registration) to receive the latest information, including about departure options. If you are unable to do so, try to contact Global Affairs Canada's 24/7 [Emergency Watch and Response Centre](https://travel.gc.ca/assistance/emergency-assistance?_ga=2.93069341.168187391.1696947682-2043183889.1686925125).
+Your safety is at high risk throughout the Gaza Strip due to the ongoing military operations.
+
+There are significant shortages and disruptions to essential services disruptions throughout the Gaza Strip, including:
+
+* water and food supply
+* power distribution
+* telecommunications networks
+* emergency services
+* medical care and supplies
+
+Military action in the Gaza Strip could further disrupt key infrastructure and transportation routes and limit the provision of essential services throughout the territory.
+
+Travel in and out of the Gaza Strip is extremely limited, including for humanitarian assistance and evacuations.
+
+Due to infrastructure damage, connectivity in the Gaza Strip may be unstable or unavailable. If possible, try to register or update your personal information through the [Registration of Canadians Abroad service](https://travel.gc.ca/travelling/registration) to receive the latest information, including about departure options. If you are unable to do so, try to contact Global Affairs Canada's 24/7 [Emergency Watch and Response Centre](https://travel.gc.ca/assistance/emergency-assistance?_ga=2.93069341.168187391.1696947682-2043183889.1686925125).
 
 If you're a family member of a Canadian citizen or a permanent resident who is currently in Gaza, the West Bank or Israel and is unable to register through the [Registration of Canadians Abroad service](https://travel.gc.ca/travelling/registration), please contact Global Affairs Canada's 24/7 [Emergency Watch and Response Centre](https://travel.gc.ca/assistance/emergency-assistance?_ga=2.93069341.168187391.1696947682-2043183889.1686925125).
 
