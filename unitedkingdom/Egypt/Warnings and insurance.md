@@ -1,22 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   31 August 2025
+:   3 September 2025
 
 Updated:
-:   31 August 2025
+:   2 September 2025
 
 Latest update:
-:   Updated information on British Embassy Cairo operations
+:   Removal of temporary update on British Embassy Cairo operations ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/670e278f30536cb92748313c/FCDO__TA__015_-_Egypt_Travel_Advice_Ed10__WEB_.jpg)
 
 
 [Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/670e279030536cb92748313d/FCDO__TA__015_-_Egypt_Travel_Advice_Ed10.pdf)
-
-## Update on British Embassy Cairo operations
-
-On Sunday 31 August security barriers outside the British Embassy in Cairo were removed by the Egyptian authorities. The main Embassy building will be closed while the impact of these changes is reviewed. Emergency consular assistance remains available by calling 0020 2 2791 6000. If you have a pre-booked appointment at the Embassy please call 0020 2 2791 6000 in advance for advice on how to access the Embassy compound.
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 

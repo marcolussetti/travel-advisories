@@ -37,7 +37,9 @@ Read [best practice when travelling with medicines on TravelHealthPro](https://t
 
 ## Healthcare in Botswana
 
-Healthcare in Botswana is good in major towns, but medical facilities and communications are limited in rural areas. For serious medical treatment, medical evacuation to the UK or South Africa may be necessary.
+On 26 August 2025 Botswana declared a public health emergency due to shortages of essential medicines and equipment. Some non-urgent surgeries have also been temporarily suspended in public health facilities.
+
+Healthcare in Botswana is usually good in major towns, but medical facilities and communications are limited in rural areas. For serious medical treatment, medical evacuation to the UK or South Africa may be necessary.
 
 Private hospitals will not treat you unless you can pay, and the cost may be high. Public hospitals will only take you as an emergency patient if you have full insurance. For outpatient treatment, you will need to pay up front.
 

@@ -11,7 +11,7 @@ Mozambique is currently experiencing a cholera outbreak in central and northern 
 
 ## Emergency medical number
 
-Call 08911, 21313103 or 21322222 and ask for an ambulance.
+Call 848888 or 823388 and ask for an ambulance.
 
 Contact your insurance company quickly if you’re referred to a medical facility for treatment.
 

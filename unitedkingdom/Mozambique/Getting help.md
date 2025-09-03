@@ -8,11 +8,11 @@ Call 112 (ambulance, fire, police)
 
 If the call does not connect, use the country-based numbers or contact your nearest police station or medical facility.
 
-Ambulance: 08911, 21313103 or 21322222
+Ambulance: 848888 or 823388
 
-Fire: 198 or 82 476 8990
+Fire: 198
 
-Police: 119 or 21325031
+Police: 112
 
 ## Contact your travel provider and insurer
 

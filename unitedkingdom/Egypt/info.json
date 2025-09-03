@@ -1,11 +1,11 @@
 {
     "name": "Egypt",
-    "update_reason": "Updated information on British Embassy Cairo operations",
+    "update_reason": "Removal of temporary update on British Embassy Cairo operations ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Egypt/Warnings and insurance.md",
-            "update_date": "2025-08-31T06:28:47+01:00"
+            "update_date": "2025-09-02T13:06:16+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Egypt/Getting help.md"
         }
     ],
-    "update_date": "2025-08-31T06:28:47+01:00"
+    "update_date": "2025-09-02T13:06:16+01:00"
 }

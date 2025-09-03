@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   29 August 2025
+:   3 September 2025
 
 Updated:
-:   28 August 2025
+:   2 September 2025
 
 Latest update:
-:   New information on exemptions for yellow fever vaccine requirements when entering Nigeria (See ‘Vaccine requirements’ on the ‘Entry requirements’ page)
+:   FCDO now advises against all but essential travel to Kaduna State and to the whole of Kebbi State (‘Warnings and insurance’ and ‘Regional risks’ pages).
 
-![](https://assets.publishing.service.gov.uk/media/6544d305d36c910012935d1f/FCDO__TA__030_-_Nigeria_Travel_Advice_Ed8__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/68b5a5683f3e5483efdba88a/FCDO__TA__030_-_Nigeria_Travel_Advice_map__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/6544d3059e05fd000dbe7cb8/FCDO__TA__030_-_Nigeria_Travel_Advice_Ed8.pdf)
+[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/68b5a568d723ba6f74dba886/FCDO__TA__030_-_Nigeria_Travel_Advice_map.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -35,16 +35,16 @@ FCDO advises against all but essential travel to:
 
 FCDO advises against all travel to:
 
-* Kaduna State
 * Katsina State
 * Zamfara State
 
 FCDO advises against all but essential travel to:
 
+* Kaduna State
 * Kano State
+* Kebbi State
 * Jigawa State
 * Sokoto State
-* within 20km of the border with Niger in Kebbi State
 
 ### North Central Nigeria and the Federal Capital Territory, including Abuja
 

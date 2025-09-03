@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   15 July 2025
+:   3 September 2025
 
 Updated:
-:   14 July 2025
+:   2 September 2025
 
 Latest update:
-:   Information added on the risk from mpox (‘Health’ page).
+:   FCDO now advises against all travel to some areas of Cabo Delgado, Nampula and Niassa Provinces ('Warnings and insurance' and 'Regional risks' pages).
 
-![](https://assets.publishing.service.gov.uk/media/681395d5b0ef2c9850525463/FCDO__TA__028_-_Mozambique_Travel_Advice_Ed10__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/68b6aa1b11b4ded2da19fcfe/FCDO__TA__028_-_Mozambique_Travel_Advice_Ed11__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/681395d511b82a7ac0999eb2/FCDO__TA__028_-_Mozambique_Travel_Advice_Ed10.pdf)
+[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/68b6aa1b11b4ded2da19fcff/FCDO__TA__028_-_Mozambique_Travel_Advice_Ed11.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -20,28 +20,17 @@ Your travel insurance could be invalidated if you travel against advice from the
 
 ### Cabo Delgado Province
 
-FCDO advises against all travel to the following districts in Cabo Delgado Province due to attacks by groups with links to Islamist extremism. The advice covers the districts of:
+FCDO advises against all travel to Cabo Delgado Province, except for Palma town and the area around Pemba and Afungi.
 
-* Chiure
-* Mueda
-* Nangade
-* Palma, except Palma town, where FCDO advises against all but essential travel
-* Mocímboa da Praia
-* Muidumbe
-* Meluco
-* Macomia
-* Quissanga
-* Ibo, including the islands off the coast
-
-FCDO advises against all but essential travel to the rest of Cabo Delgado Province due to attacks by groups with links to Islamist extremism.
+FCDO advises against all but essential travel to Palma town and the area around Pemba and Afungi.
 
 ### Nampula Province
 
-FCDO advises against all but essential travel to the districts of Memba and Eráti in Nampula Province, due to attacks by groups with links to Islamist extremism.
+FCDO advises against all travel to the districts of Memba and Eráti in Nampula Province.
 
 ### Niassa Province
 
-FCDO advises against all but essential travel to the districts of Mecula and Marrupo in Niassa Province, due to attacks by groups with links to Islamist extremism.
+FCDO advises against all travel to the districts of Mecula and Marrupo in Niassa Province.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/mozambique/regional-risks).
 

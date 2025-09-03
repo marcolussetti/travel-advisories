@@ -2,7 +2,7 @@
 
 This information is for people travelling on a full [‘British citizen’ passport](https://www.gov.uk/types-of-british-nationality) from the UK. It is based on the UK government’s understanding of current rules for the most common types of travel.
 
-The authorities in the Democratic Republic of the Congo (DRC) set and enforce entry rules. If you’re not sure how these requirements apply to you, contact the [DRC Embassy in the UK](https://www.ambardc.london/d/).
+The authorities in the Democratic Republic of the Congo (DRC) set and enforce entry rules. If you’re not sure how these requirements apply to you, contact the [DRC Embassy in the UK](https://www.ambardc.london/c/).
 
 ## Passport validity requirements
 
@@ -18,7 +18,7 @@ You must have a visa to visit DRC.
 
 ### Applying for a visa
 
-Apply for a visa through the [DRC Embassy in the UK](https://form.ambardc.london/).
+Apply for a visa through the [DRC Embassy in the UK](https://forms.ambardc.london/visa/).
 
 Allow at least 2 to 3 weeks for application processing.
 

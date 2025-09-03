@@ -12,7 +12,7 @@ UK Counter Terrorism Policing has information and advice on [staying safe abroad
 
 Terrorists are very likely to try to carry out attacks in Mozambique.
 
-The main threat is from IS-Mozambique (IS-M), a terrorist group with links to Daesh (formerly known as Islamic State) that is mainly active in Cabo Delgado Province, and has previously carried out attacks in neighbouring districts of Niassa and Nampula Provinces.
+The main threat is from IS-Mozambique (IS-M), a terrorist group with links to Daesh (formerly known as Islamic State) that is mainly active in Cabo Delgado Province, and has carried out attacks in neighbouring districts of Niassa and Nampula Provinces.
 
 IS-M militants have conducted violent attacks using explosives, machetes and firearms across Cabo Delgado, resulting in hundreds of deaths, including civilians and security personnel. They have also engaged in burning vehicles and homes, robberies, looting and threats. In 2021, dozens of people were killed in a large scale attack in Palma, Cabo Delgado Province. In these incidents, security forces have not been able to reach these areas quickly.
 
@@ -30,7 +30,7 @@ Stay aware of your surroundings, stay up to date with local media reports, and f
 
 ## Terrorist kidnap
 
-Due to the presence of groups with links to Islamist extremism, there is a threat of kidnap in Mozambique. The threat is particularly acute in northern districts of Cabo Delgado Province.
+Due to the presence of groups with links to Islamist extremism, there is a threat of kidnap in Mozambique. The threat is particularly acute in Cabo Delgado Province, as well as neighbouring districts of Niassa and Nampula Provinces.
 
 British nationals are seen as legitimate targets, including tourists, humanitarian aid workers, journalists and business travellers. If you are kidnapped, the reason for your presence is unlikely to protect you or secure your safe release.
 
@@ -53,7 +53,7 @@ To reduce your personal risk:
 
 ## Crime
 
-Street crime, sometimes involving knives and firearms, is common in Maputo and is increasing in other cities and tourist destinations. There are some areas in cities which are more dangerous – seek local advice. Beaches and offshore islands are not policed.
+Street crime is common in Maputo and is increasing in other cities and tourist destinations. This has involved knives and firearms. There are some areas in cities which are more dangerous – seek local advice. Beaches and offshore islands are not policed.
 
 ### Protecting yourself and your belongings
 
@@ -68,13 +68,13 @@ If you want to report a crime, contact the local police to get a police report. 
 
 ### Carjacking
 
-There is a risk of carjacking, particularly in Maputo and Matola but also between Boane and the Eswatini border crossing points of Namaacha and Goba. Keep your car doors locked and windows closed while driving. Be particularly vigilant when you arrive at or leave residential properties after dark. Avoid driving alone at night.
+There is a risk of carjacking. Keep your car doors locked and windows closed while driving. Be particularly vigilant when you arrive at or leave residential properties after dark. Avoid driving alone at night.
 
 Do not pick up strangers or stop to help distressed motorists or pedestrians. Hijackers sometimes use these techniques to trick motorists into stopping their vehicles. If in doubt, drive directly to a police station.
 
-### Police harassment
+### Police harassment and corruption
 
-Some visitors to Mozambique report being victims of police harassment, including robbery and requests for bribes. If a police officer threatens you or asks for a bribe, report this to the British High Commission for awareness.
+Some visitors to Mozambique report being victims of police harassment and intimidation, including robbery and requests for bribes. If a police officer threatens you or asks for a bribe, report this to the British High Commission for awareness.
 
 ### Criminal kidnap
 
@@ -106,7 +106,7 @@ It is illegal to photograph government offices, airports, military establishment
 
 ### LGBT+ travellers
 
-There are no laws against same-sex sexual activity. Attitudes in Maputo tend to be more liberal than in more remote rural or religious areas of the country. Read more [advice for LGBT+ travellers](https://www.gov.uk/lesbian-gay-bisexual-and-transgender-foreign-travel-advice).
+There are no laws against same-sex sexual activity. Attitudes in Maputo tend to be more liberal than in more remote rural areas of the country. Read more [advice for LGBT+ travellers](https://www.gov.uk/lesbian-gay-bisexual-and-transgender-foreign-travel-advice).
 
 ### Money
 
@@ -130,7 +130,7 @@ You are legally required have third-party insurance, which you can buy at most l
 
 You must always carry 2 reflective triangles in your vehicle and wear a reflective vest when repairing, loading or unloading a vehicle. If you cannot produce the 2 triangles and 2 vests, you can get an on-the-spot fine.
 
-Police officers sometimes stop drivers and try to extract bribes. If police are fining you for no clear reason, ask for a written fine you can pay at a police station.
+Police officers frequently stop drivers to check paperwork and sometimes try to extract bribes. If police are fining you for no clear reason, ask for a written fine you can pay at a police station.
 
 Only travel by road outside major cities during daylight. Where possible, keep to major roads and travel in convoy in rural areas. Fuel is available in larger towns only, though some fuel stations may have intermittent supply.
 

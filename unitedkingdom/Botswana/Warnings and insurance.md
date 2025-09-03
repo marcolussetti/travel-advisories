@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   9 April 2025
+:   3 September 2025
 
 Updated:
-:   8 April 2025
+:   2 September 2025
 
 Latest update:
-:   Updated information about malaria (‘Health’ page).
+:   Information added about a Public Health Emergency being announced for Botswana ('Healthcare in Botswana' on ‘Health’ page).
 
 ## Before you travel
 

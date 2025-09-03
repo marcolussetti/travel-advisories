@@ -31,16 +31,16 @@ If in Maiduguri, be aware that if security were to deteriorate any further, it c
 
 FCDO advises against all travel to:
 
-* Kaduna State
 * Katsina State
 * Zamfara State
 
 FCDO advises against all but essential travel to:
 
+* Kaduna State
 * Kano State
+* Kebbi State
 * Jigawa State
 * Sokoto State
-* within 20km of the border with Niger in Kebbi State
 
 Banditry and violent attacks are frequent and there is a high threat of kidnap. Incidents of intercommunal violence occur and trains are vulnerable to attack. If you’re travelling in the north-west against FCDO advice, be extremely cautious and monitor local media.
 

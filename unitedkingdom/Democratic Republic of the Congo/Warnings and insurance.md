@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   9 April 2025
+:   3 September 2025
 
 Updated:
-:   8 April 2025
+:   2 September 2025
 
 Latest update:
-:   FCDO no longer advises against all but essential travel to some areas of Kinshasa. FCDO continues to advise against all travel, or all but essential travel to a number of areas of DRC ('Warnings and insurance', and 'Regional risks' pages).
+:   Updated information about increased security measures in the city of Kinshasa on 2 September 2025 (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/67f58030e3c60873d6c90d72/FCDO__TA__012_-_Democratic_Repbulic_of_the_Congo_Travel_Advice_Ed15__WEB_.jpg)
 
@@ -69,9 +69,7 @@ Support from the UK government is severely limited outside Kinshasa. You should 
 
 ### Kinshasa
 
-On 28 January there were large and violent protests outside multiple embassies in Kinshasa, in response to the fighting in Goma in eastern DRC. Stay alert and avoid any protests. Carry an identification document, limit movements and be cautious if you are travelling at night. Check ahead before travelling to the airport.
-
-Monitor local media as the situation is changing fast.
+There are increased security measures in the city of Kinshasa on 2 September 2025, particularly the area of Gombe. Measures may include vehicle checks and searches. There may be an increased risk of protests.
 
 ## Help and support in DRC
 

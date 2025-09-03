@@ -1,11 +1,11 @@
 {
     "name": "Mozambique",
-    "update_reason": "Information added on the risk from mpox (\u2018Health\u2019 page).",
+    "update_reason": "FCDO now advises against all travel to some areas of Cabo Delgado, Nampula and Niassa Provinces ('Warnings and insurance' and 'Regional risks' pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Mozambique/Warnings and insurance.md",
-            "update_date": "2025-07-14T14:21:39+01:00"
+            "update_date": "2025-09-02T13:15:13+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Mozambique/Getting help.md"
         }
     ],
-    "update_date": "2025-07-14T14:21:39+01:00"
+    "update_date": "2025-09-02T13:15:13+01:00"
 }

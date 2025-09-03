@@ -1,11 +1,11 @@
 {
     "name": "Nigeria",
-    "update_reason": "New information on exemptions for yellow fever vaccine requirements when entering Nigeria (See \u2018Vaccine requirements\u2019 on the \u2018Entry requirements\u2019 page)",
+    "update_reason": "FCDO now advises against all but essential travel to Kaduna State and to the whole of Kebbi State (\u2018Warnings and insurance\u2019  and \u2018Regional risks\u2019 pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Nigeria/Warnings and insurance.md",
-            "update_date": "2025-08-28T16:34:19+01:00"
+            "update_date": "2025-09-02T09:01:02+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Nigeria/Getting help.md"
         }
     ],
-    "update_date": "2025-08-28T16:34:19+01:00"
+    "update_date": "2025-09-02T09:01:02+01:00"
 }

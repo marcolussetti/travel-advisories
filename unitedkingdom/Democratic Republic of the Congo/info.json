@@ -1,11 +1,11 @@
 {
     "name": "Democratic Republic of the Congo",
-    "update_reason": "FCDO no longer advises against all but essential travel to some areas of Kinshasa. FCDO continues to advise against all travel, or all but essential travel to a number of areas of DRC ('Warnings and insurance', and 'Regional risks' pages).",
+    "update_reason": "Updated information about increased security measures in the city of Kinshasa on 2 September 2025 (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Democratic Republic of the Congo/Warnings and insurance.md",
-            "update_date": "2025-04-08T21:01:48+01:00"
+            "update_date": "2025-09-02T14:49:17+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Democratic Republic of the Congo/Getting help.md"
         }
     ],
-    "update_date": "2025-04-08T21:01:48+01:00"
+    "update_date": "2025-09-02T14:49:17+01:00"
 }
