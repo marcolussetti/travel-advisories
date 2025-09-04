@@ -73,7 +73,7 @@ If you intend to stay in private accommodations for a visit lasting more than 30
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 ### Yellow fever
 

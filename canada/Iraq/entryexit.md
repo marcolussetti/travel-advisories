@@ -51,7 +51,7 @@ You can obtain a 30-day visa for Kurdistan upon arrival at both Erbil Internatio
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 ### Yellow fever
 

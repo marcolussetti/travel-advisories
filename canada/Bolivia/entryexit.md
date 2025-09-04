@@ -74,7 +74,7 @@ Bolivia has strict requirements for the entry and exit of persons under the age 
 
 Parents of children travelling alone, with one parent or with another individual are strongly encouraged to contact the nearest Bolivian embassy or consulate before departure to ensure that the latest entry and exit requirements, which may change without notice, are met.
 
-[Travelling with children](http://travel.gc.ca/travelling/children)
+[Children and travel](http://travel.gc.ca/travelling/children)
 
 ### Yellow fever
 

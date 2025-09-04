@@ -155,7 +155,7 @@ Other tests (such as for tuberculosis and leprosy) may be required for individua
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 ### Yellow fever
 

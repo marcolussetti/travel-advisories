@@ -12,7 +12,7 @@ Ensure that your personal belongings, passport and other travel documents are se
 
 Rescue services may not be consistent with international standards.
 
-[Water safety abroad](https://travel.gc.ca/travelling/health-safety/water-safety)
+[Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
 ### Tourist facilities
 

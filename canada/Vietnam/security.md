@@ -233,7 +233,7 @@ Boat accidents have occurred due to the overloading and poor maintenance of some
 * Ensure that your tour operator follows up-to-date safety regulations
 * Don’t board vessels that appear overloaded or unseaworthy
 
-[Water safety abroad](https://travel.gc.ca/travelling/health-safety/water-safety)
+[Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
 ### Piracy
 

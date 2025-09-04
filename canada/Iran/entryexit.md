@@ -67,7 +67,7 @@ Canadians have been denied entry into Iran because their passports bore an Israe
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 ### Yellow fever
 

@@ -75,7 +75,7 @@ Custom officers can subject you to a drug screening test at the point of entry t
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 ### Yellow fever
 

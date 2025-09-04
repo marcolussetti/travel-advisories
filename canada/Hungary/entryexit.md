@@ -64,7 +64,7 @@ Hungarian authorities may deny you entry if you’ve failed to pay a previous fi
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 ### Yellow fever
 

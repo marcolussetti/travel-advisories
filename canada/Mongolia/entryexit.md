@@ -63,7 +63,7 @@ If you travel to Mongolia through Russia, or plan to transit through or travel t
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 ### Yellow fever
 

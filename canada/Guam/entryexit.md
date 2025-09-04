@@ -51,7 +51,7 @@ Confirm entry, exit and visas requirements prior to travelling:
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 ### Yellow fever
 

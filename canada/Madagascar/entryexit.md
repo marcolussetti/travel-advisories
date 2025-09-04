@@ -51,7 +51,7 @@ You can obtain a 30 or 60 day tourist visa upon arrival at the Antananarivo airp
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 ### Yellow fever
 

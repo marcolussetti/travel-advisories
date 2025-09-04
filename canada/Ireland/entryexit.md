@@ -67,7 +67,7 @@ You may be denied entry if you're unable to do so or if custom officials suspect
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 ### Yellow fever
 

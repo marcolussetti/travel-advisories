@@ -58,7 +58,7 @@ To save you time on arrival, you should complete the Mauritius All-in-One Travel
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 ### Yellow fever
 

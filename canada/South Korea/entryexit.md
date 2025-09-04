@@ -67,7 +67,7 @@ You can register for a Q-CODE up to 7 days before arrival.
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 ### Yellow fever
 

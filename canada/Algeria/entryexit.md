@@ -60,7 +60,7 @@ Algerian law considers a person to be a minor until age 19.
 
 Confirm the requirements with the Embassy of Algeria before departing Canada.
 
-[Travelling with children](http://travel.gc.ca/travelling/children)
+[Children and travel](http://travel.gc.ca/travelling/children)
 
 ### Yellow fever
 

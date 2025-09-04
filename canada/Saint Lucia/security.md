@@ -84,7 +84,7 @@ Coastal waters can be dangerous as riptides are common. Beaches are unsupervis
 * Consult residents and tour operators for information on possible hazards and safe swimming areas
 * Don’t dive in unfamiliar waters as hidden rocks or shallow water can cause serious injury or death
 
-[Water safety abroad](https://travel.gc.ca/travelling/health-safety/water-safety)
+[Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
 ### Adventure tourism
 

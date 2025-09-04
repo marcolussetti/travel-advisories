@@ -72,7 +72,7 @@ The country’s customs, laws and regulations adhere closely to Islamic practice
 
 Under Sudanese law, women and their children may encounter difficulties relating to mobility. Local authorities may prohibited them from departing Sudan if the father has not given his consent, regardless of custodial rights accorded to the mother by any Sudanese, Canadian or other courts.
 
-[Travelling with children](http://travel.gc.ca/travelling/children)
+[Children and travel](http://travel.gc.ca/travelling/children)
 
 ### Yellow fever
 

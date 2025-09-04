@@ -94,7 +94,7 @@ To depart El Salvador, a minor resident needs written consent from any parent li
 * an original document (not a photocopy or a scan)
 * notarized by either a Salvadoran notary in El Salvador or a Salvadoran consul abroad
 
-[Travelling with children](http://travel.gc.ca/travelling/children)
+[Children and travel](http://travel.gc.ca/travelling/children)
 
 ### Yellow fever
 

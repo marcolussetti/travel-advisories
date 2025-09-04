@@ -10,14 +10,14 @@ Verify this information with the [Foreign Representatives in Canada](https://ww
 
 ### Schengen area
 
-Croatia is a Schengen area country. Canadian citizens do not need a visa for travel to countries within the Schengen area. However, visa-free travel only applies to stays of up to 90 days in any 180-day period. Stays are cumulative and include visits to any Schengen area country.
+Croatia is in the Schengen area. Canadian citizens do not need a visa for travel to countries within the Schengen area. However, visa-free travel only applies to stays of up to 90 days in any 180-day period. Stays are cumulative and include visits to any Schengen area country.
 
-If you plan to stay in the Schengen area for a longer period of time, you will need a visa. You must contact the high commission or embassy of the country or countries you are travelling to and obtain the appropriate visa(s) prior to travel.
+If you plan to stay in the Schengen area for a longer period of time, you will need a visa. You must contact the high commission or embassy of the country or countries you are travelling to and obtain the appropriate visa(s) prior to travel.
 
-**Useful links**
+#### Useful links
 
 * [Schengen area](https://travel.gc.ca/travelling/schengen-area)
-* [Foreign Representatives in Canada](http://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng&_ga=2.205610515.1873661867.1672757209-393911539.1668111916)
+* [Foreign Representatives in Canada](http://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng)
 
 ### Passport
 
@@ -27,7 +27,7 @@ Before you travel, check with your transportation company about passport require
 
 #### Regular Canadian passport
 
-Your passport must be valid for at least 3 months beyond the date you expect to leave from Croatia.
+Your passport must be valid for at least 3 months beyond the date you expect to leave the Schengen area.
 
 #### Passport for official travel
 
@@ -83,4 +83,4 @@ Learn about [potential entry requirements related to yellow fever](#health) (vac
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).

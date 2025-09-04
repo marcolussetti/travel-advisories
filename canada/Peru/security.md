@@ -223,7 +223,7 @@ Swimming in jungle lakes and rivers can be dangerous due to the presence of para
 
 Seek advice and consult residents and local authorities about conditions before swimming, surfing or participating in other aquatic activities.
 
-[Water safety abroad](https://travel.gc.ca/travelling/health-safety/water-safety)
+[Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
 ### Ayahuasca ceremonies
 

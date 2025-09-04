@@ -52,7 +52,7 @@ Sharks are present in the waters off Vanuatu, particularly around the islands of
 
 Some beaches are located on private property and may not be clearly identified. Do your research to make sure you are not trespassing on private property.
 
-[Water safety abroad](https://travel.gc.ca/travelling/health-safety/water-safety)
+[Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
 ### Adventure activities
 

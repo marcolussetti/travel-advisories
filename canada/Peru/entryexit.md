@@ -86,7 +86,7 @@ Children who have resident status in Peru must have written permission from the 
 
 Children born of Canadian parents in Peru require a Peruvian passport to leave the country for the first time. Contact Peruvian immigration officials for more information.
 
-[Travelling with children](http://travel.gc.ca/travelling/children)
+[Children and travel](http://travel.gc.ca/travelling/children)
 
 ### Yellow fever
 

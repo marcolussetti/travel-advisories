@@ -156,7 +156,7 @@ Rescue services may not be consistent with Canadian standards. Not all beaches h
 * Follow the instructions and warnings of local authorities
 * Check that your travel insurance covers accidents related to recreational activities
 
-[Water safety abroad](https://travel.gc.ca/travelling/health-safety/water-safety)
+[Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
 ### Adventure tourism
 

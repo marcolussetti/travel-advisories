@@ -14,9 +14,9 @@ Penalties for possession, use or trafficking of illegal drugs are severe. Convic
 
 ### 2SLGBTQI+ persons
 
-Burkinabe law criminalizes sexual acts and relationships between people of the same sex.
+Burkinabe law criminalizes sexual acts and relationships between people of the same sex, as well as any behavior "promoting homosexual practices".
 
-Those found guilty are subject to long prison sentences and heavy fines.
+Those found guilty are subject to heavy fines, expulsion from the country or prison sentences of 2 to 5 years.
 
 2SLGBTQI+ persons are regularly victims of discrimination based on their sexual orientation, gender identity, gender expression, or sex characteristics.
 

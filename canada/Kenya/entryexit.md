@@ -101,7 +101,7 @@ Consult with the NGO with whom you are planning to volunteer, as well as with th
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 ### Yellow fever
 

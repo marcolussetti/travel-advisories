@@ -68,7 +68,7 @@ Foreigners have been detained, injured, or killed for entering the country throu
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 ### Yellow fever
 

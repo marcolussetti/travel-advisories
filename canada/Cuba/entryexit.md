@@ -149,7 +149,7 @@ Customs officials will seize these items upon arrival.
 
 ### Children and travel
 
-[Travelling with children](http://travel.gc.ca/travelling/children)
+[Children and travel](http://travel.gc.ca/travelling/children)
 
 ### Yellow fever
 

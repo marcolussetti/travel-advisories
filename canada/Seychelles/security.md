@@ -90,7 +90,7 @@ While on maritime excursions:
 * make sure you have access to a lifejacket at all times
 * do not board a boat that appears overloaded or unseaworthy
 
-[Water safety abroad](https://travel.gc.ca/travelling/health-safety/water-safety)
+[Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
 ### Road safety
 

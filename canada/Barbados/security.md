@@ -74,7 +74,7 @@ Rescue services may not be consistent with international standards. Not all beac
 * Consult residents and tour operators for information on possible hazards and safe swimming areas
 * Monitor weather warnings
 
-[Water safety abroad](https://travel.gc.ca/travelling/health-safety/water-safety)
+[Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
 ### Adventure tourism
 

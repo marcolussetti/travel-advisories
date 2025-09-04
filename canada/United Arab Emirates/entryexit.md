@@ -103,7 +103,7 @@ Children born to a father who holds Emirati citizenship acquire UAE citizenship 
 
 They must enter and leave the country on a UAE passport.
 
-[Travelling with children](http://travel.gc.ca/travelling/children)
+[Children and travel](http://travel.gc.ca/travelling/children)
 
 ### Yellow fever
 

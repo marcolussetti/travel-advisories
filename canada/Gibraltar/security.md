@@ -57,7 +57,7 @@ In the fall and winter months, be cautious when walking along beaches close to t
 * Don’t dive into unknown waters, as hidden rocks or shallow depths can cause serious injury or death
 * Exercise caution and follow the advice of the local authorities
 
-[Water safety abroad](https://travel.gc.ca/travelling/health-safety/water-safety)
+[Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
 ### Wildlife
 

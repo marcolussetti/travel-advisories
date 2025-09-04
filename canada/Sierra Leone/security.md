@@ -219,7 +219,7 @@ Ocean currents along the coast are powerful and dangerous. There are no rescue s
 
 Beaches are generally unsupervised. Several drownings occur every year. Follow the instructions of local authorities.
 
-[Water safety abroad](https://travel.gc.ca/travelling/health-safety/water-safety)
+[Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
 ### 
 

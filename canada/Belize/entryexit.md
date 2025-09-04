@@ -69,7 +69,7 @@ Children traveling alone or with only one parent may have to provide:
 * a notarized consent letter confirming that the child has permission to travel
 * proof of parentage, such as a birth certificate showing the names of the parents
 
-[Travelling with children](http://travel.gc.ca/travelling/children)
+[Children and travel](http://travel.gc.ca/travelling/children)
 
 ### Yellow fever
 

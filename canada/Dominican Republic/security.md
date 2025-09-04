@@ -180,7 +180,7 @@ Lifeguard and rescue services don’t always meet Canadian standards. Many beach
 
 Tidal changes and strong winds can cause dangerous riptides.
 
-[Water safety abroad](https://travel.gc.ca/travelling/health-safety/water-safety)
+[Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
 ### Roads
 

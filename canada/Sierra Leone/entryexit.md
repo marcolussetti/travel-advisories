@@ -59,7 +59,7 @@ You must pay an airport security fee prior to your arrival or departure. Payment
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 ### Yellow fever
 

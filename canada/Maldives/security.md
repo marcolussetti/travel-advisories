@@ -53,7 +53,7 @@ Coastal waters can be dangerous. Riptides are common. Several drownings occur ea
 
 Rescue services may not be consistent with international standards. There have been several diving injuries due to poor equipment and poor compliance to safety standards by local dive operators.
 
-[Water safety abroad](https://travel.gc.ca/travelling/health-safety/water-safety)
+[Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
 ### Road safety
 

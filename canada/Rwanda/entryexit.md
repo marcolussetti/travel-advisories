@@ -67,7 +67,7 @@ The border between Rwanda and Burundi has been closed since January 11, 2024. Th
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 ### Yellow fever
 

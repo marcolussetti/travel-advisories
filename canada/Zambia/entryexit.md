@@ -61,7 +61,7 @@ Foreigners are required to pay a departure tax before leaving Zambia, which is u
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 ### Yellow fever
 

@@ -66,7 +66,7 @@ Between June and November, whales are present in Tonga waters. Tongan law requir
 
 Always follow the instructions and warnings of local authorities.
 
-[Water safety abroad](https://travel.gc.ca/travelling/health-safety/water-safety)
+[Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
 ### Roads
 

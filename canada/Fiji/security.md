@@ -113,7 +113,7 @@ Most beaches are unsupervised and don’t have warning flags to alert of unsafe 
 * Monitor weather conditions and avoid beaches and coastal areas if the weather forecast is poor
 * Follow the instructions of local authorities
 
-[Water safety abroad](https://travel.gc.ca/travelling/health-safety/water-safety)
+[Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
 ### Telecommunications
 

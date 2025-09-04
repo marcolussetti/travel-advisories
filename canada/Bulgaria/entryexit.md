@@ -8,6 +8,17 @@ We have obtained the information on this page from the Bulgarian authorities. It
 
 Verify this information with the [Foreign Representatives in Canada](https://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng).
 
+### Schengen area
+
+Bulgaria is in the Schengen area. Canadian citizens do not need a visa for travel to countries within the Schengen area. However, visa-free travel only applies to stays of up to 90 days in any 180-day period. Stays are cumulative and include visits to any Schengen area country.
+
+If you plan to stay in the Schengen area for a longer period of time, you will need a visa. You must contact the high commission or embassy of the country or countries you are travelling to and obtain the appropriate visa(s) prior to travel.
+
+#### Useful links
+
+* [Schengen area](https://travel.gc.ca/travelling/schengen-area)
+* [Foreign Representatives in Canada](http://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng)
+
 ### Passport
 
 Entry requirements vary depending on the type of passport you're travelling with.
@@ -16,7 +27,7 @@ Before you travel, check with your transportation company about passport require
 
 #### Regular Canadian passport
 
-Your passport must be valid 3 months beyond the date you expect to leave Bulgaria.
+Your passport must be valid 3 months beyond the date you expect to leave the Schengen area.
 
 #### Passport for official travel
 
@@ -48,17 +59,6 @@ Business visa: not required for stays of fewer than 90 days in any 180-day perio
 Student visa: not required for stays of fewer than 90 days in any 180-day period
 
 You must obtain a visa before travelling if you plan to stay in Bulgaria for more than 90 days. Bulgaria doesn’t grant extensions once you’re in the country, except in cases of emergency or marriage to a Bulgarian citizen.
-
-### Schengen area
-
-Bulgaria is a Schengen area country. Canadian citizens do not need a visa for travel to countries within the Schengen area. However, visa-free travel only applies to stays of up to 90 days in any 180-day period. Stays are cumulative and include visits to any Schengen area country.
-
-If you plan to stay in the Schengen area for a longer period of time, you will need a visa. You must contact the high commission or embassy of the country or countries you are travelling to and obtain the appropriate visa(s) prior to travel.
-
-#### Useful links
-
-* [Schengen area](https://travel.gc.ca/travelling/schengen-area)
-* [Foreign Representatives in Canada](http://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng)
 
 ### Other entry requirements
 

@@ -77,7 +77,7 @@ You may be requested to show proof of medical insurance upon entry in Lithuania.
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 ### Yellow fever
 

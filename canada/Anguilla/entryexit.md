@@ -57,7 +57,7 @@ A departure tax is payable at the airport when departing Anguilla by air and at 
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 ### Yellow fever
 

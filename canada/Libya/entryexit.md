@@ -53,7 +53,7 @@ You may be denied entry into Libya if your passport bears an Israeli visa or bor
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 ### Yellow fever
 

@@ -111,7 +111,7 @@ The written authorization must be in Spanish and authenticated by the Honduran a
 
 This is also enforced if the minor has a residential or citizenship tie to Honduras inherited from one of the parents, even if the tie has not been legally registered.
 
-[Travelling with children](http://travel.gc.ca/travelling/children)
+[Children and travel](http://travel.gc.ca/travelling/children)
 
 ### Yellow fever
 

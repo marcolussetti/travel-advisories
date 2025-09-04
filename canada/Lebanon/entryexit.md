@@ -70,7 +70,7 @@ Travel permits from Lebanese authorities and/or UNIFIL may be required to enter 
 
 Children travelling with only one parent may be required to provide an authorization letter from the other parent to exit Lebanon.
 
-[Travelling with children](http://travel.gc.ca/travelling/children)
+[Children and travel](http://travel.gc.ca/travelling/children)
 
 ### Yellow fever
 

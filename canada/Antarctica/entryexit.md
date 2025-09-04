@@ -20,4 +20,4 @@ Should you need to apply for a permit yourself, you must submit your request to 
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).

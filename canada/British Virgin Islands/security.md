@@ -47,7 +47,7 @@ Even peaceful demonstrations can turn violent. They can also lead to disruptions
 
 Coastal waters can be dangerous. Follow the instructions and warnings of local authorities.
 
-[Water safety abroad](https://travel.gc.ca/travelling/health-safety/water-safety)
+[Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
 ### Road safety
 

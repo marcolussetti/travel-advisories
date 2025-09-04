@@ -117,7 +117,7 @@ The water sports rental industry is poorly regulated and reputable operators are
 * Insist on proper training before using the equipment
 * Ensure that beach and aquatic equipment is safe and in good condition
 
-[Water safety abroad](https://travel.gc.ca/travelling/health-safety/water-safety)
+[Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
 ### Boating
 

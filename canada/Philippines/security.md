@@ -193,7 +193,7 @@ Diving schools and rescue services may not adhere to Canadian standards.
 * Use only reputable dive companies
 * Make sure the company offers proper safety equipment
 
-[Water safety abroad](https://travel.gc.ca/travelling/health-safety/water-safety)
+[Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
 ### Road safety
 

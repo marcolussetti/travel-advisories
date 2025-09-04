@@ -248,7 +248,7 @@ Rescue services may not be consistent with international standards. Most beaches
 
 This advice applies to both mainland Ecuador and to the Galápagos Islands.
 
-[Water safety abroad](https://travel.gc.ca/travelling/health-safety/water-safety)
+[Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
 ### Adventure tourism
 

@@ -141,7 +141,7 @@ Women travelling alone may be subject to some forms of harassment and verbal abu
 
 Coastal waters can be dangerous. Follow the instructions and warnings of local authorities.
 
-[Water safety abroad](https://travel.gc.ca/travelling/health-safety/water-safety)
+[Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
 ### Wildlife viewing
 

@@ -152,7 +152,7 @@ Rescue services may not be consistent with international standards.
 * Ensure that rental aquatic equipment is safe and in good condition
 * Ensure you are diving within the limits outlined by your tour company
 
-[Water safety abroad](https://travel.gc.ca/travelling/health-safety/water-safety)
+[Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
 ### Venomous snakes
 

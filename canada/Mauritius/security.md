@@ -84,7 +84,7 @@ Aquatic equipment offered at the beach may not meet international safety standar
 * Ask about the presence of dangerous species
 * Wear swimming shoes to protect yourself from reefs, rocks, corals or sea species
 
-[Water safety abroad](https://travel.gc.ca/travelling/health-safety/water-safety)
+[Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
 ### Public transportation
 

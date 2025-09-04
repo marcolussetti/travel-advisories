@@ -105,7 +105,7 @@ If you are planning to go boating:
 * equip your boat with a VHF marine radio that will generate your position in case of emergency
 * be prepared for emergencies
 
-[Water safety abroad](https://travel.gc.ca/travelling/health-safety/water-safety)
+[Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
 ### Road safety
 

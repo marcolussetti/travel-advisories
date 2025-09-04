@@ -216,7 +216,7 @@ Diving schools and rescue services may not adhere to international standards.
 * Heed flag warnings and don't swim when a red flag is displayed
 * If stung by a jellyfish, seek immediate medical assistance
 
-[Water safety abroad](https://travel.gc.ca/travelling/health-safety/water-safety)
+[Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
 ### Adventure tourism
 

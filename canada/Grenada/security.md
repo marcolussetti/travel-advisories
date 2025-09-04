@@ -40,7 +40,7 @@ If you practice water activities:
 * wear the appropriate safety equipment, such as helmets and life jackets
 * ensure that equipment is available and in good condition
 
-[Water safety abroad](https://travel.gc.ca/travelling/health-safety/water-safety)
+[Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
 ### Hiking
 

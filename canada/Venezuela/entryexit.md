@@ -74,7 +74,7 @@ If you enter Venezuela with an expired Venezuelan passport, authorities may not 
 
 Children born outside Venezuela to Venezuelan parents are assumed to be Venezuelan citizens and must enter and exit the country using a Venezuelan passport.
 
-[Travelling with children](http://travel.gc.ca/travelling/children)
+[Children and travel](http://travel.gc.ca/travelling/children)
 
 ### Yellow fever
 

@@ -259,7 +259,7 @@ Beaches are not usually supervised by lifeguards. Many beaches don’t display w
 * Avoid swimming during Monsoon season
 * Always wear a life jacket if you use a boat or a small embarkation
 
-[Water safety abroad](https://travel.gc.ca/travelling/health-safety/water-safety)
+[Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
 ### Trekking
 

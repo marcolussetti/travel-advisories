@@ -86,7 +86,7 @@ Work permits must be verified by Tanzanian immigration officials within 30 days 
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 ### Yellow fever
 

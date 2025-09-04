@@ -62,7 +62,7 @@ If you plan to stay in Andorra for a long-term stay, make sure you apply for the
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 ### Yellow fever
 

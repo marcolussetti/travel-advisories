@@ -185,7 +185,7 @@ If you’re planning on going boating or taking a boat tour:
 * don't board vessels that appear overloaded or unseaworthy
 * carry a VHF marine radio or GPS transmitter to share your location in case of emergency
 
-[Water safety abroad](https://travel.gc.ca/travelling/health-safety/water-safety)
+[Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
 ### Roads
 

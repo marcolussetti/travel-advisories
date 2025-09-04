@@ -42,7 +42,7 @@ If you undertake adventure sports, such as diving:
 
 In doubt concerning the safety of the installation or equipment, don’t use them.
 
-[Water safety abroad](https://travel.gc.ca/travelling/health-safety/water-safety)
+[Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
 ### Adventure tourism
 

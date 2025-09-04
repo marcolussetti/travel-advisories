@@ -44,7 +44,7 @@ You must register with the gendarmerie, within 24 hours of arrival, if you are v
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 ### Yellow fever
 

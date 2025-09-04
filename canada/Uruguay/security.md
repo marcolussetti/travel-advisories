@@ -94,7 +94,7 @@ Some beaches have lifeguards and warning flags during the summer. However, rescu
 * Consult residents and tour operators for information on possible hazards and safe swimming areas
 * Follow the instructions and warnings of local authorities
 
-[Water safety abroad](https://travel.gc.ca/travelling/health-safety/water-safety)
+[Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
 ### Road safety
 

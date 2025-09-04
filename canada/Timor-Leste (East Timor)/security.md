@@ -105,7 +105,7 @@ If you undertake adventure sports, such as diving:
 
 If in doubt concerning the safety of the facilities or equipment, don’t use them.
 
-[Water safety abroad](https://travel.gc.ca/travelling/health-safety/water-safety)
+[Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
 ### Road safety
 

@@ -54,7 +54,7 @@ Visas are not issued on site. If you plan to stay longer than 90 days in Saint P
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 ### Yellow fever
 

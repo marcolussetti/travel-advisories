@@ -99,7 +99,7 @@ If you plan to navigate the river network:
 * have personal safety devices available for all passengers
 * carry a VHF marine radio to signal your position in case of an emergency
 
-[Water safety abroad](https://travel.gc.ca/travelling/health-safety/water-safety)
+[Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
 ### Telecommunications
 

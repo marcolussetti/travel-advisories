@@ -61,7 +61,7 @@ You could be denied entry into Yemen if your passport bore an Israeli visa, an I
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 ### Yellow fever
 

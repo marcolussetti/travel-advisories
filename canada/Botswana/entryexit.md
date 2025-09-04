@@ -54,7 +54,7 @@ Minors under the age of 18 must present the following documentation to Botswanaâ
 * a valid passport with at least 1 blank page
 * a written consent form from the parent or parents not accompanying the child if travelling unaccompanied or with only one parent
 
-[Travelling with children](http://travel.gc.ca/travelling/children)
+[Children and travel](http://travel.gc.ca/travelling/children)
 
 ### Yellow fever
 

@@ -63,7 +63,7 @@ If you intend to travel to Tibet from Nepal, contact the Chinese embassy in Kath
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 ### Yellow fever
 

@@ -47,7 +47,7 @@ Canadians don’t need a visa to enter Tokelau, but they require a permit issued
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 ### Yellow fever
 

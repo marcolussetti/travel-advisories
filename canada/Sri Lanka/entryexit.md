@@ -71,7 +71,7 @@ An onward or return ticket and proof of sufficient funds to sustain you while yo
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 ### Yellow fever
 

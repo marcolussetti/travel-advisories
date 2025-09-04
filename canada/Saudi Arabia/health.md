@@ -256,6 +256,24 @@ To lower your risk of getting sexually transmissible infections (STIs), HIV, and
 [Sexual health and travel](https://www.canada.ca/en/public-health/services/diseases/sexually-transmitted-infections.html)  
 [HIV and AIDS: Travel health advice](https://www.canada.ca/en/public-health/services/diseases/hiv-aids/travel-health-advice.html)
 
+### Medication
+
+Some prescription medications may not be available in Saudi Arabia.
+
+If you take prescription medications, you’re responsible for determining their legality in Saudi Arabia.
+
+The Saudi Food and Drug Authority (SFDA) strictly regulates controlled drugs containing narcotic drugs and psychotropic substances. If Saudi authorities consider your medication a controlled substance, you must obtain a permit online before entering and/or leaving the country. Failure to do so may result in arrest and prosecution. You can check on the SFDA’s website if your medication is considered controlled in Saudi Arabia.
+
+* Bring enough medication for your stay
+* Always keep your medication in the original container and carry a copy of your prescriptions
+* Pack your medication in your carry-on luggage
+
+#### Useful links
+
+* [Travelling with medication](https://travel.gc.ca/travelling/health-safety/medication?_ga=2.191785258.1604296173.1718630005-1405742948.1680118138)
+* [Drugs List](https://www.sfda.gov.sa/en/drugs-list) – Saudi Food and Drug Authority
+* [Requesting a permit for controlled substances](https://cds.sfda.gov.sa/Account/RegisterIndividualUser) – Saudi Food and Drug Authority
+
 ### Medical services and facilities
 
 Modern medical care is available in large cities, and adequate medical services are available in smaller cities. Immediate cash payment may be required.

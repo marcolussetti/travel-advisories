@@ -74,7 +74,7 @@ Coastal waters can be dangerous. Drownings have occurred, including at Devil’s
 * Keep a safe distance from areas reserved for boating
 * Follow the instructions of local authorities
 
-[Water safety abroad](https://travel.gc.ca/travelling/health-safety/water-safety)
+[Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
 ### Adventure tourism
 

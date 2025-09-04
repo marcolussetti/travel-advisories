@@ -65,7 +65,7 @@ There are no border formalities when crossing Saint Martin from the French side 
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 ### Yellow fever
 

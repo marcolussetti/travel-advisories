@@ -16,7 +16,7 @@ Before you travel, check with your transportation company about passport require
 
 #### Regular Canadian passport
 
-Your passport must be valid for at least three months beyond the date you expect to leave from Bosnia and Herzegovina.
+Your passport must be valid for at least 3 months beyond the date you expect to leave from Bosnia and Herzegovina.
 
 #### Passport for official travel
 
@@ -61,7 +61,7 @@ Children travelling alone must carry a notarized letter of permission from their
 
 For children travelling with only one parent or guardian, authorities may ask for a letter of permission from the parent or guardian not travelling. If the accompanying parent has sole custody, border authorities may require supporting documentation.
 
-[Travelling with children](http://travel.gc.ca/travelling/children)
+[Children and travel](http://travel.gc.ca/travelling/children)
 
 ### Yellow fever
 

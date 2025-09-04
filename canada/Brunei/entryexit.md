@@ -76,7 +76,7 @@ You will not be allowed entry into Brunei if you have HIV/AIDS or any other comm
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 ### Yellow fever
 

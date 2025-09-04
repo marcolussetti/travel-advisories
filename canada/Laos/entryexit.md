@@ -59,7 +59,7 @@ Travellers are required to obtain permission from local authorities prior to tra
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 ### Yellow fever
 

@@ -1,7 +1,7 @@
 {
     "name": "Dominican Republic",
-    "update_reason": "Health \u2013 removed Travel health notice for Oropouche virus",
-    "update_date": "2025-08-25T13:07:00",
+    "update_reason": "Editorial change",
+    "update_date": "2025-09-03T16:47:00",
     "sections": {
         "risk": "canada/Dominican Republic/risk.md",
         "security": "canada/Dominican Republic/security.md",

@@ -80,7 +80,7 @@ The letter must indicate the following:
 * details on the adult in Portugal responsible for them
 * full contact details of the minor’s parents or legal guardian
 
-[Travelling with children](http://travel.gc.ca/travelling/children)
+[Children and travel](http://travel.gc.ca/travelling/children)
 
 ### Yellow fever
 

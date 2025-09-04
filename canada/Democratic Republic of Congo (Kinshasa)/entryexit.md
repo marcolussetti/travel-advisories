@@ -66,7 +66,7 @@ To cross the Congo River from Kinshasa to Brazzaville, you must have an entry vi
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 ### Yellow fever
 

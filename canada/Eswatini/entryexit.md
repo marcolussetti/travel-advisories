@@ -45,7 +45,7 @@ Student visa: not required
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 Consult the [South Africa Travel Advice page](http://travel.gc.ca/destinations/south-africa#entryexit) if you are transiting by road through South Africa with children under the age of 18.
 

@@ -47,7 +47,7 @@ If you reside in Gabon, you must obtain an exit visa a few weeks before departur
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 ### Yellow fever
 

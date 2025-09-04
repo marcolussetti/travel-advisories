@@ -60,7 +60,7 @@ You must be tested for human immunodeficiency virus (HIV) if you are planning to
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 ### Yellow fever
 

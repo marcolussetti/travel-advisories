@@ -57,7 +57,7 @@ You must obtain permission from Maldivian authorities to visit uninhabited islan
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 ### Yellow fever
 

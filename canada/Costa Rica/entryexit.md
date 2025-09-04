@@ -83,7 +83,7 @@ Minors with dual citizenship who are travelling unaccompanied must also have leg
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 ### Yellow fever
 

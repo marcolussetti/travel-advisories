@@ -62,7 +62,7 @@ If you have flu-like symptoms such as fever, muscle aches, lethargy and sore thr
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 ### Yellow fever
 

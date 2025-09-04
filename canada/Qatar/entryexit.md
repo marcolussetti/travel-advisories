@@ -76,7 +76,7 @@ You must obtain a health insurance policy recognised by the Qatari Ministry of P
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 ### Yellow fever
 

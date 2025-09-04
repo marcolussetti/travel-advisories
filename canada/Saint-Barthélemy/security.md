@@ -18,7 +18,7 @@ Rescue services may be limited.
 * Respect the flag warnings as they indicate water conditions and beach safety
 * If you rent equipment or take scuba diving or sailing lessons, ensure your travel insurance covers such activities
 
-[Water safety abroad](https://travel.gc.ca/travelling/health-safety/water-safety)
+[Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
 ### Road safety
 

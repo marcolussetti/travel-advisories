@@ -39,7 +39,7 @@ If you undertake adventure sports, such as diving:
 * choose a well-established and reputable company that has insurance
 * ensure that your travel insurance covers the recreational activities you choose
 
-[Water safety abroad](https://travel.gc.ca/travelling/health-safety/water-safety)
+[Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
 ### Adventure tourism
 

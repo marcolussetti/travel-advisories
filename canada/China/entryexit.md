@@ -112,4 +112,4 @@ If you’re unable to leave the country because of an exit ban, consult a lawyer
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).

@@ -72,7 +72,7 @@ If you remain in Pakistan for more than four weeks, you must show proof of polio
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 ### Yellow fever
 

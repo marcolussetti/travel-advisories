@@ -49,7 +49,7 @@ If you wish to stay in The Gambia for more than 30 consecutive days, you can app
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 ### Yellow fever
 

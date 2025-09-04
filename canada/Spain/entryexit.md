@@ -62,7 +62,7 @@ Customs officials may ask you to show them a return or onward ticket and proof o
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 ### Yellow fever
 

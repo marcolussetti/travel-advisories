@@ -47,7 +47,7 @@ You need a visa to visit those areas under the authority of the Transitional Fed
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 ### Yellow fever
 

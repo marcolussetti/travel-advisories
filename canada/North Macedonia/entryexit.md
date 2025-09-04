@@ -67,7 +67,7 @@ You may face difficulties when re-entering North Macedonia if you fail to do so.
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 ### Yellow fever
 

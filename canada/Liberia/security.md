@@ -84,7 +84,7 @@ Do not use commercial taxis, buses, motorbike taxis, informal taxis or three-whe
 
 Coastal waters can be dangerous. Riptides are common. Follow the instructions and warnings of local authorities.
 
-[Water safety abroad](https://travel.gc.ca/travelling/health-safety/water-safety)
+[Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
 ### Women’s Safety
 

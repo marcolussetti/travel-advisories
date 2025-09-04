@@ -77,7 +77,7 @@ Women are often the target for unwanted attention. They should exercise caution 
 
 Swimming conditions may be unsafe. Follow the advice and warnings of local authorities.
 
-[Water safety abroad](https://travel.gc.ca/travelling/health-safety/water-safety)
+[Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
 ### Tourist facilities
 

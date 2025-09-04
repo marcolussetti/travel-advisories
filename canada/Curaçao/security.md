@@ -42,7 +42,7 @@ If you are planning to take part in water sports such as scuba diving, jet skiin
 * avoid participating in any water activities when you are under the influence of alcohol or other substances
 * check that your travel insurance covers accidents related to recreational activities
 
-[Water safety abroad](https://travel.gc.ca/travelling/health-safety/water-safety)
+[Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
 ### Wildlife viewing
 

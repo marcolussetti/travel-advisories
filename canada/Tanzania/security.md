@@ -298,7 +298,7 @@ If you plan to participate in boating activities, such as snorkelling or diving:
 * consult residents and tour operators for information on possible hazards, the presence of dangerous species and safe swimming areas
 * don’t board boats that appear unseaworthy
 
-[Water safety abroad](https://travel.gc.ca/travelling/health-safety/water-safety)
+[Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
 ### Power outages
 

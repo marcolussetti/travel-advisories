@@ -57,7 +57,7 @@ It is illegal to use the services of independent boaters to cross into Suriname.
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 ### Yellow fever
 

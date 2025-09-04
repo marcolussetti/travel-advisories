@@ -51,7 +51,7 @@ You may also get a student visa while you are in Uruguay, but must get proof of 
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 ### Yellow fever
 

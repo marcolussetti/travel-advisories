@@ -118,7 +118,7 @@ If you are planning to take part in water sports such as scuba diving, jetskiing
 * check that your travel insurance covers accidents related to recreational activities
 * follow the instructions and warnings of local authorities
 
-[Water safety abroad](https://travel.gc.ca/travelling/health-safety/water-safety)
+[Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
 ### Hiking
 

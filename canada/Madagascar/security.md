@@ -87,7 +87,7 @@ Sharks are present, particularly in the Tamatave and Manakara areas.
 
 Follow the instructions and warnings of local authorities.
 
-[Water safety abroad](https://travel.gc.ca/travelling/health-safety/water-safety)
+[Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
 ### Women safety
 

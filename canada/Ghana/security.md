@@ -217,7 +217,7 @@ Coastal waters can be dangerous. Riptides are common. Several drownings occur ea
 
 Follow the instructions and warnings of local authorities.
 
-[Water safety abroad](https://travel.gc.ca/travelling/health-safety/water-safety)
+[Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
 ### Women’s safety
 

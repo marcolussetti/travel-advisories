@@ -256,7 +256,7 @@ If you are planning to travel to remote areas:
 
 Coastal waters can be dangerous, even for experienced swimmers. Riptides are common. Several drownings occur each year. Beaches are generally unsupervised. There is no warning system to alert of unsafe conditions.
 
-[Water safety abroad](https://travel.gc.ca/travelling/health-safety/water-safety)
+[Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
 ### Public transportation
 

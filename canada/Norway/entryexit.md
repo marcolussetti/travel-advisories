@@ -83,7 +83,7 @@ Student visa: not required for stays up to 90 days in any 180-day period
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 ### Yellow fever
 

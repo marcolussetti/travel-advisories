@@ -214,7 +214,7 @@ Coastal waters have unpredictable wave and currents patterns, which can be dange
 * Follow the advice and warnings of local authorities
 * Be cautious when swimming in lakes and rivers because of the risk posed by wildlife
 
-[Water safety abroad](https://travel.gc.ca/travelling/health-safety/water-safety)
+[Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
 ### Telecommunications
 

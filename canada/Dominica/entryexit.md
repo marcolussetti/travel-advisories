@@ -53,7 +53,7 @@ You must pay a departure tax of 86 East Caribbean Dollars when leaving Dominica 
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 ### Yellow fever
 

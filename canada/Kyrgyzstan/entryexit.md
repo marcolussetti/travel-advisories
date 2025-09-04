@@ -60,7 +60,7 @@ You must obtain a special permission from Chinese authorities if you are travell
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 ### Yellow fever
 

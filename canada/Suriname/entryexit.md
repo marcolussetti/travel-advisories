@@ -76,7 +76,7 @@ Minors under the age of 18 travelling without a parent or legal guardian must ha
 * a photocopy of one of the parent or legal guardian’s passports
 * an evidence of parental responsibility or legal custody
 
-[Travelling with children](http://travel.gc.ca/travelling/children)
+[Children and travel](http://travel.gc.ca/travelling/children)
 
 ### Yellow fever
 

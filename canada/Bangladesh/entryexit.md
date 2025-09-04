@@ -68,7 +68,7 @@ If you entered Bangladesh with this stamp, make sure it’s transferred to any n
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 ### Yellow fever
 

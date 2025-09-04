@@ -77,7 +77,7 @@ Ukrainian authorities will refuse entry to foreigners who attempt to enter Ukrai
 
 ### Children and travel
 
-[Travelling with children](http://travel.gc.ca/travelling/children)
+[Children and travel](http://travel.gc.ca/travelling/children)
 
 ### Yellow fever
 

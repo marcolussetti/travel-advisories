@@ -79,7 +79,7 @@ You are required to have the equivalent of US$500 or a credit card when entering
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 ### Yellow fever
 

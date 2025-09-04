@@ -69,7 +69,7 @@ Land border crossings with Benin, Niger, Chad and Cameroon may close on short no
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 ### Yellow fever
 

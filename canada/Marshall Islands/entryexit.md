@@ -57,7 +57,7 @@ A test for human immunodeficiency virus (HIV) is required to stay longer than 30
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 ### Yellow fever
 

@@ -63,7 +63,7 @@ Entry to Kosovo from Serbia is subject to delays or may be prohibited entirely. 
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 ### Yellow fever
 

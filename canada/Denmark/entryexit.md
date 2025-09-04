@@ -65,7 +65,7 @@ You must also show proof of sufficient funds for your stay, between 350-500DKK p
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 ### Yellow fever
 

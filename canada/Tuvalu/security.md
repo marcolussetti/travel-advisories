@@ -16,7 +16,7 @@ The outer coasts of Tuvalu’s atolls can be dangerous due to very strong curren
 * Ensure that you’re properly equipped
 * Ensure that you’re well informed about weather and other conditions that may pose a hazard
 
-[Water safety abroad](https://travel.gc.ca/travelling/health-safety/water-safety)
+[Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
 ### Tourist facilities
 

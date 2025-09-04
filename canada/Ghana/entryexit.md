@@ -55,7 +55,7 @@ If you reside in Ghana, you must register with the National Identification Autho
 
 ### Children and travel
 
-Learn more about [travelling with children](http://travel.gc.ca/travelling/children).
+Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
 ### Yellow fever
 
