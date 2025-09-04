@@ -1,11 +1,11 @@
 {
     "name": "Mexico",
-    "update_reason": "Removal of information about travel disruption at Benito Juarez International Airport (AICM) in Mexico City.",
+    "update_reason": "Weather Warning for Baja California Sur, Sonora and Sinaloa (\"Warnings and Insurance\")",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Mexico/Warnings and insurance.md",
-            "update_date": "2025-08-19T10:50:26+01:00"
+            "update_date": "2025-09-03T19:31:13+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Mexico/Getting help.md"
         }
     ],
-    "update_date": "2025-08-19T10:50:26+01:00"
+    "update_date": "2025-09-03T19:31:13+01:00"
 }

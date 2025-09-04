@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   3 September 2025
+:   4 September 2025
 
 Updated:
-:   2 September 2025
+:   3 September 2025
 
 Latest update:
-:   Updated information about increased security measures in the city of Kinshasa on 2 September 2025 (‘Warnings and insurance’ page).
+:   Removal of information about increased security measures in the city of Kinshasa on 2 September (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/67f58030e3c60873d6c90d72/FCDO__TA__012_-_Democratic_Repbulic_of_the_Congo_Travel_Advice_Ed15__WEB_.jpg)
 
@@ -66,10 +66,6 @@ The border crossings between Rwanda and the DRC at Gisenyi-Goma and Ruzizi-Bukav
 Goma and Bukavu airports have been attacked and commercial flights are no longer operating from the airports.
 
 Support from the UK government is severely limited outside Kinshasa. You should not assume that FCDO will be able to provide assistance to leave the country in the event of serious unrest or crisis.
-
-### Kinshasa
-
-There are increased security measures in the city of Kinshasa on 2 September 2025, particularly the area of Gombe. Measures may include vehicle checks and searches. There may be an increased risk of protests.
 
 ## Help and support in DRC
 

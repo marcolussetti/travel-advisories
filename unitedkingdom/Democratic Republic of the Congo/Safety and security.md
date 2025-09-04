@@ -20,11 +20,11 @@ Attacks could be indiscriminate including in places visited by foreign nationals
 
 ### Protests and demonstrations
 
-On 28 January 2025, there were large and violent protests outside multiple embassies in Kinshasa, in response to the fighting in eastern DRC.
-
-Due to ongoing and sporadic protests, which can involve gun fire, there is an increased security presence. Police checkpoints have been introduced in locations around Kinshasa.
-
 A range of military and peacekeeping forces are deployed in eastern DRC. Tensions about the presence of these forces and the role of international actors can cause protests in Goma and Kinshasa. There have been large protests against the UN peacekeeping mission known as the United Nations Organization Stabilization Mission (MONUSCO). In February 2024 there were protests outside the British Embassy and other western embassies. Similar protests cannot be ruled out in future. These could be directed at foreign nationals or target UN vehicles and premises.
+
+On 28 January 2025, there were large and violent protests outside multiple embassies in Kinshasa, in response to the fighting in eastern DRC. This resulted in an increased security presence and there is an ongoing risk of sporadic protests, which can involve gun fire.
+
+On 2 September 2025, there were increased security measures which included vehicle checks and searches in the city of Kinshasa, particularly the area of Gombe.
 
 Public gatherings and demonstrations can occur with little or no notice and can quickly turn violent.
 

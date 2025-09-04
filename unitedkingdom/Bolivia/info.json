@@ -1,11 +1,11 @@
 {
     "name": "Bolivia",
-    "update_reason": "Removal of information about the general elections.",
+    "update_reason": "Information that La Paz will observe Pedestrian Day on Sunday 7 September, meaning that no public or private vehicles will be allowed on the roads until 5pm on that day ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Bolivia/Warnings and insurance.md",
-            "update_date": "2025-08-18T16:40:42+01:00"
+            "update_date": "2025-09-03T10:31:37+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Bolivia/Getting help.md"
         }
     ],
-    "update_date": "2025-08-18T16:40:42+01:00"
+    "update_date": "2025-09-03T10:31:37+01:00"
 }

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   19 August 2025
+:   4 September 2025
 
 Updated:
-:   18 August 2025
+:   3 September 2025
 
 Latest update:
-:   Removal of information about the general elections.
+:   Information that La Paz will observe Pedestrian Day on Sunday 7 September, meaning that no public or private vehicles will be allowed on the roads until 5pm on that day ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/672ccc5a62831268b0b1a328/FCDO__TA__098_-_Bolivia_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -21,6 +21,10 @@ Your travel insurance could be invalidated if you travel against advice from the
 FCDO advises against all but essential travel to the Chapare region of Cochabamba Department including Villa Tunari and highway routes 4 and 24 that pass through Chapare.
 
 Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/bolivia/safety-and-security).
+
+## Pedestrian Day
+
+On Sunday 7 September, La Paz will observe Pedestrian Day. No public or private vehicles will be allowed on the roads until 5pm. However, the cable car system will remain operational, and select taxis with special permits will be allowed to travel to and from the airport.
 
 ## Before you travel
 
