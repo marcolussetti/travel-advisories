@@ -8,7 +8,7 @@ We have obtained the information on this page from the Danish authorities. It ca
 
 Verify this information with the [Foreign Representatives in Canada](https://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng).
 
-Greenland is an autonomous territory the Kingdom of Denmark but not a part of the European Union nor the Schengen area. Greenland has its own entry and exit requirements.
+Greenland is an autonomous territory of the Kingdom of Denmark but not a part of the European Union nor the Schengen area. Greenland has its own entry and exit requirements.
 
 ### Passport
 
@@ -18,7 +18,7 @@ Before you travel, check with your transportation company about passport require
 
 #### Regular Canadian passport
 
-Your passport must be valid for at least 3 months beyond the date you expect to leave from Greenland.
+Your passport must be valid for at least 3 months beyond the date you expect to leave Greenland.
 
 #### Passport for official travel
 

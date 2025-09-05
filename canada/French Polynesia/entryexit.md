@@ -2,7 +2,7 @@
 
 ## Entry and exit requirements
 
-French Polynesia is a French overseas collectivity. However, it’s not part of the Schengen Area.
+French Polynesia is a French overseas collectivity. However, it’s not part of the Schengen area.
 
 Every country or territory decides who can enter or exit through its borders. The Government of Canada cannot intervene on your behalf if you do not meet your destination’s entry or exit requirements.
 

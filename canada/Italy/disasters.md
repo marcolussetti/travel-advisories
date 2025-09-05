@@ -56,14 +56,7 @@ In case of a major fire:
 
 ### Flooding and landslides
 
-Heavy rains, particularly in the fall and winter, can cause severe flooding and landslides. Roads may become impassable, and infrastructure damaged.
-
-Certain areas of northern and central Italy are especially prone to seasonal flooding, including:
-
-* Emilia-Romagna
-* Veneto
-* Liguria
-* Tuscany
+Heavy rains, particularly in the fall and winter, can cause severe flooding and landslides. Certain areas of northern and central Italy are especially prone to seasonal flooding. Roads may become impassable, and infrastructure damaged.
 
 Venice, in Veneto Region, sees tidal flooding known as “acqua alta,” particularly in the fall and spring. The city of Venice maintains a warning system for tidal flooding, and local authorities may install raised or floating platforms to allow pedestrians to cross low-lying areas.
 
@@ -75,9 +68,9 @@ The Italian Civil Protection Department publishes weather alerts on its website.
 
 #### Useful links
 
+* [Latest alerts](https://www.protezionecivile.gov.it/en/)- Italian Civil Protection Department
 * [Tidal forecast](https://www.comune.venezia.it/it/content/centro-previsioni-e-segnalazioni-maree) - City of Venice (in Italian only)
 * [Interpreting tidal forecast](https://www.comune.venezia.it/it/node/7454) - City of Venice
-* [Latest alerts](https://www.protezionecivile.gov.it/en/)- Italian Civil Protection Department
 
 ### Avalanches
 

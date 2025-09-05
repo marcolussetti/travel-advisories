@@ -2,13 +2,15 @@
 
 ## Entry and exit requirements
 
-Réunion is a French overseas department. However, it’s not part of the Schengen Area.
+Réunion is a French overseas department. However, it’s not part of the Schengen area.
 
 Every country or territory decides who can enter or exit through its borders. The Government of Canada cannot intervene on your behalf if you do not meet your destination’s entry or exit requirements.
 
 We have obtained the information on this page from French authorities. It can, however, change at any time.
 
 Verify this information with the [Foreign Representatives in Canada](https://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng).
+
+### Passport
 
 Entry requirements vary depending on the type of passport you're travelling with.
 

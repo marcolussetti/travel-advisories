@@ -12,13 +12,7 @@
 
 ### Southeastern provinces - Avoid non-essential travel
 
-[Avoid non-essential travel](#levels "Risk Levels") to the following southeastern provinces due to an unpredictable security situation:
+[Avoid non-essential travel](#levels "Risk Levels") to the following southeastern provinces due to the unpredictable security situation:
 
-* Batman
-* Bingöl
-* Bitlis
 * Hakkari
-* Kilis
-* Siirt
 * Șirnak
-* Tunceli

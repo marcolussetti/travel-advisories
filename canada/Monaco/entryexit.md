@@ -18,7 +18,7 @@ Before you travel, check with your transportation company about passport require
 
 #### Regular Canadian passport
 
-Your passport must be valid for at least 3 months beyond the date you expect to leave Monaco
+Your passport must be valid for at least 3 months beyond the date you expect to leave the Schengen area.
 
 #### Passport for official travel
 

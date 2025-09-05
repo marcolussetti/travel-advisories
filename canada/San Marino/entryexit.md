@@ -8,23 +8,38 @@ We have obtained the information on this page from the San Marinese authorities.
 
 Verify this information with the [Foreign Representatives in Canada](https://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng).
 
-### Passport
+Entry requirements vary depending on the type of passport you're travelling with.
 
-You do not need to pass through border controls to enter San Marino, but you must be in possession of a valid passport while you are there.
+Before you travel, check with your transportation company about passport requirements. Its rules on passport validity may be more stringent than the country’s entry rules.
+
+#### Regular Canadian passport
+
+Your passport must be valid for the duration of your stay in San Marino.
+
+#### Passport for official travel
+
+Different entry rules may apply.
+
+[Official travel](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/official-travel.html)
+
+#### Passport with “X” gender identifier
+
+While the Government of Canada issues passports with an “X” gender identifier, it cannot guarantee your entry or transit through other countries. You might face entry restrictions in countries that do not recognize the “X” gender identifier. Before you leave, check with the closest foreign representative for your destination.
 
 #### Other travel documents
 
-Different entry rules may apply when travelling with a temporary passport or an emergency travel document. Before you leave, check with the closest diplomatic mission for your destination.
+Different entry rules may apply when travelling with a temporary passport or an emergency travel document. Before you leave, verify this information with the closest foreign representative for your destination.
 
-Find [foreign diplomatic missions and consulates in Canada](http://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng).
+#### Useful links
 
-Learn more about [Canadian passports](http://www.canada.ca/passport).
+* [Foreign Representatives in Canada](https://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng)
+* [Canadian passports and other travel documents](http://www.canada.ca/passport)
 
 ### Visas
 
 San Marino does not issue entrance visas. If you plan to stay more than 10 days, you must report to the Gendarmerie of San Marino to obtain a permit.
 
-#### Length of stay
+### Length of stay
 
 Less than 10 days: no permit required   
 10 to 30 days: tourist permit required  

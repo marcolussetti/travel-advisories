@@ -16,7 +16,7 @@ Before you travel, check with your transportation company about passport require
 
 #### Regular Canadian passport
 
-Your passport must be valid at least 6 months beyond the date you expect to leave New Caledonia.
+Your passport must be valid for at least 6 months beyond the date you expect to leave New Caledonia.
 
 #### Passport for official travel
 

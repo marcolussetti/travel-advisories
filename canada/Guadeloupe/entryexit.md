@@ -2,7 +2,7 @@
 
 ## Entry and exit requirements
 
-Guadeloupe is a French overseas department. However, it is not part of the Schengen Area.
+Guadeloupe is a French overseas department. However, it is not part of the Schengen area.
 
 Every country or territory decides who can enter or exit through its borders. The Government of Canada cannot intervene on your behalf if you do not meet your destination’s entry or exit requirements.
 

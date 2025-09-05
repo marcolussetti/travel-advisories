@@ -2,36 +2,19 @@
 
 ## Safety and security
 
-### Political demonstrations
-
-Since March 19, 2025, protests have been occurring across Türkiye, particularly in Istanbul.
-
-Large-scale demonstrations may result in heightened police presence, road closures, public transportation and traffic disruptions, and can turn violent.
-
-Several protest bans are in effect across the country, including in Ankara, Istanbul and Izmir. For Istanbul province, this includes restrictions to freedom of movement for people suspected of participating in protests.
-
-If you participate in demonstrations or travel to locations where demonstrations are taking place, you could be questioned by law enforcement and/or detained.
-
-* Avoid demonstrations
-* Review your travel plans and be prepared to change them on short notice
-* Exercise caution
-* Monitor local media for the latest information
-
-[Demonstrations](#demonstrations)
-
 ### Borders with Iraq and Syria
 
-Despite counter-terrorism operations conducted by Turkish and Iraqi security forces, a threat of terrorism subsists at the border between Türkiye and Iraq. Violent attacks on sites held by terrorist groups or against Turkish and Iraqi security forces occur frequently.
+Despite counter-terrorism operations conducted by Turkish and Iraqi security forces, a risk of terrorism subsists at the border between Türkiye and Iraq. Violent attacks on sites held by terrorist groups or against Turkish and Iraqi security forces have occurred.
 
-Extremist groups have carried out attacks at border crossings and other locations in Syria close to the Turkish border. The Turkish government has declared some areas in villages along the border with Syria special security zones as part of cross-border military operations.
+Extremist groups have carried out attacks at border crossings and other locations in Syria and Iraq close to the Turkish border. The Turkish government has declared some areas in villages along the border with Syria special security zones as part of cross-border military operations.
 
-Foreigners and individuals associated to Western countries are targets for kidnappings and violence by terrorist groups in border areas with Iraq and Syria.
+Foreigners and individuals associated with Western countries are possible targets for kidnappings and violence by terrorist groups in border areas with Iraq and Syria.
 
 Border areas with Iraq and Syria are subject to extremely dangerous military activities, such as:
 
 * drone attacks
 * heavy gunfire
-* improvised explosive devices (IEDs) explosions
+* improvised explosive device (IED) explosions
 
 If you travel near the border with Iraq and/or Syria despite the advisory in effect:
 
@@ -41,15 +24,13 @@ If you travel near the border with Iraq and/or Syria despite the advisory in eff
 * monitor local and international media to stay informed on current clashes
 * follow instructions from local authorities and security forces
 
-### Southeast region
+### Sirnak and Hakkari provinces
 
-Terrorist groups have launched deadly terrorist attacks against Turkish security personnel in several cities and regions in the south and southeast of the country.
+The southeastern provinces have seen clashes between terrorist groups and Turkish security forces, leading to an unpredictable security situation.
 
 * Remain vigilant
 * Follow the instructions of local authorities
 * Monitor local and international media
-
-There is a risk, particularly to foreigners, of kidnapping in the area (see Kidnapping, below). Maintain a high level of vigilance at all times.
 
 Avoid overland travel. If you must, drive during the day and stay on major roads. Don’t use public transportation.
 
@@ -117,13 +98,15 @@ They may target the local population, foreigners and even foreign aid workers.
 
 ### Demonstrations
 
-Demonstrations may occur. Even peaceful demonstrations can turn violent at any time. They can also disrupt traffic and public transportation.
+Demonstrations may occur. Large-scale demonstrations may result in heightened police presence, road closures, and public transportation and traffic disruptions. They could turn violent at any time.
+
+If you participate in demonstrations or travel to locations where demonstrations are taking place, you could be questioned by law enforcement and/or detained.
 
 * Avoid areas where demonstrations and large gatherings are taking place
 * Expect enhanced security measures and an increased police presence
 * Follow the instructions of local authorities
 * Monitor local media for information on ongoing demonstrations
-* Be prepared to modify your plans in case of disturbances
+* Be prepared to modify your plans in case of disruptions
 
 [Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
 

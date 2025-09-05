@@ -2,7 +2,7 @@
 
 ## Entry and exit requirements
 
-Martinique is a French overseas department. However, it’s not part of the Schengen Area.
+Martinique is a French overseas department. However, it’s not part of the Schengen area.
 
 Every country or territory decides who can enter or exit through its borders. The Government of Canada cannot intervene on your behalf if you do not meet your destination’s entry or exit requirements.
 
@@ -18,7 +18,7 @@ Before you travel, check with your transportation company about passport require
 
 #### Regular Canadian passport
 
-Your passport must be valid for the duration of the stay.
+Your passport must be valid for the duration of your stay in Martinique.
 
 #### Passport for official travel
 
