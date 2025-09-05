@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   30 August 2025
+:   5 September 2025
 
 Updated:
-:   29 August 2025
+:   4 September 2025
 
 Latest update:
-:   New information on border control checks and regulations and Yellow Fever requirement eliminated for certain countries ('Entry requirements' page).
+:   Removal of expired road emergency declaration and addition of information on access to Cayambe volcano ('Warnings and insurance' and 'Safety and security' pages).
 
 ![](https://assets.publishing.service.gov.uk/media/65a1082ce96df50014f8452c/FCDO__TA__014_-_Ecuador_Travel_Advice_Ed5__WEB_.jpg)
 
@@ -42,12 +42,6 @@ FCDO advises against all but essential travel to areas within 20km of the Ecuado
 * the Pan-American Highway
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/ecuador/regional-risks).
-
-## Heavy rainfall
-
-Heavy rainfall in Ecuador’s highlands (Sierra) and Amazon regions has triggered flooding, landslides and significant damage to the national road network, especially in the provinces of Azuay, Napo, Sucumbíos, Zamora Chinchipe, Loja, and Chimborazo.
-
-In several areas, landslides have disrupted vehicle access, making travel to the Amazon region difficult. The provinces of Napo and Zamora Chinchipe are among the most affected by the heavy rains, and on 4 July the government declared a road emergency there for 60 and 45 days respectively. Check the ECU911 updates on [road conditions and closures](https://www.ecu911.gob.ec/consulta-de-vias/) (in Spanish only).
 
 ## Regional state of emergency declared (internal disturbance and armed violence)
 

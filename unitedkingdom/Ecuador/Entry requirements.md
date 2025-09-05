@@ -37,7 +37,7 @@ If you overstay your visa, you will get a fine when you leave. You will not be a
 
 For immigration information, see [Ecuador Migration](https://www.migracion.gob.ec/).
 
-To stay longer, to work or study, for business travel or for other reasons, you must [meet the Ecuadorean government’s entry requirements](https://www.cancilleria.gob.ec/2021/05/11/embajadas-y-consulados-en-el-exterior/) (in Spanish).
+To stay longer, to work or study, for business travel or for other reasons, you must meet the Ecuadorean government’s entry [requirements](https://www.cancilleria.gob.ec/2020/06/15/visas-en-el-ecuador/) (in Spanish).
 
 ### Applying for a visa
 

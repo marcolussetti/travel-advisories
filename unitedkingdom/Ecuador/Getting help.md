@@ -16,7 +16,7 @@ You can [report robbery and theft online in English](https://www.fiscalia.gob.ec
 
 ## Complaining about tourism services
 
-To complain about tourism services, email the Ministry of Tourism: [denuncias@turismo.gob.eca](mailto:denuncias@turismo.gob.ec).
+To complain about tourism services, email the Ministry of Tourism: denuncias@turismo.gob.ec.
 
 ## Contact your travel provider and insurer
 

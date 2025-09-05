@@ -43,7 +43,7 @@ To reduce your risk:
 * take care of your credit cards
 * watch your bags on public transport and wear your rucksack on the front of your body
 * carry a colour copy of your passport, including the visa entry stamp page – keep the original safe
-* consider using a money belt or secure inside pocket to keep your passport, credit cards and money safe
+* use a money belt or secure inside pocket to keep your passport, credit cards and money safe
 
 For more information on general travel safety in Ecuador, [check the Ministry of Tourism website](https://ecuador.travel/en/travel-safe/).
 
@@ -171,7 +171,7 @@ It is illegal to climb a glaciated mountain without an official accredited guide
 
 ### Pichincha volcano
 
-Tourists take day trips to Pichincha volcano on the cable car (‘teleférico’) from Quito. There have been accidents on the route to one of the peaks, Rucu Pichincha, including deaths from hypothermia. You should:
+Tourists take day trips to Pichincha volcano on the cable car (‘teleférico’) from Quito. Cruz Loma arrival station is at 4.050 metres above sea level. There have been accidents on the route to one of the peaks, Rucu Pichincha, including deaths from hypothermia. You should:
 
 * be aware of the risk of altitude sickness
 * take warm, waterproof clothing and high-factor sunblock
@@ -182,7 +182,7 @@ Lightning has killed tourists climbing Pichincha. Watch the weather and reconsid
 
 ### Cayambe Volcano
 
-To visit Cayambe Coca National Reserve, and climb the Cayambe volcano, you must email [cayambe.coca@ambiente.gob.ec](mailto:chimborazo@ambiente.gob.ec%22%20\o%20%22mailto:chimborazo@ambiente.gob.ec%22%20\t%20%22_blank) at least 5 days in advance to register on the Biodiversity Information System (‘Sistema de Información de Biodiversidad’).
+The ‘Glaciar Hermoso’ and ‘Laguna Verde’ on the Cayambe volcano are currently closed until 20 September. The ‘Ruales Oleas Berges’ refuge remains open.
 
 ### Chimborazo Reserve
 

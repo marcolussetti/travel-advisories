@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   15 August 2025
+:   5 September 2025
 
 Updated:
-:   14 August 2025
+:   4 September 2025
 
 Latest update:
-:   Updated information on health risks you’ll face in Samoa (‘Health’ page).
+:   This travel advice was reviewed for accuracy and there are no significant updates.
 
 ## Before you travel
 
