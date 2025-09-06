@@ -1,7 +1,7 @@
 {
     "name": "France",
-    "update_reason": "Editorial change",
-    "update_date": "2025-09-03T12:52:00",
+    "update_reason": "Entry and exit requirements \u2013 added information on the Entry/Exit System (EES)",
+    "update_date": "2025-09-05T14:42:00",
     "sections": {
         "risk": "canada/France/risk.md",
         "security": "canada/France/security.md",

@@ -47,6 +47,18 @@ Indonesia strictly enforces its immigration and visa requirements. Foreign trave
 
 A round-trip or onward airline ticket is required to obtain all types of visas.
 
+There is an increase in visa scams in Indonesia, including in Bali.
+
+* Do not accept unsolicited offers for visa extensions, as you could be at risk of:
+
++ overstaying your visa
++ legal consequences such as fines, deportation or re-entry bans
+
+* Never hand over your passport to individuals or agencies claiming to offer visa services
+* Use official government channels to manage or renew visas and ensure your information and documents remain secure
+
+[Official eVisa website for Indonesia](https://evisa.imigrasi.go.id/) – Indonesian Ministry of Immigration and Corrections
+
 #### Tourist visa
 
 If you are travelling for tourism with a regular Canadian passport, you may obtain a visa in advance or on arrival at select points of entry.

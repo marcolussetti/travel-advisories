@@ -51,11 +51,21 @@ You can purchase a tourist visa, valid for up to 60 days, at:
 
 You will need to supply a recent passport-size photo. Ensure that you have the necessary amount of funds (Canadian and U.S. dollars are accepted) with you if you wish to obtain a visa upon arrival. Check with the closest Nepalese embassy or consulate for the latest visa fees.
 
-[Tourist Visa](http://www.nepalimmigration.gov.np/page/tourist-visa) - Department of Immigration, Government of Nepal
+[Tourist Visa](https://immigration.gov.np/en/page/tourist-visa) – Department of Immigration, Government of Nepal
 
 #### Visa overstays
 
 Overstaying your visa is an offence and immigration authorities can detain you until you pay a fine. In addition to fines and detention, overstays can result in a 7-year ban on re-entry.
+
+### Mandatory registration
+
+All foreign nationals travelling to Nepal after September 16, 2025, must register upon arrival via the NepaliPort website or mobile app.
+
+NepaliPort is a digital registration and tracking system. You will need to enter your personal information and details about your visa and travel plans.
+
+All public and private service providers in Nepal are required to enroll in the program. You may need to scan QR codes or use authentication applications on your mobile when interacting with hotels, airlines and other businesses.
+
+[NepaliPort services](https://nepaliport.immigration.gov.np/) – Nepal Department of Immigration
 
 ### Travel to Tibet
 

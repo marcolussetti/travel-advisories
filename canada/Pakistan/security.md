@@ -2,15 +2,6 @@
 
 ## Safety and security
 
-On July 31, 2025, the U.S. Consulate General Karachi issued the following security alert: "The U.S. Consulate General Karachi received a report of a threat directed at high-end hotels in Karachi. In response to such threats, the U.S. Embassy and Consulates sometimes place areas such as tourist attractions, hotels, markets, shopping malls and restaurants off-limits to official U.S. government personnel. The U.S. Consulate General in Karachi has temporarily limited visits by official U.S. government personnel to these hotels."
-
-You should:
-
-* avoid hotels in Karachi used by foreigners
-* reconsider travel plans to this area
-
-[Security alert](https://pk.usembassy.gov/security-alert-u-s-consulate-general-karachi-pakistan-july-31-2025/) – U.S. Embassy and Consulates in Pakistan
-
 The Government of Canada may not be in a position to provide consular assistance to Canadians in areas where:
 
 * there are serious security concerns

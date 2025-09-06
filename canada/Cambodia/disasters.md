@@ -2,15 +2,21 @@
 
 ## Natural disasters and climate
 
-### Monsoon and cyclones
+### Climate change
 
-The rainy (or monsoon) season extends from May to November. Cyclones usually occur between April and November.
+Climate change is affecting Cambodia. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local media for the latest information.
+
+### Monsoons and typhoons
+
+The rainy season (monsoon) extends from May to November. Typhoons in the region can intensify rainfall and floods during this season.
 
 Severe rainstorms can cause flooding and landslides, resulting in loss of life and extensive damage to infrastructure. They can also hamper the provision of essential services. Roads may become impassable and bridges damaged. Flooding can affect wide areas in numerous provinces, including certain parts of Phnom Penh.
 
-* Keep informed of regional weather forecasts
-* Avoid disaster areas
-* Follow the advice of local authorities
+* Remain vigilant, especially in areas around major rivers
+* Stay away from flooded areas
+* Monitor weather reports
+* Monitor local media for the latest updates, including those on road conditions
+* Follow the advice of local authorities, including evacuation orders
 
 #### Useful links
 

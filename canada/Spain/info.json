@@ -1,7 +1,7 @@
 {
     "name": "Spain",
-    "update_reason": "Natural disasters and climate \u2013 removed information on wildfires",
-    "update_date": "2025-09-03T21:48:00",
+    "update_reason": "Entry and exit requirements \u2013 added information on the Entry/Exit System (EES)",
+    "update_date": "2025-09-05T14:22:00",
     "sections": {
         "risk": "canada/Spain/risk.md",
         "security": "canada/Spain/security.md",

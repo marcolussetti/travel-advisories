@@ -8,6 +8,19 @@ We have obtained the information on this page from the Italian authorities. It c
 
 Verify this information with the [Foreign Representatives in Canada](https://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng).
 
+### Entry/Exit System (EES)
+
+The Entry/Exit System (EES) begins operations on October 12, 2025.
+
+The EES is an automated registration system for travellers from countries outside the European Union or the Schengen area. You will be required to register through this system upon arrival at the border of any of the 29 countries in the Schengen area.
+
+You won’t need to take any action before you travel. The EES will collect information about your trip as well as your facial image and fingerprints.
+
+#### Useful links
+
+* [Travelling to Europe](https://travel.gc.ca/travelling/travelling-europe)
+* [Entry/Exit System (EES)](https://travel-europe.europa.eu/ees/ltr) – European Union
+
 ### Schengen area
 
 Italy is a Schengen area country. Canadian citizens do not need a visa for travel to countries within the Schengen area. However, visa-free travel only applies to stays of up to 90 days in any 180-day period. Stays are cumulative and include visits to any Schengen area country.

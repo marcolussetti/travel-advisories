@@ -13,6 +13,30 @@ This section has information and advice about health risks you might face when t
 
 It's best to talk to a healthcare provider or visit a travel health clinic preferably 6 weeks before your trip to get personalized health advice. Even if your travel date is coming up soon, it's still worthwhile to make an appointment.
 
+### Outbreak Monitoring
+
+#### Ebola virus disease in Democratic Republic of Congo
+
+On September 4, 2025, health authorities in the Democratic Republic of Congo (DRC) confirmed an outbreak of Ebola virus disease (EVD) in the country’s Kasai province. Investigations are ongoing to determine the scope of the outbreak.
+
+EVD is caused by a virus that is spread through contact with the infected bodily fluids of people or animals experiencing EVD symptoms. The disease is serious and often fatal. The risk of getting the virus is low for most travellers if the proper precautions are followed.
+
+If you are travelling in the DRC, follow local health guidelines and take precautions to protect yourself.
+
+* Avoid contact with people who have EVD symptoms (fever, rash, muscle pain), and anything that could be contaminated with their bodily fluids.
+* Avoid contact with the bodies of people who have died of EVD or an unknown illness during funerals and burials.
+* Avoid visiting healthcare facilities in the outbreak area for nonurgent medical care or for nonmedical reasons.
+* Avoid close contact with live and dead animals, as both can spread the virus.
+* Wash your hands regularly with soap and water for at least 20 seconds or use a hand sanitizer containing at least 60% alcohol for 20 seconds or until dry
+
+Monitor your health for symptoms while in the affected area and for 21 days after leaving. Isolate from others and seek medical care immediately if you develop symptoms of EVD.
+
+There is a vaccine to prevent disease caused by EVD, however it is only available under certain circumstances and is not authorized for sale in Canada.
+
+**Learn more:**  
+[Ebola disease](https://www.canada.ca/en/public-health/services/diseases/ebola.html)  
+[WHO Africa - Democratic Republic of the Congo declares Ebola virus disease outbreak in Kasai Province](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-declares-ebola-virus-disease-outbreak-kasai-province#:~:text=Kinshasa%20%E2%80%93%20Health%20authorities%20in%20the,as%20of%204%20September%202025)
+
 ### Routine vaccines
 
 Make sure your routine vaccinations are up-to-date before you travel, no matter where you’re going.
@@ -113,6 +137,8 @@ Malaria
 [Malaria](https://www.canada.ca/en/public-health/services/diseases/malaria.html) is a serious and sometimes fatal disease that is caused by parasites spread through the bites of mosquitoes.
 
 **Malaria is a risk to travellers to this destination.**  
+   
+[Antimalarial medication is recommended](https://www.canada.ca/en/public-health/services/catmat/appendix-1-malaria-risk-recommended-chemoprophylaxis-geographic-area.html) for most travellers to this destination and should be taken as recommended. Consult a health care professional or visit a travel health clinic before travelling to discuss your options. It is recommended to do this 6 weeks before travel, however, it is still a good idea any time before leaving.   
  
 
 * Cover your skin and use an [approved](https://www.canada.ca/en/health-canada/services/about-pesticides/insect-repellents.html) insect repellent on uncovered skin.

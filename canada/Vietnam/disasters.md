@@ -2,55 +2,15 @@
 
 ## Natural disasters and climate
 
-### Typhoon Kajiki
+### Climate change
 
-On August 25, 2025, Typhoon Kajiki made landfall in north-central Vietnam. It caused significant damage to buildings and infrastructure.
+Climate change is affecting Vietnam. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local media for the latest information.
 
-The storm brought excessive rainfall and violent winds, resulting in several casualties and displaced persons. It caused severe flooding and there are significant disruptions to the following essential services:
+### **Typhoons and monsoons**
 
-* transportation
-* power distribution
-* water and food supply
-* telecommunications networks
-* emergency services
-* medical care
+#### Typhoons
 
-Heavy rainfall is expected to continue and could cause further flooding and mudslides.
-
-If you are in the affected area:
-
-* exercise caution
-* monitor local news and weather reports
-* follow the instructions of local authorities
-
-### Rainy season
-
-The rainy season extends:
-
-* from June to September in the north and south
-* from October to December in central Vietnam
-
-Seasonal flooding occurs in October and November in central Vietnam. It’s also common:
-
-* in and around Hanoi, particularly along the Red River
-* in the Mekong River Delta regions in the south
-
-Seasonal flooding can hamper overland travel and reduce the provision of essential services. Roads may become impassable due to mudslides and landslides. Bridges, buildings, and infrastructure may be damaged.
-
-* Remain vigilant, especially in areas around major rivers
-* Stay away from flooded areas
-* Monitor weather reports
-* Monitor local media for the latest updates, including those on road conditions
-* Follow the instructions of local authorities, including evacuation orders
-
-#### Useful links
-
-* [Mekong Flood and Drought Forecasting](https://www.mrcmekong.org/) - Mekong River Commission
-* [Forecasting](https://nchmf.gov.vn/KttvsiteE/en-US/2/index.html) - National Center for Hydro-Meteorological Forecasting
-
-### Typhoons
-
-Typhoons usually occur from June and December. During this period, even small tropical storms can quickly develop into major typhoons.
+Typhoons usually occur from June to December. During this period, even small tropical storms can quickly develop into major typhoons.
 
 These severe storms can put you at risk and hamper the provision of essential services.
 
@@ -61,6 +21,26 @@ If you decide to travel to Vietnam during this period:
 * stay informed of the latest regional weather forecasts
 * carry emergency contact information for your airline or tour operator
 * follow the advice and instructions of local authorities
+
+#### Monsoons
+
+The rainy season (monsoon) extends:
+
+* from June to September in the north and south
+* from October to December in central Vietnam
+
+Seasonal flooding occurs in October and November in central Vietnam. It's also common:
+
+* in and around Hanoi, particularly along the Red River
+* in the Mekong River Delta regions in the south
+
+Seasonal floods can hamper overland travel and reduce the provision of essential services. Roads may become impassable due to mudslides and landslides. Bridges, buildings, and infrastructure may be damaged.
+
+* Remain vigilant, especially in areas around major rivers
+* Stay away from flooded areas
+* Monitor weather reports
+* Monitor local media for the latest updates, including those on road conditions
+* Follow the instructions of local authorities, including evacuation orders
 
 #### Useful links
 
