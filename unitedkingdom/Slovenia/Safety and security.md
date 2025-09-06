@@ -38,19 +38,21 @@ The Slovenian authorities test a nationwide emergency siren on the first Saturda
 
 ### Skiing and mountaineering
 
-If you are planning a skiing or mountaineering holiday, check [advice on weather, safety conditions and risks](https://slovenia-outdoor.com/en/) before you travel. Off-piste skiing is highly dangerous as there is a risk of avalanches in some areas. See [Preparing for winter sports abroad](https://www.gov.uk/guidance/winter-sports-stay-safe-on-the-slopes).
+If you are planning a skiing or mountaineering holiday, see [Policija - Helpful Advice to all Hikers, Trekkers and Mountaineers](https://www.policija.si/eng/prevention/safety-on-holidays/safe-mountaineering/helpful-advice-to-all-hikers-trekkers-and-mountaineers) and [National Meteorological Service of Slovenia](https://meteo.arso.gov.si/met/en/)  before you travel. Off-piste skiing is highly dangerous as there is a risk of avalanches in some areas. See [Preparing for winter sports abroad](https://www.gov.uk/guidance/winter-sports-stay-safe-on-the-slopes).
 
 ### Hiking
 
 If you plan to hike in Slovenia:
 
+* take particular care if you’re in an area where bears have been sighted. Visitors in mountain areas occasionally encounter bears and wolves
 * consider the level of difficulty and distance
 * plan for the weakest member of your group
 * use a printed or digital map with marked paths and their descriptions
 * tell family or friends of your plans
 * check whether mountain cabins are open
 * do not use hiking trails that have been closed or take shortcuts
-* follow local safety advice about bears. Bears are present in wooded areas throughout Slovenia, including near cities. In 2025 a bear attacked a person walking their dog in Skofljica, 6 miles southeast of Ljubljana.  See [What to do when encountering a bear](https://www.gov.si/novice/2025-04-10-kako-ravnati-ob-srecanju-z-medvedom/) if you encounter a bear.
+
+Bears are present in wooded areas throughout Slovenia, including near cities. In 2025 a bear attacked a person walking their dog in Skofljica, 6 miles southeast of Ljubljana.
 
 Some demanding mountain trails can include sections of via ferrata (steel wires and metal rungs), which need a climbing harness and helmet.
 

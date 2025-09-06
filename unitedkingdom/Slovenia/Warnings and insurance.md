@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   31 July 2025
+:   6 September 2025
 
 Updated:
-:   30 July 2025
+:   5 September 2025
 
 Latest update:
-:   Updated information on new Schengen entry requirements being introduced from 12 October ('Entry requirements' page).
+:   New information on mountain hiking in Slovenia ('Safety and security' page).
 
 ## Before you travel
 

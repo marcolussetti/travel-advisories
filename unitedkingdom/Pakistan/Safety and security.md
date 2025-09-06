@@ -2,10 +2,6 @@
 
 You should also read [FCDO’s overall travel advice](/foreign-travel-advice/pakistan/warnings-and-insurance) and [regional risks advice](/foreign-travel-advice/pakistan/regional-risks).
 
-On 1st August 2025, the United States Embassy in Islamabad issued a travel advisory: [Security Alert: U.S. Consulate General Karachi, Pakistan (July 31, 2025) - U.S. Embassy & Consulates in Pakistan](https://pk.usembassy.gov/security-alert-u-s-consulate-general-karachi-pakistan-july-31-2025/).
-
-The advisory says “The U.S. Consulate General Karachi received a report of a threat directed at high-end hotels in Karachi.  In response to such threats, the U.S. Embassy and Consulates sometimes place areas such as tourist attractions, hotels, markets, shopping malls and restaurants off-limits to official U.S. government personnel. The U.S. Consulate General in Karachi has temporarily limited visits by official U.S. government personnel to these hotels.”
-
 ## Terrorism
 
 There is a high threat of terrorist attack globally affecting UK interests and British nationals, including from groups and individuals who view the UK and British nationals as targets. Stay aware of your surroundings at all times.
@@ -28,7 +24,7 @@ Terrorist groups operating in Pakistan include:
 * Islamic State Khorasan Province (ISKP)
 * al-Qa’ida
 
-Terrorist groups mainly target Government of Pakistan security forces. Areas of Balochistan and Khyber Pakhtunkhwa, including Peshawar, suffer regular terrorist attacks. Attacks have also taken place in Karachi and other major cities.
+Terrorist groups mainly target Government of Pakistan security forces. Areas of Balochistan and Khyber Pakhtunkhwa, including Peshawar, suffer regular terrorist attacks. Attacks have also taken place in Karachi, Islamabad, Lahore and other major cities. A number of attacks have also taken place against Chinese nationals; some attacks have also targeted individuals of East Asian appearance more generally.
 
 While terrorist attacks are mainly directed against the Pakistani state, attacks could be indiscriminate and occur without warning, including in places visited by foreign nationals, such as:
 
@@ -77,6 +73,7 @@ Political rallies, protests and demonstrations may take place across the country
 You should:
 
 * avoid all political demonstrations, large crowds of people and public events
+* be mindful of days of political or social significance
 * be prepared to change your plans as necessary
 * keep track of the local news
 

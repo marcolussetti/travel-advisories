@@ -22,6 +22,7 @@ At least 8 weeks before your trip:
 
 See [what health risks you’ll face in DRC](https://travelhealthpro.org.uk/country/63/democratic-republic-of-the-congo) including:
 
+* ebola
 * malaria
 * cholera
 * yellow fever

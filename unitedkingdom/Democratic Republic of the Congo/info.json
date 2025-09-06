@@ -1,11 +1,11 @@
 {
     "name": "Democratic Republic of the Congo",
-    "update_reason": "Removal of information about increased security measures in the city of Kinshasa on 2 September (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Addition of Ebola as a health risk you may face whilst in the Democratic Republic of Congo (\u2018Health\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Democratic Republic of the Congo/Warnings and insurance.md",
-            "update_date": "2025-09-03T14:57:21+01:00"
+            "update_date": "2025-09-05T12:16:34+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Democratic Republic of the Congo/Getting help.md"
         }
     ],
-    "update_date": "2025-09-03T14:57:21+01:00"
+    "update_date": "2025-09-05T12:16:34+01:00"
 }

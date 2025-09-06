@@ -16,11 +16,12 @@ In June 2024, a lone attacker fired at a police officer with a crossbow outside 
 
 ## Political situation
 
-Mass gatherings and demonstrations are taking place in Belgrade and other towns and cities. These can happen at short notice and cause significant disruption, including to public transport. Most gatherings are peaceful but there is the potential for things to escalate quickly. To reduce your personal risk, including possible injury:
+Mass gatherings and demonstrations are taking place in Belgrade and other towns and cities. These can happen at short notice and cause significant disruption, including to public transport and mobile phone networks. Most gatherings are peaceful but there is the potential for things to escalate quickly. Some demonstrations have turned violent. To reduce your personal risk, including possible injury:
 
 * keep up to date with local developments
 * plan ahead to avoid disruption
-* avoid crowds and demonstrations
+* stay away from areas where protests or demonstrations are taking place
+* leave the area immediately should you encounter disorderly crowds or a violent situation
 
 ## Crime
 
@@ -30,7 +31,13 @@ Take sensible precautions to protect yourself from street crime, particularly in
 
 Criminals may assume that foreigners are carrying large amounts of cash. Four-wheel-drive and luxury vehicles are also common targets.
 
-Some sporting events have had incidents of violence and petty crime. Incidents are common during derby matches in Belgrade – take extra care in and around stadiums when these are taking place.
+## Sporting events
+
+Some sporting events have had incidents of violence and petty crime. Incidents are common, particularly in and around derby matches between Red Star and Partizan in Belgrade. Take extra care in and around stadiums when matches are taking place.
+
+There may be a significant delay in leaving venues due to security protocols to separate fans. Transport may be disrupted. Buses are usually provided for ‘away’ supporters at international football matches – this can be the most convenient way of travelling to and from the stadium.
+
+The officials will want to discourage conflict between fans. If you try to gain access to the home end of the stadium, but are clearly supporting the away team, you may not be allowed entry, or be removed from the stadium.
 
 ## Unexploded landmines and bombs
 

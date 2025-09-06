@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   4 September 2025
+:   6 September 2025
 
 Updated:
-:   3 September 2025
+:   5 September 2025
 
 Latest update:
-:   Removal of information about increased security measures in the city of Kinshasa on 2 September (‘Warnings and insurance’ page).
+:   Addition of Ebola as a health risk you may face whilst in the Democratic Republic of Congo (‘Health’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/67f58030e3c60873d6c90d72/FCDO__TA__012_-_Democratic_Repbulic_of_the_Congo_Travel_Advice_Ed15__WEB_.jpg)
 

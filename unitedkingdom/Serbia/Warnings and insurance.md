@@ -1,13 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   5 June 2025
+:   6 September 2025
 
 Updated:
-:   4 June 2025
+:   5 September 2025
 
 Latest update:
-:   Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport ('Safety and security' page).
+:   Information added about England v Serbia football match and updated information on sporting events and political situation. (‘Warnings and insurance’ and ‘Safety and security’ pages).
+
+## England v Serbia football match
+
+The England men’s team will be playing against Serbia in Belgrade on Tuesday 9 September. If you are travelling to the match, see information on the [England Football website](https://www.englandfootball.com/articles/2025/Sep/03/Serbia-away-ticket-details) and follow the [supporters’ association social media messaging on X](https://x.com/WeAreFreeLions).
 
 ## Before you travel
 
