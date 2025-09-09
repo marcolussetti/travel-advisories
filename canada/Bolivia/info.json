@@ -1,7 +1,7 @@
 {
     "name": "Bolivia",
-    "update_reason": "Safety and security \u2013 added information on Pedestrian and Cyclist Day",
-    "update_date": "2025-09-04T15:16:00",
+    "update_reason": "Safety and security \u2013 removed information on Pedestrian and Cyclist Day",
+    "update_date": "2025-09-08T13:26:00",
     "sections": {
         "risk": "canada/Bolivia/risk.md",
         "security": "canada/Bolivia/security.md",

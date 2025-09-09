@@ -2,15 +2,6 @@
 
 ## Safety and security
 
-### Pedestrian and Cyclist Day
-
-Pedestrian and Cyclist Day will be observed in La Paz and some other locations across the country on September 7, 2025. Public and private vehicle traffic will face strict limitations. In La Paz, the use of motorized vehicles will be prohibited from 8 am to 5 pm. There will be a limited number of taxis authorized to drive to and from the airport.
-
-If you are in Bolivia:
-
-* check official sources and local media to understand potential impacts to your travel plans
-* plan your movements accordingly
-
 ### Demonstrations
 
 Demonstrations occur frequently, often with little or no notice. Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation. Protesters may also use dynamite during protests. The police often respond with tear gas to disperse crowds.

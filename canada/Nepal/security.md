@@ -2,6 +2,20 @@
 
 ## Safety and security
 
+### Demonstrations in Nepal
+
+Following violent clashes during demonstrations on September 8, 2025, local authorities imposed curfews in several districts of the Kathmandu Valley. Clashes between demonstrators and security forces have resulted in hundreds of casualties, including several deaths. The situation remains volatile. Further curfews may be implemented with little notice.
+
+Demonstrations began in response to local authorities’ ban on a wide range of social media and messaging platforms. Access to certain social media platforms could be disrupted.
+
+If you are in Nepal:
+
+* stay away from demonstrations
+* avoid areas around government buildings
+* expect heavy security measures and an increased security presence
+* monitor local media for the latest information
+* follow the instructions of local authorities, including curfew orders
+
 Since November 8, 2024, Tribhuvan International Airport in Kathmandu has reduced its hours of operation. The airport will be open from 8 am to 10 pm while construction takes place. This could affect international and domestic flights. Contact your tour operator or airline before you travel.
 
 ### Crime
