@@ -1,11 +1,11 @@
 {
     "name": "Mexico",
-    "update_reason": "Weather Warning for Baja California Sur, Sonora and Sinaloa (\"Warnings and Insurance\")",
+    "update_reason": "Removal of information about the weather warning for Baja California Sur, Sonora and Sinaloa ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Mexico/Warnings and insurance.md",
-            "update_date": "2025-09-03T19:31:13+01:00"
+            "update_date": "2025-09-08T16:09:45+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Mexico/Getting help.md"
         }
     ],
-    "update_date": "2025-09-03T19:31:13+01:00"
+    "update_date": "2025-09-08T16:09:45+01:00"
 }

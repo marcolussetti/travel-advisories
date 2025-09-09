@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   31 August 2025
+:   9 September 2025
 
 Updated:
-:   30 August 2025
+:   8 September 2025
 
 Latest update:
-:   Updated information about protests across Indonesia including violent clashes and fatalities.
+:   Removal of information about protests across Indonesia including violent clashes and fatalities ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/6745db6083f3d6d843be9719/FCDO__TA__020_-_Indonesia_Travel_Advice_Ed9__WEB_.jpg)
 

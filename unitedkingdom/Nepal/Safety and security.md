@@ -140,7 +140,9 @@ Bus accidents are common in Nepal and there are a number of accidents resulting 
 
 ### Air travel
 
-Engineering and improvement works will take place at Nepal’s main international airport in Kathmandu from November until March 2025. This may impact airport operations and cause disruption or delays to flights (domestic and international). Check with your tour operator or airline before travelling.
+Engineering and improvement works at Nepal’s main international airport in Kathmandu may impact airport operations and cause disruption or delays to flights (domestic and international).
+
+Check with your tour operator or airline before travelling.
 
 Air crashes can have a variety of causes and are not necessarily linked with poor safety standards or non-compliance with international safety standards. However, there have been a number of fatal accidents and air crashes across Nepal in the commercial air transport sector, involving planes and helicopters. Over the last 5 years, this includes a number of separate incidents and at least 100 deaths.
 

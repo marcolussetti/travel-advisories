@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   19 August 2025
+:   9 September 2025
 
 Updated:
-:   18 August 2025
+:   8 September 2025
 
 Latest update:
-:   Removal of reference to US Embassy personnel being prohibited from islands and coastal areas south of Kisiju (‘Regional risks’ page).
+:   Confirmation of an additional day of voting in Zanzibar on 28 October 2025 (‘Safety and security’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/645a3ab12226ee000c0ae4a0/FCDO__TA__086_-_Tanzania_Travel_Advice_Ed1__WEB_.jpg)
 

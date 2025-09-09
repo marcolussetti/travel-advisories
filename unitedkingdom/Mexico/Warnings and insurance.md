@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   4 September 2025
+:   9 September 2025
 
 Updated:
-:   3 September 2025
+:   8 September 2025
 
 Latest update:
-:   Weather Warning for Baja California Sur, Sonora and Sinaloa ("Warnings and Insurance")
+:   Removal of information about the weather warning for Baja California Sur, Sonora and Sinaloa ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/65fabfdfaa9b76001dfbdb8a/FCDO_TA_065_-_Mexico_Travel_Advice_Ed5_WEB.jpg)
 
@@ -15,14 +15,6 @@ Latest update:
 [Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/65fabfdfaa9b760011fbdb6b/FCDO_TA_065_-_Mexico_Travel_Advice_Ed5.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth and Development Office (FCDO).
-
-### WARNING - HURRICANE LORENA
-
-Hurricane conditions are possible from Wednesday 3 September in the regions of Baja California Sur, Sonora and Sinaloa as a result of Hurricane Lorena.  A hurricane alert is in place.
-
-You should closely monitor local and international weather updates from the [US National Hurricane Center](https://eur03.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.nhc.noaa.gov%2F&data=05%7C02%7CSarah.Ballett%40fcdo.gov.uk%7C6c64e1b893e347575afa08dcdbc731a2%7Cd3a2d0d37cc84f52bbf985bd43d94279%7C0%7C0%7C638626895792024814%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=URcu0RIgpGuzocCYAnn%2Fk4ZsCqQywIQtVOUICB5Do64%3D&reserved=0) and follow the advice of local authorities and your tour operator, including any evacuation orders. Temporary shelters have been set up in Los Cabos (Details [here](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fx.com%2FVictorCastroCos%2Fstatus%2F1963259939889029253&data=05%7C02%7CSarah.Ballett%40fcdo.gov.uk%7Cad2f795b5a1f4e84ddf508ddeb0e2984%7Cd3a2d0d37cc84f52bbf985bd43d94279%7C0%7C0%7C638925168229817782%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=k6wcrJKeh7eSHRMaRl5mv5l7PSRtu9NSaCPyS4JV4aI%3D&reserved=0)).
-
-See the [tropical cyclones page](https://www.gov.uk/guidance/extreme-weather-and-natural-hazards) for advice on how to prepare for travel during hurricane season and what to do ahead of a storm. In the aftermath of a hurricane, there can be flooding, high winds and continued rainfall.
 
 ## Areas where FCDO advises against all but essential travel
 

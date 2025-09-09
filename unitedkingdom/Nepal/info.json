@@ -1,11 +1,11 @@
 {
     "name": "Nepal",
-    "update_reason": "Information on potential disruption to domestic and international air travel at Kathmandu airport (See \u2018Air travel\u2019 on the \u2018Safety and security' page)",
+    "update_reason": "Addition of information about violent protests after Nepal introduced a ban affecting a wide range of commonly used social media and messaging platforms. This is impacting communications within the country. Curfews have also been introduced in several cities ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Nepal/Warnings and insurance.md",
-            "update_date": "2024-10-04T11:25:05+01:00"
+            "update_date": "2025-09-08T16:50:55+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Nepal/Getting help.md"
         }
     ],
-    "update_date": "2024-10-04T11:25:05+01:00"
+    "update_date": "2025-09-08T16:50:55+01:00"
 }

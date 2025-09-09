@@ -1,11 +1,11 @@
 {
     "name": "Tanzania",
-    "update_reason": "Removal of reference to US Embassy personnel being prohibited from islands and coastal areas south of Kisiju (\u2018Regional risks\u2019 page).",
+    "update_reason": "Confirmation of an additional day of voting in Zanzibar on 28 October 2025 (\u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Tanzania/Warnings and insurance.md",
-            "update_date": "2025-08-18T16:40:28+01:00"
+            "update_date": "2025-09-08T15:04:15+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Tanzania/Getting help.md"
         }
     ],
-    "update_date": "2025-08-18T16:40:28+01:00"
+    "update_date": "2025-09-08T15:04:15+01:00"
 }

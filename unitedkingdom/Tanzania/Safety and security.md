@@ -31,7 +31,7 @@ In 2020, the village of Kitaya in the Mtwara region was attacked, close to the b
 
 ## Political situation
 
-General elections are scheduled to take place in Tanzania on 29 October 2025, with an additional day of voting expected in Zanzibar on 28 October 2025.
+General elections are scheduled to take place in Tanzania on 29 October 2025, with an additional day of voting in Zanzibar on 28 October 2025.
 
 Recent elections, including demonstrations and political gatherings across Tanzania (particularly on the islands of Zanzibar) have turned violent and resulted in fatalities.
 

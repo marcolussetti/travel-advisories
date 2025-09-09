@@ -20,7 +20,11 @@ At least 8 weeks before your trip:
 * check the latest [vaccine recommendations for South Korea](https://www.travelhealthpro.org.uk/country/120/south-korea#Vaccine_Recommendations)
 * see where to get vaccines and whether you have to pay on the [NHS travel vaccinations page](https://www.nhs.uk/conditions/travel-vaccinations/)
 
-See what health risks you’ll face in South Korea, including tick bites and tick-borne encephalitis. Read more about [avoiding tick and insect bites on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/38/insect-and-tick-bite-avoidance).
+See what health risks you’ll face in South Korea, including:
+
+* malaria
+* insect and tick bites
+* tick-borne encephalitis
 
 Air pollution, including yellow dust pollution, is common, especially during spring months. Follow local media reporting and check the [Korean Meteorological Administration](https://www.kma.go.kr/neng/index.do) website. On days when concentrations are high, most residents will stay indoors or use face masks outside. It’s also important to drink plenty of water.
 

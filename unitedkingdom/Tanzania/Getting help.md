@@ -26,7 +26,7 @@ FCDO has guidance on staying safe and what to do if you need help or support abr
 * finding English-speaking [lawyers](https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/lawyers?country=Tanzania), [funeral directors](https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/funeral-directors?country=Tanzania) and [translators and interpreters](https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/translators-interpreters?country=Tanzania) in Tanzania
 * dealing with a [death in Tanzania](https://www.gov.uk/government/publications/tanzania-bereavement-information-pack)
 * being [arrested or imprisoned in Tanzania](https://www.gov.uk/government/publications/tanzania-prisoner-pack)
-* getting help if you’re a [victim of crime](https://www.gov.uk/victim-crime-abroad)
+* getting help if you’re a [victim of crime](https://www.gov.uk/guidance/victim-of-crime-abroad)
 * what to do if you’re [in hospital](https://www.gov.uk/guidance/in-hospital-abroad)
 * if you’re [affected by a crisis](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas), such as a terrorist attack
 

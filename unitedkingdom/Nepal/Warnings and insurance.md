@@ -1,13 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   9 September 2025
 
 Updated:
-:   4 October 2024
+:   8 September 2025
 
 Latest update:
-:   Information on potential disruption to domestic and international air travel at Kathmandu airport (See ‘Air travel’ on the ‘Safety and security' page)
+:   Addition of information about violent protests after Nepal introduced a ban affecting a wide range of commonly used social media and messaging platforms. This is impacting communications within the country. Curfews have also been introduced in several cities ('Warnings and insurance' page).
+
+## Protests against social media ban
+
+Nepal has introduced a ban affecting a wide range of commonly used social media and messaging platforms. This is impacting communications within the country, expect disruption to services. As a result of the ban there have also been protests in Kathmandu and elsewhere. There have been violent clashes and a number of deaths. Curfews have been introduced in several cities. Avoid protests, check local media for updates, and follow direction of the authorities. See [‘civil disorder’ on the ‘Safety and security’ page](https://www.gov.uk/foreign-travel-advice/nepal/safety-and-security#civil-disorder).
 
 ## Before you travel
 

@@ -1,11 +1,11 @@
 {
     "name": "South Korea",
-    "update_reason": "Updated information on health screening requirements when arriving in country (\u2018Entry requirements\u2019 page).",
+    "update_reason": "Updated information on health risks you'll face in South Korea (\u2018Health\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/South Korea/Warnings and insurance.md",
-            "update_date": "2025-08-06T15:35:36+01:00"
+            "update_date": "2025-09-08T15:12:17+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/South Korea/Getting help.md"
         }
     ],
-    "update_date": "2025-08-06T15:35:36+01:00"
+    "update_date": "2025-09-08T15:12:17+01:00"
 }
