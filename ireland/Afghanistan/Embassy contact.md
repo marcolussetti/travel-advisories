@@ -14,4 +14,4 @@ Khayaban-e-Suhrwardy Rd
 G-5/1 G-5   
 Islamabad
 
-[Contact us](/en/islamabad/contact/)
+[Contact us](/en/pakistan/islamabad/contact/)
