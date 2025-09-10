@@ -171,15 +171,8 @@ The currency of Italy is the euro (EUR).
 
 Payment in cash is restricted to transactions under €1000.
 
-If you are carrying €10,000 or more, or the equivalent in other currencies, you must make a declaration to customs when you enter or leave the European Union. It includes sums in:
-
-* banknotes and coins
-* bearer negotiable instruments such as cheques, travellers’ cheques, promissory notes and money orders
-* bonds, shares
-* gold coins with a gold content of at least 90 %
-* gold bars, nuggets or clumps with a gold content of at least 99.5 %
-* any other convertible asset
+If you are carrying €10,000 or more, or the equivalent in other currencies or monetary instruments, you must make a declaration to customs when you enter or leave the European Union.
 
 This does not apply if you are travelling within the European Union or in transit to a non-EU country.
 
-[EU cash controls](https://ec.europa.eu/taxation_customs/business/customs-controls/eu-cash-controls_en) - European Commission
+[EU Cash Controls](https://taxation-customs.ec.europa.eu/customs/prohibitions-restrictions/eu-cash-controls_en) – European Commission

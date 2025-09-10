@@ -2,6 +2,16 @@
 
 ## Safety and security
 
+### Air strike in Doha
+
+On September 9, 2025, an air strike occurred in the West Bay of Doha.
+
+Local emergency services are on-site and have cordoned off the area.
+
+* Stay away from the affected area
+* Follow the instructions of local authorities, including evacuation and shelter-in-place orders
+* Monitor local and international media to stay informed of the situation
+
 ### Tensions in the Middle East
 
 The security situation remains unpredictable and could deteriorate significantly with little or no warning.

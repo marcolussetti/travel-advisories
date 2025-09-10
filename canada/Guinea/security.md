@@ -4,7 +4,7 @@
 
 ### Demonstrations
 
-Demonstrations are scheduled to take place in Guinea on September 5, 2025. Gatherings and demonstrations may also occur before or after this date.
+Political tensions are high ahead of the constitutional referendum scheduled for September 21, 2025. Gatherings and demonstrations may occur before, during or after this date.
 
 Even peaceful demonstrations can turn violent at any time. They can also lead to disruption to traffic and public transportation. Telecommunications and Internet access may also be disrupted.
 
@@ -13,7 +13,6 @@ Authorities may impose curfews and restrict movement without notice.
 If you are in Guinea:
 
 * stay away from demonstrations
-* avoid areas around government buildings
 * expect heavy security measures and increased security presence
 * monitor local media for the latest information
 * follow the instructions of local authorities, including curfew orders

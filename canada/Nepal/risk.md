@@ -2,6 +2,8 @@
 
 ## Risk level
 
-### Nepal - Exercise a high degree of caution
+### NEPAL - AVOID NON-ESSENTIAL TRAVEL
 
-[Exercise a high degree of caution](#levels "Risk Levels") in Nepal due to the fragile political and security situation.
+[Avoid non-essential travel](#levels "Risk Levels") to Nepal due to civil unrest, violence, and the fragile political and security situation.
+
+The security situation can deteriorate without warning. Our ability to provide consular assistance is limited in Nepal.

@@ -1,7 +1,7 @@
 {
     "name": "Austria",
-    "update_reason": "Entry and exit requirements \u2013 added information on the Entry/Exit System (EES)",
-    "update_date": "2025-09-05T14:28:00",
+    "update_reason": "Editorial change",
+    "update_date": "2025-09-09T16:27:00",
     "sections": {
         "risk": "canada/Austria/risk.md",
         "security": "canada/Austria/security.md",
