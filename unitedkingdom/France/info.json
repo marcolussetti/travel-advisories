@@ -1,11 +1,11 @@
 {
     "name": "France",
-    "update_reason": "Updated with a link to information about using a UK issued Blue Badge in France (\u2018Safety and security\u2019 page).",
+    "update_reason": "Information added about strikes and demonstrations due to take place across France on Wednesday 10 September and Thursday 18 September ('Warnings and insuarnce' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/France/Warnings and insurance.md",
-            "update_date": "2025-08-12T15:59:12+01:00"
+            "update_date": "2025-09-09T16:51:16+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/France/Getting help.md"
         }
     ],
-    "update_date": "2025-08-12T15:59:12+01:00"
+    "update_date": "2025-09-09T16:51:16+01:00"
 }

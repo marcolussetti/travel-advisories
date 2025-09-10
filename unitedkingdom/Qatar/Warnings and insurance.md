@@ -1,13 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   28 June 2025
+:   10 September 2025
 
 Updated:
-:   27 June 2025
+:   9 September 2025
 
 Latest update:
-:   Updated information about regional risks (see “Warnings and Insurance” page)
+:   Update following explosions in Doha on 9 September ('Warnings and insurance' page).
+
+## Explosions in Doha
+
+On 9 September, explosions occurred in the Lusail area in Doha. The FCDO is in contact with the local authorities. Follow the advice of the local authorities.
 
 ## Regional risks
 

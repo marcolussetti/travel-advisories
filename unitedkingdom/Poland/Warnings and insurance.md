@@ -1,13 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   8 August 2025
+:   10 September 2025
 
 Updated:
-:   7 August 2025
+:   10 September 2025
 
 Latest update:
-:   Updated with a link to information about using a UK issued Blue Badge in Poland (‘Safety and security’ page).
+:   Information about temporary closure of Poland's airspace (‘Warnings and Insurance’ page).
+
+## Polish Airspace
+
+Poland’s airspace has been closed temporarily. There are no flights in or out of Poland. Follow official Polish government announcements and updates from airlines.
 
 ## Ukraine-Poland border
 

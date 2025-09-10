@@ -1,13 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   13 August 2025
+:   10 September 2025
 
 Updated:
-:   12 August 2025
+:   9 September 2025
 
 Latest update:
-:   Updated with a link to information about using a UK issued Blue Badge in France (‘Safety and security’ page).
+:   Information added about strikes and demonstrations due to take place across France on Wednesday 10 September and Thursday 18 September ('Warnings and insuarnce' page).
+
+## Strikes and demonstrations
+
+Calls for strikes and demonstrations across France on Wednesday 10 September and Thursday 18 September could make disruption more likely. Monitor local news and check with your travel provider regarding potential delays.
 
 ## Before you travel
 

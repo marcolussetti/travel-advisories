@@ -1,17 +1,23 @@
 # Warnings and insurance
 
 Still current at:
-:   9 September 2025
+:   10 September 2025
 
 Updated:
-:   8 September 2025
+:   9 September 2025
 
 Latest update:
-:   Addition of information about violent protests after Nepal introduced a ban affecting a wide range of commonly used social media and messaging platforms. This is impacting communications within the country. Curfews have also been introduced in several cities ('Warnings and insurance' page).
+:   Updated information about violent protests in Nepal. While the ban on many social media and messaging platforms appears to have been lifted, there is still potential for communications to be disrupted. Curfews have been introduced in several cities and there is disruption to flights at Kathmandu’s airport ('Warnings and insurance' page).
 
-## Protests against social media ban
+## Protests
 
-Nepal has introduced a ban affecting a wide range of commonly used social media and messaging platforms. This is impacting communications within the country, expect disruption to services. As a result of the ban there have also been protests in Kathmandu and elsewhere. There have been violent clashes and a number of deaths. Curfews have been introduced in several cities. Avoid protests, check local media for updates, and follow direction of the authorities. See [‘civil disorder’ on the ‘Safety and security’ page](https://www.gov.uk/foreign-travel-advice/nepal/safety-and-security#civil-disorder).
+Protests are taking place in Kathmandu and elsewhere across the country. There have been violent clashes, with lethal force used by the police. This has led to a number of deaths and injuries. Curfews have been introduced in several cities, including Kathmandu and Pokhara. Avoid protests, check local media for updates, and follow direction of the authorities. See [‘civil disorder’ on the ‘Safety and security’ page](https://www.gov.uk/foreign-travel-advice/nepal/safety-and-security#civil-disorder).
+
+Kathmandu airport has also been disrupted, impacting domestic and international flights. Contact your airline, hotel and tour operator for up-to-date information before travel. Tourists should be able to move around and travel to and from airports with proof of travel plans.
+
+While the social media ban has been lifted, expect continued disruption to services.
+
+Read the FCDO’s advice on [if you’re affected by a crisis abroad](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas).
 
 ## Before you travel
 

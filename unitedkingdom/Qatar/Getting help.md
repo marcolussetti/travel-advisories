@@ -26,7 +26,7 @@ FCDO has guidance on staying safe and what to do if you need help or support abr
 * finding English-speaking [lawyers](https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find?serviceType=lawyers&country=qatar), [funeral directors](https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/funeral-directors?country=qatar) and [translators and interpreters in Qatar](https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/translators-interpreters?country=Qatar)
 * dealing with a [death in Qatar](https://www.gov.uk/government/publications/coping-with-death-abroad-qatar)
 * being [arrested in Qatar](https://www.gov.uk/government/publications/qatar-prisoner-pack)
-* getting help if you’re a  [victim of crime](https://www.gov.uk/victim-crime-abroad)
+* getting help if you’re a  [victim of crime](https://www.gov.uk/guidance/victim-of-crime-abroad)
 * what to do if you’re in [hospital](https://www.gov.uk/guidance/in-hospital-abroad)
 * if you are [affected by a crisis](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas), such as a terrorist attack
 
