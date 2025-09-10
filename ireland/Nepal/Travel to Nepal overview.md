@@ -4,6 +4,14 @@
 
 High Degree of Caution
 
+### **Travel Alert**
+
+Following restrictions placed by the Government on social media and messaging platforms, protests have broken out in Kathmandu led primarily by young people calling themselves ‘Gen Z’. This has resulted in violent clashes and fatalities. Curfews have been implemented and may continue. Irish citizens are advised to avoid public demonstrations, exercise caution in public places, stay alert, monitor local news reports and follow the advice of local authorities.
+
+There may be flight disruptions. Travellers should contact their airline for up to date information.
+
+Citizens should also be aware of disruption to some communications within the country due to the restrictions on certain apps and platforms.
+
 ### **General Travel Advice**
 
 Irish citizens require a visa to enter Nepal.
@@ -38,4 +46,4 @@ Specific emergency numbers in Nepal are:
 * Read our [**‘Know Before You Go’**](https://www.ireland.ie/en/dfa/overseas-travel/know-before-you-go/) guide.
 * Read our [**Consular Assistance Charter**](https://www.ireland.ie/en/dfa/overseas-travel/assistance-abroad/consular-assistance-charter/) that clearly sets out the assistance that can be provided to citizens in difficulty overseas, and the limits of what the Department can do.
 
-As  there is no Irish Embassy or Consulate in Nepal, we are limited in the help we can offer you in an emergency. However, if you need assistance, you can contact the [**Irish Embassy in New Delhi**](/en/india/newdelhi/).
+As there is no Irish Embassy or Consulate in Nepal, we are limited in the help we can offer you in an emergency. However, if you need assistance, you can contact the [**Irish Embassy in New Delhi**](/en/india/newdelhi/).

@@ -8,9 +8,9 @@ Illegal drug use (no matter what the drug) carries stiff penalties, including fi
 
 ### **Photo Identification**
 
-Visitors to Belgium must at all times be able to produce photo identification.
+Under Belgian law, you must carry state-issued photo ID at all times. This law applies to both residents and non-residents. Failure to produce appropriate identification when requested by Police is viewed as a serious matter by Belgian authorities and can result in being detained until your identity and nationality is confirmed.
 
-The [**Passport Card**](https://www.ireland.ie/en/dfa/passports/passport-card/) is available to all Irish citizens who hold a valid Irish Passport. It can be used for travel within the EU/EEA and Switzerland.
+For Irish citizens, acceptable forms of state-issued photo ID include an Irish passport or Passport Card. To avoid the inconvenience, and risk of loss/theft of your Irish passport book, we advise our citizens to obtain a Passport Card, which can be easily carried in your wallet or purse. Please find further information on how to apply for a Passport Card on the [Passport Service website](https://www.ireland.ie/en/dfa/passports/passport-card/). The Irish Public Services Card is generally not an acceptable form of identification to Belgian authorities. Irish citizens residing in Belgium must carry their residence permit at all times.
 
 ### **Travelling with Children**
 
