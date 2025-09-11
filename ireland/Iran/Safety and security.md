@@ -1,5 +1,7 @@
 ## Safety and security
 
+**The Department of Foreign Affairs and Trade continues to advise against all travel to Iran for Irish citizens. The specific advice below may be relevant to citizens who are already in the country.**
+
 ### **Unrest**
 
 Irish citizens are strongly advised to avoid any street gatherings or demonstrations while in Iran and to avoid taking photographs, showing an interest in demonstrations, or flying drones, as such behaviour can result in arrest and detention by the security forces. We recommend you exercise caution and monitor local media reporting for up to date advice on security risks.
@@ -23,7 +25,7 @@ Travellers have occasionally been victims of theft while in Iran so take sensibl
 
 ### **Reporting Crime**
 
-If a victim of a crime while in Iran, report it to the local police immediately. Contact the Honorary Consul in Tehran or Department of Foreign Affairs and Trade in Dublin at +353 1 408 2000.
+If a victim of a crime while in Iran, report it to the local police immediately. You can also contact the Embassy of Ireland in Tehran using the emergency contact details below.
 
 ### **Driving**
 

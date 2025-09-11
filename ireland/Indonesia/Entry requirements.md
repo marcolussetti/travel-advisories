@@ -2,63 +2,19 @@
 
 ### **Visa**
 
-The electronic Visa on Arrival (VoA) is available to Irish citizens travelling to Indonesia.
+The electronic Visa on Arrival (e-VoA) is available to Irish citizens travelling to Indonesia. You can apply for this using the [**All Indonesia platform**.](https://allindonesia.imigrasi.go.id/)
 
-To avail of Visa on Arrival you can only enter Indonesia only through 19 designated Immigration Border Control points (see below).
+Alternatively, you can apply for a Visa on Arrival (VoA) in person upon your arrival to your port of entry in Indonesia. You can only make the in-person applications at designated Immigration Border Control points.
 
-Irish citizens must show a valid passport with at least 6 months validity from the date of their departure from Indonesia, a return ticket or connecting ticket to continue traveling to another country and evidence of travel insurance (which must cover COVID-19 related treatments). The VoA fee is Rp. 500,000 and can be paid upon arrival at a designed Immigration Border Control point. The stay permit can be extended once for 30 days for an additional Rp. 500,000. Visa holders can apply for an extension at their nearest immigration office.
+The Visa on Arrival fee is IDR 500,000 and can be paid upon arrival at a designed Immigration Border Control point. The visa can be extended once for 30 days for an additional IDR 500,000. Visa holders can apply for an extension at their nearest immigration office.
 
-VoA cannot be transferred into another stay permit. The holder is also not eligible to apply for an onshore visa.
+A Visa on Arrival cannot be changed into another type of stay permit. The holder is also not eligible to apply for an onshore visa.
 
-For more details on the VoA scheme please visit the website of the [**Embassy of Indonesia in London**](https://kemlu.go.id/london/id/news/18631/visa-on-arrival-voa-untuk-pelaku-perjalanan-luar-negeri).
+For more details on the VoA scheme please visit the website of the [**Embassy of Indonesia in London**](https://consular.indonesianembassy.org.uk/faq/)**.**
+
+Irish citizens must show a valid passport with at least 6 months validity from the date of their departure from Indonesia, a return ticket or connecting ticket to continue traveling to another country and evidence of travel insurance.
 
 An International Tourist Levy applies to all international travellers **to Bali only.** This will require a one-time payment on arrival in Bali of IDR 150,000 in addition to any visa payment required. This levy must also be paid by international travellers arriving in Bali from another location within Indonesia. Information on requirements and how to pay the Tourist Levy can be found [**here**](https://lovebali.baliprov.go.id/faq).
-
-**Immigration Border Control points (TPI) designated as entry points for VoA and Visa Exemption arrangements:**
-
-**Airports**
-
-– Soekarno Hatta, Jakarta,
-
-– Ngurah Rai, Bali,
-
-- Kualanamu, North Sumatera,
-
-- Juanda, East Java
-
-- Hasanuddin, South Sulawesi
-
-- Sam Ratulangi, North Sulawesi, and
-
-- Yogyakarta, Yogyakarta
-
-**Seaports**
-
-– Nongsa Terminal Bahari, Riau Islands,
-
-– Batam Centre, Riau Islands,
-
-– Sekupang, Riau Islands,
-
-– Citra Tri Tunas, Riau Islands,
-
-– Marina Teluk Senimba, Riau Islands,
-
-– Bandar Bentan Telani Lagoi, Riau Islands,
-
-– Bandar Seri Udana Lobam, Riau Islands, and
-
-– Sri Bintan Pura, Riau Islands.
-
-**Border-crossing Posts**
-
-– Entikong, West Kalimantan,
-
-– Aruk, West Kalimantan,
-
-– Mota’ain, East Nusa Tenggara, and
-
-– Tunon Taka, Kalimantan
 
 If unsure of the entry/exit requirements for Indonesia, including visa and other immigration information, ask your travel agent or contact the nearest [**Embassy or Consulate**](https://kemlu.go.id/portal/en/page/29/kedutaan_konsulat) of Indonesia
 

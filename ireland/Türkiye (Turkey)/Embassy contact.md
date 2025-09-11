@@ -33,11 +33,11 @@ Fax: +90 242 243 0613
 
 ### Honorary Consul of Ireland, Izmir
 
-Mr Bulent Akgerman   
-Sheit Fethi Bey cad. No.55k.   
-18 Heris Tower Pasaport 35210   
-Izmir   
-Türkiye
+Mr Bülent Akgerman   
+Akdeniz Mah.   
+Şehit Fethi Bey cad. No 55   
+Heris Tower Floor 18   
+35210 Konak/ Izmir
 
 [Tel: +90 232 402 5353](tel:+90232 402 5353)
 

@@ -1,5 +1,7 @@
 ## Entry requirements
 
+**The Department of Foreign Affairs and Trade continues to advise against all travel to Iran for Irish citizens. The specific advice below may be relvant to citizens who are already in the country.**
+
 ### **Visa**
 
 Irish citizens require a visa to enter Iran.

@@ -4,7 +4,7 @@
 
 Iran has a variable climate ranging from arid or semi-arid, to subtropical along the Caspian coast and the northern forests.
 
-Summers can be extremely hot; take care to prepare yourself for extreme heat if travelling in Iran, particularly in July and August.
+Summers can be extremely hot; take care to prepare yourself for extreme heat if travelling in Iran, particularly during July and August.
 
 Some regions have heavy snowfall during winter.
 

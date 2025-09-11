@@ -1,5 +1,9 @@
 ## Safety and security
 
+### **Civil Unrest**
+
+Public demonstrations have been occurring in several regions across Indonesia, including Jakarta and Bali, and have turned violent in certain instances. Further demonstrations are expected to take place, and have the potential to turn violent. Any Irish citizens in Indonesia should exercise a high degree of caution and closely follow the instructions of the local authorities. Citizens are strongly encouraged to register with the Embassy at the following link: [**Citizen Registration - Department of Foreign Affairs and Trade**](https://citizensregistration.dfa.ie/)**.**
+
 ### **Terrorism**
 
 There is a significant threat of terrorism in Indonesia. Terrorist groups have the capacity and intent to carry out attacks at any time and anywhere in the country. Attacks could be indiscriminate, including in places where large groups of people gather or which are known to be frequented by expatriates and foreign travellers: beach resorts, bars and restaurants, hotels and shopping malls hosting major international brand outlets, tourist attractions, places of worship, ferry terminals and airports. Attacks may also target Indonesian Government and law enforcement bodies.

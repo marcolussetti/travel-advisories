@@ -1,5 +1,7 @@
 ## Local laws and customs
 
+**The Department of Foreign Affairs and Trade continues to advise against all travel to Iran for Irish citizens. The specific advice below may be relevant to citizens who are already in the country.**
+
 Remember, the local laws apply to you as a visitor and it is your responsibility to follow them. Be sensitive to local customs, traditions and practices as your behaviour may be seen as improper, hostile or may even be illegal.
 
 ### **Advice for all Visitors**
@@ -10,7 +12,7 @@ People travelling on tourist visas should strictly adhere to the conditions of t
 
 Drug use (no matter what the drug) carries stiff penalties, including fines, long prison terms, and the death penalty.
 
-Alcohol is illegal in Iran. Alcoholic drinks in Iran are unregulated and mostly homemade. Methanol poisoning occurs from time to time, resulting in serious injuries and death.
+Alcohol is illegal in Iran. Alcoholic drinks available in Iran are unregulated and mostly homemade. Methanol poisoning occurs from time to time, resulting in serious injuries and death.
 
 ### **Illegal Products**
 
@@ -38,7 +40,7 @@ Same-sex relations for both men and women are illegal in Iran and subject to pun
 
 ### **Photography**
 
-Photography or the flying of drones near military, government installations and many other areas are strictly prohibited. Any transgression may result in detention and serious criminal charges. Be aware that sensitive government buildings and facilities may be hard to identify so take extreme care when taking photographs in any areas that are anything other than very obvious tourist attractions.
+Photography or the flying of drones near military, government installations and many other areas are strictly prohibited. Any transgression may result in detention and serious criminal charges. Be aware that sensitive government buildings and facilities may be hard to identify so take extreme care if taking photographs or videos in any areas that are anything other than very obvious tourist attractions.
 
 ### **Social Media**
 

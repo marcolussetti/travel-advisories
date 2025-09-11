@@ -4,29 +4,27 @@
 
 High Degree of Caution
 
-### **Latest Travel Alert**
-
-Public demonstrations have been occurring in several regions across Indonesia, including Jakarta and Bali. Tensions have been reported in certain areas including clashes between demonstrators and security forces. Further demonstrations are expected to take place, and have the potential to turn violent. Any Irish citizens in Indonesia should exercise a high degree of caution and closely follow the instructions of the local authorities. Citizens are strongly encouraged to register with the Embassy at the following link: [Citizen Registration - Department of Foreign Affairs and Trade](https://citizensregistration.dfa.ie/).
-
 ### **General Travel Advice**
 
-Irish citizens require a visa to enter Indonesia. Travellers to Indonesia can apply for an electronic Visa on Arrival (VoA) at a cost of IDR 500,000.
+Travellers to Indonesia must have a passport with a **minimum validity of six months beyond date of departure, there are no exceptions to this regulation.**
 
-The VoA can be obtained [**online.**](https://evisa.imigrasi.go.id./)
+Travellers should ensure that their **passports are not damaged** **in any way, as otherwise they can be refused admission at the port of entry.**
 
-The VoA is a single-entry visa which is valid for 30 days in Indonesia with the purpose of tourism, business meetings, goods purchasing, or transit.
+It is strongly advised to get comprehensive travel insurance that covers all planned activities.
 
-The VoA can be extended once (by an additional 30 days maximum) by applying to a local Indonesian immigration office. Travellers should extend their visa within the initial 30 days to avoid a visa overstay fine. Holders of any travel document other than a passport are not eligible to apply for the VoA. A full list of the types of visas travellers can obtain for Indonesia and the requirements for these is on the official [**Indonesian immigration website**](https://www.imigrasi.go.id/en/).
+Indonesia has introduced a single digital entry form called [**All Indonesia**](https://allindonesia.imigrasi.go.id/). It combines immigration, customs, and health declarations into one online process, replacing separate forms. Upon completion of the process, you are required to present the generated QR code to both the Immigration and Customs checkpoints at the airport.
+
+Irish citizens require a visa to enter Indonesia. Travellers to Indonesia can apply for an [**Electronic Visa on Arrival (e-VOA)**](https://evisa.imigrasi.go.id/) at a cost of IDR 500,000. You can apply for this using the [**All Indonesia platform**.](https://allindonesia.imigrasi.go.id/)
+
+The e-VoA is a single-entry visa which is valid for 30 days in Indonesia with the purpose of tourism, business meetings, goods purchasing, or transit.
+
+The e-VoA can be extended once (by an additional 30 days maximum) by applying to a local Indonesian immigration office. Travellers should extend their visa within the initial 30 days to avoid a visa overstay fine. Holders of any travel document other than a passport are not eligible to apply for the e-VoA. A full list of the types of visas travellers can obtain for Indonesia and the requirements for these is on the official [**Indonesian immigration website**](https://www.imigrasi.go.id/en/).
 
 An International Tourist Levy applies to all international travellers **to Bali only.** This will require a one-time payment on arrival in Bali of IDR 150,000 in addition to any visa payment required. This levy must also be paid by international travellers arriving in Bali from another location within Indonesia. Information on requirements and how to pay the Tourist Levy can be found [**here**](https://lovebali.baliprov.go.id/faq).
 
-Travellers to Indonesia must complete an electronic Customs Declaration. This must be completed at [**this link**](https://ecd.beacukai.go.id/)**,** a maximum of 3 days before your arrival. There may also be a QR code available in your port of entry which you can use to complete the declaration online.
+Travellers to Indonesia must complete an electronic Customs Declaration. This must be completed at [**this link**](https://ecd.beacukai.go.id/) or using the [**All Indonesia platform**](https://allindonesia.imigrasi.go.id/)**,** a maximum of 3 days before your arrival. There may also be a QR code available in your port of entry which you can use to complete the declaration online.
 
 In response to the spread of Monkeypox, Indonesia has introduced a [**Health Pass form**](https://sshp.kemkes.go.id/register) which all travellers must complete.
-
-Travellers to Indonesia must have a passport with a **minimum validity of six months beyond date of departure.**
-
-Travellers should ensure that their **passports are not damaged** **in any way, as otherwise they can be refused admission at the port of entry.**
 
 Public demonstrations can occasionally occur in Indonesian cities, and have the potential to turn violent. Travellers are advised to avoid large crowds and demonstrations, and to keep informed of any updates with local media.
 

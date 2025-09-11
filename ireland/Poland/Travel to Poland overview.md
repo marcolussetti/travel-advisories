@@ -6,6 +6,12 @@ Normal Precautions
 
 ### **Travel Alert**
 
+**Drones**
+
+**On 10 September, there were incursions of drones onto Polish territory. Please follow the advice of the Polish authorities.**
+
+#### **Ukraine**
+
 The Department of Foreign Affairs and Trade is closely monitoring the situation in Ukraine together with our EU and other international partners. **The Department strongly advises against all travel to Ukraine, for any purpose.** More information can be found [**here**](https://www.ireland.ie/en/dfa/overseas-travel/advice/ukraine/).
 
 If you have crossed into Poland from Ukraine and are in need of assistance, please contact the Embassy of Ireland in Warsaw [**here.**](https://www.ireland.ie/en/poland/warsaw/)
