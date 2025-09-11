@@ -1,11 +1,11 @@
 {
     "name": "Ethiopia",
-    "update_reason": "FCDO now advises against all travel to south and west of the A3 road in North Shewa zone, including the A3 road itself in North Shewa, and to within 10km of the borders with South Sudan and Kenya, including the shores of Lake Turkana. FCDO now advises against all but essential travel all of East Shewa zone (except the Addis Ababa to Adama Expressway and 10km either side of the expressway between Addis Ababa and Bishoftu and the Addis Ababa to Hawassa Expressway) and West Guji and Guji zones (except the Hawassa to Mega road); updated information on conflict and violence (\u2018Warnings and insurance\u2019 and \u2018Safety and security\u2019 pages).",
+    "update_reason": "Updated information about overstaying your visa (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Ethiopia/Warnings and insurance.md",
-            "update_date": "2025-08-01T23:09:47+01:00"
+            "update_date": "2025-09-10T12:41:35+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Ethiopia/Getting help.md"
         }
     ],
-    "update_date": "2025-08-01T23:09:47+01:00"
+    "update_date": "2025-09-10T12:41:35+01:00"
 }

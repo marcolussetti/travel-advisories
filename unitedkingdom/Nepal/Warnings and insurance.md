@@ -1,21 +1,21 @@
 # Warnings and insurance
 
 Still current at:
-:   10 September 2025
+:   11 September 2025
 
 Updated:
-:   9 September 2025
+:   10 September 2025
 
 Latest update:
-:   Updated information about violent protests in Nepal. While the ban on many social media and messaging platforms appears to have been lifted, there is still potential for communications to be disrupted. Curfews have been introduced in several cities and there is disruption to flights at Kathmandu’s airport ('Warnings and insurance' page).
+:   Latest information about restrictions in Nepal following violent protests. A ban on social media has been lifted, but there is still potential for communications to be disrupted. Kathmandu airport reopened on 10 September and curfews continue in several cities ('Warnings and insurance' page).
 
 ## Protests
 
-Protests are taking place in Kathmandu and elsewhere across the country. There have been violent clashes, with lethal force used by the police. This has led to a number of deaths and injuries. Curfews have been introduced in several cities, including Kathmandu and Pokhara. Avoid protests, check local media for updates, and follow direction of the authorities. See [‘civil disorder’ on the ‘Safety and security’ page](https://www.gov.uk/foreign-travel-advice/nepal/safety-and-security#civil-disorder).
+Protests and incidents of violence that have led to a number of deaths and injuries have taken place in Kathmandu and elsewhere across the country since 8 September. Curfews have been introduced in several cities, including Kathmandu and Pokhara. Avoid protests, check local media for updates, and follow the directions of the authorities. See [‘civil disorder’ on the ‘Safety and security’ page](https://www.gov.uk/foreign-travel-advice/nepal/safety-and-security#civil-disorder).
 
-Kathmandu airport has also been disrupted, impacting domestic and international flights. Contact your airline, hotel and tour operator for up-to-date information before travel. Tourists should be able to move around and travel to and from airports with proof of travel plans.
+Kathmandu airport re-opened on 10 September but the resumption of flights may take time. Continued delays and disruption are possible. Contact your airline, hotel and tour operator for up-to-date information and to confirm any flight arrangements or logistics to get to the airport before you attempt to travel.
 
-While the social media ban has been lifted, expect continued disruption to services.
+While the social media ban has been lifted, expect continued disruption to services, including internet and mobile data.
 
 Read the FCDO’s advice on [if you’re affected by a crisis abroad](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas).
 

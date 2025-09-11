@@ -24,6 +24,8 @@ If you’re in Georgia for more than 183 days and do any paid employment, you’
 
 A small number of British citizens have either been denied entry to Georgia or had trouble leaving. These cases appear to be linked to alleged presence at or participation in political demonstrations, and unpaid fines.
 
+Some families have reported being denied entry to Georgia due to their child’s passport photo no longer matching their current appearance.
+
 ## Travel insurance
 
 All visitors to Georgia must have appropriate travel insurance to cover all healthcare needs during their visit. You may be asked for evidence of this, either by your airline at check-in or by immigration authorities when you arrive in Georgia. You may face difficulties if you do not have this evidence.

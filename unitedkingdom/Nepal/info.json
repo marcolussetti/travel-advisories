@@ -1,11 +1,11 @@
 {
     "name": "Nepal",
-    "update_reason": "Updated information about violent protests in Nepal. While the ban on many social media and messaging platforms appears to have been lifted, there is still potential for communications to be disrupted. Curfews have been introduced in several cities and there is disruption to flights at Kathmandu\u2019s airport ('Warnings and insurance' page).",
+    "update_reason": "Latest information about restrictions in Nepal following violent protests. A ban on social media has been lifted, but there is still potential for communications to be disrupted. Kathmandu airport reopened on 10 September and curfews continue in several cities ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Nepal/Warnings and insurance.md",
-            "update_date": "2025-09-09T14:24:25+01:00"
+            "update_date": "2025-09-10T16:40:02+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Nepal/Getting help.md"
         }
     ],
-    "update_date": "2025-09-09T14:24:25+01:00"
+    "update_date": "2025-09-10T16:40:02+01:00"
 }

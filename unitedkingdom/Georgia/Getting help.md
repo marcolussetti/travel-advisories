@@ -26,7 +26,7 @@ FCDO has guidance on staying safe and what to do if you need help or support abr
 * finding English-speaking [lawyers](https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/lawyers?country=Georgia), [funeral directors](https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/funeral-directors?country=Georgia) and [translators and interpreters](https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/translators-interpreters?country=Georgia) in Georgia
 * dealing with a [death in Georgia](/government/publications/georgia-bereavement-pack-information)
 * being [arrested or imprisoned in Georgia](/government/publications/georgia-prisoner-pack)
-* getting help if you’re a [victim of crime](/victim-crime-abroad)
+* getting help if you’re a [victim of crime](https://www.gov.uk/guidance/victim-of-crime-abroad)
 * what to do if you’re [in hospital](/guidance/in-hospital-abroad)
 * if you’re [affected by a crisis](/guidance/how-to-deal-with-a-crisis-overseas), such as a terrorist attack
 

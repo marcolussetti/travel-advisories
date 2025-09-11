@@ -1,11 +1,11 @@
 {
     "name": "Georgia",
-    "update_reason": "Addition of information about drink spiking and updated information on political situation and crime ('Safety and security' page).",
+    "update_reason": "New information on entering and leaving Georgia ('Entry requirements' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Georgia/Warnings and insurance.md",
-            "update_date": "2025-08-21T12:06:43+01:00"
+            "update_date": "2025-09-10T09:50:39+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Georgia/Getting help.md"
         }
     ],
-    "update_date": "2025-08-21T12:06:43+01:00"
+    "update_date": "2025-09-10T09:50:39+01:00"
 }

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   22 August 2025
+:   11 September 2025
 
 Updated:
-:   21 August 2025
+:   10 September 2025
 
 Latest update:
-:   Addition of information about drink spiking and updated information on political situation and crime ('Safety and security' page).
+:   New information on entering and leaving Georgia ('Entry requirements' page).
 
 ![](https://assets.publishing.service.gov.uk/media/6164003ce90e07197c0c2a1f/FCDO__TA__018_-_Georgia_Travel_Advice_Ed2__WEB_.jpg)
 

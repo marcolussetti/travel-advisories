@@ -29,7 +29,7 @@ If you visit Ethiopia on a tourist visa, you cannot take employment, including v
 
 You can apply for an official extension of 30 or 90 more days before your visa expires. You need to go in person to the Head Office of the Immigration and Citizenship Service in Addis Ababa.
 
-Leave the country before your visa or your extension expires. The penalty for overstaying is 10 US dollars a day. You will not be allowed to leave until you pay in full.
+Leave the country before your visa or your extension expires. The penalty for overstaying is 30 US dollars a day. You will not be allowed to leave until you pay in full.
 
 ## Vaccine requirements
 
