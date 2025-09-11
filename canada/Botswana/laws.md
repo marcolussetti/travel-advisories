@@ -97,6 +97,8 @@ The legal blood alcohol limit is 0.05%.
 
 Botswanan law does not criminalize sexual acts and relationships between individuals of the same sex. However, homosexuality is not widely accepted in Botswana.
 
+[More on safety and security risks for 2SLGBTQI+ persons](#LGBT)
+
 [Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
 
 ### Money

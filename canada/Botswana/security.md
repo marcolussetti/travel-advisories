@@ -49,6 +49,8 @@ Although rare, demonstrations may occur, especially in Gaborone and around elect
 
 2SLGBTQI+ persons could be discriminated against based on their sexual orientation, gender identity, gender expression, or sex characteristics.
 
+[More on laws affecting 2SLGBTQI+ persons](#LGBTLAWS)
+
 [Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
 
 ### National parks and wildlife

@@ -65,7 +65,10 @@ Belizean law does not prohibit sexual acts between individuals of the same sex. 
 
 2SLGBTQI+ persons should carefully consider the risks of travelling to Belize.
 
-[Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
+#### Useful links
+
+* [More on safety and security risks for 2SLGBTQI+ persons](https://travel.gc.ca/destinations/belize#LGBT)
+* [Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
 
 ### Dual citizenship
 

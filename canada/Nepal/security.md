@@ -4,16 +4,18 @@
 
 ### Demonstrations in Nepal
 
-Following violent clashes during demonstrations on September 8, 2025, local authorities imposed curfews in several districts of the Kathmandu Valley. Clashes between demonstrators and security forces have resulted in hundreds of casualties, including several deaths. The situation remains volatile. Further curfews may be implemented with little notice.
+Following violent clashes during demonstrations on September 8, 2025, local authorities imposed curfews in several districts of the Kathmandu Valley. Clashes between demonstrators and security forces have resulted in hundreds of casualties, including several deaths. The situation remains volatile.
+
+A curfew is in effect in Kathmandu. Further curfews may be implemented with little notice.
 
 Demonstrations began in response to local authorities' ban on a wide range of social media and messaging platforms. Access to certain social media platforms could be disrupted.
 
-Domestic and international flights are suspended until further notice.
+Domestic and international flights have resumed but you should confirm your flight status with your travel agent or airline. Only travel to the airport if you can do so safely.
 
-If you are in Nepal:
+If you are in Kathmandu:
 
-* stay away from demonstrations
-* avoid areas around government buildings, especially near the Nepali Parliament
+* limit your movements
+* avoid demonstrations and areas around government buildings, especially near the Nepali Parliament
 * expect heavy security measures and an increased security presence
 * monitor local media for the latest information
 * follow the instructions of local authorities, including curfew orders

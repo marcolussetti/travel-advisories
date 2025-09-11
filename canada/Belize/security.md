@@ -90,11 +90,14 @@ Women travelling alone may be subject to some forms of harassment and verbal abu
 
 ### 2SLGBTQI+ persons
 
-LGBTQ2 persons have experienced harassment and verbal or physical abuse.
+2SLGBTQI+ persons have experienced harassment and verbal or physical abuse.
 
 Avoid public displays of affection.
 
-[Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
+#### Useful links
+
+* [More on laws affecting 2SLGBTQI+ persons](http://travel.gc.ca/destinations/belize#LGBTPLUS)
+* [Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
 
 ### Demonstrations
 
