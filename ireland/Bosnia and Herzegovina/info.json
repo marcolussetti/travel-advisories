@@ -1,7 +1,11 @@
 {
     "name": "Bosnia and Herzegovina",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Bosnia and Herzegovina/Misc.md"
+        },
         {
             "title": "Travel to Bosnia and Herzegovina overview",
             "file": "ireland/Bosnia and Herzegovina/Travel to Bosnia and Herzegovina overview.md"

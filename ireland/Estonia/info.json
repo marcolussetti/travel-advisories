@@ -1,7 +1,11 @@
 {
     "name": "Estonia",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Estonia/Misc.md"
+        },
         {
             "title": "Travel to Estonia overview",
             "file": "ireland/Estonia/Travel to Estonia overview.md"

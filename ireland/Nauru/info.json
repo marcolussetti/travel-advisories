@@ -1,7 +1,11 @@
 {
     "name": "Nauru",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Nauru/Misc.md"
+        },
         {
             "title": "Travel to Nauru overview",
             "file": "ireland/Nauru/Travel to Nauru overview.md"

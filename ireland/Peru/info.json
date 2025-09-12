@@ -1,7 +1,11 @@
 {
     "name": "Peru",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Peru/Misc.md"
+        },
         {
             "title": "Travel to Peru overview",
             "file": "ireland/Peru/Travel to Peru overview.md"

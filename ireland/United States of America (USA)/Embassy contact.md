@@ -154,7 +154,7 @@ NY 14202
 ### Honorary Consul of Ireland, Charlotte (North Carolina)
 
 Robert John Young   
-5925 Carnegie Boulevard, Suite 350   
+5955 Carnegie Boulevard, Suite 250   
 Charlotte   
 North Carolina 28209
 

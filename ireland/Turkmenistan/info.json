@@ -1,7 +1,11 @@
 {
     "name": "Turkmenistan",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Turkmenistan/Misc.md"
+        },
         {
             "title": "Travel to Turkmenistan overview",
             "file": "ireland/Turkmenistan/Travel to Turkmenistan overview.md"

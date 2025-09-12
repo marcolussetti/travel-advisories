@@ -1,7 +1,11 @@
 {
     "name": "Korea, Republic of (South Korea)",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Korea, Republic of (South Korea)/Misc.md"
+        },
         {
             "title": "Travel to South Korea overview",
             "file": "ireland/Korea, Republic of (South Korea)/Travel to South Korea overview.md"

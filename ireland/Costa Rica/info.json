@@ -1,7 +1,11 @@
 {
     "name": "Costa Rica",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Costa Rica/Misc.md"
+        },
         {
             "title": "Travel to Costa Rica overview",
             "file": "ireland/Costa Rica/Travel to Costa Rica overview.md"

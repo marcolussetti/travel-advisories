@@ -1,7 +1,11 @@
 {
     "name": "Kuwait",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Kuwait/Misc.md"
+        },
         {
             "title": "Travel to Kuwait overview",
             "file": "ireland/Kuwait/Travel to Kuwait overview.md"

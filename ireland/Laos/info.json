@@ -1,7 +1,11 @@
 {
     "name": "Laos",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Laos/Misc.md"
+        },
         {
             "title": "Travel to Laos overview",
             "file": "ireland/Laos/Travel to Laos overview.md"

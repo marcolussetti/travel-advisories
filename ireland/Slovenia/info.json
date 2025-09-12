@@ -1,7 +1,11 @@
 {
     "name": "Slovenia",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Slovenia/Misc.md"
+        },
         {
             "title": "Travel to Slovenia overview",
             "file": "ireland/Slovenia/Travel to Slovenia overview.md"

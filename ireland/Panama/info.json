@@ -1,7 +1,11 @@
 {
     "name": "Panama",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Panama/Misc.md"
+        },
         {
             "title": "Travel to Panama overview",
             "file": "ireland/Panama/Travel to Panama overview.md"

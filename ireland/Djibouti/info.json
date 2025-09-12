@@ -1,7 +1,11 @@
 {
     "name": "Djibouti",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Djibouti/Misc.md"
+        },
         {
             "title": "Travel to Djibouti overview",
             "file": "ireland/Djibouti/Travel to Djibouti overview.md"

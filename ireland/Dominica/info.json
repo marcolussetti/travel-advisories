@@ -1,7 +1,11 @@
 {
     "name": "Dominica",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Dominica/Misc.md"
+        },
         {
             "title": "Travel to Dominica overview",
             "file": "ireland/Dominica/Travel to Dominica overview.md"

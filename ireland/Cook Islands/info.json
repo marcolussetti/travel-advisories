@@ -1,7 +1,11 @@
 {
     "name": "Cook Islands",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Cook Islands/Misc.md"
+        },
         {
             "title": "Travel to Cook Islands overview",
             "file": "ireland/Cook Islands/Travel to Cook Islands overview.md"

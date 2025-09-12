@@ -1,7 +1,11 @@
 {
     "name": "Uzbekistan",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Uzbekistan/Misc.md"
+        },
         {
             "title": "Travel to Uzbekistan overview",
             "file": "ireland/Uzbekistan/Travel to Uzbekistan overview.md"

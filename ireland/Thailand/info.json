@@ -1,7 +1,11 @@
 {
     "name": "Thailand",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Thailand/Misc.md"
+        },
         {
             "title": "Travel to Thailand overview",
             "file": "ireland/Thailand/Travel to Thailand overview.md"

@@ -1,7 +1,11 @@
 {
     "name": "Liechtenstein",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Liechtenstein/Misc.md"
+        },
         {
             "title": "Travel to Liechtenstein overview",
             "file": "ireland/Liechtenstein/Travel to Liechtenstein overview.md"

@@ -1,7 +1,11 @@
 {
     "name": "Mauritania",
-    "risk_level": "Avoid Non-Essential Travel",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Mauritania/Misc.md"
+        },
         {
             "title": "Travel to Mauritania overview",
             "file": "ireland/Mauritania/Travel to Mauritania overview.md"

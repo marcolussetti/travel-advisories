@@ -1,7 +1,11 @@
 {
     "name": "Saint Kitts and Nevis",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Saint Kitts and Nevis/Misc.md"
+        },
         {
             "title": "Travel to Saint Kitts and Nevis overview",
             "file": "ireland/Saint Kitts and Nevis/Travel to Saint Kitts and Nevis overview.md"

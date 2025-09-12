@@ -1,7 +1,11 @@
 {
     "name": "Samoa",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Samoa/Misc.md"
+        },
         {
             "title": "Travel to Samoa overview",
             "file": "ireland/Samoa/Travel to Samoa overview.md"

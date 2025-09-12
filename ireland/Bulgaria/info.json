@@ -1,7 +1,11 @@
 {
     "name": "Bulgaria",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Bulgaria/Misc.md"
+        },
         {
             "title": "Travel to Bulgaria overview",
             "file": "ireland/Bulgaria/Travel to Bulgaria overview.md"

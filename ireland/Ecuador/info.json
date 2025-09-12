@@ -1,7 +1,11 @@
 {
     "name": "Ecuador",
-    "risk_level": "Avoid Non-Essential Travel",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Ecuador/Misc.md"
+        },
         {
             "title": "Travel to Ecuador overview",
             "file": "ireland/Ecuador/Travel to Ecuador overview.md"

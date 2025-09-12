@@ -1,7 +1,11 @@
 {
     "name": "Barbados",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Barbados/Misc.md"
+        },
         {
             "title": "Travel to Barbados overview",
             "file": "ireland/Barbados/Travel to Barbados overview.md"

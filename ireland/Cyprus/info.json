@@ -1,7 +1,11 @@
 {
     "name": "Cyprus",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Cyprus/Misc.md"
+        },
         {
             "title": "Travel to Cyprus overview",
             "file": "ireland/Cyprus/Travel to Cyprus overview.md"

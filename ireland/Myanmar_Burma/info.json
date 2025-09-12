@@ -1,7 +1,11 @@
 {
     "name": "Myanmar/Burma",
-    "risk_level": "Do Not Travel",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Myanmar_Burma/Misc.md"
+        },
         {
             "title": "Travel to Myanmar/Burma overview",
             "file": "ireland/Myanmar_Burma/Travel to Myanmar_Burma overview.md"

@@ -1,7 +1,11 @@
 {
     "name": "Nicaragua",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Nicaragua/Misc.md"
+        },
         {
             "title": "Travel to Nicaragua overview",
             "file": "ireland/Nicaragua/Travel to Nicaragua overview.md"

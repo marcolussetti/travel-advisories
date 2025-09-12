@@ -1,7 +1,11 @@
 {
     "name": "Antigua and Barbuda",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Antigua and Barbuda/Misc.md"
+        },
         {
             "title": "Travel to Antigua and Barbuda overview",
             "file": "ireland/Antigua and Barbuda/Travel to Antigua and Barbuda overview.md"

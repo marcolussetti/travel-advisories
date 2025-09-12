@@ -1,7 +1,11 @@
 {
     "name": "France",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/France/Misc.md"
+        },
         {
             "title": "Travel to France overview",
             "file": "ireland/France/Travel to France overview.md"

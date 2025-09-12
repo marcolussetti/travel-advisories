@@ -1,7 +1,11 @@
 {
     "name": "Mongolia",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Mongolia/Misc.md"
+        },
         {
             "title": "Travel to Mongolia overview",
             "file": "ireland/Mongolia/Travel to Mongolia overview.md"

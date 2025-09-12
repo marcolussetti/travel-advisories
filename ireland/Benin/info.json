@@ -1,7 +1,11 @@
 {
     "name": "Benin",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Benin/Misc.md"
+        },
         {
             "title": "Travel to Benin overview",
             "file": "ireland/Benin/Travel to Benin overview.md"

@@ -1,7 +1,11 @@
 {
     "name": "Canada",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Canada/Misc.md"
+        },
         {
             "title": "Travel to Canada overview",
             "file": "ireland/Canada/Travel to Canada overview.md"

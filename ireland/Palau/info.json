@@ -1,7 +1,11 @@
 {
     "name": "Palau",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Palau/Misc.md"
+        },
         {
             "title": "Travel to Palau overview",
             "file": "ireland/Palau/Travel to Palau overview.md"

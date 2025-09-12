@@ -1,7 +1,11 @@
 {
     "name": "Ghana",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Ghana/Misc.md"
+        },
         {
             "title": "Travel to Ghana overview",
             "file": "ireland/Ghana/Travel to Ghana overview.md"

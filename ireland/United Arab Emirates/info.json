@@ -1,7 +1,11 @@
 {
     "name": "United Arab Emirates",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/United Arab Emirates/Misc.md"
+        },
         {
             "title": "Travel to United Arab Emirates overview",
             "file": "ireland/United Arab Emirates/Travel to United Arab Emirates overview.md"

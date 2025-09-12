@@ -1,7 +1,11 @@
 {
     "name": "Togo",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Togo/Misc.md"
+        },
         {
             "title": "Travel to Togo overview",
             "file": "ireland/Togo/Travel to Togo overview.md"

@@ -1,7 +1,11 @@
 {
     "name": "Slovak Republic (Slovakia)",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Slovak Republic (Slovakia)/Misc.md"
+        },
         {
             "title": "Travel to Slovak Republic overview",
             "file": "ireland/Slovak Republic (Slovakia)/Travel to Slovak Republic overview.md"

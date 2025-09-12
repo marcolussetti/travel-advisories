@@ -1,7 +1,11 @@
 {
     "name": "Yemen",
-    "risk_level": "Do Not Travel",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Yemen/Misc.md"
+        },
         {
             "title": "Travel to Yemen overview",
             "file": "ireland/Yemen/Travel to Yemen overview.md"

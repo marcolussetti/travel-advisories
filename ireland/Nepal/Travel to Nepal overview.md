@@ -6,11 +6,11 @@ High Degree of Caution
 
 ### **Travel Alert**
 
-Following restrictions placed by the Government on social media and messaging platforms, protests have broken out in Kathmandu led primarily by young people calling themselves ‘Gen Z’. This has resulted in violent clashes and fatalities. Curfews have been implemented and may continue. Irish citizens are advised to avoid public demonstrations, exercise caution in public places, stay alert, monitor local news reports and follow the advice of local authorities.
+On 8 September, violent clashes and protests, leading to massive damage of property and a loss of life, broke out in Kathmandu and across Nepal. This followed restrictions placed by the Government on social media and messaging platforms. These restrictions have now been lifted, but there may still be some disruptions to communication services and isolated incidents of violence. Curfews remain in place in several cities and citizens should exercise extreme caution and follow the directions of the authorities.
 
-There may be flight disruptions. Travellers should contact their airline for up to date information.
+Kathmandu airport has reopened, however there may still be delays or flight disruptions. Passengers should contact their airline for up to date information, and are advised to arrange logistics in advance of traveling to the airport in order to ensure safe passage.
 
-Citizens should also be aware of disruption to some communications within the country due to the restrictions on certain apps and platforms.
+Irish citizens are advised to avoid public demonstrations, exercise caution in public places, stay alert, monitor local news reports and follow the advice of local authorities.
 
 ### **General Travel Advice**
 

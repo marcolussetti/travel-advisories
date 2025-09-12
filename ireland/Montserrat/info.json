@@ -1,7 +1,11 @@
 {
     "name": "Montserrat",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Montserrat/Misc.md"
+        },
         {
             "title": "Travel to Montserrat overview",
             "file": "ireland/Montserrat/Travel to Montserrat overview.md"

@@ -1,7 +1,11 @@
 {
     "name": "Honduras",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Honduras/Misc.md"
+        },
         {
             "title": "Travel to Honduras overview",
             "file": "ireland/Honduras/Travel to Honduras overview.md"

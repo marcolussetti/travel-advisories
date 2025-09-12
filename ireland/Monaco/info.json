@@ -1,7 +1,11 @@
 {
     "name": "Monaco",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Monaco/Misc.md"
+        },
         {
             "title": "Travel to Monaco overview",
             "file": "ireland/Monaco/Travel to Monaco overview.md"

@@ -1,7 +1,11 @@
 {
     "name": "Tanzania",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Tanzania/Misc.md"
+        },
         {
             "title": "Travel to Tanzania overview",
             "file": "ireland/Tanzania/Travel to Tanzania overview.md"

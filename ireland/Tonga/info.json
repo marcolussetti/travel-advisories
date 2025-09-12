@@ -1,7 +1,11 @@
 {
     "name": "Tonga",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Tonga/Misc.md"
+        },
         {
             "title": "Travel to Tonga overview",
             "file": "ireland/Tonga/Travel to Tonga overview.md"

@@ -1,7 +1,11 @@
 {
     "name": "Armenia",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Armenia/Misc.md"
+        },
         {
             "title": "Travel to Armenia overview",
             "file": "ireland/Armenia/Travel to Armenia overview.md"

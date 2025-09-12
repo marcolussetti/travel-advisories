@@ -1,7 +1,11 @@
 {
     "name": "Chile",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Chile/Misc.md"
+        },
         {
             "title": "Travel to Chile overview",
             "file": "ireland/Chile/Travel to Chile overview.md"

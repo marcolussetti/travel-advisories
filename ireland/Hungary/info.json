@@ -1,7 +1,11 @@
 {
     "name": "Hungary",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Hungary/Misc.md"
+        },
         {
             "title": "Travel to Hungary overview",
             "file": "ireland/Hungary/Travel to Hungary overview.md"

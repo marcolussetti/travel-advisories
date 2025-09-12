@@ -1,7 +1,11 @@
 {
     "name": "T\u00fcrkiye (Turkey)",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/T\u00fcrkiye (Turkey)/Misc.md"
+        },
         {
             "title": "Travel to T\u00fcrkiye overview",
             "file": "ireland/T\u00fcrkiye (Turkey)/Travel to T\u00fcrkiye overview.md"

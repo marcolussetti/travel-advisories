@@ -1,7 +1,11 @@
 {
     "name": "Romania",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Romania/Misc.md"
+        },
         {
             "title": "Travel to Romania overview",
             "file": "ireland/Romania/Travel to Romania overview.md"

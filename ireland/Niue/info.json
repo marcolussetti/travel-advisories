@@ -1,7 +1,11 @@
 {
     "name": "Niue",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Niue/Misc.md"
+        },
         {
             "title": "Travel to Niue overview",
             "file": "ireland/Niue/Travel to Niue overview.md"

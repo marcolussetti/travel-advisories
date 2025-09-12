@@ -1,7 +1,11 @@
 {
     "name": "United States of America (USA)",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/United States of America (USA)/Misc.md"
+        },
         {
             "title": "Travel to United States of America (USA) overview",
             "file": "ireland/United States of America (USA)/Travel to United States of America (USA) overview.md"

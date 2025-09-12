@@ -1,7 +1,11 @@
 {
     "name": "Faroe Islands",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Faroe Islands/Misc.md"
+        },
         {
             "title": "Travel to Faroe Islands overview",
             "file": "ireland/Faroe Islands/Travel to Faroe Islands overview.md"

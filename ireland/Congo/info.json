@@ -1,7 +1,11 @@
 {
     "name": "Congo",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Congo/Misc.md"
+        },
         {
             "title": "Travel to Congo overview",
             "file": "ireland/Congo/Travel to Congo overview.md"

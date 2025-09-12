@@ -1,7 +1,11 @@
 {
     "name": "Seychelles",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Seychelles/Misc.md"
+        },
         {
             "title": "Travel to Seychelles overview",
             "file": "ireland/Seychelles/Travel to Seychelles overview.md"

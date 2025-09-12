@@ -1,7 +1,11 @@
 {
     "name": "Virgin Islands (UK)",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Virgin Islands (UK)/Misc.md"
+        },
         {
             "title": "Travel to Virgin Islands (UK) overview",
             "file": "ireland/Virgin Islands (UK)/Travel to Virgin Islands (UK) overview.md"

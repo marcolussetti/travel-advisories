@@ -1,7 +1,11 @@
 {
     "name": "Burundi",
-    "risk_level": "Do Not Travel",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Burundi/Misc.md"
+        },
         {
             "title": "Travel to Burundi overview",
             "file": "ireland/Burundi/Travel to Burundi overview.md"

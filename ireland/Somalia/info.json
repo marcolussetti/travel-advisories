@@ -1,7 +1,11 @@
 {
     "name": "Somalia",
-    "risk_level": "Do Not Travel",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Somalia/Misc.md"
+        },
         {
             "title": "Travel to Somalia overview",
             "file": "ireland/Somalia/Travel to Somalia overview.md"

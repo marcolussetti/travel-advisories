@@ -1,7 +1,11 @@
 {
     "name": "Guinea-Bissau",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Guinea-Bissau/Misc.md"
+        },
         {
             "title": "Travel to Guinea-Bissau overview",
             "file": "ireland/Guinea-Bissau/Travel to Guinea-Bissau overview.md"

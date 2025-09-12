@@ -1,7 +1,11 @@
 {
     "name": "Eritrea",
-    "risk_level": "Avoid Non-Essential Travel",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Eritrea/Misc.md"
+        },
         {
             "title": "Eritrea Overview",
             "file": "ireland/Eritrea/Eritrea Overview.md"

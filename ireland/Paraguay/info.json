@@ -1,7 +1,11 @@
 {
     "name": "Paraguay",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Paraguay/Misc.md"
+        },
         {
             "title": "Travel to Paraguay overview",
             "file": "ireland/Paraguay/Travel to Paraguay overview.md"

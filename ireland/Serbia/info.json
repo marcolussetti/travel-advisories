@@ -1,7 +1,11 @@
 {
     "name": "Serbia",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Serbia/Misc.md"
+        },
         {
             "title": "Travel to Serbia overview",
             "file": "ireland/Serbia/Travel to Serbia overview.md"

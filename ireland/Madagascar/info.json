@@ -1,7 +1,11 @@
 {
     "name": "Madagascar",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Madagascar/Misc.md"
+        },
         {
             "title": "Travel to Madagascar overview",
             "file": "ireland/Madagascar/Travel to Madagascar overview.md"

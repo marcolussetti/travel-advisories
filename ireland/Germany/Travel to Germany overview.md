@@ -8,7 +8,7 @@ Normal Precautions
 
 Irish citizens need a valid passport or passport card to enter Germany.
 
-Travellers may be subjected to checks at German borders or points of entry from its Schengen neighbours. Such controls have been in place since September 2024 and are scheduled to remain until at least September 2025. Further extensions or amendments are possible.
+Travellers may be subjected to checks at German borders or points of entry from its Schengen neighbours. Such controls have been in place since September 2024 and are scheduled to remain until at least March 2026. Further extensions or amendments are possible.
 
 Irish passports do not have a minimum validity requirement while travelling to the UK or within the EU. When travelling within Europe with an Irish passport, it should be valid for the duration of your stay.
 

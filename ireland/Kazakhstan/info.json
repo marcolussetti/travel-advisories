@@ -1,7 +1,11 @@
 {
     "name": "Kazakhstan",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Kazakhstan/Misc.md"
+        },
         {
             "title": "Travel to Kazakhstan overview",
             "file": "ireland/Kazakhstan/Travel to Kazakhstan overview.md"

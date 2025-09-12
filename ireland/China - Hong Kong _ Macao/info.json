@@ -1,7 +1,11 @@
 {
     "name": "China - Hong Kong / Macao",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/China - Hong Kong _ Macao/Misc.md"
+        },
         {
             "title": "Travel to China \u2013 Hong Kong / Macao overview",
             "file": "ireland/China - Hong Kong _ Macao/Travel to China \u2013 Hong Kong _ Macao overview.md"

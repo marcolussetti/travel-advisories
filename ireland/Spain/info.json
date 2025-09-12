@@ -1,7 +1,11 @@
 {
     "name": "Spain",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Spain/Misc.md"
+        },
         {
             "title": "Travel to Spain overview",
             "file": "ireland/Spain/Travel to Spain overview.md"

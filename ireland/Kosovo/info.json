@@ -1,7 +1,11 @@
 {
     "name": "Kosovo",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Kosovo/Misc.md"
+        },
         {
             "title": "Travel to Kosovo overview",
             "file": "ireland/Kosovo/Travel to Kosovo overview.md"

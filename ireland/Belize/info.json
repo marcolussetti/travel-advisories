@@ -1,7 +1,11 @@
 {
     "name": "Belize",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Belize/Misc.md"
+        },
         {
             "title": "Travel to Belize overview",
             "file": "ireland/Belize/Travel to Belize overview.md"

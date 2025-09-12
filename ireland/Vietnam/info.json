@@ -1,7 +1,11 @@
 {
     "name": "Vietnam",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Vietnam/Misc.md"
+        },
         {
             "title": "Travel to Vietnam Overview",
             "file": "ireland/Vietnam/Travel to Vietnam Overview.md"

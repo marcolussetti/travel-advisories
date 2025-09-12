@@ -1,7 +1,11 @@
 {
     "name": "Libya",
-    "risk_level": "Do Not Travel",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Libya/Misc.md"
+        },
         {
             "title": "Travel to Libya overview",
             "file": "ireland/Libya/Travel to Libya overview.md"

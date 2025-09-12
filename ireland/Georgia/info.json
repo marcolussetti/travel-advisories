@@ -1,7 +1,11 @@
 {
     "name": "Georgia",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Georgia/Misc.md"
+        },
         {
             "title": "Travel to Georgia overview",
             "file": "ireland/Georgia/Travel to Georgia overview.md"

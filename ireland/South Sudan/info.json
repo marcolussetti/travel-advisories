@@ -1,7 +1,11 @@
 {
     "name": "South Sudan",
-    "risk_level": "Do Not Travel",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/South Sudan/Misc.md"
+        },
         {
             "title": "Travel to South Sudan overview",
             "file": "ireland/South Sudan/Travel to South Sudan overview.md"

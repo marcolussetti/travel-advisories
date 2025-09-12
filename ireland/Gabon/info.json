@@ -1,7 +1,11 @@
 {
     "name": "Gabon",
-    "risk_level": "Avoid Non-Essential Travel",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Gabon/Misc.md"
+        },
         {
             "title": "Travel to Gabon overview",
             "file": "ireland/Gabon/Travel to Gabon overview.md"

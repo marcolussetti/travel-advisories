@@ -1,7 +1,11 @@
 {
     "name": "Croatia",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Croatia/Misc.md"
+        },
         {
             "title": "Travel to Croatia overview",
             "file": "ireland/Croatia/Travel to Croatia overview.md"

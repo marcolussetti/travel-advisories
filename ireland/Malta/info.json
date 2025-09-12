@@ -1,7 +1,11 @@
 {
     "name": "Malta",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Malta/Misc.md"
+        },
         {
             "title": "Travel to Malta overview",
             "file": "ireland/Malta/Travel to Malta overview.md"

@@ -1,7 +1,11 @@
 {
     "name": "Saint Vincent and the Grenadines",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Saint Vincent and the Grenadines/Misc.md"
+        },
         {
             "title": "Travel to Saint Vincent and the Grenadines overview",
             "file": "ireland/Saint Vincent and the Grenadines/Travel to Saint Vincent and the Grenadines overview.md"

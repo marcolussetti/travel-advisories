@@ -1,7 +1,11 @@
 {
     "name": "Suriname",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Suriname/Misc.md"
+        },
         {
             "title": "Travel to Suriname overview",
             "file": "ireland/Suriname/Travel to Suriname overview.md"

@@ -1,7 +1,11 @@
 {
     "name": "Belgium",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Belgium/Misc.md"
+        },
         {
             "title": "Travel to Belgium overview",
             "file": "ireland/Belgium/Travel to Belgium overview.md"

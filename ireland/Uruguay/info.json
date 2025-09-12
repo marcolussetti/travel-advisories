@@ -1,7 +1,11 @@
 {
     "name": "Uruguay",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Uruguay/Misc.md"
+        },
         {
             "title": "Travel to Uruguay overview",
             "file": "ireland/Uruguay/Travel to Uruguay overview.md"

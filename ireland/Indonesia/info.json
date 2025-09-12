@@ -1,7 +1,11 @@
 {
     "name": "Indonesia",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Indonesia/Misc.md"
+        },
         {
             "title": "Travel to Indonesia overview",
             "file": "ireland/Indonesia/Travel to Indonesia overview.md"

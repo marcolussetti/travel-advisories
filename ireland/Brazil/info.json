@@ -1,7 +1,11 @@
 {
     "name": "Brazil",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Brazil/Misc.md"
+        },
         {
             "title": "Travel to Brazil overview",
             "file": "ireland/Brazil/Travel to Brazil overview.md"

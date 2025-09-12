@@ -1,7 +1,11 @@
 {
     "name": "Netherlands",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Netherlands/Misc.md"
+        },
         {
             "title": "Travel to Netherlands overview",
             "file": "ireland/Netherlands/Travel to Netherlands overview.md"

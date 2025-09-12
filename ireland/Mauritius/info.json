@@ -1,7 +1,11 @@
 {
     "name": "Mauritius",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Mauritius/Misc.md"
+        },
         {
             "title": "Travel to Mauritius overview",
             "file": "ireland/Mauritius/Travel to Mauritius overview.md"

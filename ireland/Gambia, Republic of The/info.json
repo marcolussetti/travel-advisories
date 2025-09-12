@@ -1,7 +1,11 @@
 {
     "name": "Gambia, Republic of The",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Gambia, Republic of The/Misc.md"
+        },
         {
             "title": "Travel to Gambia overview",
             "file": "ireland/Gambia, Republic of The/Travel to Gambia overview.md"

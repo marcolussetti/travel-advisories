@@ -1,7 +1,11 @@
 {
     "name": "Angola",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Angola/Misc.md"
+        },
         {
             "title": "Travel to Angola overview",
             "file": "ireland/Angola/Travel to Angola overview.md"

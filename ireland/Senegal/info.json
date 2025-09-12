@@ -1,7 +1,11 @@
 {
     "name": "Senegal",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Senegal/Misc.md"
+        },
         {
             "title": "Travel to Senegal overview",
             "file": "ireland/Senegal/Travel to Senegal overview.md"

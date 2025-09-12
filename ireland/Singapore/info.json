@@ -1,7 +1,11 @@
 {
     "name": "Singapore",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Singapore/Misc.md"
+        },
         {
             "title": "Travel to Singapore overview",
             "file": "ireland/Singapore/Travel to Singapore overview.md"

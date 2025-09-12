@@ -1,7 +1,11 @@
 {
     "name": "Botswana",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Botswana/Misc.md"
+        },
         {
             "title": "Travel to Botswana overview",
             "file": "ireland/Botswana/Travel to Botswana overview.md"

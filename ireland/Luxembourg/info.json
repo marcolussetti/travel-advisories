@@ -1,7 +1,11 @@
 {
     "name": "Luxembourg",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Luxembourg/Misc.md"
+        },
         {
             "title": "Travel to Luxembourg overview",
             "file": "ireland/Luxembourg/Travel to Luxembourg overview.md"

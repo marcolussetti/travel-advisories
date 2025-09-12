@@ -2,7 +2,7 @@
 
 ### **Border Controls**
 
-Travellers may be subjected to checks at German borders or points of entry from its Schengen neighbours. Such controls have been in place since September 2024 and are scheduled to remain until at least September 2025. Further extensions or amendments are possible.
+Travellers may be subjected to checks at German borders or points of entry from its Schengen neighbours. Such controls have been in place since September 2024 and are scheduled to remain until at least March 2026. Further extensions or amendments are possible.
 
 ### **Personal Identification**
 

@@ -1,7 +1,11 @@
 {
     "name": "Turks and Caicos Islands",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Turks and Caicos Islands/Misc.md"
+        },
         {
             "title": "Travel to Turks and Caicos Islands overview",
             "file": "ireland/Turks and Caicos Islands/Travel to Turks and Caicos Islands overview.md"

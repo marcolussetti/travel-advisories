@@ -1,7 +1,11 @@
 {
     "name": "Jordan",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Jordan/Misc.md"
+        },
         {
             "title": "Travel to Jordan overview",
             "file": "ireland/Jordan/Travel to Jordan overview.md"

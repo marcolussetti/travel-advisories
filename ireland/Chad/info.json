@@ -1,7 +1,11 @@
 {
     "name": "Chad",
-    "risk_level": "Avoid Non-Essential Travel",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Chad/Misc.md"
+        },
         {
             "title": "Travel to Chad overview",
             "file": "ireland/Chad/Travel to Chad overview.md"

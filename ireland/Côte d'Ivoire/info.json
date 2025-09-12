@@ -1,7 +1,11 @@
 {
     "name": "C\u00f4te d'Ivoire",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/C\u00f4te d'Ivoire/Misc.md"
+        },
         {
             "title": "Travel to Cote d'Ivoire overview",
             "file": "ireland/C\u00f4te d'Ivoire/Travel to Cote d'Ivoire overview.md"

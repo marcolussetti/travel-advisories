@@ -1,7 +1,11 @@
 {
     "name": "Israel and the Occupied Territories",
-    "risk_level": "Avoid Non-Essential Travel",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Israel and the Occupied Territories/Misc.md"
+        },
         {
             "title": "Overview",
             "file": "ireland/Israel and the Occupied Territories/Overview.md"

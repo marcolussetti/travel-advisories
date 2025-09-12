@@ -1,7 +1,11 @@
 {
     "name": "Tajikistan",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Tajikistan/Misc.md"
+        },
         {
             "title": "Travel to Tajikistan overview",
             "file": "ireland/Tajikistan/Travel to Tajikistan overview.md"

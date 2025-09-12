@@ -1,7 +1,11 @@
 {
     "name": "Saudi Arabia",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Saudi Arabia/Misc.md"
+        },
         {
             "title": "Travel to Saudi Arabia overview",
             "file": "ireland/Saudi Arabia/Travel to Saudi Arabia overview.md"

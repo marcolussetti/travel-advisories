@@ -1,7 +1,11 @@
 {
     "name": "Argentina",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Argentina/Misc.md"
+        },
         {
             "title": "Travel to Argentina overview",
             "file": "ireland/Argentina/Travel to Argentina overview.md"

@@ -1,7 +1,11 @@
 {
     "name": "Tuvalu",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Tuvalu/Misc.md"
+        },
         {
             "title": "Travel to Tuvalu overview",
             "file": "ireland/Tuvalu/Travel to Tuvalu overview.md"

@@ -1,7 +1,11 @@
 {
     "name": "Kiribati",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Kiribati/Misc.md"
+        },
         {
             "title": "Travel to Kiribati overview",
             "file": "ireland/Kiribati/Travel to Kiribati overview.md"

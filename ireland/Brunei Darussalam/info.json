@@ -1,7 +1,11 @@
 {
     "name": "Brunei Darussalam",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Brunei Darussalam/Misc.md"
+        },
         {
             "title": "Travel to Brunei Darussalam overview",
             "file": "ireland/Brunei Darussalam/Travel to Brunei Darussalam overview.md"

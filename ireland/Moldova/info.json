@@ -1,7 +1,11 @@
 {
     "name": "Moldova",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Moldova/Misc.md"
+        },
         {
             "title": "Travel to Moldova overview",
             "file": "ireland/Moldova/Travel to Moldova overview.md"

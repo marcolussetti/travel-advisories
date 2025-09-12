@@ -1,7 +1,11 @@
 {
     "name": "Saint Lucia",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Saint Lucia/Misc.md"
+        },
         {
             "title": "Travel to Saint Lucia overview",
             "file": "ireland/Saint Lucia/Travel to Saint Lucia overview.md"

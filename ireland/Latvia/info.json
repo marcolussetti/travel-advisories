@@ -1,7 +1,11 @@
 {
     "name": "Latvia",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Latvia/Misc.md"
+        },
         {
             "title": "Travel to Latvia overview",
             "file": "ireland/Latvia/Travel to Latvia overview.md"

@@ -1,7 +1,11 @@
 {
     "name": "Jamaica",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Jamaica/Misc.md"
+        },
         {
             "title": "Travel to Jamaica overview",
             "file": "ireland/Jamaica/Travel to Jamaica overview.md"

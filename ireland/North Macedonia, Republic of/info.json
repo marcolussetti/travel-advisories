@@ -1,7 +1,11 @@
 {
     "name": "North Macedonia, Republic of",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/North Macedonia, Republic of/Misc.md"
+        },
         {
             "title": "Travel to North Macedonia overview",
             "file": "ireland/North Macedonia, Republic of/Travel to North Macedonia overview.md"

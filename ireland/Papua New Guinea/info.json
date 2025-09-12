@@ -1,7 +1,11 @@
 {
     "name": "Papua New Guinea",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Papua New Guinea/Misc.md"
+        },
         {
             "title": "Travel to Papua New Guinea overview",
             "file": "ireland/Papua New Guinea/Travel to Papua New Guinea overview.md"

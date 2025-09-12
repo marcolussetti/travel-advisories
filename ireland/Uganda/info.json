@@ -1,7 +1,11 @@
 {
     "name": "Uganda",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Uganda/Misc.md"
+        },
         {
             "title": "Travel to Uganda overview",
             "file": "ireland/Uganda/Travel to Uganda overview.md"

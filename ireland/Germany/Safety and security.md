@@ -4,7 +4,7 @@
 * Pickpocketing and petty theft are common, particularly around the larger train stations and tourist areas. Be careful of personal belongings and aware of your surroundings.
 * Be alert regarding possible scams. If stopped for assistance in a busy area, this could be an attempt to distract you while you are robbed. If approached by someone claiming to have been robbed, do not hand over money but instead advise the individual to contact the police.
 * Reports of sexual assault can increase during large-scale events and festivals such as Silvester (New Year's Eve), Karneval/Fasching (Carnival) or Oktoberfest. If a victim of sexual assault, go to the hospital immediately, and contact the police by calling 110 to report the assault and obtain a police report.
-* Avoid demonstrations by any organisation or political party which appears to be inciting racism or hatred. Using or displaying Nazi symbols or material is illegal in Germany.
+* Avoid demonstrations by any organisation or political party which could appear to be inciting racism or hatred. Using or displaying certain symbols, slogans or material, especially those associated with Nazism or terrorist organisations, is illegal in Germany.
 * If a victim of a crime while in Germany, report it to the local police immediately by contacting 110. Citizens can also contact the [**Embassy of Ireland in Berlin**](https://www.ireland.ie/en/germany/berlin/) for advice and assistance.
 * Please be advised that illegal drugs and substances are common in the Berlin club and night life scene. These can be unknown drugs or new substances as Berlin is a point of exchange of these in Germany.
 * Follow the Embassy of Ireland in Berlin on X. In the event of a security incident, we will issue travel advice from [**@IrlEmbBerlin**](https://twitter.com/irlembberlin). In the event of a crisis, we will only post updates issued by the authorities in Ireland and Germany.
@@ -18,7 +18,7 @@ Traffic can be faster-paced than in Ireland, especially on the motorways (Autoba
 
 Inner city areas of certain German cities are designated as environmental inner city zones (Umweltzone) into which only vehicles bearing a low emissions’ sticker may enter. The website of the [**Environmental Protection Agency**](http://www.umweltbundesamt.de/en/topics/air/particulate-matter-pm10/low-emission-zones-in-germany) (Umwelt Bundesamt) has information in English.
 
-There have been a small number of reports of scams on motorways in northern Germany in which individuals claiming to be Irish have stopped motorists, said they were involved in an accident and asked to “borrow” money. If stopped by someone claiming to have been in an accident, contact the police on 112 with your location and a description of the individuals seeking assistance and their car registration number. Do not hand over money.
+There have been a small number of reports of scams on motorways in northern Germany in which individuals claiming to be Irish have stopped motorists, said they were involved in an accident and asked to “borrow” money. If stopped by someone claiming to have been in an accident, contact the police on 112 with your location and a description of the individuals seeking assistance and their car registration number. Do not hand over or transfer money.
 
 ### **Car Hire**
 

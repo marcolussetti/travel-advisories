@@ -1,7 +1,11 @@
 {
     "name": "Zambia",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Zambia/Misc.md"
+        },
         {
             "title": "Travel to Zambia overview",
             "file": "ireland/Zambia/Travel to Zambia overview.md"

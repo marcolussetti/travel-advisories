@@ -1,7 +1,11 @@
 {
     "name": "Ukraine",
-    "risk_level": "Do Not Travel",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Ukraine/Misc.md"
+        },
         {
             "title": "Travel to Ukraine overview",
             "file": "ireland/Ukraine/Travel to Ukraine overview.md"

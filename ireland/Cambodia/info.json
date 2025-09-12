@@ -1,7 +1,11 @@
 {
     "name": "Cambodia",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Cambodia/Misc.md"
+        },
         {
             "title": "Travel to Cambodia overview",
             "file": "ireland/Cambodia/Travel to Cambodia overview.md"

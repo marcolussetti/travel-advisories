@@ -1,7 +1,11 @@
 {
     "name": "Qatar",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Qatar/Misc.md"
+        },
         {
             "title": "Travel to Qatar overview",
             "file": "ireland/Qatar/Travel to Qatar overview.md"

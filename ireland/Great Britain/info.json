@@ -1,7 +1,11 @@
 {
     "name": "Great Britain",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Great Britain/Misc.md"
+        },
         {
             "title": "Travel to Great Britain overview",
             "file": "ireland/Great Britain/Travel to Great Britain overview.md"

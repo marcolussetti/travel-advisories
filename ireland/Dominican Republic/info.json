@@ -1,7 +1,11 @@
 {
     "name": "Dominican Republic",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Dominican Republic/Misc.md"
+        },
         {
             "title": "Travel to Dominican Republic overview",
             "file": "ireland/Dominican Republic/Travel to Dominican Republic overview.md"

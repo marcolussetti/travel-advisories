@@ -1,7 +1,11 @@
 {
     "name": "Sri Lanka",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Sri Lanka/Misc.md"
+        },
         {
             "title": "Travel to Sri Lanka overview",
             "file": "ireland/Sri Lanka/Travel to Sri Lanka overview.md"

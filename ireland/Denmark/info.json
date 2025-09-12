@@ -1,7 +1,11 @@
 {
     "name": "Denmark",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Denmark/Misc.md"
+        },
         {
             "title": "Travel to Denmark overview",
             "file": "ireland/Denmark/Travel to Denmark overview.md"

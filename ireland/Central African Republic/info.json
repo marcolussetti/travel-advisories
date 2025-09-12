@@ -1,7 +1,11 @@
 {
     "name": "Central African Republic",
-    "risk_level": "Do Not Travel",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Central African Republic/Misc.md"
+        },
         {
             "title": "Central African Republic overview",
             "file": "ireland/Central African Republic/Central African Republic overview.md"

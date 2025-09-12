@@ -1,7 +1,11 @@
 {
     "name": "Algeria",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Algeria/Misc.md"
+        },
         {
             "title": "Travel to Algeria overview",
             "file": "ireland/Algeria/Travel to Algeria overview.md"

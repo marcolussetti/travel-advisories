@@ -1,7 +1,11 @@
 {
     "name": "Marshall Islands",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Marshall Islands/Misc.md"
+        },
         {
             "title": "Travel to Marshall Islands overview",
             "file": "ireland/Marshall Islands/Travel to Marshall Islands overview.md"

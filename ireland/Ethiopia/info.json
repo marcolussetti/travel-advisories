@@ -1,7 +1,11 @@
 {
     "name": "Ethiopia",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Ethiopia/Misc.md"
+        },
         {
             "title": "Travel to Ethiopia overview",
             "file": "ireland/Ethiopia/Travel to Ethiopia overview.md"

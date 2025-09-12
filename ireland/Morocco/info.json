@@ -1,7 +1,11 @@
 {
     "name": "Morocco",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Morocco/Misc.md"
+        },
         {
             "title": "Travel to Morocco overview",
             "file": "ireland/Morocco/Travel to Morocco overview.md"

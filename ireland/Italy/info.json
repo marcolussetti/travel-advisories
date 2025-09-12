@@ -1,7 +1,11 @@
 {
     "name": "Italy",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Italy/Misc.md"
+        },
         {
             "title": "Travel to Italy overview",
             "file": "ireland/Italy/Travel to Italy overview.md"

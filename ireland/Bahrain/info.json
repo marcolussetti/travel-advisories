@@ -1,7 +1,11 @@
 {
     "name": "Bahrain",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Bahrain/Misc.md"
+        },
         {
             "title": "Travel to Bahrain overview",
             "file": "ireland/Bahrain/Travel to Bahrain overview.md"

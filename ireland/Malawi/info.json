@@ -1,7 +1,11 @@
 {
     "name": "Malawi",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Malawi/Misc.md"
+        },
         {
             "title": "Travel to Malawi overview",
             "file": "ireland/Malawi/Travel to Malawi overview.md"

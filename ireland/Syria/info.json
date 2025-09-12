@@ -1,7 +1,11 @@
 {
     "name": "Syria",
-    "risk_level": "Do Not Travel",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Syria/Misc.md"
+        },
         {
             "title": "Travel to Syria overview",
             "file": "ireland/Syria/Travel to Syria overview.md"

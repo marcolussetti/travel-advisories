@@ -1,7 +1,11 @@
 {
     "name": "Azerbaijan",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Azerbaijan/Misc.md"
+        },
         {
             "title": "Travel to Azerbaijan overview",
             "file": "ireland/Azerbaijan/Travel to Azerbaijan overview.md"

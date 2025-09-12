@@ -1,7 +1,11 @@
 {
     "name": "Norway",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Norway/Misc.md"
+        },
         {
             "title": "Travel to Norway overview",
             "file": "ireland/Norway/Travel to Norway overview.md"

@@ -1,7 +1,11 @@
 {
     "name": "French Guiana",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/French Guiana/Misc.md"
+        },
         {
             "title": "Travel to French Guiana overview",
             "file": "ireland/French Guiana/Travel to French Guiana overview.md"

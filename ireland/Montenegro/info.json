@@ -1,7 +1,11 @@
 {
     "name": "Montenegro",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Montenegro/Misc.md"
+        },
         {
             "title": "Travel to Montenegro overview",
             "file": "ireland/Montenegro/Travel to Montenegro overview.md"

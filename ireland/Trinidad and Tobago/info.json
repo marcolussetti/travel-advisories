@@ -1,7 +1,11 @@
 {
     "name": "Trinidad and Tobago",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Trinidad and Tobago/Misc.md"
+        },
         {
             "title": "Travel to Trinidad and Tobago overview",
             "file": "ireland/Trinidad and Tobago/Travel to Trinidad and Tobago overview.md"

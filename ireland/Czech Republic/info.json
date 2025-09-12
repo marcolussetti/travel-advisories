@@ -1,7 +1,11 @@
 {
     "name": "Czech Republic",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Czech Republic/Misc.md"
+        },
         {
             "title": "Travel to Czech Republic overview",
             "file": "ireland/Czech Republic/Travel to Czech Republic overview.md"

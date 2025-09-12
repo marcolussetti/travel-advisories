@@ -1,7 +1,11 @@
 {
     "name": "Albania",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Albania/Misc.md"
+        },
         {
             "title": "Travel to Albania overview",
             "file": "ireland/Albania/Travel to Albania overview.md"

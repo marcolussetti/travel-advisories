@@ -1,7 +1,11 @@
 {
     "name": "Japan",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Japan/Misc.md"
+        },
         {
             "title": "Travel to Japan overview",
             "file": "ireland/Japan/Travel to Japan overview.md"

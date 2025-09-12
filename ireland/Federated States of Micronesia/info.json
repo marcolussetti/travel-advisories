@@ -1,7 +1,11 @@
 {
     "name": "Federated States of Micronesia",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Federated States of Micronesia/Misc.md"
+        },
         {
             "title": "Travel to Federated States of Micronesia overview",
             "file": "ireland/Federated States of Micronesia/Travel to Federated States of Micronesia overview.md"

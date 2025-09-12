@@ -1,7 +1,11 @@
 {
     "name": "Cayman Islands",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Cayman Islands/Misc.md"
+        },
         {
             "title": "Travel to Cayman Islands overview",
             "file": "ireland/Cayman Islands/Travel to Cayman Islands overview.md"

@@ -1,7 +1,11 @@
 {
     "name": "Cuba",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Cuba/Misc.md"
+        },
         {
             "title": "Travel to Cuba overview",
             "file": "ireland/Cuba/Travel to Cuba overview.md"

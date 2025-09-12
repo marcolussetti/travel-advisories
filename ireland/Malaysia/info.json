@@ -1,7 +1,11 @@
 {
     "name": "Malaysia",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Malaysia/Misc.md"
+        },
         {
             "title": "Travel to Malaysia overview",
             "file": "ireland/Malaysia/Travel to Malaysia overview.md"

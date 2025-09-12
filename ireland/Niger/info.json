@@ -1,7 +1,11 @@
 {
     "name": "Niger",
-    "risk_level": "Do Not Travel",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Niger/Misc.md"
+        },
         {
             "title": "Travel to Niger overview",
             "file": "ireland/Niger/Travel to Niger overview.md"

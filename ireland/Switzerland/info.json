@@ -1,7 +1,11 @@
 {
     "name": "Switzerland",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Switzerland/Misc.md"
+        },
         {
             "title": "Travel to Switzerland overview",
             "file": "ireland/Switzerland/Travel to Switzerland overview.md"

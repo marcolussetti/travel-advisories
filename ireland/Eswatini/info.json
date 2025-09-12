@@ -1,7 +1,11 @@
 {
     "name": "Eswatini",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Eswatini/Misc.md"
+        },
         {
             "title": "Travel to Eswatini overview",
             "file": "ireland/Eswatini/Travel to Eswatini overview.md"

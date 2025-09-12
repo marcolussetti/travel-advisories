@@ -1,7 +1,11 @@
 {
     "name": "Puerto Rico",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Puerto Rico/Misc.md"
+        },
         {
             "title": "Travel to Puerto Rico overview",
             "file": "ireland/Puerto Rico/Travel to Puerto Rico overview.md"

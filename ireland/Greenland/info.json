@@ -1,7 +1,11 @@
 {
     "name": "Greenland",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Greenland/Misc.md"
+        },
         {
             "title": "Travel to Greenland overview",
             "file": "ireland/Greenland/Travel to Greenland overview.md"

@@ -1,7 +1,11 @@
 {
     "name": "Martinique",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Martinique/Misc.md"
+        },
         {
             "title": "Travel to Martinique overview",
             "file": "ireland/Martinique/Travel to Martinique overview.md"

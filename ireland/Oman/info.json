@@ -1,7 +1,11 @@
 {
     "name": "Oman",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Oman/Misc.md"
+        },
         {
             "title": "Travel to Oman overview",
             "file": "ireland/Oman/Travel to Oman overview.md"

@@ -1,7 +1,11 @@
 {
     "name": "Colombia",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Colombia/Misc.md"
+        },
         {
             "title": "Travel to Colombia overview",
             "file": "ireland/Colombia/Travel to Colombia overview.md"

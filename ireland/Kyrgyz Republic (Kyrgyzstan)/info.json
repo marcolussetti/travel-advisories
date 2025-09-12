@@ -1,7 +1,11 @@
 {
     "name": "Kyrgyz Republic (Kyrgyzstan)",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Kyrgyz Republic (Kyrgyzstan)/Misc.md"
+        },
         {
             "title": "Travel to Kyrgyz Republic (Kyrgyzstan) overview",
             "file": "ireland/Kyrgyz Republic (Kyrgyzstan)/Travel to Kyrgyz Republic (Kyrgyzstan) overview.md"

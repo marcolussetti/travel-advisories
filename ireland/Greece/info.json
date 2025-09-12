@@ -1,7 +1,11 @@
 {
     "name": "Greece",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Greece/Misc.md"
+        },
         {
             "title": "Travel to Greece overview",
             "file": "ireland/Greece/Travel to Greece overview.md"

@@ -1,7 +1,11 @@
 {
     "name": "Mali",
-    "risk_level": "Do Not Travel",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Mali/Misc.md"
+        },
         {
             "title": "Travel to Mali overview",
             "file": "ireland/Mali/Travel to Mali overview.md"

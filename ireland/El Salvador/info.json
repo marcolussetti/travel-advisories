@@ -1,7 +1,11 @@
 {
     "name": "El Salvador",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/El Salvador/Misc.md"
+        },
         {
             "title": "Travel to El Salvador overview",
             "file": "ireland/El Salvador/Travel to El Salvador overview.md"

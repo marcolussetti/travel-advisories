@@ -1,7 +1,11 @@
 {
     "name": "Iran",
-    "risk_level": "Do Not Travel",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Iran/Misc.md"
+        },
         {
             "title": "Travel to Iran overview",
             "file": "ireland/Iran/Travel to Iran overview.md"

@@ -1,7 +1,11 @@
 {
     "name": "Timor-Leste",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Timor-Leste/Misc.md"
+        },
         {
             "title": "Travel to Timor-Leste overview",
             "file": "ireland/Timor-Leste/Travel to Timor-Leste overview.md"

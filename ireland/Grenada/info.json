@@ -1,7 +1,11 @@
 {
     "name": "Grenada",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Grenada/Misc.md"
+        },
         {
             "title": "Travel to Grenada overview",
             "file": "ireland/Grenada/Travel to Grenada overview.md"

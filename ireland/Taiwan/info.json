@@ -1,7 +1,11 @@
 {
     "name": "Taiwan",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Taiwan/Misc.md"
+        },
         {
             "title": "Travel to Taiwan overview",
             "file": "ireland/Taiwan/Travel to Taiwan overview.md"

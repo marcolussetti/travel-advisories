@@ -1,7 +1,11 @@
 {
     "name": "Cameroon",
-    "risk_level": "Avoid Non-Essential Travel",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Cameroon/Misc.md"
+        },
         {
             "title": "Travel to Cameroon overview",
             "file": "ireland/Cameroon/Travel to Cameroon overview.md"

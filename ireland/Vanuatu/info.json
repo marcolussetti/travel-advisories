@@ -1,7 +1,11 @@
 {
     "name": "Vanuatu",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Vanuatu/Misc.md"
+        },
         {
             "title": "Travel to Vanuatu overview",
             "file": "ireland/Vanuatu/Travel to Vanuatu overview.md"

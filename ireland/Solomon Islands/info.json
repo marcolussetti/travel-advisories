@@ -1,7 +1,11 @@
 {
     "name": "Solomon Islands",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Solomon Islands/Misc.md"
+        },
         {
             "title": "Travel to Solomon Islands overview",
             "file": "ireland/Solomon Islands/Travel to Solomon Islands overview.md"

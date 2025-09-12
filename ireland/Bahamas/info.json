@@ -1,7 +1,11 @@
 {
     "name": "Bahamas",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Bahamas/Misc.md"
+        },
         {
             "title": "Travel to Bahamas overview",
             "file": "ireland/Bahamas/Travel to Bahamas overview.md"

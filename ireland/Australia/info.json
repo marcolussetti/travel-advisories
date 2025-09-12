@@ -1,7 +1,11 @@
 {
     "name": "Australia",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Australia/Misc.md"
+        },
         {
             "title": "Travel to Australia overview",
             "file": "ireland/Australia/Travel to Australia overview.md"

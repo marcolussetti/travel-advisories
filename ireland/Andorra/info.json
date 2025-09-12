@@ -1,7 +1,11 @@
 {
     "name": "Andorra",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Andorra/Misc.md"
+        },
         {
             "title": "Travel to Andorra overview",
             "file": "ireland/Andorra/Travel to Andorra overview.md"

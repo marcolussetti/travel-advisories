@@ -1,7 +1,11 @@
 {
     "name": "Maldives",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Maldives/Misc.md"
+        },
         {
             "title": "Travel to Maldives overview",
             "file": "ireland/Maldives/Travel to Maldives overview.md"

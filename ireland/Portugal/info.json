@@ -1,7 +1,11 @@
 {
     "name": "Portugal",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Portugal/Misc.md"
+        },
         {
             "title": "Travel to Portugal overview",
             "file": "ireland/Portugal/Travel to Portugal overview.md"

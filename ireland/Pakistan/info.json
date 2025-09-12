@@ -1,7 +1,11 @@
 {
     "name": "Pakistan",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Pakistan/Misc.md"
+        },
         {
             "title": "Travel to Pakistan overview",
             "file": "ireland/Pakistan/Travel to Pakistan overview.md"

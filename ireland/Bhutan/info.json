@@ -1,7 +1,11 @@
 {
     "name": "Bhutan",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Bhutan/Misc.md"
+        },
         {
             "title": "Travel to Bhutan overview",
             "file": "ireland/Bhutan/Travel to Bhutan overview.md"

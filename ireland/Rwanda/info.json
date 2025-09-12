@@ -1,7 +1,11 @@
 {
     "name": "Rwanda",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Rwanda/Misc.md"
+        },
         {
             "title": "Travel to Rwanda overview",
             "file": "ireland/Rwanda/Travel to Rwanda overview.md"

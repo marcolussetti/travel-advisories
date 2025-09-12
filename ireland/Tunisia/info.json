@@ -1,7 +1,11 @@
 {
     "name": "Tunisia",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Tunisia/Misc.md"
+        },
         {
             "title": "Travel to Tunisia overview",
             "file": "ireland/Tunisia/Travel to Tunisia overview.md"

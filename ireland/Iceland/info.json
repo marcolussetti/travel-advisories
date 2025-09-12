@@ -1,7 +1,11 @@
 {
     "name": "Iceland",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Iceland/Misc.md"
+        },
         {
             "title": "Travel to Iceland overview",
             "file": "ireland/Iceland/Travel to Iceland overview.md"

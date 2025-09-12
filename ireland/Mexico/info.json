@@ -1,7 +1,11 @@
 {
     "name": "Mexico",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Mexico/Misc.md"
+        },
         {
             "title": "Travel to Mexico overview",
             "file": "ireland/Mexico/Travel to Mexico overview.md"

@@ -1,7 +1,11 @@
 {
     "name": "Bangladesh",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Bangladesh/Misc.md"
+        },
         {
             "title": "Travel to Bangladesh overview",
             "file": "ireland/Bangladesh/Travel to Bangladesh overview.md"

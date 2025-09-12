@@ -1,7 +1,11 @@
 {
     "name": "South Africa",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/South Africa/Misc.md"
+        },
         {
             "title": "Travel to South Africa overview",
             "file": "ireland/South Africa/Travel to South Africa overview.md"

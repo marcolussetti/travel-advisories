@@ -1,7 +1,11 @@
 {
     "name": "Poland",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Poland/Misc.md"
+        },
         {
             "title": "Travel to Poland overview",
             "file": "ireland/Poland/Travel to Poland overview.md"

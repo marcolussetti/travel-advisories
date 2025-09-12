@@ -1,7 +1,11 @@
 {
     "name": "Guyana",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Guyana/Misc.md"
+        },
         {
             "title": "Travel to Guyana overview",
             "file": "ireland/Guyana/Travel to Guyana overview.md"

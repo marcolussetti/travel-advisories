@@ -1,7 +1,11 @@
 {
     "name": "Mayotte",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Mayotte/Misc.md"
+        },
         {
             "title": "Travel to Mayotte overview",
             "file": "ireland/Mayotte/Travel to Mayotte overview.md"

@@ -1,7 +1,11 @@
 {
     "name": "Kenya",
-    "risk_level": "High Degree of Caution",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Kenya/Misc.md"
+        },
         {
             "title": "Travel to Kenya overview",
             "file": "ireland/Kenya/Travel to Kenya overview.md"

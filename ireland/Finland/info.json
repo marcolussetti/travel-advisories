@@ -1,7 +1,11 @@
 {
     "name": "Finland",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Finland/Misc.md"
+        },
         {
             "title": "Travel to Finland overview",
             "file": "ireland/Finland/Travel to Finland overview.md"

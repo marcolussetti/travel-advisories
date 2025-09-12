@@ -1,7 +1,11 @@
 {
     "name": "New Zealand",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/New Zealand/Misc.md"
+        },
         {
             "title": "Travel to New Zealand overview",
             "file": "ireland/New Zealand/Travel to New Zealand overview.md"

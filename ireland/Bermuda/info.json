@@ -1,7 +1,11 @@
 {
     "name": "Bermuda",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Bermuda/Misc.md"
+        },
         {
             "title": "Travel to Bermuda overview",
             "file": "ireland/Bermuda/Travel to Bermuda overview.md"

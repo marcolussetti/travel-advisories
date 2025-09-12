@@ -1,7 +1,11 @@
 {
     "name": "Fiji",
-    "risk_level": "Normal Precautions",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Fiji/Misc.md"
+        },
         {
             "title": "Travel to Fiji overview",
             "file": "ireland/Fiji/Travel to Fiji overview.md"

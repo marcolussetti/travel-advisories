@@ -1,7 +1,11 @@
 {
     "name": "Russian Federation",
-    "risk_level": "Do Not Travel",
+    "risk_level": "No summary found",
     "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Russian Federation/Misc.md"
+        },
         {
             "title": "Travel to Russian Federation overview",
             "file": "ireland/Russian Federation/Travel to Russian Federation overview.md"
