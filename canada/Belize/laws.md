@@ -59,17 +59,6 @@ If you plan to buy property, or making other investments in Belize:
 * choose your own lawyer
 * avoid hiring a lawyer recommended by a seller
 
-### 2SLGBTQI+ persons
-
-Belizean law does not prohibit sexual acts between individuals of the same sex. However, homosexuality is not widely socially accepted.
-
-2SLGBTQI+ persons should carefully consider the risks of travelling to Belize.
-
-#### Useful links
-
-* [More on safety and security risks for 2SLGBTQI+ persons](https://travel.gc.ca/destinations/belize#LGBT)
-* [Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
-
 ### Dual citizenship
 
 Dual citizenship is legally recognized in Belize.

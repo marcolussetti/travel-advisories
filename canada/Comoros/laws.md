@@ -89,14 +89,6 @@ You must carry the International Driving Permit.
 
 [International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
 
-### 2SLGBTQI+ persons
-
-Comorian law prohibits sexual acts between individuals of the same sex. Those convicted can face up to 5 years imprisonment and heavy fines.
-
-2SLGBTQI+ persons should carefully consider the risks of travelling to the Comoros.
-
-[Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
-
 ### Money
 
 The currency in the Comoros is the Comorian franc (KMF).

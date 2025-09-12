@@ -288,9 +288,15 @@ If you choose to take a taxi or using ridesharing applications:
 
 2SLGBTQI+ persons could be discriminated against based on their sexual orientation, gender identity, gender expression, or sex characteristics.
 
-2SLGBTQI+ persons could be victim of harassments and verbal or physical violence. Avoid public display of affection.
+2SLGBTQI+ persons have been victims of harassment and verbal or physical violence. Avoid public display of affection.
+
+Cameroonian law criminalizes sexual acts and relationships between persons of the same sex. Persons accused of homosexuality risk heavy fines and prison sentences of up to 5 years.
+
+2SLGBTQI+ travellers should carefully consider the risks of travelling to Cameroon.
 
 [Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
+
+### 
 
 ### Piracy
 

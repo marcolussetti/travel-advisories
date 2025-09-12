@@ -2,6 +2,8 @@
 
 ## Safety and security
 
+The border with Belarus closed on September 11, 2025. It will remain closed until further notice. You will not be able to enter Poland from Belarus during this time.
+
 ### Impact of the armed conflict in Ukraine
 
 In February 2022, Russia began a military invasion of Ukraine, which shares a land border with Poland.

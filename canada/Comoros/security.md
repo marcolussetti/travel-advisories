@@ -116,9 +116,11 @@ Women travelling alone may be subject to some forms of harassment and verbal abu
 
 ### 2SLGBTQI+ persons
 
-2SLGBTQI+ persons could be discriminated against based on their sexual orientation, gender identity, gender expression, or sex characteristics.
+2SLGBTQI+ persons could be discriminated against based on their sexual orientation, gender identity, gender expression, or sex characteristics and could be victim of harassment and verbal or physical violence. Avoid public display of affection.
 
-and could be victim of harassment and verbal or physical violence. Avoid public display of affection.
+Comorian law prohibits sexual acts between individuals of the same sex. Those convicted can face up to 5 years imprisonment and heavy fines.
+
+2SLGBTQI+ persons should carefully consider the risks of travelling to the Comoros.
 
 [Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
 

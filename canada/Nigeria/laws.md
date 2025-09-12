@@ -51,14 +51,6 @@ To avoid offending local sensitivities:
 
 In the north, women are advised to cover their legs and travel with a scarf to cover their head and arms when required.
 
-### 2SLGBTQI+ persons
-
-Nigerian laws criminalize sexual acts and relationships between persons of the same sex.
-
-The Same Sex Marriage (Prohibition) Act provides for lengthy jail sentences for offences related to entering same-sex marriages or civil unions, displaying same-sex amorous relationships, and participating in 2SLGBTQI+ organisations. In certain Northern states where Sharia is in effect, penalties can include the death sentence.
-
-[Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
-
 ### Child sex tourism
 
 It's a serious criminal offence to have sex with minors in Nigeria. Prison sentences are severe.

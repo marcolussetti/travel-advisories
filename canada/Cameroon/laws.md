@@ -12,14 +12,6 @@ Penalties for possession, use or trafficking of illegal drugs are severe. Convi
 
 [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
 
-### 2SLGBTQI+ persons
-
-Cameroonian law criminalizes sexual acts and relationships between persons of the same sex. Persons accused of homosexuality risk heavy fines and prison sentences of up to 5 years.
-
-2SLGBTQI+ travellers should carefully consider the risks of travelling to Cameroon.
-
-[Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
-
 ### Dress and behaviour
 
 To avoid offending local sensitivities:
@@ -92,7 +84,7 @@ Traffic accidents can quickly draw large crowds. Remain calm if there is a dispu
 
 [International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
 
-#### **Traffic violations**
+#### Traffic violations
 
 If a police officer asks you to pay a fine on the spot for a traffic violation, ask for a written copy of the fine, which can be paid later at a local courthouse or police station.
 

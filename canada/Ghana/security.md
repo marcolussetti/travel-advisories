@@ -77,9 +77,16 @@ Always be aware of your surroundings when in public places.
 
 2SLGBTQI+ persons and their allies have been victims of violence and discrimination.
 
-2SLGBTQI+ persons could face increased risks to their safety since the “anti-LGBTI” bill was introduced in August 2021.
+Ghanaian law prohibits sexual acts between individuals of the same sex. Those convicted can face up to 25 years in prison.
 
-2SLGBTQI+ persons should carefully consider the risks of travelling to Ghana.
+Even though there are few convictions, 2SLGBTQI+ persons have been arrested and victims of extortion and discrimination based on their identity and sexual orientation.
+
+Since the anti-LGBTI bill was introduced in August 2021, there is an increased risk of violence and discrimination against 2SLGBTQI+ persons and their allies.
+
+2SLGBTQI+ travellers should:
+
+* carefully consider the risks of travelling to Ghana
+* be cautious and avoid public displays of affection with someone of the same sex
 
 [Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
 

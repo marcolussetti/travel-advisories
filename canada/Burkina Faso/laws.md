@@ -12,16 +12,6 @@ Penalties for possession, use or trafficking of illegal drugs are severe. Convic
 
 [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
 
-### 2SLGBTQI+ persons
-
-Burkinabe law criminalizes sexual acts and relationships between people of the same sex, as well as any behavior "promoting homosexual practices".
-
-Those found guilty are subject to heavy fines, expulsion from the country or prison sentences of 2 to 5 years.
-
-2SLGBTQI+ persons are regularly victims of discrimination based on their sexual orientation, gender identity, gender expression, or sex characteristics.
-
-[Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
-
 ### Photography
 
 It is prohibited to photograph installations that may be considered sensitive. This includes:

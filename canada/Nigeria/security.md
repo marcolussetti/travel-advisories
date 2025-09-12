@@ -340,6 +340,10 @@ Women travelling alone may be subject to some forms of harassment or verbal abus
 
 Public displays of affection are not socially acceptable.
 
+Nigerian laws criminalize sexual acts and relationships between persons of the same sex.
+
+The Same Sex Marriage (Prohibition) Act provides for lengthy jail sentences for offences related to entering same-sex marriages or civil unions, displaying same-sex amorous relationships, and participating in 2SLGBTQI+ organisations. In certain Northern states where Sharia is in effect, penalties can include the death sentence.
+
 [Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
 
 ### Swimming

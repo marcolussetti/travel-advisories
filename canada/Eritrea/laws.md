@@ -27,16 +27,6 @@ Local authorities may request to see your identification at any time.
 
 Eritrea has strict regulations for electronics allowed into the country. All electronic items, including laptops, cell phones and cameras, must be declared upon arrival. Failure to declare electronic items on arrival may result in their confiscation upon departure.
 
-### 2SLGBTQI+ persons
-
-Eritrean law criminalizes sexual acts and relationships between persons of the same sex.
-
-Convicted offenders could face up to 7 years of imprisonment and heavy fines.
-
-2SLGBTQI+ persons should carefully consider the risks of travelling to Eritrea.
-
-[Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
-
 ### Photography
 
 Photographing sensitive installations is prohibited. This includes:

@@ -90,9 +90,13 @@ Women travelling alone may be subject to some forms of harassment and verbal abu
 
 ### 2SLGBTQI+ persons
 
-2SLGBTQI+ persons could be discriminated against based on their sexual orientation, gender identity, gender expression or sex characteristics.
+2SLGBTQI+ persons could be discriminated against based on their sexual orientation, gender identity, gender expression or sex characteristics and could be victims of harassments and verbal or physical violence. Avoid public displays of affection.
 
-2SLGBTQI+ persons could be victims of harassments and verbal or physical violence. Avoid public displays of affection.
+Eritrean law criminalizes sexual acts and relationships between persons of the same sex.
+
+Convicted offenders could face up to 7 years of imprisonment and heavy fines.
+
+2SLGBTQI+ persons should carefully consider the risks of travelling to Eritrea.
 
 [Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
 

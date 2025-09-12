@@ -14,8 +14,6 @@ This process can take a long time, and there is no guarantee that the transfer w
 
 If you violate Costa Rica’s laws, even unknowingly, you may be expelled, arrested or imprisoned.
 
-[Overview of the criminal law system in Costa Rica](https://travel.gc.ca/travelling/advisories/overview-of-the-criminal-law-system-in-costa-rica)
-
 ### Drugs
 
 Penalties for possession, use or trafficking of illegal drugs are severe. Convicted offenders can expect lengthy jail sentences or heavy fines.

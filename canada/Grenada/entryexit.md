@@ -16,7 +16,7 @@ Before you travel, check with your transportation company about passport require
 
 #### Regular Canadian passport
 
-Your passport must be valid for the expected duration of your stay in Grenada.
+Your passport must be valid for at least 6 months beyond your date of arrival in Grenada.
 
 #### Passport for official travel
 

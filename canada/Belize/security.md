@@ -90,14 +90,11 @@ Women travelling alone may be subject to some forms of harassment and verbal abu
 
 ### 2SLGBTQI+ persons
 
-2SLGBTQI+ persons have experienced harassment and verbal or physical abuse.
+Belizean law does not prohibit sexual acts between individuals of the same sex. However, homosexuality is not widely socially accepted. 2SLGBTQI+ persons have experienced harassment and verbal or physical abuse.
 
-Avoid public displays of affection.
+2SLGBTQI+ persons should carefully consider the risks of travelling to Belize. If you do travel to Belize, avoid public displays of affection.
 
-#### Useful links
-
-* [More on laws affecting 2SLGBTQI+ persons](http://travel.gc.ca/destinations/belize#LGBTPLUS)
-* [Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
+[Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
 
 ### Demonstrations
 
@@ -123,11 +120,11 @@ Rescue services may not be consistent with international standards. Not all beac
 
 [Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
-### Adventure tourism
+### Adventure travel
 
 Outdoor activities, such as snorkelling, diving, zip-lining, canopy touring, hiking, mountain biking and other adventure activities can be dangerous if unprepared. Trails are not always marked, and weather conditions can change rapidly, even in the summer.
 
-If you intend to practice adventure tourism:
+If you intend to practice adventure travel:
 
 * never do so alone, and don’t part with your expedition companions
 * obtain detailed information on your activity and on the environment in which you will be before setting out
@@ -138,6 +135,8 @@ If you intend to practice adventure tourism:
 * stay informed of weather and other conditions that may pose a hazard
 * refrain from using equipment if you have doubts on the safety
 * inform a family member or friend of your itinerary
+
+[Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
 ### Road travel
 

@@ -169,6 +169,10 @@ They are also subject to discrimination based on their sexual orientation, gende
 
 Avoid public displays of affection.
 
+Burkinabe law criminalizes sexual acts and relationships between people of the same sex, as well as any behavior "promoting homosexual practices".
+
+Those found guilty are subject to heavy fines, expulsion from the country or prison sentences of 2 to 5 years.
+
 [Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
 
 ### Roads

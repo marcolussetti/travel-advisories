@@ -1,7 +1,7 @@
 {
     "name": "Chile",
-    "update_reason": "Thorough review and update of the entire content",
-    "update_date": "2025-08-29T15:21:00",
+    "update_reason": "Editorial change",
+    "update_date": "2025-09-11T16:45:00",
     "sections": {
         "risk": "canada/Chile/risk.md",
         "security": "canada/Chile/security.md",
