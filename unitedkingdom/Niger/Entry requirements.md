@@ -2,7 +2,7 @@
 
 This information is for people travelling on a full [‘British citizen’ passport](https://www.gov.uk/types-of-british-nationality) from the UK who choose to travel against FCDO advice. It is based on the UK government’s understanding of Niger’s current rules for the most common types of travel.
 
-The authorities in Niger set and enforce entry rules. If you’re not sure how these requirements apply to you, contact the [Niger Consulate in the UK](https://www.nigerconsulate.org.uk).
+The authorities in Niger set and enforce entry rules. If you’re not sure how these requirements apply to you, contact the [Niger Consulate in the UK](https://nigerconsulate.org.uk/).
 
 ## Passport validity requirements
 
@@ -14,9 +14,9 @@ You will be denied entry if you do not have a valid travel document or try to us
 
 ## Visa requirements
 
-You will need a visa to enter Niger. You can apply for a visa from the Nigerien Consulate in Milton Keynes.
+You will need a visa to enter Niger. You can apply for a visa from the Nigerien embassy in Geneva.
 
-Visit the [consulate’s website](https://www.nigerconsulate.org.uk/niger-consulate-uk/consular-services) for application forms, payment, and more information on requirements.
+Visit the [embassy website](https://www.ambassade-niger-geneve.net/visas.html) for application forms, payment, and more information on requirements.
 
 ## Enhanced security checks
 

@@ -32,7 +32,7 @@ FCDO is not aware of any difficulties for British nationals travelling by air be
 
 ## Land borders
 
-The land borders with Ukraine are currently closed to British nationals. Other land borders have restrictions. See [Safety and security](/foreign-travel-advice/belarus/safety-and-security).
+The land borders with Ukraine are currently closed to British nationals and from 11 September the border with Poland will be closed entirely. Other land borders have restrictions. See [Safety and security](/foreign-travel-advice/belarus/safety-and-security).
 
 ## Vaccine requirements
 

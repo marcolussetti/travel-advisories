@@ -1,17 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 September 2025
+:   12 September 2025
 
 Updated:
-:   10 September 2025
+:   11 September 2025
 
 Latest update:
-:   Addition of information about potential air travel disruptions (‘Warnings and insurance’ page)
-
-## Polish Airspace
-
-Poland’s airports are open but there may be travel disruption. Follow official Polish government announcements and updates from airlines.
+:   Addition of information about the temporary closure of Poland's border with Belarus and removal of information about potential air travel disruptions ('Warnings and insurance' and 'Entry requirements' pages).
 
 ## Ukraine-Poland border
 

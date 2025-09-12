@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   20 August 2025
+:   12 September 2025
 
 Updated:
-:   19 August 2025
+:   11 September 2025
 
 Latest update:
-:   Updated information on the threat of terrorist attacks to roads (See ‘Road safety’ on the ‘Safety and security’ page).
+:   New information on how to apply for a visa ('Entry requirements' page).
 
 ![](https://assets.publishing.service.gov.uk/media/66c48e1c2e8f04b086cdf445/FCDO__TA__029_-_Niger_Travel_Advice_Ed3__WEB_.jpg)
 

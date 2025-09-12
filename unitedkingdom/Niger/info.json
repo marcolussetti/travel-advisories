@@ -1,11 +1,11 @@
 {
     "name": "Niger",
-    "update_reason": "Updated information on the threat of terrorist attacks to roads (See \u2018Road safety\u2019 on the \u2018Safety and security\u2019 page).",
+    "update_reason": "New information on how to apply for a visa ('Entry requirements' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Niger/Warnings and insurance.md",
-            "update_date": "2025-08-19T10:47:29+01:00"
+            "update_date": "2025-09-11T16:36:18+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Niger/Getting help.md"
         }
     ],
-    "update_date": "2025-08-19T10:47:29+01:00"
+    "update_date": "2025-09-11T16:36:18+01:00"
 }
