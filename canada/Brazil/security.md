@@ -277,11 +277,11 @@ Demonstrations occur frequently. Even peaceful demonstrations can turn violent 
 
 ### 2SLGBTQI+ persons
 
-2SLGBTQI+ persons in Brazil have been victims of violence based on their sexual orientation, gender identity, gender expression, or sex characteristics. Violent incidents include physical assault resulting in severe injury. Public displays of affection are more socially acceptable in larger cities, but they are not normally acceptable in most of the country.
+Brazilian law doesn't criminalize sexual acts or relationships between persons of the same sex. However, 2SLGBTQI+ persons in Brazil have been victims of violence based on their sexual orientation, gender identity, gender expression, or sex characteristics. Violent incidents include physical assault resulting in severe injury.
 
 Public displays of affection are more socially acceptable in larger cities, but they are not normally acceptable in most of the country.
 
-[Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel?_ga=2.238372224.1604296173.1718630005-1405742948.1680118138)
+[Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
 
 ### Soccer matches and sports events
 
@@ -302,20 +302,23 @@ Coastal waters can be dangerous as riptides are common. Public beaches in major 
 
 [Water safety abroad](https://travel.gc.ca/travelling/health-safety/water-safety)
 
-### Adventure tourism
+### Adventure travel
 
 Outdoor activities, such as hiking, can be dangerous in remote areas as trails may become impassable due to flash floods.
 
 Extreme sports, such as skydiving and bungee jumping, are dangerous and tour operators may not meet Canadian safety standards. Certain adventure activities, such as hot air ballooning, are both dangerous and illegal.
 
-If you intend to participate in adventure tourism activities:
+If you intend to participate in adventure travel activities:
 
 * share your itinerary with a friend or family member if hiking alone
 * stay on marked trails and consider hiring an experienced guide from a reputable company
 * obtain detailed information on your activity and on the environment in which you will be setting out
 * refrain from using equipment if you are unsure of its condition or safety
 
-[Visit Brazil](https://visitbrasil.com/en/) – Tourism Committee of Brazil
+#### Useful links
+
+* [Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
+* [Visit Brazil](https://visitbrasil.com/en/) – Tourism Committee of Brazil
 
 ### Electricity outages
 

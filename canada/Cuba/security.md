@@ -76,9 +76,9 @@ In bars, sex workers, including minors, may be very persistent and intrusive wit
 
 ### Power outages
 
-Cuba experienced nationwide power outages in 2024. The electrical system is vulnerable and outages can occur suddenly. Scheduled power cuts regularly take place to conserve power, particularly outside Havana, and can last many hours.
+To reduce pressure on the electrical network, Cuba schedules long daily power cuts. Sometimes, unexpected nationwide power outages occur and can last more than 24 hours.
 
-Most large hotels and resorts use generators during power outages.
+Most large hotels and resorts use generators during power outages. However, fuel shortages may impact generator use and the type of services provided.
 
 * Monitor local media for the latest information
 * Try to keep your phone charged

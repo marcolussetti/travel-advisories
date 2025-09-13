@@ -1,7 +1,7 @@
 {
     "name": "Colombia",
-    "update_reason": "Need help? \u2013 added information on disruptions to telephone lines",
-    "update_date": "2025-09-10T14:43:00",
+    "update_reason": "Editorial change",
+    "update_date": "2025-09-12T13:28:00",
     "sections": {
         "risk": "canada/Colombia/risk.md",
         "security": "canada/Colombia/security.md",

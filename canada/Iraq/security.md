@@ -75,6 +75,19 @@ This includes:
 * sexual assault
 * murder
 
+Iraqi law prohibits sexual acts between individuals of the same sex.
+
+In July 2024, amendments to the anti-prostitution law entered into effect in Iraq.
+
+These amendments set out penalties for convicted offenders, including:
+
+* large fines
+* up to 15 years’ imprisonment for same-sex relations
+* at least 7 years’ imprisonment and large fines for “promoting homosexuality”
+* up to 3 years’ imprisonment for transgender persons, gender-affirming medical interventions and those who “intentionally act like women”
+
+2SLGBTQI+ persons should carefully consider the risks of travelling to Iraq.
+
 [Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
 
 ### Women’s safety

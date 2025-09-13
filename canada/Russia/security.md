@@ -240,9 +240,16 @@ You could also experience surveillance by the authorities simply because you are
 
 2SLGBTQI+ persons, as well as their allies and families, have been attacked, harassed, and verbally and physically abused. Discrimination and violence targeting 2SLGBTQI+ persons occur, particularly in the North Caucasus republics of Chechnya and Dagestan.
 
-Russian law considers organizations associated with 2SLGBTQI+ rights or advocacy as “extremist.” Displaying symbols and media or openly discussing 2SLGBTQI+ in public could lead to your arrest, fine, detention or deportation.
+Although the laws of Russia do not prohibit homosexual activity, Russian federal law prohibits public actions that are described as promoting homosexuality and “non-traditional sexual relations.”
 
-2SLGBTQI+ travellers should carefully consider the risks of travelling to Russia.
+Since January 2024, Russian law treats organizations advocating for 2SLGBTQI+ persons or issues as “extremist.” Previous laws banning “LGBT propaganda” and “the international LGBT movement” reflect an increasingly restrictive environment for 2SLGBTQI+ persons and their allies. Actions that contravene or appear to contravene this law may lead to arrest, a fine, jail time and deportation. Examples of such actions include:
+
+* the dissemination of information, for example, through public statements
+* public displays of affection.
+* displaying symbols associated with 2SLGBTQI+ identities, cultures, or organizations, including flags
+* showing or sharing media, including books and advertising, related to 2SLGBTQI+ themes or information
+
+Same sex marriage is not recognized in Russia. Homosexuality isn’t socially accepted. 2SLGBTQI+ travellers should carefully consider the risks of travelling to Russia.
 
 [Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
 

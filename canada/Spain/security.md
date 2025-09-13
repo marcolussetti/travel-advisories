@@ -2,11 +2,9 @@
 
 ## Safety and security
 
-### Crime
+### Petty crime
 
-#### Petty crime
-
-Petty crime, such as pickpocketing and purse snatching, is common. It’s most prevalent in larger cities and particularly during holidays, festivals and weekends.
+Petty crime, such as pickpocketing and bag snatching, is common, especially in larger cities like Madrid and Barcelona. Thieves often target tourists, particularly during weekends, holidays and festivals.
 
 Thieves work alone or in groups and may use various techniques to distract you and steal your belongings, such as asking for directions or informing you of a stain on your clothes.
 
@@ -14,57 +12,42 @@ Individuals posing as plainclothes police officers may ask to see your passport,
 
 Thieves are especially active in crowded areas, such as:
 
-* airports and public transportation facilities
+* public transportation, including subway systems and bus and train stations
+* airports, including car rental facilities
 * hotel lobbies
 * restaurants, patios and outdoor cafés
 * beaches
 * tourist attractions
 
+#### Barcelona
+
+Petty crime occurs frequently in crowded public areas, including beaches and public transportation. Thieves are very active in popular tourist destinations, including:
+
+* El-Prat airport, including at car rental facilities and on the airport shuttle bus (the Aerobus)
+* Güell park
+* Las Ramblas, including in internet cafés
+* Passeig de Gràcia
+* Plaça de Catalunya
+* Plaça Reial and surrounding streets of the old city (Ciutat Vella)
+* Sagrada Família Basilica
+
 #### Madrid
 
-In Madrid, thieves are particularly active in the following areas:
+In Madrid, petty crime is common in the following areas:
 
+* Madrid-Barajas airport, including car rental facilities
 * Atocha train station
 * Gran Vía
 * Plaza Cibeles and Paseo del Prado
 * Puerta del Sol area, Plaza Mayor and surrounding streets
 * Retiro park
-* the subway system
 
-#### Barcelona
-
-There has been a significant increase in stolen passports in the Barcelona region during the last few years.
-
-In Barcelona, thieves are particularly active in the following areas:
-
-* Barceloneta beach
-* El-Prat airport and on the airport shuttle bus (the Aerobus)
-* Güell park
-* Las Ramblas, including in Internet cafés
-* Passeig de Gràcia
-* Plaça de Catalunya
-* Plaça Reial and surrounding streets of the old city (Ciutat Vella
-* Sagrada Família Basilica
-* Sants train and bus station
-* the subway system
-
-#### Useful links
-
-* [Security advice while in Catalonia](https://mossos.gencat.cat/en/consells_de_seguretat/index.html) - Mossos d’Esquadra
-* [Tips to stay safe](https://ajuntament.barcelona.cat/seguretatiprevencio/sites/default/files/PDF/stay-safe-respect-others.pdf) - Municipality of Barcelona
-
-While in Spain:
+During your trip:
 
 * ensure that your belongings, including your passport and other travel documents, are secure at all times
 * carry a photocopy or digital copy of your passport identification page, driver’s licence, train or airline tickets and credit cards
-* at the beach, bring only the essentials
 * expect travel delays and additional expenses if your passport is stolen
 * don’t leave luggage unattended at airport check-in or ticket counters, car rental desks or hotel lobbies
-* avoid frequenting unlit areas
-
-#### Violent crime
-
-Violent crime is rare but does occur. Home burglaries happen in larger cities and coastal areas and sometimes affect homes or vacation rental apartments offered through online accommodation apps.
 
 #### On the road
 
@@ -79,7 +62,16 @@ There is also a high threat of theft from rental and parked vehicles.
 * Avoid leaving any luggage or valuables in the vehicle
 * Always lock your doors and keep windows closed
 
-#### Foreign Tourist Assistance Service
+#### Useful links
+
+* [Security advice while in Catalonia](https://mossos.gencat.cat/en/consells_de_seguretat/index.html) - Mossos d’Esquadra
+* [Tips to stay safe](https://ajuntament.barcelona.cat/seguretatiprevencio/sites/default/files/PDF/stay-safe-respect-others.pdf)- Municipality of Barcelona
+
+### Violent crime
+
+Violent crime is rare but does occur. Home burglaries happen in larger cities and coastal areas and sometimes affect homes or vacation rental apartments offered through online accommodation apps.
+
+### Foreign Tourist Assistance Service
 
 Several municipalities have dedicated police units for foreign tourists (SATE) and offer services in English and other languages.
 
@@ -87,11 +79,11 @@ You can also call the tourist hotline to file a police report with the assistanc
 
 #### Useful links
 
-* [Safety tips for tourists](https://www.policia.es/miscelanea/participacion_ciudadana/consejos_de_seguridad_para_turistas_es_en.pdf) - Policía Nacional
-* [Foreign Tourist Assistance Service (SATE) in Madrid](https://www.esmadrid.com/en/tourist-information/sate) - Tourism Madrid
-* [Tourist Assistance Service in Barcelona (Ciutat Vella District)](https://ajuntament.barcelona.cat/guardiaurbana/en/contact) - Guàrdia Urbana de Barcelona
-* [Foreign Tourist Assistance Service (SATE) in Málaga](http://www.malagaturismo.com/en/tourist-resources/detail/municipal-tourist-information-office---head-office/17) - Tourism Málaga
-* [Hotline service to file a police report with a translator](https://www.policia.es/_es/idioma_en_policia.php) - Policía Nacional
+* [Safety tips for tourists](https://www.policia.es/miscelanea/participacion_ciudadana/consejos_de_seguridad_para_turistas_es_en.pdf) - Policía Nacional
+* [Foreign Tourist Assistance Service (SATE) in Madrid](https://www.esmadrid.com/en/tourist-information/sate) - Tourism Madrid
+* [Tourist Assistance Service in Barcelona (Ciutat Vella District)](https://ajuntament.barcelona.cat/guardiaurbana/en/contact) - Guàrdia Urbana de Barcelona
+* [Foreign Tourist Assistance Service (SATE) in Málaga](http://www.malagaturismo.com/en/tourist-resources/detail/municipal-tourist-information-office---head-office/17) - Tourism Málaga
+* [Hotline service to file a police report with a translator](https://www.policia.es/_es/idioma_en_policia.php) - Policía Nacional
 
 ### Terrorism
 

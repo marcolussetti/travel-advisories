@@ -147,6 +147,10 @@ You should only use official border crossings to and from Kuwait. Kuwaiti offici
 
 If you are detained by local authorities due to your actual or perceived sexual orientation, gender identity or any other sexual characteristic, you should report it immediately to the Embassy of Canada to Kuwait, in Kuwait City.
 
+Kuwaiti law criminalizes sexual acts and relationships between persons of the same sex. Convicted offenders could face up to 7 years of imprisonment.
+
+In 2022, the Constitutional Court of Kuwait decriminalized the “imitation of the opposite sex.” However, 2SLGBTQI+ persons could be arrested or deported for violating public morals or the public interest.
+
 2SLGBTQI+ persons should carefully consider the risks of travelling to Kuwait.
 
 [Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)

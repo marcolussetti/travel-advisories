@@ -34,16 +34,6 @@ In public, between sunrise and sunset, be discreet when:
 * eating
 * smoking
 
-### 2SLGBTQI+ persons
-
-Kuwaiti law criminalizes sexual acts and relationships between persons of the same sex. Convicted offenders could face up to 7 years of imprisonment.
-
-In 2022, the Constitutional Court of Kuwait decriminalized the “imitation of the opposite sex.” However, 2SLGBTQI+ persons could be arrested or deported for violating public morals or the public interest.
-
-2SLGBTQI+ persons should carefully consider the risks of travelling to Kuwait.
-
-[Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
-
 ### Driving
 
 Authorities may detain suspects as well as witnesses to incidents for lengthy periods with severely limited, or no access to, legal counsel or consular officials. They may also confiscate the passport of an individual involved in legal proceedings, pending resolution of the case.

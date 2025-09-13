@@ -60,14 +60,6 @@ Photography of military installations, public buildings and monuments may result
 
 Belarusian authorities apply, sometimes arbitrarily, the death penalty for certain crimes, including for attempts to carry out acts of terrorism.
 
-### 2SLGBTQI+ persons
-
-Belarusian law does not prohibit sexual acts between individuals of the same sex. Homosexuality, however, is not widely accepted in Belarus.
-
-Media and artistic depictions of same-sex relationships and transgender people are considered “pornography” under Belarusian law. You could face arrest and detention for public displays of 2SLGBTQI+ relationships, themes, or identities.
-
-[Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
-
 ### Driving
 
 You must carry an international driving permit.

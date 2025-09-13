@@ -75,7 +75,20 @@ Terrorists may use such occasions to mount attacks.
 
 ### 2SLGBTQI+ persons
 
-2SLGBTQI+persons are discriminated against based on their sexual orientation, gender identity, gender expression, or sex characteristics. They are at high risk of physical attacks, sexual assault and other types of abuse.
+2SLGBTQI+ persons are discriminated against based on their sexual orientation, gender identity, gender expression, or sex characteristics. They are at high risk of physical attacks, sexual assault and other types of abuse.
+
+Afghan law explicitly prohibits same-sex sexual relations. This prohibition is being upheld by the Afghan de facto authorities. Homosexuality isn’t socially accepted.
+
+2SLGBTQI+ persons could be arrested under several charges, including sodomy and illegal extramarital sexual relations.
+
+Those convicted face:
+
+* fines
+* imprisonment
+* corporal punishment
+* the death penalty
+
+2SLGBTQI+ persons should carefully consider the risks of travelling to Afghanistan.
 
 [Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
 

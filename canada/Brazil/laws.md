@@ -26,14 +26,6 @@ Travellers have fallen victim to scams in which illegal drugs are hidden inside 
 * [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
 * [Warning to Canadian seniors targeted by international drug smuggling scams](https://www.cbsa-asfc.gc.ca/security-securite/senior-aines-eng.html)
 
-### 2SLGBTQI+ persons
-
-Brazilian law doesn’t criminalize sexual acts or relationships between persons of the same sex.
-
-However, 2SLGBTQI+ persons could be discriminated against based on their sexual orientation, gender identity, gender expression, or sex characteristics.
-
-[Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel?_ga=2.238372224.1604296173.1718630005-1405742948.1680118138)
-
 ### Child sex tourism
 
 Brazil is actively seeking to prevent child sex tourism. Several tourists have been convicted of offences relating to the exploitation of minors.

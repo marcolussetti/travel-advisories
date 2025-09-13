@@ -115,14 +115,6 @@ You must carry an International Driving Permit.
 
 [International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
 
-### 2SLGBTQI+ persons
-
-Georgian law doesn’t criminalize sexual acts or relationships between persons of the same sex.
-
-However, 2SLGBTQI+ persons could be discriminated against based on their sexual orientation, gender identity, gender expression, or sex characteristics.
-
-[Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
-
 ### Surrogacy
 
 In 2023, the government of Georgia proposed a law to prohibit surrogacy arrangements to foreigners.

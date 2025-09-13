@@ -170,7 +170,7 @@ Not all beaches have lifeguards or warning flags.
 
 [Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
-### Adventure tourism
+### Adventure travel
 
 Tour operators may not adhere to international standards.
 

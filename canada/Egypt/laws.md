@@ -135,12 +135,12 @@ In public, between sunrise and sunset, be discreet when:
 
 Egyptian laws doesn’t criminalize sexual acts or relationships between persons of the same sex.
 
-However, 2SLGBTQI+ travellers could be discriminated against based on their sexual orientation, gender identity, gender expression or sex characteristics.
+However, 2SLGBTQI+ persons could be discriminated against based on their sexual orientation, gender identity, gender expression or sex characteristics.
 
 You could be arrested for indecent exposure, public nuisance or scandalous acts.
 
 The Egyptian police target apps and websites popular within the 2SLGBTQI+ community. They have used fake and legitimate accounts from community members who had their phones confiscated. Assaults and arrests by the police have occurred as a result of encounters set up through dating apps.
 
-2SLGBTQI+  travellers should carefully consider the risks of travelling to Egypt.
+2SLGBTQI+ persons should carefully consider the risks of travelling to Egypt.
 
 [Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)

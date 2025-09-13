@@ -2,6 +2,12 @@
 
 ## Safety and security
 
+Demonstrations and roadblocks are occurring and more are expected in the coming days in towns surrounding Machu Picchu, including Urubamba, Pachar and Ollantaytambo. Rail service to Machu Picchu could be disrupted. If you’re in the area:
+
+* avoid areas where demonstrations and large gatherings are taking place
+* follow the instructions of local authorities
+* contact your tour operator for information on your travel arrangements
+
 ### Demonstrations and strikes
 
 Demonstrations and strikes take place regularly throughout the country. Strikes can complicate travel and disrupt public transport and services, including your ability to travel to or leave isolated tourist destinations such as Machu Picchu. They could also lead to border closures with Bolivia. Protestors may also block rivers essential for transportation in some remote regions, including the Manu region of Madre de Dios and Iquitos region. This may result in the temporary detainment of tourists.

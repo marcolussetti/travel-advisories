@@ -88,9 +88,9 @@ Demonstrations occur frequently across the country. Even peaceful demonstrations
 
 [Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
 
-### 
-
 ### 2SLGBTQI+ persons
+
+Serbian law does not prohibit sexual acts between individuals of the same sex. However, homosexuality is not widely socially accepted.
 
 2SLGBTQI+ persons have been targets of harassment and violence. Some Pride events have met organized counter-protests, which may create an intimidating or threatening environment.
 

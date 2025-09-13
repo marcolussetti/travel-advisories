@@ -63,14 +63,6 @@ Importation of communications equipment such as mobile phones and laptop compute
 
 Customs regulations on prohibited imports and exports are often unclear. You should contact the nearest Myanmar embassy or consulate for advice on this subject.
 
-### 2SLGBTQI+ persons
-
-The laws of Myanmar prohibit sexual acts between individuals of the same sex.
-
-2SLGBTQI+ persons should carefully consider the risks of travelling to Myanmar.
-
-[Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
-
 ### Dual citizenship
 
 Dual citizenship is not legally recognized in Myanmar. Citizenship is determined solely by national laws, and the decision to recognize dual citizenship rests completely with the country in which you are located when seeking consular assistance. If you are a Canadian citizen, you will require a valid Canadian passport to re-enter Canada.

@@ -250,7 +250,7 @@ If you are planning to go boating:
 
 [Water safety abroad](https://travel.gc.ca/travelling/health-safety/water-safety)
 
-### Adventure tourism
+### Adventure travel
 
 Outdoor activities can be dangerous if unprepared, such as:
 
@@ -260,13 +260,15 @@ Outdoor activities can be dangerous if unprepared, such as:
 * hiking
 * mountain biking
 
-If you intend to participate in adventure tourism activities:
+If you intend to participate in adventure travel activities:
 
 * share your itinerary with a friend or family member if hiking alone
 * obtain detailed information on your activity and on the environment in which you will be setting out
 * buy travel insurance that covers incidents related to this type of recreational activity
 * monitor weather conditions and other possible hazards
 * ensure that you have proper equipment and bring sufficient water
+
+[Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
 ### Road safety
 

@@ -152,6 +152,10 @@ Discussions about overcharging have turned violent. Tourists have been threatene
 
 There have also been violent attacks against 2SLGBTQI+ persons during the Pride festivities in Tbilisi, resulting in casualties.
 
+Georgian law doesn’t criminalize sexual acts or relationships between persons of the same sex.
+
+However, 2SLGBTQI+ persons could be discriminated against based on their sexual orientation, gender identity, gender expression, or sex characteristics.
+
 2SLGBTQI+ persons should carefully consider the risks of travelling to Georgia.
 
 [Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)

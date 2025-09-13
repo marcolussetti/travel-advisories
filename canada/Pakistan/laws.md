@@ -51,14 +51,6 @@ Local authorities may ask you to show identification at any time.
 
 Ask permission before taking photographs of local residents.
 
-### 2SLGBTQI+ persons
-
-There are no laws in Pakistan to prohibit public or private sector discrimination on the basis of sexual orientation. Pakistani law prohibits sexual acts between individuals of the same sex. Those convicted can be fined, face up to life imprisonment or the death penalty.
-
-2SLGBTQI+ persons should carefully consider the risks of travelling to Pakistan.
-
-[Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
-
 ### Dual citizenship
 
 Dual citizenship is legally recognized in Pakistan.

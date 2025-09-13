@@ -129,6 +129,10 @@ Never leave your food or drinks unattended or in the care of strangers. Avoid ac
 
 2SLGBTQI+ persons, as well as their allies, have been harassed, and verbally and physically abused.
 
+Belarusian law does not prohibit sexual acts between individuals of the same sex. Homosexuality, however, is not widely accepted in Belarus.
+
+Media and artistic depictions of same-sex relationships and transgender people are considered “pornography” under Belarusian law. You could face arrest and detention for public displays of 2SLGBTQI+ relationships, themes, or identities.
+
 2SLGBTQI+ travellers should carefully consider the risks of travelling to Belarus.
 
 [Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)

@@ -126,9 +126,11 @@ Scams involving gems and jewellery occur. Merchants sell lower-quality items at 
 
 2SLGBTQI+ persons are discriminated against based on their sexual orientation, gender identity, gender expression, or sex characteristics. 2SLGBTQI+ people are vulnerable under Myanmar's criminal laws, and since the 2021 coup, there have increased reports of targeted rape and sexual violence against perceived members of 2SLGBTQI+.
 
-2SLGBTQI+ persons have been harassed and verbally and physically abused. 2SLGBTQI+ people in detention are particularly vulnerable to torture, including sexual violence.
+2SLGBTQI+ persons have been harassed and verbally and physically abused. 2SLGBTQI+ people in detention are particularly vulnerable to torture, including sexual violence. Acts of violence are committed against 2SLGBTQI+ persons.
 
-Acts of violence are committed against 2SLGBTQI+ persons.
+The laws of Myanmar prohibit sexual acts between individuals of the same sex. 2SLGBTQI+ persons should carefully consider the risks of travelling to Myanmar.
+
+[Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
 
 ### Communications
 

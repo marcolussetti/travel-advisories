@@ -20,7 +20,7 @@ Extramarital relations, including sexual relations are illegal. Convicted offend
 
 #### Restrictions imposed on women
 
-The Afghan de facto authorities prohibit women from:
+The Afghan de facto authorities strictly enforce their interpretation of Islam and prohibit women from:
 
 * travelling and going to public places, such as parks and restaurants, without a male guardian (mahram)
 * looking at unrelated men’s body and/or face
@@ -63,28 +63,9 @@ Religious proselytism is illegal in Afghanistan. This includes preaching, posses
 
 You could be accused of blasphemy if you engage in religious activities that contradict or challenge the Afghan de facto authorities’ extreme interpretation of Islamic teachings and values. Such acts are punishable by lengthy jail sentences and even the death sentence.
 
-### Photography
+#### Photography
 
 It’s illegal to take photographs of government buildings, military installations and personnel and palaces. Seek permission before taking photographs.
-
-### 2SLGBTQI+ persons
-
-Afghan law explicitly prohibits same-sex sexual relations. This prohibition is being upheld by the Afghan de facto authorities. Homosexuality isn’t socially accepted.
-
-2SLGBTQI+persons are discriminated against based on their sexual orientation, gender identity, gender expression, or sex characteristics. They could be arrested under several charges, including sodomy and illegal extramarital sexual relations
-
-Those convicted face:
-
-* fines
-* imprisonment
-* corporal punishment
-* the death penalty
-
-2SLGBTQI+ persons should carefully consider the risks of travelling to Afghanistan.
-
-[Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
-
-### 
 
 ### Dual citizenship
 

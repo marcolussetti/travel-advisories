@@ -6,7 +6,7 @@
 
 Climate change is affecting Vietnam. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local media for the latest information.
 
-### **Typhoons and monsoons**
+### Typhoons and monsoons
 
 #### Typhoons
 
@@ -46,6 +46,7 @@ Seasonal floods can hamper overland travel and reduce the provision of essential
 
 * [Forecasting](https://nchmf.gov.vn/KttvsiteE/en-US/2/index.html) – National Center for Hydro-Meteorological Forecasting
 * [Mekong river levels](https://www.mrcmekong.org/) – Mekong River Commission
+* [Vietnam Disasters Monitoring System](http://vndms.dmc.gov.vn/) – Directorate of Dike Management and Natural Disaster Prevention and Control (in Vietnamese only)
 * [Severe storms outside Canada](https://travel.gc.ca/travelling/health-safety/hurricanes-typhoons-cyclones-monsoons)
 * [Large-scale emergencies abroad](https://travel.gc.ca/assistance/emergency-info/large-scale-emergencies-abroad)
 

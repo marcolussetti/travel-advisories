@@ -184,6 +184,12 @@ If you are the victim of a sexual assault, you should report it immediately to t
 
 2SLGBTQI+ persons could be discriminated against based on their sexual orientation, gender identity, gender expression or sex characteristics. Human rights organizations have reported discrimination and violence being committed against 2SLGBTQI+ persons in Pakistan, including the denial of basic rights and services, sexual violence and murder. Many hotels and similar establishments may only allow “married couples” to stay together, and same-sex couples should be prepared to stay separately while travelling.
 
+There are no laws in Pakistan to prohibit public or private sector discrimination on the basis of sexual orientation. Pakistani law prohibits sexual acts between individuals of the same sex. Those convicted can be fined, face up to life imprisonment or the death penalty.
+
+2SLGBTQI+ persons should carefully consider the risks of travelling to Pakistan.
+
+[Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
+
 ### Forced marriages
 
 Forced marriage affecting foreigners occurs. It sometimes occurs without the affected person's prior knowledge or consent.
