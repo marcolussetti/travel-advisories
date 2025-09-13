@@ -12,7 +12,7 @@ Terrorists are very likely to try to carry out attacks in Mali.
 
 Several terrorist groups operate in Mali, including Jama’a Nusrat ul-Islam wa al-Muslimin (JNIM) and Islamic State Sahel Province (ISSP). Whilst the regions most affected by terrorist activity are central and northern Mali, JNIM has increasingly conducted attacks in southern Mali and retain the capability and intent to target the capital, Bamako.
 
-The security situation in Mali has deteriorated amid an upsurge of terrorist attacks following the December 2023 withdrawal of the UN peacekeeping mission. Terrorists have increasingly attacked military bases and personnel, sometimes including foreign military personnel,  as well as government and official buildings, including in Bamako. Such attacks often lead to the deaths of soldiers, civilians and others. Attempts to carry out similar attacks remain very likely.
+The security situation in Mali has deteriorated amid an upsurge of terrorist attacks following the December 2023 withdrawal of the UN peacekeeping mission. Terrorists have increasingly attacked military bases and personnel, sometimes including foreign military personnel, as well as government and official buildings, including in Bamako. Such attacks often lead to the deaths of soldiers, civilians and others. Attempts to carry out similar attacks remain very likely.
 
 Take particular care during elections and public holidays, and periods of national or religious significance. Stay aware of your surroundings, keep up to date with local media reports and follow the advice of local authorities, including by complying with access restrictions imposed by authorities. Consider whether travel movements within Bamako are essential and ensure robust security plans.
 
@@ -35,6 +35,8 @@ Attacks could be indiscriminate and occur at any time, including in places frequ
 Examples of recent significant attacks include:
 
 * in June 2025, JNIM claimed to kill more than 150 soldiers, in multiple attacks targeting military bases in Boulkessi, Timbuktu and Mahou
+* in March and May 2025, there were two separate attacks against a police station and a military base which damaged vehicles and infrastructure in Kati, approximately 15km from Bamako city centre
+* in February 2025, a roadside bomb killed two people and injured others in a convoy that was travelling on the road linking Kati to Soribougou
 * in September 2024, at least 70 people were killed by attacks in the Gendarmerie School in Faladie district and Modibo Keita International Airport in Bamako
 * in July 2024, at least 7 civilians were killed by an indiscriminate motorcycle attack in an IDP camp in Mondoro, Gao Region
 * in June 2024, ISSP claimed responsibility for an attack which killed or wounded on the route between Menaka and Ansongo
@@ -43,7 +45,6 @@ Examples of recent significant attacks include:
 * in 2023, a roadside bomb killed 3 people and wounded 16 others in the Cercle de Bankass, in Mali’s central region of Bandiagara
 * in 2023, more than 60 people were killed in a suspected jihadist attack on a river boat near Abakoira in the north of Mali
 * from August 2023 to January 2024, JNIM repeatedly shelled Timbuktu, including the airport, resulting in the suspension of some flights
-* in 2022, there was an attack on the Kati military base, 15km from Bamako city centre, killing one soldier and 7 attackers
 
 This continues a historical trend of terrorists attacking military bases and personnel, sometimes including foreign military, often leading to the deaths of soldiers, civilians and others.
 

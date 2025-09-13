@@ -1,28 +1,36 @@
 # Warnings and insurance
 
 Still current at:
-:   20 August 2025
+:   13 September 2025
 
 Updated:
-:   19 August 2025
+:   12 September 2025
 
 Latest update:
-:   Updated information on the threat of terrorist attacks to roads (See ‘Road safety’ on the ‘Safety and security’ page).
+:   FCDO now advises against all but essential travel to the area within 15km of the Tower of Africa located in Bamako and against all travel to the rest of Mali. New information on terrorist attacks, and a reminder of the threat of terrorist attack around public holidays and days of national significance in Mali ('Warnings and insurance' and 'Safety and security' pages).
 
-![](https://assets.publishing.service.gov.uk/media/651e9d407309a10014b0a8b3/FCDO__TA__026_-_Mali_Travel_Advice_Ed5__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/68c40bf8eeb238b20672aa65/FCDO__TA__026_-_Mali_Travel_Advice_Ed6__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/651e9d405f7e68000dfabda7/FCDO__TA__026_-_Mali_Travel_Advice_Ed5__1_.pdf)
+[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/68c40bf83519dec072c87663/FCDO__TA__026_-_Mali_Travel_Advice_Ed6.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
 ## Areas where FCDO advises against travel
 
-FCDO advises against all travel to Mali, except to Bamako, due to the risk of terrorist attacks and kidnaps.
+FCDO advises against all travel to Mali, except for within 15km of the Tower of Africa located in Bamako.
 
-FCDO also advises against all but essential travel to Bamako and to places within 25km of Bamako due to the risk of terrorist attacks and kidnaps.
+FCDO also advises against all but essential travel  to the area within 15km of the Tower of Africa located in Bamako.
+
+This is due to the risk of terrorist attacks and kidnaps.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/mali/safety-and-security).
+
+## Increased risk during public holidays
+
+There is an increased risk of a terrorist attack near and during public holidays, and periods of national or religious significance in Mali, including Bamako.
+
+For more detail, see [Terrorism in Mali](https://www.gov.uk/foreign-travel-advice/mali/safety-and-security) in the Safety and security page.
 
 ## UK government support
 

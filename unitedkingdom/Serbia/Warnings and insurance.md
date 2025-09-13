@@ -1,17 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   6 September 2025
+:   13 September 2025
 
 Updated:
-:   5 September 2025
+:   12 September 2025
 
 Latest update:
-:   Information added about England v Serbia football match and updated information on sporting events and political situation. (‘Warnings and insurance’ and ‘Safety and security’ pages).
-
-## England v Serbia football match
-
-The England men’s team will be playing against Serbia in Belgrade on Tuesday 9 September. If you are travelling to the match, see information on the [England Football website](https://www.englandfootball.com/articles/2025/Sep/03/Serbia-away-ticket-details) and follow the [supporters’ association social media messaging on X](https://x.com/WeAreFreeLions).
+:   Removal of information about the England vs Serbia football match which took place on 9 September.
 
 ## Before you travel
 

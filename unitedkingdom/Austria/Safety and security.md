@@ -23,8 +23,8 @@ You should be vigilant in public places and follow the advice of local authoriti
 
 Recent examples include:
 
-* on 15 February 2025, one person was killed and five injured in central Villach, Carinthia, southern Austria in a knife attack.
-* on 2 November 2020, four people were killed and 23 injured in a terrorism-related shooting in central Vienna.
+* on 15 February 2025, one person was killed and five injured in central Villach, Carinthia, southern Austria in a knife attack
+* on 2 November 2020, four people were killed and 23 injured in a terrorism-related shooting in central Vienna
 
 The Austrian authorities have successfully disrupted various attack plans, making a number of arrests in recent years. You can expect to see an increased police presence, and additional safety measures may be in place. Be aware of your surroundings and follow the advice of local authorities.
 
@@ -38,7 +38,7 @@ Crime levels are generally low. However, there are higher levels of petty crime,
 
 ### Protecting your belongings
 
-Take care on public transport and in crowded city centres including main stations. Be particularly careful with your belongings on international trains and when you take your baggage from trains and coaches.
+Take care on public transport and in crowded city centres, including main stations. Be particularly careful with your belongings on international trains and when you take your baggage from trains and coaches.
 
 ### Drink spiking
 
@@ -48,7 +48,7 @@ Drinks served in bars overseas are often stronger than those in the UK. Be caref
 
 ### Personal ID
 
-By law, you must always have easy access to your passport. If you do not carry your passport, it must be in the same district as you, and you must be able to get it quickly. It can be helpful to carry a copy of the photo page. The Austrian authorities do not accept a UK driving licence as official ID.
+By law, you must always have easy access to your passport. If you do not carry your passport, you must be able to get it quickly. It can be helpful to carry a copy of the photo page. The Austrian authorities do not accept a UK driving licence as official ID.
 
 ### Illegal drugs
 
@@ -60,7 +60,7 @@ Airports in Austria have excellent technology and security for detecting illegal
 
 ### Face-covering ban
 
-It’s generally illegal to wear any clothing or object in public that covers your face. You could get a fine of up to 150 euros. See [information on Austria’s face-covering ban](https://www.oesterreich.gv.at/en/themen/leben_in_oesterreich/aufenthalt/Seite.120251.html), including a list of exemptions.
+It’s generally illegal to wear any clothing or object in public that covers your face. You could get a fine of up to 150 euros. See [information on Austria’s face-covering ban](https://www.oesterreich.gv.at/en/themen/menschen_aus_anderen_staaten/aufenthalt/Seite.120251), including a list of exemptions.
 
 ### Public transport
 
@@ -98,7 +98,7 @@ Off-piste skiing is very dangerous and can invalidate your travel insurance. Ava
 
 If you are planning to drive in Austria, see [information on driving abroad](https://www.gov.uk/driving-abroad) and check the [rules of the road in the RAC’s Austria guide](https://www.rac.co.uk/drive/travel/country/austria/). The guide lists driving regulations and other legal requirements you need to be aware of.
 
-Driving laws in Austria can be complex, especially for caravan and motorhomes. For more information, see [EU road rules and safety](http://ec.europa.eu/transport/road_safety/going_abroad/index_en.htm) and [Austrian vehicle laws](https://www.oesterreich.gv.at/en/themen/freizeit_und_strassenverkehr/kfz/10.html).
+Driving laws in Austria can be complex, especially for caravan and motorhomes. For more information, see [EU road rules and safety](http://ec.europa.eu/transport/road_safety/going_abroad/index_en.htm) and [Austrian vehicle laws](https://www.oesterreich.gv.at/en/themen/mobilitaet/kfz/10).
 
 You can use a UK photocard driving licence to drive in Austria if you are aged 18 or over. If you still have a paper driving licence, you may need to [update it to a photocard licence](https://www.gov.uk/exchange-paper-driving-licence).
 

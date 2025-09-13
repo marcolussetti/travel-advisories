@@ -1,11 +1,11 @@
 {
     "name": "Serbia",
-    "update_reason": "Information added about England v Serbia football match and updated information on sporting events and political situation. (\u2018Warnings and insurance\u2019 and \u2018Safety and security\u2019 pages).",
+    "update_reason": "Removal of information about the England vs Serbia football match which took place on 9 September.",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Serbia/Warnings and insurance.md",
-            "update_date": "2025-09-05T15:55:36+01:00"
+            "update_date": "2025-09-12T10:27:48+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Serbia/Getting help.md"
         }
     ],
-    "update_date": "2025-09-05T15:55:36+01:00"
+    "update_date": "2025-09-12T10:27:48+01:00"
 }

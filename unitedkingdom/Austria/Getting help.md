@@ -34,7 +34,7 @@ FCDO has guidance on staying safe and what to do if you need help or support abr
 * finding English-speaking [lawyers](https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find?country=Austria&serviceType=lawyers), [funeral directors](https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/funeral-directors?country=Austria) and [translators and interpreters](https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/translators-interpreters) in Austria
 * dealing with a [death in Austria](https://www.gov.uk/government/publications/bereavement-guide-for-austria)
 * being [arrested in Austria](https://www.gov.uk/government/publications/austria-prisoner-pack-austrian-prison-rules/information-pack-for-british-nationals-arrested-or-detained-in-austria)
-* getting help if you’re a [victim of crime](https://www.gov.uk/victim-crime-abroad)
+* getting help if you’re a [victim of crime](https://www.gov.uk/guidance/victim-of-crime-abroad)
 * what to do if you’re [in hospital](https://www.gov.uk/guidance/in-hospital-abroad)
 * if you are [affected by a crisis](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas), such as a terrorist attack
 

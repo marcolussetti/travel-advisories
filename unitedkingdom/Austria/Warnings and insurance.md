@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   8 August 2025
+:   13 September 2025
 
 Updated:
-:   7 August 2025
+:   12 September 2025
 
 Latest update:
-:   Updated with a link to information about using a UK issued Blue Badge in Austria (‘Safety and security’ page).
+:   This travel advice was reviewed for accuracy and there are no significant updates.
 
 ## Before you travel
 

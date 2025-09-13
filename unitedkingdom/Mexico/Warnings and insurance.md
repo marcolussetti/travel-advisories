@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   9 September 2025
+:   13 September 2025
 
 Updated:
-:   8 September 2025
+:   12 September 2025
 
 Latest update:
-:   Removal of information about the weather warning for Baja California Sur, Sonora and Sinaloa ('Warnings and insurance' page).
+:   New information about the short-term closure of Mexico City Airport on Tuesday 16 September between 9am and 2pm local time ('Warnings and insuarnce' page).
 
 ![](https://assets.publishing.service.gov.uk/media/65fabfdfaa9b76001dfbdb8a/FCDO_TA_065_-_Mexico_Travel_Advice_Ed5_WEB.jpg)
 
@@ -106,6 +106,10 @@ FCDO advises against all but essential travel to within 40km of the Guatemalan b
 FCDO advises against all but essential travel on Federal Highway 199 (Carretera Federal 199) between Rancho Nuevo (just outside San Cristobal de las Casas) and the Chancalá junction just outside Palenque (where Federal Highway 199 meets Federal Highway 307).
 
 Find out more about [why FCDO advises against travel to these areas](/foreign-travel-advice/mexico/regional-risks).
+
+## Mexico City’s Benito Juarez International Airport
+
+Benito Juarez International Airport in Mexico City (AICM) will close on Tuesday 16 September, between 9am and 2pm local time, during Mexico’s National Day celebrations. Travellers are advised to be in touch with their airlines or tour operators to check any changes to their flights during this period.
 
 ## Before you travel
 

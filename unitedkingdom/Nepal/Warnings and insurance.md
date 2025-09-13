@@ -1,19 +1,21 @@
 # Warnings and insurance
 
 Still current at:
-:   11 September 2025
+:   13 September 2025
 
 Updated:
-:   10 September 2025
+:   12 September 2025
 
 Latest update:
-:   Latest information about restrictions in Nepal following violent protests. A ban on social media has been lifted, but there is still potential for communications to be disrupted. Kathmandu airport reopened on 10 September and curfews continue in several cities ('Warnings and insurance' page).
+:   Latest information about restrictions in Nepal following violent protests and implication for travellers. There is still potential for communications to be disrupted, and curfews continue in several cities. ('Warnings and insurance' page).
 
 ## Protests
 
-Protests and incidents of violence that have led to a number of deaths and injuries have taken place in Kathmandu and elsewhere across the country since 8 September. Curfews have been introduced in several cities, including Kathmandu and Pokhara. Avoid protests, check local media for updates, and follow the directions of the authorities. See [‘civil disorder’ on the ‘Safety and security’ page](https://www.gov.uk/foreign-travel-advice/nepal/safety-and-security#civil-disorder).
+Following protests and incidents of violence that led to a number of deaths and injuries in Kathmandu and elsewhere across the country, curfews have been introduced in several cities, including Kathmandu and Pokhara. Avoid protests, check local media for updates, and follow the directions of the authorities. See [‘civil disorder’ on the ‘Safety and security’ page](https://www.gov.uk/foreign-travel-advice/nepal/safety-and-security#civil-disorder).
 
-Kathmandu airport re-opened on 10 September but the resumption of flights may take time. Continued delays and disruption are possible. Contact your airline, hotel and tour operator for up-to-date information and to confirm any flight arrangements or logistics to get to the airport before you attempt to travel.
+Following a period of disruption Kathmandu airport re-opened on 10 September. Contact your airline, hotel and tour operator for up-to-date information and to confirm any flight arrangements or logistics to get to the airport before you attempt to travel.
+
+The Government of Nepal has said travellers whose visas were valid until 8 September and were unable to depart Nepal, will be able to exit without being charged additional fees.
 
 While the social media ban has been lifted, expect continued disruption to services, including internet and mobile data.
 

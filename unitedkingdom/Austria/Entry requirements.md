@@ -53,7 +53,7 @@ Read about [passport stamping if you live in Austria](https://www.gov.uk/guidan
 
 From 12 October 2025, the European Union’s (EU) new Entry/Exit System (EES) will begin. When travelling into and out of the Schengen area, for short stays, you may need to:
 
-* have you fingerprints and your photo taken
+* have your fingerprints and your photo taken
 * answer the Schengen Border Code questions
 
 If you enter the Schengen area through the Port of Dover, Eurotunnel at Folkestone or St Pancras International, this information will be taken at the border, before you leave the UK. You may also need to provide either your fingerprint or photo when you leave the Schengen area.
@@ -65,10 +65,6 @@ Read more [information on the EU Entry/Exit System and to understand which coun
 ## Border controls at Germany’s land borders
 
 There are temporary border controls in place to travel into Germany. Check the [entry requirements for Germany](https://www.gov.uk/foreign-travel-advice/germany/entry-requirements).
-
-## Vaccine requirements
-
-For details about medical entry requirements and recommended vaccinations, see [TravelHealthPro’s Austria guide](https://travelhealthpro.org.uk/country/16/austria#Vaccine_Recommendations).
 
 ## Customs rules
 
