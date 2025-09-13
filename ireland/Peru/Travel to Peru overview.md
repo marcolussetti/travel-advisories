@@ -14,7 +14,7 @@ While not required by Peruvian authorities, Irish citizens may wish to get vacci
 
 ### **States of Emergency**
 
-States of Emergency are in force throughout many regions of Peru. A State of Emergency declared for security reasons gives the armed forces responsibility for law and order. A State of Emergency declared for natural disasters or health alerts means that the standard service providers in the region cannot guarantee normal services and frequently need help from central government; however, in these cases the armed forces do not take responsibility for law and order.
+States of Emergency are in force throughout many regions of Peru, and can be declared at short notice . A State of Emergency declared for security reasons gives the armed forces responsibility for law and order. A State of Emergency declared for natural disasters or health alerts means that the standard service providers in the region cannot guarantee normal services and frequently need help from central government; however, in these cases the armed forces do not take responsibility for law and order.
 
 When a state of emergency is in effect, security forces have increased rights to restrict freedom of movement, conduct search and seizures, and detain persons of interest.
 

@@ -14,7 +14,9 @@ Check with a doctor well in advance of travelling to see if any vaccinations for
 
 ### **Yellow Fever**
 
-If visitors plan on travelling in Latin America, a Yellow Fever Certificate may be required. Confirm with the authorities of your next destination whether they require a certificate following a visit to Peru.
+The Ministry of Health of Peru has announced [**epidemiological alert**](https://www.gob.pe/institucion/minsa/noticias/1130076-minsa-emite-alerta-epidemiologica-por-fiebre-amarilla-e-intensifica-acciones-en-amazonas-huanuco-y-san-martin) due to the sharp rise in yellow fever cases. In particular, there has been a rise in cases in areas of the Peruvian Amazon, including the districts of Huanuco, San Martin, and Amazonas.
+
+While not required by Peruvian authorities, Irish citizens may wish to get vaccinated against Yellow Fever at least 10 days prior to travel. In addition, if Irish citizens plan on travelling elsewhere in Latin America, a Yellow Fever Certificate may be required. Confirm with the authorities of your next destination whether a certificate is required following a visit to Peru.
 
 ### **Altitude**
 

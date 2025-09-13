@@ -8,15 +8,13 @@ Do Not Travel
 
 The Department of Foreign Affairs and Trade strongly advises against all travel to Belarus at this time due to the extent of Russian military operations in the country in connection with the widespread military conflict between Russia and Ukraine, and the increasingly restricted options for Irish citizens in Belarus to depart the country.
 
-Due to the aforementioned conflict in neighbouring Ukraine, flights to and from Minsk are now very limited. Irish citizens wishing to leave Belarus should do so immediately via the land borders with Poland, Latvia or Lithuania. Please note that a number of land border crossings between Belarus and EU Member States have been closed in recent times, and following a decision of the Lithuanian Government in February 2024, it is anticipated that fewer permits will be issued in future to Belarusian and Lithuanian carriers operating regular international passenger transportation services (e.g. buses).
+Due to the aforementioned conflict in neighbouring Ukraine, flights to and from Minsk are now very limited. Irish citizens wishing to leave Belarus should do so immediately via the land borders with Latvia or Lithuania. Please note that a number of land border crossings between Belarus and EU Member States have been closed in recent times, and following a decision of the Lithuanian Government in February 2024, it is anticipated that fewer permits will be issued in future to Belarusian and Lithuanian carriers operating regular international passenger transportation services (e.g. buses).
 
-The following border crossings for passenger vehicles remain in operation but may be subject to closure at short notice in the future:
+The following border crossings for passenger vehicles remain in operation but may be subject to closure at short notice in the future, particularly in light of developing security concerns, such as the Zapad military exercises:
 
 Latvia: Paternieki
 
 Lithuania: Medininkai; Šalčininkai
-
-Poland: Terespol
 
 Since 1 March 2024, the Lithuania-Belarus border crossings at Lavoriškės and Raigardas are closed. In addition, pedestrian and bicycle crossings are no longer permitted at the Medininkai and Šalčininkai border crossings.
 
