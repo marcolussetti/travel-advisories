@@ -16,18 +16,6 @@ Penalties for possession, use or trafficking of illegal drugs are severe. Convic
 
 [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
 
-### 2SLGBTQI+ persons
-
-Mongolian law does not criminalize sexual acts or relationships between individuals of the same sex.
-
-However, 2SLGBTQI+ persons could be discriminated against based on their sexual orientation, gender identity, gender expression, or sex characteristics. Same-sex marriage and civil unions are not legally recognized by Mongolian law.
-
-According to the Mongolian National Human Rights Commission, 2SLGBTQI+ individuals have faced police harassment and surveillance.
-
-2SLGBTQI+ persons should carefully consider the risks of travelling to Mongolia.
-
-[Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
-
 ### Dual citizenship
 
 Dual citizenship is not legally recognized in Mongolia.
