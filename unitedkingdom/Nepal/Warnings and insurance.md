@@ -1,17 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   13 September 2025
+:   14 September 2025
 
 Updated:
-:   12 September 2025
+:   13 September 2025
 
 Latest update:
-:   Latest information about restrictions in Nepal following violent protests and implication for travellers. There is still potential for communications to be disrupted, and curfews continue in several cities. ('Warnings and insurance' page).
+:   Curfews introduced after violent protests in Nepal during week commencing 8 September have been lifted but potential for disruption remains ('Warnings and insurance' page).
 
 ## Protests
 
-Following protests and incidents of violence that led to a number of deaths and injuries in Kathmandu and elsewhere across the country, curfews have been introduced in several cities, including Kathmandu and Pokhara. Avoid protests, check local media for updates, and follow the directions of the authorities. See [‘civil disorder’ on the ‘Safety and security’ page](https://www.gov.uk/foreign-travel-advice/nepal/safety-and-security#civil-disorder).
+Curfews introduced in several cities following violent protests have reportedly been lifted, allowing freedom of movement. Restrictions could however be reintroduced. Avoid protests, check local media for updates (including any new curfews), and follow the directions of the authorities. See [‘civil disorder’ on the ‘Safety and security’ page](https://www.gov.uk/foreign-travel-advice/nepal/safety-and-security#civil-disorder).
 
 Following a period of disruption Kathmandu airport re-opened on 10 September. Contact your airline, hotel and tour operator for up-to-date information and to confirm any flight arrangements or logistics to get to the airport before you attempt to travel.
 

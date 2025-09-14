@@ -1,17 +1,21 @@
 # Warnings and insurance
 
 Still current at:
-:   12 September 2025
+:   14 September 2025
 
 Updated:
-:   11 September 2025
+:   13 September 2025
 
 Latest update:
-:   Addition of information about the temporary closure of Poland's border with Belarus and removal of information about potential air travel disruptions ('Warnings and insurance' and 'Entry requirements' pages).
+:   Addition of information about potential air travel disruptions and local safety procedures (‘Warnings and Insurance’ page)
 
 ## Ukraine-Poland border
 
 Russian military strikes have taken place in Ukraine within 20km of the Polish border. Access to the border is restricted. See [Safety and security](/foreign-travel-advice/poland/safety-and-security#Russian-invasion-of-Ukraine).
+
+## Lublin airport disruptions
+
+We are aware there were disruptions at Lublin Airport for a short period on Saturday due to military air activity.  Please check with your airline and Lublin Airport before travelling to the airport ([Lublin Airport | Port Lotniczy Lublin | Main page](https://www.airport.lublin.pl/en)).  Follow the advice of local authorities: [Announcements - Government Center for Security - Portal Gov.pl](https://www.gov.pl/web/rcb/komunikaty)).
 
 ## Before you travel
 

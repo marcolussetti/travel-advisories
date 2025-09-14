@@ -1,11 +1,11 @@
 {
     "name": "Poland",
-    "update_reason": "Addition of information about the temporary closure of Poland's border with Belarus and removal of information about potential air travel disruptions ('Warnings and insurance' and 'Entry requirements' pages).",
+    "update_reason": "Addition of information about potential air travel disruptions and local safety procedures (\u2018Warnings and Insurance\u2019 page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Poland/Warnings and insurance.md",
-            "update_date": "2025-09-11T11:34:28+01:00"
+            "update_date": "2025-09-13T23:58:45+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Poland/Getting help.md"
         }
     ],
-    "update_date": "2025-09-11T11:34:28+01:00"
+    "update_date": "2025-09-13T23:58:45+01:00"
 }
