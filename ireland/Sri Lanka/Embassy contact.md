@@ -20,3 +20,16 @@ India
 Fax: +91 11 4059 1898
 
 [**Contact us**](/en/india/newdelhi/contact-us/)
+
+### Honorary Consul of Ireland, Sri Lanka
+
+Mr. Gerard Manik Pereira   
+Pership House (ONE)   
+No. 72C Bauddhaloka Mawatha   
+Colombo 04, Sri Lanka
+
+[Tel: +94 11 4523900](tel:+9411 4523900)
+
+[Alt tel: +94 11 2587895](tel:+9411 2587895)
+
+**Email:** [manik.pereira@honoraryconsul.ie](mailto:manik.pereira@honoraryconsul.ie)

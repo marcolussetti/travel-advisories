@@ -32,14 +32,23 @@ SM22, Cancún
 
 ### ​Honorary Consul of Ireland, Guadalajara
 
-John Tobin   
-WeWork Punto Sur, Av. Punto Sur 312   
-Int. 04-137, piso 4   
-Tlajomulco de Zúñiga   
-Jalisco, 45645
+Mr. John Tobin   
+Quiptech, QTEK Mexico S de RL de CV   
+Camino a La Tijera 806 A-1, Col La Tijera   
+Tlajomulco de Zuniga, Jalisco   
+Mexico CP 45637
 
-[Tel: +52 3318944839](tel:+523318944839)
+[Tel: +52 333 687 0547](tel:+52333 687 0547)
 
-[john.tobin@honoraryconsul.ie](mailto:john.tobin@honoraryconsul.ie);
+**Email:** [john.tobin@honoraryconsul.ie](mailto:john.tobin@honoraryconsul.ie)
 
-[ana.ponce@honoraryconsul.ie](mailto:ana.ponce@honoraryconsul.ie) (assistant)
+### Honorary Consul of Ireland, Monterrey
+
+Mr. Roger González Lau   
+Sierra Nevada 313   
+Col. Balcones del Valle   
+San Pedro Garza García, NL 66280
+
+[Tel: +52 81 13 60 97 44](tel:+5281 13 60 97 44)
+
+[roger.gonzalezlau@honoraryconsul.ie](mailto:roger.gonzalezlau@honoraryconsul.ie)

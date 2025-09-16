@@ -20,3 +20,15 @@ New Zealand
 **Tel:** [+64 4 471 2252](tel:+64 4 471 2252)
 
 [**Contact us**](/en/new-zealand/wellington/contact/)
+
+### Honorary Consul General of Ireland, Auckland
+
+Ms. Niamh McMahon   
+Level One   
+5 High Street   
+Auckland   
+New Zealand
+
+[Tel: +64 919 7450](tel:+64919 7450)
+
+**Email**: [niamh.mcmahon@honoraryconsul.ie](mailto:niamh.mcmahon@honoraryconsul.ie)

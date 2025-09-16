@@ -4,7 +4,7 @@
 
 Irish citizens require a visa to visit Vietnam.
 
-Irish **tourists** intending to stay less than 90 days in Vietnam should apply for a **multiple**entry e-visa through the [**eVisa portal**](https://evisa.gov.vn/)  of Vietnam Immigration. Please note that this is the only official e-Visa portal for Vietnam.
+Irish **tourists** intending to stay less than 90 days in Vietnam should apply for a single or multiple entry e-visa through the [**eVisa portal**](https://evisa.gov.vn/) of Vietnam Immigration. Please note that this is the only official e-Visa portal for Vietnam. If you also intend to travel to Laos or Cambodia after arriving in Vietnam , you should apply for a **multi** entry visa to allow for re-entry to Vietnam.
 
 The Embassy is unable to contact Vietnam Immigration on behalf of citizens.  All queries relating to e-visas should be directed to Vietnam Immigration through the query form on the portal, or by emailing [**contact@immigration.gov.vn**](mailto:contact@immigration.gov.vn)
 

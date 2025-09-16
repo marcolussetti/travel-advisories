@@ -18,3 +18,12 @@ Zambia
 **Consular:** [+260 950 426 248](tel:+260 950 426 248)
 
 [**Contact us**](/en/zambia/lusaka/contact/)
+
+### Honorary Consul in Windhoek, Namibia
+
+Dr. Patrick Murphy   
+Pohamba Private Hospital   
+Frankie Fredericks Street   
+Windhoek, Namibia
+
+[DrPatrick.Murphy@honoraryconsul.ie](mailto:DrPatrick.Murphy@honoraryconsul.ie)

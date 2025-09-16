@@ -15,3 +15,15 @@ South Africa
 [Tel: +27 12 452 1000](tel:+2712 452 1000)
 
 [**Contact us**](/en/southafrica/pretoria/contact/)
+
+### Honorary Consul of Ireland, Zimbabwe
+
+Ms. Susan McCollum   
+Thrive Health and Performance   
+The Performance Hub   
+170 The Chase   
+Groomsbridge, Harare
+
+[Tel: +263 755 127 829](tel:+263755 127 829)
+
+**Email:** [susan.mccollum@honoraryconsul.ie](mailto:susan.mccollum@honoraryconsul.ie)

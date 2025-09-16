@@ -16,3 +16,14 @@ México
 [Tel: +52 55 5520 5803](tel:+5255 5520 5803)
 
 [**Contact us**](/en/mexico/mexicocity/contact/)
+
+### Honorary Consul of Ireland, El Salvador
+
+Niall McCormack   
+103 Avenida Sur   
+No. 231, Colonia Escalón   
+San Salvador, El Salvador
+
+[Tel: +503 789 00435](tel:+503789 00435)
+
+[niall.mccormack@honoraryconsul.ie](mailto:niall.mccormack@honoraryconsul.ie)

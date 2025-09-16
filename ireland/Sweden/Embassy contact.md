@@ -22,3 +22,14 @@ P.O. Box 10 326,
 Sweden
 
 [**Contact us**](/en/sweden/stockholm/contact/)
+
+### Honorary Consul of Ireland, Gothenburg
+
+Mr. Niclas Mårtensson   
+Engelbrektsgatan 35   
+411 37 Gothenburg   
+Sweden
+
+[Tel: +46 739 421 829](tel:+46739 421 829)
+
+**Email:** [niclas.martensson@honoraryconsul.ie](mailto:niclas.martensson@honoraryconsul.ie)
