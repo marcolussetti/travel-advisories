@@ -66,7 +66,7 @@ If you are a Canadian citizen, but also a citizen of Honduras, our ability to of
 
 Honduran law does not prohibit sexual acts between individuals of the same sex. However, same-sex couples are not legally recognized.
 
-LGBTQ2 persons could be discriminated against based on their sexual orientation, gender identity, gender expression, or sex characteristics.
+2SLGBTQI+ persons could be discriminated against based on their sexual orientation, gender identity, gender expression, or sex characteristics.
 
 Avoid public displays of affection.
 

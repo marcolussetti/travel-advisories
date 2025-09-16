@@ -20,21 +20,6 @@ This includes preaching, possessing or distributing religious literature or mate
 
 Avoid engaging in religious activities that contradict or challenge Islamic teachings and values.
 
-### 2SLGBTQI+ persons
-
-Tunisian law criminalizes sexual acts between individuals of the same sex.
-
-2SLGBTQI+ persons could be arrested because of their sexual orientation, gender identity, gender expression or sexual characteristics. They could also be arrested and face other charges such as:
-
-* public indecency
-* offence to public morality
-
-Convicted offenders face fines and prison sentences ranging from six months to three years.
-
-2SLGBTQI+ persons should carefully consider the risks of travelling to Tunisia.
-
-[Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
-
 ### Driving
 
 You can drive in Tunisia with a valid Canadian driver's licence.

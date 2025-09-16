@@ -17,14 +17,6 @@ There are severe penalties for possession, use or trafficking of illegal drugs. 
 
 [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
 
-### 2SLGBTQI+ persons
-
-Saint Lucian law does not prohibit sexual acts between individuals of the same sex.
-
-However, 2SLGBTQI+ persons could be discriminated against based on their sexual orientation, gender identity, gender expression or sex characteristics.
-
-[Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
-
 ### Dual citizenship
 
 Dual citizenship is legally recognized in Saint Lucia.

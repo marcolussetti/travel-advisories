@@ -113,9 +113,16 @@ Demonstrations may occur. Even peaceful demonstrations can turn violent at any t
 
 ### 2SLGBTQI+ persons
 
-2SLGBTQI+ persons have been attacked and harassed based on their identity and sexual orientation. Violent incidents have increased since the Parliament passed an “anti-homosexuality” bill in March 2023.
+The laws of Uganda prohibit sexual acts between individuals of the same sex. In May 2023, the President of Uganda approved the 2023 Anti-Homosexuality Bill. If enforced, it would increase penalties for convicted offenders up to the death penalty for certain cases. It would also impose:
 
-2SLGBTQI+ travellers should carefully consider the risks of travelling to Uganda.
+* up to 20 years’ imprisonment for recruitment, promotion and funding of same-sex activities
+* 14 years’ imprisonment for those convicted of “attempted aggravated homosexuality”
+
+Societal discrimination based on identity and sexual orientation is widespread. 2SLGBTQI+ persons are routinely harassed by the police. Incidences of blackmail and extortion directed against 2SLGBTQI+ persons and their families are common.
+
+2SLGBTQI+ persons have been attacked and harassed based on their identity and sexual orientation. Violent incidents have increased since the Parliament passed an "anti-homosexuality" bill in March 2023.
+
+2SLGBTQI+ persons should carefully consider the risks of travelling to Uganda.
 
 [Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
 

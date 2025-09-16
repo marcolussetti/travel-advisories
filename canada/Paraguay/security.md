@@ -105,6 +105,8 @@ Women travelling alone may be subject to some forms of harassment or verbal abus
 
 ### 2SLGBTQI+ persons
 
+Paraguay’s law does not prohibit sexual acts between individuals of the same sex. However, homosexuality is not widely socially accepted and public displays of affection are not socially acceptable.  
+
 2SLGBTQI+ persons could be discriminated against based on their sexual orientation, gender identity, gender expression, or sex characteristics.
 
 [Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)

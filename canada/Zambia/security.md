@@ -90,9 +90,11 @@ Women travelling alone may be subject to some forms of harassment or verbal abus
 
 ### 2SLGBTQI+ persons
 
-2SLGBTQI+ persons could be discriminated against based on their sexual orientation, gender identity, gender expression, or sex characteristics.
+Zambian law prohibits sexual acts between individuals of the same sex.Those convicted can face up to life imprisonment.
 
-2SLGBTQI+ persons could be victim of harassments and verbal or physical violence. Avoid public display of affection.
+2SLGBTQI+ persons can be victims of discrimination, harassment and acts of violence based on their sexual orientation, gender identity, gender expression or sexual characteristics. Avoid public display of affection.
+
+2SLGBTQI+ persons should carefully consider the risks of travelling to Zambia.
 
 [Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
 

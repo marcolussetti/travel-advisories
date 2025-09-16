@@ -263,7 +263,7 @@ Some incidents of assault, rape and sexual assault against Canadian women have o
 
 [Advice for women travellers](https://travel.gc.ca/travelling/health-safety/advice-for-women-travellers)
 
-### 2SLGBTQI+ travellers
+### 2SLGBTQI+ persons
 
 Mexican law does not prohibit sexual acts between individuals of the same sex. However, homosexuality is not widely accepted in Mexican society, particularly in rural areas.
 

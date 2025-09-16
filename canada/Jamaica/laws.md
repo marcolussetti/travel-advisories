@@ -6,19 +6,6 @@ You must abide by local laws.
 
 Learn about what you should do and how we can help if you are [arrested or detained abroad](http://travel.gc.ca/assistance/emergency-info/arrest-detention).
 
-### 2SLGBTQI+ persons
-
-Jamaican law prohibits sexual acts between individuals of the same sex. Other related offences include being in a same-sex marriage and the "promotion of homosexuality." Those convicted can face sentences of up to 10 years in prison, though authorities rarely enforce the law.
-
-2SLGBTQI+ persons could be discriminated against based on their sexual orientation, gender identity, gender expression or sex characteristics.
-
-Though violence against 2SLGBTQI+ persons and their allies has declined significantly over the past decade, 2SLGBTQI+ travellers should:
-
-* carefully consider the risks of travelling to Jamaica
-* be cautious and avoid public displays of affection with someone of the same sex
-
-[Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
-
 ### Drugs
 
 Penalties for possession, use or trafficking of illegal drugs are severe. Convicted offenders can expect lengthy prison sentences.

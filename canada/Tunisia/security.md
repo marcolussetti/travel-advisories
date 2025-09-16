@@ -142,9 +142,18 @@ Security forces sometimes carry out arbitrary arrests and illegal searches and u
 
 If you are a victim of violence or detained by local authorities due to your sexual orientation, gender identity or any other sexual characteristic, you should report it immediately to the Canadian Embassy in Tunisia.
 
-[Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
+Tunisian law criminalizes sexual acts between individuals of the same sex.
 
-### 
+2SLGBTQI+ persons could be arrested because of their sexual orientation, gender identity, gender expression or sexual characteristics. They could also be arrested and face other charges such as:
+
+* public indecency
+* offence to public morality
+
+Convicted offenders face fines and prison sentences ranging from six months to three years.
+
+2SLGBTQI+ persons should carefully consider the risks of travelling to Tunisia.
+
+[Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
 
 ### Fraud
 

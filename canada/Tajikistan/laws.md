@@ -35,14 +35,6 @@ You should always carry a copy of your passport. Individuals are frequently requ
 * Keep a photocopy of your passport and your visa in a safe place in case it’s lost or seized
 * Keep a digital copy of your identification and travel documents
 
-### 2SLGBTQI+ persons
-
-Tajik law doesn’t criminalize sexual acts between individuals of the same sex. However, 2SLGBTQI+ persons could be discriminated against based on their sexual orientation, gender identity, gender expression, or sex characteristics.
-
-2SLGBTQI+ persons should carefully consider the risks of travelling to Tajikistan.
-
-[Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
-
 ### Dual citizenship
 
 Dual citizenship is not legally recognized in Tajikistan.

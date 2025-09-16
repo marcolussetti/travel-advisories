@@ -56,6 +56,22 @@ There is a risk of [hepatitis A](https://www.canada.ca/en/public-health/services
 
 Practise [safe food and water precautions](https://travel.gc.ca/travelling/health-safety/food-water) and wash your hands often. Vaccination is recommended for all travellers to areas where hepatitis A is present.
 
+Measles 
+
+Measles is a serious viral infection that spreads easily. It spreads through the air, and can stay in the air for up to 2 hours. You can also get measles by direct contact with an infected person or by touching a surface with the virus on it and then touching your eyes, nose, or mouth before washing your hands.
+
+Getting vaccinated is the best way to protect yourself and others from measles. In Canada, the measles vaccine is part of the routine immunization schedule. If you’re unsure whether you’re protected, talk to a healthcare provider.
+
+**Learn more:**
+
+[Measles](https://www.canada.ca/en/public-health/services/diseases/measles.html)
+
+Hepatitis B
+
+[Hepatitis B](https://www.canada.ca/en/public-health/services/diseases/hepatitis-b.html) is a risk in every destination. It is a viral liver disease that is easily transmitted from one person to another through exposure to blood and body fluids containing the hepatitis B virus.  Travellers who may be exposed to blood or other bodily fluids (e.g., through sexual contact, medical treatment, sharing needles, tattooing, acupuncture or occupational exposure) are at higher risk of getting hepatitis B.
+
+Hepatitis B vaccination is recommended for all travellers. [Prevent hepatitis B](https://www.canada.ca/en/public-health/services/diseases/hepatitis-b/prevention-risks.html#a2) infection by practicing safe sex, only using new and sterile drug equipment, and only getting tattoos and piercings in settings that follow public health regulations and standards.
+
 Influenza
 
  The best way to protect yourself from seasonal [influenza](https://www.canada.ca/en/public-health/services/diseases/flu-influenza.html) (flu) is to get vaccinated every year. [Get the flu shot](https://www.canada.ca/en/public-health/services/diseases/flu-influenza/get-your-flu-shot.html) at least 2 weeks before travelling.
@@ -77,22 +93,6 @@ In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/dise
 If you are bitten or scratched by a dog or other animal while travelling, immediately wash the wound with soap and clean water and see a health care professional. **In this destination, rabies treatment may be limited or may not be available, therefore you may need to return to Canada for treatment.**
 
 Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who are at high risk of exposure (e.g., occupational risk such as veterinarians and wildlife workers, children, adventure travellers and spelunkers, and others in close contact with animals).
-
-Measles 
-
-Measles is a serious viral infection that spreads easily. It spreads through the air, and can stay in the air for up to 2 hours. You can also get measles by direct contact with an infected person or by touching a surface with the virus on it and then touching your eyes, nose, or mouth before washing your hands.
-
-Getting vaccinated is the best way to protect yourself and others from measles. In Canada, the measles vaccine is part of the routine immunization schedule. If you’re unsure whether you’re protected, talk to a healthcare provider.
-
-**Learn more:**
-
-[Measles](https://www.canada.ca/en/public-health/services/diseases/measles.html)
-
-Hepatitis B
-
-[Hepatitis B](https://www.canada.ca/en/public-health/services/diseases/hepatitis-b.html) is a risk in every destination. It is a viral liver disease that is easily transmitted from one person to another through exposure to blood and body fluids containing the hepatitis B virus.  Travellers who may be exposed to blood or other bodily fluids (e.g., through sexual contact, medical treatment, sharing needles, tattooing, acupuncture or occupational exposure) are at higher risk of getting hepatitis B.
-
-Hepatitis B vaccination is recommended for all travellers. [Prevent hepatitis B](https://www.canada.ca/en/public-health/services/diseases/hepatitis-b/prevention-risks.html#a2) infection by practicing safe sex, only using new and sterile drug equipment, and only getting tattoos and piercings in settings that follow public health regulations and standards.
 
 COVID-19
 

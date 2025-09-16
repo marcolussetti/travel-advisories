@@ -20,7 +20,7 @@ Samoa strictly regulates the import of firearms, pets, plant and animal products
 
 ### 2SLGBTQI+ persons
 
-American Samoa law does not prohibit sexual acts between individuals of the same sex.
+American Samoan law does not prohibit sexual acts between individuals of the same sex.
 
 However, homosexuality is not widely accepted in American Samoan society. 2SLGBTQI+ persons should carefully consider the risks of travelling to American Samoa.
 

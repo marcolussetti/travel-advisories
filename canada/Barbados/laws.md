@@ -12,8 +12,6 @@ Penalties for possession, use or trafficking of illegal drugs are severe. Convic
 
 [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
 
-### 
-
 ### Dual citizenship
 
 Dual citizenship is legally recognized in Barbados.

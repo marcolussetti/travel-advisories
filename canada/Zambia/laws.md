@@ -21,14 +21,6 @@ Local authorities may request to see your identification at any time.
 
 Certified copies may be obtained from the immigration offices or local police station.
 
-### 2SLGBTQI+ persons
-
-Zambian law prohibits sexual acts between individuals of the same sex.Those convicted can face up to life imprisonment.
-
-2SLGBTQI+ persons should carefully consider the risks of travelling to Zambia.
-
-[Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
-
 ### Dress and behaviour
 
 To avoid offending local sensitivities:

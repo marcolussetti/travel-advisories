@@ -20,19 +20,6 @@ Photography of security forces, diplomatic sites, government installations, airp
 
 Wearing military-style or camouflage clothing is prohibited and may result in a jail sentence.
 
-### 2SLGBTQI+ persons
-
-The laws of Uganda prohibit sexual acts between individuals of the same sex. In May 2023, the President of Uganda approved the 2023 Anti-Homosexuality Bill. If enforced, it would increase penalties for convicted offenders up to the death penalty for certain cases. It would also impose:
-
-* up to 20 years’ imprisonment for recruitment, promotion and funding of same-sex activities
-* 14 years’ imprisonment for those convicted of “attempted aggravated homosexuality”
-
-Societal discrimination based on identity and sexual orientation is widespread. 2SLGBTQI+ persons are routinely harassed by the police. Incidences of blackmail and extortion directed against 2SLGBTQI+ persons and their families are common.
-
-2SLGBTQI+ persons should carefully consider the risks of travelling to Uganda.
-
-[Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
-
 ### Dual citizenship
 
 Dual citizenship is legally recognized in Uganda.

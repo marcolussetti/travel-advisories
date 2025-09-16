@@ -26,8 +26,6 @@ However, 2SLGBTQI+ persons could be discriminated against based on their sexual 
 
 [Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
 
-### 
-
 ### Dual citizenship
 
 Dual citizenship is legally recognized in Anguilla.

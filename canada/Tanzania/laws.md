@@ -79,14 +79,6 @@ To avoid offending local sensitivities:
 
 Women should cover their shoulders and refrain from wearing shorts.
 
-### 2SLGBTQI+ persons
-
-Tanzanian law prohibits sexual acts between individuals of the same sex. Those convicted face up to life imprisonment and possibly a fine.
-
-2SLGBTQI+ persons should carefully consider the risks of travelling to Tanzania.
-
-[Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
-
 ### Dual citizenship
 
 Dual citizenship is not legally recognized in Tanzania.

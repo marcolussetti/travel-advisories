@@ -14,12 +14,6 @@ The consumption of alcohol under 20 years of age is illegal.
 
 [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
 
-### 2SLGBTQI+ persons
-
-Paraguay’s law does not prohibit sexual acts between individuals of the same sex. However, homosexuality is not widely socially accepted and public displays of affection are not socially acceptable.
-
-[Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
-
 ### Dual citizenship
 
 Dual citizenship is not legally recognized in Paraguay.

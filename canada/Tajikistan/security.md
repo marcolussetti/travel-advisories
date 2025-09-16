@@ -130,6 +130,8 @@ Women travelling alone may be subject to some forms of harassment and verbal abu
 
 There are reports of psychological and physical abuse, extortion and blackmailing of 2SLGBTQI+ persons, including by police officers. Public displays of affection between same-sex individuals may lead to physical and verbal abuse.
 
+Even though Tajik law doesn’t criminalize sexual acts between individuals of the same sex, 2SLGBTQI+ persons should carefully consider the risks of travelling to Tajikistan.
+
 [Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
 
 ### Demonstrations

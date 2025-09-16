@@ -56,13 +56,11 @@ Demonstrations may occur. Even peaceful demonstrations can turn violent at any t
 
 [Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
 
-### 
-
 ### 2SLGBTQI+ persons
 
-2SLGBTQI+ persons have been verbally harassed.
+Saint Lucian law does not prohibit sexual acts between individuals of the same sex.
 
-Public displays of affection are not socially acceptable.
+However, 2SLGBTQI+ persons have been verbally harassed and public displays of affection are not socially acceptable.
 
 [Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
 

@@ -114,9 +114,12 @@ If you are travelling in an area where a state of emergency is in effect:
 
 ### 2SLGBTQI+ persons
 
-2SLGBTQI+ persons have experienced harassment and verbal or physical abuse.
+Jamaican law prohibits sexual acts between individuals of the same sex. Other related offences include being in a same-sex marriage and the "promotion of homosexuality." Those convicted can face sentences of up to 10 years in prison, though authorities rarely enforce the law.
 
-Avoid public displays of affection.
+2SLGBTQI+ persons have experienced harassment and verbal or physical abuse. Though violence against 2SLGBTQI+ persons and their allies has declined significantly over the past decade, 2SLGBTQI+ travellers should:
+
+* carefully consider the risks of travelling to Jamaica
+* be cautious and avoid public displays of affection with someone of the same sex
 
 [Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
 
