@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   5 September 2025
+:   16 September 2025
 
 Updated:
-:   4 September 2025
+:   15 September 2025
 
 Latest update:
-:   Removal of expired road emergency declaration and addition of information on access to Cayambe volcano ('Warnings and insurance' and 'Safety and security' pages).
+:   Information on ongoing road blockades and transport strikes around Ecuador (Warnings and Insurance page)
 
 ![](https://assets.publishing.service.gov.uk/media/65a1082ce96df50014f8452c/FCDO__TA__014_-_Ecuador_Travel_Advice_Ed5__WEB_.jpg)
 
@@ -42,6 +42,10 @@ FCDO advises against all but essential travel to areas within 20km of the Ecuado
 * the Pan-American Highway
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/ecuador/regional-risks).
+
+## Road Blockades and Transport Strikes
+
+Due to ongoing transport strikes and road blockades around Ecuador, travellers may experience disruptions. You should check official sources regularly, follow guidance from the local authorities and monitor road conditions through the official [ECU 911 website](https://www.ecu911.gob.ec/consulta-de-vias/).
 
 ## Regional state of emergency declared (internal disturbance and armed violence)
 

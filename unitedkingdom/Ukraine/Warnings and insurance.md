@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   15 August 2025
+:   16 September 2025
 
 Updated:
-:   14 August 2025
+:   15 September 2025
 
 Latest update:
-:   Additional information for dual nationals ('Warnings and insurance' page).
+:   Information added about the risk of business conferences and events attended by the Ukrainian government and military being the target of Russian attacks (‘Warnings and insurance’ page)
 
 ![](https://assets.publishing.service.gov.uk/media/663398524d8bb7378fb6c167/FCDO__TA__044_-_Ukraine_Travel_Advice_Ed12__WEB___1_.jpg)
 
@@ -56,9 +56,15 @@ FCDO advises against all but essential travel to the following regions in weste
 * Rivne
 * Zhytomyr
 
+## Business conferences and events
+
+There is a risk of harm to British nationals from Russian attacks across Ukraine, including in western Ukrainian regions such as Lviv. Conferences and events that are attended by the Ukrainian government and military are more likely to be targeted. In the event of attacks, follow the advice of the local authorities, including responding to air raid alerts.
+
+See ‘If you are in Ukraine’ [Ukraine travel advice - GOV.UK](https://www.gov.uk/foreign-travel-advice/ukraine)
+
 ## Russian invasion of Ukraine
 
-The Russian invasion of Ukraine is ongoing, with frequent missile and drone attacks across the country, which injure and kill civilians and cause significant damage to civilian infrastructure, including residential areas, energy and industrial facilities. Russian Military activity against Ukraine has increased over the last 6 months, with the total number of drone and missile strikes increasing in size. Russia launched around 5,500 drones and missiles in June 2025, up from 3,900 in February 2025 and 1,000 in August 2024. British nationals are advised to exercise heightened awareness and be prepared to immediately shelter in the event an air alert is announced. Be extra vigilant whilst travelling in urban centres.
+The Russian invasion of Ukraine is ongoing, with frequent missile and drone attacks across the country, which injure and kill civilians and cause significant damage to civilian infrastructure, including residential areas, energy and industrial facilities. Russian Military activity against Ukraine has increased over the last 6 months, with the total number of drone and missile strikes increasing in size. In July of this year, Russia launched around 6,500 drones and missiles into Ukraine, up from 3,900 in February 2025 and 1,000 in August 2024. British nationals are advised to exercise heightened awareness and be prepared to immediately shelter in the event an air alert is announced. Be extra vigilant whilst travelling in urban centres.
 
 There is an ongoing risk of harm to British nationals from Russian attacks across all of Ukraine, including from missiles and drones that hit unintended targets or from falling debris. While these are more frequent where FCDO advises against all travel, they can and do also happen in the western regions, where FCDO advice is against all but essential travel.
 

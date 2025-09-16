@@ -1,13 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   8 August 2025
+:   16 September 2025
 
 Updated:
-:   7 August 2025
+:   15 September 2025
 
 Latest update:
-:   Updated with a link to information about using a UK issued Blue Badge in Latvia (‘Safety and security’ page).
+:   New information about the national defence exercise ‘Namejs 2025’(‘Warnings and insurance’ page).
+
+## National defence exercise ‘Namejs 2025’
+
+Latvia’s armed forces will hold a national defence exercise from 2 September to 8 October. You may notice frequent movements of military vehicles and military aircraft. There might be delays to travel on main and local roads. Live fire exercises are planned to be held in training areas. Follow the advice of local authorities. Further details can be found on the [Latvian National Armed forces website](https://www.mil.lv/en/news/comprehensive-national-defense-exercise-namejs-2025-take-place-latvia).
 
 ## Before you travel
 

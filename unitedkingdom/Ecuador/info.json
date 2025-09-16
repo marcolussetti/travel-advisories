@@ -1,11 +1,11 @@
 {
     "name": "Ecuador",
-    "update_reason": "Removal of expired road emergency declaration and addition of information on access to Cayambe volcano ('Warnings and insurance' and 'Safety and security' pages).",
+    "update_reason": "Information on ongoing road blockades and transport strikes around Ecuador (Warnings and Insurance page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Ecuador/Warnings and insurance.md",
-            "update_date": "2025-09-04T10:09:57+01:00"
+            "update_date": "2025-09-15T23:12:35+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Ecuador/Getting help.md"
         }
     ],
-    "update_date": "2025-09-04T10:09:57+01:00"
+    "update_date": "2025-09-15T23:12:35+01:00"
 }

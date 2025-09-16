@@ -1,11 +1,11 @@
 {
     "name": "Ukraine",
-    "update_reason": "Additional information for dual nationals ('Warnings and insurance' page).",
+    "update_reason": "Information added about the risk of business conferences and events attended by the Ukrainian government and military being the target of Russian attacks (\u2018Warnings and insurance\u2019 page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Ukraine/Warnings and insurance.md",
-            "update_date": "2025-08-14T16:07:07+01:00"
+            "update_date": "2025-09-15T19:49:43+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Ukraine/Getting help.md"
         }
     ],
-    "update_date": "2025-08-14T16:07:07+01:00"
+    "update_date": "2025-09-15T19:49:43+01:00"
 }
