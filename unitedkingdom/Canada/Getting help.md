@@ -30,7 +30,7 @@ FCDO has guidance on staying safe and what to do if you need help or support ab
 * finding [lawyers](https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/lawyers?country=Canada) and [translators and interpreters](https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/translators-interpreters?country=Canada) in Canada
 * dealing with a [death in Canada](https://www.gov.uk/government/publications/bereavement-information-for-canada)
 * being [arrested in Canada](https://www.gov.uk/government/publications/canada-prisoner-pack)
-* getting help if you’re a [victim of crime](https://www.gov.uk/victim-crime-abroad)
+* getting help if you’re a [victim of crime](https://www.gov.uk/guidance/victim-of-crime-abroad)
 * what to do if you’re [in hospital](https://www.gov.uk/guidance/in-hospital-abroad)
 * if you are [affected by a crisis](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas), such as a terrorist attack
 

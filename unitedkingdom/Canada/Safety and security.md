@@ -16,8 +16,6 @@ Recent attacks include:
 
 * in 2023, one person stabbed and injured in Surrey, British Columbia
 * in 2021, 4 people killed and one injured by a vehicle in London, Ontario
-* in 2020, one person killed with a hammer in Scarborough, Ontario
-* in 2020, one person killed and 2 wounded in a machete attack in Toronto, Ontario
 
 See the [Canadian government’s national terrorism threat level](http://canada.ca/en/services/defence/nationalsecurity/terrorism-threat-level.html).
 
@@ -117,9 +115,7 @@ Follow instructions from Canadian officials or law enforcement. Check the [US N
 
 ### Wildfires
 
-Wildfires can start at any time, whatever the season, although there is particular risk of fire in the grasslands and forests of western Canada during the summer months.
-
-In summer 2023 there were also significant fires in eastern Canada, including parts of Ontario, Quebec and Nova Scotia.
+Wildfires can start at any time, whatever the season, although there is particular risk of fire in the grasslands and forests of western Canada, as well as in forested areas of Quebec, Ontario and Nova Scotia, during the summer months.
 
 You should follow local warnings or news for details on the latest outbreaks. The Canadian Wildland Fire Information System shows [active wildfires and forecasts](https://cwfis.cfs.nrcan.gc.ca/home). You can also monitor wildfire smoke and air quality on [the Government of Canada’s website](https://www.canada.ca/en/services/health/healthy-living/environment/air-quality/wildfire-smoke.html).
 

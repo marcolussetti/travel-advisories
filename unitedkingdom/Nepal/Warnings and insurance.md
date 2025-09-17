@@ -1,17 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   14 September 2025
+:   17 September 2025
 
 Updated:
-:   13 September 2025
+:   16 September 2025
 
 Latest update:
-:   Curfews introduced after violent protests in Nepal during week commencing 8 September have been lifted but potential for disruption remains ('Warnings and insurance' page).
+:   Addition of information that the 17 September has been declared a day of national mourning in Nepal, many business are likely to be closed for the day and travel disruption is possible ('Warnings and insurance' page).
 
 ## Protests
 
-Curfews introduced in several cities following violent protests have reportedly been lifted, allowing freedom of movement. Restrictions could however be reintroduced. Avoid protests, check local media for updates (including any new curfews), and follow the directions of the authorities. See [‘civil disorder’ on the ‘Safety and security’ page](https://www.gov.uk/foreign-travel-advice/nepal/safety-and-security#civil-disorder).
+17 September has been declared a day of national mourning in Nepal, following events last week. Many businesses are likely to be closed for the day, and travel disruption is possible. Curfews introduced in several cities following violent protests have been lifted, allowing freedom of movement. Restrictions could however be reintroduced. Avoid any large crowds or protests, check local media for updates (including any new curfews), and follow the directions of the authorities. See [‘civil disorder’ on the ‘Safety and security’ page](https://www.gov.uk/foreign-travel-advice/nepal/safety-and-security#civil-disorder).
 
 Following a period of disruption Kathmandu airport re-opened on 10 September. Contact your airline, hotel and tour operator for up-to-date information and to confirm any flight arrangements or logistics to get to the airport before you attempt to travel.
 

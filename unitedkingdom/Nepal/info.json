@@ -1,11 +1,11 @@
 {
     "name": "Nepal",
-    "update_reason": "Curfews introduced after violent protests in Nepal during week commencing 8 September have been lifted but potential for disruption remains ('Warnings and insurance' page).",
+    "update_reason": "Addition of information that the 17 September has been declared a day of national mourning in Nepal, many business are likely to be closed for the day and travel disruption is possible ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Nepal/Warnings and insurance.md",
-            "update_date": "2025-09-13T23:53:37+01:00"
+            "update_date": "2025-09-16T17:00:08+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Nepal/Getting help.md"
         }
     ],
-    "update_date": "2025-09-13T23:53:37+01:00"
+    "update_date": "2025-09-16T17:00:08+01:00"
 }
