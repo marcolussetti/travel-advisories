@@ -12,14 +12,28 @@ There is a global risk of indiscriminate terrorist attacks, which could be again
 
 ### **Crime**
 
-Crime rates are relatively low in Azerbaijan but occasional muggings do take place, particularly around bars and clubs and near dimly lit entrances of private apartments. Visitors should take sensible precautions:
+Crime rates are relatively low in Azerbaijan but muggings can take place, particularly around bars and clubs and near dimly lit entrances of private apartments. Cases of theft, intimidation, sexual harassment and sexual assault can also occur. If you are the victim of a crime, the Embassy can offer confidential support, including advice on how to access appropriate services.
 
-* Do not carry credit cards, travel tickets and money together - leave spare cash and valuables in a safe place.
-* Leave a photocopy of your passport (and travel and insurance documents) with family or friends at home.
+Visitors should take sensible precautions:
+
+* Irish citizens should carry their passport at all times as police often carry out identity checks. Ensure that it is kept secure and leave a photocopy of the details page separately in a safe place.
+* Avoid showing large sums of money in public and do not use ATMs after dark, especially if alone. Check no one has followed you.
+* Keep a close eye on personal belongings and hold on to them in public places such as internet cafes, train and bus stations.
+* Avoid dark and unlit streets and stairways, arrange to be picked up or dropped off as close to your hotel or apartment entrance as possible.
+* Do not leave valuables, or bags that may appear to contain valuables, visible in parked cars.
+* Remain vigilant when frequenting bar and nightclubs. Always keep your drink with you and avoid accepting food or drinks from strangers or new acquaintances.
 
 ### **Reporting Crime**
 
-If you are a victim of a crime while in Azerbaijan, report it to the local police immediately. You can contact the Embassy of Ireland in Türkiye if you need assistance.
+If you are a victim of a crime while in Azerbaijan, report it to the local police immediately. Emergency services can be contacted by dialling 102.
+
+Citizens can also contact the Embassy of Ireland in Türkiye for consular assistance.
+
+### **Taxis**
+
+It is advisable to use taxis ordered by hotels or order via a known company or ride-hailing app.
+
+Foreign visitors have reported being overcharged by local taxis. Ensure the taximeter is on at the beginning of your journey or that you have agreed a fare up front, Be aware that most old taxis do not have seat belts.
 
 ### **Driving**
 
