@@ -24,22 +24,6 @@ The consumption of alcohol in public is illegal. Avoid drinking alcohol outside 
 
 [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
 
-### 2SLGBTQI+ persons
-
-Qatari law criminalizes sexual acts and relationships between persons of the same sex.
-
-2SLGBTQI+ persons could also be discriminated against or detained based on their sexual orientation, gender identity, gender expression, or sex characteristics.
-
-Those convicted can face:
-
-* imprisonment
-* corporal punishment
-* fines
-
-2SLGBTQI+ persons should carefully consider the risks of travelling to Qatar.
-
-[Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
-
 ### Ramadan
 
 In 2025, the lunar month of Ramadan is expected to begin on or around February 28.

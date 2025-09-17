@@ -54,10 +54,16 @@ You may need to stock up on food, water and medications in the event of emergenc
 
 There are reports of individuals using popular dating apps and websites to threaten, extort and blackmail 2SLGBTQI+ persons.
 
+Lebanese law criminalizes sexual acts ''contradicting the laws of nature’’ and a ''man disguising as a woman.’’ These provisions may be interpreted broadly to arrest, detain and prosecute 2SLGBTQI+ persons. If you are convicted, you could face imprisonment.
+
+Authorities regularly ban peaceful gatherings and events related to 2SLGBTQI+ issues.
+
 * Beware of people who show a keen interest online
 * You could be the victim of a scam if you agree to meet with an online acquaintance
 * Always meet new acquaintances in a secure and familiar location
 * Inviting a stranger to your hotel room or apartment can be risky
+
+2SLGBTQI+ persons should carefully consider the risks of travelling to Lebanon.
 
 [Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
 

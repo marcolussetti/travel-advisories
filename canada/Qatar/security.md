@@ -59,6 +59,18 @@ The crime rate is low and violence is rare. However, credit card fraud does tak
 
 If you are detained by local authorities due to your sexual orientation, gender identity or any other sexual characteristic, you should report it immediately to the Embassy of Canada in Doha.
 
+Qatari law criminalizes sexual acts and relationships between persons of the same sex.
+
+2SLGBTQI+ persons could also be discriminated against or detained based on their sexual orientation, gender identity, gender expression, or sex characteristics.
+
+Those convicted can face:
+
+* imprisonment
+* corporal punishment
+* fines
+
+2SLGBTQI+ persons should carefully consider the risks of travelling to Qatar.
+
 [Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
 
 ### Women’s safety

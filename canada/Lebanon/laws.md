@@ -48,16 +48,6 @@ In public, between sunrise and sunset, be discreet when:
 * eating
 * smoking
 
-### 2SLGBTQI+ persons
-
-Lebanese law criminalizes sexual acts ''contradicting the laws of nature’’ and a ''man disguising as a woman.’’ These provisions may be interpreted broadly to arrest, detain and prosecute 2SLGBTQI+ persons. If you are convicted, you could face imprisonment.
-
-Authorities regularly ban peaceful gatherings and events related to 2SLGBTQI+ issues.
-
-2SLGBTQI+ persons should carefully consider the risks of travelling to Lebanon.
-
-[Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
-
 ### 
 
 ### Dual citizenship

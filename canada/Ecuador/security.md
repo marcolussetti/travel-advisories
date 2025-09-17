@@ -2,6 +2,26 @@
 
 ## Safety and security
 
+### State of exception
+
+On September 16, 2025, a state of exception was declared due to demonstrations in the following provinces:
+
+* Carchi
+* Imbabura
+* Pichincha
+* Azuay
+* Bolívar
+* Cotopaxi
+* Santo Domingo
+
+The state of exception will remain in effect for 60 days. During this time, public gatherings are prohibited.
+
+If you’re in the affected areas:
+
+* expect an increased police and military presence
+* always carry your identification
+* follow the instructions of local authorities
+
 ### State of emergency
 
 A state of emergency is in effect in the following locations:

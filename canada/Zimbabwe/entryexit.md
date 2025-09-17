@@ -16,7 +16,7 @@ Before you travel, check with your transportation company about passport require
 
 #### Regular Canadian passport
 
-Your passport must be valid for at least 6 months beyond the date you expect to leave Zimbabwe.
+Your passport must be valid for at least 6 months beyond the date you expect to leave Zimbabwe and have at least 2 blank pages.
 
 #### Passport for official travel
 

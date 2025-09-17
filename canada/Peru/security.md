@@ -2,11 +2,13 @@
 
 ## Safety and security
 
-Demonstrations and roadblocks are occurring and more are expected in the coming days in towns surrounding Machu Picchu, including Urubamba, Pachar and Ollantaytambo. Rail service to Machu Picchu could be disrupted. If you’re in the area:
+Demonstrations and roadblocks are occurring and more are expected in the coming days in towns surrounding Machu Picchu, including Urubamba, Pachar and Ollantaytambo. Rail service to Machu Picchu has been disrupted. If you’re in the area:
 
 * avoid areas where demonstrations and large gatherings are taking place
 * follow the instructions of local authorities
 * contact your tour operator for information on your travel arrangements
+
+If you’re in Machu Picchu Pueblo (Aguas Calientes), IPERÚ can provide support in person at Av. Pachacuteq Cdra. 1, or by phone at 980 328 761.
 
 ### Demonstrations and strikes
 
