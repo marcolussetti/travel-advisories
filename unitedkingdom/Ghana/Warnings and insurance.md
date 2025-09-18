@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   15 July 2025
+:   18 September 2025
 
 Updated:
-:   14 July 2025
+:   17 September 2025
 
 Latest update:
-:   Removal of information about elections in Ablekuma North in the Greater Accra region, which have now taken place.
+:   New information on risks from terrorism close to Ghana’s northern and eastern borders and new information about the Savannah region (‘Safety and security’ and ‘Regional risks’ pages).
 
 ![](https://assets.publishing.service.gov.uk/media/65dca99ff1cab30011fc4712/FCDO__TA__090_-_Ghana_Travel_Advice_Ed2__WEB_.jpg)
 

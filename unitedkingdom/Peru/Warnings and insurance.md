@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   2 August 2025
+:   18 September 2025
 
 Updated:
-:   1 August 2025
+:   17 September 2025
 
 Latest update:
-:   Removal of information about State of Emergency (‘Warnings and insurance’ page).
+:   Demonstrations and travel disruption near Machu Picchu (‘See Warning and insurance’)
 
 ![](https://assets.publishing.service.gov.uk/media/6645e81e993111924d9d365a/FCDO__TA__093_-_Peru_Travel_Advice_Ed3__WEB_.jpg)
 
@@ -32,6 +32,10 @@ FCDO advises against all but essential travel to the Valley of the Apurímac, En
 We advise against all but essential travel to these two areas for safety and security reasons.
 
 Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/peru/regional-risks).
+
+### Demonstrations and travel disruption near Machu Picchu
+
+Due to ongoing demonstrations and road blockades near Machu Picchu, rail services to and from Machu Picchu (Aguas Calientes) have been disrupted until further notice. Rail and road traffic on routes leading to Machu Picchu may be further disrupted without prior notice. If you are stranded in Machu Picchu Pueblo (Aguas Calientes), IPERÚ can provide support in person at Av. Pachacuteq Cdra. 1, or by phone at +51 980 328 761.
 
 ## Before you travel
 

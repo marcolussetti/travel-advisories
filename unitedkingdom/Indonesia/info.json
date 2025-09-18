@@ -1,11 +1,11 @@
 {
     "name": "Indonesia",
-    "update_reason": "Removal of information about protests across Indonesia including violent clashes and fatalities ('Safety and security'  page).",
+    "update_reason": "New information about visa requirements ('Entry requirements' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Indonesia/Warnings and insurance.md",
-            "update_date": "2025-09-08T15:11:49+01:00"
+            "update_date": "2025-09-17T11:07:51+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Indonesia/Getting help.md"
         }
     ],
-    "update_date": "2025-09-08T15:11:49+01:00"
+    "update_date": "2025-09-17T11:07:51+01:00"
 }

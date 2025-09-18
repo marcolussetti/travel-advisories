@@ -14,9 +14,9 @@ If you must travel to Bawku, you are strongly advised to contact the regional po
 
 Since October there have been a number of attacks related to the conflict in Bawku on the Nasia -Walewale-Bolgatanga road (Northeast) and the Bolgatanga- Zebilla – Bawku – Pulmankom road (Upper East). Many people are arranging police escorts when travelling along these roads. British citizens should take this into consideration including any precautionary measures before deciding to travel along these roads.
 
-## Walewale Municipality
+## Savannah Region
 
-On 15th February the Ministry of the Interior imposed an 8pm – 5am curfew covering Walewale and its surrounding areas in the North East Region. The decision was taken in response to increased violent attacks resulting in fatalities, including along the Walewale-Bolgatanga Highway.
+In August, tribal conflict broke out in the western part of Savannah Region, near the Cote d’Ivoire and Burkina Faso borders. This has resulted in a number of deaths and displacement of communities. Visitors travelling in that region should keep informed about the situation, seek local advice and take precautions.
 
 [Previous
 :

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   9 September 2025
+:   18 September 2025
 
 Updated:
-:   8 September 2025
+:   17 September 2025
 
 Latest update:
-:   Removal of information about protests across Indonesia including violent clashes and fatalities ('Safety and security' page).
+:   New information about visa requirements ('Entry requirements' page).
 
 ![](https://assets.publishing.service.gov.uk/media/6745db6083f3d6d843be9719/FCDO__TA__020_-_Indonesia_Travel_Advice_Ed9__WEB_.jpg)
 

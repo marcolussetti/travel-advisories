@@ -18,6 +18,8 @@ Terrorist attacks in Ghana cannot be ruled out. Attacks could be indiscriminate,
   + hotels, cafes and restaurants
   + places of worship
 
+Several terrorist groups operate in neighbouring Burkina Faso near to Ghana’s northern border, including Jama’a Nusrat ul-Islam wa al-Muslimin (JNIM) and Islamic State. JNIM regularly conducts attacks in southern Burkina Faso near to the Ghanaian border. There have also been JNIM attacks in the northern region of Togo, which borders Ghana to the east.
+
 Stay aware of your surroundings, keep up to date with local media reports, and follow the advice of local authorities.
 
 ## Political situation

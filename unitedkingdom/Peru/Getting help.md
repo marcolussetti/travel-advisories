@@ -31,7 +31,7 @@ FCDO has guidance on staying safe and what to do if you need help or support abr
 * dealing with a [death in Peru](https://www.gov.uk/government/publications/peru-bereavement-packinformation/peru-beravement-information)
 * being [arrested or imprisoned in Peru](https://www.gov.uk/government/publications/peru-prisoner-pack)
 * getting help if you are a [victim of rape or sexual assault](https://www.gov.uk/government/publications/sexual-assault-in-peru)
-* getting help if you are a [victim of crime](https://www.gov.uk/victim-crime-abroad)
+* getting help if you are a [victim of crime](https://www.gov.uk/guidance/victim-of-crime-abroad)
 * what to do if you are [in hospital](https://www.gov.uk/guidance/in-hospital-abroad)
 * if you are [affected by a crisis](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas), such as a terrorist attack
 

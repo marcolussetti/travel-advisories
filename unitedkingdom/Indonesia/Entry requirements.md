@@ -16,7 +16,7 @@ You will be denied entry if you do not have a valid travel document or try to us
 
 You must have a visa to visit Indonesia.
 
-You can get a [30-day visa on arrival (VOA)](https://evisa.imigrasi.go.id/) for:
+You can get a [30-day visa on arrival (VOA)](https://evisa.imigrasi.go.id/) or through the [All Indonesia Arrival Card website](https://allindonesia.imigrasi.go.id/) (from 1 September), at least 48 hours before your travel to Indonesia for:
 
 * tourism or visiting
 * some business purposes or an official meeting
@@ -52,14 +52,6 @@ If you overstay your visa, you risk a heavy fine, possible lengthy detention (li
 If your visa will expire during a period of hospitalisation or detention, contact Indonesian immigration before your visa expires to avoid any overstay fines.
 
 Find more information [about](https://www.gov.uk/guidance/indonesia-visa-overstay-and-deportation) visa overstay and deportation and how the British Embassy in Jakarta can help.
-
-## Health Pass requirements
-
-To enter Indonesia, all international travellers must fill out an electronic self-declaration form called [SATUSEHAT Health Pass](https://sshp.kemkes.go.id/). It is recommended that you complete this form prior to departure to avoid delays when arriving in Indonesia.
-
-## Customs declaration
-
-You will be required to complete an [e-customs declaration](https://ecd.beacukai.go.id/) form when travelling to Indonesia. You can complete this up to 3 days before your arrival.
 
 ## Registering with the police
 

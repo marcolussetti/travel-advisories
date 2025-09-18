@@ -1,11 +1,11 @@
 {
     "name": "Ghana",
-    "update_reason": "Removal of information about elections in Ablekuma North in the Greater Accra region, which have now taken place.",
+    "update_reason": "New information on risks from terrorism close to Ghana\u2019s northern and eastern borders and new information about the Savannah region (\u2018Safety and security\u2019 and \u2018Regional risks\u2019 pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Ghana/Warnings and insurance.md",
-            "update_date": "2025-07-14T13:26:03+01:00"
+            "update_date": "2025-09-17T14:29:18+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Ghana/Getting help.md"
         }
     ],
-    "update_date": "2025-07-14T13:26:03+01:00"
+    "update_date": "2025-09-17T14:29:18+01:00"
 }
