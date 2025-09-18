@@ -6,7 +6,7 @@ All travel to and out of the country is severely restricted. Borders are closed 
 
 Regular entry and exit requirements may not apply at this time. They could also change without notice.
 
-Every country or territory decides who can enter or exit through its borders. The Government of Canada cannot intervene on your behalf if you do not meet your destination’s entry or exit requirements.
+The authorities of a country or territory decide who can enter or exit through its borders. The Government of Canada cannot intervene on your behalf if you do not meet your destination’s entry or exit requirements.
 
 We have obtained the information on this page from Afghan authorities. It can, however, change at any time.
 

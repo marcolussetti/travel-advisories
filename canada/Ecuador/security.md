@@ -381,7 +381,7 @@ Pirate attacks and armed robbery against ships occur.
 
 Take appropriate precautions.
 
-[Live piracy report](https://icc-ccs.org/map/) - International Maritime Bureau
+[Live piracy map](https://icc-ccs.org/map/) – International Maritime Bureau Piracy Reporting Centre
 
 ### Air travel
 

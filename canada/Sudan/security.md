@@ -142,7 +142,7 @@ Maintain a heightened level of vigilance and consider regularly modifying your p
 
 Pirate attacks and armed robbery against ships occur in coastal waters. Mariners should take appropriate precautions.
 
-[Live piracy report](https://icc-ccs.org/map/) - International Maritime Bureau
+[Live piracy map](https://icc-ccs.org/map/) – International Maritime Bureau Piracy Reporting Centre
 
 ### Fuel shortages
 

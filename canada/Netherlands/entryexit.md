@@ -4,7 +4,7 @@
 
 Starting December 9, 2024, for a period of six months, Dutch authorities will conduct controls at all land border crossings and on some flights arriving to the Netherlands from the Schengen area. Local authorities may ask you to present your travel documents.
 
-Every country or territory decides who can enter or exit through its borders. The Government of Canada cannot intervene on your behalf if you do not meet your destination’s entry or exit requirements.
+The authorities of a country or territory decide who can enter or exit through its borders. The Government of Canada cannot intervene on your behalf if you do not meet your destination’s entry or exit requirements.
 
 We have obtained the information on this page from the Dutch authorities. It can, however, change at any time.
 

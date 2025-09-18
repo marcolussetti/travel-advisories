@@ -1,7 +1,7 @@
 {
     "name": "Switzerland",
-    "update_reason": "The Need help? section was updated.",
-    "update_date": "2025-09-09T13:37:00",
+    "update_reason": "Editorial change",
+    "update_date": "2025-09-17T15:41:00",
     "sections": {
         "risk": "canada/Switzerland/risk.md",
         "security": "canada/Switzerland/security.md",

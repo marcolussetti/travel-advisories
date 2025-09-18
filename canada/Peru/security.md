@@ -261,7 +261,7 @@ Thefts on boats by river pirates occur along rivers in the Amazon jungle.
 
 Mariners should take appropriate precautions.
 
-[Live piracy report](https://icc-ccs.org/map/) - International Maritime Bureau
+[Live piracy map](https://icc-ccs.org/map/) – International Maritime Bureau Piracy Reporting Centre
 
 ### Public transportation
 

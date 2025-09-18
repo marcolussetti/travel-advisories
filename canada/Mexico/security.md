@@ -495,7 +495,7 @@ If you use a ride-sharing app:
 
 Pirates commit attacks and armed robberies against ships in coastal waters in the Bay of Campeche. Travellers should take appropriate precautions.
 
-[Live piracy report](https://icc-ccs.org/map/) - International Maritime Bureau
+[Live piracy map](https://icc-ccs.org/map/) – International Maritime Bureau Piracy Reporting Centre
 
 ### Air travel
 

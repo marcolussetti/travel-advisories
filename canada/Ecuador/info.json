@@ -1,7 +1,7 @@
 {
     "name": "Ecuador",
-    "update_reason": "Safety and security \u2013 added information on state of exception",
-    "update_date": "2025-09-16T16:01:00",
+    "update_reason": "Editorial change",
+    "update_date": "2025-09-17T15:09:00",
     "sections": {
         "risk": "canada/Ecuador/risk.md",
         "security": "canada/Ecuador/security.md",

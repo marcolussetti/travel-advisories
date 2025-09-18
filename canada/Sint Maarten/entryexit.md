@@ -4,7 +4,7 @@
 
 Sint Maarten is a constituent country of the Kingdom of the Netherlands, and encompasses approximately half of the island of Saint Martin. It is referred to as the “Dutch side”. The other side is a "collectivité d'outre-mer" of France named Saint Martin.
 
-Every country or territory decides who can enter or exit through its borders. The Government of Canada cannot intervene on your behalf if you do not meet your destination’s entry or exit requirements.
+The authorities of a country or territory decide who can enter or exit through its borders. The Government of Canada cannot intervene on your behalf if you do not meet your destination’s entry or exit requirements.
 
 We have obtained the information on this page from the Dutch authorities. It can, however, change at any time.
 

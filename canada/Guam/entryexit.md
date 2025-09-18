@@ -4,7 +4,7 @@
 
 Guam is a territory of the United States.
 
-Every country or territory decides who can enter or exit through its borders. The Government of Canada cannot intervene on your behalf if you do not meet your destination’s entry or exit requirements.
+The authorities of a country or territory decide who can enter or exit through its borders. The Government of Canada cannot intervene on your behalf if you do not meet your destination’s entry or exit requirements.
 
 We have obtained the information on this page from the U.S. authorities. It can, however, change at any time.
 

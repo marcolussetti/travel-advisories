@@ -285,7 +285,7 @@ Pirate attacks and armed robbery targeting ships occur in coastal waters. You ma
 
 Mariners should take appropriate precautions.
 
-[Live piracy report](https://icc-ccs.org/map/) - International Maritime Bureau
+[Live piracy map](https://icc-ccs.org/map/) – International Maritime Bureau Piracy Reporting Centre
 
 ### Air travel
 

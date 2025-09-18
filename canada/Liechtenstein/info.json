@@ -1,7 +1,7 @@
 {
     "name": "Liechtenstein",
-    "update_reason": "Entry and exit requirements \u2013 added information on the Entry/Exit System (EES)",
-    "update_date": "2025-09-05T14:10:00",
+    "update_reason": "Editorial change",
+    "update_date": "2025-09-17T15:41:00",
     "sections": {
         "risk": "canada/Liechtenstein/risk.md",
         "security": "canada/Liechtenstein/security.md",

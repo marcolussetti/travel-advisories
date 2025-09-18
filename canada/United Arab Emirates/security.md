@@ -4,15 +4,7 @@
 
 ### Tensions in the Middle East
 
-The security situation remains unpredictable and could deteriorate significantly with little or no warning.
-
-This may result in travel disruptions, including flight cancellations and airspace closures.
-
-You should:
-
-* monitor local and international media to stay informed of the rapidly evolving situation
-* be vigilant and follow the instructions of local authorities at all times
-* Register or update your contact information with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration "https://travel.gc.ca/travelling/registration") service to receive the latest information from the Government of Canada
+Tensions can flare up suddenly in the Middle East, and lead to travel disruptions, including flight cancellations and airspace closures.
 
 [Canada's response to the situation in the Middle East](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=eng)
 

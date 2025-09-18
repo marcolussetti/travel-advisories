@@ -6,7 +6,7 @@ Due to the ongoing security situation in Israel, the West Bank and the Gaza Stri
 
 Verify the status of the border crossing before you head there.
 
-Every country or territory decides who can enter or exit through its borders. The Government of Canada cannot intervene on your behalf if you do not meet your destination’s entry or exit requirements.
+The authorities of a country or territory decide who can enter or exit through its borders. The Government of Canada cannot intervene on your behalf if you do not meet your destination’s entry or exit requirements.
 
 We have obtained the information on this page from the Jordanian authorities. It can, however, change at any time.
 

@@ -57,14 +57,6 @@ There is a risk of [hepatitis A](https://www.canada.ca/en/public-health/services
 
 Practise [safe food and water precautions](https://travel.gc.ca/travelling/health-safety/food-water) and wash your hands often. Vaccination is recommended for all travellers to areas where hepatitis A is present.
 
-Rabies 
-
-In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/diseases/rabies) is commonly carried by dogs and some wildlife, including bats. Rabies is a deadly disease that spreads to humans primarily through bites or scratches from an infected animal. While travelling, take [precautions](https://www.canada.ca/en/public-health/services/diseases/rabies/prevention.html), including keeping your distance from animals (including free-roaming dogs), and closely supervising children.
-
-If you are bitten or scratched by a dog or other animal while travelling, immediately wash the wound with soap and clean water and see a health care professional. **In this destination, rabies treatment may be limited or may not be available, therefore you may need to return to Canada for treatment.**
-
-Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who are at high risk of exposure (e.g., occupational risk such as veterinarians and wildlife workers, children, adventure travellers and spelunkers, and others in close contact with animals).
-
 Measles 
 
 Measles is a serious viral infection that spreads easily. It spreads through the air, and can stay in the air for up to 2 hours. You can also get measles by direct contact with an infected person or by touching a surface with the virus on it and then touching your eyes, nose, or mouth before washing your hands.
@@ -121,6 +113,14 @@ Malaria
 • Exclude mosquitoes from your living area with screening and/or closed, well-sealed doors and windows.  
 • Use insecticide-treated bed nets if mosquitoes cannot be excluded from your living area.   
 • Wear permethrin-treated clothing. 
+
+Rabies 
+
+In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/diseases/rabies) is commonly carried by dogs and some wildlife, including bats. Rabies is a deadly disease that spreads to humans primarily through bites or scratches from an infected animal. While travelling, take [precautions](https://www.canada.ca/en/public-health/services/diseases/rabies/prevention.html), including keeping your distance from animals (including free-roaming dogs), and closely supervising children.
+
+If you are bitten or scratched by a dog or other animal while travelling, immediately wash the wound with soap and clean water and see a health care professional. **In this destination, rabies treatment may be limited or may not be available, therefore you may need to return to Canada for treatment.**
+
+Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who are at high risk of exposure (e.g., occupational risk such as veterinarians and wildlife workers, children, adventure travellers and spelunkers, and others in close contact with animals).
 
 ### Safe food and water precautions
 
@@ -214,13 +214,13 @@ Dengue
 **Learn more:**  
 [Dengue](https://www.canada.ca/en/public-health/services/infectious-diseases/viral-haemorrhagic-fevers/dengue-fever.html)
 
-African trypanosomiasis
-
-[African trypanosomiasis (sleeping sickness)](https://www.canada.ca/en/public-health/services/diseases/trypanosomiasis.html) is caused by a parasite spread through the bite of a tsetse fly. Tsetse flies usually bite during the day and the bites are usually painful. If untreated, the disease is eventually fatal. Risk is generally low for most travellers. Protect yourself from bites especially in game parks and rural areas. Avoid wearing bright or dark-coloured clothing as these colours attract tsetse flies. There is no vaccine available for this disease.
-
 Rift Valley fever
 
 [Rift Valley fever](http://www.who.int/mediacentre/factsheets/fs207/en/) is a viral disease that can cause severe flu-like symptoms. In some cases, it can be fatal. It is spread to humans through contact with infected animal blood or tissues, from the bite of an infected mosquito, or eating or drinking unpasteurized dairy. Risk is generally low for most travellers. Protect yourself from insect bites and avoid animals, particularly livestock, and unpasteurized dairy. There is no vaccine available for Rift Valley fever.
+
+African trypanosomiasis
+
+[African trypanosomiasis (sleeping sickness)](https://www.canada.ca/en/public-health/services/diseases/trypanosomiasis.html) is caused by a parasite spread through the bite of a tsetse fly. Tsetse flies usually bite during the day and the bites are usually painful. If untreated, the disease is eventually fatal. Risk is generally low for most travellers. Protect yourself from bites especially in game parks and rural areas. Avoid wearing bright or dark-coloured clothing as these colours attract tsetse flies. There is no vaccine available for this disease.
 
 ### Animal precautions
 

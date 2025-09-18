@@ -356,7 +356,7 @@ Ferry accidents occur due to the overloading and poor maintenance of some vessel
 
 Pirate attacks and armed robbery against ships occur in coastal waters, particularly in the Indian Ocean. Mariners should take appropriate precautions.
 
-[Live piracy report](https://icc-ccs.org/map/) - International Maritime Bureau
+[Live piracy map](https://icc-ccs.org/map/) – International Maritime Bureau Piracy Reporting Centre
 
 ### Air travel
 
