@@ -91,6 +91,26 @@ Curfew hours (10pm until 05am) apply, until further notice, for the following di
 
 Should you need to travel to or from the airport during curfew hours, this is permissible by presenting evidence of a flight booking reservation.
 
+### **State of exception**
+
+On 16 September 2025, a 60 day state of exception was announced in the following seven provinces owing to mass demonstrations and road blocks:
+
+- Carchi;
+
+- Imbabura;
+
+- Pinchincha;
+
+- Azuay;
+
+- Bolivar;
+
+- Cotopaxi;
+
+- Santa Domingo de los Tsáchilas.
+
+The decree suspends the right to freedom of assembly and orders the deployment of the armed forces to assist the police in restoring order.
+
 The current security situation remains volatile and uncertain due to the threat of violent crime. Travellers should:
 
 - Expect an increased police and military presence, especially near prisons, key public buildings, and airports;
