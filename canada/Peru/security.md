@@ -2,14 +2,6 @@
 
 ## Safety and security
 
-Demonstrations and roadblocks are occurring and more are expected in the coming days in towns surrounding Machu Picchu, including Urubamba, Pachar and Ollantaytambo. Rail service to Machu Picchu has been disrupted. If you’re in the area:
-
-* avoid areas where demonstrations and large gatherings are taking place
-* follow the instructions of local authorities
-* contact your tour operator for information on your travel arrangements
-
-If you’re in Machu Picchu Pueblo (Aguas Calientes), IPERÚ can provide support in person at Av. Pachacuteq Cdra. 1, or by phone at 980 328 761.
-
 ### Demonstrations and strikes
 
 Demonstrations and strikes take place regularly throughout the country. Strikes can complicate travel and disrupt public transport and services, including your ability to travel to or leave isolated tourist destinations such as Machu Picchu. They could also lead to border closures with Bolivia. Protestors may also block rivers essential for transportation in some remote regions, including the Manu region of Madre de Dios and Iquitos region. This may result in the temporary detainment of tourists.

@@ -103,8 +103,7 @@ The flu virus spreads from person to person when they cough or sneeze or by touc
 Malaria 
 
 [Malaria](https://www.canada.ca/en/public-health/services/diseases/malaria.html) is a serious and sometimes fatal disease that is caused by parasites spread through the bites of mosquitoes.  
-   
-**There is a risk of malaria in certain areas and/or during a certain time of year in this destination.**
+ 
 
 [Antimalarial medication may be recommended](https://www.canada.ca/en/public-health/services/catmat/appendix-1-malaria-risk-recommended-chemoprophylaxis-geographic-area.html) depending on your itinerary and the time of year you are travelling. Consult a health care professional or visit a travel health clinic before travelling to discuss your options. It is recommended to do this 6 weeks before travel, however, it is still a good idea any time before leaving.   
    
@@ -291,11 +290,11 @@ To lower your risk of getting sexually transmissible infections (STIs), HIV, and
 
 Good health care is usually only available in urban areas. Quality of care varies greatly throughout the country.
 
-You can access free health care at public hospitals and clinics. You will likely experience overcrowding, understaffing, longer wait times and medication shortages. Most doctors don't speak English. Private hospitals generally don't expect immediate cash payment.
+You can access free health care at public hospitals and clinics. You will likely experience overcrowding, understaffing, longer wait times and medication shortages. Most doctors don't speak English. Public hospitals generally don't expect immediate cash payment.
 
-Private hospitals and clinics located in cities are often better staffed and equipped than public or rural facilities. Some doctors speak English. Private hospitals provide expensive medical care, require proof of insurance, and may often request immediate payment.
+Private hospitals and clinics located in cities are often better staffed and equipped than public or rural facilities. Some doctors speak English. Private hospitals provide expensive medical care, require proof of insurance, and may often request immediate cash payment.
 
-Some medical facilities in the state of Rio de Janeiro have closed or are providing limited services due to a lack of funding. Private hospitals remain operational.
+Some public medical facilities in the state of Rio de Janeiro provide limited services due to a lack of funding. Private hospitals are fully operational.
 
 Emergency services can be slow outside of major cities.
 
@@ -329,12 +328,11 @@ You should discuss your medical plans with your primary healthcare provider in C
 
 Some prescription medications may not be available in Brazil.
 
-If you take prescription medication, you're responsible for determining their legality in the country.
+If you take prescription medications, you're responsible for determining their legality in Brazil.
 
-* Bring sufficient quantities of your medication with you
-* Always keep your medication in the original container
-* Pack them in your carry-on luggage
-* Carry a copy of your prescriptions
+* Bring enough medication for your stay
+* Always keep your medication in the original container and carry a copy of your prescriptions
+* Pack your medication in your carry-on luggage
 
 [Travelling with medication](https://travel.gc.ca/travelling/health-safety/medication?_ga=2.191785258.1604296173.1718630005-1405742948.1680118138)
 

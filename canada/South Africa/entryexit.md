@@ -16,9 +16,7 @@ Before you travel, check with your transportation company about passport require
 
 #### Regular Canadian passport
 
-Your passport must be valid for at least 30 days beyond the date you expect to leave South Africa. Your passport must contain at least 2 empty visa pages for the necessary South African Temporary Residence Permit. Without it, you will be denied entry into the country.
-
-You may also be denied boarding at the point of departure if you don’t have enough blank pages for the visa. If you plan to visit neighbouring countries and return to South Africa, ensure that there are sufficient visa pages in your passport for those countries’ visas and those of South Africa.
+Your passport must be valid for at least 30 days beyond the date you expect to leave South Africa. Your passport must contain at least 2 empty visa pages for the necessary South African entry stamp and/or visa. Without it, you will be denied entry into the country.
 
 #### Passport for official travel
 
@@ -43,34 +41,27 @@ Different entry rules may apply when travelling with a temporary passport or an 
 
 Tourist visa: not required for stays up to 90 days  
 Business visa: not required for stays up to 90 days  
-Student permit: required  
-Employment permit: required
+Volunteer visa: required  
+Student visa: required  
+Employment visa: required
 
-Canadians don't need a tourist visa to enter South Africa. However, upon arrival, immigration officials will issue a temporary residents visa (TRV) for up to 90 days. Check the expiry date of your TRV to ensure you don’t overstay.
+Canadians do not need a tourist visa to enter South Africa. Immigration officials will stamp your passport upon arrival and grant you a specific number of days to stay in South Africa, to a maximum of 90 days. Make sure the duration indicated on your entry stamp matches your travel plans, as permission for a full 90-day stay is not automatically granted.
 
-If you overstay without authority, you may be forced to pay a fine upon departure and/or can be refused entry for up to 5 years.
-
-Serious offenders may be arrested before departure and detained until their court appearance. In such cases, visitors may face a very substantial fine and be deported at their own expense.
-
-[South African visas](http://www.dha.gov.za/index.php/applying-for-sa-visa) - South African Department of Home Affairs
+[Information on South African visas](https://www.dha.gov.za/index.php/immigration-services/types-of-visas) – South African Department of Home Affairs
 
 #### Changing or extending your visa
 
-Some foreigners travelling to South Africa have not gone through the correct channels to obtain, change or extend their relevant visas. This has resulted in arrest and detention due to fraudulently issued visas.
+If you need to change your visa or extend your stay while in South Africa, you must schedule an appointment through VFS Global, the official service provider authorized by the South African Department of Home Affairs.
 
-While in South Africa, you must go through regional or district offices of the South African Department of Home Affairs for information on visa requirements and issuance.
+Overstaying without proper authorization may result in a ban from re-entering South Africa for up to 5 years.
 
-#### Regional travel
+If you leave and re-enter South Africa, even for a short time, you will not automatically be given permission to stay for an additional 90 days. Immigration officials can deny you re-entry into South Africa or grant you a stay of less than 90 days.
 
-If you leave and re-enter South Africa, even for a short time, you will not automatically be given an additional 90-day visitor’s visa. An immigration official can deny you re-entry into South Africa. The immigration officer can also allow you to enter for a limited time only.
+[Visa platform](https://visa.vfsglobal.com/zaf/en/dha) – VFS Global
 
-If you wish to extend your stay, contact the South African Department of Home Affairs 60 days before your visitor’s visa expires.
+#### Work, volunteer or study
 
-[South African Department of Home Affairs contact information](http://www.dha.gov.za/index.php/contact-us)
-
-#### Work or study
-
-If you intend to work or study in South Africa, you must apply for the relevant visas prior to your arrival; otherwise, you risk being refused entry and may be returned to your point of origin. You cannot change the type of visa once in South Africa.
+If you intend to work, volunteer or study in South Africa, you must apply for the relevant visas prior to your arrival; otherwise, you risk being refused entry and may be returned to your point of origin.
 
 ### Other entry requirements
 
@@ -78,25 +69,25 @@ You must be in possession of a return or an onward ticket. Without one, you may 
 
 ### Residence permit
 
-If you reside in South Africa, you must have valid residence permit in your passport each time you enter and leave the country.
+If you reside in South Africa, you must have valid residence permit in your passport each time you enter or exit the country.
 
-### Dual citizenship
+### Entry and exit requirements for dual citizens
 
 Dual citizens must enter or depart South Africa using their South African passport only.
 
-For further information on dual citizenship, contact the High Commission for the Republic of South Africa in Ottawa.
+This requirement applies to individuals who lost their South African citizenship between October 1995 and May 2025 by acquiring another nationality, as the Constitutional Court has ruled that they are now deemed to have retained their South African citizenship.
+
+For further information on dual citizenship, contact the High Commission for the Republic of South Africa in Ottawa or the Consulate General in Toronto.
 
 ### Children and travel
 
-Minors traveling to and from South Africa must have a valid passport and may be subject to additional requirements.
+Unaccompanied minors under the age of 18 traveling to and from South Africa are subject to additional requirements.
 
-You must produce a long form birth certificate when travelling with children under the age of 18 to neighbouring countries. The long form birth certificate must be in English or translated into English.
+All minors holding South African citizenship, including dual citizens, are also subject to additional requirements. Visit the South African Department of Home Affairs website or contact the nearest South African mission, before travelling, to verify the latest requirements.
 
-Contact the nearest South African mission abroad or visit the South African Department of Home Affairs website, before travelling, to verify the latest requirements.
+#### Useful links
 
-Useful links
-
-* [Entry regulations when travelling with children](http://www.dha.gov.za/index.php/statements-speeches/621-advisory-new-requirements-for-children-travelling-through-south-african-ports-of-entry-effective-1-june-2015) - South African Department of Home Affairs
+* [Entry regulations when travelling with children](https://www.dha.gov.za/index.php/civic-services/travel-requirements-for-children) - South African Department of Home Affairs
 * [Foreign Representatives in Canada](https://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng&_ga=2.75493394.1496566192.1698612653-1405742948.1680118138)
 * [Travelling with children](http://travel.gc.ca/travelling/children)
 

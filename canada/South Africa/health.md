@@ -110,7 +110,8 @@ Malaria
 [Protect yourself from mosquito bites](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html) at all times:   
 • Cover your skin and use an [approved](https://www.canada.ca/en/health-canada/services/about-pesticides/insect-repellents.html) insect repellent on uncovered skin.   
 • Exclude mosquitoes from your living area with screening and/or closed, well-sealed doors and windows.  
-• Use insecticide-treated bed nets if mosquitoes cannot be excluded from your living area. 
+• Use insecticide-treated bed nets if mosquitoes cannot be excluded from your living area.   
+• Wear permethrin-treated clothing. 
 
 Rabies 
 

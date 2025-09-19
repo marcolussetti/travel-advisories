@@ -8,7 +8,7 @@
 
 ### Border areas - Avoid non-essential travel
 
-[Avoid non-essential travel](#levels "Risk Levels") to
+[Avoid non-essential travel](#levels "Risk Levels") to the following border areas due to criminal activity related to drugs and arms smuggling by illegal armed groups and other criminal organizations:
 
 * within 20 km of the border with Argentina, excluding Iguaçu National Park
 * within 20 km of the border with Bolivia, excluding Pantanal National Park

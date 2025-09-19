@@ -14,17 +14,12 @@ This process can take a long time, and there is no guarantee that the transfer w
 
 ### Drugs
 
-Penalties for possession, use or trafficking of illegal drugs are severe. Convicted offenders can expect a jail sentence and a heavy fine.
-
-Travellers have fallen victim to scams in which illegal drugs are hidden inside luggage that an acquaintance has asked them to take away from Brazil.
+Penalties for possession, use or trafficking of illegal drugs are severe. Convicted offenders can expect long jail sentences and heavy fines, even if unknowingly carrying drugs.
 
 * Pack your own luggage and monitor it closely at all times
 * Never transport other people’s packages, bags, or suitcases
 
-#### Useful links
-
-* [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
-* [Warning to Canadian seniors targeted by international drug smuggling scams](https://www.cbsa-asfc.gc.ca/security-securite/senior-aines-eng.html)
+[Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
 
 ### Child sex tourism
 
@@ -46,9 +41,11 @@ If you are a Canadian citizen, but also a citizen of Brazil, our ability to offe
 
 ### Driving
 
-The legal blood alcohol limit is 0.00% in Brazil. If the police suspect you of drinking and driving, they could confiscate your driver’s licence on the spot. If convicted, you can expect heavy fines and jail sentences. Brazilian police may conduct periodic controls during the day and night, often to check for drunk driving. If you approach a police control, slow down and co-operate with the officers.
+Brazil has a zero-tolerance policy for drinking and driving. If the police suspect you of drinking and driving, they could confiscate your driver’s licence on the spot. If convicted, you can expect heavy fines and jail sentences.
 
-You can drive in Brazil for up to 180 days with a valid Canadian driver’s licence.
+Brazilian police may conduct periodic controls during the day and night, often to check for drunk driving. If you approach a police control, slow down and cooperate with the officers.
+
+You can drive in Brazil with a valid Canadian driver’s licence for up to 180 days.
 
 You should carry an international driving permit. This official Portuguese translation of your Canadian driver’s licence will help when dealing with local authorities.
 
@@ -56,11 +53,11 @@ You should carry an international driving permit. This official Portuguese trans
 
 ### Identification
 
-Authorities may request to see your ID at any time.
+Local authorities may request to see your identification at any time.
 
-* Carry valid identification or a photocopy of it at all times
-* Keep a photocopy, ideally notarised, of your passport in case it’s lost or seized
-* Keep a digital copy of your ID and travel documents
+* Always carry valid identification or a photocopy of it
+* Keep a photocopy of your passport and visa in a safe place in case it’s lost or seized
+* Keep a digital copy of your identification and travel documents
 
 ### Imports and exports
 
@@ -73,7 +70,7 @@ There are very strict rules regarding the importation and exportation of:
 * tropical plants
 * wildlife
 
-Brazil’s Ministry of Health provides Information about food items that you can and cannot bring to Brazil.
+Brazil’s Ministry of Health provides information about food items that you can and cannot bring to Brazil.
 
 [Exporting to Brazil](https://www.gov.br/anvisa/pt-br/english/exporting-to-brazil) – Government of Brazil
 
@@ -121,7 +118,9 @@ Be aware that Canadian consular officials cannot interfere in private legal matt
 
 The currency of Brazil is the Brazilian real (BRL).
 
-Canadian bank cards usually work in ATMs. Credit and debit cards are widely accepted.
+Canadian bank cards usually work in ATMs.
+
+Credit and debit cards are widely accepted in cities, restaurants, and stores, but less so in rural or informal markets.
 
 ATMs are scarcely available in rural areas.
 

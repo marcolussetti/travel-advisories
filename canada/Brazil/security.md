@@ -4,41 +4,42 @@
 
 ### Border areas
 
-Criminal activity related to narcotics trafficking and arms smuggling poses a threat to your personal security.
+Criminal activity related to drug trafficking and arms smuggling poses a threat to your personal security.
 
 If you choose to travel near border areas
 
 * exercise caution at all times
-* monitor local media to stay informed on the evolving situation
-* follow instructions from local authorities and security forces
+* monitor local media for the latest information
+* follow the instructions of local authorities and security forces
 
 ### Crime
 
 Crime rates are high throughout the country, particularly in:
 
-* Brasilia
-* Porto Alegre
+* Belém
+* Fortaleza
+* Manaus
 * Recife
 * Rio de Janeiro
 * Salvador
 * São Paulo
 
-Tourists are mostly affected by theft, but incidents of violent crime have occurred.
+Tourists are mostly affected by theft, but incidents of violent crime also occur.
 
 #### Violent crime
 
 Violent crime occurs, including:
 
-* armed robbery
-* carjacking
-* burglary
-* sexual assault
+* armed robberies
+* carjackings
+* burglaries
+* sexual assaults
 
 Violent crime, often involving weapons, is common. Incidents of mass shootings occur, often resulting in casualties. Although tourists are rarely involved, you could be in the wrong place at the wrong time.
 
 Violent crime often occurs in the following areas:
 
-* Rio de Janeiro
+* Rio de Janeiro:
 
 + Christ the Redeemer statue
 + Copacabana Beach
@@ -47,7 +48,7 @@ Violent crime often occurs in the following areas:
 + Lapa neighbourhood
 + Santa Teresa neighbourhood
 
-* São Paulo
+* São Paulo:
 
 + around São Paulo Cathedral
 + Avenida Paulista
@@ -57,7 +58,7 @@ Violent crime often occurs in the following areas:
 + Princess Isabel Square
 + Luz station
 
-* Satellite cities of Brasilia
+* Satellite cities of Brasilia:
 
 + Ceilândia
 + Paranoá
@@ -66,11 +67,11 @@ Violent crime often occurs in the following areas:
 
 If you decide to travel to these areas:
 
-* be aware of your surroundings at all times
+* always be aware of your surroundings
 * avoid going out after dark
 * travel in groups
 * avoid isolated areas
-* don't resist an attack
+* do not resist an attack
 
 #### Theft
 
@@ -80,32 +81,25 @@ Robberies can occur anywhere.
 
 Drive-by snatching by armed thieves on motorcycles occurs regularly, particularly in São Paulo and Porto Alegre.
 
-* Keep car windows and doors locked at all times
+* Always keep car doors and windows closed and locked
 * If you feel threatened while driving, do not stop
 
-Mass robberies (*arrastões*) involve a group of criminals that swarm public places and snatch valuable items such as cash, jewellery and cell phones. This type of crime can occur day and night at:
+Mass robberies “arrastões” involve a group of criminals that swarm public places and snatch valuable items such as cash, jewellery and cell phones. This type of crime can occur day and night at:
 
 * beaches
 * traffic jams
 * shopping centres
 * restaurants
 
-Criminals sometimes attempt to rob you by offering to help you if you appear lost. If you’re lost, go into a nearby business or hotel to ask for directions.
+Criminals sometimes attempt to rob you by pretending to sell you something or by offering to help if you appear lost. If you’re lost, go into a nearby business or hotel to ask for directions.
 
 Victims have been seriously injured or killed when resisting perpetrators, who were armed or under the influence of drugs.
 
 #### Petty crime
 
-Petty crime increases around big events and festivities, such as:
+Petty crime, such as pickpocketing, purse and cell phone snatching, and car theft, is common in Brazil’s large cities.
 
-* large-scale sporting events
-* international conferences
-* Carnival
-* Christmas
-
-Foreign tourists are most affected by theft. Petty theft, including pickpocketing, purse snatching and car theft, is common in Brazil’s large cities.
-
-Thefts commonly occur at or near:
+Theft commonly occurs at or near:
 
 * beaches
 * outdoor markets
@@ -114,14 +108,22 @@ Thefts commonly occur at or near:
 * airports and bus stations
 * parking lots
 
+Petty crime increases around big events and festivities, such as:
+
+* parades and street festivals
+* large-scale sporting events
+* international conferences
+* Carnival
+* Christmas
+
 During your trip:
 
-* keep your personal belongings, including your passport and your other travel documents in a secure place
+* keep your personal belongings, including your passport and other travel documents, in a secure place
 * be aware of your surroundings, especially in busy tourist areas
-* don’t carry large sums of cash or valuables unnecessarily
-* don’t show signs of affluence or wear expensive jewellery
+* do not carry large sums of cash or valuables unnecessarily
+* do not show signs of affluence or wear expensive jewellery
 * avoid using your cell phone in public
-* don't resist an attack
+* do not resist an attack
 
 ### Spiked food and drinks
 
@@ -142,25 +144,29 @@ While you’re in Brazil:
 
 * be wary of accepting items from new acquaintances
 * never leave food or drinks unattended or in the care of strangers
-* ask for drinks coming from sealed bottles or cans instead of in plastic cups
+* order drinks in sealed bottles or cans instead of in plastic cups
 
 ### Express kidnappings
 
-The number of kidnappings in the Rio de Janeiro Metropolitan area has significantly increased since 2022.
+Express kidnappings occur in the Rio de Janeiro Metropolitan Region.
 
-Criminals may kidnap a victim for a few hours and force them to withdraw funds at an ATM for their release. Thieves may put drugs into food and drinks, temporarily incapacitating victims, who become quickly disoriented and are vulnerable to kidnapping.
+Criminals may kidnap a victim for a few hours and force them to withdraw funds from an ATM or make bank transfers using their mobile applications in exchange for their release. Thieves may put drugs into food and drinks, temporarily incapacitating victims, who become quickly disoriented and are vulnerable to kidnapping.
 
-* Only use reputable cab companies or ride-sharing apps
-* Avoid showing signs of affluence, such as using cell phones, headphones and wearing jewelry
+* Always exercise caution
+* Only use reputable taxi companies or ride-sharing applications
+* Do not accept rides from new acquaintances or strangers
+* Avoid showing signs of affluence, such as using a cell phone, headphones or wearing jewelry
+* Never leave food or drinks unattended
+* Avoid isolates areas, especially alone or at night
 
 ### Carjackings
 
-Carjacking is common in cities, especially at night in remote areas. Theft often occurs at intersections and in tunnels. Perpetrators usually carry weapons.
+Carjackings are common in cities, especially at night in remote areas. They often occur at intersections and in tunnels. Perpetrators usually carry weapons.
 
-* Keep doors and windows locked at all times
+* Keep doors and windows closed and locked at all times
 * Pay attention to your surroundings while waiting at traffic lights
 * Avoid poorly lit areas
-* Avoid stopping on the side of highways
+* Avoid stopping on the side of roads
 * Be wary of strangers offering to help you
 
 ### Women’s safety
@@ -169,15 +175,17 @@ Sexual assault has been committed, including against foreign women.
 
 Women travelling alone may be subject to some forms of harassment or verbal abuse.
 
-* Avoid walking alone at night
-* Keep your hotel doors and windows locked
+* Avoid walking alone at night, including on public beaches
+* Keep your hotel doors and windows closed and locked
 * Do not accept offers of transportation from strangers
 
-[Advice for women travellers](https://travel.gc.ca/travelling/health-safety/advice-for-women-travellers?_ga=2.165006843.518087928.1716814549-1405742948.1680118138)
+If you’re the victim of a sexual assault or other crime, you should report it immediately to the police and the nearest Government of Canada office.
+
+[Advice for women travellers](https://travel.gc.ca/travelling/health-safety/advice-for-women-travellers "Advice for women travellers")
 
 ### Home invasions
 
-Home invasions by armed gangs occur, especially in December and January, when many people take summer or Christmas holidays. Affluent neighbourhoods and foreigners’ homes have been targeted by criminals due to perceived wealth.
+Home invasions by armed gangs occur, especially in December and January, when many people leave for summer or Christmas holidays. Affluent neighbourhoods and foreigners’ homes have been targeted by criminals due to perceived wealth.
 
 Be aware that police response often takes time.
 
@@ -185,26 +193,14 @@ Be aware that police response often takes time.
 
 Organized crime associated with international drug trafficking occurs in Brazil, as it is situated along transit routes. This is most common in the north and northeastern regions.
 
-#### Drug trafficking
-
-An increasing number of travellers, particularly senior citizens, report having been used as unwitting drug couriers.
-
-Penalties for drug-related criminal activities are severe. Even unsuspecting individuals transporting packages containing narcotics can be criminally charged and face long jail sentences.
-
-Be wary of individuals, even those you know, who ask you to carry a suitcase from Brazil on their behalf.
-
-#### Useful links
-
-* [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs "Alcool, drug and travel")
-* [Warning to Canadian seniors targeted by international drug smuggling scams](https://www.cbsa-asfc.gc.ca/security-securite/senior-aines-eng.html)
-
 ### Vulnerable neighbourhoods
 
 Vulnerable neighbourhoods, commonly referred to as “favelas” or “comunidades”, are characterized by informal housing developments, crowded quarters, poorer conditions, and/or irregular construction.
 
-Gang-related violence and organized crime is prevalent in these areas.  Access and assistance from emergency services is very limited.
+Gang-related violence and organized crime is prevalent in these areas. Access and assistance from emergency services is very limited.
 
-Avoid renting accommodations in vulnerable neighbourhoods, and travelling to these areas, even on a guided tour.
+* Avoid renting accommodations in vulnerable neighbourhoods, and travelling to these areas, even on a guided tour
+* Ensure your GPS or navigation application does not direct you through a favela, as tourists have been shot after accidentally entering one
 
 #### Police operations
 
@@ -219,9 +215,9 @@ Common tourist scams include:
 
 Brazil is a drug trafficking hub. An increasing number of travellers have fallen victim to scams in which illegal drugs are hidden inside luggage that an acquaintance asked them to take with them when departing Brazil. Websites targeting senior citizens are reportedly a source of such scams.
 
-Romance scams on dating sites or through social media have occurred. If you fall victim to a scam, you may be:
+Romance scams on dating sites or through social media have occurred. Victims of these scams have been:
 
-* a drug courier
+* tricked into carrying unsuspected drug packages
 * kidnapped
 * forced to transfer and withdraw money
 
@@ -230,17 +226,13 @@ Before travelling to Brazil to visit someone you met online:
 * be wary of individuals who ask you to carry a package from Brazil on their behalf
 * beware of people who show a keen interest in you online
 
-#### Useful links
-
-* [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs "Alcool, drug and travel")
-* [Warning to Canadian seniors targeted by international drug smuggling scams](http://www.cbsa-asfc.gc.ca/security-securite/senior-aines-eng.html)
-* [Overseas fraud](https://travel.gc.ca/travelling/health-safety/overseas-fraud)
+[Warning to Canadian seniors targeted by international drug smuggling scams](http://www.cbsa-asfc.gc.ca/security-securite/senior-aines-eng.html)
 
 ### Fraud
 
-#### Credit card and ATM fraud
+#### Credit card, debit card and ATM fraud
 
-Credit card and ATM fraud occur frequently. Criminals have used proximity card readers to charge the credit cards of unsuspecting persons.
+Credit and debit card as well as ATM fraud occurs frequently. Criminals have used proximity card readers to charge the cards of unsuspecting persons. Vendors have also pretended card readers weren’t working or didn’t have signal to charge the client multiple times.
 
 When using your debit or credit card:
 
@@ -249,7 +241,7 @@ When using your debit or credit card:
 * avoid using card readers with an irregular or unusual feature
 * use ATMs located in public areas or inside a bank or business
 * check for any unauthorized transactions on your account statements
-* consider disabling the tap function of your credit card
+* consider disabling the tap function of your card
 
 #### Cybercrime
 
@@ -277,9 +269,11 @@ Demonstrations occur frequently. Even peaceful demonstrations can turn violent 
 
 ### 2SLGBTQI+ persons
 
-Brazilian law doesn't criminalize sexual acts or relationships between persons of the same sex. However, 2SLGBTQI+ persons in Brazil have been victims of violence based on their sexual orientation, gender identity, gender expression, or sex characteristics. Violent incidents include physical assault resulting in severe injury.
+Brazilian law doesn't criminalize sexual acts or relationships between persons of the same sex.
 
-Public displays of affection are more socially acceptable in larger cities, but they are not normally acceptable in most of the country.
+However, 2SLGBTQI+ persons in Brazil have been victims of violence based on their sexual orientation, gender identity, gender expression, or sex characteristics. Violent incidents include physical assault resulting in severe injury.
+
+Public displays of affection are more socially acceptable in larger cities, but they are not generally acceptable in most of the country.
 
 [Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
 
@@ -293,18 +287,18 @@ Sports events sometimes lead to rowdy behaviour and violent incidents.
 
 ### Swimming
 
-Coastal waters can be dangerous as riptides are common. Public beaches in major cities are often polluted and unfit for swimming.
+Some beaches are unsupervised. Coastal waters can be dangerous as riptides are common. Public beaches in major cities are often polluted and unfit for swimming.
 
 * Respect the areas reserved for swimming
 * Always respect warning flags advising of dangerous conditions
 * Be wary of sharks, especially in Brazil’s northeast near Recife
 * Follow the instructions of local authorities
 
-[Water safety abroad](https://travel.gc.ca/travelling/health-safety/water-safety)
-
 ### Adventure travel
 
 Outdoor activities, such as hiking, can be dangerous in remote areas as trails may become impassable due to flash floods.
+
+Mobile phone coverage may be limited in remote areas.
 
 Extreme sports, such as skydiving and bungee jumping, are dangerous and tour operators may not meet Canadian safety standards. Certain adventure activities, such as hot air ballooning, are both dangerous and illegal.
 
@@ -312,7 +306,7 @@ If you intend to participate in adventure travel activities:
 
 * share your itinerary with a friend or family member if hiking alone
 * stay on marked trails and consider hiring an experienced guide from a reputable company
-* obtain detailed information on your activity and on the environment in which you will be setting out
+* obtain detailed information on your activity and the environment in which you will be setting out
 * refrain from using equipment if you are unsure of its condition or safety
 
 #### Useful links
@@ -320,15 +314,17 @@ If you intend to participate in adventure travel activities:
 * [Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 * [Visit Brazil](https://visitbrasil.com/en/) – Tourism Committee of Brazil
 
-### Electricity outages
+### Power outages
 
-Power shortages occur regularly in major cities. Transport and business services can be disrupted. Most large hotels are equipped with a generator.
+Power outages occur regularly in major cities. Transport and business services can be disrupted. Most large hotels are equipped with a generator.
 
-### Road safety
+### Roads
+
+#### Road safety
 
 Fatal accidents are frequent.
 
-Roadside assistance is not widely available. If you need roadside assistance, call your vehicle insurance provider, or choose a commercial service available in your area.
+Roadside assistance is not widely available. If you need it, call your vehicle insurance provider, or choose a commercial service available in your area.
 
 #### Road conditions
 
@@ -341,7 +337,6 @@ Driving can also be dangerous due to:
 * unpaved roads
 * insufficient lighting
 * landslides
-* driving under the influence of alcohol
 
 #### Driving habits
 
@@ -353,10 +348,11 @@ Drinking and driving is common.
 
 At night and in large cities, drivers commonly treat red lights as stop signs to protect against hold-ups at intersections.
 
-If you choose to drive:
+If you choose to drive in Brazil:
 
-* be careful of motorbikes when changing lanes
-* if you feel threatened at any time, do not stop
+* always keep doors and windows closed and locked
+* be careful with motorcycles when changing lanes
+* if you feel threatened, do not stop
 * if you are in a traffic accident, call the police immediately
 * never confront the driver of another vehicle
 
@@ -386,21 +382,23 @@ Do not use public vans.
 
 Assaults, thefts, and scams often occur in unofficial taxis.
 
-Registered taxis are identifiable and have a taxi meter to determine the legal fare. In Brasilia, most registered taxis are white with a green sign on the doors. In Rio de Janeiro, most registered taxis are yellow with a blue stripe and have a company’s name labelled near the blue stripe at the back. Malls and the airport often have their own registered taxis.
+Registered taxis are identifiable and have a taxi meter to determine the legal fare.
+
+In Brasilia, most registered taxis are white with a green sign on the doors. In Rio de Janeiro, most registered taxis are yellow with a blue stripe and have a company’s name labelled near the blue stripe at the back. Malls and the airport often have their own registered taxis.
 
 * Only use officially marked taxis
-* Arrange your pickup with your hotel before arrival when travelling by air, or use authorized cabs at the airport
-* Avoid paying with credit cards
+* Arrange your pickup with your hotel before arrival when travelling by air, or use authorized taxis at the airport
+* Avoid paying with cards
 
-#### Ridesharing apps
+#### Ride-sharing applications
 
-Ridesharing apps are available in Brazil. If you use a ridesharing app, confirm the driver’s identity and the licence plate before getting in the car.
+Ride-sharing applications are available in Brazil. If you use one, confirm the driver’s identity and the licence plate before getting in the car.
 
 ### Piracy
 
-Pirate attacks and armed robbery against ships occur in coastal waters in the north-east. Pirates have also attacked lodges along the Amazon River.
+Pirate attacks and armed robberies against ships occur in coastal waters in the north-east. Pirates have also attacked lodges along the Amazon River. Travellers should take appropriate precautions.
 
-[Live piracy report](https://icc-ccs.org/index.php/piracy-reporting-centre) – International Maritime Bureau’s Piracy Reporting Centre
+[Live piracy map](https://icc-ccs.org/map/) – International Maritime Bureau Piracy Reporting Centre
 
 ### Air travel
 

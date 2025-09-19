@@ -16,7 +16,7 @@ Before you travel, check with your transportation company about passport require
 
 #### Regular Canadian passport
 
-Your passport must be valid for at least 6 months beyond the date you expect to leave Brazil.
+Your passport must be valid for the duration of your stay in Brazil.
 
 #### Passport for official travel
 
@@ -43,6 +43,8 @@ Tourist visa: required
 Business visa: required  
 Student visa: required
 
+If you are applying for a visa for a minor, contact the nearest Brazilian government office for guidance on how to submit this application.
+
 #### Length of stay
 
 If you intend to stay more than 90 days, you must obtain an extension from the Federal Police before your authorized stay expires. You may be required to authenticate your documents.
@@ -59,11 +61,28 @@ If you intend to stay more than 90 days, you must obtain an extension from the F
 Customs officials may ask you to show them:
 
 * a return or onward ticket
-* proof that you have sufficient funds for the duration of your stay
+* proof of sufficient funds to cover your stay
+
+### Dual citizenship
+
+If you’re both a Canadian and a Brazilian citizen, you must enter and exit Brazil using your Brazilian passport.
 
 ### Children and travel
 
-Learn about [travelling with children](http://travel.gc.ca/travelling/children).
+Brazil has strict requirements for the exit of its citizens under the age of 18, including those with dual citizenship.
+
+A travel authorization is mandatory for all Brazilian children leaving Brazil unaccompanied, with one parent, or with a third party.
+
+The parent or legal guardian authorizing the trip must present the following documents:
+
+* an original identification document of the person authorizing the trip
+* an original or photocopy of the minor’s Brazilian or foreign passport, which will be used for the trip
+* an original or certified photocopy of the minor’s Brazilian birth certificate
+
+#### Useful links
+
+* [Travel authorization for Brazilian minors](https://www.gov.br/mre/pt-br/consulado-londres/brazilian-minor-children-travel/travel-consent-for-brazilian-minor-children) – Ministry of Foreign Affairs
+* [Children and travel](https://travel.gc.ca/travelling/children)
 
 ### Yellow fever
 

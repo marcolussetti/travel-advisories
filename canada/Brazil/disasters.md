@@ -19,17 +19,15 @@ In case of a major fire:
 * monitor local media for the latest information
 * follow the instructions of local authorities, including evacuation orders
 
-[Wildfires – Get Prepared](https://www.getprepared.gc.ca/cnt/hzd/wldfrs-prp-en.aspx)
-
 ### El Niño
 
-The complex weather phenomenon called El Niño happens at irregular intervals of 2 to 7 years. El Niño generally generates droughts and heavy rainfalls for 6 to 9 months, which could cause flooding, landslides, and mudslides and could severely disrupt travel. Extreme droughts and heavy rains could limit access to food, drinking water, hygiene products, and medication. Severe weather could occur, such as:
+The complex weather phenomenon called El Niño happens at irregular intervals of 2 to 7 years. El Niño generally generates droughts and heavy rainfalls for 6 to 9 months, which could cause flooding, landslides, and mudslides, and severely disrupt travel. Extreme droughts and heavy rains could limit access to food, drinking water, hygiene products, and medication. Severe weather could occur, such as:
 
 * below-average rainfall and droughts in the north and northeast
-* excessive rains in the south and southeast of the country
+* excessive rains in the south and southeast
 * above-average temperatures in all regions
 
-Keep informed of regional weather forecasts before and during your travels, and plan accordingly. Ensure you have adequate insurance to cover the consequences of such events, including the disruption of travel plans.
+Stay informed of regional weather forecasts before and during your travels, and plan accordingly. Ensure you have adequate insurance to cover the consequences of such events, including the disruption of travel plans.
 
 Learn about [El Niño](https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/el-nino.html)
 
@@ -46,7 +44,7 @@ Flash floods can occur outside of the rainy season.
 They can hamper overland travel, especially in rural areas. Roads may become impassable and bridges damaged. Travel conditions on mountain roads and on highways leading to beaches can be dangerous. Seasonal flooding can also reduce the provision of essential services. Power outages are frequent during the rainy season.
 
 * Avoid the affected areas
-* Keep informed of regional weather forecasts
+* Stay informed of the latest regional weather forecasts
 * Follow the instructions of local authorities
 
 #### Useful links
@@ -57,8 +55,6 @@ They can hamper overland travel, especially in rural areas. Roads may become imp
 ### Landslides
 
 Landslides are becoming more common in Brazil and are the result of heavy rainfall.
-
-[Landslides — Get Prepared](https://www.getprepared.gc.ca/cnt/hzd/lndslds-prp-en.aspx)
 
 ### Heat and humidity
 
@@ -72,4 +68,4 @@ Brasilia and the country's interior experience extreme dry periods between May a
 
 Western Brazil can experience periods of prolonged drought, which can lead to water shortages.
 
-Stay informed of regional weather forecasts and plan accordingly.
+Stay informed of the latest regional weather forecasts and plan accordingly.

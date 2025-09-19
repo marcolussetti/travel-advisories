@@ -2,25 +2,6 @@
 
 ## Safety and security
 
-### Attack in Cali
-
-On August 21, 2025, a car bomb exploded in Cali in front of Base Aérea Marco Fidel Suarez. This incident caused multiple injuries and fatalities. Military personnel have been deployed to the city and have the power to stop civilians and request their identification.
-
-Further attacks are possible. You should exercise particular caution around potential targets, including:
-
-* government buildings
-* military and law enforcement establishments
-* places of worship
-* transportation infrastructure, including airports and public transportation
-* shopping malls and commercial facilities
-* entertainment centres
-
-If you are in Cali:
-
-* always carry your identification
-* follow the instructions of military personnel and local authorities
-* remain vigilant
-
 ### Dating applications
 
 ### Online dating applications
@@ -135,6 +116,12 @@ Express kidnappings are frequent and often occur in affluent areas, as well as i
 ### Terrorism
 
 There is a threat of domestic terrorism. Terrorist groups are active in some parts of the country, often using explosives during periodic attacks.
+
+Recent attacks include:
+
+* on August 21, 2025, an attack occurred in Cali in front of the Marco Fidel Suarez Air Base, and caused multiple injuries and fatalities
+* on July 4, 2025, attacks occurred in several regions, including Catatumbo, south Bolívar, Choco, Arauca, northeast Boyaca, Cauca, Nariño and Antioquia, targeting military and police installations, as well as critical infrastructure
+* on June 10, 2025, several attacks occurred using explosives and firearms in the departments of Cauca and Valle del Cauca, including Cali, resulting in several casualties
 
 Further attacks are likely. Targets could include:
 
