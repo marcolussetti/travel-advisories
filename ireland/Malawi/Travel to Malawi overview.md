@@ -6,7 +6,7 @@ High Degree of Caution
 
 ### **Travel Alert**
 
-The economic situation in Malawi is deteriorating, and social unrest is on the rise. A number of protests have turned violent in Lilongwe and Blantyre over the course of February and March 2025. These protests are localised and the sporadic violence has been targeting specific businesses. However, there is a risk that demonstrations will grow or turn more violent without warning. Tear gas may be used to disburse crowds. Visitors are advised to avoid demonstrations, large crowds or any political rallies.
+Elections were held in Malawi on 16 September. There is a likelihood of increased political events, including celebrations and demonstrations, over the coming days as the results are announced. Avoid rallies, demonstrations and public gatherings. If in an area where you believe your safety is threatened, leave immediately.
 
 ### **General Travel Advice**
 
