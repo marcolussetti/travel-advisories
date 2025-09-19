@@ -1,11 +1,11 @@
 {
     "name": "Rwanda",
-    "update_reason": "Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport ('Safety and security' page).",
+    "update_reason": "Addition of information about the UCI Road World Cycling Championships taking place in Kigali from 21-28 September ('Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Rwanda/Warnings and insurance.md",
-            "update_date": "2025-06-04T17:19:22+01:00"
+            "update_date": "2025-09-18T15:27:55+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Rwanda/Getting help.md"
         }
     ],
-    "update_date": "2025-06-04T17:19:22+01:00"
+    "update_date": "2025-09-18T15:27:55+01:00"
 }

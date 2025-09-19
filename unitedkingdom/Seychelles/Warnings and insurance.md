@@ -1,13 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   19 September 2025
 
 Updated:
-:   3 February 2025
+:   18 September 2025
 
 Latest update:
-:   This travel advice was reviewed for accuracy and reissued without any significant updates.
+:   New information about presidential and parliamentary elections on 25-27 September (‘Warnings and insurance’ page).
+
+## Presidential and parliamentary elections
+
+Seychelles will hold presidential and parliamentary elections on 25-27 September 2025. Elections in Seychelles are generally peaceful. However, political tensions can rise during the campaign period. Stay away from political rallies and related activities. While these events are usually peaceful, minor clashes between supporters have occurred in the past. Large political gatherings can also disrupt local services and traffic.
 
 ## Before you travel
 

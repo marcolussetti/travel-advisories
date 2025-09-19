@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   5 June 2025
+:   19 September 2025
 
 Updated:
-:   4 June 2025
+:   18 September 2025
 
 Latest update:
-:   Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport ('Safety and security' page).
+:   Addition of information about the UCI Road World Cycling Championships taking place in Kigali from 21-28 September ('Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/67f05c1e22a7bab256d956cf/Annex_A_FCDO__TA__100_-_Rwanda_Travel_Advice_Ed4__WEB_.jpg)
 
@@ -33,6 +33,10 @@ Risks associated with the proximity of potential fighting in Democratic Republic
 See [Democratic Republic of the Congo’s travel advice](https://www.gov.uk/foreign-travel-advice/democratic-republic-of-the-congo) for more information. Keep up to date with developments through local media.
 
 The border crossings between Rwanda and DRC at Gisenyi-Goma could close at short notice.
+
+## UCI Road World Cycling Championships
+
+Rwanda is hosting the UCI Road World Cycling Championships from 21-28 September in Kigali. Several major roads will be closed between 7am and 6pm for the race. Large crowds will gather and watch the event each day. Pedestrian crossings will be available. Alternative routes to hospitals, hotels and the airport are open, but may take longer than usual. Monitor local news and official sources of information for the latest updates, including [UCI](https://ucikigali2025.rw/).
 
 ## Before you travel
 

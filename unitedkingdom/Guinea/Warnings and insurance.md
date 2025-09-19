@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   19 September 2025
 
 Updated:
-:   18 March 2025
+:   18 September 2025
 
 Latest update:
-:   New information on what to expect if you are detained in Guinea (‘Safety and Security’ page).
+:   Updated information on the political and security situation in Guinea (See ‘Political situation’ and ‘Security situation’ on the ‘Safety and security’ page).
 
 ## Before you travel
 

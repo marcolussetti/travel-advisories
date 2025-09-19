@@ -1,11 +1,11 @@
 {
     "name": "Mexico",
-    "update_reason": "New information about the short-term closure of Mexico City Airport on Tuesday 16 September between 9am and 2pm local time ('Warnings and insuarnce' page).",
+    "update_reason": "Removal of information about the short-term closure of Mexico City Airport on Tuesday 16 September between 9am and 2pm local time ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Mexico/Warnings and insurance.md",
-            "update_date": "2025-09-12T16:24:34+01:00"
+            "update_date": "2025-09-18T10:40:00+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Mexico/Getting help.md"
         }
     ],
-    "update_date": "2025-09-12T16:24:34+01:00"
+    "update_date": "2025-09-18T10:40:00+01:00"
 }

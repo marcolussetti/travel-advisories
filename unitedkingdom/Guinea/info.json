@@ -1,11 +1,11 @@
 {
     "name": "Guinea",
-    "update_reason": "New information on what to expect if you are detained in Guinea (\u2018Safety and Security\u2019 page).",
+    "update_reason": "Updated information on the political and security situation in Guinea (See \u2018Political situation\u2019 and \u2018Security situation\u2019 on the \u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Guinea/Warnings and insurance.md",
-            "update_date": "2025-03-18T11:57:30+00:00"
+            "update_date": "2025-09-18T16:30:34+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Guinea/Getting help.md"
         }
     ],
-    "update_date": "2025-03-18T11:57:30+00:00"
+    "update_date": "2025-09-18T16:30:34+01:00"
 }

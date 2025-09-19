@@ -6,14 +6,19 @@ You should also read [FCDO’s overall travel advice](/foreign-travel-advice/ken
 
 ## Kenya-Somalia border and northern parts of the east coast
 
- Due to the risk of terrorism from groups based in Somalia, FCDO advises against all but essential travel to:
+Due to the risk of terrorism from groups based in Somalia, FCDO advises against all travel to:
 
-* within 60km of Kenya’s border with Somalia
-* Eastern Garissa County, up to 20km north-west of the A3 road, including the Boni National Reserve
-* Mandera County, excluding Mandera West sub-county
-* Lamu County, excluding Lamu Island and Manda Island
-* Tana River County north of the Tana River, up to 20km north-west of the A3 road
-* within 15km of the coast between the Tana River and the Galana (Athi-Galana-Sabaki) River
+* Mandera County
+* Tarbaj and Wajir East constituencies in Wajir County, except for Wajir Town
+* areas of Wajir County within 60km of Kenya’s border with Somalia
+* Garissa County - except for Garissa Town, the constituency of Lagdera and the areas of Balambala constituency which lie north and west of the main road which runs from Saka on the Tana River up to the intersection with the C81 Road
+* Lamu County, except for Lamu Island and Manda Island
+
+FCDO advises against all but essential travel to:
+
+* Garissa Town
+* Tana River County north of the Tana River as far as the town of Saka
+* within 15km of the east coast between the Tana River and the Galana (Athi-Galana-Sabaki) River
 
 There have been frequent attacks in the north-eastern border regions, most of which were attributed to Al Shabaab.
 

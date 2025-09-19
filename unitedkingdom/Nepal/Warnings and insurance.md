@@ -1,23 +1,19 @@
 # Warnings and insurance
 
 Still current at:
-:   17 September 2025
+:   19 September 2025
 
 Updated:
-:   16 September 2025
+:   18 September 2025
 
 Latest update:
-:   Addition of information that the 17 September has been declared a day of national mourning in Nepal, many business are likely to be closed for the day and travel disruption is possible ('Warnings and insurance' page).
+:   Updated information on potential disruption following violence in Nepal during week of 8 September ('Warnings and insurance' page).
 
 ## Protests
 
-17 September has been declared a day of national mourning in Nepal, following events last week. Many businesses are likely to be closed for the day, and travel disruption is possible. Curfews introduced in several cities following violent protests have been lifted, allowing freedom of movement. Restrictions could however be reintroduced. Avoid any large crowds or protests, check local media for updates (including any new curfews), and follow the directions of the authorities. See [‘civil disorder’ on the ‘Safety and security’ page](https://www.gov.uk/foreign-travel-advice/nepal/safety-and-security#civil-disorder).
+Most curfews introduced in several cities following violence and protests during week of 8 September 2025 have been lifted. This allows freedom of movement. Restrictions could however be reintroduced. Avoid any large crowds or protests, check local media for updates (including any new curfews) and follow the directions of the authorities. See [‘civil disorder’ on the ‘Safety and security’ page](https://www.gov.uk/foreign-travel-advice/nepal/safety-and-security#civil-disorder).
 
-Following a period of disruption Kathmandu airport re-opened on 10 September. Contact your airline, hotel and tour operator for up-to-date information and to confirm any flight arrangements or logistics to get to the airport before you attempt to travel.
-
-The Government of Nepal has said travellers whose visas were valid until 8 September and were unable to depart Nepal, will be able to exit without being charged additional fees.
-
-While the social media ban has been lifted, expect continued disruption to services, including internet and mobile data.
+Following a period of disruption to airports, flights have resumed. Contact your airline, hotel and tour operator for up-to-date information before travelling.
 
 Read the FCDO’s advice on [if you’re affected by a crisis abroad](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas).
 

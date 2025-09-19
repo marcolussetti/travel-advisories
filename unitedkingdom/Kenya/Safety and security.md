@@ -21,6 +21,7 @@ There is a heightened threat of terrorism across Kenya. Attacks could target wes
 * safari parks
 * commercial and government buildings
 * places of worship
+* diplomatic premises
 
 Be particularly alert in these places. If you go regularly to any location, try to vary timings and patterns of movement. Always travel during daylight hours if possible. Look at the security arrangements in buildings you visit, including bag searches, physical security and guards. The main terrorist threat is from extremists linked to Al Shabaab – an Al Qaida-affiliated militant group in Somalia. Al Shabaab has issued threats and carried out attacks against Kenya, in part, due to Kenyan military intervention in Somalia. See [Regional risks](/foreign-travel-advice/kenya/regional-risks).
 

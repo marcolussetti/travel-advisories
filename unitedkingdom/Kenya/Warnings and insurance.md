@@ -1,32 +1,37 @@
 # Warnings and insurance
 
 Still current at:
-:   27 August 2025
+:   19 September 2025
 
 Updated:
-:   26 August 2025
+:   18 September 2025
 
 Latest update:
-:   New information on social media and dating apps when in Kenya (See ‘LGBT+ travellers’ and ‘Social media and dating apps’ on the ‘Safety and security’ page).
+:   FCDO now advises against all travel to areas in the east of Kenya, including the border with Somalia, and now advises against all but essential travel to some neighbouring areas. See ‘Warnings and insurance’ page for details areas. Updated information on risks from terrorism('Warnings and insurance', 'Safety and security' and 'Regional risks' pages).
 
-![](https://assets.publishing.service.gov.uk/media/618e41d8d3bf7f0559e1d936/FCDO__TA__055_-_Kenya_Travel_Advice_Ed3__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/68cbf893b6d7ea468dbea672/FCDO__TA__055_-_Kenya_Travel_Advice_Ed6__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/618e41d9e90e07043f2b95c9/FCDO__TA__055_-_Kenya_Travel_Advice_Ed3.pdf)
+[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/68cbf89425860ae11bbea671/FCDO__TA__055_-_Kenya_Travel_Advice_Ed6.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
-## Areas where FCDO advises against all but essential travel
+## Areas where FCDO advises against travel
 
 ### Kenya-Somalia border and northern parts of the east coast
 
-Due to the risk of terrorism from groups based in Somalia, FCDO advises against all but essential travel to:
+Due to the risk of terrorism from groups based in Somalia, FCDO advises against all travel to:
 
-* within 60km of Kenya’s border with Somalia
-* Eastern Garissa County, up to 20km north-west of the A3 road, including the Boni National Reserve
-* Mandera County, excluding Mandera West sub-county
-* Lamu County, excluding Lamu Island and Manda Island
-* Tana River County north of the Tana River, up to 20km north-west of the A3 road
+* Mandera County
+* Tarbaj and Wajir East constituencies in Wajir County, except for Wajir Town
+* areas of Wajir County within 60km of Kenya’s border with Somalia
+* Garissa County - except for Garissa Town, the constituency of Lagdera and the areas of Balambala constituency which lie north and west of the main road which runs from Saka on the Tana River up to the intersection with the C81 Road
+* Lamu County, except for Lamu Island and Manda Island
+
+FCDO advises against all but essential travel to:
+
+* Garissa Town
+* Tana River County north of the Tana River as far as the town of Saka
 * within 15km of the east coast between the Tana River and the Galana (Athi-Galana-Sabaki) River
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/kenya/regional-risks).

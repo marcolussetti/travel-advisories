@@ -1,11 +1,11 @@
 {
     "name": "Seychelles",
-    "update_reason": "This travel advice was reviewed for accuracy and reissued without any significant updates.",
+    "update_reason": "New information about presidential and parliamentary elections on 25-27 September (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Seychelles/Warnings and insurance.md",
-            "update_date": "2025-02-03T14:39:42+00:00"
+            "update_date": "2025-09-18T16:37:22+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Seychelles/Getting help.md"
         }
     ],
-    "update_date": "2025-02-03T14:39:42+00:00"
+    "update_date": "2025-09-18T16:37:22+01:00"
 }

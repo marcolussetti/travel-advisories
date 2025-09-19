@@ -1,11 +1,11 @@
 {
     "name": "Kenya",
-    "update_reason": "New information on social media and dating apps when in Kenya (See \u2018LGBT+ travellers\u2019 and \u2018Social media and dating apps\u2019 on the \u2018Safety and security\u2019 page).",
+    "update_reason": "FCDO now advises against all travel to areas in the east of Kenya, including the border with Somalia, and now advises against all but essential travel to some neighbouring areas. See \u2018Warnings and insurance\u2019 page for details areas. Updated information on risks from terrorism('Warnings and insurance', 'Safety and security' and 'Regional risks' pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Kenya/Warnings and insurance.md",
-            "update_date": "2025-08-26T13:52:56+01:00"
+            "update_date": "2025-09-18T15:00:01+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Kenya/Getting help.md"
         }
     ],
-    "update_date": "2025-08-26T13:52:56+01:00"
+    "update_date": "2025-09-18T15:00:01+01:00"
 }

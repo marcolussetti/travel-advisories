@@ -1,17 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   26 July 2025
+:   19 September 2025
 
 Updated:
-:   25 July 2025
+:   18 September 2025
 
 Latest update:
-:   Information on upcoming elections ('Warnings and insurance' page).
+:   Updated information on upcoming elections ('Warnings and insurance' page).
 
-## Upcoming Elections
+## Elections
 
-Malawi will hold Presidential, Parliamentary and Local Elections on 16 September 2025. Whilst political demonstrations, rallies and protests can occur with little warning, and at any time, there is a heightened risk during the election period. These demonstrations can sometimes turn violent. Avoid large gatherings, monitor local media, and follow the advice of local authorities. Keep local and international travel plans under review.
+Malawi held Presidential, Parliamentary and Local Elections on 16 September 2025 with results still to be announced. There remains a heightened risk of political protests and demonstrations at this time. These demonstrations can sometimes turn violent. Avoid large gatherings, monitor local media, and follow the advice of local authorities. Keep local and international travel plans under review.
 
 ## Before you travel
 
