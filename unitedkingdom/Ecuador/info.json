@@ -1,11 +1,11 @@
 {
     "name": "Ecuador",
-    "update_reason": "Information on ongoing road blockades and transport strikes around Ecuador (Warnings and Insurance page)",
+    "update_reason": "A new state of emergency has been announced with curfew hours added to some provinces (Warnings and insurance)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Ecuador/Warnings and insurance.md",
-            "update_date": "2025-09-15T23:12:35+01:00"
+            "update_date": "2025-09-19T19:43:03+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Ecuador/Getting help.md"
         }
     ],
-    "update_date": "2025-09-15T23:12:35+01:00"
+    "update_date": "2025-09-19T19:43:03+01:00"
 }

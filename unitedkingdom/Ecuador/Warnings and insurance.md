@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   16 September 2025
+:   20 September 2025
 
 Updated:
-:   15 September 2025
+:   19 September 2025
 
 Latest update:
-:   Information on ongoing road blockades and transport strikes around Ecuador (Warnings and Insurance page)
+:   A new state of emergency has been announced with curfew hours added to some provinces (Warnings and insurance)
 
 ![](https://assets.publishing.service.gov.uk/media/65a1082ce96df50014f8452c/FCDO__TA__014_-_Ecuador_Travel_Advice_Ed5__WEB_.jpg)
 
@@ -46,6 +46,19 @@ Find out more about [why FCDO advises against travel](/foreign-travel-advice/ecu
 ## Road Blockades and Transport Strikes
 
 Due to ongoing transport strikes and road blockades around Ecuador, travellers may experience disruptions. You should check official sources regularly, follow guidance from the local authorities and monitor road conditions through the official [ECU 911 website](https://www.ecu911.gob.ec/consulta-de-vias/).
+
+## Regional state of emergency declared (road blockades and protests)
+
+A further 60-day state of emergency (SoE) was issued on 16 September, for the following provinces, due to ongoing road blockades and transport strikes. On 18 September, upon the announcement of national demonstrations by indigenous groups, curfew hours (from 10pm to 5 am) have been added to most provinces (\*). You should avoid any large gatherings.
+
+* Carchi \*
+* Imbabura \*
+* Pichincha
+* Azuay
+* Bolivar \*
+* Cotopaxi \*
+* Santo Domingo
+* Chimborazo \*
 
 ## Regional state of emergency declared (internal disturbance and armed violence)
 

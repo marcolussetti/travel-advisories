@@ -1,11 +1,11 @@
 {
     "name": "Taiwan",
-    "update_reason": "Removal of  information on Typhoon Podul ('Warnings and insurance' page).",
+    "update_reason": "New information on Typhoon Ragasa ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Taiwan/Warnings and insurance.md",
-            "update_date": "2025-08-19T15:47:00+01:00"
+            "update_date": "2025-09-19T16:36:55+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Taiwan/Getting help.md"
         }
     ],
-    "update_date": "2025-08-19T15:47:00+01:00"
+    "update_date": "2025-09-19T16:36:55+01:00"
 }

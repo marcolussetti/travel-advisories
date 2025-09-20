@@ -1,15 +1,21 @@
 # Warnings and insurance
 
 Still current at:
-:   20 August 2025
+:   20 September 2025
 
 Updated:
-:   19 August 2025
+:   19 September 2025
 
 Latest update:
-:   Removal of information on Typhoon Podul ('Warnings and insurance' page).
+:   New information on Typhoon Ragasa ('Warnings and insurance' page).
 
 The UK does not recognise Taiwan as a state and has no diplomatic relations with Taiwan, so limited support is available to British nationals. Please refer to the [British Office in Taipei](https://www.gov.uk/world/organisations/british-office-taipei) for further information.
+
+## Typhoon Ragasa
+
+Typhoon Ragasa is currently expected to pass close to Taiwan from Tuesday 23 September to early Wednesday 24 September, according to Taiwan’s Central Weather Administration (CWA). This is expected to cause heavy rainfall in the eastern and southern regions of Taiwan.
+
+Typhoons can change course and intensity. Monitor the [Central Weather Administration website](https://www.cwa.gov.tw/eng/) and local typhoon alerts. Follow the advice of local authorities. If you are due to travel, check for messages from your travel provider.
 
 ## Before you travel
 

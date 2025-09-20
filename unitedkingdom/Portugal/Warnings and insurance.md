@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   15 August 2025
+:   20 September 2025
 
 Updated:
-:   14 August 2025
+:   19 September 2025
 
 Latest update:
-:   Addition of information about wildfires ('Warnings and insurance' page).
+:   New information about the risks from strike action ('Safety and security' page).
 
 This travel advice also covers Madeira, Porto Santo and the Azores.
 

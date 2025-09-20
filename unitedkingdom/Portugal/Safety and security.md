@@ -16,6 +16,10 @@ Terrorist attacks in Portugal cannot be ruled out.
 
 Demonstrations, political gatherings and marches are not uncommon, particularly in cities. While most demonstrations are peaceful, if you are near areas where they are taking place, you should remain aware of what is happening around you and follow the advice of the police and local authorities.
 
+### Strike action
+
+Strike action that causes travel disruption, including at airports, can take place. Strikes can be announced at short notice. For updates on any disruption that may affect your travel plans, check the local news and follow the advice of your travel provider or tour operator.
+
 ## Crime
 
 ### Protecting yourself and your belongings
