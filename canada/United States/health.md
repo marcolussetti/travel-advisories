@@ -150,6 +150,26 @@ Dengue
   + Visit the Centers for Disease Control and Preventions webpage on [Dengue in the U.S. States and Territories](https://www.cdc.gov/dengue/data-research/facts-stats/?CDC_AAref_Val=https://www.cdc.gov/dengue/areaswithrisk/in-the-us.html) for the most up-to-date information on dengue outbreaks in the United States
 * Mosquitoes carrying dengue typically bite during the daytime, particularly around sunrise and sunset.
 * [Protect yourself from mosquito bites](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html). There is no vaccine or medication that protects against dengue fever.
+Chikungunya
+
+There is a risk of chikungunya in this country. The level of risk may vary by:
+
+* season
+* year
+* region
+* elevation
+
+The virus that causes chikungunya is spread through the bite of an infected mosquito. It can cause fever and pain in the joints. In some cases, the joint pain can be severe and last for months or years.
+
+Protect yourself from mosquito bites at all times.
+
+[Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)
+
+A vaccine for the prevention of chikungunya (IXCHIQ) is approved in Canada. Talk to your healthcare provider about how best to prevent chikungunya, including the benefits and risks of vaccination based on factors such as your age, itinerary and personal preferences.
+
+**Learn more:**
+
+[Chikungunya](https://www.canada.ca/en/public-health/services/diseases/chikungunya.html)
 
 ### Animal precautions
 

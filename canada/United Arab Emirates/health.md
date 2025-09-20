@@ -138,27 +138,6 @@ To protect yourself from bites:
 [Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)  
 [Personal insect repellents](https://www.canada.ca/en/health-canada/services/about-pesticides/insect-repellents.html)
 
-Chikungunya
-
-There is a risk of chikungunya in this country. The level of risk may vary by:
-
-* season
-* year
-* region
-* elevation
-
-The virus that causes chikungunya is spread through the bite of an infected mosquito. It can cause fever and pain in the joints. In some cases, the joint pain can be severe and last for months or years.
-
-Protect yourself from mosquito bites at all times.
-
-[Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)
-
-A vaccine for the prevention of chikungunya (IXCHIQ) is approved in Canada. Talk to your healthcare provider about how best to prevent chikungunya, including the benefits and risks of vaccination based on factors such as your age, itinerary and personal preferences.
-
-**Learn more:**
-
-[Chikungunya](https://www.canada.ca/en/public-health/services/diseases/chikungunya.html)
-
 ### Animal precautions
 
 Some infections can spread directly from animals to people, like rabies or bird flu (avian influenza). Others don’t spread directly from animals but can infect people who visit areas animals have contaminated with their droppings or body fluids.

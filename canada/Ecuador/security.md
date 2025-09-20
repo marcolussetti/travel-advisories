@@ -6,21 +6,30 @@
 
 On September 16, 2025, a state of exception was declared due to demonstrations in the following provinces:
 
-* Carchi
-* Imbabura
-* Pichincha
 * Azuay
 * Bolívar
+* Carchi
+* Chimborazo
 * Cotopaxi
+* Imbabura
+* Pichincha
 * Santo Domingo
 
 The state of exception will remain in effect for 60 days. During this time, public gatherings are prohibited.
+
+A curfew is also in place from 10 pm to 5 am in the following provinces:
+
+* Bolívar
+* Carchi
+* Chimborazo
+* Cotopaxi
+* Imbarbura
 
 If you’re in the affected areas:
 
 * expect an increased police and military presence
 * always carry your identification
-* follow the instructions of local authorities
+* follow the instructions of local authorities, including curfew orders
 
 ### State of emergency
 

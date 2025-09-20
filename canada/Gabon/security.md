@@ -2,6 +2,21 @@
 
 ## Safety and security
 
+### Elections
+
+Parliamentary and local elections are scheduled to take place in Gabon on September 27 and October 11, 2025.
+
+Local authorities may adjust security measures and restrict movement.
+
+Even peaceful gatherings can occasionally lead to disruptions or affect traffic and public transportation.
+
+If you are in Gabon:
+
+* avoid demonstrations and large gatherings
+* expect an increased presence of security forces
+* monitor local media to stay informed of the latest information
+* follow the instructions of local authorities
+
 ### Demonstrations
 
 Demonstrations occur. Even peaceful demonstrations can turn violent at any time. They can lead also lead to disruptions to traffic and public transportation.

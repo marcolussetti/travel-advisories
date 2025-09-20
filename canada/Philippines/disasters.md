@@ -2,6 +2,27 @@
 
 ## Natural disasters and climate
 
+### Tropical Storm Ragasa
+
+Tropical Storm Ragasa is expected to gain typhoon strength and travel through the Luzon Straight, sweeping the northern coast of Luzon and the Babuyan islands on September 21, 2025.
+
+The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
+
+* transportation
+* power distribution
+* water and food supply
+* telecommunications networks
+* emergency services
+* medical care
+
+If you are in the affected area:
+
+* exercise caution
+* monitor local news and weather reports
+* follow the instructions of local authorities
+
+[Active warnings](https://pagasa.dost.gov.ph/) – Philippine Atmospheric, Geophysical and Astronomical Services Administration
+
 ### Climate change
 
 Climate change is affecting the Philippines. Extreme and unusual weather events are becoming more frequent. Monitor local news to stay informed on the current situation.

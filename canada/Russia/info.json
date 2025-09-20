@@ -1,7 +1,7 @@
 {
     "name": "Russia",
-    "update_reason": "Natural disasters and climate - removed information on a tsunami threat",
-    "update_date": "2025-09-18T20:50:00",
+    "update_reason": "Editorial change",
+    "update_date": "2025-09-19T18:06:00",
     "sections": {
         "risk": "canada/Russia/risk.md",
         "security": "canada/Russia/security.md",
