@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   30 April 2025
+:   21 September 2025
 
 Updated:
-:   29 April 2025
+:   20 September 2025
 
 Latest update:
-:   Updated information for British nationals in Somalia and about recent terrorist attacks in Mogadishu ('Warnings and insurance' page and see ‘Terrorism in Somalia’ on the ‘Safety and security’ page).
+:   Updated information for British nationals in Somalia about the high threat of kidnap across Somalia, including in Gedo Region ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/61a63d6be90e07044b1ef4b5/s.jpg)
 
@@ -42,6 +42,10 @@ If you’re in the UK and are concerned about a British national in Somalia, inc
 ## People of Somali descent, including Somaliland descent
 
 The government of Somalia and the authorities in Somaliland will consider any British national of Somali (including Somaliland) descent to be a dual national. FCDO can offer only limited consular support in these cases.
+
+## Risk of Kidnap
+
+There is a high risk of kidnapping across Somalia, including in and around Gedo Region. Foreign nationals, including British nationals are seen as legitimate targets
 
 ## Before you travel
 
