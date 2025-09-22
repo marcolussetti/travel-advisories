@@ -1,7 +1,7 @@
 {
     "name": "Tanzania",
-    "update_reason": "Editorial change",
-    "update_date": "2025-09-18T12:27:00",
+    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
+    "update_date": "2025-09-21T09:34:00",
     "sections": {
         "risk": "canada/Tanzania/risk.md",
         "security": "canada/Tanzania/security.md",

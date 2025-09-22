@@ -6,6 +6,12 @@
 
 [Exercise a high degree of caution](#levels "Risk Levels") in the Philippines due to crime, terrorism and kidnapping.
 
+### Babuyan Islands - AVOID ALL TRAVEL
+
+[Avoid all travel](#levels "Risk Levels") to the Babuyan Islands, due to Typhoon Ragasa.
+
+[Natural disasters and climate](#disasters)
+
 ### Western Mindanao - Avoid all travel
 
 [Avoid all travel](#levels "Risk Levels") to the following provinces of Mindanao island, due to the serious threat of terrorism, kidnapping, high levels of crime, and violent clashes between the security forces and rebel groups:

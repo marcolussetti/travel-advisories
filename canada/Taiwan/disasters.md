@@ -2,9 +2,9 @@
 
 ## Natural disasters and climate
 
-### Tropical Storm Ragasa
+### Typhoon Ragasa
 
-Tropical Storm Ragasa is expected to gain typhoon strength and sweep across the southern coast of Taiwan, in the Pingtung County, on September 22, 2025.
+Typhoon Ragasa is expected to gain super typhoon strength and affect the southern coast of Taiwan, in the Pingtung County, on or around September 22, 2025.
 
 The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
 

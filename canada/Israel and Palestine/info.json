@@ -1,0 +1,13 @@
+{
+    "name": "Israel and Palestine",
+    "update_reason": "The title of the page was updated with editorial changes",
+    "update_date": "2025-09-21T17:19:00",
+    "sections": {
+        "risk": "canada/Israel and Palestine/risk.md",
+        "security": "canada/Israel and Palestine/security.md",
+        "entryexit": "canada/Israel and Palestine/entryexit.md",
+        "health": "canada/Israel and Palestine/health.md",
+        "laws": "canada/Israel and Palestine/laws.md",
+        "disasters": "canada/Israel and Palestine/disasters.md"
+    }
+}

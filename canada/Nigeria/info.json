@@ -1,7 +1,7 @@
 {
     "name": "Nigeria",
-    "update_reason": "Editorial change",
-    "update_date": "2025-09-19T18:06:00",
+    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
+    "update_date": "2025-09-21T09:34:00",
     "sections": {
         "risk": "canada/Nigeria/risk.md",
         "security": "canada/Nigeria/security.md",
