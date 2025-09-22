@@ -1,11 +1,11 @@
 {
     "name": "Israel",
-    "update_reason": "FCDO no longer advises against all travel or all but essential travel to some areas of Israel and the West Bank but continues to advise against all travel or all but essential travel to other areas of Israel and the OPTs ('Warnings and insurance' and 'Entry requirements' pages).",
+    "update_reason": "Edits to change references of the 'Occupied Palestinian Territories' to 'Palestine'.",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Israel/Warnings and insurance.md",
-            "update_date": "2025-07-03T18:53:33+01:00"
+            "update_date": "2025-09-21T14:52:20+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Israel/Getting help.md"
         }
     ],
-    "update_date": "2025-07-03T18:53:33+01:00"
+    "update_date": "2025-09-21T14:52:20+01:00"
 }

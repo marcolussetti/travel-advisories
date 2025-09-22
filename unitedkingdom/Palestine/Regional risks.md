@@ -1,6 +1,6 @@
 # Regional risks
 
-This travel advice covers Israel and Palestine.
+This travel advice covers Israel and the Palestine.
 
 This section has safety advice for regions of Israel and Palestine. It only covers regions where FCDO has specific advice.
 
@@ -122,10 +122,10 @@ Avoid using buses in the West Bank and consider the difficulties and risks of tr
 
 [Previous
 :
-Safety and security](/foreign-travel-advice/israel/safety-and-security)
+Safety and security](/foreign-travel-advice/palestine/safety-and-security)
 
 [Next
 :
-Health](/foreign-travel-advice/israel/health)
+Health](/foreign-travel-advice/palestine/health)
 
-[View a printable version of the whole guide](/foreign-travel-advice/israel/print)
+[View a printable version of the whole guide](/foreign-travel-advice/palestine/print)

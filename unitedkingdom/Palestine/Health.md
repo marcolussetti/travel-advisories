@@ -47,10 +47,10 @@ Read [FCDO guidance on travel and mental health](https://www.gov.uk/guidance/for
 
 [Previous
 :
-Regional risks](/foreign-travel-advice/israel/regional-risks)
+Regional risks](/foreign-travel-advice/palestine/regional-risks)
 
 [Next
 :
-Getting help](/foreign-travel-advice/israel/getting-help)
+Getting help](/foreign-travel-advice/palestine/getting-help)
 
-[View a printable version of the whole guide](/foreign-travel-advice/israel/print)
+[View a printable version of the whole guide](/foreign-travel-advice/palestine/print)

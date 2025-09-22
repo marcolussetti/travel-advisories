@@ -1,0 +1,37 @@
+{
+    "name": "Palestine",
+    "update_reason": "This page has been updated from 'Occupied Palestinian Territories' to 'Palestine'.",
+    "pages": [
+        {
+            "title": "Warnings and insurance",
+            "file": "unitedkingdom/Palestine/Warnings and insurance.md",
+            "update_date": "2025-09-21T14:52:17+01:00"
+        },
+        {
+            "title": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/palestine/entry-requirements",
+            "file": "unitedkingdom/Palestine/Entry requirements.md"
+        },
+        {
+            "title": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/palestine/safety-and-security",
+            "file": "unitedkingdom/Palestine/Safety and security.md"
+        },
+        {
+            "title": "Regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/palestine/regional-risks",
+            "file": "unitedkingdom/Palestine/Regional risks.md"
+        },
+        {
+            "title": "Health",
+            "url": "https://www.gov.uk/foreign-travel-advice/palestine/health",
+            "file": "unitedkingdom/Palestine/Health.md"
+        },
+        {
+            "title": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/palestine/getting-help",
+            "file": "unitedkingdom/Palestine/Getting help.md"
+        }
+    ],
+    "update_date": "2025-09-21T14:52:17+01:00"
+}

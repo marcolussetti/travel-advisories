@@ -7,12 +7,12 @@ Updated:
 :   21 September 2025
 
 Latest update:
-:   Edits to change references of the 'Occupied Palestinian Territories' to 'Palestine'.
+:   This page has been updated from 'Occupied Palestinian Territories' to 'Palestine'.
 
-![](https://assets.publishing.service.gov.uk/media/68cfe6a68c739d679fb1db8f/FCDO__TA__022_-_Israel___Palestine_Travel_Advice_Ed25__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/68cfdd87e65dc716bfb1db8f/FCDO_TA_022_-_Israel__Palestine_Travel_Advice_Ed25_WEB.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/68cfe6a6c908572e81248ab7/FCDO__TA__022_-_Israel___Palestine_Travel_Advice_Ed25.pdf)
+[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/68cfdd29275fc9339a248ab7/Map_of_Israel_and_Palestine.pdf)
 
 This travel advice covers Israel and Palestine.
 
@@ -59,7 +59,7 @@ Read the FCDO’s advice on [if you’re affected by a crisis abroad](https://
 
 You should check [Home Front Command](https://www.oref.org.il/en) for the latest guidance (available in Israel only) and follow instructions from the Israeli government. Restrictions may be put in place at short notice.
 
-If you are in Palestine and do not have access to Home Front Command continue to follow local instructions including from Palestinian Civil Defence (Call 102, or see [www.pcd.ps](https://pcd.ps/) or [الدفاع المدني الفلسطيني Facebook](https://www.facebook.com/pcd.ps102?mibextid=LQQJ4d)).
+If you are in the Palestine and do not have access to Home Front Command continue to follow local instructions including from Palestinian Civil Defence (Call 102, or see [www.pcd.ps](https://pcd.ps/) or [الدفاع المدني الفلسطيني Facebook](https://www.facebook.com/pcd.ps102?mibextid=LQQJ4d)).
 
 Recent hostilities led to falling fragments or debris. If you encounter any projectile debris or fragments you should move away from them immediately and contact local authorities.
 
@@ -121,6 +121,6 @@ Follow FCDO:
 
 [Next
 :
-Entry requirements](/foreign-travel-advice/israel/entry-requirements)
+Entry requirements](/foreign-travel-advice/palestine/entry-requirements)
 
-[View a printable version of the whole guide](/foreign-travel-advice/israel/print)
+[View a printable version of the whole guide](/foreign-travel-advice/palestine/print)

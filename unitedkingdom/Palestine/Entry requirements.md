@@ -156,10 +156,10 @@ The Israeli Tax Authority provides information on [taking money into or out of I
 
 [Previous
 :
-Warnings and insurance](/foreign-travel-advice/israel)
+Warnings and insurance](/foreign-travel-advice/palestine)
 
 [Next
 :
-Safety and security](/foreign-travel-advice/israel/safety-and-security)
+Safety and security](/foreign-travel-advice/palestine/safety-and-security)
 
-[View a printable version of the whole guide](/foreign-travel-advice/israel/print)
+[View a printable version of the whole guide](/foreign-travel-advice/palestine/print)

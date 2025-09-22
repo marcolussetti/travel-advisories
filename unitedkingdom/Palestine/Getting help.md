@@ -41,11 +41,11 @@ FCDO has guidance on staying safe and what to do if you need help or support abr
 
 ### Help abroad
 
-See [how to get help from the UK government abroad](https://www.contact.service.csd.fcdo.gov.uk/posts/israel/british-embassy-tel-aviv) including in an emergency.
+See [how to get help from the UK government abroad](https://www.contact.service.csd.fcdo.gov.uk/posts/the-occupied-palestinian-territories/british-consulate-general-jerusalem) including in an emergency.
 
 ### Help in the UK
 
-You can call FCDO in London if you need urgent help because something has happened to a friend or relative abroad.
+You can call FCDO in London if you need urgent help because something has happened to a friend or relative abroad.
 
 Telephone: 020 7008 5000 (24 hours)
 
@@ -53,7 +53,7 @@ Telephone: 020 7008 5000 (24 hours)
 
 ## Get travel advice updates
 
-Sign up to [get email notifications](https://www.gov.uk/foreign-travel-advice/israel/email-signup) when this travel advice is updated.
+Sign up to [get email notifications](https://www.gov.uk/foreign-travel-advice/the-occupied-palestinian-territories/email-signup) when this travel advice is updated.
 
 Follow FCDO:
 
@@ -66,6 +66,6 @@ The Overseas Business Risk service offers information and advice for [British 
 
 [Previous
 :
-Health](/foreign-travel-advice/israel/health)
+Health](/foreign-travel-advice/palestine/health)
 
-[View a printable version of the whole guide](/foreign-travel-advice/israel/print)
+[View a printable version of the whole guide](/foreign-travel-advice/palestine/print)

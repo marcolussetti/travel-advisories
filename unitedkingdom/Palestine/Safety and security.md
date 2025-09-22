@@ -2,7 +2,7 @@
 
 This travel advice covers Israel and Palestine.
 
-This guide also has safety advice for [regions of Israel and the OPTs](/foreign-travel-advice/israel/regional-risks).
+This guide also has safety advice for [regions of Israel and Palestine](/foreign-travel-advice/the-occupied-palestinian-territories/regional-risks).
 
 ## Conflict between Lebanese Hizballah and Israel
 
@@ -30,7 +30,7 @@ UK Counter Terrorism Policing has information and advice on [staying safe abroad
 
 ### Terrorism in Israel and Palestine
 
-Terrorists are very likely to try to carry out attacks in Israel and the OPTs.
+Terrorists are very likely to try to carry out attacks in Israel and Palestine
 
 There was a large-scale terrorist attack by Hamas into southern Israel on 7 October 2023 where over 1,200 people were killed. Hamas continue to launch rockets into Israel and the Israeli Defence Forces are conducting significant military activity in Gaza.
 
@@ -69,7 +69,7 @@ In 2023:
 * one person was killed and 3 people injured in a shooting attack in Tel Aviv
 * 7 people were killed and 3 injured during a shooting attack in Neve Yaakov, East Jerusalem
 
-## Terrorist kidnap
+### Terrorist kidnap
 
 Terrorist kidnap is a risk in Gaza and along the border with Egypt. There is a large-scale conflict happening in areas of southern Israel close to the border with Gaza and Hamas has taken hundreds of hostages, including British nationals, across the border and into Gaza.
 
@@ -79,13 +79,13 @@ The long-standing policy of the British government is to not make substantive co
 
 ## Political situation
 
-There is currently a large-scale conflict happening in areas of southern Israel close to the border with Gaza. See [Warnings and insurance](/foreign-travel-advice/israel) for more information, including information for British nationals who are in Israel and Palestine.
+There is currently a large-scale conflict happening in areas of southern Israel close to the border with Gaza. See [Warnings and insurance](/foreign-travel-advice/the-occupied-palestinian-territories) for more information, including information for British nationals who are in Israel and Palestine.
 
 Keep up to date with local travel advice on local news outlets and international outlets like the [Access Coordination Unit](http://www.accesscoordination.org/).
 
-Rocket fire can affect most areas of Israel and the interception of missiles over Palestine may result in falling fragments or debris. Israeli air strikes also continue into Gaza. Be cautious and make sure you know the safety actions that you should take if an Israeli warning siren sounds. Follow [advice from local authorities](https://www.idf.il/en/minisites/regional-commands/home-front-command/how-to-act-during-an-alert/) and stay informed of the security situation through the media and this travel advice. No warning sirens will sound inside Gaza, or in the West Bank outside of Israeli settlements. See [Regional risks](/foreign-travel-advice/israel/regional-risks#gaza).
+Rocket fire can affect most areas of Israel and the interception of missiles over Palestine may result in falling fragments or debris. Israeli air strikes also continue into Gaza. Be cautious and make sure you know the safety actions that you should take if an Israeli warning siren sounds. Follow [advice from local authorities](https://www.idf.il/en/minisites/regional-commands/home-front-command/how-to-act-during-an-alert/) and stay informed of the security situation through the media and this travel advice. No warning sirens will sound inside Gaza, or in the West Bank outside of Israeli settlements. See [Regional risks](https://www.gov.uk/foreign-travel-advice/israel/regional-risks#gaza)
 
-### Violent incidents
+## Violent incidents
 
 In Israel and the West Bank, there is a risk of violent incidents, including:
 
@@ -113,7 +113,7 @@ Incidents have occurred:
 * along Route 60 (especially junctions near Nablus), Route 443 and other West Bank arterial roads used by both Palestinians and Israelis
 * at Israeli checkpoints
 
-Incidents have involved protestors (Israelis and Palestinians), Israeli security forces and civilians (including Israeli settlers). Tourists or bystanders could be caught up in incidents.
+Incidents have involved protestors (Israelis and Palestinians), Israeli security forces and civilians, including Israeli settlers. Tourists or bystanders could be caught up in incidents.
 
 ### Demonstrations and armed clashes
 
@@ -121,7 +121,7 @@ Large political demonstrations can:
 
 * happen across Israel and Palestine
 * happen at short notice and often turn violent
-* affect entry and exit to Ben Gurion Airport in Tel Aviv – check before you travel
+* affect entry and exit to Ben Gurion Airport in Tel Aviv-check before you travel.
 
 You should:
 
@@ -162,7 +162,7 @@ Keep your personal belongings in a safe place. Theft of passports, credit cards,
 
 ### Personal ID
 
-Always carry ID, for example, a copy of the personal details and entry stamp pages of your passport).
+Always carry ID, for example, a copy of the personal details and entry stamp pages of your passport.
 
 ### Dress code
 
@@ -228,13 +228,13 @@ If you’re caught breaking local laws on import and export of wild animals, exp
 
 ### Road travel
 
-If you are planning to drive in Israel and Palestine, see [information on driving abroad](https://www.gov.uk/driving-abroad).
+If you are planning to drive in Israel and Palestine, see [information on driving abroad](https://www.gov.uk/driving-abroad).
 
 You’ll need to have both the [1968 version of the international driving permit (IDP)](https://www.gov.uk/driving-abroad/international-driving-permit) and your UK driving licence with you in the car. You cannot buy an IDP outside the UK, so get one before you travel.
 
 You must [carry a green card](https://www.gov.uk/vehicle-insurance/driving-abroad) to prove you have the minimum insurance cover.
 
-There are frequent road accidents due to:
+There are frequent road accidents, due to:
 
 * erratic driving
 * unreliable vehicle maintenance
@@ -274,10 +274,10 @@ Earthquakes are a risk in Israel and Palestine. The US Federal Emergency Managem
 
 [Previous
 :
-Entry requirements](/foreign-travel-advice/israel/entry-requirements)
+Entry requirements](/foreign-travel-advice/palestine/entry-requirements)
 
 [Next
 :
-Regional risks](/foreign-travel-advice/israel/regional-risks)
+Regional risks](/foreign-travel-advice/palestine/regional-risks)
 
-[View a printable version of the whole guide](/foreign-travel-advice/israel/print)
+[View a printable version of the whole guide](/foreign-travel-advice/palestine/print)
