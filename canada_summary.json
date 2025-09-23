@@ -212,13 +212,13 @@
     {
         "destination": "Burundi",
         "risk_level": "Avoid non-essential travel (with regional advisories)",
-        "last_updated": "2025-09-19T18:06:03",
+        "last_updated": "2025-09-22T13:29:00",
         "details_url": "https://travel.gc.ca/destinations/burundi"
     },
     {
         "destination": "Cabo Verde",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-09-19T18:06:03",
+        "last_updated": "2025-09-22T10:36:37",
         "details_url": "https://travel.gc.ca/destinations/cabo-verde"
     },
     {
@@ -266,7 +266,7 @@
     {
         "destination": "China",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-09-19T18:06:03",
+        "last_updated": "2025-09-22T16:13:53",
         "details_url": "https://travel.gc.ca/destinations/china"
     },
     {
@@ -332,7 +332,7 @@
     {
         "destination": "Democratic Republic of Congo (Kinshasa)",
         "risk_level": "Avoid non-essential travel (with regional advisories)",
-        "last_updated": "2025-09-21T09:34:43",
+        "last_updated": "2025-09-22T13:30:33",
         "details_url": "https://travel.gc.ca/destinations/congo-kinshasa"
     },
     {
@@ -404,7 +404,7 @@
     {
         "destination": "Ethiopia",
         "risk_level": "Avoid non-essential travel (with regional advisories)",
-        "last_updated": "2025-09-21T09:34:43",
+        "last_updated": "2025-09-22T13:32:36",
         "details_url": "https://travel.gc.ca/destinations/ethiopia"
     },
     {
@@ -547,8 +547,8 @@
     },
     {
         "destination": "Hong Kong",
-        "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-09-19T18:06:03",
+        "risk_level": "Avoid non-essential travel",
+        "last_updated": "2025-09-22T09:09:48",
         "details_url": "https://travel.gc.ca/destinations/hong-kong"
     },
     {
@@ -614,7 +614,7 @@
     {
         "destination": "Japan",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2025-09-19T18:06:03",
+        "last_updated": "2025-09-22T11:02:50",
         "details_url": "https://travel.gc.ca/destinations/japan"
     },
     {
@@ -632,7 +632,7 @@
     {
         "destination": "Kenya",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-09-21T09:34:43",
+        "last_updated": "2025-09-22T14:53:12",
         "details_url": "https://travel.gc.ca/destinations/kenya"
     },
     {
@@ -715,8 +715,8 @@
     },
     {
         "destination": "Macao",
-        "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-09-19T18:06:03",
+        "risk_level": "Avoid non-essential travel",
+        "last_updated": "2025-09-22T09:14:19",
         "details_url": "https://travel.gc.ca/destinations/macao"
     },
     {
@@ -728,7 +728,7 @@
     {
         "destination": "Malawi",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-09-19T18:06:03",
+        "last_updated": "2025-09-22T13:27:53",
         "details_url": "https://travel.gc.ca/destinations/malawi"
     },
     {
@@ -836,7 +836,7 @@
     {
         "destination": "Mozambique",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-09-21T09:34:43",
+        "last_updated": "2025-09-22T13:26:34",
         "details_url": "https://travel.gc.ca/destinations/mozambique"
     },
     {
@@ -950,7 +950,7 @@
     {
         "destination": "Panama",
         "risk_level": "Take normal security precautions (with regional advisories)",
-        "last_updated": "2025-09-19T18:06:03",
+        "last_updated": "2025-09-22T15:31:16",
         "details_url": "https://travel.gc.ca/destinations/panama"
     },
     {
@@ -974,7 +974,7 @@
     {
         "destination": "Philippines",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-09-21T12:07:38",
+        "last_updated": "2025-09-22T12:48:21",
         "details_url": "https://travel.gc.ca/destinations/philippines"
     },
     {
@@ -1004,7 +1004,7 @@
     {
         "destination": "Republic of Congo (Brazzaville)",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-09-19T18:06:03",
+        "last_updated": "2025-09-22T13:29:23",
         "details_url": "https://travel.gc.ca/destinations/congo-brazzaville"
     },
     {
@@ -1022,7 +1022,7 @@
     {
         "destination": "Rwanda",
         "risk_level": "Take normal security precautions (with regional advisories)",
-        "last_updated": "2025-09-19T18:06:03",
+        "last_updated": "2025-09-22T13:30:25",
         "details_url": "https://travel.gc.ca/destinations/rwanda"
     },
     {
@@ -1202,7 +1202,7 @@
     {
         "destination": "Switzerland",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2025-09-19T18:06:03",
+        "last_updated": "2025-09-22T14:59:50",
         "details_url": "https://travel.gc.ca/destinations/switzerland"
     },
     {
@@ -1226,7 +1226,7 @@
     {
         "destination": "Tanzania",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-09-21T09:34:43",
+        "last_updated": "2025-09-22T13:31:24",
         "details_url": "https://travel.gc.ca/destinations/tanzania"
     },
     {
@@ -1298,7 +1298,7 @@
     {
         "destination": "Uganda",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-09-21T09:34:43",
+        "last_updated": "2025-09-22T13:32:22",
         "details_url": "https://travel.gc.ca/destinations/uganda"
     },
     {
@@ -1370,7 +1370,7 @@
     {
         "destination": "Zambia",
         "risk_level": "Take normal security precautions (with regional advisories)",
-        "last_updated": "2025-09-19T18:06:03",
+        "last_updated": "2025-09-22T13:33:33",
         "details_url": "https://travel.gc.ca/destinations/zambia"
     },
     {
