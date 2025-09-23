@@ -4,6 +4,14 @@
 
 High Degree of Caution
 
+### **Travel Alert**
+
+Super Typhoon Ragasa is currently approaching Hong Kong, and is expected to bring widespread disruption. Very strong winds, heavy rain, and increased danger of flash flooding and landslides are expected.
+
+Irish citizens are urged to exercise extreme caution and to follow local authority’s instructions. Citizens can keep up to date by following the information provided here: [Hong Kong Observatory](https://www.hko.gov.hk/en/103397/Tropical-cyclone-track-information---GIS-version); and [Macao Observatory](https://www.smg.gov.mo/en) as well as monitoring local news sources.
+
+Public offices, including the Consulate General of Ireland, will close until further notice. In case of a consular emergency, the Consulate can be contacted at +852 2535 0700.
+
 ### **General Travel Advice**
 
 Irish citizens do not require a visa to enter Hong Kong or Macao for the purposes of tourism.

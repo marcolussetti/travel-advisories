@@ -4,6 +4,14 @@
 
 High Degree of Caution
 
+### **Latest Travel Alert**
+
+A number of weather alerts are in effect in Southern China, including Guangdong Province, as Super Typhoon Ragasa is due to make landfall on 23 September 2025. Very strong winds, heavy rain, and increased danger of flash flooding and landslides are expected.
+
+Irish citizens are urged to exercise extreme caution and to follow local authority’s instructions. Citizens can keep up to date by following the information provided here: <https://worldweather.wmo.int/en/home.html>
+
+In case of a consular emergency, the Embassy can be contacted at +86 13801056774
+
 ### **General Travel Advice**
 
 Any Irish citizen planning to travel to China should carefully read all relevant notices on their local Chinese Embassy or Consulate website.

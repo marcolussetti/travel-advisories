@@ -15,10 +15,7 @@ Monday to Friday 09:30-12:30
 Cairo   
 Egypt
 
-[Tel: +202 27287100](tel:+20227287100)
-
-Consular Line: [+202 27287115](tel:+202 27287115)  
-Fax: +202 27362863
+[Tel: +202 272 87100](tel:+202272 87100)
 
 ### Honorary Consul of Ireland, Lebanon
 
