@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   23 September 2025
 
 Updated:
-:   28 October 2024
+:   22 September 2025
 
 Latest update:
-:   This travel advice was reviewed for accuracy and there are no significant updates.
+:   New information on Typhoon Ragasa ('Warnings and insurance' page).
 
 This travel advice covers the Macao Special Administrative Region (SAR). For mainland China, see [travel advice for China](/foreign-travel-advice/china).
 
@@ -18,6 +18,12 @@ Macao does not recognise dual nationality. If you have both British and Chinese 
 If you have formally renounced Chinese citizenship, carry evidence that you have done so.
 
 See guidance on [nationality in China](https://www.gov.uk/government/publications/nationality-in-china).
+
+## Typhoon Ragasa
+
+Typhoon Ragasa is currently expected to impact Macao from Tuesday 23 September to Wednesday 24 September. There will likely be heavy rainfall causing disruption to services, and possible flooding.
+
+Typhoons can change course and intensity. Monitor the [China Metrological Administration site](https://www.cma.gov.cn/en/forecast/news/202509/t20250922_7348924.html) and local typhoon alerts. Follow the advice of local authorities. If you are due to travel, check for messages from your travel provider.
 
 ## Before you travel
 

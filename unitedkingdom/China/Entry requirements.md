@@ -80,7 +80,7 @@ You can only work in China if you have a work visa (Z visa). Tourist and busines
 * an exit ban, which stops you from leaving China
 * an exclusion order, which stops you from returning
 
-Before you leave the UK, contact the [Chinese Embassy in the UK](http://www.chinese-embassy.org.uk/eng/) to check Z visa requirements. When submitting your application, and when you receive your work permit, check the details are correct, including the location you’ll be working in. If the details are incorrect – even if your employer or others submitted the application on your behalf – the authorities can detain you, fine you or deport you.
+Before you leave the UK, contact the [Chinese Embassy in the UK](http://gb.china-embassy.gov.cn/eng/) to check Z visa requirements. When submitting your application, and when you receive your work permit, check the details are correct, including the location you’ll be working in. If the details are incorrect – even if your employer or others submitted the application on your behalf – the authorities can detain you, fine you or deport you.
 
 If you are going to change employer once you’re in China, or change location in China with an existing employer, check with the Chinese authorities whether you need a new visa and work permit before doing so.
 

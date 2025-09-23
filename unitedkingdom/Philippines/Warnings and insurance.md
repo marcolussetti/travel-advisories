@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   21 September 2025
+:   23 September 2025
 
 Updated:
-:   20 September 2025
+:   22 September 2025
 
 Latest update:
-:   "Addition of information about planned demonstrations in Metro Manila Sunday 21 September (‘Warnings and insurance’ pages)"
+:   New information on Typhoon Ragasa and updated information about demonstrations ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/616406778fa8f52980d9301c/FCDO__TA__033_-_Philippines_Travel_Advice_Ed2__WEB_.jpg)
 
@@ -32,7 +32,15 @@ This advice is due to terrorist activity and clashes between the military and in
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/philippines/safety-and-security#terrorism).
 
-Planned demonstrations are expected in Metro Manila on Sunday 21 September 2025. Locations may include Rizal Park (Luneta) in Manila and the People Power Monument, EDSA in Quezon City.
+## Typhoon Ragasa
+
+Typhoon Ragasa is currently expected to bring heavy rainfall and devastating wind impacts to the Batanes or Babuyan Islands in the northern Philippines from Monday 22 to Tuesday 23 September.
+
+Typhoons can change course and intensity. Follow the advice of local authorities, and monitor the progress of storms on the [Philippines state weather agency](http://www.pagasa.dost.gov.ph/) and the [Philippines Disaster Risk Reduction and Management Council](http://www.ndrrmc.gov.ph/index.php). You can find updates on [typhoon2000.ph](http://www.typhoon2000.ph/), or follow [@Typhoon2k](https://twitter.com/Typhoon2k) on X. If you are due to travel, check for messages from your travel provider.
+
+## Demonstrations
+
+Demonstrations are expected over the coming weeks in Metro Manila and elsewhere in the Philippines.
 
 You should avoid all demonstrations and large gatherings and follow the advice of local authorities. Demonstrations may lead to travel disruption. You should allow extra time for journeys and monitor local media for updates.
 

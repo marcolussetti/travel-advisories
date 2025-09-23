@@ -1,17 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   12 August 2025
+:   23 September 2025
 
 Updated:
-:   11 August 2025
+:   22 September 2025
 
 Latest update:
-:   Information added about the upcoming national and regional elections and updated information on what health risk you may face in Guyana ('Warnings and insurance' and 'Health' pages).
-
-## Elections
-
-Guyana will hold national and regional elections on 1 September 2025. Political rallies are common. These rallies can draw large crowds and cause significant transport disruption. Any event with large crowds, including large celebratory gatherings, has the potential to turn violent and can also be used by criminals as cover for robbery and theft.
+:   Removal of information about national and regional elections which took place 1 September.
 
 ## Before you travel
 

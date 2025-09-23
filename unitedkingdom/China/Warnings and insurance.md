@@ -1,15 +1,21 @@
 # Warnings and insurance
 
 Still current at:
-:   2 August 2025
+:   23 September 2025
 
 Updated:
-:   1 August 2025
+:   22 September 2025
 
 Latest update:
-:   Removal of information on tsunami alert specific to the earthquake in the Kamchatka Peninsular Region (‘Warnings and insurance’ page).
+:   New information on Typhoon Ragasa ('Warnings and insurance' page).
 
 This travel advice covers mainland China. See travel advice for the Special Administrative Regions, [Hong Kong](https://www.gov.uk/foreign-travel-advice/hong-kong) and [Macao](https://www.gov.uk/foreign-travel-advice/macao).
+
+## Typhoon Ragasa
+
+Typhoon Ragasa is expected to impact the following regions of southern China from Tuesday 23 September to Thursday 26 September: Guangxi, Guangzhou, Fujian and Hainan. There will likely be heavy rainfall causing disruption to services and possible flooding and landslides.
+
+Typhoons can change course and intensity. Monitor the [China Metrological Administration site](https://www.cma.gov.cn/en/forecast/news/202509/t20250922_7348924.html) and local typhoon alerts. Follow the advice of local authorities. If you are due to travel, check for messages from your travel provider.
 
 ## Before you travel
 

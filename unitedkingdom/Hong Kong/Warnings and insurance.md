@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   7 June 2025
+:   23 September 2025
 
 Updated:
-:   6 June 2025
+:   22 September 2025
 
 Latest update:
-:   Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport ('Safety and security' page).
+:   New information on Typhoon Ragasa ('Warnings and insurance' page).
 
 This travel advice covers the Hong Kong Special Administrative Region (SAR). For mainland China, see [travel advice for China](https://www.gov.uk/foreign-travel-advice/china) and for Macao SAR, see [Macao travel advice](https://www.gov.uk/foreign-travel-advice/macao).
 
@@ -18,6 +18,12 @@ Hong Kong does not recognise dual nationality. If you have both British and Chin
 If you have formally renounced Chinese citizenship, carry evidence that you have done so.
 
 See guidance on [nationality in China](https://www.gov.uk/government/publications/nationality-in-china).
+
+## Typhoon Ragasa
+
+Typhoon Ragasa is currently expected to impact Hong Kong from Tuesday 23 September to Wednesday 24 September. There will likely be heavy rainfall causing disruption to services, strong winds and possible flooding.
+
+Typhoons can change course and intensity. Monitor local news and check the [World Meteorological Organization](https://severeweather.wmo.int/tc/wnp/index.html) and [Hong Kong Observatory](https://www.hko.gov.hk/en/index.html). Follow the advice of local authorities. If you are due to travel, check for messages from your travel provider.
 
 ## Before you travel
 
