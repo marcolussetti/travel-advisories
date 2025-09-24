@@ -50,44 +50,19 @@ The state of emergency allows the military and police to:
 
 - enter private properties without permission.
 
-Curfew hours (10pm until 05am) apply, until further notice, for the following districts (‘cantons’) and/or parishes (parroquias):
+### **Curfew**
 
-### **Azuay province:**
+Curfew hours (10pm until 05am) apply, until further notice, for the following provinces:
 
-* Camilo Ponce Enríquez
+- Bolívar;
 
-### **Los Ríos province:**
+- Carchi;
 
-* Baba
-* Babahoyo
-* Buena Fe
-* Mocache
-* Montalvo
-* Palenque
-* Pueblo Viejo
-* Quevedo
-* Quinsaloma
-* Urdaneta
-* Valencia
-* Ventanas
-* Vinces
+- Chimborazo;
 
-### **Guayas province:**
+- Cotopaxi;
 
-* Balao
-* Durán
-* Parroquia Tenguel del canton Guayaquil
-
-### **Orellana province:**
-
-* La Joya de los Sachas Puerto Francisco De Orellana
-* Loreto
-* Puerto Francisco de Orellana
-
-### **Sucumbios province:**
-
-* Shushufindi
-* Lago Agrio
+- Imbarbura.
 
 Should you need to travel to or from the airport during curfew hours, this is permissible by presenting evidence of a flight booking reservation.
 
