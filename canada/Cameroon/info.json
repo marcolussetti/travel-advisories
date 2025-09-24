@@ -1,7 +1,7 @@
 {
     "name": "Cameroon",
-    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
-    "update_date": "2025-09-21T09:34:00",
+    "update_reason": "Entry and exit requirements \u2013 updated information on passports",
+    "update_date": "2025-09-23T12:10:00",
     "sections": {
         "risk": "canada/Cameroon/risk.md",
         "security": "canada/Cameroon/security.md",

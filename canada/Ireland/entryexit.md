@@ -34,7 +34,9 @@ Different entry rules may apply.
 
 #### Passport with “X” gender identifier
 
-While the Government of Canada issues passports with an “X” gender identifier, it cannot guarantee your entry or transit through other countries. You might face entry restrictions in countries that do not recognize the “X” gender identifier. Before you leave, check with the closest foreign representative for your destination.
+While the Government of Canada issues passports with a “X” gender identifier, it cannot guarantee your entry or transit through other countries. You might face entry restrictions in countries that do not recognize the “X” gender identifier. Before you leave, verify this information with the closest foreign representative for your destination.
+
+You should also be aware that current systems used by some countries and travel companies may not recognize the “X” gender identifier. You may still be asked to provide your sex/gender information as either male or female when travelling.
 
 #### Other travel documents
 
@@ -42,6 +44,7 @@ Different entry rules may apply when travelling with a temporary passport or an 
 
 #### Useful links
 
+* [Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
 * [Foreign Representatives in Canada](https://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng)
 * [Canadian passports and other travel documents](http://www.canada.ca/passport)
 

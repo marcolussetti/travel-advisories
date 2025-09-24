@@ -1,7 +1,7 @@
 {
     "name": "Taiwan",
-    "update_reason": "Natural disasters and climate \u2013 updated information on Typhoon Ragasa",
-    "update_date": "2025-09-21T12:12:00",
+    "update_reason": "Entry and exit requirements \u2013 updated information on passports",
+    "update_date": "2025-09-23T12:10:00",
     "sections": {
         "risk": "canada/Taiwan/risk.md",
         "security": "canada/Taiwan/security.md",

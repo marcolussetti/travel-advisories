@@ -4,7 +4,7 @@
 
 ### Typhoon Ragasa
 
-Typhoon Ragasa is expected to impact Guangxi, Guangzhou, Fujian and Hainan provinces in southern China, on or around September 24, 2025.
+Typhoon Ragasa is expected to impact Guangxi, Guangdong, Fujian and Hainan provinces in southern China, on or around September 24, 2025.
 
 The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
 

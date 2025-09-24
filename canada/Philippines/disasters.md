@@ -4,9 +4,11 @@
 
 ### Typhoon Ragasa
 
-Typhoon Ragasa is expected to gain super typhoon strength and sweep across the Babuyan islands on or around September 21, 2025.
+On September 21, 2025, Typhoon Ragasa swept across the Babuyan islands. It caused significant damage.
 
-The storm is likely to bring excessive rainfall and violent winds, including in northern Luzon. It may cause flash flooding and landslides and could severely disrupt the following essential services:
+Typhoon Ragasa is gradually weakening as it moves northwestward across the South China Sea, but it will continue to bring heavy rainfall and violent winds.
+
+It may cause flash flooding and landslides and could severely disrupt the following essential services:
 
 * transportation
 * power distribution

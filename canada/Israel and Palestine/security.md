@@ -69,10 +69,10 @@ These operations occur most frequently in:
 * Nablus
 * Jericho
 * Ramallah
-* Bir Zei
+* Bir Zeit
 * Bethlehem
 * Tulkarem
-* Qalqiliy
+* Qalqiliya
 
 Movement restrictions are in place throughout the West Bank, including curfews and Israeli checkpoints, where the risk of violent confrontation is heightened. Areas near the barrier separating Israel and the West Bank are particularly high-risk.
 
@@ -86,7 +86,7 @@ If you are in or travelling to the West Bank despite the advisory in effect:
 
 * assess if you are currently in a safe location and consider alternate travel arrangements in case of a rapid deterioration in the security situation
 * shelter in place if you can't leave the area safely
-* imit your movements and avoid travelling at night
+* limit your movements and avoid travelling at night
 * remain extremely cautious
 * monitor local and international media to get the latest information
 * try to keep your phone charged

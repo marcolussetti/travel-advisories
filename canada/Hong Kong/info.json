@@ -1,7 +1,7 @@
 {
     "name": "Hong Kong",
-    "update_reason": "Risk level \u2013 avoid non-essential travel to Hong Kong due to Typhoon Ragasa; Natural disasters and climate \u2013 added information on Typhoon Ragasa",
-    "update_date": "2025-09-22T09:09:00",
+    "update_reason": "Entry and exit requirements \u2013 updated information on passports",
+    "update_date": "2025-09-23T12:10:00",
     "sections": {
         "risk": "canada/Hong Kong/risk.md",
         "security": "canada/Hong Kong/security.md",

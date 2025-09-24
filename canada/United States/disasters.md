@@ -12,16 +12,11 @@ Climate change is affecting the United States. Extreme and unusual weather event
 
 ### Hurricane season
 
-Hurricanes usually occur from:
+The hurricane season is from mid-May to the end of November in the Pacific, and from early June to the end of November in the Atlantic, Caribbean Sea and Gulf of Mexico. During this period, even small tropical storms can quickly develop into major hurricanes.
 
-* May to November in the eastern Pacific Ocean, including Hawaii and Guam
-* June to November in the Atlantic Ocean, the Caribbean Sea and the Gulf of Mexico
+These severe storms can put you at risk and hamper the provision of essential services. You could face serious safety risks during a hurricane. You should carefully consider these risks when planning a trip during the hurricane season.
 
-During this period, even small tropical storms can quickly develop into major hurricanes.
-
-These severe storms can put you at risk and hamper the provision of essential services. You could face serious safety risks during a hurricane. You should carefully consider these risks when planning a trip during hurricane season.
-
-If you decide to travel to a coastal area during the hurricane season despite the risks:
+If you decide to travel to a coastal area during the hurricane season despite the risks:
 
 * be prepared to change your travel plans on short notice, including cutting short or cancelling your trip
 * stay informed of the latest regional weather forecasts
@@ -32,8 +27,7 @@ If you decide to travel to a coastal area during the hurricane season despite 
 
 * [Severe storms outside Canada](https://travel.gc.ca/travelling/health-safety/hurricanes-typhoons-cyclones-monsoons)
 * [Large-scale emergencies outside Canada](https://travel.gc.ca/assistance/emergency-info/large-scale-emergencies-abroad)
-* [Active storm tracking and hurricane watches and warnings](https://www.nhc.noaa.gov/) – U.S. National Hurricane Center
-* [US National Weather Service](https://www.weather.gov/)
+* [Active storm tracking and hurricane watches and warnings](http://www.nhc.noaa.gov/) – U.S. National Hurricane Center
 
 ### Flooding and landslides
 

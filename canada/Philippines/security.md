@@ -2,15 +2,6 @@
 
 ## Safety and security
 
-On September 21, 2025, large-scale demonstrations are expected in several locations across the Philippines, including:
-
-* Luneta (Rizal Park), Manila
-* People Power Monument, in Quezon City
-
-Thousands of demonstrators are expected to participate, and the security situation could deteriorate without notice.
-
-[More information on demonstrations](#demonstrations)
-
 ### Mindanao island
 
 Extremists have been active in the southern Philippines for several years.

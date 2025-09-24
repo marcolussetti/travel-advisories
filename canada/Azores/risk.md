@@ -2,6 +2,6 @@
 
 ## Risk level
 
-### Azores - Take normal security precautions
+### AZORES - AVOID NON-ESSENTIAL TRAVEL
 
-[Take normal security precautions](#levels "Risk Levels") in the Azores.
+[Avoid non-essential travel](#levels "Risk Levels") to the Azores due to Hurricane Gabrielle.

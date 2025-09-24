@@ -14,7 +14,7 @@ Authorities may request proof of legal status in the U.S. at any time. Be prepar
 
 #### Useful links
 
-* [Alien Registration Requirement](https://ca.usembassy.gov/alien-registration-requirement/) – U.S. Embassy & Consulates in Canada
+* [Alien Registration Requirement](https://ca.usembassy.gov/alien-registration-requirement) – U.S. Embassy & Consulates in Canada
 * [Alien Registration Requirement](https://www.uscis.gov/alienregistration) – U.S. Citizenship and Immigration Services
 * [I-94](https://i94.cbp.dhs.gov/home)– Official Website of U.S. Customs and Border Protection
 
@@ -58,7 +58,15 @@ When taking any prescription medication to the United States, it’s important t
 
 ### 2SLGBTQI+ persons
 
-Some states have enacted laws and policies that may affect 2SLGBTQI+ persons. Check relevant state and local laws.
+Federal systems in the U.S. are changing to no longer accept markers of gender identity. Sex assigned at birth may now be requested by federal forms and processes, including:
+
+* visa applications
+* NEXUS applications
+* passenger manifests
+* passport applications
+* Social Security applications
+
+Laws also vary by state and municipality. Some states have enacted laws affecting 2SLGBTQI+ persons. Check relevant state and local laws.
 
 [Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
 

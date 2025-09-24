@@ -53,12 +53,25 @@ Canadian citizens aged 15 years and under entering the United States by land or 
 * [Enhanced Driver’s Licenses: What Are They?](https://www.dhs.gov/enhanced-drivers-licenses-what-are-they) – U.S. Department of Homeland Security
 * [Apply for a Secure Certificate of Indian Status](http://www.aadnc-aandc.gc.ca/eng/1100100032380/1100100032381) – Indigenous Services Canada
 
+#### Passport for official travel
+
+Different entry rules may apply.
+
+[Official travel](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/official-travel.html)
+
+#### Passport with "X" gender identifier
+
+While the Government of Canada issues passports with a “X” gender identifier, it cannot guarantee your entry or transit through other countries. You might face entry restrictions in countries that do not recognize the “X” gender identifier. Before you leave, verify this information with the closest foreign representative for your destination.
+
+You should also be aware that current systems used by some countries and travel companies may not recognize the “X” gender identifier. You may still be asked to provide your sex/gender information as either male or female when travelling.
+
 #### Other travel documents
 
 Different entry rules may apply when travelling with a temporary passport or an emergency travel document. Before you leave, check with the closest diplomatic mission for your destination.
 
 #### Useful links
 
+* [Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
 * [Foreign representatives in Canada](http://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng)
 * [Canadian passports](http://www.canada.ca/passport)
 
@@ -68,7 +81,7 @@ Canadians and other foreign nationals visiting the United States for periods lon
 
 #### Useful links
 
-* [Alien Registration Requirement](https://ca.usembassy.gov/alien-registration-requirement/) – U.S. Embassy & Consulates in Canada
+* [Alien Registration Requirement](https://ca.usembassy.gov/alien-registration-requirement/)– U.S. Embassy & Consulates in Canada
 * [Alien Registration Requirement](https://www.uscis.gov/alienregistration) – U.S. Citizenship and Immigration Services
 * [I-94](https://i94.cbp.dhs.gov/home)– Official Website of U.S. Customs and Border Protection
 
@@ -102,12 +115,17 @@ Canadian visitors can usually stay in the United States for 6 months without a v
 
 In most circumstances, Canadian citizens don’t require visitor, business, transit or other visas to enter the United States from Canada but there are some exceptions.
 
-In February 2025, U.S. authorities made changes to some of the instructions on how to fill out visa applications. If you do need a visa, make sure you follow the current instructions carefully when filling out your application.
+If you do need a visa, be aware that U.S. authorities may periodically review already-issued visas. Visas can be terminated for various reasons, including:
+
+* violation of admission terms
+* a re-assessment of eligibility, including because of previous criminal convictions
+
+In February 2025, U.S. authorities made changes to some of the instructions on how to fill out visa applications. Follow the current instructions carefully when filling out your application.
 
 #### Useful links
 
 * [Canadians Requiring Visas](https://ca.usembassy.gov/canadians-requiring-visas/) – U.S. Embassy & Consulates in Canada
-* [FAQs about visa applications](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/forms/ds-160-online-nonimmigrant-visa-application/ds-160-faqs.html) – U.S. Department of State
+* [FAQs about visa applications](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/forms/ds-160-online-nonimmigrant-visa-application/ds-160-faqs.html)– U.S. Department of State
 
 #### Canadian permanent residents
 
@@ -137,6 +155,11 @@ You must also carry proof of Permanent Resident Status in Canada upon re-entry i
 #### U.S. permanent residents
 
 Canadians who are permanent residents of the United States must present a valid U.S. permanent resident card upon entry.
+
+Permanent resident status in the U.S. can be terminated for certain reasons, including:
+
+* living outside the U.S. for longer than permitted
+* a re-assessment of eligibility, including because of previous criminal convictions
 
 [International travel as a U.S. Permanent Resident](https://www.uscis.gov/green-card/after-green-card-granted/international-travel-permanent-resident) – U.S. Citizenship and Immigration Services
 
