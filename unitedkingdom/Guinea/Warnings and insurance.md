@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   19 September 2025
+:   24 September 2025
 
 Updated:
-:   18 September 2025
+:   23 September 2025
 
 Latest update:
-:   Updated information on the political and security situation in Guinea (See ‘Political situation’ and ‘Security situation’ on the ‘Safety and security’ page).
+:   Removal of information on the political and security situation in Guinea (‘Safety and security’ page).
 
 ## Before you travel
 

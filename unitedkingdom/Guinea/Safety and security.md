@@ -14,7 +14,7 @@ Attacks could be indiscriminate including in places visited by foreigners. Stay 
 
 ## Political situation
 
-There was a coup in Guinea in 2021 and the resulting military-backed interim government is still in charge. A referendum to adopt a new Constitution will take place on 21 September. The situation is changeable and you should remain vigilant, avoid demonstrations and monitor local media.
+There was a coup in Guinea in 2021 and the resulting military-backed interim government is still in charge. The situation is changeable and you should remain vigilant, avoid demonstrations and monitor local media.
 
 Political tensions are high. Protests about the economic situation, such as the lack of electricity, are common. Public gatherings and demonstrations can start with little or no notice and can quickly turn violent. In the past, protestors have ransacked and set fire to several public buildings. In recent years many protestors and bystanders have died during protests and hundreds have been injured.
 
