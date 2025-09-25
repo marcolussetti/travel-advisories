@@ -45,7 +45,7 @@ People, including British nationals, have died or suffered serious illness cause
 
 The Pan American Health Organisation (PAHO) says that methanol can cause headaches, dizziness, nausea and vomiting, seriously damage the optic nerve, and can cause respiratory or cardiac failure. If you, or someone you are travelling with, shows signs of methanol poisoning, seek immediate medical attention.
 
-To protect yourself from methanol poisoning:
+To reduce the risk of methanol poisoning:
 
 * buy alcoholic beverages only from licensed liquor stores, bars, clubs, restaurants and hotels
 * avoid home-made alcoholic drinks

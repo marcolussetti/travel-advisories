@@ -26,7 +26,7 @@ FCDO has guidance on staying safe and what to do if you need help or support abr
 * finding English-speaking [lawyers](https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/lawyers?country=Costa%20Rica), [funeral directors](https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/funeral-directors?country=Costa%20Rica) and [translators and interpreters](https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/translators-interpreters?country=Costa%20Rica) in Costa Rica
 * dealing with a [death in Costa Rica](https://www.gov.uk/government/publications/costa-rica-bereavement-packinformation)
 * being [arrested or imprisoned in Costa Rica](https://www.gov.uk/government/publications/costa-rica-prisoner-pack)
-* getting help if you’re a [victim of crime](https://www.gov.uk/victim-crime-abroad)
+* getting help if you’re a [victim of crime](https://www.gov.uk/guidance/victim-of-crime-abroad)
 * what to do if you’re [in hospital](https://www.gov.uk/guidance/in-hospital-abroad)
 * if you’re [affected by a crisis](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas), such as a terrorist attack
 

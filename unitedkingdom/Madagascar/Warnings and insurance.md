@@ -1,13 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   17 July 2025
+:   25 September 2025
 
 Updated:
-:   16 July 2025
+:   24 September 2025
 
 Latest update:
-:   Updated information on terrorism in Madagascar ('Safety and security' page).
+:   Protests are expected in Antananarivo, and potentially across Madagascar, on 25 September (Warnings and Insurance page)
+
+## Protests in Antananarivo
+
+Significant protests are expected in Antananarivo, and potentially across Madagascar, on 25 September. Please follow local advice and avoid large gatherings and political demonstrations as protests can sometimes turn violent.
 
 ## Before you travel
 

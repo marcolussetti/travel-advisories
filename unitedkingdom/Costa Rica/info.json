@@ -1,11 +1,11 @@
 {
     "name": "Costa Rica",
-    "update_reason": "Removal of information on tsunami alert specific to the Earthquake in the Kamchatka Peninsular Region  (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Addition of information that on Wednesday 24 September 2025 there is disruption to flights at all airports in Costa Rica due to a reported technical issue ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Costa Rica/Warnings and insurance.md",
-            "update_date": "2025-08-01T12:54:28+01:00"
+            "update_date": "2025-09-24T16:40:30+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Costa Rica/Getting help.md"
         }
     ],
-    "update_date": "2025-08-01T12:54:28+01:00"
+    "update_date": "2025-09-24T16:40:30+01:00"
 }

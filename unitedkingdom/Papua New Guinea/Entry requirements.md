@@ -14,13 +14,13 @@ You will be denied entry if you do not have a valid travel document or try to us
 
 ## Visa requirements
 
-You must have a visa to visit Papua New Guinea.
+You must have a visa to visit Papua New Guinea. Visas can be obtained in advance online or at a Papua New Guinea (PNG) Embassy or High Commission. Tourist/visitor visas can also be obtained on arrival at Jacksons International Airport in Port Moresby.
 
 ### Applying for a visa
 
-[Apply for a Papua New Guinea visa online](https://ica.gov.pg/) before you travel.
+[Apply for a Papua New Guinea visa online](https://ica.gov.pg/) before you travel using the ‘Online Services’ tab on the Immigration & Citizenship Services Authority (ICSA) website.
 
-You can no longer get a visa on arrival.
+PNG has recently reintroduced visa on arrival for certain categories of traveller. Details are available on the [ICSA website](https://ica.gov.pg/visa-information/visa-on-arrival). You may need to show evidence of an onward flight ticket.
 
 ## Vaccine requirements
 

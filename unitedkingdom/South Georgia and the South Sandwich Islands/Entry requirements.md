@@ -36,10 +36,6 @@ You will be denied entry if you do not have a valid Entry Permit and the travel 
 
 See [visiting South Georgia guide](https://gov.gs/documents_visitors/) for information on permit fees.
 
-## Vaccine requirements
-
-For details about medical entry requirements and recommended vaccinations, see [TravelHealthPro’s South Georgia and the Sandwich Islands guide](https://travelhealthpro.org.uk/country/9/antarctica#Vaccine_Recommendations).
-
 [Previous
 :
 Warnings and insurance](/foreign-travel-advice/south-georgia-and-south-sandwich-islands)

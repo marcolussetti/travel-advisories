@@ -1,11 +1,11 @@
 {
     "name": "Indonesia",
-    "update_reason": "New information about visa requirements ('Entry requirements' page).",
+    "update_reason": "Information about All Indonesia Declaration form (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Indonesia/Warnings and insurance.md",
-            "update_date": "2025-09-17T11:07:51+01:00"
+            "update_date": "2025-09-24T12:47:16+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Indonesia/Getting help.md"
         }
     ],
-    "update_date": "2025-09-17T11:07:51+01:00"
+    "update_date": "2025-09-24T12:47:16+01:00"
 }

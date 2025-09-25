@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   13 August 2025
+:   25 September 2025
 
 Updated:
-:   12 August 2025
+:   24 September 2025
 
 Latest update:
-:   Updated information on passport validity requirements and new information on Entry Permits ('Entry requirements' page).
+:   This travel advice was reviewed for accuracy and there are no significant updates.
 
 South Georgia and the South Sandwich Islands is a British Overseas Territory. It is administered by a commissioner, based in the Falkland Islands.
 

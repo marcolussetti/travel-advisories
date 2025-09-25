@@ -53,7 +53,7 @@ The conditions and terrain on the islands are harsh. The interior is not fully m
 
 ### Cruise vessel operators
 
-For organised travel, consider using a tour operator that belongs to the [International Association of Antarctica Tour Operators](http://iaato.org/home). Its members sign up to the codes of practice on operational and environmental safety and often have access to more of the islands.
+For organised travel, consider using a tour operator that belongs to the [International Association of Antarctica Tour Operators](https://iaato.org/). Its members sign up to the codes of practice on operational and environmental safety and often have access to more of the islands.
 
 Cruise vessels operators must have adequate insurance arrangements to cover liability. Permission for visits by cruise vessels is granted on this basis.
 

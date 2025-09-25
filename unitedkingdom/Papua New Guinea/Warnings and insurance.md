@@ -1,27 +1,33 @@
 # Warnings and insurance
 
 Still current at:
-:   26 August 2025
+:   25 September 2025
 
 Updated:
-:   25 August 2025
+:   24 September 2025
 
 Latest update:
-:   Addition of information following wide-spread intercommunal violence as FCDO advises against all but essential travel to Enga Province, except Wabag District (Warnings and insurance and Regional risks pages)
+:   Updated information about visa requirements and new information on how to apply for a visa (‘Entry requirements’ page).
+
+![](https://assets.publishing.service.gov.uk/media/68b1908211b4ded2da19fc61/FCDO__TA__063_-_Papua_New_Guinea_Ed2__WEB_.jpg)
+
+
+[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/68b19083536d629f9c82a8e9/FCDO__TA__063_-_Papua_New_Guinea_Ed2.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth and Development Office (FCDO).
 
 ## Areas where FCDO advises against all but essential travel
 
-### Hela, Southern Highlands and most of Enga Provinces
+FCDO advises against all but essential travel to:
 
-FCDO advises against all but essential travel to Hela and Southern Highlands Provinces due to the high risk of tribal fighting.
-
-FCDO advises against all but essential travel to Enga Province in the Highlands, except Wabag District.
-
-Following wide-spread intercommunal violence in Wapenamanda area of Enga Province, the provincial government has declared all districts except Wabag District, which remains relatively safe, as ‘fighting zones’.  The authorities report deaths, destruction of property, and the closure of public services.  Checkpoints, random searches, and curfews have been introduced.
+* Hela and Southern Highlands Provinces due to the high risk of tribal fighting
+* Enga Province in the Highlands, except Wabag District
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/papua-new-guinea/regional-risks).
+
+## Enga Province
+
+Following wide-spread intercommunal violence in Wapenamanda area of Enga Province, the provincial government has declared all districts except Wabag District, which remains relatively safe, as ‘fighting zones’.  The authorities report deaths, destruction of property, and the closure of public services.  Checkpoints, random searches, and curfews have been introduced.
 
 ## Before you travel
 

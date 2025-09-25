@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   18 September 2025
+:   25 September 2025
 
 Updated:
-:   17 September 2025
+:   24 September 2025
 
 Latest update:
-:   New information about visa requirements ('Entry requirements' page).
+:   Information about All Indonesia Declaration form (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/6745db6083f3d6d843be9719/FCDO__TA__020_-_Indonesia_Travel_Advice_Ed9__WEB_.jpg)
 

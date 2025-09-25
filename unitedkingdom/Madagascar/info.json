@@ -1,11 +1,11 @@
 {
     "name": "Madagascar",
-    "update_reason": "Updated information on terrorism in Madagascar ('Safety and security' page).",
+    "update_reason": "Protests are expected in Antananarivo, and potentially across Madagascar, on 25 September (Warnings and Insurance page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Madagascar/Warnings and insurance.md",
-            "update_date": "2025-07-16T14:48:17+01:00"
+            "update_date": "2025-09-24T20:41:36+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Madagascar/Getting help.md"
         }
     ],
-    "update_date": "2025-07-16T14:48:17+01:00"
+    "update_date": "2025-09-24T20:41:36+01:00"
 }
