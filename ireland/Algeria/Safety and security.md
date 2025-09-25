@@ -14,13 +14,9 @@ Keep yourself informed of events by monitoring local media and staying in contac
 
 ### **Terrorism**
 
-The threat from terrorism in Algeria is high, especially outside Algiers and the main cities. Attacks have been carried out in major population centers, including Algiers, in recent years, and have caused death and serious injuries.
+There is a risk of terrorist attacks in Algeria, with heightened risk in certain regions. Terrorist attacks have often been aimed at public institutions and against state security forces, but could also affect places visited by foreign nationals.
 
-Avoid all travel to areas within 450km of the Mali and Niger borders with the exception of Tindouf town and Tamanrasset city; to areas within 100km of the Mauritania border; and to areas within 100km of the Tunisian and Libyan borders south of the town of Souk Ahras.
-
-Avoid all but essential travel to Tamanrasset city, Amenas, Tindouf town, the provinces of Boumerdès, Bouira, and Tizi Ouzou east of Algiers (the area known as the Kabylie).
-
-Great care should be taken in the remaining areas of the Provinces of Adrar, Tamanrasset and Illizi which are not covered above and the provinces of Bordj Bou Arreridj, Bejaia and Skikda east of Algiers.
+Avoid travel to the following border areas due to the heightened risk: within 100km of the border with Mali, Mauritania and Niger; and within 50km of the border with Libya, Tunisia and Morocco.
 
 ### **Crime**
 
