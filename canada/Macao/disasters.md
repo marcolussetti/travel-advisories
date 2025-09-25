@@ -4,9 +4,9 @@
 
 ### Typhoon Ragasa
 
-Typhoon Ragasa is moving westward through the South China Sea and is expected to significantly impact Macao, on or around September 23, 2025.
+On September 23, 2025, Typhoon Ragasa swept past Macao.
 
-The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
+It caused flooding and significant damage, and could severely disrupt the following essential services:
 
 * transportation
 * power distribution

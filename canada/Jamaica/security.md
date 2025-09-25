@@ -6,74 +6,15 @@
 
 #### Violent crime
 
-Violent crime, including armed robbery and murder, is a problem in large cities and tourist areas, including parts of Kingston and Montego Bay, despite the presence of police to counter criminal activity. The availability of firearms is widespread, and most violent drug- and gang-related crimes, especially murder, involve firearms. There is a risk of becoming the victim of crossfire in these areas. Tourists are also at risk of crimes of opportunity, especially theft and robberies.
+Violent crime, including armed robbery and murder, has decreased in recent years but is still an issue in large cities, including parts of Kingston and Montego Bay.
 
-Crimes tend to be concentrated within what the police refer to as “traditional hot spots” or “high-risk communities”, but can take place anywhere and at any time.
+Police are present in locations popular with tourists, including resorts. Although violent crime rates are lower in these areas, incidents of assault and robbery occur.
 
-The following areas have a significant gang population and high incidences of violent crime:
+Crime tends to be concentrated within what the police refer to as “traditional hot spots” or “high-risk communities”. The availability of firearms is widespread, and most violent drug- and gang-related crimes, especially murder, involve firearms.
 
-##### Greater Kingston
+Certain urban areas of Kingston, Montego Bay, St. Catherine, and the town of May Pen have a significant gang population and high incidences of violent crime.
 
-* Arnett Gardens
-* August Town
-* Balmagie
-* Cassava Piece
-* Delacree Park
-* Denham Town
-* Drewsland
-* Felstead Pen
-* Four Miles
-* Glendale
-* Grant’s Pen
-* Greenwich Town
-* Hannah Town
-* Harbour View
-* Hunts Bay
-* Jones Town
-* Lower Cockburn Gardens
-* Maverly
-* Mountain View
-* Nanse Pen
-* Olympic Gardens
-* Payneland
-* Portmore
-* Rennock Lodge
-* Riverton City
-* Salmagie
-* Seaview Gardens
-* Tavares Gardens
-* Tivoli Gardens
-* Tower Hill
-* Trench Town
-* Waltham Gardens
-* West Kingston
-* Whitfield Town
-
-##### St. Catherine
-
-* Central Village
-* Ellerslie
-* Homestead
-* Ravensworth
-* Spanish Town
-* Tawes Pen
-
-##### Montego Bay
-
-* Bottom Pen
-* Canterbury
-* Flankers
-* Hart Street
-* Mount Salem
-* Norwood Gardens
-* Rose Heights
-* St. Clavers Avenue
-
-##### South Coast
-
-* May Pen
-
-If you decide to travel to these areas:
+If you decide to travel to higher-risk areas:
 
 * maintain a high level of personal security awareness at all times
 * avoid visiting or travelling at night
@@ -86,35 +27,29 @@ If you’re threatened by robbers, don’t resist, and hand over your cash and v
 
 #### Petty crime
 
-Petty crime, such as pickpocketing and bag snatching, are common in major tourist areas and crowded places.
+Petty crime, such as pickpocketing and bag snatching, occurs in major tourist areas and crowded places.
 
-* Ensure that your belongings and travel documents are secure at all times
-* Don’t carry large amounts of cash
-* Don’t show signs of affluence
+* Keep your personal belongings, including your passport and other travel documents, in a secure place
+* Do not carry large sums of cash or valuables unnecessarily
+* Do not show signs of wealth or wear expensive jewellery
 * Use ATMs located in public areas or inside a bank or business
 * Protect your cell phone, which is a popular item for theft
 * Use the hotel safe to secure your valuables
-* Don’t leave valuables in plain view, even while you are in your hotel room
-* Enquire with reception upon check-in on security precautions related to theft from hotel rooms
 
-### State of emergency
+### Checkpoints
 
-Local authorities periodically declare a state of emergency in various parishes  to fight against gang-related crime.
+To curb violent crime, the police may set up checkpoints across the country. Checkpoints are common along the A1 (North Coast Highway).
 
-When a state of emergency is in effect, security forces have increased rights to conduct searches, seizures, and detain persons of interest.
-
-If you are travelling in an area where a state of emergency is in effect:
-
-* be aware that you may be subject to searches by security forces
-* always cooperate with military and police officers
-* carry valid ID at all times and be prepared for various checkpoints
-* allow extra time to reach your destination
-* follow the instructions of local authorities
-* monitor local news to stay informed on the current situation
+* Follow all traffic laws
+* Be aware that you may be subject to searches by security forces
+* Always cooperate with police officers
+* Always carry valid ID and be prepared for various checkpoints
+* Allow extra time to reach your destination
+* Monitor local news to stay informed on the current situation
 
 ### 2SLGBTQI+ persons
 
-Jamaican law prohibits sexual acts between individuals of the same sex. Other related offences include being in a same-sex marriage and the "promotion of homosexuality." Those convicted can face sentences of up to 10 years in prison, though authorities rarely enforce the law.
+Jamaican law prohibits sexual acts between individuals of the same sex. Other related offences include being in a same-sex marriage and the "promotion of homosexuality". Those convicted can face sentences of up to 10 years in prison, though authorities rarely enforce the law.
 
 2SLGBTQI+ persons have experienced harassment and verbal or physical abuse. Though violence against 2SLGBTQI+ persons and their allies has declined significantly over the past decade, 2SLGBTQI+ travellers should:
 
@@ -123,13 +58,15 @@ Jamaican law prohibits sexual acts between individuals of the same sex. Other re
 
 [Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
 
-### Women's safety and sexual assault
+### Women's safety
 
-There have been reports of sexual assaults at tourist resorts carried out by resort staff and, in some cases, by other tourists. Women travelling alone are often harassed.
+Women are often the target for unwanted attention. They should exercise caution when travelling alone.
+
+There have been reports of sexual assaults at tourist resorts carried out by resort staff and, in some cases, by other tourists.
 
 Be particularly vigilant if you are staying at a smaller or isolated establishment with less security. Compounds that are gated and guarded are considered the safest accommodation option in Jamaica.
 
-* Be wary of strangers who seem friendly
+* Be wary of strangers who seem unusually friendly
 * Refrain from excessive drinking, especially at all-inclusive resorts
 * Ensure that your hotel room doors and windows are locked
 
@@ -137,7 +74,7 @@ Be particularly vigilant if you are staying at a smaller or isolated establishme
 
 ### Spiked food and drinks
 
-Never leave food or drinks unattended or in the care of strangers. Be wary of accepting snacks, beverages, gum, or cigarettes from new acquaintances, as they may contain drugs that could put you at risk of sexual assault and robbery.
+Never leave food or drinks unattended or in the care of strangers as they could be drugged and put you at risk of sexual assault and/or robbery.
 
 ### Fraud
 

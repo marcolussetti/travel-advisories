@@ -2,9 +2,11 @@
 
 ## Entry and exit requirements
 
-Due to the ongoing security situation in Israel, the West Bank and the Gaza Strip, operations at the land borders with Jordan may be affected by reduced hours or closure on short notice.
+Due to the ongoing security situation in Israel and Palestine, operations at land borders with Jordan may be affected by reduced hours or closure on short notice.
 
-Verify the status of the border crossing before you head there.
+On September 23, 2025, Israeli authorities announced that the Allenby/King Hussein Bridge border crossing would remain closed until further notice.
+
+Verify the status of border crossings ahead of time.
 
 The authorities of a country or territory decide who can enter or exit through its borders. The Government of Canada cannot intervene on your behalf if you do not meet your destination’s entry or exit requirements.
 

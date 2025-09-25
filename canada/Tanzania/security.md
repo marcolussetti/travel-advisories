@@ -6,7 +6,7 @@
 
 General elections are scheduled in Tanzania on October 29, 2025, and on October 28 and 29, 2025, in Zanzibar.
 
-Recent elections, particularly on the islands of Zanzibar, have led to violence, with demonstrations and several fatalities.
+Political gatherings and demonstrations during recent elections have led to violence and resulted in fatalities, particularly on the islands on Zanzibar.
 
 Local authorities may adjust security measures and restrict movement.
 

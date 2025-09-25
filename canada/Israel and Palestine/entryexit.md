@@ -142,7 +142,7 @@ If you are unsure of your Israeli citizenship or your military status, verify it
 As a Palestinian-Canadian citizen, you may be subject to Government of Israel travel regulations for Palestinians. Strict border control policies may prevent you from entering to and exiting from:
 
 * Israel
-* Jerusalem;
+* Jerusalem
 * the West Bank
 * the Gaza Strip
 

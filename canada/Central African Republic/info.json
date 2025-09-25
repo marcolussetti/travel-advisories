@@ -1,7 +1,7 @@
 {
     "name": "Central African Republic",
-    "update_reason": "Entry and exit requirements \u2013 updated information on passports",
-    "update_date": "2025-09-23T12:10:00",
+    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
+    "update_date": "2025-09-24T15:16:00",
     "sections": {
         "risk": "canada/Central African Republic/risk.md",
         "security": "canada/Central African Republic/security.md",

@@ -35,7 +35,7 @@ Seek permission before taking photos of people in Muslim or Orthodox Jewish area
 
 Both the Palestinian and Israeli authorities recognize dual citizenship. If you hold or used to hold a Palestinian ID card, you may be considered a Palestinian national while in the West Bank, the Gaza Strip or Israel.
 
-Foreign nationals naturalized citizens of Israel must forfeit their previous citizenship.
+Foreign nationals who become naturalized citizens of Israel must forfeit their previous citizenship.
 
 If you are a Canadian citizen, but also a citizen of Israel or Palestine, our ability to offer you consular services may be limited while you're there. You may also be subject to different entry/exit requirements.
 

@@ -4,9 +4,9 @@
 
 ### Typhoon Ragasa
 
-Typhoon Ragasa is expected to impact Guangxi, Guangdong, Fujian and Hainan provinces in southern China, on or around September 24, 2025.
+On September 24, 2025, Typhoon Ragasa made landfall near the city of Yangjiang, Guangdong province. It caused significant damage.
 
-The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
+Typhoon Ragasa is gradually weakening as it is moves westward inland but it will continue to bring heavy rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
 
 * transportation
 * power distribution

@@ -4,9 +4,9 @@
 
 ### Typhoon Ragasa
 
-Typhoon Ragasa is expected to gain super typhoon strength and affect the southern coast of Taiwan, in the Pingtung County, on or around September 22, 2025.
+On September 22, 2025, Typhoon Ragasa swept past the coast of Taiwan and caused significant damage, particularly in Hualien County.
 
-The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
+There are reports of significant disruptions to the following essential services:
 
 * transportation
 * power distribution

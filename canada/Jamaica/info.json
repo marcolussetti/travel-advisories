@@ -1,7 +1,7 @@
 {
     "name": "Jamaica",
-    "update_reason": "Entry and exit requirements \u2013 updated information on passports",
-    "update_date": "2025-09-23T12:10:00",
+    "update_reason": "Safety and security \u2013 review of the safety and security section",
+    "update_date": "2025-09-24T17:41:00",
     "sections": {
         "risk": "canada/Jamaica/risk.md",
         "security": "canada/Jamaica/security.md",

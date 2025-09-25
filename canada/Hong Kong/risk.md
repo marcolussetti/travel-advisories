@@ -2,6 +2,6 @@
 
 ## Risk level
 
-### Hong Kong - AVOID NON-ESSENTIAL TRAVEL
+### Hong Kong - Exercise a high degree of caution
 
-[Avoid non-essential travel](#levels "Risk Levels") to Hong Kong due to Typhoon Ragasa.
+[Exercise a high degree of caution](#levels "Risk Levels") in Hong Kong due to the risk of arbitrary enforcement of local laws.

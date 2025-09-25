@@ -60,8 +60,6 @@ Violent clashes between extremist Israeli settlers and Palestinians occur freque
 
 Israeli military operations in cities and villages are also frequent, often resulting in injuries and deaths.
 
-Israeli military operations in cities and villages are also frequent, often resulting in injuries and deaths.
-
 These operations occur most frequently in:
 
 * Hebron
@@ -133,7 +131,7 @@ Despite the United Nations-monitored buffer zone between Israel and Syria in the
 
 The border area with Egypt is dangerous due to military operations and smuggling activities.
 
-The Israeli Defence Forces regularly patrols the area to intercept drug smugglers resulting in frequent armed clashes.
+The Israeli Defence Forces regularly patrol the area to intercept drug smugglers resulting in frequent armed clashes.
 
 The Rafah border crossing, which is the only option to cross between the Gaza Strip and Egypt, is controlled jointly by Egyptian and Israeli authorities. It has been closed since May 2024 due to the ongoing conflict in the Gaza Strip. There have been several strikes on the city of Rafah before and after the border crossing closure. In northern Sinai, the security situation can also deteriorate rapidly due to instability and the risk of terrorist attacks.
 

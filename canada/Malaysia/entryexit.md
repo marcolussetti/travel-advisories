@@ -52,6 +52,12 @@ A special visa is available to individuals who participate in the Malaysia My Se
 
 ### Other entry requirements
 
+There is an increase in online scams related to the Malaysia Digital Arrival Card (MDAC).
+
+* The MDAC is a free service
+* Do not use any website that charges fees for arrival cards
+* Only use the official website to apply for an MDAC
+
 You must complete a Malaysia Digital Arrival Card (MDAC). This is an online pre-arrival form and can be filled in up to three days prior to your arrival in Malaysia.
 
 First time visitors to Malaysia need to go to immigration upon arrival. You must present your passport and a complete MDAC for border officers to validate before leaving the immigration counter.

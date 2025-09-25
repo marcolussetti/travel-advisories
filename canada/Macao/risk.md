@@ -2,6 +2,6 @@
 
 ## Risk level
 
-### MACAO - AVOID NON-ESSENTIAL TRAVEL
+### Macao - Exercise a high degree of caution
 
-[Avoid non-essential travel](#levels "Risk Levels") to Macao due to Typhoon Ragasa.
+[Exercise a high degree of caution](#levels "Risk Levels") in Macao due to the risk of arbitrary enforcement of local laws.
