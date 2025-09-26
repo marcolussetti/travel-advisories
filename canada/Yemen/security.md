@@ -54,6 +54,10 @@ Throughout the conflict in Yemen, militant groups have attacked civilian and mil
 
 Due to security risks, the Government of Canada cannot provide assistance to citizens trying to leave Yemen by land for Saudi Arabia.
 
+### Socotra Island
+
+The security situation on Socotra Island differs from that of mainland Yemen’s, but it is also volatile. Since 2020, it has been under the de facto control of a separatist group, opposed to the internationally recognized government of Yemen. There are occasional clashes between rival factions as well as between the local administration and the local population. Piracy and military activity continue to pose risks in the Gulf of Aden and surrounding waters, including near Socotra.
+
 ### Terrorism
 
 There is a high threat of terrorism.Terrorists have targeted Western interests and Yemeni government buildings. Terrorist groups also target checkpoints manned by the Houthi rebel group in Sanaa and elsewhere in the country, and target Houthis in general.

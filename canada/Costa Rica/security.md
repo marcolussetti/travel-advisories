@@ -2,12 +2,6 @@
 
 ## Safety and security
 
-### Airspace closure
-
-Costa Rican airspace has re-opened after a temporary closure on September 24, 2025. However, flight disruptions may persist in the short term.
-
-* Consult your airline for information on your flight’s status before travelling to the airport
-
 ### Crime
 
 #### Petty crime
@@ -25,8 +19,8 @@ Thieves often work in teams, in which one thief diverts the victims’ attention
 
 While you’re in Costa Rica:
 
-* ensure that your belongings, including your passport and other travel documents, are secure at all times
-* carry your passport, including the Costa Rican entry stamp received at the immigration entry point
+* always keep your personal belongings, including your passport and other travel documents, in a secure place
+* securely carry your passport, including the Costa Rican entry stamp received at the immigration entry point
 * avoid showing signs of affluence or wearing expensive jewellery
 * avoid carrying large sums of cash or unnecessary valuables
 * avoid isolated or deserted areas

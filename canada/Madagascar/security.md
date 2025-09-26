@@ -2,6 +2,22 @@
 
 ## Safety and security
 
+### Demonstrations in Antananarivo
+
+On September 25, 2025, violent demonstrations and gunfire in Antananarivo resulted in casualties.
+
+Barricades have been set up, disrupting traffic and public transportation.
+
+Local authorities have imposed a dusk until dawn curfew in Antananarivo. Further curfews and restrictions on movement could be imposed without notice.
+
+If you are in Antananarivo:
+
+* contact with your airline before going to the airport to confirm with travel plans
+* stay away from demonstrations
+* expect heavy security measures and increased security presence
+* monitor local media for the latest information
+* follow the instructions of local authorities, including curfew orders
+
 ### Crime
 
 #### Petty crime

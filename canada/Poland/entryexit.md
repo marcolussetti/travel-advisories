@@ -82,13 +82,6 @@ To stay longer than 90 days, Canadians must apply either for a Polish visa in Ca
 
 ### Land border crossings and prohibited border areas
 
-From July 7 to August 5, 2025, Polish authorities will conduct checks at the borders with Germany and Lithuania due to irregular migration patterns.
-
-If you plan to cross into Poland from Germany or Lithuania:
-
-* follow the instructions of local authorities
-* have your travel documents ready
-
 Polish authorities have shut down certain border crossings with Belarus and Russia (Kaliningrad) due to security concerns. If you intend to travel to Poland from Belarus or Russia, you must apply for a humanitarian reasons permit.
 
 If you plan to cross from Poland into Belarus or Russia, only the following border crossings remain open to cars and buses:

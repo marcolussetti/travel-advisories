@@ -2,14 +2,6 @@
 
 ## Safety and security
 
-### State of emergency in Rivers State
-
-On March 18, 2025, the government of Nigeria declared a 6-month state of emergency in Rivers State. This is in response to an attack by militants on oil infrastructure and political instability in the state.
-
-During the state of emergency, you should expect a heightened presence of security forces in public areas, including the military.
-
-[For more information on state of emergency](#SOE)
-
 ### Demonstrations
 
 Demonstrations occur frequently, especially in major cities. Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation. Telecommunications and Internet access may also be disrupted.

@@ -1,7 +1,7 @@
 {
     "name": "Yemen",
-    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
-    "update_date": "2025-09-24T15:16:00",
+    "update_reason": "Risk level; Safety and security \u2013 added information on Socotra Island",
+    "update_date": "2025-09-25T15:22:00",
     "sections": {
         "risk": "canada/Yemen/risk.md",
         "security": "canada/Yemen/security.md",

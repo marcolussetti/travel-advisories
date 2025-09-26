@@ -64,4 +64,6 @@ Learn about [potential entry requirements related to yellow fever](#health) (vac
 
 ### Children and travel
 
-Learn about [travelling with children](http://travel.gc.ca/travelling/children).
+Georgian authorities may hinder or deny entry to children whose physical appearance significantly differs from their passport photo.
+
+[Children and travel](http://travel.gc.ca/travelling/children)
