@@ -94,7 +94,7 @@ British nationals cannot currently cross the Belarus-Ukraine border. If you trav
 
 ### Belarus-Poland border
 
-Due to concerns over forthcoming military exercises with Russia taking place inside Belarus, the border with Poland will be closed entirely from 11:59pm on Thursday 11 September. It is unclear when the border will reopen. Check the latest information on the [Polish State Border Guard website](https://granica.gov.pl/przejscia.php?v=en).
+The border with Poland reopened on 25 September 2025 following a decision by Polish authorities. Only the Brest-Terespol border point is open for passenger crossing. The Polish-Belarusian bilateral relationship remains unstable and the border could be closed again at short notice. Check the latest information on the [Polish State Border Guard website](https://granica.gov.pl/przejscia.php?v=en).
 
 ### Belarus-Lithuania border
 

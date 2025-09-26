@@ -1,15 +1,23 @@
 # Warnings and insurance
 
 Still current at:
-:   20 September 2025
+:   26 September 2025
 
 Updated:
-:   19 September 2025
+:   25 September 2025
 
 Latest update:
-:   New information about the risks from strike action ('Safety and security' page).
+:   New information on a warning about the tropical storm heading towards the Azores (‘Warnings and insurance’ page).
 
 This travel advice also covers Madeira, Porto Santo and the Azores.
+
+## Tropical storm warning for the Azores
+
+Hurricane Gabrielle is expected to reach the Azores during the afternoon of 25 September. There may be disruption to services due to hurricane force winds and possible coastal flooding.
+
+Hurricanes can change course and intensity. Monitor the approaching storm on the [US National Hurricane Center](https://www.nhc.noaa.gov/) website and follow the advice of the [local  authorities](https://www.prociv.azores.gov.pt/alertas/ver.php?id=3384). If you are due to travel, check for messages from your travel provider.
+
+See further information on what you can do to prepare for and respond to extreme weather and natural hazards on our [Safety and security page](https://www.gov.uk/foreign-travel-advice/portugal/safety-and-security).
 
 ## Wildfires in Portugal
 

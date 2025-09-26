@@ -1,11 +1,11 @@
 {
     "name": "Portugal",
-    "update_reason": "New information about the risks from strike action ('Safety and security' page).",
+    "update_reason": "New information on a warning about the tropical storm heading towards the Azores (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Portugal/Warnings and insurance.md",
-            "update_date": "2025-09-19T16:20:42+01:00"
+            "update_date": "2025-09-25T11:52:25+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Portugal/Getting help.md"
         }
     ],
-    "update_date": "2025-09-19T16:20:42+01:00"
+    "update_date": "2025-09-25T11:52:25+01:00"
 }

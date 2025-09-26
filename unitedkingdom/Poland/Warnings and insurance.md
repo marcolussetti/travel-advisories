@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   16 September 2025
+:   26 September 2025
 
 Updated:
-:   15 September 2025
+:   25 September 2025
 
 Latest update:
-:   Removal of information about potential air travel disruptions and local safety procedures('Warnings and insurance' page).
+:   Updated information on the reopening of the Poland-Belarus Border on Thursday 25 September ('Entry requirements' page).
 
 ## Ukraine-Poland border
 

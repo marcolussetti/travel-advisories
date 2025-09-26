@@ -1,17 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   25 September 2025
+:   26 September 2025
 
 Updated:
-:   24 September 2025
+:   25 September 2025
 
 Latest update:
-:   Addition of information that on Wednesday 24 September 2025 there is disruption to flights at all airports in Costa Rica due to a reported technical issue ('Warnings and insurance' page).
-
-## Flight disruption
-
-There is currently ongoing disruption to flights at all airports in Costa Rica due to a reported technical issue. Check with your airline for further information.
+:   Removal of information that on Wednesday 24 September 2025 there is disruption to flights at all airports in Costa Rica due to a reported technical issue ('Warnings and insurance' page).
 
 ## Before you travel
 

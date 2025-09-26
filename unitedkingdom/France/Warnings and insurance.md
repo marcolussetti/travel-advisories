@@ -1,17 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   12 September 2025
+:   26 September 2025
 
 Updated:
-:   11 September 2025
+:   25 September 2025
 
 Latest update:
-:   Updated information about strikes and demonstrations due to take place across France ('Warnings and insurance' page).
-
-## Strike action
-
-Calls for strikes across France on Thursday 18 September could make disruption more likely. Monitor local news and check with your travel provider regarding potential delays.
+:   Removal of information about strikes and demonstrations in France ('Warnings and insurance' page).
 
 ## Before you travel
 

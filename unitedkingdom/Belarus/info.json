@@ -1,11 +1,11 @@
 {
     "name": "Belarus",
-    "update_reason": "Updated information on the closure of the Polish border with Belarus on Thursday 11 September ('Entry requirements' and 'Safety and security' pages).",
+    "update_reason": "Updated information on the reopening of the Polish border with Belarus on Thursday 25 September ('Entry requirements' and 'Safety and security' pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Belarus/Warnings and insurance.md",
-            "update_date": "2025-09-11T11:34:23+01:00"
+            "update_date": "2025-09-25T16:00:43+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Belarus/Getting help.md"
         }
     ],
-    "update_date": "2025-09-11T11:34:23+01:00"
+    "update_date": "2025-09-25T16:00:43+01:00"
 }

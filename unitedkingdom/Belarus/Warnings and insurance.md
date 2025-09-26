@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   12 September 2025
+:   26 September 2025
 
 Updated:
-:   11 September 2025
+:   25 September 2025
 
 Latest update:
-:   Updated information on the closure of the Polish border with Belarus on Thursday 11 September ('Entry requirements' and 'Safety and security' pages).
+:   Updated information on the reopening of the Polish border with Belarus on Thursday 25 September ('Entry requirements' and 'Safety and security' pages).
 
 ![](https://assets.publishing.service.gov.uk/media/621a51bb8fa8f54916f45f67/FCDO_TA_057_-_Belarus_Travel_Advice_Ed2_WEB.jpg)
 

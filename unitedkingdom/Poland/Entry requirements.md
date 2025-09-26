@@ -80,7 +80,7 @@ If you have arrived in Poland from Ukraine and are in need of assistance, call +
 
 ### Entering Poland from Belarus
 
-[FCDO advises against all travel to Belarus](http://www.gov.uk/foreign-travel-advice/belarus). Poland will temporarily close the Poland-Belarus border including rail crossings from 12 September, starting at 00:01hrs in the morning, due to joint Belarus-Russia military exercises. The border will remain closed until further notice.
+[FCDO advises against all travel to Belarus](http://www.gov.uk/foreign-travel-advice/belarus). Poland temporarily closed the Poland-Belarus border including rail crossings from 12 to 24 September 2025. The border is open but certain border checkpoints are closed, see [details from the Polish government](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001274) (in Polish). Border checkpoints may close or have additional restrictions imposed at short notice and other disruption is possible.
 
 Access to parts of the Polish border with Belarus is restricted. The regulations, which came into force on 13 June 2024 was extended on 6 September 2025 for another 90 days, prohibits access to the border in specific areas controlled by the Polish Border Guard posts at Narewka, Białowieża, Dubicze Cerkiewne and Czeremcha. In some areas, access is restricted to within 200m of the border and in others to within 2km. See precise [details of the restricted areas](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000738) (in Polish).
 
