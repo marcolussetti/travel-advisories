@@ -8,6 +8,8 @@ High Degree of Caution
 
 Due to the regional security situation, Irish citizens should exercise a high degree of caution regarding travel to the Republic of Moldova. The Department of Foreign Affairs and Trade is closely monitoring the situation in Ukraine together with our EU and other international partners.  Current travel advice in relation to Ukraine is available [**here**](/en/dfa/overseas-travel/advice/ukraine/).
 
+Regularly monitor the announcements of the local authorities in Moldova respect of developing situations.
+
 Irish citizens who wish to enter Moldova from Ukraine should do so at one of the internationally recognised border crossing points between Moldova and Ukraine in the north and south of the country. Irish citizens should not attempt to enter Moldova from Ukraine via Transnistria.
 
 Irish citizens should not travel to Transnistria, which is outside the control of the Moldovan Government.
