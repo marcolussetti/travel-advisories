@@ -4,7 +4,7 @@ If in need of emergency assistance, please contact the Embassy at + 55 61 3248 8
 
 The answering machine is monitored regularly and the Duty Officer will make contact as soon as possible.
 
-Monday to Friday 10:00 to 13:00
+Monday to Friday 09:00 to 12:00
 
 ### Embassy of Ireland, Brazil
 

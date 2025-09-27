@@ -6,7 +6,7 @@ Remember, the local laws apply to you as a visitor and it is your responsibility
 
 Reserved behaviour in public is the norm. Public displays of affection are not customary in Korean culture.
 
-Avoid bringing religious books or any material that could be considered to be “anti-North Korean”.
+Avoid bringing religious books or any material that could be considered to be “anti-North Korean”. In general, it is best to avoid bringing books or other written material in the Korean language.
 
 ### **LGBT**
 
@@ -34,7 +34,7 @@ Spoken English is confined to official guides and senior government officials.
 
 ### **Mobile Phones**
 
-Visitors are generally not allowed to carry mobile phone and you’ll likely have to surrender your phone on entry to North Korea. It will be returned to you when you leave the country. Devices with GPS capabilities may also be held.
+Visitors are generally not allowed to carry mobile phone and it is likely that you will have to surrender your phone on entry to North Korea. It will be returned to you when you leave the country. Devices with GPS capabilities may also be held.
 
 You can generally place calls, at a charge, from hotels to numbers outside North Korea, except numbers in South Korea.
 

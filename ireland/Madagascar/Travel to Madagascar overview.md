@@ -6,6 +6,8 @@ High Degree of Caution
 
 ### **Travel Alert**
 
+Violent protests have taken place in Antananarivo. Further protests and unrest are expected and may spread to other parts of Madagascar. A curfew is in place from 7 p.m. to 5 a.m. Please pay attention to your surroundings, stay away from crowds and large gatherings, monitor the local media, and follow instructions from the authorities.
+
 Exercise a high degree of caution in Madagascar due to crime and civil unrest. Avoid any large gatherings or demonstrations.
 
 ### **General Travel Advice**

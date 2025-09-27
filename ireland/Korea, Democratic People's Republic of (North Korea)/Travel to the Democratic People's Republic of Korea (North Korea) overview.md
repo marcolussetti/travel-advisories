@@ -6,21 +6,21 @@ Avoid Non-Essential Travel
 
 ### **Travel Alert**
 
-Entry to North Korea is highly restricted with the country yet to reopen after closing their border at the onset of COVID-19.  When it does become possible to travel to North Korea again, you should take precautions and monitor local media for updates. If you are planning travel via or onward to China, please make sure to check the travel advice for China, which is available [**here**](/en/dfa/overseas-travel/advice/china/).
+Entry to North Korea is highly restricted. A limited re-opening post-COVID-19 has since been curtailed. Travellers who do gain access to North Korea should take precautions and monitor local media for updates as the situation may change quickly. For onward travel to China, please make sure to check the travel advice for China, which is available [**here**](https://www.ireland.ie/en/dfa/overseas-travel/advice/china/).
 
 ### **COVID-19 Entry Requirements**
 
-Entry to North Korea is highly restricted with the country yet to reopen after closing their border at the onset of COVID-19.
+Entry to North Korea is highly restricted with the borders remaining mostly closed since the onset of COVID-19.
 
 ### **General Travel Advice**
 
-The Department of Foreign Affairs and Trade advises against non-essential travel to North Korea at this time.
+The Department of Foreign Affairs and Trade advises against non-essential travel to North Korea.
 
-In recent years, the number of missiles tests carried out by North Korea have increased significantly, underscoring the underlying unpredictability of the situation. The Embassy in Seoul is monitoring the situation and advises Irish citizens in Korea to be aware of and follow developments and to ensure that you are [**registered with the Embassy**](/en/dfa/overseas-travel/citizens-registration/).
+In recent years, the number of missile tests carried out by North Korea have increased significantly, underscoring the underlying unpredictability of the situation. The Embassy in Seoul is monitoring the situation and advises Irish citizens in Korea to be aware of and closely follow developments. They also recommend that all travellers [**register with the Embassy**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/).
 
-The political leadership in North Korea is the object of intense, organised reverence and lack of courtesy or perceived insults to, or jokes about, the North Korean political system and its leadership are severely frowned upon. If you travel to North Korea, you should avoid taking photographs of soldiers and officials or guarded or protected buildings. Reserved behaviour in public is the norm.
+The political leadership in North Korea is the object of intense, organised reverence and lack of courtesy or perceived insults to, or jokes about, the North Korean political system and its leadership may be treated severely. If you travel to North Korea, avoid taking photographs of soldiers and officials or guarded buildings. Reserved behaviour in public is the norm.
 
-Because there is no Irish Embassy or Consulate in North Korea, we are limited in the support we can offer you in an emergency. However, if you need assistance, you can contact the [**Irish Embassy in Seoul.**](/en/republic-of-korea/seoul/)
+Because there is no Irish Embassy or Consulate in North Korea, we are limited in the support we can offer you in an emergency. However, if you need assistance, you can contact the [**Irish Embassy in Seoul.**](https://www.ireland.ie/en/republic-of-korea/seoul/)
 
 Irish citizens require a visa to enter the Democratic People’s Republic of Korea (North Korea). For more information on entry to North Korea, please see the Entry requirements tab.
 
@@ -30,7 +30,7 @@ Citizens can also follow the Embassy on social media [**@IrishEmbKorea**](https:
 
 ### **Emergency Assistance**
 
-The best help is often close at hand so if you have problems or need emergency services, you will need to seek this information from local contacts, tour operator representative or hotel management.
+The best help is often found close at hand. If you have problems or need emergency services, you should seek information from local contacts, tour operator representatives or hotel management.
 
 ### **Our Tips for Safe Travels:**
 

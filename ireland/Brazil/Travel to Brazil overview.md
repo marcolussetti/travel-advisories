@@ -24,10 +24,7 @@ Visitors can contact the emergency services in Brazil by dialling the following 
 * Fire brigade:193
 * Ambulance:192
 
-Tourist Police who speak English are available in Rio de Janeiro, São Paulo and at some major airports:
-
-* Rio de Janeiro: (+21) 2334 6802 or (+21) 2332 2924
-* São Paulo: (+11) 3120 4167
+Tourist Police who speak English are available in Rio de Janeiro, São Paulo and at some major airports
 
 **Any Irish citizen requiring assistance should contact the Irish Embassy in Brasília or Consulate General in São Paulo. Irish citizens can also reach the out of hours emergency service by calling +55 61 3248 8800.**
 

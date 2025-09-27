@@ -25,7 +25,7 @@ Levels of crime against foreigners in North Korea are low and highly supervised 
 
 ### **Scams**
 
-We’ve seen examples of scams involving ‘property deals’ in North Korea. This should immediately arouse suspicion as it’s virtually impossible for foreigners to own property in the country.
+We’ve seen examples of scams involving ‘property deals’ in North Korea. This should immediately arouse suspicion as it is virtually impossible for foreigners to own property in the country.
 
 Other risks include being detained at international airports for currency violations; being held against your will; being involved in a road accident (frequently in or around the airport); needing unexpected legal or court fee payments; or hospitalisation.
 

@@ -8,6 +8,8 @@
 
 ### **Political Unrest**
 
+Violent protests have taken place in Antananarivo. Further protests and unrest are expected and may spread to other parts of Madagascar. A curfew is in place from 7 p.m. to 5 a.m. Please pay attention to your surroundings, stay away from crowds and large gatherings, monitor the local media, and follow instructions from the authorities.
+
 Madagascar has a history of political unrest, and the situation can be unpredictable. Due to the possibility of violence, you should avoid large gatherings and political demonstrations, and avoid the centre of Antananarivo.
 
 Always keep yourself informed by monitoring local media and staying in contact with your hotel or tour organiser. Avoid demonstrations and public gatherings, which can sometimes turn confrontational or violent.
