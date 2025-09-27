@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   20 August 2025
+:   27 September 2025
 
 Updated:
-:   19 August 2025
+:   26 September 2025
 
 Latest update:
-:   Updated information on the threat of terrorist attacks to roads (See ‘Road safety’ on the ‘Safety and security’ page).
+:   New information on the increased risk to LGBT+ travellers (See 'LGBT+ travellers' on the ‘Safety and security’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/6880fe502b6fd60b7c160f72/FCDO_TA_006_-_Burkina_Faso_Travel_Advice_Ed2_WEB.jpg)
 

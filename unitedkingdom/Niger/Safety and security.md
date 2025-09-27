@@ -135,11 +135,11 @@ Do not photograph military or government installations.
 
 ### LGBT+ travellers
 
-There is no law criminalising same-sex sexual activity in Niger. However, there are laws under the Penal Code of 1993 covering ‘public outrage against modesty’ and ‘immodest or unnatural acts’. An ‘unnatural act’ with a person of the same sex who is under the age of 21 can be punishable by a fine of up to 100,000 francs and up to 3 years imprisonment. Although we are not aware of any prosecutions under this legislation, attitudes within society towards LGBT+ people can be discriminatory.
+The official status of legislation affecting LGBT+ people is not clear. There have been reports of men and women being arrested for allegedly being in, or ‘promoting’, same-sex relationships. If convicted, such charges could lead to long prison sentences.
 
-There are no laws prohibiting discrimination on the basis of sexual orientation, and no legal recognition of same-sex couples.
+There is little to no public acceptance of LGBT+ people or identities in Niger. There is an increased risk of harassment or violence against anyone thought to be part of the LGBT+ community, or perceived to be supporting their rights.
 
-Read more [advice for LGBT+ travellers](https://www.gov.uk/lesbian-gay-bisexual-and-transgender-foreign-travel-advice).
+Read more [advice for LGBT+ travellers](https://www.gov.uk/lesbian-gay-bisexual-and-transgender-foreign-travel-advice).
 
 ## Transport risks
 

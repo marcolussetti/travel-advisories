@@ -117,9 +117,9 @@ Do not take pictures of military or other government installations.
 
 ### LGBT+ travellers
 
-Same-sex sexual activity is legal, however the government of Burkina Faso has announced their intention to criminalise it and plans for enforcement are uncertain.
+Same sex sexual activity and the ‘promotion’ of same-sex relationships is a criminal offence in Burkina Faso. If convicted, such charges could lead to prison sentences of up to 5 years.
 
-This announcement is likely to draw attention to this issue and increase the risk of violence and threats, such as blackmail and intimidation, against anyone thought to be part of the LGBT+ community or perceived to be supporting their rights.
+There is little to no public acceptance of LGBT+ people or identities in Burkina Faso. There is an increased risk of harassment or violence against anyone thought to be part of the LGBT+ community, or perceived to be supporting their rights.
 
 Read more [advice for LGBT+ travellers](https://www.gov.uk/lesbian-gay-bisexual-and-transgender-foreign-travel-advice).
 

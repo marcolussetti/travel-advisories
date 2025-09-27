@@ -1,21 +1,21 @@
 # Warnings and insurance
 
 Still current at:
-:   23 September 2025
+:   27 September 2025
 
 Updated:
-:   22 September 2025
+:   26 September 2025
 
 Latest update:
-:   New information on Typhoon Ragasa ('Warnings and insurance' page).
+:   Updated information about typhoons ('Warnings and insurance' page).
 
 This travel advice covers mainland China. See travel advice for the Special Administrative Regions, [Hong Kong](https://www.gov.uk/foreign-travel-advice/hong-kong) and [Macao](https://www.gov.uk/foreign-travel-advice/macao).
 
-## Typhoon Ragasa
+## Typhoons
 
-Typhoon Ragasa is expected to impact the following regions of southern China from Tuesday 23 September to Thursday 26 September: Guangxi, Guangzhou, Fujian and Hainan. There will likely be heavy rainfall causing disruption to services and possible flooding and landslides.
+The typhoon season in China normally runs from May to November, affecting southern and eastern coastal regions. Air travel and other forms of transport can be affected. Monitor the progress of approaching storms on the [Japan Meteorological Agency](http://www.jma.go.jp/en/typh/) and the [China Meteorological Administration](http://www.cma.gov.cn/en2014/) websites.
 
-Typhoons can change course and intensity. Monitor the [China Metrological Administration site](https://www.cma.gov.cn/en/forecast/news/202509/t20250922_7348924.html) and local typhoon alerts. Follow the advice of local authorities. If you are due to travel, check for messages from your travel provider.
+See [guidance on tropical cyclones](https://www.gov.uk/tropical-cyclones) for advice about what to do if you are caught in a typhoon.
 
 ## Before you travel
 

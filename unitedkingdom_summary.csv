@@ -32,7 +32,7 @@ British Indian Ocean Territory,2024-04-08T12:56:22+01:00,https://www.gov.uk/fore
 British Virgin Islands,2025-06-03T10:37:36+01:00,https://www.gov.uk/foreign-travel-advice/british-virgin-islands
 Brunei,2025-04-14T14:01:08+01:00,https://www.gov.uk/foreign-travel-advice/brunei
 Bulgaria,2025-07-30T15:04:55+01:00,https://www.gov.uk/foreign-travel-advice/bulgaria
-Burkina Faso,2025-08-19T10:48:02+01:00,https://www.gov.uk/foreign-travel-advice/burkina-faso
+Burkina Faso,2025-09-26T09:11:52+01:00,https://www.gov.uk/foreign-travel-advice/burkina-faso
 Burundi,2025-08-14T12:01:50+01:00,https://www.gov.uk/foreign-travel-advice/burundi
 Cambodia,2025-07-26T10:33:56+01:00,https://www.gov.uk/foreign-travel-advice/cambodia
 Cameroon,2025-08-19T15:59:06+01:00,https://www.gov.uk/foreign-travel-advice/cameroon
@@ -42,7 +42,7 @@ Cayman Islands,2024-07-24T16:11:29+01:00,https://www.gov.uk/foreign-travel-advic
 Central African Republic,2024-08-14T12:13:48+01:00,https://www.gov.uk/foreign-travel-advice/central-african-republic
 Chad,2025-08-22T09:23:14+01:00,https://www.gov.uk/foreign-travel-advice/chad
 Chile,2025-08-01T12:41:44+01:00,https://www.gov.uk/foreign-travel-advice/chile
-China,2025-09-22T16:21:04+01:00,https://www.gov.uk/foreign-travel-advice/china
+China,2025-09-26T16:41:43+01:00,https://www.gov.uk/foreign-travel-advice/china
 Colombia,2025-08-01T12:38:04+01:00,https://www.gov.uk/foreign-travel-advice/colombia
 Comoros,2025-01-29T17:19:36+00:00,https://www.gov.uk/foreign-travel-advice/comoros
 Congo,2025-01-20T12:54:37+00:00,https://www.gov.uk/foreign-travel-advice/congo
@@ -89,7 +89,7 @@ Guinea-Bissau,2024-04-10T09:59:54+01:00,https://www.gov.uk/foreign-travel-advice
 Guyana,2025-09-22T16:53:40+01:00,https://www.gov.uk/foreign-travel-advice/guyana
 Haiti,2024-10-15T14:18:15+01:00,https://www.gov.uk/foreign-travel-advice/haiti
 Honduras,2025-05-20T09:42:11+01:00,https://www.gov.uk/foreign-travel-advice/honduras
-Hong Kong,2025-09-22T16:21:25+01:00,https://www.gov.uk/foreign-travel-advice/hong-kong
+Hong Kong,2025-09-26T16:41:39+01:00,https://www.gov.uk/foreign-travel-advice/hong-kong
 Hungary,2025-08-07T14:23:17+01:00,https://www.gov.uk/foreign-travel-advice/hungary
 Iceland,2025-07-30T15:04:47+01:00,https://www.gov.uk/foreign-travel-advice/iceland
 India,2025-08-27T16:59:01+01:00,https://www.gov.uk/foreign-travel-advice/india
@@ -117,8 +117,8 @@ Libya,2025-06-13T12:39:12+01:00,https://www.gov.uk/foreign-travel-advice/libya
 Liechtenstein,2025-08-07T14:25:11+01:00,https://www.gov.uk/foreign-travel-advice/liechtenstein
 Lithuania,2025-07-30T15:09:00+01:00,https://www.gov.uk/foreign-travel-advice/lithuania
 Luxembourg,2025-07-30T15:12:53+01:00,https://www.gov.uk/foreign-travel-advice/luxembourg
-Macao,2025-09-22T16:21:43+01:00,https://www.gov.uk/foreign-travel-advice/macao
-Madagascar,2025-09-25T22:36:21+01:00,https://www.gov.uk/foreign-travel-advice/madagascar
+Macao,2025-09-26T16:41:34+01:00,https://www.gov.uk/foreign-travel-advice/macao
+Madagascar,2025-09-26T22:28:49+01:00,https://www.gov.uk/foreign-travel-advice/madagascar
 Malawi,2025-09-18T12:50:40+01:00,https://www.gov.uk/foreign-travel-advice/malawi
 Malaysia,2025-04-15T12:09:35+01:00,https://www.gov.uk/foreign-travel-advice/malaysia
 Maldives,2025-04-02T09:50:49+01:00,https://www.gov.uk/foreign-travel-advice/maldives
@@ -145,7 +145,7 @@ Netherlands,2025-07-30T15:14:37+01:00,https://www.gov.uk/foreign-travel-advice/n
 New Caledonia,2025-04-02T16:23:14+01:00,https://www.gov.uk/foreign-travel-advice/new-caledonia
 New Zealand,2025-08-01T12:40:03+01:00,https://www.gov.uk/foreign-travel-advice/new-zealand
 Nicaragua,2025-01-09T15:56:50+00:00,https://www.gov.uk/foreign-travel-advice/nicaragua
-Niger,2025-09-11T16:36:18+01:00,https://www.gov.uk/foreign-travel-advice/niger
+Niger,2025-09-26T09:12:14+01:00,https://www.gov.uk/foreign-travel-advice/niger
 Nigeria,2025-09-02T09:01:02+01:00,https://www.gov.uk/foreign-travel-advice/nigeria
 North Korea,2024-09-20T15:13:42+01:00,https://www.gov.uk/foreign-travel-advice/north-korea
 North Macedonia,2025-07-08T12:51:41+01:00,https://www.gov.uk/foreign-travel-advice/north-macedonia
@@ -158,7 +158,7 @@ Panama,2025-08-21T16:46:28+01:00,https://www.gov.uk/foreign-travel-advice/panama
 Papua New Guinea,2025-09-24T09:34:44+01:00,https://www.gov.uk/foreign-travel-advice/papua-new-guinea
 Paraguay,2025-01-16T14:13:14+00:00,https://www.gov.uk/foreign-travel-advice/paraguay
 Peru,2025-09-17T19:53:34+01:00,https://www.gov.uk/foreign-travel-advice/peru
-Philippines,2025-09-22T16:20:45+01:00,https://www.gov.uk/foreign-travel-advice/philippines
+Philippines,2025-09-26T16:46:00+01:00,https://www.gov.uk/foreign-travel-advice/philippines
 Pitcairn Island,2025-03-27T16:14:53+00:00,https://www.gov.uk/foreign-travel-advice/pitcairn-island
 Poland,2025-09-25T16:00:12+01:00,https://www.gov.uk/foreign-travel-advice/poland
 Portugal,2025-09-25T11:52:25+01:00,https://www.gov.uk/foreign-travel-advice/portugal
@@ -198,7 +198,7 @@ Suriname,2025-07-03T13:04:25+01:00,https://www.gov.uk/foreign-travel-advice/suri
 Sweden,2025-08-18T15:45:28+01:00,https://www.gov.uk/foreign-travel-advice/sweden
 Switzerland,2025-08-07T14:30:17+01:00,https://www.gov.uk/foreign-travel-advice/switzerland
 Syria,2025-08-29T16:30:31+01:00,https://www.gov.uk/foreign-travel-advice/syria
-Taiwan,2025-09-19T16:36:55+01:00,https://www.gov.uk/foreign-travel-advice/taiwan
+Taiwan,2025-09-26T16:44:17+01:00,https://www.gov.uk/foreign-travel-advice/taiwan
 Tajikistan,2025-06-17T10:16:24+01:00,https://www.gov.uk/foreign-travel-advice/tajikistan
 Tanzania,2025-09-08T15:04:15+01:00,https://www.gov.uk/foreign-travel-advice/tanzania
 Thailand,2025-07-26T10:33:48+01:00,https://www.gov.uk/foreign-travel-advice/thailand

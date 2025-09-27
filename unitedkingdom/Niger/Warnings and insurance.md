@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   12 September 2025
+:   27 September 2025
 
 Updated:
-:   11 September 2025
+:   26 September 2025
 
 Latest update:
-:   New information on how to apply for a visa ('Entry requirements' page).
+:   New information on the increased risk to LGBT+ travellers (See 'LGBT+ travellers' on the ‘Safety and security’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/66c48e1c2e8f04b086cdf445/FCDO__TA__029_-_Niger_Travel_Advice_Ed3__WEB_.jpg)
 

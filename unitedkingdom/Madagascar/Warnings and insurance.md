@@ -1,17 +1,26 @@
 # Warnings and insurance
 
 Still current at:
-:   26 September 2025
+:   27 September 2025
 
 Updated:
-:   25 September 2025
+:   26 September 2025
 
 Latest update:
-:   Update following violent disorder in Antananarivo on 25 September (Warnings and Insurance page)
+:   FCDO now advises against all but essential travel to Madagascar.
+
+![](https://assets.publishing.service.gov.uk/media/68d70494ef1c2f72bc1e4b27/FCDO__TA__102_-_Madagascar_Travel_Advice_Ed1__WEB_.jpg)
+
+
+[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/68d70616dadf7616351e4b32/FCDO__TA__102_-_Madagascar_Travel_Advice_Ed1.pdf)
+
+Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
+
+The FCDO advises against all but essential travel to Madagascar
 
 ## Protests in Antananarivo
 
-Protests and violent disorder have taken place in Antananarivo with some significant incidents of violence, including looting. Further protests and disorder are expected and may spread to other parts of Madagascar. Please follow local advice and avoid large gatherings and political demonstrations.
+Protests and violent disorder have taken place in Antananarivo with some significant incidents of violence, including looting. Roads to Antananarivo airport have sometimes been blocked by protests and some internal and international flights have been cancelled. Further protests and disorder are expected and may spread to other parts of Madagascar. The government has imposed an overnight curfew in Antananarivo. If you are currently in Madagascar, follow local advice and avoid large gatherings and political demonstrations. Check for messaging from your airline or tour operator before travelling to an airport.
 
 ## Before you travel
 

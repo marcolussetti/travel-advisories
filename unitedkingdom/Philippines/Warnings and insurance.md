@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   23 September 2025
+:   27 September 2025
 
 Updated:
-:   22 September 2025
+:   26 September 2025
 
 Latest update:
-:   New information on Typhoon Ragasa and updated information about demonstrations ('Warnings and insurance' page).
+:   Updated information about tropical storm season ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/616406778fa8f52980d9301c/FCDO__TA__033_-_Philippines_Travel_Advice_Ed2__WEB_.jpg)
 
@@ -32,11 +32,9 @@ This advice is due to terrorist activity and clashes between the military and in
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/philippines/safety-and-security#terrorism).
 
-## Typhoon Ragasa
+## Tropical storm season
 
-Typhoon Ragasa is currently expected to bring heavy rainfall and devastating wind impacts to the Batanes or Babuyan Islands in the northern Philippines from Monday 22 to Tuesday 23 September.
-
-Typhoons can change course and intensity. Follow the advice of local authorities, and monitor the progress of storms on the [Philippines state weather agency](http://www.pagasa.dost.gov.ph/) and the [Philippines Disaster Risk Reduction and Management Council](http://www.ndrrmc.gov.ph/index.php). You can find updates on [typhoon2000.ph](http://www.typhoon2000.ph/), or follow [@Typhoon2k](https://twitter.com/Typhoon2k) on X. If you are due to travel, check for messages from your travel provider.
+Around 20 typhoons hit the Philippines each year. Most typhoons happen between June and November. Follow the advice of local authorities, and monitor the progress of storms on the [Philippines state weather agency](http://www.pagasa.dost.gov.ph/) and the [Philippines Disaster Risk Reduction and Management Council](http://www.ndrrmc.gov.ph/index.php). You can find updates on [typhoon2000.ph](http://www.typhoon2000.ph/), or follow [@Typhoon2k](https://twitter.com/Typhoon2k) on X.
 
 ## Demonstrations
 
