@@ -2,10 +2,6 @@
 
 ## Entry and exit requirements
 
-German authorities may conduct controls at all land border crossings until September 15, 2025. You may be asked to present your travel documents when you enter Germany from within the Schengen area.
-
-[More information on temporary border controls](#controls)
-
 The authorities of a country or territory decide who can enter or exit through its borders. The Government of Canada cannot intervene on your behalf if you do not meet your destination’s entry or exit requirements.
 
 We have obtained the information on this page from the German authorities. It can, however, change at any time.
@@ -27,20 +23,17 @@ You won’t need to take any action before you travel. The EES will collect info
 
 ### Schengen area
 
-Canadian citizens do not need a visa for travel to countries within the Schengen area. However, visa-free travel only applies to stays of up to 90 days in any 180-day period. Stays are cumulative and include visits to any Schengen area country.
+Germany is a Schengen area country. Canadian citizens do not need a visa for travel to countries within the Schengen area. However, visa-free travel only applies to stays of up to 90 days in any 180-day period. Stays are cumulative and include visits to any Schengen area country.
 
-If you plan to stay in the Schengen area for a longer period of time, you will need a visa. You must contact the high commission or embassy of the country or countries you are travelling to and obtain the appropriate visa(s) prior to travel.
+Member states may reintroduce temporary controls at internal border crossings within the Schengen area. You may be required to pass through immigration controls when entering Germany, even if arriving from another Schengen area country. Verify if temporary border controls are in effect before you travel to Germany.
+
+If you plan to stay in the Schengen area for a longer period of time, you will need a visa. You must contact the high commission or embassy of the country or countries you are travelling to and obtain the appropriate visa(s) before your departure.
 
 #### Useful links
 
 * [Schengen area](https://travel.gc.ca/travelling/schengen-area)
 * [Foreign Representatives in Canada](http://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng)
-
-### Temporary border controls
-
-The German government has reintroduced internal border controls at certain border crossings. You may be required to pass through immigration controls when entering Germany, even if arriving from another Schengen area country.
-
-[Temporary reintroduction of Border Control](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area/temporary-reintroduction-border-control_en) – Migration and Home Affairs, European Commission
+* [Temporary Reintroduction of Border Control](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area/temporary-reintroduction-border-control_en) – European Commission
 
 ### Passport
 

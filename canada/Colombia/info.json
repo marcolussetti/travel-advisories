@@ -1,7 +1,7 @@
 {
     "name": "Colombia",
-    "update_reason": "Entry and exit requirements \u2013 updated information on passports",
-    "update_date": "2025-09-23T12:10:00",
+    "update_reason": "Editorial change",
+    "update_date": "2025-09-26T20:05:00",
     "sections": {
         "risk": "canada/Colombia/risk.md",
         "security": "canada/Colombia/security.md",

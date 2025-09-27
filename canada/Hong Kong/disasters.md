@@ -2,30 +2,6 @@
 
 ## Natural disasters and climate
 
-### Typhoon Ragasa
-
-On September 23, 2025, Typhoon Ragasa swept past Hong Kong.
-
-It caused landslides, flooding and significant damage, and could severely disrupt the following essential services:
-
-* transportation
-* power distribution
-* water and food supply
-* telecommunications networks
-* emergency services
-* medical care
-
-Hong Kong International Airport's operations may be significantly impacted, with several flights cancelled or delayed.
-
-If you are in the affected area:
-
-* exercise caution
-* monitor local news and weather reports
-* follow the instructions of local authorities
-* check with your airline before going to the airport to see if your flight is delayed or cancelled
-
-[Weather forecast and warnings](https://www.hko.gov.hk/en/index.html) – Hong Kong Observatory
-
 ### Climate change
 
 Climate change is affecting Hong Kong. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local media for the latest information.

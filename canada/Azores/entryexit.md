@@ -8,16 +8,32 @@ We have obtained the information on this page from Portuguese authorities. It ca
 
 Verify this information with the [Foreign Representatives in Canada](https://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng).
 
+### Entry/Exit System (EES)
+
+The Entry/Exit System (EES) begins operations on October 12, 2025.
+
+The EES is an automated registration system for travellers from countries outside the European Union or the Schengen area. You will be required to register through this system upon arrival at the border of any of the 29 countries in the Schengen area.
+
+You won’t need to take any action before you travel. The EES will collect information about your trip as well as your facial image and fingerprints.
+
+#### Useful links
+
+* [Travelling to Europe](https://travel.gc.ca/travelling/travelling-europe)
+* [Entry/Exit System (EES)](https://travel-europe.europa.eu/ees/ltr) – European Union
+
 ### Schengen area
 
-The Azores are in the Schengen area. Canadian citizens do not need a visa for travel to countries within the Schengen area. However, visa-free travel only applies to stays of up to 90 days in any 180-day period. Stays are cumulative and include visits to any Schengen area country.
+The Azores are in the Schengen area. Canadian citizens do not need a visa for travel to countries within the Schengen area. However, visa-free travel only applies to stays of up to 90 days in any 180-day period. Stays are cumulative and include visits to any Schengen area country.
 
-If you plan to stay in the Schengen area for a longer period of time, you will need a visa. You must contact the high commission or embassy of the country or countries you are travelling to and obtain the appropriate visa(s) prior to travel.
+Member states may reintroduce temporary controls at internal border crossings within the Schengen area. You may be required to pass through immigration controls when entering the Azores, even if arriving from another Schengen area country. Verify if temporary border controls are in effect before you travel to the Azores.
+
+If you plan to stay in the Schengen area for a longer period of time, you will need a visa. You must contact the high commission or embassy of the country or countries you are travelling to and obtain the appropriate visa(s) before your departure.
 
 #### Useful links
 
 * [Schengen area](https://travel.gc.ca/travelling/schengen-area)
 * [Foreign Representatives in Canada](http://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng)
+* [Temporary Reintroduction of Border Control](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area/temporary-reintroduction-border-control_en) – European Commission
 
 ### Passport
 

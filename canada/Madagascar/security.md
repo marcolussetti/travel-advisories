@@ -2,17 +2,22 @@
 
 ## Safety and security
 
-### Demonstrations in Antananarivo
+### Demonstrations in Madagascar
 
-On September 25, 2025, violent demonstrations and gunfire in Antananarivo resulted in casualties.
+On September 25, 2025, violent demonstrations broke out in Antananarivo and several major cities across Madagascar.
+
+Violent incidents, including shootings and looting, have led to casualties.
 
 Barricades have been set up, disrupting traffic and public transportation.
 
-Local authorities have imposed a dusk until dawn curfew in Antananarivo. Further curfews and restrictions on movement could be imposed without notice.
+Antananarivo-Ivato International Airport remains open, however several flights have been canceled.
 
-If you are in Antananarivo:
+Local authorities have imposed a dusk until dawn curfew in Antananarivo and in most major cities. Further curfews and restrictions on movement could be imposed without notice.
 
-* contact with your airline before going to the airport to confirm with travel plans
+If you are in Madagascar:
+
+* shelter in place
+* contact your airline before going to the airport to confirm your travel plans, and only proceed if it is safe to do so
 * stay away from demonstrations
 * expect heavy security measures and increased security presence
 * monitor local media for the latest information

@@ -2,27 +2,6 @@
 
 ## Natural disasters and climate
 
-### Hurricane Gabrielle
-
-Hurricane Gabrielle is expected to sweep through Azores between September 25 and 26, 2025.
-
-The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
-
-* transportation
-* power distribution
-* water and food supply
-* telecommunications networks
-* emergency services
-* medical care
-
-If you are in the Azores:
-
-* exercise caution
-* monitor local news and weather reports
-* follow the instructions of local authorities
-
-[Latest advisories](http://www.nhc.noaa.gov/) – U.S. National Hurricane Centre
-
 ### Climate change
 
 Climate change is affecting the Azores. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local media for the latest information.
