@@ -82,9 +82,13 @@ The legal alcohol limit when driving is the same as in England, but this law is 
 
 ### Hurricanes
 
-The hurricane season in The Bahamas normally runs from 1 June to 30 November. Hurricanes and resulting floods in The Bahamas can be deadly. The department of meteorology advises residents and visitors in north-west and central Bahamas (including Nassau) to make hurricane preparations. Due to the risk of flight cancellation, local residents tend to make departure plans well in advance of a possible evacuation order.
+The hurricane season in The Bahamas normally runs from 1 June to 30 November. Hurricanes and resulting floods in The Bahamas can be deadly. In preparation for a hurricane, make sure your residence is secure, you have sufficient drinking water and access to life jackets in case there is a tidal surge.
 
-In preparation for a hurricane, make sure your residence is secure, you have sufficient drinking water and access to life jackets in case there is a tidal surge.
+The Government of The Bahamas issues wireless emergency alerts directly to mobile phones and provides updates on the [Bahamas Department of Meteorology website](https://met.gov.bs/)
+
+Official shelters can be found [here](https://getready.gov.bs/wp-content/uploads/2025/05/2025-Hurricane-Shelter-List-DIR-20052025.pdf)
+
+Due to the risk of flight cancellation, local residents tend to make departure plans well in advance of a possible evacuation order.
 
 Follow local weather updates and monitor approaching storms on the [US National Hurricane Center website](https://www.nhc.noaa.gov/).
 

@@ -1,13 +1,23 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   28 September 2025
 
 Updated:
-:   12 December 2024
+:   28 September 2025
 
 Latest update:
-:   This travel advice has been reviewed for accuracy. There were no significant updates.
+:   Addition of information on hurricane season (‘Warnings and insurance’ page and ‘Safety and security’ page).
+
+## Hurricanes
+
+The hurricane season in The Bahamas normally runs from 1 June to 30 November. Please stay updated on local news, and follow all advice and orders issued by the Government and local authorities.
+
+The Government of The Bahamas issues wireless emergency alerts, including evacuation orders, directly to mobile phones and provides updates on the [Bahamas Department of Meteorology website](https://met.gov.bs/)
+
+Travel disruption, including at airports, are likely at short notice.
+
+More information is available on the [‘Security and safety’ page](https://www.gov.uk/foreign-travel-advice/bahamas/safety-and-security)
 
 ## Before you travel
 
