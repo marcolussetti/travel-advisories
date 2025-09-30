@@ -1,13 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   31 July 2025
+:   30 September 2025
 
 Updated:
-:   30 July 2025
+:   29 September 2025
 
 Latest update:
-:   Updated information on new Schengen entry requirements being introduced from 12 October ('Entry requirements' page)
+:   New information about flight disruption (‘Warnings and insurance’ page).
+
+## Flight disruption
+
+Play Airlines has ceased operation. [Visit the Play Airlines website for more information](https://www.flyplay.com/en/news/important-information). If you were due to travel with Play Airlines, check with alternative airlines for a replacement flight.
 
 ## Volcanic eruptions
 

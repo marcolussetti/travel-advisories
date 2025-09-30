@@ -51,7 +51,7 @@ Read about [passport stamping if you live in Iceland.](https://www.gov.uk/guida
 
 From 12 October 2025, the European Union’s (EU) new Entry/Exit System (EES) will begin. When travelling into and out of the Schengen area, for short stays, you may need to:
 
-* have you fingerprints and your photo taken
+* have your fingerprints and your photo taken
 * answer the Schengen Border Code questions
 
 If you enter the Schengen area through the Port of Dover, Eurotunnel at Folkestone or St Pancras International, this information will be taken at the border, before you leave the UK. You may also need to provide either your fingerprint or photo when you leave the Schengen area.

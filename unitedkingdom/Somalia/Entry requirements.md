@@ -16,10 +16,11 @@ You will be denied entry if you do not have a valid travel document or try to us
 
 You must have a visa to enter Somalia, including Somaliland.
 
-You can get a single-entry visa, valid for one month, for 60 US dollars when you arrive at:
+If you are travelling to Mogadishu International Airport, you will need to apply for an [eVisa](https://etas.gov.so/) prior to your arrival.
 
-* Mogadishu International Airport
-* Hargeisa International Airport
+If you are travelling to Hargeisa International Airport, you may still be asked to present this [eVisa](https://etas.gov.so/) in order to board your flight but it will not be considered valid for entry when you arrive in Hargeisa.
+
+You will need to purchase a single-entry visa upon arrival at Hargeisa International Airport, which will be valid for one month.
 
 It is not clear if you’ll be given a visa on arrival at other points of entry. Get confirmation from local authorities or your sponsoring organisation.
 

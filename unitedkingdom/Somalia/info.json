@@ -1,11 +1,11 @@
 {
     "name": "Somalia",
-    "update_reason": "Updated information for British nationals in Somalia about the high threat of kidnap across Somalia, including in Gedo Region  ('Warnings and insurance' page).",
+    "update_reason": "New information about the new eVisa system (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Somalia/Warnings and insurance.md",
-            "update_date": "2025-09-20T22:33:20+01:00"
+            "update_date": "2025-09-29T15:29:13+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Somalia/Getting help.md"
         }
     ],
-    "update_date": "2025-09-20T22:33:20+01:00"
+    "update_date": "2025-09-29T15:29:13+01:00"
 }

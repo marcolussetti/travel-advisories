@@ -1,17 +1,19 @@
 # Warnings and insurance
 
 Still current at:
-:   1 April 2025
+:   30 September 2025
 
 Updated:
-:   31 March 2025
+:   29 September 2025
 
 Latest update:
-:   Updated information on cost of visa needed to enter Namibia (‘Entry requirements’ page).
+:   New information about forest fires in Etosha National Park (‘Warnings and insurance’ page).
 
-## New visa on arrival scheme for UK nationals
+## Forest fires in Etosha National Park
 
-From 1 April there will be a new visa on arrival scheme for UK nationals visiting Namibia. Visas will be available to purchase on arrival at Namibian entry points, or can be applied for via a new online portal before travel to Namibia. [See Entry requirements page](https://www.gov.uk/foreign-travel-advice/namibia/entry-requirements).
+Namibian authorities are currently tackling a large fire that broke out within the Etosha National Park.
+
+If you are planning to visit the Etosha National Park, check for messaging from your travel provider for the latest information about access to the Park. Follow the instructions and advice of the Namibian authorities while inside or in the vicinity of the Park.
 
 ## Before you travel
 

@@ -1,11 +1,11 @@
 {
     "name": "Laos",
-    "update_reason": "Removal of information about Storm Kajiki.",
+    "update_reason": "Updated information about monsoon ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Laos/Warnings and insurance.md",
-            "update_date": "2025-08-29T12:10:25+01:00"
+            "update_date": "2025-09-29T14:16:36+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Laos/Getting help.md"
         }
     ],
-    "update_date": "2025-08-29T12:10:25+01:00"
+    "update_date": "2025-09-29T14:16:36+01:00"
 }

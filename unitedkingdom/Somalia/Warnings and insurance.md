@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   21 September 2025
+:   30 September 2025
 
 Updated:
-:   20 September 2025
+:   29 September 2025
 
 Latest update:
-:   Updated information for British nationals in Somalia about the high threat of kidnap across Somalia, including in Gedo Region ('Warnings and insurance' page).
+:   New information about the new eVisa system (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/61a63d6be90e07044b1ef4b5/s.jpg)
 
@@ -45,7 +45,7 @@ The government of Somalia and the authorities in Somaliland will consider any Br
 
 ## Risk of Kidnap
 
-There is a high risk of kidnapping across Somalia, including in and around Gedo Region. Foreign nationals, including British nationals are seen as legitimate targets
+There is a high risk of kidnapping across Somalia, including in and around Gedo Region. Foreign nationals, including British nationals are seen as legitimate targets.
 
 ## Before you travel
 
