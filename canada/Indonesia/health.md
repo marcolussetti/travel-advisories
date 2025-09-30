@@ -12,27 +12,6 @@ This section has information and advice about health risks you might face when t
 
 It's best to talk to a healthcare provider or visit a travel health clinic preferably 6 weeks before your trip to get personalized health advice. Even if your travel date is coming up soon, it's still worthwhile to make an appointment.
 
-### Outbreak Monitoring
-
-#### Rabies in Indonesia
-
-There is an increase in rabies cases in both dogs and humans in Bali, Indonesia, particularly in Jembrana Regency and the South Kuta and Mengwi Districts of Badung Regency.
-
-Rabies is a disease that is deadly if people don't receive medical care before symptoms start. People usually get rabies from bites or scratches from an infected animal. Travellers are more at risk if they spend time around stray (free-roaming) dogs. Children are especially at risk.
-
-There is a vaccine to help protect against rabies. Before you travel, talk to your health care provider or visit a travel health clinic to find out if you should be vaccinated before you leave Canada. Rabies treatment may be hard to find in Indonesia. If you’re bitten or scratched while travelling, you may need to return to Canada for treatment.
-
-While in Bali:
-
-* stay away from free-roaming dogs and other animals, and watch children closely when around animals
-* thoroughly clean any bites or scratches immediately with soap and water
-* get medical help immediately if you are bitten or scratched
-
-**Learn more:**
-
-[Rabies: Symptoms and treatment](https://www.canada.ca/en/public-health/services/diseases/rabies.html)  
-[Rabies: Prevention and risks](https://www.canada.ca/en/public-health/services/diseases/rabies/prevention.html)
-
 ### Routine vaccines
 
 Make sure your routine vaccinations are up-to-date before you travel, no matter where you’re going.
@@ -127,7 +106,14 @@ Malaria
 **There is a risk of malaria in certain areas and/or during a certain time of year in this destination.**
 
 [Antimalarial medication may be recommended](https://www.canada.ca/en/public-health/services/catmat/appendix-1-malaria-risk-recommended-chemoprophylaxis-geographic-area.html) depending on your itinerary and the time of year you are travelling. Consult a health care professional or visit a travel health clinic before travelling to discuss your options. It is recommended to do this 6 weeks before travel, however, it is still a good idea any time before leaving.   
- 
+   
+[Protect yourself from mosquito bites](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html) at all times:   
+• Cover your skin and use an [approved](https://www.canada.ca/en/health-canada/services/about-pesticides/insect-repellents.html) insect repellent on uncovered skin.   
+• Exclude mosquitoes from your living area with screening and/or closed, well-sealed doors and windows.  
+• Use insecticide-treated bed nets if mosquitoes cannot be excluded from your living area.   
+• Wear permethrin-treated clothing.   
+   
+If you develop [symptoms](https://www.canada.ca/en/public-health/services/diseases/malaria/symptoms-malaria.html) similar to malaria when you are travelling or up to a year after you return home, see a health care professional immediately. Tell them where you have been travelling or living.
 
 Rabies 
 

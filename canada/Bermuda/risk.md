@@ -2,6 +2,6 @@
 
 ## Risk level
 
-### Bermuda - Take normal security precautions
+### Bermuda - AVOID NON-ESSENTIAL TRAVEL
 
-[Take normal security precautions](#levels "Risk Levels") in Bermuda.
+[Avoid non-essential travel](#levels "Risk Levels") to Bermuda due to Tropical Storm Imelda.

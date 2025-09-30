@@ -1,7 +1,7 @@
 {
     "name": "Brazil",
-    "update_reason": "Entry and exit requirements \u2013 updated information on passports",
-    "update_date": "2025-09-23T12:10:00",
+    "update_reason": "The Need help? section was updated.",
+    "update_date": "2025-09-29T10:13:00",
     "sections": {
         "risk": "canada/Brazil/risk.md",
         "security": "canada/Brazil/security.md",

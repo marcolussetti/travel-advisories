@@ -4,11 +4,11 @@
 
 ### Demonstrations in Madagascar
 
-On September 25, 2025, violent demonstrations broke out in Antananarivo and several major cities across Madagascar.
+Since September 25, 2025, violent demonstrations are taking place in Antananarivo and several major cities across Madagascar.
 
-Violent incidents, including shootings and looting, have led to casualties.
+Violent incidents, including shootings and looting, have resulted in casualties.
 
-Barricades have been set up, disrupting traffic and public transportation.
+Ongoing calls for demonstrations may extend this period of instability. Demonstrations can also lead to disruptions to traffic and public transportation.
 
 Antananarivo-Ivato International Airport remains open, however several flights have been canceled.
 

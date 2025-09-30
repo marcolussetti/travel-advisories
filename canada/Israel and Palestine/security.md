@@ -2,6 +2,12 @@
 
 ## Safety and security
 
+On September 26, 2025, the Allenby/King Hussein Bridge border crossing reopened.
+
+Verify the status of border crossings ahead of time.
+
+[For more information on travel to and from Jordan](#traveljordan)
+
 ### Tensions in the Middle East
 
 There are ongoing tensions in the region. Hostilities could resume with little or no warning. During previous attacks, missiles, drones and other projectiles have struck targets in Israel and Palestine.

@@ -1,7 +1,7 @@
 {
     "name": "Germany",
-    "update_reason": "Editorial change",
-    "update_date": "2025-09-26T11:56:00",
+    "update_reason": "The Need help? section was updated.",
+    "update_date": "2025-09-29T14:26:00",
     "sections": {
         "risk": "canada/Germany/risk.md",
         "security": "canada/Germany/security.md",

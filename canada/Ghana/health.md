@@ -58,6 +58,41 @@ Travellers get vaccinated either because it is required to enter a country or be
 [Yellow Fever Vaccination Centres in Canada](https://www.canada.ca/en/public-health/services/travel-health/yellow-fever.html#select-centre)  
 \* It is important to note that [country entry requirements](https://www.who.int/publications/m/item/vaccination-requirements-and-recommendations-for-international-travellers-and-malaria-situation-per-country-2022-edition "Link to External Site") may not reflect your risk of yellow fever at your destination. It is recommended that you contact the nearest [diplomatic or consular office](http://www.international.gc.ca/protocol-protocole/reps.aspx?view=d "Link to External Site") of the destination(s) you will be visiting to verify any additional entry requirements.
 
+Malaria 
+
+[Malaria](https://www.canada.ca/en/public-health/services/diseases/malaria.html) is a serious and sometimes fatal disease that is caused by parasites spread through the bites of mosquitoes.
+
+**Malaria is a risk to travellers to this destination.**  
+   
+[Antimalarial medication is recommended](https://www.canada.ca/en/public-health/services/catmat/appendix-1-malaria-risk-recommended-chemoprophylaxis-geographic-area.html) for most travellers to this destination and should be taken as recommended. Consult a health care professional or visit a travel health clinic before travelling to discuss your options. It is recommended to do this 6 weeks before travel, however, it is still a good idea any time before leaving.   
+   
+[Protect yourself from mosquito bites](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html) at all times:
+
+* Cover your skin and use an [approved](https://www.canada.ca/en/health-canada/services/about-pesticides/insect-repellents.html) insect repellent on uncovered skin.
+* Exclude mosquitoes from your living area with screening and/or closed, well-sealed doors and windows.
+* Use insecticide-treated bed nets if mosquitoes cannot be excluded from your living area.
+* Wear permethrin-treated clothing.
+
+ If you develop [symptoms](https://www.canada.ca/en/public-health/services/diseases/malaria/symptoms-malaria.html) similar to malaria when you are travelling or up to a year after you return home, see a health care professional immediately. Tell them where you have been travelling or living.
+
+Rabies 
+
+In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/diseases/rabies) is commonly carried by dogs and some wildlife, including bats. Rabies is a deadly disease that spreads to humans primarily through bites or scratches from an infected animal. While travelling, take [precautions](https://www.canada.ca/en/public-health/services/diseases/rabies/prevention.html), including keeping your distance from animals (including free-roaming dogs), and closely supervising children.
+
+If you are bitten or scratched by a dog or other animal while travelling, immediately wash the wound with soap and clean water and see a health care professional. **In this destination, rabies treatment may be limited or may not be available, therefore you may need to return to Canada for treatment.**
+
+Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who are at high risk of exposure (e.g., occupational risk such as veterinarians and wildlife workers, children, adventure travellers and spelunkers, and others in close contact with animals).
+
+Polio 
+
+[Polio](https://travel.gc.ca/travelling/health-safety/diseases/polio) (poliomyelitis) is an infectious disease that can be prevented by vaccination. It is caused by poliovirus type 1, 2 or 3. Circulating vaccine-derived poliovirus 2 (cVDPV2) is present in this country.
+
+Polio is spread from person to person and through contaminated food and water. Infection with the polio virus can cause paralysis and death in individuals of any age who are not immune.
+
+**Recommendations:**
+
+* Be sure that your polio vaccinations are up to date before travelling. Polio is part of the [routine vaccine schedule](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-1-key-immunization-information/page-13-recommended-immunization-schedules.html#p1c12a2) for children in Canada.
+* One booster dose of the polio vaccine is recommended as an [adult](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-3-vaccination-specific-populations/page-9-immunization-travellers.html#a3).
 Measles 
 
 Measles is a serious viral infection that spreads easily. It spreads through the air, and can stay in the air for up to 2 hours. You can also get measles by direct contact with an infected person or by touching a surface with the virus on it and then touching your eyes, nose, or mouth before washing your hands.
@@ -94,41 +129,6 @@ This destination is in the African Meningitis Belt, an area which has the highes
 
 Travellers who are at higher risk should discuss vaccination with a health care provider. High-risk travellers include those living or working with the local population (e.g., health care workers) or those travelling to crowded areas or taking part in large gatherings.
 
-Malaria 
-
-[Malaria](https://www.canada.ca/en/public-health/services/diseases/malaria.html) is a serious and sometimes fatal disease that is caused by parasites spread through the bites of mosquitoes.
-
-**Malaria is a risk to travellers to this destination.**  
-   
-[Antimalarial medication is recommended](https://www.canada.ca/en/public-health/services/catmat/appendix-1-malaria-risk-recommended-chemoprophylaxis-geographic-area.html) for most travellers to this destination and should be taken as recommended. Consult a health care professional or visit a travel health clinic before travelling to discuss your options. It is recommended to do this 6 weeks before travel, however, it is still a good idea any time before leaving.   
-   
-[Protect yourself from mosquito bites](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html) at all times:
-
-* Cover your skin and use an [approved](https://www.canada.ca/en/health-canada/services/about-pesticides/insect-repellents.html) insect repellent on uncovered skin.
-* Exclude mosquitoes from your living area with screening and/or closed, well-sealed doors and windows.
-* Use insecticide-treated bed nets if mosquitoes cannot be excluded from your living area.
-* Wear permethrin-treated clothing.
-
- If you develop [symptoms](https://www.canada.ca/en/public-health/services/diseases/malaria/symptoms-malaria.html) similar to malaria when you are travelling or up to a year after you return home, see a health care professional immediately. Tell them where you have been travelling or living.
-
-Rabies 
-
-In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/diseases/rabies) is commonly carried by dogs and some wildlife, including bats. Rabies is a deadly disease that spreads to humans primarily through bites or scratches from an infected animal. While travelling, take [precautions](https://www.canada.ca/en/public-health/services/diseases/rabies/prevention.html), including keeping your distance from animals (including free-roaming dogs), and closely supervising children.
-
-If you are bitten or scratched by a dog or other animal while travelling, immediately wash the wound with soap and clean water and see a health care professional. **In this destination, rabies treatment may be limited or may not be available, therefore you may need to return to Canada for treatment.**
-
-Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who are at high risk of exposure (e.g., occupational risk such as veterinarians and wildlife workers, children, adventure travellers and spelunkers, and others in close contact with animals).
-
-Polio 
-
-[Polio](https://travel.gc.ca/travelling/health-safety/diseases/polio) (poliomyelitis) is an infectious disease that can be prevented by vaccination. It is caused by poliovirus type 1, 2 or 3. Circulating vaccine-derived poliovirus 2 (cVDPV2) is present in this country.
-
-Polio is spread from person to person and through contaminated food and water. Infection with the polio virus can cause paralysis and death in individuals of any age who are not immune.
-
-**Recommendations:**
-
-* Be sure that your polio vaccinations are up to date before travelling. Polio is part of the [routine vaccine schedule](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-1-key-immunization-information/page-13-recommended-immunization-schedules.html#p1c12a2) for children in Canada.
-* One booster dose of the polio vaccine is recommended as an [adult](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-3-vaccination-specific-populations/page-9-immunization-travellers.html#a3).
 COVID-19
 
 COVID-19 is an infectious viral disease. Most of the time, it spreads when people are in close contact with others who are infected with the virus. It spreads through respiratory particles, or through an infected surface or object.
@@ -253,14 +253,6 @@ To reduce your risk of getting sick:
 
 Make sure to closely watch children; they are more likely to try to touch animals.
 
-Lassa fever 
-
-Lassa fever is a risk in this country.
-
-Lassa fever is caused by a virus carried by rodents. Humans get sick when they inhale or come into close contact with feces, saliva, or urine of infected rodents or the blood or bodily fluids of infected humans.
-
-Lassa virus can be very serious. Avoid rodents and rodent-infested areas.
-
 Mpox
 
 [Mpox (monkeypox)](https://www.canada.ca/en/public-health/services/diseases/mpox.html) is a risk in this country. It is a viral disease that can cause serious illness in some circumstances. Risk is generally low for most travellers.
@@ -290,6 +282,14 @@ Travellers with a higher risk of exposure include those:
 * working with wild mammals, especially those that eat wild birds (e.g., foxes)
 
 All eligible people are encouraged to get the seasonal influenza shot, which will protect them against human influenza viruses. While the seasonal influenza shot does not prevent infection with avian influenza, it can reduce the chance of getting sick with human and avian influenza viruses at the same time.
+
+Lassa fever 
+
+Lassa fever is a risk in this country.
+
+Lassa fever is caused by a virus carried by rodents. Humans get sick when they inhale or come into close contact with feces, saliva, or urine of infected rodents or the blood or bodily fluids of infected humans.
+
+Lassa virus can be very serious. Avoid rodents and rodent-infested areas.
 
 ### Person-to-person infections
 
