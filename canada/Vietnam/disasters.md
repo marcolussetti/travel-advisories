@@ -2,6 +2,16 @@
 
 ## Natural disasters and climate
 
+### Flooding
+
+Heavy rainfall has caused flooding in parts of the country, including Hanoi. Transportation, including the operations of the No Bai International Airport, is severely disrupted.
+
+If you are in an affected area of Vietnam:
+
+* monitor local news and weather reports
+* limit your movements and do not go to the airport unless your flight is confirmed
+* follow the instructions of local authorities
+
 ### Climate change
 
 Climate change is affecting Vietnam. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local media for the latest information.

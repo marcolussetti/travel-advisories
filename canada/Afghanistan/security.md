@@ -2,6 +2,10 @@
 
 ## Safety and security
 
+### Disruptions to airport operations and telecommunications
+
+Significant nationwide disruptions to telecommunications are ongoing. Airport operations are impacted. Before departing for the airport, check to ensure flights are operating.
+
 ### Security situation
 
 Foreigners and individuals associated to Western countries are targets for kidnappings and violence by terrorist groups. They are also at increased risk of being arbitrarily detained by the de facto authorities, especially if they had affiliations with the ousted government and/or contravene Islamic laws in effect since 2021.

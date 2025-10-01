@@ -1,7 +1,7 @@
 {
     "name": "Philippines",
-    "update_reason": "Risk levels \u2013 removed advisory to avoid all travel to the Babuyan Islands; Natural disasters and climate \u2013 removed information on Typhoon Ragasa",
-    "update_date": "2025-09-26T12:29:00",
+    "update_reason": "Natural disasters and climate \u2013 added information on the earthquake offshore of Bogo, Cebu",
+    "update_date": "2025-09-30T12:13:00",
     "sections": {
         "risk": "canada/Philippines/risk.md",
         "security": "canada/Philippines/security.md",

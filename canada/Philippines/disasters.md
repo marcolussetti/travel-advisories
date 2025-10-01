@@ -2,6 +2,16 @@
 
 ## Natural disasters and climate
 
+On September 30, 2025, a 6.9 magnitude earthquake struck off the coast of Bogo, Cebu.
+
+Aftershocks may occur and cause damage to infrastructure.
+
+If you’re in the affected area:
+
+* exercise caution
+* monitor local media for updates on the situation
+* follow the instructions of local authorities, including evacuation orders
+
 ### Climate change
 
 Climate change is affecting the Philippines. Extreme and unusual weather events are becoming more frequent. Monitor local news to stay informed on the current situation.
