@@ -1,13 +1,19 @@
 # Warnings and insurance
 
 Still current at:
-:   26 September 2025
+:   1 October 2025
 
 Updated:
-:   25 September 2025
+:   30 September 2025
 
 Latest update:
-:   Removal of information about strikes and demonstrations in France ('Warnings and insurance' page).
+:   New information about strikes and demonstrations in France ('Warnings and insurance' page).
+
+## Strike action
+
+Calls for strike action and demonstrations across France on Thursday 2 October may cause disruption to travel. Monitor local news and
+check for messaging from your travel provider about any potential delays. Read more about industrial action and demonstrations on the
+[Safety and security page](https://www.gov.uk/foreign-travel-advice/france/safety-and-security).
 
 ## Before you travel
 

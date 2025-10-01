@@ -162,6 +162,23 @@ Around 20 typhoons hit the Philippines each year. Most typhoons happen between J
 
 Earthquakes are a risk in the Philippines. The US Federal Emergency Management Agency website has advice about [what to do before, during and after an earthquake](https://www.ready.gov/earthquakes). You can get more information from the [Philippine Institute for Volcanology and Seismology (PHIVOLCS)](http://www.phivolcs.dost.gov.ph/).
 
+On 30 September 2025, a magnitude 6.9 earthquake struck northern Cebu, with the epicentre near Bogo City. Local authorities have reported casualties, injuries, and significant damage to infrastructure.
+
+Power outages and disruptions to transport and communications have been reported. Aftershocks are expected and may continue over the coming days
+
+If you are in the affected area:
+
+* Follow the advice of local authorities and emergency services.
+* Be aware of the risk of aftershocks.
+* Avoid damaged buildings and infrastructure.
+* Monitor local media and official sources for updates.
+
+If you are planning to travel to Cebu or nearby provinces:
+
+* Contact your travel provider for updates.
+* Ensure your travel insurance covers natural disasters.
+* Stay informed via the [Philippine Institute of Volcanology and Seismology (PHIVOLCS)](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.phivolcs.dost.gov.ph%2F&data=05%7C02%7CMelissa.McNicholAntwine%40fcdo.gov.uk%7C0cd7b4c76e514ee44a7908de0095f785%7Cd3a2d0d37cc84f52bbf985bd43d94279%7C0%7C0%7C638948841257562319%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=UEzwFiyH6%2Flb4%2Bu%2FHoFXTrggO1bx5viKMLFgNPaBjpM%3D&reserved=0) and [the National Disaster Risk Reduction and Management Council (NDRRMC)](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fndrrmc.gov.ph%2F&data=05%7C02%7CMelissa.McNicholAntwine%40fcdo.gov.uk%7C0cd7b4c76e514ee44a7908de0095f785%7Cd3a2d0d37cc84f52bbf985bd43d94279%7C0%7C0%7C638948841257579010%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=6x%2BPNQF5VDv1as3RvXdkIbAzRd7FJGYd%2BYsQifNEM58%3D&reserved=0).
+
 ### Volcanoes
 
 There are numerous volcanoes in the Philippines, any of which can erupt without warning. Sudden steam and ash explosions may happen at any time.

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   27 September 2025
+:   1 October 2025
 
 Updated:
-:   26 September 2025
+:   1 October 2025
 
 Latest update:
-:   Updated information about tropical storm season ('Warnings and insurance' page).
+:   Information added about earthquake in northern Cebu on 30 September. ('Warnings and insurance' and 'Safety and security')
 
 ![](https://assets.publishing.service.gov.uk/media/616406778fa8f52980d9301c/FCDO__TA__033_-_Philippines_Travel_Advice_Ed2__WEB_.jpg)
 
@@ -31,6 +31,25 @@ FCDO also advises against all but essential travel to the remainder of Mindanao,
 This advice is due to terrorist activity and clashes between the military and insurgent groups in south Philippines.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/philippines/safety-and-security#terrorism).
+
+## Earthquake in northern Cebu
+
+On 30 September 2025, a magnitude 6.9 earthquake struck northern Cebu, with the epicentre near Bogo City. Local authorities have reported casualties, injuries, and significant damage to infrastructure.
+
+Power outages and disruptions to transport and communications have been reported. Aftershocks are expected and may continue over the coming days
+
+If you are in the affected area:
+
+* Follow the advice of local authorities and emergency services.
+* Be aware of the risk of aftershocks.
+* Avoid damaged buildings and infrastructure.
+* Monitor local media and official sources for updates.
+
+If you are planning to travel to Cebu or nearby provinces:
+
+* Contact your travel provider for updates.
+* Ensure your travel insurance covers natural disasters.
+* Stay informed via the [Philippine Institute of Volcanology and Seismology (PHIVOLCS)](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.phivolcs.dost.gov.ph%2F&data=05%7C02%7CMelissa.McNicholAntwine%40fcdo.gov.uk%7C0cd7b4c76e514ee44a7908de0095f785%7Cd3a2d0d37cc84f52bbf985bd43d94279%7C0%7C0%7C638948841257562319%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=UEzwFiyH6%2Flb4%2Bu%2FHoFXTrggO1bx5viKMLFgNPaBjpM%3D&reserved=0) and [the National Disaster Risk Reduction and Management Council (NDRRMC)](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fndrrmc.gov.ph%2F&data=05%7C02%7CMelissa.McNicholAntwine%40fcdo.gov.uk%7C0cd7b4c76e514ee44a7908de0095f785%7Cd3a2d0d37cc84f52bbf985bd43d94279%7C0%7C0%7C638948841257579010%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=6x%2BPNQF5VDv1as3RvXdkIbAzRd7FJGYd%2BYsQifNEM58%3D&reserved=0).
 
 ## Tropical storm season
 
