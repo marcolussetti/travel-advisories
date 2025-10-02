@@ -2,7 +2,7 @@
 
 ### **Airport Transfers**
 
-Freetown International airport is situated on the far side of a wide estuary from Freetown. There are several transfer options from Lungi airport: road, ferry, and water taxi. The journey by road can take up to five hours and is not recommended after dark; and the ferry lacks basic safety equipment. We therefore recommend the water taxi as the safest option for travel to the city. There are two water taxi companies: Seabird and Seacoach. Both depart from Freetown International Airport at Lungi and cost $45 for a single journey or local currency equivalent.
+Freetown International airport is situated on the far side of a wide estuary from Freetown. There are several transfer options from Lungi airport: road, ferry, and water taxi. The journey by road can take up to five hours and is not recommended after dark, and the ferry lacks basic safety equipment. We therefore recommend the water taxi as the safest option for travel to the city. There are two water taxi companies: Seabird and Seacoach. Both depart from Freetown International Airport at Lungi and cost $45 for a single journey, or local currency equivalent.
 
 ### **Visa**
 

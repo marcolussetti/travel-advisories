@@ -13,7 +13,7 @@ Crime levels in Sierra Leone are generally low and the greatest risk to short-te
 * Do not carry your credit cards, travel tickets and money together - leave spare cash and valuables in a safe place.
 * Take a number of photocopies of your passport in case your passport is lost or stolen. Leave a photocopy of passport (and travel and insurance documents) with family or friends at home.
 * Avoid carrying valuables or large sums of cash in public.
-* Take particular care when in large crowds or when out at night, especially in central Freetown or in the beach area, or at bars or nightclubs. Concerts and sporting events at the national stadium are often overcrowded and unsafe, and pickpocketing is common. Theft of personal effects during political rallies is a possibility.
+* Take particular care when in large crowds or when out at night, especially in central Freetown or in the beach area, or at bars or nightclubs. Concerts and sporting events are often overcrowded and unsafe, and pickpocketing is common. Theft of personal effects during political rallies is a possibility.
 * Avoid dark and unlit streets and stairways, and arrange to be picked up or dropped off as close to your hotel or apartment entrance as possible.
 * Keep a close eye on personal belongings and hold on to them in public places such as internet cafés, train and bus stations.
 * Make sure your accommodation and vehicle are well secured, with locked doors and windows at all times.
@@ -31,7 +31,7 @@ A major road construction and repair programme is underway across the country, w
 
 Road traffic accidents can lead to heated disputes. If caught up in a serious road traffic accident, you are advised to remain inside the vehicle, with the doors locked, until such time as the police arrive. If it becomes unsafe to remain at the scene of a road traffic accident, make your way immediately to the local police station to report the incident.
 
-If travelling outside of Freetown, plan your journey in advance and you are not to travel on rural roads after dark. Travel in convoy where possible, to avoid getting stranded in the case of break-downs.
+If travelling outside of Freetown, plan your journey in advance and avoid travelling on rural roads after dark. Travel in convoy where possible, to avoid getting stranded in the case of break-downs.
 
 If you want to drive:
 
@@ -40,11 +40,13 @@ If you want to drive:
 * Remember that in Sierra Leone, vehicles drive on the right-hand side of the road.
 * Makeshift roadblocks are commonly seen on rural roads, often manned by children and youths, requesting payment from travellers using the road.
 
-Private taxis, ‘kekes’, motorbike taxis or ‘poda-podas’ (mini buses) can be hazardous as vehicle maintenance and driving standards are often very poor and vehicles overcrowded. The Embassy advises citizens not to use kekes, motorbike taxis or any form of public transport in Sierra Leone, and only to use trusted taxi drivers or official drivers.
+Private taxis, ‘kekes’, motorbike taxis or ‘poda-podas’ (mini buses) can be hazardous as vehicle maintenance and driving standards are often very poor and vehicles overcrowded. The Embassy advises citizens not to use kekes, motorbike taxis or minibus transport in Sierra Leone, and only to use trusted taxi drivers or official drivers.
 
 ### **Border Regions**
 
 Sierra Leone shares its border with Guinea and Liberia. If travelling near the borders, it is advisable to seek local advice and keep informed of political developments.
+
+The longstanding dispute between Sierra Leone and Guinea over the ‘Yenga’ region in the East of Sierra Leone is an ongoing concern. Non-essential travel to the affected area should be avoided.
 
 ### **Terrorism**
 

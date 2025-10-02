@@ -18,7 +18,7 @@ Before travelling, we strongly recommend obtaining comprehensive travel insuranc
 
 ### **Vaccinations**
 
-Check what vaccinations may be required at least eight weeks before you travel. We cannot provide advice on vaccinations, but your local GP or an International Health and Travel Centre can advise.
+Check what vaccinations may be required in advance of travel. We cannot provide advice on vaccinations, but your local GP or an International Health and Travel Centre can advise.
 
 The yellow fever vaccination is an entry requirement for Sierra Leone and a yellow fever vaccination certificate will be requested by border control on arrival in the country.
 
@@ -26,15 +26,11 @@ The yellow fever vaccination is an entry requirement for Sierra Leone and a yell
 
 Mains water is limited, and tap water must be boiled before drinking it. Bottled water is readily available.
 
-### **Ebola, Lassa Fever and Marburg Virus**
+### **Ebola and Lassa Fever**
 
-Ebola, Lassa fever and Marburg viruses are acute viral haemorrhagic fever illnesses transmitted to humans via contact with contaminated food or household items; or through contact with the bodily fluids of an infected person.
+Ebola, Lassa fever and Marburg viruses are acute viral haemorrhagic fever illnesses transmitted to humans via contact with contaminated food or household items; or through contact with the bodily fluids of an infected person. More information about Ebola is available from the [**World Health Organisation**](https://www.who.int/news-room/fact-sheets/detail/ebola-virus-disease).
 
-In February 2021, there was confirmation of an outbreak of Ebola in Guinea close to the border with Sierra Leone. Following increased surveillance and preventative measures, this outbreak was declared over in June 2021. More information about Ebola is available from the [**World Health Organisation**](https://www.who.int/news-room/fact-sheets/detail/ebola-virus-disease).
-
-Lassa fever is endemic in West Africa. Between January and March 2022, a total of 20 cases of Lassa fever were reported, which resulted in 11 deaths. If you are concerned that you might have been exposed to, or are showing symptoms of Lassa fever, seek immediate medical advice. Further information on Lassa fever is available from the [**World Health Organisation**](https://www.who.int/news-room/fact-sheets/detail/lassa-fever).
-
-Neighbouring Guinea also recorded an outbreak of the Marburg virus in August 2021, however this was declared over in September 2021. You can find more information on Marburg virus from the [**World Health Organisation**](https://www.who.int/news-room/fact-sheets/detail/marburg-virus-disease).
+Lassa fever is endemic in West Africa. If you are concerned that you might have been exposed to, or are showing symptoms of Lassa fever, seek immediate medical advice. Further information on Lassa fever is available from the [**World Health Organisation**](https://www.who.int/news-room/fact-sheets/detail/lassa-fever).
 
 ### **M-Pox**
 
@@ -48,7 +44,7 @@ If you develop fever, unexplained fatigue, diarrhoea or any other severe symptom
 
 ### **Malaria**
 
-Malaria, including cerebral malaria which can be fatal within 72 hours, is endemic in Sierra Leone and we strongly recommend using a malaria prophylaxis, together with other precautions such as using bed nets and insect repellents, and wearing closed shoes, long sleeves and trousers. Bring enough malaria treatment for the duration of your visit.
+Malaria, including cerebral malaria which can be fatal within 72 hours, is endemic in Sierra Leone and we strongly recommend using a malaria prophylaxis, together with other precautions such as using bed nets and insect repellents, and wearing closed shoes, long sleeves and trousers. Bring enough malaria treatment for the duration of your visit. Malaria test- kits are widely available in pharmacies in Sierra Leone, and can be useful for self-testing in the days after your visit.
 
 ### **Water-borne Diseases**
 

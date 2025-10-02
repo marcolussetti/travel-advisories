@@ -44,7 +44,7 @@ Power supply remains unreliable year round, especially during the dry season (O
 
 If planning to drive in Sierra Leone, be extremely careful as traffic accidents are common. Emergency medical services in Sierra Leone are very limited and poorly equipped to deal with road traffic accidents, particularly those involving complex trauma. Therefore, extra caution should be exercised when using the road, either as a driver or as a passenger.
 
-The availability and quality of medical services in Sierra Leone is poor. Citizens should be aware that you may have difficulty accessing even basic medical services, particularly in remote areas. If treatment, you may be asked to pay up front. If you have a pre-existing medical condition or underlying health concerns, be aware that it may not be possible to get appropriate drugs or treatment. Bring enough medication with you for the duration of your visit.
+The availability and quality of medical services in Sierra Leone is poor. Citizens should be aware that you may have difficulty accessing even basic medical services, particularly in remote areas. If treatment is required, you may be asked to pay up front. If you have a pre-existing medical condition or underlying health concerns, be aware that it may not be possible to get appropriate drugs or treatment. Bring enough medication with you for the duration of your visit.
 
 ### **Emergency Assistance**
 

@@ -4,11 +4,11 @@ Remember, the local laws apply to you as a visitor and it is your responsibility
 
 ### **Personal ID**
 
-Although not common, you may be asked to produce valid photo ID. Therefore, you should carry a photocopy of your passport at all times. Store your passport in a safe place.
+You may be asked to produce valid photo ID at police checkpoints. Therefore, you should carry a photocopy of your passport at all times. Store your passport in a safe place.
 
 ### **Police Reports**
 
-The Sierra Leone Police levy a SLL 500,000/SLE 500 fee for all foreign nationals who need a police report. They are unable to issue crime reference numbers without a police report. You should make payment to the Sierra Leone Police Revenue Generation Fund Account at the Bank of Sierra Leone and get a receipt. Do not pay the Sierra Leone Police directly. If reporting a crime but do not require a crime reference number or a written report, there will be no charge.
+The Sierra Leone Police levy a small fee (in the region of SLE 500) for all foreign nationals who need a police report. They are unable to issue crime reference numbers without a police report. You should make payment to the Sierra Leone Police Revenue Generation Fund Account at the Bank of Sierra Leone and get a receipt. Do not pay the Sierra Leone Police directly. If you are reporting a crime but do not require a crime reference number or a written report, there should be no charge.
 
 ### **Illegal Drugs**
 
@@ -16,7 +16,7 @@ Penalties for possession, use or trafficking of drugs are severe; do not become 
 
 ### **Precious Gems and Minerals**
 
-Sierra Leone’s customs authorities enforce strict regulations about the export of precious minerals and gems such as diamonds and gold.  Anyone exporting such exports should comply with Sierra Leonean law.
+Sierra Leone’s customs authorities enforce strict regulations about the export of precious minerals and gems such as diamonds and gold.  Anyone exporting such items should comply with Sierra Leonean law.
 
 ### **LGBTQI+**
 
@@ -32,9 +32,9 @@ During Ramadan, Muslims are not permitted to eat, drink or smoke during daylight
 
 ### **Currency**
 
-Sierra Leone is a cash-based economy; it is advisable to bring enough cash to cover expenses while in the country. Credit cards and travellers’ cheques are rarely accepted so do not rely on them.  Although there are a number of ATMs in Freetown, the security of the transactions cannot be guaranteed and they have had less cash available since redenomination commenced. The exchange rate given by ATMs is also highly unfavourable.
+Sierra Leone is a cash-based economy; it is advisable to bring enough cash to cover expenses while in the country. Credit cards and travellers’ cheques are rarely accepted so do not rely on them. Although there are a number of ATMs in Freetown, the security of the transactions cannot be guaranteed and cash shortages are common.
 
-The government has prohibited the use of foreign currency in the country; you will not be able to pay in Euro or US dollars locally. Foreign currency can be exchanged for Leones in banks or official foreign-exchange offices. Always be careful when carrying cash.
+Foreign currency can be exchanged for Leones in banks or official foreign-exchange offices. Always be careful when carrying cash.
 
 ### **Language**
 
