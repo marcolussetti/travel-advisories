@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   6 September 2025
+:   2 October 2025
 
 Updated:
-:   5 September 2025
+:   1 October 2025
 
 Latest update:
-:   FCDO now advises against all travel to Upper Dir in Khyber Pakhtunkwa Province and additional information regarding previous terrorist attacks (‘Warnings and insurance’ and ‘Safety and security’ page).
+:   FCDO now advises against all travel within 5 miles of the international border between Pakistan and India except the Grand Trunk highway to India via Wagah border (which is currently closed). Addition of information about a general strike in parts of Pakistan-administered Kashmir (‘Warnings and insurance’ page).
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -51,7 +51,7 @@ FCDO advises against all travel to Balochistan Province.
 
 ### Pakistan-India Border Area
 
-FCDO advises against all but essential travel within 5 miles of the international border between Pakistan and India. The Wagah border crossing is closed.
+FCDO advises against all travel within 5 miles of the international border between Pakistan and India except the Grand Trunk highway to India via Wagah border (which is currently closed).
 
 ### Pakistan-administered Kashmir
 
@@ -63,11 +63,9 @@ FCDO advises against all but essential travel to all areas of Sindh Province nor
 
 Find out more about [why FCDO advises against travel to these regions](/foreign-travel-advice/pakistan/regional-risks).
 
-## Flash flooding and landslides
+## General Strike
 
-Above average rainfall is causing flash floods and landslides in Pakistan, damaging roads, bridges, and telecommunication infrastructure across the country.
-
-The Government of Pakistan’s [National Disaster Management Authority](https://www.ndma.gov.pk/advisories) has issued weather advisories identifying disaster-vulnerable areas where risks are high, and where they advise people, including tourists, not to go. Follow local weather updates from the [Pakistan Meteorological Department](https://www.pmd.gov.pk/en/) and see UK guidance on how to [prepare for and respond to extreme weather and natural hazards](https://www.gov.uk/guidance/extreme-weather-and-natural-hazards). If you need help from the British government, [contact us](https://www.contact.service.csd.fcdo.gov.uk/emergency-help/country).
+A general strike has been called in parts of Pakistan-administered Kashmir. There are reports of communication disruptions and rallies resulting in violent clashes. British nationals are advised to avoid all demonstrations and large gatherings and follow the advice of local authorities. The strike has no set end date.
 
 ## Before you travel
 

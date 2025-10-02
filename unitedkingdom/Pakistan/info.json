@@ -1,11 +1,11 @@
 {
     "name": "Pakistan",
-    "update_reason": "FCDO now advises against all travel to Upper Dir in Khyber Pakhtunkwa Province and additional information regarding previous terrorist attacks (\u2018Warnings and insurance\u2019 and \u2018Safety and security\u2019 page).",
+    "update_reason": "FCDO now advises against all travel within 5 miles of the international border between Pakistan and India except the Grand Trunk highway to India via Wagah border (which is currently closed). Addition of information about a general strike in parts of Pakistan-administered Kashmir (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Pakistan/Warnings and insurance.md",
-            "update_date": "2025-09-05T18:16:29+01:00"
+            "update_date": "2025-10-01T16:49:32+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Pakistan/Getting help.md"
         }
     ],
-    "update_date": "2025-09-05T18:16:29+01:00"
+    "update_date": "2025-10-01T16:49:32+01:00"
 }

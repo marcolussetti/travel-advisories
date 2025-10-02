@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   30 September 2025
+:   2 October 2025
 
 Updated:
-:   29 September 2025
+:   1 October 2025
 
 Latest update:
-:   Additional information that further protests are expected in Madagascar (‘Warnings and insurance’ page).
+:   Addition of information about overnight curfews in some parts of Madagascar including Antananarivo, Toamasina (Tamatave), and Toliara (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/68d70494ef1c2f72bc1e4b27/FCDO__TA__102_-_Madagascar_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -20,7 +20,9 @@ Your travel insurance could be invalidated if you travel against advice from the
 
 ## Protests in Antananarivo
 
-Protests and violent disorder have taken place in Madagascar. Further protests are expected. Antananarivo has seen significant incidents of violence, including looting, which has spread to other towns and cities. Roads to Antananarivo airport have sometimes been blocked by protests and some internal and international flights have been cancelled. The government has imposed an overnight curfew in Antananarivo. If you are currently in Madagascar, follow local advice and avoid large gatherings and political demonstrations. Check for messaging from your airline or tour operator before travelling to an airport.
+Protests and violent disorder have taken place in Madagascar. Further protests are expected. Antananarivo has seen significant incidents of violence, including looting, which has spread to other towns and cities. Roads to Antananarivo airport have sometimes been blocked by protests and some internal and international flights have been cancelled.
+
+The local government has imposed an overnight curfew in some parts of the country, including Antananarivo, Toamasina (Tamatave), and Toliara. If you are currently in Madagascar, follow local advice and avoid large gatherings and political demonstrations. Check for messaging from your airline or tour operator before travelling to an airport.
 
 ## Before you travel
 

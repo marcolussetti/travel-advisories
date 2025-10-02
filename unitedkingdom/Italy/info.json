@@ -1,11 +1,11 @@
 {
     "name": "Italy",
-    "update_reason": "Updated information about the need to carry personal ID and new information about registering with the police (\u2018Entry requirements\u2019 and \u2018Safety and security\u2019 pages).",
+    "update_reason": "New information about the requirement for all skiers, snowboarders, sledders and tobogganers to wear helmets at all ski resorts ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Italy/Warnings and insurance.md",
-            "update_date": "2025-08-28T11:42:24+01:00"
+            "update_date": "2025-10-01T09:57:03+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Italy/Getting help.md"
         }
     ],
-    "update_date": "2025-08-28T11:42:24+01:00"
+    "update_date": "2025-10-01T09:57:03+01:00"
 }

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   29 August 2025
+:   2 October 2025
 
 Updated:
-:   28 August 2025
+:   1 October 2025
 
 Latest update:
-:   Updated information about the need to carry personal ID and new information about registering with the police (‘Entry requirements’ and ‘Safety and security’ pages).
+:   New information about the requirement for all skiers, snowboarders, sledders and tobogganers to wear helmets at all ski resorts ('Safety and security' page).
 
 This travel advice also covers Vatican City.
 

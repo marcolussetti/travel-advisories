@@ -10,9 +10,9 @@ UK Counter Terrorism Policing has information and advice on [staying safe abroad
 
 Terrorist attacks in Italy cannot be ruled out.
 
-## Events in Israel and the Occupied Palestinian Territories
+## Events in Israel and Palestine
 
-Italian authorities have increased security around some Jewish community sites due to events in Israel and the Occupied Palestinian Territories. Stay aware of your surroundings, stay away from demonstrations and follow the advice of local authorities.
+Italian authorities have increased security around some Jewish community sites due to events in Israel and Palestine. Stay aware of your surroundings, stay away from demonstrations and follow the advice of local authorities.
 
 ## Political demonstrations
 
@@ -127,8 +127,8 @@ You can contact the [Italian State Tourist Board](https://www.italia.it/en/conta
 
 Regulations for the ski season include:
 
+* from 1 November 2025, all skiers, snowboarders, sledders, and tobogganers will be required to wear CE-certified helmets at all ski resorts. This law applies regardless of age or activity. Failing to do so risks a fine of up to €200 and ski pass suspension for up to 3 days
 * third-party liability insurance is a legal requirement and can be purchased locally with a ski pass
-* you must wear a helmet if you are under 18
 * you must not eat or drink on ski lifts or boarding areas
 * you must not climb a slope with snowshoes except in an emergency
 * you must not ski under the influence of alcohol or drugs
