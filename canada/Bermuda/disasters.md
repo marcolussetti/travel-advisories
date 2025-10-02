@@ -2,9 +2,9 @@
 
 ## Natural disasters and climate
 
-### Tropical Storm Imelda
+### Hurricane Imelda
 
-Tropical Storm Imelda is expected to make landfall as a hurricane on Bermuda on October 1, 2025.
+Hurricane Imelda is expected to sweep across Bermuda on or around October 1, 2025.
 
 The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
 

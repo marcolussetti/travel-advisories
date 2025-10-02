@@ -2,6 +2,10 @@
 
 ## Safety and security
 
+Due to the ongoing security situation in Israel and Palestine, operations at land borders may be affected by reduced hours or closure on short notice.
+
+Verify the status of border crossings ahead of time.
+
 ### Tensions in the Middle East
 
 Tensions can flare up suddenly in the Middle East, and lead to travel disruptions, including flight cancellations and airspace closures.

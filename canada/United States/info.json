@@ -1,7 +1,7 @@
 {
     "name": "United States",
-    "update_reason": "Entry and exit requirements \u2013 updated information on passports, visas, and U.S. permanent residents; Laws and culture \u2013 updated information on 2SLGBTQI+ persons",
-    "update_date": "2025-09-29T09:33:00",
+    "update_reason": "Editorial change",
+    "update_date": "2025-10-01T14:15:00",
     "sections": {
         "risk": "canada/United States/risk.md",
         "security": "canada/United States/security.md",

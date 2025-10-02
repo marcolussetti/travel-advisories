@@ -1,7 +1,7 @@
 {
     "name": "Bermuda",
-    "update_reason": "Risk level \u2013 avoid non-essential travel to Bermuda; Natural disasters and climate \u2013 added information on Tropical Storm Imelda",
-    "update_date": "2025-09-29T19:22:00",
+    "update_reason": "Risk level; Natural disasters and climate \u2013 updated information on Hurricane Imelda",
+    "update_date": "2025-10-01T08:43:00",
     "sections": {
         "risk": "canada/Bermuda/risk.md",
         "security": "canada/Bermuda/security.md",

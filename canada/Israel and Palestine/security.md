@@ -2,7 +2,7 @@
 
 ## Safety and security
 
-On September 26, 2025, the Allenby/King Hussein Bridge border crossing reopened.
+Due to the ongoing security situation in Israel and Palestine, operations at land borders may be affected by reduced hours or closure on short notice.
 
 Verify the status of border crossings ahead of time.
 

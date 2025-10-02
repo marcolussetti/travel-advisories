@@ -2,12 +2,6 @@
 
 ## Entry and exit requirements
 
-Due to the ongoing security situation in Israel and Palestine, operations at land borders with Jordan may be affected by reduced hours or closure on short notice.
-
-On September 23, 2025, Israeli authorities announced that the Allenby/King Hussein Bridge border crossing would remain closed until further notice.
-
-Verify the status of border crossings ahead of time.
-
 The authorities of a country or territory decide who can enter or exit through its borders. The Government of Canada cannot intervene on your behalf if you do not meet your destination’s entry or exit requirements.
 
 We have obtained the information on this page from the Jordanian authorities. It can, however, change at any time.
