@@ -88,6 +88,8 @@ USA
 
 [Tel: +1 310 279 5380](tel:+1310 279 5380)
 
+Open by appointment only.
+
 Our consular region covers Arizona, Hawaii, Nevada, New Mexico, Southern California (south of the San Bernardino County Line) and Utah.
 
 Visa services for this region are provided by the [Consulate General of Ireland, San Francisco.](/en/usa/sanfrancisco/)
