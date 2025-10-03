@@ -2,6 +2,6 @@
 
 ## Risk level
 
-### Bermuda - AVOID NON-ESSENTIAL TRAVEL
+### Bermuda - Take normal security precautions
 
-[Avoid non-essential travel](#levels "Risk Levels") to Bermuda due to Hurricane Imelda.
+[Take normal security precautions](#levels "Risk Levels") in Bermuda.

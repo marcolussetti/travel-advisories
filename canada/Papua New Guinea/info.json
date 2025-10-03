@@ -1,7 +1,7 @@
 {
     "name": "Papua New Guinea",
-    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
-    "update_date": "2025-09-24T15:16:00",
+    "update_reason": "The Need help? section was updated.",
+    "update_date": "2025-10-02T07:46:00",
     "sections": {
         "risk": "canada/Papua New Guinea/risk.md",
         "security": "canada/Papua New Guinea/security.md",

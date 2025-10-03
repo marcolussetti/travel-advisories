@@ -2,6 +2,10 @@
 
 ## Safety and security
 
+Since the end of September 2025, demonstrations have been occurring in various cities across the country. Violent incidents have also been reported in multiple locations. Avoid large gatherings and protests.
+
+[More information on demonstrations](#demonstrations)
+
 ### Border regions
 
 #### The Berm (border regions of Western Sahara)

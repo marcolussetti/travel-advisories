@@ -1,7 +1,7 @@
 {
     "name": "Vietnam",
-    "update_reason": "Natural disasters and climate \u2013 added information on flooding; Need help? \u2013 added information on the temporary closure of the Embassy of Canada to Vietnam, in Hanoi",
-    "update_date": "2025-09-30T09:10:00",
+    "update_reason": "Need help? \u2013 removed information on the temporary closure of the Embassy of Canada in Hanoi",
+    "update_date": "2025-10-02T10:21:00",
     "sections": {
         "risk": "canada/Vietnam/risk.md",
         "security": "canada/Vietnam/security.md",

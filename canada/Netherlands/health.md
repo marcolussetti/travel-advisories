@@ -49,6 +49,22 @@ Travellers get vaccinated either because it is required to enter a country or be
 
 [Yellow Fever Vaccination Centres in Canada]( https://www.canada.ca/en/public-health/services/travel-health/yellow-fever.html#select-centre)
 
+Rabies 
+
+In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/diseases/rabies) may be present in some wildlife species, including bats. Rabies is a deadly disease that spreads to humans primarily through bites or scratches from an infected animal.
+
+If you are bitten or scratched by an animal while travelling, immediately wash the wound with soap and clean water and see a health care professional.
+
+Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who will be working directly with wildlife.
+
+Tick-borne encephalitis
+
+[Tick-borne encephalitis](https://www.canada.ca/en/public-health/services/diseases/tick-borne-encephalitis.html) (TBE) is a risk in some areas of this destination. It is a viral disease that affects the central nervous system (brain and spinal cord). It is spread to humans by the bite of infected ticks or occasionally when unpasteurized milk products are consumed.
+
+Travellers to areas where TBE is found may be at higher risk  during April to November, and the risk is highest for people who hike or camp in forested areas.
+
+[Protect yourself from tick bites](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html). The vaccine is not available in Canada. It may be available in the destination you are travelling to.
+
 Measles 
 
 Measles is a serious viral infection that spreads easily. It spreads through the air, and can stay in the air for up to 2 hours. You can also get measles by direct contact with an infected person or by touching a surface with the virus on it and then touching your eyes, nose, or mouth before washing your hands.
@@ -91,22 +107,6 @@ Influenza
 The flu vaccine available in one hemisphere may only offer partial protection against the flu in the other hemisphere.
 
 The flu virus spreads from person to person when they cough or sneeze or by touching objects and surfaces that have been contaminated with the virus. Clean your hands often and wear a mask if you have a fever or respiratory symptoms.
-
-Rabies 
-
-In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/diseases/rabies) may be present in some wildlife species, including bats. Rabies is a deadly disease that spreads to humans primarily through bites or scratches from an infected animal.
-
-If you are bitten or scratched by an animal while travelling, immediately wash the wound with soap and clean water and see a health care professional.
-
-Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who will be working directly with wildlife.
-
-Tick-borne encephalitis
-
-[Tick-borne encephalitis](https://www.canada.ca/en/public-health/services/diseases/tick-borne-encephalitis.html) (TBE) is a risk in some areas of this destination. It is a viral disease that affects the central nervous system (brain and spinal cord). It is spread to humans by the bite of infected ticks or occasionally when unpasteurized milk products are consumed.
-
-Travellers to areas where TBE is found may be at higher risk  during April to November, and the risk is highest for people who hike or camp in forested areas.
-
-[Protect yourself from tick bites](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html). The vaccine is not available in Canada. It may be available in the destination you are travelling to.
 
 ### Safe food and water precautions
 
