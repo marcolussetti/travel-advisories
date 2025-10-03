@@ -1,11 +1,11 @@
 {
     "name": "Morocco",
-    "update_reason": "Updated with information about the risks from terrorism (\u2018Safety and security\u2019 page).",
+    "update_reason": "New information about countrywide protests and demonstrations (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Morocco/Warnings and insurance.md",
-            "update_date": "2025-08-05T10:48:16+01:00"
+            "update_date": "2025-10-02T18:16:18+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Morocco/Getting help.md"
         }
     ],
-    "update_date": "2025-08-05T10:48:16+01:00"
+    "update_date": "2025-10-02T18:16:18+01:00"
 }

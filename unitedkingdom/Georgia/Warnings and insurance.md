@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 September 2025
+:   3 October 2025
 
 Updated:
-:   10 September 2025
+:   2 October 2025
 
 Latest update:
-:   New information on entering and leaving Georgia ('Entry requirements' page).
+:   New information about a large protest due to take place in Tbilisi on 4 October (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/6164003ce90e07197c0c2a1f/FCDO__TA__018_-_Georgia_Travel_Advice_Ed2__WEB_.jpg)
 
@@ -30,6 +30,12 @@ FCDO also advises against all but essential travel to areas immediately next to 
 FCDO cannot provide face-to-face support to British nationals travelling in South Ossetia and Abkhazia, as UK government employees are restricted from travelling there.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/georgia/regional-risks).
+
+## Protests and demonstrations
+
+Municipal elections take place in Georgia on 4 October 2025. During the election period there is a heightened risk of demonstrations and political rallies. A large protest is scheduled to take place in Tbilisi on 4 October.
+
+Avoid demonstrations and large gatherings and follow the advice of local authorities. Demonstrations may lead to travel disruption. Allow extra time for journeys and monitor local media for updates.
 
 ## Before you travel
 

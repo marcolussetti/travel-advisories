@@ -1,13 +1,19 @@
 # Warnings and insurance
 
 Still current at:
-:   6 August 2025
+:   3 October 2025
 
 Updated:
-:   5 August 2025
+:   2 October 2025
 
 Latest update:
-:   Updated with information about the risks from terrorism (‘Safety and security’ page).
+:   New information about countrywide protests and demonstrations (‘Warnings and insurance’ page).
+
+## Protests and demonstrations
+
+Country wide protests and demonstrations are taking place in major cities across Morocco. There are reports of significant police presence and rallies resulting in violent clashes. The situation remains unpredictable.
+
+Avoid demonstrations and large gatherings and follow the advice of local authorities. Demonstrations may lead to travel disruption. Allow extra time for journeys and monitor local media for updates.
 
 ## Before you travel
 

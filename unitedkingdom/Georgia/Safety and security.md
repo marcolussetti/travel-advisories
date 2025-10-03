@@ -14,9 +14,9 @@ Terrorist attacks in Georgia cannot be ruled out. Attacks could happen anywhere 
 
 ## Political situation
 
-4 August marked the 250th consecutive day of political demonstrations, some leading to violent confrontation between police and protesters. In Tbilisi these are mainly on Rustaveli Avenue, Chavchavadze Avenue and Heroes’ Square and in other nearby areas, but they can begin or end at different locations across the city, disrupting traffic. Demonstrations are taking place in other cities and towns. Demonstrations generally begin in the evening and some rallies extend into the night.
+23 September marked the 300th consecutive day of political demonstrations, some leading to violent confrontation between police and protesters. In Tbilisi these are mainly on Rustaveli Avenue, Chavchavadze Avenue and Heroes’ Square and in other nearby areas, but they can begin or end at different locations across the city, disrupting traffic. Demonstrations are taking place in other cities and towns. Demonstrations generally begin in the evening and some rallies extend into the night.
 
-Municipal elections are scheduled to take place in Georgia on 4 October 2025. During the campaign period there is a heightened risk of demonstrations and political rallies.
+Municipal elections are scheduled to take place in Georgia on 4 October 2025. During the campaign period, and on or after election day, there is a heightened risk of demonstrations and political rallies.
 
 Tensions can escalate without warning. You should:
 
