@@ -1,11 +1,11 @@
 {
     "name": "Philippines",
-    "update_reason": "Information added about earthquake in northern Cebu on 30 September. ('Warnings and insurance' and 'Safety and security')",
+    "update_reason": "Updated information about the e-travel registration system ('Entry requirements' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Philippines/Warnings and insurance.md",
-            "update_date": "2025-10-01T04:49:17+01:00"
+            "update_date": "2025-10-03T16:02:27+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Philippines/Getting help.md"
         }
     ],
-    "update_date": "2025-10-01T04:49:17+01:00"
+    "update_date": "2025-10-03T16:02:27+01:00"
 }

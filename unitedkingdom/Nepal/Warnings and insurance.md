@@ -1,13 +1,21 @@
 # Warnings and insurance
 
 Still current at:
-:   19 September 2025
+:   4 October 2025
 
 Updated:
-:   18 September 2025
+:   3 October 2025
 
 Latest update:
-:   Updated information on potential disruption following violence in Nepal during week of 8 September ('Warnings and insurance' page).
+:   Information about the risks during Monsoon season, including flash flooding (‘Warnings and insurance’ page).
+
+## Monsoon season
+
+Travel during the monsoon season can be hazardous. Flooding (including flash flooding) and landslides cut off towns and villages for days at a time.
+
+The Nepal government [Meteorological Forecasting Division](http://www.mfd.gov.np/) provides weather updates (in English) and flood forecasts during the monsoon. You can also access the [Department of Hydrology and Meteorology flood monitoring service](https://www.dhm.gov.np/hydrology/floodMonitoring).
+
+See [Extreme weather and natural disasters](https://www.gov.uk/foreign-travel-advice/nepal/safety-and-security#extreme-weather-and-natural-disasters).
 
 ## Protests
 

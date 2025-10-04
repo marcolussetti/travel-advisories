@@ -1,11 +1,11 @@
 {
     "name": "France",
-    "update_reason": "New information about strikes and demonstrations in France ('Warnings and insurance' page).",
+    "update_reason": "Clarification of existing entry requirements to France ('Entry requirements' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/France/Warnings and insurance.md",
-            "update_date": "2025-09-30T14:02:42+01:00"
+            "update_date": "2025-10-03T11:19:00+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/France/Getting help.md"
         }
     ],
-    "update_date": "2025-09-30T14:02:42+01:00"
+    "update_date": "2025-10-03T11:19:00+01:00"
 }

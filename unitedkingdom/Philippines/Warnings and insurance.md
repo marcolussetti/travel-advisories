@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   1 October 2025
+:   4 October 2025
 
 Updated:
-:   1 October 2025
+:   3 October 2025
 
 Latest update:
-:   Information added about earthquake in northern Cebu on 30 September. ('Warnings and insurance' and 'Safety and security')
+:   Updated information about the e-travel registration system ('Entry requirements' page).
 
 ![](https://assets.publishing.service.gov.uk/media/616406778fa8f52980d9301c/FCDO__TA__033_-_Philippines_Travel_Advice_Ed2__WEB_.jpg)
 

@@ -1,11 +1,11 @@
 {
     "name": "Nepal",
-    "update_reason": "Updated information on potential disruption following violence in Nepal during week of 8 September ('Warnings and insurance' page).",
+    "update_reason": "Information about the risks during Monsoon season, including flash flooding (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Nepal/Warnings and insurance.md",
-            "update_date": "2025-09-18T14:37:25+01:00"
+            "update_date": "2025-10-03T16:23:05+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Nepal/Getting help.md"
         }
     ],
-    "update_date": "2025-09-18T14:37:25+01:00"
+    "update_date": "2025-10-03T16:23:05+01:00"
 }

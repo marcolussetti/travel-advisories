@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   1 October 2025
+:   4 October 2025
 
 Updated:
-:   30 September 2025
+:   3 October 2025
 
 Latest update:
-:   New information about strikes and demonstrations in France ('Warnings and insurance' page).
+:   Clarification of existing entry requirements to France ('Entry requirements' page).
 
 ## Strike action
 

@@ -144,6 +144,16 @@ During this time, do not:
 
 You are not allowed to use or bring into the country narcotics, alcohol or pork products. If you do, you could be arrested.
 
+### Mobile phones, internet access and communications
+
+The Taliban have blocked, significantly slowed, or shut down landline, internet, and mobile services without warning in the past. This can be nationwide or localised. This can affect communication and location services on smartphones and other devices. You should:
+
+* not rely on mobile data, non-Afghan mobile apps or international calls for personal safety
+* always keep an alternative means of communication and navigation with you
+* make sure friends and family know where you are
+
+Previous internet blackouts have also impacted flights and access to cash.
+
 ### Using cameras in secure areas
 
 It may not be immediately clear whether taking photos could cause offence or suspicion. Avoid photographing local people without their agreement and pay close attention to local information and ways of doing things. Photographing certain buildings in Afghanistan is not allowed and may lead to detention, including:
@@ -165,7 +175,7 @@ Do not buy or try to export antiquities without getting a receipt from an author
 
 ### Money
 
-If you travel to Afghanistan against FCDO advice, you may face problems with the authorities if you try to import foreign currency. It is illegal to carry more than 5000 US dollars through airports and more than 5000 US dollars through land borders in cash, but you may not be able to use foreign-issued bank cards at ATMs and local banks.
+If you travel to Afghanistan against FCDO advice, you may face problems with the authorities if you try to import foreign currency. It is illegal to carry more than 5000 US dollars through airports and more than 500 US dollars through land borders in cash, but you may not be able to use foreign-issued bank cards at ATMs and local banks.
 
 Some ATMs and many banks accept foreign-issued bank cards, with restrictions on the amount of cash you can withdraw. Check with local branches.
 

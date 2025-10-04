@@ -4,10 +4,6 @@ This information is for people travelling on a full [‘British citizen’ passp
 
 The authorities in the Philippines set and enforce entry rules. If you’re not sure how these requirements apply to you, contact the [Philippine Embassy in the UK](https://londonpe.dfa.gov.ph/).
 
-## Philippines e-travel system
-
-You must [register with the ‘e-travel’ system](https://etravel.gov.ph/) before boarding your flight to the Philippines. You can register up to 72 hours before your arrival in the Philippines.
-
 ## Passport validity requirements
 
 To enter the Philippines, your passport must have an ‘expiry date’ at least 6 months after the date you arrive.
@@ -18,11 +14,12 @@ You will be denied entry if you do not have a valid travel document or try to us
 
 ## Visa requirements
 
-You can visit the Philippines without a visa for tourism or business for up to 30 days.
+You can visit the Philippines without a visa for tourism or business for up to 30 days, however you must have:
 
-Some airlines will not carry you if you cannot produce your departure ticket and show the QR code issued by the [e-travel system](https://etravel.gov.ph/).
+* a ticket for your return or onward travel
+* a QR code to show that you have registered on the [e-travel system](https://etravel.gov.ph/) within the 72 hours before your arrival in the Philippines – some airlines will not allow you to board your flight to the Philippines if you cannot show the QR code.
 
-To enter the Philippines as a visitor, you must have a ticket for your return or onward travel.
+The e-travel registration is free of charge.
 
 To stay more than 30 days, you can [apply for an extension](https://e-services.immigration.gov.ph/Dashboard/Index) when you are in the Philippines. If you overstay any visa without authority, it is a serious matter. You could face fees and fines, and detention if you cannot pay them, or you could be deported at your own expense.
 

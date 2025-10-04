@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   25 July 2025
+:   4 October 2025
 
 Updated:
-:   24 July 2025
+:   3 October 2025
 
 Latest update:
-:   Addition of information about risks related to religious activities and to women travelling alone (‘Safety and security’ page).
+:   Updated information about the risk of internet outages in Afghanistan (‘Safety and security’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/66447989993111924d9d348d/FCDO__TA__001_-_Afghanistan_Travel_Advice_Ed3__WEB_.jpg)
 

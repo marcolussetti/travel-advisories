@@ -36,12 +36,12 @@ If you’re a visitor, border guards will look at passport stamps to check you h
 
 If your passport is missing a stamp, show evidence of when and where you entered or left the Schengen area (for example, boarding passes or tickets) and ask the border guards to add the date and location in your passport.
 
-At French border control, you may need to:
+At French border control, you may be asked to:
 
+* show proof of your travel insurance to demonstrate you can cover any emergency costs
+* prove that you have [enough money for your stay](https://france-visas.gouv.fr/en/your-arrival-in-france)
 * show proof of your accommodation
-* show proof of your travel insurance
 * show a return or onward ticket
-* prove that you have [enough money for your stay](https://france-visas.gouv.fr/en/your-arrival-in-france)
 
 ### Staying with family, friends or a third party
 

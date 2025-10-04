@@ -156,7 +156,7 @@ Find out what you can do to [prepare for and respond to extreme weather and natu
 
 ### Monsoon
 
-Travel during the monsoon season (June to September) can be hazardous. Flooding and landslides cut off towns and villages for days at a time. If you travel by road during monsoon season you should:
+Travel during the monsoon season (normally June to September) can be hazardous. Flooding and landslides cut off towns and villages for days at a time. If you travel by road during monsoon season you should:
 
 * check the road is open
 * be prepared to change or cancel your plans at short notice
