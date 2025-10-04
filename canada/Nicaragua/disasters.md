@@ -84,4 +84,4 @@ In the event of a volcanic eruption:
 * monitor local media to stay informed of the evolving situation
 * follow the instructions of local authorities, including evacuation orders
 
-[Ineter](http://www.ineter.gob.ni/) – Nicaraguan Institute of Territorial Studies (in Spanish)
+[Ineter](http://www.ineter.gob.ni/) – Nicaraguan Institute of Territorial Studies (Spanish only)

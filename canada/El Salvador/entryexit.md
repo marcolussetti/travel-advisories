@@ -4,7 +4,7 @@
 
 The authorities of a country or territory decide who can enter or exit through its borders. The Government of Canada cannot intervene on your behalf if you do not meet your destination’s entry or exit requirements.
 
-We have obtained the information on this page from the Salvadoran authorities. It can, however, change at any time.
+We have obtained the information on this page from Salvadoran authorities. It can, however, change at any time.
 
 Verify this information with the [Foreign Representatives in Canada](https://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng).
 
@@ -48,7 +48,7 @@ Tourist visa: not required for stays up to 180 days
 
 To extend your stay in El Salvador beyond 180 days, you must depart and re-enter El Salvador by air, land or sea.
 
-### Central America-4 Border Control Agreement
+### Central America-4 Border Control Agreement (CA-4)
 
 Under the terms of the Central America-4 Border Control Agreement (CA-4), Canadian tourists may travel freely within any of the following CA-4 countries:
 
@@ -57,23 +57,31 @@ Under the terms of the Central America-4 Border Control Agreement (CA-4), Canadi
 * Honduras
 * Nicaragua
 
-You can travel between these countries for up to 90 days without having to undergo entry and exit formalities at border immigration checkpoints. However, 90 days are not automatically granted. It is the immigration officer at your first entry point into the CA-4 region who will determine the exact length of your authorized stay.
+You can travel between these countries for up to 90 days without having to undergo entry and exit formalities at border immigration checkpoints. However, 90 days are not automatically granted. The immigration officer at your first entry point into the CA-4 region will determine the exact length of your authorized stay.
 
 You must still check in at immigration counters when you enter or exit these checkpoints.
 
-Make sure you receive an entry or exit stamp in your passport each time you cross a checkpoint to avoid problems with immigration authorities and fines.
+Make sure you receive an entry or exit stamp in your passport each time you cross a checkpoint to avoid fines and problems with immigration authorities.
 
-Salvadoran immigration authorities may grant you a stay of up to 180 days. However, other CA-4 countries only recognize the first 90 days. Keep this in mind when travelling within the CA-4 region to avoid problems with immigration authorities.
+Salvadoran immigration authorities may grant you a stay of up to 180 days. However, other CA-4 countries may only recognize the first 90 days. Keep this in mind when travelling within the CA-4 region to avoid problems with immigration authorities.
 
 If you wish to extend your stay beyond 90 days within the CA-4 region, you must request an extension and pay the required fee at the designated immigration office in one of the other CA-4 countries before the 90-day limit expires. Immigration authorities will determine the exact length of the extension.
 
-Once your total authorized stay expires, you must change your migratory status, leave the CA-4 region or return to El Salvador, where you may be granted a stay of up to 180 days. If you fail to do so, you will be fined and given 5 days to leave.
+Once your total authorized stay expires, you must either:
+
+* change your migratory status
+* leave the CA-4 region
+* return to El Salvador, where you may be granted a stay of up to 180 days
+
+If you fail to do so, you will be fined and given 5 days to leave.
 
 Once you leave the CA-4 region, you may attempt to return and restart the process without delay. However, the immigration officer could deny your re-entry.
 
 If you get a new Canadian passport in El Salvador, you must obtain a new entry stamp from immigration authorities before exiting the country and travelling within the CA-4 region.
 
-[Immigration and Foreign Affairs](https://www.migracion.gob.sv/) – Government of El Salvador (in Spanish only)
+Each CA-4 country interprets and enforces the agreement differently. Ensure you carefully read the Travel Advice and Advisories for each destination you plan on visiting before travelling.
+
+[Immigration and Foreign Affairs](https://www.migracion.gob.sv/) – Government of El Salvador (Spanish only)
 
 ### Work or study
 

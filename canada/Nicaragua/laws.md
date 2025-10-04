@@ -33,11 +33,11 @@ Outside urban areas, 2SLGBTQI+ persons could face discrimination based on their 
 
 ### Identification
 
-Authorities may request to see your ID at any time.
+Local authorities may request to see your identification at any time.
 
-* Carry identification or a photocopy of it at all times
-* Keep a photocopy of your passport in case it’s lost or seized
-* Keep a digital copy of your ID and travel documents
+* Always carry valid identification or a photocopy of it
+* Keep a photocopy of your passport in a safe place in case it’s lost or seized
+* Keep a digital copy of your identification and travel documents
 
 ### Photography
 

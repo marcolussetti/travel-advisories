@@ -4,7 +4,7 @@
 
 ### Climate change
 
-Climate change is affecting Guatemala. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local news to stay informed on the current situation. 
+Climate change is affecting Guatemala. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local news to stay informed on the current situation.
 
 ### Wildfires
 
@@ -43,7 +43,7 @@ The rainy season extends from mid-May to mid-November. Seasonal flooding can ham
 
 Flash floods and landslides are common. Roads may become impassable and bridges may be damaged.
 
-[Weather bulletins](https://insivumeh.gob.gt/) – National Institute of Volcanology and Meteorology (in Spanish)
+[Weather bulletins](https://insivumeh.gob.gt/) – National Institute of Volcanology and Meteorology (Spanish only)
 
 ### Seismic activity
 
@@ -56,7 +56,7 @@ If you’re in or near the affected areas:
 * monitor local media for the latest information
 * follow instructions from local authorities, including evacuation orders
 
-[CONRED](https://conred.gob.gt/) – National Coordinator for Disaster Reduction (in Spanish only)
+[CONRED](https://conred.gob.gt/) – National Coordinator for Disaster Reduction (Spanish only)
 
 Guatemala is located in an active seismic zone. Earthquakes and tsunamis can occur.
 
@@ -75,6 +75,6 @@ In the event of an earthquake or volcanic eruption:
 
 #### Useful links
 
-* [CONRED](https://conred.gob.gt/) – National Coordinator for Disaster Reduction (in Spanish)
+* [CONRED](https://conred.gob.gt/) – National Coordinator for Disaster Reduction (Spanish only)
 * [Tsunami warning system](http://tsunami.gov/) – U.S. National Weather Service
 * [Latest earthquakes](https://earthquake.usgs.gov/earthquakes/map/) – U.S. Geological Survey

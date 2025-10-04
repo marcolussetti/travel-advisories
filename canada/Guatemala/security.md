@@ -109,7 +109,7 @@ If you participate in demonstrations as a foreigner, you may face detention, dep
 #### Useful links
 
 * [Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
-* [Protests and blockades listed by date](https://docs.google.com/spreadsheets/d/e/2PACX-1vTP3L7L40wPzWQyqeQFfxGogSqdBYdUV3Wy9sfLs3sFlkiSb5KKCyGJ2ptGQXtQH5dTqEHon-9MwBhS/pubhtml?gid=0&single=true) – Government of Guatemala (in Spanish)
+* [Protests and blockades listed by date](https://docs.google.com/spreadsheets/d/e/2PACX-1vTP3L7L40wPzWQyqeQFfxGogSqdBYdUV3Wy9sfLs3sFlkiSb5KKCyGJ2ptGQXtQH5dTqEHon-9MwBhS/pubhtml?gid=0&single=true) – Government of Guatemala (Spanish only)
 * [Tourist assistance website](https://inguat.gob.gt/images/Asistencia-turistica/assistur-english.html) – Instituto Guatemalteco de Turismo (INGUAT)
 
 ### Vigilante justice
@@ -236,7 +236,7 @@ Throughout Guatemala:
 
 PROVIAL, the government roadside assistance agency, patrols most of the major highways and provides updates on roads conditions.
 
-[PROVIAL](https://provial.gob.gt/#/)  - Directorate General of Road Safety and Protection (in Spanish)
+[PROVIAL](https://provial.gob.gt/#/) – Directorate General of Road Safety and Protection (Spanish only)
 
 ### Public transportation
 

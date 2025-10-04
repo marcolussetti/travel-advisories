@@ -48,9 +48,9 @@ Tourist visa: not required for stays up to 90 days
 
 #### Student permit
 
-If you intend to study in Honduras, you must obtain a student permit which can be obtained from the immigration authorities once you arrive in the country.
+If you intend to study in Honduras, you must obtain a student permit, which you can get from the immigration authorities once you arrive in the country.
 
-[National Institute of Migration](http://inm.gob.hn/noticias.html) – Government of Honduras
+[National Migration Institute](https://www.inm.gob.hn/) – Government of Honduras (Spanish only)
 
 ### Customs declaration form
 
@@ -64,12 +64,10 @@ After completing the online form, you must present the QR code to the customs au
 
 Immigration authorities will stamp your passport upon arrival and write down the number of days you are allowed in the country. The 90-day period is not guaranteed, and the decision is at their discretion.
 
-You may face a fine and possible delays if you fail to present an entry-stamped passport when departing Honduras.
+* Make sure your passport is stamped upon arrival
+* Take good note of your total authorized stay
 
-* Make sure your passport has been stamped upon arrival
-* Take good note of the maximum length of your approved stay
-
-### Central America-4 Border Control Agreement
+### Central America-4 Border Control Agreement (CA-4)
 
 Under the terms of the Central America-4 Border Control Agreement (CA-4), Canadian tourists may travel freely within any of the following CA-4 countries:
 
@@ -78,11 +76,31 @@ Under the terms of the Central America-4 Border Control Agreement (CA-4), Canadi
 * Honduras
 * Nicaragua
 
-You can travel between these countries for up to 90 days without having to undergo entry and exit formalities at border immigration checkpoints.
+You can travel between these countries for up to 90 days without having to undergo entry and exit formalities at border immigration checkpoints. However, 90 days are not automatically granted. The immigration officer at your first entry point into the CA-4 region will determine the exact length of your authorized stay.
 
 You must still check in at immigration counters when you enter or exit these checkpoints.
 
-The 90-day period begins at the first point of entry to any of the CA-4 countries. You will be fined if you exceed the 90-day limit.
+Make sure you receive an entry or exit stamp in your passport each time you cross a checkpoint to avoid fines and problems with immigration authorities.
+
+You may request an extension of up to 30 days. However, you must request this extension and pay the required fee at the National Migration Institute before your first authorized stay expires. Immigration authorities will determine the exact length of the extension.
+
+You are authorized to stay in Honduras for a maximum of 120 days. Therefore, if you receive an extension in another CA-4 country that leads to a total authorized stay of less than 120 days, you may request another extension of up to 30 days in Honduras, as long as it does not exceed 120 days. Likewise, if you receive an extension in another CA-4 country that leads to a total authorized stay of more than 120 days, Honduras will only recognize the first 120 days.
+
+Once your total authorized stay expires, you must either:
+
+* change your migratory status
+* leave the CA-4 region
+* travel to El Salvador, where you may be granted a stay of up to 180 days
+
+If you fail to do so, you will be fined and given 5 days to leave.
+
+Once you leave the CA-4 region, you may attempt to return and restart the process without delay. However, the immigration officer could deny your re-entry.
+
+If you get a new Canadian passport in Honduras, you do not need to obtain a new entry stamp from immigration authorities to exit the country, since your information is saved digitally upon arrival. However, you could encounter issues when travelling within the CA-4 region if you do not have proof of your entry stamp. To avoid problems, you should obtain a new entry stamp from immigration authorities before exiting the country and travelling within the CA-4 region.
+
+Each CA-4 country interprets and enforces the agreement differently. Ensure you carefully read the Travel Advice and Advisories for each destination you plan on visiting before travelling.
+
+[National Migration Institute](https://www.inm.gob.hn/) – Government of Honduras (Spanish only)
 
 ### Entering by land
 
@@ -90,9 +108,9 @@ If you plan to enter by land, you need to pay 3 USD or the equivalent in lempir
 
 ### Stay extension
 
-You can apply for extensions of up to 30 days at a time, at the discretion of the immigration authorities. You must request this extension and pay the required fee at the Honduran immigration office before your first 90-day limit expires.
+You can apply for a stay extension of up to 30 days, at the discretion of the immigration authorities. You must request this extension and pay the required fee at the National Migration Institute before your first authorized stay expires.
 
-[National Institute of Migration](http://inm.gob.hn/) – Government of Honduras
+[National Migration Institute](https://www.inm.gob.hn/prorrogas-estadias.html) – Government of Honduras (Spanish only)
 
 ### Other entry requirements
 

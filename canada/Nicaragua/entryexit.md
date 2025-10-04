@@ -57,10 +57,10 @@ Immigration authorities will stamp your passport upon arrival and write down the
 
 You may face fines and possible delays if you fail to present an entry-stamped passport when departing Nicaragua.
 
-* Make sure your passport has been stamped upon arrival
-* Take good note of the maximum length of the approved stay
+* Make sure your passport is stamped upon arrival
+* Take good note of your total authorized stay
 
-### Central America-4 Border Control Agreement
+### Central America-4 Border Control Agreement (CA-4)
 
 Under the terms of the Central America-4 Border Control Agreement (CA-4), Canadian tourists may travel freely within any of the following CA-4 countries:
 
@@ -69,15 +69,31 @@ Under the terms of the Central America-4 Border Control Agreement (CA-4), Canadi
 * Honduras
 * Nicaragua
 
-You can travel between these countries for up to 90 days without having to undergo entry and exit formalities at border immigration checkpoints.
+You can travel between these countries for up to 90 days without having to undergo entry and exit formalities at border immigration checkpoints. However, 90 days are not automatically granted. The immigration officer at your first entry point into the CA-4 region will determine the exact length of your authorized stay.
 
 You must still check in at immigration counters when you enter or exit these checkpoints.
 
-The 90-day period begins at the first point of entry to any of the CA-4 countries. You will be fined if you exceed the 90-day limit.
+Make sure you receive an entry or exit stamp in your passport each time you cross a checkpoint to avoid fines and problems with immigration authorities.
 
-You may request an extension of up to 90 days once a year. You must request this extension and pay the required fee at the Nicaraguan General Directorate of Migration and Foreign Nationals before your first 90-day limit expires. Immigration authorities will determine the length of the extension.
+You may request an extension of up to 90 days. However, you must request this extension and pay the required fee at the General Directorate of Migration and Foreign Affairs before your first authorized stay expires. Immigration authorities will determine the exact length of the extension.
 
-[General Directorate of Migration and Foreign Nationals](https://www.migob.gob.ni/migracion/) – Government of Nicaragua
+You are authorized to stay in Nicaragua for a maximum of 180 days. Therefore, if you receive an extension in another CA-4 country that leads to a total authorized stay of less than 180 days, you may request another extension in Nicaragua to reach 180 days. Likewise, if you receive an extension in another CA-4 country that leads to a total authorized stay of more than 180 days, Nicaragua will only recognize the first 180 days.
+
+Once your total authorized stay expires, you must either:
+
+* change your migratory status
+* leave the CA-4 region
+* travel to El Salvador, where you may be granted a stay of up to 180 days
+
+If you fail to do so, you will be fined and given 5 days to leave.
+
+Once you leave the CA-4 region, you may attempt to return and restart the process without delay. However, the immigration officer could deny your re-entry.
+
+If you get a new Canadian passport in Nicaragua, you must obtain an exit visa from immigration authorities before exiting the country and travelling within the CA-4 region.
+
+Each CA-4 country interprets and enforces the agreement differently. Ensure you carefully read the Travel Advice and Advisories for each destination you plan on visiting before travelling.
+
+[General Directorate of Migration and Foreign Affairs](https://www.mint.gob.ni/migracion/) – Government of Nicaragua (Spanish only)
 
 ### Registration
 
@@ -89,7 +105,7 @@ To help facilitate your entry into the country, Nicaraguan authorities recommend
 
 You should submit your form to the Ministry of the Interior in Spanish by email, at least 7 days before departure.
 
-[Entry and exit application portal](https://solicitudes.migob.gob.ni/) - Government of Nicaragua (in Spanish)
+[Entry and exit application portal](https://solicitudes.migob.gob.ni/) – Government of Nicaragua (Spanish only)
 
 ### Other entry requirements
 
@@ -102,11 +118,10 @@ Customs officials may ask you to show them:
 
 Minors (under the age of 18) may be subject to Nicaragua’s exit requirements. Contact Nicaraguan authorities if you plan on travelling with minors.
 
-**Useful links**
+#### Useful links
 
-[Departure visa for minors](https://www.mint.gob.ni/migracion/tramites/visa-de-salida-de-menor/)–General Directorate of Migration and Foreign Nationals, Government of Nicaragua (in Spanish only)
-
-[Travelling with children](http://travel.gc.ca/travelling/children) – Government of Canada
+* [Departure visa for minors](https://www.mint.gob.ni/migracion/tramites/visa-de-salida-de-menor/)–General Directorate of Migration and Foreign Nationals, Government of Nicaragua (Spanish only)
+* [Children and travel](http://travel.gc.ca/travelling/children)
 
 ### Yellow fever
 

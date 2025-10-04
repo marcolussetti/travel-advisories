@@ -46,9 +46,9 @@ Tourist visa: not required for stays of up to 90 days
 Business visa: not required for stays of up to 90 days  
 Student visa: required
 
-You may request an extension of up to 90 days from the Guatemala Directorate General of Migration. If you wish to conduct business or stay in Guatemala for a period exceeding 6 months, you require a visa.
+You may request an extension equal to the number of days you were initially authorized to stay at the Guatemalan Migration Institute. If you wish to conduct business or stay in Guatemala for a period exceeding 6 months, you require a visa.
 
-[Guatemala Directorate General of Migration](http://igm.gob.gt/) – Government of Guatemala (in Spanish)
+[Guatemalan Migration Institute](http://igm.gob.gt/) – Government of Guatemala (Spanish only)
 
 ### Entry stamp
 
@@ -62,9 +62,9 @@ If you enter Guatemala with a vehicle, you must comply with the deadline for lea
 
 You must complete an electronic declaration form before arriving and leaving Guatemala. You will then receive a QR code. Keep your QR code in order to present it to authorities upon your arrival or departure.
 
-[Electronic declaration form](https://farm2.sat.gob.gt/declaDelViajeroGt-web/pages/public/declaracionJuradaDelViajero.html) - Government of Guatemala
+[Electronic declaration form](https://farm2.sat.gob.gt/declaDelViajeroGt-web/pages/public/declaracionJuradaDelViajero.html) – Government of Guatemala
 
-### Central America-4 Border Control Agreement
+### Central America-4 Border Control Agreement (CA-4)
 
 Under the terms of the Central America-4 Border Control Agreement (CA-4), Canadian tourists may travel freely within any of the following CA-4 countries:
 
@@ -73,15 +73,31 @@ Under the terms of the Central America-4 Border Control Agreement (CA-4), Canadi
 * Honduras
 * Nicaragua
 
-You can travel between these countries for up to 90 days without having to undergo entry and exit formalities at border immigration checkpoints.
+You can travel between these countries for up to 90 days without having to undergo entry and exit formalities at border immigration checkpoints. However, 90 days are not automatically granted. The immigration officer at your first entry point into the CA-4 region will determine the exact length of your authorized stay.
 
 You must still check in at immigration counters when you enter or exit these checkpoints.
 
-The 90-day period begins at the first point of entry to any of the CA-4 countries. You will be fined if you exceed the 90-day limit.
+Make sure you receive an entry or exit stamp in your passport each time you cross a checkpoint to avoid fines and problems with immigration authorities.
 
-You may request an extension of up to 90 days once a year. You must request this extension and pay the required fee at the Guatemala Directorate General of Migration before your first 90-day limit expires. Immigration authorities will determine the length of the extension.
+You may request an extension equal to the number of days you were initially authorized to stay. However, you must request this extension and pay the required fee at the Guatemalan Migration Institute before your first authorized stay expires. Immigration authorities will determine the exact length of the extension.
 
-[Guatemala Directorate General of Migration](http://igm.gob.gt/) (in Spanish)
+You are authorized to stay in Guatemala for a maximum of 180 days. However, if you receive an extension in another CA-4 country that leads to a total authorized stay of less than 180 days, you cannot request another extension in Guatemala. Likewise, if you receive an extension in another CA-4 country that leads to a total authorized stay of more than 180 days, Guatemala will only recognize the first 180 days.
+
+Once your total authorized stay expires, you must either:
+
+* change your migratory status
+* leave the CA-4 region
+* travel to El Salvador, where you may be granted a stay of up to 180 days
+
+If you fail to do so, you will be fined and given 5 days to leave.
+
+Once you leave the CA-4 region, you may attempt to return and restart the process, as long as 72 hours have passed since your exit. However, the immigration officer could deny your re-entry.
+
+If you get a new Canadian passport in Guatemala, you must obtain a new entry stamp from immigration authorities before exiting the country and travelling within the CA-4 region.
+
+Each CA-4 country interprets and enforces the agreement differently. Ensure you carefully read the Travel Advice and Advisories for each destination you plan on visiting before travelling.
+
+[Guatemalan Migration Institute](http://igm.gob.gt/) – Government of Guatemala (Spanish only)
 
 ### Children and travel
 
@@ -89,7 +105,7 @@ Children travelling with only one parent or with a third party must travel with 
 
 #### Useful links
 
-* [Immigration exit requirements](https://igm.gob.gt/requisitos-para-salir-del-pais/) – Government of Guatemala (in Spanish)
+* [Immigration exit requirements](https://igm.gob.gt/requisitos-para-salir-del-pais/) – Government of Guatemala (Spanish only)
 * [Recommended consent letter for children travelling abroad](https://travel.gc.ca/travelling/children/consent-letter)
 * [Travel with children](http://travel.gc.ca/travelling/children)
 

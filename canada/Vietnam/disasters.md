@@ -4,12 +4,14 @@
 
 ### Flooding
 
-Heavy rainfall has caused flooding in parts of the country, including Hanoi. Transportation, including the operations of the No Bai International Airport, is severely disrupted.
+Heavy rainfall has caused flooding in parts of the country, including Hanoi.
+
+Typhoon Matmo may bring additional rains and flooding on October 5, 2025.
 
 If you are in an affected area of Vietnam:
 
 * monitor local news and weather reports
-* limit your movements and do not go to the airport unless your flight is confirmed
+* confirm your flight before going to the airport
 * follow the instructions of local authorities
 
 ### Climate change

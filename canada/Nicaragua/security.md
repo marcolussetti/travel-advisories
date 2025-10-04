@@ -60,7 +60,7 @@ Border areas also often see higher criminal activity and violence. Criminal gang
 While travelling:
 
 * ensure that your belongings, including your passport and other travel documents, are secure at all times
-* don’t keep your passport and other types of ID in the same place and carry a photocopy rather than the original, including the Nicaraguan entry stamp
+* keep your passport and other types of identification in different places and carry a photocopy rather than the original, including your entry stamp
 * be aware of your surroundings, particularly in crowded and tourist areas
 * avoid showing signs of affluence or wearing expensive jewellery
 * avoid carrying large sums of cash or unnecessary valuables

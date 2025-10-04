@@ -20,9 +20,9 @@ In the event of an earthquake:
 #### Useful links
 
 * [Latest Earthquakes](https://earthquake.usgs.gov/earthquakes/map/) – U.S. Geological Survey
-* [Information on seismic activity](https://www.snet.gob.sv/informacion/?area=sismologia) – General Directorate of the Observatory of Threats and Natural Resources (in Spanish only)
+* [Information on seismic activity](https://www.snet.gob.sv/informacion/?area=sismologia) – General Directorate of the Observatory of Threats and Natural Resources (Spanish only)
 * [Tsunami alerts](http://tsunami.gov/) – U.S. Tsunami Warning System
-* [Information on tsunamis](https://www.snet.gob.sv/informacion/?area=tsunamis) – General Directorate of the Observatory of Threats and Natural Resources (in Spanish only)
+* [Information on tsunamis](https://www.snet.gob.sv/informacion/?area=tsunamis) – General Directorate of the Observatory of Threats and Natural Resources (Spanish only)
 
 ### Volcanoes
 
@@ -40,8 +40,8 @@ If you intend on visiting a volcano area:
 
 #### Useful links
 
-* [Daily volcano forecast](https://www.snet.gob.sv/) – General Directorate of the Observatory of Threats and Natural Resources (in Spanish only)
-* [Volcanoes of El Salvador](https://www.snet.gob.sv/ver/volcanologia) – General Directorate of the Observatory of Threats and Natural Resources (in Spanish only)
+* [Daily volcano forecast](https://www.snet.gob.sv/) – General Directorate of the Observatory of Threats and Natural Resources (Spanish only)
+* [Volcanoes of El Salvador](https://www.snet.gob.sv/ver/volcanologia) – General Directorate of the Observatory of Threats and Natural Resources (Spanish only)
 
 ### Rainy season
 
