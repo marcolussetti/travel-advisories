@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   27 June 2025
+:   5 October 2025
 
 Updated:
-:   26 June 2025
+:   4 October 2025
 
 Latest update:
-:   Addition of information on reports of increased criminal activity along main road ‘Troncal 10’ in Bolivar State (‘Safety and security’ page).
+:   New information on the ‘State of External Commotion’ ('Warnings and insurance' and 'Safety and security' pages).
 
 ![](https://assets.publishing.service.gov.uk/media/5f4e7de38fa8f57fb9bf665b/FCDO__TA__045_-_Venezuela_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -33,6 +33,12 @@ FCDO advises against all travel to within 40km (25 miles) of the border with Bra
 ### All other areas of Venezuela
 
 FCDO advises against all but essential travel to the remaining areas of Venezuela, due to ongoing crime and instability.
+
+## State of External Commotion
+
+Plans for a ‘state of external commotion’ were announced on 29 September 2025. If decreed by the authorities in Venezuela  – in the event of a case of internal or external conflict – this could lead to the closure of Venezuelan borders and airspace.
+
+The situation in Venezuela is currently tense. Consular access and support to British nationals in Venezuela may be severely limited.  If you choose to travel to Venezuela, monitor developments closely through local and international media and keep up to date with this travel advice.
 
 ## Before you travel
 

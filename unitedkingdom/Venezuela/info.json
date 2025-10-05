@@ -1,11 +1,11 @@
 {
     "name": "Venezuela",
-    "update_reason": "Addition of information on reports of increased criminal activity along main road \u2018Troncal 10\u2019 in Bolivar State (\u2018Safety and security\u2019 page).",
+    "update_reason": "New information on the \u2018State of External Commotion\u2019 ('Warnings and insurance' and 'Safety and security' pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Venezuela/Warnings and insurance.md",
-            "update_date": "2025-06-26T12:32:02+01:00"
+            "update_date": "2025-10-04T17:26:51+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Venezuela/Getting help.md"
         }
     ],
-    "update_date": "2025-06-26T12:32:02+01:00"
+    "update_date": "2025-10-04T17:26:51+01:00"
 }

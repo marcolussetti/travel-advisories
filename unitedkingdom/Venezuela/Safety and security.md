@@ -16,17 +16,19 @@ Terrorist attacks in Venezuela cannot be ruled out.
 
 The UK does not accept the legitimacy of the current administration put in place by Nicolás Maduro.
 
-The situation in Venezuela is currently tense, monitor developments closely and keep up to date with this travel advice.
+The situation in Venezuela is currently tense. Consular access and support to British nationals in Venezuela may be severely limited.  If you choose to travel to Venezuela, monitor developments closely through local and international media and keep up to date with this travel advice.
 
-There is currently an increased risk of demonstrations and protests. These may become violent and could be dispersed by the use of force, including with the use of rubber bullets and tear gas. Avoid political rallies, demonstrations and crowds, and do not cross security-force lines or barricades.
+There is currently a more visible security presence across the country, including with Venezuelan military deployments in Venezuela’s territorial waters and along its borders.
 
-There is currently a more visible security presence across the country, including with military deployments. There are strict controls at border crossings, both via land and at airports. Some foreigners, including British nationals, have been questioned extensively on the reasons for their visit. This can involve being held at the airport for hours or days and can result in deportation. Whilst checks are being carried out you may not be allowed to contact relatives, friends or the British Embassy.
+There are strict controls at border crossings, both via land and at airports. Some foreigners, including British nationals, have been questioned extensively on the reasons for their visit. This can involve being held at the airport for hours or days and can result in deportation. Whilst checks are being carried out you may not be allowed to contact relatives, friends nor the British Embassy.
 
-Since July, some foreign nationals, including Europeans, have been detained and accused of terrorism. In some cases, the relevant embassy has not been yet able to support those detained. Support from FCDO to any British nationals who are detained may be severely limited.
+Some foreign nationals, including Europeans, have been detained and accused of terrorism in Venezuela. In some cases, the relevant embassy has not been able to support those detained. Support from FCDO to any British nationals who are detained may be severely limited.
 
-Basic public services including health care and security, and the supply of electricity, water and fuel, have deteriorated in the last decade. Prolonged power cuts affect living conditions and cut mobile networks and internet. There are sometimes shortages of some everyday essentials. Consider storing tinned food and water.
+Demonstrations and gatherings can turn violent and could be dispersed by the use of force, including with the use of rubber bullets and tear gas. Avoid political rallies, demonstrations and crowds, and do not cross security-force lines or barricades.
 
-Caracas International Airport is often affected during power failures, causing flights to be delayed or cancelled. Keep in close contact with your airline or travel agent to see if your flight is affected. Given the current situation you should allow extra time to travel to the airport.
+Public services including health care and security, and the supply of electricity, water and fuel, can be limited. Prolonged power cuts can affect living conditions and cut mobile networks and internet. There are sometimes shortages of some everyday essentials. Consider storing tinned food and water.
+
+Caracas International Airport can be affected during power failures, causing flights to be delayed or cancelled. Keep in close contact with your airline or travel agent to see if your flight is affected.
 
 ## Crime
 
