@@ -34,7 +34,7 @@ There has been a spate of violent assaults and muggings on hikers and tourists i
 
 South Africa National Parks (SANParks) advise against using the Numbi gate entrance to Kruger National Park. There have been a number of violent incidents involving tourists on the R538 road leading to the gate.
 
-Follow SANParks advice on using alternative entrances. If you stay outside the park, contact your lodge in advance to find out if any disruptions will affect your trip. Get up-to-date [SANParks news](https://www.sanparks.org/about/news/) on the park website.
+Follow SANParks advice on using alternative entrances. If you stay outside the park, contact your lodge in advance to find out if any disruptions will affect your trip. Get up-to-date [**SANParks news**](https://www.sanparks.org/about/news/) on the park website.
 
 ### **Car Crime**
 

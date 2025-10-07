@@ -6,7 +6,7 @@ If your visit to South Africa is for less than 90 days, you won't need a visa. 
 
 ### **Passports**
 
-A valid passport is required for travel to South Africa and Irish passports should have a minimum validity of 6 months from your intended date of departure from South Africa.
+A valid passport is required for travel to South Africa and Irish passports should have a minimum validity of 6 months from your intended date of departure from South Africa. If you are a South African citizen aged 18 or over, you must use a South African passport to enter and exit South Africa. It is illegal to use another country’s passport. See the [**South African Department of Home Affairs**](https://www.dha.gov.za/index.php/civic-services/travel-documents) for further information. In terms of section 26(B) of the South African Citizenship Act, 1995, it is a punishable offence for a South African citizen (including dual nationals) of 18 years and older to leave or enter South Africa on a foreign passport.
 
 It’s advisable to take a number of photocopies of your passport with you when travelling to South Africa and you should carry a photocopy of your passport at all times during your stay.
 

@@ -10,6 +10,8 @@ Irish citizens who are planning to visit South Africa for less than 90 days, do 
 
 A valid passport is required for travel to South Africa and Irish passports should have a minimum validity of 6 months from your intended date of departure from South Africa. Passport cards cannot be used. Your passport must have at least two blank pages and must not be damaged in any way. If your passport fails on either count, it will be not be accepted by the South African authorities.
 
+If you are a South African citizen aged 18 or over, you must use a South African passport to enter and exit South Africa. It is illegal to use another country’s passport. See the [**South African Department of Home Affairs**](https://www.dha.gov.za/index.php/civic-services/travel-documents) for further information. In terms of section 26(B) of the South African Citizenship Act, 1995, it is a punishable offence for a South African citizen (including dual nationals) of 18 years and older to leave or enter South Africa on a foreign passport.
+
 There is a very high level of crime, including violent crime, in South Africa. The most violent crimes tend to occur away from the normal tourist destinations, but you should take sensible precautions to protect your safety. Crime increases in areas where large crowds gather, so be particularly vigilant if you're attending sporting or other events that attract large numbers. (See Safety and Security)
 
 There are strict documentation requirements in place for people travelling with children to/from and through South Africa. For more information on these important requirements, please view the Entry Requirements tab.
