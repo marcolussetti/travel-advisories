@@ -28,7 +28,7 @@ FCDO has guidance on staying safe and what to do if you need help or support abr
 * finding English-speaking [lawyers](https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/lawyers?country=Greece), [funeral directors](https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/funeral-directors?country=Greece) and [translators and interpreters](https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/translators-interpreters?country=Greece) in Greece
 * dealing with a [death in Greece](https://www.gov.uk/guidance/what-to-do-after-a-british-person-dies-in-greece)
 * being [arrested in Greece](https://www.gov.uk/government/publications/greece-prisoner-pack/information-pack-for-british-prisoners-in-greece)
-* getting help if you’re a [victim of crime](https://www.gov.uk/victim-crime-abroad)
+* getting help if you’re a [victim of crime](https://www.gov.uk/guidance/victim-of-crime-abroad)
 * what to do if you’re [in hospital](https://www.gov.uk/government/publications/british-visitors-hospitalised-in-greece/british-visitors-hospitalised-in-greece)
 * if you are [affected by a crisis](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas), such as a terrorist attack
 

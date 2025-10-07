@@ -1,17 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   30 August 2025
+:   7 October 2025
 
 Updated:
-:   29 August 2025
+:   6 October 2025
 
 Latest update:
-:   Updated information about tropical storm season('Warnings and insurance' page).
+:   Additional information about tropical storm season ( 'Warnings and insurance' page).
 
 ## Tropical storm season
 
-The tropical storm season runs from May to November. You should follow and monitor local and international weather updates from the [National Centre for Hydro-Meteorological Forecasting](https://nchmf.gov.vn/KttvsiteE/en-US/2/index.html) and [Japan Meteorological Agency](https://www.jma.go.jp/bosai/map.html#5/34.5/137/&elem=root&typhoon=all&contents=typhoon&lang=en) and follow the advice of local authorities.
+The tropical storm season runs from May to November. Tropical storms can cause serious travel disruption, 2025 has seen higher than expected rainfall in Vietnam. Follow and monitor local and international weather updates from the [National Centre for Hydro-Meteorological Forecasting](https://nchmf.gov.vn/KttvsiteE/en-US/2/index.html) and [Japan Meteorological Agency](https://www.jma.go.jp/bosai/map.html#5/34.5/137/&elem=root&typhoon=all&contents=typhoon&lang=en) and follow the advice of local authorities.
 
 See [Extreme weather and natural disasters](https://www.gov.uk/foreign-travel-advice/vietnam/safety-and-security#extreme-weather-and-natural-disasters).
 

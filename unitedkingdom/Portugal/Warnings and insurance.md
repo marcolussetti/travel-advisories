@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   1 October 2025
+:   7 October 2025
 
 Updated:
-:   30 September 2025
+:   6 October 2025
 
 Latest update:
-:   Removal of information on a warning about the tropical storm heading towards the Azores (‘Warnings and insurance’ page).
+:   Updated with information about the new Entry/Exit System (EES) which will start to be rolled out on 12 October to people travelling into the EU (‘Entry requirements’ page).
 
 This travel advice also covers Madeira, Porto Santo and the Azores.
 

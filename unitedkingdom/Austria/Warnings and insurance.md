@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   13 September 2025
+:   7 October 2025
 
 Updated:
-:   12 September 2025
+:   6 October 2025
 
 Latest update:
-:   This travel advice was reviewed for accuracy and there are no significant updates.
+:   Updated with information about the new Entry/Exit System (EES) which will start to be rolled out on 12 October to people travelling into the EU (‘Entry requirements’ page).
 
 ## Before you travel
 

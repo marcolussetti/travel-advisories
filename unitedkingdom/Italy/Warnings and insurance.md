@@ -1,23 +1,15 @@
 # Warnings and insurance
 
 Still current at:
-:   3 October 2025
+:   7 October 2025
 
 Updated:
-:   2 October 2025
+:   6 October 2025
 
 Latest update:
-:   New information about strikes and demonstrations in Italy ('Warnings and insurance' page).
+:   Updated with information about the new Entry/Exit System (EES) which will start to be rolled out on 12 October to people travelling into the EU (‘Entry requirements’ page).
 
 This travel advice also covers Vatican City.
-
-## Strikes and demonstrations
-
-There is a 24-hour National Transport strike on Friday 3 October which will cause disruption to travel.  This will affect trains from 9pm on Thursday 2 October and all transport from midnight. Check schedule details with transport providers.
-
-Demonstrations are planned in Rome for Saturday 4 October. This is likely to attract a large number of protestors and cause disruption to roads and transport in the city centre. Plan your day and avoid any demonstrations.
-
-Read more about industrial action and demonstrations on the [Safety and security page](https://www.gov.uk/foreign-travel-advice/italy/safety-and-security).
 
 ## Jubilee 2025 - Holy Year
 

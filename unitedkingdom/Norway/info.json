@@ -1,11 +1,11 @@
 {
     "name": "Norway",
-    "update_reason": "Updated with a link to information about using a UK issued Blue Badge in Norway (\u2018Safety and security\u2019 page).",
+    "update_reason": "Updated with information about the new Entry/Exit System (EES) which will start to be rolled out on 12 October to people travelling into the EU (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Norway/Warnings and insurance.md",
-            "update_date": "2025-08-07T14:25:46+01:00"
+            "update_date": "2025-10-06T16:14:59+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Norway/Getting help.md"
         }
     ],
-    "update_date": "2025-08-07T14:25:46+01:00"
+    "update_date": "2025-10-06T16:14:59+01:00"
 }

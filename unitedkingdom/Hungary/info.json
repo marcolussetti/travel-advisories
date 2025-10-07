@@ -1,11 +1,11 @@
 {
     "name": "Hungary",
-    "update_reason": "Updated with a link to information about using a UK issued Blue Badge in Hungary (\u2018Safety and security\u2019 page).",
+    "update_reason": "Updated with information about the new Entry/Exit System (EES) which will start to be rolled out on 12 October to people travelling into the EU (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Hungary/Warnings and insurance.md",
-            "update_date": "2025-08-07T14:23:17+01:00"
+            "update_date": "2025-10-06T16:11:52+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Hungary/Getting help.md"
         }
     ],
-    "update_date": "2025-08-07T14:23:17+01:00"
+    "update_date": "2025-10-06T16:11:52+01:00"
 }

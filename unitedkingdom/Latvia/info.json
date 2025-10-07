@@ -1,11 +1,11 @@
 {
     "name": "Latvia",
-    "update_reason": "New information about the national defence exercise \u2018Namejs 2025\u2019(\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Updated with information about the new Entry/Exit System (EES) which will start to be rolled out on 12 October to people travelling into the EU (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Latvia/Warnings and insurance.md",
-            "update_date": "2025-09-15T16:13:48+01:00"
+            "update_date": "2025-10-06T16:11:22+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Latvia/Getting help.md"
         }
     ],
-    "update_date": "2025-09-15T16:13:48+01:00"
+    "update_date": "2025-10-06T16:11:22+01:00"
 }

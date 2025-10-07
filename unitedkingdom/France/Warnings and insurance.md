@@ -1,19 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   4 October 2025
+:   7 October 2025
 
 Updated:
-:   3 October 2025
+:   6 October 2025
 
 Latest update:
-:   Clarification of existing entry requirements to France ('Entry requirements' page).
-
-## Strike action
-
-Calls for strike action and demonstrations across France on Thursday 2 October may cause disruption to travel. Monitor local news and
-check for messaging from your travel provider about any potential delays. Read more about industrial action and demonstrations on the
-[Safety and security page](https://www.gov.uk/foreign-travel-advice/france/safety-and-security).
+:   Updated with information about the new Entry/Exit System (EES) which will start to be rolled out on 12 October to people travelling into the EU (‘Entry requirements’ page).
 
 ## Before you travel
 

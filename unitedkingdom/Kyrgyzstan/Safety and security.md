@@ -138,7 +138,9 @@ There is a basic mountain rescue service staffed by volunteers. The rescue equip
 
 If you’re planning to drive a hire car or a UK vehicle, see information on [driving abroad](https://www.gov.uk/driving-abroad).
 
-You can use a UK photocard driving licence to drive in Kyrgyzstan for up to 30 days. If you still have a paper driving licence, you may need to [update it to a photocard licence](https://www.gov.uk/exchange-paper-driving-licence) or get the [correct version of the international driving permit (IDP)](https://www.gov.uk/driving-abroad/international-driving-permit) as well.
+You can use a UK photocard driving licence to drive in Kyrgyzstan for up to 30 days. For stays longer than this, you’ll need to have both the 1968 version of the international driving permit (IDP) and your UK driving licence with you in the car. You cannot buy an IDP outside the UK, so get one before you travel. An IDP is valid for either 12 months or 3 years, depending on the type, and is issued for a fixed duration.
+
+If you still have a paper driving licence, you may need to [update it to a photocard licence](https://www.gov.uk/exchange-paper-driving-licence) or get the [correct version of the international driving permit (IDP)](https://www.gov.uk/driving-abroad/international-driving-permit) as well.
 
 You’re legally required to have third-party insurance. For more information, contact insurance companies in Kyrgyzstan.
 

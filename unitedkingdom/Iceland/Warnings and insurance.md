@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   30 September 2025
+:   7 October 2025
 
 Updated:
-:   29 September 2025
+:   6 October 2025
 
 Latest update:
-:   New information about flight disruption (‘Warnings and insurance’ page).
+:   Updated with information about the new Entry/Exit System (EES) which will start to be rolled out on 12 October to people travelling into the EU (‘Entry requirements’ page).
 
 ## Flight disruption
 

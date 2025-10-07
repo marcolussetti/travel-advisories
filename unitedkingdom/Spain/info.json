@@ -1,11 +1,11 @@
 {
     "name": "Spain",
-    "update_reason": "Addition of information about wildfires ('Warnings and insurance' page).",
+    "update_reason": "Updated with information about the new Entry/Exit System (EES) which will start to be rolled out on 12 October to people travelling into the EU (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Spain/Warnings and insurance.md",
-            "update_date": "2025-08-14T15:33:41+01:00"
+            "update_date": "2025-10-06T16:11:41+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Spain/Getting help.md"
         }
     ],
-    "update_date": "2025-08-14T15:33:41+01:00"
+    "update_date": "2025-10-06T16:11:41+01:00"
 }

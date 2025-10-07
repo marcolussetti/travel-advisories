@@ -1,11 +1,11 @@
 {
     "name": "Kyrgyzstan",
-    "update_reason": "This travel advice has been reviewed with minor edits throughout, including medication, crime, drink spiking and sexual assault, prohibited materials, air quality and using and accessing money. There continues to be an assessment that terrorists are likely to try to carry out attacks in Kyrgyzstan. Due to increasing regional tensions in the Middle East, Israeli and Jewish linked sites could be targets for terrorists in Kyrgyzstan ('Entry requirements', 'Safety and security', 'Regional risks' and 'Health' pages).",
+    "update_reason": "New information on driving with an international driving permit (See \u2018Road travel\u2019 on the \u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Kyrgyzstan/Warnings and insurance.md",
-            "update_date": "2025-08-29T16:29:40+01:00"
+            "update_date": "2025-10-06T16:03:24+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Kyrgyzstan/Getting help.md"
         }
     ],
-    "update_date": "2025-08-29T16:29:40+01:00"
+    "update_date": "2025-10-06T16:03:24+01:00"
 }

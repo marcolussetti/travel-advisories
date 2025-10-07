@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   8 August 2025
+:   7 October 2025
 
 Updated:
-:   7 August 2025
+:   6 October 2025
 
 Latest update:
-:   Updated with a link to information about using a UK issued Blue Badge in Slovakia (‘Safety and security’ page).
+:   Updated with information about the new Entry/Exit System (EES) which will start to be rolled out on 12 October to people travelling into the EU (‘Entry requirements’ page).
 
 ## Before you travel
 

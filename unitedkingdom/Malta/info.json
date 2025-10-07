@@ -1,11 +1,11 @@
 {
     "name": "Malta",
-    "update_reason": "Updated information on new Schengen entry requirements being introduced from 12 October ('Entry requirements' page).",
+    "update_reason": "Updated with information about the new Entry/Exit System (EES) which will start to be rolled out on 12 October to people travelling into the EU (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Malta/Warnings and insurance.md",
-            "update_date": "2025-07-30T15:13:49+01:00"
+            "update_date": "2025-10-06T16:14:19+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Malta/Getting help.md"
         }
     ],
-    "update_date": "2025-07-30T15:13:49+01:00"
+    "update_date": "2025-10-06T16:14:19+01:00"
 }

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   31 July 2025
+:   7 October 2025
 
 Updated:
-:   30 July 2025
+:   6 October 2025
 
 Latest update:
-:   Updated information on new Schengen entry requirements being introduced from 12 October ('Entry requirements' page).
+:   Updated with information about the new Entry/Exit System (EES) which will start to be rolled out on 12 October to people travelling into the EU (‘Entry requirements’ page).
 
 ## Before you travel
 

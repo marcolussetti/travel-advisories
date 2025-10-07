@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   30 August 2025
+:   7 October 2025
 
 Updated:
-:   29 August 2025
+:   6 October 2025
 
 Latest update:
-:   This travel advice has been reviewed with minor edits throughout, including medication, crime, drink spiking and sexual assault, prohibited materials, air quality and using and accessing money. There continues to be an assessment that terrorists are likely to try to carry out attacks in Kyrgyzstan. Due to increasing regional tensions in the Middle East, Israeli and Jewish linked sites could be targets for terrorists in Kyrgyzstan ('Entry requirements', 'Safety and security', 'Regional risks' and 'Health' pages).
+:   New information on driving with an international driving permit (See ‘Road travel’ on the ‘Safety and security’ page).
 
 ## Before you travel
 

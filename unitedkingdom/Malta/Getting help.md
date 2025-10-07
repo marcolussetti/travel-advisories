@@ -26,7 +26,7 @@ FCDO has guidance on staying safe and what to do if you need help or support ab
 * finding [lawyers](https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/lawyers?country=Malta) and [funeral directors](https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/funeral-directors?country=Malta) in Malta
 * dealing with a [death in Malta](https://www.gov.uk/government/publications/malta-bereavement-guide/malta-bereavement-information)
 * being [arrested in Malta](https://www.gov.uk/government/publications/malta-prisoner-pack)
-* getting help if you’re a [victim of crime](https://www.gov.uk/victim-crime-abroad)
+* getting help if you’re a [victim of crime](https://www.gov.uk/guidance/victim-of-crime-abroad)
 * what to do if you’re [in hospital](https://www.gov.uk/guidance/in-hospital-abroad)
 * if you’re [affected by a crisis](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas), such as a terrorist attack
 

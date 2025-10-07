@@ -18,7 +18,7 @@ There have been several attacks involving explosives and automatic weapons again
 
 ### Political protests
 
-Greek authorities have increased security at some prominent locations, including tourist sites, due to events in Israel and the Occupied Palestinian Territories.
+Greek authorities have increased security at some prominent locations, including tourist sites, due to events in Israel and Palestine.
 
 There is currently a heightened risk of such protests, particularly in central Athens.
 

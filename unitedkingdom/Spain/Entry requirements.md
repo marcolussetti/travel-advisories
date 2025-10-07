@@ -30,7 +30,7 @@ If you’re travelling to other Schengen countries as well, make sure your whole
 
 If you are visiting Spain and need to extend your visa-free stay for exceptional reasons, such as a medical emergency, you must [apply to the immigration authorities (‘Extranjería’)](https://sede.policia.gob.es/portalCiudadano/_en/tramites_extranjeria_tramite_prorrogaestancia_cortaduracion.php#).
 
-Make sure you get your passport stamped on entry and exit.
+Until the Entry-Exit System (EES) is fully rolled out, make sure you get your passport stamped on entry and exit (read ‘New Schengen entry requirements’).
 
 If you’re a visitor, border guards will look at your entry and exit stamps to check you have not overstayed the 90-day visa-free limit for the Schengen area.
 
@@ -56,20 +56,25 @@ If you use an e-gate, make sure you get your passport stamped.
 
 To stay longer, you must [meet the Spanish government’s entry requirements](https://www.exteriores.gob.es/Consulados/londres/en/ServiciosConsulares/Paginas/Consular/Visado-de-trabajo-por-cuenta-ajena.aspx). If you’re in Spain with a residence permit or long-stay visa, this does not count towards your 90-day visa-free limit.
 
-Read more about [passport stamping if you live in Spain](https://www.gov.uk/guidance/living-in-spain#passports-and-travel).
+Read more about [entry processes if you live in Spain](https://www.gov.uk/guidance/living-in-spain#passports-and-travel).
 
 If you cannot return to the UK before your visa-free limit expires, [contact the Spanish government’s national information service](https://sede.administracionespublicas.gob.es/pagina/index/directorio/ayuda_extranjeria/language/en). Dial 060 from a Spanish phoneline (in Spanish, with English speaking operators available).
 
 ## New Schengen entry requirements
 
-From 12 October 2025, the European Union’s (EU) new Entry/Exit System (EES) will begin. When travelling into and out of the Schengen area, for short stays, you may need to:
+From 12 October 2025, the European Union’s (EU) new Entry/Exit System (EES) will begin roll out.
 
-* have your fingerprints and your photo taken
-* answer the Schengen Border Code questions
+This means that when you travel into the Schengen area for short stays, you may need to register your biometric details, such as fingerprints and a photo. You do not need to take any action before you arrive at the border, and there is no cost for EES registration.
 
-If you enter the Schengen area through the Port of Dover, Eurotunnel at Folkestone or St Pancras International, this information will be taken at the border, before you leave the UK. You may also need to provide either your fingerprint or photo when you leave the Schengen area.
+On your first visit into a Schengen country from 12 October onwards, you may be asked to register your details at a special booth before proceeding to the immigration desk. Follow directions from your travel operator or the staff at your port of entry. You may also need to provide either your fingerprint or photo when you leave the Schengen area. Children aged 11 or younger will not have their fingerprints scanned but may need their photo taken.
 
-EES may take each passenger a few extra minutes to complete so be prepared to wait longer than usual at the border once the system starts.
+EES may take each passenger a few extra minutes to complete so be prepared to wait longer than usual at the border.
+
+EES will not be rolled out to all ports of entry at once, the numbers of passengers being registered at each port of entry will vary, and some destinations may take up to 6 months to fully roll out the new process.
+
+Until EES is fully rolled out your passport will continue to be stamped, even if you’ve already been registered for EES. Once EES is fully rolled out, it will replace the current system of manually stamping passports when visitors arrive in the Schengen area for short stays and you will input biometric details every time you enter or exit.
+
+If you enter the Schengen area through the Port of Dover, Eurotunnel at Folkestone or Eurostar at St Pancras International and you are asked to register for EES, the information will be taken at the border before you leave the UK.
 
 Read more [information on the EU Entry/Exit System and to understand which countries are in the Schengen area](https://www.gov.uk/guidance/eu-entryexit-system).
 

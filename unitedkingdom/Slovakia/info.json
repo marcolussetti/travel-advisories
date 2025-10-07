@@ -1,11 +1,11 @@
 {
     "name": "Slovakia",
-    "update_reason": "Updated with a link to information about using a UK issued Blue Badge in Slovakia (\u2018Safety and security\u2019 page).",
+    "update_reason": "Updated with information about the new Entry/Exit System (EES) which will start to be rolled out on 12 October to people travelling into the EU (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Slovakia/Warnings and insurance.md",
-            "update_date": "2025-08-07T14:27:53+01:00"
+            "update_date": "2025-10-06T16:11:33+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Slovakia/Getting help.md"
         }
     ],
-    "update_date": "2025-08-07T14:27:53+01:00"
+    "update_date": "2025-10-06T16:11:33+01:00"
 }

@@ -50,7 +50,7 @@ Attacks, including sexual assaults, are rare but do occur. In an emergency call 
 
 Avoid splitting up from your friends, do not leave drinks unattended and do not go off with people you do not know. Save the location of your accommodation on your maps app, so it’s easy to find. [See TravelAware ‘Stick with your mates’](https://travelaware.campaign.gov.uk/#stick_with_your_mates) for tips and advice.
 
-See advice on [getting help if you are a victim of crime abroad](https://www.gov.uk/victim-crime-abroad).
+See advice on [getting help if you are a victim of crime abroad](https://www.gov.uk/guidance/victim-of-crime-abroad).
 
 [British Consulates in Spain](https://www.gov.uk/world/organisations/british-embassy-madrid) (+34 917 146 300 or +44 207 008 5000) can provide local information and support.
 

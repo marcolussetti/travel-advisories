@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   15 August 2025
+:   7 October 2025
 
 Updated:
-:   14 August 2025
+:   6 October 2025
 
 Latest update:
-:   Addition of information about wildfires ('Warnings and insurance' page).
+:   Updated with information about the new Entry/Exit System (EES) which will start to be rolled out on 12 October to people travelling into the EU (‘Entry requirements’ page).
 
 ## Wildfires in Spain
 

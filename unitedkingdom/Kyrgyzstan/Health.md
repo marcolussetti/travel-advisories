@@ -7,12 +7,6 @@ Before you travel check that:
 
 This is particularly important if you have a health condition or are pregnant.
 
-## Air quality
-
-Air quality in Bishkek has deteriorated due to pollutants into the air, particularly during the winter months. Try to minimise your exposure to outside air by staying in an air-conditioned indoor place as much as possible, with windows and doors closed and well-sealed.
-
-Regularly damp-dust all indoor surfaces, washing your hands afterwards. Monitor local reports and weather forecasts for the latest information and advice.
-
 ## Emergency medical number
 
 Call 103 and ask for an ambulance.
@@ -31,6 +25,12 @@ See [what health risks you’ll face in Kyrgyzstan](https://travelhealthpro.org.
 Altitude sickness is a risk in parts of Kyrgyzstan. Read more about [altitude sickness on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/26/altitude-illness).
 
 There have been several cases of anthrax, mainly in the south due to insufficient vaccination of animals.
+
+## Air quality
+
+Air quality in Bishkek has deteriorated due to pollutants into the air, particularly during the winter months. Try to minimise your exposure to outside air by staying in an air-conditioned indoor place as much as possible, with windows and doors closed and well-sealed.
+
+Regularly damp-dust all indoor surfaces, washing your hands afterwards. Monitor local reports and weather forecasts for the latest information and advice.
 
 ## Medication
 
