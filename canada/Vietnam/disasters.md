@@ -4,11 +4,9 @@
 
 ### Flooding
 
-Heavy rainfall has caused flooding in parts of the country, including Hanoi.
+Heavy rainfall has caused flooding in northern provinces, including in Hanoi.
 
-Typhoon Matmo may bring additional rains and flooding on October 5, 2025.
-
-If you are in an affected area of Vietnam:
+If you are in an affected area:
 
 * monitor local news and weather reports
 * confirm your flight before going to the airport

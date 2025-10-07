@@ -4,18 +4,23 @@
 
 ### State of exception
 
-On September 16, 2025, a state of exception was declared due to demonstrations in the following provinces:
+A state of exception is in effect in the following provinces:
 
 * Azuay
 * Bolívar
+* Cañar
 * Carchi
 * Chimborazo
 * Cotopaxi
 * Imbabura
+* Orellana
+* Pastaza
 * Pichincha
 * Santo Domingo
+* Sucumbíos
+* Tungurahua
 
-The state of exception will remain in effect for 60 days. During this time, public gatherings are prohibited.
+While the state of exception is in effect, public gatherings are prohibited.
 
 A curfew is also in place from 10 pm to 5 am in the following provinces:
 
@@ -36,7 +41,6 @@ If you’re in the affected areas:
 A state of emergency is in effect in the following locations:
 
 * Echeandía and Las Naves cantons in Bolívar Province
-* La Maná canton in Cotopaxi Province
 * El Oro Province
 * Guayas Province
 * Los Ríos Province

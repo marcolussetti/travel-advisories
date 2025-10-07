@@ -4,11 +4,13 @@
 
 **Presidential elections**
 
-Political tensions are high in the context of the presidential elections scheduled for October 2025. Announcements related to the electoral process could lead to protests and civil unrest.
+Political tensions are high in the context of the presidential elections scheduled for October 12, 2025.
 
-During periods of high tension, authorities may strengthen security measures, restrict movement without notice and impose curfews.
+Demonstrations could occur before, during and after the elections.
 
-Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation.
+During the elections, authorities may strengthen security measures and set up roadblocks.
+
+Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation. Telecommunications and Internet access may also be disrupted.
 
 If you are in Cameroon:
 

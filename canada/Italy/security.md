@@ -146,9 +146,11 @@ Even peaceful demonstrations can turn violent at any time. They can also lead to
 * [Information on upcoming](http://scioperi.mit.gov.it/mit2/public/scioperi) strikes – Ministry of Infrastructure and Transport (in Italian only)
 * [More about mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
 
-### Adventure tourism
+### Adventure travel
 
 Outdoor activities, such as hiking, skiing, mountain biking and other alpine and extreme sports, can be dangerous.
+
+You must wear a helmet if you plan on skiing, snowboarding or practicing any other snow sports on ski hills in Italy.
 
 If you intend to participate in adventure tourism activities:
 
