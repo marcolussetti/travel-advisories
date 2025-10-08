@@ -12,15 +12,15 @@ Terrorist attacks in Kazakhstan cannot be ruled out.
 
 Attacks could be indiscriminate, including in places visited by foreign nationals. Be alert for any security related announcements by the Kazakh authorities.
 
-## Protests and demonstrations
+## Political situation
 
-Public demonstrations are only permitted when authorised by the Kazakh authorities in advance. Occasional unauthorised small-scale public protests take place. This may put participants at risk of arrest. Avoid any demonstrations or political gatherings. If you become aware of any nearby violence or disturbance, leave the area immediately.
+Public demonstrations are only permitted when authorised by the Kazakh authorities in advance. Occasional unauthorised small-scale public protests take place. Attending unauthorised demonstrations or political gatherings may put participants at risk of arrest.
 
 ## Crime
 
 ### Robbery and violent crime
 
-There have been violent thefts in expatriate communities in Atyrau and Aktau in western Kazakhstan and in Astana and Almaty. They happen mainly at night in and around local nightclubs and bars or when arriving home late at night. Robberies are uncommon in cities and rural areas but do happen.
+There have been violent thefts in expatriate communities in Atyrau and Aktau in western Kazakhstan and in Astana and Almaty. They happen mainly at night in and around local nightclubs and bars or when arriving home late at night. Robberies are uncommon in cities and rural areas but do happen. Take the same precautions you would in the UK to protect your belongings.
 
 Avoid walking alone at night and pre-arrange your transport. Do not use unofficial taxis or a taxi already occupied by a passenger.
 
@@ -29,12 +29,6 @@ Avoid walking alone at night and pre-arrange your transport. Do not use unoffici
 Pickpocketing is very common in crowded places such as markets and on public transport. Criminals may target foreigners as they are assumed to be carrying valuable items. Keep valuables in a safe place and out of public view.
 
 Thieves may target luggage on trains. Always lock your railway compartment on an overnight train.
-
-### Scams
-
-Beware of internet scams. Scammers may target you on dating apps or on visa-related websites.
-
-Make sure you know the arrangements for being met at the airport, and make sure the person is who they say they are.
 
 ### Bank card fraud
 
@@ -48,7 +42,7 @@ Avoid splitting up from your friends, do not leave drinks unattended and do not 
 
 ## Laws and cultural differences
 
-Kazakhstan has a secular constitution. (A secular state claims to treat all its citizens equally regardless of religion.) You should respect local traditions, customs, laws and religions.
+Individuals found guilty of inciting social, national, racial or religious discord may face a lengthy sentence. Insulting another person using abusive language may also result in a court ordered fine or community service. Respect local traditions, customs, laws and religions.
 
 ### Personal ID
 
@@ -59,6 +53,9 @@ Carry original ID such as your driving licence or passport at all times. Police 
 Ramadan is a holy month for Muslims. The dates vary by year and country. Cafés and restaurants may amend their menus and be busy around fast-breaking (‘Iftar’). Areas around mosques are also likely to be busy around prayer times. Take particular care not to offend religious sensitivities at this time.
 
 ### Alcohol laws and bans
+
+ 
+The drinking age in Kazakhstan is 18. However, it is illegal to sell alcohol to someone aged 20 or under. You may be refused the sale of alcohol if you are unable to present a valid proof of age ID on request.
 
 Shops are not allowed to sell alcohol between 11pm and 8am. Alcoholic drinks which have an alcohol content level of more than 30% cannot be sold in shops between 9pm and 12 noon. Bars, restaurants and cafés are not covered by this rule.
 
@@ -93,11 +90,11 @@ Airports in Kazakhstan have excellent technology and security for detecting ille
 
 ### Posting on social media
 
-It’s illegal to post images or comments on social media that show disrespect towards religion, culture or national symbols. Take particular care with images that show the Kazakh flag. If you share or publish images that the authorities consider to be insulting, you could get a fine or a prison sentence.
+It’s illegal to post images or comments on social media that show disrespect towards religion, culture or national symbols. Take particular care with images that show the Kazakh flag. Sharing or publishing images that the authorities consider to be insulting risks a fine or a prison sentence.
 
 ### Taking photos in secure areas
 
-You could start problems with local officials if you take photos or videos of or near military sites, border areas, airports and some official buildings. There may not be any signs warning about these restrictions.
+There are restrictions on where you can take photos or videos, especially near military sites, border areas, airports and some official buildings. Restrictions may be in force despite a lack of warning signs. Taking photographs of sensitive sites risks confiscation of your equipment.
 
 Some large shops and supermarkets do not allow photography.
 
@@ -106,6 +103,14 @@ Some large shops and supermarkets do not allow photography.
 You can bring a drone to Kazakhstan without a licence. However, you risk a fine, detention and the confiscation of your drone if you operate a drone without a licence.
 
 Apply for a drone licence from the Civil Aviation Committee. You should include technical characteristics of the drone and details of planned use (when, where and how long). See local regulations on [drone licensing requirements](https://adilet.zan.kz/rus/docs/V2000022031) (in Russian).
+
+### Money
+
+Only change money at banks or officially authorised currency exchanges. You will be required to present your passport for identification.
+
+Official exchange booths may not accept damaged or marked bank notes, or US dollars issued before 2013.
+
+Depending on your bank, you may be able to withdraw cash in Kazakhstani tenge (KZT) from ATMs using an international debit or credit card. Availability and fees may vary, so it is advisable to check with your bank before travelling.
 
 ### LGBT+ travellers
 
@@ -123,6 +128,28 @@ You are not allowed to export:
 
 Take local expert advice before making any such purchase.
 
+## Outdoor activities and adventure tourism
+
+### Trekking and mountaineering
+
+Trekking in Kazakhstan often involves travelling to very remote areas. There is a high risk of avalanches, landslides and rockfalls. Weather can change very quickly, and heavy snowfall can block roads and trekking routes, particularly in the autumn and winter.
+
+At higher altitudes there is a possibility of snow even in the summer months, and a risk of sunstroke, serious sunburn and altitude sickness.
+
+You should:
+
+* get adequate insurance, including for any activity at high altitude
+* use a reputable trekking agency
+* let someone know when you plan to return
+* not trek alone
+* adapt your plans to reflect local conditions and advice
+
+In remote areas, mobile phone or satellite phone coverage can be extremely limited. Medical facilities are basic, and difficult terrain can in some circumstances make it impossible for emergency services to reach you.
+
+The 24-hour rescue services in Almaty are based in Shymbulak gorge and by the Big Almaty lake. A rescue team patrols mountain routes, searches for missing persons and provides first aid. The Almaty emergency numbers are 109 or 112.
+
+Almaty city authorities have installed 18 refuges in remote mountain areas where tourists can find shelter, access first aid kits and SOS buttons to contact the emergency services.
+
 ## Transport risks
 
 ### Road travel
@@ -135,15 +162,21 @@ The minimum legal age for driving is 16 for motorbikes and 18 for cars.
 
 Hire car companies often have stricter requirements for their customers, such as a year of driving experience, a higher minimum age and holding an IDP.
 
+### Taxis
+
+To avoid accidentally using an unlicenced taxi or being overcharged, avoid flagging down taxis and use licensed pre-ordered taxi services whenever possible.
+
 ### Road conditions
 
 Driving standards can be erratic. Many cars are not safely maintained and do not have rear seatbelts.
 
-Many roads are poorly maintained. Roadworks and damaged roads are often not signposted. In remote rural areas, there are often stray animals on the roads. In winter, roads can be hazardous due to snow or ice.
+When driving in Kazakhstan do not take risks and avoid driving in bad weather. Many roads are poorly maintained. Roadworks and damaged roads are often not signposted. In remote rural areas, there are often stray animals on the roads. In winter, roads can be hazardous due to snow or ice, and low visibility can lead to accidents involving multiple cars.
 
 Service stations are limited outside the main cities. Take all that you need for your journey, including fuel and water. Make sure your vehicle is properly maintained and in a good condition for long journeys.
 
 If traffic police stop you for a traffic offence, they should give you an official paper.
+
+Follow local advice on road closures. Local sim cards will receive updates in Kazakh and Russian from 112, and alerts are provided in English on the [QazAvtoJol](https://en.qaj.kz/) website.
 
 ### Closed areas
 
@@ -155,7 +188,7 @@ The following areas are closed to visitors unless you have received prior permis
 
 ### Border crossings
 
-Officials may close border crossing points at short notice.
+Officials in Kazakhstan or neighbouring countries may close border crossing points at short notice. If you are travelling overland be alert for any announcements by the Kazakh authorities.
 
 ## Extreme weather and natural disasters
 
@@ -173,7 +206,9 @@ Mudslides and landslides can occur in the mountain areas of south-east Kazakhsta
 
 ### Earthquakes
 
-Kazakhstan has several areas which are at high risk of earthquakes. Almaty is in an active seismic zone. The last major earthquake involving loss of life was in 1927. The US Federal Emergency Management Agency has advice about [what to do before, during and after an earthquake](https://www.ready.gov/earthquakes).
+Kazakhstan has several areas which are at high risk of earthquakes. Almaty is in an active seismic zone.
+
+The US Federal Emergency Management Agency has advice about [what to do before, during and after an earthquake](https://www.ready.gov/earthquakes).
 
 [Previous
 :

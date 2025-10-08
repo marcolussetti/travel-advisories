@@ -51,15 +51,20 @@ Keep your passport safe and other valuables in your hotel or in another secured 
 
 ### Drink spiking and sexual assault
 
-British nationals have reported rape and sexual assaults in tourist areas and places where foreigners live. Women have also reported indecent assaults and harassment. These include inappropriate touching and groping, particularly while walking alone.
+British nationals have reported rape and sexual assaults in the main tourist areas and places where foreigners live, often committed by or linked to unlicenced taxi drivers. Women have also reported indecent assaults and harassment. These include inappropriate touching and groping, particularly while walking alone.
 
-Buy your own drinks and always keep them in sight to avoid them being spiked.
+To reduce your personal risk:
 
-Be wary of accepting snacks, beverages, and gum from new people. These items may contain drugs that could put you at risk.
+* buy your own drinks and keep them in sight to avoid them being spiked
+* be wary of accepting snacks, beverages and gum from strangers and new acquaintances. These items may contain drugs that could put you at risk
+* use pre-arranged transport or official taxi hailing apps, such as Grab or XanhSM, which supply licenced cabs. Be wary of scammers who claim to be from these companies and always book your full journey on the app
+* save the location of your accommodation on a map app (such as Google Maps), so that it is easier to find at the end of the night
+* set up a WhatsApp group to keep in contact with others in your group
+* report anything that does not feel right to the management of local bars, restaurants, hotels or hostels
 
 In Vietnam there is a higher burden of proof for victims than in the UK. Victims must show they did not consent, particularly if they drank alcohol or knew the alleged attacker.
 
-Local authorities may not always respond adequately to reports of sexual violence and harassment. If you are a victim of a sexual assault, you should reach out to the [British Embassy in Hanoi](http://british%20embassy%20in%20hanoi/) or [Consulate General in Ho Chi Minh City](http://consulate%20general%20in%20ho%20chi%20minh%20city/)
+If you are a victim of a sexual assault, you can reach out to the British Embassy in Hanoi or Consulate General in Ho Chi Minh City. Consular staff can assist you in reporting an incident to local authorities, if you would like to do so.  Read FCDO’s [information pack](https://www.gov.uk/government/publications/rape-and-sexual-assault-in-vietnam-information-for-victims/vietnam-information-for-victims-of-rape-and-sexual-assault) relating to rape and sexual assaults in Vietnam for more advice.
 
 ### Methanol poisoning
 
@@ -133,6 +138,8 @@ It is important to be aware of your rights if you are detained by the police. Se
 ### Cigarettes and alcohol from street vendors
 
 You should avoid purchasing liquor or cigarettes from street vendors or strangers, as the authenticity cannot be assured.
+
+Vapes and related products are banned. You cannot buy vapes in Vietnam or bring them into the country.
 
 ### LGBT+ travellers
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   21 August 2025
+:   8 October 2025
 
 Updated:
-:   20 August 2025
+:   7 October 2025
 
 Latest update:
-:   New information on maintenance at Astana airport from 1 September to 31 October (‘Warnings and insurance’ page).
+:   This travel advice has been reviewed for accuracy with edits made throughout, including updated information about demonstrations, alcohol laws, money, trekking and mountaineering and transport risks ('Entry requirements' and 'Safety and security' pages).
 
 ## Maintenance in Astana International Airport
 

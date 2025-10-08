@@ -1,11 +1,11 @@
 {
     "name": "Georgia",
-    "update_reason": "New information about a large protest due to take place in Tbilisi on 4 October (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Removal of information about municipal elections which took place in Georgia on 4 October.",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Georgia/Warnings and insurance.md",
-            "update_date": "2025-10-02T11:22:21+01:00"
+            "update_date": "2025-10-07T11:58:39+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Georgia/Getting help.md"
         }
     ],
-    "update_date": "2025-10-02T11:22:21+01:00"
+    "update_date": "2025-10-07T11:58:39+01:00"
 }

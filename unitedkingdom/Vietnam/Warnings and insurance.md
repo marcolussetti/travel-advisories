@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   7 October 2025
+:   8 October 2025
 
 Updated:
-:   6 October 2025
+:   7 October 2025
 
 Latest update:
-:   Additional information about tropical storm season ( 'Warnings and insurance' page).
+:   Updated information about drink spiking and sexual assault, and that vapes and related products are banned in Vietnam (‘Safety and security’ page).
 
 ## Tropical storm season
 

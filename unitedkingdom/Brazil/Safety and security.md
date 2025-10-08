@@ -48,7 +48,7 @@ If you’re unsure about a location, check with your hotel or the local authorit
 
 If you’re the victim of crime, contact the local police number 190 or the nearest British embassy or consulate.
 
-Read our guidance [if you’re the victim of a crime abroad](https://www.gov.uk/victim-crime-abroad).
+Read our guidance [if you’re the victim of a crime abroad](https://www.gov.uk/guidance/victim-of-crime-abroad).
 
 ### Theft and robbery
 
@@ -86,6 +86,14 @@ Rape and other sexual offences against tourists are not common, but there have b
 If you begin to feel strange, sick or drunk after only a couple of drinks, tell a trusted friend or security staff. They should take you to a safe place, such as your hotel room or a hospital. You can phone the local police, a hospital or the nearest British embassy or consulate for advice.
 
 Read our advice on what to do if you have been [raped, sexually assaulted or drugged abroad](https://www.gov.uk/guidance/victim-of-rape-and-sexual-assault-abroad).
+
+### Methanol poisoning
+
+There have been deaths and cases of serious illness caused by alcoholic drinks containing methanol in Brazil. Take care when buying spirit-based drinks, including gin, vodka and whisky.
+
+Even small amounts of methanol can kill. It is not possible to identify methanol in alcoholic drinks by taste or smell. See [Travel Aware Drink Spiking and Methanol Poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) for information about how to reduce the risks.
+
+Seek urgent medical attention if you or someone you are travelling with show the [signs of methanol poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) after drinking.
 
 ### Child sexual abuse
 

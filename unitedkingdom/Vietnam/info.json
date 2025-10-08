@@ -1,11 +1,11 @@
 {
     "name": "Vietnam",
-    "update_reason": "Additional information about tropical storm season ( 'Warnings and insurance' page).",
+    "update_reason": "Updated information about drink spiking and sexual assault, and that vapes and related products are banned in Vietnam (\u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Vietnam/Warnings and insurance.md",
-            "update_date": "2025-10-06T11:39:51+01:00"
+            "update_date": "2025-10-07T10:54:32+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Vietnam/Getting help.md"
         }
     ],
-    "update_date": "2025-10-06T11:39:51+01:00"
+    "update_date": "2025-10-07T10:54:32+01:00"
 }

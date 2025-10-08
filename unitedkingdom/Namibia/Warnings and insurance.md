@@ -1,19 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   30 September 2025
+:   8 October 2025
 
 Updated:
-:   29 September 2025
+:   7 October 2025
 
 Latest update:
-:   New information about forest fires in Etosha National Park (‘Warnings and insurance’ page).
-
-## Forest fires in Etosha National Park
-
-Namibian authorities are currently tackling a large fire that broke out within the Etosha National Park.
-
-If you are planning to visit the Etosha National Park, check for messaging from your travel provider for the latest information about access to the Park. Follow the instructions and advice of the Namibian authorities while inside or in the vicinity of the Park.
+:   Removal of information about forest fires in Etosha National Park (‘Warnings and insurance’ page).
 
 ## Before you travel
 

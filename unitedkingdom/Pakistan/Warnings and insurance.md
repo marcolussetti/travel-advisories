@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   2 October 2025
+:   8 October 2025
 
 Updated:
-:   1 October 2025
+:   7 October 2025
 
 Latest update:
-:   FCDO now advises against all travel within 5 miles of the international border between Pakistan and India except the Grand Trunk highway to India via Wagah border (which is currently closed). Addition of information about a general strike in parts of Pakistan-administered Kashmir (‘Warnings and insurance’ page).
+:   Removal of information about a general strike in parts of Pakistan-administered Kashmir (‘Warnings and insurance’ page).
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -62,10 +62,6 @@ FCDO advises against all travel to within 10 miles of the Line of Control.
 FCDO advises against all but essential travel to all areas of Sindh Province north of and including the city of Nawabshah.
 
 Find out more about [why FCDO advises against travel to these regions](/foreign-travel-advice/pakistan/regional-risks).
-
-## General Strike
-
-A general strike has been called in parts of Pakistan-administered Kashmir. There are reports of communication disruptions and rallies resulting in violent clashes. British nationals are advised to avoid all demonstrations and large gatherings and follow the advice of local authorities. The strike has no set end date.
 
 ## Before you travel
 
