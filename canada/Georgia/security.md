@@ -4,7 +4,7 @@
 
 ### Political tensions
 
-There are ongoing political tensions in Georgia. Political demonstrations take place regularly, particularly in central Tbilisi and can become violent. Demonstrations and political rallies could intensify ahead of the municipal elections scheduled for October 4, 2025.
+There are ongoing political tensions in Georgia. Political demonstrations take place regularly, particularly in central Tbilisi and can become violent.
 
 [For more information on demonstrations](#demonstrations)
 

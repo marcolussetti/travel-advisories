@@ -2,6 +2,20 @@
 
 ## Natural disasters and climate
 
+### Flooding and landslides
+
+Since October 3, 2025, heavy rains have caused severe flooding and landslides in the southeast of the country, particularly along the Black Sea coast. The floods and landslides have caused casualties and significant damage to buildings and infrastructure. A state of emergency was declared in several coastal areas, including the cities of Nesebar and Tsarevo.
+
+More rainfall is expected in the coming days, increasing the risk of additional flooding in areas already affected.
+
+If you are in an affected area:
+
+* stay away from flooded areas
+* monitor local news and weather reports
+* follow the instructions of local authorities, including evacuation orders
+
+[Forecast](http://www.weather.bg/obshtini/) – National Institute for Meteorology and Hydrology (Bulgarian only)
+
 ### Earthquakes
 
 Bulgaria is located in an active seismic zone.

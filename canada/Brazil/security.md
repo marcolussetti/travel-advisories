@@ -146,6 +146,16 @@ While you’re in Brazil:
 * never leave food or drinks unattended or in the care of strangers
 * order drinks in sealed bottles or cans instead of in plastic cups
 
+### Adulterated alcohol
+
+People have died in Brazil after drinking methanol-adulterated alcohol. Poisoning incidents have been reported in various locations across the states of Sao Paulo and Pernambuco, and in Brasilia. Adulterated drinks include gin, whiskey and vodka sold in bars and liquor stores.
+
+Brazil’s Ministry of Health advises not to consume these beverages until further notice and to seek medical assistance immediately if you begin to feel sick within 12 to 24 hours after consuming an alcoholic beverage.
+
+Be cautious if you choose to drink alcohol.
+
+[Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
+
 ### Express kidnappings
 
 Express kidnappings occur in the Rio de Janeiro Metropolitan Region.

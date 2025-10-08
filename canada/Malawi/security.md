@@ -2,19 +2,6 @@
 
 ## Safety and security
 
-### Presidential elections
-
-Presidential elections are scheduled for September 16, 2025. Gatherings and demonstrations may occur before, during or after this date.
-
-Even peaceful demonstrations can turn violent at any time. They can also lead to disruption to traffic and public transportation.
-
-If you are in Malawi:
-
-* avoid demonstrations and large gatherings
-* expect an increased presence of security forces
-* monitor local media to stay informed of the latest information
-* follow the instructions of local authorities
-
 ### Crime
 
 #### Petty crime

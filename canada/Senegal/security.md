@@ -108,7 +108,7 @@ Taxis are often poorly maintained and the drivers may have poor driving habits.
 
 The Grand Magal of Touba is an annual pilgrimage that attracts a large number of pilgrims each year.
 
-The next event should take place on August 12, 2025.
+The next event should take place on August 2, 2026.
 
 Before and during the pilgrimage, you can expect:
 

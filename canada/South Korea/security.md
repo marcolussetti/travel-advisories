@@ -84,6 +84,15 @@ High-speed train services (KTX and SRT) link Seoul and major southern cities suc
 * [Book high-speed train tickets](http://www.letskorail.com/ebizbf/EbizbfForeign_pr16100.do?gubun=1) – Korail
 * [Book high-speed train tickets](https://www.srail.co.kr/main.do?language=EN) – SRT
 
+Plan for delays and higher passenger volume on public transit, including in airports, during significant holiday periods such as Chuseok and Lunar New Year.
+
+### Strikes
+
+Strikes and pressure tactics occur regularly, particularly in key sectors such as transport. These strikes can sometimes complicate travel and disrupt public services.
+
+* Consult local media to be aware of strikes that may affect your stay or travel plans
+* In the event of a transport strike, plan extra time to get to your destination
+
 ### Air travel
 
 We do not make assessments on the compliance of foreign domestic airlines with international safety standards.
