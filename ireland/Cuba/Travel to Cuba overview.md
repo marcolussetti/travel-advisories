@@ -8,7 +8,7 @@ Normal Precautions
 
 #### **Power Outage**
 
-Cuba has recently experienced several nationwide electrical grid shutdowns (most recently in March). A schedule of outages remains in place to restrict electricity usage. Basic services in eastern and other parts of Cuba are still affected in the wake of the 2024 hurricane season, as well as the earthquake on 10 November.
+Cuba has recently experienced several nationwide electrical grid shutdowns (most recently in March). A schedule of outages remains in place to restrict electricity usage.
 
 While in Cuba, you should take the necessary precautions, including conserving water and food and keeping your mobile phone charged. Please monitor local media for updates, including on power cut schedules.
 

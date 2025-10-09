@@ -6,10 +6,6 @@ High Degree of Caution
 
 ### **Travel Alert**
 
-#### **Heightened Security Risks**
-
-August 2025 – Several incidents attributed to armed groups have led to heightened security risks across the country in recent days. On 21 August, explosions took place in the cities of Cali, Valle del Cauca and Florencia, Caquetá. A gun attack on a police helicopter also occurred in the department of Antioquia. These incidents have led to multiple casualties, and a large number of injured civilians. Security conditions across the country are expected to remain volatile in the coming period. Road closures and obstructions may occur. Citizens are advised to monitor official alerts and follow the advice of local authorities.
-
 #### **Elections**
 
 Presidential and legislative elections will take place in Colombia in 2026. During election periods, increased volatility in the security situation can take place. Citizens are advised to avoid political rallies, demonstrations and large public protests or gatherings.
@@ -20,7 +16,7 @@ Irish citizens do not require a visa to visit Colombia for periods of up to 90 d
 
 A valid passport is required for travel to Colombia. Irish passports should have a minimum validity of 6 months. Passport cards cannot be used.
 
-Colombian authorities advise travellers to register their details on the ‘[Check-Mig Form'](https://apps.migracioncolombia.gov.co/pre-registro) form on Migración Colombia. Although this is not mandatory, it might speed up your entry to the country. You can complete the form within 72 hours prior to boarding an inbound or outbound flight.
+Colombian authorities advise travellers to register their details on the **‘**[**Check-Mig Form'**](https://apps.migracioncolombia.gov.co/pre-registro) form on Migración Colombia. Although this is not mandatory, it might speed up your entry to the country. You can complete the form within 72 hours prior to boarding an inbound or outbound flight.
 
 Entry and exit requirements are subject to change. All citizens should contact Migracion Colombia and/or consult their local Colombian Embassy for up-to-date information on updates in entry requirements.
 

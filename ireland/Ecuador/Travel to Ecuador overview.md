@@ -28,7 +28,7 @@ The yellow fever vaccine must have been administered at least 10 days before ent
 
 ### **State of Emergency**
 
-A state of emergency was renewed on 06 August 2025 for 60 days owing to ongoing internal unrest and armed violence. The current state of emergency applies to the following provinces:
+A state of emergency was renewed on 06 October 2025 for 30 days owing to ongoing internal unrest and armed violence. The current state of emergency applies to the following provinces:
 
 -Guayas
 
@@ -37,6 +37,8 @@ A state of emergency was renewed on 06 August 2025 for 60 days owing to ongoing 
 -Manabí
 
 -Los Ríos
+
+- Echeandía in the province of Bolívar
 
 The state of emergency allows the military and police to:
 

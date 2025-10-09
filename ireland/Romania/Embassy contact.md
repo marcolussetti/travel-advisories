@@ -7,11 +7,12 @@ Monday to Friday 09:30 to 12:30; 14:00 to 17:00
 ### Embassy of Ireland, Romania
 
 The Mark Tower,   
-Calea Griviței 82-98,   
-Bucharest   
+82-98 Calea Grivitei   
+Bucuresti 010735   
+Romania   
 010735
 
-[Tel: +40 758611959](tel:+40758611959)
+[Tel: +40 31 433 75 50](tel:+4031 433 75 50)
 
 [**Contact us**](/en/romania/bucharest/contact/)
 
