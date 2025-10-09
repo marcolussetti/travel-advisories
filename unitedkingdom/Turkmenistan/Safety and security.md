@@ -66,7 +66,7 @@ It is illegal to take pictures of certain buildings. Ask before taking pictures 
 
 ### Relationships with Turkmens
 
-The Turkmen authorities sometimes prosecute Turkmen women if they start a sexual relationship with a foreign man, who may be fined and deported.
+It is illegal for a Turkmen woman to have a sexual relationship with  a foreign national. Foreign nationals who provide gifts, transport or other benefits to women in expectation of even a short relationship can be immediately fined and deported.
 
 ### LGBT+ travellers
 
@@ -89,6 +89,8 @@ Driving standards are poor. Road travel at night outside cities is particularly 
 Licensed taxis are clearly identified by white and green markings. Avoid unlicensed taxis.
 
 Although taxis have meters, drivers will usually charge foreign nationals around 20 manat for a journey within the city centre. They might ask for payment in US dollars, but this is illegal. Most taxi drivers do not speak much English.
+
+Licensed taxis are also available from Exit 2 of Ashgabat International Airport (outside Exit 2 of the terminal), although you should agree a price before getting in. Receipts are rarely provided. Alternatively, most upmarket hotels can arrange airport transfers. Email them in advance to make arrangements or ask at the front desk.
 
 ## Extreme weather and natural disasters
 

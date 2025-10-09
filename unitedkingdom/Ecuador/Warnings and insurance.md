@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   20 September 2025
+:   9 October 2025
 
 Updated:
-:   19 September 2025
+:   8 October 2025
 
 Latest update:
-:   A new state of emergency has been announced with curfew hours added to some provinces (Warnings and insurance)
+:   Updated information following the announcement of a state of emergency being renewed for a further 60 days (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/65a1082ce96df50014f8452c/FCDO__TA__014_-_Ecuador_Travel_Advice_Ed5__WEB_.jpg)
 
@@ -62,14 +62,13 @@ A further 60-day state of emergency (SoE) was issued on 16 September, for the fo
 
 ## Regional state of emergency declared (internal disturbance and armed violence)
 
-A 60-day state of emergency (SOE) was renewed on 6 August due to internal disturbance and armed violence. You should always follow the instructions of police and local authorities. The SOE currently applies to the following provinces:
+A 60-day state of emergency (SOE) was renewed on 5 October due to internal disturbance and armed violence. You should always follow the instructions of police and local authorities. The SOE currently applies to the following provinces:
 
 * Guayas
 * El Oro
 * Manabí
 * Los Ríos
-* Cotopaxi (cantón La Maná)
-* Bolívar (cantones La Naves y Echeandía)
+* Bolívar (cantón Echeandía)
 
 ## Before you travel
 

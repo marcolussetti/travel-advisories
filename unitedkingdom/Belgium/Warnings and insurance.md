@@ -1,19 +1,21 @@
 # Warnings and insurance
 
 Still current at:
-:   7 October 2025
+:   9 October 2025
 
 Updated:
-:   6 October 2025
+:   8 October 2025
 
 Latest update:
-:   Updated with information about the new Entry/Exit System (EES) which will start to be rolled out on 12 October to people travelling into the EU (‘Entry requirements’ page).
+:   Updated with information about a general strike on 14 October (‘Warnings and insurance’ page).
 
 ## National strike action
 
+A general strike is planned for Tuesday 14 October. This is expected to affect airports, public transport, and some public services including schools. A demonstration is planned for central Brussels.
+
 Strike action is an ongoing issue that can cause travel disruption. General strikes took place on 31 March and 29 April. Strike action may be announced at short notice.
 
-Monitor local news and check with your travel provider regarding potential delays. Read more information about demonstrations and strikes on the [Safety and security page](https://www.gov.uk/foreign-travel-advice/belgium/safety-and-security).
+Monitor local news and check with your provider regarding potential delays and closures. Read more information about demonstrations and strikes on the [Safety and security page](https://www.gov.uk/foreign-travel-advice/belgium/safety-and-security).
 
 ## Before you travel
 

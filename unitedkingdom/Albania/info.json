@@ -1,11 +1,11 @@
 {
     "name": "Albania",
-    "update_reason": "Addition of information about wildfires ('Warnings and insurance' page).",
+    "update_reason": "Removal of information about wildfires ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Albania/Warnings and insurance.md",
-            "update_date": "2025-08-14T15:32:48+01:00"
+            "update_date": "2025-10-08T12:48:58+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Albania/Getting help.md"
         }
     ],
-    "update_date": "2025-08-14T15:32:48+01:00"
+    "update_date": "2025-10-08T12:48:58+01:00"
 }

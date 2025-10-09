@@ -29,6 +29,8 @@ The VOA costs 500,000 Indonesian rupiah, payable in cash or by card. It is valid
 
 You can also apply for a visa at least a week before you leave on the [Indonesian immigration website](https://evisa.imigrasi.go.id/). You will find options to apply for a multiple-entry visa or a 60-day visa.
 
+Make sure your visa is approved before arriving in Indonesia, otherwise you may only be eligible for a 30-day visa on arrival. Online visas approved after entry are not valid and may result in overstaying penalties.
+
 ### Extending your visa or residence permit
 
 The 30-day visa can be extended once, for another 30 days, at any immigration office within Indonesia. If you applied online, you can get the extension on the [Indonesian immigration website](https://evisa.imigrasi.go.id/).

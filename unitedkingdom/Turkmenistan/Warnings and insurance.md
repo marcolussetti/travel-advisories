@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   31 July 2025
+:   9 October 2025
 
 Updated:
-:   30 July 2025
+:   8 October 2025
 
 Latest update:
-:   Updated information about transit visas and travelling through Turkmenistan by car (‘Entry requirements’ page).
+:   New information about taxi and airport transfer options from Ashgabat International Airport and updated information about relationships with Turkmens (See ‘Taxis’ and ‘Relationships with Turkmens’ on the ‘Safety and Security’ page ).
 
 ## Before you travel
 

@@ -1,11 +1,11 @@
 {
     "name": "Turkmenistan",
-    "update_reason": "Updated information about transit visas and travelling through Turkmenistan by car (\u2018Entry requirements\u2019 page).",
+    "update_reason": "New information about taxi and airport transfer options from Ashgabat International Airport and updated information about relationships with Turkmens (See \u2018Taxis\u2019 and \u2018Relationships with Turkmens\u2019 on the \u2018Safety and Security\u2019 page  ).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Turkmenistan/Warnings and insurance.md",
-            "update_date": "2025-07-30T14:28:34+01:00"
+            "update_date": "2025-10-08T11:08:28+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Turkmenistan/Getting help.md"
         }
     ],
-    "update_date": "2025-07-30T14:28:34+01:00"
+    "update_date": "2025-10-08T11:08:28+01:00"
 }
