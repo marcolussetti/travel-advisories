@@ -2,6 +2,26 @@
 
 ## Natural disasters and climate
 
+A tsunami warning is in effect for the following areas:
+
+* Eastern Samar
+* Dinagat Islands
+* Davao Oriental
+* Leyte
+* Southern Leyte
+* Surigao del Norte
+* Surigao del Sur
+
+If you’re in or around the affected area:
+
+* follow the instructions of local authorities
+* monitor local news for information on the tsunami’s progress
+
+#### Useful links
+
+* [Tsunami threat](http://www.tsunami.gov/) – U.S. Tsunami Warning System
+* [Tsunami warning](https://tsunami.phivolcs.dost.gov.ph/Tsunami_Information/2025_Tsunami_Information/Oct/10/20251010_0143z_Advisory3_1.html) – Philippine Institute of Volcanology and Seismology
+
 On September 30, 2025, a 6.9 magnitude earthquake struck off the coast of Bogo, Cebu.
 
 Aftershocks may occur and cause damage to infrastructure.
