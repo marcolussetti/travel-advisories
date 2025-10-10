@@ -1,17 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   7 October 2025
+:   10 October 2025
 
 Updated:
-:   6 October 2025
+:   9 October 2025
 
 Latest update:
-:   Updated with information about the new Entry/Exit System (EES) which will start to be rolled out on 12 October to people travelling into the EU (‘Entry requirements’ page).
-
-## Flight disruption
-
-Play Airlines has ceased operation. [Visit the Play Airlines website for more information](https://www.flyplay.com/en/news/important-information). If you were due to travel with Play Airlines, check with alternative airlines for a replacement flight.
+:   Updated information about volcanic eruptions and earthquakes (‘Safety and security’ page).
 
 ## Volcanic eruptions
 

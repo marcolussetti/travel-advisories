@@ -1,13 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   27 July 2025
+:   10 October 2025
 
 Updated:
-:   26 July 2025
+:   9 October 2025
 
 Latest update:
-:   Information on the spread of an escalating dispute along the border with Thailand and Cambodia ('Warnings and insurance' page).
+:   Updated information on the dispute along the border with Thailand and Cambodia ('Warnings and insurance' page). New information on the status of Nok Air, and the risk of Rabies ('Safety and security' and ‘Health’ pages).
+
+![](https://assets.publishing.service.gov.uk/media/68876079741b74390ff0e454/FCDO__TA__040_-_Thailand_Travel_Advice_Ed4__WEB_.jpg)
+
+
+[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/68876079741b74390ff0e455/FCDO__TA__040_-_Thailand_Travel_Advice_Ed4.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -24,15 +29,13 @@ FCDO also advises against all but essential travel on the Hat Yai to Padang Bes
 
 This is due to regular attacks in the provinces by the border with Malaysia. See [Safety and security](https://www.gov.uk/foreign-travel-advice/thailand/safety-and-security) .
 
-FCDO also advises against all but essential travel to border areas with Cambodia. Specifically:
-
-* within 50km of the whole border with Cambodia
+FCDO also advises against all but essential travel to within 50km of the whole border with Cambodia.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/thailand/safety-and-security#terrorism).
 
 ## Thailand-Cambodia border
 
-There are updated reports of fighting including rocket and artillery fire on 24 July between Thailand and Cambodia, spreading across locations along the border. Casualties have been reported, as well as evacuations of areas close to the border. Land borders/crossings between Thailand and Cambodia have been suspended. Some tourist destinations in border areas such as the Khao Phra Wihan/Preah Vihear temple, the Ta Kwai/Ta Krabey temple and the Ta Muen Thom/Tamone Thom temple are currently closed.
+In July 2025, Thailand and Cambodia fought along parts of the border. The fighting included the use of rocket and artillery fire. Tensions remain with reports of the latest round of gunfire on 23 September. Land borders and crossings between Thailand and Cambodia continue to be suspended. Some tourist destinations in border areas such as the Khao Phra Wihan/Preah Vihear temple, the Ta Kwai/Ta Krabey temple and the Ta Muen Thom/Tamone Thom temple are closed.
 
 There are also unexploded landmines in the border area.
 

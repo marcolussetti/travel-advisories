@@ -177,7 +177,7 @@ If you are planning to travel to Cebu or nearby provinces:
 
 * Contact your travel provider for updates.
 * Ensure your travel insurance covers natural disasters.
-* Stay informed via the [Philippine Institute of Volcanology and Seismology (PHIVOLCS)](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.phivolcs.dost.gov.ph%2F&data=05%7C02%7CMelissa.McNicholAntwine%40fcdo.gov.uk%7C0cd7b4c76e514ee44a7908de0095f785%7Cd3a2d0d37cc84f52bbf985bd43d94279%7C0%7C0%7C638948841257562319%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=UEzwFiyH6%2Flb4%2Bu%2FHoFXTrggO1bx5viKMLFgNPaBjpM%3D&reserved=0) and [the National Disaster Risk Reduction and Management Council (NDRRMC)](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fndrrmc.gov.ph%2F&data=05%7C02%7CMelissa.McNicholAntwine%40fcdo.gov.uk%7C0cd7b4c76e514ee44a7908de0095f785%7Cd3a2d0d37cc84f52bbf985bd43d94279%7C0%7C0%7C638948841257579010%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=6x%2BPNQF5VDv1as3RvXdkIbAzRd7FJGYd%2BYsQifNEM58%3D&reserved=0).
+* Stay informed via the [Philippine Institute of Volcanology and Seismology (PHIVOLCS)](https://www.phivolcs.dost.gov.ph/) and [the National Disaster Risk Reduction and Management Council (NDRRMC)](https://ndrrmc.gov.ph/).
 
 ### Volcanoes
 

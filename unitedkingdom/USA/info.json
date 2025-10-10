@@ -1,11 +1,11 @@
 {
     "name": "USA",
-    "update_reason": "Removal of information on tsunami alert specific to the Earthquake in the Kamchatka Peninsular Region  (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "New information that there could be travel disruption following a US federal government shutdown (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/USA/Warnings and insurance.md",
-            "update_date": "2025-08-01T12:41:16+01:00"
+            "update_date": "2025-10-09T10:35:21+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/USA/Getting help.md"
         }
     ],
-    "update_date": "2025-08-01T12:41:16+01:00"
+    "update_date": "2025-10-09T10:35:21+01:00"
 }

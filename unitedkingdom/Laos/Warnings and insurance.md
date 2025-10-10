@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   30 September 2025
+:   10 October 2025
 
 Updated:
-:   29 September 2025
+:   9 October 2025
 
 Latest update:
-:   Updated information about monsoon ('Warnings and insurance' page).
+:   Updated information on the dispute along the border with Thailand and Cambodia ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/64391b7a773a8a0013ab2c63/FCDO__TA__088_-_Laos_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -34,9 +34,9 @@ See [Extreme weather and natural disasters](https://www.gov.uk/foreign-travel-ad
 
 English-news versions of local newspapers are available at [Laotian Times](https://laotiantimes.com/) and [Vientiane Times](https://www.vientianetimes.org.la/).
 
-### Land borders/ crossing with Thailand and Cambodia
+## Land borders and crossing with Thailand and Cambodia
 
-There were reports of fighting including rocket and artillery fire on 24 July between Thailand and Cambodia, at several locations including along the border arears with Laos. Casualties have been reported, as well as evacuations of areas close to the border. Land borders/crossings between Thailand and Cambodia have been suspended. Some tourist destinations in border areas such as the Khao Phra Wihan/Preah Vihear temple, the Ta Kwai/Ta Krabey temple and the Ta Muen Thom/Tamone Thom temple are currently closed.
+In July 2025, Thailand and Cambodia fought along parts of the border. The fighting included the use of rocket and artillery fire. Tensions remain with reports of the latest round of gunfire on 23 September. Land borders and crossings between Thailand and Cambodia continue to be  suspended. Some tourist destinations in border areas such as the Khao Phra Wihan/Preah Vihear temple, the Ta Kwai/Ta Krabey temple and the Ta Muen Thom/Tamone Thom temple are closed.
 
 There are also unexploded landmines in the border area.
 

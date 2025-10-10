@@ -92,22 +92,23 @@ Find out what you can do to [prepare for and respond to extreme weather and natu
 
 ### Volcanic eruptions and earthquakes
 
-Volcanic eruptions and earthquakes are common in Iceland given the country’s natural geography. In the event of an eruption or wider seismic activity follow the latest advice issued by the authorities.
+Volcanic eruptions and earthquakes are common in Iceland given the country’s geography. In the event of an eruption or wider seismic activity, always follow the latest advice issued by the authorities, including on areas to avoid and actions to take if air quality is affected.
 
-Recently there has been a series of volcanic eruptions on the Reykjanes peninsula in south-west Iceland, the latest on 16 July. These have affected the town of Grindavik and the area to the north of it. Keflavik International Airport and the road to it is unaffected and operating normally. The capital city, Reykjavik, and the rest of Iceland is not affected by these recent eruptions.
+Since December 2023, there have been a series of volcanic eruptions on the Reykjanes peninsula in south-west Iceland, the latest started on 16 July 2025. These eruptions have affected the town of Grindavik and the surrounding area. The capital city, Reykjavik, Keflavik International Airport and the rest of Iceland have not been affected by this series of eruptions.
 
-It is likely there will be further eruptions in this location. Monitor local media for updates and always follow the authorities’ advice on travel to the area.
+It is likely that there will be further eruptions on the Reykjanes peninsula. You should closely monitor local media for updates and always follow the authorities’ advice on travel to, or near to, the area of an ongoing eruption. Gas pollution levels can quickly exceed dangerous levels in the immediate vicinity of an eruption site. Depending on weather conditions, while an eruption is ongoing gas pollution and volcanic haze may also spread beyond the immediate area so pay particular attention to local alerts and advice. Never attempt to walk on newly solidified lava as the surface crust can break without warning.
 
-The Government of Iceland monitors any seismic and volcanic activity closely and infrastructure is robustly designed, but not all events can be anticipated and can pose risks to your travel plans including travel delays and cancellations due to rock falls and landslides, sudden flooding and poisonous volcanic gases near eruption sites.
+Regularly check for alerts and advice from:
 
-You should regularly check for alerts and advice from:
-
-* [the Icelandic tourist board](https://www.visiticeland.com/article/volcano-info)
 * [Icelandic Met Office](https://en.vedur.is/)
 * [Safe Travel Iceland](https://safetravel.is/)
+* [Icelandic Environment and Energy agency on gas pollution](https://loftgaedi.is/en?zoomLevel=7&lat=64.894972&lng=-18.675028)
+* [the Icelandic tourist board](https://www.visiticeland.com/article/volcano-info)
 * [Almannavarnir Facebook page](https://www.facebook.com/Almannavarnir/)
 
-These organisations have further information on volcanic eruptions and earthquakes in Iceland:
+The Government of Iceland monitors all seismic and volcanic activity closely and infrastructure is robustly designed, but not all events can be anticipated and can pose risks to your travel plans. This could include travel delays and cancellations due to rock falls and landslides, sudden flooding, or poisonous volcanic gases near eruption sites.
+
+Further information on volcanic eruptions and earthquakes in Iceland can be found from the following organisations:
 
 * [Icelandic Department of Civil Protection and Emergency Management](https://www.almannavarnir.is/english/) – includes health and safety advice
 * [Icelandic Road and Coastal Administration](https://www.road.is/)

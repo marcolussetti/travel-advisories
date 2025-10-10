@@ -66,14 +66,16 @@ Alcoholic drinks containing methanol have killed people and caused serious illne
 * spirit-based mixed drinks such as cocktails
 * counterfeit brand-name spirits
 
-To protect yourself from methanol poisoning you should:
+To reduce the risk of methanol poisoning:
 
 * buy alcoholic drinks only from licensed liquor stores, bars, clubs, restaurants, and hotels
 * avoid home-made alcoholic drinks
 * check bottle seals are intact
 * check labels for poor print quality or incorrect spelling
 
-If the label, smell or taste seems wrong, do not drink the alcohol. These are signs it is illegal and could contain methanol. TravelHealthPro lists the [symptoms of methanol poisoning](https://www.travelhealthpro.org.uk/factsheet/25/personal-safety). For more information about spiking and methanol poisoning, read Travel Aware’s information on [Spiking and methanol poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/).
+Methanol is tasteless and odourless.If the label, smell or taste seems wrong, do not drink the alcohol. These are signs it is illegal and could contain methanol.
+
+TravelHealthPro lists the [symptoms of methanol poisoning](https://www.travelhealthpro.org.uk/factsheet/25/personal-safety). For more information about spiking and methanol poisoning, read Travel Aware’s information on [Spiking and methanol poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/).
 
 Seek [urgent medical attention](https://www.gov.uk/government/publications/list-of-medical-facilities-in-vietnam) if you or someone you are travelling with show signs of methanol poisoning.
 
@@ -211,6 +213,10 @@ Motorcycles and scooters for hire in beach resorts are often unregistered and ca
 By law, you must wear a helmet when riding a motorcycle.
 
 If you drive a car or ride a motorcycle in Thailand without a valid licence, it could invalidate your travel insurance and you’ll be unable to claim if you have an accident or injury.
+
+### Air safety
+
+Nok Air has been suspended from operating international flights due to safety concerns by Thailand’s Civil Aviation Authority, though still operates domestically within Thailand.
 
 ### Sea travel
 

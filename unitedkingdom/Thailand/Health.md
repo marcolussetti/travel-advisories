@@ -26,6 +26,7 @@ See [what health risks you’ll face in Thailand](https://travelhealthpro.org.uk
 
 * Zika virus
 * malaria and dengue
+* rabies
 
 Altitude sickness is a risk in parts of Thailand. Read more about [altitude sickness on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/26/altitude-illness).
 
