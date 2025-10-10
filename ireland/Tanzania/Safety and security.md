@@ -4,9 +4,9 @@
 
 General elections are scheduled to take place in Tanzania on 29 October 2025, with early voting in Zanzibar on 28 October 2025.
 
-Recent elections in Tanzania (particularly on the islands of Zanzibar) have turned violent and resulted in some fatalities, as have demonstrations and political gatherings. Police may use tear gas and/or live ammunition for crowd control.
+Recent elections in Tanzania (particularly on the islands of Zanzibar) have turned violent and resulted in some fatalities.
 
-Avoid all demonstrations, rallies, and large crowds and keep up to date with local and international events.
+Avoid all demonstrations, rallies, and large crowds.
 
 If visitors become aware of any nearby protests, leave the area immediately and monitor our travel advice, and social and local media for up-to-date information. Access to some social media platforms may be restricted during the electoral period.
 

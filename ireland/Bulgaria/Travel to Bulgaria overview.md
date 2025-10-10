@@ -10,6 +10,8 @@ Bulgaria is generally a safe country with a low level of crime. In major urban c
 
 Please note that Bulgaria has been accepted into the Schengen area, as of 1 January 2025.
 
+Bulgaria will become a member of the Eurozone on 1 January 2026, with a fixed conversion rate of €1 = 1.95583 BGN. There will be dual currency circulation phase of one month, after which time cash payments will only be accepted in Euro.
+
 Irish citizens need a valid passport or passport card to enter Bulgaria.
 
 Irish passports do not have a minimum validity requirement while travelling to the UK or within the EU. When travelling within Europe with an Irish passport, it should be valid for the duration of the stay.

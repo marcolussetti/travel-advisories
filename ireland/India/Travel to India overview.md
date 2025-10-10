@@ -4,17 +4,9 @@
 
 High Degree of Caution
 
-### **Travel Alert**
-
-Following recent hostilities, a ceasefire between India and Pakistan was announced on 10 May. We still advise that Irish citizens exercise caution in public places, stay alert, monitor local news reports and follow the advice of local authorities.
-
-Airports in northern and western India have started to reopen and resume flight operations. Some delays may still be expected. Travellers should contact their airline for up to date information.
-
-The Department of Foreign Affairs and Trade continues to advise against all travel to Jammu and Kashmir, the India-Pakistan border, or Manipur. Please see more detailed regional travel advice below.
-
 ### **General Travel Advice**
 
-Irish citizens require a visa to travel to India unless you are an Overseas Citizen of India (OCI) cardholder. If you arrive in India without a visa, you will be refused entry and will likely be detained in police custody and deported. If you over-stay your visa, you will be fined and may be prosecuted or detained and later deported. If you over-stay your visa or if you lose your passport, you will have to obtain an [exit visa](https://indianfrro.gov.in/eservices/home.jsp) from the Indian government before you can leave India. This must be done [online](https://indianfrro.gov.in/eservices/home.jsp) and can take a considerable amount of time even for straightforward applications. Make sure to factor this into your timeframe to leave India if you are booking flights.
+Irish citizens require a visa to travel to India unless you are an Overseas Citizen of India (OCI) cardholder. If you arrive in India without a visa, you will be refused entry and will likely be detained in police custody and deported. If you over-stay your visa, you will be fined and may be prosecuted or detained and later deported. If you over-stay your visa or if you lose your passport, you will have to obtain an [**exit visa**](https://indianfrro.gov.in/eservices/home.jsp) from the Indian government before you can leave India. This must be done [**online**](https://indianfrro.gov.in/eservices/home.jsp) and can take a considerable amount of time even for straightforward applications. Make sure to factor this into your timeframe to leave India if you are booking flights.
 
 You will need your passport with a valid visa to get accommodation in India. Visitors who have overstayed their Indian visa have found it difficult to find accommodation.
 

@@ -96,6 +96,10 @@ The current security situation remains volatile and uncertain due to the threat 
 
 - follow the instructions of local authorities.
 
+**Road Blockades and Transport Strikes**
+
+Due to ongoing transport strikes and road blockades across Ecuador, travellers may experience disruptions. Citizens are advised to check official sources regularly, follow guidance from the local authorities, and monitor road conditions through the official [ECU 911 website](https://www.ecu911.gob.ec/consulta-de-vias/).
+
 The Embassy advises all Irish citizens in Ecuador to be particularly attentive to news and safety recommendations from the Ecuadorian authorities.
 
 If an Irish citizen decides to travel to Ecuador at this time, via a land border from Peru or Colombia, **against our clear advice**, they must present a criminal record certificate from their country of residence covering the last five years. The certificate must be legalised with a Hague Apostille. This does not apply to children and adolescents under 18.

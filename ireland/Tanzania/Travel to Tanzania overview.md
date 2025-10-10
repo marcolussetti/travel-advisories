@@ -4,6 +4,18 @@
 
 High Degree of Caution
 
+### Travel Alert
+
+#### **Elections**
+
+General elections are scheduled to take place in Tanzania on 29 October 2025, with early voting in Zanzibar on 28 October 2025.
+
+Recent elections in Tanzania (particularly on the islands of Zanzibar) have turned violent and resulted in some fatalities.
+
+Avoid all demonstrations, rallies, and large crowds.
+
+If visitors become aware of any nearby protests, leave the area immediately and monitor our travel advice, and social and local media for up-to-date information. Access to some social media platforms may be restricted during the electoral period.
+
 ### **General Travel Advice**
 
 Irish citizens require a visa to enter mainland Tanzania and Zanzibar. [**Apply for an e-visa**](https://visa.immigration.go.tz/) before you travel. It is possible to get a tourist or business visa for a single entry on arrival at main ports of entry to Tanzania, subject to the fulfilment of all immigration requirements. You will not be able to get a multiple entry visa on arrival. Passengers may be asked to provide proof of their return journey at Tanzanian immigration.
