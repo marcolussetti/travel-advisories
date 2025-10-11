@@ -16,6 +16,14 @@ Visitors to Latvia are advised to follow the guidance of national and local auth
 
 Citizens can also follow the Embassy on social media (X [**@IrelandinLV**](https://twitter.com/i/flow/login?redirect_after_login=%2FIrelandinLV) and [**Facebook**](https://www.facebook.com/irishembassy.latvia)) to ensure access to relevant updates and alerts.
 
+#### **Belarus Border**
+
+The Department of Foreign Affairs and Trade strongly advises against all travel to [**Belarus**](https://www.ireland.ie/en/dfa/overseas-travel/advice/belarus/) at this time due to the extent of Russian military operations in the country in connection with the widespread military conflict between Russia and Ukraine, and the increasingly restricted options for Irish citizens in Belarus to depart the country.
+
+Please note that a number of land border crossings between Belarus and EU Member States, including Latvia, have been closed in recent times. The Paternieki-Grigorovshchina border crossing point is the only crossing point between Latvia and Belarus that remains open. This border crossing may close or implement restrictions at short notice. Check the latest information on the [**Latvian State Border Guard website**](https://www.rs.gov.lv/en).
+
+Access to within 2km of Latvia’s border with Belarus is limited. If you wish to enter the border area, you are required to obtain a special licence issued by the Latvian Border Guard. You should abide by this limitation at all times and follow the instructions of Latvian authorities if you are in this area.
+
 ### **Emergency Assistance**
 
 The best help is often close at hand so if a problem arises, try talking to local contacts, tour operator representatives or hotel management.

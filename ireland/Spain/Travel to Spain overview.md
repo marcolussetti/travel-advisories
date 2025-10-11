@@ -6,7 +6,7 @@ Normal Precautions
 
 ### Travel Alert
 
-Spain can at times experience extreme weather conditions. During the extended summer months in Spain, many parts of the country will experience heatwaves with exceptionally high temperatures. You can monitor information and alerts, including severe weather warnings, on the website of the Spanish Meteorological Agency, [**AEMET**](https://www.aemet.es/en/portada). Citizens are advised to check the latest weather information before they travel and to follow the advice of the local authorities.
+Spain can at times experience extreme weather conditions. During the extended summer months in Spain, many parts of the country will experience heatwaves with exceptionally high temperatures. During autumn and winter, there is an increased risk of storms, heavy rainfall and flooding. You can monitor information and alerts, including severe weather warnings, on the website of the Spanish Meteorological Agency, [**AEMET**](https://www.aemet.es/en/portada).
 
 The HSE has advice on heat health, which can be found on their [**website**](https://www.hpsc.ie/news/title-24973-en.html).
 

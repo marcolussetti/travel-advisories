@@ -4,10 +4,6 @@
 
 Normal Precautions
 
-### Travel Alert
-
-Hurricane Beryl has caused significant damage to parts of Grenada. Citizens with plans to be in the affected region during this period should consider the need to travel based on information from the local authorities.
-
 ### **General Travel Advice**
 
 Irish citizens do not require a visa to enter Grenada**.**

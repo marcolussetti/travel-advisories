@@ -6,12 +6,13 @@ Although the threat from terrorism in Latvia is low, there is still a global ris
 
 ### **Crime**
 
-Crime remains relatively low in Latvia but you should take sensible precautions:
+Crime remains relatively low in Latvia. However, you should be aware that, as in any major city, there can be a higher risk of petty crime, such as pickpocketing, in tourist areas. While in Riga, if visiting Central Train Station (Dzelzcela stacija) and Central Bus Station (Autoosta), or tourist areas such as Riga’s Old Town (Vecriga) and Central Market (Centraltirgus), we advise you take sensible precautions:
 
 * Do not carry credit cards, travel tickets and money together - leave spare cash and valuables in a safe place.
 * Do not carry your passport unless absolutely necessary and leave a copy (as well as travel and insurance documents) with family or friends at home.
-* There have been a number of thefts in hostels so take particular care of belongings when using these.
-* There are a number of scams operated by some strip/lap-dancing bars/clubs. Always ask the price of the drink before ordering and pay for each drink as it is ordered. Specify the exact drink you would like to order.
+* Avoid showing large sums of money in public and if withdrawing money, do so from ATMs located within a bank
+* Be aware of common scams in restaurants and tourist pubs. Pay special attention to drink prices and transactions on your credit and debit cards.
+* Do not inadvertently lower your alertness to the risks of drink spiking while abroad. Ensure drinks are not left unattended.
 
 ### **Reporting Crime**
 

@@ -4,6 +4,12 @@
 
 Normal Precautions
 
+### **Travel Alert**
+
+#### **Elections**
+
+Seychelles will hold presidential elections between 9 and 11 October 2025. Elections in Seychelles are generally peaceful. However, political tensions can occur. Stay away from political rallies and related activities. While these events are usually peaceful, minor clashes between supporters have occurred in the past. Large political gatherings can also disrupt local services and traffic.
+
 ### **General Travel Advice**
 
 Irish citizens do not require a visa to enter Seychelles. All visitors are required to complete a digital Travel authorisation immigration form in advance of travel.
