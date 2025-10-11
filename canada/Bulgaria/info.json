@@ -1,7 +1,7 @@
 {
     "name": "Bulgaria",
-    "update_reason": "Natural disasters and climate \u2013 added information on flooding and landslides along the Black Sea coast.",
-    "update_date": "2025-10-07T16:11:00",
+    "update_reason": "Natural disasters and climate \u2013 removed information on flooding and landslides",
+    "update_date": "2025-10-10T11:20:00",
     "sections": {
         "risk": "canada/Bulgaria/risk.md",
         "security": "canada/Bulgaria/security.md",

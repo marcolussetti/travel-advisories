@@ -1,7 +1,7 @@
 {
     "name": "Chile",
-    "update_reason": "The Need help? section was updated.",
-    "update_date": "2025-09-29T10:32:00",
+    "update_reason": "Natural disasters and climate \u2013 removed information on the tsunami warning",
+    "update_date": "2025-10-10T18:09:00",
     "sections": {
         "risk": "canada/Chile/risk.md",
         "security": "canada/Chile/security.md",

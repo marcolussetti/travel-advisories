@@ -4,9 +4,9 @@
 
 ### Typhoon Halong
 
-Typhoon Halong is expected to sweep across the southern Izu Islands, in Tokyo Prefecture, on October 8, 2025.
+Typhoon Halong swept across the southern Izu Islands, in Tokyo Prefecture, on October 8, 2025.
 
-The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
+The storm brought excessive rainfall and violent winds. Typhoon Halong caused severe flooding and landslides and there are ongoing disruptions to the following essential services:
 
 * transportation
 * power distribution

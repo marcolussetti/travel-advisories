@@ -2,18 +2,6 @@
 
 ## Natural disasters and climate
 
-A tsunami alert is in effect for North Sulawesi and Indonesian Papua.
-
-If you’re in or around the affected area:
-
-* follow the instructions of local authorities
-* monitor local news for information on the tsunami’s progress
-
-#### Useful links
-
-* [Tsunami threat](http://www.tsunami.gov/) – U.S. Tsunami Warning System
-* [Earthquake with Tsunami Potential](https://www.bmkg.go.id/gempabumi/berpotensi-tsunami "https://www.bmkg.go.id/gempabumi/berpotensi-tsunami") - Indonesia Meteorology, Climatology, and Geophysics Agency
-
 ### Climate change
 
 Climate change is affecting Indonesia. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Indonesia is located in a very active seismic zone and is prone to natural disasters such as:

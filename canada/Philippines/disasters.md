@@ -4,11 +4,7 @@
 
 A tsunami warning is in effect for the following areas:
 
-* Eastern Samar
-* Dinagat Islands
 * Davao Oriental
-* Leyte
-* Southern Leyte
 * Surigao del Norte
 * Surigao del Sur
 

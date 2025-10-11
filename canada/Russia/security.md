@@ -253,6 +253,10 @@ Same sex marriage is not recognized in Russia. Homosexuality isn’t socially ac
 
 [Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
 
+### Telecommunications
+
+If you travel to Russia with a foreign SIM card, you will not be able to access mobile internet, SMS or other services for 24 hours after your arrival. Buying a local-network SIM card in Russia can be difficult for visitors and could take several days to complete. Local authorities maintain control over telecommunications networks and may restrict or suspend access to mobile and internet services during periods of heightened security or major public events.
+
 ### Roads
 
 Road safety vary considerably across the country.

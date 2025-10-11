@@ -194,13 +194,13 @@
     {
         "destination": "Brunei",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2025-09-23T12:10:45",
+        "last_updated": "2025-10-10T11:30:35",
         "details_url": "https://travel.gc.ca/destinations/brunei"
     },
     {
         "destination": "Bulgaria",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2025-10-07T16:11:43",
+        "last_updated": "2025-10-10T11:20:29",
         "details_url": "https://travel.gc.ca/destinations/bulgaria"
     },
     {
@@ -260,7 +260,7 @@
     {
         "destination": "Chile",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-09-29T10:32:16",
+        "last_updated": "2025-10-10T18:09:31",
         "details_url": "https://travel.gc.ca/destinations/chile"
     },
     {
@@ -404,7 +404,7 @@
     {
         "destination": "Ethiopia",
         "risk_level": "Avoid non-essential travel (with regional advisories)",
-        "last_updated": "2025-09-29T14:18:30",
+        "last_updated": "2025-10-10T11:48:01",
         "details_url": "https://travel.gc.ca/destinations/ethiopia"
     },
     {
@@ -428,7 +428,7 @@
     {
         "destination": "France",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-09-29T14:21:37",
+        "last_updated": "2025-10-10T12:28:40",
         "details_url": "https://travel.gc.ca/destinations/france"
     },
     {
@@ -572,7 +572,7 @@
     {
         "destination": "Indonesia",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-10-09T23:30:42",
+        "last_updated": "2025-10-10T10:56:17",
         "details_url": "https://travel.gc.ca/destinations/indonesia"
     },
     {
@@ -596,7 +596,7 @@
     {
         "destination": "Israel and Palestine",
         "risk_level": "Avoid non-essential travel (with regional advisories)",
-        "last_updated": "2025-10-01T15:59:32",
+        "last_updated": "2025-10-10T12:31:12",
         "details_url": "https://travel.gc.ca/destinations/israel-and-palestine"
     },
     {
@@ -613,8 +613,8 @@
     },
     {
         "destination": "Japan",
-        "risk_level": "Take normal security precautions (with regional advisories)",
-        "last_updated": "2025-10-09T16:31:59",
+        "risk_level": "Take normal security precautions",
+        "last_updated": "2025-10-10T12:36:24",
         "details_url": "https://travel.gc.ca/destinations/japan"
     },
     {
@@ -944,7 +944,7 @@
     {
         "destination": "Palau",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2025-10-09T23:15:48",
+        "last_updated": "2025-10-10T10:59:54",
         "details_url": "https://travel.gc.ca/destinations/palau"
     },
     {
@@ -974,7 +974,7 @@
     {
         "destination": "Philippines",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-10-09T23:20:14",
+        "last_updated": "2025-10-10T10:04:03",
         "details_url": "https://travel.gc.ca/destinations/philippines"
     },
     {
@@ -1016,7 +1016,7 @@
     {
         "destination": "Russia",
         "risk_level": "Avoid all travel",
-        "last_updated": "2025-10-02T07:37:01",
+        "last_updated": "2025-10-10T14:25:56",
         "details_url": "https://travel.gc.ca/destinations/russia"
     },
     {
@@ -1166,7 +1166,7 @@
     {
         "destination": "South Sudan",
         "risk_level": "Avoid all travel",
-        "last_updated": "2025-09-24T15:16:32",
+        "last_updated": "2025-10-10T12:43:05",
         "details_url": "https://travel.gc.ca/destinations/south-sudan"
     },
     {
