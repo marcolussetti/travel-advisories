@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   19 September 2025
+:   11 October 2025
 
 Updated:
-:   18 September 2025
+:   10 October 2025
 
 Latest update:
-:   Removal of information about the short-term closure of Mexico City Airport on Tuesday 16 September between 9am and 2pm local time ('Warnings and insurance' page).
+:   Update of information regarding Tropical Storm Raymond (Warnings and insurance)
 
 ![](https://assets.publishing.service.gov.uk/media/65fabfdfaa9b76001dfbdb8a/FCDO_TA_065_-_Mexico_Travel_Advice_Ed5_WEB.jpg)
 
@@ -106,6 +106,16 @@ FCDO advises against all but essential travel to within 40km of the Guatemalan b
 FCDO advises against all but essential travel on Federal Highway 199 (Carretera Federal 199) between Rancho Nuevo (just outside San Cristobal de las Casas) and the Chancalá junction just outside Palenque (where Federal Highway 199 meets Federal Highway 307).
 
 Find out more about [why FCDO advises against travel to these areas](/foreign-travel-advice/mexico/regional-risks).
+
+### TROPICAL STORM WARNING FOR THE PACIFIC SOUTH WEST COAST
+
+A tropical storm warning and watch is in place for parts of the southwestern coast of Mexico.  Tropical Storm Raymond is expected to move parallel to the coast through today and then approach southern Baja California Sur over the weekend.  Strong winds and heavy rainfall are expected in parts of southwestern to northwestern Mexico particularly along the coastal areas of Michoacan, Colima, Jalisco, Nayarit, Sinaloa and the central to southern ports of Baja California Sur.  This rainfall brings a risk of flash flooding, particularly in areas of higher terrain.
+
+You should closely monitor local and international weather updates, including from the [US National Hurricane Center](https://eur03.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.nhc.noaa.gov%2F&data=05%7C02%7CSarah.Ballett%40fcdo.gov.uk%7C6dd9f3888cca4a52eb0a08de081bca56%7Cd3a2d0d37cc84f52bbf985bd43d94279%7C0%7C0%7C638957112630350180%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=avTVceovfe%2BgJgSJffeS%2FoDSRH2owD4U1DekJS0%2B9ss%3D&reserved=0).  Follow the advice of local authorities, including the [National Civil Protection Secretariat](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fx.com%2FCNPC_MX&data=05%7C02%7CSarah.Ballett%40fcdo.gov.uk%7C6dd9f3888cca4a52eb0a08de081bca56%7Cd3a2d0d37cc84f52bbf985bd43d94279%7C0%7C0%7C638957112630364258%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=CDElneuMam7%2F4vCol0dnILb3rCb6vdrPtl%2BNthzSNpQ%3D&reserved=0) (in Spanish).
+
+See the [tropical cyclones page](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.gov.uk%2Ftropical-cyclones&data=05%7C02%7CSarah.Ballett%40fcdo.gov.uk%7Cababc6950407483ac93508dcdce9ef32%7Cd3a2d0d37cc84f52bbf985bd43d94279%7C0%7C0%7C638628144529752951%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=uuDFj5XV3OGhRPvq0W%2FkYTyYoTSomzZmY%2Fe9FFdztRE%3D&reserved=0) for advice about how to prepare for travel during hurricane season and what to do ahead of a storm.
+
+ In the aftermath of a storm, there can be flooding, high winds and continued rainfall. See the [tropical cyclones page](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.gov.uk%2Ftropical-cyclones&data=05%7C02%7CSarah.Ballett%40fcdo.gov.uk%7Cababc6950407483ac93508dcdce9ef32%7Cd3a2d0d37cc84f52bbf985bd43d94279%7C0%7C0%7C638628144529765770%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=m8pjdrYhIy6lVFJMKmshoPUexLG8qLxSYoUTF4uFAJ0%3D&reserved=0) for further advice on what to expect in the aftermath of a hurricane.
 
 ## Before you travel
 

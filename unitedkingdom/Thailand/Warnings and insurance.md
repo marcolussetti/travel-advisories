@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   10 October 2025
+:   11 October 2025
 
 Updated:
-:   9 October 2025
+:   10 October 2025
 
 Latest update:
-:   Updated information on the dispute along the border with Thailand and Cambodia ('Warnings and insurance' page). New information on the status of Nok Air, and the risk of Rabies ('Safety and security' and ‘Health’ pages).
+:   Clarification that FCDO advises against all but essential travel to within 50km of the whole border with Cambodia, including Koh Chang and Koh islands (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/68876079741b74390ff0e454/FCDO__TA__040_-_Thailand_Travel_Advice_Ed4__WEB_.jpg)
 
@@ -29,7 +29,7 @@ FCDO also advises against all but essential travel on the Hat Yai to Padang Bes
 
 This is due to regular attacks in the provinces by the border with Malaysia. See [Safety and security](https://www.gov.uk/foreign-travel-advice/thailand/safety-and-security) .
 
-FCDO also advises against all but essential travel to within 50km of the whole border with Cambodia.
+FCDO also advises against all but essential travel to within 50km of the whole border with Cambodia, including Koh Chang and Koh islands.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/thailand/safety-and-security#terrorism).
 

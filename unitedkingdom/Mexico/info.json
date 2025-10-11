@@ -1,11 +1,11 @@
 {
     "name": "Mexico",
-    "update_reason": "Removal of information about the short-term closure of Mexico City Airport on Tuesday 16 September between 9am and 2pm local time ('Warnings and insurance' page).",
+    "update_reason": "Update of information regarding Tropical Storm Raymond (Warnings and insurance)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Mexico/Warnings and insurance.md",
-            "update_date": "2025-09-18T10:40:00+01:00"
+            "update_date": "2025-10-10T18:00:38+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Mexico/Getting help.md"
         }
     ],
-    "update_date": "2025-09-18T10:40:00+01:00"
+    "update_date": "2025-10-10T18:00:38+01:00"
 }

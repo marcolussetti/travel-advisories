@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   2 October 2025
+:   11 October 2025
 
 Updated:
-:   1 October 2025
+:   10 October 2025
 
 Latest update:
-:   Addition of information about overnight curfews in some parts of Madagascar including Antananarivo, Toamasina (Tamatave), and Toliara (‘Warnings and insurance’ page).
+:   Updated information that overnight curfews in Toamasina (Tamatave), and Toliara have been lifted. Overnight curfews remain in place for Antananarivo (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/68d70494ef1c2f72bc1e4b27/FCDO__TA__102_-_Madagascar_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -22,7 +22,7 @@ Your travel insurance could be invalidated if you travel against advice from the
 
 Protests and violent disorder have taken place in Madagascar. Further protests are expected. Antananarivo has seen significant incidents of violence, including looting, which has spread to other towns and cities. Roads to Antananarivo airport have sometimes been blocked by protests and some internal and international flights have been cancelled.
 
-The local government has imposed an overnight curfew in some parts of the country, including Antananarivo, Toamasina (Tamatave), and Toliara. If you are currently in Madagascar, follow local advice and avoid large gatherings and political demonstrations. Check for messaging from your airline or tour operator before travelling to an airport.
+The overnight curfews in Toamasina (Tamatave), and Toliara have been lifted. Overnight curfews remain in place for Antananarivo, where the city centre is largely closed off. If you are currently in Madagascar, follow local advice and avoid large gatherings and political demonstrations. Check for messaging from your airline or tour operator before travelling to an airport.
 
 ## Before you travel
 

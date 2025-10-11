@@ -1,17 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   7 October 2025
+:   11 October 2025
 
 Updated:
-:   6 October 2025
+:   10 October 2025
 
 Latest update:
-:   Updated with information about the new Entry/Exit System (EES) which will start to be rolled out on 12 October to people travelling into the EU (‘Entry requirements’ page).
+:   New information on severe weather warnings and travel disruption in Murcia and Valencia (‘Warning and insurance’ page).
 
-## Wildfires in Spain
+## Severe weather and travel disruption
 
-There is a high risk of wildfires during the summer season from April to October. For advice, visit the wildfires section on the [Safety and security page](https://www.gov.uk/foreign-travel-advice/spain/safety-and-security#wildfires).
+Severe weather warnings are in place today in Murcia and Valencia, including the province of Alicante. Disruptions to travel are likely. If you are in the affected areas, follow the advice of the local authorities and monitor local weather updates. If you are planning to travel, check for messaging from your travel provider or airline.
 
 ## Before you travel
 

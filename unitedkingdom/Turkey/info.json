@@ -1,11 +1,11 @@
 {
     "name": "Turkey",
-    "update_reason": "New information about advice on swimming and beaches ('Safety and security' page).",
+    "update_reason": "Addition of information about checking the entry requirements for Greece, if you are considering day trips to Greek islands from Turkey (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Turkey/Warnings and insurance.md",
-            "update_date": "2025-08-22T15:58:35+01:00"
+            "update_date": "2025-10-10T17:24:05+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Turkey/Getting help.md"
         }
     ],
-    "update_date": "2025-08-22T15:58:35+01:00"
+    "update_date": "2025-10-10T17:24:05+01:00"
 }

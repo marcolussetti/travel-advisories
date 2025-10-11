@@ -1,11 +1,11 @@
 {
     "name": "Madagascar",
-    "update_reason": "Addition of information about overnight curfews in some parts of Madagascar including Antananarivo, Toamasina (Tamatave), and Toliara (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Updated information that overnight curfews in Toamasina (Tamatave), and Toliara have been lifted. Overnight curfews remain in place for Antananarivo (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Madagascar/Warnings and insurance.md",
-            "update_date": "2025-10-01T16:40:55+01:00"
+            "update_date": "2025-10-10T17:34:53+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Madagascar/Getting help.md"
         }
     ],
-    "update_date": "2025-10-01T16:40:55+01:00"
+    "update_date": "2025-10-10T17:34:53+01:00"
 }

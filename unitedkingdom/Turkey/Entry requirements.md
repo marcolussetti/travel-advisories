@@ -26,6 +26,14 @@ If you hold a different type of British nationality, such as British National (O
 
 To enter Turkey for education, employment or medical purposes, or in other special cases, check the [information on applying for a visa](https://www.mfa.gov.tr/general-information-about-turkish-visas.en.mfa). If you plan to work in Turkey, make sure you have the correct permits.
 
+## Day trips to Greek islands
+
+If you are considering a day trip to a Greek Island, be aware that Greece is in the Schengen Zone and will be introducing the new European Union (EU) [Entry Exit System (EES)](https://www.gov.uk/guidance/eu-entryexit-system) from 12 October.
+
+This applies to any non-EU national travelling from Turkey into the EU by land, sea or air (excluding airport transit). EES may take each passenger a few extra minutes to complete, so be prepared to wait longer than usual at the border once the system starts.
+
+Read [Greece’s travel advice](https://www.gov.uk/foreign-travel-advice/greece/entry-requirements) for further details.
+
 ## Travelling with children
 
 If leaving Turkey with a dual British-Turkish national child who is 18 or younger, you may need to show permission to travel from the Turkish parent.

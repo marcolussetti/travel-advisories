@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   10 October 2025
+:   11 October 2025
 
 Updated:
 :   10 October 2025
 
 Latest update:
-:   Information on the 7.4 magnitude earthquake in Mindanao and associated tsunami risk. (Warnings and insurance)
+:   Tsunami warning lifted following the earthquake in Mindanao (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/616406778fa8f52980d9301c/FCDO__TA__033_-_Philippines_Travel_Advice_Ed2__WEB_.jpg)
 
@@ -34,21 +34,20 @@ Find out more about [why FCDO advises against travel](/foreign-travel-advice/
 
 ## Earthquake in Mindanao
 
-On 10 October 2025, a magnitude 7.4 earthquake struck Mindanao. The U.S. Tsunami Warning System has issued a tsunami threat in a coastal area within 300km of the epicentre. The [Philippines Institute of Volcanology and Seismology (PHIVOLCS)](https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1010_0143_B2F.html) has advised residents and visitors in affected coastal areas to evacuate to higher ground.
+On 10 October 2025, a magnitude 7.4 earthquake struck Mindanao. The U.S. Tsunami Warning System initially issued a tsunami threat in a coastal area within 300km of the epicentre. Authorities have now lifted the tsunami warning, however aftershocks may still occur and damage assessments are ongoing.
 
  If you are in the affected area:
 
-* Follow the advice of local authorities and emergency services.
-* Move to higher ground if you are in coastal areas.
-* Be aware of the risk of aftershocks.
-* Avoid damaged buildings and infrastructure.
-* Monitor local media and official sources for updates.
+* follow the advice of local authorities and emergency services
+* be aware of the risk of aftershocks
+* avoid damaged buildings and infrastructure
+* monitor local media and official sources for updates
 
 If you are planning to travel to Mindanao:
 
-* Contact your travel provider for updates.
-* Ensure your travel insurance covers natural disasters.
-* Stay informed via the [Philippine Institute of Volcanology and Seismology (PHIVOLCS)](https://www.phivolcs.dost.gov.ph/) and [the National Disaster Risk Reduction and Management Council (NDRRMC)](https://ndrrmc.gov.ph/).
+* contact your travel provider for updates
+* ensure your travel insurance covers natural disasters.
+* stay informed via the [Philippine Institute of Volcanology and Seismology (PHIVOLCS)](https://www.phivolcs.dost.gov.ph/) and [the National Disaster Risk Reduction and Management Council (NDRRMC)](https://ndrrmc.gov.ph/)
 
 ## Tropical storm season
 
@@ -61,8 +60,6 @@ Demonstrations are expected over the coming weeks in Metro Manila and elsewhere 
 You should avoid all demonstrations and large gatherings and follow the advice of local authorities. Demonstrations may lead to travel disruption. You should allow extra time for journeys and monitor local media for updates.
 
 See [Safety and security](https://www.gov.uk/foreign-travel-advice/philippines/safety-and-security) for more information on demonstrations and rallies in the Philippines.
-
-$CTA
 
 ## Before you travel
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   20 August 2025
+:   11 October 2025
 
 Updated:
-:   19 August 2025
+:   10 October 2025
 
 Latest update:
-:   New information about Cameroonian elections in October 2025 (See ‘Political situation’ in 'Safety and security' page).
+:   New information on safety and security during Presidential elections on 12 October (See ‘Safety and Security’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/639343a4e90e0769b63df154/FCDO__TA__008_-_Cameroon_Travel_Advice_Ed5__WEB_.jpg)
 

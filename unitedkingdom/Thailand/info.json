@@ -1,11 +1,11 @@
 {
     "name": "Thailand",
-    "update_reason": "Updated information on the dispute along the border with Thailand and Cambodia ('Warnings and insurance' page). New information on the status of Nok Air,  and the risk of Rabies ('Safety and security' and \u2018Health\u2019 pages).",
+    "update_reason": "Clarification that FCDO advises against all but essential travel to within 50km of the whole border with Cambodia, including Koh Chang and Koh islands (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Thailand/Warnings and insurance.md",
-            "update_date": "2025-10-09T15:42:15+01:00"
+            "update_date": "2025-10-10T17:29:41+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Thailand/Getting help.md"
         }
     ],
-    "update_date": "2025-10-09T15:42:15+01:00"
+    "update_date": "2025-10-10T17:29:41+01:00"
 }

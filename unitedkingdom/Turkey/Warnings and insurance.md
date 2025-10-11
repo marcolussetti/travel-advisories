@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   23 August 2025
+:   11 October 2025
 
 Updated:
-:   22 August 2025
+:   10 October 2025
 
 Latest update:
-:   New information about advice on swimming and beaches ('Safety and security' page).
+:   Addition of information about checking the entry requirements for Greece, if you are considering day trips to Greek islands from Turkey (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/6703bc3c3b919067bb482cfb/FCDO__TA__043_-_Turkey_Travel_Advice_Ed4__WEB_.jpg)
 
@@ -27,10 +27,6 @@ Find out more about [why FCDO advises against travel](https://www.gov.uk/foreig
 ## Support from the UK government
 
 While 24-hour consular assistance is available by phone or online, in-person consular support is severely limited in areas where we advise against travel.
-
-## Wildfires in Turkey
-
-Wildfires happen frequently in Turkey during summer. Please see Wildfires section on the [Safety and security page](https://www.gov.uk/foreign-travel-advice/turkey/safety-and-security) for more information.
 
 ## Before you travel
 

@@ -36,7 +36,7 @@ Extremist groups based in Syria, including Daesh and Al-Qaeda linked groups, hav
 
 Regular demonstrations and protests are currently taking place in Istanbul and other cities across Turkey. Demonstrations may become violent. The police response has included use of tear gas and water cannons.
 
-Events in Israel and the Occupied Palestinian Territories have led to heightened tensions in the region and in locations across Turkey. Demonstrations continue to occur outside diplomatic missions connected to the conflict in major cities, particularly Israeli diplomatic missions in Ankara and Istanbul.
+Events in Israel and Palestine have led to heightened tensions in the region and in locations across Turkey. Demonstrations continue to occur outside diplomatic missions connected to the conflict in major cities, particularly Israeli diplomatic missions in Ankara and Istanbul.
 
 Avoid all demonstrations and leave the area if one develops. Local transport routes may be disrupted.
 
