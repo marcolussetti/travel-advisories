@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   7 October 2025
+:   14 October 2025
 
 Updated:
-:   6 October 2025
+:   13 October 2025
 
 Latest update:
-:   Updated with information about the new Entry/Exit System (EES) which will start to be rolled out on 12 October to people travelling into the EU (‘Entry requirements’ page).
+:   Addition of information that a drone incursion in September 2025 caused the temporary closure of Poland’s airports (‘Safety and security’ page).
 
 ## Ukraine-Poland border
 

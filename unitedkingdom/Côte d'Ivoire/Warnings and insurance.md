@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   14 October 2025
 
 Updated:
-:   24 March 2025
+:   13 October 2025
 
 Latest update:
-:   New information about the political situation in Côte d'Ivoire (‘Safety and security’ page).
+:   New information on the political situation ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/66152612c4c84de468346aee/FCDO__TA__049_-_C%C3%B4te_d_Ivoire_Travel_Advice_Ed3__WEB_.jpg)
 

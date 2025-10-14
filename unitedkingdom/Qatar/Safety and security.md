@@ -46,6 +46,10 @@ If you have been sexually assaulted, contact the British Embassy in Doha on 00 9
 
 Qatar is an Islamic country. Respect local traditions, customs, laws and religions. Make sure your actions do not cause offence, especially during the holy month of Ramadan or when visiting religious areas.
 
+### Religion
+
+Religion is a sensitive topic in Qatar, approach any discussions with care. You could face imprisonment for defaming, desecrating, or committing blasphemy against Islam, Christianity or Judaism. Public worship and proselytising by non-Islamic faiths is illegal and can result in deportation or imprisonment.
+
 ### Personal ID
 
 You must always carry your passport as an official form of identification. A copy is usually acceptable, but in some situations you may have to produce the original at a police station within a specified time limit.
@@ -56,12 +60,12 @@ If you live in Qatar, your residence card is acceptable.
 
 Dress modestly in public, including while driving:
 
-* women should cover their shoulders and not wear short skirts
-* men and women should not wear shorts or sleeveless tops in government buildings, healthcare facilities or shopping malls - if you do, you may be asked to leave or be denied entry
+\*men and women should cover their shoulders and knees
+\* the dress code is strictly enforced in government buildings, healthcare facilities and banks - you may be asked to leave or be denied entry
 
 ### Ramadan
 
-Ramadan is a holy month for Muslims. The dates vary by year and country. Ramadan in Qatar in 2025 will likely start on 28 February and will last approximately 30 days. During this time, do not:
+Ramadan is a holy month for Muslims. The dates change every year. Ramadan in Qatar in 2026 will likely start on 17 February and will last approximately 30 days. During this time, do not:
 
 * eat, drink, smoke or chew gum in public in the daytime, including in your car
 * play loud music or dance
@@ -113,23 +117,27 @@ It is illegal to vape or use an e-cigarette. Police can arrest you and courts ca
 
 ### Illegal drugs and prison sentences
 
-There is zero tolerance for drugs-related offences in Qatar. Some medications that are legal in other countries are illegal in Qatar. See [guidance on medications](https://www.gov.uk/foreign-travel-advice/qatar/health#bringing-medication-into-qatar) that you can bring into Qatar.
+There is zero tolerance for drugs-related offences in Qatar. Some medications that are legal in other countries are illegal in Qatar. See [guidance on medications](https://www.gov.uk/foreign-travel-advice/qatar/health#bringing-medication-into-qatar) that you can bring into Qatar.
 
-Penalties for using, trafficking, smuggling and possessing drugs (even residual amounts) are severe. Punishment include lengthy prison sentences, heavy fines and deportation.
+Penalties for using, trafficking, smuggling and possessing drugs, including cannabis, (even residual amounts) are severe.
+
+You should expect a long prison sentence, deportation and heavy fines for possessing, using or smuggling illegal drugs, including when transiting through the airport.
+
+Airports in Qatar have highly effective technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
 
 ### Using cameras and binoculars
 
-Be aware of cultural sensitivities when filming or photographing people as taking pictures of people without their consent can cause offense.
+Be aware of cultural sensitivities when filming or photographing. Taking pictures and sharing any visual imagery of people without their consent can lead to imprisonment or a fine of up to 100,000 Qatari riyals.
 
 Some visitors attempting to film or photograph near religious, military, government or construction sites have been arrested. If in doubt, seek permission.
 
 ### Journalistic activity
 
-Journalists must get permission from the Qatar News Agency (QNA) to film or photograph as part of their work and enter the country on a visiting press permit. This permit allows you to take technical equipment like cameras through airport customs.
+Journalists must get permission from the Qatar News Agency (QNA) to film or photograph as part of their work and enter the country on a visiting press permit. Even with permission to film or photograph, you cannot capture or share imagery of individuals without their consent. This permit allows you to take technical equipment like cameras through airport customs.
 
 ### Social media
 
-There are strict privacy laws in Qatar. Posting messages, videos or photos that appear to insult or slander people, or are culturally insensitive, may be considered a crime. Individuals have been detained, prosecuted and convicted for posting this type of material.
+There are strict privacy laws in Qatar. See [the guidelines for using cameras and binoculars](https://www.gov.uk/foreign-travel-advice/qatar/safety-and-security#using-cameras-and-binoculars). Posting messages, videos or photos that appear to insult or slander people, or are culturally insensitive, may be considered a crime. Individuals have been detained, prosecuted and convicted for posting this type of material.
 
 ### Financial crimes
 
@@ -144,6 +152,7 @@ You may also be liable for cheques that you have signed on behalf of a company.
 Financial crimes can be punished with:
 
 * imprisonment
+* travel ban
 * fines
 * deportation
 * freezing bank accounts and other assets
@@ -158,7 +167,7 @@ See more details about [financial crimes if you are living and working in Qatar]
 
 If you are planning to drive in Qatar, see [information on driving abroad](https://www.gov.uk/driving-abroad).
 
-You’ll need to have both the [1968 version of the international driving permit (IDP)](https://www.gov.uk/driving-abroad/international-driving-permit) and your UK driving licence with you in the car. You cannot buy an IDP outside the UK, so get one before you travel.
+If you do not have a Qatari driving license, you’ll need to have both the [1968 version of the international driving permit (IDP)](https://www.gov.uk/driving-abroad/international-driving-permit) and your UK driving licence with you in the car. You cannot buy an IDP outside the UK, so get one before you travel.
 
 To drive for longer than 6 months you’ll need to [apply for a Qatari driving licence](https://hukoomi.gov.qa/en/service/apply-for-new-driving-license).
 
@@ -181,7 +190,7 @@ Check the [Metrash2 app](https://portal.moi.gov.qa/metrash2/en/index.html) befor
 
 Road discipline is very poor; speeds are high and accidents are common. A driver flashing their lights can mean they are coming through rather than giving way.
 
-If you have an accident, stay with your vehicle until the police arrive and tell you that you can leave. It’s illegal to leave the scene of the accident, but if no one has been injured and it’s safe to do so, you can move your vehicle to a safer place. You’ll need to get a police report for insurance purposes. Accident investigation processes and punishments for violations may be different to the UK.
+If you have an accident, it’s illegal to leave the scene of the accident without reporting it on the  METRASH application, but if no one has been injured and it’s safe to do so, you can move your vehicle to a safer place. You’ll need to get a police report for insurance purposes. Accident investigation processes and punishments for violations may be different to the UK.
 
 ### Desert drives
 
@@ -190,6 +199,7 @@ Excursions to the desert can be hazardous unless in a properly-equipped 4x4 vehi
 * travel in convoy with other cars
 * take a supply of water and a mobile telephone
 * leave travel plans with friends or relatives
+* check your vehicle has the correct insurance
 
 ### Sea travel
 

@@ -1,11 +1,11 @@
 {
     "name": "Pakistan",
-    "update_reason": "New information about government restricting movements in and around Islamabad, Rawalpindi and Lahore ('Warnings and insurance' page).",
+    "update_reason": "Addition of information about the Pakistan government restricting movements in and around Islamabad, Rawalpindi and Lahore ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Pakistan/Warnings and insurance.md",
-            "update_date": "2025-10-10T10:26:09+01:00"
+            "update_date": "2025-10-13T14:45:17+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Pakistan/Getting help.md"
         }
     ],
-    "update_date": "2025-10-10T10:26:09+01:00"
+    "update_date": "2025-10-13T14:45:17+01:00"
 }

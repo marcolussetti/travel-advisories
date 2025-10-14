@@ -141,6 +141,10 @@ Minor roads and even some main roads between major towns and cities can be narro
 
 You must pay road tolls on some stretches of motorways, expressways and national roads. See the [toll operator website](https://etoll.gov.pl/en/) for details.
 
+### Air Travel
+
+In September 2025, drone incursions caused the temporary closure of Poland’s airports.
+
 ## Extreme weather and natural disasters
 
 Find out what you can do to [prepare for and respond to extreme weather and natural hazards](https://www.gov.uk/guidance/extreme-weather-and-natural-hazards).

@@ -1,17 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 October 2025
+:   14 October 2025
 
 Updated:
-:   10 October 2025
+:   13 October 2025
 
 Latest update:
-:   New information on severe weather warnings and travel disruption in Murcia and Valencia (‘Warning and insurance’ page).
-
-## Severe weather and travel disruption
-
-Severe weather warnings are in place today in Murcia and Valencia, including the province of Alicante. Disruptions to travel are likely. If you are in the affected areas, follow the advice of the local authorities and monitor local weather updates. If you are planning to travel, check for messaging from your travel provider or airline.
+:   Removal of information about severe weather warnings and travel disruption in Murcia and Valencia.
 
 ## Before you travel
 

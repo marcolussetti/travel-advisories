@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   9 October 2025
+:   14 October 2025
 
 Updated:
-:   8 October 2025
+:   13 October 2025
 
 Latest update:
-:   Updated with information about a general strike on 14 October (‘Warnings and insurance’ page).
+:   Addition of a link to the Belgian Immigration Office website with information on the European Entry/Exit System (EES) ('Entry requirements' page).
 
 ## National strike action
 

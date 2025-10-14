@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   2 August 2025
+:   14 October 2025
 
 Updated:
-:   1 August 2025
+:   13 October 2025
 
 Latest update:
-:   Removal of information on tsunami alert specific to the earthquake in the Kamchatka Peninsular Region (‘Warnings and insurance’ page).
+:   Updated information about dual nationals and the conscription based military service (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/621cd8428fa8f54915f43831/FCDO__TA__059_-_Russia_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -38,11 +38,17 @@ Contact the Russian emergency services on 112.
 
 ### Dual nationals
 
-Dual British-Russian nationals are treated as Russian nationals by local authorities. The consular support FCDO can provide is severely limited. If you are arrested or detained, Russian authorities are unlikely to allow us consular access.
+If you hold both British and Russian nationality, Russian authorities will treat you as a Russian citizen. This limits the consular assistance the UK government can provide. If you are arrested or detained, Russian authorities are unlikely to allow UK consular staff to visit or assist you.
 
-In 2022, Russia declared a partial mobilisation of Russian citizens to join the military forces. Military recruitment continues. Anyone with a Russian passport could be required to join the military (conscripted).
+### Military Service
 
-In August, Russian law was amended to stop Russian nationals eligible for military conscription from leaving Russia from the day their draft notice appears on the federal electronic conscription register.
+Russia operates a conscription-based military system. Men aged 18 to 30 with Russian citizenship may be called up for two-year compulsory military service. Conscription campaigns take place twice a year.
+
+Russian law prevents eligible individuals from leaving Russia once their draft notice appears on the federal electronic draft register.
+
+If you receive a conscription notice via your account on the Russian State Services portal, you will be prohibited from leaving Russia. Failure to report to the conscription point within seven days of receiving the notice may result in penalties, restrictions on your rights, or detention.
+
+In addition to regular conscription, Russia has declared a partial mobilisation. Military recruitment is ongoing, and anyone with Russian citizenship may be drafted.
 
 ## Travel insurance
 

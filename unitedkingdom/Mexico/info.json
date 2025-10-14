@@ -1,11 +1,11 @@
 {
     "name": "Mexico",
-    "update_reason": "Update of information regarding Tropical Storm Raymond (Warnings and insurance)",
+    "update_reason": "Removal of information regarding Tropical Storm Raymond ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Mexico/Warnings and insurance.md",
-            "update_date": "2025-10-10T18:00:38+01:00"
+            "update_date": "2025-10-13T16:01:13+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Mexico/Getting help.md"
         }
     ],
-    "update_date": "2025-10-10T18:00:38+01:00"
+    "update_date": "2025-10-13T16:01:13+01:00"
 }

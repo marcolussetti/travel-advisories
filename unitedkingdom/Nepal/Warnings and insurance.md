@@ -1,29 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   4 October 2025
+:   14 October 2025
 
 Updated:
-:   3 October 2025
+:   13 October 2025
 
 Latest update:
-:   Information about the risks during Monsoon season, including flash flooding (‘Warnings and insurance’ page).
-
-## Monsoon season
-
-Travel during the monsoon season can be hazardous. Flooding (including flash flooding) and landslides cut off towns and villages for days at a time.
-
-The Nepal government [Meteorological Forecasting Division](http://www.mfd.gov.np/) provides weather updates (in English) and flood forecasts during the monsoon. You can also access the [Department of Hydrology and Meteorology flood monitoring service](https://www.dhm.gov.np/hydrology/floodMonitoring).
-
-See [Extreme weather and natural disasters](https://www.gov.uk/foreign-travel-advice/nepal/safety-and-security#extreme-weather-and-natural-disasters).
-
-## Protests
-
-Most curfews introduced in several cities following violence and protests during week of 8 September 2025 have been lifted. This allows freedom of movement. Restrictions could however be reintroduced. Avoid any large crowds or protests, check local media for updates (including any new curfews) and follow the directions of the authorities. See [‘civil disorder’ on the ‘Safety and security’ page](https://www.gov.uk/foreign-travel-advice/nepal/safety-and-security#civil-disorder).
-
-Following a period of disruption to airports, flights have resumed. Contact your airline, hotel and tour operator for up-to-date information before travelling.
-
-Read the FCDO’s advice on [if you’re affected by a crisis abroad](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas).
+:   Updated information about risks from civil disorder, and from monsoons ('Safety and security' page).
 
 ## Before you travel
 

@@ -6,7 +6,7 @@ The authorities in Qatar set and enforce entry rules. If you’re not sure how t
 
 ## Passport validity requirements
 
-If you are visiting Qatar, your passport should be valid for at least 6 months from the date you arrive.
+If you are visiting Qatar, your passport should be valid for at least 6 months from the date you arrive. You will be denied entry if you do not have a valid travel document or try to use a passport that has been reported lost or stolen.
 
 If you are a resident of Qatar, your passport must be valid when you arrive.
 
@@ -25,7 +25,7 @@ There is more information on visa requirements and extensions on the [Qatar Mini
 
 ### Transit passengers
 
-At the airport, all bags are scanned. Transit passengers found with even residual amounts of drugs may be arrested. This includes medication which may be legal in other countries, but not in Qatar. See [bringing medication into Qatar](https://www.gov.uk/foreign-travel-advice/qatar/health#bringing-medication-into-qatar)
+At the airport, all bags are scanned. Transit passengers found with even residual amounts of drugs may be arrested. This includes drugs which may be legal in other countries, but not in Qatar.
 
 Travellers cannot stay in the transit area for more than 24 hours between flights, even if you are booked into the transit hotel in the airport.
 
@@ -33,7 +33,7 @@ There is more information about transit through Qatar on the [Hamad Internationa
 
 ## Mandatory health insurance
 
-If you’re staying in Qatar for more than 30 days, you must buy health insurance from a [registered Ministry of Public Health insurance provider](https://www.moph.gov.qa/english/derpartments/policyaffairs/hfid/hirs/insurancecompanies/Pages/default.aspx) before you travel.
+If you’re staying in Qatar for more than 30 days, you must buy health insurance from a [registered Ministry of Public Health ( MOPH) insurance provider](https://www.moph.gov.qa/english/derpartments/policyaffairs/hfid/hirs/insurancecompanies/Pages/default.aspx) before you travel.
 
 For more guidance see the [MOPH website.](https://www.moph.gov.qa/english/derpartments/policyaffairs/hfid/Pages/Health-Insurance-Scheme.aspx)
 
@@ -52,7 +52,7 @@ For full details about medical entry requirements and recommended vaccinations, 
 
 There are strict rules about what goods you can take into and out of Qatar. You must declare anything that may be prohibited or subject to tax or duty.
 
-Importing drugs, alcohol, pornography, pork products and religious books and material into Qatar is illegal. All luggage is scanned as you enter the country. Customs officials may examine, censor and confiscate any offensive materials or items, including images and recorded video materials.
+It is illegal to import and sell vapes and electronic cigarette products. This includes the sale and purchase of related liquids and other similar products, including electronic shisha pipes. The law applies regardless of quantity and intended use. Customs officials may confiscate any such items from your luggage or from packages sent by post.
 
 Qatar also prohibits the importation, sale and purchase of electronic cigarettes, liquids and other similar products, including electronic shisha pipes. The law applies regardless of quantity and intended use. Customs officials may seize and confiscate any such items from your luggage or from packages sent by post.
 

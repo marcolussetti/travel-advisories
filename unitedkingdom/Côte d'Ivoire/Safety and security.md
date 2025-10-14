@@ -19,19 +19,21 @@ Attacks could be indiscriminate, including in places visited by foreign national
 * cafés and restaurants
 * major sporting events
 
-The main threat in Côte d’Ivoire is from Al-Qaida in the Islamic Maghreb (AQIM) and its associated groups. These groups are mainly active in the northern border areas, including the Comoé National Park in the north-east, but attacks could occur anywhere, including major towns and cities such as Abidjan.
+The main threat in Côte d’Ivoire is from Jama’at Nusrat al-Islam wal-Muslimin (JNIM) and other al-Qa’ida (AQ) affiliated groups, including al-Qa’ida in the Islamic Maghreb (AQIM). JNIM is mainly active in the northern border areas, including the Comoé National Park in the north-east, but attacks could occur anywhere, including major towns and cities such as Abidjan.
 
 Stay aware of your surroundings, keep up to date with local media reports and follow the advice of the local authorities.
 
 ## Political situation
 
-Political demonstrations and other protests can occur. There were outbreaks of violence during the presidential elections in 2020, which caused civilian deaths. The next presidential elections are scheduled for October 2025. Crowds can gather quickly, and roadblocks are common. You should:
+Presidential elections will take place on 25 October. Depending on the outcome, there may be a second round on 29 November. Political demonstrations have taken place in Abidjan and regional towns, including Gagnoa. It is likely there will be more during this period. The authorities may use tear gas to disrupt unauthorised protests. Crowds can gather quickly, and roadblocks are common.
+
+You should:
 
 * avoid crowds and demonstrations
 * follow local instructions and any additional security checks or measures
 * monitor local media
 
-You should be alert near military barracks and military installations.
+Be alert near military barracks and military installations.
 
 ## Personal security measures
 

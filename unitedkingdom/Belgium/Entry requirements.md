@@ -67,7 +67,7 @@ Until EES is fully rolled out your passport will continue to be stamped, even if
 
 If you enter the Schengen area through the Port of Dover, Eurotunnel at Folkestone or Eurostar at St Pancras International and you are asked to register for EES, the information will be taken at the border before you leave the UK.
 
-Read more [information on the EU Entry/Exit System and to understand which countries are in the Schengen area](https://www.gov.uk/guidance/eu-entryexit-system).
+Read more [information on the EU Entry/Exit System and to understand which countries are in the Schengen area](https://www.gov.uk/guidance/eu-entryexit-system) and consult the [Belgian Immigration Office Website on EES](https://dofi.ibz.be/en/themes/entry/border-control/entry-exit-system-ees/faq).
 
 ## Additional Border Controls in Belgium
 

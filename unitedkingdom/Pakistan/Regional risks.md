@@ -19,6 +19,7 @@ FCDO advises against all travel to these districts in Khyber Pakhtunkhwa Provinc
 * Kohat
 * Kurram
 * Lakki Marwat
+* Upper Dir
 * Lower Dir
 * Mohmand
 * Orakzai

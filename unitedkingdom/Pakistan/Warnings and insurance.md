@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 October 2025
+:   14 October 2025
 
 Updated:
-:   10 October 2025
+:   13 October 2025
 
 Latest update:
-:   New information about government restricting movements in and around Islamabad, Rawalpindi and Lahore ('Warnings and insurance' page).
+:   Addition of information about the Pakistan government restricting movements in and around Islamabad, Rawalpindi and Lahore ('Warnings and insurance' page).
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -63,9 +63,11 @@ FCDO advises against all but essential travel to all areas of Sindh Province nor
 
 Find out more about [why FCDO advises against travel to these regions](/foreign-travel-advice/pakistan/regional-risks).
 
-## Government restrictions on movement
+## Protests and government restrictions on movement
 
-Protests have resulted in the government restricting movements in and around Islamabad, Rawalpindi and Lahore. Travel in and around these areas may be disrupted. Mobile data coverage has been suspended in some areas. British nationals are advised to stay away from all political demonstrations and large gatherings and follow the advice of local authorities.
+There have been reports of violent clashes between law enforcement and protestors in central Punjab, particularly in Lahore and Muridke. Stay away from political demonstrations and large gatherings.
+
+Protests have resulted in the government restricting movements in and around Islamabad, Rawalpindi and Lahore. Travel in and around these areas may be disrupted and accessibility of routes could change without notice. Be prepared to change your plans as necessary and follow the advice of local authorities.
 
 ## Before you travel
 

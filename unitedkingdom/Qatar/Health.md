@@ -39,11 +39,11 @@ Some prescribed and over-the-counter medicines may be controlled substances in Q
 
 The letter should be signed by the doctor or consultant and stamped by the hospital or surgery.
 
-For more information, visit the [Ministry of Public Health website for their guidance documents](https://www.moph.gov.qa/english/Pages/default.aspx).
+For more information, [see](https://www.moph.gov.qa/_layouts/download.aspx?SourceUrl=/Admin/Lists/PublicationsAttachments/Attachments/201/Guideline-of-Controlled-Drugs-for-Travellers%20-%20English.pdf) the Ministry of Public Health ([MOPH) guide.](https://www.moph.gov.qa/_layouts/download.aspx?SourceUrl=/Admin/Lists/PublicationsAttachments/Attachments/201/Guideline-of-Controlled-Drugs-for-Travellers%20-%20English.pdf)
 
 ## Healthcare in Qatar
 
-Emergency medical treatment is excellent but can be expensive. Routine treatment is available but expensive for visitors. Make sure you have adequate travel health insurance and accessible funds to cover the cost of any medical treatment abroad and repatriation to the UK or the country where you live. Read more about [what your travel insurance should cover](https://www.gov.uk/guidance/foreign-travel-insurance).
+Healthcare facilities in Qatar are similar to those in the UK. Visitors will be required to pay for medical treatment. Make sure you have adequate travel health insurance and accessible funds to cover the cost of any medical treatment abroad and repatriation to the UK or the country where you live. Read more about [what your travel insurance should cover](https://www.gov.uk/guidance/foreign-travel-insurance).
 
 FCDO has a [list of medical providers in Qatar](https://www.gov.uk/government/publications/qatar-doctors) where some staff will speak English.
 

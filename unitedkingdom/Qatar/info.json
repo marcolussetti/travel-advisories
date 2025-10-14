@@ -1,11 +1,11 @@
 {
     "name": "Qatar",
-    "update_reason": "Update following explosions in Doha on 9 September ('Warnings and insurance' page).",
+    "update_reason": "This travel advice has been reviewed for accuracy with edits made throughout, including updated information about religion, dress code, Ramadan, illegal drugs and prison sentences, using cameras and binoculars, journalistic activity, financial crimes, road safety and desert drives (\u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Qatar/Warnings and insurance.md",
-            "update_date": "2025-09-09T20:37:12+01:00"
+            "update_date": "2025-10-13T11:52:54+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Qatar/Getting help.md"
         }
     ],
-    "update_date": "2025-09-09T20:37:12+01:00"
+    "update_date": "2025-10-13T11:52:54+01:00"
 }

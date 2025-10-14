@@ -1,11 +1,11 @@
 {
     "name": "C\u00f4te d'Ivoire",
-    "update_reason": "New information about the political situation in C\u00f4te d'Ivoire (\u2018Safety and security\u2019 page).",
+    "update_reason": "New information on the political situation ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/C\u00f4te d'Ivoire/Warnings and insurance.md",
-            "update_date": "2025-03-24T12:10:41+00:00"
+            "update_date": "2025-10-13T15:50:07+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/C\u00f4te d'Ivoire/Getting help.md"
         }
     ],
-    "update_date": "2025-03-24T12:10:41+00:00"
+    "update_date": "2025-10-13T15:50:07+01:00"
 }

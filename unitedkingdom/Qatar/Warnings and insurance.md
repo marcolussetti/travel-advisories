@@ -1,21 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   10 September 2025
+:   14 October 2025
 
 Updated:
-:   9 September 2025
+:   13 October 2025
 
 Latest update:
-:   Update following explosions in Doha on 9 September ('Warnings and insurance' page).
-
-## Explosions in Doha
-
-On 9 September, explosions occurred in the Lusail area in Doha. The FCDO is in contact with the local authorities. Follow the advice of the local authorities.
+:   This travel advice has been reviewed for accuracy with edits made throughout, including updated information about religion, dress code, Ramadan, illegal drugs and prison sentences, using cameras and binoculars, journalistic activity, financial crimes, road safety and desert drives (‘Safety and security’ page).
 
 ## Regional risks
 
-Following hostilities in the region, a ceasefire between Israel and Iran began on 24 June.
+Tensions remain high across the wider region.
 
 You should:
 

@@ -14,7 +14,11 @@ Attacks could be indiscriminate, including in places visited by foreign national
 
 ## Civil disorder
 
-Political protests, demonstrations and strikes are fairly common in Nepal. A number of groups have stated their intent to organise protests or political rallies in Kathmandu and elsewhere across the country. They can start at short notice and may lead to clashes between protesters and law enforcement. Protests cause disruption to transport and the authorities may increase the police presence. You should:
+Political protests, demonstrations and strikes are fairly common in Nepal. Following protests and other violence in September 2025 an interim government was appointed, with elections planned for March 2026.
+
+During this political transition, and particularly in the lead up to elections, further protests are possible. They can start at short notice and may lead to violent clashes between protesters and law enforcement. Protests cause disruption to transport and the authorities may increase the police presence or impose a curfew.
+
+You should:
 
 * avoid any demonstrations
 * check local media for updates
@@ -22,7 +26,7 @@ Political protests, demonstrations and strikes are fairly common in Nepal. A num
 
 ## Crime
 
-There’s a low rate of serious crime in Nepal, but take precautions.
+There’s a low rate of serious crime in Nepal but take precautions.
 
 ### Protecting yourself and your belongings
 
@@ -140,10 +144,6 @@ Bus accidents are common in Nepal and there are a number of accidents resulting 
 
 ### Air travel
 
-Engineering and improvement works at Nepal’s main international airport in Kathmandu may impact airport operations and cause disruption or delays to flights (domestic and international).
-
-Check with your tour operator or airline before travelling.
-
 Air crashes can have a variety of causes and are not necessarily linked with poor safety standards or non-compliance with international safety standards. However, there have been a number of fatal accidents and air crashes across Nepal in the commercial air transport sector, involving planes and helicopters. Over the last 5 years, this includes a number of separate incidents and at least 100 deaths.
 
 The [UK Air Safety List (ASL)](https://www.gov.uk/guidance/uk-air-safety-list) lists all known airlines in Nepal that do not meet international safety standards and are banned from operating commercial air services to or from the UK. Check the UK Air Safety List when considering whether to fly and which airlines to fly with. The list is maintained by the Department for Transport, based on advice from the [UK Civil Aviation Authority](https://www.caa.co.uk/Commercial-Industry/Airlines/Licensing/Requirements-and-guidance/Third-Country-Operator-Certificates).
@@ -156,14 +156,13 @@ Find out what you can do to [prepare for and respond to extreme weather and natu
 
 ### Monsoon
 
-Travel during the monsoon season (normally June to September) can be hazardous. Flooding and landslides cut off towns and villages for days at a time. If you travel by road during monsoon season you should:
+Travel during the monsoon season (normally June to October) can be hazardous. Flooding and landslides can lead to impassable roads, delays to journeys, or cut off towns and villages for days at a time. If you travel by road during monsoon season you should:
 
 * check the road is open
 * be prepared to change or cancel your plans at short notice
-* make sure any vehicle you travel in is equipped with a winch and ropes in case of landslides
-* take enough supplies to cover any possible delays
+* take equipment, medication and enough supplies to cover any emergencies or possible delays
 
-Recent flooding and landslides across much of the country caused disruption to domestic transport by road and air. This may take some time to resolve. Check transport plans with your tour operator and expect delays. Follow advice from local authorities.
+Recent flooding and landslides across much of the country caused disruption, particularly to the road network. This may take some time to resolve. Delays are possible, check transport plans with your tour operator. Follow advice from local authorities.
 
 The Nepal government [Meteorological Forecasting Division](http://www.mfd.gov.np/) provides weather updates (in English) and flood forecasts during the monsoon. You can also access the [Department of Hydrology and Meteorology flood monitoring service](https://www.dhm.gov.np/hydrology/floodMonitoring).
 
