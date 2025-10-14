@@ -4,6 +4,12 @@
 
 High Degree of Caution
 
+### **Travel alert**
+
+### **Methanol poisoning**
+
+There have been recent cases of death and severe illness in Brazil from alcoholic drinks laced with methanol. Be vigilant when buying spirit-based drinks, particularly whiskey, gin, or vodka. If you feel ill within 12 – 24 hours of consuming an alcoholic drink, seek medical assistance.
+
 ### **General Travel Advice**
 
 Irish citizens do not require a visa to visit Brazil as a tourist for periods of up to 90 days. Passports should be valid for a minimum period of 6 months from the date of entry into Brazil. More information can be found in the Entry Requirements tab. If you are a single parent/guardian travelling with a minor, please consult the Entry Requirements tab for important information.

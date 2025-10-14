@@ -6,7 +6,7 @@ High Degree of Caution
 
 ### Travel Alert
 
-On December 30, 2024, authorities in Trinidad and Tobago declared a nationwide state of emergency in response to the increase in gang-related violence. While the state of emergency is in effect, there is likely to be an increased police and military presence. If you are in Trinidad and Tobago you should exercise a high degree of caution, follow the instructions of local authorities and monitor local media for updates.
+There is currently a State of Emergency in Trinidad and Tobago, in place since 18 July 2025. While the state of emergency is in effect, there is likely to be an increased police and military presence. If you are in Trinidad and Tobago you should exercise a high degree of caution, follow the instructions of local authorities and monitor local media for updates.
 
 ### **General Travel Advice**
 

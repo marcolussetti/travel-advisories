@@ -6,11 +6,9 @@ High Degree of Caution
 
 ### **Travel Alert**
 
-On 8 September, violent clashes and protests, leading to massive damage of property and a loss of life, broke out in Kathmandu and across Nepal. This followed restrictions placed by the Government on social media and messaging platforms. These restrictions have now been lifted, but there may still be some disruptions to communication services and isolated incidents of violence. Curfews have now been lifted, but could be reintroduced.
+Following violent clashes and protests on 8 September, restrictions and curfews have been lifted.
 
-Kathmandu airport reopened on September 10th. Passengers should contact their airline or tour operator for up to date information.
-
-Whereas calm has been restored to much of the country following the appointment of an interim prime minister, the situation remains volatile with the potential for further protests. Irish citizens are advised to avoid public demonstrations, exercise caution in public places, stay alert, monitor local news reports and follow the advice of local authorities.
+While calm has been restored to much of the country following the appointment of an interim prime minister, the situation remains volatile with the potential for further protests. Irish citizens are advised to avoid public demonstrations, exercise caution in public places, stay alert, monitor local news reports and follow the advice of local authorities.
 
 ### **General Travel Advice**
 
