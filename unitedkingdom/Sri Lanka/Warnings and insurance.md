@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   7 June 2025
+:   15 October 2025
 
 Updated:
-:   6 June 2025
+:   14 October 2025
 
 Latest update:
-:   Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport ('Safety and security' page).
+:   New information on overstaying your visa and information that visitors must have an Electronic Travel Authorization (ETA) before travelling to Sri Lanka ('Entry requirements’ page).
 
 ## Before you travel
 

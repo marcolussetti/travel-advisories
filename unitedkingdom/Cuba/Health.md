@@ -26,6 +26,7 @@ See [what health risks you’ll face in Cuba,](https://travelhealthpro.org.uk/
 * Zika virus
 * malaria
 * Oropouche virus disease
+* chikungunya
 
 To control the spread of mosquito-borne diseases, the Cuban authorities may carry out chemical fumigation measures across the island. The chemicals used may cause some discomfort if you come into contact with them.
 

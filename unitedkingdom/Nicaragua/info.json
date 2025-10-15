@@ -1,11 +1,11 @@
 {
     "name": "Nicaragua",
-    "update_reason": "Updated information on travel within the C4 region relevant to Honduras and updated information on flying drones (\u2018Entry requirements\u2019 and \u2018Safety and security\u2019 pages).",
+    "update_reason": "Updated information about travelling between Nicaragua, El Salvador, Honduras and Guatemala (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Nicaragua/Warnings and insurance.md",
-            "update_date": "2025-01-09T15:56:50+00:00"
+            "update_date": "2025-10-14T11:43:11+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Nicaragua/Getting help.md"
         }
     ],
-    "update_date": "2025-01-09T15:56:50+00:00"
+    "update_date": "2025-10-14T11:43:11+01:00"
 }

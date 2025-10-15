@@ -36,9 +36,13 @@ You can apply at an immigration office to extend your stay.
 
 If you’re travelling through Honduras to another country (sometimes called ‘transiting’), you must follow Honduran entry requirements even if you do not pass through immigration. Contact the [National Institute of Migration](http://inm.gob.hn/) (Spanish language website) for information.
 
-## Travelling to El Salvador, Guatemala and Nicaragua
+## Travelling between Honduras, El Salvador, Guatemala and Nicaragua
 
-Visitors can travel between El Salvador, Guatemala, Honduras and Nicaragua for up to 90 days, under the Central America Border Control Agreement (also known as CA-4). However, from 15 August British nationals are required to have a visa. Check with the [Honduran Embassy](https://hondurasembassyuk.com/visa/) in London for information on how this CA-4 agreement would be applied to you.
+You can travel between Guatemala, Nicaragua and El Salvador for up to 90 days without a visa. The CA-4 Agreement also includes Honduras, however British Nationals must have a visa to visit Honduras. If you’re entering Honduras, [read the entry requirements](https://www.gov.uk/foreign-travel-advice/honduras/entry-requirements). Read the travel advice for:
+
+* [El Salvador](https://www.gov.uk/foreign-travel-advice/el-salvador/entry-requirements)
+* [Guatemala](https://www.gov.uk/foreign-travel-advice/guatemala)
+* [Nicaragua](https://www.gov.uk/foreign-travel-advice/nicaragua/entry-requirements)
 
 The 90-day period starts when you enter any of these countries and does not restart when you cross borders. You’ll have to go through immigration checks at borders. If you’re expelled from one of these countries, you’re also excluded from the other 3.
 

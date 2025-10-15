@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   14 October 2025
+:   15 October 2025
 
 Updated:
-:   13 October 2025
+:   15 October 2025
 
 Latest update:
-:   Removal of information about demonstrations and travel disruption near Machu Picchu.
+:   A transport strike is scheduled and large protests are expected in Lima and other parts of Peru on Wednesday 15 October. There may be significant disruption to travel. You should avoid large gatherings and follow local media for the latest updates (See ‘Political situation’ on the ‘Safety and Security’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/6645e81e993111924d9d365a/FCDO__TA__093_-_Peru_Travel_Advice_Ed3__WEB_.jpg)
 

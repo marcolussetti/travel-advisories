@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   27 September 2025
+:   15 October 2025
 
 Updated:
-:   26 September 2025
+:   14 October 2025
 
 Latest update:
-:   Updated information about typhoons ('Warnings and insurance' page).
+:   Addition of information about the new online arrival card system for entering Taiwan (‘Entry requirements’ page).
 
 The UK does not recognise Taiwan as a state and has no diplomatic relations with Taiwan, so limited support is available to British nationals. Please refer to the [British Office in Taipei](https://www.gov.uk/world/organisations/british-office-taipei) for further information.
 

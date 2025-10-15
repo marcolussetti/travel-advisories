@@ -1,11 +1,11 @@
 {
     "name": "Sri Lanka",
-    "update_reason": "Updated information on the risks of being involved with illegal drugs, including cannabis. This includes risk of arrest if you are found carrying drugs when transiting through the airport ('Safety and security' page).",
+    "update_reason": "New information on overstaying your visa and information that visitors must have an Electronic Travel Authorization (ETA) before travelling to Sri Lanka ('Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Sri Lanka/Warnings and insurance.md",
-            "update_date": "2025-06-06T11:50:07+01:00"
+            "update_date": "2025-10-14T11:32:29+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Sri Lanka/Getting help.md"
         }
     ],
-    "update_date": "2025-06-06T11:50:07+01:00"
+    "update_date": "2025-10-14T11:32:29+01:00"
 }

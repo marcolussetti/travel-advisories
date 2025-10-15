@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   21 May 2025
+:   15 October 2025
 
 Updated:
-:   20 May 2025
+:   14 October 2025
 
 Latest update:
-:   Removal of information on US embassy advisory issued regarding potential mass shooting events in Tegucigalpa ('Warnings and insurance' page).
+:   Updated information about travelling between Honduras, Nicaragua, El Salvador and Guatemala (‘Entry requirements’ page).
 
 ## Before you travel
 

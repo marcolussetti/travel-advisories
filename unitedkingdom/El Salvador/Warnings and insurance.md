@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   28 June 2025
+:   15 October 2025
 
 Updated:
-:   27 June 2025
+:   14 October 2025
 
 Latest update:
-:   Updated information on crime (‘Safety and security’ page).
+:   Updated information about travelling between El Salvador, Nicaragua, Honduras and Guatemala (‘Entry requirements’ page).
 
 ## Before you travel
 

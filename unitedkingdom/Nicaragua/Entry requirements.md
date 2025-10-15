@@ -18,9 +18,12 @@ You can visit Nicaragua for up to 90 days without a visa. You may be refused ent
 
 Check with your travel company or nearest Nicaraguan embassy what the policy is for entry at the Nicaraguan border.
 
-## Travelling to El Salvador, Guatemala and Honduras
+### Travelling between Nicaragua, El Salvador, Guatemala and Honduras
 
-Visitors can travel between El Salvador, Guatemala, Honduras and Nicaragua for up to 90 days, under the Central America Border Control Agreement (also known as CA-4). However, from 15 August British nationals entering Honduras are required to have a visa. Check with the [Honduran Embassy](https://hondurasembassyuk.com/visa/) in London for information on how this CA-4 agreement would be applied to you.
+You can travel between Nicaragua, Guatemala, and El Salvador for up to 90 days without a visa. The CA-4 Agreement also includes Honduras, however British Nationals must have a visa to visit Honduras. If you’re entering Honduras, [read the entry requirements](https://www.gov.uk/foreign-travel-advice/honduras/entry-requirements). Read the travel advice for:
+
+* [Guatemala](https://www.gov.uk/foreign-travel-advice/guatemala/entry-requirements)
+* [El Salvador](https://www.gov.uk/foreign-travel-advice/el-salvador/entry-requirements)
 
 The 90-day period starts when you enter any of these countries and does not restart when you cross borders. You’ll have to go through immigration checks at borders. If you’re expelled from one of these countries, you’re also excluded from the other 3.
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   15 October 2025
 
 Updated:
-:   9 January 2025
+:   14 October 2025
 
 Latest update:
-:   Updated information on travel within the C4 region relevant to Honduras and updated information on flying drones (‘Entry requirements’ and ‘Safety and security’ pages).
+:   Updated information about travelling between Nicaragua, El Salvador, Honduras and Guatemala (‘Entry requirements’ page).
 
 ## UK government support
 

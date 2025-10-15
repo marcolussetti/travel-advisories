@@ -1,21 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   12 September 2025
+:   15 October 2025
 
 Updated:
-:   11 September 2025
+:   14 October 2025
 
 Latest update:
-:   Updated information about power outages in Cuba ('Warnings and insurance' page).
+:   Updated information about power outages in Cuba and new information about chikungunya being a health risk in Cuba (See ‘Warnings and Insurance’ and 'Health' pages).
 
-## Nationwide power outage
+## Power outage
 
-Cuba is experiencing a nationwide electrical grid shutdown following the failure of a major power plant on 10 September. The authorities are working to restore the grid but this is likely to be a gradual process.
-
-There continues to be lengthy electricity outages across the country. Emergency services are expected to continue operating but there are likely to be internet and mobile outages.
-
-You should take precautions such as conserving fuel, water, food and mobile phone charge, particularly if travelling outside Havana. Transport may be affected due to fuel shortages and the inability to refuel during power outages. Ensure you have enough fuel before setting off on your journey.
+Lengthy power outages are a daily occurrence across Cuba. Take precautions such as conserving fuel, water, food and mobile phone charge, particularly if travelling outside Havana. Transport may be affected due to fuel shortages and the inability to refuel during power outages. Ensure you have enough fuel before setting off on your journey.
 
 ## Before you travel
 

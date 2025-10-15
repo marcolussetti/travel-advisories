@@ -12,6 +12,14 @@ Check with your travel provider that your passport and other travel documents me
 
 You will be denied entry if you do not have a valid travel document or try to use a passport that has been reported lost or stolen.
 
+## Arrival cards
+
+You must complete a Taiwan Arrival Card (TWAC) within three days before your arrival in Taiwan. This must be submitted online via the [Ministry of the Interior National Immigration Agency](https://www.immigration.gov.tw/5475/) website.
+
+You may be exempt if you hold a resident visa, Alien Resident Card (ARC), Alien Permanent Resident Card (APRC), or other permits issued by the Taiwanese authorities.
+
+For further advice and instructions on how to complete and submit the TWAC, check the [National Immigration Agency](https://twac.immigration.gov.tw/faq).
+
 ## Visa requirements
 
 You can visit Taiwan without a visa for up to 90 days. You can extend this by a further 90 days once you have arrived in Taiwan. You can get more information on [entering Taiwan without a visa (‘visa-exempt entry’)](https://www.boca.gov.tw/cp-149-4486-7785a-2.html) from the Taiwan Bureau of Consular Affairs. This applies if you travel:

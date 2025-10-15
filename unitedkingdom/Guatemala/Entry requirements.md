@@ -40,9 +40,14 @@ You must pay airport departure tax of 30 US dollars (or the same amount in Guate
 
 To enter or exit Guatemala, children aged 17 and under travelling alone or with only one parent or legal guardian must have a notarised letter in Spanish from the parents or guardians not travelling with them. Contact the [Guatemalan Embassy](https://www.gov.uk/government/publications/foreign-embassies-in-the-uk), or if you’re in Guatemala the nearest [Institute of Migration](https://igm.gob.gt/) (Spanish language website), for information about what documents you need. Single parents will need additional documents.
 
-## Travelling to El Salvador and Nicaragua
+### Travelling between Guatemala, El Salvador, Honduras and Nicaragua
 
-You can travel between Guatemala, [El Salvador](https://www.gov.uk/foreign-travel-advice/el-salvador) and [Nicaragua](https://www.gov.uk/foreign-travel-advice/nicaragua) for up to 90 days without a visa. The 90-day period starts when you enter any of these countries and does not restart when you cross borders. You can extend your stay by up to 30 days by paying a fee before the 90 days expires. If you overstay, you may get a fine.
+You can travel between Guatemala, Nicaragua and El Salvador for up to 90 days without a visa. The CA-4 Agreement also includes Honduras, however British Nationals must have a visa to visit Honduras. If you’re entering Honduras, [read the entry requirements](https://www.gov.uk/foreign-travel-advice/honduras/entry-requirements). Read the travel advice for:
+
+* [El Salvador](https://www.gov.uk/foreign-travel-advice/el-salvador/entry-requirements)
+* [Nicaragua](https://www.gov.uk/foreign-travel-advice/nicaragua/entry-requirements)
+
+The 90-day period starts when you enter any of these countries and does not restart when you cross borders. You can extend your stay by up to 30 days by paying a fee before the 90 days expires. If you overstay, you may get a fine.
 
 You’ll have to go through immigration checks at borders. If you’re expelled from one of these countries, you’re also excluded from the other 2.
 

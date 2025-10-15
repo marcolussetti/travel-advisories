@@ -1,11 +1,11 @@
 {
     "name": "El Salvador",
-    "update_reason": "Updated information on crime (\u2018Safety and security\u2019 page).",
+    "update_reason": "Updated information about travelling between El Salvador, Nicaragua, Honduras and Guatemala (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/El Salvador/Warnings and insurance.md",
-            "update_date": "2025-06-27T16:43:58+01:00"
+            "update_date": "2025-10-14T11:43:08+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/El Salvador/Getting help.md"
         }
     ],
-    "update_date": "2025-06-27T16:43:58+01:00"
+    "update_date": "2025-10-14T11:43:08+01:00"
 }

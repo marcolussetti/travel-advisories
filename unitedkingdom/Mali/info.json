@@ -1,11 +1,11 @@
 {
     "name": "Mali",
-    "update_reason": "FCDO now advises against all but essential travel to the area within 15km of the Tower of Africa located in Bamako and against all travel to the rest of Mali. New information on terrorist attacks, and  a reminder of the threat of terrorist attack around public holidays and days of national significance in Mali ('Warnings and insurance' and 'Safety and security' pages).",
+    "update_reason": "New information on fuel shortages in Mali (See \u2018Fuel shortages\u2019 on the \u2018Safety and security page\u2019).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Mali/Warnings and insurance.md",
-            "update_date": "2025-09-12T13:19:00+01:00"
+            "update_date": "2025-10-14T10:49:38+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Mali/Getting help.md"
         }
     ],
-    "update_date": "2025-09-12T13:19:00+01:00"
+    "update_date": "2025-10-14T10:49:38+01:00"
 }

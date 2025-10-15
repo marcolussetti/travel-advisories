@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   14 October 2025
+:   15 October 2025
 
 Updated:
-:   13 October 2025
+:   14 October 2025
 
 Latest update:
-:   Addition of information about the Pakistan government restricting movements in and around Islamabad, Rawalpindi and Lahore ('Warnings and insurance' page).
+:   New information about how to stay safe in a crisis ('Warnings and insurance' page).
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -63,12 +63,6 @@ FCDO advises against all but essential travel to all areas of Sindh Province nor
 
 Find out more about [why FCDO advises against travel to these regions](/foreign-travel-advice/pakistan/regional-risks).
 
-## Protests and government restrictions on movement
-
-There have been reports of violent clashes between law enforcement and protestors in central Punjab, particularly in Lahore and Muridke. Stay away from political demonstrations and large gatherings.
-
-Protests have resulted in the government restricting movements in and around Islamabad, Rawalpindi and Lahore. Travel in and around these areas may be disrupted and accessibility of routes could change without notice. Be prepared to change your plans as necessary and follow the advice of local authorities.
-
 ## Before you travel
 
 No travel can be guaranteed safe. Read all the advice in this guide. You may also find it helpful to:
@@ -83,6 +77,18 @@ No travel can be guaranteed safe. Read all the advice in this guide. You may als
 ### Travel insurance
 
 If you choose to travel, research your destinations and [get appropriate travel insurance](https://www.gov.uk/guidance/foreign-travel-insurance). Insurance should cover your itinerary, planned activities and expenses in an emergency.
+
+## Support during a crisis
+
+If a severe crisis develops in Pakistan, the situation can change quickly including your ability to travel. Regional tensions during May 2025 resulted in sustained airspace closures which caused airlines to suspend flights, domestic travel was also restricted. Practical support from the British government, including face-to-face consular support or evacuation, may be severely limited in a crisis. Read our [general guidance on consular support in a crisis.](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas)
+
+Be prepared to re-arrange your own departure from Pakistan at short notice. If it is not safe or possible to leave, you should:
+
+* stay indoors whenever possible, and have a stock of essential supplies such as food, drinking water and medicine
+* obey any local restrictions such as curfews
+* monitor the media for developments that would allow you to leave safely
+* [subscribe to our Travel Advice](https://www.gov.uk/foreign-travel-advice/pakistan/email-signup)
+* follow the [British High Commission social media accounts](https://x.com/ukinpakistan) for the latest information
 
 ## About FCDO travel advice
 

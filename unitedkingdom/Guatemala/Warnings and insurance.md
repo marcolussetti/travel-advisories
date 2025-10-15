@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   24 June 2025
+:   15 October 2025
 
 Updated:
-:   23 June 2025
+:   14 October 2025
 
 Latest update:
-:   Removal of information about a weather warning of heavy rainfall on Guatemala’s Pacific coast due to Tropical Storm Erick ('Warnings and insurance' page).
+:   Updated information about travelling between Guatemala, El Salvador, Nicaragua and Honduras (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/65fac0c89316f5001d64c3c0/FCDO__TA__095_-_Guatemala_Travel_Advice_Ed1__WEB_.jpg)
 

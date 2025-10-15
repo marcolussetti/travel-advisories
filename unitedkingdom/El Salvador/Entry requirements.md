@@ -26,9 +26,12 @@ If you overstay your visa, you may have to pay a fine before leaving the country
 
 If you need a visa, contact the [Salvadoran Embassy in the UK](https://www.gov.uk/government/publications/foreign-embassies-in-the-uk).
 
-### Travelling to Guatemala, Honduras and Nicaragua
+### Travelling between El Salvador, Guatemala, Honduras and Nicaragua
 
-Under the Central America Border Control Agreement (also known as CA-4), you can travel between El Salvador, Guatemala, Honduras and Nicaragua for up to 90 days without a visa.
+You can travel between El Salvador, Guatemala, and Nicaragua for up to 90 days without a visa. The CA-4 Agreement also includes Honduras, however British Nationals must have a visa to visit Honduras. If you’re entering Honduras, [read the entry requirements](https://www.gov.uk/foreign-travel-advice/honduras/entry-requirements). Read the travel advice for:
+
+* [Guatemala](https://www.gov.uk/foreign-travel-advice/guatemala/entry-requirements)
+* [Nicaragua](https://www.gov.uk/foreign-travel-advice/nicaragua/entry-requirements)
 
 The 90-day period starts when you enter any of these countries and does not restart when you cross borders. You’ll have to go through immigration checks at borders.
 

@@ -172,6 +172,10 @@ Take all necessary safety precautions, especially outside of main urban areas, h
 
 If you have an accident, go to the nearest police station to report it. If you stay at the scene of the accident, you may be vulnerable. Medical help after an accident is likely to be limited, especially outside of Bamako.
 
+### Fuel shortages
+
+There is currently a fuel shortage in Mali. Where fuel is available, there can often be long lines and in many parts of the country the price of fuel has increased. Plan ahead to make sure you can reach your destination.
+
 ### Air travel
 
 Inbound and outbound flights, including international flights, can be cancelled at short notice or diverted to an alternative location. Monitor messages from your carrier, and be prepared to make arrangements to stay overnight in a safe location.

@@ -1,11 +1,11 @@
 {
     "name": "Peru",
-    "update_reason": "Removal of information about demonstrations and travel disruption near Machu Picchu.",
+    "update_reason": "A transport strike is scheduled and large protests are expected in Lima and other parts of Peru on Wednesday 15 October. There may be significant disruption to travel. You should avoid large gatherings and follow local media for the latest updates (See \u2018Political situation\u2019 on the \u2018Safety and Security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Peru/Warnings and insurance.md",
-            "update_date": "2025-10-13T11:03:27+01:00"
+            "update_date": "2025-10-15T02:06:43+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Peru/Getting help.md"
         }
     ],
-    "update_date": "2025-10-13T11:03:27+01:00"
+    "update_date": "2025-10-15T02:06:43+01:00"
 }

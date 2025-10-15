@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   13 October 2025
+:   15 October 2025
 
 Updated:
-:   12 October 2025
+:   14 October 2025
 
 Latest update:
-:   Updated information on the protests taking place in Madagascar. (‘Warnings and insurance’ page)
+:   Updated information about the political and security situation following an announcement by a group within the military that it has taken control of the country  ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/68d70494ef1c2f72bc1e4b27/FCDO__TA__102_-_Madagascar_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -18,11 +18,11 @@ Your travel insurance could be invalidated if you travel against advice from the
 
 ## FCDO advises against all but essential travel to Madagascar
 
-## Protests in Antananarivo
+## Political and security situation in Madagascar
 
-Protests are taking place throughout Madagascar. Antananarivo has seen significant incidents of violence, including looting, which has spread to other towns and cities. Roads to Antananarivo airport have sometimes been blocked by protests and some internal and international flights have been cancelled.
+Protests have taken place throughout Madagascar in recent weeks. Antananarivo has seen significant incidents of violence, including looting, which has spread to other towns and cities. Roads to Antananarivo airport have sometimes been blocked by protests and some internal and international flights have been cancelled.
 
-The situation remains very fluid; we expect curfews to remain in place in Antananarivo and in other cities.  If you are currently in Madagascar, follow local advice and avoid all large gatherings and political demonstrations. Check for messaging from your airline or tour operator before travelling to an airport.
+A group within the military announced on 14 October that it has taken control. The situation remains fluid and curfews remain in place in Antananarivo and in other cities.  If you are currently in Madagascar, follow local advice and avoid all large gatherings and political demonstrations. Check for messaging from your airline or tour operator before travelling to an airport.
 
 ## Before you travel
 

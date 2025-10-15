@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   13 September 2025
+:   15 October 2025
 
 Updated:
-:   12 September 2025
+:   14 October 2025
 
 Latest update:
-:   FCDO now advises against all but essential travel to the area within 15km of the Tower of Africa located in Bamako and against all travel to the rest of Mali. New information on terrorist attacks, and a reminder of the threat of terrorist attack around public holidays and days of national significance in Mali ('Warnings and insurance' and 'Safety and security' pages).
+:   New information on fuel shortages in Mali (See ‘Fuel shortages’ on the ‘Safety and security page’).
 
 ![](https://assets.publishing.service.gov.uk/media/68c40bf8eeb238b20672aa65/FCDO__TA__026_-_Mali_Travel_Advice_Ed6__WEB_.jpg)
 

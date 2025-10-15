@@ -23,7 +23,7 @@ Attacks could be indiscriminate, including in places visited by foreign national
 
 Avoid crowded public places. Stay aware of your surroundings at all times, keep up to date with local media reports and follow the advice of local authorities.
 
-The conflict in Israel and the Occupied Palestinian Territories has led to heightened tensions around the world. Terrorist groups such as Al-Qaida and Daesh, have called on their supporters to carry out terrorist attacks in response to the conflict. The conflict could also motivate individuals to carry out attacks.
+The conflict in Israel and the Palestine has led to heightened tensions around the world. Terrorist groups such as Al-Qaida and Daesh, have called on their supporters to carry out terrorist attacks in response to the conflict. The conflict could also motivate individuals to carry out attacks.
 
 Terrorist attacks could target Jewish or Muslim communities, or the interests of Israel and its allies. Attacks could also be indiscriminate and occur without warning.
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   9 October 2025
+:   15 October 2025
 
 Updated:
-:   8 October 2025
+:   15 October 2025
 
 Latest update:
-:   Updated information following the announcement of a state of emergency being renewed for a further 60 days (‘Warnings and insurance’ page).
+:   On 14 October an explosion occurred in Guayaquil close to the Mall del Sol shopping centre and the Sheraton hotel. You should avoid the area and follow the instructions of the local authorities (See ‘Safety and Security’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/65a1082ce96df50014f8452c/FCDO__TA__014_-_Ecuador_Travel_Advice_Ed5__WEB_.jpg)
 
