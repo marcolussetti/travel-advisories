@@ -2,31 +2,6 @@
 
 ## Natural disasters and climate
 
-### Typhoon Halong
-
-Typhoon Halong swept across the southern Izu Islands, in Tokyo Prefecture, on October 8, 2025.
-
-The storm brought excessive rainfall and violent winds. Typhoon Halong caused severe flooding and landslides and there are ongoing disruptions to the following essential services:
-
-* transportation
-* power distribution
-* water and food supply
-* telecommunications networks
-* emergency services
-* medical care
-
-If you are in the affected area:
-
-* exercise caution
-* monitor local news and weather reports
-* follow the instructions of local authorities
-
-#### Useful links
-
-* [Japan Meteorological Agency](https://www.jma.go.jp/jma/jma-eng/jma-center/rsmc-hp-pub-eg/RSMC_HP.htm)
-* [Safety tips for travellers](https://www.jnto.go.jp/safety-tips/eng/app.html) – Japan Tourism Agency
-* [Mobile app](https://www3.nhk.or.jp/nhkworld/en/app/) – Japan Broadcasting Corporation
-
 ### Climate change
 
 Climate change is affecting Japan. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local news to stay informed on the current situation.
