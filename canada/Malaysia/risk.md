@@ -2,17 +2,10 @@
 
 ## Risk level
 
-### MALAYSIA - Exercise a high degree of caution
+### MALAYSIA - Take normal security precautions
 
-[Exercise a high degree of caution](#levels "Risk Levels") in Malaysia due to the threat of criminality and terrorism.
+[Take normal security precautions](#levels "Risk Levels") in Malaysia.
 
-### East coast of Sabah - Avoid non-essential travel
+### East coast of Sabah - Exercise a high degree of caution
 
-[Avoid non-essential travel](#levels "Risk Levels") to the east coast of Sabah state, due to the risk of kidnapping and violence in the following districts:
-
-* Lahad Datu
-* Kunak
-* Semporna
-* Sandakan
-* Kinabatangan
-* Beluran
+[Exercise a high degree of caution](#levels "Risk Levels") on the east coast of Sabah state, between Kudat and Tawau, including Lankayan Island and offshore dive locations and resorts, due to the risk of kidnapping from both terrorist and criminal groups.

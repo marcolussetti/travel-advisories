@@ -1,7 +1,7 @@
 {
     "name": "Bulgaria",
-    "update_reason": "Natural disasters and climate \u2013 removed information on flooding and landslides",
-    "update_date": "2025-10-10T11:20:00",
+    "update_reason": "Entry and exit requirements \u2013 updated information on the Entry/Exit System (EES)",
+    "update_date": "2025-10-15T15:22:00",
     "sections": {
         "risk": "canada/Bulgaria/risk.md",
         "security": "canada/Bulgaria/security.md",

@@ -1,7 +1,7 @@
 {
     "name": "Azores",
-    "update_reason": "The Need help? section was updated.",
-    "update_date": "2025-09-29T09:59:00",
+    "update_reason": "Entry and exit requirements \u2013 updated information on the Entry/Exit System (EES)",
+    "update_date": "2025-10-15T21:35:00",
     "sections": {
         "risk": "canada/Azores/risk.md",
         "security": "canada/Azores/security.md",

@@ -1,7 +1,7 @@
 {
     "name": "Italy",
-    "update_reason": "Safety and security \u2013 updated information on adventure tourism",
-    "update_date": "2025-10-06T15:56:00",
+    "update_reason": "Entry and exit requirements \u2013 updated information on the Entry/Exit System (EES)",
+    "update_date": "2025-10-15T21:25:00",
     "sections": {
         "risk": "canada/Italy/risk.md",
         "security": "canada/Italy/security.md",

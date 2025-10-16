@@ -12,11 +12,11 @@ Verify this information with the [Embassy of Switzerland in Canada](https://www.
 
 ### Entry/Exit System (EES)
 
-The Entry/Exit System (EES) begins operations on October 12, 2025.
+The Entry/Exit System (EES) began operations on October 12, 2025.
 
 The EES is an automated registration system for travellers from countries outside the European Union or the Schengen area. You will be required to register through this system upon arrival at the border of any of the 29 countries in the Schengen area.
 
-You won’t need to take any action before you travel. The EES will collect information about your trip as well as your facial image and fingerprints.
+You don’t need to take any action before you travel. The EES collects information about your trip as well as your facial image and fingerprints.
 
 #### Useful links
 

@@ -1,7 +1,7 @@
 {
     "name": "Spain",
-    "update_reason": "Need help? \u2013 removed information on the Honorary Consul of Canada in M\u00e1laga",
-    "update_date": "2025-09-29T16:17:00",
+    "update_reason": "Entry and exit requirements \u2013 updated information on the Entry/Exit System (EES)",
+    "update_date": "2025-10-15T15:34:00",
     "sections": {
         "risk": "canada/Spain/risk.md",
         "security": "canada/Spain/security.md",

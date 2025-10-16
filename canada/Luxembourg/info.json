@@ -1,7 +1,7 @@
 {
     "name": "Luxembourg",
-    "update_reason": "The Need help? section was updated.",
-    "update_date": "2025-10-01T15:06:00",
+    "update_reason": "Entry and exit requirements \u2013 updated information on the Entry/Exit System (EES)",
+    "update_date": "2025-10-15T21:29:00",
     "sections": {
         "risk": "canada/Luxembourg/risk.md",
         "security": "canada/Luxembourg/security.md",

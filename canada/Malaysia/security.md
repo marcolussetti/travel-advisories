@@ -4,16 +4,9 @@
 
 ### East coast of Sabah
 
-Eastern Sabah is deemed a Special Security Area by the Malaysian government. Despite increased security in the region, the risk of kidnapping and violence perpetrated by Philippine militants remains, especially in the coastal areas. Tourist resorts, restaurants and watercrafts are targeted as well as resort islands and surrounding waters, including around Sipadan. The risk increases on the water and waterfront after nightfall. Land- and water-based curfews, including a Movement Control Order, are in effect in the coastal areas of Eastern Sabah.
+Eastern Sabah is deemed a "Special Security Area" by the Malaysian government. Despite increased security in the region, the risk of kidnapping and violence perpetrated by terrorist and criminal groups remains, especially in the coastal areas.
 
-The Eastern Sabah Security Zone (ESSZone) includes:
-
-* Lahad Datu
-* Kunak
-* Semporna
-* Sandakan
-* Kinabatangan
-* Beluran
+Criminals have targeted foreigners, watercrafts, resort islands and surrounding waters, including around Sipadan. The risk increases on the water and waterfront after nightfall. Water-based curfews, including a Movement Control Order, are in effect in the coastal areas of Eastern Sabah.
 
 Check local media or with local police for the most recent curfew information. Follow the instructions of local authorities.
 
@@ -107,9 +100,9 @@ Boat accidents occur. Don't board vessels that appear overloaded or unseaworthy.
 
 #### Piracy
 
-Pirate attacks and armed robberies occur against ships in and around Malaysia, particularly in the Strait of Malacca and in the waters between Sabah and the southern Philippines. Mariners should take appropriate precautions.
+Pirate attacks and armed robberies occur against ships around Malaysia, particularly in the Strait of Malacca and in the waters between Sabah and the southern Philippines. Mariners should take appropriate precautions.
 
-[Live piracy report](https://icc-ccs.org/index.php/piracy-reporting-centre) - International Maritime Bureau
+[Live piracy report](https://icc-ccs.org/index.php/piracy-reporting-centre) – International Maritime Bureau
 
 ### Air travel
 
