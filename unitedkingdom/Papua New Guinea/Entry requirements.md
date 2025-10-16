@@ -28,6 +28,10 @@ You must have a certificate to prove you’ve had a yellow fever vaccination if 
 
 For full details about medical entry requirements and recommended vaccinations, see [TravelHealthPro’s Papua New Guinea guide](https://travelhealthpro.org.uk/country/175/papua-new-guinea#Vaccine_Recommendations).
 
+## Digital Arrival Card
+
+From 1 October 2025 all travellers to Papua New Guinea must complete and submit online a [Digital Arrival Card](https://pngdac.ica.gov.pg/). This is free of charge and should be submitted within 72 hours of arrival.
+
 ## Customs rules
 
 There are strict rules about goods you can take into or out of Papua New Guinea, see:

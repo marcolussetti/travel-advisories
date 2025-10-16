@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   25 September 2025
+:   16 October 2025
 
 Updated:
-:   24 September 2025
+:   15 October 2025
 
 Latest update:
-:   Updated information about visa requirements and new information on how to apply for a visa (‘Entry requirements’ page).
+:   New information about requirement for Digital Arrival Card ('Entry requirements' page).
 
 ![](https://assets.publishing.service.gov.uk/media/68b1908211b4ded2da19fc61/FCDO__TA__063_-_Papua_New_Guinea_Ed2__WEB_.jpg)
 

@@ -1,11 +1,11 @@
 {
     "name": "Papua New Guinea",
-    "update_reason": "Updated information about visa requirements and new information on how to apply for a visa (\u2018Entry requirements\u2019 page).",
+    "update_reason": "New information about requirement for Digital Arrival Card ('Entry requirements' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Papua New Guinea/Warnings and insurance.md",
-            "update_date": "2025-09-24T09:34:44+01:00"
+            "update_date": "2025-10-15T16:35:29+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Papua New Guinea/Getting help.md"
         }
     ],
-    "update_date": "2025-09-24T09:34:44+01:00"
+    "update_date": "2025-10-15T16:35:29+01:00"
 }

@@ -1,17 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   9 October 2025
+:   16 October 2025
 
 Updated:
-:   8 October 2025
+:   15 October 2025
 
 Latest update:
-:   New information about presidential and parliamentary elections between 9 and 11 October (‘Warnings and insurance’ page).
-
-## Presidential and parliamentary elections
-
-Seychelles will hold presidential and parliamentary elections between 9 and 11 October 2025. Elections in Seychelles are generally peaceful. However, political tensions can rise during the campaign period. Stay away from political rallies and related activities. While these events are usually peaceful, minor clashes between supporters have occurred in the past. Large political gatherings can also disrupt local services and traffic.
+:   Removal of information about presidential and parliamentary elections between 9 and 11 October ('Warnings and insurance' page).
 
 ## Before you travel
 

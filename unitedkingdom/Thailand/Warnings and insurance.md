@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 October 2025
+:   16 October 2025
 
 Updated:
-:   10 October 2025
+:   15 October 2025
 
 Latest update:
-:   Clarification that FCDO advises against all but essential travel to within 50km of the whole border with Cambodia, including Koh Chang and Koh islands (‘Warnings and insurance’ page).
+:   Clarification that FCDO advises against all but essential travel to within 50km of the whole border with Cambodia, including Koh Chang, Koh Kood and the other islands in between them (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/68876079741b74390ff0e454/FCDO__TA__040_-_Thailand_Travel_Advice_Ed4__WEB_.jpg)
 
@@ -29,7 +29,7 @@ FCDO also advises against all but essential travel on the Hat Yai to Padang Bes
 
 This is due to regular attacks in the provinces by the border with Malaysia. See [Safety and security](https://www.gov.uk/foreign-travel-advice/thailand/safety-and-security) .
 
-FCDO also advises against all but essential travel to within 50km of the whole border with Cambodia, including Koh Chang and Koh islands.
+FCDO also advises against all but essential travel to within 50km of the whole border with Cambodia, including Koh Chang, Koh Kood and the other islands in between them.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/thailand/safety-and-security#terrorism).
 
