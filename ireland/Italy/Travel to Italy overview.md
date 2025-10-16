@@ -6,19 +6,9 @@ Normal Precautions
 
 ### **Travel Alert**
 
-### **Extreme Heat and Weather Warnings in Italy**
+#### **Jubilee Year in Rome**
 
-Extreme levels of heat, reaching or exceeding 40 degrees Celsius, are forecast for parts of Italy in the coming weeks. Such extreme temperatures can occur in all parts of Italy during the summer months and it is strongly advised to take precautions both outdoors and indoors. Extreme temperatures are dangerous for all, but pose particular risks to young children, the elderly and people with underlying health conditions.
-
-Temperatures and weather conditions can change quickly in Italy and you should be prepared to face excessive heat. When travelling in Italy this summer, you should ensure that you always have water available and drink plenty of fluids to stay hydrated, even while inside. Where possible, you should avoid being outdoors during the hottest time of the day (11am to 3pm). While outdoors, wear a hat and light clothing that covers your skin and regularly apply sunscreen of factor 30+ for adults and factor 50+ for children and those with pale skin. You should be particularly aware that extreme heat can make outdoor activities such as hiking or playing sports significantly strenuous even for experienced and physically fit individuals.
-
-For more details on staying safe in hot weather, including advice on when to seek medical attention, please consult the [**HSE’s information page on this subject**](https://healthservice.hse.ie/staff/procedures-guidelines/staying-safe-in-hot-weather/).
-
-Spontaneous fires and wildfires are also possible under these conditions. You should stay informed of local news and instructions from local authorities while travelling in Italy. Weather and personal safety alerts are typically published in English on [**Italy’s Civil Protection Department website**](https://www.protezionecivile.gov.it/en/).
-
-### **Jubilee Year in Rome**
-
-From 24 December 2024 to 6 January 2026, the Jubilee 2025, also known as the Holy Year, will take place in Rome. The city is expected to see significantly elevated tourist levels, particularly during the larger events such as Easter and the Jubilee of Youth on 28 July–3 August. When travelling in the city during this time, you should expect large crowds and gatherings and disruptions to travel and movement. When planning travel in Rome during the Jubilee Year, it may be useful to consult the [**Jubilee 2025 official site**](https://www.iubilaeum2025.va/en.html)**.**
+From 24 December 2024 to 6 January 2026, the Jubilee 2025, also known as the Holy Year, is taking place in Rome. The city is expected to see significantly elevated tourist levels, particularly during the larger events coinciding with important religious celebrations. When travelling in the city during this time, you should expect large crowds and gatherings and disruptions to travel and movement. When planning travel in Rome during the Jubilee Year, it may be useful to consult the [**Jubilee 2025 official site**](https://www.iubilaeum2025.va/en.html)**.**
 
 ### **General Travel Advice**
 
