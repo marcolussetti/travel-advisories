@@ -8,6 +8,8 @@ High Degree of Caution
 
 We advise against all travel within 5km of the border with Burkina Faso, due to the security situation in Burkina Faso and the risk of kidnapping in the region.
 
+Irish citizens are advised to be vigilant and keep up to date with local developments and avoid all demonstrations and large gatherings. If you become aware of any nearby protests or disturbances, leave the area immediately and monitor local media for up-to-date information.
+
 ### **General Travel Advice**
 
 Irish citizens must apply for an eVisa at least 6 days in advance and provide a printed copy of this application at passport control when visiting Togo.

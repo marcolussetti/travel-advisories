@@ -6,23 +6,17 @@ High Degree of Caution
 
 ### **Travel Alert**
 
+Large crowds and transport disruption can be expected in Nairobi between 16-18 October, and around Kisumu and the Bondo area of Siaya County in western Kenya on 18-19 October, due to the funeral arrangements and public mourning on the passing of a prominent Kenyan politician and public figure. Very large crowds and security presence are to be expected in particular in Nairobi CBD, the area around Nyayo Stadium and Jomo Kenyatta International Airport, and routes to and from those areas. Large crowds may also develop in other areas of the city. Flights may be delayed. We advise people to avoid these specific areas, to avoid large crowds and to follow the advice of airlines, tour operators and the local authorities in relation to any specific travel movements that you may have planned over this period, and in relation to the timing of travel to and from the airport.
+
 #### **Demonstrations and Industrial Action**
 
 Demonstrations and industrial action are taking place on a rolling basis in Kenya. Irish citizens travelling to Kenya should always monitor local media and follow the advice of local authorities. Always avoid demonstrations, as they may turn violent.
-
-#### **COVID-19** **Entry Requirements**
-
-The Government of Kenya no longer requires proof of either COVID-19 vaccination or a negative COVID-19 PCR test for entry into Kenya.
-
-Only passengers arriving at any port of entry into Kenya with flu-like symptoms will be required to fill the passenger locator form on the ‘[**jitenge platform**](https://ears.health.go.ke/airline_registration/)’ and take a COVID-19 antigen test upon arrival at their own cost. Those who test positive on a COVID-19 antigen test will be required to take a PCR test at their own cost and self-isolate as per Ministry of Health guidance on isolation.
-
-Full details of the Government of Kenya’s entry requirements in relation to coronavirus can be found on the Kenya Civil Aviation Authority Website [**here**](https://www.kcaa.or.ke/covid-19/covid-19-travel-requirements).
 
 ### **General Travel Advice**
 
 In January 2024, the Kenya State Department for Immigration and Citizen Services implemented a new policy on a Visa Free Regime in Kenya.
 
-**Visitors to Kenya are required to register on the** [**Electronic Travel Authorisation (ETA) system**](https://www.etakenya.go.ke/en) **before entering Kenya.** Some exemptions apply as detailed on the [website of the Kenyan Civil Aviation Authority](https://www.kcaa.or.ke/sites/default/files/publication/visa_free_regime_in_kenya.pdf).
+**Visitors to Kenya are required to register on the** [**Electronic Travel Authorisation (ETA) system**](https://www.etakenya.go.ke/en) **before entering Kenya.** Some exemptions apply as detailed on the [**website of the Kenyan Civil Aviation Authority**](https://www.kcaa.or.ke/sites/default/files/publication/visa_free_regime_in_kenya.pdf).
 
 The ETA system replaces the previous e-Visa system for Kenya.
 
@@ -49,7 +43,7 @@ The Department of Foreign Affairs and Trade advises citizens travelling to Kenya
 
 Law requires carrying ID at all times and police may request evidence of this.
 
-Citizens can also follow the Irish Embassy in Kenya on [X](https://twitter.com/IrlEmbKenya) to ensure access to relevant updates and alerts.
+Citizens can also follow the Irish Embassy in Kenya on [**X**](https://twitter.com/IrlEmbKenya) to ensure access to relevant updates and alerts.
 
 ### **Emergency Assistance**
 
