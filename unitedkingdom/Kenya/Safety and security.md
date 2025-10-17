@@ -30,7 +30,7 @@ Recent significant attacks include :
 * in 2020 Al Shabaab conducted an attack on a military airstrip in Lamu County, killing 3 people
 * in 2019 there was an attack at the hotel and commercial complex at 14 Riverside in Nairobi, resulting in injuries and loss of life
 
-There is some evidence of growing support for Daesh (formerly ISIL) in Kenya. On 4 January 2024 Daesh published a statement calling for a new global campaign of terrorism including a specific focus on western and Jewish targets. This statement and the ongoing conflict in Israel and the Occupied Palestinian Territories could increase the likelihood of terrorist attacks that affect British nationals.
+There is some evidence of growing support for Daesh (formerly ISIL) in Kenya. On 4 January 2024 Daesh published a statement calling for a new global campaign of terrorism including a specific focus on western and Jewish targets. This statement and the ongoing conflict in Israel and Palestine could increase the likelihood of terrorist attacks that affect British nationals.
 
 ### Lamu Island and Manda Island
 

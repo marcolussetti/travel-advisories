@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   19 September 2025
+:   17 October 2025
 
 Updated:
-:   18 September 2025
+:   16 October 2025
 
 Latest update:
-:   FCDO now advises against all travel to areas in the east of Kenya, including the border with Somalia, and now advises against all but essential travel to some neighbouring areas. See ‘Warnings and insurance’ page for details areas. Updated information on risks from terrorism('Warnings and insurance', 'Safety and security' and 'Regional risks' pages).
+:   Addition of information about a period of national mourning following the death of former Prime Minister Raila Odinga ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/68cbf893b6d7ea468dbea672/FCDO__TA__055_-_Kenya_Travel_Advice_Ed6__WEB_.jpg)
 
@@ -35,6 +35,12 @@ FCDO advises against all but essential travel to:
 * within 15km of the east coast between the Tana River and the Galana (Athi-Galana-Sabaki) River
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/kenya/regional-risks).
+
+## Period of national mourning
+
+Following the death of former Prime Minister Raila Odinga, Kenya is observing 7 days of national mourning from 15 October. Roads to Jomo Kenyatta International Airport in Nairobi have sometimes been blocked by demonstrations and the airport was temporarily closed due to a security situation following the arrival of the body of Raila Odinga on 16 October. It has since reopened.
+
+There could be further disruption, particularly in Nairobi and Kisumu, over the period of national mourning. Stay away from political gatherings and large crowds and monitor local media to see when and where major demonstrations are likely. Follow local news and the instructions of local authorities.
 
 ## Risk of Kidnap
 

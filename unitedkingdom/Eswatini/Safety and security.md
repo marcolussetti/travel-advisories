@@ -58,9 +58,9 @@ Drink-driving is a serious offence in Eswatini. If you are tested and found to h
 
 ### Road conditions
 
-The standard of driving in Eswatini is low. Slow moving lorries can be a problem, particularly on hills. Minor roads are not well maintained with some potholes, and road markings are poor.
+Slow moving lorries can be a problem, particularly on hills, with care needed when overtaking. Minor roads are not well maintained with some potholes, and road markings are poor.
 
-Take care driving in rural areas as animals stray on to roads and cause serious accidents and deaths. Avoid driving on rural roads at night – there is a risk of hitting abandoned, unlit trailers and poorly lit heavy vehicles.
+Take care driving in rural areas as animals stray on to roads and cause serious accidents and deaths. Avoid driving on rural roads at night – there is a risk of hitting abandoned, unlit trailers and poorly lit heavy vehicles, as well as animals.
 
 ### Public transport
 

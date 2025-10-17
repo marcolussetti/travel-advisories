@@ -26,7 +26,7 @@ Check the stamp in your passport has the correct date. If you do not have the co
 
 ## Health form requirement
 
-You may need to complete a health form if travelling by air.
+You may need to complete a health form if travelling by air. You will be asked health related questions on arrival at the land border and at King Mswati III International Airport.
 
 ## Vaccine requirements
 
@@ -44,7 +44,7 @@ There are strict rules about goods you can take into or out of Eswatini. You mus
 
 ### Entering with your own vehicle
 
-If your vehicle is not registered in Eswatini, you must complete a customs declaration form at the border post and pay a 100 Swazi emalangeni road fund levy. You must always carry proof of your customs declaration and levy payment in the vehicle. Vehicles may be searched at borders.
+If your vehicle is not registered in Eswatini, you must complete a customs declaration form at the border post and pay a 150 Swazi emalangeni road fund levy, E80 for a motorcycle and higher amounts for commercial vehicles. These payments can be made with South African Rands. You must always carry proof of your customs declaration and levy payment in the vehicle. Vehicles may be searched at borders.
 
 [Previous
 :

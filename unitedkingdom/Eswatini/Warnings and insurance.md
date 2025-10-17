@@ -1,19 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   17 October 2025
 
 Updated:
-:   3 February 2025
+:   16 October 2025
 
 Latest update:
-:   Updated information on possible disruption to travel, including delays or closures at the border at short notice (‘Warnings and insurance’ page).
-
-## Eswatini - Mozambique border
-
-There has been significant unrest across Mozambique in recent months following national elections on 9 October 2024. The situation has improved since late December, but there remains the potential for further sporadic unrest and delays or closures at the border at short notice.
-
-Seek local advice, monitor local media and [FCDO’s travel advice for Mozambique](https://www.gov.uk/foreign-travel-advice/mozambique) before travel.
+:   This travel advice was reviewed for accuracy and there are no significant updates.
 
 ## Before you travel
 

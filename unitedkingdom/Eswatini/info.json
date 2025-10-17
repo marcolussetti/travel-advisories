@@ -1,11 +1,11 @@
 {
     "name": "Eswatini",
-    "update_reason": "Updated information on possible disruption to travel, including delays or closures at the border at short notice (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "This travel advice was reviewed for accuracy and there are no significant updates.",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Eswatini/Warnings and insurance.md",
-            "update_date": "2025-02-03T15:21:43+00:00"
+            "update_date": "2025-10-16T15:22:23+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Eswatini/Getting help.md"
         }
     ],
-    "update_date": "2025-02-03T15:21:43+00:00"
+    "update_date": "2025-10-16T15:22:23+01:00"
 }

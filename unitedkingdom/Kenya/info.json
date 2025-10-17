@@ -1,11 +1,11 @@
 {
     "name": "Kenya",
-    "update_reason": "FCDO now advises against all travel to areas in the east of Kenya, including the border with Somalia, and now advises against all but essential travel to some neighbouring areas. See \u2018Warnings and insurance\u2019 page for details areas. Updated information on risks from terrorism('Warnings and insurance', 'Safety and security' and 'Regional risks' pages).",
+    "update_reason": "Addition of information about a period of national mourning following the death of former Prime Minister Raila Odinga ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Kenya/Warnings and insurance.md",
-            "update_date": "2025-09-18T15:00:01+01:00"
+            "update_date": "2025-10-16T12:27:53+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Kenya/Getting help.md"
         }
     ],
-    "update_date": "2025-09-18T15:00:01+01:00"
+    "update_date": "2025-10-16T12:27:53+01:00"
 }
