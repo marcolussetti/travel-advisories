@@ -2,21 +2,18 @@
 
 ## Safety and security
 
-### Demonstrations in Madagascar
+### Political situation in Madagascar
 
-Since September 25, 2025, violent demonstrations are taking place in Antananarivo and several major cities across Madagascar.
+On October 14, 2025, following large-scale demonstrations, the military took over and announced a 2-year transition period followed by new elections.
 
-Violent incidents, including shootings and looting, have resulted in casualties.
+The situation remains volatile and violent demonstrations can occur at any time. They can also lead to disruptions to traffic and public transportation.
 
-Ongoing calls for demonstrations may extend this period of instability. Demonstrations can also lead to disruptions to traffic and public transportation.
+Antananarivo-Ivato International Airport remains open, but you should confirm your flight status before heading to the airport.
 
-Antananarivo-Ivato International Airport remains open, however several flights have been canceled.
-
-Local authorities have imposed a dusk until dawn curfew in Antananarivo and in most major cities. Further curfews and restrictions on movement could be imposed without notice.
+Curfews remain in place in Antananarivo and in most major cities. Further curfews and restrictions on movement could be imposed without notice.
 
 If you are in Madagascar:
 
-* shelter in place
 * contact your airline before going to the airport to confirm your travel plans, and only proceed if it is safe to do so
 * stay away from demonstrations
 * expect heavy security measures and increased security presence
