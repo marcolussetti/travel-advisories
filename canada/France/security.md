@@ -130,7 +130,7 @@ You can complete an online pre-complaint for certain types of minor crime, such 
 
 ### Bomb threats
 
-Since October 2023, there have been a number of bomb threats sent to public places across France.
+Since October 2023, there have been a number of bomb threats reported in public places across France.
 
 Bomb threats and hoaxes can target any location, including:
 

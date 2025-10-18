@@ -2,6 +2,18 @@
 
 ## Safety and security
 
+### General elections
+
+The second round of general elections is scheduled for October 19, 2025.
+
+Certain electoral rules will be imposed and strictly enforced before, during and after the elections. Penalties for breaking these rules may be severe and include detention until the end of the elections.
+
+* Public demonstrations are banned from midnight on October 16 until 6 pm on October 19
+* The sale and consumption of alcohol is prohibited from midnight on October 16 until noon on October 20
+* Public gatherings; vehicle traffic, including public transportation; Teleférico service in La Paz; and domestic flights are suspended on October 19
+
+While international flights will still operate on October 19, there will be a limited number of taxis authorized to drive to and from the airport.
+
 ### Demonstrations
 
 Demonstrations occur frequently, often with little or no notice. Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation. Protesters may also use dynamite during protests. The police often respond with tear gas to disperse crowds.

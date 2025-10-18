@@ -2,6 +2,14 @@
 
 ## Safety and security
 
+On October 14 and 15, 2025, a series of coordinated explosions targeted several locations in Ecuador, namely:
+
+* near the Mall del Sol and the Sheraton Hotel in Guayaquil
+* the Churute bridge in Guayas province
+* the Mollopongo Bridge on the Cuenca-Giron-Pasaje route
+
+Stay away from the affected areas and follow the instructions of local authorities.
+
 ### State of exception
 
 A state of exception is in effect in the following provinces:
