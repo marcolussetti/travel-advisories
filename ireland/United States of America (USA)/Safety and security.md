@@ -31,6 +31,10 @@ Crime remains relatively low in the US but you should take sensible precautions.
 
 If you are a victim of a crime while in the US, report it to the local police immediately. And you can contact us at the Irish Embassy in Washington DC and the Irish Consulates in Austin, Atlanta, Boston, Chicago, Los Angeles, Miami, New York and San Francisco.
 
+### **Protests**
+
+Protests are common throughout the United States and have the potential to become violent. Irish citizens should follow the instructions of local authorities, and be mindful that they may introduce curfews or emergency orders. If you choose to attend a peaceful protest you should be vigilant and be prepared to move away if you see signs of trouble.
+
 ### **Driving**
 
 If you are planning to drive in the US, be aware that cars drive on the right side of the road but otherwise road safety conditions are fairly similar to Ireland.
