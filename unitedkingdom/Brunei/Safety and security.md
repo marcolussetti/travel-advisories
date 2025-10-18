@@ -28,13 +28,11 @@ Islam is the official religion in Brunei. Respect local traditions, customs, law
 
 Places of business and offices, including shops and restaurants, shut between midday and 2pm every Friday for prayers.
 
-Friday is a non-working day for government offices and local schools. They open on Saturdays instead.
+Friday is a non-working day for government offices and local schools. Government offices and state schools open on Saturdays instead.
 
 ### Ramadan
 
-Ramadan is a holy month for Muslims. The dates vary by year and country. In 2025, Ramadan started at the start of March and finished around the end of March.
-
-During this time, it is against the law to be seen eating or drinking in public during fasting hours. You must also not smoke in public.
+Ramadan is a holy month for Muslims. The dates vary by year and country. During this time, it is against the law to be seen eating or drinking in public during fasting hours. You must also not smoke in public.
 
 You should dress modestly. For example, do not wear shorts in government and public buildings such as health centres.
 
@@ -42,11 +40,11 @@ Get more advice when you arrive from your tour guide, hotel or business contacts
 
 ### Criticism of the Bruneian Royal Family
 
-His Majesty The Sultan and other members of the Bruneian Royal Family are highly revered and public criticism of them causes great offence.
+His Majesty The Sultan and other members of the Bruneian Royal Family are highly revered and public criticism of them causes great offence and may result in legal action.
 
 ### Relationships outside marriage
 
-Adultery and closeness in private between an unmarried man and woman is illegal if one person is a Muslim.
+Adultery and closeness in private between an unmarried man and woman is illegal if one person is a Muslim. In general, public displays of affection may cause offence.
 
 ### Pornographic material
 
@@ -72,7 +70,7 @@ The sale of alcohol and tobacco in Brunei is illegal. Non-Muslims aged 17 and ov
 
 ### Smoking and e-cigarette bans
 
-Smoking is illegal in certain public places, including shopping and eating areas, bus stops and stations, car parks and near buildings.
+Smoking is illegal in certain public places, including shopping and eating areas, bus stops and stations, car parks and in close proximity to any public buildings.
 
 ## Outdoor activities and adventure tourism
 
@@ -94,7 +92,7 @@ Saltwater crocodiles have attacked and killed people fishing on riverbanks aroun
 
 * pay attention to signs warning of crocodiles
 * stay away from the water’s edge
-* seek local advice
+* seek local advice on taking further precautions
 
 ### Venomous snakes
 
@@ -121,14 +119,14 @@ If you’re driving to Malaysia with a Bruneian registered car, the same is true
 
 Driving standards are different from the UK. Vehicles do not always stop at red lights or pedestrian crossings. It is common for drivers not to use seatbelts or child car seats and to speed. Road surfaces are uneven and accidents are common. Animals such as monitor lizards, snakes and monkeys could be on the roads.
 
-If you’re involved in a road accident as a driver, do not leave the scene or move the vehicle until the police arrive.
+If you’re involved in a road accident as a driver, do not leave the scene or move the vehicle until the police arrive (call 993 for the police).
 
 ### Sea travel
 
 Small boats carry passengers across to the water village in Bandar and along the rivers on cruises. You should:
 
 * check there are adequate life jackets for all passengers, including children
-* keep hands inside the boat, as there are river crocodiles
+* keep hands inside the boat, as there may be river crocodiles
 
 If you’re taking a longer trip, for example, a wildlife cruise, get local recommendations and plan your trip in advance.
 

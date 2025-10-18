@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   14 October 2025
+:   18 October 2025
 
 Updated:
-:   13 October 2025
+:   17 October 2025
 
 Latest update:
-:   Updated information about dual nationals and the conscription based military service (‘Warnings and insurance’ page).
+:   New information about using mobile phones in Russia ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/621cd8428fa8f54915f43831/FCDO__TA__059_-_Russia_Travel_Advice_Ed1__WEB_.jpg)
 

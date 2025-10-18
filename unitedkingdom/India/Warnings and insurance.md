@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   28 August 2025
+:   18 October 2025
 
 Updated:
-:   27 August 2025
+:   17 October 2025
 
 Latest update:
-:   This travel advice has been reviewed in full with updates including risks from flash flooding and landslides in mountainous areas, large crowds, terrorism, traffic disruptions and information about medication in India (‘Safety and security’, ‘Regional risks’ and ‘Health’ pages).
+:   New information about e-arrival digital disembarkation card ('Entry requirements' page).
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -17,7 +17,7 @@ Your travel insurance could be invalidated if you travel against advice from the
 
 FCDO advises against all travel within 10km of the India-Pakistan border. The Wagah-Attari border crossing is closed.
 
-### Union Terrioty of Jammu and Kashmir
+### Union Territory of Jammu and Kashmir
 
 FCDO advises against all travel to the Union Territory of Jammu and Kashmir (including Pahalgam, Gulmarg, Sonamarg, the city of Srinagar and the Jammu-Srinagar national highway), except for:
 

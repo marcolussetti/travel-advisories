@@ -225,6 +225,10 @@ Due to current military activities, it is illegal to use drones in some regions.
 
 You must get permission from the [Russian aviation authority](http://www.favt.ru/) (in Russian) before using any unmanned aircraft systems (drones) in Russian airspace. You must tell them the flight route at least 24 hours in advance and keep in regular contact with them before and during the flight. You will get a fine if you do not comply.
 
+### Mobile phones
+
+If you travel to Russia with a non-Russian SIM card, you may not be able to access mobile internet, SMS or other services. Buying a local-network SIM card in Russia can be difficult for visitors and could take up to 2 weeks to complete. Make sure your friends and relatives know how to contact you if your mobile phone does not work.
+
 ### Cybersecurity laws
 
 There are increasing restrictions to limit access to content posted on the internet, including social media platforms. Meta (Facebook and Instagram), X and LinkedIn are blocked in Russia. Access to other websites can be unreliable.

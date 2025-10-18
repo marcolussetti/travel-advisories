@@ -1,11 +1,11 @@
 {
     "name": "Azerbaijan",
-    "update_reason": "Updated visa procedures for visitors travelling to Azerbaijan in connection with the Formula 1 Azerbaijan Grand Prix (\u2018Entry requirements\u2019 page).",
+    "update_reason": "Removal of special visa procedures for the Formula 1 and the addition of information about cultural sensitivity (\u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Azerbaijan/Warnings and insurance.md",
-            "update_date": "2025-08-26T15:57:14+01:00"
+            "update_date": "2025-10-17T15:59:03+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Azerbaijan/Getting help.md"
         }
     ],
-    "update_date": "2025-08-26T15:57:14+01:00"
+    "update_date": "2025-10-17T15:59:03+01:00"
 }

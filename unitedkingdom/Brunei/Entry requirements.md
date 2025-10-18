@@ -14,13 +14,17 @@ Check with your travel provider that your passport and other travel documents me
 
 ## Visa requirements
 
-British citizen passport holders may enter Brunei for up to 90 days without a visa as a visitor. If you have another type of British nationality, check visa requirements with [Brunei immigration authorities](http://www.immigration.gov.bn/en/SitePages/Visa,%20Visit%20and%20Diplomatic.aspx).
+British citizen passport holders may enter Brunei as visitors for up to 90 days without a visa. If you have another type of British nationality, check visa requirements with [Brunei immigration authorities](http://www.immigration.gov.bn/en/SitePages/Visa,%20Visit%20and%20Diplomatic.aspx).
 
 To stay longer or if you’re travelling for work, study, business travel or other reasons, you must meet the Brunei government’s entry requirements. Check which type of visa or work permit you need with the [Brunei High Commission in the UK](https://www.mfa.gov.bn/uk-london/SitePages/Home.aspx).
 
 Make sure you get your passport stamped.
 
-Make sure you get your passport stamped when you enter Brunei. Do not overstay your visa or violate the terms of entry. Penalties include detention and caning.
+Make sure you get your passport stamped when you enter Brunei.
+
+### Overstaying your visa
+
+Do not overstay your visa or violate the terms of entry. Penalties include detention and caning.
 
 ## Dual nationality
 

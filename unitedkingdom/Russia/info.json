@@ -1,11 +1,11 @@
 {
     "name": "Russia",
-    "update_reason": "Updated information about dual nationals and the conscription based military service (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "New information about using mobile phones in Russia ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Russia/Warnings and insurance.md",
-            "update_date": "2025-10-13T10:30:52+01:00"
+            "update_date": "2025-10-17T13:12:22+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Russia/Getting help.md"
         }
     ],
-    "update_date": "2025-10-13T10:30:52+01:00"
+    "update_date": "2025-10-17T13:12:22+01:00"
 }

@@ -40,19 +40,19 @@ Tensions between Armenia and Azerbaijan have calmed and the risk of further conf
 
 Crime levels in Baku are generally low. Be alert to possible bag-snatching or mugging, particularly if you are carrying large amounts of cash or valuables. The risk is higher after dark in the centre of town. Avoid displaying large sums of money or expensive-looking valuables and do not walk alone at night.
 
-Take extra care to guard against card skimming when paying with a credit card or withdrawing money from ATMs.
-
 ### Dealing with officials
 
 There are occasionally reports of government officials asking foreign nationals to make undocumented payments. If you think you have been mistreated by a traffic policeman or health professional, report your case to the relevant government department.
 
 ### Bank card fraud
 
-Fraudsters can steal your card details without you noticing. Use ATMs inside banks if possible, and check ATMs on the street for signs of tampering. Keep cards in sight when paying in shops and restaurants.
+Fraudsters can steal your card details without you noticing. Take extra care to guard against card skimming when using credit cards or withdrawing cash from ATMs. Use ATMs inside banks where possible, check street ATMs for signs of tampering, and always keep your card in sight when paying in shops and restaurants.
 
 ## Laws and cultural differences
 
 Azerbaijan is a largely secular society, although most of the population is Muslim. Religion is usually considered a private matter.
+
+Some areas, such as Martyrs’ Alley, are especially sensitive. Disruptive or disrespectful conduct in or around such area may result in police action, including fines or being summoned to the police station.
 
 ### Personal ID
 
@@ -60,7 +60,7 @@ Police sometimes carry out checks of identity documents. Carry your passport at 
 
 ### Dress code
 
-In Baku local and foreign women usually dress in conservative western-style clothing. It is now more acceptable for men to wear shorts in Baku in the summer months. Outside of Baku it may still be frowned on and you may receive unwelcome attention.
+In Baku local and foreign women usually dress in conservative western-style clothing. It is now more acceptable for men to wear shorts in Baku in the summer months. Outside of Baku it may still be frowned on, and you may receive unwelcome attention.
 
 ### Ramadan
 
@@ -72,6 +72,10 @@ Ramadan is a holy month for Muslims. The dates vary by year and country. In 2025
 * be patient and show tolerance
 
 Get more advice when you arrive from your tour guide, hotel or business contacts.
+
+### Smoking restrictions
+
+Smoking is restricted to designated areas. You can be fined for dropping smoking-related litter. Use bins provided.
 
 ### Illegal drugs
 

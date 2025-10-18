@@ -41,6 +41,12 @@ If you are a British-Pakistani dual national, you must apply for an Indian visa 
 
 If you hold a valid Overseas Citizen of India (OCI) card, you can use this, along with your valid British passport, to visit India. You do not need a visa. If you have a Persons of Indian Origin (PIO) card, you will need to convert it to an OCI card. More information is available from the [High Commission of India](https://www.hcilondon.gov.in/page/oci-card/#:~:text=PIO%20Card%20holders%20can%20apply,%2F%2D%20plus%20VFS%20service%20charges) and the [Indian Bureau of Immigration](https://boi.gov.in/boi/public/content/pages/2484ead3-2c0b-4c05-af7f-f885726496d4).
 
+### E-arrival card
+
+Foreign nationals arriving in India must complete an [e-arrival card](https://indianvisaonline.gov.in/earrival/) online before reaching immigration. This digital disembarkation form replaces the paper-based arrival card, although paper forms will continue to be accepted until March 2026.
+
+The online e-arrival card can be completed up to 72 hours before you arrive. More details are available on the [Indian visa website](https://indianvisaonline.gov.in/). The e-arrival card is not a visa, and you will still need a separate valid visa or OCI card to enter India.
+
 ### Extending your visa
 
 It’s illegal to overstay your visa in India. Make sure you leave the country before your visa expires or get an official extension if needed. More information is available from the [Indian Bureau of Immigration](https://boi.gov.in/boi/public/content/pages/0b24515d-587b-44ea-a48b-b67d478b17f5).

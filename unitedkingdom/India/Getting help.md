@@ -40,7 +40,7 @@ FCDO provides guidance on staying safe and what to do if you need help or suppor
 * dealing with a [death in India](https://www.gov.uk/government/publications/bereavement-information-pack-india)
 * being [arrested in India](https://www.gov.uk/government/publications/india-prisoner-pack)
 * getting help if you’re a [victim of rape or sexual assault abroad](https://www.gov.uk/government/publications/rape-and-sexual-assault-abroad) or [victim of rape or sexual assault in India](https://www.gov.uk/government/publications/rape-and-sexual-assault-in-india-information-for-victims/india-information-for-survivors-of-rape-and-sexual-assault)
-* getting help if you’re a [victim of crime](https://www.gov.uk/victim-crime-abroad)
+* getting help if you’re a [victim of crime](https://www.gov.uk/guidance/victim-of-crime-abroad)
 * if you are [in hospital](https://www.gov.uk/guidance/in-hospital-abroad)
 * if you are [affected by a crisis](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas), such as a terrorist attack
 
