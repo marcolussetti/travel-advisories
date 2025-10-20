@@ -24,6 +24,7 @@ At least 8 weeks before your trip:
 
 See [what health risks you’ll face in Nigeria](https://travelhealthpro.org.uk/country/165/nigeria) including:
 
+* yellow fever
 * schistosomiasis
 * Zika virus
 * malaria and dengue

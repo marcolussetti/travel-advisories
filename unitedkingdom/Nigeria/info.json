@@ -1,11 +1,11 @@
 {
     "name": "Nigeria",
-    "update_reason": "FCDO now advises against all but essential travel to Kaduna State and to the whole of Kebbi State (\u2018Warnings and insurance\u2019  and \u2018Regional risks\u2019 pages).",
+    "update_reason": "Updated that 'Free Nnamdi Kanu Now ' protests are planned in Abuja on Monday 20 October.\u00a0There may also be protests in Enugu, Bauchi, Kogi, Kano and Ekiti. ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Nigeria/Warnings and insurance.md",
-            "update_date": "2025-09-02T09:01:02+01:00"
+            "update_date": "2025-10-19T19:27:11+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Nigeria/Getting help.md"
         }
     ],
-    "update_date": "2025-09-02T09:01:02+01:00"
+    "update_date": "2025-10-19T19:27:11+01:00"
 }
