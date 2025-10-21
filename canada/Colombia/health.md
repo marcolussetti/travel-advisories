@@ -318,7 +318,7 @@ If a doctor is not registered and duly qualified by the Ministry of Health or th
 
 ### Medication
 
-Some prescription medication may not be available in Colombia.
+Some prescription medication may not be available in Colombia. Auto-injectors for the treatment of anaphylactic shock are not sold in the country.
 
 If you take prescription medication, you’re responsible for determining their legality in the country.
 

@@ -2,26 +2,6 @@
 
 ## Natural disasters and climate
 
-### Flooding in Central Mexico
-
-Since October 9, 2025, heavy rains have caused severe flooding and landslides in central Mexico, particularly in the following states:
-
-* Veracruz
-* Querétaro
-* San Luis Potosí
-* Puebla
-* Hidalgo
-
-The floods and landslides have caused casualties and significant damage to buildings and infrastructure.
-
-More rainfall is expected in the coming days, increasing the risk of additional flooding in areas already affected.
-
-If you are in an affected area:
-
-* stay away from flooded areas
-* monitor local news and weather reports
-* follow the instructions of local authorities, including evacuation orders
-
 Mexico is subject to various natural disasters, which can occur at any time.
 
 In the event of a natural disaster:

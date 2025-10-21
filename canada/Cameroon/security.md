@@ -4,7 +4,7 @@
 
 **Presidential elections**
 
-Political tensions are high in the context of the presidential elections that took place on October 12, 2025. The results of the vote are expected to be announced by October 26, 2025.
+Political tensions are high in the context of the presidential elections that took place on October 12, 2025. The results of the vote are expected to be announced by October 27, 2025.
 
 Demonstrations could occur and turn violent at any time. They can also lead to disruptions to traffic and public transportation. Telecommunications and Internet access may also be disrupted.
 

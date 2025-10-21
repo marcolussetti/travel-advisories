@@ -1,7 +1,7 @@
 {
     "name": "Mexico",
-    "update_reason": "Natural disasters and climate \u2013 added information on flooding in central Mexico",
-    "update_date": "2025-10-11T21:51:00",
+    "update_reason": "Natural disasters and climate \u2013 removed information on flooding in central Mexico",
+    "update_date": "2025-10-20T11:50:00",
     "sections": {
         "risk": "canada/Mexico/risk.md",
         "security": "canada/Mexico/security.md",
