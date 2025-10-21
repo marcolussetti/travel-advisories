@@ -94,9 +94,9 @@ Read more [advice for LGBT+ travellers](https://www.gov.uk/guidance/lesbian-gay
 
 Police can fine you if you are jaywalking – ignoring pedestrian crossings or signals.
 
-### Photography
+### Photography and personal drones
 
-Avoid taking photographs of military or other security installations and any buildings or items of national infrastructure where there are signs prohibiting photography. This includes some border areas.
+Avoid taking photographs and flying personal drones near military or other security installations and any buildings or items of national infrastructure, including some border areas. You must comply with signs prohibiting photography and personal drone use and follow the [Polish Civil Aviation Authority’s rules](https://ulc.gov.pl/en/drones/general-information) to fly a personal drone.
 
 ## Transport risks
 

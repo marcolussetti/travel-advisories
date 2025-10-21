@@ -1,11 +1,11 @@
 {
     "name": "Poland",
-    "update_reason": "Addition of information that a drone incursion in September 2025 caused the temporary closure of Poland\u2019s airports (\u2018Safety and security\u2019 page).",
+    "update_reason": "Addition of information about taking photographs and flying personal drones near military or other security installations and any buildings or items of national infrastructure (\u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Poland/Warnings and insurance.md",
-            "update_date": "2025-10-13T10:30:44+01:00"
+            "update_date": "2025-10-20T13:10:05+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Poland/Getting help.md"
         }
     ],
-    "update_date": "2025-10-13T10:30:44+01:00"
+    "update_date": "2025-10-20T13:10:05+01:00"
 }

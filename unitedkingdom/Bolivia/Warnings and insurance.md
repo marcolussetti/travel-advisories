@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   16 October 2025
+:   21 October 2025
 
 Updated:
-:   15 October 2025
+:   20 October 2025
 
 Latest update:
-:   New information about elections in Bolivia on Sunday 19 October (‘Warnings and insurance’ page).
+:   Removal of information about elections in Bolivia which took place on Sunday 19 October.
 
 ![](https://assets.publishing.service.gov.uk/media/672ccc5a62831268b0b1a328/FCDO__TA__098_-_Bolivia_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -21,12 +21,6 @@ Your travel insurance could be invalidated if you travel against advice from the
 FCDO advises against all but essential travel to the Chapare region of Cochabamba Department including Villa Tunari and highway routes 4 and 24 that pass through Chapare.
 
 Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/bolivia/safety-and-security).
-
-## General elections
-
-The second round of general elections will take place in Bolivia on Sunday 19 October. There will be no public transport on Sunday 19 October. Very limited private transport will be allowed to operate and only with a permit. International flights will still run but there will be limited taxis with permission to travel to and from the airports.
-
-There will be restrictions on drinking alcohol and gathering in large groups from Friday 17 October until Monday 20 October. Penalties for breaching these rules are harsh and could include imprisonment.
 
 ## Before you travel
 

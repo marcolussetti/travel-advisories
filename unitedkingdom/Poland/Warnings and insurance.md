@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   14 October 2025
+:   21 October 2025
 
 Updated:
-:   13 October 2025
+:   20 October 2025
 
 Latest update:
-:   Addition of information that a drone incursion in September 2025 caused the temporary closure of Poland’s airports (‘Safety and security’ page).
+:   Addition of information about taking photographs and flying personal drones near military or other security installations and any buildings or items of national infrastructure (‘Safety and security’ page).
 
 ## Ukraine-Poland border
 
