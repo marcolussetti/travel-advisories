@@ -6,8 +6,6 @@ High Degree of Caution
 
 ### **Travel Alert**
 
-Large crowds and transport disruption can be expected in Nairobi between 16-18 October, and around Kisumu and the Bondo area of Siaya County in western Kenya on 18-19 October, due to the funeral arrangements and public mourning on the passing of a prominent Kenyan politician and public figure. Very large crowds and security presence are to be expected in particular in Nairobi CBD, the area around Nyayo Stadium and Jomo Kenyatta International Airport, and routes to and from those areas. Large crowds may also develop in other areas of the city. Flights may be delayed. We advise people to avoid these specific areas, to avoid large crowds and to follow the advice of airlines, tour operators and the local authorities in relation to any specific travel movements that you may have planned over this period, and in relation to the timing of travel to and from the airport.
-
 #### **Demonstrations and Industrial Action**
 
 Demonstrations and industrial action are taking place on a rolling basis in Kenya. Irish citizens travelling to Kenya should always monitor local media and follow the advice of local authorities. Always avoid demonstrations, as they may turn violent.

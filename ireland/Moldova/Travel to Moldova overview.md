@@ -8,7 +8,7 @@ High Degree of Caution
 
 Due to the regional security situation, Irish citizens should exercise a high degree of caution regarding travel to the Republic of Moldova. The Department of Foreign Affairs and Trade is closely monitoring the situation in Ukraine together with our EU and other international partners.  Current travel advice in relation to Ukraine is available [**here**](/en/dfa/overseas-travel/advice/ukraine/).
 
-Regularly monitor the announcements of the local authorities in Moldova respect of developing situations.
+Regularly monitor the announcements of the local authorities in Moldova in respect of developing situations.
 
 Irish citizens who wish to enter Moldova from Ukraine should do so at one of the internationally recognised border crossing points between Moldova and Ukraine in the north and south of the country. Irish citizens should not attempt to enter Moldova from Ukraine via Transnistria.
 
@@ -26,7 +26,7 @@ For more information on visa and passport requirements, please see the Entry req
 
 Visitors to Moldova are advised to follow the guidance of national and local authorities and stay fully informed of what is going on by monitoring local news and social media.
 
-Citizens can also follow the Embassy on social media (X [**@IrishEmbBuch**](https://x.com/IrishEmbBuch)) and [**Facebook**](https://www.facebook.com/IrishEmbassyBucharest)) to ensure access to relevant updates and alerts.
+Citizens can also follow Embassy Bucharest on social media (X [**@IrishEmbBuch**](https://x.com/IrishEmbBuch)) and [**Facebook**](https://www.facebook.com/IrishEmbassyBucharest)) to ensure access to relevant updates and alerts. The account for Embassy Chisinau, which is being established, is @IRLinMoldova
 
 ### **Emergency Assistance**
 
@@ -42,4 +42,4 @@ Visitors can contact the emergency services in Moldova by dialling 112.
 * Read our [**‘Know Before You Go’**](https://www.ireland.ie/en/dfa/overseas-travel/know-before-you-go-/) guide.
 * Read our [**Consular Assistance Charter**](https://www.ireland.ie/en/dfa/overseas-travel/assistance-abroad/consular-assistance-charter/) that clearly sets out the assistance that can be provided to citizens in difficulty overseas, and the limits of what the Department can do.
 
-As there is no Irish Embassy in Moldova, we are limited in the help we can offer in an emergency. However, if assistance is required, contact the [**Irish Embassy in Bucharest**](https://www.ireland.ie/en/romania/bucharest/).
+The Irish Embassy in Moldova is in the process of being established. For assistance, contact in the first instance the [**Irish Embassy in Bucharest**](https://www.ireland.ie/en/romania/bucharest/).
