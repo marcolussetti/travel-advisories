@@ -4,7 +4,7 @@
 
 ### Climate change
 
-Climate change is affecting Guam. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local media for the latest information. 
+Climate change is affecting Guam. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local media for the latest information.
 
 ### Typhoons
 
@@ -24,7 +24,7 @@ Since May 2023, following Typhoon Mawar, Guam Waterworks Authority has advised r
 
 * [Precautionary Boil Water Notice](http://guamwaterworks.org/precautionary-boil-water-notice/) – Guam Waterworks Authority
 * [Eat and drink safely](https://travel.gc.ca/travelling/health-safety/food-water)
-* [Tornadoes, cyclones, hurricanes, typhoons and monsoons](https://travel.gc.ca/travelling/health-safety/hurricanes-typhoons-cyclones-monsoons)
+* [Severe storms outside Canada](https://travel.gc.ca/travelling/health-safety/hurricanes-typhoons-cyclones-monsoons)
 * [Large-scale emergencies outside Canada](https://travel.gc.ca/assistance/emergency-info/large-scale-emergencies-abroad)
 
 ### Earthquakes and tsunamis

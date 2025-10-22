@@ -1,7 +1,7 @@
 {
     "name": "French Guiana",
-    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
-    "update_date": "2025-09-24T15:16:00",
+    "update_reason": "Editorial change",
+    "update_date": "2025-10-21T14:49:00",
     "sections": {
         "risk": "canada/French Guiana/risk.md",
         "security": "canada/French Guiana/security.md",

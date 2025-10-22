@@ -10,11 +10,7 @@
 
 [Avoid all travel](#levels "Risk Levels") to to Cabo Delgado Province due to ongoing insurgency by militants.
 
-This advisory excludes the following areas where you should avoid non-essential travel:
-
-* Balama District
-* Namuno District
-* Pemba City
+This advisory excludes Pemba City to which you should avoid non-essential travel.
 
 ### Parts of Nampula Province - Avoid all travel
 
@@ -30,10 +26,6 @@ This advisory excludes the following areas where you should avoid non-essential 
 * Marrupa
 * Mecula
 
-### Parts of Cabo Delgado Province - Avoid non-essential travel
+### Pemba City - Avoid non-essential travel
 
-[Avoid non-essential travel](#levels "Risk Levels") to the following areas of Cabo Delgado province due to the risk that the insurgency expands to these areas:
-
-* Balama District
-* Namuno District
-* Pemba City
+[Avoid non-essential travel](#levels "Risk Levels") to Pemba City due to the risk that the insurgency expands to this area.

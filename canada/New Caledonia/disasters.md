@@ -20,8 +20,8 @@ If you decide to travel to New Caledonia during the cyclone season:
 
 #### Useful links
 
-* [Tornadoes, cyclones, hurricanes, typhoons and monsoons](https://travel.gc.ca/travelling/health-safety/hurricanes-typhoons-cyclones-monsoons)
-* [Large-scale emergencies abroad](https://travel.gc.ca/assistance/emergency-info/large-scale-emergencies-abroad)
+* [Severe storms outside Canada](https://travel.gc.ca/travelling/health-safety/hurricanes-typhoons-cyclones-monsoons)
+* [Large-scale emergencies outside Canada](https://travel.gc.ca/assistance/emergency-info/large-scale-emergencies-abroad)
 * [Latest weather and alerts](http://www.meteo.nc/) – Météo France (French meteorological service) (in French)
 * [Latest cyclone news](http://www.nouvelle-caledonie.gouv.fr/Actualites) – New Caledonia’s public safety bureau (in French)
 

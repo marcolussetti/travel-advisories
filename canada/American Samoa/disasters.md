@@ -20,4 +20,7 @@ Severe rainstorms can cause flooding and landslides. Flooding and landslides hav
 
 During a cyclone, hotel guests may be required to leave accommodations near the shore and move to safety centres inland. Travel to and from outer islands may be disrupted for some days.
 
-[Tornadoes, cyclones, hurricanes, typhoons and monsoons](https://travel.gc.ca/travelling/health-safety/hurricanes-typhoons-cyclones-monsoons)
+#### Useful links
+
+* [Severe storms outside Canada](https://travel.gc.ca/travelling/health-safety/hurricanes-typhoons-cyclones-monsoons)
+* [Large-scale emergencies outside Canada](https://travel.gc.ca/assistance/emergency-info/large-scale-emergencies-abroad)

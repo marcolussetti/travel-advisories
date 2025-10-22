@@ -8,11 +8,11 @@ Climate change is affecting Trinidad and Tobago. Extreme and unusual weather eve
 
 ### Hurricane season
 
-Hurricanes usually occur from mid-May to the end of November. During this period, even small tropical storms can quickly develop into major hurricanes.
-
-These severe storms can put you at risk and hamper the provision of essential services. You could face serious safety risks during a hurricane. You should carefully consider these risks when planning a trip during hurricane season.
-
 While hurricanes rarely hit Trinidad and Tobago directly, tropical storms, and hurricanes passing to the north of the country, can cause heavy rains leading to severe flooding and landslides.
+
+The hurricane season is from early June to the end of November in the Atlantic, Caribbean Sea and Gulf of Mexico. During this period, even small tropical storms can quickly develop into major hurricanes.
+
+These severe storms can put you at risk and hamper the provision of essential services. You could face serious safety risks during a hurricane. You should carefully consider these risks when planning a trip during the hurricane season.
 
 If you decide to travel to a coastal area during the hurricane season despite the risks:
 
@@ -25,7 +25,7 @@ If you decide to travel to a coastal area during the hurricane season despite th
 
 * [Severe storms outside Canada](https://travel.gc.ca/travelling/health-safety/hurricanes-typhoons-cyclones-monsoons)
 * [Large-scale emergencies outside Canada](https://travel.gc.ca/assistance/emergency-info/large-scale-emergencies-abroad)
-* [Active storm tracking and hurricane watches and warnings](https://www.nhc.noaa.gov/) – U.S. National Hurricane Center
+* [Active storm tracking and hurricane watches and warnings](http://www.nhc.noaa.gov/) – U.S. National Hurricane Center
 
 ### Earthquakes
 

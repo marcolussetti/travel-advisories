@@ -10,4 +10,7 @@ The coast of Guyana is below sea level and protected by a sea defence and dam sy
 
 Monitor regional weather forecasts and plan accordingly.
 
-[Tornadoes, cyclones, hurricanes, typhoons and monsoons](https://travel.gc.ca/travelling/health-safety/hurricanes-typhoons-cyclones-monsoons)
+#### Useful links
+
+* [Severe storms outside Canada](https://travel.gc.ca/travelling/health-safety/hurricanes-typhoons-cyclones-monsoons)
+* [Large-scale emergencies outside Canada](https://travel.gc.ca/assistance/emergency-info/large-scale-emergencies-abroad)

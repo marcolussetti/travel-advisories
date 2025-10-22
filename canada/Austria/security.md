@@ -116,7 +116,7 @@ If you intend to participate in adventure tourism activities:
 
 Avalanches can occur in mountainous areas, especially in early and late winter. Pay careful attention to warning signs and consider carrying an avalanche beacon.
 
-[More information on avalanches](https://005gc.sharepoint.com/sites/CPT/Shared%20Documents/Travel%20Information%20Program%20-%20TIP/Travel%20Advice%20&%20Advisories/Austria/MCR%202024/MCR%20-%20AUSTRIA%20-%20V5%20-PEER%20REVIEW%20-%20EN%20-%202025-01-06.docx#_Avalanches)
+[More information on avalanches](#avalanches)
 
 ### Roads
 

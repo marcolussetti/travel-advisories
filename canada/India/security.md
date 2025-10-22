@@ -2,6 +2,8 @@
 
 ## Safety and security
 
+From October 26 to November 7, 2025, Shaheed Bhagat Singh International Airport in Chandigarh will be closed for planned runway maintenance. This could affect international and domestic flights. Contact your tour operator or airline before you travel.
+
 On May 7, 2025, the Indian military conducted air strikes on several targets in Pakistan-administered Kashmir and Punjab Province, resulting in casualties.
 
 On May 10, 2025, the Indian and Pakistani governments agreed to stop military action.
