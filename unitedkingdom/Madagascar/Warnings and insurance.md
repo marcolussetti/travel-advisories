@@ -1,28 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   15 October 2025
+:   22 October 2025
 
 Updated:
-:   14 October 2025
+:   21 October 2025
 
 Latest update:
-:   Updated information about the political and security situation following an announcement by a group within the military that it has taken control of the country  ('Warnings and insurance' page).
-
-![](https://assets.publishing.service.gov.uk/media/68d70494ef1c2f72bc1e4b27/FCDO__TA__102_-_Madagascar_Travel_Advice_Ed1__WEB_.jpg)
-
-
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/68d70616dadf7616351e4b32/FCDO__TA__102_-_Madagascar_Travel_Advice_Ed1.pdf)
-
-Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
-
-## FCDO advises against all but essential travel to Madagascar
+:   FCDO no longer advises against all but essential travel to Madagascar. Updated information about the political and security situation in Madagascar ('Warnings and insurance' page).
 
 ## Political and security situation in Madagascar
 
-Protests have taken place throughout Madagascar in recent weeks. Antananarivo has seen significant incidents of violence, including looting, which has spread to other towns and cities. Roads to Antananarivo airport have sometimes been blocked by protests and some internal and international flights have been cancelled.
-
-A group within the military announced on 14 October that it has taken control. The situation remains fluid and curfews remain in place in Antananarivo and in other cities.  If you are currently in Madagascar, follow local advice and avoid all large gatherings and political demonstrations. Check for messaging from your airline or tour operator before travelling to an airport.
+Significant protests took place in Antananarivo and other parts of Madagascar in late September and early October 2025, including incidences of violence and looting. A group within the military announced on 14 October that it had taken control, and an interim President was invested on 17 October. This appears to have been widely welcomed, and the situation is now calm. Follow local advice and avoid all large gatherings and political demonstrations.
 
 ## Before you travel
 

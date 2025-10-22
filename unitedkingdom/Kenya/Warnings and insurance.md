@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   17 October 2025
+:   22 October 2025
 
 Updated:
-:   16 October 2025
+:   21 October 2025
 
 Latest update:
-:   Addition of information about a period of national mourning following the death of former Prime Minister Raila Odinga ('Warnings and insurance' page).
+:   Addition of information on the risks from methanol poisoning ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/68cbf893b6d7ea468dbea672/FCDO__TA__055_-_Kenya_Travel_Advice_Ed6__WEB_.jpg)
 

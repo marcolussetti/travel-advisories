@@ -58,6 +58,14 @@ You can reduce the risk of spiking by:
 
 Card fraudsters may skim or clone bank cards when you pay for food or drink. You may need a police report before your credit card company will consider processing a fraud claim.
 
+### Methanol poisoning
+
+There has been an increase in cases of serious illness caused by alcoholic drinks containing methanol in popular travel destinations around the world.
+
+Even small amounts of methanol can kill. It is not possible to identify methanol in alcoholic drinks by taste or smell. See [Travel Aware Spiking and methanol poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) for information about how to reduce the risks.
+
+Seek urgent medical attention if you or someone you are travelling with show the [signs of methanol poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) after drinking.
+
 ### Illegal drugs
 
 Japan has strict laws around drug use. If the police find an illegal substance in your bloodstream, you may be charged, regardless of whether you consented or were aware of taking the drugs. If you refuse to take a test if asked to by the police, you could be arrested and detained for ‘obstructing police duties’.

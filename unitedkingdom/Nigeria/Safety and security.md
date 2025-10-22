@@ -61,10 +61,6 @@ Incidents of intercommunal violence occur frequently and often without warning t
 
 Widespread public demonstrations periodically take place across Nigeria including in major cities of Abuja and Lagos. Past protests have resulted in disruption, violence, and the security services have made use of tear gas, rubber bullets and live fire on occasion. Protests may occur with little notice. Exercise caution when travelling, limit travel after dark, avoid large crowds and gatherings, and monitor local media reporting, as well as UK Travel Advice.
 
-## State of Emergency
-
-On 18 March, a six month State of Emergency was declared in Rivers State, South-South Nigeria. The FCDO already advises against all but essential travel to Rivers State, and against all travel to riverine areas of the State. British nationals are advised to check FCDO travel advice and monitor local media reporting for further information.
-
 ## Curfews and communication blackouts
 
 The authorities impose, amend and lift curfews and restrictions on the movement of vehicles at short notice throughout Nigeria.
@@ -119,6 +115,16 @@ There is a high threat of kidnapping and other armed attacks at oil and gas faci
 Possible targets for kidnap include British nationals of Nigerian origin visiting friends and relatives, and British nationals working for international corporations. They will have connections in the country with ready access to funds. There is a possibility that criminal groups could sell people they kidnap as hostages to terrorist organisations.
 
 When arranging meetings, use a secure location. Avoid regular patterns of travel and aim to only travel during daylight hours.
+
+### Methanol poisoning
+
+There have been deaths and cases of serious illness caused by alcoholic drinks containing methanol in Nigeria.
+
+Where incidents have been reported, Nigerian authorities have sought to shut down production centres, particularly for unlicensed traditional gin. Avoid drinking unlicensed products.
+
+Even small amounts of methanol can kill. It is not possible to identify methanol in alcoholic drinks by taste or smell. See [Travel Aware Spiking and methanol poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) for information about how to reduce the risks.
+
+Seek urgent medical attention if you or someone you are travelling with show the [signs of methanol poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) after drinking.
 
 ## Laws and cultural differences
 

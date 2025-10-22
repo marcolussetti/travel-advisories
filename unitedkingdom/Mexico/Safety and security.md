@@ -72,6 +72,14 @@ Do not leave food and drinks unattended in bars and restaurants. Criminals have 
 
 Tainted alcohol has caused illness or blackouts. If you have any concerns, get advice from your tour operator or the local authorities.
 
+### Methanol poisoning
+
+There have been deaths and cases of serious illness caused by alcoholic drinks containing methanol in Mexico.
+
+Even small amounts of methanol can kill. It is not possible to identify methanol in alcoholic drinks by taste or smell. See [Travel Aware Spiking and methanol poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) for information about how to reduce the risks.
+
+Seek urgent medical attention if you or someone you are travelling with show the [signs of methanol poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) after drinking.
+
 ### Sexual assault
 
 Sexual offences have been reported in tourist areas. Take care even in areas close to hotels, and especially after dark.

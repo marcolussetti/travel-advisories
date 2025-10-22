@@ -1,11 +1,11 @@
 {
     "name": "Uganda",
-    "update_reason": "Information added on the timing of the next general election (\u2018Safety and security\u2019 page).",
+    "update_reason": "Addition of information on the risks from methanol poisoning ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Uganda/Warnings and insurance.md",
-            "update_date": "2025-07-30T16:58:25+01:00"
+            "update_date": "2025-10-21T10:25:51+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Uganda/Getting help.md"
         }
     ],
-    "update_date": "2025-07-30T16:58:25+01:00"
+    "update_date": "2025-10-21T10:25:51+01:00"
 }

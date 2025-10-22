@@ -171,6 +171,16 @@ Look after your passport, especially in major transport hubs and busy areas. Bri
 
 Drink spiking, leading to robbery, violence or abuse, can happen. Victims are often left unconscious outside. This can be life-threatening in winter. Buy your own drinks and always keep them in sight.
 
+### Methanol poisoning
+
+There have been deaths and cases of serious illness caused by alcoholic drinks containing methanol in Russia.
+
+In recent cases, deaths were linked to bootleg vodka sold in the Leningrad region. Authorities have arrested suspects, seized thousands of litres of illicit alcohol, and launched criminal investigations. In 2023, a counterfeit cider branded Mister Cider caused over 50 deaths, prompting product bans and enforcement action, but despite this, incidents have continued.
+
+Even small amounts of methanol can kill. It is not possible to identify methanol in alcoholic drinks by taste or smell. See [Travel Aware Spiking and methanol poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) for information about how to reduce the risks.
+
+Seek urgent medical attention if you or someone you are travelling with show the [signs of methanol poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) after drinking.
+
 ### Violent crime
 
 Violent criminals do not usually target foreign visitors. However, in St Petersburg gangs have targeted tourists for street crime.

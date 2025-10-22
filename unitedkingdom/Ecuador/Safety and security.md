@@ -49,6 +49,8 @@ For more information on general travel safety in Ecuador, [check the Ministry of
 
 ### Violent crime and armed robbery
 
+On 14 October, a car bomb exploded near the Mall del Sol shopping centre and the Sheraton Hotel in northern Guayaquil, resulting in multiple injuries and at least one fatality. Secondary explosions were reported on 15 October on a road connecting the provinces of Guayas and El Oro.
+
 Armed robbery is a risk throughout Ecuador. Crimes with the threat of violence, such as gunpoint robbery and home invasion, can happen throughout Ecuador.
 
 Take particular care in Esmeraldas, Guayas and Manabi provinces and get local advice on where to visit. Armed thieves have stopped vehicles and threatened passengers.
@@ -94,6 +96,14 @@ If you are a victim of kidnapping, follow the kidnapper’s instructions.
 ### Drug-assisted robbery
 
 Criminals may drug victims to rob them. Homemade versions of the drug scopolamine subdue victims and cause amnesia. Scopolamine is absorbed through the skin and can be rubbed onto your hand, face or body without you realising. Be wary if a stranger approaches your offering you something (for example, food, drinks, leaflets and perfume samples), even they’re friendly or well-dressed.
+
+### Methanol poisoning
+
+There has been an increase in cases of serious illness caused by alcoholic drinks containing methanol in popular travel destinations around the world.
+
+Even small amounts of methanol can kill. It is not possible to identify methanol in alcoholic drinks by taste or smell. See [Travel Aware Spiking and methanol poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) for information about how to reduce the risks.
+
+Seek urgent medical attention if you or someone you are travelling with show the [signs of methanol poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) after drinking.
 
 ## Laws and cultural differences
 

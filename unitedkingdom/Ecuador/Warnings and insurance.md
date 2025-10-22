@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   15 October 2025
+:   22 October 2025
 
 Updated:
-:   15 October 2025
+:   21 October 2025
 
 Latest update:
-:   On 14 October an explosion occurred in Guayaquil close to the Mall del Sol shopping centre and the Sheraton hotel. You should avoid the area and follow the instructions of the local authorities (See ‘Safety and Security’ page).
+:   New information about an explosion in Guayaquil on 14 October 2025 ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/65a1082ce96df50014f8452c/FCDO__TA__014_-_Ecuador_Travel_Advice_Ed5__WEB_.jpg)
 

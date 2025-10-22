@@ -103,6 +103,14 @@ Personal attacks, including sexual assaults, are infrequent but do happen, most
 
 For information on reputable tourist services around Peru, contact the [iPeru information service](https://www.peru.travel/en/useful-data/iperu).
 
+### Methanol poisoning
+
+There have been deaths and cases of serious illness caused by alcoholic drinks containing methanol in Peru.
+
+Even small amounts of methanol can kill. It is not possible to identify methanol in alcoholic drinks by taste or smell. See [Travel Aware Spiking and methanol poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) for information about how to reduce the risks.
+
+Seek urgent medical attention if you or someone you are travelling with show the [signs of methanol poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) after drinking.
+
 ### Money scams
 
 Counterfeit US and Peruvian banknotes are in circulation. There have been reports of street money changers in Cusco tourist areas fraudulently using Peruvian intis (former currency now out of circulation).

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   18 October 2025
+:   22 October 2025
 
 Updated:
-:   17 October 2025
+:   21 October 2025
 
 Latest update:
-:   New information about using mobile phones in Russia ('Safety and security' page).
+:   Addition of information on the risks from methanol poisoning ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/621cd8428fa8f54915f43831/FCDO__TA__059_-_Russia_Travel_Advice_Ed1__WEB_.jpg)
 

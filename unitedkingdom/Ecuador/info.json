@@ -1,11 +1,11 @@
 {
     "name": "Ecuador",
-    "update_reason": "On 14 October an explosion occurred in Guayaquil close to the Mall del Sol shopping centre and the Sheraton hotel. You should avoid the area and follow the instructions of the local authorities (See \u2018Safety and Security\u2019 page).",
+    "update_reason": "New information about an explosion in Guayaquil on 14 October 2025 ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Ecuador/Warnings and insurance.md",
-            "update_date": "2025-10-15T05:09:14+01:00"
+            "update_date": "2025-10-21T13:59:01+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Ecuador/Getting help.md"
         }
     ],
-    "update_date": "2025-10-15T05:09:14+01:00"
+    "update_date": "2025-10-21T13:59:01+01:00"
 }

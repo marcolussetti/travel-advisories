@@ -1,11 +1,11 @@
 {
     "name": "Nigeria",
-    "update_reason": "Updated that 'Free Nnamdi Kanu Now ' protests are planned in Abuja on Monday 20 October.\u00a0There may also be protests in Enugu, Bauchi, Kogi, Kano and Ekiti. ('Warnings and insurance' page).",
+    "update_reason": "Addition of information on the risks from methanol poisoning ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Nigeria/Warnings and insurance.md",
-            "update_date": "2025-10-19T19:27:11+01:00"
+            "update_date": "2025-10-21T10:24:35+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Nigeria/Getting help.md"
         }
     ],
-    "update_date": "2025-10-19T19:27:11+01:00"
+    "update_date": "2025-10-21T10:24:35+01:00"
 }

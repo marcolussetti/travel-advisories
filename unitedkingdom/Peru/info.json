@@ -1,11 +1,11 @@
 {
     "name": "Peru",
-    "update_reason": "Removal of information about the transport strike.",
+    "update_reason": "Addition of information on the risks from methanol poisoning ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Peru/Warnings and insurance.md",
-            "update_date": "2025-10-18T02:47:21+01:00"
+            "update_date": "2025-10-21T10:25:01+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Peru/Getting help.md"
         }
     ],
-    "update_date": "2025-10-18T02:47:21+01:00"
+    "update_date": "2025-10-21T10:25:01+01:00"
 }

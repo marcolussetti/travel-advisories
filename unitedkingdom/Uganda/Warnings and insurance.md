@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   31 July 2025
+:   22 October 2025
 
 Updated:
-:   30 July 2025
+:   21 October 2025
 
 Latest update:
-:   Information added on the timing of the next general election (‘Safety and security’ page).
+:   Addition of information on the risks from methanol poisoning ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/667bf1c07d26b2be17a4b36d/FCDO__TA__066_-_Uganda_Travel_Advice_Ed8__WEB_.jpg)
 

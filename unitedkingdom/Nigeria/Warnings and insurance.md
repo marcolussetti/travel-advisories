@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   20 October 2025
+:   22 October 2025
 
 Updated:
-:   19 October 2025
+:   21 October 2025
 
 Latest update:
-:   Updated that 'Free Nnamdi Kanu Now ' protests are planned in Abuja on Monday 20 October. There may also be protests in Enugu, Bauchi, Kogi, Kano and Ekiti. ('Warnings and insurance' page).
+:   Addition of information on the risks from methanol poisoning ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/68b5a5683f3e5483efdba88a/FCDO__TA__030_-_Nigeria_Travel_Advice_map__WEB_.jpg)
 
@@ -67,14 +67,6 @@ FCDO advises against all but essential travel to:
 * Imo State
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/nigeria/regional-risks).
-
-## Planned protests
-
-‘Free Nnamdi Kanu Now ‘ protests are planned in Abuja on Monday 20 October. There may also be protests in Enugu, Bauchi, Kogi, Kano and Ekiti.
-
-Protests can cause heavy traffic, roadblocks and increased security presence.
-
-Monitor local media and stay away from protests.
 
 ## Before you travel
 

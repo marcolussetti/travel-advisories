@@ -92,6 +92,14 @@ Foreign nationals using motorbike taxis (‘boda-bodas’) have been mugged. Som
 
 Travellers have been drugged and robbed on public transport and in bars. Do not accept food and drink from strangers.
 
+### Methanol poisoning
+
+There has been an increase in cases of serious illness caused by alcoholic drinks containing methanol in popular travel destinations around the world.
+
+Even small amounts of methanol can kill. It is not possible to identify methanol in alcoholic drinks by taste or smell. See [Travel Aware Spiking and methanol poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) for information about how to reduce the risks.
+
+Seek urgent medical attention if you or someone you are travelling with show the [signs of methanol poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) after drinking.
+
 ### Scams
 
 Scammers may target foreign visitors and residents. Be wary of strangers who:

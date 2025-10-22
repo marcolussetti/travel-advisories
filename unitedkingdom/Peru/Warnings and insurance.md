@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   18 October 2025
+:   22 October 2025
 
 Updated:
-:   18 October 2025
+:   21 October 2025
 
 Latest update:
-:   Removal of information about the transport strike.
+:   Addition of information on the risks from methanol poisoning ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/6645e81e993111924d9d365a/FCDO__TA__093_-_Peru_Travel_Advice_Ed3__WEB_.jpg)
 

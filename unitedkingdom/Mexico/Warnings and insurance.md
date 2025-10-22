@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   14 October 2025
+:   22 October 2025
 
 Updated:
-:   13 October 2025
+:   21 October 2025
 
 Latest update:
-:   Removal of information regarding Tropical Storm Raymond ('Warnings and insurance' page).
+:   Addition of information on the risks from methanol poisoning ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/65fabfdfaa9b76001dfbdb8a/FCDO_TA_065_-_Mexico_Travel_Advice_Ed5_WEB.jpg)
 
