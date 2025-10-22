@@ -11,7 +11,7 @@ Hovslagargatan 5,
 111 48 Stockholm,   
 Sweden
 
-[Tel: +46 (0) 8 54504040](tel:+46(0) 8 54504040)
+[Tel: +46 8 5450 4040](tel:+468 5450 4040)
 
 Postal address:
 

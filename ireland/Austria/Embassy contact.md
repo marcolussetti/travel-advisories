@@ -12,8 +12,8 @@ Rotenturmstraße 16-18
 A-1010 Vienna   
 Austria
 
-[Tel: +43 (0)1 715 4246](tel:+43(0)1 715 4246)
+[Tel: +43 1 715 4246](tel:+431 715 4246)
 
-Fax: +43 (0)1 713 6004
+Fax: +43 1 713 6004
 
 [**Contact us**](/en/austria/vienna/contact/)

@@ -10,7 +10,7 @@ Scheveningseweg 112
 2584 AE The Hague   
 The Netherlands
 
-[Tel: +31 (0)70 363 0993](tel:+31(0)70 363 0993)
+[Tel: +31 70 363 0993](tel:+3170 363 0993)
 
 Fax: + 31 70 361 7604
 

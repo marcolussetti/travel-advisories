@@ -2,8 +2,6 @@
 
 ### **Political Situation**
 
-Presidential Elections will take place on Saturday, 4 February 2024. Visitors to the country should monitor local news in the run up to the election, in case there are demonstrations.
-
 The El Salvador Constitution prohibits political activities by foreign nationals, and participation in demonstrations may result in detention and/or deportation. Visitors should avoid large gatherings or demonstrations and exercise caution in public areas.
 
 ### **Crime**

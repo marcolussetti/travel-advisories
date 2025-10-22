@@ -24,8 +24,8 @@ Le Sardanapale
 2 Avenue Princesse Grace   
 MC98000, Monaco
 
-[Tel: +33 (0) 6 14 10 00 79](tel:+33(0) 6 14 10 00 79)
+[Tel: +33 6 14 10 00 79](tel:+336 14 10 00 79)
 
-Fax: + 37 7 93 15 70 01
+Fax: +37 7 93 15 70 01
 
 **Email:** [michael.smurfit@honoraryconsul.ie](mailto:michael.smurfit@honoraryconsul.ie)

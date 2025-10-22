@@ -11,8 +11,8 @@ Rävala pst 5
 Tallinn   
 Estonia
 
-[Tel: +372 (0)6 811 870](tel:+372(0)6 811 870)
+[Tel: +372 6 811 870](tel:+3726 811 870)
 
-Fax: +372-6 814 827
+Fax: +372 6 814 827
 
 [**Contact us**](/en/estonia/tallinn/contact/)

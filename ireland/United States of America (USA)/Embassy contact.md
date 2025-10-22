@@ -64,6 +64,8 @@ USA
 
 Our consular region covers Maine, Massachusetts, New Hampshire, Rhode Island and Vermont.
 
+**Visa services for this region are provided by the** [**Embassy of Ireland, Washington D.C.**](https://www.ireland.ie/en/usa/washington/)
+
 [**Contact us**](/en/usa/boston/contact/)
 
 ### Consulate General of Ireland, Chicago
@@ -122,9 +124,9 @@ Our consular region covers Connecticut, Delaware, New Jersey, New York, Ohio and
 
 [**Contact us**](/en/usa/newyork/contact/)
 
-**Mainline:** [**+1 (212 ) 319 -2555**](tel:+1 (212 ) 319 -2555)
+**Mainline:** [**+1 212 319 2555**](tel:+1 (212 ) 319 -2555)
 
-**Passport queries:** [**+1 (212) 319-2556**](tel:+1 (212) 319-2556)
+**Passport queries:** [**+1 212 319 2556**](tel:+1 (212) 319-2556)
 
 ### Consulate General of Ireland, San Francisco
 
@@ -208,7 +210,7 @@ Amy Seigenthaler
 Nashville, TN 37203,   
 USA
 
-[Tel: +1 (615) 964-0855](tel:+1(615) 964-0855)
+[Tel: +1 615 964 0855](tel:+1615 964 0855)
 
 **Email:** [amy.seigenthaler@honoraryconsul.ie](mailto:amy.seigenthaler@honoraryconsul.ie)
 
@@ -219,7 +221,7 @@ Judge James F. McKay III
 St. 200, New Orleans   
 Louisiana 70124
 
-[Tel: +1 (504) 482-8983](tel:+1(504) 482-8983)
+[Tel: +1 504 482 8983](tel:+1504 482 8983)
 
 **Email:** [james.mckay@honoraryconsul.ie](mailto:james.mckay@honoraryconsul.ie)
 

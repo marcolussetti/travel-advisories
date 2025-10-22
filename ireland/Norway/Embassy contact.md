@@ -8,12 +8,15 @@ Monday to Friday 09:00-16:30
 
 Floor 6,   
 Haakon VIIs gate 1   
-PO Box 4006 AMB   
 0244 Oslo, Norway
 
 [Tel: +47 2201 7200](tel:+472201 7200)
 
 Fax: +47 2201 7201
+
+**Please send all visa applications and relevant documents to our postal address:**
+
+**P.O. Box 4006 AMB, 0244 Oslo, Norway**
 
 [**Contact us**](/en/norway/oslo/contact/)
 

@@ -8,7 +8,7 @@ Belize has high rates of violent crime. To avoid becoming the victim of a crime,
 * Avoid dark and unlit streets and stairways, and arrange to be picked up or dropped off as close to your hotel or apartment entrance as possible.
 * Keep a close eye on personal belongings and hold on to them in public places such as internet cafés, train and bus stations.
 
-While tourists are not normally the targets of gang violence, passers-by could be affected. Visitors should avoid unnecessary travel to the southern neighbourhoods of Belize City due to the high rate of violent crime and gang violence.
+While tourists are not normally the target of gang violence, passers-by could be affected. Visitors should avoid unnecessary travel to the southern neighbourhoods of Belize City (south of Haulover Creek) due to the high rate of violent crime and gang violence.
 
 Visitors should take particular care when entering at land borders, and only use officially recognised border crossings.
 
