@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   27 September 2025
+:   23 October 2025
 
 Updated:
-:   26 September 2025
+:   22 October 2025
 
 Latest update:
-:   New information on the increased risk to LGBT+ travellers (See 'LGBT+ travellers' on the ‘Safety and security’ page).
+:   Update to the risk of kidnapping in Niger (See the grey box under ‘Areas where FCDO advises against travel’ on the ‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/66c48e1c2e8f04b086cdf445/FCDO__TA__029_-_Niger_Travel_Advice_Ed3__WEB_.jpg)
 
@@ -18,11 +18,15 @@ Your travel insurance could be invalidated if you travel against advice from the
 
 ## Areas where FCDO advises against travel
 
-FCDO advises against all but essential travel to the capital city of Niamey, and advises against all travel to the rest of Niger.
+FCDO advises against all but essential travel to the capital city of Niamey and advises against all travel to the rest of Niger.
 
 The political situation remains unstable following the military coup in July 2023. Further instability is possible.
 
-There is an ongoing risk of terrorist attacks and kidnaps, particularly outside the capital of Niamey.
+There is an ongoing risk of terrorist attacks and kidnaps throughout Niger including in the capital, Niamey.
+
+## US Security Alert
+
+The U.S. Embassy in Niamey has issued a Security Alert warning that American citizens are at risk of kidnapping throughout Niger, including in the capital, Niamey. British citizens are equally at risk. The full [Security Alert – U.S. Embassy Niamey (October 22, 2025)](https://ne.usembassy.gov/security-alert-u-s-embassy-niamey-october-22-2025/) can be read here.
 
 ## Limited UK government support
 

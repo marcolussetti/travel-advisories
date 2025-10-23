@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   8 October 2025
+:   23 October 2025
 
 Updated:
-:   7 October 2025
+:   22 October 2025
 
 Latest update:
-:   Updated information about drink spiking and sexual assault, and that vapes and related products are banned in Vietnam (‘Safety and security’ page).
+:   Updated information about bringing prescribed medicine into Vietnam ('Health' page).
 
 ## Tropical storm season
 

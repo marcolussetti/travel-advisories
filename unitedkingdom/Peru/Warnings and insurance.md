@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   22 October 2025
+:   23 October 2025
 
 Updated:
-:   21 October 2025
+:   22 October 2025
 
 Latest update:
-:   Addition of information on the risks from methanol poisoning ('Safety and security' page).
+:   New information on a State of Emergency in Lima and Callao (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/6645e81e993111924d9d365a/FCDO__TA__093_-_Peru_Travel_Advice_Ed3__WEB_.jpg)
 
@@ -32,6 +32,10 @@ FCDO advises against all but essential travel to the Valley of the Apurímac, En
 We advise against all but essential travel to these two areas for safety and security reasons.
 
 Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/peru/regional-risks).
+
+## State of Emergency declared in Lima and Callao
+
+A 30-day State of Emergency has been declared in Lima and Callao, effective from 22 October. Avoid large gatherings and protests. There will be increased security patrols and a visible presence of armed forces on the streets. Follow the instructions of police and local authorities.
 
 ## Before you travel
 

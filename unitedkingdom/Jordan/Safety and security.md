@@ -26,7 +26,7 @@ Examples of significant attacks include:
 * in 2019, 8 people injured in a knife attack in the Roman site in Jerash
 * in 2018, 2 officers killed and several others injured in Fuheis when an explosive device destroyed a gendarmerie vehicle
 
-## Situation in Israel, Lebanon, and the Occupied Palestinian Territories
+## Situation in Israel, Lebanon, and Palestine
 
 Following hostilities in Israel, Lebanon, the West Bank and Gaza, the security situation could change suddenly.
 

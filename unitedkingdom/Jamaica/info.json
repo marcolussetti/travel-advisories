@@ -1,11 +1,11 @@
 {
     "name": "Jamaica",
-    "update_reason": "Addition of information on hurricane season (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Additional information on Tropical Storm Melissa.  See 'Warnings and Insurance\u2019 page, and \u2018Extreme weather and natural disasters\u2019 on the \u2018Safety and security\u2019 page.",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Jamaica/Warnings and insurance.md",
-            "update_date": "2025-06-06T10:48:07+01:00"
+            "update_date": "2025-10-22T21:15:42+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Jamaica/Getting help.md"
         }
     ],
-    "update_date": "2025-06-06T10:48:07+01:00"
+    "update_date": "2025-10-22T21:15:42+01:00"
 }

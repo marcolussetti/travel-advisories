@@ -47,7 +47,7 @@ Read [best practice when travelling with medicines on TravelHealthPro](https://
 
 Vietnam has restrictions on medicines it classifies as ‘addictive’ or ‘psychotropic’. These include medicine used to treat of addiction, anxiety, depression, insomnia and other conditions.
 
-It is illegal to have more than the amount prescribed by a doctor for 7 days (addictive medicine) or 10 days (psychotropic medicine). You should carry the prescription with your medication and a letter from your doctor stating how much of the medication you need during your trip.
+It is illegal to have more than 7 days of prescribed medicine by a doctor (addictive and psychotropic medicine). You should carry the prescription with your medication and a letter from your doctor stating how much of the medication you need during your trip.
 
 The letter can be in English and should:
 

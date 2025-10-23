@@ -1,11 +1,11 @@
 {
     "name": "Vietnam",
-    "update_reason": "Updated information about drink spiking and sexual assault, and that vapes and related products are banned in Vietnam (\u2018Safety and security\u2019 page).",
+    "update_reason": "Updated information about bringing prescribed medicine into Vietnam ('Health' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Vietnam/Warnings and insurance.md",
-            "update_date": "2025-10-07T10:54:32+01:00"
+            "update_date": "2025-10-22T14:50:58+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Vietnam/Getting help.md"
         }
     ],
-    "update_date": "2025-10-07T10:54:32+01:00"
+    "update_date": "2025-10-22T14:50:58+01:00"
 }

@@ -8,7 +8,7 @@ You should also read [FCDO’s overall travel advice](/foreign-travel-advice/jor
 
 The roads within Jordan and land border crossings between Jordan and Israel and the West Bank can close at no notice.
 
-See [Israel travel advice](https://www.gov.uk/foreign-travel-advice/israel) and [Occupied Palestinian Territories travel advice](https://www.gov.uk/foreign-travel-advice/the-occupied-palestinian-territories) and check with the Jordanian authorities before crossing.
+See [Israel travel advice](https://www.gov.uk/foreign-travel-advice/israel) and [Palestine travel advice](https://www.gov.uk/foreign-travel-advice/palestine) and check with the Jordanian authorities before crossing.
 
 ## Border areas
 
@@ -28,7 +28,7 @@ FCDO advises against all travel to the provinces in Iraq bordering Jordan. See [
 
 ### Jordan-Israel border
 
-Due to the conflict in Israel and the Occupied Palestinian Territories, several Jordanian organisations hold protests near the border on Fridays. Be particularly cautious in areas close to the border.
+Due to the conflict in Israel and Palestine, several Jordanian organisations hold protests near the border on Fridays. Be particularly cautious in areas close to the border.
 
 [Previous
 :

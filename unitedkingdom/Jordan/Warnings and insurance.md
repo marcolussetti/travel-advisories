@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 July 2025
+:   23 October 2025
 
 Updated:
-:   10 July 2025
+:   22 October 2025
 
 Latest update:
-:   New information about pre-booking departure via the land border crossing at King Hussein/Allenby Bridge ('Entry requirements' page).
+:   New information about visit visas and being required to provide biometrics if you are visiting Jordan for purposes other than tourism ('Entry requirements' page).
 
 ![](https://assets.publishing.service.gov.uk/media/65bbcf944965c50010e8a3f1/FCDO__TA__087_-_Jordan_Travel_Advice_Ed2__WEB_.jpg)
 

@@ -28,33 +28,41 @@ If your passport has an Israeli stamp, you will not usually experience difficult
 
 You must have a visa to visit Jordan.
 
-If you wish to also visit Israel and the Occupied Palestinian Territories and re-enter Jordan, you can get a multiple-entry visa from the [Jordanian Embassy in the UK](https://www.mfa.gov.jo/en/embassy/London).
+If you wish to also visit Israel or Palestine and re-enter Jordan, you can get a multiple-entry visa from the [Jordanian Embassy in the UK](https://www.mfa.gov.jo/en/embassy/London).
 
-### Applying for a visa
+### Applying for a visit visa
 
 You can buy a single-entry visit visa when you arrive at a Jordanian airport or the Sheikh Hussein/North Border land crossing. It costs 40 Jordanian dinars and is valid for one month. Some airlines may ask you to submit a health declaration at check-in. Check with your airline.
 
-If you’re visiting for tourism, and you will stay at least 3 nights in Jordan, you can [apply for a Jordan Pass online](https://www.jordanpass.jo/) before you arrive. A Jordan Pass will allow you to enter Jordan and gives discounted entry to major tourist sites.
+If you’re visiting for tourism, and you will stay at least 3 nights in Jordan, you can [apply for a Jordan Pass online](https://www.jordanpass.jo/) before you arrive. A Jordan Pass costs between JOD 70 and 80 which includes the visa fee and and gives discounted entry to major tourist sites. You should only purchase a Jordan Pass from the official website. The Jordan Pass is valid for 1 month from date of entry and can be extended at any police station.
 
-You can [extend your Jordan visa online](https://eservices.moi.gov.jo/MOI_EVISA/faces/Pages/Runnables/login.jsf) for up to 6 months. You could get a fine if you overstay.
+You can [extend your Jordan visit visa online](https://eservices.moi.gov.jo/MOI_EVISA/faces/Pages/Runnables/login.jsf) for up to 6 months. You could get a fine if you overstay.
+
+### Visiting Jordan for purposes other than tourism
+
+If you are visiting Jordan for purposes other than tourism, you must apply for your visa in advance [online](https://moi.gov.jo/EN/Pages/Visa_E_Applications). This includes travel for the purposes of work or study.
+
+If you are planning to remain in Jordan for more than 14 days, you must report to the police station with a residency extension office that is nearest to your place of residence. You will be required to provide your biometrics (fingerprint and iris scan).
+
+Failure to report within 14 days of arrival will result in a fine of JOD 200 to be paid upon leaving the country. This rule applies to anyone who entered Jordan after 1 October 2025, but not to holders of annual residency visas, tourists, pilgrims, or transit visa holders.
 
 ## Land border crossings
 
-There are three land border crossings from Israel and the Occupied Palestinian Territories.  They are open most days from 8 or 8.30am.  Closures may happen at no notice, including over the weekend.
+There are three land border crossings from Israel and Palestine.  They are open most days from 8 or 8.30am. Closures may happen at no notice, including over the weekend.
 
 * King Hussein/Allenby Bridge
 * The Northern (Sheikh Hussein/Jordan River Crossing) crossing
 * The Southern (Wadi Araba/Yitzhak Rabin) crossing
 
-Those traveling from Israel and the OPTs should refer to [Israel travel advice - GOV.UK](https://www.gov.uk/foreign-travel-advice/israel)
+Those traveling from Israel or Palestine should refer to [Israel’s travel advice](https://www.gov.uk/foreign-travel-advice/israel) and [Palestine’s travel advice](https://www.gov.uk/foreign-travel-advice/palestine).
 
-The King Hussein Bridge/Allenby crossing is not an international crossing between Jordan and the Occupied Palestinian Territories or Israel. You cannot enter Jordan using the King Hussein Bridge/Allenby crossing without getting a visa beforehand. You can get a visa from the [Jordanian Ministry of Interior](https://eservices.moi.gov.jo/MOI_EVISA/faces/Pages/Runnables/login.jsf).
+The King Hussein Bridge/Allenby crossing is not an international crossing between Jordan and Palestine or Israel. You cannot enter Jordan using the King Hussein Bridge/Allenby crossing without getting a visa beforehand. You can get a visa from the [Jordanian Ministry of Interior](https://eservices.moi.gov.jo/MOI_EVISA/faces/Pages/Runnables/login.jsf).
 
 If you are travelling on a British passport, you do not need to prebook to leave Jordan via the King Hussein/Allenby Bridge.
 
-If you have entered Jordan using a non-British passport you may need to prebook to enter Israel or the Occupied Palestinian Territories via the King Hussein/Allenby Bridge. Bookings are made via [Jordan Express Tourist Transport Company](https://jett-khb.com.jo/about), at busy times they can be booked up several days in advance.
+If you have entered Jordan using a non-British passport you may need to prebook to enter Israel or Palestine via the King Hussein/Allenby Bridge. Bookings are made via [Jordan Express Tourist Transport Company](https://jett-khb.com.jo/about), at busy times they can be booked up several days in advance.
 
-If you wish to combine travel to Jordan with a visit to Israel and the Occupied Palestinian Territories, you can get a multiple-entry visa before you travel from the [Jordanian Ministry of Interior](https://eservices.moi.gov.jo/MOI_EVISA/faces/Pages/Runnables/login.jsf). You should also check the [Israel travel advice](https://www.gov.uk/foreign-travel-advice/israel) before using the land borders to enter Israel.
+If you wish to combine travel to Jordan with a visit to Israel or Palestine, you can get a multiple-entry visa before you travel from the [Jordanian Ministry of Interior](https://eservices.moi.gov.jo/MOI_EVISA/faces/Pages/Runnables/login.jsf). You should also check the [Israel travel advice](https://www.gov.uk/foreign-travel-advice/israel) before using the land borders to enter Israel.
 
 On the Jordanian side, board guards will stamp passports unless the traveller requests otherwise and tells them before they hand over their passport.
 

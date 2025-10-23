@@ -1,11 +1,11 @@
 {
     "name": "Peru",
-    "update_reason": "Addition of information on the risks from methanol poisoning ('Safety and security' page).",
+    "update_reason": "New information on a State of Emergency in Lima and Callao (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Peru/Warnings and insurance.md",
-            "update_date": "2025-10-21T10:25:01+01:00"
+            "update_date": "2025-10-22T16:39:25+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Peru/Getting help.md"
         }
     ],
-    "update_date": "2025-10-21T10:25:01+01:00"
+    "update_date": "2025-10-22T16:39:25+01:00"
 }

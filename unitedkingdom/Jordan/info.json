@@ -1,11 +1,11 @@
 {
     "name": "Jordan",
-    "update_reason": "New information about pre-booking departure via the land border crossing at King Hussein/Allenby Bridge ('Entry requirements' page).",
+    "update_reason": "New information about visit visas and being required to provide biometrics if you are visiting Jordan for purposes  other than tourism ('Entry requirements' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Jordan/Warnings and insurance.md",
-            "update_date": "2025-07-10T15:34:53+01:00"
+            "update_date": "2025-10-22T16:36:44+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Jordan/Getting help.md"
         }
     ],
-    "update_date": "2025-07-10T15:34:53+01:00"
+    "update_date": "2025-10-22T16:36:44+01:00"
 }
