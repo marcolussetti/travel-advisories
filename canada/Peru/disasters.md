@@ -16,7 +16,8 @@ Seasonal flooding, mudslides and landslides can hamper overland travel and reduc
 
 * [Emergency monitoring](https://portal.indeci.gob.pe/emergencias/) – National Institute of Civil Defence (in Spanish)
 * [Nationwide weather warnings](https://www.senamhi.gob.pe/?&p=aviso-meteorologico) – National Meteorology and Hydrology Service of Peru (in Spanish)
-* [Tornadoes, cyclones, hurricanes, typhoons and monsoons](https://travel.gc.ca/travelling/health-safety/hurricanes-typhoons-cyclones-monsoons)
+* [Severe storms outside Canada](https://travel.gc.ca/travelling/health-safety/hurricanes-typhoons-cyclones-monsoons)
+* [Large-scale emergencies outside Canada](https://travel.gc.ca/assistance/emergency-info/large-scale-emergencies-abroad)
 
 ### El Niño
 

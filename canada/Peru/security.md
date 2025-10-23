@@ -2,6 +2,23 @@
 
 ## Safety and security
 
+### State of emergency
+
+On October 22, 2025, the Peruvian government declared a 30-day state of emergency in the provinces of Lima and Callao to curb a rise in violent crime.
+
+The Peruvian government frequently declares regional states of emergency, particularly near the northern border, due to the security situation in Ecuador. A state of emergency allows the military to assist police forces to respond to security incidents and natural disasters. When a state of emergency is in effect, security forces have increased rights to:
+
+* restrict freedom of movement
+* monitor correspondence
+* conduct search and seizures
+* detain persons of interest
+
+If you’re in Peru:
+
+* monitor local media for the latest information
+* always carry valid identification
+* follow the instructions of local authorities
+
 ### Demonstrations and strikes
 
 Demonstrations and strikes take place regularly throughout the country. Strikes can complicate travel and disrupt public transport and services, including your ability to travel to or leave isolated tourist destinations such as Machu Picchu. They could also lead to border closures with Bolivia. Protestors may also block rivers essential for transportation in some remote regions, including the Manu region of Madre de Dios and Iquitos region. This may result in the temporary detainment of tourists.
@@ -15,20 +32,6 @@ Peruvian law prohibits political activities by foreigners. You may face detentio
 * Consult local media to be aware of strikes and demonstrations that may affect your stay or travel plans
 
 [Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
-
-### State of Emergency
-
-The Peruvian government frequently declares regional states of emergency, particularly near the northern border, due to the security situation in Ecuador. A state of emergency allows the military to assist police forces to respond to security incidents and natural disasters. When a state of emergency is in effect, security forces have increased rights to:
-
-* restrict freedom of movement
-* monitor correspondence
-* conduct search and seizures
-* detain persons of interest
-
-If you’re in Peru:
-
-* monitor local media for the latest information
-* follow the instructions of local authorities
 
 ### Border area with Colombia
 

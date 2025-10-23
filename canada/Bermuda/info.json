@@ -1,7 +1,7 @@
 {
     "name": "Bermuda",
-    "update_reason": "Risk level \u2013 take normal security precautions in Bermuda; Natural disasters and climate \u2013 removed information on Hurricane Imelda",
-    "update_date": "2025-10-02T11:38:00",
+    "update_reason": "Editorial change",
+    "update_date": "2025-10-22T11:35:00",
     "sections": {
         "risk": "canada/Bermuda/risk.md",
         "security": "canada/Bermuda/security.md",

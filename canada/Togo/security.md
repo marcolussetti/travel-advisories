@@ -12,7 +12,7 @@ Further attacks may occur with little or no warning.
 
 ### Savanes Region
 
-The increased presence of extremist groups in the Savanes Region has led to an increased risk of attack and kidnapping. A state of emergency is in effect until March 2025. Foreign travelers making their way to this region are required to obtain written travel authorization issued by the Ministry of Armed Forces of the Togolese Republic.
+The increased presence of extremist groups in the Savanes Region has led to an increased risk of attacks and kidnappings. A state of emergency is in effect and foreign travelers making their way to this region must obtain written travel authorization issued by the Ministry of Armed Forces of the Togolese Republic.
 
 ### Crime
 
