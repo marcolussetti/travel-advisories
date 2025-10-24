@@ -1,21 +1,21 @@
 # Warnings and insurance
 
 Still current at:
-:   7 October 2025
+:   24 October 2025
 
 Updated:
-:   6 October 2025
+:   23 October 2025
 
 Latest update:
-:   Updated with information about the new Entry/Exit System (EES) which will start to be rolled out on 12 October to people travelling into the EU (‘Entry requirements’ page).
+:   New information about the upcoming Winter Olympics and Paralympic games planned to take place from 6 to 22 February and 6 to 15 March 2025 (‘Warnings and insurance’ and ‘Safety and security’ pages).
 
 This travel advice also covers Vatican City.
 
-## Jubilee 2025 - Holy Year
+## Winter Olympics (Milano Cortina) 2026
 
-The Jubilee, known as the Holy Year, will take place in Rome from 24 December 2024 to 6 January 2026.
+The Winter Olympics and Paralympics will take place in Italy from 6 to 22 February and 6 to 15 March 2025.
 
-The city is expected to be very busy, if you are planning to travel to Rome during this time, see our Jubilee 2025 - Holy Year information in [Safety and security](https://www.gov.uk/foreign-travel-advice/italy/safety-and-security#Jubilee-2025-Holy-Year).
+If you are planning to travel to Italy during these times, see the [Winter Olympics page](https://www.gov.uk/foreign-travel-advice/italy/winter-olympics) for more information.
 
 ## Before you travel
 

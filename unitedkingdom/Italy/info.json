@@ -1,11 +1,11 @@
 {
     "name": "Italy",
-    "update_reason": "Updated with information about the new Entry/Exit System (EES) which will start to be rolled out on 12 October to people travelling into the EU (\u2018Entry requirements\u2019 page).",
+    "update_reason": "New information about the upcoming Winter Olympics and Paralympic games planned to take place from 6 to 22 February and 6 to 15 March 2025 (\u2018Warnings and insurance\u2019 and \u2018Safety and security\u2019 pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Italy/Warnings and insurance.md",
-            "update_date": "2025-10-06T16:11:04+01:00"
+            "update_date": "2025-10-23T12:45:14+01:00"
         },
         {
             "title": "Entry requirements",
@@ -18,6 +18,11 @@
             "file": "unitedkingdom/Italy/Safety and security.md"
         },
         {
+            "title": "Winter Olympics",
+            "url": "https://www.gov.uk/foreign-travel-advice/italy/winter-olympics",
+            "file": "unitedkingdom/Italy/Winter Olympics.md"
+        },
+        {
             "title": "Health",
             "url": "https://www.gov.uk/foreign-travel-advice/italy/health",
             "file": "unitedkingdom/Italy/Health.md"
@@ -28,5 +33,5 @@
             "file": "unitedkingdom/Italy/Getting help.md"
         }
     ],
-    "update_date": "2025-10-06T16:11:04+01:00"
+    "update_date": "2025-10-23T12:45:14+01:00"
 }

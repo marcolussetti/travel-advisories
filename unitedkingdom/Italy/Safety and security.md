@@ -22,27 +22,6 @@ Demonstrations can happen with little or no warning in cities. Avoid any protest
 
 Rome expects a high number of visitors throughout the Holy Year of 2025, particularly during large events.
 
-### Jubilee Events
-
-Check the [official Jubilee website](https://www.iubilaeum2025.va/en/pellegrinaggio/calendario-giubileo.html) or download the [Jubilee app](https://www.iubilaeum2025.va/en/applicazione.html) for a calendar of events and to stay informed of anything that might affect your travel or plans whilst in Rome.
-
-### Pilgrim’s card
-
-If you are planning to take part in the Jubilee, [get a free digital Pilgrim’s card](https://www.iubilaeum2025.va/en/carta-del-pellegrino.html). You will need this to take part in the main Jubilee events and to organise a pilgrimage to the Holy Doors of the 4 Papal Basilicas of Rome: St Peter’s in the Vatican, St John Lateran, St Mary Major and St Paul Outside the Walls.
-
-### Transport around the city
-
-Transport routes around the city will be very busy. Local authorities may ask you to enter or leave by specific routes. Make sure you:
-
-* plan your journey
-* leave plenty of time, particularly during large events
-
-For information on public transport in Rome during the Jubilee, see the [Rome public transport website](https://www.atac.roma.it/en/tickets-and-passes)  or use the [Rome city journey planner](https://viaggiacon.atac.roma.it/).
-
-### Increased risk of petty crime
-
-The higher number of travellers during the Holy Year could increase levels of petty crime.
-
 ## Crime
 
 Crime levels are generally low but there are higher levels of petty crime, particularly bag-snatching and pickpocketing, in city centres and at major tourist attractions.
@@ -60,17 +39,17 @@ Be aware that if your passport is stolen, you cannot use a police report to leav
 
 ### Public transport
 
-Take care on public transport, in crowded areas and in city centres, including main stations – particularly in and around Termini station in Rome as well as the metro.
+Take care on public transport, in crowded areas and in city centres, including main train and metro stations.
 
 Be particularly careful with your belongings:
 
-* on trains to and from airports
-* at cruise ship ports
-* when unloading your baggage from trains and coaches
+* on public transport
+* at airports
+* at tourist sites and local bars, cafes and restaurants
 
 ### Theft from cars
 
-Thefts from parked cars happen in Rome, particularly in the Colosseum area, Ostia, Milan and Pisa. Thieves also target coastal areas and towns, and motorway service stations. Avoid leaving luggage in your vehicle – even out of sight in the boot – for any length of time.
+Thefts from parked cars is common across the country. Avoid leaving luggage in your vehicle, even out of sight in the boot, for any length of time.
 
 Thieves may use a variety of methods to distract you or encourage you to stop your car, including asking for help or directions or pointing out a fictional fault with your car.
 
@@ -92,7 +71,7 @@ Airports in Italy have excellent technology and security for detecting illegal i
 
 ### Public transport regulations
 
-You must validate your tickets on public transport before you start your journey. Officials patrol public transport and will issue an on-the-spot fine of 100 to 500 euros (reduced to 50 euros if paid immediately) if you do not have a validated ticket.
+If you buy a ticket from a kiosk or machine, you must validate it on public transport before you start your journey. Officials patrol public transport and will issue an on-the-spot fine if you do not have a validated ticket. Some buses and trams accept onboard contactless payment.
 
 ### Tourist tax
 
@@ -111,7 +90,7 @@ Some Italian towns and cities have specific laws, and you could be fined for bre
 * eating and drinking next to main churches, historic monuments and public buildings
 * defacing historic monuments
 
-It’s also an offence to enter or bathe in public fountains in many towns and cities, including Florence and Rome. You could face a fine of up to 10,000 euros for urinating in a public place.
+It’s also an offence to enter or bathe in public fountains in many towns and cities, including Florence and Rome or swim in the canals in Venice. You could face a fine of up to 10,000 euros for urinating in a public place.
 
 On the island of Capri, you must not use or bring on to the island any disposable plastic objects such as bags, cutlery, plates, cups, food packaging, trays and straws. If you do, you could be fined up to 500 euros.
 
@@ -215,7 +194,7 @@ Many parts of Italy lie on a major seismic fault line, which means that minor tr
 
 ### Volcanoes
 
-Due to volcanic activity, local authorities have increased the alert levels for both Etna and Stromboli in the south of Italy. In the event of a volcanic eruption, follow the advice of local authorities.
+Due to volcanic activity, local authorities have increased the alert levels for Stromboli in the south of Italy. In the event of a volcanic eruption, follow the advice of local authorities.
 
 Airspace can be affected during eruptions. If you are travelling to or from Catania, during a period of heightened activity, check with your travel provider or with [Catania airport](https://www.aeroporto.catania.it/).
 
@@ -229,6 +208,6 @@ Entry requirements](/foreign-travel-advice/italy/entry-requirements)
 
 [Next
 :
-Health](/foreign-travel-advice/italy/health)
+Winter Olympics](/foreign-travel-advice/italy/winter-olympics)
 
 [View a printable version of the whole guide](/foreign-travel-advice/italy/print)

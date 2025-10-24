@@ -74,7 +74,7 @@ Read [FCDO guidance on travel and mental health](https://www.gov.uk/guidance/men
 
 [Previous
 :
-Safety and security](/foreign-travel-advice/italy/safety-and-security)
+Winter Olympics](/foreign-travel-advice/italy/winter-olympics)
 
 [Next
 :

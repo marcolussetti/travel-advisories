@@ -1,21 +1,23 @@
 # Warnings and insurance
 
 Still current at:
-:   23 October 2025
+:   24 October 2025
 
 Updated:
-:   22 October 2025
+:   23 October 2025
 
 Latest update:
-:   Additional information on Tropical Storm Melissa. See 'Warnings and Insurance’ page, and ‘Extreme weather and natural disasters’ on the ‘Safety and security’ page.
+:   Further information on Tropical Storm Melissa ('Warnings and insurance')
 
 ## Tropical Storm Melissa
 
-Tropical Storm Watch is in effect for Jamaica based on the current weather projections for Tropical Storm Melissa. Tropical storm conditions, especially the threat of heavy rain, could pose a possible threat to Jamaica. Local authorities are continuing to monitor and update on the progress of Tropical Storm Melissa. Advice remains to stay informed by monitoring local and international weather updates, including from the [Meteorological Service for Jamaica](https://metservice.gov.jm/) and the [US National Hurricane Centre](https://www.nhc.noaa.gov/), and follow the guidance of local authorities, especially in the event of evacuation orders. See ‘Extreme weather and natural disasters’ on the [‘Safety and security’ page](https://www.gov.uk/foreign-travel-advice/jamaica/safety-and-security)
+Tropical Storm Melissa is expected to intensify over the coming days. A Tropical Storm Warning and Hurricane Watch are in effect for Jamaica based on the current weather projections. Weather conditions, such as heavy rain and sustained winds, are expected to affect portions of Jamaica.
+
+Local authorities are continuing to monitor and update on the progress of Tropical Storm Melissa. Advice remains to stay informed by monitoring local and international weather updates, including from the [Meteorological Service for Jamaica](https://metservice.gov.jm/) and the [US National Hurricane Centre](https://www.nhc.noaa.gov/), and follow the guidance of local authorities, especially in the event of evacuation orders. See ‘Extreme weather and natural disasters’ on the [‘Safety and security’ page](https://www.gov.uk/foreign-travel-advice/jamaica/safety-and-security)
 
 ## Hurricane season
 
-Hurricane season runs from June to November. Stay informed by monitoring local and international weather updates, including from the US National Hurricane Centre (https://www.nhc.noaa.gov/), and follow the guidance of local authorities, especially in the event of evacuation orders. See ‘Extreme weather and natural disasters’ on the [‘Safety and security’ page](https://www.gov.uk/foreign-travel-advice/jamaica/safety-and-security).
+Hurricane season runs from June to November. Stay informed by monitoring local and international weather updates, including from the [US National Hurricane Centre](https://www.nhc.noaa.gov/), and follow the guidance of local authorities, especially in the event of evacuation orders. See ‘Extreme weather and natural disasters’ on the [‘Safety and security’ page](https://www.gov.uk/foreign-travel-advice/jamaica/safety-and-security).
 
 ## Before you travel
 
