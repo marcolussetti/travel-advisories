@@ -1,7 +1,7 @@
 {
     "name": "Dominican Republic",
-    "update_reason": "Need help? \u2013 added information on the temporary closure of the Embassy of Canada to the Dominican Republic",
-    "update_date": "2025-10-22T12:55:00",
+    "update_reason": "Need help? \u2013 removed information on the temporary closure of the Embassy of Canada to the Dominican Republic",
+    "update_date": "2025-10-23T15:56:00",
     "sections": {
         "risk": "canada/Dominican Republic/risk.md",
         "security": "canada/Dominican Republic/security.md",

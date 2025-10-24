@@ -2,6 +2,6 @@
 
 ## Risk level
 
-### Jamaica - Exercise a high degree of caution
+### Jamaica - AVOID NON-ESSENTIAL TRAVEL
 
-[Exercise a high degree of caution](#levels "Risk Levels") in Jamaica due to the high level of violent crime, particularly outside tourist areas.
+[Avoid non-essential travel](#levels "Risk Levels") to Jamaica due to Tropical Storm Melissa.
