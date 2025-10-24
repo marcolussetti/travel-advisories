@@ -2,11 +2,9 @@
 
 ### **Political Situation**
 
-Citizens should exercise a high degree of caution if travelling to Eswatini. In particular citizens should avoid protests, demonstrations or marches. Protests and demonstrations that broke out in 2021 resulted in significant damage and loss of life, and civil unrest continues, including rising crime, arson attacks, and violent incidents. The security situation can change suddenly, and travellers should remain vigilant for any signs of disturbances.
+Public protest, demonstrations and strikes can occur occasionally in Eswatini. The last significant protests broke out in 2021 and resulted in significant damage and loss of life, while a series of security-related incidents continued in 2022. As of 2025, the security situation has improved significantly, but travellers should remain vigilant for any signs of disturbances, and avoid protests, demonstrations or marches.
 
-Irish citizens should monitor local and social media for updates and follow the advice of local authorities.
-
-We further advise all Irish citizens in Eswatini to stay in touch with other EU citizens where possible and also to get in touch with the EU Delegation to ensure that you are updated on the current situation.
+Irish citizens should monitor local and social media for updates and follow the advice of local authorities and the EU Delegation in Eswatini.
 
 [**https://www.eeas.europa.eu/delegations/eswatini\_en**](https://www.eeas.europa.eu/delegations/eswatini_en)
 

@@ -8,7 +8,14 @@ High Degree of Caution
 
 ### **States of Emergency**
 
-States of Emergency are in force throughout many regions of Peru, and can be declared at short notice . A State of Emergency declared for security reasons gives the armed forces responsibility for law and order. A State of Emergency declared for natural disasters or health alerts means that the standard service providers in the region cannot guarantee normal services and frequently need help from central government; however, in these cases the armed forces do not take responsibility for law and order.
+States of Emergency are in force throughout many regions of Peru, and can be declared at short notice.
+
+A State of Emergency has been declared for 30 days, effective from Wednesday 22 October in the following areas:
+
+* **Lima**
+* **Callao**
+
+A State of Emergency declared for security reasons gives the armed forces responsibility for law and order. A State of Emergency declared for natural disasters or health alerts means that the standard service providers in the region cannot guarantee normal services and frequently need help from central government; however, in these cases the armed forces do not take responsibility for law and order.
 
 When a state of emergency is in effect, security forces have increased rights to restrict freedom of movement, conduct search and seizures, and detain persons of interest.
 
@@ -16,7 +23,7 @@ If visitors find themselves in any area under a state of emergency they should f
 
 ### **Protests, Demonstrations, and Roadblocks**
 
-Protests, demonstration, and roadblocks can develop quickly, and have the potential to turn violent at any time. Protests in Lima often happen in the historic centre, but can also spread to other areas, including popular tourist areas such as Miraflores . Other regions that have seen protests include Arequipa, Ayacucho, Cusco, La Libertad, Madre de Dios and Puno.
+Protests, demonstrations, and roadblocks can develop quickly, and have the potential to turn violent at any time. Protests in Lima often happen in the historic centre, but can also spread to other areas, including popular tourist areas such as Miraflores . Other regions that have seen protests include Arequipa, Ayacucho, Cusco, La Libertad, Madre de Dios and Puno.
 
 Irish citizens throughout Peru should avoid areas where demonstrations, large gatherings, or roadblocks are taking place and follow the instructions of local authorities.
 

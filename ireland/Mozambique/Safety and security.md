@@ -1,10 +1,6 @@
 ## Safety and security
 
-### **Political Stability/Unrest**
-
-There has been significant unrest in Mozambique since the elections of 9 October 2024. The situation has improved in recent months, but the possibility of future unrest remains. Protests and demonstrations may occur at short notice and cause disruption to services, supply chains, roads, transport, borders, and mobile and Wi-Fi networks.
-
-Please pay attention to your surroundings, stay away from crowds, monitor the local media, and follow instructions from the authorities.
+**Political Stability/Unrest**
 
 Any Irish citizens already in Mozambique are advised not to travel to the province of Cabo Delgado, due to a series of armed attacks on local civilians and security forces since October 2017. These attacks have resulted in the loss of life and destruction of property, including the burning of vehicles and homes. In particular, you are advised to avoid travelling to the districts of Mocímboa da Praia, Macomia, Palma, Nangade, Quissanga, Mueda, Ibo, Meluco, Ancuabe, Chiure, Metuge and Muidumbe, including islands off the coast.
 
@@ -13,6 +9,10 @@ In September 2022, attacks spread to Erati and Memba districts in northern Nampu
 If you decide to travel to Cabo Delgado, please be aware there is an increased security presence on the ground, and you should follow the advice of local authorities. You should also closely monitor national, local and social media for any updates.
 
 You are advised to remain vigilant if traveling by road in Sofala province due to several armed attacks on vehicular traffic since August 2019. These attacks have targeted both civilians and members of the security forces. In particular, you are advised to avoid non-essential travel on the EN1 between the towns of Inchope and Gorongosa, and on the EN6 between Tica and Inchope.
+
+Several months of unrest followed contested elections in October 2024. The situation has improved significantly in recent months, but a reduced possibility of future unrest remains.
+
+In the event of increased unrest, please pay attention to your surroundings, stay away from crowds, monitor the local media, and follow instructions from the authorities. Unplanned demonstrations may occur at short notice and cause disruption to roads, toll booths and borders.
 
 ### **Terrorism**
 

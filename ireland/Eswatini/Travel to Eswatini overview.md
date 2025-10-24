@@ -6,7 +6,7 @@ High Degree of Caution
 
 ### **Travel Alert**
 
-Citizens should exercise a high degree of caution if travelling to Eswatini. In particular citizens should avoid protests, demonstrations or marches. Protests and demonstrations that broke out in 2021 resulted in significant damage and loss of life, and civil unrest continues, as does rising crime, arson attacks, and violent incidents. The security situation can change suddenly, and travellers should remain vigilant for any signs of disturbances.
+Public protest, demonstrations and strikes can occur occasionally in Eswatini. The last significant protests broke out in 2021 and resulted in significant damage and loss of life, while a series of security-related incidents continued in 2022. As of 2025, the security situation has improved significantly, but travellers should remain vigilant for any signs of disturbances, and avoid protests, demonstrations or marches.
 
 ### **General Travel Advice**
 
