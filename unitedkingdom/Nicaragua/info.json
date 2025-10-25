@@ -1,11 +1,11 @@
 {
     "name": "Nicaragua",
-    "update_reason": "Updated information about travelling between Nicaragua, El Salvador, Honduras and Guatemala (\u2018Entry requirements\u2019 page).",
+    "update_reason": "Updated information on how to contact the British Embassy in San Jose, Costa Rica (See 'UK Government Support' on the 'Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Nicaragua/Warnings and insurance.md",
-            "update_date": "2025-10-14T11:43:11+01:00"
+            "update_date": "2025-10-24T16:31:53+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Nicaragua/Getting help.md"
         }
     ],
-    "update_date": "2025-10-14T11:43:11+01:00"
+    "update_date": "2025-10-24T16:31:53+01:00"
 }

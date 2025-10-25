@@ -1,11 +1,11 @@
 {
     "name": "Philippines",
-    "update_reason": "Tsunami warning lifted following the earthquake in Mindanao (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Removal of information about tsunami warning lifted following the earthquake in Mindanao (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Philippines/Warnings and insurance.md",
-            "update_date": "2025-10-10T10:16:06+01:00"
+            "update_date": "2025-10-24T09:12:41+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Philippines/Getting help.md"
         }
     ],
-    "update_date": "2025-10-10T10:16:06+01:00"
+    "update_date": "2025-10-24T09:12:41+01:00"
 }

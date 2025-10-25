@@ -12,39 +12,39 @@ Although there’s no recent history of terrorism in Guyana, attacks cannot be r
 
 ## Political situation
 
-There are occasional protests and political demonstrations throughout Guyana.
+There are occasional protests and political demonstrations throughout Guyana. Stay away from demonstrations as unrest can occur without notice.
 
 ### Border areas
 
-Venezuela disputes the legitimacy of its border with Guyana. Political tensions have increased following Venezuela’s decision to hold a referendum on the status of the Essequibo region in December 2023. The security situation may deteriorate in the border areas.
+Venezuela disputes the legitimacy of its border with Guyana. Political tensions remain and the security situation along the border remains tense.
 
-The UN’s International Tribunal on the Law of the Sea in 2007 ruled on the maritime border dispute between Suriname and Guyana. However, there remains a historical border dispute over the land in the New River Triangle area in the south-east of Guyana.
+There continues to be a dispute between Suriname and Guyana over the land in the New River Triangle area in the south-east of Guyana.
+
+Organised crime in these border areas is common and increasing.
 
 Check with local authorities if travelling near the border areas, both of which are in remote areas.
 
 ## Crime
 
-Crime levels are high, and police capacity is low. There are frequent armed robberies, hold-ups, carjackings and other violent crimes, often involving 2 or more attackers. Passers-by can get caught up in gunfire even if they are not targets because police are armed and shoot back.
+Crime levels are significant, and police capacity is low. Petty crime, including pickpocketing and bag snatching, is common, and violent crime continues to be a risk.
 
 ### Violent attacks and personal safety
 
-Muggers can attack in broad daylight, often holding their victims at gunpoint or knifepoint. They may target tourists, particularly if those that show obvious signs of wealth.
+Attacks and muggings have occurred in broad daylight but are more common at night, and have included the use of knives or firearms. They may target tourists, particularly those that show obvious signs of wealth.
 
-Areas where you’re most at risk are:
+Foreign and Guyanese nationals have reportedly been targeted in:
 
+* Stabroek Market in Georgetown
 * Tiger Bay and Albouystown in Georgetown
 * Sophia, south Georgetown
 * Buxton
 * Agricola
-* Stabroek Market area - where robberies are a daily occurrence
 
-Avoid walking alone around Georgetown, even in the main areas, and do not walk anywhere at night.
+Foreign visitors have been assaulted in Georgetown’s Botanical Gardens. If possible, visit with an organised group and avoid taking valuables.
 
-Foreign visitors have been assaulted in Georgetown’s botanical gardens. If possible, go with an organised group and avoid taking valuables.
+There have been incidents of gangs following cars from Cheddi Jagan International Airport and then attacking their victims when they reach their destination. Always drive with windows closed and doors locked.
 
-There have also been incidents of violent theft by gangs who follow cars from Cheddi Jagan International Airport and attack their victims when they reach their destination. Always drive with windows closed and doors locked.
-
-Never try to exchange money or buy goods on the street – go inside the money exchange or shop. You must also be vigilant when leaving local banks as you could be followed. If possible, arrange to be collected by a car or taxi booked by your hotel or with a licensed operator.
+Take care when exchanging money or buying goods on the street. Go inside the money exchange or shop, or use ATMs inside banks or shopping centres. Consider arranging to be collected by a car or taxi booked by your hotel or with a licensed operator.
 
 ### Protecting your belongings
 
@@ -58,7 +58,7 @@ Scammers often offer travellers in South America free air tickets to Guyana. On 
 
 ### Illegal drugs and prison sentences
 
-Drug trafficking is a serious problem. You can get lengthy prison sentences and heavy fines for possession or trafficking of drugs. The minimum jail sentence for illegal drug offences is 3 years, and prison conditions in Guyana are tough. Pack all luggage yourself and do not carry any items that do not belong to you.
+You can get lengthy prison sentences and heavy fines for possession or the trafficking of drugs. The minimum jail sentence for drug offences is 3 years, and prison conditions in Guyana are tough. Pack all luggage yourself and do not carry any items that do not belong to you.
 
 ### LGBT+ travellers
 
@@ -68,7 +68,7 @@ Read more [advice for LGBT+ travellers](https://www.gov.uk/lesbian-gay-bisexual-
 
 ### Hotel safety
 
-A small hotel fire in the centre of Georgetown in August 2018 highlighted poor safety procedures in some hotels. Check evacuation procedures and exit routes when you arrive, and speak to hotel management if you have any concerns.
+Fires have occurred in Guyanese hotels, and some hotels have poor fire safety procedures. Check evacuation procedures and exit routes when you arrive, and speak to hotel management if you have any concerns.
 
 ## Transport risks
 
@@ -82,15 +82,15 @@ If you’re planning to hire a car, check with your car hire company for informa
 
 ### Driving standards and road conditions
 
-Driving in Guyana can be dangerous because of reckless drivers, frequent hazards, inadequate street lighting and poor road conditions. Drive with extreme caution and avoid driving at night. Take extra care to avoid cyclists, pedestrians and animals. Keep a safe distance from minibuses – minibus drivers are responsible for many of the road accidents in Guyana.
+Driving in Guyana can be dangerous because of reckless drivers, frequent hazards, poor street lighting, and poor road conditions. Drive with caution and take extreme care if you choose to drive at night. Keep a safe distance from minibuses – minibus drivers are responsible for many of the road accidents in Guyana.
 
 If possible, avoid travel to and from Cheddi Jagan International Airport late at night and before dawn. There have been fatal accidents caused by erratic driving.
 
 ### Taxis and minibuses
 
-Although private taxis can be targeted by robbers, they are the safest way for visitors to get around town. Use taxis from reputable companies and book them in advance or from official hotel taxi ranks.
+Although private taxis can be targeted by robbers, they are the safest way for visitors to get around Georgetown. Use taxis from reputable companies and book them in advance or from official hotel taxi ranks.
 
-Do not hail taxis from the roadside and avoid using minibuses for travel.
+Do not hail taxis from the roadside, and avoid using “public” minibuses unless pre-booked from reputable sources.
 
 ### River and sea travel
 
@@ -98,7 +98,7 @@ There have been armed attacks against fishing boats in and around the waters of 
 
 If you are travelling on Guyana’s rivers, use registered boat services equipped with life jackets. Do not travel by boat after dark.
 
-Use scheduled ferry services only when crossing the Corentyne River between Guyana and Suriname. Using water taxis (‘backtracking’) from Suriname to Guyana is illegal and can lead to arrest, imprisonment and then deportation.
+Only use scheduled ferry services when crossing the Corentyne River between Guyana and Suriname. Using water taxis (‘backtracking’) from Suriname to Guyana is illegal and can lead to arrest, imprisonment and then deportation.
 
 ## Extreme weather and natural disasters
 

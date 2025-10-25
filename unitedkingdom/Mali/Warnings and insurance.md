@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   15 October 2025
+:   25 October 2025
 
 Updated:
-:   14 October 2025
+:   24 October 2025
 
 Latest update:
-:   New information on fuel shortages in Mali (See ‘Fuel shortages’ on the ‘Safety and security page’).
+:   Updated information about blockades and risk of kidnapping in Mali ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/68c40bf8eeb238b20672aa65/FCDO__TA__026_-_Mali_Travel_Advice_Ed6__WEB_.jpg)
 
@@ -26,11 +26,11 @@ This is due to the risk of terrorist attacks and kidnaps.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/mali/safety-and-security).
 
-## Increased risk during public holidays
+## Blockades and risk of kidnapping in Mali
 
-There is an increased risk of a terrorist attack near and during public holidays, and periods of national or religious significance in Mali, including Bamako.
+Terrorist group Jama’a Nusrat ul-Islam wa al-Muslimin (JNIM), is carrying out blockades targeting fuel trucks and enforcing checkpoints throughout southern and western Mali. Attacks can occur at any time. There is a high threat of kidnapping across Mali.
 
-For more detail, see [Terrorism in Mali](https://www.gov.uk/foreign-travel-advice/mali/safety-and-security) in the Safety and security page.
+FCDO advises against all travel outside of the 15km radius centred at the Tower of Africa within Bamako.  For more detail see [Fuel shortages](https://www.gov.uk/foreign-travel-advice/mali/safety-and-security) and [Terrorism in Mali](https://www.gov.uk/foreign-travel-advice/mali/safety-and-security) in the Safety and security page.
 
 ## UK government support
 

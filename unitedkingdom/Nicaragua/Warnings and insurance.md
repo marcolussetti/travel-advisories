@@ -1,17 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   15 October 2025
+:   25 October 2025
 
 Updated:
-:   14 October 2025
+:   24 October 2025
 
 Latest update:
-:   Updated information about travelling between Nicaragua, El Salvador, Honduras and Guatemala (‘Entry requirements’ page).
+:   Updated information on how to contact the British Embassy in San Jose, Costa Rica (See 'UK Government Support' on the 'Warnings and insurance' page).
 
 ## UK government support
 
-There is no resident British diplomatic mission in Nicaragua, and FCDO cannot give in-person support. If you need emergency help or have passport-related issues, contact the [British Embassy in San Jose, Costa Rica](https://www.gov.uk/world/organisations/british-embassy-in-costa-rica), on +506-2258-2025. Replacement travel documents may take up to 4 weeks longer than normal to reach you.
+There is no resident British diplomatic mission in Nicaragua, and FCDO cannot give in-person support. If you need emergency help or have passport-related issues, contact the [British Embassy in San Jose, Costa Rica](https://www.gov.uk/world/organisations/british-embassy-in-costa-rica), via this [contact form](https://www.contact.service.csd.fcdo.gov.uk/home). Replacement travel documents may take up to 4 weeks longer than normal to reach you.
 
 ## Before you travel
 

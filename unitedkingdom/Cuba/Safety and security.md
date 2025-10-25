@@ -106,7 +106,7 @@ Find out what you can do to [prepare for and respond to extreme weather and natu
 
 ### Hurricanes
 
-The hurricane season in Cuba is from June to November each year. Heavy rains often cause flash floods and landslides. After a hurricane, power, communications and water supplies can be disrupted. In extreme weather conditions, flights to and from Cuba may be delayed or cancelled.
+The hurricane season in Cuba is from June to November each year. Heavy rains often cause flash floods and landslides. After a hurricane, power, communications and water supplies can be disrupted. In extreme weather conditions, flights to and from Cuba may be delayed or cancelled. Find out what you can do to [prepare for and respond to extreme weather and natural hazards](https://www.gov.uk/guidance/tropical-cyclones).
 
 ### Earthquakes
 

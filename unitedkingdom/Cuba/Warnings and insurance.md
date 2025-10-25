@@ -1,13 +1,21 @@
 # Warnings and insurance
 
 Still current at:
-:   15 October 2025
+:   25 October 2025
 
 Updated:
-:   14 October 2025
+:   25 October 2025
 
 Latest update:
-:   Updated information about power outages in Cuba and new information about chikungunya being a health risk in Cuba (See ‘Warnings and Insurance’ and 'Health' pages).
+:   New information that there are currently a number of reported instances of Dengue, Oropouche and Chikungunya in Cuba ('Warnings and insurance' and 'Health' pages).
+
+## Tropical storm Melissa
+
+Local authorities are continuing to monitor and update on the progress of Tropical Storm Melissa. A warning has been issued for Eastern Cuba based on current weather projections. You should stay informed by monitoring local and international weather updates, including from the Cuban [Civil Defence Authorities](https://www.facebook.com/story.php?story_fbid=826460820029304&id=100079961792829&rdid=c9VDudt1GOexKsdm) and [INSMET](http://www.insmet.cu/asp/genesis.asp?TB0=PLANTILLAS&TB1=AVISO2&TB2=0) weather forecast centre as well as the [US National Hurricane Centre](https://www.nhc.noaa.gov/), and follow the guidance of local authorities. See ‘Extreme weather and natural disasters’ on the [‘Safety and security’ page](https://www.gov.uk/foreign-travel-advice/jamaica/safety-and-security).
+
+## Mosquito-borne diseases
+
+There are currently a number of reported instances of Dengue, Oropouche and Chikungunya in Cuba. Take precautions to avoid or prevent mosquito and other insect bites.
 
 ## Power outage
 

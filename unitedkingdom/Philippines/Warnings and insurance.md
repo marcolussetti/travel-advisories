@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 October 2025
+:   25 October 2025
 
 Updated:
-:   10 October 2025
+:   24 October 2025
 
 Latest update:
-:   Tsunami warning lifted following the earthquake in Mindanao (‘Warnings and insurance’ page).
+:   Removal of information about tsunami warning lifted following the earthquake in Mindanao (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/616406778fa8f52980d9301c/FCDO__TA__033_-_Philippines_Travel_Advice_Ed2__WEB_.jpg)
 
@@ -32,34 +32,9 @@ This advice is due to terrorist activity and clashes between the military and in
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/philippines/safety-and-security#terrorism).
 
-## Earthquake in Mindanao
-
-On 10 October 2025, a magnitude 7.4 earthquake struck Mindanao. The U.S. Tsunami Warning System initially issued a tsunami threat in a coastal area within 300km of the epicentre. Authorities have now lifted the tsunami warning, however aftershocks may still occur and damage assessments are ongoing.
-
- If you are in the affected area:
-
-* follow the advice of local authorities and emergency services
-* be aware of the risk of aftershocks
-* avoid damaged buildings and infrastructure
-* monitor local media and official sources for updates
-
-If you are planning to travel to Mindanao:
-
-* contact your travel provider for updates
-* ensure your travel insurance covers natural disasters.
-* stay informed via the [Philippine Institute of Volcanology and Seismology (PHIVOLCS)](https://www.phivolcs.dost.gov.ph/) and [the National Disaster Risk Reduction and Management Council (NDRRMC)](https://ndrrmc.gov.ph/)
-
 ## Tropical storm season
 
 Around 20 typhoons hit the Philippines each year. Most typhoons happen between June and November. Follow the advice of local authorities, and monitor the progress of storms on the [Philippines state weather agency](http://www.pagasa.dost.gov.ph/) and the [Philippines Disaster Risk Reduction and Management Council](http://www.ndrrmc.gov.ph/index.php). You can find updates on [typhoon2000.ph](http://www.typhoon2000.ph/), or follow [@Typhoon2k](https://twitter.com/Typhoon2k) on X.
-
-## Demonstrations
-
-Demonstrations are expected over the coming weeks in Metro Manila and elsewhere in the Philippines.
-
-You should avoid all demonstrations and large gatherings and follow the advice of local authorities. Demonstrations may lead to travel disruption. You should allow extra time for journeys and monitor local media for updates.
-
-See [Safety and security](https://www.gov.uk/foreign-travel-advice/philippines/safety-and-security) for more information on demonstrations and rallies in the Philippines.
 
 ## Before you travel
 

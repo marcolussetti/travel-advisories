@@ -1,11 +1,11 @@
 {
     "name": "Cuba",
-    "update_reason": "Updated information about power outages in Cuba and new information about chikungunya being a health risk in Cuba (See \u2018Warnings and Insurance\u2019 and 'Health' pages).",
+    "update_reason": "New information that there are currently a number of reported instances of Dengue, Oropouche and Chikungunya in Cuba ('Warnings and insurance' and 'Health' pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Cuba/Warnings and insurance.md",
-            "update_date": "2025-10-14T12:44:05+01:00"
+            "update_date": "2025-10-25T06:23:25+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Cuba/Getting help.md"
         }
     ],
-    "update_date": "2025-10-14T12:44:05+01:00"
+    "update_date": "2025-10-25T06:23:25+01:00"
 }

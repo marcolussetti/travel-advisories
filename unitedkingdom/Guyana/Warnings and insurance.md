@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   23 September 2025
+:   25 October 2025
 
 Updated:
-:   22 September 2025
+:   24 October 2025
 
 Latest update:
-:   Removal of information about national and regional elections which took place 1 September.
+:   This travel advice has been reviewed for accuracy with changes made throughout, including updated information on border areas, crime, violent attacks and personal safety and hotel safety ('Safety and security' page).
 
 ## Before you travel
 
