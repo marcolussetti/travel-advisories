@@ -36,7 +36,7 @@ You should :
 * book your rental through a reputable service
 * visit the accommodation and meet the landlord before agreeing to pay any money
 
-[Information about known local scams](https://www.scamalert.sg/) - Singapore’s National Crime Prevention Council
+[Information about known local scams](https://www.scamshield.gov.sg/) - Singapore’s National Crime Prevention Council
 
 ### Terrorism
 

@@ -2,19 +2,23 @@
 
 ## Safety and security
 
-### Presidential election
+### Elections
 
-In the run up to the October 2025 presidential election political tensions may increase. There could be demonstrations after election-related announcements.
+In the context of the presidential elections scheduled for October 25, 2025, and the legislative elections on December 27, 2025, Côte d'Ivoire is entering a tense electoral phase.
 
-Local authorities may adjust security measures and restrict movement.
+Demonstrations could occur before, during and after the elections.
 
-Even peaceful gatherings can occasionally lead to disruptions or affect traffic and public transportation.
+During this period, local authorities may adjust strengthen security measures.
+
+Even peaceful gatherings can occasionally lead to disruptions or affect traffic and transportation, including in Abidjan. Keep this in mind if you are planning to travel outside the city, as your return may be disrupted.
 
 If you are in Côte d’Ivoire:
 
 * avoid demonstrations and gatherings
+* avoid engaging in political debates in public
+* limit your movements after dark
 * expect an increased presence of security forces
-* monitor local media to stay informed of the latest information
+* monitor the media for the latest information
 * follow the instructions of local authorities
 
 ### Region bordering Liberia

@@ -21,7 +21,82 @@ If you are in Jamaica:
 * monitor local news and weather reports
 * follow the instructions of local authorities
 
-[Latest advisories](http://www.nhc.noaa.gov/) – U.S. National Hurricane Centre
+If you require assistance due to the storm, you should contact your designated Parish Disaster Coordinator:
+
+* St James
+
++ [stjamespc@mlge.gov.jm](mailto:stjamespc@mlge.gov.jm)
++ 876-952-5500
+
+* Hanover
+
++ [hanoverpc@mlge.gov.jm](mailto:hanoverpc@mlge.gov.jm)
++ 876-956-2426
+
+* Westmoreland
+
++ [tatehilma@yahoo.com](mailto:tatehilma@yahoo.com)
++ 876-955-2654
+
+* St Elizabeth
+
++ [Stemc.pdc@gmail.com](mailto:Stemc.pdc@gmail.com)
++ 876-634-0768
+
+* Portland
+
++ [disasteroffice@yahoo.com](mailto:disasteroffice@yahoo.com)
++ 876-993-2665
+
+* Kingston and St Andrew
+
++ [Terry.forrester@ksamc.gov.jm](mailto:terry.forrester@ksamc.gov.jm)
++ 876-456-1183
+
+* Manchester
+
++ [mpc-admin@cwjamaica.com](mailto:mpc-admin@cwjamaica.com)
++ 876-962-2278-9
+
+* St Ann
+
++ [disastercoord@gmail.com](mailto:disastercoord@gmail.com)
++ 876-972-1942
+
+* St Thomas
+
++ [stthomasdm@gmail.com](mailto:stthomasdm@gmail.com)
++ 876-982-9449
+
+* Portmore
+
++ [portmoremc@mlge.gov.jm](mailto:portmoremc@mlge.gov.jm)
++ 876-860-3190
+
+* Clarendon
+
++ [clarendonpc@mlge.gov.jm](mailto:clarendonpc@mlge.gov.jm)
++ 876-853-1407
+
+* St Mary
+
++ [stmarydisasterdepartment@gmail.com](mailto:stmarydisasterdepartment@gmail.com)
++ 876-994-2212
+
+* St Cathrine
+
++ [stcmc.disaster@gmail.com](mailto:Stcmc.disaster@gmail.com)
++ 876-561-9198
+
+* Trelawny
+
++ [twinydi@yahoo.com](mailto:twinydi@yahoo.com)
++ 876-954-3228
+
+#### Useful links
+
+* [Latest advisories](http://www.nhc.noaa.gov/) – U.S. National Hurricane Centre
+* [Parish Disaster Coordinator](https://www.odpem.org.jm/parish-disaster-coordinators/) – Office of Disaster Preparedness and Emergency Management
 
 ### Hurricane season
 
