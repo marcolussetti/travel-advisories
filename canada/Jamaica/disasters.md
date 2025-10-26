@@ -2,9 +2,9 @@
 
 ## Natural disasters and climate
 
-### Tropical Storm Melissa
+### Hurricane Melissa
 
-Tropical Storm Melissa is expected to gain hurricane strength and may impact Jamaica on October 25, 2025.
+Hurricane Melissa is expected to sweep across Jamaica on October 28, 2025.
 
 The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
 
@@ -17,6 +17,7 @@ The storm is likely to bring excessive rainfall and violent winds. It may cause 
 
 If you are in Jamaica:
 
+* contact your airline to see if your travel plans may be impacted by the storm
 * exercise caution
 * monitor local news and weather reports
 * follow the instructions of local authorities

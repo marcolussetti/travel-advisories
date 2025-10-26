@@ -2,9 +2,9 @@
 
 ## Natural disasters and climate
 
-### Tropical Storm Melissa
+### Hurricane Melissa
 
-Tropical Storm Melissa is expected to gain hurricane strength and impact Cuba on or around October 29, 2025.
+Hurricane Melissa is expected to impact Cuba on or around October 29, 2025.
 
 The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
 
