@@ -1,19 +1,19 @@
 # Warnings and insurance
 
 Still current at:
-:   24 October 2025
+:   26 October 2025
 
 Updated:
-:   23 October 2025
+:   25 October 2025
 
 Latest update:
-:   Further information on Tropical Storm Melissa ('Warnings and insurance')
+:   Additional information on Tropical Storm Melissa ('Warnings and Insurance’ page).
 
-## Tropical Storm Melissa
+## Hurricane Melissa
 
-Tropical Storm Melissa is expected to intensify over the coming days. A Tropical Storm Warning and Hurricane Watch are in effect for Jamaica based on the current weather projections. Weather conditions, such as heavy rain and sustained winds, are expected to affect portions of Jamaica.
+Hurricane Melissa is expected to intensify into a major hurricane on Saturday 25 October. A Hurricane Warning is in effect for Jamaica and the Jamaican government is closing airports nationwide, with Kingston Norman Manley International Airport closing from 8pm local time on 25 October and other airports expected to follow. Melissa’s exact trajectory is not known but it is expected to affect the whole of Jamaica in some way. There are estimates for up to 700 millimetres of rain, storm surges around coastal areas bringing waves of up to 4 metres, and winds of up to 135 miles per hour. Catastrophic flash floods and landslides are likely. The Jamaican government has published a list of [available hurricane shelters](https://www.odpem.org.jm/shelters/) in advance of anticipated landfall.
 
-Local authorities are continuing to monitor and update on the progress of Tropical Storm Melissa. Advice remains to stay informed by monitoring local and international weather updates, including from the [Meteorological Service for Jamaica](https://metservice.gov.jm/) and the [US National Hurricane Centre](https://www.nhc.noaa.gov/), and follow the guidance of local authorities, especially in the event of evacuation orders. See ‘Extreme weather and natural disasters’ on the [‘Safety and security’ page](https://www.gov.uk/foreign-travel-advice/jamaica/safety-and-security)
+We urge those in Jamaica to monitor local and international weather updates, including from the [Meteorological Service for Jamaica](https://metservice.gov.jm/) and the [US National Hurricane Centre](https://www.nhc.noaa.gov/), and follow the guidance of local authorities, especially in the event of any evacuation orders. See ‘Extreme weather and natural disasters’ on the [‘Safety and security’ page](https://www.gov.uk/foreign-travel-advice/jamaica/safety-and-security).
 
 ## Hurricane season
 

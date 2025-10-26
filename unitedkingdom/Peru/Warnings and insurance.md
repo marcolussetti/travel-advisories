@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   23 October 2025
+:   26 October 2025
 
 Updated:
-:   22 October 2025
+:   25 October 2025
 
 Latest update:
-:   New information on a State of Emergency in Lima and Callao (‘Warnings and insurance’ page).
+:   Information about a new Lima airport fee for passengers transiting or connecting through Jorge Chávez International Airport (Lima Airport) from 27 October, and on a planned anti-government demonstration on 25 October in downtown Lima (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/6645e81e993111924d9d365a/FCDO__TA__093_-_Peru_Travel_Advice_Ed3__WEB_.jpg)
 
@@ -32,6 +32,18 @@ FCDO advises against all but essential travel to the Valley of the Apurímac, En
 We advise against all but essential travel to these two areas for safety and security reasons.
 
 Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/peru/regional-risks).
+
+## Anti-Government demonstration on 25 October
+
+On 25 October, there is a planned anti-government demonstration in downtown Lima organised by ‘Generación Z’ (a youth activist group). Avoid large gatherings and protests, and follow the instructions of police and local authorities.
+
+## New airport fee for transit and connecting passengers at Lima Airport
+
+Starting from 27 October, passengers transiting or connecting through Lima (Jorge Chávez International) Airport will be required to pay the TUUA (Tarifa Unica por Uso de Aeropuerto, or Airport Use Fee) at the airport.
+
+This fee is not currently included in airline tickets.
+
+To avoid delays, travellers are encouraged to pay in advance via [LAP’s (Lima Airport Partners) online platform](https://pagotuua.lima-airport.com/) or use available on-site payment options, including mobile POS (Point of Sale) agents, dedicated payment modules, and QR codes.
 
 ## State of Emergency declared in Lima and Callao
 
