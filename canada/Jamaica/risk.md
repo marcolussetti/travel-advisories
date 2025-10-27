@@ -2,6 +2,6 @@
 
 ## Risk level
 
-### Jamaica - AVOID NON-ESSENTIAL TRAVEL
+### Jamaica - AVOID ALL TRAVEL
 
-[Avoid non-essential travel](#levels "Risk Levels") to Jamaica due to Hurricane Melissa.
+[Avoid all travel](#levels "Risk Levels") to Jamaica due to Hurricane Melissa.

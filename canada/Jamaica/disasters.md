@@ -4,7 +4,7 @@
 
 ### Hurricane Melissa
 
-Hurricane Melissa is expected to sweep across Jamaica on October 28, 2025.
+Hurricane Melissa is expected to sweep across Jamaica as a major hurricane on October 28, 2025.
 
 The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
 
@@ -15,9 +15,10 @@ The storm is likely to bring excessive rainfall and violent winds. It may cause 
 * emergency services
 * medical care
 
+The international airports in Kingston and Montego Bay are currently closed until further notice due to the storm. Call your airline to discuss alternate travel arrangements.
+
 If you are in Jamaica:
 
-* contact your airline to see if your travel plans may be impacted by the storm
 * exercise caution
 * monitor local news and weather reports
 * follow the instructions of local authorities

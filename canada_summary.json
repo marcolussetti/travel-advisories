@@ -98,7 +98,7 @@
     {
         "destination": "Bahamas",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-10-22T11:27:30",
+        "last_updated": "2025-10-26T18:40:30",
         "details_url": "https://travel.gc.ca/destinations/bahamas"
     },
     {
@@ -242,7 +242,7 @@
     {
         "destination": "Cayman Islands",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2025-10-25T18:55:35",
+        "last_updated": "2025-10-26T18:45:21",
         "details_url": "https://travel.gc.ca/destinations/cayman-islands"
     },
     {
@@ -607,8 +607,8 @@
     },
     {
         "destination": "Jamaica",
-        "risk_level": "Avoid non-essential travel",
-        "last_updated": "2025-10-25T19:07:37",
+        "risk_level": "Avoid all travel",
+        "last_updated": "2025-10-26T18:37:11",
         "details_url": "https://travel.gc.ca/destinations/jamaica"
     },
     {
