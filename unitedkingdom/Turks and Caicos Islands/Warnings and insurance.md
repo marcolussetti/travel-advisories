@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 April 2025
+:   27 October 2025
 
 Updated:
-:   25 April 2025
+:   26 October 2025
 
 Latest update:
-:   New information on crime in the Turks and Caicos Islands (See ‘Crime’ on the ‘Safety and security’ page).
+:   "Information and advice regarding Hurricane Melissa" (Safety and Security page)
 
 The Turks and Caicos Islands is a British Overseas Territory, so there is no British Embassy, and the Turks and Caicos Islands government will support you if you need help.
 
