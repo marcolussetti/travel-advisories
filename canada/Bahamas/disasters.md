@@ -21,11 +21,20 @@ The storm is likely to bring excessive rainfall and violent winds. It may cause 
 * emergency services
 * medical care
 
+Evacuation orders are in affect for the following islands:
+
+* Acklins
+* Crooked Island
+* Long Cay
+* Inagua
+* Mayaguana
+* Ragged Island
+
 If you are in the Bahamas:
 
 * exercise caution
 * monitor local news and weather reports
-* follow the instructions of local authorities
+* follow the instructions of local authorities, including evacuation orders
 
 [Latest advisories](http://www.nhc.noaa.gov/) – U.S. National Hurricane Centre
 

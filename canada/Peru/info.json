@@ -1,7 +1,7 @@
 {
     "name": "Peru",
-    "update_reason": "Safety and security \u2013 added information on the state of emergency in the provinces of Lima and Callao",
-    "update_date": "2025-10-22T13:46:00",
+    "update_reason": "Health \u2013 editorial change",
+    "update_date": "2025-10-27T16:07:00",
     "sections": {
         "risk": "canada/Peru/risk.md",
         "security": "canada/Peru/security.md",

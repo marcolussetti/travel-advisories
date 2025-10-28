@@ -4,7 +4,7 @@
 
 ### Relevant Travel Health Notices
 
-* [Extensively drug-resistant typhoid in Pakistan](https://travel.gc.ca/travelling/health-safety/travel-health-notices/503) - 14 January, 2025
+* [Extensively drug-resistant typhoid in Pakistan](https://travel.gc.ca/travelling/health-safety/travel-health-notices/503) - 27 October, 2025
 * [Measles: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/504) - 12 May, 2025
 * [COVID-19 and International Travel](https://travel.gc.ca/travelling/health-safety/travel-health-notices/513) - 12 May, 2025
 * [Polio: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/508) - 24 September, 2025
@@ -229,7 +229,7 @@ Protect yourself from mosquito bites at all times.
 
 [Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)
 
-A vaccine for the prevention of chikungunya (IXCHIQ) is approved in Canada. Talk to your healthcare provider about how best to prevent chikungunya, including the benefits and risks of vaccination based on factors such as your age, itinerary and personal preferences.
+A vaccine for the prevention of chikungunya is approved in Canada. Talk to your healthcare provider about how best to prevent chikungunya, including the benefits and risks of vaccination based on factors such as your age, itinerary and personal preferences.
 
 **Learn more:**
 

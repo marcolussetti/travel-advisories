@@ -1,7 +1,7 @@
 {
     "name": "Benin",
-    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
-    "update_date": "2025-09-24T15:16:00",
+    "update_reason": "Health \u2013 editorial change",
+    "update_date": "2025-10-27T16:31:00",
     "sections": {
         "risk": "canada/Benin/risk.md",
         "security": "canada/Benin/security.md",

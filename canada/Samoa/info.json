@@ -1,7 +1,7 @@
 {
     "name": "Samoa",
-    "update_reason": "Entry and exit requirements \u2013 updated information on passports",
-    "update_date": "2025-09-23T12:10:00",
+    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
+    "update_date": "2025-10-27T10:15:00",
     "sections": {
         "risk": "canada/Samoa/risk.md",
         "security": "canada/Samoa/security.md",

@@ -2,6 +2,6 @@
 
 ## Risk level
 
-### Turks and Caicos Islands - Exercise a high degree of caution
+### Turks and Caicos Islands - AVOID NON-ESSENTIAL TRAVEL
 
-[Exercise a high degree of caution](#levels "Risk Levels") in the Turks and Caicos Islands due to crime.
+[Avoid non-essential travel](#levels "Risk Levels") to the Turks and Caicos Islands due to Hurricane Melissa.

@@ -4,14 +4,17 @@
 
 **Presidential elections**
 
-Political tensions are high in the context of the presidential elections that took place on October 12, 2025. The results of the vote are expected to be announced by October 27, 2025.
+On October 27, 2025, the presidential election results were announced. Demonstrations are taking place in several cities across Cameroon.
 
-Demonstrations could occur and turn violent at any time. They can also lead to disruptions to traffic and public transportation. Telecommunications and Internet access may also be disrupted.
+Violent clashes between protesters and security forces have resulted in casualties.
+
+Calls for demonstrations may extend this period of instability. Demonstrations can also lead to disruptions to traffic and public transportation. Telecommunications and Internet access are disrupted.
 
 Authorities may strengthen security measures and set up roadblocks.
 
 If you are in Cameroon:
 
+* shelter in place if you are in an area affected by unrest
 * avoid areas where demonstrations and large gatherings are taking place
 * avoid areas around government buildings, including the headquarters of Elections Cameroon (ELECAM)
 * expect an increased security presence

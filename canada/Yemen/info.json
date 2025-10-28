@@ -1,7 +1,7 @@
 {
     "name": "Yemen",
-    "update_reason": "Natural disasters and climate \u2013 updated information on drought and flooding",
-    "update_date": "2025-10-24T10:45:00",
+    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
+    "update_date": "2025-10-27T10:05:00",
     "sections": {
         "risk": "canada/Yemen/risk.md",
         "security": "canada/Yemen/security.md",

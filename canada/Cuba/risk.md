@@ -31,9 +31,7 @@
 [Take normal security precautions](#levels "Risk Levels") in the Cuban resort areas of:
 
 * Cayo Largo del Sur
-* Guardalavaca coastline, between Playa Pesquero and Playa Bani
 * Jibacoa
-* Marea del Portillo
 * Playa Ancon
 * Playa Santa Lucia
 * Varadero Peninsula

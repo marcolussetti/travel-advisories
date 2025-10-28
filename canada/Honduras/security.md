@@ -2,6 +2,19 @@
 
 ## Safety and security
 
+### General elections
+
+General elections are scheduled for November 30, 2025. There may be demonstrations before, during and after the elections.
+
+If you are in Honduras:
+
+* expect an increased security presence
+* avoid areas where demonstrations and large gatherings are taking place
+* follow the instructions of local authorities
+* monitor local media for information on ongoing demonstrations
+
+[More information on demonstrations and civil unrest](#demonstrations)
+
 ### Borders areas
 
 Border areas often see higher criminal activity and violence.

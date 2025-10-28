@@ -1,7 +1,7 @@
 {
     "name": "Martinique",
-    "update_reason": "Editorial change",
-    "update_date": "2025-10-21T15:09:00",
+    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
+    "update_date": "2025-10-27T10:05:00",
     "sections": {
         "risk": "canada/Martinique/risk.md",
         "security": "canada/Martinique/security.md",

@@ -1,7 +1,7 @@
 {
     "name": "Madagascar",
-    "update_reason": "Safety and security \u2013 updated information on the political situation",
-    "update_date": "2025-10-16T12:13:00",
+    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
+    "update_date": "2025-10-27T10:05:00",
     "sections": {
         "risk": "canada/Madagascar/risk.md",
         "security": "canada/Madagascar/security.md",

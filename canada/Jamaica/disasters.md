@@ -21,7 +21,7 @@ If you are in Jamaica:
 
 * exercise caution
 * monitor local news and weather reports
-* follow the instructions of local authorities
+* follow the instructions of local authorities, including evacuation orders
 
 If you require assistance due to the storm, you should contact your designated Parish Disaster Coordinator:
 

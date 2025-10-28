@@ -1,7 +1,7 @@
 {
     "name": "Malaysia",
-    "update_reason": "Risk levels \u2013 take normal security precautions in Malaysia, exercise a high degree of caution off the east coast of Sabah; Safety and security \u2013 editorial change",
-    "update_date": "2025-10-15T14:57:00",
+    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
+    "update_date": "2025-10-27T10:05:00",
     "sections": {
         "risk": "canada/Malaysia/risk.md",
         "security": "canada/Malaysia/security.md",

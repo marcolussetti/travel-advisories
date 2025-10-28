@@ -19,7 +19,7 @@ If you are in Cuba:
 
 * exercise caution
 * monitor local news and weather reports
-* follow the instructions of local authorities
+* follow the instructions of local authorities, including evacuation orders
 
 [Latest advisories](http://www.nhc.noaa.gov/) – U.S. National Hurricane Centre
 
