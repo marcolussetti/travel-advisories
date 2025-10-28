@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   16 October 2025
+:   28 October 2025
 
 Updated:
-:   15 October 2025
+:   27 October 2025
 
 Latest update:
-:   Clarification that FCDO advises against all but essential travel to within 50km of the whole border with Cambodia, including Koh Chang, Koh Kood and the other islands in between them (‘Warnings and insurance’ page).
+:   FCDO no longer advises against all but essential travel to south of the A43 road between Hat Yai and Sakom, and south of the train line which runs between Hat Yai and Padang Besar but FCDO continues to advise against all but essential travel to the districts of Chana, Thepa, Na Thawi and Saba Yoi in southern Songkhla Province ('Warnings and insurance' and 'Regional risks' pages).
 
-![](https://assets.publishing.service.gov.uk/media/68876079741b74390ff0e454/FCDO__TA__040_-_Thailand_Travel_Advice_Ed4__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/68ff9972d81972ecd2df5dbf/FCDO__TA__040_-_Thailand_Travel_Advice_Ed5__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/68876079741b74390ff0e455/FCDO__TA__040_-_Thailand_Travel_Advice_Ed4.pdf)
+[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/68ff9972d81972ecd2df5dc0/FCDO__TA__040_-_Thailand_Travel_Advice_Ed5.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -23,7 +23,7 @@ FCDO advises against all but essential travel to parts of the south, near the Th
 * Pattani Province
 * Yala Province
 * Narathiwat Province
-* southern Songkhla Province – south of the A43 road between Hat Yai and Sakom, and south of the train line which runs between Hat Yai and Padang Besar
+* The districts of Chana, Thepa, Na Thawi and Saba Yoi in southern Songkhla Province
 
 FCDO also advises against all but essential travel on the Hat Yai to Padang Besar train line that runs through these provinces.
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   27 September 2025
+:   28 October 2025
 
 Updated:
-:   26 September 2025
+:   27 October 2025
 
 Latest update:
-:   Updated information about typhoons ('Warnings and insurance' page).
+:   Updated information about visa requirements in China ('Entry requirements' page).
 
 This travel advice covers mainland China. See travel advice for the Special Administrative Regions, [Hong Kong](https://www.gov.uk/foreign-travel-advice/hong-kong) and [Macao](https://www.gov.uk/foreign-travel-advice/macao).
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   16 July 2025
+:   28 October 2025
 
 Updated:
-:   15 July 2025
+:   27 October 2025
 
 Latest update:
-:   Updated information about areas where violent crime has occurred and the risks around blasphemy (‘Safety and security’ page).
+:   Addition of information about the risks from Rift Valley fever in Mauritania (‘ Health’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/675319b87e5323915d6a0428/FCDO__TA__027_-_Mauritania_Travel_Advice_Ed6__WEB_.jpg)
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 July 2025
+:   28 October 2025
 
 Updated:
-:   25 July 2025
+:   27 October 2025
 
 Latest update:
-:   Addition of information about risks related to terrorism in the northern and eastern border areas (‘Safety and security’ and ‘Regional risks’ pages).
+:   Addition of information about the risks from Rift Valley fever in Senegal (‘ Health’ page).
 
 ## Before you travel
 

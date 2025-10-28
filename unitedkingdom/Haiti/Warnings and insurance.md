@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   28 October 2025
 
 Updated:
-:   15 October 2024
+:   27 October 2025
 
 Latest update:
-:   Removal of information about the state of emergency ('Warnings and insurance' page)
+:   New information about Hurricane Melissa ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/6411a1f18fa8f5556a0d6937/FCDO__TA__019_-_Haiti_Travel_Advice_Ed2__WEB_.jpg)
 
@@ -23,6 +23,10 @@ FCDO advises against all travel to Haiti due to the volatile security situation.
 British nationals may get consular services assistance at our [diplomatic mission in the Dominican Republic](https://www.gov.uk/world/organisations/british-embassy-santo-domingo).
 
 If you choose to travel to or stay in Haiti against FCDO advice, try to avoid all crowds and public events, and take appropriate security precautions.
+
+## Hurricane Melissa
+
+Hurricane Melissa has developed into a major hurricane and is forecast to bring exceptional levels of rainfall and high storm surges in the coming days. Local authorities continue to monitor the weather system closely. There is a Hurricane Watch in effect for Haiti. Stay informed by monitoring local and international weather updates, including from the [Cuban Civil Defence Authorities](https://www.facebook.com/story.php?story_fbid=826460820029304&id=100079961792829&rdid=c9VDudt1GOexKsdm), [INSMET](https://www.facebook.com/story.php?story_fbid=826460820029304&id=100079961792829&rdid=c9VDudt1GOexKsdm) weather forecast centre, and the [Dominican Republic’s National Meteorological Office](https://indomet.gob.do/pronostico/informe-del-tiempo) (ONAMET), as well as the [US National Hurricane Centre](https://www.nhc.noaa.gov/). Follow the guidance of local authorities, especially in relation to evacuation orders. See ‘Extreme weather and natural disasters’ on the [‘Safety and security’](https://www.gov.uk/foreign-travel-advice/haiti/safety-and-security#extreme-weather-and-natural-disasters) page.
 
 ## Travel insurance
 

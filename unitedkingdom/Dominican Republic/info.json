@@ -1,11 +1,11 @@
 {
     "name": "Dominican Republic",
-    "update_reason": "New information on passport validity requirements (\u2018Entry requirements\u2019 page)",
+    "update_reason": "New information about Hurricane Melissa ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Dominican Republic/Warnings and insurance.md",
-            "update_date": "2024-12-04T10:14:04+00:00"
+            "update_date": "2025-10-27T13:59:39+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Dominican Republic/Getting help.md"
         }
     ],
-    "update_date": "2024-12-04T10:14:04+00:00"
+    "update_date": "2025-10-27T13:59:39+00:00"
 }

@@ -1,15 +1,21 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   28 October 2025
 
 Updated:
-:   24 July 2024
+:   27 October 2025
 
 Latest update:
-:   Removal of information on Hurricane Beryl ('Warnings and insurance' page).
+:   New information about Hurricane Melissa ('Warnings and insurance' page).
 
 The Cayman Islands is a British Overseas Territory, so there is no British Embassy, and the Cayman Islands authorities will support you if you need help.
+
+## Hurricane Melissa
+
+We are closely monitoring Hurricane Melissa. We advise those in the Cayman Islands to monitor local and international weather updates, including from the [Cayman Islands Weather Forecast Service Provider - CINWS](https://www.weather.gov.ky/) and the [US National Hurricane Centre](https://www.nhc.noaa.gov/gtwo.php?basin=atlc&fdays=7), and follow the guidance of local authorities. British nationals on package holidays should contact their travel provider for advice.
+
+Those in Cayman should also register with the [National Emergency Notification System](https://caymanprepared.ky/nens) (NENS), the Hazard Management Cayman Islands’ emergency alert tool for further updates.
 
 ## Before you travel
 

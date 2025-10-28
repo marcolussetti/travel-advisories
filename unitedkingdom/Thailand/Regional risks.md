@@ -11,7 +11,7 @@ FCDO advises against all but essential travel to parts of the south, near the Th
 * Pattani Province
 * Yala Province
 * Narathiwat Province
-* southern Songkhla Province – south of the A43 road between Hat Yai and Sakom, and south of the train line which runs between Hat Yai and Padang Besar
+* The districts of Chana, Thepa, Na Thawi and Saba Yoi in southern Songkhla Province
 
 FCDO also advises against all but essential travel on the Hat Yai to Padang Besar train line that runs through these provinces.
 

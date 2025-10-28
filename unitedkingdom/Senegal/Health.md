@@ -25,6 +25,7 @@ See [what health risks you’ll face in Senegal](https://travelhealthpro.org.uk/
 * dengue
 * Zika virus
 * yellow fever
+* Rift Valley fever
 
 ## Medication
 

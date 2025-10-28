@@ -1,11 +1,11 @@
 {
     "name": "Thailand",
-    "update_reason": "Clarification that FCDO advises against all but essential travel to within 50km of the whole border with Cambodia, including Koh Chang, Koh Kood and the other islands in between them (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "FCDO no longer advises against all but essential travel to south of the A43 road between Hat Yai and Sakom, and south of the train line which runs between Hat Yai and Padang Besar but FCDO continues to advise against all but essential travel to the districts of Chana, Thepa, Na Thawi and Saba Yoi in southern Songkhla Province ('Warnings and insurance' and 'Regional risks' pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Thailand/Warnings and insurance.md",
-            "update_date": "2025-10-15T16:19:20+01:00"
+            "update_date": "2025-10-27T16:22:56+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Thailand/Getting help.md"
         }
     ],
-    "update_date": "2025-10-15T16:19:20+01:00"
+    "update_date": "2025-10-27T16:22:56+00:00"
 }

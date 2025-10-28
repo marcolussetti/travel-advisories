@@ -1,11 +1,11 @@
 {
     "name": "Senegal",
-    "update_reason": "Addition of information about risks related to terrorism in the northern and eastern border areas (\u2018Safety and security\u2019 and \u2018Regional risks\u2019 pages).",
+    "update_reason": "Addition of information about the risks from Rift Valley fever in Senegal (\u2018 Health\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Senegal/Warnings and insurance.md",
-            "update_date": "2025-07-25T09:36:48+01:00"
+            "update_date": "2025-10-27T11:09:16+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Senegal/Getting help.md"
         }
     ],
-    "update_date": "2025-07-25T09:36:48+01:00"
+    "update_date": "2025-10-27T11:09:16+00:00"
 }

@@ -27,6 +27,7 @@ See [what health risks you’ll face in Mauritania](https://travelhealthpro.org.
 * dengue
 * yellow fever
 * biting insects
+* Rift Valley fever
 
 ## Medication
 

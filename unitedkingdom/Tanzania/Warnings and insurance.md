@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   9 September 2025
+:   28 October 2025
 
 Updated:
-:   8 September 2025
+:   27 October 2025
 
 Latest update:
-:   Confirmation of an additional day of voting in Zanzibar on 28 October 2025 (‘Safety and security’ page).
+:   Updated information on Tanzania’s general elections (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/645a3ab12226ee000c0ae4a0/FCDO__TA__086_-_Tanzania_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -25,6 +25,18 @@ FCDO advises against all but essential travel to within 20km of the Tanzanian bo
 This is due to attacks by groups linked with Islamic extremism.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/tanzania/regional-risks).
+
+## General election
+
+General elections are scheduled to take place in Tanzania on 29 October 2025, with an additional day of voting in Zanzibar on 28 October 2025.
+
+Recent elections, including demonstrations and political gatherings across Tanzania (particularly on the islands of Zanzibar) have turned violent and resulted in fatalities.
+
+Stay away from all demonstrations, rallies, and large crowds.
+
+Previous elections have seen disruptions to mobile networks, the internet and social media.
+
+If you become aware of any nearby disruption, monitor local media and follow the advice of the local authorities.
 
 ## Before you travel
 

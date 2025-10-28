@@ -26,7 +26,7 @@ You must have a visa to visit mainland China.
 
 You can visit Hainan without a visa if you fly directly from an approved country or transit point. Check the [Hainan Authorities website](http://en.hnftp.gov.cn/tips/policy/202003/t20200317_3263796.html) for more information.
 
-Visa-free transit through China is permitted depending on location. See [News-Chinese Visa Application Service Center](https://www.visaforchina.cn/VIE3_EN/tongzhigonggao) or [News National Immigration administration](https://en.nia.gov.cn/n147413/c178106/content.html) for more information.
+Depending on your travel plans, visa free transit options are available, including staying in China for up to 10 days. Read the [Chinese Embassy’s visa website](https://gb.china-embassy.gov.cn/eng/visa/qzxz/202412/t20241228_11522489.htm)  or the [Chinese National Immigration Administration website](https://en.nia.gov.cn/n147413/c178106/content.html) for further information.
 
 Visa requirements for [Hong Kong](https://www.gov.uk/foreign-travel-advice/hong-kong/entry-requirements) and [Macao](https://www.gov.uk/foreign-travel-advice/macao/entry-requirements) are different.
 

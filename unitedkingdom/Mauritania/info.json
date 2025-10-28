@@ -1,11 +1,11 @@
 {
     "name": "Mauritania",
-    "update_reason": "Updated information about areas where violent crime has occurred and the risks around blasphemy (\u2018Safety and security\u2019 page).",
+    "update_reason": "Addition of information about the risks from Rift Valley fever in Mauritania (\u2018 Health\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Mauritania/Warnings and insurance.md",
-            "update_date": "2025-07-15T12:27:29+01:00"
+            "update_date": "2025-10-27T11:09:31+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Mauritania/Getting help.md"
         }
     ],
-    "update_date": "2025-07-15T12:27:29+01:00"
+    "update_date": "2025-10-27T11:09:31+00:00"
 }

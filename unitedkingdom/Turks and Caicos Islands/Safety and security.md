@@ -99,12 +99,6 @@ Find out what you can do to prepare for and respond to [extreme weather and natu
 
 The hurricane season in the Turks and Caicos Islands normally runs from June to November.
 
-We are closely monitoring the likely track of Hurricane Melissa, which is currently forecast to impact the Turks and Caicos Islands. We advise you to closely monitor storms on the [US National Hurricane Center](https://www.nhc.noaa.gov/) and the [Department of Disaster Management and Emergencies](https://www.gov.tc/ddme/), and follow advice from local authorities.
-
-You can also download Department of Disaster Management and Emergencies app (‘DDME Alert’) to get real-time alerts and updates.
-
-British tourists in the Turks and Caicos Islands, whether staying in hotel or private rentals, should seek guidance from their accommodation provider.  Anyone concerned about access to safe shelter can consult the Turks and Caicos Islands Government’s official [Emergency Shelter List](https://gov.tc/ddme/shelter-list).
-
 ### Earthquakes
 
 Earthquakes could be a risk. See more information from the [Department of Disaster Management and Emergencies](https://gov.tc/ddme/hazards/earthquake).
