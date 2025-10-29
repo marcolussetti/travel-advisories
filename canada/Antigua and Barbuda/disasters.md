@@ -34,7 +34,4 @@ In the event of an earthquake:
 * monitor local media for the latest information
 * follow the instructions of local authorities, including evacuation orders
 
-#### Useful links
-
-* [Latest earthquakes](https://earthquake.usgs.gov/earthquakes/map/) – U.S. Geological Survey
-* [Prepare for earthquakes](https://www.getprepared.gc.ca/cnt/hzd/rthqks-en.aspx)
+[Latest earthquakes](https://earthquake.usgs.gov/earthquakes/map/) – U.S. Geological Survey

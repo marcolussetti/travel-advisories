@@ -2,53 +2,11 @@
 
 ## Safety and security
 
-On October 14 and 15, 2025, a series of coordinated explosions targeted several locations in Ecuador, namely:
-
-* near the Mall del Sol and the Sheraton Hotel in Guayaquil
-* the Churute bridge in Guayas province
-* the Mollopongo Bridge on the Cuenca-Giron-Pasaje route
-
-Stay away from the affected areas and follow the instructions of local authorities.
-
-### State of exception
-
-A state of exception is in effect in the following provinces:
-
-* Azuay
-* Bolívar
-* Cañar
-* Carchi
-* Chimborazo
-* Cotopaxi
-* Imbabura
-* Orellana
-* Pastaza
-* Pichincha
-* Santo Domingo
-* Sucumbíos
-* Tungurahua
-
-While the state of exception is in effect, public gatherings are prohibited.
-
-A curfew is also in place from 10 pm to 5 am in the following provinces:
-
-* Bolívar
-* Carchi
-* Chimborazo
-* Cotopaxi
-* Imbarbura
-
-If you’re in the affected areas:
-
-* expect an increased police and military presence
-* always carry your identification
-* follow the instructions of local authorities, including curfew orders
-
 ### State of emergency
 
 A state of emergency is in effect in the following locations:
 
-* Echeandía and Las Naves cantons in Bolívar Province
+* Echeandía canton in Bolívar Province
 * El Oro Province
 * Guayas Province
 * Los Ríos Province

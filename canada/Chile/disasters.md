@@ -58,7 +58,7 @@ In the event of an earthquake or tsunami:
 * [Earthquakes](https://bibliogrd.senapred.gob.cl/bitstream/handle/1671/6385/15_Sismo_Ingles%20SENAPRED%202023.pdf?sequence=15&isAllowed=y) – National Service for Disaster Prevention and Response (SENAPRED)
 * [Latest alerts](https://senapred.cl/informate/alertas) – National Service for Disaster Prevention and Response (SENAPRED) (Spanish only)
 * [Latest earthquakes](https://earthquake.usgs.gov/earthquakes/map/?extent=-3.33795,-125.33203&extent=65.07213,-64.6875) – U.S. Geological Survey
-* [Tsunami alerts](https://www.tsunami.gov/%22%20HYPERLINK%20%22https:/www.tsunami.gov/) – U.S. Tsunami Warning System
+* [Tsunami alerts](https://tsunami.gov/) – U.S. Tsunami Warning System
 
 ### Torrential rains, flooding and mudslides
 

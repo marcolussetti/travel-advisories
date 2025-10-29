@@ -57,4 +57,3 @@ In the event of an earthquake:
 
 * [Earthquake monitoring](https://osc.org.bo/index.php/es/) – San Calixto Observatory (in Spanish)
 * [Latest earthquakes](https://earthquake.usgs.gov/earthquakes/map/) – U.S. Geological Survey
-* [Prepare for earthquakes](https://www.getprepared.gc.ca/cnt/hzd/rthqks-en.aspx)

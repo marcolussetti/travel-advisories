@@ -6,14 +6,15 @@
 
 [Exercise a high degree of caution](#levels "Risk Levels") in Cuba due to shortages of basic necessities including food, medicine and fuel.
 
-### Eastern Provinces - Avoid non-essential travel
+### EASTERN PROVINCES - AVOID ALL TRAVEL
 
-[Avoid non-essential travel](#levels "Risk Levels") to the following Eastern Provinces due to Hurricane Melissa:
+[Avoid all travel](#levels "Risk Levels") to the following eastern provinces due to Hurricane Melissa:
 
 * Granma
 * Santiago de Cuba
 * Guantanamo
 * Holguin
+* Las Tunas
 
 [Natural disasters and climate](#disasters)
 

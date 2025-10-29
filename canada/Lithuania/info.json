@@ -1,7 +1,7 @@
 {
     "name": "Lithuania",
-    "update_reason": "Entry and exit requirements \u2013 updated information on the Entry/Exit System (EES)",
-    "update_date": "2025-10-15T21:39:00",
+    "update_reason": "Safety and security \u2013 added information on land border crossings with Belarus",
+    "update_date": "2025-10-28T14:42:00",
     "sections": {
         "risk": "canada/Lithuania/risk.md",
         "security": "canada/Lithuania/security.md",

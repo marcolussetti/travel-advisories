@@ -21,14 +21,18 @@ The storm is likely to bring excessive rainfall and violent winds. It may cause 
 * emergency services
 * medical care
 
-Evacuation orders are in affect for the following islands:
+Evacuation orders are in effect for the following districts:
 
 * Acklins
+* Cat Island
 * Crooked Island
-* Long Cay
+* Exuma
 * Inagua
+* Long Island
 * Mayaguana
 * Ragged Island
+* Rum Cay
+* San Salvador
 
 If you are in the Bahamas:
 

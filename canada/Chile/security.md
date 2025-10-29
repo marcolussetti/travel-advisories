@@ -277,7 +277,7 @@ In cities:
 * avoid using taxis that don’t have a meter
 * agree on the fare with the driver before you get in to avoid overcharging
 
-[Travelling safely in taxis and buses](https://www.mtt.gob.cl/viaja-seguro-en-taxis.html)  – Government of Chile (Spanish only)
+[Travelling safely in taxis and buses](https://www.mtt.gob.cl/viaja-seguro-en-taxis.html) – Government of Chile (Spanish only)
 
 ### Travel recommendations
 

@@ -1,7 +1,7 @@
 {
     "name": "Colombia",
-    "update_reason": "Health \u2013 Travel health notice for dengue removed",
-    "update_date": "2025-10-27T17:10:00",
+    "update_reason": "Editorial change",
+    "update_date": "2025-10-28T13:32:00",
     "sections": {
         "risk": "canada/Colombia/risk.md",
         "security": "canada/Colombia/security.md",
