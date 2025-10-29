@@ -6,15 +6,9 @@ Normal Precautions
 
 ### **Travel Alert**
 
-#### **Cambodia Border Region**
+We advise against all travel to the entirety of the border region between Thailand and Cambodia, where armed clashes have taken place between Thai and Cambodian armed forces. The clashes have resulted in fatalities including civilian fatalities, and land mines remain present in the disputed border regions. Border crossings are subject to restrictions and closures, and there is a possibility of disruption to air travel between the two countries. While a ceasefire has been agreed, the situation remains fluid and Irish citizens in Thailand and Cambodia or intending to visit should pay close attention to authoritative sources of information and advice, and remain vigilant at all times. The Thai government has announced a national mourning period beginning on 25 October following the death of Her Majesty Queen Sirikit The Queen Mother. Entertainment activities may be restricted or scaled back during this time, and members of the public have been asked to wear black or dark coloured clothing for a period of 90 days. Irish citizens travelling to Thailand during this time are advised to inform themselves of the local situation and to remain respectful at all times.
 
-We advise against all travel to the entirety of the border region between Thailand and Cambodia, where armed clashes have taken place between Thai and Cambodian armed forces. The clashes have resulted in fatalities including civilian fatalities, and land mines remain present in the disputed border regions. Border crossings are subject to restrictions and closures, and there is a possibility of disruption to air travel between the two countries. While a ceasefire has been agreed, the situation remains fluid and Irish citizens in Thailand and Cambodia or intending to visit should pay close attention to authoritative sources of information and advice, and remain vigilant at all times.
-
-#### **Terrorism**
-
-There is currently a heightened risk of terrorism in Thailand.
-
-Terrorist attacks occur in the country from time to time, including in the capital, Bangkok, and in popular tourist destinations such as Phuket and Krabi. A number of suspected explosive devices have been detected by the Thai Security Forces, in a number of popular tourist locations in southern Thailand in the period since mid-June 2025. One incident occurred at Phuket Airport. Irish citizens are advised to be vigilant at all times. Additional security measures put in place in response to these incidents may require intending passengers to factor in extra time for security checks ahead of flights, so you should make sure to check with airlines and allow sufficient time at airports ahead of scheduled departures. Please follow the advice of Thai Authorities, avoid any large gatherings and be aware of your personal safety at all times.
+There were two confirmed fatal cases of tickborne Severe Fever with Thrombocytopenia Syndrome (SFTS) in Wang Pong District, Phetchabun Province in north-central Thailand in late June 2025. Members of the public are advised to reduce their risk of infection from tick-borne diseases by avoiding contact with ticks, particularly in rural or forested areas and by wearing protective clothing, using tick repellents and performing body checks after outdoor activities.
 
 ### **General Travel Advice**
 

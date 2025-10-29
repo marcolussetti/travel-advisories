@@ -8,6 +8,8 @@ Do Not Travel
 
 The security situation remains extremely volatile in Haiti. There are frequent clashes between gangs and security forces. Kidnappings, robberies, and violent crime are prevalent.
 
+Hurricane Melissa is expected to bring catastrophic and life-threatening weather conditions. Extensive damage is expected.
+
 ### **General Travel Advice**
 
 The Department of Foreign Affairs and Trade strongly advises against all travel to Haiti. For further information, please see the Safety and security tab.

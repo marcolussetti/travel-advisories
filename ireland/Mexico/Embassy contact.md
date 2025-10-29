@@ -1,6 +1,6 @@
 ## Embassy contact
 
-The Embassy operates an out of hours service for Irish citizens requiring emergency assistance on weekends and public holidays. If emergency assistance is needed during these times, leave a message on the emergency message system by calling +52 55 5520 5803. The emergency message system is checked regularly outside of office hours and a member of the Embassy staff will be in contact as soon as possible.
+The Embassy operates an out of hours service for Irish citizens requiring emergency assistance on weekends and public holidays. If emergency assistance is needed during these times, leave a message on the emergency message system by calling +52 55 8075 5086. The emergency message system is checked regularly outside of office hours and a member of the Embassy staff will be in contact as soon as possible.
 
 When leaving a message, remember to state your name, the nature of the problem, where you are now, and the details of how the Duty Officer can contact you (e.g. leave your mobile phone number, or the phone number of the hotel/hostel where you are staying).
 

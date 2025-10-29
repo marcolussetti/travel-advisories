@@ -4,6 +4,14 @@
 
 Normal Precautions
 
+### **Travel Alert**
+
+### **Hurricane Melissa**
+
+Hurricane Melissa has developed into a major hurricane and is forecast to bring exceptional levels of rainfall and high storm surges.
+
+The Central and Southeast Bahamas are now under a hurricane warning. Irish citizens are advised to seek appropriate shelter and to follow the advice of the Bahamian authorities. Official weather updates for The Bahamas can be found at [Bahamas Department Of Meteorology](https://met.gov.bs/)
+
 ### **General Travel Advice**
 
 Irish citizens do not require a visa to enter the Bahamas for less than 30 days.

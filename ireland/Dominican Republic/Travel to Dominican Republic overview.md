@@ -4,6 +4,14 @@
 
 High Degree of Caution
 
+### **Travel Alert**
+
+Hurricane Melissa is approaching the Caribbean islands, including Dominican Republic. High storm surges, exceptional rainfall levels, flash flooding and landslides are expected in the coming days.
+
+It is advised that citizens in Dominican Republic monitor local media regularly and follow advice from local authorities, in particular in relation to evacuation orders.
+
+Citizens travelling to Dominican Republic may be impacted by flight delays or cancellations. Closely monitor airline updates for up to date flight information.
+
 ### **General Travel Advice**
 
 Irish citizens do not require a visa to enter Dominican Republic.

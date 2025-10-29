@@ -4,7 +4,7 @@ As there is no Irish Embassy in Cuba, we are limited in the help we can offer in
 
 The Embassy operates an out of hours service for Irish citizens requiring emergency assistance on weekends and public holidays.
 
-If in need of emergency assistance during these times, please leave a message on the emergency message system by calling +52 55 5520 5803.
+If in need of emergency assistance during these times, please leave a message on the emergency message system by calling +52 55 8075 5086.
 
 Monday to Friday 08:30 to 17:00
 
