@@ -26,6 +26,14 @@ If you arrive in Peru at an international airport, authorities will register you
 
 You can check how long you are allowed to stay in Peru on the [Superintendencia Nacional de Migraciones](https://cel.migraciones.gob.pe/ConsultaTAMVirtual/VerificarTAM) website (in Spanish).
 
+## Airport fee
+
+From 7 December, passengers transiting or connecting through Lima (Jorge Chávez International) Airport will be required to pay a fee, known as a TUUA (Tarifa Unica por Uso de Aeropuerto, or Airport Use Fee).
+
+This fee is not currently included in airline tickets.
+
+To avoid delays, travellers are encouraged to pay in advance via the [Lima Airport online platform](https://pagotuua.lima-airport.com/) or use available on-site payment options, including mobile POS (Point of Sale) agents, dedicated payment modules, and QR codes.
+
 ## Arriving by land
 
 Land entry: make sure you get your passport stamped.

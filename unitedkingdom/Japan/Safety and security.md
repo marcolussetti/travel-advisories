@@ -122,6 +122,21 @@ Most Japanese people are welcoming and friendly, but can be reserved. Loud, bois
 
 Tattoos have a historical association with organised crime in Japan. While acceptance is increasing, some public facilities do not admit people with tattoos – for example, public swimming pools, hot springs, beaches and some gyms. Other establishments request you cover tattoos while using the facilities.
 
+## Outdoor activities and adventure tourism
+
+### Wildlife
+
+Bear sightings and attacks have increased in parts of Japan, especially in mountainous and forested areas, including near populated zones.
+
+Follow local advice and alerts, and take precautions if travelling in these areas.
+
+You should
+
+* research the region to learn about the local wildlife
+* avoid walking alone in areas where bears have been sighted
+* take all rubbish with you, including food waste
+* report any sightings to local authorities
+
 ## Transport risks
 
 ### Road travel

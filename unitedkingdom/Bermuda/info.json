@@ -1,11 +1,11 @@
 {
     "name": "Bermuda",
-    "update_reason": "Removal of information about Hurricane Ernesto ('Warnings and insurance' page)",
+    "update_reason": "New information about Hurricane Melissa ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Bermuda/Warnings and insurance.md",
-            "update_date": "2024-09-05T12:09:53+01:00"
+            "update_date": "2025-10-28T13:33:13+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Bermuda/Getting help.md"
         }
     ],
-    "update_date": "2024-09-05T12:09:53+01:00"
+    "update_date": "2025-10-28T13:33:13+00:00"
 }

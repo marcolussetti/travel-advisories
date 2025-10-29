@@ -1,11 +1,11 @@
 {
     "name": "Peru",
-    "update_reason": "Information about a new Lima airport fee for passengers transiting or connecting through Jorge Ch\u00e1vez International Airport (Lima Airport) from 27 October, and on a planned anti-government demonstration on 25 October in downtown Lima (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Updated information about an airport fee for transit and connecting passengers at Lima Airport (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Peru/Warnings and insurance.md",
-            "update_date": "2025-10-25T08:24:00+01:00"
+            "update_date": "2025-10-28T16:09:49+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Peru/Getting help.md"
         }
     ],
-    "update_date": "2025-10-25T08:24:00+01:00"
+    "update_date": "2025-10-28T16:09:49+00:00"
 }

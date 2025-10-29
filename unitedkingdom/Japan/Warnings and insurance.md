@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   22 October 2025
+:   29 October 2025
 
 Updated:
-:   21 October 2025
+:   28 October 2025
 
 Latest update:
-:   Addition of information on the risks from methanol poisoning ('Safety and security' page).
+:   Addition of information about bear sightings and attacks in Japan (see 'Wildlife' on the 'Safety and security' page).
 
 ## Before you travel
 

@@ -1,11 +1,11 @@
 {
     "name": "Japan",
-    "update_reason": "Addition of information on the risks from methanol poisoning ('Safety and security' page).",
+    "update_reason": "Addition of information about bear sightings and attacks in Japan (see 'Wildlife' on the 'Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Japan/Warnings and insurance.md",
-            "update_date": "2025-10-21T10:23:43+01:00"
+            "update_date": "2025-10-28T11:43:50+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Japan/Getting help.md"
         }
     ],
-    "update_date": "2025-10-21T10:23:43+01:00"
+    "update_date": "2025-10-28T11:43:50+00:00"
 }

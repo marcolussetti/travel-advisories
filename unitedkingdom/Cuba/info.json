@@ -1,11 +1,11 @@
 {
     "name": "Cuba",
-    "update_reason": "New information that there are currently a number of reported instances of Dengue, Oropouche and Chikungunya in Cuba ('Warnings and insurance' and 'Health' pages).",
+    "update_reason": "New information on the risks from Hurricane Melissa (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Cuba/Warnings and insurance.md",
-            "update_date": "2025-10-25T06:23:25+01:00"
+            "update_date": "2025-10-29T01:12:36+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Cuba/Getting help.md"
         }
     ],
-    "update_date": "2025-10-25T06:23:25+01:00"
+    "update_date": "2025-10-29T01:12:36+00:00"
 }

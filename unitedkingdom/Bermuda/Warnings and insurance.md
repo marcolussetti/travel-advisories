@@ -1,15 +1,21 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   29 October 2025
 
 Updated:
-:   5 September 2024
+:   28 October 2025
 
 Latest update:
-:   Removal of information about Hurricane Ernesto ('Warnings and insurance' page)
+:   New information about Hurricane Melissa ('Warnings and insurance' page).
 
 Bermuda is a British Overseas Territory, so there is no British Embassy, and the [Bermuda government](https://www.gov.bm/) will support you if you need help.
+
+## Hurricane Melissa
+
+We are closely monitoring the likely track of Hurricane Melissa, which is currently forecast to impact Bermuda. We advise those in Bermuda to closely monitor local and international weather updates, including from the [Bermuda Weather Service](https://www.weather.bm/index.asp) and the [US National Hurricane Centre](https://www.nhc.noaa.gov/gtwo.php?basin=atlc&fdays=7), and follow the guidance of local authorities.
+
+British tourists on package holidays should contact their travel provider for advice. Anyone concerned about access to safe shelter can consult the Government of Bermuda’s [Emergency Shelter and Medical Centre page](https://www.gov.bm/emergency-shelters-and-medical-centres).
 
 ## Before you travel
 

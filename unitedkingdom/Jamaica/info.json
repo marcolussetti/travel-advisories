@@ -1,11 +1,11 @@
 {
     "name": "Jamaica",
-    "update_reason": "Additional information on Hurricane Melissa. See 'Warnings and Insurance\u2019 page, and \u2018Extreme weather and natural disasters\u2019 on the \u2018Safety and security\u2019 page.",
+    "update_reason": "Addition of information regarding 'Register Your Presence' for British nationals in Jamaica ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Jamaica/Warnings and insurance.md",
-            "update_date": "2025-10-26T18:30:41+00:00"
+            "update_date": "2025-10-28T14:05:02+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Jamaica/Getting help.md"
         }
     ],
-    "update_date": "2025-10-26T18:30:41+00:00"
+    "update_date": "2025-10-28T14:05:02+00:00"
 }

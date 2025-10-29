@@ -1,13 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   28 September 2025
+:   29 October 2025
 
 Updated:
-:   28 September 2025
+:   28 October 2025
 
 Latest update:
-:   Addition of information on hurricane season (‘Warnings and insurance’ page and ‘Safety and security’ page).
+:   New information about Hurricane Melissa ('Warnings and insurance' page).
+
+## Hurricane Melissa
+
+Hurricane Melissa has developed into a major hurricane and is forecast to bring exceptional levels of rainfall and high storm surges in the coming days. Local authorities continue to monitor the weather system closely. Stay informed by monitoring local and international weather updates, including from the [Bahamas Department of Meteorology website](https://met.gov.bs/), as well as the [US National Hurricane Centre](https://www.nhc.noaa.gov/). Follow the guidance of local authorities, especially in relation to evacuation orders. See ‘Extreme weather and natural disasters’ on the [‘Safety and security’](https://www.gov.uk/foreign-travel-advice/haiti/safety-and-security#extreme-weather-and-natural-disasters) page.
 
 ## Hurricanes
 
