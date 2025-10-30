@@ -72,3 +72,7 @@ A number of energy drinks that are banned in Europe due to their high levels of 
 Before you take part in any outdoor or water-based sports or activities, such as kayaking, rock climbing, hang-gliding, etc., check that your travel insurance will cover you in the event of injury to yourself or a third party.
 
 You should also be aware that the health and safety requirements in Vietnam aren’t as stringent as in Ireland and are often neither observed nor enforced. This means the risk of a serious or fatal accident while taking part in these activities is much higher.
+
+### **Climbing**
+
+Accidents have occurred during mountain-climbing excursions in the north of the country. You are advised to go with reputable guides.

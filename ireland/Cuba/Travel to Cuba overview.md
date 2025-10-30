@@ -1,24 +1,17 @@
 ## Travel to Cuba overview
 
-### **Latest Travel Alert**
-
-Hurricane Melissa has been upgraded to a Category 5 hurricane heading towards Jamaica and Cuba and is expected to bring catastrophic floods, landslides and storm surges to the region. It is likely to hit southeastern Cuba late tomorrow 28 October.
-
-Defer non-essential travel until at least 30 October in eastern Cuba, including Granma, Guantanamo, Holguin, Las Tunas and Santiago de Cuba provinces.
-
-Follow all official directives, including any forthcoming evacuation orders.
-
-Airports are liable to pre-emptively cease operations in anticipation of the storm’s arrival. Reconfirm bookings with the relevant airport or carrier.
-
-Monitor Embassy social media for updates. <https://x.com/IrishEmbMexico/status/1982833932908609833> <https://www.instagram.com/irishembmexico/?hl=en> <https://www.facebook.com/IrishEmbMexico/>
-
 ### **Security Status**
 
 Normal Precautions
 
-### 
+### **Travel Alert**
 
-#### **Power Outage**
+### **Hurricane Melissa**
+
+Hurricane Melissa has been upgraded to a Category 5 hurricane heading towards Jamaica and Cuba and is expected to bring catastrophic floods, landslides and storm surges to the region. It is likely to hit southeastern Cuba late tomorrow 28 October.  
+Defer non-essential travel until at least 30 October in eastern Cuba, including Granma, Guantanamo, Holguin, Las Tunas and Santiago de Cuba provinces. Follow all official directives, including any forthcoming evacuation orders. Airports are liable to pre-emptively cease operations in anticipation of the storm’s arrival. Reconfirm bookings with the relevant airport or carrier. Monitor Embassy social media for updates. <https://x.com/IrishEmbMexico/status/1982833932908609833> <https://www.instagram.com/irishembmexico/?hl=en> <https://www.facebook.com/IrishEmbMexico/>
+
+### **Power Outage**
 
 Cuba has recently experienced several nationwide electrical grid shutdowns (most recently in March). A schedule of outages remains in place to restrict electricity usage.
 
