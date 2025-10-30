@@ -2,6 +2,8 @@
 
 ## Risk level
 
-### Bermuda - Take normal security precautions
+### BERMUDA - AVOID NON-ESSENTIAL TRAVEL
 
-[Take normal security precautions](#levels "Risk Levels") in Bermuda.
+[Avoid non-essential travel](#levels "Risk Levels") to Bermuda due to Hurricane Melissa.
+
+[Natural disasters and climate](https://travel.gc.ca/destinations/bermuda#disasters)

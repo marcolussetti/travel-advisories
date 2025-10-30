@@ -1,7 +1,7 @@
 {
     "name": "Mali",
-    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
-    "update_date": "2025-10-27T10:15:00",
+    "update_reason": "Safety and security \u2013 added information on fuel shortages and power outages",
+    "update_date": "2025-10-29T14:55:00",
     "sections": {
         "risk": "canada/Mali/risk.md",
         "security": "canada/Mali/security.md",

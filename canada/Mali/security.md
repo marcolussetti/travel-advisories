@@ -45,6 +45,28 @@ Be particularly vigilant during:
 
 Terrorists may use such occasions to mount attacks.
 
+### Shortages
+
+#### Fuel shortages
+
+Since September 2025, terrorist groups have imposed a blockade on fuel imports to Mali, causing severe disruptions to the country's supply.
+
+This has led to a reduction in essential services, long lines at gas stations and transportation difficulties.
+
+* Always keep your gas tank at least half full
+* Keep a supply of fuel on hand
+* Carefully plan all road travel
+
+#### Power outages
+
+Power outages occur regularly across the country and can last more than 8 hours. Not all buildings have generators.
+
+Power outages could impact essential services, such as:
+
+* the public water supply
+* telecommunications
+* banking transactions
+
 ### State of emergency
 
 A state of emergency is currently in effect throughout Mali. Heightened security measures are in place, including random identity checks and roadblocks. Carry identification and follow the instructions of local authorities at all times.

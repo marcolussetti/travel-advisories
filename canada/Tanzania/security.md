@@ -4,16 +4,19 @@
 
 ### General election
 
-General elections are scheduled in Tanzania on October 29, 2025, and on October 28 and 29, 2025, in Zanzibar.
+On October 29, 2025, general elections took place in Tanzania and Zanzibar.
 
-Political gatherings and demonstrations during recent elections have led to violence and resulted in fatalities, particularly on the islands on Zanzibar.
+Demonstrations are occurring throughout the country including in Dar es Salaam where authorities have imposed a curfew starting at 6 p.m.
 
-Local authorities may adjust security measures and restrict movement.
+Demonstrations during previous elections have led to violence and resulted in fatalities.
 
-Even peaceful gatherings can occasionally lead to disruptions or affect traffic and public transportation.
+Local authorities may strengthen security measures and restrict movement, including by imposing curfews.
+
+Demonstrations can lead to disruptions to traffic and public transportation. Telecommunications and Internet access may also be disrupted.
 
 If you are in Tanzania:
 
+* shelter in place
 * avoid demonstrations and large gatherings
 * expect an increased presence of security forces
 * monitor local media to stay informed of the latest information

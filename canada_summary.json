@@ -145,8 +145,8 @@
     },
     {
         "destination": "Bermuda",
-        "risk_level": "Take normal security precautions",
-        "last_updated": "2025-10-28T13:23:31",
+        "risk_level": "Avoid non-essential travel",
+        "last_updated": "2025-10-29T11:07:38",
         "details_url": "https://travel.gc.ca/destinations/bermuda"
     },
     {
@@ -266,7 +266,7 @@
     {
         "destination": "China",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-10-27T17:08:39",
+        "last_updated": "2025-10-29T14:04:18",
         "details_url": "https://travel.gc.ca/destinations/china"
     },
     {
@@ -446,7 +446,7 @@
     {
         "destination": "Gabon",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-10-27T16:08:17",
+        "last_updated": "2025-10-29T14:59:05",
         "details_url": "https://travel.gc.ca/destinations/gabon"
     },
     {
@@ -560,7 +560,7 @@
     {
         "destination": "Iceland",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2025-10-15T21:08:21",
+        "last_updated": "2025-10-29T10:20:42",
         "details_url": "https://travel.gc.ca/destinations/iceland"
     },
     {
@@ -746,7 +746,7 @@
     {
         "destination": "Mali",
         "risk_level": "Avoid all travel",
-        "last_updated": "2025-10-27T10:15:43",
+        "last_updated": "2025-10-29T14:55:35",
         "details_url": "https://travel.gc.ca/destinations/mali"
     },
     {
@@ -1010,7 +1010,7 @@
     {
         "destination": "Romania",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2025-10-23T16:23:04",
+        "last_updated": "2025-10-29T14:05:49",
         "details_url": "https://travel.gc.ca/destinations/romania"
     },
     {
@@ -1226,7 +1226,7 @@
     {
         "destination": "Tanzania",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-10-27T10:05:36",
+        "last_updated": "2025-10-29T13:10:56",
         "details_url": "https://travel.gc.ca/destinations/tanzania"
     },
     {
