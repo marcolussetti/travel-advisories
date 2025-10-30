@@ -4,17 +4,7 @@ This section has safety advice for regions of Niger. It only covers regions wher
 
 You should also read [FCDO’s overall travel advice](/foreign-travel-advice/niger) and [safety and security advice](/foreign-travel-advice/niger/safety-and-security).
 
-## Niamey
-
-FCDO advises against all but essential travel to Niamey. We recommend that British Nationals who decide to travel remain within the city limits of Niamey.
-
-Heightened security measures have been put in place in Niamey, including random stop and searches by local authorities. This is in response to the JNIM attack in Mali’s capital city, Bamako, in September 2024.
-
-## Outside of Niamey
-
-FCDO advises against all travel to Niger, except the capital city of Niamey, for security reasons.
-
-FCDO is unable to provide current and accurate information on the specific threat and risks in the regions outside Niamey.
+Outside of Niamey there is a greater risk of terrorist attack and risk of kidnapping is high. The FCDO is unable to provide current and accurate information on the specific threat and risks in the regions outside Niamey.
 
 ### Escort requirement
 

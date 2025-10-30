@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   22 October 2025
+:   30 October 2025
 
 Updated:
-:   21 October 2025
+:   29 October 2025
 
 Latest update:
-:   New information about an explosion in Guayaquil on 14 October 2025 ('Safety and security' page).
+:   Updated information about a transit control card ('Entry requirements' page).
 
 ![](https://assets.publishing.service.gov.uk/media/65a1082ce96df50014f8452c/FCDO__TA__014_-_Ecuador_Travel_Advice_Ed5__WEB_.jpg)
 
@@ -43,26 +43,9 @@ FCDO advises against all but essential travel to areas within 20km of the Ecuado
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/ecuador/regional-risks).
 
-## Road Blockades and Transport Strikes
-
-Due to ongoing transport strikes and road blockades around Ecuador, travellers may experience disruptions. You should check official sources regularly, follow guidance from the local authorities and monitor road conditions through the official [ECU 911 website](https://www.ecu911.gob.ec/consulta-de-vias/).
-
-## Regional state of emergency declared (road blockades and protests)
-
-A further 60-day state of emergency (SoE) was issued on 16 September, for the following provinces, due to ongoing road blockades and transport strikes. On 18 September, upon the announcement of national demonstrations by indigenous groups, curfew hours (from 10pm to 5 am) have been added to most provinces (\*). You should avoid any large gatherings.
-
-* Carchi \*
-* Imbabura \*
-* Pichincha
-* Azuay
-* Bolivar \*
-* Cotopaxi \*
-* Santo Domingo
-* Chimborazo \*
-
 ## Regional state of emergency declared (internal disturbance and armed violence)
 
-A 60-day state of emergency (SOE) was renewed on 5 October due to internal disturbance and armed violence. You should always follow the instructions of police and local authorities. The SOE currently applies to the following provinces:
+A 60-day state of emergency (SOE) was renewed on 5 October due to internal disturbance and armed violence. Follow the instructions of police and local authorities. The SOE currently applies to the following provinces:
 
 * Guayas
 * El Oro

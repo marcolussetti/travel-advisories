@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   28 October 2025
+:   30 October 2025
 
 Updated:
-:   27 October 2025
+:   29 October 2025
 
 Latest update:
-:   Updated information on Tanzania’s general elections (‘Warnings and insurance’ page).
+:   Updated information to reflect difficulties travelling to international airports and advice given to British High Commission staff (‘Warnings and insurance’page).
 
 ![](https://assets.publishing.service.gov.uk/media/645a3ab12226ee000c0ae4a0/FCDO__TA__086_-_Tanzania_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -28,15 +28,20 @@ Find out more about [why FCDO advises against travel](/foreign-travel-advice/tan
 
 ## General election
 
-General elections are scheduled to take place in Tanzania on 29 October 2025, with an additional day of voting in Zanzibar on 28 October 2025.
+General elections took place in Tanzania on 29 October 2025.
 
-Recent elections, including demonstrations and political gatherings across Tanzania (particularly on the islands of Zanzibar) have turned violent and resulted in fatalities.
+Following protests and unrest in some parts of the country, the Tanzanian police announced a nationwide curfew effective from 6pm local time on 29 October. Travel to and from some international airports may be affected due to road closures. Some international flights have been diverted from landing in Tanzanian airports. You should contact your airline or travel provider for further information.
 
-Stay away from all demonstrations, rallies, and large crowds.
+British nationals are advised to shelter in place, adhere to the curfew, monitor local media, follow the advice of the local authorities, and stay away from all demonstrations, rallies, and large crowds.
 
-Previous elections have seen disruptions to mobile networks, the internet and social media.
+Past elections have also seen disruptions to mobile networks, the internet and social media.
 
-If you become aware of any nearby disruption, monitor local media and follow the advice of the local authorities.
+You can [sign up for Travel Advice email alerts](https://www.gov.uk/foreign-travel-advice/tanzania/email-signup).
+
+If you are a British national in need of consular assistance, you can call us 24/7 selecting the option for ‘Consular services for British nationals’:
+
+* on +255 22 229 0000
+* on +44 (0) 20 7008 5000
 
 ## Before you travel
 

@@ -1,32 +1,32 @@
 # Warnings and insurance
 
 Still current at:
-:   23 October 2025
+:   30 October 2025
 
 Updated:
-:   22 October 2025
+:   29 October 2025
 
 Latest update:
-:   Update to the risk of kidnapping in Niger (See the grey box under ‘Areas where FCDO advises against travel’ on the ‘Warnings and insurance’ page).
+:   FCDO now advises against all travel to the capital city of Niamey, including the rest of Niger ('Warnings and insurance' page).
 
-![](https://assets.publishing.service.gov.uk/media/66c48e1c2e8f04b086cdf445/FCDO__TA__029_-_Niger_Travel_Advice_Ed3__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/69021020918e1f940b3cf7e5/FCDO__TA__029_-_Niger_Travel_Advice_Ed5__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/66c48e1c67dbaeb97a13e43e/FCDO__TA__029_-_Niger_Travel_Advice_Ed3.pdf)
+[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/69021020bdb1ef2270a1d106/FCDO__TA__029_-_Niger_Travel_Advice_Ed5.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
-## Areas where FCDO advises against travel
+## FCDO advises against all travel to Niger
 
-FCDO advises against all but essential travel to the capital city of Niamey and advises against all travel to the rest of Niger.
+This is due to the rise of reported terrorist and criminal kidnappings of foreign nationals which have taken place this year in Niger.
+
+There is an ongoing risk of terrorist attacks throughout Niger including in the capital, Niamey.
 
 The political situation remains unstable following the military coup in July 2023. Further instability is possible.
 
-There is an ongoing risk of terrorist attacks and kidnaps throughout Niger including in the capital, Niamey.
-
 ## US Security Alert
 
-The U.S. Embassy in Niamey has issued a Security Alert warning that American citizens are at risk of kidnapping throughout Niger, including in the capital, Niamey. British citizens are equally at risk. The full [Security Alert – U.S. Embassy Niamey (October 22, 2025)](https://ne.usembassy.gov/security-alert-u-s-embassy-niamey-october-22-2025/) can be read here.
+The US Embassy in Niamey has issued a Security Alert warning that American citizens are at risk of kidnapping throughout Niger, including in the capital, Niamey. British citizens are equally at risk. Read the [Security Alert – U.S. Embassy Niamey (October 22, 2025)](https://ne.usembassy.gov/security-alert-u-s-embassy-niamey-october-22-2025/).
 
 ## Limited UK government support
 

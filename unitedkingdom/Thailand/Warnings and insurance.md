@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   28 October 2025
+:   30 October 2025
 
 Updated:
-:   27 October 2025
+:   29 October 2025
 
 Latest update:
-:   FCDO no longer advises against all but essential travel to south of the A43 road between Hat Yai and Sakom, and south of the train line which runs between Hat Yai and Padang Besar but FCDO continues to advise against all but essential travel to the districts of Chana, Thepa, Na Thawi and Saba Yoi in southern Songkhla Province ('Warnings and insurance' and 'Regional risks' pages).
+:   New information about the formal mourning period following the death of HM Queen Sirikit ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/68ff9972d81972ecd2df5dbf/FCDO__TA__040_-_Thailand_Travel_Advice_Ed5__WEB_.jpg)
 
@@ -32,6 +32,12 @@ This is due to regular attacks in the provinces by the border with Malaysia. See
 FCDO also advises against all but essential travel to within 50km of the whole border with Cambodia, including Koh Chang, Koh Kood and the other islands in between them.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/thailand/safety-and-security#terrorism).
+
+## Death of HM Queen Sirikit
+
+Thailand is in a formal mourning period from 25 October 2025 for at least 30 days. During this time, there may be disruption to a wide range of businesses and services, including entertainment venues, restaurants, bars and shopping areas.
+
+Authorities in Thailand are advising  visitors to wear sombre clothing, particularly in public places, and to avoid bright or festive attire. Authorities are also advising visitors to behave respectfully in public including avoiding loud or inappropriate behaviour, especially when visiting temples, royal sites or government premises. For more information, [read the official announcement from the Thailand government](https://www.tatnews.org/2025/10/official-announcement-mourning-practices-following-the-passing-of-her-majesty-queen-sirikit-the-queen-mother/).
 
 ## Thailand-Cambodia border
 

@@ -1,11 +1,11 @@
 {
     "name": "Niger",
-    "update_reason": "Update to the risk of kidnapping in Niger (See the grey box under \u2018Areas where FCDO advises against travel\u2019 on the \u2018Warnings and insurance\u2019 page).",
+    "update_reason": "FCDO now advises against all travel to the capital city of Niamey, including the rest of Niger ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Niger/Warnings and insurance.md",
-            "update_date": "2025-10-22T20:49:27+01:00"
+            "update_date": "2025-10-29T13:21:04+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Niger/Getting help.md"
         }
     ],
-    "update_date": "2025-10-22T20:49:27+01:00"
+    "update_date": "2025-10-29T13:21:04+00:00"
 }

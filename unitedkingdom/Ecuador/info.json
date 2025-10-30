@@ -1,11 +1,11 @@
 {
     "name": "Ecuador",
-    "update_reason": "New information about an explosion in Guayaquil on 14 October 2025 ('Safety and security' page).",
+    "update_reason": "Updated information about a transit control card ('Entry requirements' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Ecuador/Warnings and insurance.md",
-            "update_date": "2025-10-21T13:59:01+01:00"
+            "update_date": "2025-10-29T10:21:44+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Ecuador/Getting help.md"
         }
     ],
-    "update_date": "2025-10-21T13:59:01+01:00"
+    "update_date": "2025-10-29T10:21:44+00:00"
 }

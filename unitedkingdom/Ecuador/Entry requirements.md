@@ -68,7 +68,7 @@ Tourists can stay in the Galapagos Islands for up to 60 days. To enter Galapagos
 
 * evidence of a hotel booking or an invitation letter from your host
 * evidence of a return flight to the Ecuadorean mainland
-* [completed an online Galapagos transit control card](https://siiws.gobiernogalapagos.gob.ec/siicgg_web/) at least 24 hours before your flight – you must also keep a copy
+* [purchase a transit control card](https://siiws.gobiernogalapagos.gob.ec/siicgg_web/) at your departure airport before checking in for your flight – you must also keep a copy
 * travel health insurance, which is mandatory for foreign tourists
 
 If you are travelling to or from Galapagos Islands via Guayaquil airport you should check with the airline before booking to ensure you will remain airside at Guayaquil airport.  FCDO advises against all but essential travel to Guayaquil, except for airside transit through the airport.

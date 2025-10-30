@@ -1,11 +1,11 @@
 {
     "name": "Thailand",
-    "update_reason": "FCDO no longer advises against all but essential travel to south of the A43 road between Hat Yai and Sakom, and south of the train line which runs between Hat Yai and Padang Besar but FCDO continues to advise against all but essential travel to the districts of Chana, Thepa, Na Thawi and Saba Yoi in southern Songkhla Province ('Warnings and insurance' and 'Regional risks' pages).",
+    "update_reason": "New information about the formal mourning period following the death of HM Queen Sirikit ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Thailand/Warnings and insurance.md",
-            "update_date": "2025-10-27T16:22:56+00:00"
+            "update_date": "2025-10-29T15:53:43+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Thailand/Getting help.md"
         }
     ],
-    "update_date": "2025-10-27T16:22:56+00:00"
+    "update_date": "2025-10-29T15:53:43+00:00"
 }
