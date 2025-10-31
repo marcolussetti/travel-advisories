@@ -17,6 +17,7 @@ Terrorists have threatened to carry out attacks in the Gulf region, including on
 * residential compounds
 * military, oil, transport and aviation interests
 * public places, including restaurants, hotels, beaches, shopping centres and mosques
+* tourist sites
 
 Be aware of your surroundings, particularly during high-profile events, and avoid large demonstrations.
 
@@ -133,7 +134,7 @@ It is illegal to say publicly anything that the Saudi authorities deem disruptiv
 * Islam
 * the country’s culture, beliefs and ways of public life
 * issues that could be perceived as political, including wearing clothing with political slogans or carrying flags or banners, especially when performing Hajj and Umrah
-* the situation in Israel and the Occupied Palestinian Territories
+* the situation in Israel and Palestine
 
 Speaking publicly about these issues can be defined by the Saudi authorities as posing a threat to national security. Statements made on social media many years ago, or those published outside Saudi Arabia, may be taken into account. Punishment can include long custodial sentences. The legal processes around national security cases can be complex and slow. If you are detained, it may take some time for the Saudi authorities to grant permission for consular officials to visit you.
 

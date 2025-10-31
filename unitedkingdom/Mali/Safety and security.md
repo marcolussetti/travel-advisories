@@ -14,7 +14,9 @@ Several terrorist groups operate in Mali, including Jama’a Nusrat ul-Islam wa 
 
 The security situation in Mali has deteriorated amid an upsurge of terrorist attacks following the December 2023 withdrawal of the UN peacekeeping mission. Terrorists have increasingly attacked military bases and personnel, sometimes including foreign military personnel, as well as government and official buildings, including in Bamako. Such attacks often lead to the deaths of soldiers, civilians and others. Attempts to carry out similar attacks remain very likely.
 
-Take particular care during elections and public holidays, and periods of national or religious significance. Stay aware of your surroundings, keep up to date with local media reports and follow the advice of local authorities, including by complying with access restrictions imposed by authorities. Consider whether travel movements within Bamako are essential and ensure robust security plans.
+Terrorist group Jama’a Nusrat ul-Islam wa al-Muslimin (JNIM) has implemented blockades on key routes throughout Southern and Western Mali, including the capital city of Bamako. These blockades are targeting fuel trucks and are enforcing checkpoints for individuals attempting to pass through them. Attacks can occur at any time.
+
+Take particular care during elections and public holidays, and periods of national or religious significance. Stay aware of your surroundings, keep up to date with local media reports and follow the advice of local authorities, including by complying with access restrictions imposed by authorities.
 
 Attacks could be indiscriminate and occur at any time, including in places frequented by foreign nationals, such as:
 
@@ -167,6 +169,8 @@ Exercise caution and do not resist demands if you feel threatened or in danger.
 Road conditions in Bamako are difficult during the rainy season from June to October. Roads outside Bamako are often damaged and dangerous. Other road users may drive unpredictably.
 
 Attacks on major roads and transport routes by terrorists are increasing across the country, including through the use of landmines and other explosive devices. This is particularly the case in areas where terrorist groups are operational and near border areas, including the roads in northern and eastern Mali.
+
+Terrorist group Jama’a Nusrat ul-Islam wa al-Muslimin (JNIM) has implemented blockades on key routes throughout Southern and Western Mali, including the capital city of Bamako. These blockades are targeting fuel trucks and are enforcing checkpoints for individuals attempting to pass through them. Attacks can occur at any time.
 
 Take all necessary safety precautions, especially outside of main urban areas, have confidence in your security arrangements and stay alert.
 

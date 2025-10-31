@@ -1,11 +1,11 @@
 {
     "name": "Cuba",
-    "update_reason": "New information on the risks from Hurricane Melissa (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Updated information about Hurricane Melissa (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Cuba/Warnings and insurance.md",
-            "update_date": "2025-10-29T22:15:33+00:00"
+            "update_date": "2025-10-30T11:18:53+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Cuba/Getting help.md"
         }
     ],
-    "update_date": "2025-10-29T22:15:33+00:00"
+    "update_date": "2025-10-30T11:18:53+00:00"
 }

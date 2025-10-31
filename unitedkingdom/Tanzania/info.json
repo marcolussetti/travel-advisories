@@ -1,11 +1,11 @@
 {
     "name": "Tanzania",
-    "update_reason": "Updated information to reflect difficulties travelling to international airports and advice given to British High Commission staff (\u2018Warnings and insurance\u2019page).",
+    "update_reason": "Updated information on road closures, transport cancellations, protests, and internet connection (See \u2018Protests and nationwide curfew\u2019 on the \u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Tanzania/Warnings and insurance.md",
-            "update_date": "2025-10-29T23:32:09+00:00"
+            "update_date": "2025-10-30T12:01:55+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Tanzania/Getting help.md"
         }
     ],
-    "update_date": "2025-10-29T23:32:09+00:00"
+    "update_date": "2025-10-30T12:01:55+00:00"
 }

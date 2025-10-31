@@ -1,11 +1,11 @@
 {
     "name": "Jamaica",
-    "update_reason": "Addition of information regarding 'Register Your Presence' for British nationals in Jamaica ('Warnings and insurance' page).",
+    "update_reason": "Updated information on UK government arranged charter flights from Jamaica (\"Warnings and insurance\" page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Jamaica/Warnings and insurance.md",
-            "update_date": "2025-10-28T14:05:02+00:00"
+            "update_date": "2025-10-30T23:42:09+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Jamaica/Getting help.md"
         }
     ],
-    "update_date": "2025-10-28T14:05:02+00:00"
+    "update_date": "2025-10-30T23:42:09+00:00"
 }

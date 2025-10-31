@@ -1,11 +1,11 @@
 {
     "name": "Dominican Republic",
-    "update_reason": "New information about Hurricane Melissa ('Warnings and insurance' page).",
+    "update_reason": "Update following Hurricane Melissa passing through the region ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Dominican Republic/Warnings and insurance.md",
-            "update_date": "2025-10-27T13:59:39+00:00"
+            "update_date": "2025-10-30T19:47:50+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Dominican Republic/Getting help.md"
         }
     ],
-    "update_date": "2025-10-27T13:59:39+00:00"
+    "update_date": "2025-10-30T19:47:50+00:00"
 }

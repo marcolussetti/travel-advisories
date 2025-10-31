@@ -1,11 +1,11 @@
 {
     "name": "Mali",
-    "update_reason": "Updated information about blockades and risk of kidnapping in Mali ('Warnings and insurance' page).",
+    "update_reason": "New information that non-essential British Embassy staff have been temporarily withdrawn from Bamako.  (See \u2018UK government support\u2019 on the \u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Mali/Warnings and insurance.md",
-            "update_date": "2025-10-24T19:53:05+01:00"
+            "update_date": "2025-10-30T21:01:05+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Mali/Getting help.md"
         }
     ],
-    "update_date": "2025-10-24T19:53:05+01:00"
+    "update_date": "2025-10-30T21:01:05+00:00"
 }
