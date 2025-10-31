@@ -12,7 +12,7 @@ Ongoing hostilities in Iran, Israel, Palestine and in Houthi controlled areas in
 
 ### **General Travel Advice**
 
-Irish citizens require a [**visa**](https://visa.visitsaudi.com/)to enter Saudi Arabia.
+Irish citizens require a [**visa**](https://visa.visitsaudi.com/) to enter Saudi Arabia.
 
 A valid passport is required for travel to Saudi Arabia. Irish passports should have a minimum validity of 6 months. Passport cards cannot be used.
 

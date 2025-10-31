@@ -2,9 +2,9 @@
 
 **You should have adequate medical insurance before departure travelling to Indonesia to cover any costs you may incur.** **High quality treatment and medical evacuation are very expensive.**
 
-### **Vacccinations**
+### **Vaccinations**
 
-Check with a doctor well in advance of travelling to confirm what, if any, medical vaccinations may be required. There are a number of tropical diseases in Indonesia such as malaria, Japanese encephalitis and dengue, which can be transmitted by mosquito bites. It is best to avoid mosquito bites when possible, by keeping covered and applying repellents. Other diseases that are found in Indonesia include rabies, tuberculous, hepatitis, typhoid, measles and cholera. We recommend that you book an appointment with your GP at least 8 weeks before your intended travel to discuss your vaccine requirements.
+Check with a doctor well in advance of travelling to confirm what, if any, medical vaccinations may be required. There are a number of tropical diseases in Indonesia such as malaria, Japanese encephalitis and dengue, which can be transmitted by mosquito bites. It is best to avoid mosquito bites when possible, by keeping covered and applying repellents. Other diseases that are found in Indonesia include rabies, tuberculous, hepatitis, typhoid, measles and cholera. We recommend that you book an appointment with your GP at least eight weeks before your intended travel to discuss your vaccine requirements.
 
 ### **Medication**
 

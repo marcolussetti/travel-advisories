@@ -6,6 +6,18 @@ High Degree of Caution
 
 ### **Travel Alert**
 
+### **Rift Valley Fever Outbreak**
+
+An outbreak of Rift Valley fever (RVF) has been reported in northern Senegal, mainly in the regions of Saint-Louis, Louga, and Matam.
+
+RVF infection in humans usually occurs following contact with the blood, bodily fluids, or tissues of infected animals, as well as through the bites of infected mosquitoes.
+
+Travellers to northern Senegal, including Saint-Louis, are advised to avoid all contact with livestock, raw or undercooked meat, and raw dairy products. Travellers are also advised to take measures to prevent mosquito bites, including use of an approved insect repellent spray, wearing socks and closed toe shoes, and sleeping under mosquito nets if staying outdoors or in unenclosed spaces.
+
+Infection with the RVF virus can cause a severe illness that initially manifests as fever spikes. Travellers to northern Senegal experiencing these symptoms are advised to consult a doctor as soon as possible.
+
+### **Travel to the Mali border**
+
 There is increased terrorist and serious organised crime activity in the Kayes Region in western Mali, and in part of Mauritania bordering the Matam region in Senegal.
 
 All citizens are advised to be vigilant, particularly when travelling in Eastern Senegal, and to avoid all travel within 25 kilometres of the Mali border and the Mauritania border in the Matam region.

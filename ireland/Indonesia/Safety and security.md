@@ -1,8 +1,12 @@
 ## Safety and security
 
+Citizens are strongly encouraged to [**Register**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/) your details with the Embassy
+
 ### **Civil Unrest**
 
-Public demonstrations have been occurring in several regions across Indonesia, including Jakarta and Bali, and have turned violent in certain instances. Further demonstrations are expected to take place, and have the potential to turn violent. Any Irish citizens in Indonesia should exercise a high degree of caution and closely follow the instructions of the local authorities. Citizens are strongly encouraged to register with the Embassy at the following link: [**Citizen Registration - Department of Foreign Affairs and Trade**](https://citizensregistration.dfa.ie/)**.**
+Public demonstrations can occasionally occur in Indonesian cities, and have the potential to turn violent. Travellers are advised to avoid large crowds and demonstrations, and to keep informed of any updates with local media.
+
+Visitors to Indonesia are advised to follow the guidance of national and local authorities and stay informed on what is going on by monitoring local news and social media.
 
 ### **Terrorism**
 
@@ -26,11 +30,11 @@ If your passport is lost or stolen, report this to the Police immediately and ob
 
 Please be aware that you will need to visit the Embassy of Ireland in Jakarta - in - person to arrange an emergency travel document if necessary. For more information please see Entry requirements tab.
 
-### **Driving**
+### **Driving and other forms of transport**
 
 Caution should be exercised if driving in Indonesia, as driving standards vary. Bring a full Irish and international driving license. **You should** **have adequate and appropriate insurance.**
 
-Motorcycle accidents are common on the Islands of Bali and Lombok. Only experienced drivers should use motorbikes and mopeds.
+Motorcycle accidents are common on the Islands of Bali and Lombok. Only experienced drivers should use motorbikes and mopeds and all necessary safety precautions should be taken, including wearing a helmet.
 
 ### **Hiring a Vehicle**
 
@@ -42,7 +46,7 @@ If hiring or renting a vehicle ensure it is only from a trusted company that req
 
 ### **Local Alcohol**
 
-A number of local and tourist deaths in Indonesia have been caused by the consumption of locally-brewed alcohol and rice wine, or 'arak', which has been contaminated with methanol. We advise all travellers, especially in Bali, Lombok and Gili Islands, not to consume this drink.
+A number of local and tourist deaths in Indonesia have been caused by the consumption of locally-brewed alcohol and rice wine, or 'arak', which has been contaminated with methanol. We advise all travellers, especially in Bali, Lombok and Gili Islands, not to consume this drink. Avoid purchasing alcohol outside of licenced establishments.
 
 ### **Air Safety**
 
@@ -50,13 +54,15 @@ Aviation infrastructure in Indonesia is sometimes overstretched, and the difficu
 
 ### **Maritime Safety**
 
-Take extra care, when travelling by boat between islands. Boats can capsize in stormy weather. Many beaches in particular on the south coast of Java and Bali, are unsuitable for swimming.
+Take extra care, when travelling by boat between islands. Boats can capsize in stormy weather. It is advisable to where a lifejacket at all times when travelling by boat.
 
-Diving in Indonesia is a high-risk sport, with dangerous sea currents and unpredictable water conditions. **Only experienced divers should partake in this sport** and should adhere to the local laws and safety regulations.
+Many beaches in particular on the south coast of Java and Bali, are unsuitable for swimming.
 
-Diving is considered an adventure sport by many insurance companies and may not be covered by standard travel or medical insurance policies. **Ensure that your travel and medical insurance policies cover you for diving activities.** Diving beyond the depth limit specified in your insurance policy, or diving unaccompanied, can invalidate your insurance cover.
+Diving in Indonesia is a high-risk sport, with dangerous sea currents and unpredictable water conditions. **Only experienced divers should partake in this sport** and should adhere to the local laws and safety regulations. It is potentially dangerous to fly too soon after diving, so plan your travel around diving carefully, following guidance of reputable international diving organisations.
 
-It is strongly advised to participate in diving tours only if you hold a valid open water diving licence that is accredited by a reputable international diving organisation following your participation in an intensive training course (usually spanning-5 days). Use only diving schools and diving masters that are properly certified by international diving organisations. Before diving, you should consult with a doctor to ensure that you are fit to dive.
+Diving is considered an adventure sport by many insurance companies and may not be covered by standard travel or medical insurance policies. **Ensure that your travel and medical insurance policies cover you for diving activities**. Diving beyond the depth limit specified in your insurance policy, or diving unaccompanied, can invalidate your insurance cover.
+
+It is strongly advised to participate in diving tours only if you hold a valid open water diving licence that is accredited by a reputable international diving organisation following your participation in an intensive training course (usually spanning five days). Use only diving schools and diving masters that are properly certified by international diving organisations. Before diving, you should consult with a doctor to ensure that you are fit to dive.
 
 ### **Water**
 

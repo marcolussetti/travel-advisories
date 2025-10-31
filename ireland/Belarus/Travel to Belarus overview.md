@@ -6,17 +6,17 @@ Do Not Travel
 
 ### **General Travel Advice**
 
-The Department of Foreign Affairs and Trade strongly advises against all travel to Belarus at this time due to the extent of Russian military operations in the country in connection with the widespread military conflict between Russia and Ukraine, and the increasingly restricted options for Irish citizens in Belarus to depart the country.
+The Department of Foreign Affairs and Trade strongly advises against all travel to Belarus at this time due to the wider security environment in the context of Russia's full-scale invasion of Ukraine, regular politically-motivated detention of foreigners by the Belarusian regime, and the increasingly restricted options for Irish citizens in Belarus to depart the country. Dual-citizens who are eligible for military service in Belarus should be aware of the likelihood of facing exit restrictions.
 
-Due to the aforementioned conflict in neighbouring Ukraine, flights to and from Minsk are now very limited. Irish citizens wishing to leave Belarus should do so immediately via the land borders with Latvia or Lithuania. Please note that a number of land border crossings between Belarus and EU Member States have been closed in recent times, and following a decision of the Lithuanian Government in February 2024, it is anticipated that fewer permits will be issued in future to Belarusian and Lithuanian carriers operating regular international passenger transportation services (e.g. buses).
+Due to the aforementioned conflict in neighbouring Ukraine, flights to and from Minsk are now very limited. Irish citizens wishing to leave Belarus should do so immediately via the land borders with Latvia, Lithuania, or Poland. Please note that a number of land border crossings between Belarus and EU Member States have been closed in recent times, and following a decision of the Lithuanian Government in February 2024, it is anticipated that fewer permits will be issued in future to Belarusian and Lithuanian carriers operating regular international passenger transportation services (e.g. buses).
 
-The following border crossings for passenger vehicles remain in operation but may be subject to closure at short notice in the future, particularly in light of developing security concerns, such as the Zapad military exercises:
+The following border crossings for passenger vehicles remain in operation but may be subject to closure at short notice in the future:
 
 Latvia: Paternieki
 
-Lithuania: Medininkai; Šalčininkai
+Poland: Terespol
 
-Since 1 March 2024, the Lithuania-Belarus border crossings at Lavoriškės and Raigardas are closed. In addition, pedestrian and bicycle crossings are no longer permitted at the Medininkai and Šalčininkai border crossings.
+Additionally, EU citizens (including Irish) can depart from Belarus into Lithuania at the Medininkai border crossing. Pedestrian and bicycle crossings are not permitted at this crossing. As of October 2025, no other border crossings with Lithuania are open.
 
 As of 19 July 2024, a visa is not required for Irish citizens who will be staying in Belarus for no more than thirty days.
 

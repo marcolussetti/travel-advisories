@@ -2,7 +2,7 @@
 
 ### **Visa**
 
-The electronic Visa on Arrival (e-VoA) is available to Irish citizens travelling to Indonesia. You can apply for this using the [**All Indonesia platform**.](https://allindonesia.imigrasi.go.id/)
+The electronic Visa on Arrival (e-VoA) is available to Irish citizens travelling to Indonesia. You can apply for a visa for Indonesia [Here](https://evisa.imigrasi.go.id/web/servicesClean.docx)
 
 Alternatively, you can apply for a Visa on Arrival (VoA) in person upon your arrival to your port of entry in Indonesia. You can only make the in-person applications at designated Immigration Border Control points.
 

@@ -4,15 +4,9 @@
 
 High Degree of Caution
 
-### **Latest Travel Advice**
-
-Hurricane Melissa, a major category 5 hurricane, is expected to reach Jamaica on Tuesday 27 October. There are estimates for up to 700 millimetres of rain, storm surges around coastal areas bringing waves of up to 4 metres, and winds of up to 217 kilometres per hour. The heavy rainfall caused by the hurricane is also expected to cause serious flash flooding and landslides.
-
-The Jamaican government has closed its international airports until further notice. Potential damage to property and infrastructure may cause additional flight disruption after the hurricane has past.
-
-Irish citizens are advised to seek appropriate shelter and to follow the advice of Jamaican authorities.
-
 ### **General Travel Advice**
+
+Hurricane Melissa brought strong winds and high levels of rainfall to Jamaica on 28 October, causing widespread damage to infrastructure and disruption to electricity and utilities services. Communication, power and water supplies may be disrupted. Continue to follow local advice and monitor local weather updates.
 
 Irish citizens do not need a visa to enter Jamaica for 90 days or less as tourists. More information is available [**here**](https://www.pica.gov.jm/immigration/entry-visa-requirements).
 

@@ -27,8 +27,6 @@ Antalya
 
 [Tel: +90 242 247 8945](tel:+90242 247 8945)
 
-Fax: +90 242 243 0613
-
 **Email:** [mehmet.arkan@honoraryconsul.ie](mailto:mehmet.arkan@honoraryconsul.ie)
 
 ### Honorary Consul of Ireland, Izmir
