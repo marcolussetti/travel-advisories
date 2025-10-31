@@ -36,21 +36,19 @@ If you encounter any debris or fragments:
 * [Registration of Canadians Abroad service](https://travel.gc.ca/travelling/registration)
 * [Canada's response to the situation in the Middle East](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=eng)
 
-### Military operations in the Gaza Strip
+### Security situation in the Gaza Strip
 
-On October 7, 2023, terrorists based in the Gaza Strip carried out a large-scale terrorist attack in Israel, resulting in thousands of casualties. Subsequently, Israel launched a military offensive into the Gaza Strip. The operation has resulted in tens of thousands of civilian casualties and led to significant damage to civilian infrastructure, such as hospitals and schools.
+The security situation in the Gaza Strip remains volatile and unpredictable. Your safety is at high risk throughout the Gaza Strip.
 
-Your safety is at high risk throughout the Gaza Strip due to the ongoing military operations.
+On October 7, 2023, terrorists based in the Gaza Strip carried out a large-scale terrorist attack in Israel, resulting in thousands of casualties. Subsequently, Israel launched a military offensive into the Gaza Strip. The two-year conflict has resulted in tens of thousands of civilian casualties and led to significant damage to civilian infrastructure, such as hospitals and schools.
 
-Ongoing hostilities and the limited entry of humanitarian aid have led to severe shortages of basic supplies and widespread disruptions to essential services throughout the Gaza Strip, including:
+The limited entry of humanitarian aid has led to severe shortages of basic supplies and widespread disruptions to essential services throughout the Gaza Strip, including:
 
 * water and food supply
 * power distribution
 * telecommunications networks
 * emergency services
 * medical care and supplies
-
-Military action in the Gaza Strip could further disrupt key infrastructure and transportation routes and limit the provision of essential services throughout the territory.
 
 Travel in and out of the Gaza Strip is extremely limited, including for humanitarian assistance and evacuations.
 

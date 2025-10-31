@@ -41,12 +41,16 @@ Violent crime often occurs in the following areas:
 
 * Rio de Janeiro:
 
-+ Christ the Redeemer statue
-+ Copacabana Beach
-+ Corcovado Trail
-+ Ipanema Beach
-+ Lapa neighbourhood
-+ Santa Teresa neighbourhood
++ Cidade de Deus to Gardênia Azul and surrounding area
++ Complexo da Maré
++ Complexo da Penha
++ Complexo do Alemão
++ Complexo do Turano
++ Jacarezinho
++ Morro do Borel to Morro do Andaraí and surrounding area
++ Morro do Juramento and surrounding area
++ Morro do Urubu and surrounding area
++ Vila Kennedy to Vila Aliança and surrounding area
 
 * São Paulo:
 
@@ -54,13 +58,14 @@ Violent crime often occurs in the following areas:
 + Avenida Paulista
 + historical downtown area
 + Municipal Market
-+ Pinacoteca
++ Pinacoteca (Pina) do Estado de São Paulo
 + Princess Isabel Square
 + Luz station
 
-* Satellite cities of Brasilia:
+* Satellite cities of Brasília:
 
 + Ceilândia
++ Estrutural
 + Paranoá
 + Santa Maria
 + São Sebastião
@@ -77,7 +82,7 @@ If you decide to travel to these areas:
 
 Robberies occur regularly and often involve weapons such as guns and knives. Thieves generally target people who appear wealthy, such as those using cell phones and laptops.
 
-Robberies can occur anywhere.
+Robberies can occur anywhere, including in all touristic areas in Rio de Janiero (such as Lapa, Santa Teresa and Copacabana beach). Exercise caution in crowded areas.
 
 Drive-by snatching by armed thieves on motorcycles occurs regularly, particularly in São Paulo and Porto Alegre.
 
@@ -97,7 +102,7 @@ Victims have been seriously injured or killed when resisting perpetrators, who w
 
 #### Petty crime
 
-Petty crime, such as pickpocketing, purse and cell phone snatching, and car theft, is common in Brazil’s large cities.
+Petty crime, such as pickpocketing, purse and cell phone snatching, and car theft, is common in Brazil’s large cities. This includes all touristic areas of Rio de Janiero and São Paulo. Exercise caution in crowded areas.
 
 Theft commonly occurs at or near:
 
@@ -148,7 +153,7 @@ While you’re in Brazil:
 
 ### Adulterated alcohol
 
-People have died in Brazil after drinking methanol-adulterated alcohol. Poisoning incidents have been reported in various locations across the states of Sao Paulo and Pernambuco, and in Brasilia. Adulterated drinks include gin, whiskey and vodka sold in bars and liquor stores.
+People have died in Brazil after drinking methanol-adulterated alcohol. Poisoning incidents have been reported in various locations across the states of São Paulo and Pernambuco, and in Brasília. Adulterated drinks include gin, whiskey and vodka sold in bars and liquor stores.
 
 Brazil’s Ministry of Health advises not to consume these beverages until further notice and to seek medical assistance immediately if you begin to feel sick within 12 to 24 hours after consuming an alcoholic beverage.
 
@@ -374,7 +379,7 @@ Public transportation can be very crowded at peak transit times, and pickpocketi
 
 Petty theft is common in the subway system, especially when crowded.
 
-There are subway cars reserved for women and children in Rio de Janeiro and Brasilia.
+There are subway cars reserved for women and children in Rio de Janeiro and Brasília.
 
 #### Buses and coaches
 
@@ -394,7 +399,7 @@ Assaults, thefts, and scams often occur in unofficial taxis.
 
 Registered taxis are identifiable and have a taxi meter to determine the legal fare.
 
-In Brasilia, most registered taxis are white with a green sign on the doors. In Rio de Janeiro, most registered taxis are yellow with a blue stripe and have a company’s name labelled near the blue stripe at the back. Malls and the airport often have their own registered taxis.
+In Brasília, most registered taxis are white with a green sign on the doors. In Rio de Janeiro, most registered taxis are yellow with a blue stripe and have a company’s name labelled near the blue stripe at the back. Malls and the airport often have their own registered taxis.
 
 * Only use officially marked taxis
 * Arrange your pickup with your hotel before arrival when travelling by air, or use authorized taxis at the airport

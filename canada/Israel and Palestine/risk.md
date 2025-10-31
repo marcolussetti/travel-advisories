@@ -8,7 +8,7 @@
 
 ### PALESTINE - AVOID ALL TRAVEL
 
-[Avoid all travel](#levels "Risk Levels") to Palestine due to the ongoing Israeli military operations in the Gaza Strip and the unpredictable security situation in the West Bank.
+[Avoid all travel](#levels "Risk Levels") to Palestine due to the dire humanitarian conditions, the volatile and unpredictable security situation, and extensive damage to infrastructure in the Gaza Strip, and the volatile security situation in the West Bank.
 
 This advisory excludes the following roads, where you should avoid non-essential travel:
 

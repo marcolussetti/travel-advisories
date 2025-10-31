@@ -2,25 +2,29 @@
 
 ## Safety and security
 
-### General election
+### Demonstrations
 
 On October 29, 2025, general elections took place in Tanzania and Zanzibar.
 
-Demonstrations are occurring throughout the country including in Dar es Salaam where authorities have imposed a curfew starting at 6 p.m.
+Violent demonstrations are occurring throughout the country, including in Dar es Salaam.
 
-Demonstrations during previous elections have led to violence and resulted in fatalities.
+Telecommunications and Internet access are disrupted.
 
-Local authorities may strengthen security measures and restrict movement, including by imposing curfews.
+Authorities have strengthened security measures and have imposed a nationwide curfew starting at 6 pm.
 
-Demonstrations can lead to disruptions to traffic and public transportation. Telecommunications and Internet access may also be disrupted.
+Demonstrations, movement restrictions and roadblocks are disrupting traffic and public transportation, including air and sea travel.
+
+* Access to Julius Nyerere International Airport in Dar es Salaam may be limited
+* Flights to and from Zanzibar are disrupted
+* Ferries between Dar es Salaam and Zanzibar are not currently running
 
 If you are in Tanzania:
 
 * shelter in place
+* contact your airline to confirm your flight and proceed to the airport only if it is safe to do so
 * avoid demonstrations and large gatherings
-* expect an increased presence of security forces
-* monitor local media to stay informed of the latest information
-* follow the instructions of local authorities
+* monitor the media for the latest information
+* follow the instructions of local authorities, including curfew orders
 
 ### Border with Mozambique in the Mtwara region
 

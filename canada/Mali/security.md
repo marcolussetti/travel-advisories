@@ -54,7 +54,7 @@ Since September 2025, terrorist groups have imposed a blockade on fuel imports t
 This has led to a reduction in essential services, long lines at gas stations and transportation difficulties.
 
 * Always keep your gas tank at least half full
-* Keep a supply of fuel on hand
+* Ensure access to fuel
 * Carefully plan all road travel
 
 #### Power outages

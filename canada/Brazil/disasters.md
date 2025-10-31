@@ -7,7 +7,7 @@
 Wildfires are common during the dry season, between May and September, particularly in:
 
 * Amazonas
-* Brasilia
+* Brasília
 * Cerrado region
 * Pantanal region
 
@@ -64,7 +64,7 @@ Know the symptoms of dehydration and heatstroke, which can both be fatal.
 
 ### Dry season and droughts
 
-Brasilia and the country's interior experience extreme dry periods between May and October. Humidity levels can drop below 10% and heat levels rise significantly.
+Brasília and the country's interior experience extreme dry periods between May and October. Humidity levels can drop below 10% and heat levels rise significantly.
 
 Western Brazil can experience periods of prolonged drought, which can lead to water shortages.
 

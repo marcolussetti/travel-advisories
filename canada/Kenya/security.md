@@ -4,10 +4,6 @@
 
 ### Terrorism
 
-On August 19, 2025, the U.S. Embassy in Nairobi issued the following security alert:
-
-“Terrorist groups, such as al-Shabaab, are an ongoing and persistent threat not only in Kenya as a whole, but also in Nairobi. Locations such as hotels, embassies, restaurants, malls and markets, schools, police stations, places of worship, and other places frequented by foreigners and tourists continue to be attractive targets. Terrorist groups can attack with little to no warning. While attacks can occur at any time, concerns are heightened in proximity to anniversary dates of prior attacks such as August 7th, September 11th, September 21st Westgate Mall attack, and the October 7th Hamas attack against Israel.”
-
 There is a threat of terrorism throughout Kenya, including in Nairobi.
 
 Terrorist attacks have occurred in the past:

@@ -62,7 +62,7 @@
     {
         "destination": "Armenia",
         "risk_level": "Take normal security precautions (with regional advisories)",
-        "last_updated": "2025-09-23T12:10:45",
+        "last_updated": "2025-10-30T11:06:32",
         "details_url": "https://travel.gc.ca/destinations/armenia"
     },
     {
@@ -182,7 +182,7 @@
     {
         "destination": "Brazil",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-10-27T16:41:13",
+        "last_updated": "2025-10-30T15:06:22",
         "details_url": "https://travel.gc.ca/destinations/brazil"
     },
     {
@@ -518,7 +518,7 @@
     {
         "destination": "Guinea",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-10-27T16:14:07",
+        "last_updated": "2025-10-30T15:46:21",
         "details_url": "https://travel.gc.ca/destinations/guinea"
     },
     {
@@ -596,7 +596,7 @@
     {
         "destination": "Israel and Palestine",
         "risk_level": "Avoid non-essential travel (with regional advisories)",
-        "last_updated": "2025-10-10T12:31:12",
+        "last_updated": "2025-10-30T11:55:11",
         "details_url": "https://travel.gc.ca/destinations/israel-and-palestine"
     },
     {
@@ -608,7 +608,7 @@
     {
         "destination": "Jamaica",
         "risk_level": "Avoid all travel",
-        "last_updated": "2025-10-28T13:23:31",
+        "last_updated": "2025-10-30T16:10:31",
         "details_url": "https://travel.gc.ca/destinations/jamaica"
     },
     {
@@ -632,7 +632,7 @@
     {
         "destination": "Kenya",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-10-27T16:29:03",
+        "last_updated": "2025-10-30T11:25:35",
         "details_url": "https://travel.gc.ca/destinations/kenya"
     },
     {
@@ -746,7 +746,7 @@
     {
         "destination": "Mali",
         "risk_level": "Avoid all travel",
-        "last_updated": "2025-10-29T14:55:35",
+        "last_updated": "2025-10-30T15:51:09",
         "details_url": "https://travel.gc.ca/destinations/mali"
     },
     {
@@ -890,13 +890,13 @@
     {
         "destination": "Niger",
         "risk_level": "Avoid all travel",
-        "last_updated": "2025-10-02T07:51:33",
+        "last_updated": "2025-10-30T15:47:54",
         "details_url": "https://travel.gc.ca/destinations/niger"
     },
     {
         "destination": "Nigeria",
         "risk_level": "Avoid non-essential travel (with regional advisories)",
-        "last_updated": "2025-10-27T16:32:22",
+        "last_updated": "2025-10-30T15:50:33",
         "details_url": "https://travel.gc.ca/destinations/nigeria"
     },
     {
@@ -1226,7 +1226,7 @@
     {
         "destination": "Tanzania",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-10-29T13:10:56",
+        "last_updated": "2025-10-30T15:21:06",
         "details_url": "https://travel.gc.ca/destinations/tanzania"
     },
     {
@@ -1279,8 +1279,8 @@
     },
     {
         "destination": "Turks and Caicos Islands",
-        "risk_level": "Avoid non-essential travel",
-        "last_updated": "2025-10-28T13:23:31",
+        "risk_level": "Exercise a high degree of caution",
+        "last_updated": "2025-10-30T12:49:54",
         "details_url": "https://travel.gc.ca/destinations/turks-and-caicos-islands"
     },
     {
