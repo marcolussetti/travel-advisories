@@ -55,7 +55,7 @@ From 12 October 2025, the European Union’s (EU) new Entry/Exit System (EES) wi
 
 This means that when you travel into the Schengen area for short stays, you may need to register your biometric details, such as fingerprints and a photo. You do not need to take any action before you arrive at the border, and there is no cost for EES registration.
 
-On your first visit into a Schengen country from 12 October onwards, you may be asked to register your details at a special booth before proceeding to the immigration desk. Follow directions from your travel operator or the staff at your port of entry. You may also need to provide either your fingerprint or photo when you leave the Schengen area. Children aged 11 or younger will not have their fingerprints scanned but may need their photo taken.
+On your first visit into a Schengen country from 12 October onwards, you may be asked to register your details at a special booth before proceeding to the immigration desk. Follow directions from your travel operator or the staff at your port of entry. You may also need to provide either your fingerprint or photo when you leave the Schengen area. Children aged 11 or younger will not have their fingerprints scanned but can be required to have their photo taken.
 
 EES may take each passenger a few extra minutes to complete so be prepared to wait longer than usual at the border.
 
@@ -76,6 +76,14 @@ If you arrive in Lithuania from Belarus or Russia, including the Kaliningrad Obl
 British nationals can travel to Lithuania from Belarus or Russia by bus. Restrictions may apply if arriving in a privately owned car registered in Belarus. Russian plated vehicles are currently only permitted to enter Lithuania for up to 24 hours if transiting to or from the Kaliningrad Oblast.
 
 For more information, see the [Lithuanian Customs Service website](https://lrmuitine.lt/web/guest/naujienos/aktualijos/aktualija?p_p_id=EXT_WPLISTALLNEWS&p_p_lifecycle=0&_EXT_WPLISTALLNEWS_obj_id=090004d2801f1006#en), and read FCDO’s [Russia travel advice](https://www.gov.uk/foreign-travel-advice/russia/returning-to-the-uk) or [Belarus travel advice](https://www.gov.uk/foreign-travel-advice/belarus).
+
+## Belarus-Lithuania border closures
+
+On 29 October 2025, Lithuania announced the closure of its border with Belarus until at least 30 November 2025. However, UK nationals are exempt and can continue to cross the border. For further information on these restrictions, see the [Lithuanian Government website](https://vrm.lrv.lt/en/news/lithuanian-government-have-decided-to-close-salcininkai-and-medininkai-border-checkpoints-with-belarus-for-one-month-4zSU/) (only available in Lithuanian).
+
+Only one border crossing point between Lithuania and Belarus remains open: Medininkai-Kamenny Log. Crossing the border is only possible by private vehicle; scheduled buses are currently not operating across the Belarusian-Lithuanian border.
+
+Lithuania also denies entry to cars registered in Belarus, with certain exemptions. For further information on these restrictions, see [the Lithuanian Government website](https://muitine.lrv.lt/lt/naujienos/lengvuju-automobiliu-su-baltarusiskais-registracijos-numeriais-ivaziavimas-i-lietuva/) (only available in Lithuanian).
 
 ## Checkpoints on the Lithuania/Poland Border
 

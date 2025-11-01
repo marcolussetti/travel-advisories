@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   1 November 2025
 
 Updated:
-:   29 January 2025
+:   31 October 2025
 
 Latest update:
-:   This travel advice was reviewed for accuracy and reissued without any significant updates.
+:   Removal of information about the UK Air Safety List as Comoros has been removed from the list.
 
 ## Before you travel
 

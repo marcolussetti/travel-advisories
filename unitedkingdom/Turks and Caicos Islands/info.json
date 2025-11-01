@@ -1,11 +1,11 @@
 {
     "name": "Turks and Caicos Islands",
-    "update_reason": "Updated information on Hurricane Melissa ('Warnings and insurance' page).",
+    "update_reason": "Removal of information about Hurricane Melissa.",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Turks and Caicos Islands/Warnings and insurance.md",
-            "update_date": "2025-10-27T14:13:27+00:00"
+            "update_date": "2025-10-31T16:02:40+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Turks and Caicos Islands/Getting help.md"
         }
     ],
-    "update_date": "2025-10-27T14:13:27+00:00"
+    "update_date": "2025-10-31T16:02:40+00:00"
 }

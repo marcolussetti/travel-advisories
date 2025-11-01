@@ -98,7 +98,11 @@ The border with Poland reopened on 25 September 2025 following a decision by Pol
 
 ### Belarus-Lithuania border
 
-Only two border crossing points between Lithuania and Belarus remain open: Medininkai-Kamenny Log and Šalčininkai-Benyakoni. On 18 July 2024, Lithuania announced further restrictions at the border with Belarus to deny entry to cars registered in Belarus, with certain exemptions. For further information on these restrictions, see the [Lithuanian government website](https://lrmuitine.lt/web/guest/naujienos/aktualijos/aktualija?p_p_id=EXT_WPLISTALLNEWS&p_p_lifecycle=0&_EXT_WPLISTALLNEWS_obj_id=090004d2801f1006%22%20%5Cl%20%22en). These border crossings may close or implement restrictions at short notice. Check the latest information from the [Lithuanian Ministry of the Interior](https://vrm.lrv.lt/en/).
+On 29 October 2025, Lithuania announced the closure of its border with Belarus until at least 30 November 2025. However, UK nationals are exempt and can continue to cross the border. For further information on these restrictions, see the [Lithuanian Government website](https://vrm.lrv.lt/en/news/lithuanian-government-have-decided-to-close-salcininkai-and-medininkai-border-checkpoints-with-belarus-for-one-month-4zSU/) (only available in Lithuanian).
+
+Only one border crossing point between Lithuania and Belarus remains open: Medininkai-Kamenny Log. Crossing the border is only possible by private vehicle; scheduled buses are currently not operating across the Belarusian-Lithuanian border.
+
+Lithuania also denies entry to cars registered in Belarus, with certain exemptions. For further information on these restrictions, see [the Lithuanian Government website](https://muitine.lrv.lt/lt/naujienos/lengvuju-automobiliu-su-baltarusiskais-registracijos-numeriais-ivaziavimas-i-lietuva/) (only available in Lithuanian).
 
 ### Latvian border
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   31 October 2025
+:   1 November 2025
 
 Updated:
-:   30 October 2025
+:   31 October 2025
 
 Latest update:
-:   Updated information on UK government arranged charter flights from Jamaica ("Warnings and insurance" page)
+:   Updated information that Sangster International Airport in Montego Bay remains closed for commercial flights (‘Warnings and insurance’ page).
 
 ## Hurricane Melissa
 
@@ -17,23 +17,23 @@ Hurricane Melissa made landfall as a major hurricane in Jamaica on Tuesday 28 Oc
 
 You should continue to monitor local and international weather updates, including from the [Meteorological Service for Jamaica](https://metservice.gov.jm/) and the [US National Hurricane Centre](https://www.nhc.noaa.gov/), and follow the guidance of [local authorities](https://jis.gov.jm/news/), especially in the event of any evacuation orders
 
-Return flights to the UK:
+### Return flights to the UK
 
-Passenger operations have now resumed from Norman Manley International Airport ([@NMIA](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fx.com%2FNMIA_Airport%3Ft%3DYwsCRXzhGRoDxM-jVJJenA%26s%3D08&data=05%7C02%7Cresponse%40fcdo.gov.uk%7C29e4aacb6ef1449b1bbc08de180763a0%7Cd3a2d0d37cc84f52bbf985bd43d94279%7C0%7C0%7C638974617229902337%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=iEKKMnuW3x8MoZQ4f4qZY6zsfKKaqseuZFLL0qoXU5I%3D&reserved=0)) in Kingston and Ian Fleming International Airport near Ocho Rios. Sangster International Airport in Montego ([@MBjairport](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fx.com%2FMBJAIRPORT%3Fref_src%3Dtwsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor&data=05%7C02%7Cresponse%40fcdo.gov.uk%7C29e4aacb6ef1449b1bbc08de180763a0%7Cd3a2d0d37cc84f52bbf985bd43d94279%7C0%7C0%7C638974617229916994%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=%2BEqS1Ox1wp%2F2H%2FP814uPvw5Qd4ZkBU1sqUUX6NDkkOY%3D&reserved=0)) is expected to reopen for limited commercial flights from Friday 31 October.
+Passenger operations have now resumed from Norman Manley International Airport ([@NMIA](https://x.com/NMIA_Airport?t=YwsCRXzhGRoDxM-jVJJenA&s=08)) in Kingston and Ian Fleming International Airport near Ocho Rios. Sangster International Airport in Montego Bay ([@MBjairport](https://x.com/MBJAIRPORT?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)) remains closed for commercial flights.
 
 The UK government is preparing some flights to help transport British nationals out of Jamaica. Travellers should contact their airline or travel provider in the first instance to see if commercial options are available, and if they have already booked a flight home to confirm if it is still operating.
 
 Windrush generations with indefinite leave to remain in the UK are eligible for the UK government flights and should urgently contact the FCDO to be sent the flight registration form:
 
-* on +1 (876) 936 0700
-* on +1 (305) 400 4600
-* or +44 (0)20 7008 5000
+* on +1 (876) 936 0700 (Jamaica)
+* on +1 (305) 400 4600 (USA)
+* or +44 (0)20 7008 5000 (UK)
 
 The FCDO will directly contact those who are allocated a seat on the flight and British nationals should not make their way to the airport unless they are contacted.
 
 British nationals who have already registered via the Register Your Presence portal will automatically be contacted and provided with a link to the booking portal . If you are a British national in Jamaica wanting to leave on a flight and have not already [registered your presence](https://www.register.service.csd.fcdo.gov.uk/jamaica-20251028/tell-the-uk-government-youre-in-jamaica), you should do so immediately.
 
-Shelter:
+### Shelter
 
 In the aftermath of a hurricane, power, communications and water supplies can be disrupted. See ‘Extreme weather and natural disasters’ on the [‘Safety and security’ page](https://www.gov.uk/foreign-travel-advice/jamaica/safety-and-security).
 

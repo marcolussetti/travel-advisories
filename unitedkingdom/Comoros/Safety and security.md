@@ -104,10 +104,6 @@ If you need an extension after 3 months, go to the Ministry of Foreign Affairs a
 
 On Grande Comore, the main ring-road is of a reasonable standard, but many other roads are in poor condition.
 
-### Air travel
-
-The [UK Air Safety List](https://www.gov.uk/guidance/uk-air-safety-list) (ASL) lists all known airlines in Comoros that do not meet international safety standards and are banned from operating commercial air services to, from, and within the UK. Check the UK Air Safety List when considering which airlines to fly with. The list is maintained by the Department for Transport, based on advice from the [UK Civil Aviation Authority](https://www.caa.co.uk/Commercial-Industry/Airlines/Licensing/Requirements-and-guidance/Third-Country-Operator-Certificates).
-
 ### Sea travel
 
 Boats and ferries take passengers between the 3 islands. They can be overloaded, in poor condition and without life jackets. Overloaded vessels have capsized in Comorian waters with significant loss of life.

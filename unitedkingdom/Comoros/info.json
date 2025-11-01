@@ -1,11 +1,11 @@
 {
     "name": "Comoros",
-    "update_reason": "This travel advice was reviewed for accuracy and reissued without any significant updates.",
+    "update_reason": "Removal of information about the UK Air Safety List as Comoros has been removed from the list.",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Comoros/Warnings and insurance.md",
-            "update_date": "2025-01-29T17:19:36+00:00"
+            "update_date": "2025-10-31T14:33:37+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Comoros/Getting help.md"
         }
     ],
-    "update_date": "2025-01-29T17:19:36+00:00"
+    "update_date": "2025-10-31T14:33:37+00:00"
 }

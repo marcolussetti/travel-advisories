@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   31 October 2025
+:   1 November 2025
 
 Updated:
-:   30 October 2025
+:   31 October 2025
 
 Latest update:
-:   Updated information on road closures, transport cancellations, protests, and internet connection (See ‘Protests and nationwide curfew’ on the ‘Warnings and insurance’ page).
+:   Updated information on status of curfews and access to airports (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/645a3ab12226ee000c0ae4a0/FCDO__TA__086_-_Tanzania_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -26,25 +26,32 @@ This is due to attacks by groups linked with Islamic extremism.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/tanzania/regional-risks).
 
-## Protests and nationwide curfew
+## Protests
 
 General elections took place in Tanzania on 29 October and have not yet concluded.
 
-Following protests and unrest in some parts of the country, the Tanzanian police announced a nationwide curfew effective from 6pm local time on 29 October which remains in place. Protests are ongoing in parts of the country with some turning violent. There have been reports of live fire in Dar es Salaam, Arusha, Mwanza and Mbeye.
+Following protests and unrest in some parts of the country, the Tanzanian police announced a curfew effective from 6pm-6am local time on 29 October which remains in place in on the mainland. Protests are ongoing in parts of the country with some turning violent, including live fire.
 
-The curfew is being enforced, with widespread road blockades and closures nationwide. Most international flights have been cancelled to and from Nyerere International Airport, Dar es Salaam.
+There are widespread road blockades and closures nationwide, although the situation remains fluid. Many international flights have been cancelled to and from Nyerere International Airport, Dar es Salaam.
 
-Arusha International Airport and Kilimanjaro International Airport are closed. Some international and domestic flights to and from Zanzibar airport have been cancelled. There are no ferries running from Dar es Salaam to Zanzibar. You should contact your airline or travel provider for further information before travelling to airports or other transport hubs.
+Arusha International Airport and Kilimanjaro International Airport appear to be partially operational. Some international and domestic flights to and from Zanzibar airport have been cancelled. There are no ferries running from Dar es Salaam to Zanzibar. The SGR rail service is also not running. Check with your airline or travel provider for the latest information before travelling to airports or other transport hubs.
 
-British nationals are advised to shelter in place, adhere to the curfew, monitor local media, follow the advice of the local authorities, and stay away from all demonstrations, rallies, and large crowds.
+British nationals are advised to:
+
+* limit movements
+* adhere to the curfews
+* monitor local media
+* follow the advice of the local authorities
+* stay away from all demonstrations, rallies, and large crowds
 
 There is significant disruption to mobile networks, the internet and social media.
-You can [sign up for Travel Advice email alerts](https://www.gov.uk/foreign-travel-advice/tanzania/email-signup).
 
 If you are a British national in need of consular assistance, you can call us 24/7 selecting the option for ‘Consular services for British nationals’:
 
 * on +255 22 229 0000
 * on +44 (0) 20 7008 5000
+
+You can [sign up for Travel Advice email alerts](https://www.gov.uk/foreign-travel-advice/tanzania/email-signup).
 
 ## Before you travel
 
