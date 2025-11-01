@@ -1,20 +1,18 @@
 ## Safety and security
 
-India's military has stated that it has attacked several targets in the Punjab and Kashmir regions of Pakistan on the night of May 7, with reports of a Pakistani military response into Indian territory as well. A state of emergency has subsequently been declared in the Punjab province of Pakistan. The security situation is tense and unpredictable.
+Following a conflict in May 2025 a ceasefire was announced between Pakistan and India. However, the security situation remains potentially unstable and unpredictable. The Embassy’s travel advice advises against travel to specific parts of the country and in particular to border areas.
 
-Avoid staying near the border areas and exercise caution. Stay up to date via the media, local authorities, your hotel, travel agency or airline. Always follow the instructions of the local authorities.
+There is a high risk of terrorism in Pakistan, including in major cities.
 
-### **Personal ID**
+There is an ongoing risk of regular, serious terrorism incidents throughout the provinces of Balochistan and many parts of Khyber Pakhtunkhwa, including recent large-scale terrorism incidents. Public transport hubs and areas with large gatherings should be avoided. These incidents can include sectarian violence which can be particularly prominent in Balochistan, parts of Khyber-Pakhtunkhwa and Gilgit Baltistan. Caution should always be exercised around public gatherings, around major religious festivals and during peak prayer times on Fridays. Public transport (trains / busses) should be completely avoided.
 
-Carry photographic ID at all times.
+Irish citizens in Pakistan should always exercise vigilance and caution and avoid large public gatherings. While many public demonstrations take place in Pakistan without incident, large gatherings can potentially become violent quickly.
+
+Major political demonstrations can be called at short notice, particularly within Islamabad and other major cities. These protests can turn violent. Protests also frequently involve significant closure of road networks in cities and including airport routes. Major road networks in and around cities and to airports may be blocked. Mobile data coverage and internet connectivity may be cut without warning.
 
 ### **Unrest**
 
 The security situation in Pakistan is unstable and dangerous. Avoid all large gatherings and areas which are known to be vulnerable to unrest.
-
-### **Sectarian Violence**
-
-There is an ongoing threat of serious terrorism incidents particularly in Baluchistan and many parts of Khyber Pakhtunkhwa. Caution should always be exercised around public gatherings, around major religious festivals and during peak prayer times on Fridays. Public transport (trains / busses) should be completely avoided.
 
 ### **Demonstrations**
 
@@ -39,10 +37,12 @@ The threat of kidnap of foreign nationals across Pakistan remains high. Kidnappe
 
 Crime levels in Pakistan are high, especially in Karachi and much of Baluchistan, rural Sindh and the Khyber Pakhtunkhwa, including the former FATA (Federally-Administered Tribal Areas), have a high incidence of lawlessness.
 
-### **Violent Crime**
+Fraud with payment cards and robberies at ATMs are widespread. Do not use an ATM if you see anything suspicious nearby. If you use Wi-Fi from open networks, e.g. at the airport, in cafes or in hotels, you may be exposed to hacking.
 
-Criminal violence, including armed car-jacking, robbery, kidnap and murder, is common in Pakistan, especially in Karachi. Travelers have also been offered drugged food and then robbed. Always be aware of the risks and take personal security precautions.
+Criminal violence, including armed car-jacking, robbery, kidnap and murder, is common in Pakistan, especially in Karachi. Travellers have also been offered drugged food and then robbed. Always be aware of the risks and take personal security precautions.
 
 ### **Driving**
 
 If planning to drive in Pakistan, be extremely careful. Local driving standards are erratic, especially at night, road conditions are poor and there is a risk of car-jacking. Take particular care on long road journeys and when travelling cross-country.
+
+We recommend that you only ride with authorized taxis or well-known ride-hailing services. If possible, you should book your taxi from a hotel or taxi company. You should not accept offers to ride with strangers.

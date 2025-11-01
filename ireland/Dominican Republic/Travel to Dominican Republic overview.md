@@ -6,7 +6,7 @@ High Degree of Caution
 
 ### **Travel Alert**
 
-Hurricane Melissa is approaching the Caribbean islands, including Dominican Republic. High storm surges, exceptional rainfall levels, flash flooding and landslides are expected in the coming days.
+Hurricane Melissa has passed through the Caribbean islands, including the Dominican Republic. High storm surges, heavy rainfall, flooding and landslides have been reported. Authorities declared an orange level warning.
 
 It is advised that citizens in Dominican Republic monitor local media regularly and follow advice from local authorities, in particular in relation to evacuation orders.
 

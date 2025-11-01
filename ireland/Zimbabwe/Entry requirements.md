@@ -2,9 +2,9 @@
 
 ### **Visa**
 
-Please be advised that the Embassy of Zimbabwe in London has stopped issuing all types of visas at the Embassy. Irish passport holders are now required to obtain visas at the Port of Entry upon arrival in Zimbabwe.
+Please be advised that the Embassy of Zimbabwe in London has stopped issuing all types of visas at the Embassy. There is an eVisa system operating for entry into Zimbabwe. Applications can be made online through <https://www.evisa.gov.zw/>. Applicants are advised to retain evidence of the application/eVisa to present to immigration officials at border control. Irish passport holders may obtain visas at the port of entry upon arrival in Zimbabwe.
 
-The Schedule of Visa Fees at the Port of Entry in Zimbabwe is as follows:
+Visa fees online and at the port of entry in Zimbabwe are as follows:
 
 Irish Nationals
 

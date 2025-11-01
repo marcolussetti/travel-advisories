@@ -6,47 +6,46 @@ High Degree of Caution
 
 ### **Travel Alert**
 
-We are aware of reports of threats directed at high-end hotels in Karachi, and the decision of some Embassies to limit travel of staff to these locations. [Security Alert: U.S. Consulate General Karachi, Pakistan (July 31, 2025) - U.S. Embassy & Consulates in Pakistan](https://pk.usembassy.gov/security-alert-u-s-consulate-general-karachi-pakistan-july-31-2025/). Citizens may exercise additional caution in tourist areas around Karachi and this time and reconsider travel plans if not essential.
+**Pak-Afghan Border**
 
-We advise against all travel to parts of Pakistan, including the border areas with both India and Afghanistan, the province of Balochistan and Pakistan-administered Kashmir. See below for detailed guidance.
+Following recent cross-border clashes, travellers are reminded and strongly advised to avoid all non-essential travel to the Pakistan-Afghanistan border regions. These areas remain volatile, with a high risk of terrorism, armed conflict, kidnapping, and cross-border violence.
 
-A ceasefire between Pakistan and India was announced on 10 May following recent hostilities. The security situation may remain tense and unpredictable in parts of Pakistan and the specific guidance about parts of Pakistan continues to apply.
-
-Avoid staying near the border areas and exercise caution. Stay up to date via the media, local authorities, your hotel, travel agency or airline. Always follow the instructions of the local authorities.
-
-We advise against all travel to:
-
-* the Kashmir region
-* the province of Balochistan
-* the border area between India and Pakistan and the Line of Control area. The Wagah border crossing is closed.
-* the former FATA (Federally Administered Tribal Areas)
-* in the province of Khyber-Pakhtunkhwa: the districts of Charsadda, Kohat, Tank, Bannu, Lakki, Dera Ismail Khan, Swat, Buner and Lower Dir in North Waziristan, Upper South and Lower South Waziristan
-* the city of Peshawar and districts south of the city, including travel on the Peshawar to Chitral road via the Lowari Pass
-* travel on the Karakoram Highway between Islamabad and Gilgi
+The security situation can deteriorate rapidly without warning, and government assistance in these regions may be limited or unavailable. Citizens should remain vigilant, monitor local media for updates, and strictly adhere to travel advisories issued by relevant authorities.
 
 ### **General Travel Advice**
 
-Irish citizens require a visa to enter Pakistan. Irish citizens may apply for a visa online through the Pakistani Government’s [**Official Visa Portal**](https://visa.nadra.gov.pk/).
+Irish citizens require a valid passport (having minimum validity of 6 months) and a visa to enter Pakistan. It is advisable to take a few photocopies of your passport/valid ID’s during your stay in Pakistan. Please note that Irish Passport Cards are not accepted.
 
-A valid passport is required for travel to Pakistan. Irish passports should have a minimum validity of 6 months. Passport cards cannot be used.
+Irish citizens may apply for a visa online through the Pakistani Government’s [**Official Visa Portal**](https://visa.nadra.gov.pk/).
 
-There is a high risk of terrorism in Pakistan, including in major cities.
+Irish travellers with essential travel to Pakistan should [**register their presence**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/) on the website of the Department of Foreign Affairs and Trade, to ensure that they receive the important travel advice, services, and updates.
 
-There is an ongoing risk of regular, serious terrorism incidents throughout the provinces of Balochistan and many parts of Khyber Pakhtunkhwa, including recent large-scale terrorism incidents. Travel to these areas is totally discouraged. Public transport hubs and areas with large gatherings should be avoided.
+A ceasefire between Pakistan and India was declared on May 10 following a period of increased hostilities. However, the security situation remains potentially unstable and unpredictable.
 
-Irish citizens in Pakistan should always exercise vigilance and caution and avoid large public gatherings. While many public demonstrations take place in Pakistan without incident, large gatherings can potentially become violent quickly.
+Except for official border crossing points, foreigners are not permitted to travel;
 
-Major political demonstrations can be called at short notice, particularly within Islamabad and other major cities. These protests can turn violent. Protests also frequently involve significant closure of road networks in cities and including airport routes. Major road networks in and around cities and to airports may be blocked. Mobile data coverage and internet connectivity may be cut without warning.
+- within 10 miles of Pakistan’s international borders and
 
-Travellers with essential travel to Pakistan should [**register their presence**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/) on the website of the Department of Foreign Affairs and Trade, avoid border areas and keep their stay to a minimum.
+- the Kashmir Line of Control,
 
-Except for official border crossing points, foreigners are not permitted to travel within 10 miles of Pakistan’s international borders and the Kashmir Line of Control, or within 30 miles of the Afghan border in Gilgit-Baltistan. The Wagah border crossing to India is currently closed.
+- or within 30 miles of the Afghan border in Gilgit-Baltistan. **The Wagah border crossing to India is currently closed**.
 
-Visitors to Pakistan are advised to follow the guidance of national and local authorities and stay fully informed of what is going on by monitoring local news and social media.
+Stay up to date via the media, local authorities, your hotel, travel agency or airline. Always follow the instructions of the local authorities.
+
+The Irish Embassy advises against all travel to:
+
+* the Pakistan administered Kashmir region
+* the province of Balochistan
+* the former FATA (Federally Administered Tribal Areas).
+* in the province of Khyber-Pakhtunkhwa: the districts of Charsadda, Kohat, Tank, Bannu, Lakki, Dera Ismail Khan, Swat, Buner and Lower Dir in North Waziristan, Upper South and Lower South Waziristan.
+* the city of Peshawar and districts south of the city, including travel on the Peshawar to Chitral road via the Lowari Pass.
+* travel on the Karakoram Highway between Islamabad and Gilgit.
 
 ### **Flooding**
 
-Pakistan can experience extreme flooding and landslides. In the event of a natural disaster, transportation, power distribution, access to food and water, telecommunications networks emergency services and medical care may be significantly impacted. More information is available on the [**National Disaster Management Authority website**](http://www.ndma.gov.pk/).
+Pakistan can experience extreme flooding and landslides. The scale of flooding can be large and can sometimes strain the capacity of authorities to deal with these incidents. In the event of a natural disaster, transportation, power distribution, access to food and water, telecommunications networks emergency services and medical care may be significantly impacted. More information is available on the [**National Disaster Management Authority website**](http://www.ndma.gov.pk/) **and their app which is available on app stores**.
+
+Current weather forecasts for Pakistan are available at [**Pakistan Meteorological Department**](https://www.pmd.gov.pk/en/).
 
 ### **Emergency Assistance**
 
