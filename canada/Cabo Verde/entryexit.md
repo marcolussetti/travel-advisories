@@ -53,8 +53,6 @@ You must have an ETA to enter Cabo Verde for tourism or business. Your ETA is va
 
 To get an ETA, you must complete an online pre-registration form and pay an airport security fee at least 5 days before you arrive in Cabo Verde. Certain exceptions apply. You should consult the Government of Cabo Verde’s online platform to register and for more information.
 
-[Efficient, Automatic & Safe Entry (EASE)](https://www.easecv.com/en/) – Government of Cabo Verde
-
 ### Children and travel
 
 Learn about [travelling with children](http://travel.gc.ca/travelling/children).

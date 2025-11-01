@@ -10,9 +10,11 @@ Climate change is affecting The Bahamas. Extreme and unusual weather events are 
 
 ### Hurricane Melissa
 
-Hurricane Melissa is expected to impact the Bahamas on or around October 29, 2025.
+On October 29, 2025, Hurricane Melissa swept through the southeastern Bahamas.
 
-The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
+The storm brought excessive rainfall and violent winds. It caused significant flooding and damage to buildings and infrastructure in affected areas.
+
+The following services may be disrupted in the southeastern Bahamas:
 
 * transportation
 * power distribution
@@ -20,19 +22,6 @@ The storm is likely to bring excessive rainfall and violent winds. It may cause 
 * telecommunications networks
 * emergency services
 * medical care
-
-Evacuation orders are in effect for the following districts:
-
-* Acklins
-* Cat Island
-* Crooked Island
-* Exuma
-* Inagua
-* Long Island
-* Mayaguana
-* Ragged Island
-* Rum Cay
-* San Salvador
 
 If you are in the Bahamas:
 

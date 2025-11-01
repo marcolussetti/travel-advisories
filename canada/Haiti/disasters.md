@@ -4,11 +4,13 @@
 
 ### Hurricane Melissa
 
-Hurricane Melissa is expected to impact the southwestern coast of Haiti until around October 29, 2025.
+On October 29, 2025, Hurricane Melissa swept across the southwestern coast of Haiti.
 
-The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
+The storm brought excessive rainfall and violent winds, which caused severe flooding. There is significant damage to buildings and infrastructure, as well as casualties and displaced persons.
 
-* transportation
+There are significant disruptions to the following essential services:
+
+* transportation, including operations at airports
 * power distribution
 * water and food supply
 * telecommunications networks

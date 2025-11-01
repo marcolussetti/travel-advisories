@@ -4,9 +4,9 @@
 
 ### Land border with Belarus
 
-On October 27, 2025, Lithuanian authorities shut down the Šalčininkai crossing and restricted the Medininkai crossing to a limited category of travellers, not including Canadian citizens.
+On October 27, 2025, Lithuanian authorities shut down the Šalčininkai crossing and restricted the Medininkai crossing. These changes will remain in effect until November 30, 2025.
 
-You will not be allowed to cross from Lithuania into Belarus unless you are a European Union (EU) citizen, a family member of an EU citizen, or have a valid residence permit in the Republic of Lithuania.
+Canadian citizens are permitted to enter Lithuania from Belarus at the Medininkai crossing, but are not permitted to cross into Belarus from Lithuania.
 
 ### Crime
 

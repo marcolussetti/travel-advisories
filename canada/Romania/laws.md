@@ -62,7 +62,7 @@ Be aware that Canadian consular officials cannot interfere in private legal matt
 
 ### Driving
 
-You must carry an international driving permit along with a valid Canadian driver’s licence in order to drive or to rent a vehicle in Romania. However, your Canadian driver’s licence is only considered valid for up to 90 days. For stays longer than 90 days, you will need to exchange your driver’s licence for a Romanian one.
+You may use your valid Canadian driver’s licence to drive or to rent a vehicle in Romania for up to 6 months. For longer stays, you will need to exchange your driver’s licence for a Romanian one.
 
 Traffic laws are strict and local authorities carry out frequent road checks.
 

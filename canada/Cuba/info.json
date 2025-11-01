@@ -1,7 +1,7 @@
 {
     "name": "Cuba",
-    "update_reason": "Risk level - avoid all travel to eastern provinces due to Hurricane Melissa; Natural disasters and climate - updated information on Hurricane Melissa",
-    "update_date": "2025-10-28T14:59:00",
+    "update_reason": "Risk levels and Natural disasters and climate \u2013 updated information on Hurricane Melissa",
+    "update_date": "2025-10-31T15:10:00",
     "sections": {
         "risk": "canada/Cuba/risk.md",
         "security": "canada/Cuba/security.md",

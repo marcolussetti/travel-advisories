@@ -10,13 +10,14 @@ Violent demonstrations are occurring throughout the country, including in Dar es
 
 Telecommunications and Internet access are disrupted.
 
-Authorities have strengthened security measures and have imposed a nationwide curfew starting at 6 pm.
+Authorities have strengthened security measures and have imposed a nationwide curfew from 6 pm to 6 am.
 
 Demonstrations, movement restrictions and roadblocks are disrupting traffic and public transportation, including air and sea travel.
 
 * Access to Julius Nyerere International Airport in Dar es Salaam may be limited
 * Flights to and from Zanzibar are disrupted
 * Ferries between Dar es Salaam and Zanzibar are not currently running
+* SGR trains are currently not running
 
 If you are in Tanzania:
 

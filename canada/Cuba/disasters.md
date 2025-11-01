@@ -4,11 +4,11 @@
 
 ### Hurricane Melissa
 
-Hurricane Melissa is expected to impact Cuba on or around October 28 and 29, 2025.
+On October 29, 2025, Hurricane Melissa made landfall in eastern Cuba. It caused significant damage to buildings and infrastructure.
 
-The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
+The storm brought excessive rainfall and violent winds and resulted in displaced persons. It caused severe flooding and landslides, which resulted in disruptions to the following essential services:
 
-* transportation
+* transportation, including operations at airports
 * power distribution
 * water and food supply
 * telecommunications networks

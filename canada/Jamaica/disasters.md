@@ -6,7 +6,7 @@
 
 On October 28, 2025, Hurricane Melissa swept across Jamaica as a major hurricane. It caused significant flooding and damage to buildings and infrastructure.
 
-There are reports of disruptions to the following essential services:
+There are significant disruptions to the following essential services:
 
 * transportation, including operations at airports
 * power distribution
@@ -15,13 +15,21 @@ There are reports of disruptions to the following essential services:
 * emergency services
 * medical care
 
-The Montego Bay international airport is temporarily closed due to damage caused by the storm. Confirm your flight status with your airline. To discuss alternate travel arrangements, contact your airline or tour operator.
+The following airports have resumed operations:
+
+* Norman Manley International Airport, in Kingston
+* Ian Fleming International Airport, in Ocho Rios
+
+Sangster International Airport, in Montego Bay, is temporarily closed due to damage caused by the storm. It is scheduled to reopen on November 1, 2025.
+
+Confirm your flight status with your airline. To discuss alternate travel arrangements, contact your airline or tour operator.
 
 If you are in Jamaica:
 
 * exercise caution
 * monitor local news and weather reports
 * follow the instructions of local authorities, including evacuation orders
+* register or update your contact information with the [Registration of Canadians abroad](https://travel.gc.ca/travelling/registration) service to receive the latest information
 
 If you require assistance due to the storm, you should contact your designated Parish Disaster Coordinator:
 
@@ -95,7 +103,7 @@ If you require assistance due to the storm, you should contact your designated P
 + [twinydi@yahoo.com](mailto:twinydi@yahoo.com)
 + 876-954-3228
 
-#### Useful links
+**Useful links**
 
 * [Latest advisories](http://www.nhc.noaa.gov/) – U.S. National Hurricane Centre
 * [Parish Disaster Coordinator](https://www.odpem.org.jm/parish-disaster-coordinators/) – Office of Disaster Preparedness and Emergency Management
