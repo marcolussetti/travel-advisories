@@ -1,7 +1,7 @@
 {
     "name": "Bahamas",
-    "update_reason": "Natural disasters and climate \u2013 updated information on Hurricane Melissa",
-    "update_date": "2025-10-31T16:07:00",
+    "update_reason": "Risk level \u2013 exercise a high degree of caution in the Bahamas; Natural disasters and climate \u2013 removed information on Hurricane Melissa",
+    "update_date": "2025-11-01T10:12:00",
     "sections": {
         "risk": "canada/Bahamas/risk.md",
         "security": "canada/Bahamas/security.md",

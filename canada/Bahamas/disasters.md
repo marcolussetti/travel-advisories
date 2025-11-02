@@ -8,29 +8,6 @@ Climate change is affecting The Bahamas. Extreme and unusual weather events are 
 
 ### Hurricane season
 
-### Hurricane Melissa
-
-On October 29, 2025, Hurricane Melissa swept through the southeastern Bahamas.
-
-The storm brought excessive rainfall and violent winds. It caused significant flooding and damage to buildings and infrastructure in affected areas.
-
-The following services may be disrupted in the southeastern Bahamas:
-
-* transportation
-* power distribution
-* water and food supply
-* telecommunications networks
-* emergency services
-* medical care
-
-If you are in the Bahamas:
-
-* exercise caution
-* monitor local news and weather reports
-* follow the instructions of local authorities, including evacuation orders
-
-[Latest advisories](http://www.nhc.noaa.gov/) – U.S. National Hurricane Centre
-
 The hurricane season is from early June to the end of November in the Atlantic, Caribbean Sea and Gulf of Mexico. During this period, even small tropical storms can quickly develop into major hurricanes.
 
 These severe storms can put you at risk and hamper the provision of essential services. You could face serious safety risks during a hurricane. You should carefully consider these risks when planning a trip during the hurricane season.
