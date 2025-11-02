@@ -1,28 +1,30 @@
 # Warnings and insurance
 
 Still current at:
-:   1 November 2025
+:   2 November 2025
 
 Updated:
-:   31 October 2025
+:   1 November 2025
 
 Latest update:
-:   Updated information on status of curfews and access to airports (‘Warnings and insurance’ page).
+:   Update on travel to Tanzania. FCDO advises against all but essential travel ('Warnings and insurance' page).
 
-![](https://assets.publishing.service.gov.uk/media/645a3ab12226ee000c0ae4a0/FCDO__TA__086_-_Tanzania_Travel_Advice_Ed1__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/69064e6b14e0c1d9784174f6/FCDO__TA__086_-_Tanzania_Travel_Advice_Ed2__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/645a3ab1c6e8970012a0fb5e/FCDO__TA__086_-_Tanzania_Travel_Advice_Ed1.pdf)
+[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/69064e43823bdda9488b2547/FCDO__TA__086_-_Tanzania_Travel_Advice_Ed2.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
 ## Areas where FCDO advises against all but essential travel
 
-### Mtwara Region along the Tanzania-Mozambique border
+### Tanzania
 
-FCDO advises against all but essential travel to within 20km of the Tanzanian border with Cabo Delgado Province in Mozambique.
+FCDO advises against all but essential travel to Tanzania.
 
-This is due to attacks by groups linked with Islamic extremism.
+This is consistent with advice for British High Commission staff to avoid all but essential travel.
+
+This is due to disruption and unrest following the national election on 29 October. There are shortages of food, fuel and cash which have been compounded by the lack of internet services. There is also uncertainty around international transport options.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/tanzania/regional-risks).
 

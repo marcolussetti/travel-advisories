@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   22 October 2025
+:   2 November 2025
 
 Updated:
-:   21 October 2025
+:   1 November 2025
 
 Latest update:
-:   Addition of information on the risks from methanol poisoning ('Safety and security' page).
+:   Information on reports of attacks in Western Uganda ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/667bf1c07d26b2be17a4b36d/FCDO__TA__066_-_Uganda_Travel_Advice_Ed8__WEB_.jpg)
 
@@ -27,6 +27,10 @@ FCDO advises against all but essential travel to:
 * Semuliki National Park
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/uganda/regional-risks).
+
+## Attacks in Western Uganda
+
+There are reports of attacks on 1 November 2025 by an armed group on security installations in Kasese and Bundibugyo in Western Uganda. Local authorities have reported the deployment of security forces to the areas and multiple suspects have been arrested. If you are in the area you should follow the advice of local security agencies.
 
 ## Before you travel
 

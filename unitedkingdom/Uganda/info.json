@@ -1,11 +1,11 @@
 {
     "name": "Uganda",
-    "update_reason": "Addition of information on the risks from methanol poisoning ('Safety and security' page).",
+    "update_reason": "Information on reports of attacks in Western Uganda ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Uganda/Warnings and insurance.md",
-            "update_date": "2025-10-21T10:25:51+01:00"
+            "update_date": "2025-11-01T18:38:57+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Uganda/Getting help.md"
         }
     ],
-    "update_date": "2025-10-21T10:25:51+01:00"
+    "update_date": "2025-11-01T18:38:57+00:00"
 }

@@ -1,21 +1,21 @@
 # Warnings and insurance
 
 Still current at:
-:   1 November 2025
+:   2 November 2025
 
 Updated:
-:   31 October 2025
+:   2 November 2025
 
 Latest update:
-:   Updated information that Sangster International Airport in Montego Bay remains closed for commercial flights (‘Warnings and insurance’ page).
+:   Updated information regarding the damage from Hurricane Melissa (‘Warnings and insurance’ page).
 
 ## Hurricane Melissa
 
 If you are a British national in Jamaica, FCDO strongly encourages you to [Register Your Presence](https://www.register.service.csd.fcdo.gov.uk/jamaica-20251028/tell-the-uk-government-youre-in-jamaica). This will allow FCDO to share important updates, including information on UK government charter flights.
 
-Hurricane Melissa made landfall as a major hurricane in Jamaica on Tuesday 28 October. Hurricane Melissa brought exceptional levels of rainfall and strong winds to the whole of Jamaica, causing widespread damage to roads and infrastructure and disruption to electricity and other utilities services.
+Hurricane Melissa made landfall as a major hurricane in Jamaica on Tuesday 28 October. Hurricane Melissa brought exceptional levels of rainfall and strong winds to the whole of Jamaica, causing widespread damage to roads and infrastructure and disruption to electricity and other utilities services, including internet. There are also shortages of food and water and access to currency. Access to healthcare in worst affected areas is limited.  All Western parishes have suffered significant damage. The worst affected parishes are currently Westmoreland, St. Elizabeth, St. James, Hanover and Manchester . You should exercise caution if you must travel within Jamaica.
 
-You should continue to monitor local and international weather updates, including from the [Meteorological Service for Jamaica](https://metservice.gov.jm/) and the [US National Hurricane Centre](https://www.nhc.noaa.gov/), and follow the guidance of [local authorities](https://jis.gov.jm/news/), especially in the event of any evacuation orders
+You should continue to follow the guidance of [local authorities](https://jis.gov.jm/news/), especially in the event of any evacuation orders
 
 ### Return flights to the UK
 
