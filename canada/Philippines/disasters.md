@@ -2,6 +2,27 @@
 
 ## Natural disasters and climate
 
+### Typhoon Kalmaegi (Tino)
+
+Typhoon Kalmaegi (Tino) is expected to make landfall between Eastern Samar and the Dinagat Islands on November 3, 2025.
+
+The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
+
+* transportation
+* power distribution
+* water and food supply
+* telecommunications networks
+* emergency services
+* medical care
+
+If you are in the affected area:
+
+* exercise caution
+* monitor local news and weather reports
+* follow the instructions of local authorities
+
+[Tropical Cyclone Bulletin](https://www.pagasa.dost.gov.ph/tropical-cyclone/severe-weather-bulletin/1) – Philippine Atmospheric, Geophysical, and Astronomical Services Administration (PAGASA)
+
 ### Climate change
 
 Climate change is affecting the Philippines. Extreme and unusual weather events are becoming more frequent. Monitor local news to stay informed on the current situation.
