@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   2 November 2025
+:   3 November 2025
 
 Updated:
 :   2 November 2025
 
 Latest update:
-:   Updated information regarding the damage from Hurricane Melissa (‘Warnings and insurance’ page).
+:   Updated information regarding Sangster International Airport (Montego Bay) resuming limited commercial flights (‘Warnings and insurance’ page).
 
 ## Hurricane Melissa
 
@@ -19,7 +19,7 @@ You should continue to follow the guidance of [local authorities](https://jis.g
 
 ### Return flights to the UK
 
-Passenger operations have now resumed from Norman Manley International Airport ([@NMIA](https://x.com/NMIA_Airport?t=YwsCRXzhGRoDxM-jVJJenA&s=08)) in Kingston and Ian Fleming International Airport near Ocho Rios. Sangster International Airport in Montego Bay ([@MBjairport](https://x.com/MBJAIRPORT?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)) remains closed for commercial flights.
+Passenger operations have now resumed from Norman Manley International Airport ([@NMIA](https://x.com/NMIA_Airport?t=YwsCRXzhGRoDxM-jVJJenA&s=08)) in Kingston and Ian Fleming International Airport near Ocho Rios. Sangster International Airport in Montego Bay ([@MBjairport](https://x.com/MBJAIRPORT?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)) has resumed a limited number of commercial flights.
 
 The UK government is preparing some flights to help transport British nationals out of Jamaica. Travellers should contact their airline or travel provider in the first instance to see if commercial options are available, and if they have already booked a flight home to confirm if it is still operating.
 

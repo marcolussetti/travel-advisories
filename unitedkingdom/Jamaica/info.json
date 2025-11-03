@@ -1,11 +1,11 @@
 {
     "name": "Jamaica",
-    "update_reason": "Updated information regarding the damage from Hurricane Melissa (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Updated information regarding Sangster International Airport (Montego Bay) resuming limited commercial flights (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Jamaica/Warnings and insurance.md",
-            "update_date": "2025-11-02T00:48:24+00:00"
+            "update_date": "2025-11-02T09:47:49+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Jamaica/Getting help.md"
         }
     ],
-    "update_date": "2025-11-02T00:48:24+00:00"
+    "update_date": "2025-11-02T09:47:49+00:00"
 }
