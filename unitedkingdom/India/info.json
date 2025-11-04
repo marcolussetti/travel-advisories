@@ -1,11 +1,11 @@
 {
     "name": "India",
-    "update_reason": "New information about e-arrival digital disembarkation card ('Entry requirements' page).",
+    "update_reason": "Updated information about exit requirements ('Entry requirements' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/India/Warnings and insurance.md",
-            "update_date": "2025-10-17T11:51:49+01:00"
+            "update_date": "2025-11-03T15:36:43+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/India/Getting help.md"
         }
     ],
-    "update_date": "2025-10-17T11:51:49+01:00"
+    "update_date": "2025-11-03T15:36:43+00:00"
 }

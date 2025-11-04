@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   4 June 2025
+:   4 November 2025
 
 Updated:
-:   3 June 2025
+:   3 November 2025
 
 Latest update:
-:   Removal of information about a demonstration that took place in Road Town on 2 June 2025 ('Warnings and insurance' page).
+:   New information about monitoring and reporting crime ('Safety and security' page).
 
 The British Virgin Islands (BVI) is a British Overseas Territory, so there is no British Embassy, and the [BVI authorities](https://bvi.gov.vg/list-of-visitor-services) will support you if you need help.
 

@@ -14,7 +14,7 @@ Attacks could be indiscriminate. Stay aware of your surroundings, keep up to dat
 
 ## Crime
 
-Levels of crime in the BVI are low. However, some serious incidents do occur including armed robbery and drug-related gun crime.
+Levels of crime in the BVI are low. However, some serious incidents do occur including armed robbery and drug-related gun crime. Some of these incidents have taken place in populated and public areas. Monitor local advice including [police social media channels](https://www.facebook.com/rvipolice).
 
 Take sensible precautions to protect your personal safety and belongings, as you would at home:
 
@@ -24,6 +24,8 @@ Take sensible precautions to protect your personal safety and belongings, as you
 * use a hotel safe if possible
 * be aware of the risk of leaving your bags unattended, especially on the beach
 * do not attempt to resist an armed robber or take any action that puts you at greater risk
+
+If you are a victim of crime, police and emergency services can be reached at 911.
 
 Take particular care of your passport, as it cannot be renewed or replaced in the BVI. If you lose your passport, you will need to [apply online for an emergency travel document](https://www.gov.uk/emergency-travel-document).
 

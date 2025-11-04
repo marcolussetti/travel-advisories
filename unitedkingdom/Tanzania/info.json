@@ -1,11 +1,11 @@
 {
     "name": "Tanzania",
-    "update_reason": "Update on travel to Tanzania. FCDO advises against all but essential travel ('Warnings and insurance' page).",
+    "update_reason": "Updated information on protests and disruption to services and supplies (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Tanzania/Warnings and insurance.md",
-            "update_date": "2025-11-01T19:14:44+00:00"
+            "update_date": "2025-11-03T16:17:06+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Tanzania/Getting help.md"
         }
     ],
-    "update_date": "2025-11-01T19:14:44+00:00"
+    "update_date": "2025-11-03T16:17:06+00:00"
 }

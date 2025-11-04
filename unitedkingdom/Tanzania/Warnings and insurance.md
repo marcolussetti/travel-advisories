@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   2 November 2025
+:   4 November 2025
 
 Updated:
-:   1 November 2025
+:   3 November 2025
 
 Latest update:
-:   Update on travel to Tanzania. FCDO advises against all but essential travel ('Warnings and insurance' page).
+:   Updated information on protests and disruption to services and supplies (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/69064e6b14e0c1d9784174f6/FCDO__TA__086_-_Tanzania_Travel_Advice_Ed2__WEB_.jpg)
 
@@ -16,27 +16,28 @@ Latest update:
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
-## Areas where FCDO advises against all but essential travel
+## FCDO advises against all but essential travel to Tanzania
 
 ### Tanzania
 
 FCDO advises against all but essential travel to Tanzania.
 
-This is consistent with advice for British High Commission staff to avoid all but essential travel.
-
-This is due to disruption and unrest following the national election on 29 October. There are shortages of food, fuel and cash which have been compounded by the lack of internet services. There is also uncertainty around international transport options.
+This is due to disruption and unrest following the national election on 29 October. This has led to shortages of food, fuel and cash which have been compounded by a lack of internet services.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/tanzania/regional-risks).
 
-## Protests
+## Protests and disruption to services and supplies
 
-General elections took place in Tanzania on 29 October and have not yet concluded.
+General elections took place in Tanzania on 29 October.
 
-Following protests and unrest in some parts of the country, the Tanzanian police announced a curfew effective from 6pm-6am local time on 29 October which remains in place in on the mainland. Protests are ongoing in parts of the country with some turning violent, including live fire.
+Following violent protests and unrest in some parts of the country, the Tanzanian police announced a curfew effective from 6pm-6am local time which remains in place on the mainland.
 
-There are widespread road blockades and closures nationwide, although the situation remains fluid. Many international flights have been cancelled to and from Nyerere International Airport, Dar es Salaam.
+There are widespread road blockades and closures nationwide, although the situation remains changeable.
 
-Arusha International Airport and Kilimanjaro International Airport appear to be partially operational. Some international and domestic flights to and from Zanzibar airport have been cancelled. There are no ferries running from Dar es Salaam to Zanzibar. The SGR rail service is also not running. Check with your airline or travel provider for the latest information before travelling to airports or other transport hubs.
+Some international and domestic flights have been cancelled.
+There are no ferries running from Dar es Salaam to Zanzibar. The SGR rail service is also not running. Check with your airline or travel provider for the latest information before travelling to airports or other transport hubs.
+
+There are fuel, cash and water access challenges across the country. Some supermarkets are running low on food supplies due to the closure of Dar es Salaam port. Public hospitals are reporting shortage of medical supplies.
 
 British nationals are advised to:
 
@@ -46,7 +47,7 @@ British nationals are advised to:
 * follow the advice of the local authorities
 * stay away from all demonstrations, rallies, and large crowds
 
-There is significant disruption to mobile networks, the internet and social media.
+There is disruption to mobile networks, the internet and social media.
 
 If you are a British national in need of consular assistance, you can call us 24/7 selecting the option for ‘Consular services for British nationals’:
 

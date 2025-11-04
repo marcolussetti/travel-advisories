@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   18 October 2025
+:   4 November 2025
 
 Updated:
-:   17 October 2025
+:   3 November 2025
 
 Latest update:
-:   New information about e-arrival digital disembarkation card ('Entry requirements' page).
+:   Updated information about exit requirements ('Entry requirements' page).
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 

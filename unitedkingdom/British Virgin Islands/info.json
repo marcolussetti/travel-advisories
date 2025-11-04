@@ -1,11 +1,11 @@
 {
     "name": "British Virgin Islands",
-    "update_reason": "Removal of information about a demonstration that took place in Road Town on 2 June 2025 ('Warnings and insurance' page).",
+    "update_reason": "New information about monitoring and reporting crime ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/British Virgin Islands/Warnings and insurance.md",
-            "update_date": "2025-06-03T10:37:36+01:00"
+            "update_date": "2025-11-03T12:00:01+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/British Virgin Islands/Getting help.md"
         }
     ],
-    "update_date": "2025-06-03T10:37:36+01:00"
+    "update_date": "2025-11-03T12:00:01+00:00"
 }
