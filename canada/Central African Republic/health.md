@@ -312,11 +312,19 @@ High-risk travellers include those visiting or working in prisons, refugee camps
 
 ### Medical services and facilities
 
-There are some hospitals in Bangui, but very few elsewhere in the country. Medications are scarce and sanitary conditions are poor. Medical expenses must generally be paid for on the spot and prior to receiving treatment.
+Health care is very limited and is only available in Bangui. The quality of care is not at the same level as in Canada. Hospitals lack medical supplies and equipment. Medical expenses must generally be paid for before treatment.
 
 Make sure you get travel insurance that includes coverage for medical evacuation and hospital stays.
 
 [Health and safety outside Canada](https://travel.gc.ca/travelling/health-safety)
+
+### Medication
+
+Some prescription medications may not be available in the Central African Republic.
+
+* Bring enough medication for your stay
+* Always keep your medication in the original container and carry a copy of your prescriptions
+* Pack your medication in your carry-on luggage
 
 ### Keep in Mind...
 

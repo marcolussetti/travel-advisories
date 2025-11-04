@@ -19,8 +19,7 @@ The following airports have resumed operations:
 
 * Norman Manley International Airport, in Kingston
 * Ian Fleming International Airport, in Ocho Rios
-
-Sangster International Airport, in Montego Bay, is temporarily closed due to damage caused by the storm. It is scheduled to reopen on November 1, 2025.
+* Sangster International Airport, in Montego Bay
 
 Confirm your flight status with your airline. To discuss alternate travel arrangements, contact your airline or tour operator.
 

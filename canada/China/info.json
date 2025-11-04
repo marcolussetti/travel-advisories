@@ -1,7 +1,7 @@
 {
     "name": "China",
-    "update_reason": "Editorial change",
-    "update_date": "2025-10-29T14:04:00",
+    "update_reason": "Formatting and editorial changes",
+    "update_date": "2025-11-03T09:07:00",
     "sections": {
         "risk": "canada/China/risk.md",
         "security": "canada/China/security.md",

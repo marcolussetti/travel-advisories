@@ -1,7 +1,7 @@
 {
     "name": "Jamaica",
-    "update_reason": "Risk levels \u2013 Exercise a high degree of caution in the metropolitan Kingston area and airport due to the damage caused by Hurricane Melissa; Natural disasters and climate \u2013 updated information on Hurricane Melissa",
-    "update_date": "2025-10-31T16:02:00",
+    "update_reason": "Natural disasters and climate \u2013 updated information on Hurricane Melissa",
+    "update_date": "2025-11-03T16:10:00",
     "sections": {
         "risk": "canada/Jamaica/risk.md",
         "security": "canada/Jamaica/security.md",

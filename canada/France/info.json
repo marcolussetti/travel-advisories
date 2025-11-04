@@ -1,7 +1,7 @@
 {
     "name": "France",
-    "update_reason": "Health \u2013 editorial change",
-    "update_date": "2025-10-27T16:39:00",
+    "update_reason": "The Need help? section was updated.",
+    "update_date": "2025-11-03T11:03:00",
     "sections": {
         "risk": "canada/France/risk.md",
         "security": "canada/France/security.md",

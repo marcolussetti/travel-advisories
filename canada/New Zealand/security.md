@@ -66,12 +66,12 @@ If you are participating in adventure tourism, such as zip-lining, rock climbing
 * never do so alone and always hire an experienced guide from a reputable company
 * make sure your travel insurance covers the recreational activities you choose
 * make sure your physical condition is good enough to meet the challenges of your activity
-* make sure you’re well-equipped and informed about weather and other hazardous conditions
+* make sure you're well-equipped and informed about weather and other hazardous conditions
 * consider purchasing or renting a distress or personal locator beacon (PLB)
 * tell a family member or friend about your itinerary, including when you expect to be back
 * know the symptoms of high-altitude illnesses, which can be fatal
-* don’t venture off marked trails
-* don’t use the facilities or equipment if you have doubts about their safety
+* don't venture off marked trails
+* don't use the facilities or equipment if you have doubts about their safety
 
 ### Remote areas
 
@@ -86,7 +86,7 @@ You may have difficulty getting adequate mobile phone coverage if you travel in 
 #### Useful links
 
 * [Alerts](http://www.doc.govt.nz/parks-and-recreation/know-before-you-go/alerts/) – New Zealand Department of Conservation
-* [AdventureSmart](https://www.adventuresmart.nz/) – New Zealand Search and Rescue Council
+* [Adventure planner](https://www.mountainsafety.org.nz/) – New Zealand Mountain Safety Council
 * [Distress beacon information](https://www.doc.govt.nz/parks-and-recreation/know-before-you-go/distress-beacon/) – New Zealand Department of Conservation
 
 ### Water activities
@@ -109,7 +109,7 @@ Never dive alone. Choose excursions with experienced tour operators.
 
 #### Useful links
 
-* [Beaches](https://www.watersafety.org.nz/beaches) – Water Safety New Zealand
+* [Beaches](https://www.watersafetynz.org/stay-safe/beach-and-ocean-safety) – Water Safety New Zealand
 * [Free diving and snorkelling safety](https://watersafety.org.nz/free-diving-and-snorkelling-safety) – Water Safety New Zealand
 * [Water safety abroad](https://travel.gc.ca/travelling/health-safety/water-safety)
 

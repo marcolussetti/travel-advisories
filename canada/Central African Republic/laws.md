@@ -14,7 +14,7 @@ Penalties for possession, use or trafficking of illegal drugs are severe. Convic
 
 ### Trading of precious stones
 
-You’ll need a government licence to buy or sell precious stones. There are stiff fines for smuggling.
+You must obtain a government licence to buy or sell precious stones. Those accused of smuggling face heavy fines.
 
 ### Photography
 
@@ -24,13 +24,17 @@ It’s illegal to photograph:
 * military and police facilities
 * the presidential palace
 * airports
-* power plants.
+* power plants
 
 Power plants may not be clearly marked. Unauthorized photography may result in immediate seizure of your equipment by authorities. Never photograph people without their permission.
 
 ### Identification
 
-Always carry your identity documents (or notarized copies) with you. Failing to do so could result in your arrest and imprisonment.
+Local authorities may request to see your identification at any time.
+
+* Always carry valid photo identification or a notarized copy of it
+* Keep a photocopy of your passport and visa in a safe place in case they’re lost or seized
+* Keep a digital copy of your identification and travel documents
 
 ### Dual citizenship
 
@@ -61,26 +65,18 @@ Be aware that Canadian consular officials cannot interfere in private legal matt
 * [Canadian embassies and consulates by destination](https://travel.gc.ca/assistance/embassies-consulates)
 * [Request emergency assistance](https://travel.gc.ca/assistance/emergency-assistance)
 
-### 2SLGBTQI+ persons
-
-Central African law does not prohibit sexual acts between individuals of the same sex. However, homosexuality is not widely socially accepted.
-
-2SLGBTQI+ persons could face arrest under other charges, such as public indecency.
-
-2SLGBTQI+ persons should carefully consider the risks of travelling to the Central African Republic.
-
-[Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
-
 ### Driving
 
-You must carry an International Driving Permit.
+To drive in the Central African Republic, you must have an International Driving Permit along your valid Canadian driver’s licence.
 
-Penalties for drinking and driving are severe, and can include jail time.
+Penalties for drinking and driving are severe and can include jail time.
+
+Traffic accidents can quickly draw large crowds. Remain calm if there is a dispute, particularly in a public place. If you feel threatened by a crowd, ask the local police to intervene.
 
 [International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
 
 ### Money
 
-The currency in the Central African Republic is the African Financial Community franc (XAF). Only Bangui’s major hotels accept international credit cards and the Carte Bleue debit card.
+The currency in the Central African Republic is the African Financial Community franc (XAF). The economy is cash-based. Only Bangui’s major hotels accept credit cards. ATMs are only available in a few banks and hotels in Bangui.
 
-The exchange rate for cash is much lower than for traveller’s cheques. Banks charge a commission on traveller’s cheques. You can only exchange currency in Bangui and Berbérati.
+You can only exchange currency in Bangui and Berbérati.

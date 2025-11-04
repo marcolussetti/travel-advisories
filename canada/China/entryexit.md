@@ -107,9 +107,9 @@ Learn about [potential entry requirements related to yellow fever](#health) (vac
 
 ### Exit bans
 
-Chinese authorities may place an exit ban on specific individuals to prevent them from leaving the country. An exit ban can relate to investigations into an individual, their family or an employer, and in criminal and civil matters, including business disputes.
+Chinese authorities may place an exit ban on specific individuals. An exit ban may prevent you from leaving the country if you, your family or your employer and/or business associates are involved in any open civil or criminal investigations, including business disputes.
 
-You may not be aware that authorities have placed an exit ban on you until you try to leave the country. It is difficult to obtain information on bans from Chinese authorities.
+You may only learn that authorities have placed an exit ban on you as you go through customs and immigration controls when trying to leave China. It is difficult to obtain information on bans from Chinese authorities.
 
 If you’re unable to leave the country because of an exit ban, consult a lawyer and contact the closest office of the Government of Canada.
 

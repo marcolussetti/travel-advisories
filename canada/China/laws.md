@@ -2,7 +2,7 @@
 
 ## Laws and culture
 
-You must abide by local laws.
+You must abide by local laws and there is a risk of arbitrary enforcement.
 
 Learn about what you should do and how we can help if you are [arrested or detained abroad](https://travel.gc.ca/assistance/emergency-info/arrest-detention).
 
@@ -10,11 +10,15 @@ Learn about what you should do and how we can help if you are [arrested or detai
 
 If you are suspected of a crime, Chinese authorities can prevent you from leaving China (by withholding your passport or applying an exit ban) or may detain you for up to 37 days without charges.
 
+You may also be subject to severe punishments, including for non-violent acts such as financial crimes. Chinese authorities may also apply the death penalty for crimes deemed serious, including drug offences.
+
 Detention during the investigative period before charges are laid is common and can be lengthy. Some defence lawyers may be reluctant to accept cases involving foreigners.
 
-Consult a Canadian government office in China if you experience such difficulty.
+Our ability to provide consular assistance in China is limited due to China’s judicial system. It may also impact your ability to obtain effective legal assistance.
 
-Consult our [Arrest and detention](http://travel.gc.ca/assistance/emergency-info/arrest-detention) page and our [Overview of the criminal law system in China](https://travel.gc.ca/travelling/advisories/china/criminal-law-system) for more information.
+If you are a dual citizen, you should always travel using your valid Canadian passport and present yourself as Canadian to Chinese authorities. If you enter China on a Chinese passport or identity card, the Chinese government may consider you a citizen of China and refuse to grant you access to Canadian consular services.
+
+[Arrest and detention](http://travel.gc.ca/assistance/emergency-info/arrest-detention)
 
 ### Death penalty
 
