@@ -2,7 +2,7 @@
 
 ### **Security Status**
 
-High Degree of Caution
+Avoid Non-Essential Travel
 
 ### Travel Alert
 

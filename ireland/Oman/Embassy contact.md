@@ -24,8 +24,7 @@ Fax: +966 11 488 0927
 ### Postal address
 
 P.O. Box 94349   
-Riyadh 11693   
-Saudi Arabia
+Riyadh 11693
 
 ### Honorary Consul of Ireland, Oman
 

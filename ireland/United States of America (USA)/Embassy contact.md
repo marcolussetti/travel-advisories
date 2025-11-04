@@ -124,9 +124,9 @@ Our consular region covers Connecticut, Delaware, New Jersey, New York, Ohio and
 
 [**Contact us**](/en/usa/newyork/contact/)
 
-**Mainline:** [**+1 212 319 2555**](tel:+1 (212 ) 319 -2555)
+**Mainline:** [**+1 212 319 2555**](tel:+12123192555)
 
-**Passport queries:** [**+1 212 319 2556**](tel:+1 (212) 319-2556)
+**Passport queries:** [**+1 212 319 2556**](tel:+12123192556)
 
 ### Consulate General of Ireland, San Francisco
 
