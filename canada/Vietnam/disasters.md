@@ -2,6 +2,25 @@
 
 ## Natural disasters and climate
 
+### Typhoon Kalmaegi
+
+Typhoon Kalmaegi is expected to make landfall between Da Nang and Quang Ngai provinces on November 6, 2025.
+
+The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
+
+* transportation
+* power distribution
+* water and food supply
+* telecommunications networks
+* emergency services
+* medical care
+
+If you are in the affected area:
+
+* exercise caution
+* monitor local news and weather reports
+* follow the instructions of local authorities
+
 ### Flooding
 
 Heavy rainfall has caused flooding in northern provinces, including in Hanoi.

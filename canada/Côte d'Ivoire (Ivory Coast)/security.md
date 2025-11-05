@@ -4,7 +4,7 @@
 
 ### Elections
 
-In the context of the presidential elections scheduled for October 25, 2025, and the legislative elections on December 27, 2025, Côte d'Ivoire is entering a tense electoral phase.
+Following the presidential election on October 25, 2025, and the legislative elections scheduled for December 27, 2025, Côte d'Ivoire is in a tense electoral phase.
 
 Demonstrations could occur before, during and after the elections.
 

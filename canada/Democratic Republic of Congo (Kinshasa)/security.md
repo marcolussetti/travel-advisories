@@ -28,8 +28,6 @@ If you or your family require assistance, contact the Embassy of Canada in Kinsh
 
 ### Terrorism
 
-On August 20, 2025, the U.S. Embassy in Kinshasa issued the following security alert: “The U.S. Embassy in Kinshasa alerts U.S. citizens that we have received reports indicating places of worship may be the target of terrorist attacks in the North Kivu province in the Democratic Republic of the Congo. The Embassy advises U.S. citizens to exercise increased awareness, avoid large gatherings, and monitor local news and security updates.”
-
 There is a threat of terrorism in the Democratic Republic of Congo, particularly in the border areas with Rwanda, Burundi and Uganda. Armed groups clash over control of goods-trafficking routes, mining sites and agricultural areas.
 
 Attacks on civilians and government targets occur frequently. Further attacks are likely.
@@ -80,9 +78,9 @@ Since 2021, the provinces of North Kivu and Ituri have been under a state of mil
 
 ### Provinces of North Kivu and South Kivu
 
-Clashes between the Congolese army and the M23 rebel group continue around Goma in North Kivu.
+Clashes between the Congolese army, supported by pro-government militias, and armed groups continue in North Kivu and South Kivu.
 
-Despite the signing of peace agreements and the presence of UN forces, armed conflict persists in certain regions outside the provincial capitals. Members of various armed groups continue to perpetrate acts of pillage and violent crimes against the civilian population, including murder, kidnapping, armed assault and rape. The ensuing humanitarian crisis has led to major displacements.
+Despite the signing of a ceasefire agreement and the presence of United Nations forces, armed fighting persists. Members of various armed groups and terrorist groups continue to perpetrate acts of pillage and violent crimes against the civilian population, including bomb attacks, murder, kidnapping, armed assault and rape. The ensuing humanitarian crisis has led to major displacements.
 
 Military operations are still underway in some areas, including near:
 
