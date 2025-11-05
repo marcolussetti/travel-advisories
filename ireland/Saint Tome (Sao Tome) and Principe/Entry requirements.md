@@ -9,6 +9,8 @@ Irish citizens can enter São Tomé and Principe without a visa for up to 15 day
 * documents showing proof of purpose of trip,
 * documents required for next destination.
 
+To stay longer than 15 days (to work or study, for business travel or for other reasons), you must [**meet the São Tomé and Príncipe government’s entry requirements**](http://www.smf.st/evisa/index.php#EN-lang).
+
 ### **Passport**
 
 Passports should be valid for at least 6 months from date of entry and have at least 2 blank pages.

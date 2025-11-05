@@ -10,14 +10,16 @@ Tourist visas are valid for 360 days from the date of issue. Irish citizens can 
 
 Muslim tourists can apply for the tourist visa to perform Umrah. A specific visa is required to perform Hajj.
 
-**Please find guidance in the following table on how to apply for a visa to travel to Saudi Arabia by visa type:**
+**Please find guidance in the following table on how to apply for a visa to travel to Saudi Arabia by visa type.**
+
+> **The below information is guidance only, please see** [**visa.visitsaudi.com**](https://visa.visitsaudi.com/) **for official guidance from the Saudi government.**
 
 Guidance on applying by visa type
 
 | Visa Type | Eligible For | Price | How to Apply |
 | --- | --- | --- | --- |
 | Visit | General Visitors (including Umrah) | Multiple Entry: Visa valid for 1 year (permits a total stay of 90 days, non-renewable): SAR 395 | Apply online [via Saudi eVisa portal](https://visa.visitsaudi.com/) |
-| Visa on Arrival (not recommended)\* | General Visitors (including Umrah) | **Multiple Entry:** Visa valid for 1 year (permits a total stay of 90 days, non-renewable): SAR 395  Kindly note, payment for "Visa on Arrival" is only accepted via Credit Cards and [MADA](https://www.mada.com.sa/en/) | Please note, it is recommended to apply for a [Saudi eVisa](https://visa.visitsaudi.com/) prior to departure, instead of visa on  arrival. |
+| Visa on Arrival | General Visitors (including Umrah) | **Multiple Entry:** Visa valid for 1 year (permits a total stay of 90 days, non-renewable): SAR 395  Kindly note, payment for "Visa on Arrival" is only accepted via Credit Cards and [MADA](https://www.mada.com.sa/en/) | Please note, it is recommended to apply for a [Saudi eVisa](https://visa.visitsaudi.com/) prior to departure, instead of visa on  arrival. |
 | Business | Short Term Businesspersons | Consult with employer | [Apply online](https://ksavisa.sa/) |
 | Work | Long-term workers | Consult with employer | Consult with employer |
 | Pilgrims | Muslims Only | Umrah: See Visit Visa  Hajj\*: Varies depending on travel agent (renewable after 90 days for duration of  visa validity) | **Umrah visitors:** Apply online [via Saudi eVisa portal](https://visa.visitsaudi.com/)  **Hajj visitors:** Apply [via the Nusuk Platform](https://www.nusuk.sa/)  and seek advice from your travel agent |

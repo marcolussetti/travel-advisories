@@ -6,7 +6,7 @@ Normal Precautions
 
 ### **General Travel Advice**
 
-Please be aware that Visa-on-arrival is not available at all entry points and securing an e-Visa in advance may be necessary. Check what is required for your itinerary on the [**Lao Immigration website**](https://immigration.gov.la/checkpoints/)**.**
+Please be aware that Visa-on-arrival is not available at all entry points and securing an e-Visa in advance may be necessary. Check what is required for your itinerary on the [Lao Immigration Website](https://immigration.gov.la/en/home)**.**
 
 All visitors to Lao PDR must hold a passport that is valid for at least 6 months from the time of entry into Laos and contain at least two blank pages for a visa stamp. Passport cards cannot be used.
 

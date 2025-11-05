@@ -20,7 +20,7 @@ For more information on visa and passport, please see the Entry Requirements tab
 
 Visitors to Togo are advised to follow the guidance of national and local authorities and stay fully informed of what is going on by monitoring local news and social media.
 
-Citizens can also follow the Embassy on social media ([X](https://www.dfa.ie/travel/travel-advice/a-z-list-of-countries/togo/Citizens%20can%20also%20follow%20the%20Embassy%20on%20social%20media%20(Twitter%20and%20Facebook)%20to%20ensure%20access%20to%20relevant%20updates%20and%20alerts.) and [**Facebook**](https://www.facebook.com/embassyofirelandnigeria/)) to ensure access to relevant updates and alerts.
+Citizens can also follow the Embassy on social media ([**X**](https://www.dfa.ie/travel/travel-advice/a-z-list-of-countries/togo/Citizens%20can%20also%20follow%20the%20Embassy%20on%20social%20media%20(Twitter%20and%20Facebook)%20to%20ensure%20access%20to%20relevant%20updates%20and%20alerts.) and [**Facebook**](https://www.facebook.com/embassyofirelandnigeria/)) to ensure access to relevant updates and alerts.
 
 ### **Emergency Assistance**
 

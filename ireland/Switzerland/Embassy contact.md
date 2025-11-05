@@ -13,8 +13,6 @@ Switzerland
 
 [Tel: +41 31 350 03 80](tel:+4131 350 03 80)
 
-Fax: +41 31 352 1455
-
 [**Contact us**](/en/switzerland/berne/contact/)
 
 ### Honorary Consul of Ireland, Zurich

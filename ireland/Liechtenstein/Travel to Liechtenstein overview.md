@@ -14,7 +14,7 @@ Irish citizens do not require a visa to enter Liechtenstein.  However, if stayi
 
 Visitors to Liechtenstein are advised to follow the guidance of national and local authorities and stay fully informed of what is going on by monitoring local news and social media.
 
-Citizens can also follow the Irish Embassy in Berne on social media (X [**@IrlEmbBerne**](https://twitter.com/IrlEmbBerne) , [**Facebook**](https://www.facebook.com/IRESWITZERLAND/) and [**LinkedIn**](https://www.linkedin.com/company/embassy-of-ireland-switzerland/)) to ensure access to relevant updates and alerts.
+Citizens can also follow the Irish Embassy in Berne on social media (X [**@IrlEmbBerne**](https://twitter.com/IrlEmbBerne) , [**Facebook**](https://www.facebook.com/IRESWITZERLAND/), [**Instagram**](https://www.instagram.com/irelandinswitzerland) and [**LinkedIn**](https://www.linkedin.com/company/embassy-of-ireland-switzerland/)) to ensure access to relevant updates and alerts.
 
 ### **Emergency Assistance**
 

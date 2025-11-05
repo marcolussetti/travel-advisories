@@ -2,13 +2,13 @@
 
 ### Visa
 
-Irish citizens must apply for an eVisa at least 6 days in advance and provide a printed copy of this application at passport control when visiting Togo.
+Irish citizens must apply for an [**eVisa**](https://voyage.gouv.tg/) at least 6 days in advance and provide a printed copy of this application at passport control when visiting Togo.
 
 Travellers are requested to have a travel itinerary for their proposed period of stay and have sufficient proof of funds to cover their stay in Togo.
 
 ### **Passport**
 
-Passports must be valid for at least 6  months from date of entry into Togo and have at least two blank pages.
+Passports must be valid for at least 6 months from date of entry into Togo and have at least two blank pages.
 
 It is advisable to take a number of photocopies of your passport when travelling to Togo and carry a photocopy of your passport at all times during your stay.
 
