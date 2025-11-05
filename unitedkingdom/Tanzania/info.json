@@ -1,11 +1,11 @@
 {
     "name": "Tanzania",
-    "update_reason": "Updated information on protests and disruption to services and supplies (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "New information on political situation and disruption to services and supplies and new information on social media use ('Warnings and insurance' and 'Safety and security' pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Tanzania/Warnings and insurance.md",
-            "update_date": "2025-11-03T16:17:06+00:00"
+            "update_date": "2025-11-04T18:58:26+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Tanzania/Getting help.md"
         }
     ],
-    "update_date": "2025-11-03T16:17:06+00:00"
+    "update_date": "2025-11-04T18:58:26+00:00"
 }

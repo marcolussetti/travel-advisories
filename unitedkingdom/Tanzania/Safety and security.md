@@ -100,6 +100,10 @@ Zanzibari authorities can fine you 700 US dollars or more if you’re wearing wh
 
 Plastic bags are banned for environmental reasons. If you arrive by air you’ll be asked to hand over all plastic bags on arrival. The ban does not include ‘ziplock’ bags for airline security procedures.
 
+### Social media
+
+It is illegal to take and/or share photographs and video footage of protests and violence. Avoid activities that could be considered political, including political discussions in public places or online. Avoid social media activities including posting comments, blogging or sharing photographs or video footage relating to protests or the current political situation.
+
 ### Illegal drugs
 
 Tanzania has strict laws on drug use. There may be severe penalties, including lengthy prison sentences which can be applied both for supplying and simple possession of any drugs, including when transiting through the airport.

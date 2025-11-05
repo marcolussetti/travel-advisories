@@ -1,17 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   30 October 2025
+:   5 November 2025
 
 Updated:
-:   29 October 2025
+:   4 November 2025
 
 Latest update:
-:   Addition of information about heavy rainfall and flooding ('Warnings and insurance' page).
-
-## Heavy rainfall and flooding
-
-Botswana’s Department of Meteorological Services has issued a warning about possible widespread rainfall from 29 October, which may cause flooding in some parts of the southern region in the country. Be cautious and seek local advice, monitor local media, and check for up-to-date information on weather conditions from the [Botswana Government](https://www.facebook.com/BotswanaGovernment) and [Botswana Meteorological Services](https://www.facebook.com/BotswanaMet) on their social media pages.
+:   Removal of information about heavy rainfall and flooding ('Warnings and insurance' page).
 
 ## Before you travel
 

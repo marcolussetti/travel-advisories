@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   4 November 2025
+:   5 November 2025
 
 Updated:
-:   3 November 2025
+:   4 November 2025
 
 Latest update:
-:   Updated information on protests and disruption to services and supplies (‘Warnings and insurance’ page).
+:   New information on political situation and disruption to services and supplies and new information on social media use ('Warnings and insurance' and 'Safety and security' pages).
 
 ![](https://assets.publishing.service.gov.uk/media/69064e6b14e0c1d9784174f6/FCDO__TA__086_-_Tanzania_Travel_Advice_Ed2__WEB_.jpg)
 
@@ -26,28 +26,27 @@ This is due to disruption and unrest following the national election on 29 Octob
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/tanzania/regional-risks).
 
-## Protests and disruption to services and supplies
+## Political situation and disruption to services and supplies
 
 General elections took place in Tanzania on 29 October.
 
-Following violent protests and unrest in some parts of the country, the Tanzanian police announced a curfew effective from 6pm-6am local time which remains in place on the mainland.
+Following violent protests and unrest in some parts of the country, there have been fatalities and injuries. Although the political situation is now calmer, demonstrations can be unpredictable and may turn violent again.
 
-There are widespread road blockades and closures nationwide, although the situation remains changeable.
+Groups of tourists have been targeted and detained by local police for allegedly interfering with or inciting anti-government protests.
 
-Some international and domestic flights have been cancelled.
-There are no ferries running from Dar es Salaam to Zanzibar. The SGR rail service is also not running. Check with your airline or travel provider for the latest information before travelling to airports or other transport hubs.
+There are widespread disruptions to transport nationwide, including road blocks. The SGR rail service and ferries between the mainland and Zanzibar are operating a reduced service.
+
+Check with your travel provider for the latest information before travelling to airports or other transport hubs.
 
 There are fuel, cash and water access challenges across the country. Some supermarkets are running low on food supplies due to the closure of Dar es Salaam port. Public hospitals are reporting shortage of medical supplies.
 
 British nationals are advised to:
 
-* limit movements
-* adhere to the curfews
 * monitor local media
 * follow the advice of the local authorities
 * stay away from all demonstrations, rallies, and large crowds
 
-There is disruption to mobile networks, the internet and social media.
+There is some disruption to mobile networks, the internet and social media.
 
 If you are a British national in need of consular assistance, you can call us 24/7 selecting the option for ‘Consular services for British nationals’:
 
