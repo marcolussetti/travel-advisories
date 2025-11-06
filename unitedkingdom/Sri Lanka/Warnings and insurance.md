@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   15 October 2025
+:   6 November 2025
 
 Updated:
-:   14 October 2025
+:   5 November 2025
 
 Latest update:
-:   New information on overstaying your visa and information that visitors must have an Electronic Travel Authorization (ETA) before travelling to Sri Lanka ('Entry requirements’ page).
+:   Updated information about applying for a Sri Lanka ‘Electronic Travel Authorisation’(‘Entry requirements’ page).
 
 ## Before you travel
 

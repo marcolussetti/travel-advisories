@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   31 October 2025
+:   6 November 2025
 
 Updated:
-:   30 October 2025
+:   5 November 2025
 
 Latest update:
-:   Update following Hurricane Melissa passing through the region ('Warnings and insurance' page).
+:   Removal of information about Hurricane Melissa.
 
 ![](https://assets.publishing.service.gov.uk/media/6411a1f18fa8f5556a0d6937/FCDO__TA__019_-_Haiti_Travel_Advice_Ed2__WEB_.jpg)
 
@@ -23,10 +23,6 @@ FCDO advises against all travel to Haiti due to the volatile security situation.
 British nationals may get consular services assistance at our [diplomatic mission in the Dominican Republic](https://www.gov.uk/world/organisations/british-embassy-santo-domingo).
 
 If you choose to travel to or stay in Haiti against FCDO advice, try to avoid all crowds and public events, and take appropriate security precautions.
-
-## Hurricane Melissa
-
-Hurricane Melissa has now passed through the region as a major hurricane. The full impact is not yet clear, but the storm brought exceptional levels of rainfall, resulting in flash floods, landslides and storm surges. Stay informed by monitoring local and international weather updates, including from the [Cuban Civil Defence Authorities](https://www.facebook.com/story.php?story_fbid=826460820029304&id=100079961792829&rdid=c9VDudt1GOexKsdm), [INSMET](https://www.facebook.com/story.php?story_fbid=826460820029304&id=100079961792829&rdid=c9VDudt1GOexKsdm) weather forecast centre, and the [Dominican Republic’s National Meteorological Office](https://indomet.gob.do/pronostico/informe-del-tiempo) (ONAMET), as well as the [US National Hurricane Centre](https://www.nhc.noaa.gov/). Follow the guidance of local authorities, especially in relation to evacuation orders. See ‘Extreme weather and natural disasters’ on the [‘Safety and security’](https://www.gov.uk/foreign-travel-advice/haiti/safety-and-security#extreme-weather-and-natural-disasters) page.
 
 ## Travel insurance
 

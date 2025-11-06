@@ -25,7 +25,7 @@ Stay aware of your surroundings, keep up to date with local media reports and fo
 
 ## Political situation
 
-Presidential elections will take place on 25 October. Depending on the outcome, there may be a second round on 29 November. Political demonstrations have taken place in Abidjan and regional towns, including Gagnoa. It is likely there will be more during this period. The authorities may use tear gas to disrupt unauthorised protests. Crowds can gather quickly, and roadblocks are common.
+Political demonstrations sometimes take place in Abidjan and regional towns, particularly around elections. Parliamentary elections are scheduled for 27 December. The authorities may use tear gas to disrupt unauthorised protests. Crowds can gather quickly, and roadblocks are common.
 
 You should:
 

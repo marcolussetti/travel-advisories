@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   14 October 2025
+:   6 November 2025
 
 Updated:
-:   13 October 2025
+:   5 November 2025
 
 Latest update:
-:   New information on the political situation ('Safety and security' page).
+:   Updated information on the political situation ahead of the upcoming parliamentary elections which will take place on 27 December ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/66152612c4c84de468346aee/FCDO__TA__049_-_C%C3%B4te_d_Ivoire_Travel_Advice_Ed3__WEB_.jpg)
 

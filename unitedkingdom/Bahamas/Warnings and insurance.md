@@ -1,17 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   31 October 2025
+:   6 November 2025
 
 Updated:
-:   30 October 2025
+:   5 November 2025
 
 Latest update:
-:   Updated information about Hurricane Melissa ('Warnings and insurance' page).
-
-## Hurricane Melissa
-
-Hurricane Melissa passed through The Bahamas’ southern islands on the afternoon of 29 October bringing significant levels of rainfall and storm surges. Local authorities continue to monitor the weather system closely. Stay informed by monitoring local and international weather updates, including from the [Bahamas Department of Meteorology website](https://met.gov.bs/), as well as the [US National Hurricane Centre](https://www.nhc.noaa.gov/). Follow the guidance of local authorities, especially in relation to evacuation orders. See ‘Extreme weather and natural disasters’ on the [‘Safety and security’](https://www.gov.uk/foreign-travel-advice/haiti/safety-and-security#extreme-weather-and-natural-disasters) page.
+:   Removal of information about Hurricane Melissa.
 
 ## Hurricanes
 

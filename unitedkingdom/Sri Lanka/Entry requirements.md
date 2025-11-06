@@ -14,17 +14,19 @@ You will be denied entry if you do not have a valid travel document or try to us
 
 ## Visa requirements
 
-Sri Lanka no longer issues visas on arrival. You now need to apply for an Electronic Travel Authorization (ETA) online, which is valid for 30 days.
+To enter Sri Lanka, you need to apply for an ‘Electronic Travel Authorization’ (ETA) which is a form of visa.
 
 ### Applying for an Electronic Travel Authorization (ETA)
 
-You must apply for a [Sri Lanka ‘Electronic Travel Authorization’ (ETA)](https://www.eta.gov.lk/slvisa/visainfo/extsheta.jsp?locale=en_US) online, at least a few days before departure. ETAs will be valid for 30 days. If you plan to stay longer, you can apply for an extension online through Sri Lankas [official Immigration portal](https://eservices.immigration.gov.lk/vs/home.php). You do not need a visa if you are transiting through Sri Lanka by air, if the connecting flight is within 24 hours of your arrival. Check with your airlines about transit times.
+Apply for a [Sri Lanka ‘Electronic Travel Authorization’ (ETA)](https://www.eta.gov.lk/slvisa/visainfo/extsheta.jsp?locale=en_US) online. You should do this before travel. ETAs will be valid for 30 days. Alternatively, you can also apply for an on-arrival ETA at the airport’s Immigration counter.
+
+If you plan to stay longer, you can apply for an extension online through Sri Lankas [official Immigration portal](https://eservices.immigration.gov.lk/vs/home.php). You do not need a visa if you are transiting through Sri Lanka by air, if the connecting flight is within 24 hours of your arrival. Check with your airlines about transit times.
 
 For more information on Sri Lankan visas, please visit [Department of Immigration and Emigration](https://www.immigration.gov.lk/index_e.php).
 
 ### Overstaying your visa
 
-If you overstay the period of your visa, you risk being subject to immigration procedures that may include temporary detention, a fine, deportation at your own expense, a travel ban or refusal of entry to Sri Lanka in the future.
+If you overstay the period of your ETA (30 days), you risk being subject to immigration procedures that may include temporary detention, a fine, deportation at your own expense, a travel ban or refusal of entry to Sri Lanka in the future.
 
 ## Vaccine requirements
 

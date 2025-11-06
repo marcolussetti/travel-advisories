@@ -1,11 +1,11 @@
 {
     "name": "Haiti",
-    "update_reason": "Update following Hurricane Melissa passing through the region ('Warnings and insurance' page).",
+    "update_reason": "Removal of information about Hurricane Melissa.",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Haiti/Warnings and insurance.md",
-            "update_date": "2025-10-30T19:44:11+00:00"
+            "update_date": "2025-11-05T15:26:28+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Haiti/Getting help.md"
         }
     ],
-    "update_date": "2025-10-30T19:44:11+00:00"
+    "update_date": "2025-11-05T15:26:28+00:00"
 }
