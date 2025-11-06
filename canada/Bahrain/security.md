@@ -29,22 +29,37 @@ Petty crime, such as pickpocketing and purse snatching occurs. Violent crime is 
 
 ### Demonstrations
 
-Demonstrations take place regularly, particularly on evenings and weekends. Even peaceful demonstrations can turn violent at any time. Participants have been known to throw rocks, Molotov cocktails and use makeshift explosive devices during protests. Police have historically used tear gas and stun grenades to disperse crowds.
+Demonstrations and protests take place. Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation.
+
+Protests can arise with little or no warning. The risk of protests may increase around the anniversaries of significant events.
 
 Areas prone to demonstrations include:
 
-* Sitra
-* Bani Jamra
-* Karbabad
-* Saar
-* Karzakan
-* the Budaiya Highway and surrounding villages.
+* in Capital Governorate:
 
-Demonstrations can also lead to disruptions to traffic and public transportation.
++ Sitra
++ Karbabad
++ Adliya
++ Sanabis
 
-* Avoid areas where demonstrations and large gatherings are taking place
-* Follow the instructions of local authorities
-* Monitor local media for information on ongoing demonstrations
+* in Northern Governorate:
+
++ Bani Jamra
++ Saar
++ Karzakan
++ Budaiya Highway and surrounding villages
++ Diraz
+
+* Al Dair, in Muharraq Governorate
+* Nuwaidrat, in Central Governorate
+
+During your stay:
+
+* avoid areas where demonstrations and large gatherings are taking place
+* follow the instructions of local authorities
+* monitor local media for information on ongoing demonstrations
+
+[Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
 
 ### Women’s safety
 
@@ -85,8 +100,6 @@ We do not make assessments on the compliance of foreign domestic airlines with i
 
 ### Sea travel
 
-There is a curfew in effect on the waterways around Bahrain from 6 p.m. to 4 a.m. Vessels operating in these waters may be detained and inspected, even outside curfew hours.
-
 Regional tension may affect your travel. Exercise caution in the following areas, as vessels have been subject to detention, inspection and attacks:
 
 * Gulf of Oman
@@ -95,5 +108,3 @@ Regional tension may affect your travel. Exercise caution in the following areas
 * Bab El Mandeb
 
 Exercise increased caution when travelling by dhow (small sailboat), as they may not be up to Canadian safety standards.
-
-[Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)

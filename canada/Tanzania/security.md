@@ -2,30 +2,32 @@
 
 ## Safety and security
 
-### Demonstrations
+### Security situation
 
 On October 29, 2025, general elections took place in Tanzania and Zanzibar.
 
-Violent demonstrations are occurring throughout the country, including in Dar es Salaam.
+Violent demonstrations occurred throughout the country, including in Dar es Salaam. There are casualties.
 
-Telecommunications and Internet access are disrupted.
+Intermittent disruptions to Internet access, including social media and messaging applications, may continue.
 
-Authorities have strengthened security measures and have imposed a nationwide curfew from 6 pm to 6 am.
+Authorities have strengthened security measures and security forces are present on the streets.
 
-Demonstrations, movement restrictions and roadblocks are disrupting traffic and public transportation, including air and sea travel.
+Police have the authority to search electronic devices, including phones. This may involve examining images and videos that could be considered sensitive by local authorities. Possession of such content could lead to detention.
 
-* Access to Julius Nyerere International Airport in Dar es Salaam may be limited
-* Flights to and from Zanzibar are disrupted
-* Ferries between Dar es Salaam and Zanzibar are not currently running
-* SGR trains are currently not running
+Foreign nationals may be subject to increased attention from local security forces, and there have been reports of temporary detentions. Travellers are advised to carry valid identification at all times and to comply with local regulations.
+
+Curfews have been lifted in most areas, including the city of Dar es Salaam. Movement restrictions and military checkpoints are disrupting traffic and public transportation is affected.
+
+* Access to Julius Nyerere International Airport in Dar es Salaam is controlled by military checkpoints
+* Ferries between Dar es Salaam and Zanzibar are running on adjusted schedules
+* SGR trains are running on reduced schedules
 
 If you are in Tanzania:
 
-* shelter in place
 * contact your airline to confirm your flight and proceed to the airport only if it is safe to do so
 * avoid demonstrations and large gatherings
 * monitor the media for the latest information
-* follow the instructions of local authorities, including curfew orders
+* follow the instructions of local authorities, including orders on movement restrictions and the sharing of videos or photos deemed sensitive
 
 ### Border with Mozambique in the Mtwara region
 

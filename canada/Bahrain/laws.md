@@ -22,9 +22,7 @@ Bahraini law does not prohibit sexual acts between individuals of the same sex. 
 
 [Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
 
-### Social Media
-
-In June 2017, when Bahrain cut diplomatic ties with Qatar, it also announced that any expression of sympathy for Qatar on social media or by any other means of communication is an offence. Transgression could result in imprisonment or a fine.
+### 
 
 ### Identification
 

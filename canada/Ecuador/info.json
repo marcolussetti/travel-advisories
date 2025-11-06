@@ -1,7 +1,7 @@
 {
     "name": "Ecuador",
-    "update_reason": "Safety and security \u2013 removed information on a series of coordinated explosions, removed information on the state of exception, updated information on the state of emergency",
-    "update_date": "2025-10-28T10:43:00",
+    "update_reason": "Safety and security \u2013 updated information on the state of emergency",
+    "update_date": "2025-11-05T15:24:00",
     "sections": {
         "risk": "canada/Ecuador/risk.md",
         "security": "canada/Ecuador/security.md",

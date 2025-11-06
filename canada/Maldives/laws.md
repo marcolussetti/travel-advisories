@@ -10,11 +10,19 @@ Learn about what you should do and how we can help if you are [arrested or detai
 
 Penalties for possession, use or trafficking of illegal drugs are severe. Convicted offenders can expect life imprisonment.
 
-#### Alcohol
+### Alcohol
 
 It is illegal to import alcohol. Alcohol is available on resort islands. Travellers are advised not to take any alcohol outside of resorts.
 
 [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
+
+### Smoking
+
+It is prohibited to import, distribute, sell, possess or use e-cigarettes or vaporisers in the Maldives. Convicted offenders can expect a fine.
+
+Smoking is banned in public places, including beaches and tourist attractions, with the exception of designated smoking areas.
+
+Anyone born after December 31, 2006, is banned from using or buying tobacco products in the Maldives.
 
 ### Weapons
 

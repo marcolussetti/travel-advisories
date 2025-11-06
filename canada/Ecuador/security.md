@@ -6,16 +6,19 @@
 
 A state of emergency is in effect in the following locations:
 
-* Echeandía canton in Bolívar Province
+* Echeandía and Las Naves cantons in Bolívar Province
+* La Maná canton in Cotopaxi Province
 * El Oro Province
 * Guayas Province
 * Los Ríos Province
 * Manabí Province
+* Santa Elena Province
 
 The state of emergency is in response to gang violence. While the state of emergency is in effect, security forces have the power to:
 
 * enter private homes
 * read private mail and phone records
+* conduct raids, inspections and searches
 * prohibit assembly
 
 If you are in Ecuador:

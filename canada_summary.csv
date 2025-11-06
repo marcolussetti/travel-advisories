@@ -2,7 +2,7 @@ destination,risk_level,last_updated,details_url
 Afghanistan,Avoid all travel,2025-10-02T16:19:25,https://travel.gc.ca/destinations/afghanistan
 Albania,Take normal security precautions,2025-09-29T09:48:22,https://travel.gc.ca/destinations/albania
 Algeria,Exercise a high degree of caution (with regional advisories),2025-09-29T09:49:18,https://travel.gc.ca/destinations/algeria
-American Samoa,Take normal security precautions,2025-10-27T16:08:35,https://travel.gc.ca/destinations/american-samoa
+American Samoa,Take normal security precautions,2025-11-05T11:49:42,https://travel.gc.ca/destinations/american-samoa
 Andorra,Take normal security precautions,2025-09-23T12:10:45,https://travel.gc.ca/destinations/andorra
 Angola,Exercise a high degree of caution (with regional advisories),2025-10-27T16:11:16,https://travel.gc.ca/destinations/angola
 Anguilla,Take normal security precautions,2025-10-28T13:23:31,https://travel.gc.ca/destinations/anguilla
@@ -16,12 +16,12 @@ Austria,Take normal security precautions,2025-10-31T09:03:53,https://travel.gc.c
 Azerbaijan,Exercise a high degree of caution (with regional advisories),2025-09-23T12:10:45,https://travel.gc.ca/destinations/azerbaijan
 Azores,Take normal security precautions,2025-10-15T21:35:02,https://travel.gc.ca/destinations/azores
 Bahamas,Exercise a high degree of caution,2025-11-01T10:12:13,https://travel.gc.ca/destinations/bahamas
-Bahrain,Exercise a high degree of caution,2025-10-22T13:38:52,https://travel.gc.ca/destinations/bahrain
-Bangladesh,Exercise a high degree of caution (with regional advisories),2025-10-27T16:21:58,https://travel.gc.ca/destinations/bangladesh
+Bahrain,Exercise a high degree of caution,2025-11-05T13:25:57,https://travel.gc.ca/destinations/bahrain
+Bangladesh,Exercise a high degree of caution (with regional advisories),2025-11-05T11:50:57,https://travel.gc.ca/destinations/bangladesh
 Barbados,Take normal security precautions,2025-10-28T13:23:31,https://travel.gc.ca/destinations/barbados
 Belarus,Avoid all travel,2025-09-23T12:10:45,https://travel.gc.ca/destinations/belarus
 Belgium,Exercise a high degree of caution,2025-10-15T15:20:26,https://travel.gc.ca/destinations/belgium
-Belize,Exercise a high degree of caution (with regional advisories),2025-10-28T13:23:31,https://travel.gc.ca/destinations/belize
+Belize,Exercise a high degree of caution (with regional advisories),2025-11-05T11:52:43,https://travel.gc.ca/destinations/belize
 Benin,Exercise a high degree of caution (with regional advisories),2025-10-27T16:31:30,https://travel.gc.ca/destinations/benin
 Bermuda,Take normal security precautions,2025-10-31T15:03:03,https://travel.gc.ca/destinations/bermuda
 Bhutan,Take normal security precautions,2025-10-27T16:31:10,https://travel.gc.ca/destinations/bhutan
@@ -29,7 +29,7 @@ Bolivia,Exercise a high degree of caution (with regional advisories),2025-10-28T
 Bonaire,Take normal security precautions,2025-10-28T13:23:31,https://travel.gc.ca/destinations/bonaire
 Bosnia and Herzegovina,Exercise a high degree of caution,2025-09-25T11:08:48,https://travel.gc.ca/destinations/bosnia-and-herzegovina
 Botswana,Exercise a high degree of caution,2025-10-27T16:38:18,https://travel.gc.ca/destinations/botswana
-Brazil,Exercise a high degree of caution (with regional advisories),2025-10-31T08:29:34,https://travel.gc.ca/destinations/brazil
+Brazil,Exercise a high degree of caution (with regional advisories),2025-11-05T13:40:54,https://travel.gc.ca/destinations/brazil
 British Virgin Islands,Take normal security precautions,2025-10-28T13:23:31,https://travel.gc.ca/destinations/british-virgin-islands
 Brunei,Take normal security precautions,2025-10-27T16:44:46,https://travel.gc.ca/destinations/brunei
 Bulgaria,Take normal security precautions,2025-10-15T15:22:12,https://travel.gc.ca/destinations/bulgaria
@@ -46,10 +46,10 @@ Chile,Exercise a high degree of caution,2025-10-28T14:14:42,https://travel.gc.ca
 China,Exercise a high degree of caution,2025-11-03T09:07:20,https://travel.gc.ca/destinations/china
 Colombia,Exercise a high degree of caution (with regional advisories),2025-10-31T14:47:45,https://travel.gc.ca/destinations/colombia
 Comoros,Exercise a high degree of caution,2025-10-27T17:12:05,https://travel.gc.ca/destinations/comoros
-Cook Islands,Take normal security precautions,2025-10-27T17:14:18,https://travel.gc.ca/destinations/cook-islands
+Cook Islands,Take normal security precautions,2025-11-05T12:01:38,https://travel.gc.ca/destinations/cook-islands
 Costa Rica,Exercise a high degree of caution,2025-10-28T13:32:51,https://travel.gc.ca/destinations/costa-rica
 Croatia,Take normal security precautions,2025-10-15T15:52:29,https://travel.gc.ca/destinations/croatia
-Cuba,Exercise a high degree of caution (with regional advisories),2025-10-31T15:10:36,https://travel.gc.ca/destinations/cuba
+Cuba,Exercise a high degree of caution (with regional advisories),2025-11-05T12:02:43,https://travel.gc.ca/destinations/cuba
 Curaçao,Take normal security precautions,2025-10-28T13:23:31,https://travel.gc.ca/destinations/curacao
 Cyprus,Take normal security precautions (with regional advisories),2025-10-27T17:18:01,https://travel.gc.ca/destinations/cyprus
 Czechia,Take normal security precautions,2025-10-16T16:30:05,https://travel.gc.ca/destinations/czechia
@@ -59,7 +59,7 @@ Denmark,Exercise a high degree of caution,2025-10-15T21:36:40,https://travel.gc.
 Djibouti,Exercise a high degree of caution (with regional advisories),2025-10-27T16:49:06,https://travel.gc.ca/destinations/djibouti
 Dominica,Take normal security precautions,2025-10-28T13:23:31,https://travel.gc.ca/destinations/dominica
 Dominican Republic,Exercise a high degree of caution,2025-10-28T13:23:31,https://travel.gc.ca/destinations/dominican-republic
-Ecuador,Exercise a high degree of caution (with regional advisories),2025-10-28T10:43:35,https://travel.gc.ca/destinations/ecuador
+Ecuador,Exercise a high degree of caution (with regional advisories),2025-11-05T15:24:54,https://travel.gc.ca/destinations/ecuador
 Egypt,Exercise a high degree of caution (with regional advisories),2025-09-29T14:16:10,https://travel.gc.ca/destinations/egypt
 El Salvador,Exercise a high degree of caution,2025-10-28T13:34:14,https://travel.gc.ca/destinations/el-salvador
 Equatorial Guinea,Exercise a high degree of caution,2025-10-27T16:44:03,https://travel.gc.ca/destinations/equatorial-guinea
@@ -72,7 +72,7 @@ Fiji,Take normal security precautions,2025-10-27T16:40:12,https://travel.gc.ca/d
 Finland,Take normal security precautions,2025-10-31T08:16:38,https://travel.gc.ca/destinations/finland
 France,Exercise a high degree of caution,2025-11-04T10:44:45,https://travel.gc.ca/destinations/france
 French Guiana,Take normal security precautions,2025-10-27T16:06:26,https://travel.gc.ca/destinations/french-guiana
-French Polynesia,Take normal security precautions,2025-10-27T16:07:29,https://travel.gc.ca/destinations/french-polynesia
+French Polynesia,Take normal security precautions,2025-11-05T12:05:20,https://travel.gc.ca/destinations/french-polynesia
 Gabon,Exercise a high degree of caution,2025-10-29T14:59:05,https://travel.gc.ca/destinations/gabon
 "Gambia, The",Exercise a high degree of caution,2025-10-27T16:09:49,https://travel.gc.ca/destinations/gambia-the
 Georgia,Take normal security precautions (with regional advisories),2025-11-04T12:07:46,https://travel.gc.ca/destinations/georgia
@@ -82,12 +82,12 @@ Gibraltar,Take normal security precautions,2025-09-23T12:10:45,https://travel.gc
 Greece,Take normal security precautions,2025-10-15T15:50:47,https://travel.gc.ca/destinations/greece
 Greenland,Take normal security precautions,2025-09-23T12:10:45,https://travel.gc.ca/destinations/greenland
 Grenada,Take normal security precautions,2025-10-28T13:23:31,https://travel.gc.ca/destinations/grenada
-Guadeloupe,Take normal security precautions,2025-10-28T13:23:31,https://travel.gc.ca/destinations/guadeloupe
+Guadeloupe,Take normal security precautions,2025-11-05T12:07:28,https://travel.gc.ca/destinations/guadeloupe
 Guam,Take normal security precautions,2025-10-21T15:36:28,https://travel.gc.ca/destinations/guam
-Guatemala,Exercise a high degree of caution (with regional advisories),2025-10-28T13:32:51,https://travel.gc.ca/destinations/guatemala
+Guatemala,Exercise a high degree of caution (with regional advisories),2025-11-05T12:08:26,https://travel.gc.ca/destinations/guatemala
 Guinea,Exercise a high degree of caution,2025-10-30T15:46:21,https://travel.gc.ca/destinations/guinea
 Guinea-Bissau,Exercise a high degree of caution (with regional advisories),2025-10-27T16:15:21,https://travel.gc.ca/destinations/guinea-bissau
-Guyana,Exercise a high degree of caution,2025-10-27T16:16:17,https://travel.gc.ca/destinations/guyana
+Guyana,Exercise a high degree of caution,2025-11-05T12:10:50,https://travel.gc.ca/destinations/guyana
 Haiti,Avoid all travel,2025-10-31T10:03:56,https://travel.gc.ca/destinations/haiti
 Honduras,Exercise a high degree of caution (with regional advisories),2025-10-28T13:32:51,https://travel.gc.ca/destinations/honduras
 Hong Kong,Exercise a high degree of caution,2025-10-27T16:19:10,https://travel.gc.ca/destinations/hong-kong
@@ -98,19 +98,19 @@ Indonesia,Exercise a high degree of caution (with regional advisories),2025-10-2
 Iran,Avoid all travel,2025-10-27T16:21:31,https://travel.gc.ca/destinations/iran
 Iraq,Avoid all travel,2025-10-17T08:43:07,https://travel.gc.ca/destinations/iraq
 Ireland,Take normal security precautions,2025-09-29T15:00:29,https://travel.gc.ca/destinations/ireland
-Israel and Palestine,Avoid non-essential travel (with regional advisories),2025-10-30T11:55:11,https://travel.gc.ca/destinations/israel-and-palestine
+Israel and Palestine,Avoid non-essential travel (with regional advisories),2025-11-05T14:01:43,https://travel.gc.ca/destinations/israel-and-palestine
 Italy,Exercise a high degree of caution,2025-10-27T16:24:04,https://travel.gc.ca/destinations/italy
 Jamaica,Avoid all travel,2025-11-03T16:10:38,https://travel.gc.ca/destinations/jamaica
 Japan,Take normal security precautions,2025-10-31T09:40:49,https://travel.gc.ca/destinations/japan
 Jordan,Exercise a high degree of caution (with regional advisories),2025-10-01T16:02:16,https://travel.gc.ca/destinations/jordan
 Kazakhstan,Take normal security precautions,2025-10-01T14:55:38,https://travel.gc.ca/destinations/kazakhstan
 Kenya,Exercise a high degree of caution (with regional advisories),2025-10-30T11:25:35,https://travel.gc.ca/destinations/kenya
-Kiribati,Take normal security precautions,2025-10-27T16:29:51,https://travel.gc.ca/destinations/kiribati
+Kiribati,Take normal security precautions,2025-11-05T12:12:14,https://travel.gc.ca/destinations/kiribati
 Kosovo,Take normal security precautions (with regional advisories),2025-09-23T12:10:45,https://travel.gc.ca/destinations/kosovo
 Kuwait,Exercise a high degree of caution (with regional advisories),2025-10-01T14:58:34,https://travel.gc.ca/destinations/kuwait
 Kyrgyzstan,Exercise a high degree of caution (with regional advisories),2025-09-23T12:10:45,https://travel.gc.ca/destinations/kyrgyzstan
 Laos,Exercise a high degree of caution (with regional advisories),2025-11-04T16:58:09,https://travel.gc.ca/destinations/laos
-Latvia,Take normal security precautions,2025-10-15T21:31:01,https://travel.gc.ca/destinations/latvia
+Latvia,Take normal security precautions,2025-11-05T09:31:48,https://travel.gc.ca/destinations/latvia
 Lebanon,Avoid non-essential travel (with regional advisories),2025-10-20T15:45:46,https://travel.gc.ca/destinations/lebanon
 Lesotho,Exercise a high degree of caution,2025-09-23T12:10:45,https://travel.gc.ca/destinations/lesotho
 Liberia,Exercise a high degree of caution,2025-10-27T16:31:26,https://travel.gc.ca/destinations/liberia
@@ -122,15 +122,15 @@ Macao,Exercise a high degree of caution,2025-10-27T16:32:05,https://travel.gc.ca
 Madagascar,Avoid non-essential travel,2025-10-27T10:05:36,https://travel.gc.ca/destinations/madagascar
 Malawi,Exercise a high degree of caution,2025-10-27T10:05:36,https://travel.gc.ca/destinations/malawi
 Malaysia,Take normal security precautions (with regional advisories),2025-10-27T10:05:36,https://travel.gc.ca/destinations/malaysia
-Maldives,Exercise a high degree of caution,2025-10-27T10:05:36,https://travel.gc.ca/destinations/maldives
-Mali,Avoid all travel,2025-10-30T15:51:09,https://travel.gc.ca/destinations/mali
+Maldives,Exercise a high degree of caution,2025-11-05T16:19:43,https://travel.gc.ca/destinations/maldives
+Mali,Avoid all travel,2025-11-05T11:51:04,https://travel.gc.ca/destinations/mali
 Malta,Take normal security precautions,2025-10-15T21:32:29,https://travel.gc.ca/destinations/malta
 Marshall Islands,Take normal security precautions,2025-10-27T10:05:36,https://travel.gc.ca/destinations/marshall-islands
 Martinique,Take normal security precautions,2025-10-28T13:23:31,https://travel.gc.ca/destinations/martinique
-Mauritania,Avoid non-essential travel (with regional advisories),2025-11-04T12:10:14,https://travel.gc.ca/destinations/mauritania
+Mauritania,Avoid non-essential travel (with regional advisories),2025-11-05T09:54:20,https://travel.gc.ca/destinations/mauritania
 Mauritius,Take normal security precautions,2025-10-27T10:05:36,https://travel.gc.ca/destinations/mauritius
 Mayotte,Exercise a high degree of caution,2025-10-27T10:05:36,https://travel.gc.ca/destinations/mayotte
-Mexico,Exercise a high degree of caution (with regional advisories),2025-10-28T13:32:51,https://travel.gc.ca/destinations/mexico
+Mexico,Exercise a high degree of caution (with regional advisories),2025-11-05T11:54:52,https://travel.gc.ca/destinations/mexico
 Micronesia (FSM),Take normal security precautions,2025-10-27T10:05:36,https://travel.gc.ca/destinations/micronesia-fsm
 Moldova,Exercise a high degree of caution (with regional advisories),2025-09-23T12:10:45,https://travel.gc.ca/destinations/moldova
 Monaco,Take normal security precautions,2025-11-04T10:45:58,https://travel.gc.ca/destinations/monaco
@@ -141,14 +141,14 @@ Morocco,Exercise a high degree of caution (with regional advisories),2025-10-31T
 Mozambique,Exercise a high degree of caution (with regional advisories),2025-10-27T16:35:03,https://travel.gc.ca/destinations/mozambique
 Myanmar,Avoid all travel,2025-10-27T16:34:17,https://travel.gc.ca/destinations/myanmar
 Namibia,Exercise a high degree of caution,2025-09-23T12:10:45,https://travel.gc.ca/destinations/namibia
-Nauru,Take normal security precautions,2025-10-27T16:33:29,https://travel.gc.ca/destinations/nauru
+Nauru,Take normal security precautions,2025-11-05T11:57:44,https://travel.gc.ca/destinations/nauru
 Nepal,Avoid non-essential travel,2025-10-27T16:37:15,https://travel.gc.ca/destinations/nepal
 Netherlands,Exercise a high degree of caution,2025-10-17T14:09:39,https://travel.gc.ca/destinations/netherlands
 New Caledonia,Exercise a high degree of caution,2025-10-21T15:45:18,https://travel.gc.ca/destinations/new-caledonia
 New Zealand,Take normal security precautions,2025-11-03T16:22:30,https://travel.gc.ca/destinations/new-zealand
 Nicaragua,Exercise a high degree of caution,2025-10-28T13:32:51,https://travel.gc.ca/destinations/nicaragua
 Niger,Avoid all travel,2025-10-30T15:47:54,https://travel.gc.ca/destinations/niger
-Nigeria,Avoid non-essential travel (with regional advisories),2025-11-04T14:48:33,https://travel.gc.ca/destinations/nigeria
+Nigeria,Avoid non-essential travel (with regional advisories),2025-11-05T12:22:15,https://travel.gc.ca/destinations/nigeria
 Niue,Take normal security precautions,2025-09-23T12:10:45,https://travel.gc.ca/destinations/niue
 North Korea,Avoid all travel,2025-10-02T07:49:35,https://travel.gc.ca/destinations/north-korea
 North Macedonia,Take normal security precautions,2025-10-02T07:49:07,https://travel.gc.ca/destinations/north-macedonia
@@ -157,14 +157,14 @@ Norway,Take normal security precautions,2025-10-15T15:47:02,https://travel.gc.ca
 Oman,Exercise a high degree of caution (with regional advisories),2025-10-14T16:12:27,https://travel.gc.ca/destinations/oman
 Pakistan,Exercise a high degree of caution (with regional advisories),2025-10-27T16:30:31,https://travel.gc.ca/destinations/pakistan
 Palau,Take normal security precautions,2025-10-10T10:59:54,https://travel.gc.ca/destinations/palau
-Panama,Take normal security precautions (with regional advisories),2025-10-28T13:32:51,https://travel.gc.ca/destinations/panama
+Panama,Take normal security precautions (with regional advisories),2025-11-05T11:59:06,https://travel.gc.ca/destinations/panama
 Papua New Guinea,Avoid non-essential travel,2025-10-27T16:28:54,https://travel.gc.ca/destinations/papua-new-guinea
 Paraguay,Exercise a high degree of caution,2025-10-27T16:06:19,https://travel.gc.ca/destinations/paraguay
 Peru,Exercise a high degree of caution (with regional advisories),2025-10-27T16:07:46,https://travel.gc.ca/destinations/peru
-Philippines,Exercise a high degree of caution (with regional advisories),2025-11-02T10:52:48,https://travel.gc.ca/destinations/philippines
+Philippines,Exercise a high degree of caution (with regional advisories),2025-11-05T14:09:21,https://travel.gc.ca/destinations/philippines
 Poland,Take normal security precautions,2025-10-15T21:41:40,https://travel.gc.ca/destinations/poland
 Portugal,Take normal security precautions,2025-10-24T09:39:06,https://travel.gc.ca/destinations/portugal
-Puerto Rico,Take normal security precautions,2025-10-28T13:23:31,https://travel.gc.ca/destinations/puerto-rico
+Puerto Rico,Take normal security precautions,2025-11-05T12:02:35,https://travel.gc.ca/destinations/puerto-rico
 Qatar,Exercise a high degree of caution,2025-10-02T07:38:14,https://travel.gc.ca/destinations/qatar
 Republic of Congo (Brazzaville),Exercise a high degree of caution (with regional advisories),2025-10-27T16:27:49,https://travel.gc.ca/destinations/congo-brazzaville
 Romania,Take normal security precautions,2025-10-31T09:11:09,https://travel.gc.ca/destinations/romania
@@ -177,11 +177,11 @@ Saint Martin,Take normal security precautions,2025-10-28T13:23:31,https://travel
 Saint Vincent & the Grenadines,Take normal security precautions,2025-10-28T13:23:31,https://travel.gc.ca/destinations/saint-vincent-the-grenadines
 Saint-Barthélemy,Take normal security precautions,2025-10-28T13:23:31,https://travel.gc.ca/destinations/saint-barthelemy
 Saint-Pierre-et-Miquelon,Take normal security precautions,2025-10-17T14:11:23,https://travel.gc.ca/destinations/saint-pierre-et-miquelon
-Samoa,Take normal security precautions,2025-10-27T10:15:43,https://travel.gc.ca/destinations/samoa
+Samoa,Take normal security precautions,2025-11-05T12:03:49,https://travel.gc.ca/destinations/samoa
 San Marino,Take normal security precautions,2025-09-23T12:10:45,https://travel.gc.ca/destinations/san-marino
 Sao Tome and Principe,Take normal security precautions,2025-09-23T12:10:45,https://travel.gc.ca/destinations/sao-tome-and-principe
 Saudi Arabia,Exercise a high degree of caution (with regional advisories),2025-10-27T10:05:36,https://travel.gc.ca/destinations/saudi-arabia
-Senegal,Exercise a high degree of caution,2025-10-27T10:15:43,https://travel.gc.ca/destinations/senegal
+Senegal,Exercise a high degree of caution,2025-11-05T12:05:02,https://travel.gc.ca/destinations/senegal
 Serbia,Take normal security precautions (with regional advisories),2025-10-28T14:06:27,https://travel.gc.ca/destinations/serbia
 Seychelles,Take normal security precautions,2025-10-27T10:05:36,https://travel.gc.ca/destinations/seychelles
 Sierra Leone,Exercise a high degree of caution,2025-10-27T10:05:36,https://travel.gc.ca/destinations/sierra-leone
@@ -193,17 +193,17 @@ Solomon Islands,Take normal security precautions,2025-09-29T11:22:18,https://tra
 Somalia,Avoid all travel,2025-10-27T10:05:36,https://travel.gc.ca/destinations/somalia
 South Africa,Exercise a high degree of caution,2025-10-27T10:05:36,https://travel.gc.ca/destinations/south-africa
 South Korea,Take normal security precautions,2025-10-07T13:22:11,https://travel.gc.ca/destinations/south-korea
-South Sudan,Avoid all travel,2025-10-27T10:05:36,https://travel.gc.ca/destinations/south-sudan
+South Sudan,Avoid all travel,2025-11-05T09:55:12,https://travel.gc.ca/destinations/south-sudan
 Spain,Exercise a high degree of caution,2025-10-17T14:08:34,https://travel.gc.ca/destinations/spain
 Sri Lanka,Exercise a high degree of caution,2025-10-27T10:15:44,https://travel.gc.ca/destinations/sri-lanka
-Sudan,Avoid all travel,2025-10-27T10:15:43,https://travel.gc.ca/destinations/sudan
+Sudan,Avoid all travel,2025-11-05T12:06:34,https://travel.gc.ca/destinations/sudan
 Suriname,Take normal security precautions,2025-10-27T10:05:36,https://travel.gc.ca/destinations/suriname
 Sweden,Exercise a high degree of caution,2025-10-15T21:49:07,https://travel.gc.ca/destinations/sweden
 Switzerland,Take normal security precautions,2025-10-21T15:01:05,https://travel.gc.ca/destinations/switzerland
 Syria,Avoid all travel,2025-09-23T12:10:45,https://travel.gc.ca/destinations/syria
 Taiwan,Take normal security precautions,2025-10-27T10:05:36,https://travel.gc.ca/destinations/taiwan
 Tajikistan,Exercise a high degree of caution (with regional advisories),2025-09-23T12:10:45,https://travel.gc.ca/destinations/tajikistan
-Tanzania,Avoid non-essential travel (with regional advisories),2025-10-31T14:49:16,https://travel.gc.ca/destinations/tanzania
+Tanzania,Avoid non-essential travel (with regional advisories),2025-11-05T12:17:06,https://travel.gc.ca/destinations/tanzania
 Thailand,Exercise a high degree of caution (with regional advisories),2025-10-27T10:05:36,https://travel.gc.ca/destinations/thailand
 Timor-Leste (East Timor),Exercise a high degree of caution,2025-10-27T10:05:36,https://travel.gc.ca/destinations/timor-leste-east-timor
 Togo,Exercise a high degree of caution (with regional advisories),2025-10-27T10:15:44,https://travel.gc.ca/destinations/togo
@@ -213,7 +213,7 @@ Trinidad and Tobago,Exercise a high degree of caution (with regional advisories)
 Tunisia,Exercise a high degree of caution (with regional advisories),2025-09-29T10:24:59,https://travel.gc.ca/destinations/tunisia
 Turkmenistan,Exercise a high degree of caution (with regional advisories),2025-09-23T12:10:45,https://travel.gc.ca/destinations/turkmenistan
 Turks and Caicos Islands,Exercise a high degree of caution,2025-10-30T12:49:54,https://travel.gc.ca/destinations/turks-and-caicos-islands
-Tuvalu,Take normal security precautions,2025-10-27T10:15:43,https://travel.gc.ca/destinations/tuvalu
+Tuvalu,Take normal security precautions,2025-11-05T12:07:44,https://travel.gc.ca/destinations/tuvalu
 Türkiye,Exercise a high degree of caution (with regional advisories),2025-11-04T12:08:41,https://travel.gc.ca/destinations/turkiye
 Uganda,Exercise a high degree of caution (with regional advisories),2025-10-27T10:05:36,https://travel.gc.ca/destinations/uganda
 Ukraine,Avoid all travel,2025-09-23T12:10:45,https://travel.gc.ca/destinations/ukraine
@@ -224,7 +224,7 @@ Uruguay,Take normal security precautions (with regional advisories),2025-10-27T1
 Uzbekistan,Take normal security precautions (with regional advisories),2025-09-23T12:10:45,https://travel.gc.ca/destinations/uzbekistan
 Vanuatu,Take normal security precautions,2025-09-23T12:10:45,https://travel.gc.ca/destinations/vanuatu
 Venezuela,Avoid all travel,2025-10-27T10:05:36,https://travel.gc.ca/destinations/venezuela
-Vietnam,Exercise a high degree of caution,2025-11-04T16:52:14,https://travel.gc.ca/destinations/vietnam
+Vietnam,Exercise a high degree of caution,2025-11-05T12:09:07,https://travel.gc.ca/destinations/vietnam
 Virgin Islands (U.S.),Take normal security precautions,2025-10-28T13:23:31,https://travel.gc.ca/destinations/virgin-islands-u-s
 Yemen,Avoid all travel,2025-10-27T10:05:36,https://travel.gc.ca/destinations/yemen
 Zambia,Take normal security precautions (with regional advisories),2025-10-27T10:05:36,https://travel.gc.ca/destinations/zambia
