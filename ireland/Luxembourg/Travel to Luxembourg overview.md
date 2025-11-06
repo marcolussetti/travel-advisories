@@ -14,7 +14,7 @@ Irish citizens do not require a visa to enter Luxembourg. EU citizens wishing to
 
 Visitors to Luxembourg are advised to follow the guidance of national and local authorities and stay fully informed of what's going on by monitoring local news and social media.
 
-Citizens can also follow the Embassy on social media (X:  [**@IrlinLuxembourg**](https://twitter.com/irlinluxembourg?lang=en) and [**Facebook**](https://www.facebook.com/EmbassyOfIrelandLuxembourg/): Embassy of Ireland in Luxembourg) to ensure access to relevant updates and alerts.
+Citizens can also follow the Embassy on social media (X: [**@IrlinLuxembourg**](https://twitter.com/irlinluxembourg?lang=en) and [**Facebook**](https://www.facebook.com/EmbassyOfIrelandLuxembourg/): Embassy of Ireland in Luxembourg) to ensure access to relevant updates and alerts.
 
 ### **Emergency Assistance**
 

@@ -6,17 +6,27 @@ Avoid Non-Essential Travel
 
 ### Travel Alert
 
-General elections took place in Tanzania on 29 October 2025. There are reports of country-wide demonstrations resulting in outbreaks of violence, roadblocks and road closures. The Tanzanian police force announced a curfew effective from 6pm local time on 29 October.
+General elections took place in Tanzania on 29 October 2025. There have been several days of country-wide unrest and outbreaks of violence. During this time, there was an internet blackout, which severely disrupted communications.
 
-Travel to and from some international airports may be affected due to road closures. Expect significant disruptions at airports. Some international flights have been cancelled to and from Julius Nyerere International Airport, Dar es Salaam.
+The situation in Tanzania is currently calm and the internet has been restored. There remains a heightened presence of security forces, including military and police checkpoints, in some areas of the country.
 
-Arusha International Airport and Kilimanjaro International Airport are closed. You should contact your airline or travel provider for further information before travelling to airports.
+Irish citizens are advised to:
 
-There is a widespread internet blackout, making all communication difficult.
+- Stay alert to your surroundings
 
-Irish citizens are advised to shelter in place, adhere to the curfew, monitor local media, follow the advice of the local authorities, and stay away from all demonstrations, rallies, and large crowds.
+- Carry ID at all times
+
+- Plan travel routes in advance
+
+- Avoid all protests, demonstrations, rallies or crowds
+
+- Monitor local media for updates on the situation within the country
+
+- Follow the advice of the local authorities
 
 If you are an Irish citizen in need of consular assistance, you can call the Embassy Duty Officer 24/7 on +255 754 783 455
+
+If you wish to contact us on behalf of a relative who is in Tanzania, please reach out to the Department of Foreign Affairs by phone **00353 1 4082000** or on the following webpage: [Contact Us - Department of Foreign Affairs](https://www.dfa.ie/contact-us/)
 
 ### **General Travel Advice**
 

@@ -17,7 +17,7 @@ If a victim of a crime while in Luxembourg, report it to the local police immedi
 
 ### **Driving**
 
-If planning to drive in Luxembourg, take the same precautions as in Ireland but remember cars drive on the right hand side of the road. If driving, bring your international driving license and ensure you have adequate and appropriate insurance.
+If planning to drive in Luxembourg, take the same precautions as in Ireland but remember cars drive on the right hand side of the road. If driving, bring your driving license and ensure you have adequate and appropriate insurance.
 
 ### **Hiring a Vehicle**
 
