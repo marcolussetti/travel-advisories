@@ -4,9 +4,11 @@
 
 ### Typhoon Kalmaegi
 
-Typhoon Kalmaegi is expected to make landfall between Da Nang and Quang Ngai provinces on November 6, 2025.
+Typhoon Kalmaegi made landfall in Dak Lak and Gia Lai provinces on November 6, 2025. It caused significant damage.
 
-The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
+Typhoon Kalmaegi is weakening as it is moving inland northwestward, but it will continue to bring heavy rainfall and violent winds.
+
+It may cause flash flooding and landslides. High tides and waves are expected to impact coastal areas and along the Saigon River, including Ho Chi Minh City. The following essential services may be severely disrupted:
 
 * transportation
 * power distribution

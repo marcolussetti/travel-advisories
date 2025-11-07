@@ -31,7 +31,7 @@ Petty crime, such as pickpocketing and purse snatching occurs. Violent crime is 
 
 Demonstrations and protests take place. Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation.
 
-Protests can arise with little or no warning. The risk of protests may increase around the anniversaries of significant events.
+Demonstrations can arise with little or no warning. The risk of protests may increase around the anniversaries of significant events.
 
 Areas prone to demonstrations include:
 

@@ -104,7 +104,7 @@
     {
         "destination": "Bahrain",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-11-05T13:25:57",
+        "last_updated": "2025-11-06T09:54:18",
         "details_url": "https://travel.gc.ca/destinations/bahrain"
     },
     {
@@ -428,7 +428,7 @@
     {
         "destination": "France",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-11-04T10:44:45",
+        "last_updated": "2025-11-06T10:37:25",
         "details_url": "https://travel.gc.ca/destinations/france"
     },
     {
@@ -500,7 +500,7 @@
     {
         "destination": "Guadeloupe",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2025-11-05T12:07:28",
+        "last_updated": "2025-11-06T10:41:54",
         "details_url": "https://travel.gc.ca/destinations/guadeloupe"
     },
     {
@@ -607,14 +607,14 @@
     },
     {
         "destination": "Jamaica",
-        "risk_level": "Avoid all travel",
-        "last_updated": "2025-11-03T16:10:38",
+        "risk_level": "Avoid all travel (with regional advisories)",
+        "last_updated": "2025-11-06T10:34:51",
         "details_url": "https://travel.gc.ca/destinations/jamaica"
     },
     {
         "destination": "Japan",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2025-10-31T09:40:49",
+        "last_updated": "2025-11-06T08:53:29",
         "details_url": "https://travel.gc.ca/destinations/japan"
     },
     {
@@ -974,7 +974,7 @@
     {
         "destination": "Philippines",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-11-05T14:09:21",
+        "last_updated": "2025-11-06T13:40:09",
         "details_url": "https://travel.gc.ca/destinations/philippines"
     },
     {
@@ -1010,7 +1010,7 @@
     {
         "destination": "Romania",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2025-10-31T09:11:09",
+        "last_updated": "2025-11-06T15:08:49",
         "details_url": "https://travel.gc.ca/destinations/romania"
     },
     {
@@ -1064,7 +1064,7 @@
     {
         "destination": "Saint-Pierre-et-Miquelon",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2025-10-17T14:11:23",
+        "last_updated": "2025-11-06T10:43:58",
         "details_url": "https://travel.gc.ca/destinations/saint-pierre-et-miquelon"
     },
     {
@@ -1352,7 +1352,7 @@
     {
         "destination": "Vietnam",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-11-05T12:09:07",
+        "last_updated": "2025-11-06T16:36:06",
         "details_url": "https://travel.gc.ca/destinations/vietnam"
     },
     {
