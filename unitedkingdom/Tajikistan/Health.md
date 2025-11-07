@@ -24,6 +24,12 @@ See [what health risks you’ll face in Tajikistan](https://travelhealthpro.org.
 
 Altitude sickness is a risk in parts of Tajikistan. Read more about [altitude sickness on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/26/altitude-illness).
 
+### Air quality
+
+Tajikistan, particularly Dushanbe and Khatlon region, often suffers from poor air quality, particularly during dust storms. Try to minimise your exposure to outside air by staying in an air-conditioned indoor place as much as possible, with windows and doors closed and well sealed.
+
+Wash all fruit, vegetables and other foods, which might have been exposed. Regularly damp-dust all indoor surfaces, washing your hands afterwards. Monitor local reports and weather forecasts for the latest information and advice.
+
 ## Medication
 
 The legal status and regulation of some medicines prescribed or bought in the UK can be different in other countries.
@@ -38,9 +44,7 @@ You may need to pay cash for medication
 
 ## Healthcare in Tajikistan
 
-Tajikistan has poor medical facilities and a shortage of basic medical supplies. Medical facilities outside Dushanbe are quite basic and in some locations almost non-existent.
-
-Tajikistan has limited mountain rescue capability. This will be further limited in cases where individuals need rescue in high altitude or where weather conditions do not allow. Weather conditions can change rapidly at short notice, particularly in mountainous and high altitude locations.
+The quality of medical care in Tajikistan is generally poor. Most medical facilities are badly equipped and unhygienic, with a limited supply of drugs. Medical facilities outside Dushanbe are quite basic and, in some locations, almost non-existent. There is no guarantee that equipment will have been properly sterilised, especially in rural hospitals. There is no reciprocal healthcare agreement between the UK and Tajikistan
 
 FCDO has a [list of medical providers in Tajikistan](https://www.gov.uk/government/publications/tajikistan-list-of-medical-facilities) where some staff will speak English.
 

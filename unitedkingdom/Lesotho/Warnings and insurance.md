@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   7 November 2025
 
 Updated:
-:   20 December 2023
+:   6 November 2025
 
 Latest update:
-:   This travel advice has been rewritten to make it easier to read and understand.
+:   Removal of information on flight suspensions (‘Warnings and insurance’ page).
 
 ## Before you travel
 

@@ -1,11 +1,11 @@
 {
     "name": "Lesotho",
-    "update_reason": "This travel advice has been rewritten to make it easier to read and understand.",
+    "update_reason": "Removal of information on flight suspensions (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Lesotho/Warnings and insurance.md",
-            "update_date": "2023-12-20T14:24:30+00:00"
+            "update_date": "2025-11-06T17:00:03+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Lesotho/Getting help.md"
         }
     ],
-    "update_date": "2023-12-20T14:24:30+00:00"
+    "update_date": "2025-11-06T17:00:03+00:00"
 }

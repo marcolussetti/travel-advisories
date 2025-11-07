@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   30 October 2025
+:   7 November 2025
 
 Updated:
-:   29 October 2025
+:   6 November 2025
 
 Latest update:
-:   Updated information about a transit control card ('Entry requirements' page).
+:   Updated information that a state of emergency has been extended ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/65a1082ce96df50014f8452c/FCDO__TA__014_-_Ecuador_Travel_Advice_Ed5__WEB_.jpg)
 
@@ -45,13 +45,15 @@ Find out more about [why FCDO advises against travel](/foreign-travel-advice/ecu
 
 ## Regional state of emergency declared (internal disturbance and armed violence)
 
-A 60-day state of emergency (SOE) was renewed on 5 October due to internal disturbance and armed violence. Follow the instructions of police and local authorities. The SOE currently applies to the following provinces:
+A 60-day state of emergency (SOE) was renewed on 4 November due to internal disturbance and armed violence. Follow the instructions of police and local authorities. The SOE currently applies to the following provinces:
 
 * Guayas
 * El Oro
 * Manabí
 * Los Ríos
-* Bolívar (cantón Echeandía)
+* Santa Elena
+* Bolívar (cantones Echeandía and Las Naves)
+* Cotopaxi (cantón La Maná)
 
 ## Before you travel
 

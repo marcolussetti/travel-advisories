@@ -8,7 +8,7 @@ You should also read [FCDO’s overall travel advice](/foreign-travel-advice/taj
 
 Tajikistan’s borders with neighbouring countries can close without notice and some borders may not be open to foreign travellers.
 
-Check with the Tajikistan authorities  before you travel to see which crossings are open.
+Check with the Tajikistan authorities before you travel to see which crossings are open.
 
 ### Tajikistan-Kyrgyzstan border
 

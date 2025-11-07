@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   18 June 2025
+:   7 November 2025
 
 Updated:
-:   17 June 2025
+:   6 November 2025
 
 Latest update:
-:   New information on applying for a visa ('Entry requirements’ page).
+:   This travel advice has been reviewed for accuracy with edits made throughout, including updated information about visas, money, posting on social media, transport risks, air quality and healthcare in Tajikistan (‘Entry requirements’, ‘Safety and security’ and ‘Health’ pages).
 
 ## Before you travel
 

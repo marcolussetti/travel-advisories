@@ -1,17 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   31 October 2025
+:   7 November 2025
 
 Updated:
-:   30 October 2025
+:   6 November 2025
 
 Latest update:
-:   Updated information about Hurricane Melissa (‘Warnings and insurance’ page).
+:   Updated information about Hurricane Melissa ('Warnings and insurance' page).
 
 ## Hurricane Melissa
 
-Hurricane Melissa has now passed through eastern Cuba. The full impact of the hurricane is not yet clear, but damage is expected to be significant. The storm brought exceptional levels of wind and rainfall, resulting in flash floods, landslides and storm surges. Infrastructure and services are likely to be severely impacted for some time. The national power grid in Cuba is already under severe pressure and the impact of hurricane Melissa could lead to further significant power outages.
+Hurricane Melissa brought exceptional levels of wind and rainfall, resulting in flash floods, landslides and storm surges. Infrastructure and services are severely impacted. The national power grid in Cuba is already under pressure and the impact of hurricane Melissa could lead to further significant power outages.
 
 Stay informed by monitoring local and international weather updates, including from the [Cuban Civil Defence Authorities](https://x.com/cubacivil?s=21), the [INSMET weather forecast centre](http://www.insmet.cu/asp/genesis.asp?TB0=PLANTILLAS&TB1=AVISO2&TB2=0), and the [US National Hurricane Centre](https://www.nhc.noaa.gov/). Follow the guidance of local authorities. See ‘Extreme weather and natural disasters’ on the [‘Safety and security’ page](https://www.gov.uk/foreign-travel-advice/cuba/safety-and-security).
 
@@ -19,7 +19,7 @@ Stay informed by monitoring local and international weather updates, including f
 
 There are currently a number of reported instances of Dengue, Oropouche and Chikungunya in Cuba. Take precautions to avoid or prevent mosquito and other insect bites.
 
-## Power outage
+## Power outages
 
 Lengthy power outages are a daily occurrence across Cuba. Take precautions such as conserving fuel, water, food and mobile phone charge, particularly if travelling outside Havana. Transport may be affected due to fuel shortages and the inability to refuel during power outages. Ensure you have enough fuel before setting off on your journey.
 

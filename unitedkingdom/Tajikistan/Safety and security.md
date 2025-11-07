@@ -22,27 +22,28 @@ Terrorist attacks could be indiscriminate, including in places frequented by for
 
 Examples of previous significant attacks include:
 
-* in March 2024, a plot to attack Central Asian New Year (Nowruz) celebrations in Vahdat using poison was disrupted by Tajik authorities
+* in March 2024, a plot to attack New Year (Nowruz) celebrations in Vahdat using poison was disrupted by Tajik authorities
 * in 2023, three suspected terrorists were reportedly killed by Tajik border forces while planning an attack ahead of Tajik national day celebrations. There are infrequent incursions by armed criminal and terrorist groups across the Afghanistan border into Tajikistan, mainly at night
-* in 2019, it was reported that 17 people were killed in an armed attack on a Tajik security checkpoint on the Tajikistan-Uzbekistan border. Islamic State Khorasan Province (ISKP) claimed responsibility
+
+Stay aware of your surroundings, keep up to date with local media reports and follow the advice of local authorities.
 
 ## Political situation
 
-Avoid any demonstrations or large gatherings of people and remain vigilant in public places. Be alert to any security announcements by the Tajik authorities.
+Avoid demonstrations or large gatherings of people, which are likely to attract a heavy presence from security forces. Use caution and maintain a high level of security awareness, particularly in public places. Be alert to any security announcements by the Tajik authorities.
 
 ## Crime
 
-### Robbery and violent crime
+There have been occasional muggings and petty crime against foreigners in Dushanbe. Pickpocketing is common in crowded places such as markets and on public transport. Criminals may target foreigners as they are assumed to be carrying valuable items. Keep valuables in a safe place and out of public view.
 
-There have been occasional muggings and petty crime against foreigners in Dushanbe. Take the same precautions you would in the UK. You should consider avoiding walking alone at night.
+Use caution and take measures to reduce your personal risk, such as:
 
-Do not use unofficial taxis or a taxi already occupied by a passenger, particularly at night.  Consider using private cars or pre-arranged taxis.
-
-Do not show large amounts of money and be wary of strangers offering help or being over-friendly.
-
-### Protecting yourself and your belongings
-
-Pickpocketing is common in crowded places such as markets and on public transport. Criminals may target foreigners as they are assumed to be carrying valuable items. Keep valuables in a safe place and out of public view.
+* keep sight of your belongings at all times
+* be aware of thieves using distraction techniques
+* avoid carrying all your valuables together in one place e.g. handbags or pockets
+* consider avoiding walking alone at night
+* exercise a similar level of caution as you would in the UK
+* do not use unofficial taxis or a taxi already occupied by a passenger, particularly at night. Consider using private cars or pre-arranged taxis
+* do not show large amounts of money and be wary of strangers offering help or being over-friendly
 
 ### Bank card fraud
 
@@ -69,15 +70,15 @@ Tajikistan has a secular constitution. Most Tajik citizens are Muslims and may b
 
 ### Ramadan
 
-Ramadan is a holy month for Muslims. The dates vary by year and country. Cafés and restaurants may amend their menus and be busy around fast-breaking (‘Iftar’). Areas around mosques are also likely to be busy around prayer times. Take particular care not to offend religious sensitivities at this time.
+Ramadan is a holy month for Muslims. The dates vary by year and country. Cafés and restaurants may amend their menus and be busy around fast-breaking (‘Iftar’). Areas around mosques are also likely to be busy around prayer times. Be particularly aware of religious sensitivities at this time.
 
 ### Personal ID
 
-You must always carry your passport, or a notarised copy of it. The police can arrest you if you do not carry ID. You can get a copy of your passport notarised in the UK and translated into Kyrgyz or Russian, or use a copy notarised in Kyrgyzstan.
+You must carry your passport, or a notarised copy of it, with you at all times. The police can arrest you if you do not carry ID. You can get a copy of your passport notarised in the UK and translated into Tajik or Russian, or use a copy notarised in Tajikistan.
 
 ### Alcohol laws and bans
 
-If you appear to be drunk, the police can take you to a police station and issue you with a fine or detain you in a police cell overnight.
+The legal age for purchasing alcohol is 18. If you appear to be drunk, the police can take you to a police station and issue you with a fine or detain you in a police cell overnight.
 
 ### Smoking ban
 
@@ -85,9 +86,9 @@ It is illegal to smoke on the street in Tajikistan, and punishable by a fine.
 
 ### Illegal drugs and prison sentences
 
-It is illegal to possess or use drugs. You could get a lengthy prison sentence if convicted. Prison conditions are basic.
+Possession of drugs is illegal. You can get a lengthy prison sentence if convicted. Prison conditions are basic.
 
-The police are likely to conduct drug raids in bars and night clubs. Stay calm and follow instructions.
+The police may conduct drug raids in bars and night clubs. Stay calm and follow instructions.
 
 ### Woman travelling alone
 
@@ -95,7 +96,7 @@ Women travelling alone in Tajikistan may receive unwanted attention, harassment 
 
 ### Using cameras in secure areas
 
-It is illegal to take photos of or use drones near anything related to the military or security, including border checkpoints, military sites and police stations. Check carefully that you are not near any military or security facilities.
+It is illegal to take photos of or use drones near anything related to the military or security, including border checkpoints, military sites and police stations. Check carefully that you are not near any military or security facilities. The Tajik authorities may ask you not to photograph government buildings.
 
 ### Drones
 
@@ -103,17 +104,21 @@ The possession or use of drones or UAVs is prohibited unless you have permission
 
 ### LGBT+ travellers
 
-Although same-sex sexual activity is not illegal under Tajik law, local attitudes are generally conservative and levels of tolerance and acceptance in society vary, particularly outside the main cities. Take care about showing affection in public. Read more [advice for LGBT+ travellers](https://www.gov.uk/lesbian-gay-bisexual-and-transgender-foreign-travel-advice).
+Although same-sex sexual activity is not illegal under Tajik law, local attitudes are generally conservative and levels of tolerance and acceptance in society vary, particularly outside the main cities. Showing affection in public may receive unwanted and negative attention.
+
+Read more [advice for LGBT+ travellers](https://www.gov.uk/lesbian-gay-bisexual-and-transgender-foreign-travel-advice).
 
 ### Money
 
 Tajikistan is mainly a cash-only economy. Very few businesses accept credit cards and travellers’ cheques are not accepted. There is an increasing number of ATMs in Dushanbe and other larger towns, but none in rural areas. Most ATMs only accept Visa cards.
 
-Only change money at officially authorised currency exchanges. US dollars are the most widely accepted foreign currency at currency exchange offices. Euros or Russian roubles are also easy to exchange. It may be difficult to exchange other currencies.
+Bring enough cash for your entire stay or withdraw cash from an ATM in Dushanbe ahead of any planned travel to other regions. Only change money at officially authorised currency exchanges.
+
+Tajik somoni is only available in Tajikistan. US dollars are the most easily exchanged and widely accepted foreign currency. Euros or Russian roubles are also easy to exchange. It may be difficult to exchange other currencies. Official exchange booths may not accept damaged or marked bank notes, nor will they accept US dollars issued before 2013.
 
 ### Posting on social media
 
-It’s illegal to post images or comments on social media that show disrespect towards religion, culture or national symbols. If you share or publish images that the authorities consider to be insulting, you could get a fine or a prison sentence.
+Be careful when posting images of your visit on social media. It is illegal to post images or comments on social media that show disrespect towards religion, culture or national symbols. If you share or publish images that the authorities consider to be insulting, you could get a fine or a prison sentence. Disrespectful content, including criticism of the government, could result in fines or detention.
 
 ## Outdoor activities and adventure tourism
 
@@ -133,7 +138,9 @@ You should:
 
 In remote areas, mobile phone coverage is extremely limited, and medical facilities are basic. Most Tajik mobile phones have difficulties connecting to satellite phones. The difficult terrain can make access impossible in some cases.
 
-There is a limited mountain rescue service staffed by volunteers and rescue equipment they have is limited. The Ministry of Internal Affairs has a Tourist Police Section and the  department can take calls 24/7 Tel (+99237) 231 80 36, Mobile phone (+992) 770 55 55 55.
+There is a limited mountain rescue service staffed by volunteers and rescue equipment they have is limited. This will be further limited in cases where individuals need rescuing at high altitudes or where weather conditions do not allow.
+
+Weather conditions can change rapidly at short notice, particularly in mountainous and high-altitude locations. The Ministry of Internal Affairs has a Tourist Police Section and the  department can take calls 24/7 Tel (+99237) 231 80 36, Mobile phone (+992) 770 55 55 55.
 
 ## Transport risks
 
@@ -141,17 +148,47 @@ There is a limited mountain rescue service staffed by volunteers and rescue equi
 
 If you are planning to drive in Tajikistan, see information on [driving abroad](https://www.gov.uk/driving-abroad).
 
-You’ll need to have both the [1968 version of the international driving permit (IDP)](https://www.gov.uk/driving-abroad/international-driving-permit) and your UK driving licence with you in the car. You cannot buy an IDP outside the UK, so get one before you travel.
+### Driving licence and permit requirements
+
+You are permitted to drive in Tajikistan with a valid UK driving licence for up to 30 days. In addition, you must carry the 1968 version of the International Driving Permit (IDP) alongside your UK licence:
+
+* the IDP must be obtained before traveling, as it cannot be purchased outside the UK
+* while not legally required, it is strongly recommended to have your driving licence and IDP translated into Russian or Tajik to facilitate smoother interactions with local traffic authorities
+
+### Driving your own vehicle
+
+You can bring your personal vehicle into Tajikistan without paying import duties or taxes for a period of up to 60 days. After this period, you will need to pay a fee. You must declare your vehicle at the point of entry, carry both your vehicle registration documents and valid insurance that covers driving in Tajikistan.
+
+### Car rental considerations
+
+If you plan to rent a vehicle in Tajikistan, be aware that rental companies may impose stricter requirements, such as:
+
+* a minimum age for drivers
+* at least one year of driving experience
+* mandatory possession of an IDP
+
+### Road rules and safety
+
+Tajikistan enforces the following road laws:
+
+* drive on the right-hand side of the road
+* seatbelts must be worn by both drivers and all passengers
+* mobile phone use while driving is prohibited
+* there is a zero-tolerance policy for alcohol consumption while driving
 
 ### Driving conditions
 
-Vehicles in Tajikistan are often poorly maintained and driving standards are basic. Petrol stations are rare outside towns and there are no breakdown companies. Make sure you take all you need for your journey and allow for delays. Consider bringing a satellite phone for travel outside towns to use in an emergency. Neighbouring countries may close borders temporarily.
+Road infrastructure in Tajikistan can be challenging. Surfaces may be uneven or poorly maintained, especially in rural and mountainous areas, where areas may only be accessible by 4-wheel drive vehicles. Street lighting is often poor. Driving standards may vary significantly and can be unpredictable. Vehicles in Tajikistan are often poorly maintained. Petrol stations are rare outside towns and there are no breakdown companies. Make sure you take all you need for your journey and allow for delays. Consider bringing a satellite phone for travel outside towns to use in an emergency. Neighbouring countries may close borders temporarily.
 
-Roads outside the main towns are poorly maintained and often only accessible by 4-wheel-drive vehicles. Conditions are particularly dangerous in spring due to the risk of avalanches and landslides.
+Conditions are particularly dangerous in spring due to the risk of avalanches and landslides.
 
 Many interior roads are only open in the summer months. It is possible to drive from Dushanbe to the north and Tajikistan’s second city, Khujand, using a tunnel. This road is particularly dangerous in winter due to icy conditions. Drivers can be trapped for a long time if caught in an avalanche due to the remote location.
 
 Flooding in the spring and winter often damages and closes roads in areas of the Gorno-Badakhshan Autonomous Region and other parts of the country. Many roads, including the Pamir Highway, are open but not fully repaired.
+
+### Taxis and buses
+
+Use licensed taxis whenever possible. Unlicensed taxis can occasionally be found, despite licensing laws. Many taxis do not have rear seatbelts, so you may want to request a taxi that has them.
 
 ### Air travel
 

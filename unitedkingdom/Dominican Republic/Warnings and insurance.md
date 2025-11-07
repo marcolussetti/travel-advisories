@@ -1,17 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   31 October 2025
+:   7 November 2025
 
 Updated:
-:   30 October 2025
+:   6 November 2025
 
 Latest update:
-:   Update following Hurricane Melissa passing through the region ('Warnings and insurance' page).
-
-## Hurricane Melissa
-
-Hurricane Melissa has now passed through the region as a major hurricane. The full impact is not yet clear. Local authorities continue to monitor the weather system closely. Stay informed by monitoring local and international weather updates, including from the [Cuban Civil Defence Authorities](https://www.facebook.com/story.php?story_fbid=826460820029304&id=100079961792829&rdid=c9VDudt1GOexKsdm), [INSMET](http://www.insmet.cu/asp/genesis.asp?TB0=PLANTILLAS&TB1=AVISO2&TB2=0) weather forecast centre, and the [Dominican Republic’s National Meteorological Office](http://www.insmet.cu/asp/genesis.asp?TB0=PLANTILLAS&TB1=AVISO2&TB2=0) (ONAMET), as well as the [US National Hurricane Centre](https://www.nhc.noaa.gov/). Follow the guidance of local authorities, especially in relation to evacuation orders. See ‘Extreme weather and natural disasters’ on the [‘Safety and security’](https://www.gov.uk/foreign-travel-advice/dominican-republic/safety-and-security#extreme-weather-and-natural-disasters) page.
+:   Removal of information about Hurricane Melissa.
 
 ## Before you travel
 
