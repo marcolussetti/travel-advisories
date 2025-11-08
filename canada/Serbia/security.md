@@ -6,8 +6,6 @@
 
 Violent demonstrations have taken place across the country. There have been acts of vandalism, arson and clashes leading to injuries.
 
-On November 1, 2025, large gatherings are expected in Novi Sad and other cities.
-
 [More on demonstrations and mass gatherings](#demonstrations)
 
 ### Areas bordering Kosovo

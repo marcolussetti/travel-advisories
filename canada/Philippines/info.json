@@ -1,7 +1,7 @@
 {
     "name": "Philippines",
-    "update_reason": "Natural disasters and climate \u2013 added information on Tropical Storm Fung-Wong and Typhoon Kalmaegi",
-    "update_date": "2025-11-06T13:40:00",
+    "update_reason": "Risk level \u2013 avoid non-essential to Northern Luzon due to Typhoon Fung-Wong (Uwan); Natural disasters and climate \u2013 updated information on Typhoons Fung-Wong and Kalmaegi (Tino)",
+    "update_date": "2025-11-07T14:01:00",
     "sections": {
         "risk": "canada/Philippines/risk.md",
         "security": "canada/Philippines/security.md",
