@@ -1,44 +1,40 @@
 # Warnings and insurance
 
 Still current at:
-:   5 November 2025
+:   8 November 2025
 
 Updated:
-:   4 November 2025
+:   7 November 2025
 
 Latest update:
-:   New information on political situation and disruption to services and supplies and new information on social media use ('Warnings and insurance' and 'Safety and security' pages).
+:   FCDO no longer advises against all but essential travel to the whole of Tanzania but continues to advise against all but essential travel to any area within 20k of the Tanzanian border with the Cabo Delgado province of Mozambique. Updates to reflect the possibility of further demonstrations, and advice given to British High Commission staff to limit unnecessary travel outside of Dar es Salaam ('Warnings and insurance' and 'Regional risks' pages).
 
-![](https://assets.publishing.service.gov.uk/media/69064e6b14e0c1d9784174f6/FCDO__TA__086_-_Tanzania_Travel_Advice_Ed2__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/690e25f165da22dd57729905/FCDO__TA__086_-_Tanzania_Travel_Advice_Ed1__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/69064e43823bdda9488b2547/FCDO__TA__086_-_Tanzania_Travel_Advice_Ed2.pdf)
+[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/690e25f1896fad804b050fbf/FCDO__TA__086_-_Tanzania_Travel_Advice_Ed1.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
-## FCDO advises against all but essential travel to Tanzania
+## FCDO advises against all but essential travel to parts of Tanzania
 
 ### Tanzania
 
-FCDO advises against all but essential travel to Tanzania.
-
-This is due to disruption and unrest following the national election on 29 October. This has led to shortages of food, fuel and cash which have been compounded by a lack of internet services.
+FCDO advises against all but essential travel to any area within 20k of the Tanzanian border with the Cabo Delgado province of Mozambique, due to attacks by groups linked with Islamic extremism.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/tanzania/regional-risks).
 
-## Political situation and disruption to services and supplies
+## Political situation and ongoing disruption
 
 General elections took place in Tanzania on 29 October.
 
-Following violent protests and unrest in some parts of the country, there have been fatalities and injuries. Although the political situation is now calmer, demonstrations can be unpredictable and may turn violent again.
+Following violent protests and unrest in some parts of the country, there have been fatalities and injuries. Although the political situation is now calmer, further demonstrations including strong responses by security forces are possible. Curfews may remain in some parts of the country such as Mbeya and Mwanza. Incidents could occur any time and location, and may turn violent again.
+
+British High Commission staff have been advised to limit unnecessary travel outside of Dar es Salaam.
 
 Groups of tourists have been targeted and detained by local police for allegedly interfering with or inciting anti-government protests.
 
-There are widespread disruptions to transport nationwide, including road blocks. The SGR rail service and ferries between the mainland and Zanzibar are operating a reduced service.
-
-Check with your travel provider for the latest information before travelling to airports or other transport hubs.
-
-There are fuel, cash and water access challenges across the country. Some supermarkets are running low on food supplies due to the closure of Dar es Salaam port. Public hospitals are reporting shortage of medical supplies.
+Local transport continues to see some disruption. Check with your travel provider for the latest information before travelling to airports or other transport hubs.
 
 British nationals are advised to:
 

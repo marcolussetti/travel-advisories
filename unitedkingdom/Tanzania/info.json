@@ -1,11 +1,11 @@
 {
     "name": "Tanzania",
-    "update_reason": "New information on political situation and disruption to services and supplies and new information on social media use ('Warnings and insurance' and 'Safety and security' pages).",
+    "update_reason": "FCDO no longer advises against all but essential travel to the whole of Tanzania but continues to advise against all but essential travel to any area within 20k of the Tanzanian border with the Cabo Delgado province of Mozambique. Updates to reflect the possibility of further demonstrations, and advice given to British High Commission staff to limit unnecessary travel outside of Dar es Salaam ('Warnings and insurance'  and 'Regional risks' pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Tanzania/Warnings and insurance.md",
-            "update_date": "2025-11-04T18:58:26+00:00"
+            "update_date": "2025-11-07T17:11:51+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Tanzania/Getting help.md"
         }
     ],
-    "update_date": "2025-11-04T18:58:26+00:00"
+    "update_date": "2025-11-07T17:11:51+00:00"
 }

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   9 October 2025
+:   8 November 2025
 
 Updated:
-:   8 October 2025
+:   7 November 2025
 
 Latest update:
-:   Updated information about visa requirements('Entry requirements' page).
+:   Updated with information following an explosion at a school in North Jakarta (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/6745db6083f3d6d843be9719/FCDO__TA__020_-_Indonesia_Travel_Advice_Ed9__WEB_.jpg)
 
@@ -46,6 +46,10 @@ Your travel insurance could be invalidated if you travel against advice from the
 * to within 7km of the crater
 
 See [more details about why FCDO advises against travel](/foreign-travel-advice/indonesia/regional-risks).
+
+## Explosion at a school in North Jakarta
+
+At approximately 12.15pm local time on 7 November, there was an explosion at a school in Kelapa Gading, North Jakarta. If you’re in the immediate area, follow the advice of the local authorities and monitor local media.
 
 ## Before you travel
 
