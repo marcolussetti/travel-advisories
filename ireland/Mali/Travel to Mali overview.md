@@ -6,7 +6,7 @@ Do Not Travel
 
 ### **Travel Alert**
 
-Irish citizens are advised to leave the country if they do not have an essential reason to stay. If deciding to stay, against our advice, stay fully informed of what’s going on by monitoring local media and staying in contact with your hotel or tour organiser. Avoid demonstrations and public gatherings which can sometimes turn confrontational.
+Irish citizens are advised to leave the country. If deciding to stay, against our advice, stay fully informed of what’s going on by monitoring local media and staying in contact with your hotel or tour organiser. Avoid demonstrations and public gatherings which can sometimes turn confrontational. Avoid overland travel within Mali and when departing Mali. Direct and connecting commercial flights to Europe are currently still available from Bamako International Airport.
 
 Several terrorist groups operate in Mali, including Jama’a Nusrat ul-Islam wa al-Muslimin (JNIM) and Islamic State Sahel Province (ISSP).
 

@@ -12,8 +12,6 @@ Uganda has experienced disturbances during previous election periods. Citizens a
 
 Irish citizens are advised to avoid military sites – taking photos of, or near, military or security installations, and some public buildings, may be prohibited.
 
-Due to potential disruptions in service, the Embassy will not be accepting visa applications between Friday 28 November 2025 and Monday 26 January 2026. The current processing time for visas is eight weeks, with final decisions to be issued by 15 December 2025.
-
 Irish citizens are encouraged to factor this information into any plans they may have and to visit this page for the most up-to-date information. Irish citizens living in or visiting Uganda – either short of long term – can register their presence [here](https://citizensregistration.dfa.ie/).
 
 If there is an emergency, or if you need help and advice, you can contact the Embassy of Ireland Kampala on Tel: +256 417 713 000.

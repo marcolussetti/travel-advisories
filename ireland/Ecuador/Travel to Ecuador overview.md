@@ -28,7 +28,7 @@ The yellow fever vaccine must have been administered at least 10 days before ent
 
 ### **State of Emergency**
 
-A state of emergency was renewed on 06 October 2025 for 30 days owing to ongoing internal unrest and armed violence. The current state of emergency applies to the following provinces:
+A state of emergency was renewed on 04 November 2025 for 60 days owing to ongoing internal unrest and armed violence. The current state of emergency applies to the following provinces:
 
 -Guayas
 
@@ -38,7 +38,11 @@ A state of emergency was renewed on 06 October 2025 for 30 days owing to ongoing
 
 -Los Ríos
 
-- Echeandía in the province of Bolívar
+-Santa Elena
+
+- Echeandía and Las Naves in the province of Bolívar
+
+- Cotopaxi in the province of La Maná
 
 The state of emergency allows the military and police to:
 
@@ -67,38 +71,6 @@ Curfew hours (10pm until 05am) apply, until further notice, for the following pr
 - Imbarbura.
 
 Should you need to travel to or from the airport during curfew hours, this is permissible by presenting evidence of a flight booking reservation.
-
-### **State of exception**
-
-On 16 September 2025, a 60 day state of exception was announced in the following seven provinces owing to mass demonstrations and road blocks:
-
-- Carchi;
-
-- Imbabura;
-
-- Pinchincha;
-
-- Azuay;
-
-- Bolivar;
-
-- Cotopaxi;
-
-- Santa Domingo de los Tsáchilas.
-
-The decree suspends the right to freedom of assembly and orders the deployment of the armed forces to assist the police in restoring order.
-
-The current security situation remains volatile and uncertain due to the threat of violent crime. Travellers should:
-
-- Expect an increased police and military presence, especially near prisons, key public buildings, and airports;
-
-- carry identification at all times;
-
-- follow the instructions of local authorities.
-
-**Road Blockades and Transport Strikes**
-
-Due to ongoing transport strikes and road blockades across Ecuador, travellers may experience disruptions. Citizens are advised to check official sources regularly, follow guidance from the local authorities, and monitor road conditions through the official [ECU 911 website](https://www.ecu911.gob.ec/consulta-de-vias/).
 
 The Embassy advises all Irish citizens in Ecuador to be particularly attentive to news and safety recommendations from the Ecuadorian authorities.
 

@@ -4,9 +4,9 @@
 
 High Degree of Caution
 
-### **Latest Travel Alert**
+### **Travel Alert**
 
-We advise against non-essential travel to all islands off the coast of eastern Sabah from Kudat to Tawau, including (but not limited to) Lankayan, Mabul, Pom Pom, Kapalai, Litigan, Sipadan and Mataking.
+We advise against non-essential travel to all islands off the coast of eastern Sabah from Kudat to Tawau (on the Indonesian border), including (but not limited to) Lankayan, Selingan Turtle Island, Mabul, Pom Pom, Kapalai, Litigan, Sipadan and Mataking.
 
 ### **General Travel Advice**
 
@@ -26,9 +26,9 @@ If travelling between Peninsular Malaysia and East Malaysia (the states of Sabah
 
 For more information or further queries citizens should contact Malaysian Immigration directly, on Hotline numbers: 03 8888 2010 or +03 8000 8000, via the [**website**](https://www.imi.gov.my/) or email: **pls\_g@imi.gov.my**.
 
-Visitors to Malaysia are advised to follow the guidance of national and local authorities and stay fully informed of what is going on by monitoring local news and social media.
+Visitors to Malaysia are advised to follow the guidance of national and local authorities and stay fully informed of what is going on by monitoring local news and social media, such as [**Bernama**](https://www.bernama.com/)**,** [**NST**](https://www.nst.com.my/) and [**The Star**](https://www.thestar.com.my/).
 
-Citizens can also follow the Embassy on social media, X @I[**rlEmbMalaysia**](https://twitter.com/IrlEmbMalaysia) and [**Facebook**](https://twitter.com/IrlEmbMalaysia) to ensure access to relevant updates and alerts.
+Citizens can also follow the Embassy on social media - [**X**](https://x.com/IrlEmbMalaysia), [**Facebook**](https://facebook.com/IrlEmbMalaysia) and [**Instagram**](http://www.instagram.com/IrlEmbMalaysia)- to ensure access to relevant updates and alerts.
 
 ### **Emergency Assistance**
 
