@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   25 October 2025
+:   9 November 2025
 
 Updated:
-:   24 October 2025
+:   8 November 2025
 
 Latest update:
-:   Removal of information about tsunami warning lifted following the earthquake in Mindanao (‘Warnings and insurance’ page).
+:   Information on Typhoon Fung-Wong approaching Luzon
 
 ![](https://assets.publishing.service.gov.uk/media/616406778fa8f52980d9301c/FCDO__TA__033_-_Philippines_Travel_Advice_Ed2__WEB_.jpg)
 
@@ -31,6 +31,24 @@ FCDO also advises against all but essential travel to the remainder of Mindanao,
 This advice is due to terrorist activity and clashes between the military and insurgent groups in south Philippines.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/philippines/safety-and-security#terrorism).
+
+## Typhoon Fung-Wong
+
+Typhoon Fung-Wong, locally named Uwan, is expected to make landfall in northern or central Luzon (which includes Metro Manila).
+
+The level 5 (the highest category) typhoon is expected to bring strong winds and heavy rainfall. There may be flooding and landslides in affected areas and essential services may be disrupted.
+
+If you are currently in the affected area:
+
+* Follow and monitor local weather updates from the [Philippines state weather agency](http://www.pagasa.dost.gov.ph/) and the [Philippines Disaster Risk Reduction and Management Council](http://www.ndrrmc.gov.ph/index.php).
+* Follow the advice of local authorities, including any evacuation orders.
+
+If you are planning to travel to Luzon:
+
+* Contact your travel provider for updates.
+* Ensure your travel insurance covers natural disasters.
+
+See [Extreme weather and natural disasters](https://www.gov.uk/foreign-travel-advice/philippines/safety-and-security#:~:text=Extreme%20weather%20and%20natural%20disasters)
 
 ## Tropical storm season
 

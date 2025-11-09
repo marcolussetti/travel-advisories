@@ -1,11 +1,11 @@
 {
     "name": "Philippines",
-    "update_reason": "Removal of information about tsunami warning lifted following the earthquake in Mindanao (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Information on Typhoon Fung-Wong approaching Luzon",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Philippines/Warnings and insurance.md",
-            "update_date": "2025-10-24T09:12:41+01:00"
+            "update_date": "2025-11-08T09:13:01+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Philippines/Getting help.md"
         }
     ],
-    "update_date": "2025-10-24T09:12:41+01:00"
+    "update_date": "2025-11-08T09:13:01+00:00"
 }
