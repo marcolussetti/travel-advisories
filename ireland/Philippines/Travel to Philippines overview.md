@@ -4,6 +4,12 @@
 
 High Degree of Caution
 
+### **Travel Alert**
+
+#### **Typhoons**
+
+Around 20 typhoons hit the Philippines each year. Most typhoons occur from June to December. There may be flooding and landslides. Monitor the progress of approaching storms on the websites of the [**Philippines state weather agency**](https://www.pagasa.dost.gov.ph/), [**typhoon.com**](http://www.typhoon2000.ph/), or follow [**@Typhoon2k**](https://twitter.com/typhoon2k) on Twitter.
+
 ### **General Travel Advice**
 
 Irish citizens do not require a visa to enter the Philippines for an initial period up to 30 days.
