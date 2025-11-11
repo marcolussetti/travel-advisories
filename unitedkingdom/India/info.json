@@ -1,11 +1,11 @@
 {
     "name": "India",
-    "update_reason": "Updated information about exit requirements ('Entry requirements' page).",
+    "update_reason": "New information following an explosion at the Red Fort (Lal Qila) Metro Station ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/India/Warnings and insurance.md",
-            "update_date": "2025-11-03T15:36:43+00:00"
+            "update_date": "2025-11-10T15:49:15+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/India/Getting help.md"
         }
     ],
-    "update_date": "2025-11-03T15:36:43+00:00"
+    "update_date": "2025-11-10T15:49:15+00:00"
 }

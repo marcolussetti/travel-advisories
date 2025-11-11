@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   9 November 2025
+:   11 November 2025
 
 Updated:
-:   8 November 2025
+:   10 November 2025
 
 Latest update:
-:   Information on Typhoon Fung-Wong approaching Luzon
+:   Updated information on Typhoon Fung-Wong
 
 ![](https://assets.publishing.service.gov.uk/media/616406778fa8f52980d9301c/FCDO__TA__033_-_Philippines_Travel_Advice_Ed2__WEB_.jpg)
 
@@ -34,21 +34,21 @@ Find out more about [why FCDO advises against travel](/foreign-travel-advice/
 
 ## Typhoon Fung-Wong
 
-Typhoon Fung-Wong, locally named Uwan, is expected to make landfall in northern or central Luzon (which includes Metro Manila).
+Typhoon Fung-Wong, locally named Uwan, made landfall in the Philippines on 9 November 2025, bringing damaging winds, heavy rainfall and coastal flooding to large parts of Luzon and the Visayas.
 
-The level 5 (the highest category) typhoon is expected to bring strong winds and heavy rainfall. There may be flooding and landslides in affected areas and essential services may be disrupted.
+There are reports of disruption to transport (including domestic flights), electricity and communications in affected areas. The risk of flooding and landslides in affected areas is likely to remain over the coming days.
 
-If you are currently in the affected area:
+If you are in the affected areas:
 
-* Follow and monitor local weather updates from the [Philippines state weather agency](http://www.pagasa.dost.gov.ph/) and the [Philippines Disaster Risk Reduction and Management Council](http://www.ndrrmc.gov.ph/index.php).
-* Follow the advice of local authorities, including any evacuation orders.
+* follow and monitor local weather updates from the [Philippines state weather agency](http://www.pagasa.dost.gov.ph/) and the [Philippines Disaster Risk Reduction and Management Council](http://www.ndrrmc.gov.ph/index.php)
+* follow the advice of local authorities, including any evacuation orders
 
-If you are planning to travel to Luzon:
+If you are planning to travel to Luzon or the Philippines:
 
-* Contact your travel provider for updates.
-* Ensure your travel insurance covers natural disasters.
+* check with your travel provider or accommodation before travelling
+* ensure your travel insurance covers natural disasters
 
-See [Extreme weather and natural disasters](https://www.gov.uk/foreign-travel-advice/philippines/safety-and-security#:~:text=Extreme%20weather%20and%20natural%20disasters)
+See [Extreme weather and natural disasters](https://www.gov.uk/foreign-travel-advice/philippines/safety-and-security#:~:text=Extreme%20weather%20and%20natural%20disasters).
 
 ## Tropical storm season
 

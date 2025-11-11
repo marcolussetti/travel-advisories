@@ -1,11 +1,11 @@
 {
     "name": "Philippines",
-    "update_reason": "Information on Typhoon Fung-Wong approaching Luzon",
+    "update_reason": "Updated information on Typhoon Fung-Wong",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Philippines/Warnings and insurance.md",
-            "update_date": "2025-11-08T09:13:01+00:00"
+            "update_date": "2025-11-10T07:01:13+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Philippines/Getting help.md"
         }
     ],
-    "update_date": "2025-11-08T09:13:01+00:00"
+    "update_date": "2025-11-10T07:01:13+00:00"
 }
