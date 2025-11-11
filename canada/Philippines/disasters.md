@@ -2,11 +2,11 @@
 
 ## Natural disasters and climate
 
-### Typhoon Fung-Wong (Uwan) and Typhoon Kalmaegi (Tino)
+### Typhoon Fung-Wong (Uwan)
 
-Typhoon Fung-Wong is expected to make landfall on the coast of Isabela and Aurora provinces and sweep across northern Luzon as a very strong typhoon on or around November 10, 2025.
+On November 9, 2025, Typhoon Fung-Wong made landfall on the eastern coast of Luzon and swept across the island as a very strong typhoon.
 
-The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
+The storm brought heavy rainfall and violent winds, resulting in flooding and significant disruptions to the following essential services:
 
 * transportation
 * power distribution
@@ -15,13 +15,11 @@ The storm is likely to bring excessive rainfall and violent winds. It may cause 
 * emergency services
 * medical care
 
-On November 3, 2025, Typhoon Kalmaegi made landfall between Eastern Samar and the Dinagat Islands. It caused significant damage to buildings and infrastructure, over 100 casualties and displaced tens of thousands of people. There are significant disruptions to the essential services listed above in the affected areas.
-
 If you are in an affected area:
 
 * exercise caution
 * monitor local news and weather reports
-* follow the instructions of local authorities
+* follow the instructions of local authorities, including evacuation orders
 
 [Tropical Cyclone Bulletin](https://www.pagasa.dost.gov.ph/tropical-cyclone/severe-weather-bulletin/1) – Philippine Atmospheric, Geophysical, and Astronomical Services Administration (PAGASA)
 
