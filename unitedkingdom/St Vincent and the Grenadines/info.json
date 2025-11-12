@@ -1,11 +1,11 @@
 {
     "name": "St Vincent and the Grenadines",
-    "update_reason": "This travel advice was reviewed for accuracy and reissued with information on the continued effects from Hurricane Beryl from July 2024 (\u2018Safety and security\u2019 page).",
+    "update_reason": "New information about upcoming general elections on Thursday 27 November (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/St Vincent and the Grenadines/Warnings and insurance.md",
-            "update_date": "2025-01-08T14:38:07+00:00"
+            "update_date": "2025-11-11T16:17:45+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/St Vincent and the Grenadines/Getting help.md"
         }
     ],
-    "update_date": "2025-01-08T14:38:07+00:00"
+    "update_date": "2025-11-11T16:17:45+00:00"
 }

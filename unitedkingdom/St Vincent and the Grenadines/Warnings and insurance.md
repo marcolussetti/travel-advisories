@@ -1,13 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   12 November 2025
 
 Updated:
-:   8 January 2025
+:   11 November 2025
 
 Latest update:
-:   This travel advice was reviewed for accuracy and reissued with information on the continued effects from Hurricane Beryl from July 2024 (‘Safety and security’ page).
+:   New information about upcoming general elections on Thursday 27 November (‘Warnings and insurance’ page).
+
+## Upcoming general elections
+
+General elections will take place on Thursday 27 November in St Vincent and the Grenadines. Expect increased political activity in the coming weeks, including rallies and gatherings, particularly in urban centres such as Kingstown. While the security situation remains stable, stay away from large gatherings, monitor local media, and follow the advice of local authorities. Keep local and international travel plans under review.
 
 ## Before you travel
 
