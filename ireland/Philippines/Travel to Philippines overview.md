@@ -6,9 +6,7 @@ High Degree of Caution
 
 ### **Travel Alert**
 
-#### **Typhoons**
-
-Around 20 typhoons hit the Philippines each year. Most typhoons occur from June to December. There may be flooding and landslides. Monitor the progress of approaching storms on the websites of the [**Philippines state weather agency**](https://www.pagasa.dost.gov.ph/), [**typhoon.com**](http://www.typhoon2000.ph/), or follow [**@Typhoon2k**](https://twitter.com/typhoon2k) on Twitter.
+The Philippines is hit by around 20 typhoons per year, usually between June and December. The country has 20 active volcanoes and is in an earthquake zone.
 
 ### **General Travel Advice**
 

@@ -8,7 +8,7 @@ High Degree of Caution
 
 Any Irish citizen planning to travel to China should carefully read all relevant notices on their local Chinese Embassy or Consulate website.
 
-China has announced that from 30 November 2024 until 31 December 2025, citizens of Ireland holding an ordinary Irish passport travelling to China for business, tourism, family or friends visit, exchange and transit are eligible for visa-free entry, for a duration not exceeding 30 days. Individuals who do not meet the visa-free conditions or who are official passport holders still need to apply for a visa or a visa free certificate before entering China.
+China has announced that until 31 December 2026, citizens of Ireland holding an ordinary Irish passport travelling to China for business, tourism, family or friends visit, exchange and transit are eligible for visa-free entry, for a duration not exceeding 30 days. Individuals who do not meet the visa-free conditions or who are official passport holders still need to apply for a visa or a visa free certificate before entering China.
 
 A valid passport is required for travel to China. Irish passports should have a minimum validity of 6 months. Passport cards cannot be used.
 

@@ -8,9 +8,7 @@
 
 ### **Political Unrest**
 
-Violent protests have taken place in Madagascar. While the situation has stabilised since 27 September, further protests are expected and the unrest has spread to other parts of Madagascar. A curfew is in place from 7 p.m. to 5 a.m in Antananarivo and other major cities. Please pay attention to your surroundings, stay away from crowds and large gatherings, monitor the local media, and follow instructions from the authorities.
-
-Antananarivo International Airport is operational and accessible, but several flights were cancelled at the start of the unrest. Check with your airline or tour operator before travelling to an airport.
+Significant protests took place in Madagascar in September and October 2025. New President was announced on 17 October, and the situation has since calmed. Please pay attention to your surroundings, stay away from crowds and large gatherings, monitor the local media, and follow instructions from the authorities.
 
 Madagascar has a history of political unrest, and the situation can be unpredictable. Due to the possibility of violence, you should avoid large gatherings and political demonstrations, and avoid the centre of Antananarivo.
 
