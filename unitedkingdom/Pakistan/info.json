@@ -1,11 +1,11 @@
 {
     "name": "Pakistan",
-    "update_reason": "New information that following an explosion in Islamabad, staff at the British High Commission in Islamabad have been advised to limit movements (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Update regarding explosion in G-11 sector in Islamabad (Warnings and insurance)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Pakistan/Warnings and insurance.md",
-            "update_date": "2025-11-11T15:48:35+00:00"
+            "update_date": "2025-11-13T04:34:43+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Pakistan/Getting help.md"
         }
     ],
-    "update_date": "2025-11-11T15:48:35+00:00"
+    "update_date": "2025-11-13T04:34:43+00:00"
 }

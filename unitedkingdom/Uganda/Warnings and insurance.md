@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   2 November 2025
+:   13 November 2025
 
 Updated:
-:   1 November 2025
+:   12 November 2025
 
 Latest update:
-:   Information on reports of attacks in Western Uganda ('Warnings and insurance' page).
+:   Update about Presidential and Parliamentary elections in Uganda in January (See 'Political situation' on the 'Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/667bf1c07d26b2be17a4b36d/FCDO__TA__066_-_Uganda_Travel_Advice_Ed8__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/667bf1c15b0d63b556a4b38b/FCDO__TA__066_-_Uganda_Travel_Advice_Ed8.pdf)
+[Download a more detailed map (PDF, 644 KB)](https://assets.publishing.service.gov.uk/media/667bf1c15b0d63b556a4b38b/FCDO__TA__066_-_Uganda_Travel_Advice_Ed8.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 

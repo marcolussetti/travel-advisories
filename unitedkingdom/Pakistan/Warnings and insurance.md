@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   12 November 2025
+:   13 November 2025
 
 Updated:
-:   11 November 2025
+:   13 November 2025
 
 Latest update:
-:   New information that following an explosion in Islamabad, staff at the British High Commission in Islamabad have been advised to limit movements (‘Warnings and insurance’ page).
+:   Update regarding explosion in G-11 sector in Islamabad (Warnings and insurance)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -65,7 +65,7 @@ Find out more about [why FCDO advises against travel to these regions](/foreign-
 
 ## Explosion in the G-11 sector of Islamabad
 
-An explosion has occurred in the G-11 sector of Islamabad. The local authorities are currently investigating. If you’re in the immediate area follow the advice of the local authorities and monitor local media. As a precaution, staff at the British High Commission in Islamabad have been advised to limit movements.
+An explosion has occurred in the G-11 sector of Islamabad. The local authorities are currently investigating. If you’re in the immediate area, follow the advice of the local authorities and monitor local media.
 
 ## Before you travel
 

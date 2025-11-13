@@ -43,7 +43,9 @@ Recent significant attacks include:
 
 ## Political situation
 
-The next general elections are scheduled to be held in Uganda in 2026, on a date between 12 January and 9 February.
+Presidential and Parliamentary elections are scheduled to be held in Uganda on 15 January 2026.
+
+Previous elections and political events have led to protests and violence, including fatalities. There has also been disruption to the internet and social media.
 
 Political rallies, protests and violent demonstrations in Uganda:
 
@@ -52,8 +54,6 @@ Political rallies, protests and violent demonstrations in Uganda:
 * are more likely around elections
 
 The police have used tear gas, rubber bullets and live ammunition to disperse demonstrators. Avoid all demonstrations and rallies where possible.
-
-There have been country-wide internet shut-downs around elections, other political events and during protests. Disruption to social media sites including X, Facebook and WhatsApp has also taken place.
 
 Red and yellow are strongly associated with political parties in Uganda. Consider not wearing these colours around political events.
 

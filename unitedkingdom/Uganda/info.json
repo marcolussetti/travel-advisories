@@ -1,11 +1,11 @@
 {
     "name": "Uganda",
-    "update_reason": "Information on reports of attacks in Western Uganda ('Warnings and insurance' page).",
+    "update_reason": "Update about Presidential and Parliamentary elections in Uganda in January (See 'Political situation' on the 'Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Uganda/Warnings and insurance.md",
-            "update_date": "2025-11-01T18:38:57+00:00"
+            "update_date": "2025-11-12T16:30:49+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Uganda/Getting help.md"
         }
     ],
-    "update_date": "2025-11-01T18:38:57+00:00"
+    "update_date": "2025-11-12T16:30:49+00:00"
 }
