@@ -247,9 +247,11 @@ To lower your risk of getting sexually transmissible infections (STIs), HIV, and
 
 Good health care is very limited in availability.
 
-Medical facilities are underequipped. They may lack of medical supplies and adequately trained professionals. Private hospitals may be better equipped and provide better health care. They are mostly located in Belize City. There are none in rural areas.
+Public medical facilities are underequipped. They may lack medical supplies and adequately trained professionals. Private hospitals may be better equipped and provide better health care. They are mostly located in Belize City. There are no medical facilities in rural areas.
 
-Services remain available at low cost. Hospitals and doctors may expect immediate cash payment.
+Medical services are available at low cost. Medical facilities may expect immediate cash payment for medical treatment.
+
+Medical evacuation can be very expensive and you may need it in case of serious illness or injury.
 
 Make sure you get travel insurance that includes coverage for medical evacuation and hospital stays.
 
@@ -257,14 +259,13 @@ Make sure you get travel insurance that includes coverage for medical evacuation
 
 ### Medication
 
-Some prescription medications may not be available in Belize.
+If you take prescription medications, you’re responsible for determining their legality in Belize.
 
-If you take prescription medication, you’re responsible for determining its legality in the country.
-
-* Bring enough of your medication with you
-* Always keep your medication in the original container
+* Bring enough medication for your stay
+* Always keep your medication in the original container and carry a copy of your prescriptions
 * Pack your medication in your carry-on luggage
-* Carry a paper and an electronic copy of your prescriptions
+
+[Travelling with medication](https://travel.gc.ca/travelling/health-safety/medication?_ga=2.191785258.1604296173.1718630005-1405742948.1680118138)
 
 ### Keep in Mind...
 

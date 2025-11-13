@@ -2,6 +2,15 @@
 
 ## Safety and security
 
+### Elections
+
+Presidential and legislative elections are scheduled for November 23, 2025. Demonstrations could occur before, during and after the elections.
+
+* Avoid areas where demonstrations and large gatherings are taking place
+* Expect heightened security measures and an increased presence of security forces
+* Follow the instructions of local authorities
+* Monitor local media for the latest information
+
 ### Political situation
 
 Guinea-Bissau suffers from political instability. On February 2, 2022, there was a failed coup attempt at the Government Palace in Bissau. Although the situation is now calm, the political situation is volatile and further attacks against government and military personnel and installations cannot be ruled out.

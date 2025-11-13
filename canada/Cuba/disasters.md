@@ -2,27 +2,6 @@
 
 ## Natural disasters and climate
 
-### Hurricane Melissa
-
-On October 29, 2025, Hurricane Melissa made landfall in eastern Cuba. It caused significant damage to buildings and infrastructure.
-
-The storm brought excessive rainfall and violent winds and resulted in displaced persons. It caused severe flooding and landslides, which resulted in disruptions to the following essential services:
-
-* transportation, including operations at airports
-* power distribution
-* water and food supply
-* telecommunications networks
-* emergency services
-* medical care
-
-If you are in Cuba:
-
-* exercise caution
-* monitor local news and weather reports
-* follow the instructions of local authorities, including evacuation orders
-
-[Latest advisories](http://www.nhc.noaa.gov/) – U.S. National Hurricane Centre
-
 ### Climate change
 
 Climate change is affecting Cuba. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local media for the latest information.

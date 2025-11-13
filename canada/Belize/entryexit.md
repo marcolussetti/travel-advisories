@@ -16,7 +16,7 @@ Before you travel, check with your transportation company about passport require
 
 #### Regular Canadian passport
 
-Your passport must be valid at least 6 months beyond the date you expect to leave Belize.
+Your passport must be valid for a at least 6 months beyond the date you expect to leave Belize.
 
 #### Passport for official travel
 
@@ -46,17 +46,15 @@ Tourist visa: not required for stays up to 30 days
  Work visa: required  
  Student visa: required
 
-### Length of stay
-
 If you intend to stay longer than 30 days in Belize, you must apply for a visa from immigration authorities. Immigration offices are in major towns and cities.
 
 If you overstay the 30-day period without the required visa, you may be fined, detained or deported.
 
 ### Travel declaration form
 
-Belize has a new immigration and customs declaration system. You must fill the online travel declaration form to enter and exit Belize. The digital form must be completed before you travel.
+You must complete an online travel declaration form to enter and exit Belize. The form must be completed before you travel.
 
-[iDeclare e-form](https://belizetravel.immigration.gov.bz/Belize_Digital_Forms/) – Government of Belize
+[iDeclare e-form](https://belizetravel.immigration.gov.bz/Belize_Digital_Forms/) – Government of Belize
 
 ### Other entry requirements
 

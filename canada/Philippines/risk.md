@@ -25,17 +25,6 @@
 * Zamboanga del Sur
 * Zamboanga Sibugay
 
-### Northern Luzon - Avoid non-essential travel
-
-[Avoid non-essential travel](#levels "Risk Levels") to northern Luzon due to Typhoon Fung-Wong (Uwan). This advisory includes:
-
-* Cordillera Administrative Region
-* Ilocos Region
-* Cagayan Valley
-* Aurora, Tarlac and Nueva Ecija provinces in Central Luzon Region
-
-[Natural disasters and climate](#disasters)
-
 ### Central and Eastern Mindanao - Avoid non-essential travel
 
 [Avoid non-essential travel](#levels "Risk Levels") to the following provinces of Mindanao island due to the risk of kidnapping and high levels of crime:

@@ -12,9 +12,7 @@ Penalties for using, importing or exporting drugs are severe and may include len
 
 [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
 
-### Firearms
-
-You may not import or take in-transit any firearm or ammunition without a temporary export and import or in-transit permit issued by the South African Police Service.
+### 
 
 ### Dual citizenship
 
@@ -52,27 +50,32 @@ Be aware that Canadian consular officials cannot interfere in private legal matt
 
 ### Driving
 
-Traffic drives on the left.
+While you may drive in South Africa with your valid Canadian driver’s license, it is strongly recommended to obtain an International Driving Permit (IDP) in Canada before your departure, since it cannot be obtained once in South Africa.
 
-You may use your valid Canadian provincial driver’s licence in South Africa, however, an international driving permit (IDP) is strongly recommended.
+Without an IDP, it can be extremely difficult to obtain car insurance for rentals or vehicle purchases. Insurance companies and rental car agencies often require an IDP or South African driver’s license to honour insurance claims, even if such proof was not requested when purchasing the insurance policy.
 
-It is extremely difficult to obtain car insurance for car rentals or to purchase a car without an IDP. Insurance companies and rental car agencies often require proof of a South African driver’s licence or an IDP to honour an insurance claim, even when such proof was not requested at the time the policy was secured. An IDP must be obtained in Canada before travelling to South Africa, as it cannot be obtained locally.
+If your license is in French, it is advisable to obtain a translation into English and carry it with you.
 
-If your licence is in French, it is advisable to obtain a translation into English and carry it with you.
-
-Foreigners driving a rental car across any border into neighbouring countries must obtain a permit from the Cross-border Road Transport Agency prior to arriving at the border crossing. Failure to do so may lead to arrest and/or a fine.
-
-It is illegal to carry gasoline in portable containers.
+Foreigners driving a rental car across any border into neighboring countries must obtain a permit from the Cross-border Road Transport Agency before reaching the border crossing. Applications can be submitted through most car rental agencies, online or in person at Cross-border Road Transport Agency in Pretoria. Failure to do so may lead to arrest and/or a fine.
 
 #### Useful links
 
 * [Obtain a permit](http://www.cbrta.co.za/index.php?option=com_content&task=view&id=66&Itemid=110) - Cross-border Road Transport Agency
 * [International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
 
+### Identification
+
+Local authorities may request to see your identification at any time.
+
+* Always carry certified photocopies of your official identification
+* Keep a photocopy of your passport and your entry stamp, visa or travel permit in a safe place in case it’s lost or seized
+
 ### Money
 
 The currency is the South African rand (ZAR).
 
-Canadian currency can be easily exchanged at major banks and foreign exchange counters. A passport and additional identification is required when undertaking foreign exchange transactions.
+Canadian currency can be easily exchanged at major banks and foreign exchange counters. A passport and additional identification are required when undertaking foreign exchange transactions.
 
-Foreigners are permitted to enter South Africa carrying a maximum of ZAR100,000, or US$10,000 or its equivalent in foreign currencies. Customs forms are not required to be completed, but random customs checks are conducted.
+Foreigners may enter South Africa carrying up to ZAR 25 000, or USD 10,000 or its equivalent in foreign currencies without declaring it.
+
+[Customs requirements for travellers](https://www.sars.gov.za/customs-and-excise/travellers/arrival-in-sa/) – South African Revenue Service

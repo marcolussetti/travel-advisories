@@ -8,83 +8,95 @@ Gang violence is a significant concern in Belize, especially in Southside Belize
 
 Police capacity to respond to violent incidents is limited, and many crimes remain unsolved.
 
-Tourists are not usually targeted, but you could find yourself in the wrong place at the wrong time.
+Tourists are not usually targeted, but you could be in the wrong place at the wrong time.
 
 ### Crime
 
 #### Violent crime
 
-Violent crime is also a major concern elsewhere in the country, including in Belmopan. Belize has one of the highest per capita murder rates in the world.
+Violent crime is also a major concern elsewhere in the country, including in the capital, Belmopan. Belize has one of the highest per-capita murder rates in the world.
 
-Drug and human trafficking, organized crime and street gang activity is prevalent. Violent incidents are frequent, including:
+Drug and human trafficking, organized crime and street gang activity is prevalent. Violent crime occurs frequently. Incidents include:
 
 * murders
 * armed robberies
-* home invasions
-* muggings
-* sexual assaults
+* burglaries
+* assaults, including sexual assaults
 
-There has been an increase in the number of violent incidents against foreign national residents, including home break-ins and physical assaults.
+Violent incidents against foreign national residents occur, including burglaries and physical assaults. These incidents sometimes occur in popular tourist areas such as:
 
-Border areas often see higher criminal activity and violence. Criminals are active around the border with Guatemala, close to tourist sites such as the Mayan ruins at Caracol.
+* Caye Caulker
+* Hopkins
+* Placencia
+* San Pedro
+* San Ignacio
+* Corozal
+* Seine Bight
 
-To avoid becoming the victim of a crime:
+During your stay:
 
-* remain aware of your surroundings at all times
-* avoid travelling after dark
-* maintain a charge in your cellphone
-* if you are threatened, hand over your cash and valuables without resistance
+* always be aware of your surroundings
+* avoid going out after dark
+* travel in groups
+* do not resist an attack
+* stay in accommodations with adequate security measures
+* keep doors and windows closed and locked at all times
 
 #### Petty crime
 
-Petty crime, such as pickpocketing and purse snatching, occurs. Criminals may target tourists, including at resorts. They often operate in groups and sometimes target individuals travelling alone.
+Petty crime, such as pickpocketing and bag snatching, occurs. Criminals may target travellers at popular tourist destinations. They often operate in groups and sometimes target individuals travelling alone.
 
-* Ensure that your personal belongings, including your passport and other travel documents, are secure at all times
+* Keep your personal belongings, including your passport and other travel documents, in a secure place
+* Do not show signs of affluence or wear expensive jewellery
+* Do not carry large sums of cash or valuables unnecessarily
 * Avoid walking alone
-* Avoid carrying large amounts of cash
-* Be suspicious of strangers approaching you or of recent acquaintances
-* Avoid accepting rides or similar invitations
-* Avoid showing signs of affluence
 
-#### Borders
+[Lost or stolen belongings abroad](https://travel.gc.ca/assistance/emergency-info/stolen-belongings)
+
+### Border areas
+
+Border areas, including Melchor de Mencos and Chetumal, often see higher criminal activity and violence. Criminals are active around the border with Guatemala, close to tourist sites such as the Mayan ruins at Caracol.
 
 Belize faces unresolved territorial disputes with:
 
 * Guatemala regarding the land border
-* Honduras regarding the Sapodilla Cays
+* Honduras regarding the Sapodilla Cayes
 
-When crossing borders by road:
+If you cross a land border:
 
-* exercise caution
-* only use official border crossings
-* avoid travelling at night
+* only cross at official land borders
+* account for possible delays at the border
+* avoid travelling after dark
 
 ### Fraud
 
-Credit card and ATM fraud occurs frequently, especially in San Pedro. Be cautious when using debit or credit cards:
+Credit and debit card as well as ATM fraud occurs frequently, especially at tourist destinations.
 
-* pay careful attention when your cards are being handled by others
-* use ATMs located in well-lit public areas or inside a bank or business
-* avoid using card readers with an irregular or unusual feature
+When using your debit or credit card:
+
 * cover the keypad with one hand when entering your PIN
+* pay careful attention when others are handling your cards
+* avoid using card readers with an irregular or unusual feature
+* use ATMs located in well-lit public areas or inside a bank or business
+* pick up the ATM receipt
 * check for any unauthorized transactions on your account statements
 
 [Overseas fraud](https://travel.gc.ca/travelling/health-safety/overseas-fraud)
 
-### Spiked food and drinks
+### Spiked food, drinks and other items
 
-Snacks, beverages, gum and cigarettes may contain drugs that could put you at risk of sexual assault and robbery.
-
-* Be wary of accepting these items from new acquaintances
-* Never leave food or drinks unattended or in the care of strangers
+Never leave your food or drinks unattended or in the care of strangers. Avoid accepting snacks, beverages, gum or cigarettes from new acquaintances, as these items may contain drugs that could put you at risk of sexual assault and robbery.
 
 ### Women’s safety
 
 Women travelling alone may be subject to some forms of harassment and verbal abuse. Cases of sexual assault, including against foreigners, occur.
 
-* Avoid unlit alleys and isolated areas
-* Avoid unsupervised beaches
-* Don’t hitchhike or pick up hitchhikers
+If you’re the victim of a sexual assault, you should report it immediately to the nearest Government of Canada office.
+
+* Do not accept offers of transportation from strangers
+* Avoid dark alleys and isolated areas
+* Avoid unattended beaches
+* Do not hitchhike or pick up hitchhikers
 
 [Advice for women travellers](https://travel.gc.ca/travelling/health-safety/advice-for-women-travellers "Advice for women travellers")
 
@@ -98,7 +110,7 @@ Belizean law does not prohibit sexual acts between individuals of the same sex. 
 
 ### Demonstrations
 
-Demonstrations and large gatherings may occur. Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation.
+Demonstrations may occur. Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation.
 
 * Avoid areas where demonstrations and large gatherings are taking place
 * Follow the instructions of local authorities
@@ -110,104 +122,106 @@ Demonstrations and large gatherings may occur. Even peaceful demonstrations can 
 
 Coastal waters can be dangerous. Riptides are common.
 
-Rescue services may not be consistent with international standards. Not all beaches have lifeguards or warning flags.
+Lifeguard services may not meet Canadian standards.
 
-* Only undertake scuba diving and other water activities with a well-established company
-* Don’t swim alone, after hours or outside marked areas
-* Consult residents and tour operators for information on possible hazards and safe swimming areas
-* Monitor weather warnings
+Most beaches don’t have warning flags to alert of unsafe conditions.
+
+* Respect the areas reserved for swimming
+* Consult residents and tour operators for information on possible hazards, the presence of dangerous species and safe swimming areas
+* Monitor weather conditions
 * Follow the instructions of local authorities
-
-[Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
 ### Adventure travel
 
-Outdoor activities, such as snorkelling, diving, zip-lining, canopy touring, hiking, mountain biking and other adventure activities can be dangerous if unprepared. Trails are not always marked, and weather conditions can change rapidly, even in the summer.
+Outdoor activities, such as snorkelling, diving, zip-lining, canopy touring, hiking cave tubing, and mountain biking, can be dangerous. Trails are not always marked, and weather conditions can change rapidly, even in the summer.
 
-If you intend to practice adventure travel:
+If you intend to practice such activities:
 
-* never do so alone, and don’t part with your expedition companions
-* obtain detailed information on your activity and on the environment in which you will be before setting out
-* buy travel insurance that includes helicopter rescue and medical evacuation
+* obtain detailed information on your activity and on the environment in which you will be setting out
+* buy travel insurance that covers incidents related to these types of recreational activities
 * ensure that your physical condition is good enough to meet the challenges of your activity
 * avoid venturing off marked trails
-* ensure that you’re adequately equipped and bring sufficient water
-* stay informed of weather and other conditions that may pose a hazard
-* refrain from using equipment if you have doubts on the safety
-* inform a family member or friend of your itinerary
+* ensure that you have proper equipment and bring sufficient water
+* refrain from using equipment if you are unsure of its safety
 
 [Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
-### Road travel
+### Roads
 
-Road conditions and road safety are poor throughout the country. Accidents are common.
+#### Road safety
+
+Road safety is poor throughout the country.
+
+Accidents are frequent.
+
+There is no emergency roadside assistance.
 
 #### Road conditions
 
-Besides George Price and Philip Goldson highways, most roads are unpaved. Bridges often face severe flooding after a storm. Driving conditions may be hazardous, especially during the rainy season, due to:
+Road conditions are poor throughout the country.
 
+Besides George Price and Philip Goldson highways, most roads are unpaved. Bridges often face severe flooding after a storm. Driving conditions may be hazardous during the rainy season.
+
+Driving can also be dangerous due to:
+
+* insufficient lighting
 * potholes
-* inadequate lighting
 * narrow or unpaved roads
 * lack of guardrails
 * lack of traffic signs
 * roaming livestock
+* unmarked speedbumps
 
-#### Road safety
+#### Driving habits
 
-Drivers don’t respect traffic laws. They may be reckless.
+Drivers don’t always respect traffic laws. They can be aggressive and reckless.
 
-There are many bicycles in urban areas. Most of the time, cyclists don’t respect traffic laws either. They contribute to the chaotic situation by posing further traffic hazards.
+There are many cyclists in cities. Most of the time, cyclists don’t respect traffic laws, adding to traffic hazards.
 
-There is no emergency road assistance. Service stations are scarce, and they are often closed for holidays.
+If you choose to drive in Belize:
 
-If driving in Belize:
-
-* familiarize yourself with your route before starting the trip
-* avoid travelling after dark, especially on rural roads
-* keep your windows and doors locked at all times
-* keep your belongings out of reach and sight
+* familiarize yourself with your itinerary before you leave
+* avoid travelling after dark
+* always keep doors and windows closed and locked
 * never leave belongings unattended in a vehicle, even in the trunk
 * don’t stop to change a flat tire in an isolated area and be aware of strangers offering their help
-* don’t stop to offer road-side assistance to others
-* inquire about insurance coverage options for roadside assistance when renting a car
-* always keep your gas tank full when in remote areas
-* advise a relative of your anticipated itinerary and route
+* inform a friend or family member of your itinerary
+* stop at all checkpoints
+* fill your gas tank before you travel, especially if you are travelling to a remote area
 
 ### Public transportation
 
 #### Buses
 
-Public buses are not commonly used in Belize. Bus services are available to travel between cities but are not reliable. Vehicles lack maintenance and safety equipment.
+Public buses are not commonly used in Belize. Bus services are available to travel between cities, but they are not reliable due to poor maintenance and lack of safety equipment.
 
 Avoid travelling by bus.
 
 #### Taxis
 
-Taxis are not safe. You should refrain from using them.
+Taxis are not safe. You should avoid using them.
 
-Registered taxis are identifiable by their green licence plates. Private vehicles have white licence plates. Both may not have a meter.
-
-Popular ride-sharing apps are not available in Belize.
+Ride-sharing apps are not available in Belize.
 
 If you must use a taxi:
 
-* never board taxis at taxi stands or flag taxis on the street
-* note the driver’s name and plate number
+* only use registered taxis, identifiable by their green licence plates
+* never board at taxi stands or flag taxis on the street
+* confirm the driver's identity and licence plate before getting into the car
 * never share a taxi with strangers
-* negotiate the fare before getting in the vehicle
+* confirm the fare in advance, since there may not be a meter
 
-#### Ferries
+#### Ferries and water taxis
 
 Water taxis are the main way to travel between the cayes, the Belize Barrier Reef and the mainland.
 
-If you choose to travel by ferry:
+If you decide to travel by ferry or water taxi:
 
-* make sure the vessel you are boarding is carrying appropriate safety equipment
-* make sure that life jackets are always provided for all passengers and are accessible
-* avoid boarding vessels that appear overloaded or unseaworthy
-* verify the safety standards of ferries with your tour operator
-* ensure your belongings are properly closed and locked
+* only use a reliable company
+
+* allow extra time, especially during the rainy season
+* make sure appropriate safety equipment is available
+* do not board a boat that is too crowded or in poor condition
 
 ### Air travel
 

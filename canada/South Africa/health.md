@@ -252,17 +252,25 @@ High-risk travellers include those visiting or working in prisons, refugee camps
 
 ### Medical services and facilities
 
-Medical facilities and supplies are widely available in large cities but can be expensive. Medical facilities are limited in remote areas.
+The quality of care varies significantly throughout the country. Good medical care is generally available only in major cities, where private hospitals and clinics are often better staffed and equipped than public or rural facilities.
 
-Public and private health facilities require an up-front cash deposit for services, guarantee of payment or confirmation of medical insurance before commencing treatment.
+Private hospitals provide expensive medical care, require proof of insurance, and often request immediate payment.
 
-Air evacuation may be the only option when faced with a medical emergency in remote areas.
-
-Decompression chambers are available in many hospitals.
+Emergency services can be slow outside of major cities, and air evacuation may be the only option in the event of a medical emergency in remote areas. Make sure you get travel insurance that includes coverage for medical evacuation and hospital stays.
 
 Make sure you get travel insurance that includes coverage for medical evacuation and hospital stays.
 
 [Health and safety outside Canada](https://travel.gc.ca/travelling/health-safety)
+
+### Medication
+
+Some prescription medications may not be available in South Africa.
+
+If you take prescription medications, you’re responsible for determining their legality in the country.
+
+* Bring enough medication for your stay
+* Always keep your medication in the original container and carry a copy of your prescriptions
+* Pack your medication in your carry-on luggage
 
 ### Keep in Mind...
 

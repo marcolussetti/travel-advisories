@@ -1,7 +1,7 @@
 {
     "name": "Philippines",
-    "update_reason": "Natural disasters and climate \u2013 updated information on Typhoon Fung-Wong",
-    "update_date": "2025-11-10T11:04:00",
+    "update_reason": "Risk levels \u2013 removed advisory to avoid non-essential travel to northern Luzon",
+    "update_date": "2025-11-12T14:36:00",
     "sections": {
         "risk": "canada/Philippines/risk.md",
         "security": "canada/Philippines/security.md",

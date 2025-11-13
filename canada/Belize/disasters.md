@@ -4,9 +4,9 @@
 
 ### Hurricane season
 
-The hurricane season is from early June to the end of November in the Atlantic, Caribbean Sea and Gulf of Mexico. During this period, even small tropical storms can quickly develop into major hurricanes.
+Hurricanes usually occur from mid-May to the end of November. During this period, even small tropical storms can quickly develop into major hurricanes.
 
-These severe storms can put you at risk and hamper the provision of essential services. You could face serious safety risks during a hurricane. You should carefully consider these risks when planning a trip during the hurricane season.
+These severe storms can put you at risk and hamper the provision of essential services. You could face serious safety risks during a hurricane.
 
 If you decide to travel to a coastal area during the hurricane season despite the risks:
 
@@ -19,20 +19,20 @@ If you decide to travel to a coastal area during the hurricane season despite th
 
 * [Severe storms outside Canada](https://travel.gc.ca/travelling/health-safety/hurricanes-typhoons-cyclones-monsoons)
 * [Large-scale emergencies outside Canada](https://travel.gc.ca/assistance/emergency-info/large-scale-emergencies-abroad)
-* [Active storm tracking and hurricane watches and warnings](http://www.nhc.noaa.gov/) – U.S. National Hurricane Center
+* [Active storm tracking and hurricane watches and warnings](http://www.nhc.noaa.gov/) – U.S. National Hurricane Center
 
-### Rainy Season
+### Rainy season
 
 The rainy season extends from May to November.
 
-Seasonal flooding can hamper overland travel and reduce the provision of essential services. Roads may become impassable, and bridges may be damaged. Heavy rains may also contribute to dangerous landslides.
+Seasonal flooding can hamper overland travel and reduce the provision of essential services. Roads may become impassable due to landslides and mudslides. Infrastructure may be damaged.
 
 ### Wildfires
 
-Bush and forest fires are common between December and May, particularly in the Cayo District and in southern districts of Belize. The air quality in areas near active fires may deteriorate due to heavy smoke.
+Bush and forest fires are common between December and May, particularly in the Cayo District and in southern districts of Belize. Heavy smoke may deteriorate the air quality in areas near active fires.
 
 In case of a major fire:
 
-* stay away from the affected area, particularly if you suffer from respiratory ailments
-* follow the instructions of local emergency services personnel
-* monitor local media for up-to-date information on the situation
+* stay away from the affected areas, particularly if you suffer from respiratory ailments
+* monitor local media for the latest information
+* follow the instructions of local authorities, including evacuation orders

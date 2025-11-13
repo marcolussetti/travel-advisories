@@ -8,7 +8,7 @@ Learn about what you should do and how we can help if you are [arrested or detai
 
 ### Transfer to a Canadian prison
 
-Canada and Belize accede the Inter-American Convention on Serving Criminal Sentences abroad. This enables a Canadian imprisoned in Belize to request a transfer to a Canadian prison to complete a sentence. The transfer requires the agreement of both Canadian and Belizean authorities. This process can take a long time, and there is no guarantee that the transfer will be approved by either or both sides.
+Canada and Belize have acceded to the Inter-American Convention on Serving Criminal Sentences abroad. This enables a Canadian imprisoned in Belize to request a transfer to a Canadian prison to complete a sentence. The transfer requires the agreement of both Canadian and Belizean authorities. This process can take a long time, and there is no guarantee that the transfer will be approved by either or both sides.
 
 The legal system is cumbersome and not always transparent. If you are arrested in Belize, even for a minor incident, you should expect lengthy delays to resolve your case and you may not be allowed to leave the country.
 
@@ -31,15 +31,15 @@ Belize is a transit point for illegal drugs between South and North America.
 
 The possession of firearms and ammunition is strictly regulated.
 
-You can face heavy fines and jail time if you are found in possession of an unlicensed firearm or ammunition, especially for repeat offenses.
+You could face heavy fines and jail time if you are found in possession of an unlicensed firearm or ammunition, especially for repeat offences.
 
 ### Artifacts
 
 The possession of pre-Columbian archaeological and Colonial-period artifacts is strictly regulated.
 
-You must obtain a permit to possess pre-Columbian archaeological and Colonial-period artifacts.
+You must obtain a permit to possess such artifacts.
 
-### Plants, and animal products
+### Plants, animals and animal products
 
 Belize is a signatory to the Convention on International Trade in Endangered Species of Wild Fauna and Flora.
 
@@ -51,9 +51,9 @@ You must have a permit to collect, possess or export:
 
 ### Investments
 
-Disputes related to property acquisition or other investments are costly and take time to resolve.
+Foreigners attempting to purchase property in Belize have been victims of scams. Disputes related to property acquisition or other investments are costly and take time to resolve.
 
-If you plan to buy property, or making other investments in Belize:
+If you plan to buy property or make other investments in Belize:
 
 * seek legal advice in Canada and in Belize before making commitments
 * choose your own lawyer
@@ -93,42 +93,44 @@ Be aware that Canadian consular officials cannot interfere in private legal matt
 * [Canadian embassies and consulates by destination](https://travel.gc.ca/assistance/embassies-consulates)
 * [Request emergency assistance](https://travel.gc.ca/assistance/emergency-assistance?_ga)
 
-### Identification documents
+### Identification
 
-Authorities may request to see your ID. Belizean police won’t issue a police report without a digital copy or a photocopy of your passport
+Authorities may request to see your ID. Belizean police won’t issue a police report without a digital copy or a photocopy of your passport.
 
-* Carry valid identification at all times
+* Carry valid ID at all times
 * Keep a photocopy of your passport in case it’s lost or seized
 * Keep a digital copy of your ID and travel documents
 
-### Boating
+### Recreational boating
 
-Coral reef is safeguarded by Belizean legislation. Damage to the reef is considered a criminal offense. Penalties are severe, from heavy fine to jail time.
+The coral reef is safeguarded by Belizean legislation. Damaging the reef is a criminal offense. Penalties are severe, from heavy fines to jail time.
 
-If you are boating in Belizean waters:
+If you are planning to go boating:
 
-* navigate with caution
+* know and respect the navigation rules
 * avoid getting too close to the reef
 * ensure you have a good understanding of local rules and regulations
+* ensure you have knowledge of international borders
+* carry a very high frequency (VHF) marine radio or GPS transmitter to share your location in case of emergency
 
 ### Driving
 
 You can drive in Belize with your valid Canadian driver’s licence for up to 3 months.
 
-You should carry an international driving permit.
+You should carry an International Driving Permit.
 
 [International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
 
 ### Money
 
-The currency in Belize is the Belizean dollar (BZD).
+The currency of Belize is the Belizean dollar (BZD).
 
-U.S. dollars are widely accepted but cash advances may be difficult to obtain. Sometimes prices are provided in USD. Change for payments in USD is frequently given in BZD.
+US dollars (USD) are widely accepted but credit card cash advances may be difficult to obtain. Sometimes prices are provided in USD. Change for payments in USD is frequently given in BZD.
 
 Credit cards are usually accepted in large cities. ATMs may not be available in rural areas.
 
-Currency exchanges or purchases on black market are punishable by law.
+Exchanging or purchasing currency on the black market, such as at unofficial currency exchanges, is punishable by law.
 
 * Confirm if a price is in USD or BZD before buying
-* Bring enough U.S. dollars in small bills
+* Bring enough USD in small bills
 * Exchange foreign currency at banks or official exchange offices only
