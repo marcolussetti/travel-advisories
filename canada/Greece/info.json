@@ -1,7 +1,7 @@
 {
     "name": "Greece",
-    "update_reason": "Entry and exit requirements \u2013 updated information on the Entry/Exit System (EES)",
-    "update_date": "2025-10-15T15:50:00",
+    "update_reason": "Editorial change",
+    "update_date": "2025-11-13T15:08:00",
     "sections": {
         "risk": "canada/Greece/risk.md",
         "security": "canada/Greece/security.md",

@@ -12,7 +12,7 @@ Verify this information with the [Foreign Representatives in Canada](https://ww
 
 Entry requirements vary depending on the type of passport you're travelling with.
 
-Before you travel, check with your transportation company about passport requirements. Its rules on passport validity may be more stringent than the country’s entry rules.
+Before you travel, check with your transportation company about passport requirements. Its rules on passport validity may be more stringent than the country's entry rules.
 
 #### Regular Canadian passport
 
@@ -26,7 +26,7 @@ Different entry rules may apply.
 
 #### Passport with “X” gender identifier
 
-While the Government of Canada issues passports with a “X” gender identifier, it cannot guarantee your entry or transit through other countries. You might face entry restrictions in countries that do not recognize the “X” gender identifier. Before you leave, verify this information with the closest foreign representative for your destination.
+While the Government of Canada issues passports with an “X” gender identifier, it cannot guarantee your entry or transit through other countries. You might face entry restrictions in countries that do not recognize the “X” gender identifier. Before you leave, verify this information with the closest foreign representative for your destination.
 
 You should also be aware that current systems used by some countries and travel companies may not recognize the “X” gender identifier. You may still be asked to provide your sex/gender information as either male or female when travelling.
 
@@ -52,6 +52,8 @@ Student visa: required
 You must have an ETA to enter Cabo Verde for tourism or business. Your ETA is valid for one year or until you change your passport, whichever comes first.
 
 To get an ETA, you must complete an online pre-registration form and pay an airport security fee at least 5 days before you arrive in Cabo Verde. Certain exceptions apply. You should consult the Government of Cabo Verde’s online platform to register and for more information.
+
+[Efficient, Automatic and Safe Entry (EASE)](https://www.ease.gov.cv/) – Government of Cabo Verde
 
 ### Children and travel
 

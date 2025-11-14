@@ -12,7 +12,7 @@ Verify this information with the [Foreign Representatives in Canada](https://ww
 
 Entry requirements vary depending on the type of passport you're travelling with.
 
-Before you travel, check with your transportation company about passport requirements. Its rules on passport validity may be more stringent than the country’s entry rules.
+Before you travel, check with your transportation company about passport requirements. Its rules on passport validity may be more stringent than the country's entry rules.
 
 #### Regular Canadian passport
 
@@ -26,7 +26,7 @@ Different entry rules may apply.
 
 #### Passport with “X” gender identifier
 
-While the Government of Canada issues passports with a “X” gender identifier, it cannot guarantee your entry or transit through other countries. You might face entry restrictions in countries that do not recognize the “X” gender identifier. Before you leave, verify this information with the closest foreign representative for your destination.
+While the Government of Canada issues passports with an “X” gender identifier, it cannot guarantee your entry or transit through other countries. You might face entry restrictions in countries that do not recognize the “X” gender identifier. Before you leave, verify this information with the closest foreign representative for your destination.
 
 You should also be aware that current systems used by some countries and travel companies may not recognize the “X” gender identifier. You may still be asked to provide your sex/gender information as either male or female when travelling.
 
@@ -50,7 +50,11 @@ You may obtain a tourist e-visa prior to travelling to Papua New Guinea. It’s 
 
 [Online visa application](https://evisa.ica.gov.pg/evisa/account/Apply?ReturnUrl=%2fevisa%2f) - Government of Papua New Guinea
 
-### Other requirements
+### Other entry requirements
+
+You must complete a Papua New Guinea Digital Arrival Card (PNGDAC). This is an online pre-arrival form that replaces the paper form, and can be filled in up to 72 hours before your arrival in Papua New Guinea.
+
+[Apply for your PNGDAC](https://pngdac.ica.gov.pg/sbs-dac-ui/#/home) – Papua New Guinea Immigration & Citizenship Service Authority
 
 Customs officials may ask you to show them a return or onward ticket and proof of sufficient funds to cover your stay.
 

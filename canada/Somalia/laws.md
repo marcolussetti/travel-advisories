@@ -8,7 +8,7 @@ Learn about what you should do and how we can help if you are [arrested or detai
 
 ### Ramadan
 
-In 2025, the lunar month of Ramadan is expected to begin on or around February 28.
+In 2026, the lunar month of Ramadan is expected to begin on or around February 17.
 
 In public, between sunrise and sunset, refrain from:
 

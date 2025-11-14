@@ -16,21 +16,20 @@ If you are in Papua New Guinea:
 
 [More information on demonstrations](https://travel.gc.ca/destinations/papua-new-guinea#demonstrations)
 
-### Heightened tensions in the Highlands Region
+### Escalating tensions in the Highlands Region
 
-Since September 11, 2024, armed clashes have caused several casualties in Porgera Valley, Enga Province. There are reports of arson and looting.
+Since August 2024, inter-tribal armed violent clashes have intensified in the Porgera Valley of Enga Province. The conflict has led to casualties and the destruction of property. The clashes spread to the neighbouring provinces of Hela, Southern Highlands and Western Highlands, including the city of Mount Hagen, where tensions remain high.
 
-On September 17, 2024, local authorities declared a state of emergency in the area. They have also issued:
+Local authorities declared a state of emergency in the area. They have also issued:
 
-* a temporary ban on alcohol sales
-* increased the powers of local law enforcement
-* a nightly curfew from 6 pm. to 6 am.
-
-After the February 2024 attacks in Enga Province, there have been heightened tensions in the neighbouring provinces of Hela and the Southern and Western Highlands, including the city of Mount Hagen.
+* a ban on alcohol sales
+* expanded powers for local law enforcement, including the use of lethal force against armed individuals
+* a nightly curfew from 6 pm to 6 am
+* roadblocks and ID checkpoints
 
 * Avoid areas where protests or clashes are taking place
 * Follow the instructions of local authorities, including any evacuation, curfew or movement restriction orders
-* Monitor local media for the latest information about the situation
+* Monitor local media for the latest information on the situation
 
 ### Inter-ethnic violence
 

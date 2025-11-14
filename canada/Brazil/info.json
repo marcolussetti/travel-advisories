@@ -1,7 +1,7 @@
 {
     "name": "Brazil",
-    "update_reason": "Need help? \u2013 added information on telecommunications problems at the Embassy of Canada to Brazil, in Brasilia.",
-    "update_date": "2025-11-05T13:40:00",
+    "update_reason": "Editorial change",
+    "update_date": "2025-11-13T15:08:00",
     "sections": {
         "risk": "canada/Brazil/risk.md",
         "security": "canada/Brazil/security.md",

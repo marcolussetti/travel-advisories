@@ -2,24 +2,6 @@
 
 ## Natural disasters and climate
 
-### Typhoon Kalmaegi
-
-Typhoon Kalmaegi is expected to impact Laos on November 7, 2025.
-
-It may cause flash flooding and landslides and could disrupt the following essential services:
-
-* transportation
-* power distribution
-* water and food supply
-* telecommunications networks
-* emergency services
-* medical care
-
-If you are in the affected area:
-
-* monitor local news and weather reports
-* follow the instructions of local authorities
-
 ### Climate change
 
 Climate change is affecting Laos. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local media for the latest information.

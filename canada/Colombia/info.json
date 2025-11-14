@@ -1,7 +1,7 @@
 {
     "name": "Colombia",
-    "update_reason": "Need help? \u2013 removed information on phone line disruptions at the Embassy of Canada to Colombia, in Bogot\u00e1",
-    "update_date": "2025-10-31T14:47:00",
+    "update_reason": "Editorial change",
+    "update_date": "2025-11-13T15:08:00",
     "sections": {
         "risk": "canada/Colombia/risk.md",
         "security": "canada/Colombia/security.md",

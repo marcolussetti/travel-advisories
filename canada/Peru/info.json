@@ -1,7 +1,7 @@
 {
     "name": "Peru",
-    "update_reason": "Need help? \u2013 added information on disruptions to telephone lines",
-    "update_date": "2025-11-12T09:07:00",
+    "update_reason": "Editorial change",
+    "update_date": "2025-11-13T15:08:00",
     "sections": {
         "risk": "canada/Peru/risk.md",
         "security": "canada/Peru/security.md",

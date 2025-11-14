@@ -17,13 +17,21 @@
 * Chihuahua, excluding Chihuahua City
 * Colima, excluding the city of Manzanillo if accessed by air
 * Guanajuato, in all areas south of and including highways 43D and 45D
-* Guerrero, excluding the cities of Ixtapa/Zihuatanejo if accessed by air
+* Guerrero, excluding the cities of Ixtapa/Zihuatanejo only if accessed by air
 * Jalisco, within 50 km of the border with Michoacán state
 * the Lagunas de Zempoala National Park in Morelos
 * Michoacán, excluding the cities of Morelia and Patzcuaro
 * Nayarit, within 20 km of the border with the states of Sinaloa and Durango
 * Nuevo León, excluding the city of Monterrey
-* Sinaloa, excluding the city of Los Mochis
+* Sinaloa with the following exceptions, and only if accessed by air or sea:
+
++ the city of Los Mochis
++ specific areas in the city of Mazatlán:
+
+- Centro Histórico south of Avenida Guttierrez Najera
+- the road connecting Centro Histórico to the airport
+- the main coastal roads from Centro Histórico to Playa Delfines, including Zona Cerritos and Zona Dorada (the Golden Zone)
+
 * Sonora, excluding the cities of Hermosillo, Guaymas/San Carlos and Puerto Peñasco
 * Tamaulipas, excluding the city of Tampico
 * Zacatecas, excluding Zacatecas City

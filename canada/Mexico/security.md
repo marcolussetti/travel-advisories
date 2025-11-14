@@ -2,20 +2,20 @@
 
 ## Safety and security
 
-### Crime
+### Sinaloa (see [Risk levels](#risk))
 
-### Violent clashes in Culiacán, Mazatlán and surrounding areas
+Violent clashes occur regularly between rival armed groups in the State of Sinaloa, including in Culiacán and parts of Mazatlán located outside the main tourist zones. Armed groups have stopped vehicles on the highway from Culiácan to Mazatlán and other major roads.
 
-In recent weeks, there have been violent clashes between rival armed groups in Culiacán, Mazatlán and their surrounding areas. Armed groups have stopped vehicles on the highway from Culiácan to Mazatlán and other major roads.
-
-If you are in Culiacán, Mazatlán or their surrounding areas:
+If you are in an area of Sinaloa where we advise to avoid non-essential travel:
 
 * exercise extreme caution
 * limit your movements
 * monitor local media for the latest information
 * follow the instructions of local authorities
 
-[More information on organized crime](#organizedcrime)
+[More information on organized crime](https://travel.gc.ca/destinations/mexico#organizedcrime)
+
+### Crime
 
 Levels of crime, particularly violent crime, are high throughout Mexico.
 

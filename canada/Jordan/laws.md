@@ -83,7 +83,7 @@ Members of the 2SLGBTQI+ community could face arrest under other charges, such a
 
 Jordan's customs, laws and regulations adhere closely to Islamic practices and beliefs. Dress conservatively, behave discreetly and respect religious and social traditions to avoid offending local sensitivities.
 
-In 2025, the lunar month of Ramadan is expected to begin on or around February 28.
+In 2026, the lunar month of Ramadan is expected to begin on or around February 17.
 
 In public, between sunrise and sunset, refrain from:
 

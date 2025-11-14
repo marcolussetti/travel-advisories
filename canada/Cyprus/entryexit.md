@@ -34,7 +34,7 @@ Be aware of entry restrictions if travelling in the vicinity of the base areas.
 
 Entry requirements vary depending on the type of passport you're travelling with.
 
-Before you travel, check with your transportation company about passport requirements. Its rules on passport validity may be more stringent than the country’s entry rules.
+Before you travel, check with your transportation company about passport requirements. Its rules on passport validity may be more stringent than the country's entry rules.
 
 #### Regular Canadian passport
 
@@ -48,7 +48,7 @@ Different entry rules may apply.
 
 #### Passport with “X” gender identifier
 
-While the Government of Canada issues passports with a “X” gender identifier, it cannot guarantee your entry or transit through other countries. You might face entry restrictions in countries that do not recognize the “X” gender identifier. Before you leave, verify this information with the closest foreign representative for your destination.
+While the Government of Canada issues passports with an “X” gender identifier, it cannot guarantee your entry or transit through other countries. You might face entry restrictions in countries that do not recognize the “X” gender identifier. Before you leave, verify this information with the closest foreign representative for your destination.
 
 You should also be aware that current systems used by some countries and travel companies may not recognize the “X” gender identifier. You may still be asked to provide your sex/gender information as either male or female when travelling.
 

@@ -4,7 +4,7 @@
 
 ### Climate change
 
-Climate change is affecting Papua New Guinea. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local news to stay informed on the current situation. 
+Climate change is affecting Papua New Guinea. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local news to stay informed on the current situation.
 
 ### Seismic activity
 
@@ -25,9 +25,9 @@ In the event of an eruption:
 
 #### Tsunamis
 
-A tsunami can occur within minutes of a nearby earthquake. However, the risk of tsunami can remain for several hours following the first tremor. If you’re staying on the coast, familiarize yourself with the region’s evacuation plans in the event of a tsunami warning.
+A tsunami can occur within minutes of a nearby earthquake. However, the risk of tsunami can remain for several hours following the first tremor. If you're staying on the coast, familiarize yourself with the region's evacuation plans in the event of a tsunami warning.
 
-[Tsunami alerts](https://www.tsunami.gov/) - U.S. Tsunami Warning System
+[Tsunami alerts](https://www.tsunami.gov/) – U.S. Tsunami Warning System
 
 ### Monsoon
 

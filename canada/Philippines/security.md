@@ -2,6 +2,15 @@
 
 ## Safety and security
 
+From November 16 to 18, 2025, large-scale demonstrations are expected in several locations across Metro Manila, including:
+
+* Luneta (Rizal Park)
+* People Power Monument, in Quezon City
+
+Hundreds of thousands are expected to participate, and the security situation could deteriorate without notice.
+
+[More information on demonstrations](#demonstrations)
+
 ### Mindanao island
 
 Extremists have been active in the southern Philippines for several years.

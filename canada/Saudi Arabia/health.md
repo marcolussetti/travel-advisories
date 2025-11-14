@@ -4,7 +4,7 @@
 
 ### Relevant Travel Health Notices
 
-* [Measles: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/504) - 12 May, 2025
+* [Measles: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/504) - 13 November, 2025
 * [COVID-19 and International Travel](https://travel.gc.ca/travelling/health-safety/travel-health-notices/513) - 12 May, 2025
 
 This section has information and advice about health risks you might face when travelling. Following this advice can help reduce your risk of getting sick. Not all risks are listed here.
@@ -55,6 +55,28 @@ Hepatitis A
 There is a risk of [hepatitis A](https://www.canada.ca/en/public-health/services/diseases/hepatitis-a.html) in this destination. It is a disease of the liver. People can get hepatitis A if they ingest contaminated food or water, eat foods prepared by an infectious person, or if they have close physical contact (such as oral-anal sex) with an infectious person, although casual contact among people does not spread the virus.
 
 Practise [safe food and water precautions](https://travel.gc.ca/travelling/health-safety/food-water) and wash your hands often. Vaccination is recommended for all travellers to areas where hepatitis A is present.
+
+Hajj and Umrah vaccination entry requirements
+
+There are vaccination entry requirements in place for travellers entering Saudi Arabia for Umrah, Hajj or for seasonal work in Hajj zones.
+
+These include vaccinations for COVID-19, polio, meningococcal meningitis, and yellow fever. Before travelling, make sure you meet all requirements for participating in Hajj or Umrah.
+
+For more information, visit the Saudi Arabia Ministry of Health’s page for Hajj and Umrah health regulations.
+
+[Hajj and Umrah Health Regulations - Ministry of Health in the Kingdom of Saudi Arabia](https://www.moh.gov.sa/en/HealthAwareness/Pilgrims-Health/Pages/default.aspx) (external)
+
+Large numbers of people in small areas can enable the spread of infectious diseases and increase the risk of injury. Take the time to prepare for your trip and know how to reduce the risks.
+
+[Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
+
+Rabies 
+
+In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/diseases/rabies) may be present in some wildlife species, including bats. Rabies is a deadly disease that spreads to humans primarily through bites or scratches from an infected animal.
+
+If you are bitten or scratched by an animal while travelling, immediately wash the wound with soap and clean water and see a health care professional.
+
+Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who will be working directly with wildlife.
 
 Measles 
 
@@ -111,28 +133,6 @@ Malaria
 • Cover your skin and use an [approved](https://www.canada.ca/en/health-canada/services/about-pesticides/insect-repellents.html) insect repellent on uncovered skin.   
 • Exclude mosquitoes from your living area with screening and/or closed, well-sealed doors and windows.  
 • Use insecticide-treated bed nets if mosquitoes cannot be excluded from your living area. 
-
-Hajj and Umrah vaccination entry requirements
-
-There are vaccination entry requirements in place for travellers entering Saudi Arabia for Umrah, Hajj or for seasonal work in Hajj zones.
-
-These include vaccinations for COVID-19, polio, meningococcal meningitis, and yellow fever. Before travelling, make sure you meet all requirements for participating in Hajj or Umrah.
-
-For more information, visit the Saudi Arabia Ministry of Health’s page for Hajj and Umrah health regulations.
-
-[Hajj and Umrah Health Regulations - Ministry of Health in the Kingdom of Saudi Arabia](https://www.moh.gov.sa/en/HealthAwareness/Pilgrims-Health/Pages/default.aspx) (external)
-
-Large numbers of people in small areas can enable the spread of infectious diseases and increase the risk of injury. Take the time to prepare for your trip and know how to reduce the risks.
-
-[Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
-
-Rabies 
-
-In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/diseases/rabies) may be present in some wildlife species, including bats. Rabies is a deadly disease that spreads to humans primarily through bites or scratches from an infected animal.
-
-If you are bitten or scratched by an animal while travelling, immediately wash the wound with soap and clean water and see a health care professional.
-
-Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who will be working directly with wildlife.
 
 ### Safe food and water precautions
 

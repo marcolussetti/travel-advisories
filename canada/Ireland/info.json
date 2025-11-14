@@ -1,7 +1,7 @@
 {
     "name": "Ireland",
-    "update_reason": "The Need help? section was updated.",
-    "update_date": "2025-09-29T15:00:00",
+    "update_reason": "Editorial change",
+    "update_date": "2025-11-13T15:08:00",
     "sections": {
         "risk": "canada/Ireland/risk.md",
         "security": "canada/Ireland/security.md",
