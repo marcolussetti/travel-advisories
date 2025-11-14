@@ -34,7 +34,7 @@ Irish citizens require a visa to enter mainland Tanzania and Zanzibar. [**Apply 
 
 If you are planning to work or volunteer, you will also need a work permit. Your employer or volunteer organisation should help you arrange this before you travel. If you overstay your visa or permit you risk arrest, detention, a fine and deportation. More information on volunteering in Tanzania is available under the Local laws and customs tab below.
 
-For further information about visas, visit the [**Tanzanian immigration website**](https://visa.immigration.go.tz/) or contact the [**Tanzanian High Commission in London**](https://tzhc.uk/).
+For further information about visas, visit the [**Tanzanian immigration website**](https://visa.immigration.go.tz/) or contact the [**Tanzanian High Commission in London**](https://uk.tzembassy.go.tz/)
 
 A valid passport is required for travel to Tanzania. Irish passports should have a minimum validity of 6 months from the date of entry and a minimum on one unused visa page. Passport cards cannot be used.
 
