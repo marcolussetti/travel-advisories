@@ -52,9 +52,9 @@ This continues a historical trend of terrorists attacking military bases and per
 
 ### Terrorist kidnap
 
-There is a very high threat of kidnapping by al-Qa’ida and Islamic State-aligned groups in Mali. JNIM and ISSP operate throughout Mali, Niger and Burkina Faso. JNIM, in particular, has previously conducted kidnappings from all parts of Mali, including in urban areas and the capital, Bamako. The terrorist kidnap threat is highest in northern and central Mali but is increasing in southern Mali.
+There is a very high threat of kidnapping by al-Qa’ida and Islamic State-aligned groups in Mali. JNIM and ISSP operate throughout Mali, Niger and Burkina Faso. JNIM, in particular, has previously conducted kidnappings from all parts of Mali, including in urban areas and the capital, Bamako. In 2025, there has been an increase in kidnaps in Southern and Western Mali.
 
-A number of foreign nationals have been kidnapped in Mali in recent years, by Al-Qaeda and Islamic State affiliated groups.
+A number of foreign nationals have been kidnapped in Mali in 2025, by Al-Qaeda and Islamic State affiliated groups.
 
 British nationals are seen as legitimate targets, including tourists, humanitarian aid workers, journalists and business travellers. If you are kidnapped, the reason for your presence is unlikely to protect you or secure your safe release.
 

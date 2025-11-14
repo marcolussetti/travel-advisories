@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   31 October 2025
+:   14 November 2025
 
 Updated:
-:   30 October 2025
+:   13 November 2025
 
 Latest update:
-:   New information that non-essential British Embassy staff have been temporarily withdrawn from Bamako. (See ‘UK government support’ on the ‘Warnings and insurance’ page).
+:   Updated information that there has been an increase in kidnaps in Southern and Western Mali (‘Safety and security’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/690369fee2ebc0fb39a51ffc/FCDO_TA_026_-_Mali_Travel_Advice_Ed7_WEB.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/690369fe92779f89baa51ffe/FCDO_TA_026_-_Mali_Travel_Advice_Ed7.pdf)
+[Download a more detailed map (PDF, 466 KB)](https://assets.publishing.service.gov.uk/media/690369fe92779f89baa51ffe/FCDO_TA_026_-_Mali_Travel_Advice_Ed7.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 

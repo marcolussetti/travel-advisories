@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   2 August 2025
+:   14 November 2025
 
 Updated:
-:   1 August 2025
+:   13 November 2025
 
 Latest update:
-:   This page has been checked for style and accuracy, with minor edits throughout and updated information on the support for British nationals in Eritrea ('Warnings and insurance' page').
+:   Addition of information on what to do if a crisis develops in Eritrea ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/62558a0c8fa8f54a9055161a/FCDO__TA__016_-_Eritrea_Travel_Advice_Ed4__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/62558a17d3bf7f6004339d6b/FCDO__TA__016_-_Eritrea_Travel_Advice_Ed4.pdf)
+[Download a more detailed map (PDF, 504 KB)](https://assets.publishing.service.gov.uk/media/62558a17d3bf7f6004339d6b/FCDO__TA__016_-_Eritrea_Travel_Advice_Ed4.pdf)
 
 ## Areas where FCDO advises against travel
 
@@ -24,7 +24,13 @@ FCDO advises against all travel to within 25km of all of Eritrea’s land border
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/eritrea/regional-risks).
 
-Tensions between Eritrea and Ethiopia are high. The security situation in Eritrea could change with little notice.
+Tensions between Eritrea and Ethiopia are high. If a crisis develops in Eritrea, the situation could change quickly, including your ability to travel within Eritrea or leave the country. Practical support from the British government such as face-to-face consular support or evacuation may be severely limited in a crisis. Read our [general guidance on consular support in a crisis](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas).
+
+Be prepared to re-arrange your own departure from Eritrea if a crisis develops. If it is not safe or possible to leave, you should:
+
+* stay indoors whenever possible, and have a stock of essential supplies such as food, drinking water and medicine
+* obey any local restrictions such as curfews
+* monitor the media for developments that would allow you to leave safely
 
 ## Support for British nationals in Eritrea
 

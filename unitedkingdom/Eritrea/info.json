@@ -1,11 +1,11 @@
 {
     "name": "Eritrea",
-    "update_reason": "This page has been checked for style and accuracy, with minor edits throughout and updated information on the support for British nationals in Eritrea ('Warnings and insurance' page').",
+    "update_reason": "Addition of information on what to do if a crisis develops in Eritrea ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Eritrea/Warnings and insurance.md",
-            "update_date": "2025-08-01T17:13:25+01:00"
+            "update_date": "2025-11-13T09:40:37+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Eritrea/Getting help.md"
         }
     ],
-    "update_date": "2025-08-01T17:13:25+01:00"
+    "update_date": "2025-11-13T09:40:37+00:00"
 }
