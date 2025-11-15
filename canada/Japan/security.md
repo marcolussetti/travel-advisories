@@ -20,6 +20,20 @@ The regional security situation on the neighbouring Korean Peninsula could deter
 
 [Cabinet Secretariat Civil Protection Portal](http://www.kokuminhogo.go.jp/en/pc-index_e.html)
 
+### Bears
+
+There is an increased presence of bears in northern Japan, including in Akita, Niigata, Hokkaido prefectures.
+
+Bears have been sighted in urban areas, including resorts and hiking trails. Some encounters have resulted in casualties.
+
+If you plan on visiting northern Japan:
+
+* always be aware of your surroundings and stay vigilant
+* avoid walking alone in areas where bears have been sighted
+* follow the warnings or alerts issued by local authorities
+
+[Advice related to brown bears](https://www.pref.hokkaido.lg.jp/ks/skn/higuma/english.html) – Hokkaido Government
+
 ### Crime
 
 Crimes against foreigners are low but increasing. Petty crime, such as pickpocketing and purse snatching, occurs from time to time. Be cautious in entertainment and nightlife districts throughout Japan, especially in these areas in Tokyo:

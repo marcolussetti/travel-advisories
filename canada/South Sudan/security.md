@@ -4,16 +4,18 @@
 
 ### Security situation
 
-### Ongoing hostilities in Upper Nile State
+The security situation remains volatile and unpredictable.
 
-Since March 2025, there has been active fighting between rival factions in the Upper Nile State, including air strikes, resulting in casualties.
+Political tensions are high following recent leadership changes and clashes between rival factions earlier this year.
 
-South Sudan’s government ordered the evacuation of Nasir County. If you are in this area despite the evacuation order, the military could consider you a combatant.
+Although conditions in Juba appear calm, the situation can deteriorate quickly. Outbreaks of violence remain possible.
 
-If you are in or near the affected area:
+Violent clashes between security forces and opposition groups continue in several states and the risk of further escalation cannot be ruled out.
 
-* monitor local and international media to stay informed of the latest developments
-* exercise caution if you need to move to a more secure location
+* Avoid demonstrations and large gatherings
+* Monitor local and international media to stay informed of the latest developments
+* Keep a supply of water, food, medication and other essential supplies
+* Keep your communication devices charged and secure backup power sources
 
 There is a heightened military presence in Juba due to ongoing tensions in the north of the country.
 

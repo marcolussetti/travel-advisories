@@ -2,6 +2,26 @@
 
 ## Safety and security
 
+### Olympic and Paralympic Winter Games
+
+The Milan Cortina Olympic Winter Games will take place in northern Italy from February 6-22, followed by the Paralympic Winter Games from March 6-15, 2026.
+
+Venues for the Games will be spread out across several destinations in northern Italy. Roads and public transportation services may be impacted by winter weather or increased demand. If you are travelling to Italy for the Games, plan your journey carefully and leave plenty of time to travel between locations.
+
+Be aware of your surroundings, especially in crowded areas. Thieves and pickpockets take advantage of large gatherings to target travellers. People may approach you on the street to sell tickets to events. You should only purchase event tickets through the official Milan Cortina 2026 website or reputable resale services.
+
+During the Games, especially in areas near the event centres, you should expect:
+
+* an increased presence of security forces
+* major disruptions to traffic and movement
+* large crowds and public gatherings
+
+#### Useful links
+
+* [Milan Cortina 2026](https://www.olympics.com/en/milano-cortina-2026) – Official site
+* [Lost or stolen belongings outside Canada](https://travel.gc.ca/assistance/emergency-info/stolen-belongings)
+* [More information on medical services and facilities](#medical-services)
+
 ### Crime
 
 #### Petty crime

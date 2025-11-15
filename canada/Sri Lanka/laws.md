@@ -8,17 +8,18 @@ Learn about what you should do and how we can help if you are [arrested or detai
 
 ### Drugs
 
-Penalties for possession, use or trafficking of illegal drugs are strict.
+Penalties for possession, use or trafficking of illegal drugs are severe. Convicted offenders can expect long jail sentences and heavy fines.
 
-#### Alcohol
-
-Alcohol consumption in public places is prohibited.
+* Pack your own luggage and monitor it closely at all times
+* Never transport other people’s packages, bags or suitcases
 
 [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
 
-### Smoking
+### Alcohol
 
-Smoking is prohibited in many indoor public places, workplaces and on public transport. Use designated smoking areas.
+The legal drinking age is 21 years.
+
+Alcohol consumption in public places is prohibited. It’s illegal to purchase alcohol on full moon (Poya) days and generally on religious holidays.
 
 ### Exports
 
@@ -26,17 +27,29 @@ Exporting antiques without a proper licence is illegal.
 
 ### Photography
 
-Photographing and videotaping government and military installations, as well as in any designated high-security zone, is prohibited.
+Photographing and filming government and military installations, as well as in any designated high-security zone, is prohibited.
 
 ### Dress and behaviour
 
-Dress conservatively, behave discreetly and respect religious and social traditions and artefacts to avoid offending local sensitivities. Posing for a photograph next to a statue of Buddha is a serious offence, punishable by a fine or an arrest. Tattoos, jewellery and clothing associated with Buddhism are considered offensive and may lead to fines, arrest or deportation.
+You may be fined, arrested or deported for:
+
+* posing for a photograph next to a statue of Buddha
+* having tattoos, jewellery and clothing associated with Buddhism
+* having your back to a statue or image of Buddha
+
+To avoid offending local sensitivities:
+
+* dress conservatively
+* behave discreetly
+* respect religious and social traditions and artifacts
 
 ### Identification
 
 Carry official identification at all times.
 
-### 2SLGBTQI+ persons
+### 2SLGBTQI+ travellers
+
+Sri Lankan law criminalizes sexual acts and relationships between persons of the same sex. 2SLGBTQI+ persons could also be discriminated against based on their sexual orientation, gender identity, gender expression, or sex characteristics.
 
 2SLGBTQI+ persons should carefully consider the risks of travelling to Sri Lanka.
 
@@ -46,9 +59,13 @@ Carry official identification at all times.
 
 Traffic drives on the left.
 
-Checkpoints may be set up. Carry personal identification at all times and comply with government and security force instructions.
+If you plan to rent a car, you must bring your Canadian driver’s licence or an International Driving Permit issued outside Sri Lanka. You will then need to obtain a temporary driver’s licence or a recognition certificate from one of the following:
 
-You should carry an International Driving Permit.
+* the permit counter at Bandaranaike International Airport
+* the Automobile Association of Ceylon in Colombo
+* the Department of Motor Traffic (DMT) in Werahera
+
+Canadian driver’s licences are accepted only at the DMT. They must be accompanied by a certified translation if not in English.
 
 [International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
 
@@ -88,6 +105,6 @@ Be aware that Canadian consular officials cannot interfere in private legal matt
 
 ### Money
 
-The currency is the Sri Lankan rupee (LKR).
+The currency of Sri Lanka is the Sri Lankan rupee (LKR).
 
-Credit cards are widely accepted in major urban and tourist centres. You may encounter difficulties in making Visa and MasterCard cash withdrawals. There are ATMs in major cities, but some do not accept international cards.
+Credit cards are widely accepted in major urban and tourist centres. You may encounter difficulties in making credit card cash withdrawals. There are ATMs in major cities, but some do not accept international cards.

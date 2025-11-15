@@ -267,9 +267,11 @@ High-risk travellers include those visiting or working in prisons, refugee camps
 
 Medical services and facilities do not meet the standards you might normally expect in Canada.
 
-Medical facilities in certain areas outside of Colombo are limited, particularly in the north. In the event of a major accident or illness, medical evacuation is often necessary. Medical transport is very expensive.
+Medical facilities in certain areas outside of Colombo are limited.
 
-Medical facilities may require confirmation of insurance coverage, guarantee of payment or an up-front deposit before admitting patients.
+Medical facilities may require confirmation of insurance coverage, guarantee of payment or an upfront deposit before admitting patients.
+
+Medical evacuation can be very expensive, and you may need it in case of serious illness or injury.
 
 Make sure you get travel insurance that includes coverage for medical evacuation and hospital stays.
 

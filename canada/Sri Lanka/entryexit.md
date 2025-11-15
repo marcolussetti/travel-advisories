@@ -47,20 +47,19 @@ Business visa: required 
 Student visa: required   
 Work visa: required
 
-Canadians must apply online for an Electronic Travel Authorization (ETA), the short-term visa required to visit Sri Lanka.
+You must apply online for an Electronic Travel Authorization (ETA) to obtain a visa for tourism or business purposes.
 
 An ETA allows for a short visit of up to 30 days. Carry a copy of your ETA approval when you go through immigration upon arrival.
 
-Visas may be extended at Sri Lanka's Department of Immigration and Emigration in Colombo.
+If you plan to visit Sri Lanka for medical treatment exceeding 30 days or for investment, you will need to apply for a residence visa.
+
+Visas and ETAs may be extended at the Department of Immigration and Emigration in Colombo.
 
 You cannot convert a visa status once in Sri Lanka. Non-compliance with visa restrictions may result in deportation.
 
-You will also need to fill out an online arrival card. You can complete the online form three days before arriving in Sri Lanka.
+You will also need to fill out an online arrival card. You can complete the online form 3 days before arriving in Sri Lanka.
 
-#### Useful links
-
-* [Arrival Card form](https://eservices.immigration.gov.lk/emb/eEmbarkation/'#/home-page) - Sri Lankan Department of Immigration and Emigration
-* [Online Visa Application](https://eta.gov.lk/slvisa/) – Sri Lankan Department of Immigration and Emigration
+[Electronic Travel Authorization form](https://eta.gov.lk/slvisa/) –Department of Immigration and Emigration
 
 ### Special permissions
 
@@ -70,7 +69,10 @@ Entry into Sri Lankan waters, at any point, requires prior permission.
 
 ### Other requirements
 
-An onward or return ticket and proof of sufficient funds to sustain you while you are in the country are required to visit Sri Lanka.
+Customs officials will ask you to show them:
+
+* a return or onward ticket
+* proof of sufficient funds to cover your stay
 
 ### Children and travel
 
