@@ -16,6 +16,16 @@ You will be denied entry if you do not have a valid travel document or try to us
 
 You must have a visa to enter Somalia, including Somaliland.
 
+### E-Visa data breach
+
+There are reports of a data breach affecting Somalia’s eVisa system
+
+Leaked data from the breach includes visa applicants’ names, photos, dates and places of birth, email addresses, marital status, and home addresses. This data breach is ongoing and could expose any personal data you enter into the system,
+
+An eVisa is required before travelling to Somalia. Consider the risks before applying.
+
+US Embassy in Somalia have also issued an alert to US citizens. See - [Alert: Federal Republic of Somalia (FGS) Electronic Visa (E-Visa) Data Breach - U.S. Embassy in Somalia](https://so.usembassy.gov/alert-federal-republic-of-somalia-fgs-electronic-visa-e-visa-data-breach/?fbclid=IwdGRzaAODEvFjbGNrA4MS2mV4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHr_McNpy95Rny0OHFc1FVoE1scR89bh02jlwnxfc04XxpbksRE5PPkCKYQGh_aem_ORHiTkwZvd9alLjxfaj60g&sfnsn=scwspwa%3C/a).
+
 If you are travelling to Mogadishu International Airport, you will need to apply for an [eVisa](https://etas.gov.so/) prior to your arrival.
 
 If you are travelling to Hargeisa International Airport, you may still be asked to present this [eVisa](https://etas.gov.so/) in order to board your flight but it will not be considered valid for entry when you arrive in Hargeisa.

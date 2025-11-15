@@ -37,7 +37,7 @@ Read [best practice when travelling with medicines on TravelHealthPro](https://t
 
 ## Healthcare in Botswana
 
-On 26 August 2025 Botswana declared a public health emergency due to shortages of essential medicines and equipment. Some non-urgent surgeries have also been temporarily suspended in public health facilities.
+The State of Public Health Emergency is now over. Despite this, medicine and medical supply shortages remain widespread across public health facilities nationwide. Private healthcare remains largely unaffected.
 
 Healthcare in Botswana is usually good in major towns, but medical facilities and communications are limited in rural areas. For serious medical treatment, medical evacuation to the UK or South Africa may be necessary.
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   5 November 2025
+:   15 November 2025
 
 Updated:
-:   4 November 2025
+:   14 November 2025
 
 Latest update:
-:   Removal of information about heavy rainfall and flooding ('Warnings and insurance' page).
+:   Updated information about healthcare in Botswana and the end of the state of public health emergency ('Health' page).
 
 ## Before you travel
 

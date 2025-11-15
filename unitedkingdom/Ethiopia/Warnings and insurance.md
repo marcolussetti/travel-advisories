@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   11 September 2025
+:   15 November 2025
 
 Updated:
-:   10 September 2025
+:   14 November 2025
 
 Latest update:
-:   Updated information about overstaying your visa (‘Entry requirements’ page).
+:   Information on reports of cases of viral haemorrhagic fever in South Ethiopia (Health page).
 
 ![](https://assets.publishing.service.gov.uk/media/6894853aa6eb81a3f9b2e20e/FCDO__TA__017_-_Ethiopia_Travel_Advice_Ed38__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/6894853aad0cbc0e276430ee/FCDO__TA__017_-_Ethiopia_Travel_Advice_Ed38.pdf)
+[Download a more detailed map (PDF, 814 KB)](https://assets.publishing.service.gov.uk/media/6894853aad0cbc0e276430ee/FCDO__TA__017_-_Ethiopia_Travel_Advice_Ed38.pdf)
 
 ## Areas where FCDO advises against travel
 
@@ -102,10 +102,6 @@ FCDO advises against all travel to:
 FCDO advises against all but essential travel to the rest of Benishangul-Gumuz region.
 
 Find out more about why [FCDO advises against travel to these regions](/foreign-travel-advice/ethiopia/regional-risks).
-
-## Earthquakes and volcanic activity
-
-On 4 January the Ethiopian authorities began evacuating people from around Mount Dofan in Awash national park, due to increased volcanic activity. Earthquakes have affected the Afar and Amhara regions, and tremors have been felt in the surrounding area, including in Addis Ababa. Please see the [Safety and Security pages](https://www.gov.uk/foreign-travel-advice/ethiopia/safety-and-security) - Extreme weather and natural disasters - Earthquakes for further advice.
 
 ## Support from FCDO
 

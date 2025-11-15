@@ -1,11 +1,11 @@
 {
     "name": "Botswana",
-    "update_reason": "Removal of information about heavy rainfall and flooding ('Warnings and insurance' page).",
+    "update_reason": "Updated information about healthcare in Botswana and the end of the state of public health emergency ('Health' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Botswana/Warnings and insurance.md",
-            "update_date": "2025-11-04T09:28:11+00:00"
+            "update_date": "2025-11-14T16:23:57+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Botswana/Getting help.md"
         }
     ],
-    "update_date": "2025-11-04T09:28:11+00:00"
+    "update_date": "2025-11-14T16:23:57+00:00"
 }

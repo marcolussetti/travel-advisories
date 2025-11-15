@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   30 September 2025
+:   15 November 2025
 
 Updated:
-:   29 September 2025
+:   14 November 2025
 
 Latest update:
-:   New information about the new eVisa system (‘Entry requirements’ page).
+:   New information about a data breach to Somalia’s eVisa system (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/61a63d6be90e07044b1ef4b5/s.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/61a63edcd3bf7f055d72d675/FCDO__TA__035_-_Somalia_Travel_Advice_Ed2__1_.pdf)
+[Download a more detailed map (PDF, 426 KB)](https://assets.publishing.service.gov.uk/media/61a63edcd3bf7f055d72d675/FCDO__TA__035_-_Somalia_Travel_Advice_Ed2__1_.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 

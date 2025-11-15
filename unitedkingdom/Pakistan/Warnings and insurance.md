@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   13 November 2025
+:   15 November 2025
 
 Updated:
-:   13 November 2025
+:   14 November 2025
 
 Latest update:
-:   Update regarding explosion in G-11 sector in Islamabad (Warnings and insurance)
+:   Removal of information about an explosion in the G-11 sector of Islamabad.
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -62,10 +62,6 @@ FCDO advises against all travel to within 10 miles of the Line of Control.
 FCDO advises against all but essential travel to all areas of Sindh Province north of and including the city of Nawabshah.
 
 Find out more about [why FCDO advises against travel to these regions](/foreign-travel-advice/pakistan/regional-risks).
-
-## Explosion in the G-11 sector of Islamabad
-
-An explosion has occurred in the G-11 sector of Islamabad. The local authorities are currently investigating. If you’re in the immediate area, follow the advice of the local authorities and monitor local media.
 
 ## Before you travel
 

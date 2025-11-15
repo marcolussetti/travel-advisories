@@ -1,11 +1,11 @@
 {
     "name": "Pakistan",
-    "update_reason": "Update regarding explosion in G-11 sector in Islamabad (Warnings and insurance)",
+    "update_reason": "Removal of information about an explosion in the G-11 sector of Islamabad.",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Pakistan/Warnings and insurance.md",
-            "update_date": "2025-11-13T04:34:43+00:00"
+            "update_date": "2025-11-14T11:59:43+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Pakistan/Getting help.md"
         }
     ],
-    "update_date": "2025-11-13T04:34:43+00:00"
+    "update_date": "2025-11-14T11:59:43+00:00"
 }

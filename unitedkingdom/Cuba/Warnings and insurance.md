@@ -1,23 +1,23 @@
 # Warnings and insurance
 
 Still current at:
-:   7 November 2025
+:   15 November 2025
 
 Updated:
-:   6 November 2025
+:   14 November 2025
 
 Latest update:
-:   Updated information about Hurricane Melissa ('Warnings and insurance' page).
-
-## Hurricane Melissa
-
-Hurricane Melissa brought exceptional levels of wind and rainfall, resulting in flash floods, landslides and storm surges. Infrastructure and services are severely impacted. The national power grid in Cuba is already under pressure and the impact of hurricane Melissa could lead to further significant power outages.
-
-Stay informed by monitoring local and international weather updates, including from the [Cuban Civil Defence Authorities](https://x.com/cubacivil?s=21), the [INSMET weather forecast centre](http://www.insmet.cu/asp/genesis.asp?TB0=PLANTILLAS&TB1=AVISO2&TB2=0), and the [US National Hurricane Centre](https://www.nhc.noaa.gov/). Follow the guidance of local authorities. See ‘Extreme weather and natural disasters’ on the [‘Safety and security’ page](https://www.gov.uk/foreign-travel-advice/cuba/safety-and-security).
+:   New information on mosquito-borne diseases and the impact of Hurricane Melissa (See the “Vaccine recommendations and Health Risks” in the “Health” page and “Warnings and Insurance” page)
 
 ## Mosquito-borne diseases
 
-There are currently a number of reported instances of Dengue, Oropouche and Chikungunya in Cuba. Take precautions to avoid or prevent mosquito and other insect bites.
+The Cuban government has declared an arbovirus epidemic following the increase in cases of Dengue, Oropouche and Chikungunya in Cuba. Take precautions to avoid or prevent mosquito and other insect bites. Please refer to the Health section for more information.
+
+## Hurricane Melissa
+
+As a result of Hurricane Melissa, infrastructure and services, including access to electricity and water, remain severely impacted in the East of Cuba.
+
+Follow the guidance of local authorities. See ‘Extreme weather and natural disasters’ on the [‘Safety and security’ page](https://www.gov.uk/foreign-travel-advice/cuba/safety-and-security).
 
 ## Power outages
 

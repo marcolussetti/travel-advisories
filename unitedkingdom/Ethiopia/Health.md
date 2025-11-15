@@ -36,6 +36,8 @@ Water-borne diseases are common. Drink or use only boiled or bottled water and a
 
 There is an ongoing outbreak of cholera in the south of Ethiopia, and new cases have been reported in the north-west of the country.
 
+The Ethiopian Ministry of Health has reported cases of Marburg virus in the town of Jinka, southern Ethiopia. You should follow guidance from local authorities.
+
 Altitude sickness is a risk in parts of Ethiopia, including Addis Ababa. [TravelHealthPro’s altitude sickness guidance](https://travelhealthpro.org.uk/factsheet/26/altitude-illness) has more information.
 
 ## Medication

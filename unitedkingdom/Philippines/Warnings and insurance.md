@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   11 November 2025
+:   15 November 2025
 
 Updated:
-:   10 November 2025
+:   14 November 2025
 
 Latest update:
-:   Updated information on Typhoon Fung-Wong
+:   New information about demonstrations expected in Metro Manila on 16-18 November ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/616406778fa8f52980d9301c/FCDO__TA__033_-_Philippines_Travel_Advice_Ed2__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/61640677e90e071976488ec3/FCDO__TA__033_-_Philippines_Travel_Advice_Ed2.pdf)
+[Download a more detailed map (PDF, 1.15 MB)](https://assets.publishing.service.gov.uk/media/61640677e90e071976488ec3/FCDO__TA__033_-_Philippines_Travel_Advice_Ed2.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -32,23 +32,18 @@ This advice is due to terrorist activity and clashes between the military and in
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/philippines/safety-and-security#terrorism).
 
-## Typhoon Fung-Wong
+## Demonstrations
 
-Typhoon Fung-Wong, locally named Uwan, made landfall in the Philippines on 9 November 2025, bringing damaging winds, heavy rainfall and coastal flooding to large parts of Luzon and the Visayas.
+From 16 to 18 November 2025, large-scale demonstrations are expected in several locations across Metro Manila, including:
 
-There are reports of disruption to transport (including domestic flights), electricity and communications in affected areas. The risk of flooding and landslides in affected areas is likely to remain over the coming days.
+* Luneta (Rizal Park)
+* People Power Monument, in Quezon City
 
-If you are in the affected areas:
+Hundreds of thousands of people are expected to participate, and the security situation could deteriorate without notice.
 
-* follow and monitor local weather updates from the [Philippines state weather agency](http://www.pagasa.dost.gov.ph/) and the [Philippines Disaster Risk Reduction and Management Council](http://www.ndrrmc.gov.ph/index.php)
-* follow the advice of local authorities, including any evacuation orders
+Avoid all demonstrations and large gatherings and follow the advice of local authorities. Demonstrations may lead to travel disruption. You should allow extra time for journeys and monitor local media for updates.
 
-If you are planning to travel to Luzon or the Philippines:
-
-* check with your travel provider or accommodation before travelling
-* ensure your travel insurance covers natural disasters
-
-See [Extreme weather and natural disasters](https://www.gov.uk/foreign-travel-advice/philippines/safety-and-security#:~:text=Extreme%20weather%20and%20natural%20disasters).
+See [Safety and security](https://www.gov.uk/foreign-travel-advice/philippines/safety-and-security) for more information on demonstrations and rallies in the Philippines.
 
 ## Tropical storm season
 

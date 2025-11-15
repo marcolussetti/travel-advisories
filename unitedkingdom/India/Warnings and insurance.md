@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 November 2025
+:   15 November 2025
 
 Updated:
-:   10 November 2025
+:   14 November 2025
 
 Latest update:
-:   New information following an explosion at the Red Fort (Lal Qila) Metro Station ('Warnings and insurance' page).
+:   Removal of information about an explosion at the Red Fort (Lal Qila) Metro Station.
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -29,10 +29,6 @@ FCDO advises against all travel to the Union Territory of Jammu and Kashmir (inc
 FCDO advises against all but essential travel to the state of Manipur including the capital, Imphal. Curfews and restrictions continue in parts of Manipur following violent ethnic clashes that broke out in 2023. Intermittent violence continues, including during May to July 2025.
 
 Find out more about [why FCDO advises against travel to these regions](/foreign-travel-advice/india/regional-risks).
-
-## Explosion at the Red Fort (Lal Qila) Metro Station
-
-There has been an explosion at the Red Fort (Lal Qila) Metro Station, New Delhi. If you’re in the immediate area follow the advice of the local authorities and monitor local media.
 
 ## Before you travel
 

@@ -31,7 +31,7 @@ In 2020, the village of Kitaya in the Mtwara region was attacked, close to the b
 
 ## Political situation
 
-Recent elections, including demonstrations and political gatherings across Tanzania (particularly on the islands of Zanzibar) have turned violent and resulted in fatalities.
+Recent elections have seen demonstrations and political gatherings across mainland Tanzania and the islands of Zanzibar, which have turned violent and resulted in fatalities.
 
 Stay away from all demonstrations, rallies, and large crowds.
 

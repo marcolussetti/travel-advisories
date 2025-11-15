@@ -1,11 +1,11 @@
 {
     "name": "Ethiopia",
-    "update_reason": "Updated information about overstaying your visa (\u2018Entry requirements\u2019 page).",
+    "update_reason": "Information on reports of cases of viral haemorrhagic fever in South Ethiopia (Health page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Ethiopia/Warnings and insurance.md",
-            "update_date": "2025-09-10T12:41:35+01:00"
+            "update_date": "2025-11-14T18:04:37+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Ethiopia/Getting help.md"
         }
     ],
-    "update_date": "2025-09-10T12:41:35+01:00"
+    "update_date": "2025-11-14T18:04:37+00:00"
 }

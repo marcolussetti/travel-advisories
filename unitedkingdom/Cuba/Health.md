@@ -20,7 +20,7 @@ At least 8 weeks before your trip:
 * check the latest [vaccine recommendations for Cuba](https://travelhealthpro.org.uk/country/60/cuba#Vaccine_Recommendations)
 * see where to get vaccines and whether you have to pay on the [NHS travel vaccinations page](https://www.nhs.uk/conditions/travel-vaccinations/)
 
-There are currently a number of reported instances of mosquito-borne diseases in Cuba. The U.S. Centers for Disease Control and Prevention (CDC) recently issued a [notice](https://wwwnc.cdc.gov/travel/notices/level2/chikungunya-cuba) (“Practice Enhanced Precautions”) in response to a Chikungunya outbreak in Cuba.
+The Cuban government has declared an arbovirus epidemic following the significant increase in cases of mosquito-borne diseases in Cuba , including Dengue, Oropouche and Chikungunya. The U.S. Centers for Disease Control and Prevention (CDC) has issued a [notice](https://wwwnc.cdc.gov/travel/notices/level2/chikungunya-cuba) (“Practice Enhanced Precautions”) in response to a Chikungunya outbreak in Cuba.
 
 See [what health risks you’ll face in Cuba,](https://travelhealthpro.org.uk/country/60/cuba) including:
 
@@ -29,6 +29,8 @@ See [what health risks you’ll face in Cuba,](https://travelhealthpro.org.uk/
 * malaria
 * Oropouche virus disease
 * chikungunya
+
+You should take precautions to avoid or prevent mosquito and other insect bites.
 
 To control the spread of mosquito-borne diseases, the Cuban authorities may carry out chemical fumigation measures across the island. The chemicals used may cause some discomfort if you come into contact with them.
 

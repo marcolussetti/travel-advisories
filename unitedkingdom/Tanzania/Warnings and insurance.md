@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   8 November 2025
+:   15 November 2025
 
 Updated:
-:   7 November 2025
+:   14 November 2025
 
 Latest update:
-:   FCDO no longer advises against all but essential travel to the whole of Tanzania but continues to advise against all but essential travel to any area within 20k of the Tanzanian border with the Cabo Delgado province of Mozambique. Updates to reflect the possibility of further demonstrations, and advice given to British High Commission staff to limit unnecessary travel outside of Dar es Salaam ('Warnings and insurance' and 'Regional risks' pages).
+:   Updated reference to the risk of political demonstrations and related violence, including around national holidays and updated language to reflect the potential for violence during election seasons in mainland Tanzania and Zanzibar (‘Warnings and insurance’ and ‘Safety and security’ pages).
 
 ![](https://assets.publishing.service.gov.uk/media/690e25f165da22dd57729905/FCDO__TA__086_-_Tanzania_Travel_Advice_Ed1__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/690e25f1896fad804b050fbf/FCDO__TA__086_-_Tanzania_Travel_Advice_Ed1.pdf)
+[Download a more detailed map (PDF, 894 KB)](https://assets.publishing.service.gov.uk/media/690e25f1896fad804b050fbf/FCDO__TA__086_-_Tanzania_Travel_Advice_Ed1.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -20,7 +20,7 @@ Your travel insurance could be invalidated if you travel against advice from the
 
 ### Tanzania
 
-FCDO advises against all but essential travel to any area within 20k of the Tanzanian border with the Cabo Delgado province of Mozambique, due to attacks by groups linked with Islamic extremism.
+FCDO advises against all but essential travel to any area within 20km of the Tanzanian border with the Cabo Delgado province of Mozambique, due to attacks by groups linked with Islamic extremism.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/tanzania/regional-risks).
 
@@ -28,13 +28,7 @@ Find out more about [why FCDO advises against travel](/foreign-travel-advice/tan
 
 General elections took place in Tanzania on 29 October.
 
-Following violent protests and unrest in some parts of the country, there have been fatalities and injuries. Although the political situation is now calmer, further demonstrations including strong responses by security forces are possible. Curfews may remain in some parts of the country such as Mbeya and Mwanza. Incidents could occur any time and location, and may turn violent again.
-
-British High Commission staff have been advised to limit unnecessary travel outside of Dar es Salaam.
-
-Groups of tourists have been targeted and detained by local police for allegedly interfering with or inciting anti-government protests.
-
-Local transport continues to see some disruption. Check with your travel provider for the latest information before travelling to airports or other transport hubs.
+Protests and the resulting security response led to fatalities and injuries in many areas. Although the political situation is now calmer, further demonstrations including violent responses by security forces are possible, particularly around national holidays. Incidents could occur at any time and location and may turn violent again.
 
 British nationals are advised to:
 
@@ -42,14 +36,7 @@ British nationals are advised to:
 * follow the advice of the local authorities
 * stay away from all demonstrations, rallies, and large crowds
 
-There is some disruption to mobile networks, the internet and social media.
-
-If you are a British national in need of consular assistance, you can call us 24/7 selecting the option for ‘Consular services for British nationals’:
-
-* on +255 22 229 0000
-* on +44 (0) 20 7008 5000
-
-You can [sign up for Travel Advice email alerts](https://www.gov.uk/foreign-travel-advice/tanzania/email-signup).
+There is some ongoing disruption to mobile networks, the internet and social media.
 
 ## Before you travel
 

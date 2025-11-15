@@ -6,7 +6,7 @@ You should also read FCDO’s [overall travel advice](/foreign-travel-advice/tan
 
 ## Mtwara Province
 
-FCDO advises against all but essential travel to any area within 20k of the Tanzanian border with the Cabo Delgado province of Mozambique, due to attacks by groups linked with Islamic extremism.
+FCDO advises against all but essential travel to any area within 20km of the Tanzanian border with the Cabo Delgado province of Mozambique, due to attacks by groups linked with Islamic extremism.
 
 The presence of groups linked to Islamic extremism in Cabo Delgado is creating cross-border tensions and instability. There is a risk of violent attacks. An attack on Kitaya village in October 2020 was claimed by groups linked to Islamic extremism operating from northern Mozambique.
 

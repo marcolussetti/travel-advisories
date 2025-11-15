@@ -1,11 +1,11 @@
 {
     "name": "Cuba",
-    "update_reason": "Updated information about Hurricane Melissa ('Warnings and insurance' page).",
+    "update_reason": "New information on mosquito-borne diseases and the impact of Hurricane Melissa (See the \u201cVaccine recommendations and Health Risks\u201d in the \u201cHealth\u201d page and \u201cWarnings and Insurance\u201d page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Cuba/Warnings and insurance.md",
-            "update_date": "2025-11-06T11:49:08+00:00"
+            "update_date": "2025-11-14T21:42:56+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Cuba/Getting help.md"
         }
     ],
-    "update_date": "2025-11-06T11:49:08+00:00"
+    "update_date": "2025-11-14T21:42:56+00:00"
 }

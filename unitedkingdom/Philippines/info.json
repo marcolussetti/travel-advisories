@@ -1,11 +1,11 @@
 {
     "name": "Philippines",
-    "update_reason": "Updated information on Typhoon Fung-Wong",
+    "update_reason": "New information about demonstrations expected in Metro Manila on 16-18 November ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Philippines/Warnings and insurance.md",
-            "update_date": "2025-11-10T07:01:13+00:00"
+            "update_date": "2025-11-14T16:19:55+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Philippines/Getting help.md"
         }
     ],
-    "update_date": "2025-11-10T07:01:13+00:00"
+    "update_date": "2025-11-14T16:19:55+00:00"
 }
