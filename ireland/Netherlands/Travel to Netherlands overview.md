@@ -18,7 +18,7 @@ Citizens can also follow the Embassy on social media (@IrelandinNL on [**X**](ht
 
 ### **Temporary Reintroduction of Land Border Controls**
 
-The Netherlands has implemented temporary border controls at its internal borders with Belgium and Germany to combat irregular migration and cross-border crime. These controls, carried out by the Royal Netherlands Marechaussee, commenced on 9 December 2024 for initial period of 6 months. These controls have now been extended and will remain in place until 9 December 2025.
+The Netherlands has implemented temporary border controls at its internal borders with Belgium and Germany to combat irregular migration and cross-border crime. These controls, carried out by the Royal Netherlands Marechaussee, commenced on 9 December 2024 for initial period of 6 months. These controls have now been extended and will remain in place until 8 June 2026.
 
 Travellers should be aware of potential delays and additional documentation requirements during this period. Further information can be found on the [**website**](https://english.marechaussee.nl/topics/temporary-reintroduction-of-border-control) of the Royal Netherlands Marechaussee.
 

@@ -19,7 +19,7 @@ There are reports of bag snatching on trains and trams, including those that ope
 Crime remains relatively low in the Netherlands but you should take sensible precautions:
 
 * Do not carry credit cards, travel tickets and money together - leave spare cash and valuables in a safe place
-* Bring photocopies of your passport when travelling and leave one at your accommodation
+* Bring photocopies of your passport when travelling and leave one at your accommodation. Also keep a digital copy saved on your phone.
 * Avoid showing large sums of money in public and do not use ATMs after dark, especially alone. Check no one has followed you
 * Keep a close eye on personal belongings and hold on to them in public places such as hotel lobbies, internet cafes, train and bus stations
 * Avoid falling asleep in public or on public transport

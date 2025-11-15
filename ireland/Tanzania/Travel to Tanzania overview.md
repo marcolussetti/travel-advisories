@@ -2,31 +2,13 @@
 
 ### **Security Status**
 
-Avoid Non-Essential Travel
+High Degree of Caution
 
-### Travel Alert
+### **Travel Alert**
 
-General elections took place in Tanzania on 29 October 2025. There have been several days of country-wide unrest and outbreaks of violence. During this time, there was an internet blackout, which severely disrupted communications.
+Following the general election on 29 October, there were several days of country-wide unrest and violent outbreaks, along with an internet blackout.
 
-The situation in Tanzania is currently calm and the internet has been restored. There remains a heightened presence of security forces, including military and police checkpoints, in some areas of the country.
-
-Irish citizens are advised to:
-
-- Stay alert to your surroundings
-
-- Carry ID at all times
-
-- Plan travel routes in advance
-
-- Avoid all protests, demonstrations, rallies or crowds
-
-- Monitor local media for updates on the situation within the country
-
-- Follow the advice of the local authorities
-
-If you are an Irish citizen in need of consular assistance, you can call the Embassy Duty Officer 24/7 on +255 754 783 455
-
-If you wish to contact us on behalf of a relative who is in Tanzania, please reach out to the Department of Foreign Affairs by phone **00353 1 4082000** or on the following webpage: [Contact Us - Department of Foreign Affairs](https://www.dfa.ie/contact-us/)
+The situation has now stabilised, and internet has been restored. Irish citizens are advised to monitor local media for updates and follow the advice of local authorities.
 
 ### **General Travel Advice**
 
