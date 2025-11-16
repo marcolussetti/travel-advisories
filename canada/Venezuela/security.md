@@ -2,6 +2,15 @@
 
 ## Safety and security
 
+### Decree on External Commotion
+
+On September 29, 2025, a Decree on External Commotion was signed. A state of external commotion grants additional powers to authorities and could lead to the sudden closure of Venezuelan borders and airspace. The current situation in Venezuela is tense. The Embassy of Canada to Venezuela closed in 2019 and our ability to provide consular assistance to Canadians in Venezuela is severely limited and done remotely.
+
+If you choose to travel to Venezuela despite this advisory :
+
+* monitor developments closely through local and international media
+* register or update your contact information with the [Registration of Canadians abroad](https://travel.gc.ca/travelling/registration) service to receive the latest information from the Government of Canada
+
 ### Border areas
 
 #### Guyana
