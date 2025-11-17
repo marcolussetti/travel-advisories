@@ -4,12 +4,16 @@
 
 ### Security situation
 
-In July 2024, widespread violence began in Bangladesh, resulting in thousands of deaths. Although the violent clashes have largely ended, the situation remains volatile.
+Since July 2024, the security situation has been volatile in Bangladesh.
 
-If you are in Bangladesh, expect the following:
+The verdict in the trial of the former Prime Minister is expected on November 17, 2025, in Dhaka. Local authorities have enhanced security measures in response to rising violence, including crude bomb detonations and arson attacks.
 
-* a military presence in major city centres
-* traffic delays and increased commuting times
+If you are in Bangladesh:
+
+* expect a significant presence of security forces in major city centres and traffic disruptions
+* be prepared to show identification at security checkpoints
+* follow the advice of local authorities
+* avoid all demonstrations and gatherings
 
 [For more information on demonstrations](#demonstrations)
 
