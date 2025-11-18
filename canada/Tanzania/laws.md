@@ -29,9 +29,9 @@ Local authorities may request to see your identification at any time.
 * Always carry photo identification
 * Keep a photocopy of your passport in a safe place in case it’s lost or seized
 
-### Photography and drones
+### Photography, drones and electronic devices
 
-Photography of military installations is forbidden. Individuals have been detained and/or had their cameras and film confiscated for taking pictures of public structures and buildings, including:
+Photographing military installations is forbidden. Individuals have been detained and/or had their cameras and film confiscated for taking pictures of public structures and buildings, including:
 
 * hospitals
 * schools
@@ -39,9 +39,11 @@ Photography of military installations is forbidden. Individuals have been detain
 * industrial sites
 * airports
 
-You must obtain a permit to import a drone into Tanzania.
-
 Always ask permission before photographing individuals.
+
+Police have the authority to search electronic devices, including phones. This may involve examining images and videos that could be considered sensitive by local authorities. Possession of such content could lead to detention.
+
+You must obtain a permit to import a drone into Tanzania.
 
 [Information on drone importation](https://tcaa.go.tz/page?p=RPAS&mn=71&token=95d4551c6f3ea543867b401be335cfbe682e6e7ae90a2042186a2bcaf397caeb23) – Tanzanian Civil Aviation Authority
 

@@ -6,25 +6,24 @@
 
 On October 29, 2025, general elections took place in Tanzania and Zanzibar.
 
-Violent demonstrations occurred throughout the country, including in Dar es Salaam. There are casualties.
+Violent demonstrations occurred throughout the country, including in Dar es Salaam. The violence led to a large number of casualties.
+
+The possibility of renewed demonstrations and firm responses from security forces remains.
 
 Intermittent disruptions to Internet access, including social media and messaging applications, may continue.
 
 Authorities have strengthened security measures and security forces are present on the streets.
 
+Movement restrictions and military checkpoints may be implemented without notice.
+
 Police have the authority to search electronic devices, including phones. This may involve examining images and videos that could be considered sensitive by local authorities. Possession of such content could lead to detention.
 
 Foreign nationals may be subject to increased attention from local security forces, and there have been reports of temporary detentions. Travellers are advised to carry valid identification at all times and to comply with local regulations.
 
-Curfews have been lifted in most areas, including the city of Dar es Salaam. Movement restrictions and military checkpoints are disrupting traffic and public transportation is affected.
-
-* Access to Julius Nyerere International Airport in Dar es Salaam is controlled by military checkpoints
-* Ferries between Dar es Salaam and Zanzibar are running on adjusted schedules
-* SGR trains are running on reduced schedules
+Curfews have been lifted in most areas, including in Dar es Salaam, but may be reinstated with little notice.
 
 If you are in Tanzania:
 
-* contact your airline to confirm your flight and proceed to the airport only if it is safe to do so
 * avoid demonstrations and large gatherings
 * monitor the media for the latest information
 * follow the instructions of local authorities, including orders on movement restrictions and the sharing of videos or photos deemed sensitive
@@ -43,7 +42,7 @@ Exercise a high degree of caution when travelling near refugee camps in northwes
 
 ### Demonstrations
 
-Demonstrations can occur anywhere across the country and sometimes on short notice. Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation.
+Demonstrations can occur anywhere across the country and sometimes on short notice. Even peaceful demonstrations can turn violent at any time. Protests following the October 29, 2025, election resulted in fatalities. They can also lead to disruptions to traffic and public transportation.
 
 * Avoid areas where demonstrations and large gatherings are taking place
 * Follow the instructions of local authorities
@@ -318,7 +317,7 @@ Power outages occur regularly across the country. Local authorities may impose r
 
 ### Telecommunications
 
-Cellular coverage is usually good in main cities but may be limited outside of urban areas.
+Cellular coverage is usually good in main cities but may be limited outside urban areas. During periods of civil unrest, authorities have at times restricted access to the Internet and other telecommunications services. These disruptions can affect mobile networks, messaging applications and access to online platforms, potentially impacting your ability to communicate or access information.
 
 ### Public transportation
 

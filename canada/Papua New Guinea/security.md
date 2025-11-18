@@ -2,20 +2,6 @@
 
 ## Safety and security
 
-### Local government elections
-
-Local-level Government (LLG) elections are scheduled to take place throughout the country in September and October 2025.
-
-Demonstrations and social unrest may occur before, during and after the elections. The security situation can deteriorate without warning.
-
-If you are in Papua New Guinea:
-
-* avoid demonstrations and large gatherings
-* monitor local media for the latest information
-* follow the instructions of local authorities
-
-[More information on demonstrations](https://travel.gc.ca/destinations/papua-new-guinea#demonstrations)
-
 ### Escalating tensions in the Highlands Region
 
 Since August 2024, inter-tribal armed violent clashes have intensified in the Porgera Valley of Enga Province. The conflict has led to casualties and the destruction of property. The clashes spread to the neighbouring provinces of Hela, Southern Highlands and Western Highlands, including the city of Mount Hagen, where tensions remain high.

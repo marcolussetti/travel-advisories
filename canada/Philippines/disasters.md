@@ -2,27 +2,6 @@
 
 ## Natural disasters and climate
 
-### Typhoon Fung-Wong (Uwan)
-
-On November 9, 2025, Typhoon Fung-Wong made landfall on the eastern coast of Luzon and swept across the island as a very strong typhoon.
-
-The storm brought heavy rainfall and violent winds, resulting in flooding and significant disruptions to the following essential services:
-
-* transportation
-* power distribution
-* water and food supply
-* telecommunications networks
-* emergency services
-* medical care
-
-If you are in an affected area:
-
-* exercise caution
-* monitor local news and weather reports
-* follow the instructions of local authorities, including evacuation orders
-
-[Tropical Cyclone Bulletin](https://www.pagasa.dost.gov.ph/tropical-cyclone/severe-weather-bulletin/1) – Philippine Atmospheric, Geophysical, and Astronomical Services Administration (PAGASA)
-
 ### Climate change
 
 Climate change is affecting the Philippines. Extreme and unusual weather events are becoming more frequent. Monitor local news to stay informed on the current situation.
