@@ -2,7 +2,7 @@
 
 ### Passport
 
-Irish citizens require a passport with minimum 150 days validity to enter Türkiye. Passport cards are **not** accepted in Türkiye.
+Irish citizens require a passport with minimum 150 days validity to enter Türkiye. Irish passport cards are **not** accepted in Türkiye.
 
 Visitors should check their passports in plenty of time before travel. The Embassy cannot intervene on citizens’ behalves if you do not meet the entry requirements. If your passport needs to be renewed, please use our [**Online Passport Renewal System**](https://www.ireland.ie/en/dfa/passports/passport-online/).
 

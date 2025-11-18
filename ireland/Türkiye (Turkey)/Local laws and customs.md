@@ -4,19 +4,23 @@ Remember, the local laws apply to visitors and it is your responsibility to foll
 
 ### **Local Customs**
 
-Türkiye is a secular state with a majority Muslim population. Respect local traditions, customs, and religions, which can vary regionally.
+Türkiye is a secular state with a majority Muslim population. Respect local traditions, customs, laws and religions at all times, which can vary regionally.
 
-In many areas popular with tourists, the dress code in Türkiye is similar to that in Europe. However, dress style is more conservative in rural areas, small towns and some neighbourhoods of larger cities. You should dress modestly if visiting a mosque or a religious shrine (long trousers or dress and women should wear a headscarf).
+In many areas popular with tourists, the dress code in Türkiye is similar to in Europe. However, dress style can be more conservative in rural areas, small towns and some neighbourhoods of larger cities.
 
 Alcohol is available but public drunkenness is frowned upon.
 
 ### **Illegal Drugs**
 
-Türkiye has strict laws against the use, possession or trafficking of illegal drugs. If convicted of any of these offences, expect to receive a heavy fine and a prison sentence of up to 15 years. The Embassy can provide contact information for English-speaking lawyers, but cannot get involved in legal cases.
+Türkiye has strict laws against the use, possession or trafficking of illegal drugs. If convicted of any of these offences, expect to receive a heavy fine and a prison sentence of up to 15 years. The Embassy can provide contact information for English-speaking lawyers, but cannot get involved in legal cases.
+
+### **LGBT**
+
+Homosexual activity is legal in Türkiye, but public displays of affection may be frowned upon. Caution and discretion are advised at all times.
 
 ### **Overstaying Visas**
 
-Overstaying your visa can result in heavy fines and/or a ban on re-entering Türkiye for up to 5 years, depending on the length of the overstay. Citizens would need to apply for a visa from the nearest Turkish Embassy or Consulate before returning to Türkiye. Departing Türkiye without paying the relevant fine will lead to an automatic five year ban on re-entry.
+Overstaying your visa can result in heavy fines and/or a ban on re-entering Türkiye for up to 5 years, depending on the length of the overstay. Citizens would need to apply for a visa from the nearest Turkish Embassy or Consulate before returning to Türkiye. Departing Türkiye without paying the relevant fine will lead to an automatic five-year ban on re-entry.
 
 Visa requirements for Irish citizens are a matter for the Turkish immigration authorities and the Irish Embassy cannot intervene in individual cases relating to visas and overstays.
 

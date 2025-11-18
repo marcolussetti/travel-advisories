@@ -32,7 +32,7 @@ For more information on visas, passports and residence permit requirements, plea
 
 ### **Demonstrations and Protests**
 
-Large demonstrations have taken place in Istanbul and other Turkish cities since March 19 2025. A ban on demonstrations is currently in place and a number of restrictions on transport and movement within the city have been in effect.
+Large demonstrations have taken place in Istanbul and other Turkish cities. A ban on demonstrations is currently in place and a number of restrictions on transport and movement within the city have been in effect.
 
 Avoid all protests and demonstrations and minimise time spent in crowded areas, particularly those frequented by foreigners. Carry an ID or photocopy of passport at all times and present to security officers if requested. Please be aware that police in Türkiye can take measures such as the use of tear gas to control protesters. It is advisable to carry a charged mobile phone with connectivity at all times.
 

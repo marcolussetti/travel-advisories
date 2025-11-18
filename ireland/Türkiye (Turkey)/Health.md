@@ -8,7 +8,7 @@ It is essential that appropriate travel insurance is in place. **A European Heal
 
 Irish citizens travel to Türkiye each year for the purpose of medical services, including surgical, dental and cosmetic procedures. **Individuals should be aware that** **all** **surgery contains an element of risk and** the Department of Foreign Affairs and Trade is aware of citizens who have experienced complications in the course of their treatment in Türkiye, and a number who have died.
 
-Irish citizens considering treatment in Türkiye are advised to carry out independent research regarding the credentials of any potential service provider. A list of accredited facilities is available on the Turkish Government’s [**Health Türkiye website**](https://healthturkiye.com/homepage), and the Health Türkiye call centre, which provides information in English, can be reached by calling +90 850 288 3838.
+Irish citizens considering treatment in Türkiye are advised to carry out independent research regarding the credentials of any potential service provider. A list of accredited facilities is available on the Turkish Government’s Health Türkiye [**website**](https://www.healthturkiye.com/homepage). The Health Türkiye call centre provides information in English and its free-of-charge support services can be reached 24/7 by calling +90 850 288 3838.
 
 Individuals should inform themselves of both the risks and benefits of any procedures, and are advised to discuss their plans carefully with their own doctor, dentist and/or hospital specialist before committing to any procedure abroad. They should also read the contract/agreement in full and ensure that they understand their plan of care.
 

@@ -16,7 +16,7 @@ Stay away from military sites. Taking photos of, or near, military or security i
 
 ### **Protests and Demonstrations**
 
-Large demonstrations have taken place in Istanbul and other Turkish cities since March 19 2025. A ban on demonstrations is currently in place and a number of restrictions on transport and movement within the city have been and may come into effect. Avoid all protests and demonstrations and minimise time spent in crowded areas, particularly those frequented by foreigners, follow local security advice, and monitor local media.
+Large demonstrations have taken place in Istanbul and other Turkish cities. A ban on demonstrations is currently in place and a number of restrictions on transport and movement within the city have been and may come into effect. Avoid all protests and demonstrations and minimise time spent in crowded areas, particularly those frequented by foreigners, follow local security advice, and monitor local media.
 
 Always keep informed of what is going on around you by monitoring local media and staying in contact with your hotel or tour organiser.
 
@@ -33,7 +33,7 @@ Take heed of local tour operator representatives’ advice, and wherever you are
 * Do not carry credit cards, travel tickets and money together - leave spare cash and valuables in a safe place.
 * Do not carry your passport unless absolutely necessary, but carry a photocopy of it in case stopped by police. Leave a copy of your passport (and travel and insurance documents) with family or friends at home. Ensure that at least one family member in Ireland is aware of your location and travel plans in Türkiye, should an emergency arise communications by email or mobile phone can be difficult.
 * Avoid showing large sums of money in public and do not use ATMs after dark, especially if alone. Check no one has followed you.
-* Keep a close eye on personal belongings and hold on to them in public places such as internet cafes, train and bus stations.
+* Keep a close eye on personal belongings and hold on to them in public places such as trains and bus stations.
 * Avoid dark and unlit streets and stairways, arrange to be picked up or dropped off as close to your hotel or apartment entrance as possible.
 * Do not leave valuables, or bags that may appear to contain valuables, visible in parked cars.
 * Remain vigilant when frequenting bar and nightclubs.
@@ -56,7 +56,7 @@ In a small number of cases, consumption of counterfeit alcohol has caused hospit
 
 ### **Driving**
 
-If planning to drive in Türkiye, be careful. While the standard of roads in Türkiye has greatly improved in recent years, traffic accidents are common, particularly at night. Road safety standards are low, particularly outside towns and cities. Accidents are frequent and are often caused by poor driving, badly maintained vehicles and inadequate lighting. Pedestrians should also exercise caution at all times, including at zebra crossings, for example, as drivers rarely stop to allow pedestrians to cross.
+If planning to drive in Türkiye, be careful. Road traffic accidents are common, particularly at night. Road safety standards are low, particularly outside towns and cities. Accidents in Türkiye are frequent and are often caused by poor driving, badly maintained vehicles and inadequate lighting. Pedestrians should also exercise caution at all times, including at zebra crossings, for example, as drivers rarely stop to allow pedestrians to cross.
 
 If you want to drive:
 
@@ -69,7 +69,7 @@ If hiring a vehicle, we advise not to hand over your passport as a form of secur
 
 ### **Taxis**
 
-It is advisable to use taxis ordered by hotels or directly from a taxi kiosk where possible. In Istanbul and other tourist areas, always ensure the taxi meter is on at the beginning of your journey.
+It is advisable to use taxis ordered by hotels, order directly from a taxi kiosk or use a ride-hailing app where possible. In Istanbul and other tourist areas, always ensure the taxi meter is on at the beginning of your journey. Be aware that some taxis do not have working seat belts.
 
 ### **Extreme Sports**
 
