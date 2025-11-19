@@ -1,7 +1,7 @@
 {
     "name": "Mexico",
-    "update_reason": "Risk levels \u2013 exercise a high degree of caution in certain parts of Mazatl\u00e1n; Safety and security \u2013 updated information on violent clashes in Sinaloa",
-    "update_date": "2025-11-13T15:58:00",
+    "update_reason": "Editorial change",
+    "update_date": "2025-11-18T14:08:00",
     "sections": {
         "risk": "canada/Mexico/risk.md",
         "security": "canada/Mexico/security.md",

@@ -10,6 +10,9 @@ Learn about what you should do and how we can help if you are [arrested or detai
 
 Penalties for possession, use or trafficking of illegal drugs are severe. Convicted offenders can expect lengthy prison sentences.
 
+* Pack your own luggage and monitor it closely at all times
+* Never transport other people’s packages, bags or suitcases
+
 [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
 
 ### Dual citizenship
@@ -51,7 +54,7 @@ However, 2SLGBTQI+ persons could be discriminated against based on their sexual 
 
 ### Investments
 
-If you plan on buying property, or making other investments in Guatemala, seek legal advice in Canada and in Guatemala. Do so before making commitments. Related disputes could take time and be costly to resolve.
+If you plan on buying property or making other investments in Guatemala, seek legal advice in Canada and in Guatemala. Do so before making commitments. Related disputes could take time and be costly to resolve.
 
 ### Dress and behaviour
 
@@ -65,7 +68,7 @@ To avoid offending local sensitivities:
 
 ### Imports and exports
 
-Customs authorities may enforce strict regulations concerning import or export of items such as antiquities and artefacts.
+Customs authorities may enforce strict regulations concerning the import or export of items such as antiquities and artefacts.
 
 ### Photography
 
@@ -80,7 +83,7 @@ Don’t photograph children and women, especially in areas with Indigenous prese
 
 ### Driving
 
-You can drive in Guatemala with your valid Canadian driver’s licence. You should carry an international driving permit.
+You can drive in Guatemala with your valid Canadian driver’s licence. You should carry an International Driving Permit.
 
 If you are involved in a driving accident that results in injury or death, you may be taken into custody until responsibility for the accident is determined.
 
@@ -88,8 +91,8 @@ If you are involved in a driving accident that results in injury or death, you m
 
 ### Money
 
-The currency in Guatemala is the Guatemalan quetzal (GTQ).
+The currency of Guatemala is the Guatemalan quetzal (GTQ).
 
 You cannot exchange Canadian dollars in Guatemala. Some ATMs will accept Canadian debit cards with a four-digit PIN. Canadian debit cards with a five-digit PIN are not accepted.
 
-U.S. dollars may be exchanged for local currency at most major banks.
+U.S. dollars may be exchanged for local currency at most major banks..

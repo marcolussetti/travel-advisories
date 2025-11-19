@@ -2,115 +2,123 @@
 
 ## Safety and security
 
+### Border areas
+
+Border areas often see higher levels of criminal activity and violence. Crime rates are high near all border crossings in Guatemala but are worse near unofficial ones.
+
+Drug-related armed attacks occur in all departments close to borders. The southwestern department of San Marcos at the Guatemala-Mexico border and the area near the border with Belize are especially affected.
+
+There is a heightened security presence at the official Guatemala-Mexico border crossings due to increased migration flows. Military and police forces conduct random vehicle searches along all borders. Wait times can be long.
+
+Many border crossings close for lunch and at dusk.
+
+If you cross a land border:
+
+* cross only at official borders crossings
+* account for possible delays
+* avoid travelling after dark
+* always remain vigilant
+
 ### Crime
 
 #### Violent crime
 
-Violent crime, including homicides, is common in Guatemala. Due to a lack of resources within the police force, arrest and detention rates are quite low. There have been incidents involving deceptive police officers who commit petty crimes, while other officers have reportedly been involved in sexual assault cases.
-
-Most incidents are drug- and gang-related. They occur throughout the country, including in tourist destinations. Travellers have been attacked when visiting volcanoes and other tourist sites. Rifles and handguns are very common.
-
-Criminals perceive foreigners as wealthy. As a result, travellers are often victims of robbery and carjacking. They have also been subject to armed assault and sexual assault, including rape.
-
-Incidents of armed robbery occur daily on public buses. Buses are frequently targeted by gangs, who may hurl grenades or fire shots as a way of ensuring compliance with their demands or to settle accounts. Criminals have attacked drivers, fare collectors and passengers.
-
-Due to very high levels of violent crime, you should avoid non-essential travel to certain:
-
-* zones in Guatemala City
-* municipalities in Guatemala and Escuintla departments
-* departments along the borders with El Salvador and Honduras
-* highways throughout the country
-
-Crimes that occur in these areas include:
+Violent crime occurs frequently throughout Guatemala. Incidents include:
 
 * murders
+* armed robberies
 * kidnappings
-* sexual assaults
+* assaults, including sexual and physical assaults
+* carjackings
 
-#### Petty crime
-
-Petty crime, such as pickpocketing and purse snatching, is prevalent in urban and tourist areas, especially in:
-
-* markets
-* national parks
-* volcanoes
-* other crowded places
-
-Crime tends to increase during the holiday seasons.
-
-Schemes often involve some form of distraction. Criminals frequently operate in groups and, increasingly, on motorcycles. Typically, two men on a motorcycle accost a pedestrian or driver stuck in traffic and demand valuables.
+While most crimes are drug- and gang-related, travellers have been attacked, sometimes at tourist sites. Criminals perceive foreigners as wealthy, making them targets of violent crime.
 
 Some criminals also pose as police officers. They may tell you they are drug enforcement officers and then take you to a side road where they steal everything from you. Victims who have resisted have been injured or killed.
 
-If travelling to Guatemala:
+Due to a lack of resources within the police force, arrest and detention rates are quite low. There have been incidents involving police officers who commit petty crimes, while other officers have been linked to human trafficking and drugs.
 
-* don’t display signs of affluence, especially upon arrival at the airport, where travellers have been followed and robbed or carjacked en route to Guatemala City and Antigua
-* keep laptop computers, mobile phones and other personal electronic devices out of sight, and refrain from using them in public
-* ensure that your belongings, including passports and other travel documents, are secure at all times
-* carry only a copy of the identification page of your passport and enough money for the day
-* if threatened by robbers, do not resist: hand over your valuables and cash immediately
+During your stay:
 
-#### Express kidnappings
+* always be aware of your surroundings
+* avoid walking in isolated areas after dark
+* travel in groups
+* avoid using your cell phone in public
 
-Express kidnappings have occurred. The kidnappers usually force their victims to withdraw funds from an ATM or to arrange for family or friends to pay the ransom. Criminal taxi drivers often use this ploy. They first pick up the victim and then stop to pick up associates.
+#### Petty crime
 
-* Be cautious of strangers
-* Avoid travelling alone, especially at night
-* Avoid isolated areas and secondary roads
-* Avoid low-cost hotels with poor security
-* Avoid excessive alcohol and narcotic consumption, as it can make you a more vulnerable target for criminals
+Petty crime, such as pickpocketing and bag snatching, occurs frequently, especially:
 
-### Border areas
+* in urban areas
+* at markets
+* at national parks
+* around volcanoes
+* close to airports
 
-Border areas often see higher levels of criminal activity and violence. Crime rates are high near all border crossings in Guatemala, but are worse near unofficial ones.
+Petty crime tends to increase before, during and after celebrations.
 
-Drug-related armed attacks occur in departments close to all borders. The southwestern department of San Marcos at the Guatemala-Mexico border and the zone at the border with Belize are especially affected.
+Criminals are increasingly using distraction tactics and operating in groups, often on motorcycles. A common method involves two individuals on a motorcycle approaching pedestrians or drivers stopped in traffic to demand cash and valuables. These individuals may be armed with pistols or knives. If victims resist, there is a serious risk of injury, including being shot or stabbed.
 
-There is a heightened security presence at the official Guatemala-Mexico border points due to increased migration flows. Military and police forces conduct random vehicle searches along all borders. Wait times may be long.
+During your trip:
 
-Many border posts close for lunch and at dusk.
+* keep your personal belongings, including your passport and other travel documents, in a secure place
+* keep a digital copy of your identification and travel documents
+* do not show signs of affluence or wear expensive jewellery, especially upon arrival at the airport, where travellers have been followed and robbed or carjacked en route to Guatemala City and Antigua
+* do not carry large sums of cash or valuables unnecessarily
+* do not resist an attack
+* stay in accommodations with adequate security measures
 
-* Travel only through official border crossings
-* Allow enough time for border formalities
-* Cross only during the daytime and allow enough time to reach your destination or a major city before dark
+### Express kidnappings
+
+Express kidnappings occur occasionally.
+
+Criminals kidnap the victim from the street or a taxi and force the person to withdraw funds from an ATM. The victim is sometimes held overnight so that a second withdrawal can be made the next day.
+
+These kidnappings occur throughout the country and are often committed by organized criminals. They are sometimes committed by taxi drivers.
+
+* Only use reputable taxi companies or ride-sharing applications
+* Avoid hailing taxis on the street
+* If you're threatened by armed criminals, stay calm and do not resist
+* Do not accept rides from new acquaintances or strangers
 
 ### 2SLGBTQI+ persons
 
-Discrimination against 2SLGBTQI+ persons is common.
+Acts of violence have been committed against 2SLGBTQI+ persons.
 
-There have been violent attacks against 2SLGBTQI+ persons.
+Avoid public displays of affection.
 
 [Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
 
 ### Fraud
 
-Credit card and ATM fraud occurs.
+Credit and debit card as well as ATM fraud occurs.
 
-When using debit or credit cards:
+When using your debit or credit card:
 
 * pay careful attention when others are handling your cards
-* use ATMs located in public areas or inside a bank or business
+* use ATMs located inside a bank or business
 * avoid using card readers with an irregular or unusual feature
 * cover the keypad with one hand when entering your PIN
 * check for any unauthorized transactions on your account statements
+* do not withdraw large sums of cash
 
 [Overseas fraud](https://travel.gc.ca/travelling/health-safety/overseas-fraud)
 
 ### Demonstrations
 
-Demonstrations take place frequently. Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation.
+Demonstrations occur frequently.
 
-If you participate in demonstrations as a foreigner, you may face detention, deportation, and the denial of future entry into Guatemala.
+Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation.
+
+If you participate in demonstrations as a foreigner, you may face detention, deportation and the denial of future entry into Guatemala.
 
 * Avoid areas where demonstrations and large gatherings are taking place
 * Follow the instructions of local authorities
-* Monitor local media for up-to-date information on the situation
+* Monitor local media for information on ongoing demonstrations
 
 #### Useful links
 
 * [Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
 * [Protests and blockades listed by date](https://docs.google.com/spreadsheets/d/e/2PACX-1vTP3L7L40wPzWQyqeQFfxGogSqdBYdUV3Wy9sfLs3sFlkiSb5KKCyGJ2ptGQXtQH5dTqEHon-9MwBhS/pubhtml?gid=0&single=true) – Government of Guatemala (Spanish only)
-* [Tourist assistance website](https://inguat.gob.gt/images/Asistencia-turistica/assistur-english.html) – Instituto Guatemalteco de Turismo (INGUAT)
 
 ### Vigilante justice
 
@@ -118,15 +126,15 @@ Vigilante justice has increased in rural areas, resulting in lynchings of suspec
 
 ### Photography
 
-Many people in Guatemala fear that children are being kidnapped for illegal adoption or sexual abuse. Photographing children and women, especially in areas with Indigenous presence, may result in exacerbating this fear. Violent incidents involving foreigners taking photos have occurred.
+Many people in Guatemala fear that children are being kidnapped for illegal adoption or sexual abuse. Photographing children and women, especially in areas with Indigenous presence, may result in exacerbating this fear. There have been violent incidents involving foreigners taking photos.
 
 Avoid approaching or photographing children and women, especially in Indigenous communities.
 
 ### Women’s safety
 
-Women travelling alone may be subject to some forms of harassment and verbal abuse.
+Women travelling alone may be subject to some forms of harassment or verbal abuse.
 
-Incidents of sexual assault have also occurred, including on buses. Some tourist service-providers build trusting relationships with female tourists and then sexually assault them.
+Sexual assaults have also occurred, including on buses. Some tourist service providers, including individuals posing as tour guides, build trusting relationships with female tourists and then sexually assault them.
 
 * Avoid travelling alone, with informal guides or with strangers, even if they appear friendly and helpful
 * Use only reputable tour guides or buses
@@ -134,76 +142,64 @@ Incidents of sexual assault have also occurred, including on buses. Some tourist
 
 [Advice for women travellers](https://travel.gc.ca/travelling/health-safety/advice-for-women-travellers "Advice for women travellers")
 
-### Spiked food and drinks
+### Spiked food, drinks and other items
 
-The spiking of drinks is a problem in tourist areas, especially in Antigua. Never leave food or drinks unattended or in the care of strangers. Be wary of accepting snacks, beverages, gum or cigarettes from new acquaintances, including taxi drivers. These items may contain drugs that could put you at risk of sexual assault and robbery.
+Drink spiking is a problem in tourist areas, especially in Antigua. Never leave your food or drinks unattended or in the care of strangers. Be wary of accepting snacks, beverages, gum or cigarettes from new acquaintances as these items may contain drugs that could put you at risk of sexual assault and robbery.
 
-### Hiking
+### Adventure travel
 
-Mountain activities, such as hiking, can be dangerous, especially if they are not well-organized. Trails are not always marked and weather conditions can change rapidly, even in summer.
+Outdoor activities, such as hiking, climbing volcanoes, zip-lining, diving and whitewater rafting, can be dangerous.
+
+Tour operators may not meet Canadian safety standards.
 
 Some volcanoes are at high altitude, with sub-zero temperatures at night. Warm and waterproof attire is essential. Local tour companies might underestimate the risk of hypothermia.
 
 There is no mountain rescue service in Guatemala.
 
-If you intend on hiking, including on volcanoes:
+If you intend to participate in adventure travel activities:
 
-* never do so alone and always hire an experienced guide from a reputable company
-* buy travel insurance that includes helicopter rescue and medical evacuation
-* ensure that your physical condition is good enough to meet the challenges of your activity
-* ensure that you’re properly equipped
+* stay on marked trails and consider hiring an experienced guide from a reputable company
+* buy travel insurance that covers these types of recreational activities
+* ensure that you have proper equipment and bring sufficient water
 * stay informed about weather and other conditions that may pose a hazard
-* inform a family member or friend of your itinerary
-* know the symptoms of high-altitude illnesses, which can be fatal
-* obtain detailed information on hiking routes before setting out and do not venture off marked trails
+* ensure that your physical condition is good enough to tackle the challenges of your activity
+* be aware of the symptoms of altitude sickness, dehydration, and heatstroke, which can be fatal
+* avoid challenging rivers, such as the Cahabón, Los Esclavos, Nahualate and Naranjo rivers, if you don’t have previous rafting experience
+
+[Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
 ### Water activities
 
 Coastal waters can be dangerous. Riptides are common.
 
-Not all beaches have lifeguards or warning flags.
+Beaches are generally unsupervised, and most don’t have warning flags to alert swimmers of unsafe conditions.
 
-* Exercise caution when swimming
-* Don’t swim alone, after hours or outside marked areas
-* Consult residents and tour operators for information on possible hazards and safe swimming areas
+* Respect the areas reserved for swimming
+* Consult residents and tour operators for information on possible hazards, the presence of dangerous species and safe swimming areas
+* Avoid beaches and coastal areas if the weather forecast is poor
 * Follow the instructions of local authorities
 
-[Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
-
-### Adventure travel
-
-Tour operators may not adhere to international standards.
-
-If you participate in adventure activities, such as zip-lining, diving and whitewater rafting:
-
-* choose a well-established and reputable company that has insurance
-* make sure safety equipment, such as helmets and life jackets, are available and in good condition
-* make sure your travel insurance covers the recreational activities you choose
-* avoid challenging rivers, such as the Cahabón, Los Esclavos, Nahualate and Naranjo rivers, if you don’t have previous rafting experience
-
-If in doubt concerning the safety of the facilities or equipment, don’t use them.
-
-### Road travel
+### Roads
 
 #### Road conditions
 
-Road safety and road conditions can vary greatly throughout the country. While most roads in urban areas are in fair condition, travel on secondary streets and rural roads can be hazardous due to:
+Road conditions vary throughout the country. While most roads in urban areas are in fair condition, travel on secondary and rural roads can be hazardous due to:
 
-* poor maintenance and lighting
+* insufficient lighting
+* lack of traffic signs
+* unmarked speed bumps
 * poorly maintained vehicles
-* lack of road signs
-* pedestrians on the road
-* steep and winding mountain roads
-* mudslides and rock slides during the rainy season, which can also affect main highways in mountainous regions
-
-#### Road safety
-
-Local drivers generally don’t respect traffic laws. They are often reckless. Driving under the influence of alcohol is also common.
-
-There is heavy traffic on:
-
-* the Pan-American Highway (CA-1)
+* pedestrians and animals on the road
+* narrow, winding and mountainous roads
+* heavy traffic, especially on the Pan-American Highway (CA-1)
 * the road from Guatemala City to the Atlantic Ocean (CA-9)
+* poorly maintained roads
+
+Driving conditions may be hazardous during the rainy season due to flooding, mudslides and rockslides, which can also affect main highways in mountainous regions.
+
+#### Road safety and driving habits
+
+Drivers don’t always respect traffic laws. They can be aggressive and reckless. Drinking and driving is common.
 
 Police presence is scarce on:
 
@@ -225,28 +221,27 @@ Roadblocks erected because of roadwork are common, particularly in the following
 
 These roadblocks may cause substantial delays.
 
-Illegal roadblocks are also frequent. They can occur on the main roads leading to Guatemala City’s La Aurora International Airport.
+Illegal roadblocks are also frequent, including on the main roads leading to Guatemala City’s La Aurora International Airport.
 
-Throughout Guatemala:
+If you choose to drive in Guatemala:
 
-* avoid travelling at night
-* drive with car windows closed and doors locked at all times
+* always drive defensively
+* avoid travelling after dark
+* always keep doors and windows closed and locked
 * be prepared to change your travel plans in case of roadblocks
-* don’t go through roadblocks without stopping, even if they appear unattended
+* do not go through a roadblock without stopping, even if it appears unattended
 
 PROVIAL, the government roadside assistance agency, patrols most of the major highways and provides updates on roads conditions.
 
-[PROVIAL](https://provial.gob.gt/#/) – Directorate General of Road Safety and Protection (Spanish only)
+[PROVIAL](https://provial.gob.gt/#/) – Directorate General of Road Safety and Protection (Spanish only)
 
 ### Public transportation
 
 #### Buses
 
-Local public buses, known as “chicken buses”, are not safe. Most of the time, they are recycled school buses mechanically unreliable. They are often overcrowded. Unlicensed drivers often drive at excessive speeds. They are frequently involved in major road accidents, and serious crimes occur on board.
+Avoid using local public buses, known as “chicken buses.”. Most of the time, they are recycled school buses that are mechanically unreliable and unsafe. They are often overcrowded. Unlicensed drivers often drive at excessive speeds. They are frequently involved in major road accidents, and incidents of armed robbery occur regularly on board. Buses are targeted by gangs, who may hurl grenades or fire shots as a way of ensuring compliance with their demands or to settle accounts. Criminals have attacked drivers, fare collectors and passengers.
 
-Avoid using chicken buses.
-
-Privately owned bus lines, including Transmetro and Transurbano in Guatemala City, are safer, but passengers have been subject to attacks at stations. If you travel by bus:
+Public bus lines such as Transmetro and Transurbano in Guatemala City are safer, but passengers have been attacked at stations. If you travel by bus:
 
 * travel only during daylight hours
 * make sure the transportation provider is reputable and reliable before booking
@@ -254,40 +249,40 @@ Privately owned bus lines, including Transmetro and Transurbano in Guatemala Cit
 
 #### Taxis
 
-Hotel-associated taxis and yellow cabs (*taxis amarillos*), which operate in Guatemala City, are considered safe. White taxis operate independently and are considered dangerous. They have been involved in cases of extortion, petty theft and other crimes.
+Hotel-associated taxis and yellow cabs (taxis amarillos), which operate in Guatemala City, are considered safe. White taxis are operated independently and are considered dangerous. Their drivers have been involved in cases of extortion, petty theft and other crimes.
 
 * Avoid boarding taxis at taxi stands or flagging taxis in the street
-* Avoid using white taxis
-* If using hotel taxis, request the service at the front desk and always look for the hotel logo on the car
-* When travelling by air, pre-arrange your pickup with your hotel prior to your arrival or use authorized airport taxis
-* Note the driver's name on the picture identification badges, as well as the licence number
-* Never share a taxi with strangers
-* Make sure the driver doesn’t pick up other passengers along the way to your destination
+* Ask for your taxi at the front desk if you’re using hotel services
+* Arrange your pickup with your hotel before arrival when travelling by air or use authorized cabs at the airport
+* Note the driver's name on their identification card and licence number
+* Never share a taxi with stranger
 * Negotiate the fare in advance
 * Have small bills available for payment
 
-#### Ridesharing services
+#### Ride-sharing services
 
-Several ridesharing services are also available but safety varies depending on the company.
+Several ride-sharing services are available.
 
-Ridesharing services drivers are sometimes targets of taxi drivers who oppose these services. As a result, some may ask you to sit in the front seat to hide the fact that they are providing a rideshare service.
+Ride-sharing service drivers are sometimes targets of taxi drivers who oppose these services. As a result, some may ask you to sit in the front seat to hide the fact that they are providing a ride-share service.
 
-* Use ridesharing services from a trusted app only
-* Confirm the driver’s identity and the licence plate before getting in the car
+If you use a ride-sharing application:
+
+* confirm the driver’s identity and licence plate before getting in the car
+* use the security features in the application
 
 #### Tuk-tuks / rickshaw taxis / moto taxis
 
-These two- or three-wheeled motorcycles with passenger cabins are unsafe. While they operate with taxi licences, they are not regulated and are frequently involved in accidents.
-
-Avoid riding in tuk-tuks, rickshaw taxis or moto taxis.
+Avoid riding in these two- or three-wheeled motorcycles with passenger cabins, which are unsafe. While they operate with taxi licences, they are not regulated and are frequently involved in accidents.
 
 ### Boating
 
-Illegal drug traders may operate vessels in Guatemalan waters. Boaters in the Rio Dulce area of Izabal have been the victim of violent armed attacks.
+Illegal drug traders may operate vessels in Guatemalan waters. Boaters in the Rio Dulce area of Izabal have been victims of violent armed attacks.
 
-* Avoid boating at night
-* Enter Guatemala only through official ports of entry staffed by Guatemalan immigration officers
-* Use officially recognized docking and berthing facilities only
+If you are planning to go boating:
+
+* avoid boating at night
+* enter Guatemala only through official ports of entry staffed by Guatemalan immigration officers
+* moor your boat only at a designated area
 
 ### Air travel
 

@@ -46,13 +46,13 @@ Tourist visa: not required for stays of up to 90 days
 Business visa: not required for stays of up to 90 days  
 Student visa: required
 
-You may request an extension equal to the number of days you were initially authorized to stay at the Guatemalan Migration Institute. If you wish to conduct business or stay in Guatemala for a period exceeding 6 months, you require a visa.
+You may request an extension equal to the number of days you were initially authorized to stay at the Guatemalan Migration Institute. If you wish to conduct business or stay in Guatemala for a period exceeding 6 months, you require a visa..
 
 [Guatemalan Migration Institute](http://igm.gob.gt/) – Government of Guatemala (Spanish only)
 
 ### Entry stamp
 
-When entering Guatemala by land or sea, you must obtain an entry stamp in your passport.
+When entering Guatemala, you must obtain an entry stamp in your passport.
 
 If you fail to present your entry stamp when departing Guatemala, you may be fined and experience delays.
 
@@ -60,9 +60,9 @@ If you enter Guatemala with a vehicle, you must comply with the deadline for lea
 
 ### Electronic declaration form
 
-You must complete an electronic declaration form before arriving and leaving Guatemala. You will then receive a QR code. Keep your QR code in order to present it to authorities upon your arrival or departure.
+You must complete an electronic declaration form before arriving in Guatemala and before leaving. You will then receive a QR code. Keep a printed or electronic copy of your QR code to present to authorities upon your arrival or departure.
 
-[Electronic declaration form](https://farm2.sat.gob.gt/declaDelViajeroGt-web/pages/public/declaracionJuradaDelViajero.html) – Government of Guatemala
+[Electronic declaration form](https://farm2.sat.gob.gt/declaDelViajeroGt-web/pages/public/declaracionJuradaDelViajero.html) - Government of Guatemala
 
 ### Central America-4 Border Control Agreement (CA-4)
 
@@ -73,13 +73,13 @@ Under the terms of the Central America-4 Border Control Agreement (CA-4), Canadi
 * Honduras
 * Nicaragua
 
-You can travel between these countries for up to 90 days without having to undergo entry and exit formalities at border immigration checkpoints. However, 90 days are not automatically granted. The immigration officer at your first entry point into the CA-4 region will determine the exact length of your authorized stay.
+You can travel between these countries for up to 90 days without having to undergo entry and exit formalities at border immigration checkpoints. However, 90 days are not automatically granted. The immigration officer at your first entry point into the CA-4 region will determine the exact length of your authorized stay.
 
 You must still check in at immigration counters when you enter or exit these checkpoints.
 
 Make sure you receive an entry or exit stamp in your passport each time you cross a checkpoint to avoid fines and problems with immigration authorities.
 
-You may request an extension equal to the number of days you were initially authorized to stay. However, you must request this extension and pay the required fee at the Guatemalan Migration Institute before your first authorized stay expires. Immigration authorities will determine the exact length of the extension.
+You may request an extension equal to the number of days you were initially authorized to stay . However, you must request this extension and pay the required fee at the Guatemalan Migration Institute before your first authorized stay expires. Immigration authorities will determine the exact length of the extension.
 
 You are authorized to stay in Guatemala for a maximum of 180 days. However, if you receive an extension in another CA-4 country that leads to a total authorized stay of less than 180 days, you cannot request another extension in Guatemala. Likewise, if you receive an extension in another CA-4 country that leads to a total authorized stay of more than 180 days, Guatemala will only recognize the first 180 days.
 
@@ -97,7 +97,7 @@ If you get a new Canadian passport in Guatemala, you must obtain a new entry sta
 
 Each CA-4 country interprets and enforces the agreement differently. Ensure you carefully read the Travel Advice and Advisories for each destination you plan on visiting before travelling.
 
-[Guatemalan Migration Institute](http://igm.gob.gt/) – Government of Guatemala (Spanish only)
+[Guatemalan Migration Institute](https://igm.gob.gt/) (Spanish only)
 
 ### Children and travel
 
@@ -105,9 +105,9 @@ Children travelling with only one parent or with a third party must travel with 
 
 #### Useful links
 
-* [Immigration exit requirements](https://igm.gob.gt/requisitos-para-salir-del-pais/) – Government of Guatemala (Spanish only)
+* [Immigration exit requirements](https://igm.gob.gt/requisitos-para-salir-de-guatemala/) – Government of Guatemala (Spanish only)
 * [Recommended consent letter for children travelling abroad](https://travel.gc.ca/travelling/children/consent-letter)
-* [Travel with children](http://travel.gc.ca/travelling/children)
+* [Children and travel](http://travel.gc.ca/travelling/children "Children and travel")
 
 ### Yellow fever
 

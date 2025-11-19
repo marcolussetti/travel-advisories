@@ -4,7 +4,7 @@
 
 ### Guatemala - Exercise a high degree of caution
 
-[Exercise a high degree of caution](#levels "Risk Levels") in Guatemala due to high levels of violent crime, roadblocks, strikes and demonstrations that occur throughout the country.
+[Exercise a high degree of caution](#levels "Risk Levels") in Guatemala due to high levels of crime roadblocks and demonstrations that occur throughout the country.
 
 ### Regional advisories - Avoid non-essential travel
 
@@ -12,30 +12,34 @@
 
 Within Guatemala City:
 
+* Zone 1
 * Zone 3
+* Zones 5–7
 * Zone 18
-* Zone 19
 * Zone 21
 
-Municipalities:
+The following municipalities:
 
-* Amatitlán
-* Chinautla
-* Escuintla
-* San José del Golfo
-* San Raymundo
-* Villa Nueva
+* in Guatemala Department:
+  + San Pedro Ayampuc
+  + Villa Canales
+* in Escuintla Department:
+  + San José
+  + Siquinilá
+  + Tiquisate
 
-Departments:
+Border crossings on the following highways:
 
-* Chiquimula
-* Jutiapa
-* Zacapa
-
-Highways:
-
-* RN-7E
-* CA-11
-* CA-12
-* CA-13
-* PET-13
+* CA-01:
+  + La Mesilla border with Mexico
+  + San Cristobal border with El Salvador
+* CA-02:
+  + Tecun Uman border with Mexico
+  + El Carmen border with Mexico
+  + La Hachadura border with El Salvador
+* CA-09: El Corinto border with Honduras
+* CA-10: Agua Caliente border with Honduras
+* CA-11: El Florido border with Honduras
+* CA-12: Anguiatu border with El Salvador
+* CA-13: Melchor de Mencos border with Belize
+* PET-13: El Ceibo border with Mexico

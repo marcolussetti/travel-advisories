@@ -2,6 +2,18 @@
 
 ## Safety and security
 
+### Demonstrations
+
+Demonstrations occur frequently, especially in Mexico City, and roadblocks are common during demonstrations. Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation, as well as airport closures.
+
+It’s illegal for foreigners to conduct political activity in Mexico, including participating in demonstrations. If you participate in demonstrations as a foreigner, you may face detention, deportation, and the denial of future entry into Mexico.
+
+* Avoid areas where demonstrations and large gatherings are taking place
+* Follow the instructions of local authorities
+* Monitor local media for information on ongoing demonstrations
+
+[Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
+
 ### Sinaloa (see [Risk levels](#risk))
 
 Violent clashes occur regularly between rival armed groups in the State of Sinaloa, including in Culiacán and parts of Mazatlán located outside the main tourist zones. Armed groups have stopped vehicles on the highway from Culiácan to Mazatlán and other major roads.
@@ -305,18 +317,6 @@ Some bars, restaurants and resorts have served unregulated alcohol. Some travell
 ### Balconies
 
 Mexico's standards for the height of balcony railings are considerably lower than those in Canada. Falls have resulted in deaths and injuries. Exercise caution when standing close to balcony railings.
-
-### Demonstrations
-
-Demonstrations occur frequently, especially in Mexico City, and roadblocks are common during demonstrations. Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation, as well as airport closures.
-
-It’s illegal for foreigners to conduct political activity in Mexico, including participating in demonstrations. If you participate in demonstrations as a foreigner, you may face detention, deportation, and the denial of future entry into Mexico.
-
-* Avoid areas where demonstrations and large gatherings are taking place
-* Follow the instructions of local authorities
-* Monitor local media for information on ongoing demonstrations
-
-[Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
 
 ### Water activities
 

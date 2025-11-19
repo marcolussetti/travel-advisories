@@ -8,7 +8,7 @@
 * [COVID-19 and International Travel](https://travel.gc.ca/travelling/health-safety/travel-health-notices/513) - 12 May, 2025
 * [Oropouche virus disease in the Americas](https://travel.gc.ca/travelling/health-safety/travel-health-notices/534) - 9 October, 2025
 * [Dengue: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/517) - 5 November, 2025
-* [Chikungunya: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/540) - 27 October, 2025
+* [Chikungunya: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/540) - 18 November, 2025
 
 This section has information and advice about health risks you might face when travelling. Following this advice can help reduce your risk of getting sick. Not all risks are listed here.
 

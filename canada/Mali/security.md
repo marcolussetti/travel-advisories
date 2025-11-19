@@ -2,13 +2,24 @@
 
 ## Safety and security
 
+### Security situation and fuel shortages
+
+The security situation remains unpredictable and could deteriorate further.
+
+Since September 2025, terrorist groups have intensified their attacks, targeting fuel tankers and setting up roadblocks on major supply routes. This blockade has led to severe fuel shortages, causing a reduction in essential services, long lines at gas stations and transportation difficulties.
+
+The entire country, including Bamako, remains vulnerable to terrorist threats and the risk of kidnapping.
+
+* You should leave the country by commercial flights if it is safe to do so
+* Avoid traveling by land outside Bamako and carefully plan all road travel
+* Always keep your gas tank at least half full
+* Ensure access to fuel
+
 ### Political Situation
 
-Since the coup d'état of August 2020, Mali has been ruled by a military-led transitional government. In September 2023, the authorities announced a postponement of presidential and legislative elections, with a return to constitutional order scheduled for early 2024. Since then, no election date has been set.
+Since the coup d'état of August 2020, Mali has been ruled by a military-led transitional government. In September 2023, the authorities announced a postponement of presidential and legislative elections. Since then, no election date has been set.
 
-On December 31, 2023, the MINUSMA, which supported the peace process and helped stabilize the security situation in the country, withdrew from Mali. The security situation in the country could further deteriorate.
-
-You should leave the country by commercial flights if it is safe to do so.
+On December 31, 2023, MINUSMA, which supported the peace process and helped stabilize the security situation in the country, withdrew from Mali.
 
 If you are in Mali:
 
@@ -18,9 +29,9 @@ If you are in Mali:
 
 ### Terrorism
 
-Terrorist groups operate in Northern and central Mali They regularly carry out attacks targeting mainly the Malian security forces.
+All of Mali is exposed to terrorist attacks.
 
-Bamako and the southern and western parts of Mali are also exposed to terrorist threats. Since 2022, there has been an increase in terrorist attacks in central, western and southern Mali, including in the vicinity of Bamako. Although they have primarily targeted security forces installations, the attacks have resulted in numerous casualties, including civilians.
+Since 2022, there has been an increase in terrorist attacks in central, western and southern Mali, including in the vicinity of Bamako. More recently, although they have primarily targeted security forces and fuel tankers, the attacks have resulted in numerous casualties, including civilians.
 
 Active terrorist groups are determined to increase their attacks and kidnappings targeting foreigners.
 
@@ -46,16 +57,6 @@ Be particularly vigilant during:
 Terrorists may use such occasions to mount attacks.
 
 ### Shortages
-
-#### Fuel shortages
-
-Since September 2025, terrorist groups have imposed a blockade on fuel imports to Mali, causing severe disruptions to the country's supply.
-
-This has led to a reduction in essential services, long lines at gas stations and transportation difficulties.
-
-* Always keep your gas tank at least half full
-* Ensure access to fuel
-* Carefully plan all road travel
 
 #### Power outages
 

@@ -2,40 +2,25 @@
 
 ## Natural disasters and climate
 
-### Typhoon Kalmaegi
+### Climate change
 
-Typhoon Kalmaegi made landfall in Dak Lak and Gia Lai provinces on November 6, 2025. It caused significant damage and casualties.
+Climate change is affecting Vietnam. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local media for the latest information.
 
-The following essential services may continue to be severely disrupted:
-
-* transportation
-* power distribution
-* water and food supply
-* telecommunication networks
-* emergency services
-* medical care
-
-If you are in the affected area:
-
-* exercise caution
-* monitor local news and weather reports
-* follow the instructions of local authorities
+### Typhoons and monsoons
 
 ### Flooding
 
-Heavy rainfall has caused flooding in northern provinces, including in Hanoi.
+Heavy rainfall has caused severe flooding across the central and northern provinces of Vietnam.
+
+Recent typhoons and rain have resulted in significant casualties and damage to infrastructure.
+
+Heavy rains and high tides are forecast for Ho Chi Minh City until November 23, 2025, and may cause severe flooding in areas that are low-lying and close to rivers.
 
 If you are in an affected area:
 
 * monitor local news and weather reports
 * confirm your flight before going to the airport
 * follow the instructions of local authorities
-
-### Climate change
-
-Climate change is affecting Vietnam. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local media for the latest information.
-
-### Typhoons and monsoons
 
 #### Typhoons
 

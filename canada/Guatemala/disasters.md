@@ -6,23 +6,23 @@
 
 Climate change is affecting Guatemala. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local news to stay informed on the current situation.
 
-### Wildfires
+### Forest fires
 
 Forest fires occur between November and June. They can happen throughout the country, but the Petén area is usually the most affected.
 
-The air quality in areas near active fires may deteriorate due to heavy smoke.
+Heavy smoke may deteriorate the air quality in areas near active fires.
 
 In case of a major fire:
 
-* stay away from affected areas, particularly if you suffer from respiratory ailments
-* follow the advice of local emergency services personnel
-* monitor local media for up-to-date information on the situation
+* stay away from the affected areas, particularly if you suffer from respiratory ailments
+* monitor local media for the latest information
+* follow the instructions of local authorities, including evacuation orders
 
 ### Hurricane season
 
-The hurricane season is from mid-May to the end of November in the Pacific, and from early June to the end of November in the Atlantic, Caribbean Sea and Gulf of Mexico. During this period, even small tropical storms can quickly develop into major hurricanes.
+Hurricanes usually occur from mid-May to the end of November. During this period, even small tropical storms can quickly develop into major hurricanes.
 
-These severe storms can put you at risk and hamper the provision of essential services. You could face serious safety risks during a hurricane. You should carefully consider these risks when planning a trip during the hurricane season.
+These severe storms can put you at risk and hamper the provision of essential services. You could face serious safety risks during a hurricane.
 
 If you decide to travel to a coastal area during the hurricane season despite the risks:
 
@@ -35,28 +35,24 @@ If you decide to travel to a coastal area during the hurricane season despite th
 
 * [Severe storms outside Canada](https://travel.gc.ca/travelling/health-safety/hurricanes-typhoons-cyclones-monsoons)
 * [Large-scale emergencies outside Canada](https://travel.gc.ca/assistance/emergency-info/large-scale-emergencies-abroad)
-* [Active storm tracking and hurricane watches and warnings](http://www.nhc.noaa.gov/) – U.S. National Hurricane Center
+* [Active storm tracking and hurricane watches and warnings](http://www.nhc.noaa.gov/) – U.S. National Hurricane Center
 
 ### Rainy season
 
-The rainy season extends from mid-May to mid-November. Seasonal flooding can hamper overland travel and reduce the provision of essential services.
+The rainy season extends from mid-May to mid-November. Flash floods and landslides are common.
 
-Flash floods and landslides are common. Roads may become impassable and bridges may be damaged.
+Seasonal flooding can hamper overland travel and reduce the provision of essential services. Roads may become impassable due to mudslides and landslides. Bridges, buildings and infrastructure may be damaged.
+
+* Monitor local media for the latest information, including on road conditions
+* Stay away from flooded areas
+* Monitor weather reports
+* Follow the instructions of local authorities, including evacuation orders
 
 [Weather bulletins](https://insivumeh.gob.gt/) – National Institute of Volcanology and Meteorology (Spanish only)
 
 ### Seismic activity
 
 #### Earthquakes and tsunamis
-
-Since July 8, 2025, a series of earthquakes, up to a magnitude of 5.7, has been occurring. The tremors have resulted in structural damage and casualties in the departments of Escuintla, Sacatepéquez and Guatemala. Further earthquakes could occur.
-
-If you’re in or near the affected areas:
-
-* monitor local media for the latest information
-* follow instructions from local authorities, including evacuation orders
-
-[CONRED](https://conred.gob.gt/) – National Coordinator for Disaster Reduction (Spanish only)
 
 Guatemala is located in an active seismic zone. Earthquakes and tsunamis can occur.
 
@@ -66,7 +62,7 @@ A tsunami can occur within minutes of a nearby earthquake. However, the risk of 
 
 There are four active volcanoes in Guatemala.
 
-Eruptions may occur at any time. Series of tremors sometimes lead to evacuations of surrounding areas. Falling ash may also disrupt flights at La Aurora International Airport.
+Eruptions may occur at any time. Series of tremors sometimes lead to evacuations of surrounding areas. Falling ash may disrupt flights at La Aurora International Airport.
 
 In the event of an earthquake or volcanic eruption:
 
@@ -75,6 +71,8 @@ In the event of an earthquake or volcanic eruption:
 
 #### Useful links
 
-* [CONRED](https://conred.gob.gt/) – National Coordinator for Disaster Reduction (Spanish only)
+* [CONRED](https://conred.gob.gt/) – National Coordinator for Disaster Reduction (Spanish only)
 * [Tsunami warning system](http://tsunami.gov/) – U.S. National Weather Service
 * [Latest earthquakes](https://earthquake.usgs.gov/earthquakes/map/) – U.S. Geological Survey
+
+###

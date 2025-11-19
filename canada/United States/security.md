@@ -2,10 +2,6 @@
 
 ## Safety and security
 
-### Flight cancellations
-
-The Federal Aviation Administration (FAA) has ordered a reduction in U.S. domestic flights in order to manage reduced air traffic controller availability. You may experience flight delays and cancellations, as well as longer wait times at airports. Contact your airline to understand if your travel plans are affected.
-
 ### Border with Mexico
 
 Criminal incidents associated with drug trafficking are more frequent at the border with Mexico, in the following states:
