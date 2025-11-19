@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   8 October 2025
+:   19 November 2025
 
 Updated:
-:   7 October 2025
+:   18 November 2025
 
 Latest update:
-:   Removal of information about municipal elections which took place in Georgia on 4 October.
+:   Updated information about the duration of political demonstrations in Georgia ('Safety and security' page).
 
-![](https://assets.publishing.service.gov.uk/media/6164003ce90e07197c0c2a1f/FCDO__TA__018_-_Georgia_Travel_Advice_Ed2__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/690481e4823bdda9488b24cf/FCDO_TA_018_-_Georgia_Travel_Advice_Ed4_WEB.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/6164003cd3bf7f5603ecef67/FCDO__TA__018_-_Georgia_Travel_Advice_Ed2.pdf)
+[Download a more detailed map (PDF, 443 KB)](https://assets.publishing.service.gov.uk/media/690481e45e080b1224898084/FCDO_TA_018_-_Georgia_Travel_Advice_Ed4.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -20,7 +20,7 @@ Your travel insurance could be invalidated if you travel against advice from the
 
 ### South Ossetia and Abkhazia
 
-For security reasons, FCDO advises against all travel to the breakaway regions of:
+For security reasons, FCDO advises against all travel to the Russian occupied regions of:
 
 * South Ossetia
 * Abkhazia

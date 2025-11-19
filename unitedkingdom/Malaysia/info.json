@@ -1,11 +1,11 @@
 {
     "name": "Malaysia",
-    "update_reason": "Updated information on illegal drugs penalties ('Safety and security' page).",
+    "update_reason": "Addition of information on the risks from methanol poisoning ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Malaysia/Warnings and insurance.md",
-            "update_date": "2025-04-15T12:09:35+01:00"
+            "update_date": "2025-11-18T10:30:47+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Malaysia/Getting help.md"
         }
     ],
-    "update_date": "2025-04-15T12:09:35+01:00"
+    "update_date": "2025-11-18T10:30:47+00:00"
 }

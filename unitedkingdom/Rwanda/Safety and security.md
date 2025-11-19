@@ -32,6 +32,14 @@ To reduce your personal risk:
 
 Some off-limits military zones in Kigali may not be well lit or signposted. You could be arrested and detained if you enter these areas. Take extra care when walking around less populated zones, particularly at night.
 
+### Methanol poisoning
+
+There has been an increase in cases of serious illness caused by alcoholic drinks containing methanol in popular travel destinations around the world.
+
+Even small amounts of methanol can kill. It is not possible to identify methanol in alcoholic drinks by taste or smell. See [Travel Aware Drink Spiking and Methanol Poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) for information about how to reduce the risks.
+
+Seek urgent medical attention if you or someone you are travelling with show the [signs of methanol poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) after drinking.
+
 ## Laws and cultural differences
 
 ### Illegal drugs

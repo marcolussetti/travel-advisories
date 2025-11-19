@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   14 June 2025
+:   19 November 2025
 
 Updated:
-:   13 June 2025
+:   18 November 2025
 
 Latest update:
-:   Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region (‘Safety and security’ page).
+:   Addition of information on the risks from methanol poisoning ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/68237cb42b7ca0cc347e081e/FCDO__TA__024_-_Libya_Travel_Advice_Ed3__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/68237cb42b7ca0cc347e081f/FCDO__TA__024_-_Libya_Travel_Advice_Ed3.pdf)
+[Download a more detailed map (PDF, 312 KB)](https://assets.publishing.service.gov.uk/media/68237cb42b7ca0cc347e081f/FCDO__TA__024_-_Libya_Travel_Advice_Ed3.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -24,17 +24,9 @@ FCDO advises against all but essential travel to the cities of Benghazi and Misr
 
 Find out more about [why the FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/libya/regional-risks).
 
-## Heightened military presence in Tripoli
-
-On 12 May, significant armed clashes broke out across Tripoli. A ceasefire was agreed on 14 May and has largely held. The situation remains fragile and a return to violence is possible. Flights have resumed operations at Mitiga international airport in Tripoli.
-
-FCDO continues to advise against all travel to Libya except for the cities of Benghazi and Misrata, to which we advise against all but essential travel.
-
-If you are a British national already in, or planning to travel to Tripoli, you should have robust security arrangements and contingency plans in place.
-
 ## UK government support
 
-UK government support is limited in Libya. If you are in Libya and need urgent help from the UK government (for example, if you’ve been attacked, arrested or someone has died) [contact the British Embassy in Tunis, Tunisia](https://www.gov.uk/world/organisations/british-embassy-tunis) who provide assistance for British nationals in Libya. In-person support is not available in Libya.
+UK government support is limited in Libya. If you are in Libya and need urgent help from the UK government (for example, if you’ve been attacked, arrested or someone has died) [contact the British Embassy in Tunis, Tunisia](https://www.gov.uk/world/organisations/british-embassy-tunis) who provide assistance for British nationals in Libya. In-person support is not available in Libya. If you are a British national already in, or planning to travel to Tripoli, you should have robust security arrangements and contingency plans in place.
 
 ## Before you travel
 

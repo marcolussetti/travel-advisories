@@ -1,11 +1,11 @@
 {
     "name": "Rwanda",
-    "update_reason": "Removal of information about the UCI Road World Cycling Championships which took place in Kigali from 21-28 September.",
+    "update_reason": "Addition of information on the risks from methanol poisoning ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Rwanda/Warnings and insurance.md",
-            "update_date": "2025-10-24T09:47:09+01:00"
+            "update_date": "2025-11-18T10:30:58+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Rwanda/Getting help.md"
         }
     ],
-    "update_date": "2025-10-24T09:47:09+01:00"
+    "update_date": "2025-11-18T10:30:58+00:00"
 }

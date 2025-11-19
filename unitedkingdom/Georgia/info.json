@@ -1,11 +1,11 @@
 {
     "name": "Georgia",
-    "update_reason": "Removal of information about municipal elections which took place in Georgia on 4 October.",
+    "update_reason": "Updated information about the duration of political demonstrations in Georgia ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Georgia/Warnings and insurance.md",
-            "update_date": "2025-10-07T11:58:39+01:00"
+            "update_date": "2025-11-18T15:57:50+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Georgia/Getting help.md"
         }
     ],
-    "update_date": "2025-10-07T11:58:39+01:00"
+    "update_date": "2025-11-18T15:57:50+00:00"
 }

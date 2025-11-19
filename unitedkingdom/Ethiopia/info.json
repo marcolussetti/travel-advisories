@@ -1,11 +1,11 @@
 {
     "name": "Ethiopia",
-    "update_reason": "Information on reports of cases of viral haemorrhagic fever in South Ethiopia (Health page).",
+    "update_reason": "Information on reports of cases of Marburg in South Ethiopia (Health page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Ethiopia/Warnings and insurance.md",
-            "update_date": "2025-11-14T18:04:37+00:00"
+            "update_date": "2025-11-18T15:22:05+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Ethiopia/Getting help.md"
         }
     ],
-    "update_date": "2025-11-14T18:04:37+00:00"
+    "update_date": "2025-11-18T15:22:05+00:00"
 }

@@ -1,11 +1,11 @@
 {
     "name": "India",
-    "update_reason": "Removal of information about an explosion at the Red Fort (Lal Qila) Metro Station.",
+    "update_reason": "Addition of information on the risks from methanol poisoning ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/India/Warnings and insurance.md",
-            "update_date": "2025-11-14T11:59:40+00:00"
+            "update_date": "2025-11-18T10:31:37+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/India/Getting help.md"
         }
     ],
-    "update_date": "2025-11-14T11:59:40+00:00"
+    "update_date": "2025-11-18T10:31:37+00:00"
 }

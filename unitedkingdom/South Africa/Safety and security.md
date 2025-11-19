@@ -21,17 +21,15 @@ Attacks could be indiscriminate and could target public spaces and places visite
 
 Stay aware of your surroundings, keep up to date with local media reports and follow the advice of local authorities.
 
-### Israel and the Occupied Palestinian Territories conflict
+### Israel and Palestine conflict
 
-The current conflict in Israel and the Occupied Palestinian Territories has led to heightened tensions around the world. Terrorist groups, such as Al-Qaida and Daesh, have called on their supporters to carry out terrorist attacks in response to the conflict. The conflict could also motivate individuals to carry out attacks. Terrorist attacks could target Jewish or Muslim communities, or the interests of Israel and its allies. Attacks could also be indiscriminate and happen without warning.
+The current conflict in Israel and Palestine has led to heightened tensions around the world. Terrorist groups, such as Al-Qaida and Daesh, have called on their supporters to carry out terrorist attacks in response to the conflict. The conflict could also motivate individuals to carry out attacks. Terrorist attacks could target Jewish or Muslim communities, or the interests of Israel and its allies. Attacks could also be indiscriminate and happen without warning.
 
 ## Political situation
 
 There are regular protests and demonstrations in South Africa which can turn violent at short notice. Violence could affect participants and bystanders anywhere in the country.
 
 Avoid areas where protests, demonstrations or marches are taking place, especially in city centres and townships. Do not cross protester roadblocks. This could provoke a violent reaction. Monitor local and social media for updates, including local radio. Where possible stay on main roads. Be aware GPS could lead you to less secure areas.
-
-Protests can happen at land border crossings, particularly on the Mozambique border. This may delay you being able to cross the border or cause the crossing to be closed at short notice. Seek local advice, monitor the local media and [FCDO’s travel advice for Mozambique](https://www.gov.uk/foreign-travel-advice/mozambique) before travel.
 
 ## Crime
 
@@ -113,13 +111,15 @@ Criminals use dating apps to rob, rape or sexually assault victims. Be cautious 
 
 There have been instances of drink spiking involving robbery and sexual assault with both male and female victims. Do not leave drinks unattended or accept drinks from strangers. If you think your drink has been spiked, seek immediate medical help and contact the police.
 
+If you have been sexually assaulted, read our advice for [survivors of rape and sexual assault in South Africa.](https://www.gov.uk/government/publications/south-africa-information-for-survivors-of-rape-and-sexual-assault/information-for-survivors-of-rape-and-sexual-assault-in-south-africa)
+
 ### ATMs and money exchanges
 
 Crime around ATMs and money exchanges is common. You should:
 
 * hide your PIN
-* be wary of strangers offering to help when your card does not work, or trying to lure you to an ATM
-* only change large sums of money in banks or secure shopping malls, not in busy public areas – do be aware, however, that people exchanging large amounts of cash have been followed and robbed
+* be wary of strangers offering to help or who try to lure you to an ATM
+* only change large sums of money in banks or secure shopping malls, not in busy public areas – some people exchanging large amounts of cash have been followed and robbed
 
 ### Criminal kidnap
 
@@ -127,12 +127,15 @@ The risk of kidnap is increasing throughout South Africa. Criminals generally ki
 
 In recent years, foreign nationals, including British nationals, have been kidnapped. British nationals can be seen as wealthier than locals and may be at particular risk of kidnap for financial gain. There have also been reports of young children being kidnapped from shops, shopping malls and beaches. Stay vigilant and be aware of your surroundings.
 
+Express kidnappings are short-term, opportunistic abductions aimed at extracting cash from the victim. Victims may be held hostage for up to several days while criminals use stolen bank or credit cards. These often take place after dark.
+
 To reduce your risk:
 
 * avoid wearing expensive clothing or jewellery, particularly in public
 * be vigilant, especially at night
-
-There have been reports of long queues leading to armed robberies and express kidnappings close to the Lebombo border crossing with Mozambique at Nelspruit, Mpumalanga. Express kidnappings are short-term, opportunistic abductions aimed at extracting cash from the victim. Victims may be held hostage for up to several days while criminals use stolen bank or credit cards. These often take place after dark. Consider whether you can use a different crossing or only approach the border during daylight hours.
+* avoid predictable routines and isolated areas
+* limit sharing personal information online
+* use secure transport and keep car doors locked
 
 ### Airport crime
 
@@ -195,40 +198,6 @@ Be wary of unregulated drivers posing as Uber or other taxi app drivers, especia
 
 Tensions between taxi app and metered taxi drivers can lead to armed violence, particularly around Gautrain stations and at airports. Strikes and protests by taxi app drivers take place, sometimes with attacks against drivers not seen to be participating. Passengers have also faced harassment or violence. Apps generally warn about high-risk areas, but be cautious using these services. During strikes use alternative reliable private transportation.
 
-## Power cuts
-
-In South Africa there have been nationwide power cuts caused by shortages. Whilst there has been a significant reduction in planned power cuts (‘loadshedding’), they can still happen and affect:
-
-* private accommodation, including hotels and airbnbs
-* availability of mobile phone networks and wifi
-* shops
-* banks and ATMs
-* public lighting
-* traffic lights
-* security systems such as alarms and electric fencing
-* petrol stations
-* water
-
-There may be higher risk of crime where security systems or public lighting do not work.
-
-You should:
-
-* ask your accommodation provider how they manage planned power cuts
-* check for planned cuts on the [Eskom website](https://www.eskom.co.za/distribution/customer-service/outages/municipal-loadshedding-schedules/) or ‘loadshedding’ apps
-* follow the advice of local authorities if there are water restrictions, including bans on drinking tap water
-
-### Preparing for power cuts
-
-To prepare for long power cuts:
-
-* write down emergency contact numbers
-* plan how you’ll let relatives and friends know where you are
-* carry a power bank with extra charging cables
-* carry a torch or other portable lighting
-* ensure you have enough medicine and first aid supplies
-* find nearby safe places that may have back-up power such as hotels, hospitals and police stations, in case you need help
-* read our advice [If you are affected by a crisis abroad](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas)
-
 ### Water shortages
 
 Across parts of South Africa, there have been water shortages. Follow the advice of local authorities if there are water restrictions in place.
@@ -258,6 +227,8 @@ It is illegal to buy, sell, kill or capture any protected wild animal or trade a
 ## Outdoor activities and adventure tourism
 
 Do not take unnecessary risks when participating in outdoor activities and adventure tourism. Health and safety standards vary globally and may not be the same as in the UK.
+
+Check with the local tourism office for safe and licenced operators and consider hiring a registered guide.
 
 Where possible, insist on a receiving a safety briefing.
 
@@ -388,6 +359,40 @@ Heavy rainfall often causes widespread flooding. There is a year-round risk of f
 ### Wildfires
 
 Wildfires can happen in rural and urban areas during hot and dry weather including Cape Town and in the Table Mountain National Park. Follow evacuation orders if requested. If you see a wildfire, move to a safe place away from vegetation and smoke. If you are inside a building or a car and judge it is safe to stay there, close all vents and windows.
+
+## Power cuts
+
+In South Africa there have been nationwide power cuts caused by shortages. Whilst there has been a significant reduction in planned power cuts (‘loadshedding’), they can still happen and affect:
+
+* private accommodation, including hotels and airbnbs
+* availability of mobile phone networks and wifi
+* shops
+* banks and ATMs
+* public lighting
+* traffic lights
+* security systems such as alarms and electric fencing
+* petrol stations
+* water
+
+There may be higher risk of crime where security systems or public lighting do not work.
+
+You should:
+
+* ask your accommodation provider how they manage planned power cuts
+* check for planned cuts on the [Eskom website](https://www.eskom.co.za/distribution/customer-service/outages/municipal-loadshedding-schedules/) or ‘loadshedding’ apps
+* follow the advice of local authorities if there are water restrictions, including bans on drinking tap water
+
+### Preparing for power cuts
+
+To prepare for long power cuts:
+
+* write down emergency contact numbers
+* plan how you’ll let relatives and friends know where you are
+* carry a power bank with extra charging cables
+* carry a torch or other portable lighting
+* ensure you have enough medicine and first aid supplies
+* find nearby safe places that may have back-up power such as hotels, hospitals and police stations, in case you need help
+* read our advice [If you are affected by a crisis abroad](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas)
 
 [Previous
 :

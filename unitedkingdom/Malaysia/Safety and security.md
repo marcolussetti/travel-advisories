@@ -36,7 +36,7 @@ The long-standing policy of the British government is not to make substantive co
 
 ## Political situation
 
-In response to the current situation in Israel and the Occupied Palestinian Territories, there have been peaceful demonstrations in some Malaysian cities, including outside some western embassies.
+In response to the current situation in Israel and Palestine, there have been peaceful demonstrations in some Malaysian cities, including outside some western embassies.
 
 It’s illegal under Malaysian law for foreign nationals to take part in demonstrations or protests.
 
@@ -65,6 +65,14 @@ There have been assaults and robberies, particularly around bars and nightlife a
 ### Drink spiking
 
 There have been cases of strangers offering tourists a spiked drink, even in reputable bars or restaurants, and then robbing or assaulting them.
+
+### Methanol poisoning
+
+There has been an increase in cases of serious illness caused by alcoholic drinks containing methanol in popular travel destinations around the world.
+
+Even small amounts of methanol can kill. It is not possible to identify methanol in alcoholic drinks by taste or smell. See [Travel Aware Drink Spiking and Methanol Poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) for information about how to reduce the risks.
+
+Seek urgent medical attention if you or someone you are travelling with show the [signs of methanol poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) after drinking.
 
 ### Police reports
 
@@ -99,6 +107,8 @@ Get more advice when you arrive from your tour guide, hotel or business contacts
 ### Illegal drugs penalties
 
 Possession, trafficking and manufacture of any illegal drugs are serious offences in Malaysia. This includes cannabis. British nationals have been caught carrying cannabis while transiting through Malaysia.
+
+Airports in Malaysia have security equipment and procedures in place for scanning and detecting illegal substances, including cannabis. This is also used to scan all carry-on and checked-in baggage of transiting passengers.
 
 The Malaysian authorities have a zero-tolerance policy to drug offences. Possessing drugs, even in very small quantities, carries severe penalties, including:
 

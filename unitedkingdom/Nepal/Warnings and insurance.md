@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   14 October 2025
+:   19 November 2025
 
 Updated:
-:   13 October 2025
+:   18 November 2025
 
 Latest update:
-:   Updated information about risks from civil disorder, and from monsoons ('Safety and security' page).
+:   Addition of information on the risks from methanol poisoning ('Safety and security' page).
 
 ## Before you travel
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   15 November 2025
+:   19 November 2025
 
 Updated:
-:   14 November 2025
+:   18 November 2025
 
 Latest update:
-:   Removal of information about an explosion at the Red Fort (Lal Qila) Metro Station.
+:   Addition of information on the risks from methanol poisoning ('Safety and security' page).
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 

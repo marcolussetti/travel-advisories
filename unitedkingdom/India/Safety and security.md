@@ -75,6 +75,14 @@ Criminals often use the details of British High Commissions and Embassies. Be ca
 
 Be wary of accepting drinks or food from strangers or leaving drinks unattended. There have been reports of spiked drinks and food, with British nationals being robbed or assaulted.
 
+### Methanol poisoning
+
+There has been an increase in cases of serious illness caused by alcoholic drinks containing methanol in popular travel destinations around the world.
+
+Even small amounts of methanol can kill. It is not possible to identify methanol in alcoholic drinks by taste or smell. See [Travel Aware Drink Spiking and Methanol Poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) for information about how to reduce the risks.
+
+Seek urgent medical attention if you or someone you are travelling with show the [signs of methanol poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) after drinking.
+
 ### Sexual assault
 
 There is a risk of sexual assault, including attacks on female foreign national visitors in tourist areas and cities.

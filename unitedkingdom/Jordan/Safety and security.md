@@ -67,6 +67,14 @@ Crime levels are generally low, but there is a risk of pickpocketing, bag-snatch
 
 Street begging can be aggressive, particularly in areas frequented by foreigners. Do not engage with beggars.
 
+### Methanol poisoning
+
+There has been an increase in cases of serious illness caused by alcoholic drinks containing methanol in popular travel destinations around the world.
+
+Even small amounts of methanol can kill. It is not possible to identify methanol in alcoholic drinks by taste or smell. See [Travel Aware Drink Spiking and Methanol Poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) for information about how to reduce the risks.
+
+Seek urgent medical attention if you or someone you are travelling with show the [signs of methanol poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) after drinking.
+
 ### Sexual assault
 
 Take care when walking or travelling alone. Maintain at least the same level of personal security awareness as you would in the UK. See [advice for women travelling abroad](https://www.gov.uk/guidance/advice-for-women-travelling-abroad).

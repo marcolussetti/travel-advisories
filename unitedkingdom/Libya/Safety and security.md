@@ -59,7 +59,11 @@ The political situation in Libya is fragile and the security situation remains d
 
 There is a UN-facilitated ceasefire in place between eastern and western armed forces. The risk of renewed fighting between them has decreased, but there is still a high risk of localised violence between competing armed groups throughout the country.
 
-Violence between armed groups can break out with little warning. In 2022, clashes between armed groups in Tripoli killed 32 people and injured over 150. Clashes again broke out in August 2023 in central Tripoli, resulting in roadblocks and the temporary closure of Mitiga Airport.
+Violence can break out with little warning.
+
+On 12 May, significant armed clashes broke out across Tripoli. A ceasefire was agreed on 14 May and has largely held. The situation remains fragile and a return to violence is possible.
+
+In 2022, clashes between armed groups in Tripoli killed 32 people and injured over 150. Clashes again broke out in August 2023 in central Tripoli, resulting in roadblocks and the temporary closure of Mitiga Airport.
 
 Foreign forces and mercenaries continue to operate in Libya. The Interim Government of National Unity has limited control of security provision across the country. The lack of political stability has led to security incidents, road and airport closures, and oil blockades.
 
@@ -131,6 +135,14 @@ It is illegal in Libya to make any attempt to convert Muslims to another religio
 ### Alcohol and drugs laws
 
 It is illegal in Libya to drink alcohol or use drugs. Libyan authorities treat drug and alcohol offences seriously. You can be punished for use, possession and trafficking of drugs or alcohol.
+
+### Methanol poisoning
+
+There has been an increase in cases of serious illness caused by alcoholic drinks containing methanol around the world.
+
+Even small amounts of methanol can kill. It is not possible to identify methanol in alcoholic drinks by taste or smell. See [Travel Aware Drink Spiking and Methanol Poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) for information about how to reduce the risks.
+
+Seek urgent medical attention if you or someone you are travelling with show the [signs of methanol poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) after drinking.
 
 ### Business travel in Libya
 

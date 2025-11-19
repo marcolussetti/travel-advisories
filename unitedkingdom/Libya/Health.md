@@ -25,7 +25,6 @@ At least 8 weeks before your trip:
 See [what health risks you’ll face in Libya](https://travelhealthpro.org.uk/country/129/libya), including:
 
 * leishmaniasis
-* Rift Valley fever
 * West Nile virus
 * schistosomiasis
 

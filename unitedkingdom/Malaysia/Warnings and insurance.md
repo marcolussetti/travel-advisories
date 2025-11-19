@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   16 April 2025
+:   19 November 2025
 
 Updated:
-:   15 April 2025
+:   18 November 2025
 
 Latest update:
-:   Updated information on illegal drugs penalties ('Safety and security' page).
+:   Addition of information on the risks from methanol poisoning ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/6565efa562180b000dce830a/FCDO__TA__025_-_Malaysia_Travel_Advice_Ed3__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/6565efa5888c06000dfa7e52/FCDO__TA__025_-_Malaysia_Travel_Advice_Ed3.pdf)
+[Download a more detailed map (PDF, 1.06 MB)](https://assets.publishing.service.gov.uk/media/6565efa5888c06000dfa7e52/FCDO__TA__025_-_Malaysia_Travel_Advice_Ed3.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 

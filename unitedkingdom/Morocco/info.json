@@ -1,11 +1,11 @@
 {
     "name": "Morocco",
-    "update_reason": "Removal of information about countrywide protests and demonstrations (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Addition of information on the risks from methanol poisoning ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Morocco/Warnings and insurance.md",
-            "update_date": "2025-10-06T17:07:14+01:00"
+            "update_date": "2025-11-18T10:30:50+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Morocco/Getting help.md"
         }
     ],
-    "update_date": "2025-10-06T17:07:14+01:00"
+    "update_date": "2025-11-18T10:30:50+00:00"
 }

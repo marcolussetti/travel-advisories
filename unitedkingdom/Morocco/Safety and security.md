@@ -66,6 +66,14 @@ If you use a guide in a historical district (medina quarter), make sure they hav
 
 Be cautious if you travel to Morocco for a relationship or to find someone you met on the internet. Incidents of marriage fraud and attempted extortion have affected British nationals. Make sure you keep your return ticket, passport and personal belongings safe.
 
+### Methanol poisoning
+
+There have been deaths and cases of serious illness caused by alcoholic drinks containing methanol in Morocco.
+
+Even small amounts of methanol can kill. It is not possible to identify methanol in alcoholic drinks by taste or smell. See [Travel Aware Drink Spiking and methanol poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) for information about how to reduce the risks.
+
+Seek urgent medical attention if you or someone you are travelling with show the [signs of methanol poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) after drinking.
+
 ## Laws and cultural differences
 
 Morocco’s laws and customs are very different to those in the UK and reflect the fact that Morocco is an Islamic country. Always respect local traditions, customs, laws and religions. Make sure your actions do not offend, especially during the holy month of Ramadan or if you plan to visit religious areas.

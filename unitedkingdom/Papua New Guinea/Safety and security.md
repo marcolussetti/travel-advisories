@@ -66,6 +66,14 @@ There have been serious attacks and robberies along the Kokoda Track. Although c
 
 Organised gangs have abducted people and forced them to open office safes while others are held captive until a ransom has been paid. A foreign national was kidnapped in a remote part of Southern Highlands Province in 2023. Be vigilant and leave travel plans with friends, relatives or reliable local contacts.
 
+### Methanol poisoning
+
+There have been deaths and cases of serious illness caused by alcoholic drinks containing methanol in Papua New Guinea.
+
+Even small amounts of methanol can kill. It is not possible to identify methanol in alcoholic drinks by taste or smell. See [Travel Aware Drink Spiking and Methanol Poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) for information about how to reduce the risks.
+
+Seek urgent medical attention if you or someone you are travelling with show the [signs of methanol poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) after drinking.
+
 ## Unexploded weapons
 
 There are unexploded World War 2 weapons in Papua New Guinea, particularly along the Kokoda Track, at Milne Bay and Rabaul. If you are concerned, get advice from a trusted travel company for the areas you’re visiting.

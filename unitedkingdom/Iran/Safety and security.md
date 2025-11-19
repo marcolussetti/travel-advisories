@@ -106,6 +106,14 @@ Take sensible precautions to protect yourself from street crime and petty theft.
 
 There have been some attacks and robberies targeted at foreign nationals and tourists, including attempted robberies by thieves posing as policemen, usually in civilian clothing. If you’re approached by anyone who claims to be a policeman, ask to see ID and request the presence of a uniformed officer or marked patrol car. Do not hand over documents or cash, or get into a vehicle.
 
+### Methanol poisoning
+
+There have been deaths and cases of serious illness caused by alcoholic drinks containing methanol in Iran.
+
+Even small amounts of methanol can kill. It is not possible to identify methanol in alcoholic drinks by taste or smell. See [Travel Aware Drink Spiking and Methanol Poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) for information about how to reduce the risks.
+
+Seek urgent medical attention if you or someone you are travelling with show the [signs of methanol poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) after drinking.
+
 ## Money
 
 Getting cash in Iran is extremely difficult. Non-Iranian debit and cash cards will not work in Iran. It’s usually not possible to change travellers cheques.

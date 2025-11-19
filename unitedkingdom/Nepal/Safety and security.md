@@ -42,6 +42,14 @@ Women have been sexually assaulted in tourist areas such as Thamel and Sanepa in
 
 Be wary of accepting drinks from strangers and do not leave drinks unattended.
 
+### Methanol poisoning
+
+There has been an increase in cases of serious illness caused by alcoholic drinks containing methanol in popular travel destinations around the world.
+
+Even small amounts of methanol can kill. It is not possible to identify methanol in alcoholic drinks by taste or smell. See [Travel Aware Drink Spiking and Methanol Poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) for information about how to reduce the risks.
+
+Seek urgent medical attention if you or someone you are travelling with show the [signs of methanol poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) after drinking.
+
 ### Scams
 
 There have been isolated reports of some trekking guides taking inexperienced trekkers to high altitudes too quickly, and then calling in expensive helicopter medivacs from which the guides take a cut. Be wary of trekking deals that look very cheap and may be scams.

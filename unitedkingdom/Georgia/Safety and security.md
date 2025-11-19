@@ -14,7 +14,7 @@ Terrorist attacks in Georgia cannot be ruled out. Attacks could happen anywhere 
 
 ## Political situation
 
-23 September marked the 300th consecutive day of political demonstrations. , There is a heightened risk of demonstrations and political rallies, some leading to violent confrontation between police and protesters. In Tbilisi these are mainly on Rustaveli Avenue, Chavchavadze Avenue and Heroes’ Square and in other nearby areas, but they can begin or end at different locations across the city, disrupting traffic. Demonstrations are taking place in other cities and towns. Demonstrations generally begin in the evening and some rallies extend into the night. Demonstrations may lead to travel disruption.
+12 November marked the 350th consecutive day of political demonstrations. There is a heightened risk of demonstrations and political rallies, some leading to violent confrontation between police and protesters. In Tbilisi these are mainly on Rustaveli Avenue, Chavchavadze Avenue and Heroes’ Square and in other nearby areas, but they can begin or end at different locations across the city, disrupting traffic. Demonstrations are taking place in other cities and towns. Demonstrations generally begin in the evening and some rallies extend into the night. Demonstrations may lead to travel disruption.
 
 Tensions can escalate without warning. You should:
 

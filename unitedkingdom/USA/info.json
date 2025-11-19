@@ -1,11 +1,11 @@
 {
     "name": "USA",
-    "update_reason": "New information that there could be travel disruption following a US federal government shutdown (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Removal of information that there could be travel disruption following a US federal government shutdown.",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/USA/Warnings and insurance.md",
-            "update_date": "2025-10-09T10:35:21+01:00"
+            "update_date": "2025-11-18T11:42:53+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/USA/Getting help.md"
         }
     ],
-    "update_date": "2025-10-09T10:35:21+01:00"
+    "update_date": "2025-11-18T11:42:53+00:00"
 }

@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   23 October 2025
+:   19 November 2025
 
 Updated:
-:   22 October 2025
+:   18 November 2025
 
 Latest update:
-:   New information about visit visas and being required to provide biometrics if you are visiting Jordan for purposes other than tourism ('Entry requirements' page).
+:   Addition of information on the risks from methanol poisoning ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/65bbcf944965c50010e8a3f1/FCDO__TA__087_-_Jordan_Travel_Advice_Ed2__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/65bbcf95cc6fd600145dbec4/FCDO__TA__087_-_Jordan_Travel_Advice_Ed2.pdf)
+[Download a more detailed map (PDF, 386 KB)](https://assets.publishing.service.gov.uk/media/65bbcf95cc6fd600145dbec4/FCDO__TA__087_-_Jordan_Travel_Advice_Ed2.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 

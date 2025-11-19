@@ -1,19 +1,15 @@
 # Warnings and insurance
 
 Still current at:
-:   10 October 2025
+:   19 November 2025
 
 Updated:
-:   9 October 2025
+:   18 November 2025
 
 Latest update:
-:   New information that there could be travel disruption following a US federal government shutdown (‘Warnings and insurance’ page).
+:   Removal of information that there could be travel disruption following a US federal government shutdown.
 
 This travel advice also covers American Samoa, Guam, Northern Mariana Islands, Puerto Rico, and United States Virgin Islands.
-
-## Travel disruption
-
-There could be travel disruptions, including flight delays and longer queue times at some airports, due to the current US federal government shutdown. Check for messaging from your travel provider or airline and follow their guidance. There may also be restrictions on access to some federally-managed tourist attractions. Please check the relevant websites in advance.
 
 ## Before you travel
 

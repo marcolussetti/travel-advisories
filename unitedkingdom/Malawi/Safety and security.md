@@ -36,6 +36,14 @@ Be cautious if over-friendly people approach you offering to act as guides, sell
 
 People have been robbed after eating drugged food. Do not accept food or drink from strangers.
 
+### Methanol poisoning
+
+There has been an increase in cases of serious illness caused by alcoholic drinks containing methanol in popular travel destinations around the world.
+
+Even small amounts of methanol can kill. It is not possible to identify methanol in alcoholic drinks by taste or smell. See [Travel Aware Drink Spiking and Methanol Poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) for information about how to reduce the risks.
+
+Seek urgent medical attention if you or someone you are travelling with show the [signs of methanol poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) after drinking.
+
 ### Burglary and violent assault
 
 There is a risk of  burglaries and violent assault, including by armed gangs. A group of UK tourists were violently assaulted and robbed in 2025 in their hotel in Mulanje. There has been an increase in break-ins in Lilongwe, Blantyre and Limbe, including violent assaults on residents. Review your security systems and watch out for anything unusual.

@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   19 November 2025
 
 Updated:
-:   21 February 2025
+:   18 November 2025
 
 Latest update:
-:   Removal of information about transport risks since Bishwa Ijtema has concluded('Safety and security' page).
+:   Addition of information on the risks from methanol poisoning ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/66cdbf9203c7db1b41c7091b/FCDO__TA__050_-_Bangladesh_Travel_Advice_Ed2__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/66cdbf93f04c14b05511b332/FCDO__TA__050_-_Bangladesh_Travel_Advice_Ed2.pdf)
+[Download a more detailed map (PDF, 1.02 MB)](https://assets.publishing.service.gov.uk/media/66cdbf93f04c14b05511b332/FCDO__TA__050_-_Bangladesh_Travel_Advice_Ed2.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 

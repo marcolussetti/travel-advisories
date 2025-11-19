@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   15 November 2025
+:   19 November 2025
 
 Updated:
-:   14 November 2025
+:   18 November 2025
 
 Latest update:
-:   Information on reports of cases of viral haemorrhagic fever in South Ethiopia (Health page).
+:   Information on reports of cases of Marburg in South Ethiopia (Health page).
 
 ![](https://assets.publishing.service.gov.uk/media/6894853aa6eb81a3f9b2e20e/FCDO__TA__017_-_Ethiopia_Travel_Advice_Ed38__WEB_.jpg)
 

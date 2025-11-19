@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   7 October 2025
+:   19 November 2025
 
 Updated:
-:   6 October 2025
+:   18 November 2025
 
 Latest update:
-:   Removal of information about countrywide protests and demonstrations (‘Warnings and insurance’ page).
+:   Addition of information on the risks from methanol poisoning ('Safety and security' page).
 
 ## Before you travel
 

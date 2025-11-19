@@ -1,13 +1,19 @@
 # Warnings and insurance
 
 Still current at:
-:   2 August 2025
+:   19 November 2025
 
 Updated:
-:   1 August 2025
+:   18 November 2025
 
 Latest update:
-:   Removal of information on FlySafair pilot strike ('Warnings and insurance' page).
+:   New information on potential travel disruptions due to the G20 Leaders Summit in Johannesburg on 21-23 November ('Warnings and insurance' page).
+
+## G20 Leaders Summit in Johannesburg
+
+South Africa will be hosting the G20 Leaders Summit in Johannesburg from 21-23 November. Expect road closures in Johannesburg, the Pretoria-Johannesburg highway (N1 and M1) and the highways linking OR Tambo International Airport with Pretoria and Johannesburg.
+
+Keep up to date with local media reports and follow the advice of local authorities. If you are travelling to or from the airport or within Johannesburg, additional travel time may be necessary.
 
 ## Before you travel
 

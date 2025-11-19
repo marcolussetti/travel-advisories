@@ -6,16 +6,16 @@ You should also read FCDO’s [overall travel advice](/foreign-travel-advice/geo
 
 ## South Ossetia and Abkhazia
 
-For security reasons, FCDO advises against all travel to the breakaway regions of:
+For security reasons, FCDO advises against all travel to the Russian occupied regions of:
 
 * South Ossetia
 * Abkhazia
 
 FCDO also advises against all but essential travel to areas immediately next to the administrative boundary lines with South Ossetia and Abkhazia.
 
-The administrative boundary lines with the breakaway regions of Abkhazia and South Ossetia are generally unmarked and away from roads. Take care not to cross the lines – you could be arrested by the region’s self-declared authorities.
+The administrative boundary lines with the Russian occupied regions of Abkhazia and South Ossetia are generally unmarked and away from roads. Take care not to cross the lines – you could be arrested by the region’s self-declared authorities.
 
-The Georgia and UK governments do not recognise the unilateral declarations of independence by the breakaway regions of South Ossetia and Abkhazia. Following international law, the Georgian government claims the right to exercise sovereignty in these territories. The UK government, along with almost all other states, recognises Georgia’s right to do this.
+The Georgia and UK governments do not recognise the unilateral declarations of independence by the Russian occupied regions of South Ossetia and Abkhazia. Following international law, the Georgian government claims the right to exercise sovereignty in these territories. The UK government, along with almost all other states, recognises Georgia’s right to do this.
 
 Consular support is not available in Abkhazia and South Ossetia.
 

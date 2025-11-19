@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   16 August 2025
+:   19 November 2025
 
 Updated:
-:   15 August 2025
+:   18 November 2025
 
 Latest update:
-:   Updated with information about the risks from terrorism and risks following arrest ('Safety and security' page).
+:   Addition of information on the risks from methanol poisoning ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/627e359b8fa8f53f99901991/FCDO__TA__021_-_Iran_Travel_Advice_Ed5__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/627e359be90e0721b27ff8c2/FCDO__TA__021_-_Iran_Travel_Advice_Ed5.pdf)
+[Download a more detailed map (PDF, 936 KB)](https://assets.publishing.service.gov.uk/media/627e359be90e0721b27ff8c2/FCDO__TA__021_-_Iran_Travel_Advice_Ed5.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 

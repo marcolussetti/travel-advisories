@@ -52,6 +52,16 @@ Passengers using rickshaws, taxis, buses or trains are vulnerable to violent cri
 
 Beware of pickpockets and bag-snatchers. When walking in public, do not use a mobile phone. Avoid carrying or showing large amounts of money, or wearing expensive-looking jewellery or watches.
 
+### Methanol poisoning
+
+There have been deaths and cases of serious illness caused by alcoholic drinks containing methanol in Bangladesh.
+
+Alcohol is strictly regulated in Bangladesh. Non-Muslim citizens over 21 and foreign visitors may drink in licensed venues with permits, while it is banned for Muslims except for medical reasons. These restrictions often lead people to seek alcohol from unlicensed sources, creating a black market and increasing the risk of methanol poisoning.
+
+Even small amounts of methanol can kill. It is not possible to identify methanol in alcoholic drinks by taste or smell. See [Travel Aware Drink Spiking and Methanol Poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) for information about how to reduce the risks.
+
+Seek urgent medical attention if you or someone you are travelling with show the [signs of methanol poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) after drinking.
+
 ### Dhaka and Sylhet airports
 
 Dhaka international and Sylhet airports are fully operational. Check with your travel provider for updates.

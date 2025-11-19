@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   16 October 2025
+:   19 November 2025
 
 Updated:
-:   15 October 2025
+:   18 November 2025
 
 Latest update:
-:   New information about requirement for Digital Arrival Card ('Entry requirements' page).
+:   Addition of information on the risks from methanol poisoning ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/68b1908211b4ded2da19fc61/FCDO__TA__063_-_Papua_New_Guinea_Ed2__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/68b19083536d629f9c82a8e9/FCDO__TA__063_-_Papua_New_Guinea_Ed2.pdf)
+[Download a more detailed map (PDF, 815 KB)](https://assets.publishing.service.gov.uk/media/68b19083536d629f9c82a8e9/FCDO__TA__063_-_Papua_New_Guinea_Ed2.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth and Development Office (FCDO).
 
