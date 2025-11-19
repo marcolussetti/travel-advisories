@@ -2,7 +2,7 @@
 
 ### **Security status**
 
-**Israel:** Avoid Non-Essential Travel
+**Israel:** High Degree of Caution
 
 **Palestine:** Do Not Travel
 
