@@ -46,7 +46,7 @@ Tourist visa: not required for stays of up to 90 days
 Business visa: not required for stays of up to 90 days  
 Student visa: required
 
-You may request an extension equal to the number of days you were initially authorized to stay at the Guatemalan Migration Institute. If you wish to conduct business or stay in Guatemala for a period exceeding 6 months, you require a visa..
+You may request an extension equal to the number of days you were initially authorized to stay at the Guatemalan Migration Institute. If you wish to conduct business or stay in Guatemala for a period exceeding 6 months, you require a visa.
 
 [Guatemalan Migration Institute](http://igm.gob.gt/) – Government of Guatemala (Spanish only)
 
@@ -62,7 +62,7 @@ If you enter Guatemala with a vehicle, you must comply with the deadline for lea
 
 You must complete an electronic declaration form before arriving in Guatemala and before leaving. You will then receive a QR code. Keep a printed or electronic copy of your QR code to present to authorities upon your arrival or departure.
 
-[Electronic declaration form](https://farm2.sat.gob.gt/declaDelViajeroGt-web/pages/public/declaracionJuradaDelViajero.html) - Government of Guatemala
+[Electronic declaration form](https://farm2.sat.gob.gt/declaDelViajeroGt-web/pages/public/declaracionJuradaDelViajero.html) – Government of Guatemala
 
 ### Central America-4 Border Control Agreement (CA-4)
 
@@ -79,7 +79,7 @@ You must still check in at immigration counters when you enter or exit these che
 
 Make sure you receive an entry or exit stamp in your passport each time you cross a checkpoint to avoid fines and problems with immigration authorities.
 
-You may request an extension equal to the number of days you were initially authorized to stay . However, you must request this extension and pay the required fee at the Guatemalan Migration Institute before your first authorized stay expires. Immigration authorities will determine the exact length of the extension.
+You may request an extension equal to the number of days you were initially authorized to stay. However, you must request this extension and pay the required fee at the Guatemalan Migration Institute before your first authorized stay expires. Immigration authorities will determine the exact length of the extension.
 
 You are authorized to stay in Guatemala for a maximum of 180 days. However, if you receive an extension in another CA-4 country that leads to a total authorized stay of less than 180 days, you cannot request another extension in Guatemala. Likewise, if you receive an extension in another CA-4 country that leads to a total authorized stay of more than 180 days, Guatemala will only recognize the first 180 days.
 

@@ -95,4 +95,4 @@ The currency of Guatemala is the Guatemalan quetzal (GTQ).
 
 You cannot exchange Canadian dollars in Guatemala. Some ATMs will accept Canadian debit cards with a four-digit PIN. Canadian debit cards with a five-digit PIN are not accepted.
 
-U.S. dollars may be exchanged for local currency at most major banks..
+U.S. dollars may be exchanged for local currency at most major banks.

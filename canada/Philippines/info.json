@@ -1,7 +1,7 @@
 {
     "name": "Philippines",
-    "update_reason": "Natural disasters and climate \u2013 removed information on Typhoon Fung-Wong (Uwan)",
-    "update_date": "2025-11-17T09:06:00",
+    "update_reason": "Safety and security \u2013 removed information on demonstrations across Metro Manila",
+    "update_date": "2025-11-19T07:50:00",
     "sections": {
         "risk": "canada/Philippines/risk.md",
         "security": "canada/Philippines/security.md",

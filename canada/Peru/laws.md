@@ -6,11 +6,17 @@ You must abide by local laws.
 
 Learn about what you should do and how we can help if you are [arrested or detained abroad](http://travel.gc.ca/assistance/emergency-info/arrest-detention).
 
+### Transfer to a Canadian prison
+
+Canada and Peru are Parties to the Treaty between the Government of Canada and the Government of the Republic of Peru on the Execution of Penal Sentences. This enables a Canadian imprisoned in Peru to request a transfer to a Canadian prison to complete a sentence. The transfer requires the agreement of both Canadian and Peruvian authorities.
+
+This process can take a long time, and there is no guarantee that the transfer will be approved by either or both sides.
+
 ### Drugs
 
-Penalties for possession, use or trafficking of illegal drugs are severe. Convicted offenders can expect lengthy jail sentences, regardless of the amount of narcotics seized at arrest.
+Penalties for possession, use or trafficking of illegal drugs are severe. Convicted offenders can expect lengthy jail sentences and heavy fines.
 
-If you are arrested in Peru, you should expect lengthy delays to resolve your case, pre-trial detention in harsh conditions and significant related expenses.
+If you are arrested in Peru, you should expect lengthy delays to resolve your case, preventive detention of several months and significant related expenses.
 
 * Pack your own luggage and monitor it closely at all times
 * Never transport other people’s packages, bags or suitcases
@@ -23,27 +29,30 @@ You must carry photo identification at all times. Keep a photocopy of your passp
 
 ### Behaviour
 
-Peruvian authorities may impose fines and other penalties for any action considered to be disrespectful at historical and archaeological sites such as Machu Picchu, Ollantaytambo and Saqsayhuaman. Visitors to Machu Picchu must adhere to strict regulations regarding entry restrictions and behaviour within the site. Check with your travel guide or agent for the latest information.
+Peruvian authorities may impose fines and other penalties for any action considered to be disrespectful at historical and archaeological sites.
+
+To avoid offending local sensitivities:
+
+* behave discreetly
+* respect religious and social traditions
+* respect the established and published rules of the sites
+* check with your travel guide or agent for the latest information
 
 ### Exports
 
-Peruvian law strictly prohibits the export of antiques and artefacts (huacos) from pre-colonial civilizations. Purchase reproductions of colonial or pre-colonial art from reputable dealers only and insist on obtaining documentation from Peru's National Institute of Culture to prove that the object is a reproduction and may be exported.
+Peruvian law strictly prohibits the export of:
 
-The export of coca tea bags and products is prohibited.
+* antiques and artefacts from pre-colonial civilizations
+* coca products
+* protected species
 
-It is illegal to remove certain fauna and flora items from Peru. Items made from or displaying animals, insects or plants may be seized. If you are convicted of possession of such items, you could face heavy fines or jail sentences.
+ Only purchase reproductions of colonial or pre-colonial art from reputable dealers and obtain documentation from Peru's National Institute of Culture.
 
-[National Forest and Wildlife Service (SERFOR)](https://www.serfor.gob.pe/) - Ministry of Agriculture and Irrigation of Peru (in Spanish)
+[Prohibited exports](https://www.gob.pe/6997-mercancias-restringidas-y-prohibidas) – National Superintendence of Customs and Tax Administration (Spanish only)
 
 ### Photography
 
 It is forbidden to photograph military installations.
-
-### 2SLGBTQI+ persons
-
-Peruvian law does not prohibit sexual acts between individuals of the same sex. However, homosexuality is not widely accepted in Peruvian society.
-
-[Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
 
 ### Dual citizenship
 
@@ -81,16 +90,23 @@ Be aware that Canadian consular officials cannot interfere in private legal matt
 
 ### Driving
 
-You must carry an international driving permit. A foreign driver's licence can be used only in Lima and only for 30 days after arrival.
+Police officers often request drivers to pull over and present their documents. Carry identification and vehicle registration at all times. As a tourist, you may use your Canadian driver's licence for the duration of your authorized stay.
 
-Carry identification and vehicle registration at all times.
+If a police officer stops you for violating traffic rules, you will receive a written document indicating the offence. Don’t pay the fine to the police directly but at a tax administration service, ‘Servicio de Administración Tributaria’, or any agency of ‘Banco de la Nación.’ If a police officer asks you to pay a percentage of the fine in cash, don’t pay it. Inform the police officer that you will pay the fine at the appropriate entity. You can check the fine online with your license plate number.
 
-[International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
+Traffic regulation is different from Canada, the legal age to drive is 18.
+
+#### Useful links
+
+* [Online fine payments](https://pagalo.pe/) – Ministry of the Economy and Finance (in Spanish only)
+* [Bank of the Peruvian government](https://www.bn.com.pe/)  – National bank (in Spanish only)
 
 ### Money
 
 The currency is the Peruvian sol (PEN). The U.S. dollar is widely accepted.
 
+You must declare upon arrival and departure if you carry more than US$10,000 or equivalent in other currencies.
+
 Credit cards are not commonly accepted outside major cities. Many establishments will request to see a passport to confirm the identity of the person using the credit card.
 
-ATMs are not easily accessible in small towns. They often have limits to the amount and number of daily withdrawals.
+ATMs are not easily accessible in small towns and they often have limits on the amount and number of daily withdrawals.

@@ -24,6 +24,14 @@ A tsunami can occur within minutes of a nearby earthquake. However, the risk of 
 
 ### Volcanoes
 
+### Mount Semeru eruption
+
+On November 19, 2025, a significant volcanic eruption occured at Mount Semeru in Lumajang Regency, East Java. The region is also experiencing increased seismic activity.
+
+Indonesian authorities have evacuated the surrounding areas.
+
+A large volcanic ash cloud could disrupt air traffic and cause flight delays or cancellations.
+
 Indonesia has 129 active volcanoes and periodically experiences major volcanic events that can be dangerous, even life-threatening. Ash clouds can disrupt air travel, including on the island of Bali, and cause or worsen respiratory problems. Rain near volcanos can cause dangerous floods, called ‘lahar’ or cold lava floods, that contain volcanic debris.
 
 Concerning volcanic activity is ongoing in the following areas:
@@ -31,6 +39,7 @@ Concerning volcanic activity is ongoing in the following areas:
 * Mount Ibu volcano on Halmahera Island in North Maluku province
 * Mount Lewotobi Laki-Laki volcano on Flores Island in East Nusa Tenggara province
 * Mount Merapi volcano on Java Island on the border between the province of Central Java and the Special Region of Yogyakarta
+* Mount Semeru volcano on Java Island in East Java Province
 
 Active volcanoes are monitored to provide residents with an early warning should unusual activity occur. Local authorities can raise alert levels and order evacuations on short notice.
 

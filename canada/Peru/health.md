@@ -303,13 +303,50 @@ High-risk travellers include those visiting or working in prisons, refugee camps
 
 Quality of care varies throughout the country.
 
-Private hospitals and clinics in urban centres are well-staffed and -equipped to handle any emergency or medical issue. Public hospitals and rural facilities, even in some tourist destinations and major cities, may not meet Canadian standards or may be inadequate to treat serious conditions.
+Private hospitals and clinics in urban centres are well-staffed and equipped. Public hospitals and rural facilities lack basic resources and supplies. Access to mental health services is limited, including in urban centres.
 
-Cases of serious injury or illness in remote areas may require evacuation to the nearest adequate medical facility in the country. Clinic, hospital and evacuation expenses can be costly and the service provider often expects immediate cash payment or confirmation of payment from an insurance company.
+Most healthcare providers speak only Spanish.
+
+Cases of serious injury or illness in remote areas may require evacuation to the nearest adequate medical facility in the country. Clinic, hospital and evacuation expenses can be costly and the service provider often expects immediate cash or credit payment or confirmation of payment from an insurance company.
 
 Make sure you get travel insurance that includes coverage for medical evacuation and hospital stays.
 
 [Health and safety outside Canada](https://travel.gc.ca/travelling/health-safety)
+
+### High-altitude illnesses
+
+You’re at risk of high-altitude illnesses if you travel 2500 metres above sea level or more.
+
+In many areas of Peru, including tourist areas, altitude changes quickly. You may experience health problems due to high altitudes, including in:
+
+* Ayacucho
+* Cusco
+* Huaraz
+* Puno
+* Lake Titicaca
+* Colca Canyon
+
+You're more at risk if you:
+
+* ascend quickly
+* exercise or drink alcohol before you get used to the altitude
+
+High-altitude illnesses can be life-threatening. They may require immediate medical evacuation. Seek medical attention at a lower altitude if you develop symptoms.
+
+[High altitude illnesses](https://travel.gc.ca/travelling/health-safety/travel-health-information/altitude-illnesses)
+
+### Medication
+
+Some prescription medications may not be available in Peru.
+
+If you take prescription medication, you are responsible for determining their legality in the country.
+
+* Bring sufficient quantities of your medication with you
+* Always keep your medication in the original container
+* Pack your medication in your carry-on luggage
+* Carry a copy of your prescriptions
+
+[Travelling with medication](https://travel.gc.ca/travelling/health-safety/medication)
 
 ### Keep in Mind...
 

@@ -37,9 +37,9 @@ Border crossings on the following highways:
   + Tecun Uman border with Mexico
   + El Carmen border with Mexico
   + La Hachadura border with El Salvador
-* CA-09: El Corinto border with Honduras
 * CA-10: Agua Caliente border with Honduras
 * CA-11: El Florido border with Honduras
 * CA-12: Anguiatu border with El Salvador
 * CA-13: Melchor de Mencos border with Belize
+* CA-13: El Corinto border with Honduras
 * PET-13: El Ceibo border with Mexico

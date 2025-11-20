@@ -6,24 +6,59 @@
 
 [Exercise a high degree of caution](#levels "Risk Levels") in Peru due to high levels of crime, as well as social conflicts and strikes that may occur across the country.
 
-### Regional advisory - Avoid non-essential travel
+### Valley of the Apurímac, Ene and Mantaro Rivers (VRAEM) - Avoid all travel
 
-[Avoid non-essential travel](#levels "Risk Levels") to the following areas due to instances of domestic terrorism and criminal activity such as drug trafficking, robberies, kidnappings, extortion and raids:
+[Avoid all travel](#levels "Risk Levels") to the Valley of the Apurímac, Ene and Mantaro Rivers (VRAEM) and surroundings due to the risk of terrorism, drug trafficking and associated crime, and limited law enforcement presence.
 
-* Huallaga and Tocache provinces in the department of San Martín
-* the Upper Huallaga and Ene river valleys in the departments of Huánuco and San Martín
-* Padre Abad province in the department of Ucayali
-* Huacaybamba, Humalíes, Leoncio Prado and Marañón provinces in the department of Huánuco
-* Concepción and Satipo provinces in the department of Junín
-* Tayacaja province in the department of Huancavelica
-* the districts of Abancay, Andahuaylas and Chincheros in the department of Apurímac
-* Huanta and La Mar provinces, in the department of Ayacucho
-* Valley of Apurimac, Ene and Mantaro rivers (VRAEM)
+This area consists of:
+
+* in the Department of Apurímac:
+  + Province of Abancay
+  + Province of Andahuaylas
+  + Province of Chincheros
+* in the Department of Ayacucho:
+  + Province of Huanta
+  + Province of La Mar
+* in the Province of Convención in the Department of Cusco:
+  + District of Pichari
+  + District of Quimbiri
+  + District of Vilcabamba
+* in the Department of Huancavelica:
+  + Province of Churcampa
+  + Province of Tayacaja
+* in the Department of Junin:
+  + Province of Conceptión
+  + Province of Satipo
+
+### Upper Huallaga River Valley - Avoid non-essential travel
+
+[Avoid non-essential travel](#levels "Risk Levels") to the Upper Huallaga River Valley and surroundings due to instances of domestic terrorism and criminal activity such as drug trafficking, robberies, kidnappings, extortion and raids.
+
+This area consists of:
+
+* in the department of Huánuco:
+
++ District of Marias in the Province of Dos de Mayo
++ Province of Huacaybamba
++ Province of Humalíes
++ District of Chinchao and District of Churubamba in the Province of Huánuco
++ Province of Leoncio Prado
++ Province of Marañón
+
+* in the department of San Martín:
+
++ Province of Huallaga
++ District of Campanilla in the Province of Mariscal Caceres
++ Province of Tocache
+
+* in the department of Ucayali:
+
++ Province of Padre Abad
 
 ### Border area with Colombia - Avoid non-essential travel
 
-[Avoid non-essential travel](#levels "Risk Levels") to areas within 20 km of the border with Colombia due to drug trafficking and occasional incursions by armed guerrilla forces from Colombia into Peru.
+[Avoid non-essential travel](#levels "Risk Levels") to areas within 20 km of the border with Colombia due to gang-related violence and organized crime linked to drug trafficking and illegal mining.
 
 ### Border area with Ecuador - Avoid non-essential travel
 
-[Avoid non-essential travel](#levels "Risk Levels") to areas within 20 km of the border with Ecuador, especially in the Cordillera del Cóndor region, due to the safety threat posed by landmines.
+[Avoid non-essential travel](#levels "Risk Levels") to areas within 20 km of the border with Ecuador, except for Tumbes border crossing and the Panamerican Highway, due to the presence of landmines and unmarked minefields.

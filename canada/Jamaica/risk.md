@@ -4,8 +4,8 @@
 
 ### Jamaica - AVOID ALL TRAVEL
 
-[Avoid all travel](#levels "Risk Levels") to Jamaica, with the exception of the metropolitan Kingston area and airport, due to the extensive damage caused by Hurricane Melissa.
+[Avoid all travel](#levels "Risk Levels") to Jamaica due to the extensive damage caused by Hurricane Melissa, with the exception of the parishes listed below.
 
-### Kingston - Exercise a high degree of caution
+### Eastern parishes - Exercise a high degree of caution
 
-[Exercise a high degree of caution](#levels "Risk Levels") in the metropolitan Kingston area and airport due to the damage caused by Hurricane Melissa.
+[Exercise a high degree of caution](#levels "Risk Levels") in the parishes of Kingston, Portland, St Ann, St Mary and St Andrew due to the damage caused by Hurricane Melissa.
