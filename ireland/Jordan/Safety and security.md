@@ -2,11 +2,11 @@
 
 ### **Unrest**
 
-Regional developments have the potential to trigger popular unrest in all parts of the region, including Jordan. The ongoing conflict in Gaza, as well as the deterioration of the wider security situation in the region, has resulted in higher tensions in Jordan, though the majority of demonstrations have remained peaceful.
+Regional developments have the potential to trigger popular unrest in all parts of the region, including Jordan. The situation in Gaza, has resulted in higher tensions in Jordan, though demonstrations have remained peaceful.
 
 Travel to the border regions with Iraq and Syria should be avoided given the continued threat of cross-border violence, including the risk of terrorist attacks. Despite the regime change, the security situation in Syria continues to evolve and security threats in the form of instability or terrorist activity could arise with little or no notice.
 
-Demonstrations regularly occur over the weekends in Amman, particularly on Thursday evenings. Similar demonstrations also occur in other towns or cities. Political demonstrations and gatherings, which can arise at short notice, should be avoided. These often occur in the downtown area of Amman and the centres of other towns and cities, as well as at mosques, after Friday midday prayers. Follow the advice of local authorities and stay informed of the security situation through the media and this travel advice.
+Political demonstrations and gatherings, which can arise at short notice, should be avoided. These often occur in the downtown area of Amman and the centres of other towns and cities, as well as at mosques, after Friday midday prayers. Follow the advice of local authorities and stay informed of the security situation through the media and this travel advice.
 
 Avoid travel to refugee camps in Jordan. These are managed by the Government of Jordan. You must receive the Government of Jordan’s approval for any travel into refugee camps.
 

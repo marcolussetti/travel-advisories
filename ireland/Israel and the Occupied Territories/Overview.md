@@ -8,7 +8,7 @@
 
 ### **Travel Alert**
 
-**The Department of Foreign Affairs and Trade advises against all but essential travel to Israel. Irish citizens currently in Israel or Palestine who have not already done so,** **are asked to register** **on the Department’s Citizens Registration platform** [**here**](https://citizensregistration.dfa.ie/)**.**
+**Irish citizens currently in Israel or Palestine who have not already done so** **are asked to register** **on the Department’s Citizens Registration platform** [**here**](https://citizensregistration.dfa.ie/)**.**
 
 **The Department of Foreign Affairs advises against all travel to Palestine,** **with the exception of East Jerusalem, where we advise against non-essential travel.**
 
