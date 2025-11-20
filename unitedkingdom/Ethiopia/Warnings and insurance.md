@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   19 November 2025
+:   20 November 2025
 
 Updated:
-:   18 November 2025
+:   19 November 2025
 
 Latest update:
-:   Information on reports of cases of Marburg in South Ethiopia (Health page).
+:   FCDO advises against all but essential travel within 5km of the town of Jinka due to the Marburg outbreak.
 
-![](https://assets.publishing.service.gov.uk/media/6894853aa6eb81a3f9b2e20e/FCDO__TA__017_-_Ethiopia_Travel_Advice_Ed38__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/691e12cae39a085bda43efea/Ethiopia.jpg)
 
 
-[Download a more detailed map (PDF, 814 KB)](https://assets.publishing.service.gov.uk/media/6894853aad0cbc0e276430ee/FCDO__TA__017_-_Ethiopia_Travel_Advice_Ed38.pdf)
+[Download a more detailed map (PDF, 814 KB)](https://assets.publishing.service.gov.uk/media/691e12cad140bbbaa59a2a94/Map_of_Ethiopia.pdf)
 
 ## Areas where FCDO advises against travel
 
@@ -89,7 +89,9 @@ FCDO advises against all but essential travel to:
 
 ### Central, Southern, Sidama and South West regions (formerly SNNPR)
 
-FCDO advises against all travel to within 10km of the borders with South Sudan and Kenya including the shores of Lake Turkana
+FCDO advises against all travel to within 10km of the borders with South Sudan and Kenya including the shores of Lake Turkana.
+
+FCDO advises against all but essential travel within 5km of the town of Jinka due to the Marburg outbreak.
 
 ### Benishangul-Gumuz region
 

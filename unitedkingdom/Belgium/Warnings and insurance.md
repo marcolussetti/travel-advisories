@@ -1,19 +1,19 @@
 # Warnings and insurance
 
 Still current at:
-:   14 October 2025
+:   20 November 2025
 
 Updated:
-:   13 October 2025
+:   19 November 2025
 
 Latest update:
-:   Addition of a link to the Belgian Immigration Office website with information on the European Entry/Exit System (EES) ('Entry requirements' page).
+:   New information on strike action ('Warnings and insurance' page).
 
 ## National strike action
 
-A general strike is planned for Tuesday 14 October. This is expected to affect airports, public transport, and some public services including schools. A demonstration is planned for central Brussels.
+Strikes are planned for Monday 24, Tuesday 25 and Wednesday 26 November. This is expected to affect airports, public transport and some public services, including schools. Public transport will be affected from 10pm on Sunday 23 November. A demonstration is planned for central Brussels on Wednesday 26 November.
 
-Strike action is an ongoing issue that can cause travel disruption. General strikes took place on 31 March and 29 April. Strike action may be announced at short notice.
+Strike action is an ongoing issue that can cause travel disruption. General strikes took place on 31 March, 29 April and 14 October. Strike action may be announced at short notice.
 
 Monitor local news and check with your provider regarding potential delays and closures. Read more information about demonstrations and strikes on the [Safety and security page](https://www.gov.uk/foreign-travel-advice/belgium/safety-and-security).
 

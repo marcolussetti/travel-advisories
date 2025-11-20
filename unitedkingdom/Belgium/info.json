@@ -1,11 +1,11 @@
 {
     "name": "Belgium",
-    "update_reason": "Addition of a link to the Belgian Immigration Office website with information on the European Entry/Exit System (EES) ('Entry requirements' page).",
+    "update_reason": "New information on strike action ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Belgium/Warnings and insurance.md",
-            "update_date": "2025-10-13T13:48:16+01:00"
+            "update_date": "2025-11-19T12:38:08+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Belgium/Getting help.md"
         }
     ],
-    "update_date": "2025-10-13T13:48:16+01:00"
+    "update_date": "2025-11-19T12:38:08+00:00"
 }
