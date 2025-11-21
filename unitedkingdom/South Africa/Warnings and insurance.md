@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   19 November 2025
+:   21 November 2025
 
 Updated:
-:   18 November 2025
+:   20 November 2025
 
 Latest update:
-:   New information on potential travel disruptions due to the G20 Leaders Summit in Johannesburg on 21-23 November ('Warnings and insurance' page).
+:   Addition of information about South African National Parks advising on recommended routes for those travelling from Gqeberha to Addo Elephant Park ('Safety and security' page).
 
 ## G20 Leaders Summit in Johannesburg
 

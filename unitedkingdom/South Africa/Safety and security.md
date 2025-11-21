@@ -226,6 +226,10 @@ It is illegal to buy, sell, kill or capture any protected wild animal or trade a
 
 ## Outdoor activities and adventure tourism
 
+### Addo Elephant Park
+
+South African National Parks advise visitors travelling from Gqeberha (formerly Port Elizabeth) to Addo Elephant Park to use the N2 via Colchester, rather than the R335 via Motherwell due to crime, including vehicle high jackings. Recommended routes can be found on the [South African National Parks Website](https://www.sanparks.org/parks/addo-elephant/travel/directions-distances).
+
 Do not take unnecessary risks when participating in outdoor activities and adventure tourism. Health and safety standards vary globally and may not be the same as in the UK.
 
 Check with the local tourism office for safe and licenced operators and consider hiring a registered guide.
