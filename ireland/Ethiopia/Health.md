@@ -14,6 +14,10 @@ Polio vaccination is recommended for all travellers from Ireland to countries wh
 
 Before travelling to areas where poliomyelitis cases are still occurring, travellers should ensure that they have completed the recommended age-appropriate polio vaccine schedule and have received a booster dose, if necessary. More information is available on the [**Health Protection and Surveillance Centre website.**](https://www.hpsc.ie/a-z/vaccinepreventable/polio/guidance/)
 
+### **Marburg Virus**
+
+The Ethiopian Ministry of Health has reported cases of Marburg virus in the town of Jinka, southern Ethiopia. You should follow guidance from local authorities.
+
 ### **Waterborne Diseases**
 
 Waterborne diseases are common in Ethiopia and it is advisable to either boil water before drinking, or use bottled water. Since water boils at temperatures below 100 degrees centigrade at high altitudes, boiling may not be adequate to ensure sterilisation in some places. Bilharzia is common in most lakes in Ethiopia; check before going swimming.

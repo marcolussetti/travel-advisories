@@ -14,9 +14,9 @@ The following border crossings for passenger vehicles remain in operation but ma
 
 Latvia: Paternieki
 
-Poland: Terespol, Kuznica, Bobrovnik
+Lithuania: Medininkai, Šalčininkai
 
-Additionally, EU citizens (including Irish) can depart from Belarus into Lithuania at the Medininkai border crossing. Pedestrian and bicycle crossings are not permitted at this crossing. As of October 2025, no other border crossings with Lithuania are open.
+Poland: Terespol, Kuznica, Bobrovnik
 
 As of 19 July 2024, a visa is not required for Irish citizens who will be staying in Belarus for no more than thirty days.
 
