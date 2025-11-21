@@ -176,11 +176,11 @@ Snacks, beverages, gum and cigarettes may contain drugs that could put you at ri
 
 ### Adventure travel
 
-Outdoor activities, such as volcano tours, desert expeditions, water activities, and mountain biking, can be dangerous. Trails are not always marked and weather conditions can change rapidly, even in the summer.
+Outdoor activities, such as volcano tours, desert expeditions, water activities, hiking, and mountain biking, can be dangerous. Trails are not always marked and weather conditions can change rapidly, regardless of the season.
 
 Safety features in vehicles and on small boats used in river and lake excursions are not always reliable.
 
-If you intend to participate in adventure tourism activities:
+If you intend to participate in adventure travel activities:
 
 * share your itinerary with a friend or family member if you’re alone
 * use a registered tour/expedition company
@@ -194,6 +194,7 @@ For outdoor activities along the borders with Argentina, Bolivia or Peru, you mu
 
 #### Useful links
 
+* [Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 * [Parks and wilderness areas](http://www.conaf.cl/) – National Forest Corporation (CONAF) (Spanish only)
 * [Local weather forecast](http://www.meteochile.gob.cl/PortalDMC-web/index.xhtml) – Chilean Meteorological Service (Spanish only)
 * [Advice for trekking and mountaineering](https://www.interior.gob.cl/noticias/2016/10/27/precauciones-y-recomendaciones-para-disfrutar-seguros-de-la-montana-los-senderos-y-los-parques-nacionales/) – Ministry of the Interior and Public Safety (Spanish only)

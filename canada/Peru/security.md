@@ -4,7 +4,7 @@
 
 ### State of emergency
 
-On October 22, 2025, the Peruvian government declared a 30-day state of emergency in the provinces of Lima and Callao to curb a rise in violent crime.
+A state of emergency is in effect in the provinces of Lima and Callao to curb a rise in violent crime.
 
 The Peruvian government frequently declares regional states of emergency and publishes the information in *El Peruano*. A state of emergency allows the military to assist police forces to respond to security incidents and natural disasters. When a state of emergency is in effect, security forces have increased rights to:
 

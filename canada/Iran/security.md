@@ -32,6 +32,16 @@ If you encounter any debris or fragments:
 
 [Canada's response to the situation in the Middle East](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=eng "https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=eng")
 
+### Water shortages
+
+Drought has contributed to severe water shortages in Tehran and several provinces. Local authorities may ration water supplies, and running water may not always be available.
+
+If you’re in Iran:
+
+* keep supplies of bottled water and water purification tablets on hand
+* expect limits on the availability of drinkable water
+* monitor local media to stay informed of the evolving situation
+
 ### Increased surveillance and scrutiny
 
 Canadians in Iran are likely to be subject to increased surveillance and scrutiny by Iranian authorities, including for activities and behaviours that would be considered normal in Canada, including:
