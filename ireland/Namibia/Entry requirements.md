@@ -2,9 +2,7 @@
 
 ### **Visa**
 
-The Namibian Government instated new visa requirements, which came into force on 1 April 2025. These requirements apply to Irish citizens, who are required to obtain a visa and pay the associated fee. Visas can be obtained and payments made on arrival or in advance of travel, via an online application, which is recommended.
-
-Information regarding visa requirements and their associated costs is available online from the Namibian Ministry of Home Affairs, Immigration, Safety and Security website and on their e-services webpage.
+The Namibian Government instated new visa requirements, which came into force on 1 April 2025. These requirements apply to Irish citizens, who are required to obtain a visa and pay the associated fee. Visas can be obtained and payments made on arrival or in advance of travel, via an online application, which is recommended. For more information please visit the following website [**E-Services: Ministry of Home Affairs, Immigration, Safety and Security | E-Services Portal**](https://eservices.mhaiss.gov.na/).
 
 ### **Passport**
 

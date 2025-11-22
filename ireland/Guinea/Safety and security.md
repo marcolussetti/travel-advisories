@@ -38,4 +38,4 @@ If there is an emergency, or if you need help and advice, you can contact our Co
 
 As there is no Irish Embassy or Consulate in Guinea, we are limited in the help we can offer in an emergency. The best help is often close at hand so if you have problems, try talking to your local contacts, tour operator representative or hotel management.
 
-Under the EU Consular Protection Directive, Irish nationals may seek assistance from the Embassy or Consulate of any other EU member state in a country where there is no Irish Embassy or permanent representation. Contact details for EU member state embassies in Guinea may be found  [**here**](https://consular-protection.ec.europa.eu/representation-offices_en)**.**
+Under the EU Consular Protection Directive, Irish nationals may seek assistance from the Embassy or Consulate of any other EU member state in a country where there is no Irish Embassy or permanent representation. Contact details for EU member state embassies in Guinea may be found [**here**](https://consular-protection.ec.europa.eu/representation-offices_en)**.**

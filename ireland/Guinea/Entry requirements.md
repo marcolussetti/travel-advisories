@@ -2,7 +2,9 @@
 
 ### **Visa**
 
-Irish citizens need a visa to enter Guinea.
+Irish citizens need a visa to enter Guinea. You can apply for visas for both private and business travel and residency at the Embassy of the Republic of Guinea in London and on the [**Guinea Online Visa Portal**](https://www.paf.gov.gn/visa).
+
+If you need further information about entry requirements, contact the [**local immigration authorities**](http://www.paf.gov.gn/) or your nearest Guinean Embassy.
 
 ### Passport
 

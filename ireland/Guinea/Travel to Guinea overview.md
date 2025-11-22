@@ -14,7 +14,7 @@ It is strongly recommended that Irish citizens travelling to or in Guinea [**re
 
 ### **General Travel Advice**
 
-All Irish nationals need a visa to enter or live in Guinea. You can apply for visas for both private and business travel and residency at the Embassy of the Republic of Guinea and on the [**Guinea Online Visa Portal**](https://www.paf.gov.gn/visa).
+All Irish nationals need a visa to enter or live in Guinea. You can apply for visas for both private and business travel and residency at the Embassy of the Republic of Guinea in London and on the [**Guinea Online Visa Portal**](https://www.paf.gov.gn/visa).
 
 Your passport should be valid for a minimum period of 6 months from the date of your application for a visa to enter Guinea and must be valid for at least the duration of your stay in Guinea.
 
