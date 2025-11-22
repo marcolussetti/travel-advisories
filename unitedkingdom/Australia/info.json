@@ -1,11 +1,11 @@
 {
     "name": "Australia",
-    "update_reason": "Updated information on bushfires and cyclone Alfred ('Safety and security' page).",
+    "update_reason": "Information about a higher risk of bushfires during the spring and summer seasons, from October to February ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Australia/Warnings and insurance.md",
-            "update_date": "2025-04-11T16:17:24+01:00"
+            "update_date": "2025-11-21T13:48:48+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Australia/Getting help.md"
         }
     ],
-    "update_date": "2025-04-11T16:17:24+01:00"
+    "update_date": "2025-11-21T13:48:48+00:00"
 }

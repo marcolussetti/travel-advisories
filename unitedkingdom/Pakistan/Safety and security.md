@@ -24,7 +24,7 @@ Terrorist groups operating in Pakistan include:
 * Islamic State Khorasan Province (ISKP)
 * al-Qa’ida
 
-Terrorist groups mainly target Government of Pakistan security forces. Areas of Balochistan and Khyber Pakhtunkhwa, including Peshawar, suffer regular terrorist attacks. Attacks have also taken place in Karachi, Islamabad, Lahore and other major cities. A number of attacks have also taken place against Chinese nationals; some attacks have also targeted individuals of East Asian appearance more generally.
+Terrorist groups mainly target Government of Pakistan security forces. Areas of Balochistan and Khyber Pakhtunkhwa, including Peshawar, and Quetta suffer regular terrorist attacks. Attacks have also taken place in Karachi, Islamabad, Lahore and other major cities. A number of attacks have also taken place against Chinese nationals; some attacks have also targeted individuals of East Asian appearance more generally.
 
 While terrorist attacks are mainly directed against the Pakistani state, attacks could be indiscriminate and occur without warning, including in places visited by foreign nationals, such as:
 
@@ -43,7 +43,7 @@ Be cautious about attending any public event, including:
 
 Public transport and transport hubs, including airports, are at risk of attack. Avoid using the railway network due to the risk of terrorist attacks.
 
-Take particular care during periods of national or religious significance, including the month of Ramadan, and during election periods. When travelling, always:
+Take particular care during periods of national, social or religious significance, including the month of Ramadan, and during election periods. When travelling, always:
 
 * keep a low profile
 * minimise your exposure to areas and events that pose a higher risk
@@ -68,16 +68,16 @@ The long-standing policy of the British government policy is not to make substan
 
 ## Political situation
 
-Political rallies, protests and demonstrations may take place across the country and can start with little warning. Most are peaceful, but they can turn violent quickly and lead to clashes with law enforcement. During elections, terrorists have targeted security forces, political events, rallies, government buildings and polling stations.
+Political rallies, protests and demonstrations may take place across the country and can start with little warning. Most are peaceful, but they can turn violent quickly and lead to clashes with law enforcement. Individuals near protest activity may face increased scrutiny by security forces. During elections, terrorists have targeted security forces, political events, rallies, government buildings and polling stations.
 
 You should:
 
-* avoid all political demonstrations, large crowds of people and public events
+* avoid all political demonstrations, be mindful of large crowds of people and public events
 * be mindful of days of political or social significance
 * be prepared to change your plans as necessary
 * keep track of the local news
 
-During times of protest or civil unrest, mobile data coverage and internet connectivity may be cut without warning. Additionally, major road networks in and around cities may be shut or blocked. You should have alternative travel options such as different routes for any journeys you plan.
+During times of protest or civil unrest, mobile data coverage and internet connectivity may be cut without warning. Additionally, major road networks in and around cities may be shut or blocked. Have alternative travel options such as different routes for any journeys you plan.
 
 ## Crime
 
@@ -99,7 +99,7 @@ Standards of public behaviour differ between the UK and Pakistan. Behaviour that
 
 ### Personal ID
 
-Always carry photo ID.  You may be asked to show it.
+Always carry photo ID.  You may be asked to show it and you might be detained until you can show a valid ID.
 
 ### Ramadan
 
@@ -122,11 +122,11 @@ You should also:
 
 ### Dress code
 
-Dress modestly. Men and women should cover their shoulders and legs in public. Women should cover their heads when entering mosques and holy places, and in rural areas.
+Pakistan is an Islamic country. Dress modestly, men and women should cover their shoulders and legs in public. Women should cover their heads when entering mosques and holy places, and in rural areas.
 
 ### Blasphemy
 
-Insulting or showing disrespect or contempt of religion, religious beliefs or anything considered sacred (blasphemy) is illegal. Blasphemy has a broad definition in Pakistani law. It includes public and private comments in any form, including on social media.
+Insulting or showing disrespect or contempt of religion, religious beliefs or anything considered holy (blasphemy) is illegal. Blasphemy has a broad definition in Pakistani law. It includes public and private comments in any form, including on social media.
 
 There are significant criminal penalties, including the death penalty. Those accused of blasphemy are at significant risk of violence from the public. Both Muslims and religious minorities have been victims of blasphemy accusations and violence, including killings.
 
@@ -134,7 +134,7 @@ Be sensitive to religious beliefs and behave appropriately.
 
 ### Death penalty
 
-The death penalty can be imposed for individuals convicted for crimes including blasphemy, murder and rape.
+The death penalty can be issued for individuals convicted for crimes including, but not limited to, blasphemy, murder and rape.
 
 ### Alcohol laws and bans
 
@@ -152,21 +152,21 @@ You should not take photos of people without seeking prior permission.
 
 ### LGBT+ travellers
 
-Same-sex sexual activity between men is illegal. There are occasional arrests, and there are negative attitudes to same-sex relationships throughout Pakistan. See more details from the Human Dignity Trust about the [current application of the law](https://www.humandignitytrust.org/country-profile/pakistan/).
+Same-sex sexual activity between men is illegal. There are occasional arrests, and there are negative attitudes to same-sex relationships throughout Pakistan which can sometimes result in violence. See more details from the Human Dignity Trust about the [current application of the law](https://www.humandignitytrust.org/country-profile/pakistan/).
 
 Read more [advice for LGBT+ travellers](https://www.gov.uk/lesbian-gay-bisexual-and-transgender-foreign-travel-advice).
 
 ### Relationships
 
-It is illegal for unmarried couples to live together.
+It is illegal for unmarried couples to live together in Pakistan. The law regarding unmarried people sharing a hotel room does not generally apply to visiting foreign nationals, particularly in popular tourist areas.
 
 ## Transport risks
 
 ### Planning secure travel around Pakistan
 
-Pakistan authorities advise all foreign nationals (including diplomats) not to move out of their place of residence without proper security and co-ordination with the law enforcement agency. This is not rigorously enforced, but consider telling local authorities about any travel plans. There are a number of prohibited areas across the country. Officials could stop you and ask you to turn back.
+You must obtain advance permission from local or federal authorities to travel in Khyber Pakhtunkhwa (KP), Balochistan and several districts in Azad Kashmir. There are several prohibited areas across the country, particularly the areas around military installations, nuclear plants, naval and aerial basis. Officials could stop you and ask you to turn back.
 
-When travelling in Pakistan be aware of the risks, including carjacking. You or your travel company should contact the local authorities of your destination in advance to check the local security situation. They may arrange police protection. They will also tell you if you need a No Objection Certificate from the Pakistani Ministry of Interior.
+When travelling in Pakistan be aware of the risks, including carjacking. You or your travel agency should contact the local authorities of your destination in advance to check the local security situation. In areas of higher risk, local authorities sometimes arrange police escorts for your own protection. They will also tell you if you need a No Objection Certificate from the Pakistani Ministry of Interior.
 
 Take safety precautions, keep a low profile and choose your accommodation carefully.
 
@@ -174,7 +174,7 @@ Take safety precautions, keep a low profile and choose your accommodation carefu
 
 If you are planning to drive in Pakistan, see [information on driving abroad](https://www.gov.uk/driving-abroad).
 
-You’ll need to have both the [1968 version of the international driving permit (IDP)](https://www.gov.uk/driving-abroad/international-driving-permit) and your UK driving licence with you in the car. You cannot buy an IDP outside the UK, so get one before you travel.
+You’ll need to have both the [1968 version of the international driving permit (IDP)](https://www.gov.uk/driving-abroad/international-driving-permit) and your UK driving licence with you in the car. You cannot buy an IDP outside the UK, so get one before you travel. If you don’t have the correct documents to drive, you could be detained and a police report could be registered in your name.
 
 ### Road conditions
 
@@ -188,13 +188,13 @@ Due to the level of crime, avoid using public transport, including the Metro Bus
 
 ### Taxis
 
-Avoid using street or e-taxis. Only use taxis from reputable, licensed companies where you call for a taxi and the operator contacts a taxi driver.
+Avoid using street taxis, e-taxis. or online apps for taxi services. Only use taxis from reputable, licensed companies where you call for a taxi and the operator contacts a taxi driver.
 
 ### Air travel
 
 Airports can be crowded at times and your baggage may need to go through screening equipment and checks. When travelling through an airport, allow enough time to complete check-in and security procedures.
 
-Flights to and from the mountainous areas in the north of Pakistan are frequently delayed or cancelled due to extreme weather.
+Flights to and from the mountainous areas in the north of Pakistan are frequently delayed or cancelled due to extreme weather. Ensure you have alternative routes planned in case of cancellations.
 
 ### Rail travel
 
@@ -210,17 +210,13 @@ Monitor local and international weather updates from the [Pakistan Meteorologica
 
 Find out what you can do to [prepare for and respond to extreme weather and natural hazards](https://www.gov.uk/guidance/tropical-cyclones).
 
-### Monsoon
-
-The monsoon season in Pakistan is from late June to early October. Heavy rains can cause severe flooding, particularly in Sindh and Punjab provinces.
-
 ### Landslides
 
 Check [local forecasts from the Pakistan Meteorological Department](http://pmd.gov.pk/) and be aware of the risk of landslides and road blockages, particularly in hilly and mountainous regions. Take extreme care crossing swollen rivers.
 
-### Flooding
+### Monsoons and flooding
 
-Pakistan can experience  flooding and landslides during monsoon season. Roads and bridges have been damaged or destroyed, affecting travel in many parts of the country. More information is available from the [National Disaster Management Authority](https://cms.ndma.gov.pk/).
+Pakistan can experience flooding and landslides during monsoon season which is usually from late June to early October. The flooding can affect all provinces in Pakistan. Roads and bridges have been damaged or destroyed, affecting travel in many parts of the country. More information is available from the [National Disaster Management Authority](https://cms.ndma.gov.pk/).
 
 ### Earthquakes
 

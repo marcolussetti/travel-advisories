@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   20 November 2025
+:   22 November 2025
 
 Updated:
-:   19 November 2025
+:   21 November 2025
 
 Latest update:
-:   Addition of information about protests and demonstrations ('Warnings and insurance' page).
+:   Update of information about protests and demonstrations ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/65fabfdfaa9b76001dfbdb8a/FCDO_TA_065_-_Mexico_Travel_Advice_Ed5_WEB.jpg)
 
@@ -109,7 +109,7 @@ Find out more about [why FCDO advises against travel to these areas](/foreign-tr
 
 ## Protests and demonstrations
 
-On 15 November, protests in Mexico City led to clashes with police. There have been calls for further demonstrations on 20 November near the Zócalo and Presidential Palace. Monitor local media, stay away from demonstrations and, if you come across protests, move away from the area.
+On 24 November, transportation workers are expected to block highways across the country, which could cause significant delays. Mexico City and Estado de Mexico are expected to be most affected. You should monitor local media for any updates and consider your need to travel.
 
 ## Before you travel
 

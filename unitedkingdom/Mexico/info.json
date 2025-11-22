@@ -1,11 +1,11 @@
 {
     "name": "Mexico",
-    "update_reason": "Addition of information about protests and demonstrations ('Warnings and insurance' page).",
+    "update_reason": "Update of information about protests and demonstrations ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Mexico/Warnings and insurance.md",
-            "update_date": "2025-11-19T16:51:49+00:00"
+            "update_date": "2025-11-21T18:04:45+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Mexico/Getting help.md"
         }
     ],
-    "update_date": "2025-11-19T16:51:49+00:00"
+    "update_date": "2025-11-21T18:04:45+00:00"
 }

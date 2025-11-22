@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   15 November 2025
+:   22 November 2025
 
 Updated:
-:   14 November 2025
+:   21 November 2025
 
 Latest update:
-:   Removal of information about an explosion in the G-11 sector of Islamabad.
+:   FCDO now advises against all but essential travel to some areas of Khyber Pakhtunkhwa Province, Dera Ghazi Khan and to within 5 miles of the international border between Pakistan and India except the Grand Trunk highway to India via Wagah border and the Kartarpur Corridor. FCDO continues to advise against all travel and all but essential travel to parts of Pakistan. This travel advice has been reviewed with information included on crossing land borders ('Warnings and insurance' and 'Entry requirements' pages).
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -32,8 +32,8 @@ FCDO advises against all travel to these areas in Khyber Pakhtunkhwa Province:
 * Kohat
 * Kurram
 * Lakki Marwat
-* Lower Dir
 * Upper Dir
+* Lower Dir
 * Mohmand
 * Orakzai
 * Peshawar, including the city of Peshawar
@@ -45,13 +45,21 @@ FCDO advises against all travel to these areas in Khyber Pakhtunkhwa Province:
 * the Karakoram Highway between Mansehra and Chilas via Battagram, Besham City, Dasu and Sazin up to the junction with the N15
 * the N45 Highway, from the north of the Mardan ring road, to the edge of Chitral City, including Kalash valley
 
+FCDO advises against all but essential travel to these areas in Khyber Pakhtunkhwa Province:
+
+* Malakand
+* Mardan
+* Nowshera
+* Shangla
+* Swabi
+
 ### Balochistan Province
 
 FCDO advises against all travel to Balochistan Province.
 
 ### Pakistan-India Border Area
 
-FCDO advises against all travel within 5 miles of the international border between Pakistan and India except the Grand Trunk highway to India via Wagah border (which is currently closed).
+FCDO advises against all but essential travel within 5 miles of the international border between Pakistan and India except the Grand Trunk highway to India via Wagah border (which is currently closed) and the Kartarpur Corridor for Sikh pilgrims visiting Gurdwara Darbar Sahib (currently closed for crossings).
 
 ### Pakistan-administered Kashmir
 
@@ -60,6 +68,10 @@ FCDO advises against all travel to within 10 miles of the Line of Control.
 ### Sindh Province
 
 FCDO advises against all but essential travel to all areas of Sindh Province north of and including the city of Nawabshah.
+
+### Punjab Province
+
+FCDO advises against all but essential travel to Dera Ghazi Khan.
 
 Find out more about [why FCDO advises against travel to these regions](/foreign-travel-advice/pakistan/regional-risks).
 

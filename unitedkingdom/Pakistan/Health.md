@@ -11,6 +11,8 @@ This is particularly important if you have a health condition or are pregnant.
 
 Dial 1122 and ask for an ambulance.
 
+Response time varies, particularly between urban and rural areas. In remote or mountainous regions it could take over an hour due to poor road access and limited ambulance availability.
+
 Contact your insurance company quickly if you’re referred to a medical facility for treatment.
 
 ## Vaccine recommendations and health risks
@@ -44,7 +46,14 @@ The legal status and regulation of some medicines prescribed or bought in the UK
 
 Read [best practice when travelling with medicines on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/43/medicines-abroad).
 
-Medical supplies may be difficult to find in Pakistan due to restrictions on imported goods.
+There are often shortages of medicine in Pakistan. Some imported goods, including medical supplies, may also be restricted. Make sure to plan for this and keep a good supply of any medicine and medical supplies you need.    
+   
+If you run out of medicine, get advice from a local pharmacy. Some pharmacies, particularly in cities and hospitals, are open 24 hours a day, 7 days a week.    
+   
+If your usual medicine is not available or you need a prescription:
+
+* visit a local doctor
+* speak to your UK doctor for advice on alternative medicines that may be available
 
 ## Healthcare in Pakistan
 

@@ -1,13 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   12 April 2025
+:   22 November 2025
 
 Updated:
-:   11 April 2025
+:   21 November 2025
 
 Latest update:
-:   Updated information on bushfires and cyclone Alfred ('Safety and security' page).
+:   Information about a higher risk of bushfires during the spring and summer seasons, from October to February ('Warnings and insurance' page).
+
+## Bushfires in Australia
+
+There is a higher risk of bushfires in Australia during the spring and summer seasons, from October to February. For advice, visit the bushfires section on the [safety and security page](https://www.gov.uk/foreign-travel-advice/australia/safety-and-security#bushfires).
 
 ## Before you travel
 

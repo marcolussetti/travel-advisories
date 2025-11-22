@@ -30,17 +30,25 @@ FCDO advises against all travel to these districts in Khyber Pakhtunkhwa Provinc
 * Upper South Waziristan
 * Lower South Waziristan
 
-FCDO advises against all travel to much of Khyber Pakhtunkhwa Province. There is frequent militant violence in the former Federally Administered Tribal Areas. Local authorities may impose curfews at short notice and there is frequent military activity. There can be cross-border attacks in the surrounding areas of Arandu to the south and west of Chitral.
+FCDO advises against all but essential travel to these areas in Khyber Pakhtunkhwa Province:
 
-### N45 Highway between Mardan and Chitral
+* Malakand
+* Mardan
+* Nowshera
+* Shangla
+* Swabi
 
-FCDO advises against all travel on the N45 Highway, from the north of the Mardan ring road, to the edge of the city of Chitral because of terrorism incidents.
+FCDO advises against travel to much of Khyber Pakhtunkhwa Province. There is frequent militant violence in the former Federally Administered Tribal Areas. Local authorities may impose curfews at short notice and there is frequent military activity. Cross-border attacks may occur in the surrounding areas ofe south and west of Chitral.
+
+## N45 Highway between Mardan and Chitral
+
+FCDO advises against all travel on the N45 Highway, from the north of the Mardan ring road, to the edge of the city of Chitral because of high crime and terrorism incidents.
 
 ## Balochistan Province
 
 FCDO advises against all travel to Balochistan Province.
 
-The situation at the Pakistan-Iran border can be extremely tense. In January 2024 both Iran and Pakistan conducted missile and drone strikes targeting militant groups on either side of their border.
+The situation at the Pakistan-Iran border can be unpredictable. In January 2024 both Iran and Pakistan conducted missile and drone strikes targeting militant groups on either side of their border.
 
 There is a high risk from kidnapping and militant activity in much of Balochistan.
 
@@ -48,7 +56,7 @@ There is a high risk from kidnapping and militant activity in much of Balochista
 
 FCDO advises against all travel to within 10 miles of the India-Pakistan border area within Pakistan-administered Kashmir, known as the Line of Control.
 
-There is regular military activity on the Line of Control. Although there is a ceasefire in place, there are significant tensions between India and Pakistan. There is a serious risk of small arms fire and occasional mortar fire.
+Although there is a ceasefire in place, there are still significant tensions between India and Pakistan. There is a risk of small arms fire and occasional mortar fire.
 
 Make sure you have the necessary permissions to travel. Check the latest requirements before you travel as they can change.
 
@@ -58,7 +66,7 @@ FCDO advises against all but essential travel to all areas of Sindh Province nor
 
 There are high levels of lawlessness in the north of Sindh Province. There is a very high risk of crime and kidnapping. Criminal gangs and bandits with access to heavy weaponry are active in the area. In 2022, a large criminal gang attacked police in Ghotki, northern Sindh, killing several officers and taking other officers hostage.
 
-### Gilgit-Baltistan region
+## Gilgit-Baltistan region
 
 Flight schedules to Gilgit and Skardu Airports in the north of Pakistan may be unreliable and may change at short notice. Check with your airline or travel agent.
 
@@ -70,7 +78,7 @@ All foreign nationals must register with the local authorities when visiting Gil
 
 Use reputable trekking agencies, stay on established routes, and always walk in groups. Do not trek alone. If you’re travelling near the border with China read the information on ‘Border areas’ on this page.
 
-### Karakoram Highway (Khyber Pakhtunkhwa and Gilgit-Baltistan)
+## Karakoram Highway (Khyber Pakhtunkhwa and Gilgit-Baltistan)
 
 The Karakoram Highway runs from Hasan Abdal in north Punjab towards Gilgit and the Chinese border. FCDO advises against all travel on the Highway between Mansehra and Chilas via Battagram, Besham City, Dasu and Sazin up to the junction with the N15.
 
@@ -78,9 +86,9 @@ Avoid travelling on the Highway at night, as the road can be narrow with steep d
 
 ## Islamabad
 
-Police and security agencies have a significant presence in Islamabad. Exercise caution in the outlying districts, such as I-8, I-9, I-10 and areas further west, where security forces have led operations against suspected criminals and terrorists.
+Police and security agencies have a significant presence in Islamabad. Exercise caution in the outlying districts, such as I-8, I-9, I-10, and I-11 and areas further west, where security forces have led operations against suspected criminals and terrorists.
 
-Avoid all protests. Crowded areas such as the Red Mosque (Lal Masjid) and Aabpara Market in G-6 have been a focal point for protests.
+Avoid all protests. Crowded areas such as the Red Mosque (Lal Masjid), Aabpara Market in G-6, and the Islamabad Press Club have been a focal point for protests.
 
 ## Karachi
 
@@ -92,7 +100,7 @@ You should:
 
 * plan any travel in the city carefully
 * take advice from hosts or trusted contacts, follow instructions from law enforcement officers and be prepared to cancel or cut back your plans
-* be especially vigilant in Lyari, Malir, Quaidabad and Orangi Town – they have a greater risk of violence based on past activity
+* be especially vigilant in Lyari, Malir, Quaidabad, Orangi Town, Baldia Town, New Karachi Town, Surjani Town and Gulistan-e-Jouhar – they have a greater risk of violence based on past activity
 
 ## Lahore
 
@@ -100,19 +108,25 @@ Lahore is the capital of Punjab and attracts large numbers of tourists and busin
 
 ## Punjab
 
+FCDO advises against all but essential travel to Dera Ghazi Khan.
+
 If you travel to southern Punjab take advice about the local security situation in advance. There is a high level of crime and public order incidents.
 
 ## Border areas
 
+The Foreign, Commonwealth & Development Office (FCDO) advises against all but essential travel to within:
+
+5 miles of the border with India, with the exception of official land crossings (see [‘Crossing land borders’ section](https://www.gov.uk/foreign-travel-advice/pakistan/entry-requirements#crossing-land-borders))
+
 Except for official border crossing points, foreign nationals are not allowed to travel within certain distances of Pakistan’s international borders. This includes travel to within:
 
-* 5 miles of Pakistan’s international border with India and within 10 miles of the Line of Control
-* 10 miles of the border with China
+* 10 miles of the Line of Control
+* 10 miles of the border with China, with the exception of official land crossings (see [‘Crossing land borders’ section](https://www.gov.uk/foreign-travel-advice/pakistan/entry-requirements#crossing-land-borders))
 * 10 miles of the border with Afghanistan
 
-If you travel to these areas you may be arrested and detained.
+If you travel to these areas you may face risks of kidnapping, high levels of militancy and other crime.
 
-The situation for border crossings between Afghanistan and Pakistan may change rapidly due to the security situation in Afghanistan. See [Afghanistan travel advice](/foreign-travel-advice/afghanistan).
+The situation for border crossings between Afghanistan and Pakistan may change rapidly due to the security situation in Afghanistan. See [Afghanistan travel advice](https://www.gov.uk/foreign-travel-advice/afghanistan).
 
 [Previous
 :

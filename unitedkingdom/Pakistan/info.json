@@ -1,11 +1,11 @@
 {
     "name": "Pakistan",
-    "update_reason": "Removal of information about an explosion in the G-11 sector of Islamabad.",
+    "update_reason": "FCDO now advises against all but essential travel to some areas of Khyber Pakhtunkhwa Province, Dera Ghazi Khan and to within 5 miles of the international border between Pakistan and India except the Grand Trunk highway to India via Wagah border and the Kartarpur Corridor. FCDO continues to advise against all travel and all but essential travel to parts of Pakistan. This travel advice has been reviewed with information included on crossing land borders ('Warnings and insurance' and 'Entry requirements' pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Pakistan/Warnings and insurance.md",
-            "update_date": "2025-11-14T11:59:43+00:00"
+            "update_date": "2025-11-21T11:10:58+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Pakistan/Getting help.md"
         }
     ],
-    "update_date": "2025-11-14T11:59:43+00:00"
+    "update_date": "2025-11-21T11:10:58+00:00"
 }

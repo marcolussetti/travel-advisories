@@ -48,13 +48,31 @@ If you’re travelling with a child as a single parent or are not the child’s 
 
 ## Crossing land borders
 
-The Foreign, Commonwealth & Development Office (FCDO) advises against travel to most of the Pakistan-Afghanistan and Pakistan-Iran border areas. FCDO advises against all travel to Afghanistan and Iran.
+The Foreign, Commonwealth & Development Office (FCDO) advises against travel to most of the Pakistan-Afghanistan, Pakistan-China and Pakistan-Iran border areas. FCDO advises against all travel to Afghanistan and Iran.
 
 ### Pakistan-Afghanistan border
 
 All borders with Afghanistan can close at short notice. There has been overcrowding and violence at open border crossings.
 
 If entering Pakistan via the Torkham border crossing with Afghanistan you will need a valid Pakistan visa.
+
+### Pakistan-Iran border
+
+All official land border crossings with Iran are located in Balochistan province, where the FCDO advises against all travel.
+
+Border crossings may be closed at short notice, and access is limited and closely monitored. If entering Pakistan via a land border with Iran, you will need a valid Pakistan visa. Check with local authorities or travel providers for the latest information before attempting to cross.
+
+### Pakistan-India  border
+
+The international border between Pakistan and India is subject to strict controls. The Wagah border crossing on the Grand Trunk Road is the only official land  crossing between the two countries, but it is currently closed. The Kartarpur Corridor is currently not in use for Sikh pilgrims visiting Gurdwara Darbar Sahib.
+
+Ensure you have the necessary visas and documentation and check with local authorities or travel providers before attempting to cross.
+
+### Pakistan-China border
+
+The Khunjerab Pass, the only official land border crossing between Pakistan and China, is located on the Karakoram Highway and is open to foreign tourists. It is open seasonally, typically from April to November, but can close at very short notice due to severe weather conditions, particularly snowfall during colder  months. Check the weather conditions before you travel as conditions can change at short notice and landslides and snowfall can block the route.
+
+Be aware that border closures may occur without warning on either side, and access to the area is remote and limited. Ensure you have the appropriate Pakistani visa and Chinese entry documentation before attempting to cross. Check with local authorities or your travel provider for the latest updates before travelling to the region.
 
 ## Vaccine requirements
 
