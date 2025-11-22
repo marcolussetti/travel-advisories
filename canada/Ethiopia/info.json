@@ -1,7 +1,7 @@
 {
     "name": "Ethiopia",
-    "update_reason": "Health \u2013 added an outbreak monitoring alert for Marburg virus disease",
-    "update_date": "2025-11-14T17:00:00",
+    "update_reason": "Health \u2013 editorial change",
+    "update_date": "2025-11-21T15:13:00",
     "sections": {
         "risk": "canada/Ethiopia/risk.md",
         "security": "canada/Ethiopia/security.md",

@@ -66,6 +66,26 @@ Demonstrations take place from time to time. Even peaceful demonstrations can 
 
 [Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
 
+### Adventure travel
+
+Outdoor activities, such as white water rafting, hiking, mountain biking and other extreme sports can be dangerous.
+
+If you plan to do activities in the Carpathian mountains, you should check the “Salvamont” mountain rescue service website for information on current risks and conditions. In the event of an emergency, including natural disasters and wild animal encounters, the Romanian government will send SMS messages to all active SIM cards via the RO-ALERT service.
+
+If you intend to participate in adventure travel activities:
+
+* share your itinerary with a friend or family member if you’re alone
+* stay on marked trails and consider hiring an experienced guide from a reputable company
+* obtain detailed information on your activity and the environment in which you will be setting out
+* buy travel insurance that covers incidents related to these types of recreational activities
+* pay attention to the presence of wild animals including bears and feral dogs
+
+#### Useful links
+
+* [Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
+* [RO-ALERT](https://ro-alert.ro/en/about-ro-alert/) – Romanian Ministry of the Interior
+* [Salvamont Romania](http://www.salvamontromania.ro/) – mountain rescue service (Romanian only)
+
 ### Road safety
 
 Road conditions and road safety can vary greatly throughout the country. With the exception of major city streets and intercity highways, many roads are in disrepair, poorly lit, narrow and without marked lanes.

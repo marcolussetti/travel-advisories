@@ -1,7 +1,7 @@
 {
     "name": "Mozambique",
-    "update_reason": "The Need help? section was updated.",
-    "update_date": "2025-11-18T08:33:00",
+    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
+    "update_date": "2025-11-21T13:29:00",
     "sections": {
         "risk": "canada/Mozambique/risk.md",
         "security": "canada/Mozambique/security.md",

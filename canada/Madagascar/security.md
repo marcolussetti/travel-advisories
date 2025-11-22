@@ -4,21 +4,13 @@
 
 ### Political situation in Madagascar
 
-On October 14, 2025, following large-scale demonstrations, the military took over and announced a 2-year transition period followed by new elections.
+On October 14, 2025, following large-scale demonstrations, the military took over and announced a 2-year transition period with an interim President, followed by new elections.
 
-The situation remains volatile and violent demonstrations can occur at any time. They can also lead to disruptions to traffic and public transportation.
+The interim measures have been implemented without major unrest and conditions remain calm.
 
-Antananarivo-Ivato International Airport remains open, but you should confirm your flight status before heading to the airport.
-
-Curfews remain in place in Antananarivo and in most major cities. Further curfews and restrictions on movement could be imposed without notice.
-
-If you are in Madagascar:
-
-* contact your airline before going to the airport to confirm your travel plans, and only proceed if it is safe to do so
-* stay away from demonstrations
-* expect heavy security measures and increased security presence
-* monitor local media for the latest information
-* follow the instructions of local authorities, including curfew orders
+* Avoid large gatherings and demonstrations
+* Monitor local media for the latest information
+* Follow the instructions of local authorities, including curfew orders
 
 ### Crime
 

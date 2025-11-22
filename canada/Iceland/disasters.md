@@ -2,40 +2,14 @@
 
 ## Natural disasters and climate
 
-### Reykjanes Peninsula
+### Climate change
 
-On July 16, 2025, a new volcanic eruption began on the Reykjanes Peninsula in Southwest Iceland, near the town of Grindavík and the Blue Lagoon. Further eruptions could happen at any time and without warning.
-
-The Icelandic authorities have closed roads near the eruption site and declared a state of emergency in the area around:
-
-* Grindavík
-* the Blue Lagoon
-* Svartsengi powerplant
-
-Keflavik International Airport has not been affected by the eruptions. Flights to and from the airport continue to run on schedule.
-
-#### Useful links
-
-* [Ongoing volcanic unrest in the Reykjanes-Svartsengi volcanic system](https://en.vedur.is/about-imo/news/) – Icelandic Meteorological Office
-* [More information on volcanoes](#volcanoes)
-
-Iceland is subject to various natural disasters such as:
-
-* violent storms
-* glacial floods
-* volcanic eruptions
-* earthquakes and landslides
-
-The climate can be unpredictable regardless of the time of year. Monitor weather reports closely.
+Climate change is affecting Iceland. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local media for the latest information.
 
 #### Useful links
 
 * [Climate information and warnings](https://en.vedur.is/) – Icelandic Meteorological Office
 * [Travel and Road Conditions](https://safetravel.is/conditions) – Safe Travel Iceland
-
-### Climate change
-
-Climate change is affecting Iceland. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local media for the latest information.
 
 ### Storms
 
