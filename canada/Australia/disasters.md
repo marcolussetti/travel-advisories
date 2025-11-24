@@ -4,7 +4,7 @@
 
 ### Tropical Cyclone Fina
 
-On November 21, 2025, Tropical Cyclone Fina made landfall on the Cobourg Peninsula, Northern Territory. The storm will gain intensity as it moves across the Van Diemen Gulf and is expected to make landfall again near Darwin on November 22, 2025.
+After making landfall on the Cobourg Peninsula and Melville Island, Tropical Cyclone Fina is expected to make landfall again on the Kimberley coast, near King George River, on November 24, 2025.
 
 The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
 
