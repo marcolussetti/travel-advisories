@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   5 October 2025
+:   24 November 2025
 
 Updated:
-:   4 October 2025
+:   23 November 2025
 
 Latest update:
-:   New information on the ‘State of External Commotion’ ('Warnings and insurance' and 'Safety and security' pages).
+:   Information on flight cancellations ('Warnings and insurance' page)
 
 ![](https://assets.publishing.service.gov.uk/media/5f4e7de38fa8f57fb9bf665b/FCDO__TA__045_-_Venezuela_Travel_Advice_Ed1__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/5f4e7de3e90e071c71bb3f9e/FCDO__TA__045_-_Venezuela_Travel_Advice_Ed1.pdf)
+[Download a more detailed map (PDF, 738 KB)](https://assets.publishing.service.gov.uk/media/5f4e7de3e90e071c71bb3f9e/FCDO__TA__045_-_Venezuela_Travel_Advice_Ed1.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -33,6 +33,10 @@ FCDO advises against all travel to within 40km (25 miles) of the border with Bra
 ### All other areas of Venezuela
 
 FCDO advises against all but essential travel to the remaining areas of Venezuela, due to ongoing crime and instability.
+
+## Flights
+
+Some airlines have cancelled flights at short notice.  If you have an upcoming flight to or from Venezuela you should stay in touch with your airline or travel agency.
 
 ## State of External Commotion
 
