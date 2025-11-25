@@ -10,7 +10,7 @@ High Degree of Caution
 
 States of Emergency are in force throughout many regions of Peru, and can be declared at short notice.
 
-A State of Emergency has been declared for 30 days, effective from Wednesday 22 October in the following areas:
+A State of Emergency has been declared for 30 days, effective from Friday 21 November in the following areas:
 
 * **Lima**
 * **Callao**
