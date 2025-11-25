@@ -254,7 +254,7 @@
     {
         "destination": "Chad",
         "risk_level": "Avoid non-essential travel (with regional advisories)",
-        "last_updated": "2025-11-21T15:06:39",
+        "last_updated": "2025-11-24T16:17:45",
         "details_url": "https://travel.gc.ca/destinations/chad"
     },
     {
@@ -320,7 +320,7 @@
     {
         "destination": "Czechia",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2025-11-14T09:30:36",
+        "last_updated": "2025-11-24T16:16:10",
         "details_url": "https://travel.gc.ca/destinations/czechia"
     },
     {
@@ -392,7 +392,7 @@
     {
         "destination": "Estonia",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2025-11-13T15:08:03",
+        "last_updated": "2025-11-24T13:27:14",
         "details_url": "https://travel.gc.ca/destinations/estonia"
     },
     {
@@ -746,7 +746,7 @@
     {
         "destination": "Mali",
         "risk_level": "Avoid all travel",
-        "last_updated": "2025-11-18T10:30:03",
+        "last_updated": "2025-11-24T16:19:02",
         "details_url": "https://travel.gc.ca/destinations/mali"
     },
     {
@@ -770,7 +770,7 @@
     {
         "destination": "Mauritania",
         "risk_level": "Avoid non-essential travel (with regional advisories)",
-        "last_updated": "2025-11-21T15:06:32",
+        "last_updated": "2025-11-24T16:20:11",
         "details_url": "https://travel.gc.ca/destinations/mauritania"
     },
     {
@@ -788,7 +788,7 @@
     {
         "destination": "Mexico",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-11-20T10:26:47",
+        "last_updated": "2025-11-24T15:41:23",
         "details_url": "https://travel.gc.ca/destinations/mexico"
     },
     {
@@ -896,7 +896,7 @@
     {
         "destination": "Nigeria",
         "risk_level": "Avoid non-essential travel (with regional advisories)",
-        "last_updated": "2025-11-21T15:11:33",
+        "last_updated": "2025-11-24T16:22:23",
         "details_url": "https://travel.gc.ca/destinations/nigeria"
     },
     {
@@ -932,7 +932,7 @@
     {
         "destination": "Oman",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-11-13T15:08:03",
+        "last_updated": "2025-11-24T14:36:05",
         "details_url": "https://travel.gc.ca/destinations/oman"
     },
     {
@@ -1148,7 +1148,7 @@
     {
         "destination": "Somalia",
         "risk_level": "Avoid all travel",
-        "last_updated": "2025-11-21T15:15:53",
+        "last_updated": "2025-11-24T16:21:31",
         "details_url": "https://travel.gc.ca/destinations/somalia"
     },
     {
@@ -1232,7 +1232,7 @@
     {
         "destination": "Thailand",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-11-13T15:08:03",
+        "last_updated": "2025-11-24T23:29:13",
         "details_url": "https://travel.gc.ca/destinations/thailand"
     },
     {
@@ -1322,7 +1322,7 @@
     {
         "destination": "United States",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2025-11-18T09:52:25",
+        "last_updated": "2025-11-24T14:37:29",
         "details_url": "https://travel.gc.ca/destinations/united-states"
     },
     {

@@ -1,7 +1,7 @@
 {
     "name": "United States",
-    "update_reason": "Safety and security \u2013 removed information on flight cancellations",
-    "update_date": "2025-11-18T09:52:00",
+    "update_reason": "Editorial change",
+    "update_date": "2025-11-24T14:37:00",
     "sections": {
         "risk": "canada/United States/risk.md",
         "security": "canada/United States/security.md",
