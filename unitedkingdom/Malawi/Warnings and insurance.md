@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   19 November 2025
+:   25 November 2025
 
 Updated:
-:   18 November 2025
+:   24 November 2025
 
 Latest update:
-:   Addition of information on the risks from methanol poisoning ('Safety and security' page).
+:   Addition of information about change to visa requirements for UK nationals entering Malawi ('Entry requirements' page).
 
 ## Before you travel
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   15 November 2025
+:   25 November 2025
 
 Updated:
-:   14 November 2025
+:   24 November 2025
 
 Latest update:
-:   New information about demonstrations expected in Metro Manila on 16-18 November ('Warnings and insurance' page).
+:   Addition of information on the risks from methanol poisoning ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/616406778fa8f52980d9301c/FCDO__TA__033_-_Philippines_Travel_Advice_Ed2__WEB_.jpg)
 

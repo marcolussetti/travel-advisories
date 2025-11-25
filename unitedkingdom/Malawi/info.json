@@ -1,11 +1,11 @@
 {
     "name": "Malawi",
-    "update_reason": "Addition of information on the risks from methanol poisoning ('Safety and security' page).",
+    "update_reason": "Addition of information about change to visa requirements for UK nationals entering Malawi ('Entry requirements' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Malawi/Warnings and insurance.md",
-            "update_date": "2025-11-18T10:35:53+00:00"
+            "update_date": "2025-11-24T10:52:09+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Malawi/Getting help.md"
         }
     ],
-    "update_date": "2025-11-18T10:35:53+00:00"
+    "update_date": "2025-11-24T10:52:09+00:00"
 }

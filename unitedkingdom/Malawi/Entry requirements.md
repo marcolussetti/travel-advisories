@@ -14,7 +14,7 @@ You will be denied entry if you do not have a valid travel document or try to us
 
 ## Visa requirements
 
-If you are travelling to Malawi for a visit of 30 days or less on a British passport you do not need a visa.
+Holders of British passports travelling to Malawi for a visit of 30 days or less did not need a visa, however on 21 November the Malawian Government announced “visa free access to Malawi is being revoked with immediate effect and and visa application fee will apply on a reciprocity basis”. See [Malawi department of Immigration](http://www.immigration.gov.mw/visa/visa-application-process/) for more information.
 
 If you wish to live, work or study in Malawi, visit the [Malawi Immigration website](https://www.immigration.gov.mw/) for further information.
 

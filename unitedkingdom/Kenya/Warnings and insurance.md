@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   22 October 2025
+:   25 November 2025
 
 Updated:
-:   21 October 2025
+:   24 November 2025
 
 Latest update:
-:   Addition of information on the risks from methanol poisoning ('Safety and security' page).
+:   New information on potential for protests around by-elections on 27 November ( 'Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/68cbf893b6d7ea468dbea672/FCDO__TA__055_-_Kenya_Travel_Advice_Ed6__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/68cbf89425860ae11bbea671/FCDO__TA__055_-_Kenya_Travel_Advice_Ed6.pdf)
+[Download a more detailed map (PDF, 704 KB)](https://assets.publishing.service.gov.uk/media/68cbf89425860ae11bbea671/FCDO__TA__055_-_Kenya_Travel_Advice_Ed6.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -36,15 +36,9 @@ FCDO advises against all but essential travel to:
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/kenya/regional-risks).
 
-## Period of national mourning
+## Elections in Kenya
 
-Following the death of former Prime Minister Raila Odinga, Kenya is observing 7 days of national mourning from 15 October. Roads to Jomo Kenyatta International Airport in Nairobi have sometimes been blocked by demonstrations and the airport was temporarily closed due to a security situation following the arrival of the body of Raila Odinga on 16 October. It has since reopened.
-
-There could be further disruption, particularly in Nairobi and Kisumu, over the period of national mourning. Stay away from political gatherings and large crowds and monitor local media to see when and where major demonstrations are likely. Follow local news and the instructions of local authorities.
-
-## Risk of Kidnap
-
-There is a high risk of kidnapping across Kenya. British nationals are seen as legitimate targets. Westerners have been the target of kidnaps and further kidnaps are very likely.
+Kenya will hold by-elections in 24 constituencies across the country on 27 November. Protests and demonstrations are possible. Stay away from political rallies and related activities. See ‘political situation’ section on the  [‘Safety and security’](https://www.gov.uk/foreign-travel-advice/kenya/safety-and-security)  page.
 
 ## Before you travel
 

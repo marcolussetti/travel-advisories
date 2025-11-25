@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   20 November 2025
+:   25 November 2025
 
 Updated:
-:   19 November 2025
+:   24 November 2025
 
 Latest update:
-:   FCDO advises against all but essential travel within 5km of the town of Jinka due to the Marburg outbreak.
+:   New information about risks from volcano eruptions (‘Warnings and insurance’ page).
 
-![](https://assets.publishing.service.gov.uk/media/691e12cae39a085bda43efea/Ethiopia.jpg)
+![](https://assets.publishing.service.gov.uk/media/691ed933513046b952c500e8/FCDO_TA_017_-_Ethiopia_Travel_Advice_Ed39_WEB.jpg)
 
 
-[Download a more detailed map (PDF, 814 KB)](https://assets.publishing.service.gov.uk/media/691e12cad140bbbaa59a2a94/Map_of_Ethiopia.pdf)
+[Download a more detailed map (PDF, 814 KB)](https://assets.publishing.service.gov.uk/media/691ed934513046b952c500e9/FCDO_TA_017_-_Ethiopia_Travel_Advice_Ed39.pdf)
 
 ## Areas where FCDO advises against travel
 
@@ -104,6 +104,10 @@ FCDO advises against all travel to:
 FCDO advises against all but essential travel to the rest of Benishangul-Gumuz region.
 
 Find out more about why [FCDO advises against travel to these regions](/foreign-travel-advice/ethiopia/regional-risks).
+
+## Volcanic eruptions
+
+An eruption of the Hayli Gubbi volcano, Afar region, took place on 23 November 2025. Travellers in the region should follow the advice of local authorities. Airspace can be affected during and following eruptions. If you are travelling during a period of heightened activity, check with your travel provider.
 
 ## Support from FCDO
 

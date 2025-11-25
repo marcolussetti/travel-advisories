@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   29 October 2025
+:   25 November 2025
 
 Updated:
-:   28 October 2025
+:   24 November 2025
 
 Latest update:
-:   Updated information about an airport fee for transit and connecting passengers at Lima Airport (‘Entry requirements’ page).
+:   Updated information about extension of the State of Emergency in Peru ('Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/6645e81e993111924d9d365a/FCDO__TA__093_-_Peru_Travel_Advice_Ed3__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/6645e81ef34f9b5a56adc927/FCDO__TA__093_-_Peru_Travel_Advice_Ed3.pdf)
+[Download a more detailed map (PDF, 619 KB)](https://assets.publishing.service.gov.uk/media/6645e81ef34f9b5a56adc927/FCDO__TA__093_-_Peru_Travel_Advice_Ed3.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -33,9 +33,9 @@ We advise against all but essential travel to these two areas for safety and sec
 
 Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/peru/regional-risks).
 
-## State of Emergency declared in Lima and Callao
+## State of Emergency extended in Peru
 
-A 30-day State of Emergency has been declared in Lima and Callao, effective from 22 October. Avoid large gatherings and protests. There will be increased security patrols and a visible presence of armed forces on the streets. Follow the instructions of police and local authorities.
+The State of Emergency has been extended for a further 30 days from 22 November. It covers Ayacucho, Callao, Cusco, Junín, Huancavelica and Lima. Avoid large gatherings and protests. There will be increased security patrols and a visible presence of armed forces on the streets. Follow the instructions of police and local authorities.
 
 ## Before you travel
 

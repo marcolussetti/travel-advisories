@@ -56,6 +56,14 @@ Be alert when travelling on public transport and avoid displaying cash or jewell
 
 If you’re travelling by taxi, including to or from the airport, only use taxis from a reputable company. Some taxi drivers and their accomplices have robbed and harmed passengers. Consider arranging to be met at the airport or using a hotel transfer service.
 
+### Methanol poisoning
+
+There has been an increase in cases of serious illness caused by alcoholic drinks containing methanol in popular travel destinations around the world.
+
+Even small amounts of methanol can kill. It is not possible to identify methanol in alcoholic drinks by taste or smell. See [Travel Aware Drink Spiking and Methanol Poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) for information about how to reduce the risks.
+
+Seek urgent medical attention if you or someone you are travelling with show the [signs of methanol poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) after drinking.
+
 ### Sexual assault
 
 British nationals have reported rape and sexual assaults in some locations popular with backpackers, including Coron and Siargao.

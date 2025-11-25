@@ -133,6 +133,8 @@ There is local instability, lawlessness, military activity and a general risk of
 
 ## Central, Southern, Sidama and South West regions (formerly SNNPR)
 
+FCDO advises against all but essential travel to within 5km of the town of Jinka due to the Marburg outbreak. See further advice on the [Health](https://www.gov.uk/foreign-travel-advice/ethiopia/health) page.
+
 FCDO advises against all travel to within 10km of the borders with South Sudan and Kenya including the shores of Lake Turkana.
 
 Due to recent regional cluster changes, there have been instances of civil unrest as zones increasingly demand their own regional statehood. There has been civil unrest in Gurage zone in the newly formed Central region. A number of incidents have turned violent.

@@ -29,7 +29,7 @@ See [what health risks you’ll face in Ethiopia](https://travelhealthpro.org.uk
 * Mpox
 * Marburg
 
-The Ethiopian Ministry of Health has confirmed cases of Marburg virus in the town of Jinka, south west region of Ethiopia. You can find further information on [Marburg](https://travelhealthpro.org.uk/disease/114/marburg-virus-disease). You should follow guidance from local authorities and avoid community events, such as sporting events, funerals and weddings where transmission risks may be higher.
+The Ethiopian Ministry of Health has confirmed cases of Marburg virus in the town of Jinka, south west region of Ethiopia. You can find further information about Marburg on [TravelHealthPro](https://travelhealthpro.org.uk/disease/114/marburg-virus-disease). You should follow guidance from local authorities.
 
 Malaria is common in areas of the country up to 2,000 metres above sea level. Addis Ababa sits at 2,400m but a number of sites popular with tourists are below 2,000m.
 
@@ -38,8 +38,6 @@ Bilharzia is present in the vast majority of lakes in Ethiopia – check before 
 Water-borne diseases are common. Drink or use only boiled or bottled water and avoid ice in drinks.
 
 There is an ongoing outbreak of cholera in the south of Ethiopia, and new cases have been reported in the north-west of the country.
-
-The Ethiopian Ministry of Health has reported cases of Marburg virus in the town of Jinka, southern Ethiopia. You should follow guidance from local authorities.
 
 Altitude sickness is a risk in parts of Ethiopia, including Addis Ababa. [TravelHealthPro’s altitude sickness guidance](https://travelhealthpro.org.uk/factsheet/26/altitude-illness) has more information.
 

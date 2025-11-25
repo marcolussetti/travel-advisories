@@ -1,11 +1,11 @@
 {
     "name": "Ethiopia",
-    "update_reason": "FCDO advises against all but essential travel within 5km of the town of Jinka due to the Marburg outbreak.",
+    "update_reason": "New information about risks from volcano eruptions (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Ethiopia/Warnings and insurance.md",
-            "update_date": "2025-11-19T23:18:47+00:00"
+            "update_date": "2025-11-24T12:27:56+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Ethiopia/Getting help.md"
         }
     ],
-    "update_date": "2025-11-19T23:18:47+00:00"
+    "update_date": "2025-11-24T12:27:56+00:00"
 }
