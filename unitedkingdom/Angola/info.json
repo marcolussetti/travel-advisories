@@ -1,11 +1,11 @@
 {
     "name": "Angola",
-    "update_reason": "Updated information about protests in Luanda ('Warnings and insurance' page).",
+    "update_reason": "New information about protests and demonstrations (\u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Angola/Warnings and insurance.md",
-            "update_date": "2025-08-01T16:05:10+01:00"
+            "update_date": "2025-11-25T11:05:01+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Angola/Getting help.md"
         }
     ],
-    "update_date": "2025-08-01T16:05:10+01:00"
+    "update_date": "2025-11-25T11:05:01+00:00"
 }

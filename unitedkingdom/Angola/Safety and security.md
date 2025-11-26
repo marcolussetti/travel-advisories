@@ -12,6 +12,21 @@ UK Counter Terrorism Policing has information and advice on [staying safe abroad
 
 Although there’s no recent history of terrorism in Angola, attacks cannot be ruled out.
 
+## Protests and demonstrations
+
+Public gatherings and demonstrations can occur with little notice and can quickly turn violent. In recent years, there have been protests against the increase in fuel prices and cost of living. In July 2025 there were 3 days of violent riots. Similar protests cannot be ruled out in future.
+
+To minimise your personal risk:
+
+* follow local media for news of any planned protests
+* stay away from areas where protests are planned
+* leave quickly and do not attempt to watch or photograph any demonstration or disturbance
+* consider making contingency plans
+* keep a stock of essential supplies
+* keep your travel documents up-to-date, including appropriate visas
+* be prepared to move or go into curfew at short notice if told to by the authorities
+* see [how to prepare for a crisis overseas](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas)
+
 ## Crime
 
 There is a high level of crime in Luanda, some of it violent. Muggers can be armed and some attacks have been fatal. If you are attacked, hand over your money and valuables immediately.

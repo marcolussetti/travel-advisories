@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   2 August 2025
+:   26 November 2025
 
 Updated:
-:   1 August 2025
+:   25 November 2025
 
 Latest update:
-:   Updated information about protests in Luanda ('Warnings and insurance' page).
+:   New information about protests and demonstrations (‘Safety and security’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/6437d3f1db4ba90013448e0a/FCDO__TA__053_-_Angola_Travel_Advice_Ed2__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/6437d3f2f4d4200012d4a182/FCDO__TA__053_-_Angola_Travel_Advice_Ed2.pdf)
+[Download a more detailed map (PDF, 526 KB)](https://assets.publishing.service.gov.uk/media/6437d3f2f4d4200012d4a182/FCDO__TA__053_-_Angola_Travel_Advice_Ed2.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -27,10 +27,6 @@ FCDO advises against all but essential travel to Cabinda Province, except to Cab
 FCDO advises against all but essential travel to within 1km of the border with the Democratic Republic of the Congo (DRC) in Lunda Norte province, except for official border crossings and their access roads. This is due to poor conditions, insecurity and banditry.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/angola/regional-risks).
-
-## Protests in Luanda
-
-Unrest in Luanda and several provinces on 28 - 31 July has resulted in at least 29 fatalities, according to the Government of Angola. While tensions have eased, the situation remains unpredictable. British nationals should remain vigilant, avoid all demonstrations, and follow local guidance.
 
 ## Before you travel
 

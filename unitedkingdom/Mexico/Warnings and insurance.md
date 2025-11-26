@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   22 November 2025
+:   26 November 2025
 
 Updated:
-:   21 November 2025
+:   25 November 2025
 
 Latest update:
-:   Update of information about protests and demonstrations ('Warnings and insurance' page).
+:   Removal of information about protests and demonstrations ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/65fabfdfaa9b76001dfbdb8a/FCDO_TA_065_-_Mexico_Travel_Advice_Ed5_WEB.jpg)
 
@@ -106,10 +106,6 @@ FCDO advises against all but essential travel to within 40km of the Guatemalan b
 FCDO advises against all but essential travel on Federal Highway 199 (Carretera Federal 199) between Rancho Nuevo (just outside San Cristobal de las Casas) and the Chancalá junction just outside Palenque (where Federal Highway 199 meets Federal Highway 307).
 
 Find out more about [why FCDO advises against travel to these areas](/foreign-travel-advice/mexico/regional-risks).
-
-## Protests and demonstrations
-
-On 24 November, transportation workers are expected to block highways across the country, which could cause significant delays. Mexico City and Estado de Mexico are expected to be most affected. You should monitor local media for any updates and consider your need to travel.
 
 ## Before you travel
 

@@ -16,7 +16,7 @@ Terrorist attacks could be indiscriminate, including in places frequented by for
 
 ## Political situation
 
-Political linked rallies are possible and occur in any parts of the country. Avoid large gatherings and political demonstrations as protests can sometimes turn violent. Roads may be closed in response to demonstrations as clashes have been known to occur between security forces and the community.
+In late September and early October 2025, significant protests took place in Antananarivo and other parts of Madagascar, which included incidences of violence and looting. A new transitional government was formally established on 17 October. Politically linked rallies are possible and occur in any parts of the country. Avoid large gatherings and political demonstrations as protests can sometimes turn violent. Roads may be closed in response to demonstrations as clashes have been known to occur between security forces and the community.
 
 ## Crime
 

@@ -14,7 +14,7 @@ You will be denied entry if you do not have a valid travel document or try to us
 
 ## Visa requirements
 
-You do not need a visa to visit Angola for up to 30 days.
+You do not need a visa to visit Angola for up to 30 days, if visiting for tourism.
 
 If travelling for work, study or business, you must [get a visa in advance](https://consuladogeralangola-uk.org/vistos/). If you do not have a visa, or if you have the wrong visa, you may be stopped from boarding or detained at the airport on arrival. Angola’s deportation process can take a long time.
 

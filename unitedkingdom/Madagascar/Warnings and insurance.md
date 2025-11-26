@@ -1,17 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   22 October 2025
+:   26 November 2025
 
 Updated:
-:   21 October 2025
+:   25 November 2025
 
 Latest update:
-:   FCDO no longer advises against all but essential travel to Madagascar. Updated information about the political and security situation in Madagascar ('Warnings and insurance' page).
-
-## Political and security situation in Madagascar
-
-Significant protests took place in Antananarivo and other parts of Madagascar in late September and early October 2025, including incidences of violence and looting. A group within the military announced on 14 October that it had taken control, and an interim President was invested on 17 October. This appears to have been widely welcomed, and the situation is now calm. Follow local advice and avoid all large gatherings and political demonstrations.
+:   Updated information on the political situation (‘Safety and security’ page).
 
 ## Before you travel
 

@@ -1,11 +1,11 @@
 {
     "name": "Madagascar",
-    "update_reason": "FCDO no longer advises against all but essential travel to Madagascar. Updated information about the political and security situation in Madagascar ('Warnings and insurance' page).",
+    "update_reason": "Updated information on the political situation (\u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Madagascar/Warnings and insurance.md",
-            "update_date": "2025-10-21T16:37:18+01:00"
+            "update_date": "2025-11-25T13:57:13+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Madagascar/Getting help.md"
         }
     ],
-    "update_date": "2025-10-21T16:37:18+01:00"
+    "update_date": "2025-11-25T13:57:13+00:00"
 }
