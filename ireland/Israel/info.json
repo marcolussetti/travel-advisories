@@ -1,0 +1,27 @@
+{
+    "name": "Israel",
+    "risk_level": "No summary found",
+    "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Israel/Misc.md"
+        },
+        {
+            "title": "Overview",
+            "file": "ireland/Israel/Overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Israel/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Israel/Local laws and customs.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Israel/Embassy contact.md"
+        }
+    ],
+    "update_date": "2025-11-25T00:00:00"
+}

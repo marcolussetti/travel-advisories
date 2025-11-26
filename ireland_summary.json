@@ -546,9 +546,9 @@
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/iraq/"
     },
     {
-        "destination": "Israel and the Occupied Territories",
+        "destination": "Israel",
         "risk_level": "No summary found",
-        "last_updated": "2025-11-19T00:00:00",
+        "last_updated": "2025-11-25T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/israel-and-the-occupied-territories/"
     },
     {
@@ -880,6 +880,12 @@
         "risk_level": "No summary found",
         "last_updated": "2025-08-05T00:00:00",
         "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/palau/"
+    },
+    {
+        "destination": "Palestine",
+        "risk_level": "No summary found",
+        "last_updated": "2025-11-25T00:00:00",
+        "details_url": "https://www.ireland.ie/en/dfa/overseas-travel/advice/palestine/"
     },
     {
         "destination": "Panama",

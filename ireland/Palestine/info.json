@@ -1,0 +1,27 @@
+{
+    "name": "Palestine",
+    "risk_level": "No summary found",
+    "pages": [
+        {
+            "title": "Misc",
+            "file": "ireland/Palestine/Misc.md"
+        },
+        {
+            "title": "Travel to Palestine overview",
+            "file": "ireland/Palestine/Travel to Palestine overview.md"
+        },
+        {
+            "title": "Safety and security",
+            "file": "ireland/Palestine/Safety and security.md"
+        },
+        {
+            "title": "Local laws and customs",
+            "file": "ireland/Palestine/Local laws and customs.md"
+        },
+        {
+            "title": "Embassy contact",
+            "file": "ireland/Palestine/Embassy contact.md"
+        }
+    ],
+    "update_date": "2025-11-25T00:00:00"
+}
