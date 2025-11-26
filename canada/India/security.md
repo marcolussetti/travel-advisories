@@ -2,30 +2,6 @@
 
 ## Safety and security
 
-### Explosion in New Delhi
-
-Following a car explosion at a metro station in New Delhi, near the Red Fort, the Government of India has placed several states on high alert, including Delhi, Uttar Pradesh and Maharashtra.
-
-* Monitor local media to stay informed of the evolving situation
-* Follow the advice from local authorities
-* Avoid popular tourist areas
-* Be aware of your surroundings
-
-On May 7, 2025, the Indian military conducted air strikes on several targets in Pakistan-administered Kashmir and Punjab Province, resulting in casualties.
-
-On May 10, 2025, the Indian and Pakistani governments agreed to stop military action.
-
-Airports across northern and western India have reopened; however, flight disruptions may still occur.
-
-* Contact your airline for updated flight information
-* Monitor local media to stay informed
-
-### Security situation
-
-In the context of recent developments in Canada and in India, there are calls for protests and some negative sentiment towards Canada in traditional media and on social media. Demonstrations, including anti-Canada protests, could occur and Canadians may be subjected to intimidation or harassment. In Delhi and the National Capital Region, you should keep a low profile with strangers, and not share your personal information with them. Avoid crowded areas, including public transportation. You should always travel with someone and inform a friend or a family member of your travel plans.
-
-Consular services in person are temporarily unavailable in and around Bengaluru, Chandigarh and Mumbai. Consular services in person at the High Commission of Canada in New Delhi will remain available.
-
 ### Union Territory of Jammu and Kashmir
 
 The security situation in the Union Territory of Jammu and Kashmir is tense. There are high risks of violent protests, civil unrest and acts of terrorism and militancy.
@@ -99,13 +75,13 @@ While in India:
 Petty crime, such as pickpocketing and purse snatching, is common. Criminals may target foreigners, especially in major cities and tourist areas.
 
 * Be vigilant in all crowded locations
-* Don’t carry large sums of money
+* Don't carry large sums of money
 * Ensure that your personal belongings, including your passport and other travel documents, are secure at all times
 
 Petty crime frequently occurs on public transportation and overnight trains.
 
 * Ensure that the train compartment contains packages belonging only to you and other occupants
-* Store personal belongings in a safe place, and don’t leave the compartment unattended
+* Store personal belongings in a safe place, and don't leave the compartment unattended
 * Securely lock the doors
 
 Serious crime against foreigners is less frequent, but incidents do occur.
@@ -126,12 +102,12 @@ Exercise caution in tourist areas and airports where scammers particularly targe
 
 Scams involving the exportation of jewels, gemstones, carpets, and other items have occurred. Taxi drivers may approach you, offering money to export such items.
 
-* Don’t accept any offer, no matter how convincing
+* Don't accept any offer, no matter how convincing
 * Beware of offers for cheap transportation or accommodation, extended taxi rides and unsolicited guided tours
 
 #### Romance scams
 
-If you’re travelling to India to meet someone you’ve otherwise only met online, you may be the victim of a scam.
+If you're travelling to India to meet someone you've otherwise only met online, you may be the victim of a scam.
 
 Be alert to attempts at fraud by persons who profess friendship or romantic interest over the internet.
 
@@ -139,7 +115,7 @@ Be alert to attempts at fraud by persons who profess friendship or romantic inte
 
 Unsolicited emails offering attractive business or financial opportunities are most likely fraudulent.
 
-Don’t travel to India to obtain restitution after losing money to a scam.
+Don't travel to India to obtain restitution after losing money to a scam.
 
 [Overseas fraud](https://travel.gc.ca/travelling/health-safety/overseas-fraud)
 
@@ -147,7 +123,7 @@ Don’t travel to India to obtain restitution after losing money to a scam.
 
 Never leave food or drinks unattended or in the care of strangers. Be wary of accepting snacks, beverages, gum or cigarettes from new acquaintances. These items may contain drugs that could put you at risk of sexual assault and robbery.
 
-### Women’s safety
+### Women's safety
 
 Crimes committed against women frequently occur in India. Foreign women are often the target of unwanted attention.
 
@@ -176,17 +152,17 @@ If you are the victim of a sexual assault, you should report it immediately to l
 
 ### Forced marriages
 
-Forced marriage affecting foreigners occurs, sometimes without the affected person’s prior knowledge or consent.
+Forced marriage affecting foreigners occurs, sometimes without the affected person's prior knowledge or consent.
 
 Some Canadians have been forced into marital arrangements and have been detained against their will. They have been subjected to threats, intimidation and violence by family members.
 
-#### If you’re in Canada
+#### If you're in Canada
 
-If you’re in Canada and you believe that you’re being forced to travel overseas to marry, you should call your local police for assistance.
+If you're in Canada and you believe that you're being forced to travel overseas to marry, you should call your local police for assistance.
 
-#### If you’re in India
+#### If you're in India
 
-If you’re in India and you believe that you’re being forced to marry, contact the nearest office of the Government of Canada. You may also contact the [Emergency Watch and Response Centre](https://travel.gc.ca/assistance/emergency-assistance).
+If you're in India and you believe that you're being forced to marry, contact the nearest office of the Government of Canada. You may also contact the [Emergency Watch and Response Centre](https://travel.gc.ca/assistance/emergency-assistance).
 
 Family members may retain passports to prevent victims from returning to Canada. Keep digital or physical copies of your travel documents in a safe place.
 
@@ -196,7 +172,7 @@ Family members may retain passports to prevent victims from returning to Canada.
 
 ### Protests in Manipur
 
-Violent demonstrations have been taking place in Manipur State since May 3, 2023, resulting in casualties. Protests have led to disruptions to traffic and public transportation. Curfews have been imposed in several districts and mobile and internet services may be limited.
+Violent demonstrations have been taking place in Manipur State since May 2023, resulting in casualties. Protests have led to disruptions to traffic and public transportation. Curfews have been imposed in several districts and mobile and internet services may be limited.
 
 If you are in Manipur:
 
@@ -207,9 +183,9 @@ If you are in Manipur:
 
 Demonstrations, mass gatherings, general strikes, “bandh” or “hartal,” take place frequently. Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation.
 
-Stampedes have occurred during mass gatherings, including religious ceremonies, and resulted in deaths and injuries.
+Stampedes at religious and political gatherings pose a serious risk, often leading to loss of life.
 
-Local authorities may impose curfews and other restrictions on short notice.
+Local authorities may impose curfews and other restrictions on short notice. Suspending internet services during curfews is a common response to violent unrest, communal tensions and large-scale protests.
 
 * Avoid areas where demonstrations and large gatherings are taking place
 * Follow the instructions of local authorities, including curfews
@@ -221,7 +197,7 @@ Local authorities may impose curfews and other restrictions on short notice.
 
 Road conditions and road safety are poor throughout the country. Most roads, including major highways, are poorly maintained. There is severe traffic congestion. Driving conditions may be hazardous during the rainy season, and some roads can become impassable.
 
-Drivers don’t respect traffic laws. They are often aggressive or reckless. Driving can be hazardous due to the presence of livestock or wandering cows, including in urban areas.
+Drivers don't respect traffic laws. They are often aggressive or reckless. Driving can be hazardous due to the presence of livestock or wandering cows, including in urban areas.
 
 Fatal road accidents are frequent. They can lead to mob anger and assault.
 
@@ -242,13 +218,13 @@ If you use a taxi, get it from a reputable hotel, an official taxi stand, or a t
 
 * Negotiate fares in advance, or insist that the driver use the meter, as you may be overcharged
 * Avoid travelling alone, especially at night
-* Don’t share taxis with strangers
+* Don't share taxis with strangers
 
 #### Maritime transportation
 
 Maritime accidents occur regularly due to the overloading and poor maintenance of some vessels.
 
-* Don’t board vessels that appear overloaded or unseaworthy
+* Don't board vessels that appear overloaded or unseaworthy
 * Always wear a life jacket
 
 ### Piracy
@@ -261,7 +237,7 @@ Pirate attacks and armed robbery against ships occur in coastal waters. Mariners
 
 Coastal waters can be dangerous. Riptides are common. Several drownings occur each year.
 
-Beaches are not usually supervised by lifeguards. Many beaches don’t display warnings of dangerous conditions.
+Beaches are not usually supervised by lifeguards. Many beaches don't display warnings of dangerous conditions.
 
 * Seek local advice before swimming
 * Avoid swimming if red flags are flown
@@ -279,7 +255,7 @@ If you intend on trekking:
 * never do so alone and always hire an experienced guide from a reputable company
 * buy travel insurance that includes helicopter rescue and medical evacuation
 * ensure that your physical condition is good enough to meet the challenges of your activity
-* ensure that you’re adequately equipped and well informed about weather and other conditions that may pose a hazard
+* ensure that you're adequately equipped and well informed about weather and other conditions that may pose a hazard
 * inform a family member or friend of your itinerary, including when you expect to be back to camp
 * know the symptoms of high-altitude illnesses, which can be fatal
 * obtain detailed information on trekking routes or ski slopes before setting out and do not venture off marked trails or slopes
@@ -289,9 +265,9 @@ If you intend on trekking:
 Wildlife viewing may pose risks, particularly on foot or at close range. If you plan on visiting a wildlife area such as a tiger reserve:
 
 * always maintain a safe distance when observing wildlife
-* only exit a vehicle when a professional guide or warden says it’s safe to do so
+* only exit a vehicle when a professional guide or warden says it's safe to do so
 * only use reputable and professional guides or tour operators
-* closely follow park regulations and wardens’ advice
+* closely follow park regulations and wardens' advice
 
 Large groups of monkeys are present in several parts of India, including some urban regions. Monkeys can get aggressive and rapidly overwhelm travellers in their search for food. They can also steal your belongings.
 

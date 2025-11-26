@@ -2,6 +2,18 @@
 
 ## Natural disasters and climate
 
+### Volcanoes
+
+### Hayli Gubbi eruption
+
+On November 24, 2025, the Hayli Gubbi volcano erupted in the Afar Region. The region is also experiencing increased seismic activity.
+
+A large volcanic ash cloud could disrupt air traffic and cause flight delays or cancellations.
+
+Contact your airline to confirm your flight before heading to the airport.
+
+### Earthquakes
+
 ### Increase in seismic activity
 
 Since January 2025, there has been an increase in seismic activity in Ethiopia, especially in the Afar and Oromia regions and in areas east of Addis Ababa. Further earthquakes are possible.

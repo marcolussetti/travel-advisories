@@ -31,4 +31,4 @@ Nauru is located near an active seismic zone. Tsunamis may occur.
 
 A tsunami can occur within minutes of a nearby earthquake. However, the risk of a tsunami can remain for several hours following the first tremor. If you’re staying in Nauru, familiarize yourself with the region’s evacuation plans in the event of a tsunami warning.
 
-[Tsunami alerts](https://www.tsunami.gov/) - U.S. Tsunami Warning System
+[Tsunami alerts](https://www.tsunami.gov/) – U.S. Tsunami Warning System

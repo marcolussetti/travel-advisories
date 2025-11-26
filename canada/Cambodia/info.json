@@ -1,7 +1,7 @@
 {
     "name": "Cambodia",
-    "update_reason": "Natural disasters and climate \u2013 removed information on Typhoon Kalmaegi",
-    "update_date": "2025-11-13T15:10:00",
+    "update_reason": "Health \u2013 Travel health notice for dengue added",
+    "update_date": "2025-11-25T14:05:00",
     "sections": {
         "risk": "canada/Cambodia/risk.md",
         "security": "canada/Cambodia/security.md",

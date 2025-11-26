@@ -1,7 +1,7 @@
 {
     "name": "Ecuador",
-    "update_reason": "Editorial change",
-    "update_date": "2025-11-13T15:08:00",
+    "update_reason": "Health \u2013 travel health notice for dengue removed",
+    "update_date": "2025-11-25T15:06:00",
     "sections": {
         "risk": "canada/Ecuador/risk.md",
         "security": "canada/Ecuador/security.md",

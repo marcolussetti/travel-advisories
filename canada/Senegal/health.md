@@ -6,7 +6,7 @@
 
 * [Measles: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/504) - 13 November, 2025
 * [COVID-19 and International Travel](https://travel.gc.ca/travelling/health-safety/travel-health-notices/513) - 12 May, 2025
-* [Dengue: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/517) - 5 November, 2025
+* [Dengue: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/517) - 25 November, 2025
 * [Polio: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/508) - 21 November, 2025
 * [Rift Valley fever in West Africa](https://travel.gc.ca/travelling/health-safety/travel-health-notices/542) - 17 November, 2025
 

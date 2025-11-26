@@ -2,22 +2,15 @@
 
 ## Safety and security
 
-**Presidential elections**
+**Security situation**
 
-On October 27, 2025, the presidential election results were announced. Demonstrations are taking place in several cities across Cameroon.
+On October 27, 2025, the announcement of the presidential election results sparked violent clashes, resulting in casualties.
 
-Violent clashes between protesters and security forces have resulted in casualties.
-
-Calls for demonstrations may extend this period of instability. Demonstrations can also lead to disruptions to traffic and public transportation. Telecommunications and Internet access are disrupted.
-
-Authorities may strengthen security measures and set up roadblocks.
+The possibility of renewed demonstrations and firm responses from security forces remains.
 
 If you are in Cameroon:
 
-* shelter in place if you are in an area affected by unrest
-* avoid areas where demonstrations and large gatherings are taking place
-* avoid areas around government buildings, including the headquarters of Elections Cameroon (ELECAM)
-* expect an increased security presence
+* avoid demonstrations and large gatherings
 * monitor local media for the latest information
 * follow the instructions of local authorities
 

@@ -28,4 +28,4 @@ Tsunamis may occur after a strong earthquake and can travel long distances acros
 * Familiarize yourself with earthquake security measures in public and private buildings
 * Avoid restricted areas and follow the advice of local authorities
 
-[Earthquakes](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx "Earthquakes") - Government of Canada
+[Earthquakes](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx "Earthquakes") – Government of Canada

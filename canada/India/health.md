@@ -334,39 +334,6 @@ Travellers who may be at high risk while travelling in regions with risk of tube
 
 High-risk travellers include those visiting or working in prisons, refugee camps, homeless shelters, or hospitals, or travellers visiting friends and relatives.
 
-### Medical services and facilities
-
-The quality of health care varies significantly throughout the country.
-
-Medical care in major cities may be good, but it’s usually very limited or unavailable in rural areas.
-
-Government hospitals provide free services or at a minimal cost. Private facilities often offer a higher level of care but can be expensive. Most hospitals require up-front payment or confirmation of insurance coverage before commencing treatment.
-
-Specialised treatment for psychiatric illness may not be available outside major cities.
-
-Make sure you get travel insurance that includes coverage for medical evacuation and hospital stays.
-
-[Health and safety outside Canada](https://travel.gc.ca/travelling/health-safety)
-
-### Ambulances
-
-Ambulances are often equipped with basic and old medical equipment.
-
-Response times can be very slow. Traffic doesn’t yield to emergency vehicles.
-
-In case of serious illness or injury, you may consider taking a taxi or private vehicle to go to the hospital rather than wait for an ambulance.
-
-### Medical tourism
-
-Some Canadian citizens have had severe health complications following cosmetic or other elective surgeries abroad.
-
-Before leaving for medical travel:
-
-* make sure you have done your research
-* use competent health-care providers only
-
-[Receiving Medical Care in Other Countries](https://travel.gc.ca/travelling/health-safety/medical-care-outside-canada)
-
 ### Keep in Mind...
 
 The decision to travel is the sole responsibility of the traveller. The traveller is also responsible for his or her own personal safety.

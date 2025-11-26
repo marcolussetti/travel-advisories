@@ -8,13 +8,17 @@ Climate change is affecting Vietnam. Extreme and unusual weather events are beco
 
 ### Typhoons and monsoons
 
-### Flooding
+### Flooding and landslides
 
 Heavy rainfall has caused severe flooding across the central and northern provinces of Vietnam.
 
 Recent typhoons and rain have resulted in significant casualties and damage to infrastructure.
 
-Heavy rains and high tides are forecast for Ho Chi Minh City until November 23, 2025, and may cause severe flooding in areas that are low-lying and close to rivers.
+The Mimosa, Khanh Le and Prenn mountain passes near Da Lat city are blocked by landslides. Traffic congestion has significantly increased due to flooded sections of the national highways in Khanh Hoa, Gia Lai, and Dak Lak, as well as other provincial roads.
+
+Heavy rains and high tides are forecast for Ho Chi Minh City until November 26, 2025, and may cause severe flooding in areas that are low-lying and close to rivers.
+
+Central Vietnam, in particular Dak Lak, Gia Lai, Lam Dong, and Khanh Hoa provinces, will continue to be affected by exceptionally high rainfall, flooding and landslides through to early December.
 
 If you are in an affected area:
 
@@ -96,5 +100,5 @@ During periods of high pollution:
 
 #### Useful links
 
-* [Air pollution in Hanoi](https://aqicn.org/city/hanoi/) - World Air Quality Index
-* [Air pollution in Ho Chi Minh City](https://aqicn.org/station/vietnam/ho-chi-minh-city/us-consulate)- World Air Quality Index
+* [Air pollution in Hanoi](https://aqicn.org/city/hanoi/) – World Air Quality Index
+* [Air pollution in Ho Chi Minh City](https://aqicn.org/station/vietnam/ho-chi-minh-city/us-consulate) – World Air Quality Index
