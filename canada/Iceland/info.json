@@ -1,7 +1,7 @@
 {
     "name": "Iceland",
-    "update_reason": "Natural disasters and climate \u2013 removed information on the Reykjanes Peninsula",
-    "update_date": "2025-11-21T12:17:00",
+    "update_reason": "Editorial change",
+    "update_date": "2025-11-26T15:21:00",
     "sections": {
         "risk": "canada/Iceland/risk.md",
         "security": "canada/Iceland/security.md",

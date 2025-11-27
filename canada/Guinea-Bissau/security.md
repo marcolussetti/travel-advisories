@@ -2,14 +2,17 @@
 
 ## Safety and security
 
-### Elections
+### Security situation
 
-Presidential and legislative elections are scheduled for November 23, 2025. Demonstrations could occur before, during and after the elections.
+On November 26, 2025, the day before the preliminary results of the presidential elections were to be announced, a faction of the army seized power and announced the suspension of the electoral process.
 
-* Avoid areas where demonstrations and large gatherings are taking place
-* Expect heightened security measures and an increased presence of security forces
-* Follow the instructions of local authorities
-* Monitor local media for the latest information
+They ordered the suspension of media programming, the closure of sea, air, and land borders, and instituted a nationwide curfew from 6 pm to 7 am.
+
+If you are in Guinea-Bissau:
+
+* shelter in place
+* monitor the media for the latest information
+* follow the instructions of local authorities, including curfew orders
 
 ### Political situation
 
