@@ -22,7 +22,7 @@ We advise visitors to contact their financial institution in advance of travelli
 
 ### **Wildlife Safety Precaution**
 
-There has been an increase of bear sightings and attacks across Japan, particularly in wooded and mountainous regions, including in nearby inhabited areas. Visitors are advised to exercise caution and should:
+There has been an increase in bear sightings and attacks recently, particularly in wooded and mountainous regions, including in nearby inhabited areas. Visitors are advised to exercise caution and should:
 
 * Research the area, check for local updates, and follow advice
 * Avoid walking alone and be aware of your surroundings
