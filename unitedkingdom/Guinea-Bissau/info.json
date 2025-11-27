@@ -1,11 +1,11 @@
 {
     "name": "Guinea-Bissau",
-    "update_reason": "This travel advice has been rewritten to make it easier to read and understand.",
+    "update_reason": "Addition of information about a gunfire incident in Bissau (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Guinea-Bissau/Warnings and insurance.md",
-            "update_date": "2024-04-10T09:59:54+01:00"
+            "update_date": "2025-11-26T17:45:34+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Guinea-Bissau/Getting help.md"
         }
     ],
-    "update_date": "2024-04-10T09:59:54+01:00"
+    "update_date": "2025-11-26T17:45:34+00:00"
 }

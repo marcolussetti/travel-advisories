@@ -1,13 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   27 November 2025
 
 Updated:
-:   10 April 2024
+:   26 November 2025
 
 Latest update:
-:   This travel advice has been rewritten to make it easier to read and understand.
+:   Addition of information about a gunfire incident in Bissau (‘Warnings and insurance’ page).
+
+## Gunfire in Bissau
+
+The FCDO is aware of a gunfire incident in central Bissau on 26 November at 1pm. Limit your movements around the city for now, continue to check Travel Advice and ensure that you have sufficient food and water wherever you are staying.
 
 ## Before you travel
 
