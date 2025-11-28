@@ -4,23 +4,6 @@
 
 High Degree of Caution
 
-### **Travel Alert**
-
-Industrial action is an ongoing issue in Belgium. This can occur at short notice and can cause travel disruption.
-
-Three days of strike action are planned for 24, 25 and 26 November, which may affect national and international travel.
-
-Train availability will be limited from 10PM on Sunday 23 November.
-
-On Wednesday 26 November, all flights departing from Brussels Airport (Zavantem) and all arrivals/departures from Brussels South Charleroi Airport have been cancelled.
-
-For updates, monitor local news and check with your travel operator.
-
-* [**Brussels Airport (Zaventem**](https://www.brusselsairport.be/en/passengers))
-* [**Charleroi Airport**](https://www.brussels-charleroi-airport.com/)
-* [Belgian Rail](https://www.belgiantrain.be/en)
-* Public transport ([**Brussels**](https://www.stib-mivb.be/index.htm?l=en), [**Flanders**](https://www.delijn.be/en/), [**Wallonia**](https://www.letec.be/))
-
 ### **General Travel Advice**
 
 Irish citizens need a valid passport or passport card to enter Belgium. Failure to produce your passport or passport card on arrival at the Belgian border may result in being detained and the issuing of a fine by Police.

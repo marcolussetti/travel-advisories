@@ -20,7 +20,7 @@ For urgent consular assistance, please contact: +972 369 64166 or +353 (1) 408 2
 
 ### Travel to Palestine
 
-All entry and exit to Palestine is controlled by Israel. [**Here**](/en/dfa/overseas-travel/advice/israel-and-the-occupied-territories/) is our travel advice page for travel to Israel.
+All entry and exit to Palestine is controlled by Israel. [**Here**](/en/dfa/overseas-travel/advice/israel/) is our travel advice page for travel to Israel.
 
 Ben Gurion International Airport (TLV) is presently operational. Please contact your airline for relevant updates prior to travel. The three land border crossings from Jordan (Allenby/King Hussein Bridge, Jordan River/Sheikh Hussein Crossing and Yitzhak Rabin/Arava Crossing) may be affected by long delays, reduced hours, and unforeseen closures without prior notification.
 

@@ -2,11 +2,7 @@
 
 ### Visa
 
-In January 2024, the Kenya State Department for Immigration and Citizen Services implemented a new policy on a Visa Free Regime in Kenya.
-
 **Visitors to Kenya are required to register on the** [**Electronic Travel Authorisation (ETA) system**](https://www.etakenya.go.ke/en) **before entering Kenya.** Some exemptions apply as detailed on the [**website of the Kenyan Civil Aviation Authority**](https://www.kcaa.or.ke/sites/default/files/publication/visa_free_regime_in_kenya.pdf).
-
-The ETA system replaces the previous e-visa system for Kenya.
 
 ### **Passport**
 
