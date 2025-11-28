@@ -60,6 +60,24 @@ Do not carry large amounts of cash or display valuables such as expensive jewell
 
 When in a vehicle, keep car doors locked, windows up and valuables out of sight. Be particularly careful at night when there is a higher incidence of crime. Do not stop if pedestrians or hitchhikers try to flag you down.
 
+### Sexual Assault
+
+Incidents of assault, rape and sexual aggression against foreigners have occurred, including at beach resorts.
+
+You can take steps to reduce your risk:
+
+* avoid walking alone at night
+* do not leave drinks unattended
+* be wary when dealing with strangers, and anyone offering rides or other invitations
+
+If you’re a victim of a sexual assault or other crime, you can report it to the [British High Commission in Dar es Salaam](https://www.gov.uk/world/organisations/british-high-commission-dar-es-salaam). Consular staff can help:
+
+* report the incident with local authorities
+* explain the process
+* translate for you if there’s a language barrier
+
+See FCDO’s guidance for [victims of rape and sexual assault in Tanzania](https://www.gov.uk/government/publications/tanzania-information-for-victims-of-rape-and-sexual-assault/tanzania-information-for-victims-of-rape-and-sexual-assault).
+
 ### Express kidnap
 
 In Dar es Salaam, tourists have been ‘express kidnapped’. This means they’ve been assaulted, robbed and forced with the threat of violence to withdraw cash from ATMs. Some have been forced to arrange cash transfers of up to £5,000 through Western Union after being befriended by strangers or getting into unlicensed taxis.

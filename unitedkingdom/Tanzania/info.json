@@ -1,11 +1,11 @@
 {
     "name": "Tanzania",
-    "update_reason": "Updated reference to the risk of political demonstrations and related violence, including around national holidays and updated language to reflect the potential for violence during election seasons in mainland Tanzania and Zanzibar (\u2018Warnings and insurance\u2019 and \u2018Safety and security\u2019 pages).",
+    "update_reason": "Updated to reflect the risk of of assault, rape and sexual aggression following recent incidents against British nationals (\u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Tanzania/Warnings and insurance.md",
-            "update_date": "2025-11-14T16:35:16+00:00"
+            "update_date": "2025-11-27T16:42:00+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Tanzania/Getting help.md"
         }
     ],
-    "update_date": "2025-11-14T16:35:16+00:00"
+    "update_date": "2025-11-27T16:42:00+00:00"
 }

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   15 November 2025
+:   28 November 2025
 
 Updated:
-:   14 November 2025
+:   27 November 2025
 
 Latest update:
-:   Updated reference to the risk of political demonstrations and related violence, including around national holidays and updated language to reflect the potential for violence during election seasons in mainland Tanzania and Zanzibar (‘Warnings and insurance’ and ‘Safety and security’ pages).
+:   Updated to reflect the risk of of assault, rape and sexual aggression following recent incidents against British nationals (‘Safety and security’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/690e25f165da22dd57729905/FCDO__TA__086_-_Tanzania_Travel_Advice_Ed1__WEB_.jpg)
 
