@@ -2,6 +2,21 @@
 
 ## Natural disasters and climate
 
+### Flooding and landslides in North Sumatra
+
+Heavy rainfall has caused severe flooding and landslides across North Sumatra, especially in Lake Toba and mountainous districts.
+
+Rain storms have resulted in flash floods, significant damage to homes and infrastructure, as well as casualties.
+
+Roadways may be blocked by landslides or flood water. Local authorities may suspend transportation services due to landslide debris and unsafe conditions.
+
+If you are in an affected area:
+
+* move to higher ground, away from rivers and low-lying areas
+* monitor local news and weather reports
+* confirm your flight before going to the airport
+* follow the instructions of local authorities
+
 ### Climate change
 
 Climate change is affecting Indonesia. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Indonesia is located in a very active seismic zone and is prone to natural disasters such as:

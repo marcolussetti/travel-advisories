@@ -1,7 +1,7 @@
 {
     "name": "Egypt",
-    "update_reason": "Health \u2013 travel health notice for polio removed",
-    "update_date": "2025-11-21T15:11:00",
+    "update_reason": "Editorial change",
+    "update_date": "2025-11-27T10:46:00",
     "sections": {
         "risk": "canada/Egypt/risk.md",
         "security": "canada/Egypt/security.md",

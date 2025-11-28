@@ -1,7 +1,7 @@
 {
     "name": "Australia",
-    "update_reason": "Natural disasters and climate \u2013 updated information on Tropical Cyclone Fina",
-    "update_date": "2025-11-23T17:36:00",
+    "update_reason": "Natural disasters and climate \u2013  removed information on Tropical Cyclone Fina",
+    "update_date": "2025-11-27T22:26:00",
     "sections": {
         "risk": "canada/Australia/risk.md",
         "security": "canada/Australia/security.md",

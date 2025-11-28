@@ -2,6 +2,36 @@
 
 ## Natural disasters and climate
 
+### Flooding and landslides
+
+Heavy rainfall from recent storms has caused severe flooding and landslides across Malaysia, including for the following states:
+
+* Kelantan
+* Terengganu
+* Kedah
+* Perlis
+* Perak
+* Penang
+* Pahang
+* Selangor
+* Negeri Sembilan
+* Melaka
+* Johor
+
+and the federal territories of:
+
+* Kuala Lumpur
+* Putrajaya
+
+Rain storms have resulted in flash floods, significant damage to infrastructure and casualties. Roadways may be blocked by landslides or flood water.
+
+If you are in an affected area:
+
+* move to higher ground, away from rivers and low-lying areas
+* monitor local news and weather reports
+* confirm your flight before going to the airport
+* follow the instructions of local authorities, including evacuation orders
+
 ### Climate change
 
 Climate change is affecting Malaysia. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local media for the latest information.

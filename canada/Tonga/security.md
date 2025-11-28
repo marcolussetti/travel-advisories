@@ -2,6 +2,16 @@
 
 ## Safety and security
 
+### Fuel shortages
+
+Tonga is experiencing a fuel shortage. Local authorities have imposed rationing measures for fuel. These measures could affect:
+
+* essential services
+* tourism
+* transportation
+
+Keep a supply of fuel on hand and carefully plan all road travel.
+
 ### Crime
 
 Petty crime, including theft, robberies, assaults and house break-ins, occurs. Thieves often target electronics.

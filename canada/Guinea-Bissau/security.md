@@ -6,7 +6,7 @@
 
 On November 26, 2025, the day before the preliminary results of the presidential elections were to be announced, a faction of the army seized power and announced the suspension of the electoral process.
 
-They ordered the suspension of media programming, the closure of sea, air, and land borders, and instituted a nationwide curfew from 6 pm to 7 am.
+They ordered the suspension of media programming and instituted a nationwide curfew from 7 pm to 6 am.
 
 If you are in Guinea-Bissau:
 

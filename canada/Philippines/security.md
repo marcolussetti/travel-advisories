@@ -163,7 +163,7 @@ Women travelling alone may be subject to some forms of harassment and verbal abu
 
 ### Demonstrations
 
-Demonstrations take place, including in Manila. Clashes may occur between security forces and demonstrators, especially in Mindanao and remote areas of northern Luzon.
+Demonstrations take place frequently, including in Manila, and can vary considerably in size. Clashes may occur between security forces and demonstrators, especially in Mindanao and remote areas of northern Luzon.
 
 Filipino law prohibits political activities by foreigners. Participating in demonstrations may result in being detained or deported.
 

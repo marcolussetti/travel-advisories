@@ -2,27 +2,6 @@
 
 ## Natural disasters and climate
 
-### Tropical Cyclone Fina
-
-After making landfall on the Cobourg Peninsula and Melville Island, Tropical Cyclone Fina is expected to make landfall again on the Kimberley coast, near King George River, on November 24, 2025.
-
-The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
-
-* transportation
-* power distribution
-* water and food supply
-* telecommunications networks
-* emergency services
-* medical care
-
-If you are in the affected area:
-
-* exercise caution
-* monitor local news and weather reports
-* follow the instructions of local authorities
-
-[Northern Territory warnings and alerts](https://www.bom.gov.au/weather-and-climate/warnings-and-alerts?stateName=Northern%20Territory) – Australian Bureau of Meteorology
-
 ### Bush and forest fires
 
 Bush and forest fires are common between October and April, particularly in areas covered by bushes, long grass or coastal scrub. Elevated fire danger ratings and alert levels may be applied to affected areas. The air quality in areas near active fires may deteriorate due to heavy smoke.
