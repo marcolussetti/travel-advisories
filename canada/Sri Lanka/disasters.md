@@ -4,11 +4,23 @@
 
 ### Flooding and landslides
 
-Heavy rainfall has caused severe flooding and landslides across Sri Lanka, especially in Badulla, Nuwara Eliya, Kandy and Matale districts.
+Heavy rainfall has caused severe flooding and landslides across Sri Lanka, especially Uva and Central provinces. A high-risk flood warning has been issued for low-lying areas of Kelani River basin in Western province, including the capital Colombo.
 
-Rain storms have resulted in flash floods, significant damage to infrastructure and casualties.
+Power and water supplies have been disrupted in several regions in Uva and Central provinces. Telecommunications are also severely affected in these provinces.
 
-Roadways may be blocked by landslides or flood water. Local authorities have stopped train operations in mountainous regions due to landslide debris and flooded tracks.
+Landslide warnings have been issued and evacuations are ongoing in the following districts:
+
+* Badulla
+* Kandy
+* Kegalle
+* Kurunegala
+* Matale
+* Monaragala
+* Nuwara Eliya
+
+Torrential rains have resulted in flash floods, significant damage to infrastructure and casualties.
+
+Roadways may be blocked by landslides or flood water. All trains and many international flights have been cancelled. Some flights have been rerouted.
 
 If you are in an affected area:
 

@@ -4,13 +4,12 @@
 
 ### Security situation
 
-On November 26, 2025, the day before the preliminary results of the presidential elections were to be announced, a faction of the army seized power and announced the suspension of the electoral process.
+On November 26, 2025, a faction of the army seized power and announced the suspension of the electoral process.
 
-They ordered the suspension of media programming and instituted a nationwide curfew from 7 pm to 6 am.
+The overnight curfew has been lifted but may be reinstated with little notice.
 
 If you are in Guinea-Bissau:
 
-* shelter in place
 * monitor the media for the latest information
 * follow the instructions of local authorities, including curfew orders
 

@@ -8,9 +8,15 @@ On October 29, 2025, general elections took place in Tanzania and Zanzibar.
 
 Violent demonstrations occurred throughout the country, including in Dar es Salaam. The violence led to a large number of casualties.
 
-The possibility of renewed demonstrations and firm responses from security forces remains.
+The possibility of renewed demonstrations and firm responses from security forces remains, particularly around Independence Day, on December 9, 2025.
 
-Intermittent disruptions to Internet access, including social media and messaging applications, may continue.
+Intermittent disruptions to Internet access, including social media and messaging applications, may occur.
+
+Save or print copies of key information in case of an internet disruption, including:
+
+* itineraries
+* contact details for the Canadian High Commission in Dar es Salaam and the [Emergency Watch and Response Centre in Ottawa](http://travel.gc.ca/assistance/emergency-assistance)
+* emergency numbers
 
 Authorities have strengthened security measures and security forces are present on the streets.
 
@@ -18,7 +24,9 @@ Movement restrictions and military checkpoints may be implemented without notice
 
 Police have the authority to search electronic devices, including phones. This may involve examining images and videos that could be considered sensitive by local authorities. Possession of such content could lead to detention.
 
-Foreign nationals may be subject to increased attention from local security forces, and there have been reports of temporary detentions. Travellers are advised to carry valid identification at all times and to comply with local regulations.
+Foreign nationals may be subject to increased attention from local security forces, and there have been reports of extensive interrogation and temporary detentions. Carry valid identification at all times and comply with local regulations.
+
+The High Commission is not routinely notified of detentions by local authorities and access to detainees may be restricted, limiting our ability to provide consular assistance.
 
 Curfews have been lifted in most areas, including in Dar es Salaam, but may be reinstated with little notice.
 
@@ -110,7 +118,7 @@ During your stay:
 * be extra cautious when withdrawing cash from ATMs
 * don't resist an attack
 
-#### Kidnappings
+### Kidnappings
 
 Kidnapping-for-ransom does not pose a significant risk in Tanzania, but it cannot be ruled out since armed groups from neighboring countries are known to employ this tactic.
 
@@ -133,6 +141,22 @@ These kidnappings are sometimes committed by taxi or ride-share apps drivers.
 * Avoid hailing taxis on the street
 * Do not get into a vehicle that already has a passenger in it
 * If you're threatened by armed criminals, stay calm and don’t resist
+
+### Women safety
+
+Women travelling alone may be subject to some forms of harassment and verbal abuse.
+
+Sexual assaults and rape have occurred.
+
+If you are a victim of a sexual assault or other crime, you should report it immediately to the nearest office of the Government of Canada. Local authorities may not respond adequately to reports of sexual violence and harassment.
+
+* Avoid isolated areas, even at resorts and hotel grounds
+* Exercise caution with strangers or recent acquaintances
+* Refrain from excessive drinking
+* Be wary of strangers offering rides or other invitations
+* Avoid taking public transportation or walking alone at night
+
+[Advice for women travellers](https://travel.gc.ca/travelling/health-safety/advice-for-women-travellers "Advice for women travellers")
 
 ### Terrorism
 
@@ -159,12 +183,6 @@ Be particularly vigilant during:
 * major political events, such as election
 
 Terrorists may use such occasions to mount attacks.
-
-### Women safety
-
-Women travelling alone may be subject to some forms of harassment and verbal abuse.
-
-[Advice for women travellers](https://travel.gc.ca/travelling/health-safety/advice-for-women-travellers "Advice for women travellers")
 
 ### 2SLGBTQI+ persons
 

@@ -1,7 +1,7 @@
 {
     "name": "Germany",
-    "update_reason": "Health \u2013 editorial change",
-    "update_date": "2025-11-21T15:10:00",
+    "update_reason": "Editorial change",
+    "update_date": "2025-11-28T09:45:00",
     "sections": {
         "risk": "canada/Germany/risk.md",
         "security": "canada/Germany/security.md",
