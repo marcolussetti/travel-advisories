@@ -38,7 +38,9 @@ Spain
 
 ### Honorary Consul of Ireland, Barcelona
 
-[Tel: +34 914 364 093](tel:+34914 364 093)
+Temporarily closed until further notice – If you require consular assistance please contact the Embassy of Ireland in Madrid on
+
+[Tel: +34 914364093](tel:+34914364093)
 
 ### Honorary Consul General of Ireland, Bilbao
 
@@ -101,18 +103,19 @@ Fax: +34 922 231 139
 
 **Email:** [tenerife@honoraryconsul.ie](mailto:tenerife@honoraryconsul.ie)
 
-### Honorary Consul General of Ireland, La Coruña
+### Honorary Consul of Ireland, Vigo
 
-Mr. Tomás Diáz del Rio   
-Anton Martin Shipping S.L.   
-Calle Alta del Puerto   
-Edif. "Los Sauces", 15401 El Ferrol (La Coruna)   
+Ms. Gwen Colvin   
+Plaza Compostela 4   
+36201 Vigo   
 Spain
 
-[Tel: +34 981 351 480](tel:+34981 351 480)
+[Tel: +34 986 446 262](tel:+34986 446 262)
 
-**Email:** [consuladoirlandagalicia@gmail.com](mailto:consuladoirlandagalicia@gmail.com)
+**Email:** [vigo@honoraryconsul.ie](mailto:vigo@honoraryconsul.ie)
 
 ### Honorary Consul General of Ireland, Gran Canaria/Las Palmas
 
-(Temporarily closed until further notice)
+Temporarily closed until further notice – If you require consular assistance, please contact the Embassy of Ireland in Madrid on
+
+[Tel: +34 914364093](tel:+34914364093)

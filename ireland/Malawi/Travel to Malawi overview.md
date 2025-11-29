@@ -6,11 +6,11 @@ High Degree of Caution
 
 ### **Travel Alert**
 
-Elections were held in Malawi on 16 September. There is a likelihood of increased political events, including celebrations and demonstrations, over the coming days as the results are announced. Avoid rallies, demonstrations and public gatherings. If in an area where you believe your safety is threatened, leave immediately.
+In November 2025, the Government of Malawi announced that “visa free access to Malawi is being revoked with immediate effect and visa application fee will apply on a reciprocity basis.” The Embassy of Ireland is seeking clarity on what this means for Irish passport holders, and there has been no further official confirmation on the visa requirements. Irish passport holders should be aware that there may be a visa fee when entering Malawi.
 
 ### **General Travel Advice**
 
-Irish citizens do not require a visa to enter  Malawi. However, Irish passport holders still need to apply for “Entry Authorisation” at the port of entry, at no cost. This authorisation must be renewed after 30 days, for a maximum of 90 days.
+Irish citizens do not require a visa to enter Malawi. However, in November 2025, the Government of Malawi announced that “visa free access to Malawi is being revoked with immediate effect and visa application fee will apply on a reciprocity basis.” The Embassy of Ireland is seeking clarity on what this means for Irish passport holders, and there has been no further official confirmation on the visa requirements. Irish passport holders should be aware that there may be a visa fee when entering Malawi.
 
 A valid passport is required for travel to Malawi. Irish passports should have a minimum validity of six months. Passport cards cannot be used.
 

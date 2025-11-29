@@ -1,5 +1,9 @@
 ## Health
 
+### **Notice**
+
+There is currently an outbreak of Hepatitis A in the Czech Republic. Check with your doctor and/or local travel health clinic on any precautions you may need to take before travelling, and for guidance on ways to reduce the risk of getting sick when in the Czech Republic.
+
 ### **Vaccinations**
 
 Check with your doctor a minimum of eight weeks in advance of travelling to see if you need any vaccinations for the Czech Republic.

@@ -6,9 +6,19 @@ High Degree of Caution
 
 ### **Travel Alert**
 
+#### **Extreme Weather**
+
+Sri Lanka is currently experiencing extreme weather conditions. Heavy rainfall has caused severe flooding and landslides across the country, and especially in the districts of Badulla, Nuwara Eliya, Kandy and Matale.
+
+Passengers may experience delays or disruptions to their travel and should contact their airline or tour operator for up to date information.
+
+Irish citizens are advised to monitor local news and weather reports and follow the instructions of local authorities.
+
+#### **Honorary Consulate in Colombo**
+
 We regret that our Honorary Consulate in Colombo is temporarily closed and cannot provide consular services. Irish citizens in Sri Lanka in need of assistance are advised to contact the Embassy of Ireland in New Delhi.
 
-### **Political and Economic Situation**
+#### **Political and Economic Situation**
 
 Sri Lanka is experiencing an economic crisis and since 2022, there have been shortages of essential goods such as food, fuel and medicines. **The supply of goods has stabilised, but could deteriorate again. Irish citizens should ensure that they:**
 
@@ -23,7 +33,7 @@ Irish citizens in Sri Lanka are encouraged [**to register their details**](https
 
 ### **General Travel Advice**
 
-Irish citizens planning on going to Sri Lanka must have a visa. The Electronic Travel Authorisation (ETA) scheme has been reinstated and citizens travelling to Sri Lanka should [apply online](https://www.eta.gov.lk/slvisa/), a few days in advance of their trip. Approval should be granted within 24 hours. Should you wish to extend your visa, please contact the [Immigration and Emigration department](https://www.immigration.gov.lk/index_e.php).
+Irish citizens planning on going to Sri Lanka must have a visa. The Electronic Travel Authorisation (ETA) scheme has been reinstated and citizens travelling to Sri Lanka should [**apply online**](https://www.eta.gov.lk/slvisa/), a few days in advance of their trip. Approval should be granted within 24 hours. Should you wish to extend your visa, please contact the [**Immigration and Emigration department**](https://www.immigration.gov.lk/index_e.php).
 
 A valid passport is required for travel to Sri Lanka. Irish passports should have a minimum validity of six months. Passport cards cannot be used.
 

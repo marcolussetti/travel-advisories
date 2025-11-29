@@ -1,3 +1,3 @@
-### High Degree of Caution
+### Do Not Travel
 
-This is level two of four ratings. Citizens travelling to this country or territory can expect more or higher risks than they would find in Ireland. Research your destination and exercise caution in relation to the particular points set out in our advice.
+This is our highest level of warning. You should not travel to this country or territory. If you are already in this location, you should consider leaving if it is safe to do so. Our ability to provide consular assistance to Irish citizens in this location is extremely limited.

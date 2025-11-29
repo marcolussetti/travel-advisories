@@ -4,23 +4,7 @@
 
 Normal Precautions
 
-### **Travel Alert**
-
-**Hurricane Melissa**
-
-In late October, Hurricane Melissa passed through eastern Cuba and caused significant damage. Infrastructure and services are likely to be severely impacted for some time.
-
-Stay informed by monitoring local and international weather updates, including from the [Cuban Civil Defence Authorities](https://x.com/cubacivil?s=21), and follow the guidance of local authorities.
-
-Monitor Embassy social media for major updates. Please find below links to the embassy’s social media accounts.
-
-[**X**](https://x.com/IrishEmbMexico/status/1982833932908609833)
-
-[**Instagram**](https://www.instagram.com/irishembmexico/?hl=en)
-
-[**Facebook**](https://www.facebook.com/IrishEmbMexico/)
-
-**Mosquito-borne diseases**
+### **Mosquito-borne diseases**
 
 There are currently a number of reported instances of Dengue and Chikungunya in Cuba. Take precautions to avoid or prevent mosquito and other insect bites. Additionally, it is difficult to access repellent in Cuba.
 

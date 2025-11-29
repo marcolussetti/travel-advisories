@@ -2,7 +2,11 @@
 
 ### **Visa**
 
-Irish citizens require a visa to enter Mauritania and effective from 5 January 2025, it is no longer possible to obtain a visa on arrival in Mauritania.
+Irish citizens should apply before travel for an online [**e-visa**](https://anrpts.gov.mr/visa/requestvisa) through the website of the Mauritanian National Agency for the Population Register and Secure Titles (Agence Nationale du Registre des Populations et des Titres Sécurisés), who can be contacted via email (contact@anrpts.gov.mr) if you encounter any technical difficulties with your application.
+
+You should apply for an e-visa well in advance of your travel date to ensure that it is issued on time by the Mauritanian authorities.
+
+E-visa fees must be paid on arrival in Mauritania in Euros or US Dollars. For information on visa lengths and fees, read guidance on the [**Mauritanian government’s website**](https://www.diplomatie.gov.mr/fr/node/50). Change and receipts are not issued
 
 ### **Passport**
 

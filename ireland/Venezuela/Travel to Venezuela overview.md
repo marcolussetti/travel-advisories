@@ -2,21 +2,19 @@
 
 ### **Security Status**
 
-Avoid Non-Essential Travel
+Do Not Travel
+
+### Travel Alert
+
+**The Department of Foreign Affairs and Trade advises against all travel to Venezuela at this time.**
+
+**The Venezuelan authorities have revoked the operating licences of several international airlines, including Iberia, LATAM airlines, Avianca, GOL, TAP Portugal and Turkish Airlines. Irish citizens in Venezuela are advised to closely monitor airline updates and stay informed through official media channels.**
 
 ### **General Travel Advice**
 
-The Department of Foreign Affairs and Trade strongly advises against non-essential travel to Venezuela at this time due to the security situation in the country.
+**The Department of Foreign Affairs and Trade advises against all travel to Venezuela at this time due to the security situation in the country and limited airline operations.**
 
-Commercial flights to and from Venezuela are limited and subject to change or cancellation.
-
-Irish citizens do not require a visa to enter Venezuela.
-
-A valid passport is required for travel to Venezuela. Irish passports should have a minimum validity of six months. Passport cards cannot be used.
-
-For more information on visas and passports, please see the Entry Requirements tab.
-
-Visitors to Venezuela are advised to follow the guidance of national and local authorities and stay fully informed of what is going on by monitoring local news and social media.
+Irish citizens in Venezuela are advised to follow the guidance of national and local authorities and stay fully informed of what is going on by monitoring local news and social media.
 
 Citizens can also follow the Irish Embassy in Colombia on social media (X [**@IrelandColombia**](https://x.com/embcol_ireland) and [**Facebook**](https://www.facebook.com/IrelandColombia/)) to ensure access to relevant updates and alerts.
 

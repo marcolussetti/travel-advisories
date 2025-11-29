@@ -2,24 +2,17 @@
 
 ### **Security Status**
 
-High Degree of Caution
+Do Not Travel
+
+### Travel Alert
+
+**The Department of Foreign Affairs and Trade advises against all travel to Guinea-Bissau at this time due to political instability. On 26 November a faction of the army seized power and announced the closure of the land, sea and air borders until further notice.**
 
 ### **General Travel Advice**
 
-Irish citizens require a visa to enter Guinea-Bissau.
+Irish citizens in Guinea-Bissau are advised to follow the guidance of national and local authorities and stay fully informed of what is going on by monitoring local news and social media.
 
-A valid passport is required for travel to Guinea-Bissau. Irish passports should have a minimum validity of 6 months. Passport cards cannot be used.
-
-For more information on visas and passports, please see the Entry Requirements tab.
-
-Visitors to Guinea-Bissau are advised to follow the guidance of national and local authorities and stay fully informed of what is going on by monitoring local news and social media.
-
-The Department of Foreign Affairs and Trade advises:
-
-* To avoid non-essential travel to the northwest part of the country that borders the Casamance region in Senegal as there may still be land mines present in this area as a result of recent armed conflict.
-* Against all travel to the area within 20 km of the border with Senegal, including the road from São Domingos to Mpack, Senegal.
-
-In view of the potential for risks to personal security, protests, demonstrations and large public gatherings should be avoided. Monitor local media for information on ongoing demonstrations and in the event of any social unrest, visitors should follow the advice of local authorities.
+In view of the potential for risks to personal security, protests, demonstrations and large public gatherings should be avoided.
 
 Additional safety precautions may be needed. Only travel during daylight hours and avoid carrying jewellery, large sums of money, or other valuables.
 
