@@ -4,6 +4,12 @@ This section has safety advice for regions of Jordan. It only covers regions whe
 
 You should also read [FCDO’s overall travel advice](/foreign-travel-advice/jordan) and [safety and security advice](/foreign-travel-advice/jordan/safety-and-security).
 
+## Situation in Israel, Lebanon, and Palestine
+
+Following hostilities in Israel, Lebanon, the West Bank and Gaza, the security situation could change suddenly.
+
+If you hear sirens, remain indoors and stay away from windows to ensure protection from any possible missile/drone fragments. If there are any injuries or damages, call 911 immediately.
+
 ## Land border crossings
 
 The roads within Jordan and land border crossings between Jordan and Israel and the West Bank can close at no notice.

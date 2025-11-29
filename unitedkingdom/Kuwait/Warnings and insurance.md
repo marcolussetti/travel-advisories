@@ -1,25 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   28 June 2025
+:   29 November 2025
 
 Updated:
-:   27 June 2025
+:   28 November 2025
 
 Latest update:
-:   Updated information about regional risks (see “Warnings and Insurance” page)
-
-## Regional risks
-
-Following hostilities in the region, a ceasefire between Israel and Iran began on 24 June.
-
-You should:
-
-* stay up to date with events in the region
-* check for any transport disruption that may still be occurring
-* monitor local and international media for the latest information
-* [read the FCDO’s advice on if you’re affected by a crisis abroad](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.gov.uk%2Fguidance%2Fhow-to-deal-with-a-crisis-overseas&data=05%7C02%7CCrisis%40fcdo.gov.uk%7C4563265a30b14112d88208ddb588a69b%7Cd3a2d0d37cc84f52bbf985bd43d94279%7C0%7C0%7C638866320685449525%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=NKlHvb0l0yilhgUsvbbH7LHGuefu%2FZHZMRJ0Ja%2B5umk%3D&reserved=0%22%20\t%20%22_blank)
-* follow the instructions of local authorities
+:   Addition of information on the risks from methanol poisoning (See 'Alcohol laws' on the 'Safety and security' page).
 
 ## Before you travel
 

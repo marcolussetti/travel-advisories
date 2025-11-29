@@ -37,6 +37,16 @@ Stay away from all demonstrations, rallies, and large crowds.
 
 If you become aware of any nearby disruption, leave the area immediately and monitor  social media and local media for up-to-date information.
 
+The authorities have previously limited internet access during or after protests. Make a note of important phone numbers including your travel operator, insurance company and the FCDO’s consular assistance number in case the internet is not accessible.
+
+### Social media
+
+It is illegal to take or share photographs and video footage of protests and violence. Keep away from activities that could be considered political, including political discussions in public places or online. There is a risk you could be detained for social media activities including posting comments, blogging or sharing photographs or video footage relating to protests or the current political situation.
+
+### Electronic Devices
+
+Tanzanian security services may request to check your phone and other electronic devices for content related to the events around elections, and to review participation in online groups perceived to have incited violence. The police have said that it is an offence to hold or share videos or images that ‘cause panic or degrade a person’s dignity’.
+
 ## Crime
 
 ### Violent crime
@@ -117,10 +127,6 @@ Zanzibari authorities can fine you 700 US dollars or more if you’re wearing wh
 ### Environmental laws
 
 Plastic bags are banned for environmental reasons. If you arrive by air you’ll be asked to hand over all plastic bags on arrival. The ban does not include ‘ziplock’ bags for airline security procedures.
-
-### Social media
-
-It is illegal to take and/or share photographs and video footage of protests and violence. Avoid activities that could be considered political, including political discussions in public places or online. Avoid social media activities including posting comments, blogging or sharing photographs or video footage relating to protests or the current political situation.
 
 ### Illegal drugs
 

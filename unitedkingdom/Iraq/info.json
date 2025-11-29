@@ -1,11 +1,11 @@
 {
     "name": "Iraq",
-    "update_reason": "Updated information about the risks of regional escalation and the instruction to take shelter if instructed ('Warnings and insurance' page).",
+    "update_reason": "Removal of information about regional risks and airspace restrictions.",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Iraq/Warnings and insurance.md",
-            "update_date": "2025-06-24T17:34:46+01:00"
+            "update_date": "2025-11-28T16:40:32+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Iraq/Getting help.md"
         }
     ],
-    "update_date": "2025-06-24T17:34:46+01:00"
+    "update_date": "2025-11-28T16:40:32+00:00"
 }

@@ -18,23 +18,14 @@ Terrorism attacks could be indiscriminate, including in places visited by foreig
 * shopping malls
 * restaurants
 * tourist sites
+* border crossings
 
 Stay aware of your surroundings, keep up to date with local media reports and follow the advice of local authorities.
 
 Examples of significant attacks include:
 
-* in 2019, 8 people injured in a knife attack in the Roman site in Jerash
-* in 2018, 2 officers killed and several others injured in Fuheis when an explosive device destroyed a gendarmerie vehicle
-
-## Situation in Israel, Lebanon, and Palestine
-
-Following hostilities in Israel, Lebanon, the West Bank and Gaza, the security situation could change suddenly.
-
-If you hear sirens, remain indoors and stay away from windows to ensure protection from any possible missile/drone fragments. If there are any injuries or damages, call 911 immediately.
-
-If missiles are intercepted in Jordanian airspace, this may result in falling fragments and debris. If you encounter any projectile debris or fragments you should move away from them immediately and contact local authorities.
-
-Flight cancellations and diversions can occur at no notice.  Global Positioning System (GPS) signals may be unreliable. If you are in Jordan and have been affected, contact your airline direct and follow the advice of the local authorities. If you are not yet in country, you should check with airlines and travel insurers before making any travel plans.
+* in 2025, 2 people and the assailant were killed in a knife attack at the King Hussein/Allenby bridge
+* in 2024, there were 3 separate attacks on the border crossings, where 3 Israeli border personnel were killed
 
 ## Political situation
 

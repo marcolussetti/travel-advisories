@@ -108,7 +108,7 @@ It is frowned on for men and women to show affection in public.
 
 ### Alcohol laws
 
-Buying, selling or carrying alcohol and drunken behaviour in public is punishable by a fine or imprisonment and can result in deportation.
+Alcohol is illegal. Buying, selling or carrying it, as well as public intoxication, can lead to fines, imprisonment and deportation. Consuming illegally produced alcohol poses severe health risks, including methanol poisoning, which can cause blindness, organ failure or death.
 
 ### Illegal drugs penalties
 

@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   14 June 2025
+:   29 November 2025
 
 Updated:
-:   13 June 2025
+:   28 November 2025
 
 Latest update:
-:   Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region (‘Safety and security’ page).
+:   Removal of information about regional risks.
 
 ![](https://assets.publishing.service.gov.uk/media/615dcb70d3bf7f55fd843aea/FCDO__TA__002_-_Algeria_Travel_Advice_Ed3__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/615dcb70e90e071979dfeb9c/FCDO__TA__002_-_Algeria_Travel_Advice_Ed3.pdf)
+[Download a more detailed map (PDF, 477 KB)](https://assets.publishing.service.gov.uk/media/615dcb70e90e071979dfeb9c/FCDO__TA__002_-_Algeria_Travel_Advice_Ed3.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 

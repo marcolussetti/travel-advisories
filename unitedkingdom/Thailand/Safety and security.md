@@ -60,24 +60,11 @@ Drinks served in bars are often stronger than those in the UK. Alcohol and drugs
 
 ### Methanol poisoning
 
-Alcoholic drinks containing methanol have killed people and caused serious illness. There is a risk of methanol poisoning from home brewed alcohol or counterfeit replicas of well-known alcohol brands. Affected drinks may include:
+There have been deaths and cases of serious illness caused by alcoholic drinks containing methanol in Thailand.
 
-* local spirits, including rice wine
-* spirit-based mixed drinks such as cocktails
-* counterfeit brand-name spirits
+Even small amounts of methanol can kill. It is not possible to identify methanol in alcoholic drinks by taste or smell. See [Travel Aware Spiking and methanol poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) for information about how to reduce the risks.
 
-To reduce the risk of methanol poisoning:
-
-* buy alcoholic drinks only from licensed liquor stores, bars, clubs, restaurants, and hotels
-* avoid home-made alcoholic drinks
-* check bottle seals are intact
-* check labels for poor print quality or incorrect spelling
-
-Methanol is tasteless and odourless.If the label, smell or taste seems wrong, do not drink the alcohol. These are signs it is illegal and could contain methanol.
-
-TravelHealthPro lists the [symptoms of methanol poisoning](https://www.travelhealthpro.org.uk/factsheet/25/personal-safety). For more information about spiking and methanol poisoning, read Travel Aware’s information on [Spiking and methanol poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/).
-
-Seek [urgent medical attention](https://www.gov.uk/government/publications/list-of-medical-facilities-in-vietnam) if you or someone you are travelling with show signs of methanol poisoning.
+Seek urgent medical attention if you or someone you are travelling with show the [signs of methanol poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) after drinking.
 
 ### Bank card fraud
 
@@ -130,6 +117,10 @@ Police may ask to check your passport. If you do not have it with you, you could
 ### Smoking and e-cigarette bans
 
 It’s illegal to smoke in public with a fine of up to 5,000 Thai baht. E-cigarettes are illegal. You could be fined or imprisoned for carrying or using them.
+
+### Alcohol sale restrictions
+
+The sale of alcohol is restricted between midnight and 11am and between 2pm and 5pm. These restrictions do not apply to licensed hotels, international airport terminals or authorised entertainment venues. Exercise caution when purchasing or consuming alcohol in public places during these times and check with venue owners or shop sellers. Failure to comply could result in a fine.
 
 ### Illegal drugs and prison sentences
 

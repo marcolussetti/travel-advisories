@@ -1,11 +1,11 @@
 {
     "name": "Palestine",
-    "update_reason": "This page has been updated from 'Occupied Palestinian Territories' to 'Palestine'.",
+    "update_reason": "This travel advice has been reviewed for accuracy with edits made throughout, including updated information about recent attacks, political situation and terrorist kidnap (\u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Palestine/Warnings and insurance.md",
-            "update_date": "2025-09-21T14:52:17+01:00"
+            "update_date": "2025-11-28T16:36:40+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Palestine/Getting help.md"
         }
     ],
-    "update_date": "2025-09-21T14:52:17+01:00"
+    "update_date": "2025-11-28T16:36:40+00:00"
 }

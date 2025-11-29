@@ -30,7 +30,7 @@ FCDO has guidance on staying safe and what to do if you need help or support abr
 * finding English-speaking [lawyers](https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/lawyers?country=Iraq), [funeral directors](https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/funeral-directors?country=iraq) and [translators and interpreters](https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/translators-interpreters?country=iraq) in Iraq
 * dealing with a [death in Iraq](https://www.gov.uk/government/publications/iraq-bereavement-information-pack)
 * being [arrested or imprisoned in Iraq](https://www.gov.uk/government/publications/information-pack-for-british-prisoners-in-iraq-not-including-kurdistan) and being [arrested or imprisoned in the Kurdistan Region of Iraq](https://www.gov.uk/government/publications/information-pack-for-british-prisoners-in-kurdistan-region)
-* getting help if you’re a [victim of crime](https://www.gov.uk/victim-crime-abroad)
+* getting help if you’re a [victim of crime](https://www.gov.uk/guidance/victim-of-crime-abroad)
 * what to do if you’re [in hospital](https://www.gov.uk/guidance/in-hospital-abroad)
 * if you’re [affected by a crisis](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas), such as a terrorist attack
 

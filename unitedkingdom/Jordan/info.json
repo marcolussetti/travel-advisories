@@ -1,11 +1,11 @@
 {
     "name": "Jordan",
-    "update_reason": "Addition of information on the risks from methanol poisoning ('Safety and security' page).",
+    "update_reason": "This travel advice has been reviewed for accuracy with edits made throughout, including updated information about recent attacks and the current situation in Israel, Lebanon and Palestine (\u2018Safety and security\u2019 and \u2018Regional risks\u2019 pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Jordan/Warnings and insurance.md",
-            "update_date": "2025-11-18T10:34:49+00:00"
+            "update_date": "2025-11-28T16:37:39+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Jordan/Getting help.md"
         }
     ],
-    "update_date": "2025-11-18T10:34:49+00:00"
+    "update_date": "2025-11-28T16:37:39+00:00"
 }

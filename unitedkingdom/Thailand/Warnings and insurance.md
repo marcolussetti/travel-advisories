@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   30 October 2025
+:   29 November 2025
 
 Updated:
-:   29 October 2025
+:   28 November 2025
 
 Latest update:
-:   New information about the formal mourning period following the death of HM Queen Sirikit ('Warnings and insurance' page).
+:   New information on hours where the sale of alcohol is restricted (See ‘Laws and cultural differences’ on the ‘Safety and security’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/68ff9972d81972ecd2df5dbf/FCDO__TA__040_-_Thailand_Travel_Advice_Ed5__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/68ff9972d81972ecd2df5dc0/FCDO__TA__040_-_Thailand_Travel_Advice_Ed5.pdf)
+[Download a more detailed map (PDF, 1.39 MB)](https://assets.publishing.service.gov.uk/media/68ff9972d81972ecd2df5dc0/FCDO__TA__040_-_Thailand_Travel_Advice_Ed5.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 

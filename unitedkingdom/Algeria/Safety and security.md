@@ -42,15 +42,6 @@ British nationals are seen as legitimate targets, including tourists, humanitari
 
 The long-standing policy of the British government is to not make substantive concessions to hostage takers. The British government considers that paying ransoms and releasing prisoners increases the risk of further hostage taking. The Terrorism Act (2000) also makes payments to terrorists illegal.
 
-## Regional risks
-
-Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region.
-
-You should:
-
-* monitor local and international media for the latest information
-* be vigilant and follow the instructions of local authorities
-
 ## Political situation
 
 Demonstrations and other forms of protest are subject to various restrictions. You should take precautions for your personal safety by avoiding political gatherings and demonstrations. Follow instructions given by local security authorities.
@@ -89,7 +80,7 @@ You do not have to carry your passport at all times, but take it with you on lon
 
 ### Ramadan
 
-Ramadan is a holy month for Muslims. The dates vary by year and country. During this time, do not:
+Ramadan is a holy month for Muslims. The dates vary by year and country, next starting in February 2026. During this time, do not:
 
 * eat, drink, smoke or chew gum in public in the daytime, including in your car
 * play loud music or dance

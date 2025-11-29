@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   25 November 2025
+:   29 November 2025
 
 Updated:
-:   24 November 2025
+:   28 November 2025
 
 Latest update:
-:   Addition of information about change to visa requirements for UK nationals entering Malawi ('Entry requirements' page).
+:   Updated information about change to visa requirements for UK nationals entering Malawi ('Entry requirements' page).
 
 ## Before you travel
 

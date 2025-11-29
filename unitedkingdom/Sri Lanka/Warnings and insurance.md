@@ -1,13 +1,21 @@
 # Warnings and insurance
 
 Still current at:
-:   6 November 2025
+:   29 November 2025
 
 Updated:
-:   5 November 2025
+:   28 November 2025
 
 Latest update:
-:   Updated information about applying for a Sri Lanka ‘Electronic Travel Authorisation’(‘Entry requirements’ page).
+:   Information added about severe weather affecting Sri Lanka, and related travel disruption (‘Warnings and insurance’ page)
+
+## Severe weather conditions throughout Sri Lanka
+
+Sri Lanka is currently experiencing severe weather.  Heavy rain has caused flooding and landslides which are causing travel disruption across the country.
+
+Some flights have been diverted, check with your airline or tour operator if you are due to fly.
+
+Sri Lanka Tourism has a 24 hour hotline available on 1912.
 
 ## Before you travel
 

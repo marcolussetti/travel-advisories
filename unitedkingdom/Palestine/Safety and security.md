@@ -2,8 +2,6 @@
 
 This travel advice covers Israel and Palestine.
 
-This guide also has safety advice for [regions of Israel and Palestine](/foreign-travel-advice/the-occupied-palestinian-territories/regional-risks).
-
 ## Conflict between Lebanese Hizballah and Israel
 
 Following the conflict between Israel and Lebanese Hizballah (LH), a ceasefire was agreed on 27 November 2024.
@@ -12,7 +10,7 @@ There remains a risk that hostilities could reignite, and with little warning. C
 
 ## Conflict between the Houthis (in Yemen) and Israel
 
-Following the conflict between Israel and the Houthis (in Yemen), there continues to be a risk of missile and drone attacks throughout Israel. There is a risk of shrapnel from intercepted missiles falling across Israel and Palestine and possible disruption at Ben Gurion airport.
+Following the conflict between Israel and the Houthis (in Yemen), there continues to be a risk of missile and drone attacks throughout Israel. There is a risk of shrapnel from intercepted missiles falling across Israel and Palestine and possible disruption at Ben Gurion airport. On 22 and 24 September 2025, two drones fired by the Houthis fell in Eilat, injuring at least 20 people.
 
 Check Home Front Command for the latest guidance. Restrictions may be put in place at short notice.
 
@@ -30,7 +28,7 @@ UK Counter Terrorism Policing has information and advice on [staying safe abroad
 
 ### Terrorism in Israel and Palestine
 
-Terrorists are very likely to try to carry out attacks in Israel and Palestine
+Terrorists are very likely to try to carry out attacks in Israel and Palestine.
 
 There was a large-scale terrorist attack by Hamas into southern Israel on 7 October 2023 where over 1,200 people were killed. Hamas continue to launch rockets into Israel and the Israeli Defence Forces are conducting significant military activity in Gaza.
 
@@ -51,10 +49,11 @@ Examples of recent significant attacks include:
 
 In 2025:
 
-* In March, one person was killed and one person injured in a shooting attack in northern Israel
-* In March, one person was killed and 3 injured in a stabbing attack in Haifa
-* In February, one person was killed and 12 people were injured in a ramming and stabbing attack at Karkur Junction near Pardes Hana-Karkur, south of Haifa
-* In February, 3 bombs exploded on 3 separate busses in the Tel Aviv area. Two other buses were found with bombs which failed to explode. There were no casualties. See our Regional Risks section for further information on using public transport in Tel Aviv
+* in September, six people were killed and eight wounded in a shooting attack in northern Jerusalem
+* in March, one person was killed and one person injured in a shooting attack in northern Israel
+* in March, one person was killed and 3 injured in a stabbing attack in Haifa
+* in February, one person was killed and 12 people were injured in a ramming and stabbing attack at Karkur Junction near Pardes Hana-Karkur, south of Haifa
+* in February, 3 bombs exploded on 3 separate busses in the Tel Aviv area. Two other buses were found with bombs which failed to explode. There were no casualties. See our Regional Risks section for further information on using public transport in Tel Aviv
 
 In 2024:
 
@@ -71,7 +70,7 @@ In 2023:
 
 ### Terrorist kidnap
 
-Terrorist kidnap is a risk in Gaza and along the border with Egypt. There is a large-scale conflict happening in areas of southern Israel close to the border with Gaza and Hamas has taken hundreds of hostages, including British nationals, across the border and into Gaza.
+Terrorist kidnap is a risk in Gaza and along the border with Egypt. On 7 October 2023, 251 people were kidnapped by Hamas into Gaza.
 
 British nationals are seen as legitimate targets, including tourists, humanitarian aid workers, journalists and business travellers. If you are kidnapped, the reason for your presence is unlikely to protect you or secure your safe release.
 
@@ -79,7 +78,11 @@ The long-standing policy of the British government is to not make substantive co
 
 ## Political situation
 
-There is currently a large-scale conflict happening in areas of southern Israel close to the border with Gaza. See [Warnings and insurance](/foreign-travel-advice/the-occupied-palestinian-territories) for more information, including information for British nationals who are in Israel and Palestine.
+There was an ongoing conflict between Israel and Hamas following the October 7 2023 Hamas terrorist attack which saw 251 people kidnapped into Gaza. On 10 October, Hamas and Israel agreed to a ceasefire.
+
+There remains a risk that hostilities could reignite, and with little warning. You should check Home Front Command for the latest guidance. Restrictions may be put in place at short notice. If travelling near military operation areas, follow all Israeli official instructions.
+
+Military activity continues on the Gaza border. Keep up to date with the news while travelling.
 
 Keep up to date with local travel advice on local news outlets and international outlets like the [Access Coordination Unit](http://www.accesscoordination.org/).
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   19 November 2025
+:   29 November 2025
 
 Updated:
-:   18 November 2025
+:   28 November 2025
 
 Latest update:
-:   Addition of information on the risks from methanol poisoning ('Safety and security' page).
+:   This travel advice has been reviewed for accuracy with edits made throughout, including updated information about recent attacks and the current situation in Israel, Lebanon and Palestine (‘Safety and security’ and ‘Regional risks’ pages).
 
 ![](https://assets.publishing.service.gov.uk/media/65bbcf944965c50010e8a3f1/FCDO__TA__087_-_Jordan_Travel_Advice_Ed2__WEB_.jpg)
 
@@ -21,20 +21,6 @@ Your travel insurance could be invalidated if you travel against advice from the
 ### Jordan-Syria border
 
 FCDO advises against all travel to within 3km of the border with Syria.
-
-## Regional risks
-
-Following hostilities in the region a ceasefire between Israel and Iran began on 24 June. Iran aligned militia groups are likely to continue to conduct attacks.
-
-It could take time for transport networks and border crossings to get back to normal. Demonstrations and protest activity may take place.
-
-You should:
-
-* stay up to date with events in the region
-* check for any transport disruption that may still be occurring
-* monitor local and international media for the latest information
-* read the FCDO’s advice on [if you’re affected by a crisis abroad](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas)
-* follow the instructions of local authorities
 
 ## Before you travel
 

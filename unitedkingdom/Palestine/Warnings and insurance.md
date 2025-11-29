@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   22 September 2025
+:   29 November 2025
 
 Updated:
-:   21 September 2025
+:   28 November 2025
 
 Latest update:
-:   This page has been updated from 'Occupied Palestinian Territories' to 'Palestine'.
+:   This travel advice has been reviewed for accuracy with edits made throughout, including updated information about recent attacks, political situation and terrorist kidnap (‘Safety and security’ page).
 
-![](https://assets.publishing.service.gov.uk/media/68cfdd87e65dc716bfb1db8f/FCDO_TA_022_-_Israel__Palestine_Travel_Advice_Ed25_WEB.jpg)
+![](https://assets.publishing.service.gov.uk/media/68d14e43b6c608ff9421b12a/FCDO__TA__022_-_Palestine_Travel_Advice_Ed25__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/68cfdd29275fc9339a248ab7/Map_of_Israel_and_Palestine.pdf)
+[Download a more detailed map (PDF, 399 KB)](https://assets.publishing.service.gov.uk/media/68d14e44e65dc716bfb1dbf6/FCDO__TA__022_-_Palestine_Travel_Advice_Ed25.pdf)
 
 This travel advice covers Israel and Palestine.
 
@@ -49,23 +49,9 @@ FCDO advises against all but essential travel to:
 
 Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/israel/regional-risks).
 
-## Risks of regional escalation
-
-Following Israeli strikes against targets in Iran, Iran launched multiple rounds of missile and drone attacks against Israel. On 23 June, Iran launched military strikes against a US military base in Qatar. Iran aligned militia groups are also likely to continue to conduct attacks. A ceasefire began between Israel and Iran on 24 June. This is a fragile situation with the potential to deteriorate further, quickly and without warning.
-
-Read the FCDO’s advice on [if you’re affected by a crisis abroad](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas).
-
-### Check local information
-
-You should check [Home Front Command](https://www.oref.org.il/en) for the latest guidance (available in Israel only) and follow instructions from the Israeli government. Restrictions may be put in place at short notice.
-
-If you are in the Palestine and do not have access to Home Front Command continue to follow local instructions including from Palestinian Civil Defence (Call 102, or see [www.pcd.ps](https://pcd.ps/) or [الدفاع المدني الفلسطيني Facebook](https://www.facebook.com/pcd.ps102?mibextid=LQQJ4d)).
-
-Recent hostilities led to falling fragments or debris. If you encounter any projectile debris or fragments you should move away from them immediately and contact local authorities.
-
 ## If you are in Israel and Palestine
 
-If you are in Israel and Palestine, be aware that whilst the frequency of missile and drone attacks has decreased, there is still a risk of rocket attacks throughout Israel. There is a risk of shrapnel from intercepted missiles falling across Israel and Palestine, and possible disruption at Ben Gurion airport in Tel Aviv.
+If you are in Israel and Palestine, be aware that whilst the frequency of missile and drone attacks has decreased, there is still a risk of rocket and drone attacks throughout Israel. There is a risk of shrapnel from intercepted missiles falling across Israel and Palestine, and possible disruption at Ben Gurion airport in Tel Aviv.
 
 Regional tensions can change quickly, which can cause international borders (air and land) to close. Political tension can cause demonstrations and clashes around anniversaries and significant events.
 

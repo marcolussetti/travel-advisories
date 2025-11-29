@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   28 November 2025
+:   29 November 2025
 
 Updated:
-:   27 November 2025
+:   28 November 2025
 
 Latest update:
-:   Updated to reflect the risk of of assault, rape and sexual aggression following recent incidents against British nationals (‘Safety and security’ page).
+:   Updated information on the political situation and calls for protest on 9 December (‘Warnings and insurance’ page), and the risk of invasive searches of electronic devices (‘Safety and security’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/690e25f165da22dd57729905/FCDO__TA__086_-_Tanzania_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -26,17 +26,22 @@ Find out more about [why FCDO advises against travel](/foreign-travel-advice/tan
 
 ## Political situation and ongoing disruption
 
-General elections took place in Tanzania on 29 October.
+General elections took place on 29 October.
 
-Protests and the resulting security response led to fatalities and injuries in many areas. Although the political situation is now calmer, further demonstrations including violent responses by security forces are possible, particularly around national holidays. Incidents could occur at any time and location and may turn violent again.
+Protests and the resulting security response led to fatalities and injuries in many areas. Further demonstrations including violent responses by security forces are possible. Calls for protests on 9 December, Independence Day, have been widely shared on social media.
 
-British nationals are advised to:
+Be prepared for:
 
-* monitor local media
-* follow the advice of the local authorities
-* stay away from all demonstrations, rallies, and large crowds
+* security checkpoints in Dar es Salaam and other urban areas
+* internet and mobile network outages
+* curfews
+* travel disruptions
+* restrictions on availability of supplies, such as food, water and fuel, which may last several days.
+* invasive checks on personal electronic devices
 
-There is some ongoing disruption to mobile networks, the internet and social media.
+Stay away from all demonstrations, rallies and large crowds, monitor local media and follow the advice of the authorities.
+
+The British High Commission has advised staff not to plan travel between 8-10 December, due to the risk of disruption.
 
 ## Before you travel
 

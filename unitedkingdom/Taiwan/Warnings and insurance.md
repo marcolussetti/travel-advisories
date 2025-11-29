@@ -1,23 +1,15 @@
 # Warnings and insurance
 
 Still current at:
-:   12 November 2025
+:   29 November 2025
 
 Updated:
-:   11 November 2025
+:   28 November 2025
 
 Latest update:
-:   Addition of information about Typhoon Fung-Wong ('Warnings and insurance' page).
+:   Removal of information about Typhoon Fung-Wong.
 
 The UK does not recognise Taiwan as a state and has no diplomatic relations with Taiwan, so limited support is available to British nationals. Please refer to the [British Office in Taipei](https://www.gov.uk/world/organisations/british-office-taipei) for further information.
-
-## Typhoons
-
-Typhoon Fung-Wong is expected to impact Taiwan on 12 and 13 November, with Taiwan’s Central Weather Administration (CWA) warning of heavy rainfall and strong winds, particularly in northern and eastern regions including metropolitan Taipei. This will bring an increased risk of flooding and transport disruption as well as landslides in mountainous regions. If local authorities declare “typhoon days” this can lead to service closures and disruption.
-
-The typhoon season in Taiwan normally runs from May to November. There’s a risk of road blockages and landslides including after typhoons, especially in central and southern Taiwan.
-
-Listen to typhoon alerts on the ICRT, BCC and PRS radio stations, and monitor the websites of the [Central Weather Administration](https://www.cwa.gov.tw/eng/) and the [Japan Meteorological Agency](http://www.jma.go.jp/en/typh/).
 
 ## Before you travel
 

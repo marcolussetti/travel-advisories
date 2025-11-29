@@ -1,11 +1,11 @@
 {
     "name": "Sri Lanka",
-    "update_reason": "Updated information about applying for a Sri Lanka \u2018Electronic Travel Authorisation\u2019(\u2018Entry requirements\u2019 page).",
+    "update_reason": "Information added about severe weather affecting Sri Lanka, and related travel disruption (\u2018Warnings and insurance\u2019 page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Sri Lanka/Warnings and insurance.md",
-            "update_date": "2025-11-05T15:45:21+00:00"
+            "update_date": "2025-11-28T07:18:55+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Sri Lanka/Getting help.md"
         }
     ],
-    "update_date": "2025-11-05T15:45:21+00:00"
+    "update_date": "2025-11-28T07:18:55+00:00"
 }
