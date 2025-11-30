@@ -1,11 +1,11 @@
 {
     "name": "Philippines",
-    "update_reason": "Addition of information on the risks from methanol poisoning ('Safety and security' page).",
+    "update_reason": "Addition of information about demonstrations across Metro Manila on 30 November ('Warnings and insurance' page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Philippines/Warnings and insurance.md",
-            "update_date": "2025-11-24T13:01:18+00:00"
+            "update_date": "2025-11-29T07:39:53+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Philippines/Getting help.md"
         }
     ],
-    "update_date": "2025-11-24T13:01:18+00:00"
+    "update_date": "2025-11-29T07:39:53+00:00"
 }

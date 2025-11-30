@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   25 November 2025
+:   30 November 2025
 
 Updated:
-:   24 November 2025
+:   29 November 2025
 
 Latest update:
-:   Addition of information on the risks from methanol poisoning ('Safety and security' page).
+:   Addition of information about demonstrations across Metro Manila on 30 November ('Warnings and insurance' page)
 
 ![](https://assets.publishing.service.gov.uk/media/616406778fa8f52980d9301c/FCDO__TA__033_-_Philippines_Travel_Advice_Ed2__WEB_.jpg)
 
@@ -34,7 +34,7 @@ Find out more about [why FCDO advises against travel](/foreign-travel-advice/
 
 ## Demonstrations
 
-From 16 to 18 November 2025, large-scale demonstrations are expected in several locations across Metro Manila, including:
+From 30 November 2025 large-scale demonstrations are expected in several locations across Metro Manila, including:
 
 * Luneta (Rizal Park)
 * People Power Monument, in Quezon City
