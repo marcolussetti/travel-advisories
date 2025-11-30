@@ -4,23 +4,13 @@
 
 ### Flooding and landslides
 
-Heavy rainfall has caused severe flooding and landslides across Sri Lanka, especially Uva and Central provinces. A high-risk flood warning has been issued for low-lying areas of Kelani River basin in Western province, including the capital Colombo.
+Heavy rainfall has caused severe flooding and landslides across Sri Lanka, especially Uva and Central provinces. The President of Sri Lanka has declared a State of Public Emergency for the entire country.
 
-Power and water supplies have been disrupted in several regions in Uva and Central provinces. Telecommunications are also severely affected in these provinces.
+Torrential rains have resulted in flash floods, significant damage to infrastructure and casualties. Power and water supplies have been disrupted in several regions in Uva and Central provinces. Telecommunications are also severely affected in these provinces. There have been long queues at gas stations and banks in the capital, Colombo, as well as localized shortages of fresh fruit and vegetables.
 
-Landslide warnings have been issued and evacuations are ongoing in the following districts:
+Roadways may be blocked by landslides or flood water. All trains and many international flights have been cancelled. Some flights have been rerouted. Contact your airline if your travel plans have been affected.
 
-* Badulla
-* Kandy
-* Kegalle
-* Kurunegala
-* Matale
-* Monaragala
-* Nuwara Eliya
-
-Torrential rains have resulted in flash floods, significant damage to infrastructure and casualties.
-
-Roadways may be blocked by landslides or flood water. All trains and many international flights have been cancelled. Some flights have been rerouted.
+The Government of Sri Lanka has put in place special measures for travellers who are unable to leave the country due to disruptions from the flooding, including exemptions from overstay fees and visa extensions. If you are in Sri Lanka on a tourist visa and you have been unable to leave, you should extend your visa through the Department of Immigration and Emigration’s online portal.
 
 If you are in an affected area:
 
@@ -28,6 +18,11 @@ If you are in an affected area:
 * monitor local news and weather reports
 * confirm your flight before going to the airport
 * follow the instructions of local authorities
+
+#### Useful links
+
+* [e-Visa extension](https://eservices.immigration.gov.lk/vs/login.php) – Department of Immigration of Emigration Sri Lanka
+* [Advisory on Waiver of Charge for Tourists Affected by Adverse Weather Conditions](https://mfa.gov.lk/en/wp-content/uploads/2025/11/Advisory-on-Waiver-of-Charges-for-Tourists-Affected-by-Adverse-Weather-Conditions.pdf) – Ministry of Ports and Civil Aviation Sri Lanka
 
 ### Climate change
 
