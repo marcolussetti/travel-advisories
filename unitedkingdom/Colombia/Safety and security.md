@@ -27,7 +27,7 @@ These groups may attack with little or no warning. The focus is predominantly in
 
 Police and military personnel and installations are frequently targeted, including in large cities.
 
-Past methods of attack have included car bombs, grenade attacks and explosive devices left in buildings and main roads and drones. Stay alert and follow the advice of the local security authorities.
+Past methods of attack have included car bombs, grenade and drone attacks, and explosive devices left in buildings and on main roads. Stay alert and follow the advice of the local security authorities.
 
 Regularly reassess your security arrangements and consider carefully any travel around the country.
 

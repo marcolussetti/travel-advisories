@@ -1,20 +1,24 @@
 # Warnings and insurance
 
 Still current at:
-:   2 August 2025
+:   1 December 2025
 
 Updated:
-:   1 August 2025
+:   30 November 2025
 
 Latest update:
-:   Removal of information on tsunami alert specific to the earthquake in the Kamchatka Peninsular Region (‘Warnings and insurance’ page).
+:   New information about risks from volcanic eruptions (‘Warnings and insurance’ page)
 
 ![](https://assets.publishing.service.gov.uk/media/67c05135b0bb6528ee866b96/FCDO_TA_054_-_Colombia_Travel_Advice_Ed3_WEB.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/67c0513672e83aab48866ba1/FCDO_TA_054_-_Colombia_Travel_Advice_Ed3.pdf)
+[Download a more detailed map (PDF, 1010 KB)](https://assets.publishing.service.gov.uk/media/67c0513672e83aab48866ba1/FCDO_TA_054_-_Colombia_Travel_Advice_Ed3.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
+
+## Puracé Volcano
+
+The Colombian authorities have issued an [orange alert](https://www2.sgc.gov.co/Noticias/Paginas/Boletin-extraordinario-Volcan-Purace-cadena-volcanica-Los-Coconucos-del-30-de-noviembre-de-2025.aspx) for Puracé volcano near Popayán. You should follow the advice of the local authorities which includes avoiding the volcano’s immediate perimeter and closely monitoring the situation.
 
 ## Areas where FCDO advises against all but essential travel
 

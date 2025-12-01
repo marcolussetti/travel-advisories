@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   19 November 2025
+:   1 December 2025
 
 Updated:
-:   18 November 2025
+:   30 November 2025
 
 Latest update:
-:   Addition of information on the risks from methanol poisoning ('Safety and security' page).
+:   Information on Cyclone Ditwah which is expected to reach coastal Tamil Nadu, including Chennai on 30 November and 1 December. (Safety and Security)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 

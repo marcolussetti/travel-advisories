@@ -1,11 +1,11 @@
 {
     "name": "India",
-    "update_reason": "Addition of information on the risks from methanol poisoning ('Safety and security' page).",
+    "update_reason": "Information on Cyclone Ditwah which is expected to reach coastal Tamil Nadu, including Chennai on 30 November and 1 December. (Safety and Security)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/India/Warnings and insurance.md",
-            "update_date": "2025-11-18T10:31:37+00:00"
+            "update_date": "2025-11-30T14:43:52+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/India/Getting help.md"
         }
     ],
-    "update_date": "2025-11-18T10:31:37+00:00"
+    "update_date": "2025-11-30T14:43:52+00:00"
 }

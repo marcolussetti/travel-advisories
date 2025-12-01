@@ -52,10 +52,6 @@ FCDO advises against all but essential travel to:
 
 If travelling to the tourist site of Caño Cristales, travel by air from the town of La Macarena with a reputable tour company.
 
-## Water rationing in Bogota
-
-Bogota’s Mayor announced plans for water rationing across the city. The rationing plan may affect residential properties, businesses and access to water in different areas of Bogota every 10 days. More information can be [found on the Bogota Mayor’s website](https://bogota.gov.co/mi-ciudad/habitat/consulta-el-turno-de-racionamiento-de-agua-en-bogota-para-tu-barrio) (in Spanish). FCDO encourages British Nationals to review and follow the rationing pattern for neighbourhoods, towns, or any areas that you will visit. Fines may be imposed for irresponsible actions that lead to water waste. For example, washing cars, vehicles, motorcycles, bicycles.
-
 ## Ciudad Perdida – ‘Lost City’
 
 If you travel to the ‘Lost City’ in the Sierra Nevada de Santa Marta, only do so as part of an organised tour.

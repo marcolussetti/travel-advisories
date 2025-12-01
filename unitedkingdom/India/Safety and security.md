@@ -260,11 +260,13 @@ The monsoon season in India usually runs from June to October. Monsoon rains can
 
 * flash flooding and landslides, which can often occur with limited warning, sometimes leading to significant loss of life and property, particularly in mountainous areas
 * towns and villages to be cut off
-* serious disruption to road and train travel
+* road closures affecting transport links
 * disruption in big cities due to flooding
 * disruption to services including telephone lines, internet services and electricity
 
 ### Cyclones and tropical storms
+
+Cyclone Ditwah is expected to bring extremely heavy rainfall to coastal Tamil Nadu, including Chennai on 30 November and 1 December. Please take necessary precautions to stay safe.
 
 Tropical cyclones are a risk in India, particularly in:
 
