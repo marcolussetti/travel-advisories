@@ -1,11 +1,11 @@
 {
     "name": "Sri Lanka",
-    "update_reason": "Information added about severe weather affecting Sri Lanka, and related travel disruption (\u2018Warnings and insurance\u2019 page)",
+    "update_reason": "Addition of information about Cyclone Ditwah ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Sri Lanka/Warnings and insurance.md",
-            "update_date": "2025-11-28T07:18:55+00:00"
+            "update_date": "2025-12-01T16:42:43+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Sri Lanka/Getting help.md"
         }
     ],
-    "update_date": "2025-11-28T07:18:55+00:00"
+    "update_date": "2025-12-01T16:42:43+00:00"
 }
