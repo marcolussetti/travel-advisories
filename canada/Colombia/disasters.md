@@ -2,6 +2,16 @@
 
 ## Natural disasters and climate
 
+### Puracé Volcano
+
+An orange alert has been issued for the Puracé volcano near Popayán due to a recent increase in volcanic activity.
+
+* Do not approach the volcano
+* Monitor the situation through official bulletins
+* Follow the instructions of local authorities
+
+[Latest information](https://www2.sgc.gov.co/Noticias/Paginas/Historico-de-noticias.aspx) – Colombian Geological Service (in Spanish only)
+
 Colombia is subject to various natural disasters such as:
 
 * droughts

@@ -48,9 +48,7 @@ Student visa: required
 
 Tourist and business visas allow entry to Cambodia for 30 days only, counting from the date of entry.
 
-Travellers must pay a fee in cash of US$30 for tourist visas or US$35 for business visas and provide two passport-sized photos. The photos can be purchased at the airport for US$3 each.
-
-Make sure Cambodian officials stamp your passport when you arrive. Keep your immigration card intact in your passport or put it in a safe place. You will have to contact Cambodian immigration officials if you lose your immigration card before you can leave the country.
+Make sure Cambodian officials stamp your passport when you arrive. Keep your visa, entry information and QR-code visa sticker with you at all times.
 
 #### E-visa
 
@@ -58,25 +56,17 @@ You can request a single-entry tourist visa online through Cambodia's e-Visa ser
 
 [Apply for an e-visa](https://www.evisa.gov.kh/) – Cambodian Ministry of Foreign Affairs and International Cooperation
 
+#### Visa on arrival
+
+You can get a tourist or business visa on arrival at international airports and major land border crossings. Photos are not required when applying for a visa on arrival. You can use card payment for visa fees but you may need cash if electronic systems are unavailable.
+
 #### Visa expiry date
 
 When issued outside Cambodia, visas have an expiry date, which refers to the date by which the visa must be used, not the length of time allowed in the country. Visas must be renewed for stays over 30 days and may only be extended once.
 
-#### Where to get a visa
-
-Tourist and business visas can be obtained at:
-
-* a Cambodian embassy abroad
-* upon arrival at the airports in Phnom Penh and Siem Reap
-* certain land borders as e-visas
-
-For more information, contact the nearest Cambodian embassy or consulate.
-
 ### Other entry requirements
 
-The trial period for the Cambodia e-Arrival application (CeA) will end on August 31, 2024. As of September 1, 2024, the electronic form in the app will replace the standard immigration, customs and health forms.
-
-You will have to complete your e-Arrival forms (immigration, customs and health) within 7 days of your scheduled arrival.
+You must complete a Cambodia e-Arrival forms (immigration, customs and health) within 7 days of your scheduled arrival.
 
 [Cambodia e-Arrival](https://arrival.gov.kh/) (CeA) application – Government of Cambodia
 
