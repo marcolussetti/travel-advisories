@@ -48,6 +48,6 @@ Visitors should check their insurance policy to see if it covers the following:
 * Cancellation and curtailment.
 * Any extra activities you intend to do that are excluded from standard policies (e.g. water sport activities such as jet skiing or other extreme sports).
 
-### **Water**
+### **Food and Water**
 
-There have been water-quality issues in Türkiye and visitors are advised to use bottled water whenever possible.
+Visitors are advised to take simple precautions, including drinking and using bottled water whenever possible; and avoiding uncooked and undercooked food, especially from street vendors.

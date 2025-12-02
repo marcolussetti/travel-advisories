@@ -6,7 +6,7 @@ High Degree of Caution
 
 ### **General Travel Advice**
 
-Hurricane Melissa brought strong winds and high levels of rainfall to Jamaica on 28 October, causing widespread damage to infrastructure and disruption to electricity and utilities services. Communication, power and water supplies may be disrupted. Continue to follow local advice and monitor local weather updates.
+Hurricane Melissa hit Jamaica on the 28 October, causing widespread damage to infrastructure and disruption to utilities services, including internet and mobile phone signal. There are currently shortages of food and water. Access to healthcare and currency in certain areas is limited.
 
 Irish citizens do not need a visa to enter Jamaica for 90 days or less as tourists. More information is available [**here**](https://www.pica.gov.jm/immigration/entry-visa-requirements).
 

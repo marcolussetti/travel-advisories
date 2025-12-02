@@ -4,16 +4,6 @@
 
 Normal Precautions
 
-### **Travel Alert**
-
-#### **Santorini (Thira), Amorgos, Anafi and los**
-
-Following seismic activity in this part of Greece, the authorities have put in place a series of safety measures on Santorini until November, including at the Old Port of Fira, the eastern part of the settlement of Armeni Oia and the Ammoudi Settlement.
-
-Please follow the advice and instruction of local authorities if you are in this region.
-
-Information and instructions on staying safe during an earthquake are available on the website of the [**Greek Ministry of Climate Crisis and Civil Protection**](http://www.civilprotection.gov.gr). Maps detailing nearby evacuation points are available at [**mySafetyPlan**](https://mysafetyplan.gov.gr/)**.** If you are in immediate need of assistance, please call 112.
-
 ### **General Travel Advice**
 
 Irish citizens need a valid passport or passport card to enter Greece.
