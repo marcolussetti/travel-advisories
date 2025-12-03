@@ -1,7 +1,7 @@
 {
     "name": "Kenya",
-    "update_reason": "Safety and security \u2013 added information on by-elections",
-    "update_date": "2025-11-26T10:35:00",
+    "update_reason": "Safety and security \u2013 removed information on by-elections",
+    "update_date": "2025-12-02T13:53:00",
     "sections": {
         "risk": "canada/Kenya/risk.md",
         "security": "canada/Kenya/security.md",

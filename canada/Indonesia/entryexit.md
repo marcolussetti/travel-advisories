@@ -72,6 +72,12 @@ If you are travelling to Indonesia for business or social-cultural purposes (e.g
 
 A business or social-cultural single-entry visa is extendable from within Indonesia.
 
+#### Seamless Corridor Registration
+
+Indonesian airports are introducing “Seamless Corridors” to speed up immigration clearance. This service requires your biometric data as well as your passport and flight information. Once you’re enrolled, you can use the designated lanes without presenting your passport or boarding pass.
+
+[Seamless Corridor program](https://www.imigrasi.go.id/) – Indonesian Immigration Authorities
+
 #### Aid workers
 
 Aid workers must have a sponsor in Indonesia to obtain a visa. Those going to Aceh also require prior authorization from the Directorate General of Immigration in Aceh or Jakarta.

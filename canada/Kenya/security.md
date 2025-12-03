@@ -2,16 +2,6 @@
 
 ## Safety and security
 
-### Elections
-
-By-elections are scheduled to take place on November 27, in 24 constituencies across Kenya. Demonstrations could occur before, during and after elections.
-
-* Avoid demonstrations and large gatherings
-* Follow the instructions of local authorities
-* Monitor local media for the latest information
-
-[More information on demonstrations](#demonstrations)
-
 ### Terrorism
 
 There is a threat of terrorism throughout Kenya, including in Nairobi.

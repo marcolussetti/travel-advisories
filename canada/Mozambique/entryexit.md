@@ -42,45 +42,53 @@ Different entry rules may apply when travelling with a temporary passport or an 
 
 ### Visas
 
-Tourist visa: not required for stays up to 30 days (may be extended)  
-Business visa: not required for stays up to 30 days (may be extended)  
-Work visa: required  
-Student visa: required  
-Residency visa: required
+Tourist visa: not required for stays up to 30 days  
+ Business visa: not required for stays up to 30 days  
+Visitor visa: required when visiting by way of private invitation (from an individual or organization)  
+ Work visa: required  
+ Student visa: required  
+ Residency visa: required
 
-You can apply for a visa at the nearest embassy or consulate of Mozambique.
+You can apply for a visa at the nearest Mozambican embassy or consulate or obtain an e-visa pre-authorization through Mozambique’s official e-visa portal.
 
 #### Tourist and business visa exemption
 
-Canadian tourists and business travellers may be exempt from applying for a visa under certain conditions. The requirement for visa-exempt travellers to apply for an Electronic Travel Authorization (ETA) is currently suspended.
+You may enter Mozambique for tourism or business without a visa for up to 30 days; however, you must present the following upon arrival:
 
-Trips of more than 30 days require an extension of stay from immigration authorities. Administrative fees may apply. If your passport has less than 6 months validity, Mozambican authorities may refuse to extend your visa exemption.
-
-Upon arrival, you must provide:
-
+* an Electronic Travel Authorization (ETA) obtained at least 48 hours before departure
 * a return or onward ticket (except for travel by land)
-* a passport valid for at least 6 months beyond the date you expect to leave Mozambique
-* a payment of 650 Mozambican meticals or equivalent in accepted currencies, paid by card or cash
+* a passport valid for at least 6 months beyond the expected departure date, with at least 2 blank pages
+* a payment of the fee paid by card or cash
 * proof of accommodation
+
+Keep the receipt provided upon arrival as part of the visa exemption policy.
+
+If you encounter a technical issue with the ETA and e-visa portal, keep proof of the error and contact the nearest embassy or consulate of Mozambique for guidance.
+
+#### Extending your visa
+
+You may request one extension of 30 days from immigration authorities. Visa-free travel only applies to stays of up to 90 days in a year. Justification for the extended stay may be required, and fees may apply. If your passport has less than 6 months validity, Mozambican authorities may refuse to extend your visa exemption.
+
+Overstaying without authorization may result in fines.
 
 #### Visa pre-authorizations
 
-If you’re not eligible for the visa exemption, you can apply for an e-visa pre-authorization for certain types of visas through the Government of Mozambique’s e-visa portal.
+If you’re not eligible for the visa exemption, you can apply for an e-visa pre-authorization through the Government of Mozambique’s e-visa and ETA portal.
 
-Visa pre-authorizations are only available for the following types of visas:
+Visa pre-authorizations are only available for:
 
-* crew member travel
-* humanitarian assistance efforts
-* sports and cultural activity participation
-* border and investment.
+* crew members
+* humanitarian workers
+* sports and cultural activity participants
+* eligible investors
 
-Visa pre-authorizations are not guaranteed visas. Upon arrival to Mozambique, you must submit all required documents to immigration authorities for a final decision.
+Visa pre-authorizations are not guaranteed visas. You must submit all required documents to immigration authorities for a final decision.
 
-You can pay the fees on arrival with a credit card or local currency.
+Visa fees can be paid on arrival by credit card or in accepted currencies.
 
-[E-visa portal](https://evisa.gov.mz/) – Government of Mozambique
+[E-visa and ETA portal](https://evisa.gov.mz/) – Government of Mozambique
 
-### Other entry requirements
+#### Other entry requirements
 
 Customs officials may ask you to show them a return or onward ticket and proof of accommodation.
 

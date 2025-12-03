@@ -1,7 +1,7 @@
 {
     "name": "Mozambique",
-    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
-    "update_date": "2025-11-21T13:29:00",
+    "update_reason": "Entry and exit requirements \u2013 updated information on visas and electronic travel authorization",
+    "update_date": "2025-12-02T16:20:00",
     "sections": {
         "risk": "canada/Mozambique/risk.md",
         "security": "canada/Mozambique/security.md",
