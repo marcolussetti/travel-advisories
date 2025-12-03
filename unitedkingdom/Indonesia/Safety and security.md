@@ -144,6 +144,10 @@ In Aceh, the consumption, production and distribution of alcohol are all illegal
 
 Same-sex sexual activity is illegal in the province of Aceh under Sharia law. Punishment following a Sharia court process includes public caning, a prison sentence or a fine payable in gold.
 
+Across Indonesia, there have been reports of police arresting individuals at LGBT+ events. Some laws and regulations, including those related to pornography and prostitution, have been applied in a way that discriminates against the LGBT+ community.
+
+You should exercise caution and discretion, particularly in public spaces.
+
 Read more [advice for LGBT+ travellers](https://www.gov.uk/lesbian-gay-bisexual-and-transgender-foreign-travel-advice).
 
 ### Gambling

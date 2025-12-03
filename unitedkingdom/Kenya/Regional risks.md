@@ -38,7 +38,7 @@ Rural areas, particularly in the north and north-east of Kenya, occasionally exp
 
 ### Turkana, West Pokot, Elgeyo-Marakwet, Baringo, Laikipia and Samburu counties
 
-The Kenyan government has imposed a dusk-to-dawn curfew in parts of Turkana, West Pokot, Elgeyo-Marakwet, Baringo, Laikipia and Samburu counties. Follow local security measures and use caution.
+Security operations continue in parts of these counties due to banditry and intercommunal violence. While previous dusk-to-dawn curfews have largely been lifted, movement restrictions may still be introduced during security operations, particularly in hotspots such as the Turkana–West Pokot border, Kerio Valley (Elgeyo-Marakwet) and remote areas of Laikipia, Samburu, and Baringo. Follow local security measures and use caution.
 
 ## Kenya-Ethiopia border
 
@@ -46,7 +46,7 @@ There have been attacks using landmines around Moyale, close to the main A2 road
 
 ## Mount Elgon
 
-There is a large security presence in Mount Elgon because of armed clashes. Further incidents are possible. Seek local advice before you set off.
+There is a significant security presence in Mount Elgon because of armed clashes. Further incidents are possible. Seek local advice before you set off.
 
 [Previous
 :

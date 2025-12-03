@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   8 November 2025
+:   3 December 2025
 
 Updated:
-:   7 November 2025
+:   2 December 2025
 
 Latest update:
-:   Updated with information following an explosion at a school in North Jakarta (‘Warnings and insurance’ page).
+:   Updated information for those travelling to LGBT+ events (‘Safety and security’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/6745db6083f3d6d843be9719/FCDO__TA__020_-_Indonesia_Travel_Advice_Ed9__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/6745db60bdeffdc82cffe17c/FCDO__TA__020_-_Indonesia_Travel_Advice_Ed9.pdf)
+[Download a more detailed map (PDF, 2.02 MB)](https://assets.publishing.service.gov.uk/media/6745db60bdeffdc82cffe17c/FCDO__TA__020_-_Indonesia_Travel_Advice_Ed9.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth and Development Office (FCDO).
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   30 November 2025
+:   3 December 2025
 
 Updated:
-:   29 November 2025
+:   2 December 2025
 
 Latest update:
-:   Addition of information about demonstrations across Metro Manila on 30 November ('Warnings and insurance' page)
+:   Updated information about demonstrations across Metro Manila ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/616406778fa8f52980d9301c/FCDO__TA__033_-_Philippines_Travel_Advice_Ed2__WEB_.jpg)
 
@@ -32,22 +32,17 @@ This advice is due to terrorist activity and clashes between the military and in
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/philippines/safety-and-security#terrorism).
 
+## Tropical storm season
+
+Around 20 typhoons hit the Philippines each year. While most typhoons happen between June and November, storms can hit outside of this timeframe. Follow the advice of local authorities, and monitor the progress of storms on the [Philippines state weather agency](http://www.pagasa.dost.gov.ph/) and the [Philippines Disaster Risk Reduction and Management Council](http://www.ndrrmc.gov.ph/index.php). You can find updates on [typhoon2000.ph](http://www.typhoon2000.ph/), or follow [@Typhoon2k](https://twitter.com/Typhoon2k) on X.
+
 ## Demonstrations
 
-From 30 November 2025 large-scale demonstrations are expected in several locations across Metro Manila, including:
-
-* Luneta (Rizal Park)
-* People Power Monument, in Quezon City
-
-Hundreds of thousands of people are expected to participate, and the security situation could deteriorate without notice.
+Large-scale demonstrations are expected over the coming weeks in Metro Manila and elsewhere in the Philippines.
 
 Avoid all demonstrations and large gatherings and follow the advice of local authorities. Demonstrations may lead to travel disruption. You should allow extra time for journeys and monitor local media for updates.
 
 See [Safety and security](https://www.gov.uk/foreign-travel-advice/philippines/safety-and-security) for more information on demonstrations and rallies in the Philippines.
-
-## Tropical storm season
-
-Around 20 typhoons hit the Philippines each year. Most typhoons happen between June and November. Follow the advice of local authorities, and monitor the progress of storms on the [Philippines state weather agency](http://www.pagasa.dost.gov.ph/) and the [Philippines Disaster Risk Reduction and Management Council](http://www.ndrrmc.gov.ph/index.php). You can find updates on [typhoon2000.ph](http://www.typhoon2000.ph/), or follow [@Typhoon2k](https://twitter.com/Typhoon2k) on X.
 
 ## Before you travel
 

@@ -1,32 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   13 November 2025
+:   3 December 2025
 
 Updated:
-:   12 November 2025
+:   2 December 2025
 
 Latest update:
-:   Update about Presidential and Parliamentary elections in Uganda in January (See 'Political situation' on the 'Safety and security' page).
-
-![](https://assets.publishing.service.gov.uk/media/667bf1c07d26b2be17a4b36d/FCDO__TA__066_-_Uganda_Travel_Advice_Ed8__WEB_.jpg)
-
-
-[Download a more detailed map (PDF, 644 KB)](https://assets.publishing.service.gov.uk/media/667bf1c15b0d63b556a4b38b/FCDO__TA__066_-_Uganda_Travel_Advice_Ed8.pdf)
-
-Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
-
-## Areas where FCDO advises against all but essential travel
-
-### Parts of western Uganda
-
-FCDO advises against all but essential travel to:
-
-* Queen Elizabeth National Park
-* the area immediately south-west of Kasese town – from the border with the Democratic Republic of the Congo (DRC) at Kyabikere extending eastwards up to and including the A109 road and southwards to Queen Elizabeth National Park
-* Semuliki National Park
-
-Find out more about [why FCDO advises against travel](/foreign-travel-advice/uganda/regional-risks).
+:   FCDO no longer advise against all but essential travel to Queen Elizabeth National Park, the area immediately south-west of Kasese town, or to Semuliki National Park (‘Regional risks’ page).
 
 ## Attacks in Western Uganda
 

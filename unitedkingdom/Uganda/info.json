@@ -1,11 +1,11 @@
 {
     "name": "Uganda",
-    "update_reason": "Update about Presidential and Parliamentary elections in Uganda in January (See 'Political situation' on the 'Safety and security' page).",
+    "update_reason": "FCDO no longer advise against all but essential travel to Queen Elizabeth National Park, the area immediately south-west of Kasese town, or to Semuliki National Park (\u2018Regional risks\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Uganda/Warnings and insurance.md",
-            "update_date": "2025-11-12T16:30:49+00:00"
+            "update_date": "2025-12-02T14:21:58+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Uganda/Getting help.md"
         }
     ],
-    "update_date": "2025-11-12T16:30:49+00:00"
+    "update_date": "2025-12-02T14:21:58+00:00"
 }

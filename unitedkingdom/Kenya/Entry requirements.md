@@ -4,12 +4,6 @@ This information is for people travelling on a full [‘British citizen’ passp
 
 The authorities in Kenya set and enforce entry rules. If you’re not sure how these requirements apply to you, contact the [Kenyan High Commission in the UK](https://www.kenyahighcom.org.uk/).
 
-## COVID-19 rules
-
-You do not need a negative COVID-19 test or proof of vaccination to enter Kenya.
-
-If you have flu-like symptoms when you arrive, you must take one or more COVID-19 tests at your own expense. If tests show you have COVID-19, you must isolate. For more information see [COVID-19 travel requirements from the Kenya Civil Aviation Authority](https://www.kcaa.or.ke/travel-to-kenya/covid-19/covid-19-travel-requirements).
-
 ## Passport validity requirements
 
 To enter Kenya, your passport must have an ‘expiry date’ at least 6 months after the date you arrive and at least 2 blank pages.

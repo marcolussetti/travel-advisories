@@ -14,12 +14,6 @@ In June 2025, two security operations took place in Kampala. On 3 June, there wa
 
 ### Western Uganda
 
-FCDO advises against all but essential travel to:
-
-* Queen Elizabeth National Park
-* the area immediately south-west of Kasese town – from the border with the Democratic Republic of the Congo (DRC) at Kyabikere extending eastwards up to and including the A109 road and southwards to Queen Elizabeth National Park
-* Semuliki National Park
-
 The Allied Democratic Forces (ADF), a militant group with links to Daesh, may target tourists and foreign nationals near the border between Uganda and the Democratic Republic of the Congo (DRC). There have been several terrorist attacks in western Uganda, especially around the Bwera border crossing. See [Terrorism](/foreign-travel-advice/uganda/safety-and-security#terrorism).
 
 Uganda and the DRC conduct joint military action against the ADF near parts of the Ugandan border, in North Kivu and Ituri provinces of eastern DRC. Ugandan troops are present on both sides of the border as part of the operations.

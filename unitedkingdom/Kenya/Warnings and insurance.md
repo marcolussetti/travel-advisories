@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   25 November 2025
+:   3 December 2025
 
 Updated:
-:   24 November 2025
+:   2 December 2025
 
 Latest update:
-:   New information on potential for protests around by-elections on 27 November ( 'Warnings and insurance' page).
+:   Updated information about regional risks in Turkana, West Pokot, Elgeyo-Marakwet, Baringo, Laikipia and Samburu counties (‘Regional risks’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/68cbf893b6d7ea468dbea672/FCDO__TA__055_-_Kenya_Travel_Advice_Ed6__WEB_.jpg)
 
@@ -35,10 +35,6 @@ FCDO advises against all but essential travel to:
 * within 15km of the east coast between the Tana River and the Galana (Athi-Galana-Sabaki) River
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/kenya/regional-risks).
-
-## Elections in Kenya
-
-Kenya will hold by-elections in 24 constituencies across the country on 27 November. Protests and demonstrations are possible. Stay away from political rallies and related activities. See ‘political situation’ section on the  [‘Safety and security’](https://www.gov.uk/foreign-travel-advice/kenya/safety-and-security)  page.
 
 ## Before you travel
 
