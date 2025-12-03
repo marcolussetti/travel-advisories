@@ -2,11 +2,11 @@
 
 ### **Security Status**
 
-Do Not Travel
+**Avoid Non-Essential Travel**
 
 ### Travel Alert
 
-**The Department of Foreign Affairs and Trade advises against all travel to Guinea-Bissau at this time due to political instability. On 26 November a faction of the army seized power and announced the closure of the land, sea and air borders until further notice.**
+**The Department of Foreign Affairs and Trade advises against non-essential travel to Guinea-Bissau at this time due to political instability. On 26 November a faction of the army seized power and announced the closure of the land, sea and air borders until further notice.**
 
 ### **General Travel Advice**
 
