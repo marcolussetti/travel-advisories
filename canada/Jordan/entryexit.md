@@ -42,28 +42,17 @@ Different entry rules may apply when travelling with a temporary passport or an 
 
 ### Visas
 
-Tourist visa: required, and valid for 30 days.
+Tourist visa: required, and valid for 30 days  
+Transit visa: required, and valid for 3 days  
+Visitor visa: required  
+Work visa: required  
+Student visa: required
 
-You may obtain a visa upon arrival if you travel by air or enter Jordan at the following border crossings:
+You can apply for a tourist visa in advance through the Ministry of Tourism and Antiquities or a travel company. These visas are often linked to the Jordan Pass for tourists.
 
-* Sheikh Hussein Bridge
-* Wadi Araba (Aqaba)
+You can obtain a visitor or transit visa upon arrival.
 
-You need to obtain a visa online or from a Jordanian diplomatic mission prior to travelling if you’re planning on entering Jordan at the King Hussein Bridge (Allenby) border crossing.
-
-You can extend the validity of a visitor visa at any police station.
-
-If you overstay your visa, you’ll be fined when leaving the country.
-
-#### Business visa
-
-First, you need a tourism visa to enter. Then, you must obtain a residency permit from Jordan’s Ministry of Interior upon arrival.
-
-#### Residency Permit
-
-You must obtain a tourist visa to enter Jordan. Once in Jordan, you may apply for a residency permit from the Ministry of Interior.
-
-Jordan only issues visas at:
+Jordan only issues visas on arrival at:
 
 * international airports
 * the Sheikh Hussein Bridge border crossing
@@ -71,10 +60,36 @@ Jordan only issues visas at:
 
 Jordan doesn’t issue visas at the King Hussein Bridge (Allenby) border crossing between Jordan and the West Bank.
 
-**Useful links**
+You need to obtain a visa online or from a Jordanian diplomatic mission prior to travelling if you’re planning on entering Jordan at the King Hussein Bridge (Allenby) border crossing.
 
-* [Jordanian Pass](https://jordanpass.jo/Default.aspx) - Ministry of Tourism and Antiquities
-* [Ministry of Interior](http://www.jordan.gov.jo/wps/portal/!ut/p/b1/04_SjzQ1MrY0szA2NNWP0I_KSyzLTE8syczPS8wB8aPM4sMsvS3CvN0NDdzDDAwMPJ2C_SzNQt2N_J3N9YNT8_RzoxwVAeilW38!/?lang=en&title=Visitors&category=Accommodation%20in%20Jordan) - Jordanian e-government site
+You can extend the validity of your visa at any police station. For student and work visas, different procedures may apply.
+
+If you overstay your visa, you’ll be fined when leaving the country.
+
+#### Residency and registration
+
+If you plan to stay in Jordan for more than 14 days, including if you’re travelling on a visitor visa, you must file a formal registration request.
+
+Requests can be submitted to the Public Security Directorate, one of its branches or a local police station within 14 days of the date you enter Jordan. Any police station can provide information on the required documents.
+
+This requirement does not apply to:
+
+* tourist visa holders, during the first 30 days
+* transit visa holders
+* Hajj visa holders
+
+If you’re travelling on a tourist, transit or Hajj visa and would like to stay longer than the permitted duration, you must, before the end of this period:
+
+* submit an extension request
+* register if travelling on a tourist visa
+* register if travelling on a transit or Hajj visa and staying more than 14 days in total
+
+If you fail to register, you will be fined upon departure.
+
+#### Useful links
+
+* [Jordan Pass](https://jordanpass.jo/Default.aspx) – Ministry of Tourism and Antiquities
+* [Visa E Applications](https://moi.gov.jo/EN/Pages/Visa_E_Applications) – Ministry of Interior
 
 ### Health entry requirements
 
@@ -85,10 +100,6 @@ You must take a medical exam to obtain a residency permit, including mandatory t
 Canadians who were previously in Jordan under a Refugee Status Determination process may be subject to different entry requirements and should contact the nearest Jordanian Embassy before travel.
 
 [Foreign Representatives in Canada](https://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng)
-
-### Registration
-
-Register with the police for stays of more than 2 weeks.
 
 ### Travelling to neighbouring countries
 
