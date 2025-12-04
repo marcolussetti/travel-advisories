@@ -2,13 +2,13 @@
 
 ### **Security Status**
 
-Do Not Travel, with the exception of East Jerusalem, where we advise Avoid Non-Essential Travel.
+Do Not Travel, with the exception of East Jerusalem, Bethlehem and Ramallah, where we advise Avoid Non-Essential Travel.
 
 ### **Travel Alert**
 
 **The Department of Foreign Affairs and Trade strongly advises against all travel to the Gaza Strip, and to all border areas between the Gaza Strip and Israel.**
 
-We advise against travel to the West Bank, with the exception of East Jerusalem, where we advise against non-essential travel. Israeli security operations continue across the West Bank, along with a high incidence of settler violence, in particular during the olive harvest season in October and November. We strongly advise against all travel to the northern governorates of the West Bank; Jenin, Tulkarem and Tubas.
+We advise against travel to the West Bank, with the exception of East Jerusalem, Bethlehem and Ramallah, where we advise against non-essential travel. Israeli security operations continue across the West Bank, along with a high incidence of settler violence, in particular during the olive harvest season in October and November. We strongly advise against all travel to the northern governorates of the West Bank; Jenin, Tulkarem and Tubas.
 
 The security situation remains tense and unpredictable, with the potential for intense escalation. Please continue to exercise caution, monitor local media regularly, follow the advice of local authorities, and observe any additional security measures imposed.
 

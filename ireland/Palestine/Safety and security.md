@@ -1,6 +1,6 @@
 ## Safety and security
 
-The Department of Foreign Affairs advises against travel to Palestine (with the exception of East Jerusalem). The specific advice below may be relevant to citizens already present in the country.
+The Department of Foreign Affairs advises against travel to Palestine (with the exception of East Jerusalem, Bethlehem and Ramallah). The specific advice below may be relevant to citizens already present in the country.
 
 Please note that local laws apply to visitors and it is the traveller’s responsibility to follow them. Be sensitive to local customs, traditions and practices as your behaviour may be seen as improper, hostile or may even be illegal.
 
