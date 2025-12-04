@@ -71,7 +71,7 @@ You may need to register your stay depending on the type of visa you hold, check
 
 ## Exit requirements
 
-When you leave India, officials will check when you entered the country. If you do not have an entry stamp, for example if you have a newly issued passport or an emergency travel document, you must [apply for a special exit visa before you travel](https://boi.gov.in/boi/public/content/pages/c1c55e3a-0317-478e-8591-b1c8effc5fab). You must apply online from India and it can take between 5 and 15 working days for straightforward applications. Factor this into your timeframe to leave India when you are booking flights.
+When you leave India, officials will check when you entered the country. If you do not have an entry stamp, for example if you have a newly issued passport or an emergency travel document, you must [apply for a special exit permit before you travel](https://boi.gov.in/boi/public/content/pages/c1c55e3a-0317-478e-8591-b1c8effc5fab). If you need to apply for an exit permit, you can only apply on the [Foreigners Regional Registration Office](https://indianfrro.gov.in/) from within India. It can take between 5 and 15 working days for straightforward applications. Factor this into your timeframe to leave India when you are booking flights.
 
 ## Vaccine requirements
 

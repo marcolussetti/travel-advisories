@@ -10,6 +10,10 @@ UK Counter Terrorism Policing has information and advice on [staying safe abroad
 
 Although there’s no recent history of terrorism in Taiwan, attacks cannot be ruled out.
 
+## Crisis preparedness
+
+The Taiwanese authorities have provided [practical guidance and information](https://prepare.mnd.gov.tw/) (in Chinese), including a booklet, on disaster preparedness and responding to various crises.
+
 ## Laws and cultural differences
 
 ### Personal ID

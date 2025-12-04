@@ -1,11 +1,11 @@
 {
     "name": "Taiwan",
-    "update_reason": "Removal of information about Typhoon Fung-Wong.",
+    "update_reason": "Addition of information on advice from the Taiwanese authorities on crisis preparedness ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Taiwan/Warnings and insurance.md",
-            "update_date": "2025-11-28T10:37:52+00:00"
+            "update_date": "2025-12-03T16:24:09+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Taiwan/Getting help.md"
         }
     ],
-    "update_date": "2025-11-28T10:37:52+00:00"
+    "update_date": "2025-12-03T16:24:09+00:00"
 }

@@ -1,11 +1,11 @@
 {
     "name": "Fiji",
-    "update_reason": "Removal of information on tsunami alert specific to the Earthquake in the Kamchatka Peninsular Region  (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "New information about health risks in Fiji (\u2018Health\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Fiji/Warnings and insurance.md",
-            "update_date": "2025-08-01T13:12:49+01:00"
+            "update_date": "2025-12-03T16:17:54+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Fiji/Getting help.md"
         }
     ],
-    "update_date": "2025-08-01T13:12:49+01:00"
+    "update_date": "2025-12-03T16:17:54+00:00"
 }

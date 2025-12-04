@@ -25,6 +25,7 @@ See [what health risks you’ll face in Fiji](https://travelhealthpro.org.uk/cou
 * dengue
 * Zika virus
 * chikungunya
+* HIV/AIDS, and other sexually transmitted infections. For more information, see [TravelHealthPro](https://travelhealthpro.org.uk/country/79/fiji#Outbreaks)
 
 ## Medication
 

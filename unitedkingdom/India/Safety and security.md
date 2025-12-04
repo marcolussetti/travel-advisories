@@ -266,8 +266,6 @@ The monsoon season in India usually runs from June to October. Monsoon rains can
 
 ### Cyclones and tropical storms
 
-Cyclone Ditwah is expected to bring extremely heavy rainfall to coastal Tamil Nadu, including Chennai on 30 November and 1 December. Please take necessary precautions to stay safe.
-
 Tropical cyclones are a risk in India, particularly in:
 
 * the east coast of India, from September to December

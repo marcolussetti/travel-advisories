@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   2 August 2025
+:   4 December 2025
 
 Updated:
-:   1 August 2025
+:   3 December 2025
 
 Latest update:
-:   Removal of information on tsunami alert specific to the Earthquake in the Kamchatka Peninsular Region (‘Warnings and insurance’ page).
+:   New information about health risks in Fiji (‘Health’ page).
 
 ## Before you travel
 

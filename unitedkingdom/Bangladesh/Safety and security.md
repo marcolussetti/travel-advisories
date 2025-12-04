@@ -12,35 +12,39 @@ UK Counter Terrorism Policing has information and advice on [staying safe abroad
 
 Terrorists are likely to try to carry out attacks in Bangladesh.
 
-Terrorist attacks could be indiscriminate, including in places visited by foreign nationals, such as:
+Terrorists are likely to try to carry out attacks. These attacks could be indiscriminate, including in places visited by foreign nationals, such as:
 
+* public buildings, including restaurants and cafés
+* public transport
 * crowded areas
 * religious buildings
 * political rallies
 
-Some groups have targeted people who they consider to have views and lifestyles contrary to Islam.
+Some groups have targeted people who they consider to have views and lifestyles contrary to Islam, including religious minorities.
 
-There have been occasional attacks against minority religious communities and targeting police and security forces. These have included improvised explosive device (IED) attacks in major cities.
+Islamist extremist groups operate in Bangladesh.
 
-The Bangladeshi authorities continue to work to disrupt planned attacks. Increases in security force presence and restrictions on movement may be put in place at short notice.
+The Bangladeshi authorities continue to disrupt planned attacks. Increases in security force presence and restrictions on movement may be put in place at short notice.
 
-You should remain aware of your surroundings, particularly in and around police buildings. Avoid large gatherings and other locations with a police or security presence. Follow the advice of local authorities.
+Remain aware of your surroundings. Avoid large gatherings and other locations with a police or security presence. Follow the advice of local authorities.
 
 ## Political situation
 
-In July and August 2024, there has been widespread violence across Bangladesh, resulting in deaths and injuries.
+In July and August 2024, a popular uprising led to widespread violence across Bangladesh, with many deaths and injuries.
 
-The situation remains volatile. Political rallies and demonstrations continue to take place. These can quickly turn violent leading to clashes with law enforcement. During demonstrations and strikes (‘hartals’), there can be arson, violence and vandalism in towns and cities across the country, which can result in fatalities. Attacks against property and public transport are possible.
+Bangladesh’s interim government has announced that it will hold elections in the first half of February 2026. The situation remains volatile. Political rallies and demonstrations are taking place. These can quickly turn violent leading to clashes. During demonstrations and strikes (‘hartals’), there can be arson, violence and vandalism in towns and cities across the country, which can result in fatalities.
 
-Be alert to quickly changing situations on the streets. If you see a demonstration starting, move to a place of safety. Follow the advice of local authorities. Follow updates in local media and [get email notifications](https://www.gov.uk/foreign-travel-advice/bangladesh/email-signup) when this travel advice is updated.
+There have been occasional attacks against minority religious communities.
 
-### Police stations
+There have also been attacks targeting the police and security forces. These have included improvised explosive device (IED) attacks in major cities.
 
-The recent unrest has had an impact on policing. There has been significant damage to some police stations across the country. Most have re-opened, although not all police officers have returned to duty.
+Be alert to quickly changing situations on the streets. Stay away from protests or demonstrations, rallies and large gatherings. If you see a demonstration starting, move to a place of safety. Follow the advice of local authorities. Follow updates in local media and [get email notifications](https://www.gov.uk/foreign-travel-advice/bangladesh/email-signup) when this travel advice is updated.
 
 ## Crime
 
 ### Robbery and violence
+
+There are reports of an increase in violent crime since the popular uprising in Bangladesh in July and August 2024.
 
 Criminal gangs operate in Dhaka and other cities. Thieves often work in pairs on motorcycles or motorised rickshaws known as ‘CNGs’.
 
@@ -50,13 +54,21 @@ Passengers using rickshaws, taxis, buses or trains are vulnerable to violent cri
 
 ### Protecting yourself and your belongings
 
-Beware of pickpockets and bag-snatchers. When walking in public, do not use a mobile phone. Avoid carrying or showing large amounts of money, or wearing expensive-looking jewellery or watches.
+Be alert when using and carrying your phone in public and crowded spaces. To reduce your risk, do not carry large quantities of money or wear expensive-looking jewellery or watches.
+
+### Sexual assault
+
+There is a risk of sexual assault, including attacks on female foreign national visitors.
+
+Female travellers often experience verbal and physical harassment by individuals or groups of men. Avoid isolated areas when alone at any time of day. Be vigilant, particularly at night.
+
+See [advice for women travelling abroad](https://www.gov.uk/guidance/advice-for-women-travelling-abroad).
 
 ### Methanol poisoning
 
 There have been deaths and cases of serious illness caused by alcoholic drinks containing methanol in Bangladesh.
 
-Alcohol is strictly regulated in Bangladesh. Non-Muslim citizens over 21 and foreign visitors may drink in licensed venues with permits, while it is banned for Muslims except for medical reasons. These restrictions often lead people to seek alcohol from unlicensed sources, creating a black market and increasing the risk of methanol poisoning.
+Alcohol is strictly regulated in Bangladesh. Non-Muslim citizens over 21 and foreign visitors may drink in licensed venues with permits, while it is banned for Muslims except for medical reasons. These restrictions often lead people to seek alcohol from unlicensed sources, creating a black market, which can use methanol, and increasing the risk of methanol poisoning.
 
 Even small amounts of methanol can kill. It is not possible to identify methanol in alcoholic drinks by taste or smell. See [Travel Aware Drink Spiking and Methanol Poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) for information about how to reduce the risks.
 
@@ -70,7 +82,7 @@ Risks at Dhaka and Sylhet airports include:
 
 * theft, including passport theft
 * harassment
-* taxi drivers overcharging or robbing customers
+* overcharging of taxi fees
 
 To reduce your risk:
 
@@ -80,7 +92,7 @@ To reduce your risk:
 
 ## Laws and cultural differences
 
-Bangladesh is a majority Muslim country. Respect the local traditions, customs and laws. Make sure your actions do not cause offence.
+Bangladesh is a majority Muslim country. Respect the customs and laws. Make sure your actions do not cause offence.
 
 ### Personal ID
 
@@ -94,7 +106,7 @@ Both men and women should dress modestly to avoid causing offence. Women should 
 
 ### Ramadan
 
-Ramadan in 2025 is expected to start around the first day of March and last until the end of March.
+Ramadan in 2026 is expected to start during the third week of February and last until the third week of March.
 
 Ramadan is a holy month for Muslims. Get advice on respecting Ramadan from your tour guide, hotel or business contacts.
 
@@ -151,34 +163,34 @@ You need a [1949 international driving permit (IDP)](https://www.gov.uk/driving-
 
 ### Driving standards
 
-Bangladesh has a high rate of road accidents, mainly because:
+Road accidents are common in Bangladesh due to:
 
-* driving standards are poor
-* many vehicles are unlicensed and not roadworthy
-* mandatory vehicle safety checks are often ignored
-* a large number of rickshaws use the roads and ignore traffic laws
+* poor driving standards
+* many unlicensed and/or unroadworthy vehicles
+* large numbers of rickshaws on the roads
 
 Driving at night is especially dangerous as many drivers do not use headlights or use undipped headlights. There is also a risk of robbery if you travel between towns after dark. Avoid driving alone at night.
 
 ### Cycle rickshaws and taxis
 
-Cycle rickshaws are not safe – they offer little protection if there is an accident.
+Cycle rickshaws used on main roads alongside traffic are not safe – they offer little protection if there is an accident.
 
 Police are often unable to verify private hire drivers’ details, as driving records are often inaccurate.
 
-Ride-hailing apps like Uber are available in Bangladesh. To make sure you get in the right car safely:
+Ride-hailing apps like Uber are available in Bangladesh. Uber drivers generally only accept cash payment. To make sure you get in the right car safely:
 
 * wait in a safe location, not out on the street
-* match the car’s registration plate, make and model
+* match the car’s registration plate, make and model (registration plates are generally in Bangla and appear on Uber in English)
 * ask the driver to state your name
 * check the driver’s photo
-* share your journey details and consider enabling GPS tracking on your phone so trusted contacts can see your location
+* share your journey details and consider enabling GPS tracking on your phone so trusted contacts can see your location
 
 ### Buses
 
 The risks of travelling by bus include:
 
 * extremely poor maintenance and driving standards
+* lack of seat belts
 * frequent traffic collisions, some resulting in deaths
 * rape, sexual assaults and other crimes, sometimes committed by the bus crew
 
@@ -187,8 +199,6 @@ Avoid travelling by bus alone and at night.
 ### Air travel
 
 Due to the security situation in Bangladesh, there are frequent disruptions to air travel, often at short notice. Stay in touch with your airline. Security checks at the airport can also be slow.
-
-In 2019, an attempted hijacking took place of a Biman Bangladesh Airlines flight from Dhaka to Dubai via Chittagong. The Bangladesh Civil Aviation Ministry has completed its investigation into the incident. Extra security measures are in place.
 
 ### Rail travel
 

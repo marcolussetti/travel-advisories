@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   29 November 2025
+:   4 December 2025
 
 Updated:
-:   28 November 2025
+:   3 December 2025
 
 Latest update:
-:   Removal of information about Typhoon Fung-Wong.
+:   Addition of information on advice from the Taiwanese authorities on crisis preparedness ('Safety and security' page).
 
 The UK does not recognise Taiwan as a state and has no diplomatic relations with Taiwan, so limited support is available to British nationals. Please refer to the [British Office in Taipei](https://www.gov.uk/world/organisations/british-office-taipei) for further information.
 

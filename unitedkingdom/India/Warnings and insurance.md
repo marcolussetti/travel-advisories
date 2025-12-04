@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   1 December 2025
+:   4 December 2025
 
 Updated:
-:   30 November 2025
+:   3 December 2025
 
 Latest update:
-:   Information on Cyclone Ditwah which is expected to reach coastal Tamil Nadu, including Chennai on 30 November and 1 December. (Safety and Security)
+:   Removal of information on Cyclone Ditwah ('Safety and security' page).
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
