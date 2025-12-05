@@ -33,11 +33,11 @@ In 2020, the village of Kitaya in the Mtwara region was attacked, close to the b
 
 Recent elections have seen demonstrations and political gatherings across mainland Tanzania and the islands of Zanzibar, which have turned violent and resulted in fatalities.
 
-Stay away from all demonstrations, rallies, and large crowds.
+Be aware that there has been an increase in anti-foreigner rhetoric.
 
-If you become aware of any nearby disruption, leave the area immediately and monitor  social media and local media for up-to-date information.
+Stay away from all demonstrations, rallies and large crowds, and monitor social media and local media for up-to-date information. If you become aware of any nearby protests or disruption leave the area immediately.
 
-The authorities have previously limited internet access during or after protests. Make a note of important phone numbers including your travel operator, insurance company and the FCDO’s consular assistance number in case the internet is not accessible.
+The authorities have previously limited internet access during or after protests. Make a note of important phone numbers including your airline travel operator, insurance company and the FCDO’s consular assistance number in case the internet is not accessible.
 
 ### Social media
 

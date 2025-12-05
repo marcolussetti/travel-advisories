@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   2 August 2025
+:   5 December 2025
 
 Updated:
-:   1 August 2025
+:   4 December 2025
 
 Latest update:
-:   Removal of information on tsunami alert specific to the earthquake in the Kamchatka Peninsular Region (‘Warnings and insurance’ page).
+:   This travel advice was reviewed for accuracy and there are no significant updates.
 
 ## Before you travel
 

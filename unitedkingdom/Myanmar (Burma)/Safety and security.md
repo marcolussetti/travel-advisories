@@ -45,7 +45,7 @@ Some areas in Myanmar are under martial law; others have curfews or ‘stay at h
 
 Be cautious and avoid all demonstrations, large crowds and political gatherings. You risk arrest and detention if you attempt to photograph demonstrations or protests.
 
-The military regime has stated its intention to hold elections starting in December 2025 and running into early 2026. Stay alert as the security situation could deteriorate at short notice including around sites and venues related to the election, such as campaign events, polling sites, or political party premises.
+The military regime intends to hold elections from 28 December 2025 and into early 2026. Stay alert as the security situation could deteriorate at short notice including around sites and venues related to the election, such as campaign events, polling sites, or political party premises.
 
 ## Police and military checkpoints
 
@@ -70,11 +70,11 @@ Thieves often distract their victims by asking questions, begging for money, off
 
 Be wary of merchants offering to sell gems, gold or semi-precious stones. You could lose your money or get drawn into an illegal activity. Do not buy gems or minerals from an unlicensed source.
 
-Be cautious of job offers that appear too good to be true in Myanmar and neighbouring countries. There are cyber scam centres operating across Myanmar, particularly in the Myawaddy district in eastern Kayin and Tachileik township in eastern Shan. Victims are trafficked into Myanmar to carry out online scams. They are held in poor living conditions and subjected to severe mistreatment. Some victims have had their passports confiscated and have been held to ransom.
+Be cautious of job offers that appear too good to be true in Myanmar and neighbouring countries. There are cyber scam centres operating across Myanmar, particularly in the Myawaddy district in eastern Kayin and Tachileik township in eastern Shan. Victims are trafficked into Myanmar to carry out online scams, held in poor living conditions and subjected to severe mistreatment. Some victims have had their passports confiscated and have been held to ransom.
 
 FCDO is aware of fraudulent emails being sent by individuals claiming to work for British firms seeking loans to advance their business interests in Myanmar. These have falsely stated they are acting on the advice of the British Embassy.
 
-## Landmines
+## Unexploded weapons
 
 The risk of landmines in rural areas is serious, particularly in northern and central Rakhine, northern Shan and Kachin states. There is evidence of landmine use having spread to other areas since the coup in 2021. Some areas with known mines are marked by signs, but this practice is not widespread. Be extremely cautious if you must leave the main roads in these areas.
 
@@ -92,7 +92,7 @@ Visitors can buy a SIM card for a nominal fee when they arrive. They can be topp
 
 There is a risk of arbitrary detention and arrest, particularly for journalists and human rights activists. The criminal justice process followed in such cases falls below international standards. The death penalty is in place in Myanmar.
 
-Myanmar does not recognise dual nationality. If you are a dual national with Myanmar nationality you will be treated as a Myanmar national by local authorities.
+Myanmar does not recognise dual nationality. If you are a dual national with Myanmar nationality you may be treated as a Myanmar national by local authorities.
 
 In February 2024, Myanmar authorities announced that Myanmar men and women could be required, by law, to serve in the armed forces, and has since started conscription. Length of service can depend on criteria such as age, occupation, and whether there is a state of emergency in place. If you are a British-Myanmar dual national, holding a British passport may not exempt you from this law, as Myanmar does not recognise dual nationality.
 
@@ -104,7 +104,7 @@ The legal process in Myanmar is unpredictable, lacks transparency and is open to
 
 ### Religious customs
 
-Although primarily Buddhist, many different religions are represented in Myanmar.  When visiting Buddhist religious sites, respect religious customs. Shorts and sleeveless tops will cause offence. You should remove shoes and socks before entering a pagoda or monastery.
+Although primarily Buddhist, many different religions are represented in Myanmar.  When visiting religious sites, respect religious customs. Shorts, short skirts and sleeveless tops can cause offence. You should remove shoes and socks before entering a pagoda or monastery.
 
 Under Myanmar law, insulting religion is a prosecutable offence. Insulting religion is a broad term and can include any disrespectful depiction or image of Buddha or other religious representation. This includes tattoos of Buddha.
 
@@ -148,8 +148,6 @@ Road safety standards are significantly lower than in the UK. Serious road accid
 
 Many vehicles, including taxis and buses, are in a poor condition. Although driving is on the right in Myanmar, the majority of cars are right-hand drive.
 
-There are recent reports of attacks on the Yangon-Mandalay Expressway and National Highway 1 that links Yangon to Mandalay. Attacks have included the use of landmines and improvised explosive devices. There is an increased risk of attacks after dark, and an unofficial curfew is in place.
-
 ### Rail travel
 
 Railway safety standards are significantly below those in the UK. Some rail routes are still operating, but timetables are unreliable. Get information from the closest railway station before travel.
@@ -172,7 +170,7 @@ Myanmar normally experiences cyclones between mid-April and mid-May, and during 
 
 ### Earthquakes
 
-There is a risk of earthquakes in Myanmar. On 28 March, a 7.7 magnitude earthquake hit Myanmar and neighbouring areas. Naypyitaw, Sagaing region, and Mandalay region continue to be affected. There is heavy damage to infrastructure, including to hospitals and roads. If you are within these regions follow the advice of local authorities and monitor local media.
+There is a risk of earthquakes in Myanmar. In March 2025, a 7.7 magnitude earthquake hit Myanmar and neighbouring areas. Naypyitaw, Sagaing region, and Mandalay region were significantly affected. There is heavy damage to infrastructure, including to hospitals and roads. If you are within these regions follow the advice of local authorities and monitor local media.
 
 The US Federal Emergency Management Agency has advice about [what to do before, during and after an earthquake](http://www.ready.gov/earthquakes) or [tsunami](http://www.ready.gov/tsunamis).
 

@@ -1,11 +1,11 @@
 {
     "name": "Myanmar (Burma)",
-    "update_reason": "Information added about the regional risks in Myanmar and additional guidance on potential security risks around the upcoming election period which is proposed to begin in December ('Safety and security' and 'Regional risks' pages).",
+    "update_reason": "FCDO no longer advises against all but essential travel to Nay Pyi Taw following the March 2025 earthquake, based on diminished earthquake risk. FCDO continues to advise against all travel and all but essential travel to parts of Myanmar. Addition of information about dual nationality ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Myanmar (Burma)/Warnings and insurance.md",
-            "update_date": "2025-08-19T16:06:52+01:00"
+            "update_date": "2025-12-04T11:28:25+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Myanmar (Burma)/Getting help.md"
         }
     ],
-    "update_date": "2025-08-19T16:06:52+01:00"
+    "update_date": "2025-12-04T11:28:25+00:00"
 }

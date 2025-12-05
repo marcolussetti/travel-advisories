@@ -42,13 +42,17 @@ If you plan to bring more than 10,000 US dollars-worth of any foreign currency, 
 
 If you have to pay a visa overstay fine or pay for excess baggage on departure, you will need to pay in US dollars.
 
-Once you’re in Myanmar it is possible to change US dollars into Kyat, including at banks . However, some money exchanges have closed due to pressure from the authorities. Check your US dollars are in good condition, with no pen marks, folds or tears. Exchange counters prefer high-denomination bills and they typically inspect all notes  carefully.
+Once you’re in Myanmar it is possible to change US dollars into Kyat, including at banks. However, some money exchanges have closed due to pressure from the authorities. Check your US dollars are in good condition, with no pen marks, folds or tears. Exchange counters prefer high-denomination bills and they typically inspect all notes carefully.
 
 Due to concerns over counterfeit money, exchange counters may refuse dollars with the letters AB and CB at the start of the serial number (top left-hand corner of the note).
 
 If you want to pay for hotels or restaurants with a credit or debit card, phone ahead to check this will be possible.
 
 You cannot import gold or gold bullion into Myanmar for trading and risk arrest for doing so. On arrival, you  must declare any valuable articles including gold, gems and jewellery with customs.
+
+## Dual nationality
+
+Myanmar does not recognise dual nationality. If you hold dual nationality, Myanmar authorities may treat you as a Myanmar citizen. This limits the consular assistance the UK government may be able to provide. If you are arrested or detained as a dual national, Myanmar authorities may refuse UK consular staff permission to visit or assist you.
 
 [Previous
 :

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   7 November 2025
+:   5 December 2025
 
 Updated:
-:   6 November 2025
+:   4 December 2025
 
 Latest update:
-:   This travel advice has been reviewed for accuracy with edits made throughout, including updated information about visas, money, posting on social media, transport risks, air quality and healthcare in Tajikistan (‘Entry requirements’, ‘Safety and security’ and ‘Health’ pages).
+:   New information on cross-border attacks near the Tajikistan-Afghanistan border (See ‘Tajikistan-Afghanistan border’ on the ‘Regional risks’ page).
 
 ## Before you travel
 

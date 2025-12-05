@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   20 August 2025
+:   5 December 2025
 
 Updated:
-:   19 August 2025
+:   4 December 2025
 
 Latest update:
-:   Information added about the regional risks in Myanmar and additional guidance on potential security risks around the upcoming election period which is proposed to begin in December ('Safety and security' and 'Regional risks' pages).
+:   FCDO no longer advises against all but essential travel to Nay Pyi Taw following the March 2025 earthquake, based on diminished earthquake risk. FCDO continues to advise against all travel and all but essential travel to parts of Myanmar. Addition of information about dual nationality ('Warnings and insurance' page).
 
-![](https://assets.publishing.service.gov.uk/media/67f50d1390615dd92bc90cf7/FCDO__TA__064_-_Myanmar_Ed9__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/6931608e502f392086ee8bc8/FCDO_TA_064_-_Myanmar_Ed10_WEB.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/67f50d13e3c60873d6c90cf4/FCDO__TA__064_-_Myanmar_Ed9.pdf)
+[Download a more detailed map (PDF, 2.03 MB)](https://assets.publishing.service.gov.uk/media/6931608f4bedc0e762304057/FCDO_TA_064_-_Myanmar_Ed10.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -34,7 +34,6 @@ FCDO advises against all travel to:
 
 FCDO advises against all but essential travel to:
 
-* Naypyitaw Region
 * Shan State South and East
 * Mandalay Region
 * Tanintharyi Region south of Tanintharyi township

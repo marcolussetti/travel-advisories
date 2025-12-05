@@ -24,10 +24,6 @@ The authorities will normally grant you a one-month stay on arrival. You can app
 
 You must pay a 20 Australian dollar departure tax at the airport.
 
-## Vaccine requirements
-
-For details about medical entry requirements and recommended vaccinations, see [TravelHealthPro’s Kiribati guide](https://travelhealthpro.org.uk/country/118/kiribati#Vaccine_Recommendations).
-
 ## Customs rules
 
 There are strict rules about goods you can take into or out of Kiribati. You must declare anything that may be prohibited or subject to tax or duty.

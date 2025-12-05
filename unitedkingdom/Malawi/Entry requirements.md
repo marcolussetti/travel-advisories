@@ -14,7 +14,7 @@ You will be denied entry if you do not have a valid travel document or try to us
 
 ## Visa requirements
 
-On 21 November, the Malawian government announced that visa free entry to Malawi would no longer be possible with immediate effect. It is not clear when this will be enforced, you may need a visa on arrival. Check the [Malawi Immigration website](https://www.immigration.gov.mw/) for the latest information.
+The Malawian government has announced a stop to visa-free entry. You might need a visa when you arrive. It is not clear when this will start. Check the [Malawi Immigration website](https://www.immigration.gov.mw/) for the latest information.
 
 If you wish to live, work or study in Malawi, visit the [Malawi Immigration website](https://www.immigration.gov.mw/) for further information.
 

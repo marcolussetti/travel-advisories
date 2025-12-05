@@ -120,7 +120,7 @@ It’s illegal to smoke in public with a fine of up to 5,000 Thai baht. E-cigare
 
 ### Alcohol sale restrictions
 
-The sale of alcohol is restricted between midnight and 11am and between 2pm and 5pm. These restrictions do not apply to licensed hotels, international airport terminals or authorised entertainment venues. Exercise caution when purchasing or consuming alcohol in public places during these times and check with venue owners or shop sellers. Failure to comply could result in a fine.
+The sale of alcohol is restricted between midnight and 11am. This does not apply to licensed hotels, international airport terminals or authorised entertainment venues. Exercise caution when purchasing or consuming alcohol in public places during restricted hours and check with venue owners or shop sellers. Failure to comply could result in a fine.
 
 ### Illegal drugs and prison sentences
 

@@ -1,11 +1,11 @@
 {
     "name": "Thailand",
-    "update_reason": "New information on hours where the sale of alcohol is restricted (See \u2018Laws and cultural differences\u2019 on the \u2018Safety and security\u2019 page).",
+    "update_reason": "Updated information about alcohol sale restrictions ('Safety and security' pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Thailand/Warnings and insurance.md",
-            "update_date": "2025-11-28T12:04:30+00:00"
+            "update_date": "2025-12-04T15:36:35+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Thailand/Getting help.md"
         }
     ],
-    "update_date": "2025-11-28T12:04:30+00:00"
+    "update_date": "2025-12-04T15:36:35+00:00"
 }

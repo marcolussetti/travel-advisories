@@ -20,7 +20,7 @@ FCDO advises against all but essential travel to the following border areas: Sha
 
 FCDO advises against all travel to Magway Region and the north of Mandalay Region and all but essential travel to the rest of Mandalay Region. The situation in central Myanmar is unstable due to ongoing conflict. There is a risk of being caught in crossfire, armed clashes or airstrikes and the situation may change quickly at short notice.
 
-Due to earthquake damage, following the earthquake on 28 March 2025, the FCDO advises against all but essential travel to Naypyitaw Region. The area continues to be affected by damaged infrastructure, including hospitals and roads.
+Naypyitaw Region was significantly affected by the March 2025 earthquake, suffering damage to infrastructure, including hospitals and roads. Seek local advice before travelling to the Region.
 
 ## Southern States and Regions
 
@@ -28,7 +28,7 @@ FCDO advises against all travel to Mon State and east of the Yangon-Mandalay Exp
 
 ## Yangon Region
 
-While FCDO no longer advises against all but essential travel to Yangon Region, there is still a heightened risk.
+While FCDO no longer advises against all but essential travel to Yangon Region or to Nay Pyi Taw, there is still a heightened risk.
 
 The security situation remains volatile and can change at short notice. If you are visiting Yangon Region, seek local advice, especially if travelling to the following townships:
 
@@ -45,6 +45,8 @@ Security incidents in Yangon city, like in the rest of Myanmar, continue primari
 A curfew is in place from 1am to 3am across Yangon city.
 
 If you encounter a threatening or intimidating situation, do not try to make your way through it. Turn around and move to safety.
+
+There are recent reports of attacks on the Yangon-Mandalay Expressway and National Highway 1 that links Yangon to Mandalay. Attacks have included the use of landmines and improvised explosive devices. There is an increased risk of attacks after dark, and an unofficial curfew is in place.
 
 [Previous
 :

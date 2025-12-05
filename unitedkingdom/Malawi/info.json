@@ -1,11 +1,11 @@
 {
     "name": "Malawi",
-    "update_reason": "Updated information about change to visa requirements for UK nationals entering Malawi ('Entry requirements' page).",
+    "update_reason": "Addition of information that the Malawian government has announced a stop to visa-free entry. You might need a visa when you arrive. It is not clear when this will start ('Entry requirements' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Malawi/Warnings and insurance.md",
-            "update_date": "2025-11-28T16:19:41+00:00"
+            "update_date": "2025-12-04T14:37:56+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Malawi/Getting help.md"
         }
     ],
-    "update_date": "2025-11-28T16:19:41+00:00"
+    "update_date": "2025-12-04T14:37:56+00:00"
 }

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   29 November 2025
+:   5 December 2025
 
 Updated:
-:   28 November 2025
+:   4 December 2025
 
 Latest update:
-:   Updated information on the political situation and calls for protest on 9 December (‘Warnings and insurance’ page), and the risk of invasive searches of electronic devices (‘Safety and security’ page).
+:   Updated information on the political situation and calls for protest on 9 December, along with phone numbers for consular assistance, and information on an increase in anti-foreigner rhetoric (‘Warnings and insurance’ and ‘Safety and security’ pages).
 
 ![](https://assets.publishing.service.gov.uk/media/690e25f165da22dd57729905/FCDO__TA__086_-_Tanzania_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -41,7 +41,11 @@ Be prepared for:
 
 Stay away from all demonstrations, rallies and large crowds, monitor local media and follow the advice of the authorities.
 
-The British High Commission has advised staff not to plan travel between 8-10 December, due to the risk of disruption.
+The British High Commission has advised staff not to plan travel between 5-10 December, due to the risk of disruption.
+
+The authorities have previously limited internet access during or after protests. Make a note of important phone numbers including your airline, travel operator, insurance company and the FCDO’s consular assistance number in case the internet is not accessible.
+
+Consular assistance can be reached 24/7, on +255 22 229 0000 or +44 (0) 20 7008 5000.
 
 ## Before you travel
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   29 November 2025
+:   5 December 2025
 
 Updated:
-:   28 November 2025
+:   4 December 2025
 
 Latest update:
-:   New information on hours where the sale of alcohol is restricted (See ‘Laws and cultural differences’ on the ‘Safety and security’ page).
+:   Updated information about alcohol sale restrictions ('Safety and security' pages).
 
 ![](https://assets.publishing.service.gov.uk/media/68ff9972d81972ecd2df5dbf/FCDO__TA__040_-_Thailand_Travel_Advice_Ed5__WEB_.jpg)
 
