@@ -23,7 +23,7 @@ If you are in an affected area:
 
 * monitor local news and weather reports
 * confirm your flight before going to the airport
-* follow the instructions of local authorities, including evacuation orders
+* follow the instructions of local authorities, including evacuation and curfew orders
 
 ### Climate change
 

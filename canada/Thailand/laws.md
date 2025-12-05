@@ -30,6 +30,10 @@ The legal drinking age in Thailand is 20.
 
 It is illegal to promote the consumption of alcohol. You could be fined or taken to court for posting on social media any pictures that include alcoholic beverages or people consuming alcohol.
 
+Selling, buying and/or consuming alcohol is restricted at certain times of the day. Follow the instructions of local authorities.
+
+If you don't comply, you could face heavy fines.
+
 [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
 
 ### Smoking
@@ -48,7 +52,7 @@ Gambling, with some exceptions, is illegal.
 
 Actions or words that are considered offensive or insulting to the king or the royal family are illegal and may result in criminal prosecution and lengthy prison sentences.
 
-Don’t make any public statement, including online, that could be perceived as critical of:
+Don't make any public statement, including online, that could be perceived as critical of:
 
 * the monarchy
 * the political situation in Thailand
@@ -74,13 +78,13 @@ Traffic drives on the left.
 
 You must be at least 18 years old to drive a car in Thailand.
 
-You must carry an international driving permit or a Thai driver’s licence to drive in Thailand.
+You must carry an international driving permit or a Thai driver's licence to drive in Thailand.
 
 It is illegal to operate a motorcycle without a valid Thai motorcycle licence or an international driving permit with a motorcycle endorsement.
 
 Helmets are mandatory for motorcycle riders (including passengers), but many helmets do not meet international safety standards.
 
-Carry your identification card, driver’s licence and vehicle registration book at all times.
+Carry your identification card, driver's licence and vehicle registration book at all times.
 
 [International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
 
@@ -92,7 +96,7 @@ All hosts, including hotel staff and homeowners, must notify local authorities t
 
 Commercial surrogacy is illegal in Thailand.
 
-If you’re planning to visit Thailand for the purpose of commissioning surrogacy arrangements, you should consider the potential challenges involved in pursuing international surrogacy and seek specialist legal advice on Thai and Canadian laws prior to making any arrangements.
+If you're planning to visit Thailand for the purpose of commissioning surrogacy arrangements, you should consider the potential challenges involved in pursuing international surrogacy and seek specialist legal advice on Thai and Canadian laws prior to making any arrangements.
 
 It is also recommended that you consult with Immigration, Refugees and Citizenship Canada (IRCC) on current policies regarding citizenship through descent and the issuance of Canadian travel documents.
 
@@ -106,7 +110,7 @@ If local authorities consider you a citizen of Thailand, they may refuse to gran
 
 ### Compulsory military service
 
-Male Thai citizens are subject to compulsory military service when they reach the age of 21. If you’re a dual Canadian–Thai citizen, you may be subject to this requirement.
+Male Thai citizens are subject to compulsory military service when they reach the age of 21. If you're a dual Canadian–Thai citizen, you may be subject to this requirement.
 
 ### International Child Abduction
 

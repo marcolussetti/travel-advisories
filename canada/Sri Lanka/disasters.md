@@ -4,16 +4,19 @@
 
 ### Flooding and landslides
 
-Heavy rainfall has caused severe flooding and landslides across Sri Lanka, especially Uva and Central provinces. The President of Sri Lanka has declared a State of Public Emergency for the entire country.
+Heavy rainfall has caused severe flooding and landslides across Sri Lanka, especially in the Uva and Central provinces. The President has declared a nationwide state of emergency.
 
-Torrential rains have resulted in flash floods, significant damage to infrastructure and casualties. Power and water supplies have been disrupted in several regions in Uva and Central provinces. Telecommunications are also severely affected in these provinces. There have been long queues at gas stations and banks in the capital, Colombo, as well as localized shortages of fresh fruit and vegetables.
+Torrential rain has caused flash floods, significant infrastructure damage and casualties. Local authorities warn of more landslides and mudslides due to ongoing erosion.
 
-Roadways may be blocked by landslides or flood water. All trains and many international flights have been cancelled. Some flights have been rerouted. Contact your airline if your travel plans have been affected.
+Power has been restored to most of the country but there are still some outages. Potable water is limited in the affected areas of Uva and Central provinces. Telecommunications are also severely affected in these provinces. There have been long queues at gas stations and banks in the capital, Colombo, as well as localized shortages of fresh fruit and vegetables.
 
-The Government of Sri Lanka has put in place special measures for travellers who are unable to leave the country due to disruptions from the flooding, including exemptions from overstay fees and visa extensions. If you are in Sri Lanka on a tourist visa and you have been unable to leave, you should extend your visa through the Department of Immigration and Emigration’s online portal.
+Roadways may be blocked by landslides or flood water. This can affect access to emergency services. All trains and many international flights have been cancelled. Some flights have been rerouted. Contact your airline if your travel plans have been affected.
 
-If you are in an affected area:
+Special measures are in place if you are unable to leave the country due to flood disruptions, including exemptions from overstay fees and visa extensions. If you have been unable to leave, you should extend your visa through the Department of Immigration and Emigration’s online portal.
 
+If you are in Sri Lanka:
+
+* stay away from affected areas
 * move to higher ground, away from rivers and low-lying areas
 * monitor local news and weather reports
 * confirm your flight before going to the airport

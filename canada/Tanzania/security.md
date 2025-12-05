@@ -8,7 +8,7 @@ On October 29, 2025, general elections took place in Tanzania and Zanzibar.
 
 Violent demonstrations occurred throughout the country, including in Dar es Salaam. The violence led to a large number of casualties.
 
-The possibility of renewed demonstrations and firm responses from security forces remains, particularly around Independence Day, on December 9, 2025.
+The possibility of renewed demonstrations and firm responses from security forces remains, particularly before, during or after Independence Day, on December 9, 2025.
 
 Intermittent disruptions to Internet access, including social media and messaging applications, may occur.
 
@@ -21,6 +21,8 @@ Save or print copies of key information in case of an internet disruption, inclu
 Authorities have strengthened security measures and security forces are present on the streets.
 
 Movement restrictions and military checkpoints may be implemented without notice.
+
+Disruptions to transportation, including international and domestic flights, ferries and rail service may occur.
 
 Police have the authority to search electronic devices, including phones. This may involve examining images and videos that could be considered sensitive by local authorities. Possession of such content could lead to detention.
 
@@ -35,6 +37,9 @@ If you are in Tanzania:
 * avoid demonstrations and large gatherings
 * monitor the media for the latest information
 * follow the instructions of local authorities, including orders on movement restrictions and the sharing of videos or photos deemed sensitive
+* ensure that you have sufficient supplies of cash, medication, food, fuel and water in case you need to shelter in place
+
+[More information on demonstrations](#demonstrations)
 
 ### Border with Mozambique in the Mtwara region
 
@@ -55,6 +60,17 @@ Demonstrations can occur anywhere across the country and sometimes on short noti
 * Avoid areas where demonstrations and large gatherings are taking place
 * Follow the instructions of local authorities
 * Monitor local media for information on ongoing demonstrations
+
+During periods of unrest, disruptions to movement and essential services may occur. If unrest is anticipated, you should:
+
+* ensure to have enough cash for essential expenses
+* always keep your gas tank at least half full
+* maintain a supply of water, non-perishable food, medication, and essential items
+* if using an eSIM, obtain a local SIM card with calling minutes
+* keep mobile devices charged and carry a power bank
+* store important documents securely and ensure they are easily accessible
+* be aware of nearby medical facilities and ensure you have necessary prescriptions
+* inform a trusted contact of your movements
 
 [Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
 
