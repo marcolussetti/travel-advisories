@@ -6,8 +6,6 @@
 
 Tensions can flare up suddenly in the Middle East, and lead to travel disruptions, including flight cancellations and airspace closures.
 
-[Canada's response to the situation in the Middle East](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=eng)
-
 ### Situation in Israel, the West Bank and the Gaza Strip
 
 Due to the ongoing events in Israel, the West Bank and the Gaza Strip, the security situation in neighbouring Sinai could deteriorate suddenly. Local authorities could impose movement restrictions on short notice.

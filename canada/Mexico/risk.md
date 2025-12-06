@@ -28,7 +28,7 @@
 + the city of Los Mochis
 + specific areas in the city of Mazatlán:
 
-- Centro Histórico south of Avenida Guttierrez Najera
+- Centro Histórico south of Avenida Gutiérrez Najera
 - the road connecting Centro Histórico to the airport
 - the main coastal roads from Centro Histórico to Playa Delfines, including Zona Cerritos and Zona Dorada (the Golden Zone)
 

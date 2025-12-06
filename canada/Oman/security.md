@@ -6,8 +6,6 @@
 
 Tensions can flare up suddenly in the Middle East, and lead to travel disruptions, including flight cancellations and airspace closures.
 
-[Canada's response to the situation in the Middle East](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=eng)
-
 ### Border with Yemen
 
 Avoid approaching the Yemeni border due to the ongoing conflict in Yemen. Crossing the Yemen–Oman border can be difficult and very dangerous. Houthi militias and other forces operating in Yemen do not normally engage in cross-border exercises. However, you should be extremely cautious near the border due to the potential spillover of violence.

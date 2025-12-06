@@ -6,8 +6,6 @@
 
 Tensions can flare up suddenly in the Middle East, and lead to travel disruptions, including flight cancellations and airspace closures.
 
-[Canada's response to the situation in the Middle East](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=eng)
-
 ### Regional conflicts
 
 Conflicts in the Middle East and the Gulf region could affect Qatar. Regional tensions can flare up at any time, resulting in an unpredictable and volatile security situation.

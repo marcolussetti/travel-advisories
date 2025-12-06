@@ -10,8 +10,6 @@ Verify the status of border crossings ahead of time.
 
 Tensions can flare up suddenly in the Middle East, and lead to travel disruptions, including flight cancellations and airspace closures.
 
-[Canada's response to the situation in the Middle East](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=eng)
-
 ### Areas within 5 km of the borders with Syria and Iraq, with the exception of the tourist site Umm Qais
 
 Clashes involving small arms and mortar fire have occurred in the areas bordering Syria and Iraq, due to the ongoing conflict in these countries. Borders with Syria and Iraq are highly militarized. Government security forces may engage vehicles and people coming into Jordan illegally.

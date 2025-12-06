@@ -65,7 +65,7 @@ During periods of unrest, disruptions to movement and essential services may occ
 
 * ensure to have enough cash for essential expenses
 * always keep your gas tank at least half full
-* maintain a supply of water, non-perishable food, medication, and essential items
+* maintain a supply of water, non-perishable food, medication, and essential items
 * if using an eSIM, obtain a local SIM card with calling minutes
 * keep mobile devices charged and carry a power bank
 * store important documents securely and ensure they are easily accessible

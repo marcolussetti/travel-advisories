@@ -6,8 +6,6 @@
 
 Tensions can flare up suddenly in the Middle East, and lead to travel disruptions, including flight cancellations and airspace closures.
 
-[Canada's response to the situation in the Middle East](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=eng)
-
 ### Security situation
 
 Despite truce agreements, the security situation in Yemen remains highly unstable and unpredictable due to the ongoing civil war that started in 2014. The state of emergency declared in March 2011 remains in effect.

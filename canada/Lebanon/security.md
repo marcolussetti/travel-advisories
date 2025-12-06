@@ -6,21 +6,16 @@
 
 Tensions can flare up suddenly in the Middle East, and lead to travel disruptions, including flight cancellations and airspace closures.
 
-[Canada's response to the situation in the Middle East](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=eng)
-
 ### Hostilities with Israel
 
-On November 27, 2024, a ceasefire took effect between Israel and Lebanon. The security situation in Lebanon remains volatile and unpredictable as hostilities could resume at any time.
+On November 27, 2024, a ceasefire took effect between Israel and Lebanon. However, the situation remains volatile and Israeli airstrikes continue to occur in:
 
-Previous air strikes reached populated areas across Lebanon, including in the Beqaa valley, central Beirut and its suburbs, often resulting in casualties.
+* southern Lebanon
+* Beirut’s southern suburbs
+* the Beqaa Valley
+* Palestinian refugee camps
 
-### Security situation
-
-The security situation in Lebanon is volatile, especially due to the armed conflict with Israel.
-
-Intensive military activity in southern Lebanon has led to the displacement of thousands of people towards the north of the country and caused major humanitarian needs. The conflict has also exacerbated longstanding sectarian tensions, increasing the risk of violent incidents.
-
-While some airlines have resumed their service to Beirut Rafic Hariri International Airport, disruptions on short notice are possible due to airspace closures, flight cancellations and/or diversions.
+Previous air strikes reached populated areas across Lebanon, including central Beirut.
 
 If you intend to travel to Lebanon despite the advisory in effect:
 
@@ -32,7 +27,6 @@ If you intend to travel to Lebanon despite the advisory in effect:
 If you are already in Lebanon:
 
 * be extremely vigilant and aware of your surroundings
-* book a flight to leave the country now, if you can do so safely
 * expect a heightened security presence
 * carry identification documents at all times
 * make sure your passport and [travel documents](https://www.canada.ca/en/immigration-refugees-citizenship/services/lebanon-2023.html) are up-to-date, including those of your family

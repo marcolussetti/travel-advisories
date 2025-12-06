@@ -6,8 +6,6 @@
 
 Tensions can flare up suddenly in the Middle East, and lead to travel disruptions, including flight cancellations and airspace closures.
 
-[Canada's response to the situation in the Middle East](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=eng)
-
 ### Terrorism
 
 There’s an ongoing threat of terrorism. Terrorist groups have indicated their intention to target the United Arab Emirates (UAE). In the context of ongoing regional tensions, terrorists could carry out attacks against Jewish and Israeli targets. Enhanced security measures are in place, and Emirati authorities may reinforce them on short notice.
