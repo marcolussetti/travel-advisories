@@ -1,24 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   12 November 2025
+:   6 December 2025
 
 Updated:
-:   11 November 2025
+:   5 December 2025
 
 Latest update:
-:   Addition of information that some operators have paused or cancelled flights and package holidays following Hurricane Melissa, flights to and from Jamaica may not be direct and could transit other countries (‘Warnings and insurance’ page).
+:   Updated information about the impact of Hurricane Melissa and additional information about health risks in Jamaica. (‘Warnings and insurance’ and ‘Health’ pages).
 
 ## Hurricane Melissa
 
-Hurricane Melissa made landfall as a major hurricane in Jamaica on Tuesday 28 October. Hurricane Melissa brought exceptional levels of rainfall and strong winds to the whole of Jamaica, causing widespread damage to roads and infrastructure and disruption to electricity and other utilities services, including internet. There are also shortages of food and water and access to currency. Access to healthcare in worst affected areas is limited. All Western parishes have suffered significant damage. The worst affected parishes are currently Westmoreland, St Elizabeth, St James, Hanover and Manchester. Exercise caution if you are travelling within Jamaica.
-
-Continue to follow the guidance of [local authorities](https://jis.gov.jm/news/). If your hotel is unable to provide accommodation, get in contact with other hotels in the area to see if they have capacity. We have closed Register Your Presence, however if you need consular assistance, contact the Foreign, Commonwealth and Development Office on:
-
-* +1 (876) 936 0700 (Jamaica)
-* +44 (0) 20 7008 5000 (UK)
-
-All the airports have re-opened, with Sangster International Airport in Montego Bay operating a limited number of commercial flights while repairs are made to the terminal. For updates and flight schedules, see [@MBjairport](https://x.com/MBJAIRPORT?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) for Sangster International Airport in Montego Bay and [@NMIA](https://x.com/NMIA_Airport?t=YwsCRXzhGRoDxM-jVJJenA&s=08) for Norman Manley International Airport in Kingston. Flights may not be direct and could transit other countries. Check for messaging from your airline or travel provider as some operators have paused or cancelled flights and package holidays to Jamaica following Hurricane Melissa.
+Hurricane Melissa made landfall as a major hurricane in Jamaica in October 2025. All Western parishes suffered significant damage and some communities are still without electricity and piped water. In the worst affected areas, access to healthcare is limited, and there is still debris and standing water that carries health risks, including water-borne and mosquito-borne diseases, and [Leptospirosis](https://travelhealthpro.org.uk/country/113/jamaica#Outbreaks) from contact with contaminated water.
 
 ## Before you travel
 

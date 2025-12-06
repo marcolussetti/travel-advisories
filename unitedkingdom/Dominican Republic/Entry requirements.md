@@ -6,7 +6,7 @@ The authorities in the Dominican Republic set and enforce entry rules. If you�
 
 ## Passport validity requirements
 
-Up until 30 November 2025, British passport holders can enter and leave the Dominican Republic for tourism purposes, as long as their passport remains valid for the duration of their visit. Rules may change after this date. Check the [Dominican Republic Ministry of Tourism website](https://www.godominicanrepublic.com/travel/entry-requirements/) for the latest information.
+Up until 31 December 2026, British passport holders can enter and leave the Dominican Republic for tourism purposes, as long as their passport remains valid for the duration of their visit. Rules may change after this date. Check the [Dominican Republic Ministry of Tourism website](https://www.godominicanrepublic.com/travel/entry-requirements/) for the latest information.
 
 Check with your travel provider that your passport and other travel documents meet requirements. [Renew your passport](https://www.gov.uk/renew-adult-passport/renew) if you need to.
 

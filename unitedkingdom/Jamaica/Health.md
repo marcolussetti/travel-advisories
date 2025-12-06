@@ -30,7 +30,7 @@ Read [best practice when travelling with medicines on TravelHealthPro](https://t
 
 ## Healthcare in Jamaica
 
-The standard of medical facilities – both private and government-operated – varies and may not meet UK standards.
+The standard of medical facilities – both private and government-operated – varies and may not meet UK standards. Access to healthcare in the areas worst affected by Hurricane Melissa is limited, with some areas still operating field hospitals.
 
 Treatment can be expensive with doctors and hospitals expecting immediate cash payment for health services.
 

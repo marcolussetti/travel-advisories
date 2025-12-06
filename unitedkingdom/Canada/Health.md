@@ -47,7 +47,7 @@ Read [FCDO guidance on travel and mental health](https://www.gov.uk/guidance/for
 
 [Previous
 :
-Safety and security](/foreign-travel-advice/canada/safety-and-security)
+World Cup 2026](/foreign-travel-advice/canada/world-cup-2026)
 
 [Next
 :

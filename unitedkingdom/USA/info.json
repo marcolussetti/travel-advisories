@@ -1,11 +1,11 @@
 {
     "name": "USA",
-    "update_reason": "Removal of information that there could be travel disruption following a US federal government shutdown.",
+    "update_reason": "Information added about World Cup 2026 (\u2018Warnings and insurance\u2019 and \u2018World Cup 2026\u2019 pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/USA/Warnings and insurance.md",
-            "update_date": "2025-11-18T11:42:53+00:00"
+            "update_date": "2025-12-05T16:02:58+00:00"
         },
         {
             "title": "Entry requirements",
@@ -18,6 +18,11 @@
             "file": "unitedkingdom/USA/Safety and security.md"
         },
         {
+            "title": "World Cup 2026",
+            "url": "https://www.gov.uk/foreign-travel-advice/usa/world-cup-2026",
+            "file": "unitedkingdom/USA/World Cup 2026.md"
+        },
+        {
             "title": "Health",
             "url": "https://www.gov.uk/foreign-travel-advice/usa/health",
             "file": "unitedkingdom/USA/Health.md"
@@ -28,5 +33,5 @@
             "file": "unitedkingdom/USA/Getting help.md"
         }
     ],
-    "update_date": "2025-11-18T11:42:53+00:00"
+    "update_date": "2025-12-05T16:02:58+00:00"
 }

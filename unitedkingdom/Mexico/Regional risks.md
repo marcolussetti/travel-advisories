@@ -227,7 +227,7 @@ Illegal roadblocks and checkpoints are reported frequently on Federal Highway 19
 
 [Previous
 :
-Safety and security](/foreign-travel-advice/mexico/safety-and-security)
+World Cup 2026](/foreign-travel-advice/mexico/world-cup-2026)
 
 [Next
 :

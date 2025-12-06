@@ -1,11 +1,11 @@
 {
     "name": "Jamaica",
-    "update_reason": "Addition of information that some operators have paused or cancelled flights and package holidays following Hurricane Melissa, flights to and from Jamaica may not be direct and could transit other countries (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Updated information about the impact of Hurricane Melissa and additional information about health risks in Jamaica. (\u2018Warnings and insurance\u2019 and \u2018Health\u2019 pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Jamaica/Warnings and insurance.md",
-            "update_date": "2025-11-11T14:18:02+00:00"
+            "update_date": "2025-12-05T15:00:04+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Jamaica/Getting help.md"
         }
     ],
-    "update_date": "2025-11-11T14:18:02+00:00"
+    "update_date": "2025-12-05T15:00:04+00:00"
 }

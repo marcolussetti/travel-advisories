@@ -29,7 +29,7 @@ See [what health risks you’ll face in Ethiopia](https://travelhealthpro.org.uk
 * Mpox
 * Marburg
 
-The Ethiopian Ministry of Health has confirmed cases of Marburg virus in the town of Jinka, south west region of Ethiopia. You can find further information about Marburg on [TravelHealthPro](https://travelhealthpro.org.uk/disease/114/marburg-virus-disease). You should follow guidance from local authorities.
+The Ethiopian Ministry of Health has confirmed cases of Marburg virus. You can find further information about Marburg on [TravelHealthPro](https://travelhealthpro.org.uk/disease/114/marburg-virus-disease). You should follow guidance from local authorities.
 
 Malaria is common in areas of the country up to 2,000 metres above sea level. Addis Ababa sits at 2,400m but a number of sites popular with tourists are below 2,000m.
 

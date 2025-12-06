@@ -133,7 +133,7 @@ There is local instability, lawlessness, military activity and a general risk of
 
 ## Central, Southern, Sidama and South West regions (formerly SNNPR)
 
-FCDO advises against all but essential travel to within 5km of the town of Jinka due to the Marburg outbreak. See further advice on the [Health](https://www.gov.uk/foreign-travel-advice/ethiopia/health) page.
+FCDO advises against all but essential travel to within 5km of the towns of Jinka and Hawassa due to the Marburg outbreak. See further advice on the [Health](https://www.gov.uk/foreign-travel-advice/ethiopia/health) page.
 
 FCDO advises against all travel to within 10km of the borders with South Sudan and Kenya including the shores of Lake Turkana.
 

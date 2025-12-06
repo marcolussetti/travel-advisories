@@ -1,15 +1,21 @@
 # Warnings and insurance
 
 Still current at:
-:   19 November 2025
+:   6 December 2025
 
 Updated:
-:   18 November 2025
+:   5 December 2025
 
 Latest update:
-:   Removal of information that there could be travel disruption following a US federal government shutdown.
+:   Information added about World Cup 2026 (‘Warnings and insurance’ and ‘World Cup 2026’ pages).
 
 This travel advice also covers American Samoa, Guam, Northern Mariana Islands, Puerto Rico, and United States Virgin Islands.
+
+## World Cup 2026
+
+The US is co-hosting the 2026 World Cup which takes place between 11 June and 19 July.
+
+If you are planning to travel to the US during these times, see the [World Cup page](https://www.gov.uk/foreign-travel-advice/usa/world-cup-2026) for more information.
 
 ## Before you travel
 

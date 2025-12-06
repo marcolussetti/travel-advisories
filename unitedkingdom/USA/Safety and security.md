@@ -191,6 +191,6 @@ Entry requirements](/foreign-travel-advice/usa/entry-requirements)
 
 [Next
 :
-Health](/foreign-travel-advice/usa/health)
+World Cup 2026](/foreign-travel-advice/usa/world-cup-2026)
 
 [View a printable version of the whole guide](/foreign-travel-advice/usa/print)

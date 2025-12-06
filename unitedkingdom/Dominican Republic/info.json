@@ -1,11 +1,11 @@
 {
     "name": "Dominican Republic",
-    "update_reason": "Removal of information about Hurricane Melissa.",
+    "update_reason": "Updated information that up until 31 December 2026, British passport holders can enter and leave the Dominican Republic for tourism purposes, as long as their passport remains valid for the duration of their visit (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Dominican Republic/Warnings and insurance.md",
-            "update_date": "2025-11-06T15:44:35+00:00"
+            "update_date": "2025-12-05T17:16:26+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Dominican Republic/Getting help.md"
         }
     ],
-    "update_date": "2025-11-06T15:44:35+00:00"
+    "update_date": "2025-12-05T17:16:26+00:00"
 }

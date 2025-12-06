@@ -1,17 +1,19 @@
 # Warnings and insurance
 
 Still current at:
-:   4 December 2025
+:   6 December 2025
 
 Updated:
-:   3 December 2025
+:   5 December 2025
 
 Latest update:
-:   Addition of information about travel disruption caused by Cyclone Ditwah ('Warnings and insurance' page).
+:   Updated information about severe weather and travel disruption (‘Warnings and insurance’ page).
 
-## Travel disruption caused by Cyclone Ditwah
+## Severe weather and travel disruption
 
-Cyclone Ditwah hit Sri Lanka on 28 November, and has caused flooding and landslides throughout much of Sri Lanka, resulting in the loss of life. As a result, travel in many areas has been disrupted.  Infrastructure including road networks, power lines and telecommunications remain disrupted in the most affected areas including Kandy, Nuwara Eliya and the wider Hill Country. There remains a risk of landslides and localised flooding. The Sri Lankan authorities are working to restore critical infrastructure. The south coast of Sri Lanka remains largely unaffected and is operating as normal.
+More heavy rain is forecast following Cyclone Ditwah, monitor local news reports and stay in touch with your tour operator.
+
+Cyclone Ditwah caused flooding and landslides throughout much of Sri Lanka, resulting in the loss of life. As a result, travel in many areas has been disrupted. Infrastructure including road networks, power lines and telecommunications remain disrupted in the most affected areas including Kandy, Nuwara Eliya and the wider Hill Country. There remains a risk of landslides and localised flooding. The further forecast heavy rainfall increases this risk. The Sri Lankan authorities are working to restore critical infrastructure. The south coast of Sri Lanka remains largely unaffected and is operating as normal.
 
 Sri Lanka Tourism has a 24-hour hotline available on 1912.
 

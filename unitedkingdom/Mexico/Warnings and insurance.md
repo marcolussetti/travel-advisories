@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 November 2025
+:   6 December 2025
 
 Updated:
-:   25 November 2025
+:   5 December 2025
 
 Latest update:
-:   Removal of information about protests and demonstrations ('Warnings and insurance' page).
+:   Information added about World Cup 2026 (‘Warnings and insurance’ and ‘World Cup 2026’ pages).
 
 ![](https://assets.publishing.service.gov.uk/media/65fabfdfaa9b76001dfbdb8a/FCDO_TA_065_-_Mexico_Travel_Advice_Ed5_WEB.jpg)
 
@@ -106,6 +106,12 @@ FCDO advises against all but essential travel to within 40km of the Guatemalan b
 FCDO advises against all but essential travel on Federal Highway 199 (Carretera Federal 199) between Rancho Nuevo (just outside San Cristobal de las Casas) and the Chancalá junction just outside Palenque (where Federal Highway 199 meets Federal Highway 307).
 
 Find out more about [why FCDO advises against travel to these areas](/foreign-travel-advice/mexico/regional-risks).
+
+## World Cup 2026
+
+Mexico is co-hosting the 2026 World Cup which takes place between 11 June and 19 July.
+
+If you are planning to travel to Mexico during these times, see the [World Cup page](https://www.gov.uk/foreign-travel-advice/mexico/world-cup-2026) for more information.
 
 ## Before you travel
 

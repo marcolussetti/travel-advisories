@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   25 November 2025
+:   6 December 2025
 
 Updated:
-:   24 November 2025
+:   5 December 2025
 
 Latest update:
-:   New information about risks from volcano eruptions (‘Warnings and insurance’ page).
+:   FCDO now advises against all but essential travel within 5km of the town of Hawassa. FCDO continues to advise against all but essential travel and all travel to parts of Ethiopia ('Warnings and insurance' page).
 
-![](https://assets.publishing.service.gov.uk/media/691ed933513046b952c500e8/FCDO_TA_017_-_Ethiopia_Travel_Advice_Ed39_WEB.jpg)
+![](https://assets.publishing.service.gov.uk/media/6932cc9d4bedc0e762304142/FCDO__TA__017_-_Ethiopia_Travel_Advice_Ed40__WEB___1_.jpg)
 
 
-[Download a more detailed map (PDF, 814 KB)](https://assets.publishing.service.gov.uk/media/691ed934513046b952c500e9/FCDO_TA_017_-_Ethiopia_Travel_Advice_Ed39.pdf)
+[Download a more detailed map (PDF, 814 KB)](https://assets.publishing.service.gov.uk/media/6932cc9d4bedc0e762304143/FCDO__TA__017_-_Ethiopia_Travel_Advice_Ed40__1_.pdf)
 
 ## Areas where FCDO advises against travel
 
@@ -91,7 +91,7 @@ FCDO advises against all but essential travel to:
 
 FCDO advises against all travel to within 10km of the borders with South Sudan and Kenya including the shores of Lake Turkana.
 
-FCDO advises against all but essential travel within 5km of the town of Jinka due to the Marburg outbreak.
+FCDO advises against all but essential travel within 5km of the towns of Jinka and Hawassa due to the Marburg outbreak.
 
 ### Benishangul-Gumuz region
 

@@ -129,6 +129,6 @@ Entry requirements](/foreign-travel-advice/canada/entry-requirements)
 
 [Next
 :
-Health](/foreign-travel-advice/canada/health)
+World Cup 2026](/foreign-travel-advice/canada/world-cup-2026)
 
 [View a printable version of the whole guide](/foreign-travel-advice/canada/print)

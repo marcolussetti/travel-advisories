@@ -283,6 +283,6 @@ Entry requirements](/foreign-travel-advice/mexico/entry-requirements)
 
 [Next
 :
-Regional risks](/foreign-travel-advice/mexico/regional-risks)
+World Cup 2026](/foreign-travel-advice/mexico/world-cup-2026)
 
 [View a printable version of the whole guide](/foreign-travel-advice/mexico/print)

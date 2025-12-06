@@ -1,11 +1,11 @@
 {
     "name": "Mexico",
-    "update_reason": "Removal of information about protests and demonstrations ('Warnings and insurance' page).",
+    "update_reason": "Information added about World Cup 2026 (\u2018Warnings and insurance\u2019 and \u2018World Cup 2026\u2019 pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Mexico/Warnings and insurance.md",
-            "update_date": "2025-11-25T14:51:55+00:00"
+            "update_date": "2025-12-05T16:06:08+00:00"
         },
         {
             "title": "Entry requirements",
@@ -16,6 +16,11 @@
             "title": "Safety and security",
             "url": "https://www.gov.uk/foreign-travel-advice/mexico/safety-and-security",
             "file": "unitedkingdom/Mexico/Safety and security.md"
+        },
+        {
+            "title": "World Cup 2026",
+            "url": "https://www.gov.uk/foreign-travel-advice/mexico/world-cup-2026",
+            "file": "unitedkingdom/Mexico/World Cup 2026.md"
         },
         {
             "title": "Regional risks",
@@ -33,5 +38,5 @@
             "file": "unitedkingdom/Mexico/Getting help.md"
         }
     ],
-    "update_date": "2025-11-25T14:51:55+00:00"
+    "update_date": "2025-12-05T16:06:08+00:00"
 }

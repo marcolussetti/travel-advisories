@@ -1,13 +1,19 @@
 # Warnings and insurance
 
 Still current at:
-:   17 September 2025
+:   6 December 2025
 
 Updated:
-:   16 September 2025
+:   5 December 2025
 
 Latest update:
-:   Updated information about wildfires in Canada (‘Safety and security’ page).
+:   Information added about World Cup 2026 (‘Warnings and insurance’ and ‘World Cup 2026’ pages).
+
+## World Cup 2026
+
+Canada is co-hosting the 2026 World Cup which takes place between 11 June and 19 July .
+
+If you are planning to travel to Canada during these times, see the [World Cup page](https://www.gov.uk/foreign-travel-advice/canada/world-cup-2026) for more information.
 
 ## Before you travel
 
