@@ -38,7 +38,7 @@ FCDO advises against all but essential travel to these areas in Khyber Pakhtunkh
 * Shangla
 * Swabi
 
-FCDO advises against travel to much of Khyber Pakhtunkhwa Province. There is frequent militant violence in the former Federally Administered Tribal Areas. Local authorities may impose curfews at short notice and there is frequent military activity. Cross-border attacks may occur in the surrounding areas ofe south and west of Chitral.
+FCDO advises against travel to much of Khyber Pakhtunkhwa Province. There is frequent militant violence in the former Federally Administered Tribal Areas. Local authorities may impose curfews at short notice and there is frequent military activity. Cross-border attacks may occur in the surrounding areas south and west of Chitral.
 
 ## N45 Highway between Mardan and Chitral
 

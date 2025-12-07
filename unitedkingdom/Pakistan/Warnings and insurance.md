@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   22 November 2025
+:   7 December 2025
 
 Updated:
-:   21 November 2025
+:   6 December 2025
 
 Latest update:
-:   FCDO now advises against all but essential travel to some areas of Khyber Pakhtunkhwa Province, Dera Ghazi Khan and to within 5 miles of the international border between Pakistan and India except the Grand Trunk highway to India via Wagah border and the Kartarpur Corridor. FCDO continues to advise against all travel and all but essential travel to parts of Pakistan. This travel advice has been reviewed with information included on crossing land borders ('Warnings and insurance' and 'Entry requirements' pages).
+:   Due to the security situation across Pakistan, we continue to advise British nationals to remain extra vigilant and to follow travel advice updates, particularly the guidance set out in the security section (‘Safety and Security’ pages).
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -74,6 +74,8 @@ FCDO advises against all but essential travel to all areas of Sindh Province nor
 FCDO advises against all but essential travel to Dera Ghazi Khan.
 
 Find out more about [why FCDO advises against travel to these regions](/foreign-travel-advice/pakistan/regional-risks).
+
+Due to the security situation across Pakistan, we continue to advise British nationals to remain extra vigilant and to follow travel advice updates, particularly the guidance set out in the security section [Safety and Security](/foreign-travel-advice/pakistan/safety-and-security).
 
 ## Before you travel
 
