@@ -40,7 +40,7 @@ The long-standing policy of the British government is to not make substantive co
 
 ## Political situation
 
-Demonstrations took place in Cotonou, Porto Novo, Parakou, Manigri and Tchaourou ahead of the presidential election in April 2021. Avoid all demonstrations, large crowds, political gatherings and rallies. In the event of unrest, monitor local media and follow instructions and announcements from the local authorities. Comply with any checks or security measures, including curfews. The authorities may introduce these at short notice.
+Political demonstrations and unrest can occur without warning. Benin experienced an attempted coup on 7 December. Avoid all demonstrations, large crowds, political gatherings and rallies. In the event of unrest, monitor local media and follow instructions and announcements from the local authorities. Comply with any checks or security measures, including curfews. The authorities may introduce these at short notice.
 
 ## Crime
 

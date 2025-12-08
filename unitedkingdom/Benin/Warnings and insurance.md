@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   3 June 2025
+:   8 December 2025
 
 Updated:
-:   2 June 2025
+:   7 December 2025
 
 Latest update:
-:   This travel advice was reviewed for style and accuracy.
+:   Update on the attempt coup (See ‘Political situation’ on the ‘Safety and security’ page)
 
 ![](https://assets.publishing.service.gov.uk/media/615dd0a28fa8f52986e61c0f/FCDO__TA__051_-_Benin_Travel_Advice_Ed1__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/615dd0658fa8f5297eda665a/FCDO__TA__051_-_Benin_Travel_Advice_Ed1.pdf)
+[Download a more detailed map (PDF, 350 KB)](https://assets.publishing.service.gov.uk/media/615dd0658fa8f5297eda665a/FCDO__TA__051_-_Benin_Travel_Advice_Ed1.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth and Development Office (FCDO).
 

@@ -30,7 +30,7 @@ FCDO has guidance on staying safe and what to do if you need help or support abr
 * finding English-speaking [lawyers](https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/lawyers?country=benin) in Benin
 * dealing with a [death in Benin](https://www.gov.uk/government/publications/benin-bereavement-death-abroad)
 * being [arrested or imprisoned in Benin](https://www.gov.uk/government/publications/benin-legal-and-prison-systems/information-pack-for-british-nationals-arrested-or-detained-in-benin)
-* getting help if you’re a [victim of crime](https://www.gov.uk/victim-crime-abroad)
+* getting help if you’re a [victim of crime](https://www.gov.uk/guidance/victim-of-crime-abroad)
 * what to do if you’re [in hospital](https://www.gov.uk/guidance/in-hospital-abroad)
 * if you’re [affected by a crisis](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas), such as a terrorist attack
 
