@@ -2,6 +2,21 @@
 
 ## Safety and security
 
+### Attempted coup
+
+On December 7, 2025, an attempted coup took place in Benin.
+
+The security situation in Cotonou and elsewhere in the country is tense and could deteriorate. Enhanced security measures could be put in place.
+
+There could be travel disruptions, including flight cancellations.
+
+If you are in Benin:
+
+* exercise caution and limit your movements
+* expect an increased presence of security forces
+* contact your airline to confirm your flight status
+* monitor local and international media regularly to stay informed of the evolving situation
+
 ### Border areas with Burkina Faso, Niger and Nigeria
 
 Armed groups operate along the borders with Burkina Faso, Niger and Nigeria, including in national parks, in the departments of Atacora, Alibori and Borgou, as well as the area north of National Highway 7. Attacks and kidnappings occur in these areas.
