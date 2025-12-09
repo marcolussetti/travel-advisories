@@ -282,11 +282,25 @@ High-risk travellers include those visiting or working in prisons, refugee camps
 
 ### Medical services and facilities
 
-Medical facilities are limited in Niamey and inadequate outside the capital. Emergency and ambulance services are very limited. In the event of a serious illness or accident, you’ll need medical evacuation.
+Medical facilities and services are limited and do not meet Canadian standards, including in Niamey.
+
+Medical supplies may also be limited. A deposit or advance payment is often required before care is provided.
+
+Medical evacuation can be very expensive, and you may need it in case of serious illness or injury.
 
 Make sure you get travel insurance that includes coverage for medical evacuation and hospital stays.
 
 [Health and safety outside Canada](https://travel.gc.ca/travelling/health-safety)
+
+### Medication
+
+Some prescription medications may not be available in Niger.
+
+If you take prescription medications, you’re responsible for determining their legality in the country.
+
+* Bring enough medication for your stay
+* Always keep your medication in the original container and carry a copy of your prescriptions
+* Pack your medication in your carry-on luggage
 
 ### Keep in Mind...
 

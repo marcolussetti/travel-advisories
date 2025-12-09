@@ -2,9 +2,11 @@
 
 ## Risk level
 
-### Tanzania - Exercise a high degree of caution
+### TANZANIA - AVOID NON-ESSENTIAL TRAVEL
 
-[Exercise a high degree of caution](#levels "Risk Levels") in Tanzania due to crime levels and the threat of terrorism.
+[Avoid non-essential travel](#levels "Risk Levels") to Tanzania due to civil unrest, movement restrictions, and possible transportation and telecommunications disruptions.
+
+If you are in Tanzania, limit your movements, register or update your personal information through the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service and encourage other Canadian citizens in Tanzania to do so.
 
 ### Border with Mozambique in Mtwara Region - Avoid all travel
 

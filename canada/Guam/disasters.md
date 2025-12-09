@@ -2,6 +2,15 @@
 
 ## Natural disasters and climate
 
+A tsunami threat is in effect for Guam.
+
+If you’re in or around the affected areas:
+
+* follow the instructions of local authorities
+* monitor local news for information on the tsunami’s progress
+
+[Tsunami threat](http://www.tsunami.gov/ "http://www.tsunami.gov/") – U.S. Tsunami Warning System
+
 ### Climate change
 
 Climate change is affecting Guam. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local media for the latest information.

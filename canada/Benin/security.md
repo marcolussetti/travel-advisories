@@ -4,15 +4,11 @@
 
 ### Attempted coup
 
-On December 7, 2025, an attempted coup took place in Benin.
-
-The security situation in Cotonou and elsewhere in the country is tense and could deteriorate. Enhanced security measures could be put in place.
-
-There could be travel disruptions, including flight cancellations.
+On December 7, 2025, an attempted coup failed in Benin. Local authorities reinforced security measures, particularly in Cotonou.
 
 If you are in Benin:
 
-* exercise caution and limit your movements
+* exercise caution
 * expect an increased presence of security forces
 * contact your airline to confirm your flight status
 * monitor local and international media regularly to stay informed of the evolving situation

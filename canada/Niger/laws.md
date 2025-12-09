@@ -6,6 +6,16 @@ You must abide by local laws.
 
 Learn about what you should do and how we can help if you are [arrested or detained abroad](http://travel.gc.ca/assistance/emergency-info/arrest-detention).
 
+### Drugs
+
+Penalties for possession, use or trafficking of illegal drugs are severe. Convicted offenders can expect prison sentences of up to 10 years and heavy fines.
+
+#### Alcohol
+
+Outside of Ramadan, Niger’s laws and customs tolerate alcohol consumption.
+
+[Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
+
 ### Dual citizenship
 
 Dual citizenship is not legally recognized in Niger.
@@ -37,60 +47,41 @@ Be aware that Canadian consular officials cannot interfere in private legal matt
 
 ### Death penalty
 
-The death penalty applies to serious crimes such as murder.
+The death penalty is prescribed by law for serious crimes; however, a moratorium has been in place since 1976.
 
-### Drugs
+### Identification
 
-Penalties for possession, use or trafficking of illegal drugs are severe. Convicted offenders can expect heavy fines and lengthy jail sentences.
+Local authorities may request to see your identification at any time.
 
-#### Alcohol
-
-Outside of the month-long observance of Ramadan, Niger’s laws and customs tolerate alcohol consumption.
-
-[Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
+* Always carry valid identification
+* Keep a photocopy of your passport and visa or travel permit in a safe place in case it’s lost or seized
+* Keep a digital copy of your identification and travel documents
 
 ### Photography
 
-It’s illegal to photograph military zones, military installations, diplomatic premises, radio and television stations, airports, and the presidential palace and Kennedy Bridge in Niamey.
+Photography of sensitive installations is prohibited. This includes:
+
+* airports and ports
+* radio and television stations
+* bridges, including the Kennedy Bridge in Niamey
+* military sites
+* government buildings
+* the presidential palace
+* diplomatic premises;
 
 Don’t photograph political or student demonstrations, or military personnel.
 
-If you’re unsure, seek permission from local authorities before taking any photograph.
-
-Always seek permission before photographing a local.
+Always seek permission before photographing a person.
 
 ### Driving
 
-You must carry an International Driving Permit.
+You must carry an International Driving Permit along your valid Canadian driver’s licence. The minimum age for driving a car is 23. The legal blood alcohol limit is 0.00%.
+
+If you are involved in a traffic accident, stay at the scene and do not move your vehicle until the police have made a report. However, if you feel threatened by a hostile crowd, stay in your vehicle and go to the nearest police station to report the accident.
 
 [International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
 
-#### Driving rules
-
-Drivers must not turn on their headlights during daylight hours.
-
-You must pull over for:
-
-* official motorcades or military convoys with headlights on
-* public emergency vehicles with sirens on
-* funeral processions
-
-#### Accidents
-
-If you’re involved in a serious accident, don’t move your vehicle before the police arrive.
-
-### Working in Niger
-
-Employees and volunteers with non-governmental organizations must register with the Government of Niger and inform the authorities of their plans before starting any work. Failure to fulfil these requirements can result in detention and/or expulsion from Niger.
-
-### Dress and behaviour
-
-Niger’s customs, laws and regulations adhere closely to Islamic practices and beliefs. To avoid offending local sensitivities:
-
-* dress conservatively
-* cover your arms and legs in public
-* behave discreetly
-* respect religious and social traditions
+### Ramadan
 
 In 2026, the lunar month of Ramadan is expected to begin on or around February 17.
 
@@ -100,20 +91,24 @@ In public, between sunrise and sunset, refrain from:
 * eating
 * smoking
 
-### 2SLGBTQI+ persons
+### Dress and behaviour
 
-Although the laws of Niger do not prohibit sexual acts between individuals of the same sex, homosexuality is not socially tolerated. 2SLGBTQI+ persons could face arrest under other charges, such as committing “unnatural acts.”
+Niger’s customs, laws and regulations are inspired by Islamic practices and beliefs.
 
-2SLGBTQI+ travellers should carefully consider the risks of travelling to Niger.
+Public displays of affection, including holding hands or kissing, are not socially acceptable.
 
-[Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
+Foreign women are generally not required to cover their heads with a veil. However, clothing that is too short or tight-fitting is considered inappropriate.
+
+To avoid offending local sensitivities:
+
+* dress conservatively
+* behave discreetly
+* respect religious and social traditions
 
 ### Money
 
-The currency in Niger is the African Financial Community franc (CFA).
+The currency in Niger is the African Financial Community franc (FCFA).
 
-There are no ATMs in Niger.
+Niger has a cash-based economy. There are no ATMs, and credit cards are only accepted in a few large hotels and restaurants.
 
-Few businesses, including major hotels and restaurants, accept credit cards.
-
-Only change money at a reputable exchange bureau. Foreign currency exchange over 1 million CFA requires authorization from the Ministry of Finance. Forms are available from all major banks.
+Exchange money only at a reputable bureaus. Foreign currency exchange over 1 million CFA requires authorization from the Ministry of Finance. The authorization can be obtained from all major banks.

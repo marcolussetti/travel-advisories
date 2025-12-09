@@ -46,7 +46,11 @@ Tourist visa: required 
 Business visa: required  
 Student visa: required
 
-You must obtain a visa prior you travel to Niger.
+You must obtain a visa prior to your travel to Niger.
+
+### Other requirements
+
+Employees and volunteers of non-governmental organizations must register with the Nigerien authorities and inform them of the nature of their activities before beginning work, under penalty of detention or expulsion.
 
 ### Children and travel
 
