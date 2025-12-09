@@ -1,13 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   29 October 2025
+:   9 December 2025
 
 Updated:
-:   28 October 2025
+:   9 December 2025
 
 Latest update:
-:   Addition of information about bear sightings and attacks in Japan (see 'Wildlife' on the 'Safety and security' page).
+:   Updated information following a 7.5 magnitude earthquake off the coast of Aomori prefecture (‘Warnings and insurance’ page).
+
+## Earthquake and tsunami advisories
+
+All tsunami advisories have been lifted following a 7.5 magnitude earthquake off Aomori prefecture on 8 December. However, the Japan Meteorological Agency has warned of the possibility of another follow-up large-scale earthquake over the next 7 days. Please follow the advice of local authorities. For further information in English, please access the [NHK website](https://www3.nhk.or.jp/nhkworld/en/news/).
 
 ## Before you travel
 

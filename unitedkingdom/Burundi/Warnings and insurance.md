@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   15 August 2025
+:   9 December 2025
 
 Updated:
-:   14 August 2025
+:   8 December 2025
 
 Latest update:
-:   Updated with information about the risks from terrorism (‘Safety and security’ page’).
+:   Updated information on increased armed group activity and conflict on the border between Burundi and DRC (‘Warning and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/67f055b1cb0feef57df7e5dd/Annex_B_FCDO__TA__007_-_Burundi_Travel_Advice_Ed5__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/67f055b127eb76c92cf7e5e2/Annex_B_FCDO__TA__007_-_Burundi_Travel_Advice_Ed5.pdf)
+[Download a more detailed map (PDF, 612 KB)](https://assets.publishing.service.gov.uk/media/67f055b127eb76c92cf7e5e2/Annex_B_FCDO__TA__007_-_Burundi_Travel_Advice_Ed5.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -42,9 +42,12 @@ Find out more about [why FCDO advises against travel](/foreign-travel-advice/bur
 
 ## Burundi-DRC border
 
-Risks associated with the closeness of potential fighting in Democratic Republic of Congo (DRC) and the movement of military and refugees may affect people on the Burundian side of the border, in Cibitoke, Bubanza and Bujumbura Rural provinces. The security situation in DRC near to Burundi’s border is unstable (see [Democratic Republic of the Congo’s travel advice](https://www.gov.uk/foreign-travel-advice/democratic-republic-of-the-congo) for more information). Keep up to date with developments through local media.
+Armed group activity and conflict along the border between Burundi and DRC has increased. Be cautious and keep up to date with developments through local media, given heightened insecurity.
 
-The only international airport in Burundi is the Melchior Ndadaye airport.  In the event that flights were not available at the airport, there are currently limited land border options to exit Burundi.  The DRC border area is unstable and the Rwandan border is closed.  The Tanzania-Burundi border continues to operate normally, although transport options may be limited by the ongoing fuel shortages.
+Armed group activity and the movement of military and refugees in Democratic Republic of Congo (DRC) could affect people on the Burundian side of the border, in Cibitoke, Bubanza and Bujumbura Rural provinces. The security situation in DRC near to Burundi’s border is unstable (see [Democratic Republic of the Congo’s travel advice](https://www.gov.uk/foreign-travel-advice/democratic-republic-of-the-congo) for more information).
+
+The only international airport in Burundi is the Melchior Ndadaye airport. In the event that flights were not available at the airport, there
+are currently limited land border options to exit Burundi. The DRC border area is unstable and the Rwandan border is closed. The Tanzania-Burundi border continues to operate normally, although transport options may be limited by the ongoing fuel shortages.
 
 ## Before you travel
 

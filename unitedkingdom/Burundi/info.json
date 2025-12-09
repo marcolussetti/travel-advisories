@@ -1,11 +1,11 @@
 {
     "name": "Burundi",
-    "update_reason": "Updated with information about the risks from terrorism (\u2018Safety and security\u2019 page\u2019).",
+    "update_reason": "Updated information on increased armed group activity and conflict on the border between Burundi and DRC (\u2018Warning and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Burundi/Warnings and insurance.md",
-            "update_date": "2025-08-14T12:01:50+01:00"
+            "update_date": "2025-12-08T14:23:32+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Burundi/Getting help.md"
         }
     ],
-    "update_date": "2025-08-14T12:01:50+01:00"
+    "update_date": "2025-12-08T14:23:32+00:00"
 }

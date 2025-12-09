@@ -1,11 +1,11 @@
 {
     "name": "Japan",
-    "update_reason": "Addition of information about bear sightings and attacks in Japan (see 'Wildlife' on the 'Safety and security' page).",
+    "update_reason": "Updated information following a 7.5 magnitude earthquake off the coast of Aomori prefecture (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Japan/Warnings and insurance.md",
-            "update_date": "2025-10-28T11:43:50+00:00"
+            "update_date": "2025-12-09T02:11:42+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Japan/Getting help.md"
         }
     ],
-    "update_date": "2025-10-28T11:43:50+00:00"
+    "update_date": "2025-12-09T02:11:42+00:00"
 }
