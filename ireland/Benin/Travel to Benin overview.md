@@ -6,6 +6,10 @@ High Degree of Caution
 
 ### **Travel Alert**
 
+Benin experienced an attempted coup on 7 December, resulting in reports of gunfire, road closures and military activity in Cotonou. Land borders are closed and operations at Cotonou International Airport are restricted. Local phone and internet service may be degraded or unavailable.
+
+Irish citizens are advised to be vigilant and avoid all demonstrations, large crowds, political gatherings and rallies. In the event of unrest, monitor local media and follow instructions and announcements from the local authorities. Comply with any checks or security measures, including curfews, which may be introduced by authorities at short notice.
+
 There is an increased risk of terrorism in the northern regions along the border with Burkina Faso and Niger. We advise against all travel to this region, including Parc du W, the hunting zones of Mékrou and Djona, Pendjari National Park and areas within 5km of the Burkinabé border.
 
 We advise against all but essential travel to the area between the Interstate Highway (RNIE) 2 from Tchaourou to Malanville and the Benin-Nigeria border, due to increasing criminality.
