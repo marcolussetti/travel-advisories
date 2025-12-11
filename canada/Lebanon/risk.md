@@ -2,7 +2,7 @@
 
 ## Risk level
 
-### Lebanon - AVOID NON-ESSENTIAL TRAVEL
+### LEBANON - AVOID NON-ESSENTIAL TRAVEL
 
 [Avoid non-essential travel](#levels "Risk Levels") to Lebanon due to ongoing tensions in the region, the unpredictable security situation, the continued risk of terrorist attacks and the conflict with Israel.
 

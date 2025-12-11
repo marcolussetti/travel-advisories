@@ -2,7 +2,7 @@
 
 ## Risk level
 
-### Haiti - Avoid all travel
+### HAITI - AVOID ALL TRAVEL
 
 [Avoid all travel](#levels "Risk Levels") to Haiti due to the threat posed by kidnappings, gang violence and the potential for civil unrest throughout the country.
 

@@ -10,14 +10,16 @@ Verify the status of border crossings ahead of time.
 
 ### Tensions in the Middle East
 
-There are ongoing tensions in the region. Hostilities could resume with little or no warning. During previous attacks, missiles, drones and other projectiles have struck targets in Israel and Palestine.
+There are ongoing tensions in the region. Hostilities could resume with little or no warning and lead to missile, drone and other projectile strikes in Israel and Palestine, as it occurred during previous attacks.
 
-Ben Gurion International Airport is open to commercial flights. However, ongoing tensions could result in:
+Ben Gurion International Airport is open to commercial flights. However, a significant resumption of tensions could result in:
 
-* travel disruptions, including flight cancellations and airspace closures
+* travel disruptions, including widespread and sudden flight cancellations and airspace closures
 * military debris falling in various locations.
 
-Land border crossings with Jordan and Egypt remain open. For West Bank ID holders, the Allenby/King Hussein bridge near Jericho is the only available exit option. You must obtain a visa in advance before crossing.
+Land border crossings with Jordan and Egypt remain open, but could be impacted at short notice. For West Bank ID holders, the Allenby/King Hussein bridge near Jericho is the only available exit option. You must obtain a visa in advance before crossing.
+
+Our ability to provide consular services to Canadians during an active conflict is likely to be limited.
 
 You should:
 

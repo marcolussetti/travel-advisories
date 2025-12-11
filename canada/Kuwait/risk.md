@@ -2,7 +2,7 @@
 
 ## Risk level
 
-### KUWAIT - Exercise a high degree of caution
+### Kuwait - Exercise a high degree of caution
 
 [Exercise a high degree of caution](#levels "Risk Levels") in Kuwait due to ongoing tensions in the region and the threat of terrorism.
 

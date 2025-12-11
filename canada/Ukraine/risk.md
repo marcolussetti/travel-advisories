@@ -2,7 +2,7 @@
 
 ## Risk level
 
-### Ukraine - AVOID ALL TRAVEL
+### UKRAINE - AVOID ALL TRAVEL
 
 [Avoid all travel](#levels "Risk Levels") to Ukraine due to the Russian military invasion. Your safety is at high risk, particularly if you engage in active combat.
 

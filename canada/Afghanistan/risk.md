@@ -2,7 +2,7 @@
 
 ## Risk level
 
-### Afghanistan - AVOID ALL TRAVEL
+### AFGHANISTAN - AVOID ALL TRAVEL
 
 [Avoid all travel](#levels "Risk Levels") to Afghanistan due to the volatile security situation, terrorist attacks, ongoing armed conflict, the risk of kidnapping, arbitrary arrest and detention, the high crime rate, and widespread violations of human rights by the de facto authorities.
 

@@ -2,7 +2,7 @@
 
 ## Risk level
 
-### PHILIPPINES - Exercise a high degree of caution
+### Philippines - Exercise a high degree of caution
 
 [Exercise a high degree of caution](#levels "Risk Levels") in the Philippines due to crime, terrorism and kidnapping.
 

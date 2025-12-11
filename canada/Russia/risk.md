@@ -2,7 +2,7 @@
 
 ## Risk level
 
-### Russia - AVOID ALL TRAVEL
+### RUSSIA - AVOID ALL TRAVEL
 
 [Avoid all travel](#levels "Risk Levels") to Russia due to the impacts of the armed conflict with Ukraine and the risk of terrorism.
 

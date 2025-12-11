@@ -2,7 +2,7 @@
 
 ## Risk level
 
-### Mauritania - AVOID NON-ESSENTIAL TRAVEL
+### MAURITANIA - AVOID NON-ESSENTIAL TRAVEL
 
 [Avoid non-essential travel](#levels "Risk Levels") to Mauritania due to the threat of terrorism, particularly against Western interests.
 

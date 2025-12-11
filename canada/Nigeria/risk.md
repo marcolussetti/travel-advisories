@@ -2,7 +2,7 @@
 
 ## Risk level
 
-### Nigeria - AVOID NON-ESSENTIAL TRAVEL
+### NIGERIA - AVOID NON-ESSENTIAL TRAVEL
 
 [Avoid non-essential travel](#levels "Risk Levels") to Nigeria, including in Abuja, due to the unpredictable security situation throughout the country and the significant risk of terrorism, crime, inter-communal clashes, armed attacks and kidnappings.
 

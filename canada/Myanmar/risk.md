@@ -2,7 +2,7 @@
 
 ## Risk level
 
-### Myanmar - AVOID ALL TRAVEL
+### MYANMAR - AVOID ALL TRAVEL
 
 [Avoid all travel](#levels "Risk Levels") to Myanmar due to the risk of:
 

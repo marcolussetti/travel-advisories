@@ -4,7 +4,7 @@
 
 ### Security situation in Bujumbura Mairie Province
 
-The security situation in Bujumbura Mairie Province is volatile and unpredictable due to the ongoing conflict in the Democratic Republic of Congo.
+The security situation in Bujumbura Mairie Province is volatile and unpredictable due to the ongoing conflict in the Democratic Republic of the Congo.
 
 The security situation could deteriorate rapidly and without warning.
 
@@ -15,7 +15,7 @@ If you are in Bujumbura Mairie Province or the surrounding area:
 
 ### Bubanza and Cibitoke provinces
 
-Border security is a concern in the provinces of Bubanza and Cibitoke due to the various violent clashes in eastern Democratic Republic of Congo and occasional cross-border movement by armed groups.
+Border security is a concern in the provinces of Bubanza and Cibitoke due to the various violent clashes in eastern Democratic Republic of the Congo and occasional cross-border movement by armed groups.
 
 Banditry, small arms trafficking, kidnappings and attacks on civilians by former soldiers, rebels and youth gangs occur.
 

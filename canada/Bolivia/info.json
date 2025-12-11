@@ -1,7 +1,7 @@
 {
     "name": "Bolivia",
-    "update_reason": "The Need help? section was updated.",
-    "update_date": "2025-12-09T13:53:00",
+    "update_reason": "Editorial change",
+    "update_date": "2025-12-10T11:18:00",
     "sections": {
         "risk": "canada/Bolivia/risk.md",
         "security": "canada/Bolivia/security.md",

@@ -26,6 +26,6 @@
 + Abbottabad
 + Chitral
 
-### Karachi - AVOID NON-ESSENTIAL TRAVEL
+### Karachi - Avoid non-essential travel
 
-[Avoid non-essential travel](#levels "Risk Levels") to the city of Karachi, due to violence and the risk of terrorism..
+[Avoid non-essential travel](#levels "Risk Levels") to the city of Karachi, due to violence and the risk of terrorism.

@@ -2,7 +2,7 @@
 
 ## Risk level
 
-### MALAYSIA - Take normal security precautions
+### Malaysia - Take normal security precautions
 
 [Take normal security precautions](#levels "Risk Levels") in Malaysia.
 

@@ -2,7 +2,7 @@
 
 ## Risk level
 
-### LAOS - Exercise a high degree of caution
+### Laos - Exercise a high degree of caution
 
 [Exercise a high degree of caution](#levels "Risk Levels") in Laos due to ongoing security concerns related to banditry, crime, spiked food and drinks, and unexploded munitions.
 

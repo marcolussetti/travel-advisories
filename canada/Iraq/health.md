@@ -31,36 +31,6 @@ There is a risk of [hepatitis A](https://www.canada.ca/en/public-health/services
 
 Practise [safe food and water precautions](https://travel.gc.ca/travelling/health-safety/food-water) and wash your hands often. Vaccination is recommended for all travellers to areas where hepatitis A is present.
 
-Measles 
-
-Measles is a serious viral infection that spreads easily. It spreads through the air, and can stay in the air for up to 2 hours. You can also get measles by direct contact with an infected person or by touching a surface with the virus on it and then touching your eyes, nose, or mouth before washing your hands.
-
-Getting vaccinated is the best way to protect yourself and others from measles. In Canada, the measles vaccine is part of the routine immunization schedule. If you’re unsure whether you’re protected, talk to a healthcare provider.
-
-**Learn more:**
-
-[Measles](https://www.canada.ca/en/public-health/services/diseases/measles.html)
-
-Hepatitis B
-
-[Hepatitis B](https://www.canada.ca/en/public-health/services/diseases/hepatitis-b.html) is a risk in every destination. It is a viral liver disease that is easily transmitted from one person to another through exposure to blood and body fluids containing the hepatitis B virus.  Travellers who may be exposed to blood or other bodily fluids (e.g., through sexual contact, medical treatment, sharing needles, tattooing, acupuncture or occupational exposure) are at higher risk of getting hepatitis B.
-
-Hepatitis B vaccination is recommended for all travellers. [Prevent hepatitis B](https://www.canada.ca/en/public-health/services/diseases/hepatitis-b/prevention-risks.html#a2) infection by practicing safe sex, only using new and sterile drug equipment, and only getting tattoos and piercings in settings that follow public health regulations and standards.
-
-Influenza
-
- The best way to protect yourself from seasonal [influenza](https://www.canada.ca/en/public-health/services/diseases/flu-influenza.html) (flu) is to get vaccinated every year. [Get the flu shot](https://www.canada.ca/en/public-health/services/diseases/flu-influenza/get-your-flu-shot.html) at least 2 weeks before travelling.
-
- The flu occurs worldwide.
-
-* In the Northern Hemisphere, the flu season usually runs from November to   April.
-* In the Southern Hemisphere, the flu season usually runs between April and   October.
-* In the tropics, there is flu activity year round.
-
-The flu vaccine available in one hemisphere may only offer partial protection against the flu in the other hemisphere.
-
-The flu virus spreads from person to person when they cough or sneeze or by touching objects and surfaces that have been contaminated with the virus. Clean your hands often and wear a mask if you have a fever or respiratory symptoms.
-
 Yellow Fever - Country Entry Requirements 
 
 [Yellow fever](https://www.canada.ca/en/public-health/services/diseases/yellow-fever.html) is a disease caused by a flavivirus from the bite of an infected mosquito.
@@ -92,6 +62,36 @@ In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/dise
 If you are bitten or scratched by a dog or other animal while travelling, immediately wash the wound with soap and clean water and see a health care professional. **In this destination, rabies treatment may be limited or may not be available, therefore you may need to return to Canada for treatment.**
 
 Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who are at high risk of exposure (e.g., occupational risk such as veterinarians and wildlife workers, children, adventure travellers and spelunkers, and others in close contact with animals).
+
+Measles 
+
+Measles is a serious viral infection that spreads easily. It spreads through the air, and can stay in the air for up to 2 hours. You can also get measles by direct contact with an infected person or by touching a surface with the virus on it and then touching your eyes, nose, or mouth before washing your hands.
+
+Getting vaccinated is the best way to protect yourself and others from measles. In Canada, the measles vaccine is part of the routine immunization schedule. If you’re unsure whether you’re protected, talk to a healthcare provider.
+
+**Learn more:**
+
+[Measles](https://www.canada.ca/en/public-health/services/diseases/measles.html)
+
+Hepatitis B
+
+[Hepatitis B](https://www.canada.ca/en/public-health/services/diseases/hepatitis-b.html) is a risk in every destination. It is a viral liver disease that is easily transmitted from one person to another through exposure to blood and body fluids containing the hepatitis B virus.  Travellers who may be exposed to blood or other bodily fluids (e.g., through sexual contact, medical treatment, sharing needles, tattooing, acupuncture or occupational exposure) are at higher risk of getting hepatitis B.
+
+Hepatitis B vaccination is recommended for all travellers. [Prevent hepatitis B](https://www.canada.ca/en/public-health/services/diseases/hepatitis-b/prevention-risks.html#a2) infection by practicing safe sex, only using new and sterile drug equipment, and only getting tattoos and piercings in settings that follow public health regulations and standards.
+
+Influenza
+
+ The best way to protect yourself from seasonal [influenza](https://www.canada.ca/en/public-health/services/diseases/flu-influenza.html) (flu) is to get vaccinated every year. [Get the flu shot](https://www.canada.ca/en/public-health/services/diseases/flu-influenza/get-your-flu-shot.html) at least 2 weeks before travelling.
+
+ The flu occurs worldwide.
+
+* In the Northern Hemisphere, the flu season usually runs from November to   April.
+* In the Southern Hemisphere, the flu season usually runs between April and   October.
+* In the tropics, there is flu activity year round.
+
+The flu vaccine available in one hemisphere may only offer partial protection against the flu in the other hemisphere.
+
+The flu virus spreads from person to person when they cough or sneeze or by touching objects and surfaces that have been contaminated with the virus. Clean your hands often and wear a mask if you have a fever or respiratory symptoms.
 
 COVID-19
 
@@ -160,17 +160,17 @@ To protect yourself from bites:
 [Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)  
 [Personal insect repellents](https://www.canada.ca/en/health-canada/services/about-pesticides/insect-repellents.html)
 
-Cutaneous and mucosal Leishmaniasis 
-
-Cutaneous and mucosal [leishmaniasis]( https://www.canada.ca/en/public-health/services/diseases/leishmaniasis.html) causes skin sores and ulcers. It is caused by a parasite spread through the bite of a female sandfly.
-
-Risk is generally low for most travellers. Protect yourself from sandfly bites, which typically occur after sunset in rural and forested areas and in some urban centres. There is no vaccine or medication to protect against leishmaniasis.
-
 Crimean-Congo haemorrhagic fever
 
 [Crimean-Congo haemorrhagic fever](http://www.who.int/mediacentre/factsheets/fs208/en/) is a viral disease that can cause fever, pain and bleeding under the skin.  In some cases, it can be fatal.  It spreads to humans through contact with infected animal blood or tissues, or from the bite of an infected tick.  Risk is generally low for most travellers. Celebrations which include the slaughtering of animals and contact with their blood and/ or tissues may increase the risk of exposure to the virus.
 
 Protect yourself from tick bites and wear gloves or other protective clothing if you are in contact with the blood and tissues of  animals, particularly livestock. There is no vaccine available for Crimean-Congo haemorrhagic fever.
+
+Cutaneous and mucosal Leishmaniasis 
+
+Cutaneous and mucosal [leishmaniasis]( https://www.canada.ca/en/public-health/services/diseases/leishmaniasis.html) causes skin sores and ulcers. It is caused by a parasite spread through the bite of a female sandfly.
+
+Risk is generally low for most travellers. Protect yourself from sandfly bites, which typically occur after sunset in rural and forested areas and in some urban centres. There is no vaccine or medication to protect against leishmaniasis.
 
 ### Animal precautions
 

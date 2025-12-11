@@ -2,7 +2,7 @@
 
 ## Risk level
 
-### Belarus - AVOID ALL TRAVEL
+### BELARUS - AVOID ALL TRAVEL
 
 [Avoid all travel](#levels "Risk Levels") to Belarus due to the risk of arbitrary enforcement of local laws and the armed conflict between Russia and Ukraine.
 

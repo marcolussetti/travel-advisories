@@ -2,7 +2,7 @@
 
 ## Risk level
 
-### TUNISIA - Exercise a high degree of caution
+### Tunisia - Exercise a high degree of caution
 
 [Exercise a high degree of caution](#levels "Risk Levels") in Tunisia due to the countrywide risk of terrorism.
 

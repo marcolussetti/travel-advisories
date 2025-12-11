@@ -2,9 +2,9 @@
 
 ## Risk level
 
-### ISRAEL - AVOID NON-ESSENTIAL TRAVEL
+### Israel - Exercise a high degree of caution
 
-[Avoid non-essential travel](#levels "Risk Levels") to Israel due to ongoing tensions in the region.
+[Exercise a high degree of caution](#levels "Risk Levels") in Israel due to ongoing tensions in the region.
 
 ### PALESTINE - AVOID ALL TRAVEL
 
